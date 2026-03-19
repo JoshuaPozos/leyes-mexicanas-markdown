@@ -24,15 +24,20 @@ Artículo reformado DOF 05-06-2012, 31-05-2019 ARTICULO 5o.- El Diario Oficial d
 Además de la edición electrónica, se imprimirá un ejemplar, con idénticas características y contenido, para efectos de evidencia documental física, así como para garantizar la publicación del Diario Oficial de la Federación en los casos en que resulte imposible por causas de fuerza mayor, acceder a su edición electrónica. El ejemplar impreso quedará en custodia en la hemeroteca del propio organismo.
 Adicionalmente se expedirán 6 copias certificadas que serán remitidas a las siguientes instituciones: la hemeroteca de la Universidad Nacional Autónoma de México, en el Archivo General de la Nación, en la Presidencia de la Mesa Directiva de la Cámara de Diputados, en la Presidencia de la Mesa Directiva del Senado de la República, en la Presidencia de la Suprema Corte de Justicia de la Nación y en la oficina de la Presidencia de la República. En caso de solicitarlo, los órganos con autonomía constitucional podrán así mismo contar con una copia certificada del ejemplar impreso del Diario Oficial de la Federación.
 Artículo reformado DOF 05-06-2012, 31-05-2019 ARTICULO 6o.- El Diario Oficial de la Federación deberá contener por lo menos los siguientes datos:
+
 I. El nombre Diario Oficial de la Federación, y la leyenda “Órgano del Gobierno Constitucional de los Estados Unidos Mexicanos”;
 II.- Fecha y número de publicación;
 Fracción reformada DOF 31-05-2019 III.- Índice de Contenido, y Fracción reformada DOF 31-05-2019 IV.- Firma de la autoridad responsable, ya sea electrónica en el caso de la versión digital y rúbrica en el ejemplar impreso de cada edición.
 Fracción adicionada DOF 31-05-2019 Artículo reformado DOF 05-06-2012 ARTICULO 7o.- El Diario Oficial de la Federación podrá ser publicado todos los días del año y, en caso de así requerirse, la autoridad podrá ordenar más de una edición por día.
 Artículo reformado DOF 05-06-2012 ARTICULO 7o. Bis.- Corresponde a la autoridad competente:
 I.- Difundir la edición electrónica del Diario Oficial de la Federación, el mismo día de su edición, salvo que ello resulte imposible por causas de fuerza mayor;
-Fracción reformada DOF 31-05-2019. Fe de erratas DOF 10-06-2019 II. Garantizar la autenticidad, integridad e inalterabilidad del Diario Oficial de la Federación que se publique en su dirección electrónica, a través de la firma electrónica avanzada;
+Fracción reformada DOF 31-05-2019. Fe de erratas DOF 10-06-2019
+
+II. Garantizar la autenticidad, integridad e inalterabilidad del Diario Oficial de la Federación que se publique en su dirección electrónica, a través de la firma electrónica avanzada;
 III.- Custodiar, conservar y preservar la edición electrónica e impresa del Diario Oficial de la Federación;
-Fracción reformada DOF 31-05-2019 IV. Velar por la accesibilidad de la edición electrónica, en los términos que determine la autoridad; y V.- Incorporar el desarrollo y la innovación tecnológica a los procesos de edición y difusión del Diario Oficial de la Federación.
+Fracción reformada DOF 31-05-2019
+
+IV. Velar por la accesibilidad de la edición electrónica, en los términos que determine la autoridad; y V.- Incorporar el desarrollo y la innovación tecnológica a los procesos de edición y difusión del Diario Oficial de la Federación.
 Fracción reformada DOF 31-05-2019 Artículo adicionado DOF 05-06-2012 ARTICULO 8o.- El acceso a la edición electrónica del Diario Oficial de la Federación será gratuito.
 La autoridad competente determinará las condiciones de acceso a la edición electrónica del Diario Oficial de la Federación y señalará los domicilios de las oficinas en las Entidades Federativas en las que se brindarán facilidades para la consulta del Diario Oficial de la Federación a las personas que no tengan posibilidad de acceder a tecnologías de la información y comunicación.
 Artículo reformado DOF 05-06-2012, 31-05-2019 ARTICULO 9o.- La autoridad competente podrá expedir copias certificadas de la edición impresa del Diario Oficial de la Federación. El costo de las mismas será el que se determine en la legislación aplicable.

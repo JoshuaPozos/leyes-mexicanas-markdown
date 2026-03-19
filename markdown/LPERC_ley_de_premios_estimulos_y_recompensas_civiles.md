@@ -35,7 +35,9 @@ CAPITULO II Premios y Preseas
 Párrafo reformado DOF 15-06-2004 I.- Condecoración Miguel Hidalgo;
 II.- Orden Mexicana del Aguila Azteca;
 II Bis.- De Ciencias, "José Mario Molina Pasquel y Henríquez";
-Fracción adicionada DOF 17-12-2015. Reformada DOF 10-05-2022 III. De Artes y Literatura;
+Fracción adicionada DOF 17-12-2015. Reformada DOF 10-05-2022
+
+III. De Artes y Literatura;
 Fracción reformada DOF 17-12-2015 III-Bis.- De Demografía.
 Fracción adicionada DOF 18-11-1986 IV.- de Demografía;
 Fracción reformada DOF 07-03-2003 Nota: El decreto publicado en el Diario Oficial de la Federación el 7 de marzo de 2003 reformó la fracción IV del artículo 6 para quedar como “IV.- de Demografía;”.
@@ -54,7 +56,9 @@ Fracción adicionada DOF 07-03-2003 XIII.- De Trabajo y Cultura Indígena.
 Fracción adicionada DOF 15-06-2004 XIV.- De Derechos Humanos.
 Fracción adicionada DOF 15-06-2004 XV.- Al Mérito Ecológico;
 Fracción adicionada DOF 15-06-2004. Reformada DOF 10-05-2022 XVI.- De Seguridad Pública.
-Fracción adicionada DOF 15-06-2004 XVII. Premio Nacional de la Cerámica.
+Fracción adicionada DOF 15-06-2004
+
+XVII. Premio Nacional de la Cerámica.
 Fracción adicionada DOF 30-06-2006 XVIII.- De Cultura Contributiva.
 Fracción adicionada DOF 27-01-2015 La misma persona puede recibir dos o más premios distintos, pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un solo concepto si éste no se divide en campos, a excepción del Premio Nacional de la Cerámica, el cual podrá otorgarse a una misma persona las veces que lo amerite, considerando su desempeño, virtud, actuación y trayectoria.
 Párrafo reformado DOF 11-10-2004, 30-06-2006, 14-12-2011
@@ -185,10 +189,26 @@ Artículo reformado DOF 17-12-2015
 
 ### Artículo 36
 .- La Condecoración "Miguel Hidalgo" constará de cuatro grados y las siguientes preseas:
-I.- Collar: a) Por actos heroicos de difícil repetición, si quien los lleva a cabo ha observado conducta ejemplar; b) Por servicios prestados a la Patria o a la Humanidad, cuando sean de trascendencia extraordinariamente benéfica.
-II.- Cruz: a) Por méritos eminentes; b) Por conducta destacadamente ejemplar; c) Por los casos previstos en la fracción anterior, cuando no alcancen las características en ella previstas, siempre que tengan suficiente relevancia.
-III.- Banda a) Por méritos distinguidos; b) Por conducta cuya ejemplaridad convenga hacerla del conocimiento público.
-IV.- Placa: a) Por méritos que no alcancen la relevancia prevista en las fracciones anteriores.
+I.- Collar:
+
+a) Por actos heroicos de difícil repetición, si quien los lleva a cabo ha observado conducta ejemplar;
+
+b) Por servicios prestados a la Patria o a la Humanidad, cuando sean de trascendencia extraordinariamente benéfica.
+II.- Cruz:
+
+a) Por méritos eminentes;
+
+b) Por conducta destacadamente ejemplar;
+
+c) Por los casos previstos en la fracción anterior, cuando no alcancen las características en ella previstas, siempre que tengan suficiente relevancia.
+III.- Banda
+
+a) Por méritos distinguidos;
+
+b) Por conducta cuya ejemplaridad convenga hacerla del conocimiento público.
+IV.- Placa:
+
+a) Por méritos que no alcancen la relevancia prevista en las fracciones anteriores.
 
 ### Artículo 37
 .- El Consejo de Premiación podrá proponer al Presidente de la República que los premios de que trata este Capítulo, se acompañen de entregas en numerario o en especie, cuya cuantía o naturaleza determine el propio Consejo.
@@ -208,12 +228,26 @@ Artículo reformado DOF 01-06-2011
 
 ### Artículo 41
 .- La Orden Mexicana del Águila Azteca se otorgará en los grados de:
-Párrafo reformado DOF 01-06-2011 I. Collar, a jefes de estado;
-Fracción reformada DOF 01-06-2011 II. Se deroga;
-Fracción derogada DOF 01-06-2011 III. Banda en Categoría Especial, a jefes de gobierno, a príncipes herederos, consortes de jefes de Estado y personas cuya categoría equivalga a las citadas;
-Fracción reformada DOF 01-06-2011 IV. Banda, a ministros o secretarios de estado, miembros de familias reales, embajadores o personas cuya categoría equivalga a las citadas;
-Fracción reformada DOF 01-06-2011 V. Placa, a subsecretarios o viceministros de Estado, a encargados de negocios ad hoc, cónsules generales, generales brigadieres, contralmirantes, vicealmirantes, así como aquellos cuya categoría equivalga a las citadas;
-Fracción reformada DOF 01-06-2011 VI. Venera, a ministros residentes, encargados de negocios titulares, coroneles y tenientes coroneles, capitanes de navío, fragata o corbeta, así como a aquellos cuya categoría equivalga a las citadas, y Fracción reformada DOF 01-06-2011 VII. Insignia, a consejeros, primeros, segundos y terceros secretarios de Embajada, capitanes, tenientes de navío, a aquellos cuya categoría equivalga a los citados y a los demás casos que el Consejo estime pertinente.
+Párrafo reformado DOF 01-06-2011
+
+I. Collar, a jefes de estado;
+Fracción reformada DOF 01-06-2011
+
+II. Se deroga;
+Fracción derogada DOF 01-06-2011
+
+III. Banda en Categoría Especial, a jefes de gobierno, a príncipes herederos, consortes de jefes de Estado y personas cuya categoría equivalga a las citadas;
+Fracción reformada DOF 01-06-2011
+
+IV. Banda, a ministros o secretarios de estado, miembros de familias reales, embajadores o personas cuya categoría equivalga a las citadas;
+Fracción reformada DOF 01-06-2011
+
+V. Placa, a subsecretarios o viceministros de Estado, a encargados de negocios ad hoc, cónsules generales, generales brigadieres, contralmirantes, vicealmirantes, así como aquellos cuya categoría equivalga a las citadas;
+Fracción reformada DOF 01-06-2011
+
+VI. Venera, a ministros residentes, encargados de negocios titulares, coroneles y tenientes coroneles, capitanes de navío, fragata o corbeta, así como a aquellos cuya categoría equivalga a las citadas, y Fracción reformada DOF 01-06-2011
+
+VII. Insignia, a consejeros, primeros, segundos y terceros secretarios de Embajada, capitanes, tenientes de navío, a aquellos cuya categoría equivalga a los citados y a los demás casos que el Consejo estime pertinente.
 Fracción reformada DOF 01-06-2011
 
 ### Artículo 42
@@ -229,7 +263,11 @@ Premio Nacional de Ciencias, "José Mario Molina Pasquel y Henríquez" Denominac
 
 ### Artículo 44
 .- Habrá Premio Nacional de Ciencias, "José Mario Molina Pasquel y Henríquez" en cada uno de los siguientes campos:
-Párrafo reformado DOF 10-05-2022 I. Ciencias Físico-Matemáticas y Naturales, y II. Tecnología, Innovación y Diseño.
+Párrafo reformado DOF 10-05-2022
+
+I. Ciencias Físico-Matemáticas y Naturales, y
+
+II. Tecnología, Innovación y Diseño.
 Artículo reformado DOF 27-12-1983, 10-01-2012, 17-12-2015
 
 ### Artículo 45
@@ -263,9 +301,14 @@ Premio Nacional de Artes y Literatura Capítulo adicionado DOF 17-12-2015
 
 ### Artículo 51-A
 . Habrá Premio Nacional de Artes y Literatura en cada uno de los siguientes campos:
+
 I. Lingüística y Literatura;
+
 II. Bellas Artes;
-III. Historia, Ciencias Sociales y Filosofía, y IV. Artes y Tradiciones Populares.
+
+III. Historia, Ciencias Sociales y Filosofía, y
+
+IV. Artes y Tradiciones Populares.
 Artículo adicionado DOF 17-12-2015
 
 ### Artículo 51-B
@@ -320,9 +363,23 @@ Artículo adicionado DOF 18-11-1986. Reformado DOF 07-03-2003 (renumerado, antes
 Premio Nacional de Deportes Capítulo reformado DOF 07-03-2003 (renumerado, antes Capítulo VIII)
 
 ### Artículo 56
-. El Premio Nacional de Deportes se concederá a quienes por su actuación y desempeño hayan resaltado o sobresalido en el año que se califica dentro del ámbito deportivo, en cualquiera de las siguientes modalidades: a) En el deporte no profesional; b) En el deporte profesional; c) En el deporte paralímpico; d) Al entrenador;
-Fracción reformada DOF 06-01-2020 e) Al juez-arbitro;
-Fracción reformada DOF 06-01-2020 f) Por trayectoria destacada en el deporte mexicano, y Fracción adicionada DOF 06-01-2020 g) Por el fomento, la protección o el impulso de la práctica de los deportes.
+. El Premio Nacional de Deportes se concederá a quienes por su actuación y desempeño hayan resaltado o sobresalido en el año que se califica dentro del ámbito deportivo, en cualquiera de las siguientes modalidades:
+
+a) En el deporte no profesional;
+
+b) En el deporte profesional;
+
+c) En el deporte paralímpico;
+
+d) Al entrenador;
+Fracción reformada DOF 06-01-2020
+
+e) Al juez-arbitro;
+Fracción reformada DOF 06-01-2020
+
+f) Por trayectoria destacada en el deporte mexicano, y Fracción adicionada DOF 06-01-2020
+
+g) Por el fomento, la protección o el impulso de la práctica de los deportes.
 Fracción adicionada DOF 06-01-2020 Las modalidades previstas en los incisos a), c), d), e) y f) podrán hacerse acompañar de numerario cuyo monto será determinado por la Comisión Nacional de Cultura Física y Deporte. Para las modalidades previstas en los incisos b) y g) no se acompañará numerario alguno.
 Párrafo reformado DOF 06-01-2020 El otorgamiento del Premio Nacional de Deportes obtenido en grupo no será impedimento para ser premiado de manera individual, pero cuando se otorgue por segunda o más ocasiones a la misma persona, no se acompañará de numerario.
 El Premio Nacional de Deportes a que se refiere el inciso g), se otorgará a un solo aspirante de entre las asociaciones y sociedades deportivas, así como entes de promoción deportiva a que se refiere la Ley General de Cultura Física y Deporte.
@@ -548,12 +605,30 @@ Estímulos y Recompensas Capítulo reformado DOF 07-03-2003 (renumerado, antes C
 
 ### Artículo 92
 .- Los estímulos y recompensas se otorgarán a los servidores públicos seleccionados de entre aquéllos que prestan sus servicios en las dependencias y entidades cuyas relaciones laborales se rigen por el apartado "B" del artículo 123 Constitucional.
-Para el otorgamiento de los estímulos y recompensas a que se refiere el párrafo anterior, deberá seleccionarse de entre los servidores públicos a aquéllos que hayan realizado alguna de las siguientes acciones: a) Desempeño sobresaliente de las actividades encomendadas. b) Aportaciones destacadas en actividades relativas al programa de reforma administrativa. c) Elaboración de estudios e iniciativas que aporten notorios beneficios para el mejoramiento de la administración pública en general. d) Iniciativas valiosas o ejecución destacada en materia de técnica jurídica. e) Iniciativas valiosas o ejecución destacada en materia de financiamiento de proyectos o programas. f) Iniciativas valiosas o ejecución destacada en materia de sistemas de consumo, de mantenimiento de equipos, de aprovechamiento máximo de recursos humanos y materiales y otras aportaciones análogas. g) Estudios y labores de exploración, descubrimiento, invención o creación en los campos técnico o científico que redunden en notorios beneficios para la administración pública o para la nación.
+Para el otorgamiento de los estímulos y recompensas a que se refiere el párrafo anterior, deberá seleccionarse de entre los servidores públicos a aquéllos que hayan realizado alguna de las siguientes acciones:
+
+a) Desempeño sobresaliente de las actividades encomendadas.
+
+b) Aportaciones destacadas en actividades relativas al programa de reforma administrativa.
+
+c) Elaboración de estudios e iniciativas que aporten notorios beneficios para el mejoramiento de la administración pública en general.
+
+d) Iniciativas valiosas o ejecución destacada en materia de técnica jurídica.
+
+e) Iniciativas valiosas o ejecución destacada en materia de financiamiento de proyectos o programas.
+
+f) Iniciativas valiosas o ejecución destacada en materia de sistemas de consumo, de mantenimiento de equipos, de aprovechamiento máximo de recursos humanos y materiales y otras aportaciones análogas.
+
+g) Estudios y labores de exploración, descubrimiento, invención o creación en los campos técnico o científico que redunden en notorios beneficios para la administración pública o para la nación.
 Los empleados de confianza podrán participar en los casos establecidos en los incisos b) a g) del presente artículo.
 Artículo reformado DOF 15-01-1980
 
 ### Artículo 93
-.- Las recompensas consistirán en: a) La cantidad de veinticinco mil pesos para cada uno de los tres servidores públicos seleccionados en cada Dirección General o Unidad Administrativa equivalente. b) La cantidad de cincuenta mil pesos y diploma al que resulte elegido por cada dependencia o entidad.
+.- Las recompensas consistirán en:
+
+a) La cantidad de veinticinco mil pesos para cada uno de los tres servidores públicos seleccionados en cada Dirección General o Unidad Administrativa equivalente.
+
+b) La cantidad de cincuenta mil pesos y diploma al que resulte elegido por cada dependencia o entidad.
 Los estímulos consistirán en diez díaz de vacaciones extraordinarias para el servidor público que haya sido seleccionado en cada departamento o unidad administrativa equivalente, en las dependencias o entidades.
 Dichos estímulos y recompensas serán otorgadas por el titular en la fecha de abanderamiento del grupo que represente a la dependencia o entidad en la ceremonia del 20 de noviembre.
 Artículo reformado DOF 15-01-1980

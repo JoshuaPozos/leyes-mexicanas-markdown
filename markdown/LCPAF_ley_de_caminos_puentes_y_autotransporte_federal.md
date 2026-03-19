@@ -16,21 +16,51 @@ Artículo reformado DOF 25-10-2005
 
 ### Artículo 2o
 .- Para los efectos de esta Ley, se entenderá por:
-I. Caminos o carreteras: a) Los que entronquen con algún camino de país extranjero. b) Los que comuniquen a dos o más estados de la Federación; y c) Los que en su totalidad o en su mayor parte sean construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios.
+
+I. Caminos o carreteras:
+
+a) Los que entronquen con algún camino de país extranjero.
+
+b) Los que comuniquen a dos o más estados de la Federación; y
+
+c) Los que en su totalidad o en su mayor parte sean construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios.
+
 II. Carta de Porte: Es el título legal del contrato entre el remitente y la empresa y por su contenido se decidirán las cuestiones que se susciten con motivo del transporte de las cosas; contendrá las menciones que exige el Código de la materia y surtirá los efectos que en él se determinen;
+
 III. Derecho de vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación, cuya anchura y dimensiones fija la Secretaría, la cual no podrá ser inferior a 20 metros a cada lado del eje del camino. Tratándose de carreteras de dos cuerpos, se medirá a partir del eje de cada uno de ellos;
+
 IV. Paradores: instalaciones y construcciones adyacentes al derecho de vía de una carretera federal en las que se presten servicios de alojamiento, alimentación, servicios sanitarios, servicios a vehículos y comunicaciones, a las que se tiene acceso desde la carretera;
-V. Puentes: a) Nacionales: Los construidos por la Federación; con fondos federales o mediante concesión o permiso federales por particulares, estados o municipios en los caminos federales, o vías generales de comunicación; o para salvar obstáculos topográficos sin conectar con caminos de un país vecino, y b) Internacionales: Los construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios sobre las corrientes o vías generales de comunicación que formen parte de las líneas divisorias internacionales.
+
+V. Puentes:
+
+a) Nacionales: Los construidos por la Federación; con fondos federales o mediante concesión o permiso federales por particulares, estados o municipios en los caminos federales, o vías generales de comunicación; o para salvar obstáculos topográficos sin conectar con caminos de un país vecino, y
+
+b) Internacionales: Los construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios sobre las corrientes o vías generales de comunicación que formen parte de las líneas divisorias internacionales.
+
 VI. Secretaría: La Secretaría de Infraestructura, Comunicaciones y Transportes;
-Fracción reformada DOF 16-07-2025 VII. Servicios Auxiliares: Los que sin formar parte del autotransporte federal de pasajeros, turismo o carga, complementan su operación y explotación;
+Fracción reformada DOF 16-07-2025
+
+VII. Servicios Auxiliares: Los que sin formar parte del autotransporte federal de pasajeros, turismo o carga, complementan su operación y explotación;
+
 VIII. Servicio de autotransporte de carga: El porte de mercancías que se presta a terceros en caminos de jurisdicción federal;
+
 IX. Servicio de autotransporte de pasajeros: El que se presta en forma regular sujeto a horarios y frecuencias para la salida y llegada de vehículos;
+
 X. Servicio de autotransporte de turismo: el que se presta en forma no regular destinado al traslado de personas con fines recreativos, culturales y de esparcimiento hacia centros o zonas de interés;
+
 XI. Servicio de paquetería y mensajería: El porte de paquetes debidamente envueltos y rotulados o con embalaje que permita su traslado y que se presta a terceros en caminos de jurisdicción federal;
+
 XII. Terminales: Las instalaciones auxiliares al servicio del autotransporte de pasajeros, en donde se efectúa la salida y llegada de autobuses para el ascenso y descenso de viajeros, y tratándose de autotransporte de carga, en las que se efectúa la recepción, almacenamiento y despacho de mercancías, el acceso, estacionamiento y salida de los vehículos destinados a este servicio;
+
 XIII. Tránsito: La circulación que se realice en las vías generales de comunicación;
-Fracción adicionada DOF 25-10-2005 XIV. Transporte privado: Es el que efectúan las personas físicas o morales respecto de bienes propios o conexos de sus respectivas actividades, así como de personas vinculadas con los mismos fines, sin que por ello se genere un cobro;
-Fracción recorrida DOF 25-10-2005. Reformada DOF 21-05-2013 XV. Vehículo: Medio de transporte motorizado, incluidos los medios o remolques que arrastren; y Fracción adicionada DOF 21-05-2013 XVI. Vías generales de comunicación: Los caminos y puentes tal como se definen en el presente artículo.
+Fracción adicionada DOF 25-10-2005
+
+XIV. Transporte privado: Es el que efectúan las personas físicas o morales respecto de bienes propios o conexos de sus respectivas actividades, así como de personas vinculadas con los mismos fines, sin que por ello se genere un cobro;
+Fracción recorrida DOF 25-10-2005. Reformada DOF 21-05-2013
+
+XV. Vehículo: Medio de transporte motorizado, incluidos los medios o remolques que arrastren; y Fracción adicionada DOF 21-05-2013
+
+XVI. Vías generales de comunicación: Los caminos y puentes tal como se definen en el presente artículo.
 Fracción recorrida DOF 25-10-2005, 21-05-2013
 
 ### Artículo 3o
@@ -38,19 +68,33 @@ Fracción recorrida DOF 25-10-2005, 21-05-2013
 
 ### Artículo 4o
 .- A falta de disposición expresa en esta Ley o en sus reglamentos o en los tratados internacionales, se aplicarán:
+
 I. La Ley de Vías Generales de Comunicación; y Fracción reformada DOF 14-11-2025 CAPITULO II JURISDICCION Y COMPETENCIA
 
 ### Artículo 5o
 . Es de jurisdicción federal todo lo relacionado con los caminos, puentes, así como el tránsito y los servicios de autotransporte federal que en ellos operan y sus servicios auxiliares.
 Párrafo reformado DOF 25-10-2005 Corresponden a la Secretaría, sin perjuicio de las otorgadas a otras dependencias de la Administración Pública Federal las siguientes atribuciones:
+
 I. Planear, formular y conducir las políticas y programas para el desarrollo de los caminos, puentes, servicios de autotransporte federal y sus servicios auxiliares;
+
 II. Construir y conservar directamente caminos y puentes;
+
 III. Otorgar las concesiones y permisos a que se refiere esta Ley; vigilar su cumplimiento y resolver sobre su revocación o terminación en su caso;
+
 IV. Vigilar, verificar e inspeccionar que los caminos y puentes, así como los servicios de autotransporte y sus servicios auxiliares, cumplan con los aspectos técnicos y normativos correspondientes;
-Fracción reformada DOF 04-01-1999 V. Determinar las características y especificaciones técnicas de los caminos y puentes; así como actualizar y publicar cuando se requiera la clasificación carretera en el Diario Oficial de la Federación;
-Fracción reformada DOF 10-10-2016 VI. Expedir las normas oficiales mexicanas de caminos y puentes así como de vehículos de autotransporte y sus servicios auxiliares;
-VII. Derogada Fracción derogada DOF 04-01-1999 VIII. Establecer las bases generales de regulación tarifaria.
-Las motocicletas deberán pagar el 50 por ciento del peaje que paguen los automóviles, y Los permisionarios del servicio de autotransporte federal de pasajeros, con apego en la ley y en su normatividad interna, podrán ofrecer el 50 por ciento de descuento a estudiantes de educación media superior y superior, durante todo el año, y Párrafo adicionado DOF 15-11-2023 Fracción reformada DOF 18-05-2012 IX. Las demás que señalen otras disposiciones legales aplicables.
+Fracción reformada DOF 04-01-1999
+
+V. Determinar las características y especificaciones técnicas de los caminos y puentes; así como actualizar y publicar cuando se requiera la clasificación carretera en el Diario Oficial de la Federación;
+Fracción reformada DOF 10-10-2016
+
+VI. Expedir las normas oficiales mexicanas de caminos y puentes así como de vehículos de autotransporte y sus servicios auxiliares;
+
+VII. Derogada Fracción derogada DOF 04-01-1999
+
+VIII. Establecer las bases generales de regulación tarifaria.
+Las motocicletas deberán pagar el 50 por ciento del peaje que paguen los automóviles, y Los permisionarios del servicio de autotransporte federal de pasajeros, con apego en la ley y en su normatividad interna, podrán ofrecer el 50 por ciento de descuento a estudiantes de educación media superior y superior, durante todo el año, y Párrafo adicionado DOF 15-11-2023 Fracción reformada DOF 18-05-2012
+
+IX. Las demás que señalen otras disposiciones legales aplicables.
 CAPITULO III CONCESIONES Y PERMISOS
 
 ### Artículo 6o
@@ -63,35 +107,59 @@ Párrafo adicionado DOF 04-06-2014. Reformado DOF 25-06-2018
 
 ### Artículo 6o
 . Bis.- Para el otorgamiento de los títulos de concesión o la resolución de las prórrogas a que se refiere la presente Ley, la Secretaría deberá tramitar ante la Secretaría de Hacienda y Crédito Público, en términos del Reglamento de esta Ley, lo siguiente:
+
 I. La opinión favorable sobre la rentabilidad económica del proyecto respectivo.
 Se entenderá por rentabilidad económica, el resultado de comparar los ingresos monetarios susceptibles de ser generados por el uso, aprovechamiento o explotación de los bienes de dominio público concesionados, con respecto a los costos que se generarían por la realización del proyecto que se pretende concesionar, durante el horizonte temporal de evaluación.
 Para efectos de esta fracción, la Secretaría deberá remitir a la Secretaría de Hacienda y Crédito Público la evaluación que llevó a cabo sobre la rentabilidad económica del proyecto, así como la documentación que utilizó para realizar dicha evaluación, a fin de que esta última dependencia en un plazo no mayor a treinta días naturales, contado a partir de la fecha en que recibió la evaluación y documentación a que se refiere este párrafo, emita su opinión al respecto. En caso de que la Secretaría de Hacienda y Crédito Público no emita esta opinión en el plazo establecido, se entenderá emitida en sentido afirmativo.
 En todo caso, los recursos que se destinen para liberar el derecho de vía, se considerarán dentro de los costos totales del proyecto;
-II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y III. La determinación de las contraprestaciones que el concesionario deba cubrir al Gobierno Federal, en términos de las disposiciones jurídicas aplicables. Para efectos de esta fracción, la Secretaría deberá presentar a la Secretaría de Hacienda y Crédito Público la propuesta de dichas contraprestaciones.
+
+II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y
+
+III. La determinación de las contraprestaciones que el concesionario deba cubrir al Gobierno Federal, en términos de las disposiciones jurídicas aplicables. Para efectos de esta fracción, la Secretaría deberá presentar a la Secretaría de Hacienda y Crédito Público la propuesta de dichas contraprestaciones.
 Artículo adicionado DOF 08-06-2016
 
 ### Artículo 7o
 .- Las concesiones a que se refiere este capítulo se otorgarán mediante concurso público, conforme a lo siguiente:
+
 I. La Secretaría, por sí o a petición del interesado, expedirá convocatoria pública para que, en un plazo razonable, se presenten proposiciones en sobre cerrado, que será abierto en día prefijado y en presencia de los interesados.
 Cuando exista petición del interesado, la Secretaría, en un plazo razonable, expedirá la convocatoria o señalará al interesado las razones de la improcedencia en un plazo no mayor de 90 días;
+
 II. La convocatoria se publicará simultáneamente en el Diario Oficial de la Federación, en un periódico de amplia circulación nacional y en otro de la entidad o entidades federativas en donde se lleve a cabo la obra;
+
 III. Las bases del concurso incluirán como mínimo las características técnicas de la construcción de la vía o el proyecto técnico, el plazo de la concesión, los requisitos de calidad de la construcción y operación; los criterios para su otorgamiento serán principalmente los precios y tarifas para el usuario, el proyecto técnico en su caso, así como las contraprestaciones ofrecidas por el otorgamiento de la concesión.
+
 IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases que expida la Secretaría;
+
 V. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien y homologuen, se informará a todos los interesados de aquéllas que se desechen, y las causas principales que motivaren tal determinación;
-VI. La Secretaría, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes. La proposición ganadora estará a disposición de los participantes durante 10 días hábiles a partir de que se haya dado a conocer el fallo, para que manifiesten lo que a su derecho convenga; y VII. No se otorgará la concesión cuando ninguna de las proposiciones presentadas cumplan con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
+
+VI. La Secretaría, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes. La proposición ganadora estará a disposición de los participantes durante 10 días hábiles a partir de que se haya dado a conocer el fallo, para que manifiesten lo que a su derecho convenga; y
+
+VII. No se otorgará la concesión cuando ninguna de las proposiciones presentadas cumplan con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
 
 ### Artículo 8o
 .- Se requiere permiso otorgado por la Secretaría para:
+
 I. La operación y explotación de los servicios de autotransporte federal de carga, pasaje y turismo;
+
 II. La instalación de terminales interiores de carga y unidades de verificación;
+
 III. Los servicios de arrastre, arrastre y salvamento y depósito de vehículos;
+
 IV. Los servicios de paquetería y mensajería;
+
 V. La construcción, operación y explotación de terminales de pasajeros;
+
 VI. La construcción de accesos, cruzamientos e instalaciones marginales, en el derecho de vía de las carreteras federales;
+
 VII. El establecimiento de paradores, salvo cuando se trate de carreteras concesionadas;
+
 VIII. La instalación de anuncios y señales publicitarias;
+
 IX. La construcción, modificación o ampliación de las obras en el derecho de vía;
-X. La construcción y operación de puentes privados sobre vías generales de comunicación; y XI. El transporte privado de personas y de carga salvo lo dispuesto en el artículo 40 de la presente Ley.
+
+X. La construcción y operación de puentes privados sobre vías generales de comunicación; y
+
+XI. El transporte privado de personas y de carga salvo lo dispuesto en el artículo 40 de la presente Ley.
 Los reglamentos respectivos señalarán los requisitos para el establecimiento, construcción, operación y explotación de las instalaciones y servicios antes citados.
 En los casos a que se refieren las fracciones I a III, IV y XI del presente artículo, los permisos se otorgarán a todo aquel que cumpla con los requisitos establecidos en esta Ley y su reglamento.
 La Secretaría podrá concursar, en los términos del artículo anterior, el otorgamiento de permisos cuando se trate de servicios auxiliares vinculados a la infraestructura carretera.
@@ -119,43 +187,90 @@ Si transcurrido el plazo a que se refiere este artículo no se ha emitido la res
 
 ### Artículo 15
 .- El título de concesión, según sea el caso, deberá contener, entre otros:
+
 I. Nombre y domicilio del concesionario;
+
 II. Objeto, fundamentos legales y los motivos de su otorgamiento;
+
 III. Las características de construcción y las condiciones de conservación y operación de la vía;
+
 IV. Las bases de regulación tarifaria para el cobro de las cuotas en las carreteras y puentes;
+
 V. Los derechos y obligaciones de los concesionarios;
+
 VI. El periodo de vigencia;
+
 VII. El monto del fondo de reserva destinado a la conservación y mantenimiento de la vía;
-VIII. Las contraprestaciones que deban cubrirse al gobierno Federal, mismas que serán fijadas por la Secretaría de Hacienda y Crédito Público a propuesta de la Secretaría, y IX. Las causas de revocación y terminación.
+
+VIII. Las contraprestaciones que deban cubrirse al gobierno Federal, mismas que serán fijadas por la Secretaría de Hacienda y Crédito Público a propuesta de la Secretaría, y
+
+IX. Las causas de revocación y terminación.
 
 ### Artículo 16
 .- Las concesiones terminan por:
+
 I. Vencimiento del plazo establecido en el título o de la prórroga que se hubiera otorgado;
+
 II. Renuncia del titular;
+
 III. Revocación;
+
 IV. Rescate;
+
 V. Desaparición del objeto o de la finalidad de la concesión;
+
 VI. Liquidación;
-VII. Quiebra, para lo cual se estará a lo dispuesto en la Ley de la materia; y VIII. Las causas previstas en el título respectivo.
+
+VII. Quiebra, para lo cual se estará a lo dispuesto en la Ley de la materia; y
+
+VIII. Las causas previstas en el título respectivo.
 Para la terminación de los permisos son aplicables a las fracciones II, III y VI a VIII.
 La terminación de la concesión o el permiso no exime a su titular de las responsabilidades contraídas, durante su vigencia, con el Gobierno Federal y con terceros.
 
 ### Artículo 17
 .- Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
+
 I. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones y permisos en los términos establecidos en ellos;
+
 II. No cumplir con las características de construcción y operación, establecidos en las concesiones y permisos;
-Fracción adicionada DOF 04-06-2014 III. Interrumpir el concesionario la operación de la vía total o parcialmente, sin causa justificada;
-Fracción recorrida DOF 04-06-2014 IV. Interrumpir el permisionario la prestación del servicio de autotransporte de pasajeros total o parcialmente, sin causa justificada;
-Fracción recorrida DOF 04-06-2014 V. Reincidir en la aplicación de tarifas superiores a las autorizadas o registradas;
-Fracción recorrida DOF 04-06-2014 VI. Ejecutar actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios o permisionarios que tengan derecho a ello;
-Fracción recorrida DOF 04-06-2014 VII. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios;
-Fracción recorrida DOF 04-06-2014 VIII. Cambiar de nacionalidad el concesionario o permisionario;
-Fracción recorrida DOF 04-06-2014 IX. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, a algún gobierno o estado extranjero o admitir a éstos como socios de las empresas concesionarias o permisionarias;
-Fracción recorrida DOF 04-06-2014 X. Ceder o transferir las concesiones, permisos o los derechos en ellos conferidos, sin autorización de la Secretaría;
-Fracción recorrida DOF 04-06-2014 XI. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos y puentes o servicios sin autorización de la Secretaría;
-Fracción recorrida DOF 04-06-2014 XII. Prestar servicios distintos a los señalados en el permiso respectivo;
-Fracción recorrida DOF 04-06-2014 XIII. No otorgar o no mantener en vigor la garantía de daños contra terceros;
-Fracción recorrida DOF 04-06-2014 XIV. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en esta Ley o en sus reglamentos, y Fracción recorrida DOF 04-06-2014 XV. Las demás previstas en la concesión o el permiso respectivo.
+Fracción adicionada DOF 04-06-2014
+
+III. Interrumpir el concesionario la operación de la vía total o parcialmente, sin causa justificada;
+Fracción recorrida DOF 04-06-2014
+
+IV. Interrumpir el permisionario la prestación del servicio de autotransporte de pasajeros total o parcialmente, sin causa justificada;
+Fracción recorrida DOF 04-06-2014
+
+V. Reincidir en la aplicación de tarifas superiores a las autorizadas o registradas;
+Fracción recorrida DOF 04-06-2014
+
+VI. Ejecutar actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios o permisionarios que tengan derecho a ello;
+Fracción recorrida DOF 04-06-2014
+
+VII. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios;
+Fracción recorrida DOF 04-06-2014
+
+VIII. Cambiar de nacionalidad el concesionario o permisionario;
+Fracción recorrida DOF 04-06-2014
+
+IX. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, a algún gobierno o estado extranjero o admitir a éstos como socios de las empresas concesionarias o permisionarias;
+Fracción recorrida DOF 04-06-2014
+
+X. Ceder o transferir las concesiones, permisos o los derechos en ellos conferidos, sin autorización de la Secretaría;
+Fracción recorrida DOF 04-06-2014
+
+XI. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos y puentes o servicios sin autorización de la Secretaría;
+Fracción recorrida DOF 04-06-2014
+
+XII. Prestar servicios distintos a los señalados en el permiso respectivo;
+Fracción recorrida DOF 04-06-2014
+
+XIII. No otorgar o no mantener en vigor la garantía de daños contra terceros;
+Fracción recorrida DOF 04-06-2014
+
+XIV. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en esta Ley o en sus reglamentos, y Fracción recorrida DOF 04-06-2014
+
+XV. Las demás previstas en la concesión o el permiso respectivo.
 Fracción recorrida DOF 04-06-2014 El titular de una concesión o permiso que hubiere sido revocado, estará imposibilitado para obtener otro nuevo dentro de un plazo de 5 años, contado a partir de que hubiere quedado firme la resolución respectiva.
 
 ### Artículo 18
@@ -227,8 +342,12 @@ TITULO TERCERO DEL AUTOTRANSPORTE FEDERAL CAPITULO I DISPOSICIONES GENERALES
 
 ### Artículo 33
 .- Los servicios de autotransporte federal, serán los siguientes:
+
 I. De pasajeros;
-II. De turismo; y III. De carga.
+
+II. De turismo; y
+
+III. De carga.
 
 ### Artículo 34
 .- La prestación de los servicios de autotransporte federal podrá realizarlo el permisionario con vehículos propios o arrendados, de acuerdo a lo dispuesto en esta Ley y sus reglamentos, los tratados y acuerdos internacionales sobre la materia y normas oficiales mexicanas.
@@ -257,7 +376,10 @@ Párrafo adicionado DOF 25-10-2005
 
 ### Artículo 40
 .- No se requerirá de permiso para el transporte privado, en los siguientes casos:
-I. Vehículos de menos de 9 pasajeros; y II. Vehículos de menos de 4 toneladas de carga útil. Tratándose de personas morales, en vehículos hasta de 8 toneladas de carga útil.
+
+I. Vehículos de menos de 9 pasajeros; y
+
+II. Vehículos de menos de 4 toneladas de carga útil. Tratándose de personas morales, en vehículos hasta de 8 toneladas de carga útil.
 Lo anterior, sin perjuicio de que para el transporte de materiales, residuos, remanentes y desechos peligrosos se cumpla con las disposiciones legales aplicables.
 
 ### Artículo 41
@@ -268,8 +390,12 @@ Lo anterior, sin perjuicio de que para el transporte de materiales, residuos, re
 
 ### Artículo 43
 .- Sólo podrán obtener registro como empresas arrendadoras de remolques y semirremolques los que cumplan con los siguientes requisitos:
+
 I. Estar constituidas como sociedades mercantiles conforme a las leyes mexicanas y que su objeto social establezca expresamente el servicio de arrendamiento de remolques y semirremolques;
-II. Obtener placas y tarjeta de circulación para cada remolque y semirremolque; y III. Acreditar la propiedad de las unidades.
+
+II. Obtener placas y tarjeta de circulación para cada remolque y semirremolque; y
+
+III. Acreditar la propiedad de las unidades.
 Estas empresas no podrán en ningún caso prestar directamente el servicio de autotransporte federal de carga.
 
 ### Artículo 44
@@ -286,8 +412,22 @@ Artículo adicionado DOF 16-12-2013
 
 ### Artículo 45
 Bis 1.- Las notificaciones a que se refiere esta Ley se practicarán como sigue:
-I. Personalmente, con el interesado o su representante legal, de conformidad con las reglas siguientes: a) La notificación se practicará en el domicilio del interesado. En caso de que el interesado se encuentre privado de su libertad, la notificación personal se hará en el lugar donde se encuentre detenido; b) El notificador deberá cerciorarse del domicilio, entregar copia de lo que se notifique y recabar nombre y firma de la persona con quien se entienda la diligencia; asentando los datos del documento oficial con el que se identifique; c) De no encontrarse la persona por notificar en la primera búsqueda, se le dejará citatorio en el domicilio designado para que espere a una hora fija del día hábil siguiente, y si no espera, o se niega a recibir la notificación, se fijará instructivo en un lugar visible del domicilio y la notificación se practicará mediante edictos en términos de la fracción II de este artículo, y d) En todos los casos deberá levantarse acta circunstanciada de la diligencia que se practique.
-II. Por edictos, cuando se desconozca la identidad o domicilio del interesado, así como en los casos a que se refiere el inciso c) de la fracción anterior, de conformidad con las reglas siguientes: a) Los edictos se publicarán en el Diario Oficial de la Federación, en un diario de mayor circulación a nivel nacional y uno de mayor circulación en el lugar donde la resolución se haya expedido, por dos veces con intervalo de tres días, y b) Los edictos deberán contener un resumen de la resolución por notificar.
+
+I. Personalmente, con el interesado o su representante legal, de conformidad con las reglas siguientes:
+
+a) La notificación se practicará en el domicilio del interesado. En caso de que el interesado se encuentre privado de su libertad, la notificación personal se hará en el lugar donde se encuentre detenido;
+
+b) El notificador deberá cerciorarse del domicilio, entregar copia de lo que se notifique y recabar nombre y firma de la persona con quien se entienda la diligencia; asentando los datos del documento oficial con el que se identifique;
+
+c) De no encontrarse la persona por notificar en la primera búsqueda, se le dejará citatorio en el domicilio designado para que espere a una hora fija del día hábil siguiente, y si no espera, o se niega a recibir la notificación, se fijará instructivo en un lugar visible del domicilio y la notificación se practicará mediante edictos en términos de la fracción II de este artículo, y
+
+d) En todos los casos deberá levantarse acta circunstanciada de la diligencia que se practique.
+
+II. Por edictos, cuando se desconozca la identidad o domicilio del interesado, así como en los casos a que se refiere el inciso c) de la fracción anterior, de conformidad con las reglas siguientes:
+
+a) Los edictos se publicarán en el Diario Oficial de la Federación, en un diario de mayor circulación a nivel nacional y uno de mayor circulación en el lugar donde la resolución se haya expedido, por dos veces con intervalo de tres días, y
+
+b) Los edictos deberán contener un resumen de la resolución por notificar.
 Las notificaciones personales surtirán efectos el día en que hubieren sido practicadas y las efectuadas por edictos el día de la última publicación.
 Los plazos establecidos en esta Ley empezarán a correr el día siguiente a aquél en que haya surtido efectos la notificación respectiva.
 Artículo adicionado DOF 16-12-2013 CAPITULO II DEL AUTOTRANSPORTE DE PASAJEROS
@@ -319,10 +459,16 @@ TITULO CUARTO DE LOS SERVICIOS AUXILIARES AL AUTOTRANSPORTE FEDERAL CAPITULO I C
 
 ### Artículo 52
 .- Los permisos que en los términos de esta Ley otorgue la Secretaría para la prestación de servicios auxiliares al autotransporte federal, serán los siguientes:
+
 I. Terminales de pasajeros;
+
 II. Terminales interiores de carga;
+
 III. Arrastre, salvamento y depósito de vehículos;
-IV. Unidades de verificación; y V. Paquetería y mensajería.
+
+IV. Unidades de verificación; y
+
+V. Paquetería y mensajería.
 CAPITULO II TERMINALES DE PASAJEROS
 
 ### Artículo 53
@@ -404,10 +550,16 @@ CAPITULO II DE LA RESPONSABILIDAD EN EL AUTOTRANSPORTE DE CARGA
 
 ### Artículo 66
 .- Los permisionarios de servicios de autotransporte de carga son responsables de las pérdidas y daños que sufran los bienes o productos que transporten, desde el momento en que reciban la carga hasta que la entreguen a su destinatario, excepto en los siguientes casos:
+
 I. Por vicios propios de los bienes o productos, o por embalajes inadecuados;
+
 II. Cuando la carga por su propia naturaleza sufra deterioro o daño total o parcial;
+
 III. Cuando los bienes se transporten a petición escrita del remitente en vehículos descubiertos, siempre que por la naturaleza de aquéllos debiera transportarse en vehículos cerrados o cubiertos;
-IV. Falsas declaraciones o instrucciones del cargador, del consignatario o destinatario de los bienes o del titular de la carta de porte; y V. Cuando el usuario del servicio no declare el valor de la mercancía, la responsabilidad quedará limitada a la cantidad equivalente a 15 días de salario mínimo general vigente en el Distrito Federal, por tonelada o la parte proporcional que corresponda tratándose de embarques de menor peso.
+
+IV. Falsas declaraciones o instrucciones del cargador, del consignatario o destinatario de los bienes o del titular de la carta de porte; y
+
+V. Cuando el usuario del servicio no declare el valor de la mercancía, la responsabilidad quedará limitada a la cantidad equivalente a 15 días de salario mínimo general vigente en el Distrito Federal, por tonelada o la parte proporcional que corresponda tratándose de embarques de menor peso.
 
 ### Artículo 67
 .- Cuando el usuario del servicio pretenda que en caso de pérdida o daño de sus bienes, inclusive los derivados de caso fortuito o fuerza mayor, el permisionario responda por el precio total de los mismos, deberá declarar el valor correspondiente, en cuyo caso deberá cubrir un cargo adicional equivalente al costo de la garantía respectiva que pacte con el permisionario.
@@ -442,24 +594,42 @@ Artículo reformado DOF 25-10-2005
 
 ### Artículo 73
 .- En el acta que se levante con motivo de una visita de inspección se hará constar lo siguiente:
+
 I. Hora, día, mes y año en que se practicó la visita;
+
 II. Ubicación de las instalaciones del concesionario o permisionario donde se practicó la visita;
+
 III. Nombre y firma del servidor público que realiza la inspección;
-Fracción reformada DOF 25-10-2005 IV. Nombre, domicilio y firma de las personas designadas como testigos;
+Fracción reformada DOF 25-10-2005
+
+IV. Nombre, domicilio y firma de las personas designadas como testigos;
+
 V. Nombre y carácter o personalidad jurídica de la persona que atendió la visita de inspección;
+
 VI. Objeto de la visita;
+
 VII. Fecha de la orden de visita, así como los datos de identificación del servidor público que realiza la inspección;
-Fracción reformada DOF 25-10-2005 VIII. Declaración de la persona que atendió la visita o su negativa a permitirla; y IX. Síntesis descriptiva sobre la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma.
+Fracción reformada DOF 25-10-2005
+
+VIII. Declaración de la persona que atendió la visita o su negativa a permitirla; y
+
+IX. Síntesis descriptiva sobre la visita, asentando los hechos, datos y omisiones derivados del objeto de la misma.
 Una vez elaborada el acta, el servidor público que realiza la inspección proporcionará una copia de la misma a la persona que atendió la visita, aún en el caso de que ésta se hubiera negado a firmarla, hecho que no afectará su validez.
 Párrafo reformado DOF 25-10-2005 El visitado contará con un término de 10 días hábiles, a fin de que presente las pruebas y defensas que estime conducentes, en el caso de alguna infracción a las disposiciones de la presente Ley. Con vista en ellas o a falta de su presentación, la Secretaría dictará la resolución que corresponda.
 TITULO OCTAVO DE LAS SANCIONES
 
 ### Artículo 74
 . Salvo lo dispuesto en el Artículo 74 Bis de la presente Ley, las infracciones a lo dispuesto en la misma, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
+
 I. Aplicar tarifas superiores a las que en su caso se autoricen, con multa de cien a quinientos salarios mínimos;
+
 II. Destruir, inutilizar, apagar, quitar o cambiar una señal establecida para la seguridad de las vías generales de comunicación terrestres o medios de autotransporte que en ellas operan, con multa de cien a quinientos salarios mínimos;
+
 III. Colocar intencionalmente señales con ánimo de ocasionar daño a vehículos en circulación, con multa de cien a quinientos salarios mínimos;
-IV. Incumplir con cualquiera de las disposiciones en materia de autotransporte federal, sus servicios auxiliares y transporte privado, con multa de hasta quinientos días de salario mínimo, y V. Cualquier otra infracción a lo previsto en la presente Ley o a los ordenamientos que de ella se deriven, con multa de hasta mil días de salario mínimo.
+
+IV. Incumplir con cualquiera de las disposiciones en materia de autotransporte federal, sus servicios auxiliares y transporte privado, con multa de hasta quinientos días de salario mínimo, y
+
+V. Cualquier otra infracción a lo previsto en la presente Ley o a los ordenamientos que de ella se deriven, con multa de hasta mil días de salario mínimo.
 En caso de reincidencia, la Secretaría podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
 Para los efectos del presente Capítulo, se entiende por salario mínimo, el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
 Los ingresos derivados por concepto de multas que se impongan en términos del presente Artículo, se destinarán a la Secretaría para cubrir gastos de operación e inversión en tecnología y programas vinculados al autotransporte.
@@ -467,9 +637,15 @@ Artículo reformado DOF 25-10-2005
 
 ### Artículo 74
 Bis. La Secretaría de Gobernación, a través de la Policía Federal, de conformidad con las disposiciones legales y reglamentarias respectivas, impondrá las siguientes sanciones:
-Párrafo reformado DOF 21-05-2013 I. Por infracciones a la presente Ley y reglamentos que de ella se deriven en materia de tránsito, multa de hasta doscientos días de salario mínimo, y II. Por conducir vehículos en caminos y puentes federales que no cuenten con un contrato de un seguro que garantice daños a terceros con multa de veinte a cuarenta días de salario mínimo vigente en el Distrito Federal.
+Párrafo reformado DOF 21-05-2013
+
+I. Por infracciones a la presente Ley y reglamentos que de ella se deriven en materia de tránsito, multa de hasta doscientos días de salario mínimo, y
+
+II. Por conducir vehículos en caminos y puentes federales que no cuenten con un contrato de un seguro que garantice daños a terceros con multa de veinte a cuarenta días de salario mínimo vigente en el Distrito Federal.
 El propietario del vehículo tendrá 45 días naturales para la contratación de la póliza de seguro, misma que al presentarla ante la autoridad recaudatoria durante el término anterior, le será cancelada la infracción;
-Fracción adicionada DOF 21-05-2013 III. Cualquier otra infracción a las disposiciones de esta Ley y los ordenamientos que de ella se deriven para la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación, con multa de hasta quinientos días de salario mínimo.
+Fracción adicionada DOF 21-05-2013
+
+III. Cualquier otra infracción a las disposiciones de esta Ley y los ordenamientos que de ella se deriven para la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación, con multa de hasta quinientos días de salario mínimo.
 Fracción recorrida DOF 21-05-2013 En caso de reincidencia, la Secretaría de Seguridad Pública podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
 Los ingresos derivados por concepto de multas a que se refiere la fracción I del presente Artículo, se destinarán a la Secretaría de Seguridad Pública para cubrir gastos de operación e inversión en programas vinculados a la propia seguridad pública y de manera específica se destinará el 20% del total a prevención del delito, en tanto que los derivados de la fracción II se destinarán conforme a lo establecido en el último párrafo del Artículo 74 de esta Ley.
 La Secretaría y la Secretaría de Seguridad Pública establecerán mecanismos para el intercambio de información en materia de infracciones.
@@ -477,10 +653,17 @@ Artículo adicionado DOF 25-10-2005
 
 ### Artículo 74
 Ter. La Secretaría de Seguridad Pública a través de la Policía Federal Preventiva, podrá retirar de la circulación los vehículos en los siguientes casos:
+
 I. Cuando se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, sin contar con el permiso correspondiente;
+
 II. Cuando contando con concesiones o permisos estatales, municipales o de la Ciudad de México, se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, fuera de los tramos autorizados por la Secretaría;
-Fracción reformada DOF 30-11-2017 III. Cuando excedan el tiempo autorizado para circular o transitar con motivo de su importación temporal y se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, debiendo dar vista a las autoridades correspondientes;
-IV. Cuando se encuentren en tránsito y no cumplan con las condiciones mínimas de seguridad, que se determinen en esta Ley y los ordenamientos que de ella se deriven, y V. Cuando se encuentren prestando servicio de autotransporte y esté vencido su plazo o límite máximo de operación para dar el servicio de autotransporte federal de pasajeros o turismo, de acuerdo a las disposiciones reglamentarias correspondientes.
+Fracción reformada DOF 30-11-2017
+
+III. Cuando excedan el tiempo autorizado para circular o transitar con motivo de su importación temporal y se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, debiendo dar vista a las autoridades correspondientes;
+
+IV. Cuando se encuentren en tránsito y no cumplan con las condiciones mínimas de seguridad, que se determinen en esta Ley y los ordenamientos que de ella se deriven, y
+
+V. Cuando se encuentren prestando servicio de autotransporte y esté vencido su plazo o límite máximo de operación para dar el servicio de autotransporte federal de pasajeros o turismo, de acuerdo a las disposiciones reglamentarias correspondientes.
 Artículo adicionado DOF 25-10-2005
 
 ### Artículo 75
@@ -495,19 +678,30 @@ Artículo reformado DOF 25-10-2005
 
 ### Artículo 77
 .- Al imponer las sanciones a que se refiere este Título, la Secretaría deberá considerar:
+
 I. La gravedad de la infracción;
-II. Los daños causados; y III. La reincidencia.
+
+II. Los daños causados; y
+
+III. La reincidencia.
 
 ### Artículo 78
 .- Las sanciones que se señalan en este Título se aplicarán sin perjuicio de la responsabilidad penal que resulte, ni de que, cuando proceda, la Secretaría revoque la concesión o permiso.
 
 ### Artículo 79
 . Salvo lo dispuesto en el Artículo 79 Bis, para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones previstas en esta Ley, se estará a lo siguiente:
-Párrafo reformado DOF 25-10-2005 I. La Secretaría hará saber al presunto infractor la causa o causas de la sanción, concediéndole un plazo de 15 días hábiles para que presente sus pruebas y defensas; y II. Presentadas las pruebas y defensas o vencido el plazo señalado en la fracción anterior sin que se hubieren presentado, la Secretaría dictará la resolución que corresponda en un plazo no mayor a 30 días naturales.
+Párrafo reformado DOF 25-10-2005
+
+I. La Secretaría hará saber al presunto infractor la causa o causas de la sanción, concediéndole un plazo de 15 días hábiles para que presente sus pruebas y defensas; y
+
+II. Presentadas las pruebas y defensas o vencido el plazo señalado en la fracción anterior sin que se hubieren presentado, la Secretaría dictará la resolución que corresponda en un plazo no mayor a 30 días naturales.
 
 ### Artículo 79
 Bis. Para la imposición de las sanciones a que se refiere el Artículo 74 Bis de esta Ley, se estará a lo siguiente:
-I. Las infracciones y las sanciones que se impongan, se harán constar en las boletas correspondientes, y II. El pago de las sanciones impuestas, deberá realizarse por los infractores en las instituciones bancarias u oficinas designadas, o bien a través de cualquiera de los medios establecidos para tal efecto.
+
+I. Las infracciones y las sanciones que se impongan, se harán constar en las boletas correspondientes, y
+
+II. El pago de las sanciones impuestas, deberá realizarse por los infractores en las instituciones bancarias u oficinas designadas, o bien a través de cualquiera de los medios establecidos para tal efecto.
 Artículo adicionado DOF 25-10-2005
 
 ### Artículo 80

@@ -31,23 +31,77 @@ Sujetos de la Asistencia Social
 ### Artículo 4
 .- Tienen derecho a la asistencia social los individuos y familias que por sus condiciones físicas, mentales, jurídicas, económicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar.
 Párrafo reformado DOF 24-04-2018 Con base en lo anterior, son sujetos de la asistencia social, preferentemente:
-I. Todas las niñas, niños y adolescentes, en especial aquellos que se encuentren en situación de riesgo o afectados por: a) Desnutrición; b) Deficiencias en su desarrollo físico o mental, o cuando éste sea afectado por condiciones familiares adversas; c) Maltrato o abuso; d) Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos; e) Ser víctimas de cualquier tipo de explotación; f) Vivir en la calle; g) Ser víctimas del tráfico de personas, la pornografía y el comercio sexual; h) Trabajar en condiciones que afecten su desarrollo e integridad física y mental; i) Infractores y víctimas del delito; j) Ser hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza; k) Ser migrantes y repatriados;
-Inciso reformado DOF 19-12-2014 l) Ser víctimas de conflictos armados y de persecución étnica o religiosa, y Inciso reformado DOF 19-12-2014 m) Ser huérfanos.
+
+I. Todas las niñas, niños y adolescentes, en especial aquellos que se encuentren en situación de riesgo o afectados por:
+
+a) Desnutrición;
+
+b) Deficiencias en su desarrollo físico o mental, o cuando éste sea afectado por condiciones familiares adversas;
+
+c) Maltrato o abuso;
+
+d) Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos;
+
+e) Ser víctimas de cualquier tipo de explotación;
+
+f) Vivir en la calle;
+
+g) Ser víctimas del tráfico de personas, la pornografía y el comercio sexual;
+
+h) Trabajar en condiciones que afecten su desarrollo e integridad física y mental;
+
+i) Infractores y víctimas del delito;
+
+j) Ser hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
+
+k) Ser migrantes y repatriados;
+Inciso reformado DOF 19-12-2014
+
+l) Ser víctimas de conflictos armados y de persecución étnica o religiosa, y Inciso reformado DOF 19-12-2014
+
+m) Ser huérfanos.
 Inciso adicionado DOF 19-12-2014 Para los efectos de esta Ley son niñas, niños y adolescentes las personas comprendidas en el
 
 ### artículo 5
 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-Párrafo reformado DOF 06-01-2023 II. Las mujeres: a) En estado de gestación o lactancia, las madres adolescentes y madres solas que tengan a su cuidado hijos menores de dieciocho años de edad;
-Inciso reformado DOF 19-12-2014 b) En situación de maltrato o abandono, y c) En situación de explotación, incluyendo la sexual.
+Párrafo reformado DOF 06-01-2023
+
+II. Las mujeres:
+
+a) En estado de gestación o lactancia, las madres adolescentes y madres solas que tengan a su cuidado hijos menores de dieciocho años de edad;
+Inciso reformado DOF 19-12-2014
+
+b) En situación de maltrato o abandono, y
+
+c) En situación de explotación, incluyendo la sexual.
+
 III. Indígenas migrantes, desplazados o en situación vulnerable;
+
 IV. Migrantes;
-V. Personas adultas mayores: a) En desamparo, marginación o sujetos a maltrato; b) Con discapacidad, o c) Que ejerzan la patria potestad;
-Fracción reformada DOF 19-12-2014 VI. Personas con algún tipo de discapacidad o necesidades especiales;
+
+V. Personas adultas mayores:
+
+a) En desamparo, marginación o sujetos a maltrato;
+
+b) Con discapacidad, o
+
+c) Que ejerzan la patria potestad;
+Fracción reformada DOF 19-12-2014
+
+VI. Personas con algún tipo de discapacidad o necesidades especiales;
+
 VII. Dependientes de personas privadas de su libertad, de desaparecidos, de enfermos terminales, de alcohólicos o de fármaco dependientes;
-Fracción reformada DOF 23-04-2013 VIII. Víctimas de la comisión de delitos;
+Fracción reformada DOF 23-04-2013
+
+VIII. Víctimas de la comisión de delitos;
+
 IX. Indigentes;
+
 X. Alcohólicos y fármaco dependientes;
-XI. Coadyuvar en asistencia a las personas afectadas por desastres naturales, y XII. Los demás sujetos considerados en otras disposiciones jurídicas aplicables.
+
+XI. Coadyuvar en asistencia a las personas afectadas por desastres naturales, y
+
+XII. Los demás sujetos considerados en otras disposiciones jurídicas aplicables.
 
 ### Artículo 5
 .- La rectoría de la asistencia social pública y privada corresponde al Estado, el cual, en forma prioritaria, proporcionará servicios asistenciales encaminados al desarrollo integral de la familia, entendida como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, y también a apoyar, en su formación y subsistencia, a individuos con carencias familiares esenciales no superables en forma autónoma.
@@ -64,25 +118,46 @@ Los que se presten en los Estados por los gobiernos locales y por los sectores s
 
 ### Artículo 9
 .- La Secretaría de Salud, en su carácter de autoridad sanitaria, y el Sistema Nacional para el Desarrollo Integral de la Familia, en su carácter de coordinador del Sistema Nacional de Asistencia Social Pública y Privada, tendrán respecto de la asistencia social, y como materia de salubridad general, las siguientes atribuciones:
+
 I. Vigilar el estricto cumplimiento de esta Ley, así como las disposiciones que se dicten con base en ella, sin perjuicio de las facultades que en la materia competan a otras dependencias y entidades de la Administración Pública Federal y a los Gobiernos y entidades de los estados;
+
 II. Formular las Normas Oficiales Mexicanas que rijan la prestación de los servicios de salud en materia de asistencia social, a fin de garantizar la calidad de los servicios, y los derechos de los sujetos de esta Ley; así como la difusión y actualización de las mismas entre los integrantes del Sistema Nacional de Salud, y del Sistema Nacional de Asistencia Social Pública y Privada;
+
 III. Certificar que los servicios que presten en la materia las instituciones de los sectores público y privado, cumplan con lo estipulado en las Normas Oficiales Mexicanas señaladas en el artículo anterior;
+
 IV. Supervisar la debida aplicación de las Normas Oficiales Mexicanas que rijan la prestación de los servicios de salud en esta materia, así como evaluar los resultados de los servicios asistenciales que se presten conforme a las mismas;
+
 V. Apoyar la coordinación entre las instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en la materia;
+
 VI. Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales en materia de salubridad general;
+
 VII. Formar personal profesional en materias relacionadas con la prestación de servicios de asistencia social;
+
 VIII. Coordinar un Sistema Nacional de Información en materia de asistencia social en colaboración con el INEGI;
+
 IX. Coordinar, con las entidades federativas, la prestación y promoción de los servicios de salud en materia de asistencia social;
+
 X. Concertar acciones con los sectores social y privado, mediante convenios y contratos en que se regulen la prestación y promoción de los servicios de salud en materia de asistencia social, con la participación que corresponda a otras dependencias o entidades;
+
 XI. Coordinar, evaluar y dar seguimiento a los servicios de salud que en materia de asistencia social presten las instituciones a que se refiere el Artículo 34 Fracción II de la Ley General de Salud;
+
 XII. Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+
 XIII. Coordinar, integrar y sistematizar un Directorio Nacional de Instituciones públicas y privadas de asistencia social;
-XIV. Supervisar y coadyuvar en el desarrollo de los procesos de adopción de menores, y XV. Las demás que le otorga la Ley General de Salud.
+
+XIV. Supervisar y coadyuvar en el desarrollo de los procesos de adopción de menores, y
+
+XV. Las demás que le otorga la Ley General de Salud.
 
 ### Artículo 10
 .- Los sujetos de atención de la asistencia social tendrán derecho a:
+
 I. Recibir servicios de calidad, con oportunidad y con calidez, por parte de personal profesional y calificado.
-Fracción reformada DOF 08-06-2012 II. La confidencialidad respecto a sus condiciones personales y de los servicios que reciban, y III. Recibir los servicios sin discriminación.
+Fracción reformada DOF 08-06-2012
+
+II. La confidencialidad respecto a sus condiciones personales y de los servicios que reciban, y
+
+III. Recibir los servicios sin discriminación.
 
 ### Artículo 11
 .- Los sujetos y las familias, en la medida de sus posibilidades, participarán en los distintos procesos de la asistencia social, como la capacitación, rehabilitación e integración. Los familiares de los sujetos de la asistencia social, serán corresponsables de esa participación y aprovechamiento.
@@ -92,22 +167,56 @@ Servicios de la Asistencia Social
 
 ### Artículo 12
 .- Se entienden como servicios básicos de salud en materia de asistencia social los siguientes:
-I. Los señalados en el Artículo 168 de la Ley General de Salud: a) La atención a personas que, por sus carencias socio-económicas o por condiciones de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
-Inciso reformado DOF 01-06-2011 b) La atención en establecimientos especializados a menores y adultos mayores en estado de abandono o desamparo y personas con discapacidad sin recursos;
-Inciso reformado DOF 01-06-2011 c) La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud; d) El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables; e) La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, adultos mayores y personas con discapacidad sin recursos;
-Inciso reformado DOF 01-06-2011 f) La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social; g) La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio; h) El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas, e i) La prestación de servicios funerarios.
+
+I. Los señalados en el Artículo 168 de la Ley General de Salud:
+
+a) La atención a personas que, por sus carencias socio-económicas o por condiciones de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+Inciso reformado DOF 01-06-2011
+
+b) La atención en establecimientos especializados a menores y adultos mayores en estado de abandono o desamparo y personas con discapacidad sin recursos;
+Inciso reformado DOF 01-06-2011
+
+c) La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud;
+
+d) El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+
+e) La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, adultos mayores y personas con discapacidad sin recursos;
+Inciso reformado DOF 01-06-2011
+
+f) La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+
+g) La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
+
+h) El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas, e
+
+i) La prestación de servicios funerarios.
+
 II. La promoción del desarrollo, el mejoramiento y la integración familiar;
+
 III. La protección de los derechos de niñas, niños y adolescentes, la representación jurídica y la promoción de su sano desarrollo físico, mental y social;
+
 IV. El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de la niñez a la satisfacción de sus necesidades y a la salud física y mental;
+
 V. La colaboración o auxilio a las autoridades laborales competentes en la vigilancia y aplicación de la legislación laboral aplicable a la niñez;
+
 VI. La atención a niños, niñas y adolescentes en riesgo de fármaco dependencia, fármaco dependientes o susceptibles de incurrir en hábitos y conductas antisociales y delictivas;
+
 VII. La cooperación con instituciones de procuración e impartición de justicia en la protección de los sujetos susceptibles de recibir servicios de asistencia social;
+
 VIII. La orientación nutricional y la alimentación complementaria a población de escasos recursos y a población de zonas marginadas;
+
 IX. Coadyuvar con las autoridades educativas en la prestación de servicios de educación especial, con base en lo estipulado en el Artículo 41 de la Ley General de Educación;
+
 X. El apoyo a mujeres en períodos de gestación o lactancia, con especial atención a las adolescentes en situación de vulnerabilidad;
+
 XI. La prevención al desamparo o abandono y la protección a los sujetos que lo padecen;
+
 XII. La prevención de la discapacidad, la habilitación y la rehabilitación e integración a la vida productiva o activa de personas con algún tipo de discapacidad;
-Fracción reformada DOF 01-06-2011 XIII. La promoción de acciones y de la participación social para el mejoramiento comunitario, y XIV. Los análogos y conexos a los anteriores que tienda a modificar y mejorar las circunstancias de carácter social que impidan al individuo y familias, su desarrollo integral.
+Fracción reformada DOF 01-06-2011
+
+XIII. La promoción de acciones y de la participación social para el mejoramiento comunitario, y
+
+XIV. Los análogos y conexos a los anteriores que tienda a modificar y mejorar las circunstancias de carácter social que impidan al individuo y familias, su desarrollo integral.
 
 ### Artículo 13
 .- Los servicios enumerados en el artículo anterior podrán ser prestados por cualquier institución pública o privada, las instituciones privadas no podrán participar en los servicios que por disposición legal correspondan de manera exclusiva a instituciones públicas federales, estatales o municipales.
@@ -117,14 +226,24 @@ Concurrencia de la Asistencia Social
 
 ### Artículo 14
 .- Son facultades de la Federación en materia de asistencia social:
+
 I. La formulación y conducción de la política nacional y el diseño de los instrumentos programáticos necesarios;
+
 II. El seguimiento de Acuerdos, Tratados e Instrumentos Internacionales en materia de asistencia social y atención a grupos vulnerables;
+
 III. La coordinación del Sistema Nacional de Asistencia Social Pública y Privada;
+
 IV. La coordinación del Servicio Nacional de Información de Instituciones de Asistencia Social Públicas y Privadas;
+
 V. El otorgamiento de estímulos y prerrogativas de ámbito federal para fomentar el desarrollo de servicios asistenciales, en el marco de las prioridades nacionales;
+
 VI. El establecimiento y operación de mecanismos de recaudación y canalización de recursos públicos federales, así como la determinación de los sujetos, área geográfica y servicios de carácter prioritario, en que se aplicarán dichos recursos;
+
 VII. La instrumentación de mecanismos de coordinación para la operación, control y evaluación de los programas de asistencia social que las entidades federativas, el Distrito Federal y los municipios realicen apoyados total o parcialmente con recursos federales;
-VIII. La vigilancia, en el ámbito de su competencia, del cumplimiento de esta Ley y de los demás ordenamientos que de ella deriven, y IX. Las demás que ésta y otras leyes reserven a la Federación.
+
+VIII. La vigilancia, en el ámbito de su competencia, del cumplimiento de esta Ley y de los demás ordenamientos que de ella deriven, y
+
+IX. Las demás que ésta y otras leyes reserven a la Federación.
 
 ### Artículo 15
 .- Cuando, por razón de la materia, se requiera de la intervención de otras dependencias o entidades, el Organismo denominado Sistema Nacional para el Desarrollo Integral de la Familia, en lo sucesivo "El Organismo", ejercerá sus atribuciones en coordinación con ellas.
@@ -151,7 +270,47 @@ VIII. La vigilancia, en el ámbito de su competencia, del cumplimiento de esta L
 Sistema Nacional de Asistencia Social Pública y Privada
 
 ### Artículo 22
-.- Son integrantes del Sistema Nacional de Asistencia Social Pública y Privada: a) La Secretaría de Salud; b) La Secretaría de Desarrollo Social; c) La Secretaría de Educación Pública; d) El Sistema Nacional para el Desarrollo Integral de la Familia; e) Los Sistemas Estatales y del Distrito Federal para el Desarrollo Integral de la Familia; f) Los Sistemas Municipales para el Desarrollo Integral de la Familia; g) Las instituciones privadas de asistencia social legalmente constituidas; h) Las Juntas de Asistencia Privada; i) El Instituto Nacional de las Personas Adultas Mayores; j) El Instituto Nacional Indigenista; k) El Instituto Mexicano de la Juventud; l) El Instituto Nacional de las Mujeres; m) Los Centros de Integración Juvenil; n) El Consejo Nacional contra las Adicciones; o) El Consejo Nacional de Fomento Educativo; p) El Consejo Nacional para la Educación y la Vida; q) La Lotería Nacional para la Asistencia Pública; r) Pronósticos para la Asistencia Pública; s) La Beneficencia Pública, y t) Las demás entidades y dependencias federales, estatales y municipales, así como los órganos desconcentrados que realicen actividades vinculadas a la asistencia social.
+.- Son integrantes del Sistema Nacional de Asistencia Social Pública y Privada:
+
+a) La Secretaría de Salud;
+
+b) La Secretaría de Desarrollo Social;
+
+c) La Secretaría de Educación Pública;
+
+d) El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+e) Los Sistemas Estatales y del Distrito Federal para el Desarrollo Integral de la Familia;
+
+f) Los Sistemas Municipales para el Desarrollo Integral de la Familia;
+
+g) Las instituciones privadas de asistencia social legalmente constituidas;
+
+h) Las Juntas de Asistencia Privada;
+
+i) El Instituto Nacional de las Personas Adultas Mayores;
+
+j) El Instituto Nacional Indigenista;
+
+k) El Instituto Mexicano de la Juventud;
+
+l) El Instituto Nacional de las Mujeres;
+
+m) Los Centros de Integración Juvenil;
+
+n) El Consejo Nacional contra las Adicciones;
+
+o) El Consejo Nacional de Fomento Educativo;
+
+p) El Consejo Nacional para la Educación y la Vida;
+
+q) La Lotería Nacional para la Asistencia Pública;
+
+r) Pronósticos para la Asistencia Pública;
+
+s) La Beneficencia Pública, y
+
+t) Las demás entidades y dependencias federales, estatales y municipales, así como los órganos desconcentrados que realicen actividades vinculadas a la asistencia social.
 
 ### Artículo 23
 .- El Sistema Nacional de Asistencia Social Pública y Privada, en lo sucesivo "El Sistema", tiene como objeto promover y apoyar, con la participación de los sectores público, privado y las comunidades, las acciones en favor de las personas y familias a que se refiere esta Ley.
@@ -161,10 +320,30 @@ Sistema Nacional de Asistencia Social Pública y Privada
 
 ### Artículo 25
 .- El Sistema contará, para su funcionamiento y coordinación, con un Consejo Nacional, que emitirá opiniones, recomendaciones y líneas de acción para la prestación de servicios de asistencia social.
-Este Consejo Nacional se integrará por: a) Una Secretaría Ejecutiva, que será asumida por El Organismo, el cual deberá, en el marco de sus atribuciones, elaborar el Reglamento para la operación del Consejo Nacional; b) Un representante por cada uno de los Sistemas Estatales para el Desarrollo Integral de la Familia; c) Un representante por cada una de las Juntas de Asistencia Privada de los Estados de la República y del Distrito Federal; d) Un representante por cada una de las dependencias federales integrantes del Sistema, y e) Cinco representantes de los Sistemas Municipales para el Desarrollo Integral de la Familia, que serán electos de acuerdo con el Reglamento del Sistema Nacional de Asistencia Social.
+Este Consejo Nacional se integrará por:
+
+a) Una Secretaría Ejecutiva, que será asumida por El Organismo, el cual deberá, en el marco de sus atribuciones, elaborar el Reglamento para la operación del Consejo Nacional;
+
+b) Un representante por cada uno de los Sistemas Estatales para el Desarrollo Integral de la Familia;
+
+c) Un representante por cada una de las Juntas de Asistencia Privada de los Estados de la República y del Distrito Federal;
+
+d) Un representante por cada una de las dependencias federales integrantes del Sistema, y
+
+e) Cinco representantes de los Sistemas Municipales para el Desarrollo Integral de la Familia, que serán electos de acuerdo con el Reglamento del Sistema Nacional de Asistencia Social.
 
 ### Artículo 26
-.- Los integrantes del Sistema contribuirán al logro de los siguientes objetivos: a) Coordinar la prestación de servicios de asistencia social pública y privada; b) Establecer las prioridades y estrategias nacionales para la prestación de servicios de asistencia social; c) Promover la ampliación de la cobertura y garantizar la calidad de los servicios de asistencia social; d) Promover un esquema regionalizado de servicios de asistencia social, y e) Promover la cooperación y la coordinación interinstitucional para asegurar la atención integral a las personas y familias que sean sujetos de derechos de asistencia social.
+.- Los integrantes del Sistema contribuirán al logro de los siguientes objetivos:
+
+a) Coordinar la prestación de servicios de asistencia social pública y privada;
+
+b) Establecer las prioridades y estrategias nacionales para la prestación de servicios de asistencia social;
+
+c) Promover la ampliación de la cobertura y garantizar la calidad de los servicios de asistencia social;
+
+d) Promover un esquema regionalizado de servicios de asistencia social, y
+
+e) Promover la cooperación y la coordinación interinstitucional para asegurar la atención integral a las personas y familias que sean sujetos de derechos de asistencia social.
 
 ## Capítulo VI
 Sistema Nacional para el Desarrollo Integral de la Familia
@@ -173,8 +352,60 @@ Sistema Nacional para el Desarrollo Integral de la Familia
 .- El Sistema Nacional para el Desarrollo Integral de la Familia es el Organismo Público Descentralizado, con patrimonio y personalidad jurídica propios, a que se refiere el Artículo 172 de la Ley General de Salud.
 
 ### Artículo 28
-.- El Organismo será el coordinador del Sistema, y tendrá las siguientes funciones: a) Vigilar el estricto cumplimiento de la presente Ley; b) Elaborar un Programa Nacional de Asistencia Social conforme a las disposiciones de la Ley de Planeación, los lineamientos del Plan Nacional de Desarrollo, y demás instrumentos de planeación de la Administración Pública Federal; c) Con fundamento en lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes, el organismo coadyuvará a atender y garantizar el interés superior de la niñez;
-Inciso reformado DOF 06-01-2023 d) Prestar servicios de representación y asistencia jurídica y de orientación social a niñas y niños, jóvenes, adultos mayores, personas con alguna discapacidad, madres adolescentes y solteras, indigentes, indígenas migrantes o desplazados y todas aquellas personas que por distintas circunstancias no puedan ejercer plenamente sus derechos; e) Poner a disposición del Ministerio Público, los elementos a su alcance para la protección de los derechos familiares; f) Proponer para su aprobación a la Secretaría de Salud, la formulación de las Normas Oficiales Mexicanas en la materia y apoyarla en la vigilancia de la aplicación de las mismas; g) Proponer a la Secretaría de Salud, en su carácter de administradora del Patrimonio de la Beneficencia Pública, programas de asistencia social que contribuyan al uso eficiente de los bienes que lo componen; h) Proponer a la Lotería Nacional para la Asistencia Pública y a los Pronósticos Deportivos para la Asistencia Pública programas de asistencia social que contribuyan al fortalecimiento de los servicios de asistencia social que presten los sectores públicos, social y privado; i) Promover la elaboración de Normas Oficiales Mexicanas en materia de asistencia social, a través de un Comité Técnico de Normalización Nacional de Asistencia Social, que se regulará con base en lo establecido en la Ley Federal de Metrología y Normalización; j) Supervisar y evaluar la actividad y los servicios de asistencia social que presten las instituciones de asistencia social pública y privada, conforme a lo que establece la Ley General de Salud y el presente ordenamiento; k) Elaborar y actualizar el Directorio Nacional de las Instituciones Públicas y Privadas de Asistencia Social; l) Organizar el Servicio Nacional de Información sobre la Asistencia Social; m) Organizar, promover y operar el Centro de Información y Documentación sobre Asistencia Social; n) Difundir a través del Sistema la información sobre el acceso al financiamiento nacional e internacional para actividades de asistencia social; o) Realizar y apoyar estudios e investigaciones en materia de asistencia social; p) Promover la formación, capacitación y profesionalización del personal encargado de la prestación de los servicios de asistencia social; q) Operar establecimientos de asistencia social y llevar a cabo acciones en materia de prevención; r) Diseñar modelos de atención para la prestación de los servicios asistenciales; s) Operar en el marco de sus atribuciones programas de rehabilitación y educación especial; t) Prestar apoyo, colaboración técnica y administrativa en materia de asistencia social, a las distintas entidades federativas, al Distrito Federal y a los Municipios; u) Promover la integración de fondos mixtos para la asistencia social; v) Asignar, de acuerdo a su disponibilidad, recursos económicos temporales y otorgar apoyos técnicos a instituciones privadas y sociales, con base a los criterios que sean fijados por la Junta de Gobierno; w) Coadyuvar con la Secretaría de Relaciones Exteriores en la representación del Gobierno Federal para la ejecución y difusión de programas en materia de asistencia social ante organismos internacionales y multilaterales; x) Coordinar los esfuerzos públicos y privados, para la integración social de los sujetos de la asistencia, y la elaboración y seguimiento de los programas respectivos; y) Promover la creación y el desarrollo de instituciones públicas y privadas de asistencia social, y z) Establecer prioridades en materia de asistencia social.
+.- El Organismo será el coordinador del Sistema, y tendrá las siguientes funciones:
+
+a) Vigilar el estricto cumplimiento de la presente Ley;
+
+b) Elaborar un Programa Nacional de Asistencia Social conforme a las disposiciones de la Ley de Planeación, los lineamientos del Plan Nacional de Desarrollo, y demás instrumentos de planeación de la Administración Pública Federal;
+
+c) Con fundamento en lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes, el organismo coadyuvará a atender y garantizar el interés superior de la niñez;
+Inciso reformado DOF 06-01-2023
+
+d) Prestar servicios de representación y asistencia jurídica y de orientación social a niñas y niños, jóvenes, adultos mayores, personas con alguna discapacidad, madres adolescentes y solteras, indigentes, indígenas migrantes o desplazados y todas aquellas personas que por distintas circunstancias no puedan ejercer plenamente sus derechos;
+
+e) Poner a disposición del Ministerio Público, los elementos a su alcance para la protección de los derechos familiares;
+
+f) Proponer para su aprobación a la Secretaría de Salud, la formulación de las Normas Oficiales Mexicanas en la materia y apoyarla en la vigilancia de la aplicación de las mismas;
+
+g) Proponer a la Secretaría de Salud, en su carácter de administradora del Patrimonio de la Beneficencia Pública, programas de asistencia social que contribuyan al uso eficiente de los bienes que lo componen;
+
+h) Proponer a la Lotería Nacional para la Asistencia Pública y a los Pronósticos Deportivos para la Asistencia Pública programas de asistencia social que contribuyan al fortalecimiento de los servicios de asistencia social que presten los sectores públicos, social y privado;
+
+i) Promover la elaboración de Normas Oficiales Mexicanas en materia de asistencia social, a través de un Comité Técnico de Normalización Nacional de Asistencia Social, que se regulará con base en lo establecido en la Ley Federal de Metrología y Normalización;
+
+j) Supervisar y evaluar la actividad y los servicios de asistencia social que presten las instituciones de asistencia social pública y privada, conforme a lo que establece la Ley General de Salud y el presente ordenamiento;
+
+k) Elaborar y actualizar el Directorio Nacional de las Instituciones Públicas y Privadas de Asistencia Social;
+
+l) Organizar el Servicio Nacional de Información sobre la Asistencia Social;
+
+m) Organizar, promover y operar el Centro de Información y Documentación sobre Asistencia Social;
+
+n) Difundir a través del Sistema la información sobre el acceso al financiamiento nacional e internacional para actividades de asistencia social;
+
+o) Realizar y apoyar estudios e investigaciones en materia de asistencia social;
+
+p) Promover la formación, capacitación y profesionalización del personal encargado de la prestación de los servicios de asistencia social;
+
+q) Operar establecimientos de asistencia social y llevar a cabo acciones en materia de prevención;
+
+r) Diseñar modelos de atención para la prestación de los servicios asistenciales;
+
+s) Operar en el marco de sus atribuciones programas de rehabilitación y educación especial;
+
+t) Prestar apoyo, colaboración técnica y administrativa en materia de asistencia social, a las distintas entidades federativas, al Distrito Federal y a los Municipios;
+
+u) Promover la integración de fondos mixtos para la asistencia social;
+
+v) Asignar, de acuerdo a su disponibilidad, recursos económicos temporales y otorgar apoyos técnicos a instituciones privadas y sociales, con base a los criterios que sean fijados por la Junta de Gobierno;
+
+w) Coadyuvar con la Secretaría de Relaciones Exteriores en la representación del Gobierno Federal para la ejecución y difusión de programas en materia de asistencia social ante organismos internacionales y multilaterales;
+
+x) Coordinar los esfuerzos públicos y privados, para la integración social de los sujetos de la asistencia, y la elaboración y seguimiento de los programas respectivos;
+
+y) Promover la creación y el desarrollo de instituciones públicas y privadas de asistencia social, y
+
+z) Establecer prioridades en materia de asistencia social.
 
 ### Artículo 29
 .- En el diseño de las políticas públicas, operación de programas, prestación de servicios, y la realización de acciones, El Organismo actuará en coordinación con dependencias y entidades federales, estatales o municipales, de acuerdo con la competencia y atribuciones legales que éstas tengan.
@@ -182,10 +413,26 @@ Promoverá, coordinadamente con los gobiernos de las entidades federativas y mun
 El Organismo, promoverá una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste, y los que proporcionen los establecimientos del sector salud.
 
 ### Artículo 30
-.- El patrimonio del Organismo, se integrará con: a) Los derechos y bienes muebles e inmuebles que actualmente son de su dominio; b) Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades de la administración pública le otorguen; c) Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales; d) Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones; e) Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la ley, y f) En general, los demás bienes, derechos e ingresos que obtenga por cualquier título.
+.- El patrimonio del Organismo, se integrará con:
+
+a) Los derechos y bienes muebles e inmuebles que actualmente son de su dominio;
+
+b) Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades de la administración pública le otorguen;
+
+c) Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales;
+
+d) Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
+
+e) Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la ley, y
+
+f) En general, los demás bienes, derechos e ingresos que obtenga por cualquier título.
 
 ### Artículo 31
-.- Para el estudio, planeación y despacho de los asuntos que le competen, El Organismo contará con los siguientes órganos superiores: a) Junta de Gobierno, y b) Dirección General.
+.- Para el estudio, planeación y despacho de los asuntos que le competen, El Organismo contará con los siguientes órganos superiores:
+
+a) Junta de Gobierno, y
+
+b) Dirección General.
 La vigilancia de la operación del Organismo quedará a cargo de un Comisario.
 
 ### Artículo 32
@@ -194,7 +441,29 @@ Párrafo reformado DOF 20-05-2021 Los miembros de la Junta de Gobierno serán su
 La Junta de Gobierno designará un Secretario Técnico.
 
 ### Artículo 33
-.- La Junta de Gobierno tendrá las siguientes facultades: a) Representar al Organismo con las facultades que establezcan las leyes para actos de dominio y de administración y para pleitos y cobranzas; b) Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales; c) Aprobar el Estatuto Orgánico, la organización general del Organismo y los Manuales de Procedimientos y de Servicios al Público; d) Ratificar la designación y remoción a propuesta del Director General del Organismo, a los servidores públicos de nivel inmediato inferior; e) Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo; f) Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que le correspondan al Organismo; g) Estudiar y aprobar los proyectos de inversión; h) Conocer y aprobar los acuerdos de Coordinación que hayan de celebrarse con dependencias y entidades públicas federales, estatales y del Distrito Federal; i) Determinar la integración de Comités Técnicos y grupos de trabajo temporales; j) Aprobar los programas que en materia de asistencia social pública formule El Organismo, y k) Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+.- La Junta de Gobierno tendrá las siguientes facultades:
+
+a) Representar al Organismo con las facultades que establezcan las leyes para actos de dominio y de administración y para pleitos y cobranzas;
+
+b) Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
+
+c) Aprobar el Estatuto Orgánico, la organización general del Organismo y los Manuales de Procedimientos y de Servicios al Público;
+
+d) Ratificar la designación y remoción a propuesta del Director General del Organismo, a los servidores públicos de nivel inmediato inferior;
+
+e) Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;
+
+f) Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que le correspondan al Organismo;
+
+g) Estudiar y aprobar los proyectos de inversión;
+
+h) Conocer y aprobar los acuerdos de Coordinación que hayan de celebrarse con dependencias y entidades públicas federales, estatales y del Distrito Federal;
+
+i) Determinar la integración de Comités Técnicos y grupos de trabajo temporales;
+
+j) Aprobar los programas que en materia de asistencia social pública formule El Organismo, y
+
+k) Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
 ### Artículo 34
 .- La Junta de Gobierno podrá integrar Comités Técnicos para el estudio y propuesta de mecanismos de coordinación interinstitucional en la atención de las tareas asistenciales que realice El Organismo, o bien las instituciones integrantes del Sistema. Los Comités estarán formados por los representantes que al efecto designen las dependencias y entidades competentes.
@@ -207,13 +476,43 @@ La Junta de Gobierno designará un Secretario Técnico.
 El Presidente de la República designará y removerá libremente al Director General.
 
 ### Artículo 37
-.- El Director General tendrá las siguientes facultades: a) Administrar y representar legalmente al Organismo; b) Ejecutar los acuerdos y disposiciones de la Junta de Gobierno; c) Presentar a la Junta de Gobierno los informes y estados financieros trimestrales, acompañados de los comentarios que al efecto formulen el Comisario y el Auditor Externo; d) Formular los programas de corto, mediano y largo plazo, los presupuestos y las políticas institucionales, establecer los procedimientos generales e informes de actividades y estados financieros anuales del Organismo, presentándolos para su aprobación a la Junta de Gobierno; e) Proponer a la Junta de Gobierno la designación y remoción de los servidores públicos de nivel inmediato inferior del Organismo; f) Autorizar y expedir los nombramientos de personal y manejar las relaciones laborales de acuerdo con las disposiciones legales; g) Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones de la Junta de Gobierno; h) Celebrar convenios, acuerdos, contratos y ejecutar los actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo; i) Actuar en representación del Organismo, con facultades generales para actos de administración, de dominio, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes, y j) Las demás que sean necesarias para el ejercicio de las facultades establecidas en éste u otros ordenamientos jurídicos.
+.- El Director General tendrá las siguientes facultades:
+
+a) Administrar y representar legalmente al Organismo;
+
+b) Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
+
+c) Presentar a la Junta de Gobierno los informes y estados financieros trimestrales, acompañados de los comentarios que al efecto formulen el Comisario y el Auditor Externo;
+
+d) Formular los programas de corto, mediano y largo plazo, los presupuestos y las políticas institucionales, establecer los procedimientos generales e informes de actividades y estados financieros anuales del Organismo, presentándolos para su aprobación a la Junta de Gobierno;
+
+e) Proponer a la Junta de Gobierno la designación y remoción de los servidores públicos de nivel inmediato inferior del Organismo;
+
+f) Autorizar y expedir los nombramientos de personal y manejar las relaciones laborales de acuerdo con las disposiciones legales;
+
+g) Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones de la Junta de Gobierno;
+
+h) Celebrar convenios, acuerdos, contratos y ejecutar los actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
+
+i) Actuar en representación del Organismo, con facultades generales para actos de administración, de dominio, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes, y
+
+j) Las demás que sean necesarias para el ejercicio de las facultades establecidas en éste u otros ordenamientos jurídicos.
 
 ### Artículo 38
 .- El Comisario será designado por la Secretaría de la Función Pública; deberá ser ciudadano mexicano y con experiencia profesional en la materia no menor de cinco años.
 
 ### Artículo 39
-.- El Comisario tendrá las siguientes facultades: a) Vigilar que la administración de los recursos y el funcionamiento del Organismo se haga de acuerdo con lo que dispongan esta Ley y los programas y presupuestos aprobados; b) Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran; c) Recomendar a la Junta de Gobierno y al Director General las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Organismo; d) Asistir a las sesiones de la Junta de Gobierno, y e) Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
+.- El Comisario tendrá las siguientes facultades:
+
+a) Vigilar que la administración de los recursos y el funcionamiento del Organismo se haga de acuerdo con lo que dispongan esta Ley y los programas y presupuestos aprobados;
+
+b) Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
+
+c) Recomendar a la Junta de Gobierno y al Director General las medidas preventivas y correctivas que sean convenientes para el mejoramiento del Organismo;
+
+d) Asistir a las sesiones de la Junta de Gobierno, y
+
+e) Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
 
 ### Artículo 40
 .- El Organismo, contará además con un Consejo Ciudadano Consultivo que emitirá opiniones y recomendaciones sobre sus políticas y programas nacionales, apoyará sus actividades y contribuirá a la obtención de recursos que permitan el incremento de su patrimonio. La persona titular de la Secretaría de Salud y la de la Dirección General del Organismo representarán a la Junta de Gobierno ante el Consejo Ciudadano Consultivo, cuyos integrantes no percibirán retribución, emolumento o compensación alguna, y se seleccionarán de entre los sectores público y privado, observando el principio de paridad de género y de acuerdo con el Reglamento que la Junta de Gobierno emita.
@@ -236,7 +535,17 @@ De la Coordinación, Concertación y Participación Ciudadana
 Artículo reformado DOF 01-04-2024
 
 ### Artículo 45
-.- Con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social en las entidades federativas y los municipios, El Organismo, promoverá la celebración de convenios entre los distintos niveles de gobierno, a fin de: a) Establecer programas conjuntos; b) Promover la conjunción de los niveles de gobierno en la aportación de recursos financieros; c) Distribuir y coordinar acciones entre las partes, de manera proporcional y equitativa; d) Procurar la integración y fortalecimiento de los regímenes de asistencia privada, y e) Consolidar los apoyos a los patrimonios de la beneficencia pública de las entidades federativas.
+.- Con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social en las entidades federativas y los municipios, El Organismo, promoverá la celebración de convenios entre los distintos niveles de gobierno, a fin de:
+
+a) Establecer programas conjuntos;
+
+b) Promover la conjunción de los niveles de gobierno en la aportación de recursos financieros;
+
+c) Distribuir y coordinar acciones entre las partes, de manera proporcional y equitativa;
+
+d) Procurar la integración y fortalecimiento de los regímenes de asistencia privada, y
+
+e) Consolidar los apoyos a los patrimonios de la beneficencia pública de las entidades federativas.
 
 ### Artículo 46
 .- El Organismo promoverá ante los gobiernos locales, el establecimiento de los mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de servicios básicos en materia de asistencia social.
@@ -256,10 +565,36 @@ El Organismo les prestará la asesoría técnica necesaria y los apoyos conducen
 .- Las autoridades públicas no podrán disponer de los bienes y recursos que pertenezcan a las instituciones privadas de asistencia social.
 
 ### Artículo 51
-.- Las instituciones privadas de asistencia social serán consideradas de interés público y tendrán los siguientes derechos: a) Formar parte del Directorio Nacional de Instituciones de Asistencia Social; b) Recibir de parte del Organismo, la certificación de calidad de los servicios de asistencia social que ofrecen a la población; c) Acceder a los recursos públicos destinados a la asistencia social, en los términos y las modalidades que fijen las autoridades correspondientes y conforme al programa nacional de asistencia social; d) Participar en el diseño, ejecución y evaluación de las políticas públicas en materia de asistencia social; e) Recibir el apoyo y la asesoría técnica y administrativa que las autoridades otorguen; f) Tener acceso al sistema nacional de información; g) Recibir donativos de personas físicas y morales, nacionales o extranjeras, de acuerdo con las leyes y ordenamientos respectivos; h) Acceder a los beneficios dirigidos a las organizaciones sociales, que se deriven de los Convenios y Tratados Internacionales, y que estén relacionados con las actividades y finalidades previstas por esta Ley, e i) Ser respetadas en el ejercicio de sus actividades, estructura y organización interna.
+.- Las instituciones privadas de asistencia social serán consideradas de interés público y tendrán los siguientes derechos:
+
+a) Formar parte del Directorio Nacional de Instituciones de Asistencia Social;
+
+b) Recibir de parte del Organismo, la certificación de calidad de los servicios de asistencia social que ofrecen a la población;
+
+c) Acceder a los recursos públicos destinados a la asistencia social, en los términos y las modalidades que fijen las autoridades correspondientes y conforme al programa nacional de asistencia social;
+
+d) Participar en el diseño, ejecución y evaluación de las políticas públicas en materia de asistencia social;
+
+e) Recibir el apoyo y la asesoría técnica y administrativa que las autoridades otorguen;
+
+f) Tener acceso al sistema nacional de información;
+
+g) Recibir donativos de personas físicas y morales, nacionales o extranjeras, de acuerdo con las leyes y ordenamientos respectivos;
+
+h) Acceder a los beneficios dirigidos a las organizaciones sociales, que se deriven de los Convenios y Tratados Internacionales, y que estén relacionados con las actividades y finalidades previstas por esta Ley, e
+
+i) Ser respetadas en el ejercicio de sus actividades, estructura y organización interna.
 
 ### Artículo 52
-.- Las instituciones privadas de asistencia social tendrán las siguientes obligaciones: a) Constituirse de acuerdo con lo estipulado en las leyes aplicables; b) Inscribirse en el Directorio Nacional de Instituciones de Asistencia Social; c) Cumplir con lo establecido en las Normas Oficiales Mexicanas que se emitan para la regulación de los servicios de asistencia social y colaborar con las tareas de supervisión que realice El Organismo, y d) Garantizar en todo momento el respeto a la dignidad y los derechos humanos de las personas, familias o comunidades que reciban sus servicios de asistencia social.
+.- Las instituciones privadas de asistencia social tendrán las siguientes obligaciones:
+
+a) Constituirse de acuerdo con lo estipulado en las leyes aplicables;
+
+b) Inscribirse en el Directorio Nacional de Instituciones de Asistencia Social;
+
+c) Cumplir con lo establecido en las Normas Oficiales Mexicanas que se emitan para la regulación de los servicios de asistencia social y colaborar con las tareas de supervisión que realice El Organismo, y
+
+d) Garantizar en todo momento el respeto a la dignidad y los derechos humanos de las personas, familias o comunidades que reciban sus servicios de asistencia social.
 
 ### Artículo 53
 .- El Estado promoverá la organización y participación de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social basadas en el apoyo y solidaridad social o en los usos y costumbres indígenas, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
@@ -277,7 +612,13 @@ Directorio Nacional de las Instituciones de Asistencia Social
 .- Se crea el Directorio Nacional de Instituciones de Asistencia Social con objeto de dar publicidad a los servicios y apoyos asistenciales que presten las instituciones públicas y privadas, así como su localización en el territorio nacional. Este Directorio estará a cargo del Organismo.
 
 ### Artículo 57
-.- El Directorio Nacional se conformará con las inscripciones de las instituciones de asistencia social que se tramiten: a) A través de los Sistemas para el Desarrollo Integral de la Familia Estatales o del Distrito Federal; b) A través de las Juntas de Asistencia Privada u organismos similares, y c) Las que directamente presenten las propias instituciones ante este Directorio.
+.- El Directorio Nacional se conformará con las inscripciones de las instituciones de asistencia social que se tramiten:
+
+a) A través de los Sistemas para el Desarrollo Integral de la Familia Estatales o del Distrito Federal;
+
+b) A través de las Juntas de Asistencia Privada u organismos similares, y
+
+c) Las que directamente presenten las propias instituciones ante este Directorio.
 
 ### Artículo 58
 .- El registro de las instituciones y la supervisión de las funciones asistenciales, será requisito para recibir recursos de las instituciones de asistencia social pública.

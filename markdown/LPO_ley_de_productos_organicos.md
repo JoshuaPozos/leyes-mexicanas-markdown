@@ -16,38 +16,68 @@ TÍTULO PRIMERO DEL OBJETO Y APLICACIÓN DE LA LEY
 
 ### Artículo 1
 .- La presente Ley es de orden público y de interés social y tiene por objeto:
+
 I. Promover y regular los criterios y/o requisitos para la conversión, producción, procesamiento, elaboración, preparación, acondicionamiento, almacenamiento, identificación, empaque, etiquetado, distribución, transporte, comercialización, verificación y certificación de productos producidos orgánicamente;
+
 II. Establecer las prácticas a que deberán sujetarse las materias primas, productos intermedios, productos terminados y subproductos en estado natural, semiprocesados o procesados que hayan sido obtenidos con respeto al medio ambiente y cumpliendo con criterios de sustentabilidad;
+
 III. Promover que en los métodos de producción orgánica se incorporen elementos que contribuyan a que este sector se desarrolle sustentado en el principio de justicia social;
+
 IV. Establecer los requerimientos mínimos de verificación y Certificación orgánica para un Sistema de control, estableciendo las responsabilidades de los involucrados en el proceso de Certificación para facilitar la producción y/o procesamiento y el comercio de productos orgánicos, a fin de obtener y mantener el reconocimiento de los certificados orgánicos para efectos de importaciones y exportaciones;
+
 V. Promover los sistemas de producción bajo métodos orgánicos, en especial en aquellas regiones donde las condiciones ambientales y socioeconómicas sean propicias para la actividad o hagan necesaria la reconversión productiva para que contribuyan a la recuperación y/o preservación de los ecosistemas y alcanzar el cumplimiento con los criterios de sustentabilidad;
+
 VI. Permitir la clara identificación de los productos que cumplen con los criterios de la producción orgánica para mantener la credibilidad de los consumidores y evitar perjuicios o engaños;
-VII. Establecer la lista nacional de substancias permitidas, restringidas y prohibidas bajo métodos orgánicos así como los criterios para su evaluación, y VIII. Crear un organismo de apoyo a la Secretaría donde participen los sectores de la cadena productiva orgánica e instituciones gubernamentales con competencia en la materia, quien fungirá como Consejo asesor en la materia.
+
+VII. Establecer la lista nacional de substancias permitidas, restringidas y prohibidas bajo métodos orgánicos así como los criterios para su evaluación, y
+
+VIII. Crear un organismo de apoyo a la Secretaría donde participen los sectores de la cadena productiva orgánica e instituciones gubernamentales con competencia en la materia, quien fungirá como Consejo asesor en la materia.
 
 ### Artículo 2
 .- Son sujetos de la presente Ley, las personas físicas o morales que realicen o certifiquen actividades agropecuarias mediante sistemas de producción, recolección y manejo bajo métodos orgánicos, incluyendo su procesamiento y comercialización.
 
 ### Artículo 3
 .- Para los efectos de esta Ley se entenderá por:
+
 I. Acreditación: Procedimiento por el cual una entidad de acreditación reconoce la competencia técnica y confiabilidad de los organismos de certificación para la Evaluación de la conformidad;
+
 II. Actividades Agropecuarias: Procesos productivos primarios y secundarios basados en recursos naturales renovables tales como la agricultura, ganadería, acuacultura, pesca y silvícolas;
+
 III. Aprobación: Proceso en el que la Secretaría reconoce y autoriza legalmente a un Organismo de Certificación para que desempeñe las funciones de certificador o inspector;
+
 IV. Certificación orgánica: Proceso a través del cual los organismos de certificación acreditados y aprobados, constatan que los sistemas de producción, manejo y procesamiento de productos orgánicos se ajustan a los requisitos establecidos en las disposiciones de esta Ley;
+
 V. Certificado orgánico: Documento que expide el organismo de certificación con el cual asegura que el producto fue producido y/o procesado conforme a esta Ley y sus disposiciones reglamentarias;
+
 VI. Consejo: Consejo Nacional de Producción Orgánica;
+
 VII. Evaluación de la conformidad: La determinación del grado de cumplimiento con las normas oficiales mexicanas o la conformidad con las normas mexicanas, las normas internacionales u otras especificaciones, prescripciones o características. Comprende, entre otros, los procedimientos de muestreo, prueba, calibración, certificación y verificación;
+
 VIII. Disposiciones aplicables: Normas, lineamientos técnicos, pliegos de condiciones o cualquier otro documento normativo emitido por las Dependencias de la Administración Pública Federal que tengan competencia en las materias reguladas en este ordenamiento;
+
 IX. Manejo: La acción de vender, procesar o empacar productos orgánicos, el transporte o la entrega de cosechas, ganado o captura de parte del productor de éstos al negociante, excepto que tal término no incluye la comercialización final;
+
 X. Métodos excluidos: Los métodos utilizados para modificar genéticamente organismos o influir en su crecimiento y desarrollo por medios que no sean posibles según condiciones o procesos naturales y que no se consideren compatibles con la producción orgánica. Tales métodos incluyen de manera enunciativa y no limitativa a la fusión de células, micro-encapsulación y macro-encapsulación, y tecnología de recombinación de ácido desoxiribonucléico (ADN), incluyendo supresión genética, duplicación genética, la introducción de un gen extraño, y cambiar las posiciones de los genes cuando se han logrado por medio de la tecnología de recombinado ADN. También son conocidos como organismos obtenidos o modificados genéticamente. En tales métodos quedan excluidos el uso de la reproducción tradicional, conjugación, fermentación, hibridación, fertilización in vitro o el cultivo de tejido;
+
 XI. Operador orgánico: persona o grupo de personas que realizan operación orgánica;
+
 XII. Orgánico: término de rotulación que se refiere a un producto de las actividades agropecuarias obtenido de acuerdo con esta Ley y las disposiciones que de ella deriven. Las expresiones orgánico, ecológico, biológico y las denominaciones con prefijos bio y eco, que se anoten en las etiquetas de los productos, se consideran como sinónimos y son términos equivalentes para fines de comercio nacional e internacional;
+
 XIII. Organismos de certificación orgánica: personas morales acreditadas y aprobadas para llevar a cabo actividades de Certificación orgánica;
+
 XIV. Periodo de conversión: tiempo que transcurre entre el comienzo de la producción y/o manejo orgánico y la Certificación orgánica de cultivos, ganadería u otra actividad agropecuaria;
+
 XV. Plan orgánico: documento en que se detallan las etapas de la producción y el manejo orgánico e incluye la descripción de todos los aspectos de las actividades de producción orgánica sujetos a observancia de acuerdo con esta Ley y sus disposiciones reglamentarias;
+
 XVI. Procesamiento: las actividades de cocinar, hornear, curar, calentar, secar, mezclar, moler, batir, separar, extraer, sacrificar animales, cortar, fermentar, destilar, destripar, descabezar, preservar, deshidratar, preenfriar, enfriar y congelar o procedimientos de manufactura análogos a los anteriores; incluye el empaque, reempaque, enlatado, envasado, enmarquetado o la contención de alimentos en envases;
+
 XVII. Producción Orgánica: sistema de producción y procesamiento de alimentos, productos y subproductos animales, vegetales u otros satisfactores, con un uso regulado de insumos externos, restringiendo y en su caso prohibiendo la utilización de productos de síntesis química;
+
 XVIII. Registro: cualquier información por escrito, visual, o en forma electrónica en el que consten las actividades llevadas a cabo por un productor, procesador, comercializador u Organismo de Certificación en el cumplimiento de esta Ley y sus disposiciones reglamentarias;
-XIX. Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y XX. Sistema de control: Es el conjunto de procedimientos y acciones de la Secretaría para garantizar que los productos denominados como orgánicos hallan sido obtenidos conforme lo establece esta Ley.
+
+XIX. Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
+
+XX. Sistema de control: Es el conjunto de procedimientos y acciones de la Secretaría para garantizar que los productos denominados como orgánicos hallan sido obtenidos conforme lo establece esta Ley.
 
 ### Artículo 4
 .- La aplicación e interpretación de la presente Ley, para efectos administrativos, corresponderá al Ejecutivo Federal por conducto de la Secretaría. Cuando se trate de productos, subproductos y materias primas forestales o productos y subproductos de la vida silvestre, la aplicación e interpretación de la presente Ley corresponderá a la Secretaría de Medio Ambiente y Recursos Naturales.
@@ -55,26 +85,44 @@ La Secretaría coordinará sus acciones con la Secretaría de Medio Ambiente y R
 
 ### Artículo 5
 .- Serán de aplicación supletoria de la presente Ley:
+
 I. En materia de Acreditación de Organismos de Certificación y Evaluación de la conformidad, la Ley Federal sobre Metrología y Normalización;
-II. Tratándose de recursos, materias primas, productos y subproductos forestales, la Ley General de Desarrollo Forestal Sustentable, y III. Tratándose de productos y subproductos de la vida silvestre, la Ley General de Vida Silvestre.
+
+II. Tratándose de recursos, materias primas, productos y subproductos forestales, la Ley General de Desarrollo Forestal Sustentable, y
+
+III. Tratándose de productos y subproductos de la vida silvestre, la Ley General de Vida Silvestre.
 
 ### Artículo 6
 .- Corresponderá a la Secretaría.
+
 I. Proponer acciones para impulsar el desarrollo de la producción orgánica;
+
 II. Coordinar y dar seguimiento a las actividades de fomento y desarrollo integral en materia de productos orgánicos;
+
 III. Celebrar convenios de concertación y suscripción de acuerdos de coordinación para la promoción del desarrollo de la producción orgánica con las entidades federativas y municipios;
+
 IV. Promover el desarrollo de capacidades de los Operadores, Organismos de Certificación, evaluadores y auditores orgánicos y el grupo de expertos evaluadores de insumos para operaciones orgánicas;
+
 V. Promover la integración de los comités sistema producto en materia orgánica, de conformidad con lo establecido en la Ley de Desarrollo Rural Sustentable;
+
 VI. Fomentar la Certificación orgánica así como la promoción de los productos orgánicos en los mercados nacional e internacional;
+
 VII. Promover la investigación científica y la transferencia de tecnología orientada al desarrollo de la actividad de producción y procesamiento de productos orgánicos;
+
 VIII. Promover programas de cooperación con centros de investigación y de enseñanza, nacionales o internacionales, para fomentar la investigación científica que apoye el desarrollo del sector productivo orgánico;
+
 IX. Emitir los instrumentos y/o Disposiciones aplicables que regulen las actividades de los Operadores orgánicos;
+
 X. Publicar y mantener actualizadas:
 A. La lista nacional de substancias, materiales, métodos, ingredientes e insumos permitidos, restringidos y prohibidos para la producción o manejo bajo métodos orgánicos.
 B. Las Disposiciones aplicables para la producción, cosecha, captura, recolección, acarreo, elaboración, preparación, procesamiento, acondicionamiento, identificación, empaque, almacenamiento, transporte, distribución, pesca y acuacultura; la comercialización, etiquetado, condiciones de uso permitido de las substancias, materiales o insumos; y demás que formen parte del Sistema de control y Certificación de productos derivados de actividades agropecuarias que lleven un etiquetado descriptivo relativo a su obtención bajo métodos orgánicos.
 C. Las especificaciones para el uso del término orgánico en el etiquetado de los productos.
+
 XI. Coordinarse en su caso con la Secretaría de Economía para gestionar y mantener la equivalencia internacional para el reconocimiento del Sistema de control nacional, a fin de facilitar el comercio internacional de los productos orgánicos, así como evaluar los sistemas de control aplicados en los países que soliciten acuerdos de equivalencia en la materia;
-XII. Promover la apertura en las fracciones arancelarias existentes para productos provenientes de sistemas orgánicos, a fin de facilitar la comercialización diferenciada y coadyuvar al mantenimiento de la integridad orgánica en las exportaciones e importaciones de las mercancías, y XIII. Aplicar los derechos relacionados con los servicios en todo el Sistema de control nacional y demás actos administrativos de la Secretaría que se deriven de la aplicación de esta Ley, los cuales se sujetarán a lo dispuesto por la Ley Federal de Derechos.
+
+XII. Promover la apertura en las fracciones arancelarias existentes para productos provenientes de sistemas orgánicos, a fin de facilitar la comercialización diferenciada y coadyuvar al mantenimiento de la integridad orgánica en las exportaciones e importaciones de las mercancías, y
+
+XIII. Aplicar los derechos relacionados con los servicios en todo el Sistema de control nacional y demás actos administrativos de la Secretaría que se deriven de la aplicación de esta Ley, los cuales se sujetarán a lo dispuesto por la Ley Federal de Derechos.
 
 ### Artículo 7
 .- La Secretaría se coordinará con las Dependencias de la Administración Pública Federal en el ámbito de sus respectivas competencias para lo conducente sobre la materia objeto del presente ordenamiento.
@@ -108,16 +156,28 @@ TÍTULO TERCERO DEL CONSEJO NACIONAL DE PRODUCCIÓN ORGÁNICA CAPÍTULO ÚNICO
 
 ### Artículo 16
 .- Son funciones del Consejo:
+
 I. Emitir opinión a la Secretaría sobre instrumentos regulatorios nacionales o internacionales que incidan en la actividad orgánica;
+
 II. Expresar opinión y asesorar a la Secretaría sobre las Disposiciones que ésta emita relativas a métodos orgánicos, así como para la evaluación de sustancias y materiales;
+
 III. Asesorar a la Secretaría en los aspectos de orden técnico;
+
 IV. Proponer a la Secretaría la celebración de convenios de concertación y suscripción de acuerdos de coordinación para la promoción del desarrollo de la producción orgánica con las entidades federativas y municipios;
+
 V. Fomentar, en coordinación con la Secretaría, la capacitación y el desarrollo de capacidades de Operadores, Organismos de certificación, evaluadores y auditores orgánicos y del grupo de expertos evaluadores de insumos para operaciones orgánicas;
+
 VI. Coadyuvar con la Secretaría en el reconocimiento mutuo en el ámbito internacional de la equivalencia del Sistema de control mexicano;
+
 VII. Proponer a la Secretaría acciones y políticas que tengan como objetivo el fomento al desarrollo de la producción orgánica;
+
 VIII. Establecer grupos de trabajo en las diferentes actividades específicas relacionadas con la producción orgánica;
+
 IX. Coadyuvar con la Secretaría en el establecimiento de un padrón de los sujetos destinatarios de las disposiciones de la presente Ley, así como en la generación de información para conformar las estadísticas nacionales de la producción y comercialización de productos orgánicos;
-X. Reglamentar su funcionamiento interno, y XI. Las demás que le asignen la presente Ley y demás disposiciones que se deriven de la misma.
+
+X. Reglamentar su funcionamiento interno, y
+
+XI. Las demás que le asignen la presente Ley y demás disposiciones que se deriven de la misma.
 
 ## TÍTULO CUARTO
 DEL SISTEMA DE CONTROL Y CERTIFICACIÓN DE PRODUCTOS ORGÁNICOS CAPÍTULO PRIMERO DE LOS ORGANISMOS DE CERTIFICACIÓN Y LA CERTIFICACIÓN
@@ -127,7 +187,10 @@ DEL SISTEMA DE CONTROL Y CERTIFICACIÓN DE PRODUCTOS ORGÁNICOS CAPÍTULO PRIMER
 
 ### Artículo 18
 .- Los Organismos de certificación interesados en ser aprobados para certificar productos orgánicos deberán cubrir como mínimo los siguientes requisitos:
-I. Solicitar por escrito la aprobación a la Secretaría, y II. Demostrar haberse acreditado por una Entidad de Acreditación en términos de la Ley Federal sobre Metrología y Normalización y/o demostrar Acreditación bajo la Guía ISO 65 o su equivalente nacional o de otros países.
+
+I. Solicitar por escrito la aprobación a la Secretaría, y
+
+II. Demostrar haberse acreditado por una Entidad de Acreditación en términos de la Ley Federal sobre Metrología y Normalización y/o demostrar Acreditación bajo la Guía ISO 65 o su equivalente nacional o de otros países.
 
 ### Artículo 19
 .- Los operadores interesados en certificar sus productos como orgánicos, deberán acudir a un Organismo de Certificación Acreditado y Aprobado, el cual evaluará la conformidad de los mismos respecto a las Disposiciones aplicables emitidas por la Secretaría y otorgará, en su caso, un certificado orgánico.
@@ -137,8 +200,12 @@ I. Solicitar por escrito la aprobación a la Secretaría, y II. Demostrar habers
 
 ### Artículo 21
 .- La Secretaría emitirá Disposiciones aplicables dirigidas a establecer:
+
 I. Un sistema de registros y datos en los que consten las estadísticas y actividades llevadas a cabo por los Operadores de productos orgánicos en el país;
-II. Las acciones a realizar en caso de negativa de Certificación a un Operador, y III. Las acciones a realizar por los Operadores en los casos del retiro, término de la vigencia o revocación de la autorización a los Organismos de certificación con la cual estaban certificando.
+
+II. Las acciones a realizar en caso de negativa de Certificación a un Operador, y
+
+III. Las acciones a realizar por los Operadores en los casos del retiro, término de la vigencia o revocación de la autorización a los Organismos de certificación con la cual estaban certificando.
 
 ### Artículo 22
 .- Para denominar a un producto como orgánico, deberá contar con la Certificación correspondiente expedida por un Organismo de Certificación Acreditado y Aprobado.
@@ -194,23 +261,37 @@ TÍTULO SEXTO DE LA PROMOCIÓN Y FOMENTO CAPÍTULO ÚNICO
 
 ### Artículo 38
 .- La Secretaría en coordinación con las Entidades Federativas y Municipios en el ámbito de su competencia, promoverá políticas y acciones orientadas a:
+
 I. Coadyuvar a la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales incluidos los recursos acuáticos, mediante la aplicación de sistemas bajo métodos orgánicos;
-II. Contribuir a la soberanía y seguridad alimentarias mediante el impulso de la producción orgánica, y III. Fomentar el consumo de productos orgánicos para promover actitudes de consumo socialmente responsables.
+
+II. Contribuir a la soberanía y seguridad alimentarias mediante el impulso de la producción orgánica, y
+
+III. Fomentar el consumo de productos orgánicos para promover actitudes de consumo socialmente responsables.
 
 ### Artículo 39
 .- La Secretaría, con opinión del Consejo, promoverá que en actividades agropecuarias se adopte y desarrolle la producción bajo métodos orgánicos para:
+
 I. Aprovechar las condiciones ambientales y socioeconómicas propicias para la actividad;
+
 II. Recuperar sistemas agro ecológicos que se encuentren en estado de degradación o estén en peligro de ser degradados por acción de las prácticas agropecuarias convencionales;
-III. Proporcionar una alternativa sustentable a los sistemas de producción de los pequeños productores, cooperativistas, ejidatarios y comuneros, y IV. Obtener un mayor valor en el mercado o acceder a nuevos mercados constituyendo una alternativa sostenible de los productores a través de la reconversión hacia la producción orgánica.
+
+III. Proporcionar una alternativa sustentable a los sistemas de producción de los pequeños productores, cooperativistas, ejidatarios y comuneros, y
+
+IV. Obtener un mayor valor en el mercado o acceder a nuevos mercados constituyendo una alternativa sostenible de los productores a través de la reconversión hacia la producción orgánica.
 
 ### Artículo 40
 .- Se promoverá la apertura en las fracciones arancelarias para los productos provenientes de sistemas orgánicos, a los efectos de discriminar correctamente la comercialización de dichos productos, a fin de facilitar la comercialización diferenciada y coadyuvar al mantenimiento de la integridad orgánica de las mercancías.
 
 ### Artículo 41
 .- Para impulsar el desarrollo de los sistemas de producción orgánicos y las capacidades del sector orgánico, el Gobierno Federal promoverá:
+
 I. Programas y apoyos a los que desarrollen prácticas agroambientales bajo métodos orgánicos;
+
 II. Apoyos directos a los pequeños productores orgánicos que les permita incrementar la eficiencia de sus unidades de producción, mejorar sus ingresos y fortalecer su competitividad frente a los acuerdos y tratados sobre la materia;
-III. El diseño y operación de esquemas de financiamiento integral, seguro contra de riesgos y el otorgamiento de apoyo a los Operadores certificados o en conversión, y IV. Apoyos a los Organismos de certificación para el acceso al reconocimiento internacional de su Acreditación y certificados orgánicos.
+
+III. El diseño y operación de esquemas de financiamiento integral, seguro contra de riesgos y el otorgamiento de apoyo a los Operadores certificados o en conversión, y
+
+IV. Apoyos a los Organismos de certificación para el acceso al reconocimiento internacional de su Acreditación y certificados orgánicos.
 TÍTULO SÉPTIMO DE LOS CRITERIOS SOCIALES EN LOS MÉTODOS DE PRODUCCIÓN ORGÁNICA CAPÍTULO ÚNICO
 
 ### Artículo 42
@@ -219,11 +300,18 @@ TÍTULO OCTAVO DE LAS INFRACCIONES, SANCIONES Y RECURSO ADMINISTRATIVO CAPÍTULO
 
 ### Artículo 43
 .- Son infracciones a lo establecido en la presente Ley:
+
 I. Que un Operador, con pleno conocimiento, comercialice o etiquete materias primas, productos intermedios, productos terminados y subproductos como "orgánico", sin cumplir con lo establecido en esta Ley;
+
 II. Que los Operadores certificados utilicen sustancias prohibidas en contravención a la presente Ley;
+
 III. Que un organismo aprobado certifique como orgánico un producto que no cumpla con lo establecido en la presente Ley debido a que se les hubiere aplicado prácticas, sustancias, materiales e ingredientes prohibidos;
+
 IV. El incumplimiento de parte del organismo aprobado de las obligaciones previstas en esta Ley y sus disposiciones;
-V. El uso por terceras personas de los Métodos excluidos, a que se refiere la fracción X del artículo 3, y con motivo de ello se alteren las condiciones de integridad orgánica de las unidades de producción o de manejo orgánicos o en conversión, y VI. El uso por terceras personas de substancias o materiales prohibidos y los referidos en el artículo 27, y con motivo de ello se alteren las condiciones de integridad orgánica de las operaciones orgánicas o en periodo de conversión.
+
+V. El uso por terceras personas de los Métodos excluidos, a que se refiere la fracción X del artículo 3, y con motivo de ello se alteren las condiciones de integridad orgánica de las unidades de producción o de manejo orgánicos o en conversión, y
+
+VI. El uso por terceras personas de substancias o materiales prohibidos y los referidos en el artículo 27, y con motivo de ello se alteren las condiciones de integridad orgánica de las operaciones orgánicas o en periodo de conversión.
 
 ### Artículo 44
 . La Secretaría sancionará con multa de cinco mil hasta quince mil veces el salario mínimo general vigente en el Distrito Federal a quien cometa las infracciones previstas en las Fracciones I, II, III, IV y VI del artículo anterior, sin perjuicio del resarcimiento de los daños y perjuicios que causen al afectado, a la salud humana, a la diversidad biológica, a la propiedad, al medio ambiente y de las sanciones previstas en otros ordenamientos.

@@ -15,25 +15,46 @@ Se expide la Ley de Amnistía.
 LEY DE AMNISTÍA
 
 ### Artículo 1
-. Se decreta amnistía en favor de las personas en contra de quienes se haya ejercitado acción penal, hayan sido procesadas o se les haya dictado sentencia firme, ante los tribunales del orden federal, siempre que no sean reincidentes respecto del delito por el que están indiciadas o sentenciadas, por los delitos cometidos antes de la fecha de entrada en vigor de la presente Ley, en los siguientes supuestos: cuando: a) Se impute a la madre del producto del embarazo interrumpido; b) Se impute a las y los médicos, cirujanos, comadronas o parteras, u otro personal autorizado de servicios de la salud, que hayan auxiliado en la interrupción del embarazo, siempre que la conducta delictiva se haya llevado a cabo sin violencia y con el consentimiento de la madre del producto del embarazo interrumpido; c) Se impute a los familiares de la madre del producto que hayan auxiliado en la interrupción del embarazo;
+. Se decreta amnistía en favor de las personas en contra de quienes se haya ejercitado acción penal, hayan sido procesadas o se les haya dictado sentencia firme, ante los tribunales del orden federal, siempre que no sean reincidentes respecto del delito por el que están indiciadas o sentenciadas, por los delitos cometidos antes de la fecha de entrada en vigor de la presente Ley, en los siguientes supuestos: cuando:
+
+a) Se impute a la madre del producto del embarazo interrumpido;
+
+b) Se impute a las y los médicos, cirujanos, comadronas o parteras, u otro personal autorizado de servicios de la salud, que hayan auxiliado en la interrupción del embarazo, siempre que la conducta delictiva se haya llevado a cabo sin violencia y con el consentimiento de la madre del producto del embarazo interrumpido;
+
+c) Se impute a los familiares de la madre del producto que hayan auxiliado en la interrupción del embarazo;
+
 II. Por el delito de homicidio por razón de parentesco, cuando el sujeto pasivo sea el producto de la concepción en cualquier momento de la preñez, en los supuestos previstos en la fracción I de este artículo;
+
 III. Por los delitos contra la salud a que se refieren los artículos 194, fracciones I y II, 195, 195 Bis y 474 de la Ley General de Salud, cuando:
-LEY DE AMNISTÍA a) Quien los haya cometido se encuentre en situación de pobreza, o de extrema vulnerabilidad por su condición de exclusión y discriminación, por tener una discapacidad permanente, o cuando el delito se haya cometido por indicación de su cónyuge, concubinario o concubina, pareja sentimental, pariente consanguíneo o por afinidad sin limitación de grado, o por temor fundado, así como quien haya sido obligado por grupos de la delincuencia organizada a cometer el delito; b) Quien pertenezca a un pueblo o comunidad indígena o afromexicana, en términos del
+LEY DE AMNISTÍA
+
+a) Quien los haya cometido se encuentre en situación de pobreza, o de extrema vulnerabilidad por su condición de exclusión y discriminación, por tener una discapacidad permanente, o cuando el delito se haya cometido por indicación de su cónyuge, concubinario o concubina, pareja sentimental, pariente consanguíneo o por afinidad sin limitación de grado, o por temor fundado, así como quien haya sido obligado por grupos de la delincuencia organizada a cometer el delito;
+
+b) Quien pertenezca a un pueblo o comunidad indígena o afromexicana, en términos del
 
 ### artículo 2
-de la Constitución Política de los Estados Unidos Mexicanos, y se encuentre en alguna de las hipótesis mencionadas en el inciso anterior; c) Las personas consumidoras que hayan poseído narcóticos en cantidades superiores hasta en dos tantos a la dosis máxima de consumo personal e inmediato, a que se refiere el
+de la Constitución Política de los Estados Unidos Mexicanos, y se encuentre en alguna de las hipótesis mencionadas en el inciso anterior;
+
+c) Las personas consumidoras que hayan poseído narcóticos en cantidades superiores hasta en dos tantos a la dosis máxima de consumo personal e inmediato, a que se refiere el
 
 ### artículo 479
 de la Ley General de Salud, siempre que no haya sido con fines de distribución o venta;
+
 IV. Por cualquier delito, a personas pertenecientes a los pueblos y comunidades indígenas que durante su proceso no hayan accedido plenamente a la jurisdicción del Estado, por no haber sido garantizado el derecho a contar con intérpretes o defensores que tuvieran conocimiento de su lengua y cultura;
-V. Por el delito de robo simple y sin violencia, siempre que no amerite pena privativa de la libertad de más de cuatro años, y VI. Por el delito de sedición, o porque hayan invitado, instigado o incitado a la comisión de este delito formando parte de grupos impulsados por razones políticas con el propósito de alterar la vida institucional, siempre que no se trate de terrorismo, y que en los hechos no se haya producido la privación de la vida, lesiones graves a otra persona o se hayan empleado o utilizado armas de fuego.
+
+V. Por el delito de robo simple y sin violencia, siempre que no amerite pena privativa de la libertad de más de cuatro años, y
+
+VI. Por el delito de sedición, o porque hayan invitado, instigado o incitado a la comisión de este delito formando parte de grupos impulsados por razones políticas con el propósito de alterar la vida institucional, siempre que no se trate de terrorismo, y que en los hechos no se haya producido la privación de la vida, lesiones graves a otra persona o se hayan empleado o utilizado armas de fuego.
 
 ### Artículo 2
 . No se concederá el beneficio de esta Ley a quienes hayan cometido delitos contra la vida o la integridad corporal, salvo lo establecido en el artículo 1, fracciones I y II de esta Ley; ni a quienes hayan cometido el delito de secuestro, o cuando se hayan utilizado en la comisión del delito armas de fuego. Tampoco se podrán beneficiar las personas indiciadas por los delitos a que se refiere el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, o que hayan cometido otros delitos graves del orden federal.
 
 ### Artículo 3
 . La persona interesada o su representante legal, podrá solicitar a la Comisión a que se refiere el párrafo tercero de este artículo la aplicación de esta Ley. Dicha Comisión determinará la procedencia del beneficio y someterá su decisión a la calificación de un juez federal para que éste, en su caso, la confirme, para lo cual:
-I. Tratándose de personas sujetas a proceso, o indiciadas pero prófugas, el juez federal ordenará a la Fiscalía General de la República el desistimiento de la acción penal, y II. Tratándose de personas con sentencia firme, se realizarán las actuaciones conducentes para, en su caso, ordenar su liberación.
+
+I. Tratándose de personas sujetas a proceso, o indiciadas pero prófugas, el juez federal ordenará a la Fiscalía General de la República el desistimiento de la acción penal, y
+
+II. Tratándose de personas con sentencia firme, se realizarán las actuaciones conducentes para, en su caso, ordenar su liberación.
 Para efectos de las solicitudes que presenten las personas que hayan sido vinculadas a proceso o sentenciadas por las conductas señaladas en el artículo 1, fracción VI, de la presente Ley, la Comisión deberá solicitar opinión previa a la Secretaría de Gobernación.
 LEY DE AMNISTÍA El Ejecutivo Federal integrará una Comisión que coordinará los actos para dar cumplimiento y vigilar la aplicación de la presente Ley, en los casos en que considere que un hecho encuadra dentro de algún supuesto de los previstos en el artículo 1 de esta Ley.
 Las solicitudes podrán ser presentadas por las personas que tengan relación de parentesco por consanguinidad o afinidad hasta el cuarto grado con el interesado o por organismos públicos defensores de derechos humanos, cumpliendo los procedimientos que determine la Comisión.
@@ -59,7 +80,10 @@ La Secretaría de Gobernación coordinará las acciones para facilitar la reinse
 
 ### Artículo 9
 . Por determinación exclusiva de la persona titular del Poder Ejecutivo Federal se podrá otorgar el beneficio de la amnistía de manera directa, sin sujetarse al procedimiento establecido en este ordenamiento, en casos específicos que reúnan las siguientes condiciones:
-I. Que la amnistía se otorgue a personas que aporten elementos comprobables que resulten útiles para conocer la verdad de los hechos en casos que sean relevantes para el Estado Mexicano, y II. Que en contra de la persona o personas a las que se conceda la amnistía, se haya ejercido la acción penal, estén siendo procesados o se encuentren sentenciados por cualquier delito.
+
+I. Que la amnistía se otorgue a personas que aporten elementos comprobables que resulten útiles para conocer la verdad de los hechos en casos que sean relevantes para el Estado Mexicano, y
+
+II. Que en contra de la persona o personas a las que se conceda la amnistía, se haya ejercido la acción penal, estén siendo procesados o se encuentren sentenciados por cualquier delito.
 En los casos a que se refiere esta disposición no será aplicable lo dispuesto en el artículo 2 de la presente Ley.
 LEY DE AMNISTÍA La amnistía concedida en términos de lo dispuesto por este artículo extinguirá las acciones penales y las sanciones impuestas.
 Artículo adicionado DOF 14-06-2024

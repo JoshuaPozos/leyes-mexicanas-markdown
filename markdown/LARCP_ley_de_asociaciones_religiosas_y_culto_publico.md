@@ -10,8 +10,20 @@ CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexic
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente D E C R E T O "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PUBLICO TITULO PRIMERO DISPOSICIONES GENERALES ARTICULO 1o.- La presente ley, fundada en el principio histórico de la separación del Estado y las iglesias, así como en la libertad de creencias religiosas, es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de asociaciones, agrupaciones religiosas, iglesias y culto público. Sus normas son de orden público y de observancia general en el territorio nacional.
 Las convicciones religiosas no eximen en ningún caso del cumplimiento de las leyes del país. Nadie podrá alegar motivos religiosos para evadir las responsabilidades y obligaciones prescritas en las leyes.
-ARTICULO 2o.- El Estado Mexicano garantiza en favor del individuo, los siguientes derechos y libertades en materia religiosa: a) Tener o adoptar la creencia religiosa que más le agrade y practicar, en forma individual o colectiva, los actos de culto o ritos de su preferencia. b) No profesar creencias religiosas, abstenerse de practicar actos y ritos religiosos y no pertenecer a una asociación religiosa. c) No ser objeto de discriminación, coacción u hostilidad por causa de sus creencias religiosas, ni ser obligado a declarar sobre las mismas.
-No podrán alegarse motivos religiosos para impedir a nadie el ejercicio de cualquier trabajo o actividad, salvo en los casos previstos en éste y los demás ordenamientos aplicables. d) No ser obligado a prestar servicios personales ni a contribuir con dinero o en especie al sostenimiento de una asociación, iglesia o cualquier otra agrupación religiosa, ni a participar o contribuir de la misma manera en ritos, ceremonias, festividades, servicios o actos de culto religioso. e) No ser objeto de ninguna inquisición judicial o administrativa por la manifestación de ideas religiosas; y, f) Asociarse o reunirse pacíficamente con fines religiosos.
+ARTICULO 2o.- El Estado Mexicano garantiza en favor del individuo, los siguientes derechos y libertades en materia religiosa:
+
+a) Tener o adoptar la creencia religiosa que más le agrade y practicar, en forma individual o colectiva, los actos de culto o ritos de su preferencia.
+
+b) No profesar creencias religiosas, abstenerse de practicar actos y ritos religiosos y no pertenecer a una asociación religiosa.
+
+c) No ser objeto de discriminación, coacción u hostilidad por causa de sus creencias religiosas, ni ser obligado a declarar sobre las mismas.
+No podrán alegarse motivos religiosos para impedir a nadie el ejercicio de cualquier trabajo o actividad, salvo en los casos previstos en éste y los demás ordenamientos aplicables.
+
+d) No ser obligado a prestar servicios personales ni a contribuir con dinero o en especie al sostenimiento de una asociación, iglesia o cualquier otra agrupación religiosa, ni a participar o contribuir de la misma manera en ritos, ceremonias, festividades, servicios o actos de culto religioso.
+
+e) No ser objeto de ninguna inquisición judicial o administrativa por la manifestación de ideas religiosas; y,
+
+f) Asociarse o reunirse pacíficamente con fines religiosos.
 ARTICULO 3o.- El Estado mexicano es laico. El mismo ejercerá su autoridad sobre toda manifestación religiosa, individual o colectiva, sólo en lo relativo a la observancia de la Constitución, Tratados Internacionales ratificados por México y demás legislación aplicable y la tutela de derechos de terceros.
 Párrafo reformado DOF 19-08-2010 El Estado no podrá establecer ningún tipo de preferencia o privilegio en favor de religión alguna.
 Tampoco a favor o en contra de ninguna iglesia ni agrupación religiosa.
@@ -24,22 +36,41 @@ Las asociaciones religiosas se regirán internamente por sus propios estatutos, 
 Dichas entidades y divisiones pueden corresponder a ámbitos regionales o a otras formas de organización autónoma dentro de las propias asociaciones, según convenga a su estructura y finalidades, y podrán gozar igualmente de personalidad jurídica en los términos de esta ley.
 Las asociaciones religiosas son iguales ante la ley en derechos y obligaciones.
 ARTICULO 7o.- Los solicitantes del registro constitutivo de una asociación religiosa deberán acreditar que la iglesia o la agrupación religiosa:
+
 I. Se ha ocupado, preponderantemente, de la observancia, práctica, propagación, o instrucción de una doctrina religiosa o de un cuerpo de creencias religiosas;
+
 II. Ha realizado actividades religiosas en la República Mexicana por un mínimo de 5 años y cuenta con notorio arraigo entre la población, además de haber establecido su domicilio en la República;
+
 III. Aporta bienes suficientes para cumplir con su objeto;
-IV. Cuenta con estatutos en los términos del párrafo segundo del artículo 6o.; y, V. Ha cumplido en su caso, lo dispuesto en las fracciones I y II del artículo 27 de la Constitución.
+
+IV. Cuenta con estatutos en los términos del párrafo segundo del artículo 6o.; y,
+
+V. Ha cumplido en su caso, lo dispuesto en las fracciones I y II del artículo 27 de la Constitución.
 Un extracto de la solicitud del registro al que se refiere este precepto deberá publicarse en el Diario Oficial de la Federación.
 ARTICULO 8o.- Las asociaciones religiosas deberán:
+
 I. Sujetarse siempre a la Constitución y a las leyes que de ella emanan, y respetar las instituciones del país;
 Fracción reformada DOF 24-04-2006 II.- Abstenerse de perseguir fines de lucro o preponderantemente económicos;
-Fracción reformada DOF 24-04-2006, 19-08-2010 III. Respetar en todo momento los cultos y doctrinas ajenos a su religión, así como fomentar el diálogo, la tolerancia y la convivencia entre las distintas religiones y credos con presencia en el país, y Fracción adicionada DOF 24-04-2006. Reformada DOF 19-08-2010 IV. Propiciar y asegurar el respeto integral de los derechos humanos de las personas.
+Fracción reformada DOF 24-04-2006, 19-08-2010
+
+III. Respetar en todo momento los cultos y doctrinas ajenos a su religión, así como fomentar el diálogo, la tolerancia y la convivencia entre las distintas religiones y credos con presencia en el país, y Fracción adicionada DOF 24-04-2006. Reformada DOF 19-08-2010
+
+IV. Propiciar y asegurar el respeto integral de los derechos humanos de las personas.
 Fracción adicionada DOF 19-08-2010 ARTICULO 9o.- Las asociaciones religiosas tendrán derecho en los términos de esta ley y su reglamento, a:
+
 I. Identificarse mediante una denominación exclusiva;
+
 II. Organizarse libremente en sus estructuras internas y adoptar los estatutos o normas que rijan su sistema de autoridad y funcionamiento, incluyendo la formación y designación de sus ministros;
+
 III. Realizar actos de culto público religioso, así como propagar su doctrina, siempre que no se contravengan las normas y previsiones de éste y demás ordenamientos aplicables;
+
 IV. Celebrar todo tipo de actos jurídicos para el cumplimiento de su objeto siendo lícitos y siempre que no persigan fines de lucro;
+
 V. Participar por sí o asociadas con personas físicas o morales en la constitución, administración, sostenimiento y funcionamiento de instituciones de asistencia privada, planteles educativos e instituciones de salud, siempre que no persigan fines de lucro y sujetándose además de a la presente, a las leyes que regulan esas materias;
-VI. Usar en forma exclusiva, para fines religiosos, bienes propiedad de la nación, en los términos que dicte el reglamento respectivo; y, VII. Disfrutar de los demás derechos que les confieren ésta y las demás leyes.
+
+VI. Usar en forma exclusiva, para fines religiosos, bienes propiedad de la nación, en los términos que dicte el reglamento respectivo; y,
+
+VII. Disfrutar de los demás derechos que les confieren ésta y las demás leyes.
 ARTICULO 10.- Los actos que en las materias reguladas por esta ley lleven a cabo de manera habitual persona, o iglesias y agrupaciones religiosas sin contar con el registro constitutivo a que se refiere el artículo 6o, serán atribuidos a las personas físicas, o morales en su caso, las que estarán sujetas a las obligaciones establecidas en este ordenamiento. Tales iglesias y agrupaciones no tendrán los derechos a que se refieren las fracciones IV, V, VI y VII del artículo 9o. de esta ley y las demás disposiciones aplicables.
 Las relaciones de trabajo entre las asociaciones religiosas y sus trabajadores se sujetarán a lo dispuesto por la legislación laboral aplicable.
 CAPITULO SEGUNDO De sus asociados, ministros de culto y representantes ARTICULO 11.- Para los efectos del registro a que se refiere esta ley, son asociados de una asociación religiosa los mayores de edad, que ostenten dicho carácter conforme a los estatutos de la misma.
@@ -58,9 +89,14 @@ CAPITULO TERCERO De su régimen patrimonial ARTICULO 16.- Las asociaciones relig
 Las asociaciones religiosas y los ministros de culto no podrán poseer o administrar, por sí o por interpósita persona, concesiones para la explotación de estaciones de radio, televisión o cualquier tipo de telecomunicación, ni adquirir, poseer o administrar cualquiera de los medios de comunicación masiva. Se excluyen de la presente prohibición las publicaciones impresas de carácter religioso.
 Las asociaciones religiosas en liquidación podrán transmitir sus bienes, por cualquier título, a otras asociaciones religiosas. En el caso de que la liquidación se realice como consecuencia de la imposición de alguna de las sanciones prevista en el artículo 32 de esta ley, los bienes de las asociaciones religiosas que se liquiden pasarán a la asistencia pública. Los bienes nacionales que estuvieren en posesión de las asociaciones, regresarán, desde luego, al pleno dominio público de la nación.
 ARTICULO 17.- La Secretaría de Gobernación resolverá sobre el carácter indispensable de los bienes inmuebles que pretendan adquirir por cualquier título las asociaciones religiosas. Para tal efecto emitirá declaratoria de procedencia en los casos siguientes:
+
 I. Cuando se trate de cualquier bien inmueble;
+
 II. En cualquier caso de sucesión, para que una asociación religiosa pueda ser heredera o legataria;
-III. Cuando se pretenda que una asociación religiosa tenga el carácter de fideicomisaria, salvo que la propia asociación sea la única fideicomitente; y, IV. Cuando se trate de bienes raíces respecto de los cuales sean propietarias o fideicomisarias, instituciones de asistencia privada, instituciones de salud o educativas, en cuya constitución, administración o funcionamiento, intervengan asociaciones religiosas por sí o asociadas con otras personas.
+
+III. Cuando se pretenda que una asociación religiosa tenga el carácter de fideicomisaria, salvo que la propia asociación sea la única fideicomitente; y,
+
+IV. Cuando se trate de bienes raíces respecto de los cuales sean propietarias o fideicomisarias, instituciones de asistencia privada, instituciones de salud o educativas, en cuya constitución, administración o funcionamiento, intervengan asociaciones religiosas por sí o asociadas con otras personas.
 Las solicitudes de declaratorias de procedencia deberán ser respondidas por la autoridad en un término no mayor de cuarenta y cinco días; de no hacerlo se entenderán aprobadas.
 Para el caso previsto en el párrafo anterior, la mencionada Secretaría deberá, a solicitud de los interesados, expedir certificación de que ha transcurrido el término referido en el mismo.
 Las asociaciones religiosas deberán registrar ante la Secretaría de Gobernación todos los bienes inmuebles, sin perjuicio de cumplir con las demás obligaciones en la materia, contenidas en otras leyes.
@@ -77,8 +113,12 @@ No podrán celebrarse en los templos reuniones de carácter político.
 ARTICULO 22.- Para realizar actos religiosos de culto público con carácter extraordinario fuera de los templos, los organizadores de los mismos deberán dar aviso previo a las autoridades federales, del Distrito Federal, estatales o municipales competentes, por lo menos quince días antes de la fecha en que pretendan celebrarlos, el aviso deberá indicar el lugar, fecha, hora del acto, así como el motivo por el que éste se pretende celebrar.
 Las autoridades podrán prohibir la celebración del acto mencionado en el aviso, fundando y motivando su decisión, y solamente por razones de seguridad, protección de la salud, de la moral, la tranquilidad y el orden públicos y la protección de derechos de terceros.
 ARTICULO 23.- No requerirán del aviso a que se refiere el artículo anterior:
+
 I. La afluencia de grupos para dirigirse a los locales destinados ordinariamente al culto;
-II. El tránsito de personas entre domicilios particulares con el propósito de celebrar conmemoraciones religiosas; y III. Los actos que se realicen en locales cerrados o en aquellos en que el público no tenga libre acceso.
+
+II. El tránsito de personas entre domicilios particulares con el propósito de celebrar conmemoraciones religiosas; y
+
+III. Los actos que se realicen en locales cerrados o en aquellos en que el público no tenga libre acceso.
 ARTICULO 24.- Quien abra un templo o local destinando al culto público deberá dar aviso a la Secretaría de Gobernación en un plazo no mayor a treinta días hábiles a partir de la fecha de apertura.
 La observancia de esta norma, no exime de la obligación de cumplir con las disposiciones aplicables en otras materias.
 TITULO CUARTO DE LAS AUTORIDADES ARTICULO 25.- Corresponde al Poder Ejecutivo Federal por conducto de la Secretaría de Gobernación la aplicación de esta ley. Las autoridades estatales y municipales, así como las del Distrito Federal, serán auxiliares de la Federación en los términos previstos en este ordenamiento.
@@ -89,37 +129,70 @@ ARTICULO 27.- La Secretaría de Gobernación podrá establecer convenios de cola
 Las autoridades estatales y municipales recibirán los avisos respecto a la celebración de actos religiosos de culto público con carácter extraordinario, en los términos de está ley y su reglamento.
 También deberán informar a la Secretaría de Gobernación sobre el ejercicio de sus facultades de acuerdo a lo previsto por esta ley, su reglamento y, en su caso, al convenio respectivo.
 ARTICULO 28.- La Secretaría de Gobernación está facultada para resolver los conflictos que se susciten entre asociaciones religiosas, de acuerdo al siguiente procedimiento:
+
 I. La asociación religiosa que se sienta afectada en sus intereses jurídicos presentará queja ante la Secretaría de Gobernación;
+
 II. La Secretaría recibirá la queja y emplazará a la otra asociación religiosa para que conteste en el término de diez días hábiles siguientes a aquél en que fue notificada, y la citará a una junta de avenencia, que deberá celebrarse dentro de los treinta días siguientes a la fecha en que se presentó la queja;
-III. En la junta de avenencia, la Secretaría exhortará a las partes para lograr una solución conciliatoria a la controversia y, en caso de no ser esto posible, la nombren árbitro de estricto derecho; y, IV. Si las partes optan por el arbitraje, se seguirá el procedimiento que previamente se haya dado a conocer a éstas; en caso contrario, se les dejarán a salvo sus derechos para que los hagan valer ante los Tribunales competentes, en términos del artículo 104, fracción I, Apartado A de la Constitución Política de los Estados Unidos Mexicanos.
+
+III. En la junta de avenencia, la Secretaría exhortará a las partes para lograr una solución conciliatoria a la controversia y, en caso de no ser esto posible, la nombren árbitro de estricto derecho; y,
+
+IV. Si las partes optan por el arbitraje, se seguirá el procedimiento que previamente se haya dado a conocer a éstas; en caso contrario, se les dejarán a salvo sus derechos para que los hagan valer ante los Tribunales competentes, en términos del artículo 104, fracción I, Apartado A de la Constitución Política de los Estados Unidos Mexicanos.
 El procedimiento previsto en este artículo no es requisito de procedibilidad para acudir ante los tribunales competentes.
 TITULO QUINTO DE LAS INFRACCIONES Y SANCIONES Y DEL RECURSO DE REVISION CAPITULO PRIMERO De las infracciones y sanciones ARTICULO 29.- Constituyen infracciones a la presente ley, por parte de los sujetos a que la misma se refiere:
+
 I. Asociarse con fines políticos, así como realizar proselitismo o propaganda de cualquier tipo a favor o en contra de candidato, partido o asociación política algunos;
+
 II. Agraviar a los símbolos patrios o de cualquier modo inducir a su rechazo;
+
 III. Adquirir, poseer o administrar las asociaciones religiosas, por sí o por interpósita persona, bienes y derechos que no sean, exclusivamente, los indispensables para su objeto, así como concesiones de la naturaleza que fuesen;
+
 IV. Promover la realización de conductas contrarias a la salud o integridad física de los individuos;
+
 V. Ejercer violencia física o presión moral, mediante agresiones o amenazas, para el logro o realización de sus objetivos;
+
 VI. Ostentarse como asociación religiosa cuando se carezca del registro constitutivo otorgado por la Secretaría de Gobernación;
+
 VII. Destinar los bienes que las asociaciones adquieran por cualquier título, a un fin distinto del previsto en la declaratoria de procedencia correspondiente;
+
 VIII. Desviar de tal manera los fines de las asociaciones que éstas pierdan o menoscaben gravemente su naturaleza religiosa;
+
 IX. Convertir un acto religioso en reunión de carácter político;
+
 X. Oponerse a las Leyes del País o a sus instituciones en reuniones públicas;
 XI.- Realizar actos o permitir aquellos que atenten contra la integridad, salvaguarda y preservación de los bienes que componen el patrimonio cultural del país, y que están en uso de las iglesias, agrupaciones o asociaciones religiosas, así como omitir las acciones que sean necesarias para lograr que dichos bienes sean preservados en su integridad y valor;
 Fracción reformada DOF 19-08-2010 XII.- Omitir las acciones contempladas en el artículo 12 Bis de la presente ley;
-Fracción adicionada DOF 19-08-2010 XIII.- La comisión de delitos cometidos en ejercicio de su culto o en sus instalaciones, y Fracción adicionada DOF 19-08-2010 XIV. Las demás que se establecen en la presente ley y otros ordenamientos aplicables.
+Fracción adicionada DOF 19-08-2010 XIII.- La comisión de delitos cometidos en ejercicio de su culto o en sus instalaciones, y Fracción adicionada DOF 19-08-2010
+
+XIV. Las demás que se establecen en la presente ley y otros ordenamientos aplicables.
 Fracción recorrida DOF 19-08-2010 ARTICULO 30.- La aplicación de las sanciones previstas en esta ley, se sujetará al siguiente procedimiento:
+
 I. El órgano sancionador será una comisión integrada por funcionarios de la Secretaría de Gobernación conforme lo señale el Reglamento y tomará sus resoluciones por mayoría de votos;
-II. La autoridad notificará al interesado de los hechos que se consideran violatorios de la ley, apercibiéndolo para que dentro de los quince días siguientes al de dicha notificación comparezca ante la comisión mencionada para alegar lo que a su derecho convenga y ofrecer pruebas; y, III. Una vez transcurrido el término referido en la fracción anterior, haya comparecido o no el interesado, dicha comisión dictará la resolución que corresponda. En caso de haber comparecido, en la resolución se deberán analizar los alegatos y las pruebas ofrecidas.
+
+II. La autoridad notificará al interesado de los hechos que se consideran violatorios de la ley, apercibiéndolo para que dentro de los quince días siguientes al de dicha notificación comparezca ante la comisión mencionada para alegar lo que a su derecho convenga y ofrecer pruebas; y,
+
+III. Una vez transcurrido el término referido en la fracción anterior, haya comparecido o no el interesado, dicha comisión dictará la resolución que corresponda. En caso de haber comparecido, en la resolución se deberán analizar los alegatos y las pruebas ofrecidas.
 ARTICULO 31.- Las infracciones a la presente ley se sancionarán tomando en consideración los siguientes elementos:
+
 I. Naturaleza y gravedad de la falta o infracción;
+
 II. La posible alteración de la tranquilidad social y el orden público que suscite la infracción;
 III.- Situación económica y grado de instrucción del infractor;
-Fracción reformada DOF 19-08-2010 IV. La reincidencia, si la hubiere, y Fracción reformada DOF 19-08-2010 V. El daño causado.
+Fracción reformada DOF 19-08-2010
+
+IV. La reincidencia, si la hubiere, y Fracción reformada DOF 19-08-2010
+
+V. El daño causado.
 Fracción adicionada DOF 19-08-2010 ARTICULO 32.- A los infractores de la presente ley se les podrá imponer una o varias de las siguientes sanciones, dependiendo de la valoración que realice la autoridad de los aspectos contenidos en el artículo precedente:
+
 I. Apercibimiento;
+
 II. Multa de hasta veinte mil días de salario mínimo general vigente en el Distrito Federal;
+
 III. Clausura temporal o definitiva de un local destinado al culto público;
-IV. Suspensión temporal de derechos de la asociación religiosa en el territorio nacional o bien en un Estado, municipio o localidad; y, V. Cancelación del registro de asociación religiosa.
+
+IV. Suspensión temporal de derechos de la asociación religiosa en el territorio nacional o bien en un Estado, municipio o localidad; y,
+
+V. Cancelación del registro de asociación religiosa.
 La imposición de dichas sanciones será competencia de la Secretaría de Gobernación, en los términos del artículo 30.
 Cuando la sanción que se imponga sea la clausura definitiva de un local propiedad de la nación destinado al culto ordinario, la Secretaría de Desarrollo Social, previa opinión de la de Gobernación, determinará el destino del inmueble en los términos de la ley de la materia.
 CAPITULO SEGUNDO Del recurso de revisión ARTICULO 33.- Contra los actos o resoluciones dictados por las autoridades en cumplimiento de esta ley se podrá interponer el recurso de revisión, del que conocerá la Secretaría de Gobernación. El escrito de interposición del recurso deberá ser presentado ante dicha dependencia o ante la autoridad que dictó el acto o resolución que se recurre, dentro de los veinte días hábiles siguientes a aquel en que fue notificado el acto o resolución recurrido. En este último caso, la autoridad deberá remitir, a la Secretaría mencionada, en un término no mayor de diez días hábiles, el escrito mediante el cual se interpone el recurso y las constancias que, en su caso, ofrezca como pruebas el recurrente y que obren en poder de dicha autoridad.

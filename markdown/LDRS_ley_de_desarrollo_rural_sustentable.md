@@ -20,39 +20,91 @@ Se considera de interés público el desarrollo rural sustentable que incluye la
 
 ### Artículo 3o
 .- Para los efectos de esta Ley se entenderá por:
+
 I. Actividades Agropecuarias. Los procesos productivos primarios basados en recursos naturales renovables: agricultura (incluye cultivos inocuos en tierra y sustratos inertes sin tierra), ganadería (incluye caza), silvicultura y acuacultura (incluye pesca);
-Fracción reformada DOF 07-01-2021 II. Actividades Económicas de la Sociedad Rural. Las actividades agropecuarias y otras actividades productivas, industriales, comerciales y de servicios;
+Fracción reformada DOF 07-01-2021
+
+II. Actividades Económicas de la Sociedad Rural. Las actividades agropecuarias y otras actividades productivas, industriales, comerciales y de servicios;
+
 III. Agentes de la Sociedad Rural. Personas físicas o morales de los sectores social y privado que integran a la sociedad rural, incluyendo a los participantes en la producción, transporte, distribución y comercialización de productos, insumos y fertilizantes;
-Fracción reformada DOF 07-06-2024 IV. Agroforestal (Uso). La combinación de agricultura y ganadería conjuntamente con el cultivo y aprovechamiento de especies forestales;
+Fracción reformada DOF 07-06-2024
+
+IV. Agroforestal (Uso). La combinación de agricultura y ganadería conjuntamente con el cultivo y aprovechamiento de especies forestales;
+
 V. Alimentos Básicos y Estratégicos. Respectivamente, aquellos así calificados por su importancia en la alimentación de la mayoría de la población o su importancia en la economía de los productores del campo o de la industria;
+
 VI. Bienestar Social. Satisfacción de las necesidades materiales y culturales de la población incluidas, entre otras: la seguridad social, vivienda, educación, salud e infraestructura básica;
+
 VII. Comisión Intersecretarial. La Comisión Intersecretarial para el Desarrollo Rural Sustentable;
+
 VIII. Consejo Distrital. El Consejo para el Desarrollo Rural Sustentable del Distrito de Desarrollo Rural;
+
 IX. Consejo Estatal. El Consejo Estatal para el Desarrollo Rural Sustentable;
+
 X. Consejo Mexicano. El Consejo Mexicano para el Desarrollo Rural Sustentable;
+
 XI. Consejo Municipal. El Consejo Municipal para el Desarrollo Rural Sustentable;
+
 XII. Constitución. La Constitución Política de los Estados Unidos Mexicanos;
+
 XIII. Cosechas Nacionales. El resultado de la producción agropecuaria del país;
+
 XIV. Desarrollo Rural Sustentable. El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+
 XV. Desertificación. La pérdida de la capacidad productiva de las tierras, causada por el hombre, en cualquiera de los ecosistemas existentes en el territorio de la República Mexicana;
+
 XVI. Difusión. La promoción nacional mediante los medios de información masiva escritos y electrónicos, libros, folletos y cualquier otro material idóneo que permitan dar a conocer los diversos programas y beneficios económicos que se deriven de la aplicación del Programa Especial Concurrente para el Desarrollo Rural Sustentable;
-Fracción adicionada DOF 27-01-2011 XVII. Entidades Federativas. Los estados de la federación y el Distrito Federal;
-Fracción recorrida DOF 27-01-2011 XVIII. Estado. Los Poderes de la Unión, de las entidades federativas y de los municipios;
-Fracción recorrida DOF 27-01-2011 XIX. Estímulos Fiscales. Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
+Fracción adicionada DOF 27-01-2011
+
+XVII. Entidades Federativas. Los estados de la federación y el Distrito Federal;
+Fracción recorrida DOF 27-01-2011
+
+XVIII. Estado. Los Poderes de la Unión, de las entidades federativas y de los municipios;
+Fracción recorrida DOF 27-01-2011
+
+XIX. Estímulos Fiscales. Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
 Fracción recorrida DOF 27-01-2011 XIX Bis. Figuras Asociativas. Los ejidos, comunidades y las organizaciones y asociaciones de carácter nacional, estatal, regional, distrital, municipal o comunitario de productores del medio rural, pequeñas unidades de producción y, en su caso, las ramas de producción, que se constituyan o estén constituidas, de conformidad con las leyes vigentes y las demás disposiciones aplicables;
-Fracción adicionada DOF 22-12-2017 XX. Marginalidad. La definida de acuerdo con los criterios dictados por el Instituto Nacional de Estadística, Geografía e Informática;
-Fracción recorrida DOF 27-01-2011 XXI. Órdenes de Gobierno. Los gobiernos federales, de las entidades federativas y de los municipios;
-Fracción reformada (y recorrida) DOF 27-01-2011 XXII. Organismos Genéticamente Modificados. Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
-Fracción recorrida DOF 27-01-2011 XXIII. Productos Básicos y Estratégicos. Aquellos alimentos que son parte de la dieta de la mayoría de la población en general o diferenciada por regiones, y los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos nacionales;
-Fracción recorrida DOF 27-01-2011 XXIV. Programa Especial Concurrente. El Programa Especial Concurrente para el Desarrollo Rural Sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
-Fracción reformada (y recorrida) DOF 27-01-2011 XXV. Programas Sectoriales. Los programas específicos del Gobierno Federal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
-Fracción recorrida DOF 27-01-2011 XXVI. Recursos Naturales. Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales: tierras, bosques, recursos minerales, agua, comunidades vegetativas y animales y recursos genéticos;
-Fracción recorrida DOF 27-01-2011 XXVII. Secretaría. La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
-Fracción recorrida DOF 27-01-2011 XXVIII. Seguridad Alimentaria. El abasto oportuno, suficiente e incluyente de alimentos a la población;
-Fracción recorrida DOF 27-01-2011 XXIX. Servicio. Institución pública responsable de la ejecución de programas y acciones específicas en una materia;
-Fracción recorrida DOF 27-01-2011 XXX. Servicios Ambientales (sinónimo: beneficios ambientales). Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
-Fracción recorrida DOF 27-01-2011 XXXI. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
-Fracción recorrida DOF 27-01-2011 XXXII. Sistema-Producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización, y Fracción reformada (y recorrida) DOF 27-01-2011 XXXIII. Soberanía Alimentaria. La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población, basada fundamentalmente en la producción nacional.
+Fracción adicionada DOF 22-12-2017
+
+XX. Marginalidad. La definida de acuerdo con los criterios dictados por el Instituto Nacional de Estadística, Geografía e Informática;
+Fracción recorrida DOF 27-01-2011
+
+XXI. Órdenes de Gobierno. Los gobiernos federales, de las entidades federativas y de los municipios;
+Fracción reformada (y recorrida) DOF 27-01-2011
+
+XXII. Organismos Genéticamente Modificados. Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
+Fracción recorrida DOF 27-01-2011
+
+XXIII. Productos Básicos y Estratégicos. Aquellos alimentos que son parte de la dieta de la mayoría de la población en general o diferenciada por regiones, y los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos nacionales;
+Fracción recorrida DOF 27-01-2011
+
+XXIV. Programa Especial Concurrente. El Programa Especial Concurrente para el Desarrollo Rural Sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
+Fracción reformada (y recorrida) DOF 27-01-2011
+
+XXV. Programas Sectoriales. Los programas específicos del Gobierno Federal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
+Fracción recorrida DOF 27-01-2011
+
+XXVI. Recursos Naturales. Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales: tierras, bosques, recursos minerales, agua, comunidades vegetativas y animales y recursos genéticos;
+Fracción recorrida DOF 27-01-2011
+
+XXVII. Secretaría. La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+Fracción recorrida DOF 27-01-2011
+
+XXVIII. Seguridad Alimentaria. El abasto oportuno, suficiente e incluyente de alimentos a la población;
+Fracción recorrida DOF 27-01-2011
+
+XXIX. Servicio. Institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+Fracción recorrida DOF 27-01-2011
+
+XXX. Servicios Ambientales (sinónimo: beneficios ambientales). Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+Fracción recorrida DOF 27-01-2011
+
+XXXI. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
+Fracción recorrida DOF 27-01-2011
+
+XXXII. Sistema-Producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización, y Fracción reformada (y recorrida) DOF 27-01-2011
+
+XXXIII. Soberanía Alimentaria. La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población, basada fundamentalmente en la producción nacional.
 Fracción recorrida DOF 27-01-2011
 
 ### Artículo 4o
@@ -60,10 +112,17 @@ Fracción recorrida DOF 27-01-2011
 
 ### Artículo 5o
 .- En el marco previsto en la Constitución Política de los Estados Unidos Mexicanos, el Estado, a través del Gobierno Federal y en coordinación con los gobiernos de las entidades federativas y municipales, impulsará políticas, acciones y programas en el medio rural que serán considerados prioritarios para el desarrollo del país y que estarán orientados a los siguientes objetivos:
+
 I. Promover y favorecer el bienestar social y económico de los productores, de sus comunidades, de los trabajadores del campo y, en general, de los agentes de la sociedad rural con la participación de organizaciones o asociaciones, especialmente la de aquellas que estén integradas por sujetos que formen parte de los grupos vulnerables referidos en el artículo 154 de la presente Ley, mediante la diversificación y la generación de empleo, incluyendo el no agropecuario en el medio rural, así como el incremento del ingreso;
-Fracción reformada DOF 09-12-2010 II. Corregir disparidades de desarrollo regional a través de la atención diferenciada a las regiones de mayor rezago, mediante una acción integral del Estado que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo de desarrollo rural sustentable;
+Fracción reformada DOF 09-12-2010
+
+II. Corregir disparidades de desarrollo regional a través de la atención diferenciada a las regiones de mayor rezago, mediante una acción integral del Estado que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo de desarrollo rural sustentable;
+
 III. Contribuir a la soberanía y seguridad alimentaria de la nación mediante el impulso de la producción agropecuaria del país;
-IV. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable; y V. Valorar las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura nacional.
+
+IV. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable; y
+
+V. Valorar las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura nacional.
 
 ### Artículo 6o
 .- Tendrán carácter prioritario las acciones que el Estado, a través de los tres órdenes de gobierno y en los términos de las leyes aplicables, realice en el medio rural. En dichas acciones, que se efectuarán bajo los criterios de equidad social y de género, integralidad, productividad y sustentabilidad, podrán participar los sectores social y privado.
@@ -74,11 +133,18 @@ El Ejecutivo Federal considerará las adecuaciones presupuestales, en términos 
 ### Artículo 7o
 .- Para impulsar el desarrollo rural sustentable, el Estado promoverá la capitalización del sector mediante obras de infraestructura básica y productiva, y de servicios a la producción así como a través de apoyos directos a los productores, que les permitan realizar las inversiones necesarias para incrementar la eficiencia de sus unidades de producción, mejorar sus ingresos y fortalecer su competitividad.
 El Estado fomentará la inversión en infraestructura a fin de alcanzar los siguientes objetivos:
+
 I. Promover la eficiencia económica de las unidades de producción y del sector rural en su conjunto;
+
 II. Mejorar las condiciones de los productores y demás agentes de la sociedad rural para enfrentar los retos comerciales y aprovechar las oportunidades de crecimiento derivadas de los acuerdos y tratados sobre la materia;
+
 III. Incrementar, diversificar y reconvertir la producción para atender la demanda nacional, fortalecer y ampliar el mercado interno, así como mejorar los términos de intercambio comercial con el exterior;
+
 IV. Aumentar la capacidad productiva para fortalecer la economía campesina, el autoabasto y el desarrollo de mercados regionales que mejoren el acceso de la población rural a la alimentación y los términos de intercambio;
-V. Fomentar el aprovechamiento sustentable de los recursos naturales productivos, que permitan aumentar y diversificar las fuentes de empleo e ingreso; y VI. Mejorar la cantidad y la calidad de los servicios a la población.
+
+V. Fomentar el aprovechamiento sustentable de los recursos naturales productivos, que permitan aumentar y diversificar las fuentes de empleo e ingreso; y
+
+VI. Mejorar la cantidad y la calidad de los servicios a la población.
 
 ### Artículo 8o
 .- Las acciones de desarrollo rural sustentable que efectúe el Estado, atenderán de manera diferenciada y prioritaria a las regiones y zonas con mayor rezago social y económico, mediante el impulso a las actividades del medio rural, el incremento a la inversión productiva, el fomento a la diversificación de oportunidades de empleo e ingreso y la promoción de vínculos entre los ámbitos rural y urbano para facilitar a los agentes de la sociedad rural el acceso a los apoyos que requiere su actividad productiva, así como a los servicios para su bienestar.
@@ -103,14 +169,24 @@ De la Planeación del Desarrollo Rural Sustentable
 
 ### Artículo 13
 .- De conformidad con la Ley de Planeación y el Plan Nacional de Desarrollo, se formulará la programación sectorial de corto, mediano y largo plazo con los siguientes lineamientos:
+
 I. La planeación del desarrollo rural sustentable, tendrá el carácter democrático que establecen la Constitución Política de los Estados Unidos Mexicanos y las leyes relativas. Participarán en ella el sector público por conducto del Gobierno Federal, los gobiernos de las entidades federativas y de los municipios, en los términos del tercer párrafo del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, así como los sectores social y privado a través de sus organizaciones sociales y económicas legalmente reconocidas y demás formas de participación que emanen de los diversos agentes de la sociedad rural;
+
 II. En los programas sectoriales se coordinará y dará congruencia a las acciones y programas institucionales de desarrollo rural sustentable a cargo de los distintos órdenes de gobierno y de las dependencias y entidades del sector. El Ejecutivo Federal, en coordinación con los estados y los municipios, en su caso, y a través de las dependencias que corresponda, de acuerdo con este ordenamiento, hará las previsiones necesarias para financiar y asignar recursos presupuestales que cumplan con los programas, objetivos y acciones en la materia, durante el tiempo de vigencia de los mismos;
+
 III. Los programas sectoriales constituirán el marco de mediano y largo plazo donde se establezca la temporalidad de las acciones a cargo de los diferentes órdenes de gobierno, de manera que se proporcione a los productores mayor certidumbre en cuanto a las directrices de política y previsiones programáticas en apoyo del desenvolvimiento del sector y que aquellos alcancen la productividad, rentabilidad y competitividad que les permita fortalecer su concurrencia en los mercados nacional e internacional;
+
 IV. La Comisión Intersecretarial, con la participación del Consejo Mexicano, podrá establecer programas especiales, sectoriales y especiales concurrentes de emergencia si ocurrieran contingencias que así lo justifiquen;
+
 V. A través de los Distritos de Desarrollo Rural, se promoverá la formulación de programas a nivel municipal y regional o de cuencas, con la participación de las autoridades, los habitantes y los productores en ellos ubicados. Dichos programas deberán ser congruentes con los Programas Sectoriales y el Plan Nacional de Desarrollo;
+
 VI. El programa sectorial que en el marco del federalismo apruebe el Ejecutivo Federal especificará los objetivos, prioridades, políticas, estimaciones de recursos presupuestales, así como los mecanismos de su ejecución, descentralizando en el ámbito de las entidades federativas, municipios y regiones la determinación de sus prioridades, así como de los mecanismos de gestión y ejecución con los que se garantice la amplia participación de los agentes de la sociedad rural. De igual forma, dicho programa determinará la temporalidad de los programas institucionales, regionales y especiales en términos de los artículos 22, 23, y 40 de la Ley de Planeación y 19 de la Ley de Presupuesto, Contabilidad y Gasto Público Federal;
+
 VII. La planeación nacional en la materia deberá propiciar la programación del desarrollo rural sustentable de cada entidad federativa y de los municipios, y su congruencia con el Plan Nacional de Desarrollo;
-VIII. Sin perjuicio de lo dispuesto por el artículo 20 de la Ley de Planeación, la participación social en la programación sectorial se realizará a través de las organizaciones nacionales integradas en el Consejo Mexicano para el Desarrollo Rural Sustentable, a que se refiere el artículo 17 de la presente Ley; y IX. La programación para el desarrollo rural sustentable de mediano plazo deberá comprender tanto acciones de impulso a la productividad y competitividad, como medidas de apoyos tendientes a eliminar las asimetrías con respecto a otros países.
+
+VIII. Sin perjuicio de lo dispuesto por el artículo 20 de la Ley de Planeación, la participación social en la programación sectorial se realizará a través de las organizaciones nacionales integradas en el Consejo Mexicano para el Desarrollo Rural Sustentable, a que se refiere el artículo 17 de la presente Ley; y
+
+IX. La programación para el desarrollo rural sustentable de mediano plazo deberá comprender tanto acciones de impulso a la productividad y competitividad, como medidas de apoyos tendientes a eliminar las asimetrías con respecto a otros países.
 
 ### Artículo 14
 .- En el marco del Plan Nacional de Desarrollo y de los programas sectoriales de las dependencias y entidades que la integren, la Comisión Intersecretarial para el Desarrollo Rural Sustentable propondrá al Ejecutivo Federal, con fundamento en lo dispuesto por los artículos 7, 9 y 22 de la Ley Orgánica de la Administración Pública Federal y 19 y 26 de la Ley de Planeación, el Programa Especial Concurrente para el Desarrollo Rural Sustentable que comprenderá las políticas públicas orientadas a la generación y diversificación de empleo y a garantizar a la población campesina el bienestar y su participación e incorporación al desarrollo nacional, dando prioridad a las zonas de alta y muy alta marginación y a las poblaciones económica y socialmente débiles.
@@ -119,24 +195,46 @@ La Comisión Intersecretarial, a petición del Ejecutivo Federal, hará las cons
 
 ### Artículo 15
 .- El Programa Especial Concurrente al que se refiere el artículo anterior, fomentará acciones en las siguientes materias:
+
 I. Actividades económicas de la sociedad rural;
+
 II. Educación para el desarrollo rural sustentable;
+
 III. La salud y la alimentación para el desarrollo rural sustentable;
+
 IV. Planeación familiar;
+
 V. Vivienda para el desarrollo rural sustentable;
+
 VI. Infraestructura y el equipamiento comunitario y urbano para el desarrollo rural sustentable;
+
 VII. Combate a la pobreza y la marginación en el medio rural;
+
 VIII. Política de población para el desarrollo rural sustentable;
+
 IX. Cuidado al medio ambiente rural, la sustentabilidad de las actividades socioeconómicas en el campo y a la producción de servicios ambientales para la sociedad;
+
 X. Equidad de género, la protección de la familia, el impulso a los programas de la mujer, los jóvenes, la protección de los grupos vulnerables, en especial niños, discapacitados, personas con enfermedades terminales y de la tercera edad en las comunidades rurales;
+
 XI. Impulso a la educación cívica, a la cultura de la legalidad y combate efectivo a la ilegalidad en el medio rural;
+
 XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos y comunidades indígenas y afromexicanas, particularmente para su integración al desarrollo rural sustentable de la Nación;
-Fracción reformada DOF 01-04-2024 XIII. Seguridad en la tenencia y disposición de la tierra;
+Fracción reformada DOF 01-04-2024
+
+XIII. Seguridad en la tenencia y disposición de la tierra;
+
 XIV. Promoción del empleo productivo, incluyendo el impulso a la seguridad social y a la capacitación para el trabajo en las áreas agropecuaria, comercial, industrial y de servicios;
+
 XV. Protección a los trabajadores rurales en general y a los jornaleros agrícolas y migratorios en particular;
+
 XVI. Impulso a los programas de protección civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre;
+
 XVII. Impulso a los programas orientados a la paz social;
-Fracción reformada DOF 27-01-2011 XVIII. Difusión nacional sobre su contenido, y Fracción adicionada DOF 27-01-2011 XIX. Las demás que determine el Ejecutivo Federal.
+Fracción reformada DOF 27-01-2011
+
+XVIII. Difusión nacional sobre su contenido, y Fracción adicionada DOF 27-01-2011
+
+XIX. Las demás que determine el Ejecutivo Federal.
 Fracción recorrida DOF 27-01-2011
 
 ### Artículo 16
@@ -163,7 +261,9 @@ El Ejecutivo Federal, mediante los convenios que al respecto celebre con los gob
 Artículo reformado DOF 27-01-2011
 
 ### Artículo 21
-.- La Comisión Intersecretarial estará integrada por los titulares de las siguientes dependencias del Ejecutivo Federal: a) Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación cuyo titular la presidirá; b) Secretaría de Economía; c) Secretaría de Medio Ambiente y Recursos Naturales; d) Secretaría de Hacienda y Crédito Público; e) Secretaría de Comunicaciones y Transportes; f) Secretaría de Salud; g) Secretaría de Desarrollo Social; h) Secretaría de Desarrollo Agrario, Territorial y Urbano; i) Secretaría de Educación Pública; j) Secretaría de Energía; y las dependencias y entidades del Poder Ejecutivo que se consideren necesarias, de acuerdo con los temas de que se trate.
+.- La Comisión Intersecretarial estará integrada por los titulares de las siguientes dependencias del Ejecutivo Federal:
+
+a) Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación cuyo titular la presidirá; b) Secretaría de Economía; c) Secretaría de Medio Ambiente y Recursos Naturales; d) Secretaría de Hacienda y Crédito Público; e) Secretaría de Comunicaciones y Transportes; f) Secretaría de Salud; g) Secretaría de Desarrollo Social; h) Secretaría de Desarrollo Agrario, Territorial y Urbano; i) Secretaría de Educación Pública; j) Secretaría de Energía; y las dependencias y entidades del Poder Ejecutivo que se consideren necesarias, de acuerdo con los temas de que se trate.
 Párrafo reformado DOF 02-02-2007, 20-06-2018 Cada uno de los integrantes de la Comisión tendrá un suplente que, en el caso de las dependencias, será el subsecretario que tenga mayor relación con los asuntos del desarrollo rural.
 La Comisión Intersecretarial, a través de su Presidente, podrá convocar a las sesiones a otras dependencias del Ejecutivo Federal y a entidades del sector público, con objeto de que informen de los asuntos de su competencia, relacionados con el desarrollo rural sustentable.
 La Comisión Intersecretarial propondrá al Ejecutivo Federal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades del sector público y evaluará, periódicamente, los programas relacionados con el desarrollo rural sustentable. En su caso, la Comisión Intersecretarial someterá a la aprobación del Ejecutivo Federal nuevos programas de fomento agropecuario y de desarrollo rural sustentable para ser incluidos en el Proyecto de Presupuesto de Egresos correspondiente.
@@ -171,20 +271,56 @@ La Comisión Intersecretarial propondrá al Ejecutivo Federal las políticas y c
 ### Artículo 22
 .- La Comisión Intersecretarial a través de las dependencias y entidades que la integran, ejecutará las acciones previstas en este Título, de acuerdo con la competencia que les confiere la Ley Orgánica de la Administración Pública Federal y la Ley de Planeación; en tal virtud contará con los órganos desconcentrados y demás estructuras que se determinen en su reglamento y otras disposiciones aplicables.
 Asimismo, la Comisión Intersecretarial, mediante la concertación con las dependencias y entidades del sector público y con los sectores privado y social, aprovechará las capacidades institucionales de éstos y las propias de las estructuras administrativas que le asigna su reglamento, para integrar los siguientes sistemas y servicios especializados:
+
 I. Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable;
+
 II. Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral;
+
 III. Sistema Nacional de Fomento a la Empresa Social Rural;
+
 IV. Sistema Nacional de Lucha contra la Desertificación y la Degradación de los Recursos Naturales;
+
 V. Sistema Nacional de Bienestar Social Rural;
+
 VI. Sistema Nacional de Información para el Desarrollo Rural Sustentable;
+
 VII. Sistema Nacional de Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria;
+
 VIII. Sistema Nacional de Financiamiento Rural;
-IX. Sistema Nacional de apoyos a los programas inherentes a la política de fomento al desarrollo rural sustentable, en los siguientes aspectos: a) Apoyos, compensaciones y pagos directos al productor; b) Equipamiento rural; c) Reconversión productiva y tecnológica; d) Apoyos a la comercialización agropecuaria; e) Asistencia técnica; f) Apoyos y compensaciones por servicios ambientales; g) Estímulos fiscales y recursos del ramo 33 para el desarrollo rural sustentable establecidos en la Ley de Coordinación Fiscal; h) Finanzas rurales; i) Apoyos convergentes por contingencias; y j) Todos los necesarios para la aplicación del Programa Especial Concurrente en las materias especificadas en el artículo 15 de esta Ley.
+
+IX. Sistema Nacional de apoyos a los programas inherentes a la política de fomento al desarrollo rural sustentable, en los siguientes aspectos:
+
+a) Apoyos, compensaciones y pagos directos al productor;
+
+b) Equipamiento rural;
+
+c) Reconversión productiva y tecnológica;
+
+d) Apoyos a la comercialización agropecuaria;
+
+e) Asistencia técnica;
+
+f) Apoyos y compensaciones por servicios ambientales;
+
+g) Estímulos fiscales y recursos del ramo 33 para el desarrollo rural sustentable establecidos en la Ley de Coordinación Fiscal;
+
+h) Finanzas rurales;
+
+i) Apoyos convergentes por contingencias; y
+
+j) Todos los necesarios para la aplicación del Programa Especial Concurrente en las materias especificadas en el artículo 15 de esta Ley.
+
 X. Servicio Nacional de Normalización e Inspección de Productos Agropecuarios y del Almacenamiento;
+
 XI. Servicio Nacional de Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria;
+
 XII. Servicio Nacional de Inspección y Certificación de Semillas;
+
 XIII. Servicio Nacional del Registro Agropecuario;
-XIV. Servicio Nacional de Arbitraje del Sector Rural; y XV. Servicio Nacional de Capacitación y Asistencia Técnica Rural Integral.
+
+XIV. Servicio Nacional de Arbitraje del Sector Rural; y
+
+XV. Servicio Nacional de Capacitación y Asistencia Técnica Rural Integral.
 La Comisión Intersecretarial con la participación del Consejo Mexicano, determinará los lineamientos generales de operación y los integrantes de los sistemas y servicios previstos en este artículo, acorde con la normatividad constitucional y legal vigentes.
 
 ## CAPÍTULO III
@@ -221,16 +357,28 @@ La organización y funcionamiento de los consejos estatales, distritales y munic
 .- El Gobierno Federal, celebrará con los gobiernos de las entidades federativas con la participación de los consejos estatales correspondientes, los convenios necesarios para definir las responsabilidades de cada uno de los órdenes de gobierno en el cumplimiento de los objetivos y metas de los programas sectoriales. En estos convenios se establecerá la responsabilidad de los gobiernos de las entidades federativas para promover la oportuna concurrencia en el ámbito estatal de otros programas sectoriales que, en términos de la Ley Orgánica de la Administración Pública Federal, sean responsabilidad de las diferentes dependencias y entidades federales.
 Los convenios a que se refiere este capítulo establecerán los lineamientos conforme a los cuales las entidades federativas realizarán las actividades y dictarán las disposiciones necesarias para cumplir los objetivos y metas del Programa Sectorial.
 Dichos convenios establecerán las bases para determinar las formas de participación de ambos órdenes de gobierno, incluyendo, entre otras, las siguientes:
+
 I. La intervención de las autoridades estatales en el ejercicio descentralizado de las atribuciones que asigna a la Secretaría la Ley Orgánica de la Administración Pública Federal, en los términos de esta Ley y de las disposiciones que regulan las materias consideradas en ella;
+
 II. La programación de las actividades que especifique las responsabilidades operativas y presupuestales en el cumplimiento de los objetivos y metas del Programa Sectorial y en el que deban aplicarse recursos federales y de la propia entidad;
+
 III. El compromiso de las entidades federativas para promover regulaciones congruentes y acordes con la planeación y legislación nacional en materia de desarrollo rural sustentable;
+
 IV. El compromiso de los gobiernos de las entidades federativas de hacer del conocimiento público los programas derivados de estos convenios, así como la aplicación, distribución y entrega de los recursos a nivel de beneficiario;
+
 V. La adopción de la demarcación espacial de los Distritos de Desarrollo Rural, como base geográfica para la cobertura territorial de atención a los productores del sector rural, así como para la operación y seguimiento de los programas productivos y de los servicios especializados definidos en la presente Ley, sin detrimento de lo que acuerden en otros instrumentos jurídicos;
+
 VI. La corresponsabilidad para la organización y desarrollo de medidas de inocuidad, sanidad vegetal y salud animal;
+
 VII. La participación de las acciones del gobierno de la entidad federativa correspondiente en los programas de atención prioritaria a las regiones de mayor rezago económico y social, así como las de reconversión productiva;
+
 VIII. La participación del gobierno de la entidad federativa en el desarrollo de infraestructura y el impulso a la organización de los productores para hacer más eficientes los procesos de producción, industrialización, servicios, acopio y comercialización que ellos desarrollen;
+
 IX. La participación de los gobiernos de las entidades federativas y, en su caso, de los municipios, tomando como base la demarcación territorial de los Distritos de Desarrollo Rural u otras que se convengan, en la captación e integración de la información que requiera el Sistema Nacional de Información para el Desarrollo Rural Sustentable. Así mismo, la participación de dichas autoridades en la difusión de la misma a las organizaciones sociales, con objeto de que dispongan de la mejor información para apoyar sus decisiones respecto de las actividades que realicen;
-X. Los procedimientos mediante los cuales las entidades federativas solicitarán fundadamente al Gobierno Federal, que acuda con apoyos y programas especiales de atención por situaciones de emergencia, con objeto de mitigar los efectos de las contingencias, restablecer los servicios, las actividades productivas y reducir la vulnerabilidad de las regiones ante fenómenos naturales perturbadores u otros imprevistos, en términos de cosechas, ingresos, bienes patrimoniales y la vida de las familias; y XI. La participación de los gobiernos de las entidades federativas en la administración y coordinación del personal estatal y federal que se asigne a los Distritos de Desarrollo Rural, en el equipamiento de los mismos y en la promoción de la participación de las organizaciones sociales y de la población en lo individual en el funcionamiento de los distritos, de tal manera que éstos constituyan la instancia inicial e inmediata de atención pública al sector.
+
+X. Los procedimientos mediante los cuales las entidades federativas solicitarán fundadamente al Gobierno Federal, que acuda con apoyos y programas especiales de atención por situaciones de emergencia, con objeto de mitigar los efectos de las contingencias, restablecer los servicios, las actividades productivas y reducir la vulnerabilidad de las regiones ante fenómenos naturales perturbadores u otros imprevistos, en términos de cosechas, ingresos, bienes patrimoniales y la vida de las familias; y
+
+XI. La participación de los gobiernos de las entidades federativas en la administración y coordinación del personal estatal y federal que se asigne a los Distritos de Desarrollo Rural, en el equipamiento de los mismos y en la promoción de la participación de las organizaciones sociales y de la población en lo individual en el funcionamiento de los distritos, de tal manera que éstos constituyan la instancia inicial e inmediata de atención pública al sector.
 
 ### Artículo 28
 .- Los convenios que celebren las dependencias y entidades del sector público federal con los gobiernos de las entidades federativas, deberán prever la constitución de mecanismos y, en su caso, figuras asociativas para la administración de los recursos presupuestales que destine el Gobierno Federal a los programas de apoyo, en los que participen también los gobiernos de las entidades federativas y de los municipios; así como disposiciones para la entrega directa de los apoyos económicos a los beneficiarios, quienes serán los responsables de llevar a cabo la contratación o adquisición de los bienes y servicios que requieran para la realización de las inversiones objeto de los apoyos.
@@ -252,18 +400,32 @@ Estatales, establecerá las facultades de sus autoridades en las materias a las 
 
 ### Artículo 31
 .- Los Distritos de Desarrollo Rural coadyuvarán a la realización, entre otras, de las siguientes acciones:
+
 I. Articular y dar coherencia regional a las políticas de desarrollo rural sustentable, tomando en consideración las acciones de dotación de infraestructura básica a cargo de las dependencias federales, estatales y municipales competentes;
+
 II. Cumplir con las responsabilidades que se les asignen en los convenios que celebren el Gobierno Federal y los de las entidades federativas, para la operación de los sistemas y servicios enumerados en el artículo 22 de esta Ley, a fin de acercar la acción estatal al ámbito rural;
+
 III. Asesorar a los productores en las gestiones en materias de apoyo a la producción, organización, comercialización y, en general, en todas aquellas relacionadas con los aspectos productivos agropecuarios y no agropecuarios en el medio rural;
+
 IV. Procurar la oportunidad en la prestación de los servicios a los productores y en los apoyos institucionales que sean destinados al medio rural;
+
 V. Vigilar la aplicación de las normas de carácter fitozoosanitario;
+
 VI. Evaluar los resultados de la aplicación de los programas federales y estatales e informar a los Consejos Estatales al respecto;
+
 VII. Promover la participación activa de los agentes de la sociedad rural en las acciones institucionales y sectoriales;
+
 VIII. Promover la coordinación de las acciones consideradas en los programas de desarrollo rural sustentable, con las de los sectores industrial, comercial y de servicios con objeto de diversificar e incrementar el empleo en el campo;
+
 IX. Proponer al Consejo Estatal, como resultado de las consultas respectivas, los programas que éste deba conocer en su seno y se consideren necesarios para el fomento de las actividades productivas y el desarrollo rural sustentable;
+
 X. Realizar las consultas y acciones de concertación y consenso con los productores y sus organizaciones, para el cumplimiento de sus fines;
+
 XI. Constituirse en la fuente principal de obtención y difusión de cifras y estadísticas en su ámbito territorial, para lo cual coadyuvarán en el levantamiento de censos y encuestas sobre el desempeño e impacto de los programas y para el cumplimiento de lo ordenado por la fracción X de este artículo;
-XII. Apoyar la participación plena de los municipios en la planeación, definición de prioridades, operación y evaluación de las acciones del desarrollo rural sustentable; y XIII. Las demás que les asignen esta Ley, los reglamentos de la misma y los convenios que conforme a dichos ordenamientos se celebren.
+
+XII. Apoyar la participación plena de los municipios en la planeación, definición de prioridades, operación y evaluación de las acciones del desarrollo rural sustentable; y
+
+XIII. Las demás que les asignen esta Ley, los reglamentos de la misma y los convenios que conforme a dichos ordenamientos se celebren.
 TÍTULO TERCERO DEL FOMENTO AGROPECUARIO Y DE DESARROLLO RURAL SUSTENTABLE
 
 ## CAPÍTULO I
@@ -273,19 +435,37 @@ Del Fomento a las Actividades Económicas del Desarrollo Rural
 .- El Ejecutivo Federal, con la participación de los gobiernos de las entidades federativas y de los municipios y los sectores social y privado del medio rural, impulsará las actividades económicas en el ámbito rural.
 Las acciones y programas que se establezcan para tales propósitos se orientarán a incrementar la productividad y la competitividad en el ámbito rural, a fin de fortalecer el empleo y elevar el ingreso de los productores; a generar condiciones favorables para ampliar los mercados agropecuarios; a aumentar el capital natural para la producción, y a la constitución y consolidación de empresas rurales.
 Lo dispuesto en este precepto se propiciará mediante:
+
 I. El impulso a la investigación y desarrollo tecnológico agropecuario, la apropiación tecnológica y su validación, así como la transferencia de tecnología a los productores, la inducción de prácticas sustentables y la producción de semillas mejoradas incluyendo las criollas;
+
 II. El desarrollo de los recursos humanos, la asistencia técnica y el fomento a la organización económica y social de los agentes de la sociedad rural;
+
 III. La inversión tanto pública como privada para la ampliación y mejoramiento de la infraestructura hidroagrícola, el mejoramiento de los recursos naturales en las cuencas hídricas, el almacenaje, la electrificación, la comunicación y los caminos rurales;
+
 IV. El fomento de la inversión de los productores y demás agentes de la sociedad rural, para la capitalización, actualización tecnológica y reconversión sustentable de las unidades de producción y empresas rurales que permitan su constitución, incrementar su productividad y su mejora continua;
+
 V. El fomento de la sanidad vegetal, la salud animal y la inocuidad de los productos;
+
 VI. El fomento de la eficacia de los procesos de extracción o cosecha, acondicionamiento con grados de calidad del producto, empaque, acopio y comercialización;
+
 VII. El fortalecimiento de los servicios de apoyo a la producción, en particular el financiamiento, el aseguramiento, el almacenamiento, el transporte, la producción y abasto de insumos y fertilizantes, y la información económica y productiva;
-Fracción reformada DOF 07-06-2024 VIII. El fomento a los sistemas familiares de producción;
+Fracción reformada DOF 07-06-2024
+
+VIII. El fomento a los sistemas familiares de producción;
+
 IX. El impulso a la industria, agroindustria y la integración de cadenas productivas, así como el desarrollo de la infraestructura industrial en el medio rural;
+
 X. El impulso a las actividades económicas no agropecuarias en las que se desempeñan los diversos agentes de la sociedad rural, promoviendo la inversión de los sectores social y privado;
-Fracción reformada DOF 07-06-2024 XI. La creación de condiciones adecuadas para enfrentar el proceso de globalización, disminuyendo la importación de insumos y fertilizantes del extranjero;
-Fracción reformada DOF 07-06-2024 XII. La valorización y pago de los servicios ambientales;
-XIII. La conservación y mejoramiento de los suelos y demás recursos naturales; y XIV. Las demás que se deriven del cumplimiento de esta Ley.
+Fracción reformada DOF 07-06-2024
+
+XI. La creación de condiciones adecuadas para enfrentar el proceso de globalización, disminuyendo la importación de insumos y fertilizantes del extranjero;
+Fracción reformada DOF 07-06-2024
+
+XII. La valorización y pago de los servicios ambientales;
+
+XIII. La conservación y mejoramiento de los suelos y demás recursos naturales; y
+
+XIV. Las demás que se deriven del cumplimiento de esta Ley.
 
 ## CAPÍTULO II
 De la Investigación y la Transferencia Tecnológica
@@ -303,15 +483,26 @@ El Sistema tiene como objetivo coordinar y concertar las acciones de institucion
 
 ### Artículo 35
 .- El Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, será dirigido por la Secretaría, e integrará los esfuerzos en la materia mediante la participación de:
+
 I. Las instituciones públicas de investigación agropecuaria federales y estatales;
+
 II. Las instituciones públicas de educación que desarrollan actividades en la materia;
+
 III. Las instituciones de investigación y educación privadas que desarrollen actividades en la materia;
+
 IV. El Consejo Nacional de Ciencia y Tecnología;
+
 V. El Sistema Nacional de Investigadores en lo correspondiente;
+
 VI. Los mecanismos de cooperación con instituciones internacionales de investigación y desarrollo tecnológico agropecuario y agroindustrial;
+
 VII. Las empresas nacionales e internacionales generadoras de tecnología agropecuaria y forestal, a través de los mecanismos pertinentes;
+
 VIII. Las organizaciones y particulares, nacionales e internacionales, dedicados a la investigación agropecuaria, mediante los mecanismos de cooperación que correspondan;
-IX. El Consejo Mexicano para el Desarrollo Rural Sustentable y los Consejos Estatales para el Desarrollo Rural Sustentable; y X. Otros participantes que la Comisión Intersecretarial considere necesarios, para cumplir con los propósitos del fomento de la producción rural.
+
+IX. El Consejo Mexicano para el Desarrollo Rural Sustentable y los Consejos Estatales para el Desarrollo Rural Sustentable; y
+
+X. Otros participantes que la Comisión Intersecretarial considere necesarios, para cumplir con los propósitos del fomento de la producción rural.
 
 ### Artículo 36
 .- En materia de investigación agropecuaria, el Gobierno Federal impulsará la investigación básica y el desarrollo tecnológico; con este propósito y con base en la Ley para el Fomento de la Investigación Científica y Tecnológica y demás ordenamientos aplicables, la Secretaría tendrá a su cargo la coordinación de las instituciones de la Administración Pública Federal cuya responsabilidad sea la investigación agropecuaria, socioeconómica y la relacionada con los recursos naturales del país, así como el apoyo a los particulares y empresas para la validación de la tecnología aplicable a las condiciones del país que se genere en el ámbito nacional e internacional, siempre que sean consistentes con los objetivos de sustentabilidad y protección del medio ambiente a que se refieren esta Ley y las demás disposiciones en la materia.
@@ -320,23 +511,43 @@ La Secretaría, a través de las dependencias correspondientes sancionará los c
 
 ### Artículo 37
 .- El Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable deberá atender las demandas de los sectores social y privado en la materia, siendo sus propósitos fundamentales los siguientes:
+
 I. Atender las necesidades en materia de ciencia y tecnología de los productores y demás agentes de las cadenas productivas agropecuarias y agroindustriales y aquellas de carácter no agropecuario que se desarrollan en el medio rural;
-Fracción reformada DOF 18-06-2010 II. Promover la generación, apropiación, validación y transferencia de tecnología agropecuaria;
+Fracción reformada DOF 18-06-2010
+
+II. Promover la generación, apropiación, validación y transferencia de tecnología agropecuaria;
+
 III. Impulsar el desarrollo de la investigación básica y aplicada y el desarrollo tecnológico;
+
 IV. Promover y fomentar la investigación socioeconómica del medio rural;
+
 V. Propiciar la articulación de los sistemas de investigación para el desarrollo rural a escala nacional y al interior de cada entidad y la vinculación de éstos con el Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral;
+
 VI. Propiciar la vinculación entre los centros de investigación y docencia agropecuarias y las instituciones de investigación;
+
 VII. Establecer los mecanismos que propicien que los sectores social y privado y demás sujetos vinculados a la producción rural se beneficien y orienten las políticas relativas en la materia;
+
 VIII. Proveer los medios para sustentar las decisiones administrativas y contenciosas que requieran dictamen y arbitraje;
+
 IX. Fomentar la integración, administración y actualización pertinente de la información relativa a las actividades de investigación agropecuaria y de desarrollo rural sustentable;
+
 X. Fortalecer las capacidades regionales y estatales, propiciando su acceso a los programas de investigación y transferencia de tecnología;
+
 XI. Promover la productividad y rentabilidad de la investigación científica, así como el incremento de la aportación de recursos provenientes de los sectores agrícola e industrial, a fin de realizar investigaciones de interés para el avance tecnológico del medio rural;
+
 XII. Promover la investigación colectiva y asociada, así como la colaboración de investigadores de diferentes instituciones, disciplinas y países;
+
 XIII. Promover la investigación y el desarrollo tecnológico entre las universidades y centros de investigación públicos y privados que demuestren capacidad para llevar investigaciones en materia agropecuaria y de desarrollo rural sustentable;
+
 XIV. Aprovechar la experiencia científica disponible para trabajar en proyectos de alta prioridad específica, incluyendo las materias de biotecnología, ingeniería genética, bioseguridad e inocuidad;
+
 XV. Facilitar la reconversión productiva del sector hacia cultivos, variedades forestales y especies animales que eleven los ingresos de las familias rurales, proporcionen ventajas competitivas y favorezcan la producción de alto valor agregado;
+
 XVI. Desarrollar formas de aprovechamiento y mejoramiento de los recursos naturales, que incrementen los servicios ambientales y la productividad de manera sustentable;
-XVII. Propiciar información y criterios confiables sobre el estado de los recursos naturales y los procesos que lo determinan, así como las bases para la construcción de los indicadores correspondientes; y XVIII. Vincular de manera prioritaria la investigación científica y desarrollo tecnológico con los programas de reconversión productiva de las unidades económicas y las regiones para aumentar sus ventajas competitivas y mejorar los ingresos de las familias rurales.
+
+XVII. Propiciar información y criterios confiables sobre el estado de los recursos naturales y los procesos que lo determinan, así como las bases para la construcción de los indicadores correspondientes; y
+
+XVIII. Vincular de manera prioritaria la investigación científica y desarrollo tecnológico con los programas de reconversión productiva de las unidades económicas y las regiones para aumentar sus ventajas competitivas y mejorar los ingresos de las familias rurales.
 
 ### Artículo 38
 .- El Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, en el marco de la federalización, promoverá en todas las entidades federativas la investigación y desarrollo tecnológico, los que podrán operar con esquemas de organización análogos.
@@ -358,15 +569,26 @@ Las acciones y programas en capacitación, asistencia y transferencia de tecnolo
 ### Artículo 42
 .- El Gobierno Federal desarrollará la política de capacitación a través del Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral, atendiendo la demanda de la población campesina y sus organizaciones.
 La Política de Capacitación Rural Integral, tendrá como propósitos fundamentales los siguientes:
+
 I. Desarrollar la capacidad de los productores para el mejor desempeño de sus actividades agropecuarias, y de desarrollo rural sustentable;
+
 II. Impulsar sus habilidades empresariales;
+
 III. Posibilitar la acreditación de la capacitación de acuerdo con las normas de competencia laboral;
+
 IV. Atender la capacitación en materia agraria;
+
 V. Fortalecer la autonomía del productor y de los diversos agentes del sector, fomentando la creación de capacidades que le permitan apropiarse del proceso productivo y definir su papel en el proceso económico y social;
+
 VI. Habilitar a los productores para el aprovechamiento de las oportunidades y el conocimiento y cumplimiento de la normatividad en materia ambiental y de bioseguridad;
+
 VII. Promover y divulgar el conocimiento para el mejor aprovechamiento de los programas y apoyos institucionales que se ofrecen en esta materia;
+
 VIII. Proporcionar a los productores y agentes de la sociedad rural conocimientos para acceder y participar activamente en los mecanismos relativos al crédito y al financiamiento;
-IX. Habilitar a los productores para acceder a la información de mercados y mecanismos de acceso a los mismos; y X. Contribuir a elevar el nivel educativo y tecnológico en el medio rural.
+
+IX. Habilitar a los productores para acceder a la información de mercados y mecanismos de acceso a los mismos; y
+
+X. Contribuir a elevar el nivel educativo y tecnológico en el medio rural.
 
 ### Artículo 43
 .- Para el logro de los propósitos enunciados en el artículo anterior, se establece el Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral, como una instancia de articulación, aprovechamiento y vinculación de las capacidades que en esta materia poseen las dependencias y entidades del sector público y los sectores social y privado.
@@ -375,48 +597,87 @@ Párrafo adicionado DOF 18-06-2010
 
 ### Artículo 44
 .- El Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral será coordinado por la Secretaría y se conformará por:
+
 I. El Consejo Mexicano para el Desarrollo Rural Sustentable;
+
 II. Los consejos estatales para el Desarrollo Rural Sustentable;
+
 III. Los prestadores de servicios de capacitación certificados con base en normas de competencia laboral y de conformidad con la Ley Federal sobre Metrología y Normalización;
+
 IV. Los centros de capacitación en la materia, existentes en el país;
+
 V. Las instancias de capacitación de las organizaciones de los productores;
+
 VI. Los organismos evaluadores y certificadores de la competencia laboral;
+
 VII. Los organismos de capacitación, extensión y asistencia técnica del sector público;
+
 VIII. Las instituciones públicas de educación que desarrollan actividades en la materia;
-Fracción adicionada DOF 18-06-2010 IX. Los organismos de educación técnica y de capacitación de la Secretaría de Educación Pública, y Fracción reformada DOF 18-06-2010 (se recorre) X. Los mecanismos y estructuras que se deberán establecer para este fin en los distritos de desarrollo rural.
+Fracción adicionada DOF 18-06-2010
+
+IX. Los organismos de educación técnica y de capacitación de la Secretaría de Educación Pública, y Fracción reformada DOF 18-06-2010 (se recorre)
+
+X. Los mecanismos y estructuras que se deberán establecer para este fin en los distritos de desarrollo rural.
 Fracción reformada DOF 18-06-2010 (se recorre)
 
 ### Artículo 45
 .- El Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral, coordinará las siguientes acciones:
+
 I. Elaborar y ejecutar el Programa Nacional de Capacitación Rural Integral;
+
 II. Articular los esfuerzos de capacitación de las diversas instancias del gobierno federal con las diversas entidades federativas, los municipios y las organizaciones de los sectores social y privado;
+
 III. Mejorar la calidad y cobertura de los servicios de capacitación;
+
 IV. Validar los programas de capacitación;
+
 V. Realizar el seguimiento y evaluar los programas de capacitación que realicen las instituciones públicas y privadas;
+
 VI. Apoyar el mejor aprovechamiento de las capacidades y recursos que en esta materia poseen las entidades de los sectores público, social y privado, orientando su ejercicio en correspondencia con el Programa Nacional de Capacitación Rural Integral;
+
 VII. Integrar el Fondo Nacional de Recursos para la Capacitación Rural con los recursos de las entidades integrantes del Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral;
-VIII. Apoyar con recursos para la capacitación a la población campesina; y IX. Las demás atribuciones necesarias para el cumplimiento de los propósitos que le determina esta Ley.
+
+VIII. Apoyar con recursos para la capacitación a la población campesina; y
+
+IX. Las demás atribuciones necesarias para el cumplimiento de los propósitos que le determina esta Ley.
 
 ### Artículo 46
 .- El Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral tendrá los siguientes propósitos:
+
 I. Coordinar las acciones de las instituciones públicas y privadas relacionadas con la capacitación rural;
+
 II. Potenciar con la suma de recursos la capacidad nacional para el logro de los propósitos de la política de capacitación de desarrollo rural integral;
+
 III. Homologar y validar las acciones de los diferentes agentes que realizan actividades de capacitación para el desarrollo rural integral;
-IV. Promover la aplicación de esquemas de certificación de competencia laboral; y V. Contribuir a la gestión de recursos financieros para la capacitación.
+
+IV. Promover la aplicación de esquemas de certificación de competencia laboral; y
+
+V. Contribuir a la gestión de recursos financieros para la capacitación.
 
 ### Artículo 47
 .- El Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral, establecerá el Servicio Nacional de Capacitación y Asistencia Técnica Rural Integral como la instancia de dirección, programación y ejecución de las actividades de capacitación y asistencia técnica.
 
 ### Artículo 48
 .- El Servicio Nacional de Capacitación y Asistencia Técnica Rural Integral estará dirigido por un consejo interno conformado por:
+
 I. Los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Medio Ambiente y Recursos Naturales; Educación Pública; Trabajo y Previsión Social; Desarrollo Social y Desarrollo Agrario, Territorial y Urbano;
-Fracción reformada DOF 20-06-2018 II. Los organismos del sector agrario;
+Fracción reformada DOF 20-06-2018
+
+II. Los organismos del sector agrario;
+
 III. Un representante del Consejo de Certificación y Normalización de Competencia Laboral;
+
 IV. Un representante del Consejo Mexicano y otro de los Consejos Estatales;
+
 V. Representantes de las organizaciones de campesinos y productores de los sectores social y privado, con representación nacional;
+
 VI. Los presidentes de los comités de normalización de competencia laboral del sector agropecuario, de desarrollo rural sustentable, pesca y alimentación;
+
 VII. Representantes de las instituciones educativas y de desarrollo tecnológico agropecuario, agroindustrial y forestal;
-VIII. La representación de las autoridades agropecuarias y desarrollo rural de las Entidades Federativas; y IX. Las instituciones para el fomento de la investigación agropecuaria y forestal a que se refiere el
+
+VIII. La representación de las autoridades agropecuarias y desarrollo rural de las Entidades Federativas; y
+
+IX. Las instituciones para el fomento de la investigación agropecuaria y forestal a que se refiere el
 
 ## Capítulo II de este Título Tercero.
 
@@ -433,9 +694,14 @@ El Servicio de Capacitación y Asistencia Técnica Rural Integral, establecerá 
 
 ### Artículo 52
 .- Serán materia de asistencia técnica y capacitación:
+
 I. La transferencia de tecnología sustentable a los productores y demás agentes de la sociedad rural, tanto básica como avanzada;
+
 II. La aplicación de un esquema que permita el desarrollo sostenido y eficiente de los servicios técnicos, con especial atención para aquellos sectores con mayor rezago;
-III. El desarrollo de unidades de producción demostrativas como instrumentos de capacitación, inducción y administración de riesgos hacia el cambio tecnológico; y IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de campesino a campesino, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando usos y costumbres, tradición y tecnologías en el caso de los pueblos y comunidades indígenas y afromexicanas.
+
+III. El desarrollo de unidades de producción demostrativas como instrumentos de capacitación, inducción y administración de riesgos hacia el cambio tecnológico; y
+
+IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de campesino a campesino, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando usos y costumbres, tradición y tecnologías en el caso de los pueblos y comunidades indígenas y afromexicanas.
 Fracción reformada DOF 01-04-2024
 
 ## CAPÍTULO IV
@@ -450,25 +716,46 @@ El Gobierno Federal, a través de la Secretaría competente, podrá suscribir co
 
 ### Artículo 55
 .- Los apoyos para el cambio de la estructura productiva tendrán como propósitos:
+
 I. Responder eficientemente a la demanda nacional de productos básicos y estratégicos para la planta industrial nacional;
+
 II. Atender a las exigencias del mercado interno y externo, para aprovechar las oportunidades de producción que representen mejores opciones de capitalización e ingreso;
+
 III. Fomentar el uso eficiente de las tierras de acuerdo con las condiciones agroambientales, y disponibilidad de agua y otros elementos para la producción;
+
 IV. Estimular la producción que implique un elevado potencial en la generación de empleos locales;
+
 V. Reorientar el uso del suelo cuando existan niveles altos de erosión o impacto negativo sobre los ecosistemas;
+
 VI. Promover la adopción de tecnologías que conserven y mejoren la productividad de las tierras, la biodiversidad y los servicios ambientales;
+
 VII. Incrementar la productividad en regiones con limitantes naturales para la producción, pero con ventajas comparativas que justifiquen la producción bajo condiciones controladas;
-VIII. Fomentar la producción hacia productos con oportunidades de exportación y generación de divisas, dando prioridad al abastecimiento nacional de productos considerados estratégicos; y IX. Fomentar la diversificación productiva y contribuir a las prácticas sustentables de las culturas tradicionales.
+
+VIII. Fomentar la producción hacia productos con oportunidades de exportación y generación de divisas, dando prioridad al abastecimiento nacional de productos considerados estratégicos; y
+
+IX. Fomentar la diversificación productiva y contribuir a las prácticas sustentables de las culturas tradicionales.
 
 ### Artículo 56
 .- Se apoyará a los productores y organizaciones económicas para incorporar cambios tecnológicos y de procesos tendientes a:
+
 I. Mejorar los procesos de producción en el medio rural;
+
 II. Desarrollar economías de escala;
+
 III. Adoptar innovaciones tecnológicas;
+
 IV. Conservar y manejar el medio ambiente;
+
 V. Buscar la transformación tecnológica y la adaptación de tecnologías y procesos acordes a la cultura y los recursos naturales de los pueblos y comunidades indígenas y afromexicanas y las comunidades rurales;
-Fracción reformada DOF 01-04-2024 VI. Reorganizar y mejorar la eficiencia en el trabajo;
+Fracción reformada DOF 01-04-2024
+
+VI. Reorganizar y mejorar la eficiencia en el trabajo;
+
 VII. Mejorar la calidad de los productos para su comercialización;
-VIII. Usar eficientemente los recursos económicos, naturales y productivos; y IX. Mejorar la estructura de costos.
+
+VIII. Usar eficientemente los recursos económicos, naturales y productivos; y
+
+IX. Mejorar la estructura de costos.
 
 ### Artículo 57
 .- Los apoyos y la reconversión productiva se acompañarán de los estudios de factibilidad necesarios, procesos de capacitación, educación y fortalecimiento de las habilidades de gestión y organización de los actores sociales involucrados, con el propósito de contribuir en el cambio social y la concepción del uso y manejo sustentable de los recursos naturales.
@@ -479,9 +766,14 @@ En las tierras dictaminadas por la Secretaría de Medio Ambiente y Recursos Natu
 
 ### Artículo 59
 .- Los apoyos a la reconversión productiva en la actividad agropecuaria y agroindustrial se orientarán a impulsar preferentemente:
+
 I. La constitución de empresas de carácter colectivo y familiar, o que generen empleos locales;
+
 II. El establecimiento de convenios entre industrias y los productores primarios de la región para la adquisición de materias primas;
-III. La adopción de tecnologías sustentables ahorradoras de energía; y IV. La modernización de infraestructura y equipo que eleve su competitividad.
+
+III. La adopción de tecnologías sustentables ahorradoras de energía; y
+
+IV. La modernización de infraestructura y equipo que eleve su competitividad.
 
 ## CAPÍTULO V
 De la Capitalización Rural, Compensaciones y Pagos Directos
@@ -500,8 +792,12 @@ De la Capitalización Rural, Compensaciones y Pagos Directos
 
 ### Artículo 64
 .- El Ejecutivo Federal aportará recursos, de acuerdo al Presupuesto de Egresos de la Federación, que podrán ser complementados por los que asignen los gobiernos de las Entidades Federativas y de los Municipios, los cuales tendrán por objeto:
+
 I. Compartir el riesgo de la reconversión productiva y las inversiones de capitalización;
-II. Concurrir con los apoyos adicionales que en cada caso requieran los productores para el debido cumplimiento de los proyectos o programas de fomento, especiales o de contingencia, con objeto de corregir faltantes de los productos básicos destinados a satisfacer necesidades nacionales; y III. Apoyar la realización de inversiones, obras o tareas que sean necesarias para lograr el incremento de la productividad del sector rural y los servicios ambientales.
+
+II. Concurrir con los apoyos adicionales que en cada caso requieran los productores para el debido cumplimiento de los proyectos o programas de fomento, especiales o de contingencia, con objeto de corregir faltantes de los productos básicos destinados a satisfacer necesidades nacionales; y
+
+III. Apoyar la realización de inversiones, obras o tareas que sean necesarias para lograr el incremento de la productividad del sector rural y los servicios ambientales.
 
 ### Artículo 65
 .- El Gobierno Federal en un marco de riesgo compartido, definirá un monto de recursos para apoyar temporalmente a los productores que participen en los proyectos de reconversión estratégica, en los términos establecidos en los contratos referidos en el artículo 53 de esta Ley.
@@ -521,16 +817,27 @@ Las utilidades que hubiere, deducidos los costos y los gastos de administración
 
 ### Artículo 70
 .- La proyección a mediano plazo de los recursos correspondientes, perseguirá los siguientes propósitos:
-I. Proporcionar a los productores certidumbre de que recibirán los apoyos que les garanticen implementar los proyectos productivos que permitan entre otras cosas, incrementar la rentabilidad y competitividad de sus unidades productivas, además de una mayor capacidad de negociación al enfrentar los compromisos mercantiles y aprovechar las oportunidades de crecimiento derivadas de los acuerdos y tratados internacionales sobre la materia; y II. Que los productores estén en posibilidad de recibir por anticipado los recursos previstos en los programas de apoyos respectivos, para capitalizar sus unidades de producción y poder desarrollar sus proyectos y acciones de modernización.
+
+I. Proporcionar a los productores certidumbre de que recibirán los apoyos que les garanticen implementar los proyectos productivos que permitan entre otras cosas, incrementar la rentabilidad y competitividad de sus unidades productivas, además de una mayor capacidad de negociación al enfrentar los compromisos mercantiles y aprovechar las oportunidades de crecimiento derivadas de los acuerdos y tratados internacionales sobre la materia; y
+
+II. Que los productores estén en posibilidad de recibir por anticipado los recursos previstos en los programas de apoyos respectivos, para capitalizar sus unidades de producción y poder desarrollar sus proyectos y acciones de modernización.
 
 ### Artículo 71
 .- Los apoyos que se otorguen deberán orientarse, entre otros propósitos, para:
+
 I. Modernizar la infraestructura del productor y sus equipos;
+
 II. El establecimiento de convenios entre industriales y productores primarios;
+
 III. La constitución de empresas de carácter colectivo y familiar;
+
 IV. La asociación de productores mediante la figura jurídica que más convenga a sus intereses, siempre que se sitúe en el marco legal vigente;
+
 V. La inversión en restauración y mejoramiento de las tierras y servicios ambientales;
-VI. La adopción de tecnologías sustentables ahorradoras de energía; y VII. Los demás que establezca la Comisión Intersecretarial, con la participación del Consejo Mexicano.
+
+VI. La adopción de tecnologías sustentables ahorradoras de energía; y
+
+VII. Los demás que establezca la Comisión Intersecretarial, con la participación del Consejo Mexicano.
 
 ### Artículo 72
 .- Las previsiones de recursos y disponibilidades presupuestales para un ejercicio fiscal y las proyectadas en un horizonte de mediano plazo, promoverán la producción de bienes y servicios que contribuyan a fortalecer la producción interna y la balanza comercial agroalimentaria, las adecuaciones estructurales a las cadenas productivas, el acceso a alimentos con menor precio, el mejoramiento de las tierras y los servicios ambientales y la reducción de las condiciones de desigualdad entre los productores, así como los mecanismos que permitan lograr su competitividad en el entorno de la globalización económica.
@@ -541,11 +848,18 @@ Se establece la posibilidad de anticipar los apoyos multianuales cumpliendo los 
 
 ### Artículo 74
 .- El Gobierno Federal, en el ejercicio de sus atribuciones, deberá promover que los apoyos multianuales que se otorguen a los productores les permitan operar bajo las directrices siguientes:
+
 I. Certidumbre de su temporalidad al fijar en esta Ley la vigencia del programa y la posibilidad de solicitar por adelantado los recursos previstos en él;
+
 II. Precisión en cuanto a su naturaleza generalizada o diferenciada por tipo de productor, ubicación geográfica y nivel socioeconómico del beneficiario;
+
 III. Oportunidad en su entrega, de acuerdo con las características de los proyectos correspondientes;
+
 IV. Transparencia mediante la difusión de las reglas para su acceso y la publicación de los montos y el tipo de apoyo por beneficiario;
-V. Responsabilidad de los beneficiarios, respecto a la utilización de los apoyos; y VI. Posibilidad de evaluarlos para medir su eficiencia y administración, conforme a las reglas previstas.
+
+V. Responsabilidad de los beneficiarios, respecto a la utilización de los apoyos; y
+
+VI. Posibilidad de evaluarlos para medir su eficiencia y administración, conforme a las reglas previstas.
 
 ### Artículo 75
 .- Los beneficiarios de los apoyos podrán destinar los recursos correspondientes para que sirvan como fuente de pago o bien como garantía de proyectos.
@@ -607,9 +921,14 @@ Del Incremento de la Productividad y la Formación y Consolidación de Empresas 
 
 ### Artículo 90
 .- El Gobierno Federal, con la participación del Consejo Mexicano, establecerá la vigencia del apoyo al productor, previendo en sus reglas de operación, cuando menos:
+
 I. Tiempo durante el cual se otorgará el apoyo;
+
 II. Monto de los apoyos;
-III. Límites de extensión u otros, para poder recibir el apoyo, así como los requisitos para acreditar lo anterior; y IV. Forma de resolver las controversias que se originen con motivo de los apoyos mediante la intervención de los distritos de desarrollo rural.
+
+III. Límites de extensión u otros, para poder recibir el apoyo, así como los requisitos para acreditar lo anterior; y
+
+IV. Forma de resolver las controversias que se originen con motivo de los apoyos mediante la intervención de los distritos de desarrollo rural.
 
 ## CAPÍTULO VIII
 De la Sanidad Agropecuaria
@@ -660,10 +979,16 @@ Además, promoverá la creación de una base de referencia que facilite las tran
 
 ### Artículo 102
 .- El Servicio Nacional de Inspección y Certificación de Semillas tendrá los siguientes objetivos:
+
 I. Establecer y en su caso proponer, conjuntamente con las demás dependencias e instituciones vinculadas, políticas, acciones y acuerdos internacionales sobre conservación, acceso, uso y manejo integral de los recursos fitogenéticos, derechos de protección de los obtentores y análisis de calidad de semillas;
+
 II. Establecer lineamientos para la certificación y análisis de calidad de semillas;
+
 III. Promover la participación de los diversos sectores involucrados en la protección de los derechos de los obtentores de variedades vegetales;
-IV. Difundir los actos relativos a la protección de los derechos del obtentor de variedades vegetales; e V. Instrumentar las medidas de inspección y certificación para garantizar la inocuidad de los organismos genéticamente modificados, en los términos del artículo 97.
+
+IV. Difundir los actos relativos a la protección de los derechos del obtentor de variedades vegetales; e
+
+V. Instrumentar las medidas de inspección y certificación para garantizar la inocuidad de los organismos genéticamente modificados, en los términos del artículo 97.
 En el cumplimiento de las acciones incluidas en los objetivos que enumera este artículo se estará a las previsiones determinadas por la Ley Federal de Variedades Vegetales y su reglamento.
 
 ### Artículo 103
@@ -677,15 +1002,26 @@ De la Comercialización
 
 ### Artículo 105
 .- La política de comercialización atenderá los siguientes propósitos:
+
 I. Establecer e instrumentar reglas claras y equitativas para el intercambio de productos ofertados por la sociedad rural, tanto en el mercado interior como exterior;
+
 II. Procurar una mayor articulación de la producción primaria con los procesos de comercialización y transformación, así como elevar la competitividad del sector rural y de las cadenas productivas del mismo;
+
 III. Favorecer la relación de intercambio de los agentes de la sociedad rural;
+
 IV. Dar certidumbre a los productores para reactivar la producción, estimular la productividad y estabilizar los ingresos;
+
 V. Inducir la conformación de la estructura productiva y el sistema de comercialización que se requiere para garantizar el abasto alimentario, así como el suministro de materia prima a la industria nacional;
+
 VI. Propiciar un mejor abasto de alimentos;
+
 VII. Evitar las prácticas especulativas, la concentración y el acaparamiento de los productos agropecuarios en perjuicio de los productores y consumidores;
+
 VIII. Estimular el fortalecimiento de las empresas comercializadoras y de servicios de acopio y almacenamiento de los sectores social y privado, así como la adquisición y venta de productos ofertados por los agentes de la sociedad rural;
-IX. Inducir la formación de mecanismos de reconocimiento, en el mercado, de los costos incrementales de la producción sustentable y los servicios ambientales; y X. Fortalecer el mercado interno y la competitividad de la producción nacional.
+
+IX. Inducir la formación de mecanismos de reconocimiento, en el mercado, de los costos incrementales de la producción sustentable y los servicios ambientales; y
+
+X. Fortalecer el mercado interno y la competitividad de la producción nacional.
 
 ### Artículo 106
 .- Para los efectos del artículo anterior, la Comisión Intersecretarial, con la participación del Consejo Mexicano a través de los Comités Sistema Producto, elaborará el Programa Básico de Producción y Comercialización de Productos Ofertados por los agentes de la sociedad rural, así como los programas anuales correspondientes, los que serán incorporados a los programas sectoriales y los programas operativos anuales de las Secretarías y dependencias correspondientes.
@@ -746,21 +1082,37 @@ Las instituciones del Sistema Nacional de Financiamiento Rural presentarán anua
 .- En la medida en que el Estado desarrolle y consolide el Sistema Nacional de Financiamiento Rural, limitará a lo indispensable su participación en la prestación de servicios financieros directos al público, concentrándose en actividades de fomento y prestación de servicios financieros a las instituciones del Sistema Nacional de Financiamiento Rural, evitando crear competencia a dichas instituciones. El Sistema Nacional de Información para el Desarrollo Rural Sustentable incluirá información oportuna sobre montos y mecanismos de financiamiento, de acuerdo con lo que establezca la Comisión Intersecretarial con la participación del Consejo Mexicano.
 Los programas gubernamentales rurales con componentes financieros, establecerán su área de influencia; políticas financieras; criterios de equidad de género; apoyo a grupos vulnerables, personas de la tercera edad, población indígena y las demás que establezca la Comisión Intersecretarial con la participación del Consejo Mexicano.
 El Gobierno Federal impulsará la participación de las instituciones del Sistema Nacional de Financiamiento Rural en la prestación de servicios de crédito, ahorro, seguros, transferencia de remesas, servicios de pagos y la aportación de capital de riesgo al sector, que podrán incluir, entre otras:
+
 I. Fondos de avío y refaccionarios para la producción e inversión de capital en las actividades agropecuarias; para promover la agricultura por contrato; para el fomento de las asociaciones estratégicas, para la constitución y consolidación de empresas rurales, para el desarrollo de plantaciones frutícolas, industriales y forestales; para la agroindustria y las explotaciones pesqueras y acuícolas; así como para actividades que permitan diversificar las oportunidades de ingreso y empleo en el ámbito rural;
+
 II. Inversión gubernamental en infraestructura de acopio y almacenamiento, fondos para la pignoración de cosechas y mantenimiento de inventarios;
+
 III. Apoyo a la exportación de la producción nacional;
+
 IV. Fondos para la inversión en infraestructura hidroagrícola y tecnificación de los sistemas de riego;
+
 V. Fondos para la consolidación de la propiedad rural y la reconversión productiva;
+
 VI. Inversión para el cumplimiento de regulaciones ambientales y las relativas a la inocuidad de los productos;
-VII. Apoyos para innovaciones de procesos productivos en el medio rural, tales como cultivos, riegos, cosechas, transformación industrial y sus fases de comercialización; y VIII. Recursos para acciones colaterales que garanticen la recuperación de las inversiones.
+
+VII. Apoyos para innovaciones de procesos productivos en el medio rural, tales como cultivos, riegos, cosechas, transformación industrial y sus fases de comercialización; y
+
+VIII. Recursos para acciones colaterales que garanticen la recuperación de las inversiones.
 
 ### Artículo 119
 .- La Comisión Intersecretarial, con la participación del Consejo Mexicano, definirá mecanismos para favorecer la conexión de la banca social con los programas gubernamentales y las bancas de desarrollo y privada, con el fin de aprovechar tanto las ventajas de la inserción local de la banca social, como las economías de escala de la banca de fomento y la privada. Asimismo, establecerá apoyos especiales a iniciativas financieras locales viables que respondan a las características socioeconómicas y de organización de la población rural, incluyendo:
+
 I. Apoyo con capital semilla;
+
 II. Créditos de inversión de largo plazo;
+
 III. Apoyo con asistencia técnica y programas de desarrollo de capital humano y social;
+
 IV. Establecimiento y acceso a información;
-V. Mecanismos de refinanciamiento; y VI. Preferencia en el acceso a programas gubernamentales.
+
+V. Mecanismos de refinanciamiento; y
+
+VI. Preferencia en el acceso a programas gubernamentales.
 
 ### Artículo 120
 .- El Ejecutivo Federal impulsará en la Banca mecanismos para complementar los programas de financiamiento al sector, con tasas de interés preferentes en la banca de desarrollo. En este sentido, tendrán preferencia los productores de productos básicos y estratégicos o con bajos ingresos.
@@ -768,15 +1120,25 @@ V. Mecanismos de refinanciamiento; y VI. Preferencia en el acceso a programas gu
 ### Artículo 121
 .- El Gobierno Federal a través de la Comisión Intersecretarial mediante mecanismos de coordinación con los gobiernos de las entidades federativas, impulsará el desarrollo de esquemas locales de financiamiento rural, que amplíen la cobertura institucional, promoviendo y apoyando con recursos financieros el surgimiento y consolidación de iniciativas locales que respondan a las características socioeconómicas y de organización de la población rural, con base en criterios de viabilidad y autosuficiencia y favorecerá su conexión con los programas gubernamentales y las bancas de desarrollo privada y social.
 Con tal fin, realizará las siguientes acciones:
+
 I. Apoyar la emergencia y consolidación de proyectos locales de financiamiento, ahorro y seguro, bajo criterios de corresponsabilidad, garantía solidaria de los asociados y sostenibilidad financiera, que faciliten el acceso de los productores a tales servicios y a los esquemas institucionales de mayor cobertura;
+
 II. Apoyar técnica y financieramente a organizaciones económicas de productores, para la creación de sistemas financieros autónomos y descentralizados;
-III. Canalizar apoyos económicos para desarrollar el capital humano y social de los organismos de los productores que conformen esquemas de financiamiento complementarios de la cobertura del sistema financiero institucional; y IV. Normar y facilitar a los productores el uso financiero de los instrumentos de apoyo directo al ingreso, la productividad y la comercialización, para complementar los procesos de capitalización.
+
+III. Canalizar apoyos económicos para desarrollar el capital humano y social de los organismos de los productores que conformen esquemas de financiamiento complementarios de la cobertura del sistema financiero institucional; y
+
+IV. Normar y facilitar a los productores el uso financiero de los instrumentos de apoyo directo al ingreso, la productividad y la comercialización, para complementar los procesos de capitalización.
 
 ### Artículo 122
 .- La Comisión Intersecretarial, en coordinación con la Secretaría de Hacienda y Crédito Público y con la colaboración de los gobiernos de las entidades federativas, podrá participar en el establecimiento de fondos a fin de apoyar:
+
 I. La capitalización de iniciativas de inversión de las organizaciones económicas de los productores;
+
 II. La formulación de proyectos y programas agropecuarios, forestales y de desarrollo rural de factibilidad técnica, económica y financiera;
-III. El otorgamiento de garantías para respaldar proyectos de importancia estratégica regional; y IV. El cumplimiento de los programas y apoyos gubernamentales a que se refieren las fracciones anteriores.
+
+III. El otorgamiento de garantías para respaldar proyectos de importancia estratégica regional; y
+
+IV. El cumplimiento de los programas y apoyos gubernamentales a que se refieren las fracciones anteriores.
 
 ### Artículo 123
 .- El Gobierno Federal realizará esfuerzos de coordinación en materia de financiamiento rural, entre la banca de desarrollo e instituciones del sector público especializadas; la banca comercial y organismos privados de financiamiento y la banca social y organismos financieros de los productores rurales, reconociéndolos en los términos de la legislación aplicable.
@@ -831,26 +1193,47 @@ En el Sistema Nacional de Información para el Desarrollo Rural Sustentable se i
 
 ### Artículo 135
 .- El Sistema Nacional de Información para el Desarrollo Rural Sustentable integrará los esfuerzos en la materia con la participación de:
+
 I. Las instituciones públicas que generen información pertinente para el sector;
+
 II. Las instituciones públicas de educación que desarrollan actividades en la materia;
+
 III. Las instituciones de investigación y educación privadas que desarrollen actividades en la materia;
+
 IV. El Consejo Nacional de Ciencia y Tecnología;
+
 V. El Sistema Nacional de Investigadores en lo correspondiente;
+
 VI. Las instancias de cooperación internacionales de investigación y desarrollo tecnológico agropecuario y agroindustrial;
+
 VII. Las empresas nacionales e internacionales generadoras de tecnología agropecuaria;
+
 VIII. Las organizaciones y particulares, nacionales e internacionales, dedicados a la investigación agropecuaria;
-IX. El Consejo Mexicano; y X. Otros participantes que la Comisión Intersecretarial considere necesarios, para cumplir con los propósitos del fomento de la producción rural.
+
+IX. El Consejo Mexicano; y
+
+X. Otros participantes que la Comisión Intersecretarial considere necesarios, para cumplir con los propósitos del fomento de la producción rural.
 
 ### Artículo 136
 .- Será responsabilidad de la Comisión Intersecretarial coordinar los esfuerzos y acopiar y sistematizar información de las dependencias y entidades de los gobiernos federal, estatales y municipales que integren el Sistema Nacional de Información para el Desarrollo Rural Sustentable, considerando la información proveniente de los siguientes tópicos:
+
 I. La comercialización agropecuaria municipal, regional y estatal;
+
 II. Los estudios agropecuarios;
+
 III. La comercialización agropecuaria nacional;
+
 IV. La información de comercio internacional;
+
 V. La información climatológica, de los recursos naturales, áreas naturales protegidas e hidráulica;
+
 VI. La información relativa al sector público en general;
+
 VII. La información sobre las organizaciones e instituciones de los sectores social o privado y demás agentes de la sociedad rural;
-VIII. Los sistemas oficiales de registro sobre tecnología, servicios técnicos y gestión; y IX. La información sobre los mecanismos de cooperación con instituciones y organismos públicos internacionales.
+
+VIII. Los sistemas oficiales de registro sobre tecnología, servicios técnicos y gestión; y
+
+IX. La información sobre los mecanismos de cooperación con instituciones y organismos públicos internacionales.
 
 ### Artículo 137
 .- El Sistema Nacional de Información para el Desarrollo Rural Sustentable estará disponible a consulta abierta al público en general en todas las oficinas de las instituciones que integren el Sistema en las entidades y en los Distritos de Desarrollo Rural, así como por medios electrónicos y publicaciones idóneas.
@@ -878,23 +1261,42 @@ De la Organización Económica y los Sistemas Producto
 
 ### Artículo 143
 .- El Gobierno Federal, mediante mecanismos de coordinación, con los gobiernos de las entidades federativas y de los municipios, promoverá y fomentará el desarrollo del capital social en el medio rural a partir del impulso a la asociación y la organización económica y social de los productores y demás agentes de la sociedad rural, quienes tendrán el derecho de asociarse libre, voluntaria y democráticamente, debiendo, las organizaciones que, en su caso, se integren conforme a lo anterior, ser representativas, transparentes y rendir cuentas, con el objetivo de procurar la promoción y articulación de las cadenas de producción-consumo para lograr una vinculación eficiente y equitativa entre los agentes del desarrollo rural sustentable. Lo anterior, dando prioridad a los sectores de población más débiles económica y socialmente y a sus organizaciones, a través de:
-Párrafo reformado DOF 22-12-2017 I. Habilitación de las organizaciones de la sociedad rural para la capacitación y difusión de los programas oficiales y otros instrumentos de política para el campo;
+Párrafo reformado DOF 22-12-2017
+
+I. Habilitación de las organizaciones de la sociedad rural para la capacitación y difusión de los programas oficiales y otros instrumentos de política para el campo;
+
 II. Capacitación de cuadros técnicos y directivos;
+
 III. Promoción de la organización productiva y social en todos los órdenes de la sociedad rural;
+
 IV. Constitución de figuras asociativas para la producción y desarrollo rural sustentable;
+
 V. Fortalecimiento institucional de las organizaciones productivas y sociales;
-VI. Fomento a la elevación de la capacidad de interlocución, gestión y negociación de las organizaciones del sector rural; y VII. Las que determine la Comisión Intersecretarial con la participación del Consejo Mexicano.
+
+VI. Fomento a la elevación de la capacidad de interlocución, gestión y negociación de las organizaciones del sector rural; y
+
+VII. Las que determine la Comisión Intersecretarial con la participación del Consejo Mexicano.
 
 ### Artículo 144
 .- La organización y asociación económica y social en el medio rural, tanto del sector privado como del social, tendrá las siguientes prioridades:
+
 I. La participación de los agentes de la sociedad rural en la formulación, diseño e instrumentación de las políticas de fomento del desarrollo rural;
+
 II. El establecimiento de mecanismos para la concertación y el consenso entre la sociedad rural y los órdenes de Gobierno Federal, estatal y municipal;
+
 III. El fortalecimiento de la capacidad de autogestión, negociación y acceso de los productores a los mercados, a los procesos de agregación de valor, a los apoyos y subsidios y a la información económica y productiva;
+
 IV. La promoción y articulación de las cadenas de producción-consumo, para lograr una vinculación eficiente y equitativa de la producción entre los agentes económicos participantes en ellas;
+
 V. La reducción de los costos de intermediación, así como promover el acceso a los servicios, venta de productos y adquisición de insumos;
+
 VI. El aumento de la cobertura y calidad de los procesos de capacitación productiva, laboral, tecnológica, empresarial y agraria, que estimule y apoye a los productores en el proceso de desarrollo rural, promoviendo la diversificación de las actividades económicas, la constitución y consolidación de empresas rurales y la generación de empleo;
+
 VII. El impulso a la integración o compactación de unidades de producción rural, mediante programas de: reconversión productiva, de reagrupamiento de predios y parcelas de minifundio, atendiendo las disposiciones constitucionales y la legislación aplicable;
-VIII. La promoción, mediante la participación y compromiso de las organizaciones sociales y económicas, del mejor uso y destino de los recursos naturales para preservar y mejorar el medio ambiente y atendiendo los criterios de sustentabilidad previstos en esta Ley; y IX. El fortalecimiento de las unidades productivas familiares y grupos de trabajo de las mujeres y jóvenes rurales.
+
+VIII. La promoción, mediante la participación y compromiso de las organizaciones sociales y económicas, del mejor uso y destino de los recursos naturales para preservar y mejorar el medio ambiente y atendiendo los criterios de sustentabilidad previstos en esta Ley; y
+
+IX. El fortalecimiento de las unidades productivas familiares y grupos de trabajo de las mujeres y jóvenes rurales.
 
 ### Artículo 145
 .- Se reconocen como formas legales de organización económica y social, las reguladas por esta Ley, por la Ley Agraria, por la Ley de Organizaciones Ganaderas y por la Ley de Asociaciones Agrícolas; así como las que se regulan en las leyes federales y de las entidades federativas vigentes, cualquiera que sea su materia.
@@ -910,17 +1312,28 @@ Para los efectos de lo dispuesto por la Ley de Planeación, la Secretaría promo
 ### Artículo 148
 .- El Gobierno Federal apoyará y promoverá la constitución, operación y consolidación de las organizaciones del sector social y privado que participen en las actividades económicas, proyectos productivos y de desarrollo social del medio rural, para lo cual incluirá las previsiones presupuestarias específicas correspondientes en el Presupuesto de Egresos de la Federación.
 Los apoyos mencionados se sujetarán a las siguientes disposiciones:
+
 I. Se otorgarán a las organizaciones que estén vigentes y operando, conforme a la legislación aplicable;
-II. Se otorgarán en función de los programas de actividades en sus proyectos productivos y de desarrollo social, evaluados por la instancia gubernamental que corresponda; y III. Las organizaciones en sus diferentes órdenes presentarán, para ser objeto de apoyo, necesidades específicas y programas de actividades en materia de promoción de la asociación de los productores, formación de cuadros técnicos, estudios estratégicos y fortalecimiento y consolidación institucional de la organización, entre otras.
+
+II. Se otorgarán en función de los programas de actividades en sus proyectos productivos y de desarrollo social, evaluados por la instancia gubernamental que corresponda; y
+
+III. Las organizaciones en sus diferentes órdenes presentarán, para ser objeto de apoyo, necesidades específicas y programas de actividades en materia de promoción de la asociación de los productores, formación de cuadros técnicos, estudios estratégicos y fortalecimiento y consolidación institucional de la organización, entre otras.
 La Comisión Intersecretarial, con la participación del Consejo Mexicano, formulará las reglas de operación para el otorgamiento de los apoyos, las publicará, emitirá la convocatoria pública a las organizaciones interesadas y, posteriormente, publicará los resultados de la convocatoria.
 
 ### Artículo 149
 .- La Comisión Intersecretarial promoverá la organización e integración de SistemasProducto, como comités del Consejo Mexicano, con la participación de los productores agropecuarios, agroindustriales y comercializadores y sus organizaciones, que tendrán por objeto:
+
 I. Concertar los programas de producción agropecuaria del país;
+
 II. Establecer los planes de expansión y repliegue estratégicos de los volúmenes y calidad de cada producto de acuerdo con las tendencias de los mercados y las condiciones del país;
+
 III. Establecer las alianzas estratégicas y acuerdos para la integración de las cadenas productivas de cada sistema;
+
 IV. Establecer las medidas y acuerdos para la definición de normas y procedimientos aplicables en las transacciones comerciales y la celebración de contratos sin manejo de inventarios físicos;
-V. Participar en la definición de aranceles, cupos y modalidades de importación; y VI. Generar mecanismos de concertación entre productores primarios, industriales y los diferentes órdenes de gobierno para definir las características y cantidades de los productos, precios, formas de pago y apoyos del Estado.
+
+V. Participar en la definición de aranceles, cupos y modalidades de importación; y
+
+VI. Generar mecanismos de concertación entre productores primarios, industriales y los diferentes órdenes de gobierno para definir las características y cantidades de los productos, precios, formas de pago y apoyos del Estado.
 Los Comités Sistema-Producto constituirán mecanismos de planeación, comunicación y concertación permanente entre los actores económicos que forman parte de las cadenas productivas.
 La Comisión Intersecretarial promoverá el funcionamiento de los Sistemas-Producto para la concertación de programas agroindustriales y de desarrollo y expansión de mercados.
 A través de los Comités Sistema-Producto, el Gobierno Federal impulsará modalidades de producción por contrato y asociaciones estratégicas, mediante el desarrollo y adopción, por los participantes, de términos de contratación y convenios conforme a criterios de normalización de la calidad y cotizaciones de referencia.
@@ -945,17 +1358,23 @@ Del Bienestar Social y la Atención Prioritaria a las Zonas de Marginación
 ### Artículo 154
 .- Los programas del Gobierno Federal, impulsarán una adecuada integración de los factores del bienestar social como son la salud, la seguridad social, la educación, la alimentación, la vivienda, la equidad de género, la atención a los jóvenes, personas de la tercera edad, grupos vulnerables, jornaleros agrícolas y migrantes, los derechos de los pueblos y comunidades indígenas y afromexicanas, la cultura y la recreación; mismos que deberán aplicarse con criterios de equidad.
 Párrafo reformado DOF 01-04-2024 Para el desarrollo de estos programas, el Ejecutivo Federal mediante convenios con los gobiernos de las entidades federativas y a través de éstos con los municipales, fomentará el Programa Especial Concurrente, conjuntamente con la organización social, para coadyuvar a superar la pobreza, estimular la solidaridad social, el mutualismo y la cooperación. Para los efectos del referido programa, de manera enunciativa y no restrictiva, de acuerdo con las disposiciones constitucionales y la legislación aplicable, se seguirán los lineamientos siguientes:
+
 I. Las autoridades municipales elaborarán con la periodicidad del caso, su catálogo de necesidades locales y regionales sobre educación, integrando, a través del Consejo Municipal, sus propuestas ante las instancias superiores de decisión. Los órganos locales presentarán proyectos educativos especiales.
 Los proyectos para la atención a grupos marginados, mediante brigadas móviles, escuelas de concentración, internados y albergues regionales, o cualesquiera otras modalidades de atención educativa formal y no formal serán acordes a las circunstancias temporales y a las propias de su entorno, y responderán a criterios de regionalización del medio rural, sus particularidades étnico demográficas y condiciones ambientales, como sociales.
 De igual manera, se instrumentarán programas extracurriculares para dar especial impulso a la educación cívica, la cultura de la legalidad y el combate efectivo de la ilegalidad y la delincuencia organizada en el medio rural.
+
 II. Los programas de alimentación, nutrición y desayunos escolares que aplique el Ejecutivo Federal tendrán como prioridad atender a la población más necesitada, al mismo tiempo que organicen a los propios beneficiarios para la producción, preparación y distribución de dichos servicios.
 Los Consejos Municipales, participarán en la detección de necesidades de profilaxis en salud, de brigadas móviles para la atención sistemática de endemisas y acciones eventuales contra epidemias, integrando el paquete de la región; estableciendo prioridades de clínicas rurales regionales, para su inclusión en el Programa Especial Concurrente.
+
 III. El Ejecutivo Federal creará el Fondo Nacional de Vivienda Rural para fomentar y financiar acciones para reducir el déficit habitacional en el campo.
 Para ello, se asignará a este Fondo la función de financiar la construcción, ampliación y mejoramiento de viviendas en zonas rurales; asimismo su equipamiento y la construcción de servicios públicos, privilegiando el uso de materiales regionales y tecnologías apropiadas, el desarrollo de programas que generen empleo y se complemente con la actividad agropecuaria.
 Especial atención deberá darse por el Ejecutivo Federal al apoyo de las inmobiliarias ejidales y la creación de reservas territoriales de ciudades medias y zonas metropolitanas.
+
 IV. Para la atención de grupos vulnerables vinculados al sector agropecuario, específicamente etnias, jóvenes, mujeres, jornaleros y discapacitados, con o sin tierra, se formularán e instrumentarán programas enfocados a su propia problemática y posibilidades de superación, mediante actividades económicas conjuntando los instrumentos de impulso a la productividad con los de carácter asistencial y con la provisión de infraestructura básica a cargo de las dependencias competentes, así como con programas de empleo temporal que atiendan la estacionalidad de los ingresos de las familias campesinas.
+
 V. Sin menoscabo de la libertad individual, los Consejos de Desarrollo Rural Sustentable según sus respectivas competencias, coadyuvarán a las acciones de fomento a políticas de población en el medio rural, que instrumenten las autoridades de salud y educativas.
 Estará dentro de su esfera de responsabilidad, vigilar y confirmar que los programas de planeación familiar que se realicen en su demarcación territorial y administrativa, se lleven a cabo con absoluto respeto a la dignidad de las familias y se orienten a una regulación racional del crecimiento de la población y a la promoción de patrones de asentamiento que faciliten la prestación de servicios de calidad, a fin de conseguir un mejor aprovechamiento de los recursos del país y elevar las condiciones de vida de la población.
+
 VI. Las comunidades rurales en general, y especialmente aquellas cuya ubicación presente el catálogo de eventualidades ubicado en el rango de alto riesgo, deberán tener representación y participación directa en las Unidades Municipales de Protección Civil para dar impulso a los programas de protección civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
 
 ### Artículo 155
@@ -979,17 +1398,30 @@ El Programa Especial Concurrente en el marco de las disposiciones del artículo 
 
 ### Artículo 161
 .- Los programas que formule el Gobierno Federal para la promoción de las zonas de atención prioritaria, dispondrán acciones e instrumentos orientados, entre otros, a los siguientes propósitos:
+
 I. Impulsar la productividad mediante el acceso a activos, tales como insumos, equipos, implementos y especies pecuarias;
+
 II. Otorgar apoyos que incrementen el patrimonio productivo de las familias que permitan aumentar la eficiencia del trabajo humano;
+
 III. Aumentar el acceso a tecnologías productivas apropiadas a las condiciones agroecológicas y socioeconómicas de las unidades, a través del apoyo a la transferencia y adaptación tecnológica;
+
 IV. Contribuir al aumento de la productividad de los recursos disponibles en especial del capital social y humano, mediante la capacitación, incluyendo la laboral no agropecuaria, el extensionismo, en particular la necesaria para el manejo integral y sostenible de las unidades productivas y la asistencia técnica integral;
+
 V. Mejorar la dieta y la economía familiar, mediante apoyos para el incremento y diversificación de la producción de traspatio y autoconsumo;
+
 VI. Apoyar el establecimiento y desarrollo de empresas rurales para integrar procesos de industrialización, que permitan dar valor agregado a los productos;
+
 VII. Mejorar la articulación de la cadena producción-consumo y diversificar las fuentes de ingreso;
+
 VIII. Promover la diversificación económica con actividades y oportunidades no agropecuarias de carácter manufacturero y de servicios;
+
 IX. El fortalecimiento de las instituciones sociales rurales, fundamentalmente aquellas fincadas en la cooperación y la asociación con fines productivos;
+
 X. El acceso ágil y oportuno a los mercados financieros, de insumos, productos, laboral y de servicios;
-XI. Promover el aprovechamiento sustentable de los recursos naturales de uso colectivo; y XII. La producción y desarrollo de mercados para productos no tradicionales.
+
+XI. Promover el aprovechamiento sustentable de los recursos naturales de uso colectivo; y
+
+XII. La producción y desarrollo de mercados para productos no tradicionales.
 
 ### Artículo 162
 .- Para la atención de grupos vulnerables vinculados al sector rural, específicamente etnias, jóvenes, mujeres, jornaleros, adultos mayores y discapacitados, con o sin tierra, se formularán e instrumentarán programas enfocados a su propia problemática y posibilidades de superación, conjuntando los instrumentos de impulso a la productividad con los de carácter asistencial y con la provisión de infraestructura básica, así como con programas de empleo temporal que atiendan la estacionalidad de los ingresos de las familias campesinas, en los términos del Programa Especial Concurrente.
@@ -1060,16 +1492,28 @@ De la Seguridad y Soberanía Alimentaria
 
 ### Artículo 179
 .- Se considerarán productos básicos y estratégicos, con las salvedades, adiciones y modalidades que determine año con año o de manera extraordinaria, la Comisión Intersecretarial, con la participación del Consejo Mexicano y los Comités de los Sistemas-Producto correspondientes, los siguientes:
+
 I. maíz;
+
 II. caña de azúcar;
+
 III. frijol;
+
 IV. trigo;
+
 V. arroz;
+
 VI. sorgo;
+
 VII. café;
+
 VIII. huevo;
+
 IX. leche;
-X. carne de bovinos, porcinos, aves; y XI. pescado.
+
+X. carne de bovinos, porcinos, aves; y
+
+XI. pescado.
 
 ### Artículo 180
 .- El Gobierno Federal, de acuerdo con lo establecido en el artículo 110 de esta Ley, deberá conducir su política agropecuaria a fin de que los programas y acciones para el fomento productivo y el desarrollo rural sustentable, así como los acuerdos y tratados internacionales propicien la inocuidad, seguridad y soberanía alimentaria, mediante la producción y abasto de los productos señalados en el artículo anterior.
@@ -1083,13 +1527,22 @@ Artículo reformado DOF 03-06-2021
 
 ### Artículo 183
 .- Para cumplir con los requerimientos de la seguridad y soberanía alimentaria, el Gobierno Federal impulsará en las zonas productoras líneas de acción en los siguientes aspectos:
+
 I. La identificación de la demanda interna de consumo de productos básicos y estratégicos, y a partir de ello conducir los programas del sector para cubrir la demanda y determinar los posibles excedentes para exportación, así como las necesidades de importación;
+
 II. La identificación de los factores de riesgo asociados con los alimentos, para la elaboración de diagnósticos que permitan establecer acciones en campo o comerciales para asegurar el abasto;
+
 III. La definición de acciones de capacitación y asistencia técnica, y el impulso a proyectos de investigación en las cadenas alimentarias;
+
 IV. El impulso de acciones para mejorar y certificar la calidad de los alimentos y desarrollar su promoción comercial;
+
 V. El establecimiento de compromisos de productividad y calidad por parte de los productores, dependiendo del tipo de productos de que se trate, sean los de la dieta básica o los destinados para el mercado internacional;
+
 VI. La elaboración y difusión de guías sobre prácticas sustentables en las diferentes etapas de las cadenas agroalimentarias;
-VII. La instrumentación de programas y acciones de protección del medio ambiente para la evaluación de los costos ambientales derivados de las actividades productivas del sector; y VIII. La aplicación de medidas de certidumbre económica, financiera y comercial que garanticen el cumplimiento de los programas productivos agroalimentarios referidos en el artículo 180.
+
+VII. La instrumentación de programas y acciones de protección del medio ambiente para la evaluación de los costos ambientales derivados de las actividades productivas del sector; y
+
+VIII. La aplicación de medidas de certidumbre económica, financiera y comercial que garanticen el cumplimiento de los programas productivos agroalimentarios referidos en el artículo 180.
 
 ## CAPÍTULO XVIII
 Del Servicio Nacional de Arbitraje de los Productos Ofertados por la Sociedad Rural
@@ -1099,11 +1552,18 @@ Del Servicio Nacional de Arbitraje de los Productos Ofertados por la Sociedad Ru
 
 ### Artículo 185
 .- El Servicio Nacional de Arbitraje del Sector Rural operará con la normatividad que formule el Gobierno Federal con la participación de las organizaciones y agentes económicos y el apoyo en la dictaminación, de las instituciones académicas competentes del país; y tendrá los siguientes propósitos:
+
 I. Promover entre productores de los sectores social y privado, un sistema arbitral voluntario de solución de controversias y reglas de comercio para productos procedentes del campo, en el mercado nacional e internacional y para los servicios técnicos y financieros y bienes de producción;
+
 II. Actuar como agente mediador, para transmitir e intercambiar propuestas entre dos o más partes y asesorar en la celebración o ajuste de cualquier contrato o convenio de naturaleza mercantil relacionada con el sector rural;
+
 III. Actuar como árbitro y mediador, a solicitud de las partes, en la solución de controversias derivadas de actos, contratos, convenios de naturaleza mercantil dentro del ámbito rural, así como las que resulten entre proveedores, exportadores, importadores y consumidores, de acuerdo con las leyes de la materia;
+
 IV. Asesorar jurídicamente a los participantes en los Sistema-Producto, en las actividades propias del comercio y resolver a solicitud de las partes las controversias que se susciten como resultado de las transacciones celebradas a lo largo de las cadenas productivas y de postcosecha;
-V. Promover la creación de unidades de arbitraje para ser acreditadas conforme a la Ley Federal sobre Metrología y Normalización; y VI. Las demás que determinen sus reglas.
+
+V. Promover la creación de unidades de arbitraje para ser acreditadas conforme a la Ley Federal sobre Metrología y Normalización; y
+
+VI. Las demás que determinen sus reglas.
 
 ### Artículo 186
 .- La Comisión Intersecretarial apoyará al Servicio Nacional de Arbitraje del Sector Rural para que su cobertura alcance a las regiones con mayores necesidades del servicio y otorgará la aprobación de las unidades de arbitraje en los términos del marco normativo del servicio y de conformidad con la Ley Federal sobre Metrología y Normalización. Igualmente, podrán establecerse juntas permanentes de arbitraje para Sistemas-Producto en particular, siempre que los gastos que ello origine sean aportados por los intervinientes en la cadena productiva.
@@ -1128,22 +1588,39 @@ Los diversos programas e instrumentos que se requieran para cumplir con los line
 
 ### Artículo 190
 .- Para los efectos del artículo anterior, y de acuerdo a lo dispuesto por los artículos 24 y 25 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las previsiones presupuestales podrán comprender los siguientes rubros:
-Párrafo reformado DOF 26-05-2011 I. Apoyos para la adquisición de activos privados para la inversión e insumos en las unidades de los propios productores y pagos por empleo temporal aplicados al mejoramiento de sus activos; apoyos para el desarrollo forestal y de plantaciones; y, apoyos directos al campo, en los términos que definan los programas y de acuerdo a lo establecido en esta Ley;
+Párrafo reformado DOF 26-05-2011
+
+I. Apoyos para la adquisición de activos privados para la inversión e insumos en las unidades de los propios productores y pagos por empleo temporal aplicados al mejoramiento de sus activos; apoyos para el desarrollo forestal y de plantaciones; y, apoyos directos al campo, en los términos que definan los programas y de acuerdo a lo establecido en esta Ley;
+
 II. Apoyos a la comercialización y al financiamiento para cosechas elegibles con problemas de comercialización, a la cobertura de riesgos; para el otorgamiento de crédito por la banca de desarrollo y demás fondos; para el seguro agrícola; y fondos de apoyo a empresas sociales y fondos regionales gubernamentales y no gubernamentales para el combate a la pobreza;
+
 III. Provisión de activos públicos productivos, incluyendo infraestructura básica e hidroagrícola, electrificación y caminos rurales; reforestación; conservación de suelos; rehabilitación de cuencas; así como para la investigación y transferencia de tecnología, programas de asistencia técnica y de sanidad agropecuaria;
-IV. Apoyos a productores en zonas áridas, zonas de marginación y de reconversión, así como a los afectados por contingencias climatológicas; y V. Los estímulos económicos que se otorguen a los productores rurales que desarrollen sus actividades con tecnología de conservación y preservación de los recursos naturales.
+
+IV. Apoyos a productores en zonas áridas, zonas de marginación y de reconversión, así como a los afectados por contingencias climatológicas; y
+
+V. Los estímulos económicos que se otorguen a los productores rurales que desarrollen sus actividades con tecnología de conservación y preservación de los recursos naturales.
 
 ### Artículo 191
 .- Los apoyos que se otorguen a los productores en cumplimiento a lo dispuesto por este ordenamiento, impulsarán la productividad y el desarrollo de actividades agropecuarias y la creación y consolidación de empresas rurales, a fin de fortalecer el ingreso de los productores, la generación de empleos y la competitividad del sector.
 El otorgamiento de apoyo a los productores observará los siguientes criterios:
+
 I. La certidumbre de su temporalidad sujeta a las reglas de operación que se determinen para los diferentes programas e instrumentos por parte de las dependencias del Gobierno Federal;
+
 II. Su contribución a compensar los desequilibrios regionales e internacionales, derivados de la relaciones asimétricas en las estructuras productivas o de los mercados cuando la producción nacional sea afectada por la competencia desigual derivada de los acuerdos comerciales con el exterior o por políticas internas;
+
 III. Precisión en cuanto a su naturaleza generalizada o diferenciada por tipo de productor, ubicación geográfica y nivel socioeconómico del beneficiario;
 Para efecto de lo anterior, en las Reglas de Operación de los programas de SAGARPA que integran el Programa Especial Concurrente destinados a la producción de alimentos, se establecerán los apoyos que se asignarán para impulsar preferentemente a los pequeños productores, con el objeto de fomentar el equilibrio entre las regiones y la competitividad del sector;
-Párrafo adicionado DOF 22-12-2017 IV. Atención preferente a la demanda, considerando la inducción necesaria para impulsar el cambio propuesto en el marco de la planeación nacional del desarrollo;
+Párrafo adicionado DOF 22-12-2017
+
+IV. Atención preferente a la demanda, considerando la inducción necesaria para impulsar el cambio propuesto en el marco de la planeación nacional del desarrollo;
+
 V. La concurrencia de recursos federales, estatales y municipales y de los propios beneficiarios, a fin de asegurar la corresponsabilidad entre el Estado y la sociedad y multiplicar el efecto del gasto público;
+
 VI. Transparencia; mediante la difusión de las reglas para su acceso y la publicación de los montos y tipo de apoyo por beneficiario;
-VII. Evaluación y factibilidad en función de su impacto económico y social, la eficiencia en su administración y la pertinencia de las reglas para su otorgamiento; y VIII. Responsabilidad de los productores y de las instituciones respecto a la utilización de los apoyos, conforme al destino de los mismos y a las reglas para su otorgamiento.
+
+VII. Evaluación y factibilidad en función de su impacto económico y social, la eficiencia en su administración y la pertinencia de las reglas para su otorgamiento; y
+
+VIII. Responsabilidad de los productores y de las instituciones respecto a la utilización de los apoyos, conforme al destino de los mismos y a las reglas para su otorgamiento.
 
 ## TRANSITORIOS
 

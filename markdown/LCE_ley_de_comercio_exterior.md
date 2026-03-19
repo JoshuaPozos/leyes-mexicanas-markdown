@@ -20,37 +20,73 @@ Artículo reformado DOF 24-01-2006
 
 ### Artículo 3o
 .- Para efectos de esta Ley, se entenderá por:
+
 I. Secretaría, la Secretaría de Economía;
-Fracción reformada DOF 24-01-2006 II. Comisión, la Comisión de Comercio Exterior;
-Fracción reformada DOF 24-01-2006 III. Cuotas compensatorias, aquellas que se aplican a las mercancías importadas en condiciones de discriminación de precios o de subvención en su país de origen, conforme a lo establecido en la presente Ley;
-Fracción reformada DOF 24-01-2006 IV. Reglas, las de carácter general que emita la Secretaría, sobre regulaciones y restricciones no arancelarias y programas e instrumentos de comercio exterior, y Fracción adicionada DOF 24-01-2006 V. Reglamento, el Reglamento de esta Ley.
+Fracción reformada DOF 24-01-2006
+
+II. Comisión, la Comisión de Comercio Exterior;
+Fracción reformada DOF 24-01-2006
+
+III. Cuotas compensatorias, aquellas que se aplican a las mercancías importadas en condiciones de discriminación de precios o de subvención en su país de origen, conforme a lo establecido en la presente Ley;
+Fracción reformada DOF 24-01-2006
+
+IV. Reglas, las de carácter general que emita la Secretaría, sobre regulaciones y restricciones no arancelarias y programas e instrumentos de comercio exterior, y Fracción adicionada DOF 24-01-2006
+
+V. Reglamento, el Reglamento de esta Ley.
 Fracción adicionada DOF 24-01-2006 Cuando esta Ley se refiera a plazos en días se entenderán días hábiles y cuando se refiera a meses o años se entenderán meses o años calendario.
 TITULO SEGUNDO Facultades del Ejecutivo Federal, de la Secretaría de Economía y de las Comisiones Auxiliares Denominación del Título reformada DOF 24-01-2006 CAPITULO I Facultades del Ejecutivo Federal
 
 ### Artículo 4o
 .- El Ejecutivo Federal tendrá las siguientes facultades:
+
 I. Crear, aumentar, disminuir o suprimir aranceles, mediante decretos publicados en el Diario Oficial de la Federación, de conformidad con lo establecido en el artículo 131 de la Constitución Política de los Estados Unidos Mexicanos;
+
 II. Regular, restringir o prohibir la exportación, importación, circulación o tránsito de mercancías, cuando lo estime urgente, mediante decretos publicados en el Diario Oficial de la Federación, de conformidad con el artículo 131 de la Constitución Política de los Estados Unidos Mexicanos;
+
 III. Establecer medidas para regular o restringir la exportación o importación de mercancías a través de acuerdos expedidos por la Secretaría o, en su caso, conjuntamente con la autoridad competente, y publicados en el Diario Oficial de la Federación;
+
 IV. Establecer medidas para regular o restringir la circulación o tránsito de mercancías extranjeras por el territorio nacional procedentes del y destinadas al exterior a través de acuerdos expedidos por la autoridad competente y publicados en el Diario Oficial de la Federación;
+
 V. Conducir negociaciones comerciales internacionales a través de la Secretaría, sin perjuicio de las facultades que correspondan a otras dependencias del Ejecutivo Federal;
-Fracción reformada DOF 24-01-2006 VI. Coordinar, a través de la Secretaría, la participación de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de los estados en las actividades de promoción del comercio exterior, así como concertar acciones en la materia con el sector privado, y Fracción reformada DOF 24-01-2006 VII. Coordinar, a través de la Secretaría, que las dependencias y entidades de la Administración Pública Federal que administren o controlen una restricción o regulación no arancelaria se encuentren interconectadas electrónicamente con la Secretaría y con la Secretaría de Hacienda y Crédito Público.
+Fracción reformada DOF 24-01-2006
+
+VI. Coordinar, a través de la Secretaría, la participación de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de los estados en las actividades de promoción del comercio exterior, así como concertar acciones en la materia con el sector privado, y Fracción reformada DOF 24-01-2006
+
+VII. Coordinar, a través de la Secretaría, que las dependencias y entidades de la Administración Pública Federal que administren o controlen una restricción o regulación no arancelaria se encuentren interconectadas electrónicamente con la Secretaría y con la Secretaría de Hacienda y Crédito Público.
 Fracción adicionada DOF 24-01-2006 CAPITULO II Facultades de la Secretaría de Economía Denominación del Capítulo reformada DOF 24-01-2006
 
 ### Artículo 5o
 .- Son facultades de la Secretaría:
+
 I. Estudiar, proyectar y proponer al Ejecutivo Federal modificaciones arancelarias;
+
 II. Tramitar y resolver las investigaciones en materia de medidas de salvaguarda, así como imponer las medidas que resulten de dichas investigaciones;
-Fracción reformada DOF 24-01-2006 III. Estudiar, proyectar, establecer y modificar medidas de regulación y restricción no arancelarias a la exportación, importación, circulación y tránsito de mercancías;
+Fracción reformada DOF 24-01-2006
+
+III. Estudiar, proyectar, establecer y modificar medidas de regulación y restricción no arancelarias a la exportación, importación, circulación y tránsito de mercancías;
+
 IV. Establecer las reglas de origen;
+
 V. Otorgar permisos previos y asignar cupos de exportación e importación;
+
 VI. Establecer los requisitos de marcado de país de origen;
+
 VII. Tramitar y resolver las investigaciones en materia de prácticas desleales de comercio internacional, así como determinar las cuotas compensatorias que resulten de dichas investigaciones;
+
 VIII. Asesorar a los exportadores mexicanos involucrados en investigaciones en el extranjero en materia de prácticas desleales de comercio internacional y medidas de salvaguarda o en cualquier otro procedimiento del que pueda resultar una restricción a la importación en otros países;
-Fracción reformada DOF 24-01-2006 IX. Coordinar las negociaciones comerciales internacionales con las dependencias competentes y, cuando así lo solicite la Secretaría, con los sectores productivos;
-Fracción reformada DOF 24-01-2006 X. Expedir las disposiciones de carácter administrativo en cumplimiento de los tratados o convenios internacionales en materia comercial de los que México sea parte;
+Fracción reformada DOF 24-01-2006
+
+IX. Coordinar las negociaciones comerciales internacionales con las dependencias competentes y, cuando así lo solicite la Secretaría, con los sectores productivos;
+Fracción reformada DOF 24-01-2006
+
+X. Expedir las disposiciones de carácter administrativo en cumplimiento de los tratados o convenios internacionales en materia comercial de los que México sea parte;
+
 XI. Establecer los programas y mecanismos de promoción y fomento de las exportaciones, así como las disposiciones que los rijan, escuchando a los sectores productivos e instituciones promotoras del sector público y privado;
-Fracción reformada DOF 24-01-2006 XII. Emitir reglas que establezcan disposiciones de carácter general en el ámbito de su competencia, así como los criterios necesarios para el cumplimiento de las leyes, acuerdos o tratados comerciales y Fracción adicionada DOF 24-01-2006 XIII. Las demás que le encomienden expresamente las leyes y los reglamentos.
+Fracción reformada DOF 24-01-2006
+
+XII. Emitir reglas que establezcan disposiciones de carácter general en el ámbito de su competencia, así como los criterios necesarios para el cumplimiento de las leyes, acuerdos o tratados comerciales y Fracción adicionada DOF 24-01-2006
+
+XIII. Las demás que le encomienden expresamente las leyes y los reglamentos.
 Fracción reformada DOF 24-01-2006 (se recorre) CAPITULO III Comisiones auxiliares
 
 ### Artículo 6o
@@ -74,8 +110,12 @@ El origen de las mercancías se determinará conforme a las reglas que establezc
 
 ### Artículo 10
 .- Las reglas de origen deberán someterse previamente a la opinión de la Comisión y publicarse en el Diario Oficial de la Federación. Estas reglas se establecerán bajo cualquiera de los siguientes criterios:
+
 I. Cambio de clasificación arancelaria. En este caso se especificarán las subpartidas o partidas de la nomenclatura arancelaria del sistema armonizado a que se refiera la regla;
-II. Contenido nacional o regional. En este caso se indicará el método de cálculo y el porcentaje correspondiente, y III. De producción, fabricación o elaboración. En este caso se especificará con precisión la operación o proceso productivo que confiera origen a la mercancía.
+
+II. Contenido nacional o regional. En este caso se indicará el método de cálculo y el porcentaje correspondiente, y
+
+III. De producción, fabricación o elaboración. En este caso se especificará con precisión la operación o proceso productivo que confiera origen a la mercancía.
 La Secretaría podrá utilizar criterios adicionales cuando no se pueda cumplir con los anteriores, mismos que deberán especificarse en la regla de origen respectiva.
 
 ### Artículo 11
@@ -84,13 +124,21 @@ TITULO IV ARANCELES Y MEDIDAS DE REGULACION Y RESTRICCION NO ARANCELARIAS DEL CO
 
 ### Artículo 12
 .- Para efectos de esta Ley, los aranceles son las cuotas de las tarifas de los impuestos generales de exportación e importación, los cuales podrán ser:
+
 I. Ad-valorem, cuando se expresen en términos porcentuales del valor en aduana de la mercancía.
-II. Específicos, cuando se expresen en términos monetarios por unidad de medida, y III. Mixtos, cuando se trate de la combinación de los dos anteriores.
+
+II. Específicos, cuando se expresen en términos monetarios por unidad de medida, y
+
+III. Mixtos, cuando se trate de la combinación de los dos anteriores.
 
 ### Artículo 13
 .- Los aranceles a que se refiere el artículo anterior podrán adoptar las siguientes modalidades:
+
 I. Arancel-cupo, cuando se establezca un nivel arancelario para cierta cantidad o valor de mercancías exportadas o importadas, y una tasa diferente a las exportaciones o importaciones de esas mercancías que excedan dicho monto;
-II. Arancel estacional, cuando se establezcan niveles arancelarios distintos para diferentes períodos del año, y III. Las demás que señale el Ejecutivo Federal.
+
+II. Arancel estacional, cuando se establezcan niveles arancelarios distintos para diferentes períodos del año, y
+
+III. Las demás que señale el Ejecutivo Federal.
 
 ### Artículo 14
 .- Podrán establecerse aranceles diferentes a los generales previstos en las tarifas de los impuestos generales de exportación e importación cuando así lo establezcan tratados o convenios comerciales internacionales de los que México sea parte.
@@ -98,19 +146,33 @@ CAPITULO II Medidas de regulación y restricción no arancelarias Sección prime
 
 ### Artículo 15
 .- Las medidas de regulación y restricción no arancelarias a la exportación de mercancías, a que se refiere la fracción III del artículo 4o. de esta Ley, se podrán establecer en los siguientes casos:
+
 I. Para asegurar el abasto de productos destinados al consumo básico de la población y el abastecimiento de materias primas a los productores nacionales o para regular o controlar recursos naturales no renovables del país, de conformidad a las necesidades del mercado interno y las condiciones del mercado internacional;
+
 II. Conforme a lo dispuesto en tratados o convenios internacionales de los que México sea parte.
+
 III. Cuando se trate de productos cuya comercialización esté sujeta, por disposición constitucional, a restricciones específicas;
+
 IV. Cuando se trate de preservar la fauna y la flora en riesgo o peligro de extinción o de asegurar la conservación o aprovechamiento de especies;
-V. Cuando se requiera conservar los bienes de valor histórico, artístico o arqueológico, y VI. Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, de acuerdo a la legislación en la materia.
+
+V. Cuando se requiera conservar los bienes de valor histórico, artístico o arqueológico, y
+
+VI. Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, de acuerdo a la legislación en la materia.
 
 ### Artículo 16
 .- Las medidas de regulación y restricción no arancelarias a la importación, circulación o tránsito de mercancías, a que se refieren las fracciones III y IV del artículo 4o., se podrán establecer en los siguientes casos:
+
 I. Cuando se requieran de modo temporal para corregir desequilibrios en la balanza de pagos, de acuerdo a los tratados o convenios internacionales de los que México sea parte;
+
 II. Para regular la entrada de productos usados, de desecho o que carezcan de mercado sustancial en su país de origen o procedencia;
+
 III. Conforme a lo dispuesto en tratados o convenios internacionales de los que México sea parte;
+
 IV. Como respuesta a las restricciones a exportaciones mexicanas aplicadas unilateralmente por otros países;
-V. Cuando sea necesario impedir la concurrencia al mercado interno de mercancías en condiciones que impliquen prácticas desleales de comercio internacional, conforme a lo dispuesto en esta Ley, y VI. Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, de acuerdo a la legislación en la materia.
+
+V. Cuando sea necesario impedir la concurrencia al mercado interno de mercancías en condiciones que impliquen prácticas desleales de comercio internacional, conforme a lo dispuesto en esta Ley, y
+
+VI. Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, de acuerdo a la legislación en la materia.
 
 ### Artículo 17
 .- El establecimiento de las medidas de regulación y restricción no arancelarias a la exportación, importación, circulación o tránsito de mercancías, a que se refieren las fracciones III y IV del
@@ -134,9 +196,14 @@ Este análisis podrá tomar en cuenta, entre otros, el impacto sobre los siguien
 
 ### artículo 15
 y VI del artículo 16 sin someterlas a la opinión de la Comisión, siempre que:
+
 I. Se trate de una situación de emergencia susceptible de producir un daño difícilmente reparable de seguirse el procedimiento señalado en el artículo 17;
+
 II. Se notifique a la Comisión;
-III. Se publique en el Diario Oficial de la Federación, en los casos que proceda, mediante acuerdo del titular de la dependencia respectiva, y IV. Se limite la vigencia de la medida a un período máximo de 20 días a partir del primer acto de aplicación de la medida, dentro del cual dicha medida y, en su caso, la expedición de la norma oficial mexicana de emergencia, en los términos de la legislación en la materia, deberán someterse al procedimiento establecido en el artículo 17.
+
+III. Se publique en el Diario Oficial de la Federación, en los casos que proceda, mediante acuerdo del titular de la dependencia respectiva, y
+
+IV. Se limite la vigencia de la medida a un período máximo de 20 días a partir del primer acto de aplicación de la medida, dentro del cual dicha medida y, en su caso, la expedición de la norma oficial mexicana de emergencia, en los términos de la legislación en la materia, deberán someterse al procedimiento establecido en el artículo 17.
 
 ### Artículo 20
 .- En todo caso, las mercancías sujetas a restricciones o regulaciones no arancelarias se identificarán en términos de sus fracciones arancelarias y nomenclatura que les corresponda conforme a la tarifa respectiva.
@@ -147,14 +214,23 @@ Artículo adicionado DOF 24-01-2006 Sección segunda Permisos previos, cupos y m
 
 ### Artículo 21
 .- Corresponde a la Secretaría sujetar la exportación e importación de mercancías a permisos previos y expedirlos conforme a lo siguiente:
+
 I. La sujeción a permisos previos deberá someterse a la opinión de la Comisión;
+
 II. El formato de las solicitudes, así como los requerimientos de información y los procedimientos de trámite se deberán publicar en el Diario Oficial de la Federación;
+
 III. La expedición se resolverá en un plazo máximo de 15 días;
-IV. En los permisos se indicarán las modalidades, condiciones y vigencia a que se sujeten, así como el valor y la cantidad o volumen de la mercancía a exportar o importar y los demás datos o requisitos que sean necesarios, y V. Los demás procedimientos establecidos en el Reglamento.
+
+IV. En los permisos se indicarán las modalidades, condiciones y vigencia a que se sujeten, así como el valor y la cantidad o volumen de la mercancía a exportar o importar y los demás datos o requisitos que sean necesarios, y
+
+V. Los demás procedimientos establecidos en el Reglamento.
 
 ### Artículo 22
 .- No se utilizarán permisos previos para restringir:
-I. La importación de mercancías en el caso previsto en la fracción V del artículo 16 de esta Ley, o II. La exportación, importación, circulación o tránsito de mercancías con el fin de cumplir con las disposiciones en materia de normas oficiales mexicanas.
+
+I. La importación de mercancías en el caso previsto en la fracción V del artículo 16 de esta Ley, o
+
+II. La exportación, importación, circulación o tránsito de mercancías con el fin de cumplir con las disposiciones en materia de normas oficiales mexicanas.
 
 ### Artículo 23
 .- Se entiende por cupo de exportación o importación el monto de una mercancía que podrá ser exportado o importado, ya sea máximo o dentro de un arancel-cupo. La administración de los cupos se podrá hacer por medio de permisos previos.
@@ -194,7 +270,11 @@ Artículo reformado DOF 13-03-2003 CAPITULO II Discriminación de precios
 ### Artículo 31
 .- El valor normal de las mercancías exportadas a México es el precio comparable de una mercancía idéntica o similar que se destine al mercado interno del país de origen en el curso de operaciones comerciales normales.
 Sin embargo, cuando no se realicen ventas de una mercancía idéntica o similar en el país de origen, o cuando tales ventas no permitan una comparación válida, se considerará como valor normal:
-Párrafo reformado DOF 13-03-2003 I. El precio comparable de una mercancía idéntica o similar exportada del país de origen a un tercer país en el curso de operaciones comerciales normales. Este precio deberá ser el más alto, siempre que sea un precio representativo, o Fracción reformada DOF 13-03-2003 II. El valor reconstruido en el país de origen que se obtendrá de la suma del costo de producción, gastos generales y una utilidad razonable, los cuales deberán corresponder a operaciones comerciales normales en el país de origen.
+Párrafo reformado DOF 13-03-2003
+
+I. El precio comparable de una mercancía idéntica o similar exportada del país de origen a un tercer país en el curso de operaciones comerciales normales. Este precio deberá ser el más alto, siempre que sea un precio representativo, o Fracción reformada DOF 13-03-2003
+
+II. El valor reconstruido en el país de origen que se obtendrá de la suma del costo de producción, gastos generales y una utilidad razonable, los cuales deberán corresponder a operaciones comerciales normales en el país de origen.
 
 ### Artículo 32
 .- Se entiende por operaciones comerciales normales las operaciones comerciales que reflejen condiciones de mercado en el país de origen y que se hayan realizado habitualmente, o dentro de un período representativo, entre compradores y vendedores independientes.
@@ -220,7 +300,9 @@ Artículo reformado DOF 13-03-2003 CAPITULO III Subvenciones
 
 ### Artículo 37
 .- Para los efectos de esta Ley, se entiende por subvención:
+
 I. La contribución financiera que otorgue un gobierno extranjero, sus organismos públicos o mixtos, sus entidades, o cualquier organismo regional, público o mixto constituido por varios países, directa o indirectamente, a una empresa o rama de producción o a un grupo de empresas o ramas de producción y que con ello se otorgue un beneficio;
+
 II. Alguna forma de sostenimiento de los ingresos o de los precios y que con ello se otorgue un beneficio.
 Se consideran subvenciones, a título de ejemplo, las referidas en el anexo I del Acuerdo sobre Subvenciones y Medidas Compensatorias.
 Artículo reformado DOF 13-03-2003
@@ -231,8 +313,12 @@ CAPITULO IV DAÑO A UNA RAMA DE PRODUCCION NACIONAL Denominación del Capítulo 
 
 ### Artículo 39
 .- Para los efectos de esta Ley se entenderá por daño, salvo el concepto de daño grave para medidas de salvaguarda:
+
 I. Un daño material causado a una rama de producción nacional;
-II. Una amenaza de daño a una rama de producción nacional; o III. Un retraso en la creación de una rama de producción nacional.
+
+II. Una amenaza de daño a una rama de producción nacional; o
+
+III. Un retraso en la creación de una rama de producción nacional.
 En la investigación administrativa se deberá probar que las importaciones en condiciones de discriminación de precios o de subvenciones, causan daño a la rama de producción nacional, en los términos de esta Ley.
 La Secretaría considerará otros factores de que tenga conocimiento, distintos a las importaciones en condiciones de discriminación de precios o de subvenciones, los cuales pudieran afectar a la rama de producción nacional. El efecto causado por dichos factores no se atribuirá a las importaciones en condiciones de discriminación de precios o de subvenciones.
 Artículo reformado DOF 13-03-2003
@@ -245,19 +331,31 @@ Artículo reformado DOF 13-03-2003
 
 ### Artículo 41
 .- La determinación de la existencia de daño material a la rama de producción nacional, la hará la Secretaría tomando en cuenta:
+
 I. El volumen de importación de las mercancías objeto de discriminación de precios o de subvenciones. Al respecto considerará si ha habido un aumento significativo de las mismas, en términos absolutos o en relación con la producción o el consumo interno del país;
+
 II. El efecto que sobre los precios de mercancías idénticas o similares en el mercado interno causa o pueda causar la importación de las mercancías objeto de discriminación de precios o de subvenciones.
 Para ello, la Secretaría deberá considerar si la mercancía importada se vende en el mercado interno a un precio significativamente inferior al de las mercancías idénticas o similares, o bien, si el efecto de tales importaciones es hacer bajar, de otro modo, los precios en medida significativa o impedir en la misma medida la subida que en otro caso se hubiera producido;
-III. El efecto causado o que puedan causar tales importaciones sobre la rama de la producción nacional de que se trate, considerando los factores e índices económicos pertinentes que influyan en el estado de esa rama de producción nacional, tales como la disminución real o potencial de las ventas, los beneficios, el volumen de producción, la participación en el mercado, la productividad, el rendimiento de las inversiones o la utilización de la capacidad instalada; los factores que repercuten en los precios internos; en su caso, la magnitud del margen de discriminación de precios; los efectos negativos reales o potenciales en el flujo de caja, las existencias, el empleo, los salarios, el crecimiento, la capacidad de reunir capital o la inversión. Esta enumeración no es exhaustiva y ninguno de estos factores aisladamente bastarán necesariamente para obtener una orientación decisiva; y IV. Los demás elementos que considere conveniente la Secretaría, o en su caso proporcione la producción nacional.
+
+III. El efecto causado o que puedan causar tales importaciones sobre la rama de la producción nacional de que se trate, considerando los factores e índices económicos pertinentes que influyan en el estado de esa rama de producción nacional, tales como la disminución real o potencial de las ventas, los beneficios, el volumen de producción, la participación en el mercado, la productividad, el rendimiento de las inversiones o la utilización de la capacidad instalada; los factores que repercuten en los precios internos; en su caso, la magnitud del margen de discriminación de precios; los efectos negativos reales o potenciales en el flujo de caja, las existencias, el empleo, los salarios, el crecimiento, la capacidad de reunir capital o la inversión. Esta enumeración no es exhaustiva y ninguno de estos factores aisladamente bastarán necesariamente para obtener una orientación decisiva; y
+
+IV. Los demás elementos que considere conveniente la Secretaría, o en su caso proporcione la producción nacional.
 Artículo reformado DOF 13-03-2003
 
 ### Artículo 42
 .- La determinación de la existencia de una amenaza de daño a la rama de producción nacional, la hará la Secretaría tomando en cuenta, entre otros, los siguientes factores:
+
 I. Una tasa significativa de incremento de la importación de mercancías objeto de discriminación de precios o de subvenciones en el mercado nacional que indique la probabilidad de que se producirá un aumento sustancial de las mismas;
+
 II. Una suficiente capacidad libremente disponible del exportador o un aumento inminente y sustancial de la misma que indique la probabilidad de un aumento sustancial de las exportaciones objeto de discriminación de precios o de subvenciones al mercado mexicano, teniendo en cuenta la existencia de otros mercados de exportación que puedan absorber el posible aumento de dichas exportaciones;
+
 III. Si las importaciones se realizan a precios que tendrán el efecto de hacer bajar o contener el alza de los precios internos de manera significativa, y que probablemente harán aumentar la demanda de nuevas importaciones;
+
 IV. La existencia de la mercancía objeto de investigación;
-V. En su caso, la naturaleza de la subvención de que se trate y los efectos que es probable tenga en el comercio, y VI. Los demás elementos que considere conveniente la Secretaría, o en su caso, proporcione la producción nacional.
+
+V. En su caso, la naturaleza de la subvención de que se trate y los efectos que es probable tenga en el comercio, y
+
+VI. Los demás elementos que considere conveniente la Secretaría, o en su caso, proporcione la producción nacional.
 Ninguno de estos factores por sí solo bastará necesariamente para la determinación de una amenaza de daño, pero todos ellos juntos han de llevar a la conclusión de la inminencia de nuevas exportaciones objeto de discriminación de precios o de subvenciones y de que, de no aplicarse cuotas compensatorias, se produciría un daño en los términos de esta Ley.
 La determinación de la existencia de amenaza de daño se basará en hechos y no simplemente en alegatos, conjeturas o posibilidades remotas.
 Artículo reformado DOF 13-03-2003
@@ -268,7 +366,10 @@ Artículo reformado DOF 13-03-2003
 
 ### Artículo 44
 .- Para determinar la existencia de daño a una rama de producción nacional, el territorio nacional podrá dividirse en dos o más mercados competidores y los productores de cada mercado podrán ser considerados como una rama de producción distinta si:
-I. Los productores de ese mercado venden la totalidad o casi la totalidad de su producción de la mercancía de que se trate en ese mercado, y II. En ese mercado la demanda no está cubierta en grado sustancial por productores de la mercancía de que se trate situados en otro lugar del territorio.
+
+I. Los productores de ese mercado venden la totalidad o casi la totalidad de su producción de la mercancía de que se trate en ese mercado, y
+
+II. En ese mercado la demanda no está cubierta en grado sustancial por productores de la mercancía de que se trate situados en otro lugar del territorio.
 En dichas circunstancias, la Secretaría podrá considerar que existe daño, incluso cuando no resulte perjudicada una porción importante de la rama de producción nacional total, siempre que haya una concentración de importaciones objeto de discriminación de precios o de subvenciones en ese mercado aislado y que, además, tales importaciones causen daño a los productores de la totalidad o casi la totalidad de la rama de producción en ese mercado.
 Artículo reformado DOF 13-03-2003 TITULO VI MEDIDAS DE SALVAGUARDA CAPITULO UNICO
 
@@ -294,10 +395,20 @@ Artículo reformado DOF 13-03-2003
 
 ### Artículo 48
 .- Para determinar si el aumento de las importaciones ha causado o amenaza causar daño grave a una rama de producción nacional, la Secretaría recabará en lo posible toda la información relevante y evaluará todos los factores pertinentes de carácter objetivo y cuantificable que tengan relación con la situación de la rama de producción nacional de mercancías idénticas, similares o directamente competidoras. Esta información deberá incluir:
-Párrafo reformado DOF 13-03-2003 I. El ritmo y la cuantía del aumento de las importaciones del bien en cuestión en términos absolutos o relativos;
-Fracción reformada DOF 13-03-2003 II. La parte del mercado interno absorbida por las importaciones en aumento;
-Fracción reformada DOF 13-03-2003 III. Los cambios en los niveles de ventas, producción, productividad, utilización de la capacidad instalada, ganancias o pérdidas, empleo y precios, y Fracción reformada DOF 13-03-2003 IV. Derogado.
-Fracción derogada DOF 13-03-2003 V. Otros elementos que la Secretaría considere necesarios.
+Párrafo reformado DOF 13-03-2003
+
+I. El ritmo y la cuantía del aumento de las importaciones del bien en cuestión en términos absolutos o relativos;
+Fracción reformada DOF 13-03-2003
+
+II. La parte del mercado interno absorbida por las importaciones en aumento;
+Fracción reformada DOF 13-03-2003
+
+III. Los cambios en los niveles de ventas, producción, productividad, utilización de la capacidad instalada, ganancias o pérdidas, empleo y precios, y Fracción reformada DOF 13-03-2003
+
+IV. Derogado.
+Fracción derogada DOF 13-03-2003
+
+V. Otros elementos que la Secretaría considere necesarios.
 La determinación de amenaza de daño grave se basará en hechos y no simplemente en alegatos, conjeturas o posibilidades remotas.
 Párrafo adicionado DOF 13-03-2003 TITULO VII PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA Denominación del Título reformada DOF 13-03-2003 CAPITULO I DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS Denominación del Capítulo reformada DOF 13-03-2003
 
@@ -307,7 +418,11 @@ Párrafo reformado DOF 13-03-2003 En los procedimientos de investigación a que 
 
 ### Artículo 50
 .- La solicitud podrá ser presentada por organizaciones legalmente constituidas, personas físicas o morales productoras:
-Párrafo reformado DOF 13-03-2003 I. De mercancías idénticas o similares a aquéllas que se estén importando o pretendan importarse en condiciones de prácticas desleales de comercio internacional, o II. En el caso de medidas de salvaguarda, de mercancías idénticas, similares o directamente competidoras a aquellas que se estén importando en tal cantidad y en condiciones tales que causen daño grave o amenaza de daño grave a la rama de producción nacional.
+Párrafo reformado DOF 13-03-2003
+
+I. De mercancías idénticas o similares a aquéllas que se estén importando o pretendan importarse en condiciones de prácticas desleales de comercio internacional, o
+
+II. En el caso de medidas de salvaguarda, de mercancías idénticas, similares o directamente competidoras a aquellas que se estén importando en tal cantidad y en condiciones tales que causen daño grave o amenaza de daño grave a la rama de producción nacional.
 Fracción reformada DOF 13-03-2003 Los solicitantes deberán ser representativos de cuando menos el 25% de la producción total de la mercancía idéntica o similar, o directamente competidora, producida por la rama de producción nacional.
 Párrafo reformado DOF 13-03-2003 En la solicitud correspondiente se deberá manifestar por escrito ante la autoridad competente y bajo protesta de decir verdad los argumentos que fundamenten la necesidad de aplicar cuotas compensatorias o medidas de salvaguarda. En dicha solicitud se deberá cumplir con los requisitos establecidos en el reglamento. Los solicitantes tendrán la obligación de acompañar a su escrito los formularios que para tal efecto establezca la Secretaría.
 
@@ -318,7 +433,12 @@ Párrafo adicionado DOF 13-03-2003
 
 ### Artículo 52
 .- A partir de la presentación de la solicitud la Secretaría deberá:
-I. Dentro de un plazo de 25 días, aceptar la solicitud y declarar el inicio de la investigación a través de la resolución respectiva; o II. Dentro de un plazo de 17 días, requerir a la solicitante mayores elementos de prueba o datos, los que deberán proporcionarse dentro de un plazo de 20 días contados a partir de la recepción de la prevención. De aportarse satisfactoriamente lo requerido, la Secretaría procederá conforme a lo dispuesto en la fracción anterior. Si no se proporcionan en tiempo y forma los elementos y datos requeridos, se tendrá por abandonada la solicitud y se notificará personalmente al solicitante, o III. Dentro de un plazo de 20 días, desechar la solicitud cuando no se cumpla con los requisitos establecidos en la legislación aplicable, a través de la resolución respectiva.
+
+I. Dentro de un plazo de 25 días, aceptar la solicitud y declarar el inicio de la investigación a través de la resolución respectiva; o
+
+II. Dentro de un plazo de 17 días, requerir a la solicitante mayores elementos de prueba o datos, los que deberán proporcionarse dentro de un plazo de 20 días contados a partir de la recepción de la prevención. De aportarse satisfactoriamente lo requerido, la Secretaría procederá conforme a lo dispuesto en la fracción anterior. Si no se proporcionan en tiempo y forma los elementos y datos requeridos, se tendrá por abandonada la solicitud y se notificará personalmente al solicitante, o
+
+III. Dentro de un plazo de 20 días, desechar la solicitud cuando no se cumpla con los requisitos establecidos en la legislación aplicable, a través de la resolución respectiva.
 La Secretaría publicará la resolución correspondiente en el Diario Oficial de la Federación, salvo para el caso de desechamiento, y la notificará a las partes interesadas de que tenga conocimiento.
 Artículo reformado DOF 13-03-2003
 
@@ -341,8 +461,13 @@ CAPITULO II Procedimiento en materia de prácticas desleales de comercio interna
 
 ### Artículo 57
 .- Dentro de un plazo de 90 días, contados a partir del día siguiente de la publicación de la resolución de inicio de la investigación en el Diario Oficial de la Federación, la Secretaría dictará la resolución preliminar, mediante la cual podrá:
-Párrafo reformado DOF 13-03-2003 I. Determinar cuota compensatoria provisional, previo el cumplimiento de las formalidades del procedimiento y siempre que hayan transcurrido por lo menos 45 días después de la publicación de la resolución de inicio de la investigación en el Diario Oficial de la Federación;
-II. No imponer cuota compensatoria provisional y continuar con la investigación administrativa, o III. Dar por concluida la investigación administrativa cuando no existan pruebas suficientes de la discriminación de precios o subvención, del daño alegado o de la relación causal entre ambos.
+Párrafo reformado DOF 13-03-2003
+
+I. Determinar cuota compensatoria provisional, previo el cumplimiento de las formalidades del procedimiento y siempre que hayan transcurrido por lo menos 45 días después de la publicación de la resolución de inicio de la investigación en el Diario Oficial de la Federación;
+
+II. No imponer cuota compensatoria provisional y continuar con la investigación administrativa, o
+
+III. Dar por concluida la investigación administrativa cuando no existan pruebas suficientes de la discriminación de precios o subvención, del daño alegado o de la relación causal entre ambos.
 Fracción reformada DOF 13-03-2003 La resolución preliminar deberá publicarse en el Diario Oficial de la Federación y posteriormente notificarse a las partes interesadas de que se tenga conocimiento.
 Párrafo reformado DOF 13-03-2003 Sección segunda Resolución final
 
@@ -351,8 +476,13 @@ Párrafo reformado DOF 13-03-2003 Sección segunda Resolución final
 
 ### Artículo 59
 .- Dentro de un plazo de 210 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de la resolución de inicio de la investigación, la Secretaría dictará la resolución final. A través de esta resolución, la Secretaría deberá:
-Párrafo reformado DOF 13-03-2003 I. Imponer cuota compensatoria definitiva;
-II. Revocar la cuota compensatoria provisional, o III. Declarar concluida la investigación sin imponer cuota compensatoria.
+Párrafo reformado DOF 13-03-2003
+
+I. Imponer cuota compensatoria definitiva;
+
+II. Revocar la cuota compensatoria provisional, o
+
+III. Declarar concluida la investigación sin imponer cuota compensatoria.
 La resolución final deberá publicarse en el Diario Oficial de la Federación y posteriormente notificarse a las partes interesadas de que se tenga conocimiento.
 Párrafo reformado DOF 13-03-2003
 
@@ -374,7 +504,13 @@ Las cuotas compensatorias podrán ser menores al margen de discriminación de pr
 ### Artículo 64
 .- La Secretaría calculará márgenes individuales de discriminación de precios o de subvenciones para aquellas productoras extranjeras que aporten la información suficiente para ello; dichos márgenes individuales servirán de base para la determinación de cuotas compensatorias específicas.
 La Secretaría determinará una cuota compensatoria con base en el margen de discriminación de precios o de subvenciones obtenido con base en la mejor información disponible a partir de los hechos de que se tenga conocimiento, en los siguientes casos:
-Párrafo reformado DOF 21-12-2006 I. Cuando los productores no comparezcan en la investigación; o II. Cuando los productores no presenten la información requerida en tiempo y forma, entorpezcan significativamente la investigación, o presenten información o pruebas incompletas, incorrectas o que no provengan de sus registros contables, lo cual no permita la determinación de un margen individual de discriminación de precios o de subvenciones; o III. Cuando los productores no hayan realizado exportaciones del producto objeto de investigación durante el período investigado.
+Párrafo reformado DOF 21-12-2006
+
+I. Cuando los productores no comparezcan en la investigación; o
+
+II. Cuando los productores no presenten la información requerida en tiempo y forma, entorpezcan significativamente la investigación, o presenten información o pruebas incompletas, incorrectas o que no provengan de sus registros contables, lo cual no permita la determinación de un margen individual de discriminación de precios o de subvenciones; o
+
+III. Cuando los productores no hayan realizado exportaciones del producto objeto de investigación durante el período investigado.
 Se entenderá por los hechos de que se tenga conocimiento, los acreditados mediante las pruebas y datos aportados en tiempo y forma por las partes interesadas, sus coadyuvantes, así como por la información obtenida por la autoridad investigadora.
 Artículo reformado DOF 13-03-2003
 
@@ -383,7 +519,11 @@ Artículo reformado DOF 13-03-2003
 Si en la resolución final se confirma la cuota compensatoria provisional, se requerirá el pago de dicha cuota o, en su defecto, se harán efectivas las garantías que se hubieren otorgado. Si en dicha resolución se modificó o revocó la cuota, se procederá a cancelar o modificar dichas garantías o, en su caso, a devolver, con los intereses correspondientes, las cantidades que se hubieren enterado por dicho concepto o la diferencia respectiva.
 
 ### Artículo 65 A
-- En el caso de la discriminación de precios que cause daño a la rama de producción nacional, corresponde a la Secretaría determinar la aplicación de una cuota compensatoria definitiva sobre las mercancías sujetas a investigación que se hayan importado durante los tres meses anteriores a la fecha de aplicación de las medidas provisionales cuando en relación con el producto objeto de discriminación de precios investigado, la autoridad determine: a) Que hay antecedentes de discriminación de precios causante de daño o que el importador sabía o debía haber sabido que el exportador incurría en discriminación de precios y que ésta causaría daño, y b) Que el daño se deba a importaciones masivas de un producto objeto de discriminación de precios, efectuadas en un periodo relativamente corto y la Secretaría considere que por su temporalidad, su volumen y otras circunstancias (tales como una rápida acumulación de existencias del producto importado), es probable que socaven gravemente el efecto reparador de la cuota compensatoria definitiva que deba aplicarse, a condición de que se haya dado a los importadores interesados la oportunidad de hacer observaciones.
+- En el caso de la discriminación de precios que cause daño a la rama de producción nacional, corresponde a la Secretaría determinar la aplicación de una cuota compensatoria definitiva sobre las mercancías sujetas a investigación que se hayan importado durante los tres meses anteriores a la fecha de aplicación de las medidas provisionales cuando en relación con el producto objeto de discriminación de precios investigado, la autoridad determine:
+
+a) Que hay antecedentes de discriminación de precios causante de daño o que el importador sabía o debía haber sabido que el exportador incurría en discriminación de precios y que ésta causaría daño, y
+
+b) Que el daño se deba a importaciones masivas de un producto objeto de discriminación de precios, efectuadas en un periodo relativamente corto y la Secretaría considere que por su temporalidad, su volumen y otras circunstancias (tales como una rápida acumulación de existencias del producto importado), es probable que socaven gravemente el efecto reparador de la cuota compensatoria definitiva que deba aplicarse, a condición de que se haya dado a los importadores interesados la oportunidad de hacer observaciones.
 En el caso de las subvenciones que causen daño a la rama de producción nacional, cuando respecto del producto subvencionado de que se trate la autoridad investigadora concluya que existe un daño difícilmente reparable, es decir, cuando existan circunstancias críticas, causado por importaciones masivas, efectuadas en un período relativamente corto, de un producto que goza de subvenciones pagadas o concedidas de forma incompatible con las disposiciones aplicables y cuando, para impedir que vuelva a producirse el daño, se estime necesario percibir retroactivamente cuotas compensatorias sobre esas importaciones, corresponde a la Secretaría determinar la aplicación de la cuota compensatoria definitiva a las mercancías que se hayan importado tres meses como máximo antes de la fecha de aplicación de las medidas provisionales.
 Artículo adicionado DOF 21-12-2006
 
@@ -406,7 +546,9 @@ Reforma DOF 21-12-2006: Derogó del artículo el entonces último párrafo (ante
 
 ### Artículo 70
 .- Las cuotas compensatorias definitivas se eliminarán en un plazo de cinco años, contados a partir de su entrada en vigor, a menos que antes de concluir dicho plazo la Secretaría haya iniciado:
+
 I. Un procedimiento de revisión anual a solicitud de parte interesada o de oficio, en el que se analice tanto la discriminación de precios o monto de las subvenciones, como el daño.
+
 II. Un examen de vigencia de cuota compensatoria de oficio, para determinar si la supresión de la cuota compensatoria daría lugar a la continuación o repetición de la práctica desleal.
 En caso de que no se haya iniciado alguno de estos procedimientos, la Secretaría deberá publicar en el Diario Oficial de la Federación un aviso sobre la eliminación de dicha cuota, el cual deberá notificar a las partes interesadas de que tenga conocimiento.
 Artículo reformado DOF 13-03-2003
@@ -421,10 +563,16 @@ Artículo adicionado DOF 13-03-2003
 
 ### Artículo 71
 .- No están sujetas al pago de cuota compensatoria o medida de salvaguarda, las siguientes mercancías:
+
 I. Los equipajes de pasajeros en viajes internacionales;
+
 II. Los menajes de casa pertenecientes a inmigrantes y a nacionales repatriados o deportados, que los mismos hayan usado durante su residencia en el extranjero;
+
 III. Las que importen los residentes de la franja fronteriza para su consumo personal;
-IV. Las que sean donadas para ser destinadas a fines culturales, de enseñanza, de investigación, de salud pública o de servicio social, que importen organismos públicos, así como personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta, siempre que formen parte de su patrimonio, previa autorización de la Secretaría, y V. Las demás que autorice la Secretaría.
+
+IV. Las que sean donadas para ser destinadas a fines culturales, de enseñanza, de investigación, de salud pública o de servicio social, que importen organismos públicos, así como personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta, siempre que formen parte de su patrimonio, previa autorización de la Secretaría, y
+
+V. Las demás que autorice la Secretaría.
 En los supuestos de las fracciones I a III se atenderá a lo previsto en la legislación aduanera.
 Artículo reformado DOF 13-03-2003 Sección quinta Compromisos de exportadores y gobiernos
 
@@ -455,7 +603,10 @@ Artículo reformado DOF 13-03-2003 Sección segunda Circunstancias críticas
 
 ### Artículo 78
 .- El Ejecutivo Federal podrá establecer medidas provisionales de salvaguarda en un plazo de 20 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación del inicio de la investigación, siempre y cuando:
-I. Se presenten circunstancias críticas en las que cualquier demora entrañaría un daño difícilmente reparable, y II. Cuente con pruebas de que el aumento de las importaciones ha causado o amenazado causar un daño serio.
+
+I. Se presenten circunstancias críticas en las que cualquier demora entrañaría un daño difícilmente reparable, y
+
+II. Cuente con pruebas de que el aumento de las importaciones ha causado o amenazado causar un daño serio.
 
 ### Artículo 79
 .- La duración de las medidas provisionales no excederá de seis meses. En este lapso se cumplirán las disposiciones establecidas en los tratados o convenios internacionales de los que México sea parte. La resolución final que confirme, modifique o revoque las medidas provisionales deberá publicarse dentro de los seis meses posteriores al día siguiente de la publicación en el Diario Oficial de la Federación de la resolución que determine medidas provisionales.
@@ -517,10 +668,16 @@ Artículo adicionado DOF 13-03-2003
 
 ### Artículo 89 B
 - Se considera elusión de cuotas compensatorias o de medidas de salvaguarda, lo siguiente:
+
 I. La introducción a territorio nacional de insumos, piezas o componentes con objeto de producir o realizar operaciones de montaje de la mercancía sujeta a cuota compensatoria o medida de salvaguarda;
+
 II. La introducción a territorio nacional de mercancías sujetas a cuota compensatoria o medidas de salvaguarda con insumos, piezas o componentes integrados o ensamblados en un tercer país;
+
 III. La introducción a territorio nacional de mercancías del mismo país de origen que la mercancía sujeta a cuota compensatoria o medida de salvaguarda, con diferencias relativamente menores con respecto a éstas;
-IV. La introducción a territorio nacional de mercancías sujetas a cuota compensatoria o medida de salvaguarda, importadas con una cuota compensatoria o medida de salvaguarda menor a la que le corresponde; o V. Cualquier otra conducta que tenga como resultado el incumplimiento del pago de la cuota compensatoria o de la medida de salvaguarda.
+
+IV. La introducción a territorio nacional de mercancías sujetas a cuota compensatoria o medida de salvaguarda, importadas con una cuota compensatoria o medida de salvaguarda menor a la que le corresponde; o
+
+V. Cualquier otra conducta que tenga como resultado el incumplimiento del pago de la cuota compensatoria o de la medida de salvaguarda.
 Las mercancías que se importen en estas condiciones pagarán la cuota compensatoria o se sujetarán a la medida de salvaguarda correspondiente. La elusión de cuotas compensatorias o medidas de salvaguarda, preliminares o definitivas, se determinará mediante un procedimiento iniciado de oficio o a solicitud de parte interesada.
 Artículo adicionado DOF 13-03-2003
 
@@ -530,7 +687,10 @@ Artículo adicionado DOF 13-03-2003
 
 ### Artículo 89 D
 - Los productores cuyas mercancías estén sujetas a una cuota compensatoria definitiva y que no hayan realizado exportaciones de esas mercancías durante el período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate, podrán solicitar a la Secretaría el inicio de un procedimiento para nuevos exportadores a efecto de que ésta se pronuncie sobre los márgenes individuales de discriminación de precios, siempre que:
-I. Hayan efectuado operaciones de exportación al territorio nacional de la mercancía objeto de cuotas compensatorias con posterioridad al período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate, y Fracción reformada DOF 21-12-2006 II. Demuestren que no tienen vinculación alguna con los productores o exportadores del país exportador a quienes se les haya determinado cuota compensatoria específica.
+
+I. Hayan efectuado operaciones de exportación al territorio nacional de la mercancía objeto de cuotas compensatorias con posterioridad al período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate, y Fracción reformada DOF 21-12-2006
+
+II. Demuestren que no tienen vinculación alguna con los productores o exportadores del país exportador a quienes se les haya determinado cuota compensatoria específica.
 Artículo adicionado DOF 13-03-2003
 
 ### Artículo 89 E
@@ -542,9 +702,13 @@ Artículo adicionado DOF 13-03-2003
 - La Secretaría publicará en el Diario Oficial de la Federación el inicio del examen de vigencia de cuota compensatoria y notificará a las partes de que tenga conocimiento, para que en un plazo de 28 días contados a partir del día siguiente de su publicación en dicho órgano informativo, manifiesten lo que a su derecho convenga.
 Transcurrido este plazo, las partes contarán con 8 días para presentar contraargumentaciones o réplicas a lo manifestado.
 Las empresas productoras nacionales, exportadoras e importadoras que tengan interés jurídico en el resultado del examen, deberán presentar la información necesaria que permita a la autoridad determinar si de eliminarse la cuota compensatoria se repetiría o continuaría la discriminación de precios o la subvención, y el daño.
+
 I. Dentro de los 100 días posteriores al inicio de la investigación, la Secretaría notificará a las partes interesadas de que tenga conocimiento la apertura de un segundo período probatorio de 28 días, a efecto de que presenten los argumentos y pruebas que a su derecho convenga.
+
 II. Antes de emitir una resolución final, la Secretaría podrá realizar las visitas de verificación que considere conveniente; celebrará una audiencia pública y otorgará a las partes un plazo para presentar alegatos.
+
 III. Terminado el procedimiento de examen, la Secretaría someterá a la opinión de la Comisión de Comercio Exterior el proyecto de resolución final.
+
 IV. La Secretaría dictará la resolución final dentro de un plazo máximo de 220 días contados a partir del día siguiente al de la publicación de la resolución de inicio del examen en el Diario Oficial de la Federación, mediante la cual podrá: a. Determinar la continuación de la vigencia de la cuota compensatoria por cinco años adicionales contados a partir de la fecha de vencimiento. En esta determinación la Secretaría podrá modificar el monto de la cuota compensatoria. b. Eliminar la cuota compensatoria.
 Durante el tiempo que dure el examen de vigencia continuará el pago de cuotas compensatorias.
 Artículo adicionado DOF 13-03-2003 TITULO VIII PROMOCION DE EXPORTACIONES CAPITULO I Disposiciones generales
@@ -552,10 +716,18 @@ Artículo adicionado DOF 13-03-2003 TITULO VIII PROMOCION DE EXPORTACIONES CAPIT
 ### Artículo 90
 .- La promoción de las exportaciones tendrá como objetivo la consolidación y la mejoría cuantitativa y cualitativa de las exportaciones de productos manufacturados, agroindustriales, servicios y tecnología mexicanos en los mercados internacionales. Para ello se concertarán programas anuales con los organismos representativos de sectores productivos a fin de realizar una eficaz asignación de recursos.
 Párrafo reformado DOF 24-01-2006 Las actividades de promoción de exportaciones buscarán:
+
 I. Aprovechar los logros alcanzados en negociaciones comerciales internacionales;
+
 II. Facilitar proyectos de exportación, con prioridad en el apoyo a la micro, pequeña y mediana empresa;
-Fracción reformada DOF 24-01-2006 III. Contribuir a resolver los problemas que enfrentan las empresas para concurrir a los mercados internacionales y establecer un programa permanente de desregulación y simplificación administrativa en materia de exportaciones, incluyendo aquellos derivados de los mecanismos de solución de controversias previstos en los tratados internacionales de los que México sea parte;
-Fracción reformada DOF 24-01-2006 IV. Proporcionar de manera expedita los servicios de apoyo del comercio exterior y los beneficios que los programas oficiales de fomento a las exportaciones establezcan, y Fracción reformada DOF 24-01-2006 V. Las demás acciones que señalen expresamente otras leyes o reglamentos.
+Fracción reformada DOF 24-01-2006
+
+III. Contribuir a resolver los problemas que enfrentan las empresas para concurrir a los mercados internacionales y establecer un programa permanente de desregulación y simplificación administrativa en materia de exportaciones, incluyendo aquellos derivados de los mecanismos de solución de controversias previstos en los tratados internacionales de los que México sea parte;
+Fracción reformada DOF 24-01-2006
+
+IV. Proporcionar de manera expedita los servicios de apoyo del comercio exterior y los beneficios que los programas oficiales de fomento a las exportaciones establezcan, y Fracción reformada DOF 24-01-2006
+
+V. Las demás acciones que señalen expresamente otras leyes o reglamentos.
 Fracción reformada DOF 24-01-2006 La Secretaría podrá diseñar, mediante acuerdos publicados en el Diario Oficial de la Federación, mecanismos de coordinación de las actividades de promoción. La coordinación de la promoción tendrá por objeto establecer lineamientos generales para el eficaz desempeño, seguimiento y evaluación de las actividades de promoción de exportaciones.
 CAPITULO II Instrumentos de promoción
 
@@ -570,12 +742,20 @@ Artículo reformado DOF 24-01-2006 TITULO IX INFRACCIONES, SANCIONES Y RECURSOS 
 
 ### Artículo 93
 .- Corresponde a la Secretaría sancionar las siguientes infracciones:
+
 I. Falsificar datos o documentos, así como omitirlos o alterarlos con intención fraudulenta o por negligencia grave en materia de comprobación de origen, permisos previos, cupos y marcado de origen, con multa equivalente a dos tantos del valor de la mercancía exportada o importada y, a falta de este dato, por el importe de dos tantos del valor de la mercancía consignado en el documento correspondiente;
+
 II. Destinar la mercancía importada a un fin distinto a aquél para el cual se expidió el permiso de importación, en los casos en los cuales se haya establecido este requisito, con multa de dos tantos del valor de la mercancía importada;
+
 III. Proporcionar datos o documentos falsos u omitir los reales o alterarlos para obtener la aplicación del régimen de cuotas compensatorias o medidas de salvaguarda, con multa hasta por el valor de la mercancía importada en el período de investigación de que se trate;
-Fracción reformada DOF 13-03-2003 IV. Omitir la presentación a la Secretaría de los documentos o informes en los casos a los que se refiere el artículo 55 dentro del plazo señalado en el requerimiento respectivo, con multa de 180 veces el salario mínimo;
+Fracción reformada DOF 13-03-2003
+
+IV. Omitir la presentación a la Secretaría de los documentos o informes en los casos a los que se refiere el artículo 55 dentro del plazo señalado en el requerimiento respectivo, con multa de 180 veces el salario mínimo;
+
 V. Derogada;
-Fracción reformada DOF 13-03-2003. Derogada DOF 21-12-2006 VI. Divulgar información confidencial o utilizar ésta para beneficio personal, en los términos del
+Fracción reformada DOF 13-03-2003. Derogada DOF 21-12-2006
+
+VI. Divulgar información confidencial o utilizar ésta para beneficio personal, en los términos del
 
 ### artículo 80
 de esta Ley o, en relación a los mecanismos de solución de controversias establecidos en los tratados o convenios internacionales de los que México sea parte, con multa proporcional al perjuicio que se ocasione o al beneficio que se obtenga por la divulgación o uso de dicha información.
@@ -586,17 +766,33 @@ CAPITULO II Recurso de revocación
 
 ### Artículo 94
 .- El recurso administrativo de revocación podrá ser interpuesto contra las resoluciones:
+
 I. En materia de marcado de país de origen o que nieguen permisos previos o la participación en cupos de exportación o importación;
+
 II. En materia de certificación de origen;
+
 III. Que declaren abandonada o desechada la solicitud de inicio de los procedimientos de investigación a que se refieren las fracciones II y III del artículo 52;
+
 IV. Que declaren concluida la investigación sin imponer cuota compensatoria a que se refieren la fracción III del artículo 57 y la fracción III del artículo 59;
+
 V. Que determinen cuotas compensatorias definitivas o los actos que las apliquen;
+
 VI. Por las que se responda a las solicitudes de los interesados a que se refiere el Artículo 89 A;
-Fracción reformada DOF 24-01-2006 VII. Que declaren concluida la investigación a que se refiere el artículo 61;
+Fracción reformada DOF 24-01-2006
+
+VII. Que declaren concluida la investigación a que se refiere el artículo 61;
+
 VIII. Que desechen o concluyan la solicitud de revisión a que se refiere el artículo 68, así como las que confirmen, modifiquen o revoquen cuotas compensatorias definitivas a que se refiere el mismo artículo;
+
 IX. Que declaren concluida o terminada la investigación a que se refiere el artículo 73;
-Fracción reformada DOF 13-03-2003 X. Que declaren concluida la investigación a que se refiere el artículo 89 B;
-Fracción adicionada DOF 13-03-2003 XI. Que concluyan la investigación a que se refiere la fracción IV del artículo 89 F, y Fracción adicionada DOF 13-03-2003 XII. Que impongan las sanciones a que se refiere esta Ley.
+Fracción reformada DOF 13-03-2003
+
+X. Que declaren concluida la investigación a que se refiere el artículo 89 B;
+Fracción adicionada DOF 13-03-2003
+
+XI. Que concluyan la investigación a que se refiere la fracción IV del artículo 89 F, y Fracción adicionada DOF 13-03-2003
+
+XII. Que impongan las sanciones a que se refiere esta Ley.
 Fracción reformada DOF 13-03-2003 (se recorre) Los recursos de revocación contra las resoluciones en materia de certificación de origen y los actos que apliquen cuotas compensatorias definitivas, se impondrán ante la Secretaría de Hacienda y Crédito Público. En los demás casos, el recurso se interpondrá ante la Secretaría.
 
 ### Artículo 95
@@ -608,9 +804,14 @@ Párrafo reformado DOF 31-12-2000, 13-03-2003
 
 ### Artículo 96
 .- En relación con el recurso de revocación que se interponga contra las resoluciones y actos a que se refiere la fracción V del artículo 94, se estará a lo dispuesto en el artículo 95 en lo que no se oponga a las siguientes reglas:
+
 I. Se interpondrá ante la autoridad que haya dictado la resolución, o bien, contra la que lo ejecute, salvo que en el mismo recurso se impugnen ambos, caso en el que deberá interponerse ante la autoridad que determinó las cuotas compensatorias;
+
 II. Si se impugnan ambos, la resolución del recurso contra la determinación de cuotas compensatorias definitivas será de pronunciamiento previo al correspondiente a los actos de aplicación. La autoridad competente para resolver los primeros enviará copia de la resolución a la autoridad facultada para resolver los segundos. En caso de que se modifique o revoque la determinación de las cuotas compensatorias definitivas, quedará sin materia el recurso interpuesto contra los actos de aplicación de dichas cuotas, sin perjuicio de que el interesado interponga recurso contra el nuevo acto de aplicación;
-III. Si se interponen recursos sucesivos contra la resolución que determinó la cuota compensatoria y contra los actos de aplicación, se suspenderá la tramitación de estos últimos. El recurrente estará obligado a dar aviso de la situación a las autoridades competentes para conocer y resolver dichos recursos. La suspensión podrá decretarse aun de oficio cuando la autoridad tenga conocimiento por cualquier causa de esta situación, y IV. Cuando se interponga el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa, impugnando la resolución dictada al resolver el recurso de revocación interpuesto contra la determinación de la cuota compensatoria definitiva, impugne posteriormente también la resolución que se dicte al resolver el recurso contra los actos de aplicación, deberá ampliar la demanda inicial dentro del término correspondiente para formular esta última impugnación.
+
+III. Si se interponen recursos sucesivos contra la resolución que determinó la cuota compensatoria y contra los actos de aplicación, se suspenderá la tramitación de estos últimos. El recurrente estará obligado a dar aviso de la situación a las autoridades competentes para conocer y resolver dichos recursos. La suspensión podrá decretarse aun de oficio cuando la autoridad tenga conocimiento por cualquier causa de esta situación, y
+
+IV. Cuando se interponga el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa, impugnando la resolución dictada al resolver el recurso de revocación interpuesto contra la determinación de la cuota compensatoria definitiva, impugne posteriormente también la resolución que se dicte al resolver el recurso contra los actos de aplicación, deberá ampliar la demanda inicial dentro del término correspondiente para formular esta última impugnación.
 Fracción reformada DOF 31-12-2000, 13-03-2003
 
 ### Artículo 97
@@ -618,14 +819,22 @@ Fracción reformada DOF 31-12-2000, 13-03-2003
 
 ### Artículo 94
 , cualquier parte interesada podrá optar por acudir a los mecanismos alternativos de solución de controversias en materia de prácticas desleales contenidos en tratados comerciales internacionales de los que México sea parte. De optarse por tales mecanismos:
-Párrafo reformado DOF 22-12-1993 I. No procederá el recurso de revocación previsto en el artículo 94 ni el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa contra dichas resoluciones, ni contra la resolución de la Secretaría dictada como consecuencia de la decisión que emane de dichos mecanismos alternativos, y se entenderá que la parte interesada que ejerza la opción acepta la resolución que resulte del mecanismo alternativo de solución de controversias;
-Fracción reformada DOF 22-12-1993, 31-12-2000, 13-03-2003 II. Sólo se considerará como final la resolución de la Secretaría dictada como consecuencia de la decisión que emane de los mecanismos alternativos. Las partes interesadas que acudan a un mecanismo alternativo de solución de controversias o, en su caso, las partes interesadas sujetas al pago de cuota compensatoria que podría modificarse en virtud de tal mecanismo, podrán garantizar las cuotas compensatorias definitivas en los términos de la fracción III del artículo 98 de esta Ley. Asimismo, en caso de que la cuota compensatoria determinada en las revisiones administrativas sea menor que la vigente al momento en que se inicie el mecanismo alternativo de solución de controversias, deberán garantizar o pagar la diferencia entre dichas cuotas en tanto dicho mecanismo no se resuelva de forma definitiva, y Fracción reformada DOF 21-12-2006 III. Se observará lo establecido en el artículo 51 de la Ley Federal de Procedimiento Contencioso Administrativo.
+Párrafo reformado DOF 22-12-1993
+
+I. No procederá el recurso de revocación previsto en el artículo 94 ni el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa contra dichas resoluciones, ni contra la resolución de la Secretaría dictada como consecuencia de la decisión que emane de dichos mecanismos alternativos, y se entenderá que la parte interesada que ejerza la opción acepta la resolución que resulte del mecanismo alternativo de solución de controversias;
+Fracción reformada DOF 22-12-1993, 31-12-2000, 13-03-2003
+
+II. Sólo se considerará como final la resolución de la Secretaría dictada como consecuencia de la decisión que emane de los mecanismos alternativos. Las partes interesadas que acudan a un mecanismo alternativo de solución de controversias o, en su caso, las partes interesadas sujetas al pago de cuota compensatoria que podría modificarse en virtud de tal mecanismo, podrán garantizar las cuotas compensatorias definitivas en los términos de la fracción III del artículo 98 de esta Ley. Asimismo, en caso de que la cuota compensatoria determinada en las revisiones administrativas sea menor que la vigente al momento en que se inicie el mecanismo alternativo de solución de controversias, deberán garantizar o pagar la diferencia entre dichas cuotas en tanto dicho mecanismo no se resuelva de forma definitiva, y Fracción reformada DOF 21-12-2006
+
+III. Se observará lo establecido en el artículo 51 de la Ley Federal de Procedimiento Contencioso Administrativo.
 Fracción reformada DOF 21-12-2006
 
 ### Artículo 98
 .- Además de lo dispuesto en los Artículos 96 y 97, los recursos relacionados con las resoluciones a que se alude en las fracciones IV, V, VI y VIII del Artículo 94, se sujetarán a las siguientes reglas:
 Párrafo reformado DOF 22-12-1993 I.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados internacionales, el plazo para interponer el recurso de revocación no empezará a correr sino hasta que haya transcurrido el previsto en el tratado internacional de que se trate para interponer el mecanismo alternativo de solución de controversias;
-Fracción reformada DOF 22-12-1993 II.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados internacionales, el recurrente que opte por el recurso de revocación deberá cumplir, además, con las formalidades previstas en el tratado internacional de que se trate; y Fracción reformada DOF 22-12-1993 III. Las partes interesadas que acudan al recurso de revocación, al juicio de nulidad ante el Tribunal Federal de Justicia Fiscal y Administrativa o a los mecanismos alternativos de solución de controversias a que se refiere esta Ley, podrán garantizar el pago de las cuotas compensatorias definitivas, en los términos del Código Fiscal de la Federación, siempre que la forma de garantía correspondiente sea aceptada por la Secretaría de Hacienda y Crédito Público.
+Fracción reformada DOF 22-12-1993 II.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados internacionales, el recurrente que opte por el recurso de revocación deberá cumplir, además, con las formalidades previstas en el tratado internacional de que se trate; y Fracción reformada DOF 22-12-1993
+
+III. Las partes interesadas que acudan al recurso de revocación, al juicio de nulidad ante el Tribunal Federal de Justicia Fiscal y Administrativa o a los mecanismos alternativos de solución de controversias a que se refiere esta Ley, podrán garantizar el pago de las cuotas compensatorias definitivas, en los términos del Código Fiscal de la Federación, siempre que la forma de garantía correspondiente sea aceptada por la Secretaría de Hacienda y Crédito Público.
 Fracción reformada DOF 31-12-2000, 13-03-2003
 
 ## TRANSITORIOS
@@ -660,8 +869,11 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000 Disp
 
 ### Artículo Décimo Primero
 En relación con las modificaciones a que se refiere el Artículo Décimo de este Decreto, se estará a lo siguiente:
+
 I. La reforma al artículo 28 de la Ley Orgánica del Tribunal Fiscal de la Federación, entrará en vigor el 1o. de febrero de 2001.
+
 II. Para los efectos del artículo 31 de la Ley Orgánica del Tribunal Fiscal de la Federación, las demandas presentadas antes del 1o. de enero de 2001, serán competencia de la Sala Regional que corresponda, de conformidad con el citado artículo 31, vigente hasta el 31 de diciembre de 2000.
+
 III. Se reforma la denominación del Tribunal Fiscal de la Federación por la de Tribunal Federal de Justicia Fiscal y Administrativa. En consecuencia, se reforma la Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones, así como en todas aquellas contenidas en el Código Fiscal de la Federación y en las demás leyes fiscales y administrativas federales, en las que se cite al Tribunal Fiscal de la Federación, para sustituir ese nombre por el de Tribunal Federal de Justicia Fiscal y Administrativa.
 
 ## Transitorios

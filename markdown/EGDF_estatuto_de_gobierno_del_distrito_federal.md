@@ -41,8 +41,12 @@ Párrafo reformado DOF 04-12-1997 La distribución de atribuciones entre los Pod
 
 ### ARTÍCULO 8o
 .- Las autoridades locales de gobierno del Distrito Federal son:
+
 I. La Asamblea Legislativa del Distrito Federal;
-II. El Jefe de Gobierno del Distrito Federal; y III. El Tribunal Superior de Justicia del Distrito Federal.
+
+II. El Jefe de Gobierno del Distrito Federal; y
+
+III. El Tribunal Superior de Justicia del Distrito Federal.
 Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 9o
@@ -56,10 +60,16 @@ Artículo reformado DOF 04-12-1997
 ### ARTÍCULO 10
 .- El Ministerio Público del Distrito Federal será presidido por un Procurador General de Justicia, nombrado y removido por el Jefe de Gobierno del Distrito Federal, con la aprobación del Presidente de la República.
 Para ser Procurador General de Justicia se deberán cubrir los siguientes requisitos:
+
 I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+
 II. Ser originario o vecino del Distrito Federal con residencia efectiva de dos años anteriores al día de su designación;
+
 III. Tener cuando menos treinta y cinco años de edad, al día de su designación;
-IV. Poseer al día de la designación, con antigüedad mínima de diez años título profesional de Licenciado en Derecho y contar con experiencia en el campo del derecho; y V. Gozar de buena reputación y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso, o por delito culposo calificado como grave por la ley, ni estar sujeto a proceso penal.
+
+IV. Poseer al día de la designación, con antigüedad mínima de diez años título profesional de Licenciado en Derecho y contar con experiencia en el campo del derecho; y
+
+V. Gozar de buena reputación y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso, o por delito culposo calificado como grave por la ley, ni estar sujeto a proceso penal.
 En los términos que establezcan las leyes, incumbe al Ministerio Público del Distrito Federal, la persecución de los delitos del orden común cometidos en el Distrito Federal, la representación de los intereses de la sociedad, promover una pronta, completa y debida impartición de justicia, y ejercer las atribuciones que en materia de seguridad pública le confiere la Ley de Seguridad Pública del Distrito Federal, así como participar en la instancia de coordinación del Distrito Federal en el sistema nacional de seguridad pública. Las atribuciones del Ministerio Público del Distrito Federal se ejercerán por su titular o por sus agentes o auxiliares, conforme lo establezca su ley orgánica.
 La Procuraduría General de Justicia del Distrito Federal que estará a cargo del Procurador, se ubica en el ámbito orgánico del Gobierno del Distrito Federal para el despacho de los asuntos que al Ministerio Público y a su titular le confieren la Constitución Política de los Estados Unidos Mexicanos, el presente Estatuto y las demás disposiciones legales aplicables.
 El Procurador General de Justicia del Distrito Federal dispondrá lo necesario, en el ámbito de su competencia, para que la institución a su cargo adopte las políticas generales de seguridad pública que establezca el Jefe de Gobierno del Distrito Federal.
@@ -72,26 +82,58 @@ Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 11
 .- El gobierno del Distrito Federal para su organización política y administrativa está determinado por:
-Párrafo reformado DOF 04-12-1997 I. Su condición de Distrito Federal, sede de los Poderes de la Unión y capital de los Estados Unidos Mexicanos;
-II. La unidad geográfica y estructural de la Ciudad de México y su desarrollo integral en compatibilidad con las características de las demarcaciones territoriales que se establezcan en su interior para el mejor gobierno y atención de las necesidades públicas; y Fracción reformada DOF 14-10-1999 III. La coordinación con las distintas jurisdicciones locales y municipales y con la Federación en la planeación y ejecución de acciones en las zonas conurbadas limítrofes con el Distrito Federal, en los términos del Apartado G del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos.
+Párrafo reformado DOF 04-12-1997
+
+I. Su condición de Distrito Federal, sede de los Poderes de la Unión y capital de los Estados Unidos Mexicanos;
+
+II. La unidad geográfica y estructural de la Ciudad de México y su desarrollo integral en compatibilidad con las características de las demarcaciones territoriales que se establezcan en su interior para el mejor gobierno y atención de las necesidades públicas; y Fracción reformada DOF 14-10-1999
+
+III. La coordinación con las distintas jurisdicciones locales y municipales y con la Federación en la planeación y ejecución de acciones en las zonas conurbadas limítrofes con el Distrito Federal, en los términos del Apartado G del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos.
 Fracción reformada DOF 04-12-1997
 
 ### ARTÍCULO 12
 .- La organización política y administrativa del Distrito Federal atenderá los siguientes principios estratégicos:
+
 I. La legalidad, honradez, lealtad, imparcialidad, eficiencia y eficacia que deben observarse en el desempeño de los empleos, cargos o comisiones del servicio público y en la administración de los recursos económicos de que disponga el Gobierno de la Ciudad;
-Fracción reformada DOF 04-12-1997 II. La existencia, integración, estructura y funcionamiento de órganos, unidades, dependencias centrales y entidades paraestatales, con ámbito de actuación en el conjunto de la Ciudad;
+Fracción reformada DOF 04-12-1997
+
+II. La existencia, integración, estructura y funcionamiento de órganos, unidades, dependencias centrales y entidades paraestatales, con ámbito de actuación en el conjunto de la Ciudad;
 Fracción reformada DOF 04-12-1997 III.- El establecimiento en cada demarcación territorial de un órgano político-administrativo, con autonomía funcional para ejercer las competencias que les otorga este Estatuto y las leyes;
-Fracción reformada DOF 04-12-1997, 14-10-1999 IV. La previsión de la actuación gubernativa con criterios de unidad, autonomía, funcionalidad, eficacia, coordinación e imparcialidad;
-Fracción reformada DOF 04-12-1997 V. La planeación y ordenamiento del desarrollo territorial, económico y social de la Ciudad, que considere la óptica integral de la capital con las peculiaridades de las demarcaciones territoriales que se establezcan para la división territorial;
-Fracción reformada DOF 04-12-1997 VI. La simplificación, agilidad, economía, información, precisión, legalidad, transparencia e imparcialidad en los procedimientos y actos administrativos en general;
-Fracción reformada DOF 04-12-1997 VII. La cobertura amplia, oportuna, ágil y especializada de los servicios de seguridad pública y de impartición y procuración de justicia para la protección de las personas, sus familias y sus bienes;
-Fracción reformada DOF 04-12-1997 VIII. La observancia, respeto y atención de recomendaciones por las autoridades y en general servidores públicos que ejerzan jurisdicción local en el Distrito Federal, respecto de los derechos humanos que establece el orden jurídico mexicano;
-Fracción reformada DOF 04-12-1997 IX. La formulación de políticas y programas de desarrollo económico, considerando las particularidades de la Ciudad y la congruencia de aquéllas con la planeación nacional del desarrollo;
-Fracción reformada DOF 04-12-1997 X. La conjugación de acciones de desarrollo con políticas y normas de seguridad y de protección a los elementos del medio ambiente;
-Fracción reformada DOF 04-12-1997 XI. La definición de las políticas sobre finanzas públicas para asegurar la estabilidad financiera y solidez fiscal de la entidad, la equidad de la carga tributaria, la seguridad jurídica de los contribuyentes y la atención prioritaria de las necesidades sociales;
-Fracción reformada DOF 04-12-1997 XII. La juridicidad de los actos de gobierno, la revisión y adecuación de la organización de la administración, la programación de su gasto y el control de su ejercicio;
-Fracción reformada DOF 04-12-1997 XIII. La participación ciudadana para canalizar y conciliar la multiplicidad de intereses que se dan en la Ciudad;
-Fracción reformada DOF 04-12-1997 XIV. La participación de los ciudadanos en los asuntos públicos de la Ciudad, en los términos que disponga este Estatuto y las leyes; y Fracción adicionada DOF 04-12-1997 XV. La rectoría del desarrollo nacional en los términos del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos.
+Fracción reformada DOF 04-12-1997, 14-10-1999
+
+IV. La previsión de la actuación gubernativa con criterios de unidad, autonomía, funcionalidad, eficacia, coordinación e imparcialidad;
+Fracción reformada DOF 04-12-1997
+
+V. La planeación y ordenamiento del desarrollo territorial, económico y social de la Ciudad, que considere la óptica integral de la capital con las peculiaridades de las demarcaciones territoriales que se establezcan para la división territorial;
+Fracción reformada DOF 04-12-1997
+
+VI. La simplificación, agilidad, economía, información, precisión, legalidad, transparencia e imparcialidad en los procedimientos y actos administrativos en general;
+Fracción reformada DOF 04-12-1997
+
+VII. La cobertura amplia, oportuna, ágil y especializada de los servicios de seguridad pública y de impartición y procuración de justicia para la protección de las personas, sus familias y sus bienes;
+Fracción reformada DOF 04-12-1997
+
+VIII. La observancia, respeto y atención de recomendaciones por las autoridades y en general servidores públicos que ejerzan jurisdicción local en el Distrito Federal, respecto de los derechos humanos que establece el orden jurídico mexicano;
+Fracción reformada DOF 04-12-1997
+
+IX. La formulación de políticas y programas de desarrollo económico, considerando las particularidades de la Ciudad y la congruencia de aquéllas con la planeación nacional del desarrollo;
+Fracción reformada DOF 04-12-1997
+
+X. La conjugación de acciones de desarrollo con políticas y normas de seguridad y de protección a los elementos del medio ambiente;
+Fracción reformada DOF 04-12-1997
+
+XI. La definición de las políticas sobre finanzas públicas para asegurar la estabilidad financiera y solidez fiscal de la entidad, la equidad de la carga tributaria, la seguridad jurídica de los contribuyentes y la atención prioritaria de las necesidades sociales;
+Fracción reformada DOF 04-12-1997
+
+XII. La juridicidad de los actos de gobierno, la revisión y adecuación de la organización de la administración, la programación de su gasto y el control de su ejercicio;
+Fracción reformada DOF 04-12-1997
+
+XIII. La participación ciudadana para canalizar y conciliar la multiplicidad de intereses que se dan en la Ciudad;
+Fracción reformada DOF 04-12-1997
+
+XIV. La participación de los ciudadanos en los asuntos públicos de la Ciudad, en los términos que disponga este Estatuto y las leyes; y Fracción adicionada DOF 04-12-1997
+
+XV. La rectoría del desarrollo nacional en los términos del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos.
 Fracción adicionada DOF 04-12-1997
 
 ### ARTÍCULO 13
@@ -109,10 +151,15 @@ Artículo reformado DOF 04-12-1997 TITULO SEGUNDO DE LOS DERECHOS Y OBLIGACIONES
 
 ### ARTÍCULO 17
 .- Los habitantes del Distrito Federal, en los términos y condiciones que las leyes establezcan, tienen derecho a:
+
 I. La protección de las leyes, reglamentos y demás normas jurídicas que rijan en el mismo;
+
 II. La prestación de los servicios públicos;
+
 III. Utilizar los bienes de uso común conforme a su naturaleza y destino;
+
 IV. Ser indemnizados por los daños y perjuicios causados por los servidores públicos de la entidad, de conformidad con lo establecido en la legislación civil y en la Ley Federal de Responsabilidades de los Servidores Públicos.
+
 V. Ser informados sobre las leyes y decretos que emitan la Asamblea Legislativa y el Congreso de la Unión, respecto de las materias relativas al Distrito Federal; reglamentos y demás actos administrativos de carácter general que expidan el Presidente de la República y el Jefe de Gobierno así como sobre la realización de obras y prestación de servicios públicos e instancias para presentar quejas y denuncias relacionadas con los mismos y con los servidores públicos responsables.
 Fracción reformada DOF 04-12-1997
 
@@ -125,11 +172,16 @@ CAPITULO II DE LOS DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 
 ### ARTÍCULO 20
 .- Los ciudadanos del Distrito Federal tienen derecho a:
+
 I. Votar y ser votados, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de este Estatuto y de las leyes de la materia, para los cargos de representación popular, así como votar en las consultas populares y demás mecanismos de participación ciudadana.
 El derecho de solicitar el registro de candidatos a cargos de elección popular ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación.
 Los ciudadanos del Distrito Federal que residan en el extranjero podrán ejercer su derecho al voto para la elección del Jefe de Gobierno del Distrito Federal, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de este Estatuto y de las leyes de la materia;
+
 II. La preferencia, en igualdad de circunstancias, para ocupar cargos, empleos o desempeñar comisiones de carácter público cuando cumplan con los requisitos que establezcan las leyes;
-III. Iniciar leyes ante la Asamblea Legislativa del Distrito Federal, en los términos y con los requisitos que señalen este Estatuto y las leyes, y IV. Los demás que establezcan este Estatuto y las leyes.
+
+III. Iniciar leyes ante la Asamblea Legislativa del Distrito Federal, en los términos y con los requisitos que señalen este Estatuto y las leyes, y
+
+IV. Los demás que establezcan este Estatuto y las leyes.
 Artículo reformado DOF 04-12-1997, 27-06-2014
 
 ### ARTÍCULO 21
@@ -143,17 +195,33 @@ Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 23
 .- Son obligaciones de los ciudadanos del Distrito Federal:
+
 I. Votar en las elecciones, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de este Estatuto y de las leyes, para los cargos de representación popular, así como en los mecanismos de participación ciudadana;
-Fracción reformada DOF 04-12-1997, 27-06-2014 II. Inscribirse en los padrones de contribuyentes del Distrito Federal;
+Fracción reformada DOF 04-12-1997, 27-06-2014
+
+II. Inscribirse en los padrones de contribuyentes del Distrito Federal;
+
 III. Desempeñar los cargos de representación popular del Distrito Federal, para los cuales fueren electos, los que en ningún caso serán gratuitos;
+
 IV. Derogada.
-Fracción derogada DOF 04-12-1997 V. Proporcionar la información requerida en los censos efectuados por las autoridades; y VI. Las demás que establezcan la Constitución Política de los Estados Unidos Mexicanos y otros ordenamientos.
+Fracción derogada DOF 04-12-1997
+
+V. Proporcionar la información requerida en los censos efectuados por las autoridades; y
+
+VI. Las demás que establezcan la Constitución Política de los Estados Unidos Mexicanos y otros ordenamientos.
 TITULO TERCERO DE LAS ATRIBUCIONES DE LOS PODERES DE LA UNION PARA EL GOBIERNO DEL DISTRITO FEDERAL CAPITULO I DEL CONGRESO DE LA UNION
 
 ### ARTÍCULO 24
 .- Corresponde al Congreso de la Unión:
+
 I. Legislar en lo relativo al Distrito Federal, con excepción de las materias expresamente conferidas por la Constitución Política de los Estados Unidos Mexicanos a la Asamblea Legislativa del Distrito Federal;
-Fracción reformada DOF 04-12-1997 II. Aprobar anualmente los montos de endeudamiento que deberán incluirse en la Ley de Ingresos del Distrito Federal, que en su caso requieran el Gobierno del Distrito Federal y las entidades de su sector público, conforme a lo dispuesto por la Ley General de Deuda Pública; y III. Dictar las disposiciones generales que aseguren el debido, oportuno y eficaz funcionamiento de los Poderes de la Unión en el ámbito del Distrito Federal; y Fracción reformada DOF 04-12-1997 IV. Las demás atribuciones que en lo relativo al Distrito Federal le señale la Constitución Política de los Estados Unidos Mexicanos, el presente Estatuto y las leyes que expida el propio Congreso de la Unión.
+Fracción reformada DOF 04-12-1997
+
+II. Aprobar anualmente los montos de endeudamiento que deberán incluirse en la Ley de Ingresos del Distrito Federal, que en su caso requieran el Gobierno del Distrito Federal y las entidades de su sector público, conforme a lo dispuesto por la Ley General de Deuda Pública; y
+
+III. Dictar las disposiciones generales que aseguren el debido, oportuno y eficaz funcionamiento de los Poderes de la Unión en el ámbito del Distrito Federal; y Fracción reformada DOF 04-12-1997
+
+IV. Las demás atribuciones que en lo relativo al Distrito Federal le señale la Constitución Política de los Estados Unidos Mexicanos, el presente Estatuto y las leyes que expida el propio Congreso de la Unión.
 Fracción adicionada DOF 04-12-1997
 
 ### ARTÍCULO 25
@@ -182,22 +250,49 @@ Artículo derogado DOF 04-12-1997
 
 ### ARTÍCULO 31
 .- Para acudir ante la Suprema Corte de Justicia de la Nación en el procedimiento a que se refiere el artículo 29, será necesario que:
-Párrafo reformado DOF 04-12-1997 I. La Asamblea Legislativa así lo acuerde en la sesión respectiva;
-Fracción reformada DOF 04-12-1997 II. El Tribunal Superior de Justicia del Distrito Federal, lo acuerde por las dos terceras partes de los magistrados que conforman el Pleno; o III. El Jefe de Gobierno del Distrito Federal, así lo determine por declaratoria fundada y motivada.
+Párrafo reformado DOF 04-12-1997
+
+I. La Asamblea Legislativa así lo acuerde en la sesión respectiva;
+Fracción reformada DOF 04-12-1997
+
+II. El Tribunal Superior de Justicia del Distrito Federal, lo acuerde por las dos terceras partes de los magistrados que conforman el Pleno; o
+
+III. El Jefe de Gobierno del Distrito Federal, así lo determine por declaratoria fundada y motivada.
 Fracción reformada DOF 04-12-1997 CAPITULO III DEL PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS
 
 ### ARTÍCULO 32
 .- Corresponde al Presidente de los Estados Unidos Mexicanos:
+
 I. Proponer al Senado, en caso de remoción del Jefe de Gobierno del Distrito Federal, un sustituto que concluya el mandato, en los términos que disponen la Constitución Política de los Estados Unidos Mexicanos y el presente Estatuto;
-Fracción reformada DOF 04-12-1997 II. Iniciar leyes o decretos ante el Congreso de la Unión en las materias competencia de éste relativas al Gobierno del Distrito Federal;
-Fracción reformada DOF 04-12-1997 III. Enviar anualmente al Congreso de la Unión, la propuesta de los montos de endeudamiento necesarios para el financiamiento del Presupuesto de Egresos del Distrito Federal;
-Fracción reformada DOF 04-12-1997 IV. Informar anualmente al Congreso de la Unión sobre el ejercicio de los recursos a que se refiere la fracción anterior, al rendir la Cuenta Pública;
-Fracción reformada DOF 04-12-1997 V. Proveer en la esfera administrativa a la exacta observancia de las leyes y decretos relativos al Gobierno del Distrito Federal que sean expedidos por el Congreso de la Unión; y Fracción reformada DOF 04-12-1997 VI. Ejercer las demás atribuciones que le señalen la Constitución Política de los Estados Unidos Mexicanos, este Estatuto y las leyes.
-Fracción reformada DOF 04-12-1997 VII. (Se deroga).
-Fracción derogada DOF 04-12-1997 VIII. (Se deroga).
-Fracción derogada DOF 04-12-1997 IX. (Se deroga).
-Fracción derogada DOF 04-12-1997 X. (Se deroga).
-Fracción derogada DOF 04-12-1997 XI. (Se deroga).
+Fracción reformada DOF 04-12-1997
+
+II. Iniciar leyes o decretos ante el Congreso de la Unión en las materias competencia de éste relativas al Gobierno del Distrito Federal;
+Fracción reformada DOF 04-12-1997
+
+III. Enviar anualmente al Congreso de la Unión, la propuesta de los montos de endeudamiento necesarios para el financiamiento del Presupuesto de Egresos del Distrito Federal;
+Fracción reformada DOF 04-12-1997
+
+IV. Informar anualmente al Congreso de la Unión sobre el ejercicio de los recursos a que se refiere la fracción anterior, al rendir la Cuenta Pública;
+Fracción reformada DOF 04-12-1997
+
+V. Proveer en la esfera administrativa a la exacta observancia de las leyes y decretos relativos al Gobierno del Distrito Federal que sean expedidos por el Congreso de la Unión; y Fracción reformada DOF 04-12-1997
+
+VI. Ejercer las demás atribuciones que le señalen la Constitución Política de los Estados Unidos Mexicanos, este Estatuto y las leyes.
+Fracción reformada DOF 04-12-1997
+
+VII. (Se deroga).
+Fracción derogada DOF 04-12-1997
+
+VIII. (Se deroga).
+Fracción derogada DOF 04-12-1997
+
+IX. (Se deroga).
+Fracción derogada DOF 04-12-1997
+
+X. (Se deroga).
+Fracción derogada DOF 04-12-1997
+
+XI. (Se deroga).
 Fracción derogada DOF 04-12-1997
 
 ### ARTÍCULO 33
@@ -207,16 +302,29 @@ Artículo reformado DOF 04-12-1997
 ### ARTÍCULO 34
 .- Corresponde al Presidente de la República el mando de la fuerza pública en el Distrito Federal y la designación del servidor público que la tenga a su cargo, a propuesta del Jefe de Gobierno del Distrito Federal. El servidor público que tenga el mando directo de la fuerza pública en el Distrito Federal podrá ser removido libremente por el Presidente de la República o a solicitud del Jefe de Gobierno del Distrito Federal.
 El servidor público que tenga a su cargo el mando directo de la fuerza pública en el Distrito Federal, deberá cumplir los siguientes requisitos:
+
 I. Ser ciudadano mexicano por nacimiento;
+
 II. Tener cuando menos treinta y cinco años al día del nombramiento;
-III. Tener residencia efectiva de tres años inmediatamente anteriores al día del nombramiento, si es originario del Distrito Federal o de cinco años ininterrumpidos para los nacidos en otra entidad; y IV. No haber sido sentenciado por delito intencional que merezca pena corporal.
+
+III. Tener residencia efectiva de tres años inmediatamente anteriores al día del nombramiento, si es originario del Distrito Federal o de cinco años ininterrumpidos para los nacidos en otra entidad; y
+
+IV. No haber sido sentenciado por delito intencional que merezca pena corporal.
 Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 35
 .- El Presidente de la República será informado permanentemente por el Jefe de Gobierno del Distrito Federal respecto de la situación que guarda la fuerza pública en la Ciudad, sin perjuicio de:
-I. Para mantener el orden público y garantizar la seguridad de las personas y sus bienes, podrá instruir al Jefe de Gobierno del Distrito Federal sobre: a) La disposición de la fuerza pública; y b) El ejercicio de funciones de seguridad pública.
+
+I. Para mantener el orden público y garantizar la seguridad de las personas y sus bienes, podrá instruir al Jefe de Gobierno del Distrito Federal sobre:
+
+a) La disposición de la fuerza pública; y
+
+b) El ejercicio de funciones de seguridad pública.
 En el caso de que el Jefe de Gobierno se abstenga, incumpla, contravenga o no acate las instrucciones del Presidente de la República, éste podrá instruir directamente a los cuerpos de seguridad pública;
-II. Solicitar al servidor público que ejerza el mando directo de la fuerza pública y al Procurador General de Justicia del Distrito Federal, información sobre la situación que guarde la fuerza pública a su cargo; y III. Ejercer las demás facultades que le corresponden como titular del mando de la fuerza pública que le otorga la Constitución Política de los Estados Unidos Mexicanos.
+
+II. Solicitar al servidor público que ejerza el mando directo de la fuerza pública y al Procurador General de Justicia del Distrito Federal, información sobre la situación que guarde la fuerza pública a su cargo; y
+
+III. Ejercer las demás facultades que le corresponden como titular del mando de la fuerza pública que le otorga la Constitución Política de los Estados Unidos Mexicanos.
 Artículo reformado DOF 04-12-1997 TITULO CUARTO DE LAS BASES DE LA ORGANIZACION Y FACULTADES DE LOS ORGANOS LOCALES DE GOBIERNO DEL DISTRITO FEDERAL
 
 ## CAPÍTULO I
@@ -231,33 +339,67 @@ Artículo reformado DOF 04-12-1997
 Párrafo reformado DOF 28-04-2008, 27-06-2014 Los diputados a la Asamblea Legislativa serán electos cada tres años y por cada propietario se elegirá un suplente del mismo género.
 Párrafo reformado DOF 27-06-2014 La Asamblea Legislativa podrá expedir convocatorias para elecciones extraordinarias con el fin de cubrir las vacantes de sus miembros electos por mayoría relativa. Las vacantes de sus miembros electos por el principio de representación proporcional, serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
 Son requisitos para ser diputado a la Asamblea Legislativa del Distrito Federal:
+
 I. Ser ciudadano mexicano por nacimiento, en el ejercicio de sus derechos;
+
 II. Tener veintiún años cumplidos el día de la elección;
+
 III. Ser originario del Distrito Federal o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de la elección;
+
 IV. No estar en servicio activo en el Ejército ni tener mando en la policía del Distrito Federal, cuando menos noventa días antes de la elección;
+
 V. No ser Secretario o Subsecretario de Estado, Procurador General de la República, Ministro de la Suprema Corte de Justicia de la Nación o miembro del Consejo de la Judicatura Federal a menos que se haya separado definitivamente de sus funciones, noventa días antes de la elección en el caso de los primeros y dos años en el caso de los Ministros;
+
 VI. No ser Magistrado de Circuito o Juez de Distrito en el Distrito Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
+
 VII. No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Distrito Federal, ni miembro del Consejo de la Judicatura del Distrito Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
+
 VIII. No ser Jefe de Gobierno del Distrito Federal, ni titular de órgano político-administrativo, dependencia, unidad administrativa, órgano desconcentrado o entidad paraestatal de la Administración Pública del Distrito Federal, ni Procurador General de Justicia del Distrito Federal a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
-Fracción reformada DOF 27-06-2014 IX. No ser ministro de culto religioso, a no ser que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley, y Fracción reformada DOF 27-06-2014 X. No haber sido Consejero Presidente o Consejero del Consejo General del Instituto Electoral del Distrito Federal, o Magistrado Presidente o Magistrado del Tribunal Electoral del Distrito Federal, a menos que haya concluido su encargo o se haya separado del mismo, al menos tres años antes de la fecha de inicio del proceso electoral local correspondiente.
+Fracción reformada DOF 27-06-2014
+
+IX. No ser ministro de culto religioso, a no ser que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley, y Fracción reformada DOF 27-06-2014
+
+X. No haber sido Consejero Presidente o Consejero del Consejo General del Instituto Electoral del Distrito Federal, o Magistrado Presidente o Magistrado del Tribunal Electoral del Distrito Federal, a menos que haya concluido su encargo o se haya separado del mismo, al menos tres años antes de la fecha de inicio del proceso electoral local correspondiente.
 Fracción adicionada DOF 27-06-2014 La elección de los diputados según el principio de representación proporcional y el sistema de listas en una sola circunscripción plurinominal, se sujetará a las siguientes bases y a lo que en particular disponga la Ley:
-Párrafo reformado DOF 28-04-2008 a) Un partido político para obtener el registro de su lista de candidatos a diputados a la Asamblea Legislativa del Distrito Federal, deberá acreditar que participa con candidatos por mayoría relativa en todos los distritos uninominales del Distrito Federal.
-Inciso reformado DOF 28-04-2008 b) Los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, hasta cinco fórmulas de candidatos a diputados a la Asamblea Legislativa por mayoría relativa y por representación proporcional.
-Inciso reformado DOF 28-04-2008 c) La aplicación de una fórmula de proporcionalidad pura determinará el número de diputados que corresponda a cada partido por este principio.
-Inciso adicionado DOF 28-04-2008 d) El partido político que por sí solo alcance por lo menos el tres por ciento del total de la votación válida emitida, tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional, conforme a lo siguiente:
+Párrafo reformado DOF 28-04-2008
+
+a) Un partido político para obtener el registro de su lista de candidatos a diputados a la Asamblea Legislativa del Distrito Federal, deberá acreditar que participa con candidatos por mayoría relativa en todos los distritos uninominales del Distrito Federal.
+Inciso reformado DOF 28-04-2008
+
+b) Los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, hasta cinco fórmulas de candidatos a diputados a la Asamblea Legislativa por mayoría relativa y por representación proporcional.
+Inciso reformado DOF 28-04-2008
+
+c) La aplicación de una fórmula de proporcionalidad pura determinará el número de diputados que corresponda a cada partido por este principio.
+Inciso adicionado DOF 28-04-2008
+
+d) El partido político que por sí solo alcance por lo menos el tres por ciento del total de la votación válida emitida, tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional, conforme a lo siguiente:
 Párrafo reformado DOF 27-06-2014 Los partidos políticos registrarán una lista parcial de trece fórmulas de candidatos a diputados por el principio de representación proporcional, lista "A". Los otros trece espacios de la lista de representación proporcional, lista "B", serán dejados en blanco para ser ocupados, en su momento, por las fórmulas de candidatos que surjan de la competencia en los distritos y que no hubieran obtenido el triunfo, pero hubieran alcanzado los más altos porcentajes de votación distrital, comparados con otras fórmulas de su propio partido para esa misma elección.
 Las listas de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
 Párrafo adicionado DOF 27-06-2014 El orden en que se conformará la lista definitiva de diputados que corresponda a cada partido o coalición bajo el principio de representación proporcional, se hará intercalando las listas "A" y "B", iniciando por la primera fórmula registrada en la lista "A", seguida por la primera fórmula de la lista "B" y así sucesivamente hasta agotar el número de diputaciones asignadas a cada partido o coalición.
 En el supuesto de que alguna de las fórmulas aparezca tanto en la lista "A", como en la "B", con derecho a la asignación de una diputación de representación proporcional se le otorgará el lugar en el que esté mejor posicionada. El lugar que dicha fórmula deje vacante, será ocupado por la fórmula siguiente en el orden de prelación de la lista "A".
 Tratándose de coaliciones y candidaturas comunes, la Ley desarrollará el procedimiento correspondiente considerando lo señalado en los incisos anteriores.
 Inciso adicionado DOF 28-04-2008 En todo caso, para la asignación de diputados por el principio de representación proporcional se observarán las siguientes reglas:
-Párrafo reformado DOF 28-04-2008 a) Ningún partido político podrá contar con más de cuarenta diputados electos por ambos principios.
-Inciso reformado DOF 28-04-2008 b) Todo partido político que alcance por lo menos el tres por ciento del total de la votación válida emitida tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional.
-Inciso reformado DOF 27-06-2014 c) Se deroga.
-Inciso derogado DOF 27-06-2014 d) En ningún caso un partido político podrá contar con un número de diputados, por ambos principios, que represente un porcentaje del total de la Asamblea Legislativa que exceda en ocho puntos a su porcentaje de votación válida emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Asamblea Legislativa, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
-Inciso adicionado DOF 28-04-2008. Reformado DOF 27-06-2014 e) Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido.
-Inciso adicionado DOF 27-06-2014 f) Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional conforme a la fórmula establecida en la ley.
-Inciso adicionado DOF 27-06-2014 g) En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación. Esta fórmula se aplicará una vez que le sea asignado un diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
+Párrafo reformado DOF 28-04-2008
+
+a) Ningún partido político podrá contar con más de cuarenta diputados electos por ambos principios.
+Inciso reformado DOF 28-04-2008
+
+b) Todo partido político que alcance por lo menos el tres por ciento del total de la votación válida emitida tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional.
+Inciso reformado DOF 27-06-2014
+
+c) Se deroga.
+Inciso derogado DOF 27-06-2014
+
+d) En ningún caso un partido político podrá contar con un número de diputados, por ambos principios, que represente un porcentaje del total de la Asamblea Legislativa que exceda en ocho puntos a su porcentaje de votación válida emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Asamblea Legislativa, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
+Inciso adicionado DOF 28-04-2008. Reformado DOF 27-06-2014
+
+e) Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido.
+Inciso adicionado DOF 27-06-2014
+
+f) Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional conforme a la fórmula establecida en la ley.
+Inciso adicionado DOF 27-06-2014
+
+g) En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación. Esta fórmula se aplicará una vez que le sea asignado un diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
 Inciso adicionado DOF 27-06-2014 Los diputados a la Asamblea Legislativa podrán ser electos hasta por cuatro periodos consecutivos.
 La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 Párrafo reformado DOF 28-04-2008 (publicado nuevamente como en DOF 04-12-1997). Reformado DOF 27-06-2014 Para efecto de lo dispuesto en el párrafo anterior, si los diputados suplentes entran en ejercicio en cualquier tiempo se considerará que han agotado el periodo correspondiente.
@@ -280,35 +422,69 @@ Artículo reformado DOF 04-12-1997 SECCION I DE LAS FACULTADES DE LA ASAMBLEA
 
 ### ARTÍCULO 42
 .- La Asamblea Legislativa tiene facultades para:
+
 I. Expedir su Ley Orgánica que regulará su estructura y funcionamiento internos, que será enviada al Jefe de Gobierno del Distrito Federal, para el sólo efecto de que ordene su publicación;
+
 II. Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto.
 Al aprobar el Presupuesto de Egresos no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley; y en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la ley que estableció el empleo.
 Dentro de la Ley de Ingresos no podrán incorporarse montos de endeudamiento superiores a los que haya autorizado previamente el Congreso de la Unión para el financiamiento del Presupuesto de Egresos del Distrito Federal.
 Las leyes federales no limitarán la facultad del Distrito Federal para establecer contribuciones sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles incluyendo tasas adicionales, ni sobre los servicios públicos a su cargo. Tampoco considerarán a personas como no sujetos de contribuciones ni establecerán exenciones, subsidios o regímenes fiscales especiales en favor de personas físicas y morales ni de instituciones oficiales o privadas en relación con dichas contribuciones. Las leyes del Distrito Federal no establecerán exenciones o subsidios respecto a las mencionadas contribuciones en favor de personas físicas o morales ni de instituciones oficiales o privadas.
 Sólo los bienes del dominio público de la Federación y del Distrito Federal estarán exentos de las contribuciones señaladas;
+
 III. Formular su proyecto de presupuesto que enviará oportunamente al Jefe de Gobierno del Distrito Federal para que éste ordene su incorporación en el Proyecto de Presupuesto de Egresos del Distrito Federal;
+
 IV. Determinar la ampliación del plazo de presentación de las Iniciativas de Leyes de Ingresos y del Proyecto de Presupuesto de Egresos, así como de la Cuenta Pública, cuando medie solicitud del Jefe de Gobierno del Distrito Federal suficientemente justificada a juicio de la propia Asamblea;
+
 V. Formular observaciones al programa general de desarrollo del Distrito Federal que le remita el Jefe de Gobierno del Distrito Federal para su examen y opinión;
+
 VI. Expedir la Ley Orgánica de los tribunales encargados de la función judicial del fuero común en el Distrito Federal, que incluirá lo relativo a las responsabilidades de los servidores públicos de dichos órganos;
+
 VII. Expedir la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Distrito Federal, la cual regulará su organización y funcionamiento, su competencia, el procedimiento, los recursos contra sus resoluciones y la forma de integrar su jurisprudencia;
+
 VIII. Iniciar leyes o decretos relativos al Distrito Federal, ante el Congreso de la Unión;
+
 IX. Expedir las disposiciones legales para organizar la hacienda pública, la contaduría mayor y el presupuesto, la contabilidad y el gasto público del Distrito Federal;
+
 X. Expedir las disposiciones que rijan las elecciones locales en el Distrito Federal para Jefe de Gobierno, diputados a la Asamblea Legislativa y titulares de los órganos político-administrativos de las demarcaciones territoriales;
+
 XI. Legislar en materia de administración pública local, su régimen interno y de procedimientos administrativos;
+
 XII. Legislar en las materias civil y penal, normar el organismo protector de los derechos humanos, participación ciudadana, defensoría de oficio, notariado y registro público de la propiedad y de comercio;
+
 XIII. Normar la protección civil; justicia cívica sobre faltas de policía y buen gobierno; los servicios de seguridad prestados por empresas privadas; la prevención y la readaptación social; la salud; la asistencia social; y la previsión social;
+
 XIV. Legislar en materia de planeación del desarrollo; en desarrollo urbano, particularmente en el uso del suelo; preservación del medio ambiente y protección ecológica; vivienda; construcciones y edificaciones; vías públicas, tránsito y estacionamientos; adquisiciones y obras públicas; y sobre explotación, uso y aprovechamiento de los bienes del patrimonio del Distrito Federal;
+
 XV. Regular la prestación y la concesión de los servicios públicos; legislar sobre los servicios de transporte urbano, de limpia, turismo y servicios de alojamiento, mercados, rastros y abasto, y cementerios;
+
 XVI. Expedir normas sobre fomento económico y protección al empleo; desarrollo agropecuario; establecimientos mercantiles; protección de animales; espectáculos públicos; fomento cultural, cívico y deportivo; y función social educativa en los términos de la fracción VIII del artículo tercero de la Constitución Política de los Estados Unidos Mexicanos;
-XVII. Recibir, durante el segundo periodo de sesiones ordinarias y con presencia ante su pleno, los informes por escrito de resultados anuales de las acciones de: a) El Procurador General de Justicia del Distrito Federal; b) El servidor público que tenga a su cargo el mando directo de la fuerza pública en el Distrito Federal; c) El Presidente de la Comisión de Derechos Humanos del Distrito Federal; y d) El Contralor General de la Administración Pública del Distrito Federal;
+
+XVII. Recibir, durante el segundo periodo de sesiones ordinarias y con presencia ante su pleno, los informes por escrito de resultados anuales de las acciones de:
+
+a) El Procurador General de Justicia del Distrito Federal;
+
+b) El servidor público que tenga a su cargo el mando directo de la fuerza pública en el Distrito Federal;
+
+c) El Presidente de la Comisión de Derechos Humanos del Distrito Federal; y
+
+d) El Contralor General de la Administración Pública del Distrito Federal;
+
 XVIII. Citar a servidores públicos de la Administración Pública del Distrito Federal para que informen al pleno o a las comisiones cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos y actividades;
+
 XIX. Revisar la Cuenta Pública del año anterior que le remita el Jefe de Gobierno del Distrito Federal en los términos de este Estatuto y demás disposiciones aplicables;
+
 XX. Analizar los informes trimestrales que le envíe el Jefe de Gobierno del Distrito Federal, sobre la ejecución y cumplimiento de los presupuestos y programas aprobados. Los resultados de dichos análisis, se considerarán para la revisión de la Cuenta Pública que realice la Contaduría Mayor de Hacienda de la propia Asamblea;
+
 XXI. Aprobar las solicitudes de licencia de sus miembros para separarse de su encargo;
+
 XXII. Conocer de la renuncia del Jefe de Gobierno del Distrito Federal, la que sólo podrá aceptarse por causas graves, y aprobar sus licencias;
+
 XXIII. Designar en caso de falta absoluta del Jefe de Gobierno del Distrito Federal, por renuncia o cualquier otra causa, un sustituto que termine el encargo;
+
 XXIV. Decidir sobre las propuestas que haga el Jefe de Gobierno del Distrito Federal de Magistrados del Tribunal Superior de Justicia del Distrito Federal y ratificar los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo del Distrito Federal;
+
 XXV. Comunicarse con los otros órganos locales de gobierno, con la Procuraduría General de Justicia del Distrito Federal, con la Comisión de Derechos Humanos del Distrito Federal, así como con cualquiera otra dependencia o entidad por conducto de su mesa directiva, la Comisión de Gobierno o sus órganos internos de trabajo, según el caso, de conformidad con lo que dispongan las leyes correspondientes;
+
 XXVI. Otorgar reconocimientos a quienes hayan prestado servicios eminentes a la Ciudad, a la Nación o a la Humanidad; y XXVII.- Remover a los Jefes Delegacionales, por las causas graves que establece el presente Estatuto, con el voto de las dos terceras partes de los diputados que integren la Legislatura.
 La solicitud de remoción podrá ser presentada por el Jefe de Gobierno o por los diputados de la Asamblea Legislativa, en este caso se requerirá que la solicitud sea presentada, al menos, por un tercio de los integrantes de la legislatura. La solicitud de remoción deberá presentarse ante la Asamblea debidamente motivada y acompañarse de los elementos probatorios que permitan establecer la probable responsabilidad.
 Fracción reformada DOF 14-10-1999 XXVIII.- Designar, a propuesta del Jefe de Gobierno, por el voto de la mayoría absoluta de los diputados integrantes de la Legislatura, a los sustitutos que concluyan el periodo del encargo en caso de ausencia definitiva de los Jefes Delegacionales;
@@ -332,16 +508,34 @@ Artículo reformado DOF 04-12-1997 SECCION II DE LA INICIATIVA Y FORMACION DE LA
 
 ### ARTÍCULO 46
 .- El derecho de iniciar leyes y decretos ante la Asamblea Legislativa del Distrito Federal corresponde:
-Párrafo reformado DOF 04-12-1997 I. A los diputados de la Asamblea Legislativa del Distrito Federal;
-Fracción reformada DOF 04-12-1997 II. Al Tribunal Superior de Justicia del Distrito Federal, en todo lo relacionado con la organización y funcionamiento de la administración de justicia;
-Fracción derogada DOF 04-12-1997. Adicionada DOF 07-01-2013 III. Al Jefe de Gobierno del Distrito Federal.
-La facultad de iniciativa respecto de la Ley de Ingresos y el Presupuesto de Egresos corresponde exclusivamente al Jefe de Gobierno del Distrito Federal; y Fracción reformada DOF 04-12-1997 IV. A través de la iniciativa popular, los ciudadanos del Distrito Federal podrán presentar a la Asamblea Legislativa, proyectos de leyes respecto de las materias de la competencia legislativa de la misma, de conformidad con las siguientes bases: a) No podrán ser objeto de iniciativa popular las siguientes materias: 1. Tributaria o fiscal así como de Egresos del Distrito Federal; 2. Régimen interno de la Administración Pública del Distrito Federal; 3. Regulación interna de la Asamblea Legislativa y de su Contaduría Mayor de Hacienda; 4. Regulación interna de los tribunales de justicia del fuero común del Distrito Federal; y 5. Las demás que determinen las leyes. b) Una comisión especial integrada por miembros de las comisiones competentes en la materia de la propuesta, verificará el cumplimiento de los requisitos que la ley respectiva establezca, en caso contrario desechará de plano la iniciativa presentada. c) No se admitirá iniciativa popular alguna que haya sido declarada improcedente o rechazada por la Asamblea Legislativa.
+Párrafo reformado DOF 04-12-1997
+
+I. A los diputados de la Asamblea Legislativa del Distrito Federal;
+Fracción reformada DOF 04-12-1997
+
+II. Al Tribunal Superior de Justicia del Distrito Federal, en todo lo relacionado con la organización y funcionamiento de la administración de justicia;
+Fracción derogada DOF 04-12-1997. Adicionada DOF 07-01-2013
+
+III. Al Jefe de Gobierno del Distrito Federal.
+La facultad de iniciativa respecto de la Ley de Ingresos y el Presupuesto de Egresos corresponde exclusivamente al Jefe de Gobierno del Distrito Federal; y Fracción reformada DOF 04-12-1997
+
+IV. A través de la iniciativa popular, los ciudadanos del Distrito Federal podrán presentar a la Asamblea Legislativa, proyectos de leyes respecto de las materias de la competencia legislativa de la misma, de conformidad con las siguientes bases:
+
+a) No podrán ser objeto de iniciativa popular las siguientes materias: 1. Tributaria o fiscal así como de Egresos del Distrito Federal; 2. Régimen interno de la Administración Pública del Distrito Federal; 3. Regulación interna de la Asamblea Legislativa y de su Contaduría Mayor de Hacienda; 4. Regulación interna de los tribunales de justicia del fuero común del Distrito Federal; y 5. Las demás que determinen las leyes.
+
+b) Una comisión especial integrada por miembros de las comisiones competentes en la materia de la propuesta, verificará el cumplimiento de los requisitos que la ley respectiva establezca, en caso contrario desechará de plano la iniciativa presentada.
+
+c) No se admitirá iniciativa popular alguna que haya sido declarada improcedente o rechazada por la Asamblea Legislativa.
 Fracción adicionada DOF 04-12-1997
 
 ### ARTÍCULO 47
 .- Las leyes de la Asamblea Legislativa que regulen la organización y funciones de la Administración Pública del Distrito Federal, deberán contener normas relativas a:
+
 I. El servicio público de carrera y la especialización en las funciones, que tiendan a garantizar la eficacia y la atención técnica del funcionamiento de los servicios públicos de la Ciudad;
-II. La administración eficiente, eficaz y honrada de los recursos económicos y demás bienes de que disponga el gobierno del Distrito Federal, para satisfacer los objetivos públicos a los que estén destinados; y III. La observancia de los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia a que se sujeta el servicio público.
+
+II. La administración eficiente, eficaz y honrada de los recursos económicos y demás bienes de que disponga el gobierno del Distrito Federal, para satisfacer los objetivos públicos a los que estén destinados; y
+
+III. La observancia de los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia a que se sujeta el servicio público.
 Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 48
@@ -359,10 +553,18 @@ Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 51
 .- En los recesos de la Asamblea Legislativa del Distrito Federal, la Comisión de Gobierno, además de las atribuciones que le confiera la Ley Orgánica de la propia Asamblea, tendrá las siguientes:
-Párrafo reformado DOF 04-12-1997 I. Derogada.
-Fracción derogada DOF 04-12-1997 II. Acordar a petición del Jefe de Gobierno del Distrito Federal, o por excitativa de la mitad más uno de los Diputados que la integran, la convocatoria a sesiones extraordinarias de la Asamblea Legislativa. La convocatoria precisará por escrito, el asunto o asuntos que deba resolver el pleno de la Asamblea y las razones que la justifiquen.
+Párrafo reformado DOF 04-12-1997
+
+I. Derogada.
+Fracción derogada DOF 04-12-1997
+
+II. Acordar a petición del Jefe de Gobierno del Distrito Federal, o por excitativa de la mitad más uno de los Diputados que la integran, la convocatoria a sesiones extraordinarias de la Asamblea Legislativa. La convocatoria precisará por escrito, el asunto o asuntos que deba resolver el pleno de la Asamblea y las razones que la justifiquen.
 Para los casos en que la Asamblea Legislativa deba designar un Jefe de Gobierno sustituto que termine el encargo y no se hallare reunida, la Comisión de Gobierno convocará de inmediato a sesiones extraordinarias;
-Fracción reformada DOF 04-12-1997 III. Recibir las iniciativas de ley y proposiciones dirigidas a la Asamblea y turnarlas para dictamen a las comisiones de la Asamblea a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones; y IV. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los miembros de la Asamblea Legislativa.
+Fracción reformada DOF 04-12-1997
+
+III. Recibir las iniciativas de ley y proposiciones dirigidas a la Asamblea y turnarlas para dictamen a las comisiones de la Asamblea a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones; y
+
+IV. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los miembros de la Asamblea Legislativa.
 Fracción reformada DOF 04-12-1997
 
 ## CAPÍTULO II
@@ -377,17 +579,29 @@ Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 53
 .- Para ser Jefe de Gobierno del Distrito Federal, deberán reunirse los siguientes requisitos:
+
 I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos;
+
 II. Tener una residencia efectiva de tres años inmediatamente anteriores al día de la elección, si es originario del Distrito Federal o de cinco años ininterrumpidos para los nacidos en otra entidad.
 La residencia no se interrumpe por el desempeño de cargos públicos de la Federación en otro ámbito territorial;
+
 III. Tener cuando menos treinta años cumplidos al día de la elección;
+
 IV. No haber desempeñado el cargo de Jefe de Gobierno del Distrito Federal con cualquier carácter o denominación;
+
 V. No estar en servicio activo en el Ejército Federal ni tener mando de policía, cuando menos noventa días antes de la elección;
+
 VI. No ser Secretario ni Subsecretario de Estado, Jefe de Departamento Administrativo, Procurador General de la República, Ministro de la Suprema Corte de Justicia de la Nación, ni miembro del Consejo de la Judicatura Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección, en el caso de los primeros y dos años en el caso de los Ministros;
+
 VII. No ser Magistrado de Circuito o Juez de Distrito en el Distrito Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
+
 VIII. No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Distrito Federal, ni miembro del Consejo de la Judicatura del Distrito Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
+
 IX. No ser Secretario del Órgano Ejecutivo, Oficial Mayor, Contralor General, titular de órgano político administrativo, dependencia, unidad administrativa, órgano desconcentrado o entidad paraestatal de la Administración Pública del Distrito Federal, ni Procurador General de Justicia del Distrito Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
-X. No ser ministro de algún culto religioso, a no ser que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley; y XI. Las demás que establezcan las leyes y este Estatuto.
+
+X. No ser ministro de algún culto religioso, a no ser que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley; y
+
+XI. Las demás que establezcan las leyes y este Estatuto.
 Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 54
@@ -447,10 +661,16 @@ Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 66
 .- Son causas graves para la remoción del Jefe de Gobierno del Distrito Federal las siguientes:
+
 I. Invadir de manera reiterada y sistemática la esfera de competencia de los Poderes de la Unión;
+
 II. Abstenerse de ejecutar en forma reiterada y sistemática, o incurrir en contravención de actos legislativos, jurisdiccionales y administrativos que dicten los Poderes de la Unión;
+
 III. No brindar la debida protección a las instalaciones y depositarios de los Poderes Federales, cuando haya sido requerido para ello;
-IV. Utilizar la fuerza pública fuera de las facultades de dirección que en materia de seguridad pública le corresponden, afectando el orden público; y V. Las demás que determinen otras disposiciones legales y que afecten gravemente las relaciones con los Poderes de la Unión o el orden público.
+
+IV. Utilizar la fuerza pública fuera de las facultades de dirección que en materia de seguridad pública le corresponden, afectando el orden público; y
+
+V. Las demás que determinen otras disposiciones legales y que afecten gravemente las relaciones con los Poderes de la Unión o el orden público.
 Artículo reformado DOF 04-12-1997
 
 ## SECCIÓN II
@@ -458,49 +678,120 @@ DE LAS FACULTADES Y OBLIGACIONES DEL JEFE DE GOBIERNO DEL DISTRITO FEDERAL Denom
 
 ### ARTÍCULO 67
 .- Las facultades y obligaciones del Jefe de Gobierno del Distrito Federal son las siguientes:
+
 I. Iniciar leyes y decretos ante la Asamblea Legislativa;
+
 II. Promulgar, publicar y ejecutar las leyes y decretos que expida la Asamblea Legislativa, proveyendo en la esfera administrativa a su exacta observancia, mediante la expedición de reglamentos, decretos y acuerdos;
+
 III. Cumplir y ejecutar las leyes relativas que expida el Congreso de la Unión en la esfera y competencia del órgano ejecutivo a su cargo o de sus dependencias;
+
 IV. Formular proyectos de reglamentos sobre leyes del Congreso de la Unión relativas al Distrito Federal y vinculadas con las materias de su competencia, y someterlos a la consideración del Presidente de la República;
+
 V. Nombrar y remover libremente a los titulares de las unidades, órganos y dependencias de la Administración Pública del Distrito Federal, cuyo nombramiento o remoción no estén determinadas de otro modo en este Estatuto;
+
 VI. Nombrar y remover al Presidente de la Junta de Asistencia Privada del Distrito Federal, de acuerdo con lo que disponga la ley;
+
 VII. Nombrar y remover al Procurador General de Justicia del Distrito Federal en los términos de este Estatuto;
+
 VIII. Proponer Magistrados del Tribunal Superior de Justicia del Distrito Federal y designar los del Tribunal de lo Contencioso Administrativo del Distrito Federal y someter dichas propuestas y designaciones, según sea el caso, para su ratificación a la Asamblea Legislativa del Distrito Federal;
+
 IX. Proponer al Presidente de la República el nombramiento y en su caso la remoción del Presidente de la Junta Local de Conciliación y Arbitraje;
+
 X. Otorgar patentes de notario conforme a las disposiciones aplicables;
+
 XI. Solicitar a la Comisión de Gobierno de la Asamblea Legislativa convoque a sesiones extraordinarias;
+
 XII. Presentar a la Asamblea Legislativa del Distrito Federal a más tardar el día treinta de noviembre, la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos para el año inmediato siguiente, o hasta el día veinte de diciembre, cuando inicie su encargo en dicho mes.
 El Secretario encargado de las finanzas del Distrito Federal comparecerá ante la Asamblea Legislativa para explicar la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Distrito Federal para el año siguiente;
+
 XIII. Enviar a la Comisión de Gobierno de la Asamblea Legislativa la Cuenta Pública del año anterior;
+
 XIV. Someter a la consideración del Presidente de la República la propuesta de los montos de endeudamiento necesarios para el financiamiento del Presupuesto de Egresos del Distrito Federal en los términos que disponga la Ley General de Deuda Pública;
+
 XV. Informar al Presidente de la República sobre el ejercicio de los recursos correspondientes a los montos de endeudamiento del gobierno del Distrito Federal y de las entidades de su sector público e igualmente a la Asamblea Legislativa al rendir la Cuenta Pública;
+
 XVI. Formular el Programa General de Desarrollo del Distrito Federal;
+
 XVII. Presentar por escrito a la Asamblea Legislativa, a la apertura de su primer periodo ordinario de sesiones, el informe anual sobre el estado que guarde la administración pública del Distrito Federal;
+
 XVIII. Remitir a la Asamblea Legislativa dentro de los cuarenta y cinco días posteriores a la fecha del corte del periodo respectivo, los informes trimestrales sobre la ejecución y cumplimiento de los presupuestos y programas aprobados para la revisión de la Cuenta Pública del Distrito Federal;
+
 XIX. Ejercer actos de dominio sobre el patrimonio del Distrito Federal, de acuerdo con lo dispuesto en este Estatuto y las leyes correspondientes;
-XX. Ejercer las funciones de dirección de los servicios de seguridad pública, entre las que se encuentran las siguientes: a) Establecimiento de las políticas generales de seguridad pública para el Distrito Federal; b) El nombramiento y remoción libre de los servidores públicos de jerarquía inferior a las del servidor público que tenga a su cargo el mando directo de la fuerza pública del Distrito Federal; c) La determinación de la división del Distrito Federal en áreas geográficas de atención y el nombramiento y remoción libre de los servidores públicos responsables de las mismas; d) La creación de establecimientos de formación policial; y e) Las demás que determinen las leyes.
+
+XX. Ejercer las funciones de dirección de los servicios de seguridad pública, entre las que se encuentran las siguientes:
+
+a) Establecimiento de las políticas generales de seguridad pública para el Distrito Federal;
+
+b) El nombramiento y remoción libre de los servidores públicos de jerarquía inferior a las del servidor público que tenga a su cargo el mando directo de la fuerza pública del Distrito Federal;
+
+c) La determinación de la división del Distrito Federal en áreas geográficas de atención y el nombramiento y remoción libre de los servidores públicos responsables de las mismas;
+
+d) La creación de establecimientos de formación policial; y
+
+e) Las demás que determinen las leyes.
 Las bases de integración de los servicios de seguridad pública en la organización de la administración pública, se establecerán de acuerdo con las leyes que en la materia expidan el Congreso de la Unión y la Asamblea Legislativa, en el ámbito de sus respectivas competencias.
 Se normará el desempeño de los servicios de seguridad pública tomando en cuenta sus caracteres específicos en tanto cuerpos armados de naturaleza civil, garantes de los derechos, de la integridad física y patrimonial de la población. Sin perjuicio de lo establecido en las leyes que prevengan responsabilidades de los servidores públicos, las leyes respectivas contendrán un código que establezca los derechos y obligaciones específicos del servicio y los procedimientos para aplicar las medidas disciplinarias necesarias a efecto de mantener el orden y la integridad del mismo, conforme a los principios de honestidad, eficacia y legalidad en su prestación.
 Los servicios privados de seguridad son auxiliares de la función de seguridad pública. Sus integrantes coadyuvarán con las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva;
+
 XXI. Administrar los establecimientos de arresto, prisión preventiva y de readaptación social de carácter local, así como ejecutar las sentencias penales por delitos del fuero común;
+
 XXII. Facilitar al Tribunal Superior de Justicia y a la Asamblea Legislativa los auxilios necesarios para el ejercicio expedito de sus funciones;
+
 XXIII. Informar a la Asamblea Legislativa por escrito, por conducto del secretario del ramo, sobre los asuntos de la administración, cuando la misma Asamblea lo solicite;
+
 XXIV. Administrar la hacienda pública del Distrito Federal con apego a las disposiciones de este Estatuto, leyes y reglamentos de la materia;
+
 XXV. Celebrar convenios de coordinación con la Federación, Estados y Municipios, y de concertación con los sectores social y privado;
+
 XXVI. Dirigir la planeación y ordenamiento del desarrollo urbano del Distrito Federal, en los términos de las leyes;
-XXVII. Celebrar convenios o acuerdos de coordinación, en los términos de los artículos 11 y 12 de la Ley General del Equilibrio Ecológico y de Protección al Ambiente, con el objeto que asuma las siguientes funciones: a) El manejo y vigilancia de las áreas naturales protegidas de competencia federal; b) El control de los residuos peligrosos considerados de baja peligrosidad conforme a las disposiciones de la ley general de la materia; c) La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal; y d) Las demás previstas en el artículo 11 de la ley general de la materia;
+
+XXVII. Celebrar convenios o acuerdos de coordinación, en los términos de los artículos 11 y 12 de la Ley General del Equilibrio Ecológico y de Protección al Ambiente, con el objeto que asuma las siguientes funciones:
+
+a) El manejo y vigilancia de las áreas naturales protegidas de competencia federal;
+
+b) El control de los residuos peligrosos considerados de baja peligrosidad conforme a las disposiciones de la ley general de la materia;
+
+c) La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal; y
+
+d) Las demás previstas en el artículo 11 de la ley general de la materia;
+
 XXVIII. Declarar la expropiación, ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, conforme a las leyes del Congreso de la Unión;
+
 XXIX. Proporcionar a los Poderes Federales los apoyos que se le requieran para el ejercicio expedito de sus funciones. Asimismo, prestar los apoyos y servicios para la realización de festividades cívicas, conmemoración de fechas, actos oficiales, ceremonias especiales, desfiles, y en general de aquellos que se realicen con motivo de acontecimientos relevantes;
-XXX. Convocar a plebiscito en los términos de este Estatuto y demás disposiciones aplicables; y XXXI. Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, este Estatuto y otros ordenamientos.
+
+XXX. Convocar a plebiscito en los términos de este Estatuto y demás disposiciones aplicables; y
+
+XXXI. Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, este Estatuto y otros ordenamientos.
 Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 68
 .- A través del plebiscito, el Jefe de Gobierno del Distrito Federal podrá consultar a los electores para que expresen su aprobación o rechazo previo a actos o decisiones del mismo que a su juicio sean trascendentes para la vida pública del Distrito Federal, de conformidad con lo siguiente:
-I. No podrán someterse a plebiscito, los actos o decisiones del Jefe de Gobierno del Distrito Federal relativos a: a) Materias de carácter tributario o fiscal así como de egresos del Distrito Federal; b) Régimen interno de la administración pública del Distrito Federal; c) Los actos cuya realización sea obligatoria en los términos de las leyes aplicables; y d) Los demás que determinen las leyes;
-II. El Jefe de Gobierno del Distrito Federal iniciará el procedimiento de plebiscito, mediante la convocatoria que deberá expedir cuando menos noventa días antes de la fecha de realización de la misma. La convocatoria se publicará en el Diario Oficial de la Federación, en la Gaceta Oficial del Distrito Federal así como en los principales diarios de circulación en la Ciudad, y contendrá: a) La explicación clara y precisa de los efectos de la aprobación o rechazo del acto o decisión sometido a plebiscito; b) La fecha en que habrá de realizarse la votación; y c) La pregunta o preguntas conforme a la que los electores expresarán su aprobación o rechazo;
+
+I. No podrán someterse a plebiscito, los actos o decisiones del Jefe de Gobierno del Distrito Federal relativos a:
+
+a) Materias de carácter tributario o fiscal así como de egresos del Distrito Federal;
+
+b) Régimen interno de la administración pública del Distrito Federal;
+
+c) Los actos cuya realización sea obligatoria en los términos de las leyes aplicables; y
+
+d) Los demás que determinen las leyes;
+
+II. El Jefe de Gobierno del Distrito Federal iniciará el procedimiento de plebiscito, mediante la convocatoria que deberá expedir cuando menos noventa días antes de la fecha de realización de la misma. La convocatoria se publicará en el Diario Oficial de la Federación, en la Gaceta Oficial del Distrito Federal así como en los principales diarios de circulación en la Ciudad, y contendrá:
+
+a) La explicación clara y precisa de los efectos de la aprobación o rechazo del acto o decisión sometido a plebiscito;
+
+b) La fecha en que habrá de realizarse la votación; y
+
+c) La pregunta o preguntas conforme a la que los electores expresarán su aprobación o rechazo;
+
 III. Los resultados del plebiscito serán vinculatorios para el convocante cuando una de las opciones obtenga la mayoría de la votación válidamente emitida y ésta corresponda cuando menos a la tercera parte de los ciudadanos inscritos en el padrón electoral del Distrito Federal;
+
 IV. En el año en que tengan verificativo elecciones de representantes populares, no podrá realizarse plebiscito alguno durante el proceso electoral, ni durante los sesenta días posteriores a su conclusión. No podrán realizarse dos plebiscitos en el mismo año;
-V. El Instituto Electoral del Distrito Federal organizará el procedimiento de plebiscito y hará la declaratoria de sus efectos, de conformidad con lo que disponga la ley aplicable; y VI. Las controversias que se generen con motivo de la validez de los procesos de plebiscito serán resueltas por el Tribunal Electoral del Distrito Federal en los términos que establezca la ley respectiva.
+
+V. El Instituto Electoral del Distrito Federal organizará el procedimiento de plebiscito y hará la declaratoria de sus efectos, de conformidad con lo que disponga la ley aplicable; y
+
+VI. Las controversias que se generen con motivo de la validez de los procesos de plebiscito serán resueltas por el Tribunal Electoral del Distrito Federal en los términos que establezca la ley respectiva.
 Artículo reformado DOF 04-12-1997 SECCION III DE LA COORDINACION METROPOLITANA
 
 ### ARTÍCULO 69
@@ -508,7 +799,11 @@ Artículo reformado DOF 04-12-1997 SECCION III DE LA COORDINACION METROPOLITANA
 
 ### ARTÍCULO 70
 .- El Jefe de Gobierno del Distrito Federal, dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto en este Estatuto, podrá:
-Párrafo reformado DOF 04-12-1997 I. Acordar con la Federación, los Estados y Municipios limítrofes, la constitución integración y funcionamiento de comisiones metropolitanas como instancias de organización y coordinación en las materias a que se refiere el artículo anterior; y II. Suscribir convenios con la Federación, los Estados y Municipios limítrofes, de conformidad con las bases establecidas por las comisiones a que se refiere la fracción anterior, para determinar los ámbitos territoriales y de funciones respecto a la ejecución y operación de obras, prestación de servicios públicos o realización de acciones en las materias a que se refiere el artículo anterior.
+Párrafo reformado DOF 04-12-1997
+
+I. Acordar con la Federación, los Estados y Municipios limítrofes, la constitución integración y funcionamiento de comisiones metropolitanas como instancias de organización y coordinación en las materias a que se refiere el artículo anterior; y
+
+II. Suscribir convenios con la Federación, los Estados y Municipios limítrofes, de conformidad con las bases establecidas por las comisiones a que se refiere la fracción anterior, para determinar los ámbitos territoriales y de funciones respecto a la ejecución y operación de obras, prestación de servicios públicos o realización de acciones en las materias a que se refiere el artículo anterior.
 
 ### ARTÍCULO 71
 .- Los convenios que se celebren en el seno de dichas comisiones serán suscritos por el Jefe de Gobierno del Distrito Federal o por el servidor público que éste designe para tal efecto.
@@ -521,9 +816,15 @@ Artículo reformado DOF 04-12-1997, 14-10-1999
 
 ### ARTÍCULO 73
 .- La participación del Distrito Federal en la coordinación metropolitana, se sujetará a las siguientes bases:
+
 I. Tratándose de la aportación de recursos materiales, humanos y financieros, sólo se contraerán compromisos hasta por los montos autorizados por la Asamblea Legislativa, en el presupuesto de egresos del ejercicio correspondiente;
-Fracción reformada DOF 04-12-1997 II. Será causa de responsabilidad de los servidores públicos del Distrito Federal que participen en la coordinación metropolitana, contraer compromisos fuera del ámbito de sus atribuciones o de las disponibilidades presupuestales aprobadas;
-III. Los compromisos que el gobierno del Distrito Federal adquiera así como las reglas a que sujete su participación, deberán ajustarse a lo dispuesto por las leyes que expida la Asamblea Legislativa; las leyes generales expedidas por el Congreso de la Unión tratándose de materias concurrentes y en general a lo dispuesto por la legislación local aplicable a la materia de que se trate; y Fracción reformada DOF 04-12-1997 IV. En todo caso, los integrantes de las comisiones, contarán con la asesoría y el apoyo técnico y profesional necesarios de acuerdo con la naturaleza y características de la materia de que se trate.
+Fracción reformada DOF 04-12-1997
+
+II. Será causa de responsabilidad de los servidores públicos del Distrito Federal que participen en la coordinación metropolitana, contraer compromisos fuera del ámbito de sus atribuciones o de las disponibilidades presupuestales aprobadas;
+
+III. Los compromisos que el gobierno del Distrito Federal adquiera así como las reglas a que sujete su participación, deberán ajustarse a lo dispuesto por las leyes que expida la Asamblea Legislativa; las leyes generales expedidas por el Congreso de la Unión tratándose de materias concurrentes y en general a lo dispuesto por la legislación local aplicable a la materia de que se trate; y Fracción reformada DOF 04-12-1997
+
+IV. En todo caso, los integrantes de las comisiones, contarán con la asesoría y el apoyo técnico y profesional necesarios de acuerdo con la naturaleza y características de la materia de que se trate.
 
 ### ARTÍCULO 74
 .- Los acuerdos y convenios que en materia de coordinación metropolitana suscriba el gobierno del Distrito Federal, deberán publicarse en el Diario Oficial de la Federación y en la Gaceta Oficial del Distrito Federal.
@@ -643,8 +944,12 @@ Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 99
 .- Los organismos descentralizados y empresas de participación estatal tendrán por objeto principal:
+
 I. La realización de actividades determinadas como prioritarias por las leyes aplicables;
-II. La generación de bienes y la prestación de servicios públicos o sociales prioritarios para el funcionamiento de la Ciudad y la satisfacción de las necesidades colectivas; y Fracción reformada DOF 04-12-1997 III. El auxilio operativo en el ejercicio de funciones tecnológicas o técnicas del Jefe de Gobierno.
+
+II. La generación de bienes y la prestación de servicios públicos o sociales prioritarios para el funcionamiento de la Ciudad y la satisfacción de las necesidades colectivas; y Fracción reformada DOF 04-12-1997
+
+III. El auxilio operativo en el ejercicio de funciones tecnológicas o técnicas del Jefe de Gobierno.
 Fracción reformada DOF 04-12-1997
 
 ### ARTÍCULO 100
@@ -674,9 +979,14 @@ Artículo reformado DOF 14-10-1999
 ### ARTÍCULO 105
 .- Cada Delegación se integrará con un Titular, al que se le denominará genéricamente Jefe Delegacional, electo en forma universal, libre, secreta y directa cada tres años, según lo determine la Ley, así como con los funcionarios y demás servidores públicos que determinen la ley orgánica y el reglamento respectivos.
 Para ser Jefe Delegacional se requiere:
+
 I. Ser ciudadano mexicano por nacimiento y no tener otra nacionalidad, en pleno goce de sus derechos;
+
 II. Tener por lo menos veinticinco años el día de la elección;
-III. Ser originario del Distrito Federal con dos años de residencia efectiva inmediatamente anteriores al día de la elección, o vecino de él con residencia efectiva no menor de tres años inmediatamente anteriores al día de la elección, y IV. Cumplir los requisitos establecidos en las fracciones IV a X del artículo 53 del presente Estatuto.
+
+III. Ser originario del Distrito Federal con dos años de residencia efectiva inmediatamente anteriores al día de la elección, o vecino de él con residencia efectiva no menor de tres años inmediatamente anteriores al día de la elección, y
+
+IV. Cumplir los requisitos establecidos en las fracciones IV a X del artículo 53 del presente Estatuto.
 Los Jefes Delegacionales podrán ser electos hasta por dos períodos consecutivos, de tres años cada uno. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 Párrafo reformado DOF 27-06-2014 Artículo reformado DOF 04-12-1997, 14-10-1999
 
@@ -695,13 +1005,22 @@ Artículo derogado DOF 04-12-1997. Adicionado DOF 14-10-1999
 
 ### ARTÍCULO 108
 .- Sin perjuicio de lo dispuesto por la legislación sobre responsabilidades aplicable a los servidores públicos del Distrito Federal, la Asamblea Legislativa del Distrito Federal, a propuesta del Jefe de Gobierno o de los diputados, podrá remover a los Jefes Delegacionales por las causas graves siguientes:
+
 I. Por violaciones sistemáticas a la Constitución, al presente Estatuto o a las leyes federales y del Distrito Federal;
+
 II. Por contravenir de manera grave y sistemática los reglamentos, acuerdos y demás resoluciones del Jefe de Gobierno del Distrito Federal;
+
 III. Por realizar cualquier acto o incurrir en omisiones que afecten gravemente el funcionamiento de la administración pública del Distrito Federal o el orden público en la Entidad;
+
 IV. Por desempeñar cualquier otro empleo, cargo o comisión en la Federación, Estados, Distrito Federal o Municipios, durante el tiempo que dure su encargo, excepto las actividades docentes, académicas y de investigación científica no remuneradas;
+
 V. Por invadir de manera reiterada y sistemática la esfera de competencia de la administración pública central o paraestatal del Distrito Federal;
+
 VI. Por incumplir reiterada y sistemáticamente las resoluciones de los órganos jurisdiccionales Federales o del Distrito Federal;
-VII. Por realizar actos que afecten gravemente las relaciones de la Delegación con el Jefe de Gobierno del Distrito Federal, y VIII. Por realizar actos que afecten de manera grave las relaciones del Jefe de Gobierno con los Poderes de la Unión.
+
+VII. Por realizar actos que afecten gravemente las relaciones de la Delegación con el Jefe de Gobierno del Distrito Federal, y
+
+VIII. Por realizar actos que afecten de manera grave las relaciones del Jefe de Gobierno con los Poderes de la Unión.
 La Asamblea Legislativa calificará la gravedad de la falta y resolverá en definitiva sobre la remoción, por el voto de las dos terceras partes de los miembros integrantes de la Legislatura, siempre y cuando el Jefe Delegacional haya tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan. La resolución de la Asamblea será definitiva e inatacable y surtirá sus efectos de inmediato.
 En caso de remoción del Jefe Delegacional, la Asamblea Legislativa del Distrito Federal designará, a propuesta del Jefe de Gobierno, por mayoría absoluta de los integrantes de la Legislatura, al sustituto para que termine el encargo.
 En el caso de sentencia ejecutoria condenatoria por delito doloso en contra de un Jefe Delegacional, sin dilación alguna el juez dará cuenta a la Asamblea Legislativa del Distrito Federal para el solo efecto de que declare la destitución del cargo y nombre al sustituto, observando lo dispuesto en el párrafo anterior.
@@ -716,24 +1035,44 @@ Párrafo reformado DOF 04-12-1997 El comité realizará los trabajos necesarios,
 
 ### ARTÍCULO 110
 .- El comité a que se refiere el artículo anterior y la Asamblea Legislativa del Distrito Federal, para la determinación de la variación territorial, deberán incluir, entre otros, los siguientes elementos:
-Párrafo reformado DOF 04-12-1997 I. Población;
+Párrafo reformado DOF 04-12-1997
+
+I. Población;
+
 II. Configuración geográfica;
+
 III. Identidad cultural de los habitantes;
+
 IV. Factores históricos;
+
 V. Condiciones socioeconómicas;
+
 VI. Infraestructura y equipamiento urbano;
+
 VII. Número y extensión de colonias, barrios, pueblos o unidades habitacionales de las Delegaciones;
+
 VIII. Directrices de conformación o reclasificación de asentamientos humanos con categoría de colonias;
-IX. Previsión de los redimensionamientos estructurales y funcionales delegacionales; y X. Presupuesto de egresos y previsiones de ingresos de la entidad.
+
+IX. Previsión de los redimensionamientos estructurales y funcionales delegacionales; y
+
+X. Presupuesto de egresos y previsiones de ingresos de la entidad.
 
 ### ARTÍCULO 111
 .- En todo caso, la variación de la división territorial deberá perseguir:
+
 I. Un mejor equilibrio en el desarrollo de la Ciudad;
+
 II. Un mejoramiento de la función de gobierno y prestación de servicios públicos;
+
 III. Mayor oportunidad y cobertura de los actos de autoridad;
+
 IV. Incremento de la eficacia gubernativa;
+
 V. Mayor participación social;
-VI. Otros resultados previsibles en beneficio de la población; y VII. Contribuir a la estabilidad financiera de la entidad.
+
+VI. Otros resultados previsibles en beneficio de la población; y
+
+VII. Contribuir a la estabilidad financiera de la entidad.
 
 ### ARTÍCULO 112
 .- En la iniciativa de Decreto de Presupuesto de Egresos, el Jefe de Gobierno deberá proponer a la Asamblea Legislativa asignaciones presupuestales para que las Delegaciones cumplan con el ejercicio de las actividades a su cargo, considerando criterios de población, marginación, infraestructura y equipamiento urbano. Las Delegaciones informarán al Jefe de Gobierno del ejercicio de sus asignaciones presupuestarias para los efectos de la Cuenta Pública, de conformidad con lo que establece este Estatuto y las leyes aplicables.
@@ -751,17 +1090,35 @@ Artículo reformado DOF 04-12-1997, 14-10-1999 CAPITULO III DE LAS BASES PARA LA
 
 ### ARTÍCULO 115
 .- Corresponden a los órganos centrales de la administración pública del Distrito Federal, de acuerdo a la asignación que determine la ley, las atribuciones de planeación, organización, normatividad, control, evaluación y operación, referidas a:
+
 I. La planeación del desarrollo del Distrito Federal, de acuerdo con las prevenciones contenidas en el Plan Nacional de Desarrollo y demás disposiciones aplicables;
+
 II. Formulación y conducción de las políticas generales que de conformidad con la ley se les asignen en sus respectivos ramos de la administración pública;
+
 III. Regulación interna sobre organización, funciones y procedimientos de la Administración Pública y dentro de ésta, la relativa a órganos desconcentrados constituidos por el Jefe de Gobierno;
-Fracción reformada DOF 14-10-1999 IV. La administración de la hacienda pública del Distrito Federal, con sujeción a las disposiciones aplicables;
+Fracción reformada DOF 14-10-1999
+
+IV. La administración de la hacienda pública del Distrito Federal, con sujeción a las disposiciones aplicables;
+
 V. Adquisición, administración y enajenación de bienes del patrimonio de la Ciudad y fijación de lineamientos para su adquisición, uso y destino. Tratándose del patrimonio inmobiliario destinado a las Delegaciones, los Jefes Delegacionales deberán ser consultados cuando se trate de enajenar o adquirir inmuebles destinados al cumplimiento de sus funciones;
-Fracción reformada DOF 14-10-1999 VI. Prestación o concesión de servicios públicos de cobertura general en la Ciudad así como de aquéllos de las características a que se refiere la siguiente fracción;
+Fracción reformada DOF 14-10-1999
+
+VI. Prestación o concesión de servicios públicos de cobertura general en la Ciudad así como de aquéllos de las características a que se refiere la siguiente fracción;
+
 VII. Prestación de servicios públicos y planeación y ejecución de obras de impacto en el interior de una Delegación cuando sean de alta especialidad técnica, de acuerdo con las clasificaciones que se hagan en las disposiciones aplicables. El Jefe de Gobierno podrá dictar acuerdos mediante los cuales delegue a los Jefes Delegacionales la realización o contratación de estas obras, dentro de los límites de la respectiva demarcación;
-Fracción reformada DOF 14-10-1999 VIII. Imposición de sanciones administrativas por infracciones a las leyes y reglamentos aplicables, en atención a la distribución de competencias establecida por dichos ordenamientos;
+Fracción reformada DOF 14-10-1999
+
+VIII. Imposición de sanciones administrativas por infracciones a las leyes y reglamentos aplicables, en atención a la distribución de competencias establecida por dichos ordenamientos;
+
 IX. Dirección y coordinación de las unidades administrativas que tengan adscritas a sus respectivos ramos, de las entidades paraestatales que les sean sectorizadas y de órganos desconcentrados, conforme a las disposiciones aplicables;
-Fracción reformada DOF 14-10-1999 X. Determinación de los sistemas de participación y coordinación de las Delegaciones respecto a la prestación de servicios públicos de carácter general como suministro de agua potable, drenaje, tratamiento de aguas, recolección de desechos en vías primarias, transporte público de pasajeros, protección civil, seguridad pública, educación, salud y abasto;
-Fracción reformada DOF 14-10-1999 XI. En general, las funciones de administración, planeación y ejecución de obras, prestación de servicios públicos, y en general actos de gobierno que incidan, se realicen o se relacionen con el conjunto de la Ciudad o tengan impacto en dos o más Delegaciones, y Fracción reformada DOF 14-10-1999 XII. Las demás que en razón de jerarquía, magnitud y especialización le sean propias y determine la ley.
+Fracción reformada DOF 14-10-1999
+
+X. Determinación de los sistemas de participación y coordinación de las Delegaciones respecto a la prestación de servicios públicos de carácter general como suministro de agua potable, drenaje, tratamiento de aguas, recolección de desechos en vías primarias, transporte público de pasajeros, protección civil, seguridad pública, educación, salud y abasto;
+Fracción reformada DOF 14-10-1999
+
+XI. En general, las funciones de administración, planeación y ejecución de obras, prestación de servicios públicos, y en general actos de gobierno que incidan, se realicen o se relacionen con el conjunto de la Ciudad o tengan impacto en dos o más Delegaciones, y Fracción reformada DOF 14-10-1999
+
+XII. Las demás que en razón de jerarquía, magnitud y especialización le sean propias y determine la ley.
 
 ### ARTÍCULO 116
 .- Las atribuciones a que se refiere el artículo anterior, así como aquéllas de carácter técnico u operativo, podrán encomendarse a órganos desconcentrados, a efecto de lograr una administración eficiente, ágil y oportuna, basada en principios de simplificación, trasparencia y racionalidad, en los términos del reglamento interior de la ley respectiva. En este supuesto, las Delegaciones serán invariablemente consideradas para los efectos de la ejecución de las obras, la prestación de los servicios públicos o la realización de los actos de gobierno que tengan impacto en la Delegación respectiva.
@@ -771,27 +1128,54 @@ Artículo reformado DOF 14-10-1999
 .- Las Delegaciones tendrán competencia, dentro de sus respectivas jurisdicciones, en las materias de: gobierno, administración, asuntos jurídicos, obras, servicios, actividades sociales, protección civil, seguridad pública, promoción económica, cultural y deportiva, y las demás que señalen las leyes.
 El ejercicio de tales atribuciones se realizará siempre de conformidad con las leyes y demás disposiciones normativas aplicables en cada materia y respetando las asignaciones presupuestales.
 Los Jefes Delegacionales tendrán bajo su responsabilidad las siguientes atribuciones:
+
 I. Dirigir las actividades de la Administración Pública de la Delegación;
+
 II. Prestar los servicios públicos y realizar obras, atribuidos por la ley y demás disposiciones aplicables, dentro del marco de las asignaciones presupuestales;
+
 III. Participar en la prestación de servicios o realización de obras con otras Delegaciones y con el gobierno de la Ciudad conforme las disposiciones presupuestales y de carácter administrativo aplicables;
+
 IV. Opinar sobre la concesión de servicios públicos que tengan efectos en la Delegación y sobre los convenios que se suscriban entre el Distrito Federal y la Federación o los estados o municipios limítrofes que afecten directamente a la Delegación;
+
 V. Otorgar y revocar, en su caso, licencias, permisos, autorizaciones y concesiones, observando las leyes y reglamentos aplicables;
+
 VI. Imponer sanciones administrativas por infracciones a las leyes y reglamentos;
+
 VII. Proponer al Jefe de Gobierno, los proyectos de programas operativos anuales y de presupuesto de la Delegación, sujetándose a las estimaciones de ingresos para el Distrito Federal;
+
 VIII. Coadyuvar con la dependencia de la administración pública del Distrito Federal que resulte competente, en las tareas de seguridad pública y protección civil en la Delegación;
+
 IX. Designar a los servidores públicos de la Delegación, sujetándose a las disposiciones del Servicio Civil de Carrera. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por el Jefe Delegacional;
-X. Establecer la estructura organizacional de la Delegación conforme a las disposiciones aplicables, y XI. Las demás que les otorguen este Estatuto, las leyes, los reglamentos y los acuerdos que expida el Jefe de Gobierno.
+
+X. Establecer la estructura organizacional de la Delegación conforme a las disposiciones aplicables, y
+
+XI. Las demás que les otorguen este Estatuto, las leyes, los reglamentos y los acuerdos que expida el Jefe de Gobierno.
 Artículo reformado DOF 04-12-1997, 14-10-1999
 
 ### ARTÍCULO 118
 .- Para el desarrollo y bienestar social en la Ciudad deberán tomarse en cuenta las siguientes materias:
+
 I. Seguridad Pública;
-Fracción reformada DOF 04-12-1997 II. Planeación del desarrollo;
-Fracción reformada DOF 04-12-1997 III. Reservas territoriales, uso de suelo y vivienda;
-Fracción reformada DOF 04-12-1997 IV. Preservación del medio ambiente y equilibrio ecológico;
-Fracción reformada DOF 04-12-1997 V. Infraestructura y servicios de salud;
-Fracción reformada DOF 04-12-1997 VI. Infraestructura y servicio social educativo;
-Fracción reformada DOF 04-12-1997 VII. Transporte público; y Fracción reformada DOF 04-12-1997 VIII. Agua potable, drenaje y tratamiento de aguas residuales.
+Fracción reformada DOF 04-12-1997
+
+II. Planeación del desarrollo;
+Fracción reformada DOF 04-12-1997
+
+III. Reservas territoriales, uso de suelo y vivienda;
+Fracción reformada DOF 04-12-1997
+
+IV. Preservación del medio ambiente y equilibrio ecológico;
+Fracción reformada DOF 04-12-1997
+
+V. Infraestructura y servicios de salud;
+Fracción reformada DOF 04-12-1997
+
+VI. Infraestructura y servicio social educativo;
+Fracción reformada DOF 04-12-1997
+
+VII. Transporte público; y Fracción reformada DOF 04-12-1997
+
+VIII. Agua potable, drenaje y tratamiento de aguas residuales.
 Fracción adicionada DOF 04-12-1997 Tratándose de las materias a que se refiere este artículo, las leyes de la Asamblea Legislativa establecerán los sistemas de dirección, coordinación, y en su caso de desconcentración o descentralización, que permitan aproximar la actuación de la administración pública a los habitantes de la Ciudad.
 Párrafo reformado DOF 04-12-1997
 
@@ -817,7 +1201,10 @@ DE LOS PARTIDOS POLÍTICOS Capítulo derogado DOF 22-11-1996 (queda sin efecto).
 ### ARTÍCULO 121
 .- En las elecciones locales del Distrito Federal podrán participar tanto los partidos políticos con registro nacional y los partidos políticos con registro local del Distrito Federal, así como los ciudadanos que constituyan candidaturas para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos de los artículos 35 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
 Párrafo reformado DOF 27-06-2014 Para efectos del presente ordenamiento se considera:
-I. Partido Político Nacional, aquel que cuente con registro ante el Instituto Nacional Electoral, y Fracción reformada DOF 27-06-2014 II. Partido Político Local del Distrito Federal, aquel que cuente con registro otorgado por el Instituto Electoral del Distrito Federal.
+
+I. Partido Político Nacional, aquel que cuente con registro ante el Instituto Nacional Electoral, y Fracción reformada DOF 27-06-2014
+
+II. Partido Político Local del Distrito Federal, aquel que cuente con registro otorgado por el Instituto Electoral del Distrito Federal.
 Los partidos políticos locales se constituirán por ciudadanos del Distrito Federal, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación coaccionada. Los requisitos que deberán cumplirse para el registro de un partido local, así como las causas de pérdida de registro, serán los establecidos en la Ley General de Partidos Políticos.
 Párrafo reformado DOF 27-06-2014 Los partidos políticos con registro nacional y los partidos políticos con registro local en el Distrito Federal tienen derecho a solicitar el registro de candidatos a cargos locales de elección popular.
 Corresponde a los ciudadanos del Distrito Federal el derecho de solicitar su registro ante el Instituto Electoral del Distrito Federal como candidatos independientes, en los términos que establezcan las leyes.
@@ -827,17 +1214,37 @@ Párrafo adicionado DOF 27-06-2014 Artículo derogado DOF 22-11-1996. Adicionado
 
 ### ARTÍCULO 122
 .- Con relación a los partidos políticos, la Ley señalará:
+
 I. Su derecho a recibir, de forma equitativa, financiamiento público para sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y por actividades específicas como entidades de interés público. El Instituto Electoral del Distrito Federal determinará anualmente el monto total de origen público a distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral del Distrito Federal a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente para el Distrito Federal;
-Fracción reformada DOF 27-06-2014 II. Se deroga.
-Fracción derogada DOF 27-06-2014 III. Se deroga.
-Fracción derogada DOF 27-06-2014 IV. Se deroga.
-Fracción derogada DOF 27-06-2014 V. Se deroga.
-Fracción derogada DOF 27-06-2014 VI. Su derecho a conformar frentes, coaliciones y candidaturas comunes, conforme lo señale la Ley;
+Fracción reformada DOF 27-06-2014
+
+II. Se deroga.
+Fracción derogada DOF 27-06-2014
+
+III. Se deroga.
+Fracción derogada DOF 27-06-2014
+
+IV. Se deroga.
+Fracción derogada DOF 27-06-2014
+
+V. Se deroga.
+Fracción derogada DOF 27-06-2014
+
+VI. Su derecho a conformar frentes, coaliciones y candidaturas comunes, conforme lo señale la Ley;
+
 VII. Las reglas para las precampañas y campañas electorales. Las campañas electorales durarán noventa días para la elección de Jefe de Gobierno, y sesenta días cuando sólo se elijan diputados a la Asamblea Legislativa y titulares de los órganos político-administrativos de las demarcaciones territoriales; y las precampañas electorales no podrán abarcar más de las dos terceras partes de la duración de las respectivas campañas;
-Fracción reformada DOF 27-06-2014 VIII. La obligación de que en la propaganda política o electoral que difundan, se abstengan de expresiones que calumnien a las personas;
-Fracción reformada DOF 27-06-2014 IX. La información que deberán hacer pública para transparentar sus actividades y el origen y destino de sus recursos; así como el procedimiento para que los ciudadanos les soliciten información;
+Fracción reformada DOF 27-06-2014
+
+VIII. La obligación de que en la propaganda política o electoral que difundan, se abstengan de expresiones que calumnien a las personas;
+Fracción reformada DOF 27-06-2014
+
+IX. La información que deberán hacer pública para transparentar sus actividades y el origen y destino de sus recursos; así como el procedimiento para que los ciudadanos les soliciten información;
+
 X. Su derecho a salvaguardar la información relativa a su padrón de militantes y simpatizantes, así como el tipo de información considerada de carácter restringido;
-XI. El procedimiento para la liquidación de los partidos locales que pierdan su registro y el destino de sus bienes y remanentes, y XII. Las demás bases para la contribución de los partidos al fortalecimiento de la democracia a través de los procesos electorales en el Distrito Federal.
+
+XI. El procedimiento para la liquidación de los partidos locales que pierdan su registro y el destino de sus bienes y remanentes, y
+
+XII. Las demás bases para la contribución de los partidos al fortalecimiento de la democracia a través de los procesos electorales en el Distrito Federal.
 Artículo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997. Reformado DOF 28-04-2008
 
 ## CAPÍTULO III
@@ -885,12 +1292,21 @@ Artículo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997. Reformado DOF 27-0
 
 ### ARTÍCULO 129
 .- Al Tribunal Electoral le corresponde resolver en forma definitiva e inatacable, en los términos de este Estatuto y según lo disponga la ley, acerca de:
+
 I. Las impugnaciones en las elecciones locales de diputados, Jefe de Gobierno y titulares de los órganos político-administrativos de las demarcaciones territoriales;
+
 II. Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado, en los términos que señalen este Estatuto y las leyes;
+
 III. Las impugnaciones en los mecanismos de participación ciudadana que prevean este Estatuto y la ley local en la materia;
-Fracción reformada DOF 27-06-2014 IV. Los conflictos o diferencias laborales entre el Tribunal Electoral y sus servidores;
+Fracción reformada DOF 27-06-2014
+
+IV. Los conflictos o diferencias laborales entre el Tribunal Electoral y sus servidores;
+
 V. Los conflictos o diferencias laborales entre el Instituto Electoral del Distrito Federal y sus servidores;
-VI. La determinación e imposición de sanciones en la materia; y VII. Las demás que señale la ley.
+
+VI. La determinación e imposición de sanciones en la materia; y
+
+VII. Las demás que señale la ley.
 Artículo derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997
 
 ### ARTÍCULO 130
@@ -906,7 +1322,29 @@ Artículo derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997
 Artículo derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997. Reformado DOF 28-04-2008, 27-06-2014
 
 ### ARTÍCULO 133
-.- Para ser magistrado electoral se requerirá: a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles; b) Tener cuando menos treinta y cinco años cumplidos el día de la designación; c) Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho expedido por autoridad o institución legalmente facultada para ello; d) Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; e) Haber residido en el país y en el Distrito Federal durante un año anterior al día de la designación; f) No haber sido Jefe de Gobierno, secretario, procurador, senador, diputado federal o local del Distrito Federal durante los cuatro años previos al día de su nombramiento; g) Contar con credencial para votar con fotografía; h) Acreditar conocimientos en derecho electoral; i) No desempeñar ni haber desempeñado el cargo de presidente del Comité Ejecutivo Nacional o equivalente de un partido político; j) No haber sido registrado como candidato, con excepción de los candidatos independientes, a cargo alguno de elección popular en los últimos cuatro años inmediatos anteriores a la designación, y k) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
+.- Para ser magistrado electoral se requerirá:
+
+a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+
+b) Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+
+c) Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho expedido por autoridad o institución legalmente facultada para ello;
+
+d) Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+e) Haber residido en el país y en el Distrito Federal durante un año anterior al día de la designación;
+
+f) No haber sido Jefe de Gobierno, secretario, procurador, senador, diputado federal o local del Distrito Federal durante los cuatro años previos al día de su nombramiento;
+
+g) Contar con credencial para votar con fotografía;
+
+h) Acreditar conocimientos en derecho electoral;
+
+i) No desempeñar ni haber desempeñado el cargo de presidente del Comité Ejecutivo Nacional o equivalente de un partido político;
+
+j) No haber sido registrado como candidato, con excepción de los candidatos independientes, a cargo alguno de elección popular en los últimos cuatro años inmediatos anteriores a la designación, y
+
+k) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
 Artículo adicionado DOF 04-12-1997. Reformado DOF 27-06-2014
 
 ## CAPÍTULO V
@@ -935,26 +1373,45 @@ Artículo adicionado DOF 04-12-1997
 
 ### ARTÍCULO 138
 .- Excepto aquéllos pertenecientes a la Federación en términos de la legislación aplicable, los bienes de dominio público del Distrito Federal son los siguientes:
+
 I. Los de uso común;
+
 II. Los bienes muebles e inmuebles que de hecho se utilicen para la prestación de servicios públicos o actividades equiparables a ello, o los que utilicen las dependencias y entidades de la administración pública del Distrito Federal para el desarrollo de sus actividades;
+
 III. Los inmuebles expropiados a favor del Distrito Federal, una vez que sean destinados a un servicio público o algunas de las actividades que se equiparen a los servicios públicos o que de hecho se utilicen para esos fines;
+
 IV. Las tierras y aguas a excepción de las comprendidas en el artículo 27, párrafos cuarto, quinto y octavo de la Constitución Política de los Estados Unidos Mexicanos;
+
 V. Los monumentos históricos o artísticos, propiedad del Distrito Federal;
+
 VI. Los canales, zanjas y acueductos, propiedad o construidos por el Distrito Federal, así como los cauces de los ríos que hubiesen dejado de serlo, siempre y cuando no sean de jurisdicción federal, debiendo observarse al respecto las disposiciones de la Ley de Aguas Nacionales;
+
 VII. Los inmuebles ubicados en el territorio del Distrito Federal y que la Federación transmita a éste, con la finalidad de satisfacer las necesidades de crecimiento, vivienda y desarrollo urbano;
+
 VIII. Las servidumbres, cuando el predio dominante sean algunos de los anteriores;
-IX. Los muebles propiedad del Distrito Federal que por su naturaleza no sean normalmente sustituibles, como los documentos, publicaciones periódicas, mapas, planos, folletos y grabados importantes o raros, así como las colecciones de sus bienes, los especímenes tipos de la flora y la fauna, las colecciones científicas y filatélicas, los archivos y fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otra que tenga imágenes y sonidos; y X. Las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Distrito Federal.
+
+IX. Los muebles propiedad del Distrito Federal que por su naturaleza no sean normalmente sustituibles, como los documentos, publicaciones periódicas, mapas, planos, folletos y grabados importantes o raros, así como las colecciones de sus bienes, los especímenes tipos de la flora y la fauna, las colecciones científicas y filatélicas, los archivos y fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otra que tenga imágenes y sonidos; y
+
+X. Las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Distrito Federal.
 Los bienes de dominio público son inalienables, imprescriptibles, inembargables y no estarán sujetos a ningún gravamen o afectación de dominio, mientras no cambien su situación jurídica, a acción reivindicatoria o de posesión definitiva o provisional.
 Artículo adicionado DOF 04-12-1997
 
 ### ARTÍCULO 139
 .- Excepto aquéllos pertenecientes a la Federación en términos de la legislación aplicable, son bienes de dominio privado del Distrito Federal los siguientes:
+
 I. Los no comprendidos en el artículo 138 y cuyo uso y utilidad no tengan interés público;
+
 II. Los que hayan formado parte de entidades del Distrito Federal;
+
 III. Las tierras ubicadas dentro del Distrito Federal que sean susceptibles de ser enajenadas a particulares;
+
 IV. Los bienes muebles que se encuentren dentro del Distrito Federal, considerados como en Materia Federal;
+
 V. Los bienes muebles propiedad del Distrito Federal al servicio del mismo;
-VI. Los bienes que por cualquier título adquiera el Distrito Federal y que no estén destinados a un servicio público; y VII. Los bienes inmuebles que el Distrito Federal adquiera por vía de derecho público y que tengan por objeto la constitución de reservas territoriales, el desarrollo urbano o habitacional o la regularización de la tenencia de la tierra.
+
+VI. Los bienes que por cualquier título adquiera el Distrito Federal y que no estén destinados a un servicio público; y
+
+VII. Los bienes inmuebles que el Distrito Federal adquiera por vía de derecho público y que tengan por objeto la constitución de reservas territoriales, el desarrollo urbano o habitacional o la regularización de la tenencia de la tierra.
 Los bienes de dominio privado son inembargables e imprescriptibles.
 Artículo adicionado DOF 04-12-1997
 
@@ -989,9 +1446,13 @@ Artículo adicionado DOF 04-12-1997
 **SEGUNDO.-** El titular del Poder Ejecutivo Federal dispondrá el mecanismo necesario para que bienes y recursos de la administración pública federal a cargo del Departamento del Distrito Federal y los propios de éste, sean incorporados al patrimonio del Distrito Federal, una vez que haya sido nombrado el Jefe del Distrito Federal para el periodo que inicia el dos de diciembre de 1997.
 **TERCERO.-** En tanto es nombrado el primer Jefe del Distrito Federal, el Presidente de los Estados Unidos Mexicanos proveerá en la esfera administrativa a la exacta observancia de las leyes y decretos que expida la Asamblea de Representantes del Distrito Federal asimismo podrá dictar reglamentos gubernativos para el Distrito Federal.
 **CUARTO.-** Hasta en tanto se nombra el Jefe del Distrito Federal, el Jefe del Departamento del Distrito Federal, nombrado por el Presidente de la República en los términos del artículo quinto transitorio del decreto por el que se modifican diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día 25 de octubre de 1993, tendrá las siguientes facultades:
+
 I. Refrendar los decretos promulgatorios del Presidente de la República respecto de leyes y decretos que expida la Asamblea de Representantes del Distrito Federal.
+
 II. Presentar al Presidente de la República las cuentas públicas de los años 1995 y 1996 para su envío a la Asamblea de Representantes, para los efectos previstos en el presente Estatuto.
+
 III. Remitir a la Asamblea de Representantes del Distrito Federal los informes trimestrales a que se refiere el presente Estatuto.
+
 IV. Presentar al Presidente de la República, el informe que sobre el ejercicio de los recursos provenientes de deuda pública hubiese realizado, para los efectos del artículo 73, fracción VIII, de la Constitución, en relación con lo dispuesto por este Estatuto.
 **QUINTO.-** El Presidente de la República enviará el 20 de diciembre de 1994 a la Asamblea de Representantes del Distrito Federal la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos del Distrito Federal para el año siguiente.
 En 1995 y 1996, enviará las iniciativas de leyes de ingresos y los proyectos de presupuesto de egresos para el año siguiente respectivamente, a más tardar el día 30 de noviembre de cada año.
@@ -1005,15 +1466,34 @@ DECIMO PRIMERO.- Las atribuciones que las leyes, reglamentos y demás disposicio
 DECIMO SEGUNDO.- La III Asamblea de Representantes del Distrito Federal se reunirá a partir del 15 de noviembre de 1994 para celebrar un primer periodo de sesiones ordinarias, que podrá prolongarse hasta el 15 de enero del año siguiente.
 DECIMO TERCERO.- Los proyectos de presupuesto de la Asamblea de Representantes del Distrito Federal y del Tribunal Superior de Justicia del Distrito Federal para los años de 1995, 1996 y 1997, se enviarán al Presidente de la República para su incorporación al proyecto de presupuesto de egresos del Departamento del Distrito Federal.
 DECIMO CUARTO.- Para la instalación de la III Asamblea de Representantes del Distrito Federal, se observarán las reglas siguientes:
+
 I. La II Asamblea de Representantes antes de clausurar el último periodo de sesiones de su ejercicio, nombrará de entre sus miembros una Comisión integrada por cinco representantes que fungirán: uno como Presidente, dos como Secretarios y dos como suplentes, para entrar en funciones cuando falte alguno de los propietarios.
 La Presidencia de la Asamblea comunicará el nombramiento de la Comisión a los organismos electorales competentes.
-La Comisión tendrá a su cargo: a) Recibir las constancias de mayoría y validez que correspondan a las elecciones de Representantes electos según el principio de mayoría relativa; b) Recibir las constancias de asignación de Representantes electos según el principio de representación proporcional; c) Recibir las resoluciones de las Salas del Tribunal Federal Electoral, recaídas a las impugnaciones sobre las elecciones de Representantes; y d) Verificar, una vez recibidas las constancias y resoluciones a que se refieren los incisos anteriores que se encuentran completas; y proceder a expedir las credenciales que acrediten a los Representantes electos, tomando en cuenta únicamente las constancias expedidas por los órganos electorales en las elecciones no impugnadas o las confirmadas o expedidas por las Salas del Tribunal Federal Electoral en sus resoluciones. Las credenciales serán firmadas por el Presidente y Secretarios de la Comisión.
+La Comisión tendrá a su cargo:
+
+a) Recibir las constancias de mayoría y validez que correspondan a las elecciones de Representantes electos según el principio de mayoría relativa;
+
+b) Recibir las constancias de asignación de Representantes electos según el principio de representación proporcional;
+
+c) Recibir las resoluciones de las Salas del Tribunal Federal Electoral, recaídas a las impugnaciones sobre las elecciones de Representantes; y
+
+d) Verificar, una vez recibidas las constancias y resoluciones a que se refieren los incisos anteriores que se encuentran completas; y proceder a expedir las credenciales que acrediten a los Representantes electos, tomando en cuenta únicamente las constancias expedidas por los órganos electorales en las elecciones no impugnadas o las confirmadas o expedidas por las Salas del Tribunal Federal Electoral en sus resoluciones. Las credenciales serán firmadas por el Presidente y Secretarios de la Comisión.
+
 II. La Comisión se reunirá a más tardar tres días antes de que inicie el primer periodo ordinario de sesiones de la III Asamblea de Representantes para realizar la verificación a que se refiere el inciso d) de la fracción anterior y para entregar las credenciales a los Representantes electos, a los que citará para que se presenten a recibirlas al día siguiente a las 10:00 horas para rendir la protesta constitucional, elegir a la Mesa Directiva y proceder a declarar formalmente instalada la Asamblea.
-III. Los Representantes electos que hayan recibido su credencial se reunirán en el Salón de Sesiones de la Asamblea, dos días antes a aquél en que inicie el primer periodo ordinario de sesiones de la Asamblea. Este acto será presidido por los miembros de la Comisión y se desarrollará conforme al siguiente procedimiento: a) El Secretario de la Comisión dará lectura a la lista de los Representantes que hayan resultado electos, y comprobado que se tenga la concurrencia de la mayoría, se dará la palabra al Presidente de la Comisión. En caso de no contarse con dicha mayoría, la Comisión los citará dentro de las veinticuatro horas siguientes; b) El Presidente de la Comisión pedirá a los Representantes presentes que se pongan de pie y les tomará la protesta de la siguiente forma:
+
+III. Los Representantes electos que hayan recibido su credencial se reunirán en el Salón de Sesiones de la Asamblea, dos días antes a aquél en que inicie el primer periodo ordinario de sesiones de la Asamblea. Este acto será presidido por los miembros de la Comisión y se desarrollará conforme al siguiente procedimiento:
+
+a) El Secretario de la Comisión dará lectura a la lista de los Representantes que hayan resultado electos, y comprobado que se tenga la concurrencia de la mayoría, se dará la palabra al Presidente de la Comisión. En caso de no contarse con dicha mayoría, la Comisión los citará dentro de las veinticuatro horas siguientes;
+
+b) El Presidente de la Comisión pedirá a los Representantes presentes que se pongan de pie y les tomará la protesta de la siguiente forma:
 Presidente: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y las leyes que de ellos emanen y desempeñar leal y patrióticamente el cargo de Representante a la Asamblea del Distrito Federal que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Distrito Federal? ".
 Representantes: "Si, protesto".
 Presidente: "Si no lo hiciereis así, la Nación os lo demande".
-Igual protesta están obligados a hacer cada uno de los Representantes que se presentaren después. c) Acto seguido, invitará a los Representantes a que elijan la Mesa Directiva de la Asamblea en escrutinio secreto y por mayoría de votos. d) Dado a conocer el resultado del escrutinio por uno de los Secretarios de la Comisión, los integrantes de la Mesa Directiva pasarán a ocupar su sitio en el Salón de Sesiones y el Presidente de la Asamblea dirá en voz alta: "La III Asamblea de Representantes del Distrito Federal se declara legalmente instalada".
+Igual protesta están obligados a hacer cada uno de los Representantes que se presentaren después.
+
+c) Acto seguido, invitará a los Representantes a que elijan la Mesa Directiva de la Asamblea en escrutinio secreto y por mayoría de votos.
+
+d) Dado a conocer el resultado del escrutinio por uno de los Secretarios de la Comisión, los integrantes de la Mesa Directiva pasarán a ocupar su sitio en el Salón de Sesiones y el Presidente de la Asamblea dirá en voz alta: "La III Asamblea de Representantes del Distrito Federal se declara legalmente instalada".
 DECIMO QUINTO.- Se derogan todas aquellas disposiciones que contravengan las contenidas en este Estatuto de Gobierno del Distrito Federal.
 DECIMO SEXTO.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
 DECIMO SEPTIMO.- Para el año de 1995, la elección de los Consejos de Ciudadanos se realizará el
@@ -1087,7 +1567,9 @@ Los inmuebles que sean de propiedad federal y que estén destinados o que por cu
 **DÉCIMO SEGUNDO.-** Una vez expedida la ley correspondiente y constituidos los órganos a que se refiere el Título Sexto de este Estatuto, en los términos de la ley de la materia, el Jefe de Gobierno del Distrito Federal podrá convocar a plebiscito.
 **DÉCIMO TERCERO.-** Los órganos de representación vecinal en el Distrito Federal con las funciones de carácter vinculatorio que determine la ley, se integrarán por elección conforme lo establezca la Ley de Participación Ciudadana.
 **DÉCIMO CUARTO.-** La elección indirecta de los titulares de las Delegaciones Políticas en el Distrito Federal, prevista en el Artículo Décimo Transitorio del Decreto de Adiciones y Reformas a la Constitución Política de los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el 22 de agosto de 1996, se realizará conforme a las siguientes bases:
+
 I. El Jefe de Gobierno enviará, a más tardar el 15 de diciembre de 1997, a la Asamblea Legislativa, propuestas individuales para cada uno de los titulares de las delegaciones políticas que deban nombrarse en el Distrito Federal;
+
 II. Para los efectos de la fracción anterior, el Jefe de Gobierno del Distrito Federal formulará las propuestas individuales para cada cargo. Las propuestas serán aprobadas por las dos terceras partes de los miembros presentes de la Asamblea Legislativa. En caso de que la Asamblea Legislativa no aprobase alguna o algunas de ellas, se enviarán segundas propuestas para los cargos que reste por designar; de no ser aprobadas alguna o algunas de las segundas propuestas, se presentará una tercera propuesta por cada cargo que faltase por designar, y si esta también fuese rechazada, se presentará una terna con nuevos candidatos y si ninguno de ellos obtuviera la mayoría calificada mencionada, quedará designado el que de ésta, haya obtenido el mayor número de votos;
 Las vacantes que por cualquier causa se presentaran serán cubiertas conforme al procedimiento anterior.
 ARTÍCULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; DE LA LEY DE EXPROPIACIÓN Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.

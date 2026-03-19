@@ -139,7 +139,17 @@ ARTICULO 33.- En caso de pérdidas y previo acuerdo de la asamblea general o de 
 CAPITULO VII De las Autoridades Competentes ARTICULO 34.- La Secretaría de Desarrollo Agrario, Territorial y Urbano y la Secretaría del Trabajo y Previsión Social, tendrán, además de las facultades que deriven de otros artículos de la presente ley, las siguientes:
 Párrafo reformado DOF 24-04-2018 I.- Obtener del comité ejecutivo o del financiero y de vigilancia toda clase de informes y datos relativos al funcionamiento de la sociedad o de sus actividades;
 II.- Vigilar que el patrimonio social y el fondo de solidaridad social se manejen y apliquen en los términos de la presente ley, y demás disposiciones derivadas de ella, y conforme a las bases constitutivas;
-III.- Revocar la autorización de funcionamiento de la sociedad, en los siguientes casos: a) Cuando los socios acuerden la liquidación, b) Cuando haya transcurrido el término de duración de la sociedad; c) Cuando la sociedad no esté en condiciones de realizar el objeto social; d) Cuando el número de socios sea inferior al mínimo establecido en esta ley; e) En los demás casos que impliquen violación o inobservancia graves a lo dispuesto en la presente ley o en las bases constitutivas;
+III.- Revocar la autorización de funcionamiento de la sociedad, en los siguientes casos:
+
+a) Cuando los socios acuerden la liquidación,
+
+b) Cuando haya transcurrido el término de duración de la sociedad;
+
+c) Cuando la sociedad no esté en condiciones de realizar el objeto social;
+
+d) Cuando el número de socios sea inferior al mínimo establecido en esta ley;
+
+e) En los demás casos que impliquen violación o inobservancia graves a lo dispuesto en la presente ley o en las bases constitutivas;
 IV.- En general, vigilar el cumplimiento a lo dispuesto en esta ley y demás disposiciones derivadas de ella, así como en las bases constitutivas, estatutos o reglamento interior de la sociedad.
 ARTICULO 35.- Las sociedades de solidaridad social podrán estar exentas del régimen del Seguro Social obligatorio. La exención respectiva será otorgada por el Ejecutivo Federal, cuando a su juicio tal medida sea indispensable para que la sociedad cumpla con sus objetivos.
 En cada declaratoria de exención, que será en todo caso intransferible, se fijará el monto, la duración y demás características de la misma.

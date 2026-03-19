@@ -26,21 +26,40 @@ Párrafo reformado DOF 09-04-2012 Las organizaciones ganaderas a las que se refi
 
 ### ARTÍCULO 4o
 .- Para los efectos de esta Ley se entiende por:
-Página I. Actividad ganadera: Conjunto de acciones para la explotación racional de especies animales orientadas a la producción de carne, leche, huevo, miel, piel, lana y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano;
+Página
+
+I. Actividad ganadera: Conjunto de acciones para la explotación racional de especies animales orientadas a la producción de carne, leche, huevo, miel, piel, lana y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano;
+
 II. Asociación ganadera local general: organización que agrupa a ganaderos que se dedican a la explotación racional de cualquier especie animal, en un municipio determinado;
+
 III. Asociación ganadera local especializada: organización que agrupa a ganaderos criadores de una especie animal determinada, en un municipio, conforme lo establezca el reglamento;
+
 IV. Confederación Nacional de Organizaciones Ganaderas: organización que agrupa a las uniones ganaderas regionales, generales o estatales y especializadas;
+
 V. Especie animal: aquella cuya reproducción sea controlada por el hombre, con el objeto de propagarla, para obtener satisfactores de necesidades vitales o de desarrollo humano;
+
 VI. Ganadero: persona física o moral que se dedica a la cría, producción, fomento y explotación racional de alguna especie animal;
+
 VII. Ley: Ley de Organizaciones Ganaderas;
+
 VIII. Local: extensión territorial con la que cuenta un municipio;
+
 IX. Organizaciones ganaderas: las asociaciones ganaderas locales generales y especializadas, las uniones ganaderas regionales generales o estatales y especializadas y la Confederación Nacional de Organizaciones Ganaderas, todas ellas debidamente constituidas en los términos de esta Ley;
+
 X. Padrón de productores: la lista de los miembros de una organización ganadera, en la que se indican su nombre o razón social, domicilios particulares, la denominación de los predios, el tipo de propiedad de los mismos, la localidad donde realizan sus actividades y el inventario global de animales que posea el padrón;
+
 XI. Región ganadera: zona que por sus características geográficas y económicas determine la Secretaría en términos del reglamento de esta Ley;
+
 XII. Secretaría: la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
-Fracción reformada DOF 09-04-2012 XIII. Unidad de producción individual: la que es explotada por una persona física en forma individual;
+Fracción reformada DOF 09-04-2012
+
+XIII. Unidad de producción individual: la que es explotada por una persona física en forma individual;
+
 XIV. Unidad de producción colectiva: la que es explotada por cualesquiera de las personas morales a las que se refieren las leyes;
-XV. Unión ganadera regional general: organización que agrupa a cuando menos el treinta por ciento de las asociaciones ganaderas locales, generales en una región ganadera o en un estado; y XVI. Unión ganadera regional especializada: organización que agrupa a cuando menos el cuarenta por ciento de las asociaciones ganaderas locales especializadas en una región ganadera o en un estado.
+
+XV. Unión ganadera regional general: organización que agrupa a cuando menos el treinta por ciento de las asociaciones ganaderas locales, generales en una región ganadera o en un estado; y
+
+XVI. Unión ganadera regional especializada: organización que agrupa a cuando menos el cuarenta por ciento de las asociaciones ganaderas locales especializadas en una región ganadera o en un estado.
 
 ## TÍTULO II
 DE LAS ORGANIZACIONES GANADERAS Página
@@ -50,20 +69,37 @@ Del objeto
 
 ### ARTÍCULO 5o
 .- Las organizaciones ganaderas a que se refiere esta Ley tendrán por objeto:
+
 I. Promover y fomentar entre sus asociados la adopción de tecnologías adecuadas para el desarrollo sustentable y sostenible y la explotación racional de las diversas especies ganaderas;
+
 II. Orientar la producción de acuerdo a las condiciones del mercado, ya sea intensificándola o limitándola;
+
 III. Promover la integración de la cadena producción-proceso-comercialización para el abastecimiento de los mercados, y fomentar el consumo de los productos de origen animal de producción nacional, así como inducir la participación en el Comercio Exterior;
+
 IV. Proponer la elaboración de proyectos de Normas Oficiales Mexicanas y Normas Mexicanas en las materias de producción ganadera y sanidad animal ante las autoridades competentes, y promover su aplicación para garantizar la oferta de productos ganaderos de calidad;
+
 V. Propugnar por la estandarización de los productos ganaderos a fin de satisfacer las demandas del mercado, agilizar las operaciones mercantiles, intervenir como órgano de consulta en la autorización de cupos de importación del sector, y ante todo estimular a los que se preocupen por obtener productos de mejor calidad y poder alcanzar así, mejores ingresos para los asociados;
+
 VI. Identificar y difundir las opciones financieras que beneficien a sus asociados, así como propugnar por la formación de figuras jurídicas de crédito. Las organizaciones ganaderas serán reconocidas, en términos de la ley correspondiente, como organizaciones auxiliares de crédito para el apoyo de sus miembros y la consecución de sus propios objetivos como entidades económicas;
+
 VII. Propugnar por la instalación, en los lugares que crean convenientes, de plantas empacadoras, pasteurizadoras, refrigeradoras, cardadoras, lavadoras y todas aquellas que sean necesarias para la industrialización, conservación y comercialización de los productos ganaderos;
+
 VIII. Coadyuvar con la Secretaría en la materia de sanidad animal en los términos de la Ley correspondiente;
+
 IX. Propugnar por la formación de organizaciones cooperativas y en general, cualquier otro tipo de organizaciones que favorezcan la capitalización y la competitividad de la ganadería y contribuyan a la realización directa de las actividades económicas inherentes;
+
 X. Intervenir como órgano de participación y consulta en el Sistema Nacional de Planeación Democrática, así como en la formulación de propuestas de políticas de desarrollo y fomento a la actividad ganadera;
+
 XI. Representar ante toda clase de autoridades, los intereses comunes de sus asociados y proponer las medidas que estimen más adecuadas para la protección y defensa de los mismos;
+
 XII. Coadyuvar con la Secretaría, cuando ésta lo solicite, en la elaboración, implementación y ejecución de programas de integración horizontal y vertical de las actividades ganaderas;
-Página XIII. Apoyar a sus afiliados en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones de observancia general que para tal efecto emita la Secretaría de Hacienda y Crédito Público;
-XIV. Establecer fideicomisos cuyo objeto sea el de promover el consumo de productos y subproductos pecuarios, la racionalización de sus excedentes temporales y el fortalecimiento del sector pecuario para mantener y expandir los usos domésticos y exteriores de la producción nacional; y XV. Las demás que se deriven de su naturaleza, de sus estatutos y las que les señalen otros ordenamientos legales.
+Página
+
+XIII. Apoyar a sus afiliados en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones de observancia general que para tal efecto emita la Secretaría de Hacienda y Crédito Público;
+
+XIV. Establecer fideicomisos cuyo objeto sea el de promover el consumo de productos y subproductos pecuarios, la racionalización de sus excedentes temporales y el fortalecimiento del sector pecuario para mantener y expandir los usos domésticos y exteriores de la producción nacional; y
+
+XV. Las demás que se deriven de su naturaleza, de sus estatutos y las que les señalen otros ordenamientos legales.
 
 ## CAPÍTULO II
 De la constitución, organización y registro
@@ -121,9 +157,14 @@ De la disolución
 
 ### ARTÍCULO 17
 .- Las organizaciones ganaderas se disolverán:
+
 I. Por acuerdo de las dos terceras partes de sus asociados en asamblea general ordinaria que deberá ser convocada especialmente para este efecto, o por la imposibilidad de seguir realizando los objetivos que señala esta Ley y sus estatutos;
+
 II. Cuando no cuenten con los recursos suficientes para su sostenimiento o para el cumplimiento de su objeto en términos de esta Ley;
-III. Porque el número de asociados llegue a ser inferior al mínimo necesario que esta Ley establece, o IV. En caso de que la Secretaría emita resolución que revoque su registro, por las causas previstas en esta Ley, o por resolución judicial que haya causado ejecutoria.
+
+III. Porque el número de asociados llegue a ser inferior al mínimo necesario que esta Ley establece, o
+
+IV. En caso de que la Secretaría emita resolución que revoque su registro, por las causas previstas en esta Ley, o por resolución judicial que haya causado ejecutoria.
 Disuelta la organización se procederá a su liquidación, en los términos legales aplicables.
 
 ### ARTÍCULO 18

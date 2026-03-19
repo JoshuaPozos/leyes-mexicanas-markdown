@@ -26,11 +26,18 @@ El cumplimiento de las obligaciones fiscales a que se refiere la presente Ley, s
 
 ### Artículo 3
 . Para los efectos de esta Ley se entiende por:
+
 I. Persona beneficiaria: Persona (s) física (s) o moral (es) que realice (n) actividades económicas, que cumplan con sus obligaciones regulatorias y fiscales;
+
 II. Ley: Ley de Fomento a la Confianza Ciudadana;
+
 III. Comisión: La Comisión Nacional de Mejora Regulatoria a que se refiere la Ley General de Mejora Regulatoria, órgano desconcentrado de la Secretaría de Economía, que estará a cargo, en términos de la presente Ley, de la implementación de políticas y programas en materia administrativa, que generen un entorno de confianza ciudadana para el impulso de la actividad económica, así como de la operación y administración del Padrón Único de Fomento a la Confianza Ciudadana;
+
 IV. Padrón: Padrón Único de Fomento a la Confianza Ciudadana;
-V. Reglamento: El Reglamento de la Ley de Fomento a la Confianza Ciudadana, y VI. Secretaría: Secretaría de Economía.
+
+V. Reglamento: El Reglamento de la Ley de Fomento a la Confianza Ciudadana, y
+
+VI. Secretaría: Secretaría de Economía.
 
 ## CAPÍTULO II
 DE LA INTEGRACIÓN, OPERACIÓN Y OBJETO DEL PADRÓN ÚNICO DE FOMENTO A LA CONFIANZA CIUDADANA
@@ -41,9 +48,14 @@ La información que se consigne en el Padrón deberá sujetarse a lo establecido
 
 ### Artículo 5
 . El Padrón se conformará con la información de las personas que se inscriban. El Padrón se conformará al menos con los siguientes datos:
+
 I. Nombre de la persona física o moral con actividad empresarial;
+
 II. En su caso, nombre del representante legal;
-III. Domicilio, y IV. Descripción de la actividad económica.
+
+III. Domicilio, y
+
+IV. Descripción de la actividad económica.
 La inscripción será voluntaria y se entenderá como un acto de buena fe, por el cual las personas beneficiarias manifiesten que se encuentran en cumplimiento de sus obligaciones regulatorias y fiscales, de acuerdo con la actividad económica que desempeñen.
 Al momento de su inscripción en el Padrón, las personas beneficiarias deberán manifestar bajo protesta de decir verdad, que se comprometen a continuar con el cumplimiento de las obligaciones derivadas de la normatividad que los regula, así como con sus obligaciones fiscales para recibir los beneficios que se otorguen en el marco de la presente Ley.
 Las personas beneficiarias podrán solicitar su eliminación del Padrón en el momento que así lo decidan sin que este procedimiento implique verificaciones o revisiones por parte de la autoridad.
@@ -72,17 +84,30 @@ DE LA COORDINACIÓN INSTITUCIONAL PARA EL FOMENTO DE LA CONFIANZA CIUDADANA
 
 ### Artículo 11
 . Sin perjuicio de las facultades otorgadas por otras disposiciones jurídicas, la Secretaría, por conducto de la Comisión, tendrá las funciones siguientes:
+
 I. Fomentar la cultura de la legalidad, de la honestidad, del cumplimiento de obligaciones y del comercio formal;
+
 II. Promover y celebrar convenios que conforme a la Ley procedan y tengan por objeto brindar beneficios y facilidades administrativas a las personas físicas y morales que realicen actividades económicas y cumplan con los requisitos previos para hacerse acreedoras a las mismas;
+
 III. Generar un entorno de confianza entre las personas físicas y morales que realicen actividades económicas y la Administración Pública Federal, basado en el cumplimiento permanente de las obligaciones regulatorias y fiscales, con el fin de contar con beneficios y facilidades administrativas por parte de las dependencias y entidades de la Administración Pública Federal;
+
 IV. Promover la coordinación de acciones y programas de las dependencias y entidades de la Administración Pública Federal en el ámbito de sus atribuciones para el otorgamiento de beneficios y facilidades administrativas;
+
 V. Operar y administrar el Padrón, en los términos de esta Ley y los convenios que conforme a derecho procedan;
+
 VI. Acordar los beneficios y facilidades administrativas que la Administración Pública Federal otorgará a las personas beneficiarias inscritas en el Padrón;
+
 VII. Definir los criterios para el registro de las personas beneficiarias en el Padrón, tomando en consideración las particularidades y el marco jurídico y normativo que regula cada actividad económica;
+
 VIII. Publicar un informe anual sobre los avances y el cumplimiento de las acciones y los programas que se emiten, de conformidad con las disposiciones de la presente Ley;
+
 IX. Efectuar la selección de las personas beneficiarias de manera estratégica mediante análisis de información inscritas en el Padrón, cuyas obligaciones serán verificadas de acuerdo con la actividad económica que realicen. La Secretaría, por conducto de la Comisión, escuchando la opinión de las personas a que se refiere el artículo 16 de la Ley General de Mejora Regulatoria, determinará la periodicidad con que se efectuarán las verificaciones a que se refiere esta fracción;
+
 X. Establecer los mecanismos de colaboración que se instrumentarán con el objeto de llevar a cabo los procesos de verificación a que se refiere la fracción que precede;
-XI. Imponer las sanciones a que se refiere el artículo 16 de la presente Ley, y XII. Las demás que le confieran la presente Ley y cualquier disposición jurídica que de ella derive.
+
+XI. Imponer las sanciones a que se refiere el artículo 16 de la presente Ley, y
+
+XII. Las demás que le confieran la presente Ley y cualquier disposición jurídica que de ella derive.
 
 ### Artículo 12
 . La Secretaría, por conducto de la Comisión, velará porque los beneficios y facilidades administrativas que instrumenten las dependencias y entidades de la Administración Pública Federal cumplan con criterios de equidad, proporcionalidad, racionalidad y eficiencia, así como con los objetivos a que se refiere el artículo 8 de la Ley General de Mejora Regulatoria.

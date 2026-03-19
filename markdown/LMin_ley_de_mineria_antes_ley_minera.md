@@ -22,30 +22,56 @@ Artículo reformado DOF 28-04-2005
 ### Artículo 3
 .- Para los efectos de la presente Ley se entiende por:
 I.- Exploración: Las obras y trabajos realizados en el terreno con el objeto de identificar depósitos de minerales o sustancias, al igual que de cuantificar y evaluar las reservas económicamente aprovechables que contengan;
-Fracción reformada DOF 26-06-2006 LEY DE MINERÍA II. Explotación: Las obras y trabajos destinados a la preparación y desarrollo del área que comprende el depósito mineral, así como los encaminados a desprender y extraer los productos minerales o sustancias existentes en el mismo;
-Fracción reformada DOF 26-06-2006, 08-05-2023 III. Beneficio: Los trabajos para preparación, tratamiento, fundición de primera mano y refinación de productos minerales, en cualquiera de sus fases, con el propósito de recuperar u obtener minerales o sustancias, al igual que de elevar la concentración y pureza de sus contenidos, y Fracción reformada DOF 08-05-2023 IV. Uso o aprovechamiento: Derecho a obtener y disponer los recursos derivados de la explotación y beneficio de las actividades mineras.
+Fracción reformada DOF 26-06-2006 LEY DE MINERÍA
+
+II. Explotación: Las obras y trabajos destinados a la preparación y desarrollo del área que comprende el depósito mineral, así como los encaminados a desprender y extraer los productos minerales o sustancias existentes en el mismo;
+Fracción reformada DOF 26-06-2006, 08-05-2023
+
+III. Beneficio: Los trabajos para preparación, tratamiento, fundición de primera mano y refinación de productos minerales, en cualquiera de sus fases, con el propósito de recuperar u obtener minerales o sustancias, al igual que de elevar la concentración y pureza de sus contenidos, y Fracción reformada DOF 08-05-2023
+
+IV. Uso o aprovechamiento: Derecho a obtener y disponer los recursos derivados de la explotación y beneficio de las actividades mineras.
 Fracción adicionada DOF 08-05-2023
 
 ### Artículo 4
 . Son minerales o sustancias que en vetas, mantos, masas o yacimientos constituyen depósitos distintos de los componentes de los terrenos los siguientes:
-Párrafo reformado DOF 28-04-2005 I. Minerales o sustancias de los que se extraigan antimonio, arsénico, bario, berilio, bismuto, boro, bromo, cadmio, cesio, cobalto, cobre, cromo, escandio, estaño, estroncio, flúor, fósforo, galio, germanio, hafnio, hierro, indio, iridio, itrio, lantánidos, litio, magnesio, manganeso, mercurio, molibdeno, niobio, níquel, oro, osmio, paladio, plata, platino, plomo, potasio, renio, rodio, rubidio, rutenio, selenio, sodio, talio, tantalio, telurio, titanio, tungsteno, vanadio, zinc, zirconio y yodo;
-Fracción reformada DOF 28-04-2005 II. Minerales o grupos de minerales de uso industrial siguientes: actinolita, alumbre, alunita, amosita, andalucita, anhidrita, antofilita, azufre, barita, bauxita, biotita, bloedita, boemita, boratos, brucita, carnalita, celestita, cianita, cordierita, corindón, crisotilo, crocidolita, cromita, cuarzo, dolomita, epsomita, estaurolita, flogopita, fosfatos, fluorita, glaserita, glauberita, grafito, granates, halita, hidromagnesita, kainita, kieserita, langbeinita, magnesita, micas, mirabilita, mulita, muscovita, nitratina, olivinos, palygorskita, pirofilita, polihalita, sepiolita, silimanita, silvita, talco, taquidrita, tenardita, tremolita, trona, vermiculita, witherita, wollastonita, yeso, zeolitas y zircón;
-Fracción reformada DOF 28-04-2005 II. BIS. Diatomita;
-Fracción adicionada DOF 28-04-2005 III. (Se deroga);
-Fracción derogada DOF 28-04-2005 IV. Piedras preciosas: agua marina, alejandrina, amatista, amazonita, aventurina, berilo, crisoberilo, crocidolita, diamante, dioptasa, epidota, escapolita, esmeralda, espinel, espodumena, jadeita, kuncita, lapislázuli, malaquita, morganita, olivino, ópalo, riebeckita, rubí, sodalita, tanzanita, topacio, turmalina, turquesa, vesubianita y zafiro;
-Fracción reformada DOF 28-04-2005 V. Sal gema;
-Fracción reformada DOF 28-04-2005 VI. Los productos derivados de la descomposición de las rocas cuando su explotación necesite trabajos subterráneos, como las arcillas en todas su variedades, tales como el caolín y las montmorillonitas, al igual que las arenas de cuarzo, feldespatos y plagioclasas;
-Fracción reformada DOF 28-04-2005 LEY DE MINERÍA VII. Las materias minerales u orgánicas siguientes, susceptibles de ser utilizadas como fertilizantes: apatita, colófano, fosfosiderita, francolita, variscita, wavelita y guano;
-Fracción reformada DOF 28-04-2005 VIII. El carbón mineral en todas sus variedades;
+Párrafo reformado DOF 28-04-2005
+
+I. Minerales o sustancias de los que se extraigan antimonio, arsénico, bario, berilio, bismuto, boro, bromo, cadmio, cesio, cobalto, cobre, cromo, escandio, estaño, estroncio, flúor, fósforo, galio, germanio, hafnio, hierro, indio, iridio, itrio, lantánidos, litio, magnesio, manganeso, mercurio, molibdeno, niobio, níquel, oro, osmio, paladio, plata, platino, plomo, potasio, renio, rodio, rubidio, rutenio, selenio, sodio, talio, tantalio, telurio, titanio, tungsteno, vanadio, zinc, zirconio y yodo;
+Fracción reformada DOF 28-04-2005
+
+II. Minerales o grupos de minerales de uso industrial siguientes: actinolita, alumbre, alunita, amosita, andalucita, anhidrita, antofilita, azufre, barita, bauxita, biotita, bloedita, boemita, boratos, brucita, carnalita, celestita, cianita, cordierita, corindón, crisotilo, crocidolita, cromita, cuarzo, dolomita, epsomita, estaurolita, flogopita, fosfatos, fluorita, glaserita, glauberita, grafito, granates, halita, hidromagnesita, kainita, kieserita, langbeinita, magnesita, micas, mirabilita, mulita, muscovita, nitratina, olivinos, palygorskita, pirofilita, polihalita, sepiolita, silimanita, silvita, talco, taquidrita, tenardita, tremolita, trona, vermiculita, witherita, wollastonita, yeso, zeolitas y zircón;
+Fracción reformada DOF 28-04-2005
+
+II. BIS. Diatomita;
+Fracción adicionada DOF 28-04-2005
+
+III. (Se deroga);
+Fracción derogada DOF 28-04-2005
+
+IV. Piedras preciosas: agua marina, alejandrina, amatista, amazonita, aventurina, berilo, crisoberilo, crocidolita, diamante, dioptasa, epidota, escapolita, esmeralda, espinel, espodumena, jadeita, kuncita, lapislázuli, malaquita, morganita, olivino, ópalo, riebeckita, rubí, sodalita, tanzanita, topacio, turmalina, turquesa, vesubianita y zafiro;
+Fracción reformada DOF 28-04-2005
+
+V. Sal gema;
+Fracción reformada DOF 28-04-2005
+
+VI. Los productos derivados de la descomposición de las rocas cuando su explotación necesite trabajos subterráneos, como las arcillas en todas su variedades, tales como el caolín y las montmorillonitas, al igual que las arenas de cuarzo, feldespatos y plagioclasas;
+Fracción reformada DOF 28-04-2005 LEY DE MINERÍA
+
+VII. Las materias minerales u orgánicas siguientes, susceptibles de ser utilizadas como fertilizantes: apatita, colófano, fosfosiderita, francolita, variscita, wavelita y guano;
+Fracción reformada DOF 28-04-2005
+
+VIII. El carbón mineral en todas sus variedades;
 Fracción reformada DOF 28-04-2005, 26-06-2006, 11-08-2014 IX.- Los demás que determine el Ejecutivo Federal, mediante decreto que será publicado en el Diario Oficial de la Federación, atendiendo a su uso industrial debido al desarrollo de nuevas tecnologías, a su cotización en los mercados internacionales o a la necesidad de promover la explotación racional y la preservación de los recursos no renovables en beneficio de la sociedad.
 Quienes estén realizando la exploración o explotación de los minerales o sustancias a que se refiere la fracción IX anterior, con base en las disposiciones del derecho común, tendrán derecho preferente para obtener la concesión minera correspondiente, siempre que la soliciten en los términos de esta Ley y su Reglamento.
 
 ### Artículo 5
 . Se exceptúan de la aplicación de la presente Ley:
+
 I. El petróleo y los demás hidrocarburos sólidos, líquidos o gaseosos, que se encuentren en el subsuelo;
 Fracción reformada DOF 26-06-2006, 11-08-2014 II.- Los minerales radiactivos;
 III.- Las sustancias contenidas en suspensión o disolución por aguas subterráneas, siempre que no provengan de un depósito mineral distinto de los componentes de los terrenos;
 IV.- Las rocas o los productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales de construcción o se destinen a este fin;
+
 V. Los productos derivados de la descomposición de las rocas, cuando su explotación se realice por medio de trabajos a cielo abierto, y Fracción reformada DOF 28-04-2005 VI.- La sal que provenga de salinas formadas en cuencas endorréicas.
 
 ### Artículo 5
@@ -76,22 +102,48 @@ Artículo adicionado DOF 08-05-2023
 I.- Regular y promover la exploración y explotación, al igual que el aprovechamiento racional y preservación de los recursos minerales de la Nación;
 II.- Elaborar y dar seguimiento al programa sectorial en materia minera y coordinar la elaboración y evaluación, así como dar seguimiento a los programas institucionales, regionales y especiales de fomento a la pequeña y mediana minería y al sector social;
 III.- Opinar ante las dependencias del Ejecutivo Federal en los asuntos de la competencia de éstas relacionados con la industria minerometalúrgica;
+
 IV. Participar con las dependencias competentes en la elaboración de las normas oficiales mexicanas y las normas mexicanas relativas a la industria minero-metalúrgica en materia de higiene y seguridad en las minas, salud ocupacional y de equilibrio ecológico y protección al ambiente;
 Fracción reformada DOF 28-04-2005 IV BIS. Emitir las opiniones técnicas que su propio reglamento interior señale;
-Fracción adicionada DOF 28-04-2005 V. Someter a la consideración del Ejecutivo Federal los proyectos de decreto para determinar los minerales o sustancias sujetos a concesión, así como los que declaren o supriman zonas de reservas mineras;
+Fracción adicionada DOF 28-04-2005
+
+V. Someter a la consideración del Ejecutivo Federal los proyectos de decreto para determinar los minerales o sustancias sujetos a concesión, así como los que declaren o supriman zonas de reservas mineras;
 Fracción reformada DOF 08-05-2023 VI.- Expedir títulos de concesión y de asignación mineras, al igual que resolver sobre su nulidad o cancelación o la suspensión e insubsistencia de los derechos que deriven de las mismas;
+
 VII. Integrar el expediente y resolver en los términos de la presente Ley y la de la materia sobre las solicitudes de ocupación temporal o constitución de servidumbre de terrenos indispensables para llevar a cabo la exploración, explotación y beneficio de minerales o sustancias sujetos a la aplicación de esta Ley;
 Fracción reformada DOF 08-05-2023 VIII.- Resolver sobre las controversias que se susciten con respecto a la negativa de las personas que beneficien mineral a recibir el de terceros;
+
 IX. Solicitar y recibir, con carácter confidencial, información sobre la producción, beneficio y destino de los minerales, geología de los yacimientos y reservas del mineral, así como sobre los estados económicos y contables de empresas mineras y metalúrgicas;
 Fracción reformada DOF 28-04-2005 LEY DE MINERÍA X.- Llevar el Registro Público de Minería y la Cartografía Minera y realizar toda clase de levantamientos topográficos y geodésicos con el fin de mantener actualizada esta última;
 XI.- Corregir administrativamente los errores que encuentre en un título de concesión o de asignación, previa audiencia al titular y sin perjuicio de tercero;
+
 XII. Verificar el cumplimiento de los deberes y obligaciones que impone la presente Ley a quienes lleven a cabo la exploración, explotación o beneficio de minerales o sustancias materia de la concesión y cierre de operaciones mineras e imponer las sanciones administrativas derivadas de su inobservancia;
-Fracción reformada DOF 08-05-2023 XIII. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014 XIV. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014 XV. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014 XVI. Resolver los recursos que se interpongan conforme a lo previsto por esta Ley;
-Fracción recorrida DOF 26-06-2006. Reformada DOF 08-05-2023 XVII. Dictaminar los estudios de impacto social para el otorgamiento de concesiones, conforme a lo previsto en el artículo 6 BIS, primer párrafo, de la presente Ley;
-Fracción recorrida DOF 26-06-2006. Reformada DOF 08-05-2023 XVIII. Declarar la nulidad de concesiones y actos administrativos regulados por la presente Ley en caso de omisión o irregularidad de cualquiera de los elementos de validez del acto administrativo establecidos en las fracciones I a X del artículo 3 de la Ley Federal de Procedimiento Administrativo;
-Fracción adicionada DOF 08-05-2023 XIX. Promover juicio de lesividad en contra de resoluciones administrativas y concesiones que lesionen el interés público o a la Administración Pública Federal;
-Fracción adicionada DOF 08-05-2023 XX. Coordinarse con las autoridades fiscales a efecto de recabar la información necesaria para verificar el cumplimiento de obligaciones de las personas titulares de concesiones mineras;
-Fracción adicionada DOF 08-05-2023 XXI. Coordinarse con la autoridad competente para garantizar la realización de la consulta libre, previa e informada de los pueblos y comunidades indígenas y afromexicanas, y Fracción adicionada DOF 08-05-2023 XXII. Las demás que le confieren expresamente otras leyes.
+Fracción reformada DOF 08-05-2023
+
+XIII. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014
+
+XIV. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014
+
+XV. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014
+
+XVI. Resolver los recursos que se interpongan conforme a lo previsto por esta Ley;
+Fracción recorrida DOF 26-06-2006. Reformada DOF 08-05-2023
+
+XVII. Dictaminar los estudios de impacto social para el otorgamiento de concesiones, conforme a lo previsto en el artículo 6 BIS, primer párrafo, de la presente Ley;
+Fracción recorrida DOF 26-06-2006. Reformada DOF 08-05-2023
+
+XVIII. Declarar la nulidad de concesiones y actos administrativos regulados por la presente Ley en caso de omisión o irregularidad de cualquiera de los elementos de validez del acto administrativo establecidos en las fracciones I a X del artículo 3 de la Ley Federal de Procedimiento Administrativo;
+Fracción adicionada DOF 08-05-2023
+
+XIX. Promover juicio de lesividad en contra de resoluciones administrativas y concesiones que lesionen el interés público o a la Administración Pública Federal;
+Fracción adicionada DOF 08-05-2023
+
+XX. Coordinarse con las autoridades fiscales a efecto de recabar la información necesaria para verificar el cumplimiento de obligaciones de las personas titulares de concesiones mineras;
+Fracción adicionada DOF 08-05-2023
+
+XXI. Coordinarse con la autoridad competente para garantizar la realización de la consulta libre, previa e informada de los pueblos y comunidades indígenas y afromexicanas, y Fracción adicionada DOF 08-05-2023
+
+XXII. Las demás que le confieren expresamente otras leyes.
 Fracción adicionada DOF 08-05-2023 La Secretaría puede coordinarse con otras autoridades federales, estatales y municipales competentes para el ejercicio de sus facultades de verificación, en el ámbito de sus respectivas atribuciones.
 Párrafo reformado DOF 08-05-2023 LEY DE MINERÍA
 
@@ -106,40 +158,74 @@ Reforma DOF 08-05-2023: Reestructuró el artículo suprimiendo los entonces pár
 
 ### Artículo 9
 BIS.- Para el cumplimiento de su objeto, el Servicio Geológico Mexicano tiene las siguientes funciones:
+
 I. Promover y realizar la investigación geológica, minera y metalúrgica para el aprovechamiento sustentable de los recursos minerales del país;
+
 II. Identificar y estimar los recursos minerales potenciales del país;
+
 III. Inventariar los depósitos minerales del país;
+
 IV. Proporcionar el servicio público de información geológica, geofísica, geoquímica y minera del país;
+
 V. Elaborar y mantener actualizada la Carta Geológica de México, en las escalas requeridas;
+
 VI. Proveer la información geoquímica del territorio nacional obtenida de acuerdo a normas internacionales y establecer las características geofísicas del subsuelo y proporcionar su interpretación;
+
 VII. Dar a la pequeña y mediana minería, y al sector social, asesoría técnica en materia de evaluación de depósitos minerales, procesos metalúrgicos y análisis físico-químicos de muestras de minerales, para su aprovechamiento;
+
 VIII. Proporcionar el servicio de laboratorio y el estudio e interpretación de análisis químicos, físicoquímicos, metalúrgicos y geológicos de muestras en estado sólido, líquido o gaseoso;
+
 IX. Aportar elementos de juicio a la Secretaría, con relación a la determinación de los minerales y sustancias materia de la concesión y la declaración o supresión de zonas de reserva minera;
-LEY DE MINERÍA X. Coordinarse con otras entidades e instituciones públicas o privadas, nacionales o extranjeras, que realicen investigaciones geocientíficas;
+LEY DE MINERÍA
+
+X. Coordinarse con otras entidades e instituciones públicas o privadas, nacionales o extranjeras, que realicen investigaciones geocientíficas;
+
 XI. Prestar los servicios descritos en este artículo, dentro o fuera del territorio nacional, a personas físicas o morales, instituciones públicas o privadas, nacionales o extranjeras;
+
 XII. Brindar asistencia técnica en materia de planeación de uso del suelo, con los estudios de: riesgo geológico, ambientales, territoriales, geohidrológicos y geotécnicos, que se requieran para este fin;
+
 XIII. Obtener y conservar la información de ciencias de la tierra, para incrementar el acervo del servicio público de información geológica, geofísica, geoquímica y minera del país;
+
 XIV. Participar en las reuniones geocientíficas nacionales e internacionales;
+
 XV. Formar parte del Consejo Nacional de Áreas Naturales Protegidas, conforme al artículo 56 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento;
+
 XVI. Proporcionar la información geológica, geoquímica y geofísica y asesoría técnica sobre el uso y aprovechamiento, actuales y potenciales, de los recursos minerales, que se les debe requerir en los términos del artículo 58 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
 XVII. Identificar y promover ante la Secretaría la ejecución de obras de infraestructura que propicien el desarrollo de distritos mineros;
+
 XVIII. Desarrollar, introducir y adaptar nuevas tecnologías, a fin de mejorar la exploración, explotación y aprovechamiento de los recursos minerales de la Nación, priorizando el uso de aquéllas con el menor impacto y riesgo ambiental;
+
 XIX. Auxiliar a la Secretaría en los concursos a que se refiere esta Ley;
+
 XX. Actuar como órgano de consulta de la Secretaría, en los peritajes y visitas de verificación en que ésta intervenga;
+
 XXI. Certificar reservas minerales a petición de la persona interesada;
+
 XXII. Celebrar contratos mediante licitación pública para llevar a cabo obras y trabajos dentro de los lotes que amparen las órdenes que emita la Secretaría, en los términos previstos al efecto por el Reglamento de la presente Ley y la normativa aplicable;
+
 XXIII. Fijar y ajustar los precios de los servicios que preste, con excepción de aquellos que se determinen por acuerdo del Ejecutivo Federal;
-XXIV. Coordinarse con las autoridades estatales para impulsar y difundir el conocimiento de la actividad geológica, minera y metalúrgica mediante la promoción del establecimiento de museos de minería, proveyendo para ello, de conformidad con las disposiciones aplicables, las asignaciones presupuestales que se contemplen en los convenios que se celebren para el efecto con los Gobiernos de los Estados, y XXV. Realizar las actividades que le confieren expresamente otras leyes.
+
+XXIV. Coordinarse con las autoridades estatales para impulsar y difundir el conocimiento de la actividad geológica, minera y metalúrgica mediante la promoción del establecimiento de museos de minería, proveyendo para ello, de conformidad con las disposiciones aplicables, las asignaciones presupuestales que se contemplen en los convenios que se celebren para el efecto con los Gobiernos de los Estados, y
+
+XXV. Realizar las actividades que le confieren expresamente otras leyes.
 Artículo adicionado DOF 08-05-2023 LEY DE MINERÍA
 
 ### Artículo 9
 TER.- La administración del Servicio Geológico Mexicano queda a cargo de un Órgano de Gobierno y de la persona titular de la Dirección General.
 El Órgano de Gobierno se integra por las siguientes personas:
+
 I. La titular de la Secretaría de Economía, quien la preside;
+
 II. Tres representantes de la Secretaría de Economía;
+
 III. Una representante de la Secretaría de Hacienda y Crédito Público;
+
 IV. Una representante de la Secretaría de Bienestar;
-V. Una representante de la Secretaría de Medio Ambiente y Recursos Naturales, y VI. Una representante de la Secretaría de Energía.
+
+V. Una representante de la Secretaría de Medio Ambiente y Recursos Naturales, y
+
+VI. Una representante de la Secretaría de Energía.
 Las reuniones del Órgano de Gobierno son válidas con la asistencia de, por lo menos, la mitad más una persona de sus integrantes. Sus resoluciones se deben tomar por mayoría de votos de sus integrantes presentes y, en caso de empate, la persona titular de la Presidencia tiene voto de calidad.
 La persona titular de la Dirección General debe ser designada por la persona titular de la Presidencia de la República, a través de la persona titular de la Secretaría, conforme a los requisitos indicados en la Ley Federal de las Entidades Paraestatales.
 Son facultades y obligaciones del Órgano de Gobierno y de la persona titular de la Dirección General del Servicio Geológico Mexicano las establecidas por la Ley Federal de las Entidades Paraestatales y su Reglamento, así como las indicadas en el Reglamento de esta Ley y el Estatuto Orgánico del organismo.
@@ -164,6 +250,7 @@ Artículo adicionado DOF 08-05-2023
 
 ### Artículo 11
 .- Se consideran legalmente capacitadas para ser titulares de concesiones mineras las sociedades constituidas conforme a las leyes mexicanas:
+
 I. Cuyo objeto social se refiera a la explotación de minerales o sustancias sujetos a la aplicación de la presente Ley;
 Fracción reformada DOF 08-05-2023 II.- Que tengan su domicilio legal en la República Mexicana, y III.- En las que la participación de inversionistas extranjeros, en su caso, se ajuste a las disposiciones de la ley de la materia.
 LEY DE MINERÍA Reforma DOF 24-12-1996: Derogó del artículo el entonces párrafo segundo
@@ -189,14 +276,52 @@ Artículo reformado DOF 24-12-1996, 28-04-2005, 08-05-2023
 
 ### Artículo 13
 BIS.- En los concursos mediante los cuales se otorguen las concesiones a que se refiere el artículo anterior, la Secretaría debe:
-Numeración reformada (antes artículo 13 A) DOF 28-04-2005. Párrafo reformado DOF 08-05-2023 I. Publicar la convocatoria en el Diario Oficial de la Federación, la cual debe contener: a) La descripción de los terrenos o zonas objeto del concurso; b) La fecha, hora y lugar, en su caso, de celebración de la junta de aclaración a la convocatoria y bases; c) La fecha, hora y lugar del acto de presentación y apertura de propuestas de contraprestación económica y de prima por descubrimiento; d) La fecha, hora y lugar en que se dará a conocer el fallo y el señalamiento de la forma en la que se deben presentar las propuestas; e) El idioma o lengua, además del español, en que se deben presentar las propuestas; f) Los requisitos que deben cumplir las personas interesadas en participar en el concurso, los cuales no deben limitar la libre participación, concurrencia y competencia económica; g) La forma en que las personas concursantes deben acreditar su existencia legal y personalidad jurídica, para efectos de la suscripción de las propuestas. Asimismo, la indicación de que la persona concursante debe proporcionar una dirección de correo electrónico para realizar notificaciones, incluso las personales; h) El domicilio de las oficinas de la Secretaría de Economía o, en su caso, el medio electrónico en que podrán presentarse las propuestas, así como la fecha y hora límite para su presentación, e i) La forma en la que se podrán adquirir las bases del concurso;
-Fracción con incisos reformada DOF 08-05-2023 II. Emitir las bases del concurso, que deben incluir:
-Párrafo reformado DOF 08-05-2023 a) La descripción de los terrenos o zonas objeto del concurso, los estudios realizados sobre éstos, así como los planos de su localización, geológicos y de muestreo;
-Inciso reformado DOF 08-05-2023 b) Los requisitos con los que los concursantes deben acreditar su capacidad jurídica, técnica, administrativa y económica;
-Inciso reformado DOF 08-05-2023 LEY DE MINERÍA c) La modalidad para la presentación de las propuestas de contraprestación económica y prima por descubrimiento, que podrá ser en sobre cerrado o alguna otra que se determine, y d) El clausulado del contrato que, en su caso, debe otorgarse para garantizar el cumplimiento de la contraprestación económica y la prima por descubrimiento que se ofrezca;
-Inciso adicionado DOF 28-04-2005. Reformado DOF 08-05-2023 III. Realizar una Junta de Aclaraciones, para precisar los requisitos de las bases del concurso, así como el clausulado del contrato que se estipula, en términos del Reglamento;
-Fracción adicionada DOF 24-12-1996. Reformada DOF 08-05-2023 IV. Realizar un acto de presentación y apertura de propuestas de contraprestación económica y de prima por descubrimiento;
-Fracción adicionada DOF 08-05-2023 V. Evaluar las propuestas de contraprestaciones económicas, y Fracción adicionada DOF 08-05-2023 VI. Emitir el fallo correspondiente, que debe ser publicado en el Diario Oficial de la Federación.
+Numeración reformada (antes artículo 13 A) DOF 28-04-2005. Párrafo reformado DOF 08-05-2023
+
+I. Publicar la convocatoria en el Diario Oficial de la Federación, la cual debe contener:
+
+a) La descripción de los terrenos o zonas objeto del concurso;
+
+b) La fecha, hora y lugar, en su caso, de celebración de la junta de aclaración a la convocatoria y bases;
+
+c) La fecha, hora y lugar del acto de presentación y apertura de propuestas de contraprestación económica y de prima por descubrimiento;
+
+d) La fecha, hora y lugar en que se dará a conocer el fallo y el señalamiento de la forma en la que se deben presentar las propuestas;
+
+e) El idioma o lengua, además del español, en que se deben presentar las propuestas;
+
+f) Los requisitos que deben cumplir las personas interesadas en participar en el concurso, los cuales no deben limitar la libre participación, concurrencia y competencia económica;
+
+g) La forma en que las personas concursantes deben acreditar su existencia legal y personalidad jurídica, para efectos de la suscripción de las propuestas. Asimismo, la indicación de que la persona concursante debe proporcionar una dirección de correo electrónico para realizar notificaciones, incluso las personales;
+
+h) El domicilio de las oficinas de la Secretaría de Economía o, en su caso, el medio electrónico en que podrán presentarse las propuestas, así como la fecha y hora límite para su presentación, e
+
+i) La forma en la que se podrán adquirir las bases del concurso;
+Fracción con incisos reformada DOF 08-05-2023
+
+II. Emitir las bases del concurso, que deben incluir:
+Párrafo reformado DOF 08-05-2023
+
+a) La descripción de los terrenos o zonas objeto del concurso, los estudios realizados sobre éstos, así como los planos de su localización, geológicos y de muestreo;
+Inciso reformado DOF 08-05-2023
+
+b) Los requisitos con los que los concursantes deben acreditar su capacidad jurídica, técnica, administrativa y económica;
+Inciso reformado DOF 08-05-2023 LEY DE MINERÍA
+
+c) La modalidad para la presentación de las propuestas de contraprestación económica y prima por descubrimiento, que podrá ser en sobre cerrado o alguna otra que se determine, y
+
+d) El clausulado del contrato que, en su caso, debe otorgarse para garantizar el cumplimiento de la contraprestación económica y la prima por descubrimiento que se ofrezca;
+Inciso adicionado DOF 28-04-2005. Reformado DOF 08-05-2023
+
+III. Realizar una Junta de Aclaraciones, para precisar los requisitos de las bases del concurso, así como el clausulado del contrato que se estipula, en términos del Reglamento;
+Fracción adicionada DOF 24-12-1996. Reformada DOF 08-05-2023
+
+IV. Realizar un acto de presentación y apertura de propuestas de contraprestación económica y de prima por descubrimiento;
+Fracción adicionada DOF 08-05-2023
+
+V. Evaluar las propuestas de contraprestaciones económicas, y Fracción adicionada DOF 08-05-2023
+
+VI. Emitir el fallo correspondiente, que debe ser publicado en el Diario Oficial de la Federación.
 Fracción adicionada DOF 08-05-2023 Se procederá a declarar desierto un concurso cuando la totalidad de las propuestas presentadas no reúnan los requisitos solicitados.
 Párrafo adicionado DOF 08-05-2023 La Secretaría podrá modificar la convocatoria o las bases, siempre que no se limite el número de concursantes, a más tardar el séptimo día natural previo al acto de presentación y apertura de proposiciones. Dichas modificaciones deberán ser difundidas en el Diario Oficial de la Federación.
 Párrafo adicionado DOF 08-05-2023 Las propuestas podrán ser presentadas y analizadas a través de medios electrónicos, en los términos que establezca el Reglamento de la ley.
@@ -210,17 +335,36 @@ Párrafo adicionado DOF 08-05-2023 Artículo adicionado DOF 24-12-1996
 
 ### Artículo 14
 .- No se pueden concesionar áreas de terreno comprendido, ubicado en o amparado por:
-Párrafo reformado DOF 08-05-2023 I. (Se deroga) Fracción derogada DOF 28-04-2005 II. Zonas declaradas reservas mineras;
+Párrafo reformado DOF 08-05-2023
+
+I. (Se deroga) Fracción derogada DOF 28-04-2005
+
+II. Zonas declaradas reservas mineras;
 Fracción reformada DOF 08-05-2023 III.- Concesiones y asignaciones mineras vigentes;
+
 IV. Derogada.
-Fracción derogada DOF 08-05-2023 V. Derogada.
-Fracción reformada DOF 28-04-2005. Derogada DOF 08-05-2023 VI. (Se deroga) Fracción derogada DOF 28-04-2005 VII. Derogada.
-Fracción reformada DOF 28-04-2005. Derogada DOF 08-05-2023 VIII. Zonas de minerales o sustancias declaradas estratégicas por el Estado;
-Fracción adicionada DOF 08-05-2023 IX. Áreas naturales protegidas;
-Fracción adicionada DOF 08-05-2023 X. Zonas sin disponibilidad de agua, de conformidad con lo establecido en el párrafo tercero del
+Fracción derogada DOF 08-05-2023
+
+V. Derogada.
+Fracción reformada DOF 28-04-2005. Derogada DOF 08-05-2023
+
+VI. (Se deroga) Fracción derogada DOF 28-04-2005
+
+VII. Derogada.
+Fracción reformada DOF 28-04-2005. Derogada DOF 08-05-2023
+
+VIII. Zonas de minerales o sustancias declaradas estratégicas por el Estado;
+Fracción adicionada DOF 08-05-2023
+
+IX. Áreas naturales protegidas;
+Fracción adicionada DOF 08-05-2023
+
+X. Zonas sin disponibilidad de agua, de conformidad con lo establecido en el párrafo tercero del
 
 ### artículo 6
-de la presente Ley, y Fracción adicionada DOF 08-05-2023 XI. Zonas en las que la actividad minera ponga en riesgo a la población.
+de la presente Ley, y Fracción adicionada DOF 08-05-2023
+
+XI. Zonas en las que la actividad minera ponga en riesgo a la población.
 Fracción adicionada DOF 08-05-2023 Reforma DOF 08-05-2023: Derogó del artículo los entonces párrafos segundo (antes reformado DOF 28-04-2005) y tercero a quinto Artículo reformado DOF 24-12-1996
 
 ### Artículo 14
@@ -251,26 +395,53 @@ Artículo reformado DOF 28-04-2005, 08-05-2023
 
 ### Artículo 18
 .- La Secretaría puede realizar correcciones, mediante el procedimiento de anulabilidad, a los datos consignados en un título de concesión o de asignación mineras y lo comunicará a su titular, cuando sea expedido con error respecto de:
-LEY DE MINERÍA I. La referencia específica de identificación del expediente, documentos o nombre completo de las personas titulares de la concesión;
-II. El lugar y fecha de emisión, o III. La ubicación o identificación del lote minero señalado en el concurso correspondiente.
+LEY DE MINERÍA
+
+I. La referencia específica de identificación del expediente, documentos o nombre completo de las personas titulares de la concesión;
+
+II. El lugar y fecha de emisión, o
+
+III. La ubicación o identificación del lote minero señalado en el concurso correspondiente.
 La corrección puede ser solicitada por la persona interesada. En todo caso, le será notificada. La Secretaría ordenará la inscripción del título corregido en el Registro Público de Minería.
 Artículo reformado DOF 08-05-2023 CAPITULO TERCERO De los Derechos que Confieren las Concesiones y Asignaciones Mineras
 
 ### Artículo 19
 .- Las personas titulares de una concesión minera tienen derecho a:
-Párrafo reformado DOF 28-04-2005, 08-05-2023 I. Realizar obras y trabajos de explotación de minerales o sustancias específicas dentro de lotes mineros determinados;
-Fracción reformada DOF 28-04-2005, 08-05-2023 II. Aprovechar el producto mineral o sustancia que se obtenga en dichos lotes con motivo de las obras y trabajos que se desarrollen durante su vigencia, posterior al aviso de inicio de la explotación;
+Párrafo reformado DOF 28-04-2005, 08-05-2023
+
+I. Realizar obras y trabajos de explotación de minerales o sustancias específicas dentro de lotes mineros determinados;
+Fracción reformada DOF 28-04-2005, 08-05-2023
+
+II. Aprovechar el producto mineral o sustancia que se obtenga en dichos lotes con motivo de las obras y trabajos que se desarrollen durante su vigencia, posterior al aviso de inicio de la explotación;
 Fracción reformada DOF 08-05-2023 III.- Disponer de los terreros que se encuentren dentro de la superficie que amparen, a menos que provengan de otra concesión minera vigente;
+
 IV. Solicitar la ocupación temporal o la constitución de servidumbre de los terrenos indispensables para llevar a cabo las obras y trabajos de explotación y beneficio, así como para el depósito de terreros, jales, escorias y graseros, al igual que constituir servidumbres subterráneas de paso a través de lotes mineros;
-Fracción reformada DOF 28-04-2005, 08-05-2023 V. Aprovechar las aguas provenientes del laboreo de las minas para la explotación y beneficio de los minerales o sustancias que se obtengan y el uso doméstico del personal empleado en las mismas, siempre que se dé aviso a la Comisión Nacional del Agua y se paguen los derechos por la misma;
-Fracción reformada DOF 28-04-2005, 08-05-2023 VI. Derogada.
-Fracción derogada DOF 08-05-2023 VII. Transmitir su titularidad, conforme al artículo 23 de la presente Ley;
+Fracción reformada DOF 28-04-2005, 08-05-2023
+
+V. Aprovechar las aguas provenientes del laboreo de las minas para la explotación y beneficio de los minerales o sustancias que se obtengan y el uso doméstico del personal empleado en las mismas, siempre que se dé aviso a la Comisión Nacional del Agua y se paguen los derechos por la misma;
+Fracción reformada DOF 28-04-2005, 08-05-2023
+
+VI. Derogada.
+Fracción derogada DOF 08-05-2023
+
+VII. Transmitir su titularidad, conforme al artículo 23 de la presente Ley;
 Fracción reformada DOF 28-04-2005, 08-05-2023 VIII.- Reducir, dividir e identificar la superficie de los lotes que amparen, o unificarla con la de otras concesiones colindantes;
+
 IX. Terminar anticipadamente la concesión;
-Fracción reformada DOF 08-05-2023 LEY DE MINERÍA X. Agrupar dos o más de ellas, conforme al artículo 25 de la presente Ley;
-Fracción reformada DOF 28-04-2005, 08-05-2023 XI. Solicitar alguna de las correcciones administrativas señaladas en el artículo 18 de esta Ley o duplicados de sus títulos;
-Fracción reformada DOF 26-06-2006, 08-05-2023 XII. Derogada.
-Fracción reformada DOF 28-04-2005, 26-06-2006. Derogada DOF 08-05-2023 XIII. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014 XIV. Ocupar el terreno propiedad de la nación, siempre que cubra el pago por el aprovechamiento correspondiente, independientemente de cualquier otro concepto.
+Fracción reformada DOF 08-05-2023 LEY DE MINERÍA
+
+X. Agrupar dos o más de ellas, conforme al artículo 25 de la presente Ley;
+Fracción reformada DOF 28-04-2005, 08-05-2023
+
+XI. Solicitar alguna de las correcciones administrativas señaladas en el artículo 18 de esta Ley o duplicados de sus títulos;
+Fracción reformada DOF 26-06-2006, 08-05-2023
+
+XII. Derogada.
+Fracción reformada DOF 28-04-2005, 26-06-2006. Derogada DOF 08-05-2023
+
+XIII. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014
+
+XIV. Ocupar el terreno propiedad de la nación, siempre que cubra el pago por el aprovechamiento correspondiente, independientemente de cualquier otro concepto.
 Fracción adicionada DOF 08-05-2023 Las concesiones mineras pueden ser objeto de garantía para el cumplimiento de obligaciones de sus titulares siempre que la mina correspondiente esté en operación, se presente una manifestación de la persona a cuyo favor se emite la garantía de que conoce lo previsto en el siguiente párrafo y se obtenga previamente autorización por parte de la Secretaría.
 Párrafo adicionado DOF 08-05-2023 Para los efectos del párrafo que antecede, en caso de que la garantía se haga efectiva, dentro de los seis meses siguientes a que ello suceda, la persona a cuyo favor se haya emitido la garantía debe acreditar que cumple con los requisitos para ser concesionario o, en su defecto, debe ceder los derechos de la concesión en los términos previstos por esta Ley.
 Párrafo adicionado DOF 08-05-2023 En el Registro Público de Minería sólo deben inscribirse los actos señalados en la presente Ley.
@@ -317,33 +488,88 @@ La incorporación o separación de concesiones a uno o más agrupamientos se pod
 
 ### Artículo 26
 .- La entidad asignataria tiene derecho a:
-Párrafo reformado DOF 08-05-2023 I. Realizar obras y trabajos de exploración dentro del lote minero que ampare el título de asignación;
-Fracción reformada DOF 08-05-2023 II. Obtener la ocupación temporal o constitución de servidumbre de los terrenos indispensables para llevar a cabo las obras y trabajos de exploración o explotación;
-Fracción reformada DOF 08-05-2023 III. Reducir e identificar la superficie que ampare el título correspondiente, y Fracción reformada DOF 08-05-2023 IV. Derogada.
+Párrafo reformado DOF 08-05-2023
+
+I. Realizar obras y trabajos de exploración dentro del lote minero que ampare el título de asignación;
+Fracción reformada DOF 08-05-2023
+
+II. Obtener la ocupación temporal o constitución de servidumbre de los terrenos indispensables para llevar a cabo las obras y trabajos de exploración o explotación;
+Fracción reformada DOF 08-05-2023
+
+III. Reducir e identificar la superficie que ampare el título correspondiente, y Fracción reformada DOF 08-05-2023
+
+IV. Derogada.
 Fracción derogada DOF 08-05-2023 Reforma DOF 08-05-2023: Derogó del artículo el entonces párrafo segundo CAPITULO CUARTO De las Obligaciones que Imponen las Concesiones y Asignaciones Mineras y el Beneficio de Minerales
 
 ### Artículo 27
 .- Las personas titulares de concesiones mineras, independientemente de la fecha de su otorgamiento, están obligadas, por cada lote minero, a:
-Párrafo reformado DOF 28-04-2005, 08-05-2023 I. Ejecutar las obras y trabajos previstos por esta Ley en los términos y condiciones que establecen la misma y su Reglamento, y dar aviso a la Secretaría de dicha ejecución dentro de los noventa días hábiles siguientes, contados a partir de la fecha de inscripción de la concesión en el Registro Público de Minería o concluidas las actividades pre operativas;
-Fracción reformada DOF 28-04-2005, 08-05-2023 II. Pagar los derechos sobre minería, contribuciones, aprovechamientos y demás contraprestaciones aplicables, conforme a las disposiciones jurídicas vigentes. Los lotes agrupados pagarán dichas obligaciones de manera individual;
-Fracción reformada DOF 24-12-1996, 08-05-2023 III. (Se deroga) Fracción derogada DOF 28-04-2005 LEY DE MINERÍA IV. Sujetarse a las disposiciones generales y a las normas oficiales mexicanas aplicables a la industria minero-metalúrgica en materia de seguridad en las minas y de equilibrio ecológico y protección al ambiente;
+Párrafo reformado DOF 28-04-2005, 08-05-2023
+
+I. Ejecutar las obras y trabajos previstos por esta Ley en los términos y condiciones que establecen la misma y su Reglamento, y dar aviso a la Secretaría de dicha ejecución dentro de los noventa días hábiles siguientes, contados a partir de la fecha de inscripción de la concesión en el Registro Público de Minería o concluidas las actividades pre operativas;
+Fracción reformada DOF 28-04-2005, 08-05-2023
+
+II. Pagar los derechos sobre minería, contribuciones, aprovechamientos y demás contraprestaciones aplicables, conforme a las disposiciones jurídicas vigentes. Los lotes agrupados pagarán dichas obligaciones de manera individual;
+Fracción reformada DOF 24-12-1996, 08-05-2023
+
+III. (Se deroga) Fracción derogada DOF 28-04-2005 LEY DE MINERÍA
+
+IV. Sujetarse a las disposiciones generales y a las normas oficiales mexicanas aplicables a la industria minero-metalúrgica en materia de seguridad en las minas y de equilibrio ecológico y protección al ambiente;
 Fracción reformada DOF 28-04-2005 V.- No retirar las obras permanentes de fortificación, los ademes y demás instalaciones necesarias para la estabilidad y seguridad de las minas;
 VI.- Conservar en el mismo lugar y mantener en buen estado la mojonera o señal que precise la ubicación del punto de partida;
+
 VII. Rendir a la Secretaría un informe de ejecución y comprobación de obras y trabajos realizados, el cual debe contener los aspectos contables y financieros, técnicos y estadísticos, en los términos previstos en esta Ley y su Reglamento;
-Fracción reformada DOF 26-06-2006, 08-05-2023 VIII. Permitir al personal comisionado por la Secretaría la práctica de visitas de verificación;
-Fracción reformada DOF 26-06-2006, 08-05-2023 IX. Rendir a la Secretaría un informe geológico-minero, dentro de los tres meses siguientes a que la concesión minera correspondiente haya concluido su vigencia, o bien, se cancele por terminación anticipada, sustitución por reducción, infracción o resolución judicial. El informe debe describir los trabajos realizados, así como la producción obtenida por tipo de mineral, en el lote minero, o en la superficie que se abandona. Se deben especificar las obras que se realizaron y sus condiciones al momento de la terminación o cancelación, de acuerdo con lo establecido en el Reglamento de esta Ley.
+Fracción reformada DOF 26-06-2006, 08-05-2023
+
+VIII. Permitir al personal comisionado por la Secretaría la práctica de visitas de verificación;
+Fracción reformada DOF 26-06-2006, 08-05-2023
+
+IX. Rendir a la Secretaría un informe geológico-minero, dentro de los tres meses siguientes a que la concesión minera correspondiente haya concluido su vigencia, o bien, se cancele por terminación anticipada, sustitución por reducción, infracción o resolución judicial. El informe debe describir los trabajos realizados, así como la producción obtenida por tipo de mineral, en el lote minero, o en la superficie que se abandona. Se deben especificar las obras que se realizaron y sus condiciones al momento de la terminación o cancelación, de acuerdo con lo establecido en el Reglamento de esta Ley.
 Párrafo reformado DOF 08-05-2023 La Secretaría entregará al Servicio Geológico Mexicano dicho informe para que sea incorporado en el sistema público de información del propio Servicio;
 Fracción adicionada DOF 28-04-2005. Reformada DOF 26-06-2006 X.- Rendir al Servicio Geológico Mexicano, en el caso de concesiones otorgadas mediante concurso, un informe semestral en los meses de enero y julio de cada año, de los trabajos realizados y de la producción obtenida en el lote amparado por la concesión minera, para efectos de control del pago de la prima por descubrimiento o cualquier otra contraprestación económica contemplada a favor de dicho organismo;
-Fracción adicionada DOF 28-04-2005. Reformada DOF 26-06-2006 XI. Informar a la Secretaría de Energía sobre el hallazgo de cualquier hidrocarburo en el área objeto de la concesión minera.
-Fracción adicionada DOF 26-06-2006. Reformada DOF 11-08-2014 XII. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014 XIII. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014 XIV. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014 XV. Presentar, previo al otorgamiento del título de concesión de que se trate, un vehículo financiero: seguro, carta de crédito, depósito ante la Tesorería de la Federación, fideicomiso o cualquier otro que resulte idóneo, en términos de lo previsto en el Reglamento de esta Ley, para LEY DE MINERÍA garantizar las medidas de prevención, mitigación y compensación derivadas del dictamen de impacto social correspondiente;
-Fracción adicionada DOF 08-05-2023 XVI. Dar aviso de forma inmediata a la Secretaría, cuando durante el desarrollo de las actividades mineras las personas titulares de las concesiones y asignaciones adviertan la presencia de otros minerales o sustancias no autorizadas en su título de concesión y, en su caso, entregar dichos minerales a la Secretaría;
-Fracción adicionada DOF 08-05-2023 XVII. Informar a la Secretaría sobre cualquier accidente que, con motivo de la operación de la mina, hubiere causado daños o cualquier incidente que ponga en peligro la seguridad de las personas, sus bienes o al medio ambiente, que se suscite dentro del lote minero que ampara el título de concesión en el cual se ejecutan las obras y trabajos, en un plazo máximo de setenta y dos horas, contadas a partir de que ocurran los hechos;
-Fracción adicionada DOF 08-05-2023 XVIII. Informar a la Secretaría al iniciar o reiniciar operaciones mineras sobre la designación de la ingeniera o ingeniero responsable del cumplimiento de las normas de seguridad en las minas, conforme lo establecido en el artículo 34 de esta Ley;
-Fracción adicionada DOF 08-05-2023 XIX. No construir depósitos o sitios de disposición final de terreros, jales, escorias, graseros de las minas y establecimientos de beneficios de los minerales en áreas naturales protegidas, humedales, vasos, cauces, zonas federales, zonas de protección y demás bienes nacionales o en lugares que, por el trayecto que sigan los residuos ante su ruptura, afecten núcleos de población;
-Fracción adicionada DOF 08-05-2023 XX. Contar con la autorización del Programa de Restauración, Cierre y Post-cierre de minas, previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
-Fracción adicionada DOF 08-05-2023 XXI. Cumplir con las disposiciones de impacto social y consulta indígena;
-Fracción adicionada DOF 08-05-2023 XXII. Reportar a la Secretaría, a través del sistema electrónico que se establezca, la información siguiente: a) Dentro de los tres días hábiles posteriores a su obtención, los datos de permisos o autorizaciones que deba obtener de la autoridad local o municipal, para la operación de la mina; b) Dentro de los diez días hábiles posteriores a su obtención, los datos de las certificaciones o dictámenes que obtengan de particulares en cumplimiento a las Normas Oficiales Mexicanas respectivas, y c) Dentro de los veinte días hábiles siguientes a su formalización, los actos jurídicos que celebren con particulares para la operación de la concesión;
-Fracción adicionada DOF 08-05-2023 XXIII. Implementar medidas de reutilización del agua dentro del lote minero a fin de lograr, al menos, un sesenta por ciento de reciclaje de aguas residuales tratadas en sus instalaciones, y Fracción adicionada DOF 08-05-2023 LEY DE MINERÍA XXIV. Realizar las demás actividades que establezcan las disposiciones jurídicas aplicables.
+Fracción adicionada DOF 28-04-2005. Reformada DOF 26-06-2006
+
+XI. Informar a la Secretaría de Energía sobre el hallazgo de cualquier hidrocarburo en el área objeto de la concesión minera.
+Fracción adicionada DOF 26-06-2006. Reformada DOF 11-08-2014
+
+XII. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014
+
+XIII. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014
+
+XIV. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014
+
+XV. Presentar, previo al otorgamiento del título de concesión de que se trate, un vehículo financiero: seguro, carta de crédito, depósito ante la Tesorería de la Federación, fideicomiso o cualquier otro que resulte idóneo, en términos de lo previsto en el Reglamento de esta Ley, para LEY DE MINERÍA garantizar las medidas de prevención, mitigación y compensación derivadas del dictamen de impacto social correspondiente;
+Fracción adicionada DOF 08-05-2023
+
+XVI. Dar aviso de forma inmediata a la Secretaría, cuando durante el desarrollo de las actividades mineras las personas titulares de las concesiones y asignaciones adviertan la presencia de otros minerales o sustancias no autorizadas en su título de concesión y, en su caso, entregar dichos minerales a la Secretaría;
+Fracción adicionada DOF 08-05-2023
+
+XVII. Informar a la Secretaría sobre cualquier accidente que, con motivo de la operación de la mina, hubiere causado daños o cualquier incidente que ponga en peligro la seguridad de las personas, sus bienes o al medio ambiente, que se suscite dentro del lote minero que ampara el título de concesión en el cual se ejecutan las obras y trabajos, en un plazo máximo de setenta y dos horas, contadas a partir de que ocurran los hechos;
+Fracción adicionada DOF 08-05-2023
+
+XVIII. Informar a la Secretaría al iniciar o reiniciar operaciones mineras sobre la designación de la ingeniera o ingeniero responsable del cumplimiento de las normas de seguridad en las minas, conforme lo establecido en el artículo 34 de esta Ley;
+Fracción adicionada DOF 08-05-2023
+
+XIX. No construir depósitos o sitios de disposición final de terreros, jales, escorias, graseros de las minas y establecimientos de beneficios de los minerales en áreas naturales protegidas, humedales, vasos, cauces, zonas federales, zonas de protección y demás bienes nacionales o en lugares que, por el trayecto que sigan los residuos ante su ruptura, afecten núcleos de población;
+Fracción adicionada DOF 08-05-2023
+
+XX. Contar con la autorización del Programa de Restauración, Cierre y Post-cierre de minas, previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+Fracción adicionada DOF 08-05-2023
+
+XXI. Cumplir con las disposiciones de impacto social y consulta indígena;
+Fracción adicionada DOF 08-05-2023
+
+XXII. Reportar a la Secretaría, a través del sistema electrónico que se establezca, la información siguiente:
+
+a) Dentro de los tres días hábiles posteriores a su obtención, los datos de permisos o autorizaciones que deba obtener de la autoridad local o municipal, para la operación de la mina;
+
+b) Dentro de los diez días hábiles posteriores a su obtención, los datos de las certificaciones o dictámenes que obtengan de particulares en cumplimiento a las Normas Oficiales Mexicanas respectivas, y
+
+c) Dentro de los veinte días hábiles siguientes a su formalización, los actos jurídicos que celebren con particulares para la operación de la concesión;
+Fracción adicionada DOF 08-05-2023
+
+XXIII. Implementar medidas de reutilización del agua dentro del lote minero a fin de lograr, al menos, un sesenta por ciento de reciclaje de aguas residuales tratadas en sus instalaciones, y Fracción adicionada DOF 08-05-2023 LEY DE MINERÍA
+
+XXIV. Realizar las demás actividades que establezcan las disposiciones jurídicas aplicables.
 Fracción adicionada DOF 08-05-2023 Las personas titulares de concesiones mineras otorgadas mediante concurso están obligadas a cubrir, adicionalmente, la prima por descubrimiento y la contraprestación económica ofrecidas.
 Párrafo reformado DOF 24-12-1996, 28-04-2005, 08-05-2023 Reforma DOF 08-05-2023: Derogó del artículo el entonces párrafo tercero (antes reformado DOF 24-12-1996)
 
@@ -408,9 +634,16 @@ Artículo reformado DOF 28-04-2005, 08-05-2023
 ### Artículo 37
 .- Las personas concesionarias que beneficien minerales o sustancias sujetas a la aplicación de la presente Ley están obligadas a:
 Párrafo reformado DOF 08-05-2023 I.- Dar aviso a la Secretaría del inicio de operaciones de beneficio;
+
 II. Sujetarse a las disposiciones generales y a las normas oficiales mexicanas aplicables a la industria minero-metalúrgica en materia de seguridad y del equilibrio ecológico y protección al ambiente;
-Fracción reformada DOF 28-04-2005 III. Rendir a la Secretaría de manera anual, el informe de obras y trabajos de beneficio, el cual debe contener los aspectos contables y financieros, técnicos y estadísticos en los términos y condiciones que señale el Reglamento de esta Ley;
-Fracción reformada DOF 08-05-2023 IV. (Se deroga) Fracción derogada DOF 28-04-2005 V.- Procesar el mineral de pequeños y medianos mineros y del sector social en condiciones competitivas hasta por un mínimo del 15 % de la capacidad de beneficio instalada, cuando ésta sea superior a cien toneladas en veinticuatro horas, y VI. Permitir al personal comisionado por la Secretaría la práctica de visitas de verificación en ejercicio de las facultades de verificación que le confiere la presente Ley.
+Fracción reformada DOF 28-04-2005
+
+III. Rendir a la Secretaría de manera anual, el informe de obras y trabajos de beneficio, el cual debe contener los aspectos contables y financieros, técnicos y estadísticos en los términos y condiciones que señale el Reglamento de esta Ley;
+Fracción reformada DOF 08-05-2023
+
+IV. (Se deroga) Fracción derogada DOF 28-04-2005 V.- Procesar el mineral de pequeños y medianos mineros y del sector social en condiciones competitivas hasta por un mínimo del 15 % de la capacidad de beneficio instalada, cuando ésta sea superior a cien toneladas en veinticuatro horas, y
+
+VI. Permitir al personal comisionado por la Secretaría la práctica de visitas de verificación en ejercicio de las facultades de verificación que le confiere la presente Ley.
 Fracción reformada DOF 08-05-2023
 
 ### Artículo 38
@@ -427,9 +660,14 @@ Artículo reformado DOF 08-05-2023 CAPITULO QUINTO De la Nulidad, Cancelación, 
 ### Artículo 40
 .- Las concesiones y asignaciones mineras serán nulas cuando:
 I.- Se pretenda amparar con las mismas desde su otorgamiento la obtención de minerales o sustancias no sujetos a la aplicación de esta Ley;
+
 II. Se expidan en favor de persona no capacitada por la presente Ley para obtenerlas;
-Fracción reformada DOF 08-05-2023 III. Derogada.
-Fracción derogada DOF 08-05-2023 IV. Se identifique, por parte de la Secretaría, alguna omisión o irregularidad de cualquiera de los elementos de validez del acto administrativo establecidos en las fracciones I a X del artículo 3 de la Ley Federal de Procedimiento Administrativo;
+Fracción reformada DOF 08-05-2023
+
+III. Derogada.
+Fracción derogada DOF 08-05-2023
+
+IV. Se identifique, por parte de la Secretaría, alguna omisión o irregularidad de cualquiera de los elementos de validez del acto administrativo establecidos en las fracciones I a X del artículo 3 de la Ley Federal de Procedimiento Administrativo;
 Fracción adicionada DOF 08-05-2023 Reforma DOF 08-05-2023: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 41
@@ -439,23 +677,48 @@ Artículo reformado DOF 28-04-2005, 08-05-2023
 ### Artículo 42
 .- Las concesiones mineras se deben cancelar por:
 Párrafo reformado DOF 08-05-2023 I.- Terminación de su vigencia;
+
 II. Derogada.
-Fracción derogada DOF 08-05-2023 III. No realizar, oportunamente, los pagos de las contribuciones por dos ejercicios consecutivos;
-Fracción reformada DOF 28-04-2005, 08-05-2023 IV. No presentar los Informes a que está obligada la persona concesionaria en términos de esta Ley y su Reglamento por dos años consecutivos o cinco años no consecutivos;
-Fracción reformada DOF 08-05-2023 V. Resolución judicial;
-Fracción reformada DOF 08-05-2023 LEY DE MINERÍA VI. No iniciar los trabajos correspondientes en el plazo de un año contado a partir de la vigencia de la concesión o asignación;
-Fracción adicionada DOF 08-05-2023 VII. No realizar los trabajos objeto de la concesión en un periodo de dos años consecutivos;
-Fracción adicionada DOF 08-05-2023 VIII. No presentar ante la Secretaría el Plan de Cierre de Mina dentro de los dos años y hasta un año previos al cierre de operaciones;
-Fracción adicionada DOF 08-05-2023 IX. No contar con la concesión de agua para uso industrial en la minería vigente;
-Fracción adicionada DOF 08-05-2023 X. La existencia de riesgo inminente de desequilibrio ecológico, o de daño o deterioro irreversible a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes, sistemas hidrológicos superficiales o subterráneos, o para la salud pública, de conformidad con las disposiciones aplicables a la materia, y Fracción adicionada DOF 08-05-2023 XI. Cometer alguna de las infracciones señaladas en el artículo 55 de esta Ley.
+Fracción derogada DOF 08-05-2023
+
+III. No realizar, oportunamente, los pagos de las contribuciones por dos ejercicios consecutivos;
+Fracción reformada DOF 28-04-2005, 08-05-2023
+
+IV. No presentar los Informes a que está obligada la persona concesionaria en términos de esta Ley y su Reglamento por dos años consecutivos o cinco años no consecutivos;
+Fracción reformada DOF 08-05-2023
+
+V. Resolución judicial;
+Fracción reformada DOF 08-05-2023 LEY DE MINERÍA
+
+VI. No iniciar los trabajos correspondientes en el plazo de un año contado a partir de la vigencia de la concesión o asignación;
+Fracción adicionada DOF 08-05-2023
+
+VII. No realizar los trabajos objeto de la concesión en un periodo de dos años consecutivos;
+Fracción adicionada DOF 08-05-2023
+
+VIII. No presentar ante la Secretaría el Plan de Cierre de Mina dentro de los dos años y hasta un año previos al cierre de operaciones;
+Fracción adicionada DOF 08-05-2023
+
+IX. No contar con la concesión de agua para uso industrial en la minería vigente;
+Fracción adicionada DOF 08-05-2023
+
+X. La existencia de riesgo inminente de desequilibrio ecológico, o de daño o deterioro irreversible a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes, sistemas hidrológicos superficiales o subterráneos, o para la salud pública, de conformidad con las disposiciones aplicables a la materia, y Fracción adicionada DOF 08-05-2023
+
+XI. Cometer alguna de las infracciones señaladas en el artículo 55 de esta Ley.
 Fracción adicionada DOF 08-05-2023 En caso de los supuestos previstos en la fracción X de este artículo y en la fracción XVII del artículo 55 de esta Ley, la Secretaría de Medio Ambiente y Recursos Naturales notificará a la persona concesionaria la configuración de los mismos, y le otorgará un plazo de tres meses para que realice las acciones de prevención o remediación conducentes, con el apercibimiento de que, de no hacerlo, la concesión se suspenderá por un término de seis meses.
 Párrafo adicionado DOF 08-05-2023 Dictada la suspensión, la persona concesionaria debe realizar las acciones de prevención o remediación conducentes en el periodo señalado; de no hacerlo, la concesión se cancelará.
 Párrafo adicionado DOF 08-05-2023
 
 ### Artículo 43
 . El derecho para realizar las obras y trabajos previstos por esta Ley se suspenderá cuando éstos:
-Párrafo reformado DOF 28-04-2005 I. Pongan en peligro la vida o integridad física de los trabajadores o de los miembros de la comunidad;
-Fracción reformada DOF 08-05-2023 II. Causen o puedan causar daño a bienes de interés público, afectos a un servicio público o de propiedad privada, y Fracción reformada DOF 08-05-2023 III. Existan accidentes o siniestros dentro del lote minero, en tanto la autoridad competente determina lo conducente y solicita el levantamiento de la suspensión.
+Párrafo reformado DOF 28-04-2005
+
+I. Pongan en peligro la vida o integridad física de los trabajadores o de los miembros de la comunidad;
+Fracción reformada DOF 08-05-2023
+
+II. Causen o puedan causar daño a bienes de interés público, afectos a un servicio público o de propiedad privada, y Fracción reformada DOF 08-05-2023
+
+III. Existan accidentes o siniestros dentro del lote minero, en tanto la autoridad competente determina lo conducente y solicita el levantamiento de la suspensión.
 Fracción adicionada DOF 08-05-2023 La autoridad competente debe comunicar en un plazo de diez días hábiles, si subsiste la suspensión, en caso contrario, la Secretaría levantará la suspensión a más tardar en los siguientes diez días hábiles.
 Párrafo adicionado DOF 08-05-2023 LEY DE MINERÍA Si la visita de verificación que en su caso se practique revela peligro o daño inminente, la Secretaría dispondrá de inmediato la suspensión provisional de las obras y trabajos, al igual que las medidas de seguridad por adoptarse dentro del plazo que al efecto fije. De no cumplirse en el plazo señalado, ordenará la suspensión definitiva de tales obras y trabajos.
 Párrafo reformado DOF 08-05-2023
@@ -475,13 +738,19 @@ Artículo reformado DOF 08-05-2023 CAPITULO SEXTO Del Registro Público de Miner
 
 ### Artículo 46
 .- Corresponde a la Secretaría la administración del Registro Público de Minería, en el que deben inscribirse los actos, contratos, convenios, y resoluciones administrativas o judiciales, que a continuación se mencionan:
-Párrafo reformado DOF 08-05-2023 I. Los títulos de concesión minera, sus prórrogas y las declaratorias de su nulidad o cancelación;
+Párrafo reformado DOF 08-05-2023
+
+I. Los títulos de concesión minera, sus prórrogas y las declaratorias de su nulidad o cancelación;
 Fracción reformada DOF 28-04-2005 II.- Los títulos de asignación minera y las declaratorias de nulidad o cancelación de las mismas;
+
 III. Los decretos que declaren reservas mineras o que supriman zonas de éstas;
 Fracción reformada DOF 08-05-2023 IV.- Las resoluciones de ocupación temporal y constitución de servidumbre, al igual que las que se emitan sobre su insubsistencia;
 LEY DE MINERÍA V.- Las resoluciones expedidas por autoridad judicial o administrativa que afecten concesiones mineras o los derechos que de ellas deriven;
+
 VI. La transmisión de la titularidad de concesiones;
-Fracción reformada DOF 28-04-2005, 08-05-2023 VII. Las sociedades a que se refiere el artículo 11 de esta Ley, al igual que su disolución, liquidación y las modificaciones a los estatutos de dichas sociedades que determine el Reglamento de la misma;
+Fracción reformada DOF 28-04-2005, 08-05-2023
+
+VII. Las sociedades a que se refiere el artículo 11 de esta Ley, al igual que su disolución, liquidación y las modificaciones a los estatutos de dichas sociedades que determine el Reglamento de la misma;
 Fracción reformada DOF 28-04-2005 VIII.- (Se deroga) Fracción derogada DOF 24-12-1996 IX.- Los avisos notariales preventivos con motivo de la celebración de contratos;
 X.- Las anotaciones judiciales preventivas derivadas de reclamaciones por negativa, rectificación, modificación, nulidad o cancelación de inscripciones, y XI.- Las anotaciones preventivas para interrumpir la cancelación de inscripciones de contratos y convenios sujetos a temporalidad.
 En relación con lo dispuesto por esta Ley, los actos y contratos previstos en las fracciones V a XI anteriores surtirán efectos contra terceros desde la fecha y hora de presentación en la Secretaría de la promoción respectiva; los correspondientes a las fracciones I y IV a partir de su fecha de inscripción, y los relativos a las fracciones II y III el día de su publicación en el Diario Oficial de la Federación.
@@ -514,12 +783,20 @@ Reforma DOF 28-04-2005: Derogó del artículo el entonces párrafo segundo CAPIT
 
 ### Artículo 53
 .- La Secretaría, en ejercicio de las facultades de verificación que le confiere esta Ley, puede practicar visitas de verificación en las que debe:
+
 I. Designar a una o más personas verificadoras y comunicarles su nombramiento y la orden de visita;
+
 II. Notificar, por correo electrónico proporcionado para tal efecto, a la persona a quien deba practicarse la verificación: el nombre de la persona verificadora; el objeto de la verificación; los elementos, datos o documentos requeridos, así como el lugar, fecha y hora de su verificación para que concurra por sí o debidamente representada;
+
 III. Ordenar a la persona verificadora que, una vez que se identifique, practique la visita en el lugar y fecha señalados, ante la persona notificada o su representante debidamente acreditada. Si el lugar o domicilio no corresponden a la persona visitada o ésta se niega a proporcionar los elementos, datos o documentos que se le requieran, la persona verificadora levantará acta en la que hará constar lo anterior, firmada por dos testigos. En este último caso, se presumirá que el visitado incurrió en el incumplimiento de la obligación por verificar, salvo prueba en contrario;
+
 IV. Ordenar a la persona verificadora que, una vez desahogada la verificación, levante acta pormenorizada que contenga relación de los hechos y las manifestaciones de la persona visitada, y sea firmada por quienes asistan al acto; si alguien se niega a firmarla se hará constar en ella, sin que tal circunstancia afecte el valor probatorio del documento. De dicha acta se debe entregar copia a quienes la suscriban;
+
 V. Ordenar a la persona verificadora que rinda a la Secretaría un informe sobre el resultado de la verificación, incluidas las obras realizadas y las reportadas o la liquidación de los minerales aprovechables, a más tardar quince días naturales siguientes a su desahogo. Si los elementos de juicio que aporte el informe son insuficientes, la Secretaría ordenará se practique nueva verificación;
-VI. La Secretaría, con base en el informe y las pruebas documentales que se ofrezcan, fundamentará, motivará y dictará resolución, y VII. Coordinarse con las autoridades ambientales, laborales y cualquier otra competente para el ejercicio de sus facultades de verificación, inspección y vigilancia en el ámbito de sus respectivas atribuciones.
+
+VI. La Secretaría, con base en el informe y las pruebas documentales que se ofrezcan, fundamentará, motivará y dictará resolución, y
+
+VII. Coordinarse con las autoridades ambientales, laborales y cualquier otra competente para el ejercicio de sus facultades de verificación, inspección y vigilancia en el ámbito de sus respectivas atribuciones.
 LEY DE MINERÍA Artículo reformado DOF 08-05-2023
 
 ### Artículo 53
@@ -534,44 +811,103 @@ Las infracciones serán sancionadas administrativamente por la Secretaría.
 ### Artículo 55
 .- Se sancionará con la cancelación de la concesión minera cualquiera de las infracciones siguientes:
 I.- Efectuar al amparo de la misma la explotación de minerales o sustancias no sujetos a la aplicación de la presente Ley;
+
 II. No ejecutar o comprobar las obras y trabajos previstos por esta Ley en los términos y condiciones que señalan la misma y su Reglamento;
-Fracción reformada DOF 28-04-2005, 08-05-2023 III. Dejar de cubrir oportunamente los derechos sobre minería, contribuciones, aprovechamientos y demás contraprestaciones aplicables, conforme a las disposiciones jurídicas vigentes;
-Fracción reformada DOF 08-05-2023 IV. (Se deroga) Fracción derogada DOF 28-04-2005 V. No cumplir con los pagos por concepto de la prima por descubrimiento o de la contraprestación económica que en su caso corresponda cubrir, así como no rendir al Servicio Geológico Mexicano los informes semestrales a que se refiere el artículo 27, fracción X, de esta Ley;
-Fracción reformada DOF 24-12-1996, 28-04-2005 VI. No sujetar las obras y trabajos de exploración o de explotación de carbón en todas sus variedades en terrenos amparados por asignaciones petroleras a las condiciones técnicas que fije la Secretaría;
-Fracción reformada DOF 28-04-2005 VII. Realizar las obras y trabajos previstos por esta Ley sin contar con las autorizaciones previas de las autoridades competentes en materia de medio ambiente, agua, consulta indígena o afromexicana o cualquiera otra autorización, permiso o concesión que se requiera del orden federal, local o municipal;
+Fracción reformada DOF 28-04-2005, 08-05-2023
+
+III. Dejar de cubrir oportunamente los derechos sobre minería, contribuciones, aprovechamientos y demás contraprestaciones aplicables, conforme a las disposiciones jurídicas vigentes;
+Fracción reformada DOF 08-05-2023
+
+IV. (Se deroga) Fracción derogada DOF 28-04-2005
+
+V. No cumplir con los pagos por concepto de la prima por descubrimiento o de la contraprestación económica que en su caso corresponda cubrir, así como no rendir al Servicio Geológico Mexicano los informes semestrales a que se refiere el artículo 27, fracción X, de esta Ley;
+Fracción reformada DOF 24-12-1996, 28-04-2005
+
+VI. No sujetar las obras y trabajos de exploración o de explotación de carbón en todas sus variedades en terrenos amparados por asignaciones petroleras a las condiciones técnicas que fije la Secretaría;
+Fracción reformada DOF 28-04-2005
+
+VII. Realizar las obras y trabajos previstos por esta Ley sin contar con las autorizaciones previas de las autoridades competentes en materia de medio ambiente, agua, consulta indígena o afromexicana o cualquiera otra autorización, permiso o concesión que se requiera del orden federal, local o municipal;
 Fracción reformada DOF 28-04-2005, 08-05-2023 VIII.- Agrupar concesiones que amparen lotes mineros no colindantes para efectos de comprobación que no constituyan una unidad minera o minerometalúrgica desde el punto de vista técnico y administrativo;
-LEY DE MINERÍA Fracción reformada DOF 26-06-2006 IX. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014 X. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014 XI. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014 XII. Omitir información sobre el hallazgo de cualquier hidrocarburo o litio en el área objeto de la concesión minera;
-Fracción adicionada DOF 26-06-2006. Reformada DOF 11-08-2014, 08-05-2023 XIII. Perder la capacidad para ser titular de concesiones. No procede la cancelación cuando la persona titular de la concesión pierda su capacidad por no ajustarse a las disposiciones que regulan la participación de inversionistas extranjeros y subsane tal circunstancia dentro de los noventa días naturales siguientes a la fecha en que la misma ocurra;
-Fracción recorrida DOF 26-06-2006. Reformada DOF 08-05-2023 XIV. Omitir dar aviso, en dos ocasiones consecutivas, sobre cualquier accidente que, con motivo de la operación de la mina, hubiere causado daños o cualquier incidente que ponga en peligro la seguridad de las personas, sus bienes o el medio ambiente, dentro del lote minero que ampara el título de concesión en la que se ejecuten obras y trabajos, en un plazo máximo de setenta y dos horas, contadas a partir de que ocurran los hechos;
-Fracción adicionada DOF 08-05-2023 XV. Omitir informar a la Secretaría de la designación del ingeniero o ingeniera responsable del cumplimiento de las normas de seguridad en las minas, conforme a lo establecido en el artículo 27, fracción XVIII, de la presente Ley;
-Fracción adicionada DOF 08-05-2023 XVI. No permitir el ingreso del personal de la Secretaría para realizar visitas de verificación de las obligaciones que impone la presente Ley;
-Fracción adicionada DOF 08-05-2023 XVII. Cuando la autoridad competente determine que existe riesgo inminente de desequilibrio ecológico, o de daño o deterioro irreversible a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes, sistemas hidrológicos superficiales o subterráneos, o para la salud pública, de conformidad con las disposiciones aplicables a la materia;
-Fracción adicionada DOF 08-05-2023 XVIII. No informar del inicio de actividades de explotación en los plazos previstos en la presente Ley;
-Fracción adicionada DOF 08-05-2023 XIX. Suspender o cancelar, sin previo aviso, las actividades de explotación o beneficio una vez iniciadas, salvo por disposición jurisdiccional o que existan causas de fuerza mayor;
-Fracción adicionada DOF 08-05-2023 XX. Dejar de rendir, por más de una ocasión, el informe previsto en el artículo 28 de la presente Ley o no rendirlo en los términos precisados en la presente Ley o su Reglamento, y Fracción adicionada DOF 08-05-2023 LEY DE MINERÍA XXI. El incumplimiento de las obligaciones establecidas en las fracciones XV, XVI, XVII, XVIII y XX del artículo 27 de la presente Ley.
+LEY DE MINERÍA Fracción reformada DOF 26-06-2006
+
+IX. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014
+
+X. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014
+
+XI. (Se deroga.) Fracción adicionada DOF 26-06-2006. Derogada DOF 11-08-2014
+
+XII. Omitir información sobre el hallazgo de cualquier hidrocarburo o litio en el área objeto de la concesión minera;
+Fracción adicionada DOF 26-06-2006. Reformada DOF 11-08-2014, 08-05-2023
+
+XIII. Perder la capacidad para ser titular de concesiones. No procede la cancelación cuando la persona titular de la concesión pierda su capacidad por no ajustarse a las disposiciones que regulan la participación de inversionistas extranjeros y subsane tal circunstancia dentro de los noventa días naturales siguientes a la fecha en que la misma ocurra;
+Fracción recorrida DOF 26-06-2006. Reformada DOF 08-05-2023
+
+XIV. Omitir dar aviso, en dos ocasiones consecutivas, sobre cualquier accidente que, con motivo de la operación de la mina, hubiere causado daños o cualquier incidente que ponga en peligro la seguridad de las personas, sus bienes o el medio ambiente, dentro del lote minero que ampara el título de concesión en la que se ejecuten obras y trabajos, en un plazo máximo de setenta y dos horas, contadas a partir de que ocurran los hechos;
+Fracción adicionada DOF 08-05-2023
+
+XV. Omitir informar a la Secretaría de la designación del ingeniero o ingeniera responsable del cumplimiento de las normas de seguridad en las minas, conforme a lo establecido en el artículo 27, fracción XVIII, de la presente Ley;
+Fracción adicionada DOF 08-05-2023
+
+XVI. No permitir el ingreso del personal de la Secretaría para realizar visitas de verificación de las obligaciones que impone la presente Ley;
+Fracción adicionada DOF 08-05-2023
+
+XVII. Cuando la autoridad competente determine que existe riesgo inminente de desequilibrio ecológico, o de daño o deterioro irreversible a los recursos naturales, casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes, sistemas hidrológicos superficiales o subterráneos, o para la salud pública, de conformidad con las disposiciones aplicables a la materia;
+Fracción adicionada DOF 08-05-2023
+
+XVIII. No informar del inicio de actividades de explotación en los plazos previstos en la presente Ley;
+Fracción adicionada DOF 08-05-2023
+
+XIX. Suspender o cancelar, sin previo aviso, las actividades de explotación o beneficio una vez iniciadas, salvo por disposición jurisdiccional o que existan causas de fuerza mayor;
+Fracción adicionada DOF 08-05-2023
+
+XX. Dejar de rendir, por más de una ocasión, el informe previsto en el artículo 28 de la presente Ley o no rendirlo en los términos precisados en la presente Ley o su Reglamento, y Fracción adicionada DOF 08-05-2023 LEY DE MINERÍA
+
+XXI. El incumplimiento de las obligaciones establecidas en las fracciones XV, XVI, XVII, XVIII y XX del artículo 27 de la presente Ley.
 Fracción adicionada DOF 08-05-2023 Reforma DOF 08-05-2023: Derogó del artículo los entonces párrafos segundo (antes reformado DOF 28-04-2005) y tercero
 
 ### Artículo 56
 .- No procederá la sanción administrativa correspondiente por infracción cuando, por una sola ocasión, dentro de un plazo de cuarenta y cinco días naturales, contados a partir de la fecha en que se notifique a la persona interesada el inicio del procedimiento, se acredite en relación con las causas señaladas en las fracciones II, III y V del artículo anterior, respectivamente:
-Párrafo reformado DOF 08-05-2023 I. La presentación del o de los informes omitidos de comprobación a que se refiere el artículo 28 de esta Ley, así como el pago de la multa que determina el artículo 57, fracción XI de la misma;
+Párrafo reformado DOF 08-05-2023
+
+I. La presentación del o de los informes omitidos de comprobación a que se refiere el artículo 28 de esta Ley, así como el pago de la multa que determina el artículo 57, fracción XI de la misma;
 Fracción reformada DOF 28-04-2005 II.- El pago de los derechos sobre minería omitidos y demás accesorios originados por el incumplimiento, de acuerdo con las disposiciones fiscales aplicables;
-III.- El pago actualizado de la prima por descubrimiento, conforme lo determine el Reglamento de la presente Ley, y IV. Derogada.
+III.- El pago actualizado de la prima por descubrimiento, conforme lo determine el Reglamento de la presente Ley, y
+
+IV. Derogada.
 Fracción derogada DOF 08-05-2023
 
 ### Artículo 57
 .- Se consideran infracciones administrativas las siguientes conductas:
-Párrafo reformado DOF 08-05-2023 I. Extraer minerales o sustancias sujetos a la aplicación de esta Ley sin ser titular de la concesión minera;
-Fracción reformada DOF 08-05-2023 II. Derogada.
+Párrafo reformado DOF 08-05-2023
+
+I. Extraer minerales o sustancias sujetos a la aplicación de esta Ley sin ser titular de la concesión minera;
+Fracción reformada DOF 08-05-2023
+
+II. Derogada.
 Fracción derogada DOF 08-05-2023 III.- Retirar o destruir las obras permanentes de fortificación, los ademes y demás instalaciones necesarias para la estabilidad y seguridad de las minas;
+
 IV. Impedir u obstaculizar las visitas de verificación que practique el personal comisionado por la Secretaría;
-Fracción reformada DOF 08-05-2023 V. No concurrir por sí o sin la debida representación a las visitas de verificación que practique la Secretaría, sin que medie causa justificada;
-Fracción reformada DOF 08-05-2023 VI. No designar al ingeniero o ingeniera responsable del cumplimiento de las normas de seguridad en las minas o encomendarle actividades que le impidan el desarrollo de sus funciones propias;
-Fracción reformada DOF 24-12-1996, 08-05-2023 VII. Omitir la notificación prevista en el artículo 34, párrafo segundo, de esta Ley o bien, no tomar las medidas procedentes, en caso de haberse recibido tal notificación;
-Fracción reformada DOF 24-12-1996, 08-05-2023 VIII. No dar aviso a la Secretaría del inicio de operaciones de explotación o beneficio;
+Fracción reformada DOF 08-05-2023
+
+V. No concurrir por sí o sin la debida representación a las visitas de verificación que practique la Secretaría, sin que medie causa justificada;
+Fracción reformada DOF 08-05-2023
+
+VI. No designar al ingeniero o ingeniera responsable del cumplimiento de las normas de seguridad en las minas o encomendarle actividades que le impidan el desarrollo de sus funciones propias;
+Fracción reformada DOF 24-12-1996, 08-05-2023
+
+VII. Omitir la notificación prevista en el artículo 34, párrafo segundo, de esta Ley o bien, no tomar las medidas procedentes, en caso de haberse recibido tal notificación;
+Fracción reformada DOF 24-12-1996, 08-05-2023
+
+VIII. No dar aviso a la Secretaría del inicio de operaciones de explotación o beneficio;
 Fracción reformada DOF 08-05-2023 LEY DE MINERÍA IX.- Negarse a beneficiar el mineral de pequeños y medianos mineros y del sector social en condiciones competitivas, sin acreditar causa que lo justifique, de acuerdo con lo establecido por el artículo 37, fracción V, de esta Ley;
 X.- Modificar la ubicación o dañar a la mojonera o señal que sirva para identificar al punto de partida de un lote minero;
+
 XI. Comprobar extemporáneamente la ejecución en tiempo de las obras y trabajos previstos por esta Ley, a fin de dejar sin efecto el procedimiento de cancelación de una concesión minera;
-Fracción reformada DOF 28-04-2005, 08-05-2023 XII. No rendir oportuna y verazmente los informes previstos en esta Ley en los términos y condiciones que fije el Reglamento, y Fracción reformada DOF 08-05-2023 XIII. Omitir dar aviso sobre cualquier accidente que, con motivo de la operación de la mina, hubiere causado daños o cualquier incidente que ponga en peligro la seguridad de las personas, sus bienes o el medio ambiente, suscitado dentro del lote minero que ampara el título de concesión, en un plazo máximo de setenta y dos horas, contadas a partir de que ocurran los hechos.
+Fracción reformada DOF 28-04-2005, 08-05-2023
+
+XII. No rendir oportuna y verazmente los informes previstos en esta Ley en los términos y condiciones que fije el Reglamento, y Fracción reformada DOF 08-05-2023
+
+XIII. Omitir dar aviso sobre cualquier accidente que, con motivo de la operación de la mina, hubiere causado daños o cualquier incidente que ponga en peligro la seguridad de las personas, sus bienes o el medio ambiente, suscitado dentro del lote minero que ampara el título de concesión, en un plazo máximo de setenta y dos horas, contadas a partir de que ocurran los hechos.
 Fracción adicionada DOF 08-05-2023 Procede sancionar con multa del equivalente al uno por ciento del total de sus ingresos y cinco mil veces el valor diario de la Unidad de Medida y Actualización, las conductas señaladas en las fracciones IV, V, VII, VIII, IX, XI y XII del presente artículo.
 Párrafo adicionado DOF 08-05-2023 Procede sancionar con multa del equivalente al cuatro por ciento del total de sus ingresos anuales y diez mil veces el valor diario de la Unidad de Medida y Actualización, las conductas señaladas en las fracciones I, III, VI y XIII.
 Párrafo adicionado DOF 08-05-2023 De existir reincidencia se debe imponer hasta dos veces el importe de la multa que corresponda.
@@ -624,9 +960,14 @@ De los Delitos Capítulo adicionado DOF 08-05-2023
 
 ### Artículo 64
 .- Se sancionará con pena de cinco a diez años de prisión y multa del cinco por ciento del total de sus ingresos anuales más diez mil veces el valor diario de la Unidad de Medida y Actualización, con independencia de las sanciones administrativas que procedan, a quien:
+
 I. Extraiga minerales o sustancias sujetas a la aplicación de esta Ley sin ser titular de la concesión minera;
+
 II. Enajene o trafique de cualquier manera minerales y derivados metalúrgicos sin contar con la concesión correspondiente;
-III. Para obtener o conservar la concesión minera, exhiba documentación falsa, y IV. Provoque daños a sus trabajadores por falta de seguridad, al omitir el cumplimiento de lo estipulado en esta Ley, su Reglamento o la normatividad aplicable en materia de seguridad de minas.
+
+III. Para obtener o conservar la concesión minera, exhiba documentación falsa, y
+
+IV. Provoque daños a sus trabajadores por falta de seguridad, al omitir el cumplimiento de lo estipulado en esta Ley, su Reglamento o la normatividad aplicable en materia de seguridad de minas.
 Artículo adicionado DOF 08-05-2023
 
 ### Artículo 65

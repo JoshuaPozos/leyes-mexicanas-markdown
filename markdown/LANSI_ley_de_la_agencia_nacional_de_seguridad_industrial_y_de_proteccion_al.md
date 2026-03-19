@@ -18,8 +18,13 @@ LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMB
 ### Artículo 1o
 .- La presente Ley es de orden público e interés general y de aplicación en todo el territorio nacional y zonas en las que la Nación ejerce soberanía o jurisdicción y tiene como objeto crear la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, como un órgano administrativo desconcentrado de la Secretaría de Medio Ambiente y Recursos Naturales, con autonomía técnica y de gestión.
 La Agencia tiene por objeto la protección de las personas, el medio ambiente y las instalaciones del sector hidrocarburos a través de la regulación y supervisión de:
+
 I. La Seguridad Industrial y Seguridad Operativa;
-SECTOR HIDROCARBUROS II. Las actividades de desmantelamiento y abandono de instalaciones, y III. El control integral de los residuos y emisiones contaminantes.
+SECTOR HIDROCARBUROS
+
+II. Las actividades de desmantelamiento y abandono de instalaciones, y
+
+III. El control integral de los residuos y emisiones contaminantes.
 
 ### Artículo 2o
 .- La actuación de la Agencia se regirá por los principios de eficacia, eficiencia, honestidad, imparcialidad, objetividad, productividad, profesionalización, transparencia, participación social y rendición de cuentas.
@@ -28,22 +33,39 @@ En el ejercicio de sus funciones, tomará en consideración criterios de sustent
 
 ### Artículo 3o
 .- Además de las definiciones contempladas en la Ley de Hidrocarburos y en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para los efectos de esta Ley se entenderá, en singular o plural, por:
+
 I. Agencia: Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+
 II. Contingencia: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de la población, el medio ambiente o las instalaciones industriales;
+
 III. Consecuencia: Resultado real o potencial de un evento no deseado, medido por sus efectos en las personas, instalaciones y el medio ambiente;
+
 IV. Emergencia: Situación derivada de actividades humanas o fenómenos naturales que al ocurrir, afectan la integridad de la población, el medio ambiente o las instalaciones industriales;
+
 V. Evaluación estratégica: Proceso sistemático de análisis que realiza la Agencia para emitir observaciones y recomendaciones en las materias de Seguridad Industrial, Seguridad Operativa y de protección ambiental en las iniciativas de políticas públicas, planes o programas de gobierno relacionadas con las actividades del Sector Hidrocarburos;
+
 VI. Externalidades: Los impactos positivos o negativos que genera la provisión de un bien o servicio y que afectan o que pudieran afectar a una tercera persona o al medio ambiente. Las externalidades ocurren cuando el costo pagado por un bien o servicio es diferente del costo total de los daños y beneficios en términos económicos, sociales, ambientales y a la salud que involucran su producción y consumo;
+
 VII. Instalación: El conjunto de estructuras, plantas industriales, equipos, circuitos de tuberías de proceso y servicios auxiliares, así como sistemas instrumentados, dispuestos para un proceso productivo o comercial específicos, incluyendo, entre otros, pozos para la exploración y extracción de hidrocarburos, plataformas, plantas de almacenamiento, refinación y procesamiento de hidrocarburos en tierra y en mar, plantas de compresión y descompresión de SECTOR HIDROCARBUROS hidrocarburos, sistemas de transporte y distribución en cualquier modalidad, así como estaciones de expendio al público;
+
 VIII. Regulados: Las empresas productivas del Estado, las personas físicas y morales de los sectores público, social y privado que realicen actividades reguladas y materia de la presente Ley;
+
 IX. Riesgo: Es la probabilidad de ocurrencia de un evento indeseable medido en términos de sus consecuencias en las personas, instalaciones, medio ambiente o la comunidad;
+
 X. Riesgo crítico: Riesgo que implica un peligro inminente y requiere acción inmediata para reducirse a condiciones aceptables sin limitar el costo de su solución;
+
 XI. Sector Hidrocarburos o Sector: Las actividades siguientes: a. El reconocimiento y exploración superficial, y la exploración y extracción de hidrocarburos; b. El tratamiento, refinación, enajenación, comercialización, transporte y almacenamiento del petróleo; c. El procesamiento, compresión, licuefacción, descompresión y regasificación, así como el transporte, almacenamiento, distribución y expendio al público de gas natural; d. El transporte, almacenamiento, distribución y expendio al público de gas licuado de petróleo; e. El transporte, almacenamiento, distribución y expendio al público de petrolíferos, y f. El transporte por ducto y el almacenamiento, que se encuentre vinculado a ductos de petroquímicos producto del procesamiento del gas natural y de la refinación del petróleo;
+
 XII. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales;
+
 XIII. Seguridad Industrial: Área multidisciplinaria que se encarga de identificar, reducir, evaluar, prevenir, mitigar, controlar y administrar los riesgos en el Sector, mediante un conjunto de normas que incluyen directrices técnicas sobre las instalaciones, y de las actividades relacionadas con aquéllas que tengan riesgos asociados, cuyo principal objetivo es preservar la integridad física de las personas, de las instalaciones, así como la protección al medio ambiente;
+
 XIV. Seguridad Operativa: Área multidisciplinaria que se encarga de los procesos contenidos en las disposiciones y normas técnicas, administrativas y operativas, respecto de la tecnología aplicada, así como del análisis, evaluación, prevención, mitigación y control de los riesgos asociados de proceso, desde la fase de diseño, construcción, arranque y puesta en operación, operación rutinaria, paros normales y de emergencia, mantenimiento preventivo y correctivo.
 También incluye los procedimientos de operación y prácticas seguras, entrenamiento y desempeño, investigación y análisis de incidentes y accidentes, planes de respuesta a emergencias, auditorías, aseguramiento de calidad, pre-arranque, integridad mecánica y administración de cambios, entre otros, en el Sector;
-XV. Sistema de Administración: Conjunto integral de elementos interrelacionados y documentados cuyo propósito es la prevención, control y mejora del desempeño de una SECTOR HIDROCARBUROS instalación o conjunto de ellas, en materia de Seguridad Industrial, Seguridad Operativa y de protección al medio ambiente en el Sector, y XVI. Supervisión: Acto de autoridad mediante el cual la Agencia verifica, inspecciona y, en su caso, comprueba el cumplimiento de las disposiciones legales, reglamentarias y normativas en las materias objeto de esta Ley.
+
+XV. Sistema de Administración: Conjunto integral de elementos interrelacionados y documentados cuyo propósito es la prevención, control y mejora del desempeño de una SECTOR HIDROCARBUROS instalación o conjunto de ellas, en materia de Seguridad Industrial, Seguridad Operativa y de protección al medio ambiente en el Sector, y
+
+XVI. Supervisión: Acto de autoridad mediante el cual la Agencia verifica, inspecciona y, en su caso, comprueba el cumplimiento de las disposiciones legales, reglamentarias y normativas en las materias objeto de esta Ley.
 
 ### Artículo 4o
 .- En lo no previsto por la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley de Hidrocarburos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Desarrollo Forestal Sustentable, la Ley de Bioseguridad de Organismos Genéticamente Modificados, y la Ley Federal de Procedimiento Administrativo.
@@ -54,58 +76,128 @@ Atribuciones de la Agencia
 
 ### Artículo 5o
 .- La Agencia tendrá las siguientes atribuciones:
+
 I. Aportar los elementos técnicos sobre Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, a las autoridades competentes, para las políticas energética y ambiental del país, así como para la formulación de los programas sectoriales en esas materias. Para ello, participará con la Secretaría y con la Secretaría de Energía en el desarrollo de la Evaluación Estratégica del Sector;
+
 II. Participar con los distintos órdenes de gobierno, dependencias y entidades competentes, en el diseño y atención de los planes nacionales e internacionales para prevenir y atender situaciones de emergencia en las actividades del Sector;
+
 III. Regular, supervisar y sancionar en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, en relación con las actividades del Sector, incluyendo las etapas de desmantelamiento y abandono de las instalaciones, así como de control integral de los residuos y las emisiones a la atmósfera;
+
 IV. Regular a través de lineamientos, directrices, criterios u otras disposiciones administrativas de carácter general necesarias en las materias de su competencia y, en su caso, normas oficiales mexicanas, previa opinión de la Secretaría, en materia de protección al medio ambiente y de la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía, en materia de Seguridad Industrial y Seguridad Operativa;
+
 V. Definir las medidas técnicas en el ámbito de su competencia, que deben ser incluidas en los protocolos para hacer frente a emergencias o situaciones de Riesgo Crítico o situaciones que puedan ocasionar un daño grave a las personas o a los bienes y al medio ambiente, cuando la magnitud del evento lo requiera y, en su caso, participar bajo la coordinación de las autoridades competentes para su aplicación;
+
 VI. Emitir las bases y criterios para que los Regulados adopten las mejores prácticas de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente que resulten aplicables a las actividades del Sector.
 SECTOR HIDROCARBUROS Lo anterior incluirá el control y seguimiento geofísico en la operación cuando ésta lo requiera, las etapas de desmantelamiento y abandono de las instalaciones, la restauración de los sitios impactados por las actividades del Sector, así como el control integral de sus residuos y sus emisiones de contaminantes;
+
 VII. Establecer los lineamientos para la conformación y operación de los Sistemas de Administración con que deberán contar los Regulados;
+
 VIII. Supervisar y vigilar el cumplimiento por parte de los Regulados de los ordenamientos legales, reglamentarios y demás normativa que resulten aplicables a las materias de su competencia.
 Para ello, podrá realizar y ordenar certificaciones, auditorías y verificaciones, así como llevar a cabo visitas de inspección y supervisión.
 Asimismo, en el ejercicio de sus atribuciones, podrá instruir la comparecencia de representantes de los Regulados.
 Para llevar a cabo la supervisión, la Agencia podrá ordenar visitas de inspección.
 En la sustanciación de las visitas, la Agencia aplicará lo dispuesto en la Ley Federal de Procedimiento Administrativo y, en su caso, la Ley Federal sobre Metrología y Normalización;
+
 IX. Autorizar a servidores públicos de la Agencia y acreditar a personas físicas o morales para que lleven a cabo las actividades de supervisión, inspección y verificación, evaluaciones e investigaciones técnicas, así como de certificación y auditorías referidas en la presente Ley;
+
 X. Instaurar, tramitar y resolver, en los términos de las disposiciones legales y reglamentarias aplicables, los procedimientos administrativos, que correspondan con motivo de sus atribuciones;
+
 XI. Imponer medidas de seguridad, de apremio o sanciones que resulten aplicables conforme a la legislación correspondiente;
+
 XII. Resolver sobre las solicitudes de revocación, modificación y conmutación de multas, en los términos previstos en las disposiciones jurídicas aplicables;
+
 XIII. Establecer los mecanismos a través de los cuales los Regulados deberán informar sobre los siniestros, accidentes, incidentes, emergencias, fugas y derrames vinculados con las actividades del Sector;
+
 XIV. Llevar a cabo investigaciones de causa raíz en caso de incidentes y accidentes operativos, industriales y medioambientales, conforme a los lineamientos que al efecto emita o establecer las bases para que los Regulados lleven a cabo dichas investigaciones, así como la comunicación de riesgos y lecciones aprendidas;
+
 XV. Promover la colaboración entre Regulados con el objetivo de optimizar el uso de recursos para la atención de contingencias, emergencias, prevención y mitigación de riesgos;
+
 XVI. Coordinar un programa de certificación en Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, en relación con el cumplimiento de la normatividad y estándares de desempeño, con base en el principio de autogestión y conforme a los requisitos técnicos que para tal efecto establezca;
+
 XVII. Autorizar los Sistemas de Administración de los Regulados;
-SECTOR HIDROCARBUROS XVIII. Expedir, suspender, revocar o negar las licencias, autorizaciones, permisos y registros en materia ambiental, a que se refiere el artículo 7 de esta Ley, en los términos de las disposiciones normativas aplicables;
+SECTOR HIDROCARBUROS
+
+XVIII. Expedir, suspender, revocar o negar las licencias, autorizaciones, permisos y registros en materia ambiental, a que se refiere el artículo 7 de esta Ley, en los términos de las disposiciones normativas aplicables;
+
 XIX. Regular y supervisar, en relación con las materias de su competencia, las actividades de captura, exploración, extracción, transporte e inyección industrial de bióxido de carbono, que se realizan con el fin de mejorar la producción de hidrocarburos;
+
 XX. Regular y supervisar la producción, transporte, almacenamiento y distribución industrial de biocombustibles, cuando estas actividades estén directamente vinculadas al proceso de mezclado o preparación de gasolinas y/o diésel, en relación con las materias de su competencia, en coordinación, en su caso, con otras autoridades competentes y atendiendo a las disposiciones normativas aplicables;
+
 XXI. Requerir a los Regulados la información y la documentación necesaria para el ejercicio de sus atribuciones, así como la exhibición de dictámenes, reportes técnicos, informes de pruebas, contratos con terceros, estudios, certificados o cualquier otro documento de evaluación de la conformidad;
+
 XXII. Realizar estudios de valoración económica de las externalidades ambientales y riesgos asociados a las instalaciones, actividades y operación del Sector, con base en una metodología que tome en cuenta las mejores prácticas internacionales;
+
 XXIII. Impulsar un desarrollo regional sustentable y exigir que las actividades relacionadas con el Sector se realicen, entre otras, con apego a la protección, conservación, compensación y restauración de los ecosistemas, flora y fauna silvestres, bienes y servicios ambientales, en coordinación con las unidades administrativas competentes de la Secretaría;
+
 XXIV. Proporcionar el apoyo técnico que soliciten las dependencias y entidades de la Administración Pública Federal, en el ámbito de su competencia;
+
 XXV. Coadyuvar, con las dependencias competentes, al seguimiento de mecanismos, acuerdos y convenios internacionales en materia de su competencia;
+
 XXVI. Participar, con las autoridades competentes, en el diseño de los mecanismos de creación, administración, evaluación y rendición de cuentas de los fondos que, en su caso, se constituyan para la atención de Riesgos Críticos y eventos mayores;
+
 XXVIII. Publicar un informe anual sobre sus actividades;
-XXIX. Contratar servicios de consultorías, asesorías, estudios e investigaciones técnicas, requeridos para sus actividades, y XXX. Las demás que le confieran esta Ley y otros ordenamientos aplicables.
+
+XXIX. Contratar servicios de consultorías, asesorías, estudios e investigaciones técnicas, requeridos para sus actividades, y
+
+XXX. Las demás que le confieran esta Ley y otros ordenamientos aplicables.
 
 ### Artículo 6o
 .- La regulación que emita la Agencia será publicada en el Diario Oficial de la Federación y deberá comprender, entre otros aspectos, los siguientes:
+
 I. En materia de Seguridad Industrial y Seguridad Operativa:
-SECTOR HIDROCARBUROS a) La adopción y observancia obligatoria de estándares técnicos nacionales e internacionales; b) La prevención y contención de derrames y fugas de hidrocarburos en las instalaciones y actividades del Sector, así como los procesos de remediación de las afectaciones que en su caso resulten, en coordinación con las unidades administrativas de la Secretaría; c) El requerimiento de garantías o cualquier otro instrumento financiero necesario para que los Regulados cuenten con coberturas financieras contingentes frente a daños o perjuicios que se pudieran generar. Dicha regulación deberá contar con la opinión favorable de la Secretaría de Energía y de la Secretaría de Hacienda y Crédito Público, y d) La integridad física y operativa de las instalaciones; el análisis de riesgo y los planes de atención de contingencias y emergencias, así como su cumplimiento.
-II. En materia de protección al medio ambiente: a) Las condiciones de protección ambiental de los suelos, flora y fauna silvestres a que se sujetarán las actividades de exploración, extracción, transporte, almacenamiento y distribución de hidrocarburos para evitar o minimizar las alteraciones ambientales que generen esas actividades; b) La caracterización y clasificación de los residuos generados en las actividades del Sector y los criterios generales para la elaboración de los planes de manejo correspondientes, en los que se definan sus etapas, estructura de manejo, jerarquía y responsabilidad compartida de las partes involucradas; c) Las actividades de manejo integral de los residuos peligrosos y de manejo especial generados o provenientes de las actividades del Sector; d) Las condiciones de protección ambiental para el manejo de materiales peligrosos que se utilicen en las actividades del Sector. Para los efectos de este inciso, se considerarán materiales peligrosos los residuos peligrosos valorizados identificados como subproductos; e) Las condiciones ambientales para prevenir la contaminación por residuos generados por las actividades del Sector, cuya disposición final pueda provocar salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de agua en los sitios en donde se realicen dichas actividades; f) El desempeño ambiental que deberá prevalecer en el manejo integral de residuos sólidos urbanos y de manejo especial generados por las actividades del Sector; g) Las previsiones a que deberá sujetarse la operación de fuentes fijas donde se desarrollen actividades del Sector que emitan contaminantes atmosféricos, en casos de Contingencias o Emergencias ambientales; h) Las especificaciones y los requisitos del control de emisiones de contaminantes procedentes de las fuentes fijas del Sector para cumplir los niveles máximos permisibles de emisiones por contaminante o por fuente contenidos en las normas oficiales mexicanas que expida la Secretaría; i) La información técnica específica de los organismos genéticamente modificados que se utilizarán en la bioremediación de sitios contaminados por hidrocarburos, y SECTOR HIDROCARBUROS j) Las cantidades mínimas necesarias para considerar como adversos o dañosos el deterioro, la pérdida, el cambio, el menoscabo, la afectación, la modificación y la contaminación al ambiente y a los recursos naturales, que generen las actividades del Sector, para los efectos de la Ley Federal de Responsabilidad Ambiental.
+SECTOR HIDROCARBUROS
+
+a) La adopción y observancia obligatoria de estándares técnicos nacionales e internacionales;
+
+b) La prevención y contención de derrames y fugas de hidrocarburos en las instalaciones y actividades del Sector, así como los procesos de remediación de las afectaciones que en su caso resulten, en coordinación con las unidades administrativas de la Secretaría;
+
+c) El requerimiento de garantías o cualquier otro instrumento financiero necesario para que los Regulados cuenten con coberturas financieras contingentes frente a daños o perjuicios que se pudieran generar. Dicha regulación deberá contar con la opinión favorable de la Secretaría de Energía y de la Secretaría de Hacienda y Crédito Público, y
+
+d) La integridad física y operativa de las instalaciones; el análisis de riesgo y los planes de atención de contingencias y emergencias, así como su cumplimiento.
+
+II. En materia de protección al medio ambiente:
+
+a) Las condiciones de protección ambiental de los suelos, flora y fauna silvestres a que se sujetarán las actividades de exploración, extracción, transporte, almacenamiento y distribución de hidrocarburos para evitar o minimizar las alteraciones ambientales que generen esas actividades;
+
+b) La caracterización y clasificación de los residuos generados en las actividades del Sector y los criterios generales para la elaboración de los planes de manejo correspondientes, en los que se definan sus etapas, estructura de manejo, jerarquía y responsabilidad compartida de las partes involucradas;
+
+c) Las actividades de manejo integral de los residuos peligrosos y de manejo especial generados o provenientes de las actividades del Sector;
+
+d) Las condiciones de protección ambiental para el manejo de materiales peligrosos que se utilicen en las actividades del Sector. Para los efectos de este inciso, se considerarán materiales peligrosos los residuos peligrosos valorizados identificados como subproductos;
+
+e) Las condiciones ambientales para prevenir la contaminación por residuos generados por las actividades del Sector, cuya disposición final pueda provocar salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de agua en los sitios en donde se realicen dichas actividades;
+
+f) El desempeño ambiental que deberá prevalecer en el manejo integral de residuos sólidos urbanos y de manejo especial generados por las actividades del Sector;
+
+g) Las previsiones a que deberá sujetarse la operación de fuentes fijas donde se desarrollen actividades del Sector que emitan contaminantes atmosféricos, en casos de Contingencias o Emergencias ambientales;
+
+h) Las especificaciones y los requisitos del control de emisiones de contaminantes procedentes de las fuentes fijas del Sector para cumplir los niveles máximos permisibles de emisiones por contaminante o por fuente contenidos en las normas oficiales mexicanas que expida la Secretaría;
+
+i) La información técnica específica de los organismos genéticamente modificados que se utilizarán en la bioremediación de sitios contaminados por hidrocarburos, y SECTOR HIDROCARBUROS
+
+j) Las cantidades mínimas necesarias para considerar como adversos o dañosos el deterioro, la pérdida, el cambio, el menoscabo, la afectación, la modificación y la contaminación al ambiente y a los recursos naturales, que generen las actividades del Sector, para los efectos de la Ley Federal de Responsabilidad Ambiental.
 
 ### Artículo 7o
 .- Los actos administrativos a que se refiere la fracción XVIII del artículo 5o., serán los siguientes:
+
 I. Autorizaciones en materia de impacto y riesgo ambiental del Sector Hidrocarburos; de carbonoductos; instalaciones de tratamiento, confinamiento o eliminación de residuos peligrosos; aprovechamientos forestales en selvas tropicales, y especies de difícil regeneración; así como obras y actividades en humedales, manglares, lagunas, ríos, lagos y esteros conectados con el mar, litorales o las zonas federales de las áreas antes mencionadas, en términos del artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y del Reglamento de la materia;
+
 II. Autorización para emitir olores, gases o partículas sólidas o líquidas a la atmósfera por las Instalaciones del Sector Hidrocarburos, en términos del artículo 111 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y del Reglamento de la materia;
+
 III. Autorizaciones en materia de residuos peligrosos en el Sector Hidrocarburos, previstas en el
 
 ### artículo 50
 , fracciones I a IX, de la Ley General para la Prevención y Gestión Integral de los Residuos y de los reglamentos en la materia;
+
 IV. Autorización de las propuestas de remediación de sitios contaminados y la liberación de los mismos al término de la ejecución del programa de remediación correspondiente, en términos de la Ley General para la Prevención y Gestión Integral de los Residuos y de su Reglamento;
+
 V. Autorizaciones en materia de residuos de manejo especial, en términos de la Ley General para la Prevención y Gestión Integral de los Residuos y de los reglamentos en la materia;
+
 VI. Registro de planes de manejo de residuos y programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a la Ley General para la Prevención y Gestión Integral de los Residuos;
-VII. Autorizaciones de cambio de uso del suelo en terrenos forestales, en términos del artículo 117 de la Ley General de Desarrollo Forestal Sustentable y de su Reglamento, y VIII. Permisos para la realización de actividades de liberación al ambiente de organismos genéticamente modificados para bioremediación de sitios contaminados con hidrocarburos, así como establecer y dar seguimiento a las condiciones y medidas a las que se deberán sujetar dichas actividades, conforme a la Ley de Bioseguridad de Organismos Genéticamente Modificados y de su Reglamento.
+
+VII. Autorizaciones de cambio de uso del suelo en terrenos forestales, en términos del artículo 117 de la Ley General de Desarrollo Forestal Sustentable y de su Reglamento, y
+
+VIII. Permisos para la realización de actividades de liberación al ambiente de organismos genéticamente modificados para bioremediación de sitios contaminados con hidrocarburos, así como establecer y dar seguimiento a las condiciones y medidas a las que se deberán sujetar dichas actividades, conforme a la Ley de Bioseguridad de Organismos Genéticamente Modificados y de su Reglamento.
 
 ## Capítulo II
 Coordinación con otras Autoridades
@@ -135,23 +227,43 @@ Los Sistemas de Administración a los que alude el párrafo anterior deberán pr
 
 ### Artículo 13
 .- Los Sistemas de Administración deben considerar todo el ciclo de vida de las instalaciones, incluyendo su abandono y desmantelamiento, de conformidad con lo que prevean las reglas de carácter general correspondientes y considerar como mínimo lo siguiente:
+
 I. La política de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;
+
 II. La evaluación de la integridad física y operativa de las instalaciones mediante procedimientos, instrumentos y metodologías reconocidos en el Sector Hidrocarburos;
+
 III. La identificación de riesgos, análisis, evaluación, medidas de prevención, monitoreo, mitigación y valuación de incidentes, accidentes, pérdidas esperadas en los distintos escenarios de riesgos, así como las consecuencias que los riesgos representan a la población, medio ambiente, a las instalaciones y edificaciones comprendidas dentro del perímetro de las instalaciones industriales y en las inmediaciones;
-SECTOR HIDROCARBUROS IV. La identificación e incorporación de las mejores prácticas y estándares a nivel nacional e internacional en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;
+SECTOR HIDROCARBUROS
+
+IV. La identificación e incorporación de las mejores prácticas y estándares a nivel nacional e internacional en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;
+
 V. El establecimiento de objetivos, metas e indicadores para evaluar el desempeño en Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, así como de la implementación del Sistema de Administración;
+
 VI. La asignación de funciones y responsabilidades para implementar, administrar y mejorar el propio Sistema de Administración;
+
 VII. El plan general de capacitación y entrenamiento en Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;
+
 VIII. El control de actividades y procesos;
+
 IX. Los mecanismos de comunicación, difusión y consulta, tanto interna como externa;
+
 X. Los mecanismos de control de documentos;
+
 XI. Las disposiciones para los contratistas en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;
+
 XII. Los lineamientos y procedimientos para la prevención de accidentes y atención de emergencias;
+
 XIII. Los procedimientos para el registro, investigación y análisis de incidentes y accidentes;
+
 XIV. Los mecanismos para el monitoreo, verificación y evaluación de la implementación y desempeño del propio Sistema de Administración;
+
 XV. Los procedimientos para la ejecución de auditorías internas y externas, así como para el seguimiento de atención a incumplimientos detectados;
+
 XVI. Los aspectos legales y normativos internos y externos de las actividades de los Regulados en materia de Seguridad Industrial, Seguridad Operativa y de protección al medio ambiente;
-XVII. La revisión de los resultados de la verificación, y XVIII. El informe periódico del desempeño en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente.
+
+XVII. La revisión de los resultados de la verificación, y
+
+XVIII. El informe periódico del desempeño en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente.
 
 ### Artículo 14
 .- Los Regulados deberán establecer en los contratos, o en cualquier otro acuerdo de voluntades que celebren, la obligación de sus contratistas de apegarse a un Sistema de Administración que cumpla con los requisitos establecidos por la Agencia, en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, cuando la ejecución de los mismos implique riesgos para la población, medio ambiente o las instalaciones.
@@ -165,11 +277,18 @@ SECTOR HIDROCARBUROS
 
 ### Artículo 17
 .- El área a que se refiere el artículo anterior será responsable de:
+
 I. Fungir como representante técnico de los Regulados ante la Agencia;
+
 II. Proponer la adopción de medidas para aplicar las mejores prácticas internacionales en la realización de actividades del Sector;
+
 III. Dar aviso a la Agencia de cualquier Riesgo o Riesgo Crítico que pueda comprometer la Seguridad Industrial, la Seguridad Operativa o el medio ambiente;
+
 IV. Coordinar los trabajos internos para subsanar las irregularidades o incumplimientos de la normatividad externa e interna aplicable;
-V. Presentar anualmente a la Agencia un informe del cumplimiento de las obligaciones a su cargo, en la forma y términos que ella misma establezca mediante reglas de carácter general, y VI. Las demás que le establezca la regulación que al efecto emita la Agencia.
+
+V. Presentar anualmente a la Agencia un informe del cumplimiento de las obligaciones a su cargo, en la forma y términos que ella misma establezca mediante reglas de carácter general, y
+
+VI. Las demás que le establezca la regulación que al efecto emita la Agencia.
 Las áreas responsables a que se refiere el artículo anterior ejercerán sus funciones sin perjuicio de las que correspondan a los auditores externos que, en su caso, contrate el Regulado.
 
 ### Artículo 18
@@ -194,10 +313,16 @@ Medidas de Seguridad
 
 ### Artículo 22
 .- Cuando alguna obra o instalación represente un Riesgo Crítico en materia de Seguridad Industrial, Seguridad Operativa o de protección al medio ambiente, la Agencia podrá ordenar cualquiera de las siguientes medidas de seguridad:
+
 I. Suspender trabajos relacionados con la construcción de obras e instalaciones;
+
 II. Clausurar temporal, total o parcialmente las obras, instalaciones o sistemas;
+
 III. Ordenar la suspensión temporal del suministro o del servicio;
-IV. Asegurar substancias, materiales, equipos, accesorios, ductos, instalaciones, sistemas o vehículos de cualquier especie, y V. Inutilizar sustancias, materiales, equipos o accesorios.
+
+IV. Asegurar substancias, materiales, equipos, accesorios, ductos, instalaciones, sistemas o vehículos de cualquier especie, y
+
+V. Inutilizar sustancias, materiales, equipos o accesorios.
 Al ejercer cualquiera de las medidas de seguridad previstas en el presente artículo, la Agencia deberá, de inmediato, dar aviso a la autoridad que hubiera emitido los permisos o autorizaciones respectivas, para los efectos conducentes.
 
 ### Artículo 23
@@ -211,10 +336,15 @@ Infracciones y Sanciones
 
 ### Artículo 25
 .- La Agencia podrá sancionar las conductas que se describen a continuación, de acuerdo a lo siguiente:
+
 I. La restricción de acceso a instalaciones relacionadas con actividades del Sector, a los inspectores y verificadores, con multas de entre setenta y cinco mil a doscientas veinticinco mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción;
+
 II. El incumplimiento o entorpecimiento de la obligación de informar o reportar, conforme a las disposiciones jurídicas aplicables, cualquier situación relacionada con esta Ley, sus disposiciones reglamentarias o las reglas de carácter general que emita la Agencia, con multas SECTOR HIDROCARBUROS de entre siete mil quinientas a ciento cincuenta mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción.
 La sanción a que se refiere el párrafo anterior también será aplicable a los terceros que operen por cuenta y orden de los Asignatarios o Contratistas que incumplan o entorpezcan la obligación de informar o reportar a las autoridades que correspondan conforme a lo establecido en las disposiciones aplicables;
-III. Proporcionar información falsa, alterada o simular registros relacionados con las materias competencia de esta Ley, en contravención de las disposiciones jurídicas aplicables, con multas de entre tres millones setecientas cincuenta mil a siete millones quinientas mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción, y IV. Las violaciones a esta Ley, a la Ley de Hidrocarburos y a sus disposiciones reglamentarias, así como a la regulación, lineamientos y disposiciones administrativas, que sean competencia de la Agencia, podrán ser sancionadas con multas de entre setecientas cincuenta mil a siete millones quinientas mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción.
+
+III. Proporcionar información falsa, alterada o simular registros relacionados con las materias competencia de esta Ley, en contravención de las disposiciones jurídicas aplicables, con multas de entre tres millones setecientas cincuenta mil a siete millones quinientas mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción, y
+
+IV. Las violaciones a esta Ley, a la Ley de Hidrocarburos y a sus disposiciones reglamentarias, así como a la regulación, lineamientos y disposiciones administrativas, que sean competencia de la Agencia, podrán ser sancionadas con multas de entre setecientas cincuenta mil a siete millones quinientas mil veces el importe del salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción.
 En el caso de reincidencia, el monto de la multa podrá ser hasta por el doble del monto originalmente impuesto, así como la clausura definitiva de las instalaciones. Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción.
 La Agencia podrá suspender o revocar las licencias, autorizaciones, permisos y registros, conforme a los términos previstos en las mismas.
 Sin perjuicio de las sanciones económicas aplicables, la Agencia podrá sancionar las violaciones graves o reiteradas a lo establecido en esta Ley y en la Ley de Hidrocarburos, con amonestación, suspensión, remoción o inhabilitación del personal que preste sus servicios a un Asignatario o Contratista.
@@ -222,10 +352,16 @@ Para la imposición de sanciones por infracciones en materia de protección al m
 
 ### Artículo 26
 .- Para la imposición de las sanciones por infracciones a esta Ley se tomará en cuenta:
+
 I. La gravedad de la infracción, considerando principalmente los siguientes criterios: los daños que se hubieran producido a los bienes o a la salud de las personas, o la afectación del medio ambiente o los recursos naturales;
+
 II. Las condiciones económicas del infractor;
+
 III. La reincidencia, si la hubiere;
-IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción, y SECTOR HIDROCARBUROS V. El beneficio directamente obtenido por el infractor por los actos relacionados con la imposición de sanciones.
+
+IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción, y SECTOR HIDROCARBUROS
+
+V. El beneficio directamente obtenido por el infractor por los actos relacionados con la imposición de sanciones.
 En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Agencia imponga una sanción, dicha autoridad podrá considerar tal situación como atenuante de la infracción cometida.
 TÍTULO TERCERO Integración y Funcionamiento de la Agencia
 
@@ -238,8 +374,12 @@ Párrafo reformado DOF 11-05-2022 La Agencia contará con las unidades administr
 
 ### Artículo 28
 .- Los servidores públicos de la Agencia sujetarán sus actividades a un código de conducta que será público, el cual establecerá como mínimo:
+
 I. Las reglas para llevar a cabo reuniones con los Regulados y los mecanismos para hacerlas públicas;
-II. Las reglas para participar en eventos académicos o de difusión, y III. La prohibición de aceptar obsequios de cualquier tipo, servicios, financiamiento o aportaciones económicas o en especie, así como otras consideraciones de valor.
+
+II. Las reglas para participar en eventos académicos o de difusión, y
+
+III. La prohibición de aceptar obsequios de cualquier tipo, servicios, financiamiento o aportaciones económicas o en especie, así como otras consideraciones de valor.
 
 ### Artículo 29
 .- Los servidores públicos de la Agencia que se especifiquen en el Reglamento Interior, podrán tratar asuntos de su competencia con personas que representen los intereses de los Regulados únicamente mediante audiencia.
@@ -253,22 +393,39 @@ Del Director Ejecutivo SECTOR HIDROCARBUROS
 
 ### Artículo 30
 .- El Director Ejecutivo deberá reunir los siguientes requisitos:
+
 I. Ser ciudadano mexicano;
+
 II. Poseer título profesional en cualquiera de las ingenierías, ciencias físico-matemáticas, biológicas, químicas, de las ciencias sociales y administrativas, que se vinculen con las actividades del Sector Hidrocarburos;
+
 III. Haber desempeñado cargos de alta responsabilidad, cuando menos cinco años, en actividades profesionales en el sector público o privado, sustancialmente relacionadas con las materias objeto de la Agencia;
+
 IV. No haber sido Secretario o Subsecretario de Estado, Procurador o Fiscal General de la República, senador, diputado federal o local, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, durante el año previo a su nombramiento;
-Fracción reformada DOF 20-05-2021 V. No haber sido accionista, consejero, directivo, comisario o apoderado de empresas del Sector Hidrocarburos, asociadas o comercialmente relacionadas con Regulados, dentro del año inmediato anterior a su designación o tener parentesco consanguíneo en línea recta hasta el segundo grado con dichos accionistas, consejeros, directivos, comisarios o apoderados, y VI. No haber sido sentenciado por delito doloso que haya ameritado pena privativa de la libertad por más de un año.
+Fracción reformada DOF 20-05-2021
+
+V. No haber sido accionista, consejero, directivo, comisario o apoderado de empresas del Sector Hidrocarburos, asociadas o comercialmente relacionadas con Regulados, dentro del año inmediato anterior a su designación o tener parentesco consanguíneo en línea recta hasta el segundo grado con dichos accionistas, consejeros, directivos, comisarios o apoderados, y
+
+VI. No haber sido sentenciado por delito doloso que haya ameritado pena privativa de la libertad por más de un año.
 El Director Ejecutivo no podrá desempeñar durante el periodo de su encargo ninguna otra comisión o empleo particular o dentro de la administración pública, a excepción de cargos o empleos de carácter docente y los honoríficos.
 
 ### Artículo 31
 .- Son facultades del Director Ejecutivo:
+
 I. Administrar y representar legalmente a la Agencia, con la suma de facultades generales y especiales, incluyendo facultades para actos de administración y de dominio que, en su caso, requiera conforme a la legislación aplicable;
+
 II. Dirigir las actividades de la Agencia;
+
 III. Nombrar y remover libremente a los servidores públicos de la Agencia;
+
 IV. Expedir las reglas y disposiciones de carácter general en materia de Seguridad Industrial y Seguridad Operativa, así como las normas oficiales mexicanas en materia de protección ambiental, que sean competencia de la Agencia conforme a la presente Ley;
+
 V. Formular el anteproyecto de presupuesto anual y presentarlo ante la Secretaría para su entrega a la Secretaría de Hacienda y Crédito Público;
+
 VI. Ejercer o autorizar el ejercicio del presupuesto autorizado a la Agencia;
-VII. Participar en las negociaciones de tratados internacionales que lleve a cabo el Ejecutivo Federal en las materias de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente que tengan vinculación con el Sector, y SECTOR HIDROCARBUROS VIII. Las demás que sean necesarias para el cumplimiento de sus atribuciones y de la presente Ley.
+
+VII. Participar en las negociaciones de tratados internacionales que lleve a cabo el Ejecutivo Federal en las materias de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente que tengan vinculación con el Sector, y SECTOR HIDROCARBUROS
+
+VIII. Las demás que sean necesarias para el cumplimiento de sus atribuciones y de la presente Ley.
 El Director Ejecutivo podrá delegar la representación legal de la Agencia y sus facultades en favor de los servidores públicos previstos en el Reglamento Interior respectivo, mediante acuerdo delegatorio que deberá publicarse en el Diario Oficial de la Federación, con excepción de la prevista en la fracción IV del presente artículo.
 
 ### Artículo 32
@@ -280,11 +437,18 @@ La periodicidad de las sesiones del Consejo Técnico y las formalidades para su 
 
 ### Artículo 33
 .- El Consejo Técnico de la Agencia tendrá las siguientes funciones:
+
 I. Conocer el programa de trabajo y el informe anual de labores de la Agencia que presente el Director Ejecutivo;
+
 II. Acordar los asuntos que se sometan a su consideración, relacionados con la Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;
+
 III. Conocer del ejercicio de los recursos del fideicomiso a que se refiere esta Ley;
+
 IV. Expedir el código de conducta al que deberá sujetarse el personal de la Agencia;
-V. Aportar elementos para el diseño y formulación de políticas nacionales, relacionadas con las materias objeto de la presente Ley, y VI. Las demás que se señalen en el Reglamento Interior y las necesarias para el cumplimiento de su objeto.
+
+V. Aportar elementos para el diseño y formulación de políticas nacionales, relacionadas con las materias objeto de la presente Ley, y
+
+VI. Las demás que se señalen en el Reglamento Interior y las necesarias para el cumplimiento de su objeto.
 
 ### Artículo 34
 .- La persona Titular de la Dirección Ejecutiva se apoyará de un Comité Científico, órgano de consulta, que tendrá como objeto proporcionar elementos técnicos para la toma de decisiones sobre los temas que por su complejidad requieran el sustento de especialistas en la materia de que se trate.
@@ -303,11 +467,18 @@ Ingresos y Presupuesto Capítulo Único
 
 ### Artículo 37
 .- El fideicomiso público al cual se deberán aportar los remanentes de ingresos propios excedentes que obtenga la Agencia, se sujetará a lo siguiente:
+
 I. Si al finalizar el ejercicio fiscal existiera saldo remanente de ingresos propios excedentes, el Director Ejecutivo de la Agencia instruirá su aportación al fideicomiso público constituido por la Secretaría, en una institución de banca de desarrollo;
+
 II. La Agencia instruirá al fiduciario la aplicación de los recursos de este fideicomiso a la cobertura de gastos necesarios para cumplir con sus funciones en posteriores ejercicios fiscales, respetando los principios a los que hace referencia el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y estando sujetos a la evaluación y al control de la Auditoría Superior de la Federación y de la Secretaría de la Función Pública;
+
 III. No podrán acumular recursos superiores al equivalente de tres veces el presupuesto anual de la Agencia, tomando como referencia el presupuesto aprobado para el último ejercicio fiscal. En caso de que existan recursos adicionales, éstos serán transferidos a la Tesorería de la Federación;
+
 IV. Deberá registrarse y renovar anualmente su registro ante la Secretaría de Hacienda y Crédito Público para efectos del seguimiento de los recursos públicos, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento;
-V. La Agencia deberá incluir en los informes trimestrales y en la Cuenta Pública un reporte del cumplimiento de la misión y fines del fideicomiso, así como de los recursos ejercidos para tal efecto; así como poner esta información a disposición del público en general, a través de su respectiva página de Internet, y VI. Estará sujeto a las obligaciones en materia de transparencia conforme a la ley de la materia.
+
+V. La Agencia deberá incluir en los informes trimestrales y en la Cuenta Pública un reporte del cumplimiento de la misión y fines del fideicomiso, así como de los recursos ejercidos para tal efecto; así como poner esta información a disposición del público en general, a través de su respectiva página de Internet, y
+
+VI. Estará sujeto a las obligaciones en materia de transparencia conforme a la ley de la materia.
 
 ### Artículo 38
 .- La Cámara de Diputados realizará las acciones necesarias para proveer de recursos presupuestarios a la Agencia, con el fin de que pueda llevar a cabo sus funciones. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales, necesarios para cumplir con sus funciones.

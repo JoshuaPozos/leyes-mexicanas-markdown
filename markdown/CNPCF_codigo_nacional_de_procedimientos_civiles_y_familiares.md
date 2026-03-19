@@ -32,41 +32,77 @@ Del Código Nacional de Procedimientos Civiles y Familiares Sección Primera For
 
 ### Artículo 2
 . Para los efectos de este Código Nacional de Procedimientos Civiles y Familiares, se entenderá por:
+
 I. Ajustes de Procedimiento. Las modificaciones y adaptaciones necesarias y adecuadas para facilitar y garantizar el desempeño de las funciones efectivas de las personas que pertenecen a los grupos sociales en situación de vulnerabilidad como participantes directos e indirectos, en todos los procedimientos judiciales, así como el acceso a la justicia en igualdad de condiciones;
+
 II. Apoyo. Formas de asistir en el Procedimiento a las personas para facilitar su comprensión, ejercicio y manifestación de voluntad, derechos y obligaciones;
+
 III. Archivo o documento electrónico. Con independencia del formato en que se encuentre, comprenden el escrito que es generado, consultado, modificado o procesado por medios electrónicos, digitales u ópticos, enviado, recibido, almacenado o utilizado a través de sistemas de justicia digital;
+
 IV. Área de transmisión. Espacio físico desde donde los intervinientes en un procedimiento en línea participan en una audiencia o diligencia virtuales, usando la herramienta de sala virtual designada para tal propósito;
+
 V. Audiencia virtual. Cualquier audiencia de las previstas en este Código Nacional celebrada a través de una sala virtual;
+
 VI. Autoridad jurisdiccional. Jueza, juez, magistrada, magistrado u órganos del Poder Judicial, con facultades para emitir resoluciones en el ejercicio de impartición de justicia dentro del ámbito de sus respectivas competencias;
+
 VII. Cadena de bloques. Conjunto de tecnologías cuyas características buscan posibilitar la transferencia de valor en entornos digitales a través de métodos de consenso y cifrado.
 Desde un punto de vista técnico, y atendiendo a sus características, una cadena de bloques es una base de datos, descentralizada y distribuida en una red de computadoras, formada por un conjunto de registros vinculados donde se almacenan transacciones o datos, que han sido diseñados para evitar su modificación o manipulación no autorizada, una vez que un dato ha sido publicado. Una cadena de bloques es pública cuando es abierta, transparente, cualquiera puede unirse, tener acceso a ella, enviar transacciones y participar en el proceso de consenso o validación de datos. Se consideran cadenas de bloques sin permiso o no permisionadas, ya que no hay restricciones y la participación en ellas no está controlada por un administrador o por un cuerpo central de gobierno;
+
 VIII. Certificado digital. Mensaje de datos o registro que confirme el vínculo entre un firmante y la clave privada;
+
 IX. Clave privada. Los datos que el firmante genera de manera secreta y utiliza para crear su firma electrónica avanzada, a fin de lograr el vínculo entre dicha firma electrónica avanzada y el firmante;
+
 XI. Código Nacional. El Código Nacional de Procedimientos Civiles y Familiares;
+
 XII. Declaración especial de ausencia por desaparición. Se entenderá lo previsto en la Ley General en materia de Desaparición Forzada, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda, en la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, así como en las leyes especiales de la materia en las Entidades Federativas;
+
 XIII. Digitalización. Migración de documentos en soporte físico a un medio electrónico, óptico, digital o de cualquier tecnología, que genera como resultado un mensaje de datos, mediante un proceso que permita asegurar la fidelidad e integridad conforme a los documentos amparados en soportes físicos;
+
 XIV. Diligencia virtual. Actuaciones procesales, distintas de las audiencias virtuales y promociones electrónicas, desarrolladas por personas funcionarias judiciales, las partes o sus representantes y cualquier interviniente autorizado dentro de un procedimiento judicial que se lleva a cabo a distancia o de forma remota, mediante el uso de cualquier sistema de justicia digital;
+
 XV. Documento digitalizado. Escrito que contiene información que ha sido creado originalmente en soporte físico o de forma impresa y posteriormente ha migrado a un medio electrónico, digital o de cualquier tecnología;
+
 XVI. Documento electrónico. Escrito que es generado, consultado, modificado o procesado por medios electrónicos, que es enviado, recibido, almacenado o utilizado a través de sistemas de justicia digital;
+
 XVII. Enlace. Dirección electrónica o hipervínculo de la sala virtual a través de la cual las partes y el órgano jurisdiccional llevarán a cabo las audiencias o diligencias virtuales correspondientes a los procedimientos en línea;
+
 XVIII. Expediente electrónico. Conjunto de información contenida en documentos electrónicos, documentos digitalizados o mensajes de datos que conforman un determinado procedimiento jurisdiccional, independientemente de que esté conformado por texto, imagen, audio, video o cualquier otra tecnología;
+
 XIX. Expediente físico. Conjunto de documentos físicos que contienen las actuaciones y resoluciones judiciales, así como las promociones de las partes y demás intervinientes en un determinado procedimiento judicial;
+
 XX. Firma electrónica avanzada. El conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica avanzada prevalece frente a la firma electrónica simple, ya que los requisitos de producción de la primera la dotan de más seguridad que la segunda. A pesar de que las autoridades utilicen una terminología distinta para este tipo de firma, si la misma cuenta con los atributos y características señaladas en esta definición, será considerada como firma electrónica avanzada para los efectos de este Código Nacional;
+
 XXI. Firma electrónica o firma electrónica simple. Los datos en forma electrónica consignados en un mensaje de datos, o adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al firmante en relación con el mensaje de datos e indicar que el firmante aprueba la información contenida en el mensaje de datos, y que produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio;
+
 XXII. Grupos sociales en situación de vulnerabilidad. Las personas que pertenecen a grupos sociales en situación de vulnerabilidad, que, por causas diversas, enfrentan situaciones de riesgo o discriminación;
+
 XXIII. Integridad. Se considerará que el contenido de un documento electrónico o mensaje de datos es íntegro, si éste ha permanecido completo e inalterado independientemente de los cambios que hubiere podido sufrir el medio que lo contiene, resultado del proceso de comunicación, archivo o presentación. El grado de confiabilidad requerido será determinado conforme a los fines para los que se generó la información y de todas las circunstancias relevantes del caso;
+
 XXIV. Medio de comunicación judicial. El boletín judicial, lista de acuerdos, lista electrónica de acuerdos o medios electrónicos o informáticos por los que la autoridad jurisdiccional, en sus respectivos ámbitos de competencia, hace del conocimiento de las partes, la emisión de una resolución judicial;
+
 XXV. Mensaje de datos. La información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, que puede contener documentos electrónicos;
+
 XXVI. Metaverso. Espacio virtual que posibilita la convivencia social en mundos digitales a través de experiencias gráficas inmersivas en tercera dimensión, que suele utilizar tecnologías de realidad virtual, realidad aumentada, realidad mixta o híbrida, tokens y cadena de bloques;
+
 XXVII. Notificación electrónica. Acto mediante el cual se hace saber a las personas a quienes va dirigida, a través de medios electrónicos, una resolución judicial;
+
 XXVIII. Persona Desaparecida. Se entenderá lo previsto en la Ley General en materia de Desaparición Forzada, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda, en la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, así como las leyes especiales de la materia en las Entidades Federativas;
+
 XXIX. Personas Mayores. Las personas determinadas como tales por la ley de la materia;
+
 XXX. Persona Representante Autorizada. La persona autorizada por cualquiera de las partes con funciones de representación en el procedimiento judicial, de carácter público o privado que se encuentre legalmente autorizado para ejercer la profesión de abogado o licenciado en derecho con cédula profesional expedida por la autoridad competente;
+
 XXXI. Procedimiento en línea. Todo procedimiento, contencioso o no contencioso, regulado en el presente Código Nacional, que se tramite utilizando sistemas de justicia digital;
+
 XXXII. Promoción electrónica. Cualquier documento enviado o presentado ante un órgano jurisdiccional, a través de sistemas de justicia digital;
+
 XXXIII. Representante social. Autoridad administrativa encargada de procurar la legalidad en los asuntos civiles y familiares, así como la representación de la sociedad en los procedimientos de orden e interés público, de acuerdo con la legislación de cada Entidad Federativa;
+
 XXXIV. Sala virtual. Programa de cómputo, herramienta, plataforma electrónica de videoconferencia, metaverso, sistema de realidad virtual o aumentada, sistema holográfico, o cualquier otro medio tecnológico designado como sistema de interacción a distancia, que permita la transmisión de audio, video o imágenes, así como la comunicación sincrónica entre las partes que participan en cualquier acto procesal y el órgano jurisdiccional;
-XXXV. Sistemas de justicia digital. Todo dispositivo electrónico, programa de cómputo, aplicación, herramienta tecnológica o plataforma electrónica, propiedad del Poder Judicial o de terceros, que sea utilizada para consultar, usar, enviar o llevar a cabo procedimientos en línea, audiencias virtuales, diligencias virtuales, expedientes electrónicos, firmas electrónicas, mensajes de datos, documentos electrónicos o digitalizados, promociones electrónicas, salas virtuales y videoconferencias, y XXXVI. Videoconferencia. Sistema interactivo de comunicación que transmita, de forma simultánea y en tiempo real, imagen, sonido y datos a distancia de una o más personas, ubicadas en un lugar distinto del recinto del órgano jurisdiccional.
+
+XXXV. Sistemas de justicia digital. Todo dispositivo electrónico, programa de cómputo, aplicación, herramienta tecnológica o plataforma electrónica, propiedad del Poder Judicial o de terceros, que sea utilizada para consultar, usar, enviar o llevar a cabo procedimientos en línea, audiencias virtuales, diligencias virtuales, expedientes electrónicos, firmas electrónicas, mensajes de datos, documentos electrónicos o digitalizados, promociones electrónicas, salas virtuales y videoconferencias, y
+
+XXXVI. Videoconferencia. Sistema interactivo de comunicación que transmita, de forma simultánea y en tiempo real, imagen, sonido y datos a distancia de una o más personas, ubicadas en un lugar distinto del recinto del órgano jurisdiccional.
 
 ### Artículo 3
 . En el sistema de impartición de justicia en materia civil y familiar se ponderará en todo tiempo la solución de la controversia sobre los formalismos procesales, serán aplicables las reglas y principios del juicio oral en lo que resulte compatible; asimismo, serán considerados los beneficios de la justicia alternativa o procedimientos convencionales que pacten las partes y de conformidad con lo dispuesto en este Código Nacional, podrá tramitarse mediante el uso de las tecnologías de la información y la comunicación.
@@ -89,28 +125,51 @@ Las personas intérpretes y traductoras al iniciar su función serán advertidos
 
 ### Artículo 7
 . Son principios rectores del sistema de impartición de justicia en materia civil y familiar:
+
 I. Acceso a la justicia. Cualquier persona tiene derecho a acudir ante la autoridad jurisdiccional para formular una pretensión jurídica concreta de carácter familiar y la autoridad jurisdiccional requerida deberá de proveer sobre sus peticiones;
+
 II. Concentración. Se procurará desahogar la mayor cantidad de actuaciones procesales en una sola audiencia o el menor número de diligencias procesales;
+
 III. Colaboración. Se propiciará que las partes resuelvan por sí mismas el conflicto en cualquier etapa del procedimiento, por tanto, las autoridades jurisdiccionales facilitarán que sean ellas las que pongan fin a la controversia mediante acuerdos conciliatorios, exceptuando aquellos casos en que existan conductas de violencia en cualquiera de sus modalidades, o que se discutan derechos intransigibles;
+
 IV. Continuidad. Las audiencias deberán ser ininterrumpidas, permitiendo excepcionalmente su suspensión en los casos establecidos en el presente Código Nacional;
+
 V. Contradicción. Las partes tienen derecho a debatir los hechos, argumentos jurídicos y pruebas de su contraparte, en los términos establecidos en este Código Nacional;
+
 VI. Dirección Procesal. La rectoría del proceso está confiada únicamente a las autoridades jurisdiccionales en primera o en segunda instancia, según sea el caso;
+
 VII. Igualdad Procesal. Desde el escrito inicial de demanda y hasta la ejecución de la sentencia, las personas recibirán el mismo trato, oportunidades, derechos y cargas procesales sin discriminación alguna. Con las excepciones que se establezcan expresamente en este Código Nacional, cuando en la controversia se involucren derechos de niñas, niños, adolescentes y personas en grupos sociales en situación de vulnerabilidad;
+
 VIII. Inmediación. El contacto directo, personal e indelegable de la autoridad jurisdiccional con las partes y las pruebas, salvo las excepciones previstas en este Código Nacional;
+
 IX. Interés superior de la niñez. Observancia que debe darse para hacer prevalecer los derechos de las niñas, niños o adolescentes, por sobre los otros derechos que pudieran estar en pugna en el litigio;
+
 X. Impulso procesal. Las partes tienen la facultad para solicitar las diligencias necesarias que impidan la paralización del procedimiento, con independencia del principio de Dirección procesal que le corresponde a la autoridad jurisdiccional;
+
 XI. Lealtad procesal. Quienes participen en el proceso, ajustarán su conducta a la dignidad de la justicia, al respeto que se deben, a la probidad y buena fe;
+
 XII. Litis abierta. En materia familiar, la litis no se reduce a la demanda y a la contestación, o en su caso, a la reconvención y a la contestación de ésta, sino que la autoridad jurisdiccional debe hacer mérito de los hechos constitutivos, modificativos o extintivos, producidos durante la sustanciación del proceso y debidamente probados, aunque no hubiesen sido invocados oportunamente como hechos nuevos;
+
 XIII. Oralidad. El proceso se desarrollará en audiencias orales, salvo las excepciones previstas en este Código Nacional y las que, en casos debidamente fundados y motivados, considere la autoridad jurisdiccional;
+
 XIV. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
-Fracción reformada DOF 15-01-2026 XV. Preclusión. El no ejercicio de los derechos procesales en la etapa correspondiente extingue la oportunidad de ejercerlos en la posterior;
-XVI. Privacidad. En materia familiar el acceso a las audiencias queda reservado a las partes y a quienes deban comparecer conforme a la ley, y XVII. Publicidad. En materia civil, las audiencias serán públicas, de conformidad con lo dispuesto en este Código Nacional, por las Leyes de Protección de Datos Personales, Transparencia y Acceso a la Información Pública, y demás ordenamientos aplicables en sus respectivos ámbitos de competencia.
+Fracción reformada DOF 15-01-2026
+
+XV. Preclusión. El no ejercicio de los derechos procesales en la etapa correspondiente extingue la oportunidad de ejercerlos en la posterior;
+
+XVI. Privacidad. En materia familiar el acceso a las audiencias queda reservado a las partes y a quienes deban comparecer conforme a la ley, y
+
+XVII. Publicidad. En materia civil, las audiencias serán públicas, de conformidad con lo dispuesto en este Código Nacional, por las Leyes de Protección de Datos Personales, Transparencia y Acceso a la Información Pública, y demás ordenamientos aplicables en sus respectivos ámbitos de competencia.
 Sección Segunda De la Acción
 
 ### Artículo 8
 . El ejercicio de la acción requiere:
+
 I. La existencia de un derecho;
-II. La violación de un derecho, el incumplimiento o desconocimiento de una obligación, o la necesidad de declarar, preservar o constituir un derecho o imponer una condena, y III. La capacidad o legitimación para ejercitar la acción por sí o por quien represente legalmente, al Ministerio Público, procurador, fiscal o representante social y a quienes cuya intervención esté autorizada por la Ley en casos especiales.
+
+II. La violación de un derecho, el incumplimiento o desconocimiento de una obligación, o la necesidad de declarar, preservar o constituir un derecho o imponer una condena, y
+
+III. La capacidad o legitimación para ejercitar la acción por sí o por quien represente legalmente, al Ministerio Público, procurador, fiscal o representante social y a quienes cuya intervención esté autorizada por la Ley en casos especiales.
 Se exceptúa de lo señalado en la fracción III anterior, el derecho o interés difuso, colectivo o individual de incidencia colectiva, de conformidad con lo dispuesto en el Libro respectivo de este Código Nacional.
 
 ### Artículo 9
@@ -122,18 +181,31 @@ Las resoluciones dictadas en su contra serán cumplimentadas por las autoridades
 
 ### Artículo 11
 . Por razón de su objeto, las acciones se clasifican en:
+
 I. Reales;
-II. Personales, y III. Del estado civil de las personas.
+
+II. Personales, y
+
+III. Del estado civil de las personas.
 
 ### Artículo 12
 . Son acciones reales las que tienen por objeto:
+
 I. La reclamación de un bien que pertenece a título de dominio;
+
 II. La reclamación de gravámenes, de servidumbre o la declaración que un fundo está libre de ellas;
+
 III. La reclamación de los derechos de usufructo, uso y habitación;
+
 IV. Las hipotecarias;
+
 V. Las de prenda;
+
 VI. Las de herencia;
-VII. Las de posesión, y VIII. Las demás acciones que tiendan a ejercitar un derecho contra una persona a título de propietaria o poseedora y no de obligada.
+
+VII. Las de posesión, y
+
+VIII. Las demás acciones que tiendan a ejercitar un derecho contra una persona a título de propietaria o poseedora y no de obligada.
 
 ### Artículo 13
 . Las acciones personales se deducirán para exigir el cumplimiento de una obligación personal, ya sea de dar, de hacer o no hacer determinado acto. Éstas no pueden ejercitarse sino contra la persona obligada, contra quien la haya garantizado y contra quienes legalmente le sucedan en la obligación.
@@ -246,7 +318,10 @@ Las decisiones judiciales recaídas en el ejercicio de acciones de estado civil 
 
 ### Artículo 45
 . En las acciones mancomunadas por título de herencia o legado, sean reales o personales, se observarán las reglas siguientes:
-I. Si no se ha nombrado albacea, interventor o albacea judicial o provisional, puede ejercitarlas quienes tengan un derecho reconocido de herencia o legado, y II. Si se ha nombrado albacea, interventor o albacea judicial o provisional, sólo a ellos compete la facultad de deducirlas en juicio, y sólo podrán hacerlo quienes tengan reconocido derecho de herencia o legado cuando, requeridos por estos, aquéllos se rehúsen a hacerlo.
+
+I. Si no se ha nombrado albacea, interventor o albacea judicial o provisional, puede ejercitarlas quienes tengan un derecho reconocido de herencia o legado, y
+
+II. Si se ha nombrado albacea, interventor o albacea judicial o provisional, sólo a ellos compete la facultad de deducirlas en juicio, y sólo podrán hacerlo quienes tengan reconocido derecho de herencia o legado cuando, requeridos por estos, aquéllos se rehúsen a hacerlo.
 
 ### Artículo 46
 . Procede la acción oblicua cuando la persona acreedora tenga interés en ejercitar las acciones que competan a su deudor, cuando conste el crédito en título ejecutivo y, requerido quien sea deudor para deducirlas, descuide o rehúse hacerlo. La persona tercera demandada puede paralizar la acción pagando a la demandante el monto de su crédito.
@@ -273,7 +348,10 @@ Para tal efecto, se dará vista a la contraria por el término de tres días par
 
 ### Artículo 52
 . La acción de nulidad de juicio concluido procede en aquellos asuntos en los cuales se ha dictado sentencia o auto definitivo que han causado ejecutoria, y se actualiza alguna de las siguientes hipótesis:
-I. Si se falló con base en pruebas reconocidas o declaradas de cualquier modo falsas con posterioridad a la resolución, o que la parte vencida ignoraba que se habían reconocido o declarado como tales antes de la sentencia, y II. Cuando existiere colusión u otra maniobra fraudulenta de las partes litigantes en el juicio cuya nulidad se pide, en perjuicio de la parte promovente de la acción de nulidad de juicio concluido.
+
+I. Si se falló con base en pruebas reconocidas o declaradas de cualquier modo falsas con posterioridad a la resolución, o que la parte vencida ignoraba que se habían reconocido o declarado como tales antes de la sentencia, y
+
+II. Cuando existiere colusión u otra maniobra fraudulenta de las partes litigantes en el juicio cuya nulidad se pide, en perjuicio de la parte promovente de la acción de nulidad de juicio concluido.
 
 ### Artículo 53
 . La acción de nulidad de juicio concluido puede ser ejercitada por quienes hayan sido parte en el procedimiento, sus sucesores o causahabientes y los terceros a quienes perjudique la resolución.
@@ -283,7 +361,10 @@ I. Si se falló con base en pruebas reconocidas o declaradas de cualquier modo f
 
 ### Artículo 55
 . En ningún caso podrá interponerse la acción de nulidad de juicio concluido:
-I. Si ha transcurrido un año desde que hubiere causado ejecutoria la resolución que en ese juicio se dictó, o II. Si han transcurrido tres meses desde que el recurrente hubiere conocido o debió conocer los motivos en que se fundare la misma.
+
+I. Si ha transcurrido un año desde que hubiere causado ejecutoria la resolución que en ese juicio se dictó, o
+
+II. Si han transcurrido tres meses desde que el recurrente hubiere conocido o debió conocer los motivos en que se fundare la misma.
 No procede la acción de nulidad de juicio concluido contra las sentencias dictadas en el mismo juicio de nulidad.
 
 ### Artículo 56
@@ -314,14 +395,24 @@ Sección Tercera De las Excepciones
 
 ### Artículo 63
 . Son excepciones procesales las siguientes:
+
 I. La falta de cumplimiento del plazo o condición a que esté sujeta la obligación;
+
 II. La improcedencia de la vía;
+
 III. La incompetencia de la autoridad jurisdiccional;
+
 IV. La litispendencia;
+
 V. La conexidad de la causa;
+
 VI. La falta de personalidad del actor o del demandado o la falta de capacidad del actor;
+
 VII. La cosa juzgada;
-VIII. La remisión al arbitraje, y IX. Las demás a las que les den ese carácter las leyes.
+
+VIII. La remisión al arbitraje, y
+
+IX. Las demás a las que les den ese carácter las leyes.
 Se harán valer al contestar la demanda, la reconvención o la solicitud de medidas cautelares y en ningún caso suspenderán el procedimiento. De todas las excepciones se dará vista a la contraria por el término de tres días para que manifieste lo que a su derecho convenga, y se resolverán mediante sentencia interlocutoria en procedimientos escritos y de manera oral dentro de la audiencia preliminar en juicio oral dejando constancia de ello en el acta mínima que se levante con motivo de ésta, salvo la de cosa juzgada que se tramitará conforme a las disposiciones previstas en este Código Nacional. Contra la resolución de excepciones procesales en juicio oral no procede recurso alguno.
 En las excepciones de falta de personalidad, conexidad o litispendencia, sólo se admitirá la prueba documental en copia certificada, las que se deberán exhibir antes de la audiencia preliminar, en términos de lo dispuesto en este Código Nacional.
 
@@ -344,17 +435,27 @@ En materia familiar persistirán las medidas provisionales y cautelares impuesta
 
 ### Artículo 69
 . Existe conexidad de causas en cualquiera de los supuestos siguientes:
+
 I. Identidad de personas y acciones, aunque los bienes sean distintos;
+
 II. Identidad de personas y bienes, aunque las acciones sean distintas;
-III. Acciones que provengan de una misma causa, aunque sean diversas las personas y los bienes, y IV. Identidad de acciones y de bienes, aunque las personas sean distintas.
+
+III. Acciones que provengan de una misma causa, aunque sean diversas las personas y los bienes, y
+
+IV. Identidad de acciones y de bienes, aunque las personas sean distintas.
 Quien oponga la conexidad debe señalar precisamente la autoridad jurisdiccional ante la que se tramita el juicio conexo, y declarar bajo protesta de decir verdad el estado procesal que guarda. La conexidad sólo podrá acreditarse con la copia autorizada o certificada de la demanda y contestación, formuladas en el juicio conexo, así como con original de la constancia de emplazamiento, mismas que deberán exhibirse hasta el momento de celebración de la audiencia respectiva.
 La excepción de conexidad tiene por objeto la remisión de los autos del segundo juicio a la autoridad jurisdiccional que previno conociendo primero de la causa conexa, para que se acumulen ambos juicios y se tramiten por cuerda separada, decidiéndose en una sola sentencia, evitando que exista contradicción alguna.
 
 ### Artículo 70
 . No procede la excepción de conexidad:
+
 I. Cuando los pleitos están en diversas instancias;
+
 II. Cuando las autoridades jurisdiccionales que conozcan respectivamente de los juicios pertenezcan a autoridad jurisdiccional de segunda instancia o Poder Judicial diferente;
-III. Cuando ambos juicios tengan trámites incompatibles, y IV. Cuando se trate de un procedimiento que se tramite en el extranjero.
+
+III. Cuando ambos juicios tengan trámites incompatibles, y
+
+IV. Cuando se trate de un procedimiento que se tramite en el extranjero.
 
 ### Artículo 71
 . La autoridad jurisdiccional estudiará de oficio la personalidad al momento de proveer el escrito inicial de demanda y su posible contestación, y el interesado podrá corregir cualquier deficiencia al respecto, siempre y cuando fuese subsanable, en un plazo no mayor de diez días, con la consecuencia de no admitir la demanda, en caso de la parte actora, o de no tener por contestada la demanda y continuar el juicio en su rebeldía, en caso de la demandada.
@@ -421,9 +522,14 @@ En consecuencia, ninguna autoridad jurisdiccional podrá abstenerse de conocer d
 
 ### Artículo 87
 . Se entienden sometidos:
+
 I. La parte demandante, por el hecho de ocurrir a la autoridad jurisdiccional en turno, entablando su demanda;
+
 II. La parte demandada, por contestar la demanda o por reconvenir a la parte actora;
-III. La persona que habiendo promovido una incompetencia se desiste de ella, y IV. La persona tercera opositora y la que por cualquier motivo viniere al juicio.
+
+III. La persona que habiendo promovido una incompetencia se desiste de ella, y
+
+IV. La persona tercera opositora y la que por cualquier motivo viniere al juicio.
 
 ### Artículo 88
 . Será nulo todo lo actuado por la autoridad jurisdiccional declarada incompetente, salvo que se trate de incompetencia sobrevenida, caso en el cual será nulo todo lo actuado a partir del momento en que tiene efectos dicha incompetencia.
@@ -433,23 +539,54 @@ Sección Primera De la Fijación de la Competencia
 
 ### Artículo 89
 . Es autoridad jurisdiccional competente:
+
 I. La del lugar que la persona deudora haya designado para ser requerida judicialmente de pago;
+
 II. La del lugar convenido en el contrato o convenio para el cumplimiento de la obligación;
+
 III. La de la ubicación del bien, si se ejercita una acción real sobre éste. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más jurisdicciones, será competente aquella en que se encuentre la mayor parte de ellos;
+
 IV. La del domicilio de la parte demandada, si se trata del ejercicio de una acción sobre bienes muebles, de acciones personales, colectivas o del estado civil. Cuando sean varias las personas demandadas y tuvieren diversos domicilios, será competente la autoridad jurisdiccional que se encuentre en turno del domicilio que elija la parte actora;
+
 V. En los juicios sucesorios, la autoridad jurisdiccional en cuya jurisdicción haya tenido su último domicilio el autor de la sucesión. A falta de ese domicilio, lo será el de la ubicación de los bienes inmuebles que forman la herencia y si estuvieren en varias jurisdicciones, el de aquel en que se encuentre el mayor número; y a falta de domicilio y bienes inmuebles, el del lugar del fallecimiento de la persona autora de la herencia, sin que pueda alterarse el orden anterior. Lo mismo se observará en casos de declaración especial de ausencia por desaparición o presunción de muerte. En los supuestos de la presente fracción no procede sometimiento expreso o tácito alguno;
-VI. Aquella en cuyo territorio radica un juicio sucesorio para conocer: a) De las acciones de petición de herencia. b) De la nulidad de testamento. c) Las relativas a la partición hereditaria. d) De todas las acciones legales contra la sucesión antes de la partición y adjudicación de los bienes. e) De las acciones de nulidad, rescisión y evicción de la partición hereditaria. f) De la declaración especial de ausencia por desaparición, así como la declaración de ausencia y presunción de muerte, en los términos de la legislación aplicable.
+
+VI. Aquella en cuyo territorio radica un juicio sucesorio para conocer:
+
+a) De las acciones de petición de herencia.
+
+b) De la nulidad de testamento.
+
+c) Las relativas a la partición hereditaria.
+
+d) De todas las acciones legales contra la sucesión antes de la partición y adjudicación de los bienes.
+
+e) De las acciones de nulidad, rescisión y evicción de la partición hereditaria.
+
+f) De la declaración especial de ausencia por desaparición, así como la declaración de ausencia y presunción de muerte, en los términos de la legislación aplicable.
+
 VII. La del lugar que la persona deudora haya designado para ser requerida judicialmente de pago, o el domicilio de ésta en caso de concursos;
+
 VIII. En los actos de jurisdicción voluntaria, la del domicilio de quien las promueve, pero si se tratare de bienes inmuebles, lo será la del lugar donde estén ubicados. En caso de conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento;
+
 IX. La del domicilio de las niñas, niños y adolescentes, tratándose de asuntos en materia familiar;
 En los procedimientos relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, la del lugar donde se hayan presentado las partes pretendientes;
+
 X. Para decidir las controversias del estado civil de las personas, la del domicilio conyugal, o aquel en el que habiten los concubinos o convivientes;
+
 XI. En los juicios de divorcio, lo es la del último domicilio conyugal;
+
 XII. En los juicios de nulidad o inexistencia del matrimonio o institución equivalente o similar, lo es la del domicilio donde tuvo lugar el acto cuya nulidad se alega;
+
 XIII. En los juicios de rectificación de actas del estado civil, lo es la del domicilio del actor;
+
 XIV. En caso de abandono de hogar, la del domicilio en el que residía al momento del abandono el cónyuge, concubina o concubino, o conviviente que alega dicho abandono;
+
 XV. En los juicios de alimentos, violencia familiar o violencia vicaria, la del domicilio de la persona acreedora alimentaria, la de la receptora de la violencia o la de la parte demandada, a elección de la parte actora;
-Fracción reformada DOF 15-01-2026 XVI. La del domicilio de la hija o hijo en las acciones de filiación, sean de impugnación, contradicción, reconocimiento o desconocimiento sobre la maternidad o paternidad, y XVII. Tratándose de juicios en los que la parte demandada sea una persona perteneciente a los pueblos y comunidades indígenas o afromexicanas, será competente la autoridad jurisdiccional del lugar en que dicha persona tenga su domicilio. Si ambas partes lo son, lo será la que ejerza jurisdicción en el domicilio del demandante.
+Fracción reformada DOF 15-01-2026
+
+XVI. La del domicilio de la hija o hijo en las acciones de filiación, sean de impugnación, contradicción, reconocimiento o desconocimiento sobre la maternidad o paternidad, y
+
+XVII. Tratándose de juicios en los que la parte demandada sea una persona perteneciente a los pueblos y comunidades indígenas o afromexicanas, será competente la autoridad jurisdiccional del lugar en que dicha persona tenga su domicilio. Si ambas partes lo son, lo será la que ejerza jurisdicción en el domicilio del demandante.
 
 ### Artículo 90
 . En los interdictos conocerá siempre la autoridad jurisdiccional de la ubicación del bien.
@@ -520,21 +657,38 @@ De la Competencia Subjetiva Sección Primera De los Impedimentos y Excusas
 
 ### Artículo 104
 . Las autoridades jurisdiccionales se tendrán por forzosamente impedidas para conocer en los casos siguientes:
+
 I. Cuando tengan interés directo o indirecto en el procedimiento;
+
 II. En los procedimientos que sean del mismo interés para su cónyuge, concubina, concubinario, conviviente o para sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado, y a los afines dentro del segundo;
+
 III. Siempre que, entre su cónyuge, concubina, concubinario, conviviente, ascendientes o sus descendientes, y alguno de las partes interesadas, haya relación de intimidad nacida de algún acto civil o religioso, sancionado y respetado por la costumbre, relación de amistad o económica, de subordinación o lealtad, sin importar su origen;
+
 IV. Si fuere pariente por consanguinidad o afinidad de la persona representante autorizada, abogado o procurador de alguna de las partes, en los mismos grados a que se refiere la fracción II de este artículo;
+
 V. Cuando la autoridad jurisdiccional, su cónyuge, concubina, concubinario, conviviente o alguno de sus ascendientes o descendientes sea parte heredera, legataria, donante, donataria, socia, acreedora, deudora, fiadora, fiada, arrendadora, arrendataria, principal, dependiente o comensal habitual de alguna de las partes, o administradora actual de sus bienes;
+
 VI. Si ha hecho promesas o amenazas, o ha manifestado de otro modo su odio o afecto por alguna de las partes; o ha sido sujeto de amenazas o la animadversión de alguna de las partes ha influido en su fuero interno de tal manera que se ponga en riesgo su imparcialidad;
+
 VII. Si asiste o ha asistido a convites que especialmente se le ofrecieren o costeare alguna de las partes que litigan el asunto o sus personas representantes autorizadas, antes y después de comenzado el procedimiento, o si se tiene familiaridad con los mencionados, o cohabitan con ellas;
+
 VIII. Cuando después de iniciado el procedimiento, la autoridad jurisdiccional, su cónyuge, concubina, concubinario, conviviente, ascendientes o descendientes, parientes colaterales en segundo grado y por afinidad en primer grado, haya recibido dádivas o servicios de alguna de las partes;
+
 IX. Si ha sido abogado o procurador, ha fungido como apoyo o ha recibido apoyo para el ejercicio de la capacidad jurídica, perito o testigo en el procedimiento de que se trate o de cualquiera de las partes en éste, en cualquier otro procedimiento;
+
 X. Si ha conocido del procedimiento como autoridad jurisdiccional, arbitro o asesor, resolviendo algún punto que afecte a la sustancia de la cuestión, en la misma instancia o en otra;
+
 XI. Cuando la autoridad jurisdiccional, su cónyuge, concubina, concubinario, conviviente o alguno de sus parientes consanguíneos en línea recta, sin limitación de grados, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no ha pasado un año, de haber seguido un juicio civil, o una causa criminal, como parte acusadora, querellante o denunciante, o se haya constituido parte civil en causa criminal seguida contra cualquiera de ellas;
+
 XII. Cuando alguna de las personas representantes autorizadas, sigan o hayan seguido un juicio civil, o una causa criminal, y no ha pasado un año o más, de haber causado ejecutoria, un procedimiento jurisdiccional, en contra de la autoridad jurisdiccional de que se trate, su cónyuge, concubina, concubinario, conviviente, ascendientes o descendientes, parientes colaterales en segundo grado y por afinidad en primer grado;
+
 XIII. Cuando la persona servidora pública, su cónyuge, concubina, concubinario, conviviente, ascendientes o descendientes, parientes colaterales en segundo grado y por afinidad en primer grado, sea contrario a cualquiera de las partes en procedimiento administrativo que afecte a sus intereses;
+
 XIV. Si la persona servidora pública, su cónyuge, concubina, concubinario, conviviente o alguno de sus expresados parientes sigue algún procedimiento civil o criminal en que sea autoridad jurisdiccional, agente del Ministerio Público Federal o Local, Procurador o Representante Social, árbitro o arbitrador, de alguno de los litigantes;
-XV. Si es persona tutora, tutriz, curador o curadora de alguna de las partes interesadas, administra sus bienes, es gerente de alguna sociedad, asociación que tenga interés en la causa o no hayan pasado tres años de haberlo sido, y XVI. Siempre que haya externado su opinión públicamente, adelantando el sentido de su fallo.
+
+XV. Si es persona tutora, tutriz, curador o curadora de alguna de las partes interesadas, administra sus bienes, es gerente de alguna sociedad, asociación que tenga interés en la causa o no hayan pasado tres años de haberlo sido, y
+
+XVI. Siempre que haya externado su opinión públicamente, adelantando el sentido de su fallo.
 Las opiniones expresadas por la autoridad jurisdiccional al intentar conciliar entre las partes, y aquellas que se emitan con carácter doctrinario o académico, no constituyen motivo de impedimento.
 
 ### Artículo 105
@@ -546,24 +700,39 @@ Sección Segunda De la Recusación
 
 ### Artículo 107
 . Sólo pueden hacer uso de la recusación:
+
 I. Las partes, personas interesadas o sus representantes;
+
 II. La persona que represente a los acreedores en los concursos sólo podrá hacer uso de la recusación en los procedimientos que afecten al interés general, el cual se calculará por el importe de las porciones. En los que afecten al interés particular de alguno de las personas acreedoras, podrá la parte interesada hacer uso de la recusación, pero la autoridad jurisdiccional no quedará impedida más que en el punto de que se trate. Resuelta la cuestión se reintegra al principal;
-III. La persona designada como albacea o interventor en los juicios sucesorios, y IV. La persona que funja como representante común en caso de litisconsorcio y cuando no se haya designado aún, por cualquiera de las partes.
+
+III. La persona designada como albacea o interventor en los juicios sucesorios, y
+
+IV. La persona que funja como representante común en caso de litisconsorcio y cuando no se haya designado aún, por cualquiera de las partes.
 
 ### Artículo 108
 . Conocerán de las excusas y recusaciones:
+
 I. Las autoridades jurisdiccionales respecto de las personas ante ella adscritas;
+
 II. Los Tribunales de Segunda Instancia respecto de las autoridades jurisdiccionales de primera instancia;
+
 III. La autoridad jurisdiccional de conformidad con lo dispuesto por la Ley Orgánica que corresponda, respecto de las personas magistradas.
 En el Tribunal de segunda instancia, la recusación sólo importa la de aquellas persona o personas recusadas expresamente, y si fueren varias, deberá fundarse en la causa de impedimento que afecte a cada una.
 
 ### Artículo 109
 . No procederá recusación:
+
 I. En los actos prejudiciales;
+
 II. Al cumplimentar exhortos, despachos o cartas rogatorias;
+
 III. En las diligencias de mera ejecución;
+
 IV. En los juicios ejecutivos mientras no se lleve a cabo el aseguramiento, y en los hipotecarios mientras no se expida el oficio de inscripción de la demanda;
-V. Tratándose de ejecución de sentencia, desde la fecha del auto en que se señala término a las personas deudoras para que cumplan con ella, y VI. En los demás actos que no radiquen jurisdicción, ni importen conocimiento de causa.
+
+V. Tratándose de ejecución de sentencia, desde la fecha del auto en que se señala término a las personas deudoras para que cumplan con ella, y
+
+VI. En los demás actos que no radiquen jurisdicción, ni importen conocimiento de causa.
 Si la ejecución de sentencia fuera mixta o si hubiere oposición de tercera persona o se opusieren excepciones en contra de la ejecución, será admisible la recusación.
 
 ### Artículo 110
@@ -586,9 +755,14 @@ Si la ejecución de sentencia fuera mixta o si hubiere oposición de tercera per
 
 ### Artículo 116
 . La autoridad jurisdiccional o el órgano disciplinario que conozca de la recusación la desechará de plano:
+
 I. Por extemporánea;
+
 II. Cuando no se funde en alguna de las causas a que se refiere el presente Título;
-III. Cuando no se precisen los hechos en que se motive, no se ofrezca prueba o no se precisen los puntos sobre los que deban versar las mismas, y IV. Cuando se interponga en procedimientos en que no puede tener lugar.
+
+III. Cuando no se precisen los hechos en que se motive, no se ofrezca prueba o no se precisen los puntos sobre los que deban versar las mismas, y
+
+IV. Cuando se interponga en procedimientos en que no puede tener lugar.
 
 ### Artículo 117
 . Toda recusación se interpondrá ante la autoridad jurisdiccional que conozca del procedimiento, expresándose con toda claridad y precisión la causa en que se funde, así como las pruebas tendientes a justificarla, y la autoridad recusada remitirá a la autoridad competente para resolver sobre ésta, dentro del término improrrogable de cinco días, el testimonio de las actuaciones respectivas, acompañado del informe justificado, manifestando bajo protesta de decir verdad las argumentaciones que considere apoyan la inexistencia de la causa en que se funde la recusación. La falta de informe hará presumir como cierto el impedimento alegado por la parte promovente.
@@ -637,21 +811,34 @@ Cuando se verifiquen estos cambios sin cumplir con las notificaciones de sustitu
 
 ### Artículo 128
 . Tienen legitimación en el procedimiento para comparecer en juicio:
+
 I. Las personas físicas por sí mismas o por conducto de sus personas representantes autorizadas, así como las personas que designen para su apoyo, en su caso;
+
 II. Las personas jurídicas públicas o privadas por medio de quienes las representen, sea por disposición de la ley o reglamento, o bien, conforme a sus escrituras constitutivas, estatutos, poderes o mandatos;
+
 III. Las agrupaciones o entes que no constituyan personas jurídicas reconocidas por la Ley, por medio de quienes en su nombre hayan actuado;
+
 IV. Las instituciones y dependencias de la administración pública, por medio de sus órganos autorizados conforme a la normatividad que las regule;
+
 V. Cualquiera que integre un grupo afectado, que busque una adecuada defensa para el interés general; y las instituciones, asociaciones o agrupaciones privadas, especializadas en la defensa de los intereses sociales o colectivos cuando se trata de la tutela de intereses difusos y de grupos indeterminados, siempre que no sean políticas o gremiales reguladas;
-VI. En el caso de las personas de los pueblos y comunidades indígenas y afromexicanas, sus propias autoridades o las personas que designen con base en sus usos y costumbres, y VII. El Ministerio Público Local o Federal.
+
+VI. En el caso de las personas de los pueblos y comunidades indígenas y afromexicanas, sus propias autoridades o las personas que designen con base en sus usos y costumbres, y
+
+VII. El Ministerio Público Local o Federal.
 
 ### Artículo 129
 . Podrán comparecer como terceras personas, quienes tengan interés propio y distinto de la parte actora o demandada, y la sentencia les pueda afectar.
 
 ### Artículo 130
 . Las niñas, niños y adolescentes, comparecerán por conducto de las siguientes personas:
+
 I. Quienes ejerzan la patria potestad;
+
 II. Quien ejerza la tutela;
-III. Las personas designadas legalmente por quien ejerza la patria potestad o la tutela, y IV. La Procuraduría de Protección de Niñas, Niños y Adolescentes o institución con facultades de representación coadyuvante o en suplencia, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+III. Las personas designadas legalmente por quien ejerza la patria potestad o la tutela, y
+
+IV. La Procuraduría de Protección de Niñas, Niños y Adolescentes o institución con facultades de representación coadyuvante o en suplencia, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 Sin embargo, las niñas, niños y adolescentes, podrán comparecer a juicio por sí o por cualquier persona en su nombre, sin la intervención de su legítimo representante cuando éste se halle ausente o desaparecido, se ignore quién sea, esté impedido, se negare a promover la acción o hubiese un conflicto de interés con su representado.
 La autoridad jurisdiccional, nombrará un representante independiente para que intervenga en el juicio, debiendo preferir a un familiar cercano, salvo cuando haya conflicto de intereses o motivo que justifique la designación de persona diversa, sin perjuicio de dictar las providencias y medidas de protección especiales o urgentes, conforme a la Ley de la materia y, los tratados internacionales que resulten aplicables.
 
@@ -662,17 +849,26 @@ Las resoluciones que admitan o no la figura de gestor judicial, así como la que
 
 ### Artículo 132
 . Si varios actores ejercen la misma acción en una demanda, o varios demandados niegan la acción u oponen la misma excepción, se aplicarán las disposiciones siguientes:
+
 I. Los actores deberán tener un solo representante común;
+
 II. El representante común de los actores será nombrado por estos en su primera intervención;
-III. Los demandados deben tener un sólo representante común, y IV. El nombramiento del representante común de los demandados lo harán en la contestación de la demanda.
+
+III. Los demandados deben tener un sólo representante común, y
+
+IV. El nombramiento del representante común de los demandados lo harán en la contestación de la demanda.
 Cuando la multiplicidad de personas surja en cualquier otro momento del juicio, o en actos de jurisdicción voluntaria, el nombramiento de representante común deberá hacerse, dentro de los tres días siguientes al primer acto procesal en el que aparezca la multiplicidad.
 Si el nombramiento no fuere hecho por quienes tienen interés, previa prevención hecha de forma legal, lo hará la autoridad jurisdiccional, de entre las mismas personas interesadas.
 La persona que como representante común designe la autoridad jurisdiccional, tendrá las mismas facultades que si litigara exclusivamente por su propio derecho, excepto las de desistirse, transigir y comprometer en árbitros. La que designen los interesados, sólo tendrá estas últimas facultades, si expresamente le fueren concedidas por quienes conforman el litisconsorcio.
 
 ### Artículo 133
 . En los casos de litisconsorcio se observarán las siguientes reglas:
+
 I. La carga de impulsar el procedimiento corresponderá al representante común del litisconsorcio;
-II. Mientras continúe la persona designada como persona representante autorizada o representante común en su encargo, las notificaciones y citaciones de toda clase que se le hagan, tendrán la misma fuerza que si se hicieren a las personas que representan, sin que le sea permitido pedir que se entiendan con éstas, y III. Cualquier persona interesada podrá excluirse de la representación común, para litigar por sí mismo y deducir su propio derecho.
+
+II. Mientras continúe la persona designada como persona representante autorizada o representante común en su encargo, las notificaciones y citaciones de toda clase que se le hagan, tendrán la misma fuerza que si se hicieren a las personas que representan, sin que le sea permitido pedir que se entiendan con éstas, y
+
+III. Cualquier persona interesada podrá excluirse de la representación común, para litigar por sí mismo y deducir su propio derecho.
 
 ### Artículo 134
 . En cualquiera de los procedimientos previstos en el presente Código Nacional, sin que obste el derecho de las partes, sus abogados y representantes autorizados de comparecer a exponer sus alegatos en la audiencia respectiva, bajo el principio de igualdad procesal y publicidad, podrán solicitar fuera de audiencia, una cita a la autoridad jurisdiccional para manifestar en lo particular, los aspectos que consideren relevantes en la solución del juicio en el que intervengan. La misma se solicitará por escrito y le recaerá mandamiento judicial en el que se indique día, hora y duración de la cita, la que se autorizará con la finalidad de que comparezcan al recinto judicial el interesado y su contra parte; o bien sus asesores jurídicos; con el objeto de respetar el principio de contradicción. Fuera de estos casos, las autoridades jurisdiccionales estarán impedidas para escuchar en lo particular o individual a cualquiera de las partes.
@@ -683,28 +879,48 @@ De las Actuaciones Judiciales
 ### Artículo 135
 . Las autoridades jurisdiccionales se sujetarán al procedimiento convencional que las partes hubieren pactado, siempre que el mismo se hubiere formalizado en documento público o ante la misma autoridad jurisdiccional que conozca de la demanda en cualquier estado del juicio, y se respeten las formalidades esenciales del procedimiento; salvo los procedimientos en materia familiar, los cuales son de orden público.
 Para su validez, el documento en que se encuentre el acuerdo a que se refiere este artículo, deberá contener como mínimo, por inclusión o referencia, las previsiones sobre la presentación de la demanda, el emplazamiento, la contestación de la demanda, las pruebas y los alegatos, en cuyo caso no puede imponer a las partes mayores cargas que las previstas en este Código Nacional. También podrá regular lo relacionado con:
+
 I. El negocio o negocios en que se ha de observar el procedimiento convenido;
+
 II. La sustanciación que debe observarse, siempre que no afecte las formalidades esenciales del procedimiento ni se vulneren derechos humanos;
+
 III. Los términos que deberán seguirse durante el juicio, cuando se modifiquen los señalados en el presente Código Nacional;
+
 IV. Los recursos legales a que renuncien, siempre que no se afecten las formalidades esenciales del procedimiento, ni se vulneren derechos humanos;
-V. La autoridad jurisdiccional que debe conocer del litigio para el cual se convino el procedimiento en los casos en que conforme a este Código Nacional pueda prorrogarse la competencia, y VI. El convenio también deberá expresar los nombres de los otorgantes, su capacidad para obligarse, el carácter con que contraten, sus domicilios y cualquiera otro dato que defina la especialidad del procedimiento.
+
+V. La autoridad jurisdiccional que debe conocer del litigio para el cual se convino el procedimiento en los casos en que conforme a este Código Nacional pueda prorrogarse la competencia, y
+
+VI. El convenio también deberá expresar los nombres de los otorgantes, su capacidad para obligarse, el carácter con que contraten, sus domicilios y cualquiera otro dato que defina la especialidad del procedimiento.
 
 ### Artículo 136
 . En caso de no existir convenio de las partes sobre el procedimiento en los términos del anterior artículo, los juicios civiles se regirán por las disposiciones de este Código Nacional.
 
 ### Artículo 137
 . Los expedientes que se integren en los juicios civiles y familiares se sujetarán a las siguientes reglas:
+
 I. Tanto los físicos como los electrónicos se formarán por la autoridad jurisdiccional;
+
 II. Las promociones físicas o electrónicas de las partes deberán redactarse en español, debiendo estar firmados de manera autógrafa o mediante firma electrónica avanzada, según corresponda;
+
 III. Quienes no supieren o no pudieren firmar autógrafamente, por presentar una condición de discapacidad física, imprimirán su huella digital, firmando otra persona en su nombre y a su ruego, indicando esta circunstancia;
+
 IV. Las promociones subsecuentes físicas o electrónicas deberán tener la debida identificación del litigio, que contendrá los nombres de la parte actora, de la parte demandada y en su caso, de quien haga la solicitud, así como el número de expediente, situación que se observará tanto en el expediente físico como en el electrónico;
+
 V. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción al español. Si la contraparte la objeta o la autoridad jurisdiccional lo estima necesario se nombrará a quien haga la traducción para el cotejo. Sólo para el caso que la traducción sea requerida por la autoridad jurisdiccional, los honorarios de quien realice el peritaje correrán a cargo del erario público;
+
 VI. Las promociones a cargo de personas de los pueblos y comunidades indígenas y afromexicanas, que se hicieren en su lengua o idioma original, no necesitarán acompañarse de la traducción al español, la autoridad jurisdiccional de oficio designará persona autorizada a realizar la traducción correspondiente;
+
 VII. En los procedimientos en los que una o ambas partes sean indígenas y no supieran leer el idioma español, podrán designar a quien traduzca o conozca su lengua nativa, y la autoridad jurisdiccional realizará una versión sintetizada de los puntos esenciales de las actuaciones y de la sentencia dictada, en dicha lengua; debiendo agregar constancia de que se cumplió con esta obligación en los autos;
+
 VIII. En los procedimientos en los que una o ambas partes presenten una discapacidad auditiva, visual o intelectual, se estará a lo dispuesto en la fracción anterior y dichas personas podrán designar como apoyo, a quien sea intérprete de la Lengua de Señas Mexicana y la versión sintetizada de los puntos esenciales de las actuaciones y de la sentencia dictada, se les facilitará en los medios y formatos que les resulten accesibles;
+
 IX. En las actuaciones judiciales, las fechas y cantidades se redactarán con letra, y no se emplearán abreviaturas, ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al final del documento con toda precisión el error cometido;
+
 X. Las actuaciones judiciales deberán ser autorizadas, bajo pena de nulidad, por la autoridad jurisdiccional o persona secretaria judicial a quien corresponda dar fe o certificar el acto;
-XI. Todos los expedientes se llevarán en la forma y términos prescritos en las fracciones que anteceden y deberán integrarse electrónicamente en todos los casos, y XII. Todas las resoluciones judiciales deberán redactarse en términos claros y sencillos.
+
+XI. Todos los expedientes se llevarán en la forma y términos prescritos en las fracciones que anteceden y deberán integrarse electrónicamente en todos los casos, y
+
+XII. Todas las resoluciones judiciales deberán redactarse en términos claros y sencillos.
 Los Poderes Judiciales, de conformidad con la legislación de la materia o los Lineamientos que emita el Consejo de la Judicatura que corresponda, habilitarán los sistemas de justicia digital necesarios, con diseños y formatos accesibles, para facilitar la integración, promociones y consulta de los expedientes electrónicos.
 
 ### Artículo 138
@@ -719,18 +935,32 @@ La autoridad jurisdiccional dictará proveído de ejecución al finalizar la aud
 
 ### Artículo 140
 . En las audiencias se observarán las siguientes reglas:
+
 I. Se sujetarán a los principios procesales previstos en este Código Nacional;
+
 II. Se celebrarán presencialmente en la sede judicial o de forma virtual;
+
 III. La autoridad jurisdiccional deberá presidir las audiencias, mismas que serán públicas salvo disposición expresa de la ley;
+
 IV. La autoridad jurisdiccional tiene el deber de mantener el buen orden, evitar las digresiones, faltas de decoro y probidad, y exigir que se guarde el debido respeto a toda persona presente en el acto de la audiencia o sede judicial, pudiendo imponer las correcciones disciplinarias establecidas en el artículo 192 de este Código Nacional e incluso ordenar la expulsión de la sala de audiencia con uso de la fuerza pública o a través de los mecanismos tecnológicos correspondientes, tratándose de audiencias virtuales;
+
 V. Cuando la infracción llegare a actualizar un hecho probablemente constitutivo de un delito conforme a las leyes Penales, se dará vista al Ministerio Público competente;
+
 VI. La autoridad jurisdiccional determinará el inicio y la conclusión de cada una de las etapas de las audiencias de forma continua, precluyendo los derechos procesales que debieron ejercitar las partes en cada una de ellas, sin necesidad de declaración judicial;
+
 VII. La parte que asista tardíamente a las audiencias, se incorporará en la etapa en que éstas se encuentren, sin perjuicio de la facultad de la autoridad jurisdiccional en materia de conciliación y en el entendido de que esto no altera los derechos que han quedado precluidos;
+
 VIII. Podrán decretarse los recesos que la autoridad jurisdiccional o las partes soliciten razonablemente, siempre que no constituyan una dilación procesal innecesaria;
+
 IX. La autoridad jurisdiccional señalará el orden del desahogo de las pruebas atendiendo a la propuesta de las partes, exigiendo el cumplimiento de las formalidades que correspondan y tendrá la facultad para hacer a los testigos, peritos y a las mismas partes, las preguntas que estime conducentes sin romper el principio de contradicción, dirigiendo el debate, moderando la discusión y podrá impedir que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles o no controvertidos, e incluso limitar el tiempo y número de veces del uso de la palabra a las partes que intervienen, interrumpiendo a quienes hicieran uso abusivo de su derecho;
+
 X. Una vez que testigos, peritos o partes concluyan su intervención, podrán retirarse de la audiencia cuando así lo soliciten y la autoridad jurisdiccional lo autorice;
+
 XI. Las resoluciones judiciales pronunciadas oralmente o por escrito en las audiencias, según el tipo de juicio, se tendrán por notificadas en ese mismo acto a quienes estén presentes o debieron haber estado, sin necesidad de formalidad alguna;
-XII. Las audiencias podrán diferirse o suspenderse por caso fortuito o fuerza mayor, o porque de las partes de común acuerdo lo soliciten. De ser posible en el mismo acto, se señalará fecha y hora para su continuación, de la que se tendrá por notificadas a las partes. Al reanudarse, la autoridad jurisdiccional expondrá una síntesis de los actos realizados hasta ese momento, y XIII. Al terminar las audiencias, en los juicios orales se levantará acta mínima que deberá contener, cuando menos, el lugar, la fecha, el expediente y la autoridad jurisdiccional al que corresponda; el nombre de los participantes, una relatoría sucinta del desarrollo de la audiencia, y la firma autógrafa o electrónica avanzada de la autoridad jurisdiccional.
+
+XII. Las audiencias podrán diferirse o suspenderse por caso fortuito o fuerza mayor, o porque de las partes de común acuerdo lo soliciten. De ser posible en el mismo acto, se señalará fecha y hora para su continuación, de la que se tendrá por notificadas a las partes. Al reanudarse, la autoridad jurisdiccional expondrá una síntesis de los actos realizados hasta ese momento, y
+
+XIII. Al terminar las audiencias, en los juicios orales se levantará acta mínima que deberá contener, cuando menos, el lugar, la fecha, el expediente y la autoridad jurisdiccional al que corresponda; el nombre de los participantes, una relatoría sucinta del desarrollo de la audiencia, y la firma autógrafa o electrónica avanzada de la autoridad jurisdiccional.
 Tratándose de audiencias virtuales, se seguirán las reglas previstas en el Libro Octavo de este Código Nacional.
 
 ### Artículo 141
@@ -739,19 +969,32 @@ Asimismo, podrán hacerse acompañar de los animales que para dichos efectos con
 
 ### Artículo 142
 . La autoridad jurisdiccional podrá, por razones de orden o seguridad, antes del inicio y en el desarrollo de la audiencia, prohibir el ingreso físico o digital, a:
+
 I. Personas armadas;
+
 II. Personas que porten distintivos gremiales o partidarios;
+
 III. Personas que porten objetos peligrosos o prohibidos;
+
 IV. Personas que no observen las disposiciones de orden o seguridad física o informática que se establezcan;
-V. Personas que puedan afectar la integridad de alguna de las partes, o de alguna persona citada para participar en la audiencia, y VI. Cualquier otra persona que la autoridad jurisdiccional justificadamente considere como inapropiada para el orden o seguridad en el desarrollo de la audiencia.
+
+V. Personas que puedan afectar la integridad de alguna de las partes, o de alguna persona citada para participar en la audiencia, y
+
+VI. Cualquier otra persona que la autoridad jurisdiccional justificadamente considere como inapropiada para el orden o seguridad en el desarrollo de la audiencia.
 En el desarrollo de las audiencias, las actuaciones de la autoridad jurisdiccional en el ejercicio de sus funciones serán válidas de pleno derecho, sin requerir de la fe de ninguna otra.
 
 ### Artículo 143
 . La autoridad jurisdiccional podrá aplicar excepciones al principio de publicidad cuando, alguna situación o hecho derivados de las audiencias:
+
 I. Pueda afectar la integridad de alguna de las partes, o de alguna persona citada para participar en la audiencia;
+
 II. Se divulgue información gubernamental confidencial, información confidencial o secreto industrial, cuya revelación sea indebida;
+
 III. Se afecte el interés superior de niñas, niños y adolescentes;
-IV. Cuando se trate de juicios en materia familiar, y V. En los casos previstos en este Código Nacional o en otra ley.
+
+IV. Cuando se trate de juicios en materia familiar, y
+
+V. En los casos previstos en este Código Nacional o en otra ley.
 
 ### Artículo 144
 . La autoridad jurisdiccional podrá limitar el ingreso del público a una cantidad determinada de personas, de conformidad con las disposiciones aplicables en materia de protección civil.
@@ -789,8 +1032,12 @@ Párrafo reformado DOF 15-01-2026 En los demás casos, la autoridad jurisdiccion
 
 ### Artículo 151
 . El Poder Judicial contará con una Oficialía de Partes Común, a través de la cual se presenten los escritos de demanda o promociones posteriores de manera electrónica y escrita, en los siguientes términos:
+
 I. La demanda o escrito inicial podrá promoverse de forma física o electrónica a través de la oficina o portal autorizado por el Consejo de la Judicatura, conforme a lo dispuesto en la Ley Orgánica, que corresponda;
-II. Por lo que hace a los procedimientos en línea, la demanda y documentos siempre deberán presentarse vía electrónica, debiendo verificar en todos los casos que cuenten con la firma electrónica avanzada de quien suscribe el escrito inicial, para ser turnada a la autoridad jurisdiccional que corresponda, y III. Una vez recibido el escrito de demanda, se emitirá acuse de recibo físico o electrónico, en el que se conste la fecha y hora de presentación, número de expediente y autoridad jurisdiccional que conocerá del mismo.
+
+II. Por lo que hace a los procedimientos en línea, la demanda y documentos siempre deberán presentarse vía electrónica, debiendo verificar en todos los casos que cuenten con la firma electrónica avanzada de quien suscribe el escrito inicial, para ser turnada a la autoridad jurisdiccional que corresponda, y
+
+III. Una vez recibido el escrito de demanda, se emitirá acuse de recibo físico o electrónico, en el que se conste la fecha y hora de presentación, número de expediente y autoridad jurisdiccional que conocerá del mismo.
 En ningún caso se requerirá manifestación bajo protesta de decir verdad de que los documentos digitalizados son copia fiel e inalterada de los documentos físicos; sin embargo, deberá manifestar si los documentos digitalizados son originales, copias certificadas o copias simples, y si es el caso que están disponibles cuando la autoridad jurisdiccional se los requiera, en el entendido que de no hacerlo precluirá su derecho y se tendrán por no presentados oportunamente, con las consecuencias legales.
 
 ### Artículo 152
@@ -857,12 +1104,20 @@ De las Resoluciones Judiciales
 
 ### Artículo 167
 . Para los efectos de este Código Nacional, las resoluciones judiciales se clasifican en la forma siguiente:
+
 I. Decretos: son simples determinaciones de trámite que no impliquen impulso u ordenación al procedimiento;
+
 II. Autos: decisiones que tienden al impulso, desarrollo y orden del procedimiento;
+
 III. Autos provisionales: todas aquellas determinaciones que se ejecutan de manera provisional;
+
 IV. Autos preparatorios: resoluciones que disponen el conocimiento del asunto, ordenando la admisión de las pruebas y su preparación o su desechamiento;
+
 V. Autos definitivos: decisiones que ponen fin a la acción principal o las que impiden la continuación del procedimiento, dándolo como totalmente concluido, cualquiera que sea la naturaleza de éste;
-VI. Sentencias interlocutorias: decisiones que resuelven un incidente promovido antes o después de dictada la sentencia definitiva, y VII. Sentencias definitivas: las que resuelven el fondo del asunto en lo principal.
+
+VI. Sentencias interlocutorias: decisiones que resuelven un incidente promovido antes o después de dictada la sentencia definitiva, y
+
+VII. Sentencias definitivas: las que resuelven el fondo del asunto en lo principal.
 
 ### Artículo 168
 . Todas las resoluciones, de cualquier clase, dictadas por escrito en primera o segunda instancia, serán autorizadas con las rúbricas, firmas autógrafas o electrónicas avanzadas de las autoridades jurisdiccionales que las dicten y por la de la persona secretaria judicial, o a quien corresponda dar fe o certificar el acto.
@@ -901,9 +1156,14 @@ En los juicios orales la sentencia definitiva se emitirá en la misma audiencia 
 
 ### Artículo 176
 . Cuando este Código Nacional no señale términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
+
 I. Nueve días para interponer el recurso de apelación contra sentencia definitiva;
+
 II. Cinco días para apelar de sentencia interlocutoria o auto contra el que proceda apelación de tramitación inmediata;
-III. Tres días para la celebración de juntas, reconocimientos de firmas, exhibición de documentos; a no ser que, por circunstancias probadas, solicite ampliar el término, lo cual podrá hacerse hasta por tres días más, y IV. Tres días para todos los demás casos.
+
+III. Tres días para la celebración de juntas, reconocimientos de firmas, exhibición de documentos; a no ser que, por circunstancias probadas, solicite ampliar el término, lo cual podrá hacerse hasta por tres días más, y
+
+IV. Tres días para todos los demás casos.
 
 ### Artículo 177
 . El retardo sin justa causa en el pronunciamiento y publicación de decretos, autos o sentencias dará lugar a queja administrativa que se presentará ante el Consejo de la Judicatura para su trámite y sanción respectiva.
@@ -930,10 +1190,16 @@ La condena en costas sólo comprenderá la remuneración de la persona represent
 ### Artículo 182
 . La condena en costas se hará cuando así lo prevenga la Ley, o cuando, a juicio de la autoridad jurisdiccional, se haya procedido con temeridad o mala fe, conforme al arancel autorizado en la Ley Orgánica respectiva.
 Siempre serán condenados:
+
 I. La persona que ninguna prueba rinda para justificar su acción o su excepción, si se funda en hechos disputados;
+
 II. La persona que presente instrumentos o documentos falsos, testigos falsos, aleccionados o sobornados, peritos aleccionados o sobornados, oponga acciones o excepciones procesales notoriamente frívolas e improcedentes, o haga valer recursos o incidentes de ese tipo con el fin de generar dilaciones al procedimiento, no solamente se le condenará respecto de los señalados, sino que, si la sentencia definitiva le es adversa, también se le condenará por todos los demás trámites, y así lo declarará dicha resolución definitiva;
+
 III. La persona que fuere condenada en los juicios ejecutivos, hipotecarios, en los interdictos de retener y recuperar la posesión, y la que intente alguno de estos juicios si no obtiene sentencia favorable. En estos casos, la condenación se hará en la primera instancia, observándose en la segunda lo dispuesto en la fracción siguiente;
-IV. La persona que fuere condenada por dos sentencias conformes de toda conformidad de su parte resolutiva, sin tomar en cuenta la declaración sobre costas. En este caso, la condenación comprenderá las costas de ambas instancias, y V. Las demás que prevenga este Código Nacional.
+
+IV. La persona que fuere condenada por dos sentencias conformes de toda conformidad de su parte resolutiva, sin tomar en cuenta la declaración sobre costas. En este caso, la condenación comprenderá las costas de ambas instancias, y
+
+V. Las demás que prevenga este Código Nacional.
 
 ### Artículo 183
 . Las costas judiciales tienen por objeto resarcir los gastos y erogaciones ejecutadas con motivo del juicio a cargo de la parte vencida.
@@ -949,10 +1215,15 @@ De los Incidentes
 
 ### Artículo 185
 . Los incidentes, cualquiera que sea su naturaleza, nunca suspenderán el procedimiento, además:
+
 I. Se tramitarán oralmente en el caso de desarrollarse en el sistema de audiencias, sea en la audiencia preliminar, la de juicio o para la ejecución de la sentencia o cualquier audiencia. En caso de promoverse en la etapa postulatoria o fuera del sistema de audiencias, se hará por escrito;
+
 II. Los incidentes que surjan en audiencia, deberán plantearse de forma oral en la misma, exponiendo los hechos, ofreciendo las pruebas e invocando la norma vulnerada. Hecho valer, la autoridad jurisdiccional proveerá sobre su admisión o desechamiento y estando presente la contraria, contestará en el acto de la audiencia y ofrecerán sus pruebas;
+
 III. En la misma audiencia la autoridad jurisdiccional ordenará la admisión o desechamiento de pruebas y en su caso, ordenará desahogar las que no requieran preparación especial, dictando en el acto de forma fundada y motivada su fallo interlocutorio, asentando en el acta mínima únicamente los puntos resolutivos. Para el caso de existir pruebas que requieran preparación especial, se señalará fecha de audiencia especial dentro del plazo de ocho días, en el que se dictará el fallo interlocutorio, conforme a las disposiciones anteriores;
+
 IV. En caso de no estar presente la parte contraria, se mandará correr traslado para que conteste por escrito dentro del término de tres días. Enseguida se admitirán las pruebas y se señalará dentro del término de ocho días fecha de audiencia de resultar necesario desahogo especial alguno, dictando en el acto de forma fundada y motivada el fallo interlocutorio, asentando en el acta mínima únicamente los puntos resolutivos;
+
 V. Los incidentes fuera del sistema de audiencias, se tramitarán, cualquiera que sea su naturaleza, con un escrito de cada parte, y tres días para resolver. Si se promueve prueba, deberá ofrecerse en los escritos respectivos, fijando los puntos sobre los que verse. En ambas vías, oral y escrita, si las pruebas no tienen relación con los puntos cuestionados incidentalmente, o si éstos son puramente de derecho, la autoridad jurisdiccional deberá desecharlas. En caso de admitirlas se citará para audiencia dentro del término de ocho días, diferible por una sola vez, en que se reciban pruebas, se oigan brevemente las alegaciones, y se dicte en el acto de forma fundada y motivada el fallo interlocutorio, asentando en el acta mínima únicamente los puntos resolutivos. Los incidentes que por la naturaleza de las pruebas de que se tratan no requieran de señalamiento de audiencia, mediante acuerdo, se admitirán las mismas y se desahogarán en el acto, citando de inmediato para sentencia interlocutoria que se dictará en el plazo de cinco días por escrito.
 
 ### Artículo 186
@@ -978,20 +1249,32 @@ De las Medidas de Apremio y las Correcciones Disciplinarias
 
 ### Artículo 191
 . Para hacer cumplir sus determinaciones, las autoridades jurisdiccionales, previo apercibimiento, pueden emplear cualquiera de los siguientes medios de apremio, cuantas veces crean necesario, sin que para ello sea indispensable que se ciñan al orden que a continuación se señala:
+
 I. Multa hasta por las cantidades a que se refiere el artículo 192 fracción III de este Código Nacional, la cual podrá duplicarse en caso de reincidencia;
+
 II. Auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario;
+
 III. Cateo por orden escrita, de conformidad con los requisitos del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
-IV. Arresto hasta por treinta y seis horas, y V. Presentación de testigos por la fuerza pública.
+
+IV. Arresto hasta por treinta y seis horas, y
+
+V. Presentación de testigos por la fuerza pública.
 Las personas servidoras públicas habilitadas para tal efecto de acuerdo con el organigrama de la Entidad Federativa de que se trate, podrán solicitar directamente y deberán prestárseles el auxilio inmediato de la fuerza pública, cuando actúen para cumplimentar un emplazamiento, notificación o determinación de la autoridad jurisdiccional.
 Si agotados los medios de apremio no se obtuviera el cumplimiento de la resolución que motivó el uso de ellos, se dará vista al Ministerio Público, Fiscal o Representante Social.
 La resolución que imponga una medida de apremio será irrecurrible.
 
 ### Artículo 192
 . Se entenderá por corrección disciplinaria:
+
 I. La amonestación, consistente en la reprensión verbal, electrónica o escrita, que se haga al infractor por la falta cometida;
+
 II. El apercibimiento, consistente en la prevención verbal, electrónica o escrita, que se haga a la persona infractora, en el sentido de que, de incurrir en nueva falta, se le aplicarán una o más de las sanciones previstas por este Código Nacional;
+
 III. La multa que no podrá ser inferior a cien ni exceder de trescientas veces el valor diario de la Unidad de Medida y Actualización;
-IV. La expulsión cuando las circunstancias así lo ameriten y se altere el orden de la audiencia, se retirará al responsable del recinto judicial, inclusive, con auxilio de la fuerza pública, y V. Arresto. Quienes se resistieren a cumplir la orden de expulsión, serán sujetos a un arresto hasta por un término de treinta y seis horas.
+
+IV. La expulsión cuando las circunstancias así lo ameriten y se altere el orden de la audiencia, se retirará al responsable del recinto judicial, inclusive, con auxilio de la fuerza pública, y
+
+V. Arresto. Quienes se resistieren a cumplir la orden de expulsión, serán sujetos a un arresto hasta por un término de treinta y seis horas.
 La autoridad jurisdiccional deberá fundar y motivar la imposición de la medida que imponga.
 
 ### Artículo 193
@@ -1022,9 +1305,14 @@ En ambos casos, además de la cédula, la persona servidora pública judicial en
 
 ### Artículo 199
 . Si en el domicilio señalado, cerciorado de que ahí tiene su domicilio la persona buscada pero no se encontrara, así como tampoco persona alguna que pudiera legalmente recibir la notificación o bien si se negare a recibirla, entonces procederá la persona servidora pública judicial a fijar en lugar visible del domicilio, un citatorio de emplazamiento en donde se señalará el motivo de la diligencia, la fecha, la hora y el lugar de la misma, así como la fecha y hora del día para que le espere, que en ningún caso podrá ser menor de veinticuatro horas ni exceder de cuarenta y ocho horas, contadas a partir del día en que se dio la citación, nombre de quien promueve, autoridad jurisdiccional que ordena la diligencia, la determinación que se manda notificar y el apercibimiento de que, si en la fecha señalada para llevar a cabo la diligencia de emplazamiento no se encontrara a la persona buscada o destinataria del procedimiento judicial, se aplicarán las siguientes reglas:
+
 I. En segunda diligencia y pese al citatorio con antelación adherido, si nuevamente la demandada o persona destinataria del procedimiento judicial no se encontrare y no hubiere con quien entender la diligencia, entonces se procederá a realizar el emplazamiento por adhesión, que consistirá en que la persona servidora pública judicial dejará adherido en lugar visible al domicilio, las cédulas de notificación con las copias de traslado correspondientes así como el instructivo en el que se explique el motivo del emplazamiento por adhesión, mismo que tendrá las características de la cédula de notificación usual, dicho emplazamiento o notificación tendrá el carácter de personal;
+
 II. Cuando el acceso a la casa, local, oficina o despacho, donde se haya ordenado el emplazamiento se encuentre restringido para su acceso, por estar en el interior de negociaciones mercantiles, establecimientos abiertos al público, clubes privados, unidades habitacionales, fraccionamientos, condominios, colonias o cualquier otro lugar similar; la persona servidora pública judicial solicitará, el ingreso a quien se encuentre resguardando la entrada y, en caso de negativa, hará uso del auxilio de la fuerza pública previamente autorizada, a fin de que ésta ejecute todos los actos tendientes a permitir el ingreso de la persona servidora pública para que se constituya en el domicilio; lo anterior, sin perjuicio de la decisión judicial de dar vista al Ministerio Público para que investigue la probable existencia de un hecho que la ley señale como delito y; en su caso, la aplicación de otras medidas de apremio que determine ordenar la autoridad jurisdiccional, para lo cual el notificador o actuario podrá ser acompañado por el interesado o el autorizado en autos, a efecto de que bajo su responsabilidad identifique plenamente a la persona con quien se entienda la diligencia;
-III. La persona servidora pública judicial describirá y certificará en el acta que elabore, los documentos que en copia se adjuntaron a la demanda y que fueron entregados al destinatario del emplazamiento, y IV. La parte actora podrá acompañar a la persona servidora pública judicial a la práctica del emplazamiento.
+
+III. La persona servidora pública judicial describirá y certificará en el acta que elabore, los documentos que en copia se adjuntaron a la demanda y que fueron entregados al destinatario del emplazamiento, y
+
+IV. La parte actora podrá acompañar a la persona servidora pública judicial a la práctica del emplazamiento.
 Deben firmar las notificaciones tanto la persona que la hace como aquella a quien se le hace, si ésta no supiere firmar, lo hará un tercero a su ruego y si no quisiere firmar, lo hará el servidor público, haciendo constar esta circunstancia. A toda persona se le dará copia simple de la resolución que se le notifique, sin necesidad de acuerdo judicial. Las copias que no recojan las partes se conservarán en la secretaría, mientras esté pendiente el procedimiento.
 
 ### Artículo 200
@@ -1038,11 +1326,18 @@ Deben firmar las notificaciones tanto la persona que la hace como aquella a quie
 
 ### Artículo 203
 . Las notificaciones en juicio se podrán hacer:
+
 I. Personalmente, por cédula, por instructivo, por adhesión o por correo electrónico;
+
 II. Por medio de comunicación judicial, según corresponda;
+
 III. Por edictos;
+
 IV. Por correo certificado;
-V. Por telégrafo, y VI. Por cualquier otro medio de comunicación electrónica o sistema de justicia digital, mediante dispositivos físicos o móviles, autorizados en los lineamientos aprobados por el Consejo de la Judicatura conforme a la Ley Orgánica del Poder Judicial correspondiente.
+
+V. Por telégrafo, y
+
+VI. Por cualquier otro medio de comunicación electrónica o sistema de justicia digital, mediante dispositivos físicos o móviles, autorizados en los lineamientos aprobados por el Consejo de la Judicatura conforme a la Ley Orgánica del Poder Judicial correspondiente.
 La persona servidora pública judicial, elaborará la razón respectiva, acompañando las evidencias de la ejecución de la misma.
 
 ### Artículo 204
@@ -1069,22 +1364,37 @@ En caso de no existir dicho domicilio, o haber negativa a recibirla en el autori
 
 ### Artículo 209
 . Procede el emplazamiento o la notificación por edictos:
+
 I. Cuando se trate de personas inciertas;
-II. Cuando se refiera a personas cuyo domicilio se ignora, se manifieste así bajo protesta de decir verdad y previo informe o informes que electrónicamente se soliciten y rindan por el mismo medio y que, a juicio de la autoridad jurisdiccional requiera a las autoridades o instituciones públicas que cuenten con registro oficial de personas y sus domicilios, y III. Cuando hubiere que citar a juicio a alguna persona que haya desaparecido, no tenga domicilio conocido o se ignore donde se encuentra.
+
+II. Cuando se refiera a personas cuyo domicilio se ignora, se manifieste así bajo protesta de decir verdad y previo informe o informes que electrónicamente se soliciten y rindan por el mismo medio y que, a juicio de la autoridad jurisdiccional requiera a las autoridades o instituciones públicas que cuenten con registro oficial de personas y sus domicilios, y
+
+III. Cuando hubiere que citar a juicio a alguna persona que haya desaparecido, no tenga domicilio conocido o se ignore donde se encuentra.
 En los casos dispuestos en las fracciones anteriores, los edictos contendrán una relación sucinta de la demanda, señalándose únicamente los puntos sustanciales y se publicarán por tres veces, de tres en tres días, en el medio de comunicación procesal oficial del Poder Judicial de la Entidad Federativa o de la Federación, según corresponda, haciéndosele saber que debe presentarse dentro de un término que no será inferior a quince días ni excederá de treinta días, contados a partir del siguiente al de la última publicación.
 Lo anterior en la inteligencia de que, si se presentare la persona requerida ante la autoridad jurisdiccional dentro del término que se haya otorgado, será emplazada y empezará a correr el plazo para contestar la demanda al día siguiente; y de no ser así, concluido el plazo otorgado iniciará al día siguiente el plazo para dar contestación a la demanda respectiva, quedando en la secretaría de la autoridad jurisdiccional el traslado correspondiente.
 
 ### Artículo 210
 . Se harán mediante notificación personal las siguientes resoluciones:
+
 I. El emplazamiento a juicio al demandado, y en todo caso en que se trate de la primera notificación en cualquier procedimiento;
+
 II. El auto que admite la reconvención, salvo que se haga sabedor de la misma;
+
 III. Los incidentes en ejecución de sentencia;
+
 IV. La primera resolución que se dicte cuando se dejare de actuar por más de seis meses por cualquier motivo;
+
 V. En caso de ejecución de sentencia o convenio judicial, cuando la misma se solicite fuera de los tres meses de que haya quedado firme la sentencia definitiva;
+
 VI. Cuando se estime que se trata de un caso urgente o que la situación de vulnerabilidad de la persona lo requiera, a juicio de la autoridad jurisdiccional y así se ordene;
+
 VII. El requerimiento de un acto a la parte que deba cumplirlo;
+
 VIII. La primera resolución dictada por la autoridad jurisdiccional distinto al que previno en el conocimiento;
-IX. En todo caso, a las personas titulares de las fiscalías, Agentes del Ministerio Público y cuando la ley expresamente lo disponga, y X. En los demás casos que este Código Nacional lo disponga.
+
+IX. En todo caso, a las personas titulares de las fiscalías, Agentes del Ministerio Público y cuando la ley expresamente lo disponga, y
+
+X. En los demás casos que este Código Nacional lo disponga.
 Para el supuesto que se ordene la entrega de niñas, niños o adolescentes, el requerimiento se hará de manera personal, pero dicha notificación se practicará en el lugar donde se encuentre quien tenga la calidad de requerida y podrá hacerse acompañar la persona servidora pública del auxilio de la fuerza pública de ser necesario para el cumplimiento de dicha orden judicial.
 
 ### Artículo 211
@@ -1128,10 +1438,16 @@ Los exhortos y despachos a los que alude el párrafo anterior, se deberán remit
 ### Artículo 220
 . Las diligencias de los exhortos que deban practicarse fuera del territorio de la competencia de la Entidad Federativa de que se trate, deberán encomendarse, vía correo electrónico, al Tribunal o Poder Judicial del lugar en que han de realizarse o directamente a la autoridad jurisdiccional de la jurisdicción en que deban ejecutarse, conjuntamente con las constancias conducentes; asimismo, la autoridad jurisdiccional exhortada, de resultar incompetente por razón de territorio o cuantía, emitirá los proveídos necesarios a fin de que por su conducto y vía correo electrónico lo haga llegar a la autoridad jurisdiccional competente, informando de dicha situación a la autoridad ordenadora.
 El exhorto contendrá:
+
 I. La designación de la autoridad jurisdiccional exhortante;
+
 II. La del lugar o población en que tenga que llevarse a cabo la actividad solicitada, aunque no se designe la ubicación del Tribunal o Poder Judicial exhortado;
+
 III. Las actuaciones cuya práctica se intenta;
-IV. El término o plazo en que habrán de practicarse las mismas, y V. El exhorto preferentemente deberá realizarse, enviarse y devolverse en forma electrónica, mediante los correos institucionales o plataformas diseñadas para ello, conforme a las disposiciones de la Ley Orgánica o los lineamientos del Consejo de la Judicatura del Poder Judicial respectivo.
+
+IV. El término o plazo en que habrán de practicarse las mismas, y
+
+V. El exhorto preferentemente deberá realizarse, enviarse y devolverse en forma electrónica, mediante los correos institucionales o plataformas diseñadas para ello, conforme a las disposiciones de la Ley Orgánica o los lineamientos del Consejo de la Judicatura del Poder Judicial respectivo.
 
 ### Artículo 221
 . Excepcionalmente, de no contar con los medios para la tramitación de los exhortos de la forma antes señalada, su diligenciación se hará vía ordinaria, ya sea por servicio postal o a través de las partes interesadas o de las personas previamente autorizadas o sus representantes, para hacerlos llegar a su destino, quienes tendrán la obligación de gestionar la diligenciación ante la autoridad jurisdiccional exhortada y devolverlos con lo que se practicare, si por su conducto se hiciere la devolución, y para el caso de que sea por servicio postal, una vez cumplimentado se devolverá a su lugar de origen por el mismo medio.
@@ -1167,16 +1483,26 @@ De los Términos Judiciales
 
 ### Artículo 227
 . Los términos empezarán a correr:
+
 I. El día siguiente en que se hubiere hecho el emplazamiento o notificación personal;
+
 II. Fuera de los casos señalados en la fracción anterior, el día siguiente a aquel en que surtió sus efectos la notificación realizada por el medio de comunicación procesal oficial;
+
 III. La notificación realizada por medio de comunicación judicial surtirá efectos el mismo día a aquel en que por sistema se confirme que recibió el archivo electrónico correspondiente;
-IV. También podrán notificarse por correo certificado y el plazo correrá a partir del día siguiente hábil en que fue recibida la notificación, y V. En las audiencias del juicio oral las resoluciones dictadas por la autoridad jurisdiccional surtirán efectos en el momento en que las emita, estén o no presentes las partes.
+
+IV. También podrán notificarse por correo certificado y el plazo correrá a partir del día siguiente hábil en que fue recibida la notificación, y
+
+V. En las audiencias del juicio oral las resoluciones dictadas por la autoridad jurisdiccional surtirán efectos en el momento en que las emita, estén o no presentes las partes.
 Asimismo, podrá notificarse mediante otros sistemas autorizados en las leyes que corresponda, siempre que no causen indefensión.
 
 ### Artículo 228
 . La Ley sólo reconoce como términos comunes en los juicios, los siguientes:
+
 I. Para todas las partes que intervengan en el juicio, el relativo a ofrecimiento de pruebas, así como aquéllos en que la autoridad jurisdiccional determine la vista para desahogo por las partes al mismo tiempo;
-II. En el litisconsorcio pasivo, tratándose del emplazamiento, y III. Los demás que expresamente señale este Código Nacional como términos comunes.
+
+II. En el litisconsorcio pasivo, tratándose del emplazamiento, y
+
+III. Los demás que expresamente señale este Código Nacional como términos comunes.
 Los términos comunes se empezarán a contar desde el día siguiente a aquel en que todas las personas que conformen el posible litisconsorcio pasivo o todas las partes hayan quedado notificadas.
 Los demás términos se considerarán individuales y empezarán a correr para cada parte interesada en particular, cuando se haya realizado la notificación o surtido sus efectos según el caso.
 
@@ -1198,16 +1524,44 @@ Los demás términos se considerarán individuales y empezarán a correr para ca
 ### Artículo 234
 . Operará de pleno derecho la caducidad de la primera instancia cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo, hasta antes de que concluya la audiencia de juicio, si transcurridos cuarenta días hábiles contados a partir de la notificación de la última determinación judicial no hubiere promoción que tienda a impulsar el procedimiento de cualquiera de las partes. Los actos o promociones de mero trámite que no impliquen ordenación o impulso del procedimiento, no se considerarán como actividad de las partes ni impedirán que la caducidad se alcance.
 Los efectos y formas de su declaración se sujetarán a las siguientes normas:
+
 I. La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenio entre las partes. La autoridad jurisdiccional la declarará de oficio o a petición de cualquiera de las partes, cuando concurran las circunstancias a que se refiere el presente artículo;
+
 II. La caducidad extingue el procedimiento, pero no la acción; en consecuencia, se puede iniciar un nuevo juicio, sin perjuicio de lo dispuesto en la fracción V de este artículo;
+
 III. La caducidad de la primera instancia convierte en ineficaces las actuaciones del juicio y las cosas deben volver al estado que tenían antes de la presentación de la demanda y se levantarán los embargos preventivos, dejando sin efectos las medidas provisionales o cautelares. Se exceptúan de la ineficacia referida, las resoluciones firmes sobre competencia, litispendencia, conexidad, personalidad y capacidad de las partes litigantes, que regirán en el juicio ulterior si se promoviere. Las pruebas rendidas en el procedimiento extinguido por caducidad, podrán ser invocadas en el nuevo si se promoviere, siempre que se ofrezcan y precisen en la forma legal;
+
 IV. La caducidad de la segunda instancia se da si en el lapso de treinta días hábiles contados a partir de la notificación de la última determinación judicial, ninguna de las partes hubiere promovido impulsando el procedimiento y su efecto será dejar firme lo actuado ante la autoridad jurisdiccional;
+
 V. La caducidad de los incidentes se causa por el transcurso de quince días hábiles contados a partir de la notificación de la última determinación judicial sin promoción alguna de las partes; la declaración respectiva sólo afectará a las actuaciones del incidente, sin abarcar las de la instancia principal;
+
 VI. Para los efectos de la interrupción de la prescripción por demanda o cualquier género de interpelación judicial notificada a la persona poseedora o deudora en su caso, se equipará a la desestimación de la demanda la declaración de caducidad del procedimiento;
-VII. No tiene lugar la declaración de caducidad: a) En los juicios universales de concursos y sucesiones, pero sí en los juicios con ellos relacionados que se tramiten independientemente, que de aquéllos surjan o por ellos se motive; b) En las actuaciones de jurisdicción voluntaria o procedimientos no contenciosos; c) En los juicios de alimentos, y d) Cuando sea en perjuicio de niñas, niños y adolescentes;
+
+VII. No tiene lugar la declaración de caducidad:
+
+a) En los juicios universales de concursos y sucesiones, pero sí en los juicios con ellos relacionados que se tramiten independientemente, que de aquéllos surjan o por ellos se motive;
+
+b) En las actuaciones de jurisdicción voluntaria o procedimientos no contenciosos;
+
+c) En los juicios de alimentos, y
+
+d) Cuando sea en perjuicio de niñas, niños y adolescentes;
+
 VIII. El término de la caducidad sólo se interrumpirá por promociones de las partes o por actos de las mismas realizados ante autoridad judicial diversa, siempre que tengan relación inmediata y directa con la instancia;
-IX. La suspensión del procedimiento produce la interrupción del término de la caducidad. La suspensión del procedimiento tiene lugar: a) Cuando por fuerza mayor la autoridad jurisdiccional o las partes no puedan actuar; b) En los casos en que es necesario esperar la resolución de una cuestión previa o conexa por la misma autoridad jurisdiccional o por otras autoridades; c) Cuando la autoridad jurisdiccional tenga conocimiento de que las partes están participando en un procedimiento alternativo de solución de conflictos, conforme a la Ley de la materia, y d) En los demás casos previstos por la Ley.
-X. Contra la declaración de caducidad de la primera instancia procede el recurso de apelación en ambos efectos. Si la declaratoria se hace en segunda instancia, procede el recurso de reposición. Contra la negativa a la declaración de caducidad no procede recurso alguno, y XI. Las costas serán a cargo de la parte actora; pero serán compensables con las que corran a cargo de la parte demandada en aquellos en que opusiere reconvención, compensación, nulidad y en general las excepciones que tienden a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
+
+IX. La suspensión del procedimiento produce la interrupción del término de la caducidad. La suspensión del procedimiento tiene lugar:
+
+a) Cuando por fuerza mayor la autoridad jurisdiccional o las partes no puedan actuar;
+
+b) En los casos en que es necesario esperar la resolución de una cuestión previa o conexa por la misma autoridad jurisdiccional o por otras autoridades;
+
+c) Cuando la autoridad jurisdiccional tenga conocimiento de que las partes están participando en un procedimiento alternativo de solución de conflictos, conforme a la Ley de la materia, y
+
+d) En los demás casos previstos por la Ley.
+
+X. Contra la declaración de caducidad de la primera instancia procede el recurso de apelación en ambos efectos. Si la declaratoria se hace en segunda instancia, procede el recurso de reposición. Contra la negativa a la declaración de caducidad no procede recurso alguno, y
+
+XI. Las costas serán a cargo de la parte actora; pero serán compensables con las que corran a cargo de la parte demandada en aquellos en que opusiere reconvención, compensación, nulidad y en general las excepciones que tienden a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
 Título Segundo De la Etapa Postulatoria
 
 ## Capítulo I
@@ -1215,17 +1569,30 @@ De la Demanda Sección Primera Requisitos de la Demanda
 
 ### Artículo 235
 . La demanda deberá cumplir los requisitos siguientes:
+
 I. La autoridad jurisdiccional ante la que se promueve;
+
 II. Nombre, denominación o razón social de la parte actora o de quien promueve a su nombre, el domicilio para oír y recibir notificaciones dentro de la jurisdicción, número telefónico y dirección de correo electrónico para los mismos efectos procesales. Cuando proceda, revelar si el promovente pertenece a grupos sociales en situación de vulnerabilidad;
+
 III. Nombre de la persona designada como la persona representante autorizada. En ningún caso se exigirá contar con registro ante el Tribunal o Poder Judicial que corresponda;
+
 IV. Nombre, denominación o razón social de la parte demandada, y su domicilio;
+
 V. Las pretensiones, el objeto u objetos que se reclamen con sus accesorios;
+
 VI. La exposición clara y sucinta de los hechos en que el actor funde la demanda, relacionándolos a su vez con el título o títulos de las acciones que se ejerzan;
+
 VII. Los fundamentos de derecho, procurando citar la clase de acción intentada, los preceptos legales y, en su caso, convencionales, los criterios jurisprudenciales o doctrinales, o principios jurídicos aplicables;
+
 VIII. En su caso, el valor de lo demandado para determinar la competencia de la autoridad jurisdiccional;
+
 IX. El ofrecimiento de pruebas, mencionando con toda precisión el hecho o hechos que se tratan de demostrar con cada prueba, debiendo proporcionar el nombre de las personas que deban rendir testimonio;
+
 X. Las firmas de la parte actora o de su persona representante autorizada. Si éstos no pudieran o no supieran firmar, pondrán su huella dactilar, firmando otra persona en su nombre y a su ruego indicando estas circunstancias. Igualmente podrá firmar la parte actora, la persona representante autorizada, el escrito, usando su firma electrónica avanzada, la cual deberá corresponder a la persona que promueva;
-XI. Exhibir por cada demandado un ejemplar de las copias de traslado tanto de la demanda y sus anexos, ya sean en formato electrónico o físico, las cuales deberán estar debidamente foliadas e identificadas como copia; si los interesados fueran varios, se acompañará un ejemplar para cada uno de ellos. Esta exigencia no será necesaria en los casos que la demanda se presente en forma electrónica, y XII. Los demás requisitos relacionados con las pruebas conforme a lo dispuesto en este Código Nacional.
+
+XI. Exhibir por cada demandado un ejemplar de las copias de traslado tanto de la demanda y sus anexos, ya sean en formato electrónico o físico, las cuales deberán estar debidamente foliadas e identificadas como copia; si los interesados fueran varios, se acompañará un ejemplar para cada uno de ellos. Esta exigencia no será necesaria en los casos que la demanda se presente en forma electrónica, y
+
+XII. Los demás requisitos relacionados con las pruebas conforme a lo dispuesto en este Código Nacional.
 
 ### Artículo 236
 . Si la demanda fuere oscura, irregular o no cumpliera con alguno de los requisitos del artículo anterior, por una sola ocasión se señalará con toda precisión en qué consisten los defectos de la misma en el proveído que al efecto se dicte y publique en el medio de comunicación judicial, para que en el término de tres días contados a partir del día siguiente a aquel en que surta efectos la notificación se desahogue en tiempo y forma.
@@ -1246,22 +1613,38 @@ Los efectos de la presentación de la demanda son: interrumpir la prescripción,
 
 ### Artículo 240
 . Los efectos del emplazamiento son:
+
 I. Prevenir el juicio en favor de la autoridad jurisdiccional que lo hace;
+
 II. Sujetar al emplazado a seguir el juicio ante la autoridad jurisdiccional que lo emplazó, siendo competente al tiempo de la citación, aunque después deje de serlo con relación a la parte demandada, porque éste cambie de domicilio, o por otro motivo legal;
+
 III. Obligar a la parte demandada a contestar ante la autoridad jurisdiccional que lo emplazó, dejando en su caso a salvo, siempre el derecho de provocar la incompetencia respectiva;
-IV. Producir todas las consecuencias de la interpelación judicial, si por otros medios no se hubiere constituido ya en mora el obligado, y V. Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
+
+IV. Producir todas las consecuencias de la interpelación judicial, si por otros medios no se hubiere constituido ya en mora el obligado, y
+
+V. Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
 Sección Segunda De la Contestación a la Demanda
 
 ### Artículo 241
 . La contestación a la demanda deberá cumplir con los siguientes requisitos:
+
 I. Presentarse ante la autoridad jurisdiccional que lo emplazó;
+
 II. Nombre, denominación o razón social de la parte demandada o de quien actúe en su representación, el domicilio para oír y recibir notificaciones dentro de la jurisdicción correspondiente, número telefónico y dirección de correo electrónico para los mismos efectos procesales. Cuando proceda, revelar si el promovente pertenece a grupos sociales en situación de vulnerabilidad y acreditarlo o, en su caso, solicitar el apoyo especial a que se refiere el artículo 141 de este Código Nacional;
+
 III. El nombre de la persona designada como la persona representante autorizada. En ningún caso se exigirá contar con registro ante el Tribunal o Poder Judicial que corresponda;
+
 IV. Contestará categóricamente cada uno de los hechos en que la parte actora funde su pretensión, aceptándolos, negándolos o manifestando bajo protesta de decir verdad los que desconozca, apercibida que en caso de no hacerlo o de evadir su respuesta se tendrán por ciertos los hechos expresados por la parte actora, salvo prueba en contrario;
+
 V. Deberá ofrecer sus pruebas, mencionando con toda precisión el hecho o hechos que trata de demostrar, debiendo proporcionar el nombre de las personas que deban rendir testimonio;
+
 VI. Las excepciones y defensas que se tengan, se harán valer en la contestación y nunca después, salvo las supervenientes. Se procurará citar los preceptos legales, convencionales, los criterios jurisprudenciales o doctrinales, o principios jurídicos aplicables;
+
 VII. Las firmas de la parte demandada, o de la persona representante autorizada. Si éstos no pudieren o no supieren firmar, pondrán su huella dactilar, firmando otra persona en su nombre y a su ruego indicando estas circunstancias. La parte demandada o la persona representante autorizada podrá firmar el escrito usando su firma electrónica avanzada;
-VIII. Acompañar copia simple del escrito de contestación debidamente foliada e identificada como copia para dar vista a la parte actora por el término de tres días, y IX. Los demás requisitos relacionados con las pruebas conforme a lo dispuesto en este Código Nacional.
+
+VIII. Acompañar copia simple del escrito de contestación debidamente foliada e identificada como copia para dar vista a la parte actora por el término de tres días, y
+
+IX. Los demás requisitos relacionados con las pruebas conforme a lo dispuesto en este Código Nacional.
 
 ### Artículo 242
 . Dentro del término para contestar la demanda, se podrá proponer la reconvención en los casos que proceda, ajustándose a las disposiciones de la demanda.
@@ -1274,20 +1657,32 @@ La petición contenida en este artículo no será tramitada a no ser que se trat
 
 ### Artículo 244
 . A toda demanda o contestación deberá acompañarle necesariamente:
+
 I. El o los documentos que acrediten, la personalidad o carácter de aquel que comparece en representación de alguna de las partes o terceros;
+
 II. Los documentos en los que la parte actora funde su acción y aquellos en que la parte demandada funde sus excepciones, ya sea en forma física o electrónica. Si no los tuvieren a su disposición, acreditarán haber solicitado su expedición con el acuse de recibo por el archivo o lugar en que se encuentren los originales, para que, a su costa, se les expida certificación de ellos, en la forma que prevenga la Ley. Se entiende que las partes tienen a su disposición los documentos, siempre que legalmente puedan pedir copia autorizada de los originales y exista obligación de expedírselos. Si las partes no pudiesen presentar los documentos en que funden sus acciones o excepciones, declararán, bajo protesta de decir verdad, la causa por la que no pueden presentarlos o no se les expidieren sin causa justificada; en este caso, si la autoridad jurisdiccional lo estima procedente, ordenará al responsable de la expedición que el documento solicitado por la parte interesada se expida a costa de ésta, apercibiéndolo con la imposición de alguna de las medidas de apremio;
+
 III. Salvo disposición legal en contrario o que se trate de pruebas supervenientes, de no cumplirse por las partes con alguno de los requisitos anteriores, no se les recibirán las pruebas documentales que no obren en su poder al presentar la demanda o contestación, como tampoco si en esos escritos se dejan de identificar las documentales, para el efecto de que oportunamente sean requeridos por la autoridad jurisdiccional y sean recibidas; el mismo tratamiento se dará a los informes que se pretendan rendir como prueba;
-IV. Los documentos que las partes tengan en su poder y que deban servir como pruebas de su parte y, los que presentaren después, con violación de este precepto, no les serán admitidos, salvo que se trate de pruebas supervenientes o la demanda se haya presentado vía electrónica con los documentos digitalizados para que con posterioridad sean presentados sus originales, y V. Copias simples, siempre que sean legibles, tanto del escrito de demanda como de los demás documentos referidos, incluyendo la de los que se exhiban como prueba según los párrafos precedentes, incluyendo archivos o documentos electrónicos y si se acompañan grabaciones de audio o video, para que se impongan de ellos, se exhibirá un duplicado de los mismos para correrle traslado a la contraria. Las copias simples de los documentos que sirvan como prueba y las grabaciones de audio o video, se podrán exhibir como archivos dentro de un dispositivo de almacenamiento de datos que garantice la integridad de los mismos, debiendo el promovente identificar y precisar con toda claridad su contenido. Al momento de proveer el escrito de demanda o contestación, la persona secretaria judicial deberá cotejar que las copias exhibidas o las que se contienen en los archivos del dispositivo de almacenamiento correspondan a los documentos exhibidos como pruebas.
+
+IV. Los documentos que las partes tengan en su poder y que deban servir como pruebas de su parte y, los que presentaren después, con violación de este precepto, no les serán admitidos, salvo que se trate de pruebas supervenientes o la demanda se haya presentado vía electrónica con los documentos digitalizados para que con posterioridad sean presentados sus originales, y
+
+V. Copias simples, siempre que sean legibles, tanto del escrito de demanda como de los demás documentos referidos, incluyendo la de los que se exhiban como prueba según los párrafos precedentes, incluyendo archivos o documentos electrónicos y si se acompañan grabaciones de audio o video, para que se impongan de ellos, se exhibirá un duplicado de los mismos para correrle traslado a la contraria. Las copias simples de los documentos que sirvan como prueba y las grabaciones de audio o video, se podrán exhibir como archivos dentro de un dispositivo de almacenamiento de datos que garantice la integridad de los mismos, debiendo el promovente identificar y precisar con toda claridad su contenido. Al momento de proveer el escrito de demanda o contestación, la persona secretaria judicial deberá cotejar que las copias exhibidas o las que se contienen en los archivos del dispositivo de almacenamiento correspondan a los documentos exhibidos como pruebas.
 
 ### Artículo 245
 . La presentación de documentos cuando sean públicos, podrá hacerse por copia simple, si la parte interesada manifestare, bajo protesta de decir verdad, que carece de otra fehaciente; pero no producirá aquélla ningún efecto si durante el desarrollo de la audiencia respectiva, no se presentare una copia del documento con los requisitos necesarios para que haga fe en juicio, o se cotejen las copias simples con sus originales por la persona secretaria judicial y a costa de la parte interesada, pudiendo asistir a la diligencia de cotejo la contraparte, para que en su caso haga las observaciones que considere pertinentes.
 
 ### Artículo 246
 . Después de la demanda y contestación, no se admitirán a las partes, otros documentos que los que se hallen en alguno de los casos siguientes:
+
 I. Ser de fecha posterior a dichos escritos;
+
 II. Los anteriores respecto de los cuales, protestando decir verdad, asevere la parte que los presente no haber tenido antes conocimiento de su existencia;
+
 III. Los que no haya sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada, y siempre que haya hecho oportunamente la designación expresa en los términos de lo dispuesto en el presente Código Nacional;
-IV. Los documentos que sirvan de pruebas contra excepciones alegadas o contra acciones en lo principal o reconvencional, y V. Los que se ofrezcan para la impugnación de pruebas de la contraria.
+
+IV. Los documentos que sirvan de pruebas contra excepciones alegadas o contra acciones en lo principal o reconvencional, y
+
+V. Los que se ofrezcan para la impugnación de pruebas de la contraria.
 
 ### Artículo 247
 . A ninguna de las partes se le admitirá documento alguno después de concluido el desahogo de pruebas. La autoridad jurisdiccional, de oficio, no deberá admitirlos y mandará devolverlos a la parte sin ulterior recurso, sin agregarlos al expediente en ningún caso, salvo las excepciones previstas en este Código Nacional.
@@ -1339,7 +1734,9 @@ Habiéndose ratificado el allanamiento, la autoridad jurisdiccional estudiará l
 
 ### Artículo 259
 . En los casos de declaración de rebeldía de la parte demandada por falta de contestación, tendrán aplicación las siguientes reglas:
+
 I. Todas las resoluciones que de ahí en adelante recaigan en el pleito y cuantas citaciones deban hacérsele, aún las de carácter personal, se notificarán por el medio de comunicación procesal oficial, salvo los casos en que otra cosa se prevenga o a juicio de la autoridad jurisdiccional;
+
 II. Desde el día en que fue declarada rebelde o quebrantó la radicación de persona la parte demandada, se decretarán las medidas cautelares solicitadas por la parte actora, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto se estime necesario, para asegurar lo que sea objeto del juicio, aplicando en lo conducente las reglas de las medidas cautelares.
 
 ### Artículo 260
@@ -1360,8 +1757,11 @@ Son admisibles como medios de prueba, todos aquellos elementos que puedan produc
 
 ### Artículo 264
 . La parte que niega sólo estará obligada a probar:
+
 I. Cuando la negación envuelva la afirmación expresa de un hecho;
+
 II. Cuando se desconozca la presunción legal que tenga en su favor la parte colitigante;
+
 III. Cuando la negativa fuere elemento constitutivo de la acción o de la excepción.
 
 ### Artículo 265
@@ -1407,9 +1807,14 @@ Párrafo reformado DOF 15-01-2026 Para ello deberán utilizarse las técnicas au
 
 ### Artículo 276
 . En la etapa de admisión de pruebas de la audiencia preliminar o en la misma resolución que recaiga a la demanda incidental o contestación, la autoridad jurisdiccional se pronunciará sobre la admisión o desechamiento de pruebas, pudiendo limitar el número de testigos prudencialmente. En ningún caso, la autoridad jurisdiccional admitirá pruebas o diligencias en los siguientes supuestos:
+
 I. Las que hayan sido ofrecidas extemporáneamente;
+
 II. Las que sean contrarias a derecho;
-III. Las que no versen sobre los hechos narrados por las partes, o hechos imposibles o notoriamente inverosímiles, y IV. Las que no reúnan los requisitos establecidos en este Código Nacional.
+
+III. Las que no versen sobre los hechos narrados por las partes, o hechos imposibles o notoriamente inverosímiles, y
+
+IV. Las que no reúnan los requisitos establecidos en este Código Nacional.
 En los casos en que las partes dejen de mencionar las personas testigos que estén relacionados con los hechos que fijen la litis; o se dejen de acompañar los documentos que se deben presentar, salvo en los casos autorizados en el presente Código Nacional, la autoridad jurisdiccional no admitirá tales pruebas.
 Contra el auto que admita o deseche pruebas deberá estarse a lo dispuesto en el artículo 268 del presente Código Nacional.
 
@@ -1431,17 +1836,28 @@ En caso de que no se cuente con los recursos tecnológicos necesarios o que por 
 
 ### Artículo 281
 . En los casos establecidos en el artículo anterior, a petición de parte interesada, se concederá el siguiente término para la tramitación y diligenciación del exhorto respectivo:
+
 I. Un mes si el lugar está comprendido dentro del territorio nacional;
+
 II. Dos meses si lo está en los Estados Unidos de América o Canadá;
+
 III. Tres meses si está comprendido en Centroamérica y el Caribe;
-IV. Seis meses si estuviere en Europa o en la América del Sur, y V. Siete meses cuando esté situado en cualquiera otra parte.
+
+IV. Seis meses si estuviere en Europa o en la América del Sur, y
+
+V. Siete meses cuando esté situado en cualquiera otra parte.
 El término referido no será prorrogado, salvo caso fortuito o fuerza mayor plenamente acreditado.
 
 ### Artículo 282
 . Para otorgarse el término antes referido, deberá de cumplirse con los siguientes requisitos:
+
 I. Que se solicite en los escritos de fijación de la litis;
+
 II. Que se indiquen los nombres y domicilios de las personas testigos que hayan de ser examinados, cuando la parte que los ofrezca no se haya comprometido a presentarlos cuando la prueba sea testimonial. Para el caso de ser inexactos los datos de identificación, domicilio o simplemente no existan, se declarará desierta la prueba;
-III. Que se designen, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos físicos o electrónicos que han de cotejarse, o presentarse originales, y IV. En tratándose de cualquier otra diligencia, deberá indicarse con toda claridad lo que se pretende rendir o recibir y los puntos sobre los que deba versar.
+
+III. Que se designen, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos físicos o electrónicos que han de cotejarse, o presentarse originales, y
+
+IV. En tratándose de cualquier otra diligencia, deberá indicarse con toda claridad lo que se pretende rendir o recibir y los puntos sobre los que deba versar.
 La autoridad jurisdiccional al calificar la admisibilidad de las pruebas determinará el monto de la cantidad que el interesado deberá depositar como multa en caso de no rendirse la prueba, que no podrá ser superior a ciento veinte veces el valor diario de la Unidad de Medida y Actualización vigente al momento de su imposición. Sin este depósito no se hará el señalamiento para la recepción de la prueba.
 El acuerdo que autorice el término para el desahogo de prueba foránea no será recurrible.
 
@@ -1466,32 +1882,58 @@ La declaración de parte contraria de personas jurídicas de carácter público 
 
 ### Artículo 287
 . Tanto el interrogatorio formulado para el desahogo de la prueba de declaración voluntaria de parte propia y de parte contraria deberá ajustarse a las siguientes reglas:
+
 I. Las preguntas se formularán de manera oral, libre y directa sin incorporar valoraciones ni calificaciones, de manera que puedan ser comprendidas con facilidad por quien ha de declarar;
+
 II. Estar dirigido a demostrar hechos controvertidos que sean objeto de la litis;
+
 III. Estar formulado en términos sencillos, claros y precisos;
+
 IV. Referir sobre hechos percibidos o con conocimiento de la parte respectiva, y no a conceptos subjetivos u opiniones;
+
 V. Podrán formularse respecto de hechos complejos;
+
 VI. Las preguntas no podrán ser insidiosas, entendiéndose por tales las que se dirijan a ofuscar la inteligencia del que ha de responder, con objeto de obtener una confesión contraria a la verdad;
+
 VII. Las preguntas no serán repetitivas;
-VIII. No se permitirán preguntas sobre cuestiones de derecho o desconocidas técnicamente por la parte respectiva, y IX. Podrán formularse preguntas abiertas, caso en el cual la persona responderá ampliamente; o cerradas, supuesto en el cual deberá responder primero categóricamente, afirmando o negando, sin perjuicio de realizar las aclaraciones pertinentes.
+
+VIII. No se permitirán preguntas sobre cuestiones de derecho o desconocidas técnicamente por la parte respectiva, y
+
+IX. Podrán formularse preguntas abiertas, caso en el cual la persona responderá ampliamente; o cerradas, supuesto en el cual deberá responder primero categóricamente, afirmando o negando, sin perjuicio de realizar las aclaraciones pertinentes.
 
 ### Artículo 288
 . La declaración voluntaria de parte propia y parte contraria se desahogará conforme a las siguientes disposiciones:
+
 I. Se desahogará primero la de la parte actora y con posterioridad la de la parte demandada;
+
 II. En el caso de que una o ambas partes hayan ofrecido la declaración voluntaria de parte propia y declaración de parte contraria, la autoridad jurisdiccional establecerá que, quien declare primero, en una u otra modalidad, inmediatamente que concluya su desahogo, permanezca en el lugar de recepción, para el desahogo de la declaración voluntaria de parte propia y declaración de parte contraria, según corresponda, admitida a la contraparte, a fin de contribuir a la continuidad y concentración de las pruebas;
+
 III. Quien responda al interrogatorio, al inicio de la diligencia se le tomarán sus datos de identificación general y domicilio. Del mismo modo, no podrá recibir asistencia jurídica alguna durante el desahogo de la prueba, de quien ostente su representación como persona representante autorizada;
+
 IV. El oferente de la prueba formulará su interrogatorio en primer término, concluido éste, la parte contraria a su vez tiene derecho a formular preguntas;
+
 V. Ante la formulación de cada pregunta la contraparte tendrá derecho a objetar la misma, exponiendo la causa fundada de la objeción. Quien interroga podrá contradecir la objeción o retirar la pregunta, resolviendo la autoridad jurisdiccional;
+
 VI. En el caso de la declaración de parte contraria, si quien objeta, en su argumentación asiste al dar información o indicar a su representado sobre cómo responder la pregunta, se tendrán por presuntamente ciertos los hechos que se pretende demostrar con la prueba. Mismo criterio se seguirá cuando pretenda defender una pregunta en el caso de declaración voluntaria;
+
 VII. Previo apercibimiento, en caso de que no asista a la audiencia respectiva la parte que responda al interrogatorio de declaración de parte contraria, se tendrán por ciertos los hechos que el oferente de la prueba pretendió demostrar con la misma. Mismo criterio se aplicará si no responde, responde con evasivas u omite responder categóricamente a las preguntas;
+
 VIII. Si quien ofreció la declaración de parte propia no asiste a la audiencia respectiva, se declarará desierta la prueba;
+
 IX. Si fueren varias las personas colitigantes que hayan de responder al interrogatorio, las diligencias se practicarán separadamente y en un mismo acto, evitando que las partes se comuniquen entre sí;
-X. La parte que interroga, podrá reformular aquellas preguntas durante la audiencia cuando retire la pregunta anterior o porque no sea aprobada por objeción, y XI. Durante el desahogo de esta prueba, podrán tenerse a la vista, así como usarse, bienes, instrumentos y apoyos técnicos, o incluso documentos, previamente admitidos, para ser mostrados al declarante para que pueda contestar los cuestionamientos que se le realicen.
+
+X. La parte que interroga, podrá reformular aquellas preguntas durante la audiencia cuando retire la pregunta anterior o porque no sea aprobada por objeción, y
+
+XI. Durante el desahogo de esta prueba, podrán tenerse a la vista, así como usarse, bienes, instrumentos y apoyos técnicos, o incluso documentos, previamente admitidos, para ser mostrados al declarante para que pueda contestar los cuestionamientos que se le realicen.
 
 ### Artículo 289
 . No estarán obligadas a comparecer en los términos previstos en los artículos anteriores y declararán por escrito las siguientes personas:
+
 I. Las previstas en el artículo 110 de la Constitución Política de los Estados Unidos Mexicanos;
-II. Los extranjeros que gozaren en el país de inmunidad diplomática, de conformidad con los Tratados sobre la materia, y III. Quienes, por enfermedad grave u otro impedimento acreditado con certificado de salud emitido por Institución de Salud pública.
+
+II. Los extranjeros que gozaren en el país de inmunidad diplomática, de conformidad con los Tratados sobre la materia, y
+
+III. Quienes, por enfermedad grave u otro impedimento acreditado con certificado de salud emitido por Institución de Salud pública.
 En casos urgentes podrán rendir declaraciones personalmente, con este fin, desde el ofrecimiento de pruebas se adicionará el interrogatorio a fin de dar la oportunidad a la contraparte de proponer el contra interrogatorio respectivo, conforme a las reglas establecidas en el presente Capítulo. En este caso también se tendrá la oportunidad de formular la objeción respectiva, lo cual deberá garantizar la autoridad jurisdiccional. Serán calificados por la autoridad jurisdiccional antes de su envío para su respuesta.
 
 ### Artículo 290
@@ -1517,15 +1959,26 @@ Si el testigo citado de esta forma no asistiere a rendir su declaración en la a
 
 ### Artículo 294
 . Para el desahogo de la prueba testimonial se estará a las siguientes reglas:
+
 I. Las personas que tengan la calidad de testigos serán protestadas para conducirse con verdad al iniciar la audiencia; se recabarán sus generales; y se procederá a su traslado y separación en el área de testigos correspondiente, hasta que sean llamados a declarar;
+
 II. El interrogatorio estará a cargo de la parte oferente, quien será responsable de justificar la credibilidad e idoneidad del testigo, así como de plantear el interrogatorio correspondiente, conforme a los hechos controvertidos objeto de la prueba;
+
 III. El contrainterrogatorio estará a cargo de la contraparte, quien podrá formular preguntas tendientes tanto a desvirtuar la credibilidad o idoneidad del testigo como de su declaración;
+
 IV. El interrogatorio y contrainterrogatorio deberá formularse en términos sencillos, claros y precisos, deberá dirigirse a los hechos controvertidos objeto de la prueba; podrá destinarse a la credibilidad o idoneidad de quien declara; será libre y directo; y se hará bajo la completa responsabilidad de quien lo formule, atendiendo a los fines propios de su postulación y el debate;
+
 V. Agotado el interrogatorio del oferente, se procederá al contrainterrogatorio de la contraparte; sin perjuicio de poder formularse un reinterrogatorio, a cargo del oferente, o recontrainterrogatorio, a cargo de la contraparte, respectivamente, sin que puedan autorizarse preguntas que debieron formularse con anterioridad;
+
 VI. Cada una de las partes tiene el derecho de objetar las preguntas formuladas por su contraparte, exponiendo brevemente las razones para ello, antes de que se emita la respuesta. En este caso, quien formule la pregunta será escuchado para que defienda o retire la pregunta y la autoridad jurisdiccional resolverá inmediatamente en la misma audiencia;
+
 VII. Quien comparezca como testigo, deberá responder a todas las preguntas que se le formulen, en caso de negativa o responder evasivamente, a petición de parte, la autoridad jurisdiccional lo apremiará y, en su caso, determinará las consecuencias de ello, según el caso, en sentencia definitiva, para alguna de las partes;
+
 VIII. No se permitirá la tacha de testigos, están permitidas las preguntas para destruir la idoneidad y credibilidad, momento en el cual, podrán exhibirse y ofrecerse, en su caso, pruebas documentales para justificarlo;
-IX. De admitirse, y escuchando en estricta igualdad a la parte oferente, se reservará lo conducente para la sentencia definitiva, y X. Únicamente serán admisibles pruebas documentales exhibidas en la audiencia, que no requieran preparación y dirigidas específicamente para los fines establecidos en la fracción VIII de este artículo.
+
+IX. De admitirse, y escuchando en estricta igualdad a la parte oferente, se reservará lo conducente para la sentencia definitiva, y
+
+X. Únicamente serán admisibles pruebas documentales exhibidas en la audiencia, que no requieran preparación y dirigidas específicamente para los fines establecidos en la fracción VIII de este artículo.
 
 ### Artículo 295
 . La autoridad jurisdiccional cuenta con la facultad de hacer las preguntas que estime conducentes a las personas testigos, siempre y cuando sean de naturaleza aclaratoria, sin incorporar información adicional que correspondía generar a las partes involucradas y garantizando, ante todo, el principio de igualdad e inmediación, salvo que se trate de la materia familiar, en cuyo caso la autoridad jurisdiccional estará facultada para cuestionar a la persona testigo sin limitación alguna, en aras de allegarse de la verdad material o cuando advierta violaciones a derechos humanos.
@@ -1553,21 +2006,36 @@ De la Prueba Pericial
 
 ### Artículo 300
 . La prueba pericial solo procede cuando:
+
 I. Sean necesarios conocimientos especiales en alguna ciencia, arte, técnica o industria o, en aquellos casos que la mande la Ley;
+
 II. Cuando la autoridad jurisdiccional lo requiera para llegar a una solución;
+
 III. Se ofrecerá expresando los puntos y cuestionamientos sobre los que versará y que deban resolver los peritos, sin lo cual no será admitida;
+
 IV. Las personas designadas deben tener título en la ciencia, arte, técnica, oficio o industria a que pertenezca, y cédula si se requiere legalmente para su ejercicio;
+
 V. Si los conocimientos especiales no estuvieren legalmente reglamentados con título oficial o, estándolo, no hubiere peritos en el lugar, podrá ser nombrada a satisfacción de la autoridad jurisdiccional, cualquier persona entendida, o bien con experiencia práctica en el ejercicio de un servicio u oficio;
-VI. Se desechará la pericial cuando se trate de conocimientos generales, hechos acreditados en autos o tratándose de simples operaciones aritméticas, y VII. El título de habilitación de corredor público acredita para todos los efectos la calidad de perito valuador.
+
+VI. Se desechará la pericial cuando se trate de conocimientos generales, hechos acreditados en autos o tratándose de simples operaciones aritméticas, y
+
+VII. El título de habilitación de corredor público acredita para todos los efectos la calidad de perito valuador.
 
 ### Artículo 301
 . El ofrecimiento de la prueba pericial en materia civil deberá llevarse a cabo en los términos establecidos en el presente Código Nacional, con las salvedades siguientes:
+
 I. Si se ofrece la prueba pericial en la demanda o en la reconvención, la contraria al contestar deberá designar perito de su parte, además de proponer la ampliación de los puntos y cuestiones que argumentó el oferente para que los peritos dictaminen. Si se ofrece al contestar la demanda principal o reconvencional, la contraria deberá designar a su perito, en la misma forma del párrafo anterior. Si se ofrece en el desahogo de las vistas con excepciones y defensas, la contraria lo designará dentro del término de tres días. En todo caso, deberá precisarse la ciencia, técnica o arte a que se refiere, proporcionando el nombre de la persona designada;
+
 II. De estar debidamente ofrecida, la autoridad jurisdiccional la admitirá en la etapa de admisión de pruebas de la audiencia preliminar o, en su caso, en la audiencia donde haya ofrecido.
 Asimismo, conforme a la complejidad del caso, determinará un plazo de cinco a diez días para que las partes exhiban por escrito el dictamen respectivo, salvo que existiera causa bastante para modificar dicho término;
+
 III. La autoridad jurisdiccional proveerá lo conducente con el fin de que los peritos en estricta igualdad cuenten con los elementos necesarios solicitados por las partes para emitir el dictamen y evitar dilaciones procesales;
+
 IV. En caso de que alguna de las personas peritos de las partes no exhiba su dictamen dentro del plazo señalado por la autoridad jurisdiccional, precluirá su derecho para hacerlo y, en consecuencia, la prueba se desahogará con el dictamen que se tenga por rendido. En el supuesto de que ninguno de los peritos exhiba su dictamen en el plazo señalado se dejará de recibir la prueba;
-V. Las partes deberán presentar a sus peritos en la audiencia de juicio, quienes deberán acreditar, bajo su responsabilidad, su calidad científica, técnica, artística o industrial para el que fueron propuestos, con el original o copia certificada de su cédula profesional o los documentos respectivos. Asimismo, deberán exponer verbal y brevemente las conclusiones de sus dictámenes, a efecto de que se desahogue la prueba con los exhibidos oportunamente y respondan las preguntas que la autoridad jurisdiccional o las partes les formulen con apoyo de auxiliar técnico, y VI. El interrogatorio a los peritos seguirá las mismas reglas de la prueba testimonial.
+
+V. Las partes deberán presentar a sus peritos en la audiencia de juicio, quienes deberán acreditar, bajo su responsabilidad, su calidad científica, técnica, artística o industrial para el que fueron propuestos, con el original o copia certificada de su cédula profesional o los documentos respectivos. Asimismo, deberán exponer verbal y brevemente las conclusiones de sus dictámenes, a efecto de que se desahogue la prueba con los exhibidos oportunamente y respondan las preguntas que la autoridad jurisdiccional o las partes les formulen con apoyo de auxiliar técnico, y
+
+VI. El interrogatorio a los peritos seguirá las mismas reglas de la prueba testimonial.
 En caso de no asistir el perito o los peritos designados por las partes, se procederá conforme a lo señalado en la fracción IV del presente artículo.
 
 ### Artículo 302
@@ -1591,10 +2059,15 @@ En caso de avalúos realizados para remates judiciales deberá estarse a las reg
 
 ### Artículo 306
 . En materia familiar, para la prueba pericial se seguirán las siguientes reglas:
+
 I. En todos los casos se nombrará persona perito oficial y sus honorarios serán cubiertos por el Estado, sin perjuicio de las personas peritos que puedan ser ofrecidas por las partes.
 Tratándose de avalúos sobre bienes, no habrá persona perito oficial, por lo que dicha pericial deberá de sujetarse a las reglas establecidas por la materia civil;
+
 II. No será admisible persona perito tercero;
-III. Las personas expertas forenses o peritos deberán comparecer a la etapa de admisión de pruebas de la segunda fase de la audiencia preliminar, para acreditar su experticia, así como protestar y aceptar el cargo, para el caso de su inasistencia se desechará la probanza, y IV. Las personas designadas para emitir un peritaje quedan obligadas a rendir su dictamen dentro de los quince días siguientes a la fecha en que hayan aceptado y protestado el cargo o bien, de la fecha que señale la autoridad jurisdiccional atendiendo a las circunstancias del caso. Lo anterior en el entendido de que las partes deberán de estar en aptitud de imponerse de su contenido por lo menos con tres días de anticipación a la celebración de la audiencia del juicio.
+
+III. Las personas expertas forenses o peritos deberán comparecer a la etapa de admisión de pruebas de la segunda fase de la audiencia preliminar, para acreditar su experticia, así como protestar y aceptar el cargo, para el caso de su inasistencia se desechará la probanza, y
+
+IV. Las personas designadas para emitir un peritaje quedan obligadas a rendir su dictamen dentro de los quince días siguientes a la fecha en que hayan aceptado y protestado el cargo o bien, de la fecha que señale la autoridad jurisdiccional atendiendo a las circunstancias del caso. Lo anterior en el entendido de que las partes deberán de estar en aptitud de imponerse de su contenido por lo menos con tres días de anticipación a la celebración de la audiencia del juicio.
 
 ### Artículo 307
 . La persona perito tercero puede ser recusado en la audiencia de juicio en la que comparezca, por las mismas causas de las excusas e impedimentos que pueden serlo la autoridad jurisdiccional.
@@ -1621,16 +2094,28 @@ De no cumplirse con las cargas procesales antes referidas la prueba será desech
 
 ### Artículo 312
 . Son documentos públicos:
+
 I. Las escrituras públicas, pólizas y actas otorgadas ante corredor público, notaria o notario público, según corresponda y los testimonios y copias certificadas de dichos documentos, firmadas en forma autógrafa o con firma electrónica avanzada;
+
 II. Los documentos auténticos e informes expedidos por personas funcionarias que desempeñen cargo público, en lo que se refiere al ejercicio de sus funciones, con firma autógrafa o electrónica avanzada;
+
 III. Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos, o los dependientes del Gobierno Federal, de los Estados, de los Ayuntamientos, con firma original o electrónica autorizada;
+
 IV. Las certificaciones de las actas del estado civil expedidas por las autoridades jurisdiccionales, personas funcionarias públicas del Registro Civil o dependencia pública de acuerdo con cada Entidad Federativa, y las certificaciones que sean expedidas por medios manuales o electrónicos y que cuenten con la firma autógrafa digitalizada o firma electrónica avanzada de las personas facultadas para ello, respecto a constancias existentes en los libros correspondientes;
+
 V. Las certificaciones de constancias existentes en los archivos públicos físicos o electrónicos firmados en forma autógrafa o electrónicamente expedidas por personas funcionarias a quienes competa;
+
 VI. Las certificaciones de constancias existentes en los archivos parroquiales y que se refieran a actos pasados, antes del establecimiento del Registro Civil, siempre que fueren cotejadas por Notario Público o quien haga sus veces con arreglo a derecho;
+
 VII. Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, universidades, siempre que estuvieren aprobados por el Gobierno Federal o de los Estados, y las copias certificadas que de ellos se expidieren;
+
 VIII. Las actuaciones judiciales de toda especie, incluyendo las de los expedientes electrónicos publicados y generados por cualquier autoridad jurisdiccional, en forma física o electrónica, de los Poderes Judiciales que les corresponda;
+
 IX. Las certificaciones que expidieren las bolsas mercantiles o mineras autorizadas por la Ley y las expedidas por corredor público con arreglo al Código de Comercio;
-X. Los convenios emanados del procedimiento de mediación o de Centro de Mediación o mecanismos alternativos para la solución de conflictos, que cumplan con los requisitos previstos en la Ley de la materia, y XI. Los demás a los que se les reconozca ese carácter por la Ley.
+
+X. Los convenios emanados del procedimiento de mediación o de Centro de Mediación o mecanismos alternativos para la solución de conflictos, que cumplan con los requisitos previstos en la Ley de la materia, y
+
+XI. Los demás a los que se les reconozca ese carácter por la Ley.
 
 ### Artículo 313
 . Los documentos públicos expedidos por Autoridades Federales, Locales, Municipales, Alcaldías o cualquier semejante, firmados en forma autógrafa o con la firma electrónica avanzada harán fe en las autoridades jurisdiccionales ante las que se presenten, sin necesidad de legalización.
@@ -1706,10 +2191,16 @@ En el caso de los documentos exhibidos en los escritos de desahogo de vista de e
 
 ### Artículo 331
 . Se considerarán indubitables para el cotejo:
+
 I. Los documentos físicos o electrónicos firmados de manera autógrafa o con firma electrónica avanzada que las partes, según el caso, de común acuerdo, reconozcan como tales;
+
 II. Los documentos privados físicos o electrónicos cuya letra o firma autógrafa o con firma electrónica avanzada hayan sido reconocidos en juicio por aquel a quien se atribuye la dudosa;
+
 III. Los documentos físicos o electrónicos cuya letra, firma autógrafa o con firma electrónica avanzada, o huella dactilar, haya sido judicialmente declarada propia de aquel a quien se atribuye la dudosa, exceptuándose el caso en que la declaración haya sido hecha en rebeldía;
-IV. El escrito impugnado, en la parte en que reconozca la letra como suya aquella parte a quien perjudique, y V. Las firmas o huellas digitales puestas en actuaciones judiciales, en presencia de la persona secretaria judicial, auxiliar o judicial de la autoridad jurisdiccional, por la parte cuya firma, letra o huella dactilar se trata de comprobar y las puestas ante cualquier otra persona funcionaria revestida de fe pública.
+
+IV. El escrito impugnado, en la parte en que reconozca la letra como suya aquella parte a quien perjudique, y
+
+V. Las firmas o huellas digitales puestas en actuaciones judiciales, en presencia de la persona secretaria judicial, auxiliar o judicial de la autoridad jurisdiccional, por la parte cuya firma, letra o huella dactilar se trata de comprobar y las puestas ante cualquier otra persona funcionaria revestida de fe pública.
 Sección Sexta De la Inspección o Reconocimiento Judicial
 
 ### Artículo 332
@@ -1719,11 +2210,18 @@ Cuando el reconocimiento a cargo de una persona verse sobre algún documento, de
 
 ### Artículo 333
 . La inspección o reconocimiento deberá cumplir con las siguientes reglas:
+
 I. Deberá desahogarse en la audiencia de juicio o, según las circunstancias, o bien, antes o después de la misma en cualquier diligencia, con día de diferencia máximo, a efecto de no afectar el principio de continuidad y concentración de la información que arroje;
+
 II. En el caso de haberse solicitado la elaboración de planos o toma de fotografías éstas deberán desahogarse necesariamente en audiencia de juicio por la parte interesada;
+
 III. Las partes, peritos o testigos podrán estar presentes en la inspección judicial, dejando razón de su asistencia. La autoridad jurisdiccional deberá estar presente, sin poder delegar su presencia, con el personal necesario para el desarrollo de la audiencia, en caso, contrario resultará nula la diligencia de pleno derecho;
+
 IV. De recibirse la inspección judicial en audiencia de juicio, la autoridad jurisdiccional decidirá el momento procesal para decretar el receso respectivo, definiendo las condiciones, tiempos, apercibimientos y demás medidas que considere pertinentes para llevar a cabo el desahogo y regresar a la sala de audiencias respectiva para la continuación de la audiencia, si fuera el caso;
-V. Con este fin, la audiencia iniciará en la sala de audiencias de la autoridad jurisdiccional respectiva, en la que, después de cumplir con las demás formalidades de la misma, se decretará el receso para trasladarse al lugar de la inspección y, posteriormente, al regreso, continuar con la audiencia respectiva de poderse celebrar el mismo día, en caso contrario, se podrá señalar nuevo día y hora para su continuación, y VI. En caso de no presentarse a la audiencia o diligencia la parte interesada, la prueba dejará de recibirse. Durante el desahogo de la inspección las partes, testigos o peritos, según el caso, podrán realizar las observaciones que consideren pertinentes, debiendo la autoridad jurisdiccional resolver en el acto lo que en derecho proceda, y la inspección judicial deberá videograbarse en su totalidad, sin incluir el traslado de personas; adicionándose, en su caso, los planos y fotografías respectivas. De no ser posible, se hará constar en cualquier medio a juicio de la autoridad jurisdiccional.
+
+V. Con este fin, la audiencia iniciará en la sala de audiencias de la autoridad jurisdiccional respectiva, en la que, después de cumplir con las demás formalidades de la misma, se decretará el receso para trasladarse al lugar de la inspección y, posteriormente, al regreso, continuar con la audiencia respectiva de poderse celebrar el mismo día, en caso contrario, se podrá señalar nuevo día y hora para su continuación, y
+
+VI. En caso de no presentarse a la audiencia o diligencia la parte interesada, la prueba dejará de recibirse. Durante el desahogo de la inspección las partes, testigos o peritos, según el caso, podrán realizar las observaciones que consideren pertinentes, debiendo la autoridad jurisdiccional resolver en el acto lo que en derecho proceda, y la inspección judicial deberá videograbarse en su totalidad, sin incluir el traslado de personas; adicionándose, en su caso, los planos y fotografías respectivas. De no ser posible, se hará constar en cualquier medio a juicio de la autoridad jurisdiccional.
 Sección Séptima De la Prueba de Informes
 
 ### Artículo 334
@@ -1807,8 +2305,11 @@ Del Juicio Oral Sumario
 
 ### Artículo 354
 . De reunirse los presupuestos procesales, en la misma comparecencia la autoridad jurisdiccional admitirá la demanda y ordenará emplazar a la parte demandada para una audiencia que se celebrará en un plazo no menor a cinco días contados a partir del emplazamiento, de conformidad con lo siguiente:
+
 I. La parte demandada dará respuesta a los hechos expuestos por su contraria y ofrecerá las pruebas que estime a su favor; en caso de documentos, deberá proporcionar copia de los mismos a la parte actora.
+
 II. La autoridad judicial podrá suspender la audiencia para, en sesión privada, intentar la solución del asunto a través de los medios alternativos, así como informar a las partes la posibilidad de acudir ante los centros de justicia alternativa, en los casos en que procedan dichos medios.
+
 III. La autoridad judicial admitirá a las partes las pruebas que estime pertinentes, según la naturaleza de los hechos controvertidos, y señalará día y hora para la audiencia de juicio.
 
 ### Artículo 355
@@ -1822,9 +2323,14 @@ III. La autoridad judicial admitirá a las partes las pruebas que estime pertine
 
 ### Artículo 358
 . En los casos de reconvención:
+
 I. La autoridad jurisdiccional admitirá la reconvención, de ser procedente;
+
 II. Ordenará emplazar al demandado reconvencional en ese mismo acto para otra audiencia que se celebrará en un plazo no menor a cinco días contados a partir de concluida la audiencia;
-III. El demandado de la reconvención dará respuesta a los hechos expuestos por su contraria y ofrecerá las pruebas que estime a su favor; en caso de documentos, deberá proporcionar copia de los mismos a la parte actora, y IV. Concluida la reconvención se estará a lo dispuesto por este Capítulo.
+
+III. El demandado de la reconvención dará respuesta a los hechos expuestos por su contraria y ofrecerá las pruebas que estime a su favor; en caso de documentos, deberá proporcionar copia de los mismos a la parte actora, y
+
+IV. Concluida la reconvención se estará a lo dispuesto por este Capítulo.
 
 ### Artículo 359
 . En la audiencia de juicio se recibirán las pruebas, conforme a las disposiciones de este Código Nacional.
@@ -1862,16 +2368,28 @@ De los Medios Preparatorios del Juicio en General Sección Primera Disposiciones
 
 ### Artículo 367
 . El juicio podrá prepararse:
+
 I. Pidiendo información a través de declaración o interrogatorio bajo protesta, a la persona que se pretenda demandar, acerca de un hecho relativo a su personalidad, negocios, la calidad de su posesión o tenencia de bienes;
+
 II. Pidiendo la exhibición del bien mueble que haya de ser objeto de la acción real que se trate de entablar;
+
 III. Pidiendo la persona legataria o cualquier otra que tenga el derecho de elegir uno o más bienes entre varios, su exhibición;
+
 IV. Pidiendo la persona que se crea heredera, o coheredera o legataria, la exhibición de un testamento;
+
 V. Pidiendo la persona compradora a la vendedora, o la vendedora a la compradora, en el caso de evicción, la exhibición de títulos u otros documentos que se refieran a los bienes vendidos;
+
 VI. Pidiendo a una persona socia o comunera la presentación de los documentos y cuentas de la sociedad o comunidad, a una persona socia o copropietaria que los tenga en su poder;
+
 VII. Pidiendo el examen de personas testigos, cuando se trate de personas mayores o se hallen en peligro inminente de perder la vida, o próximas a ausentarse a un lugar con el cual sean tardías o difíciles las comunicaciones y no pueda deducirse aún la acción, por depender su ejercicio de un plazo o de una condición que no se haya cumplido todavía;
+
 VIII. Pidiendo el examen de personas testigos para probar alguna excepción, siempre que la prueba sea indispensable y las personas testigos se hallen en alguno de los casos señalados en la fracción anterior;
+
 IX. Pidiendo el examen de personas testigos u otras declaraciones que se requieran en un procedimiento extranjero;
-X. Cuando pida la exhibición de un protocolo o de cualquier otro documento archivado, la diligencia se practicará en la oficina del Notario o Notaria Pública; del Corredor o Corredora Pública o en la oficina respectiva de conformidad con lo dispuesto por la legislación Local aplicable, sin que, en ningún caso, salgan de ellas los documentos originales, y XI. Pidiendo la exhibición de instrumentos o documentos relativos a la posesión, propiedad y tenencia de bienes muebles o inmuebles que se pretenda recuperar; así como de actos o hechos jurídicos que puedan ser materia de controversia.
+
+X. Cuando pida la exhibición de un protocolo o de cualquier otro documento archivado, la diligencia se practicará en la oficina del Notario o Notaria Pública; del Corredor o Corredora Pública o en la oficina respectiva de conformidad con lo dispuesto por la legislación Local aplicable, sin que, en ningún caso, salgan de ellas los documentos originales, y
+
+XI. Pidiendo la exhibición de instrumentos o documentos relativos a la posesión, propiedad y tenencia de bienes muebles o inmuebles que se pretenda recuperar; así como de actos o hechos jurídicos que puedan ser materia de controversia.
 La acción que pueda prepararse conforme a las fracciones I a III y XI, procede contra cualquier persona que tenga en su poder los bienes que en ellas se mencionan.
 
 ### Artículo 368
@@ -1882,11 +2400,18 @@ La acción que pueda prepararse conforme a las fracciones I a III y XI, procede 
 
 ### Artículo 370
 . Los medios preparatorios a juicio deberán solicitarse por escrito ante autoridad jurisdiccional competente y reunir al menos los siguientes requisitos:
+
 I. Nombre, domicilio y dirección electrónica de quien promueve, en su caso;
+
 II. El nombre y domicilio de las personas que deberán comparecer ante la autoridad jurisdiccional para rendir su declaración o exhibir los documentos o bienes solicitados;
+
 III. Señalar el objeto que se persigue con la práctica de las diligencias;
+
 IV. Señalar la acción, derecho o excepción que se pretenda ejercer u oponer;
-V. El ofrecimiento de los medios de prueba que estime para acreditar la pertinencia de la solicitud, y VI. La firma autógrafa o electrónica de quien promueve.
+
+V. El ofrecimiento de los medios de prueba que estime para acreditar la pertinencia de la solicitud, y
+
+VI. La firma autógrafa o electrónica de quien promueve.
 
 ### Artículo 371
 . La autoridad jurisdiccional podrá ordenar la práctica de diligencias que estime necesarias para cerciorarse sobre la personalidad y legitimación de quien solicita los medios preparatorios, así como de la necesidad o pertinencia de lo solicitado.
@@ -1916,9 +2441,14 @@ Sección Segunda De los Medios Preparatorios del Juicio Ejecutivo Civil
 
 ### Artículo 379
 . La solicitud deberá formularse por escrito ante la autoridad jurisdiccional competente y contendrá al menos lo siguiente:
+
 I. Nombre, domicilio y dirección electrónica de quien promueve;
+
 II. Nombre y domicilio de la persona presunta deudora;
-III. Los hechos en que funde su solicitud, y IV. La firma autógrafa o electrónica de quien promueve.
+
+III. Los hechos en que funde su solicitud, y
+
+IV. La firma autógrafa o electrónica de quien promueve.
 
 ### Artículo 380
 . Tratándose de reconocimiento de documento o firma, se deberá adjuntar el documento a reconocer.
@@ -1928,8 +2458,11 @@ III. Los hechos en que funde su solicitud, y IV. La firma autógrafa o electrón
 
 ### Artículo 382
 . Practicada la citación se llevará a cabo la audiencia de reconocimiento, misma que deberá desahogarse mediante su declaración y en su caso, con la exhibición del documento. En la audiencia de reconocimiento se observará lo siguiente:
+
 I. El interrogatorio que se le formule a la persona citada deberá estar destinado únicamente al objeto de la solicitud, sin introducir hechos ajenos al reconocimiento o declaración;
+
 II. La autoridad jurisdiccional calificará de oficio el interrogatorio y rechazará las que resulten impertinentes. Contra dicha resolución no procede recurso alguno;
+
 III. Se redactará acta que contenga el reconocimiento de lo solicitado, cuando así proceda.
 
 ### Artículo 383
@@ -2011,9 +2544,18 @@ De las Medidas Cautelares en Materia Civil Sección Primera De las Providencias 
 
 ### Artículo 404
 . Las providencias precautorias son las siguientes:
+
 I. Radicación de persona, cuando hubiere temor fundado de que se ausente u oculte la persona contra quien deba promoverse o se haya promovido una demanda. Dicha medida se reducirá a prevenir a la parte demandada que no se ausente del lugar del juicio sin dejar quien la represente legalmente, suficientemente instruida y expensada, para responder a las resultas del juicio. Quien quebrante la providencia de radicación de persona, será sancionado con la pena que señala el Código Penal respectivo por el delito de desobediencia a un mandato legítimo de la autoridad judicial, sin perjuicio de ser compelido por los medios de apremio que correspondan a volver al lugar del juicio. Quien ostente la representación legal y que se presente instruida y expensada, quedará obligada solidariamente con la persona deudora, respecto del contenido de la sentencia;
-II. Retención de bienes, en cualquiera de los siguientes casos: a) Cuando exista temor fundado de que los bienes que se hayan consignado como garantía o respecto de los cuales se vaya a ejercitar una acción real, se dispongan, oculten, dilapiden, enajenen o sean insuficientes, y b) Tratándose de acciones personales, siempre que la persona contra quien se pida no tuviere otros bienes que aquellos en que se ha de practicar la diligencia, y exista temor fundado de que los disponga, oculte, dilapide o enajene. En los supuestos a que se refiere esta fracción, si los bienes consisten en dinero en efectivo o en depósito en instituciones de crédito, u otros bienes fungibles, se presumirá, para los efectos de este artículo, el riesgo de que los mismos sean dispuestos, ocultados o dilapidados, salvo que el afectado con la medida garantice el monto del adeudo.
-III. Depósito o aseguramiento de las cosas, libros, documentos o papeles sobre que verse el litigio, cuando se demuestre la existencia de un temor fundado o el peligro de que las cosas, libros, documentos o papeles puedan ocultarse, perderse o alterarse, y IV. El aseguramiento de bienes y condiciones necesarias para conservar la causa de pedir y garantizar la ejecución efectiva de la sentencia, siempre y cuando las cosas se mantengan en el estado en que se encuentren a la fecha de notificación de la providencia, no se afecten el orden e interés público o de terceras personas, y no se constituyan derechos a favor de la promovente equivalentes a los que obtendría, en el caso de obtener sentencia definitiva favorable. Las disposiciones de las fracciones anteriores comprenden no sólo a la persona deudora, sino también a quienes tengan la calidad de socias y administradoras de bienes ajenos.
+
+II. Retención de bienes, en cualquiera de los siguientes casos:
+
+a) Cuando exista temor fundado de que los bienes que se hayan consignado como garantía o respecto de los cuales se vaya a ejercitar una acción real, se dispongan, oculten, dilapiden, enajenen o sean insuficientes, y
+
+b) Tratándose de acciones personales, siempre que la persona contra quien se pida no tuviere otros bienes que aquellos en que se ha de practicar la diligencia, y exista temor fundado de que los disponga, oculte, dilapide o enajene. En los supuestos a que se refiere esta fracción, si los bienes consisten en dinero en efectivo o en depósito en instituciones de crédito, u otros bienes fungibles, se presumirá, para los efectos de este artículo, el riesgo de que los mismos sean dispuestos, ocultados o dilapidados, salvo que el afectado con la medida garantice el monto del adeudo.
+
+III. Depósito o aseguramiento de las cosas, libros, documentos o papeles sobre que verse el litigio, cuando se demuestre la existencia de un temor fundado o el peligro de que las cosas, libros, documentos o papeles puedan ocultarse, perderse o alterarse, y
+
+IV. El aseguramiento de bienes y condiciones necesarias para conservar la causa de pedir y garantizar la ejecución efectiva de la sentencia, siempre y cuando las cosas se mantengan en el estado en que se encuentren a la fecha de notificación de la providencia, no se afecten el orden e interés público o de terceras personas, y no se constituyan derechos a favor de la promovente equivalentes a los que obtendría, en el caso de obtener sentencia definitiva favorable. Las disposiciones de las fracciones anteriores comprenden no sólo a la persona deudora, sino también a quienes tengan la calidad de socias y administradoras de bienes ajenos.
 
 ### Artículo 405
 . Las providencias precautorias establecidas por este Código Nacional podrán decretarse, tanto como actos prejudiciales, como después de iniciado el juicio respectivo.
@@ -2026,11 +2568,17 @@ Si se pide la radicación de persona, bastará la petición de la promovente y e
 
 ### Artículo 407
 . La autoridad jurisdiccional deberá decretar de plano la retención de bienes, cuando la persona que la pida cumpla con los siguientes requisitos:
+
 I. Pruebe la existencia de un crédito cierto, líquido y exigible a su favor;
+
 II. Exprese el valor de las prestaciones o el de la cosa que se reclama, designando ésta con toda precisión;
+
 III. Manifieste, bajo protesta de decir verdad, las razones por las cuales tenga temor fundado de que los bienes consignados como garantía o respecto de los cuales se vaya a ejercitar la acción real serán ocultados, dilapidados, dispuestos o enajenados. En caso de que dichos bienes sean insuficientes para garantizar el adeudo, deberá acreditarlo con el avalúo o las constancias respectivas;
+
 IV. Tratándose de acciones personales, manifieste bajo protesta de decir verdad que la persona deudora no tiene otros bienes conocidos que aquellos en que se ha de practicar la diligencia.
-Asimismo, deberá expresar las razones por las que exista temor fundado de que el deudor oculte, dilapide o enajene dichos bienes, salvo que se trate de dinero en efectivo o en depósito en instituciones de crédito, o de otros bienes fungibles. Tratándose de alimentos, bastará la protesta de decir verdad del acreedor de que la persona deudora ha dejado de suministrar alimentos por tres meses consecutivos o discontinuos, y V. Garantice los daños y perjuicios que pueda ocasionar la medida precautoria a la persona deudora, en el caso de que no se presente la demanda dentro del plazo previsto en este Código Nacional o bien porque promovida la demanda, sea absuelta su contraparte. El monto de la garantía deberá ser determinado por la autoridad jurisdiccional prudentemente, con base en la información que se le proporcione y cuidando que la misma sea asequible para quien la solicite. Salvo en asuntos que afecten derechos de familia, niñas, niños, adolescentes o mujeres que sufran cualquier tipo de violencia, en las que no será necesaria tal garantía.
+Asimismo, deberá expresar las razones por las que exista temor fundado de que el deudor oculte, dilapide o enajene dichos bienes, salvo que se trate de dinero en efectivo o en depósito en instituciones de crédito, o de otros bienes fungibles. Tratándose de alimentos, bastará la protesta de decir verdad del acreedor de que la persona deudora ha dejado de suministrar alimentos por tres meses consecutivos o discontinuos, y
+
+V. Garantice los daños y perjuicios que pueda ocasionar la medida precautoria a la persona deudora, en el caso de que no se presente la demanda dentro del plazo previsto en este Código Nacional o bien porque promovida la demanda, sea absuelta su contraparte. El monto de la garantía deberá ser determinado por la autoridad jurisdiccional prudentemente, con base en la información que se le proporcione y cuidando que la misma sea asequible para quien la solicite. Salvo en asuntos que afecten derechos de familia, niñas, niños, adolescentes o mujeres que sufran cualquier tipo de violencia, en las que no será necesaria tal garantía.
 
 ### Artículo 408
 . Si la parte demandada consigna el valor u objeto reclamado, si da fianza bastante a juicio de la autoridad jurisdiccional o prueba tener bienes inmuebles bastantes para responder del éxito de la demanda, comprometiéndose a no transmitirlos de ningún modo, no se llevará a cabo la providencia precautoria o se levantará la que se hubiere dictado.
@@ -2099,12 +2647,20 @@ A solicitud de parte legítima podrán practicarse en esta vía las notificacion
 
 ### Artículo 425
 . De manera enunciativa y no limitativa, podrá tramitarse la jurisdicción voluntaria en los siguientes casos:
+
 I. Para justificar algún hecho o acreditar un derecho;
+
 II. Cuando se pretenda justificar la posesión como medio para acreditar el dominio pleno de un inmueble o derecho real;
+
 III. La posesión o propiedad de vehículos automotores por medio de testigos, siempre que no cuenten con reporte de robo u otros ilícitos, así como se justifique su legal estancia en el país;
+
 IV. Cuando se trate de comprobar la posesión de un mueble o algún derecho real;
+
 V. Para acreditar hechos conocidos o acreditar situaciones jurídicas se podrá realizar la diligencia ante Notaria o Notario Público, de conformidad con lo dispuesto por la legislación aplicable;
-VI. Asimismo, se podrá realizar la diligencia ante Notaria o Notario Público, de conformidad con lo dispuesto por la legislación aplicable, en los casos del procedimiento de apeo y de deslinde, y VII. En cualquier otro que sólo tenga interés el promovente.
+
+VI. Asimismo, se podrá realizar la diligencia ante Notaria o Notario Público, de conformidad con lo dispuesto por la legislación aplicable, en los casos del procedimiento de apeo y de deslinde, y
+
+VII. En cualquier otro que sólo tenga interés el promovente.
 En los casos de las tres primeras fracciones, así como en aquellos que se afecte el interés público, estén involucrados derechos de niñas, niños y adolescentes o se trate de derechos o bienes de personas declaradas ausentes o desaparecidas, se dará vista al Ministerio Público o Representación Social para su intervención y solo se podrá celebrar ante autoridad jurisdiccional. Las practicadas por Notaria o Notario Público las realizarán conforme a la ley respectiva.
 En el caso de la fracción IV, con la quien sea titular de la propiedad o de los demás partícipes del derecho real.
 Tratándose de vehículos automotores se requerirá acreditar que no cuenta con reporte de robo o de algún otro ilícito, así como su legal estancia en el país.
@@ -2114,21 +2670,35 @@ Estos procedimientos se tramitarán por escrito, salvo que, atendiendo al caso e
 
 ### Artículo 426
 . La jurisdicción voluntaria deberá promoverse por escrito ante la autoridad jurisdiccional competente y reunir los siguientes requisitos:
+
 I. Nombre y domicilio de quien promueve;
+
 II. En su caso, nombre y domicilio de las personas que deban ser citadas;
+
 III. La providencia solicitada;
+
 IV. Los hechos que fundamenten la solicitud;
-V. Las pruebas que se ofrezcan, y VI. Firma de quien promueve.
+
+V. Las pruebas que se ofrezcan, y
+
+VI. Firma de quien promueve.
 
 ### Artículo 427
 . Si no se requiere la intervención de persona distinta al promovente, se observará lo siguiente:
+
 I. El promovente comparecerá ante la autoridad jurisdiccional y sin mayor formalidad expresará la causa que origina la necesidad de la intervención judicial;
-II. Si se requiere por la naturaleza de lo solicitado, el promovente ofrecerá las informaciones, dictámenes o pruebas necesarias para que la autoridad jurisdiccional gestione la solicitud y emita la providencia respectiva, y III. Si la autoridad jurisdiccional admite la solicitud, en la misma audiencia recibirá las informaciones, dictámenes o pruebas ofrecidas y emitirá, en su caso, la providencia respectiva. Si se le solicita, la documentará en tres días.
+
+II. Si se requiere por la naturaleza de lo solicitado, el promovente ofrecerá las informaciones, dictámenes o pruebas necesarias para que la autoridad jurisdiccional gestione la solicitud y emita la providencia respectiva, y
+
+III. Si la autoridad jurisdiccional admite la solicitud, en la misma audiencia recibirá las informaciones, dictámenes o pruebas ofrecidas y emitirá, en su caso, la providencia respectiva. Si se le solicita, la documentará en tres días.
 
 ### Artículo 428
 . Si se requiere la intervención de persona distinta al promovente, se observará lo siguiente:
+
 I. El promovente comparecerá ante la autoridad jurisdiccional, y sin mayor formalidad expresará la causa que origina la necesidad de la intervención judicial. Además, señalará el nombre y domicilio de las personas que tengan interés;
+
 II. El promovente ofrecerá cuando así se requiera, las pruebas que sustenten la petición;
+
 III. Se emplazará a las personas que tengan interés para una audiencia que se verificará en el término de tres días, en que expresen lo que a su interés convenga. En esa audiencia se desahogarán las pruebas de las partes y en seguida se emitirá la sentencia respectiva.
 
 ### Artículo 429
@@ -2169,18 +2739,31 @@ Sección Segunda Del Apeo y Deslinde
 
 ### Artículo 440
 . Tiene derecho para promover el apeo:
+
 I. Quien ostente la calidad de propietaria;
+
 II. Quien posea con título bastante para transferir el dominio;
+
 III. Quien sea titular del derecho para usufructuar el bien;
-IV. El apeo o deslinde de un fundo de propiedad nacional, estatal o municipal sólo podrá practicarse a petición de la autoridad administrativa correspondiente, y V. Los particulares pueden también pedir el apeo, para deslindar su fundo respecto de otro con carácter público. En este caso, la diligencia se limitará a marcar los linderos entre ambos fundos.
+
+IV. El apeo o deslinde de un fundo de propiedad nacional, estatal o municipal sólo podrá practicarse a petición de la autoridad administrativa correspondiente, y
+
+V. Los particulares pueden también pedir el apeo, para deslindar su fundo respecto de otro con carácter público. En este caso, la diligencia se limitará a marcar los linderos entre ambos fundos.
 
 ### Artículo 441
 . La petición de apeo debe contener:
+
 I. El nombre y ubicación de la finca que debe deslindarse;
+
 II. La parte o partes en que el acto debe ejecutarse;
+
 III. Los nombres de las personas colindantes que puedan tener interés en el apeo, así como de las autoridades que puedan tener injerencia en el asunto;
+
 IV. El sitio donde están y dónde deben colocarse las señales y si éstas no existen, el lugar donde estuvieron;
-V. Los planos y demás documentos que vengan a servir para la diligencia, y designación de perito por parte de la promovente, y VI. La designación de un perito para que intervenga en el reconocimiento.
+
+V. Los planos y demás documentos que vengan a servir para la diligencia, y designación de perito por parte de la promovente, y
+
+VI. La designación de un perito para que intervenga en el reconocimiento.
 Si el apeo se tramita ante Notaria o Notario Público, además de acreditarse la propiedad o titularidad del bien a deslindar, se deberá acreditar la propiedad o titularidad de los colindantes, salvo que el predio colinde con predio o bienes destinados a servicios públicos o de propiedad municipal, estatal o federal.
 Asimismo, cuando el trámite se realice por Notaria o Notario Público, la solicitud deberá ser suscrita además por los colindantes del predio a deslindar y deberá contener señalados el día, hora y lugar para que dé principio la diligencia de deslinde.
 
@@ -2190,10 +2773,16 @@ Si fuere necesario identificar alguno o algunos de los puntos de deslinde, quien
 
 ### Artículo 443
 . El día y hora señalados para que se celebre la diligencia de deslinde, la autoridad jurisdiccional, acompañada de la persona secretaria judicial, así como peritos, testigos de identificación y personas autorizadas en el proceso que asistan al lugar designado para dar principio a la diligencia, conforme a lo siguiente:
+
 I. Practicará el apeo y deslinde, asentándose acta en que constarán todas las observaciones que hicieren las personas interesadas;
+
 II. La diligencia no se suspenderá por virtud de las observaciones, sino en el caso de que se presente en el acto un documento debidamente registrado que acredite es de su propiedad el fundo que se trata de deslindar;
+
 III. La autoridad jurisdiccional, al ir demarcando los límites del fundo deslindado, otorgará posesión a la promovente de las diligencias respecto de la propiedad que quede comprendida dentro de ellos, si quien sea colindante se opusiera, o mandará que se le mantenga en la que esté disfrutando;
-IV. Si existe oposición de colindantes respecto a un punto determinado, por considerar que conforme a sus títulos quede comprendido dentro de los límites de su propiedad, la autoridad jurisdiccional oirá a los testigos de identificación y a los peritos, e invitará a los interesados a que se pongan de acuerdo. Si esto se lograre, se hará constar y se otorgará la posesión según su sentido. Si no se lograre, se abstendrá la autoridad jurisdiccional de hacer declaración alguna en cuanto a la posesión, respetando en ella a quien la disfrute, y mandará reservar sus derechos a quienes tengan interés para que los hagan valer en el juicio correspondiente mediante la resolución correspondiente que se dictare en el plazo de cinco días, y V. La autoridad jurisdiccional mandará que se fijen las señales convenientes en los puntos deslindados, las que quedarán como límites legales. Los puntos respecto a los cuales hubiere oposición no quedarán deslindados ni se fijará en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente.
+
+IV. Si existe oposición de colindantes respecto a un punto determinado, por considerar que conforme a sus títulos quede comprendido dentro de los límites de su propiedad, la autoridad jurisdiccional oirá a los testigos de identificación y a los peritos, e invitará a los interesados a que se pongan de acuerdo. Si esto se lograre, se hará constar y se otorgará la posesión según su sentido. Si no se lograre, se abstendrá la autoridad jurisdiccional de hacer declaración alguna en cuanto a la posesión, respetando en ella a quien la disfrute, y mandará reservar sus derechos a quienes tengan interés para que los hagan valer en el juicio correspondiente mediante la resolución correspondiente que se dictare en el plazo de cinco días, y
+
+V. La autoridad jurisdiccional mandará que se fijen las señales convenientes en los puntos deslindados, las que quedarán como límites legales. Los puntos respecto a los cuales hubiere oposición no quedarán deslindados ni se fijará en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente.
 Al realizarse la diligencia por Notaria o Notario Público, éste deberá levantar acta en la que haga constar y certifique los hechos ocurridos durante la diligencia, misma que deberá protocolizar en escritura pública, junto con la solicitud y demás documentos que le hayan sido presentados para la realización de la diligencia, en los términos de la Ley del Notariado de cada Entidad Federativa.
 
 ### Artículo 444
@@ -2215,8 +2804,12 @@ El procedimiento para la designación extraordinaria de apoyos se llevará a cab
 
 ### Artículo 448
 . Cualquier persona podrá solicitar la designación judicial extraordinaria de apoyo; corresponderá a la autoridad jurisdiccional allegarse de la información necesaria con base en:
+
 I. La imposibilidad de conocer la voluntad, preferencias, medio, modo y formato de comunicación;
-II. El riesgo para la salvaguarda de los derechos, el patrimonio, la integridad personal o la vida, y III. La realización de esfuerzos reales, considerables y pertinentes, incluyendo la implementación de ajustes razonables, para que la persona manifestara su voluntad y preferencias, sin que éstos resultaran eficaces.
+
+II. El riesgo para la salvaguarda de los derechos, el patrimonio, la integridad personal o la vida, y
+
+III. La realización de esfuerzos reales, considerables y pertinentes, incluyendo la implementación de ajustes razonables, para que la persona manifestara su voluntad y preferencias, sin que éstos resultaran eficaces.
 
 ### Artículo 449
 . La autoridad jurisdiccional de manera fundada y motivada, determinará en la resolución la temporalidad, alcances y responsabilidades de la persona designada como apoyo, así como las salvaguardias e informes a la autoridad administrativa competente, que en su caso procedan. La designación judicial de apoyo no puede otorgarse para actos personalísimos.
@@ -2250,10 +2843,16 @@ De los Juicios Orales Civiles Sección Primera Del Juicio Ordinario Civil Oral
 
 ### Artículo 457
 . Atendiendo a lo establecido en el artículo 251, se desarrollará la audiencia preliminar con las siguientes etapas:
+
 I. Depuración del procedimiento;
+
 II. Conciliación de las partes y en su caso, invitación a la mediación ante los Centros Alternativos de Justicia del Poder Judicial respectivo;
+
 III. Depuración del debate;
-IV. Calificación sobre admisibilidad o desechamiento de pruebas, y V. Citación para audiencia de juicio.
+
+IV. Calificación sobre admisibilidad o desechamiento de pruebas, y
+
+V. Citación para audiencia de juicio.
 Las partes podrán solicitar a la autoridad jurisdiccional, de manera verbal, en las audiencias, que se subsanen las omisiones o irregularidades de debido proceso, que se llegasen a presentar en la substanciación del procedimiento oral, para el solo efecto de regularizar el mismo.
 
 ### Artículo 458
@@ -2316,14 +2915,24 @@ Sección Segunda Del Juicio Ejecutivo Civil Oral
 ### Artículo 470
 . Procede el juicio ejecutivo en los casos que un documento lleve aparejada ejecución y que contenga obligación cierta, líquida y exigible.
 Traen aparejada ejecución:
+
 I. Los instrumentos públicos, así como los testimonios que de los mismos expidan las y los Corredores Públicos, las y los Notarios Públicos, o la autoridad competente para emitir dichos testimonios;
+
 II. Las ulteriores copias dadas por mandato judicial, con citación de la persona a quien interesa;
+
 III. Los demás instrumentos públicos que conforme a este Código Nacional hacen prueba plena;
+
 IV. Cualquier documento privado después de reconocido por la persona quien lo hizo o lo mandó extender; basta con que se reconozca la firma aun cuando se niegue la deuda;
+
 V. La confesión de la deuda hecha ante la autoridad jurisdiccional competente por la persona deudora;
+
 VI. Los convenios celebrados en el curso de un juicio ante la autoridad jurisdiccional, ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadoras, depositarias, o en cualquier otra forma;
+
 VII. El estado de liquidación de adeudos por cuotas ordinarias o extraordinarias, intereses moratorios o penas convencionales que se hayan aprobado en la Asamblea General de Condóminos; suscrito por quien tenga a su cargo la Administración o el Comité de Vigilancia o su equivalente, conforme a lo dispuesto en la ley de la materia de cada Entidad Federativa;
-VIII. Los convenios emanados del procedimiento de mediación o conciliación que cumplan con los requisitos previstos en la Ley de mecanismos alternativos de solución de controversias o de justicia alternativa respectiva, y IX. Los demás a los que se les reconozca ese carácter por la Ley.
+
+VIII. Los convenios emanados del procedimiento de mediación o conciliación que cumplan con los requisitos previstos en la Ley de mecanismos alternativos de solución de controversias o de justicia alternativa respectiva, y
+
+IX. Los demás a los que se les reconozca ese carácter por la Ley.
 
 ### Artículo 471
 . Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, así como los celebrados ante la Procuraduría Social o Institución autorizada de la Entidad Federativa correspondiente, los convenios emanados del procedimiento de mediación o conciliación, incluidos los de mediación comunitaria de cada Estado, que cumplan con los requisitos previstos en la Ley de Justicia Alternativa o la legislación respectiva que señale la autoridad jurisdiccional o Poder Judicial de las diversas entidades, los convenios celebrados ante Juzgado Cívico o su análogo tratándose de daños culposos causados con motivo del tránsito de vehículos, los convenios de transacción, los laudos que emitan las propias Procuradurías antes mencionadas y los laudos arbitrales o juicios de contadores, motivarán ejecución, si la persona interesada no intentare la vía de apremio.
@@ -2343,14 +2952,23 @@ Si la confesión sólo afecta a una parte de lo demandado en el juicio oral civi
 
 ### Artículo 476
 . Si el documento ejecutivo contiene obligación de hacer o no hacer, se observarán las reglas siguientes:
+
 I. Si la parte actora exige la prestación del hecho por quien está obligada o por una tercera persona conforme al Código Civil de cada Entidad Federativa en relación al cumplimiento de la prestación de servicio, la tercera persona, atendidas las circunstancias del hecho, señalará un término prudente para que se cumpla la obligación;
+
 II. Si en el contrato se estableció alguna pena por el incumplimiento, se decretará la ejecución;
-III. Si no se fijó penalidad por el incumplimiento de la obligación, el importe de los daños y perjuicios será fijado por la parte actora, cuando la misma optare por el resarcimiento de daños y perjuicios; en este caso, la autoridad jurisdiccional debe moderar prudentemente la cantidad señalada, y IV. Hecho el acto por la tercera persona, o efectuado el embargo por los daños y perjuicios o la pena, puede oponerse la demandada, de la misma manera que en las demás ejecuciones.
+
+III. Si no se fijó penalidad por el incumplimiento de la obligación, el importe de los daños y perjuicios será fijado por la parte actora, cuando la misma optare por el resarcimiento de daños y perjuicios; en este caso, la autoridad jurisdiccional debe moderar prudentemente la cantidad señalada, y
+
+IV. Hecho el acto por la tercera persona, o efectuado el embargo por los daños y perjuicios o la pena, puede oponerse la demandada, de la misma manera que en las demás ejecuciones.
 
 ### Artículo 477
 . Cuando el documento contenga la obligación de entregar bienes muebles que sin ser dinero se cuentan por número, peso o medida, o inmuebles se observará lo siguiente:
+
 I. Si no se designa la calidad de los bienes y existieren de varias clases en poder de la parte deudora, se embargarán las de mediana calidad;
-II. Si hubiere sólo calidades diferentes a la estipulada, se embargarán si así lo pidiere la parte actora, sin perjuicio de que en la sentencia definitiva se hagan los abonos recíprocos correspondientes, y III. Si no hubiere en poder de la parte demandada ninguna calidad, se despachará ejecución por la cantidad de dinero que señale la actora, debiendo prudentemente moderarla la autoridad jurisdiccional, de acuerdo con los precios corrientes en plaza, sin perjuicio de lo que señale por daños y perjuicios, moderables también.
+
+II. Si hubiere sólo calidades diferentes a la estipulada, se embargarán si así lo pidiere la parte actora, sin perjuicio de que en la sentencia definitiva se hagan los abonos recíprocos correspondientes, y
+
+III. Si no hubiere en poder de la parte demandada ninguna calidad, se despachará ejecución por la cantidad de dinero que señale la actora, debiendo prudentemente moderarla la autoridad jurisdiccional, de acuerdo con los precios corrientes en plaza, sin perjuicio de lo que señale por daños y perjuicios, moderables también.
 
 ### Artículo 478
 . Cuando la acción ejecutiva se ejercite sobre bien mueble o inmueble, cierto y determinado o en especie, o se haya establecido una condición resolutoria ante el incumplimiento de una obligación de dar, si hecho el requerimiento de entrega o devolución la persona demandada no la hace, se pondrá en secuestro judicial.
@@ -2358,7 +2976,10 @@ Si la cosa, bien mueble o inmueble ya no existe, se embargarán bienes suficient
 
 ### Artículo 479
 . Si el bien mueble o inmueble especificado se halla en poder de una tercera persona, la acción ejecutiva no podrá ejercitarse contra éste, sino en los casos siguientes:
-I. Cuando la acción sea real, y II. Cuando se haya declarado judicialmente que la enajenación por la que adquirió la tercera persona fue realizada por la persona deudora en perjuicio de su acreedor, en los casos y supuestos que señala el Código Civil respectivo y los demás preceptos, en que expresamente se establezca esa responsabilidad.
+
+I. Cuando la acción sea real, y
+
+II. Cuando se haya declarado judicialmente que la enajenación por la que adquirió la tercera persona fue realizada por la persona deudora en perjuicio de su acreedor, en los casos y supuestos que señala el Código Civil respectivo y los demás preceptos, en que expresamente se establezca esa responsabilidad.
 
 ### Artículo 480
 . En el auto de admisión se mandará emplazar a la persona deudora conforme lo regula el presente Código Nacional, para que dentro de nueve días concurra a oponerse a su ejecución, si para ello tuviere excepciones que hacer valer y se dictará auto de ejecución, ordenando que se requiera de pago a la persona deudora y de no pagar se le embarguen bienes suficientes para garantizar la deuda de forma precautoria.
@@ -2402,9 +3023,14 @@ Al juicio pueden venir uno o más terceros, siempre que tengan interés propio y
 
 ### Artículo 490
 . Quien promueva tercería coadyuvante se considera asociado con la parte cuyo derecho coadyuva y, en consecuencia, podrán:
+
 I. Salir al pleito en cualquier estado en que se encuentre, con tal que no se haya pronunciado sentencia definitiva;
+
 II. Hacer las gestiones que estimen oportunas dentro del juicio, deduciendo la misma acción u oponiendo la misma excepción que la persona actora o la demandada, respectivamente y no hubiere designado representación común;
-III. Continuar su acción y defensa, aun cuando el principal desistiere, y IV. Apelar e interponer los recursos procedentes.
+
+III. Continuar su acción y defensa, aun cuando el principal desistiere, y
+
+IV. Apelar e interponer los recursos procedentes.
 
 ### Artículo 491
 . Se correrá traslado a la parte actora y demandada en el principal con la promoción de la tercería coadyuvante, para que contesten en el plazo de nueve días; con el escrito de contestación a la demanda se dará vista a la tercerista para que dentro del término de tres días manifieste lo que a su derecho convenga. En los escritos citados se deberán ofrecer las pruebas, las cuales se admitirán conforme a las reglas generales de este Código Nacional.
@@ -2423,9 +3049,14 @@ La demanda de tercería deberá cumplir con lo previsto por el artículo 235 de 
 
 ### Artículo 495
 . No ocurrirán en tercerías de preferencia:
+
 I. La persona acreedora que tenga hipoteca u otro derecho real accesorio en finca distinta de la embargada;
+
 II. La persona acreedora que sin tener derecho real no haya embargado el bien objeto de la ejecución;
-III. La persona acreedora a quien la persona deudora señale bienes bastantes a solventar el crédito, y IV. La persona acreedora a quien la Ley lo prohíba en otros casos.
+
+III. La persona acreedora a quien la persona deudora señale bienes bastantes a solventar el crédito, y
+
+IV. La persona acreedora a quien la Ley lo prohíba en otros casos.
 
 ### Artículo 496
 . La tercería excluyente de crédito hipotecario tiene derecho de pedir que se inscriba su demanda a su costa.
@@ -2469,20 +3100,35 @@ Para que el juicio que tenga por objeto el pago o la prelación de un crédito h
 
 ### Artículo 507
 . Procederá el juicio hipotecario oral que tiene por objeto el pago o la prelación de crédito sin necesidad de que el contrato esté inscrito en el Registro, Oficina o Instituto Público respectivo, cuando:
+
 I. El documento base de la acción tenga carácter de título ejecutivo;
-II. El bien se encuentre inscrito a favor de la persona demandada, y III. No exista embargo o gravamen en favor de terceras personas, inscrito cuando menos noventa días anteriores a la de la presentación de la demanda.
+
+II. El bien se encuentre inscrito a favor de la persona demandada, y
+
+III. No exista embargo o gravamen en favor de terceras personas, inscrito cuando menos noventa días anteriores a la de la presentación de la demanda.
 
 ### Artículo 508
 . Presentado el escrito de demanda, acompañado del documento base de la acción, la autoridad jurisdiccional si encuentra que se reúnen los requisitos fijados por los artículos anteriores, admitirá la misma y mandará anotar la demanda en el Registro, Oficina o Instituto Público respectivo y que se corra traslado de ésta a la persona deudora y, en su caso, a quien sea titular registral del embargo o gravamen por plazo inferior a que se refiere la fracción III, del artículo anterior, para que dentro del término de quince días ocurra a contestarla y a oponer las excepciones que no podrán ser otras que:
+
 I. Las procesales previstas en este Código Nacional;
+
 II. Las fundadas en que la persona demandada no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
+
 III. Falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación de la demandada el documento base de la acción;
+
 IV. Nulidad del contrato;
+
 V. Pago o compensación;
+
 VI. Remisión o quita;
+
 VII. Oferta de no cobrar o espera;
+
 VIII. Novación de contrato;
-IX. Prescripción, y X. Las demás que autoricen las leyes.
+
+IX. Prescripción, y
+
+X. Las demás que autoricen las leyes.
 Las excepciones comprendidas en las fracciones de la V a la VIII sólo se admitirán cuando se funden en prueba documental. Respecto de las excepciones de litispendencia y conexidad sólo se admitirán si se exhiben con la contestación las copias selladas de la demanda y contestación o de las cédulas del emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite que se encuentra tramitando un procedimiento arbitral con las excepciones y defensas se dará vista a la parte actora para que manifieste en el plazo de tres días lo que a su derecho corresponda.
 
 ### Artículo 509
@@ -2566,17 +3212,49 @@ Sección Sexta Del Procedimiento Especial de Inmatriculación Judicial Oral
 
 ### Artículo 530
 . El procedimiento especial oral de inmatriculación judicial de inmuebles, sin perjuicio de lo dispuesto en los Códigos Civiles respectivos, se substanciará conforme a lo siguiente:
-I. Se presentará una solicitud que deberá de contener: a) El origen de la posesión; b) En su caso, el nombre de la persona de quien obtuvo la posesión el peticionario; c) El nombre y domicilio del causahabiente de aquélla si fuere conocido; d) La ubicación precisa del bien y sus medidas y colindancias; e) El nombre y domicilio de las personas colindantes, y f) El nombre de tres testigos, preferentemente colindantes del inmueble a inmatricular o, en su caso, que vivan o habiten cerca del lugar de ubicación del fundo en cuestión.
-II. Se acompañará a la solicitud: a) Un plano descriptivo de la ubicación del inmueble; b) Un plano catastral del inmueble autorizado por el órgano de recaudación correspondiente, con una vigencia no mayor a seis meses, y c) Un certificado de no inscripción del inmueble expedido por el Registro de la Propiedad, Oficina Registral o cualquier Institución análoga según la Entidad Federativa de que se trate. En el escrito en que se solicite dicho certificado, se deberán proporcionar los datos que identifiquen con precisión el fundo y manifestar que el certificado será exhibido en el procedimiento judicial de inmatriculación.
-III. Admitida la solicitud, se ordenará la publicación por edictos en el medio de comunicación procesal oficial y en un periódico de mayor circulación en la Entidad Federativa donde se ubique el bien inmueble, por una sola ocasión, para que comparezcan al procedimiento las personas que se pudieren considerar perjudicadas, en los siguientes medios: a) En el medio de comunicación procesal oficial de la autoridad jurisdiccional, y b) En un periódico de los de mayor circulación en el lugar del inmueble.
+
+I. Se presentará una solicitud que deberá de contener:
+
+a) El origen de la posesión;
+
+b) En su caso, el nombre de la persona de quien obtuvo la posesión el peticionario;
+
+c) El nombre y domicilio del causahabiente de aquélla si fuere conocido;
+
+d) La ubicación precisa del bien y sus medidas y colindancias;
+
+e) El nombre y domicilio de las personas colindantes, y
+
+f) El nombre de tres testigos, preferentemente colindantes del inmueble a inmatricular o, en su caso, que vivan o habiten cerca del lugar de ubicación del fundo en cuestión.
+
+II. Se acompañará a la solicitud:
+
+a) Un plano descriptivo de la ubicación del inmueble;
+
+b) Un plano catastral del inmueble autorizado por el órgano de recaudación correspondiente, con una vigencia no mayor a seis meses, y
+
+c) Un certificado de no inscripción del inmueble expedido por el Registro de la Propiedad, Oficina Registral o cualquier Institución análoga según la Entidad Federativa de que se trate. En el escrito en que se solicite dicho certificado, se deberán proporcionar los datos que identifiquen con precisión el fundo y manifestar que el certificado será exhibido en el procedimiento judicial de inmatriculación.
+
+III. Admitida la solicitud, se ordenará la publicación por edictos en el medio de comunicación procesal oficial y en un periódico de mayor circulación en la Entidad Federativa donde se ubique el bien inmueble, por una sola ocasión, para que comparezcan al procedimiento las personas que se pudieren considerar perjudicadas, en los siguientes medios:
+
+a) En el medio de comunicación procesal oficial de la autoridad jurisdiccional, y
+
+b) En un periódico de los de mayor circulación en el lugar del inmueble.
+
 IV. Se deberá fijar un anuncio de proporciones visibles en la parte externa del inmueble en cuestión, a través del cual se informe a las personas que puedan considerarse perjudicadas, a las y los vecinos, así como al público en general, la existencia del procedimiento de inmatriculación judicial respecto a ese inmueble. El anuncio deberá contener el nombre de la promovente y permanecer en el inmueble durante todo el trámite judicial.
 
 ### Artículo 531
 . Realizadas las publicaciones y fijado el anuncio, se correrá traslado de la solicitud, para que contesten si existe oposición al procedimiento, dentro del término de quince días, las siguientes personas:
+
 I. Aquella de quien obtuviera la posesión de quien promueve o su causahabiente si fuere conocido;
+
 II. El Ministerio Público de la Entidad Federativa o la Federación;
+
 III. Las personas colindantes del inmueble;
-IV. El Instituto de Administración y Avalúos de Bienes Nacionales o dependencia de gobierno similar en las entidades, para que exprese si el fundo es o no de propiedad Federal o Estatal, y V. A criterio de la autoridad jurisdiccional, el Registro Agrario Nacional.
+
+IV. El Instituto de Administración y Avalúos de Bienes Nacionales o dependencia de gobierno similar en las entidades, para que exprese si el fundo es o no de propiedad Federal o Estatal, y
+
+V. A criterio de la autoridad jurisdiccional, el Registro Agrario Nacional.
 
 ### Artículo 532
 . Producida la contestación y desahogadas las excepciones y defensas, en dichos escritos se ofrecerán las pruebas objeto de debate y se procederá a señalar la fecha y hora para celebración de la audiencia de juicio. En todo lo no previsto se estará a las disposiciones del juicio ordinario civil oral.
@@ -2613,10 +3291,16 @@ Las personas tutoras no pueden comprometer los negocios de personas sobre quiene
 
 ### Artículo 540
 . No se pueden comprometer en árbitros los siguientes negocios:
+
 I. El derecho de recibir alimentos, lo concerniente al régimen de convivencia, guarda y custodia y demás derechos de niñas, niños y adolescentes;
+
 II. Los divorcios, excepto la separación de bienes, la liquidación y disolución de la sociedad conyugal y las demás diferencias de naturaleza pecuniarias;
+
 III. Las acciones de nulidad de matrimonio;
-IV. Los concernientes al estado civil de las personas, con las excepciones contenidas en el Código Civil o Familiar de cada Entidad Federativa que así lo determine, y V. Los demás en los que lo prohíba expresamente la Ley.
+
+IV. Los concernientes al estado civil de las personas, con las excepciones contenidas en el Código Civil o Familiar de cada Entidad Federativa que así lo determine, y
+
+V. Los demás en los que lo prohíba expresamente la Ley.
 
 ### Artículo 541
 . La persona a quien se comunique su posible nombramiento como árbitro, deberá estar libre de conflicto de intereses con cualquiera de las partes, así mismo, será su obligación revelar todas las circunstancias que puedan dar lugar a dudas justificadas acerca de su imparcialidad o independencia.
@@ -2634,7 +3318,10 @@ Esta facultad conferida incluye de manera enunciativa, determinar la admisibilid
 ### Artículo 543
 . El acuerdo de arbitraje produce las excepciones de remisión al arbitraje y litispendencia, si durante el procedimiento se promueve el negocio en un órgano jurisdiccional ordinario.
 La excepción de remisión al arbitraje debe tramitarse en la vía incidental. Sólo se denegará la remisión al arbitraje:
-I. Si en el desahogo de la vista dada con la excepción de remisión al arbitraje se demuestra por medio de resolución firme, sea en forma de sentencia o laudo arbitral, que se declaró la nulidad del acuerdo de arbitraje, o II. Si la nulidad, la ineficacia o la imposible ejecución del acuerdo de arbitraje son notorias desde el desahogo de la vista dada con la solicitud de remisión al arbitraje. Al tomar esta determinación la autoridad jurisdiccional deberá observar un criterio estricto y razonable.
+
+I. Si en el desahogo de la vista dada con la excepción de remisión al arbitraje se demuestra por medio de resolución firme, sea en forma de sentencia o laudo arbitral, que se declaró la nulidad del acuerdo de arbitraje, o
+
+II. Si la nulidad, la ineficacia o la imposible ejecución del acuerdo de arbitraje son notorias desde el desahogo de la vista dada con la solicitud de remisión al arbitraje. Al tomar esta determinación la autoridad jurisdiccional deberá observar un criterio estricto y razonable.
 
 ### Artículo 544
 . El tribunal arbitral resolverá la controversia según las normas de derecho que las partes hayan convenido. Si las partes no indicaren la Ley que debe regir el fondo del litigio, el tribunal arbitral, tomando en cuenta las características y conexiones del caso, determinará el derecho aplicable. Decidirá como amigable componedor o en conciencia, sólo si las partes lo han autorizado expresamente para hacerlo.
@@ -2656,10 +3343,16 @@ De la Ejecución de Laudos
 
 ### Artículo 549
 . Contra el laudo arbitral no procede recurso alguno. Contra la ejecución sólo serán posibles las siguientes excepciones que deberá probar la parte contra la cual se invoca el laudo:
+
 I. Una de las partes en el acuerdo de arbitraje estaba afectada por alguna incapacidad jurídica, o que dicho acuerdo no es válido en virtud de la Ley a que las partes lo han sometido, o si nada se hubiere indicado a este respecto, en virtud de las disposiciones de este Código Nacional;
+
 II. No fue debidamente notificada de la designación del árbitro o de las actuaciones arbitrales, o no hubiere podido, por cualquier otra razón ajena al ejecutado, hacer valer sus derechos;
+
 III. El laudo se refiere a una controversia no prevista en el acuerdo de arbitraje o contiene decisiones que exceden los términos del acuerdo de arbitraje. No obstante, si las disposiciones del laudo que se refieren a las cuestiones sometidas al arbitraje pueden separarse de las que no lo están, se podrá dar reconocimiento y ejecución a las primeras;
-IV. La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron al acuerdo celebrado entre las partes o, en defecto de tal acuerdo, que no se ajustaron a la Ley del país donde se efectuó el arbitraje, o V. El laudo no sea aún obligatorio para las partes o hubiere sido anulado o suspendido por la autoridad jurisdiccional del país en que, o conforme a cuyo derecho, hubiere sido dictado ese laudo.
+
+IV. La composición del tribunal arbitral o el procedimiento arbitral no se ajustaron al acuerdo celebrado entre las partes o, en defecto de tal acuerdo, que no se ajustaron a la Ley del país donde se efectuó el arbitraje, o
+
+V. El laudo no sea aún obligatorio para las partes o hubiere sido anulado o suspendido por la autoridad jurisdiccional del país en que, o conforme a cuyo derecho, hubiere sido dictado ese laudo.
 En todos los casos, la autoridad jurisdiccional verificará de oficio que, el objeto de la controversia que se pretende ejecutar sea susceptible de arbitraje; o que el reconocimiento o la ejecución del laudo no sean contrarios al orden público.
 Libro Cuarto De la Justicia Familiar Título Primero Disposiciones Comunes a los Procedimientos Familiares
 
@@ -2669,11 +3362,18 @@ Disposiciones Generales en Materia Familiar Sección Primera Generalidades
 ### Artículo 550
 . Los procedimientos en materia familiar son de orden público; corresponde a las autoridades jurisdiccionales intervenir de oficio en los asuntos que afecten los derechos de las personas que pertenezcan a grupos sociales que se encuentren en situación de vulnerabilidad.
 En todos los casos la autoridad jurisdiccional deberá:
+
 I. Fundar y motivar sus resoluciones, de modo que estas se deduzcan lógicamente de los hechos, pruebas y leyes que les sirvan de antecedentes;
+
 II. Procurar la preservación de los vínculos familiares, sin que ello implique una vulneración a los derechos de las personas involucradas en la controversia; para dichos efectos, también deberá de informar a las partes los beneficios del Procedimiento de Justicia Restaurativa;
+
 III. Informar de los derechos que le asisten a la persona en su primera comparecencia ante la autoridad jurisdiccional;
+
 IV. Valorar que los acuerdos propuestos por las partes no afectan derechos irrenunciables o propicien una segunda victimización;
-V. Suplir la deficiencia procesal, y VI. Solicitar la intervención del Ministerio Público o representación social que corresponda.
+
+V. Suplir la deficiencia procesal, y
+
+VI. Solicitar la intervención del Ministerio Público o representación social que corresponda.
 La solicitud para la intervención de la autoridad jurisdiccional podrá ser oral y sólo cuando así se prevenga los escritos, promociones y peticiones deberán reunir los requisitos mínimos exigidos por este Código Nacional.
 
 ### Artículo 551
@@ -2699,21 +3399,35 @@ Artículo reformado DOF 16-12-2024
 
 ### Artículo 557
 . Tratándose de trámites en los que se encuentren involucrados los derechos de niñas, niños y adolescentes, la autoridad jurisdiccional, proveerá al efecto y de manera inmediata los ajustes razonables que se requiera en debida observancia del principio de interés superior de las niñas, niños y adolescentes, de conformidad con lo siguiente:
+
 I. Actuar más allá de la demanda puntual que se le presenta cuando esto sea en aras del interés superior de la infancia;
+
 II. Priorizar el derecho a la protección especial, contra toda forma de sufrimiento, abuso o descuido, incluidos el físico, psicológico, mental y emocional; así como priorizar el desarrollo integral en un ambiente sano y libre de violencia;
+
 III. Atender las características, condiciones específicas y necesidades de cada niña, niño y adolescente, con base en el principio de no discriminación;
+
 IV. Deberá cerciorarse de la necesidad de la admisión de la declaración testimonial de niñas, niños o adolescentes, con base en el principio de mínima intervención, a fin de evitar prácticas o procedimientos que causen estrés psicológico;
+
 V. Evitar de manera acuciosa las demoras prolongadas o innecesarias en las diligencias en las que intervengan, así como la formulación de requerimientos legales que pueden resultar intimidantes;
-VI. En ningún caso se hará pública la información sobre niñas, niños o adolescentes involucrados en los trámites judiciales previstos en este Código Nacional, y VII. Toda niña, niño y adolescente, tiene derecho a expresar sus opiniones libremente sobre las decisiones que le afecten, incluidas las adoptadas en el curso de cualquier proceso, y que esos puntos de vista serán tomados en consideración por la autoridad jurisdiccional atendiendo a su edad, madurez y evolución de su capacidad; el acto procesal mediante el que sea escuchado su parecer no estará sujeto a contradicción.
+
+VI. En ningún caso se hará pública la información sobre niñas, niños o adolescentes involucrados en los trámites judiciales previstos en este Código Nacional, y
+
+VII. Toda niña, niño y adolescente, tiene derecho a expresar sus opiniones libremente sobre las decisiones que le afecten, incluidas las adoptadas en el curso de cualquier proceso, y que esos puntos de vista serán tomados en consideración por la autoridad jurisdiccional atendiendo a su edad, madurez y evolución de su capacidad; el acto procesal mediante el que sea escuchado su parecer no estará sujeto a contradicción.
 
 ### Artículo 558
 . En todos los asuntos que estén involucrados derechos de niñas, niños y adolescentes, éstos podrán ser escuchados por la autoridad jurisdiccional, en audiencia videograbada.
 La autoridad jurisdiccional señalará fecha y hora para la celebración de la comparecencia, y requerirá a quien ejerza la guarda y custodia o cuidado de la niña, niño o adolescentes para que lo presenten al desahogo de la comparecencia, con el apercibimiento de que en caso de incumplimiento se les impondrá la medida de apremio que la autoridad jurisdiccional estime conducente.
 En el desahogo de la comparecencia la autoridad jurisdiccional deberá observar lo siguiente:
+
 I. Que la comparecencia no se lleve a cabo en un ambiente hostil;
+
 II. Asegurar que esté presente un equipo interdisciplinario, formado por: una persona profesional en psicología, preferentemente con especialidad en desarrollo infantil, una persona Agente del Ministerio Público y una persona tutora especial que se designe para el desahogo de la actuación, persona que deberá de pertenecer al Sistema al Desarrollo Integral de la Familia o a la Procuraduría de Protección de Niñas, Niños y Adolescentes;
+
 III. La entrevista con las niñas, niños y adolescentes, está exceptuada de contradicción y debe ser resguardada en absoluta discrecionalidad, atendiendo a los principios de confidencialidad y privacidad que les asisten a las niñas, niños y adolescentes; se llevará a cabo sin la presencia de sus progenitores o tutores;
-IV. En los casos en los que la niña, niño o adolescente requiera el apoyo de una persona familiar o profesional de su confianza podrá acompañarle, particularmente cuando se trate de violencia sexual infantil, ya que sólo con auxilio de sus progenitores o terapeutas suelen revelar la violencia, y V. Dichas diligencias serán videograbadas para evitar la repetición y revictimización en el proceso de niñas, niños y adolescentes.
+
+IV. En los casos en los que la niña, niño o adolescente requiera el apoyo de una persona familiar o profesional de su confianza podrá acompañarle, particularmente cuando se trate de violencia sexual infantil, ya que sólo con auxilio de sus progenitores o terapeutas suelen revelar la violencia, y
+
+V. Dichas diligencias serán videograbadas para evitar la repetición y revictimización en el proceso de niñas, niños y adolescentes.
 Los datos proporcionados en la comparecencia serán tomados en consideración por la autoridad jurisdiccional atendiendo a la edad, madurez y contexto social y familiar de la niña, niño o adolescente, así como las pruebas periciales en materia de psicología que para tal efecto se recaben. La admisión de estos medios de prueba podrá decretarse de manera anticipada.
 
 ### Artículo 559
@@ -2722,12 +3436,20 @@ Para el caso de oposición o impedimento del desarrollo de la audiencia, la auto
 
 ### Artículo 560
 . La autoridad jurisdiccional tiene, sin perjuicio de las especiales que les concede la ley, las siguientes facultades:
+
 I. Convocar a las partes a su presencia en cualquier tiempo, para intentar la conciliación o cualquier otro medio alterno de solución de conflictos; exceptuando aquellos casos que involucren violencia de cualquier tipo incluida la de género y para cualquier persona, niña, niño y adolescente;
+
 II. En cualquier estado o instancia del procedimiento, ordenar la comparecencia personal de las partes, a fin de interrogarlas libremente sobre los hechos por ellas afirmados. Las partes deben ser asistidas por sus representantes. Los interrogatorios se practicarán sin formalidad alguna, excepto en los casos que involucren cualquier tipo o modalidad de violencia de género, en cuyo caso las autoridades jurisdiccionales deberán actuar con base en los Protocolos que al efecto existan;
+
 III. Rechazar de plano cualquier incidente o solicitud que merezca calificarse de frívola, notoriamente improcedente, intrascendente o dilatoria, en relación con el asunto que se ventile, lo que deberá ser hecho de manera fundada, razonada y motivada;
+
 IV. Para el solo efecto de regularizar el proceso, ordenar en cualquier etapa del juicio que se subsane toda omisión o deficiencia formal que se notare;
+
 V. Suplir la deficiencia de los planteamientos de derecho y de las pretensiones, así como de los agravios respecto de las niñas, niños, adolescentes; víctimas de cualquier tipo o modalidad de violencia de género y grupos de atención prioritaria;
-VI. Allegarse de los medios de prueba legales que estime necesarios para la resolución del asunto, de acuerdo con la naturaleza de los derechos en conflicto, y VII. Determinar las medidas y órdenes de protección procedentes para la protección de los miembros de la familia, cuando en un procedimiento se advierta la existencia de cualquier modalidad o tipo de violencia.
+
+VI. Allegarse de los medios de prueba legales que estime necesarios para la resolución del asunto, de acuerdo con la naturaleza de los derechos en conflicto, y
+
+VII. Determinar las medidas y órdenes de protección procedentes para la protección de los miembros de la familia, cuando en un procedimiento se advierta la existencia de cualquier modalidad o tipo de violencia.
 
 ### Artículo 561
 . Si la autoridad jurisdiccional advierte la existencia de cualquier clase de violencia, deberá modificar o suspender el ejercicio del régimen de convivencias o guarda y custodia, según sea el caso, y podrá ordenar que las convivencias se realicen de manera supervisada en los Centros o Instituciones destinadas para tal efecto en el Tribunal o Poder Judicial de cada Entidad Federativa, o bien por videoconferencia supervisada, siempre y cuando sea deseo de la niña, niño o adolescente, así como dictar las medidas que estime pertinentes para salvaguardar el orden familiar y dar vista al agente del Ministerio Público que corresponda.
@@ -2760,10 +3482,16 @@ Sección Tercera De las Medidas Provisionales y de Protección
 
 ### Artículo 569
 . La autoridad jurisdiccional deberá intervenir de oficio en las cuestiones inherentes al orden familiar y deberá decretar las medidas provisionales necesarias sin audiencia de la contraparte y cerciorarse de su cumplimiento, en los casos que a continuación se mencionan, de manera enunciativa y no limitativa:
+
 I. Fijación de alimentos;
+
 II. Guarda y custodia;
+
 III. Régimen de convivencias;
-IV. Órdenes o medidas de Protección, y V. Cualquier otra medida que señale este Código Nacional, los códigos civiles o familiares y las leyes especializadas en la materia, siempre y cuando la autoridad jurisdiccional considere pertinente para salvaguardar a los integrantes de la familia.
+
+IV. Órdenes o medidas de Protección, y
+
+V. Cualquier otra medida que señale este Código Nacional, los códigos civiles o familiares y las leyes especializadas en la materia, siempre y cuando la autoridad jurisdiccional considere pertinente para salvaguardar a los integrantes de la familia.
 Las medidas indicadas en las fracciones anteriores deberán ser revisadas por la autoridad jurisdiccional, de oficio o a petición de parte, en la audiencia preliminar o en cualquier otra etapa del procedimiento. Contra dicha resolución procederá el recurso de apelación en el efecto devolutivo.
 
 ### Artículo 570
@@ -2773,10 +3501,16 @@ Artículo reformado DOF 15-01-2026
 ### Artículo 571
 . Las órdenes o medidas de protección tienen como fin salvaguardar integralmente a las víctimas de violencia y su familia, ya sea previniendo, interrumpiendo o impidiendo cualquier conducta de violencia.
 Son principios básicos de la orden de protección:
+
 I. Protección de la víctima, que la víctima recupere la sensación de seguridad ante posibles amenazas de quien violenta, lo cual, por otra parte, es indispensable para romper con el círculo de violencia;
+
 II. Urgencia, la orden se debe implementar y cumplir de manera inmediata, con la mayor agilidad posible a efecto de que cumpla con el fin de prevenir o impedir que los actos de violencia se cometan o se sigan cometiendo;
+
 III. Accesibilidad, quiere decir que la medida debe ser implementada a través de un procedimiento sencillo y gratuito para quien es víctima de violencia;
-IV. Utilidad procesal, la orden de protección debe facilitar la confección, integración, tratamiento y conservación de las pruebas que puedan aportarse al trámite, y V. La necesidad y proporcionalidad de la medida, las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria y deben garantizar su seguridad o reducir los riesgos existentes.
+
+IV. Utilidad procesal, la orden de protección debe facilitar la confección, integración, tratamiento y conservación de las pruebas que puedan aportarse al trámite, y
+
+V. La necesidad y proporcionalidad de la medida, las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria y deben garantizar su seguridad o reducir los riesgos existentes.
 
 ### Artículo 572
 . En caso de que la autoridad jurisdiccional conozca de hechos que probablemente constituyen actos de violencia en contra de las mujeres; niñas, niños o adolescentes; o personas que pueden encontrarse en grupos que se encuentren en situación de vulnerabilidad, tiene la obligación de dictar órdenes de protección de urgente aplicación en función del interés superior de quien pudiere resultar víctima, las cuales serán personalísimas e intransferibles, pudiendo tener incluso el carácter de preventivas y serán consideradas de naturaleza familiar.
@@ -2785,19 +3519,34 @@ Párrafo adicionado DOF 15-01-2026
 
 ### Artículo 573
 . Son medidas u órdenes de protección:
+
 I. La desocupación inmediata del domicilio conyugal o donde habite la víctima, por la persona agresora, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento;
+
 II. La prohibición inmediata a la persona probable responsable de apersonarse en el domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+
 III. La prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;
+
 IV. El auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima al momento de solicitar el auxilio;
+
 V. El inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+
 VI. Informar a las autoridades o instituciones competentes sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas;
+
 VII. El uso y goce de los bienes que se encuentren en el inmueble que sirva de domicilio a la víctima;
+
 VIII. El acceso al domicilio en común, de autoridades policiacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de su familia;
+
 IX. Emitir orden de protección y auxilio dirigida a las autoridades de seguridad pública, de la que se expedirá copia a la víctima para que pueda acudir a la autoridad más cercana en caso de amenaza de agresión;
+
 X. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género en instituciones especializadas y gratuitas a la persona agresora para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía de género y los patrones machistas y misóginos que generaron;
+
 XI. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+
 XII. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad, que puedan ser susceptibles de división entre los cónyuges o concubinos, con independencia del régimen matrimonial al que se encuentre sujeto el matrimonio;
-XIII. Embargo preventivo de bienes del agresor, que deberá inscribirse en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias de cualquier clase, y XIV. En caso de ser solicitado, proveer a fin de que la víctima pueda recibir en instituciones públicas y de manera gratuita atención médica y acompañamiento psicológico.
+
+XIII. Embargo preventivo de bienes del agresor, que deberá inscribirse en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias de cualquier clase, y
+
+XIV. En caso de ser solicitado, proveer a fin de que la víctima pueda recibir en instituciones públicas y de manera gratuita atención médica y acompañamiento psicológico.
 La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
 Párrafo reformado DOF 16-12-2024, 15-01-2026
 
@@ -2830,8 +3579,12 @@ De la Separación de Personas
 
 ### Artículo 579
 . La solicitud de separación del hogar común podrá hacerse por comparecencia o por escrito que deberá contener al menos lo siguiente:
+
 I. Expresar los hechos sobre los que base la solicitud;
-II. Indicar el domicilio en el que pretende permanecer o del que se desea retirar, y III. En caso de existir hijas o hijos menores de edad correspondientes a la unión, se deberán de exhibir los documentos que acrediten la filiación, sin perjuicio de que en situación de urgencia no será necesaria tal exhibición y la autoridad jurisdiccional podrá hacer uso de los medios necesarios para comprobar el parentesco indicado.
+
+II. Indicar el domicilio en el que pretende permanecer o del que se desea retirar, y
+
+III. En caso de existir hijas o hijos menores de edad correspondientes a la unión, se deberán de exhibir los documentos que acrediten la filiación, sin perjuicio de que en situación de urgencia no será necesaria tal exhibición y la autoridad jurisdiccional podrá hacer uso de los medios necesarios para comprobar el parentesco indicado.
 
 ### Artículo 580
 . Cuando, derivado de una situación de cualquier tipo o modalidad de violencia, exista imposibilidad material para la presentación por la parte interesada, cualquier persona podrá bajo protesta de decir verdad, realizar su solicitud.
@@ -2839,13 +3592,22 @@ La autoridad jurisdiccional de primera o segunda instancia en materia familiar m
 
 ### Artículo 581
 . Presentada la solicitud de separación, si la autoridad jurisdiccional considera que procede, conjuntamente a la admisión del trámite deberá decretar lo siguiente:
+
 I. Para el caso que la solicitud fuera interpuesta por una tercera persona, se proveerá respecto de la manifestación de conformidad con la persona interesada en el trámite, lo cual se realizará en la diligencia de cumplimiento;
+
 II. Las medidas pertinentes y órdenes de protección a fin de que se efectúe de inmediato la separación, con atención a los hechos y circunstancias de la solicitud;
+
 III. La determinación en cuanto a la guarda y custodia provisional de las niñas, niños o adolescentes relacionados con el caso;
+
 IV. La fijación de la pensión alimenticia provisional correspondiente;
+
 V. El régimen de visitas y convivencias provisionales, si ello no lesiona los derechos de las niñas, niños y adolescentes;
+
 VI. Establecer que quien conserve el cuidado de los hijos o hijas menores de edad o de personas que pertenezcan a grupos que se encuentren en situación de vulnerabilidad, siga habitando el domicilio conyugal o familiar, si así lo desea;
-VII. Quien se separe del domicilio familiar y conserve la guarda y custodia de hijos menores de edad habidos en el matrimonio o relación familiar, se le entregarán la ropa, muebles y demás enseres de los mismos, así como de las personas mayores que deban salir del domicilio con quien se haya separado del mismo. En todos los casos quien se retire del domicilio familiar podrá retirar sus objetos personales y de trabajo, y VIII. Ordenar la notificación al otro cónyuge, concubina o concubinario, con la prevención expresa de que deberá abstenerse de impedir la separación o causarle cualquier tipo de molestias a la parte solicitante, apercibiéndole con las medidas de apremio previstas en el presente Código Nacional para en caso de incumplimiento.
+
+VII. Quien se separe del domicilio familiar y conserve la guarda y custodia de hijos menores de edad habidos en el matrimonio o relación familiar, se le entregarán la ropa, muebles y demás enseres de los mismos, así como de las personas mayores que deban salir del domicilio con quien se haya separado del mismo. En todos los casos quien se retire del domicilio familiar podrá retirar sus objetos personales y de trabajo, y
+
+VIII. Ordenar la notificación al otro cónyuge, concubina o concubinario, con la prevención expresa de que deberá abstenerse de impedir la separación o causarle cualquier tipo de molestias a la parte solicitante, apercibiéndole con las medidas de apremio previstas en el presente Código Nacional para en caso de incumplimiento.
 
 ### Artículo 582
 . Decretada procedente la separación de personas, la autoridad jurisdiccional deberá prevenir a la parte solicitante para que presente la demanda correspondiente, dentro de un plazo de quince días hábiles, bajo el apercibimiento que de no realizarlo en el término señalado se levantará el acto prejudicial y cesarán los efectos de las medidas provisionales. En este sentido, podrá autorizarse por una sola ocasión una prórroga de hasta diez días hábiles.
@@ -2869,8 +3631,12 @@ En los casos que alguna de las partes manifieste su deseo de no continuar con el
 . En los casos en que las partes manifiesten su deseo de someterse a los beneficios de la justicia restaurativa, la autoridad jurisdiccional señalará día y hora para que las partes acudan a la entrevista inicial, a la cual podrán ser acompañadas en todo momento de cualquier persona de su confianza, lo que incluye a su representante legal.
 Una vez realizadas las entrevistas la persona facilitadora informará en el plazo de tres días a la autoridad jurisdiccional la viabilidad de la implementación de un proceso de Justicia Restaurativa. No obstante, si en los encuentros preparatorios o dentro del proceso sobreviene alguna causa de inviabilidad, la persona facilitadora lo informará en un plazo máximo de cuarenta y ocho horas a la autoridad jurisdiccional.
 En caso de que las partes, asistidas de la persona facilitadora, diseñen un plan de reparación del daño, deberá de observar lo siguiente:
+
 I. De ninguna manera podrá pactarse la renuncia de los derechos de niñas, niños o adolescentes;
-II. En asuntos en los que existan datos de la existencia de conductas de violencia, queda prohibido convenir el mero pago de obligaciones pecuniarias como forma de reparación del daño, y III. No podrán pactarse cláusulas desde una asimetría en las relaciones de poder.
+
+II. En asuntos en los que existan datos de la existencia de conductas de violencia, queda prohibido convenir el mero pago de obligaciones pecuniarias como forma de reparación del daño, y
+
+III. No podrán pactarse cláusulas desde una asimetría en las relaciones de poder.
 En el plan o convenio, en su caso, la persona mediadora o facilitadora deberán promover que se garantice el bienestar psicológico y la seguridad física de todos los miembros de la familia. Después de aceptado y firmado el acuerdo la persona facilitadora tendrá un plazo máximo de tres días para presentarlo ante la autoridad jurisdiccional competente.
 Recibido por la autoridad jurisdiccional competente el plan de restitución de derechos o el convenio, en un plazo de cinco días hábiles la autoridad jurisdiccional fijará día y hora para el desahogo de una audiencia oral, a fin de sancionar y en su caso aprobar los acuerdos formulados por las partes.
 Las partes comparecerán personal y debidamente asistidas a la audiencia y en caso de que la autoridad jurisdiccional lo considere pertinente podrá apersonarse la persona facilitadora. En todos los casos deberá de encontrase presente en la actuación la persona Agente del Ministerio Público correspondiente y en caso de que así lo considere la autoridad jurisdiccional, la persona representante de la Procuraduría de Protección de niñas, niños y adolescentes a nivel federal o de cada Entidad Federativa.
@@ -2888,29 +3654,49 @@ Los procedimientos de que trata este Capítulo podrán tramitarse ante Notaria o
 
 ### Artículo 588
 . De manera enunciativa y no limitativa, los siguientes casos se podrán tramitar mediante jurisdicción voluntaria:
+
 I. Nombramiento de personas tutoras y curadoras;
+
 II. Enajenación de bienes propiedad de niñas, niños, adolescentes, ausentes o desaparecidos;
+
 III. Declaración de ausencia, así como la declaración especial de ausencia por desaparición;
-IV. Procedimiento de adopción, y V. Restitución nacional.
+
+IV. Procedimiento de adopción, y
+
+V. Restitución nacional.
 
 ### Artículo 589
 . La jurisdicción voluntaria deberá promoverse por escrito ante la autoridad jurisdiccional competente y reunir los siguientes requisitos:
+
 I. Nombre y domicilio de quien promueve;
+
 II. En su caso, nombre y domicilio de las personas que deban ser citadas;
+
 III. La petición expresa de lo solicitado;
+
 IV. Los hechos que fundamenten la solicitud;
-V. Las pruebas que se ofrezcan, y VI. Firma de quien promueve.
+
+V. Las pruebas que se ofrezcan, y
+
+VI. Firma de quien promueve.
 
 ### Artículo 590
 . Cuando fuere necesaria la audiencia de alguna persona, se la citará conforme a derecho, apercibiéndole en la citación que quedan, por tres días, las actuaciones en la secretaría de la autoridad jurisdiccional para que se imponga de ellas y señalará día y hora para la audiencia dentro del término de quince días, a la que concurrirá el promovente o su representante legal.
 
 ### Artículo 591
 . En la Jurisdicción Voluntaria ante autoridad jurisdiccional se dará vista al Ministerio Público, Federal o local, según corresponda:
+
 I. Cuando la solicitud promovida afecte los intereses públicos;
+
 II. Cuando se refiera a la persona o bienes de niñas, niños o adolescentes o personas que no tengan capacidad para comprender el significado del hecho;
+
 III. Cuando tenga relación con los derechos o bienes de persona ausente o desaparecida;
+
 IV. Cuando se encuentren involucrados derechos de personas pertenecientes a grupos que se encuentren en situación de vulnerabilidad;
-V. Cuando lo considere necesario la autoridad jurisdiccional o lo pidan las partes, y VI. Cuando lo dispusiere la Ley aplicable.
+
+V. Cuando lo considere necesario la autoridad jurisdiccional o lo pidan las partes, y
+
+VI. Cuando lo dispusiere la Ley aplicable.
 
 ### Artículo 592
 . Recibida la solicitud, la autoridad jurisdiccional la examinará y conjuntamente a su admisión, proveerá respecto de las pruebas ofrecidas, las que se desahogarán en una audiencia oral que se fijará dentro del término de quince días. En su caso, se dará vista al Ministerio Público sin que sea obstáculo para la celebración de la audiencia la inasistencia de este último.
@@ -2971,10 +3757,15 @@ En este caso no son necesarias formalidades de ninguna clase, asentándose solam
 
 ### Artículo 608
 . Dentro del primer mes de cada año, en audiencia pública con citación del Consejo Local de Tutelas, Procuraduría de Protección para Niñas, Niños y Adolescentes, del Representante de la Institución análoga de la Entidad Federativa de que se trate, así como del Ministerio Público de la adscripción, se procederá a examinar dicho registro y ya en su vista, recibirá la rendición de cuentas, la exhibición del informe médico y dictará las medidas que estime pertinentes:
+
 I. Si resultare haber fallecido alguna persona tutora o curadora, harán que sea reemplazada, con arreglo a las disposiciones contenidas en este ordenamiento;
+
 II. Si hubiere alguna cantidad de dinero que resultare sobrante después de cubiertas las cargas y atenciones de la tutela o dinero que proceda de las retenciones de capitales o que se adquiera de cualquier otro modo, se ordenará que se invierta en alguna Institución de Crédito destinadas al efecto, al plazo que mayor beneficio o interés produzca al pupilo, para lo cual la persona tutora con conocimiento de la o el curador, acreditará dicha circunstancia ante la autoridad jurisdiccional para que ésta emita el mandato judicial correspondiente, de acuerdo a la normatividad sustantiva aplicable de cada Entidad Federativa;
+
 III. En dicha audiencia pública la persona tutora con la conformidad de la persona curadora presentará un informe sobre el desarrollo de la persona sujeta a tutela y de manera obligatoria un certificado de salud de dos profesionistas en materia de medicina general, así como un certificado de salud de dos personas médicos de la especialidad respectiva;
+
 IV. A la audiencia indicada deberá presentarse la persona tutora o curadora, en compañía de su pupilo si sus condiciones de salud así lo permiten, para que en ese acto exprese lo que considere pertinente y la autoridad jurisdiccional se cerciore del estado que guardan éstas y tome las medidas que estime necesarias para mejorar su condición;
+
 V. Dentro de la misma diligencia la persona tutora, deberá rendir cuenta detallada de su administración como lo preceptúa el Código Civil o Familiar de cada Entidad Federativa, sea cual fuere la fecha en que se le hubiere discernido el cargo u otorgado la encomienda. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción de la persona tutora.
 
 ### Artículo 609
@@ -2982,11 +3773,20 @@ V. Dentro de la misma diligencia la persona tutora, deberá rendir cuenta detall
 
 ### Artículo 610
 . Sobre la rendición y aprobación de cuentas de las personas tutoras, regirán las siguientes reglas:
+
 I. Las cuentas se rendirán dentro del mes de enero de cada año, exhibiendo los documentos justificativos, aunque no exista prevención judicial para ello;
+
 II. La persona tutora, también tiene obligación de rendir cuentas cuando, por causas graves que calificará la autoridad jurisdiccional, lo exijan la persona curadora, el Consejo Local de Tutelas, la Procuraduría de Protección para Niñas, Niños y Adolescentes o el Representante de la Institución análoga de la Entidad Federativa de que se trate o el mismo menor [que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa];
-Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 y publicada DOF 04-12-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”) III. Se requiere prevención judicial para que las cuentas se rindan antes de llegar al plazo previsto en la fracción I; a menos que hubiese remoción o separación de la persona tutora, pues en este caso, sin requerimiento judicial, deberán presentarlas dentro de los quince días siguientes de la fecha de la remoción o separación. En igual forma se procederá cuando la tutela o la encomienda lleguen al final del plazo por haber cesado el estado de minoridad;
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 y publicada DOF 04-12-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)
+
+III. Se requiere prevención judicial para que las cuentas se rindan antes de llegar al plazo previsto en la fracción I; a menos que hubiese remoción o separación de la persona tutora, pues en este caso, sin requerimiento judicial, deberán presentarlas dentro de los quince días siguientes de la fecha de la remoción o separación. En igual forma se procederá cuando la tutela o la encomienda lleguen al final del plazo por haber cesado el estado de minoridad;
+
 IV. Las personas a quienes deben ser rendidas las cuentas son: la misma autoridad jurisdiccional, la persona curadora, el Consejo Local de Tutelas, la misma niña, niño o adolescente [que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa], la persona tutora que lo sustituya, el pupilo que dejare de serlo, el Ministerio Público y las demás personas que fija la ley de la materia;
-Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 y publicada DOF 04-12-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”) V. La resolución que desaprobare las cuentas indicará, si fuere posible, los alcances y la que aprobare puede ser apelada por el Ministerio Público, los demás interesados y la persona curadora si hizo observaciones. Del auto de desaprobación pueden apelar en ambos efectos la persona tutora, la curadora o el Ministerio Público de la adscripción, y VI. Si se objetaren de falsas algunas partidas, se substanciarán incidentalmente conforme a las disposiciones previstas en el presente Código Nacional, entendiéndose la audiencia sólo con los objetantes, el Ministerio Público de la adscripción y la persona tutora.
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 y publicada DOF 04-12-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)
+
+V. La resolución que desaprobare las cuentas indicará, si fuere posible, los alcances y la que aprobare puede ser apelada por el Ministerio Público, los demás interesados y la persona curadora si hizo observaciones. Del auto de desaprobación pueden apelar en ambos efectos la persona tutora, la curadora o el Ministerio Público de la adscripción, y
+
+VI. Si se objetaren de falsas algunas partidas, se substanciarán incidentalmente conforme a las disposiciones previstas en el presente Código Nacional, entendiéndose la audiencia sólo con los objetantes, el Ministerio Público de la adscripción y la persona tutora.
 
 ### Artículo 611
 . Cuando del examen de la cuenta o del cercioramiento que realice la autoridad jurisdiccional del estado de salud que guarda el pupilo, encontrare motivos graves para sospechar dolo, fraude, negligencia, descuido o maltrato de la persona tutora, su función, se iniciará, a petición de la persona curadora o del Ministerio Público, procedimiento incidental de remoción de la persona tutora, ante la autoridad jurisdiccional que corresponda conocer del presente procedimiento, se respetará el derecho de audiencia del pupilo, para que pueda expresar lo que a su derecho corresponda; y si de la resolución resultaren confirmadas las sospechas, se revocará el cargo y se nombrará nueva persona tutora, curadora, sin perjuicio de que se remita testimonio de lo conducente a las autoridades penales.
@@ -3000,9 +3800,14 @@ De la Enajenación de Bienes de Niñas, Niños y Adolescentes
 
 ### Artículo 613
 . Será necesaria autorización judicial en la vía de jurisdicción voluntaria para la enajenación de los bienes que pertenezcan exclusivamente a niñas, niños, adolescentes y correspondan a las clases siguientes:
+
 I. Bienes muebles, inmuebles y derechos reales sobre estos;
+
 II. Alhajas y muebles valiosos;
-III. Acciones sobre personas jurídicas colectivas, y IV. Derechos de patentes, marcas, autorales y otros derechos análogos.
+
+III. Acciones sobre personas jurídicas colectivas, y
+
+IV. Derechos de patentes, marcas, autorales y otros derechos análogos.
 
 ### Artículo 614
 . Para decretar la enajenación de bienes se necesita que al pedirse se exprese el motivo de la enajenación y el objeto a que debe aplicarse la suma que se obtenga, y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
@@ -3072,17 +3877,28 @@ Recibida la solicitud de restitución, la autoridad tendrá un plazo máximo de 
 
 ### Artículo 631
 . Podrá presentar solicitud de restitución del traslado o retención ilegal o sin previa autorización, por escrito o mediante comparecencia:
+
 I. La madre;
-II. El padre, y III. La persona o institución que tenga la custodia de niñas, niños o adolescentes.
+
+II. El padre, y
+
+III. La persona o institución que tenga la custodia de niñas, niños o adolescentes.
 Se exceptúan los casos en los que los progenitores cuenten con condena de violencia sexual contra niñas, niños, adolescentes o feminicidio.
 
 ### Artículo 632
 . La solicitud de restitución deberá contener al menos lo siguiente:
+
 I. Nombre, domicilio, fecha y lugar de nacimiento, parentesco con la niña, niño o adolescente; y en el caso de instituciones u organismos, el mandamiento judicial con el que se le designó la custodia;
+
 II. Manifestación bajo protesta de decir verdad, que la niña, niño o adolescente ha sido trasladado o retenido ilegalmente o sin previo consentimiento de las personas que pueden otorgarlo;
+
 III. Exhibición de la copia certificada del acta de registro de nacimiento de la niña, niño o adolescente y documentos que acrediten su domicilio habitual;
+
 IV. Información relativa a la identidad de la persona que se refiere ha sustraído o retenido a la niña, niño o adolescente, así como el posible domicilio en el que se encuentre;
-V. Los hechos en que se basa el o la solicitante, y VI. Toda la información disponible relativa a la localización de niñas, niños o adolescentes y de la persona con la que se presume se encuentra.
+
+V. Los hechos en que se basa el o la solicitante, y
+
+VI. Toda la información disponible relativa a la localización de niñas, niños o adolescentes y de la persona con la que se presume se encuentra.
 La solicitud podrá contener fotografías tanto de la niña, niño o adolescente trasladado o retenido ilegalmente, así como de la persona con la que se presume se encuentra.
 
 ### Artículo 633
@@ -3090,10 +3906,16 @@ La solicitud podrá contener fotografías tanto de la niña, niño o adolescente
 
 ### Artículo 634
 . La autoridad jurisdiccional exhortante deberá en el proveído que autorice la restitución, solicitar a la exhortada al menos lo siguiente:
+
 I. Provea respecto a la localización inmediata del niño, niña o adolescente, de conformidad con los datos proporcionados en el exhorto;
+
 II. Ejecute el requerimiento para la restitución de la niña, niño o adolescente con el acompañamiento de personal especializado para dichos efectos y en su caso el uso de la fuerza pública. En todo momento se privilegiará la voluntariedad en la restitución;
+
 III. Ordenar el cuidado temporal de la niña, niño o adolescente en una institución pública especializada, en su caso;
-IV. En caso de oposición a la restitución, en ese mismo acto ordenar se realice la notificación del trámite y la celebración del desahogo de la única audiencia oral de restitución, y V. Resolver la restitución y en caso de ser procedente, decretar de inmediato su cumplimiento con plenitud de jurisdicción.
+
+IV. En caso de oposición a la restitución, en ese mismo acto ordenar se realice la notificación del trámite y la celebración del desahogo de la única audiencia oral de restitución, y
+
+V. Resolver la restitución y en caso de ser procedente, decretar de inmediato su cumplimiento con plenitud de jurisdicción.
 
 ### Artículo 635
 . La notificación deberá realizarse con las formalidades establecidas en este Código Nacional. En ella se hará del conocimiento de la persona que trasladó o retuvo a la niña, niño o adolescente, que puede interponer sus excepciones y defensas de manera oral en la audiencia señalada.
@@ -3105,17 +3927,27 @@ En caso de que no asista o no se presente con la niña, niño o adolescente, mot
 
 ### Artículo 637
 . La audiencia de restitución será presidida por la autoridad jurisdiccional, con la presencia de un representante del Sistema para el Desarrollo Integral de la Familia de la Entidad Federativa correspondiente, el Agente del Ministerio Público adscrito a la autoridad jurisdiccional respectivo, el solicitante y su persona representante autorizada, la persona a quien se atribuye el traslado o retención ilegal y su persona representante autorizada, así como el personal del juzgado que la autoridad jurisdiccional designe para dichos efectos, de conformidad con lo siguiente:
+
 I. La persona a quien se le atribuye el traslado o retención ilegal de la niña, niño o adolescente, deberá señalar las objeciones que tenga para su restitución y presentar las pruebas que acrediten su dicho, con base en lo dispuesto por este Código Nacional;
+
 II. En el mismo acto se dará vista a la parte contraria, para que manifieste lo que a su derecho corresponda;
-III. Se escuchará a la niña, niño y adolescente en cuestión, si así lo desean, a efecto de que sus manifestaciones sean consideradas, con base en su autonomía progresiva, y IV. Desahogadas las pruebas y escuchadas las partes, se decretará la restitución o su negativa.
+
+III. Se escuchará a la niña, niño y adolescente en cuestión, si así lo desean, a efecto de que sus manifestaciones sean consideradas, con base en su autonomía progresiva, y
+
+IV. Desahogadas las pruebas y escuchadas las partes, se decretará la restitución o su negativa.
 Contra dicha resolución no procede recurso alguno.
 La audiencia deberá ser videograbada.
 
 ### Artículo 638
 . La restitución de una niña, niño o adolescente sólo podrá negarse con base en lo siguiente:
+
 I. Que existan pruebas suficientes a consideración de la autoridad jurisdiccional, de peligro inminente, o cualquier tipo de violencia, generada por la persona que solicita la restitución o con quien ésta comparta la residencia habitual;
+
 II. Que quien solicitó la restitución no tenga derecho para solicitarla;
-III. [Que hubieren transcurrido más de tres años desde que fue presentada la solicitud de restitución, y] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 y publicada DOF 04-12-2024 IV. Que la persona adolescente solicitada hubiere alcanzado la edad de dieciséis años y manifieste su conformidad con el traslado.
+
+III. [Que hubieren transcurrido más de tres años desde que fue presentada la solicitud de restitución, y] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 y publicada DOF 04-12-2024
+
+IV. Que la persona adolescente solicitada hubiere alcanzado la edad de dieciséis años y manifieste su conformidad con el traslado.
 El desarrollo de la audiencia y la resolución que dicte la autoridad jurisdiccional, deberán apegarse de manera estricta al principio de interés superior de las niñas, niños o adolescentes.
 
 ### Artículo 639
@@ -3144,9 +3976,14 @@ No obstante, el consentimiento para la adopción podrá recibirse en comparecenc
 
 ### Artículo 645
 . Para la admisión del trámite únicamente deberán de exhibirse las certificaciones de las actas de nacimiento tanto de las personas que pretenden adoptar y de la o las personas que se pretende adoptar. No obstante, y con independencia de los requisitos establecidos en las legislaciones locales, en la solicitud deberá de expresarse, bajo protesta de decir verdad, lo siguiente:
+
 I. El nombre y domicilio de las personas que se pretenden adoptar;
+
 II. El nombre y domicilio de las personas que ejerzan o estén en aptitud de ejercer la patria potestad de quien se solicita la adopción o bien la tutela, así como quien esté a cargo de la guarda y custodia de hecho o de derecho;
-III. El nombre y domicilio de las personas que pretendan adoptar, y IV. Los hechos que motiven la solicitud.
+
+III. El nombre y domicilio de las personas que pretendan adoptar, y
+
+IV. Los hechos que motiven la solicitud.
 
 ### Artículo 646
 . En el proveído que admita a trámite la autoridad jurisdiccional deberá indicarse a las personas adoptantes, preferentemente a través del principio de inmediación en audiencia videograbada, los requisitos que en contraste con los documentos exhibidos faltan de cumplimentar según las leyes aplicables al procedimiento pretendido.
@@ -3156,7 +3993,10 @@ De manera conjunta con el Certificado de Idoneidad la autoridad administrativa d
 
 ### Artículo 647
 . Durante el trámite de la adopción, la autoridad jurisdiccional deberá proveer respecto de las siguientes medidas:
-I. La guarda y custodia provisional de la persona o personas que se pretende adoptar, tomando todas las medidas necesarias para la seguridad de dicha o dichas personas, y II. El acompañamiento psicológico tanto para la o las personas que pretenden adoptar, como para quien o quienes pretenden sean adoptadas, y si es solicitado, para quienes otorgaron el consentimiento para la adopción.
+
+I. La guarda y custodia provisional de la persona o personas que se pretende adoptar, tomando todas las medidas necesarias para la seguridad de dicha o dichas personas, y
+
+II. El acompañamiento psicológico tanto para la o las personas que pretenden adoptar, como para quien o quienes pretenden sean adoptadas, y si es solicitado, para quienes otorgaron el consentimiento para la adopción.
 
 ### Artículo 648
 . Una vez reunidos los requisitos señalados por la ley sustantiva para la Adopción, se proveerá respecto de los medios de prueba ofertados y se fijará fecha y hora dentro de los siguientes quince días para el desahogo de la comparecencia de la persona que se pretende adoptar, ello a efecto de que sea escuchada su opinión y su sentir respecto del trámite pretendido.
@@ -3189,8 +4029,16 @@ Del Divorcio Bilateral
 
 ### Artículo 656
 . Ante la autoridad jurisdiccional, a la solicitud deberá acompañarse:
+
 I. Copia certificada, física o electrónica del acta de matrimonio de la unión que se pretenda disolver;
-II. En su caso, copia certificada física o electrónica de las actas de nacimiento de las hijas e hijos menores de edad, y III. Una propuesta de Convenio que contenga: a) De existir hijos o hijas menores de edad, quien ejercerá su guarda y custodia, la fijación de la pensión alimenticia que les corresponderá y el establecimiento de un régimen de convivencias, así como la pensión alimenticia que, en su caso pudiera corresponder al o la divorciante, y b) La forma en que deban distribuirse los bienes, derechos y obligaciones que se hayan adquirido durante el matrimonio, de conformidad con el régimen patrimonial al que estuviera sujeto el matrimonio.
+
+II. En su caso, copia certificada física o electrónica de las actas de nacimiento de las hijas e hijos menores de edad, y
+
+III. Una propuesta de Convenio que contenga:
+
+a) De existir hijos o hijas menores de edad, quien ejercerá su guarda y custodia, la fijación de la pensión alimenticia que les corresponderá y el establecimiento de un régimen de convivencias, así como la pensión alimenticia que, en su caso pudiera corresponder al o la divorciante, y
+
+b) La forma en que deban distribuirse los bienes, derechos y obligaciones que se hayan adquirido durante el matrimonio, de conformidad con el régimen patrimonial al que estuviera sujeto el matrimonio.
 En caso de no ser aplicable lo dispuesto en las fracciones anteriores, las partes deberán manifestar lo necesario bajo protesta de decir verdad.
 
 ### Artículo 657
@@ -3245,7 +4093,9 @@ La autoridad jurisdiccional les hará saber a las partes la posibilidad de acudi
 ### Artículo 668
 . A fin de proveer respecto de las medidas provisionales, la autoridad jurisdiccional podrá ordenar con causa justificada el desahogo anticipado de la prueba en una audiencia especial que para tal efecto se fije, con citación de las partes y en apego a las directrices que se establece para el desahogo de cada probanza conforme a las reglas generales previstas en este Código Nacional.
 Este anticipo de prueba además será procedente cuando:
+
 I. Exista peligro de que una persona se ausente del lugar del juicio o se altere su declaración.
+
 II. Un objeto se oculte, dilapide o pueda no lograrse su inspección.
 
 ### Artículo 669
@@ -3259,23 +4109,39 @@ Una vez contestadas las excepciones y defensas en lo principal, o en su caso, en
 
 ### Artículo 671
 . La audiencia preliminar se integra por dos fases que deberán celebrarse el mismo día y de manera consecutiva, las cuales son:
-I. La junta anticipada, que se celebrará ante la persona secretaria judicial, y no será videograbada, dejando constancia en el acta mínima respectiva, y II. La audiencia ante la autoridad jurisdiccional.
+
+I. La junta anticipada, que se celebrará ante la persona secretaria judicial, y no será videograbada, dejando constancia en el acta mínima respectiva, y
+
+II. La audiencia ante la autoridad jurisdiccional.
 
 ### Artículo 672
 . La primera fase de la audiencia preliminar consistente en la junta anticipada tiene por objeto:
+
 I. El intercambio de información y de pruebas entre las partes;
+
 II. Formular propuestas de convenio;
-III. Establecer acuerdos sobre hechos no controvertidos, y IV. Proponer acuerdos probatorios, dentro de los cuales se puede incluir la exclusión parcial o total de pruebas o la incorporación de otras.
+
+III. Establecer acuerdos sobre hechos no controvertidos, y
+
+IV. Proponer acuerdos probatorios, dentro de los cuales se puede incluir la exclusión parcial o total de pruebas o la incorporación de otras.
 La persona secretaria judicial dará cuenta inmediata a la autoridad jurisdiccional con el resultado de la junta anticipada.
 
 ### Artículo 673
 . La segunda fase de la audiencia preliminar iniciará inmediatamente después de concluida la primera, y en ella se desarrollarán las siguientes etapas:
+
 I. La enunciación de la Litis, que es el momento procesal en que se precisarán las prestaciones admitidas y sus contestaciones;
+
 II. La depuración del procedimiento, momento en que se estudiará y resolverá lo atinente a los presupuestos y excepciones procesales, salvo las cuestiones competenciales las cuales se tramitarán de conformidad con las reglas previstas en el presente Código Nacional;
+
 III. La revisión y aprobación del convenio que hayan celebrado las partes. En caso de no existir convenio en la primera fase, en esta segunda se procurará la conciliación o mediación entre las partes ante la autoridad jurisdiccional;
+
 IV. La revisión de acuerdos de hechos o probatorios y en su caso, nueva discusión, proposición y fijación de acuerdos sobre hechos no controvertidos y exclusión total o parcial de medios de prueba o incorporación de nuevos factores probatorios, independientemente de los acordados en la fase anterior;
+
 V. La admisión y preparación de las pruebas;
-VI. La revisión oficiosa de las medidas provisionales y órdenes de protección decretadas, y VII. Citación para la audiencia de juicio.
+
+VI. La revisión oficiosa de las medidas provisionales y órdenes de protección decretadas, y
+
+VII. Citación para la audiencia de juicio.
 
 ### Artículo 674
 . Las partes tienen el deber de comparecer a la audiencia preliminar personalmente.
@@ -3329,36 +4195,62 @@ Disposiciones Generales
 ### Artículo 684
 . Será competente para conocer del procedimiento sucesorio testamentario o intestamentario, la autoridad jurisdiccional, en materia civil o familiar de conformidad con las leyes orgánicas del poder judicial de cada Entidad Federativa, así como la o el Notario Público en los términos que dispone el presente Código Nacional.
 El procedimiento se inicia mediante denuncia o solicitud de apertura de procedimiento sucesorio por parte legítima, y deberá contener la expresión de los siguientes requisitos o bien declaración bajo protesta de decir verdad sobre su desconocimiento:
+
 I. Nombre, fecha, lugar de la defunción y último domicilio de la persona de cuya sucesión se trata y a falta de éste, cualquier otra información pertinente para fijar la competencia en términos del artículo 89 de este Código Nacional;
-II. Testamento, en su caso, y III. En caso de no haber testamento, los nombres de las posibles personas herederas de que tenga conocimiento la parte denunciante, con expresión del grado de parentesco o lazo con la persona de cuya sucesión se trate.
+
+II. Testamento, en su caso, y
+
+III. En caso de no haber testamento, los nombres de las posibles personas herederas de que tenga conocimiento la parte denunciante, con expresión del grado de parentesco o lazo con la persona de cuya sucesión se trate.
 Los procedimientos a que se refiere el presente Título se tramitarán por escrito, salvo aquellas diligencias que, por su naturaleza, puedan realizarse conforme a los principios del juicio oral.
 
 ### Artículo 685
 . Podrán denunciar un juicio sucesorio enunciativa y no limitativamente:
+
 I. Las personas presuntas herederas del autor de la sucesión;
+
 II. Las personas presuntas legatarias;
+
 III. La persona albacea designada en el testamento;
-IV. Cualquier persona acreedora de aquella de cuya sucesión se trata, y V. El Ministerio Público, la representación social o autoridad competente.
+
+IV. Cualquier persona acreedora de aquella de cuya sucesión se trata, y
+
+V. El Ministerio Público, la representación social o autoridad competente.
 
 ### Artículo 686
 . Con el escrito de denuncia de un juicio sucesorio, deberán acompañarse los siguientes documentos:
+
 I. Acta de defunción o copia certificada del acta de defunción de la persona de cuya sucesión se trata;
+
 II. El testamento, en caso de haberlo;
+
 III. En su caso, el acta del Registro Civil que compruebe el parentesco de la persona de cuya sucesión se trata;
+
 IV. En su caso, el documento que acredite la relación con la persona de cuya sucesión se trata, tratándose de cónyuges, concubinas, concubinos o convivientes;
-V. En su caso, las capitulaciones matrimoniales o documento que contenga el régimen patrimonial que rija la relación jurídica con la persona de cuya sucesión se trata, y VI. Cualquier otro documento que acredite la legitimación de la persona denunciante.
+
+V. En su caso, las capitulaciones matrimoniales o documento que contenga el régimen patrimonial que rija la relación jurídica con la persona de cuya sucesión se trata, y
+
+VI. Cualquier otro documento que acredite la legitimación de la persona denunciante.
 
 ### Artículo 687
 . Cuando la autoridad jurisdiccional conozca de la muerte de una persona, en tanto no se presenten los interesados, dictará en audiencia oral con la presencia del Ministerio Público, representación social o autoridad competente, las medidas cautelares para proteger los bienes o derechos de la sucesión:
+
 I. Si hay peligro de que se oculten, pierdan o dilapiden los mismos;
-II. Si hay niñas, niños y adolescentes interesados, y III. Si hay personas con discapacidad que pudieran requerir apoyo para el ejercicio de su capacidad jurídica.
+
+II. Si hay niñas, niños y adolescentes interesados, y
+
+III. Si hay personas con discapacidad que pudieran requerir apoyo para el ejercicio de su capacidad jurídica.
 En caso de no asistir a la audiencia el Ministerio Público, el representante social o autoridad competente, la autoridad jurisdiccional resolverá las medidas pertinentes.
 
 ### Artículo 688
 . Las medidas cautelares para la conservación de los bienes, que la autoridad jurisdiccional debe decretar en caso del artículo anterior, son las siguientes:
+
 I. Reunir y asegurar, el resguardo de documentos y mensajes de datos de la persona de cuya sucesión se trate, en forma física o electrónica que, cerrados y sellados, se resguardarán en el secreto del juzgado;
+
 II. Ordenar a la administración de correos que le remita la correspondencia dirigida de la persona de cuya sucesión se trate, con la cual hará lo mismo que con los demás documentos;
-III. Requerir el dinero, alhajas, valores, acciones y demás bienes muebles de valor que se tengan, así como degradables o de fácil descomposición, para ser puestos a disposición, y que los mismos sean depositados en el establecimiento autorizado por la Ley, y IV. Girar oficios a las autoridades o personas que tengan registros de bienes o derechos, a efecto de que informen sobre su existencia y la autoridad jurisdiccional dicte las medidas de conservación pertinentes.
+
+III. Requerir el dinero, alhajas, valores, acciones y demás bienes muebles de valor que se tengan, así como degradables o de fácil descomposición, para ser puestos a disposición, y que los mismos sean depositados en el establecimiento autorizado por la Ley, y
+
+IV. Girar oficios a las autoridades o personas que tengan registros de bienes o derechos, a efecto de que informen sobre su existencia y la autoridad jurisdiccional dicte las medidas de conservación pertinentes.
 
 ### Artículo 689
 . Mientras no se nombre albacea, y cuando ello fuere necesario para la guarda y conservación de los bienes de la sucesión o derechos que correspondan a la autora o el autor de la herencia, la autoridad jurisdiccional nombrará a alguien que ejerza el cargo de interventor como albacea judicial o provisional, de entre los mencionados en el escrito de denuncia a que se refiere el artículo 685, para que en el término de diez días acuda a aceptar el nombramiento conferido y, de no comparecer para su aceptación, se designará otro en sustitución, con la obligación y responsabilidad de actuar de manera diligente bajo apercibimiento de que los interesados puedan incoar los procedimientos para el resarcimiento de los daños ocasionados por sus actuaciones.
@@ -3392,16 +4284,26 @@ Cuando la autoridad jurisdiccional considere que las niñas, niños y adolescent
 
 ### Artículo 697
 . Serán remitidos a los juicios testamentarios y a los intestamentarios, siempre que no se haya dictado sentencia de adjudicación:
-I. Todos los juicios ordinarios y especiales, ya sean por acciones reales, personales o las ejecutivas, siempre que las demandas sean incoadas en contra de la persona de cuya sucesión se trate, por lo que se suspenderán hasta la designación de albacea, debiendo informar la autoridad jurisdiccional que conozca de la sucesión, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición, hasta en tanto se concluyen los juicios, con sentencia ejecutoriada, para ser remitida al juicio sucesorio y sea considerada en el haber hereditario, y II. Todas las sentencias ejecutoriadas de las demandas ordinarias y ejecutivas que se dedujeron contra los herederos de la persona cuya sucesión se trate, cuando afecte a otros acreedores de la sucesión en su calidad de tales, después de denunciado el intestado.
+
+I. Todos los juicios ordinarios y especiales, ya sean por acciones reales, personales o las ejecutivas, siempre que las demandas sean incoadas en contra de la persona de cuya sucesión se trate, por lo que se suspenderán hasta la designación de albacea, debiendo informar la autoridad jurisdiccional que conozca de la sucesión, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición, hasta en tanto se concluyen los juicios, con sentencia ejecutoriada, para ser remitida al juicio sucesorio y sea considerada en el haber hereditario, y
+
+II. Todas las sentencias ejecutoriadas de las demandas ordinarias y ejecutivas que se dedujeron contra los herederos de la persona cuya sucesión se trate, cuando afecte a otros acreedores de la sucesión en su calidad de tales, después de denunciado el intestado.
 De manera excepcional, en el juicio sucesorio, cuando quede de manifiesto que dolosamente repudió una persona heredera, con la intención de evadir el cumplimiento de una obligación en perjuicio de acreedores, sin que ello sea considerado vulnerar la voluntad de la persona de cuya sucesión se trate; quien solicitará la remisión de la sentencia ejecutoriada será la autoridad jurisdiccional en cuyo tribunal se encuentre radicada la sucesión.
 
 ### Artículo 698
 . Son acumulables a los juicios sucesorios:
+
 I. Los juicios ejecutivos incoados contra la persona de cuya sucesión se trate antes de su fallecimiento;
+
 II. Las demandas por acciones personales pendientes en primera o única instancia contra la persona de cuya sucesión se trate;
+
 III. Los juicios contra la persona de cuya sucesión se trate respecto de acciones reales pendientes en primera o única instancia;
+
 IV. Las demandas ordinarias o ejecutivas promovidas contra las personas herederas o legatarias en dicho carácter, después de denunciada la sucesión;
-V. Los juicios que sigan las personas herederas deduciendo la acción de petición de herencia, ya impugnando el testamento o la capacidad de aquellas personas herederas presentadas o reconocidas, o exigiendo su reconocimiento; siempre que esto último acontezca antes de la adjudicación, y VI. Las acciones de las personas legatarias reclamando sus legados, siempre que sean posteriores a la acción de inventarios, y antes de la adjudicación, excepto los legados de alimentos, de pensiones, de educación y de uso y habitación.
+
+V. Los juicios que sigan las personas herederas deduciendo la acción de petición de herencia, ya impugnando el testamento o la capacidad de aquellas personas herederas presentadas o reconocidas, o exigiendo su reconocimiento; siempre que esto último acontezca antes de la adjudicación, y
+
+VI. Las acciones de las personas legatarias reclamando sus legados, siempre que sean posteriores a la acción de inventarios, y antes de la adjudicación, excepto los legados de alimentos, de pensiones, de educación y de uso y habitación.
 
 ### Artículo 699
 . En los juicios sucesorios, el Ministerio Público, representación social o autoridad competente, comparecerá a nombre de las personas herederas, mientras no se presenten o no acrediten su representante legítimo, niñas, niños o adolescentes que no tengan representantes legítimos y, al Sistema para el Desarrollo Integral de la Familia, Beneficencia Pública, Instituciones Educativas, el Fisco, al Estado, o a quien se señale en el Código Civil Sustantivo en cada Entidad Federativa cuando no haya herederos legítimos dentro del grado de Ley, y mientras no se haga reconocimiento o declaración de herederos.
@@ -3427,40 +4329,72 @@ Cuando no hubiere convenio o se suscite oposición o controversia entre los inte
 
 ### Artículo 705
 . La primera sección se llamará de sucesión y contendrá en sus respectivos casos:
+
 I. El testamento o testimonio de protocolización, o la denuncia del intestado;
+
 II. El acta de defunción de la persona de cuya sucesión se trate;
+
 III. Las citaciones a las personas herederas, así como la convocatoria a quienes se crean con derecho a la herencia;
+
 IV. La constancia de haberse obtenido los informes de existencia o no de testamento otorgado por la persona de cuya sucesión se trate, de las autoridades que correspondan en cada Entidad Federativa, así como del Registro Nacional de Avisos de Testamento;
+
 V. El reconocimiento de derechos hereditarios, la repudiación y aceptación de la herencia y de los legados en caso de la comparecencia de legatarios, el reconocimiento de la validez del testamento y la declaratoria de herederos;
+
 VI. Lo relativo al nombramiento y la aceptación o no del cargo de albacea;
-VII. Los incidentes que se promueven sobre remoción de albacea, interventores o albaceas judiciales o provisionales, y VIII. Las resoluciones que se pronuncien sobre la validez del testamento, la capacidad legal para heredar y la preferencia de derechos.
+
+VII. Los incidentes que se promueven sobre remoción de albacea, interventores o albaceas judiciales o provisionales, y
+
+VIII. Las resoluciones que se pronuncien sobre la validez del testamento, la capacidad legal para heredar y la preferencia de derechos.
 
 ### Artículo 706
 . La sección segunda se llamará de inventarios, y contendrá:
+
 I. El inventario realizado por la persona que tenga el cargo de interventor, albacea judicial o provisional;
+
 II. El inventario que forme la persona albacea o los herederos, según corresponda de conformidad con la legislación sustantiva de la Entidad Federativa respectiva;
+
 III. La documentación que acredite la propiedad de los bienes inmuebles y su identificación plena con los datos del título de propiedad o escritura respectiva, acompañando, de ser necesario, la constancia de alineamiento y número oficial o cualquier otra constancia de autoridad competente de acuerdo a cada Entidad Federativa;
+
 IV. El avalúo que solicite el albacea o los herederos el cual deberá ser practicado por corredora o corredor público, perito valuador de institución crediticia o de los auxiliares de la administración de justicia o el valor catastral según la Entidad Federativa de la que se trate;
-V. Los incidentes que se promuevan, y VI. La resolución sobre el inventario y avalúo.
+
+V. Los incidentes que se promuevan, y
+
+VI. La resolución sobre el inventario y avalúo.
 
 ### Artículo 707
 . La tercera sección se llamará de administración y contendrá:
+
 I. Todo lo relativo a la administración y rendición de cuentas;
+
 II. La cuenta general, su glosa y calificación;
+
 III. La comprobación de haberse cubierto el impuesto fiscal relativo al pago predial, consumo de agua y electricidad de los inmuebles inventariados; y los comprobantes de pago de deudas a cargo de la persona de cuya sucesión se trate;
+
 IV. Los incidentes que se promuevan;
+
 V. Todos los cuadernillos, archivos electrónicos y libros que contengan las cuentas anuales que se rindan hasta la conclusión del juicio sucesorio;
-VI. En cuerda por separado el proyecto de distribución provisional de frutos si los hubiere, y VII. Las cuentas que rinda el albacea removido.
+
+VI. En cuerda por separado el proyecto de distribución provisional de frutos si los hubiere, y
+
+VII. Las cuentas que rinda el albacea removido.
 
 ### Artículo 708
 . La cuarta sección se llamará partición y contendrá:
+
 I. El proyecto de partición de los bienes, en el juicio testamentario de acuerdo a la voluntad del testador y en el caso del intestamentario, en términos de la declaratoria de herederos;
+
 II. Los incidentes que se promuevan respecto del proyecto a que se refiere la fracción anterior y su resolución;
-III. Los arreglos relativos, y IV. La resolución respecto a la aplicación de los bienes del proyecto de partición.
+
+III. Los arreglos relativos, y
+
+IV. La resolución respecto a la aplicación de los bienes del proyecto de partición.
 
 ### Artículo 709
 . Si dictada la resolución que califica a la sucesión como intestamentaria apareciere un testamento, se aplicarán las disposiciones siguientes:
-I. Se atenderá al contenido de la disposición testamentaria y quedará sin efecto la intestamentaria para recomponerse el procedimiento, y II. Si la disposición testamentaria no comprendiere todos los bienes hereditarios, en el mismo expediente continuará el intestado y se tramitará el testamentario en cuanto haya lugar.
+
+I. Se atenderá al contenido de la disposición testamentaria y quedará sin efecto la intestamentaria para recomponerse el procedimiento, y
+
+II. Si la disposición testamentaria no comprendiere todos los bienes hereditarios, en el mismo expediente continuará el intestado y se tramitará el testamentario en cuanto haya lugar.
 En este caso, se acumularán los juicios si resulta procedente, cumpliendo con las formalidades de este Código Nacional.
 
 ### Artículo 710
@@ -3474,10 +4408,16 @@ Se exceptúa de lo dispuesto en el párrafo anterior, cuando los bienes se encue
 
 ### Artículo 712
 . Las personas herederas de un juicio intestamentario pueden acudir ante la autoridad jurisdiccional en materia familiar para realizar el procedimiento especial en los intestados exhibiendo:
+
 I. Copia certificada del acta de defunción o declaración judicial de muerte de la autora o el autor de la sucesión;
+
 II. Actas de nacimiento para comprobar el entroncamiento o parentesco de las personas herederas;
+
 III. Documentos o pruebas que acrediten la relación con la persona autora de la sucesión, tratándose de cónyuges, concubinos o convivientes;
-IV. Inventario de los bienes, al que se le acompañarán los documentos que acrediten la propiedad de la persona autora de la sucesión, y V. Convenio de adjudicación de bienes.
+
+IV. Inventario de los bienes, al que se le acompañarán los documentos que acrediten la propiedad de la persona autora de la sucesión, y
+
+V. Convenio de adjudicación de bienes.
 
 ### Artículo 713
 . La autoridad jurisdiccional en audiencia de juicio, habiendo solicitado previamente informe del Archivo Judicial o Poder Judicial, Archivo General de Notarías o Registro Público de la Propiedad del Estado o Procurador Social del Estado o Director del Archivo de Instrumentos Públicos o Registro Nacional de Avisos de Testamento o cualquier otra oficina pública que lleve a cabo la función de informar sobre la existencia o inexistencia de testamento, en presencia de los interesados examinará los documentos, así como a los testigos a que se refiere este Código Nacional; hecho lo anterior en la misma audiencia resolverá haciendo la declaración de herederos y adjudicación de los bienes de acuerdo al convenio exhibido, debiendo señalar a la Notaria o Notario Público que procederá a la formalización de la misma.
@@ -3566,12 +4506,20 @@ El inventario y avalúo se practicarán simultáneamente, si es única y univers
 
 ### Artículo 737
 . El inventario deberá practicarse por la autoridad jurisdiccional, persona secretaria judicial, alcalde, alcaldesa, Notaria o Notario Público nombrada por los herederos, o autoridad competente en su caso, con las formalidades correspondientes al Código Civil aplicable siempre y cuando tenga que realizarse una descripción detallada de aquello que conforme la masa hereditaria de acuerdo con el importe de sus porciones, cuando concurran como herederos:
+
 I. Niñas, niños y adolescentes;
+
 II. Personas con discapacidad;
+
 III. El Sistema para el Desarrollo Integral de la Familia;
+
 IV. La Beneficencia Pública;
+
 V. Instituciones Educativas;
-VI. El Estado o las Entidades Federativas, y VII. En su defecto, a quien, teniendo interés en la sucesión, señale la legislación sustantiva correspondiente.
+
+VI. El Estado o las Entidades Federativas, y
+
+VII. En su defecto, a quien, teniendo interés en la sucesión, señale la legislación sustantiva correspondiente.
 A dicho inventario concurrirá conjuntamente el albacea.
 
 ### Artículo 738
@@ -3579,17 +4527,30 @@ A dicho inventario concurrirá conjuntamente el albacea.
 
 ### Artículo 739
 . El albacea dentro del término señalado en este Código Nacional procederá, a presentar el inventario de forma clara y precisa y en el orden siguiente:
+
 I. Dinero en efectivo;
+
 II. Alhajas;
+
 III. Bienes, derechos de comercio o industria, así como de propiedad intelectual;
+
 IV. Semovientes;
+
 V. Frutos;
+
 VI. Muebles;
+
 VII. Inmuebles;
+
 VIII. Créditos;
+
 IX. Documentos y correspondencia;
+
 X. Bienes ajenos que tenía en su poder el finado en comodato, depósito, prenda o bajo cualquier otro título, con expresión de la causa;
-XI. Bienes o derechos litigiosos señalándose la autoridad jurisdiccional, la clase de juicio, la persona contra quien se litiga y la causa del pleito, y XII. Las deudas que formen el pasivo de la sucesión, incluyendo los legados vigentes, los gastos funerarios y los que se hayan causado en la última enfermedad de la persona cuya sucesión se trata, con expresión de los títulos y documentos que justifiquen este pasivo.
+
+XI. Bienes o derechos litigiosos señalándose la autoridad jurisdiccional, la clase de juicio, la persona contra quien se litiga y la causa del pleito, y
+
+XII. Las deudas que formen el pasivo de la sucesión, incluyendo los legados vigentes, los gastos funerarios y los que se hayan causado en la última enfermedad de la persona cuya sucesión se trata, con expresión de los títulos y documentos que justifiquen este pasivo.
 
 ### Artículo 740
 . El inventario deberá especificar si de los bienes inventariados alguno corresponde la sociedad conyugal o se encuentren en copropiedad o posesión común en los casos de sociedad de convivencia o concubinato y los porcentajes, en su caso.
@@ -3636,8 +4597,12 @@ De la Administración y Rendición de Cuentas
 
 ### Artículo 751
 . Corresponde la posesión y administración de la masa hereditaria a quien sobreviva, de conformidad con lo siguiente:
+
 I. El o la cónyuge supérstite tanto en el régimen de la sociedad conyugal como en el de separación de bienes;
-II. El o la conviviente que haya elegido que su patrimonio presente y futuro forme parte del patrimonio de la sociedad en convivencia, y III. El o la concubina que hayan adquirido bienes en copropiedad o que haya procreado hijos en común con la persona de cuya sucesión se trata.
+
+II. El o la conviviente que haya elegido que su patrimonio presente y futuro forme parte del patrimonio de la sociedad en convivencia, y
+
+III. El o la concubina que hayan adquirido bienes en copropiedad o que haya procreado hijos en común con la persona de cuya sucesión se trata.
 La posesión y administración de la masa hereditaria, por cualquiera de las personas anteriormente mencionadas se hará con intervención del albacea quien pondrá a su disposición los bienes que conforman la masa hereditaria.
 
 ### Artículo 752
@@ -3646,10 +4611,16 @@ Una vez hechas sus manifestaciones, la autoridad jurisdiccional citará a ambas 
 
 ### Artículo 753
 . Durante la substanciación del juicio sucesorio no se podrá enajenar los bienes inventariados, sino por acuerdo de las personas herederas o con aprobación judicial en los siguientes casos:
+
 I. Cuando haya deuda o gasto urgente;
+
 II. Cuando los bienes puedan deteriorarse;
+
 III. Cuando sean de difícil y costosa conservación;
-IV. Cuando para la enajenación de los frutos se presenten condiciones ventajosas, y V. Cuando el acuerdo de los herederos no perjudique derechos de algún acreedor reconocido.
+
+IV. Cuando para la enajenación de los frutos se presenten condiciones ventajosas, y
+
+V. Cuando el acuerdo de los herederos no perjudique derechos de algún acreedor reconocido.
 
 ### Artículo 754
 . Las cuentas y sus archivos físicos y electrónicos se entregarán al albacea y, hecha la partición a los herederos reconocidos. Los demás documentos y archivos físicos y electrónicos quedarán en poder de la persona que haya desempeñado el albaceazgo.
@@ -3741,7 +4712,10 @@ Para dar curso a esta oposición, es indispensable expresar concretamente cuál 
 
 ### Artículo 779
 . Pueden oponerse a que se lleve a efecto la partición:
-I. Las personas acreedoras hereditarias legalmente reconocidas, mientras no se pague su crédito, si ya estuviere vencido y, si no lo estuviere, mientras no se les asegure debidamente el pago, y II. Las personas legatarias de cantidad, de alimentos, de educación y de pensiones, mientras no se les pague o se garantice legalmente el derecho.
+
+I. Las personas acreedoras hereditarias legalmente reconocidas, mientras no se pague su crédito, si ya estuviere vencido y, si no lo estuviere, mientras no se les asegure debidamente el pago, y
+
+II. Las personas legatarias de cantidad, de alimentos, de educación y de pensiones, mientras no se les pague o se garantice legalmente el derecho.
 
 ### Artículo 780
 . La adjudicación de bienes hereditarios se otorgará con las formalidades que, por su cuantía, la Ley exige para su venta. La Notaria o Notario Público ante la que se otorgue la escritura será designada por el albacea.
@@ -3791,8 +4765,12 @@ Contra la declaración de no estar ajustado a derecho el testamento, procede ape
 
 ### Artículo 792
 . Es parte legítima para los efectos del artículo anterior:
+
 I. El que tuviere interés en el testamento;
-II. El que hubiere recibido en él algún encargo del testador, y III. El que, con arreglo a las Leyes aplicables, pueda representar sin poder, a cualquiera de los que se encuentren en los casos que se expresan en las fracciones anteriores.
+
+II. El que hubiere recibido en él algún encargo del testador, y
+
+III. El que, con arreglo a las Leyes aplicables, pueda representar sin poder, a cualquiera de los que se encuentren en los casos que se expresan en las fracciones anteriores.
 
 ### Artículo 793
 . Hecha la solicitud, se señalarán día y hora dentro de los siguientes veinte días para el examen de los testigos que hayan concurrido al otorgamiento, bajo las reglas previstas por este Código Nacional.
@@ -3826,21 +4804,33 @@ Procedimiento Sucesorio No Controvertido Vía Judicial
 
 ### Artículo 799
 . En el caso que no exista controversia alguna entre herederos y legatarios si los hubiera, podrá optar por el trámite de sucesiones intestadas o testamentarias conforme a este procedimiento, y debiéndose cumplimentar los requisitos siguientes:
+
 I. Exhibir las copias certificadas, ya sea en formato físico o electrónico, de las actas de nacimiento y defunción de la persona autora de la sucesión;
+
 II. Exhibir las copias certificadas, ya sea en formato físico o electrónico, de las actas de la totalidad de las personas interesadas, en su caso las necesarias para acreditar el entroncamiento con la persona autora de la sucesión, así como la información relativa a si la persona se encontraba unida en matrimonio o concubinato en el momento de su fallecimiento;
+
 III. En los casos de intestado, la denuncia deberá estar firmada por la totalidad de las personas presuntamente herederas, o por sus representantes, todas deberán de señalar bajo protesta de decir verdad su reconocimiento entre sí y la propuesta para la designación de albacea;
+
 IV. Cuando se tenga conocimiento de la existencia de un testamento, a la denuncia se acompañará éste, o bien se realizará el señalamiento relativo a la ubicación del documento.
 El escrito de denuncia deberá de estar firmado por todas las personas interesadas o probablemente interesadas;
+
 V. Se deberá exhibir el inventario de los bienes cuya propiedad esté debidamente acreditada, el cual deberá estar firmado y con la aceptación expresa de las personas interesadas;
-VI. Se deberá exhibir el avalúo expedido por el perito valuador autorizado en términos de este Código Nacional, y VII. Se exhibirá una propuesta de convenio de liquidación y partición del haber hereditario, en el cual se deberá de consignar la aceptación de las personas interesadas.
+
+VI. Se deberá exhibir el avalúo expedido por el perito valuador autorizado en términos de este Código Nacional, y
+
+VII. Se exhibirá una propuesta de convenio de liquidación y partición del haber hereditario, en el cual se deberá de consignar la aceptación de las personas interesadas.
 
 ### Artículo 800
 . Para el caso de que entre las personas interesadas existan niñas, niños o adolescentes, conjuntamente a su comparecencia mediante sus legítimos representantes, deberá verificarse por la autoridad jurisdiccional que se cuente con una defensa técnica y especializada durante el trámite del procedimiento.
 
 ### Artículo 801
 . En la admisión del trámite la autoridad jurisdiccional ordenará de manera oficiosa que:
+
 I. Se recabe ante las dependencias registrales que corresponda la información relativa a la existencia o no de un testamento otorgado por la persona autora de la sucesión y en caso de existir tal documento se ordenará su remisión a la autoridad jurisdiccional;
-II. Se recabe en los Registros Públicos correspondientes, la información relativa a la existencia de bienes propiedad de la persona autora de la sucesión, y en su caso la existencia de gravámenes, y III. Se recabe en el Registro Civil de la entidad las certificaciones de las actas de nacimiento de los ascendientes, descendientes y colaterales hasta el cuarto grado de la persona autora de la sucesión.
+
+II. Se recabe en los Registros Públicos correspondientes, la información relativa a la existencia de bienes propiedad de la persona autora de la sucesión, y en su caso la existencia de gravámenes, y
+
+III. Se recabe en el Registro Civil de la entidad las certificaciones de las actas de nacimiento de los ascendientes, descendientes y colaterales hasta el cuarto grado de la persona autora de la sucesión.
 En el momento de la admisión del trámite se le dará intervención activa a la persona Agente del Ministerio Público correspondiente.
 
 ### Artículo 802
@@ -3887,11 +4877,17 @@ Siempre que haya oposición de algún aspirante a la herencia o de cualquier per
 
 ### Artículo 810
 . Para la titulación notarial de la adquisición por los legatarios instituidos en testamento público simplificado o testamento respecto de vivienda de interés social popular que hubiere sido otorgado en el mismo instrumento de adquisición o de conformidad con la legislación particular de cada Entidad Federativa, se observará lo siguiente:
+
 I. Los legatarios o sus representantes, exhibirán ante la Notaria o Notario Público la copia certificada del acta de defunción del testador y testimonio del testamento público simplificado o testamento respecto de vivienda de interés social popular y solicitarán por escrito el inicio del procedimiento especial de adjudicación;
+
 II. La Notaria o Notario Público dará a conocer, por medio de una publicación en un periódico de circulación nacional, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado o testamento respecto de vivienda de interés social popular, el nombre de la o el testador y de los legatarios;
+
 III. La Notaria o Notario Público solicitará al Archivo Judicial del Tribunal o Poder Judicial, así como el Archivo General de Notarías, Registro Público de la Propiedad, Procurador Social, Director del Archivo de Instrumentos Públicos, Dirección de Notarías y Registros Públicos, la cada Entidad Federativa, quienes serán las dependencias encargadas de solicitar la información al Registro Nacional de Avisos de Testamento, de las constancias relativas a la existencia o inexistencia de testamento. En el caso de que el testamento público simplificado o testamento respecto de vivienda de interés social popular presentado sea el último otorgado, la Notaría Pública podrá continuar con los trámites relativos, pasados diez días posteriores a la publicación a que se refiere la fracción anterior.
 Si hubiese oposición dentro de dicho plazo la o el notario suspenderá el trámite y remitirá el asunto a la autoridad jurisdiccional que se lo solicite;
-IV. La Notaria o Notario Público redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso, y la conformidad expresa de los legatarios en aceptar el legado. El testimonio que se expida se inscribirá en el Registro de la Propiedad, Oficina Registral o cualquier otra Institución análoga según la Entidad Federativa de que se trate. En su caso, se podrá hacer constar la repudiación expresa, y V. En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado o testamento respecto de vivienda de interés social popular, cuando reúnan los requisitos del Código Civil de la Entidad Federativa respectiva.
+
+IV. La Notaria o Notario Público redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso, y la conformidad expresa de los legatarios en aceptar el legado. El testimonio que se expida se inscribirá en el Registro de la Propiedad, Oficina Registral o cualquier otra Institución análoga según la Entidad Federativa de que se trate. En su caso, se podrá hacer constar la repudiación expresa, y
+
+V. En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado o testamento respecto de vivienda de interés social popular, cuando reúnan los requisitos del Código Civil de la Entidad Federativa respectiva.
 Título Segundo Del Concurso de Acreedores Capítulo Único Disposiciones Generales
 
 ### Artículo 811
@@ -3909,7 +4905,10 @@ La resolución final que contenga el plan de pagos emitida en el procedimiento j
 
 ### Artículo 814
 . Son personas relacionadas con la persona deudora o acreedora y no podrán desempeñarse como facilitadores o conciliadores en los procedimientos previstos en el presente Título, las siguientes:
-I. En el caso de deudores personas físicas no comerciantes: su cónyuge, concubina o concubino, parientes consanguíneos o por afinidad, sus garantes, personas con quienes el deudor o quienes se mencionan en esta fracción, tengan algún vínculo de amistad, trabajo o de alguna otra naturaleza que pueda generar un conflicto de interés, o cualquier persona moral de la que sean socios o en la que tengan poder decisorio en forma directa o indirecta quienes se mencionan en esta fracción, y II. En el caso de deudores personas morales de naturaleza civil no comerciantes: sus socios, cualquier miembro de sus órganos de administración, quienes tengan poder decisorio o por cualquier otra persona que tenga facultades de decisión en dichas personas morales.
+
+I. En el caso de deudores personas físicas no comerciantes: su cónyuge, concubina o concubino, parientes consanguíneos o por afinidad, sus garantes, personas con quienes el deudor o quienes se mencionan en esta fracción, tengan algún vínculo de amistad, trabajo o de alguna otra naturaleza que pueda generar un conflicto de interés, o cualquier persona moral de la que sean socios o en la que tengan poder decisorio en forma directa o indirecta quienes se mencionan en esta fracción, y
+
+II. En el caso de deudores personas morales de naturaleza civil no comerciantes: sus socios, cualquier miembro de sus órganos de administración, quienes tengan poder decisorio o por cualquier otra persona que tenga facultades de decisión en dichas personas morales.
 
 ### Artículo 815
 . El facilitador o conciliador será el encargado del procedimiento extrajudicial y será auxiliar de la autoridad jurisdiccional en el proceso judicial cuando así se ordene.
@@ -3944,28 +4943,45 @@ El facilitador o conciliador podrá ayudar a la persona deudora en el llenado de
 ### Artículo 821
 . El facilitador o conciliador notificará a cada uno de los acreedores de la solicitud presentada por la persona deudora dentro de los tres días hábiles siguientes por correo certificado, en el entendido de que en todo caso deberá contar con un acuse de recibo de la notificación. Además, se hará una publicación en el Boletín Concursal Nacional o medio de comunicación aplicable, a efecto de convocar a las personas acreedoras.
 La notificación deberá acompañarse de la información presentada por la persona deudora, con el objeto de que en la primera reunión el facilitador o conciliador presente una lista de créditos con el fin de establecer un mecanismo de conciliación sobre el estado de adeudos entre las partes, y deberá precisar lo siguiente:
+
 I. Lugar, fecha y hora de la primera reunión que deberá realizarse dentro de los siguientes veinticinco días y en la que deberá estar presente la persona deudora;
+
 II. Nombre y domicilio de la persona deudora, así como del facilitador o conciliador;
-III. El monto líquido probable de las obligaciones pecuniarias que la persona deudora sostenga se le deben a dicho acreedor, y IV. El probable grado de prelación atribuido a su crédito, así como solicitarle exhiba los documentos justificativos de su crédito agregando un cálculo del saldo insoluto dentro de los diez días hábiles siguientes a la fecha de la notificación en el domicilio del facilitador o conciliador.
+
+III. El monto líquido probable de las obligaciones pecuniarias que la persona deudora sostenga se le deben a dicho acreedor, y
+
+IV. El probable grado de prelación atribuido a su crédito, así como solicitarle exhiba los documentos justificativos de su crédito agregando un cálculo del saldo insoluto dentro de los diez días hábiles siguientes a la fecha de la notificación en el domicilio del facilitador o conciliador.
 Para el caso de inasistencia sin causa justificada de la persona deudora en la primera reunión o subsecuentes, se dará por terminado el procedimiento extrajudicial.
 Si las partes lo convienen desde la primera reunión, se podrá suspender la generación de intereses ordinarios y moratorios sobre la suerte principal, y en su caso, acordar que los acreedores se abstengan de hacer requerimientos judiciales de pago, de ejecución o requerimiento de la posesión de sus bienes o de dar por terminados los contratos que tengan entre ellos celebrados y puedan agravar la situación de la persona deudora.
 
 ### Artículo 822
 . El facilitador elaborará la lista de créditos que sea compatible para personas deudoras no comerciantes, considerando todas las obligaciones pecuniarias del deudor aun cuando la determinación de algunos adeudos se encuentre reservada a otra autoridad, en el entendido de que estos últimos no podrán ser objeto de negociación en el procedimiento de concurso.
 La lista de créditos deberá contener al menos lo siguiente:
-I. El nombre, domicilio y correo electrónico de la persona deudora y de cada acreedor, y II. La conciliación del saldo insoluto principal adeudado a cada acreedor más los intereses devengados hasta la fecha de presentación de la solicitud, especificando la prelación atribuida a cada crédito y sus garantías, misma que será explicada en la primera reunión con la finalidad de alcanzar acuerdo entre las partes.
+
+I. El nombre, domicilio y correo electrónico de la persona deudora y de cada acreedor, y
+
+II. La conciliación del saldo insoluto principal adeudado a cada acreedor más los intereses devengados hasta la fecha de presentación de la solicitud, especificando la prelación atribuida a cada crédito y sus garantías, misma que será explicada en la primera reunión con la finalidad de alcanzar acuerdo entre las partes.
 En el caso de créditos garantizados deberá especificarse el valor de la garantía. Para dichos efectos el acreedor garantizado deberá presentar un avalúo de institución de crédito o una opinión de perito valuador, en este último caso la persona deudora también tendrá derecho a que se escuche a un experto nombrado de su parte.
 Si algún acreedor no está de acuerdo con el monto y grado de prelación atribuido a su crédito en la lista de créditos propuesta por el facilitador o conciliador, tendrá expedito su derecho para hacerlo valer ante la autoridad jurisdiccional en la vía y forma que sea procedente, en cuyo caso, se dará por terminado el procedimiento extrajudicial.
 
 ### Artículo 823
 . El convenio extrajudicial debe contener un plan de pagos que no excederá de tres años, con excepción del pago de créditos con garantía real en los que se observarán las reglas previstas en los Códigos Civiles respectivos, en relación con la concurrencia y prelación de créditos, salvo pacto en contrario, en el que los acreedores manifiesten su voluntad de acogerse a los beneficios del presente procedimiento. En el convenio se deberá determinar lo siguiente, según corresponda:
+
 I. El reconocimiento de adeudo, pagos efectuados con anterioridad y monto que debe retener la persona deudora para satisfacer sus necesidades básicas y las de sus dependientes económicos, garantizando los alimentos de ellos;
+
 II. Los montos y forma de pago de los acreedores preferentes y demás acreedores;
+
 III. La continuación o terminación con consentimiento del acreedor del contrato sobre la vivienda de la persona deudora y su familia;
+
 IV. Un plan de pagos en el que se detallará como se aplicarán los montos de los ingresos que la persona deudora se obliga a pagar a sus acreedores, con los montos, fechas y formas de pago;
+
 V. Una lista de los bienes que se destinarán al pago de acreedores y que no sean necesarios para la subsistencia y trabajo de la persona deudora, en su caso, al valor más alto que les fue atribuido por corredor público o casa de comercio que se dedique a la venta de esos bienes, su posible adjudicación a favor de los acreedores como forma de pago o bien, el procedimiento para su venta extrajudicial de forma consensuada por las partes;
+
 VI. Modificaciones a los plazos, amortizaciones o intereses de los créditos a cargo de la persona deudora sin que constituyan usura. Si la persona deudora es una persona moral de naturaleza civil, el convenio establecerá las modificaciones consensuadas entre las partes que deben hacerse a los créditos y garantías a su cargo, así como las modificaciones que sean necesarias para que la persona moral siga operando, siempre y cuando sea viable su operación;
-VII. Las quitas o reducciones en los pagos, a cargo de la persona deudora y consentidas por el acreedor, y VIII. Reservas para el pago derivado de los adeudos de procedimientos judiciales que se estén siguiendo en contra de la persona deudora o en los que se haya dictado sentencia definitiva.
+
+VII. Las quitas o reducciones en los pagos, a cargo de la persona deudora y consentidas por el acreedor, y
+
+VIII. Reservas para el pago derivado de los adeudos de procedimientos judiciales que se estén siguiendo en contra de la persona deudora o en los que se haya dictado sentencia definitiva.
 El plan de pagos y el convenio deberán elaborarse atendiendo a la capacidad del pago de la persona deudora. El facilitador o conciliador será responsable de los daños y perjuicios que se ocasionen a las partes por su culpa o negligencia.
 
 ### Artículo 824
@@ -3988,8 +5004,12 @@ Los acreedores que hayan comparecido al procedimiento extrajudicial y no hayan c
 ### Artículo 828
 . El convenio celebrado ante un facilitador o conciliador certificado en caso de incumplimiento trae aparejada ejecución para su exigibilidad en la vía de apremio.
 Las materias siguientes no serán objeto de negociación en el convenio, sin embargo, el facilitador o conciliador deberá tomar nota de esas obligaciones en el plan de pagos:
+
 I. Alimentos decretados judicialmente, que son de exclusivo conocimiento de autoridad jurisdiccional;
-II. Responsabilidad civil decretada en sentencia firme proveniente de delitos o de actos dolosos o de mala fe, y III. Aquellos casos que conforme a la Ley no sean materia disponible.
+
+II. Responsabilidad civil decretada en sentencia firme proveniente de delitos o de actos dolosos o de mala fe, y
+
+III. Aquellos casos que conforme a la Ley no sean materia disponible.
 Durante el plazo de cumplimiento del convenio, permanecerá la suspensión de los procedimientos y actos de ejecución sobre los bienes de la persona deudora entre aquellos que se sujetaron al convenio respectivo y la generación de intereses sólo operará en los términos establecidos en el convenio de conformidad con lo establecido en el artículo 821.
 Cuando las sociedades de información crediticia no reciban un aviso de incumplimiento del convenio, deberán tenerlo por cumplido al término del plazo establecido realizando la cancelación correspondiente, salvo prueba en contrario.
 
@@ -4013,20 +5033,35 @@ Sección Segunda Del Proceso Judicial de Concurso Civil
 . Para iniciar el proceso judicial, la persona deudora debe presentar en la oficialía de partes o en la vía electrónica la solicitud de concurso a través del formato único concursal que deberá contener además de la firma, todos los datos requeridos en éste. Dicho formato podrá ser descargado de la página de internet del Poder Judicial de la Entidad Federativa en que se inicie el proceso. La persona deudora en su escrito deberá expresar los motivos que lo obligan a iniciar el procedimiento.
 Mediante la presentación del formato, la persona deudora declarará bajo protesta de decir verdad que todos los datos señalados son ciertos, con el apercibimiento que si incurre en falsedad se hará acreedor a las sanciones civiles, penales o administrativas que correspondan.
 El formato deberá contener la información y anexos siguientes:
+
 I. Nombre, domicilio para oír y recibir notificaciones, correo electrónico, a fin de que las notificaciones subsecuentes se le realicen por vía electrónica, así como identificación y datos de localización de cualquier persona con titularidad sobre los bienes de la persona deudora para que pueda deducir sus derechos;
+
 II. El nombre, domicilio y correo electrónico de los acreedores. Asimismo, nombre y domicilio de los deudores del concursado y manifestar si existen juicios pendientes o en trámite en contra de dichos deudores del concursado, como proporcionando los datos necesarios para su identificación;
+
 III. La persona deudora hará la solicitud a la autoridad jurisdiccional para que requiera al Centro de Justicia Alternativa del Poder Judicial de la Entidad Federativa que corresponda, designe una persona facilitadora o conciliador adscrito. Si la persona deudora o cualquiera de los acreedores no están de acuerdo con dicha designación, por encontrarse en alguno de los supuestos del artículo 814 del presente Código Nacional, la autoridad jurisdiccional designará al síndico provisional, quien se encargará de las funciones que correspondan;
+
 IV. Identificación de todo tipo de procedimientos contra la persona deudora;
+
 V. Montos que se estiman adeudados del principal e intereses a la fecha de presentación de la solicitud, con su prelación y en su caso, si tienen constituidas garantías, deberá exhibir las pruebas que así lo demuestren y manifestar el origen de cada deuda;
+
 VI. Enlistado de bienes susceptibles de embargo propiedad de la persona deudora. Si tiene inmuebles, debe acompañar un certificado de gravámenes y un avalúo;
-VII. Propuesta de un plan de pagos a sus acreedores, y VIII. La persona deudora exhibirá un reporte de crédito especial emitido por una sociedad de información crediticia con los nombres y domicilios de sus acreedores, con no más de un mes de antigüedad.
+
+VII. Propuesta de un plan de pagos a sus acreedores, y
+
+VIII. La persona deudora exhibirá un reporte de crédito especial emitido por una sociedad de información crediticia con los nombres y domicilios de sus acreedores, con no más de un mes de antigüedad.
 
 ### Artículo 834
 . En los casos en los que resulte que la deudora es persona física, además deberá incluir:
+
 I. Una copia de su identificación oficial;
+
 II. El monto promedio mensual de sus ingresos ordinarios y extraordinarios, que acredite razonablemente mediante comprobantes, y a falta de estos, deberá expresarlos y señalarlos bajo protesta de decir verdad, con el apercibimiento de ley;
+
 III. Nombres y edades de dependientes económicos comprobando el vínculo;
-IV. Lista de gastos mensuales, con sus comprobantes, y a falta de alguno de ellos, que lo señale bajo protesta de decir verdad, con el apercibimiento de ley, y V. La resolución provisional o definitiva o convenio que ordene el pago de pensión alimenticia, en su caso.
+
+IV. Lista de gastos mensuales, con sus comprobantes, y a falta de alguno de ellos, que lo señale bajo protesta de decir verdad, con el apercibimiento de ley, y
+
+V. La resolución provisional o definitiva o convenio que ordene el pago de pensión alimenticia, en su caso.
 La persona deudora podrá acompañar un avalúo o una opinión de experto, sobre el valor de los bienes enlistados que puedan ser comercializados.
 
 ### Artículo 835
@@ -4034,23 +5069,41 @@ La persona deudora podrá acompañar un avalúo o una opinión de experto, sobre
 
 ### Artículo 836
 . Cuando la deudora es persona jurídica de naturaleza civil, además deberá exhibir:
+
 I. El Registro Federal de Contribuyentes junto con un balance que muestre su activo, pasivo y capital al mes anterior a la fecha de presentación de su solicitud de concurso;
+
 II. Copia de su escritura constitutiva inscrita en el Registro Público de la Propiedad y del Comercio, en su caso;
+
 III. Copia de sus estatutos vigentes, en caso de que haya habido modificaciones;
+
 IV. Certificación de las hojas de sus libros o equivalente, que identifique a sus socios y miembros integrantes del órgano de administración. En caso de no contar con libros, una certificación del órgano de administración con esa información;
-V. Resolución de la asamblea general de socios de la persona deudora o equivalente, en el sentido de iniciar el procedimiento, y VI. La persona deudora deberá acompañar un avalúo o una opinión de experto sobre el valor de los bienes muebles e inmuebles enlistados que puedan ser comercializados.
+
+V. Resolución de la asamblea general de socios de la persona deudora o equivalente, en el sentido de iniciar el procedimiento, y
+
+VI. La persona deudora deberá acompañar un avalúo o una opinión de experto sobre el valor de los bienes muebles e inmuebles enlistados que puedan ser comercializados.
 
 ### Artículo 837
 . La demanda de concurso civil deberá especificar lo siguiente:
+
 I. Autoridad jurisdiccional ante la cual se promueve;
+
 II. Nombre, domicilio para oír y recibir notificaciones y correo electrónico del acreedor o deudor según sea el caso;
+
 III. En su caso, solicitud para que las notificaciones subsecuentes se le realicen en la vía electrónica;
+
 IV. Declaración de obligarse a dar aviso a la autoridad jurisdiccional dentro los tres días hábiles siguientes, respecto de cualquier pago que reciba de algún garante, avalista o coobligado de la persona deudora o acreedora según sea el caso;
+
 V. Nombre y domicilio de la persona deudora;
+
 VI. Fecha de suscripción, de vencimiento y monto total de su o sus créditos, tasa de interés aplicable y saldo principal no pagado e intereses a la fecha de presentación de la demanda, junto con los documentos que así lo justifiquen;
+
 VII. Posible grado y prelación de su o sus créditos en concordancia con lo previsto en el Código Civil respectivo y salvedades contenidas en el presente Título, precisando si tiene garantías, y en su caso, especificando el valor de las mismas, lo cual debe acreditar agregando una valuación de institución de crédito o la opinión de experto, con no más de tres meses de antigüedad;
+
 VIII. Hechos y fundamentos de derecho, así como las probanzas que tenga a su disposición, las que deberán de sujetarse a las reglas previstas en el presente Código Nacional;
-IX. Datos de identificación de los juicios o procedimientos iniciados en contra de la persona deudora por el acreedor demandante, y X. Los demás documentos o pruebas que acrediten la existencia del o los créditos. En su caso debe adjuntarse una relación que desglose los cargos y pagos realizados hasta ese momento por la persona deudora.
+
+IX. Datos de identificación de los juicios o procedimientos iniciados en contra de la persona deudora por el acreedor demandante, y
+
+X. Los demás documentos o pruebas que acrediten la existencia del o los créditos. En su caso debe adjuntarse una relación que desglose los cargos y pagos realizados hasta ese momento por la persona deudora.
 El acreedor podrá solicitar las medidas cautelares que resulten necesarias para preservar la finalidad del procedimiento de conformidad con las reglas previstas en el presente Código Nacional.
 
 ### Artículo 838
@@ -4063,26 +5116,46 @@ Admitida la demanda y emplazada la persona deudora, ésta podrá oponerse al con
 
 ### Artículo 840
 . Subsanada la prevención ordenada a la persona deudora, en su caso, la autoridad jurisdiccional dictará el auto de admisión de la solicitud de concurso, o la resolución que lo tiene por presentado conforme al artículo anterior, en el que declarará la apertura del procedimiento y ordenará lo siguiente:
+
 I. Notificar el inicio del procedimiento a todas las sociedades de información crediticia y solicitarles un reporte de crédito especial de la persona deudora, con los nombres y domicilios de sus acreedores al momento de la emisión del reporte;
+
 II. Notificar a la persona deudora la formación de su concurso sea necesario o voluntario;
+
 III. Notificar la formación del concurso a los acreedores personalmente o por correo certificado en el domicilio señalado en el reporte especial de crédito; y, cuando el domicilio del acreedor no esté señalado en dicho reporte, será en el domicilio señalado por la persona deudora y de no existir el domicilio o no encontrarse la persona acreedora en el mismo se ordenará la búsqueda a través de los medios que establece el presente Código Nacional.
 Con la notificación se permitirá el acceso electrónico al formato único concursal y a la propuesta del plan de pagos realizada por la persona deudora, y en caso de no ser posible, se les correrá traslado con la información;
+
 IV. Publicar el auto de apertura del procedimiento concursal en el medio de comunicación procesal oficial, por tres días hábiles consecutivos, contados a partir del día hábil siguiente a la fecha en que se dicte dicho auto. Las publicaciones en relación a los procedimientos regulados en este Capítulo serán gratuitas para el deudor;
+
 V. Notificar electrónicamente al Centro de Justicia Alternativa de la Entidad Federativa que corresponda el inicio del proceso concursal a efecto que designe al facilitador o conciliador;
+
 VI. La prohibición a la persona deudora de enajenar o gravar sus bienes, salvo con autorización judicial;
+
 VII. Designar a la persona deudora como depositario judicial de todos sus bienes a la fecha de presentación del formato único concursal;
+
 VIII. Señalará un término de quince días hábiles, contados a partir de que cause estado su notificación, para que los acreedores presenten los documentos justificativos de sus créditos y sus objeciones respecto de la información exhibida por la persona deudora, acompañadas de las pruebas que acrediten su dicho, apercibidas que, de no hacerlo, precluirá su derecho;
+
 IX. Notificar a las autoridades jurisdiccionales ante quienes se tramiten juicios en contra de la persona deudora, del inicio del procedimiento concursal civil a efecto que informen a la autoridad jurisdiccional del concurso sobre el alcance y monto objeto del litigio para que sea tomado en cuenta en el procedimiento, así como en su caso, exhibir copia certificada de la sentencia y auto que la declare firme y que condene al pago de una cantidad líquida y exigible en contra de la persona deudora. El presente procedimiento no puede afectar los derechos de las niñas, niños o adolescentes en lo particular y los derechos de familia en lo general;
+
 X. Notificar a los deudores conocidos la prohibición de hacer pagos o entregar efectos al concursado, bajo el apercibimiento de doble pago, debiendo consignar esos pagos a la autoridad jurisdiccional que conozca del concurso;
+
 XI. Ordenar inscribir el auto de inicio del proceso concursal en los Registros Públicos que correspondan a los bienes de la persona deudora o cuando sea una persona jurídica colectiva de naturaleza civil o existan bienes inmuebles en su patrimonio, ordenando los exhortos, que resulten necesarios;
+
 XII. Señalar la fecha de retroacción;
+
 XIII. Tener por vencidas a la fecha de presentación de la solicitud o demanda todas las obligaciones de la persona deudora para poder determinar su cuantía durante el procedimiento;
-XIV. Interrumpir el cómputo de la prescripción negativa respecto de todos los adeudos, y XV. Se tendrán por no puestos los pactos que limiten o impidan el procedimiento concursal, o que iniciado el mismo agraven las obligaciones de la persona deudora en perjuicio de los acreedores.
+
+XIV. Interrumpir el cómputo de la prescripción negativa respecto de todos los adeudos, y
+
+XV. Se tendrán por no puestos los pactos que limiten o impidan el procedimiento concursal, o que iniciado el mismo agraven las obligaciones de la persona deudora en perjuicio de los acreedores.
 
 ### Artículo 841
 . La autoridad jurisdiccional podrá ordenar las medidas de protección al patrimonio, descritas en el artículo 828 del presente Código Nacional, las cuales dejarán de surtir efectos si la solicitud o demanda es desechada, o en la fecha que ocurra antes de:
+
 I. La aprobación del convenio entre la persona deudora y sus acreedores por la autoridad jurisdiccional o la emisión de una sentencia con un plan de pagos;
-II. Un plazo de tres meses contados a partir de la notificación al último acreedor del auto referido en este artículo, y III. Un plazo de tres meses contados a partir de la publicación a que se refiere la fracción IV del
+
+II. Un plazo de tres meses contados a partir de la notificación al último acreedor del auto referido en este artículo, y
+
+III. Un plazo de tres meses contados a partir de la publicación a que se refiere la fracción IV del
 
 ### artículo 840
 .
@@ -4095,11 +5168,18 @@ II. Un plazo de tres meses contados a partir de la notificación al último acre
 
 ### Artículo 844
 . No se acumulan al concurso civil los juicios que estén pendientes de resolución ni los casos siguientes:
+
 I. Los juicios de alimentos;
+
 II. Los deducidos por trabajadores;
+
 III. Los hipotecarios;
+
 IV. Los que procedan de créditos prendarios;
-V. Los que no sean acumulables, por disposición de la ley, y VI. Los demás que se hubieren fallado en primera instancia, mismos que se acumularán una vez que se decidan definitivamente.
+
+V. Los que no sean acumulables, por disposición de la ley, y
+
+VI. Los demás que se hubieren fallado en primera instancia, mismos que se acumularán una vez que se decidan definitivamente.
 
 ### Artículo 845
 . El facilitador o conciliador designado para intervenir en el proceso judicial de concurso civil deberá aceptar su cargo ante la autoridad jurisdiccional dentro de los tres días hábiles siguientes a su designación.
@@ -4112,16 +5192,25 @@ Hecho lo anterior, se pondrá a consideración de la autoridad jurisdiccional el
 
 ### Artículo 846
 . Si transcurrido el plazo de los tres meses referido en el artículo anterior, no se tiene una lista definitiva de créditos o no se ha aprobado un convenio con plan de pagos, el facilitador o conciliador deberá entregar de inmediato a la autoridad jurisdiccional:
+
 I. Si el concursado es persona física, el formato único universal y en su caso, el enlistado actualizado de los bienes y adeudos del concursado. Si es persona jurídica, de manera adicional al formato único universal, deberá presentar un balance y un inventario actualizados de los bienes del concursado;
-II. Todos los documentos que las partes le hubieren entregado, incluyendo propuestas de convenio o plan de pagos, y III. Las demás que se le requiera de conformidad con el presente Capítulo y las que estime la autoridad jurisdiccional.
+
+II. Todos los documentos que las partes le hubieren entregado, incluyendo propuestas de convenio o plan de pagos, y
+
+III. Las demás que se le requiera de conformidad con el presente Capítulo y las que estime la autoridad jurisdiccional.
 De igual manera, la autoridad jurisdiccional convocará a las partes a una audiencia para escuchar lo que a su derecho convenga en relación al convenio y plan de pagos, que se efectuará dentro de los quince días siguientes a la conclusión del plazo de tres meses al que se refiere el artículo anterior, la que tendrá lugar con independencia del número de acreedores que se presenten.
 Verificada la audiencia de conformidad con lo dispuesto en el presente Código Nacional, se dictará resolución dentro de los diez días siguientes.
 
 ### Artículo 847
 . La sentencia definitiva, además de cumplir con los requisitos de ley, deberá resolver:
+
 I. El plan de pagos en los términos establecidos en el artículo 823;
+
 II. Los bienes susceptibles de enajenación;
-III. El monto que podrá conservar la persona deudora para cubrir los gastos necesarios para su subsistencia y la de sus dependientes económicos, y IV. Las consideraciones aplicables, bajo la perspectiva de derechos humanos, sobre la declaratoria de concurso de la persona deudora y la imposibilidad de pago de sus deudas existentes al inicio del procedimiento.
+
+III. El monto que podrá conservar la persona deudora para cubrir los gastos necesarios para su subsistencia y la de sus dependientes económicos, y
+
+IV. Las consideraciones aplicables, bajo la perspectiva de derechos humanos, sobre la declaratoria de concurso de la persona deudora y la imposibilidad de pago de sus deudas existentes al inicio del procedimiento.
 Una vez que la persona deudora cumpla con lo establecido en la sentencia, se tendrán por extinguidas sus obligaciones existentes al inicio del procedimiento.
 
 ### Artículo 848
@@ -4129,10 +5218,16 @@ Una vez que la persona deudora cumpla con lo establecido en la sentencia, se ten
 
 ### Artículo 849
 . La junta de acreedores se desarrollará como sigue:
+
 I. El síndico exhibirá el formato único universal, en su caso, el balance actual y un inventario de los bienes;
+
 II. Se examinarán los créditos de los acreedores;
+
 III. El síndico formulará un proyecto de clasificación de los créditos;
-IV. Los créditos podrán ser objetados por el síndico, por el concursado o por cualquier acreedor, y V. Terminado el reconocimiento y graduación, los acreedores, por mayoría de créditos y de personas asistentes designarán síndico definitivo o en su defecto lo hará la autoridad jurisdiccional.
+
+IV. Los créditos podrán ser objetados por el síndico, por el concursado o por cualquier acreedor, y
+
+V. Terminado el reconocimiento y graduación, los acreedores, por mayoría de créditos y de personas asistentes designarán síndico definitivo o en su defecto lo hará la autoridad jurisdiccional.
 El síndico tendrá los mismos impedimentos respecto del concursado y de la autoridad jurisdiccional que los que tienen las personas tutoras que administren bienes. El síndico será removido, mediante incidente, si deja de cumplir con alguna de sus funciones.
 
 ### Artículo 850
@@ -4140,24 +5235,41 @@ El síndico tendrá los mismos impedimentos respecto del concursado y de la auto
 
 ### Artículo 851
 . Para el supuesto que la persona deudora deba entrar en liquidación y, eventualmente, al remate de los bienes, las funciones del síndico serán:
+
 I. Tomar posesión del patrimonio y de los demás bienes del concursado, con excepción de los necesario para la subsistencia de la persona deudora y sus dependientes económicos;
+
 II. Redactar el inventario;
+
 III. Formular el balance en caso de que el concursado sea una persona moral, y de ser necesario, rectificarlo, o aprobarlo en su caso;
+
 IV. Recibir y examinar los libros y documentos del patrimonio del concursado;
+
 V. Depositar los valores para su resguardo y conservación;
+
 VI. Rendir a la autoridad jurisdiccional un informe del estado del patrimonio;
+
 VII. Llevar a cabo las acciones necesarias para el avalúo de los bienes;
-VIII. Llevar la contabilidad, y IX. Ejercitar y continuar todos los derechos, acciones y excepciones que correspondan al concursado, con relación a sus bienes.
+
+VIII. Llevar la contabilidad, y
+
+IX. Ejercitar y continuar todos los derechos, acciones y excepciones que correspondan al concursado, con relación a sus bienes.
 La liquidación del patrimonio de la persona deudora debe seguir las reglas de la ejecución de la sentencia, trance y remate de bienes que previene el presente Código Nacional.
 Cuando no haya plazo específico para el cumplimiento de las obligaciones del síndico, lo será de diez días.
 
 ### Artículo 852
 . Podrá constituir causa de anulación total o parcial del plan de pagos si en el transcurso de cualquiera de los procedimientos regulados en este Capítulo la persona deudora incurre en actos tendientes a retrasar u obstaculizar los objetivos del procedimiento, o en alguna de las conductas siguientes:
+
 I. Proporcionar información falsa, inexacta u omitir información;
+
 II. Ocultar sus bienes o ingresos u ocasionar su insolvencia poniendo sus bienes a nombre de personas relacionadas o se abstiene de distribuir el excedente a sus acreedores;
+
 III. Abstenerse intencionalmente de conseguir un empleo o de generar ingresos;
+
 IV. Celebrar actos jurídicos que disminuyan su patrimonio sin causa justificada o realizar algún acto en fraude de acreedores;
-V. Celebrar actos jurídicos a título gratuito o sin una contraprestación a valor de mercado, y VI. Realizar algún acto jurídico que le de alguna preferencia o coloque en una mejor posición a alguno de sus acreedores sin causa justificada, causando un daño o perjuicio al resto de los acreedores.
+
+V. Celebrar actos jurídicos a título gratuito o sin una contraprestación a valor de mercado, y
+
+VI. Realizar algún acto jurídico que le de alguna preferencia o coloque en una mejor posición a alguno de sus acreedores sin causa justificada, causando un daño o perjuicio al resto de los acreedores.
 Cualquier acreedor estará legitimado para solicitar ante la autoridad jurisdiccional que se revoquen las medidas de protección al patrimonio.
 El rector del procedimiento levantará todas las medidas de protección del patrimonio de la persona deudora previstas en este Capítulo. El acreedor deberá adjuntar a su escrito las pruebas que acrediten su solicitud de levantamiento o anulación, la cual se hará valer en la vía incidental. Contra esta resolución procede el recurso de apelación en el efecto devolutivo.
 
@@ -4180,13 +5292,20 @@ La acción colectiva será procedente además contra toda persona física o mora
 
 ### Artículo 857
 . Para los efectos de este Código Nacional, los derechos citados en el artículo anterior se ejercerán a través de acciones colectivas, que se clasificarán en:
+
 I. Acción difusa: Es aquélla de naturaleza indivisible que se ejerce para tutelar los derechos e intereses difusos, cuyo titular es una colectividad indeterminada, que tiene por objeto reclamar judicialmente de la persona demandada la reparación del daño causado a la colectividad, consistente en la restitución de las cosas al estado que guardaren antes de la afectación o, en su caso, al cumplimiento sustituto de acuerdo a la afectación de los derechos o intereses de la colectividad, sin que necesariamente exista vínculo jurídico alguno entre dicha colectividad y la parte demandada;
-II. Acción colectiva en sentido estricto: Es aquélla de naturaleza indivisible que se ejerce para tutelar los derechos e intereses colectivos, cuyo titular es una colectividad determinada o determinable con base en circunstancias comunes, cuyo objeto es reclamar judicialmente de la parte demandada, la reparación del daño causado consistente en la realización de una o más acciones o abstenerse de realizarlas, así como a cubrir los daños en forma individual a las personas integrantes del grupo y que deriva de un vínculo jurídico común, existente por mandato de ley entre la colectividad y la parte demandada, y III. Acción individual homogénea: Es aquélla de naturaleza divisible, que se ejerce para tutelar derechos e intereses individuales de incidencia colectiva, cuyos titulares son los individuos agrupados con base en circunstancias comunes, cuyo objeto es reclamar judicialmente de un tercero el cumplimiento forzoso de un contrato o su rescisión con sus consecuencias y efectos según la legislación aplicable.
+
+II. Acción colectiva en sentido estricto: Es aquélla de naturaleza indivisible que se ejerce para tutelar los derechos e intereses colectivos, cuyo titular es una colectividad determinada o determinable con base en circunstancias comunes, cuyo objeto es reclamar judicialmente de la parte demandada, la reparación del daño causado consistente en la realización de una o más acciones o abstenerse de realizarlas, así como a cubrir los daños en forma individual a las personas integrantes del grupo y que deriva de un vínculo jurídico común, existente por mandato de ley entre la colectividad y la parte demandada, y
+
+III. Acción individual homogénea: Es aquélla de naturaleza divisible, que se ejerce para tutelar derechos e intereses individuales de incidencia colectiva, cuyos titulares son los individuos agrupados con base en circunstancias comunes, cuyo objeto es reclamar judicialmente de un tercero el cumplimiento forzoso de un contrato o su rescisión con sus consecuencias y efectos según la legislación aplicable.
 La autoridad jurisdiccional calificará en definitiva la procedencia de la acción colectiva planteada por la parte actora en la etapa de certificación. En caso de que la autoridad jurisdiccional considere que la acción se planteó incorrectamente al referir la categoría propuesta en este mismo artículo, de oficio determinará cuál es la acción colectiva que se admite, en el entendido que lo anterior en ningún momento podrá ser motivo de desechamiento de la demanda. La autoridad jurisdiccional no podrá modificar los hechos ni los argumentos planteados en el escrito inicial de demanda.
 
 ### Artículo 858
 . En particular, las acciones colectivas son procedentes para tutelar:
-I. Derechos e intereses difusos y colectivos, entendidos como aquéllos de naturaleza indivisible cuya titularidad corresponde a una colectividad de personas, indeterminada o determinable, relacionadas por circunstancias de hecho o de derecho comunes, y II. Derechos e intereses individuales de incidencia colectiva, entendidos como aquéllos de naturaleza divisible cuya titularidad corresponde a quienes sean integrantes de una colectividad de personas, determinable, relacionadas por circunstancias de derecho.
+
+I. Derechos e intereses difusos y colectivos, entendidos como aquéllos de naturaleza indivisible cuya titularidad corresponde a una colectividad de personas, indeterminada o determinable, relacionadas por circunstancias de hecho o de derecho comunes, y
+
+II. Derechos e intereses individuales de incidencia colectiva, entendidos como aquéllos de naturaleza divisible cuya titularidad corresponde a quienes sean integrantes de una colectividad de personas, determinable, relacionadas por circunstancias de derecho.
 
 ### Artículo 859
 . Cualquier acción colectiva podrá tener por objeto pretensiones declarativas, constitutivas o de condena, con base a los principios de reparación integral del daño y justa indemnización.
@@ -4203,17 +5322,29 @@ Sección Primera De la Legitimación Activa
 
 ### Artículo 862
 . Tienen legitimación activa para ejercitar las acciones colectivas:
+
 I. La Procuraduría Federal del Consumidor, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, la Comisión Federal de Competencia Económica y el Instituto Federal de Telecomunicaciones en materia de competencia económica;
+
 II. La persona que ejerza la representación común deberá ser parte de la colectividad conformada por, al menos quince personas;
+
 III. Las asociaciones civiles o sus correlativas sin fines de lucro, legalmente constituidas, al menos, un año previo al momento de presentar la acción, cuyo objeto social incluya la promoción o defensa de los derechos e intereses de la materia de que se trate y que cumplan con los requisitos establecidos en este Código Nacional;
-IV. La Fiscalía General de la República, y V. El Instituto Federal de la Defensoría Pública.
+
+IV. La Fiscalía General de la República, y
+
+V. El Instituto Federal de la Defensoría Pública.
 
 ### Artículo 863
 . La representación a que se refieren las fracciones II y III del artículo anterior, deberá ser adecuada. Se considera representación adecuada:
+
 I. Actuar con diligencia, pericia y buena fe en la defensa de los intereses de la colectividad en el juicio;
+
 II. No encontrarse en situaciones de conflicto de interés con las personas que representa respecto de las actividades que realiza;
+
 III. No promover o haber promovido de manera reiterada acciones difusas, colectivas o individuales homogéneas frívolas o temerarias;
-IV. No promover una acción difusa, colectiva en sentido estricto o individual homogénea con fines de lucro, electorales, proselitistas, de competencia desleal o especulativos, y V. No haberse conducido con impericia, mala fe o negligencia en acciones colectivas previas, La representación de la colectividad en el juicio se considera de interés público. La autoridad jurisdiccional Federal, deberá vigilar de oficio que dicha representación sea adecuada durante la substanciación del procedimiento.
+
+IV. No promover una acción difusa, colectiva en sentido estricto o individual homogénea con fines de lucro, electorales, proselitistas, de competencia desleal o especulativos, y
+
+V. No haberse conducido con impericia, mala fe o negligencia en acciones colectivas previas, La representación de la colectividad en el juicio se considera de interés público. La autoridad jurisdiccional Federal, deberá vigilar de oficio que dicha representación sea adecuada durante la substanciación del procedimiento.
 La persona que ejerza el cargo de representante deberá rendir protesta ante la autoridad jurisdiccional Federal y rendir cuentas en cualquier momento a petición de ésta.
 En el caso de que durante el procedimiento dejare de haber alguien con legitimación activa o bien, los legitimados referidos en las fracciones II y III, del artículo 862 de este Código Nacional, no cumplieran con los requisitos referidos en el presente artículo, la autoridad jurisdiccional Federal, de oficio o a petición de cualquier integrante de la colectividad, abrirá un incidente de remoción y sustitución, debiendo suspender el juicio y notificar el inicio del incidente a la colectividad en los términos a que se refiere este Código Nacional.
 Una vez realizada la notificación a que se refiere el párrafo anterior, la autoridad jurisdiccional Federal recibirá las solicitudes de las partes interesadas dentro del término de diez días, evaluará las solicitudes que se presentaren y resolverá lo conducente dentro del plazo de tres días.
@@ -4224,37 +5355,66 @@ Sección Segunda Del Procedimiento
 
 ### Artículo 864
 . La demanda deberá contener:
+
 I. La autoridad jurisdiccional ante la cual se promueve;
+
 II. El nombre, domicilio, número telefónico y dirección de correo electrónico que señale para oír y recibir notificaciones;
+
 III. En el caso de las acciones colectivas en sentido estricto y las individuales homogéneas, los nombres de quienes integren la colectividad promoventes de la demanda;
+
 IV. El nombre de la persona representante autorizada y número de cédula profesional;
+
 V. Los documentos con los que la parte actora acredite su representación de conformidad con este Título;
+
 VI. El nombre de la parte demandada y su domicilio, o la manifestación bajo protesta de decir verdad de que se ignora éste;
+
 VII. La precisión del derecho difuso, colectivo o individual homogéneo que se considera afectado;
+
 VIII. El tipo de acción que pretende promover;
+
 IX. Las pretensiones correspondientes a la acción;
+
 X. Los hechos en que funde sus pretensiones y las circunstancias comunes que comparta la colectividad respecto de la acción que se intente;
-XI. Los fundamentos de derecho, y XII. En el caso de las acciones colectivas en sentido estricto e individuales homogéneas, las consideraciones y los hechos que sustenten la conveniencia de la substanciación por la vía colectiva en lugar de la acción individual.
+
+XI. Los fundamentos de derecho, y
+
+XII. En el caso de las acciones colectivas en sentido estricto e individuales homogéneas, las consideraciones y los hechos que sustenten la conveniencia de la substanciación por la vía colectiva en lugar de la acción individual.
 La autoridad jurisdiccional Federal podrá prevenir a la parte actora para que aclare o subsane su demanda cuando advierta la omisión de requisitos de forma, sea obscura o irregular, otorgándole un término de cinco días para tales efectos.
 La autoridad jurisdiccional Federal resolverá si desecha de plano la demanda en los casos en que la parte actora no desahogue la prevención, no se cumplan los requisitos previstos en este Libro, o se trate de pretensiones infundadas, frívolas o temerarias.
 
 ### Artículo 865
 . Son requisitos de procedencia de la legitimación en la causa los siguientes:
+
 I. Que se trate de actos que dañen a personas consumidoras o usuarias de bienes o servicios públicos o privados o al medio ambiente o que se trate de actos que hayan dañado a la persona consumidora por la existencia de concentraciones indebidas o prácticas monopólicas, declaradas existentes por resolución firme emitida por la Comisión Federal de Competencia Económica y el Instituto Federal de Telecomunicaciones;
+
 II. Que verse sobre cuestiones comunes de hecho o de derecho entre quienes integren la colectividad de que se trate;
+
 III. Que existan al menos quince personas en la colectividad, en el caso de las acciones colectivas en sentido estricto e individuales homogéneas;
+
 IV. Que exista coincidencia entre el objeto de la acción ejercitada y la afectación sufrida;
+
 V. Que la materia de la litis no haya sido objeto de cosa juzgada en procedimientos previos con motivo del ejercicio de las acciones tuteladas en este Título;
-VI. Que no haya prescrito la acción, y VII. Las demás que determinen las leyes especiales aplicables.
+
+VI. Que no haya prescrito la acción, y
+
+VII. Las demás que determinen las leyes especiales aplicables.
 
 ### Artículo 866
 . Son causales de improcedencia de la legitimación en el procedimiento, los siguientes:
+
 I. Que las partes promoventes de la colectividad no hayan otorgado su consentimiento en el caso de las acciones colectivas en sentido estricto e individuales homogéneas;
+
 II. Que los actos en contra de los cuales se endereza la acción constituyan procesos judiciales;
+
 III. Que la representación no cumpla los requisitos previstos en este Libro;
+
 IV. Que la colectividad en la acción colectiva en sentido estricto o individual homogénea, no pueda ser determinable o determinada en atención a la afectación a sus miembros, así como a las circunstancias comunes de hecho o de derecho de dicha afectación;
+
 V. Que su desahogo mediante el procedimiento colectivo no sea idóneo;
-VI. Que exista litispendencia entre el mismo tipo de acciones, en cuyo caso procederá la acumulación en los términos previstos en este Código Nacional, y VII. Que las asociaciones que pretendan ejercer la legitimación en el procedimiento no cumplan con los requisitos establecidos en este Libro.
+
+VI. Que exista litispendencia entre el mismo tipo de acciones, en cuyo caso procederá la acumulación en los términos previstos en este Código Nacional, y
+
+VII. Que las asociaciones que pretendan ejercer la legitimación en el procedimiento no cumplan con los requisitos establecidos en este Libro.
 La autoridad jurisdiccional Federal, de oficio o a petición de cualquier persona interesada, podrá verificar el cumplimiento de estos requisitos durante el procedimiento.
 
 ### Artículo 867
@@ -4353,23 +5513,34 @@ Cuando la representación fraudulenta se advirtiera después de dictada la sente
 
 ### Artículo 887
 . En cualquier etapa del procedimiento, la autoridad jurisdiccional Federal podrá decretar a petición de parte, medidas precautorias que podrán consistir en:
+
 I. La orden de cesación de los actos o actividades que estén causando o necesariamente hayan de causar un daño inminente e irreparable a la colectividad;
+
 II. La orden de realizar actos o acciones que su omisión haya causado o necesariamente hayan de causar un daño inminente e irreparable a la colectividad;
-III. El retiro del mercado o aseguramiento de instrumentos, bienes, ejemplares y productos directamente relacionados con el daño irreparable que se haya causado, estén causando o que necesariamente hayan de causarse a la colectividad, y IV. Cualquier otra medida que la autoridad jurisdiccional considere pertinente dirigida a proteger los derechos e intereses de una colectividad.
+
+III. El retiro del mercado o aseguramiento de instrumentos, bienes, ejemplares y productos directamente relacionados con el daño irreparable que se haya causado, estén causando o que necesariamente hayan de causarse a la colectividad, y
+
+IV. Cualquier otra medida que la autoridad jurisdiccional considere pertinente dirigida a proteger los derechos e intereses de una colectividad.
 
 ### Artículo 888
 . Las medidas precautorias previstas en el artículo anterior podrán decretarse siempre que con las mismas no se causen más daños que los que se causarían con los actos, hechos u omisiones objeto de la medida.
 La autoridad jurisdiccional Federal deberá valorar que las medidas que se dicten no afecten la viabilidad financiera de la parte demandada.
 Para el otorgamiento de dichas medidas se requerirá:
+
 I. Que la persona solicitante de la medida manifieste claramente cuáles son los actos, hechos o abstenciones que estén causando un daño o vulneración a los derechos o intereses colectivos o lo puedan llegar a causar.
+
 II. Que exista urgencia en el otorgamiento de la medida en virtud del riesgo de que se cause o continúe causando un daño de difícil o imposible reparación.
 Si con el otorgamiento de la medida se pudiera ocasionar daño a la persona demandada, ésta podrá otorgar garantía suficiente para reparar los daños que pudieran causarse a la colectividad, salvo aquellos casos en los que se trate de una amenaza inminente e irreparable al interés social, a la vida o a la salud de los miembros de la colectividad o por razones de seguridad nacional.
 
 ### Artículo 889
 . La autoridad jurisdiccional federal, para hacer cumplir sus determinaciones, puede emplear, a discreción, los siguientes medios de apremio:
+
 I. Multa hasta por la cantidad equivalente a treinta mil Unidades de Medida y Actualización, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse lo ordenado por la autoridad jurisdiccional;
+
 II. El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario;
+
 III. El cateo por orden escrita;
+
 IV. El arresto hasta por treinta y seis horas.
 Si fuere insuficiente el apremio, se procederá contra la persona rebelde por el delito de desobediencia.
 
@@ -4392,15 +5563,22 @@ Tratándose de derechos o intereses individuales de incidencia colectiva, en cas
 ### Artículo 894
 . Cada parte asumirá sus gastos y costas derivados de la acción colectiva, así como los respectivos honorarios de sus representantes.
 Los honorarios de la persona representante legal y representante común, que convengan con sus representados, quedarán sujetos al siguiente arancel máximo:
+
 I. Serán de hasta el veinte por ciento si el monto líquido de la suerte principal no excede de doscientos mil Unidades de Medida y Actualización;
-II. Si el monto líquido de la suerte principal excede doscientos mil, pero es menor a dos millones de Unidades de Medida y Actualización, serán de hasta el veinte por ciento sobre los primeros doscientos mil y de hasta el diez por ciento sobre el excedente, y III. Si el monto líquido de la suerte principal excede a dos millones de Unidades de Medida y Actualización, serán de hasta el once por ciento sobre los primeros dos millones, y hasta el tres por ciento sobre el excedente.
+
+II. Si el monto líquido de la suerte principal excede doscientos mil, pero es menor a dos millones de Unidades de Medida y Actualización, serán de hasta el veinte por ciento sobre los primeros doscientos mil y de hasta el diez por ciento sobre el excedente, y
+
+III. Si el monto líquido de la suerte principal excede a dos millones de Unidades de Medida y Actualización, serán de hasta el once por ciento sobre los primeros dos millones, y hasta el tres por ciento sobre el excedente.
 Si las partes llegaren a un acuerdo para poner fin al juicio antes del dictado de la sentencia, los gastos y costas deberán estar contemplados como parte de las negociaciones del convenio de transacción judicial. En cualquier caso, los honorarios de la persona representante legal y representante común que pacten con sus representados deberán ajustarse al arancel máximo previsto en este artículo.
 
 ### Artículo 895
 . Los gastos y costas se liquidarán en ejecución de sentencia de conformidad con las siguientes reglas:
+
 I. Los gastos y costas, así como los honorarios de las personas representantes de la parte actora referidos en el artículo anterior, serán cubiertos en la forma que lo determine la autoridad jurisdiccional Federal, buscando asegurar el pago correspondiente. Dicho pago se hará con cargo al Fondo a que se refiere este Libro, cuando exista un interés social que lo justifique y hasta donde la disponibilidad de los recursos lo permita.
+
 II. En el caso de las sentencias que establezcan una cantidad cuantificable, la parte actora pagará entre el tres y el veinte por ciento del monto total condenado por concepto de honorarios a sus representantes según lo previsto en el artículo anterior.
 La autoridad jurisdiccional Federal tomará en consideración el trabajo realizado y la complejidad del mismo, el número de miembros, el beneficio para la colectividad respectiva y demás circunstancias que estime pertinente.
+
 III. Si la condena no fuere cuantificable, la autoridad jurisdiccional Federal determinará el monto de los honorarios, tomando en consideración los criterios establecidos en el segundo párrafo de la fracción anterior.
 
 ### Artículo 896
@@ -4408,20 +5586,31 @@ III. Si la condena no fuere cuantificable, la autoridad jurisdiccional Federal d
 
 ### Artículo 897
 . Para obtener el registro correspondiente, dichas asociaciones deberán:
-I. Presentar los estatutos sociales que cumplan con los requisitos establecidos en este Título, y II. Tener al menos un año de haberse constituido y acreditar que han realizado actividades inherentes al cumplimiento de su objeto social.
+
+I. Presentar los estatutos sociales que cumplan con los requisitos establecidos en este Título, y
+
+II. Tener al menos un año de haberse constituido y acreditar que han realizado actividades inherentes al cumplimiento de su objeto social.
 
 ### Artículo 898
 . El registro será público, su información estará disponible en la página electrónica del Consejo de la Judicatura Federal, y cuando menos deberá contener los nombres de los socios, asociados, representantes y aquellos que ejerzan cargos directivos, su objeto social, así como el informe a que se refiere la fracción II del artículo 900 de este Código Nacional.
 
 ### Artículo 899
 . Las asociaciones deberán:
+
 I. Evitar que sus asociados, socios, representantes o aquellos que ejerzan cargos directivos, incurran en situaciones de conflicto de interés respecto de las actividades que realizan en términos de este Título;
-II. Dedicarse a actividades compatibles con su objeto social, y III. Conducirse con diligencia, probidad y en estricto apego a las disposiciones legales aplicables.
+
+II. Dedicarse a actividades compatibles con su objeto social, y
+
+III. Conducirse con diligencia, probidad y en estricto apego a las disposiciones legales aplicables.
 
 ### Artículo 900
 . Para mantener el registro las asociaciones deberán:
+
 I. Cumplir con lo dispuesto en el artículo anterior;
-II. Entregar al Consejo de la Judicatura Federal, un informe anual sobre su operación y actividades respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, y III. Mantener actualizada en forma permanente la información que deba entregar al Consejo de la Judicatura Federal en los términos de lo dispuesto por el artículo 898 de este Código.
+
+II. Entregar al Consejo de la Judicatura Federal, un informe anual sobre su operación y actividades respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, y
+
+III. Mantener actualizada en forma permanente la información que deba entregar al Consejo de la Judicatura Federal en los términos de lo dispuesto por el artículo 898 de este Código.
 
 ### Artículo 901
 . Para los efectos señalados en este Capítulo, el Consejo de la Judicatura Federal administrará los recursos provenientes de las sentencias que deriven de las acciones colectivas difusas y para tal efecto deberá crear un Fondo.
@@ -4438,12 +5627,19 @@ Libro Séptimo De los Recursos Capítulo Único Disposiciones Generales
 
 ### Artículo 905
 . Los recursos previstos en este Código Nacional son:
+
 I. Apelación;
-II. Reposición, y III. Queja.
+
+II. Reposición, y
+
+III. Queja.
 
 ### Artículo 906
 . En el sistema de recursos previsto en el presente Código Nacional, se tendrá por perdido el derecho a recurrir una resolución judicial cuando:
-I. Se consienta expresamente, y II. Una vez concluido el plazo que la ley señala para interponer algún recurso, éste no se interponga.
+
+I. Se consienta expresamente, y
+
+II. Una vez concluido el plazo que la ley señala para interponer algún recurso, éste no se interponga.
 Quienes hubieren interpuesto un recurso podrán desistirse de éste antes de su resolución. Los efectos del desistimiento no se extenderán a los demás recurrentes.
 
 ### Artículo 907
@@ -4460,27 +5656,48 @@ No obstante, cuando la apelación se admita en ambos efectos, la autoridad juris
 
 ### Artículo 910
 . La apelación en ambos efectos procede:
+
 I. Sentencias definitivas dictadas en juicios escritos, de acciones colectivas, y ordinarios orales civiles; en materia familiar, únicamente contra la sentencia definitiva o interlocutoria que cancele o disminuya alimentos;
-II. Sentencias o cualquier otra resolución judicial que por su naturaleza suspenda, impida la continuación del juicio, le pongan fin o haga imposible su continuación, cualquiera que sea la naturaleza del procedimiento, y III. Aquellas resoluciones judiciales señaladas expresamente por este Código Nacional.
+
+II. Sentencias o cualquier otra resolución judicial que por su naturaleza suspenda, impida la continuación del juicio, le pongan fin o haga imposible su continuación, cualquiera que sea la naturaleza del procedimiento, y
+
+III. Aquellas resoluciones judiciales señaladas expresamente por este Código Nacional.
 
 ### Artículo 911
 . Además de los casos determinados expresamente en este Código Nacional, el recurso de apelación en efecto devolutivo procede contra:
+
 I. Sentencias definitivas dictadas en juicios sumarios, especiales orales civiles; juicios orales familiares tanto ordinarios como especiales, salvo la precisión realizadas en la fracción I del artículo anterior;
+
 II. El auto que desecha el incidente de nulidad de actuaciones por defectos en el emplazamiento, la resolución que se dicte en el incidente y en donde la autoridad jurisdiccional de oficio decrete nulo el emplazamiento;
+
 III. El auto que tenga por contestada o no la demanda principal o reconvencional;
+
 IV. Las sentencias interlocutorias que trasciendan al resultado del fallo;
+
 V. La última resolución dictada para el cumplimiento de la sentencia definitiva;
+
 VI. La resolución que apruebe o no el remate;
+
 VII. Resoluciones que, en la fase definitiva del proceso cautelar, decreten providencias precautorias y medidas de aseguramiento;
+
 VIII. En contra de la imposición de cualquier medida de apremio;
-IX. La resolución dictada durante la revisión de las medidas provisionales en materia de familia, en la audiencia preliminar o las que se dicten con posterioridad a dicha etapa, y X. Las resoluciones dictadas en los procedimientos sucesorios, salvo la sentencia definitiva que se admitirá en ambos efectos.
+
+IX. La resolución dictada durante la revisión de las medidas provisionales en materia de familia, en la audiencia preliminar o las que se dicten con posterioridad a dicha etapa, y
+
+X. Las resoluciones dictadas en los procedimientos sucesorios, salvo la sentencia definitiva que se admitirá en ambos efectos.
 
 ### Artículo 912
 . Admitida la apelación en efecto devolutivo, sólo se suspenderá la ejecución de la resolución en los casos en que, de los autos o de las sentencias recurridas derive una ejecución que pueda causar un daño irreparable o de difícil reparación. La parte apelante podrá solicitar la suspensión al interponer el recurso y deberá señalar con precisión los motivos por los que considera el daño irreparable o de difícil reparación, y, además, otorgue garantía mediante fianza o billete de depósito conforme a las reglas siguientes:
+
 I. La calificación de la idoneidad de la garantía será al prudente arbitrio de la autoridad jurisdiccional;
+
 II. La garantía otorgada por la parte actora comprenderá la devolución del bien o bienes que deba percibir, sus frutos e intereses y la indemnización de daños y perjuicios si la segunda instancia revoca el fallo;
+
 III. La otorgada por la persona demandada comprenderá el pago de lo juzgado y sentenciado, como su cumplimiento, en el caso de que la sentencia condene a hacer o a no hacer;
-IV. La liquidación de los daños y perjuicios que se hará en la ejecución de la sentencia, y V. En los juicios sin interés pecuniario, el monto de la garantía quedará a criterio de la autoridad jurisdiccional.
+
+IV. La liquidación de los daños y perjuicios que se hará en la ejecución de la sentencia, y
+
+V. En los juicios sin interés pecuniario, el monto de la garantía quedará a criterio de la autoridad jurisdiccional.
 La parte contraria y perjudicada puede solicitar la no suspensión de la ejecución, otorgando a su vez contragarantía, la que se fijará por la autoridad jurisdiccional de acuerdo con las mismas bases que se tomaron en consideración para fijar la garantía y en ningún caso puede ser inferior a ésta, caso en el cual no se admitirá la suspensión del procedimiento.
 En caso de que la resolución impugnada pueda afectar a niñas, niños y adolescentes, grupos sociales en situación de vulnerabilidad, no se exigirá garantía o contragarantía para que, de oficio o a petición de parte, se suspenda la ejecución de la resolución impugnada.
 Si la segunda instancia confirmare la resolución apelada, hará efectiva la garantía o contragarantía, según corresponda, a favor de la contraparte.
@@ -4534,8 +5751,12 @@ En caso de incomparecencia de ambas partes contendientes, no será necesaria la 
 
 ### Artículo 925
 . La segunda instancia deberá suplir la falta de agravios o la deficiencia de los expresados en los casos siguientes:
+
 I. Cuando el juicio verse sobre derechos que pudieran afectar el interés de la familia;
-II. Cuando intervenga por lo menos un niño, niña o adolescente como parte, si por falta de esa suplencia pudieran verse afectados sus derechos; y III. Cuando se advierta por el Tribunal de apelación que en el procedimiento de primera instancia existieron violaciones manifiestas de la Ley que hayan dejado sin defensa a alguna de las partes.
+
+II. Cuando intervenga por lo menos un niño, niña o adolescente como parte, si por falta de esa suplencia pudieran verse afectados sus derechos; y
+
+III. Cuando se advierta por el Tribunal de apelación que en el procedimiento de primera instancia existieron violaciones manifiestas de la Ley que hayan dejado sin defensa a alguna de las partes.
 
 ### Artículo 926
 . En los recursos de apelación en contra de sentencia definitiva el ponente contará con diez días para la elaboración del proyecto y las demás personas magistradas contarán con un plazo de cinco días para emitir su voto.
@@ -4545,8 +5766,12 @@ Sección Segunda De la Reposición
 
 ### Artículo 927
 . En la segunda instancia sólo procederá el recurso de reposición y será:
+
 I. En contra de la calificación de admisibilidad del recurso de apelación, así como en contra de su efecto;
-II. Cuando no se admitan pruebas en segunda instancia, y III. Cuando algún o algunas de las apelaciones en contra de resoluciones dictadas dentro del procedimiento hubiere resultado procedente, la reposición será admitida en contra de aquellas resoluciones que se dicten para reparar la violación procesal, siempre y cuando causen un perjuicio irreparable y puedan trascender al sentido del fallo definitivo.
+
+II. Cuando no se admitan pruebas en segunda instancia, y
+
+III. Cuando algún o algunas de las apelaciones en contra de resoluciones dictadas dentro del procedimiento hubiere resultado procedente, la reposición será admitida en contra de aquellas resoluciones que se dicten para reparar la violación procesal, siempre y cuando causen un perjuicio irreparable y puedan trascender al sentido del fallo definitivo.
 
 ### Artículo 928
 . El recurso de reposición debe interponerse por escrito dentro de los tres días siguientes a que surta efectos la notificación de la resolución impugnada, y de admitirse se dará vista a la parte contraria por el término de tres días, para que exprese lo que a su derecho convenga, y se resolverá por escrito dentro de los tres días siguientes.
@@ -4555,8 +5780,12 @@ Sección Tercera De la Queja
 
 ### Artículo 929
 . El recurso de queja procede:
+
 I. Contra la resolución que niegue la admisión de la apelación o adhesión a ésta;
-II. En contra de resolución que se emita para fijar el monto de la fianza en tratándose de apelaciones en efecto devolutivo, y III. En los demás casos fijados por este Código Nacional.
+
+II. En contra de resolución que se emita para fijar el monto de la fianza en tratándose de apelaciones en efecto devolutivo, y
+
+III. En los demás casos fijados por este Código Nacional.
 
 ### Artículo 930
 . El recurso de queja se interpondrá ante la autoridad jurisdiccional de primera instancia, dentro de los tres días siguientes a que surta efectos la notificación del proveído que se recurra, expresando los motivos de inconformidad.
@@ -4587,11 +5816,17 @@ Lo anterior sin perjuicio de que las partes, en cualquier etapa procesal, puedan
 
 ### Artículo 936
 . El principio de equivalencia funcional o no discriminación, para los efectos de los procedimientos que regula este Código Nacional, se puede interpretar bajo cualesquiera de las siguientes formas:
+
 I. La autoridad jurisdiccional no negará efectos jurídicos, validez o eficacia probatoria a cualquier tipo de información por la sola razón de que esté contenida en un documento electrónico o en un mensaje de datos.
 En ningún caso se requerirá manifestación bajo protesta de decir verdad de que los documentos digitalizados son copia fiel e inalterada de los documentos físicos;
+
 II. La autoridad jurisdiccional no negará validez a la información o las comunicaciones, sea que estén contenidas en documentos electrónicos, mensajes de datos o en medios físicos por el solo hecho de usar alguna tecnología determinada;
+
 III. La firma electrónica avanzada en un documento electrónico o en su caso, en un mensaje de datos, satisface el requisito de firma del mismo modo que la firma autógrafa en los documentos impresos;
-IV. Todas las actuaciones judiciales, promociones, resoluciones, diligencias, expedientes, audiencias y demás semejantes dadas en forma oral, de forma virtual, electrónica, remota o a distancia, tendrán la misma eficacia probatoria o valor jurídico, que los que este Código Nacional consagra para las actuaciones presenciales y los instrumentos escritos, y V. Los procedimientos judiciales podrán tramitarse total o parcialmente en línea, así como celebrarse sus actuaciones judiciales presencialmente o a distancia, sin que ello afecte la validez de las actuaciones. No se cuestionará la validez de un procedimiento por la sola razón de que una de las partes haya elegido llevarlo en línea y la otra de forma tradicional.
+
+IV. Todas las actuaciones judiciales, promociones, resoluciones, diligencias, expedientes, audiencias y demás semejantes dadas en forma oral, de forma virtual, electrónica, remota o a distancia, tendrán la misma eficacia probatoria o valor jurídico, que los que este Código Nacional consagra para las actuaciones presenciales y los instrumentos escritos, y
+
+V. Los procedimientos judiciales podrán tramitarse total o parcialmente en línea, así como celebrarse sus actuaciones judiciales presencialmente o a distancia, sin que ello afecte la validez de las actuaciones. No se cuestionará la validez de un procedimiento por la sola razón de que una de las partes haya elegido llevarlo en línea y la otra de forma tradicional.
 
 ### Artículo 937
 . El principio de neutralidad tecnológica consiste en que este Código Nacional no impondrá preferencias en favor o en contra de determinada tecnología, ni fomentará artificialmente determinadas opciones tecnológicas en detrimento de otras.
@@ -4619,7 +5854,10 @@ El expediente electrónico será el reflejo del expediente físico, para lo cual
 ### Artículo 943
 . El cotejo de documentos y demás actos necesarios que se requieran confrontar entre los expedientes físico y electrónico, se podrá realizar por conducto de la persona funcionaria judicial facultada para ello.
 Dicha persona funcionaria judicial será responsable de verificar la coincidencia de contenidos entre el expediente físico y el expediente electrónico, y deberá validar, cuando así proceda, que:
-I. Toda documentación recibida por vía electrónica se imprima y agregue al expediente físico, en su caso, con la evidencia criptográfica de la firma electrónica avanzada respectiva, y II. La documentación recibida en formato impreso se digitalice e ingrese al expediente electrónico respectivo, certificándolo mediante el uso de la firma electrónica avanzada correspondiente.
+
+I. Toda documentación recibida por vía electrónica se imprima y agregue al expediente físico, en su caso, con la evidencia criptográfica de la firma electrónica avanzada respectiva, y
+
+II. La documentación recibida en formato impreso se digitalice e ingrese al expediente electrónico respectivo, certificándolo mediante el uso de la firma electrónica avanzada correspondiente.
 
 ### Artículo 944
 . Las personas que intervengan en el procedimiento en línea deberán ajustarse a los Lineamientos para la promoción, consulta y acceso de expedientes digitales que emitan los Consejos de la Judicatura respectivos.
@@ -4666,13 +5904,42 @@ Del Procedimiento en Línea y de las Audiencias Virtuales Sección Primera Del P
 
 ### Artículo 957
 . Los procedimientos en línea se ajustarán a las siguientes disposiciones:
+
 I. Las partes e intervinientes en un procedimiento en línea podrán presentar todos sus escritos, promociones y anexos de forma electrónica o a través de documento digitalizado. En ambos casos deberán estar autenticados mediante firma electrónica avanzada.
-II. En el caso de diligencias y audiencias virtuales: a) Se señalará día y hora para llevarla a cabo; b) Se hará saber a las partes y demás intervinientes, por cualquiera de los medios de comunicación establecidos en este Código Nacional, la fecha de la misma y el enlace o método de acceso a la sala virtual; c) En la fecha señalada, la autoridad jurisdiccional declarará la apertura de la diligencia o audiencia virtual en su sede judicial, ordenando a la persona secretaria de acuerdos o a quien, de acuerdo con el organigrama correspondiente realice tales funciones, proceda a identificar a todos y cada uno de los participantes; d) Para fines de dicha identificación, los participantes deberán presentar el original de su identificación oficial vigente con fotografía, a los efectos de contar con evidencia digital, videograbada o fotográfica de la misma o, en su caso, cualquier elemento de identificación adicional que al efecto se autorice por la autoridad jurisdiccional, y e) Hecho lo anterior, se procederá al desahogo de la diligencia o audiencia en los términos establecidos en este Código Nacional para el procedimiento respectivo.
-III. Cuando deban recibirse testimonios, declaraciones, peritajes o cualquier información, con el objeto de garantizar las condiciones de autonomía y libertad en su emisión, o el derecho de las partes a realizar las preguntas que les correspondan, según sea el caso, la autoridad jurisdiccional podrá ordenar, a su criterio, cualquiera de las siguientes medidas: a) Que la persona declarante lo haga en un área de transmisión designada por la autoridad jurisdiccional, sala remota o unidad de enlace que proporcione el Poder Judicial de la Entidad Federativa que corresponda, debiendo cumplir los requisitos para la recepción del desahogo de la prueba o información de que se trate; b) Que la persona declarante lo haga en el área de transmisión que haya señalado la parte oferente en el juicio, acompañada de un servidor público, quien deberá asegurarse y hacer constar que la persona declarante no está siendo asistida de ninguna forma; c) Que la persona declarante transmita desde un área que haya señalado la parte interesada, que permita verificar visual y auditivamente, a través de la cámara y micrófono, que al momento de la recepción de la prueba se encuentra sin asistencia, debiendo mantenerse a cuadro en todo momento, con el micrófono encendido durante su desahogo, ya que no se permitirá la interrupción de la transmisión de video y audio en ningún caso, así como el uso de algún dispositivo electrónico o la injerencia de cualquier otra persona durante el desahogo y hasta en tanto concluya la audiencia. En caso de incumplimiento se amonestará al infractor por única ocasión y, en caso de reincidencia, se dará vista a la Representación Social para que, de oficio, inicie la investigación correspondiente, y se declarará desierta la prueba por causas imputables a su oferente, continuándose en la etapa procesal que corresponda; d) La parte contraria podrá estar presente durante el desahogo de la audiencia o diligencia virtual y, de ser necesaria su intervención, podrá solicitarlo mediante mensaje en el sistema electrónico de la sala virtual, levantando la mano o pidiéndolo verbalmente, para ser escuchado por la autoridad jurisdiccional. Mismo orden deberá llevarse a cabo, en el supuesto de que decida formular preguntas a alguno de los declarantes; e) Que la persona declarante, o aquella que tenga a su cargo el desahogo de una prueba, se ubique en la misma área de transmisión de la autoridad jurisdiccional, aun cuando los representantes legales o demás participantes se encuentren en diverso lugar del de la transmisión, y f) Cumplir con las disposiciones de la Sección segunda “De las Audiencias y Diligencias Virtuales”, de este Capítulo.
+
+II. En el caso de diligencias y audiencias virtuales:
+
+a) Se señalará día y hora para llevarla a cabo;
+
+b) Se hará saber a las partes y demás intervinientes, por cualquiera de los medios de comunicación establecidos en este Código Nacional, la fecha de la misma y el enlace o método de acceso a la sala virtual;
+
+c) En la fecha señalada, la autoridad jurisdiccional declarará la apertura de la diligencia o audiencia virtual en su sede judicial, ordenando a la persona secretaria de acuerdos o a quien, de acuerdo con el organigrama correspondiente realice tales funciones, proceda a identificar a todos y cada uno de los participantes;
+
+d) Para fines de dicha identificación, los participantes deberán presentar el original de su identificación oficial vigente con fotografía, a los efectos de contar con evidencia digital, videograbada o fotográfica de la misma o, en su caso, cualquier elemento de identificación adicional que al efecto se autorice por la autoridad jurisdiccional, y
+
+e) Hecho lo anterior, se procederá al desahogo de la diligencia o audiencia en los términos establecidos en este Código Nacional para el procedimiento respectivo.
+
+III. Cuando deban recibirse testimonios, declaraciones, peritajes o cualquier información, con el objeto de garantizar las condiciones de autonomía y libertad en su emisión, o el derecho de las partes a realizar las preguntas que les correspondan, según sea el caso, la autoridad jurisdiccional podrá ordenar, a su criterio, cualquiera de las siguientes medidas:
+
+a) Que la persona declarante lo haga en un área de transmisión designada por la autoridad jurisdiccional, sala remota o unidad de enlace que proporcione el Poder Judicial de la Entidad Federativa que corresponda, debiendo cumplir los requisitos para la recepción del desahogo de la prueba o información de que se trate;
+
+b) Que la persona declarante lo haga en el área de transmisión que haya señalado la parte oferente en el juicio, acompañada de un servidor público, quien deberá asegurarse y hacer constar que la persona declarante no está siendo asistida de ninguna forma;
+
+c) Que la persona declarante transmita desde un área que haya señalado la parte interesada, que permita verificar visual y auditivamente, a través de la cámara y micrófono, que al momento de la recepción de la prueba se encuentra sin asistencia, debiendo mantenerse a cuadro en todo momento, con el micrófono encendido durante su desahogo, ya que no se permitirá la interrupción de la transmisión de video y audio en ningún caso, así como el uso de algún dispositivo electrónico o la injerencia de cualquier otra persona durante el desahogo y hasta en tanto concluya la audiencia. En caso de incumplimiento se amonestará al infractor por única ocasión y, en caso de reincidencia, se dará vista a la Representación Social para que, de oficio, inicie la investigación correspondiente, y se declarará desierta la prueba por causas imputables a su oferente, continuándose en la etapa procesal que corresponda;
+
+d) La parte contraria podrá estar presente durante el desahogo de la audiencia o diligencia virtual y, de ser necesaria su intervención, podrá solicitarlo mediante mensaje en el sistema electrónico de la sala virtual, levantando la mano o pidiéndolo verbalmente, para ser escuchado por la autoridad jurisdiccional. Mismo orden deberá llevarse a cabo, en el supuesto de que decida formular preguntas a alguno de los declarantes;
+
+e) Que la persona declarante, o aquella que tenga a su cargo el desahogo de una prueba, se ubique en la misma área de transmisión de la autoridad jurisdiccional, aun cuando los representantes legales o demás participantes se encuentren en diverso lugar del de la transmisión, y
+
+f) Cumplir con las disposiciones de la Sección segunda “De las Audiencias y Diligencias Virtuales”, de este Capítulo.
+
 IV. La persona juzgadora usará un lenguaje sencillo y claro durante toda la audiencia o diligencia virtual.
+
 V. En su caso, desahogado todo el caudal probatorio, se pasará al período de alegatos si se prevé esta etapa para el procedimiento respectivo y, declarado visto el asunto, se procederá a emitir en el acto la sentencia o resolución judicial correspondiente, la cual se explicará con un lenguaje cotidiano, breve y sencillo a quien esté presente, entregando copia de la misma.
 Para ello, se decretará el receso pertinente para la materialización de la sentencia o resolución judicial. A quien esté ausente o desaparecido se le notificará en forma electrónica, dispensándose la explicación ante la inasistencia de ambas partes. La sentencia o resolución judicial correspondiente se emitirá en los términos y con las formalidades que se establecen en el presente Código Nacional para cada caso.
+
 VI. Una vez hecho lo anterior, la autoridad jurisdiccional ordenará la elaboración de un acta mínima de la diligencia o audiencia virtual, la cual no requerirá de la firma de los participantes y sólo contendrá la firma electrónica avanzada de la persona a quien corresponda autorizar y dar fe del contenido de dicha acta.
+
 VII. Si en la sentencia o resolución judicial se ordena su inscripción ante algún Registro, autoridad o institución, o la expedición de algún oficio, la autoridad jurisdiccional lo realizará y enviará electrónicamente a las autoridades o personas correspondientes.
 En todo lo no previsto en el presente Capítulo, se estará a las disposiciones contenidas en este Código Nacional.
 
@@ -4686,9 +5953,14 @@ En las audiencias, cualquiera de las partes o la autoridad jurisdiccional, podr�
 
 ### Artículo 960
 . Cuando la autoridad jurisdiccional advierta en cualquier etapa del procedimiento, la viabilidad de llevar a cabo la audiencia o diligencia virtuales del procedimiento de que se trate, exhortará a las partes para optar por dicha alternativa. En todo caso, quienes intervengan en forma virtual o remota deberán:
+
 I. Tener acceso a una computadora o dispositivo electrónico similar que tenga la capacidad de realizar videoconferencias, para lo cual es necesario que dicho equipo cuente con micrófono y cámara web;
+
 II. Contar con conexión a Internet con al menos una velocidad de 1.5 megabytes por segundo;
-III. Señalar un correo electrónico que esté registrado o señalado ante la autoridad jurisdiccional para ser notificado, así como para recibir el enlace o método de acceso a la sala virtual designada para llevar la audiencia o diligencia virtual, y IV. Quienes comparezcan vía remota o electrónica deberán indicar el lugar y área de transmisión que ocuparán, así como los demás intervinientes a su cargo, lo que deberán hacer bajo protesta de decir verdad, cumpliendo además con lo dispuesto en este Código Nacional.
+
+III. Señalar un correo electrónico que esté registrado o señalado ante la autoridad jurisdiccional para ser notificado, así como para recibir el enlace o método de acceso a la sala virtual designada para llevar la audiencia o diligencia virtual, y
+
+IV. Quienes comparezcan vía remota o electrónica deberán indicar el lugar y área de transmisión que ocuparán, así como los demás intervinientes a su cargo, lo que deberán hacer bajo protesta de decir verdad, cumpliendo además con lo dispuesto en este Código Nacional.
 En caso de requerirlo, cualquiera de las partes o intervinientes en una audiencia o diligencia virtuales, podrán solicitar a una autoridad jurisdiccional, local o federal, distinta de la que sustancie el procedimiento, que le permita el acceso a su recinto judicial y le proporcione todo lo necesario para atender en tiempo y forma la audiencia o diligencia virtual. Dicha solicitud deberá hacerse con una razonable anticipación a la celebración de la audiencia o diligencia virtuales, dependiendo del procedimiento de que se trate, y deberá contener los datos de identificación del expediente y procedimiento judicial, las razones en que sustenta su solicitud y una dirección de correo electrónico. La autoridad jurisdiccional requerida deberá resolver y notificar su resolución mediante correo electrónico, en un plazo breve.
 
 ### Artículo 961
@@ -4699,8 +5971,12 @@ La participación de las partes a través de audiencias y diligencias virtuales 
 
 ### Artículo 962
 . Cuando para el desarrollo de la audiencia o diligencia virtuales resulte fundamental mantener la separación o exclusión de ciertos intervinientes en determinados momentos de la misma, la autoridad jurisdiccional encargada de su conducción solicitará el apoyo de su personal técnico o administrativo para que, con asistencia técnica, se adopten medidas tendientes a:
+
 I. Verificar dicha separación física y la ausencia de influencias o injerencias que puedan afectar un testimonio, declaración o peritaje;
-II. Enviar a dichos intervinientes a salas de espera virtuales, utilizando para ello las funcionalidades previstas en la herramienta tecnológica implementada para la práctica de las mismas, y III. Ordenar todas las medidas necesarias para tal efecto, siempre que se respeten los principios de este Código Nacional.
+
+II. Enviar a dichos intervinientes a salas de espera virtuales, utilizando para ello las funcionalidades previstas en la herramienta tecnológica implementada para la práctica de las mismas, y
+
+III. Ordenar todas las medidas necesarias para tal efecto, siempre que se respeten los principios de este Código Nacional.
 
 ### Artículo 963
 . Para la celebración de las diligencias y audiencias virtuales deberán de acatarse las reglas de las diligencias y audiencias dentro del procedimiento judicial respectivo, ajustándose en lo conducente a las reglas para el desarrollo de las audiencias y diligencias virtuales, en términos de lo dispuesto en el presente Título.
@@ -4710,12 +5986,27 @@ De los Sistemas de Justicia Digital y de la Seguridad de la Información Secció
 
 ### Artículo 964
 . Los Poderes Judiciales correspondientes, a través del Consejo de la Judicatura o la autoridad competente señalada en su respectiva Ley Orgánica:
+
 I. Implementarán y mantendrán actualizadas y funcionales los sistemas de justicia digital necesarios con el fin de contar con Oficialías de Partes en línea, servicios digitales, notificaciones electrónicas, así como las tecnologías necesarias para hacer accesible para todas las personas la justicia digital, y proveer lo necesario para que exista ciberseguridad;
-II. Designarán a una persona, área, unidad administrativa o proveedor de tecnologías de información que de forma permanente sea responsable de: a) Supervisar que los sistemas de justicia digital se mantengan funcionando de forma correcta y segura; b) Dar soporte a las personas juzgadoras y personas funcionarias judiciales en todo lo relacionado con el uso de los sistemas de justicia digital; c) Atender las quejas y orientar a los usuarios de sistemas de justicia digital para que comprendan la forma de operar de dichos sistemas; d) Corregir cualquier falla, error, intermitencia o problema que afecte, impida u obstaculice, total o parcialmente, el funcionamiento de los sistemas de justicia digital, y e) Conocer y compartir las mejores prácticas en el funcionamiento e implementación de sistemas de justicia digital con los Consejos de la Judicatura de otras Entidades Federativas, así como con el Consejo de la Judicatura Federal.
+
+II. Designarán a una persona, área, unidad administrativa o proveedor de tecnologías de información que de forma permanente sea responsable de:
+
+a) Supervisar que los sistemas de justicia digital se mantengan funcionando de forma correcta y segura;
+
+b) Dar soporte a las personas juzgadoras y personas funcionarias judiciales en todo lo relacionado con el uso de los sistemas de justicia digital;
+
+c) Atender las quejas y orientar a los usuarios de sistemas de justicia digital para que comprendan la forma de operar de dichos sistemas;
+
+d) Corregir cualquier falla, error, intermitencia o problema que afecte, impida u obstaculice, total o parcialmente, el funcionamiento de los sistemas de justicia digital, y
+
+e) Conocer y compartir las mejores prácticas en el funcionamiento e implementación de sistemas de justicia digital con los Consejos de la Judicatura de otras Entidades Federativas, así como con el Consejo de la Judicatura Federal.
 
 ### Artículo 965
 . Los sistemas de justicia digital deberán:
-I. Contar con garantías sólidas de uso y funcionamiento, que les brinde continuidad y soporte permanente a los usuarios de estos sistemas, y II. Gozar de medidas de seguridad de la información confiables y robustas.
+
+I. Contar con garantías sólidas de uso y funcionamiento, que les brinde continuidad y soporte permanente a los usuarios de estos sistemas, y
+
+II. Gozar de medidas de seguridad de la información confiables y robustas.
 
 ### Artículo 966
 . Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento de uno o más de los sistemas de justicia digital que dependan la autoridad jurisdiccional y que hacen posible los procedimientos en línea, hagan inviable el cumplimiento de los plazos establecidos en la ley, las partes deberán dar aviso a la autoridad jurisdiccional correspondiente en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa del Juzgado o Tribunal responsable de la administración del sistema o plataforma sobre la existencia de la interrupción del servicio.
@@ -4740,14 +6031,24 @@ Lo anterior no exime a las partes interesadas y usuarios de sistemas de justicia
 
 ### Artículo 972
 . Son acciones básicas que debe adoptar la autoridad jurisdiccional para darle seguridad al expediente electrónico, así como a los procedimientos en línea, y todos los sistemas de justicia digital:
+
 I. Adoptar e implementar políticas, programas o soluciones informáticas que detecten, prevengan, mitiguen y eliminen amenazas, riesgos e incidentes cibernéticos;
+
 II. Verificar la vigencia de los certificados digitales de las firmas electrónicas avanzadas;
+
 III. Verificar el adecuado funcionamiento de los programas o plataformas electrónicas que posibiliten las audiencias virtuales, así como las videoconferencias;
+
 IV. Usar comunicaciones electrónicas protegidas por algún mecanismo de seguridad como el cifrado;
+
 V. Corroborar que los enlaces y documentos electrónicos o mensajes de datos que se adjunten en correos o comunicaciones electrónicas estén libres de virus y código malicioso, y en caso contrario, aplicar los mecanismos necesarios para eliminar o corregir cualquier amenaza cibernética detectada;
+
 VI. Comprobar la integridad, accesibilidad, formato y contenido de los documentos digitalizados, archivos electrónicos o mensajes de datos que formen parte de los expedientes judiciales, las actuaciones, las audiencias y las diligencias virtuales;
+
 VII. Corroborar fehacientemente la identidad de las partes y otras personas intervinientes en un procedimiento en línea;
-VIII. Aplicar soluciones o mecanismos tecnológicos que aseguren la conservación, integridad y disponibilidad de todas las resoluciones judiciales e información que contenga el expediente electrónico, y IX. Mantener respaldos seguros de toda la información que contengan los expedientes electrónicos.
+
+VIII. Aplicar soluciones o mecanismos tecnológicos que aseguren la conservación, integridad y disponibilidad de todas las resoluciones judiciales e información que contenga el expediente electrónico, y
+
+IX. Mantener respaldos seguros de toda la información que contengan los expedientes electrónicos.
 El Consejo de la Judicatura respectivo emitirá Lineamientos de Seguridad de la Información, y todos aquellos que considere pertinentes para dotar de seguridad jurídica y tecnológica a los procedimientos en línea.
 
 ### Artículo 973
@@ -4762,19 +6063,30 @@ De la Sentencia Ejecutoriada y Cosa Juzgada
 
 ### Artículo 975
 . Causan ejecutoria por ministerio de Ley:
+
 I. Las sentencias de segunda instancia;
+
 II. Las que resuelvan una queja;
+
 III. Las que resuelven una competencia;
+
 IV. Las demás que se declaran irrevocables por prevención expresa de la Ley;
-V. Las que no puedan ser recurridas por ningún medio ordinario, y VI. Los convenios de mediación, conciliación o transacción emanados de los mecanismos alternativos para la solución de controversias realizados antes del inicio de un procedimiento jurisdiccional o durante el desarrollo de éste, sin necesidad de ser ratificados ante la autoridad jurisdiccional, los que tendrán la categoría de cosa juzgada o en su caso de sentencia ejecutoriada de conformidad con sus propias leyes.
+
+V. Las que no puedan ser recurridas por ningún medio ordinario, y
+
+VI. Los convenios de mediación, conciliación o transacción emanados de los mecanismos alternativos para la solución de controversias realizados antes del inicio de un procedimiento jurisdiccional o durante el desarrollo de éste, sin necesidad de ser ratificados ante la autoridad jurisdiccional, los que tendrán la categoría de cosa juzgada o en su caso de sentencia ejecutoriada de conformidad con sus propias leyes.
 
 ### Artículo 976
 . Las sentencias definitivas o interlocutorias respecto de prestaciones futuras y de los juicios que por su naturaleza así proceda, serán declaradas firmes, en virtud de que sólo tendrán autoridad de cosa juzgada, mientras no se alteren o cambien las circunstancias que afecten el ejercicio de la acción que se dedujo en el juicio principal y sólo podrán ser modificadas mediante juicio posterior.
 
 ### Artículo 977
 . Causan ejecutoria por declaración judicial:
+
 I. Las sentencias y resoluciones judiciales consentidas expresamente por las partes o por su persona representante autorizada con poder o cláusula especial;
-II. Las sentencias de que hecha notificación en forma, no se interponga recurso en el término señalado por la Ley, y III. Las sentencias contra las que se interpuso recurso, pero no se continuó en forma y términos legales, operando la caducidad de la segunda instancia; o cuando el recurso se declare improcedente, se deseche o se desista de éste, la parte o su persona representante autorizada con poder o cláusula especial.
+
+II. Las sentencias de que hecha notificación en forma, no se interponga recurso en el término señalado por la Ley, y
+
+III. Las sentencias contra las que se interpuso recurso, pero no se continuó en forma y términos legales, operando la caducidad de la segunda instancia; o cuando el recurso se declare improcedente, se deseche o se desista de éste, la parte o su persona representante autorizada con poder o cláusula especial.
 
 ### Artículo 978
 . En los casos a que se refiere la fracción I del artículo anterior, la autoridad jurisdiccional de oficio hará la declaración correspondiente.
@@ -4789,10 +6101,16 @@ De la Vía de Apremio y Ejecución de Sentencia
 
 ### Artículo 980
 . En la vía de apremio y los procedimientos de ejecución de sentencia o convenio, además de los principios previstos por este Código Nacional, serán aplicables los siguientes:
+
 I. Cumplimiento voluntario. La autoridad jurisdiccional privilegiará y dará prioridad al cumplimiento voluntario de la sentencia de la resolución a través de los mecanismos autorizados en el presente Código Nacional y los que considere pertinentes, dejando como última alternativa la ejecución forzosa;
+
 II. Ejecución con óptica de derechos humanos. Debe garantizarse la ejecución pronta y expedita de la sentencia definitiva o convenio judicial en estricto respeto a los derechos humanos de la parte ejecutante y ejecutada;
+
 III. Idoneidad, razonabilidad y proporcionalidad. La autoridad jurisdiccional deberá interpretar armónicamente las disposiciones para la ejecución de sentencias en relación con los puntos resolutivos de la sentencia definitiva, procurará tener siempre un enfoque de los derechos humanos de la persona ejecutante y ejecutada;
-IV. Celeridad. La ejecución de sentencia o convenio judicial, privilegiará el cumplimiento sobre la formalidad, siempre y cuando se garantice la igualdad, seguridad y la tutela jurisdiccional efectiva de las personas ejecutantes, ejecutadas y terceros relacionados con los últimos, y V. Buena fe y lealtad procesal. Es responsabilidad de las partes, ejecutante y ejecutada, cumplir y lograr la ejecución de la sentencia o convenio judicial, por lo que su participación debe entenderse en el sentido de cumplir con la vigilancia y postulación del procedimiento, así como garantizar el cumplimiento de la misma con dignidad para todas las personas, sin dilación en la impartición de justicia.
+
+IV. Celeridad. La ejecución de sentencia o convenio judicial, privilegiará el cumplimiento sobre la formalidad, siempre y cuando se garantice la igualdad, seguridad y la tutela jurisdiccional efectiva de las personas ejecutantes, ejecutadas y terceros relacionados con los últimos, y
+
+V. Buena fe y lealtad procesal. Es responsabilidad de las partes, ejecutante y ejecutada, cumplir y lograr la ejecución de la sentencia o convenio judicial, por lo que su participación debe entenderse en el sentido de cumplir con la vigilancia y postulación del procedimiento, así como garantizar el cumplimiento de la misma con dignidad para todas las personas, sin dilación en la impartición de justicia.
 
 ### Artículo 981
 . En el procedimiento de ejecución de sentencia, de las resoluciones judiciales o la tramitación de cualquier incidente relacionado con las mismas, no se requerirá notificación personal, salvo que la ejecución se solicite después de tres meses que la sentencia definitiva o convenio judicial cause ejecutoria o se trate del emplazamiento de una tercería. Lo anterior, salvo la materia familiar, en la que la autoridad jurisdiccional proveerá lo necesario en relación con las notificaciones personales en dichos supuestos.
@@ -4840,19 +6158,31 @@ Cuando las partes no alcancen un acuerdo sobre la forma, plazo, cuantía o modo 
 
 ### Artículo 993
 . Cuando se pida la ejecución de una sentencia ejecutoriada, la autoridad jurisdiccional señalará fecha única e indiferible en el plazo de diez días para la celebración de la audiencia de cumplimiento que contará con las siguientes etapas:
-I. La etapa de cumplimiento voluntario, y II. La etapa de ejecución forzosa.
+
+I. La etapa de cumplimiento voluntario, y
+
+II. La etapa de ejecución forzosa.
 La audiencia se desarrollará de acuerdo a las siguientes reglas:
+
 I. Declarada la apertura de la audiencia de cumplimiento de sentencia ejecutoriada, se iniciará con los acuerdos sobre el cumplimiento voluntario de la sentencia. El funcionario judicial que asista a la autoridad jurisdiccional, identificará a las partes y les tomará la protesta de ley.
 Seguidamente dará lectura a los puntos resolutivos de la sentencia ejecutoriada de que se trate. En caso de hacerse constar la incomparecencia de la parte demandada desde el inicio de la audiencia, se decretará precluidos sus derechos y se iniciará de inmediato la ejecución forzosa de la sentencia;
+
 II. Agotada la lectura a que se refiere la fracción anterior, la persona ejecutada propondrá a la persona ejecutante una propuesta de cumplimiento voluntario de la sentencia. Enseguida, la persona ejecutante manifestará su conformidad, o bien, propondrá a la persona ejecutada una nueva contra propuesta, quien manifestará la conformidad o no con la misma. Las partes podrán hacer cuantas propuestas y contra propuestas que consideren oportunas con el objeto de llegar a un acuerdo de cumplimiento y siempre que no entrañen dilaciones procesales a consideración de cualquiera de las partes o de la autoridad jurisdiccional;
+
 III. De llegar a un acuerdo sobre el cumplimiento voluntario, la autoridad jurisdiccional, verificará que sea conforme a derecho, respetando los derechos humanos de todos los participantes y que el mismo no provoque o modifique de manera sustancial el fallo que se ejecuta, salvo en materia familiar;
+
 IV. De no llegarse a un acuerdo entre las partes en esta audiencia, se declarará cerrada la etapa de cumplimiento voluntario y, sin mayor trámite se procederá a la apertura de la etapa de ejecución forzosa de la sentencia, procediendo el órgano jurisdiccional a pronunciar auto de mandamiento en forma en contra del ejecutado;
+
 V. Asimismo, en el caso de que existan prestaciones económicas por cuantificar o liquidar o alguna otra condición que no haya hecho exigible la prestación condenada desde la sentencia, las partes podrán llevar sus propuestas de cuantificación para que consensen acuerdo al respecto.
 Cuando no se logre ningún acuerdo, en esta etapa, se dará por concluida la etapa de cumplimiento voluntario y se iniciará la ejecución forzosa de la sentencia ejecutoriada, procediendo el órgano jurisdiccional a pronunciar auto de mandamiento en forma en contra del ejecutado por las prestaciones liquidas y se dejarán a salvo los derechos de las partes para que en la vía y forma cuantifiquen las prestaciones pendientes;
+
 VI. En la etapa de ejecución forzada de la sentencia, las partes podrán igualmente intentar llegar a acuerdos sobre la forma de fijar el valor de los bienes en caso de remate, designación de perito único, forma de desocupación, compensaciones y el perdón o quita de algunas prestaciones económicas condenadas, para facilitar la pronta ejecución, los que en su caso serán aprobados por la autoridad jurisdiccional.
 De encontrarse el ejecutado o no llegar a algún acuerdo las partes, se emitirá únicamente auto de mandamiento en forma en contra del ejecutado;
+
 VII. Abierta la etapa de ejecución forzada de la sentencia, las partes podrán hacer valer en forma oral, el incidente de liquidación de aquellas prestaciones que la sentencia no tenga cuantificadas de conformidad con las reglas previstas en este Código Nacional.
-De no estar presente alguna de las partes, el incidente de liquidación siempre se deberá presentar por escrito, observando las disposiciones aplicables en materia de incidentes previstas en el presente Código Nacional, y VIII. En la audiencia de cumplimiento no serán admisibles promociones o peticiones por escrito, y las resoluciones judiciales no serán impugnables, salvo que el presente Código Nacional disponga lo contrario.
+De no estar presente alguna de las partes, el incidente de liquidación siempre se deberá presentar por escrito, observando las disposiciones aplicables en materia de incidentes previstas en el presente Código Nacional, y
+
+VIII. En la audiencia de cumplimiento no serán admisibles promociones o peticiones por escrito, y las resoluciones judiciales no serán impugnables, salvo que el presente Código Nacional disponga lo contrario.
 
 ### Artículo 994
 . Transcurrido el plazo para el cumplimiento voluntario y dictado el auto de mandamiento en forma, si la sentencia condenare al pago de cantidad líquida, se procederá siempre, y sin necesidad de previo requerimiento personal a la persona condenada, se procederá al embargo de bienes en los términos previstos en el presente Código Nacional.
@@ -4889,17 +6219,27 @@ Lo mismo se practicará cuando la cantidad ilíquida proceda de frutos, rentas o
 
 ### Artículo 1002
 . Si la sentencia condena a la ejecución de un hecho o prestación de algún bien, la autoridad jurisdiccional señalará al que fue condenado a un plazo prudente para el cumplimiento. Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes, dentro o fuera de audiencia de cumplimiento en ejecución de sentencia:
+
 I. Si el hecho fuere personal del obligado y no pudiere prestarse por otro, el ejecutante podrá reclamar el pago de daños y perjuicios a juicio de peritos, salvo que se hubiera condenado al pago de alguna pena, caso en el cuál por ésta, se despachará ejecución;
-II. Si el hecho pudiere prestarse por otro, la autoridad jurisdiccional nombrará a la persona o personas que lo ejecuten a costa del obligado en el término que le fije. La persona nombrada podrá solicitar, antes de realizar los trabajos, se le asegure el importe fijado por acuerdo entre ellos, o en su defecto, a juicio de perito oficial, pidiendo de ser necesario se despache auto de ejecución para tal efecto, y III. Si el hecho consiste en el otorgamiento de algún instrumento o la celebración de un acto jurídico, la autoridad jurisdiccional lo ejecutará por el obligado, expresándose en el documento que se otorgó en rebeldía.
+
+II. Si el hecho pudiere prestarse por otro, la autoridad jurisdiccional nombrará a la persona o personas que lo ejecuten a costa del obligado en el término que le fije. La persona nombrada podrá solicitar, antes de realizar los trabajos, se le asegure el importe fijado por acuerdo entre ellos, o en su defecto, a juicio de perito oficial, pidiendo de ser necesario se despache auto de ejecución para tal efecto, y
+
+III. Si el hecho consiste en el otorgamiento de algún instrumento o la celebración de un acto jurídico, la autoridad jurisdiccional lo ejecutará por el obligado, expresándose en el documento que se otorgó en rebeldía.
 En el caso de que el documento consista en una escritura pública, se pondrán los autos a disposición de la Notaria o el Notario Público que designe la parte en cuyo favor se dictó la sentencia y mediante notificación que surta sus efectos a través de la publicación en el medio de comunicación judicial oficial, se hará del conocimiento de la parte condenada, su deber de comparecer ante la Notaría, a cumplir con su obligación de firmar la escritura que se elabore en estricto cumplimiento a la sentencia condenatoria, lo que deberá hacer dentro del término de cinco días a partir de que la Notaria o el Notario Público le informe que está listo el proyecto respectivo, apercibido que de no hacerlo lo hará la autoridad jurisdiccional en su rebeldía.
 
 ### Artículo 1003
 . En el instrumento público, que se otorgue conforme a lo señalado en el artículo anterior, se hará constar que se otorga en ejecución de la sentencia emitida en juicio.
 Las actuaciones judiciales que deberán relacionarse, insertarse o agregarse en copias certificadas, al apéndice en la escritura serán, al menos las siguientes:
+
 I. Las cláusulas del contrato que se formaliza o acto jurídico del que emana dicha obligación;
+
 II. La demanda, el emplazamiento y su contestación o la declaración de rebeldía;
+
 III. La sentencia que haya resuelto el fondo del asunto y, en su caso, del auto que la declara firme o del convenio judicial y el auto de aprobación que lo eleve a categoría de sentencia ejecutoriada;
-IV. El proveído que ordene poner a disposición de la Notaria o Notario Público los autos para el otorgamiento de escritura respectiva en el cual consta, además, la notificación a las partes de dicho hecho, y V. El auto de la autoridad jurisdiccional por el que, al no haber comparecido a la firma correspondiente, se otorga la escritura sin su comparecencia.
+
+IV. El proveído que ordene poner a disposición de la Notaria o Notario Público los autos para el otorgamiento de escritura respectiva en el cual consta, además, la notificación a las partes de dicho hecho, y
+
+V. El auto de la autoridad jurisdiccional por el que, al no haber comparecido a la firma correspondiente, se otorga la escritura sin su comparecencia.
 La Notaria o el Notario Público, una vez que se haya otorgado el instrumento deberá informar a la autoridad jurisdiccional, el número, libro y fecha que corresponda al mismo y, en su caso, devolverá el expediente puesto a su disposición. En caso de requerimiento, la Notaria o el Notario Público, informará de la situación que guarda el expediente que le haya sido turnado.
 La autoridad jurisdiccional contará con un plazo máximo de diez días hábiles para emitir mediante proveído las observaciones que estime pertinentes. En caso de requerimiento, la Notaria o el Notario Público, contará con el mismo plazo para su atención.
 De no existir observaciones o una vez realizadas las indicadas, la autoridad jurisdiccional firmará la escritura en rebeldía de la parte condenada.
@@ -4924,7 +6264,10 @@ En el mismo auto a que se refiere el párrafo anterior, se mandará prevenir a l
 
 ### Artículo 1009
 . Si el o los bienes se hallan en poder de un tercero, la ejecución no podrá despacharse en su contra, sino en los casos siguientes:
-I. Cuando la ejecución se funde en acción real, y II. Cuando judicialmente se haya declarado nula la enajenación por la que adquirió el tercero.
+
+I. Cuando la ejecución se funde en acción real, y
+
+II. Cuando judicialmente se haya declarado nula la enajenación por la que adquirió el tercero.
 
 ### Artículo 1010
 . Cuando, en una ejecución, se afecten intereses de terceros que no tengan, con el ejecutante o el ejecutado, alguna controversia que pueda influir sobre los intereses de éstos y en virtud de los cuales se ha ordenado la ejecución, tanto el ejecutante como el ejecutado son solidariamente responsables de los daños y perjuicios que con ella se causen al tercero, y la oposición de éste se resolverá por el procedimiento incidental.
@@ -4965,17 +6308,26 @@ La diligencia podrá ser videograbada por servidor público judicial que interve
 ### Artículo 1018
 . Cuando la sentencia ejecutoriada ordene la entrega de personas, la autoridad jurisdiccional dictará de inmediato los decretos para su debido cumplimiento, contra dicha resolución no procede recurso ordinario alguno.
 Además de las medidas de apremio previstas en este Código Nacional, la autoridad jurisdiccional podrá dictar las siguientes:
+
 I. Orden de búsqueda dentro del domicilio en el que se presuma se encuentra la persona que se pretenda restituir, que precise en su caso el rompimiento de cerraduras y el auxilio de la fuerza pública en estricto apego a los requisitos y formalidades previstas en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia;
-II. Retención de pasaporte de la persona que se busca, y III. Solicitud de activación del Protocolo Nacional Alerta AMBER México, en su caso.
+
+II. Retención de pasaporte de la persona que se busca, y
+
+III. Solicitud de activación del Protocolo Nacional Alerta AMBER México, en su caso.
 
 ### Artículo 1019
 . Todos los gastos y costas que se originen en la ejecución de una sentencia serán a cargo de la persona que fue condenada en ella.
 
 ### Artículo 1020
 . La petición para exigir la ejecución de una sentencia, transacción o convenio judiciales podrá ser ejercitada dentro de los siguientes plazos:
+
 I. Tres años en juicios ejecutivos orales, diversos especiales en materia civil y derivados de convenios de mediación y extrajudiciales referidos en este Código Nacional, salvo que la ley especial de donde surja el convenio prevea un plazo diverso;
+
 II. Cinco años para los juicios ordinarios orales civiles;
-III. Diez años para el resto de las sentencias dictadas en diversos juicios, incluida la materia familiar, y IV. En los demás casos, en los plazos que el presente Código Nacional establezca.
+
+III. Diez años para el resto de las sentencias dictadas en diversos juicios, incluida la materia familiar, y
+
+IV. En los demás casos, en los plazos que el presente Código Nacional establezca.
 
 ### Artículo 1021
 . Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia o convenio, a no ser que en ellos se fije el plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo o desde que pudo exigirse la última prestación vencida si se tratare de prestaciones periódicas.
@@ -5018,14 +6370,24 @@ En el caso que la persona ejecutada se encuentre en la audiencia de cumplimiento
 
 ### Artículo 1029
 . El derecho de designar los bienes que han de embargarse corresponde a la persona deudora; y sólo que ésta se rehúse a hacerlo o que esté ausente o desaparecido, deberá ejercerlo la persona actora o su representante legal con facultad expresa para ello, o bien manifestar que se reserva el derecho para hacerlo con posterioridad. El orden que debe guardarse para los embargos es el siguiente:
+
 I. Los bienes consignados como garantía de la obligación que se reclama;
+
 II. Dinero;
+
 III. Créditos realizables en el acto;
+
 IV. Alhajas;
+
 V. Frutos y rentas de toda especie;
+
 VI. Bienes muebles no comprendidos en las fracciones anteriores;
+
 VII. Bienes inmuebles;
-VIII. Créditos, y IX. Sueldos o comisiones.
+
+VIII. Créditos, y
+
+IX. Sueldos o comisiones.
 
 ### Artículo 1030
 . La designación de embargo sobre créditos o cuentas bancarias de la persona deudora sólo procede respecto de las que existen al momento de la ejecución, y bastará que se haga en forma genérica, para que se trabe el embargo y se perfeccione posteriormente por la parte a cuyo favor se haga la ejecución, con el auxilio judicial acerca de informes que rindan terceros, quienes estarán en todo caso obligados a proporcionar los números de cuenta o crédito que permitan su identificación.
@@ -5038,8 +6400,12 @@ del presente Código Nacional no será necesaria.
 
 ### Artículo 1031
 . La persona ejecutante puede señalar los bienes que han de ser objeto de embargo, sin sujetarse al orden establecido por el artículo anterior:
+
 I. Si para hacerlo estuviere autorizado por la persona obligada en virtud de convenio expreso;
-II. Si los bienes que señala la persona demandada no fueron bastantes o si no se sujeta al orden establecido, o III. Si los bienes estuvieren en diversos lugares. Pudiendo señalar los que se hallen en el lugar del juicio.
+
+II. Si los bienes que señala la persona demandada no fueron bastantes o si no se sujeta al orden establecido, o
+
+III. Si los bienes estuvieren en diversos lugares. Pudiendo señalar los que se hallen en el lugar del juicio.
 
 ### Artículo 1032
 . El embargo sólo procede y subsiste en cuanto a los bienes que fueron objeto de él, basten para cubrir lo condenado en la resolución judicial de que se trate la suerte principal, intereses, costas, gastos y daños y perjuicios, en su caso, incluyéndose los nuevos vencimientos y réditos hasta la conclusión del procedimiento.
@@ -5049,10 +6415,16 @@ II. Si los bienes que señala la persona demandada no fueron bastantes o si no s
 
 ### Artículo 1034
 . Podrá pedirse la ampliación de embargo:
+
 I. En cualquier caso, en que, a juicio de la autoridad jurisdiccional, no basten los bienes embargados para cubrir lo condenado en la resolución judicial de que se trate;
+
 II. Si el bien mueble embargado que se sacó a remate dejare de cubrir el importe de lo reclamado a consecuencia de las retasas que sufriere o si transcurrido seis meses de la remisión, no se hubiere obtenido su venta;
+
 III. Cuando no se embarguen bienes suficientes por no tenerlos la persona deudora y después aparezcan o los adquiera;
-IV. En los casos que se promueva una tercería, conforme a lo dispuesto en este Código Nacional, y V. En los casos en los que después de emplazarse a todas las personas demandadas, transcurran seis meses sin que haya resuelto en definitiva el juicio debido a medios de defensa promovidos por el presunto ejecutado.
+
+IV. En los casos que se promueva una tercería, conforme a lo dispuesto en este Código Nacional, y
+
+V. En los casos en los que después de emplazarse a todas las personas demandadas, transcurran seis meses sin que haya resuelto en definitiva el juicio debido a medios de defensa promovidos por el presunto ejecutado.
 
 ### Artículo 1035
 . La ampliación del embargo se seguirá sin suspensión de la sección de ejecución.
@@ -5062,8 +6434,12 @@ IV. En los casos que se promueva una tercería, conforme a lo dispuesto en este 
 En dichos casos la persona deberá identificarse, señalar domicilio para la guarda y custodia de los bienes dentro de la competencia territorial de la autoridad jurisdiccional, así como protestar y aceptar el cargo en la diligencia respectiva; requisitos sin los cuales no se le tendrá por designado.
 El depositario o interventor recibirán los bienes bajo inventario formal, previa aceptación y protesta de desempeñar el cargo. De igual manera, responderán de los daños y perjuicios que pudieran causarse por su negligencia o mala fe, con motivo del depósito o por el incumplimiento de cualquier mandato que determine sobre el destino de los bienes secuestrados.
 Se exceptúan de lo dispuesto en este precepto:
+
 I. El embargo de dinero o de créditos fácilmente realizables que se efectúa en virtud de sentencia, porque entonces se hace entrega inmediata a la persona actora en pago; en cualquier otro caso, el depósito se hará en billete o certificado respectivo que se conservará en el seguro del juzgado;
-II. El embargo de bienes que han sido objeto de embargo judicial anterior, en cuyo caso este depositario lo será respecto de todos los embargos subsecuentes mientras subsista el primero, a no ser que el reembargo sea por virtud de juicio hipotecario, derecho de prenda u otro privilegio real; porque entonces éste prevalecerá si el crédito de que procede es de fecha anterior al primer embargo, y III. El embargo de alhajas, obras de arte y demás bienes muebles o inmuebles preciosos que se hará depositándolos en el Monte de Piedad o Institución designada para ello, a costa de la persona deudora.
+
+II. El embargo de bienes que han sido objeto de embargo judicial anterior, en cuyo caso este depositario lo será respecto de todos los embargos subsecuentes mientras subsista el primero, a no ser que el reembargo sea por virtud de juicio hipotecario, derecho de prenda u otro privilegio real; porque entonces éste prevalecerá si el crédito de que procede es de fecha anterior al primer embargo, y
+
+III. El embargo de alhajas, obras de arte y demás bienes muebles o inmuebles preciosos que se hará depositándolos en el Monte de Piedad o Institución designada para ello, a costa de la persona deudora.
 
 ### Artículo 1037
 . Cuando se justifique que los bienes que se trate de embargar están sujetos a depósito o intervención con motivo de embargo judicial anterior, en caso de reembargo no se nombrará nuevo depositario o interventor, sino que el nombrado con anterioridad lo será para todos los reembargos subsecuentes, mientras subsista el primer embargo, y se pondrá en conocimiento de las autoridades jurisdiccionales que ordenaron los anteriores aseguramientos.
@@ -5075,21 +6451,38 @@ La autoridad jurisdiccional cuyo embargo quede en primer término, lo comunicar�
 
 ### Artículo 1039
 . No son susceptibles de embargo:
+
 I. Los bienes que constituyan el patrimonio de familia desde su inscripción en el Registro Público de la Propiedad, Oficina Registral o cualquier otra Institución Registral análoga según la Entidad Federativa de la que se trate, en los términos establecidos por el Código Civil;
+
 II. El lecho cotidiano, los vestidos y los muebles de uso ordinario de la persona deudora, su cónyuge o sus hijos, siempre que no se trate de artículos de lujo;
+
 III. Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que la persona deudora esté dedicada;
+
 IV. La maquinaria, instrumentos y animales propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca a que estén destinados a juicio de la autoridad jurisdiccional, a cuyo efecto oirá el informe de un perito nombrado por ella a costa de la persona deudora;
+
 V. Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales;
+
 VI. Las armas que los militares en servicio activo usen, indispensables para éste, conforme a las Leyes relativas;
+
 VII. Los efectos, maquinaria e instrumentos propios para el fomento y giro de las negociaciones mercantiles e industriales, en cuanto fueren necesarios para su servicio y movimiento, a juicio de la autoridad jurisdiccional, a cuyo efecto oirá el dictamen de un perito nombrado por ella, cuyos honorarios correrán a costa de la persona deudora, pero podrán ser intervenidos juntamente con la negociación a que estén destinados;
+
 VIII. Las mieses, antes de ser cosechadas, pero no los derechos sobre las siembras;
+
 IX. El derecho de usufructo, pero no los frutos de éste;
+
 X. Los derechos de uso y habitación;
+
 XI. Las servidumbres, a no ser que se embargue el fundo a cuyo favor están constituidas, excepto la de aguas, que es embargable independientemente;
+
 XII. La renta vitalicia, en los términos establecidos en los artículos relativos del Código Civil;
+
 XIII. Los sueldos y el salario de las personas trabajadoras, en los términos que establece la Ley; siempre que no se trate de deudas alimenticias o responsabilidad proveniente de delito;
+
 XIV. Las asignaciones de las personas pensionistas del erario;
-XV. Los ejidos de los pueblos y la parcela individual que en su fraccionamiento haya correspondido a cada persona ejidataria, y XVI. Los demás bienes exceptuados por disposición de las leyes.
+
+XV. Los ejidos de los pueblos y la parcela individual que en su fraccionamiento haya correspondido a cada persona ejidataria, y
+
+XVI. Los demás bienes exceptuados por disposición de las leyes.
 
 ### Artículo 1040
 . La persona deudora sujeta a patria potestad o tutela, la que estuviere físicamente impedida para trabajar y la que sin culpa carezca de diversos bienes o de profesión u oficio, tendrán alimentos que la autoridad jurisdiccional fijará, sólo cuando existan bienes que produzcan frutos, de entre los que se encuentran garantizando la obligación y hasta en tanto salgan del patrimonio del titular, momento en que cesarán los alimentos, siempre atendiendo a la importancia de la demanda y de los bienes y las circunstancias de la persona demandada.
@@ -5132,11 +6525,18 @@ Los bienes podrán depositarse en un almacén general de depósito cuyo costo se
 
 ### Artículo 1051
 . Si el embargo recayere en finca urbana y sus rentas o sobre éstas solamente, la persona depositaria tendrá el carácter de administradora, con las facultades y deberes siguientes:
+
 I. Podrá contratar los arrendamientos fijando una renta a precio de mercado, procurando que las rentas no sean menores a las que estuvieron vigentes al tiempo de verificarse el embargo. Exigirá para asegurar el arrendamiento las garantías de estilo, bajo su responsabilidad, si no quiere aceptar ésta, recabará la autorización judicial;
+
 II. Recaudará las pensiones que por arrendamiento rinda la finca, en sus términos y plazos; procediendo, en su caso, contra las personas inquilinas morosas, con arreglo a la ley;
+
 III. Efectuará, sin previa autorización los gastos ordinarios de la finca, como el pago de contribuciones y los de mera conservación, servicio y aseo, no siendo excesivo su monto, cuyos gastos incluirá en la cuenta mensual que presentará a la autoridad jurisdiccional y serán a cargo de la persona deudora;
+
 IV. Pagará los impuestos que corresponda por el arrendamiento en forma oportuna, y de no hacerlo así, serán de su responsabilidad los daños y perjuicios que su omisión origine;
-V. Para hacer los gastos de reparación o de construcción ocurrirá a la autoridad jurisdiccional solicitando la autorización para ello, y acompañando, al efecto, los presupuestos respectivos, y VI. Pagará, previa autorización judicial, los réditos de gravámenes reconocidos sobre la finca.
+
+V. Para hacer los gastos de reparación o de construcción ocurrirá a la autoridad jurisdiccional solicitando la autorización para ello, y acompañando, al efecto, los presupuestos respectivos, y
+
+VI. Pagará, previa autorización judicial, los réditos de gravámenes reconocidos sobre la finca.
 
 ### Artículo 1052
 . Para el efecto que se refiere en la fracción I del artículo anterior del presente Código Nacional, si ignorare la persona depositaria cuál era el importe de la renta al tiempo de practicarse el embargo, recabará dictamen pericial y solicitará la correspondiente autorización judicial para tal efecto.
@@ -5148,10 +6548,22 @@ Al hacerse la notificación, se dejará, en poder del inquilino, cédula en que 
 
 ### Artículo 1054
 . Si el embargo se efectúa en una finca rústica o en una negociación mercantil o industrial, la persona depositaria será interventora con cargo a la caja, vigilando la contabilidad y todas las operaciones que se efectúen, pudiendo oponerse incidentalmente a la realización de cualquier acto que perjudique a los intereses de la persona ejecutante y tendrá las siguientes atribuciones:
-I. Dentro de los diez días siguientes a la fecha en que haya tomado posesión de su cargo, realizara una descripción de todos los bienes muebles e inmuebles, títulos valor, géneros de comercio y derechos de cualquier otra especie, conforme al valor que la propia contabilidad de la negociación les fije, elaborando, asimismo, un balance que muestre la situación financiera de la negociación a fin de que produzcan el mejor rendimiento posible, con los cuales dará cuenta a la autoridad jurisdiccional y vigilará: a) En las fincas rústicas, la recolección de los frutos y su venta; b) Las compras y ventas de las negociaciones mercantiles, recogiendo, bajo su responsabilidad el numerario y efectos de comercio para hacerlos efectivos en su vencimiento; c) La compra de materia prima, su elaboración y la venta de los productos, en las negociaciones industriales, recogiendo el numerario y efectos de comercio para hacerlos efectivos en su vencimiento;
+
+I. Dentro de los diez días siguientes a la fecha en que haya tomado posesión de su cargo, realizara una descripción de todos los bienes muebles e inmuebles, títulos valor, géneros de comercio y derechos de cualquier otra especie, conforme al valor que la propia contabilidad de la negociación les fije, elaborando, asimismo, un balance que muestre la situación financiera de la negociación a fin de que produzcan el mejor rendimiento posible, con los cuales dará cuenta a la autoridad jurisdiccional y vigilará:
+
+a) En las fincas rústicas, la recolección de los frutos y su venta;
+
+b) Las compras y ventas de las negociaciones mercantiles, recogiendo, bajo su responsabilidad el numerario y efectos de comercio para hacerlos efectivos en su vencimiento;
+
+c) La compra de materia prima, su elaboración y la venta de los productos, en las negociaciones industriales, recogiendo el numerario y efectos de comercio para hacerlos efectivos en su vencimiento;
+
 II. Ministrará los fondos para los gastos de la negociación o finca rústica y cuidará que la inversión de esos fondos se haga convenientemente;
+
 III. Depositará mediante billete de depósito el dinero que resultare sobrante, después de cubiertos los gastos necesarios y ordinarios a disposición del juzgado;
-IV. Las medidas necesarias para evitar abusos y malos manejos de las personas administradoras, dando cuenta a la autoridad jurisdiccional para su ratificación y para que determine lo conducente para remediar en su caso, la mala administración, y V. La persona administradora designada deberá acreditar, conjuntamente al aceptar y protestar el cargo, tener conocimiento y experiencia para ejercer el cargo, así como acreditar contar con bienes inmuebles suficientes o exhibir una garantía o fianza que cubra los daños y perjuicios, para así asegurar el debido ejercicio del cargo. Sin ese requisito no se le tendrá por designado y no se le pondrá en posesión del cargo.
+
+IV. Las medidas necesarias para evitar abusos y malos manejos de las personas administradoras, dando cuenta a la autoridad jurisdiccional para su ratificación y para que determine lo conducente para remediar en su caso, la mala administración, y
+
+V. La persona administradora designada deberá acreditar, conjuntamente al aceptar y protestar el cargo, tener conocimiento y experiencia para ejercer el cargo, así como acreditar contar con bienes inmuebles suficientes o exhibir una garantía o fianza que cubra los daños y perjuicios, para así asegurar el debido ejercicio del cargo. Sin ese requisito no se le tendrá por designado y no se le pondrá en posesión del cargo.
 
 ### Artículo 1055
 . Si en el cumplimiento de los deberes que el artículo anterior impone a la persona interventora, ésta encontrare que la administración no se hace convenientemente, o puede perjudicar los derechos de la persona que pidió y obtuvo el embargo, lo pondrá en conocimiento de la autoridad jurisdiccional, para que, oyendo a las partes y a la persona interventora, determine lo conveniente. Contra dicha resolución no procede recurso alguno.
@@ -5168,9 +6580,14 @@ En caso de que el producto de la venta cubra el monto total de la condena y los 
 
 ### Artículo 1059
 . Será removida la persona depositaria en los siguientes casos:
+
 I. Si dejare de rendir cuenta mensual o la presentada no fuere aprobada;
+
 II. Cuando no haya manifestado su domicilio o el cambio de ésta;
-III. Cuando tratándose de bienes muebles, no pusiere en conocimiento de la autoridad jurisdiccional, dentro de los tres días que sigan a la entrega, el lugar en donde quede constituido el depósito, y IV. Cuando actúe con dolo, negligencia o mala fe con motivo del depósito o por el incumplimiento de cualquier mandato que determine sobre el destino de los bienes secuestrados.
+
+III. Cuando tratándose de bienes muebles, no pusiere en conocimiento de la autoridad jurisdiccional, dentro de los tres días que sigan a la entrega, el lugar en donde quede constituido el depósito, y
+
+IV. Cuando actúe con dolo, negligencia o mala fe con motivo del depósito o por el incumplimiento de cualquier mandato que determine sobre el destino de los bienes secuestrados.
 Si la persona removida fuere la persona deudora, la persona ejecutante nombrará nuevo depositario.
 Si lo fuere la persona acreedora o la persona por él nombrada, la nueva elección se hará por la autoridad jurisdiccional, de conformidad con las disposiciones previstas en el presente Capítulo. Contra dicha resolución no procede recurso alguno.
 La persona depositaria responderá de los daños y perjuicios causados en caso de negligencia o mala fe.
@@ -5225,8 +6642,12 @@ Cuando la parte ejecutada no hubiere designado perito valuador en el plazo legal
 
 ### Artículo 1074
 . Las personas acreedoras o aquellas cuyo gravamen este a su favor, tendrán las siguientes facultades:
+
 I. Intervenir en el acto del remate y hacer las observaciones a la autoridad jurisdiccional que estimen pertinentes para garantizar sus derechos. Lo anterior no implicará que se suspenda el procedimiento de remate;
-II. En su caso, apelar el auto de aprobación del remate, y III. Una vez notificado, nombrar a su costa perito valuador que podrá con los nombrados por las partes, practicar el correspondiente avalúo. No podrá ejercer este derecho después de transcurrido el término común y practicado el avalúo por los peritos de las partes o el tercero en discordia o el designado por la autoridad jurisdiccional, ni cuando la valorización se haga por otros medios.
+
+II. En su caso, apelar el auto de aprobación del remate, y
+
+III. Una vez notificado, nombrar a su costa perito valuador que podrá con los nombrados por las partes, practicar el correspondiente avalúo. No podrá ejercer este derecho después de transcurrido el término común y practicado el avalúo por los peritos de las partes o el tercero en discordia o el designado por la autoridad jurisdiccional, ni cuando la valorización se haga por otros medios.
 
 ### Artículo 1075
 . Cuando el monto líquido total de la condena sea igual o superior al valor de los bienes valuados y del certificado en el que se hagan constar los gravámenes, no aparecieren otras personas acreedoras, la parte ejecutante podrá optar por la adjudicación directa de los bienes. Contra la resolución que adjudica de forma directa al ejecutante, procede el recurso de apelación en ambos efectos.
@@ -5258,11 +6679,18 @@ Cuando por el importe del valor fijado a los bienes, no sea suficiente la parte 
 
 ### Artículo 1082
 . Las posturas se formularán por escrito, salvo que los Consejos de la Judicatura establezcan otros mecanismos para ello expresando, la misma parte postora o su representante con facultades para ello, lo siguiente:
+
 I. El nombre, capacidad legal y domicilio de la parte postora;
+
 II. La cantidad que se ofrezca por los bienes;
+
 III. La cantidad que se otorgue de contado, y los términos en que se haya de pagar el resto;
+
 IV. El interés que deba causar la suma que se quede reconociendo, el que no puede ser menor del nueve por ciento anual;
-V. La exhibición del billete de depósito que consigne el diez por ciento del valor de los bienes sujetos a la subasta, y VI. La sumisión expresa a la autoridad jurisdiccional que conozca del negocio, para que haga cumplir el contrato.
+
+V. La exhibición del billete de depósito que consigne el diez por ciento del valor de los bienes sujetos a la subasta, y
+
+VI. La sumisión expresa a la autoridad jurisdiccional que conozca del negocio, para que haga cumplir el contrato.
 En caso de que una postura no cumpla con los anteriores requisitos, la autoridad jurisdiccional le requerirá al postor que satisfaga los omitidos, que deberán ser subsanados dentro del día siguiente, y en caso de que ese día se celebre la subasta, deberá realizarse antes de su inicio, caso contrario, se tendrá por no hecha la postura.
 
 ### Artículo 1083
@@ -5363,22 +6791,36 @@ En el caso del artículo 1105 de este ordenamiento, si el precio de la venta fue
 
 ### Artículo 1108
 . Cuando conforme a lo previsto en este Código Nacional, la persona acreedora hubiere optado por la administración de las fincas embargadas, se observará lo siguiente:
+
 I. La autoridad jurisdiccional mandará que se le haga entrega de ellas bajo el correspondiente inventario, y que se le dé a reconocer a las personas que el mismo acreedor designe;
+
 II. La persona acreedora y la persona deudora podrán establecer por acuerdos particulares las condiciones y término de la administración, forma y época de rendir las cuentas. Si así no lo hicieren se entenderá que las fincas han de ser administradas según la costumbre del lugar, debiendo el acreedor rendir cuentas cada seis meses;
+
 III. Si las fincas fueren rústicas podrá la persona deudora intervenir las operaciones de la recolección;
+
 IV. La rendición de cuentas y las diferencias que de ellas surgieren se substanciarán sumariamente;
-V. Cuando la persona ejecutante haya hecho pago de su crédito, intereses y costas con el producto de las fincas, volverán éstas a poder de la persona ejecutada, y VI. La persona acreedora podrá cesar en la administración de la finca cuando lo crea conveniente y pedir se saque de nuevo a pública subasta por el precio que salió a segunda almoneda, y si no hubiere persona postora, que se le adjudique por dos terceras partes de ese valor, en lo que sea necesario para completar el pago, deduciendo lo que hubiere percibido a cuenta.
+
+V. Cuando la persona ejecutante haya hecho pago de su crédito, intereses y costas con el producto de las fincas, volverán éstas a poder de la persona ejecutada, y
+
+VI. La persona acreedora podrá cesar en la administración de la finca cuando lo crea conveniente y pedir se saque de nuevo a pública subasta por el precio que salió a segunda almoneda, y si no hubiere persona postora, que se le adjudique por dos terceras partes de ese valor, en lo que sea necesario para completar el pago, deduciendo lo que hubiere percibido a cuenta.
 
 ### Artículo 1109
 . Si en el contrato se ha fijado el precio en que una finca hipotecada haya de ser adjudicada a la persona acreedora sin haberse renunciado la subasta, el remate se hará teniéndose como postura legal la que exceda del precio señalado para la adjudicación, y cubra con el contado lo sentenciado. Si no hubiere postura legal, se llevará a efecto desde luego la adjudicación en el precio convenido, debiéndose observar al efecto lo dispuesto en este Código Nacional.
 
 ### Artículo 1110
 . Cuando los bienes, cuyo remate se haya decretado, fueran muebles, se observará lo siguiente:
+
 I. Se efectuará su venta siempre de contado, por medio de corredor o casa de comercio que expenda objetos o mercancías similares, o cualquier otro medio que la autoridad jurisdiccional considere, haciéndole saber, para la busca de personas compradoras el precio fijado por peritos o por convenio de las partes;
+
 II. Si pasados diez días de puestos a la venta no se hubiere logrado ésta, la autoridad jurisdiccional ordenará una rebaja del diez por ciento del valor fijado primitivamente, y, conforme a ella comunicará al corredor o casa de comercio el nuevo precio de venta, y así sucesivamente, cada diez días, hasta obtener la realización;
+
 III. Efectuada la venta, el corredor, casa de comercio o el establecimiento correspondiente, entregará los bienes a la persona compradora, otorgándosele la factura correspondiente, que firmará la persona ejecutada o la autoridad jurisdiccional en su rebeldía;
+
 IV. Después de ordenada la venta, puede la parte ejecutante pedir la adjudicación de los bienes por el precio que tuvieren señalado al tiempo de su petición; eligiendo los que basten para cubrir su crédito, según lo sentenciado;
-V. Los gastos de corretaje o comisión serán a cargo de la persona deudora y se deducirán preferentemente del precio de venta que se obtenga, y VI. En todo lo demás, se estará a las disposiciones de este Capítulo.
+
+V. Los gastos de corretaje o comisión serán a cargo de la persona deudora y se deducirán preferentemente del precio de venta que se obtenga, y
+
+VI. En todo lo demás, se estará a las disposiciones de este Capítulo.
 
 ## Capítulo V
 De la Ejecución de la Sentencia y demás Resoluciones de las Autoridades Jurisdiccionales de las Entidades Federativas
@@ -5391,13 +6833,21 @@ De la Ejecución de la Sentencia y demás Resoluciones de las Autoridades Jurisd
 
 ### Artículo 1113
 . Si al ejecutar los autos insertos en las requisitorias, se opusiere tercera persona, el órgano jurisdiccional oirá incidentalmente y calificará las excepciones opuestas, conforme a lo siguiente:
-I. Cuando la tercera persona que no hubiere sido oído por la autoridad jurisdiccional requirente y poseyere en nombre propio la cosa en que debe ejecutarse la sentencia, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que se dictare esa resolución y de las constancias en que se haya fundado, y II. Si la tercera opositora que se presente ante la autoridad jurisdiccional requerida, no probare que posee con cualquier título traslativo de dominio la cosa sobre que verse la ejecución del auto inserto en la requisitoria, será condenada a satisfacer las costas, daños y perjuicios a quien se los hubiere ocasionado. Contra esta resolución no se dará recurso alguno.
+
+I. Cuando la tercera persona que no hubiere sido oído por la autoridad jurisdiccional requirente y poseyere en nombre propio la cosa en que debe ejecutarse la sentencia, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que se dictare esa resolución y de las constancias en que se haya fundado, y
+
+II. Si la tercera opositora que se presente ante la autoridad jurisdiccional requerida, no probare que posee con cualquier título traslativo de dominio la cosa sobre que verse la ejecución del auto inserto en la requisitoria, será condenada a satisfacer las costas, daños y perjuicios a quien se los hubiere ocasionado. Contra esta resolución no se dará recurso alguno.
 
 ### Artículo 1114
 . Las autoridades jurisdiccionales requeridas deberán ejecutar las sentencias, de conformidad con lo siguiente:
+
 I. Que versen sobre cantidad líquida o cosa determinada individualmente;
+
 II. Que se trataren de derechos reales sobre inmuebles o de bienes muebles ubicados en la Entidad Federativa correspondiente y conforme a las Leyes del lugar;
-III. Si tratándose de derechos personales o del estado civil, la persona condenada se sometió expresamente o por razón de domicilio a la justicia que la pronunció, y IV. Siempre que la parte condenada haya sido emplazada personalmente para ocurrir al juicio.
+
+III. Si tratándose de derechos personales o del estado civil, la persona condenada se sometió expresamente o por razón de domicilio a la justicia que la pronunció, y
+
+IV. Siempre que la parte condenada haya sido emplazada personalmente para ocurrir al juicio.
 
 ### Artículo 1115
 . La autoridad jurisdiccional que reciba despacho u orden de su superior para ejecutar cualquier diligencia es mero ejecutor y, en consecuencia, no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
@@ -5411,31 +6861,52 @@ De la Competencia
 
 ### Artículo 1117
 . Es autoridad jurisdiccional competente para conocer de los siguientes casos:
+
 I. La del domicilio del demandado;
+
 II. En caso de declaración de ausencia o declaración especial de ausencia por desaparición, la del domicilio del último lugar de residencia habitual del ausente o desaparecido;
+
 III. En caso de restitución de niñas, niños y adolescentes, la del lugar donde se encuentren;
+
 IV. En asuntos de relaciones de filiación, curatela y tutela, la de la residencia habitual de los hijos o pupilos o adolescentes; si el actor es alguno de éstos o su representante, éste también podrá elegir el foro del domicilio del padre, madre o persona tutora;
+
 V. En acciones reales sobre inmuebles o muebles, será la del lugar de la ubicación de los bienes;
+
 VI. La autoridad jurisdiccional mexicana competente para ejecutar una sentencia, laudo o resolución jurisdiccional proveniente del extranjero, será el del domicilio del ejecutado o el del lugar donde se encuentran los bienes sobre los que podrá ejecutarse la sentencia;
+
 VII. Para el discernimiento de personas que pertenezcan a grupos sociales en situación de vulnerabilidad que les impida la emisión clara de su voluntad, es competente la autoridad jurisdiccional del foro de la residencia de éstos y si este no se conociere, el del lugar donde se encuentren;
+
 VIII. Cuando de acuerdo con las reglas del litisconsorcio pasivo necesario debiera ser llamada a juicio una autoridad extranjera ante la cual se celebró el acto materia de la litis, la autoridad jurisdiccional competente será la del lugar donde se encuentra el funcionario o la autoridad demandada;
-IX. Para conocer de acciones relativas a obligaciones derivadas del hecho ilícito, la autoridad jurisdiccional competente será la del foro en que se produzca el daño o el acontecimiento del que deriva la acción; salvo que se trate de demandas por responsabilidad por el producto, en cuyo caso, el foro competente será el del domicilio del productor o el lugar de producción del bien, y X. Para el caso de acciones contra personas jurídicas o sin personalidad jurídica, pero con un patrimonio de afectación identificable, con residencia o ubicación en el extranjero, será competente la autoridad jurisdiccional mexicana si la demandada cuenta con alguna sede o sucursal en territorio mexicano.
+
+IX. Para conocer de acciones relativas a obligaciones derivadas del hecho ilícito, la autoridad jurisdiccional competente será la del foro en que se produzca el daño o el acontecimiento del que deriva la acción; salvo que se trate de demandas por responsabilidad por el producto, en cuyo caso, el foro competente será el del domicilio del productor o el lugar de producción del bien, y
+
+X. Para el caso de acciones contra personas jurídicas o sin personalidad jurídica, pero con un patrimonio de afectación identificable, con residencia o ubicación en el extranjero, será competente la autoridad jurisdiccional mexicana si la demandada cuenta con alguna sede o sucursal en territorio mexicano.
 
 ### Artículo 1118
 . Son reglas especiales de competencia tratándose de sucesiones en el ámbito internacional, las siguientes:
-I. Es competente para conocer de una sucesión, incluida su liquidación y tutela testamentaria, la autoridad jurisdiccional de la última residencia del causante de la misma al momento de su fallecimiento, ausencia o desaparición. Si no hubiera tenido domicilio o se desconociera, lo será la del lugar de la ubicación de los bienes inmuebles, en su defecto, la del lugar del fallecimiento, y II. Si la persona hubiese tenido domicilio en el territorio nacional y falleció en el extranjero y no se hubiese iniciado en el extranjero la sucesión dentro de los siguientes tres meses a partir de la fecha de su fallecimiento, será competente la autoridad jurisdiccional nacional.
+
+I. Es competente para conocer de una sucesión, incluida su liquidación y tutela testamentaria, la autoridad jurisdiccional de la última residencia del causante de la misma al momento de su fallecimiento, ausencia o desaparición. Si no hubiera tenido domicilio o se desconociera, lo será la del lugar de la ubicación de los bienes inmuebles, en su defecto, la del lugar del fallecimiento, y
+
+II. Si la persona hubiese tenido domicilio en el territorio nacional y falleció en el extranjero y no se hubiese iniciado en el extranjero la sucesión dentro de los siguientes tres meses a partir de la fecha de su fallecimiento, será competente la autoridad jurisdiccional nacional.
 
 ### Artículo 1119
 . Tratándose de sucesiones de personas extranjeras, las autoridades jurisdiccionales y notariales nacionales deberán avisar a la Secretaría de Relaciones Exteriores para todos los efectos legales y consulares a que haya lugar.
 
 ### Artículo 1120
 . En el caso de adopción internacional de niñas, niños o adolescentes, la competencia de las autoridades jurisdiccionales se regirá conforme a lo siguiente:
+
 I. Para el otorgamiento de la adopción, la del lugar de la residencia habitual del adoptado;
-II. Sobre la nulidad de la adopción, será la del lugar de la residencia habitual del adoptado al momento de la adopción, y III. Para decidir sobre la conversión de la adopción simple en adopción plena, legitimación adoptiva o figuras afines, a elección del actor, la del lugar de la residencia habitual del adoptado o adoptantes, al momento de la adopción.
+
+II. Sobre la nulidad de la adopción, será la del lugar de la residencia habitual del adoptado al momento de la adopción, y
+
+III. Para decidir sobre la conversión de la adopción simple en adopción plena, legitimación adoptiva o figuras afines, a elección del actor, la del lugar de la residencia habitual del adoptado o adoptantes, al momento de la adopción.
 
 ### Artículo 1121
 . La competencia de las autoridades nacionales para conocer de asuntos sobre alimentos se regirá por las siguientes disposiciones:
-I. A elección del acreedor alimentario, la de su residencia o la del deudor alimentista, o la ubicación de los bienes del deudor alimentista, y II. Para las acciones de cese o modificación de la pensión alimenticia la que haya conocido de la fijación de ésta, o los de la residencia del acreedor.
+
+I. A elección del acreedor alimentario, la de su residencia o la del deudor alimentista, o la ubicación de los bienes del deudor alimentista, y
+
+II. Para las acciones de cese o modificación de la pensión alimenticia la que haya conocido de la fijación de ésta, o los de la residencia del acreedor.
 
 ### Artículo 1122
 . Para conocer de los efectos del matrimonio o figuras similares, es competente la autoridad jurisdiccional de la residencia o domicilio común; la de la residencia de la persona demandada o la del lugar en que se encuentre, a elección del actor.
@@ -5447,7 +6918,17 @@ Para efectos de la competencia, un acuerdo exclusivo de elección de competencia
 No procede la elección o renuncia previa de la competencia suscrita en los Estados Unidos Mexicanos tratándose de cuestiones alimenticias, capacidad de las personas físicas, responsabilidad extracontractual, derechos reales sobre bienes ubicados en el territorio de los Estados Unidos Mexicanos, validez de las inscripciones en los registros públicos, y demás establecidos en las leyes nacionales.
 
 ### Artículo 1124
-. Cualquier autoridad jurisdiccional mexicana suspenderá el procedimiento iniciado y, en su caso, rechazará la demanda que se le hubiese presentado, cuando ante éste se demuestre que el litigio hubiese sido sometido a un acuerdo exclusivo de elección de foro, salvo que concurra alguna de las siguientes circunstancias: a) El acuerdo de exclusividad sea nulo o no aceptable, en virtud de la ley del lugar donde se encuentra el tribunal elegido. b) Una de las partes careciera de capacidad para celebrar el acuerdo de elección de foro en virtud de la ley del tribunal al que se ha acudido. c) Que de dar efecto al acuerdo conduciría a una manifiesta denegación de justicia o violación del equilibrio procesal o sería manifiestamente contrario a principios o instituciones fundamentales del orden público mexicano, en términos del Artículo 15, fracción II del Código Civil Federal. d) Cuando por causas excepcionales, fuera del control de las partes, el acuerdo no pudiera ser razonablemente ejecutado. e) Que el tribunal elegido haya resuelto no conocer del litigio.
+. Cualquier autoridad jurisdiccional mexicana suspenderá el procedimiento iniciado y, en su caso, rechazará la demanda que se le hubiese presentado, cuando ante éste se demuestre que el litigio hubiese sido sometido a un acuerdo exclusivo de elección de foro, salvo que concurra alguna de las siguientes circunstancias:
+
+a) El acuerdo de exclusividad sea nulo o no aceptable, en virtud de la ley del lugar donde se encuentra el tribunal elegido.
+
+b) Una de las partes careciera de capacidad para celebrar el acuerdo de elección de foro en virtud de la ley del tribunal al que se ha acudido.
+
+c) Que de dar efecto al acuerdo conduciría a una manifiesta denegación de justicia o violación del equilibrio procesal o sería manifiestamente contrario a principios o instituciones fundamentales del orden público mexicano, en términos del Artículo 15, fracción II del Código Civil Federal.
+
+d) Cuando por causas excepcionales, fuera del control de las partes, el acuerdo no pudiera ser razonablemente ejecutado.
+
+e) Que el tribunal elegido haya resuelto no conocer del litigio.
 
 ### Artículo 1125
 . Las autoridades jurisdiccionales nacionales asumirán competencia para resolver un asunto, cuando, al haberse presentado un conflicto competencial internacional negativo de no aceptarla, conduzca a una denegación de justicia.
@@ -5469,7 +6950,10 @@ De la Cooperación Procesal Internacional
 
 ### Artículo 1130
 . Salvo disposición derivada de este Código y de tratados y convenciones internacionales de que México sea parte, el derecho procesal aplicable al proceso es el mexicano, siguiendo, al efecto, las siguientes reglas:
-I. El orden jurídico de los Estados Unidos Mexicanos determinará las condiciones, procedimiento y efectos de las inscripciones registrales en los registros públicos mexicanos, y II. Solo los hechos estarán sujetos a prueba; el derecho lo estará únicamente cuando se funde en usos, costumbres, tradiciones o valores culturales.
+
+I. El orden jurídico de los Estados Unidos Mexicanos determinará las condiciones, procedimiento y efectos de las inscripciones registrales en los registros públicos mexicanos, y
+
+II. Solo los hechos estarán sujetos a prueba; el derecho lo estará únicamente cuando se funde en usos, costumbres, tradiciones o valores culturales.
 Sección Primera De las Notificaciones, Emplazamientos y Medidas Cautelares
 
 ### Artículo 1131
@@ -5496,10 +6980,15 @@ El hecho de que una persona carezca de condición o calidad migratoria, que perm
 ### Artículo 1137
 . Las autoridades jurisdiccionales nacionales podrán ejecutar las medidas cautelares dictadas por una autoridad jurisdiccional extranjera, cuando el objeto de la medida consista en garantizar la seguridad de personas y bienes.
 En su ejecución se observarán las siguientes disposiciones:
+
 I. El cumplimiento de medidas cautelares por una autoridad jurisdiccional nacional no implicará el compromiso de reconocer y ejecutar la sentencia extranjera que se pudiere dictar.
+
 II. La modificación de una medida cautelar, así como las sanciones por peticiones maliciosas o desproporcionadas, se regirán por este Código Nacional y demás leyes nacionales aplicables.
+
 III. En caso de que el afectado justifique la improcedencia de la medida, la autoridad jurisdiccional nacional podrá levantar o disminuir dicha medida de acuerdo con el derecho mexicano.
+
 IV. Si se opusiese una tercería excluyente de dominio o de derechos reales sobre el bien embargado o su posesión de éste último, se resolverá por la autoridad jurisdiccional nacional, de acuerdo con el orden jurídico del lugar de la ubicación de dicho bien.
+
 V. Tratándose de alimentos, se ejecutarán las medidas cautelares solicitadas cuando exista resolución judicial, lo establezca un instrumento internacional o exista prueba incontrovertible a juicio de la autoridad jurisdiccional nacional, de que el ejecutado es deudor alimentista.
 
 ### Artículo 1138
@@ -5551,23 +7040,36 @@ Sección Tercera De la Cooperación, cuando intervengan Niñas, Niños y Adolesc
 
 ### Artículo 1150
 . El ejercicio del derecho de visita y custodia de niñas, niños o adolescentes cuyos padres radiquen en países diferentes de manera habitual, se regirá conforme a los instrumentos internacionales y se observarán las siguientes reglas:
+
 I. Las autoridades nacionales ejecutarán las medidas necesarias a fin de lograr la plena convivencia de las niñas, niños o adolescentes con sus padres, incluyendo la utilización de medios telemáticos;
-II. El derecho de visita de una niña, niño o adolescente a otro país diferente al del lugar de su residencia, implicará que el progenitor que lo reciba en visita en el Extranjero o en los Estados Unidos Mexicanos, asegure la restitución de la niña, niño o adolescente, y III. La autoridad jurisdiccional fijará a cargo de qué persona correrán los gastos de desplazamiento, si es que no hubiese acuerdo entre los interesados.
+
+II. El derecho de visita de una niña, niño o adolescente a otro país diferente al del lugar de su residencia, implicará que el progenitor que lo reciba en visita en el Extranjero o en los Estados Unidos Mexicanos, asegure la restitución de la niña, niño o adolescente, y
+
+III. La autoridad jurisdiccional fijará a cargo de qué persona correrán los gastos de desplazamiento, si es que no hubiese acuerdo entre los interesados.
 
 ### Artículo 1151
 . Las solicitudes de restitución internacional de niñas, niños o adolescentes se regirán de acuerdo con los tratados internacionales y en su defecto, por las siguientes disposiciones:
+
 I. La autoridad jurisdiccional tendrá la facultad de ordenar las medidas precautorias y de aseguramiento, con el fin de asegurar el bienestar de las niñas, niños y adolescentes y prevenir que sean nuevamente trasladados indebidamente o retenidos.
+
 II. Los procedimientos de restitución no podrán pronunciarse y decidir sobre el fondo de la guarda y custodia.
+
 III. En los casos de retención o traslado ilícito de una niña, niño o adolescente, deberá procederse de inmediato y sin dilaciones a la restitución del mismo.
+
 IV. Cuando la niña, niño o adolescente reclamado, no se encuentre en territorio mexicano, el órgano competente autorizado responderá a la solicitud informando el resultado de la búsqueda.
 Ninguna autoridad jurisdiccional de lugar diferente al de la residencia habitual de la niña, niño o adolescente, podrá declarar a favor de la persona que retiene o efectúe el traslado, algún derecho de custodia, salvo que el derecho convencional internacional lo permita. Si se encuentran en trámite procedimientos jurisdiccionales que resuelvan la custodia, éstos deberán suspenderse.
 
 ### Artículo 1152
 . La autoridad jurisdiccional nacional podrá rechazar una solicitud de restitución de una niña, niño o adolescente, cuando la persona que se oponga a la restitución compruebe que:
+
 I. La persona, institución u organismo titulares de la solicitud de restitución, no ejercía de modo efectivo el derecho de custodia en el momento en que fue trasladado o retenido, o había consentido o posteriormente aceptado, dicho traslado o retención.
+
 II. Existe un riesgo grave de que la restitución del menor lo exponga a un peligro físico o psicológico, o que de cualquier otra manera ponga al menor en una situación intolerable.
+
 III. La niña, niño o adolescente, se oponga a la restitución, si ya alcanzó una edad y un grado de madurez suficiente en que resulte apropiado tener en cuenta su opinión.
+
 IV. La restitución podría violentar los derechos humanos reconocidos en los Estados Unidos Mexicanos y las garantías que para ellos se otorguen.
+
 V. Cuando la solicitud de restitución se hubiere presentado un año después de ocurrido el traslado o la retención y se comprueba que la niña, niño o adolescente, ha quedado integrado a su nuevo medio ambiente.
 
 ### Artículo 1153
@@ -5581,17 +7083,29 @@ Las autoridades nacionales podrán propiciar una solución amigable, a través d
 
 ### Artículo 1155
 . La solicitud de restitución deberá contener al menos lo siguiente:
+
 I. Nombre y datos generales de la niña, niño o adolescente;
+
 II. Nombre y datos del solicitante y el carácter con el que promueve respecto a la niña, niño o adolescente;
+
 III. Antecedentes y los hechos relativos al traslado o sustracción;
-IV. El nombre de la persona que se presume retuvo o traslado ilícitamente y el domicilio o ubicación donde se presume que se encuentra la niña, niño o adolescente, y V. Cualquier información que sea necesaria o pertinente para su localización.
+
+IV. El nombre de la persona que se presume retuvo o traslado ilícitamente y el domicilio o ubicación donde se presume que se encuentra la niña, niño o adolescente, y
+
+V. Cualquier información que sea necesaria o pertinente para su localización.
 
 ### Artículo 1156
 . La solicitud de restitución deberá estar acompañada de:
+
 I. Copia documento que acredite la custodia de la niña, niño o adolescente solicitado;
+
 II. Constancia de la residencia habitual de la niña, niño o adolescente solicitado;
+
 III. Cualquier otro documento con el que se pueda probar el medio en el que se desarrolla habitualmente la niña, niño o adolescente;
-IV. Fotografías y demás datos o elementos precisos de identificación de la niña, niño o adolescente en su caso, y V. La traducción de los documentos que se presenten en un idioma distinto al del país al que se solicite la restitución.
+
+IV. Fotografías y demás datos o elementos precisos de identificación de la niña, niño o adolescente en su caso, y
+
+V. La traducción de los documentos que se presenten en un idioma distinto al del país al que se solicite la restitución.
 La autoridad competente podrá prescindir de algunos de estos requisitos si a su juicio se justifica la restitución.
 
 ### Artículo 1157
@@ -5626,11 +7140,18 @@ De los Exhortos Internacionales y Cartas Rogatorias
 
 ### Artículo 1164
 . Los exhortos o cartas rogatorias relativas a notificaciones, recepción de pruebas y a otros asuntos de sólo trámite, se diligenciarán sin necesidad de homologación o reconocimiento, de acuerdo con las siguientes disposiciones:
+
 I. La solicitud deberá contener la descripción de las formalidades necesarias para la diligenciación del exhorto o carta rogatoria;
+
 II. La autoridad jurisdiccional nacional requerida podrá conceder la simplificación de formalidades o la observancia de formalidades diversas a las nacionales, salvo que concurra una excepción al reconocimiento o aplicación del derecho extranjero o vulnere los derechos humanos;
+
 III. La autoridad jurisdiccional prevendrá al solicitante en caso de que se omitiere acompañar los documentos correspondientes, para que dentro del plazo de cuarenta y cinco días naturales presente la documentación faltante, caso contrario, se desechará la solicitud;
+
 IV. Las autoridades jurisdiccionales nacionales formarán expediente de todas las actuaciones que realicen en todos los procedimientos de cooperación internacional en las que intervengan y enviarán copia de las actuaciones que correspondan a la autoridad jurisdiccional requirente;
-V. En el caso de que no se pudiere ejecutar la totalidad de lo solicitado a la autoridad jurisdiccional nacional, deberá retransmitir la autoridad jurisdiccional competente el resto para su ejecución. Las autoridades jurisdiccionales que conozcan deberán informar al requirente, y VI. No se exigirán requisitos de forma adicionales respecto de los exhortos o cartas rogatorias que provengan del extranjero.
+
+V. En el caso de que no se pudiere ejecutar la totalidad de lo solicitado a la autoridad jurisdiccional nacional, deberá retransmitir la autoridad jurisdiccional competente el resto para su ejecución. Las autoridades jurisdiccionales que conozcan deberán informar al requirente, y
+
+VI. No se exigirán requisitos de forma adicionales respecto de los exhortos o cartas rogatorias que provengan del extranjero.
 Las autoridades jurisdiccionales nacionales que sean competentes para realizar las diligencias, deberán cooperar y colaborar entre ellas.
 
 ### Artículo 1165
@@ -5659,11 +7180,23 @@ Sección Quinta De la Utilización de Videoconferencias en Procesos Internaciona
 
 ### Artículo 1171
 . La solicitud para el empleo de videoconferencia deberá señalar:
+
 I. Las formas y medios técnicos que permitan lograr la comunicación entre el requirente y el requerido.
+
 II. La naturaleza del caso, nombres y domicilios de las personas a ser interrogadas, el objetivo que se persigue con la diligencia y los impedimentos previstos por orden jurídico del requirente para que una persona declare.
 
 ### Artículo 1172
-. Durante una videoconferencia solo podrán permanecer en la sala de audiencia los interesados y deberá privilegiarse la privacidad y deberá grabarse la videoconferencia desde su inicio hasta su conclusión. Para su ejecución se tomarán en cuenta las siguientes reglas: a) Cuando los técnicos informen que se ha logrado la comunicación, la autoridad requirente comenzará notificando lugar, fecha, nombres de las personas que intervendrán en la videoconferencia como autoridad jurisdiccional, persona secretaria judicial, nombre de los declarantes y abogados presentes. Lo mismo hará la autoridad requerida; b) La autoridad requerida identificará a cada testigo o perito a ser interrogados. Deberá aludir a los medios como se ha realizado la identificación, debiendo obtener copia de los documentos identificatorios. En caso necesario, deberá estar presente la persona que hubiese de realizar la traducción, que también deberá ser identificada; c) La autoridad requirente tomará la protesta o juramento de que el declarante se conducirá con verdad, incluida el apercibimiento en la que se le haga saber al declarante la sanción por conducirse con falsedad; d) Durante la audiencia podrán presentarse aquellos documentos que se pongan a la vista del declarante para su reconocimiento. Podrá recurrirse a cualquier tipo de tecnología que permita la transmisión de cualquier tipo de datos, y e) El examen lo hará la autoridad requirente o los abogados reconocidos ante ésta. Las preguntas podrán ser objetadas por el requirente o el requerido, cuando no sean admisibles acorde al orden jurídico mexicano.
+. Durante una videoconferencia solo podrán permanecer en la sala de audiencia los interesados y deberá privilegiarse la privacidad y deberá grabarse la videoconferencia desde su inicio hasta su conclusión. Para su ejecución se tomarán en cuenta las siguientes reglas:
+
+a) Cuando los técnicos informen que se ha logrado la comunicación, la autoridad requirente comenzará notificando lugar, fecha, nombres de las personas que intervendrán en la videoconferencia como autoridad jurisdiccional, persona secretaria judicial, nombre de los declarantes y abogados presentes. Lo mismo hará la autoridad requerida;
+
+b) La autoridad requerida identificará a cada testigo o perito a ser interrogados. Deberá aludir a los medios como se ha realizado la identificación, debiendo obtener copia de los documentos identificatorios. En caso necesario, deberá estar presente la persona que hubiese de realizar la traducción, que también deberá ser identificada;
+
+c) La autoridad requirente tomará la protesta o juramento de que el declarante se conducirá con verdad, incluida el apercibimiento en la que se le haga saber al declarante la sanción por conducirse con falsedad;
+
+d) Durante la audiencia podrán presentarse aquellos documentos que se pongan a la vista del declarante para su reconocimiento. Podrá recurrirse a cualquier tipo de tecnología que permita la transmisión de cualquier tipo de datos, y
+
+e) El examen lo hará la autoridad requirente o los abogados reconocidos ante ésta. Las preguntas podrán ser objetadas por el requirente o el requerido, cuando no sean admisibles acorde al orden jurídico mexicano.
 Sección Sexta De la Información del Derecho Extranjero
 
 ### Artículo 1173
@@ -5674,11 +7207,19 @@ Para informarse del texto, vigencia, sentido y alcance legal del derecho extranj
 . Por sentido y alcance legal del derecho extranjero se entenderá el resultado de la interpretación del derecho y normas extranjeras y de su aplicabilidad al caso concreto. El sentido implica la calificación del supuesto, así como el significado de lo contenido en la disposición extranjera, mientras que el alcance comprende los datos o campos sobre los que aplica o se abstiene de su aplicación. Se hará el mismo análisis tratándose de usos, costumbres, tradiciones o valores culturales extranjeros, sin embargo, estos sí se considerarán hechos sujetos a prueba.
 
 ### Artículo 1175
-. La solicitud de informe sobre derecho extranjero se tramitará acorde a lo establecido en los instrumentos internacionales. En su defecto, se observará lo siguiente: a) Preferentemente, se dirigirá a la autoridad central extranjera solicitándole le informe sobre el texto, vigencia, sentido y alcance legal del derecho extranjero, en el apartado que desea conocer. A su solicitud, deberá agregar una síntesis de los hechos a partir de los cuales se formula la solicitud; b) De no ser posible lo anterior, la autoridad jurisdiccional podrá ordenar y admitir las diligencias que considere necesarias o que le ofrezcan las partes en la audiencia preliminar, y c) Asimismo, podrá ordenar el desahogo de dictámenes o pruebas periciales a cargo de expertos mexicanos o extranjeros, solicitar el auxilio del servicio consular mexicano en el extranjero e incluso, podrá emplear medios electrónicos que le den rapidez a la comunicación e informe de ese derecho extranjero.
+. La solicitud de informe sobre derecho extranjero se tramitará acorde a lo establecido en los instrumentos internacionales. En su defecto, se observará lo siguiente:
+
+a) Preferentemente, se dirigirá a la autoridad central extranjera solicitándole le informe sobre el texto, vigencia, sentido y alcance legal del derecho extranjero, en el apartado que desea conocer. A su solicitud, deberá agregar una síntesis de los hechos a partir de los cuales se formula la solicitud;
+
+b) De no ser posible lo anterior, la autoridad jurisdiccional podrá ordenar y admitir las diligencias que considere necesarias o que le ofrezcan las partes en la audiencia preliminar, y
+
+c) Asimismo, podrá ordenar el desahogo de dictámenes o pruebas periciales a cargo de expertos mexicanos o extranjeros, solicitar el auxilio del servicio consular mexicano en el extranjero e incluso, podrá emplear medios electrónicos que le den rapidez a la comunicación e informe de ese derecho extranjero.
 
 ### Artículo 1176
 . Cuando un Estado extranjero solicite informes sobre el derecho nacional, así como de usos y costumbres, se tramitará acorde a lo establecido en los instrumentos internacionales. En su defecto, se observará lo siguiente:
+
 I. La autoridad jurisdiccional extranjera podrá solicitar a la Secretaría de Relaciones Exteriores un informe sobre el texto, vigencia, sentido y alcance legal del derecho mexicano que desea conocer. A su solicitud, deberá agregar una síntesis de los hechos a partir de los cuales se formula la solicitud.
+
 II. La Autoridad Central nacional podrá acceder directamente a la solicitud o, en su caso, asistirse de personas expertas y conocedoras del apartado del derecho solicitado. En la información que pudiera proporcionar, dará a conocer los textos prescritos del orden jurídico mexicano que contengan la respuesta, su interpretación, según los precedentes de las autoridades jurisdiccionales y doctrinarios que obtuviese, y una opinión sobre cómo una autoridad jurisdiccional nacional calificaría e interpretaría el derecho para el caso concreto solicitado, así como los usos y costumbres.
 La respuesta que proporcione el Estado mexicano no implicará que la sentencia que se pudiera dictar en el extranjero tenga que ejecutarse en los Estados Unidos Mexicanos, ni que con ello reconozca la competencia asumida por la autoridad jurisdiccional extranjera.
 
@@ -5717,13 +7258,22 @@ La forma y el fondo de la sentencia extranjera, así como los procedimientos seg
 
 ### Artículo 1186
 . Las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones jurisdiccionales dictados en el extranjero, tendrán carácter de cosa juzgada para ser ejecutadas en los Estados Unidos Mexicanos, si cumplen con los siguientes requisitos:
+
 I. Que se hayan satisfecho las formalidades previstas en este Código en materia de exhortos o cartas rogatorias provenientes del extranjero y llenen los requisitos para ser considerados como auténticos;
+
 II. Que no hayan sido dictados como consecuencia del ejercicio de una acción real inmobiliaria;
+
 III. Que la autoridad jurisdiccional que dictó la sentencia haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en la esfera internacional, que sean análogas y compatibles con las adoptadas por el orden jurídico mexicano;
+
 IV. No se reconocerá la competencia de la autoridad jurisdiccional extranjera cuando el acuerdo de elección del foro sea estimado como nulo si alguna de las partes carecía de la capacidad para celebrar el acuerdo;
+
 V. Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el efectivo ejercicio de sus defensas y derechos procesales;
+
 VI. Que tengan el carácter de cosa juzgada en el país en que fueron dictados, o que no exista recurso ordinario en su contra;
-VII. Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante autoridades jurisdiccionales nacionales y en el cual hubiere prevenido la autoridad jurisdiccional nacional o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del Estado donde deba practicarse el emplazamiento, y VIII. Que la ejecución de la resolución no vaya en contra de instituciones o principios fundamentales del orden público mexicano, que implique la evasión fraudulenta del derecho aplicable.
+
+VII. Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante autoridades jurisdiccionales nacionales y en el cual hubiere prevenido la autoridad jurisdiccional nacional o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del Estado donde deba practicarse el emplazamiento, y
+
+VIII. Que la ejecución de la resolución no vaya en contra de instituciones o principios fundamentales del orden público mexicano, que implique la evasión fraudulenta del derecho aplicable.
 No obstante, lo anterior la autoridad jurisdiccional podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias o laudos extranjeros en casos análogos.
 Cuando la sentencia no evidencie los requisitos anteriores, la autoridad jurisdiccional requerida podrá solicitar otros medios de prueba para constatar que se cumplen tales.
 
@@ -5732,30 +7282,50 @@ Cuando la sentencia no evidencie los requisitos anteriores, la autoridad jurisdi
 
 ### Artículo 1188
 . El exhorto de la autoridad jurisdiccional requirente deberá acompañarse de la siguiente documentación:
+
 I. Copia auténtica de la sentencia, laudo o resolución jurisdiccional;
+
 II. Copia auténtica de las constancias que acrediten que se cumplieron los requisitos previstos en las fracciones IV y V del artículo 1186;
-III. Las traducciones al idioma español que sean necesarias al efecto, y IV. Que el ejecutante haya señalado domicilio para oír notificaciones en el lugar de la autoridad jurisdiccional del reconocimiento u homologación.
+
+III. Las traducciones al idioma español que sean necesarias al efecto, y
+
+IV. Que el ejecutante haya señalado domicilio para oír notificaciones en el lugar de la autoridad jurisdiccional del reconocimiento u homologación.
 
 ### Artículo 1189
 . Ninguna sentencia o resolución extranjera será reconocida en el ámbito nacional cuando:
+
 I. Al momento de la solicitud de reconocimiento no posea el carácter de cosa juzgada.
+
 II. La sentencia carezca totalmente de efectos jurídicos en todo el territorio del Estado donde fue emitida.
+
 III. La sentencia resulta contraria a los principios o instituciones fundamentales del orden público nacional o fue emitida en fraude a la ley.
+
 IV. El procedimiento concreto que condujo a la resolución fue incompatible con los principios fundamentales de equidad procesal establecidos en el derecho nacional.
 Sección Única De la Ejecución Forzosa
 
 ### Artículo 1190
 . El reconocimiento y ejecución de sentencias, fallos y laudos extranjeros que impliquen coacción en su ejecución, requerirá procedimiento de homologación y se sujetará a las siguientes disposiciones, en el entendido de que no podrá controvertirse el fondo de la resolución:
+
 I. Se citará personalmente tanto a la persona ejecutante como a la ejecutada y se les concederá el término de nueve días para que manifiesten lo que a su derecho conviniere. Se les admitirán los medios de prueba que ofrezcan si fueren pertinentes y se señalará fecha y hora de audiencia para su desahogo. La preparación de la prueba correrá a cargo del oferente, salvo razón fundada.
+
 II. Las personas autorizadas o reconocidas como apoderados por la autoridad jurisdiccional extranjera podrán actuar como tal conforme a las facultades que la autoridad requirente señale.
+
 III. En todo momento la autoridad jurisdiccional ejecutante velará por el interés superior de las niñas, niños y adolescentes y gozará de plenitud de jurisdicción para garantizar sus derechos.
+
 IV. Los gastos de ejecución correrán a cargo de parte interesada, sin perjuicio que en su momento deban ser cubiertos por la parte ejecutada.
+
 V. La resolución que determine la ejecución forzosa deberá pronunciarse dentro del plazo de tres días, una vez que se haya desahogado la última prueba. Dicha resolución es apelable en ambos efectos.
+
 VI. Las cuestiones sobre el depósito, avalúo, subasta y demás sobre la ejecución de la sentencia se regirán conforme a este Código Nacional.
+
 VII. La autoridad jurisdiccional de ejecución, y en su caso, la de segunda instancia, se abstendrá de pronunciarse sobre el fondo del fallo ni sobre los fundamentos del hecho o derecho en que se apoye, ni exigir equivalencia de resultados del fallo extranjero con respecto al propio, únicamente examinarán la autenticidad de la misma y sobre la forma de su ejecución en términos de este Código Nacional.
+
 VIII. La sentencia reconocida podrá tener cumplimientos parciales cuando no sea posible cumplimentarse en su integridad.
+
 IX. La autoridad jurisdiccional que se declare incompetente para ejecutar la sentencia deberá remitir oficiosamente los autos a la autoridad jurisdiccional que considere competente.
+
 X. La resolución que reconozca la sentencia extranjera precisará en su caso, qué parte del procedimiento de ejecución observará disposiciones especiales o extranjeras, observando la autoridad jurisdiccional requerida que no se violenten derechos humanos.
+
 XI. El exhorto internacional de requerimiento o solicitud deberá especificar las formalidades de su diligenciación.
 Durante la tramitación del procedimiento de reconocimiento no procederá recurso alguno, ni medio que lo suspenda.
 
@@ -5861,6 +7431,7 @@ Publicada en el Diario Oficial de la Federación el 4 de diciembre de 2024 Al ma
 COTEJÓ SECRETARIA: CLAUDIA LISSETTE MONTAÑO MENDOZA.
 Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al trece de agosto de dos mil veinticuatro, emite la siguiente:
 SENTENCIA Mediante la cual se resuelve la acción de inconstitucionalidad 154/2023, promovida por la Comisión Nacional de los Derechos Humanos (CNDH), en contra de los artículos 610, fracciones II, en la porción normativa “el mismo menor que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”; y, IV, en la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”; 638, fracción III; y, 554 en la porción normativa “entendida como la violencia ejercida contra las mujeres a través de los hijos”; todos del Código Nacional de Procedimientos Civiles y Familiares, expedido mediante Decreto publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintitrés. ………..
+
 VII. EFECTOS. 218. De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 constitucional, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, en su caso, los órganos obligados a cumplirla, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. 219. Por lo anterior, se declara la invalidez de la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa” de las fracciones II y IV del
 
 ### artículo 610

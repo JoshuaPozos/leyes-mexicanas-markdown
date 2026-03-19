@@ -47,24 +47,39 @@ Artículo reformado DOF 07-01-1988
 
 ### Artículo 13
 .- La determinación del derecho aplicable se hará conforme a las siguientes reglas:
+
 I. Las situaciones jurídicas válidamente creadas en las entidades de la República o en un Estado extranjero conforme a su derecho, deberán ser reconocidas;
+
 II. El estado y capacidad de las personas físicas se rige por el derecho del lugar de su domicilio;
+
 III. La constitución, régimen y extinción de los derechos reales sobre inmuebles, así como los contratos de arrendamiento y de uso temporal de tales bienes, y los bienes muebles, se regirán por el derecho del lugar de su ubicación, aunque sus titulares sean extranjeros;
-IV. La forma de los actos jurídicos se regirá por el derecho del lugar en que se celebren. Sin embargo, podrán sujetarse a las formas prescritas en este Código cuando el acto haya de tener efectos en el Distrito Federal o en la República tratándose de materia federal; y V. Salvo lo previsto en las fracciones anteriores, los efectos jurídicos de los actos y contratos se regirán por el derecho del lugar en donde deban ejecutarse, a menos de que las partes hubieran designado válidamente la aplicabilidad de otro derecho.
+
+IV. La forma de los actos jurídicos se regirá por el derecho del lugar en que se celebren. Sin embargo, podrán sujetarse a las formas prescritas en este Código cuando el acto haya de tener efectos en el Distrito Federal o en la República tratándose de materia federal; y
+
+V. Salvo lo previsto en las fracciones anteriores, los efectos jurídicos de los actos y contratos se regirán por el derecho del lugar en donde deban ejecutarse, a menos de que las partes hubieran designado válidamente la aplicabilidad de otro derecho.
 Artículo reformado DOF 07-01-1988
 
 ### Artículo 14
 .- En la aplicación del derecho extranjero se observará lo siguiente:
+
 I. Se aplicará como lo haría el juez extranjero correspondiente, para lo cual el juez podrá allegarse la información necesaria acerca del texto, vigencia, sentido y alcance legal de dicho derecho;
+
 II. Se aplicará el derecho sustantivo extranjero, salvo cuando dadas las especiales circunstancias del caso, deban tomarse en cuenta, con carácter excepcional, las normas conflictuales de ese derecho, que hagan aplicables las normas sustantivas mexicanas o de un tercer estado;
+
 III. No será impedimento para la aplicación del derecho extranjero, que el derecho mexicano no prevea instituciones o procedimientos esenciales a la institución extranjera aplicable, si existen instituciones o procedimientos análogos;
-IV. Las cuestiones previas, preliminares o incidentales que puedan surgir con motivo de una cuestión principal, no deberán resolverse necesariamente de acuerdo con el derecho que regule a esta última; y V. Cuando diversos aspectos de una misma relación jurídica estén regulados por diversos derechos, éstos serán aplicados armónicamente, procurando realizar las finalidades perseguidas por cada uno de tales derechos. Las dificultades causadas por la aplicación simultánea de tales derechos se resolverán tomando en cuenta las exigencias de la equidad en el caso concreto.
+
+IV. Las cuestiones previas, preliminares o incidentales que puedan surgir con motivo de una cuestión principal, no deberán resolverse necesariamente de acuerdo con el derecho que regule a esta última; y
+
+V. Cuando diversos aspectos de una misma relación jurídica estén regulados por diversos derechos, éstos serán aplicados armónicamente, procurando realizar las finalidades perseguidas por cada uno de tales derechos. Las dificultades causadas por la aplicación simultánea de tales derechos se resolverán tomando en cuenta las exigencias de la equidad en el caso concreto.
 Lo dispuesto en el presente artículo se observará cuando resultare aplicable el derecho de otra entidad de la Federación.
 Artículo reformado DOF 23-12-1974, 07-01-1988
 
 ### Artículo 15
 .- No se aplicará el derecho extranjero:
-I. Cuando artificiosamente se hayan evadido principios fundamentales del derecho mexicano, debiendo el juez determinar la intención fraudulenta de tal evasión; y II. Cuando las disposiciones del derecho extranjero o el resultado de su aplicación sean contrarios a principios o instituciones fundamentales del orden público mexicano.
+
+I. Cuando artificiosamente se hayan evadido principios fundamentales del derecho mexicano, debiendo el juez determinar la intención fraudulenta de tal evasión; y
+
+II. Cuando las disposiciones del derecho extranjero o el resultado de su aplicación sean contrarios a principios o instituciones fundamentales del orden público mexicano.
 Artículo reformado DOF 23-12-1974, 07-01-1988
 
 ### Artículo 16
@@ -103,15 +118,22 @@ TITULO SEGUNDO De las Personas Morales
 
 ### Artículo 25
 .- Son personas morales:
+
 I. La Nación, los Estados y los Municipios;
+
 II. Las demás corporaciones de carácter público reconocidas por la ley;
+
 III. Las sociedades civiles o mercantiles;
+
 IV. Los sindicatos, las asociaciones profesionales y las demás a que se refiere la fracción XVI del
 
 ### artículo 123
 de la Constitución Federal;
+
 V. Las sociedades cooperativas y mutualistas;
+
 VI. Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la ley.
+
 VII. Las personas morales extranjeras de naturaleza privada, en los términos del artículo 2736.
 Fracción adicionada DOF 07-01-1988
 
@@ -139,14 +161,25 @@ Artículo reformado DOF 07-01-1988
 
 ### Artículo 31
 .- Se reputa domicilio legal:
+
 I. (Se deroga).
-Fracción derogada DOF 03-06-2019 II. Del menor de edad que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
+Fracción derogada DOF 03-06-2019
+
+II. Del menor de edad que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
+
 III. En el caso de menores o incapaces abandonados, el que resulte conforme a las circunstancias previstas en el artículo 29;
+
 IV. De los cónyuges, aquél en el cual éstos vivan de consuno, sin perjuicio del derecho de cada cónyuge de fijar su domicilio en la forma prevista en el artículo 29;
+
 V. De los militares en servicio activo, el lugar en que están destinados;
+
 VI. De los servidores públicos, el lugar donde desempeñan sus funciones por más de seis meses;
+
 VII. De los funcionarios diplomáticos, el último que hayan tenido en el territorio del estado acreditante, salvo con respecto a las obligaciones contraídas localmente;
-VIII. De las personas que residan temporalmente en el país en el desempeño de una comisión o empleo de su gobierno o de un organismo internacional, será el del estado que los haya designado o el que hubieren tenido antes de dicha designación respectivamente, salvo con respecto a obligaciones contraídas localmente; y IX. De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
+
+VIII. De las personas que residan temporalmente en el país en el desempeño de una comisión o empleo de su gobierno o de un organismo internacional, será el del estado que los haya designado o el que hubieren tenido antes de dicha designación respectivamente, salvo con respecto a obligaciones contraídas localmente; y
+
+IX. De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
 Artículo reformado DOF 07-01-1988
 
 ### Artículo 32
@@ -398,11 +431,17 @@ Artículo reformado DOF 03-01-1979
 
 ### Artículo 91
 .- El acta de tutela contendrá:
+
 I. El nombre, apellido y edad del incapacitado;
+
 II. La clase de incapacidad por la que se haya diferido la tutela;
+
 III. El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
+
 IV. El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
+
 V. La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o prenda;
+
 VI. El nombre del juez que pronunció el auto de discernimiento y la fecha de éste;
 
 ### Artículo 92
@@ -426,21 +465,34 @@ Artículo derogado DOF 28-01-1970 CAPITULO VII De las Actas de Matrimonio
 
 ### Artículo 97
 .- Las personas que pretendan contraer matrimonio presentarán un escrito al Juez del Registro Civil del domicilio de cualquiera de ellas, que exprese:
+
 I. Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
-II. Que no tienen impedimento legal para casarse, y III. Que es su voluntad unirse en matrimonio.
+
+II. Que no tienen impedimento legal para casarse, y
+
+III. Que es su voluntad unirse en matrimonio.
 Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar.
 Artículo reformado DOF 14-03-1973
 
 ### Artículo 98
 .- Al escrito a que se refiere el artículo anterior, se acompañará:
+
 I. El acta de nacimiento de los pretendientes;
-Fracción reformada DOF 03-06-2019 II. (Se deroga) Fracción derogada DOF 03-06-2019 III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
+Fracción reformada DOF 03-06-2019
+
+II. (Se deroga) Fracción derogada DOF 03-06-2019
+
+III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
+
 IV. Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria.
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
+
 V. El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes.
 No puede dejarse de presentar este convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
 Párrafo reformado DOF 03-06-2019 Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
+
 VI. Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+
 VII. Copia de la dispensa de impedimentos, si los hubo.
 
 ### Artículo 99
@@ -462,14 +514,25 @@ Artículo reformado DOF 14-03-1973
 
 ### Artículo 103
 .- Se levantará luego el acta de matrimonio en la cual se hará constar:
+
 I. Los nombres, apellidos, edad, ocupación, domicilio y lugar de nacimiento de los contrayentes;
+
 II. Si son mayores de edad;
-Fracción reformada DOF 03-06-2019 III. Los nombres, apellidos, ocupación y domicilio de los padres;
+Fracción reformada DOF 03-06-2019
+
+III. Los nombres, apellidos, ocupación y domicilio de los padres;
+
 IV. El consentimiento de las personas contrayentes;
-Fracción reformada DOF 03-06-2019 V. Que no hubo impedimento para el matrimonio o que éste se dispensó;
+Fracción reformada DOF 03-06-2019
+
+V. Que no hubo impedimento para el matrimonio o que éste se dispensó;
+
 VI. La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el Juez en nombre de la Ley y de la sociedad;
+
 VII. La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
+
 VIII. Los nombres, apellidos, edad, estado civil, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea.
+
 IX. Que se cumplieron las formalidades exigidas por el artículo anterior.
 El acta será firmada por el Juez del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
 En el acta se imprimirán las huellas digitales de los contrayentes.
@@ -540,11 +603,17 @@ Artículo reformado DOF 14-03-1973, 03-01-1979
 
 ### Artículo 119
 .- El acta de fallecimiento contendrá:
+
 I. El nombre, apellido, edad, ocupación y domicilio que tuvo el difunto;
+
 II. El estado civil de éste, y si era casado o viudo, el nombre y apellido de su cónyuge;
+
 III. Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si fueren parientes, el grado en que lo sean;
+
 IV. Los nombres de los padres del difunto si se supieren;
+
 V. La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver;
+
 VI. La hora de la muerte, si se supiere, y todos los informes que se hagan en caso de muerte violenta.
 
 ### Artículo 120
@@ -607,15 +676,21 @@ Artículo reformado DOF 14-03-1973, 03-01-1979, 28-05-1998, 24-12-2013 CAPITULO 
 
 ### Artículo 135
 .- Ha lugar a pedir la rectificación:
+
 I. Por falsedad, cuando se alegue que el suceso registrado no pasó;
+
 II. Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
 Fe de erratas a la fracción DOF 13-06-1928, 21-12-1928
 
 ### Artículo 136
 .- Pueden pedir la rectificación de un acta del estado civil:
+
 I. Las personas de cuyo estado se trata;
+
 II. Las que se mencionan en el acta como relacionadas con el estado civil de alguno;
+
 III. Los herederos de las personas comprendidas en las dos fracciones anteriores;
+
 IV. Los que, según los artículos 348, 349 y 350, pueden continuar o intentar la acción de que en ellos se trata.
 
 ### Artículo 137
@@ -691,16 +766,30 @@ Artículo derogado DOF 03-06-2019
 
 ### Artículo 156
 .- Son impedimentos para celebrar el contrato de matrimonio:
+
 I. La falta de edad requerida por la ley;
-Fracción reformada DOF 03-06-2019 II. (Se deroga).
-Fracción derogada DOF 03-06-2019 III. El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+Fracción reformada DOF 03-06-2019
+
+II. (Se deroga).
+Fracción derogada DOF 03-06-2019
+
+III. El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+
 IV. El parentesco de afinidad en línea recta, sin limitación alguna;
+
 V. El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+
 VI. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
+
 VII. La fuerza o miedo grave. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+
 VIII. La impotencia incurable para la cópula; y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias.
-Fracción reformada DOF 23-07-1992 IX. Padecer alguno de los estados de incapacidad a que se refiere la fracción II del artículo 450.
-Fracción reformada DOF 23-07-1992 X. El matrimonio subsistente con persona distinta a aquella con quien se pretenda contraer.
+Fracción reformada DOF 23-07-1992
+
+IX. Padecer alguno de los estados de incapacidad a que se refiere la fracción II del artículo 450.
+Fracción reformada DOF 23-07-1992
+
+X. El matrimonio subsistente con persona distinta a aquella con quien se pretenda contraer.
 De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral desigual.
 Párrafo reformado DOF 03-06-2019
 
@@ -826,22 +915,39 @@ Artículo reformado DOF 03-06-2019
 
 ### Artículo 188
 .- Puede también terminar la sociedad conyugal durante el matrimonio, a petición de alguno de los cónyuges, por los siguientes motivos:
-Párrafo reformado DOF 27-12-1983 I. Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes;
+Párrafo reformado DOF 27-12-1983
+
+I. Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes;
+
 II. Cuando el socio administrador, sin el consentimiento expreso de su cónyuge, hace cesión de bienes pertenecientes a la sociedad conyugal, a sus acreedores;
-Fracción reformada DOF 27-12-1983 III. Si el socio administrador es declarado en quiebra, o concurso;
-Fracción adicionada DOF 27-12-1983 IV. Por cualquiera otra razón que lo justifique a juicio del órgano jurisdiccional competente.
+Fracción reformada DOF 27-12-1983
+
+III. Si el socio administrador es declarado en quiebra, o concurso;
+Fracción adicionada DOF 27-12-1983
+
+IV. Por cualquiera otra razón que lo justifique a juicio del órgano jurisdiccional competente.
 Fracción adicionada DOF 27-12-1983
 
 ### Artículo 189
 .- Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deben contener:
+
 I. La lista detallada de los bienes inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
+
 II. La lista especificada de los bienes muebles que cada consorte introduzca a la sociedad;
+
 III. Nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
+
 IV. La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad;
+
 V. La declaración explícita de si la sociedad conyugal ha de comprender los bienes todos de los consortes, o solamente sus productos. En uno y en otro caso se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge;
+
 VI. La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción;
-Fe de erratas a la fracción DOF 21-12-1928 VII. La declaración terminante acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
+Fe de erratas a la fracción DOF 21-12-1928
+
+VII. La declaración terminante acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
+
 VIII. La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en que proporción;
+
 IX. Las bases para liquidar la sociedad.
 
 ### Artículo 190
@@ -992,11 +1098,14 @@ CAPITULO IX De los Matrimonios Nulos e Ilícitos
 
 ### Artículo 235
 .- Son causas de nulidad de un matrimonio:
+
 I. El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra;
+
 II. Que el matrimonio se haya celebrado concurriendo algunos de los impedimentos enumerados en el
 
 ### artículo 156
 ;
+
 III. Que se haya celebrado en contravención a lo dispuesto en los artículos 97, 98, 100, 102 y 103.
 
 ### Artículo 236
@@ -1034,8 +1143,11 @@ En uno y en otro caso, la acción debe intentarse dentro de los seis meses sigui
 
 ### Artículo 245
 .- El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
+
 I. Que uno u otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
+
 II. Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
+
 III. Que uno u otro hayan subsistido al tiempo de celebrarse el matrimonio.
 La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
 
@@ -1098,9 +1210,13 @@ Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, 
 
 ### Artículo 262
 .- Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
+
 I. Las hechas por un tercero a los cónyuges, podrán ser revocadas;
+
 II. Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueren objeto de ellas se devolverán al donante con todos sus productos;
+
 III. Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
+
 IV. Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
 
 ### Artículo 263
@@ -1108,7 +1224,9 @@ IV. Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hec
 
 ### Artículo 264
 .- Es ilícito, pero no nulo el matrimonio:
+
 I. Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
+
 II. Cuando no se ha otorgado la previa dispensa que requiere el artículo 159, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 158 y 289.
 
 ### Artículo 265
@@ -1120,23 +1238,45 @@ Artículo reformado DOF 03-06-2019 CAPITULO X Del Divorcio
 
 ### Artículo 267
 .- Son causales de divorcio:
-Párrafo reformado DOF 27-12-1983 I. El adulterio debidamente probado de uno de los cónyuges;
+Párrafo reformado DOF 27-12-1983
+
+I. El adulterio debidamente probado de uno de los cónyuges;
+
 II. El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato, y que judicialmente sea declarado ilegítimo;
+
 III. La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
+
 IV. La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
+
 V. Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
+
 VI. Padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
+
 VII. Padecer enajenación mental incurable, previa declaración de interdicción que se haga respecto del cónyuge demente;
-Fracción reformada DOF 27-12-1983 VIII. La separación de la casa conyugal por más de seis meses sin causa justificada;
+Fracción reformada DOF 27-12-1983
+
+VIII. La separación de la casa conyugal por más de seis meses sin causa justificada;
+
 IX. La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
+
 X. La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que preceda la declaración de ausencia;
-Fe de erratas a la fracción DOF 21-12-1928 XI. La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
+Fe de erratas a la fracción DOF 21-12-1928
+
+XI. La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
+
 XII. La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el Artículo 164, sin que sea necesario agotar previamente los procedimientos tendientes a su cumplimiento, así como el incumplimiento, sin justa causa, por alguno de los cónyuges, de la sentencia ejecutoriada en el caso del Artículo 168;
-Fracción reformada DOF 31-12-1974, 27-12-1983 XIII. La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
+Fracción reformada DOF 31-12-1974, 27-12-1983
+
+XIII. La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
+
 XIV. Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
+
 XV. Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenazan causar la ruina de la familia, o constituyen un continuo motivo de desavenencia conyugal;
+
 XVI. Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
+
 XVII. El mutuo consentimiento.
+
 XVIII. La separación de los cónyuges por más de 2 años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos.
 Fracción adicionada DOF 27-12-1983 XIX.- Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos. Para los efectos de este artículo se entiende por violencia familiar lo dispuesto por el artículo 323 ter de este Código.
 Fracción adicionada DOF 30-12-1997 XX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
@@ -1165,11 +1305,19 @@ Párrafo reformado DOF 14-11-2025 Artículo reformado DOF 14-03-1973
 
 ### Artículo 273
 .- Los cónyuges que se encuentren en el caso del último párrafo del Artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
-Párrafo reformado DOF 31-12-1974, 27-12-1983 I. Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+Párrafo reformado DOF 31-12-1974, 27-12-1983
+
+I. Designación de persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+
 II. El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+
 III. La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
-Fracción reformada DOF 31-12-1974 IV. En los términos del Artículo 288, la cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento y después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe otorgarse para asegurarlo;
-Fracción reformada DOF 27-12-1983 V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
+Fracción reformada DOF 31-12-1974
+
+IV. En los términos del Artículo 288, la cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento y después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe otorgarse para asegurarlo;
+Fracción reformada DOF 27-12-1983
+
+V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
 
 ### Artículo 274
 .- El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
@@ -1199,11 +1347,21 @@ Artículo reformado DOF 27-12-1983
 
 ### Artículo 282
 .- Al admitirse la demanda de divorcio, o antes si hubiere urgencia y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
-Párrafo reformado DOF 09-01-1954, 31-12-1974, 27-12-1983, 30-12-1997 I. (Se deroga).
-Fracción derogada DOF 31-12-1974 II. Proceder a la separación de los cónyuges de conformidad con el Código Nacional de Procedimientos Civiles y Familiares;
-Fracción reformada DOF 09-01-1954, 31-12-1974, 14-11-2025 III. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
+Párrafo reformado DOF 09-01-1954, 31-12-1974, 27-12-1983, 30-12-1997
+
+I. (Se deroga).
+Fracción derogada DOF 31-12-1974
+
+II. Proceder a la separación de los cónyuges de conformidad con el Código Nacional de Procedimientos Civiles y Familiares;
+Fracción reformada DOF 09-01-1954, 31-12-1974, 14-11-2025
+
+III. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
+
 IV. Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
-Fracción reformada DOF 31-12-1974 V. Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
+Fracción reformada DOF 31-12-1974
+
+V. Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
+
 VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el código respectivo resolverá lo conducente.
 Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.
 Fracción reformada DOF 27-12-1983 VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia familiar.
@@ -1327,11 +1485,17 @@ Artículo reformado DOF 27-12-1983
 
 ### Artículo 315
 .- Tienen acción para pedir el aseguramiento de los alimentos:
+
 I. El acreedor alimentario;
+
 II. El ascendiente que le tenga bajo su patria potestad;
+
 III. El tutor;
+
 IV. Los hermanos y demás parientes colaterales dentro del cuarto grado;
-Fe de erratas a la fracción DOF 13-06-1928, 21-12-1928 V. El Ministerio Público.
+Fe de erratas a la fracción DOF 13-06-1928, 21-12-1928
+
+V. El Ministerio Público.
 
 ### Artículo 316
 .- Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de los alimentos, se nombrará por el juez un tutor interino.
@@ -1349,10 +1513,15 @@ Artículo reformado DOF 27-12-1983
 
 ### Artículo 320
 .- Cesa la obligación de dar alimentos:
+
 I. Cuando el que la tiene carece de medios para cumplirla;
+
 II. Cuando el alimentista deja de necesitar los alimentos;
+
 III. En caso de injuria, falta o daño graves inferidos por el alimentista contra el que debe prestarlos;
+
 IV. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan estas causas;
+
 V. Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
 
 ### Artículo 321
@@ -1386,7 +1555,9 @@ Artículo adicionado DOF 17-01-2024 TITULO SEPTIMO De la Paternidad y Filiación
 
 ### Artículo 324
 .- Se presumen hijos de los cónyuges:
+
 I. Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
+
 II. Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga éste de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
 ### Artículo 325
@@ -1400,9 +1571,13 @@ II. Los hijos nacidos dentro de los trescientos días siguientes a la disolució
 
 ### Artículo 328
 .- El marido no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
+
 I. Si se probare que supo antes de casarse del embarazo de su futura consorte; para esto se requiere un principio de prueba por escrito;
+
 II. Si concurrió al levantamiento del acta de nacimiento y ésta fue firmada por él, o contiene su declaración de no saber firmar;
+
 III. Si ha reconocido expresamente por suyo al hijo de su mujer;
+
 IV. Si el hijo no nació capaz de vivir.
 
 ### Artículo 329
@@ -1426,9 +1601,12 @@ Artículo reformado DOF 23-07-1992
 
 ### Artículo 334
 .- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el artículo 158, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+
 I. Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
+
 II. Se presume que el hijo es del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio;
 El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
+
 III. El hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
 
 ### Artículo 335
@@ -1459,8 +1637,11 @@ Si uno solo de los registros faltare o estuviere inutilizado y existe el duplica
 
 ### Artículo 343
 .- Si un individuo ha sido reconocido constantemente como hijo de matrimonio, por la familia del marido y en la sociedad, quedará probada la posesión de estado de hijo de matrimonio si además concurre alguna de las circunstancias siguientes:
+
 I. Que el hijo haya usado constantemente el apellido del que pretende que es su padre, con anuencia de éste;
+
 II. Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyendo a su subsistencia, educación y establecimiento;
+
 III. Que el presunto padre tenga la edad exigida por el artículo 361.
 
 ### Artículo 344
@@ -1551,10 +1732,15 @@ Artículo reformado DOF 17-01-1970
 
 ### Artículo 369
 .- El reconocimiento de un hijo nacido fuera del matrimonio, deberá hacerse de alguno de los modos siguientes:
+
 I. En la partida de nacimiento, ante el Juez del Registro Civil;
+
 II. Por acta especial ante el mismo juez;
+
 III. Por escritura pública;
+
 IV. Por testamento;
+
 V. Por confesión judicial directa y expresa.
 Artículo reformado DOF 14-03-1973
 
@@ -1601,14 +1787,20 @@ Artículo reformado DOF 24-03-1971
 
 ### Artículo 382
 .- La investigación de la paternidad de los hijos nacidos fuera de matrimonio, está permitida:
+
 I. En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
+
 II. Cuando el hijo se encuentre en posesión de estado de hijo del presunto padre;
+
 III. Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre, viviendo maritalmente;
+
 IV. Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
 
 ### Artículo 383
 .- Se presumen hijos del concubinario y de la concubina:
+
 I. Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
+
 II. Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
 
 ### Artículo 384
@@ -1629,15 +1821,25 @@ Si los padres hubieren fallecido durante la menor edad de los hijos, tienen ést
 
 ### Artículo 389
 .- El hijo reconocido por el padre, por la madre, o por ambos tiene derecho:
+
 I. A llevar el apellido paterno de sus progenitores, o ambos apellidos del que lo reconozca;
-Fracción reformada DOF 30-12-1975 II. A ser alimentado por las personas que lo reconozcan;
-Fracción reformada DOF 30-12-1975 III. A percibir la porción hereditaria y los alimentos que fije la Ley.
+Fracción reformada DOF 30-12-1975
+
+II. A ser alimentado por las personas que lo reconozcan;
+Fracción reformada DOF 30-12-1975
+
+III. A percibir la porción hereditaria y los alimentos que fije la Ley.
 CAPITULO V De la Adopción SECCIÓN PRIMERA Disposiciones generales Sección adicionada DOF 28-05-1998
 
 ### Artículo 390
 .- El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aun cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
+
 I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trata de adoptar;
-Fracción reformada DOF 28-05-1998 II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo al interés superior de la misma, y Fracción reformada DOF 28-05-1998 III. Que el adoptante es persona apta y adecuada para adoptar.
+Fracción reformada DOF 28-05-1998
+
+II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo al interés superior de la misma, y Fracción reformada DOF 28-05-1998
+
+III. Que el adoptante es persona apta y adecuada para adoptar.
 Fracción reformada DOF 28-05-1998 Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
 Artículo reformado DOF 31-03-1938, 17-01-1970
 
@@ -1664,10 +1866,16 @@ Artículo reformado DOF 17-01-1970, 28-05-1998, 24-12-2013
 
 ### Artículo 397
 .- Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
+
 I. El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+
 II. El tutor del que se va a adoptar;
+
 III. La persona que haya acogido durante seis meses al que se pretende adoptar y lo trate como a hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
-Fracción reformada DOF 17-01-1970 IV. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
+Fracción reformada DOF 17-01-1970
+
+IV. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
+
 V. Las instituciones de asistencia social públicas o privadas que hubieren acogido al menor o al incapacitado que se pretenda adoptar.
 Fracción adicionada DOF 28-05-1998 Si la persona que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción. En el caso de las personas incapaces, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
 Párrafo reformado DOF 28-05-1998
@@ -1734,7 +1942,10 @@ Artículo adicionado DOF 28-05-1998
 
 ### Artículo 410 C
 - Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial:
-I. Para efectos de impedimento para contraer matrimonio, y II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
+
+I. Para efectos de impedimento para contraer matrimonio, y
+
+II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
 Artículo adicionado DOF 28-05-1998
 
 ### Artículo 410 D
@@ -1825,7 +2036,9 @@ Artículo reformado DOF 09-01-1954
 
 ### Artículo 428
 .- Los bienes del hijo, mientras esté en la patria potestad, se dividen en dos clases:
+
 I. Bienes que adquiera por su trabajo;
+
 II. Bienes que adquiera por cualquiera otro título.
 
 ### Artículo 429
@@ -1846,8 +2059,11 @@ Artículo reformado DOF 27-03-2020
 
 ### Artículo 434
 .- El usufructo de los bienes concedido a las personas que ejerzan la patria potestad, lleva consigo las obligaciones que expresa el Capítulo II del Título VI, y además, las impuestas a los usufructuarios, con excepción de la obligación de dar fianza, fuera de los casos siguientes:
+
 I. Cuando los que ejerzan la patria potestad han sido declarados en quiebra, o estén concursados;
+
 II. Cuando contraigan ulteriores nupcias;
+
 III. Cuando su administración sea notoriamente ruinosa para los hijos.
 
 ### Artículo 435
@@ -1864,8 +2080,12 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 ### Artículo 438
 .- El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
+
 I. Por la mayoría de edad de los hijos;
-Fracción reformada DOF 28-01-1970, 03-06-2019 II. Por la pérdida de la patria potestad;
+Fracción reformada DOF 28-01-1970, 03-06-2019
+
+II. Por la pérdida de la patria potestad;
+
 III. Por renuncia.
 
 ### Artículo 439
@@ -1884,15 +2104,23 @@ Artículo reformado DOF 03-06-2019 CAPITULO III De los Modos de Acabarse y Suspe
 
 ### Artículo 443
 .- La patria potestad se acaba:
+
 I. Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
+
 II. (Se deroga).
-Fracción reformada DOF 28-01-1970. Derogada DOF 03-06-2019 III. Por la mayor edad del hijo.
+Fracción reformada DOF 28-01-1970. Derogada DOF 03-06-2019
+
+III. Por la mayor edad del hijo.
 
 ### Artículo 444
 .- La patria potestad se pierde por resolución judicial:
 Párrafo reformado DOF 30-12-1997 I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
-Fracción reformada DOF 30-12-1997 II. En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283;
+Fracción reformada DOF 30-12-1997
+
+II. En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283;
+
 III. Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiere comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
+
 IV. Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses.
 V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor; y Fracción adicionada DOF 30-12-1997 VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave.
 Fracción adicionada DOF 30-12-1997
@@ -1909,13 +2137,18 @@ Artículo adicionado DOF 30-12-1997. Reformado DOF 17-01-2024
 
 ### Artículo 447
 .- La patria potestad se suspende:
+
 I. Por incapacidad declarada judicialmente;
+
 II. Por la ausencia declarada en forma;
+
 III. Por sentencia condenatoria que imponga como pena esta suspensión.
 
 ### Artículo 448
 .- La patria potestad no es renunciable; pero aquellos a quienes corresponda ejercerla pueden excusarse:
+
 I. Cuando tengan sesenta años cumplidos;
+
 II. Cuando por su mal estado habitual de salud, no puedan atender debidamente a su desempeño.
 TITULO NOVENO De la Tutela CAPITULO I Disposiciones Generales
 
@@ -1928,10 +2161,16 @@ En la tutela se cuidará preferentemente de la persona de los incapacitados. Su 
 
 ### Artículo 450
 .- Tienen incapacidad natural y legal:
+
 I. Los menores de edad;
+
 II. Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos; y aquellos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación, o a la alteración en la inteligencia que esto les provoque no puedan gobernarse y obligarse por si mismos, o manifestar su voluntad por algún medio.
-Fracción reformada DOF 23-07-1992 III. (Se deroga).
-Fracción derogada DOF 23-07-1992 IV. (Se deroga).
+Fracción reformada DOF 23-07-1992
+
+III. (Se deroga).
+Fracción derogada DOF 23-07-1992
+
+IV. (Se deroga).
 Fracción derogada DOF 23-07-1992
 
 ### Artículo 451
@@ -2042,12 +2281,16 @@ CAPITULO III De la Tutela Legítima de los Menores
 
 ### Artículo 482
 .- Ha lugar a tutela legítima:
+
 I. Cuando no hay quien ejerza la patria potestad, ni tutor testamentario;
+
 II. Cuando deba nombrarse tutor por causa de divorcio.
 
 ### Artículo 483
 .- La tutela legítima corresponde:
+
 I. A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
+
 II. Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
 
 ### Artículo 484
@@ -2094,7 +2337,9 @@ Artículo reformado DOF 30-12-1997, 17-01-2024 CAPITULO VI De la Tutela Dativa
 
 ### Artículo 495
 .- La tutela dativa tiene lugar:
+
 I. Cuando no hay tutor testamentario ni persona a quien conforme a la ley corresponda la tutela legítima;
+
 II. Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 483.
 
 ### Artículo 496
@@ -2118,11 +2363,17 @@ Artículo reformado DOF 24-03-1971
 
 ### Artículo 501
 .- En el caso del artículo anterior, tienen obligación de desempeñar la tutela mientras duran en los cargos que a continuación se enumeran:
+
 I. El Presidente Municipal del domicilio del menor;
+
 II. Los demás regidores del Ayuntamiento;
+
 III. Las personas que desempeñen la autoridad administrativa en los lugares en donde no hubiere Ayuntamiento;
+
 IV. Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
+
 V. Los miembros de las juntas de beneficencia pública o privada que disfruten sueldo del Erario;
+
 VI. Los directores de establecimientos de beneficencia pública.
 Los Jueces de lo Familiar nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutela, conforme a lo dispuesto en el Capítulo XV de este título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 Fe de erratas al párrafo DOF 21-12-1928. Reformado DOF 24-03-1971
@@ -2133,27 +2384,46 @@ CAPITULO VII De las Personas Inhábiles para el Desempeño de la Tutela y de las
 
 ### Artículo 503
 .- No pueden ser tutores, aunque estén anuentes en recibir el cargo:
+
 I. Los menores de edad;
+
 II. Los mayores de edad que se encuentren bajo tutela;
+
 III. Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+
 IV. Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
+
 V. El que haya sido condenado por robo, abuso de confianza, estafa, fraude o por delitos contra la honestidad;
+
 VI. Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
+
 VII. Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
+
 VIII. Los deudores del incapacitado en cantidad considerable, a juicio del juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento;
+
 IX. Los jueces, magistrados y demás funcionarios o empleados de la administración de justicia;
+
 X. El que no esté domiciliado en el lugar en que deba ejercer la tutela;
+
 XI. Los empleados públicos de Hacienda, que por razón de su destino tengan responsabilidad pecuniaria actual o la hayan tenido y no la hubieren cubierto;
+
 XII. El que padezca enfermedad crónica contagiosa;
+
 XIII. Los demás a quienes lo prohíba la ley.
 
 ### Artículo 504
 .- Serán separados de la tutela:
+
 I. Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela;
+
 II. Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+
 III. Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 590;
+
 IV. Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
+
 V. El tutor que se encuentre en el caso previsto en el artículo 159;
+
 VI. El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la tutela.
 
 ### Artículo 505
@@ -2182,13 +2452,21 @@ CAPITULO VIII De las Excusas para el Desempeño de la Tutela
 
 ### Artículo 511
 .- Pueden excusarse de ser tutores:
+
 I. Los empleados y funcionarios públicos;
+
 II. Los militares en servicio activo;
+
 III. Los que tengan bajo su patria potestad tres o más descendientes;
+
 IV. Los que fueren tan pobres, que no puedan atender a la tutela sin menoscabo de su subsistencia;
+
 V. Los que por el mal estado habitual de su salud, o por su rudeza e ignorancia, no puedan atender debidamente a la tutela;
+
 VI. Los que tengan sesenta años cumplidos;
+
 VII. Los que tengan a su cargo otra tutela o curaduría;
+
 VIII. Los que por su inexperiencia en los negocios o por causa grave, a juicio del Juez, no estén en aptitud de desempeñar convenientemente la tutela.
 Fracción reformada DOF 17-01-1970
 
@@ -2217,15 +2495,21 @@ CAPITULO IX De la Garantía que deben Prestar los Tutores para Asegurar su Manej
 
 ### Artículo 519
 .- El tutor, antes de que se le discierna el cargo, prestará caución para asegurar su manejo. Esta caución consistirá:
+
 I. En hipoteca o prenda;
+
 II. En fianza.
 La garantía prendaria que preste el tutor se constituirá depositando las cosas dadas en prenda en una institución de crédito autorizada para recibir depósitos; a falta de ella se depositarán en poder de persona de notoria solvencia y honorabilidad.
 
 ### Artículo 520
 .- Están exceptuados de la obligación de dar garantía:
+
 I. Los tutores testamentarios, cuando expresamente los haya relevado de esta obligación el testador;
+
 II. El tutor que no administre bienes;
+
 III. El padre, la madre y los abuelos, en los casos en que conforme a la ley son llamados a desempeñar la tutela de sus descendientes, salvo lo dispuesto en el artículo 523;
+
 IV. Los que acojan a un expósito, lo alimenten y eduquen convenientemente por más de diez años, a no ser que hayan recibido pensión para cuidar de él.
 
 ### Artículo 521
@@ -2253,9 +2537,13 @@ Fe de erratas al artículo DOF 13-06-1928, 21-12-1928
 
 ### Artículo 528
 .- La hipoteca o prenda y, en su caso la fianza, se darán:
+
 I. Por el importe de las rentas de los bienes raíces en los dos últimos años, y por los réditos de los capitales impuestos durante ese mismo tiempo;
+
 II. Por el valor de los bienes muebles;
+
 III. Por el de los productos de las fincas rústicas en dos años, calculados por peritos, o por el término medio en un quinquenio, a elección del juez;
+
 IV. En las negociaciones mercantiles e industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculado por los libros si están llevados en debida forma o a juicio de peritos.
 
 ### Artículo 529
@@ -2285,13 +2573,19 @@ CAPITULO X Del Desempeño de la Tutela
 
 ### Artículo 537
 .- El tutor está obligado:
+
 I. A alimentar y educar al incapacitado;
+
 II. A destinar, de preferencia los recursos del incapacitado a la curación de sus enfermedades o a su regeneración si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes;
+
 III. A formar inventario solemne y circunstanciado de cuanto constituya el patrimonio del incapacitado, dentro del término que el juez designe, con intervención del curador y del mismo incapacitado si goza de discernimiento y ha cumplido dieciséis años de edad;
 El término para formar el inventario no podrá ser mayor de seis meses;
+
 IV. A administrar el caudal de los incapacitados. El pupilo será consultado para los actos importantes de la administración cuando es capaz de discernimiento y mayor de dieciséis años;
 La administración de los bienes que el pupilo ha adquirido con su trabajo le corresponde a él y no al tutor;
+
 V. A representar al incapacitado en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
+
 VI. A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
 
 ### Artículo 538
@@ -2436,7 +2730,9 @@ Artículo reformado DOF 31-12-1974
 
 ### Artículo 581
 .- Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo los derechos conyugales con las siguientes modificaciones:
+
 I. En los casos en que conforme a derecho se requiere el consentimiento del cónyuge, se suplirá éste por el juez con audiencia del curador;
+
 II. En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el juez le nombrará. Es obligación del curador promover este nombramiento y si no lo cumple, será responsable de los perjuicios que se causen al incapacitado. También podrá promover este nombramiento del Consejo Local de Tutelas.
 Artículo reformado DOF 31-12-1974
 
@@ -2521,7 +2817,9 @@ Artículo reformado DOF 03-06-2019 CAPITULO XII De la Extinción de la Tutela Fe
 
 ### Artículo 606
 .- La tutela se extingue:
+
 I. Por la muerte del pupilo o porque desaparezca su incapacidad;
+
 II. Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reconocimiento o por adopción.
 CAPITULO XIII De la Entrega de los Bienes Fe de erratas a la numeración del Capítulo DOF 21-12-1928
 
@@ -2579,7 +2877,9 @@ CAPITULO XIV Del Curador Fe de erratas a la numeración del Capítulo DOF 21-12-
 
 ### Artículo 624
 .- Designarán por sí mismos al curador, con aprobación judicial:
+
 I. Los comprendidos en el artículo 496, observándose lo que allí se dispone respecto de esos nombramientos;
+
 II. (Se deroga).
 Fracción reformada DOF 28-01-1970. Derogada DOF 03-06-2019
 
@@ -2588,9 +2888,13 @@ Fracción reformada DOF 28-01-1970. Derogada DOF 03-06-2019
 
 ### Artículo 626
 .- El curador está obligado:
+
 I. A defender los derechos del incapacitado en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
+
 II. A vigilar la conducta del tutor y a poner en conocimiento del juez todo aquello que considere que puede ser dañoso al incapacitado;
+
 III. A dar aviso al juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela;
+
 IV. A cumplir las demás obligaciones que la ley le señale.
 
 ### Artículo 627
@@ -2613,11 +2917,22 @@ Artículo reformado DOF 14-03-1973
 
 ### Artículo 632
 .- El Consejo Local de Tutelas es un órgano de vigilancia y de información, que, además de las funciones que expresamente le asignen varios de los artículos que preceden, tiene las obligaciones siguientes:
-Párrafo reformado DOF 24-03-1971 I. Formar y remitir a los Jueces de lo Familiar una lista de las personas de la localidad que, por su aptitud legal y moral, puedan desempeñar la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al Juez;
-Fracción reformada DOF 24-03-1971 II. Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores; dando aviso al Juez de lo Familiar de las faltas u omisiones que notare;
-Fracción reformada DOF 24-03-1971 III. Avisar al Juez de lo Familiar cuando tenga conocimiento de que los bienes de un incapacitado están en peligro, a fin de que dicte las medidas correspondientes;
-Fracción reformada DOF 24-03-1971 IV. Investigar y poner en conocimiento del Juez de lo Familiar qué incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos;
-Fracción reformada DOF 24-03-1971 V. Cuidar con especialidad de que los tutores cumplan la obligación que les impone la fracción II del artículo 537;
+Párrafo reformado DOF 24-03-1971
+
+I. Formar y remitir a los Jueces de lo Familiar una lista de las personas de la localidad que, por su aptitud legal y moral, puedan desempeñar la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al Juez;
+Fracción reformada DOF 24-03-1971
+
+II. Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores; dando aviso al Juez de lo Familiar de las faltas u omisiones que notare;
+Fracción reformada DOF 24-03-1971
+
+III. Avisar al Juez de lo Familiar cuando tenga conocimiento de que los bienes de un incapacitado están en peligro, a fin de que dicte las medidas correspondientes;
+Fracción reformada DOF 24-03-1971
+
+IV. Investigar y poner en conocimiento del Juez de lo Familiar qué incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos;
+Fracción reformada DOF 24-03-1971
+
+V. Cuidar con especialidad de que los tutores cumplan la obligación que les impone la fracción II del artículo 537;
+
 VI. Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
 
 ### Artículo 633
@@ -2695,9 +3010,13 @@ TITULO UNDECIMO De los Ausentes e Ignorados CAPITULO I De las Medidas Provisiona
 
 ### Artículo 653
 .- Se nombrará depositario:
+
 I. Al cónyuge del ausente;
+
 II. A uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el juez elegirá al más apto;
+
 III. Al ascendiente más próximo en grado al ausente;
+
 IV. A falta de los anteriores o cuando sea inconveniente que éstos por su notoria mala conducta o por su ineptitud, sean nombrados depositarios, el juez nombrará al heredero presuntivo, y si hubiera varios se observará lo que dispone el artículo 659.
 
 ### Artículo 654
@@ -2736,9 +3055,13 @@ No entrará a la administración de los bienes sin que previamente forme inventa
 
 ### Artículo 665
 .- El cargo de representante acaba:
+
 I. Con el regreso del ausente;
+
 II. Con la presentación del apoderado legítimo;
+
 III. Con la muerte del ausente;
+
 IV. Con la posesión provisional.
 
 ### Artículo 666
@@ -2768,9 +3091,14 @@ CAPITULO II De la Declaración de Ausencia
 
 ### Artículo 673
 .- Pueden pedir la declaración de ausencia:
+
 I. Los presuntos herederos legítimos del ausente;
+
 II. Los herederos instituidos en testamento abierto;
-III. Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente; y IV. El Ministerio Público.
+
+III. Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente; y
+
+IV. El Ministerio Público.
 
 ### Artículo 674
 .- Si el juez encuentra fundada la demanda, dispondrá que se publique durante tres meses, con intervalos de quince días, en el Periódico Oficial que corresponda, y en los principales del último domicilio del ausente, y la remitirá a los cónsules, conforme al artículo 650.
@@ -2833,7 +3161,9 @@ CAPITULO III De los Efectos de la Declaración de Ausencia
 
 ### Artículo 693
 .- No están obligados a dar garantía:
+
 I. El cónyuge, los descendientes y los ascendientes que como herederos entren en la posesión de los bienes del ausente, por la parte que en ellos les corresponda;
+
 II. El ascendiente que en ejercicio de la patria potestad administre bienes que como herederos del ausente correspondan a sus descendientes.
 Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la garantía legal por la parte de bienes que corresponda a los legatarios, si no hubiere división, ni administrador general.
 
@@ -2897,9 +3227,13 @@ Fe de erratas al artículo DOF 13-06-1928, 21-12-1928
 
 ### Artículo 711
 .- La posesión definitiva termina:
+
 I. Con el regreso del ausente;
+
 II. Con la noticia cierta de su existencia;
+
 III. Con la certidumbre de su muerte;
+
 IV. Con la sentencia que cause ejecutoria, en el caso del artículo 709.
 
 ### Artículo 712
@@ -2940,7 +3274,9 @@ TITULO DUODECIMO Del Patrimonio de la Familia CAPITULO UNICO
 
 ### Artículo 723
 .- Son objeto del patrimonio de la familia:
+
 I. La casa habitación de la familia;
+
 II. En algunos casos, una parcela cultivable.
 
 ### Artículo 724
@@ -2970,10 +3306,15 @@ Artículo reformado DOF 27-02-1951, 31-12-1954, 23-12-1974, 29-06-1976
 ### Artículo 731
 .- El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, designando con tal precisión y de manera que puedan ser inscritos en el Registro Público, los bienes que van a quedar afectados.
 Además, comprobará lo siguiente:
+
 I. Que es mayor de edad o que está emancipado;
+
 II. Que esta domiciliado en el lugar donde se quiere constituir el patrimonio;
+
 III. La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil;
+
 IV. Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reportan gravámenes fuera de las servidumbres;
+
 V. Que el valor de los bienes que van a constituir el patrimonio no excede del fijado en el artículo 730.
 
 ### Artículo 732
@@ -2991,8 +3332,12 @@ Artículo reformado DOF 27-12-1983
 
 ### Artículo 735
 .- Con el objeto de favorecer la formación del patrimonio de la familia, se venderán a las personas que tengan capacidad legal para constituirlo y que quieran hacerlo, las propiedades raíces que a continuación se expresan:
+
 I. Los terrenos pertenecientes al Gobierno Federal o al Gobierno del Distrito Federal que no estén destinados a un servicio público ni sean de uso común;
-Fracción reformada DOF 23-12-1974 II. Los terrenos que el Gobierno adquiera por expropiación, de acuerdo con el inciso c) del párrafo undécimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+Fracción reformada DOF 23-12-1974
+
+II. Los terrenos que el Gobierno adquiera por expropiación, de acuerdo con el inciso c) del párrafo undécimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+
 III. Los terrenos que el Gobierno adquiera para dedicarlos a la formación del patrimonio de las familias que cuenten con pocos recursos.
 
 ### Artículo 736
@@ -3001,10 +3346,15 @@ En los casos previstos en las fracciones I y III del artículo que precede, la a
 
 ### Artículo 737
 .- El que desee constituir el patrimonio de la familia con la clase de bienes que menciona el artículo 735, además de cumplir los requisitos exigidos por las fracciones I, II y III del artículo 731, comprobará:
+
 I. Que es mexicano;
+
 II. Su aptitud o la de sus familiares para desempeñar algún oficio, profesión, industria o comercio;
+
 III. Que él o sus familiares poseen los instrumentos y demás objetos indispensables para ejercer la ocupación a que se dediquen;
+
 IV. El promedio de sus ingresos, a fin de que se pueda calcular, con probabilidades de acierto, la posibilidad de pagar el precio del terreno que se le vende;
+
 V. Que carece de bienes. Si el que tenga intereses legítimo demuestra que quien constituyó el patrimonio era propietario de bienes raíces al constituirlo, se declarará nula la constitución del patrimonio.
 
 ### Artículo 738
@@ -3018,10 +3368,15 @@ V. Que carece de bienes. Si el que tenga intereses legítimo demuestra que quien
 
 ### Artículo 741
 .- El patrimonio de la familia se extingue:
+
 I. Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
+
 II. Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa;
+
 III. Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
+
 IV. Cuando por causa de utilidad pública se expropien los bienes que lo forman;
+
 V. Cuando, tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 735, se declare judicialmente nula o rescindida la venta de esos bienes.
 
 ### Artículo 742
@@ -3036,7 +3391,9 @@ En los casos de suma necesidad o de evidente utilidad, puede el Juez autorizar a
 
 ### Artículo 744
 .- Puede disminuirse el patrimonio de la familia:
+
 I. Cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia;
+
 II. Cuando el patrimonio familiar, por causas posteriores a su constitución, ha rebasado en más de un ciento por ciento el valor máximo que puede tener conforme al artículo 730.
 
 ### Artículo 745
@@ -3058,18 +3415,31 @@ TITULO SEGUNDO Clasificación de los Bienes CAPITULO I De los Bienes Inmuebles
 
 ### Artículo 750
 .- Son bienes inmuebles:
+
 I. El suelo y las construcciones adheridas a él;
+
 II. Las plantas y árboles, mientras estuvieren unidos a la tierra, y los frutos pendientes de los mismos árboles y plantas mientras no sean separados de ellos por cosechas o cortes regulares;
+
 III. Todo lo que esté unido a un inmueble de una manera fija, de modo que no pueda separarse sin deterioro del mismo inmueble o del objeto a él adherido;
+
 IV. Las estatuas, relieves, pinturas u otros objetos de ornamentación, colocados en edificios o heredados por el dueño del inmueble, en tal forma que revele el propósito de unirlos de un modo permanente al fundo;
+
 V. Los palomares, colmenas, estanques de peces o criaderos análogos, cuando el propietario los conserve con el propósito de mantenerlos unidos a la finca y formando parte de ella de un modo permanente;
+
 VI. Las máquinas, vasos, instrumentos o utensilios destinados por el propietario de la finca directa y exclusivamente, a la industria o explotación de la misma;
+
 VII. Los abonos destinados al cultivo de una heredad, que estén en las tierras donde hayan de utilizarse, y las semillas necesarias para el cultivo de la finca;
+
 VIII. Los aparatos eléctricos y accesorios adheridos al suelo o a los edificios por el dueño de éstos, salvo convenio en contrario;
+
 IX. Los manantiales, estanques, aljibes y corrientes de agua, así como los acueductos y las cañerías de cualquiera especie que sirvan para conducir los líquidos o gases a una finca o para extraerlos de ella;
+
 X. Los animales que formen el pie de cría en los predios rústicos destinados total o parcialmente al ramo de ganadería; así como las bestias de trabajo indispensables en el cultivo de la finca, mientras están destinadas a ese objeto;
+
 XI. Los diques y construcciones que, aun cuando sean flotantes, estén destinados por su objeto y condiciones a permanecer en un punto fijo de un río, lago o costa;
+
 XII. Los derechos reales sobre inmuebles;
+
 XIII. Las líneas telefónicas y telegráficas y las estaciones radiotelegráficas fijas.
 Fracción reformada DOF 24-05-1996
 
@@ -3267,9 +3637,13 @@ Entiéndese por título la causa generadora de la posesión.
 
 ### Artículo 810
 .- El poseedor de buena fe que haya adquirido la posesión por título traslativo de dominio, tiene los derechos siguientes:
+
 I. El de hacer suyos los frutos percibidos, mientras su buena fe no es interrumpida;
+
 II. El de que se le abonen todos los gastos necesarios, lo mismo que los útiles, teniendo derecho de retener la cosa poseída hasta que se haga el pago;
+
 III. El de retirar las mejoras voluntarias, si no se causa daño en la cosa mejorada, o reparando el que se cause al retirarlas;
+
 IV. El de que se le abonen los gastos hechos por él para la producción de los frutos naturales e industriales que no hace suyos por estar pendientes al tiempo de interrumpirse la posesión; teniendo derecho al interés legal sobre el importe de esos gastos desde el día que los haya hecho.
 
 ### Artículo 811
@@ -3277,13 +3651,17 @@ IV. El de que se le abonen los gastos hechos por él para la producción de los 
 
 ### Artículo 812
 .- El que posee por menos de un año, a título traslativo de dominio y con mala fe, siempre que no haya obtenido la posesión por un medio delictuoso, está obligado:
+
 I. A restituir los frutos percibidos;
+
 II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa, o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiere estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el sólo transcurso del tiempo.
 Tiene derecho a que se le reembolsen los gastos necesarios.
 
 ### Artículo 813
 .- El que posee en concepto de dueño por más de un año, pacífica, continua y públicamente, aunque su posesión sea de mala fe, con tal que no sea delictuosa, tiene derecho:
+
 I. A las dos terceras partes de los frutos industriales que haga producir a la cosa poseída, perteneciendo la otra tercera parte al propietario, si reivindica la cosa antes de que se prescriba;
+
 II. A que se le abonen los gastos necesarios y a retirar las mejoras útiles, si es dable separarlas sin detrimento de la cosa mejorada.
 No tiene derecho a los frutos naturales y civiles que produzca la cosa que posee, y responde de la pérdida o deterioro de la cosa sobrevenidos por su culpa.
 
@@ -3333,12 +3711,19 @@ Fe de erratas al artículo DOF 20-07-1928, 21-12-1928
 
 ### Artículo 828
 .- La posesión se pierde:
+
 I. Por abandono;
+
 II. Por cesión a título oneroso o gratuito;
+
 III. Por la destrucción o pérdida de la cosa o por quedar ésta fuera del comercio;
+
 IV. Por resolución judicial;
+
 V. Por despojo, si la posesión del despojado dura más de un año;
+
 VI. Por reivindicación del propietario;
+
 VII. Por expropiación por causa de utilidad pública.
 
 ### Artículo 829
@@ -3522,8 +3907,11 @@ CAPITULO IV Del Derecho de Accesión
 
 ### Artículo 887
 .- En virtud de él pertenecen al propietario:
+
 I. Los frutos naturales;
+
 II. Los frutos industriales;
+
 III. Los frutos civiles.
 
 ### Artículo 888
@@ -3582,7 +3970,9 @@ III. Los frutos civiles.
 
 ### Artículo 906
 .- Si los materiales, plantas o semillas pertenecen a un tercero que no ha procedido de mala fe, el dueño del terreno es responsable subsidiariamente del valor de aquellos objetos, siempre que concurran las dos circunstancias siguientes:
+
 I. Que el que de mala fe empleó materiales, plantas o semillas, no tenga bienes con qué responder de su valor;
+
 II. Que lo edificado, plantado o sembrado aproveche al dueño.
 
 ### Artículo 907
@@ -3733,19 +4123,30 @@ Artículo reformado DOF 15-12-1954. Fe de erratas DOF 11-01-1955. Reformado DOF 
 
 ### Artículo 953
 .- Se presume la copropiedad mientras no haya signo exterior que demuestre lo contrario:
+
 I. En las paredes divisorias de los edificios contiguos, hasta el punto común de elevación;
+
 II. En las paredes divisorias de los jardines o corrales, situadas en poblado o en el campo;
+
 III. En las cercas, vallados y setos vivos que dividan los predios rústicos. Si las construcciones no tienen una misma altura, sólo hay presunción de copropiedad hasta la altura de la construcción menos elevada.
 
 ### Artículo 954
 .- Hay signo contrario a la copropiedad:
+
 I. Cuando hay ventanas o huecos abiertos en la pared divisoria de los edificios;
+
 II. Cuando conocidamente toda la pared, vallado, cerca o seto están construidos sobre el terreno de una de las fincas y no por mitad entre una y otra de las dos contiguas;
+
 III. Cuando la pared soporte las cargas y carreras, pasos y armaduras de una de las posesiones y no de la contigua;
+
 IV. Cuando la pared divisoria entre patios, jardines y otras heredades, esté construida de modo que la albardilla caiga hacia una sola de las propiedades;
+
 V. Cuando la pared divisoria construida de mampostería, presenta piedras llamadas pasaderas, que de distancia en distancia salen fuera de la superficie sólo por un lado de la pared, y no por el otro;
+
 VI. Cuando la pared fuere divisoria entre un edificio del cual forme parte, y un jardín, campo, corral o sitio sin edificio;
+
 VII. Cuando una heredad se halle cerrada o defendida por vallados, cercas o setos vivos y las contiguas no lo estén;
+
 VIII. Cuando la cerca que encierra completamente una heredad, es de distinta especie de la que tiene la vecina en sus lados contiguos a la primera.
 
 ### Artículo 955
@@ -3906,7 +4307,9 @@ Fe de erratas al artículo DOF 21-12-1928 CAPITULO III De las Obligaciones del U
 
 ### Artículo 1006
 .- El usufructuario, antes de entrar en el goce de los bienes, está obligado:
+
 I. A formar a sus expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallen los inmuebles;
+
 II. A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en el artículo 434.
 
 ### Artículo 1007
@@ -4006,14 +4409,23 @@ CAPITULO IV De los Modos de Extinguirse el Usufructo
 
 ### Artículo 1038
 .- El usufructo se extingue:
+
 I. Por muerte del usufructuario;
+
 II. Por vencimiento del plazo por el cual se constituyó;
+
 III. Por cumplirse la condición impuesta en el título constitutivo para la cesación de este derecho;
+
 IV. Por la reunión del usufructo y de la propiedad en una misma persona; mas si la reunión se verifica en una sola cosa o parte de lo usufructuado, en lo demás subsistirá el usufructo;
+
 V. Por prescripción, conforme a lo prevenido respecto de los derechos reales;
+
 VI. Por la renuncia expresa del usufructuario, salvo lo dispuesto respecto de las renuncias hechas en fraude de los acreedores;
+
 VII. Por la pérdida total de la cosa que era objeto del usufructo. Si la destrucción no es total, el derecho continúa sobre lo que de la cosa haya quedado;
+
 VIII. Por la cesación del derecho del que constituyó el usufructo, cuando teniendo un dominio revocable, llega el caso de la revocación;
+
 IX. Por no dar fianza el usufructuario por título gratuito, si el dueño no le ha eximido de esa obligación.
 
 ### Artículo 1039
@@ -4165,10 +4577,15 @@ CAPITULO IV De la Servidumbre Legal de Acueducto
 
 ### Artículo 1086
 .- El que pretenda usar del derecho consignado en el artículo 1078, debe previamente:
+
 I. Justificar que puede disponer del agua que pretende conducir;
+
 II. Acreditar que el paso que solicita es el más conveniente para el uso a que destina el agua;
+
 III. Acreditar que dicho paso es el menos oneroso para los predios por donde debe pasar el agua;
+
 IV. Pagar el valor del terreno que ha de ocupar el canal, según estimación de peritos y un diez por ciento más;
+
 V. Resarcir los daños inmediatos, con inclusión del que resulte por dividirse en dos o más partes el predio sirviente, y de cualquier otro deterioro.
 
 ### Artículo 1087
@@ -4301,12 +4718,17 @@ CAPITULO IX De la Extinción de las Servidumbres
 
 ### Artículo 1128
 .- Las servidumbres voluntarias se extinguen:
+
 I. Por reunirse en una misma persona la propiedad de ambos predios: dominante y sirviente; y no reviven por una nueva separación, salvo lo dispuesto en el artículo 1116; pero si el acto de reunión era resoluble por su naturaleza, y llega el caso de la resolución, renacen las servidumbres como estaban antes de la reunión;
+
 II. Por el no uso;
 Cuando la servidumbre fuere continua y aparente, por el no uso de tres años, contados desde el día en que dejó de existir el signo aparente de la servidumbre;
 Cuando fuere discontinua o no aparente, por el no uso de cinco años, contados desde el día en que dejó de usarse por haber ejecutado el dueño del fundo sirviente acto contrario a la servidumbre, o por haber prohibido que se usare de ella. Si no hubo acto contrario o prohibición, aunque no se haya usado de la servidumbre, o si hubo tales actos, pero continúa el uso, no corre el tiempo de la prescripción;
+
 III. Cuando los predios llegaren sin culpa del dueño del predio sirviente a tal estado que no pueda usarse de la servidumbre. Si en lo sucesivo los predios se restablecen de manera que pueda usarse de la servidumbre, revivirá ésta, a no ser que desde el día en que pudo volverse a usar haya transcurrido el tiempo suficiente para la prescripción;
+
 IV. Por la remisión gratuita u onerosa hecha por el dueño del predio dominante;
+
 V. Cuando constituida en virtud de un derecho revocable, se vence el plazo, se cumple la condición o sobreviene la circunstancia que debe poner término a aquél.
 
 ### Artículo 1129
@@ -4317,9 +4739,13 @@ V. Cuando constituida en virtud de un derecho revocable, se vence el plazo, se c
 
 ### Artículo 1131
 .- El dueño de un predio sujeto a una servidumbre legal, puede, por medio de convenio, librarse de ella, con las restricciones siguientes:
+
 I. Si la servidumbre esta constituida a favor de un municipio o población, no surtirá el convenio efecto alguno respecto de toda la comunidad, si no se ha celebrado interviniendo el Ayuntamiento en representación de ella; pero sí producirá acción contra cada uno de los particulares que hayan renunciado a dicha servidumbre;
+
 II. Si la servidumbre es de uso público, el convenio es nulo en todo caso;
+
 III. Si la servidumbre es de paso o desagüe, el convenio se entenderá celebrado con la condición de que lo aprueben los dueños de los predios circunvecinos, o por lo menos, el dueño del predio por donde nuevamente se constituya la servidumbre;
+
 IV. La renuncia de la servidumbre legal de desagüe sólo será válida cuando no se oponga a los reglamentos respectivos.
 
 ### Artículo 1132
@@ -4384,16 +4810,24 @@ CAPITULO II De la Prescripción Positiva
 
 ### Artículo 1151
 .- La posesión necesaria para prescribir debe ser:
+
 I. En concepto de propietario;
+
 II. Pacífica;
+
 III. Continua;
+
 IV. Pública.
 
 ### Artículo 1152
 .- Los bienes inmuebles se prescriben:
+
 I. En cinco años, cuando se poseen en concepto de propietario, con buena fe, pacífica, continua y públicamente;
+
 II. En cinco años, cuando los inmuebles hayan sido objeto de una inscripción de posesión;
+
 III. En diez años, cuando se poseen de mala fe, si la posesión es en concepto de propietario, pacífica, continua y pública;
+
 IV. Se aumentará en una tercera parte el tiempo señalado en las fracciones I y III, si se demuestra, por quien tenga interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante la mayor parte del tiempo que la ha poseído, o que por no haber hecho el poseedor de finca urbana las reparaciones necesarias, ésta ha permanecido deshabitada la mayor parte del tiempo que ha estado en poder de aquél.
 
 ### Artículo 1153
@@ -4423,13 +4857,18 @@ CAPITULO III De la Prescripción Negativa
 
 ### Artículo 1161
 .- Prescriben en dos años:
+
 I. Los honorarios, sueldos, salarios, jornales u otras retribuciones por la prestación de cualquier servicio. La prescripción comienza a correr desde la fecha en que dejaron de prestarse los servicios;
+
 II. La acción de cualquier comerciante para cobrar el precio de objetos vendidos a personas que no fueren revendedoras.
 La prescripción corre desde el día en que fueron entregados los objetos, si la venta no se hizo a plazo;
+
 III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren.
 La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
+
 IV. La responsabilidad civil por injurias ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos.
 La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
+
 V. La responsabilidad civil proveniente de actos ilícitos que no constituyan delitos.
 La prescripción corre desde el día en que se verificaron los actos.
 
@@ -4451,19 +4890,29 @@ CAPITULO IV De la Suspensión de la Prescripción
 
 ### Artículo 1167
 .- La prescripción no puede comenzar ni correr:
+
 I. Entre ascendientes y descendientes, durante la patria potestad, respecto de los bienes a que los segundos tengan derecho conforme a la ley;
+
 II. Entre los consortes;
+
 III. Entre los incapacitados y sus tutores o curadores, mientras dura la tutela;
+
 IV. Entre copropietarios o coposeedores, respecto del bien común.
+
 V. Contra los ausentes del Distrito Federal que se encuentren en servicio público;
-Fracción reformada DOF 23-12-1974 VI. Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Distrito Federal.
+Fracción reformada DOF 23-12-1974
+
+VI. Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Distrito Federal.
 Fracción reformada DOF 23-12-1974 CAPITULO V De la Interrupción de la Prescripción
 
 ### Artículo 1168
 .- La prescripción se interrumpe:
+
 I. Si el poseedor es privado de la posesión de la cosa o del goce del derecho por más de un año;
+
 II. Por demanda u otro cualquiera género de interpelación judicial notificada al poseedor o al deudor en su caso;
 Se considerará la prescripción como no interrumpida por la interpelación judicial, si el actor desiste de ella, o fuese desestimada su demanda;
+
 III. Porque la persona a cuyo favor corre la prescripción reconozca expresamente, de palabra o por escrito, o tácitamente por hechos indudables, el derecho de la persona contra quien prescribe.
 Empezará a contarse el nuevo término de la prescripción, en caso de reconocimiento de las obligaciones, desde el día en que se haga; si se renueva el documento, desde la fecha del nuevo título y si se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
 
@@ -4985,7 +5434,9 @@ CAPITULO II De la Capacidad para Testar
 
 ### Artículo 1306
 .- Están incapacitados para testar:
+
 I. Los menores que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
+
 II. Los que habitual o accidentalmente no disfrutan de su cabal juicio.
 
 ### Artículo 1307
@@ -5009,11 +5460,18 @@ CAPITULO III De la Capacidad para Heredar
 
 ### Artículo 1313
 .- Todos los habitantes del Distrito Federal de cualquier edad que sean, tienen capacidad para heredar, y no pueden ser privados de ella de un modo absoluto; pero con relación a ciertas personas y a determinados bienes, pueden perderla por alguna de las causas siguientes:
-Párrafo reformado DOF 23-12-1974 I. Falta de personalidad;
+Párrafo reformado DOF 23-12-1974
+
+I. Falta de personalidad;
+
 II. Delito;
+
 III. Presunción de influencia contraria a la libertad del testador, o a la verdad o integridad del testamento;
+
 IV. Falta de reciprocidad internacional;
+
 V. Utilidad pública;
+
 VI. Renuncia o remoción de algún cargo conferido en el testamento.
 
 ### Artículo 1314
@@ -5024,16 +5482,29 @@ VI. Renuncia o remoción de algún cargo conferido en el testamento.
 
 ### Artículo 1316
 .- Son incapaces de heredar por testamento o por intestado:
-Párrafo reformado DOF 30-12-1997 I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
+Párrafo reformado DOF 30-12-1997
+
+I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
+
 II. El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena capital o de prisión, aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
+
 III. El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
+
 IV. El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
+
 V. El que haya sido condenado por un delito que merezca pena de prisión, cometido contra él autor de la herencia, de sus hijos, de su cónyuge, de sus ascendientes o de sus hermanos;
+
 VI. El padre y la madre respecto del hijo expuesto por ellos;
+
 VII. Los ascendientes que abandonaren, prostituyeren o corrompieren a sus descendientes, respecto de los ofendidos;
-Fracción reformada DOF 30-12-1997 VIII. Los demás parientes del autor de la herencia que, teniendo obligación de darle alimentos, no la hubieren cumplido;
+Fracción reformada DOF 30-12-1997
+
+VIII. Los demás parientes del autor de la herencia que, teniendo obligación de darle alimentos, no la hubieren cumplido;
+
 IX. Los parientes del autor de la herencia que, hallándose éste imposibilitado para trabajar y sin recursos, no se cuidaren de recogerlo, o de hacerlo recoger en establecimientos de beneficencia;
+
 X. El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
+
 XI. El que conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos.
 XII.- El que haya sido condenado por delito cometido en contra del autor de la herencia.
 Fracción adicionada DOF 30-12-1997
@@ -5200,12 +5671,22 @@ CAPITULO V De los Bienes de que se puede Disponer por Testamento y de los Testam
 
 ### Artículo 1368
 .- El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
+
 I. A los descendientes menores de 18 años respecto de los cuales tenga obligación legal de proporcionar alimentos al momento de la muerte;
-Fracción reformada DOF 31-12-1974 II. A los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad; cuando exista la obligación a que se refiere la fracción anterior;
-Fracción reformada DOF 31-12-1974 III. Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente;
-Fracción reformada DOF 31-12-1974 IV. A los ascendientes;
+Fracción reformada DOF 31-12-1974
+
+II. A los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad; cuando exista la obligación a que se refiere la fracción anterior;
+Fracción reformada DOF 31-12-1974
+
+III. Al cónyuge supérstite cuando esté impedido de trabajar y no tenga bienes suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente;
+Fracción reformada DOF 31-12-1974
+
+IV. A los ascendientes;
+
 V. A la persona con quien el testador vivió como si fuera su cónyuge durante los 5 años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos;
-Fracción reformada DOF 31-12-1974 VI. A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
+Fracción reformada DOF 31-12-1974
+
+VI. A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
 ### Artículo 1369
 .- No hay obligación de dar alimentos, sino a falta o por imposibilidad de los parientes más próximos en grado.
@@ -5222,9 +5703,13 @@ La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los a
 
 ### Artículo 1373
 .- Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas enumeradas en el artículo 1368, se observarán las reglas siguientes:
+
 I. Se ministrarán a los descendientes y al cónyuge supérstite a prorrata;
+
 II. Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes;
+
 III. Después se ministrarán también a prorrata a los hermanos y a la concubina;
+
 IV. Por último, se ministrarán igualmente a prorrata, a los demás parientes colaterales dentro del cuarto grado.
 
 ### Artículo 1374
@@ -5351,10 +5836,15 @@ CAPITULO VII De los Legados
 
 ### Artículo 1414
 .- Si los bienes de la herencia no alcanzan para cubrir todos los legados, el pago se hará en el siguiente orden:
+
 I. Legados remuneratorios;
+
 II. Legados que el testador o la Ley haya declarado preferentes;
+
 III. Legados de cosa cierta y determinada;
+
 IV. Legados de alimentos o de educación:
+
 V. Los demás a prorrata.
 
 ### Artículo 1415
@@ -5614,8 +6104,11 @@ CAPITULO IX De la Nulidad, Revocación y Caducidad de los Testamentos
 
 ### Artículo 1497
 .- Las disposiciones testamentarias caducan y quedan sin efecto, en lo relativo a los herederos y legatarios:
+
 I. Si el heredero o legatario muere antes que el testador o antes de que se cumpla la condición de que dependa la herencia o el legado;
+
 II. Si el heredero o legatario se hace incapaz de recibir la herencia o legado;
+
 III. Si renuncia a su derecho.
 
 ### Artículo 1498
@@ -5627,24 +6120,38 @@ TITULO TERCERO De la Forma de los Testamentos CAPITULO I Disposiciones Generales
 
 ### Artículo 1500
 .- El ordinario puede ser:
+
 I. Público abierto;
+
 II. Público cerrado; y III.- Público simplificado; y Fracción reformada DOF 06-01-1994 IV.- Ológrafo.
 Fracción adicionada DOF 06-01-1994
 
 ### Artículo 1501
 .- El especial puede ser:
+
 I. Privado;
+
 II. Militar;
-III. Marítimo, y IV. Hecho en país extranjero.
+
+III. Marítimo, y
+
+IV. Hecho en país extranjero.
 
 ### Artículo 1502
 .- No pueden ser testigos del testamento:
+
 I. Los amanuenses del Notario que lo autorice;
+
 II. Los menores de dieciséis años;
+
 III. Los que no estén en su sano juicio;
+
 IV. Los ciegos, sordos o mudos;
+
 V. Los que no entiendan el idioma que habla el testador;
+
 VI. Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o hermanos. El concurso como testigo de una de las personas a que se refiere esta fracción, sólo produce como efecto la nulidad de la disposición que beneficie a ella o a sus mencionados parientes;
+
 VII. Los que hayan sido condenados por el delito de falsedad.
 
 ### Artículo 1503
@@ -5877,9 +6384,13 @@ Artículo reformado DOF 18-01-1952, 03-01-1979 CAPITULO V Del Testamento Privado
 
 ### Artículo 1565
 .- El testamento privado está permitido en los casos siguientes:
+
 I. Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para que concurra Notario a hacer el testamento;
+
 II. Cuando no haya Notario en la población, o juez que actúe por receptoría;
+
 III. Cuando, aunque haya Notario o juez en la población, sea imposible, o por lo menos muy difícil, que concurran al otorgamiento del testamento;
+
 IV. Cuando los militares o asimilados del ejército entren en campaña o se encuentren prisioneros de guerra.
 
 ### Artículo 1566
@@ -5908,11 +6419,17 @@ IV. Cuando los militares o asimilados del ejército entren en campaña o se encu
 
 ### Artículo 1574
 .- Los testigos que concurran a un testamento privado, deberán declarar circunstanciadamente:
+
 I. El lugar, la hora, el día, el mes y el año en que se otorgó el testamento;
+
 II. Si reconocieron, vieron y oyeron claramente al testador;
+
 III. El tenor de la disposición;
+
 IV. Si el testador estaba en su cabal juicio y libre de cualquiera coacción;
+
 V. El motivo por el que se otorgó el testamento privado;
+
 VI. Si saben que el testador falleció o no de la enfermedad, o en el peligro en que se hallaba.
 
 ### Artículo 1575
@@ -5999,9 +6516,13 @@ TITULO CUARTO De la Sucesión Legítima CAPITULO I Disposiciones Generales
 
 ### Artículo 1599
 .- La herencia legítima se abre:
+
 I. Cuando no hay testamento, o el que se otorgó es nulo o perdió validez;
+
 II. Cuando el testador no dispuso de todos sus bienes;
+
 III. Cuando no se cumpla la condición impuesta al heredero;
+
 IV. Cuando el heredero muere antes del testador, repudia la herencia o es incapaz de heredar, si no se ha nombrado substituto.
 
 ### Artículo 1600
@@ -6012,10 +6533,12 @@ IV. Cuando el heredero muere antes del testador, repudia la herencia o es incapa
 
 ### Artículo 1602
 .- Tienen derecho a heredar por sucesión legítima:
+
 I. Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado y la concubina o el concubinario, si se satisfacen en este caso los requisitos señalados por el
 
 ### artículo 1635
 .
+
 II. A falta de los anteriores, la beneficencia pública.
 Artículo reformado DOF 27-12-1983
 
@@ -6272,9 +6795,13 @@ La mujer casada, mayor de edad, podrá serlo sin la autorización de su esposo.
 
 ### Artículo 1680
 .- No pueden ser albaceas, excepto en el caso de ser herederos únicos:
+
 I. Los magistrados y jueces que estén ejerciendo jurisdicción en el lugar en que se abre la sucesión;
+
 II. Los que por sentencia hubieren sido removidos otra vez del cargo de albacea;
+
 III. Los que hayan sido condenados por delitos contra la propiedad;
+
 IV. Los que no tengan un modo honesto de vivir.
 
 ### Artículo 1681
@@ -6331,11 +6858,17 @@ Cuando la mayor porción esté representada por menos de la cuarta parte de los 
 
 ### Artículo 1698
 .- Pueden excusarse de ser albaceas:
+
 I. Los empleados y funcionarios públicos;
+
 II. Los militares en servicio activo;
+
 III. Los que fueren tan pobres que no puedan atender el albaceazgo sin menoscabo de su subsistencia;
+
 IV. Los que por el mal estado habitual de salud, o por no saber leer ni escribir, no puedan atender debidamente el albaceazgo;
+
 V. Los que tengan sesenta años cumplidos;
+
 VI. Los que tengan a su cargo otro albaceazgo.
 
 ### Artículo 1699
@@ -6361,14 +6894,23 @@ VI. Los que tengan a su cargo otro albaceazgo.
 
 ### Artículo 1706
 .- Son obligaciones del albacea general:
+
 I. La presentación del testamento;
+
 II. El aseguramiento de los bienes de la herencia;
+
 III. La formación de inventarios;
+
 IV. La administración de los bienes y la rendición de las cuentas del albaceazgo;
+
 V. El pago de las deudas mortuorias, hereditarias y testamentarias;
+
 VI. La partición y adjudicación de los bienes entre los herederos y legatarios;
+
 VII. La defensa, en juicio y fuera de él, así de la herencia como de la validez del testamento;
+
 VIII. La de representar a la sucesión en todos los juicios que hubieren de promoverse en su nombre o que se promovieren en contra de ella;
+
 IX. Las demás que le imponga la ley.
 
 ### Artículo 1707
@@ -6378,9 +6920,13 @@ El albacea que no presente la proposición de que se trata o que durante dos bim
 
 ### Artículo 1708
 .- El albacea también está obligado, dentro de los tres meses, contados desde que acepte su nombramiento, a garantizar su manejo, con fianza, hipoteca o prenda, a su elección conforme a las bases siguientes:
+
 I. Por el importe de la renta de los bienes raíces en el último año y por los réditos de los capitales impuestos, durante ese mismo tiempo;
+
 II. Por el valor de los bienes muebles;
+
 III. Por el de los productos de las fincas rústicas en un año, calculados por peritos o por el término medio de un quinquenio, a elección del juez;
+
 IV. En las negociaciones mercantiles e industriales por el veinte por ciento del importe de las mercancías, y demás efectos muebles, calculado por los libros si están llevados en debida forma o a juicio de peritos.
 
 ### Artículo 1709
@@ -6454,8 +7000,11 @@ Si la minoría inconforme la forman varios herederos, el nombramiento de interve
 
 ### Artículo 1731
 .- Debe nombrarse precisamente un interventor:
+
 I. Siempre que el heredero esté ausente o no sea conocido;
+
 II. Cuando la cuantía de los legados iguale o exceda a la porción del heredero albacea;
+
 III. Cuando se hagan legados para objetos o establecimientos de Beneficencia Pública.
 
 ### Artículo 1732
@@ -6499,12 +7048,19 @@ III. Cuando se hagan legados para objetos o establecimientos de Beneficencia Pú
 
 ### Artículo 1745
 .- Los cargos de albacea e interventor, acaban:
+
 I. Por el término natural del encargo;
+
 II. Por muerte;
+
 III. Por incapacidad legal, declarada en forma;
+
 IV. Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia Pública;
+
 V. Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
+
 VI. Por revocación de sus nombramientos, hecha por los herederos;
+
 VII. Por remoción.
 
 ### Artículo 1746
@@ -6635,8 +7191,11 @@ CAPITULO VII De los Efectos de la Partición
 
 ### Artículo 1784
 .- La obligación a que se refiere el artículo 1780, sólo cesará en los casos siguientes:
+
 I. Cuando se hubieren dejado al heredero bienes individualmente determinados, de los cuales es privado;
+
 II. Cuando al hacerse la partición, los coherederos renuncien expresamente al derecho a ser indemnizados;
+
 III. Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre.
 
 ### Artículo 1785
@@ -6670,14 +7229,20 @@ LIBRO CUARTO De las Obligaciones PRIMERA PARTE De las Obligaciones en General TI
 
 ### Artículo 1794
 .- Para la existencia del contrato se requiere:
+
 I. Consentimiento;
+
 II. Objeto que pueda ser materia del contrato.
 
 ### Artículo 1795
 .- El contrato puede ser invalidado:
+
 I. Por incapacidad legal de las partes o de una de ellas;
+
 II. Por vicios del consentimiento;
+
 III. Porque su objeto, o su motivo o fin sea ilícito;
+
 IV. Porque el consentimiento no se haya manifestado en la forma que la ley establece.
 
 ### Artículo 1796
@@ -6777,7 +7342,9 @@ Del Objeto y del Motivo o Fin de los Contratos
 
 ### Artículo 1824
 .- Son objeto de los contratos:
+
 I. La cosa que el obligado debe dar;
+
 II. El hecho que el obligado debe hacer o no hacer.
 
 ### Artículo 1825
@@ -6788,7 +7355,9 @@ II. El hecho que el obligado debe hacer o no hacer.
 
 ### Artículo 1827
 .- El hecho positivo o negativo, objeto del contrato, debe ser:
+
 I. Posible;
+
 II. Lícito.
 
 ### Artículo 1828
@@ -6920,8 +7489,11 @@ En este caso, el que pruebe que ha hecho erogaciones para prestar el servicio o 
 
 ### Artículo 1865
 .- Si el acto señalado por el promitente fuere ejecutado por más de un individuo, tendrán derecho a la recompensa:
+
 I. El que primero ejecutare la obra o cumpliere la condición;
+
 II. Si la ejecución es simultánea, o varios llenan al mismo tiempo la condición, se repartirá la recompensa por partes iguales;
+
 III. Si la recompensa no fuere divisible se sorteará entre los interesados.
 
 ### Artículo 1866
@@ -7096,9 +7668,14 @@ Párrafo reformado DOF 10-01-1994 La acción de reparación no es transmisible a
 El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
 Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
 Estarán sujetos a la reparación del daño moral de acuerdo a lo establecido por este ordenamiento y, por lo tanto, las conductas descritas se considerarán como hechos ilícitos:
+
 I. El que comunique a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra, descrédito, perjuicio, o exponerlo al desprecio de alguien;
+
 II. El que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
-III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido, y IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
+
+III. El que presente denuncias o querellas calumniosas, entendiéndose por tales aquellas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente o que aquél no se ha cometido, y
+
+IV. Al que ofenda el honor, ataque la vida privada o la imagen propia de una persona.
 Párrafo con fracciones adicionado DOF 13-04-2007 La reparación del daño moral con relación al párrafo e incisos anteriores deberá contener la obligación de la rectificación o respuesta de la información difundida en el mismo medio donde fue publicada y con el mismo espacio y la misma circulación o audiencia a que fue dirigida la información original, esto sin menoscabo de lo establecido en el párrafo quinto del presente artículo.
 Párrafo adicionado DOF 13-04-2007 La reproducción fiel de información no da lugar al daño moral, aun en los casos en que la información reproducida no sea correcta y pueda dañar el honor de alguna persona, pues no constituye una responsabilidad para el que difunde dicha información, siempre y cuando se cite la fuente de donde se obtuvo.
 Párrafo adicionado DOF 13-04-2007 Artículo reformado DOF 31-12-1982
@@ -7149,9 +7726,13 @@ Artículo reformado DOF 10-01-1994
 
 ### Artículo 1929
 .- El dueño de un animal pagará el daño causado por éste, si no probare alguna de estas circunstancias:
+
 I. Que lo guardaba y vigilaba con el cuidado necesario;
+
 II. Que el animal fue provocado;
+
 III. Que hubo imprudencia por parte del ofendido;
+
 IV. Que el hecho resulte de caso fortuito o de fuerza mayor.
 
 ### Artículo 1930
@@ -7162,11 +7743,17 @@ IV. Que el hecho resulte de caso fortuito o de fuerza mayor.
 
 ### Artículo 1932
 .- Igualmente responderán los propietarios de los daños causados:
+
 I. Por la explosión de máquinas, o por la inflamación de substancias explosivas;
+
 II. Por el humo o gases que sean nocivos a las personas o a las propiedades;
+
 III. Por la caída de sus árboles, cuando no sea ocasionada por fuerza mayor;
+
 IV. Por las emanaciones de cloacas o depósitos de materias infectantes;
+
 V. Por los depósitos de agua que humedezcan la pared del vecino o derramen sobre la propiedad de éste;
+
 VI. Por el peso o movimiento de las máquinas, por las aglomeraciones de materias o animales nocivos a la salud o por cualquiera causa que sin derecho origine algún daño.
 
 ### Artículo 1933
@@ -7224,15 +7811,21 @@ Si no hubiere tiempo fijado, la condición deberá reputarse cumplida transcurri
 
 ### Artículo 1948
 .- Cuando las obligaciones se hayan contraído bajo condición suspensiva, y pendiente ésta, se perdiere, deteriorare o bien se mejore la cosa que fue objeto del contrato, se observarán las disposiciones siguientes:
+
 I. Si la cosa se pierde sin culpa del deudor, quedará extinguida la obligación;
+
 II. Si la cosa se pierde por culpa del deudor, éste queda obligado al resarcimiento de daños y perjuicios.
 Entiéndase que la cosa se pierde cuando se encuentra en alguno de los casos mencionados en el
 
 ### artículo 2021
 .
+
 III. Cuando la cosa se deteriore sin culpa del deudor, éste cumple su obligación entregando la cosa al acreedor en el estado en que se encuentre al cumplirse la condición;
+
 IV. Deteriorándose por culpa del deudor, el acreedor podrá optar entre la resolución de la obligación o su cumplimiento, con la indemnización de daños y perjuicios en ambos casos;
+
 V. Si la cosa se mejora por su naturaleza o por el tiempo, las mejoras ceden en favor del acreedor;
+
 VI. Si se mejora a expensas del deudor, no tendrá éste otro derecho que el concedido al usufructuario.
 
 ### Artículo 1949
@@ -7270,8 +7863,11 @@ Si el que paga ignoraba, cuando lo hizo, la existencia del plazo, tendrá derech
 
 ### Artículo 1959
 .- Perderá el deudor todo derecho a utilizar el plazo:
+
 I. Cuando después de contraída la obligación, resultare insolvente, salvo que garantice la deuda;
+
 II. Cuando no otorgue al acreedor las garantías a que estuviese comprometido;
+
 III. Cuando por actos propios hubiesen disminuido aquellas garantías después de establecidas, y cuando por caso fortuito desaparecieren, a menos que sean inmediatamente sustituidas por otras igualmente seguras.
 
 ### Artículo 1960
@@ -7313,7 +7909,9 @@ CAPITULO III De las Obligaciones Conjuntivas y Alternativas
 
 ### Artículo 1972
 .- Si ambas cosas se perdieren sin culpa del deudor, se hará la distinción siguiente:
+
 I. Si se hubiere hecho ya la elección o designación de la cosa, la pérdida será por cuenta del acreedor;
+
 II. Si la elección no se hubiere hecho, quedará el contrato sin efecto.
 
 ### Artículo 1973
@@ -7436,14 +8034,19 @@ Si uno solo de los herederos ha perdonado la deuda o recibido el valor de la cos
 
 ### Artículo 2010
 .- Pierde la calidad de indivisible, la obligación que se resuelve en el pago de daños y perjuicios y, entonces, se observarán las reglas siguientes:
+
 I. Si para que se produzca esa conversión hubo culpa de parte de todos los deudores, todos responderán de los daños y perjuicios proporcionalmente al interés que representen en la obligación;
+
 II. Si sólo algunos fueron culpables, únicamente ellos responderán de los daños y perjuicios.
 CAPITULO V De las Obligaciones de Dar
 
 ### Artículo 2011
 .- La prestación de cosa puede consistir:
+
 I. En la traslación de dominio de cosa cierta;
+
 II. En la enajenación temporal del uso o goce de cosa cierta;
+
 III. En la restitución de cosa ajena o pago de cosa debida.
 
 ### Artículo 2012
@@ -7463,10 +8066,15 @@ III. En la restitución de cosa ajena o pago de cosa debida.
 
 ### Artículo 2017
 .- En los casos en que la obligación de dar cosa cierta importe la traslación de la propiedad de esa cosa, y se pierde o deteriora en poder del deudor, se observarán las reglas siguientes:
+
 I. Si la pérdida fue por culpa del deudor, éste responderá al acreedor por el valor de la cosa y por los daños y perjuicios;
+
 II. Si la cosa se deteriora por culpa del deudor, el acreedor puede optar por la rescisión del contrato y el pago de daños y perjuicios, o recibir la cosa en el estado que se encuentre y exigir la reducción de precio y el pago de daños y perjuicios;
+
 III. Si la cosa se perdiere por culpa del acreedor, el deudor queda libre de la obligación;
+
 IV. Si se deteriorare por culpa del acreedor, éste tiene obligación de recibir la cosa en el estado en que se halle;
+
 V. Si la cosa se pierde por caso fortuito o fuerza mayor, la obligación queda sin efecto y el dueño sufre la pérdida, a menos que otra cosa se haya convenido.
 
 ### Artículo 2018
@@ -7480,7 +8088,9 @@ V. Si la cosa se pierde por caso fortuito o fuerza mayor, la obligación queda s
 
 ### Artículo 2021
 .- La pérdida de la cosa puede verificarse:
+
 I. Pereciendo la cosa o quedando fuera del comercio;
+
 II. Desapareciendo de modo que no se tengan noticias de ella o que aunque se tenga alguna, la cosa no se pueda recobrar.
 
 ### Artículo 2022
@@ -7488,9 +8098,13 @@ II. Desapareciendo de modo que no se tengan noticias de ella o que aunque se ten
 
 ### Artículo 2023
 .- En los casos de enajenación con reserva de la posesión, uso o goce de la cosa hasta cierto tiempo, se observarán las reglas siguientes:
+
 I. Si hay convenio expreso se estará a lo estipulado;
+
 II. Si la pérdida fuere por culpa de alguno de los contratantes, el importe será de la responsabilidad de éste;
+
 III. A falta de convenio o de culpa, cada interesado sufrirá la pérdida que le corresponda, en todo si la cosa perece totalmente, o en parte, si la pérdida fuere solamente parcial;
+
 IV. En el caso de la fracción que precede, si la pérdida fuere parcial y las partes no se convinieren en la disminución de sus respectivos derechos, se nombrarán peritos que la determinen.
 
 ### Artículo 2024
@@ -7501,9 +8115,13 @@ IV. En el caso de la fracción que precede, si la pérdida fuere parcial y las p
 
 ### Artículo 2026
 .- Si fueren varios los obligados a prestar la misma cosa, cada uno de ellos responderá, proporcionalmente, exceptuándose en los casos siguientes:
+
 I. Cuando cada uno de ellos se hubiere obligado solidariamente;
+
 II. Cuando la prestación consistiere en cosa cierta y determinada que se encuentre en poder de uno de ellos, o cuando dependa de hecho que sólo uno de los obligados pueda prestar;
+
 III. Cuando la obligación sea indivisible;
+
 IV. Cuando por el contrato se ha determinado otra cosa.
 CAPITULO VI De las Obligaciones de Hacer o de no Hacer
 
@@ -7538,8 +8156,11 @@ Artículo vinculado con artículo transitorio DOF 23-02-1946 el DOF 23-02-1946, 
 
 ### Artículo 2034
 .- La cesión de créditos que no sean a la orden o al portador, no produce efectos contra tercero, sino desde que su fecha deba tenerse por cierta, conforme a las reglas siguientes:
+
 I. Si tiene por objeto un crédito que deba inscribirse, desde la fecha de su inscripción, en el Registro Público de la Propiedad;
+
 II. Si se hace en escritura pública, desde la fecha de su otorgamiento;
+
 III. Si se trata de un documento privado, desde el día en que se incorpore o inscriba en un Registro Público; desde la muerte de cualquiera de los que lo firmaren, o desde la fecha en que se entregue a un funcionario público por razón de su oficio.
 
 ### Artículo 2035
@@ -7616,9 +8237,13 @@ CAPITULO III De la Subrogación
 
 ### Artículo 2058
 .- La subrogación se verifica por ministerio de la ley y sin necesidad de declaración alguna de los interesados:
+
 I. Cuando el que es acreedor paga a otro acreedor preferente;
+
 II. Cuando el que paga tiene interés jurídico en el cumplimiento de la obligación;
+
 III. Cuando un heredero paga con sus bienes propios alguna deuda de la herencia;
+
 IV. Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él un crédito hipotecario anterior a la adquisición.
 
 ### Artículo 2059
@@ -7765,7 +8390,9 @@ Incumplimiento de las obligaciones Fe de erratas al epígrafe DOF 21-12-1928 CAP
 
 ### Artículo 2104
 .- El que estuviere obligado a prestar un hecho y dejare de prestarlo o no lo prestare conforme a lo convenido, será responsable de los daños y perjuicios en los términos siguientes:
+
 I. Si la obligación fuere a plazo, comenzará la responsabilidad desde el vencimiento de éste;
+
 II. Si la obligación no dependiere de plazo cierto, se observará lo dispuesto en la parte final del artículo 2080.
 El que contraviene una obligación de no hacer pagará daños y perjuicios por el sólo hecho de la contravención.
 
@@ -7839,15 +8466,22 @@ Artículo reformado DOF 14-11-2025 CAPITULO II De la Evicción y Saneamiento
 
 ### Artículo 2126
 .- Si el que enajenó hubiera procedido de buena fe, estará obligado a entregar al que sufrió la evicción.
+
 I. El precio íntegro que recibió por la cosa;
+
 II. Los gastos causados en el contrato, si fueren satisfechos por el adquirente;
+
 III. Los causados en el pleito de evicción y en el de saneamiento;
+
 IV. El valor de las mejoras útiles y necesarias, siempre que en la sentencia no se determine que el vencedor satisfaga su importe.
 
 ### Artículo 2127
 .- Si el que enajena hubiere procedido de mala fe, tendrá las obligaciones que expresa el artículo anterior, con las agravaciones siguientes:
+
 I. Devolverá, a elección del adquirente, el precio que la cosa tenía al tiempo de la adquisición, o el que tenga al tiempo en que sufra la evicción;
+
 II. Satisfará al adquirente el importe de las mejoras voluntarias y de mero placer que haya hecho en la cosa;
+
 III. Pagará los daños y perjuicios.
 
 ### Artículo 2128
@@ -7888,12 +8522,19 @@ III. Pagará los daños y perjuicios.
 
 ### Artículo 2140
 .- El que enajena no responde por la evicción:
+
 I. Si así se hubiere convenido;
+
 II. En el caso del artículo 2123;
+
 III. Si conociendo el que adquiere el derecho del que entabla la evicción, lo hubiere ocultado dolosamente al que enajena;
+
 IV. Si la evicción procede de una causa posterior al acto de enajenación, no imputable al que enajena, o de hecho del que adquiere, ya sea anterior o posterior al mismo acto;
+
 V. Si el adquirente no cumple lo prevenido en el artículo 2124;
+
 VI. Si el adquirente y el que reclama transigen o comprometen el negocio en árbitros sin consentimiento del que enajenó;
+
 VII. Si la evicción tuvo lugar por culpa del adquirente.
 
 ### Artículo 2141
@@ -8059,13 +8700,21 @@ TITULO QUINTO Extinción de las Obligaciones CAPITULO I De la Compensación
 
 ### Artículo 2192
 .- La compensación no tendrá lugar:
+
 I. Si una de las partes la hubiere renunciado;
+
 II. Si una de las deudas toma su origen de fallo condenatorio por causa de despojo; pues entonces el que obtuvo aquél a su favor deberá ser pagado, aunque el despojante le oponga la compensación.
+
 III. Si una de las deudas fuere por alimentos;
+
 IV. Si una de las deudas toma su origen de una renta vitalicia;
+
 V. Si una de las deudas procede de salario mínimo;
+
 VI. Si la deuda fuere de cosa que no puede ser compensada, ya sea por disposición de la ley o por el título de que procede, a no ser que ambas deudas fueren igualmente privilegiadas;
+
 VII. Si la deuda fuere de cosa puesta en depósito;
+
 VIII. Si las deudas fuesen fiscales, excepto en los casos en que la ley lo autorice.
 
 ### Artículo 2193
@@ -8342,11 +8991,17 @@ Artículo derogado DOF 31-12-1974
 
 ### Artículo 2280
 .- No pueden comprar los bienes de cuya venta o administración se hallen encargados:
+
 I. Los tutores y curadores;
+
 II. Los mandatarios;
+
 III. Los ejecutores testamentarios y los que fueren nombrados en caso de intestado;
+
 IV. Los interventores nombrados por el testador o por los herederos;
+
 V. Los representantes, administradores e interventores en caso de ausencia;
+
 VI. Los empleados públicos.
 
 ### Artículo 2281
@@ -8358,8 +9013,11 @@ CAPITULO IV De las Obligaciones del Vendedor
 
 ### Artículo 2283
 .- El vendedor está obligado:
+
 I. A entregar al comprador la cosa vendida;
+
 II. A garantizar las calidades de la cosa;
+
 III. A prestar la evicción.
 CAPITULO V De la Entrega de la Cosa Vendida
 
@@ -8405,8 +9063,11 @@ CAPITULO VI De las Obligaciones del Comprador
 
 ### Artículo 2296
 .- El comprador debe intereses por el tiempo que medie entre la entrega de la cosa y el pago del precio, en los tres casos siguientes:
+
 I. Si así se hubiere convenido;
+
 II. Si la cosa vendida y entregada produce fruto o renta;
+
 III. Si se hubiere constituido en mora con arreglo a los artículos 2104 y 2105.
 
 ### Artículo 2297
@@ -8451,8 +9112,11 @@ CAPITULO VII De Algunas Modalidades del Contrato de Compra-Venta
 
 ### Artículo 2310
 .- La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
+
 I. Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público.
+
 II. Si se trata de bienes muebles que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula rescisoria, de que habla contra terceros si se inscribió en el Registro Público.
+
 III. Si se trata de bienes muebles que no sean susceptibles de identificarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio, pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
 Artículo reformado DOF 18-01-1952, 03-01-1979
 
@@ -8641,9 +9305,13 @@ Si dentro del mencionado plazo naciere un hijo póstumo del donante, la donació
 
 ### Artículo 2361
 .- La donación no podrá ser revocada por superveniencia de hijos:
+
 I. Cuando sea menor de doscientos pesos;
+
 II. Cuando sea antenupcial;
+
 III. Cuando sea entre consortes;
+
 IV. Cuando sea puramente remuneratoria.
 
 ### Artículo 2362
@@ -8672,7 +9340,9 @@ IV. Cuando sea puramente remuneratoria.
 
 ### Artículo 2370
 .- La donación puede ser revocada por ingratitud:
+
 I. Si el donatario comete algún delito contra la persona, la honra o los bienes del donante o de los ascendientes, descendientes o cónyuge de éste;
+
 II. Si el donatario rehúsa socorrer, según el valor de la donación, al donante que ha venido a pobreza.
 
 ### Artículo 2371
@@ -8720,8 +9390,11 @@ TITULO QUINTO Del Mutuo CAPITULO I Del Mutuo Simple
 
 ### Artículo 2385
 .- Si en el contrato no se ha fijado plazo para la devolución de lo prestado, se observarán las reglas siguientes:
+
 I. Si el mutuario fuere labrador y el préstamo consistiere en cereales u otros productos del campo, la restitución se hará en la siguiente cosecha de los mismos o semejantes frutos o productos;
+
 II. Lo mismo se observará respecto de los mutuarios que, no siendo labradores, hayan de percibir frutos semejantes por otro título;
+
 III. En los demás casos, la obligación de restituir se rige por lo dispuesto en el artículo 2080.
 
 ### Artículo 2386
@@ -8729,7 +9402,9 @@ III. En los demás casos, la obligación de restituir se rige por lo dispuesto e
 
 ### Artículo 2387
 .- Cuando no se ha señalado lugar, se observarán las reglas siguientes:
+
 I. La cosa prestada se entregará en el lugar donde se encuentre;
+
 II. La restitución se hará, si el préstamo consiste en efectos, en el lugar donde se recibieron. Si consiste en dinero, en el domicilio del deudor, observándose lo dispuesto en el artículo 2085.
 
 ### Artículo 2388
@@ -8813,10 +9488,16 @@ CAPITULO II De los Derechos y Obligaciones del Arrendador
 
 ### Artículo 2412
 .- El arrendador está obligado, aunque no haya pacto expreso:
+
 I. A entregar al arrendatario la finca arrendada con todas sus pertenencias y en estado de servir para el uso convenido; y si no hubo convenido expreso, para aquél a que por su misma naturaleza estuviere destinada; así como en condiciones que ofrezcan al arrendatario la higiene y seguridad del inmueble;
-Fracción reformada DOF 21-07-1993 II. A conservar la cosa arrendada en el mismo estado, durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
+Fracción reformada DOF 21-07-1993
+
+II. A conservar la cosa arrendada en el mismo estado, durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
+
 III. A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes e indispensables;
+
 IV. A garantizar el uso o goce pacífico de la cosa por todo el tiempo del contrato;
+
 V. A responder de los daños y perjuicios que sufra el arrendatario por los defectos o vicios ocultos de la cosa, anteriores al arrendamiento.
 
 ### Artículo 2413
@@ -8852,8 +9533,11 @@ Artículo reformado DOF 14-11-2025
 
 ### Artículo 2423
 .- Corresponde al arrendador pagar las mejoras hechas por el arrendatario:
+
 I. Si en el contrato, o posteriormente, lo autorizó para hacerlas y se obligó a pagarlas;
+
 II. Si se trata de mejoras útiles y por culpa del arrendador se rescindiese el contrato;
+
 III. Cuando el contrato fuere por tiempo indeterminado, si el arrendador autorizó al arrendatario para que hiciera mejoras y antes de que transcurra el tiempo necesario para que el arrendatario quede compensado con el uso de las mejoras de los gastos que hizo, da el arrendador por concluído el arrendamiento.
 
 ### Artículo 2424
@@ -8862,8 +9546,11 @@ CAPITULO III De los Derechos y Obligaciones del Arrendatario
 
 ### Artículo 2425
 .- El arrendatario está obligado:
+
 I. A satisfacer la renta en la forma y tiempo convenidos;
+
 II. A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
+
 III. A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella.
 
 ### Artículo 2426
@@ -8962,13 +9649,21 @@ Artículo adicionado DOF 07-02-1985
 ### Artículo 2448 F
 - Para los efectos de este Capítulo el contrato de arrendamiento debe otorgarse por escrito, la falta de esta formalidad se imputará al arrendador.
 El contrato deberá contener, cuando menos las siguientes estipulaciones:
+
 I. Nombres del arrendador y arrendatario.
+
 II. La ubicación del inmueble.
+
 III. Descripción detallada del inmueble objeto del contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo, así como el estado que guardan.
+
 IV. El monto de la renta.
+
 V. La garantía, en su caso.
+
 VI. La mención expresa del destino habitacional del inmueble arrendado.
+
 VII. El término del contrato.
+
 VIII. Las obligaciones que el arrendador y arrendatario contraigan adicionalmente a las establecidas en la Ley.
 Artículo adicionado DOF 07-02-1985
 
@@ -8990,10 +9685,16 @@ Artículo adicionado DOF 07-02-1985. Derogado DOF 21-07-1993
 
 ### Artículo 2448 J
 - En el caso de que el propietario del inmueble arrendado decida enajenarlo, el o los arrendatarios tendrán derecho a ser preferidos a cualquier tercero en los siguientes términos:
+
 I. En todos los casos el propietario deberá dar aviso por escrito al arrendatario de su deseo de vender el inmueble, precisando el precio, términos, condiciones y modalidades de la compraventa;
+
 II. El o los arrendatarios dispondrán de quince días para dar aviso por escrito al arrendador de su voluntad de ejercitar el derecho de preferencia que se consigna en este artículo en los términos y condiciones de la oferta, exhibiendo para ello las cantidades exigibles al momento de la aceptación de la oferta, conforma a las condiciones señaladas en ésta;
+
 III. En caso de que el arrendador cambie cualquiera de los términos de la oferta inicial estará obligado a dar un nuevo aviso por escrito al arrendatario, quien a partir de ese momento dispondrá de un nuevo plazo de quince días. Si el cambio se refiere al precio, el arrendador sólo estará obligado a dar este nuevo aviso cuando el incremento o decremento del mismo sea de más de un diez por ciento;
-IV. Tratándose de bienes sujetos al régimen de propiedad en condominio, se aplicarán las disposiciones de la ley de la materia; y V. La compra-venta realizada en contravención de lo dispuesto en este artículo otorgará al arrendatario el derecho de demandar daños y perjuicios, sin que la indemnización por dichos conceptos pueda ser menor a un 50% de las rentas pagadas por el arrendatario en los últimos doce meses. La acción antes mencionada prescribirá sesenta días después de que tenga conocimiento el arrendatario de la realización de la compraventa respectiva.
+
+IV. Tratándose de bienes sujetos al régimen de propiedad en condominio, se aplicarán las disposiciones de la ley de la materia; y
+
+V. La compra-venta realizada en contravención de lo dispuesto en este artículo otorgará al arrendatario el derecho de demandar daños y perjuicios, sin que la indemnización por dichos conceptos pueda ser menor a un 50% de las rentas pagadas por el arrendatario en los últimos doce meses. La acción antes mencionada prescribirá sesenta días después de que tenga conocimiento el arrendatario de la realización de la compraventa respectiva.
 En caso de que el arrendatario no cumpla con las condiciones establecidas en las fracciones II o III de este artículo, precluirá su derecho.
 Artículo adicionado DOF 07-02-1985. Reformado DOF 21-07-1993
 
@@ -9123,13 +9824,22 @@ Fe de erratas al artículo DOF 21-12-1928 CAPITULO IX Del Modo de Terminar el Ar
 
 ### Artículo 2483
 .- El arrendamiento puede determinar:
+
 I. Por haberse cumplido el plazo fijado en el contrato o por la ley, o por estar satisfecho el objeto para que la cosa fue arrendada;
-Suspensión provisional de vigencia de la primera parte de la fracción (por estado de guerra) DOF 11-11-1943, 09-06-1944 II. Por convenio expreso;
+Suspensión provisional de vigencia de la primera parte de la fracción (por estado de guerra) DOF 11-11-1943, 09-06-1944
+
+II. Por convenio expreso;
+
 III. Por nulidad;
+
 IV. Por rescisión;
+
 V. Por confusión;
+
 VI. Por pérdida o destrucción total de la cosa arrendada, por caso fortuito o fuerza mayor;
+
 VII. Por expropiación de la cosa arrendada hecha por causa de utilidad pública;
+
 VIII. Por evicción de la cosa dada en arrendamiento.
 
 ### Artículo 2484
@@ -9156,16 +9866,27 @@ Artículo derogado DOF 21-07-1993
 
 ### Artículo 2489
 .- El arrendador puede exigir la rescisión del contrato:
+
 I. Por falta de pago de la renta en los términos previstos en la fracción I del artículo 2425;
-Fracción reformada DOF 21-07-1993 II. Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2425;
+Fracción reformada DOF 21-07-1993
+
+II. Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2425;
+
 III. Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2480.
-IV. Por daños graves a la cosa arrendada imputables al arrendatario; y Fracción adicionada DOF 21-07-1993 V. Por variar la forma de la cosa arrendada sin contar con el consentimiento expreso del arrendador, en los términos del artículo 2441.
+
+IV. Por daños graves a la cosa arrendada imputables al arrendatario; y Fracción adicionada DOF 21-07-1993
+
+V. Por variar la forma de la cosa arrendada sin contar con el consentimiento expreso del arrendador, en los términos del artículo 2441.
 Fracción adicionada DOF 21-07-1993
 
 ### Artículo 2490
 .- El arrendatario puede exigir la rescisión del contrato:
+
 I. Por contravenir el arrendador la obligación a que se refiere la fracción II del artículo 2412 de este ordenamiento;
-II. Por la pérdida total o parcial de la cosa arrendada en los términos de los artículos 2431, 2434 y 2445; y III. Por la existencia de defectos o vicios ocultos de la cosa, anteriores al arrendamiento y desconocidos por el arrendatario.
+
+II. Por la pérdida total o parcial de la cosa arrendada en los términos de los artículos 2431, 2434 y 2445; y
+
+III. Por la existencia de defectos o vicios ocultos de la cosa, anteriores al arrendamiento y desconocidos por el arrendatario.
 Artículo reformado DOF 21-07-1993
 
 ### Artículo 2491
@@ -9360,8 +10081,11 @@ La aceptación puede ser expresa o tácita. Aceptación tácita es todo acto en 
 
 ### Artículo 2551
 .- El mandato escrito puede otorgarse:
+
 I. En escritura pública;
+
 II. En escrito privado, firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, Jueces Menores o de Paz, o ante el correspondiente funcionario o empleado administrativo, cuando el mandato se otorgue para asuntos administrativos;
+
 III. En carta poder sin ratificación de firmas.
 
 ### Artículo 2552
@@ -9380,8 +10104,11 @@ Los notarios insertarán este artículo en los testimonios de los poderes que ot
 
 ### Artículo 2555
 .- El mandato debe otorgarse en escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario, ante los jueces o autoridades administrativas correspondientes:
+
 I. Cuando sea general;
-II.- Cuando el interés del negocio para el que se confiere sea superior al equivalente a mil veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse; o Fracción reformada DOF 06-01-1994 III. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
+II.- Cuando el interés del negocio para el que se confiere sea superior al equivalente a mil veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse; o Fracción reformada DOF 06-01-1994
+
+III. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
 ### Artículo 2556
 .- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para el que se confiere no exceda de mil veces el salario mínimo general vigente en el Distrito Federal al momento de otorgarse.
@@ -9483,8 +10210,11 @@ CAPITULO V Del Mandato Judicial
 
 ### Artículo 2585
 .- No pueden ser procuradores en juicio:
+
 I. Los incapacitados;
+
 II. Los jueces, magistrados y demás funcionarios y empleados de la administración de justicia, en ejercicio, dentro de los límites de su jurisdicción;
+
 III. Los empleados de la Hacienda Pública, en cualquiera causa en que puedan intervenir de oficio, dentro de los límites de sus respectivos distritos.
 
 ### Artículo 2586
@@ -9493,20 +10223,31 @@ La substitución del mandato judicial se hará en la misma forma que su otorgami
 
 ### Artículo 2587
 .- El procurador no necesita poder o cláusula especial sino en los casos siguientes:
+
 I. Para desistirse;
+
 II. Para transigir;
+
 III. Para comprometer en árbitros;
+
 IV. Para absolver y articular posiciones;
+
 V. Para hacer cesión de bienes;
+
 VI. Para recusar;
+
 VII. Para recibir pagos;
+
 VIII. Para los demás actos que expresamente determine la ley.
 Cuando en los poderes generales se desee conferir alguna o algunas de las facultades acabadas de enumerar, se observará lo dispuesto en el párrafo primero del artículo 2554.
 
 ### Artículo 2588
 .- El procurador, aceptado el poder, está obligado:
+
 I. A seguir el juicio por todas sus instancias mientras no haya cesado en su encargo por alguna de las causas expresadas en el artículo 2595;
+
 II. A pagar los gastos que se causen a su instancia, salvo el derecho que tiene de que el mandante se los reembolse;
+
 III. A practicar, bajo la responsabilidad que este Código impone al mandatario, cuando sea necesario para la defensa de su poderdante, arreglándose al afecto a las instrucciones que éste le hubiere dado, y si no las tuviere, a lo que exija la naturaleza e índole del litigio.
 
 ### Artículo 2589
@@ -9523,10 +10264,15 @@ III. A practicar, bajo la responsabilidad que este Código impone al mandatario,
 
 ### artículo 2595
 :
+
 I. Por separarse el poderdante de la acción u oposición que haya formulado;
+
 II. Por haber terminado la personalidad del poderdante;
+
 III. Por haber transmitido el mandante a otro sus derechos sobre la cosa litigiosa, luego que la transmisión o cesión sea debidamente notificada y se haga constar en autos;
+
 IV. Por hacer el dueño del negocio alguna gestión en el juicio, manifestando que revoca el mandato;
+
 V. Por nombrar el mandante otro procurador para el mismo negocio.
 
 ### Artículo 2593
@@ -9538,11 +10284,17 @@ CAPITULO VI De los Diversos Modos de Terminar el Mandato
 
 ### Artículo 2595
 .- El mandato termina:
+
 I. Por la revocación;
+
 II. Por la renuncia del mandatario;
+
 III. Por la muerte del mandante o del mandatario;
+
 IV. Por la interdicción de uno u otro;
+
 V. Por el vencimiento del plazo y por la conclusión del negocio para el que fue concedido;
+
 VI. En los casos previstos por los artículos 670, 671 y 672.
 
 ### Artículo 2596
@@ -9736,14 +10488,23 @@ CAPITULO IV De los Porteadores y Alquiladores
 
 ### Artículo 2656
 .- El porteador de efectos deberá extender al cargador una carta de porte de la que éste podrá pedir una copia. En dicha carta se expresarán:
+
 I. El nombre, apellido y domicilio del cargador;
+
 II. El nombre, apellido y domicilio del porteador;
+
 III. El nombre, apellido y domicilio de la persona a quien o a cuya orden van dirigidos los efectos, o si han de entregarse al portador de la misma carta;
+
 IV. La designación de los efectos, con expresión de su calidad genérica, de su peso y de las marcas o signos exteriores de los bultos en que se contengan;
+
 V. El precio del transporte;
+
 VI. La fecha en que se hace la expedición;
+
 VII. El lugar de la entrega al porteador;
+
 VIII. El lugar y el plazo en que habrá de hacerse la entrega al consignatario;
+
 IX. La indemnización que haya de abonar el porteador en caso de retardo, si sobre este punto mediare algún pacto.
 
 ### Artículo 2657
@@ -9808,10 +10569,15 @@ TITULO DECIMO PRIMERO De las Asociaciones y de las Sociedades I.- De las Asociac
 
 ### Artículo 2676
 .- La asamblea general resolverá:
+
 I. Sobre la admisión y exclusión de los asociados;
+
 II. Sobre la disolución anticipada de la asociación o sobre su prórroga por más tiempo del fijado en los estatutos;
+
 III. Sobre el nombramiento de director o directores cuando no hayan sido nombrados en la escritura constitutiva;
+
 IV. Sobre la revocación de los nombramientos hechos;
+
 V. Sobre los demás asuntos que le encomienden los estatutos.
 
 ### Artículo 2677
@@ -9841,9 +10607,13 @@ Sus decisiones serán tomadas a mayoría de votos de los miembros presentes.
 
 ### Artículo 2685
 .- Las asociaciones, además de las causas previstas en los estatutos, se extinguen:
+
 I. Por consentimiento de la asamblea general;
+
 II. Por haber concluido el término fijado para su duración o por haber conseguido totalmente el objeto de su fundación;
+
 III. Por haberse vuelto incapaces de realizar el fin para que fueron fundadas;
+
 IV. Por resolución dictada por autoridad competente.
 
 ### Artículo 2686
@@ -9873,9 +10643,13 @@ Las utilidades se destinarán a los establecimientos de beneficencia pública de
 
 ### Artículo 2693
 .- El contrato de sociedad debe contener:
+
 I. Los nombres y apellidos de los otorgantes que son capaces de obligarse;
+
 II. La razón social;
+
 III. El objeto de la sociedad;
+
 IV. El importe del capital social y la aportación con que cada socio debe contribuir;
 Si falta alguno de estos requisitos se aplicará lo que dispone el Artículo 2691.
 
@@ -9938,8 +10712,11 @@ El nombramiento de administradores, hecho después de constituida la sociedad, e
 
 ### Artículo 2712
 .- Los socios administradores ejercerán las facultades que fueren necesarias al giro y desarrollo de los negocios que formen el objeto de la sociedad; pero salvo convenio en contrario, necesitan autorización expresa de los otros socios:
+
 I. Para enajenar las cosas de la sociedad, si ésta no se ha constituido, con ese objeto;
+
 II. Para empeñarlas, hipotecarlas o gravarlas con cualquier otro derecho real;
+
 III. Para tomar capitales prestados.
 
 ### Artículo 2713
@@ -9966,13 +10743,21 @@ Fe de erratas al artículo DOF 21-12-1928 CAPITULO IV De la Disolución de las S
 
 ### Artículo 2720
 .- La sociedad se disuelve:
+
 I. Por consentimiento unánime de los socios;
+
 II. Por haberse cumplido el término prefijado en el contrato de sociedad;
+
 III. Por la realización completa del fin social, o por haberse vuelto imposible la consecución del objeto de la sociedad;
+
 IV. Por la muerte o incapacidad de uno de los socios que tengan responsabilidad ilimitada por los compromisos sociales, salvo que en la escritura constitutiva se haya pactado que la sociedad continúe con los sobrevivientes o con los herederos de aquél;
+
 V. Por la muerte del socio industrial, siempre que su industria haya dado nacimiento a la sociedad;
+
 VI. Por la renuncia de uno de los socios, cuando se trate de sociedades de duración indeterminada y los otros socios no deseen continuar asociados, siempre que esa renuncia no sea maliciosa ni extemporánea;
-Fe de erratas a la fracción DOF 21-12-1928 VII. Por resolución judicial.
+Fe de erratas a la fracción DOF 21-12-1928
+
+VII. Por resolución judicial.
 Para que la disolución de la sociedad surta efecto contra tercero, es necesario que se haga constar en el Registro de Sociedades.
 
 ### Artículo 2721
@@ -10013,9 +10798,13 @@ Cuando la sociedad se ponga en liquidación, debe agregarse a su nombre las pala
 
 ### Artículo 2732
 .- Si alguno de los socios contribuye sólo con su industria, sin que ésta se hubiere estimado, ni se hubiere designado cuota que por ella debiera recibir, se observarán las reglas siguientes:
+
 I. Si el trabajo del industrial pudiera hacerse por otro, su cuota será la que corresponda por razón de sueldos u honorarios y esto mismo se observará si son varios los socios industriales;
+
 II. Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del socio capitalista que tenga más;
+
 III. Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias;
+
 IV. Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio, y a falta de éste, por decisión arbitral.
 
 ### Artículo 2733
@@ -10286,16 +11075,24 @@ CAPITULO II De los Efectos de la Fianza entre el Fiador y el Acreedor
 
 ### Artículo 2816
 .- La excusión no tendrá lugar:
+
 I. Cuando el fiador renunció expresamente a ella;
+
 II. En los casos de concurso o de insolvencia probada del deudor;
+
 III. Cuando el deudor no puede ser judicialmente demandado dentro del territorio de la República;
+
 IV. Cuando el negocio para que se prestó la fianza sea propio del fiador;
+
 V. Cuando se ignore el paradero del deudor, siempre que llamado éste por edictos, no comparezca, ni tenga bienes embargables en el lugar donde deba cumplirse la obligación.
 
 ### Artículo 2817
 .- Para que el beneficio de excusión aproveche al fiador, son indispensables los requisitos siguientes:
+
 I. Que el fiador alegue el beneficio luego que se le requiera de pago;
+
 II. Que designe bienes del deudor que basten para cubrir el crédito y que se hallen dentro del distrito judicial en que deba hacerse el pago;
+
 III. Que anticipe o asegure competentemente los gastos de excusión.
 
 ### Artículo 2818
@@ -10334,9 +11131,13 @@ CAPITULO III De los Efectos de la Fianza entre el Fiador y el Deudor
 
 ### Artículo 2829
 .- El fiador que paga por el deudor, debe ser indemnizado por éste:
+
 I. De la deuda principal;
+
 II. De los intereses respectivos, desde que haya noticiado el pago al deudor, aun cuando éste no estuviere obligado por razón del contrato a pagarlos al acreedor;
+
 III. De los gastos que haya hecho desde que dio noticia al deudor de haber sido requerido de pago;
+
 IV. De los daños y perjuicios que haya sufrido por causa del deudor.
 
 ### Artículo 2830
@@ -10359,10 +11160,15 @@ IV. De los daños y perjuicios que haya sufrido por causa del deudor.
 
 ### Artículo 2836
 .- El fiador puede, aun antes de haber pagado, exigir que el deudor asegure el pago o lo releve de la fianza:
+
 I. Si fue demandado judicialmente por el pago;
+
 II. Si el deudor sufre menoscabo en sus bienes, de modo que se halle en riesgo de quedar insolvente;
+
 III. Si pretende ausentarse de la República;
+
 IV. Si se obligó a relevarlo de la fianza en tiempo determinado, y éste ha transcurrido;
+
 V. Si la deuda se hace exigible por el vencimiento del plazo.
 CAPITULO IV De los Efectos de la Fianza entre los Cofiadores
 
@@ -10376,10 +11182,15 @@ Para que pueda tener lugar lo dispuesto en este artículo, es preciso que se hay
 
 ### Artículo 2839
 .- El beneficio de división no tiene lugar entre los fiadores:
+
 I. Cuando se renuncia expresamente;
+
 II. Cuando cada uno se ha obligado mancomunadamente con el deudor;
+
 III. Cuando alguno o algunos de los fiadores son concursados o se hallan insolventes, en cuyo caso se procederá conforme a lo dispuesto en los párrafos 2o. y 3o. del artículo 2837;
+
 IV. En el caso de la fracción IV del artículo 2816;
+
 V. Cuando alguno o algunos de los fiadores se encuentren en alguno de los casos señalados para el deudor en las fracciones III y V del mencionado artículo 2816.
 
 ### Artículo 2840
@@ -10496,9 +11307,13 @@ No surtirá efecto la prenda contra tercero si no consta la certeza de la fecha 
 
 ### Artículo 2873
 .- El acreedor adquiere por empeño:
+
 I. El derecho de ser pagado de su deuda con el precio de la cosa empeñada, con la preferencia que establece el artículo 2981;
+
 II. El derecho de recobrar la prenda de cualquier detentador, sin exceptuar al mismo deudor;
+
 III. El derecho de ser indemnizado de los gastos necesarios y útiles que hiciere para conservar la cosa empeñada, a no ser que use de ella por convenio;
+
 IV. El de exigir del deudor otra prenda o el pago de la deuda aun antes del plazo convenido, si la cosa empeñada se pierde o se deteriora sin su culpa.
 
 ### Artículo 2874
@@ -10509,7 +11324,9 @@ IV. El de exigir del deudor otra prenda o el pago de la deuda aun antes del plaz
 
 ### Artículo 2876
 .- El acreedor está obligado:
+
 I. A conservar la cosa empeñada como si fuera propia, y a responder de los deterioros y perjuicios que sufra por su culpa o negligencia;
+
 II. A restituir la prenda luego que estén pagados íntegramente la deuda, sus intereses y los gastos de conservación de la cosa, si se han estipulado los primeros y hecho los segundos.
 
 ### Artículo 2877
@@ -10576,23 +11393,35 @@ Fe de erratas al artículo DOF 21-12-1928
 
 ### Artículo 2896
 .- La hipoteca se extiende aunque no se exprese:
+
 I. A las accesiones naturales del bien hipotecado;
+
 II. A las mejoras hechas por el propietario en los bienes gravados;
+
 III. A los objetos muebles incorporados permanentemente por el propietario a la finca y que no puedan separarse sin menoscabo de ésta o deterioro de esos objetos;
+
 IV. A los nuevos edificios que el propietario construya sobre el terreno hipotecado, y a los nuevos pisos que levante sobre los edificios hipotecados.
 
 ### Artículo 2897
 .- Salvo pacto en contrario la hipoteca no comprenderá:
+
 I. Los frutos industriales de los bienes hipotecados, siempre que esos frutos se hayan producido antes de que el acreedor exija el pago de su crédito;
+
 II. Las rentas vencidas y no satisfechas al tiempo de exigirse el cumplimiento de la obligación garantizada.
 
 ### Artículo 2898
 .- No se podrán hipotecar:
+
 I. Los frutos y rentas pendientes con separación del predio que los produzca;
+
 II. Los objetos muebles colocados permanentemente en los edificios, bien para su adorno o comodidad, o bien para el servicio de alguna industria, a no ser que se hipotequen juntamente con dichos edificios;
+
 III. Las servidumbres, a no ser que se hipotequen juntamente con el predio dominante;
+
 IV. El derecho de percibir los frutos en el usufructo concedido por este Código a los ascendientes sobre los bienes de sus descendientes;
+
 V. El uso y la habitación;
+
 VI. Los bienes litigiosos, a no ser que la demanda origen del pleito se haya registrado preventivamente, o si se hace constar en el Título Constitutivo de la hipoteca que el acreedor tiene conocimiento del litigio; pero en cualquiera de los casos, la hipoteca quedará pendiente de la resolución del pleito.
 
 ### Artículo 2899
@@ -10722,16 +11551,24 @@ Del mismo modo decidirá el Juez las cuestiones que se susciten entre los intere
 
 ### Artículo 2935
 .- Tienen derecho de pedir la hipoteca necesaria para seguridad de sus créditos:
+
 I. El coheredero o partícipe, sobre los inmuebles repartidos, en cuanto importen los respectivos saneamientos o el exceso de los bienes que hayan recibido;
+
 II. Los descendientes de cuyos bienes fueren meros administradores los ascendientes, sobre los bienes de éstos, para garantizar la conservación y devolución de aquéllos; teniendo en cuenta lo que dispone la fracción III del artículo 520;
+
 III. Los menores y demás incapacitados sobre los bienes de sus tutores, por los que éstos administren;
+
 IV. Los legatarios, por el importe de sus legados, si no hubiere hipoteca especial designada por el mismo testador;
+
 V. El Estado, los pueblos y los establecimientos públicos, sobre los bienes de sus administradores o recaudadores, para asegurar las rentas de sus respectivos cargos.
 
 ### Artículo 2936
 .- La constitución de la hipoteca en los casos a que se refieren las fracciones II y III del artículo anterior, puede ser pedida:
+
 I. En el caso de bienes de que fueren meros administradores los padres, por los herederos legítimos del menor;
+
 II. En el caso de bienes que administren los tutores, por los herederos legítimos y por el curador del incapacitado, así como por el Consejo Local de Tutelas;
+
 III. Por el Ministerio Público, si no la pidieren las personas enumeradas en las fracciones anteriores.
 
 ### Artículo 2937
@@ -10749,12 +11586,19 @@ CAPITULO IV De la Extinción de las Hipotecas
 
 ### Artículo 2941
 .- Podrá pedirse y deberá ordenarse en su caso la extinción de la hipoteca:
+
 I. Cuando se extinga el bien hipotecado;
+
 II. Cuando se extinga la obligación a que sirvió de garantía;
+
 III. Cuando se resuelva o extinga el derecho del deudor sobre el bien hipotecado;
+
 IV. Cuando se expropie por causa de utilidad pública el bien hipotecado, observándose lo dispuesto en el artículo 2910;
+
 V. Cuando se remate judicialmente la finca hipotecada, teniendo aplicación lo prevenido en el artículo 2325;
+
 VI. Por la remisión expresa del acreedor;
+
 VII. Por la declaración de estar prescrita la acción hipotecaria.
 
 ### Artículo 2942
@@ -10784,10 +11628,15 @@ TITULO DECIMOSEXTO De las Transacciones
 
 ### Artículo 2950
 .- Será nula la transacción que verse:
+
 I. Sobre delito, dolo y culpa futuros;
+
 II. Sobre la acción civil que nazca de un delito o culpa futuros;
+
 III. Sobre sucesión futura;
+
 IV. Sobre una herencia, antes de visto el testamento, si lo hay;
+
 V. Sobre el derecho de recibir alimentos.
 
 ### Artículo 2951
@@ -10857,10 +11706,15 @@ Los pactos particulares entre el deudor y cualquiera de sus acreedores serán nu
 
 ### Artículo 2971
 .- Las únicas causas en que podrá fundarse la oposición al convenio, serán:
+
 I. Defectos en las formas prescritas para la convocación, celebración y deliberación de la junta;
+
 II. Falta de personalidad o representación en alguno de los votantes, siempre que su voto decida la mayoría en número o en cantidad;
+
 III. Inteligencias fraudulentas entre el deudor y uno o más acreedores, o de los acreedores entre sí, para votar a favor del convenio;
+
 IV. Exageración fraudulenta de créditos para procurar la mayoría de cantidad;
+
 V. La inexactitud fraudulenta en el inventario de los bienes del deudor o en los informes de los síndicos, para facilitar la admisión de las proposiciones del deudor.
 
 ### Artículo 2972
@@ -10908,9 +11762,13 @@ CAPITULO II De los Créditos Hipotecarios y Pignoraticios y de Algunos Otros Pri
 
 ### Artículo 2985
 .- Del precio de los bienes hipotecados o dados en prenda, se pagará en el orden siguiente:
+
 I. Los gastos del juicio respectivo y los que causen las ventas de esos bienes;
+
 II. Los gastos de conservación y administración de los mencionados bienes;
+
 III. La deuda de seguros de los propios bienes;
+
 IV. Los créditos hipotecarios de acuerdo con lo dispuesto en el artículo 2982, comprendiéndose en el pago los réditos de los últimos tres años, o los créditos pignoraticios, según su fecha, así como sus réditos, durante los últimos seis meses.
 
 ### Artículo 2986
@@ -10930,7 +11788,9 @@ IV. Los créditos hipotecarios de acuerdo con lo dispuesto en el artículo 2982,
 
 ### Artículo 2991
 .- El derecho reconocido en el artículo anterior no tendrá lugar:
+
 I. Si la separación de los bienes no fuere pedida dentro de tres meses, contados desde que se inició el concurso o desde la aceptación de la herencia;
+
 II. Si los acreedores hubieren hecho novación de la deuda o de cualquier otro modo hubieren aceptado la responsabilidad personal del heredero.
 
 ### Artículo 2992
@@ -10939,32 +11799,50 @@ CAPITULO III De Algunos Acreedores Preferentes sobre Determinados Bienes
 
 ### Artículo 2993
 .- Con el valor de los bienes que se mencionan serán pagados preferentemente:
+
 I. La deuda por gastos de salvamento, con el valor de la cosa salvada;
+
 II. La deuda contraída antes del concurso, expresamente para ejecutar obras de rigurosa conservación de algunos bienes, con el valor de éstos; siempre que se pruebe que la cantidad prestada se empleó en esas obras;
+
 III. Los créditos a que se refiere el artículo 2644, con el precio de la obra construida:
+
 IV. Los créditos por semillas, gastos de cultivo y recolección, con el precio de la cosecha para que sirvieron y que se halle en poder del deudor;
+
 V. El crédito por fletes, con el precio de los efectos transportados, si se encuentran en poder del acreedor;
+
 VI. El crédito por hospedaje, con el precio de los muebles del deudor que se encuentren en la casa o establecimiento donde está hospedado;
+
 VII. El crédito del arrendador, con el precio de los bienes muebles embargables que se hallen dentro de la finca arrendada o con el precio de los frutos de la cosecha respectiva si el predio fuere rústico;
+
 VIII. El crédito que provenga del precio de los bienes vendidos y no pagados, con el valor de ellos, si el acreedor hace su reclamación dentro de los sesenta días siguientes a la venta, si se hizo al contado, o del vencimiento, si la venta fue a plazo.
 Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmovilizados;
+
 IX. Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 CAPITULO IV Acreedores de Primera Clase
 
 ### Artículo 2994
 .- Pagados los acreedores mencionados en los dos capítulos anteriores y con el valor de todos los bienes que queden, se pagarán:
+
 I. Los gastos judiciales comunes, en los términos que establezca el Código de Procedimientos;
+
 II. Los gastos de rigurosa conservación y administración de los bienes concursados;
+
 III. Los gastos de funerales del deudor, proporcionados a su posición social, y también los de su mujer e hijos que estén bajo su patria potestad y no tuviesen bienes propios;
+
 IV. Los gastos de la última enfermedad de las personas mencionadas en la fracción anterior, hechos en los últimos seis meses que precedieron al día del fallecimiento:
+
 V. El crédito por alimentos fiados al deudor para su subsistencia y la de su familia, en los seis meses anteriores a la formación del concurso;
+
 VI. La responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de cosa ajena, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 CAPITULO V Acreedores de Segunda Clase
 
 ### Artículo 2995
 .- Pagados los créditos antes mencionados, se pagarán:
+
 I. Los créditos de las personas comprendidas en las fracciones II, III y IV del artículo 2935, que no hubieren exigido la hipoteca necesaria;
+
 II. Los créditos del erario que no estén comprendidos en el artículo 2980 y los créditos a que se refiere la fracción V del artículo 2935, que no hayan sido garantizadas en la forma allí prevenida;
+
 III. Los créditos de los establecimientos de beneficencia pública o privada.
 CAPITULO VI Acreedores de Tercera Clase
 
@@ -10997,10 +11875,16 @@ Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3003
 .- Los encargados y los empleados del Registro Público, además de las penas que les sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar, cuando:
+
 I. Rehúsen admitir el título, o si no practican el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 3016;
+
 II. Practiquen algún asiento indebidamente o rehúsen practicarlo sin motivo fundado;
+
 III. Retarden, sin causa justificada, la práctica del asiento a que dé lugar el documento inscribible;
-IV. Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los certificados que expidan; y V. No expidan los certificados en el término reglamentario.
+
+IV. Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los certificados que expidan; y
+
+V. No expidan los certificados en el término reglamentario.
 Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3004
@@ -11009,8 +11893,11 @@ Artículo reformado DOF 18-01-1952, 03-01-1979 CAPITULO II Disposiciones Comunes
 
 ### Artículo 3005
 .- Sólo se registrarán:
+
 I. Los testimonios de escrituras o actas notariales u otros documentos auténticos;
+
 II. Las resoluciones y providencias judiciales que consten de manera auténtica;
+
 III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el notario, el registrador, el corredor público o el Juez competente, se cercioraron de la autenticidad de las firmas y de la voluntad de las partes.
 Dicha constancia deberá estar firmada por los mencionados fedatarios y llevar impreso el sello respectivo.
 Fracción reformada DOF 07-01-1988 Artículo reformado DOF 18-01-1952, 23-12-1974, 03-01-1979
@@ -11090,12 +11977,20 @@ Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3021
 .- Los Registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
+
 I. Cuando el título presentado no sea de los que deben inscribirse o anotarse;
+
 II. Cuando el documento no revista las formas extrínsecas que establezca la Ley;
+
 III. Cuando los funcionarios ante quienes se haya otorgado o rectificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
+
 IV. Cuando el contenido del documento sea contrario a las leyes prohibitivas o de interés público;
+
 V. Cuando haya incompatibilidad entre el texto del documento y los asientos del registro;
-VI. Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 3011, cuando se den las bases para determinar el monto de la obligación garantizada; y VII. Cuando falte algún otro requisito que deba llenar el documento de acuerdo con el Código u otras leyes aplicables.
+
+VI. Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 3011, cuando se den las bases para determinar el monto de la obligación garantizada; y
+
+VII. Cuando falte algún otro requisito que deba llenar el documento de acuerdo con el Código u otras leyes aplicables.
 Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3022
@@ -11148,16 +12043,26 @@ Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3033
 .- Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
+
 I. Cuando se extinga por completo el inmueble objeto de la inscripción;
+
 II. Cuando se extinga, también por completo, el derecho inscrito o anotado;
+
 III. Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción o anotación;
+
 IV. Cuando se declare la nulidad del asiento;
-V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2325; y VI. Cuando tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que el interesado haya promovido en el juicio correspondiente.
+
+V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2325; y
+
+VI. Cuando tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que el interesado haya promovido en el juicio correspondiente.
 Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3034
 .- Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
-I. Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva; y II. Cuando se reduzca el derecho inscrito o anotado.
+
+I. Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva; y
+
+II. Cuando se reduzca el derecho inscrito o anotado.
 Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3035
@@ -11175,7 +12080,10 @@ Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3038
 .- La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, pueden hacerse.
-I. Presentándose la escritura otorgada por la que se hayan cobrado los créditos, en la cual debe constar haberse inutilizado los títulos endosables en el acto de su otorgamiento; y II. Por ofrecimiento del pago y consignación del importe de los títulos, tramitados y resueltos de acuerdo con las disposiciones legales relativas.
+
+I. Presentándose la escritura otorgada por la que se hayan cobrado los créditos, en la cual debe constar haberse inutilizado los títulos endosables en el acto de su otorgamiento; y
+
+II. Por ofrecimiento del pago y consignación del importe de los títulos, tramitados y resueltos de acuerdo con las disposiciones legales relativas.
 Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3039
@@ -11193,21 +12101,37 @@ Artículo reformado DOF 18-01-1952, 03-01-1979 CAPITULO III Del Registro de la P
 
 ### Artículo 3042
 .- En el Registro Público de la Propiedad Inmueble se inscribirán:
-Párrafo reformado DOF 07-02-1985. Fe de erratas DOF 29-03-1985 I. Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
+Párrafo reformado DOF 07-02-1985. Fe de erratas DOF 29-03-1985
+
+I. Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
+
 II. La constitución del patrimonio familiar;
-III. Los contratos de arrendamiento de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años; y IV. Los demás títulos que la ley ordene expresamente que sean registrados.
+
+III. Los contratos de arrendamiento de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años; y
+
+IV. Los demás títulos que la ley ordene expresamente que sean registrados.
 Reforma DOF 21-07-1993: Derogó del artículo el entonces párrafo segundo (antes adicionado DOF 07-02-1985 y fe de erratas DOF 29-03-1985) Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3043
 .- Se anotarán previamente en el Registro Público:
+
 I. Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos;
+
 II. El mandamiento y el acta de embargo, que se haya hecho efectivo en bienes inmuebles del deudor;
+
 III. Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
+
 IV. Las providencias judiciales que ordenen el secuestro o prohíban la enajenación de bienes inmuebles o derechos reales;
+
 V. Los títulos presentados al Registro Público y cuya inscripción haya sido denegada o suspendida por el Registrador;
+
 VI. Las fianzas legales o judiciales, de acuerdo con lo establecido en el artículo 2852;
+
 VII. El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio, de bienes inmuebles;
-VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público; y IX. Cualquier otro título que sea anotable, de acuerdo con este Código u otras Leyes.
+
+VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público; y
+
+IX. Cualquier otro título que sea anotable, de acuerdo con este Código u otras Leyes.
 Artículo reformado DOF 18-01-1952, 03-01-1979 DE LOS EFECTOS DE LAS ANOTACIONES Epígrafe adicionado DOF 18-01-1952. Reformado DOF 03-01-1979
 
 ### Artículo 3044
@@ -11224,8 +12148,24 @@ Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979 DE LA INMATRICULAC
 .- La inmatriculación es la inscripción de la propiedad o posesión de un inmueble en el Registro Público de la Propiedad, que carece de antecedentes registrales. Para cualquiera de los procedimientos de inmatriculación a que se refieren los artículos siguientes, es requisito previo que el Registro Público emita un certificado que acredite que el bien de que se trate no está inscrito, en los términos que se precisen en las disposiciones administrativas que para el efecto se expidan.
 El Director del Registro Público podrá allegarse información de otras autoridades administrativas.
 El interesado en la inmatriculación de la propiedad o posesión de un inmueble podrá optar por obtenerla mediante resolución judicial o mediante resolución administrativa, en los términos de las disposiciones siguientes:
-I. La inmatriculación por resolución judicial se obtiene: a) Mediante información de dominio, y b) Mediante información posesoria.
-II. La inmatriculación por resolución administrativa se obtiene: a) Mediante la inscripción del decreto por el que se incorpora al dominio público federal o local un inmueble; b) Mediante la inscripción del decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese decreto; c) Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble, en los términos del artículo 3051 de este Código; d) Mediante la inscripción de la propiedad de un inmueble adquirido por prescripción positiva, en los términos del artículo 3052 del presente Código, y e) Mediante la inscripción de la posesión de buena fe de un inmueble, que reúna los requisitos de aptitud para prescribir, en los términos del artículo 3053 de este Código.
+
+I. La inmatriculación por resolución judicial se obtiene:
+
+a) Mediante información de dominio, y
+
+b) Mediante información posesoria.
+
+II. La inmatriculación por resolución administrativa se obtiene:
+
+a) Mediante la inscripción del decreto por el que se incorpora al dominio público federal o local un inmueble;
+
+b) Mediante la inscripción del decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese decreto;
+
+c) Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble, en los términos del artículo 3051 de este Código;
+
+d) Mediante la inscripción de la propiedad de un inmueble adquirido por prescripción positiva, en los términos del artículo 3052 del presente Código, y
+
+e) Mediante la inscripción de la posesión de buena fe de un inmueble, que reúna los requisitos de aptitud para prescribir, en los términos del artículo 3053 de este Código.
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988 Inmatriculación por Resolución Judicial Epígrafe adicionado DOF 07-01-1988
 
 ### Artículo 3047
@@ -11255,19 +12195,50 @@ Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988
 
 ### Artículo 3051
 .- Quien se encuentre en el caso previsto por el inciso c) de la fracción II del artículo 3046, podrá ocurrir directamente ante el Registro Público de la Propiedad para solicitar la inmatriculación, la cual será ordenada si se satisfacen los siguientes requisitos:
+
 I. Que acredite la propiedad del inmueble mediante un título fehaciente y suficiente para adquirirla;
+
 II. Que acredite que su título tiene un antigüedad mayor de cinco años anteriores a la fecha de su solicitud, o que exhiba el o los títulos de sus causantes con la antigüedad citada, títulos que deberán ser fehacientes y suficientes para adquirir la propiedad;
-III. Que manifieste bajo protesta de decir verdad si esta poseyendo el predio o el nombre del poseedor en su caso; y IV. Que acompañe las constancias relativas al estado catastral y predial del inmueble, si las hubiere.
+
+III. Que manifieste bajo protesta de decir verdad si esta poseyendo el predio o el nombre del poseedor en su caso; y
+
+IV. Que acompañe las constancias relativas al estado catastral y predial del inmueble, si las hubiere.
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988
 
 ### Artículo 3052
 .- Quien se encuentre en el caso del inciso d), de la fracción II del artículo 3046, podrá ocurrir directamente ante el Registro Público de la Propiedad para acreditar que ha operado la prescripción conforme al siguiente procedimiento:
-I. El interesado presentará solicitud que exprese: a) Su nombre completo y domicilio; b) La ubicación precisa del bien, su superficie, colindancias y medidas; c) La fecha y causa de su posesión, que consiste en el hecho o acto generador de la misma; d) Que la posesión que invoca es de buena fe; e) El nombre y domicilio de la persona de quien la obtuvo el peticionario, en su caso, y los del causante de aquella si fuere conocido; y f) El nombre y domicilio de los colindantes.
-II. A la solicitud a que se refiere la fracción anterior, el interesado deberá acompañar: a) El documento con el que se acredita el origen de la posesión, si tal documento existe; b) Un plano autorizado por ingeniero titulado en el que se identifique en forma indubitable el inmueble; y c) Constancias relativas al estado catastral y predial del inmueble, si existieren.
+
+I. El interesado presentará solicitud que exprese:
+
+a) Su nombre completo y domicilio;
+
+b) La ubicación precisa del bien, su superficie, colindancias y medidas;
+
+c) La fecha y causa de su posesión, que consiste en el hecho o acto generador de la misma;
+
+d) Que la posesión que invoca es de buena fe;
+
+e) El nombre y domicilio de la persona de quien la obtuvo el peticionario, en su caso, y los del causante de aquella si fuere conocido; y
+
+f) El nombre y domicilio de los colindantes.
+
+II. A la solicitud a que se refiere la fracción anterior, el interesado deberá acompañar:
+
+a) El documento con el que se acredita el origen de la posesión, si tal documento existe;
+
+b) Un plano autorizado por ingeniero titulado en el que se identifique en forma indubitable el inmueble; y
+
+c) Constancias relativas al estado catastral y predial del inmueble, si existieren.
+
 III. Recibida la solicitud el Director del Registro Público de la Propiedad la hará del conocimiento, por correo certificado y con acuse de recibo, de la persona de quien se obtuvo la posesión y de su causante, si fuere conocido, así como de los colindantes, señalándoles un plazo de nueve días hábiles para que manifiesten lo que a sus derechos convenga.
-El Director del Registro Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en la Gaceta Oficial del Gobierno del Distrito Federal, y en un periódico de los de mayor circulación, si se tratare de bienes inmuebles urbanos. Si los predios fueren rústicos, se publicarán además por una sola vez en el Diario Oficial de la Federación: (sic DOF 09-04-2012) Párrafo reformado DOF 09-04-2012 IV. Si existiere oposición de las personas mencionadas en la fracción anterior, el Director del Registro Público dará por terminado el procedimiento, a efecto de que la controversia sea resuelta por el Juez competente;
+El Director del Registro Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en la Gaceta Oficial del Gobierno del Distrito Federal, y en un periódico de los de mayor circulación, si se tratare de bienes inmuebles urbanos. Si los predios fueren rústicos, se publicarán además por una sola vez en el Diario Oficial de la Federación: (sic DOF 09-04-2012) Párrafo reformado DOF 09-04-2012
+
+IV. Si existiere oposición de las personas mencionadas en la fracción anterior, el Director del Registro Público dará por terminado el procedimiento, a efecto de que la controversia sea resuelta por el Juez competente;
+
 V. Si no existiere oposición, el Director del Registro Público señalará día y hora para una audiencia, en la cual el solicitante deberá probar su posesión, en concepto de propietario y por el tiempo exigido por este Código para prescribir, por medios que le produzcan convicción, entre los cuales será indispensable el testimonio de tres testigos que sean vecinos del inmueble cuya inmatriculación se solicita.
-El Director del Registro Público podrá ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho; y VI. La resolución administrativa del Director del Registro Público de la Propiedad será dictada dentro de los ocho días siguientes a la celebración de la audiencia a que se refiere la fracción anterior, concediendo o denegando la inmatriculación y declarando en el primer caso que el poseedor ha hecho constar los antecedentes y circunstancias que conforme a éste Código se requieren para adquirir por virtud de la prescripción; dicha resolución deberá expresar los fundamentos en que se apoya.
+El Director del Registro Público podrá ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho; y
+
+VI. La resolución administrativa del Director del Registro Público de la Propiedad será dictada dentro de los ocho días siguientes a la celebración de la audiencia a que se refiere la fracción anterior, concediendo o denegando la inmatriculación y declarando en el primer caso que el poseedor ha hecho constar los antecedentes y circunstancias que conforme a éste Código se requieren para adquirir por virtud de la prescripción; dicha resolución deberá expresar los fundamentos en que se apoya.
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988
 
 ### Artículo 3053
@@ -11302,20 +12273,34 @@ Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979
 
 ### Artículo 3060
 .- Los asientos y notas de presentación expresarán:
+
 I. La fecha y número de entrada;
+
 II. La naturaleza del documento y el funcionario que lo haya autorizado;
+
 III. La naturaleza del acto o negocio de que se trate;
-IV. Los bienes o derechos objeto del título presentado, expresando su cuantía, si constare; y V. Los nombres y apellidos de los interesados.
+
+IV. Los bienes o derechos objeto del título presentado, expresando su cuantía, si constare; y
+
+V. Los nombres y apellidos de los interesados.
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979
 
 ### Artículo 3061
 .- Los asientos de inscripción deberán expresar las circunstancias siguientes:
+
 I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior y las catastrales que prevenga el reglamento;
+
 II. La naturaleza, extensión y condiciones del derecho de que se trate;
+
 III. El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deban expresarse en el título.
+
 IV. Tratándose de hipotecas, la obligación garantizada; la época en que podrá exigirse su cumplimiento; el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado; y los réditos, si se causaren, y la fecha desde que deba correr;
+
 V. Los nombres de las personas físicas o morales a cuyo favor se haga la inscripción y de aquellas de quienes procedan inmediatamente los bienes. Cuando el título exprese nacionalidad, lugar de origen, edad, estado civil, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción.
-VI. La naturaleza del hecho o negocio jurídico; y VII. La fecha del título, número si lo tuviere, y el funcionario que lo haya autorizado.
+
+VI. La naturaleza del hecho o negocio jurídico; y
+
+VII. La fecha del título, número si lo tuviere, y el funcionario que lo haya autorizado.
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979
 
 ### Artículo 3062
@@ -11326,10 +12311,16 @@ Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979
 
 ### Artículo 3063
 .- Los asientos de cancelación de una inscripción o anotación preventiva, expresarán:
+
 I. La clase de documento en virtud del cual se practique la cancelación, su fecha y número si lo tuviere y el funcionario que lo autorice.
+
 II. La causa por la que se hace la cancelación;
+
 III. El nombre y apellidos de la persona a cuya instancia o con cuyo consentimiento se verifique la cancelación;
-IV. La expresión de quedar cancelado total o parcialmente el asiento de que se trate; y V. Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca el derecho y la que subsista.
+
+IV. La expresión de quedar cancelado total o parcialmente el asiento de que se trate; y
+
+V. Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca el derecho y la que subsista.
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979
 
 ### Artículo 3064
@@ -11355,33 +12346,54 @@ Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979 CAPITULO IV Del Re
 
 ### Artículo 3069
 .- Se inscribirán en los folios de operaciones sobre bienes muebles:
+
 I. Los contratos de compraventa de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2310;
-II. Los contratos de compraventa de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2312; y III. Los contratos de prenda que menciona el artículo 2859.
+
+II. Los contratos de compraventa de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2312; y
+
+III. Los contratos de prenda que menciona el artículo 2859.
 Artículo adicionado DOF 03-01-1979
 
 ### Artículo 3070
 .- Toda inscripción que se haga en los folios de bienes muebles deberá expresar los datos siguientes:
+
 I. Los nombres de los contratantes;
+
 II. La naturaleza del mueble con la característica o señales que sirvan para identificarlo de manera indubitable;
+
 III. El precio y forma de pago estipulados en el contrato, y, en su caso, el importe del crédito garantizado con la prenda;
+
 IV. La fecha en que se practique y la firma del registrador.
 Artículo adicionado DOF 03-01-1979 CAPITULO V Del Registro de Personas Morales Capítulo reformado y reubicado DOF 18-01-1952. Reformado y reubicado DOF 03-01-1979
 
 ### Artículo 3071
 .- En los folios de las personas morales se inscribirán:
+
 I. Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
-II. Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, previa autorización en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera; y Fracción reformada DOF 24-12-1996 III. Las fundaciones y asociaciones de beneficiencia privada.
+
+II. Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, previa autorización en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera; y Fracción reformada DOF 24-12-1996
+
+III. Las fundaciones y asociaciones de beneficiencia privada.
 Artículo adicionado DOF 03-01-1979
 
 ### Artículo 3072
 .- Las inscripciones referentes a la constitución de personas morales, deberán contener los datos siguientes:
+
 I. El nombre de los otorgantes;
+
 II. La razón social o denominación;
+
 III. El objeto, duración y domicilio;
+
 IV. El capital social, si lo hubiere y la aportación con que cada socio deba contribuir;
+
 V. La manera de distribuirse las utilidades y pérdidas, en su caso;
+
 VI. El nombre de los administradores y las facultades que se les otorguen;
-VII. El carácter de los socios y su responsabilidad ilimitada cuando la tuvieren; y VIII. La fecha y la firma del registrador.
+
+VII. El carácter de los socios y su responsabilidad ilimitada cuando la tuvieren; y
+
+VIII. La fecha y la firma del registrador.
 Artículo adicionado DOF 03-01-1979
 
 ### Artículo 3073

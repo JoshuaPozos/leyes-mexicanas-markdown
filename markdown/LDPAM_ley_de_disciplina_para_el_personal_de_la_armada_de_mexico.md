@@ -21,8 +21,11 @@ LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MEXICO CAPITULO I Disposicion
 
 ### Artículo 4
 .- Para efectos de esta Ley:
+
 I. Deber es el conjunto de obligaciones que el servicio impone al personal de la Armada en virtud de la jerarquía que ostente o del cargo o comisión que desempeñe, y su cumplimiento es el medio por el cual se obtiene la disciplina.
-El personal naval cumplirá con dignidad su deber y evitará, en el ejercicio del mando, que se actúe con despreocupación y tibieza o en pugna con el verdadero espíritu de la profesión que supone lealtad, obediencia, valor, audacia, desinterés y abnegación, y II. Actos del servicio son los que ejecuta el personal naval, aislada o colectivamente, en cumplimiento de órdenes que recibe o en el desempeño de las funciones que le competen según su jerarquía, cargo o comisión, de acuerdo con las leyes, reglamentos y disposiciones de la Armada.
+El personal naval cumplirá con dignidad su deber y evitará, en el ejercicio del mando, que se actúe con despreocupación y tibieza o en pugna con el verdadero espíritu de la profesión que supone lealtad, obediencia, valor, audacia, desinterés y abnegación, y
+
+II. Actos del servicio son los que ejecuta el personal naval, aislada o colectivamente, en cumplimiento de órdenes que recibe o en el desempeño de las funciones que le competen según su jerarquía, cargo o comisión, de acuerdo con las leyes, reglamentos y disposiciones de la Armada.
 
 ### Artículo 5
 .- El servicio de la Armada exige que el personal naval cumpla con su deber en defensa de la soberanía del Estado, de las instituciones y del prestigio e imagen pública de la Armada de México.
@@ -32,12 +35,19 @@ El personal naval cumplirá con dignidad su deber y evitará, en el ejercicio de
 
 ### Artículo 7
 .- Todo el personal de la Armada será responsable del mantenimiento de la disciplina en proporción a su jerarquía, cargo o comisión, considerando lo siguiente:
-I. La jerarquía define los deberes que le corresponde para el desempeño de los diferentes servicios y comisiones que les sean asignados en las unidades y establecimientos navales, y II. Los cargos o comisiones que le sean encomendados por los mandos facultados le exige e impone el cumplimiento de los deberes y funciones que establece el reglamento de la presente Ley, los manuales de organización, procedimientos sistemáticos de operación y demás disposiciones aplicables.
+
+I. La jerarquía define los deberes que le corresponde para el desempeño de los diferentes servicios y comisiones que les sean asignados en las unidades y establecimientos navales, y
+
+II. Los cargos o comisiones que le sean encomendados por los mandos facultados le exige e impone el cumplimiento de los deberes y funciones que establece el reglamento de la presente Ley, los manuales de organización, procedimientos sistemáticos de operación y demás disposiciones aplicables.
 
 ### Artículo 8
 .- El mantenimiento de la disciplina naval será firme y razonado, y serán sancionados:
+
 I. Todo rigor innecesario y la imposición de sanción no determinada por las leyes o reglamentos;
-II. Las exigencias que sobrepasen las necesidades o conveniencias del servicio, y III. En general, todo lo que constituya una extralimitación por parte del superior hacia sus subalternos.
+
+II. Las exigencias que sobrepasen las necesidades o conveniencias del servicio, y
+
+III. En general, todo lo que constituya una extralimitación por parte del superior hacia sus subalternos.
 CAPITULO II Deberes de los Marinos Militares
 
 ### Artículo 9
@@ -134,24 +144,43 @@ Todo el que ejerza el mando o cargo tiene la obligación de reprimir tales actos
 
 ### Artículo 36
 .- El personal naval podrá:
+
 I. Expresar sus ideas siempre que no se trate de asuntos que afecten la disciplina, los derechos de terceros o que tengan relación con las actividades clasificadas de la Armada;
+
 II. Presentar quejas respecto de sus superiores ante quien pueda remediarlas;
-III. Asistir uniformado a los templos o lugares donde se practiquen ceremonias religiosas con la autorización del mando de quien dependan, y IV. Participar uniformado, previa autorización del mando de quien dependan, en eventos culturales y deportivos.
+
+III. Asistir uniformado a los templos o lugares donde se practiquen ceremonias religiosas con la autorización del mando de quien dependan, y
+
+IV. Participar uniformado, previa autorización del mando de quien dependan, en eventos culturales y deportivos.
 
 ### Artículo 37
 .- El personal de la Armada tiene prohibido:
+
 I. Murmurar en contra de las órdenes superiores y orientaciones del mando supremo, pudiendo pedir su baja del servicio cuando no esté conforme con ellas;
+
 II. Realizar actividades de proselitismo político o religioso en las unidades y establecimientos de la Armada o en actos del servicio;
+
 III. Proporcionar información sobre material clasificado de la Armada;
+
 IV. Distraerse de los deberes que le imponga su jerarquía, mando, cargo o comisión, sin permiso de su inmediato superior, a menos que concurran circunstancias extraordinarias o no previstas en esta Ley, en cuyo caso obrará bajo su exclusiva responsabilidad;
+
 V. Dar crédito a denuncias o quejas anónimas, cualesquiera que ellas sean;
+
 VI. Cursar uno o más anónimos. Quien sea identificado, será sancionado conforme a la legislación penal militar;
+
 VII. Hacer presión para conseguir de otro miembro de la Armada, cualquiera que fuere su sexo, determinadas concesiones o favores;
+
 VIII. Solicitar a la superioridad el cambio de adscripción de un subalterno por medios que no estén previstos por la ley o los reglamentos;
+
 IX. Entrar en cantinas, garitos o sitios de prostitución, portando uniforme;
+
 X. Participar uniformado en marchas, espectáculos o representaciones;
+
 XI. Mezclar las prendas de los diferentes uniformes entre sí o con las de paisano;
-XII. Aceptar todo compromiso que implique deshonor, falta de disciplina o menoscabo de la reputación de la Institución, y XIII. Empeñar su palabra de honor, cuando no tengan la seguridad de poder cumplirla.
+
+XII. Aceptar todo compromiso que implique deshonor, falta de disciplina o menoscabo de la reputación de la Institución, y
+
+XIII. Empeñar su palabra de honor, cuando no tengan la seguridad de poder cumplirla.
 CAPITULO IV De los Estímulos
 
 ### Artículo 38
@@ -159,8 +188,12 @@ CAPITULO IV De los Estímulos
 
 ### Artículo 39
 .- Las condiciones que se deben tomar en cuenta para otorgar un estímulo serán, entre otras:
+
 I. Las actuaciones meritorias en el desempeño de sus comisiones;
-II. Las circunstancias relacionadas con sus actuaciones, y III. Las consecuencias benéficas para su unidad o establecimiento, o para la Armada.
+
+II. Las circunstancias relacionadas con sus actuaciones, y
+
+III. Las consecuencias benéficas para su unidad o establecimiento, o para la Armada.
 
 ### Artículo 40
 .- Los estímulos podrán ser concedidos a todo el personal naval que lo amerite a juicio de sus mandos, quienes serán los facultados para evaluar las acciones realizadas por sus subalternos.
@@ -182,17 +215,29 @@ Tiene como finalidad corregir las conductas contrarias a la disciplina naval y e
 
 ### Artículo 45
 .- Son infracciones a esta Ley y se sancionarán disciplinariamente según la gravedad de la causa, las faltas siguientes:
+
 I. Las conductas que afecten a la disciplina, al prestigio e imagen pública de la Armada;
+
 II. El incumplimiento a las obligaciones y deberes, así como las conductas inadecuadas y las que, en general, afecten negativamente a la unidad, establecimiento o a la Armada;
+
 III. Elevar quejas infundadas, hacer públicas falsas imputaciones o cometer indiscreciones en asuntos del servicio, así como expresarse mal de sus superiores;
+
 IV. El uso de drogas o psicotrópicos, siempre y cuando no sea por prescripción médica;
+
 V. La ingesta de bebidas alcohólicas en detrimento del servicio;
+
 VI. La práctica de juegos prohibidos por la ley;
-VII. Las infracciones a los reglamentos o bandos de policía y buen gobierno, y VIII. La negligencia profesional no delictuosa.
+
+VII. Las infracciones a los reglamentos o bandos de policía y buen gobierno, y
+
+VIII. La negligencia profesional no delictuosa.
 
 ### Artículo 46
 .- Las faltas a la disciplina naval contempladas en el artículo anterior y las que deriven de éstas, se clasificarán en:
-I. Faltas Leves, y II. Faltas Graves.
+
+I. Faltas Leves, y
+
+II. Faltas Graves.
 El Alto Mando expedirá un catálogo en el que se establecerán las faltas que correspondan a cada clasificación. Este catálogo, así como los criterios para graduar las faltas y para calificarlas, se regirán por esta Ley y su reglamento.
 
 ### Artículo 47
@@ -205,16 +250,27 @@ La sanción a estas faltas será competencia de los organismos disciplinarios.
 
 ### Artículo 49
 .- Tienen facultad para imponer correctivos disciplinarios:
+
 I. El personal, desde almirantes hasta cabos, a los individuos de menor jerarquía;
-II. Los mandos y el personal en razón de su cargo o comisión, a sus subalternos y a los de su misma jerarquía cuando les estén subordinados, y III. Los organismos disciplinarios.
+
+II. Los mandos y el personal en razón de su cargo o comisión, a sus subalternos y a los de su misma jerarquía cuando les estén subordinados, y
+
+III. Los organismos disciplinarios.
 
 ### Artículo 50
 .- Los correctivos disciplinarios son:
+
 I. Amonestación;
+
 II. Arresto;
+
 III. Cambio de adscripción en observación de su conducta a una comisión subalterna;
+
 IV. Suspensión de los derechos escalafonarios para fines de promoción, hasta por un año;
-V. Pase a disposición en espera de órdenes por un periodo no mayor a un año. El personal en esta situación no será propuesto para ascenso, y VI. Baja del Servicio Activo.
+
+V. Pase a disposición en espera de órdenes por un periodo no mayor a un año. El personal en esta situación no será propuesto para ascenso, y
+
+VI. Baja del Servicio Activo.
 
 ### Artículo 51
 .- Respecto al artículo anterior, los titulares de las unidades y establecimientos de la Armada y de la jerarquía, tienen competencia únicamente para imponer los correctivos disciplinarios establecidos en las fracciones I y II, mientras que los organismos disciplinarios tienen competencia para imponer los correctivos disciplinarios establecidos en las fracciones I a la V. El correctivo establecido en la fracción VI se impondrá conforme lo previsto en el artículo 63 de esta Ley.
@@ -232,18 +288,30 @@ Tratándose de arrestos impuestos a personal con categoría de almirante y a los
 
 ### Artículo 54
 .- Tienen facultad para graduar los arrestos:
+
 I. El Mando Supremo y el Alto Mando;
+
 II. El Subsecretario, Oficial Mayor, Inspector y Contralor General de la Secretaría de Marina, y el Jefe del Estado Mayor General de la Armada;
+
 III. Los mandos superiores en jefe, mandos superiores y mandos subordinados;
+
 IV. Los jefes de unidades, directores generales y directores de establecimientos;
-V. Los presidentes de organismos disciplinarios, y VI. Los almirantes, capitanes y oficiales expresamente designados por el Mando respectivo.
+
+V. Los presidentes de organismos disciplinarios, y
+
+VI. Los almirantes, capitanes y oficiales expresamente designados por el Mando respectivo.
 
 ### Artículo 55
 .- El Alto Mando tendrá facultad para imponer y graduar arrestos hasta por ocho días, y los organismos disciplinarios hasta por quince días en prisión.
 Salvo los casos anteriores, la máxima graduación de los arrestos de acuerdo con la jerarquía del infractor, será la siguiente:
+
 I. A los almirantes hasta por veinticuatro horas;
+
 II. A los capitanes hasta por cuarenta y ocho horas;
-III. A los oficiales hasta por noventa y seis horas, y IV. A las clases y marinería hasta por ocho días.
+
+III. A los oficiales hasta por noventa y seis horas, y
+
+IV. A las clases y marinería hasta por ocho días.
 
 ### Artículo 56
 .- El Inspector y Contralor General de Marina podrá imponer y graduar los arrestos que procedan por responsabilidades del personal naval, como resultado de las inspecciones y auditorías.
@@ -269,7 +337,10 @@ Asimismo, podrá recomendar a los titulares de las unidades y establecimientos d
 
 ### Artículo 63
 .- La Baja del Servicio Activo consiste en la separación definitiva del mismo con la pérdida total de los derechos que corresponden a la jerarquía del infractor y a su tiempo de servicios. Este correctivo será aplicado:
-I. En el caso del personal de la milicia auxiliar, tanto por los organismos disciplinarios como por los órganos jurisdiccionales, y II. En el caso del personal de la milicia permanente, sólo será aplicada por órganos jurisdiccionales.
+
+I. En el caso del personal de la milicia auxiliar, tanto por los organismos disciplinarios como por los órganos jurisdiccionales, y
+
+II. En el caso del personal de la milicia permanente, sólo será aplicada por órganos jurisdiccionales.
 
 ### Artículo 64
 .- Los marinos militares podrán inconformarse respecto a la imposición de los diversos correctivos disciplinarios. El superior autorizado para graduarlo escuchará por separado a ambas partes a fin de evaluar las pruebas y argumentos que pudieran presentarle para decidir si le asiste o no la razón.
@@ -301,35 +372,60 @@ Sección Tercera De las Circunstancias Atenuantes
 
 ### Artículo 72
 .- Son circunstancias atenuantes para la graduación de arrestos las siguientes:
+
 I. Haber cometido la falta influido por algún superior;
+
 II. Haberse distinguido por sus servicios o comportamiento dentro de la Armada;
+
 III. Tener antecedentes de escasa o nula incidencia de faltas cometidas;
+
 IV. Aceptar espontáneamente la responsabilidad de la falta y manifestar la voluntad de no volverla a cometer;
+
 V. Cometer la falta impulsado por un manifiesto deseo de cumplir con sus obligaciones;
-VI. Tomar por sí mismo la iniciativa de implementar las acciones para reparar las consecuencias de la falta, y VII. Cualquier otra circunstancia que a juicio del superior disminuya la gravedad de la falta o haga presumir la no intencionalidad del infractor.
+
+VI. Tomar por sí mismo la iniciativa de implementar las acciones para reparar las consecuencias de la falta, y
+
+VII. Cualquier otra circunstancia que a juicio del superior disminuya la gravedad de la falta o haga presumir la no intencionalidad del infractor.
 
 ## Sección Cuarta
 De las Circunstancias Agravantes
 
 ### Artículo 73
 .- Son circunstancias agravantes para la graduación de arrestos:
+
 I. Encontrarse desempeñando actividades dentro de su unidad o establecimiento bajo el influjo de substancias psicotrópicas, en el momento de cometer la falta;
+
 II. En la comisión de la falta, abusar de la confianza que le haya depositado el superior;
+
 III. Cometer la falta en presencia de personal subalterno, constituyéndose en mal ejemplo para ellos;
+
 IV. La reincidencia en la comisión de la falta;
+
 V. Tratar de evadir la responsabilidad en que se incurrió, involucrando a otro personal de la Armada;
+
 VI. Tratar de ocultar las pruebas de la falta o de los resultados de la misma;
+
 VII. Hacerse cómplice de algún subalterno para la comisión de la falta;
+
 VIII. Tratar de ocultar las consecuencias de la falta, mediante la comisión de una nueva;
+
 IX. Que la falta cometida transgreda al mismo tiempo varios ordenamientos;
+
 X. Infringir un ordenamiento en presencia de personal extraño a la Armada;
-XI. Abusar de la jerarquía o del cargo que se desempeña para cometer la falta, y XII. Otras circunstancias que a juicio del mando correspondiente, aumenten la gravedad de la falta.
+
+XI. Abusar de la jerarquía o del cargo que se desempeña para cometer la falta, y
+
+XII. Otras circunstancias que a juicio del mando correspondiente, aumenten la gravedad de la falta.
 CAPITULO VI Organismos Disciplinarios
 
 ### Artículo 74
 .- Los organismos disciplinarios que conocen de las faltas graves, son los siguientes:
+
 I. El Consejo de Honor Ordinario, que conocerá de las faltas graves que cometan los oficiales sin mando, clases y marinería; este Consejo funcionará en unidades y establecimientos con mando subordinado, mando superior y mando superior en jefe;
-II. El Consejo de Honor Superior, que conocerá de las faltas graves que cometan los capitanes sin mando en cualquier situación que se encuentren, así como en las que incurran los oficiales con mando y los miembros del Consejo de Honor Ordinario, y III. La Junta de Almirantes, que conocerá de las faltas graves que cometan los almirantes en cualquier situación en que se encuentren, los capitanes con mando y los miembros de los Consejos de Honor Superior.
+
+II. El Consejo de Honor Superior, que conocerá de las faltas graves que cometan los capitanes sin mando en cualquier situación que se encuentren, así como en las que incurran los oficiales con mando y los miembros del Consejo de Honor Ordinario, y
+
+III. La Junta de Almirantes, que conocerá de las faltas graves que cometan los almirantes en cualquier situación en que se encuentren, los capitanes con mando y los miembros de los Consejos de Honor Superior.
 El Consejo de Honor Superior funcionará en las unidades con mando superior en jefe; en tanto que, la Junta de Almirantes lo hará en la sede del Alto Mando.
 
 ### Artículo 75

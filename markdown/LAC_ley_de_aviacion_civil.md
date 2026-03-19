@@ -19,51 +19,94 @@ El espacio aéreo situado sobre el territorio nacional es una vía general de co
 
 ### Artículo 2
 . Para los efectos de esta Ley, se entiende por:
+
 I. Actos de interferencia ilícita: Actos, o tentativas, destinados a comprometer la seguridad de la aviación civil;
+
 II. Aeronave: Toda máquina que puede sustentarse en la atmósfera por reacciones del aire que no sean las de esta contra la superficie de la tierra;
 II Bis. Aeronave agrícola: La empleada exclusivamente para la fumigación de campos y cultivos del sector primario, con el fin de realizar el control de plagas y enfermedades del sector agropecuario;
+
 III. Aeródromo civil: Área definida de tierra o de agua adecuada para el despegue, aterrizaje, acuatizaje o movimiento de aeronaves, con instalaciones o servicios mínimos para garantizar la seguridad de su operación;
 III Bis. Aeródromo temporal: Área definida de tierra, adecuada para el despegue y aterrizaje de aeronaves agrícolas que realizan labores de fumigación agrícola y aquellas aeronaves autorizadas por la Agencia Federal de Aviación Civil;
+
 IV. Aeromodelo: Aeronave no tripulada, manejada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;
+
 V. Aeronave Autónoma: Aeronave no tripulada que opera sin la intervención de piloto en la gestión del vuelo;
 V Bis. Aeronave Pilotada a Distancia para uso agrícola: Aeronave no tripulada que es pilotada desde una estación de pilotaje a distancia autorizada;
+
 VI. Aeronave no Tripulada: Aeronave destinada a volar sin piloto a bordo;
+
 VII. Aeropuerto: Aeródromo civil de servicio público con instalaciones y servicios adecuados para la recepción y despacho de aeronaves, pasajeros, carga y correo del servicio de transporte aéreo regular y no regular, así como de servicios aéreos a terceros y operaciones de aeronaves para uso particular;
+
 VIII. Aerovía: Ruta aérea dotada de radioayudas para la navegación;
+
 IX. Agencia Federal de Aviación Civil: Órgano administrativo desconcentrado de la Secretaría de Infraestructura, Comunicaciones y Transportes, con autonomía técnica, operativa y administrativa, Autoridad de Aviación Civil del Estado mexicano;
+
 X. Autoridad de Aviación Civil Extranjera: Autoridad rectora de un país extranjero, en materia de aviación civil;
+
 XI. Boleto: Documento por medios físicos o electrónicos, que contiene el contrato de transporte aéreo, nacional o internacional, realizado entre la persona concesionaria, asignataria o permisionaria y la persona pasajera para efectuar el servicio de transporte.
 El monto total del boleto incluye el precio del transporte, tarifas, impuestos, comisiones, y cualquier otro cargo cubierto por la persona pasajera, y sirve para el cálculo de las compensaciones e indemnizaciones que correspondan;
+
 XII. Cabotaje: Transporte aéreo mediante remuneración o cualquier otro tipo de contraprestación onerosa, de las personas pasajeras, carga, correo o una combinación de estos, entre dos o más puntos en territorio nacional;
+
 XIII. Certificado de aeronavegabilidad: Documento oficial que acredita que la aeronave está en condiciones técnicas satisfactorias para realizar operaciones de vuelo;
+
 XIV. Certificado de Explotador de Servicios Aéreos: Documento oficial por el que se autoriza a una concesionaria, asignataria o permisionaria a realizar determinadas operaciones de transporte aéreo comercial, que incluye las especificaciones de operación, conocido como "AOC" por las siglas en inglés de Air Operator's Certificate;
+
 XV. Certificado de matrícula: Documento que identifica y determina la nacionalidad de la aeronave;
+
 XVI. Comisión Investigadora y Dictaminadora de Accidentes Aéreos: Instancia integrada por la Secretaria y por expertos en la materia aeronáutica, investigadores y dictaminadores de accidentes aéreos, encargada de identificar la causa probable del accidente, elaborar y presentar los informes preliminar y final a la Secretaria, y hacer recomendaciones de carácter preventivo a la Agencia Federal de Aviación Civil, a toda persona concesionaria, asignataria, permisionaria, operadora aérea, a los prestadores de servicios a la navegación en el espacio aéreo mexicano, y demás prestadores de servicios;
+
 XVII. Datos sobre seguridad operacional: Conjunto definido de hechos o valores de seguridad operacional de diversas fuentes relacionadas con la aviación, y que se utilizan para mantener o mejorar la seguridad operacional;
+
 XVIII. Disposiciones técnico-administrativas: Circulares técnicas de carácter obligatorio, emitidas por la Secretaría o la Agencia Federal de Aviación Civil de conformidad con los artículos 6 y 6 Bis de esta Ley, respectivamente; las cuales regulan la operación, certificación de aeronaves, sistemas, equipos, licencias, certificados, aeropuertos, servicios de tránsito aéreo, búsqueda y salvamento e investigación de accidentes e incidentes y procedimientos que se difunden en la Publicación de Información Aeronáutica de México y se publican en el Diario Oficial de la Federación;
+
 XIX. Fatiga: Estado fisiológico que se caracteriza por una reducción de la capacidad de desempeño mental o físico debido a la falta de sueño o a periodos prolongados de vigilia, fase circadiana, o de trabajo (actividad mental y física) y que puede menoscabar el estado de alerta de una persona y su capacidad para desempeñar sus funciones relacionadas con la seguridad operacional;
+
 XX. Helipuerto: Aeródromo civil para el uso exclusivo de helicópteros;
+
 XXI. Información sobre seguridad operacional: Datos sobre seguridad operacional procesados, organizados o analizados en un determinado contexto a fin de que sean de utilidad para fines de gestión de la seguridad operacional;
+
 XXII. Institución educativa: Centro de formación, capacitación y adiestramiento, autorizado por la Agencia Federal de Aviación Civil, para la impartición de cursos o carreras, necesarios para adquirir o actualizar los conocimientos y habilidades requeridos para obtener, revalidar, convalidar y recuperar las licencias, permisos, autorizaciones, capacidades o certificados de capacidad a que se refiere el Reglamento respectivo;
+
 XXIII. Publicación de Información Aeronáutica: Medio de difusión de información en materia aeronáutica del País;
+
 XXIV. Persona pasajera: Aquella que celebra el contrato de transporte aéreo, la que obtiene esta calidad desde el momento en que se celebre el contrato con la persona concesionaria, asignataria o permisionaria hasta que se cumpla su objeto;
+
 XXV. Procuraduría: Procuraduría Federal del Consumidor;
+
 XXVI. Programa Estatal de Seguridad Operacional: Conjunto integrado de reglamentos y actividades destinado a mejorar la seguridad operacional, conocido como "SSP" por las siglas en inglés de State Safety Program;
+
 XXVII. Programa de Seguridad de la Aviación Civil del Estado mexicano: El que elabore el Comité Nacional de Seguridad de Aviación Civil integrado por las personas representantes de las secretarías de la Defensa Nacional, de Marina, de Infraestructura, Comunicaciones y Transportes y apruebe la persona titular de la Secretaría de Infraestructura, Comunicaciones y Transportes;
+
 XXVIII. Proveedoras de servicio: Las personas concesionarias, asignatarias y permisionarias del servicio al público de transporte aéreo; las concesionarias, asignatarias, operadoras aeroportuarias y permisionarias de aeropuertos; Aeropuertos y Servicios Auxiliares, organismo descentralizado; Servicios a la Navegación en el Espacio Aéreo Mexicano, órgano administrativo desconcentrado; las permisionarias de talleres aeronáuticos; las empresas o consorcios creadoras del diseño de tipo y fabricadoras de aeronaves, motores o hélices; las personas prestadoras de servicios de tránsito aéreo; las instituciones educativas; las operadoras aéreas de aeronaves de Estado distintas de las militares, y las demás que los reglamentos establezcan;
+
 XXIX. Reglas de tránsito aéreo: Disposiciones técnico-administrativas emitidas por la Agencia Federal de Aviación Civil que establecen las condiciones de funcionamiento y operación de la navegación aérea;
+
 XXX. Ruta: Conexión por aerovía de puntos en el territorio nacional o entre un punto en territorio mexicano y otro punto en el extranjero y viceversa;
+
 XXXI. Secretaría: Secretaría de Infraestructura, Comunicaciones y Transportes;
+
 XXXII. Seguridad de la aviación: Protección de la aviación civil contra los actos de interferencia ilícita mediante una combinación de medidas y recursos humanos y materiales;
+
 XXXIII. Seguridad operacional: Estado en el que los riesgos asociados a las actividades de aviación relativas a la operación de las aeronaves, o que apoyan directamente dicha operación, se reducen y controlan a un nivel aceptable;
+
 XXXIV. Servicio al público de transporte aéreo: El que se ofrece de manera general y que, en términos de la presente Ley, incluye el servicio público sujeto a concesión, o asignación, así como otros servicios sujetos a permiso;
+
 XXXV. Servicio de transporte aéreo nacional: El que se presta entre dos o más puntos dentro del territorio nacional;
+
 XXXVI. Servicio de transporte aéreo no regular: El que no está sujeto a rutas, itinerarios y frecuencias fijos, podrá ser nacional o internacional y de conformidad con lo establecido por esta Ley;
+
 XXXVII. Servicio de transporte aéreo regular: El que está sujeto a itinerarios, frecuencias de vuelos y horarios, podrá ser nacional o internacional y de conformidad con lo establecido por esta Ley;
+
 XXXVIII. Sistema de Aeronave Pilotada a Distancia: Conjunto integrado por la Aeronave pilotada a distancia, su estación o estaciones conexas de pilotaje a distancia, los enlaces requeridos de mando y control, y cualquier otro componente;
+
 XXXIX. Sistema de gestión de la seguridad operacional: Enfoque sistemático para la gestión de la seguridad operacional que incluye las estructuras orgánicas, la obligación de rendición de cuentas, las responsabilidades, las políticas y procedimientos necesarios;
+
 XL. Sistema de Gestión de los Riesgos Asociados a la Fatiga: Conjunto de reglas, procedimientos y datos que sirven para controlar y gestionar constantemente los riesgos de seguridad operacional relacionados con la fatiga, los cuales se basan en principios, conocimientos científicos y en la experiencia operacional, con el propósito de asegurar el eficaz desempeño del personal con un nivel de alerta adecuado, conocido como “FRMS” por las siglas en inglés de Fatigue Risk Management System;
-XLI. Tratados: Los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados, y XLII. Vigilancia: Actividades mediante las cuales el Estado constata, de manera preventiva, con verificaciones, inspecciones y auditorías que las personas titulares de licencias, certificados, autorizaciones o aprobaciones en el ámbito de la aviación cumplen con los requisitos y las funciones establecidas, al nivel de competencia y seguridad operacional que se requiere.
+
+XLI. Tratados: Los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados, y
+
+XLII. Vigilancia: Actividades mediante las cuales el Estado constata, de manera preventiva, con verificaciones, inspecciones y auditorías que las personas titulares de licencias, certificados, autorizaciones o aprobaciones en el ámbito de la aviación cumplen con los requisitos y las funciones establecidas, al nivel de competencia y seguridad operacional que se requiere.
 Las definiciones de los tratados internacionales en materia de aviación civil suscritos por el Estado mexicano que no estén contenidas en las leyes expedidas por el Congreso de la Unión, normas oficiales mexicanas, ni en las disposiciones técnico-administrativas aplicables, se utilizarán supletoriamente, siempre que no se opongan a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
 Artículo reformado DOF 26-01-2015, 26-06-2017, 18-06-2018, 20-05-2021. Reformado con fracciones en su totalidad DOF 03-05-2023
 
@@ -74,14 +117,30 @@ Los hechos ocurridos y los actos realizados a bordo de una aeronave civil con ma
 
 ### Artículo 4
 . La prestación y desarrollo de los servicios de transporte aéreo civil y la navegación civil en el espacio aéreo sobre territorio nacional se rige por lo previsto en esta Ley, por los tratados y, a falta de disposición expresa, se aplicará:
-Párrafo reformado DOF 18-06-2018, 20-05-2021 I. La Ley de Vías Generales de Comunicación;
+Párrafo reformado DOF 18-06-2018, 20-05-2021
+
+I. La Ley de Vías Generales de Comunicación;
+
 II. La Ley General de Bienes Nacionales;
+
 III. La Ley Federal de Procedimiento Administrativo, y Fracción reformada DOF 18-06-2018, 14-11-2025
 
 ### Artículo 5
 . Las aeronaves mexicanas se clasifican en:
-I. Civiles, que podrán ser: a) De servicio al público: las empleadas para la prestación al público de un servicio de transporte aéreo regular o no regular, nacional o internacional; b) Privadas: las utilizadas para usos comerciales diferentes al servicio al público o para el transporte particular sin fines de lucro, y aquellas cuyo fin expreso sea la experimentación, acrobacia, exhibición y las que por su naturaleza sean de colección, y c) Agrícola: las empleadas exclusivamente para la fumigación de campos y cultivos del sector primario, con el fin de realizar el control de plagas y enfermedades del sector agrícola, de conformidad con las disposiciones técnico-administrativa que emita la Agencia Federal de Aviación Civil.
-II. De Estado, que podrán ser: a) Las de propiedad o uso de la Federación distintas de las militares; las de los gobiernos estatales y municipales, y las de las entidades paraestatales, y b) Las militares, que son las destinadas o en posesión del Ejército, Armada y Fuerza Aérea Nacionales.
+
+I. Civiles, que podrán ser:
+
+a) De servicio al público: las empleadas para la prestación al público de un servicio de transporte aéreo regular o no regular, nacional o internacional;
+
+b) Privadas: las utilizadas para usos comerciales diferentes al servicio al público o para el transporte particular sin fines de lucro, y aquellas cuyo fin expreso sea la experimentación, acrobacia, exhibición y las que por su naturaleza sean de colección, y
+
+c) Agrícola: las empleadas exclusivamente para la fumigación de campos y cultivos del sector primario, con el fin de realizar el control de plagas y enfermedades del sector agrícola, de conformidad con las disposiciones técnico-administrativa que emita la Agencia Federal de Aviación Civil.
+
+II. De Estado, que podrán ser:
+
+a) Las de propiedad o uso de la Federación distintas de las militares; las de los gobiernos estatales y municipales, y las de las entidades paraestatales, y
+
+b) Las militares, que son las destinadas o en posesión del Ejército, Armada y Fuerza Aérea Nacionales.
 Artículo reformado DOF 28-12-2001, 03-05-2023
 
 ## Capítulo II
@@ -89,97 +148,190 @@ De la Autoridad de Aviación Civil Denominación del Capítulo reformada DOF 03-
 
 ### Artículo 6
 . Corresponde a la Secretaría, en materia de aviación civil y aeroportuaria, el ejercicio de las atribuciones siguientes:
+
 I. Planear, formular y conducir las políticas y programas para la regulación y desarrollo de los servicios de transporte aéreo;
+
 II. Otorgar concesiones, asignaciones y permisos, verificar su cumplimiento y, en su caso, resolver sus modificaciones, prórrogas o terminaciones;
+
 III. Prestar servicios a la navegación aérea;
+
 IV. Dirigir y controlar las operaciones de búsqueda y salvamento en accidentes de aeronaves civiles;
+
 V. Investigar accidentes e incidentes sufridos por aeronaves civiles y emitir el informe preliminar y definitivo correspondiente, a través de la Comisión Investigadora y Dictaminadora de Accidentes Aéreos;
+
 VI. Expedir las disposiciones técnico-administrativas en materia de búsqueda y salvamento, así como de investigación de accidentes e incidentes para el cumplimiento de lo dispuesto en esta Ley y en los tratados de los que el Estado mexicano es parte, mismas que deben publicarse en el Diario Oficial de la Federación y difundirse en la Publicación de Información Aeronáutica de México;
+
 VII. Autorizar la cesión total o parcial, hipoteca, gravamen, transferencia o enajenación de las concesiones o los derechos en ellas conferidos a otros particulares, nacionales o extranjeros;
+
 VIII. Interpretar la presente Ley, sus reglamentos y demás normativa aplicable para efectos administrativos;
-IX. Expedir en los términos de la normativa aplicable las normas oficiales mexicanas, y X. Las demás atribuciones que esta Ley y otros ordenamientos jurídicos aplicables le otorgan a la Secretaría en materias relacionadas con el servicio de transporte aéreo civil.
+
+IX. Expedir en los términos de la normativa aplicable las normas oficiales mexicanas, y
+
+X. Las demás atribuciones que esta Ley y otros ordenamientos jurídicos aplicables le otorgan a la Secretaría en materias relacionadas con el servicio de transporte aéreo civil.
 Artículo reformado DOF 28-12-2001, 05-07-2006, 21-05-2013, 18-06-2018, 20-05-2021, 03-05-2023
 
 ### Artículo 6
 Bis. A la Agencia Federal de Aviación Civil, le corresponde ejercer las atribuciones siguientes:
+
 I. Otorgar permisos, vigilar su cumplimiento y, en su caso, resolver sus modificaciones, prórrogas y terminaciones;
+
 II. Otorgar las excepciones, exenciones y extensiones que se requieran en beneficio de la seguridad de las operaciones aéreas, las cuales deben establecerse en las disposiciones técnico-administrativas en materia de aviación civil correspondientes, siempre y cuando existan circunstancias de caso fortuito y fuerza mayor, problemas geográficos, sanitarios o de carácter físico;
+
 III. Expedir las disposiciones técnico-administrativas en materia de aviación civil para el cumplimiento de lo dispuesto en esta Ley y en los tratados en los que el Estado mexicano es parte, mismas que deben publicarse en el Diario Oficial de la Federación y difundirse en la Publicación de Información Aeronáutica de México.
 Para el proceso de creación de las disposiciones técnico-administrativas en materia de aviación civil, la Agencia Federal de Aviación Civil debe tomar en consideración la opinión no vinculante de las propuestas realizadas por la industria aeronáutica conforme a la materia de la cual trate;
+
 IV. Normar y vigilar los servicios a la navegación aérea y establecer las condiciones de operación a que deben sujetarse a través de las reglas de tránsito aéreo o disposición técnico-administrativa que regulen los servicios de navegación aérea;
+
 V. Expedir y aplicar, en coordinación con las Secretarías competentes, las medidas y normas de seguridad e higiene, de seguridad en la aviación civil y en materia ambiental, que deben observarse en los servicios de transporte aéreo, así como vigilar su cumplimiento;
-VI. Expedir los certificados de: a) Matrícula; b) Cancelación de matrícula; c) Aeronavegabilidad, y d) Explotador de servicios aéreos.
+
+VI. Expedir los certificados de:
+
+a) Matrícula;
+
+b) Cancelación de matrícula;
+
+c) Aeronavegabilidad, y
+
+d) Explotador de servicios aéreos.
+
 VII. Determinar la suspensión, cancelación, revalidación o revocación de los certificados referidos en la fracción anterior;
+
 VIII. Establecer y vigilar el sistema de aerovías dentro del espacio aéreo nacional;
+
 IX. Participar en los organismos internacionales y en las negociaciones de tratados, así como acuerdos interinstitucionales en los términos de la ley sobre la materia;
+
 X. Promover la formación, capacitación y adiestramiento del personal técnico aeronáutico;
+
 XI. Expedir y, en su caso, revalidar o cancelar las licencias del personal técnico-aeronáutico;
+
 XII. Interpretar la presente Ley, sus reglamentos, normas oficiales mexicanas y disposiciones técnico-administrativas, previa consulta con la Secretaría;
+
 XIII. Promover, normar y vigilar el desarrollo de la industria aeronáutica, de los servicios aéreos a terceros y de las operaciones de aeronaves para uso particular;
+
 XIV. Autorizar y llevar a cabo las actividades de vigilancia;
+
 XV. Designar y, en su caso, remover a las personas comandantes regionales, de aeropuertos, helipuertos y aeródromos civiles en general, así como a los inspectores verificadores que presten sus servicios en los mismos;
+
 XVI. Aprobar el plan de vuelo que previamente la persona operadora aérea presente por escrito o transmita por vía telefónica, interfono, frecuencia de radiocomunicación aeronáutica establecida o cualquier otro medio electrónico, conforme a las disposiciones técnicoadministrativas que, para tales efectos, sean expedidas;
+
 XVII. Otorgar permiso a personas físicas o morales, mexicanas o extranjeras, para el establecimiento de talleres aeronáuticos, instituciones educativas, así como el certificado de producción para el establecimiento de fábricas que produzcan en serie aeronaves, motores de aeronaves, estaciones de pilotaje a distancia, hélices y sus artículos;
+
 XVIII. Aplicar las medidas y normas oficiales mexicanas en materia de seguridad operacional y de seguridad de la aviación civil que deben observarse en los servicios de transporte aéreo, así como vigilar su cumplimiento;
+
 XIX. Aplicar las normas oficiales mexicanas, así como expedir y aplicar las disposiciones técnico-administrativas relativas a la certificación, operación y fabricación de las aeronaves no tripuladas civiles y de Estado, excepto las militares;
+
 XX. Autorizar el establecimiento de oficinas de despacho de vuelos en la modalidad correspondiente, de acuerdo con la normativa aplicable;
+
 XXI. Efectuar la investigación administrativa y de seguridad aérea (regulatory investigation), que comprende otorgar la garantía de audiencia de los presuntos infractores y llevar a cabo el examen o indagación oficial de los hechos, en términos de la normativa aplicable, para determinar la responsabilidad administrativa en los accidentes o incidentes de que tenga conocimiento la Agencia Federal de Aviación Civil, con relación a los servicios de transporte aéreo, aeropuertos, aeródromos, servicios aeroportuarios y complementarios e instalaciones, así como de los servicios de apoyo a la navegación aérea, control del tránsito aéreo, las personas concesionarias, asignatarias, permisionarias y operadoras aéreas que cuenten con algún certificado o autorización otorgados por la Agencia Federal de Aviación Civil o Autoridad de Aviación Civil Extranjera, lo anterior de manera enunciativa más no limitativa, a fin de determinar las medidas de seguridad y sanciones que procedan;
+
 XXII. Expedir una aprobación específica para el transporte de mercancías peligrosas;
+
 XXIII. Convalidar los certificados o documentos expedidos por Autoridades de Aviación Civil Extranjeras, organizaciones de instrucción reconocidas y talleres aeronáuticos en el extranjero, siempre y cuando el país de origen cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional;
+
 XXIV. Prestar el servicio de medicina de aviación, así como establecer y mantener unidades médicas, establecimientos de salud o laboratorios fijos o móviles;
+
 XXV. Vigilar a las personas físicas, morales o unidades administrativas que han sido autorizadas para actuar en representación de la Agencia Federal de Aviación Civil, de conformidad con las disposiciones técnico-administrativas correspondientes;
+
 XXVI. Administrar y operar el Registro Aeronáutico Mexicano;
+
 XXVII. Vigilar que se cumplan los requisitos psicofísicos del personal técnico-aeronáutico y de los aspirantes a obtener un permiso para iniciar su formación como personal técnicoaeronáutico, mediante la evaluación médica respectiva;
+
 XXVIII. Administrar las unidades médicas o establecimientos de salud, fijas o móviles, para prestar el servicio de medicina de aviación civil, así como garantizar la adecuada prestación del servicio, en los plazos y condiciones que se establecen en esta Ley y en los reglamentos aplicables;
+
 XXIX. Emitir la normativa relativa a los requisitos psicofísicos que deben cumplir las personas que integran al personal técnico-aeronáutico y a los aspirantes a obtener un permiso para iniciar su formación como personal técnico-aeronáutico;
+
 XXX. Vigilar que la normativa sea cumplida y observada por el personal médico que practica las evaluaciones médicas clase 1, 2 y 3 al personal técnico-aeronáutico y a los aspirantes a obtener un permiso de formación como personal técnico-aeronáutico;
+
 XXXI. Aplicar y vigilar el funcionamiento del sistema de medicina de aviación civil de conformidad con la normativa nacional e internacional aplicable;
+
 XXXII. Autorizar a personas físicas, morales o unidades administrativas para que actúen en representación de la Agencia Federal de Aviación Civil para evaluar o examinar al personal técnico-aeronáutico y a los aspirantes a obtener un permiso para iniciar su formación como personal técnico-aeronáutico, de conformidad con las leyes, reglamentos, disposiciones técnico-administrativas y demás normativa aplicable;
+
 XXXIII. Vigilar que las personas físicas, morales o unidades administrativas autorizadas para evaluar o examinar a las personas que integran al personal técnico-aeronáutico y aspirantes a obtener un permiso para iniciar su formación como personal técnicoaeronáutico cumplan con sus responsabilidades y obligaciones;
+
 XXXIV. Llevar a cabo la vigilancia, constatación e inspección del cumplimiento de los requisitos médicos para la emisión de los certificados de aptitud psicofísica respecto del personal técnico-aeronáutico y, en su caso, la suspensión o revocación de estos;
+
 XXXV. Emitir el certificado de aptitud psicofísica conforme al tipo de evaluación médica, para las personas integrantes del personal técnico-aeronáutico y de los aspirantes a obtener un permiso para iniciar su formación como personal técnico-aeronáutico;
+
 XXXVI. Realizar el análisis de las causas de incapacitación del personal técnico-aeronáutico durante el vuelo, a través de los reportes obligatorios acerca de estas, realizados por las concesionarias, asignatarias y permisionarias;
+
 XXXVII. Supervisar y vigilar a las personas proveedoras de servicios y operadoras aéreas extranjeras que presten sus servicios en territorio nacional;
+
 XXXVIII. Expedir autorizaciones para operaciones especiales, de conformidad con las disposiciones técnico-administrativas respectivas;
+
 XXXIX. Requerir a la proveedora de servicios de navegación aérea información y datos relacionados con los servicios, así como las mejoras a los sistemas, radioayudas, equipos y personal cualificado acordes con el desarrollo tecnológico requerido;
+
 XL. Expedir permisos de establecimiento y constancias de manufactura a las personas físicas o morales dedicadas a la fabricación de productos aeronáuticos y sus artículos, ubicadas en México y efectuar la vigilancia a los establecimientos y a dicha fabricación;
+
 XLI. Aceptar los estándares de aeronavegabilidad de otros países, cuando lo estime conveniente;
+
 XLII. Promover la formación, capacitación y adiestramiento de los inspectores verificadores e instructores adscritos en las diferentes áreas de la Agencia Federal de Aviación Civil, así como de los instructores del Centro Internacional de Adiestramiento de Aviación Civil.
 El Centro Internacional de Adiestramiento de Aviación Civil de la Agencia Federal de Aviación Civil puede proveer de capacitación técnica a investigadores y dictaminadores de accidentes aéreos adscritos a la Secretaría, de conformidad con los convenios o las bases de colaboración que se celebren;
+
 XLIII. Vigilar que el personal de las comandancias de aeropuerto de su región esté debidamente capacitado y adiestrado para el desempeño de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables en materia de capacitación y adiestramiento;
+
 XLIV. Proporcionar asistencia técnica de conformidad con los tratados y acuerdos que se celebren para tal efecto;
+
 XLV. Implementar el Programa de Seguridad de la Aviación Civil del Estado mexicano;
+
 XLVI. Fijar las medidas necesarias para prevenir los actos de interferencia ilícita;
+
 XLVII. Vigilar permanentemente que las personas concesionarias, asignatarias, permisionarias, operadoras aéreas y prestadoras de servicios a la navegación aérea cumplan con esta Ley, sus reglamentos, normas oficiales mexicanas y demás disposiciones aplicables;
+
 XLVIII. Analizar y determinar la acreditación de las capacidades técnicas, administrativas, jurídicas y financieras para el otorgamiento de concesiones y asignaciones;
+
 XLIX. Revisar y aprobar previamente el contenido de la Publicación de Información Aeronáutica de México;
 XLIX Bis. Colaborar con la Secretaría en el proceso de planeación, formulación y revisión de la política aeronáutica;
-L. Autorizar a personas físicas, morales o unidades administrativas para que actúen en representación de la Agencia Federal de Aviación Civil, de conformidad con las disposiciones técnico-administrativas correspondientes, y LI. Las demás que señalen esta Ley y otros ordenamientos aplicables.
+
+L. Autorizar a personas físicas, morales o unidades administrativas para que actúen en representación de la Agencia Federal de Aviación Civil, de conformidad con las disposiciones técnico-administrativas correspondientes, y
+
+LI. Las demás que señalen esta Ley y otros ordenamientos aplicables.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 7
 . La Agencia Federal de Aviación Civil ejerce su autoridad en los aeropuertos, helipuertos y aeródromos en general, a través de las personas designadas como comandantes regionales y comandantes de aeropuerto.
 Párrafo reformado DOF 20-05-2021, 03-05-2023 Los comandantes regionales deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Agencia Federal de Aviación Civil.
 Párrafo reformado DOF 20-05-2021 Los comandantes regionales tendrán a su cargo las comandancias de aeropuerto que expresamente les sean determinadas por la propia Agencia Federal de Aviación Civil, los cuales ejercerán las atribuciones que a continuación se mencionan:
-Párrafo reformado DOF 20-05-2021 I. Vigilar permanentemente que las personas concesionarias, asignatarias, permisionarias, operadoras de aeronaves y prestadoras de servicios a la navegación aérea cumplan con esta Ley, sus reglamentos, normas oficiales mexicanas y demás disposiciones aplicables;
+Párrafo reformado DOF 20-05-2021
+
+I. Vigilar permanentemente que las personas concesionarias, asignatarias, permisionarias, operadoras de aeronaves y prestadoras de servicios a la navegación aérea cumplan con esta Ley, sus reglamentos, normas oficiales mexicanas y demás disposiciones aplicables;
 Fracción reformada DOF 03-05-2023 I Bis. Autorizar la práctica de visitas de vigilancia a las personas proveedoras de servicios;
-Fracción adicionada DOF 03-05-2023 II. Vigilar el cumplimiento de las disposiciones e instrucciones contenidas en el Manual de la Agencia Federal de Aviación Civil;
-Fracción reformada DOF 03-05-2023 III. Vigilar el estricto cumplimiento de los deberes y responsabilidades de los Comandantes de Aeropuerto;
+Fracción adicionada DOF 03-05-2023
+
+II. Vigilar el cumplimiento de las disposiciones e instrucciones contenidas en el Manual de la Agencia Federal de Aviación Civil;
+Fracción reformada DOF 03-05-2023
+
+III. Vigilar el estricto cumplimiento de los deberes y responsabilidades de los Comandantes de Aeropuerto;
+
 IV. Vigilar que el personal de las comandancias de aeropuerto de su región esté debidamente capacitado para el desempeño de sus funciones;
+
 V. Vigilar la seguridad y eficiencia de las operaciones aeronáuticas;
-VI. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y VII. Las demás que expresamente les sean conferidas por su superior jerárquico y se encuentren fundadas en la legislación vigente aplicable a la materia.
+
+VI. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y
+
+VII. Las demás que expresamente les sean conferidas por su superior jerárquico y se encuentren fundadas en la legislación vigente aplicable a la materia.
 Artículo reformado DOF 23-01-1998, 28-12-2001
 
 ### Artículo 7
 Bis. Los comandantes de aeropuerto deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Agencia Federal de Aviación Civil, a través de los comandantes regionales.
 Párrafo reformado DOF 20-05-2021 Los comandantes de aeropuerto tendrán las atribuciones que a continuación se mencionan, las cuales ejercerán en las demarcaciones geográficas que expresamente les sean determinadas por la propia Agencia Federal de Aviación Civil:
-Párrafo reformado DOF 20-05-2021 I. Autorizar o suspender la operación de las aeronaves, conforme a lo dispuesto por esta Ley;
+Párrafo reformado DOF 20-05-2021
+
+I. Autorizar o suspender la operación de las aeronaves, conforme a lo dispuesto por esta Ley;
+
 II. Verificar que los servicios de control de tránsito aéreo, de radioayudas a la navegación y de ayudas visuales se ajusten a las disposiciones aplicables;
+
 III. Verificar la vigencia de las licencias y capacidades del personal técnico aeronáutico, de los certificados de matrícula y de aeronavegabilidad de las aeronaves;
+
 IV. Verificar el cumplimiento de las condiciones de seguridad y eficiencia en los servicios de transporte aéreo;
+
 V. Disponer el cierre parcial o total de aeropuertos, helipuertos o aeródromos en general, cuando no reúnan las condiciones de seguridad para las operaciones aéreas;
+
 VI. Impedir al personal técnico-aeronáutico ejercer las funciones inherentes a su licencia y certificado de aptitud psicofísica, cuando no cumplan con las disposiciones aplicables;
-Fracción reformada DOF 03-05-2023 VII. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos, normas oficiales mexicanas y disposiciones técnico-administrativas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos, y Fracción reformada DOF 03-05-2023 VIII. Las demás que señalen esta Ley y otros ordenamientos aplicables.
+Fracción reformada DOF 03-05-2023
+
+VII. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos, normas oficiales mexicanas y disposiciones técnico-administrativas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos, y Fracción reformada DOF 03-05-2023
+
+VIII. Las demás que señalen esta Ley y otros ordenamientos aplicables.
 Las atribuciones establecidas en las fracciones I, II, III, IV, VI y VII del presente artículo pueden ser ejercidas por las personas designadas como inspectoras verificadoras subordinadas a la comandancia del aeropuerto.
 Párrafo reformado DOF 03-05-2023 Artículo adicionado DOF 28-12-2001
 
@@ -189,8 +341,12 @@ Artículo derogado DOF 22-12-1995
 
 ### Artículo 8
 Bis. Cuando el empleo de una aeronave amenace la seguridad de la aviación, la Secretaría de la Defensa Nacional coadyuvará con la Secretaría para garantizar la protección del espacio aéreo en lo siguiente:
+
 I. Solicitar a las personas propietarias o la tripulación de una aeronave nacional o extranjera de servicio privado no comercial, los documentos que amparen que la aeronave cuenta con los certificados de aeronavegabilidad y licencia establecidos en el estado de su matrícula;
-II. Verificar que los talleres aeronáuticos y centros de capacitación y adiestramiento, y la producción en el caso de fábricas de aeronaves y sus componentes, no se empleen para propósitos incompatibles con la aviación civil, y III. Emitir opinión en la expedición de medidas y normas respecto del tráfico aéreo que afecte la protección del espacio aéreo.
+
+II. Verificar que los talleres aeronáuticos y centros de capacitación y adiestramiento, y la producción en el caso de fábricas de aeronaves y sus componentes, no se empleen para propósitos incompatibles con la aviación civil, y
+
+III. Emitir opinión en la expedición de medidas y normas respecto del tráfico aéreo que afecte la protección del espacio aéreo.
 Artículo adicionado DOF 03-05-2023
 
 ## Capítulo III
@@ -199,17 +355,27 @@ De las concesiones, asignaciones y permisos Denominación del Capítulo reformad
 ### Artículo 9
 . Se requiere de concesión que otorgue la Secretaría para prestar el servicio público de transporte aéreo nacional regular. Tal concesión sólo se otorgará a personas morales mexicanas.
 Los interesados en la obtención de concesiones deberán acreditar:
+
 I. La capacidad técnica, financiera, jurídica y administrativa para prestar el servicio en condiciones de calidad, seguridad, oportunidad, permanencia y precio;
-II. La disponibilidad de aeronaves y demás equipo aéreo que cumplan con los requisitos técnicos de seguridad, las condiciones de aeronavegabilidad requeridas y las disposiciones en materia ambiental, y III. La disponibilidad de hangares, talleres, de la infraestructura necesaria para sus operaciones, así como del personal técnico aeronáutico y administrativo capacitado para el ejercicio de la concesión solicitada.
+
+II. La disponibilidad de aeronaves y demás equipo aéreo que cumplan con los requisitos técnicos de seguridad, las condiciones de aeronavegabilidad requeridas y las disposiciones en materia ambiental, y
+
+III. La disponibilidad de hangares, talleres, de la infraestructura necesaria para sus operaciones, así como del personal técnico aeronáutico y administrativo capacitado para el ejercicio de la concesión solicitada.
+
 IV. Contar, por sí mismas o a través de sociedades mercantiles mexicanas asociadas, con la experiencia que haga viable su permanencia en el sector y maximicen la seguridad de sus operaciones.
 Fracción adicionada DOF 28-12-2001 Las personas concesionarias a que se refiere este artículo podrán prestar el servicio de transporte aéreo regular internacional siempre que cuenten con la autorización de las rutas correspondientes por parte de la Agencia Federal de Aviación Civil.
 Párrafo reformado DOF 03-05-2023
 
 ### Artículo 10
 . Las concesiones se otorgarán hasta por un plazo de treinta años y podrán ser prorrogadas en una o varias ocasiones, siempre que cada una de dichas prórrogas no exceda el plazo a que se refiere este artículo, y el concesionario:
+
 I. Hubiere cumplido con las obligaciones señaladas en la concesión que se pretenda prorrogar;
+
 II. Lo solicite a más tardar un año antes de su conclusión;
-III. Hubiere realizado un mejoramiento en la calidad de los servicios prestados durante la vigencia de la concesión, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen en los reglamentos respectivos y demás disposiciones aplicables, y IV. Acepte las nuevas condiciones que establezca la Secretaría, con base en esta Ley.
+
+III. Hubiere realizado un mejoramiento en la calidad de los servicios prestados durante la vigencia de la concesión, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen en los reglamentos respectivos y demás disposiciones aplicables, y
+
+IV. Acepte las nuevas condiciones que establezca la Secretaría, con base en esta Ley.
 Sección Primera Bis De las asignaciones Sección adicionada DOF 03-05-2023
 
 ### Artículo 10
@@ -220,9 +386,17 @@ Artículo adicionado DOF 03-05-2023 Sección Segunda De los permisos
 
 ### Artículo 11
 . Los servicios de transporte aéreo sujetos a permiso son los siguientes:
-Párrafo reformado DOF 20-05-2021, 03-05-2023 I. Servicio de transporte aéreo nacional no regular;
-Fracción reformada DOF 20-05-2021 II. Servicio de transporte aéreo internacional regular;
-Fracción reformada DOF 20-05-2021 III. Servicio de transporte aéreo internacional no regular, y Fracción reformada DOF 20-05-2021 IV. Servicios aéreos a terceros.
+Párrafo reformado DOF 20-05-2021, 03-05-2023
+
+I. Servicio de transporte aéreo nacional no regular;
+Fracción reformada DOF 20-05-2021
+
+II. Servicio de transporte aéreo internacional regular;
+Fracción reformada DOF 20-05-2021
+
+III. Servicio de transporte aéreo internacional no regular, y Fracción reformada DOF 20-05-2021
+
+IV. Servicios aéreos a terceros.
 Fracción reformada DOF 20-05-2021, 03-05-2023 Los permisos se otorgarán: a personas morales mexicanas en el caso de la fracción I; a sociedades extranjeras en el supuesto de la fracción II; a personas morales mexicanas o sociedades extranjeras en el caso de la fracción III; y a personas físicas o morales mexicanas o extranjeras en el de la fracción IV.
 Para la prestación del servicio de transporte aéreo internacional regular por personas morales mexicanas, se estará a lo dispuesto en el artículo 9 de esta Ley.
 Asimismo, se requerirá de permiso para el establecimiento de talleres aeronáuticos e instituciones educativas y del certificado de producción para el establecimiento de fábricas de producción en serie de aeronaves, motores de aeronaves, estaciones de pilotaje a distancia, hélices y sus artículos, que pueden otorgarse a personas físicas o morales, mexicanas o extranjeras.
@@ -240,36 +414,73 @@ La participación de la inversión extranjera en el capital de las personas mora
 
 ### Artículo 13
 . El título de concesión o el permiso deberá incluir, cuando menos, lo siguiente:
+
 I. El nombre y domicilio del concesionario o permisionario;
+
 II. El objeto de la concesión o el permiso;
+
 III. En su caso, las rutas o vuelos autorizados;
+
 IV. Los programas de desarrollo y, en su caso, los programas de mantenimiento del servicio;
-V. Los derechos y obligaciones de los concesionarios o permisionarios, y VI. El período de vigencia.
+
+V. Los derechos y obligaciones de los concesionarios o permisionarios, y
+
+VI. El período de vigencia.
 
 ### Artículo 14
 . Las concesiones o los permisos terminan por:
+
 I. Vencimiento del plazo establecido en la concesión o de la prórroga que, en su caso, se hubiere otorgado;
+
 II. Renuncia del titular;
+
 III. Revocación;
-IV. Desaparición del objeto de la concesión o el permiso, y V. Liquidación o quiebra del titular.
+
+IV. Desaparición del objeto de la concesión o el permiso, y
+
+V. Liquidación o quiebra del titular.
 La terminación de la concesión o del permiso no extingue las obligaciones contraídas por el titular durante su vigencia.
 
 ### Artículo 15
 . Las concesiones o asignaciones se pueden revocar por:
-Párrafo reformado DOF 03-05-2023 I. No ejercer los derechos conferidos durante un período mayor de ciento ochenta días naturales, contado a partir de la fecha de su otorgamiento;
+Párrafo reformado DOF 03-05-2023
+
+I. No ejercer los derechos conferidos durante un período mayor de ciento ochenta días naturales, contado a partir de la fecha de su otorgamiento;
+
 II. No mantener vigentes los seguros a que se refiere esta Ley;
+
 III. El cambio de nacionalidad de la persona concesionaria;
-Fracción reformada DOF 03-05-2023 IV. Ceder, hipotecar, gravar, transferir o enajenar las concesiones, o los derechos conferidos en estas a algún Estado extranjero, y en el caso de las asignaciones, transmitir sus derechos y obligaciones a terceras personas físicas o morales privadas;
-Fracción reformada DOF 03-05-2023 V. Ceder, hipotecar, gravar, transferir o enajenar las concesiones o los derechos conferidos en estas a otros particulares, nacionales o extranjeros, sin autorización de la Secretaría;
-Fracción reformada DOF 03-05-2023 VI. Aplicar tarifas diferentes a las registradas, o en su caso, aprobadas;
+Fracción reformada DOF 03-05-2023
+
+IV. Ceder, hipotecar, gravar, transferir o enajenar las concesiones, o los derechos conferidos en estas a algún Estado extranjero, y en el caso de las asignaciones, transmitir sus derechos y obligaciones a terceras personas físicas o morales privadas;
+Fracción reformada DOF 03-05-2023
+
+V. Ceder, hipotecar, gravar, transferir o enajenar las concesiones o los derechos conferidos en estas a otros particulares, nacionales o extranjeros, sin autorización de la Secretaría;
+Fracción reformada DOF 03-05-2023
+
+VI. Aplicar tarifas diferentes a las registradas, o en su caso, aprobadas;
+
 VII. Alterar o falsificar documentos oficiales relacionados con esta Ley;
+
 VIII. Suspender, en forma total, la prestación de los servicios sin autorización de la Secretaría, salvo en caso fortuito o de fuerza mayor;
+
 IX. Prestar servicios distintos de los autorizados en la concesión o asignación;
-Fracción reformada DOF 03-05-2023 X. Infringir las condiciones de seguridad en materia de aeronavegabilidad y seguridad operacional;
-Fracción reformada DOF 18-06-2018 XI. Incumplir con las obligaciones de pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
+Fracción reformada DOF 03-05-2023
+
+X. Infringir las condiciones de seguridad en materia de aeronavegabilidad y seguridad operacional;
+Fracción reformada DOF 18-06-2018
+
+XI. Incumplir con las obligaciones de pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
+
 XII. Ejecutar u omitir actos que impidan la prestación de los servicios concesionados o asignados entre quienes tengan derecho a ello;
-Fracción reformada DOF 21-05-2013, 03-05-2023 XIII. Infringir las medidas y normas de higiene y de protección al ambiente;
-Fracción adicionada DOF 21-05-2013. Reformada DOF 26-01-2015 XIV. Realizar cabotaje en territorio nacional, utilizando aeronaves extranjeras no autorizadas para tal fin, y Fracción adicionada DOF 26-01-2015 XV. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos y en el título de concesión o asignación, siempre que por el incumplimiento se haya impuesto una sanción y esta haya quedado firme en términos de ley.
+Fracción reformada DOF 21-05-2013, 03-05-2023
+
+XIII. Infringir las medidas y normas de higiene y de protección al ambiente;
+Fracción adicionada DOF 21-05-2013. Reformada DOF 26-01-2015
+
+XIV. Realizar cabotaje en territorio nacional, utilizando aeronaves extranjeras no autorizadas para tal fin, y Fracción adicionada DOF 26-01-2015
+
+XV. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos y en el título de concesión o asignación, siempre que por el incumplimiento se haya impuesto una sanción y esta haya quedado firme en términos de ley.
 Fracción recorrida DOF 21-05-2013, 26-01-2015, 03-05-2023 La Secretaría revocará las concesiones de manera inmediata en los supuestos de las fracciones I a V, VII y XIV anteriores. De igual forma procederá en el caso de la fracción X, cuando a su juicio sea grave la infracción para la seguridad de la operación.
 Párrafo reformado DOF 06-06-2006, 26-01-2015, 03-05-2023 En los casos de las fracciones VI, VIII, IX, XI, XII y XIII la Secretaría revocará la concesión cuando previamente hubiese sanción en contra del concesionario, por lo menos en dos ocasiones, por las causas previstas en la misma fracción, en un período de diez años.
 Párrafo reformado DOF 06-06-2006, 26-01-2015, 03-05-2023 La persona titular de una concesión que haya sido revocada no podrá obtener, directa o indirectamente, otra concesión de las previstas en la presente Ley dentro del plazo de cinco años, contado a partir de la fecha en que haya quedado firme la resolución respectiva.
@@ -277,19 +488,34 @@ Párrafo reformado DOF 03-05-2023
 
 ### Artículo 15
 Bis. Los permisos se revocarán por:
+
 I. No ejercer los derechos conferidos durante un período mayor a ciento ochenta días naturales, contado a partir de la fecha de su otorgamiento;
+
 II. No mantener vigentes los seguros a que se refiere esta Ley;
+
 III. El cambio de nacionalidad de la persona permisionaria;
+
 IV. Ceder, hipotecar, gravar, transferir o enajenar los permisos, o los derechos conferidos en estos a algún Estado extranjero;
+
 V. Ceder, hipotecar, gravar, transferir o enajenar los permisos o los derechos conferidos en estos a otros particulares, nacionales o extranjeros, sin autorización de la Agencia Federal de Aviación Civil;
+
 VI. Aplicar tarifas diferentes de las registradas o, en su caso, aprobadas por la Agencia Federal de Aviación Civil;
+
 VII. Presentar documentos oficiales alterados o falsificados relacionados con esta Ley;
+
 VIII. Suspender, en forma total, la prestación de los servicios sin autorización de la Agencia Federal de Aviación Civil, salvo en caso fortuito o de fuerza mayor;
+
 IX. Prestar servicios distintos de los señalados en el permiso respectivo;
+
 X. Infringir las condiciones de seguridad en materia de aeronavegabilidad y seguridad operacional;
+
 XI. Incumplir con las obligaciones de pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
+
 XII. Ejecutar u omitir actos que impidan la prestación de los servicios permisionados entre quienes tengan derecho a ello;
-XIII. Infringir las medidas y normas oficiales mexicanas en materia de higiene y de protección al medio ambiente, y XIV. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos o en el permiso respectivo, siempre que por el incumplimiento se haya impuesto una sanción y esta haya quedado firme en términos de ley.
+
+XIII. Infringir las medidas y normas oficiales mexicanas en materia de higiene y de protección al medio ambiente, y
+
+XIV. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos o en el permiso respectivo, siempre que por el incumplimiento se haya impuesto una sanción y esta haya quedado firme en términos de ley.
 La Agencia Federal de Aviación Civil revocará los permisos de manera inmediata en los supuestos de las fracciones I a V, y VII anteriores. De igual forma procederá en el caso de la fracción X, cuando a su juicio sea grave la infracción para la seguridad de la operación.
 En los casos de las fracciones VI, VIII, IX, XI, XII y XIII anteriores, la Agencia Federal de Aviación Civil revocará el permiso, cuando previamente hubiese sancionado a la permisionaria, por lo menos en dos ocasiones, por las causas previstas en la misma fracción, en un período de diez años.
 La persona titular de un permiso que haya sido revocado no podrá obtener, directa o indirectamente, otro permiso de los previstos en esta Ley dentro de un plazo de cinco años, contado a partir de la fecha en que haya quedado firme la resolución respectiva.
@@ -322,17 +548,31 @@ Párrafo reformado DOF 03-05-2023
 
 ### Artículo 19
 . La prestación del servicio público de transporte aéreo nacional regular estará sujeto a lo siguiente:
-Párrafo reformado DOF 20-05-2021 I. Las concesiones y asignaciones contendrán las rutas específicas con las que se iniciará la prestación del servicio y las condiciones del mismo;
-Fracción reformada DOF 03-05-2023 II. Para operar rutas adicionales a las contenidas en la concesión o asignación, debe solicitarse a la Agencia Federal de Aviación Civil la autorización correspondiente, misma que formará parte de la concesión o asignación, y Fracción reformada DOF 03-05-2023 III. La ruta adicional puede comercializarse cuando haya sido autorizada. La operación de la ruta correspondiente debe iniciarse en un plazo máximo de noventa días, contado a partir de la fecha en que se haya expedido la autorización. De no operarse la ruta en dicho plazo, esta quedará cancelada sin necesidad de declaratoria de la Agencia Federal de Aviación Civil.
+Párrafo reformado DOF 20-05-2021
+
+I. Las concesiones y asignaciones contendrán las rutas específicas con las que se iniciará la prestación del servicio y las condiciones del mismo;
+Fracción reformada DOF 03-05-2023
+
+II. Para operar rutas adicionales a las contenidas en la concesión o asignación, debe solicitarse a la Agencia Federal de Aviación Civil la autorización correspondiente, misma que formará parte de la concesión o asignación, y Fracción reformada DOF 03-05-2023
+
+III. La ruta adicional puede comercializarse cuando haya sido autorizada. La operación de la ruta correspondiente debe iniciarse en un plazo máximo de noventa días, contado a partir de la fecha en que se haya expedido la autorización. De no operarse la ruta en dicho plazo, esta quedará cancelada sin necesidad de declaratoria de la Agencia Federal de Aviación Civil.
 Fracción reformada DOF 03-05-2023
 
 ### Artículo 20
 . La prestación de servicios de transporte aéreo internacional regular por personas morales mexicanas estará sujeta a lo siguiente:
+
 I. Para la operación de las rutas correspondientes, se requiere de la autorización que otorgue la Agencia Federal de Aviación Civil;
-Fracción reformada DOF 03-05-2023 II. Las autorizaciones respectivas únicamente se otorgarán a las personas que cuenten con concesión para prestar el servicio de transporte aéreo regular nacional;
+Fracción reformada DOF 03-05-2023
+
+II. Las autorizaciones respectivas únicamente se otorgarán a las personas que cuenten con concesión para prestar el servicio de transporte aéreo regular nacional;
+
 III. Las autorizaciones se ajustarán a lo convenido con el Estado hacia el cual se opere la ruta;
+
 IV. Las autorizaciones se referirán a rutas específicas;
-V. Las rutas específicas podrán comercializarse cuando hayan sido autorizadas. Su operación debe iniciarse en un plazo máximo de ciento ochenta días, contado a partir de la fecha en que se haya expedido la autorización. De no operarse la ruta en dicho plazo, esta quedará cancelada sin necesidad de declaratoria de la Agencia Federal de Aviación Civil, y Fracción reformada DOF 03-05-2023 VI. En los casos en que más de una concesionaria solicite la operación de una misma ruta asignable por la Agencia Federal de Aviación Civil, esta otorgará la autorización correspondiente a aquella que ofrezca las mejores condiciones para la prestación del servicio.
+
+V. Las rutas específicas podrán comercializarse cuando hayan sido autorizadas. Su operación debe iniciarse en un plazo máximo de ciento ochenta días, contado a partir de la fecha en que se haya expedido la autorización. De no operarse la ruta en dicho plazo, esta quedará cancelada sin necesidad de declaratoria de la Agencia Federal de Aviación Civil, y Fracción reformada DOF 03-05-2023
+
+VI. En los casos en que más de una concesionaria solicite la operación de una misma ruta asignable por la Agencia Federal de Aviación Civil, esta otorgará la autorización correspondiente a aquella que ofrezca las mejores condiciones para la prestación del servicio.
 Fracción reformada DOF 03-05-2023 Para determinar la oportunidad y conveniencia de iniciar las negociaciones de los tratados a que alude este artículo, la Agencia Federal de Aviación Civil tomará en cuenta condiciones de reciprocidad, así como los criterios a que se refiere el artículo 25 de esta Ley.
 Párrafo reformado DOF 03-05-2023
 
@@ -347,9 +587,15 @@ Artículo reformado DOF 03-05-2023
 ### Artículo 23
 . Los servicios de transporte aéreo no regular, nacional e internacional, incluyen, entre otros, los de fletamento y de taxis aéreos.
 Párrafo reformado DOF 03-05-2023 En el caso de los servicios de fletamento, los permisionarios deberán observar lo siguiente:
+
 I. Los vuelos o paquetes de vuelos quedan sujetos a autorización previa de la Agencia Federal de Aviación Civil;
-Fracción reformada DOF 03-05-2023 II. Los servicios que presten en ningún caso podrán traducirse o de hecho ser equivalentes a los del transporte aéreo regular;
-III. Los servicios serán complementarios a los del transporte aéreo regular, y IV. En los contratos de fletamento de aeronaves que celebren con prestadores de servicios turísticos, deberá pactarse que los servicios de transporte aéreo se comercializarán, en todo caso, como parte de otros servicios en paquete; y conforme con lo que establezca el reglamento respectivo.
+Fracción reformada DOF 03-05-2023
+
+II. Los servicios que presten en ningún caso podrán traducirse o de hecho ser equivalentes a los del transporte aéreo regular;
+
+III. Los servicios serán complementarios a los del transporte aéreo regular, y
+
+IV. En los contratos de fletamento de aeronaves que celebren con prestadores de servicios turísticos, deberá pactarse que los servicios de transporte aéreo se comercializarán, en todo caso, como parte de otros servicios en paquete; y conforme con lo que establezca el reglamento respectivo.
 Las aeronaves autorizadas para la prestación del servicio de taxi aéreo podrán ser de hasta 19 pasajeros o 3,500 kilogramos de carga.
 Párrafo adicionado DOF 28-12-2001. Reformado DOF 18-06-2018 La prestación de los servicios de taxi aéreo queda sujeta a las condiciones que se especifiquen en los permisos que, para tal efecto, se otorguen por la Agencia Federal de Aviación Civil con base en esta Ley y en los criterios que atiendan, entre otros elementos, las especificaciones de los equipos aéreos, las características de las operaciones y la forma de comercialización de los servicios.
 Párrafo reformado DOF 28-12-2001, 03-05-2023
@@ -412,9 +658,15 @@ Párrafo adicionado DOF 26-01-2015
 
 ### Artículo 32
 Bis. En caso de que una aeronave no cumpla plenamente con los requisitos de aeronavegabilidad establecidos en la normativa aeronáutica nacional, se otorgará un certificado de aeronavegabilidad especial, de conformidad con lo establecido en las disposiciones técnicoadministrativas que se emitan para tal efecto, siempre que la aeronave sea capaz de efectuar un vuelo seguro. El certificado de aeronavegabilidad especial se emitirá para los siguientes propósitos:
-Párrafo reformado DOF 03-05-2023 I. Realizar un vuelo a algún sitio o a un punto de almacenamiento dentro y fuera del territorio nacional para reparación, alteración o mantenimiento;
+Párrafo reformado DOF 03-05-2023
+
+I. Realizar un vuelo a algún sitio o a un punto de almacenamiento dentro y fuera del territorio nacional para reparación, alteración o mantenimiento;
+
 II. Realizar vuelos de prueba;
-III. Evacuación de aeronaves en zonas con peligro inminente, y IV. Realizar vuelos de demostración a clientes potenciales en aeronaves de nueva producción que han completado satisfactoriamente las pruebas de vuelo de producción.
+
+III. Evacuación de aeronaves en zonas con peligro inminente, y
+
+IV. Realizar vuelos de demostración a clientes potenciales en aeronaves de nueva producción que han completado satisfactoriamente las pruebas de vuelo de producción.
 Asimismo, se otorgará un certificado de aeronavegabilidad especial para aeronaves que inicien su programa de pruebas de vuelo para la obtención de la certificación inicial y consecuentemente del otorgamiento de un certificado de Tipo o un Certificado de Aprobación de Tipo, según corresponda.
 Párrafo reformado DOF 03-05-2023 Artículo adicionado DOF 20-05-2021
 
@@ -473,7 +725,10 @@ Del personal técnico aeronáutico Sección Primera Disposiciones comunes
 . El personal técnico-aeronáutico está constituido por el personal de vuelo que interviene directamente en la operación de la aeronave y por el personal de tierra, cuyas funciones se especifiquen en el reglamento correspondiente. Dicho personal debe, además de ser mexicano por nacimiento, no adquirir otra nacionalidad y contar con las licencias respectivas.
 Párrafo reformado DOF 23-01-1998, 03-05-2023 Para la operación de aeronaves de uso particular, las personas nacionales y extranjeras que las piloten pueden solicitar a la Agencia Federal de Aviación Civil la convalidación u obtención de la licencia de piloto privado, previo cumplimiento de los reglamentos correspondientes y de las disposiciones técnico-administrativas respectivas.
 Párrafo adicionado DOF 28-12-2001. Reformado DOF 03-05-2023 La vigencia de las licencias del personal técnico aeronáutico será de tres años, salvo que:
-I. Se solicite la obtención de una licencia cuando previamente haya sido suspendida o cancelada una anterior, caso en el que su vigencia será de un año, transcurrido el cual, de mediar una nueva solicitud, la Agencia Federal de Aviación Civil determinará, si conforme al cumplimiento del interesado en el uso de la licencia, se le otorga por dos años o nuevamente por un año, o Fracción reformada DOF 03-05-2023 II. Se trate de la convalidación de licencia, cuya vigencia no podrá exceder de aquella otorgada por la Autoridad de Aviación Civil Extranjera.
+
+I. Se solicite la obtención de una licencia cuando previamente haya sido suspendida o cancelada una anterior, caso en el que su vigencia será de un año, transcurrido el cual, de mediar una nueva solicitud, la Agencia Federal de Aviación Civil determinará, si conforme al cumplimiento del interesado en el uso de la licencia, se le otorga por dos años o nuevamente por un año, o Fracción reformada DOF 03-05-2023
+
+II. Se trate de la convalidación de licencia, cuya vigencia no podrá exceder de aquella otorgada por la Autoridad de Aviación Civil Extranjera.
 Fracción reformada DOF 03-05-2023 Párrafo con fracciones adicionado DOF 26-01-2015 Para que el personal técnico-aeronáutico pueda dedicarse al ejercicio de su actividad, deberá acreditar ante la Agencia Federal de Aviación Civil ser titular de una licencia vigente expedida por esta y contar con el certificado de aptitud psicofísica vigente correspondiente a su actividad.
 Párrafo adicionado DOF 26-01-2015. Reformado DOF 03-05-2023 Terminada la vigencia del certificado de aptitud psicofísica, el interesado tiene treinta días naturales para solicitar su renovación, sin que esto implique el vencimiento de la respectiva licencia o autorización, periodo en el cual no puede ejercer su actividad como personal técnico-aeronáutico.
 Párrafo adicionado DOF 26-01-2015. Reformado DOF 03-05-2023 La obtención, revalidación, recuperación, reposición y convalidación de licencias, permisos, autorizaciones, capacidades de vuelo y certificados de capacidad del personal técnico-aeronáutico se realizarán de conformidad con el reglamento correspondiente y con las disposiciones técnicoadministrativas emitidas por la Agencia Federal de Aviación Civil.
@@ -513,7 +768,10 @@ Párrafo adicionado DOF 28-12-2001. Reformado DOF 03-05-2023 En las tarifas se d
 ### Artículo 42
 Bis. Para el servicio al público de transporte aéreo de pasajeros, el concesionario o permisionario, o sus representantes, tiene la obligación de informar y respetar las tarifas y restricciones.
 Asimismo, es responsable de que la información relativa a las tarifas esté permanentemente a disposición de los pasajeros y de que cumpla los siguientes requisitos:
-I. Debe apegarse a los términos derivados de la concesión o permiso y contener explícitamente las reglas de aplicación, o condiciones y restricciones que comprende la oferta, así como la vigencia de las mismas, y II. La información y publicidad relacionada con las tarifas deberán ser exactas, veraces, comprobables y claras, que no induzca al error o confusión al pasajero por la forma falsa, exagerada, parcial, artificiosa o tendenciosa en que se presenten.
+
+I. Debe apegarse a los términos derivados de la concesión o permiso y contener explícitamente las reglas de aplicación, o condiciones y restricciones que comprende la oferta, así como la vigencia de las mismas, y
+
+II. La información y publicidad relacionada con las tarifas deberán ser exactas, veraces, comprobables y claras, que no induzca al error o confusión al pasajero por la forma falsa, exagerada, parcial, artificiosa o tendenciosa en que se presenten.
 Cada tarifa deberá aplicarse en igualdad de condiciones para todos los pasajeros sin discriminación alguna.
 La violación a este artículo se considerará como infracción particularmente grave y se sancionará por la Procuraduría, conforme a lo dispuesto en la Ley Federal de Protección al Consumidor.
 Artículo adicionado DOF 26-06-2017
@@ -542,22 +800,39 @@ Párrafo reformado DOF 28-12-2001, 03-05-2023
 
 ### Artículo 46
 . La cancelación de la matrícula de una aeronave en el Registro Aeronáutico Mexicano tendrá por consecuencia la pérdida de su nacionalidad mexicana y podrá realizarse en los siguientes casos:
+
 I. A solicitud escrita del propietario o legítimo poseedor de la aeronave. No podrá cancelarse el registro de matrícula de una aeronave sujeta a gravamen, sin el consentimiento del acreedor;
+
 II. Por mandamiento judicial o de otra autoridad competente;
+
 III. En caso de destrucción, pérdida o abandono de la aeronave;
+
 IV. Por vencimiento del plazo, tratándose de matrículas provisionales;
-V. Por matricularse en otro Estado, y VI. Por cualquiera otra causa que señalen los reglamentos respectivos.
+
+V. Por matricularse en otro Estado, y
+
+VI. Por cualquiera otra causa que señalen los reglamentos respectivos.
 
 ## Capítulo X
 Del Registro Aeronáutico Mexicano
 
 ### Artículo 47
 . El Registro Aeronáutico Mexicano es público, está a cargo de la Agencia Federal de Aviación Civil, y deben inscribirse:
-Párrafo reformado DOF 03-05-2023 I. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre las aeronaves civiles mexicanas y sus motores; así como el arrendamiento de aeronaves mexicanas o extranjeras;
+Párrafo reformado DOF 03-05-2023
+
+I. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre las aeronaves civiles mexicanas y sus motores; así como el arrendamiento de aeronaves mexicanas o extranjeras;
+
 II. Los certificados de matrícula y de aeronavegabilidad;
+
 III. La resolución de la Agencia Federal de Aviación Civil en caso de abandono, pérdida, destrucción, inutilidad o desarme definitivo de las aeronaves;
-Fracción reformada DOF 03-05-2023 IV. Las concesiones, asignaciones, y permisos que amparen el servicio de transporte aéreo, así como los actos y resoluciones legales que los modifiquen o terminen;
-Fracción reformada DOF 18-06-2018, 03-05-2023 V. Las pólizas de seguro, y Fracción reformada DOF 18-06-2018 VI. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre las aeronaves civiles pilotadas a distancia conforme a lo especificado en la norma oficial mexicana correspondiente.
+Fracción reformada DOF 03-05-2023
+
+IV. Las concesiones, asignaciones, y permisos que amparen el servicio de transporte aéreo, así como los actos y resoluciones legales que los modifiquen o terminen;
+Fracción reformada DOF 18-06-2018, 03-05-2023
+
+V. Las pólizas de seguro, y Fracción reformada DOF 18-06-2018
+
+VI. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre las aeronaves civiles pilotadas a distancia conforme a lo especificado en la norma oficial mexicana correspondiente.
 Fracción adicionada DOF 18-06-2018 El reglamento respectivo determinará los requisitos a que deberán sujetarse las inscripciones, las cancelaciones y las certificaciones que deban expedirse.
 
 ## Capítulo X Bis
@@ -566,34 +841,62 @@ De los derechos y las obligaciones de los pasajeros Capítulo adicionado DOF 26-
 ### Artículo 47
 Bis. La persona concesionaria, asignataria o permisionaria están obligadas a proporcionar un servicio eficiente y de calidad a las personas pasajeras.
 Párrafo reformado DOF 03-05-2023 Para garantizar lo anterior, debe respetar y cumplir con cuando menos sus siguientes derechos:
-Encabezado de párrafo adicionado DOF 03-05-2023 I. Las personas pasajeras con alguna discapacidad tienen derecho a ser transportados sin ningún tipo de discriminación por las personas concesionarias, asignatarias o permisionarias.
+Encabezado de párrafo adicionado DOF 03-05-2023
+
+I. Las personas pasajeras con alguna discapacidad tienen derecho a ser transportados sin ningún tipo de discriminación por las personas concesionarias, asignatarias o permisionarias.
 Estas deben establecer mecanismos de conformidad con las disposiciones técnicoadministrativas para garantizar el transporte de personas con discapacidad, conforme a las medidas de seguridad operacional. Las personas pasajeras con discapacidad que requieran transportar dispositivos médicos o de asistencia, inherentes a su discapacidad, pueden hacerlo de acuerdo a lo establecido por el artículo 47 Bis 1 de la presente Ley. No se pueden establecer condiciones ni aplicar cargos adicionales para permitir el abordaje de personas con discapacidad.
 Para efectos de esta fracción se entiende por dispositivos médicos o de asistencia: cualquier equipo que ayude a un pasajero con discapacidad a hacer frente a los efectos de su discapacidad. Dichos dispositivos están destinados a ayudar a un pasajero con discapacidad a oír, ver, comunicarse, maniobrar o realizar otras funciones de la vida diaria, y pueden incluir instrumentos o elementos médicos y medicamentos.
-Fracción reformada DOF 03-05-2023 II. La persona pasajera mayor de edad puede, sin pago de ninguna tarifa, llevar a un infante menor de dos años a su cuidado sin derecho a asiento ni a franquicia de equipaje, por lo que la persona concesionaria, asignataria o permisionaria está obligada a expedir sin costo alguno a favor del infante el boleto y pase de abordar correspondiente. Únicamente en este caso, la persona pasajera puede transportar sin cargo adicional una carriola para infantes.
-Fracción reformada DOF 03-05-2023 III. La persona pasajera tiene derecho a un trato digno y a contar con un alto nivel de información, que le permita conocer sus opciones y tomar alternativas en caso de requerirlas. Por ello, las personas concesionarias, asignatarias o permisionarias están obligadas a informar de manera rápida y expedita a estas, en caso de que se produzcan cambios en su itinerario o cualquier otra circunstancia que pudiera afectar el servicio contratado. Lo deben hacer mediante llamadas telefónicas, correos electrónicos, mensajes de texto o cualquier otro medio electrónico, con al menos veinticuatro horas de anticipación a la salida programada.
+Fracción reformada DOF 03-05-2023
+
+II. La persona pasajera mayor de edad puede, sin pago de ninguna tarifa, llevar a un infante menor de dos años a su cuidado sin derecho a asiento ni a franquicia de equipaje, por lo que la persona concesionaria, asignataria o permisionaria está obligada a expedir sin costo alguno a favor del infante el boleto y pase de abordar correspondiente. Únicamente en este caso, la persona pasajera puede transportar sin cargo adicional una carriola para infantes.
+Fracción reformada DOF 03-05-2023
+
+III. La persona pasajera tiene derecho a un trato digno y a contar con un alto nivel de información, que le permita conocer sus opciones y tomar alternativas en caso de requerirlas. Por ello, las personas concesionarias, asignatarias o permisionarias están obligadas a informar de manera rápida y expedita a estas, en caso de que se produzcan cambios en su itinerario o cualquier otra circunstancia que pudiera afectar el servicio contratado. Lo deben hacer mediante llamadas telefónicas, correos electrónicos, mensajes de texto o cualquier otro medio electrónico, con al menos veinticuatro horas de anticipación a la salida programada.
 De la misma forma, si los cambios se produjeran dentro de las veinticuatro horas previas a la salida programada, las personas concesionarias, asignatarias o permisionarias deben informar a las personas pasajeras tan pronto tengan certeza de que dichos cambios son inevitables, sin que esto las exima de su responsabilidad frente a las personas pasajeras.
 La Agencia Federal de Aviación Civil debe supervisar que las personas concesionarias, asignatarias y permisionarias informen de manera oportuna a las personas pasajeras de posibles cambios, retrasos o cancelaciones en su itinerario.
-Fracción reformada DOF 03-05-2023 IV. En el caso de que la persona pasajera haya adquirido boletos de ida y vuelta o con conexión, puede disponer de ellos para cada segmento particular; las personas concesionarias, asignatarias y permisionarias no pueden negarle el embarque a un vuelo por no haber utilizado alguno de los segmentos del trayecto total.
+Fracción reformada DOF 03-05-2023
+
+IV. En el caso de que la persona pasajera haya adquirido boletos de ida y vuelta o con conexión, puede disponer de ellos para cada segmento particular; las personas concesionarias, asignatarias y permisionarias no pueden negarle el embarque a un vuelo por no haber utilizado alguno de los segmentos del trayecto total.
 Para garantizar el cumplimiento de lo anterior, la persona pasajera debe informar a las personas concesionarias, asignatarias o permisionarias, en el lapso de veinticuatro horas contadas a partir de la hora programada del segmento no utilizado, que hará uso de los segmentos subsecuentes por los medios electrónicos que señalen las personas concesionarias, asignatarias o permisionarias.
-Fracción reformada DOF 03-05-2023 V. En caso de que exista retraso en relación con la hora de salida estipulada en el boleto y la causa sea atribuible a la persona concesionaria, asignataria o permisionaria, la persona pasajera será indemnizada o compensada por la persona proveedora del servicio de acuerdo con los siguientes criterios:
-Párrafo reformado DOF 03-05-2023 a) Cuando la demora sea superior a una hora e inferior a cuatro, se compensará conforme las políticas de compensación de cada permisionario o concesionario.
+Fracción reformada DOF 03-05-2023
+
+V. En caso de que exista retraso en relación con la hora de salida estipulada en el boleto y la causa sea atribuible a la persona concesionaria, asignataria o permisionaria, la persona pasajera será indemnizada o compensada por la persona proveedora del servicio de acuerdo con los siguientes criterios:
+Párrafo reformado DOF 03-05-2023
+
+a) Cuando la demora sea superior a una hora e inferior a cuatro, se compensará conforme las políticas de compensación de cada permisionario o concesionario.
 Las políticas de compensación deben incluir mínimamente descuentos para vuelos en fecha posterior hacia el destino contratado, alimentos y bebidas o una combinación de estos, de acuerdo con lo establecido por las personas concesionarias, asignatarias o permisionarias y conforme al principio de competitividad.
 Párrafo reformado DOF 03-05-2023 Si la demora es mayor a dos horas pero menor a cuatro, los descuentos incluidos en las políticas de compensación no podrán ser menores al 7.5% del precio del boleto.
 Las personas concesionarias, asignatarias y permisionarias deben presentar y registrar cada seis meses, ante la Agencia Federal de Aviación Civil y la Procuraduría, las políticas de compensación, las cuales se harán públicas.
-Párrafo reformado DOF 03-05-2023 b) Si la demora es mayor a cuatro horas, la persona pasajera será compensada conforme a este artículo; además, accederá a las opciones y, en el caso, a la indemnización establecida por esta Ley para la cancelación del vuelo, cuya responsabilidad sea atribuible a la persona concesionaria, asignataria o permisionaria.
+Párrafo reformado DOF 03-05-2023
+
+b) Si la demora es mayor a cuatro horas, la persona pasajera será compensada conforme a este artículo; además, accederá a las opciones y, en el caso, a la indemnización establecida por esta Ley para la cancelación del vuelo, cuya responsabilidad sea atribuible a la persona concesionaria, asignataria o permisionaria.
 Párrafo reformado DOF 03-05-2023 En todos los casos, el proveedor del servicio deberá poner a disposición de los pasajeros en espera acceso a llamadas telefónicas y envío de correos electrónicos.
+
 VI. En caso de producirse la cancelación del vuelo por responsabilidad atribuible a la persona concesionaria, asignataria o permisionaria deben, a elección de la persona pasajera:
-Párrafo reformado DOF 03-05-2023 a) Reintegrarle el precio del boleto o billete de pasaje o la proporción que corresponda a la parte no realizada del viaje. b) Ofrecerle, con todos los medios a su alcance, transporte sustituto en el primer vuelo disponible y proporcionarle, como mínimo y sin cargo, acceso a llamadas telefónicas y envío de correos electrónicos; alimentos de conformidad con el tiempo de espera que medie hasta el embarque en otro vuelo; alojamiento en hotel del aeropuerto o de la ciudad cuando se requiera pernocta y, en este último caso, transporte terrestre desde y hacia el aeropuerto. c) Transportarle en la fecha posterior que convenga al mismo pasajero hacia el destino respecto del cual haya sido cancelado el vuelo.
+Párrafo reformado DOF 03-05-2023
+
+a) Reintegrarle el precio del boleto o billete de pasaje o la proporción que corresponda a la parte no realizada del viaje.
+
+b) Ofrecerle, con todos los medios a su alcance, transporte sustituto en el primer vuelo disponible y proporcionarle, como mínimo y sin cargo, acceso a llamadas telefónicas y envío de correos electrónicos; alimentos de conformidad con el tiempo de espera que medie hasta el embarque en otro vuelo; alojamiento en hotel del aeropuerto o de la ciudad cuando se requiera pernocta y, en este último caso, transporte terrestre desde y hacia el aeropuerto.
+
+c) Transportarle en la fecha posterior que convenga al mismo pasajero hacia el destino respecto del cual haya sido cancelado el vuelo.
 En los casos de los incisos a) y c) anteriores, la persona concesionaria, asignataria o permisionaria debe cubrir, además, una indemnización a la persona pasajera afectada no inferior al veinticinco por ciento del precio del boleto o de la parte no realizada del viaje.
-Párrafo reformado DOF 03-05-2023 VII. Si por caso fortuito o fuerza mayor, la aeronave realiza un aterrizaje en un lugar distinto al de destino, la persona concesionaria, asignataria o permisionaria debe trasladar a la persona pasajera por los medios de transporte más rápidos disponibles, hasta el lugar de destino.
-Fracción reformada DOF 03-05-2023 VIII. La persona pasajera puede solicitar la devolución de su boleto en caso de que decida no efectuar el viaje, siempre y cuando lo comunique a la persona concesionaria, asignataria o permisionaria en el lapso de veinticuatro horas contadas a partir de la hora de la compra del boleto. Pasado este plazo, la persona concesionaria, asignataria o permisionaria determinará las condiciones de la cancelación.
-Fracción reformada DOF 03-05-2023 IX. Para vuelos nacionales e internacionales, la persona pasajera puede transportar como mínimo, y sin cargo alguno, veinticinco kilogramos de equipaje cuando los vuelos se realicen en aeronaves con capacidad para veinte personas pasajeras o más, y quince kilogramos cuando la aeronave sea de menor capacidad, siempre que acate las indicaciones de la persona concesionaria, asignataria o permisionaria en cuanto al número de piezas y restricciones de volumen. El exceso de equipaje debe ser transportado de acuerdo con la capacidad disponible de la aeronave y la persona concesionaria, asignataria o permisionaria, en este caso, tiene derecho a solicitar a la persona pasajera un pago adicional.
+Párrafo reformado DOF 03-05-2023
+
+VII. Si por caso fortuito o fuerza mayor, la aeronave realiza un aterrizaje en un lugar distinto al de destino, la persona concesionaria, asignataria o permisionaria debe trasladar a la persona pasajera por los medios de transporte más rápidos disponibles, hasta el lugar de destino.
+Fracción reformada DOF 03-05-2023
+
+VIII. La persona pasajera puede solicitar la devolución de su boleto en caso de que decida no efectuar el viaje, siempre y cuando lo comunique a la persona concesionaria, asignataria o permisionaria en el lapso de veinticuatro horas contadas a partir de la hora de la compra del boleto. Pasado este plazo, la persona concesionaria, asignataria o permisionaria determinará las condiciones de la cancelación.
+Fracción reformada DOF 03-05-2023
+
+IX. Para vuelos nacionales e internacionales, la persona pasajera puede transportar como mínimo, y sin cargo alguno, veinticinco kilogramos de equipaje cuando los vuelos se realicen en aeronaves con capacidad para veinte personas pasajeras o más, y quince kilogramos cuando la aeronave sea de menor capacidad, siempre que acate las indicaciones de la persona concesionaria, asignataria o permisionaria en cuanto al número de piezas y restricciones de volumen. El exceso de equipaje debe ser transportado de acuerdo con la capacidad disponible de la aeronave y la persona concesionaria, asignataria o permisionaria, en este caso, tiene derecho a solicitar a la persona pasajera un pago adicional.
 Párrafo reformado DOF 03-05-2023 La persona concesionaria, asignataria o permisionaria proporcionará a las personas pasajeras, un talón de equipaje por cada pieza, maleta o bulto de equipaje que se entregue para su transporte. El talón debe contener la información indicada en las disposiciones técnico-administrativas correspondientes y constar de dos partes, una para la persona pasajera y otra que será adherida al equipaje.
 Párrafo reformado DOF 03-05-2023 Además, la persona pasajera puede llevar en cabina hasta dos piezas de equipaje de mano.
 Las dimensiones de cada pieza de equipaje de mano serán de hasta 55 centímetros de largo por 40 centímetros de ancho por 25 centímetros de alto, y el peso de ambas no deben exceder los 10 kilogramos, siempre y cuando por su naturaleza o dimensiones no disminuyan la seguridad y la comodidad de las personas pasajeras.
 Párrafo reformado DOF 20-05-2021, 03-05-2023 La persona concesionaria, asignataria o permisionaria se asegurará de que todo el equipaje de mano embarcado en el avión e introducido en la cabina de personas pasajeras quede bien asegurado y retenido, que evite que caiga de los compartimientos superiores y cause alguna lesión, que no obstruya las salidas y equipo de emergencia, que no exceda las limitaciones de peso de los compartimientos de almacenaje, que no se lleve equipaje de mano durante una evacuación, así como que cuente con los procedimientos para el manejo del exceso en equipaje de mano.
 Párrafo adicionado DOF 03-05-2023 La persona concesionaria, asignataria o permisionaria puede solicitar a la persona pasajera un pago por peso y dimensiones adicionales del equipaje de mano, pero no puede realizar cobros por pesos y dimensiones menores a los establecidos en esta fracción.
 Párrafo adicionado DOF 03-05-2023 Para los servicios de transporte aéreo internacional, el transporte de equipaje se sujetará a lo dispuesto en los Tratados.
+
 X. La persona pasajera tiene derecho a conocer los términos del contrato, así como los derechos de los que goza. La persona concesionaria, asignataria o permisionaria debe informarle, al momento de la compra del boleto, acerca de los términos y condiciones del servicio contratado, las políticas de compensación, así como sus derechos.
 Las personas concesionarias, asignatarias o permisionarias están obligadas a pagar las indemnizaciones previstas en la presente Ley dentro de un periodo máximo de diez días naturales posteriores a su reclamación, hecha por la persona pasajera, salvo las compensaciones de alimentos y hospedaje que deben ser cubiertas al momento de que el retraso del vuelo se actualice.
 Toda cláusula o disposición que pretenda exonerar a la persona concesionaria, asignataria o permisionaria de su responsabilidad, o evitar el pago de las indemnizaciones o compensaciones mencionadas o a fijar un límite inferior al establecido en la presente Ley es nula de pleno derecho por lo que no tendrá efecto legal alguno. En ningún caso, será posible el perdón, condonación o cualquier figura que implique el no pago de las indemnizaciones, compensaciones o sanciones establecidas en la presente Ley.
@@ -617,10 +920,20 @@ Artículo adicionado DOF 26-06-2017
 
 ### Artículo 47
 Bis 4. Las personas pasajeras deben:
-Párrafo reformado DOF 03-05-2023 I. Brindar a la persona concesionaria, asignataria o permisionaria información, documentación y datos personales veraces requeridos para realizar el viaje, al momento de la compra del boleto;
-Fracción reformada DOF 03-05-2023 II. Presentar documentos oficiales de identificación, a solicitud de la persona concesionaria, asignataria, permisionaria o del personal autorizado del aeropuerto;
-Fracción reformada DOF 03-05-2023 III. Acatar las normas de seguridad plasmadas en los Programas de Seguridad para la Prevención de Actos de Interferencia Ilícita y, en su caso, las contenidas en los Programas Locales de Seguridad del Aeródromo Civil que corresponda, así como las de operación aeroportuarias vigentes;
-Fracción reformada DOF 03-05-2023 IV. Ocupar el asiento asignado, a menos que la tripulación por un requerimiento justificado le solicite o le autorice ocupar uno distinto, y V. Las demás que establezcan la Ley y demás ordenamientos.
+Párrafo reformado DOF 03-05-2023
+
+I. Brindar a la persona concesionaria, asignataria o permisionaria información, documentación y datos personales veraces requeridos para realizar el viaje, al momento de la compra del boleto;
+Fracción reformada DOF 03-05-2023
+
+II. Presentar documentos oficiales de identificación, a solicitud de la persona concesionaria, asignataria, permisionaria o del personal autorizado del aeropuerto;
+Fracción reformada DOF 03-05-2023
+
+III. Acatar las normas de seguridad plasmadas en los Programas de Seguridad para la Prevención de Actos de Interferencia Ilícita y, en su caso, las contenidas en los Programas Locales de Seguridad del Aeródromo Civil que corresponda, así como las de operación aeroportuarias vigentes;
+Fracción reformada DOF 03-05-2023
+
+IV. Ocupar el asiento asignado, a menos que la tripulación por un requerimiento justificado le solicite o le autorice ocupar uno distinto, y
+
+V. Las demás que establezcan la Ley y demás ordenamientos.
 Artículo adicionado DOF 26-06-2017
 
 ## Capítulo XI
@@ -648,8 +961,13 @@ Para este tipo de servicios, el concesionario o permisionario deberá exigir a l
 
 ### Artículo 52
 . Cuando se hayan expedido boletos en exceso a la capacidad disponible de la aeronave y se tenga por consecuencia la denegación del embarque, el propio concesionario o permisionario, a elección del pasajero, deberá:
-Párrafo reformado DOF 26-06-2017 I. Reintegrarle el precio del boleto o billete de pasaje o la proporción que corresponda a la parte no realizada del viaje;
-II. Ofrecerle, con todos los medios a su alcance, transporte sustituto en el primer vuelo disponible y proporcionarle, como mínimo y sin cargo, los servicios de comunicación telefónica o cablegráfica al punto de destino; alimentos de conformidad con el tiempo de espera que medie hasta el embarque en otro vuelo; alojamiento en hotel del aeropuerto o de la ciudad cuando se requiera pernocta y, en este último caso, transporte terrestre desde y hacia el aeropuerto, o III. Transportarle en la fecha posterior que convenga al mismo pasajero hacia el destino respecto del cual se denegó el embarque.
+Párrafo reformado DOF 26-06-2017
+
+I. Reintegrarle el precio del boleto o billete de pasaje o la proporción que corresponda a la parte no realizada del viaje;
+
+II. Ofrecerle, con todos los medios a su alcance, transporte sustituto en el primer vuelo disponible y proporcionarle, como mínimo y sin cargo, los servicios de comunicación telefónica o cablegráfica al punto de destino; alimentos de conformidad con el tiempo de espera que medie hasta el embarque en otro vuelo; alojamiento en hotel del aeropuerto o de la ciudad cuando se requiera pernocta y, en este último caso, transporte terrestre desde y hacia el aeropuerto, o
+
+III. Transportarle en la fecha posterior que convenga al mismo pasajero hacia el destino respecto del cual se denegó el embarque.
 En los casos de las fracciones I y III anteriores, el concesionario o permisionario deberá cubrir, además, una indemnización al pasajero afectado que no será inferior al veinticinco por ciento del precio del boleto o billete de pasaje o de la parte no realizada del viaje.
 
 ### Artículo 52
@@ -722,7 +1040,18 @@ Para los daños a personas, las acciones para exigir el pago de las indemnizacio
 
 ### Artículo 67
 . Los concesionarios o permisionarios del servicio al público de transporte aéreo estarán exentos de las responsabilidades por daños causados en los siguientes casos:
-I. A pasajeros, por culpa o negligencia inexcusable de la víctima, y II. A equipaje facturado y carga: a) Por vicios propios de los bienes o productos, o por embalajes inadecuados; b) Cuando la carga, por su propia naturaleza, sufra deterioro o daño total o parcial, siempre que hayan cumplido en el tiempo de entrega establecido; c) Cuando los bienes se transporten a petición escrita del remitente en vehículos no idóneos, siempre que por la naturaleza de aquéllos debieran transportarse en vehículos con otras características, y d) Cuando sean falsas las declaraciones o instrucciones del embarcador, del consignatario o destinatario de los bienes, o del titular de la carta de porte, respecto del manejo de la carga.
+
+I. A pasajeros, por culpa o negligencia inexcusable de la víctima, y
+
+II. A equipaje facturado y carga:
+
+a) Por vicios propios de los bienes o productos, o por embalajes inadecuados;
+
+b) Cuando la carga, por su propia naturaleza, sufra deterioro o daño total o parcial, siempre que hayan cumplido en el tiempo de entrega establecido;
+
+c) Cuando los bienes se transporten a petición escrita del remitente en vehículos no idóneos, siempre que por la naturaleza de aquéllos debieran transportarse en vehículos con otras características, y
+
+d) Cuando sean falsas las declaraciones o instrucciones del embarcador, del consignatario o destinatario de los bienes, o del titular de la carta de porte, respecto del manejo de la carga.
 
 ### Artículo 68
 . Los daños que sufran las personas o carga transportadas en aeronaves destinadas a Artículo reformado DOF 18-06-2018, 03-05-2023
@@ -738,8 +1067,12 @@ Sección Segunda De los daños a terceros
 . Cuando por la operación de una aeronave, por objetos desprendidos de la misma o por abordaje, se causen daños a personas o cosas que se encuentren en la superficie, nacerá la responsabilidad con sólo establecer la existencia del daño y su causa.
 Es responsabilidad de la persona concesionaria, asignataria o permisionaria y, en el caso de la operación de las aeronaves para uso particular, de la persona propietaria o poseedora de la aeronave, cubrir las indemnizaciones por los daños causados, en términos de lo dispuesto en las disposiciones legales aplicables.
 Párrafo reformado DOF 28-12-2001, 03-05-2023 Para los efectos de este capítulo, una aeronave se encuentra en operación cuando está en movimiento, lo que ocurrirá en los casos en que:
+
 I. Se encuentra en funcionamiento cualquiera de sus servicios o equipos, con tripulación, pasaje o carga a bordo;
-II. Se desplaza en la superficie por su propia fuerza motriz, o III. Se encuentre en vuelo.
+
+II. Se desplaza en la superficie por su propia fuerza motriz, o
+
+III. Se encuentre en vuelo.
 La aeronave se considera en vuelo desde el momento en que inicia la carrera para su despegue hasta el momento en que concluya el recorrido del aterrizaje.
 
 ### Artículo 71
@@ -787,8 +1120,14 @@ Del abandono de aeronaves
 
 ### Artículo 77
 . La Agencia Federal de Aviación Civil está facultada para hacer la declaratoria de abandono de aeronaves cuando:
-Párrafo reformado DOF 03-05-2023 I. Lo declare la persona propietaria o poseedora ante la Agencia Federal de Aviación Civil;
-Fracción reformada DOF 03-05-2023 II. La aeronave permanezca en un aeropuerto, aeródromo o helipuerto noventa días naturales o más sin estar al cuidado directo o indirecto de su propietario o poseedor, o III. Carezca de marcas de nacionalidad y matrícula y no sea posible conocer, por los documentos a bordo, el nombre de su propietario o poseedor y lugar de procedencia.
+Párrafo reformado DOF 03-05-2023
+
+I. Lo declare la persona propietaria o poseedora ante la Agencia Federal de Aviación Civil;
+Fracción reformada DOF 03-05-2023
+
+II. La aeronave permanezca en un aeropuerto, aeródromo o helipuerto noventa días naturales o más sin estar al cuidado directo o indirecto de su propietario o poseedor, o
+
+III. Carezca de marcas de nacionalidad y matrícula y no sea posible conocer, por los documentos a bordo, el nombre de su propietario o poseedor y lugar de procedencia.
 En los casos de las fracciones II y III, previamente a la declaratoria de abandono, la Agencia Federal de Aviación Civil publicará tres veces un aviso, con intervalos de diez días cada uno, en el Diario Oficial de la Federación y en un periódico de la entidad federativa donde se encuentre la aeronave, en el que se concederá un plazo de cuarenta días naturales, a partir de la primera publicación, para que el interesado manifieste por escrito lo que a su derecho convenga. Concluido el plazo, la Agencia Federal de Aviación Civil, en su caso, hará la declaratoria de abandono de la aeronave para que esta sea propiedad de la Nación, y procederá en términos de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
 Párrafo reformado DOF 03-05-2023
 
@@ -801,49 +1140,108 @@ Seguridad operacional Capítulo adicionado DOF 26-01-2015
 
 ### Artículo 78
 Bis. La Agencia Federal de Aviación Civil está obligada a establecer y mantener la gestión de la seguridad operacional del sistema de aviación civil por los Estados Unidos Mexicanos, el cual incluye como mínimo los siguientes componentes:
-Párrafo reformado DOF 03-05-2023 I. Política, objetivos y recursos estatales de seguridad operacional;
-Fracción reformada DOF 03-05-2023 II. Gestión estatal de los riesgos de seguridad operacional;
-Fracción reformada DOF 03-05-2023 III. Aseguramiento estatal de la seguridad operacional, y Fracción reformada DOF 03-05-2023 IV. Promoción estatal de la seguridad operacional.
-Fracción reformada DOF 03-05-2023 V. Derogada.
+Párrafo reformado DOF 03-05-2023
+
+I. Política, objetivos y recursos estatales de seguridad operacional;
+Fracción reformada DOF 03-05-2023
+
+II. Gestión estatal de los riesgos de seguridad operacional;
+Fracción reformada DOF 03-05-2023
+
+III. Aseguramiento estatal de la seguridad operacional, y Fracción reformada DOF 03-05-2023
+
+IV. Promoción estatal de la seguridad operacional.
+Fracción reformada DOF 03-05-2023
+
+V. Derogada.
 Fracción derogada DOF 03-05-2023 Reforma DOF 03-05-2023: Derogó del artículo el entonces párrafo segundo Artículo adicionado DOF 26-01-2015
 
 ### Artículo 78
 Bis 1. La Agencia Federal de Aviación Civil, en materia de seguridad operacional, tiene las siguientes atribuciones:
-Párrafo reformado DOF 03-05-2023 I. Establecer y mantener un sistema de vigilancia de la seguridad operacional;
-Fracción reformada DOF 03-05-2023 II. Establecer y mantener la gestión de la seguridad operacional del sistema de aviación civil por los Estados Unidos Mexicanos;
-Fracción reformada DOF 03-05-2023 III. Requerir a los proveedores de servicio que implementen y mantengan un Sistema de gestión de la seguridad operacional eficaz, certificado de conformidad con las disposiciones de reglamentos y normas oficiales mexicanas aplicables;
+Párrafo reformado DOF 03-05-2023
+
+I. Establecer y mantener un sistema de vigilancia de la seguridad operacional;
+Fracción reformada DOF 03-05-2023
+
+II. Establecer y mantener la gestión de la seguridad operacional del sistema de aviación civil por los Estados Unidos Mexicanos;
+Fracción reformada DOF 03-05-2023
+
+III. Requerir a los proveedores de servicio que implementen y mantengan un Sistema de gestión de la seguridad operacional eficaz, certificado de conformidad con las disposiciones de reglamentos y normas oficiales mexicanas aplicables;
+
 IV. Coordinar las actividades de las diversas organizaciones que participen en el Programa estatal de seguridad operacional;
+
 V. Establecer un sistema de notificación obligatorio y otro de notificación voluntario de seguridad operacional;
-Fracción reformada DOF 03-05-2023 VI. Conducir inspecciones, verificaciones y evaluaciones de las actividades aeronáuticas de los proveedores de servicio;
+Fracción reformada DOF 03-05-2023
+
+VI. Conducir inspecciones, verificaciones y evaluaciones de las actividades aeronáuticas de los proveedores de servicio;
+
 VII. Requerir que los proveedores de servicio mejoren, enmienden o tomen acciones en su Sistema de gestión de la seguridad operacional, cuando se identifiquen deficiencias o carencias que representan un riesgo que podría comprometer la Seguridad operacional de sus actividades;
+
 VIII. Adoptar las medidas correctivas y preventivas que eliminen las causas que generen los diferentes hallazgos de seguridad operacional, derivados de las inspecciones y verificaciones, incluidas medidas para el cumplimiento, para resolver los problemas de seguridad operacional detectados;
-Fracción reformada DOF 03-05-2023 IX. Asegurarse de que los hallazgos de Seguridad operacional detectados se resuelvan de manera oportuna por medio de un sistema que permita observar y registrar el progreso, así como las medidas adoptadas por los proveedores de servicios, para solucionar los mismos;
+Fracción reformada DOF 03-05-2023
+
+IX. Asegurarse de que los hallazgos de Seguridad operacional detectados se resuelvan de manera oportuna por medio de un sistema que permita observar y registrar el progreso, así como las medidas adoptadas por los proveedores de servicios, para solucionar los mismos;
+
 X. Proponer a la Secretaría los recursos financieros necesarios para la implementación del Programa Estatal de Seguridad Operacional;
-Fracción reformada DOF 03-05-2023 XI. Establecer sistemas de recopilación y procesamiento de datos sobre seguridad operacional;
-Fracción adicionada DOF 03-05-2023 XII. Acceder a los datos e información sobre seguridad operacional;
-Fracción adicionada DOF 03-05-2023 XIII. Recopilar, analizar, compartir, procesar, intercambiar y utilizar datos e información de seguridad operacional;
-Fracción adicionada DOF 03-05-2023 XIV. Emitir el Manual del Programa Estatal de Seguridad Operacional, y Fracción adicionada DOF 03-05-2023 XV. Emitir disposiciones técnico-administrativas en materia de seguridad operacional.
+Fracción reformada DOF 03-05-2023
+
+XI. Establecer sistemas de recopilación y procesamiento de datos sobre seguridad operacional;
+Fracción adicionada DOF 03-05-2023
+
+XII. Acceder a los datos e información sobre seguridad operacional;
+Fracción adicionada DOF 03-05-2023
+
+XIII. Recopilar, analizar, compartir, procesar, intercambiar y utilizar datos e información de seguridad operacional;
+Fracción adicionada DOF 03-05-2023
+
+XIV. Emitir el Manual del Programa Estatal de Seguridad Operacional, y Fracción adicionada DOF 03-05-2023
+
+XV. Emitir disposiciones técnico-administrativas en materia de seguridad operacional.
 Fracción adicionada DOF 03-05-2023 Artículo adicionado DOF 26-01-2015
 
 ### Artículo 78
 Bis 2. Las personas proveedoras de servicio que a continuación se señalan deben implementar y mantener un Sistema de gestión de la seguridad operacional, como parte del Programa estatal de seguridad operacional que establezca la Agencia Federal de Aviación Civil:
-Párrafo reformado DOF 03-05-2023 I. Las personas concesionarias, asignatarias y permisionarias de transporte aéreo de servicio al público;
-Fracción reformada DOF 03-05-2023 II. Las personas concesionarias, asignatarias y permisionarias aeroportuarias;
-Fracción reformada DOF 03-05-2023 III. El organismo descentralizado Aeropuertos y Servicios Auxiliares;
+Párrafo reformado DOF 03-05-2023
+
+I. Las personas concesionarias, asignatarias y permisionarias de transporte aéreo de servicio al público;
+Fracción reformada DOF 03-05-2023
+
+II. Las personas concesionarias, asignatarias y permisionarias aeroportuarias;
+Fracción reformada DOF 03-05-2023
+
+III. El organismo descentralizado Aeropuertos y Servicios Auxiliares;
+
 IV. El órgano administrativo desconcentrado Servicios a la Navegación en el Espacio Aéreo Mexicano;
+
 V. Los permisionarios de talleres aeronáuticos;
+
 VI. Las organizaciones responsables del diseño de tipo o responsables de la fabricación de aeronaves, motores o hélices;
-Fracción reformada DOF 20-05-2021 VII. Los prestadores de servicio de tránsito aéreo;
-VIII. Las instituciones educativas que estén expuestas a riesgos de seguridad operacional relacionados con la operación de aeronaves al prestar sus servicios, y Fracción reformada DOF 03-05-2023 IX. Los operadores aéreos de aeronaves de estado distintas de las militares.
+Fracción reformada DOF 20-05-2021
+
+VII. Los prestadores de servicio de tránsito aéreo;
+
+VIII. Las instituciones educativas que estén expuestas a riesgos de seguridad operacional relacionados con la operación de aeronaves al prestar sus servicios, y Fracción reformada DOF 03-05-2023
+
+IX. Los operadores aéreos de aeronaves de estado distintas de las militares.
 Artículo adicionado DOF 26-01-2015
 
 ### Artículo 78
 Bis 3. El Sistema de gestión de la seguridad operacional deberá incluir, por lo menos:
+
 I. Un proceso para identificar y notificar peligros que afecten la seguridad operacional y evaluar los riesgos conexos;
-Fracción reformada DOF 03-05-2023 II. Un proceso para definir y aplicar las acciones necesarias para mantener un nivel óptimo de Seguridad operacional;
+Fracción reformada DOF 03-05-2023
+
+II. Un proceso para definir y aplicar las acciones necesarias para mantener un nivel óptimo de Seguridad operacional;
+
 III. Disposiciones para observar continuamente y evaluar en forma regular la eficacia de las actividades de gestión de la seguridad operacional;
-Fracción reformada DOF 03-05-2023 IV. Un proceso para la supervisión y medición del desempeño de seguridad operacional logrado;
-Fracción reformada DOF 03-05-2023 V. Un mecanismo de control que permita a la persona proveedora de servicios evaluar la eficacia de sus procesos y del Sistema de gestión de la seguridad operacional para permitir el mejoramiento continuo del rendimiento general del mismo, y Fracción reformada DOF 03-05-2023 VI. Un proceso de mejora continua que permita el incremento del rendimiento de los procesos del Sistema de gestión de seguridad operacional.
+Fracción reformada DOF 03-05-2023
+
+IV. Un proceso para la supervisión y medición del desempeño de seguridad operacional logrado;
+Fracción reformada DOF 03-05-2023
+
+V. Un mecanismo de control que permita a la persona proveedora de servicios evaluar la eficacia de sus procesos y del Sistema de gestión de la seguridad operacional para permitir el mejoramiento continuo del rendimiento general del mismo, y Fracción reformada DOF 03-05-2023
+
+VI. Un proceso de mejora continua que permita el incremento del rendimiento de los procesos del Sistema de gestión de seguridad operacional.
 Fracción adicionada DOF 03-05-2023 Las personas proveedoras de servicio que se encuentren en proceso de implementación del Sistema de gestión de la seguridad operacional estarán sujetas a ser evaluadas mediante inspecciones de conformidad con la norma oficial mexicana y las disposiciones técnico-administrativas correspondientes.
 Párrafo adicionado DOF 03-05-2023 Artículo adicionado DOF 26-01-2015
 
@@ -855,10 +1253,16 @@ Artículo adicionado DOF 26-01-2015. Reformado DOF 03-05-2023
 
 ### Artículo 78
 Bis 5. Los datos e información sobre seguridad operacional contenida en el Sistema de gestión de la seguridad operacional, sistemas de recopilación y procesamiento de datos sobre seguridad operacional, bases de datos, esquemas para intercambio de información e información registrada, comprenden:
+
 I. Datos e información relativos a las investigaciones de accidentes e incidentes de aviación;
+
 II. Sistemas de notificación obligatoria de seguridad operacional, que incluya la notificación de incidentes;
+
 III. Sistemas de notificación voluntaria de seguridad operacional;
-IV. Sistemas de autonotificación, incluidos los sistemas automáticos o manuales de captura de datos, y V. Datos e información relativos a las investigaciones de seguridad operacional efectuadas por la Agencia Federal de Aviación Civil o las proveedoras de servicio.
+
+IV. Sistemas de autonotificación, incluidos los sistemas automáticos o manuales de captura de datos, y
+
+V. Datos e información relativos a las investigaciones de seguridad operacional efectuadas por la Agencia Federal de Aviación Civil o las proveedoras de servicio.
 Artículo adicionado DOF 26-01-2015. Reformado DOF 20-05-2021, 03-05-2023
 
 ### Artículo 78
@@ -868,7 +1272,11 @@ Artículo adicionado DOF 26-01-2015. Reformado DOF 03-05-2023
 
 ### Artículo 78
 Bis 7. Los datos e información sobre seguridad operacional que provenga de las fuentes señaladas en el artículo 78 Bis 5, así como los datos de las personas involucradas en los eventos relacionados con esa información, no se proporcionarán para fines diferentes para los que fue recopilada, por lo que nadie puede ser requerido, en conexión con un proceso judicial, administrativo o disciplinario, a aportar evidencias concernientes a la información de seguridad operacional proporcionada de manera voluntaria a la Agencia Federal de Aviación Civil, excepto por las siguientes causas:
-Párrafo reformado DOF 20-05-2021, 03-05-2023 I. Por requerimiento expreso de una autoridad judicial o administrativa competente que haya determinado que la Agencia Federal de Aviación Civil tiene información necesaria para la administración de justicia, para lo cual la autoridad requirente debe proteger la información como reservada o confidencial dentro del proceso correspondiente, y Fracción reformada DOF 03-05-2023 II. Que una autoridad competente considere que, de acuerdo con las evidencias suficientes y las circunstancias que indiquen de manera razonable que un evento determinado pudo haber sido causado por una conducta dolosa o gravemente negligente.
+Párrafo reformado DOF 20-05-2021, 03-05-2023
+
+I. Por requerimiento expreso de una autoridad judicial o administrativa competente que haya determinado que la Agencia Federal de Aviación Civil tiene información necesaria para la administración de justicia, para lo cual la autoridad requirente debe proteger la información como reservada o confidencial dentro del proceso correspondiente, y Fracción reformada DOF 03-05-2023
+
+II. Que una autoridad competente considere que, de acuerdo con las evidencias suficientes y las circunstancias que indiquen de manera razonable que un evento determinado pudo haber sido causado por una conducta dolosa o gravemente negligente.
 Artículo adicionado DOF 26-01-2015
 
 ### Artículo 78
@@ -893,10 +1301,16 @@ Gestión de Riesgos Asociados a la Fatiga Capítulo adicionado DOF 03-05-2023
 
 ### Artículo 78
 Ter. Deben implementar y mantener la gestión de los riesgos asociados a la fatiga:
+
 I. Las personas concesionarias, asignatarias y permisionarias de transporte aéreo de servicio al público;
+
 II. Las personas operadoras aéreas de aeronaves de Estado distintas de las militares;
+
 III. Las personas operadoras aéreas de aeronaves para uso particular;
-IV. Las personas prestadoras de servicio de tránsito aéreo, y V. Las personas permisionarias de talleres aeronáuticos que prestan servicio de mantenimiento de aeronaves de conformidad con lo establecido en el reglamento correspondiente, las normas oficiales mexicanas y las disposiciones técnico-administrativas aplicables.
+
+IV. Las personas prestadoras de servicio de tránsito aéreo, y
+
+V. Las personas permisionarias de talleres aeronáuticos que prestan servicio de mantenimiento de aeronaves de conformidad con lo establecido en el reglamento correspondiente, las normas oficiales mexicanas y las disposiciones técnico-administrativas aplicables.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 78
@@ -912,15 +1326,24 @@ Quinquies. Las personas proveedoras de servicio y operadoras aéreas señaladas 
 
 ### artículo 78
 Ter deben implementar y mantener un Sistema de gestión de los riesgos asociados a la fatiga cuando:
-I. Realicen operaciones a destinos internacionales, traspasando más de dos husos horarios en sus operaciones o tengan vuelos nocturnos, o una combinación de estos, y II. Excedan las limitaciones prescriptivas establecidas en las disposiciones jurídicas aplicables.
+
+I. Realicen operaciones a destinos internacionales, traspasando más de dos husos horarios en sus operaciones o tengan vuelos nocturnos, o una combinación de estos, y
+
+II. Excedan las limitaciones prescriptivas establecidas en las disposiciones jurídicas aplicables.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 78
 Sexies. El Sistema de gestión de los riesgos asociados a la fatiga debe incluir, por lo menos procesos para:
+
 I. Identificar y notificar peligros asociados a la fatiga que afecten la seguridad operacional y evaluar los riesgos conexos;
+
 II. Definir y aplicar las acciones necesarias para mantener un nivel aceptable de seguridad operacional;
+
 III. Observar continuamente y evaluar en forma regular la eficacia de las actividades de gestión de los riesgos asociados a la fatiga;
-IV. Supervisar y medir el desempeño de seguridad operacional logrado con relación a la gestión de la fatiga, y V. Evaluar de manera continua y permanente la eficacia de los procesos del Sistema de gestión de los riesgos asociados a la fatiga, a fin de permitir el mejoramiento continuo del rendimiento general de dicho Sistema.
+
+IV. Supervisar y medir el desempeño de seguridad operacional logrado con relación a la gestión de la fatiga, y
+
+V. Evaluar de manera continua y permanente la eficacia de los procesos del Sistema de gestión de los riesgos asociados a la fatiga, a fin de permitir el mejoramiento continuo del rendimiento general de dicho Sistema.
 Las personas proveedoras de servicio que se encuentren en proceso de implementación del Sistema de gestión de los riesgos asociados a la fatiga están sujetas a ser evaluadas mediante inspecciones de conformidad con la norma oficial mexicana y las disposiciones técnico-administrativas correspondientes.
 Artículo adicionado DOF 03-05-2023
 
@@ -935,13 +1358,22 @@ De la Seguridad de la Aviación Civil Capítulo adicionado DOF 03-05-2023
 
 ### Artículo 78
 Octies. La Agencia Federal de Aviación Civil tiene como uno de sus objetivos primordiales la seguridad de las personas pasajeras, las tripulaciones, el personal en tierra y el público en general en todos los asuntos relacionados con la salvaguarda contra los actos de interferencia ilícita siguientes:
+
 I. Apoderamiento ilícito de aeronaves;
+
 II. Destrucción de una aeronave en servicio;
+
 III. Toma de rehenes a bordo de aeronaves o en los aeródromos;
+
 IV. Intrusión por la fuerza en una aeronave, en un aeropuerto o en el recinto de una instalación aeronáutica;
+
 V. Introducción, a bordo de una aeronave o en un aeropuerto, de armas, artefactos o sustancias peligrosas, sin la autorización correspondiente;
+
 VI. El uso de una aeronave en servicio que cause la muerte, lesiones corporales graves o daños graves a los bienes o al medio ambiente;
-VII. Comunicación de información falsa que comprometa la seguridad de una aeronave en vuelo, o en tierra, o la seguridad de las personas pasajeras, tripulación, personal de tierra y público en un aeropuerto o en el recinto de una instalación de aviación civil, y VIII. Las demás acciones u omisiones que transgredan las disposiciones jurídicas y que comprometan la seguridad de una aeronave en vuelo o en tierra, o la seguridad de las personas pasajeras, tripulación, personal de tierra, o bien, de las personas en su conjunto que se encuentren en el recinto de una instalación de aviación civil.
+
+VII. Comunicación de información falsa que comprometa la seguridad de una aeronave en vuelo, o en tierra, o la seguridad de las personas pasajeras, tripulación, personal de tierra y público en un aeropuerto o en el recinto de una instalación de aviación civil, y
+
+VIII. Las demás acciones u omisiones que transgredan las disposiciones jurídicas y que comprometan la seguridad de una aeronave en vuelo o en tierra, o la seguridad de las personas pasajeras, tripulación, personal de tierra, o bien, de las personas en su conjunto que se encuentren en el recinto de una instalación de aviación civil.
 Para efectos del párrafo anterior, la Agencia Federal de Aviación Civil aplicará el Programa de Seguridad de la Aviación Civil del Estado mexicano, mediante normas, métodos y procedimientos que tomen en cuenta la seguridad, regularidad y eficiencia de los vuelos.
 Artículo adicionado DOF 03-05-2023
 
@@ -970,11 +1402,18 @@ Artículo adicionado DOF 03-05-2023
 
 ### Artículo 78
 Quaterdecies. La Agencia Federal de Aviación Civil tiene, en materia de seguridad de la aviación civil, las atribuciones siguientes:
+
 I. Elaborar, implementar y mantener el Programa General de Control de Calidad de la Seguridad de la Aviación Civil, previa aprobación de la persona titular de la Secretaría;
+
 II. Vigilar y verificar que se establezcan procedimientos para el tratamiento del equipaje no identificado y los objetos sospechosos, de conformidad con las disposiciones técnicoadministrativas correspondientes;
+
 III. Vigilar y verificar que el equipaje facturado en tránsito se inspeccione antes de cargarse en una aeronave que realice operaciones de transporte aéreo comercial, a menos que la Agencia Federal de Aviación Civil haya autorizado un procedimiento de validación y aplique procedimientos permanentes para asegurar que ese equipaje facturado se haya inspeccionado en el punto de origen y protegido luego contra interferencias no autorizadas, desde el aeropuerto de origen hasta su carga en la aeronave de salida, en el aeropuerto de tránsito;
+
 IV. Vigilar y verificar que las personas concesionarias, asignatarias o permisionarias del transporte aéreo comercial transporten únicamente artículos del equipaje facturado identificados individualmente, ya sea como equipaje acompañado o no acompañado, e inspeccionados de conformidad con las disposiciones técnico-administrativas emitidas para tal efecto;
-V. Vigilar y verificar que la carga y correo que trasladan las personas concesionarias, asignatarias o permisionarias que realicen operaciones de transporte aéreo comercial, se sometan a controles de seguridad, inspección y vigilancia antes de ser cargados en una aeronave, y VI. Establecer en las disposiciones técnico-administrativas aplicables los requisitos para las personas concesionarias, asignatarias o permisionarias del transporte aéreo relativos al traslado de personas pasajeras que viajen bajo coacción, por haber sido sometidas a procedimientos judiciales o administrativos.
+
+V. Vigilar y verificar que la carga y correo que trasladan las personas concesionarias, asignatarias o permisionarias que realicen operaciones de transporte aéreo comercial, se sometan a controles de seguridad, inspección y vigilancia antes de ser cargados en una aeronave, y
+
+VI. Establecer en las disposiciones técnico-administrativas aplicables los requisitos para las personas concesionarias, asignatarias o permisionarias del transporte aéreo relativos al traslado de personas pasajeras que viajen bajo coacción, por haber sido sometidas a procedimientos judiciales o administrativos.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 78
@@ -1004,7 +1443,11 @@ De los accidentes y de la búsqueda y salvamento
 ### Artículo 79
 . Las personas concesionarias, asignatarias, operadoras aéreas, o permisionarias y, en el caso de las operaciones de aeronaves para uso particular, las personas propietarias o poseedoras de aeronaves, deben contar con los equipos técnicos y con el personal capacitado, necesario, para la prevención de accidentes e incidentes aéreos.
 Párrafo reformado DOF 03-05-2023 Para efectos de esta Ley, se entiende por:
-Párrafo reformado DOF 03-05-2023 I. Accidente: todo suceso en el cual se causen lesiones mortales o graves, a personas a bordo de la aeronave, o en tierra por partes que se hayan desprendido, o bien, se ocasionen daños o roturas estructurales a la aeronave, o por el que la aeronave desaparezca o se encuentre en un lugar inaccesible, y Fracción reformada DOF 20-05-2021 II. Incidente: todo suceso relacionado con la utilización de una aeronave, que no llegue a ser un accidente que afecte o pueda afectar la seguridad operacional.
+Párrafo reformado DOF 03-05-2023
+
+I. Accidente: todo suceso en el cual se causen lesiones mortales o graves, a personas a bordo de la aeronave, o en tierra por partes que se hayan desprendido, o bien, se ocasionen daños o roturas estructurales a la aeronave, o por el que la aeronave desaparezca o se encuentre en un lugar inaccesible, y Fracción reformada DOF 20-05-2021
+
+II. Incidente: todo suceso relacionado con la utilización de una aeronave, que no llegue a ser un accidente que afecte o pueda afectar la seguridad operacional.
 Fracción reformada DOF 03-05-2023
 
 ### Artículo 80
@@ -1022,20 +1465,42 @@ Artículo reformado DOF 20-05-2021
 
 ### Artículo 81
 Bis. La Comisión Investigadora y Dictaminadora de Accidentes Aéreos contará con las siguientes facultades para investigar accidentes e incidentes de aviación:
+
 I. Coordinar, requerir y recibir información, realizar la investigación del incidente o accidente;
+
 II. Requerir la asistencia de todas las personas que considere necesario entrevistar para que rindan cualquier aclaración, pregunta o proporcionen información sobre el accidente o incidente aéreo;
-III. Exigir la protección y preservación de: a) El lugar del accidente o incidente aéreo; b) La aeronave y cualquier parte de esta, y c) Los registros y documentos relacionados con el suceso.
+
+III. Exigir la protección y preservación de:
+
+a) El lugar del accidente o incidente aéreo;
+
+b) La aeronave y cualquier parte de esta, y
+
+c) Los registros y documentos relacionados con el suceso.
+
 IV. Establecer o delimitar el lugar en que se considere que pueda existir información para acceder con fines de búsqueda y recopilar información, registros o evidencias relevantes para la investigación del accidente o incidente, entre ellos al taller de mantenimiento, oficina de despacho, proveedores de servicio, operador aéreo, aeropuerto, torre de control, así como obtener copia, previo cotejo del original de todo documento o evidencia de lo que se encuentre durante el transcurso de su búsqueda incluidas las transcripciones de las comunicaciones y registros de los servicios de tránsito aéreo;
+
 V. Prohibir o limitar, por el tiempo que sea necesario el acceso a las áreas diferentes al lugar del accidente, donde haya estado o estuvo la aeronave accidentada o incidentada, para los fines de conservación y protección de evidencias;
+
 VI. Solicitar instalaciones para el resguardo y para realizar cualquier tipo de pruebas y exámenes a los componentes, motores, sistemas y demás partes de la aeronave que sean necesarias para determinar las causas de ocurrencia del suceso, incluyendo las destructivas;
+
 VII. Obtener todo tipo de evidencia y copias de cualquier documento relevante relativo al accidente o incidente, a las personas, empresas y equipos relacionados con el mismo, en particular, la formación y calificación de las personas, que hayan participado en el mantenimiento, despacho, servicio de control y seguimiento del vuelo, construcción o diseño, tripulación, control de la(s) aeronave(s) implicadas, así como demás información que el investigador considere relevante;
+
 VIII. Realizar cualquier tipo de pruebas, incluyendo las destructivas, de todo material, componentes, líquidos, motores, entre otros, de lo que fue reunido durante la investigación, en laboratorios nacionales o en el extranjero que tengan la capacidad para realizarlas;
+
 IX. Custodiar cualquier documento o componente hasta que la investigación haya finalizado;
+
 X. Requerir un examen médico a la persona o personas que directa o indirectamente hayan estado implicadas en la operación de una aeronave involucrada en un accidente o incidente y si procede a los pasajeros;
+
 XI. Requerir a los médicos competentes la información con que cuenten de un paciente involucrado en un accidente o incidente, cuando sea relevante para la investigación;
 XI Bis. Requerir de la Agencia Federal de Aviación Civil la información médica, con que cuenten, del personal técnico-aeronáutico involucrado en un accidente o incidente, cuando sea relevante para la investigación;
-Fracción adicionada DOF 03-05-2023 XII. Solicitar a la instancia medica competente los resultados de las necropsias realizadas a los miembros de la tripulación involucrados en un accidente y, en su caso, a pasajeros;
-XIII. Requerir a las autoridades locales por medio de la comandancia que realizó la investigación de campo, que aseguren la protección del lugar del accidente, de la aeronave y de su contenido, hasta el momento en que pueda tomar la custodia y seguridad de la aeronave y de su contenido, y XIV. Coordinar en el sitio del accidente la investigación en materia aeronáutica civil, con los representantes acreditados, investigadores y expertos técnicos.
+Fracción adicionada DOF 03-05-2023
+
+XII. Solicitar a la instancia medica competente los resultados de las necropsias realizadas a los miembros de la tripulación involucrados en un accidente y, en su caso, a pasajeros;
+
+XIII. Requerir a las autoridades locales por medio de la comandancia que realizó la investigación de campo, que aseguren la protección del lugar del accidente, de la aeronave y de su contenido, hasta el momento en que pueda tomar la custodia y seguridad de la aeronave y de su contenido, y
+
+XIV. Coordinar en el sitio del accidente la investigación en materia aeronáutica civil, con los representantes acreditados, investigadores y expertos técnicos.
 La comandancia de aeropuerto mantendrá la organización del sitio del accidente y restos de la aeronave durante el tiempo que dure la investigación en el sitio y hasta que determine que sean trasladados los restos para su protección e investigación.
 Artículo adicionado DOF 20-05-2021
 
@@ -1049,7 +1514,10 @@ Párrafo reformado DOF 03-05-2023 Artículo adicionado DOF 20-05-2021
 
 ### Artículo 82
 . Se considerará perdida una aeronave, salvo prueba en contrario, en los siguientes casos:
-I. Por declaración de la persona concesionaria, asignataria, operadora aérea o permisionaria y, en el caso de las operaciones de aeronaves para uso particular, de la persona propietaria o poseedora de la aeronave, y Fracción reformada DOF 03-05-2023 II. Cuando transcurridos treinta días desde la fecha en que se tuvieron las últimas noticias oficiales o particulares de la aeronave, se ignore su paradero.
+
+I. Por declaración de la persona concesionaria, asignataria, operadora aérea o permisionaria y, en el caso de las operaciones de aeronaves para uso particular, de la persona propietaria o poseedora de la aeronave, y Fracción reformada DOF 03-05-2023
+
+II. Cuando transcurridos treinta días desde la fecha en que se tuvieron las últimas noticias oficiales o particulares de la aeronave, se ignore su paradero.
 La Agencia Federal de Aviación Civil declarará la pérdida y cancelará las inscripciones correspondientes.
 Párrafo reformado DOF 03-05-2023
 
@@ -1063,10 +1531,16 @@ Artículo adicionado DOF 03-05-2023
 ### Artículo 82
 Ter. La Agencia Federal de Aviación Civil evaluará el análisis de riesgo y, en su caso, atenderá, controlará o vigilará las recomendaciones realizadas por la Comisión Investigadora y Dictaminadora de Accidentes Aéreos o de los representantes acreditados sobre seguridad operacional obtenidas de una investigación de accidentes o incidentes, con la finalidad de determinar su observancia y, en su caso, vigilar y verificar su cumplimiento, de conformidad con el reglamento correspondiente y las disposiciones técnico-administrativas emitidas para tal efecto.
 Para efectos del presente artículo, se entenderá como representantes acreditados a:
+
 I. Estado de matrícula;
+
 II. Estado del explotador;
+
 III. Estado de diseño;
-IV. Estado de fabricación, y V. Organización de Aviación Civil Internacional.
+
+IV. Estado de fabricación, y
+
+V. Organización de Aviación Civil Internacional.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 82
@@ -1086,8 +1560,12 @@ De la vigilancia y verificación Denominación del Capítulo reformada DOF 03-05
 ### Artículo 84
 . La Agencia Federal de Aviación Civil vigilará y verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables, sin perjuicio de la competencia que expresamente corresponda a otras autoridades.
 Los sujetos a vigilancia y verificación son las personas concesionarias, asignatarias, operadoras aéreas, permisionarias, proveedoras de servicios a la navegación aérea y, en el caso de las operaciones de aeronaves para uso particular, las personas propietarias o poseedoras de aeronaves, quienes están obligadas a:
+
 I. Permitir a las personas inspectoras verificadoras de la Agencia Federal de Aviación Civil el acceso a sus instalaciones; transportarlas en sus equipos para que realicen sus funciones;
-II. Otorgar a las personas inspectoras verificadoras de la Agencia Federal de Aviación Civil todas las facilidades para que cumplan con sus fines, y III. Proporcionar a la Agencia Federal de Aviación Civil informes con los datos que permitan conocer la operación y explotación de los servicios de transporte aéreo y servicios a la navegación aérea.
+
+II. Otorgar a las personas inspectoras verificadoras de la Agencia Federal de Aviación Civil todas las facilidades para que cumplan con sus fines, y
+
+III. Proporcionar a la Agencia Federal de Aviación Civil informes con los datos que permitan conocer la operación y explotación de los servicios de transporte aéreo y servicios a la navegación aérea.
 En la prestación de los servicios de transporte aéreo y servicios de navegación aérea, se deben garantizar las condiciones máximas de seguridad de la aviación civil contra actos de interferencia ilícita y seguridad operacional que permitan proteger la integridad física de las personas usuarias y de sus bienes, así como la de terceros, las personas inspectoras verificadoras, podrán realizar la vigilancia y verificación de la naturaleza que fuere necesaria, en términos de lo establecido en esta Ley, sus reglamentos correspondientes y demás disposiciones jurídicas aplicables.
 Las personas inspectoras verificadoras están facultadas para practicar actividades de vigilancia y verificación sobre aspectos específicos, en términos de los reglamentos y demás disposiciones jurídicas aplicables.
 Las personas inspectoras verificadoras deben exhibir credencial vigente con fotografía, expedida por la Agencia Federal de Aviación Civil que las acredite para desempeñar dicha función, así como dependiendo de la naturaleza de la vigilancia y verificación, la orden escrita a la que se refiere el artículo 63 de la Ley Federal de Procedimiento Administrativo, de la que debe dejar copia a la persona con quien se entienda la diligencia. Si esta se niega a recibirla, dicha circunstancia se asentará en el acta respectiva, sin que ello afecte la validez del acto.
@@ -1097,14 +1575,24 @@ Artículo reformado DOF 28-12-2001, 26-06-2017, 03-05-2023
 
 ### Artículo 84
 Bis. En las actas que se instrumenten con motivo del ejercicio de las actividades de vigilancia y verificación, se hará constar:
+
 I. Nombre, denominación o razón social de las personas sujetas a vigilancia y verificación;
+
 II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+
 III. Calle, número, población o colonia, municipio o alcaldía, código postal y entidad federativa, teléfono u otra forma de comunicación disponible, en que se encuentre ubicado el lugar, en que se practique la visita;
+
 IV. Número y fecha del oficio de comisión que la motivó;
+
 V. Nombre y cargo de la persona con quien se entendió la diligencia;
+
 VI. Nombre y domicilio de las personas que fungieron como testigos;
+
 VII. Datos relativos a la actuación;
-VIII. Declaración del representante o apoderado legal o persona con quien se entendió la diligencia, si quisiera hacerla, y IX. Nombre y firma de quienes intervinieron en la diligencia. Si alguno se negara a firmar, se hará constar su negativa, sin que esto afecte la validez del acta.
+
+VIII. Declaración del representante o apoderado legal o persona con quien se entendió la diligencia, si quisiera hacerla, y
+
+IX. Nombre y firma de quienes intervinieron en la diligencia. Si alguno se negara a firmar, se hará constar su negativa, sin que esto afecte la validez del acta.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 84
@@ -1121,24 +1609,76 @@ De las sanciones
 
 ### Artículo 86
 . Las infracciones a lo dispuesto en la presente Ley cometidas por la persona concesionaria, asignataria, operadora aérea o permisionaria, según se trate, serán sancionadas por la Agencia Federal de Aviación Civil de acuerdo con lo siguiente:
-Párrafo reformado DOF 28-12-2001, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) I. Permitir que la aeronave transite: a) Sin ostentar las marcas de nacionalidad y matrícula, o cuando éstas se encuentren alteradas o modificadas sin autorización de la Secretaría, con multa de cinco mil a quince mil Unidades de Medida y Actualización; b) Por carecer de los certificados de aeronavegabilidad o de matrícula, o cuando tales documentos estén vencidos, con multa de cinco mil a quince mil Unidades de Medida y Actualización; c) Por carecer de los seguros o cuando no estén vigentes, con multa de cinco mil a quince mil Unidades de Medida y Actualización; d) Tripulada por personas que carezcan de la licencia correspondiente, con multa de cinco mil a quince mil Unidades de Medida y Actualización; e) Sin el plan de vuelo o cuando se modifique sin autorización, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización; f) Por no llevar a bordo la póliza de seguro o el documento que acredite la vigencia de la misma, una multa de cien a dos mil Unidades de Medida y Actualización.
-En el caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que la póliza se encontraba vigente, se aplicará una multa de cien a doscientas Unidades de Medida y Actualización; g) Sin los instrumentos de seguridad y equipo de auxilio que corresponda, con multa de quinientos a cinco mil Unidades de Medida y Actualización; h) Sin hacer uso de las instalaciones y de los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáutica, así como de despacho e información de vuelos, en caso de ser aplicable, salvo casos de fuerza mayor, con multa de quinientas a cinco mil Unidades de Medida y Actualización;
-Inciso reformado DOF 20-05-2021 i) Por no llevar a bordo certificado de aeronavegabilidad o de matrícula o copia certificada de este último, con una multa de doscientas a un mil Unidades de Medida y Actualización;
-Inciso reformado DOF 20-05-2021, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) j) Con documentos presentados a la Agencia Federal de Aviación Civil que no sean emitidos por una autoridad competente, con la intención de acreditar el cumplimiento de obligaciones o requisitos contenidos en esta Ley, en el reglamento correspondiente, normas oficiales mexicanas y disposiciones-técnico administrativas, con una multa de dos mil a diez mil Unidades de Medida y Actualización, y Inciso adicionado DOF 20-05-2021. Reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62) k) Con documentos presentados a la Agencia Federal de Aviación Civil que no sean emitidos por las organizaciones responsables del diseño de tipo o responsables de la fabricación de aeronaves, motores, hélices, estaciones de pilotaje a distancia y sus artículos, con la intención de acreditar el cumplimiento de obligaciones o requisitos contenidos en esta Ley, en el reglamento correspondiente, normas oficiales mexicanas y disposiciones técnico-administrativas, con una multa de dos mil a diez mil Unidades de Medida y Actualización.
-Inciso adicionado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) Fracción reformada DOF 28-12-2001, 18-06-2018 II. Internar al territorio nacional una aeronave extranjera o por llevar una aeronave mexicana al extranjero, sin cumplir con los requisitos exigidos por esta Ley, con multa de dos mil a diez mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 III. Operar aviones en aeródromos y aeropuertos no autorizados, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 IV. Obtener la matrícula de la aeronave en el registro de otro Estado, sin haber obtenido la cancelación de la matrícula mexicana, con multa de un mil a ocho mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 V. Cuando de manera negligente en un término de veinticuatro horas no se haga del conocimiento de la Secretaría los incidentes o accidentes ocurridos a sus aeronaves, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018, 20-05-2021 VI. Impedir el tránsito o la circulación en los aeródromos, aeropuertos y helipuertos por causas imputables a él, con multa de un mil a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 26-01-2015, 18-06-2018 VII. Negarse a participar en las operaciones de búsqueda y salvamento, salvo causa de fuerza mayor, con multa de un mil a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 26-01-2015, 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) VIII. Practicar el cabotaje en territorio nacional, siendo permisionario extranjero de servicios de transporte aéreo, con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización.
+Párrafo reformado DOF 28-12-2001, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+I. Permitir que la aeronave transite:
+
+a) Sin ostentar las marcas de nacionalidad y matrícula, o cuando éstas se encuentren alteradas o modificadas sin autorización de la Secretaría, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
+
+b) Por carecer de los certificados de aeronavegabilidad o de matrícula, o cuando tales documentos estén vencidos, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
+
+c) Por carecer de los seguros o cuando no estén vigentes, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
+
+d) Tripulada por personas que carezcan de la licencia correspondiente, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
+
+e) Sin el plan de vuelo o cuando se modifique sin autorización, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
+
+f) Por no llevar a bordo la póliza de seguro o el documento que acredite la vigencia de la misma, una multa de cien a dos mil Unidades de Medida y Actualización.
+En el caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que la póliza se encontraba vigente, se aplicará una multa de cien a doscientas Unidades de Medida y Actualización;
+
+g) Sin los instrumentos de seguridad y equipo de auxilio que corresponda, con multa de quinientos a cinco mil Unidades de Medida y Actualización;
+
+h) Sin hacer uso de las instalaciones y de los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáutica, así como de despacho e información de vuelos, en caso de ser aplicable, salvo casos de fuerza mayor, con multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Inciso reformado DOF 20-05-2021
+
+i) Por no llevar a bordo certificado de aeronavegabilidad o de matrícula o copia certificada de este último, con una multa de doscientas a un mil Unidades de Medida y Actualización;
+Inciso reformado DOF 20-05-2021, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+j) Con documentos presentados a la Agencia Federal de Aviación Civil que no sean emitidos por una autoridad competente, con la intención de acreditar el cumplimiento de obligaciones o requisitos contenidos en esta Ley, en el reglamento correspondiente, normas oficiales mexicanas y disposiciones-técnico administrativas, con una multa de dos mil a diez mil Unidades de Medida y Actualización, y Inciso adicionado DOF 20-05-2021. Reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+k) Con documentos presentados a la Agencia Federal de Aviación Civil que no sean emitidos por las organizaciones responsables del diseño de tipo o responsables de la fabricación de aeronaves, motores, hélices, estaciones de pilotaje a distancia y sus artículos, con la intención de acreditar el cumplimiento de obligaciones o requisitos contenidos en esta Ley, en el reglamento correspondiente, normas oficiales mexicanas y disposiciones técnico-administrativas, con una multa de dos mil a diez mil Unidades de Medida y Actualización.
+Inciso adicionado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) Fracción reformada DOF 28-12-2001, 18-06-2018
+
+II. Internar al territorio nacional una aeronave extranjera o por llevar una aeronave mexicana al extranjero, sin cumplir con los requisitos exigidos por esta Ley, con multa de dos mil a diez mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+III. Operar aviones en aeródromos y aeropuertos no autorizados, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+IV. Obtener la matrícula de la aeronave en el registro de otro Estado, sin haber obtenido la cancelación de la matrícula mexicana, con multa de un mil a ocho mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+V. Cuando de manera negligente en un término de veinticuatro horas no se haga del conocimiento de la Secretaría los incidentes o accidentes ocurridos a sus aeronaves, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018, 20-05-2021
+
+VI. Impedir el tránsito o la circulación en los aeródromos, aeropuertos y helipuertos por causas imputables a él, con multa de un mil a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 26-01-2015, 18-06-2018
+
+VII. Negarse a participar en las operaciones de búsqueda y salvamento, salvo causa de fuerza mayor, con multa de un mil a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 26-01-2015, 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+VIII. Practicar el cabotaje en territorio nacional, siendo permisionario extranjero de servicios de transporte aéreo, con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización.
 Cuando el cabotaje sea detectado por la Agencia Federal de Aviación Civil en el momento en que se esté cometiendo o dentro de las siguientes veinticuatro horas de haberse cometido, la mencionada autoridad podrá decretar el aseguramiento de la aeronave, ante el riesgo inminente de que la persona permisionaria extranjera realice cualquier maniobra tendente a evadir la imposición de la sanción, para lo cual, el comandante del aeropuerto, debe instrumentar el acta circunstanciada.
 Dicho aseguramiento quedará sin efectos si la Agencia Federal de Aviación Civil no emite la resolución correspondiente dentro de los sesenta días hábiles siguientes a la fecha en que se levante el acta a que se refiere el párrafo anterior, o si el infractor garantiza por cualquier forma establecida en la legislación aplicable, su sujeción al procedimiento que se instaure en su contra.
 Los gastos que genere el aseguramiento de la aeronave correrán a cargo del permisionario extranjero infractor, salvo que la autoridad resuelva que no cometió el cabotaje;
-Fracción adicionada DOF 26-01-2015. Reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62) IX. No reportar las incapacitaciones, durante el vuelo, del personal técnico-aeronáutico a la Agencia Federal de Aviación Civil dentro de las veinticuatro horas siguientes al suceso, con una multa de quinientas a mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 26-01-2015. Reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+IX. No reportar las incapacitaciones, durante el vuelo, del personal técnico-aeronáutico a la Agencia Federal de Aviación Civil dentro de las veinticuatro horas siguientes al suceso, con una multa de quinientas a mil Unidades de Medida y Actualización;
 Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) IX Bis. Cuando la aeronave realice maniobras de vuelo que motiven la activación de un alertamiento aéreo con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización, siempre y cuando no sea por falla técnica o emergencia;
-Fracción adicionada DOF 03-05-2023 X. Permitir que el personal técnico-aeronáutico realice sus funciones: a) Con una afectación médica que ponga en riesgo la seguridad operacional, con una multa de mil a cinco mil Unidades de Medida y Actualización; b) Posterior a obtener un resultado positivo en un examen psicofísico o de detección de alcohol y sustancias psicoactivas, con una multa de doscientas a quinientas Unidades de Medida y Actualización, y c) Con posterioridad a haberse involucrado en un accidente o incidente aéreo, sin que la Agencia Federal de Aviación Civil haya verificado, constatado e inspeccionado el cumplimiento de los requisitos médicos, a pesar de que el reconocimiento psicofísico haya tenido validez previa al evento, con una multa de un mil a dos mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XI. Coaccionar a las personas inspectoras verificadoras por medio de violencia, física o moral, para obligarlos a que ejecuten un acto oficial, con una multa de dos mil a cinco mil Unidades de Medida y Actualización, y Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XII. No realizar la notificación de dificultades en servicio, en los términos establecidos en esta Ley, los reglamentos correspondientes y las disposiciones técnico-administrativas aplicables, con multa de quinientas a dos mil Unidades de Medida y Actualización.
+Fracción adicionada DOF 03-05-2023
+
+X. Permitir que el personal técnico-aeronáutico realice sus funciones:
+
+a) Con una afectación médica que ponga en riesgo la seguridad operacional, con una multa de mil a cinco mil Unidades de Medida y Actualización;
+
+b) Posterior a obtener un resultado positivo en un examen psicofísico o de detección de alcohol y sustancias psicoactivas, con una multa de doscientas a quinientas Unidades de Medida y Actualización, y
+
+c) Con posterioridad a haberse involucrado en un accidente o incidente aéreo, sin que la Agencia Federal de Aviación Civil haya verificado, constatado e inspeccionado el cumplimiento de los requisitos médicos, a pesar de que el reconocimiento psicofísico haya tenido validez previa al evento, con una multa de un mil a dos mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XI. Coaccionar a las personas inspectoras verificadoras por medio de violencia, física o moral, para obligarlos a que ejecuten un acto oficial, con una multa de dos mil a cinco mil Unidades de Medida y Actualización, y Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XII. No realizar la notificación de dificultades en servicio, en los términos establecidos en esta Ley, los reglamentos correspondientes y las disposiciones técnico-administrativas aplicables, con multa de quinientas a dos mil Unidades de Medida y Actualización.
 Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
 
 ### Artículo 86
@@ -1147,62 +1687,159 @@ Artículo adicionado DOF 28-12-2001. Reformado DOF 18-06-2018, 03-05-2023
 
 ### Artículo 87
 . Se les impondrán a las personas concesionarias, asignatarias, operadoras aéreas y permisionarias de servicio al público de transporte aéreo las siguientes sanciones por:
-Párrafo reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) I. No tener vigente la concesión o permiso correspondiente, multa de ocho mil a diez mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 II. Llevar a cabo el servicio de transporte aéreo nacional, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de ocho mil a diez mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 III. Cuando con motivo de un vuelo de simple tránsito efectúe embarque o desembarque de pasajeros y carga, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de cinco mil a diez mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 IV. No seguir las aerovías o no utilizar los aeropuertos que le hayan sido señalados en el plan de vuelo respectivo, salvo caso fortuito o de fuerza mayor, multa de dos mil a diez mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 V. No dar aviso a la Agencia Federal de Aviación Civil de las rutas que deje de operar, en los términos del artículo 22 de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) VI. Vender, en forma directa, porciones aéreas en el caso de los servicios de transporte aéreo de fletamento, multa de un mil a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 VII. Negarse a prestar servicios, sin causa justificada, multa de un mil a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 VIII. No efectuar la conservación y mantenimiento de sus aeronaves y demás bienes que se relacionen con la seguridad y eficiencia del servicio, multa de quinientas a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 IX. No aplicar las tarifas registradas, multa de quinientas a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 X. No operar las rutas autorizadas en los plazos previstos en la presente Ley, multa de quinientas a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 XI. No proporcionar la información que le solicite la Agencia Federal de Aviación Civil, en los plazos fijados por esta, multa de trescientas a tres mil Unidades de Medida y Actualización;
-Fracción reformada DOF 26-06-2017, 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XII. No sujetarse a los itinerarios, frecuencias de vuelo y horarios autorizados, multa de quinientas a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 26-06-2017, 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XIII. Incumplir con lo señalado en el artículo 49 de la presente Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021 XIV. No entregar mensualmente a la Agencia Federal de Aviación Civil la información señalada en el párrafo último del artículo 84 de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XV. Transgredir las limitaciones existentes sobre tiempos de vuelo, servicio o de descanso del personal de vuelo o de sobrecargos, multa de tres mil a cinco mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 20-05-2021 XVI. Permitir que la aeronave transite sin llevar a bordo la copia certificada del Certificado de Explotador de Servicios Aéreos y la copia simple de las especificaciones de operación, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XVII. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, con una multa de dos mil a diez mil Unidades de Medida y Actualización, y la cancelación de la matrícula de la aeronave de que se trate, y Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62) XVIII. No cumplir con las disposiciones en materia de medio ambiente establecidas en esta Ley, el reglamento correspondiente, normas oficiales mexicanas y disposiciones técnicoadministrativas aplicables en materia aeronáutica, multa de cuatro mil a siete mil Unidades de Medida y Actualización.
-Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XIX. Cuando la aeronave realice maniobras de vuelo que motiven la activación de un alertamiento aéreo, con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización, siempre y cuando no sea por falla técnica o emergencia.
+Párrafo reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+I. No tener vigente la concesión o permiso correspondiente, multa de ocho mil a diez mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+II. Llevar a cabo el servicio de transporte aéreo nacional, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de ocho mil a diez mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+III. Cuando con motivo de un vuelo de simple tránsito efectúe embarque o desembarque de pasajeros y carga, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de cinco mil a diez mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+IV. No seguir las aerovías o no utilizar los aeropuertos que le hayan sido señalados en el plan de vuelo respectivo, salvo caso fortuito o de fuerza mayor, multa de dos mil a diez mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+V. No dar aviso a la Agencia Federal de Aviación Civil de las rutas que deje de operar, en los términos del artículo 22 de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+VI. Vender, en forma directa, porciones aéreas en el caso de los servicios de transporte aéreo de fletamento, multa de un mil a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+VII. Negarse a prestar servicios, sin causa justificada, multa de un mil a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+VIII. No efectuar la conservación y mantenimiento de sus aeronaves y demás bienes que se relacionen con la seguridad y eficiencia del servicio, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+IX. No aplicar las tarifas registradas, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+X. No operar las rutas autorizadas en los plazos previstos en la presente Ley, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+XI. No proporcionar la información que le solicite la Agencia Federal de Aviación Civil, en los plazos fijados por esta, multa de trescientas a tres mil Unidades de Medida y Actualización;
+Fracción reformada DOF 26-06-2017, 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XII. No sujetarse a los itinerarios, frecuencias de vuelo y horarios autorizados, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 26-06-2017, 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XIII. Incumplir con lo señalado en el artículo 49 de la presente Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021
+
+XIV. No entregar mensualmente a la Agencia Federal de Aviación Civil la información señalada en el párrafo último del artículo 84 de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XV. Transgredir las limitaciones existentes sobre tiempos de vuelo, servicio o de descanso del personal de vuelo o de sobrecargos, multa de tres mil a cinco mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 20-05-2021
+
+XVI. Permitir que la aeronave transite sin llevar a bordo la copia certificada del Certificado de Explotador de Servicios Aéreos y la copia simple de las especificaciones de operación, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XVII. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, con una multa de dos mil a diez mil Unidades de Medida y Actualización, y la cancelación de la matrícula de la aeronave de que se trate, y Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XVIII. No cumplir con las disposiciones en materia de medio ambiente establecidas en esta Ley, el reglamento correspondiente, normas oficiales mexicanas y disposiciones técnicoadministrativas aplicables en materia aeronáutica, multa de cuatro mil a siete mil Unidades de Medida y Actualización.
+Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XIX. Cuando la aeronave realice maniobras de vuelo que motiven la activación de un alertamiento aéreo, con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización, siempre y cuando no sea por falla técnica o emergencia.
 Fracción adicionada DOF 03-05-2023
 
 ### Artículo 88
 . Se impondrá sanción a la persona comandante o piloto de cualquier aeronave civil por:
-Párrafo reformado DOF 03-05-2023 I. Permitir a cualquier persona que no sea miembro de la tripulación de vuelo tomar parte en las operaciones de los mandos de la aeronave, salvo causa de fuerza mayor, multa de dos mil a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 II. Transportar mercancías peligrosas, armas o artículos peligrosos, sin la debida autorización, multa de un mil a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) III. No aterrizar en los aeropuertos internacionales autorizados en casos de vuelos de internación al territorio nacional, salvo causa de fuerza mayor, multa de un mil a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 IV. Transportar cadáveres o personas que por la naturaleza de su enfermedad presenten riesgo para los demás pasajeros, sin la autorización correspondiente, multa de un mil a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 V. Abandonar la aeronave, la tripulación, los pasajeros, la carga y demás efectos, en lugar que no sea la terminal del vuelo y sin causa justificada, multa de quinientas a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 VI. Realizar vuelos acrobáticos, rasantes o de exhibición en lugares prohibidos, multa de quinientas a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 VII. Tripular la aeronave sin licencia, multa de quinientas a cinco mil Unidades de Medida y Actualización. En caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que se contaba con licencia vigente, se aplicará una multa de cien a doscientas Unidades de Medida y Actualización;
-Fracción reformada DOF 28-12-2001, 18-06-2018 VIII. Desobedecer las órdenes o instrucciones que reciba con respecto al tránsito aéreo, salvo causa de fuerza mayor, multa de quinientas a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 IX. Iniciar el vuelo sin cerciorarse de la vigencia del certificado de aeronavegabilidad, de las licencias de la tripulación de vuelo y de que la aeronave ostente las marcas de nacionalidad y matrícula, multa de trescientas a tres mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 X. Operar la aeronave de manera negligente o fuera de los límites y parámetros establecidos por el fabricante de la misma, sin que medie causa justificada, multa de trescientas a tres mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 XI. No informar a la Agencia Federal de Aviación Civil o al comandante del aeropuerto más cercano, en el caso de incidentes o accidentes aéreos, dentro de las cuarenta y ocho horas siguientes a que tengan conocimiento de ellos, multa de trescientas a tres mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XII. No utilizar durante la operación de la aeronave los servicios e instalaciones de ayudas a la navegación aérea; en caso de ser aplicable, multa de trescientas a tres mil Unidades de Medida y Actualización;
-Fracción reformada DOF 28-12-2001, 18-06-2018 XIII. Realizar vuelos de demostración, pruebas técnicas o de instrucción, sin la autorización respectiva, multa de trescientas a tres mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 XIV. Volar sobre zonas prohibidas, restringidas o peligrosas, sin autorización de la Agencia Federal de Aviación Civil, multa de doscientas a dos mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XV. Arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo, objetos o lastre, multa de doscientas a dos mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientas a dos mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018, 20-05-2021 XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientas a dos mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018, 20-05-2021 XVIII. Operar la aeronave sin los documentos que deban llevarse a bordo de conformidad con esta Ley, el reglamento correspondiente, las disposiciones técnico- administrativas y demás disposiciones jurídicas aplicables, con una multa de quinientas a cinco mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XIX. Operar la aeronave de manera negligente o fuera de los límites y parámetros establecidos por el fabricante de la misma, sin que medie causa justificada, multa de mil a cinco mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XX. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, multa de dos mil a diez mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XXI. Presentar documentación que no fue emitida por la autoridad competente relacionados con los certificados de aptitud psicofísica, o cualquier documento médico en los trámites administrativos con la Agencia Federal de Aviación Civil, así como en la realización de la evaluación médica, multa de quinientas a mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XXII. Presentar documentación que no fue emitida por la autoridad competente durante la revalidación de la licencia de piloto, multa de quinientas a tres mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XXIII. Ejercer en estado de ebriedad o bajo los efectos de sustancias psicoactivas las funciones que su licencia le confiere, multa de dos mil a cinco mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XXIV. No reportar las incapacitaciones en vuelo a la Agencia Federal de Aviación Civil dentro de veinticuatro horas, multa de doscientas a quinientas Unidades de Medida y Actualización, y Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XXV. Omitir o asentar en sus declaraciones de salud datos contrarios a su estado de salud, durante la evaluación médica, multa de quinientas a un mil Unidades de Medida y Actualización, y la denegación de la Evaluación Médica por un año.
-Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XXVI. Cuando realicen maniobras de vuelo que motiven la activación de un alertamiento aéreo, con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización, siempre y cuando no sea por falla técnica o emergencia.
+Párrafo reformado DOF 03-05-2023
+
+I. Permitir a cualquier persona que no sea miembro de la tripulación de vuelo tomar parte en las operaciones de los mandos de la aeronave, salvo causa de fuerza mayor, multa de dos mil a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+II. Transportar mercancías peligrosas, armas o artículos peligrosos, sin la debida autorización, multa de un mil a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+III. No aterrizar en los aeropuertos internacionales autorizados en casos de vuelos de internación al territorio nacional, salvo causa de fuerza mayor, multa de un mil a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+IV. Transportar cadáveres o personas que por la naturaleza de su enfermedad presenten riesgo para los demás pasajeros, sin la autorización correspondiente, multa de un mil a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+V. Abandonar la aeronave, la tripulación, los pasajeros, la carga y demás efectos, en lugar que no sea la terminal del vuelo y sin causa justificada, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+VI. Realizar vuelos acrobáticos, rasantes o de exhibición en lugares prohibidos, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+VII. Tripular la aeronave sin licencia, multa de quinientas a cinco mil Unidades de Medida y Actualización. En caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que se contaba con licencia vigente, se aplicará una multa de cien a doscientas Unidades de Medida y Actualización;
+Fracción reformada DOF 28-12-2001, 18-06-2018
+
+VIII. Desobedecer las órdenes o instrucciones que reciba con respecto al tránsito aéreo, salvo causa de fuerza mayor, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+IX. Iniciar el vuelo sin cerciorarse de la vigencia del certificado de aeronavegabilidad, de las licencias de la tripulación de vuelo y de que la aeronave ostente las marcas de nacionalidad y matrícula, multa de trescientas a tres mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+X. Operar la aeronave de manera negligente o fuera de los límites y parámetros establecidos por el fabricante de la misma, sin que medie causa justificada, multa de trescientas a tres mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+XI. No informar a la Agencia Federal de Aviación Civil o al comandante del aeropuerto más cercano, en el caso de incidentes o accidentes aéreos, dentro de las cuarenta y ocho horas siguientes a que tengan conocimiento de ellos, multa de trescientas a tres mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XII. No utilizar durante la operación de la aeronave los servicios e instalaciones de ayudas a la navegación aérea; en caso de ser aplicable, multa de trescientas a tres mil Unidades de Medida y Actualización;
+Fracción reformada DOF 28-12-2001, 18-06-2018
+
+XIII. Realizar vuelos de demostración, pruebas técnicas o de instrucción, sin la autorización respectiva, multa de trescientas a tres mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+XIV. Volar sobre zonas prohibidas, restringidas o peligrosas, sin autorización de la Agencia Federal de Aviación Civil, multa de doscientas a dos mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XV. Arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo, objetos o lastre, multa de doscientas a dos mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018
+
+XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientas a dos mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018, 20-05-2021
+
+XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientas a dos mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018, 20-05-2021
+
+XVIII. Operar la aeronave sin los documentos que deban llevarse a bordo de conformidad con esta Ley, el reglamento correspondiente, las disposiciones técnico- administrativas y demás disposiciones jurídicas aplicables, con una multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XIX. Operar la aeronave de manera negligente o fuera de los límites y parámetros establecidos por el fabricante de la misma, sin que medie causa justificada, multa de mil a cinco mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XX. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, multa de dos mil a diez mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XXI. Presentar documentación que no fue emitida por la autoridad competente relacionados con los certificados de aptitud psicofísica, o cualquier documento médico en los trámites administrativos con la Agencia Federal de Aviación Civil, así como en la realización de la evaluación médica, multa de quinientas a mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XXII. Presentar documentación que no fue emitida por la autoridad competente durante la revalidación de la licencia de piloto, multa de quinientas a tres mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XXIII. Ejercer en estado de ebriedad o bajo los efectos de sustancias psicoactivas las funciones que su licencia le confiere, multa de dos mil a cinco mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XXIV. No reportar las incapacitaciones en vuelo a la Agencia Federal de Aviación Civil dentro de veinticuatro horas, multa de doscientas a quinientas Unidades de Medida y Actualización, y Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XXV. Omitir o asentar en sus declaraciones de salud datos contrarios a su estado de salud, durante la evaluación médica, multa de quinientas a un mil Unidades de Medida y Actualización, y la denegación de la Evaluación Médica por un año.
+Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+XXVI. Cuando realicen maniobras de vuelo que motiven la activación de un alertamiento aéreo, con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización, siempre y cuando no sea por falla técnica o emergencia.
 Fracción adicionada DOF 03-05-2023
 
 ### Artículo 88
 Bis. Las personas proveedoras de servicios serán acreedoras a las sanciones siguientes por:
+
 I. No contar con un Sistema de Gestión de la Seguridad Operacional en su fase I aprobada de conformidad con la norma oficial mexicana y disposiciones técnico-administrativas, multa de un mil a tres mil Unidades de Medida y Actualización;
+
 II. No cumplir dentro del plazo de cuarenta y ocho meses, contados a partir de la aprobación de la fase I del Sistema de Gestión de la Seguridad Operacional, con la implementación total de las fases de dicho Sistema, en términos de las disposiciones jurídicas aplicables, multa de un mil a tres mil Unidades de Medida y Actualización;
+
 III. No cumplir, en caso de prórroga, con la implementación de todas las fases del Sistema de Gestión de la Seguridad Operacional en el plazo otorgado por la Agencia Federal de Aviación Civil, multa de dos mil a cinco mil Unidades de Medida y Actualización;
+
 IV. No contar con la autorización de la gestión de los riesgos asociados a la fatiga en su fase I, de conformidad con la norma oficial mexicana y las disposiciones técnico-administrativas correspondientes, multa de un mil a tres mil Unidades de Medida y Actualización;
-V. No cumplir dentro del plazo de cuarenta y ocho meses, contados a partir de la aprobación de la fase I del Sistema de Gestión de los Riesgos Asociados a la Fatiga, con la implementación total de las fases de dicho Sistema, en términos de las disposiciones jurídicas aplicables, multa de un mil a cuatro mil Unidades de Medida y Actualización, y VI. No cumplir, en caso de prórroga, con la implementación de todas las fases del Sistema de Gestión de los Riesgos Asociados a la Fatiga en el plazo otorgado por la Agencia Federal de Aviación Civil, multa de dos mil a cinco mil Unidades de Medida y Actualización.
+
+V. No cumplir dentro del plazo de cuarenta y ocho meses, contados a partir de la aprobación de la fase I del Sistema de Gestión de los Riesgos Asociados a la Fatiga, con la implementación total de las fases de dicho Sistema, en términos de las disposiciones jurídicas aplicables, multa de un mil a cuatro mil Unidades de Medida y Actualización, y
+
+VI. No cumplir, en caso de prórroga, con la implementación de todas las fases del Sistema de Gestión de los Riesgos Asociados a la Fatiga en el plazo otorgado por la Agencia Federal de Aviación Civil, multa de dos mil a cinco mil Unidades de Medida y Actualización.
 Sin perjuicio de las sanciones señaladas en este artículo, a las personas proveedoras de servicios les será suspendido o revocado el certificado, permiso o autorización correspondiente, en razón de la gravedad de la infracción a las disposiciones jurídicas aplicables en relación con el funcionamiento del Sistema de Gestión de la Seguridad Operacional y del Sistema de Gestión de los Riesgos Asociados a la Fatiga, siempre que por el incumplimiento se haya impuesto una sanción, y esta haya quedado firme en términos de ley.
 Artículo adicionado DOF 26-01-2015. Reformado DOF 03-05-2023
 
@@ -1215,31 +1852,54 @@ Artículo adicionado DOF 18-06-2018
 
 ### Artículo 88
 Ter. A las instituciones educativas se les impondrán las siguientes sanciones por:
-Párrafo reformado DOF 03-05-2023 I. Permitir que se realicen vuelos de adiestramiento con más de un alumno, con una multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Párrafo reformado DOF 03-05-2023
+
+I. Permitir que se realicen vuelos de adiestramiento con más de un alumno, con una multa de quinientas a cinco mil Unidades de Medida y Actualización;
+
 II. Impartir cursos sin contar con un programa de formación o capacitación previamente autorizado por la Agencia Federal de Aviación Civil, multa de mil a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 03-05-2023 III. Permitir que las personas alumnas reciban instrucción o realicen prácticas sin contar con el permiso de formación o certificados de aptitud psicofísica, o cuando tales documentos estén vencidos, multa de mil a cinco mil Unidades de Medida y Actualización, y Fracción reformada DOF 03-05-2023 IV. Permitir que un instructor imparta clases sin contar con el permiso correspondiente o el mismo se encuentre vencido, con una multa de tres mil a cinco mil Unidades de Medida y Actualización.
+Fracción reformada DOF 03-05-2023
+
+III. Permitir que las personas alumnas reciban instrucción o realicen prácticas sin contar con el permiso de formación o certificados de aptitud psicofísica, o cuando tales documentos estén vencidos, multa de mil a cinco mil Unidades de Medida y Actualización, y Fracción reformada DOF 03-05-2023
+
+IV. Permitir que un instructor imparta clases sin contar con el permiso correspondiente o el mismo se encuentre vencido, con una multa de tres mil a cinco mil Unidades de Medida y Actualización.
 Artículo adicionado DOF 20-05-2021
 
 ### Artículo 88
 Quater. Al personal técnico-aeronáutico se le impondrá las siguientes sanciones por:
+
 I. No portar durante el ejercicio de sus actividades la licencia correspondiente y certificado de aptitud psicofísica vigentes, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+
 II. Realizar actividades distintas a las otorgadas en su licencia o a las capacidades inscritas en la misma, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+
 III. Presentar documentación que no fue emitida por la autoridad competente relacionada con los certificados de aptitud psicofísica, o cualquier documento médico en los trámites administrativos con la Agencia Federal de Aviación Civil, así como en la realización de la evaluación médica, multa de un mil a tres mil Unidades de Medida y Actualización;
+
 IV. Presentar documentación que no fue emitida por la autoridad competente para la revalidación de su licencia, multa de un mil a tres mil Unidades de Medida y Actualización;
+
 V. Ejercer en estado de ebriedad o bajo los efectos de sustancias psicoactivas las funciones que su licencia le confiere, multa de dos mil a cinco mil Unidades de Medida y Actualización;
-VI. Omitir, en sus declaraciones de salud, los datos requeridos, o asentar datos falsos sobre su estado de salud, durante la evaluación médica, multa de quinientas a un mil Unidades de Medida y Actualización, así como la denegación de la evaluación médica por un año, y VII. Coaccionar, mediante violencia física o psicológica, al personal médico para que le otorgue la evaluación médica, multa de doscientas a quinientas Unidades de Medida y Actualización.
+
+VI. Omitir, en sus declaraciones de salud, los datos requeridos, o asentar datos falsos sobre su estado de salud, durante la evaluación médica, multa de quinientas a un mil Unidades de Medida y Actualización, así como la denegación de la evaluación médica por un año, y
+
+VII. Coaccionar, mediante violencia física o psicológica, al personal médico para que le otorgue la evaluación médica, multa de doscientas a quinientas Unidades de Medida y Actualización.
 Artículo adicionado DOF 20-05-2021. Reformado DOF 03-05-2023
 
 ### Artículo 88
 Quinquies. Se le impondrán las siguientes sanciones al técnico en mantenimiento por:
+
 I. Anotar y firmar en el libro de bitácora de las aeronaves los servicios de mantenimiento sin haberlos realizado, multa de quinientas a tres mil Unidades de Medida y Actualización;
+
 II. Anotar y firmar en el libro de bitácora de las aeronaves los servicios de mantenimiento, o certificar el mantenimiento de la aeronavegabilidad sin contar con la capacidad señalada en su licencia, multa de un mil a tres mil Unidades de Medida y Actualización;
-III. No efectuar el cambio de componentes no aeronavegables en las aeronaves, multa de un mil a tres mil Unidades de Medida y Actualización, y IV. Certificar la aeronavegabilidad de los componentes de una aeronave sin haber efectuado las reparaciones parciales y totales respectivas, multa de un mil a cinco mil Unidades de Medida y Actualización.
+
+III. No efectuar el cambio de componentes no aeronavegables en las aeronaves, multa de un mil a tres mil Unidades de Medida y Actualización, y
+
+IV. Certificar la aeronavegabilidad de los componentes de una aeronave sin haber efectuado las reparaciones parciales y totales respectivas, multa de un mil a cinco mil Unidades de Medida y Actualización.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 88
 Sexies. Al oficial de operaciones se le impondrán las siguientes sanciones por:
-I. No proporcionar a los pilotos de las aeronaves, en la preparación de los vuelos, la información, el plan de vuelo y el plan operacional requerido para tal efecto, multa de quinientas a dos mil Unidades de Medida y Actualización, y II. No elaborar el manifiesto de carga y balance de acuerdo con los procedimientos técnicos correspondientes, multa de quinientas a dos mil Unidades de Medida y Actualización.
+
+I. No proporcionar a los pilotos de las aeronaves, en la preparación de los vuelos, la información, el plan de vuelo y el plan operacional requerido para tal efecto, multa de quinientas a dos mil Unidades de Medida y Actualización, y
+
+II. No elaborar el manifiesto de carga y balance de acuerdo con los procedimientos técnicos correspondientes, multa de quinientas a dos mil Unidades de Medida y Actualización.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 89
@@ -1250,9 +1910,16 @@ Párrafo reformado DOF 18-06-2018
 
 ### Artículo 90
 . Sin perjuicio a las demás sanciones que establece esta Ley y su reglamento, se le revocará la licencia a la persona comandante de la aeronave que incurra en los siguientes supuestos:
-Párrafo reformado DOF 03-05-2023 I. Que tripule en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o enervantes o que permita que un miembro de la tripulación de vuelo participe en las operaciones en ese estado o bajo tales efectos;
+Párrafo reformado DOF 03-05-2023
+
+I. Que tripule en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o enervantes o que permita que un miembro de la tripulación de vuelo participe en las operaciones en ese estado o bajo tales efectos;
+
 II. Cuando realice actos u omisiones que tiendan al uso ilícito de instalaciones destinadas al tránsito aéreo, contrabando, contrabando equiparado, tráfico de órganos, ataques a las vías generales de comunicación, sabotaje, tráfico ilegal de personas, drogas y armas. Igual sanción se impondrá a cualquier miembro de la tripulación de vuelo, que se encuentre en los mismos supuestos;
-Fracción reformada DOF 03-05-2023 III. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, y Fracción reformada DOF 03-05-2023 IV. Cuando, sin causa legítima para ello, despegue o aterrice fuera de un aeródromo, o lo haga en uno sin permiso de operación o cuando haga uso de un aeródromo fuera de sus horarios de operación.
+Fracción reformada DOF 03-05-2023
+
+III. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, y Fracción reformada DOF 03-05-2023
+
+IV. Cuando, sin causa legítima para ello, despegue o aterrice fuera de un aeródromo, o lo haga en uno sin permiso de operación o cuando haga uso de un aeródromo fuera de sus horarios de operación.
 Fracción adicionada DOF 03-05-2023 Artículo reformado DOF 20-05-2021
 
 ### Artículo 91

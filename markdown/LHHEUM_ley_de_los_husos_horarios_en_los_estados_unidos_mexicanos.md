@@ -22,10 +22,16 @@ Capítulo Primero Disposiciones Generales
 
 ### Artículo 3
 . Para efectos de esta Ley, se establecen dentro del territorio nacional las siguientes zonas y se reconocen los meridianos que les correspondan:
+
 I. Zona Centro: Referida al meridiano 90 grados al oeste de Greenwich, que comprende la mayor parte del territorio nacional, con la salvedad de lo establecido en las fracciones II, III, IV y V de este artículo;
+
 II. Zona Pacífico: Referida al meridiano 105 grados al oeste de Greenwich, que comprende los territorios de los estados de Baja California Sur; Nayarit, con excepción del municipio de Bahía de Banderas, el cual se regirá conforme a la fracción anterior en lo relativo a la zona centro; Sinaloa y Sonora;
+
 III. Zona Noroeste: Referida al meridiano 120 grados al oeste de Greenwich, que comprende el territorio del estado de Baja California;
-IV. Zona Sureste: Referida al meridiano 75 grados al oeste de Greenwich, que comprende el territorio del estado de Quintana Roo, y V. Las islas, arrecifes y cayos quedarán comprendidos dentro del meridiano al cual corresponda su situación geográfica, y de acuerdo con los instrumentos de derecho internacional aceptados.
+
+IV. Zona Sureste: Referida al meridiano 75 grados al oeste de Greenwich, que comprende el territorio del estado de Quintana Roo, y
+
+V. Las islas, arrecifes y cayos quedarán comprendidos dentro del meridiano al cual corresponda su situación geográfica, y de acuerdo con los instrumentos de derecho internacional aceptados.
 
 ### Artículo 4
 . En el territorio nacional habrá un horario estándar que se establecerá de acuerdo con las zonas horarias que correspondan de conformidad con el artículo anterior. Únicamente se aplicará un horario estacional para los estados y municipios de la frontera norte, conforme a lo señalado por el capítulo segundo de la presente Ley.
@@ -33,9 +39,13 @@ Capítulo Segundo Del Horario Estacional en la Frontera Norte
 
 ### Artículo 5
 . Únicamente en la frontera norte del territorio nacional se aplicará un horario estacional conforme a las siguientes reglas:
+
 I. Para los municipios de Acuña, Allende, Guerrero, Hidalgo, Jiménez, Morelos, Nava, Ocampo, Piedras Negras, Villa Unión y Zaragoza, en el estado de Coahuila de Zaragoza; Anáhuac, en el estado de Nuevo León; Nuevo Laredo, Guerrero, Mier, Miguel Alemán, Camargo, Gustavo Díaz Ordaz, Reynosa, Río Bravo, Valle Hermoso y Matamoros, en el estado de Tamaulipas, se aplica el meridiano 75 grados al oeste de Greenwich;
+
 II. Para los municipios de Coyame del Sotol, Ojinaga y Manuel Benavides, del Estado de Chihuahua, acorde a sus correlativos a su franja fronteriza, se aplica el meridiano 90 grados al oeste de Greenwich;
-Fracción reformada DOF 29-11-2022 III. Para el Estado de Baja California, así como para los municipios de Janos, Ascensión, Juárez, Praxedis G. Guerrero y Guadalupe, del Estado de Chihuahua, acorde a sus correlativos a su franja fronteriza, se aplica el meridiano 105 grados al oeste de Greenwich.
+Fracción reformada DOF 29-11-2022
+
+III. Para el Estado de Baja California, así como para los municipios de Janos, Ascensión, Juárez, Praxedis G. Guerrero y Guadalupe, del Estado de Chihuahua, acorde a sus correlativos a su franja fronteriza, se aplica el meridiano 105 grados al oeste de Greenwich.
 Fracción adicionada DOF 29-11-2022 El horario estacional fronterizo norte surtirá efecto desde las dos horas del segundo domingo de marzo, y concluirá a las dos horas del primer domingo de noviembre.
 Capítulo Tercero De las modificaciones a los husos horarios en las Entidades Federativas y Municipios
 

@@ -37,6 +37,7 @@ ARTICULO 10.- La Junta de Gobierno tiene las siguientes facultades:
 I.- Aprobar los programas de acuñación de moneda y de operación anual, a proposición del Director General, y someterlos a la Secretaría de Hacienda y Crédito Público.
 II.- Aprobar los presupuestos de ingresos y de egresos, a proposición del Director General, y, en su caso, someterlos a la autorización de las autoridades competentes.
 III.- Recibir y aprobar, en su caso, los informes de operación y de resultados y los estados financieros, que se rendirán por el Director General.
+
 IV. Designar al Contralor Interno y, a propuesta del Director General, a los directores, administradores de planta y titulares de las demás unidades básicas de actividad, conforme a la organización autorizada, así como fijar las remuneraciones y los tabuladores del personal con sujeción a los lineamientos de la Secretaría de Hacienda y Crédito Público.
 Fracción reformada DOF 09-04-2012 V.- Aprobar la estructura orgánica.
 VI.- Aprobar, en su caso, los programas de administración de personal y de desarrollo tecnológico, a proposición del Director General.

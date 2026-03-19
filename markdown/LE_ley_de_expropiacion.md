@@ -29,13 +29,21 @@ XII.- Los demás casos previstos por leyes especiales.
 
 ### Artículo 2o
 .- Para los casos de expropiación comprendidos en el artículo anterior, la secretaría de Estado competente emitirá la declaratoria de utilidad pública, conforme a lo siguiente:
-Párrafo reformado DOF 16-01-2012 I. La causa de utilidad pública se acreditará con base en los dictámenes técnicos correspondientes.
+Párrafo reformado DOF 16-01-2012
+
+I. La causa de utilidad pública se acreditará con base en los dictámenes técnicos correspondientes.
+
 II. La declaratoria de utilidad pública se publicará en el Diario Oficial de la Federación y, en su caso, en un diario de la localidad de que se trate, y se notificará personalmente a los titulares de los bienes y derechos que resultarían afectados.
 En caso de ignorarse quiénes son los titulares o bien su domicilio o localización, surtirá efectos de notificación personal una segunda publicación de la declaratoria en el Diario Oficial de la Federación, misma que deberá realizarse dentro de los cinco días hábiles siguientes a la primera publicación.
+
 III. Los interesados tendrán un plazo de quince días hábiles a partir de la notificación o de la segunda publicación en el Diario Oficial de la Federación para manifestar ante la Secretaría de Estado correspondiente lo que a su derecho convenga y presentar las pruebas que estimen pertinentes.
+
 IV. En su caso, la autoridad citará a una audiencia para el desahogo de pruebas, misma que deberá verificarse dentro de los ocho días hábiles siguientes a la recepción de las manifestaciones a que se refiere el párrafo anterior. Concluida dicha audiencia, se otorgará un plazo de tres días hábiles para presentar alegatos de manera escrita.
+
 V. Presentados los alegatos o transcurrido el plazo para ello sin que se presentaren, la autoridad contará con un plazo de diez días hábiles para confirmar, modificar o revocar la declaratoria de utilidad pública.
+
 VI. La resolución a que se refiere la fracción anterior no admitirá recurso administrativo alguno y solamente podrá ser impugnada a través del juicio de amparo.
+
 VII. El Ejecutivo Federal deberá decretar la expropiación a que se refiere el artículo 4o de esta Ley, dentro de los treinta días hábiles siguientes a que se haya dictado la resolución señalada en la fracción V que antecede. Transcurrido el plazo sin que se haya emitido el decreto respectivo, la declaratoria de utilidad pública quedará sin efectos. En caso de que se interponga el juicio de amparo, se interrumpirá el plazo a que se refiere esta fracción, hasta en tanto se dicte resolución en el mismo.
 Artículo reformado DOF 05-06-2009
 
@@ -91,12 +99,17 @@ Artículo reformado DOF 22-12-1993
 
 ### Artículo 9
 Bis. Según las particularidades del caso, la expropiación podrá realizarse conforme a las previsiones siguientes:
+
 I. Si el bien objeto de la expropiación tiene algún gravamen de naturaleza real, la indemnización se consignará ante la autoridad competente, a fin de que ésta determine la parte que corresponda a cada uno de los titulares de los derechos que resulten afectados.
 En estos casos, de la indemnización al propietario se disminuirá la que corresponda al gravamen de que se trate, de manera que el importe de ambas no exceda del valor que el bien hubiere tenido libre de gravamen.
+
 II. Cuando se expropie parte de un inmueble y la explotación o aprovechamiento de la superficie restante ya no resulte viable económicamente para el propietario, éste podrá solicitar a la Secretaría de Estado competente, dentro del plazo previsto en el artículo 2, fracción III, de esta ley, la expropiación de dicha superficie, aportando los elementos de prueba que estime procedentes.
 La Secretaría de Estado competente resolverá la solicitud en el mismo acto a que se refiere el artículo 2, fracción V, de esta ley, para lo cual deberá considerar, entre otros aspectos, la compatibilidad de la expropiación de la superficie solicitada con la causa de utilidad pública.
 En los casos de las expropiaciones previstas en el artículo 8 de esta ley, el propietario podrá realizar la solicitud dentro del plazo de diez días hábiles siguientes a la fecha de publicación del decreto en el Diario Oficial de la Federación. La Secretaría de Estado resolverá la solicitud en un plazo máximo de quince días hábiles, contados a partir de la recepción de la misma o, en su caso, de la fecha en que hubiere concluido el desahogo de pruebas;
-III. La Secretaría de Estado competente podrá convenir la ocupación previa de los bienes y derechos afectados por una declaratoria de utilidad pública con los titulares de los mismos, en tanto se tramita el decreto de expropiación; y IV. La Secretaría de Estado competente podrá convenir con los afectados la indemnización correspondiente mediante la entrega de bienes similares a los expropiados, y donar a los afectados la diferencia que pudiera resultar en los valores, de conformidad con los lineamientos que para tal efecto expida la Secretaría de la Función Pública.
+
+III. La Secretaría de Estado competente podrá convenir la ocupación previa de los bienes y derechos afectados por una declaratoria de utilidad pública con los titulares de los mismos, en tanto se tramita el decreto de expropiación; y
+
+IV. La Secretaría de Estado competente podrá convenir con los afectados la indemnización correspondiente mediante la entrega de bienes similares a los expropiados, y donar a los afectados la diferencia que pudiera resultar en los valores, de conformidad con los lineamientos que para tal efecto expida la Secretaría de la Función Pública.
 Cuando a campesinos de escasos recursos económicos se entreguen terrenos de riego en substitución de los que les hayan sido afectados como consecuencia de la ejecución de obras hidráulicas o de reacomodo o relocalización de tierras en zonas de riego, la autoridad competente podrá dejar de reclamar las diferencias de valor que resulten a su favor.
 Artículo adicionado DOF 16-01-2012
 

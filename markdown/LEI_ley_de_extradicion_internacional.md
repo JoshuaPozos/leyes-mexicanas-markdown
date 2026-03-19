@@ -42,6 +42,7 @@ ARTICULO 14.- Ningún mexicano podrá ser entregado a un Estado extranjero sino 
 ARTICULO 15.- La calidad de mexicano no será obstáculo a la entrega del reclamado cuando haya sido adquirida con posterioridad a los hechos que motiven la petición de extradición.
 CAPITULO II Procedimiento ARTICULO 16.- La petición formal de extradición y los documentos en que se apoye el Estado solicitante, deberán contener:
 I.- La expresión del delito por el que se pide la extradición;
+
 II. La prueba que acredite el cuerpo del delito y la probable responsabilidad del reclamado. Cuando el individuo haya sido condenado por los Tribunales del Estado solicitante, bastará acompañar copia auténtica de la sentencia ejecutoriada;
 Fracción reformada DOF 10-01-1994, 18-05-1999 III.- Las manifestaciones a que se refiere el artículo 10, en los casos en que no exista tratado de extradición con el Estado solicitante.
 IV.- La reproducción del texto de los preceptos de la Ley del Estado solicitante que definan el delito y determinen la pena, los que se refieran a la prescripción de la acción y de la pena aplicable y la declaración autorizada de su vigencia en la época en que se cometió el delito;

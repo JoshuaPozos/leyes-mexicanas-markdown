@@ -21,16 +21,31 @@ Párrafo reformado DOF 13-08-2009 También será su objeto supervisar y regular 
 .- Para los efectos de la presente Ley se entenderá por:
 I.- Comisión, a la Comisión Nacional Bancaria y de Valores;
 II.- Junta de Gobierno o Junta, a la Junta de Gobierno de la Comisión;
-III.- Presidente, al Presidente de la Comisión, y IV. Entidades o entidades financieras integrantes del Sistema Financiero Mexicano: a) A las sociedades controladoras y subcontroladoras de grupos financieros, instituciones de crédito, casas de bolsa, bolsas de valores, fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, almacenes generales de depósito, uniones de crédito, casas de cambio, sociedades financieras de objeto múltiple reguladas, sociedades financieras populares, instituciones para el depósito de valores, contrapartes centrales, instituciones calificadoras de valores, instituciones de tecnología financiera, sociedades de información crediticia, sociedades financieras comunitarias, sujetas a la supervisión de la Comisión y los organismos de integración financiera rural, así como otras instituciones y fideicomisos públicos que realicen actividades financieras y respecto de los cuales la Comisión ejerza facultades de supervisión, todas ellas constituidas conforme a las leyes mercantiles y financieras.
-Inciso reformado DOF 09-03-2018 b) A las sociedades cooperativas de ahorro y préstamo, sujetas a la supervisión de la Comisión, a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, integrantes del sector social.
-Fracción reformada DOF 01-06-2001, 13-08-2009 V. Federaciones: a las federaciones a que se refiere la Ley de Ahorro y Crédito Popular.
-Fracción adicionada DOF 01-06-2001. Reformada DOF 13-08-2009 VI. Fondo de protección: Al fondo de protección a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, así como al referido en la Ley de Ahorro y Crédito Popular.
-Fracción adicionada DOF 13-08-2009 VII. Centros cambiarios: a los referidos por el artículo 81-A de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
-Fracción adicionada DOF 10-01-2014 VIII. Transmisores de dinero: a los referidos por el artículo 81-A Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+III.- Presidente, al Presidente de la Comisión, y
+
+IV. Entidades o entidades financieras integrantes del Sistema Financiero Mexicano:
+
+a) A las sociedades controladoras y subcontroladoras de grupos financieros, instituciones de crédito, casas de bolsa, bolsas de valores, fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, almacenes generales de depósito, uniones de crédito, casas de cambio, sociedades financieras de objeto múltiple reguladas, sociedades financieras populares, instituciones para el depósito de valores, contrapartes centrales, instituciones calificadoras de valores, instituciones de tecnología financiera, sociedades de información crediticia, sociedades financieras comunitarias, sujetas a la supervisión de la Comisión y los organismos de integración financiera rural, así como otras instituciones y fideicomisos públicos que realicen actividades financieras y respecto de los cuales la Comisión ejerza facultades de supervisión, todas ellas constituidas conforme a las leyes mercantiles y financieras.
+Inciso reformado DOF 09-03-2018
+
+b) A las sociedades cooperativas de ahorro y préstamo, sujetas a la supervisión de la Comisión, a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, integrantes del sector social.
+Fracción reformada DOF 01-06-2001, 13-08-2009
+
+V. Federaciones: a las federaciones a que se refiere la Ley de Ahorro y Crédito Popular.
+Fracción adicionada DOF 01-06-2001. Reformada DOF 13-08-2009
+
+VI. Fondo de protección: Al fondo de protección a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, así como al referido en la Ley de Ahorro y Crédito Popular.
+Fracción adicionada DOF 13-08-2009
+
+VII. Centros cambiarios: a los referidos por el artículo 81-A de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+Fracción adicionada DOF 10-01-2014
+
+VIII. Transmisores de dinero: a los referidos por el artículo 81-A Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 Fracción adicionada DOF 10-01-2014 CAPITULO II DE LAS FACULTADES
 
 ### Artículo 4
 .- Corresponde a la Comisión:
+
 I. Realizar la supervisión de las entidades financieras; del fondo de protección a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; de las Federaciones y del fondo de protección a que se refiere la Ley de Ahorro y Crédito Popular, así como de las personas físicas y demás personas morales cuando realicen actividades previstas en las Leyes relativas al sistema financiero.
 Tratándose de sociedades cooperativas de ahorro y préstamo, únicamente corresponderá a la Comisión la supervisión de aquellas con niveles de operación I a IV a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo;
 Fracción reformada DOF 01-06-2001, 13-08-2009 II.- Emitir en el ámbito de su competencia la regulación prudencial a que se sujetarán las entidades;
@@ -40,9 +55,12 @@ V.- Expedir normas respecto a la información que deberán proporcionarle perió
 VI.- Emitir disposiciones de carácter general que establezcan las características y requisitos que deberán cumplir los auditores de las entidades, así como sus dictámenes; así como aquéllos de aplicación general en el sector financiero acerca de los actos y operaciones que se consideren contrarios a los usos mercantiles, bancarios y bursátiles o sanas prácticas de los mercados financieros y dictar las medidas necesarias para que las entidades ajusten sus actividades y operaciones a las leyes que les sean aplicables, a las disposiciones de carácter general que de ellas deriven y a los referidos usos y sanas prácticas;
 VIII.- Fungir como órgano de consulta del Gobierno Federal en materia financiera;
 IX.- Procurar a través de los procedimientos establecidos en las leyes que regulan al sistema financiero, que las entidades cumplan debida y eficazmente las operaciones y servicios, en los términos y condiciones concertados, con los usuarios de servicios financieros;
+
 X. Certificar a los auditores externos independientes y demás profesionales, a efecto de que presten sus servicios a las entidades y personas sujetas a la supervisión de la Comisión para la verificación del cumplimiento de las leyes financieras y de las disposiciones que emanen de ellas en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139, 148 Bis o 400 régimen, así como a los oficiales de cumplimiento, en términos de las disposiciones de carácter general que expida la Comisión para tales efectos. Dicha certificación, en términos de las citadas disposiciones, deberá renovarse cada cinco años;
 Fracción derogada DOF 18-01-1999. Adicionada DOF 10-01-2014 X Bis. Certificar a los auditores y demás profesionales, a efecto de que coadyuven con la Comisión cuando ésta los contrate, para la verificación del cumplimiento de las leyes financieras y de las disposiciones que emanen de ellas en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los de las disposiciones de carácter general que expida la Comisión para tales efectos. Dicha certificación, en términos de las citadas disposiciones, deberá renovarse cada cinco años;
-Fracción adicionada DOF 10-01-2014 XI. Autorizar la constitución y operación de aquellas entidades que señalan las leyes y, en su caso, acordar la revocación de dichas autorizaciones, así como determinar el capital mínimo y los requerimientos de capitalización a los que deberán sujetarse las entidades conforme lo señalen las leyes;
+Fracción adicionada DOF 10-01-2014
+
+XI. Autorizar la constitución y operación de aquellas entidades que señalan las leyes y, en su caso, acordar la revocación de dichas autorizaciones, así como determinar el capital mínimo y los requerimientos de capitalización a los que deberán sujetarse las entidades conforme lo señalen las leyes;
 Fracción reformada DOF 10-01-2014 XII.- Autorizar a las personas físicas que celebren operaciones con el público, de asesoría, promoción, compra y venta de valores, como apoderados de los intermediarios del mercado de valores, en los términos que señalen las leyes aplicables a estos últimos;
 Fracción reformada DOF 01-06-2001 XIII.- Determinar o recomendar que se proceda a la amonestación, suspensión o remoción y, en su caso, inhabilitación de los consejeros, directivos, comisarios, delegados fiduciarios, apoderados, funcionarios, auditores externos independientes y demás personas que puedan obligar a las entidades, de conformidad con lo establecido en las leyes que las rigen;
 Fracción reformada DOF 01-06-2001 XIV.- Ordenar la suspensión de operaciones de las entidades de acuerdo a lo dispuesto en esta Ley;
@@ -56,12 +74,14 @@ Las actividades de investigación y la presentación del informe no implicará t
 Fracción adicionada DOF 10-01-2014 XX.- Conocer y resolver sobre el recurso de revocación que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente las multas impuestas;
 XXI.- Intervenir en los procedimientos de liquidación de las entidades en los términos de ley;
 XXII.- Determinar los días en que las entidades deberán cerrar sus puertas y suspender sus operaciones;
+
 XXIII. Elaborar y publicar estadísticas relativas a las entidades y mercados financieros, indicadores de solvencia, estabilidad y liquidez, así como realizar y difundir estudios y estimaciones de escenarios de mercados que permitan la comparabilidad de información.
 Asimismo, la Comisión podrá publicar muestras representativas de bases de datos relativas a operaciones y servicios de las entidades o de segmentos de los mercados del sistema financiero, siempre que la información correspondiente no contenga información reservada o confidencial;
 Fracción reformada DOF 10-01-2014 XXIV.- Celebrar convenios con organismos nacionales e internacionales con funciones de supervisión y regulación similares a las de la Comisión, así como participar en foros de consulta y organismos de supervisión y regulación financieras a nivel nacional e internacional;
 XXIV Bis. Celebrar convenios de intercambio de información que no sea reservada o confidencial en términos de las disposiciones legales aplicables, con instituciones de investigación o docencia públicas o privadas, para fines académicos y de difusión del sistema financiero mexicano;
 Fracción adicionada DOF 10-01-2014 XXV.- Proporcionar la asistencia que le soliciten las instituciones supervisoras y reguladoras de otros países, para lo cual en ejercicio de sus facultades de inspección y vigilancia, podrá recabar respecto de cualquier persona la información y documentación que sea objeto de la solicitud;
 XXVI.- Intervenir en la emisión, sorteos y cancelación de títulos o valores de las entidades, en los términos de ley, cuidando que la circulación de los mismos no exceda de los límites legales;
+
 XXVII. Se deroga Fracción reformada DOF 09-04-2012. Derogada DOF 10-01-2014 XXVIII.- Llevar el Registro Nacional de Valores e Intermediarios y certificar inscripciones que consten en el mismo;
 XXIX.- Autorizar, suspender o cancelar la inscripción de valores y especialistas bursátiles en el Registro Nacional de Valores e Intermediarios, así como suspender la citada inscripción por lo que hace a las casas de bolsa;
 XXX.- Supervisar a los emisores de valores inscritos en el Registro Nacional de Valores e Intermediarios, respecto de las obligaciones que les impone la Ley del Mercado de Valores;
@@ -71,7 +91,9 @@ XXXIII.- Emitir reglas a que deberán sujetarse las casas de bolsa al realizar o
 XXXIV.- Autorizar y vigilar sistemas de compensación, de información centralizada, calificación de valores y otros mecanismos tendientes a facilitar las operaciones o a perfeccionar el mercado de valores;
 XXXV.- Ordenar la suspensión de cotizaciones de valores, cuando en su mercado existan condiciones desordenadas o se efectúen operaciones no conformes a sanos usos o prácticas;
 XXXVI.- Emitir las disposiciones necesarias para el ejercicio de las facultades que esta Ley y demás leyes le otorgan y para el eficaz cumplimiento de las mismas y de las disposiciones que con base en ellas se expidan;
-Fracción reformada DOF 15-06-2007 XXXVII. Llevar el registro de centros cambiarios y de transmisores de dinero y, en su caso, modificar o cancelar las inscripciones o anotaciones que se contengan en dicho registro, en los términos que establecen las propias leyes, así como expedir las bases relativas a su organización y funcionamiento y a la obtención de las inscripciones correspondientes, y Fracción reformada DOF 15-06-2007. Derogada DOF 25-06-2009. Adicionada DOF 10-01-2014 XXXVIII.- Las demás facultades que le estén atribuidas por esta Ley, por la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y por otras leyes.
+Fracción reformada DOF 15-06-2007
+
+XXXVII. Llevar el registro de centros cambiarios y de transmisores de dinero y, en su caso, modificar o cancelar las inscripciones o anotaciones que se contengan en dicho registro, en los términos que establecen las propias leyes, así como expedir las bases relativas a su organización y funcionamiento y a la obtención de las inscripciones correspondientes, y Fracción reformada DOF 15-06-2007. Derogada DOF 25-06-2009. Adicionada DOF 10-01-2014 XXXVIII.- Las demás facultades que le estén atribuidas por esta Ley, por la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y por otras leyes.
 Fracción adicionada DOF 15-06-2007
 
 ### Artículo 5
@@ -100,8 +122,12 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 5
 Bis 2.- Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, la Comisión ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet, las sanciones que al efecto imponga por infracciones a las leyes que regulan a las entidades y personas sujetas a su supervisión, o a las disposiciones que emanen de ellas, para lo cual deberán señalar:
+
 I. El nombre, denominación o razón social del infractor;
-II. El precepto legal infringido, el tipo de sanción impuesta, monto o plazo, según corresponda, la conducta infractora, y III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
+
+II. El precepto legal infringido, el tipo de sanción impuesta, monto o plazo, según corresponda, la conducta infractora, y
+
+III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
 En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad competente, deberá igualmente publicarse tal circunstancia.
 La información antes señalada no será considerada como reservada o confidencial.
 Artículo adicionado DOF 10-01-2014
@@ -114,8 +140,12 @@ Bis.- La Comisión en uso de las facultades a que se refieren las fracciones II,
 
 ### artículo 4
 de esta Ley, podrá dictar medidas correctivas, consistentes en ordenar correcciones o modificaciones a lo siguiente:
+
 I. Las políticas y lineamientos que en materia prudencial hayan adoptado las entidades, así como a la adecuada segregación de funciones entre las unidades de negocio y las demás instancias de la estructura orgánica de las entidades;
-II. Los registros contables y estados financieros de las entidades, y III. El cálculo de los índices o niveles de capitalización, de liquidez y otras razones financieras.
+
+II. Los registros contables y estados financieros de las entidades, y
+
+III. El cálculo de los índices o niveles de capitalización, de liquidez y otras razones financieras.
 Para lo anterior, la Comisión deberá escuchar previamente a la entidad afectada, y resolver en un plazo no mayor a tres días hábiles. Asimismo, estará facultada para instruir a las entidades la publicación de las correcciones y modificaciones que hubiere ordenado con fundamento en este precepto.
 Artículo adicionado DOF 10-01-2014
 
@@ -136,7 +166,9 @@ Artículo reformado DOF 10-01-2014
 ### Artículo 9
 Bis.- La Comisión, a solicitud de las autoridades citadas en el artículo 9 anterior y, con base en el principio de reciprocidad, podrá realizar visitas de inspección a las emisoras que tengan valores inscritos en el Registro Nacional de Valores en lo relativo a sus obligaciones como emisora o a las filiales de las entidades. A discreción de la misma, las visitas podrán hacerse por su conducto o bien, en cooperación con la autoridad financiera del exterior de que se trate, podrá permitir que esta última la realice.
 La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
+
 I. Descripción del objeto de la visita.
+
 II. Disposiciones legales aplicables al objeto de la solicitud.
 La Comisión deberá solicitar a las autoridades financieras del exterior que realicen visitas en términos de este artículo un informe de los resultados obtenidos.
 Artículo adicionado DOF 10-01-2014
@@ -144,9 +176,13 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 9
 Bis 1.- Las entidades por conducto de su director general o equivalente y con la opinión del comité de auditoría o quien ejerza las funciones de vigilancia de la propia entidad, podrán someter a la autorización de la Comisión un programa de autocorrección cuando la entidad de que se trate, en la realización de sus actividades, o el comité de auditoría u órgano equivalente como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley o las leyes que rigen a las entidades y demás disposiciones aplicables.
 No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
 I. Las irregularidades o incumplimientos que sean detectados por la Comisión en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación por parte de la entidad del programa de autocorrección respectivo.
 Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado a la entidad la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
-II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en las leyes, o III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de las leyes que rigen a las entidades.
+
+II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en las leyes, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de las leyes que rigen a las entidades.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 9
@@ -187,6 +223,7 @@ I.- (Se deroga).
 Fracción derogada DOF 01-06-2001 II.- Determinar o recomendar que se proceda a la amonestación, suspensión o remoción y, en su caso, inhabilitación de los consejeros, directivos, comisarios, delegados fiduciarios, apoderados, funcionarios, auditores externos independientes y demás personas que puedan obligar a las entidades, de conformidad con lo establecido en las leyes que las rigen;
 Fracción reformada DOF 01-06-2001 III.- Acordar la intervención administrativa o gerencial de las entidades con objeto de suspender, normalizar o resolver las operaciones que pongan en peligro su solvencia, estabilidad o liquidez, o aquéllas violatorias de las leyes que las rigen o de las disposiciones de carácter general que de ellas deriven, en los términos que establecen las propias leyes;
 IV.- Imponer sanciones administrativas por infracciones a las leyes que regulan las actividades, entidades y personas sujetas a la supervisión de la Comisión, así como a las disposiciones que emanen de ellas. Dicha facultad podrá delegarse en el Presidente, así como en otros servidores públicos de la Comisión, considerando la naturaleza de la infracción o el monto de las multas. A propuesta del Presidente de la Comisión, las multas administrativas podrán ser condonadas parcial o totalmente por la Junta de Gobierno;
+
 V. Autorizar la constitución y operación de aquellas entidades que señalan las leyes y, en su caso, acordar la revocación de dichas autorizaciones, salvo tratándose de sociedades de inversión;
 Fracción reformada DOF 10-01-2014 VI.- Autorizar la inscripción en la sección especial del Registro Nacional de Valores e Intermediarios, de valores emitidos en México o por personas morales mexicanas, para ser objeto de oferta en el extranjero;
 VII.- Examinar y, en su caso, aprobar los informes generales y especiales que debe someter a su consideración el Presidente de la Comisión, sobre las labores de la propia Comisión, la situación de las entidades, sistema y mercados financieros, así como respecto del ejercicio de las facultades a que se refiere la fracción VIII del artículo 16 de esta Ley;
@@ -228,14 +265,22 @@ VI.- Ejecutar los acuerdos de la Junta de Gobierno;
 VII.- Informar a la Junta de Gobierno, anualmente o cuando ésta se lo solicite sobre las labores de las oficinas a su cargo y obtener su aprobación para todas las disposiciones de carácter general que crea pertinentes;
 VIII.- Presentar a la Junta de Gobierno informes sobre la situación de las entidades, sistema y mercados financieros, así como respecto del ejercicio que haga de las facultades señaladas en las fracciones IV y V de este precepto, los artículos 4 fracciones XIV, XV, XVII, XXIV y XXXV y 7 de esta Ley, 2o., último párrafo y 16 de la Ley del Mercado de Valores;
 IX.- Informar a la Secretaría de Hacienda y Crédito Público respecto de los casos concretos que ésta le solicite;
+
 X. Informar al Banco de México, sobre la liquidez y solvencia de las entidades, cuando éste se lo solicite;
-Fracción reformada DOF 10-01-2014 XI. Formular anualmente los presupuestos de ingresos y egresos de la Comisión, así como los programas de estímulos económicos para los funcionarios de la Comisión, los cuales una vez aprobados por la Junta de Gobierno, serán sometidos a la autorización de la Secretaría de Hacienda y Crédito Público.
+Fracción reformada DOF 10-01-2014
+
+XI. Formular anualmente los presupuestos de ingresos y egresos de la Comisión, así como los programas de estímulos económicos para los funcionarios de la Comisión, los cuales una vez aprobados por la Junta de Gobierno, serán sometidos a la autorización de la Secretaría de Hacienda y Crédito Público.
 La Secretaría de Hacienda y Crédito Público establecerá criterios en materia de estímulos económicos que deberán ser observados por el Presidente de la Comisión en su propuesta a la Junta de Gobierno. Asimismo, la Comisión proporcionará a la citada Secretaría la información que solicite;
 Fracción reformada DOF 10-01-2014 XII.- Proveer lo necesario para el cumplimiento de los programas y el correcto ejercicio del presupuesto de egresos aprobado por la Junta;
 XIII.- Informar a la Junta de Gobierno sobre el ejercicio del presupuesto de egresos;
 XIV.- Proponer a la Junta de Gobierno el nombramiento y remoción de los Vicepresidentes y Contralor Interno de la Comisión, así como nombrar y remover a los Directores Generales y Directores de la misma;
+
 XV. Presentar a la Junta de Gobierno proyectos de disposiciones relacionadas con la organización de la Comisión y con las atribuciones de sus unidades administrativas;
-Fracción reformada DOF 10-01-2014 XVI. Autorizar la organización y funcionamiento de las sociedades de inversión, y Fracción reformada DOF 10-01-2014 XVII. Las demás facultades que le fijen esta Ley, otras leyes y sus reglamentos respectivos.
+Fracción reformada DOF 10-01-2014
+
+XVI. Autorizar la organización y funcionamiento de las sociedades de inversión, y Fracción reformada DOF 10-01-2014
+
+XVII. Las demás facultades que le fijen esta Ley, otras leyes y sus reglamentos respectivos.
 Fracción adicionada DOF 10-01-2014 El Presidente ejercerá sus funciones directamente o, mediante acuerdo delegatorio, a través de los Vicepresidentes, Directores Generales y demás servidores públicos de la Comisión. Los acuerdos por los que se deleguen facultades se publicarán en el Diario Oficial de la Federación.
 Son facultades indelegables del Presidente las señaladas en las fracciones II a IV, VII, IX a XII y XIV de este artículo y, según corresponda en el ámbito de su competencia, las contenidas en las fracciones XXII y XXIV del artículo 4 de esta Ley. Sin perjuicio de lo anterior, el Presidente podrá delegar en otros servidores públicos de la Comisión el encargo de notificar los acuerdos de la Junta de Gobierno.
 Párrafo reformado DOF 10-01-2014 En las ausencias temporales del Presidente, será suplido por el Vicepresidente que designe al efecto.
@@ -383,9 +428,13 @@ Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia
 
 ### ARTÍCULO SEXTO
 Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:
+
 I. Los artículos 3, fracción I, 10 y 16 primer párrafo.
+
 II. El artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de publicidad prevé esta última Ley.
+
 III. El artículo 8. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de contratos de adhesión prevé esta última Ley, en el entendido de que dichas disposiciones contemplarán el contenido mínimo señalado en las fracciones I a VI del referido artículo 8 para los Créditos Garantizados a la Vivienda.
+
 IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que resulten competentes, conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley, deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del Crédito Garantizado a la Vivienda.
 
 ### ARTÍCULO SÉPTIMO
@@ -453,9 +502,14 @@ Se reforma el artículo 4, fracción XXVII de la Ley de la Comisión Nacional Ba
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 SANCIONES E INVERSIÓN EXTRANJERA ARTÍCULO CUADRAGÉSIMO PRIMERO.- Se REFORMAN los artículos 4, fracciones X, XI, XXIII y XXXVII; 5; 9; 12, fracción V; 15, último párrafo; 16, fracciones X, XI, XV, XVI y penúltimo párrafo y 21, primer párrafo, se ADICIONAN los artículos 3, con las fracciones VII y VIII; 4, fracciones X Bis; XIX Bis y XXIV Bis; 5 Bis; 5 Bis 1; 5 Bis 2; 6 Bis; 9 Bis a 9 Bis 4; 12 con una fracción XI Bis; 16 con una fracción XVII y 18 Bis y se DEROGA el artículo 4 fracción XXVII de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ……… Disposiciones Transitorias ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
-I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
 III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
 En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
 IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015.
 Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014. ………
 

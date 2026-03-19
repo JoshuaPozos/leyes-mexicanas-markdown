@@ -20,9 +20,13 @@ Esta Ley es de aplicación en toda la República y sus disposiciones son de inte
 
 ### Artículo 2o
 . Para efectos de la presente Ley se entenderá por:
+
 I. Dieta correcta. Aquella que es completa, equilibrada, saludable, suficiente, variada y adecuada, en términos de las disposiciones que al efecto expida la Secretaría de Salud;
+
 II. Normas. A las normas oficiales mexicanas;
+
 III. Secretaría. A la Secretaría del Trabajo y Previsión Social;
+
 IV. Trabajadores. A los hombres y mujeres que prestan a una persona física o moral un trabajo personal subordinado, que sus relaciones laborales se encuentren comprendidas en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Artículo 3o
@@ -47,8 +51,17 @@ Modalidades de Ayuda Alimentaria
 
 ### Artículo 7o
 . Los patrones podrán establecer esquemas de ayuda alimentaria para los trabajadores mediante cualquiera de las modalidades siguientes:
-I. Comidas proporcionadas a los trabajadores en: a) Comedores; b) Restaurantes, o c) Otros establecimientos de consumo de alimentos.
-Los establecimientos contemplados en los incisos a), b) y c) de esta fracción podrán ser contratados directamente por el patrón o formar parte de un sistema de alimentación administrado por terceros mediante el uso de vales impresos o electrónicos, y II. Despensas, ya sea mediante canastillas de alimentos o por medio de vales de despensa en formato impreso o electrónico.
+
+I. Comidas proporcionadas a los trabajadores en:
+
+a) Comedores;
+
+b) Restaurantes, o
+
+c) Otros establecimientos de consumo de alimentos.
+Los establecimientos contemplados en los incisos a), b) y c) de esta fracción podrán ser contratados directamente por el patrón o formar parte de un sistema de alimentación administrado por terceros mediante el uso de vales impresos o electrónicos, y
+
+II. Despensas, ya sea mediante canastillas de alimentos o por medio de vales de despensa en formato impreso o electrónico.
 En el marco de la presente Ley, la ayuda alimentaria no podrá ser otorgada en efectivo, ni por otros mecanismos distintos a las modalidades establecidas en el presente artículo.
 
 ### Artículo 8o
@@ -67,14 +80,43 @@ de esta ley en los términos que señala la Ley General de Salud.
 
 ### Artículo 11
 . Los vales que se utilicen para proporcionar ayuda alimentaria en términos de la presente Ley deberán reunir los requisitos siguientes:
-I. Para los vales impresos: a) Contener la leyenda “Este vale no podrá ser negociado total o parcialmente por dinero en efectivo”; b) Señalar la fecha de vencimiento; c) Incluir el nombre o la razón social de la empresa emisora del vale; d) Especificar expresamente si se trata de un vale para comidas o para despensas, según sea el caso; e) Indicar de manera clara y visible el importe que ampara el vale con número y letra, y f) Estar impresos en papel seguridad.
-II. Para los vales electrónicos: a) Consistir en un dispositivo en forma de tarjeta plástica que cuente con una banda magnética o algún otro mecanismo tecnológico que permita identificarla en las terminales de los establecimientos afiliados a la red del emisor de la tarjeta; b) Especificar expresamente si se trata de un vale para comidas o para despensas, según sea el caso; c) Indicar de manera visible el nombre o la razón social de la empresa emisora de la tarjeta, y d) Utilizarse únicamente para la adquisición de comidas o despensas.
+
+I. Para los vales impresos:
+
+a) Contener la leyenda “Este vale no podrá ser negociado total o parcialmente por dinero en efectivo”;
+
+b) Señalar la fecha de vencimiento;
+
+c) Incluir el nombre o la razón social de la empresa emisora del vale;
+
+d) Especificar expresamente si se trata de un vale para comidas o para despensas, según sea el caso;
+
+e) Indicar de manera clara y visible el importe que ampara el vale con número y letra, y
+
+f) Estar impresos en papel seguridad.
+
+II. Para los vales electrónicos:
+
+a) Consistir en un dispositivo en forma de tarjeta plástica que cuente con una banda magnética o algún otro mecanismo tecnológico que permita identificarla en las terminales de los establecimientos afiliados a la red del emisor de la tarjeta;
+
+b) Especificar expresamente si se trata de un vale para comidas o para despensas, según sea el caso;
+
+c) Indicar de manera visible el nombre o la razón social de la empresa emisora de la tarjeta, y
+
+d) Utilizarse únicamente para la adquisición de comidas o despensas.
 
 ### Artículo 12
 . Para el caso de los vales impresos y electrónicos previstos en esta Ley quedará prohibido:
+
 I. Canjearlos por dinero, ya sea en efectivo o mediante títulos de crédito;
+
 II. Canjearlos o utilizarlos para comprar bebidas alcohólicas o productos del tabaco;
-III. Usarlos para fines distintos a los de esta Ley o para servicios distintos a los definidos en el inciso b) o c) de la fracción I del artículo 7 o en la fracción II de ese mismo artículo, y IV. Utilizar la tarjeta de los vales electrónicos para retirar el importe de su saldo en efectivo, directamente del emisor o a través de cualquier tercero, por cualquier medio, incluyendo cajeros automáticos, puntos de venta o cajas registradoras, entre otros.
+
+III. Usarlos para fines distintos a los de esta Ley o para servicios distintos a los definidos en el inciso
+
+b) o c) de la fracción I del artículo 7 o en la fracción II de ese mismo artículo, y
+
+IV. Utilizar la tarjeta de los vales electrónicos para retirar el importe de su saldo en efectivo, directamente del emisor o a través de cualquier tercero, por cualquier medio, incluyendo cajeros automáticos, puntos de venta o cajas registradoras, entre otros.
 
 ## Capítulo III
 Incentivos y promoción
@@ -93,10 +135,16 @@ Comisión Tripartita
 . La evaluación y seguimiento del cumplimiento de las disposiciones de la presente Ley estará a cargo de una comisión tripartita que se integrará en los términos del presente artículo.
 Corresponderá también a dicha comisión hacer las recomendaciones pertinentes para la mejora o ampliación de las acciones de ayuda alimentaria previstas en esta Ley. Lo anterior, sin perjuicio del ejercicio de las atribuciones de vigilancia que correspondan a las dependencias y entidades de la Administración Pública Federal y a los gobiernos de las entidades federativas en términos de las disposiciones aplicables.
 La comisión tripartita a la que se refiere el párrafo anterior se integrará por:
+
 I. Un representante de la Secretaría, quien la presidirá;
+
 II. Un representante de la Secretaría de Salud;
+
 III. Un representante de la Secretaría de Hacienda y Crédito Público;
-IV. Tres representantes de organizaciones nacionales de los trabajadores, y V. Tres representantes de organizaciones nacionales de los empresarios.
+
+IV. Tres representantes de organizaciones nacionales de los trabajadores, y
+
+V. Tres representantes de organizaciones nacionales de los empresarios.
 La Secretaría determinará la forma en la cual se asignará la representación a la que se refieren las fracciones IV y V de este artículo.
 Los representantes de las dependencias de la Administración Pública Federal ante la comisión deberán tener nivel de Subsecretario o su equivalente.
 La Secretaría podrá invitar a participar en las sesiones de la comisión tripartita, con el carácter de consultores, con voz y sin voto, a representantes de aquellas organizaciones empresariales o sociales relacionados con la prestación de los servicios vinculados al otorgamiento del beneficio de ayuda alimentaria contemplado en esta Ley.

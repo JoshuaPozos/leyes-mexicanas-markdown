@@ -19,101 +19,185 @@ Objeto de la Ley y Atribuciones de las Autoridades
 
 ### Artículo 1
 . La presente Ley es de orden público e interés social y sus disposiciones son de observancia general y obligatoria en todo el territorio nacional, sin perjuicio de lo dispuesto en los tratados internacionales de los que los Estados Unidos Mexicanos sean parte. Esta Ley tiene por objeto fijar y desarrollar las bases de la política industrial en el ámbito del Sistema Nacional de Infraestructura de la Calidad, a través de las actividades de normalización, estandarización, acreditación, Evaluación de la Conformidad y metrología, promoviendo el desarrollo económico y la calidad en la producción de bienes y servicios, a fin de ampliar la capacidad productiva y el mejoramiento continuo en las cadenas de valor, fomentar el comercio internacional y proteger los objetivos legítimos de interés público previstos en este ordenamiento. Asimismo, esta Ley tiene como finalidad:
+
 I. Promover la concurrencia de los sectores público, social y privado en la elaboración y observancia de las Normas Oficiales Mexicanas y los Estándares;
+
 II. Establecer mecanismos de coordinación y colaboración en materia de normalización, Evaluación de la Conformidad y metrología entre las Autoridades Normalizadoras, el Centro Nacional de Metrología, los Institutos Designados de Metrología, los organismos de acreditación y organismos de evaluación de la conformidad, las entidades locales y municipales, así como los sectores social y privado;
+
 III. Propiciar la innovación tecnológica en los bienes, productos, procesos y servicios para mejorar la calidad de vida de las personas en todo el territorio nacional;
+
 IV. Impulsar la creación de mayor infraestructura física y digital para el adecuado desarrollo de las actividades de Evaluación de la Conformidad;
-V. En materia de metrología, establecer y mantener el Sistema General de Unidades de Medida, crear los Institutos Designados de Metrología, y establecer lo referente a la metrología científica, metrología legal y la metrología aplicada o industria, y VI. Fomentar y difundir las actividades de normalización, estandarización, acreditación, Evaluación de la Conformidad y metrología.
+
+V. En materia de metrología, establecer y mantener el Sistema General de Unidades de Medida, crear los Institutos Designados de Metrología, y establecer lo referente a la metrología científica, metrología legal y la metrología aplicada o industria, y
+
+VI. Fomentar y difundir las actividades de normalización, estandarización, acreditación, Evaluación de la Conformidad y metrología.
 
 ### Artículo 2
 . La Secretaría encabeza las acciones de política pública para fortalecer el Sistema Nacional de Infraestructura de la Calidad. Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, la Secretaría cuenta con las siguientes atribuciones:
+
 I. Formular políticas públicas que propicien y faciliten el conocimiento y modernización de la normalización, estandarización, acreditación, evaluación de la conformidad y metrología, así como de los beneficios que conllevan estas actividades, además de fomentar la cultura del cumplimiento de las Normas Oficiales Mexicanas, los Estándares y Normas Internacionales;
+
 II. Coordinar las actividades de normalización y Evaluación de la Conformidad entre los integrantes del Sistema Nacional de Infraestructura de la Calidad, procurando que prive la uniformidad de procesos, criterios y esquemas en la aplicación de la Ley;
+
 III. Coordinarse con las demás Autoridades Normalizadoras para generar incentivos para el fomento y cumplimiento con las Normas Oficiales Mexicanas y las Normas Internacionales;
+
 IV. Diseñar y coordinar programas para el fomento de la calidad de los bienes, productos, procesos y servicios comercializados en territorio nacional;
+
 V. Presidir la Comisión y fungir como Secretariado Ejecutivo de la misma;
+
 VI. Participar en los trabajos que realicen los Comités Consultivos Nacionales de Normalización de las Autoridades Normalizadoras, así como en los Comités Internacionales de los organismos en las materias reguladas por esta Ley;
+
 VII. Ejecutar por conducto del Secretariado Ejecutivo de la Comisión las resoluciones de la misma, así como interpretarlas para efectos administrativos, buscando optimizar el funcionamiento armónico del Sistema Nacional de Infraestructura de la Calidad;
+
 VIII. Conducir la integración del Programa a través del Secretariado Ejecutivo de la Comisión;
+
 IX. Presidir, coordinar y representar a los Comités Mexicanos, en materia de normalización, estandarización y Evaluación de la Conformidad y representar al país en todos los eventos o asuntos relacionados a nivel internacional, sin perjuicio de que en dicha representación y conforme a sus atribuciones participen otras dependencias y entidades competentes, en coordinación con la propia Secretaría, así como representantes de organismos públicos y privados;
+
 X. Concertar los acuerdos de equivalencia, con la participación que corresponda a las Autoridades Normalizadoras según su competencia. Asimismo, concertar en el ámbito de su competencia los acuerdos de reconocimiento mutuo o aprobar la celebración de esos acuerdos o arreglos por parte de otras Autoridades Normalizadoras, Entidades de Acreditación u Organismos de Evaluación de la Conformidad, según corresponda;
+
 XI. Difundir los acuerdos de equivalencia y los acuerdos de reconocimiento mutuo;
+
 XII. Participar en el ámbito de su competencia, así como opinar sobre la elaboración de las Normas Internacionales;
+
 XIII. Notificar a los organismos internacionales correspondientes las Normas Oficiales Mexicanas, los Estándares y los proyectos de Normas Oficiales Mexicanas, así como los procedimientos de Evaluación de la Conformidad, conforme a los acuerdos y tratados internacionales de los que los Estados Unidos Mexicanos sea parte, para lo cual, las Autoridades Normalizadoras deberán proporcionar a la Secretaría la información necesaria;
+
 XIV. Crear y poner a disposición de los integrantes del Sistema Nacional de Infraestructura de la Calidad y del público en general la Plataforma Tecnológica Integral de Infraestructura de la Calidad;
-XV. Sistematizar toda la información en materia de normalización, estandarización, Evaluación de la Conformidad y metrología, para lo cual las Autoridades Normalizadoras, así como las demás entidades y personas involucradas deberán proporcionar la información necesaria, y XVI. Promover y realizar actividades de investigación científica, desarrollo tecnológico e innovación en materia de metrología y con ello avanzar en el conocimiento científico para la aplicación de las mediciones como base de la innovación en el país.
+
+XV. Sistematizar toda la información en materia de normalización, estandarización, Evaluación de la Conformidad y metrología, para lo cual las Autoridades Normalizadoras, así como las demás entidades y personas involucradas deberán proporcionar la información necesaria, y
+
+XVI. Promover y realizar actividades de investigación científica, desarrollo tecnológico e innovación en materia de metrología y con ello avanzar en el conocimiento científico para la aplicación de las mediciones como base de la innovación en el país.
 
 ### Artículo 3
 . Las Autoridades Normalizadoras están obligadas a procurar políticas públicas que contribuyan a la modernización del Sistema Nacional de Infraestructura de la Calidad, a impulsar una adecuada infraestructura de la calidad que permita estimular el crecimiento de la industria, así como a la consecución de los diversos objetivos legítimos de interés público previstos en esta Ley. Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, las Autoridades Normalizadoras cuentan con las siguientes atribuciones:
+
 I. Propiciar procesos imparciales con base en evidencia técnica, científica, análisis de riesgos y decisiones de consenso con todos los sectores interesados en las actividades de normalización, estandarización, Evaluación de la Conformidad y metrología, para fomentar la inclusión de todos los sectores interesados en el desarrollo de la normalización y estandarización;
+
 II. Utilizar la Plataforma Tecnológica Integral de Infraestructura de la Calidad, en la digitalización de los procesos de normalización, estandarización, Evaluación de la Conformidad y metrología;
+
 III. Compartir con la Secretaría todos los datos e información con los que cuenten en materia de normalización, estandarización, Evaluación de la Conformidad y metrología;
+
 IV. Concertar con las instituciones de enseñanza, asociaciones, colegios de profesionales, Cámaras y sus Confederaciones, para constituir programas y planes de estudio y capacitación con objeto de formar técnicos y profesionales calificados y promover las actividades a que se refiere esta Ley;
 Las autoridades a cargo del sistema educativo nacional, en los términos que señalen las leyes y atendiendo a las características propias de los tipos y niveles educativos, incluirán en sus programas de estudio la enseñanza del Sistema Nacional de Infraestructura de la Calidad, así como el uso del Sistema General de Unidades de Medida.
+
 V. Coordinarse en los casos que proceda, con las demás dependencias y autoridades federales, estatales o municipales en el ámbito de su competencia;
+
 VI. Contribuir a la integración del Programa con las propuestas de Normas Oficiales Mexicanas y Estándares en el ámbito de su competencia, así como ejecutar las acciones correspondientes para dar cumplimiento al Programa;
+
 VII. Constituir y presidir los Comités Consultivos Nacionales de Normalización, así como instaurar y coordinar los subcomités y grupos de trabajo;
+
 VIII. Elaborar las propuestas de Normas Oficiales Mexicanas y someterlas al conocimiento de los Comités Consultivos Nacionales de Normalización;
+
 IX. Expedir Normas Oficiales Mexicanas en las materias relacionadas con sus atribuciones, determinar su fecha de entrada en vigor y verificar su cumplimiento;
+
 X. Realizar Verificaciones para comprobar que los bienes, productos, procesos y servicios cumplan con las Normas Oficiales Mexicanas de su competencia, llevar a cabo la Vigilancia de las Entidades de Acreditación y Organismos de Evaluación de la Conformidad, así como la vigilancia de los mercados que sean materia de las Normas Oficiales Mexicanas de su competencia y, en su caso, de los Estándares cuando proceda;
+
 XI. Ordenar la suspensión o prohibición de la comercialización de bienes, productos y servicios, incluyendo la inmovilización de los mismos para impedir su comercialización, así como establecer las medidas tendientes a proteger a los consumidores o usuarios finales de aquellos bienes, productos y servicios respecto de los cuales se hayan detectado incumplimiento con las Normas Oficiales Mexicanas, como resultado de una Verificación, de conformidad con los artículos 146 y 147 de la presente Ley;
+
 XII. Sin perjuicio de lo señalado por la legislación aplicable a cada una de las Autoridades Normalizadoras, en el ámbito de sus respectivas competencias, imponer cualesquiera de las sanciones a que se refieren los artículos 154, 155 y 156 de la presente Ley;
+
 XIII. Llevar a cabo directamente la Evaluación de la Conformidad a falta de infraestructura por parte de los Organismos de Evaluación de la Conformidad;
+
 XIV. Aprobar a los Organismos de Evaluación de la Conformidad, cuando se requiera para efectos de la Evaluación de la Conformidad, respecto de las Normas Oficiales Mexicanas de su competencia;
+
 XV. En materia de normalización y Evaluación de la Conformidad, participar en todos los eventos o asuntos relacionados a nivel internacional, en coordinación con la Secretaría;
+
 XVI. Concertar, en el ámbito de su competencia, los acuerdos de reconocimiento mutuo y, en su caso, emitir la opinión correspondiente;
+
 XVII. Participar, en el ámbito de su competencia, en la elaboración de las Normas Internacionales;
-XVIII. A solicitud de la Secretaría, opinar sobre las Normas Internacionales; y XIX. Observar e implementar el Código de Buena Conducta para la elaboración, adopción y aplicación de Normas, del Acuerdo sobre Obstáculos Técnicos al Comercio de la Organización Mundial del Comercio.
+
+XVIII. A solicitud de la Secretaría, opinar sobre las Normas Internacionales; y
+
+XIX. Observar e implementar el Código de Buena Conducta para la elaboración, adopción y aplicación de Normas, del Acuerdo sobre Obstáculos Técnicos al Comercio de la Organización Mundial del Comercio.
 
 ## Capítulo II
 Definiciones y Principios de esta Ley
 
 ### Artículo 4
 . Para los efectos de la presente Ley se entiende por:
+
 I. Acreditación: al reconocimiento emitido por una Entidad de Acreditación por la cual se reconoce la competencia técnica y confiabilidad de las entidades para operar como Organismos de Evaluación de la Conformidad, para llevar a cabo la Evaluación de la Conformidad.
+
 II. Acuerdo de equivalencia: una resolución que especifica las condiciones mediante las cuales se reconocen unilateralmente o recíprocamente los reglamentos técnicos extranjeros, las medidas sanitarias o fitosanitarias, o los resultados de los procedimientos de evaluación de la conformidad emitidos por los organismos en el territorio de otro país y que contemplen cuando menos el mismo grado de conformidad para lograr los objetivos legítimos perseguidos por las Normas Oficiales Mexicanas apropiadas.
+
 III. Acuerdo de reconocimiento mutuo: un acuerdo intergubernamental que especifica las condiciones mediante las cuales se reconocen recíprocamente los resultados de los procedimientos de evaluación de la conformidad emitidos por los organismos de evaluación de la conformidad en el territorio de otro país que demuestren el cumplimiento de las Normas Oficiales Mexicanas o Estándares apropiados.
+
 IV. Aprobación: al acto por el cual una Autoridad Normalizadora reconoce a los Organismos de Evaluación de la Conformidad que hayan obtenido la Acreditación, para realizar la Evaluación de la Conformidad relacionada con Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales.
+
 V. Arreglo de reconocimiento mutuo o arreglo de reconocimiento multilateral: un arreglo internacional o regional entre los organismos de acreditación, que reconoce la equivalencia de los sistemas de acreditación basado en la revisión por pares o entre organismos de evaluación de la conformidad, que reconocen los resultados de dicha evaluación.
+
 VI. Autoridad Normalizadora: a las dependencias o entidades competentes de la Administración Pública Federal que tengan atribuciones o facultades expresas para realizar actividades de normalización y estandarización.
+
 VII. Comisión: a la Comisión Nacional de Infraestructura de la Calidad.
+
 VIII. Comités Mexicanos: a los comités creados por la Comisión a solicitud de la Secretaría o de las Autoridades Normalizadoras para la atención de organismos internacionales de normalización. Los Comités Mexicanos deberán estar integrados por los diversos sectores interesados de acuerdo con lo previsto en el Reglamento de esta Ley.
+
 IX. Entidades de Acreditación: a las personas morales debidamente autorizadas por la Secretaría para conocer, tramitar y resolver las solicitudes de Acreditación y, en su caso, emitir las Acreditaciones a favor de aquéllos que pretendan operar como Organismos de Evaluación de la Conformidad.
+
 X. Estándar: al documento técnico que prevé un uso común y repetido de reglas, especificaciones, atributos o métodos de prueba aplicables a un bien, producto, proceso o servicio, así como aquéllas relativas a terminología, simbología, embalaje, marcado, etiquetado o concordaciones.
+
 XI. Evaluación de la Conformidad: al proceso técnico que permite demostrar el cumplimiento con las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales. Comprende, entre otros, los procedimientos de muestreo, prueba, inspección, evaluación y certificación.
+
 XII. Infraestructura de la Calidad: es el conjunto de iniciativas, procesos, instituciones, autoridades normalizadoras, organizaciones, actividades y personas que interactúan entre sí.
 Incluye una política nacional de calidad, un marco regulatorio y todos los sectores interesados que tiene como finalidad proporcionar resultados que garanticen los objetivos legítimos de interés público e impulsen el desarrollo y reactivación económica del país.
+
 XIII. Inspección: la constatación ocular o comprobación mediante muestreo, medición, pruebas de laboratorio o examen de documentos que se realiza por las unidades de inspección para evaluar la conformidad en un momento determinado a petición de parte interesada.
+
 XIV. Metrología legal: se ocupa de verificar las unidades de medida, los métodos y procedimientos de medición, los instrumentos de medición y las unidades materializadas que intervienen en las transacciones comerciales, protección de la salud, el medio ambiente y la seguridad pública.
+
 XV. Norma Internacional: norma aprobada por un organismo internacional de normalización que cumple con los principios y procedimientos reconocidos en los tratados internacionales de los que el Estado mexicano es parte.
+
 XVI. Norma Oficial Mexicana: a la regulación técnica de observancia obligatoria expedida por las Autoridades Normalizadoras competentes cuyo fin esencial es el fomento de la calidad para el desarrollo económico y la protección de los objetivos legítimos de interés público previstos en este ordenamiento, mediante el establecimiento de reglas, denominación, especificaciones o características aplicables a un bien, producto, proceso o servicio, así como aquéllas relativas a terminología, marcado o etiquetado y de información. Las Normas Oficiales Mexicanas se considerarán como Reglamentos Técnicos o Medidas Sanitarias o Fitosanitarias, según encuadren en las definiciones correspondientes previstas en los tratados internacionales de los que el Estado Mexicano es Parte.
+
 XVII. Organismos de Evaluación de la Conformidad: a la persona acreditada por una Entidad de Acreditación o en su caso, por la Autoridad Normalizadora y, cuando se trate de Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales; en caso de que la acreditación sea realizada por una Entidad de Acreditación el Organismo deberá ser aprobado por la Autoridad Normalizadora competente, para llevar a cabo la Evaluación de la Conformidad.
+
 XVIII. Plataforma Tecnológica Integral de Infraestructura de la Calidad: a la solución digital donde se administrarán y ejecutarán de manera sistematizada los datos, procesos, trámites, servicios y actividades de normalización, estandarización, Evaluación de la Conformidad y metrología.
+
 XIX. Programa: al Programa Nacional de Infraestructura de la Calidad aprobado por la Comisión.
+
 XX. Procedimiento de Evaluación de la Conformidad: al conjunto de acciones especificadas que tienen por objeto comprobar que el bien, producto, proceso o servicio cumple con una Norma Oficial Mexicana o Estándar, a través de los medios que para ello se definan en esta Ley y en su Reglamento.
+
 XXI. Secretaría: a la Secretaría de Economía.
+
 XXII. Sistema Nacional de Infraestructura de la Calidad: al sistema que tiene por objeto coordinar a las autoridades de todos los órdenes de gobierno en sus respectivos ámbitos de competencia, a las Autoridades Normalizadoras, al Centro Nacional de Metrología, a los Institutos Designados de Metrología, a las Entidades de Acreditación, a los Organismos de Evaluación de la Conformidad, a los Organismos Nacionales de Estandarización y a los sujetos facultados para estandarizar, a través de regulaciones, estrategias y principios para que la política nacional en materia de normalización, estandarización, Evaluación de la Conformidad y metrología, que fomente la calidad y el desarrollo económico.
+
 XXIII. Sistema General de Unidades de Medida: al sistema que se integra, entre otros, con las unidades del Sistema Internacional de Unidades, sus nombres y símbolos, incluyendo una serie de prefijos con sus nombres y símbolos, junto con reglas para su uso, adoptados por la Conferencia General de Pesas y Medidas y que se prevean en Normas Oficiales Mexicanas y en los Estándares en ellas referidos.
+
 XXIV. Sujeto facultado para estandarizar: persona moral constituida legalmente que tiene un interés para la elaboración, modificación y cancelación de estándares.
+
 XXV. Sistemas internacionales de evaluación de la conformidad: sistemas que faciliten el reconocimiento voluntario o la aceptación de los resultados de los organismos de evaluación de la conformidad u organismos de acreditación por parte de las autoridades competentes sobre la base del cumplimiento de las normas internacionales para la evaluación de la conformidad.
+
 XXVI. Verificación: a la actividad que realizan las autoridades competentes para constatar a través de visitas, requerimientos de información o documentación física o electrónica, que los bienes, productos, procesos y servicios cumplen o concuerdan con las Normas Oficiales Mexicanas o Estándares, en este último caso, cuando su aplicación sea obligatoria en términos de esta Ley.
+
 XXVII. Vigilancia: al acto por el cual las autoridades competentes revisan que las actividades de las Entidades de Acreditación y los Organismos de Evaluación de la Conformidad se realicen conforme a lo establecido en la presente Ley.
 La Secretaría, en coordinación con el Centro Nacional de Metrología, publicará en la Plataforma Tecnológica Integral de Infraestructura de la Calidad, los términos y definiciones complementarios que sean necesarios en relación con la presente Ley en materia de metrología, de conformidad con los parámetros internacionales que corresponda y su aplicación será de uso general.
 
 ### Artículo 5
 . El Sistema Nacional de Infraestructura de la Calidad, se sustenta en los siguientes principios generales:
+
 I. Planeación. Las actividades de normalización deben estar alineadas a las políticas públicas derivadas del Sistema Nacional de Planeación Democrática.
+
 II. Transparencia. Los procesos de elaboración y aplicación de las Normas Oficiales Mexicanas y los Estándares deben ser abiertos y accesibles a todos los sectores económicos y sociales.
+
 III. Integridad. Se debe evitar la presencia de conflictos de intereses en la actuación de las Autoridades Normalizadoras, los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar, las Entidades de Acreditación, los Organismos de Evaluación de la Conformidad, el Centro Nacional de Metrología y los Institutos Designados de Metrología.
+
 IV. Certidumbre. Los integrantes del Sistema Nacional de Infraestructura de la Calidad deben actuar en estricto apego a las disposiciones legales aplicables.
+
 V. Eficiencia. Se deben optimizar los recursos relativos a las actividades de normalización, estandarización, Evaluación de la Conformidad y metrología, así como simplificar los procesos en su gestión y tiempo de ejecución.
+
 VI. Agilidad. Los procedimientos en la elaboración, revisión y cancelación de Normas Oficiales Mexicanas y Estándares deben efectuarse de manera pronta y expedita y, para el caso de las Normas Oficiales Mexicanas, buscando una atención óptima a los objetivos legítimos de interés público previstos en esta Ley, así como favorecer los avances tecnológicos y cumplir con los fines de la presente Ley.
+
 VII. Máxima publicidad. En el manejo de la información relativa a las actividades de normalización, estandarización, Evaluación de la Conformidad y metrología, dicha información será accesible al público y sólo por excepción, en los casos expresamente previstos en la legislación aplicable se podrá clasificar como confidencial o reservada.
+
 VIII. Mejores prácticas internacionales. Las Normas Oficiales Mexicanas y los Estándares, incluyendo sus Procedimientos de Evaluación de la Conformidad, que se expidan deben procurar parámetros internacionales para generar efectos tangibles y mensurables en cuanto a propiciar el cumplimiento de los objetivos y fines previstos en esta Ley.
+
 IX. Calidad. Coadyuvar a la mejora continua en la producción de bienes y prestación de servicios, que aumente la competitividad de la economía del país y su capacidad para participar en el comercio internacional y en las cadenas productivas que generen valor.
+
 X. Coherencia. Las Normas Oficiales Mexicanas y los Estándares serán armónicos con las Normas Internacionales para no generar barreras técnicas innecesarias al comercio, así como para no restringir el intercambio comercial ni la competencia interna.
+
 XI. Sostenibilidad. Las actividades de normalización, estandarización, acreditación, evaluación de la conformidad y metrología se basan en el desarrollo sostenible, teniendo presente un impacto positivo en los sectores económicos e industriales del país.
+
 XII. Trazabilidad de las mediciones. Asegurar que la trazabilidad de las mediciones que se realicen en el país, se origine en los patrones nacionales de medida y en los materiales de referencia certificados, con el propósito de asegurar la confiabilidad y la uniformidad de las mediciones, así como la comparabilidad de las mismas. Requiere el establecimiento de una cadena ininterrumpida de calibraciones con patrones de medición y con incertidumbre de medición determinada.
+
 XIII. Inclusión. Al desarrollar actividades de normalización, estandarización, evaluación de la conformidad, acreditación y metrología, los integrantes del Sistema Nacional de Infraestructura de la Calidad, deberán observar las disposiciones en materia de igualdad sustantiva e inclusión para efectuar ajustes razonables y acciones afirmativas en favor de las personas con discapacidad.
 
 ## Capítulo III
@@ -140,19 +224,35 @@ Objetivos Legítimos de Interés Público
 ### Artículo 10
 . Las Normas Oficiales Mexicanas tienen como finalidad atender las causas de los problemas identificados por las Autoridades Normalizadoras que afecten o que pongan en riesgo los objetivos legítimos de interés público.
 Para efectos de esta Ley, se consideran como objetivos legítimos de interés público:
+
 I. la protección y promoción a la salud;
+
 II. la protección a la integridad física, a la salud, y a la vida de los trabajadores en los centros de trabajo;
+
 III. la protección a la producción orgánica, de organismos genéticamente modificados, sanidad e inocuidad agroalimentaria, acuícola, pesquera, animal y vegetal;
+
 IV. la seguridad alimentaria;
+
 V. la educación y cultura;
+
 VI. los servicios turísticos;
+
 VII. la seguridad nacional;
+
 VIII. la protección al medio ambiente y cambio climático;
+
 IX. el uso y aprovechamiento de los recursos naturales;
+
 X. el sano desarrollo rural y urbano;
+
 XI. las obras y servicios públicos;
-XII. la seguridad vial XIII. la protección del derecho a la información;
+
+XII. la seguridad vial
+
+XIII. la protección del derecho a la información;
+
 XIV. la protección de las denominaciones de origen;
+
 XV. y cualquier otra necesidad pública, en términos de las disposiciones legales aplicables.
 Asimismo, se considera como un objetivo legítimo de interés público el cumplimiento con aquéllos señalados en los acuerdos y tratados internacionales suscritos por el Estado Mexicano.
 
@@ -182,8 +282,12 @@ De la Integración y Organización
 
 ### Artículo 15
 . Las instancias encargadas de la normalización forman parte del Sistema Nacional de Infraestructura de la Calidad y son las siguientes:
+
 I. La Comisión;
-II. Las Autoridades Normalizadoras, y III. Los Comités Consultivos Nacionales de Normalización y, en su caso, sus subcomités y grupos de trabajo.
+
+II. Las Autoridades Normalizadoras, y
+
+III. Los Comités Consultivos Nacionales de Normalización y, en su caso, sus subcomités y grupos de trabajo.
 
 ## Capítulo II
 De la Comisión Sección Primera De su Integración y Atribuciones
@@ -191,50 +295,89 @@ De la Comisión Sección Primera De su Integración y Atribuciones
 ### Artículo 16
 . La Comisión es un órgano colegiado presidido por la persona titular de la Secretaría y es la instancia responsable de dirigir y coordinar las actividades en materia de normalización, estandarización, evaluación de la conformidad y metrología.
 La Comisión está conformada por:
+
 I. Las personas titulares de las Subsecretarías correspondientes de las Secretarías de Gobernación, Seguridad y Protección Ciudadana, Hacienda y Crédito Público, Bienestar, Medio Ambiente y Recursos Naturales, Energía, Economía, Agricultura y Desarrollo Rural, Comunicaciones y Transportes, Educación Pública, Salud, Trabajo y Previsión Social, Desarrollo Agrario, Territorial y Urbano, Turismo y Marina, o las que las sustituyan, así como otras dependencias que tengan competencia en materia de normalización, según esa competencia sea reconocida por la propia Comisión;
+
 II. Las personas que presidan la Comisión Reguladora de Energía, la Comisión Nacional de Hidrocarburos, la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, la Comisión Federal para la Protección contra Riesgos Sanitarios, el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, la Procuraduría Federal del Consumidor, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional del Agua, la Agencia Federal de Aviación Civil, la Agencia Reguladora de Transporte Ferroviario, la Comisión Nacional de Seguridad Nuclear y Salvaguardias, al Comisión Nacional para el Uso Eficiente de la Energía, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, el Consejo Nacional de Normalización y Certificación de Competencias Laborales, o las que las sustituyan, así como de otros organismos que tengan competencia en materia de normalización, según esa competencia sea reconocida por la propia Comisión;
+
 III. Las personas titulares de las Direcciones Generales, o su equivalente del Consejo Nacional de Ciencia y Tecnología, del Centro Nacional de Metrología y de los Institutos Designados de Metrología, o los que los sustituyan;
+
 IV. Representantes de las cámaras y confederaciones así como, asociaciones de industriales y comerciales del país constituidas en el marco de la Ley de Cámaras Empresariales y sus Confederaciones, que serán elegidos de acuerdo con lo previsto en el Reglamento de la Ley;
-V. Representantes de instituciones públicas y privadas de la academia, especialistas y científicos que cuenten con trayectoria y experiencia en aspectos relacionados con la normalización, estandarización y Evaluación de la Conformidad, que serán elegidos de acuerdo con lo previsto en el Reglamento de la Ley, y VI. Las personas titulares de las Direcciones Generales, o su equivalente, de las Entidades de Acreditación y los Organismos Nacionales de Estandarización.
+
+V. Representantes de instituciones públicas y privadas de la academia, especialistas y científicos que cuenten con trayectoria y experiencia en aspectos relacionados con la normalización, estandarización y Evaluación de la Conformidad, que serán elegidos de acuerdo con lo previsto en el Reglamento de la Ley, y
+
+VI. Las personas titulares de las Direcciones Generales, o su equivalente, de las Entidades de Acreditación y los Organismos Nacionales de Estandarización.
 Asimismo, previa invitación del Presidente de la Comisión, se podrán integrar como observadores sin derecho a voto representantes de otras dependencias y entidades de la Administración Pública Federal, así como de las entidades federativas y municipios; organismos privados; organizaciones de trabajadores, consumidores y profesionales; e instituciones académicas, científicas y tecnológicas, cuando se traten temas de su competencia, especialidad o interés.
 
 ### Artículo 17
 . Para el adecuado ejercicio de sus atribuciones, operación y ejecución de sus resoluciones, la Comisión estará integrada por:
+
 I. Un Presidente;
-II. Un Consejo Técnico, y III. Un Secretariado Ejecutivo.
+
+II. Un Consejo Técnico, y
+
+III. Un Secretariado Ejecutivo.
 
 ### Artículo 18
 . Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, la Comisión tiene las siguientes atribuciones:
+
 I. Dirigir y coordinar el Sistema Nacional de Infraestructura de la Calidad;
+
 II. Revisar, analizar y aprobar anualmente el Programa, su suplemento, y vigilar su cumplimiento;
+
 III. Establecer directrices, estrategias y otras medidas para promover y difundir la infraestructura de la calidad, mejorar y modernizar la elaboración de Normas Oficiales Mexicanas y Estándares, así como para fomentar su cumplimiento;
+
 IV. Autorizar la creación de los Comités Consultivos Nacionales de Normalización a propuesta de las Autoridades Normalizadoras;
+
 V. Opinar cuando se requiera, sobre el registro de Organismos Nacionales de Estandarización;
+
 VI. Opinar sobre la autorización de las Entidades de Acreditación;
+
 VII. Supervisar a los Comités Consultivos Nacionales de Normalización en el proceso de normalización;
+
 VIII. Cuando durante el proceso de normalización, a su juicio, se ponga en riesgo la atención a un objetivo legítimo de interés público, emitirá las recomendaciones pertinentes a la Autoridad Normalizadora que presida el Comité Consultivo Nacional de Normalización a fin de que tome las medidas necesarias.
+
 IX. Proponer las medidas que se estimen oportunas para el fomento de la infraestructura de la Calidad, así como aquellas necesarias para resolver las quejas que presenten los interesados sobre aspectos relacionados con las actividades de la Infraestructura de la Calidad.
+
 X. Resolver las discrepancias que puedan presentarse en los trabajos de los Comités Consultivos Nacionales de Normalización;
+
 XI. Aprobar la integración de grupos de trabajo para el estudio e investigación de temáticas específicas en materia de normalización, estandarización, Evaluación de la Conformidad y metrología;
+
 XII. Proponer, instaurar o aprobar indicadores que permitan evaluar y dar seguimiento al Programa;
+
 XIII. Evaluar los programas de Verificación, Vigilancia y vigilancia del mercado que las Autoridades Normalizadoras presenten ante la Comisión;
+
 XIV. Promover la evaluación de Normas Oficiales Mexicanas vigentes, conforme a las mejores prácticas internacionales y las disposiciones aplicables en materia de mejora regulatoria;
+
 XV. Instruir al Secretariado Ejecutivo para que elabore un informe anual de las actividades de la Comisión;
+
 XVI. Promover el uso de principios, metodologías, instrumentos, programas, criterios y herramientas acordes a las buenas prácticas nacionales e internacionales en materia de infraestructura de la calidad;
-XVII. Expedir su propio reglamento interior, y XVIII. Todas aquéllas que sean necesarias para la realización de los objetivos de la presente Ley.
+
+XVII. Expedir su propio reglamento interior, y
+
+XVIII. Todas aquéllas que sean necesarias para la realización de los objetivos de la presente Ley.
 En el caso de las fracciones II, VI, VII, VIII, XIII y XVII del presente artículo, las resoluciones se tomarán exclusivamente por la mayoría simple de los votos de los miembros a que se refiere la fracción I del artículo 16 de esta Ley. En los demás casos, por la mayoría simple de todos los miembros presentes.
 En todos los casos en que exista empate en las votaciones, el Presidente de la Comisión tendrá voto de calidad.
 
 ### Artículo 19
 . Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, corresponde al Presidente de la Comisión:
+
 I. Presidir las sesiones de la Comisión y someter a su consideración los asuntos que figuren en el orden del día;
+
 II. Someter al pleno de la Comisión, por conducto del Secretariado Ejecutivo, los temas relativos a sus funciones;
-III. Someter al pleno de la Comisión, por conducto del Secretariado Ejecutivo, la integración de grupos de trabajo, y IV. En el ámbito de su competencia, delegar facultades al Consejo Técnico o al Secretariado Ejecutivo, según corresponda.
+
+III. Someter al pleno de la Comisión, por conducto del Secretariado Ejecutivo, la integración de grupos de trabajo, y
+
+IV. En el ámbito de su competencia, delegar facultades al Consejo Técnico o al Secretariado Ejecutivo, según corresponda.
 
 ### Artículo 20
 . Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, corresponde a cada uno de los miembros de la Comisión:
+
 I. Solicitar al pleno de la Comisión, por conducto del Secretariado Ejecutivo, se diriman las discrepancias específicas que se presenten en materia de normalización, estandarización, Evaluación de la Conformidad o metrología;
-II. Solicitar al pleno de la Comisión por conducto del Secretariado Ejecutivo el análisis o el estudio de temas que incidan o afecten las actividades de normalización, estandarización, acreditación, evaluación de la conformidad o metrología, y III. Participar en los mecanismos, estrategias y cualquier otra actividad para el fortalecimiento y la difusión del Sistema Nacional de Infraestructura de la Calidad y de los trabajos de la Comisión.
+
+II. Solicitar al pleno de la Comisión por conducto del Secretariado Ejecutivo el análisis o el estudio de temas que incidan o afecten las actividades de normalización, estandarización, acreditación, evaluación de la conformidad o metrología, y
+
+III. Participar en los mecanismos, estrategias y cualquier otra actividad para el fortalecimiento y la difusión del Sistema Nacional de Infraestructura de la Calidad y de los trabajos de la Comisión.
 Sección Segunda Del Consejo Técnico
 
 ### Artículo 21
@@ -247,11 +390,18 @@ Sección Tercera Del Secretariado Ejecutivo
 
 ### Artículo 23
 . Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, el Secretariado Ejecutivo tiene las siguientes atribuciones:
+
 I. Dirigir, planificar y coordinar los aspectos operativos de la labor del Consejo Técnico y los grupos de trabajo tanto de éste como de la Comisión, así como los aspectos logísticos u organizacionales de la Comisión;
+
 II. Coordinar entre las Autoridades Normalizadoras que las acciones y programas de Verificación y Vigilancia y vigilancia del mercado, se lleven a cabo con oportunidad y fomenten la calidad en los servicios que prestan las Entidades de Acreditación y los Organismos de Evaluación de la Conformidad;
+
 III. Asesorar al Presidente, así como a los miembros de la Comisión y del Consejo Técnico en el desempeño de sus funciones;
+
 IV. Preparar los proyectos de informes, resoluciones, estudios y otros trabajos que le encomienden la Comisión o el Presidente. Asimismo, recibir y dar trámite a la correspondencia, peticiones y comunicaciones dirigidas a la Comisión;
-V. Solicitar a los miembros de la Comisión, la información que considere pertinente para el eficaz desempeño de sus funciones, y VI. Las demás que le asigne el Presidente de la Comisión.
+
+V. Solicitar a los miembros de la Comisión, la información que considere pertinente para el eficaz desempeño de sus funciones, y
+
+VI. Las demás que le asigne el Presidente de la Comisión.
 
 ## Capítulo III
 De las Autoridades Normalizadoras
@@ -274,10 +424,16 @@ En el seno de cada Comité Consultivo Nacional de Normalización se deberá defi
 
 ### Artículo 27
 . Los Comités Consultivos Nacionales de Normalización desarrollarán las siguientes funciones:
+
 I. Conducir el proceso de normalización de las propuestas de Normas Oficiales Mexicanas que les fueren presentadas por las Autoridades Normalizadoras;
+
 II. Constituir y coordinar a los subcomités o grupos de trabajo, necesarios para el desempeño de sus funciones;
+
 III. Elaborar su programa de trabajo;
-IV. A solicitud del Secretariado Ejecutivo de la Comisión entregar la lista actualizada de los miembros del comité, y V. Cualquier otra actividad relacionada con sus funciones que le sea encomendada por la Autoridad Normalizadora que lo presida o por la Comisión.
+
+IV. A solicitud del Secretariado Ejecutivo de la Comisión entregar la lista actualizada de los miembros del comité, y
+
+V. Cualquier otra actividad relacionada con sus funciones que le sea encomendada por la Autoridad Normalizadora que lo presida o por la Comisión.
 
 ### Artículo 28
 . Las sesiones de los Comités Consultivos Nacionales de Normalización podrán ser presenciales o por medios de comunicación remota.
@@ -305,9 +461,14 @@ Las Normas Oficiales Mexicanas de emergencia tendrán una vigencia no mayor a se
 ### Artículo 32
 . Las Normas Oficiales Mexicanas deberán ser revisadas al menos cada cinco años posteriores a su publicación en el Diario Oficial de la Federación o de aquélla de su última modificación, a través de un proceso de revisión sistemática que se ajuste a lo previsto en el Reglamento de esta Ley, debiendo notificar el informe al Secretariado Ejecutivo de la Comisión con los resultados de la revisión, dentro de los sesenta días posteriores a la terminación del período quinquenal correspondiente.
 El informe que contenga la revisión sistemática deberá ser elaborado por la Autoridad Normalizadora correspondiente, quien podrá auxiliarse del Comité Consultivo Nacional de Normalización respectivo, así como contener al menos los siguientes elementos, acompañados de la justificación correspondiente:
+
 I. Diagnóstico que podrá incluir un análisis y evaluación de medidas alternativas, en caso de haberlas;
+
 II. Impacto o beneficios de la Norma Oficial Mexicana;
-III. Datos cualitativos y cuantitativos, y IV. Confirmación o, en su caso, la propuesta de modificación o cancelación.
+
+III. Datos cualitativos y cuantitativos, y
+
+IV. Confirmación o, en su caso, la propuesta de modificación o cancelación.
 La Autoridad Normalizadora deberá también entregar el informe al Comité Consultivo Nacional de Normalización de que se trate dentro del plazo señalado en el párrafo anterior, así como solicitar su publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad. Recibido el informe, el Comité Consultivo Nacional de Normalización deberá atender la propuesta de modificación en los términos previstos en esta Ley y en el Reglamento.
 Ante la falta de revisión y notificación del informe al Secretariado Ejecutivo, la Comisión valorará y, en su caso, si así lo determina, ordenará a la Autoridad Normalizadora la cancelación de las Normas Oficiales Mexicanas, en los términos previstos en el artículo 41 de esta Ley.
 
@@ -322,36 +483,60 @@ Procedimiento de Elaboración y Expedición de las Normas Oficiales Mexicanas
 
 ### Artículo 34
 . Las propuestas de Normas Oficiales Mexicanas deben cumplir, como mínimo, con los siguientes requisitos:
+
 I. El título;
+
 II. El objetivo, campo de aplicación, así como la descripción de los objetivos legítimos de interés público que persigue;
+
 III. La identificación, así como las especificaciones, características, disposiciones técnicas, datos e información correspondientes al bien, producto, proceso, servicio, terminología, marcado o etiquetado y de información al que será aplicable;
+
 IV. El procedimiento, así como la infraestructura para la Evaluación de la Conformidad aplicable.
 Para esos efectos, se privilegiará el uso de tecnologías de la información que aseguren la identificación de bienes, productos, procesos y servicios;
+
 V. Identificar las autoridades que llevarán a cabo la Verificación o la Vigilancia para su cumplimiento;
+
 VI. En su caso, la referencia a Estándares para su implementación;
+
 VII. Utilizar como base las Normas Internacionales aplicables en la materia y establecer el grado de concordancia de la propuesta con las mismas, señalando si es idéntica, modificada o no equivalente;
+
 VIII. La bibliografía que corresponda, incluyendo, entre otros, los Estándares, las Normas Internacionales y los Reglamentos Técnicos que, en su caso, se tomaron como referencia para la elaboración de la propuesta de Norma Oficial Mexicana;
+
 IX. Clasificación de acuerdo con lo previsto en el artículo 30, último párrafo de esta Ley;
+
 X. Incluir la propuesta de análisis de impacto regulatorio en los términos señalados por la Comisión conforme a lo previsto en el artículo 36 de esta Ley;
-XI. Las otras menciones que se consideren pertinentes para la debida comprensión y alcance de la propuesta, y XII. Las demás previstas en el Reglamento de esta Ley.
+
+XI. Las otras menciones que se consideren pertinentes para la debida comprensión y alcance de la propuesta, y
+
+XII. Las demás previstas en el Reglamento de esta Ley.
 Para efectos de esta Ley, se entiende como una propuesta de Norma Oficial Mexicana, al documento preliminar elaborado o aceptado por las Autoridades Normalizadoras, en la que se proponen las características de un bien, producto, proceso, servicio y, en su caso, métodos de producción con ellos relacionados.
 También puede incluir disposiciones sobre símbolos, embalaje, marcado o etiquetado, o bien, terminología, aplicables a un bien, producto, proceso, servicio o método de producción.
 
 ### Artículo 35
 . El procedimiento de normalización consta de las siguientes etapas que serán progresivas y sucesivas:
+
 I. Elaboración o aceptación de la propuesta por la Autoridad Normalizadora;
+
 II. Presentación de la propuesta al Comité Consultivo Nacional de Normalización correspondiente para su análisis y revisión, en cuyo momento, se considerará como un anteproyecto de Norma Oficial Mexicana;
+
 III. En caso de que el Comité Consultivo Nacional de Normalización lo considere conveniente, constitución del grupo de trabajo correspondiente, para el estudio y la discusión del anteproyecto correspondiente.
 En su caso, presentación de los resultados del estudio y discusión del anteproyecto por parte del grupo de trabajo ante el Comité Consultivo Nacional de Normalización;
+
 IV. Deliberación por parte del Comité Consultivo Nacional de Normalización que podrá ser afirmativa, con modificaciones o negativa, resultado que comunicará a la Autoridad Normalizadora;
+
 V. En caso de que el resultado de la deliberación sea afirmativo, la Autoridad Normalizadora ordenará la publicación en el Diario Oficial de la Federación de un Aviso del proyecto de la Norma Oficial Mexicana que contenga un extracto de éste, mismo que estará disponible en su totalidad en la Plataforma Tecnológica Integral de Infraestructura de la Calidad, para su consulta pública.
 En caso de que el resultado de la deliberación resulte en modificaciones, la Autoridad Normalizadora tendrá un plazo de treinta días naturales para atenderlas y presentar al Comité Consultivo Nacional de Normalización un anteproyecto modificado, en cuyo caso, se reiniciará el procedimiento previsto en este artículo a partir de la fracción III anterior.
 En el evento que el resultado de la deliberación sea negativo, concluirá el procedimiento de normalización respectivo;
+
 VI. Recepción de los comentarios de la consulta pública por el Comité Consultivo Nacional de Normalización, a través de los formatos y los medios previstos en la Plataforma Tecnológica Integral de Infraestructura de la Calidad;
+
 VII. Constitución por el Comité Consultivo Nacional de Normalización del grupo de trabajo para el estudio y discusión de los comentarios recibidos a través de la consulta pública y, en su caso, propuesta de ajustes al proyecto de Norma Oficial Mexicana;
+
 VIII. Presentación, por el grupo de trabajo, ante el Comité Consultivo Nacional de Normalización de la propuesta de respuesta a los comentarios recibidos durante la consulta pública y, como consecuencia, la propuesta de ajustes al proyecto de Norma Oficial Mexicana, para su resolución definitiva.
 La resolución definitiva del Comité Consultivo Nacional de Normalización deberá ser comunicada a la Autoridad Normalizadora;
-IX. Notificada la resolución definitiva a la Autoridad Normalizadora, ésta solicitará a la Secretaría la publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad de las respuestas a los comentarios recibidos durante la consulta pública, y X. En caso de que el Comité Consultivo Nacional de Normalización apruebe el proyecto de Norma Oficial Mexicana objeto de resolución definitiva, la Autoridad Normalizadora deberá expedir la Norma Oficial Mexicana y ordenar su publicación en el Diario Oficial de la Federación, así como solicitar su publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
+
+IX. Notificada la resolución definitiva a la Autoridad Normalizadora, ésta solicitará a la Secretaría la publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad de las respuestas a los comentarios recibidos durante la consulta pública, y
+
+X. En caso de que el Comité Consultivo Nacional de Normalización apruebe el proyecto de Norma Oficial Mexicana objeto de resolución definitiva, la Autoridad Normalizadora deberá expedir la Norma Oficial Mexicana y ordenar su publicación en el Diario Oficial de la Federación, así como solicitar su publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
 En caso de propuestas de Normas Oficiales Mexicanas que incidan en el ámbito de competencia de diversas Autoridades Normalizadoras, el procedimiento antes señalado considerará lo previsto en el penúltimo párrafo del artículo 30 anterior.
 El procedimiento de este artículo no será aplicable en el caso de Normas Oficiales Mexicanas de emergencia, cuya emisión se sujetará a lo previsto en el artículo 31 de esta Ley y en su Reglamento.
 
@@ -386,14 +571,23 @@ Procedimiento de Modificación y Cancelación de las Normas Oficiales Mexicanas
 ### Artículo 41
 . El procedimiento de modificación de una Norma Oficial Mexicana se ajustará a lo previsto en el artículo 35 de esta Ley. El Reglamento de esta Ley podrá establecer procedimientos simplificados de modificación y cancelación de Normas Oficiales Mexicanas.
 El procedimiento de modificación o cancelación de las Normas Oficiales Mexicanas podrá iniciarse en cualquier momento, siempre que la Norma Oficial Mexicana haya entrado en vigor, por cualquiera de los siguientes motivos según resulten aplicables al supuesto de que se trate:
+
 I. La modificación a las Normas Internacionales tomadas como base para la elaboración de la Norma Oficial Mexicana, o la expedición de nuevas Normas Internacionales que incidan en la misma;
+
 II. Que la Norma Oficial Mexicana no atienda adecuadamente los objetivos legítimos de interés público que persigue, resulte obsoleta o la tecnología la haya superado;
+
 III. Que se requieran modificar los procedimientos de Evaluación de la Conformidad ahí previstos o reflejar los criterios generales existentes en la materia;
-IV. Cuando la Autoridad Normalizadora que expidió la Norma Oficial Mexicana, advierta que las causas que motivaron su expedición ya no subsisten o son obsoletas, o V. Cuando la Autoridad Normalizadora así lo considere conveniente, siempre que exista una justificación para ello.
+
+IV. Cuando la Autoridad Normalizadora que expidió la Norma Oficial Mexicana, advierta que las causas que motivaron su expedición ya no subsisten o son obsoletas, o
+
+V. Cuando la Autoridad Normalizadora así lo considere conveniente, siempre que exista una justificación para ello.
 
 ### Artículo 42
 . La Comisión podrá ordenar a las Autoridades Normalizadoras la cancelación de Normas Oficiales Mexicanas sin sujetarse a lo previsto en el artículo 41 anterior, cuando se cumpla alguno de los siguientes supuestos:
-I. Cuando el informe que contenga el resultado de la revisión sistemática que se haya realizado a una Norma Oficial Mexicana proponga su cancelación, o II. Cuando la Autoridad Normalizadora correspondiente que haya expedido la Norma Oficial Mexicana se quede sin facultades en la materia, sin que éstas hayan sido asumidas por otra Autoridad Normalizadora.
+
+I. Cuando el informe que contenga el resultado de la revisión sistemática que se haya realizado a una Norma Oficial Mexicana proponga su cancelación, o
+
+II. Cuando la Autoridad Normalizadora correspondiente que haya expedido la Norma Oficial Mexicana se quede sin facultades en la materia, sin que éstas hayan sido asumidas por otra Autoridad Normalizadora.
 La Autoridad Normalizadora competente deberá cancelar y ordenar la publicación de dicha cancelación en el Diario Oficial de la Federación dentro de los 30 días siguientes a que la Comisión se lo ordene. En caso de que la Autoridad Normalizadora no lleve a cabo esa cancelación y publicación dentro del plazo señalado, la Comisión podrá cancelar y ordenar esa publicación directamente. Las Normas Oficiales Mexicanas continuarán surtiendo efectos hasta que se publique su cancelación en el Diario Oficial de la Federación.
 TITULO QUINTO DE LA INTEGRACIÓN Y ORGANIZACIÓN DE LA EVALUACIÓN DE LA CONFORMIDAD
 
@@ -427,36 +621,71 @@ De las Entidades de Acreditación y los Organismos de Evaluación de la Conformi
 
 ### Artículo 49
 . Para operar como Entidad de Acreditación se requiere la autorización de la Secretaría, previa opinión favorable de la Comisión y cumplir con lo siguiente, de acuerdo con lo previsto en el Reglamento de esta Ley:
-I. Acreditar la capacidad jurídica, técnica, administrativa y financiera, debiendo constituirse como una persona moral, cuyo objeto social principal sea desarrollar tareas de acreditación en términos de esta Ley, para lo que se deberá acompañar: a) Estatutos sociales o proyecto de éstos, detallando órganos de gobierno, y la estructura técnica funcional de la entidad que garantice el equilibrio de las partes interesadas en el proceso de acreditación a nivel nacional, entendiéndose por partes interesadas a las personas acreditadas, usuarios del servicio, asociaciones de profesionales o académicos, cámaras y asociaciones de industriales o comerciantes, instituciones de educación superior, centros de investigación y las dependencias involucradas en las actividades de acreditación de la entidad; b) Relación de los recursos materiales y humanos con que cuenta, o propuesta de los mismos, detallando grado académico y experiencia en la materia de estos últimos; y c) Documentos que demuestren su solvencia financiera para asegurar la continuidad del sistema de acreditación;
+
+I. Acreditar la capacidad jurídica, técnica, administrativa y financiera, debiendo constituirse como una persona moral, cuyo objeto social principal sea desarrollar tareas de acreditación en términos de esta Ley, para lo que se deberá acompañar:
+
+a) Estatutos sociales o proyecto de éstos, detallando órganos de gobierno, y la estructura técnica funcional de la entidad que garantice el equilibrio de las partes interesadas en el proceso de acreditación a nivel nacional, entendiéndose por partes interesadas a las personas acreditadas, usuarios del servicio, asociaciones de profesionales o académicos, cámaras y asociaciones de industriales o comerciantes, instituciones de educación superior, centros de investigación y las dependencias involucradas en las actividades de acreditación de la entidad;
+
+b) Relación de los recursos materiales y humanos con que cuenta, o propuesta de los mismos, detallando grado académico y experiencia en la materia de estos últimos; y
+
+c) Documentos que demuestren su solvencia financiera para asegurar la continuidad del sistema de acreditación;
+
 II. Detallar la estructura organizacional de la entidad;
+
 III. Detallar la metodología que utilizará para evaluar y, en su caso, otorgar las acreditaciones a quienes lo soliciten conforme a los Estándares nacionales o las Normas Internacionales aplicables y vigentes. Cualquier cambio sustancial en esa metodología deberá ser presentado para su aprobación por parte de la Secretaría, previa opinión favorable de la Comisión;
+
 IV. Demostrar su capacidad para atender una o diversas materias técnicas, sectores o ramas de actividad, que corresponden al campo de la evaluación de la conformidad respectivo;
-V. Señalar las tarifas y precios que aplicará en la prestación de sus servicios, así como la metodología utilizada para determinarlos, bajo un procedimiento transparente basado en costos; y VI. Detallar el procedimiento para la integración de un padrón de evaluadores conforme a lo dispuesto en el artículo 50 siguiente.
+
+V. Señalar las tarifas y precios que aplicará en la prestación de sus servicios, así como la metodología utilizada para determinarlos, bajo un procedimiento transparente basado en costos; y
+
+VI. Detallar el procedimiento para la integración de un padrón de evaluadores conforme a lo dispuesto en el artículo 50 siguiente.
 Las Entidades de Acreditación podrán operar en una o en diversas materias, sectores o ramas de actividad, siempre y cuando operen bajo un sistema de gestión de la calidad internacionalmente reconocido, tengan cobertura nacional y que cumplan con lo antes señalado.
 
 ### Artículo 50
 . Las Entidades de Acreditación deberán, en los términos previstos en el Reglamento de la Ley:
+
 I. Cumplir en todo momento con las condiciones y términos conforme a los cuales se le otorgó la autorización;
+
 II. Resolver las solicitudes de acreditación que le sean presentadas de manera imparcial; emitir las acreditaciones correspondientes y notificarlo a la Autoridad Normalizadora competente por materia, así como a la Secretaría;
+
 III. Permitir la presencia de representantes de las Autoridades Normalizadoras que así lo soliciten en el desarrollo de sus funciones;
+
 IV. Integrar y coordinar los comités de evaluación para la acreditación;
+
 V. Incorporar a sus evaluadores en el Padrón Nacional de Evaluadores que disponga la Secretaría;
+
 VI. Revisar periódicamente el cumplimiento por parte de los Organismos de Evaluación de la Conformidad con las condiciones y requisitos que sirvieron de base para su acreditación;
+
 VII. A solicitud de la Secretaría o de las Autoridades Normalizadoras, informar sobre los resultados de las revisiones y supervisiones que realicen de los Organismos de Evaluación de la Conformidad;
+
 VIII. Resolver las reclamaciones que presenten las partes afectadas por sus actividades en términos del artículo 164 siguiente, con la intervención que corresponda a la Secretaría o a las Autoridades Normalizadoras y responder sobre su actuación. Cualquier afectación deberá tramitarse en los términos antes señalados, con independencia de la forma en que la parte afectada la denomine;
+
 IX. Salvaguardar la confidencialidad de la información obtenida en el desempeño de sus actividades;
+
 X. Participar en organizaciones de acreditación regionales e internacionales para la elaboración de criterios y lineamientos sobre la acreditación y el reconocimiento mutuo de las acreditaciones otorgadas, e informar a la Secretaría y, en su caso, a las Autoridades Normalizadoras en razón de competencia por materia, sobre ello;
+
 XI. Informar a la Secretaría el resultado y el cumplimiento de las evaluaciones realizadas por las organizaciones de acreditación regionales e internacionales en las que participen;
+
 XII. Facilitar a la Secretaría y a las Autoridades Normalizadoras la información y asistencia técnica que se le requiera y presentar semestralmente ante la Secretaría un reporte de las acreditaciones que emita, así como de los demás actos que haya realizado, en los términos y formatos que la Secretaría determine;
+
 XIII. Mantener para consulta de cualquier interesado un catálogo clasificado y actualizado por medios electrónicos de los Organismos de Evaluación de la Conformidad que haya acreditado.
 Asimismo, entregar a la Secretaría la actualización de esa información, en los términos y formatos que la Secretaría determine;
+
 XIV. Poner a consulta de cualquier interesado, información relativa a sus derechos y obligaciones; los medios a través de los cuales obtiene ingresos económicos; los acuerdos y reconocimientos internacionales en los que está involucrada; los esquemas de acreditación, incluyendo sus procesos de evaluación; las tarifas relativas a la acreditación; y la descripción de los derechos y obligaciones de los organismos de evaluación de la conformidad;
+
 XV. Ajustarse a las reglas, procedimientos y métodos que se establezcan en las Normas Oficiales Mexicanas, Estándares o Normas Internacionales ahí referidos o de otras disposiciones legales en materia de Evaluación de la Conformidad;
+
 XVI. Prestar sus servicios en condiciones no discriminatorias y observar las demás disposiciones en materia de competencia económica;
+
 XVII. Evitar la existencia de conflictos de interés que puedan afectar sus actuaciones y excusarse de actuar cuando existan tales conflictos;
+
 XVIII. Permitir la Vigilancia de sus actividades por parte de la Secretaría y de las Autoridades Normalizadoras en el ámbito de sus respectivas competencias;
+
 XIX. Actuar con imparcialidad e independencia, observando los principios previstos en esta Ley;
-XX. Operar bajo un sistema de gestión de la calidad internacionalmente reconocido, y XXI. Especificar las condiciones para otorgar, ampliar, renovar, mantener, suspender o cancelar las acreditaciones otorgadas, en sus manuales de operación y en el contrato de prestación de servicios que celebre con los Organismos de Evaluación de la Conformidad, acordes con lo dispuesto en esta Ley y su Reglamento.
+
+XX. Operar bajo un sistema de gestión de la calidad internacionalmente reconocido, y
+
+XXI. Especificar las condiciones para otorgar, ampliar, renovar, mantener, suspender o cancelar las acreditaciones otorgadas, en sus manuales de operación y en el contrato de prestación de servicios que celebre con los Organismos de Evaluación de la Conformidad, acordes con lo dispuesto en esta Ley y su Reglamento.
 
 ### Artículo 51
 . Los empleados y directivos de las Entidades de Acreditación estarán impedidos para conocer de las solicitudes de acreditación promovidas por personas con las cuales tengan nexos familiares por afinidad o consanguinidad hasta el cuarto grado en línea recta o colateral, intereses económicos o conflictos de interés de otra índole o bien para cualquiera de las especificaciones previstas en el artículo 50, fracción XIX anterior.
@@ -470,64 +699,109 @@ Sección Segunda De los Organismos de Evaluación de la Conformidad
 
 ### Artículo 53
 . Los Organismos de Evaluación de la Conformidad podrán operar como:
+
 I. Laboratorios, de ensayos y pruebas, medición o calibración, entre otros;
+
 II. Unidades de inspección;
-III. Organismos de certificación, y IV. Otros proveedores y prestadores de servicios previstos en el Reglamento de esta Ley.
+
+III. Organismos de certificación, y
+
+IV. Otros proveedores y prestadores de servicios previstos en el Reglamento de esta Ley.
 En el Reglamento de la presente Ley se consignarán los términos en que los organismos mencionados participarán en actividades de Evaluación de la Conformidad, por lo que, en casos aplicables se deberán observar las disposiciones del Sistema de metrología.
 Siempre que no implique un conflicto de interés o una afectación a los objetivos legítimos de interés público que persiga la Norma Oficial Mexicana aplicable, un Organismo de Evaluación de la Conformidad podrá operar bajo más de una de las figuras antes señaladas, siempre cumpliendo con lo previsto en esta Ley y demás disposiciones legales aplicables y cuenten con la respectiva autorización, registro, acreditación o aprobación según corresponda, que demuestre que cumplen con los criterios de imparcialidad y confiabilidad y no tienen conflicto de intereses de acuerdo a los establecidos en las normas nacionales e internacionales aplicables.
 
 ### Artículo 54
 . Solo podrán operar como Organismos de Evaluación de la Conformidad aquéllos que estén acreditados ante una Entidad de Acreditación, para lo cual deberán formular ante la misma su solicitud, y acompañar:
+
 I. Sus estatutos sociales, con un objeto social suficiente para operar como Organismos de Evaluación de la Conformidad, así como su propuesta de actividades;
-II. Señalar el objeto, las Normas Oficiales Mexicanas y, en su caso, los Estándares y Normas Internacionales, u otras disposiciones legales que pretenden evaluar, indicando la materia, sector, rama, campo o actividad respectivos y describir los servicios que pretenden prestar y los procedimientos a utilizar, y III. Demostrar que cuentan con la adecuada capacidad jurídica, técnica, administrativa, financiera, material y humana, en relación con los servicios que pretende prestar, así como con los procedimientos de gestión de calidad y técnicos, que garanticen el desempeño de sus funciones.
+
+II. Señalar el objeto, las Normas Oficiales Mexicanas y, en su caso, los Estándares y Normas Internacionales, u otras disposiciones legales que pretenden evaluar, indicando la materia, sector, rama, campo o actividad respectivos y describir los servicios que pretenden prestar y los procedimientos a utilizar, y
+
+III. Demostrar que cuentan con la adecuada capacidad jurídica, técnica, administrativa, financiera, material y humana, en relación con los servicios que pretende prestar, así como con los procedimientos de gestión de calidad y técnicos, que garanticen el desempeño de sus funciones.
 
 ### Artículo 55
 . Una vez obtenida la acreditación, las personas interesadas en operar como Organismos de Evaluación de la Conformidad para la Evaluación de la Conformidad de Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales, deberán presentar la solicitud de aprobación ante la Autoridad Normalizadora de que se trate, adjuntando la documentación señalada en el Reglamento de esta Ley, incluyendo, entre otra:
+
 I. Las tarifas y precios que aplicará en la prestación de sus servicios, así como la metodología utilizada para determinarlos, bajo un procedimiento transparente basado en costos;
-II. La metodología que utilizará para llevar a cabo la Evaluación de la Conformidad acorde a Normas Oficiales Mexicanas, Estándares, Normas Internacionales, de Reglamentos Técnicos ahí referidos o de otras disposiciones legales. Cualquier cambio sustancial en esa metodología que difiera de las Normas señaladas, deberá ser presentado para su previa aprobación por parte de la Entidad de Acreditación que lo hubiera acreditado quien dará vista a la Autoridad Normalizadora de que se trate, y III. Su plan de negocios para los siguientes doce meses, con la justificación respectiva; incluyendo, entre otros, una estimación de los servicios de Evaluación de la Conformidad que llevará a cabo y de la infraestructura que utilizará para ello.
+
+II. La metodología que utilizará para llevar a cabo la Evaluación de la Conformidad acorde a Normas Oficiales Mexicanas, Estándares, Normas Internacionales, de Reglamentos Técnicos ahí referidos o de otras disposiciones legales. Cualquier cambio sustancial en esa metodología que difiera de las Normas señaladas, deberá ser presentado para su previa aprobación por parte de la Entidad de Acreditación que lo hubiera acreditado quien dará vista a la Autoridad Normalizadora de que se trate, y
+
+III. Su plan de negocios para los siguientes doce meses, con la justificación respectiva; incluyendo, entre otros, una estimación de los servicios de Evaluación de la Conformidad que llevará a cabo y de la infraestructura que utilizará para ello.
 
 ### Artículo 56
 . Los Organismos de Evaluación de la Conformidad deberán:
+
 I. Ajustarse a las reglas, procedimientos y métodos que se establezcan en las Normas Oficiales Mexicanas, así como en los Estándares y Normas internacionales aplicables u otros instrumentos técnicos que prevea el Reglamento de esta ley;
+
 II. Prestar sus servicios en condiciones no discriminatorias, con imparcialidad e independencia y observar las demás disposiciones en materia de competencia económica;
+
 III. Evitar la existencia de conflictos de interés que puedan afectar sus actuaciones y excusarse de actuar cuando existan tales conflictos;
+
 IV. Resolver reclamaciones que presenten las partes afectadas por sus actividades en términos del artículo 164 siguiente, con la intervención que corresponda a las Autoridades Normalizadoras y responder sobre su actuación. Cualquier afectación deberá tramitarse en los términos antes señalados, con independencia de la forma en que la parte afectada la denomine;
+
 V. Garantizar la confidencialidad de la información y responder por todos los actos que realice, siendo el único responsable de cualquier daño o perjuicio causado a terceros;
-VI. Facilitar a la Autoridad Normalizadora de que se trate o a la Secretaría, la información y asistencia técnica que se le requiera, en los términos y formatos que éstas determinen, y VII. Permitir la revisión o Vigilancia de sus actividades por parte de la Autoridad Normalizadora, y la supervisión por las Entidades de Acreditación.
+
+VI. Facilitar a la Autoridad Normalizadora de que se trate o a la Secretaría, la información y asistencia técnica que se le requiera, en los términos y formatos que éstas determinen, y
+
+VII. Permitir la revisión o Vigilancia de sus actividades por parte de la Autoridad Normalizadora, y la supervisión por las Entidades de Acreditación.
 
 ### Artículo 57
 . Los empleados y directivos de los Organismos de Evaluación de la Conformidad estarán impedidos para conocer de las solicitudes de Evaluación de la Conformidad promovidas por personas con las cuales tengan nexos familiares por afinidad o consanguinidad hasta el cuarto grado en línea recta o colateral, intereses económicos o conflictos de interés de otra índole.
 
 ### Artículo 58
 . Las Entidades de Acreditación o las Autoridades Normalizadoras podrán suspender en forma parcial o total la acreditación o aprobación, según corresponda, de los Organismos de Evaluación de la Conformidad, cuando:
+
 I. No proporcionen a la Entidad de Acreditación o a las Autoridades Normalizadoras en forma oportuna y completa los informes que le sean requeridos respecto a su funcionamiento y operación;
+
 II. Se impidan u obstaculicen las funciones de seguimiento, revisión o supervisión de la Entidad de Acreditación o la Vigilancia de las Autoridades Normalizadoras;
+
 III. Se disminuya su capacidad para emitir los dictámenes técnicos o las certificaciones en áreas determinadas, caso en el cual la suspensión se concentrará en el área respectiva;
+
 IV. Cuando se violen las disposiciones de esta Ley o de su Reglamento;
+
 V. No reporten a la Entidad de Acreditación o a la Autoridad Normalizadora cambios en la información proporcionada al momento de solicitar la acreditación o la aprobación;
+
 VI. Sin causa justificada no se acaten los requerimientos que emita una Entidad de Acreditación o la Autoridad Normalizadora, derivados de las verificaciones, inspecciones, supervisiones o auditorías realizadas por éstas, según corresponda;
-VII. Se detecte el incumplimiento de responsabilidades asignadas, derivadas de una supervisión, verificación, evaluación, inspección o auditoría, según corresponda, y VIII. Se emitan dictámenes, certificados o informes de resultados utilizando protocolos o metodologías diferentes a los establecidos en las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales.
+
+VII. Se detecte el incumplimiento de responsabilidades asignadas, derivadas de una supervisión, verificación, evaluación, inspección o auditoría, según corresponda, y
+
+VIII. Se emitan dictámenes, certificados o informes de resultados utilizando protocolos o metodologías diferentes a los establecidos en las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales.
 El procedimiento de suspensión se sujetará a lo previsto en el Reglamento de esta Ley, con la participación que ahí se señale a cargo de las Autoridades Normalizadoras.
 La suspensión durará en tanto no se cumpla con los requisitos u obligaciones respectivas, pudiendo concretarse ésta, sólo al área de incumplimiento cuando sea posible.
 
 ### Artículo 59
 . Las Entidades de Acreditación o las Autoridades Normalizadoras podrán cancelar la acreditación o la aprobación de los Organismos de Evaluación de la Conformidad, según corresponda cuando:
+
 I. Emitan documentos donde se hagan constar los resultados de la Evaluación de la Conformidad con información o datos erróneos o falsos;
+
 II. Nieguen reiterada e injustificadamente el servicio que se les solicite;
+
 III. Renuncien expresamente a la acreditación concedida para operar;
+
 IV. Incurran incumplimientos graves a sus obligaciones bajo esta Ley y el Reglamento;
+
 V. Reincidan en los casos previstos en las fracciones del artículo 58 de esta Ley;
+
 VI. Alteren los documentos emitidos, declaren falsamente o que mediante inspección se detecte que lo manifestado en los certificados, dictámenes o informes de resultados no corresponda a lo observado en los establecimientos o mercancías reguladas, según corresponda;
+
 VII. Entreguen al usuario, sellos sin realizar la evaluación de la conformidad, así como certificados, dictámenes de verificación e informe de resultados firmados y/o sellados en blanco;
-VIII. Proporcionen servicios de evaluación de la conformidad en materias para las que no cuenta con acreditación y aprobación de una Entidad de Acreditación o a la Autoridad Normalizadora, según corresponda, y IX. Emitan dictámenes de verificación, informes de resultados o certificados sin previa verificación conforme con lo establecido en las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales.
+
+VIII. Proporcionen servicios de evaluación de la conformidad en materias para las que no cuenta con acreditación y aprobación de una Entidad de Acreditación o a la Autoridad Normalizadora, según corresponda, y
+
+IX. Emitan dictámenes de verificación, informes de resultados o certificados sin previa verificación conforme con lo establecido en las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales.
 El procedimiento de cancelación se sujetará a lo previsto en el Reglamento de esta Ley, con la participación que ahí se señale a cargo de las Autoridades Normalizadoras.
 La cancelación de la acreditación conllevará la prohibición de ejercer las actividades que se hubieren acreditado y de hacer cualquier alusión a la acreditación, así como la de utilizar cualquier tipo de información o símbolo referente a la misma. Asimismo, por lo que respecta a los Organismos de Evaluación de la Conformidad aprobados por las Autoridades Normalizadoras, la cancelación de la acreditación implicará automáticamente y sin necesidad de realizar acto adicional alguno, la revocación de la aprobación respectiva.
 
 ### Artículo 60
 . Las actividades de Evaluación de la Conformidad deberán ajustarse a las reglas, procedimientos y métodos que se establezcan en las Normas Oficiales Mexicanas y las Normas Internacionales. Las actividades deberán comprender lo siguiente, en los términos previstos en el Reglamento de esta Ley:
+
 I. La evaluación de los bienes, productos, procesos y servicios, o bien de la información de los símbolos, embalaje, marcado o etiquetado, o terminología de éstos y, en su caso, sus métodos de producción, mediante inspección ocular, muestreo, pruebas, certificación, investigación de campo o revisión y evaluación de los programas de calidad;
+
 II. En su caso, a través de una auto declaración de conformidad por parte de los sujetos obligados de acuerdo con el último párrafo del artículo 69 de esta Ley;
-III. En caso de ser aplicable, el seguimiento posterior a la Evaluación de la Conformidad inicial, para comprobar el cumplimiento con las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales y contar con mecanismos que permitan proteger y evitar la divulgación de propiedad industrial o intelectual de sus clientes, y IV. En caso de ser aplicable, la elaboración de propuestas, revisión y, en su caso, aprobación de criterios generales en materia de certificación de la Evaluación de la Conformidad, a través de comités técnicos de certificación integrados por los sectores interesados, o directamente por las Autoridades Normalizadoras competentes.
+
+III. En caso de ser aplicable, el seguimiento posterior a la Evaluación de la Conformidad inicial, para comprobar el cumplimiento con las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales y contar con mecanismos que permitan proteger y evitar la divulgación de propiedad industrial o intelectual de sus clientes, y
+
+IV. En caso de ser aplicable, la elaboración de propuestas, revisión y, en su caso, aprobación de criterios generales en materia de certificación de la Evaluación de la Conformidad, a través de comités técnicos de certificación integrados por los sectores interesados, o directamente por las Autoridades Normalizadoras competentes.
 Una vez aprobados tales criterios generales, deberán ponerse a disposición de cualquier interesado a través de la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
 
 ### Artículo 61
@@ -572,12 +846,20 @@ Procedimientos de Evaluación de la Conformidad
 
 ### Artículo 69
 . Conforme a lo dispuesto en el artículo 30 de la presente Ley, los Procedimientos de Evaluación de la Conformidad deberán, según resulte aplicable en proporción al nivel de riesgo o de protección necesarios, incluir como mínimo los siguientes elementos:
+
 I. La descripción de los requisitos y datos que deben cumplir los sujetos obligados o responsables del bien, producto, proceso o servicio o bien de la información de los símbolos, embalaje, marcado o etiquetado, o terminología de éstos y, en su caso, sus métodos de producción;
+
 II. En su caso, los esquemas de Evaluación de la Conformidad, incluyendo la forma en que se documentarán sus resultados;
+
 III. Las fases o etapas aplicables incluyendo su duración;
+
 IV. Las consideraciones técnicas y administrativas;
+
 V. El plazo de prevención y de respuesta del resultado de la Evaluación de la Conformidad así como su vigencia;
-VI. Los formatos relacionados con la Evaluación de la Conformidad que deban aplicarse, y VII. La mención de si la demostración del cumplimiento es obligatoria y quien puede llevar a cabo la evaluación de la conformidad.
+
+VI. Los formatos relacionados con la Evaluación de la Conformidad que deban aplicarse, y
+
+VII. La mención de si la demostración del cumplimiento es obligatoria y quien puede llevar a cabo la evaluación de la conformidad.
 Asimismo, esos procedimientos deberán contemplar el uso de tecnologías de la información para la Evaluación de la Conformidad, así como para la identificación de los bienes, productos, procesos y servicios o bien de la información de los símbolos, embalaje, marcado o etiquetado, o terminología de éstos y, en su caso, sus métodos de producción que cumplan con las Normas Oficiales Mexicanas aplicables. Para dichos efectos, las Autoridades Normalizadoras procurarán siempre incorporar los últimos avances tecnológicos disponibles considerando en base a un análisis costo beneficio, la opción menos costosa para el particular.
 Los Procedimientos de Evaluación de la Conformidad deben establecer la forma en que los Organismos de Evaluación de la Conformidad informarán a las Autoridades Normalizadoras sobre los resultados de la Evaluación de la Conformidad que lleven a cabo, en adición a las demás obligaciones de información previstas en esta Ley y en su Reglamento.
 El Reglamento de esta Ley podrá incluir elementos complementarios para el proceso de elaboración y modificación del Procedimiento de Evaluación de la Conformidad, en adición a lo previsto en el artículo 35 anterior.
@@ -609,10 +891,16 @@ Disposiciones Generales
 
 ### Artículo 73
 . El sistema de calidad e innovación forma parte del Sistema Nacional de Infraestructura de la Calidad; está integrado por los Organismos Nacionales de Estandarización y demás sujetos facultados para estandarizar, y se sustenta en el desarrollo y aplicación de los Estándares que, por regla general, son de aplicación voluntaria excepto cuando se actualice cualquiera de los siguientes supuestos:
+
 I. Se requiera su observancia obligatoria mediante referencia expresa en una Norma Oficial Mexicana para los fines determinados por la misma;
+
 II. Las autoridades de cualquier orden de gobierno establezcan como exigible un Estándar en las disposiciones administrativas que emitan, de acuerdo con su competencia y la normatividad aplicable;
+
 III. Las dependencias y entidades públicas de cualquier orden de gobierno hagan exigible un Estándar para los bienes o servicios que adquieran, liciten, arrienden o contraten;
-IV. Las personas manifiesten que sus bienes, productos, procesos y servicios son conformes con los Estándares, o V. Las leyes o reglamentos los establezcan como obligatorios.
+
+IV. Las personas manifiesten que sus bienes, productos, procesos y servicios son conformes con los Estándares, o
+
+V. Las leyes o reglamentos los establezcan como obligatorios.
 Los Estándares se deberán elaborar, adoptar y aplicar conforme a lo dispuesto en los tratados internacionales de los que el Estado Mexicano sea Parte y, en ningún caso, podrán contener especificaciones, características, valores, parámetros o requisitos menos estrictos a los establecidos en una Norma Oficial Mexicana.
 Para los supuestos previstos en las fracciones II y III de este artículo, dichas autoridades estarán obligadas a motivar la exigibilidad del Estándar para las disposiciones administrativas que emitan, así como para los bienes o servicios que adquieran, liciten, arrienden o contraten, con base en los principios previstos en esta Ley, así como debiendo actuar de manera imparcial.
 
@@ -621,12 +909,20 @@ Para los supuestos previstos en las fracciones II y III de este artículo, dicha
 
 ### Artículo 75
 . Los Estándares deben contener en lo conducente y sujeto a lo previsto en el Reglamento de esta Ley:
+
 I. Clave, título, objetivo y campo de aplicación del Estándar;
+
 II. En su caso, la referencia a otros Estándares, así como a Normas Internacionales para su implementación;
+
 III. Procedimiento de Evaluación de la Conformidad, cuando resulte procedente conforme a la naturaleza del bien, producto, proceso y servicio;
+
 IV. Identificar las Normas Internacionales aplicables en la materia y establecer el grado de concordancia de la propuesta con las mismas, señalando si es idéntica, modificada o no equivalente;
+
 V. La bibliografía que corresponda, incluyendo, entre otros, los Estándares, las Normas Internacionales y los Reglamentos Técnicos que, en su caso, se tomaron como referencia para la elaboración de la propuesta de Estándar;
-VI. Clasificación de acuerdo con lo previsto en el artículo 74 anterior y en la clasificación internacional de estándares, y VII. Fecha de inicio de aplicación.
+
+VI. Clasificación de acuerdo con lo previsto en el artículo 74 anterior y en la clasificación internacional de estándares, y
+
+VII. Fecha de inicio de aplicación.
 
 ### Artículo 76
 . En términos de lo previsto en el Reglamento de esta Ley y el artículo 29 anterior, los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar y, en su caso, las Autoridades Normalizadoras deberán presentar los temas de estandarización ante el Secretariado Ejecutivo de la Comisión, quien los someterá a la Comisión para su revisión, análisis e inclusión en el Programa del año de que se trate.
@@ -646,15 +942,25 @@ Procedimiento de Elaboración de los Estándares
 
 ### Artículo 80
 . Para la elaboración de los Estándares se seguirá el siguiente procedimiento, mismo que se detallará en el Reglamento de esta Ley:
+
 I. Elaboración de la propuesta de Estándar por los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar o, por excepción, por las Autoridades Normalizadoras;
+
 II. Presentación de la propuesta de Estándar al comité técnico de estandarización correspondiente para su análisis, revisión y deliberación, en cuyo momento, se considerará como un anteproyecto de Estándar;
+
 III. En caso de que el comité técnico de estandarización correspondiente lo considere conveniente, constitución del grupo de trabajo para el análisis y revisión del anteproyecto de Estándar;
+
 IV. En su caso, presentación de los resultados del análisis y revisión del anteproyecto de Estándar por parte del grupo de trabajo ante el comité técnico de estandarización, para su deliberación;
+
 V. En caso de que el resultado de la deliberación del comité técnico de estandarización sea afirmativo, quien haya elaborado la propuesta de Estándar lo enviará a la Secretaría para la publicación de un extracto del proyecto en la Plataforma Tecnológica Integral de Infraestructura de la Calidad, para su consulta pública.
 Cuando la elaboración de la propuesta del Estándar la haya realizado una Autoridad Normalizadora se publicará el proyecto completo en la Plataforma Tecnológica Integral de Infraestructura de la Calidad;
+
 VI. Recepción, análisis, revisión y resolución de los comentarios recibidos en consulta pública por el comité técnico de estandarización o el grupo de trabajo correspondiente;
+
 VII. Las personas cuyos comentarios al proyecto de Estándar sean recibidos en los términos de lo dispuesto en el Reglamento de la Ley, pero no sean incluidos dentro del proyecto de Estándar, serán invitadas a participar en el comité encargado de la elaboración del Estándar con anterioridad a la publicación de su extracto en forma definitiva, con el fin de conocer las razones por las cuales no fueron incluidos sus comentarios y, en su caso, aportar elementos adicionales que permitan su inclusión;
-VIII. Deliberación por parte del comité técnico de estandarización respectivo de la resolución de los comentarios recibidos al proyecto de Estándar, y IX. En caso de que la última deliberación del comité técnico de estandarización haya sido afirmativa, quien haya elaborado la propuesta de Estándar emitirá el nuevo Estándar y solicitará a la Secretaría la publicación del extracto en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
+
+VIII. Deliberación por parte del comité técnico de estandarización respectivo de la resolución de los comentarios recibidos al proyecto de Estándar, y
+
+IX. En caso de que la última deliberación del comité técnico de estandarización haya sido afirmativa, quien haya elaborado la propuesta de Estándar emitirá el nuevo Estándar y solicitará a la Secretaría la publicación del extracto en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
 
 ### Artículo 81
 . Los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar o, en caso de ser aplicable, las Autoridades Normalizadoras deberán bajo reglas de apertura e inclusión conformar comités técnicos de estandarización permanentes, colegiados y multisectoriales que serán los encargados de la elaboración de los Estándares, de su difusión, así como de la promoción de su cumplimiento.
@@ -709,12 +1015,20 @@ De las Personas Morales con Interés
 
 ### Artículo 92
 . Las cámaras, instituciones académicas y de investigación, colegios y asociaciones, así como cualquier otra persona moral, siempre que acredite su interés ante la Secretaría podrá ser autorizada como sujeto facultado para estandarizar en la materia particular de que se trate, conforme a lo previsto en el artículo 78 de esta Ley. Para esos efectos, el interesado deberá cumplir con los siguientes requisitos:
+
 I. Presentar la solicitud ante la Secretaría, con copia a la Autoridad Normalizadora competente en la materia, rama o sector económico que pretende estandarizar para su opinión;
+
 II. Identificar la materia sobre la cual pretende llevar a cabo labores de estandarización, así como la rama o sector económico al que pertenece;
+
 III. Que su objeto social y actividades concuerden con la materia a estandarizar;
+
 IV. Demostrar que cuenta con capacidad jurídica, técnica, administrativa y financiera para desarrollar Estándares;
+
 V. Una declaración de que revisará y usará como base las Normas Internacionales en la materia;
-VI. Presentar la metodología que seguirá para la elaboración de los Estándares, incluyendo la integración, organización y funcionamiento del comité técnico de estandarización correspondiente. Cualquier cambio sustancial en esa metodología deberá ser presentado para su aprobación por parte de la Secretaría, y VII. Las demás previstas en el Reglamento de esta Ley.
+
+VI. Presentar la metodología que seguirá para la elaboración de los Estándares, incluyendo la integración, organización y funcionamiento del comité técnico de estandarización correspondiente. Cualquier cambio sustancial en esa metodología deberá ser presentado para su aprobación por parte de la Secretaría, y
+
+VII. Las demás previstas en el Reglamento de esta Ley.
 Las cámaras, instituciones académicas y de investigación, colegios y asociaciones, así como cualquier otra persona moral que hayan obtenido la autorización de la Secretaría como sujetos facultados para estandarizar podrán realizar labores de estandarización, en el entendido que esa autorización estará limitada a la materia, rama o sector económico específico de que se trate.
 La Secretaría deberá emitir anualmente los lineamientos para evitar la duplicidad en las labores de estandarización y publicará las autorizaciones que otorgue a los sujetos facultados para estandarizar en el Diario Oficial de la Federación y en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
 
@@ -723,12 +1037,20 @@ Organismos Nacionales de Estandarización
 
 ### Artículo 93
 . Los Organismos Nacionales de Estandarización son personas morales registradas ante la Secretaría, cuyo objetivo principal es la elaboración, modificación y cancelación de Estándares. Para obtener el registro como Organismo Nacional de Estandarización por parte de la Secretaría se requiere lo siguiente, de acuerdo con lo previsto en el Reglamento de esta Ley:
+
 I. Presentar la solicitud ante la Secretaría; con copia a la Autoridad Normalizadora competente en la materia, rama o sector económico que pretende estandarizar para su opinión;
+
 II. Tener cobertura nacional e Identificar la materia, rama o sector económico sobre la cual pretende llevar a cabo labores de estandarización;
+
 III. Acreditar tener como objeto social la actividad de estandarizar y la capacidad técnica en la materia, administrativa, financiera y humana, incluyendo para participar en las actividades de estandarización internacional;
+
 IV. Detallar su estructura organizacional;
+
 V. Detallar la metodología que utilizará para llevar a cabo labores de estandarización. Cualquier cambio sustancial en esa metodología deberá ser presentado para su aprobación por parte de la Secretaría;
-VI. Adoptar y cumplir el Código de Buena Conducta para la elaboración, adopción y aplicación de normas, del Acuerdo sobre Obstáculos Técnicos al Comercio de la Organización Mundial del Comercio; y VII. Las demás previstas en el Reglamento de esta Ley.
+
+VI. Adoptar y cumplir el Código de Buena Conducta para la elaboración, adopción y aplicación de normas, del Acuerdo sobre Obstáculos Técnicos al Comercio de la Organización Mundial del Comercio; y
+
+VII. Las demás previstas en el Reglamento de esta Ley.
 Las personas morales que hayan obtenido el registro de la Secretaría como Organismos Nacionales de Estandarización podrán realizar labores de estandarización, en el entendido que ese registro estará limitado a la materia, ramas y sectores económicos sobre los que se haya otorgado.
 La Secretaría deberá emitir anualmente los lineamientos para evitar la duplicidad en las labores de estandarización y publicará los registros otorgados a los Organismos Nacionales de Estandarización en el Diario Oficial de la Federación y en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
 
@@ -754,10 +1076,16 @@ Del Sistema General de Unidades de Medida
 ### Artículo 97
 . En los Estados Unidos Mexicanos el Sistema General de Unidades de Medida, es el único oficial y de uso obligatorio. Las unidades del Sistema General de Unidades de Medida, así como su simbología y sus reglas de escritura se consignarán en las Normas Oficiales Mexicanas que se expidan para tal efecto y en los Estándares ahí referidos, mismas que serán elaboradas, expedidas y actualizadas por la Secretaría en coordinación con el Centro Nacional de Metrología.
 El uso de unidades diferentes a las que forman parte del Sistema General de Unidades de Medidas no está permitido para las transacciones comerciales, prestación de servicios, documentación y anuncios de productos y servicios, publicaciones o capacitación, con las siguientes excepciones:
+
 I. Documentación y referencias a bienes y servicios realizados antes de la actualización de alguna de las unidades;
+
 II. Cuando se haga mención a unidades no incluidas en el Sistema General de Unidades de Medidas como parte de una perspectiva histórica;
+
 III. Documentos y publicaciones destinados a usuarios en países que tienen diferentes sistemas de unidades;
-IV. Cuando se trate de convenios, acuerdos o tratados internacionales que prescriban el uso de esas unidades de medida específicas, y V. Cuando la Secretaría autorice el empleo de unidades de medida de otros sistemas. En tales casos deberán expresarse, conjuntamente con las unidades de otros sistemas, su equivalencia con las del Sistema General de Unidades de Medida, salvo que la propia Secretaría exima de esta obligación de acuerdo con lo previsto en el Reglamento de esta Ley.
+
+IV. Cuando se trate de convenios, acuerdos o tratados internacionales que prescriban el uso de esas unidades de medida específicas, y
+
+V. Cuando la Secretaría autorice el empleo de unidades de medida de otros sistemas. En tales casos deberán expresarse, conjuntamente con las unidades de otros sistemas, su equivalencia con las del Sistema General de Unidades de Medida, salvo que la propia Secretaría exima de esta obligación de acuerdo con lo previsto en el Reglamento de esta Ley.
 
 ### Artículo 98
 . La Secretaría, en su caso, coadyuvada por el Centro Nacional de Metrología, verificará el uso del Sistema General de Unidades de Medida en los ámbitos público y privado.
@@ -770,8 +1098,12 @@ De la Trazabilidad de las Medidas
 
 ### Artículo 100
 . Para el establecimiento de patrones nacionales de medida, el Centro Nacional de Metrología o los Institutos Designados de Metrología deberán:
+
 I. Solicitar al Secretariado Ejecutivo de la Comisión la inscripción de los proyectos de establecimiento de patrones nacionales de medida en el Programa. Solo podrán establecerse nuevos patrones nacionales de medida cuyos proyectos estén incluidos en el Programa del año de que se trate;
-II. El Centro Nacional de Metrología llevará a cabo una evaluación técnica de las características metrológicas del proyecto de patrón nacional de medida, para lo cual podrá solicitar la opinión técnica de otros integrantes del sistema de metrología, y III. Con base en esa evaluación técnica, el Centro Nacional de Metrología con el conocimiento de la Secretaría, autorizará el establecimiento del patrón nacional de medida de que se trate, debiendo solicitar su publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
+
+II. El Centro Nacional de Metrología llevará a cabo una evaluación técnica de las características metrológicas del proyecto de patrón nacional de medida, para lo cual podrá solicitar la opinión técnica de otros integrantes del sistema de metrología, y
+
+III. Con base en esa evaluación técnica, el Centro Nacional de Metrología con el conocimiento de la Secretaría, autorizará el establecimiento del patrón nacional de medida de que se trate, debiendo solicitar su publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
 
 ### Artículo 101
 . En caso de no existir patrón nacional de medida en alguna magnitud de interés para el país, el Centro Nacional de Metrología o los Institutos Designados de Metrología podrán autorizar la trazabilidad de las medidas a patrones internacionales o extranjeros de medida, de acuerdo con lo previsto en el Reglamento de esta Ley. Esas autorizaciones deberán publicarse en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
@@ -793,17 +1125,30 @@ Del Centro Nacional de Metrología
 
 ### Artículo 105
 . Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, el Centro Nacional de Metrología tendrá las siguientes atribuciones:
+
 I. Fungir como Instituto Nacional de Metrología y coordinador, en conjunto con la Secretaría, del sistema de metrología;
+
 II. Desarrollar, establecer, conservar los patrones nacionales de medida y los materiales de referencia certificados y diseminar sus valores con el objetivo de ser el origen de la trazabilidad de las mediciones que se realicen en el país, a reserva de que el patrón nacional de medida o material de referencia certificado pueda ser establecido por algún Instituto Designado de Metrología de acuerdo con su competencia en la materia;
+
 III. Autorizar los patrones nacionales de medida y materiales de referencia certificados, con el conocimiento de la Secretaría, que establezcan y desarrollen los Institutos Designados de Metrología;
+
 IV. Llevar a cabo actividades de investigación científica, de desarrollo tecnológico e innovación, así como de transferencia de tecnología y divulgación, para fortalecer y avanzar el conocimiento en la metrología, con el propósito de asegurar, mejorar la exactitud y la confiabilidad de las mediciones que se realizan en el país en actividades comerciales, de servicios, productivas, científicas y tecnológicas;
+
 V. Con la autorización de la Secretaría, otorgar el carácter de Instituto Designado de Metrología de acuerdo con lo previsto en esta Ley y en su Reglamento;
+
 VI. Opinar sobre la inclusión de entidades públicas o privadas como participantes en el sistema de metrología, a solicitud de la Secretaría, de acuerdo con lo previsto en esta Ley y en su Reglamento;
+
 VII. Proporcionar servicios de medición y de calibración de patrones de medida e instrumentos para medir; certificar y proveer materiales de referencia y emitir los certificados correspondientes; prestar servicios de asesoría y realizar proyectos de desarrollo tecnológico para los sectores usuarios;
+
 VIII. Realizar peritajes de tercería, a solicitud de parte; así como efectuar mediciones o pruebas en los procesos de Evaluación de la Conformidad, a solicitud de la Secretaría, de las demás Autoridades Normalizadoras, o de los Organismos de Evaluación de la Conformidad;
+
 IX. Participar en la elaboración de Normas Oficiales Mexicanas y Estándares, entre otros, y realizar estudios de viabilidad técnica sobre metrología legal en las cuales se establezca el control legal de instrumentos para medir y que deben ser considerados en el Procedimiento de Evaluación de la Conformidad;
+
 X. En términos de las Normas Oficiales Mexicanas, aprobar los modelos de instrumentos para medir sujetos a control legal;
-XI. Colaborar con instituciones educativas, de investigación y desarrollo tecnológico en el desarrollo de la metrología mediante convenios o mecanismos administrativos de colaboración a nivel nacional o internacional, y XII. Las demás necesarias para el desarrollo de sus actividades que se establezcan en las leyes y reglamentos aplicables.
+
+XI. Colaborar con instituciones educativas, de investigación y desarrollo tecnológico en el desarrollo de la metrología mediante convenios o mecanismos administrativos de colaboración a nivel nacional o internacional, y
+
+XII. Las demás necesarias para el desarrollo de sus actividades que se establezcan en las leyes y reglamentos aplicables.
 
 ### Artículo 106
 . El Centro Nacional de Metrología estará integrado por un Consejo Directivo, un Director General y el personal de confianza y operativo que se requiera.
@@ -815,13 +1160,22 @@ El Consejo Directivo del Centro Nacional de Metrología será presidido por la p
 
 ### Artículo 108
 . El Consejo Directivo tendrá las siguientes atribuciones:
+
 I. Elaborar su estatuto orgánico, así como su manual de operación, que deberán ser publicados en el Diario Oficial de la Federación y en la Plataforma Tecnológica Integral de Infraestructura de la Calidad;
+
 II. Estudiar y, en su caso, aprobar el programa operativo anual;
+
 III. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General;
+
 IV. Aprobar y vigilar el ejercicio del presupuesto del Centro Nacional de Metrología;
+
 V. Autorizar la creación de comités técnicos y de apoyo;
+
 VI. Aprobar la realización de otras actividades tendientes al logro de las finalidades del Centro Nacional de Metrología;
-VII. Resolver los asuntos del Centro Nacional de Metrología que no estén previstos en su estatuto orgánico, y VIII. Las demás que le señalen las leyes, reglamentos y disposiciones legales aplicables.
+
+VII. Resolver los asuntos del Centro Nacional de Metrología que no estén previstos en su estatuto orgánico, y
+
+VIII. Las demás que le señalen las leyes, reglamentos y disposiciones legales aplicables.
 
 ### Artículo 109
 . El Director General del Centro Nacional de Metrología será designado directamente por el Presidente de la República y estará en funciones por un periodo de seis años. No obstante, el Director General podrá ser removido de su encargo por el Presidente de la República, en cualquier caso.
@@ -829,25 +1183,42 @@ Los servidores públicos de las jerarquías inmediatas inferiores al Director Ge
 
 ### Artículo 110
 . El Director General del Centro Nacional de Metrología tendrá las siguientes facultades y obligaciones:
+
 I. Representar al organismo ante otras instituciones públicas o privadas nacionales o extranjeras;
+
 II. Elaborar el programa operativo anual y someterlo a consideración del Consejo Directivo; así como procurar su ejecución;
+
 III. Establecer y mantener relaciones con otras instituciones públicas o privadas nacionales o extranjeras y con los organismos de metrología internacionales y de otros países;
+
 IV. Constituir y coordinar o delegar la coordinación de grupos de trabajo especializados en metrología;
+
 V. Formular el proyecto de presupuesto anual del organismo, someterlo a consideración del Consejo Directivo y vigilar su ejercicio;
+
 VI. Rendir los informes periódicos al Consejo Directivo relativos a las actividades realizadas, al presupuesto ejercido y en las demás materias que deba conocer el Consejo Directivo;
-VII. Ejecutar los acuerdos del Consejo Directivo y, en general, realizar las actividades para el debido cumplimiento de las funciones del Centro Nacional de Metrología y de los programas aprobados para este fin, y VIII. Las demás necesarias para el desarrollo de sus actividades o que se establezcan el estatuto orgánico.
+
+VII. Ejecutar los acuerdos del Consejo Directivo y, en general, realizar las actividades para el debido cumplimiento de las funciones del Centro Nacional de Metrología y de los programas aprobados para este fin, y
+
+VIII. Las demás necesarias para el desarrollo de sus actividades o que se establezcan el estatuto orgánico.
 
 ### Artículo 111
 . El personal del Centro Nacional de Metrología estará incorporado al régimen de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado y sus relaciones con el Centro Nacional de Metrología se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.
 
 ### Artículo 112
 . El patrimonio del Centro Nacional de Metrología se integrará con:
+
 I. Los bienes que le aporte el Gobierno Federal;
+
 II. Los recursos que anualmente le asigne el Gobierno Federal dentro del presupuesto aprobado a la Secretaría;
+
 III. Los ingresos que perciba por los servicios que proporcione y los que resulten del aprovechamiento de sus bienes;
+
 IV. Los recursos aportados por organismos nacionales o extranjeros, públicos o privados, para el desarrollo de proyectos de investigación científica y desarrollo tecnológico, previa información y aprobación de su Consejo Directivo;
+
 V. Los donativos, aportaciones, legados en dinero y/o especie, previa información y aprobación de su Consejo Directivo;
-VI. Otros bienes que reciba por actos jurídicos o análogos, y VII. Los demás bienes y derechos que adquiera para la realización de sus fines.
+
+VI. Otros bienes que reciba por actos jurídicos o análogos, y
+
+VII. Los demás bienes y derechos que adquiera para la realización de sus fines.
 
 ## Capítulo V
 De los Institutos Designados de Metrología
@@ -861,14 +1232,24 @@ El Centro Nacional de Metrología deberá informar a las instancias internaciona
 
 ### Artículo 115
 . Los entes públicos que sean reconocidos como Institutos Designados de Metrología, además de lo previsto por el Centro Nacional de Metrología en el acto de designación y lo contemplado en esta Ley y en su Reglamento, deberán:
+
 I. Dar cumplimiento a las acciones establecidas en los acuerdos, convenios y tratados internacionales dentro del alcance de su designación;
+
 II. Cumplir con las obligaciones establecidas en las leyes o reglamentos y sujetarse a las demás disposiciones jurídicas que resulten necesarias para el cumplimiento de sus actividades;
+
 III. Cumplir con los convenios y/o contratos derivados de los que sean parte;
+
 IV. Establecer y desarrollar los patrones nacionales de medida y materiales de referencia certificados que estén en su ámbito de competencia y que sean el origen de la trazabilidad de las mediciones en el país;
+
 V. Representar al país ante los organismos internacionales, en materia de metrología científica y legal, en el ámbito de sus competencias;
+
 VI. Prestar servicios metrológicos con trazabilidad a los patrones nacionales de medida, incluyendo la certificación de los materiales de referencia aplicables;
+
 VII. Realizar actividades de investigación en metrología y en materias afines, colaborar con otras organizaciones nacionales e internacionales de investigación científica y el desarrollo tecnológico en las materias de metrología de su incumbencia;
-VIII. Atender las solicitudes, observaciones y recomendaciones que realice la Comisión o el Centro Nacional de Metrología, y IX. Coordinarse con el Centro Nacional de Metrología en el desarrollo de aquellas actividades donde se requiera su participación.
+
+VIII. Atender las solicitudes, observaciones y recomendaciones que realice la Comisión o el Centro Nacional de Metrología, y
+
+IX. Coordinarse con el Centro Nacional de Metrología en el desarrollo de aquellas actividades donde se requiera su participación.
 TÍTULO SEGUNDO METROLOGÍA LEGAL
 
 ## Capítulo I
@@ -907,10 +1288,16 @@ De la Aprobación de Modelo de los Instrumentos para Medir
 
 ### Artículo 124
 . Los instrumentos para medir que están sujetos a control metrológico legal, tanto de fabricación nacional o de importación, requieren la aprobación de modelo por parte del Centro Nacional de Metrología o de los Institutos Designados de Metrología que correspondan, previo a su comercialización, cuando sirvan de base o se utilicen para:
+
 I. Una transacción comercial o para determinar el precio de un servicio;
+
 II. El pago de servicios públicos;
+
 III. La remuneración o estimación, en cualquier forma, de labores personales;
-IV. Actos de naturaleza pericial, judicial o administrativa, o V. Se trate de actividades que puedan afectar los objetivos legítimos de interés público tutelados por las Normas Oficiales Mexicanas de metrología legal.
+
+IV. Actos de naturaleza pericial, judicial o administrativa, o
+
+V. Se trate de actividades que puedan afectar los objetivos legítimos de interés público tutelados por las Normas Oficiales Mexicanas de metrología legal.
 Lo previsto en el párrafo anterior también será aplicable a los instrumentos para medir sujetos a control metrológico legal, tanto de fabricación nacional o de importación, que cuenten con programas informáticos o software legalmente relevante y que se utilicen en las actividades de medición establecidas en las Normas Oficiales Mexicanas de metrología legal y los Estándares ahí referidos. La aprobación de modelo de los instrumentos para medir sujetos a control metrológico legal se sujetará a lo previsto en el Reglamento de esta Ley.
 El Centro Nacional de Metrología o los Institutos Designados de Metrología que correspondan podrán revocar la aprobación del modelo o prototipo cuando existan causas justificadas para ello.
 
@@ -940,18 +1327,32 @@ LIBRO CUARTO DISPOSICIONES FINALES TÍTULO PRIMERO DE LA PLATAFORMA TECNOLÓGICA
 . Para hacer más eficiente la gestión pública, facilitar el cumplimiento de obligaciones por parte de los particulares y disminuir los costos de transacción, corresponde a la Secretaría, establecer y operar la Plataforma Tecnológica Integral de Infraestructura de la Calidad en los términos previstos en esta Ley y en su Reglamento.
 La Plataforma Tecnológica Integral de Infraestructura de la Calidad servirá como el principal medio de difusión y consulta de las Normas Oficiales Mexicanas, los Estándares y patrones nacionales de medidas.
 Con el propósito de promover, fomentar y difundir la cultura de la transparencia en la realización de las actividades de normalización, estandarización, Evaluación de la Conformidad y metrología, en términos de lo previsto en esta Ley y su Reglamento, en la Plataforma se publicarán:
+
 I. Las Normas Oficiales Mexicanas, así como el catálogo de Normas Oficiales Mexicanas;
+
 II. Un extracto de los Estándares emitidos por los sujetos facultados para estandarizar o por los Organismos Nacionales de Estandarización;
+
 III. Los Estándares emitidos por las Autoridades Normalizadoras;
+
 IV. El Programa y su suplemento;
+
 V. La lista de instrumentos para medir que cuenten con la aprobación del modelo o prototipo;
+
 VI. Las Entidades de Acreditación y Organismos de Evaluación de la Conformidad;
+
 VII. La relación de los sujetos facultados para estandarizar y de los Organismos Nacionales de Estandarización;
+
 VIII. Los Institutos Designados de Metrología;
+
 IX. Las entidades públicas y privadas nacionales o internacionales que formen parte del sistema de metrología, así como los Patrones Nacionales de Medición, los Materiales de Referencia Certificados y las Capacidades de Medición y Calibración reconocidas al Centro Nacional de Metrología por instancias internacionales en la materia;
+
 X. Listado de normas internacionales conforme a lo previsto en la fracción XV del artículo 4 de la presente Ley;
+
 XI. Los acuerdos de reconocimiento mutuo y acuerdos de equivalencia;
-XII. Los Comités Consultivos Nacionales de Normalización, Comités Mexicanos, así como de los comités técnicos en materia de estandarización, y XIII. Aquellos que se establezcan en el Reglamento de esta Ley.
+
+XII. Los Comités Consultivos Nacionales de Normalización, Comités Mexicanos, así como de los comités técnicos en materia de estandarización, y
+
+XIII. Aquellos que se establezcan en el Reglamento de esta Ley.
 
 ### Artículo 132
 . La Secretaría podrá coordinarse, a través de convenios de colaboración u otros medios previstos en el Reglamento, con otras Autoridades Normalizadoras, el Centro Nacional de Metrología, los Institutos Designados de Metrología y demás participantes del Sistema Nacional de Infraestructura de la Calidad, para interoperar entre los sistemas de éstos y la Plataforma Tecnológica Integral de Infraestructura de la Calidad, buscando hacer más eficiente su funcionamiento.
@@ -981,11 +1382,18 @@ TÍTULO TERCERO DE LA VIGILANCIA DEL MERCADO, LA VERIFICACIÓN Y VIGILANCIA
 
 ### Artículo 139
 . Las Autoridades Normalizadoras y demás autoridades competentes llevarán a cabo la vigilancia permanente del mercado en los términos previstos en esta Ley, en su Reglamento y en las demás disposiciones legales aplicables, y cumpliendo los objetivos y los principios que persigue esta Ley a través de:
+
 I. Los actos de Verificación de los bienes, productos, procesos y servicios;
+
 II. Los actos de Vigilancia;
+
 III. La supervisión de la auto declaración de conformidad por parte de los sujetos obligados por las Normas Oficiales Mexicanas y, en su caso, los Estándares;
+
 IV. La revisión sistemática de las Normas Oficiales Mexicanas y los Estándares;
-V. La protección a los derechos de los consumidores, y VI. La adecuada coordinación entre las distintas autoridades competentes, para el adecuado funcionamiento y desarrollo del Sistema Nacional de Infraestructura de la Calidad.
+
+V. La protección a los derechos de los consumidores, y
+
+VI. La adecuada coordinación entre las distintas autoridades competentes, para el adecuado funcionamiento y desarrollo del Sistema Nacional de Infraestructura de la Calidad.
 
 ### Artículo 140
 . Los sujetos obligados bajo las Normas Oficiales Mexicanas y los Estándares que sean obligatorios en términos de esta Ley, en todo momento, deberán cumplir con lo ahí previsto y serán los únicos responsables por su incumplimiento.
@@ -1004,15 +1412,25 @@ En los actos de Verificación las autoridades competentes deberán considerar lo
 
 ### Artículo 143
 . De cada acto de Verificación o Vigilancia, según corresponda, se levantará un acta detallada sea cual fuere el resultado, la cual será firmada por el representante de la autoridad y por la persona a quien se practicó esta diligencia; la falta de firma de ésta no afectará su validez. En las actas se hará constar:
+
 I. Nombre, denominación o razón social de la persona a quien se practicó el acto de Verificación o Vigilancia;
+
 II. Hora, día, mes y año en que inicie y en que concluya la diligencia;
+
 III. Calle, número, población o colonia, municipio o alcaldía, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique el acto de Verificación o Vigilancia;
+
 IV. Número y fecha del oficio de la autoridad que motivó la Verificación o Vigilancia;
+
 V. Nombre y cargo de la persona con quien se entendió la diligencia;
+
 VI. En su caso, nombre y domicilio de las personas que fungieron como testigos;
+
 VII. Datos relativos a la actuación, incluyendo: el método o procedimiento empleado; el resultado de la Verificación o Vigilancia y los demás que la autoridad considere relevantes agregar.
 Por lo que respecta a los actos de Verificación, también deberá incluirse como dato relativo a la actuación, cuando resulte aplicable: si el sobre, envase o empaque que contenía las muestras presenta o no huellas de haber sido violado o, en su caso, si el producto individualizado no fue sustituido; y la cantidad de muestras en que se efectuó la Verificación;
-VIII. Declaración y, en su caso, manifestaciones de la persona a quien se efectúe la Verificación o Vigilancia, si se encuentra presente y quisiera hacerla, y IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo los datos e identificación de quien la llevó a cabo.
+
+VIII. Declaración y, en su caso, manifestaciones de la persona a quien se efectúe la Verificación o Vigilancia, si se encuentra presente y quisiera hacerla, y
+
+IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo los datos e identificación de quien la llevó a cabo.
 
 ### Artículo 144
 . Si del resultado del primer acto de Verificación, se desprende que el bien, producto, proceso o servicio no cumple con las Normas Oficiales Mexicanas o Estándares que resulten obligatorios, a petición del interesado, la autoridad competente podrá autorizar que se efectúe otro acto de Verificación. Si en ese segundo acto de Verificación se demuestra que el bien, producto, proceso o servicio cumple con la Norma Oficial Mexicana o Estándar obligatorio aplicable, se tendrá por desvirtuado el primer resultado, si no las cumple, se tendrá por confirmado.
@@ -1026,26 +1444,38 @@ Las personas a quien se efectúe la Verificación o Vigilancia podrán formular 
 
 ### Artículo 146
 . Si durante el acto de Verificación es necesario la recolección de muestras, se estará a lo siguiente:
+
 I. Las muestras podrán recabarse en los establecimientos en los que se elabore un bien o una parte del mismo, o se realice un proceso o una parte del mismo;
+
 II. Las muestras se recabarán en la cantidad estrictamente necesaria;
+
 III. Las muestras se seleccionarán al azar y precisamente por las personas autorizadas por la autoridad competente;
+
 IV. A fin de impedir su sustitución, las muestras se guardarán o asegurarán, en forma tal que no sea posible su violación sin dejar huella;
+
 V. En todo caso se otorgará, respecto a las muestras recabadas, el recibo correspondiente;
+
 VI. Las muestras se recabarán por duplicado, quedando un tanto de ellas en resguardo de la persona a quien se efectúe la Verificación y sobre el otro tanto se realizará una primera Verificación. Si de esa primera Verificación se desprende que no existe contravención alguna, quedará sin efecto la Verificación y la muestra quedará a disposición de quien se haya obtenido.
-No obstante, si de esa primera Verificación se aprecia incumplimiento a la Norma Oficial Mexicana o Estándar obligatorio, se repetirá la Verificación si así se solicita, sobre otro tanto de la muestra. Si del resultado de esa segunda Verificación se confirma el incumplimiento, se tendrá por confirmado el primer resultado; y VII. Al notificarse el resultado de la Verificación, las muestras quedarán a disposición de la persona de quien se recabaron o, en su caso, el material sobrante, lo que se hará saber a dicha persona para que lo recoja dentro de los tres días siguientes si se trata de artículos perecederos o de fácil descomposición. Los fabricantes, productores e importadores tendrán la obligación de reponer a los distribuidores o comerciantes las muestras recogidas de ellos que resultasen destruidas.
+No obstante, si de esa primera Verificación se aprecia incumplimiento a la Norma Oficial Mexicana o Estándar obligatorio, se repetirá la Verificación si así se solicita, sobre otro tanto de la muestra. Si del resultado de esa segunda Verificación se confirma el incumplimiento, se tendrá por confirmado el primer resultado; y
+
+VII. Al notificarse el resultado de la Verificación, las muestras quedarán a disposición de la persona de quien se recabaron o, en su caso, el material sobrante, lo que se hará saber a dicha persona para que lo recoja dentro de los tres días siguientes si se trata de artículos perecederos o de fácil descomposición. Los fabricantes, productores e importadores tendrán la obligación de reponer a los distribuidores o comerciantes las muestras recogidas de ellos que resultasen destruidas.
 Cuando se trate de productos no perecederos, si en el lapso de un mes contado a partir de la fecha de notificación del resultado de la Verificación, no son recogidas las muestras o el material sobrante, se les dará el destino que estime conveniente quien las haya recabado.
 En tanto se realiza la Verificación respectiva del lote de donde se obtuvieron las muestras, éste solo podrá comercializarse bajo la estricta responsabilidad del propietario del mismo. En los casos en que exista razón fundada para suponer que la comercialización del producto afecta los objetivos legítimos de interés público tutelados por la Norma Oficial Mexicana, el lote de donde se obtuvieron las muestras no podrá comercializarse, en su caso, hasta que concluya el acto de Verificación sin que se haya detectado un incumplimiento o deficiencia.
 
 ### Artículo 147
 . Si del acto de Verificación se desprende determinada deficiencia, se procederá de la siguiente manera:
+
 I. Si se trata de incumplimiento de especificaciones fijadas en Normas Oficiales Mexicanas o Estándares obligatorios, la autoridad competente prohibirá de inmediato su comercialización, inmovilizando los bienes, hasta en tanto se acondicionen, reprocesen, reparen o sustituyan. Si por la naturaleza del bien no es posible, se tomarán las providencias necesarias para que no se usen o presten para el fin a que se destinarían de cumplir dichas especificaciones.
 Adicionalmente, si el bien se encuentra en el comercio, los comerciantes o prestadores de servicios tendrán la obligación de abstenerse de su enajenación o prestación a partir de la fecha en que se les notifique la resolución, se publique en el Diario Oficial de la Federación, en la Plataforma Tecnológica Integral de Infraestructura de la Calidad o en cualquier otro medio masivo de comunicación.
 Cuando el incumplimiento pueda afectar los objetivos legítimos de interés público tutelados por la Norma Oficial Mexicana, los comerciantes o prestadores se abstendrán de enajenar los bienes desde el momento en que se haga de su conocimiento. Los medios de comunicación masiva deberán difundir tales hechos de manera inmediata a solicitud de la autoridad competente.
 En el caso previsto en esta fracción, los productores, fabricantes, importadores y sus distribuidores serán responsables de recuperar de inmediato los bienes.
 Con independencia de las demás responsabilidades civiles aplicables, quienes resulten responsables de los incumplimientos a que hace referencia esta fracción, tendrán la obligación de reponer a los comerciantes los bienes cuya venta o prestación se prohíba, por otros que cumplan las especificaciones correspondientes o, en su caso, reintegrarles o bonificarles su valor, así como cubrir los gastos en que se incurra para el tratamiento, reciclaje o disposición final, conforme a los ordenamientos legales aplicables y las recomendaciones de expertos reconocidos en la materia de que se trate.
 El retraso en el cumplimiento de lo establecido en este párrafo podrá sancionarse con multas por cada día que transcurra, de conformidad con lo previsto en el artículo 155 de esta Ley.
+
 II. Si se trata de deficiencia en la información sobre el contenido neto o la masa drenada de los bienes empacados o envasados, la autoridad competente podrá prohibir su venta hasta que se remarque la información del contenido neto o la masa drenada en caracteres legibles o se complete éste.
+
 III. Si los materiales, elementos, substancias o ingredientes que constituyan o integren el bien no corresponden a la indicación que ostenten o el porcentaje de ellos sea inexacto en perjuicio del consumidor, se prohibirá la venta de todo el lote o, en su caso, de toda la producción similar, hasta en tanto se corrijan dichas indicaciones. En caso de no ser esto posible, se permitirá su venta al precio correspondiente a su verdadera composición, siempre y cuando ello no implique afectaciones a los objetivos legítimos de interés público tutelados por la Norma Oficial Mexicana.
+
 IV. Si se trata de incumplimientos en la realización de un proceso o la prestación de un servicio, se suspenderá su realización o prestación hasta en tanto se cumplan con las especificaciones correspondientes.
 Las resoluciones que se dicten con fundamento en este artículo serán sin perjuicio de las sanciones que procedan en términos de las disposiciones legales aplicables.
 
@@ -1057,7 +1487,10 @@ Las resoluciones que se dicten con fundamento en este artículo serán sin perju
 
 ### Artículo 150
 . Si del acto de Vigilancia se identifica alguna violación a lo previsto en esta Ley por las Entidades de Acreditación o los Organismos de Evaluación de la Conformidad, las autoridades competentes podrán, sujeto a lo señalado en los artículos 160 y 161 de esta Ley:
-I. Suspender parcial o totalmente su funcionamiento. Esa suspensión durará en tanto no se cumpla con las obligaciones respectivas, o II. Revocar las autorizaciones otorgadas a las Entidades de Acreditación o las aprobaciones otorgadas a los Organismos de Evaluación de la Conformidad.
+
+I. Suspender parcial o totalmente su funcionamiento. Esa suspensión durará en tanto no se cumpla con las obligaciones respectivas, o
+
+II. Revocar las autorizaciones otorgadas a las Entidades de Acreditación o las aprobaciones otorgadas a los Organismos de Evaluación de la Conformidad.
 Las resoluciones que se dicten en términos de este artículo serán sin perjuicio de las sanciones que procedan de acuerdo a las disposiciones legales aplicables, en su caso, hasta que concluya el acto de Vigilancia sin que se haya detectado un incumplimiento o deficiencia.
 
 ## TÍTULO CUARTO
@@ -1077,18 +1510,60 @@ Cuando las autoridades identifiquen acciones u omisiones que pudieran actualizar
 
 ### Artículo 154
 . Sin perjuicio de las sanciones establecidas en otros ordenamientos legales, las sanciones aplicables por los incumplimientos a esta Ley y a las disposiciones que emanen de ella serán las siguientes:
+
 I. Apercibimiento;
+
 II. Multa;
+
 III. Clausura temporal o definitiva, que podrá ser parcial o total;
+
 IV. Arresto administrativo hasta por treinta y seis horas;
+
 V. Suspensión, cancelación o revocación de la autorización, aprobación, acreditación, registro o designación, según corresponda;
-VI. Suspensión o cancelación del documento donde consten los resultados de la Evaluación de la Conformidad, y VII. Suspensión o prohibición de la comercialización de bienes, productos y servicios, incluyendo la inmovilización de los mismos para impedir su comercialización.
+
+VI. Suspensión o cancelación del documento donde consten los resultados de la Evaluación de la Conformidad, y
+
+VII. Suspensión o prohibición de la comercialización de bienes, productos y servicios, incluyendo la inmovilización de los mismos para impedir su comercialización.
 
 ### Artículo 155
 . Se sancionarán con multa las siguientes acciones u omisiones:
-I. De treinta a cuatro mil veces el equivalente en Unidades de Medida y Actualización, cuando: a) No se proporcione a la autoridad competente, dentro del plazo señalado, la información o documentación que requiera, en apego a las facultades y atribuciones previstas en esta Ley; b) No se exhiba el documento que compruebe el cumplimiento con las Normas Oficiales Mexicanas que sea requerido; c) No se permita el acceso o no se proporcione las facilidades necesarias a las personas autorizadas por las autoridades competentes para realizar actos de Verificación, o d) Cualquier otro incumplimiento a la presente Ley y su Reglamento que no tenga una sanción expresamente aplicable al mismo.
-II. De seiscientas a nueve mil veces el equivalente en Unidades de Medida y Actualización, cuando: a) Sin haber dado aviso a la autoridad competente, así como al Organismo de Evaluación de la Conformidad que la hubiere evaluado, modifique un bien, producto, proceso o servicio sujeto al cumplimiento de Normas Oficiales Mexicanas; b) No se efectúe el acondicionamiento, reprocesamiento, reparación, sustitución o modificación de bienes, productos, procesos y servicios sujetos al cumplimiento de Normas Oficiales Mexicanas, en los términos señalados por la autoridad competente; c) Se utilice cualquier información o documentación en la que consten los resultados de la Evaluación de la Conformidad o que compruebe el cumplimiento con esta Ley y las disposiciones que de ella derivan, para un fin distinto del que motivó su expedición; d) Se contravengan disposiciones contenidas en las Normas Oficiales Mexicanas y Estándares que resulten obligatorios, o III. De cuatro mil a quince mil veces el equivalente en Unidades de Medida y Actualización, cuando: a) Se incurra en acciones u omisiones que impliquen engaño al consumidor o constituyan una práctica que pueda inducir a error, incluyendo cuando se haya auto declarado o manifestado indebidamente el cumplimiento con una Norma Oficial Mexicana o Estándar; b) Se ostenten contraseñas oficiales o algún otro distintivo sin la autorización correspondiente; o c) Se disponga de bienes, productos, procesos y servicios inmovilizados por la autoridad competente.
-IV. De seis mil a treinta mil veces el equivalente en Unidades de Medida y Actualización, cuando: a) Se cometan acciones u omisiones que implique grave riesgo a alguno de los objetivos legítimos de interés público tutelados por las Normas Oficiales Mexicanas; b) Se importen bienes que estén sujetos al cumplimiento de las Normas Oficiales Mexicanas, sin demostrar su cumplimiento en los términos previstos en esta Ley, o c) Cuando se utilicen, entreguen u ostenten los resultados de la Evaluación de la Conformidad sin haberla realizado o esos resultados sean falsos o alterados.
+
+I. De treinta a cuatro mil veces el equivalente en Unidades de Medida y Actualización, cuando:
+
+a) No se proporcione a la autoridad competente, dentro del plazo señalado, la información o documentación que requiera, en apego a las facultades y atribuciones previstas en esta Ley;
+
+b) No se exhiba el documento que compruebe el cumplimiento con las Normas Oficiales Mexicanas que sea requerido;
+
+c) No se permita el acceso o no se proporcione las facilidades necesarias a las personas autorizadas por las autoridades competentes para realizar actos de Verificación, o
+
+d) Cualquier otro incumplimiento a la presente Ley y su Reglamento que no tenga una sanción expresamente aplicable al mismo.
+
+II. De seiscientas a nueve mil veces el equivalente en Unidades de Medida y Actualización, cuando:
+
+a) Sin haber dado aviso a la autoridad competente, así como al Organismo de Evaluación de la Conformidad que la hubiere evaluado, modifique un bien, producto, proceso o servicio sujeto al cumplimiento de Normas Oficiales Mexicanas;
+
+b) No se efectúe el acondicionamiento, reprocesamiento, reparación, sustitución o modificación de bienes, productos, procesos y servicios sujetos al cumplimiento de Normas Oficiales Mexicanas, en los términos señalados por la autoridad competente;
+
+c) Se utilice cualquier información o documentación en la que consten los resultados de la Evaluación de la Conformidad o que compruebe el cumplimiento con esta Ley y las disposiciones que de ella derivan, para un fin distinto del que motivó su expedición;
+
+d) Se contravengan disposiciones contenidas en las Normas Oficiales Mexicanas y Estándares que resulten obligatorios, o
+
+III. De cuatro mil a quince mil veces el equivalente en Unidades de Medida y Actualización, cuando:
+
+a) Se incurra en acciones u omisiones que impliquen engaño al consumidor o constituyan una práctica que pueda inducir a error, incluyendo cuando se haya auto declarado o manifestado indebidamente el cumplimiento con una Norma Oficial Mexicana o Estándar;
+
+b) Se ostenten contraseñas oficiales o algún otro distintivo sin la autorización correspondiente; o
+
+c) Se disponga de bienes, productos, procesos y servicios inmovilizados por la autoridad competente.
+
+IV. De seis mil a treinta mil veces el equivalente en Unidades de Medida y Actualización, cuando:
+
+a) Se cometan acciones u omisiones que implique grave riesgo a alguno de los objetivos legítimos de interés público tutelados por las Normas Oficiales Mexicanas;
+
+b) Se importen bienes que estén sujetos al cumplimiento de las Normas Oficiales Mexicanas, sin demostrar su cumplimiento en los términos previstos en esta Ley, o
+
+c) Cuando se utilicen, entreguen u ostenten los resultados de la Evaluación de la Conformidad sin haberla realizado o esos resultados sean falsos o alterados.
+
 V. De cuarenta y ocho mil a noventa y seis mil veces el equivalente en Unidades de Medida y Actualización a las personas que por sí o a través de otra persona o por medio de alguna denominación o razón social, se ostenten, por cualquier medio, frente al público como persona autorizada, aprobada, acreditada, registrada o designada, sin contar con las mismas. La misma sanción será aplicable a aquéllos que continúen operando una vez suspendidas sus actividades o clausurados sus establecimientos.
 Adicionalmente a la multa, se podrá imponer cualquiera de las sanciones establecidas en las fracciones del artículo 154 de esta Ley.
 El plazo para efectuar el pago de la multa impuesta, será de quince días a partir de que surta efectos la notificación efectuada, apercibido que, de no hacerlo dentro de dicho plazo, se dará vista a la autoridad correspondiente en materia fiscal para que inicie el procedimiento administrativo de ejecución a fin de obtener el pago.
@@ -1100,9 +1575,14 @@ Se entenderá por reincidencia, para los efectos de esta Ley y demás disposicio
 ### Artículo 157
 . Las sanciones serán impuestas con base en las actas levantadas, en los resultados de los actos de Verificación o Vigilancia, en los datos que ostenten los bienes, sus etiquetas, envases o empaques, en la omisión de los que deberían ostentar, en base a los documentos emitidos por las Entidades de Acreditación y Organismos de Evaluación de la Conformidad o con base en cualquier otro elemento o circunstancia de la que se compruebe una infracción a esta Ley o a las demás disposiciones derivadas de ella.
 En todo caso, las resoluciones en materia de sanciones deberán ser fundadas y motivadas, tomando en consideración los siguientes criterios:
+
 I. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
 II. La gravedad que la infracción implique en relación con el comercio de bienes, la realización de procesos o la prestación de servicios, así como el perjuicio ocasionado a los consumidores;
-III. En caso de ser aplicable, el objetivo legítimo de interés público que persigue la Norma Oficial Mexicana y el grado de afectación al mismo, y IV. La condición económica del infractor, de acuerdo con los elementos que hayan sido proporcionados a la autoridad de que se trate.
+
+III. En caso de ser aplicable, el objetivo legítimo de interés público que persigue la Norma Oficial Mexicana y el grado de afectación al mismo, y
+
+IV. La condición económica del infractor, de acuerdo con los elementos que hayan sido proporcionados a la autoridad de que se trate.
 
 ### Artículo 158
 . Cuando en una misma acta se hagan constar diversas infracciones, las multas se determinarán separadamente y, por la suma resultante de todas ellas, se expedirá la resolución respectiva.
@@ -1114,19 +1594,34 @@ Cuando el motivo de una infracción sea el uso de varios instrumentos para medir
 
 ### Artículo 160
 . La Secretaría y las demás autoridades competentes, previo cumplimiento del derecho de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo podrá suspender total o parcialmente la autorización, la aprobación, la acreditación, el registro o la designación de las Entidades de Acreditación, Organismos de Evaluación de la Conformidad, sujetos facultados para estandarizar, Organismos Nacionales de Estandarización e Institutos Designados de Metrología, cuando:
+
 I. No proporcionen en forma oportuna y completa los informes que le sean requeridos respecto a su funcionamiento y operación;
+
 II. Se impida u obstaculicen las funciones de Verificación y Vigilancia;
+
 III. Se disminuya la capacidad necesaria para realizar sus funciones;
+
 IV. Se suspenda la acreditación otorgada por una Entidad de Acreditación a algún Organismo de Evaluación de la Conformidad;
-V. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o VI. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o VI. Se incumpla con cualquier otra de sus obligaciones en términos de esta Ley y el Reglamento, no prevista expresamente en el artículo 161 siguiente.
+
+V. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o
+
+VI. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o
+
+VI. Se incumpla con cualquier otra de sus obligaciones en términos de esta Ley y el Reglamento, no prevista expresamente en el artículo 161 siguiente.
 La suspensión durará en tanto no se cumpla con los requisitos u obligaciones respectivas, pudiendo concretarse ésta, a un área específica cuando sea posible.
 
 ### Artículo 161
 . La Secretaría y las demás autoridades competentes, previo cumplimiento del derecho de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo podrán revocar o cancelar total o parcialmente la autorización, la aprobación, la acreditación, el registro o la designación de las Entidades de Acreditación, Organismos de Evaluación de la Conformidad, sujetos facultados para estandarizar, Organismos Nacionales de Estandarización e Institutos Designados de Metrología, cuando:
+
 I. Emitan o utilicen acreditaciones, certificados, dictámenes, actas o algún otro documento que contenga información falsa en las actividades para las cuales fueron autorizadas, aprobadas, registradas o designadas;
+
 II. Nieguen reiterada o injustificadamente proporcionar el servicio que se les solicite;
+
 III. Reincidan en la comisión de cualquier acto que hubiere implicado la suspensión en términos del artículo anterior, o la disminución de capacidad se prolongue por más de tres meses consecutivos;
-IV. Renuncien expresamente a la autorización, aprobación, acreditación, registro o designación otorgada, o V. Para el caso de Organismos de Evaluación de la Conformidad, se cancele su acreditación por una Entidad de Acreditación.
+
+IV. Renuncien expresamente a la autorización, aprobación, acreditación, registro o designación otorgada, o
+
+V. Para el caso de Organismos de Evaluación de la Conformidad, se cancele su acreditación por una Entidad de Acreditación.
 La revocación conllevará la entrega a la autoridad competente de la documentación relativa a las actividades para las cuales dichas entidades fueron autorizadas, aprobadas, acreditadas, registradas o designadas, la prohibición de ostentarse como tales, así como la de utilizar cualquier tipo de información o emblema pertinente a tales actividades.
 
 ### Artículo 162

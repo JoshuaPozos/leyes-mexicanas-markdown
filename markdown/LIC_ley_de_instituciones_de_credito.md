@@ -16,11 +16,16 @@ Artículo reformado DOF 01-02-2008
 
 ### Artículo 2o
 .- El servicio de banca y crédito sólo podrá prestarse por instituciones de crédito, que podrán ser:
-I. Instituciones de banca múltiple, y II. Instituciones de banca de desarrollo.
+
+I. Instituciones de banca múltiple, y
+
+II. Instituciones de banca de desarrollo.
 Para efectos de lo dispuesto en la presente Ley, se considera servicio de banca y crédito la captación de recursos del público en el mercado nacional para su colocación en el público, mediante actos causantes de pasivo directo o contingente, quedando el intermediario obligado a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.
 No se consideran operaciones de banca y crédito aquellas que, en el ejercicio de las actividades que les sean propias, celebren intermediarios financieros distintos a instituciones de crédito que se encuentren debidamente autorizados conforme a los ordenamientos legales aplicables. Dichos intermediarios en ningún caso podrán recibir depósitos irregulares de dinero en cuenta de cheques.
 Tampoco se considerarán operaciones de banca y crédito la captación de recursos del público mediante la emisión de instrumentos inscritos en el Registro Nacional de Valores, colocados mediante oferta pública incluso cuando dichos recursos se utilicen para el otorgamiento de financiamientos de cualquier naturaleza.
-Párrafo derogado DOF 30-04-1996. Adicionado DOF 30-11-2005 Para efectos de este artículo y del artículo 103 se entenderá que existe captación de recursos del público cuando: a) se solicite, ofrezca o promueva la obtención de fondos o recursos de persona indeterminada o mediante medios masivos de comunicación, o b) se obtengan o soliciten fondos o recursos de forma habitual o profesional.
+Párrafo derogado DOF 30-04-1996. Adicionado DOF 30-11-2005 Para efectos de este artículo y del artículo 103 se entenderá que existe captación de recursos del público cuando:
+
+a) se solicite, ofrezca o promueva la obtención de fondos o recursos de persona indeterminada o mediante medios masivos de comunicación, o b) se obtengan o soliciten fondos o recursos de forma habitual o profesional.
 Párrafo adicionado DOF 30-11-2005
 
 ### Artículo 3o
@@ -73,9 +78,17 @@ Artículo adicionado DOF 01-02-2008. Reformado DOF 10-01-2014
 
 ### Artículo 6o
 .- En lo no previsto por la presente Ley y por la Ley Orgánica del Banco de México, a las instituciones de banca múltiple se les aplicarán en el orden siguiente:
+
 I. La legislación mercantil;
-II. Los usos y prácticas bancarios y mercantiles, y III. La legislación civil federal.
-Fracción reformada DOF 06-02-2008 IV. La Ley Federal de Procedimiento Administrativo respecto de la tramitación de los recursos a que se refiere esta Ley, y Fracción adicionada DOF 09-06-1992. Reformada DOF 06-02-2008 V. El Código Fiscal de la Federación respecto de la actualización de multas.
+
+II. Los usos y prácticas bancarios y mercantiles, y
+
+III. La legislación civil federal.
+Fracción reformada DOF 06-02-2008
+
+IV. La Ley Federal de Procedimiento Administrativo respecto de la tramitación de los recursos a que se refiere esta Ley, y Fracción adicionada DOF 09-06-1992. Reformada DOF 06-02-2008
+
+V. El Código Fiscal de la Federación respecto de la actualización de multas.
 Fracción adicionada DOF 06-02-2008 Las instituciones de banca de desarrollo, se regirán por su respectiva ley orgánica y, en su defecto, por lo dispuesto en este artículo.
 
 ### Artículo 7o
@@ -92,14 +105,24 @@ Artículo adicionado DOF 01-02-2008
 
 ### Artículo 7
 Bis 1.- Los organismos autorregulatorios bancarios podrán, en términos de sus estatutos y sujetándose a lo previsto en el artículo 7 Bis 2 de esta Ley, emitir normas relativas a:
+
 I. Los requisitos de ingreso, exclusión y separación de sus agremiados;
+
 II. Las políticas y lineamientos que deban seguir sus agremiados en la contratación con la clientela a la cual presten sus servicios;
+
 III. La revelación al público de información distinta o adicional a la que derive de esta Ley;
+
 IV. Las políticas y lineamientos de conducta tendientes a que sus agremiados y otras personas vinculadas a éstos con motivo de un empleo, cargo o comisión en ellos, conozcan y se apeguen a la normativa aplicable, así como a los sanos usos y prácticas bancarias;
+
 V. Los requisitos de calidad técnica, honorabilidad e historial crediticio satisfactorio aplicables al personal de sus agremiados;
+
 VI. La procuración de la eficiencia y transparencia en las actividades bancarias;
+
 VII. El proceso para la adopción de normas y la verificación de su cumplimiento;
-VIII. Las medidas disciplinarias y correctivas que se aplicarán a sus agremiados en caso de incumplimiento, así como el procedimiento para hacerlas efectivas, y IX. Los usos y prácticas bancarias.
+
+VIII. Las medidas disciplinarias y correctivas que se aplicarán a sus agremiados en caso de incumplimiento, así como el procedimiento para hacerlas efectivas, y
+
+IX. Los usos y prácticas bancarias.
 Además, las asociaciones o sociedades gremiales de instituciones de crédito que obtengan el reconocimiento de organismo autorregulatorio bancario por parte de la Comisión Nacional Bancaria y de Valores podrán llevar a cabo certificaciones de capacidad técnica de empleados, funcionarios y directivos de las instituciones de crédito, así como de sus apoderados, cuando así lo prevean las normas a que se refiere este artículo.
 Los organismos autorregulatorios bancarios deberán llevar a cabo evaluaciones periódicas a sus agremiados, sobre el cumplimiento de las normas que expidan dichos organismos para el otorgamiento de las certificaciones a que se refiere el párrafo anterior. Cuando de los resultados de dichas evaluaciones puedan derivar infracciones administrativas o delitos, a juicio del organismo de que se trate, éste deberá informar de ello a la Comisión Nacional Bancaria y de Valores, sin perjuicio de las facultades de supervisión que corresponda ejercer a la propia Comisión. Asimismo, dichos organismos deberán llevar un registro de las medidas correctivas y disciplinarias que apliquen a las personas certificadas por ellos, el cual estará a disposición de la propia Comisión.
 Las normas autorregulatorias que se expidan en términos de lo previsto en este artículo no podrán contravenir o exceptuar lo establecido en la presente Ley y demás disposiciones aplicables.
@@ -112,8 +135,12 @@ Artículo adicionado DOF 01-02-2008
 
 ### Artículo 7
 Bis 3.- La Comisión Nacional Bancaria y de Valores tendrá facultades para:
+
 I. Vetar las normas de autorregulación que expidan los organismos autorregulatorios bancarios, cuando la propia Comisión considere que éstas puedan afectar el sano y equilibrado desarrollo del sistema financiero, en protección de los intereses del público, en cuyo caso tales normas no iniciarán su vigencia o quedarán sin efectos;
-II. Ordenar la suspensión, remoción o destitución de los consejeros y directivos de los organismos autorregulatorios bancarios, así como imponer veto de tres meses hasta cinco años, a las personas antes mencionadas, cuando cometan infracciones graves o reiteradas a esta Ley y demás disposiciones de carácter general que emanen de ella, con independencia de las sanciones económicas que correspondan conforme a esta u otras leyes, y III. Revocar el reconocimiento de organismos autorregulatorios bancarios cuando cometan infracciones graves o reiteradas a lo previsto en esta u otras leyes y demás disposiciones de carácter general que emanen de las mismas.
+
+II. Ordenar la suspensión, remoción o destitución de los consejeros y directivos de los organismos autorregulatorios bancarios, así como imponer veto de tres meses hasta cinco años, a las personas antes mencionadas, cuando cometan infracciones graves o reiteradas a esta Ley y demás disposiciones de carácter general que emanen de ella, con independencia de las sanciones económicas que correspondan conforme a esta u otras leyes, y
+
+III. Revocar el reconocimiento de organismos autorregulatorios bancarios cuando cometan infracciones graves o reiteradas a lo previsto en esta u otras leyes y demás disposiciones de carácter general que emanen de las mismas.
 Para proceder en términos de lo previsto en las fracciones II y III de este artículo, dicha Comisión deberá contar con el previo acuerdo de su Junta de Gobierno. Antes de dictar la resolución correspondiente, la Comisión deberá escuchar al interesado y al organismo de que se trate.
 Las resoluciones a que se refiere este artículo podrán ser recurridas ante la Comisión Nacional Bancaria y de Valores dentro de los quince días hábiles siguientes a la fecha en que se hubieren notificado. La propia Comisión, con aprobación de su Junta de Gobierno, podrá revocar, modificar o confirmar la resolución recurrida, previa audiencia del afectado.
 Artículo adicionado DOF 01-02-2008 TITULO SEGUNDO DE LAS INSTITUCIONES DE CREDITO CAPITULO I De las Instituciones de Banca Múltiple SECCIÓN PRIMERA Disposiciones Generales Sección adicionada DOF 06-07-2006
@@ -138,19 +165,51 @@ Artículo adicionado DOF 01-02-2008
 
 ### Artículo 9o
 .- Sólo gozarán de autorización las sociedades anónimas de capital fijo, organizadas de conformidad con lo dispuesto por la Ley General de Sociedades Mercantiles, en todo lo que no esté previsto en esta Ley y, particularmente, con lo siguiente:
+
 I. Tendrán por objeto la prestación del servicio de banca y crédito, en los términos de la presente Ley;
+
 II. La duración de la sociedad será indefinida;
-III. Deberán contar con el capital social y el capital mínimo que corresponda conforme a lo previsto en esta Ley, y IV. Su domicilio social estará en el territorio nacional.
+
+III. Deberán contar con el capital social y el capital mínimo que corresponda conforme a lo previsto en esta Ley, y
+
+IV. Su domicilio social estará en el territorio nacional.
 Los estatutos sociales, así como cualquier modificación a los mismos, deberán ser sometidos a la aprobación de la Comisión Nacional Bancaria y de Valores. Una vez aprobados los estatutos sociales o sus reformas, el instrumento público en el que consten deberá inscribirse en el Registro Público de Comercio sin que sea preciso mandamiento judicial.
 Párrafo reformado DOF 01-02-2008
 
 ### Artículo 10
 .- Las solicitudes de autorización para organizarse y operar como institución de banca múltiple deberán acompañarse de lo siguiente:
+
 I. Proyecto de estatutos de la sociedad que deberá considerar el objeto social y señalar expresa e individualmente las operaciones que pretenda realizar conforme a lo dispuesto por el artículo 46 de esta Ley, así como satisfacer los requisitos que, en términos de la presente Ley y de las demás disposiciones aplicables, deban contenerse;
-II. Relación e información de las personas que directa o indirectamente pretendan mantener una participación en el capital social de la institución de banca múltiple a constituir, que deberá contener, de conformidad con las disposiciones de carácter general que al efecto expida la Comisión Nacional Bancaria y de Valores, previo acuerdo de su Junta de Gobierno, lo siguiente: a) El monto del capital social que cada una de ellas suscribirá y el origen de los recursos que utilizará para tal efecto; b) La situación patrimonial, tratándose de personas físicas, o los estados financieros, tratándose de personas morales, en ambos casos de los últimos tres años, y c) Aquélla que permita verificar que cuentan con honorabilidad e historial crediticio y de negocios satisfactorio.
+
+II. Relación e información de las personas que directa o indirectamente pretendan mantener una participación en el capital social de la institución de banca múltiple a constituir, que deberá contener, de conformidad con las disposiciones de carácter general que al efecto expida la Comisión Nacional Bancaria y de Valores, previo acuerdo de su Junta de Gobierno, lo siguiente:
+
+a) El monto del capital social que cada una de ellas suscribirá y el origen de los recursos que utilizará para tal efecto;
+
+b) La situación patrimonial, tratándose de personas físicas, o los estados financieros, tratándose de personas morales, en ambos casos de los últimos tres años, y
+
+c) Aquélla que permita verificar que cuentan con honorabilidad e historial crediticio y de negocios satisfactorio.
+
 III. Relación de los probables consejeros, director general y principales directivos de la sociedad, acompañada de la información que acredite que dichas personas cumplen con los requisitos que esta Ley establece para dichos cargos.
-IV. Plan general de funcionamiento de la sociedad que comprenda por lo menos: a) Las operaciones a realizar de conformidad con el artículo 46 de esta Ley; b) Las medidas de seguridad para preservar la integridad de la información; c) Los programas de captación de recursos y de otorgamiento de créditos en los que se refleje la diversificación de operaciones pasivas y activas de conformidad con la normativa aplicable, así como los segmentos del mercado que se atenderán preferentemente; d) Las previsiones de cobertura geográfica, en las que se señalen las regiones y plazas en las que se pretenda operar; e) El estudio de viabilidad financiera de la sociedad; f) Las bases para aplicar utilidades, en la inteligencia de que las sociedades a las que se autorice para organizarse y operar como instituciones de banca múltiple no podrán repartir dividendos durante sus tres primeros ejercicios sociales y que, en ese mismo periodo, deberán aplicar sus utilidades netas a reservas. La restricción descrita no se observará por las instituciones de banca múltiple que cuenten con un índice de capitalización superior en diez puntos porcentuales al requerido y con los suplementos de capital, conforme a lo dispuesto en el artículo 50 de la presente Ley y, a su vez, cumplan con el capital mínimo establecido en el artículo 19 de esta Ley, y Inciso reformado DOF 10-01-2014 g) Las bases relativas a su organización, administración y control interno;
-V. Comprobante de depósito en garantía en moneda nacional constituido en institución de crédito o de valores gubernamentales por su valor de mercado, a favor de la Tesorería de la Federación, por una cantidad igual al diez por ciento del capital mínimo con que deba operar la sociedad conforme a la presente Ley, y VI. La demás documentación e información relacionada, que la Comisión Nacional Bancaria y de Valores requiera para el efecto.
+
+IV. Plan general de funcionamiento de la sociedad que comprenda por lo menos:
+
+a) Las operaciones a realizar de conformidad con el artículo 46 de esta Ley;
+
+b) Las medidas de seguridad para preservar la integridad de la información;
+
+c) Los programas de captación de recursos y de otorgamiento de créditos en los que se refleje la diversificación de operaciones pasivas y activas de conformidad con la normativa aplicable, así como los segmentos del mercado que se atenderán preferentemente;
+
+d) Las previsiones de cobertura geográfica, en las que se señalen las regiones y plazas en las que se pretenda operar;
+
+e) El estudio de viabilidad financiera de la sociedad;
+
+f) Las bases para aplicar utilidades, en la inteligencia de que las sociedades a las que se autorice para organizarse y operar como instituciones de banca múltiple no podrán repartir dividendos durante sus tres primeros ejercicios sociales y que, en ese mismo periodo, deberán aplicar sus utilidades netas a reservas. La restricción descrita no se observará por las instituciones de banca múltiple que cuenten con un índice de capitalización superior en diez puntos porcentuales al requerido y con los suplementos de capital, conforme a lo dispuesto en el artículo 50 de la presente Ley y, a su vez, cumplan con el capital mínimo establecido en el artículo 19 de esta Ley, y Inciso reformado DOF 10-01-2014
+
+g) Las bases relativas a su organización, administración y control interno;
+
+V. Comprobante de depósito en garantía en moneda nacional constituido en institución de crédito o de valores gubernamentales por su valor de mercado, a favor de la Tesorería de la Federación, por una cantidad igual al diez por ciento del capital mínimo con que deba operar la sociedad conforme a la presente Ley, y
+
+VI. La demás documentación e información relacionada, que la Comisión Nacional Bancaria y de Valores requiera para el efecto.
 La Comisión Nacional Bancaria y de Valores tendrá la facultad de verificar que la solicitud a que se refiere el presente artículo cumpla con lo previsto en esta Ley, para lo cual dicha Comisión contará con facultades para corroborar la veracidad de la información proporcionada y, en tal virtud, las dependencias y entidades de la Administración Pública Federal, así como las demás instancias federales, entregarán la información relacionada. Asimismo, la Comisión podrá solicitar a organismos extranjeros con funciones de supervisión o regulación similares corroborar la información que al efecto se le proporcione.
 Cuando no se presente el instrumento público en el que consten los estatutos de la sociedad, para su aprobación, dentro del plazo de noventa días señalado en el segundo párrafo del artículo 8o. de esta Ley; no se obtenga o no se solicite la autorización para iniciar operaciones en términos de los artículos 8o. y 46 Bis de esta Ley, respectivamente; la sociedad inicie operaciones distintas a las señaladas en el
 
@@ -181,9 +240,16 @@ Párrafo reformado DOF 09-06-1992, 15-02-1995
 ### Artículo 13
 .- Las acciones representativas de las series "O" y "L", serán de libre suscripción.
 Los gobiernos extranjeros no podrán participar, directa o indirectamente, en el capital social de las instituciones de banca múltiple, salvo en los casos siguientes:
+
 I. Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
 Las instituciones de banca múltiple que se ubiquen en lo dispuesto en esta fracción, deberán entregar a la Comisión Nacional Bancaria y de Valores, la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto. La Comisión Nacional Bancaria y de Valores tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información y documentación correspondiente, para resolver, previo acuerdo de su Junta de Gobierno, si la participación de que se trata, se ubica en el supuesto de excepción previsto en esta fracción.
-II. Cuando la participación correspondiente implique que se tenga el control de la institución de banca múltiple, en términos del artículo 22 Bis de esta Ley, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión Nacional Bancaria y de Valores, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que: a) No ejercen funciones de autoridad, y b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+II. Cuando la participación correspondiente implique que se tenga el control de la institución de banca múltiple, en términos del artículo 22 Bis de esta Ley, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión Nacional Bancaria y de Valores, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que:
+
+a) No ejercen funciones de autoridad, y
+
+b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
 III. Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de la institución de banca múltiple, en términos del artículo 22 Bis de esta Ley. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
 Artículo reformado DOF 09-06-1992, 15-02-1995, 19-01-1999, 10-01-2014
 
@@ -197,7 +263,9 @@ Artículo reformado DOF 09-06-1992, 15-02-1995, 23-05-1996, 04-06-2001
 
 ### Artículo 16
 .- Las personas que acudan en representación de los accionistas a las asambleas de la institución, deberán acreditar su personalidad mediante poder otorgado en formularios elaborados por la propia institución, que reúna los requisitos siguientes:
+
 I. Deberán contener de manera notoria, la denominación de la propia institución, así como las instrucciones del otorgante para el ejercicio del poder;
+
 II. Estarán foliados y firmados por el secretario o prosecretario del consejo de administración con anterioridad a su entrega, y III.- Contendrán el respectivo orden del día.
 Fracción reformada DOF 04-06-2001 La institución deberá tener a disposición de los representantes de los accionistas los formularios de los poderes, durante el plazo a que se refiere el artículo 173 de la Ley General de Sociedades Mercantiles, a fin de que aquéllos puedan hacerlos llegar con oportunidad a sus representados.
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este artículo e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
@@ -211,9 +279,14 @@ Artículo adicionado DOF 04-06-2001
 Cuando se pretenda adquirir directa o indirectamente más del cinco por ciento del capital social ordinario pagado, o bien, otorgar garantía sobre las acciones que representen dicho porcentaje, se deberá obtener previamente la autorización de la Comisión Nacional Bancaria y de Valores, la que podrá otorgarla discrecionalmente, para lo cual deberá escuchar la opinión del Banco de México. En estos casos, las personas que pretendan realizar la adquisición o afectación mencionada deberán acreditar que cumplen con los requisitos establecidos en la fracción II del artículo 10 de esta Ley, así como proporcionar a la propia Comisión la información que, para tal efecto y previo acuerdo de su Junta de Gobierno, establezca mediante reglas de carácter general buscando preservar el sano desarrollo del sistema bancario.
 En el supuesto de que una persona o un grupo de personas, accionistas o no, pretenda adquirir el veinte por ciento o más de las acciones representativas de la serie "O" del capital social de la institución de banca múltiple u obtener el control de la propia institución, se deberá solicitar previamente autorización de la Comisión Nacional Bancaria y de Valores, la que podrá otorgarla discrecionalmente, previa opinión favorable del Banco de México. Para efectos de lo descrito en este artículo, se entenderá por control lo dispuesto en la fracción II del artículo 22 Bis de esta Ley.
 Dicha solicitud deberá contener lo siguiente:
+
 I. Relación o información de la persona o personas que pretenden obtener el control de la institución de banca múltiple de que se trate, a la que se deberá acompañar la información que acredite cumplir con los requisitos establecidos en la fracción II del artículo 10 de esta Ley, así como aquélla otra prevista en las reglas de carácter general señaladas en el segundo párrafo del presente artículo;
+
 II. Relación de los consejeros y directivos que nombrarían en la institución de banca múltiple de la que pretenden adquirir el porcentaje aludido u obtener el control, a la que deberá adjuntarse la información que acredite que dichas personas cumplen con los requisitos que esta Ley establece para dichos cargos;
-III. Plan general de funcionamiento de la institución de banca múltiple de que se trate, el cual deberá contemplar los aspectos señalados en el artículo 10, fracción IV, de esta Ley, y IV. Programa estratégico para la organización, administración y control interno de la institución de que se trate.
+
+III. Plan general de funcionamiento de la institución de banca múltiple de que se trate, el cual deberá contemplar los aspectos señalados en el artículo 10, fracción IV, de esta Ley, y
+
+IV. Programa estratégico para la organización, administración y control interno de la institución de que se trate.
 La demás documentación conexa que requiera la Comisión Nacional Bancaria y de Valores a efectos de evaluar la solicitud correspondiente.
 Artículo reformado DOF 09-06-1992, 23-12-1993, 15-02-1995, 19-01-1999, 04-06-2001, 01-02-2008
 
@@ -252,20 +325,32 @@ Párrafo adicionado DOF 04-06-2001
 .- El consejo de administración de las instituciones de banca múltiple estará integrado por un mínimo de cinco y un máximo de quince consejeros propietarios, de los cuales los que integren cuando menos el veinticinco por ciento deberán ser independientes. Por cada consejero propietario se podrá designar a un suplente, en el entendido de que los consejeros suplentes de los consejeros independientes deberán tener este mismo carácter.
 Por consejero independiente deberá entenderse a la persona que sea ajena a la administración de la institución de banca múltiple respectiva, y que reúna los requisitos y condiciones que determine la Comisión Nacional Bancaria y de Valores, mediante disposiciones de carácter general, en las que igualmente se establecerán los supuestos bajo los cuales se considerará que un consejero deja de ser independiente para los efectos de este artículo.
 En ningún caso podrán ser consejeros independientes:
+
 I. Empleados o directivos de la institución;
+
 II. Personas que se encuentren en alguno de los supuestos previstos en el artículo 73 de esta Ley, o tengan poder de mando;
+
 III. Socios o personas que ocupen un empleo, cargo o comisión en sociedades o asociaciones importantes que presten servicios a la institución o a las empresas que pertenezcan al mismo grupo empresarial del cual forme parte ésta.
 Se considera que una sociedad o asociación es importante cuando los ingresos que recibe por la prestación de servicios a la institución o al mismo grupo empresarial del cual forme parte ésta, representan más del cinco por ciento de los ingresos totales de la sociedad o asociación de que se trate;
+
 IV. Clientes, proveedores, prestadores de servicios, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, prestador de servicios, deudor o acreedor importante de la institución.
 Se considera que un cliente, proveedor o prestador de servicios es importante cuando los servicios que le preste la institución o las ventas que aquél le haga a ésta representen más del diez por ciento de los servicios o ventas totales del cliente, del proveedor o del prestador de servicios, respectivamente.
 Asimismo, se considera que un deudor o acreedor es importante cuando el importe de la operación respectiva sea mayor al quince por ciento de los activos de la institución o de su contraparte;
+
 V. Empleados de una fundación, asociación o sociedad civiles que reciban donativos importantes de la institución.
 Se consideran donativos importantes a aquéllos que representen más del quince por ciento del total de donativos recibidos por la fundación, asociación o sociedad civiles de que se trate;
+
 VI. Directores generales o directivos de alto nivel de una sociedad en cuyo consejo de administración participe el director general o un directivo de alto nivel de la institución;
+
 VII. Directores generales o empleados de las empresas que pertenezcan al grupo financiero al que pertenezca la propia institución;
+
 VIII. Cónyuges, concubinas o concubinarios, así como los parientes por consanguinidad, afinidad o civil hasta el primer grado, de alguna de las personas mencionadas en las fracciones III a VII anteriores, o bien, hasta el tercer grado de alguna de las señaladas en las fracciones I, II, IX y X de este artículo;
+
 IX. Directores o empleados de empresas en las que los accionistas de la institución ejerzan el control;
-X. Quienes tengan conflictos de interés o estén supeditados a intereses personales, patrimoniales o económicos de cualquiera de las personas que mantengan el control de la institución o del consorcio o grupo empresarial al que pertenezca la institución, o el poder de mando en cualquiera de éstos, y XI. Quienes hayan estado comprendidos en alguno de los supuestos anteriores, durante el año anterior al momento en que se pretenda hacer su designación.
+
+X. Quienes tengan conflictos de interés o estén supeditados a intereses personales, patrimoniales o económicos de cualquiera de las personas que mantengan el control de la institución o del consorcio o grupo empresarial al que pertenezca la institución, o el poder de mando en cualquiera de éstos, y
+
+XI. Quienes hayan estado comprendidos en alguno de los supuestos anteriores, durante el año anterior al momento en que se pretenda hacer su designación.
 El consejo deberá reunirse por lo menos trimestralmente, y en forma extraordinaria, cuando sea convocado por su presidente o por los consejeros que representen, al menos, el veinticinco por ciento del total de miembros del consejo o por cualquiera de los comisarios de la institución. Para la celebración de las sesiones ordinarias y extraordinarias del consejo de administración, se deberá contar con la asistencia de los consejeros que representen, cuando menos, el cincuenta y uno por ciento de todos los miembros del consejo, de los cuales por lo menos uno deberá ser consejero independiente.
 Los accionistas que representen, cuando menos, un diez por ciento del capital pagado ordinario de la institución tendrán derecho a designar un consejero. Únicamente podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás.
 El Presidente del consejo tendrá voto de calidad en caso de empate.
@@ -273,57 +358,108 @@ Artículo reformado DOF 09-06-1992, 23-07-1993, 15-02-1995, 19-01-1999, 04-06-20
 
 ### Artículo 22
 Bis.- Para efectos del artículo 22 de esta Ley, se entenderá por:
+
 I. Consorcio, el conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un grupo de personas, tengan el control de las primeras;
+
 II. Control, a la capacidad de imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas de la institución; el mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social de la institución, dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la institución, ya sea a través de la propiedad de valores o por cualquier otro acto jurídico;
+
 III. Directivo relevante, el director general de las instituciones de crédito, así como las personas físicas que, ocupando un empleo, cargo o comisión en aquéllas o en las personas morales que controlen dichas instituciones o que la controlen, adopten decisiones que trasciendan de forma significativa en la situación administrativa, financiera, operacional o jurídica de la propia institución o del grupo empresarial al que ésta pertenezca, sin que queden comprendidos dentro de esta definición los consejeros de dichas instituciones de crédito;
-IV. Grupo de personas, las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un grupo de personas: a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario. b) Las sociedades que formen parte de un mismo consorcio o grupo empresarial y la persona o conjunto de personas que tengan el control de dichas sociedades.
-V. Grupo empresarial, el conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el control de dichas personas morales. Asimismo, se considerarán como grupo empresarial a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras, y VI. Poder de mando, la capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o sesiones del consejo de administración o en la gestión, conducción y ejecución de los negocios de la institución de banca múltiple de que se trate o de las personas morales que ésta controle. Se presume que tienen poder de mando en una institución de banca múltiple, salvo prueba en contrario, las personas que se ubiquen en cualquiera de los supuestos siguientes: a) Los accionistas que tengan el control de la administración. b) Los individuos que tengan vínculos con la institución de banca múltiple o las personas morales que integran el grupo empresarial o consorcio al que aquella pertenezca, a través de cargos vitalicios, honoríficos o con cualquier otro título análogo o semejante a los anteriores. c) Las personas que hayan transmitido el control de la institución de banca múltiple bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, en favor de individuos con los que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario. d) Quienes instruyan a consejeros o directivos relevantes de la institución de banca múltiple, la toma de decisiones o la ejecución de operaciones en la propia institución o en las personas morales que ésta controle.
+
+IV. Grupo de personas, las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un grupo de personas:
+
+a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario.
+
+b) Las sociedades que formen parte de un mismo consorcio o grupo empresarial y la persona o conjunto de personas que tengan el control de dichas sociedades.
+
+V. Grupo empresarial, el conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el control de dichas personas morales. Asimismo, se considerarán como grupo empresarial a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras, y
+
+VI. Poder de mando, la capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o sesiones del consejo de administración o en la gestión, conducción y ejecución de los negocios de la institución de banca múltiple de que se trate o de las personas morales que ésta controle. Se presume que tienen poder de mando en una institución de banca múltiple, salvo prueba en contrario, las personas que se ubiquen en cualquiera de los supuestos siguientes:
+
+a) Los accionistas que tengan el control de la administración.
+
+b) Los individuos que tengan vínculos con la institución de banca múltiple o las personas morales que integran el grupo empresarial o consorcio al que aquella pertenezca, a través de cargos vitalicios, honoríficos o con cualquier otro título análogo o semejante a los anteriores.
+
+c) Las personas que hayan transmitido el control de la institución de banca múltiple bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, en favor de individuos con los que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario.
+
+d) Quienes instruyan a consejeros o directivos relevantes de la institución de banca múltiple, la toma de decisiones o la ejecución de operaciones en la propia institución o en las personas morales que ésta controle.
 Artículo adicionado DOF 01-02-2008
 
 ### Artículo 23
 .- Los nombramientos de consejeros de las instituciones de banca múltiple deberán recaer en personas que cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como con amplios conocimientos y experiencia en materia financiera, legal o administrativa.
 Párrafo reformado DOF 04-06-2001 Los consejeros estarán obligados a abstenerse expresamente de participar en la deliberación y votación de cualquier asunto que implique para ellos un conflicto de interés. Asimismo, deberán mantener absoluta confidencialidad respecto de todos aquellos actos, hechos o acontecimientos relativos a la institución de banca múltiple de que sea consejero, así como de toda deliberación que se lleve a cabo en el consejo, sin perjuicio de la obligación que tendrá la institución de proporcionar toda la información que les sea solicitada al amparo de la presente Ley.
 Párrafo adicionado DOF 04-06-2001 En ningún caso podrán ser consejeros:
+
 I. Los funcionarios y empleados de la institución, con excepción del director general y de los funcionarios de la sociedad que ocupen cargos con las dos jerarquías administrativas inmediatas inferiores a la de aquél, sin que éstos constituyan más de la tercera parte del consejo de administración.
-Fracción reformada DOF 09-06-1992 II. El cónyuge, concubina o concubinario de cualquiera de las personas a que se refiere la fracción anterior. Las personas que tengan parentesco por consanguinidad o afinidad hasta el segundo grado, o civil, con más de dos consejeros;
-Fracción reformada DOF 09-06-1992, 01-02-2008 III. Las personas que tengan litigio pendiente con la institución de que se trate;
+Fracción reformada DOF 09-06-1992
+
+II. El cónyuge, concubina o concubinario de cualquiera de las personas a que se refiere la fracción anterior. Las personas que tengan parentesco por consanguinidad o afinidad hasta el segundo grado, o civil, con más de dos consejeros;
+Fracción reformada DOF 09-06-1992, 01-02-2008
+
+III. Las personas que tengan litigio pendiente con la institución de que se trate;
+
 IV. Las personas sentenciadas por delitos patrimoniales; las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano;
+
 V. Los quebrados y concursados que no hayan sido rehabilitados;
-VI. Quienes realicen funciones de inspección y vigilancia de las instituciones de crédito, y VII. Quienes realicen funciones de regulación y supervisión de las instituciones de crédito, salvo que exista participación del Gobierno Federal o del Instituto para la Protección al Ahorro Bancario en el capital de las mismas, o reciban apoyos de este último, y Fracción reformada DOF 15-02-1995, 01-02-2008 VIII. Quienes participen en el consejo de administración de otra institución de banca múltiple o de una sociedad controladora de un grupo financiero al que pertenezca una institución de banca múltiple.
+
+VI. Quienes realicen funciones de inspección y vigilancia de las instituciones de crédito, y
+
+VII. Quienes realicen funciones de regulación y supervisión de las instituciones de crédito, salvo que exista participación del Gobierno Federal o del Instituto para la Protección al Ahorro Bancario en el capital de las mismas, o reciban apoyos de este último, y Fracción reformada DOF 15-02-1995, 01-02-2008
+
+VIII. Quienes participen en el consejo de administración de otra institución de banca múltiple o de una sociedad controladora de un grupo financiero al que pertenezca una institución de banca múltiple.
 Fracción adicionada DOF 04-06-2001, 01-02-2008 La mayoría de los consejeros deberán ser mexicanos o extranjeros residentes en el territorio nacional.
 Párrafo reformado DOF 15-02-1995, 19-01-1999 La persona que vaya a ser designada como consejero de una institución de banca múltiple y sea consejero de otra entidad financiera deberá revelar dicha circunstancia a la asamblea de accionistas de dicha institución para el acto de su designación.
 Párrafo adicionado DOF 01-02-2008
 
 ### Artículo 24
 .- Los nombramientos del director general de las instituciones de banca múltiple y de los funcionarios que ocupen cargos con las dos jerarquías inmediatas inferiores a la de éste; deberán recaer en personas que cuenten con elegibilidad crediticia y honorabilidad, y que además reúnan los requisitos siguientes:
-Párrafo reformado DOF 04-06-2001 I. Ser residente en territorio mexicano, en términos de lo dispuesto por el Código Fiscal de la Federación;
-Fracción reformada DOF 04-06-2001 II. Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio, cuyo desempeño requiera conocimiento y experiencia en materia financiera y administrativa;
-III. No tener alguno de los impedimentos que para ser consejero señalan las fracciones III a VIII del artículo anterior, y Fracción reformada DOF 04-06-2001 IV. No estar realizando funciones de regulación de las instituciones de crédito.
+Párrafo reformado DOF 04-06-2001
+
+I. Ser residente en territorio mexicano, en términos de lo dispuesto por el Código Fiscal de la Federación;
+Fracción reformada DOF 04-06-2001
+
+II. Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio, cuyo desempeño requiera conocimiento y experiencia en materia financiera y administrativa;
+
+III. No tener alguno de los impedimentos que para ser consejero señalan las fracciones III a VIII del artículo anterior, y Fracción reformada DOF 04-06-2001
+
+IV. No estar realizando funciones de regulación de las instituciones de crédito.
 Los comisarios de las instituciones deberán contar con calidad técnica, honorabilidad e historial crediticio satisfactorio en términos de las disposiciones a que se refiere la fracción II del artículo 10 de esta Ley, así como con amplios conocimientos y experiencia en materia financiera, contable, legal o administrativa y, además, deberán cumplir con el requisito establecido en la fracción I del presente artículo.
 Párrafo reformado DOF 04-06-2001, 01-02-2008 Reforma DOF 04-06-2001: Derogó del artículo el entonces último párrafo
 
 ### Artículo 24
 Bis.- La institución de banca múltiple de que se trate, deberá verificar que las personas que sean designadas como consejeros, director general y funcionarios con las dos jerarquías inmediatas inferiores a la de este último, cumplan, con anterioridad al inicio de sus gestiones, con los requisitos señalados en los artículos 23 y 24 de esta Ley. La Comisión Nacional Bancaria y de Valores podrá establecer, mediante disposiciones de carácter general, los criterios mediante los cuales se deberán integrar los expedientes que acrediten el cumplimiento a lo señalado en el presente artículo.
 En todo caso, las personas mencionadas en el párrafo anterior deberán manifestar por escrito:
+
 I. Que no se ubican en ninguno de los supuestos a que se refieren las fracciones III a VIII del artículo 23, tratándose de consejeros y III del artículo 24 para el caso del director general y funcionarios a que se refiere el primer párrafo de este artículo;
-II. Que se encuentran al corriente de sus obligaciones crediticias de cualquier género, y III. Que conocen los derechos y obligaciones que asumen al aceptar el cargo que corresponda.
+
+II. Que se encuentran al corriente de sus obligaciones crediticias de cualquier género, y
+
+III. Que conocen los derechos y obligaciones que asumen al aceptar el cargo que corresponda.
 Las instituciones de banca múltiple deberán informar a la Comisión Nacional Bancaria y de Valores los nombramientos de consejeros, director general y funcionarios con las dos jerarquías inmediatas inferiores a la de este último, dentro de los cinco días hábiles posteriores a su designación, manifestando expresamente que los mismos cumplen con los requisitos aplicables.
 Artículo adicionado DOF 04-06-2001
 
 ### Artículo 24
 Bis 1.- Las instituciones de banca múltiple deberán implementar un sistema de remuneración de conformidad con esta Ley y lo que establezca la Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general. El consejo de administración será responsable de la aprobación del sistema de remuneración, las políticas y procedimientos que lo normen; de definir su alcance y determinar el personal sujeto a dicho sistema, así como de vigilar su adecuado funcionamiento.
 Dicho sistema de remuneración deberá considerar todas las remuneraciones, ya sea que estas se otorguen en efectivo o a través de otros mecanismos de compensación, y deberá al menos cumplir con lo siguiente:
+
 I. Delimitar las responsabilidades de los órganos sociales encargados de la implementación de los esquemas de remuneración;
+
 II. Establecer políticas y procedimientos que normen las remuneraciones ordinarias y remuneraciones extraordinarias de las personas sujetas al sistema de remuneración.
 En todo caso, las políticas y procedimientos que limiten o suspendan las remuneraciones extraordinarias deberán a su vez, preverse en las condiciones de trabajo de las instituciones de banca múltiple;
-III. Establecer la revisión periódica de políticas y procedimientos de pago, así como los ajustes conducentes, y IV. Los demás aspectos que señale la Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general.
+
+III. Establecer la revisión periódica de políticas y procedimientos de pago, así como los ajustes conducentes, y
+
+IV. Los demás aspectos que señale la Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general.
 La Comisión Nacional Bancaria y de Valores, oyendo la opinión del Banco de México, podrá exigir requerimientos de capitalización adicionales a los señalados en el artículo 50 de esta Ley cuando las instituciones de banca múltiple incumplan lo relativo a su sistema de remuneración.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 24
 Bis 2.- El consejo de administración deberá constituir un comité de remuneraciones cuyo objeto será la implementación, mantenimiento y evaluación del sistema de remuneración a que se refiere el artículo 24 Bis 1 de la presente Ley, para lo cual tendrá las funciones siguientes:
+
 I. Proponer para aprobación del consejo de administración las políticas y procedimientos de remuneración, así como las eventuales modificaciones que se realicen a los mismos;
-II. Informar al consejo de administración sobre el funcionamiento del sistema de remuneración, y III. Las demás que determine la Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general.
+
+II. Informar al consejo de administración sobre el funcionamiento del sistema de remuneración, y
+
+III. Las demás que determine la Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general.
 La Comisión Nacional Bancaria y de Valores señalará mediante disposiciones de carácter general, la forma en que deberá integrarse, reunirse y funcionar el comité de remuneraciones. En estas disposiciones, la referida Comisión podrá establecer los casos y condiciones en los que el comité de riesgos de la institución de crédito podrá llevar a cabo las funciones del comité de remuneraciones.
 Asimismo, la Comisión Nacional Bancaria y de Valores, de acuerdo a los criterios que determine en las disposiciones de carácter general a que se refiere este artículo, podrá exceptuar a las instituciones de banca múltiple de contar con un comité de remuneraciones.
 Artículo adicionado DOF 10-01-2014
@@ -332,7 +468,13 @@ Artículo adicionado DOF 10-01-2014
 .- La Comisión Nacional Bancaria y de Valores, con acuerdo de su Junta de Gobierno, podrá en todo tiempo determinar que se proceda a la remoción de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes, delegados fiduciarios y funcionarios que puedan obligar con su firma a la institución, así como suspender de tres meses hasta cinco años a las personas antes mencionadas, cuando considere que no cuenten con calidad técnica, honorabilidad, historial crediticio satisfactorio para el desempeño de sus funciones, no reúnan los requisitos al efecto establecidos o incurran en infracciones graves o reiteradas a la presente Ley o a las disposiciones de carácter general que de ella deriven.
 Párrafo reformado DOF 10-01-2014 En los dos últimos supuestos, la propia Comisión Nacional Bancaria y de Valores podrá además, inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por el mismo periodo de tres meses hasta cinco años, sin perjuicio de las sanciones que conforme a éste u otros ordenamientos legales fueren aplicables. Antes de dictar la resolución correspondiente, la citada Comisión deberá escuchar al interesado y a la institución de banca múltiple de que se trate.
 La propia Comisión podrá, con acuerdo de su Junta de Gobierno, ordenar la remoción de los auditores externos independientes de las instituciones de banca múltiple, así como suspender o inhabilitar a dichas personas por el periodo señalado en el párrafo anterior, cuando incurran de manera grave o reiterada en infracciones a esta Ley o disposiciones de carácter general que de la misma emanen, o bien, proporcionen dictámenes u opiniones que contengan información falsa, con independencia de las sanciones a las que pudieran hacerse acreedores.
-Párrafo reformado DOF 10-01-2014 Para los efectos de este artículo se entenderá por: a) Suspensión, a la interrupción temporal en el desempeño de las funciones que el infractor tuviere dentro de la entidad financiera en el momento en que se haya cometido o se detecte la infracción; pudiendo realizar funciones distintas a aquellas que dieron origen a la sanción, siempre y cuando no se encuentren relacionados directa o indirectamente con el cargo o actividad que dio origen a la suspensión. b) Remoción, a la separación del infractor del empleo, cargo o comisión que tuviere en la entidad financiera al momento en que se haya cometido o se detecte la infracción; c) Inhabilitación, al impedimento temporal en el ejercicio de un empleo, cargo o comisión dentro del sistema financiero mexicano.
+Párrafo reformado DOF 10-01-2014 Para los efectos de este artículo se entenderá por:
+
+a) Suspensión, a la interrupción temporal en el desempeño de las funciones que el infractor tuviere dentro de la entidad financiera en el momento en que se haya cometido o se detecte la infracción; pudiendo realizar funciones distintas a aquellas que dieron origen a la sanción, siempre y cuando no se encuentren relacionados directa o indirectamente con el cargo o actividad que dio origen a la suspensión.
+
+b) Remoción, a la separación del infractor del empleo, cargo o comisión que tuviere en la entidad financiera al momento en que se haya cometido o se detecte la infracción;
+
+c) Inhabilitación, al impedimento temporal en el ejercicio de un empleo, cargo o comisión dentro del sistema financiero mexicano.
 Artículo reformado DOF 04-06-2001, 01-02-2008, 06-02-2008
 
 ### Artículo 26
@@ -341,12 +483,18 @@ Artículo reformado DOF 09-06-1992, 15-02-1995, 19-01-1999
 
 ### Artículo 27
 .- Para la fusión de dos o más instituciones de banca múltiple, o de cualquier sociedad o entidad financiera con una institución de banca múltiple, se requerirá autorización previa de la Comisión Nacional Bancaria y de Valores, con aprobación de su Junta de Gobierno, previa opinión de la Comisión Federal de Competencia y opinión favorable del Banco de México, en el ámbito de sus respectivas atribuciones, y se efectuará de acuerdo con las bases siguientes:
+
 I. Las sociedades respectivas presentarán a la Comisión Nacional Bancaria y de Valores los proyectos de los acuerdos de las asambleas de accionistas relativos a la fusión, del convenio de fusión, y de las modificaciones que correspondería realizar a los estatutos de las propias sociedades y al convenio de responsabilidades a que se refiere la Ley para Regular las Agrupaciones Financieras; el plan de fusión de dichas sociedades, con indicación de las etapas en que deberá llevarse a cabo; los estados contables que presenten la situación de las sociedades y que servirán de base para la asamblea que autorice la fusión; los estados financieros proyectados de la sociedad resultante de la fusión y la información a que se refieren las fracciones I, II, III y IV del artículo 10 de esta Ley, así como la demás documentación e información relacionada que la Comisión Nacional Bancaria y de Valores requiera para el efecto;
+
 II. La autorización a que se refiere este artículo, así como el instrumento público en el que consten los acuerdos y el convenio de fusión, se inscribirán en el Registro Público de Comercio.
 La institución de banca múltiple que subsista quedará obligada a continuar con los trámites de la fusión y asumirá las obligaciones de la fusionada desde el momento en que la fusión haya sido acordada, siempre y cuando dicho acto haya sido autorizado en los términos del presente artículo.
 La fusión surtirá efectos frente a terceros cuando se hayan inscrito la autorización y el instrumento público en el que consten los acuerdos de fusión ante el Registro Público de Comercio;
+
 III. Una vez hecha la inscripción a que se refiere la fracción II de este artículo, los acuerdos de fusión adoptados por las respectivas asambleas de accionistas se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tengan su domicilio las sociedades;
-IV. La autorización que otorgue la Comisión Nacional Bancaria y de Valores para la fusión de una institución de banca múltiple como fusionada, dejará sin efectos la autorización otorgada a ésta para organizarse y operar como tal, sin que, para ello, resulte necesaria la emisión de una declaratoria expresa por parte de la autoridad que la haya otorgado, y V. Durante los noventa días siguientes a partir de la fecha de la publicación a que se refiere la fracción IV de este artículo, los acreedores de cualquiera de las sociedades, incluso de las demás entidades financieras del o de los grupos financieros a los que pertenezcan las sociedades objeto de la fusión, podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que esta oposición suspenda la fusión.
+
+IV. La autorización que otorgue la Comisión Nacional Bancaria y de Valores para la fusión de una institución de banca múltiple como fusionada, dejará sin efectos la autorización otorgada a ésta para organizarse y operar como tal, sin que, para ello, resulte necesaria la emisión de una declaratoria expresa por parte de la autoridad que la haya otorgado, y
+
+V. Durante los noventa días siguientes a partir de la fecha de la publicación a que se refiere la fracción IV de este artículo, los acreedores de cualquiera de las sociedades, incluso de las demás entidades financieras del o de los grupos financieros a los que pertenezcan las sociedades objeto de la fusión, podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que esta oposición suspenda la fusión.
 La fusión de una institución de banca múltiple que pertenezca a un grupo financiero, sea como fusionante o fusionada, se sujetará a lo dispuesto por este artículo y no le será aplicable lo previsto en el
 
 ### artículo 10
@@ -378,7 +526,10 @@ Artículo adicionado DOF 06-07-2006
 
 ### Artículo 27
 Bis 3.- Durante la operación de la institución de banca múltiple organizada y operada por el Instituto para la Protección al Ahorro Bancario de acuerdo con lo previsto en la presente Sección, se podrán realizar los siguientes actos:
-I. Transmitir las acciones representativas del capital social de la institución de que se trate a otra institución de banca múltiple autorizada o a una sociedad controladora de un grupo financiero al que pertenezca una institución de banca múltiple, en cuyo caso deberán fusionarse ambas sociedades previa autorización de la Comisión Nacional Bancaria y de Valores en los términos del artículo 27 de esta Ley, o Fracción reformada DOF 01-02-2008, 10-01-2014 II. Transferir los activos y pasivos a otra u otras instituciones de banca múltiple autorizadas para organizarse y operar con tal carácter o bien, transferir los activos a cualquier persona física o moral que esté en posibilidad legal de adquirirlos, conforme a lo señalado en el artículo 194 de esta Ley.
+
+I. Transmitir las acciones representativas del capital social de la institución de que se trate a otra institución de banca múltiple autorizada o a una sociedad controladora de un grupo financiero al que pertenezca una institución de banca múltiple, en cuyo caso deberán fusionarse ambas sociedades previa autorización de la Comisión Nacional Bancaria y de Valores en los términos del artículo 27 de esta Ley, o Fracción reformada DOF 01-02-2008, 10-01-2014
+
+II. Transferir los activos y pasivos a otra u otras instituciones de banca múltiple autorizadas para organizarse y operar con tal carácter o bien, transferir los activos a cualquier persona física o moral que esté en posibilidad legal de adquirirlos, conforme a lo señalado en el artículo 194 de esta Ley.
 Fracción reformada DOF 10-01-2014 El Instituto para la Protección al Ahorro Bancario garantizará el importe íntegro de todas las obligaciones a cargo de la institución de banca múltiple organizada y operada por el propio Instituto y, en adición a esto, éste podrá proporcionarle apoyos financieros a aquélla mediante el otorgamiento de créditos. El Instituto para la Protección al Ahorro Bancario y la institución de que se trate podrán pactar las condiciones de los créditos que el propio Instituto otorgue en términos de este artículo, por lo que éstos no estarán sujetos a lo dispuesto por el Apartado C de la Sección Primera del Capítulo II del Título Séptimo de esta Ley.
 Párrafo reformado DOF 10-01-2014 Artículo adicionado DOF 06-07-2006
 
@@ -402,16 +553,40 @@ Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014 SECCIÓN TERCERA D
 
 ### Artículo 28
 .- La Comisión Nacional Bancaria y de Valores, con aprobación de su Junta de Gobierno, después de escuchar a la institución de banca múltiple afectada, así como la opinión del Banco de México y del Instituto para la Protección al Ahorro Bancario, podrá declarar la revocación de la autorización que le haya otorgado a aquélla para organizarse y operar con tal carácter, en los casos siguientes:
-Párrafo reformado DOF 01-02-2008 I. Si no inicia sus operaciones dentro del plazo de treinta días a partir de la fecha en que se notifique la autorización a que se refiere el artículo 46 Bis de esta Ley;
-Fracción reformada DOF 01-02-2008 II. Si la asamblea general de accionistas de la institución de banca múltiple de que se trate, mediante decisión adoptada en sesión extraordinaria, resuelve solicitarla;
-Fracción reformada DOF 01-02-2008, 10-01-2014 III. Si la institución de banca múltiple de que se trate se disuelve y entra en estado de liquidación, en términos de las disposiciones jurídicas aplicables;
-Fracción reformada DOF 10-01-2014 IV. Si la institución de banca múltiple de que se trate no cumple cualquiera de las medidas correctivas mínimas a que se refiere el artículo 122 de esta Ley; no cumple con más de una medida correctiva especial adicional a que se refiere dicho artículo o bien, incumple de manera reiterada una medida correctiva especial adicional;
-Fracción reformada DOF 10-01-2014 V. Si la institución de banca múltiple de que se trate no cumple con el índice de capitalización mínimo requerido conforme a lo dispuesto por el artículo 50 de esta Ley y las disposiciones a que dicho precepto se refiere;
-Fracción reformada DOF 10-01-2014 VI. Si la institución de banca múltiple de que se trate se ubica en cualquiera de los supuestos de incumplimiento que se mencionan a continuación: a) Si, por un monto en moneda nacional superior al equivalente a veinte millones de unidades de inversión: i) No paga créditos o préstamos que le haya otorgado otra institución de crédito, una entidad financiera del exterior o el Banco de México, o ii) No liquida el principal o intereses de valores que haya emitido y que se encuentren depositados en una institución para el depósito de valores. b) Cuando, en un plazo de dos días hábiles o más y por un monto en moneda nacional superior al equivalente a dos millones de unidades de inversión: i) No liquide a uno o más participantes los saldos que resulten a su cargo de cualquier proceso de compensación que se lleve a cabo a través de una cámara de compensación o contraparte central, o no pague tres o más cheques que en su conjunto alcancen el monto citado en el primer párrafo de este inciso, que hayan sido excluidos de una cámara de compensación por causas imputables a la institución librada en términos de las disposiciones aplicables. Para estos efectos, se considerará como cámara de compensación a la entidad central o mecanismo de procesamiento centralizado, por medio del cual se intercambian instrucciones de pago u otras obligaciones financieras, que no se encuentre regulada por la Ley de Sistemas de Pagos, o ii) No pague en las ventanillas de dos o más de sus sucursales los retiros de depósitos bancarios de dinero que efectúen cien o más de sus clientes y que en su conjunto alcancen el monto citado en el primer párrafo de este inciso. Al efecto, cualquier depositante podrá informar a la Comisión Nacional Bancaria y de Valores de este hecho, para que ésta, de considerarlo procedente, realice visitas de inspección en las sucursales de la institución, a fin de verificar si se encuentra en tal supuesto.
+Párrafo reformado DOF 01-02-2008
+
+I. Si no inicia sus operaciones dentro del plazo de treinta días a partir de la fecha en que se notifique la autorización a que se refiere el artículo 46 Bis de esta Ley;
+Fracción reformada DOF 01-02-2008
+
+II. Si la asamblea general de accionistas de la institución de banca múltiple de que se trate, mediante decisión adoptada en sesión extraordinaria, resuelve solicitarla;
+Fracción reformada DOF 01-02-2008, 10-01-2014
+
+III. Si la institución de banca múltiple de que se trate se disuelve y entra en estado de liquidación, en términos de las disposiciones jurídicas aplicables;
+Fracción reformada DOF 10-01-2014
+
+IV. Si la institución de banca múltiple de que se trate no cumple cualquiera de las medidas correctivas mínimas a que se refiere el artículo 122 de esta Ley; no cumple con más de una medida correctiva especial adicional a que se refiere dicho artículo o bien, incumple de manera reiterada una medida correctiva especial adicional;
+Fracción reformada DOF 10-01-2014
+
+V. Si la institución de banca múltiple de que se trate no cumple con el índice de capitalización mínimo requerido conforme a lo dispuesto por el artículo 50 de esta Ley y las disposiciones a que dicho precepto se refiere;
+Fracción reformada DOF 10-01-2014
+
+VI. Si la institución de banca múltiple de que se trate se ubica en cualquiera de los supuestos de incumplimiento que se mencionan a continuación:
+
+a) Si, por un monto en moneda nacional superior al equivalente a veinte millones de unidades de inversión:
+
+i) No paga créditos o préstamos que le haya otorgado otra institución de crédito, una entidad financiera del exterior o el Banco de México, o ii) No liquida el principal o intereses de valores que haya emitido y que se encuentren depositados en una institución para el depósito de valores.
+
+b) Cuando, en un plazo de dos días hábiles o más y por un monto en moneda nacional superior al equivalente a dos millones de unidades de inversión:
+
+i) No liquide a uno o más participantes los saldos que resulten a su cargo de cualquier proceso de compensación que se lleve a cabo a través de una cámara de compensación o contraparte central, o no pague tres o más cheques que en su conjunto alcancen el monto citado en el primer párrafo de este inciso, que hayan sido excluidos de una cámara de compensación por causas imputables a la institución librada en términos de las disposiciones aplicables. Para estos efectos, se considerará como cámara de compensación a la entidad central o mecanismo de procesamiento centralizado, por medio del cual se intercambian instrucciones de pago u otras obligaciones financieras, que no se encuentre regulada por la Ley de Sistemas de Pagos, o ii) No pague en las ventanillas de dos o más de sus sucursales los retiros de depósitos bancarios de dinero que efectúen cien o más de sus clientes y que en su conjunto alcancen el monto citado en el primer párrafo de este inciso. Al efecto, cualquier depositante podrá informar a la Comisión Nacional Bancaria y de Valores de este hecho, para que ésta, de considerarlo procedente, realice visitas de inspección en las sucursales de la institución, a fin de verificar si se encuentra en tal supuesto.
 Lo previsto en la presente fracción no será aplicable cuando la institución de que se trate demuestre ante la Comisión Nacional Bancaria y de Valores que cuenta con los recursos líquidos necesarios para hacer frente a las obligaciones de pago que correspondan, o bien, cuando la obligación de pago respectiva se encuentre sujeta a controversia judicial, a un procedimiento arbitral o a un procedimiento de conciliación ante la autoridad competente.
 Párrafo reformado DOF 01-02-2008 Las cámaras de compensación, las contrapartes centrales, las instituciones para el depósito de valores, el Banco de México, así como cualquier acreedor de la institución, podrán informar a la Comisión Nacional Bancaria y de Valores cuando la institución se ubique en alguno de los supuestos a que se refiere esta fracción.
-Párrafo reformado DOF 01-02-2008 VII. Si la institución reincide en la realización de operaciones prohibidas previstas en el artículo 106 de esta Ley y sancionadas conforme al artículo 108 Bis de la misma, o si se ubica por reincidencia en el supuesto previsto en el inciso b) de la fracción IV del artículo 108 de esta Ley.
-Se considerará que la institución reincide en las infracciones señaladas en el párrafo anterior, cuando habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente, y Fracción adicionada DOF 06-02-2008. Reformada DOF 10-01-2014 VIII. Si los activos de la institución de banca múltiple de que se trate no son suficientes para cubrir sus pasivos de conformidad con lo establecido en el artículo 226 de esta Ley.
+Párrafo reformado DOF 01-02-2008
+
+VII. Si la institución reincide en la realización de operaciones prohibidas previstas en el artículo 106 de esta Ley y sancionadas conforme al artículo 108 Bis de la misma, o si se ubica por reincidencia en el supuesto previsto en el inciso b) de la fracción IV del artículo 108 de esta Ley.
+Se considerará que la institución reincide en las infracciones señaladas en el párrafo anterior, cuando habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente, y Fracción adicionada DOF 06-02-2008. Reformada DOF 10-01-2014
+
+VIII. Si los activos de la institución de banca múltiple de que se trate no son suficientes para cubrir sus pasivos de conformidad con lo establecido en el artículo 226 de esta Ley.
 Fracción adicionada DOF 10-01-2014 La declaración de revocación se publicará en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en territorio nacional, se inscribirá en el Registro Público de Comercio y pondrá en estado de liquidación a la institución, sin necesidad del acuerdo de la asamblea de accionistas, conforme a lo previsto en la Sección Segunda del Capítulo II del Título Séptimo de esta Ley. Contra la declaración de revocación no procederá el recurso de revisión previsto en el artículo 110 de esta Ley.
 Párrafo reformado DOF 01-02-2008, 10-01-2014 La notificación de la revocación de la autorización para organizarse y operar como institución de banca múltiple surtirá sus efectos al día natural siguiente al que se hubiere efectuado conforme a lo dispuesto en el Capítulo III del Título Quinto de esta Ley.
 Párrafo adicionado DOF 10-01-2014 Las instituciones de banca múltiple cuya autorización hubiere sido revocada, se sujetarán a las disposiciones relativas a la liquidación. La Comisión Nacional Bancaria y de Valores deberá hacer del conocimiento del Instituto para la Protección al Ahorro Bancario la declaración de revocación.
@@ -423,8 +598,18 @@ Artículo reformado DOF 19-01-1999, 04-06-2001. Derogado DOF 06-07-2006
 
 ### Artículo 29
 Bis.- Cuando la Comisión Nacional Bancaria y de Valores tenga conocimiento de que una institución de banca múltiple ha incurrido en alguno de los supuestos previstos en el artículo 28 de esta Ley, con excepción de los establecidos en las fracciones II y III de dicho artículo, le notificará dicha situación para que manifieste por escrito lo que a su derecho convenga dentro de los plazos siguientes:
+
 I. Quince días respecto de instituciones que hayan incurrido en las causales de revocación previstas en el artículo 28, fracciones I y VII de la presente Ley;
-II. Siete días tratándose de instituciones que hayan incurrido en las causales de revocación previstas en el artículo 28, fracciones IV y V de esta Ley. Las instituciones que se encuentren en el supuesto de la fracción V antes mencionada podrán, dentro de ese mismo plazo, formular la solicitud a que se refiere el artículo 29 Bis 2 de esta Ley, y III. Tres días respecto de instituciones de banca múltiple que: a) Hayan incurrido en la causal de revocación prevista en el artículo 28, fracción V de esta Ley, cuyo índice de capitalización haya disminuido de ser igual o superior al requerido conforme al artículo 50 de esta Ley, a un nivel igual o inferior al requerimiento mínimo de capital fundamental establecido conforme a dicho artículo, en el período comprendido entre un cálculo y el inmediato siguiente efectuados conforme a las disposiciones aplicables; b) Hayan incurrido en la causal de revocación a que se refiere el artículo 28, fracción VI de esta Ley, o c) Hayan incurrido en la causal de revocación a que se refiere el artículo 28, fracción VIII de esta Ley.
+
+II. Siete días tratándose de instituciones que hayan incurrido en las causales de revocación previstas en el artículo 28, fracciones IV y V de esta Ley. Las instituciones que se encuentren en el supuesto de la fracción V antes mencionada podrán, dentro de ese mismo plazo, formular la solicitud a que se refiere el artículo 29 Bis 2 de esta Ley, y
+
+III. Tres días respecto de instituciones de banca múltiple que:
+
+a) Hayan incurrido en la causal de revocación prevista en el artículo 28, fracción V de esta Ley, cuyo índice de capitalización haya disminuido de ser igual o superior al requerido conforme al artículo 50 de esta Ley, a un nivel igual o inferior al requerimiento mínimo de capital fundamental establecido conforme a dicho artículo, en el período comprendido entre un cálculo y el inmediato siguiente efectuados conforme a las disposiciones aplicables;
+
+b) Hayan incurrido en la causal de revocación a que se refiere el artículo 28, fracción VI de esta Ley, o
+
+c) Hayan incurrido en la causal de revocación a que se refiere el artículo 28, fracción VIII de esta Ley.
 En el supuesto de que una institución de banca múltiple que esté sujeta al régimen de operación condicionada a que se refiere el artículo 29 Bis 2 de esta Ley, se ubique en alguna causal de revocación adicional a la prevista en el artículo 28, fracción V de la presente Ley, contará con un día hábil complementario al plazo que se le hubiere otorgado conforme a la fracción II de este artículo para que manifieste lo que a su derecho convenga y aporte los elementos adicionales que considere relevantes.
 Las instituciones de banca múltiple que se encuentren en el supuesto de causal de revocación prevista en el artículo 28, fracción V de esta Ley, podrán dentro del plazo señalado en la fracción II del presente artículo, reintegrar el capital en la cantidad necesaria para mantener sus operaciones dentro de los límites respectivos en términos de esta Ley. Al efecto, el aumento de capital deberá quedar íntegramente suscrito y pagado en la misma fecha en que se celebre la asamblea de accionistas de conformidad con lo dispuesto por el artículo 29 Bis 1 de esta Ley.
 En caso de que las instituciones de banca múltiple que se encuentren en el supuesto a que se refiere la fracción III, incisos a) y c) de este artículo exhiban, dentro del plazo contemplado en la misma, comunicación formal en la que una entidad financiera haga constar que ha puesto a disposición de la institución de que se trate, de manera incondicional e irrevocable, los recursos necesarios para que el índice de capitalización de la institución se ubique en los niveles legales que corresponda, así como la publicación de la convocatoria de la asamblea general extraordinaria de accionistas de la institución para efectos del aumento de capital correspondiente, se otorgará prórroga de cinco días para que la institución de banca múltiple realice los actos necesarios a fin de reintegrar el capital. La Comisión Nacional Bancaria y de Valores, en las disposiciones de carácter general a que se refiere el artículo 50 de esta Ley, podrá establecer los requisitos que deberá cumplir dicha comunicación, así como los demás medios conforme a los cuales las instituciones podrán solicitar dicha prórroga.
@@ -439,12 +624,20 @@ Artículo adicionado DOF 06-07-2006. Reformado DOF 01-02-2008, 10-01-2014
 
 ### Artículo 29
 Bis 1.- Para efectos de los actos corporativos referidos en los artículos 29 Bis, 29 Bis 2, 129, 152 y 158 de esta Ley, como excepción a lo previsto en la Ley General de Sociedades Mercantiles y en los estatutos sociales de la institución de banca múltiple de que se trate, para la celebración de las asambleas generales de accionistas correspondientes se observará lo siguiente:
-Párrafo reformado DOF 10-01-2014 I. Se deberá realizar y publicar una convocatoria única para asamblea de accionistas en un plazo de dos días que se contará, respecto de los supuestos de los artículos 29 Bis, 29 Bis 2 y 129, a partir de que surta efectos la notificación a que se refiere el primer párrafo del artículo 29 Bis o, para los casos previstos en los artículos 152 y 158 a partir de la fecha en que el administrador cautelar asuma la administración de la institución de crédito de que se trate en términos del
+Párrafo reformado DOF 10-01-2014
+
+I. Se deberá realizar y publicar una convocatoria única para asamblea de accionistas en un plazo de dos días que se contará, respecto de los supuestos de los artículos 29 Bis, 29 Bis 2 y 129, a partir de que surta efectos la notificación a que se refiere el primer párrafo del artículo 29 Bis o, para los casos previstos en los artículos 152 y 158 a partir de la fecha en que el administrador cautelar asuma la administración de la institución de crédito de que se trate en términos del
 
 ### artículo 135
 del presente ordenamiento;
-Fracción reformada DOF 10-01-2014 II. La convocatoria referida en la fracción anterior deberá publicarse en dos de los periódicos de mayor circulación en la ciudad que corresponda a la del domicilio de la institución de banca múltiple, en la que, a su vez, se especificará que la asamblea se celebrará dentro de los cinco días posteriores a la publicación de dicha convocatoria;
-Fracción reformada DOF 10-01-2014 III. Durante el plazo mencionado en la fracción anterior, la información relacionada con el tema a tratar en la asamblea deberá ponerse a disposición de los accionistas, al igual que los formularios a que se refiere el artículo 16 de esta Ley, y IV. La asamblea se considerará legalmente reunida cuando estén representadas, por lo menos, las tres cuartas partes del capital social de la institución de que se trate, y sus resoluciones serán válidas con el voto favorable de los accionistas que en conjunto representen el cincuenta y uno por ciento de dicho capital.
+Fracción reformada DOF 10-01-2014
+
+II. La convocatoria referida en la fracción anterior deberá publicarse en dos de los periódicos de mayor circulación en la ciudad que corresponda a la del domicilio de la institución de banca múltiple, en la que, a su vez, se especificará que la asamblea se celebrará dentro de los cinco días posteriores a la publicación de dicha convocatoria;
+Fracción reformada DOF 10-01-2014
+
+III. Durante el plazo mencionado en la fracción anterior, la información relacionada con el tema a tratar en la asamblea deberá ponerse a disposición de los accionistas, al igual que los formularios a que se refiere el artículo 16 de esta Ley, y
+
+IV. La asamblea se considerará legalmente reunida cuando estén representadas, por lo menos, las tres cuartas partes del capital social de la institución de que se trate, y sus resoluciones serán válidas con el voto favorable de los accionistas que en conjunto representen el cincuenta y uno por ciento de dicho capital.
 En protección de los intereses del público ahorrador, la impugnación de la convocatoria de las asambleas de accionistas a que se refiere el presente artículo, así como de las resoluciones adoptadas por éstas, sólo dará lugar, en su caso, al pago de daños y perjuicios, sin que dicha impugnación produzca la nulidad de los actos.
 Artículo adicionado DOF 06-07-2006
 
@@ -454,7 +647,11 @@ Del Régimen de Operación Condicionada Sección adicionada DOF 06-07-2006
 ### Artículo 29
 Bis 2.- Respecto de aquella institución que incurra en la causal de revocación a que se refiere la fracción V del artículo 28 de la presente Ley, la Comisión Nacional Bancaria y de Valores, una vez que haya escuchado la opinión del Banco de México y del Instituto para la Protección al Ahorro Bancario, podrá abstenerse de revocar la autorización respectiva, con el propósito de que dicha institución continúe operando en términos de lo previsto en la presente Sección.
 Párrafo reformado DOF 01-02-2008 Lo dispuesto en el párrafo anterior procederá siempre y cuando la institución de que se trate, previa aprobación de su asamblea de accionistas celebrada de conformidad con lo dispuesto por el artículo 29 Bis 1 de esta Ley, lo solicite por escrito a la Comisión Nacional Bancaria y de Valores, y acredite ante ésta, dentro del plazo a que se refiere el artículo 29 Bis de este mismo ordenamiento, la ejecución de los siguientes actos aprobados por dicha asamblea:
-Párrafo reformado DOF 01-02-2008 I. La afectación de acciones que representen cuando menos el setenta y cinco por ciento del capital social de esa misma institución a un fideicomiso irrevocable que se constituya conforme a lo previsto en el artículo 29 Bis 4 de esta Ley, y II. La presentación ante la Comisión Nacional Bancaria y de Valores del plan de restauración de capital a que se refiere el inciso b) de la fracción I del artículo 122 de esta Ley.
+Párrafo reformado DOF 01-02-2008
+
+I. La afectación de acciones que representen cuando menos el setenta y cinco por ciento del capital social de esa misma institución a un fideicomiso irrevocable que se constituya conforme a lo previsto en el artículo 29 Bis 4 de esta Ley, y
+
+II. La presentación ante la Comisión Nacional Bancaria y de Valores del plan de restauración de capital a que se refiere el inciso b) de la fracción I del artículo 122 de esta Ley.
 Fracción reformada DOF 10-01-2014 Para efectos de lo señalado en la fracción I de este artículo, la asamblea de accionistas, en la misma sesión a que se refiere el segundo párrafo de este precepto, deberá instruir al director general de la institución o al apoderado que se designe al efecto en dicha sesión para que, a nombre y por cuenta de los accionistas, lleve a cabo los actos necesarios para que se afecten las acciones en el fideicomiso citado en esa misma fracción.
 En la misma sesión a que se refiere el segundo párrafo de este artículo, la asamblea de accionistas deberá otorgar las instrucciones necesarias para que se constituya el fideicomiso a que se refiere el
 
@@ -469,17 +666,40 @@ Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014
 
 ### Artículo 29
 Bis 4.- El fideicomiso que, en términos de la fracción I del artículo 29 Bis 2 de esta Ley, acuerde crear la asamblea de accionistas de una institución de banca múltiple se constituirá en una institución de crédito distinta de la afectada que no forme parte del mismo grupo financiero al que, en su caso, aquélla pertenezca y, al efecto, el contrato respectivo deberá prever lo siguiente:
+
 I. Que, en protección de los intereses del público ahorrador, el fideicomiso tendrá por objeto la afectación fiduciaria de las acciones que representen, cuando menos, el setenta y cinco por ciento del capital de la institución de banca múltiple, con la finalidad de que ésta se mantenga en operación bajo el régimen de operación condicionada a que se refiere la presente Sección y que, en caso de que se actualice cualquiera de los supuestos previstos en la fracción V del presente artículo, el Instituto para la Protección al Ahorro Bancario ejercerá los derechos patrimoniales y corporativos de las acciones afectas al fideicomiso;
+
 II. La afectación al fideicomiso de las acciones señaladas en la fracción anterior, a través de su director general o del apoderado designado al efecto, en ejecución del acuerdo de la asamblea de accionistas a que se refiere el artículo 29 Bis 2 de esta Ley;
+
 III. La mención de la instrucción de la asamblea a que se refiere el artículo 29 Bis 2 al director general de la institución o al apoderado que se designe en la misma, para que, a nombre y por cuenta de los accionistas, solicite a la institución para el depósito de valores en que se encuentren depositadas las acciones representativas del capital social de la institución de que se trate, el traspaso de sus acciones afectas al fideicomiso a una cuenta abierta a nombre de la fiduciaria a que se refiere este artículo.
 En protección del interés público y de los intereses de las personas que realicen con la institución de crédito de que se trate cualquiera de las operaciones que den origen a las obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario, en el evento de que el director general o apoderado designado al efecto no efectúe el traspaso mencionado en el párrafo anterior, la institución para el depósito de valores respectiva deberá realizar dicho traspaso, para lo cual bastará la solicitud por escrito por parte de la fiduciaria, en ejecución de la instrucción formulada por la asamblea de accionistas;
+
 IV. La designación de los accionistas como fideicomisarios en primer lugar, a quienes les corresponderá el ejercicio de los derechos corporativos y patrimoniales derivados de las acciones representativas del capital social afectas al fideicomiso, en tanto no se cumpla lo señalado en la fracción siguiente;
-V. La designación del Instituto para la Protección al Ahorro Bancario como fideicomisario en segundo lugar, al que corresponderá instruir a la fiduciaria sobre el ejercicio de los derechos corporativos y patrimoniales derivados de las acciones representativas del capital social de la institución de banca múltiple afectas al fideicomiso, cuando se actualice cualquiera de los supuestos siguientes: a) La Junta de Gobierno de la Comisión Nacional Bancaria y de Valores no apruebe el plan de restauración de capital que la institución de banca múltiple respectiva presente en términos del inciso b) de la fracción I del artículo 122 de esta Ley, o la misma Junta de Gobierno determine que esa institución no ha cumplido con dicho plan;
-Inciso reformado DOF 10-01-2014 b) A pesar de que la institución de banca múltiple respectiva se haya acogido al régimen de operación condicionada señalada en la presente Sección, la Comisión Nacional Bancaria y de Valores informe a la fiduciaria que dicha institución presenta un capital fundamental igual o menor al mínimo requerido conforme a las disposiciones a que se refiere el artículo 50 de esta Ley, o Inciso reformado DOF 10-01-2014 c) La institución de banca múltiple respectiva incurra en alguno de los supuestos previstos en las fracciones IV, VI y VIII del artículo 28 de esta Ley, en cuyo caso la Comisión Nacional Bancaria y de Valores procederá conforme a lo dispuesto por el artículo 29 Bis de esta Ley, con el fin de que dicha institución manifieste lo que a su derecho convenga y presente los elementos que, a su juicio, acrediten que se han subsanado los hechos u omisiones señalados en la notificación respectiva;
-Inciso reformado DOF 01-02-2008, 10-01-2014 VI. El acuerdo de la asamblea de accionistas de la institución de banca múltiple en términos de lo dispuesto por el artículo 29 Bis 2, que contenga la instrucción a la fiduciaria para que enajene las acciones afectas al fideicomiso en el caso y bajo las condiciones a que se refiere el artículo 154 de esta Ley;
-Fracción reformada DOF 10-01-2014 VII. Las causas de extinción del fideicomiso que a continuación se señalan: a) La institución de banca múltiple reestablezca y mantenga durante tres meses consecutivos su índice de capitalización conforme al mínimo requerido por las disposiciones a que se refiere el artículo 50 de esta Ley, como consecuencia del cumplimiento del plan de restauración de capital que haya presentado al efecto.
-En el supuesto a que se refiere este inciso, la Comisión Nacional Bancaria y de Valores deberá informar a la fiduciaria para que ésta, a su vez, lo haga del conocimiento de la institución para el depósito de valores que corresponda, a fin de que se efectúen los traspasos a las cuentas respectivas de los accionistas de que se trate; b) En los casos en que, una vez ejecutado el método de resolución que determine la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario para la institución de banca múltiple respectiva, en términos de lo previsto en esta Ley, las acciones afectas al fideicomiso sean canceladas o bien, se entregue a los accionistas el producto de la venta de las acciones o el remanente del haber social, si lo hubiere, y c) La institución de banca múltiple respectiva restablezca su índice de capitalización conforme al mínimo requerido por las disposiciones a que se refiere el artículo 50 de esta Ley, como consecuencia del cumplimiento del plan de restauración de capital que presente al efecto y, antes de cumplirse el plazo a que se refiere el inciso a) de esta fracción, solicite la revocación de la autorización para organizarse y operar como institución de banca múltiple en términos de la fracción II del artículo 28 de esta Ley, siempre y cuando no se ubique en las causales a que se refieren las fracciones IV o VI del propio artículo 28.
-Inciso reformado DOF 10-01-2014 VIII. La instrucción a la institución fiduciaria para que, en su caso, entregue a los accionistas el remanente del haber social conforme a lo previsto en el inciso b) de la fracción anterior.
+
+V. La designación del Instituto para la Protección al Ahorro Bancario como fideicomisario en segundo lugar, al que corresponderá instruir a la fiduciaria sobre el ejercicio de los derechos corporativos y patrimoniales derivados de las acciones representativas del capital social de la institución de banca múltiple afectas al fideicomiso, cuando se actualice cualquiera de los supuestos siguientes:
+
+a) La Junta de Gobierno de la Comisión Nacional Bancaria y de Valores no apruebe el plan de restauración de capital que la institución de banca múltiple respectiva presente en términos del inciso b) de la fracción I del artículo 122 de esta Ley, o la misma Junta de Gobierno determine que esa institución no ha cumplido con dicho plan;
+Inciso reformado DOF 10-01-2014
+
+b) A pesar de que la institución de banca múltiple respectiva se haya acogido al régimen de operación condicionada señalada en la presente Sección, la Comisión Nacional Bancaria y de Valores informe a la fiduciaria que dicha institución presenta un capital fundamental igual o menor al mínimo requerido conforme a las disposiciones a que se refiere el artículo 50 de esta Ley, o Inciso reformado DOF 10-01-2014
+
+c) La institución de banca múltiple respectiva incurra en alguno de los supuestos previstos en las fracciones IV, VI y VIII del artículo 28 de esta Ley, en cuyo caso la Comisión Nacional Bancaria y de Valores procederá conforme a lo dispuesto por el artículo 29 Bis de esta Ley, con el fin de que dicha institución manifieste lo que a su derecho convenga y presente los elementos que, a su juicio, acrediten que se han subsanado los hechos u omisiones señalados en la notificación respectiva;
+Inciso reformado DOF 01-02-2008, 10-01-2014
+
+VI. El acuerdo de la asamblea de accionistas de la institución de banca múltiple en términos de lo dispuesto por el artículo 29 Bis 2, que contenga la instrucción a la fiduciaria para que enajene las acciones afectas al fideicomiso en el caso y bajo las condiciones a que se refiere el artículo 154 de esta Ley;
+Fracción reformada DOF 10-01-2014
+
+VII. Las causas de extinción del fideicomiso que a continuación se señalan:
+
+a) La institución de banca múltiple reestablezca y mantenga durante tres meses consecutivos su índice de capitalización conforme al mínimo requerido por las disposiciones a que se refiere el artículo 50 de esta Ley, como consecuencia del cumplimiento del plan de restauración de capital que haya presentado al efecto.
+En el supuesto a que se refiere este inciso, la Comisión Nacional Bancaria y de Valores deberá informar a la fiduciaria para que ésta, a su vez, lo haga del conocimiento de la institución para el depósito de valores que corresponda, a fin de que se efectúen los traspasos a las cuentas respectivas de los accionistas de que se trate;
+
+b) En los casos en que, una vez ejecutado el método de resolución que determine la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario para la institución de banca múltiple respectiva, en términos de lo previsto en esta Ley, las acciones afectas al fideicomiso sean canceladas o bien, se entregue a los accionistas el producto de la venta de las acciones o el remanente del haber social, si lo hubiere, y
+
+c) La institución de banca múltiple respectiva restablezca su índice de capitalización conforme al mínimo requerido por las disposiciones a que se refiere el artículo 50 de esta Ley, como consecuencia del cumplimiento del plan de restauración de capital que presente al efecto y, antes de cumplirse el plazo a que se refiere el inciso a) de esta fracción, solicite la revocación de la autorización para organizarse y operar como institución de banca múltiple en términos de la fracción II del artículo 28 de esta Ley, siempre y cuando no se ubique en las causales a que se refieren las fracciones IV o VI del propio artículo 28.
+Inciso reformado DOF 10-01-2014
+
+VIII. La instrucción a la institución fiduciaria para que, en su caso, entregue a los accionistas el remanente del haber social conforme a lo previsto en el inciso b) de la fracción anterior.
 La institución que actúe como fiduciaria en fideicomisos de los regulados en este artículo deberá sujetarse a las reglas de carácter general que, para tales efectos, emita la Comisión Nacional Bancaria y de Valores.
 En beneficio del interés público, en los estatutos sociales y en los títulos representativos del capital social de las instituciones de banca múltiple, deberán preverse expresamente las facultades de la asamblea de accionistas que se celebre en términos del artículo 29 Bis 1 de esta Ley, para acordar la constitución del fideicomiso previsto en este artículo; afectar por cuenta y orden de los accionistas las acciones representativas del capital social; acordar, desde la fecha de la celebración de la asamblea, la instrucción a la fiduciaria para la venta de las acciones en términos de lo dispuesto por la fracción VI anterior, y llevar a cabo todos los demás actos señalados en este artículo.
 Artículo adicionado DOF 06-07-2006
@@ -496,7 +716,10 @@ Párrafo reformado DOF 01-02-2008 Artículo adicionado DOF 06-07-2006 SECCIÓN Q
 
 ### Artículo 29
 Bis 6.- En los términos de esta Sección, se reunirá el Comité de Estabilidad Bancaria que tendrá por objeto determinar, previamente a que se resuelva sobre la revocación de la autorización otorgada a una institución de banca múltiple para organizarse y operar con tal carácter, por las causales a que se refieren las fracciones IV, V, VI o VIII del artículo 28 de esta Ley, si en el evento en que dicha institución incumpliera las obligaciones que tiene a su cargo, ello pudiera:
-I. Generar, directa o indirectamente, efectos negativos serios en otra u otras instituciones de banca múltiple u otras entidades financieras, de manera que peligre su estabilidad o solvencia, siempre que ello pudiera afectar la estabilidad o solvencia del sistema financiero, o II. Poner en riesgo el funcionamiento de los sistemas de pagos necesarios para el desarrollo de la actividad económica.
+
+I. Generar, directa o indirectamente, efectos negativos serios en otra u otras instituciones de banca múltiple u otras entidades financieras, de manera que peligre su estabilidad o solvencia, siempre que ello pudiera afectar la estabilidad o solvencia del sistema financiero, o
+
+II. Poner en riesgo el funcionamiento de los sistemas de pagos necesarios para el desarrollo de la actividad económica.
 En caso de que el Comité de Estabilidad Bancaria resuelva que la institución de banca múltiple de que se trate podría actualizar alguno de los supuestos previstos en las fracciones anteriores, el propio Comité determinará un porcentaje general del saldo de todas las operaciones a cargo de dicha institución que no sean consideradas como obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario, así como de aquellas otras consideradas como obligaciones garantizadas que rebasen el límite señalado en el artículo 11 de esa misma Ley, cuyo pago pudiera evitar que se actualicen los supuestos mencionados. Para efectos de lo dispuesto en este precepto, no se considerarán aquellas operaciones a cargo de la institución de que se trate, a que hacen referencia las fracciones II, IV y V del artículo 10 de la Ley de Protección al Ahorro Bancario, ni los pasivos que deriven a su cargo por la emisión de obligaciones subordinadas. Las operaciones que, en su caso, se lleven a cabo conforme a lo dispuesto en este párrafo y en el artículo 148, fracción II de esta Ley, deberán sujetarse a lo previsto en los artículos 45 y 46 de la Ley de Protección al Ahorro Bancario. No obstante lo anterior, cuando con posterioridad a la determinación del referido porcentaje se presenten circunstancias por las que sea necesario aumentar el porcentaje inicialmente determinado, el Comité podrá reunirse nuevamente para tales efectos.
 Cuando el Comité de Estabilidad Bancaria hubiere determinado que la institución de banca múltiple respectiva, no actualiza alguno de los supuestos establecidos en las fracciones I y II de este artículo, y con posterioridad alguna de las autoridades a que se refiere el artículo 29 Bis 7 de esta Ley tuviere conocimiento de que existen circunstancias por las que se podrían actualizar dichos supuestos, podrá reunirse nuevamente en términos de lo dispuesto en el mencionado artículo.
 Asimismo, el referido Comité podrá reunirse en todo momento cuando cualquiera de sus miembros tenga conocimiento de que el deterioro financiero que sufra una institución de banca múltiple pudiera originar la actualización de alguno de los supuestos a que se refieren las fracciones IV, V, VI o VIII del
@@ -520,9 +743,14 @@ Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014
 
 ### Artículo 29
 Bis 8.- El Comité de Estabilidad Bancaria a que se refiere el artículo 29 Bis 6 de esta Ley estará integrado por:
+
 I. La Secretaría de Hacienda y Crédito Público, representada por su titular y el Subsecretario de Hacienda y Crédito Público;
+
 II. El Banco de México, representado por el Gobernador y un Subgobernador que el propio Gobernador designe para tales propósitos;
-III. La Comisión Nacional Bancaria y de Valores, representada por su Presidente y el Vicepresidente de dicha Comisión competente para la supervisión de la institución de que se trate, y IV. El Instituto para la Protección al Ahorro Bancario, representado por su Secretario Ejecutivo y un vocal de la Junta de Gobierno del referido Instituto, que dicho órgano colegiado determine de entre aquellos a que se refiere el artículo 76 de la Ley de Protección al Ahorro Bancario.
+
+III. La Comisión Nacional Bancaria y de Valores, representada por su Presidente y el Vicepresidente de dicha Comisión competente para la supervisión de la institución de que se trate, y
+
+IV. El Instituto para la Protección al Ahorro Bancario, representado por su Secretario Ejecutivo y un vocal de la Junta de Gobierno del referido Instituto, que dicho órgano colegiado determine de entre aquellos a que se refiere el artículo 76 de la Ley de Protección al Ahorro Bancario.
 Los integrantes del Comité de Estabilidad Bancaria no tendrán suplentes.
 Las sesiones del Comité de Estabilidad Bancaria serán presididas por el Secretario de Hacienda y Crédito Público y, en su ausencia, por el Subsecretario de Hacienda y Crédito Público.
 El Presidente del Comité de Estabilidad Bancaria nombrará a un secretario de actas, quien deberá ser servidor público de la Secretaría de Hacienda y Crédito Público. El secretario de actas deberá verificar que en las sesiones del Comité de Estabilidad Bancaria se cumpla con el quórum de asistencia previsto en el artículo 29 Bis 9; levantará las actas circunstanciadas de dichas sesiones, las cuales deberán firmarse por todos los miembros del Comité asistentes; proporcionará a dichos miembros la información a que se refiere el artículo 29 Bis 10, y notificará las resoluciones de dicho Comité al Instituto para la Protección al Ahorro Bancario, a más tardar el día hábil siguiente a aquél en que se adopten, para efectos de que dicho Instituto proceda a la determinación del método de resolución correspondiente.
@@ -558,27 +786,45 @@ Artículo adicionado DOF 06-07-2006. Reformado DOF 01-02-2008, 10-01-2014 SECCI�
 
 ### Artículo 29
 Bis 13.- Las garantías sobre acciones representativas del capital social de las instituciones de banca múltiple que el Banco de México requiera para cubrir los créditos que éste, en términos de lo previsto en la Ley del Banco de México, otorgue a dichas instituciones, en desempeño de su función de acreditante de última instancia, deberán constituirse como prenda bursátil, de conformidad con lo siguiente:
+
 I. El director general de la institución de banca múltiple o quien ejerza sus funciones, en la fecha y horarios que, al efecto, indique el Banco de México, deberá solicitar por escrito a la institución para el depósito de valores en que se encuentren depositadas dichas acciones que transfiera el cien por ciento de ellas a la cuenta que designe el Banco de México, quedando por ese solo hecho gravadas en prenda bursátil por ministerio de ley.
 En el evento de que el director general o quien ejerza sus funciones, no realice la solicitud a que se refiere el párrafo anterior, la institución para el depósito de valores respectiva, previo requerimiento por escrito que le presente el Banco de México, deberá proceder en la fecha del requerimiento a realizar la transferencia de dichas acciones a la cuenta que le haya indicado el Banco de México, las cuales quedarán gravadas en prenda bursátil.
+
 II. Para la constitución de esta garantía preferente y de interés público, no será necesaria formalidad adicional alguna, por lo que, no será aplicable lo dispuesto en los artículos 17, 45 G y 45 H de esta Ley.
+
 III. La garantía quedará perfeccionada mediante la entrega jurídica de las acciones que se entenderá realizada al quedar registradas en depósito en la cuenta señalada por el Banco de México, y estará vigente hasta que se cumplan las obligaciones derivadas del crédito, o bien una vez que se constituyan otras garantías que cuenten con la aprobación del Banco de México, y será una excepción a lo previsto en el artículo 63, fracción III de la Ley del Banco de México.
+
 IV. Durante la vigencia de la referida prenda bursátil, el ejercicio de los derechos corporativos y patrimoniales inherentes a las acciones corresponderá a los accionistas. En caso de que la institución de banca múltiple acreditada pretenda celebrar cualquier asamblea de accionistas, deberá dar aviso por escrito al Banco de México, anexando copia de la convocatoria correspondiente y del orden del día, con al menos cinco días hábiles de anticipación a su celebración.
 El Banco de México podrá otorgar por escrito excepciones al plazo mencionado. Cuando la institución de banca múltiple no efectúe dicho aviso en los términos señalados en el párrafo anterior, los acuerdos tomados en la asamblea de accionistas serán nulos y sólo serán convalidados si Banco de México manifiesta su consentimiento por así convenir a sus intereses o a los de la institución de banca múltiple de que se trate.
 El Banco de México estará facultado para asistir a la asamblea de accionistas con voz pero sin voto. No obstante lo anterior, la institución de banca múltiple deberá informar por escrito al Banco de México los acuerdos adoptados en ella el día hábil siguiente a la fecha en que la asamblea haya sido celebrada. Asimismo, la institución deberá enviarle copia del acta respectiva a más tardar el día hábil bancario siguiente a la fecha en la que ésta sea formalizada.
+
 V. En el evento de que se presente algún incumplimiento al contrato de crédito, el Banco de México podrá ejercer los derechos corporativos y patrimoniales inherentes a las acciones o designar a la persona que en representación del Banco de México ejerza dichos derechos en las asambleas de accionistas.
-La ejecución de las acciones otorgadas en prenda bursátil se llevará a cabo a través de venta a) El ejecutor de la garantía será Nacional Financiera, S.N.C., cuando dicha institución no pudiere desempeñar ese cargo, deberá notificarlo al Banco de México a más tardar el día hábil siguiente, a fin de que éste designe a otro ejecutor. b) Una vez que el Banco de México notifique el incumplimiento de la institución de banca múltiple acreditada al ejecutor, éste deberá notificar el día hábil siguiente a dicha institución que llevará a cabo la venta extrajudicial de las acciones otorgadas en garantía, dándole un plazo de tres días hábiles, a fin de que, en su caso, desvirtúe el incumplimiento mostrando evidencia del pago del crédito, de la prórroga del plazo o de la novación de la obligación. c) Transcurrido el plazo previsto en el inciso anterior, el ejecutor procederá a la venta de las acciones en garantía.
+La ejecución de las acciones otorgadas en prenda bursátil se llevará a cabo a través de venta
+
+a) El ejecutor de la garantía será Nacional Financiera, S.N.C., cuando dicha institución no pudiere desempeñar ese cargo, deberá notificarlo al Banco de México a más tardar el día hábil siguiente, a fin de que éste designe a otro ejecutor.
+
+b) Una vez que el Banco de México notifique el incumplimiento de la institución de banca múltiple acreditada al ejecutor, éste deberá notificar el día hábil siguiente a dicha institución que llevará a cabo la venta extrajudicial de las acciones otorgadas en garantía, dándole un plazo de tres días hábiles, a fin de que, en su caso, desvirtúe el incumplimiento mostrando evidencia del pago del crédito, de la prórroga del plazo o de la novación de la obligación.
+
+c) Transcurrido el plazo previsto en el inciso anterior, el ejecutor procederá a la venta de las acciones en garantía.
 En protección de los intereses del público ahorrador, del sistema de pagos y del interés público en general, en los estatutos y en los títulos representativos del capital social de las instituciones de banca múltiple, deberá preverse expresamente lo dispuesto en este artículo, así como el consentimiento irrevocable de los accionistas para otorgar en prenda bursátil las acciones de su propiedad, cuando la institución reciba un crédito por parte del Banco de México en su carácter de acreditante de última instancia.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 29
 Bis 14.- A fin de preservar su estabilidad financiera y evitar el deterioro de su liquidez, las instituciones de banca múltiple que reciban créditos a los que se hace referencia en el artículo anterior, deberán observar, durante la vigencia de los respectivos créditos, las medidas siguientes:
+
 I. Suspender el pago a los accionistas de dividendos provenientes de la institución, así como cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales.
 En caso de que la institución de que se trate pertenezca a un grupo financiero, la medida prevista en esta fracción será aplicable a la sociedad controladora del grupo al que pertenezca;
+
 II. Suspender los programas de recompra de acciones representativas del capital social de la institución de banca múltiple de que se trate y, en caso de pertenecer a un grupo financiero, también los de la sociedad controladora de dicho grupo;
+
 III. Abstenerse de convenir incrementos en los montos vigentes en los créditos otorgados a las personas consideradas como relacionadas en términos del artículo 73 de esta Ley;
+
 IV. Suspender el pago de las compensaciones y bonos extraordinarios adicionales al salario del director general y de los funcionarios de los dos niveles jerárquicos inferiores a éste, así como no otorgar nuevas compensaciones en el futuro para el director general y funcionarios, hasta en tanto la institución de banca múltiple pague el crédito de última instancia otorgado por el Banco de México;
+
 V. Abstenerse de convenir incrementos en los salarios y prestaciones de los funcionarios, exceptuando las revisiones salariales convenidas y respetando en todo momento los derechos laborales adquiridos.
-Lo previsto en la presente fracción también será aplicable respecto de pagos que se realicen a personas morales distintas a la institución de banca múltiple de que se trate, cuando dichas personas morales efectúen los pagos a los funcionarios de la institución, y VI. Las demás medidas que el Banco de México, en su caso, acuerde con la institución acreditada.
+Lo previsto en la presente fracción también será aplicable respecto de pagos que se realicen a personas morales distintas a la institución de banca múltiple de que se trate, cuando dichas personas morales efectúen los pagos a los funcionarios de la institución, y
+
+VI. Las demás medidas que el Banco de México, en su caso, acuerde con la institución acreditada.
 Los actos jurídicos realizados en contravención a lo dispuesto en las fracciones anteriores serán nulos.
 Las instituciones de banca múltiple deberán prever lo relativo a la implementación de las referidas medidas en sus estatutos sociales, obligándose a adoptar las acciones que, en su caso, les resulten aplicables. Adicionalmente, las medidas señaladas en las fracciones IV), V) y VI) deberán incluirlas en los contratos y demás documentación que regulen las condiciones de trabajo.
 Artículo adicionado DOF 10-01-2014
@@ -622,9 +868,17 @@ Las personas que contravengan lo dispuesto en este artículo, perderán en favor
 ### Artículo 35
 .- Los certificados de aportación patrimonial darán a sus titulares el derecho de participar en las utilidades de la institución emisora y, en su caso, en la cuota de liquidación.
 Los certificados de la serie "B" serán de igual valor y conferirán los mismos derechos a sus tenedores, siendo los siguientes:
+
 I. Designar y remover a los comisarios correspondientes a esta serie de certificados;
-Fracción reformada DOF 24-06-2002 II. (Derogada) Fracción derogada DOF 24-06-2002 III. Adquirir en igualdad de condiciones y en proporción al número de sus certificados, los que se emitan en caso de aumento de capital. Este derecho deberá ejercitarse en el plazo que el consejo directivo señale, el que se computará a partir del día en que se publique en el Diario Oficial de la Federación el acuerdo correspondiente de la Secretaría de Hacienda y Crédito Público y que no podrá ser inferior a treinta días;
-IV. Recibir el reembolso de sus certificados a su valor en libros según el último estado financiero aprobado por el consejo directivo y revisado por la Comisión Nacional Bancaria, cuando se reduzca el capital social de la institución en los términos del artículo 38 de esta Ley, y V. Los demás que esta Ley les confiere.
+Fracción reformada DOF 24-06-2002
+
+II. (Derogada) Fracción derogada DOF 24-06-2002
+
+III. Adquirir en igualdad de condiciones y en proporción al número de sus certificados, los que se emitan en caso de aumento de capital. Este derecho deberá ejercitarse en el plazo que el consejo directivo señale, el que se computará a partir del día en que se publique en el Diario Oficial de la Federación el acuerdo correspondiente de la Secretaría de Hacienda y Crédito Público y que no podrá ser inferior a treinta días;
+
+IV. Recibir el reembolso de sus certificados a su valor en libros según el último estado financiero aprobado por el consejo directivo y revisado por la Comisión Nacional Bancaria, cuando se reduzca el capital social de la institución en los términos del artículo 38 de esta Ley, y
+
+V. Los demás que esta Ley les confiere.
 
 ### Artículo 36
 .- Las instituciones de banca de desarrollo llevarán un registro de los certificados de aportación patrimonial de la serie "B", que deberá contener los datos relativos a los tenedores de los certificados y a las transmisiones que se realicen.
@@ -666,38 +920,78 @@ Artículo reformado DOF 24-06-2002. Fe de erratas DOF 08-07-2002. Reformado DOF 
 Asimismo, el consejo fomentará el desarrollo de alternativas para maximizar de forma individual o con otros intermediarios, el acceso a los servicios financieros en beneficio de quienes por sus características y capacidades encuentran un acceso limitado a los mismos.
 Párrafo reformado DOF 10-01-2014 El consejo directivo en representación de la institución, podrá acordar la realización de todas las operaciones inherentes a su objeto y delegar discrecionalmente sus facultades en el director general, así como constituir apoderados y nombrar dentro de su seno delegados para actos o funciones específicos.
 Serán facultades indelegables del consejo:
+
 I. Nombrar y remover, a propuesta del director general, a los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, y a los demás que señale el reglamento orgánico, así como concederles licencias;
-Fracción reformada DOF 01-02-2008 II. Nombrar y remover al secretario y al prosecretario del consejo;
+Fracción reformada DOF 01-02-2008
+
+II. Nombrar y remover al secretario y al prosecretario del consejo;
+
 III. Aprobar el establecimiento, reubicación y clausura de sucursales, agencias y oficinas en el país y en el extranjero;
-Fracción reformada DOF 24-06-2002, 01-02-2008 IV. Acordar la creación de comités de crédito, el de recursos humanos y desarrollo institucional, de administración integral de riesgos, así como los que considere necesarios para el cumplimiento de su objeto;
-Fracción reformada DOF 24-06-2002 V. Determinar las facultades de los distintos órganos y de los servidores públicos de la institución, para el otorgamiento de créditos;
+Fracción reformada DOF 24-06-2002, 01-02-2008
+
+IV. Acordar la creación de comités de crédito, el de recursos humanos y desarrollo institucional, de administración integral de riesgos, así como los que considere necesarios para el cumplimiento de su objeto;
+Fracción reformada DOF 24-06-2002
+
+V. Determinar las facultades de los distintos órganos y de los servidores públicos de la institución, para el otorgamiento de créditos;
+
 VI. Aprobar los estados financieros de la institución para proceder a su publicación. Los estados financieros anuales se aprobarán previo dictamen de los comisarios y deberán estar suscritos por el director general, el responsable de la contabilidad de la institución y el responsable de las funciones de auditoría interna, conforme a su competencia, previo a su aprobación;
-Fracción reformada DOF 01-02-2008 VII. Aprobar en su caso, la constitución de reservas;
+Fracción reformada DOF 01-02-2008
+
+VII. Aprobar en su caso, la constitución de reservas;
 Fracción reformada DOF 24-06-2002 VII bis. Aprobar en su caso, la aplicación de utilidades, así como la forma y términos en que deberá realizarse;
-Fracción adicionada DOF 24-06-2002 VIII. Acordar la propuesta de plazos y fechas para el entero de los aprovechamientos que se causen con motivo de la garantía soberana del Gobierno Federal, así como de requerimientos de capital de la institución, que se presentarán a la Secretaría de Hacienda y Crédito Público;
+Fracción adicionada DOF 24-06-2002
+
+VIII. Acordar la propuesta de plazos y fechas para el entero de los aprovechamientos que se causen con motivo de la garantía soberana del Gobierno Federal, así como de requerimientos de capital de la institución, que se presentarán a la Secretaría de Hacienda y Crédito Público;
 Fracción derogada DOF 01-02-2008. Adicionada DOF 10-01-2014 VIII bis. Aprobar los presupuestos generales de gasto e inversión, sin someterse a lo dispuesto en el
 
 ### artículo 31
 , fracción XXIV de la Ley Orgánica de la Administración Pública Federal;
-Fracción adicionada DOF 24-06-2002 IX. Aprobar las propuestas de los límites de endeudamiento neto externo e interno, financiamiento neto, así como los límites de intermediación financiera;
+Fracción adicionada DOF 24-06-2002
+
+IX. Aprobar las propuestas de los límites de endeudamiento neto externo e interno, financiamiento neto, así como los límites de intermediación financiera;
 Fracción reformada DOF 24-06-2002 IX Bis. Aprobar las estimaciones de ingresos anuales, su programa financiero, incluyendo cualquier apartado del mismo relativo a financiamiento directo, y sus programas operativos;
 Fracción adicionada DOF 24-06-2002. Reformada DOF 10-01-2014 IX Ter. Definir la estrategia y criterios en los que deberá establecerse, entre otros, tasas, plazos, riesgos de las operaciones y tipos de negocio, atendiendo a los rendimientos que el propio Consejo Directivo acuerde como objetivo;
-Fracción adicionada DOF 10-01-2014 X. Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la institución requiera, así como las políticas y bases generales que regulen los convenios, contratos o acuerdos que deba celebrar la institución con terceros, en estas materias, de conformidad con las normas aplicables y sin que dichos programas, políticas y bases relativos a sus sucursales sean objeto del ejercicio de las atribuciones a que se refiere el artículo 37, fracciones XX y XXIII, de la Ley Orgánica de la Administración Pública Federal, en materia de arrendamiento de bienes inmuebles; así como aprobar las políticas y bases generales a las que deberá sujetarse la contratación de los servicios que requiera la institución para realizar las operaciones y servicios previstos en los artículos 46 y 47 de esta Ley;
-Fracción reformada DOF 01-02-2008, 10-01-2014 XI. Proponer a la Secretaría de Hacienda y Crédito Público las modificaciones al reglamento orgánico;
+Fracción adicionada DOF 10-01-2014
+
+X. Aprobar los programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la institución requiera, así como las políticas y bases generales que regulen los convenios, contratos o acuerdos que deba celebrar la institución con terceros, en estas materias, de conformidad con las normas aplicables y sin que dichos programas, políticas y bases relativos a sus sucursales sean objeto del ejercicio de las atribuciones a que se refiere el artículo 37, fracciones XX y XXIII, de la Ley Orgánica de la Administración Pública Federal, en materia de arrendamiento de bienes inmuebles; así como aprobar las políticas y bases generales a las que deberá sujetarse la contratación de los servicios que requiera la institución para realizar las operaciones y servicios previstos en los artículos 46 y 47 de esta Ley;
+Fracción reformada DOF 01-02-2008, 10-01-2014
+
+XI. Proponer a la Secretaría de Hacienda y Crédito Público las modificaciones al reglamento orgánico;
 Fracción reformada DOF 01-02-2008 XI Bis. Aprobar las normas o bases generales para la cesión de activos y pasivos de la institución, en las que se determinarán las operaciones que deban ser sometidas a autorización previa del Consejo Directivo;
-Fracción adicionada DOF 01-02-2008. Reformada DOF 10-01-2014 XII. Aprobar la emisión de certificados de aportación patrimonial, provisionales o definitivos;
+Fracción adicionada DOF 01-02-2008. Reformada DOF 10-01-2014
+
+XII. Aprobar la emisión de certificados de aportación patrimonial, provisionales o definitivos;
+
 XIII. Proponer a la Secretaría de Hacienda y Crédito Público, el aumento o reducción del capital social;
+
 XIV. Acordar los aumentos de capital pagado de la institución, así como fijar las primas, que en su caso deban pagar los suscriptores de certificados de aportación patrimonial;
+
 XV. Acordar la emisión de obligaciones subordinadas;
+
 XVI. Aprobar las inversiones en el capital de las empresas a que se refieren los artículos 75, 88 y 89 de esta Ley, así como su enajenación;
-Fracción reformada DOF 01-02-2008 XVII. Aprobar los programas anuales de publicidad y propaganda de la institución, sin que se requiera autorización de la Secretaría de Gobernación;
-Fracción reformada DOF 24-06-2002 XVIII. Aprobar, a propuesta del comité de recursos humanos y desarrollo institucional y sin requerir autorizaciones adicionales de dependencia alguna de la Administración Pública Federal, la estructura orgánica, tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano; políticas de ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; las demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la sociedad; así como la remuneración de los consejeros y comisarios designados por los titulares de los certificados de aportación patrimonial de la serie “B”;
-Fracción reformada DOF 24-06-2002, 01-02-2008, 10-01-2014 XIX. Aprobar las condiciones generales de trabajo de la institución a propuesta del comité de recursos humanos y desarrollo institucional y tomando en cuenta la opinión del sindicato correspondiente, de conformidad con el artículo 18 de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+Fracción reformada DOF 01-02-2008
+
+XVII. Aprobar los programas anuales de publicidad y propaganda de la institución, sin que se requiera autorización de la Secretaría de Gobernación;
+Fracción reformada DOF 24-06-2002
+
+XVIII. Aprobar, a propuesta del comité de recursos humanos y desarrollo institucional y sin requerir autorizaciones adicionales de dependencia alguna de la Administración Pública Federal, la estructura orgánica, tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano; políticas de ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; las demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la sociedad; así como la remuneración de los consejeros y comisarios designados por los titulares de los certificados de aportación patrimonial de la serie “B”;
+Fracción reformada DOF 24-06-2002, 01-02-2008, 10-01-2014
+
+XIX. Aprobar las condiciones generales de trabajo de la institución a propuesta del comité de recursos humanos y desarrollo institucional y tomando en cuenta la opinión del sindicato correspondiente, de conformidad con el artículo 18 de la Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 Fracción reformada DOF 24-06-2002, 10-01-2014 XIX Bis. Aprobar el manual de remuneraciones, jubilaciones, derechos y obligaciones aplicable al personal de confianza a propuesta del comité de recursos humanos y desarrollo institucional;
-Fracción adicionada DOF 10-01-2014 XX. Las que establezca con este carácter la respectiva ley o reglamento orgánico de la institución.
+Fracción adicionada DOF 10-01-2014
+
+XX. Las que establezca con este carácter la respectiva ley o reglamento orgánico de la institución.
+
 XXI. Autorizar la tenencia por cuenta propia de títulos inscritos en el Registro Nacional de Valores, representativos del capital social de sociedades, así como la forma de administrarla;
-Fracción adicionada DOF 24-06-2002 XXII. Autorizar el programa de financiamiento acorde con las metas que, para la institución de banca de desarrollo de que se trate, fije al efecto la Secretaría de Hacienda y Crédito Público;
-Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008 XXIII. Conocer y, en su caso, aprobar los informes que le presente el comité de administración integral de riesgos, así como los límites prudenciales de riesgos que al efecto le proponga éste, y Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008 XXIV. Analizar y aprobar, en su caso, los asuntos que someta a su consideración el comité de auditoría y dictar las medidas aplicables o procedentes en materia de control interno.
+Fracción adicionada DOF 24-06-2002
+
+XXII. Autorizar el programa de financiamiento acorde con las metas que, para la institución de banca de desarrollo de que se trate, fije al efecto la Secretaría de Hacienda y Crédito Público;
+Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008
+
+XXIII. Conocer y, en su caso, aprobar los informes que le presente el comité de administración integral de riesgos, así como los límites prudenciales de riesgos que al efecto le proponga éste, y Fracción adicionada DOF 24-06-2002. Reformada DOF 01-02-2008
+
+XXIV. Analizar y aprobar, en su caso, los asuntos que someta a su consideración el comité de auditoría y dictar las medidas aplicables o procedentes en materia de control interno.
 Fracción adicionada DOF 01-02-2008 En los supuestos establecidos en las fracciones III, VII, IX y XV de este artículo se requerirá de la autorización expresa de la Secretaría de Hacienda y Crédito Público.
 Párrafo reformado DOF 24-06-2002, 01-02-2008 En el ejercicio de las atribuciones que se confieren a los consejos directivos en el presente artículo, sólo se sujetarán a lo dispuesto por sus leyes orgánicas, esta Ley y a los lineamientos que emita la Secretaría de Hacienda y Crédito Público.
 
@@ -731,10 +1025,16 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 44
 Bis 1.- La Secretaría de la Función Pública y los órganos internos de control de las instituciones de banca de desarrollo y de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, como excepción a lo dispuesto en el artículo 37 de la Ley Orgánica de la Administración Pública Federal y en la Ley Federal de las Entidades Paraestatales, sólo tendrán competencia para realizar el control, evaluación y vigilancia de las disposiciones administrativas que les sean aplicables a las instituciones de banca de desarrollo sobre:
+
 I. Presupuesto y responsabilidad hacendaria;
+
 II. Contrataciones derivadas de las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas;
+
 III. Conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles;
-IV. Responsabilidades administrativas de servidores públicos, y V. Transparencia y acceso a la información pública, conforme a la ley de la materia.
+
+IV. Responsabilidades administrativas de servidores públicos, y
+
+V. Transparencia y acceso a la información pública, conforme a la ley de la materia.
 La Secretaría de la Función Pública y los órganos internos de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica de la Administración Pública Federal, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 Asimismo, la Secretaría de la Función Pública y los órganos internos de control no podrán ejercer, en ningún caso, las facultades en materia de control, revisión, verificación, comprobación, evaluación y vigilancia que las disposiciones jurídicas aplicables conceden a la Comisión Nacional Bancaria y de Valores, al Banco de México y a los órganos que deban establecerse en cumplimiento de la normatividad emitida por dichas instituciones, ni de las disposiciones jurídicas emitidas por las mismas, por el Consejo Directivo o los órganos señalados.
 Artículo adicionado DOF 10-01-2014 SECCIÓN SEGUNDA De la Inclusión, Fomento de la Innovación y Perspectiva de Género Sección adicionada DOF 10-01-2014
@@ -764,8 +1064,13 @@ Capítulo adicionado DOF 23-12-1993
 
 ### Artículo 45-A
 .- Para efectos de esta Ley se entenderá por:
+
 I. Filial: La sociedad mexicana autorizada para organizarse y operar, conforme a esta Ley, como institución de banca múltiple, y en cuyo capital participe una Institución Financiera del Exterior o una Sociedad Controladora Filial en los términos del presente capítulo;
-Fracción reformada DOF 18-07-2006 II. Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y III. Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
+Fracción reformada DOF 18-07-2006
+
+II. Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y
+
+III. Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
 Artículo adicionado DOF 23-12-1993
 
 ### Artículo 45-B
@@ -814,9 +1119,17 @@ Artículo reformado DOF 23-12-1993, 15-02-1995, 17-11-1995, 01-02-2008
 ### Artículo 45-I
 .- La Comisión Nacional Bancaria y de Valores, con aprobación de su Junta de Gobierno y después de escuchar la opinión del Banco de México, podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales la adquisición de acciones representativas del capital social de una o más instituciones de banca múltiple, siempre y cuando se cumplan los siguientes requisitos:
 Párrafo reformado DOF 04-06-2001, 18-07-2006, 01-02-2008 I.- La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social;
-Fracción reformada DOF 15-02-1995, 17-11-1995 II. En caso que se pretenda convertir la institución en Filial, deberán modificarse los estatutos sociales de la citada institución cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
-Fracción reformada DOF 18-07-2006, 01-02-2008 III. (Se deroga) Fracción derogada DOF 04-06-2001 IV. Se deroga.
-Fracción reformada DOF 18-07-2006. Derogada DOF 01-02-2008 V. (Se deroga) Fracción reformada DOF 15-02-1995. Derogada DOF 04-06-2001 Artículo adicionado DOF 23-12-1993 Reforma DOF 04-06-2001: Derogó del artículo el entonces último párrafo (antes adicionado por DOF 19-01-1999)
+Fracción reformada DOF 15-02-1995, 17-11-1995
+
+II. En caso que se pretenda convertir la institución en Filial, deberán modificarse los estatutos sociales de la citada institución cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
+Fracción reformada DOF 18-07-2006, 01-02-2008
+
+III. (Se deroga) Fracción derogada DOF 04-06-2001
+
+IV. Se deroga.
+Fracción reformada DOF 18-07-2006. Derogada DOF 01-02-2008
+
+V. (Se deroga) Fracción reformada DOF 15-02-1995. Derogada DOF 04-06-2001 Artículo adicionado DOF 23-12-1993 Reforma DOF 04-06-2001: Derogó del artículo el entonces último párrafo (antes adicionado por DOF 19-01-1999)
 
 ### Artículo 45-J
 .- (Se deroga) Artículo adicionado DOF 23-12-1993. Derogado DOF 04-06-2001
@@ -827,15 +1140,31 @@ Párrafo reformado DOF 19-01-1999, 04-06-2001 Su nombramiento deberá hacerse en
 Párrafo adicionado DOF 04-06-2001 El accionista de la serie "F" que represente cuando menos el cincuenta y uno por ciento del capital social pagado designará a la mitad más uno de los consejeros y por cada diez por ciento de acciones de esta serie que exceda de ese porcentaje, tendrá derecho a designar un consejero más. Los accionistas de la serie "O", designarán a los consejeros restantes. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 Párrafo reformado DOF 19-01-1999, 04-06-2001 El consejo de administración deberá estar integrado por al menos el veinticinco por ciento de consejeros independientes, que serán designados en forma proporcional conforme a lo señalado en los párrafos que anteceden. Por consejero independiente, deberá entenderse a la persona que sea ajena a la administración de la institución de banca múltiple filial respectiva, y que reúna los requisitos y condiciones que determine la Comisión Nacional Bancaria y de Valores en las disposiciones de carácter general a que se refiere el artículo 22 de esta Ley, en las que igualmente se establecerán los supuestos bajo los cuales, se considerará que un consejero deja de ser independiente para los efectos de este artículo.
 Párrafo reformado DOF 04-06-2001 En ningún caso podrán ser consejeros independientes:
-Párrafo derogado DOF 19-01-1999. Adicionado DOF 04-06-2001 I. Empleados o directivos de la institución;
-Fracción adicionada DOF 04-06-2001 II. Accionistas que sin ser empleados o directivos de la institución, tengan poder de mando sobre los directivos de la misma;
-Fracción adicionada DOF 04-06-2001 III. Socios o empleados de sociedades o asociaciones que presten servicios de asesoría o consultoría a la institución o a las empresas que pertenezcan al mismo grupo económico del cual forme parte ésta, cuyos ingresos representen el diez por ciento o más de sus ingresos;
-Fracción adicionada DOF 04-06-2001 IV. Clientes, proveedores, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, deudor o acreedor importante de la institución.
+Párrafo derogado DOF 19-01-1999. Adicionado DOF 04-06-2001
+
+I. Empleados o directivos de la institución;
+Fracción adicionada DOF 04-06-2001
+
+II. Accionistas que sin ser empleados o directivos de la institución, tengan poder de mando sobre los directivos de la misma;
+Fracción adicionada DOF 04-06-2001
+
+III. Socios o empleados de sociedades o asociaciones que presten servicios de asesoría o consultoría a la institución o a las empresas que pertenezcan al mismo grupo económico del cual forme parte ésta, cuyos ingresos representen el diez por ciento o más de sus ingresos;
+Fracción adicionada DOF 04-06-2001
+
+IV. Clientes, proveedores, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, deudor o acreedor importante de la institución.
 Se considera que un cliente o proveedor es importante cuando los servicios que le preste la institución o las ventas que le haga a ésta, representan más del diez por ciento de los servicios o ventas totales del cliente o del proveedor, respectivamente. Asimismo, se considera que un deudor o acreedor es importante cuando el importe del crédito es mayor al quince por ciento de los activos de la institución o de su contraparte;
-Fracción adicionada DOF 04-06-2001 V. Empleados de una fundación, asociación o sociedad civiles que reciban donativos importantes de la institución.
+Fracción adicionada DOF 04-06-2001
+
+V. Empleados de una fundación, asociación o sociedad civiles que reciban donativos importantes de la institución.
 Se consideran donativos importantes a aquellos que representen más del quince por ciento del total de donativos recibidos por la fundación, asociación o sociedad civiles de que se trate;
-Fracción adicionada DOF 04-06-2001 VI. Directores generales o directivos de alto nivel de una sociedad en cuyo consejo de administración participe el director general o un directivo de alto nivel de la institución;
-Fracción adicionada DOF 04-06-2001 VII. Cónyuges o concubinarios, así como los parientes por consanguinidad, afinidad o civil hasta el primer grado respecto de alguna de las personas mencionadas en las fracciones III a VI anteriores, o bien, hasta el tercer grado, en relación con las señaladas en las fracciones I, II y VIII de este artículo, y Fracción adicionada DOF 04-06-2001 VIII. Quienes hayan ocupado un cargo de dirección o administrativo en la institución o en el grupo financiero al que, en su caso, pertenezca la propia institución, durante el año anterior al momento en que se pretenda hacer su designación.
+Fracción adicionada DOF 04-06-2001
+
+VI. Directores generales o directivos de alto nivel de una sociedad en cuyo consejo de administración participe el director general o un directivo de alto nivel de la institución;
+Fracción adicionada DOF 04-06-2001
+
+VII. Cónyuges o concubinarios, así como los parientes por consanguinidad, afinidad o civil hasta el primer grado respecto de alguna de las personas mencionadas en las fracciones III a VI anteriores, o bien, hasta el tercer grado, en relación con las señaladas en las fracciones I, II y VIII de este artículo, y Fracción adicionada DOF 04-06-2001
+
+VIII. Quienes hayan ocupado un cargo de dirección o administrativo en la institución o en el grupo financiero al que, en su caso, pertenezca la propia institución, durante el año anterior al momento en que se pretenda hacer su designación.
 Fracción adicionada DOF 04-06-2001 El consejo deberá reunirse por lo menos trimestralmente y de manera adicional, cuando sea convocado por el Presidente del consejo, al menos una cuarta parte de los consejeros, o cualquiera de los comisarios de la institución. Para la celebración de las sesiones ordinarias y extraordinarias del consejo de administración, se deberá contar con la asistencia de cuando menos el cincuenta y uno por ciento de los consejeros, de los cuales por lo menos uno deberá ser consejero independiente.
 Párrafo adicionado DOF 04-06-2001 El presidente del consejo deberá elegirse de entre los propietarios de la serie "F", y tendrá voto de calidad en caso de empate.
 Párrafo reformado DOF 04-06-2001 En el caso de las instituciones de banca múltiple Filiales en las cuales cuando menos el noventa y nueve por ciento de los títulos representativos del capital social sean propiedad, directa o indirectamente, de una Institución Financiera del Exterior o una Sociedad Controladora Filial, podrá determinar libremente el número de consejeros, el cual en ningún caso podrá ser inferior a cinco, debiendo observarse lo señalado por los párrafos primero, tercero y cuarto del presente artículo.
@@ -860,19 +1189,29 @@ De las instituciones de banca múltiple que tengan vínculos de negocio o patrim
 ### Artículo 45-O
 .- Las instituciones de banca múltiple que mantengan vínculos de negocio o patrimoniales con personas morales que realicen actividades empresariales, se regirán por lo previsto en el presente capítulo y las demás disposiciones contenidas en esta Ley.
 Sin perjuicio de lo anterior, las disposiciones contenidas en este Capítulo, no serán aplicables a:
-I. Instituciones de banca múltiple que formen parte de un grupo financiero constituido en términos de la Ley para Regular las Agrupaciones Financieras, respecto de las sociedades integrantes del grupo financiero y sus subsidiarias, incluyendo a la sociedad controladora, y II. Instituciones de banca múltiple que no sean integrantes de un grupo financiero respecto de aquellas entidades financieras reguladas por las leyes financieras vigentes que pertenezcan al mismo Grupo empresarial o Consorcio al que pertenezca la institución de banca múltiple.
+
+I. Instituciones de banca múltiple que formen parte de un grupo financiero constituido en términos de la Ley para Regular las Agrupaciones Financieras, respecto de las sociedades integrantes del grupo financiero y sus subsidiarias, incluyendo a la sociedad controladora, y
+
+II. Instituciones de banca múltiple que no sean integrantes de un grupo financiero respecto de aquellas entidades financieras reguladas por las leyes financieras vigentes que pertenezcan al mismo Grupo empresarial o Consorcio al que pertenezca la institución de banca múltiple.
 Artículo adicionado DOF 01-02-2008
 
 ### Artículo 45-P
 .- Para los efectos de este Capítulo, se entenderá por consorcio, control, directivo relevante, grupo de personas, grupo empresarial y poder de mando, lo señalado en el artículo 22 Bis de esta Ley. Adicionalmente por:
-I. Actividad empresarial, la señalada en el artículo 16 del Código Fiscal de la Federación. Quedarán excluidas las actividades habituales y profesionales de crédito que en un ejercicio representen la proporción de activos crediticios o ingresos asociados a dicha actividad, conforme a lo señalado en el II. Influencia significativa, la titularidad de derechos que permitan, directa o indirectamente ejercer el voto respecto de cuando menos el veinte por ciento del capital social de una persona moral.
+
+I. Actividad empresarial, la señalada en el artículo 16 del Código Fiscal de la Federación. Quedarán excluidas las actividades habituales y profesionales de crédito que en un ejercicio representen la proporción de activos crediticios o ingresos asociados a dicha actividad, conforme a lo señalado en el
+
+II. Influencia significativa, la titularidad de derechos que permitan, directa o indirectamente ejercer el voto respecto de cuando menos el veinte por ciento del capital social de una persona moral.
+
 III. Vínculo de negocio, el que derive de la celebración de convenios de inversión en el capital de otras personas morales, en virtud de los cuales se obtenga influencia significativa, quedando incluidos cualquier otro tipo de actos jurídicos que produzcan efectos similares a tales convenios de inversión.
+
 IV. Vínculo patrimonial, el que derive de la pertenencia por parte de la institución de banca múltiple a un consorcio o grupo empresarial, al que también pertenezca la persona moral.
 Artículo adicionado DOF 01-02-2008
 
 ### Artículo 45-Q
 .- Las instituciones de banca múltiple que mantengan vínculos de negocio o patrimoniales con personas morales que realicen actividades empresariales, deberán ajustarse a lo siguiente:
+
 I. Adoptar las medidas de control interno y contar con sistemas informáticos y de contabilidad, que aseguren su independencia operativa con respecto a cualquiera de los demás integrantes del consorcio o grupo empresarial al que pertenezcan, o bien, de sus asociados.
+
 II. Contar con instalaciones que aseguren la independencia de los espacios físicos de sus oficinas administrativas con respecto a cualquiera de los demás integrantes del consorcio o grupo empresarial al que pertenezcan, o bien, de sus asociados. Sin perjuicio de lo anterior, los espacios físicos habilitados para la atención al público, tales como sucursales, podrán ubicarse en un mismo inmueble, siempre que el acceso al área interna de trabajo en la sucursal, se permita únicamente al personal de la institución.
 Artículo adicionado DOF 01-02-2008
 
@@ -880,10 +1219,14 @@ Artículo adicionado DOF 01-02-2008
 .- Los accionistas de las instituciones de banca múltiple a que se refiere este Capítulo, designarán a los miembros del consejo de administración.
 La mayoría de los consejeros podrán estar vinculados con la persona o grupo de personas que tengan el control del consorcio o grupo empresarial que realice actividades empresariales y mantenga vínculos de negocio o patrimoniales con la institución de banca múltiple. La mencionada mayoría se establecerá con las siguientes personas:
 A) Aquellas que tengan algún vínculo con el consorcio o grupo empresarial controlado por la persona o grupo de personas de referencia, esto es:
+
 I. Personas físicas que tengan cualquier empleo, cargo o comisión por virtud del cual puedan adoptar decisiones que trasciendan de forma significativa en la situación administrativa, financiera, operacional o jurídica de la persona moral, o del consorcio o grupo empresarial al que ésta pertenezca. Lo anterior, será aplicable también a las personas que hayan tenido dichos empleos, cargos o comisiones, durante los doce meses anteriores a la fecha del nombramiento o de la sesión correspondiente.
+
 II. Personas físicas que tengan influencia significativa o poder de mando, en el consorcio o grupo empresarial al que pertenezca la institución.
+
 III. Clientes, prestadores de servicios, proveedores, deudores, acreedores, socios, consejeros o empleados de una persona moral que realice actividades empresariales, que sea cliente, prestador de servicios, proveedor, deudor o acreedor importante de la persona moral.
 Se considera que un cliente, prestador de servicios o proveedor es importante, cuando las ventas de la sociedad representen más del diez por ciento de las ventas totales del cliente, del prestador de servicios o del proveedor, durante los doce meses anteriores a la fecha del nombramiento o de la sesión correspondiente. Asimismo, se considera que un deudor o acreedor es importante, cuando el importe del crédito es mayor al quince por ciento de los activos de la propia sociedad o de su contraparte.
+
 IV. Personas que tengan parentesco por consanguinidad, afinidad o civil hasta el segundo grado, así como los cónyuges, la concubina y el concubinario, de cualquiera de las personas físicas referidas en las fracciones I a III de este artículo.
 B) Funcionarios de la institución de banca múltiple de que se trate.
 La mayoría a que se refiere este artículo sólo podrá ser conformada por una combinación de las personas físicas descritas en los incisos A) y B) anteriores, de tal forma, que las personas a que se refiere el inciso A) no sean mayoría.
@@ -909,44 +1252,92 @@ Artículo adicionado DOF 10-01-2014 TITULO TERCERO De las Operaciones CAPITULO I
 
 ### Artículo 46
 .- Las instituciones de crédito sólo podrán realizar las operaciones siguientes:
-I. Recibir depósitos bancarios de dinero: a) A la vista; b) Retirables en días preestablecidos; c) De ahorro, y d) A plazo o con previo aviso;
+
+I. Recibir depósitos bancarios de dinero:
+
+a) A la vista;
+
+b) Retirables en días preestablecidos;
+
+c) De ahorro, y
+
+d) A plazo o con previo aviso;
+
 II. Aceptar préstamos y créditos;
+
 III. Emitir bonos bancarios;
+
 IV. Emitir obligaciones subordinadas;
+
 V. Constituir depósitos en instituciones de crédito y entidades financieras del exterior;
+
 VI. Efectuar descuentos y otorgar préstamos o créditos;
+
 VII. Expedir tarjetas de crédito con base en contratos de apertura de crédito en cuenta corriente;
+
 VIII. Asumir obligaciones por cuenta de terceros, con base en créditos concedidos, a través del otorgamiento de aceptaciones, endoso o aval de títulos de crédito, así como de la expedición de cartas de crédito;
+
 IX. Operar con valores en los términos de las disposiciones de la presente Ley y de la Ley Mercado de Valores;
+
 X. Promover la organización y transformación de toda clase de empresas o sociedades mercantiles y suscribir y conservar acciones o partes de interés en las mismas, en los términos de esta Ley;
+
 XI. Operar con documentos mercantiles por cuenta propia;
+
 XII. Llevar a cabo por cuenta propia o de terceros operaciones con oro, plata y divisas, incluyendo reportos sobre estas últimas;
+
 XIII. Prestar servicio de cajas de seguridad;
+
 XIV. Expedir cartas de crédito previa recepción de su importe, hacer efectivos créditos y realizar pagos por cuenta de clientes;
+
 XV. Practicar las operaciones de fideicomiso a que se refiere la Ley General de Títulos y Operaciones de Crédito, y llevar a cabo mandatos y comisiones;
 Las instituciones de crédito podrán celebrar operaciones consigo mismas en el cumplimiento de fideicomisos, mandatos o comisiones, cuando el Banco de México lo autorice mediante disposiciones de carácter general, en las que se establezcan requisitos, términos y condiciones que promuevan que las operaciones de referencia se realicen en congruencia con las condiciones de mercado al tiempo de su celebración, así como que se eviten conflictos de interés;
-Párrafo adicionado DOF 01-02-2008 XVI. Recibir depósitos en administración o custodia, o en garantía por cuenta de terceros, de títulos o valores y en general de documentos mercantiles;
+Párrafo adicionado DOF 01-02-2008
+
+XVI. Recibir depósitos en administración o custodia, o en garantía por cuenta de terceros, de títulos o valores y en general de documentos mercantiles;
+
 XVII. Actuar como representante común de los tenedores de títulos de crédito;
+
 XVIII. Hacer servicio de caja y tesorería relativo a títulos de crédito, por cuenta de las emisoras;
+
 XIX. Llevar la contabilidad y los libros de actas y de registro de sociedades y empresas;
+
 XX. Desempeñar el cargo de albacea;
+
 XXI. Desempeñar la sindicatura o encargarse de la liquidación judicial o extrajudicial de negociaciones, establecimientos, concursos o herencias;
+
 XXII. Encargarse de hacer avalúos que tendrán la misma fuerza probatoria que las leyes asignan a los hechos por corredor público o perito;
-XXIII. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda, y XXIV. Celebrar contratos de arrendamiento financiero y adquirir los bienes que sean objeto de tales contratos.
-Fracción adicionada DOF 23-07-1993 Reforma DOF 04-06-2001: Derogó de esta fracción el entonces párrafo segundo XXV. Realizar operaciones derivadas, sujetándose a las disposiciones técnicas y operativas que expida el Banco de México, en las cuales se establezcan las características de dichas operaciones, tales como tipos, plazos, contrapartes, subyacentes, garantías y formas de liquidación;
-Fracción reformada DOF 23-07-1993 (se recorre), 04-06-2001, 01-02-2008 XXVI. Efectuar operaciones de factoraje financiero;
+
+XXIII. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda, y
+
+XXIV. Celebrar contratos de arrendamiento financiero y adquirir los bienes que sean objeto de tales contratos.
+Fracción adicionada DOF 23-07-1993 Reforma DOF 04-06-2001: Derogó de esta fracción el entonces párrafo segundo
+
+XXV. Realizar operaciones derivadas, sujetándose a las disposiciones técnicas y operativas que expida el Banco de México, en las cuales se establezcan las características de dichas operaciones, tales como tipos, plazos, contrapartes, subyacentes, garantías y formas de liquidación;
+Fracción reformada DOF 23-07-1993 (se recorre), 04-06-2001, 01-02-2008
+
+XXVI. Efectuar operaciones de factoraje financiero;
 Fracción adicionada DOF 04-06-2001. Reformada DOF 01-02-2008 XXVI bis. Emitir y poner en circulación cualquier medio de pago que determine el Banco de México, sujetándose a las disposiciones técnicas y operativas que éste expida, en las cuales se establezcan entre otras características, las relativas a su uso, monto y vigencia, a fin de propiciar el uso de diversos medios de pago;
-Fracción adicionada DOF 01-02-2008 XXVII. Intervenir en la contratación de seguros para lo cual deberán cumplir con lo establecido en la Ley General de Instituciones y Sociedades Mutualistas de Seguros y en las disposiciones de carácter general que de la misma emanen, y Fracción adicionada DOF 01-02-2008 XXVIII. Las análogas o conexas que autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+Fracción adicionada DOF 01-02-2008
+
+XXVII. Intervenir en la contratación de seguros para lo cual deberán cumplir con lo establecido en la Ley General de Instituciones y Sociedades Mutualistas de Seguros y en las disposiciones de carácter general que de la misma emanen, y Fracción adicionada DOF 01-02-2008
+
+XXVIII. Las análogas o conexas que autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
 Fracción adicionada DOF 04-06-2001. Reformada DOF 01-02-2008 (se recorre) Las instituciones de banca múltiple únicamente podrán realizar aquellas operaciones previstas en las fracciones anteriores que estén expresamente contempladas en sus estatutos sociales, previa aprobación de la Comisión Nacional Bancaria y de Valores en términos de lo dispuesto por los artículos 9o. y 46 Bis de la presente Ley.
 Párrafo adicionado DOF 04-06-2001. Reformado DOF 18-07-2006, 01-02-2008 La Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores y el Banco de México, dentro de la regulación que deban emitir en el ámbito de su competencia, deberán considerar las operaciones que las instituciones de banca múltiple estén autorizadas a realizar conforme a lo previsto en los artículos 8o., 10 y 46 Bis de esta Ley, y diferenciar, cuando lo estimen procedente, dicha regulación en aspectos tales como la infraestructura con que deberán contar y la información que deberán proporcionar, entre otros. Asimismo, se podrán considerar los modelos de negocios o características de sus operaciones.
 Párrafo adicionado DOF 01-02-2008. Reformado DOF 10-01-2014
 
 ### Artículo 46
 Bis.- La Comisión Nacional Bancaria y de Valores autorizará a las instituciones de banca múltiple el inicio de operaciones o la realización de otras adicionales a las que le hayan sido autorizadas, de entre las señaladas en el artículo 46 de esta Ley, cuando acrediten el cumplimiento de lo siguiente:
+
 I. Que las operaciones de que se trate se encuentren expresamente señaladas en sus estatutos sociales;
+
 II. Que cuenten con el capital mínimo que les corresponda conforme a lo establecido en el artículo 19 de esta Ley, en función de las operaciones que pretendan realizar;
+
 III. Que cuenten con los órganos de gobierno y la estructura corporativa adecuados para realizar las operaciones que pretendan llevar a cabo, de acuerdo con lo establecido en esta Ley y en las disposiciones técnicas u operativas de carácter general emitidas por la Comisión Nacional Bancaria y de Valores tendientes a procurar el buen funcionamiento de las instituciones;
-IV. Que cuenten con la infraestructura y los controles internos necesarios para realizar las operaciones que pretendan llevar a cabo, tales como sistemas operativos, contables y de seguridad, oficinas, así como los manuales respectivos, conforme a las disposiciones aplicables, y V. Que se encuentren al corriente en el pago de las sanciones impuestas por incumplimiento a esta Ley que hayan quedado firmes, así como en el cumplimiento de las observaciones y acciones correctivas que, en ejercicio de sus funciones, hubieren dictado la citada Comisión y el Banco de México.
+
+IV. Que cuenten con la infraestructura y los controles internos necesarios para realizar las operaciones que pretendan llevar a cabo, tales como sistemas operativos, contables y de seguridad, oficinas, así como los manuales respectivos, conforme a las disposiciones aplicables, y
+
+V. Que se encuentren al corriente en el pago de las sanciones impuestas por incumplimiento a esta Ley que hayan quedado firmes, así como en el cumplimiento de las observaciones y acciones correctivas que, en ejercicio de sus funciones, hubieren dictado la citada Comisión y el Banco de México.
 La Comisión Nacional Bancaria y de Valores practicará las visitas de inspección que considere necesarias a efecto de verificar el cumplimiento de los requisitos a que se refieren las fracciones I a IV de este artículo. La Comisión consultará con el Banco de México el cumplimiento de las medidas y sanciones que éste hubiere impuestos en el ámbito de su competencia.
 La institución de que se trate deberá inscribir en el Registro Público de Comercio, para efectos declarativos, la autorización que se le haya otorgado para el inicio de operaciones en términos del presente artículo, a más tardar a los treinta días posteriores a que le haya sido notificada.
 Artículo adicionado DOF 13-06-2003. Reformado DOF 01-02-2008
@@ -954,15 +1345,31 @@ Artículo adicionado DOF 13-06-2003. Reformado DOF 01-02-2008
 ### Artículo 46
 Bis 1.- Las instituciones de crédito podrán pactar con terceros, incluyendo a otras instituciones de crédito o entidades financieras, la prestación de servicios necesarios para su operación, así como comisiones para realizar las operaciones previstas en el artículo 46 de esta Ley, de conformidad con las disposiciones de carácter general que expida la Comisión Nacional Bancaria y de Valores, previo acuerdo de su Junta de Gobierno.
 Las operaciones que lleven a cabo los comisionistas deberán realizarse a nombre y por cuenta de las instituciones de crédito con las que celebren los actos jurídicos mencionados en el primer párrafo de este artículo. Asimismo, los instrumentos jurídicos que documenten las comisiones deberán prever que las instituciones de crédito responderán por las operaciones que los comisionistas celebren por cuenta de dichas instituciones, aun cuando éstas se lleven a cabo en términos distintos a los previstos en tales instrumentos jurídicos. Las disposiciones de carácter general a que se refiere el primer párrafo de este artículo, deberán contener, entre otros, los siguientes elementos:
+
 I. Los lineamientos técnicos y operativos que deberán observarse para la realización de tales operaciones, así como para salvaguardar la confidencialidad de la información de los usuarios del sistema bancario y proveer que en la celebración de dichas operaciones se cumplan las disposiciones aplicables;
+
 II. Las características de las personas físicas o morales que podrán ser contratadas por las instituciones como terceros en términos del presente artículo. Tratándose de entidades de la Administración Pública Federal o Estatal, las reglas sólo podrán incluir aquellas facultadas expresamente por su ley o reglamento para prestar los servicios o comisiones de que se trate;
+
 III. Los requisitos respecto de los procesos operativos y de control que las instituciones deberán exigir a los terceros contratados;
+
 IV. El tipo de operaciones que podrán realizarse a través de terceros, quedando facultada la Comisión Nacional Bancaria y de Valores para señalar el tipo de operaciones en los que se requerirá de su autorización previa;
+
 V. Los contratos de prestación de servicios o comisiones que celebren en términos de este artículo que la Comisión determine que deberán serle entregados por las instituciones de banca múltiple, así como la forma, condiciones y plazos de dicha entrega;
-VI. Los límites aplicables a las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia institución, observando en todo caso, respecto de las operaciones previstas en las fracciones I y II del artículo 46 de esta Ley, lo siguiente: a) Individuales, por tipo de operación y cliente, los cuales no excederán por comisionista de un monto diario equivalente en moneda nacional a 1,500 Unidades de Inversión, por cada tipo de inversión y cuenta, tratándose de retiros en efectivo y pago de cheques, así como del equivalente en moneda nacional a 4,000 Unidades de Inversión respecto de depósitos en efectivo, y b) Agregados, que no excederán por comisionista de un monto mensual equivalente al cincuenta por ciento del importe total de las operaciones realizadas en el período por la institución de que se trate. El límite a que se refiere este inciso, será de sesenta y cinco por ciento, durante los primeros dieciocho meses de operación con el comisionista. Para efectos de lo anterior se entenderá como un sólo comisionista a un Grupo empresarial de conformidad con la definición a que se refiere la fracción V del artículo 22 Bis de esta Ley.
+
+VI. Los límites aplicables a las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia institución, observando en todo caso, respecto de las operaciones previstas en las fracciones I y II del artículo 46 de esta Ley, lo siguiente:
+
+a) Individuales, por tipo de operación y cliente, los cuales no excederán por comisionista de un monto diario equivalente en moneda nacional a 1,500 Unidades de Inversión, por cada tipo de inversión y cuenta, tratándose de retiros en efectivo y pago de cheques, así como del equivalente en moneda nacional a 4,000 Unidades de Inversión respecto de depósitos en efectivo, y
+
+b) Agregados, que no excederán por comisionista de un monto mensual equivalente al cincuenta por ciento del importe total de las operaciones realizadas en el período por la institución de que se trate. El límite a que se refiere este inciso, será de sesenta y cinco por ciento, durante los primeros dieciocho meses de operación con el comisionista. Para efectos de lo anterior se entenderá como un sólo comisionista a un Grupo empresarial de conformidad con la definición a que se refiere la fracción V del artículo 22 Bis de esta Ley.
 La celebración de las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia institución a que se refieren las fracciones I y II del artículo 46 de esta Ley serán sujetas de la autorización a que se refiere la fracción IV de este artículo.
-Los límites a que se refiere la presente fracción no serán aplicables cuando: i) El tercero sea una entidad de la Administración Pública Federal, Estatal o Municipal; ii) Se trate de operaciones relacionadas con la fracción XXVI Bis del artículo 46 de esta Ley; iii) Los terceros con los que se contrate sean instituciones de crédito, casas de bolsa o entidades de ahorro y crédito popular.
-Fracción reformada DOF 25-06-2009 VII. Las políticas y procedimientos con que deberán contar las instituciones de crédito para vigilar el desempeño de los terceros que sean contratados, así como el cumplimiento de sus obligaciones contractuales, entre las cuales deberá preverse la obligación de dichos terceros de proporcionar a la Comisión Nacional Bancaria y de Valores, y a los auditores externos de las instituciones, a solicitud de éstas, los registros, la información y el apoyo técnico relativos a los servicios prestados a la institución, y VIII. Las operaciones y servicios que las instituciones no podrán pactar que los terceros les proporcionen en forma exclusiva.
+Los límites a que se refiere la presente fracción no serán aplicables cuando:
+
+i) El tercero sea una entidad de la Administración Pública Federal, Estatal o Municipal; ii) Se trate de operaciones relacionadas con la fracción XXVI Bis del artículo 46 de esta Ley; iii) Los terceros con los que se contrate sean instituciones de crédito, casas de bolsa o entidades de ahorro y crédito popular.
+Fracción reformada DOF 25-06-2009
+
+VII. Las políticas y procedimientos con que deberán contar las instituciones de crédito para vigilar el desempeño de los terceros que sean contratados, así como el cumplimiento de sus obligaciones contractuales, entre las cuales deberá preverse la obligación de dichos terceros de proporcionar a la Comisión Nacional Bancaria y de Valores, y a los auditores externos de las instituciones, a solicitud de éstas, los registros, la información y el apoyo técnico relativos a los servicios prestados a la institución, y
+
+VIII. Las operaciones y servicios que las instituciones no podrán pactar que los terceros les proporcionen en forma exclusiva.
 Lo dispuesto en el artículo 142 de esta Ley también le será aplicable a los terceros a que se refiere el presente artículo, así como a los representantes, directivos y empleados de dichos terceros, aun cuando dejen de laborar o prestar sus servicios a tales terceros.
 Párrafo reformado DOF 10-01-2014 La Comisión Nacional Bancaria y de Valores, previo derecho de audiencia que se otorgue a la institución de crédito, podrá ordenar la suspensión parcial o total, temporal o definitiva, de la prestación de los servicios o comisiones a través del tercero de que se trate, cuando se incumplan las disposiciones que se mencionan en este artículo o pueda verse afectada la continuidad operativa de la institución de crédito o en protección de los intereses del público. Lo anterior, salvo que la propia Comisión apruebe un programa de regularización que reúna los requisitos que al efecto se establezcan en las disposiciones de carácter general referidas.
 La Comisión Nacional Bancaria y de Valores formulará directamente a las instituciones de crédito los requerimientos de información y, en su caso, las observaciones y medidas correctivas que deriven de la supervisión que realice con motivo de las actividades que las instituciones lleven a cabo a través de prestadores de servicios o comisionistas conforme a lo previsto en el presente artículo, para asegurar la continuidad de los servicios que las instituciones proporcionan a sus clientes, la integridad de la información y el apego a lo establecido en esta ley. Asimismo, la Comisión estará facultada, en todo momento, para efectuar actos de supervisión, inspección y vigilancia respecto de los prestadores de servicios o comisionistas que las instituciones contraten en términos de este artículo, así como practicar inspecciones a los terceros que contraten las instituciones de crédito con respecto de las actividades contratadas, o bien, ordenar a las instituciones realizar auditorías a dichos terceros, quedando obligada la propia institución a rendir un informe a la Comisión al respecto.
@@ -977,7 +1384,10 @@ Artículo adicionado DOF 01-02-2008
 
 ### Artículo 46
 Bis 3.- Las instituciones de crédito al celebrar operaciones en las que puedan resultar deudores de éstas sus funcionarios o empleados o las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que las propias instituciones otorguen para la realización de las actividades que le son propias, deberán ajustarse a lo siguiente:
-I. Sólo podrán celebrar tales operaciones, cuando correspondan a prestaciones de carácter laboral otorgadas de manera general, o II. Cuando se trate de créditos denominados en moneda nacional documentados en tarjetas de crédito; para la adquisición de bienes de consumo duradero o destinados a la vivienda, siempre que en cualquiera de los casos señalados se celebren en las mismas condiciones que la institución de crédito tenga establecidas para el público en general.
+
+I. Sólo podrán celebrar tales operaciones, cuando correspondan a prestaciones de carácter laboral otorgadas de manera general, o
+
+II. Cuando se trate de créditos denominados en moneda nacional documentados en tarjetas de crédito; para la adquisición de bienes de consumo duradero o destinados a la vivienda, siempre que en cualquiera de los casos señalados se celebren en las mismas condiciones que la institución de crédito tenga establecidas para el público en general.
 La restricción a que se refiere este artículo, resulta igualmente aplicable a las operaciones que pretendan celebrar las instituciones de crédito con el o los comisarios propietarios o suplentes de la propia institución, así como los auditores externos independientes.
 Artículo adicionado DOF 01-02-2008
 
@@ -987,9 +1397,13 @@ Artículo adicionado DOF 01-02-2008
 
 ### Artículo 46
 Bis 5.- A las instituciones de crédito también les está permitido:
+
 I. Dar en garantía sus propiedades en los casos que autorice la Comisión Nacional Bancaria y de Valores, siempre y cuando ello coadyuve a la estabilidad de las instituciones de crédito o del sistema bancario.
+
 II. Dar en garantía, incluyendo prenda, prenda bursátil o fideicomiso de garantía, efectivo, derechos de crédito a su favor o los títulos o valores de su cartera, en operaciones que se realicen con el Banco de México, con las instituciones de banca de desarrollo, con el Instituto para la Protección al Ahorro Bancario o los fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico. El Banco de México, mediante disposiciones de carácter general, podrá autorizar el otorgamiento de dichas garantías en términos distintos a los antes señalados, para lo cual deberá establecer entre otros aspectos, el tipo de operaciones a garantizar.
+
 III. Pagar anticipadamente, en todo o en parte, obligaciones a su cargo derivadas de depósitos bancarios de dinero, préstamos o créditos, cuando lo autorice el Banco de México mediante disposiciones de carácter general, en las cuales se establezcan los requisitos, así como los términos y condiciones conforme a los que procederán los respectivos pagos anticipados.
+
 IV. Pagar anticipadamente operaciones de reporto celebradas con el Banco de México, instituciones de crédito, casas de bolsa, así como con las demás personas que autorice el Banco de México mediante disposiciones de carácter general, en las cuales se establezcan los requisitos conforme a los cuales podrá realizarse el pago anticipado de estas operaciones.
 Artículo adicionado DOF 01-02-2008
 
@@ -1024,10 +1438,15 @@ Párrafo adicionado DOF 23-07-1993 Reforma DOF 23-12-1993: Derogó del artículo
 
 ### Artículo 48
 Bis 1.- Cuando a las instituciones de crédito les sean presentados por sus clientes billetes presuntamente falsos que les hubieran sido entregados en cajeros automáticos o en las ventanillas de alguna de sus sucursales, deberán proceder de la forma siguiente:
+
 I. Proporcionarán al cliente un formato de reclamación, en el que éste anotará su nombre y domicilio; el lugar, fecha y modo en que le fueron entregadas las piezas, así como las características y número de éstas. Además, a dicho formato deberá anexarse fotocopia de alguna identificación oficial del cliente.
+
 II. Retendrán las piezas de que se trate, extendiendo al cliente el recibo respectivo y las remitirán al Banco de México para dictamen. Las instituciones deberán proporcionar al Banco de México la información que al efecto requiera.
+
 III. Verificarán, dentro del plazo de cinco días hábiles bancarios, que la operación se hubiera llevado conforme a lo señalado por el cliente en el formato de reclamación.
+
 IV. Si la información proporcionada por el cliente y el resultado de la verificación que se realice, permiten presumir que las piezas en cuestión fueron entregadas en cajeros automáticos o ventanilla de alguna de sus sucursales, deberán entregar a éste el importe de las piezas presentadas, siempre que éstas provengan de un máximo de dos diferentes operaciones. En ningún caso se cambiarán más de dos piezas por cada operación, respecto del mismo cliente en un lapso de un año. Tampoco procederá el cambio, cuando hayan transcurrido más de cinco días hábiles bancarios entre la fecha de la operación y la presentación de las piezas ante la institución de que se trate.
+
 V. Si la institución de crédito considerara que no procede el cambio de las piezas, deberá informar al cliente por escrito las razones que hayan motivado su negativa. En ese caso quedará expedito el derecho del cliente para acudir ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros a hacer valer sus derechos.
 Las instituciones de crédito que realicen el cambio de piezas conforme a lo dispuesto en el presente artículo, se subrogarán en todos los derechos que de ello deriven.
 El Banco de México, de oficio o a petición de cualquier interesado, podrá verificar el cumplimiento de lo dispuesto en el presente artículo o en las disposiciones de carácter general que expida en materia de almacenamiento, abastecimiento, canje, entrega y retiro de billetes y monedas metálicas. Si con motivo de dicha verificación el Banco de México detectara algún incumplimiento, podrá sancionar a la institución de que se trate con multa de hasta cien mil días de salario mínimo general vigente en el Distrito Federal en la fecha de la infracción. Previo a la imposición de cualquier sanción, deberá respetarse el derecho de audiencia de la institución de crédito involucrada.
@@ -1038,8 +1457,12 @@ Las notificaciones, trámite y resolución del recurso de reconsideración se re
 Bis 2. Las instituciones de crédito que reciban depósitos bancarios de dinero a la vista de personas físicas, estarán obligadas a ofrecer un producto básico bancario de nómina de depósito o ahorro, en los términos y condiciones que determine el Banco de México mediante disposiciones de carácter general, considerando que aquellas cuentas cuyo abono mensual no exceda el importe equivalente a ciento sesenta y cinco salarios mínimos diarios vigente en el Distrito Federal, estén exentas de cualquier comisión por apertura, retiros y consultas o por cualquier otro concepto en la institución que otorgue la cuenta. Además, estarán obligadas a ofrecer un producto con las mismas características para el público en general.
 El Banco de México, considerará la opinión que las instituciones de crédito obligadas, le presenten sobre el diseño y oferta al público del producto señalado en el párrafo que antecede.
 Las instituciones de crédito que otorguen a personas físicas aperturas de crédito en cuenta corriente asociados a tarjetas de crédito, estarán obligadas a mantener a disposición de sus clientes que sean elegibles como acreditados, un producto básico de tarjeta de crédito cuya finalidad sea únicamente la adquisición de bienes o servicios, con las siguientes características:
+
 I. Su límite de crédito será de hasta doscientas veces el salario mínimo general diario vigente en el Distrito Federal;
-II. Estarán exentos de comisión por anualidad o cualquier otro concepto; y III. Las instituciones no estarán obligadas a incorporar atributos adicionales a la línea de crédito de dicho producto básico.
+
+II. Estarán exentos de comisión por anualidad o cualquier otro concepto; y
+
+III. Las instituciones no estarán obligadas a incorporar atributos adicionales a la línea de crédito de dicho producto básico.
 Artículo adicionado DOF 15-06-2007. Reformado DOF 25-05-2010
 
 ### Artículo 48
@@ -1071,7 +1494,10 @@ Adicionado DOF 25-05-2010
 
 ### Artículo 50
 .- Las instituciones de crédito deberán mantener en todo momento un capital neto que se expresará mediante un índice y no podrá ser inferior a la cantidad que resulte de sumar los requerimientos de capital que establezca la Comisión Nacional Bancaria y de Valores en términos de las disposiciones generales que emita con la aprobación de su Junta de Gobierno, para las instituciones de banca múltiple, por un lado, y para las instituciones de banca de desarrollo, por el otro. Al efecto, dichos requerimientos de capital estarán referidos a lo siguiente:
-I. Riesgos de mercado, de crédito, operacional y demás en que las instituciones incurran en su operación, y II. La relación entre sus activos y pasivos El capital neto se determinará conforme lo establezca la propia Comisión en las mencionadas disposiciones y constará de varias partes, entre las cuales se definirá una básica, que a su vez, contará con dos tramos, de los cuales uno se denominará capital fundamental. Cada una de las partes y de los tramos del capital neto no deberán ser inferiores a los mínimos determinados por la Comisión Nacional Bancaria y de Valores en las disposiciones a que se refiere el primer párrafo de este artículo.
+
+I. Riesgos de mercado, de crédito, operacional y demás en que las instituciones incurran en su operación, y
+
+II. La relación entre sus activos y pasivos El capital neto se determinará conforme lo establezca la propia Comisión en las mencionadas disposiciones y constará de varias partes, entre las cuales se definirá una básica, que a su vez, contará con dos tramos, de los cuales uno se denominará capital fundamental. Cada una de las partes y de los tramos del capital neto no deberán ser inferiores a los mínimos determinados por la Comisión Nacional Bancaria y de Valores en las disposiciones a que se refiere el primer párrafo de este artículo.
 Los requerimientos de capital que establezca la Comisión Nacional Bancaria y de Valores tendrán por objeto salvaguardar la estabilidad financiera y la solvencia de las instituciones de crédito, así como proteger los intereses del público ahorrador.
 El capital neto estará integrado por aportaciones de capital, así como por utilidades retenidas y reservas de capital, sin perjuicio de que la Comisión Nacional Bancaria y de Valores permita incluir o restar en dicho capital neto otros conceptos del patrimonio, sujeto a los términos y condiciones que establezca dicha Comisión en las referidas disposiciones de carácter general.
 Al ejercer las atribuciones y expedir las disposiciones de carácter general a que se refiere este artículo, la Comisión Nacional Bancaria y de Valores deberá escuchar la opinión del Banco de México, así como tomar en cuenta los usos bancarios internacionales respecto a la adecuada capitalización de las instituciones de crédito, al tiempo que determinará las clasificaciones de los activos, de las operaciones causantes de pasivo contingente y otras operaciones, determinando el tratamiento que corresponda a los distintos grupos de activos y operaciones resultantes de las referidas clasificaciones.
@@ -1089,7 +1515,10 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 51
 .- Al realizar sus operaciones las instituciones de crédito deben diversificar sus riesgos. La Comisión Nacional Bancaria y de Valores con acuerdo de su Junta de Gobierno determinará mediante disposiciones de carácter general:
-I. Los porcentajes máximos de los pasivos a cargo de una institución que correspondan a obligaciones directas o contingentes en favor de una misma persona, entidad o grupo de personas que de acuerdo con las mismas disposiciones deban considerarse para estos efectos, como un solo acreedor, y II. Los límites máximos del importe de las responsabilidades directas y contingentes incluyendo las inversiones en títulos representativos de capital, de una misma persona, entidad o grupo de personas que por sus nexos patrimoniales o de responsabilidad, constituyan riesgos comunes para una institución de crédito.
+
+I. Los porcentajes máximos de los pasivos a cargo de una institución que correspondan a obligaciones directas o contingentes en favor de una misma persona, entidad o grupo de personas que de acuerdo con las mismas disposiciones deban considerarse para estos efectos, como un solo acreedor, y
+
+II. Los límites máximos del importe de las responsabilidades directas y contingentes incluyendo las inversiones en títulos representativos de capital, de una misma persona, entidad o grupo de personas que por sus nexos patrimoniales o de responsabilidad, constituyan riesgos comunes para una institución de crédito.
 En adición a los límites señalados en las fracciones I a II de este artículo, las citadas disposiciones de carácter general podrán referirse a límites por entidades o segmentos del mercado que representen una concentración de riesgos de crédito, de mercado o incluso de operación. Para este último caso, también podrán preverse límites máximos para transacciones efectuadas con una o más personas que formen parte de un consorcio o grupo empresarial, y que impliquen la adquisición o el derecho al uso, goce o disfrute de bienes o servicios de cualquier tipo, bajo cualquier título jurídico, incluso con motivo de operaciones de fideicomiso.
 Para efectos de este artículo, se entenderá por control, consorcio y grupo empresarial, lo establecido en el artículo 22 Bis de esta Ley.
 Artículo reformado DOF 04-06-2001, 24-06-2002, 01-02-2008, 10-01-2014
@@ -1100,8 +1529,13 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 52
 .- Las instituciones de crédito podrán permitir el uso de la firma electrónica avanzada o cualquier otra forma de autenticación para pactar la celebración de sus operaciones y la prestación de servicios con el público mediante el uso de equipos, medios electrónicos, ópticos o de cualquier otra tecnología, sistemas automatizados de procesamiento de datos y redes de telecomunicaciones, ya sean privados o públicos, y establecerán en los contratos respectivos las bases para determinar lo siguiente:
-Párrafo reformado DOF 09-03-2018 I. Las operaciones y servicios cuya prestación se pacte;
-II. Los medios de identificación del usuario y las responsabilidades correspondientes a su uso, y III. Los medios por los que se hagan constar la creación, transmisión, modificación o extinción de derechos y obligaciones inherentes a las operaciones y servicios de que se trate.
+Párrafo reformado DOF 09-03-2018
+
+I. Las operaciones y servicios cuya prestación se pacte;
+
+II. Los medios de identificación del usuario y las responsabilidades correspondientes a su uso, y
+
+III. Los medios por los que se hagan constar la creación, transmisión, modificación o extinción de derechos y obligaciones inherentes a las operaciones y servicios de que se trate.
 Cuando así lo acuerden con su clientela, las instituciones podrán suspender o cancelar el trámite de operaciones que aquélla pretenda realizar mediante el uso de equipos o medios a que se refiere el primer párrafo de este artículo, siempre que cuenten con elementos suficientes para presumir que los medios de identificación pactados para tal efecto han sido utilizados en forma indebida. Lo anterior también resultará aplicable cuando las instituciones detecten algún error en la instrucción respectiva.
 Asimismo, las instituciones podrán acordar con su clientela que, cuando ésta haya recibido recursos mediante alguno de los equipos o medios señalados en el párrafo anterior y aquéllas cuenten con elementos suficientes para presumir que los medios de identificación pactados para tal efecto han sido utilizados en forma indebida, podrán restringir hasta por quince días hábiles la disposición de tales recursos, a fin de llevar a cabo las investigaciones y las consultas que sean necesarias con otras instituciones de crédito relacionadas con la operación de que se trate. La institución de crédito podrá prorrogar el plazo antes referido hasta por diez días hábiles más, siempre que se haya dado vista a la autoridad competente sobre probables hechos ilícitos cometidos en virtud de la operación respectiva.
 No obstante lo dispuesto en el párrafo anterior, cuando las instituciones así lo hayan acordado con su clientela, en los casos en que, por motivo de las investigaciones antes referidas, tengan evidencia de que la cuenta respectiva fue abierta con información o documentación falsa, o bien, que los medios de identificación pactados para la realización de la operación de que se trate fueron utilizados en forma indebida, podrán, bajo su responsabilidad, cargar el importe respectivo con el propósito de que se abone en la cuenta de la que procedieron los recursos correspondientes.
@@ -1117,21 +1551,46 @@ Párrafo reformado DOF 10-01-2014 Artículo reformado DOF 04-06-2001, 01-02-2008
 .- Las operaciones con valores que realicen las instituciones de crédito actuando por se sujetarán a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores.
 En los casos señalados en el Título Octavo de esta Ley, la Comisión Nacional Bancaria y de Valores establecerá como medidas que deberán cumplir las instituciones de crédito a efecto de incentivar la canalización de mayores recursos al financiamiento del sector productivo, parámetros para la celebración de operaciones con valores que realicen dichas instituciones por cuenta propia, pudiendo además quedar diferenciados por cada tipo de valor. Dichas medidas deberán establecerse en disposiciones de carácter general, aprobadas por la Junta de Gobierno de dicha Comisión y podrán tener en su caso el carácter de temporal. Adicionalmente la Comisión podrá imponer dichas medidas, por acuerdo de la Junta de Gobierno, para orientar las actividades del Sistema Bancario Mexicano en cumplimiento de lo establecido en el artículo 4o. de la presente Ley.
 Cuando las operaciones con valores que realicen las instituciones de crédito por cuenta propia se realicen con valores inscritos en el Registro Nacional de Valores, deberán llevarse a cabo con la intermediación de casas de bolsa, salvo en los casos siguientes:
+
 I. Aquéllas con valores emitidos, aceptados o garantizados, por instituciones de crédito;
-II. Aquéllas que el Banco de México, por razones de política crediticia o cambiaria, determine mediante reglas de carácter general, y III. Las que exceptúe la Secretaría de Hacienda y Crédito Público, siempre que se efectúen para: a) Financiar empresas de nueva creación o ampliaciones a las existentes; b) Transferir proporciones importantes del capital de empresas, y c) Otros propósitos a los cuales no se adecúen los mecanismos normales del mercado.
+
+II. Aquéllas que el Banco de México, por razones de política crediticia o cambiaria, determine mediante reglas de carácter general, y
+
+III. Las que exceptúe la Secretaría de Hacienda y Crédito Público, siempre que se efectúen para:
+
+a) Financiar empresas de nueva creación o ampliaciones a las existentes;
+
+b) Transferir proporciones importantes del capital de empresas, y
+
+c) Otros propósitos a los cuales no se adecúen los mecanismos normales del mercado.
 La Secretaría de Hacienda y Crédito Público para resolver sobre las excepciones previstas en esta fracción, escuchará la opinión del Banco de México, así como de la Comisión Nacional Bancaria y de Valores.
 Artículo reformado DOF 10-01-2014
 
 ### Artículo 54
 .- Los reportos sobre valores que celebren las instituciones de crédito se sujetarán a las disposiciones aplicables a esa clase de operaciones, así como a lo siguiente:
-Párrafo reformado DOF 23-07-1993 I. Se formalizarán, al igual que sus prórrogas, de la manera que mediante reglas de carácter general determine el Banco de México, no siendo necesario que dichos reportos consten por escrito;
-Fracción reformada DOF 23-07-1993 II. Si el plazo del reporto vence en un día que no fuere hábil, se entenderá prorrogado al primer día hábil siguiente;
-III. El plazo del reporto y, en su caso, los de sus prórrogas podrán pactarse libremente por las partes, sin exceder los plazos que para tales efectos establezca el Banco de México, mediante las reglas señaladas en la fracción I anterior, y Fracción reformada DOF 23-07-1993 IV. Salvo pacto en contrario, si el día en que el reporto deba liquidarse el reportado no liquida la operación ni ésta es prorrogada, se tendrá por abandonada y el reportador podrá exigir desde luego al reportado el pago de las diferencias que resulten a su cargo.
+Párrafo reformado DOF 23-07-1993
+
+I. Se formalizarán, al igual que sus prórrogas, de la manera que mediante reglas de carácter general determine el Banco de México, no siendo necesario que dichos reportos consten por escrito;
+Fracción reformada DOF 23-07-1993
+
+II. Si el plazo del reporto vence en un día que no fuere hábil, se entenderá prorrogado al primer día hábil siguiente;
+
+III. El plazo del reporto y, en su caso, los de sus prórrogas podrán pactarse libremente por las partes, sin exceder los plazos que para tales efectos establezca el Banco de México, mediante las reglas señaladas en la fracción I anterior, y Fracción reformada DOF 23-07-1993
+
+IV. Salvo pacto en contrario, si el día en que el reporto deba liquidarse el reportado no liquida la operación ni ésta es prorrogada, se tendrá por abandonada y el reportador podrá exigir desde luego al reportado el pago de las diferencias que resulten a su cargo.
 
 ### Artículo 55
 .- Las inversiones con cargo a la parte básica del capital neto de la institución, señalado en el artículo 50 de la presente Ley, se sujetarán a los siguientes límites:
+
 I. No excederá del sesenta por ciento de la parte básica del referido capital neto de la institución el importe de las inversiones en mobiliario y equipo, en inmuebles o en derechos reales que no sean de garantía, más el importe de las inversiones en el capital de las sociedades a que se refiere el artículo 88 de esta Ley;
-II. El importe de las adaptaciones y mejoras al mobiliario e inmuebles no podrá exceder del diez por ciento de la parte básica del propio capital neto de la institución. La Comisión Nacional Bancaria y de Valores podrá aumentar temporalmente en casos individuales este porcentaje, así como el señalado en la fracción que antecede, cuando a su juicio la cantidad resultante sea insuficiente para el destino indicado, y III. El importe total de inversiones en el capital de sociedades a que se refiere el artículo 89 de esta Ley no podrá exceder del menor de los siguientes montos: a) El equivalente al cincuenta por ciento de la parte básica del capital neto de la institución, o b) El excedente de la parte básica del capital neto de la institución sobre el capital mínimo.
+
+II. El importe de las adaptaciones y mejoras al mobiliario e inmuebles no podrá exceder del diez por ciento de la parte básica del propio capital neto de la institución. La Comisión Nacional Bancaria y de Valores podrá aumentar temporalmente en casos individuales este porcentaje, así como el señalado en la fracción que antecede, cuando a su juicio la cantidad resultante sea insuficiente para el destino indicado, y
+
+III. El importe total de inversiones en el capital de sociedades a que se refiere el artículo 89 de esta Ley no podrá exceder del menor de los siguientes montos:
+
+a) El equivalente al cincuenta por ciento de la parte básica del capital neto de la institución, o
+
+b) El excedente de la parte básica del capital neto de la institución sobre el capital mínimo.
 La suma de las inversiones a que se refieren las fracciones I y II de este artículo, el monto de las operaciones que exceda los límites previstos para la inversión de sus pasivos, y el valor estimado de los bienes, derechos y títulos que reciban en pago de adeudos o por adjudicación en remate dentro de los juicios relacionados con créditos a su favor, no podrá exceder de la parte básica del capital neto de la institución, señalado en el artículo 50 de la presente Ley.
 Asimismo, las instituciones de crédito que reciban bienes, derechos y títulos en pago de adeudos o por adjudicaciones en remate dentro de los juicios relacionados con créditos a su favor, que no deban conservar en su activo, deberán realizar el registro contable y la estimación máxima de valor que la propia Comisión establezca para estos supuestos al amparo de lo previsto en los artículos 99 y 102 de esta Ley.
 Artículo reformado DOF 01-02-2008
@@ -1141,15 +1600,25 @@ Bis.- Se deroga Artículo adicionado DOF 24-06-2002. Derogado DOF 10-01-2014
 
 ### Artículo 55
 Bis 1. Las instituciones de banca de desarrollo y los fideicomisos públicos de fomento económico enviarán al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y ésta a su vez al Congreso de la Unión, junto con los informes sobre la situación económica, las finanzas públicas y la deuda pública y en los recesos de éste, a la Comisión Permanente, lo siguiente:
-Párrafo reformado DOF 06-05-2009 I. En el informe de enero a marzo de cada año, una exposición sobre los programas de créditos, de garantías, transferencias de subsidios y transferencias de recursos fiscales, así como aquellos gastos que pudieran ser objeto de subsidios o transferencias de recursos fiscales durante el ejercicio respectivo, sustentado en los hechos acontecidos en el ejercicio anterior con la mejor información disponible, indicando las políticas y criterios conforme a los cuales realizarán sus operaciones a fin de coadyuvar al cumplimiento del Plan Nacional de Desarrollo, así como un informe sobre su presupuesto de gasto corriente y de inversión, correspondiente al ejercicio en curso. En este informe también deberá darse cuenta sobre las contingencias derivadas de las garantías otorgadas por la institución de banca de desarrollo o fideicomiso público de fomento económico de que se trate y el Gobierno Federal, así como las contingencias laborales que pudieren enfrentar, al amparo de un estudio efectuado por una calificadora de prestigio, en el ejercicio anterior; asimismo, se deberán incluir indicadores que midan los servicios con los que atienden a los sectores que establecen sus respectivas leyes orgánicas o contratos constitutivos, de acuerdo con los lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
-Fracción reformada DOF 06-05-2009 II. Dentro de los ciento veinte días siguientes al cierre de cada ejercicio, las instituciones de banca de desarrollo emitirán un informe anual sobre el cumplimiento de los programas anuales del citado ejercicio y en general, sobre el gasto corriente y de inversión, así como de las actividades de éstas en el transcurso de dicho ejercicio. Asimismo, se integrará a este informe el o los reportes elaborados por la Comisión Nacional Bancaria y de Valores, que envíe a la Secretaría de Hacienda y Crédito Público, relativos a la situación financiera y del nivel de riesgo de cada una de las instituciones de banca de desarrollo, y III. En el informe de julio a septiembre de cada año, un informe sobre el cumplimiento del programa anual de la institución de banca de desarrollo respectiva, durante el primer semestre del ejercicio de que se trate.
+Párrafo reformado DOF 06-05-2009
+
+I. En el informe de enero a marzo de cada año, una exposición sobre los programas de créditos, de garantías, transferencias de subsidios y transferencias de recursos fiscales, así como aquellos gastos que pudieran ser objeto de subsidios o transferencias de recursos fiscales durante el ejercicio respectivo, sustentado en los hechos acontecidos en el ejercicio anterior con la mejor información disponible, indicando las políticas y criterios conforme a los cuales realizarán sus operaciones a fin de coadyuvar al cumplimiento del Plan Nacional de Desarrollo, así como un informe sobre su presupuesto de gasto corriente y de inversión, correspondiente al ejercicio en curso. En este informe también deberá darse cuenta sobre las contingencias derivadas de las garantías otorgadas por la institución de banca de desarrollo o fideicomiso público de fomento económico de que se trate y el Gobierno Federal, así como las contingencias laborales que pudieren enfrentar, al amparo de un estudio efectuado por una calificadora de prestigio, en el ejercicio anterior; asimismo, se deberán incluir indicadores que midan los servicios con los que atienden a los sectores que establecen sus respectivas leyes orgánicas o contratos constitutivos, de acuerdo con los lineamientos que para tal efecto emita la Secretaría de Hacienda y Crédito Público.
+Fracción reformada DOF 06-05-2009
+
+II. Dentro de los ciento veinte días siguientes al cierre de cada ejercicio, las instituciones de banca de desarrollo emitirán un informe anual sobre el cumplimiento de los programas anuales del citado ejercicio y en general, sobre el gasto corriente y de inversión, así como de las actividades de éstas en el transcurso de dicho ejercicio. Asimismo, se integrará a este informe el o los reportes elaborados por la Comisión Nacional Bancaria y de Valores, que envíe a la Secretaría de Hacienda y Crédito Público, relativos a la situación financiera y del nivel de riesgo de cada una de las instituciones de banca de desarrollo, y
+
+III. En el informe de julio a septiembre de cada año, un informe sobre el cumplimiento del programa anual de la institución de banca de desarrollo respectiva, durante el primer semestre del ejercicio de que se trate.
 Asimismo, cada institución de banca de desarrollo deberá publicar trimestralmente, en su página electrónica de la red mundial denominada Internet, el estado que guarda su patrimonio, así como los indicadores más representativos de su situación financiera, administrativa, y de su cartera, incluyendo población objetivo atendida, distribución por crédito directo, a través de intermediarios y garantías.
 Párrafo reformado DOF 10-01-2014 Artículo adicionado DOF 24-06-2002
 
 ### Artículo 55
 Bis 2. La Secretaría de Hacienda y Crédito Público deberá publicar anualmente dos estudios realizados a instituciones de la banca de desarrollo o fideicomisos públicos de fomento económico, con el propósito de evaluar que:
+
 I. Promueven el financiamiento a los sectores que definen sus leyes orgánicas y contratos constitutivos, que los intermediarios financieros privados no atienden;
-II. Cuenten con mecanismos para canalizar a los intermediarios financieros privados a quienes ya pueden ser sujetos de crédito por parte de esos intermediarios, y III. Armonicen acciones con otras entidades del sector público para hacer un uso más efectivo de los recursos.
+
+II. Cuenten con mecanismos para canalizar a los intermediarios financieros privados a quienes ya pueden ser sujetos de crédito por parte de esos intermediarios, y
+
+III. Armonicen acciones con otras entidades del sector público para hacer un uso más efectivo de los recursos.
 En la elaboración de dichos estudios deberán participar al menos dos instituciones académicas de prestigio en el país. Sus resultados deberán darse a conocer a las Comisiones de Hacienda y Crédito Público de ambas Cámaras del Congreso de la Unión a más tardar en el mes de abril posterior al ejercicio evaluado.
 Artículo adicionado DOF 06-05-2009 CAPITULO II De las Operaciones Pasivas
 
@@ -1164,7 +1633,10 @@ Artículo reformado DOF 23-03-2009
 .- Los clientes de las instituciones de crédito que mantengan cuentas vinculadas con las operaciones a que se refieren las fracciones I y II del artículo 46 de esta Ley podrán autorizar a terceros para que hagan disposiciones de efectivo con cargo a dichas cuentas. Para ello, las instituciones deberán contar con la autorización del titular o titulares de la cuenta. Tratándose de instituciones de banca múltiple, éstas además deberán realizar los actos necesarios para que en los contratos en los que se documenten las operaciones referidas, se señale expresamente a la o las personas que tendrán derecho al pago de las obligaciones garantizadas a que se refiere la Ley de Protección al Ahorro Bancario.
 Párrafo reformado DOF 10-01-2014 Asimismo, los clientes de las instituciones de crédito podrán domiciliar el pago de bienes y servicios en las cuentas de depósito referidas en los incisos a) y c) de la fracción I del artículo 46 de esta Ley. Los clientes podrán autorizar los cargos directamente a la institución de crédito o a los proveedores de los bienes o servicios.
 Las instituciones de crédito podrán cargar a las mencionadas cuentas los importes correspondientes, siempre y cuando:
-I. Cuenten con la autorización del titular o titulares de la cuenta de que se trate, o II. El titular o titulares de la cuenta autoricen los cargos por medio del proveedor y éste, a través de la institución de crédito que le ofrezca el servicio de cobro respectivo, instruya a la institución de crédito que mantenga el depósito correspondiente a realizar los cargos. En este caso, la autorización podrá quedar en poder del proveedor.
+
+I. Cuenten con la autorización del titular o titulares de la cuenta de que se trate, o
+
+II. El titular o titulares de la cuenta autoricen los cargos por medio del proveedor y éste, a través de la institución de crédito que le ofrezca el servicio de cobro respectivo, instruya a la institución de crédito que mantenga el depósito correspondiente a realizar los cargos. En este caso, la autorización podrá quedar en poder del proveedor.
 El titular de la cuenta de depósito que desee objetar un cargo de los previstos en el segundo párrafo de este artículo deberá seguir el procedimiento y cumplir los requisitos que, al efecto, establezca el Banco de México mediante disposiciones de carácter general.
 En los supuestos y plazos que señalen las disposiciones mencionadas en el párrafo anterior, cuando una misma institución lleve las cuentas del depositante que objetó el cargo y del proveedor, deberá abonar en la primera el importe total del cargo objetado y posteriormente podrá cargar tal importe a la cuenta que lleve al proveedor. Cuando las aludidas cuentas las lleven instituciones de crédito distintas, la institución que lleve la cuenta del proveedor deberá devolver los recursos correspondientes a la institución que lleve la cuenta al depositante para que los abone a ésta y, posteriormente, la institución que lleve la cuenta al proveedor podrá cargar a ella el importe correspondiente.
 Previo a la prestación de los servicios de domiciliación a que se refiere este artículo, las instituciones de crédito deberán pactar con los proveedores el procedimiento para efectuar los cargos a que se refiere el párrafo anterior.
@@ -1187,7 +1659,11 @@ Párrafo adicionado DOF 27-03-2020
 
 ### Artículo 60
 .- Las cantidades que tengan por lo menos un año de depósito en cuenta de ahorro no estarán sujetas a embargo hasta una suma equivalente a la que resulte mayor de los límites siguientes:
-Párrafo reformado DOF 10-01-2014 I. El equivalente a veinte veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, o Fracción adicionada DOF 10-01-2014 II. El equivalente al setenta y cinco por ciento del importe de la cuenta.
+Párrafo reformado DOF 10-01-2014
+
+I. El equivalente a veinte veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, o Fracción adicionada DOF 10-01-2014
+
+II. El equivalente al setenta y cinco por ciento del importe de la cuenta.
 Fracción adicionada DOF 10-01-2014 Lo dispuesto en este artículo sólo será aplicable a las cantidades correspondientes a una cuenta por persona, independientemente de que una misma tenga diversas cuentas de ahorro en una o varias instituciones.
 Las instituciones no incurrirán en responsabilidad por el cumplimiento de las órdenes de embargo o de liberación de embargo que sean dictadas por las autoridades judiciales o administrativas correspondientes.
 Párrafo adicionado DOF 01-02-2008
@@ -1205,14 +1681,24 @@ Artículo reformado DOF 01-02-2008
 
 ### Artículo 63
 .- Los bonos bancarios y sus cupones serán títulos de crédito a cargo de la institución emisora y producirán acción ejecutiva respecto a la misma, previo requerimiento de pago ante fedatario público. Se emitirán en serie mediante declaración unilateral de voluntad de dicha institución que se hará constar ante la Comisión Nacional Bancaria, en los términos que ésta señale y deberán contener:
+
 I. La mención de ser bonos bancarios y títulos al portador;
+
 II. La expresión de lugar y fecha en que se suscriban;
+
 III. El nombre y la firma de la emisora;
+
 IV. El importe de la emisión, con especificación del número y el valor nominal de cada bono;
+
 V. El tipo de interés que en su caso devengarán;
+
 VI. Los plazos para el pago de intereses y de capital;
+
 VII. Las condiciones y las formas de amortización;
-VIII. El lugar de pago único, y IX. Los plazos o términos y condiciones del acta de emisión.
+
+VIII. El lugar de pago único, y
+
+IX. Los plazos o términos y condiciones del acta de emisión.
 Podrán tener anexos cupones para el pago de intereses y, en su caso, recibos para las amortizaciones parciales. Los títulos podrán amparar uno o más bonos. Las instituciones emisoras tendrán la facultad de amortizar anticipadamente los bonos, siempre y cuando en el acta de emisión, en cualquier propaganda o publicidad dirigida al público y en los títulos que se expidan, se describan claramente los términos, fechas y condiciones de pago anticipado.
 Párrafo reformado DOF 04-06-2001 Cualquier modificación a los términos, fechas y condiciones de pago deberán realizarse con el acuerdo favorable de las tres cuartas partes, tanto del consejo de administración de la institución de que se trate, como de los tenedores de los títulos correspondientes. La convocatoria de la asamblea correspondiente deberá contener todos los asuntos a tratar en la asamblea, incluyendo cualquier modificación al acta de emisión y publicarse en el Diario Oficial de la Federación y en algún periódico de amplia circulación nacional por lo menos con quince días de anticipación a la fecha en que la asamblea deba reunirse.
 Párrafo adicionado DOF 04-06-2001 La emisora mantendrá los bonos en custodia en alguna de las instituciones para el depósito de de sus tenencias.
@@ -1245,10 +1731,17 @@ Artículo reformado DOF 19-01-1999, 01-02-2008
 
 ### Artículo 66
 .- Los contratos de crédito refaccionario y de habilitación o avío, que celebren las instituciones de crédito, se ajustarán a lo dispuesto por la Ley General de Títulos y Operaciones de Crédito, y a las bases siguientes:
+
 I. Se consignarán, según convenga a las partes y cualquiera que sea su monto, en póliza ante corredor público titulado, en escritura pública o en contrato privado, que en este último caso se firmará por triplicado ante dos testigos y se ratificará ante notario público, corredor público titulado, juez de primera instancia en funciones de notario o ante el encargado del Registro Público correspondiente;
+
 II. Sin satisfacer más formalidades que las señaladas en la fracción anterior, se podrán establecer garantías reales sobre bienes muebles o inmuebles, además de los que constituyen la garantía propia de estos créditos, o sobre la unidad agrícola, ganadera o de otras actividades primarias, industrial, comercial o de servicios, con las características que se mencionan en el artículo siguiente;
-Fracción reformada DOF 13-06-2003 III. Los bienes sobre los cuales se constituya la prenda, en su caso, podrán quedar en poder del deudor en los términos establecidos en el artículo 329 de la Ley General de Títulos y Operaciones de Crédito;
-IV. El deudor podrá usar y disponer de la prenda que quede en su poder, conforme a lo que se pacte en el contrato, y V. Podrá exceder del cincuenta por ciento la parte de los créditos refaccionarios que se destine a cubrir los pasivos a que se refiere el párrafo segundo el artículo 323 de la Ley General de Títulos y Operaciones de Crédito, sólo en los casos que la Comisión Nacional Bancaria y de Valores autorice a la institución de crédito para ello, siempre que se acredite el cumplimiento de los requisitos señalados en el artículo 65 de esta Ley.
+Fracción reformada DOF 13-06-2003
+
+III. Los bienes sobre los cuales se constituya la prenda, en su caso, podrán quedar en poder del deudor en los términos establecidos en el artículo 329 de la Ley General de Títulos y Operaciones de Crédito;
+
+IV. El deudor podrá usar y disponer de la prenda que quede en su poder, conforme a lo que se pacte en el contrato, y
+
+V. Podrá exceder del cincuenta por ciento la parte de los créditos refaccionarios que se destine a cubrir los pasivos a que se refiere el párrafo segundo el artículo 323 de la Ley General de Títulos y Operaciones de Crédito, sólo en los casos que la Comisión Nacional Bancaria y de Valores autorice a la institución de crédito para ello, siempre que se acredite el cumplimiento de los requisitos señalados en el artículo 65 de esta Ley.
 Fracción reformada DOF 01-02-2008
 
 ### Artículo 67
@@ -1280,11 +1773,18 @@ Una vez emitidas las cartas de crédito, la obligación de pago de la instituci�
 Las cartas de crédito irrevocables solo podrán ser modificadas o canceladas con la aceptación expresa de la institución emisora, del beneficiario y, en su caso, de la institución confirmadora.
 Para efectos del presente artículo, se entenderá por confirmación el compromiso expreso de pago que asume una institución de crédito respecto de una carta de crédito emitida por otra, a petición de esta última. La confirmación de la carta de crédito que realice una institución de crédito implicará para ella una obligación directa de pago frente al beneficiario, sujeta a que éste cumpla con los términos y condiciones previstos en la propia carta de crédito. Dicha obligación de pago es independiente de los derechos y obligaciones que existan entre la institución de crédito que realiza la confirmación y la institución emisora.
 Las instituciones de crédito no serán responsables por:
+
 I. El cumplimiento o incumplimiento del hecho o acto que motive la emisión de la carta de crédito;
+
 II. La exactitud, autenticidad o valor legal de cualquier documento presentado al amparo de la carta de crédito;
+
 III. Los actos u omisiones de terceros, aun si esos terceros son designados por la institución de crédito emisora, incluyendo a bancos que actúen como corresponsales;
+
 IV. La calidad, cantidad, peso, valor o cualquier otra característica de las mercancías o servicios descritos en los documentos;
-V. El retraso o extravío en los medios de envío o de comunicación, y VI. El incumplimiento por caso fortuito o fuerza mayor.
+
+V. El retraso o extravío en los medios de envío o de comunicación, y
+
+VI. El incumplimiento por caso fortuito o fuerza mayor.
 Las cartas de crédito a que se refiere este artículo podrán ser comerciales, así como de garantía o contingentes.
 Las cartas de crédito comerciales permiten al beneficiario hacer exigible el pago de una obligación derivada de una operación de comercio, contra la presentación de los documentos en ellas previstos y de conformidad con sus términos y condiciones. Cuando se utilicen las expresiones "crédito documentario", "crédito comercial documentario" y "crédito comercial", se entenderá que se refieren a las cartas de crédito comerciales previstas en este párrafo.
 Las instituciones emisoras o confirmadoras podrán pagar anticipadamente obligaciones a su cargo provenientes de cartas de crédito comerciales a plazo y, en su caso, de las aceptaciones a plazo giradas en relación con tales cartas de crédito, cuando los documentos presentados por el beneficiario cumplan con los términos y condiciones previstos en dichas cartas de crédito. Lo anterior no modifica las obligaciones del cliente con la institución emisora.
@@ -1299,7 +1799,10 @@ Artículo derogado DOF 13-06-2003
 ### Artículo 72
 Bis.- Los clientes de las instituciones de crédito que tengan celebrados contratos de apertura de crédito en cuenta corriente, a los que se refiere la fracción VII del artículo 46 de esta Ley, podrán autorizar a dichas instituciones o a proveedores que se realice el pago de bienes y servicios con cargo a la cuenta que corresponda a dicho contrato.
 Para ello, las instituciones de crédito podrán cargar a las mencionadas cuentas los importes correspondientes, siempre y cuando:
-I. Cuenten con la autorización del titular o titulares de la cuenta de que se trate, o II. El titular o titulares de la cuenta autoricen los cargos por medio del proveedor y éste, a través de la institución de crédito que le ofrezca el servicio de cobro respectivo, instruya a la institución de crédito que mantenga la cuenta correspondiente a realizar los cargos. En este caso, la autorización podrá quedar en poder del proveedor.
+
+I. Cuenten con la autorización del titular o titulares de la cuenta de que se trate, o
+
+II. El titular o titulares de la cuenta autoricen los cargos por medio del proveedor y éste, a través de la institución de crédito que le ofrezca el servicio de cobro respectivo, instruya a la institución de crédito que mantenga la cuenta correspondiente a realizar los cargos. En este caso, la autorización podrá quedar en poder del proveedor.
 El titular de la cuenta que desee objetar algún pago deberá seguir el procedimiento que, al efecto, establezca el Banco de México mediante disposiciones de carácter general. Previo a la prestación de los servicios de domiciliación a que se refiere este artículo, las instituciones de crédito deberán pactar con los proveedores el procedimiento para efectuarles dichos cargos.
 En cualquier momento el cliente podrá solicitar a la institución de crédito la cancelación de la autorización a que se refiere el presente artículo, independientemente de quién la conserve. La citada cancelación surtirá efectos en el plazo que establezca el Banco de México en las disposiciones de carácter general a que se refiere el párrafo anterior, el cual no podrá exceder de los diez días hábiles bancarios siguientes a aquél en que la institución de crédito la reciba, por lo que, a partir de dicha fecha, deberá rechazar cualquier nuevo cargo a favor del proveedor.
 Las autorizaciones, instrucciones y comunicaciones a que se refiere este artículo podrán llevarse a cabo por escrito con firma autógrafa o a través de medios electrónicos, ópticos o de cualquier otra tecnología, de conformidad con lo que, al efecto, establezca el Banco de México en disposiciones de carácter general.
@@ -1308,13 +1811,26 @@ Párrafo reformado DOF 09-03-2018 Artículo adicionado DOF 01-02-2008
 ### Artículo 73
 .- Las instituciones de banca múltiple requerirán del acuerdo de, por lo menos, tres cuartas partes de los consejeros que estén presentes en las sesiones del consejo de administración, para aprobar la celebración de operaciones con personas relacionadas.
 Párrafo reformado DOF 09-06-1992, 15-02-1995, 19-01-1999, 04-06-2001 Para efectos de esta Ley, se entenderá como operaciones con personas relacionadas aquéllas en las que resulten o puedan resultar deudoras de las instituciones de banca múltiple, cuando se trate, entre otras, de operaciones de depósito u otras disponibilidades o de préstamo, crédito o descuento, otorgadas en forma revocable o irrevocable y documentadas mediante títulos de crédito o convenio, reestructuración, renovación o modificación, quedando incluidas las posiciones netas a favor de la institución por operaciones derivadas y las inversiones en valores distintos a acciones. Serán personas relacionadas las que se indican a continuación:
-Párrafo adicionado DOF 04-06-2001. Reformado DOF 01-02-2008 I. Las personas físicas o morales que posean directa o indirectamente el control del dos por ciento o más de los títulos representativos del capital de la institución, de la sociedad controladora o de las entidades financieras y empresas integrantes del grupo financiero al que, en su caso, pertenezca la propia institución, de acuerdo al registro de accionistas más reciente;
-Fracción reformada DOF 04-06-2001 II. Los miembros del consejo de administración, de la institución, de la sociedad controladora o de las entidades financieras y empresas integrantes del grupo financiero al que, en su caso, ésta pertenezca;
-Fracción reformada DOF 04-06-2001 III. Los cónyuges y las personas que tengan parentesco con las personas señaladas en las fracciones anteriores;
-Fracción reformada DOF 04-06-2001 IV. Las personas distintas a los funcionarios o empleados que con su firma puedan obligar a la institución;
+Párrafo adicionado DOF 04-06-2001. Reformado DOF 01-02-2008
+
+I. Las personas físicas o morales que posean directa o indirectamente el control del dos por ciento o más de los títulos representativos del capital de la institución, de la sociedad controladora o de las entidades financieras y empresas integrantes del grupo financiero al que, en su caso, pertenezca la propia institución, de acuerdo al registro de accionistas más reciente;
+Fracción reformada DOF 04-06-2001
+
+II. Los miembros del consejo de administración, de la institución, de la sociedad controladora o de las entidades financieras y empresas integrantes del grupo financiero al que, en su caso, ésta pertenezca;
+Fracción reformada DOF 04-06-2001
+
+III. Los cónyuges y las personas que tengan parentesco con las personas señaladas en las fracciones anteriores;
+Fracción reformada DOF 04-06-2001
+
+IV. Las personas distintas a los funcionarios o empleados que con su firma puedan obligar a la institución;
+
 V. Las personas morales, así como los consejeros y funcionarios de éstas, en las que la institución o la sociedad controladora del grupo financiero al que, en su caso, pertenezca la propia institución, posean directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital.
 La participación indirecta de las instituciones de banca múltiple y de las sociedades controladoras a través de los inversionistas institucionales que prevé el artículo 15 de esta Ley no computarán para considerar a la empresa emisora como relacionada;
-Párrafo reformado DOF 01-02-2008 Fracción reformada DOF 04-06-2001 VI. Las personas morales en las que los funcionarios de las instituciones sean consejeros o administradores u ocupen cualquiera de los tres primeros niveles jerárquicos en dichas personas morales, y Fracción derogada DOF 04-06-2001. Adicionada DOF 01-02-2008 VII. Las personas morales en las que cualquiera de las personas señaladas en las fracciones anteriores, así como las personas a las que se refiere el artículo 46 Bis 3 de este ordenamiento, posean directa o indirectamente el control del diez por ciento o más de los títulos representativos del capital de dichas personas morales, o bien, en las que tengan poder de mando.
+Párrafo reformado DOF 01-02-2008 Fracción reformada DOF 04-06-2001
+
+VI. Las personas morales en las que los funcionarios de las instituciones sean consejeros o administradores u ocupen cualquiera de los tres primeros niveles jerárquicos en dichas personas morales, y Fracción derogada DOF 04-06-2001. Adicionada DOF 01-02-2008
+
+VII. Las personas morales en las que cualquiera de las personas señaladas en las fracciones anteriores, así como las personas a las que se refiere el artículo 46 Bis 3 de este ordenamiento, posean directa o indirectamente el control del diez por ciento o más de los títulos representativos del capital de dichas personas morales, o bien, en las que tengan poder de mando.
 Fracción reformada DOF 04-06-2001, 01-02-2008, 10-01-2014 Asimismo, se considerará una operación con personas relacionadas aquélla que se realice a través de cualquier persona o fideicomiso, cuando la contraparte y fuente de pago de dicha operación dependa de una de las personas relacionadas a que se refiere este artículo.
 Párrafo adicionado DOF 01-02-2008 Los consejeros y funcionarios se excusarán de participar en las discusiones y se abstendrán de votar en los casos en que tengan un interés directo.
 Párrafo reformado DOF 04-06-2001 En todo caso, las operaciones con personas relacionadas no deberán celebrarse en términos y condiciones más favorables, que las operaciones de la misma naturaleza que se realicen con el público en general.
@@ -1333,14 +1849,32 @@ Párrafo reformado DOF 01-02-2008, 10-01-2014 En todos los casos de operaciones 
 Para los efectos de los párrafos anteriores, la parte básica del capital neto que deberá utilizarse será la correspondiente al último día hábil del trimestre calendario inmediato anterior a la fecha en que se efectúen los cálculos.
 Asimismo, la Comisión Nacional Bancaria y de Valores dictará disposiciones de carácter general, tendientes a regular las operaciones con personas relacionadas señaladas en los artículos 73, 73 Bis y 73 Bis 1.
 Las instituciones deberán solicitar la información correspondiente, a las personas a que se refieren las fracciones de la I a la VII del artículo 73, de conformidad con las reglas mencionadas en el párrafo anterior.
-No se considerarán operaciones con personas relacionadas, las celebradas con: a) El Gobierno Federal y el Instituto para la Protección al Ahorro Bancario;
-Inciso reformado DOF 01-02-2008 b) Las empresas de servicios complementarios o auxiliares de la banca, a que se refiere el artículo 88 de esta Ley;
-Inciso reformado DOF 01-02-2008 c) Las entidades financieras que formen parte del grupo financiero al que, en su caso, pertenezca la institución de banca múltiple, o aquéllas entidades financieras en las que la institución de banca múltiple tengan una participación accionaria, a menos que dichas entidades a su vez otorguen cualquier tipo de financiamiento a las personas señaladas en las fracciones I a VII del artículo 73 y por el monto de dicho financiamiento.
-Inciso adicionado DOF 18-07-2006 d) Cualquiera de las personas relacionadas señaladas en el artículo 73, que se aprueben utilizando los mismos parámetros aplicables a la clientela en general, hasta por un monto que no exceda del equivalente a 400,000 Unidades de Inversión por persona, y Inciso adicionado DOF 01-02-2008 e) Personas no relacionadas que otorguen en garantía derechos de crédito o valores cuyo obligado sea alguna de las personas a que se refiere el artículo 73 de esta Ley, hasta en tanto no se ejecute dicha garantía, siempre y cuando cuenten con una fuente primaria de pago que sea independiente a la garantía otorgada.
+No se considerarán operaciones con personas relacionadas, las celebradas con:
+
+a) El Gobierno Federal y el Instituto para la Protección al Ahorro Bancario;
+Inciso reformado DOF 01-02-2008
+
+b) Las empresas de servicios complementarios o auxiliares de la banca, a que se refiere el artículo 88 de esta Ley;
+Inciso reformado DOF 01-02-2008
+
+c) Las entidades financieras que formen parte del grupo financiero al que, en su caso, pertenezca la institución de banca múltiple, o aquéllas entidades financieras en las que la institución de banca múltiple tengan una participación accionaria, a menos que dichas entidades a su vez otorguen cualquier tipo de financiamiento a las personas señaladas en las fracciones I a VII del artículo 73 y por el monto de dicho financiamiento.
+Inciso adicionado DOF 18-07-2006
+
+d) Cualquiera de las personas relacionadas señaladas en el artículo 73, que se aprueben utilizando los mismos parámetros aplicables a la clientela en general, hasta por un monto que no exceda del equivalente a 400,000 Unidades de Inversión por persona, y Inciso adicionado DOF 01-02-2008
+
+e) Personas no relacionadas que otorguen en garantía derechos de crédito o valores cuyo obligado sea alguna de las personas a que se refiere el artículo 73 de esta Ley, hasta en tanto no se ejecute dicha garantía, siempre y cuando cuenten con una fuente primaria de pago que sea independiente a la garantía otorgada.
 Inciso adicionado DOF 01-02-2008 Artículo adicionado DOF 04-06-2001
 
 ### Artículo 73
-Bis 1.- Para los efectos señalados en los artículos 73 y 73 Bis, se entenderá por: a) Parentesco.- al que existe por consanguinidad y afinidad en línea recta en primer grado, y por consanguinidad y afinidad en línea colateral en segundo grado o civil. b) Funcionarios.- al director general o el cargo equivalente y a los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquél. c) Interés Directo.- cuando el carácter de deudor en la operación con personas relacionadas, lo tenga el cónyuge del consejero o funcionario, o las personas con las que tenga parentesco, o bien, una persona moral respecto de la cual alguna de las personas antes mencionadas, detente directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital. d) Poder de mando.- al supuesto que actualice una persona física acorde con lo establecido en el
+Bis 1.- Para los efectos señalados en los artículos 73 y 73 Bis, se entenderá por:
+
+a) Parentesco.- al que existe por consanguinidad y afinidad en línea recta en primer grado, y por consanguinidad y afinidad en línea colateral en segundo grado o civil.
+
+b) Funcionarios.- al director general o el cargo equivalente y a los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquél.
+
+c) Interés Directo.- cuando el carácter de deudor en la operación con personas relacionadas, lo tenga el cónyuge del consejero o funcionario, o las personas con las que tenga parentesco, o bien, una persona moral respecto de la cual alguna de las personas antes mencionadas, detente directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital.
+
+d) Poder de mando.- al supuesto que actualice una persona física acorde con lo establecido en el
 
 ### artículo 22
 Bis de esta Ley.
@@ -1359,9 +1893,16 @@ Artículo derogado DOF 23-07-1993. Adicionado DOF 10-01-2014
 
 ### Artículo 75
 .- Las instituciones de crédito podrán realizar inversiones, adquirir obligaciones de compra o de venta de títulos representativos del capital o realizar aportaciones futuras de capital de sociedades distintas a las señaladas en los artículos 88 y 89 de esta Ley, conforme a las bases siguientes:
-Párrafo reformado DOF 10-01-2014 I. Hasta el cinco por ciento del capital pagado de la emisora;
+Párrafo reformado DOF 10-01-2014
+
+I. Hasta el cinco por ciento del capital pagado de la emisora;
+
 II. Más del cinco y hasta el quince por ciento del capital pagado de la emisora, durante un plazo que no exceda de tres años, previo acuerdo de la mayoría de los consejeros de la serie "O" o "F", según corresponda y, en su caso, de la mayoría de los de la serie "B". La Comisión Nacional Bancaria y de Valores podrá ampliar el plazo a que se refiere esta fracción, considerando la naturaleza y situación de la empresa de que se trate;
-Fracción reformada DOF 10-01-2014 III. Por porcentajes y plazos mayores, en el caso de las instituciones de banca múltiple, cuando se trate de empresas que desarrollen proyectos nuevos de larga maduración, previa autorización de la Comisión Nacional Bancaria y de Valores, quien la otorgará o negará discrecionalmente, después de escuchar la opinión del Banco de México, y Fracción reformada DOF 10-01-2014 IV. Por porcentajes y plazos mayores, en el caso de las instituciones de banca de desarrollo, cuando se trate de empresas que realicen actividades relacionadas con su objeto, previa autorización de la Secretaría de Hacienda y Crédito Público.
+Fracción reformada DOF 10-01-2014
+
+III. Por porcentajes y plazos mayores, en el caso de las instituciones de banca múltiple, cuando se trate de empresas que desarrollen proyectos nuevos de larga maduración, previa autorización de la Comisión Nacional Bancaria y de Valores, quien la otorgará o negará discrecionalmente, después de escuchar la opinión del Banco de México, y Fracción reformada DOF 10-01-2014
+
+IV. Por porcentajes y plazos mayores, en el caso de las instituciones de banca de desarrollo, cuando se trate de empresas que realicen actividades relacionadas con su objeto, previa autorización de la Secretaría de Hacienda y Crédito Público.
 Fracción adicionada DOF 10-01-2014 La Comisión o la Secretaría, según corresponda, fijarán las medidas, condiciones y plazos de tenencia de las acciones, de acuerdo con la naturaleza y finalidades de las propias empresas. Asimismo, tratándose de las instituciones de banca múltiple, cuando la institución mantenga el control de las empresas citadas y, a su vez, éstas pretendan llevar a cabo inversiones en otras, se deberá obtener autorización previa de la Comisión Nacional Bancaria y de Valores en términos de la fracción III anterior.
 Párrafo reformado DOF 10-01-2014 Las instituciones de crédito diversificarán las inversiones a que se refiere este artículo de conformidad con las bases previstas en el artículo 51 de esta Ley y, en todo caso, deberán observar los límites que propicien la dispersión de riesgos, así como una sana revolvencia para apoyar a un mayor número de proyectos. Asimismo, dichas inversiones quedarán sujetas a las medidas prudenciales y disposiciones de carácter general que dicte la Comisión Nacional Bancaria y de Valores, sin perjuicio de aquellas otras que, en lo particular, determine la propia Comisión o la Secretaría de Hacienda y Crédito Público, en el ámbito de su competencia conforme a este artículo, para las instituciones respectivas.
 El importe total de las inversiones que cada institución realice con base en el presente artículo no excederá del treinta por ciento para las inversiones que se realicen en acciones cotizadas en bolsas de valores reconocidas por las autoridades financieras mexicanas, con base en la fracción I del presente artículo; ni del treinta por ciento para las inversiones que se realicen en acciones no cotizadas en las citadas bolsas de valores, con base en la fracción I del presente artículo, así como las realizadas conforme a las fracciones II, III y IV anteriores; ambos porcentajes de la parte básica del capital neto señalado en el artículo 50 de la presente Ley. Para efecto del límite en las inversiones u obligaciones sobre acciones de empresas cotizadas en bolsas de valores, de las contenidas en la fracción I de este artículo, éste se calculará conforme a las disposiciones de carácter general a que se refiere el párrafo anterior, las cuales podrán prever los casos en los que se consideren las posiciones netas.
@@ -1473,9 +2014,14 @@ Artículo reformado DOF 01-02-2008
 
 ### Artículo 92
 .- Cuando alguna persona auxilie a clientes de instituciones de crédito en la realización de operaciones propias de estas últimas, en ningún momento podrá:
+
 I. Llevar a cabo tales operaciones por cuenta propia;
+
 II. Determinar los plazos o tasas de las operaciones en las que intervenga;
-III. Obtener diferenciales de precios o de tasas por las operaciones en las que intervenga, o IV. En general, llevar a cabo actividades que requieran de autorización por parte del Gobierno Federal para operar con el carácter de entidad financiera de cualquier tipo.
+
+III. Obtener diferenciales de precios o de tasas por las operaciones en las que intervenga, o
+
+IV. En general, llevar a cabo actividades que requieran de autorización por parte del Gobierno Federal para operar con el carácter de entidad financiera de cualquier tipo.
 Las operaciones invariablemente deberán quedar documentadas a nombre del cliente respectivo.
 Las personas que ofrezcan auxilio a clientes de las instituciones de crédito al amparo de un mandato o comisión en términos del presente artículo deberán informar al cliente, al momento de proporcionarle el servicio, que no están autorizadas por el Gobierno Federal ni por las propias instituciones para asumir obligaciones a nombre y por cuenta de estas últimas y que no se encuentran supervisadas ni reguladas por las autoridades financieras, lo cual deberá constar en su publicidad o propaganda y en el contrato o en cualquier otro documento en que conste la encomienda respectiva.
 Párrafo adicionado DOF 01-02-2008 Las instituciones de crédito que establezcan relaciones o vínculos de negocio, de hecho o de derecho, con algún tercero para la recepción masiva de recursos, en efectivo o en cheques, que impliquen la captación de recursos del público o pago de créditos a favor de las propias instituciones, deberán celebrar con dichos terceros, un contrato de comisión mercantil para que éstos actúen en todo momento frente al público, como sus comisionistas conforme a lo señalado en el artículo 46 Bis 1 de esta Ley.
@@ -1487,7 +2033,9 @@ Párrafo reformado DOF 04-06-2001, 01-02-2008 Tratándose de cesiones o descuent
 Párrafo adicionado DOF 01-02-2008 Cuando las instituciones de crédito celebren cesiones o descuentos de cartera crediticia con personas distintas de las mencionadas en el párrafo anterior y pretendan responder por la solvencia del deudor, otorgar financiamiento al cesionario o descontatario, o convenir con estos últimos obligaciones o derechos que le permitan readquirir la cartera crediticia cedida o descontada, requerirán de la previa autorización de la Comisión Nacional Bancaria y de Valores, la cual deberá salvaguardar la solvencia y estabilidad financiera de las instituciones de crédito y la protección de los intereses del público.
 Asimismo, quienes se subroguen en los derechos de dicha cartera, no podrán recibir financiamiento de la propia institución de crédito, respecto de dicha operación o los créditos objeto de la misma, ni tampoco esta institución podrá responder por la solvencia del deudor. A los cesionarios les será aplicable la normatividad que regula a las instituciones financieras en esta materia.
 Párrafo adicionado DOF 01-02-2008 Las instituciones de crédito no estarán sujetas a lo establecido en el primer párrafo del artículo 142 de esta Ley por lo que hace a la información relacionada con los activos que se mencionan a continuación, cuando ésta sea proporcionada a personas con las que se negocien o celebren las siguientes operaciones:
-Párrafo adicionado DOF 30-04-1996. Reformado DOF 10-01-2014 I.- Los créditos que vayan a ser objeto de cesión o descuento; o Fracción adicionada DOF 30-04-1996 II. Su cartera u otros activos, tratándose de la transmisión o suscripción de un porcentaje significativo de su capital social o de la sociedad controladora del grupo financiero al que pertenezca. Para dar a conocer la información respectiva deberá obtenerse la autorización previa de la Comisión Nacional Bancaria y de Valores.
+Párrafo adicionado DOF 30-04-1996. Reformado DOF 10-01-2014 I.- Los créditos que vayan a ser objeto de cesión o descuento; o Fracción adicionada DOF 30-04-1996
+
+II. Su cartera u otros activos, tratándose de la transmisión o suscripción de un porcentaje significativo de su capital social o de la sociedad controladora del grupo financiero al que pertenezca. Para dar a conocer la información respectiva deberá obtenerse la autorización previa de la Comisión Nacional Bancaria y de Valores.
 Fracción adicionada DOF 30-04-1996. Reformada DOF 04-06-2001 Durante los procesos de negociación a que se refiere este artículo, los participantes deberán guardar la debida confidencialidad sobre la información a que tengan acceso con motivo de los mismos.
 Párrafo adicionado DOF 30-04-1996. Reformado DOF 04-06-2001
 
@@ -1526,10 +2074,16 @@ Cuando la Comisión Nacional Bancaria y de Valores, con motivo de su función de
 El Comité de Regulación de Liquidez Bancaria tendrá por objeto dictar las directrices para establecer los requerimientos de liquidez que deberán cumplir las instituciones de banca múltiple.
 Tales directrices estarán orientadas a asegurar que las instituciones de banca múltiple puedan hacer frente a sus obligaciones de pago en distintos plazos y escenarios, incluidos aquellos en los que imperen condiciones económicas adversas. El referido Comité considerará la estructura de vencimientos de las operaciones activas y pasivas de las propias instituciones, tomando en cuenta la liquidez y naturaleza de los activos y la estabilidad de los pasivos.
 El Comité de Regulación de Liquidez Bancaria estará integrado por:
+
 I. El Secretario de Hacienda y Crédito Público;
+
 II. El Subsecretario de Hacienda y Crédito Público;
+
 III. El Presidente de la Comisión Nacional Bancaria y de Valores;
-IV. El Gobernador del Banco de México, y V. Dos miembros de la Junta de Gobierno del Banco de México que el propio Gobernador designe.
+
+IV. El Gobernador del Banco de México, y
+
+V. Dos miembros de la Junta de Gobierno del Banco de México que el propio Gobernador designe.
 Los integrantes del Comité no tendrán suplentes.
 Las sesiones del Comité de Regulación de Liquidez Bancaria serán presididas por el Secretario de Hacienda y Crédito Público, en su ausencia, por el Gobernador del Banco de México y, en ausencia de ambos, por el Subsecretario de Hacienda y Crédito Público.
 El Secretario de Hacienda y Crédito Público, o en su caso, el Subsecretario de Hacienda y Crédito Público tendrán voto de calidad en caso de empate.
@@ -1540,11 +2094,17 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 96
 Bis 2.- En el evento que una institución de crédito no cumpla con los requerimientos a que se refiere el artículo anterior o determine que no le será posible dar cumplimiento en un futuro a dichos requerimientos, deberá notificar inmediatamente a la Comisión Nacional Bancaria y de Valores.
 Adicionalmente, dicha Comisión podrá ordenar a la institución correspondiente la aplicación de las medidas siguientes:
+
 I. Informar a la Comisión Nacional Bancaria y de Valores y al Banco de México las causas que dieron lugar al incumplimiento de los requerimientos respectivos;
+
 II. Informar a su Consejo de Administración, mediante un reporte detallado, su situación de liquidez así como las causas que motivaron el incumplimiento de los requerimientos;
+
 III. Presentar un plan de restauración de liquidez en un plazo no mayor a los cinco días hábiles en que efectúe dicha notificación para dar cumplimiento a dichos requerimientos;
+
 IV. Suspender el pago a los accionistas de dividendos provenientes de la Institución, así como cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales;
+
 V. Limitar o prohibir operaciones de manera que se restablezca el cumplimiento con los requerimientos;
+
 VI. Las demás medidas que, en su caso, establezcan las disposiciones generales que emita la Comisión Nacional Bancaria y de Valores con base en el presente artículo.
 Las medidas que determine la Comisión Nacional Bancaria y de Valores deberán tomar en cuenta la magnitud, duración y frecuencia de los incumplimientos a los requerimientos de liquidez, según lo establezcan las disposiciones generales que para dicho efecto emita la Comisión.
 Artículo adicionado DOF 10-01-2014
@@ -1552,8 +2112,12 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 97
 .- Las instituciones de crédito deberán presentar la información y documentación que, en el ámbito de sus respectivas competencias, les soliciten la Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Instituto para la Protección al Ahorro Bancario, dentro de los plazos y a través de los medios que las mismas establezcan.
 Con el objeto de preservar la estabilidad financiera, evitar interrupciones o alteraciones en el funcionamiento del sistema financiero o del sistema de pagos, así como para facilitar el adecuado cumplimiento de sus funciones, la Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y el Instituto para la Protección al Ahorro Bancario, deberán, a petición de parte interesada y en términos de los convenios a que se refiere el último párrafo de este artículo, intercambiar entre sí la información que tengan en su poder por haberla obtenido:
+
 I. En el ejercicio de sus facultades;
-II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien, III. Directamente de otras autoridades.
+
+II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
+
+III. Directamente de otras autoridades.
 A la facultad mencionada en el párrafo anterior, no le serán oponibles las restricciones relativas a la información reservada o confidencial en términos de las disposiciones legales aplicables. Quien reciba la información a que se refiere este artículo será responsable administrativa y penalmente, en términos de la legislación aplicable, por la difusión a terceros de información confidencial o reservada.
 En caso de que una institución de banca múltiple entre en resolución, el intercambio de información entre las autoridades mencionadas deberá considerarse prioritario.
 Para efectos de lo dispuesto en el presente artículo, las autoridades señaladas deberán celebrar convenios de intercambio de información en los que especifiquen la información objeto de intercambio y determinen los términos y condiciones a los que deberán sujetarse para ello. Asimismo, dichos convenios deberán definir el grado de confidencialidad o reserva de la información, así como las instancias de control respectivas a las que se informarán los casos en que se niegue la entrega de información o su entrega se haga fuera de los plazos establecidos.
@@ -1597,9 +2161,14 @@ Artículo adicionado DOF 01-02-2008
 
 ### Artículo 101
 Bis 1.- La Comisión Nacional Bancaria y de Valores contará con facultades de inspección y vigilancia, respecto de las personas morales que presten servicios de auditoría externa en términos de esta Ley, incluyendo los socios o empleados de aquéllas que formen parte del equipo de auditoría, a fin de verificar el cumplimiento de esta Ley y la observancia de las disposiciones de carácter general que de ella emanen. Para tal efecto, la citada Comisión podrá:
+
 I. Requerir toda clase de información y documentación relacionada con la prestación de este tipo de servicios;
+
 II. Practicar visitas de inspección;
-III. Requerir la comparecencia de socios, representantes y demás empleados de las personas morales que presten servicios de auditoría externa, y IV. Emitir o reconocer normas y procedimientos de auditoría que deberán observar las personas morales que presten servicios de auditoría externa al dictaminar o emitir opiniones relativas a los estados financieros de las instituciones de crédito.
+
+III. Requerir la comparecencia de socios, representantes y demás empleados de las personas morales que presten servicios de auditoría externa, y
+
+IV. Emitir o reconocer normas y procedimientos de auditoría que deberán observar las personas morales que presten servicios de auditoría externa al dictaminar o emitir opiniones relativas a los estados financieros de las instituciones de crédito.
 El ejercicio de las facultades a que se refiere este artículo estará circunscrito a los dictámenes, opiniones y prácticas de auditoría que, en términos de esta Ley, practiquen las personas morales que presten servicios de auditoría externa, así como sus socios o empleados.
 Artículo adicionado DOF 01-02-2008
 
@@ -1616,13 +2185,26 @@ Artículo adicionado DOF 01-02-2008
 Bis 4.- El auditor externo, así como la persona moral de la cual sea socio, estarán obligados a conservar la documentación, información y demás elementos utilizados para elaborar su dictamen, informe u opinión, por un plazo de al menos cinco años. Para tales efectos, se podrán utilizar medios automatizados o digitalizados.
 Asimismo, los auditores externos deberán suministrar a la Comisión Nacional Bancaria y de Valores los informes y demás elementos de juicio en los que sustenten sus dictámenes y conclusiones. Si durante la práctica o como resultado de la auditoría encuentran irregularidades que afecten la liquidez, estabilidad o solvencia de alguna de las instituciones de crédito a las que presten sus servicios de auditoría, deberán presentar al comité de auditoría, y en todo caso a la Comisión, un informe detallado sobre la situación observada.
 Las personas que proporcionen servicios de auditoría externa responderán por los daños y perjuicios que ocasionen a la institución de crédito que los contrate, cuando:
+
 I. Por negligencia inexcusable, el dictamen u opinión que proporcionen contenga vicios u omisiones que, en razón de su profesión u oficio, debieran formar parte del análisis, evaluación o estudio que dio origen al dictamen u opinión.
-II. Intencionalmente, en el dictamen u opinión: a) Omitan información relevante de la que tengan conocimiento, cuando deba contenerse en su dictamen u opinión; b) Incorporen información falsa o que induzca a error, o bien, adecuen el resultado con el fin de aparentar una situación distinta de la que corresponda a la realidad; c) Recomienden la celebración de alguna operación, optando dentro de las alternativas existentes, por aquélla que genere efectos patrimoniales notoriamente perjudiciales para la institución, o d) Sugieran, acepten, propicien o propongan que una determinada transacción se registre en contravención de los criterios de contabilidad emitidos por la Comisión.
+
+II. Intencionalmente, en el dictamen u opinión:
+
+a) Omitan información relevante de la que tengan conocimiento, cuando deba contenerse en su dictamen u opinión;
+
+b) Incorporen información falsa o que induzca a error, o bien, adecuen el resultado con el fin de aparentar una situación distinta de la que corresponda a la realidad;
+
+c) Recomienden la celebración de alguna operación, optando dentro de las alternativas existentes, por aquélla que genere efectos patrimoniales notoriamente perjudiciales para la institución, o
+
+d) Sugieran, acepten, propicien o propongan que una determinada transacción se registre en contravención de los criterios de contabilidad emitidos por la Comisión.
 Artículo adicionado DOF 01-02-2008
 
 ### Artículo 101
 Bis 5.- Las personas a que se refiere el artículo 101 Bis 2 de esta Ley no incurrirán en responsabilidad por los daños o perjuicios que ocasionen, derivados de los servicios u opiniones que emitan, cuando actuando de buena fe y sin dolo se actualice lo siguiente:
-I. Rindan su dictamen u opinión con base en información proporcionada por la persona a la que otorguen sus servicios, y II. Rindan su dictamen u opinión apegándose a las normas, procedimientos y metodologías que deban ser aplicadas para realizar el análisis, evaluación o estudio que corresponda a su profesión u oficio.
+
+I. Rindan su dictamen u opinión con base en información proporcionada por la persona a la que otorguen sus servicios, y
+
+II. Rindan su dictamen u opinión apegándose a las normas, procedimientos y metodologías que deban ser aplicadas para realizar el análisis, evaluación o estudio que corresponda a su profesión u oficio.
 Artículo adicionado DOF 01-02-2008
 
 ### Artículo 102
@@ -1633,12 +2215,30 @@ Párrafo adicionado DOF 10-01-2014 Artículo reformado DOF 23-12-1993, 04-06-200
 ### Artículo 103
 .- Ninguna persona física o moral, podrá captar directa o indirectamente recursos del público en territorio nacional, mediante la celebración de operaciones de depósito, préstamo, crédito, mutuo o cualquier otro acto causante de pasivo directo o contingente, quedando obligado a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.
 Párrafo reformado DOF 09-06-1992, 30-11-2005 Se exceptúa de lo dispuesto en el párrafo anterior a:
+
 I. Las instituciones de crédito reguladas en la presente Ley, así como a los demás intermediarios financieros debidamente autorizados conforme a los ordenamientos legales aplicables;
-II. Los emisores de instrumentos inscritos en el Registro Nacional de Valores colocados mediante oferta pública, respecto de los recursos provenientes de dicha colocación, y Fracción reformada DOF 30-11-2005 III. Se deroga.
-Fracción reformada DOF 09-06-1992. Derogada DOF 23-07-1993 IV. Se deroga.
-Fracción adicionada DOF 09-06-1992. Reformada DOF 23-12-1993. Derogada DOF 18-07-2006 V. Las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere la Ley General de Sociedades Cooperativas.
-Fracción adicionada DOF 13-08-2009 VI. Las asociaciones y sociedades, así como los grupos de personas físicas que capten recursos exclusivamente de sus asociados, socios o integrantes, respectivamente, para su colocación entre éstos, que cumplan con los requisitos siguientes: a) La colocación y entrega de los recursos captados por las asociaciones y sociedades, así como por los grupos de personas físicas citados, sólo podrá llevarse a cabo a través de alguna persona integrante de la propia asociación, Sociedad o grupo de personas físicas; b) Sus activos no podrán ser superiores a 350,000 UDIS, y c) Se abstendrán de promover la captación de recursos a persona indeterminada o mediante medios masivos de comunicación.
-Fracción adicionada DOF 13-08-2009 VII. Las instituciones de tecnología financiera, así como los usuarios de las instituciones de financiamiento colectivo en las operaciones que realicen en dichas instituciones a que se refiere la Ley para Regular las Instituciones de Tecnología Financiera.
+
+II. Los emisores de instrumentos inscritos en el Registro Nacional de Valores colocados mediante oferta pública, respecto de los recursos provenientes de dicha colocación, y Fracción reformada DOF 30-11-2005
+
+III. Se deroga.
+Fracción reformada DOF 09-06-1992. Derogada DOF 23-07-1993
+
+IV. Se deroga.
+Fracción adicionada DOF 09-06-1992. Reformada DOF 23-12-1993. Derogada DOF 18-07-2006
+
+V. Las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere la Ley General de Sociedades Cooperativas.
+Fracción adicionada DOF 13-08-2009
+
+VI. Las asociaciones y sociedades, así como los grupos de personas físicas que capten recursos exclusivamente de sus asociados, socios o integrantes, respectivamente, para su colocación entre éstos, que cumplan con los requisitos siguientes:
+
+a) La colocación y entrega de los recursos captados por las asociaciones y sociedades, así como por los grupos de personas físicas citados, sólo podrá llevarse a cabo a través de alguna persona integrante de la propia asociación, Sociedad o grupo de personas físicas;
+
+b) Sus activos no podrán ser superiores a 350,000 UDIS, y
+
+c) Se abstendrán de promover la captación de recursos a persona indeterminada o mediante medios masivos de comunicación.
+Fracción adicionada DOF 13-08-2009
+
+VII. Las instituciones de tecnología financiera, así como los usuarios de las instituciones de financiamiento colectivo en las operaciones que realicen en dichas instituciones a que se refiere la Ley para Regular las Instituciones de Tecnología Financiera.
 Fracción adicionada DOF 09-03-2018 Los emisores a que se refiere la fracción II, que utilicen los recursos provenientes de la colocación para otorgar crédito, deberán ajustarse a las disposiciones de carácter general que, en su caso, expida la Comisión Nacional Bancaria y de Valores en materia de información financiera, administrativa, económica, contable y legal, que deberán dar a conocer al público en los términos de la Ley del Mercado de Valores.
 Párrafo adicionado DOF 30-11-2005 Reforma DOF 18-07-2006: Derogó del artículo los entonces párrafos penúltimo (antes adicionado por DOF 09-06-1992 y reformado por DOF 23-07-1993) y último (antes reformado por DOF 09-06-1992 y 30-04-1996)
 
@@ -1653,42 +2253,99 @@ Se exceptúan de la aplicación de lo dispuesto en el párrafo anterior, a los i
 
 ### Artículo 106
 .- A las instituciones de crédito les estará prohibido:
+
 I. Se deroga.
-Fracción derogada DOF 01-02-2008 II. Se deroga.
-Fracción reformada DOF 24-06-2002, 13-06-2003. Derogada DOF 01-02-2008 III. Dar en garantía títulos de crédito que emitan, acepten o conserven en tesorería;
+Fracción derogada DOF 01-02-2008
+
+II. Se deroga.
+Fracción reformada DOF 24-06-2002, 13-06-2003. Derogada DOF 01-02-2008
+
+III. Dar en garantía títulos de crédito que emitan, acepten o conserven en tesorería;
+
 IV. Operar directa o indirectamente sobre los títulos representativos de su capital, salvo lo dispuesto por el último párrafo de los artículos 19 y 38 de esta Ley y por el Capítulo IV, Título Segundo de la Ley de Protección al Ahorro Bancario, así como otorgar créditos para la adquisición de tales títulos;
-Fracción reformada DOF 30-04-1996, 04-06-2001 V. Celebrar operaciones y otorgar servicios con su clientela en los que se pacten condiciones y términos que se aparten de manera significativa de las condiciones de mercado prevalecientes en el momento de su otorgamiento, de las políticas generales de la institución, y de las sanas prácticas y usos bancarios;
+Fracción reformada DOF 30-04-1996, 04-06-2001
+
+V. Celebrar operaciones y otorgar servicios con su clientela en los que se pacten condiciones y términos que se aparten de manera significativa de las condiciones de mercado prevalecientes en el momento de su otorgamiento, de las políticas generales de la institución, y de las sanas prácticas y usos bancarios;
+
 VI. Se deroga.
-Fracción derogada DOF 01-02-2008 VII. Aceptar o pagar documentos o certificar cheques en descubierto, salvo en los casos de apertura de crédito;
+Fracción derogada DOF 01-02-2008
+
+VII. Aceptar o pagar documentos o certificar cheques en descubierto, salvo en los casos de apertura de crédito;
+
 VIII. Contraer responsabilidades u obligaciones por cuenta de terceros, distintas de las previstas en la fracción VIII del artículo 46 de esta Ley y con la salvedad a que se contrae la siguiente fracción;
+
 IX. Se deroga.
-Fracción derogada DOF 01-02-2008 X. Garantizar el cumplimiento de las obligaciones derivadas de los documentos domiciliados, al ceder su domicilio para pagos o notificaciones. Esta disposición deberá hacerse constar en el texto de los documentos en los cuales se exprese el domicilio convencional;
+Fracción derogada DOF 01-02-2008
+
+X. Garantizar el cumplimiento de las obligaciones derivadas de los documentos domiciliados, al ceder su domicilio para pagos o notificaciones. Esta disposición deberá hacerse constar en el texto de los documentos en los cuales se exprese el domicilio convencional;
+
 XI. Comerciar con mercancías de cualquier clase, excepto las operaciones con oro, plata y divisas que puedan realizar en los términos de la presente Ley y de la Ley Orgánica del Banco de México;
+
 XII. Participar en sociedades que no sean de responsabilidad limitada y explotar por su cuenta establecimientos mercantiles o industriales o fincas rústicas, sin perjuicio de la facultad de mantener en propiedad bonos, obligaciones, acciones u otros títulos de dichas empresas conforme a lo previsto en esta Ley. La Comisión Nacional Bancaria y de Valores, podrá autorizar mediante disposiciones de carácter general, que continúen su explotación temporal, cuando las reciban en pago de créditos o para aseguramiento de los ya concertados, en cuyo caso la institución de crédito de que se trate, deberá realizar el registro contable y estimación máxima de valor que la propia Comisión establezca para estos casos al amparo de lo previsto en los artículos 99 y 102 de esta Ley.
-Fracción reformada DOF 01-02-2008 XIII. Se deroga.
-Fracción reformada DOF 23-12-1993, 04-06-2001. Derogada DOF 01-02-2008 XIV. Se deroga.
-Fracción derogada DOF 06-02-2008 XV. Se deroga.
+Fracción reformada DOF 01-02-2008
+
+XIII. Se deroga.
+Fracción reformada DOF 23-12-1993, 04-06-2001. Derogada DOF 01-02-2008
+
+XIV. Se deroga.
+Fracción derogada DOF 06-02-2008
+
+XV. Se deroga.
 Fracción reformada DOF 04-06-2001. Derogada DOF 01-02-2008 XV Bis. Se deroga.
 Fracción adicionada DOF 04-06-2001. Derogada DOF 01-02-2008 XV Bis 1. Pagar anticipadamente obligaciones a su cargo derivadas de la emisión de bonos bancarios, salvo que cumplan con los requisitos señalados, para tal efecto, en el artículo 63 de esta Ley;
 Fracción adicionada DOF 04-06-2001 XV Bis 2. Pagar anticipadamente obligaciones a su cargo, derivadas de la emisión de obligaciones subordinadas salvo que la institución cumpla con los requisitos señalados, para tal efecto, en el
 
 ### artículo 64
 de este ordenamiento;
-Fracción adicionada DOF 04-06-2001 XVI. Adquirir directa o indirectamente títulos o valores emitidos o aceptados por ellas, obligaciones subordinadas emitidas por otras instituciones de crédito o sociedades controladoras; así como readquirir créditos a cargo de terceros que hubieren cedido, salvo el caso de las operaciones previstas en el artículo 93 de esta Ley y de la adquisición de obligaciones subordinadas emitidas por las mismas instituciones, siempre que dicha adquisición se haga con la previa autorización del Banco de México de conformidad con el artículo 64 de esta Ley;
-Fracción reformada DOF 04-06-2001, 10-01-2014 XVII. Otorgar créditos o préstamos con garantía de: a) Los pasivos a que se refiere la fracción IV del artículo 46 de esta Ley, a su cargo, a cargo de cualquier institución de crédito o de sociedades controladoras;
-Inciso reformado DOF 04-06-2001 b) Derechos sobre fideicomisos, mandatos o comisiones que, a su vez, tengan por objeto los pasivos mencionados en el inciso anterior; c) Acciones de instituciones de banca múltiple o sociedades controladoras de grupos financieros, propiedad de cualquier persona que detente el cinco por ciento o más del capital social de la institución o sociedad de que se trate.
+Fracción adicionada DOF 04-06-2001
+
+XVI. Adquirir directa o indirectamente títulos o valores emitidos o aceptados por ellas, obligaciones subordinadas emitidas por otras instituciones de crédito o sociedades controladoras; así como readquirir créditos a cargo de terceros que hubieren cedido, salvo el caso de las operaciones previstas en el artículo 93 de esta Ley y de la adquisición de obligaciones subordinadas emitidas por las mismas instituciones, siempre que dicha adquisición se haga con la previa autorización del Banco de México de conformidad con el artículo 64 de esta Ley;
+Fracción reformada DOF 04-06-2001, 10-01-2014
+
+XVII. Otorgar créditos o préstamos con garantía de:
+
+a) Los pasivos a que se refiere la fracción IV del artículo 46 de esta Ley, a su cargo, a cargo de cualquier institución de crédito o de sociedades controladoras;
+Inciso reformado DOF 04-06-2001
+
+b) Derechos sobre fideicomisos, mandatos o comisiones que, a su vez, tengan por objeto los pasivos mencionados en el inciso anterior;
+
+c) Acciones de instituciones de banca múltiple o sociedades controladoras de grupos financieros, propiedad de cualquier persona que detente el cinco por ciento o más del capital social de la institución o sociedad de que se trate.
 Tratándose de acciones distintas a las señaladas en el párrafo anterior, representativas del capital social de instituciones de crédito, de sociedades controladoras o de cualquier entidad financiera, las instituciones deberán dar aviso con treinta días de anticipación a la Secretaría de Hacienda y Crédito Público;
-Inciso adicionado DOF 30-04-1996. Reformado DOF 04-06-2001 XVIII. Celebrar operaciones u ofertas por cuenta propia o de terceros, a sus depositantes para la adquisición de bienes o servicios en las que se señale que, para evitar los cargos por dichos conceptos, los depositantes deban manifestar su inconformidad;
-Fracción reformada DOF 04-06-2001 XIX. En la realización de las operaciones a que se refiere la fracción XV del artículo 46 de esta Ley: a) Se deroga.
-Inciso derogado DOF 01-02-2008 b) Responder a los fideicomitentes, mandantes o comitentes, del incumplimiento de los deudores, por los créditos que se otorguen, o de los emisores, por los valores que se adquieran, salvo que sea por su culpa, según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
+Inciso adicionado DOF 30-04-1996. Reformado DOF 04-06-2001
+
+XVIII. Celebrar operaciones u ofertas por cuenta propia o de terceros, a sus depositantes para la adquisición de bienes o servicios en las que se señale que, para evitar los cargos por dichos conceptos, los depositantes deban manifestar su inconformidad;
+Fracción reformada DOF 04-06-2001
+
+XIX. En la realización de las operaciones a que se refiere la fracción XV del artículo 46 de esta Ley:
+
+a) Se deroga.
+Inciso derogado DOF 01-02-2008
+
+b) Responder a los fideicomitentes, mandantes o comitentes, del incumplimiento de los deudores, por los créditos que se otorguen, o de los emisores, por los valores que se adquieran, salvo que sea por su culpa, según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
 Si al término del fideicomiso, mandato o comisión constituidos para el otorgamiento de créditos, éstos no hubieren sido liquidados por los deudores, la institución deberá transferirlos al fideicomitente o fideicomisario, según sea el caso, o al mandante o comitente, absteniéndose de cubrir su importe.
 En los contratos de fideicomiso, mandato o comisión se insertará en forma notoria lo dispuesto en este inciso y una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su contenido a las personas de quienes haya recibido bienes o derechos para su afectación fiduciaria;
-Inciso reformado DOF 13-06-2003 c) Actuar como fiduciarias, mandatarias o comisionistas en fideicomisos, mandatos o comisiones, respectivamente, a través de los cuales se capten, directa o indirectamente, recursos del público, mediante cualquier acto causante de pasivo directo o contingente, excepto tratándose de fideicomisos constituidos por el Gobierno Federal a través de la Secretaría de Hacienda y Crédito Público, y de fideicomisos a través de los cuales se emitan valores que se inscriban en el Registro Nacional de Valores de conformidad con lo Inciso reformado DOF 13-06-2003 d) Desempeñar los fideicomisos, mandatos o comisiones a que se refiere el segundo párrafo del artículo 88 de la Ley de Sociedades de Inversión;
-Inciso reformado DOF 13-06-2003 e) Actuar en fideicomisos, mandatos o comisiones a través de los cuales se evadan limitaciones o prohibiciones contenidas en las leyes financieras;
-Inciso adicionado DOF 13-06-2003 f) Utilizar fondos o valores de los fideicomisos, mandatos o comisiones destinados al otorgamiento de créditos, en que la fiduciaria tenga la facultad discrecional, en el otorgamiento de los mismos para realizar operaciones en virtud de las cuales resulten o puedan resultar deudores sus delegados fiduciarios; los miembros del consejo de administración o consejo directivo, según corresponda, tanto propietarios como suplentes, estén o no en funciones; los empleados y funcionarios de la institución; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la institución; los miembros del comité técnico del fideicomiso respectivo; los ascendientes o descendientes en primer grado o cónyuges de las personas citadas, las sociedades en cuyas asambleas tengan mayoría dichas personas o las mismas instituciones, asimismo aquellas personas que el Banco de México determine mediante disposiciones de carácter general;
-Inciso adicionado DOF 13-06-2003. Reformado DOF 01-02-2008, 06-02-2008 g) Administrar fincas rústicas, a menos que hayan recibido la administración para distribuir el patrimonio entre herederos, legatarios, asociados o acreedores, o para pagar una obligación o para garantizar su cumplimiento con el valor de la misma finca o de sus productos, y sin que en estos casos la administración exceda del plazo de dos años, salvo los casos de fideicomisos a la producción o fideicomisos de garantía, y Inciso adicionado DOF 13-06-2003. Reformado DOF 06-02-2008 h) Celebrar fideicomisos que administren sumas de dinero que aporten periódicamente grupos de consumidores integrados mediante sistemas de comercialización, destinados a la adquisición de determinados bienes o servicios, de los previstos en la Ley Federal de Protección al Consumidor.
+Inciso reformado DOF 13-06-2003
+
+c) Actuar como fiduciarias, mandatarias o comisionistas en fideicomisos, mandatos o comisiones, respectivamente, a través de los cuales se capten, directa o indirectamente, recursos del público, mediante cualquier acto causante de pasivo directo o contingente, excepto tratándose de fideicomisos constituidos por el Gobierno Federal a través de la Secretaría de Hacienda y Crédito Público, y de fideicomisos a través de los cuales se emitan valores que se inscriban en el Registro Nacional de Valores de conformidad con lo Inciso reformado DOF 13-06-2003
+
+d) Desempeñar los fideicomisos, mandatos o comisiones a que se refiere el segundo párrafo del artículo 88 de la Ley de Sociedades de Inversión;
+Inciso reformado DOF 13-06-2003
+
+e) Actuar en fideicomisos, mandatos o comisiones a través de los cuales se evadan limitaciones o prohibiciones contenidas en las leyes financieras;
+Inciso adicionado DOF 13-06-2003
+
+f) Utilizar fondos o valores de los fideicomisos, mandatos o comisiones destinados al otorgamiento de créditos, en que la fiduciaria tenga la facultad discrecional, en el otorgamiento de los mismos para realizar operaciones en virtud de las cuales resulten o puedan resultar deudores sus delegados fiduciarios; los miembros del consejo de administración o consejo directivo, según corresponda, tanto propietarios como suplentes, estén o no en funciones; los empleados y funcionarios de la institución; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la institución; los miembros del comité técnico del fideicomiso respectivo; los ascendientes o descendientes en primer grado o cónyuges de las personas citadas, las sociedades en cuyas asambleas tengan mayoría dichas personas o las mismas instituciones, asimismo aquellas personas que el Banco de México determine mediante disposiciones de carácter general;
+Inciso adicionado DOF 13-06-2003. Reformado DOF 01-02-2008, 06-02-2008
+
+g) Administrar fincas rústicas, a menos que hayan recibido la administración para distribuir el patrimonio entre herederos, legatarios, asociados o acreedores, o para pagar una obligación o para garantizar su cumplimiento con el valor de la misma finca o de sus productos, y sin que en estos casos la administración exceda del plazo de dos años, salvo los casos de fideicomisos a la producción o fideicomisos de garantía, y Inciso adicionado DOF 13-06-2003. Reformado DOF 06-02-2008
+
+h) Celebrar fideicomisos que administren sumas de dinero que aporten periódicamente grupos de consumidores integrados mediante sistemas de comercialización, destinados a la adquisición de determinados bienes o servicios, de los previstos en la Ley Federal de Protección al Consumidor.
 Inciso adicionado DOF 06-02-2008 Cualquier pacto contrario a lo dispuesto en los incisos anteriores, será nulo.
-Párrafo adicionado DOF 13-06-2003 XX. Proporcionar, para cualquier fin, incluyendo la comercialización de productos o servicios, la información que obtengan con motivo de la celebración de operaciones con sus clientes, salvo que cuenten con el consentimiento expreso del cliente respectivo, el cual deberá constar en una sección especial dentro de la documentación a través de la cual se contrate una operación o servicio con una institución de crédito, y siempre que dicho consentimiento sea adicional al normalmente requerido por la institución para la celebración de la operación o servicio solicitado. En ningún caso, el otorgamiento de dicho consentimiento será condición para la contratación de dicha operación o servicio, y Fracción adicionada DOF 04-06-2001. Reformada DOF 01-02-2008, 25-06-2009 XXI. Realizar operaciones no autorizadas conforme a lo establecido en los párrafos segundo y tercero del artículo 46 de esta Ley.
+Párrafo adicionado DOF 13-06-2003
+
+XX. Proporcionar, para cualquier fin, incluyendo la comercialización de productos o servicios, la información que obtengan con motivo de la celebración de operaciones con sus clientes, salvo que cuenten con el consentimiento expreso del cliente respectivo, el cual deberá constar en una sección especial dentro de la documentación a través de la cual se contrate una operación o servicio con una institución de crédito, y siempre que dicho consentimiento sea adicional al normalmente requerido por la institución para la celebración de la operación o servicio solicitado. En ningún caso, el otorgamiento de dicho consentimiento será condición para la contratación de dicha operación o servicio, y Fracción adicionada DOF 04-06-2001. Reformada DOF 01-02-2008, 25-06-2009
+
+XXI. Realizar operaciones no autorizadas conforme a lo establecido en los párrafos segundo y tercero del artículo 46 de esta Ley.
 Fracción adicionada DOF 01-02-2008. Reformada DOF 10-01-2014 Reforma DOF 01-02-2008: Derogó del artículo los entonces párrafos penúltimo (antes reformado por DOF 15-02-1995 y 04-06-2001) y último (antes adicionado por DOF 15-02-1995y reformado por DOF 04-06-2001)
 
 ### Artículo 106
@@ -1701,11 +2358,36 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 107
 Bis.- Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario y el Banco de México, en el ámbito de sus respectivas competencias, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetarán a lo siguiente:
-Párrafo reformado DOF 24-01-2024 I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario y el Banco de México, a petición de parte, podrán ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique.
+Párrafo reformado DOF 24-01-2024
+
+I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario y el Banco de México, a petición de parte, podrán ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. La notificación surtirá efectos al día hábil siguiente a aquel en que se practique.
 Fracción reformada DOF 24-01-2024 II En caso de que el presunto infractor no hiciere uso del derecho de audiencia a que se refiere la fracción anterior dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente.
-III Para la imposición de sanciones se tomará en cuenta, en su caso, lo siguiente: a) El impacto a terceros o al sistema financiero mexicano que haya producido o pueda producir la infracción; b) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.
-La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente; c) La cuantía de la operación; d) La condición económica del infractor a efecto de que la sanción no sea excesiva, y e) La naturaleza de la infracción cometida.
-IV. Tratándose de conductas calificadas por esta Ley como graves, en adición a lo establecido en la fracción III de este artículo, podrán tomar en cuenta cualquiera de los aspectos siguientes: a) El monto del quebranto o perjuicio patrimonial causado; b) El lucro obtenido; c) La falta de honorabilidad, por parte del infractor, de conformidad con esta Ley y las disposiciones de carácter general que de ella emanen; d) La negligencia inexcusable o dolo con que se hubiere actuado; e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, o f) Las demás circunstancias que las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario y el Banco de México, según corresponda, estimen aplicables para tales efectos.
+III Para la imposición de sanciones se tomará en cuenta, en su caso, lo siguiente:
+
+a) El impacto a terceros o al sistema financiero mexicano que haya producido o pueda producir la infracción;
+
+b) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.
+La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente;
+
+c) La cuantía de la operación;
+
+d) La condición económica del infractor a efecto de que la sanción no sea excesiva, y
+
+e) La naturaleza de la infracción cometida.
+
+IV. Tratándose de conductas calificadas por esta Ley como graves, en adición a lo establecido en la fracción III de este artículo, podrán tomar en cuenta cualquiera de los aspectos siguientes:
+
+a) El monto del quebranto o perjuicio patrimonial causado;
+
+b) El lucro obtenido;
+
+c) La falta de honorabilidad, por parte del infractor, de conformidad con esta Ley y las disposiciones de carácter general que de ella emanen;
+
+d) La negligencia inexcusable o dolo con que se hubiere actuado;
+
+e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, o
+
+f) Las demás circunstancias que las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario y el Banco de México, según corresponda, estimen aplicables para tales efectos.
 Inciso reformado DOF 24-01-2024 Concluido el plazo a que se refiere la fracción I del presente artículo, y en su caso el de su ampliación, las Comisiones Nacionales Bancaria y de Valores, para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario y el Banco de México, según corresponda, contarán con hasta sesenta días hábiles para el desahogo de las pruebas.
 Párrafo adicionado DOF 24-01-2024 Una vez desahogadas las pruebas admitidas al presunto infractor, la autoridad que corresponda, de las señaladas en el párrafo anterior, le notificará la apertura del periodo de cinco días hábiles para formular alegatos. La autoridad respectiva podrá realizar dicha notificación por estrados o por cualquier otro medio, en los casos en que así lo determine.
 Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la autoridad respectiva contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento sancionador, así como para imponer, en su caso, las sanciones que conforme a derecho procedan.
@@ -1713,14 +2395,95 @@ Párrafo adicionado DOF 24-01-2024 Artículo adicionado DOF 01-02-2008. Reformad
 
 ### Artículo 108
 .- Las infracciones a esta Ley o a las disposiciones que sean emitidas con base en ésta por la Secretaría de Hacienda y Crédito Público o la Comisión Nacional Bancaria y de Valores serán sancionadas con multa administrativa que impondrá la citada Comisión, a razón de días de salario mínimo general vigente para el Distrito Federal, conforme a lo siguiente:
-I. Multa de 2,000 a 5,000 días de salario: a) A los fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico, así como a las personas a que se refieren los artículos 7o, 88 y 89 de esta Ley, que no proporcionen dentro de los plazos establecidos para tal efecto, la información o documentación a que se refiere esta Ley o las disposiciones que emanan de ella, así como por omitir proporcionar la requerida por la Secretaría de Hacienda y Crédito Público o por la Comisión Nacional Bancaria y de Valores. b) A las personas a que se refiere el artículo 88 de esta Ley, por no proporcionar los estados financieros mensuales, trimestrales o anuales, dentro de los plazos establecidos en esta Ley o en las disposiciones que emanen de ella para tales efectos. c) A las personas morales reguladas por esta Ley, que incumplan con cualquiera de las disposiciones a que se refiere el artículo 96 Bis de la misma.
-II. Multa de 3,000 a 15,000 días de salario: a) A los accionistas de instituciones de banca múltiple que, en contravención a lo preceptuado por el artículo 12 de esta Ley, omitan pagar en efectivo las acciones que suscriban. b) A las instituciones de banca múltiple que omitan someter a la aprobación de la Comisión Nacional Bancaria y de Valores su escritura constitutiva o cualquier modificación a esta. A las personas que contravengan lo dispuesto por el artículo 14 de esta Ley. A las instituciones de banca múltiple que omitan informar respecto de la adquisición de acciones a que se refieren los artículos 13, 17, 45-G y 45-H de esta Ley, en contravención a lo establecido por el artículo 18 de este mismo ordenamiento legal. c) A las instituciones de crédito que no cumplan con lo previsto por el artículo 95 de esta Ley así como con las disposiciones que emanen de este. d) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 96 de la presente Ley o en las disposiciones a que dicho artículo se refiere. e) A las instituciones de crédito que incumplan con cualquiera de las disposiciones a que se refiere el artículo 96 Bis de la misma. f) A las instituciones de crédito que no cumplan con lo señalado por el artículo 101 de esta Ley o por las disposiciones a que se refiere dicho precepto. g) A las instituciones de crédito por no proporcionar o no publicar los estados financieros mensuales, trimestrales o anuales, dentro de los plazos establecidos en esta Ley o en las disposiciones que emanen de ella para tales efectos. h) A las instituciones de crédito que no proporcionen dentro de los plazos establecidos para tal efecto, la información o documentación a que se refiere esta Ley o las disposiciones que emanan de ella, así como por omitir proporcionar la requerida por la Secretaría de Hacienda y Crédito Público o por la Comisión Nacional Bancaria y de Valores.
-III. Multa de 10,000 a 50,000 días de salario: a) A las instituciones de crédito que, en contravención a lo dispuesto por el artículo 12 de esta Ley, omitan mantener en depósito sus acciones en alguna de las instituciones para el b) Al consejero de la institución de banca múltiple que, en contravención a lo dispuesto por el
+
+I. Multa de 2,000 a 5,000 días de salario:
+
+a) A los fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico, así como a las personas a que se refieren los artículos 7o, 88 y 89 de esta Ley, que no proporcionen dentro de los plazos establecidos para tal efecto, la información o documentación a que se refiere esta Ley o las disposiciones que emanan de ella, así como por omitir proporcionar la requerida por la Secretaría de Hacienda y Crédito Público o por la Comisión Nacional Bancaria y de Valores.
+
+b) A las personas a que se refiere el artículo 88 de esta Ley, por no proporcionar los estados financieros mensuales, trimestrales o anuales, dentro de los plazos establecidos en esta Ley o en las disposiciones que emanen de ella para tales efectos.
+
+c) A las personas morales reguladas por esta Ley, que incumplan con cualquiera de las disposiciones a que se refiere el artículo 96 Bis de la misma.
+
+II. Multa de 3,000 a 15,000 días de salario:
+
+a) A los accionistas de instituciones de banca múltiple que, en contravención a lo preceptuado por el artículo 12 de esta Ley, omitan pagar en efectivo las acciones que suscriban.
+
+b) A las instituciones de banca múltiple que omitan someter a la aprobación de la Comisión Nacional Bancaria y de Valores su escritura constitutiva o cualquier modificación a esta. A las personas que contravengan lo dispuesto por el artículo 14 de esta Ley. A las instituciones de banca múltiple que omitan informar respecto de la adquisición de acciones a que se refieren los artículos 13, 17, 45-G y 45-H de esta Ley, en contravención a lo establecido por el artículo 18 de este mismo ordenamiento legal.
+
+c) A las instituciones de crédito que no cumplan con lo previsto por el artículo 95 de esta Ley así como con las disposiciones que emanen de este.
+
+d) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 96 de la presente Ley o en las disposiciones a que dicho artículo se refiere.
+
+e) A las instituciones de crédito que incumplan con cualquiera de las disposiciones a que se refiere el artículo 96 Bis de la misma.
+
+f) A las instituciones de crédito que no cumplan con lo señalado por el artículo 101 de esta Ley o por las disposiciones a que se refiere dicho precepto.
+
+g) A las instituciones de crédito por no proporcionar o no publicar los estados financieros mensuales, trimestrales o anuales, dentro de los plazos establecidos en esta Ley o en las disposiciones que emanen de ella para tales efectos.
+
+h) A las instituciones de crédito que no proporcionen dentro de los plazos establecidos para tal efecto, la información o documentación a que se refiere esta Ley o las disposiciones que emanan de ella, así como por omitir proporcionar la requerida por la Secretaría de Hacienda y Crédito Público o por la Comisión Nacional Bancaria y de Valores.
+
+III. Multa de 10,000 a 50,000 días de salario:
+
+a) A las instituciones de crédito que, en contravención a lo dispuesto por el artículo 12 de esta Ley, omitan mantener en depósito sus acciones en alguna de las instituciones para el
+
+b) Al consejero de la institución de banca múltiple que, en contravención a lo dispuesto por el
 
 ### artículo 23
-de esta Ley, omita excusarse de participar en la deliberación o votación de cualquier asunto que le implique un conflicto de interés. c) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 66 de esta Ley. d) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 79 de esta Ley. e) A las instituciones de crédito que no cumplan con lo señalado por el artículo 99 o 102 de esta Ley o por las disposiciones a que se refieren dichos preceptos. f) A los auditores externos independientes y demás profesionistas o expertos que rindan o proporcionen dictámenes u opiniones a las instituciones de crédito, que incurran en infracciones a la presente Ley o a las disposiciones que emanen de ella.
-IV. Multa de 15,000 a 50,000 días de salario: a) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 65 de esta Ley y las disposiciones de carácter general que emanen de este. b) A las instituciones de crédito que no cumplan con los lineamientos y requisitos previstos en los artículos 73 y 73 Bis de la presente Ley y las disposiciones de carácter general que emanen de estos. c) A las instituciones de crédito que no cumplan con lo preceptuado por el artículo 99-A de esta Ley.
-V. Multa de 30,000 a 100,000 días de salario: a) A las personas que adquieran acciones de una institución de banca múltiple, en contravención a lo establecido en los artículos 13, 17, 45-G y 45-H de esta Ley y las disposiciones de carácter general que de ellos emanen, según sea el caso. b) A las instituciones de banca múltiple que no cumplan con lo preceptuado por el artículo 19 de esta Ley, así como las disposiciones de carácter general a que dicho precepto se refiere. c) A las instituciones de crédito que no cumplan con lo preceptuado por el artículo 50 de esta Ley así como por las disposiciones de carácter general que emanan de este. d) A las instituciones de banca múltiple que no cumplan con lo preceptuado por el artículo 50 Bis de esta Ley así como por las disposiciones de carácter general que emanan de este. e) A las instituciones de crédito que no cumplan con lo señalado por el artículo 51 de la presente Ley o por las disposiciones de carácter general a que dicho precepto se refiere. f) A las instituciones de crédito que, al realizar operaciones con valores, no cumplan con lo dispuesto por el artículo 53 de esta Ley. g) A las instituciones de crédito que no cumplan con lo preceptuado por el artículo 55 de esta Ley. h) A las instituciones de banca múltiple que no cumplan con cualquiera de las medidas prudenciales a que se refiere el artículo 74 de esta Ley o las disposiciones que de él emanen. i) A las instituciones de crédito que no cumplan con lo señalado por el artículo 76 de la presente Ley o por las disposiciones de carácter general a que dicho precepto se refiere. j) A las instituciones de crédito que no cumplan con lo señalado por el artículo 93 de la presente Ley. k) A las instituciones de banca múltiple que no cumplan con lo preceptuado por el artículo 96 Bis 1 de esta Ley, así como por las disposiciones de carácter general que emanan de este. l) A las instituciones de banca múltiple que no cuenten con el plan de contingencia a que se refiere el artículo 119 de esta Ley. m) A las instituciones de banca múltiple que no cumplan con cualquiera de las medidas correctivas a que se refieren los artículos 121 y 122 de esta Ley o las disposiciones de carácter general que de ellos emanen. n) A las instituciones de crédito que den noticias o información de los depósitos, servicios o cualquier tipo de operaciones en contravención a lo dispuesto por el artículo 142 de esta Ley. o) A las instituciones de crédito y demás personas reguladas por esta Ley que se opongan u obstaculicen el ejercicio de las facultades que ésta y otras disposiciones aplicables le confieren a la Secretaría de Hacienda y Crédito Público o a la Comisión Nacional Bancaria y de Valores. No se entenderá como obstaculización el hacer valer los recursos de defensa que la ley prevé y en cualquier caso, previo a la sanción, se deberá oír al presunto infractor. p) A las instituciones de crédito que no den cumplimiento a las acciones preventivas y correctivas ordenadas por la Comisión Nacional Bancaria y de Valores, en el ejercicio de sus atribuciones en materia de inspección y vigilancia. q) A las instituciones de crédito que proporcionen en forma dolosa, información falsa, imprecisa o incompleta a las autoridades financieras, que tenga como consecuencia que no se refleje su verdadera situación financiera, administrativa, económica, operacional o jurídica, siempre y cuando se compruebe que el director general o algún miembro del consejo de administración de la institución correspondiente tuvo conocimiento de tal acto. r) A las instituciones de banca múltiple que realicen operaciones con personas relacionadas en exceso de lo establecido en el séptimo párrafo del artículo 73 Bis de la presente Ley.
+de esta Ley, omita excusarse de participar en la deliberación o votación de cualquier asunto que le implique un conflicto de interés.
+
+c) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 66 de esta Ley.
+
+d) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 79 de esta Ley.
+
+e) A las instituciones de crédito que no cumplan con lo señalado por el artículo 99 o 102 de esta Ley o por las disposiciones a que se refieren dichos preceptos.
+
+f) A los auditores externos independientes y demás profesionistas o expertos que rindan o proporcionen dictámenes u opiniones a las instituciones de crédito, que incurran en infracciones a la presente Ley o a las disposiciones que emanen de ella.
+
+IV. Multa de 15,000 a 50,000 días de salario:
+
+a) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 65 de esta Ley y las disposiciones de carácter general que emanen de este.
+
+b) A las instituciones de crédito que no cumplan con los lineamientos y requisitos previstos en los artículos 73 y 73 Bis de la presente Ley y las disposiciones de carácter general que emanen de estos.
+
+c) A las instituciones de crédito que no cumplan con lo preceptuado por el artículo 99-A de esta Ley.
+
+V. Multa de 30,000 a 100,000 días de salario:
+
+a) A las personas que adquieran acciones de una institución de banca múltiple, en contravención a lo establecido en los artículos 13, 17, 45-G y 45-H de esta Ley y las disposiciones de carácter general que de ellos emanen, según sea el caso.
+
+b) A las instituciones de banca múltiple que no cumplan con lo preceptuado por el artículo 19 de esta Ley, así como las disposiciones de carácter general a que dicho precepto se refiere.
+
+c) A las instituciones de crédito que no cumplan con lo preceptuado por el artículo 50 de esta Ley así como por las disposiciones de carácter general que emanan de este.
+
+d) A las instituciones de banca múltiple que no cumplan con lo preceptuado por el artículo 50 Bis de esta Ley así como por las disposiciones de carácter general que emanan de este.
+
+e) A las instituciones de crédito que no cumplan con lo señalado por el artículo 51 de la presente Ley o por las disposiciones de carácter general a que dicho precepto se refiere.
+
+f) A las instituciones de crédito que, al realizar operaciones con valores, no cumplan con lo dispuesto por el artículo 53 de esta Ley.
+
+g) A las instituciones de crédito que no cumplan con lo preceptuado por el artículo 55 de esta Ley.
+
+h) A las instituciones de banca múltiple que no cumplan con cualquiera de las medidas prudenciales a que se refiere el artículo 74 de esta Ley o las disposiciones que de él emanen.
+
+i) A las instituciones de crédito que no cumplan con lo señalado por el artículo 76 de la presente Ley o por las disposiciones de carácter general a que dicho precepto se refiere.
+
+j) A las instituciones de crédito que no cumplan con lo señalado por el artículo 93 de la presente Ley.
+
+k) A las instituciones de banca múltiple que no cumplan con lo preceptuado por el artículo 96 Bis 1 de esta Ley, así como por las disposiciones de carácter general que emanan de este.
+
+l) A las instituciones de banca múltiple que no cuenten con el plan de contingencia a que se refiere el artículo 119 de esta Ley.
+
+m) A las instituciones de banca múltiple que no cumplan con cualquiera de las medidas correctivas a que se refieren los artículos 121 y 122 de esta Ley o las disposiciones de carácter general que de ellos emanen.
+
+n) A las instituciones de crédito que den noticias o información de los depósitos, servicios o cualquier tipo de operaciones en contravención a lo dispuesto por el artículo 142 de esta Ley.
+
+o) A las instituciones de crédito y demás personas reguladas por esta Ley que se opongan u obstaculicen el ejercicio de las facultades que ésta y otras disposiciones aplicables le confieren a la Secretaría de Hacienda y Crédito Público o a la Comisión Nacional Bancaria y de Valores. No se entenderá como obstaculización el hacer valer los recursos de defensa que la ley prevé y en cualquier caso, previo a la sanción, se deberá oír al presunto infractor.
+
+p) A las instituciones de crédito que no den cumplimiento a las acciones preventivas y correctivas ordenadas por la Comisión Nacional Bancaria y de Valores, en el ejercicio de sus atribuciones en materia de inspección y vigilancia.
+
+q) A las instituciones de crédito que proporcionen en forma dolosa, información falsa, imprecisa o incompleta a las autoridades financieras, que tenga como consecuencia que no se refleje su verdadera situación financiera, administrativa, económica, operacional o jurídica, siempre y cuando se compruebe que el director general o algún miembro del consejo de administración de la institución correspondiente tuvo conocimiento de tal acto.
+
+r) A las instituciones de banca múltiple que realicen operaciones con personas relacionadas en exceso de lo establecido en el séptimo párrafo del artículo 73 Bis de la presente Ley.
 La Comisión Nacional Bancaria y de Valores podrá abstenerse de sancionar a las entidades y personas reguladas por esta Ley, siempre y cuando se justifique la causa de tal abstención de acuerdo con los lineamientos que para tales efectos emita la Junta de Gobierno de la propia Comisión, y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia, no se cuente con elementos que permitan demostrar que se afecten los intereses de terceros o del propio sistema financiero y no constituyan delito.
 Se considerarán infracciones graves la violación a lo previsto por los artículos 2; 50, cuando se incumplan los requerimientos de capital y con ello se actualice el régimen previsto en la fracción I del
 
@@ -1730,7 +2493,9 @@ Articulo reformado DOF 23-07-1993, 22-07-1994, 16-06-2004, 18-07-2006, 01-02-200
 
 ### Artículo 108
 Bis.- Las infracciones que consistan en realizar operaciones prohibidas o no autorizadas, conforme a esta Ley y las disposiciones que emanan de ella, serán sancionadas con multa que impondrá la Comisión Nacional Bancaria y de Valores a las instituciones de crédito, así como a las personas a que se refieren los artículos 7o, 45-A, fracciones I y III y 89 de la misma, de acuerdo a lo siguiente:
+
 I. Multa del equivalente del 1% hasta el 4% del importe de la operación de que se trate o, en caso de que no se pueda determinar el monto de la operación, de 20,000 a 100,000 días de salario, a las instituciones de crédito que contravengan lo dispuesto por las fracciones V, VII, VIII, XI, XII, XV Bis 1, XV Bis 2, XVIII, XIX, inciso g), y XX del artículo 106 de esta Ley, así como en los artículos 17, primer párrafo, 27, primer párrafo, 27 Bis, primer párrafo, 45-H, 45-I, 75, fracción III, 85 Bis, primer párrafo, 87, segundo y tercer párrafos, 88, primer párrafo y 89, primer párrafo de la misma o las disposiciones de carácter general que de tales preceptos emanen, según se trate.
+
 II. Multa del 5% hasta el 15% del importe de la operación de que se trate, o en caso de que no se pueda determinar el monto de la operación, de 30,000 a 100,000 días de salario, a las instituciones de crédito que contravengan lo dispuesto por las fracciones III, IV, X, XVI, XVII y XIX, incisos b), c), d), e), f) y h) del artículo 106 de esta Ley, o las disposiciones de carácter general que de tales preceptos emanen, según se trate.
 En caso de que alguna de las infracciones contenidas en los artículos 108 y 108 Bis de esta Ley genere un daño patrimonial, o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero.
 Artículo adicionado DOF 06-02-2008. Reformado DOF 10-01-2014 Nota: el Artículo 108 Bis anterior fue reformado en dos ocasiones por el mismo Decreto publicado en el DOF 10-01-2014. El Artículo Décimo Primero de dicho Decreto reformó la fracción I, mientras que el Artículo Trigésimo Primero reformó en su totalidad el artículo 108 Bis, dejando sin efecto la primera modificación establecida en el
@@ -1740,15 +2505,36 @@ del citado Decreto.
 
 ### Artículo 108
 Bis 1.- Las personas que realicen actividades, servicios u operaciones para las que esta Ley prevé que se requiere una autorización, sin tenerla, serán sancionadas con multa que impondrá la Comisión Nacional Bancaria y de Valores de acuerdo a lo siguiente:
-Párrafo reformado DOF 10-01-2014 I. Multa de 1,000 a 5,000 días de salario: a) A las personas morales y establecimientos distintos a los autorizados que en su nombre usen las palabras banco, crédito, ahorro, fiduciario u otras que expresen ideas semejantes en cualquier idioma, por las que pueda inferirse el ejercicio de la banca y del crédito, salvo aquellas exceptuadas por el segundo párrafo del artículo 105 de esta Ley; y b) A las personas morales y establecimientos distintos a los autorizados que en su nombre expresen ideas en cualquier idioma, por las que pueda inferirse que se trata de instituciones de banca múltiple, oficinas de representación de entidades financieras del exterior o sociedades controladoras filiales.
-II. Multa de 5,000 a 20,000 días de salario: a) A las oficinas de representación de entidades financieras del exterior que, en contravención a lo dispuesto por el artículo 7o de esta Ley, se establezcan en territorio nacional sin contar con la autorización correspondiente;
-Inciso reformado DOF 10-01-2014 b) Se deroga Inciso derogado DOF 10-01-2014 c) A las personas que, en contravención a lo dispuesto por el artículo 45-C de esta Ley, se organicen u operen como filiales sin contar con la autorización correspondiente.
-Inciso reformado DOF 10-01-2014 III. Multa de 30,000 a 100,000 días de salario a la persona que, en contravención a lo dispuesto por los artículos 2o, 7o. o 103 de esta Ley, se organicen u operen a efecto de captar recursos del público en el mercado nacional para su colocación en el público, mediante actos causantes de pasivo directo o contingente, obligándose a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.
+Párrafo reformado DOF 10-01-2014
+
+I. Multa de 1,000 a 5,000 días de salario:
+
+a) A las personas morales y establecimientos distintos a los autorizados que en su nombre usen las palabras banco, crédito, ahorro, fiduciario u otras que expresen ideas semejantes en cualquier idioma, por las que pueda inferirse el ejercicio de la banca y del crédito, salvo aquellas exceptuadas por el segundo párrafo del artículo 105 de esta Ley; y
+
+b) A las personas morales y establecimientos distintos a los autorizados que en su nombre expresen ideas en cualquier idioma, por las que pueda inferirse que se trata de instituciones de banca múltiple, oficinas de representación de entidades financieras del exterior o sociedades controladoras filiales.
+
+II. Multa de 5,000 a 20,000 días de salario:
+
+a) A las oficinas de representación de entidades financieras del exterior que, en contravención a lo dispuesto por el artículo 7o de esta Ley, se establezcan en territorio nacional sin contar con la autorización correspondiente;
+Inciso reformado DOF 10-01-2014
+
+b) Se deroga Inciso derogado DOF 10-01-2014
+
+c) A las personas que, en contravención a lo dispuesto por el artículo 45-C de esta Ley, se organicen u operen como filiales sin contar con la autorización correspondiente.
+Inciso reformado DOF 10-01-2014
+
+III. Multa de 30,000 a 100,000 días de salario a la persona que, en contravención a lo dispuesto por los artículos 2o, 7o. o 103 de esta Ley, se organicen u operen a efecto de captar recursos del público en el mercado nacional para su colocación en el público, mediante actos causantes de pasivo directo o contingente, obligándose a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.
 Fracción adicionada DOF 10-01-2014 Artículo adicionado DOF 06-02-2008
 
 ### Artículo 108
 Bis 2. Las infracciones a esta ley o a las disposiciones que sean emitidas con base en ésta por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros serán sancionadas con multa administrativa que impondrá la citada Comisión, a razón de días de salario mínimo general vigente para el Distrito Federal, conforme a lo siguiente:
-I. Multa de 200 a 2,000 días de salario: a) A las instituciones de crédito que no cumplan con las disposiciones previstas en el artículo 48 Bis 5 de la presente Ley, así como las disposiciones que de éste emanen, y b) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 94 Bis de la presente Ley o en las disposiciones a que dicho artículo se refiere.
+
+I. Multa de 200 a 2,000 días de salario:
+
+a) A las instituciones de crédito que no cumplan con las disposiciones previstas en el artículo 48 Bis 5 de la presente Ley, así como las disposiciones que de éste emanen, y
+
+b) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 94 Bis de la presente Ley o en las disposiciones a que dicho artículo se refiere.
+
 II. Multa de 5,000 a 20,000 días de salario a las instituciones de crédito que no cumplan con lo dispuesto en los párrafos tercero y cuarto del artículo 96 Bis de esta Ley.
 La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá abstenerse de sancionar a las entidades reguladas por esta Ley, siempre y cuando justifique la causa de tal abstención y se refiera a hechos, actos u omisiones que no revistan gravedad ni constituyan delito o pongan en peligro los intereses de terceros.
 Cuando una institución de crédito, por una acción u omisión, incurra en una infracción que se refleje en múltiples operaciones o documentos, se considerará como una sola infracción, para efectos de la sanción.
@@ -1756,9 +2542,14 @@ Artículo adicionado DOF 25-06-2009
 
 ### Artículo 108
 Bis 3.- Las siguientes infracciones serán sancionadas por el Instituto para la Protección al Ahorro Bancario con multa administrativa que imponga dicho Instituto, a razón de días de salario mínimo general vigente para el Distrito Federal, conforme a lo siguiente:
+
 I. Multa de 200 a 2,000 días de salario a las instituciones de banca múltiple que no proporcionen al Instituto para la Protección al Ahorro Bancario la información que éste les requiera en términos del artículo 123 de esta Ley;
+
 II. Multa de 1,000 a 5,000 días de salario a las instituciones de banca múltiple que no clasifiquen la información, en términos de las reglas de carácter general que para tales efectos expida el Instituto, de conformidad con lo establecido en el artículo 124 de esta Ley;
-III. Multa de 2,000 a 5,000 días de salario a las instituciones de banca múltiple que no realicen los actos necesarios para que en los contratos que celebren y que correspondan a las operaciones a que se refieren las fracciones I y II del artículo 46 de esta Ley, se señale expresamente a la o las personas que tienen derecho al pago de las obligaciones garantizadas a que se refiere la Ley de Protección al Ahorro Bancario, y IV. Multa de 20,000 a 100,000 días de salario a las instituciones de banca múltiple que no entreguen la documentación que le solicite el Instituto para la Protección al Ahorro Bancario en términos del artículo 120 de esta Ley.
+
+III. Multa de 2,000 a 5,000 días de salario a las instituciones de banca múltiple que no realicen los actos necesarios para que en los contratos que celebren y que correspondan a las operaciones a que se refieren las fracciones I y II del artículo 46 de esta Ley, se señale expresamente a la o las personas que tienen derecho al pago de las obligaciones garantizadas a que se refiere la Ley de Protección al Ahorro Bancario, y
+
+IV. Multa de 20,000 a 100,000 días de salario a las instituciones de banca múltiple que no entreguen la documentación que le solicite el Instituto para la Protección al Ahorro Bancario en términos del artículo 120 de esta Ley.
 El Instituto para la Protección al Ahorro Bancario podrá, atendiendo a las circunstancias de cada caso, imponer la multa que corresponda al infractor, o bien, solamente amonestarlo.
 Dicho Instituto podrá abstenerse de sancionar a las instituciones de banca múltiple, siempre y cuando justifique la causa de la abstención y las conductas infractoras se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia y no pongan en peligro los intereses de las personas que realicen las operaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario.
 Artículo adicionado DOF 10-01-2014
@@ -1777,8 +2568,10 @@ Párrafo reformado DOF 14-11-2025 Artículo adicionado DOF 06-02-2008. Reformado
 Bis 1.- Las facultades de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como del Instituto para la Protección al Ahorro Bancario y del Banco de México para imponer las sanciones de carácter administrativo previstas en esta Ley, así como en las disposiciones que de ella emanen, caducará en un plazo de cinco años, contado a partir del día hábil siguiente al que se realizó la conducta o se actualizó el supuesto de infracción. Para el caso de conductas continuas, el plazo referido se computará a partir del momento en que cese la misma y tratándose de continuadas, se contará a partir de la consumación de la última conducta.
 Párrafo reformado DOF 24-01-2024 La caducidad referida en el párrafo anterior se interrumpirá a partir de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia.
 Párrafo reformado DOF 24-01-2024 Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
+
 I. Hasta por dos años, cuando el presunto infractor: no se ubique en el domicilio registrado ante la autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
 El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
+
 II. Cuando el presunto infractor haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
 En adición a lo previsto en los dos párrafos anteriores, se observará respecto del Banco de México, además, lo dispuesto en las reglas de carácter general emitidas por el propio Banco.
 Párrafo con fracciones adicionado DOF 24-01-2024 Para calcular el importe de las multas en aquellos supuestos contemplados por esta Ley a razón de días de salario, se tendrá como base el salario mínimo general diario vigente en el Distrito Federal el día en que se realice la conducta sancionada o se actualice el supuesto que dé motivo a la sanción correspondiente.
@@ -1814,8 +2607,12 @@ Artículo adicionado DOF 06-02-2008
 
 ### Artículo 109
 Bis 8.- Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, así como el Instituto para la Protección al Ahorro Bancario, ajustándose a los lineamientos que aprueben sus respectivas Juntas de Gobierno, deberán hacer del conocimiento del público en general, a través de su portal de Internet, las sanciones que al efecto impongan por infracciones a esta Ley o a las disposiciones que emanen de ella, para lo cual deberán señalar:
+
 I. El nombre, denominación o razón social del infractor;
-II. El precepto infringido, el tipo de sanción impuesta, monto o plazo, según corresponda y la conducta infractora, y III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
+
+II. El precepto infringido, el tipo de sanción impuesta, monto o plazo, según corresponda y la conducta infractora, y
+
+III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
 En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad competente, deberá igualmente publicarse tal circunstancia.
 La información antes señalada no será considerada como reservada o confidencial.
 Artículo adicionado DOF 06-02-2008. Reformado DOF 25-06-2009, 10-01-2014
@@ -1826,9 +2623,13 @@ De los programas de autocorrección Capítulo adicionado DOF 10-01-2014
 ### Artículo 109
 Bis 9.- Las instituciones de crédito por conducto de su director general o equivalente y con la opinión del comité de auditoría, podrán someter a la autorización de las Comisiones Nacionales Bancaria y de Valores o para la Protección y Defensa de los Usuarios de Servicios Financieros, así como del Instituto para la Protección al Ahorro Bancario, según corresponda, un programa de autocorrección cuando la institución de crédito de que se trate, en la realización de sus actividades, o el comité de auditoría como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
 No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
 I. Las irregularidades o incumplimientos que sean detectados por las Comisiones Nacionales Bancaria y de Valores o para la Protección y Defensa de los Usuarios de Servicios Financieros, en ejercicio de sus facultades de inspección y vigilancia, o del Instituto para la Protección al Ahorro Bancario, antes de la presentación por parte de la institución de crédito del programa de autocorrección respectivo.
 Se entenderá que la irregularidad fue detectada previamente por las Comisiones Nacionales Bancaria y de Valores o para la Protección y Defensa de los Usuarios de Servicios Financieros o por el Instituto para la Protección al Ahorro Bancario, en el caso de las facultades de vigilancia, cuando se haya notificado a la entidad la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
-II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
+
+II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 109
@@ -1854,11 +2655,18 @@ Artículo adicionado DOF 10-01-2014
 Párrafo reformado DOF 25-06-2009, 10-01-2014 El recurso de revisión deberá interponerse por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y deberá presentarse ante la Junta de Gobierno de la Comisión que corresponda, cuando el acto haya sido emitido por dicha Junta o por el presidente de esa misma Comisión, o ante este último cuando se trate de actos realizados por otros servidores públicos.
 Párrafo reformado DOF 25-06-2009 Por lo que respecta a las sanciones administrativas impuestas por el Instituto para la Protección al Ahorro Bancario, los afectados deberán interponer el recurso de revisión por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y ante la unidad administrativa que emitió el acto impugnado y será resuelto por el superior jerárquico, o en su caso, por la Junta de Gobierno de dicho Instituto.
 Párrafo adicionado DOF 10-01-2014 El escrito mediante el cual se interponga el recurso de revisión deberá contener:
+
 I. El nombre, denominación o razón social del recurrente;
+
 II. Domicilio para oír y recibir toda clase de citas y notificaciones;
+
 III. Los documentos con los que se acredita la personalidad de quien promueve;
+
 IV. El acto que se recurre y la fecha de su notificación;
-V. Los agravios que se le causen con motivo del acto señalado en la fracción IV anterior, y VI. Las pruebas que se ofrezcan, las cuales deberán tener relación inmediata y directa con el acto impugnado.
+
+V. Los agravios que se le causen con motivo del acto señalado en la fracción IV anterior, y
+
+VI. Las pruebas que se ofrezcan, las cuales deberán tener relación inmediata y directa con el acto impugnado.
 Cuando el recurrente no cumpla con alguno de los requisitos a que se refieren las fracciones I a VI de este artículo, las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros y, en su caso, el Instituto para la Protección al Ahorro Bancario, lo prevendrán, por escrito y por única ocasión, para que subsane la omisión prevenida dentro de los tres días hábiles siguientes a aquel en que surta efectos la notificación de dicha prevención y, en caso de que la omisión no sea subsanada en el plazo indicado en este párrafo, dichas autoridades lo tendrán por no interpuesto. Si se omitieran las pruebas se tendrán por no ofrecidas.
 Párrafo reformado DOF 25-06-2009, 10-01-2014 Artículo reformado DOF 23-07-1993, 06-02-2008
 
@@ -1868,10 +2676,24 @@ Artículo adicionado DOF 06-02-2008
 
 ### Artículo 110
 Bis 1.- El órgano encargado de resolver el recurso de revisión podrá:
+
 I. Desecharlo por improcedente;
-II. Sobreseerlo en los casos siguientes: a) Por desistimiento expreso del recurrente. b) Por sobrevenir una causal de improcedencia. c) Por haber cesado los efectos del acto impugnado. d) Las demás que conforme a la ley procedan.
+
+II. Sobreseerlo en los casos siguientes:
+
+a) Por desistimiento expreso del recurrente.
+
+b) Por sobrevenir una causal de improcedencia.
+
+c) Por haber cesado los efectos del acto impugnado.
+
+d) Las demás que conforme a la ley procedan.
+
 III. Confirmar el acto impugnado;
-IV. Revocar total o parcialmente el acto impugnado, y V. Modificar o mandar reponer el acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya.
+
+IV. Revocar total o parcialmente el acto impugnado, y
+
+V. Modificar o mandar reponer el acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya.
 No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
 El órgano encargado de resolver el recurso de revisión deberá atenderlo sin la intervención del servidor público de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o, del Instituto para la Protección al Ahorro Bancario que haya dictaminado la sanción administrativa que haya dado origen a la imposición del recurso correspondiente.
 Párrafo reformado DOF 25-06-2009, 10-01-2014 La resolución de los recursos de revisión deberá ser emitida en un plazo que no exceda a los noventa días hábiles posteriores a la fecha en que se interpuso el recurso, cuando deba ser resuelto por los presidentes de las Comisiones, según corresponda o por el Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario o la unidad administrativa competente de dicho Instituto, ni a los ciento veinte días hábiles cuando se trate de recursos que sean competencia de los órganos de gobierno correspondientes.
@@ -1883,9 +2705,20 @@ De las Notificaciones Capítulo adicionado DOF 06-02-2008
 
 ### Artículo 110
 Bis 2.- Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de suspensión, revocación de autorizaciones a que se refiere la presente ley, así como los actos que nieguen las autorizaciones a que se refiere la presente ley y las resoluciones administrativas que le recaigan a los recursos de revisión y a las solicitudes de condonación interpuestos conforme a las leyes aplicables, se podrán realizar de las siguientes maneras:
-I. Personalmente, conforme a lo siguiente: a) En las oficinas de las autoridades financieras, de acuerdo a lo previsto en el artículo 110 Bis 5 de esta Ley. b) En el domicilio del interesado o de su representante, en términos de lo previsto en los artículos 110 Bis 6 y 110 Bis 9 de esta Ley. c) En cualquier lugar en el que se encuentre el interesado o su representante, en los supuestos establecidos en el artículo 110 Bis 7 de esta Ley.
+
+I. Personalmente, conforme a lo siguiente:
+
+a) En las oficinas de las autoridades financieras, de acuerdo a lo previsto en el artículo 110 Bis 5 de esta Ley.
+
+b) En el domicilio del interesado o de su representante, en términos de lo previsto en los artículos 110 Bis 6 y 110 Bis 9 de esta Ley.
+
+c) En cualquier lugar en el que se encuentre el interesado o su representante, en los supuestos establecidos en el artículo 110 Bis 7 de esta Ley.
+
 II. Mediante oficio entregado por mensajero o por correo certificado, ambos con acuse de recibo;
-III. Por edictos, en los supuestos señalados en el artículo 110 Bis 10 de esta Ley, y IV. Por medio electrónico, en el supuesto previsto en el artículo 110 Bis 11 de esta Ley.
+
+III. Por edictos, en los supuestos señalados en el artículo 110 Bis 10 de esta Ley, y
+
+IV. Por medio electrónico, en el supuesto previsto en el artículo 110 Bis 11 de esta Ley.
 Respecto a la información y documentación que deba exhibirse a los inspectores de las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, al amparo de una visita de inspección se deberá observar lo previsto en los reglamentos expedidos por el Ejecutivo Federal, en materia de supervisión, al amparo de lo establecido en los artículos 5, primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores y 92 Bis, primer párrafo de la Ley de Protección y Defensa al Usuario de Servicios Financieros.
 Párrafo reformado DOF 10-01-2014 Para efectos de este Capítulo, se entenderá por autoridades financieras a la Secretaría de Hacienda y Crédito Público, las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, el Instituto para la Protección al Ahorro Bancario y el Banco de México.
 Párrafo reformado DOF 10-01-2014 Artículo adicionado DOF 06-02-2008
@@ -1951,9 +2784,14 @@ Párrafo reformado DOF 10-01-2014 Artículo adicionado DOF 06-02-2008
 
 ### Artículo 110
 Bis 14.- Las notificaciones a que se refiere este capítulo surtirán sus efectos al día hábil siguiente al que:
+
 I. Se hubieren efectuado personalmente;
+
 II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los artículos 110 Bis 2 y 110 Bis 11;
-III. Se hubiere efectuado la última publicación a que se refiere el artículo 110 Bis 10, y IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
+
+III. Se hubiere efectuado la última publicación a que se refiere el artículo 110 Bis 10, y
+
+IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
 Artículo adicionado DOF 06-02-2008
 
 ## Capítulo IV
@@ -1973,23 +2811,50 @@ Cuando el monto de la operación, quebranto o perjuicio patrimonial, según corr
 Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de cincuenta mil, pero no de trescientos cincuenta mil días de salario, se sancionará con prisión de cinco a ocho años y multa de cincuenta mil a doscientos cincuenta mil días de salario.
 Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de trescientos cincuenta mil días de salario, se sancionará con prisión de ocho a quince años y multa de doscientos cincuenta mil a trescientos cincuenta mil días de salario.
 Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a:
+
 I. Las personas que con el propósito de obtener un crédito, proporcionen a una institución de crédito, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la institución;
 Serán sancionados hasta en una mitad más de las penas previstas en este artículo, aquéllos funcionarios, empleados o comisionistas de terceros intermediarios o de constructoras, desarrolladoras de inmuebles y/o agentes inmobiliarios o comerciales, que participen en la solicitud y/o trámite para el otorgamiento del crédito, y conozcan la falsedad de los datos sobre los montos de los activos o pasivos de los acreditados, o que directa o indirectamente alteren o sustituyan la información mencionada, para ocultar los datos reales sobre dichos activos o pasivos;
-Párrafo adicionado DOF 06-02-2008 II. Las personas que para obtener créditos de una institución de crédito, presenten avalúos que no correspondan a la realidad, resultando como consecuencia de ello quebranto o perjuicio patrimonial para la institución;
+Párrafo adicionado DOF 06-02-2008
+
+II. Las personas que para obtener créditos de una institución de crédito, presenten avalúos que no correspondan a la realidad, resultando como consecuencia de ello quebranto o perjuicio patrimonial para la institución;
+
 III. Los consejeros, funcionarios, empleados de la Institución de crédito o quienes intervengan directamente en la autorización o realización de operaciones, a sabiendas de que éstas resultarán en quebranto o perjuicio al patrimonio de la institución.
-Se consideran comprendidos dentro de lo dispuesto en el párrafo anterior y, consecuentemente, sujetos a iguales sanciones, los consejeros, funcionarios, empleados de instituciones o quienes intervengan directamente en lo siguiente: a) Que otorguen créditos a sociedades constituidas con el propósito de obtener financiamientos de instituciones de crédito, a sabiendas de que las mismas no han integrado el capital que registren las actas constitutivas correspondientes; b) Que para liberar a un deudor, otorguen créditos a una o varias personas físicas o morales, que se encuentren en estado de insolvencia, sustituyendo en los registros de la institución respectiva unos activos por otros; c) Que otorguen créditos a personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación, que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebranto o perjuicio patrimonial a la Institución; d) Que renueven créditos vencidos parcial o totalmente a las personas físicas o morales a que se refiere el inciso anterior si resulta previsible al realizar la operación, que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebranto o perjuicio patrimonial a la Institución;
-Inciso reformado DOF 01-02-2008, 10-01-2014 e) Que a sabiendas, permitan a un deudor desviar el importe del crédito en beneficio propio o de terceros, y como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la institución, y Inciso reformado DOF 10-01-2014 f) Que lleven a cabo aquellas operaciones que la Comisión Nacional Bancaria y de Valores, en términos del artículo 74 de la presente Ley, haya señalado expresamente como operaciones que la institución de banca múltiple de que se trate no podrá realizar durante el periodo indicado por dicha Comisión para la vigencia de la medida prudencial que haya ordenado conforme a dicho artículo.
+Se consideran comprendidos dentro de lo dispuesto en el párrafo anterior y, consecuentemente, sujetos a iguales sanciones, los consejeros, funcionarios, empleados de instituciones o quienes intervengan directamente en lo siguiente:
+
+a) Que otorguen créditos a sociedades constituidas con el propósito de obtener financiamientos de instituciones de crédito, a sabiendas de que las mismas no han integrado el capital que registren las actas constitutivas correspondientes;
+
+b) Que para liberar a un deudor, otorguen créditos a una o varias personas físicas o morales, que se encuentren en estado de insolvencia, sustituyendo en los registros de la institución respectiva unos activos por otros;
+
+c) Que otorguen créditos a personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación, que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebranto o perjuicio patrimonial a la Institución;
+
+d) Que renueven créditos vencidos parcial o totalmente a las personas físicas o morales a que se refiere el inciso anterior si resulta previsible al realizar la operación, que carecen de capacidad económica para pagar o responder por el importe de las sumas acreditadas, produciendo quebranto o perjuicio patrimonial a la Institución;
+Inciso reformado DOF 01-02-2008, 10-01-2014
+
+e) Que a sabiendas, permitan a un deudor desviar el importe del crédito en beneficio propio o de terceros, y como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la institución, y Inciso reformado DOF 10-01-2014
+
+f) Que lleven a cabo aquellas operaciones que la Comisión Nacional Bancaria y de Valores, en términos del artículo 74 de la presente Ley, haya señalado expresamente como operaciones que la institución de banca múltiple de que se trate no podrá realizar durante el periodo indicado por dicha Comisión para la vigencia de la medida prudencial que haya ordenado conforme a dicho artículo.
 Inciso adicionado DOF 10-01-2014 Para efectos de lo previsto en el primer párrafo de la presente fracción, no se considera que causen un quebranto o perjuicio al patrimonio de la institución las operaciones que se celebren como parte de procesos de reestructuración de operaciones de pago que se realicen en términos del artículo 65 de esta Ley.
-Párrafo adicionado DOF 01-02-2008 IV. Los deudores que no destinen el importe del crédito a los fines pactados, y como consecuencia de ello resulte quebranto o perjuicio patrimonial a la institución, y V. Los acreditados que desvíen un crédito concedido por alguna institución a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito en condiciones preferenciales.
+Párrafo adicionado DOF 01-02-2008
+
+IV. Los deudores que no destinen el importe del crédito a los fines pactados, y como consecuencia de ello resulte quebranto o perjuicio patrimonial a la institución, y
+
+V. Los acreditados que desvíen un crédito concedido por alguna institución a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito en condiciones preferenciales.
 Artículo reformado DOF 17-05-1999
 
 ### Artículo 112
 Bis.- Se sancionará con prisión de tres a nueve años y de treinta mil a trescientos mil días multa, al que sin causa legítima o sin consentimiento de quien esté facultado para ello, respecto de tarjetas de crédito, de débito, cheques, formatos o esqueletos de cheques o en general cualquier otro instrumento de pago, de los utilizados o emitidos por instituciones de crédito del país o del extranjero:
+
 I. Produzca, fabrique, reproduzca, introduzca al país, imprima, enajene, aun gratuitamente, comercie o altere, cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
 II. Adquiera, posea, detente, utilice o distribuya cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
 III. Obtenga, comercialice o use la información sobre clientes, cuentas u operaciones de las instituciones de crédito emisoras de cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
+
 IV. Altere, copie o reproduzca la banda magnética o el medio de identificación electrónica, óptica o de cualquier otra tecnología, de cualquiera de los objetos a que se refiere el párrafo primero de este artículo;
-V. Sustraiga, copie o reproduzca información contenida en alguno de los objetos a que se refiere el párrafo primero de este artículo, o VI. Posea, adquiera, utilice o comercialice equipos o medios electrónicos, ópticos o de cualquier otra tecnología para sustraer, copiar o reproducir información contenida en alguno de los objetos a que se refiere el párrafo primero de este artículo, con el propósito de obtener recursos económicos, información confidencial o reservada.
+
+V. Sustraiga, copie o reproduzca información contenida en alguno de los objetos a que se refiere el párrafo primero de este artículo, o
+
+VI. Posea, adquiera, utilice o comercialice equipos o medios electrónicos, ópticos o de cualquier otra tecnología para sustraer, copiar o reproducir información contenida en alguno de los objetos a que se refiere el párrafo primero de este artículo, con el propósito de obtener recursos económicos, información confidencial o reservada.
 Artículo adicionado DOF 17-05-1999. Reformado DOF 26-06-2008
 
 ### Artículo 112
@@ -1998,7 +2863,10 @@ Artículo adicionado DOF 26-06-2008. Reformado DOF 10-01-2014
 
 ### Artículo 112
 Quáter.- Se sancionará con prisión de tres a nueve años y de treinta mil a trescientos mil días multa, al que sin causa legítima o sin consentimiento de quien esté facultado para ello:
-I. Acceda a los equipos o medios electrónicos, ópticos o de cualquier otra tecnología del sistema bancario mexicano, para obtener recursos económicos, información confidencial o reservada, o II. Altere o modifique el mecanismo de funcionamiento de los equipos o medios electrónicos, ópticos o de cualquier otra tecnología para la disposición de efectivo de los usuarios del sistema bancario mexicano, para obtener recursos económicos, información confidencial o reservada.
+
+I. Acceda a los equipos o medios electrónicos, ópticos o de cualquier otra tecnología del sistema bancario mexicano, para obtener recursos económicos, información confidencial o reservada, o
+
+II. Altere o modifique el mecanismo de funcionamiento de los equipos o medios electrónicos, ópticos o de cualquier otra tecnología para la disposición de efectivo de los usuarios del sistema bancario mexicano, para obtener recursos económicos, información confidencial o reservada.
 Artículo adicionado DOF 26-06-2008
 
 ### Artículo 112
@@ -2019,13 +2887,29 @@ Artículo adicionado DOF 09-03-2018
 
 ### Artículo 113
 .- Serán sancionados con prisión de dos a diez años y multa de quinientos a cincuenta mil días de salario, los consejeros, funcionarios o empleados de las instituciones de crédito que cometan cualquiera de las siguientes conductas:
-Párrafo reformado DOF 10-01-2014 I. Que omitan u ordenen omitir registrar en los términos del artículo 99 de esta Ley, las operaciones efectuadas por la institución de que se trate, o que alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados;
-Fracción reformada DOF 06-02-2008 II. Que presenten a la Comisión Nacional Bancaria y de Valores datos, informes o documentos falsos o alterados sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos;
-Fracción reformada DOF 06-02-2008 III. Que, conociendo la falsedad sobre el monto de los activos o pasivos, concedan el crédito;
-Fracción reformada DOF 06-02-2008 IV. Que conociendo los vicios que señala la fracción II del artículo 112 de esta Ley, concedan el crédito, si el monto de la alteración hubiere sido determinante para concederlo;
-Fracción reformada DOF 06-02-2008 V. Que proporcionen o permitan que se incluyan datos falsos en los documentos, informes, dictámenes, opiniones, estudios o calificación crediticia, que deban presentarse a la Comisión Nacional Bancaria y de Valores en cumplimiento de lo previsto en esta Ley;
-Fracción adicionada DOF 06-02-2008 VI. Que destruyan u ordenen que se destruyan total o parcialmente, los sistemas o registros contables o la documentación soporte que dé origen a los asientos contables respectivos, con anterioridad al vencimiento de los plazos legales de conservación;
-Fracción adicionada DOF 06-02-2008. Reformada DOF 10-01-2014 VII. Que destruyan u ordenen que se destruyan total o parcialmente, información, documentos o archivos, incluso electrónicos, con el propósito de impedir u obstruir los actos de supervisión y vigilancia de la Comisión Nacional Bancaria y de Valores, y Fracción adicionada DOF 06-02-2008. Reformada DOF 10-01-2014 VIII. Proporcionen o difundan información falsa respecto de los estados financieros de la institución de crédito, directamente o bien, a través de cualquier medio masivo de comunicación, incluyendo a los medios electrónicos, ópticos o de cualquier otra tecnología.
+Párrafo reformado DOF 10-01-2014
+
+I. Que omitan u ordenen omitir registrar en los términos del artículo 99 de esta Ley, las operaciones efectuadas por la institución de que se trate, o que alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados;
+Fracción reformada DOF 06-02-2008
+
+II. Que presenten a la Comisión Nacional Bancaria y de Valores datos, informes o documentos falsos o alterados sobre la solvencia del deudor o sobre el valor de las garantías que protegen los créditos;
+Fracción reformada DOF 06-02-2008
+
+III. Que, conociendo la falsedad sobre el monto de los activos o pasivos, concedan el crédito;
+Fracción reformada DOF 06-02-2008
+
+IV. Que conociendo los vicios que señala la fracción II del artículo 112 de esta Ley, concedan el crédito, si el monto de la alteración hubiere sido determinante para concederlo;
+Fracción reformada DOF 06-02-2008
+
+V. Que proporcionen o permitan que se incluyan datos falsos en los documentos, informes, dictámenes, opiniones, estudios o calificación crediticia, que deban presentarse a la Comisión Nacional Bancaria y de Valores en cumplimiento de lo previsto en esta Ley;
+Fracción adicionada DOF 06-02-2008
+
+VI. Que destruyan u ordenen que se destruyan total o parcialmente, los sistemas o registros contables o la documentación soporte que dé origen a los asientos contables respectivos, con anterioridad al vencimiento de los plazos legales de conservación;
+Fracción adicionada DOF 06-02-2008. Reformada DOF 10-01-2014
+
+VII. Que destruyan u ordenen que se destruyan total o parcialmente, información, documentos o archivos, incluso electrónicos, con el propósito de impedir u obstruir los actos de supervisión y vigilancia de la Comisión Nacional Bancaria y de Valores, y Fracción adicionada DOF 06-02-2008. Reformada DOF 10-01-2014
+
+VIII. Proporcionen o difundan información falsa respecto de los estados financieros de la institución de crédito, directamente o bien, a través de cualquier medio masivo de comunicación, incluyendo a los medios electrónicos, ópticos o de cualquier otra tecnología.
 Fracción adicionada DOF 10-01-2014 Artículo reformado DOF 17-05-1999
 
 ### Artículo 113
@@ -2038,7 +2922,17 @@ Bis 1.- Los consejeros, funcionarios, comisarios o empleados de una institución
 Artículo adicionado DOF 17-05-1999. Reformado DOF 10-01-2014
 
 ### Artículo 113
-bis 2.- Serán sancionados los servidores públicos de la Comisión Nacional Bancaria y de Valores, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos 111 a 113 Bis y 114 de esta ley, que: a) Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito; b) Permitan que los funcionarios o empleados de la institución de crédito alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito; c) Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito; d) Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito, o e) Incite u ordene no presentar la petición correspondiente, a quien esté facultado para ello.
+bis 2.- Serán sancionados los servidores públicos de la Comisión Nacional Bancaria y de Valores, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos 111 a 113 Bis y 114 de esta ley, que:
+
+a) Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito;
+
+b) Permitan que los funcionarios o empleados de la institución de crédito alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito;
+
+c) Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito;
+
+d) Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito, o
+
+e) Incite u ordene no presentar la petición correspondiente, a quien esté facultado para ello.
 Artículo adicionado DOF 17-05-1999
 
 ### Artículo 113
@@ -2068,7 +2962,10 @@ Artículo adicionado DOF 06-02-2008
 
 ### Artículo 114
 Bis 1.- Será sancionado con prisión de cinco a diez años, quien:
-I. Altere, oculte, falsifique, destruya, registre u omita registrar en la contabilidad de una institución de banca múltiple, información, con la intención de que dicha contabilidad, no refleje que la institución de banca múltiple de que se trate, se encuentra en el supuesto de extinción de capital, de conformidad con el artículo 226 de esta Ley, o II. Al que realice algún acto, que cause la extinción de capital de una institución de banca múltiple o agrave la situación financiera de una institución que se encuentre en dicho supuesto.
+
+I. Altere, oculte, falsifique, destruya, registre u omita registrar en la contabilidad de una institución de banca múltiple, información, con la intención de que dicha contabilidad, no refleje que la institución de banca múltiple de que se trate, se encuentra en el supuesto de extinción de capital, de conformidad con el artículo 226 de esta Ley, o
+
+II. Al que realice algún acto, que cause la extinción de capital de una institución de banca múltiple o agrave la situación financiera de una institución que se encuentre en dicho supuesto.
 En los casos previstos en las fracciones anteriores se procederá siempre y cuando la institución de banca múltiple haya sido declarada en liquidación judicial de conformidad con el artículo 231 de esta Ley.
 El juez tendrá en cuenta, para individualizar la pena, la cuantía del perjuicio inferido a los acreedores.
 Artículo adicionado DOF 10-01-2014
@@ -2079,7 +2976,10 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 114
 Bis 3.- Serán sancionados con prisión de cuatro a ocho años los funcionarios o empleados de las instituciones de banca múltiple cuya autorización para organizarse y operar como tal haya sido revocada y se encuentre en proceso de liquidación o liquidación judicial de conformidad con la Sección Segunda del Capítulo II del Título Séptimo de esta Ley, que con el objeto de ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados:
-I. Omitan registrar en los términos a que se refiere el artículo 99 de esta Ley, las operaciones efectuadas por la institución de que se trate, o II. Alteren, oculten, falsifiquen o destruyan registros o documentos.
+
+I. Omitan registrar en los términos a que se refiere el artículo 99 de esta Ley, las operaciones efectuadas por la institución de que se trate, o
+
+II. Alteren, oculten, falsifiquen o destruyan registros o documentos.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 114
@@ -2104,7 +3004,11 @@ Artículo adicionado DOF 10-01-2014
 Párrafo reformado DOF 17-05-1999, 06-02-2008, 10-01-2014 En los casos previstos en los artículos 114 Bis 1, 114 Bis 2, 114 Bis 3 y 114 Bis 4 de esta Ley, se procederá a petición de la Secretaría de Hacienda y Crédito Público, a solicitud de quien tenga interés jurídico. Dicha Secretaría requerirá la opinión previa de la Comisión Nacional Bancaria y de Valores.
 Párrafo derogado DOF 17-05-1999. Adicionado DOF 10-01-2014 Lo dispuesto en los artículos citados en este Capítulo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.
 Las instituciones de crédito, en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión Nacional Bancaria y de Valores, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
-Párrafo reformado DOF 18-07-2006 I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y Fracción reformada DOF 28-06-2007 II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional Bancaria y de Valores, reportes sobre: a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y b. Todo acto, operación o servicio, que realicen los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas.
+Párrafo reformado DOF 18-07-2006
+
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y Fracción reformada DOF 28-06-2007
+
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión Nacional Bancaria y de Valores, reportes sobre: a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y b. Todo acto, operación o servicio, que realicen los miembros del consejo de administración, directivos, funcionarios, empleados y apoderados, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas.
 Párrafo adicionado DOF 17-11-1995. Reformado DOF 07-05-1997, 28-01-2004 Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y bancarias que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información. Los reportes deberán referirse cuando menos a operaciones que se definan por las disposiciones de carácter general como relevantes, internas preocupantes e inusuales, las relacionadas con transferencias internacionales y operaciones en efectivo realizadas en moneda extranjera.
 Párrafo adicionado DOF 07-05-1997. Reformado DOF 28-01-2004, 10-01-2014 Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas disposiciones de carácter general emitirá los lineamientos sobre el procedimiento y criterios que las instituciones de crédito deberán observar respecto de:
 Párrafo reformado DOF 18-07-2006, 10-01-2014 a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen; b. La información y documentación que dichas instituciones deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
@@ -2146,12 +3050,16 @@ Las personas que hayan sido incluidas en la lista de personas bloqueadas a la qu
 
 ### artículo 115
 de esta Ley podrán hacer valer sus derechos a través del procedimiento de inclusión de las personas bloqueadas, ante la Unidad de Inteligencia Financiera, conforme a lo siguiente:
+
 I. Previa solicitud del interesado, se le otorgará audiencia para que, dentro del plazo de diez días hábiles, contados a partir del día siguiente al que la institución de crédito correspondiente le hubiera notificado los fundamentos, causa o causas de su inclusión en la lista de personas bloqueadas y manifieste por escrito o de manera verbal lo que a su interés convenga, ofrezca pruebas y formule alegatos.
 La solicitud a la que hace referencia el párrafo que antecede deberá formularse por el interesado ante la Unidad de Inteligencia Financiera en un plazo no mayor a cinco días hábiles, contados a partir del día siguiente al que se le hubieran notificado los fundamentos, causa o causas de su inclusión en la lista de personas bloqueadas.
+
 II. La Unidad de Inteligencia Financiera, de oficio o a petición de parte, podrá ampliar de manera fundada por una sola ocasión el plazo a que se refiere el primer párrafo de la fracción que antecede, hasta por el mismo periodo.
+
 III. Transcurrido el plazo para que el interesado presente pruebas y formule alegatos, la Unidad de Inteligencia Financiera, dentro de los quince días hábiles siguientes, contados a partir de que esté integrado el expediente, emitirá la resolución administrativa en la que fundamentará y motivará la inclusión del interesado a la lista de personas bloqueadas, y si procede o no su eliminación de la misma.
 La resolución administrativa a que se refiere esta fracción deberá ser notificada por oficio al interesado dentro de los diez días hábiles siguientes al de su emisión.
 En el caso de que el interesado se encuentre inconforme con el contenido de la resolución a que se refiere esta fracción, podrá impugnarla en términos de la Ley Federal de Procedimiento Administrativo.
+
 IV. Cuando la inclusión de una persona a la lista de personas bloqueadas haya sido con motivo de una Resolución del Consejo de Seguridad de las Naciones Unidas, se llevará a cabo el proceso de desincorporación que estipule el Comité por el cual se haya designado la inclusión; por tal motivo las disposiciones contenidas en las fracciones II y III no le serán aplicables.
 Artículo adicionado DOF 11-03-2022 TÍTULO SEXTO De la Comisión Nacional Bancaria y de Valores Denominación del Título reformada DOF 10-01-2014 Nota: Por reestructuración del Título Sexto quedan suprimidas las referencias a los anteriores Capítulo I “Disposiciones Generales” y Capítulo II “Del Sistema de Protección al Ahorro Bancario” con su Sección Primera “De la Resolución de las Instituciones de Banca Múltiple”, Apartado A “Disposiciones Comunes, Apartado B “Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Apoyos”, Apartado C “Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Créditos”, y Sección Segunda “De la Liquidación y Concurso Mercantil de las Instituciones de Banca Múltiple”, Apartado A “Disposiciones Generales”, Apartado B “De las Operaciones para la Liquidación”, Apartado C “De la Disolución y Liquidación Convencional de las Instituciones de Banca Múltiple” y Apartado D “De la Asistencia y Defensa Legal”.
 Capítulos con Apartados y Secciones adicionados DOF 06-07-2006. Referencias suprimidas DOF 10-01-2014 Capítulo Único De la Inspección y Vigilancia Capítulo adicionado DOF 10-01-2014
@@ -2161,11 +3069,17 @@ Capítulos con Apartados y Secciones adicionados DOF 06-07-2006. Referencias sup
 La supervisión de las entidades reguladas por la presente Ley respecto de lo previsto por los artículos 48 Bis 5, 94 Bis y 96 Bis, párrafos segundo, tercero y cuarto, así como de las materias expresamente conferidas por otras Leyes, estará a cargo de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, quien la llevará a cabo sujetándose a lo previsto en la Ley de Protección y Defensa al Usuario de Servicios Financieros, en el Reglamento respectivo y en las demás disposiciones que resulten aplicables. La Comisión Nacional Bancaria y de Valores a solicitud de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros efectuará visitas de inspección a las instituciones de crédito, que tendrán por objeto revisar, verificar, comprobar y evaluar que las instituciones de crédito se ajusten al cumplimiento de las disposiciones a que se refiere este párrafo.
 Asimismo, las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros, en sus respectivas competencias, podrán investigar hechos, actos u omisiones de los cuales pueda presumirse la violación a esta Ley y demás disposiciones que de ella deriven.
 Las visitas de inspección que efectúe la Comisión Nacional Bancaria y de Valores podrán ser ordinarias, especiales y de investigación, las primeras se llevarán a cabo de conformidad con el programa anual que se establezca al efecto; las segundas serán aquellas que sin estar incluidas en el programa anual referido, se practiquen en cualquiera de los supuestos siguientes:
+
 I. Para examinar y, en su caso, corregir situaciones especiales operativas.
+
 II. Para dar seguimiento a los resultados obtenidos en una visita de inspección.
+
 III. Cuando se presenten cambios o modificaciones en la situación contable, jurídica, económica, financiera o administrativa de una institución de crédito.
+
 IV. Cuando una institución de crédito inicie operaciones después de la elaboración del programa anual a que se refiere este párrafo.
+
 V. Cuando se presenten actos, hechos u omisiones en una institución de crédito que no hayan sido originalmente contempladas en el programa anual a que se refiere este párrafo, que motiven la realización de la visita.
+
 VI. Cuando deriven de solicitudes formuladas por otras autoridades nacionales facultadas para ello en términos de las disposiciones aplicables, así como de la cooperación internacional.
 Las visitas de investigación se efectuarán siempre que la Comisión Nacional Bancaria y de Valores tenga indicios de los cuales pueda desprenderse la realización de alguna conducta que presuntamente contravenga lo previsto en esta Ley y demás disposiciones de carácter general que emanen de ella.
 En todo caso, las visitas de inspección a que se refiere este artículo se sujetarán a lo dispuesto en esta Ley, en la Ley de la Comisión Nacional Bancaria y de Valores, en los Reglamentos a que se refiere el primer y segundo párrafos de este mismo artículo, así como a las demás disposiciones que resulten aplicables.
@@ -2197,10 +3111,16 @@ Artículo adicionado DOF 17-11-1995. Derogado DOF 05-01-2000
 .- Las instituciones de banca múltiple deberán contar con un plan de contingencia que detalle las acciones que se llevarán a cabo por la institución para restablecer su situación financiera, ante escenarios adversos que pudieran afectar su solvencia o liquidez en términos de lo que establezca la Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general aprobadas por su Junta de Gobierno.
 El plan de contingencia deberá ser aprobado por la Comisión Nacional Bancaria y de Valores, previa opinión del Instituto para la Protección al Ahorro Bancario, del Banco de México y de la Secretaría de Hacienda y Crédito Público. Dicho plan tendrá el carácter de confidencial, sin perjuicio del intercambio de información entre autoridades en términos del presente ordenamiento.
 La Comisión Nacional Bancaria y de Valores, a través de las disposiciones a que se refiere el primer párrafo de este artículo, determinará los requisitos que deben contener los planes de contingencia, debiendo considerar como mínimo lo siguiente:
+
 I. Resumen ejecutivo;
+
 II. La aprobación del propio plan por parte del Consejo de Administración de la institución, así como la designación de los funcionarios responsables de desarrollar, ejecutar y dar seguimiento a las medidas preparatorias y las acciones para implementar el plan de contingencia;
+
 III. El análisis estratégico que identifique las funciones esenciales de la institución, así como las funciones cuya suspensión pudiera causar efectos adversos en otras entidades financieras;
-IV. Descripción de las acciones concretas a seguir para la implementación oportuna del plan bajo cada uno de los escenarios considerados, incluyendo los indicadores que se tomarán en cuenta para decidir cuándo activarlas, y V. Descripción de los elementos necesarios y suficientes que permitirían la implementación de las acciones a que se refiere la fracción anterior, así como la documentación jurídica necesaria que demuestre que la implementación es viable.
+
+IV. Descripción de las acciones concretas a seguir para la implementación oportuna del plan bajo cada uno de los escenarios considerados, incluyendo los indicadores que se tomarán en cuenta para decidir cuándo activarlas, y
+
+V. Descripción de los elementos necesarios y suficientes que permitirían la implementación de las acciones a que se refiere la fracción anterior, así como la documentación jurídica necesaria que demuestre que la implementación es viable.
 Las disposiciones a que hace referencia el primer párrafo de este artículo deberán contener además, la periodicidad con que la Comisión solicitará la actualización del citado plan, los plazos de entrega y para presentar correcciones, en caso de no ser aprobado, así como los plazos para que la citada Comisión lo apruebe.
 Sin perjuicio de lo anterior, cuando el Instituto para la Protección al Ahorro Bancario o el Banco de México lo consideren conveniente, podrán solicitar a la Comisión Nacional Bancaria y de Valores que requiera a cualquier institución de banca múltiple para que actualice el plan a que se refiere este artículo.
 La Comisión Nacional Bancaria y de Valores podrá solicitar la realización de simulacros de ejecución de los planes de contingencia, y de los resultados de dichos simulacros podrá solicitar las adecuaciones al plan que considere necesarias para su efectividad.
@@ -2228,20 +3148,61 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 122
 .- Para efectos de lo dispuesto en el artículo 121 de esta Ley, se estará a lo siguiente:
-I. Cuando las instituciones de banca múltiple no cumplan con el índice de capitalización o con la parte básica del capital neto, establecidos conforme a lo dispuesto en el artículo 50 de esta Ley y en las disposiciones que de ese precepto emanen, la Comisión Nacional Bancaria y de Valores deberá ordenar la aplicación de las medidas correctivas mínimas señaladas a continuación, que correspondan a la categoría en que se ubique la institución de que se trate, en términos de las disposiciones referidas en el artículo anterior: a) Informar a su consejo de administración su clasificación, así como las causas que la motivaron, para lo cual deberán presentar un informe detallado de evaluación integral sobre su situación financiera, que señale el cumplimiento al marco regulatorio e incluya la expresión de los principales indicadores que reflejen el grado de estabilidad y solvencia de la institución, así como las observaciones que, en su caso, la Comisión Nacional Bancaria y de Valores y el Banco de México, en el ámbito de sus respectivas competencias, le hayan dirigido.
-En caso de que la institución de que se trate forme parte de un grupo financiero, deberá informar por escrito su situación al director general y al presidente del consejo de administración de la sociedad controladora; b) Dentro del plazo a que se refiere la fracción II del artículo 29 Bis de esta Ley, presentar a la Comisión Nacional Bancaria y de Valores, para su aprobación, un plan de restauración de capital que tenga como resultado un incremento en su índice de capitalización, el cual podrá contemplar un programa de mejora en eficiencia operativa, racionalización de gastos e incremento en la rentabilidad, la realización de aportaciones al capital social y límites a las operaciones que la institución de banca múltiple de que se trate pueda realizar en cumplimiento de su objeto social, o a los riesgos derivados de dichas operaciones. El plan de restauración de capital deberá ser aprobado por el consejo de administración de la institución de que se trate antes de ser presentado a la propia Comisión.
+
+I. Cuando las instituciones de banca múltiple no cumplan con el índice de capitalización o con la parte básica del capital neto, establecidos conforme a lo dispuesto en el artículo 50 de esta Ley y en las disposiciones que de ese precepto emanen, la Comisión Nacional Bancaria y de Valores deberá ordenar la aplicación de las medidas correctivas mínimas señaladas a continuación, que correspondan a la categoría en que se ubique la institución de que se trate, en términos de las disposiciones referidas en el artículo anterior:
+
+a) Informar a su consejo de administración su clasificación, así como las causas que la motivaron, para lo cual deberán presentar un informe detallado de evaluación integral sobre su situación financiera, que señale el cumplimiento al marco regulatorio e incluya la expresión de los principales indicadores que reflejen el grado de estabilidad y solvencia de la institución, así como las observaciones que, en su caso, la Comisión Nacional Bancaria y de Valores y el Banco de México, en el ámbito de sus respectivas competencias, le hayan dirigido.
+En caso de que la institución de que se trate forme parte de un grupo financiero, deberá informar por escrito su situación al director general y al presidente del consejo de administración de la sociedad controladora;
+
+b) Dentro del plazo a que se refiere la fracción II del artículo 29 Bis de esta Ley, presentar a la Comisión Nacional Bancaria y de Valores, para su aprobación, un plan de restauración de capital que tenga como resultado un incremento en su índice de capitalización, el cual podrá contemplar un programa de mejora en eficiencia operativa, racionalización de gastos e incremento en la rentabilidad, la realización de aportaciones al capital social y límites a las operaciones que la institución de banca múltiple de que se trate pueda realizar en cumplimiento de su objeto social, o a los riesgos derivados de dichas operaciones. El plan de restauración de capital deberá ser aprobado por el consejo de administración de la institución de que se trate antes de ser presentado a la propia Comisión.
 La institución referida deberá determinar en el plan de restauración de capital que, conforme a este inciso, deba presentar, metas periódicas, así como el plazo en el cual cumplirá con el índice de capitalización previsto en las disposiciones aplicables.
 La Comisión Nacional Bancaria y de Valores, a través de su Junta de Gobierno, deberá resolver lo que corresponda sobre el plan de restauración de capital que le haya sido presentado, en un plazo máximo de sesenta días contados a partir de la fecha de presentación del plan.
 Las instituciones de banca múltiple a las que resulte aplicable lo previsto en este inciso, deberán cumplir con el plan de restauración de capital dentro del plazo que establezca la Comisión Nacional Bancaria y de Valores, el cual en ningún caso podrá exceder de doscientos setenta días contados a partir del día siguiente al que se notifique a la institución de banca múltiple, la aprobación respectiva. Para la determinación del plazo para el cumplimiento del plan de restauración, la Comisión deberá tomar en consideración la categoría en que se encuentre ubicada la institución, su situación financiera, así como las condiciones que en general prevalezcan en los mercados financieros. La Comisión Nacional Bancaria y de Valores, por acuerdo de su Junta de Gobierno, podrá prorrogar por única vez este plazo por un periodo que no excederá de noventa días.
-La Comisión Nacional Bancaria y de Valores dará seguimiento y verificará el cumplimiento del plan de restauración de capital, sin perjuicio de la procedencia de otras medidas correctivas dependiendo de la categoría en que se encuentre clasificada la institución de banca múltiple de que se trate; c) Suspender, total o parcialmente, el pago a los accionistas de dividendos provenientes de la institución, así como cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales. En caso de que la institución de que se trate pertenezca a un grupo financiero, la medida prevista en este inciso también será aplicable a la sociedad controladora del grupo al que pertenezca, así como a las entidades financieras o sociedades que formen parte de dicho grupo.
-Lo dispuesto en el párrafo anterior no será aplicable tratándose del pago de dividendos que efectúen las entidades financieras o sociedades integrantes del grupo distintas a la institución de banca múltiple de que se trate, cuando el referido pago se aplique a la capitalización de la institución de banca múltiple; d) Suspender total o parcialmente los programas de recompra de acciones representativas del capital social de la institución de banca múltiple de que se trate y, en caso de pertenecer a un grupo financiero, también los de la sociedad controladora de dicho grupo; e) Diferir o cancelar, total o parcialmente, el pago de intereses y, en su caso, diferir o cancelar, total o parcialmente, el pago de principal o convertir en acciones hasta por la cantidad que sea necesaria para cubrir el faltante de capital, anticipadamente y a prorrata, las obligaciones subordinadas que se encuentren en circulación, según la naturaleza de tales obligaciones. Esta medida correctiva será aplicable a aquellas obligaciones subordinadas que así lo hayan previsto en sus actas de emisión o documento de emisión.
-Las instituciones de banca múltiple que emitan obligaciones subordinadas deberán incluir en los títulos de crédito correspondientes, en el acta de emisión, en el prospecto informativo, así como en cualquier otro instrumento que documente la emisión, las características de las mismas y la posibilidad de que sean procedentes algunas de las medidas contempladas en el párrafo anterior cuando se actualicen las causales correspondientes conforme a las reglas a que se refiere el artículo 121 de esta Ley, sin que sea causal de incumplimiento por parte de la institución emisora; f) Suspender el pago de las compensaciones y bonos extraordinarios adicionales al salario del director general y de los funcionarios de los dos niveles jerárquicos inferiores a éste, así como no otorgar nuevas compensaciones en el futuro para el director general y funcionarios, hasta en tanto la institución de banca múltiple cumpla con el índice de capitalización establecido por la Comisión Nacional Bancaria y de Valores en términos de las disposiciones a que se refiere el artículo 50 de esta Ley. Esta previsión deberá contenerse en los contratos y demás documentación que regulen las condiciones de trabajo. g) Abstenerse de convenir incrementos en los montos vigentes en los créditos otorgados a las personas consideradas como relacionadas en términos del artículo 73 de esta Ley, y h) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 121 de esta Ley.
-II. Cuando una institución de banca múltiple cumpla con el índice de capitalización y con la parte básica del capital neto requeridos de acuerdo con el artículo 50 de esta Ley y las disposiciones que de ella emanen, será clasificada en la categoría que corresponda. La Comisión Nacional Bancaria y de Valores deberá ordenar la aplicación de las medidas correctivas mínimas siguientes: a) Informar a su consejo de administración su clasificación, así como las causas que la motivaron, para lo cual deberán presentar un informe detallado de evaluación integral sobre su situación financiera, que señale el cumplimiento al marco regulatorio e incluya la expresión de los principales indicadores que reflejen el grado de estabilidad y solvencia de la institución, así como las observaciones que, en su caso, la Comisión Nacional Bancaria y de Valores y el Banco de México, en el ámbito de sus respectivas competencias, le hayan dirigido.
-En caso de que la institución de que se trate forme parte de un grupo financiero, deberá informar por escrito su situación al director general y al presidente del consejo de administración de la sociedad controladora; b) Abstenerse de celebrar operaciones cuya realización genere que su índice de capitalización se ubique por debajo del requerido conforme a las disposiciones aplicables, y c) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 121 de esta Ley.
-III. Independientemente de las medidas correctivas mínimas aplicadas conforme a las fracciones I y II del presente artículo, la Comisión Nacional Bancaria y de Valores podrá ordenar a las instituciones de banca múltiple que corresponda, la aplicación de las medidas correctivas especiales adicionales siguientes: a) Definir acciones concretas para no deteriorar su índice de capitalización; b) Contratar los servicios de auditores externos u otros terceros especializados para la realización de auditorías especiales sobre cuestiones específicas; c) Abstenerse de convenir incrementos en los salarios y prestaciones de los funcionarios y empleados en general, exceptuando las revisiones salariales convenidas y respetando en todo momento los derechos laborales adquiridos.
-Lo previsto en el presente inciso también será aplicable respecto de pagos que se realicen a personas morales distintas a la institución de banca múltiple de que se trate, cuando dichas personas morales efectúen los pagos a los empleados o funcionarios de la institución; d) Sustituir funcionarios, consejeros, comisarios o auditores externos, nombrando la propia institución a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión Nacional Bancaria y de Valores previstas en el artículo 25 de esta Ley para determinar la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la institución, o e) Las demás que determine la Comisión Nacional Bancaria y de Valores, con base en el resultado de sus funciones de inspección y vigilancia, así como en las sanas prácticas bancarias y financieras.
+La Comisión Nacional Bancaria y de Valores dará seguimiento y verificará el cumplimiento del plan de restauración de capital, sin perjuicio de la procedencia de otras medidas correctivas dependiendo de la categoría en que se encuentre clasificada la institución de banca múltiple de que se trate;
+
+c) Suspender, total o parcialmente, el pago a los accionistas de dividendos provenientes de la institución, así como cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales. En caso de que la institución de que se trate pertenezca a un grupo financiero, la medida prevista en este inciso también será aplicable a la sociedad controladora del grupo al que pertenezca, así como a las entidades financieras o sociedades que formen parte de dicho grupo.
+Lo dispuesto en el párrafo anterior no será aplicable tratándose del pago de dividendos que efectúen las entidades financieras o sociedades integrantes del grupo distintas a la institución de banca múltiple de que se trate, cuando el referido pago se aplique a la capitalización de la institución de banca múltiple;
+
+d) Suspender total o parcialmente los programas de recompra de acciones representativas del capital social de la institución de banca múltiple de que se trate y, en caso de pertenecer a un grupo financiero, también los de la sociedad controladora de dicho grupo;
+
+e) Diferir o cancelar, total o parcialmente, el pago de intereses y, en su caso, diferir o cancelar, total o parcialmente, el pago de principal o convertir en acciones hasta por la cantidad que sea necesaria para cubrir el faltante de capital, anticipadamente y a prorrata, las obligaciones subordinadas que se encuentren en circulación, según la naturaleza de tales obligaciones. Esta medida correctiva será aplicable a aquellas obligaciones subordinadas que así lo hayan previsto en sus actas de emisión o documento de emisión.
+Las instituciones de banca múltiple que emitan obligaciones subordinadas deberán incluir en los títulos de crédito correspondientes, en el acta de emisión, en el prospecto informativo, así como en cualquier otro instrumento que documente la emisión, las características de las mismas y la posibilidad de que sean procedentes algunas de las medidas contempladas en el párrafo anterior cuando se actualicen las causales correspondientes conforme a las reglas a que se refiere el artículo 121 de esta Ley, sin que sea causal de incumplimiento por parte de la institución emisora;
+
+f) Suspender el pago de las compensaciones y bonos extraordinarios adicionales al salario del director general y de los funcionarios de los dos niveles jerárquicos inferiores a éste, así como no otorgar nuevas compensaciones en el futuro para el director general y funcionarios, hasta en tanto la institución de banca múltiple cumpla con el índice de capitalización establecido por la Comisión Nacional Bancaria y de Valores en términos de las disposiciones a que se refiere el artículo 50 de esta Ley. Esta previsión deberá contenerse en los contratos y demás documentación que regulen las condiciones de trabajo.
+
+g) Abstenerse de convenir incrementos en los montos vigentes en los créditos otorgados a las personas consideradas como relacionadas en términos del artículo 73 de esta Ley, y
+
+h) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 121 de esta Ley.
+
+II. Cuando una institución de banca múltiple cumpla con el índice de capitalización y con la parte básica del capital neto requeridos de acuerdo con el artículo 50 de esta Ley y las disposiciones que de ella emanen, será clasificada en la categoría que corresponda. La Comisión Nacional Bancaria y de Valores deberá ordenar la aplicación de las medidas correctivas mínimas siguientes:
+
+a) Informar a su consejo de administración su clasificación, así como las causas que la motivaron, para lo cual deberán presentar un informe detallado de evaluación integral sobre su situación financiera, que señale el cumplimiento al marco regulatorio e incluya la expresión de los principales indicadores que reflejen el grado de estabilidad y solvencia de la institución, así como las observaciones que, en su caso, la Comisión Nacional Bancaria y de Valores y el Banco de México, en el ámbito de sus respectivas competencias, le hayan dirigido.
+En caso de que la institución de que se trate forme parte de un grupo financiero, deberá informar por escrito su situación al director general y al presidente del consejo de administración de la sociedad controladora;
+
+b) Abstenerse de celebrar operaciones cuya realización genere que su índice de capitalización se ubique por debajo del requerido conforme a las disposiciones aplicables, y
+
+c) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 121 de esta Ley.
+
+III. Independientemente de las medidas correctivas mínimas aplicadas conforme a las fracciones I y II del presente artículo, la Comisión Nacional Bancaria y de Valores podrá ordenar a las instituciones de banca múltiple que corresponda, la aplicación de las medidas correctivas especiales adicionales siguientes:
+
+a) Definir acciones concretas para no deteriorar su índice de capitalización;
+
+b) Contratar los servicios de auditores externos u otros terceros especializados para la realización de auditorías especiales sobre cuestiones específicas;
+
+c) Abstenerse de convenir incrementos en los salarios y prestaciones de los funcionarios y empleados en general, exceptuando las revisiones salariales convenidas y respetando en todo momento los derechos laborales adquiridos.
+Lo previsto en el presente inciso también será aplicable respecto de pagos que se realicen a personas morales distintas a la institución de banca múltiple de que se trate, cuando dichas personas morales efectúen los pagos a los empleados o funcionarios de la institución;
+
+d) Sustituir funcionarios, consejeros, comisarios o auditores externos, nombrando la propia institución a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión Nacional Bancaria y de Valores previstas en el artículo 25 de esta Ley para determinar la remoción o suspensión de los miembros del consejo de administración, directores generales, comisarios, directores y gerentes, delegados fiduciarios y demás funcionarios que puedan obligar con su firma a la institución, o
+
+e) Las demás que determine la Comisión Nacional Bancaria y de Valores, con base en el resultado de sus funciones de inspección y vigilancia, así como en las sanas prácticas bancarias y financieras.
 Para la aplicación de las medidas a que se refiere esta fracción, la Comisión Nacional Bancaria y de Valores podrá considerar, entre otros elementos, la categoría en que la institución de banca múltiple haya sido clasificada, su situación financiera integral, el cumplimiento al marco regulatorio y del índice de capitalización, así como de los principales indicadores que reflejen el grado de estabilidad y solvencia, la calidad de la información contable y financiera, y el cumplimiento en la entrega de dicha información.
-IV. Cuando las instituciones de banca múltiple no cumplan con los suplementos de capital establecidos conforme a lo dispuesto en el artículo 50 de esta Ley y en las disposiciones que de ese precepto emanen, la Comisión Nacional Bancaria y de Valores deberá ordenar la aplicación de las medidas correctivas mínimas señaladas a continuación: a) Suspender, total o parcialmente, el pago a los accionistas de dividendos provenientes de la institución, así como cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales. En caso de que la institución de que se trate pertenezca a un grupo financiero, la medida prevista en este inciso también será aplicable a la sociedad controladora del grupo al que pertenezca, así como a las entidades financieras o sociedades que formen parte de dicho grupo, y b) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 121 de esta Ley.
+
+IV. Cuando las instituciones de banca múltiple no cumplan con los suplementos de capital establecidos conforme a lo dispuesto en el artículo 50 de esta Ley y en las disposiciones que de ese precepto emanen, la Comisión Nacional Bancaria y de Valores deberá ordenar la aplicación de las medidas correctivas mínimas señaladas a continuación:
+
+a) Suspender, total o parcialmente, el pago a los accionistas de dividendos provenientes de la institución, así como cualquier mecanismo o acto que implique una transferencia de beneficios patrimoniales. En caso de que la institución de que se trate pertenezca a un grupo financiero, la medida prevista en este inciso también será aplicable a la sociedad controladora del grupo al que pertenezca, así como a las entidades financieras o sociedades que formen parte de dicho grupo, y
+
+b) Las demás medidas correctivas mínimas que, en su caso, establezcan las reglas de carácter general a que se refiere el artículo 121 de esta Ley.
+
 V. Cuando las instituciones de banca múltiple mantengan un índice de capitalización y una parte básica del capital neto superiores a los requeridos de conformidad con las disposiciones aplicables y cumplan con los suplementos de capital a que se refiere el artículo 50 de esta Ley y las disposiciones que de él emanen, no se aplicarán medidas correctivas mínimas ni medidas correctivas especiales adicionales.
 Artículo reformado DOF 23-07-1993, 15-02-1995, 30-04-1996. Derogado DOF 19-01-1999. Adicionado DOF 10-01-2014
 
@@ -2368,7 +3329,10 @@ El Instituto para la Protección al Ahorro Bancario podrá realizar visitas de i
 
 ### artículo 123
 de esta Ley y el cumplimiento a la obligación prevista en el párrafo anterior, así como para allegarse de la información necesaria para:
-I. Realizar el estudio técnico mencionado en el artículo 187 de esta Ley, y II. Preparar la implementación de los métodos de resolución a que se refiere el artículo 148 de esta Ley, la cual podrá incluir información contable y financiera, de las operaciones activas y pasivas, así como las demás que considere necesarias el Instituto para tal fin.
+
+I. Realizar el estudio técnico mencionado en el artículo 187 de esta Ley, y
+
+II. Preparar la implementación de los métodos de resolución a que se refiere el artículo 148 de esta Ley, la cual podrá incluir información contable y financiera, de las operaciones activas y pasivas, así como las demás que considere necesarias el Instituto para tal fin.
 En dichas visitas podrá participar las personas que tengan el carácter de terceros especializados contratados para cualquiera de los fines señalados en las fracciones anteriores, quienes deberán guardar en todo momento absoluta reserva sobre la información a la que tengan acceso.
 Las personas que intervengan en las visitas de inspección a que se refiere este artículo tendrán acceso a toda la información y documentación relacionada con las operaciones materia de la visita. En estos casos, las instituciones de banca múltiple no podrán oponer lo dispuesto en el artículo 142 de esta Ley.
 El Instituto para la Protección el Ahorro Bancario podrá proporcionar a terceros interesados en participar en las operaciones referidas en la fracción II anterior, la información de la que se allegue en términos de este artículo, sin que ello implique incumplimiento alguno a lo establecido en el artículo 142 de esta Ley. No obstante lo anterior, dichos terceros deberán observar absoluta reserva sobre la información a la que tengan acceso.
@@ -2393,19 +3357,30 @@ Artículo reformado DOF 09-06-1992. Fe de erratas DOF 03-07-1992. Derogado DOF 2
 
 ### Artículo 128
 .- La Comisión Nacional Bancaria y de Valores, en protección de los intereses del público, podrá como medida cautelar, suspender o limitar de manera parcial la celebración de las operaciones activas, pasivas y de servicios a que se refiere el artículo 46 de esta Ley, cuando dichas actividades se ubiquen en cualquiera de los supuestos siguientes:
+
 I. No se cuente con la infraestructura o controles internos necesarios para realizar las operaciones y servicios respectivos, conforme a las disposiciones aplicables;
+
 II. Se deje de cumplir o se incumpla con alguno de los requisitos para el inicio de las operaciones y servicios de que se trate;
+
 III. Se realicen operaciones distintas a las autorizadas;
+
 IV. Se incumpla con los requisitos necesarios para realizar operaciones o proporcionar servicios específicos, establecidos en disposiciones de carácter general;
-V. Se realicen operaciones o proporcionen servicios que impliquen conflicto de interés en perjuicio de sus clientes o intervengan en actividades que estén prohibidas en esta Ley o en las disposiciones que de ella emanen, y VI. En los demás casos que señalen ésta u otras leyes.
+
+V. Se realicen operaciones o proporcionen servicios que impliquen conflicto de interés en perjuicio de sus clientes o intervengan en actividades que estén prohibidas en esta Ley o en las disposiciones que de ella emanen, y
+
+VI. En los demás casos que señalen ésta u otras leyes.
 La Comisión Nacional Bancaria y de Valores, como medida cautelar, ante el desacato de las instituciones de crédito podrá publicar a través del sitio electrónico que tenga la propia Comisión, la suspensión de operaciones ordenada conforme a este artículo.
 La orden de suspensión a que se refiere este artículo es sin perjuicio de las sanciones que puedan resultar aplicables en términos de lo previsto en esta Ley y demás disposiciones.
 Artículo derogado DOF 28-04-1995. Adicionado DOF 10-01-2014
 
 ### Artículo 129
 .- La Comisión Nacional Bancaria y de Valores, con acuerdo de su Junta de Gobierno, en protección de los intereses del público ahorrador y acreedores de una institución de banca múltiple, declarará como medida cautelar la intervención de la institución de banca múltiple cuando se presente alguno de los supuestos siguientes:
+
 I. En el transcurso de un mes, el índice de capitalización de la institución de banca múltiple disminuya de un nivel igual o superior al requerido conforme a lo establecido en artículo 50 de esta Ley, a un nivel igual o inferior al requerimiento mínimo de capital fundamental establecido conforme al citado artículo 50 y las disposiciones que de él emanen, salvo en los casos en que la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario haya determinado lo señalado en el inciso b) de la fracción II del artículo 148 de esta Ley, en los cuales se aplicará lo dispuesto en el penúltimo párrafo del artículo 29 Bis de esta Ley;
-II. Incurra en la causal de revocación a que se refiere la fracción V del artículo 28 de esta Ley, y la propia institución no opere bajo el régimen a que se refiere el artículo 29 Bis 2 de la misma, o III. Se presente algún supuesto de incumplimiento de los previstos en la fracción VI del artículo 28 de esta Ley y, a juicio del Comité de Estabilidad Bancaria, se pueda actualizar alguno de los supuestos a que hace referencia el artículo 29 Bis 6 de esta Ley.
+
+II. Incurra en la causal de revocación a que se refiere la fracción V del artículo 28 de esta Ley, y la propia institución no opere bajo el régimen a que se refiere el artículo 29 Bis 2 de la misma, o
+
+III. Se presente algún supuesto de incumplimiento de los previstos en la fracción VI del artículo 28 de esta Ley y, a juicio del Comité de Estabilidad Bancaria, se pueda actualizar alguno de los supuestos a que hace referencia el artículo 29 Bis 6 de esta Ley.
 En el caso en que una institución de banca múltiple se ubique en el supuesto a que se refiere la fracción I del presente artículo, la Comisión Nacional Bancaria y de Valores, previo a la declaración de intervención de la institución, prevendrá a ésta para que en un plazo máximo de un día hábil reintegre el capital en la cantidad necesaria para mantener sus operaciones dentro de los límites respectivos en términos de esta Ley. Transcurrido dicho plazo sin que se verifique dicha circunstancia, la citada Comisión procederá a declarar la intervención. Dentro del plazo indicado, las instituciones de banca múltiple podrán exhibir la comunicación formal a que se refiere el artículo 29 Bis de esta Ley.
 Para efectos de lo previsto en el párrafo anterior, la Comisión Nacional Bancaria y de Valores podrá dictar, de forma precautoria, las medidas cautelares y las correctivas especiales adicionales que determine conforme a lo establecido en la fracción III, inciso e) del artículo 122 de esta Ley.
 Asimismo, la Comisión Nacional Bancaria y de Valores, podrá declarar la intervención de una institución de banca múltiple, cuando a su juicio existan irregularidades de cualquier género que puedan afectar su estabilidad y solvencia, y pongan en peligro los intereses del público o de los acreedores de la institución de que se trate.
@@ -2422,21 +3397,34 @@ Artículo derogado DOF 28-04-1995. Adicionado DOF 10-01-2014
 ### Artículo 131
 .- El administrador cautelar designado conforme a los artículos 129 o 130 de esta Ley, se constituirá como administrador único de la institución de que se trate, sustituyendo en todo caso al consejo de administración, así como a la asamblea general de accionistas, en aquellos supuestos en que el ejercicio de los derechos corporativos y patrimoniales de las acciones de dicha institución no corresponda al propio Instituto.
 El administrador cautelar contará con las facultades siguientes:
+
 I. La representación y administración de la institución de que se trate;
+
 II. Las que correspondan al consejo de administración de la institución y a su director general, gozando de plenos poderes generales para actos de dominio, de administración, y de pleitos y cobranzas, con facultades que requieran cláusula especial conforme a la ley, así como para suscribir títulos de crédito, realizar operaciones de crédito, presentar denuncias, querellas, desistirse de estas últimas, otorgar el perdón y comprometerse en procedimientos arbitrales;
+
 III. Formular y presentar para aprobación del Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario, el presupuesto necesario para la consecución de los objetivos de la administración cautelar;
+
 IV. Presentar al Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario informes periódicos sobre la situación financiera en que se encuentre la institución, así como de la operación administrativa de la misma y su posible resolución;
+
 V. Autorizar la contratación de pasivos, incluyendo el crédito de última instancia otorgado por el Banco de México, inversiones, gastos, adquisiciones, enajenaciones y, en general, cualquier erogación que realice la institución;
+
 VI. Autorizar el otorgamiento de las garantías que sean necesarias para la contratación de pasivos, incluyendo las acciones de la propia institución;
+
 VII. Suspender las operaciones que pongan en peligro la solvencia, estabilidad o liquidez de la institución;
-VIII. Contratar y remover al personal de la institución, e informar de ello al Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario, y IX. Las demás que establezcan las disposiciones aplicables y las que le otorgue la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario.
+
+VIII. Contratar y remover al personal de la institución, e informar de ello al Secretario Ejecutivo del Instituto para la Protección al Ahorro Bancario, y
+
+IX. Las demás que establezcan las disposiciones aplicables y las que le otorgue la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario.
 Lo anterior, sin perjuicio de las facultades de la Comisión Nacional Bancaria y de Valores para dictar las medidas necesarias para poner en buen orden las operaciones irregulares realizadas por la institución de banca múltiple de que se trate, señalando un plazo para que se lleven a cabo, así como para que se ejerzan las acciones que procedan en términos de la presente Ley.
 Artículo reformado DOF 23-07-1993, 23-12-1993. Derogado DOF 28-04-1995. Adicionado DOF 10-01-2014
 
 ### Artículo 132
 .- Los administradores cautelares designados por el Instituto para la Protección al Ahorro Bancario deberán reunir los requisitos previstos en el artículo 24 de esta Ley, sin que les sea aplicable lo dispuesto en la fracción VI del tercer párrafo del artículo 23 del mismo ordenamiento.
 Sin perjuicio de lo dispuesto en el párrafo anterior, los administradores cautelares deberán cumplir con los requisitos siguientes:
-I. No haber desempeñado el cargo de auditor externo de la institución de banca múltiple o de alguna de las empresas que integran el grupo financiero al que ésta pertenezca, durante los cinco años inmediatos anteriores a la fecha del nombramiento, y II. No estar impedidos para actuar como visitadores, conciliadores o síndicos ni tener conflicto de interés, en términos de la Ley de Concursos Mercantiles.
+
+I. No haber desempeñado el cargo de auditor externo de la institución de banca múltiple o de alguna de las empresas que integran el grupo financiero al que ésta pertenezca, durante los cinco años inmediatos anteriores a la fecha del nombramiento, y
+
+II. No estar impedidos para actuar como visitadores, conciliadores o síndicos ni tener conflicto de interés, en términos de la Ley de Concursos Mercantiles.
 En los casos en que se designen a personas morales como administrador cautelar, las personas físicas que desempeñen las actividades vinculadas a esta función, deberán cumplir con los requisitos a que se hace referencia en este artículo. Las personas morales quedarán de igual forma sujetas a la restricción prevista en la fracción I anterior.
 Las personas que no cumplan con alguno de los requisitos referidos en este precepto, deberán abstenerse de aceptar el cargo de administrador cautelar y manifestarán tal circunstancia por escrito.
 El Instituto para la Protección al Ahorro Bancario, a través de lineamientos que apruebe su Junta de Gobierno, deberá establecer criterios rectores para la determinación de los sueldos de los administradores cautelares cuando se trate de personas físicas. Tratándose de personas morales, la contraprestación que éstas reciban será la que resulte de los procedimientos de selección que apruebe la Junta de Gobierno de dicho Instituto.
@@ -2474,9 +3462,14 @@ Artículo reformado DOF 25-06-2009, 10-01-2014
 ### Artículo 136
 .- La Comisión Nacional Bancaria y de Valores, en el ejercicio de las facultades a que se refiere esta ley, podrá señalar la forma y términos en que se deberá dar cumplimiento a sus requerimientos.
 Asimismo, la citada Comisión, para hacer cumplir sus determinaciones respecto a los sujetos regulados por la presente ley, podrá emplear, indistintamente, los siguientes medios de apremio:
+
 I. Amonestación con apercibimiento;
+
 II. Multa de 2,000 a 5,000 días de salario;
-III. Multa adicional de 100 días de salario por cada día que persista la infracción, y IV. El auxilio de la fuerza pública.
+
+III. Multa adicional de 100 días de salario por cada día que persista la infracción, y
+
+IV. El auxilio de la fuerza pública.
 Si fuera insuficiente el apremio, se podrá solicitar a la autoridad competente se proceda contra el rebelde por desobediencia a un mandato legítimo de autoridad competente.
 Para efectos de este artículo, las autoridades judiciales o ministeriales federales y los cuerpos de seguridad o policiales federales o locales deberán prestar en forma expedita el apoyo que solicite la Comisión Nacional Bancaria y de Valores.
 En los casos de cuerpos de seguridad pública de las entidades federativas o de los municipios, el apoyo se solicitará en los términos de los ordenamientos que regulan la seguridad pública o, en su caso, de conformidad con los acuerdos de colaboración administrativa que se tengan celebrados con la Federación.
@@ -2502,9 +3495,14 @@ Artículo reformado DOF 04-06-2001, 06-07-2006, 10-01-2014
 
 ### Artículo 139
 .- La Comisión Nacional Bancaria y de Valores, a través de su Junta de Gobierno, procederá a levantar la intervención y, en consecuencia, cesará la administración cautelar por parte del Instituto para la Protección al Ahorro Bancario, cuando:
+
 I. La institución de banca múltiple entre en estado de disolución y liquidación;
+
 II. El Instituto para la Protección al Ahorro Bancario realice la enajenación de las acciones representativas del capital social de la institución en términos de la presente Ley;
-III. La institución sea declarada en liquidación judicial, o IV. Las operaciones irregulares u otras contravenciones a las leyes se hubieren corregido.
+
+III. La institución sea declarada en liquidación judicial, o
+
+IV. Las operaciones irregulares u otras contravenciones a las leyes se hubieren corregido.
 En los casos previstos en este artículo, el Instituto para la Protección al Ahorro Bancario deberá proceder a cancelar la inscripción en la oficina del Registro Público de Comercio respectiva.
 Artículo reformado DOF 06-07-2006, 10-01-2014
 
@@ -2531,15 +3529,29 @@ Disposiciones Generales Capítulo derogado DOF 28-04-1995. Capítulo adicionado 
 .- La información y documentación relativa a las operaciones y servicios a que se refiere el artículo 46 de la presente Ley, tendrá carácter confidencial, por lo que las instituciones de crédito, en protección del derecho a la privacidad de sus clientes y usuarios que en este artículo se establece, en ningún caso podrán dar noticias o información de los depósitos, operaciones o servicios, incluyendo los previstos en la fracción XV del citado artículo 46, sino al depositante, deudor, titular, beneficiario, fideicomitente, fideicomisario, comitente o mandante, a sus representantes legales o a quienes tengan otorgado poder para disponer de la cuenta o para intervenir en la operación o servicio.
 Como excepción a lo dispuesto por el párrafo anterior, las instituciones de crédito estarán obligadas a dar las noticias o información a que se refiere dicho párrafo, cuando lo solicite la autoridad judicial en virtud de providencia dictada en juicio en el que el titular o, en su caso, el fideicomitente, fideicomisario, fiduciario, comitente, comisionista, mandante o mandatario sea parte o acusado. Para los efectos del presente párrafo, la autoridad judicial podrá formular su solicitud directamente a la institución de crédito, o a través de la Comisión Nacional Bancaria y de Valores.
 Las instituciones de crédito también estarán exceptuadas de la prohibición prevista en el primer párrafo de este artículo y, por tanto, obligadas a dar las noticias o información mencionadas, en los casos en que sean solicitadas por las siguientes autoridades:
+
 I. El Fiscal General de la República o el servidor público en quien delegue facultades para requerir información, para la comprobación del hecho que la ley señale como delito y de la probable responsabilidad del imputado;
-Fracción reformada DOF 17-06-2016, 20-05-2021 II. Los procuradores generales de justicia de los Estados de la Federación y del Distrito Federal o subprocuradores, para la comprobación del hecho que la ley señale como delito y de la probable responsabilidad del imputado;
-Fracción reformada DOF 17-06-2016 III. El Procurador General de Justicia Militar, para la comprobación del hecho que la ley señale como delito y de la probable responsabilidad del imputado;
-Fracción reformada DOF 17-06-2016 IV. Las autoridades hacendarias federales, para fines fiscales;
-Fracción reformada DOF 17-06-2016 V. La Secretaría de Hacienda y Crédito Público, para efectos de lo dispuesto por el artículo 115 de la presente Ley;
+Fracción reformada DOF 17-06-2016, 20-05-2021
+
+II. Los procuradores generales de justicia de los Estados de la Federación y del Distrito Federal o subprocuradores, para la comprobación del hecho que la ley señale como delito y de la probable responsabilidad del imputado;
+Fracción reformada DOF 17-06-2016
+
+III. El Procurador General de Justicia Militar, para la comprobación del hecho que la ley señale como delito y de la probable responsabilidad del imputado;
+Fracción reformada DOF 17-06-2016
+
+IV. Las autoridades hacendarias federales, para fines fiscales;
+Fracción reformada DOF 17-06-2016
+
+V. La Secretaría de Hacienda y Crédito Público, para efectos de lo dispuesto por el artículo 115 de la presente Ley;
+
 VI. El Tesorero de la Federación, cuando el acto de vigilancia lo amerite, para solicitar los estados de cuenta y cualquier otra información relativa a las cuentas personales de los servidores públicos, auxiliares y, en su caso, particulares relacionados con la investigación de que se trate;
+
 VII. La Auditoría Superior de la Federación, en ejercicio de sus facultades de revisión y fiscalización de la Cuenta Pública Federal y respecto a cuentas o contratos a través de los cuáles se administren o ejerzan recursos públicos federales;
+
 VIII. El titular y los subsecretarios de la Secretaría de la Función Pública, en ejercicio de sus facultades de investigación o auditoría para verificar la evolución del patrimonio de los servidores públicos federales.
-La solicitud de información y documentación a que se refiere el párrafo anterior, deberá formularse en todo caso, dentro del procedimiento de verificación a que se refieren los artículos 41 y 42 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y IX. La Unidad de Fiscalización de los Recursos de los Partidos Políticos, órgano técnico del Consejo General del Instituto Federal Electoral, para el ejercicio de sus atribuciones legales, en Las autoridades electorales de las entidades federativas solicitarán y obtendrán la información que resulte necesaria también para el ejercicio de sus atribuciones legales a través de la unidad primeramente mencionada.
+La solicitud de información y documentación a que se refiere el párrafo anterior, deberá formularse en todo caso, dentro del procedimiento de verificación a que se refieren los artículos 41 y 42 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y
+
+IX. La Unidad de Fiscalización de los Recursos de los Partidos Políticos, órgano técnico del Consejo General del Instituto Federal Electoral, para el ejercicio de sus atribuciones legales, en Las autoridades electorales de las entidades federativas solicitarán y obtendrán la información que resulte necesaria también para el ejercicio de sus atribuciones legales a través de la unidad primeramente mencionada.
 Las autoridades mencionadas en las fracciones anteriores solicitarán las noticias o información a que se refiere este artículo en el ejercicio de sus facultades y de conformidad con las disposiciones legales que les resulten aplicables.
 Las solicitudes a que se refiere el tercer párrafo de este artículo deberán formularse con la debida fundamentación y motivación, por conducto de la Comisión Nacional Bancaria y de Valores. Los servidores públicos y las instituciones señalados en las fracciones I y VII, y la unidad de fiscalización a que se refiere la fracción IX, podrán optar por solicitar a la autoridad judicial que expida la orden correspondiente, a efecto de que la institución de crédito entregue la información requerida, siempre que dichos servidores o autoridades especifiquen la denominación de la institución, el número de cuenta, el nombre del cuentahabiente o usuario y demás datos y elementos que permitan su identificación plena, de acuerdo con la operación de que se trate.
 Los empleados y funcionarios de las instituciones de crédito serán responsables, en los términos de las disposiciones aplicables, por violación del secreto que se establece y las instituciones estarán obligadas en caso de revelación indebida del secreto, a reparar los daños y perjuicios que se causen.
@@ -2563,13 +3575,18 @@ Artículo reformado DOF 04-06-2001, 06-07-2006, 10-01-2014
 ### Artículo 143
 Bis.- La Comisión Nacional Bancaria y de Valores, a solicitud de las autoridades financieras del exterior citadas en el artículo 143 de esta Ley y, con base en el principio de reciprocidad, podrá realizar visitas de inspección a las filiales. A discreción de dicha Comisión, las visitas podrán hacerse por su conducto o bien, en cooperación con la autoridad financiera del exterior de que se trate, podrá permitir que esta última las realice.
 La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
-I. Descripción del objeto de la visita, y II. Disposiciones legales aplicables al objeto de la solicitud.
+
+I. Descripción del objeto de la visita, y
+
+II. Disposiciones legales aplicables al objeto de la solicitud.
 La Comisión Nacional Bancaria y de Valores podrá solicitar a las autoridades financieras del exterior que realicen visitas en términos de este artículo un informe de los resultados obtenidos.
 Artículo adicionado DOF 06-02-2008. Reformado DOF 10-01-2014
 
 ### Artículo 144
 .- Las instituciones de banca múltiple que de cualquier forma acuerden llevar a cabo las conductas a que se refieren las fracciones I y II de este artículo, con personas morales que realicen actividades empresariales, se constituirán conjuntamente como agentes económicos que den lugar a concentraciones de mercado en términos de la Ley Federal de Competencia Económica, cuando en adición a lo señalado en dicha Ley:
+
 I. Se condicione el acceso a la proveeduría de bienes o servicios de uno u otro agente económico, a la celebración de operaciones con la institución de banca múltiple que se trate.
+
 II. Se establezca en exclusiva o se imponga la apertura de cuentas o el uso de medios de pago de la institución de banca múltiple vinculada a la persona moral de que se trate.
 Las instituciones adicionalmente deberán observar lo previsto en el artículo 17 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros darán vista a la Comisión Federal de Competencia Económica, cuando en el ejercicio de sus facultades detecten la existencia de alguna de las prácticas mencionadas en este artículo, a efecto de que esta última en el ámbito de su competencia, resuelva lo que conforme a derecho corresponda.
@@ -2594,10 +3611,17 @@ Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014
 ### Artículo 148
 .- La resolución de una institución de banca múltiple procederá cuando la Comisión Nacional Bancaria y de Valores haya revocado la autorización que le haya otorgado para organizarse y operar con tal carácter, o bien, cuando el Comité de Estabilidad Bancaria determine que se podría actualizar alguno de los supuestos previstos en el artículo 29 Bis 6 de esta Ley.
 La resolución de una institución de banca múltiple se llevará a cabo conforme a los siguientes métodos:
-I. Cuando la Comisión Nacional Bancaria y de Valores haya revocado la autorización para organizarse y operar como institución de banca múltiple, la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario determinará que la liquidación o liquidación judicial se realice a través de las operaciones previstas en la Sección Segunda de este Capítulo, o II. Cuando el Comité de Estabilidad Bancaria resuelva que la institución de banca múltiple de que se trate podría actualizar alguno de los supuestos del artículo 29 Bis 6 de esta Ley, la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario determinará el método de resolución que corresponda conforme a lo siguiente: a) El saneamiento de la institución de banca múltiple en los términos previstos en los Apartados B o C de la presente Sección, según corresponda, siempre que el Comité de Estabilidad Bancaria haya determinado un porcentaje general del cien por ciento sobre el saldo de todas las operaciones a cargo de la institución de que se trate en términos del
+
+I. Cuando la Comisión Nacional Bancaria y de Valores haya revocado la autorización para organizarse y operar como institución de banca múltiple, la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario determinará que la liquidación o liquidación judicial se realice a través de las operaciones previstas en la Sección Segunda de este Capítulo, o
+
+II. Cuando el Comité de Estabilidad Bancaria resuelva que la institución de banca múltiple de que se trate podría actualizar alguno de los supuestos del artículo 29 Bis 6 de esta Ley, la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario determinará el método de resolución que corresponda conforme a lo siguiente:
+
+a) El saneamiento de la institución de banca múltiple en los términos previstos en los Apartados B o C de la presente Sección, según corresponda, siempre que el Comité de Estabilidad Bancaria haya determinado un porcentaje general del cien por ciento sobre el saldo de todas las operaciones a cargo de la institución de que se trate en términos del
 
 ### artículo 29
-Bis 6 de esta Ley, en cuyo caso la Comisión Nacional Bancaria y de Valores se abstendrá de revocar la autorización otorgada a la institución de banca múltiple de que se trate para organizarse y operar con tal carácter, o b) El pago conforme al artículo 198 o la transferencia de activos y pasivos de conformidad con lo dispuesto en los artículos 194 o 197 de este ordenamiento, cuando el Comité de Estabilidad Bancaria, en términos del segundo párrafo del artículo 29 Bis 6, determine un porcentaje igual o menor al cien por ciento de todas las operaciones que no sean consideradas obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario y de aquellas obligaciones garantizadas que rebasen el límite señalado en el
+Bis 6 de esta Ley, en cuyo caso la Comisión Nacional Bancaria y de Valores se abstendrá de revocar la autorización otorgada a la institución de banca múltiple de que se trate para organizarse y operar con tal carácter, o
+
+b) El pago conforme al artículo 198 o la transferencia de activos y pasivos de conformidad con lo dispuesto en los artículos 194 o 197 de este ordenamiento, cuando el Comité de Estabilidad Bancaria, en términos del segundo párrafo del artículo 29 Bis 6, determine un porcentaje igual o menor al cien por ciento de todas las operaciones que no sean consideradas obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario y de aquellas obligaciones garantizadas que rebasen el límite señalado en el
 
 ### artículo 11
 de esa misma Ley, con excepción de las señaladas en las fracciones II, IV y V del artículo 10 de la Ley de Protección al Ahorro Bancario y los pasivos derivados de la emisión de obligaciones subordinadas.
@@ -2626,10 +3650,13 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 152
 .- Para efectos de la suscripción de acciones prevista en el artículo anterior, la institución fiduciaria en el fideicomiso a que se refiere el artículo 29 Bis 4 de esta Ley, por instrucciones del Instituto para la Protección al Ahorro Bancario y en ejercicio de los derechos corporativos y patrimoniales de las acciones representativas del capital social de la institución de banca múltiple correspondiente, convocará a asamblea general extraordinaria de accionistas, con el fin de que se acuerde la realización de las aportaciones del capital que sean necesarias, conforme a lo siguiente:
+
 I. Deberán realizarse los actos tendientes a aplicar las partidas positivas del capital contable de la institución de banca múltiple distintas al capital social, a las partidas negativas del propio capital contable, incluyendo la absorción de las pérdidas de dicha institución.
+
 II. Efectuada la aplicación a que se refiere la fracción anterior, en caso de que resulten partidas negativas del capital contable, deberá reducirse el capital social. Hecho esto, se deberá realizar un aumento a dicho capital por el monto necesario para que la institución de banca múltiple cumpla con el índice de capitalización requerido por las disposiciones a que se refiere el artículo 50 de esta Ley.
 Para efectos de lo dispuesto en esta fracción, el Banco de México y la Comisión Nacional Bancaria y de Valores deberán proporcionar a dicho Instituto la información que éste considere necesaria.
 En los títulos que se emitan con motivo del aumento de capital a que se refiere la presente fracción deberá hacerse constar el consentimiento de sus titulares para que, en el caso a que se refiere el artículo 154 de esta Ley, el Instituto para la Protección al Ahorro Bancario enajene, por cuenta y orden de éstos, su tenencia accionaria en los mismos términos y condiciones en los que el propio Instituto efectúe la venta de las acciones que suscriba.
+
 III. El Instituto para la Protección al Ahorro Bancario deberá realizar las aportaciones necesarias para cubrir el aumento de capital señalado en la fracción anterior y, en la misma fecha en que el propio Instituto suscriba y pague las acciones que se emitan por virtud de dicho aumento de capital, éste ofrecerá a quienes tengan el carácter de fideicomitentes, en el fideicomiso a que se refiere el primer párrafo de este artículo o de accionistas, esas acciones para su adquisición conforme a los porcentajes que les correspondan, previo pago proporcional de todas las partidas negativas del capital contable.
 Los fideicomitentes y accionistas citados en el párrafo anterior contarán con un plazo de veinte días hábiles para adquirir las acciones que les correspondan, a partir de aquél en que el Instituto para la Protección al Ahorro Bancario publique en el Diario Oficial de la Federación el acuerdo del aumento de capital correspondiente.
 Artículo adicionado DOF 10-01-2014
@@ -2693,7 +3720,10 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 162
 .- Una vez adjudicadas las acciones conforme al artículo anterior, el administrador cautelar, en cumplimiento del acuerdo de la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario a que se refiere el artículo 148, fracción II, inciso a) de esta Ley, convocará a asamblea general extraordinaria de accionistas para efectos de que dicho Instituto acuerde la realización de aportaciones del capital necesarias para que, en su caso, la institución de banca múltiple cumpla con el índice de capitalización requerido por las disposiciones a que se refiere el artículo 50 de esta Ley, conforme a lo siguiente:
-I. Deberán realizarse los actos tendientes a aplicar las partidas positivas del capital contable de la institución de banca múltiple distintas al capital social, a las partidas negativas del propio capital contable, incluyendo la absorción de las pérdidas de dicha institución, y II. Efectuada la aplicación a que se refiere la fracción anterior, en caso de que resulten partidas negativas del capital contable, deberá reducirse el capital social. Posteriormente, se deberá realizar un aumento a dicho capital por el monto necesario para que la institución de banca múltiple cumpla con el índice de capitalización requerido por las disposiciones a que se refiere el artículo 50 de esta Ley, que incluirá la capitalización del crédito otorgado por el Instituto para la Protección al Ahorro Bancario conforme al artículo 156 de esta Ley, así como la suscripción y pago de las acciones correspondientes por parte de dicho Instituto.
+
+I. Deberán realizarse los actos tendientes a aplicar las partidas positivas del capital contable de la institución de banca múltiple distintas al capital social, a las partidas negativas del propio capital contable, incluyendo la absorción de las pérdidas de dicha institución, y
+
+II. Efectuada la aplicación a que se refiere la fracción anterior, en caso de que resulten partidas negativas del capital contable, deberá reducirse el capital social. Posteriormente, se deberá realizar un aumento a dicho capital por el monto necesario para que la institución de banca múltiple cumpla con el índice de capitalización requerido por las disposiciones a que se refiere el artículo 50 de esta Ley, que incluirá la capitalización del crédito otorgado por el Instituto para la Protección al Ahorro Bancario conforme al artículo 156 de esta Ley, así como la suscripción y pago de las acciones correspondientes por parte de dicho Instituto.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 163
@@ -2732,10 +3762,16 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 169
 .- A partir de la fecha en que una institución de banca múltiple entre en estado de liquidación, el Instituto para la Protección al Ahorro Bancario, en su carácter de liquidador, tendrá las facultades siguientes:
+
 I. Cobrar lo que se deba a la institución de banca múltiple;
+
 II. Enajenar los activos de la institución de banca múltiple;
+
 III. Pagar o transferir los pasivos a cargo de la institución de banca múltiple;
-IV. En su caso, liquidar a los accionistas su haber social, y V. Realizar los demás actos tendientes a la conclusión de la liquidación.
+
+IV. En su caso, liquidar a los accionistas su haber social, y
+
+V. Realizar los demás actos tendientes a la conclusión de la liquidación.
 Lo anterior, conforme a las operaciones de liquidación y el orden de pago previstos en el presente Apartado.
 El liquidador deberá realizar el balance inicial de la liquidación a fin de que el valor de los activos de la institución de banca múltiple se determine conforme a las normas de registro contable aplicables. Dicho balance deberá ser dictaminado por un tercero especializado de reconocida experiencia que el liquidador contrate para tal efecto, y someterse a la aprobación de la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario.
 Artículo adicionado DOF 10-01-2014
@@ -2755,19 +3791,29 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 172
 .- A partir de la fecha en que la institución entre en estado de liquidación, las operaciones pasivas a cargo de dicha institución se sujetarán a lo siguiente:
+
 I. Las obligaciones a plazo se considerarán vencidas con los intereses acumulados a dicha fecha;
+
 II. El capital y los accesorios financieros insolutos de las obligaciones en moneda nacional, sin garantía real, así como los créditos que hubieren sido denominados originalmente en unidades de inversión dejarán de causar intereses;
+
 III. El capital y los accesorios financieros insolutos de las obligaciones en moneda extranjera, sin garantía real, independientemente del lugar convenido para su pago, dejarán de causar intereses y se convertirán en moneda nacional. Para la determinación del valor de las obligaciones denominadas en moneda de curso legal en los Estados Unidos de América, se calculará su equivalencia en moneda nacional con base en el tipo de cambio publicado por el Banco de México en el Diario Oficial de la Federación, el día hábil bancario anterior a la fecha en que la institución entre en estado de liquidación, conforme a las disposiciones relativas a la determinación del tipo de cambio para solventar obligaciones denominadas en moneda extranjera pagaderas en la República Mexicana. La equivalencia de otras monedas extranjeras con el peso mexicano, se calculará por el Banco de México a solicitud del Instituto para la Protección al Ahorro Bancario, atendiendo a la cotización que rija para tales monedas contra la moneda de curso legal en los Estados Unidos de América, en los mercados internacionales, el día referido;
+
 IV. Las obligaciones con garantía o gravamen real, con independencia de que se hubiere convenido inicialmente que su pago sería en la República Mexicana o en el extranjero, se mantendrán en la moneda o unidad en la que estén denominados y únicamente causarán los intereses ordinarios estipulados en los contratos respectivos, hasta por el valor de los bienes que los garantizan;
+
 V. Respecto de las obligaciones sujetas a condición suspensiva, se considerará como si la condición no se hubiera realizado;
+
 VI. Las obligaciones sujetas a condición resolutoria se considerarán como si la condición se hubiera realizado, sin que las partes deban devolverse las prestaciones recibidas mientras la obligación haya subsistido, y VII Los medios para la disposición de fondos se tendrán por cancelados.
 No se aplicará lo previsto en este artículo a aquellas operaciones que sean objeto de transferencia conforme a los artículos 194 o 197 de esta Ley. No obstante lo anterior, en el evento de que el titular de una operación pasiva cuyo plazo aún no hubiere vencido, mantenga créditos vencidos a favor de la institución en liquidación en términos del artículo 175 de la presente Ley, la obligación pasiva de que se trate se extinguirá por novación por ministerio de ley, por lo que se constituirá una nueva operación pasiva por el monto que resulte de deducir las cantidades vencidas de los créditos y la cual será objeto de la transferencia de activos y pasivos conforme a lo dispuesto en los artículos 194 o 197 de la presente Ley. Las demás condiciones pactadas por el titular de la operación y la institución de banca múltiple en liquidación permanecerán sin modificaciones y el plazo de las operaciones será el que faltare por vencer.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 173
 .- Las operaciones activas de las instituciones de banca múltiple se sujetarán a lo que se señala a continuación, a partir de la fecha en que éstas entren en estado de liquidación:
+
 I. Los créditos se extinguirán en la parte de la que no hubieren dispuesto los acreditados, sin perjuicio de la validez de los demás términos y condiciones que correspondan;
-II. Tratándose de contratos de apertura de crédito en cuenta corriente, los pagos, totales o parciales, realizados por los acreditados con posterioridad a la fecha a que se refiere el primer párrafo de este artículo, no darán derecho a éstos para disponer del saldo que resulte a su favor, el cual se extinguirá en cada fecha de pago, y III. Todos los medios para la disposición de créditos se tendrán por cancelados.
+
+II. Tratándose de contratos de apertura de crédito en cuenta corriente, los pagos, totales o parciales, realizados por los acreditados con posterioridad a la fecha a que se refiere el primer párrafo de este artículo, no darán derecho a éstos para disponer del saldo que resulte a su favor, el cual se extinguirá en cada fecha de pago, y
+
+III. Todos los medios para la disposición de créditos se tendrán por cancelados.
 No se aplicará lo previsto en este artículo a aquellas operaciones que sean objeto de transferencia conforme a los artículos 194 o 197 de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
@@ -2781,10 +3827,22 @@ Artículo adicionado DOF 10-01-2014
 .- En la fecha en que entre en liquidación una institución de banca múltiple, el saldo de las operaciones pasivas garantizadas por el Instituto para la Protección al Ahorro Bancario hasta por el límite establecido en la Ley de Protección al Ahorro Bancario, será compensado, contra el saldo que se encuentre vencido de los derechos de crédito a favor de la propia institución derivados de operaciones activas. La compensación solo se llevará a cabo respecto de las operaciones que obren en los sistemas a que se refiere el artículo 124 de esta Ley que deban mantener las instituciones de banca múltiple.
 La determinación de los créditos que se encuentren vencidos, para efectos de lo dispuesto en este artículo, se realizará de conformidad con las disposiciones de carácter general sobre cartera crediticia emitidas por la Comisión Nacional Bancaria y de Valores.
 Para efectos de la compensación establecida en el presente artículo, se observará lo siguiente:
-I. Al efectuar la compensación no se considerará: a) El saldo de créditos a cargo del titular de la operación, cuando exista algún procedimiento jurisdiccional para el cobro de los mismos o cuya litis verse sobre la validez de la propia operación activa o sobre el saldo vencido a cargo del titular, siempre y cuando se hubiere emplazado a la institución de banca múltiple o al titular de la operación de que se trate con anterioridad a la fecha en que haya entrado en estado de liquidación, o b) El saldo de operaciones pasivas respecto de las cuales la autoridad competente hubiere notificado a la institución de banca múltiple de que se trate, con anterioridad a la fecha de liquidación, una orden que afecte la disponibilidad de los recursos relacionados con las operaciones pasivas correspondientes.
+
+I. Al efectuar la compensación no se considerará:
+
+a) El saldo de créditos a cargo del titular de la operación, cuando exista algún procedimiento jurisdiccional para el cobro de los mismos o cuya litis verse sobre la validez de la propia operación activa o sobre el saldo vencido a cargo del titular, siempre y cuando se hubiere emplazado a la institución de banca múltiple o al titular de la operación de que se trate con anterioridad a la fecha en que haya entrado en estado de liquidación, o
+
+b) El saldo de operaciones pasivas respecto de las cuales la autoridad competente hubiere notificado a la institución de banca múltiple de que se trate, con anterioridad a la fecha de liquidación, una orden que afecte la disponibilidad de los recursos relacionados con las operaciones pasivas correspondientes.
+
 II. La compensación tendrá lugar incluso tratándose de operaciones consideradas por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros como masivamente celebradas por las instituciones de crédito en términos de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, no obstante que hubiesen sido objeto de aclaración bajo el procedimiento y por los montos a que se refiere el artículo 23 de la citada ley. En estos casos, la compensación producirá sus efectos como si la aclaración no hubiese sido presentada, sin embargo, la institución de banca múltiple en liquidación deberá mantener una reserva por un monto equivalente a aquél que sea objeto de la reclamación.
-III. En el evento de que la solicitud de aclaración a que se refiere la fracción anterior resulte procedente, deberá observarse lo siguiente: a) Si la compensación se hubiere realizado respecto de operaciones pasivas consideradas como obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario, la institución de banca múltiple en liquidación deberá hacer del conocimiento del Instituto para la Protección al Ahorro Bancario, el monto a favor del cliente de la propia institución derivado de la aclaración, a fin de que el referido Instituto cubra, en su caso, la diferencia a favor del titular garantizado, siempre que con dicho pago no se exceda el límite establecido en el artículo 11 de la Ley de Protección al Ahorro Bancario.
-Por su parte, la institución de banca múltiple deberá pagar a las personas que tendrán derecho al pago de las obligaciones garantizadas a que se refiere la Ley de Protección al Ahorro Bancario, con cargo a la reserva a que se refiere el párrafo anterior, el monto excedente al límite garantizado, sujeto al orden de pago que en términos de esta Ley corresponda. El monto en exceso del referido límite, deberá hacerse efectivo ante la institución de banca múltiple en liquidación, y b) Por lo que se refiere a operaciones pasivas que no sean consideradas como obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario, o bien respecto del monto que exceda el límite establecido en el artículo 11 de dicho ordenamiento, la institución de banca múltiple en liquidación deberá pagar al titular de la operación, según corresponda, con cargo a la reserva a que se refiere el párrafo anterior y sujeto al orden de pago que en términos de esta Ley corresponda, el monto a que tenga derecho dicho titular como resultado del procedimiento de aclaración.
+
+III. En el evento de que la solicitud de aclaración a que se refiere la fracción anterior resulte procedente, deberá observarse lo siguiente:
+
+a) Si la compensación se hubiere realizado respecto de operaciones pasivas consideradas como obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario, la institución de banca múltiple en liquidación deberá hacer del conocimiento del Instituto para la Protección al Ahorro Bancario, el monto a favor del cliente de la propia institución derivado de la aclaración, a fin de que el referido Instituto cubra, en su caso, la diferencia a favor del titular garantizado, siempre que con dicho pago no se exceda el límite establecido en el artículo 11 de la Ley de Protección al Ahorro Bancario.
+Por su parte, la institución de banca múltiple deberá pagar a las personas que tendrán derecho al pago de las obligaciones garantizadas a que se refiere la Ley de Protección al Ahorro Bancario, con cargo a la reserva a que se refiere el párrafo anterior, el monto excedente al límite garantizado, sujeto al orden de pago que en términos de esta Ley corresponda. El monto en exceso del referido límite, deberá hacerse efectivo ante la institución de banca múltiple en liquidación, y
+
+b) Por lo que se refiere a operaciones pasivas que no sean consideradas como obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario, o bien respecto del monto que exceda el límite establecido en el artículo 11 de dicho ordenamiento, la institución de banca múltiple en liquidación deberá pagar al titular de la operación, según corresponda, con cargo a la reserva a que se refiere el párrafo anterior y sujeto al orden de pago que en términos de esta Ley corresponda, el monto a que tenga derecho dicho titular como resultado del procedimiento de aclaración.
+
 IV. Si después de resuelta la reclamación, y una vez aplicados los recursos, existe un remanente de la reserva, dicho monto deberá repartirse entre los acreedores de dicha institución de conformidad con el orden de pago establecido en el artículo 180 de la presente Ley.
 Artículo adicionado DOF 10-01-2014
 
@@ -2813,15 +3871,25 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 180
 .- El liquidador, para realizar el pago de los créditos a cargo de la institución de banca múltiple en liquidación deberá considerar el orden siguiente:
-I. Créditos con garantía o gravamen real II. Créditos laborales diferentes a los referidos en la fracción XXIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y créditos fiscales;
+
+I. Créditos con garantía o gravamen real
+
+II. Créditos laborales diferentes a los referidos en la fracción XXIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y créditos fiscales;
+
 III. Créditos que según las leyes que los rijan tengan un privilegio especial;
+
 IV. Créditos derivados del pago de obligaciones garantizadas conforme al artículo 6 de la Ley de Protección al Ahorro Bancario, hasta por el límite a que se refiere el artículo 11 de dicha Ley, así como cualquier otro pasivo a favor del propio Instituto;
+
 V. Créditos derivados de obligaciones garantizadas conforme al artículo 6 de la Ley de Protección al Ahorro Bancario, por el saldo que exceda el límite a que se refiere el artículo 11 de dicha Ley;
+
 VI. Créditos derivados de otras obligaciones distintas a las señaladas en las fracciones anteriores;
+
 VII. Créditos derivados de obligaciones subordinadas preferentes, conforme a lo dispuesto por el
 
 ### artículo 64
-de esta Ley, y VIII. Créditos derivados de obligaciones subordinadas no preferentes, conforme a lo dispuesto por el
+de esta Ley, y
+
+VIII. Créditos derivados de obligaciones subordinadas no preferentes, conforme a lo dispuesto por el
 
 ### artículo 64
 de esta Ley.
@@ -2845,8 +3913,12 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 182
 .- El liquidador deberá constituir una reserva con cargo a los recursos de la institución de banca múltiple en liquidación, en los siguientes casos:
+
 I. Cuando existan juicios o procedimientos en que la institución de banca múltiple sea parte, y que no cuenten con sentencia firme o laudo;
-II. Tratándose de créditos que no aparezcan en la contabilidad y hayan sido notificados por la autoridad competente hasta en tanto no exista resolución firme, y III. Cuando a juicio del liquidador la tramitación de un incidente pudiera derivar en la condena de daños y perjuicios, según la naturaleza de la obligación que hubiere originado la controversia.
+
+II. Tratándose de créditos que no aparezcan en la contabilidad y hayan sido notificados por la autoridad competente hasta en tanto no exista resolución firme, y
+
+III. Cuando a juicio del liquidador la tramitación de un incidente pudiera derivar en la condena de daños y perjuicios, según la naturaleza de la obligación que hubiere originado la controversia.
 Para la determinación del monto de las reservas que en términos de lo señalado en este artículo deban constituirse, el liquidador deberá considerar las disposiciones de carácter general emitidas por la Comisión Nacional Bancaria y de Valores de conformidad con el artículo 99 de esta Ley, así como el orden de pago a que se refiere el artículo 180 de esta Ley. El liquidador podrá modificar periódicamente el monto de las reservas para reflejar la mejor estimación posible.
 Artículo adicionado DOF 10-01-2014
 
@@ -2868,8 +3940,12 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 186
 .- En la liquidación de una institución de banca múltiple, la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario, podrá determinar que se lleve a cabo cualquiera de las operaciones siguientes:
+
 I. Transferir a otra institución de banca múltiple activos y pasivos de la institución en liquidación, incluso las obligaciones garantizadas a que se refiere el artículo 6 de la Ley de Protección al Ahorro Bancario, conforme a lo previsto en el artículo 194 de la presente Ley, en los términos del acuerdo que éstas celebren. En estos casos, la transferencia de activos podrá hacerse directamente o a través de un fideicomiso;
-II. La constitución, organización y operación de una institución de banca múltiple por parte del propio Instituto, conforme a lo dispuesto en la presente Ley y en las disposiciones que de ésta deriven, con el objeto de transferirle activos y pasivos de la institución de banca múltiple en liquidación, o III. Cualquier otra que, conforme a los límites y condiciones previstos en esta Ley, determine como la mejor alternativa para proteger los intereses del público ahorrador, atendiendo a las circunstancias del caso.
+
+II. La constitución, organización y operación de una institución de banca múltiple por parte del propio Instituto, conforme a lo dispuesto en la presente Ley y en las disposiciones que de ésta deriven, con el objeto de transferirle activos y pasivos de la institución de banca múltiple en liquidación, o
+
+III. Cualquier otra que, conforme a los límites y condiciones previstos en esta Ley, determine como la mejor alternativa para proteger los intereses del público ahorrador, atendiendo a las circunstancias del caso.
 El Instituto para la Protección al Ahorro Bancario procederá a pagar las obligaciones garantizadas que no sean objeto de alguna de las transferencias señaladas en las fracciones anteriores, en términos de lo dispuesto en esta Ley y en la Ley de Protección al Ahorro Bancario.
 Las operaciones a que se refiere el presente artículo podrán realizarse de manera independiente, sucesiva o simultánea.
 Artículo adicionado DOF 10-01-2014
@@ -2899,9 +3975,14 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 189
 .- Cuando una institución de banca múltiple entre en estado de liquidación, el Instituto para la Protección al Ahorro Bancario procederá a cubrir las obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario, conforme a lo siguiente:
+
 I. El monto a ser cubierto de acuerdo con lo establecido en la Ley de Protección al Ahorro Bancario, quedará fijado en unidades de inversión, a partir de la fecha en que la institución de que se trate entre en estado de liquidación, independientemente de la moneda en que las obligaciones garantizadas, a cargo de la institución, estén denominadas o de las tasas de interés pactadas;
+
 II. El pago de las obligaciones garantizadas se realizará en moneda nacional, por lo que la conversión del monto denominado en unidades de inversión se efectuará utilizando el valor vigente de la citada unidad en la fecha en que el Instituto para la Protección al Ahorro Bancario emita la resolución de pago correspondiente;
-III. En caso de que una persona tenga más de una cuenta en una misma institución y la suma de los saldos excediera el límite señalado en el artículo 11 de la Ley de Protección al Ahorro Bancario, el Instituto para la Protección al Ahorro Bancario únicamente pagará hasta dicho límite, prorrateándolo entre las cuentas en función de su saldo, y IV. Sin perjuicio de lo establecido en la fracción anterior, tratándose de cuentas colectivas con más de un titular o cotitulares, el Instituto para la Protección al Ahorro Bancario cubrirá el saldo de la obligación garantizada que derive de la cuenta respectiva, hasta por el límite señalado en el
+
+III. En caso de que una persona tenga más de una cuenta en una misma institución y la suma de los saldos excediera el límite señalado en el artículo 11 de la Ley de Protección al Ahorro Bancario, el Instituto para la Protección al Ahorro Bancario únicamente pagará hasta dicho límite, prorrateándolo entre las cuentas en función de su saldo, y
+
+IV. Sin perjuicio de lo establecido en la fracción anterior, tratándose de cuentas colectivas con más de un titular o cotitulares, el Instituto para la Protección al Ahorro Bancario cubrirá el saldo de la obligación garantizada que derive de la cuenta respectiva, hasta por el límite señalado en el
 
 ### artículo 11
 de la Ley de Protección al Ahorro Bancario cualquiera que sea el número de titulares o cotitulares.
@@ -2934,16 +4015,34 @@ Artículo adicionado DOF 10-01-2014
 .- Con el objeto de procurar la continuidad de los servicios bancarios en beneficio de los intereses del público ahorrador de la institución de banca múltiple en liquidación, el liquidador podrá celebrar la transferencia de activos o pasivos a que se refiere el presente Apartado. Dicha transferencia consistirá en la transmisión de derechos u obligaciones a favor o a cargo de una institución de banca múltiple en liquidación, a otra institución de banca múltiple que cumpla con el índice de capitalización y con los suplementos de capital requeridos conforme al artículo 50 de esta Ley y las disposiciones que de él emanen o, tratándose de activos, a cualquier persona física o moral que esté en posibilidad legal de adquirirlos.
 La transferencia de activos o pasivos a que se refiere el párrafo anterior se sujetará a los lineamientos de carácter general que emita el Instituto para la Protección al Ahorro Bancario previa aprobación de su Junta de Gobierno, en los cuales deberá preverse como criterios rectores que para la selección de la persona adquirente, se considerarán, entre otros aspectos, su cobertura geográfica, el segmento de mercado que atiende y la infraestructura con la que cuente para procurar la continuidad antes mencionada, así como que, tratándose de transferencias de activos, deberá procurarse obtener el máximo valor de recuperación posible.
 Los lineamientos mencionados deberán considerar además lo siguiente:
+
 I. Podrán transferirse conforme a lo previsto en los artículos 199 al 215 de la presente Ley o conforme a un procedimiento de invitación a por lo menos tres personas, los bienes, derechos y demás activos de la institución de banca múltiple en liquidación que, al efecto, determine el liquidador, previa reserva de los recursos necesarios para hacer frente a las obligaciones a que se refiere la fracción II y el segundo párrafo del artículo 180 de esta Ley. Dichos bienes podrán incluir disponibilidades e inversiones en valores cuya transferencia se realizará sin que resulten aplicables las disposiciones primeramente mencionadas.
-En caso de que, de conformidad con lo dispuesto en la Ley Federal de Competencia Económica, se requiera resolución favorable de la Comisión Federal de Competencia Económica respecto de la concentración de que se trate, se deberá observar el siguiente procedimiento: a) La persona adquirente a que se refiere el primer párrafo del presente artículo deberá notificar la concentración, de manera simultánea, a la Comisión Federal de Competencia Económica, al Banco de México y a la Comisión Nacional Bancaria y de Valores. b) Tanto el Banco de México como la Comisión Nacional Bancaria y de Valores, en el ámbito de sus atribuciones, contarán con un plazo de tres días hábiles a partir de la recepción de la notificación a que se refiere el inciso anterior para presentar a la Comisión Federal de Competencia Económica sus opiniones respecto de las implicaciones que pudiera tener la concentración de que se trate, respecto de la estabilidad del sistema financiero, el buen funcionamiento de los sistemas de pagos necesarios para el desarrollo de la actividad económica y la protección de los intereses del público ahorrador. Lo anterior, con el objeto de que dichas opiniones sean escuchadas. c) Por su parte, la Comisión Federal de Competencia Económica contará con un plazo de hasta dos días hábiles, contados a partir del día siguiente a la recepción de la notificación a que se refiere el inciso a) del presente artículo, para solicitar información o documentación adicional, en caso de que lo estime necesario, a la institución de banca múltiple en liquidación y a la persona adquirente, así, como a la Secretaría de Hacienda y Crédito Público, al Banco de México y a la Comisión Nacional Bancaria y de Valores. d) La institución de banca múltiple en liquidación, la persona adquirente y las autoridades mencionadas en el inciso c) deberán entregar a la Comisión Federal de Competencia Económica la información solicitada en un plazo no mayor a un día hábil, contado a partir de su requerimiento, sin que les resulte oponible las restricciones previstas en el artículo 142 de esta Ley.
-La Comisión Federal de Competencia Económica clasificará la información recibida como confidencial, en términos del artículo 31 bis de la Ley Federal de Competencia Económica. e) La Comisión Federal de Competencia Económica deberá emitir la resolución que corresponda en un plazo no mayor a tres días hábiles, contados a partir del día siguiente a la recepción de la notificación a que se refiere el inciso a) del presente artículo o, en su caso, de la recepción de la información adicional solicitada a que se refiere el inciso d) de este artículo. En caso de que dicha resolución no sea emitida en el plazo previsto por este inciso, se entenderá resuelta favorablemente.
+En caso de que, de conformidad con lo dispuesto en la Ley Federal de Competencia Económica, se requiera resolución favorable de la Comisión Federal de Competencia Económica respecto de la concentración de que se trate, se deberá observar el siguiente procedimiento:
+
+a) La persona adquirente a que se refiere el primer párrafo del presente artículo deberá notificar la concentración, de manera simultánea, a la Comisión Federal de Competencia Económica, al Banco de México y a la Comisión Nacional Bancaria y de Valores.
+
+b) Tanto el Banco de México como la Comisión Nacional Bancaria y de Valores, en el ámbito de sus atribuciones, contarán con un plazo de tres días hábiles a partir de la recepción de la notificación a que se refiere el inciso anterior para presentar a la Comisión Federal de Competencia Económica sus opiniones respecto de las implicaciones que pudiera tener la concentración de que se trate, respecto de la estabilidad del sistema financiero, el buen funcionamiento de los sistemas de pagos necesarios para el desarrollo de la actividad económica y la protección de los intereses del público ahorrador. Lo anterior, con el objeto de que dichas opiniones sean escuchadas.
+
+c) Por su parte, la Comisión Federal de Competencia Económica contará con un plazo de hasta dos días hábiles, contados a partir del día siguiente a la recepción de la notificación a que se refiere el inciso a) del presente artículo, para solicitar información o documentación adicional, en caso de que lo estime necesario, a la institución de banca múltiple en liquidación y a la persona adquirente, así, como a la Secretaría de Hacienda y Crédito Público, al Banco de México y a la Comisión Nacional Bancaria y de Valores.
+
+d) La institución de banca múltiple en liquidación, la persona adquirente y las autoridades mencionadas en el inciso c) deberán entregar a la Comisión Federal de Competencia Económica la información solicitada en un plazo no mayor a un día hábil, contado a partir de su requerimiento, sin que les resulte oponible las restricciones previstas en el artículo 142 de esta Ley.
+La Comisión Federal de Competencia Económica clasificará la información recibida como confidencial, en términos del artículo 31 bis de la Ley Federal de Competencia Económica.
+
+e) La Comisión Federal de Competencia Económica deberá emitir la resolución que corresponda en un plazo no mayor a tres días hábiles, contados a partir del día siguiente a la recepción de la notificación a que se refiere el inciso a) del presente artículo o, en su caso, de la recepción de la información adicional solicitada a que se refiere el inciso d) de este artículo. En caso de que dicha resolución no sea emitida en el plazo previsto por este inciso, se entenderá resuelta favorablemente.
 Para emitir la resolución a la que se refiere el inciso e) anterior, la Comisión Federal de Competencia Económica deberá considerar los elementos que permitan el funcionamiento eficiente de los mercados del sistema financiero nacional, la estabilidad de dicho sistema, el buen funcionamiento de los sistemas de pagos necesarios para el desarrollo de la actividad económica y la protección de los intereses del público ahorrador.
 En protección de los intereses del público ahorrador, del sistema de pagos y del interés público en general, en caso de que el Comité de Estabilidad Bancaria haya determinado que la institución de banca múltiple de que se trate se ubica en alguno de los supuestos a que se refiere el artículo 29 Bis 6 de esta Ley, no resultará aplicable esta fracción ni lo dispuesto en la Ley Federal de Competencia Económica;
+
 II. Podrán transferirse las obligaciones a que se refieren las fracciones I, III, IV, V y VI del artículo 180 de esta Ley, consideradas a su valor contable con los intereses devengados a la fecha de la operación, respetando el orden de pago que se establece en dicho artículo, por lo que solamente podrán transferirse las obligaciones comprendidas dentro de alguna de las fracciones mencionadas cuando se estén transfiriendo en ese mismo acto las correspondientes a las fracciones que le precedan o cuando, con anterioridad, éstas hayan sido transferidas o hayan sido reservados los activos necesarios para pagarlas. El liquidador podrá negociar con la institución adquirente que los recursos se documenten a través de la suscripción de instrumentos de pago a cargo de la institución;
+
 III. Podrán efectuarse transferencias parciales de las obligaciones a que se refieren las fracciones V y VI del artículo 180, respetando el orden de pago que se establece en dicho artículo, conforme a lo previsto en el artículo 195 de esta Ley;
+
 IV. En el evento de que el valor de los activos objeto de transferencia sea inferior al monto de las obligaciones transferidas, el Instituto para la Protección al Ahorro Bancario deberá cubrir dicha diferencia a la institución adquirente y la institución en liquidación deberá reconocer un adeudo a su cargo y a favor de dicho Instituto, por el importe de la diferencia mencionada. El pago de dicho adeudo se efectuará conforme al orden de pago que corresponda a los pasivos transferidos;
+
 V. En caso de que el valor de los activos objeto de transferencia sea superior al valor de las obligaciones a cargo de la institución de banca múltiple en liquidación que se hayan transferido, la institución adquirente deberá cubrir la diferencia a la institución de banca múltiple en liquidación;
-VI. Podrán ser objeto de transferencia las operaciones a que se refiere el artículo 176 de esta Ley, y VII. La transferencia de activos y pasivos podrá llevarse a cabo de manera separada o conjunta, con una o varias personas a través de uno o más actos sucesivos o simultáneos.
+
+VI. Podrán ser objeto de transferencia las operaciones a que se refiere el artículo 176 de esta Ley, y
+
+VII. La transferencia de activos y pasivos podrá llevarse a cabo de manera separada o conjunta, con una o varias personas a través de uno o más actos sucesivos o simultáneos.
 En las operaciones de transferencias de activos y pasivos, deberán respetarse en todo momento los derechos laborales adquiridos a favor de las personas que pudieran resultar afectadas. De igual forma, los derechos de los acreedores que no sean objeto de transferencia de activos y pasivos no deberán resultar afectados en relación con lo que, en su caso, les hubiere correspondido de no haberse efectuado dicha transferencia.
 El liquidador podrá entregar información relacionada con las operaciones antes mencionadas a las personas con las que se negocie la transferencia de activos y pasivos a las que se refiere este artículo, sin que resulte aplicable lo previsto en el artículo 142 de esta Ley. Los participantes deberán guardar la debida confidencialidad sobre la información a que tengan acceso con motivo de la misma.
 Artículo adicionado DOF 10-01-2014
@@ -2963,35 +4062,48 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 197
 .- Con el objeto de procurar la continuidad de los servicios bancarios de la institución de banca múltiple en liquidación, en beneficio de los intereses del público ahorrador, el liquidador podrá celebrar la transferencia de activos y pasivos con una institución de banca múltiple operada y organizada por el Instituto para la Protección al Ahorro Bancario.
 En estos casos, la transferencia de activos y pasivos se sujetará a lo dispuesto en los artículos 194 al 196 de esta Ley, salvo por lo siguiente:
+
 I. El valor de los activos objeto de transferencia se determinará considerando su valor contable neto de reservas, y su transferencia no se sujetará a lo establecido en los artículos 199 al 215 de esta Ley;
+
 II. El Instituto para la Protección al Ahorro Bancario cubrirá a la institución de banca múltiple en liquidación un monto equivalente al valor contable neto de reservas de los activos transferidos.
 Para efectos de lo dispuesto en esta fracción, el Instituto para la Protección al Ahorro Bancario deberá entregar a la institución de banca múltiple en liquidación los recursos correspondientes o bien, suscribir instrumentos de pago a cargo del propio Instituto, los cuales contarán con la garantía a que se refiere el artículo 45 de la Ley de Protección al Ahorro Bancario;
+
 III. Como consecuencia de la transferencia de pasivos, la institución de banca múltiple en liquidación deberá reconocer un adeudo a su cargo y a favor del Instituto para la Protección al Ahorro Bancario, por un monto equivalente al valor de las obligaciones a cargo de dicha institución que hayan sido objeto de la transferencia. El pago de dicho adeudo se efectuará conforme al orden de pago que corresponda a los pasivos transferidos de conformidad con el
 
 ### artículo 180
 de esta Ley;
+
 IV. En el caso que, finalizado el plazo a que se refiere el artículo 27 Bis 2 de esta Ley, no se hubiere realizado la transmisión de acciones a que se refiere la fracción I del artículo 27 Bis 3 de la misma Ley y existan activos sin transferir, éstos podrán ser revertidos a la institución de banca múltiple en liquidación. De actualizarse este supuesto, los activos serán revertidos a su valor contable neto de reservas a la fecha en que se realice la reversión y deberá ajustarse el monto a que se refiere la fracción II de este artículo, conforme a dicho valor;
+
 V. Al concluirse la realización de los actos a que se refieren las fracciones I o II del artículo 27 Bis 3 de esta Ley, el Instituto para la Protección al Ahorro Bancario deberá determinar el valor de realización de los activos y en caso de que este último sea mayor al valor final determinado conforme al último párrafo de este artículo, la institución organizada y operada por el mencionado Instituto, o en su caso este último, deberá reintegrar la diferencia a la institución en liquidación.
 Para efectos de lo dispuesto en la fracción I de este artículo, dentro de los sesenta días hábiles siguientes a la fecha en que surta efectos la transferencia, el liquidador deberá determinar, a través de terceros especializados, el valor estimado de realización de los activos transferidos. El valor final de los activos será aquél que resulte de los ajustes que, en su caso, se efectúen al valor contable neto de reservas, con base en los resultados de la valuación referida, por lo que deberán llevarse a cabo los ajustes en los pagos o instrumentos a que se refiere la fracción II de este artículo. Los terceros especializados deberán cumplir con los criterios de independencia e imparcialidad que la Comisión Nacional Bancaria y de Valores determine con fundamento en lo previsto en el artículo 101 de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 198
 .- En aquellos casos en que se haya determinado el pago de las operaciones pasivas a cargo de la institución de banca múltiple en liquidación, en términos de lo dispuesto por el inciso b) de la fracción II del artículo 148 de esta Ley, el Instituto para la Protección al Ahorro Bancario, en sustitución de la institución de banca múltiple en liquidación, deberá proveer los recursos necesarios para que se efectúe el pago correspondiente, de conformidad con lo siguiente:
+
 I. El Instituto para la Protección al Ahorro Bancario pagará la cantidad que resulte de aplicar el porcentaje que el Comité de Estabilidad Bancaria haya determinado en términos del artículo 29 Bis 6 de esta Ley, al saldo de las operaciones referidas en el primer párrafo de este artículo, considerando al efecto el monto de principal y accesorios. Lo anterior, con independencia de que una misma persona sea acreedora de la institución de banca múltiple por más de una operación de las señaladas en este artículo.
 Sin perjuicio de lo anterior, tratándose de obligaciones garantizadas cuyo saldo exceda el límite a que se refiere el artículo 11 de la Ley de Protección al Ahorro Bancario, el monto que deba pagar el citado Instituto en ningún caso podrá ser inferior al importe establecido en dicho artículo.
 En caso de que una persona tenga más de una cuenta en la institución de banca múltiple, el porcentaje deberá aplicarse a la suma del saldo de las operaciones a que se refiere el inciso b) de la fracción II del artículo 148 de esta Ley, conforme a lo dispuesto en el artículo 189 de esta Ley.
+
 II. El Instituto para la Protección al Ahorro Bancario deberá hacer del conocimiento de la institución de banca múltiple en liquidación, así como del público en general, el porcentaje de las obligaciones a cargo de la citada institución que cubrirá el propio Instituto y el programa conforme al cual efectuará los pagos correspondientes. Como excepción a lo dispuesto en el
 
 ### artículo 4
 de la Ley de Protección al Ahorro Bancario, el referido Instituto efectuará el aviso previsto en este artículo mediante publicación en un periódico de amplia circulación nacional y a través de otros medios de difusión que considere idóneos. El citado aviso deberá efectuarse a más tardar el día hábil siguiente a la fecha en que entre en liquidación la institución de banca múltiple de que se trate.
+
 III. El programa de pagos a que se refiere el numeral anterior deberá incluir, por lo menos, la forma y términos en los que el Instituto para la Protección al Ahorro Bancario efectuará el pago de las obligaciones a cargo de la institución en liquidación objeto del pago previsto en este artículo, señalando expresamente el orden y monto inicial a cubrir, así como el calendario programado para el pago del remanente. En todo caso, el Instituto deberá efectuar la primera exhibición a más tardar el segundo día hábil inmediato siguiente a aquél en el que sea publicado el aviso establecido en el presente artículo. El Instituto para la Protección al Ahorro Bancario procurará cubrir en la primera exhibición, el porcentaje total que el Comité de Estabilidad Bancaria haya determinado de conformidad con lo dispuesto en el artículo 29 Bis 6 del presente ordenamiento.
 El calendario programado para las exhibiciones posteriores, no podrá exceder de noventa días contados a partir de la fecha en que haya entrado en liquidación la institución de que se trate.
+
 IV. El pago se realizará sujetándose al procedimiento que el Instituto para la Protección al Ahorro Bancario establezca mediante disposiciones de carácter general, con base en la información que sobre dichas obligaciones mantenga la institución de banca múltiple en liquidación de acuerdo a lo establecido en el artículo 124 de esta Ley. En los casos en que dicha información se encuentre incompleta o presente inconsistencias, el Instituto podrá requerir a los titulares de las operaciones respectivas la presentación de la solicitud a que se refiere este artículo.
+
 V. En caso de que los titulares de las obligaciones de pago a que se refiere este artículo no recibieran el pago o bien, en caso de recibirlo, no estuvieran de acuerdo con el monto del mismo, podrán presentar, ante el Instituto para la Protección al Ahorro Bancario, en un plazo de un año contado a partir de la fecha en que la institución entre en estado de liquidación, una solicitud de pago adjuntando a la misma copia de los contratos, estados de cuenta u otros documentos que justifiquen dicha solicitud, en términos del procedimiento que el citado Instituto establezca mediante las disposiciones a que se refiere el numeral anterior.
 El Instituto para la Protección al Ahorro Bancario resolverá dichas solicitudes y, en su caso, pagará las obligaciones derivadas de las operaciones que correspondan dentro de los noventa días siguientes a la fecha en que se hayan presentado. Todas las acciones relativas al cobro de obligaciones indicadas en este artículo prescribirán en un plazo de un año contado a partir de la fecha en que la institución entre en estado de liquidación.
+
 VI. Tratándose de operaciones en las que los acreedores de la institución en liquidación sean otras instituciones de crédito o inversionistas institucionales a los que se refiere la Ley del Mercado de Valores, el Instituto para la Protección al Ahorro Bancario podrá negociar que el pago se efectúe a través de la suscripción de instrumentos de pago a cargo del propio Instituto, los cuales contarán con la garantía a que se refiere el artículo 45 de la Ley de Protección al Ahorro Bancario.
+
 VII. El Instituto para la Protección al Ahorro Bancario efectuará el pago de las obligaciones a cargo de la institución en liquidación a que se refiere este artículo en moneda nacional, independientemente de la moneda en que dichas obligaciones estén denominadas. Para la determinación del valor de las obligaciones denominadas en moneda de curso legal en los Estados Unidos de América, así como la equivalencia de otras monedas extranjeras con el peso mexicano, se estará a lo dispuesto por el artículo 190 de esta Ley.
 El monto a ser cubierto por dicho Instituto de conformidad con el presente artículo quedará fijado en unidades de inversión a partir de la fecha en que la institución de banca múltiple de que se trate entre en estado de liquidación, considerando el valor de las unidades de inversión a esa fecha. Los pagos subsecuentes se efectuarán en moneda nacional, por lo que la conversión del monto denominado en unidades de inversión se efectuará utilizando el valor vigente de dicha unidad en la fecha en que el Instituto para la Protección al Ahorro Bancario emita la resolución de pago correspondiente.
+
 VIII. Para la determinación del monto que, en términos de este artículo, el Instituto para la Protección al Ahorro Bancario deba cubrir respecto de obligaciones de pago a cargo de la institución de banca múltiple en liquidación, derivadas de convenios marco, normativos o específicos, celebrados respecto de operaciones financieras derivadas, de reporto, de préstamo de valores u otras equivalentes, en los que la institución de que se trate pueda resultar deudora y, al mismo tiempo, acreedora de una misma contraparte, que puedan ser determinadas en numerario, el Instituto aplicará el porcentaje que haya determinado el Comité de Estabilidad Bancaria, al saldo que resulte a cargo de la institución en liquidación una vez efectuada la compensación a que se refiere el artículo 176 de esta Ley.
 El monto insoluto de las obligaciones a cargo de la institución en liquidación que no haya sido cubierto por el Instituto para la Protección al Ahorro Bancario en términos de este artículo, podrá ser reclamado a la propia institución.
 Artículo adicionado DOF 10-01-2014
@@ -3026,25 +4138,44 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 204
 .- Deberá publicarse, al menos en un periódico de amplia circulación nacional, la convocatoria para la subasta o licitación, la cual deberá contener, cuando menos, lo siguiente:
+
 I. Una relación y la descripción general de los bienes que se pretende enajenar;
+
 II. Requisitos de elegibilidad que deberán reunir los interesados en participar en el proceso de subasta o licitación correspondiente;
+
 III. En su caso, el valor mínimo de referencia de los bienes;
-IV. La forma y lugar en donde se podrán obtener las bases del proceso de que se trate y en su caso, el costo de las mismas, y V. Los demás requisitos que determine el Instituto para la Protección al Ahorro Bancario.
+
+IV. La forma y lugar en donde se podrán obtener las bases del proceso de que se trate y en su caso, el costo de las mismas, y
+
+V. Los demás requisitos que determine el Instituto para la Protección al Ahorro Bancario.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 205
 .- Las bases que regulen los procedimientos de subasta o licitación, deberán ponerse a disposición de los interesados a partir del día en que se publique la convocatoria, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente. Las bases contendrán, al menos, lo siguiente:
+
 I. Información relacionada con los bienes objeto del proceso de subasta o licitación;
+
 II. Forma en que se acreditará la existencia y personalidad jurídica del participante;
+
 III. Fecha, hora y lugar de celebración del acto de presentación y apertura de propuestas; comunicación del fallo y firma del contrato;
+
 IV. Los términos en que se desarrollará el acto de presentación y apertura de propuestas, mismos que deberán realizarse ante fedatario público;
+
 V. Causas de descalificación del participante;
+
 VI. Los criterios para la evaluación de las propuestas y selección de participante ganador;
+
 VII. El valor mínimo de referencia o la mención de que éste permanecerá confidencial hasta el acto de apertura de propuestas;
+
 VIII. Requisitos de elegibilidad que deberán reunir los interesados en participar en el proceso de subasta o licitación correspondiente, los cuales deberán apegarse a lo previsto en el artículo 207 de esta Ley;
+
 IX. Forma y condiciones en que deberá realizarse el pago de la postura ganadora;
+
 X. Forma en que se constituirán las garantías que aseguren la seriedad en la participación de los interesados en el proceso y, en su caso, la firma del convenio y el pago de las posturas;
-XI. Sanciones en caso de incumplimiento a las bases, y XII. Las causales por las cuales se puede suspender o cancelar el proceso de subasta o licitación.
+
+XI. Sanciones en caso de incumplimiento a las bases, y
+
+XII. Las causales por las cuales se puede suspender o cancelar el proceso de subasta o licitación.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 206
@@ -3053,10 +4184,16 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 207
 .- En ningún caso los empleados del Instituto para la Protección al Ahorro Bancario ni los miembros de la Junta de Gobierno de dicho Instituto, así como sus cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado, parientes civiles, o sociedades de las que las personas antes referidas formen o hayan formado parte, podrán participar o presentar propuestas en los procedimientos de enajenación a que se refiere este Apartado. De manera adicional, no podrán participar en los procedimientos de enajenación las personas físicas o morales que se ubiquen en alguno de los supuestos siguientes:
+
 I. Los funcionarios, empleados y apoderados del liquidador, así como los empleados de dichos apoderados, incluyendo sus cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado, parientes civiles, o sociedades de las que las personas antes referidas formen o hayan formado parte, así como los de la institución de banca múltiple de que se trate, que esté sujeta a cualquier proceso de saneamiento, liquidación, administración cautelar o liquidación judicial;
+
 II. Cualquier persona física o moral que tenga o haya tenido acceso a información privilegiada en cualquier etapa del procedimiento de que se trate, debiéndose entender como información privilegiada aquélla que se relacione o vincule con la preparación, valuación o colocación de los bienes;
+
 III. Personas físicas o morales que sean parte en algún proceso jurisdiccional en que la propia institución de banca múltiple sea parte;
-IV. Personas físicas o morales que, en su carácter de accionistas, formen o hayan formado parte del grupo de control de la institución de banca múltiple de que se trate, en términos del artículo 17 de esta Ley, y V. Las demás personas físicas o morales que se ubiquen dentro de alguno de los supuestos de conflicto de interés que determine la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario, mediante disposiciones de carácter general.
+
+IV. Personas físicas o morales que, en su carácter de accionistas, formen o hayan formado parte del grupo de control de la institución de banca múltiple de que se trate, en términos del artículo 17 de esta Ley, y
+
+V. Las demás personas físicas o morales que se ubiquen dentro de alguno de los supuestos de conflicto de interés que determine la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario, mediante disposiciones de carácter general.
 Al presentar las posturas u ofertas en términos de las bases del proceso de subasta o licitación, los postores u oferentes deberán manifestar por escrito, bajo protesta de decir verdad, que no se ubican en los supuestos a que se refiere el párrafo anterior o en aquéllos contenidos en la convocatoria o en las bases a que se refieren los artículos 204 y 205 del presente ordenamiento, respectivamente.
 La falsedad en esta manifestación será causa de nulidad de cualquier adjudicación que resulte de la aceptación de la postura de que se trate, sin perjuicio de las responsabilidades que resulten. En este caso, podrán adjudicarse los bienes de que se trate, a aquel participante que haya ofrecido la segunda mejor postura, siempre y cuando ésta sea igual o superior al valor mínimo de referencia, sin necesidad de llevar a cabo un nuevo procedimiento. En su defecto, la subasta o licitación se tendrá por no realizada.
 En cualquier caso, se hará efectiva la garantía correspondiente en beneficio de la institución de banca múltiple.
@@ -3071,9 +4208,14 @@ Artículo adicionado DOF 10-01-2014
 
 ### artículo 202
 de esta Ley, en los casos siguientes:
+
 I. Cuando los bienes requieran una inmediata enajenación porque sean de fácil descomposición o no puedan conservarse sin que se deterioren o destruyan, o que estén expuestos a una grave disminución en su valor, o cuya conservación sea demasiado costosa en comparación a su valor;
+
 II. Cuando se trate de bienes que por su naturaleza no se puedan guardar o depositar en lugares apropiados para su conservación;
-III. Cuando habiéndose realizado por lo menos dos procesos de subasta o licitación, no haya sido posible la enajenación de los bienes, o IV. Cuando por la naturaleza propia de los bienes, su enajenación deba hacerse entre los participantes de un mercado restringido.
+
+III. Cuando habiéndose realizado por lo menos dos procesos de subasta o licitación, no haya sido posible la enajenación de los bienes, o
+
+IV. Cuando por la naturaleza propia de los bienes, su enajenación deba hacerse entre los participantes de un mercado restringido.
 En estos casos, deberá emitirse un dictamen que incluya una descripción de los bienes objeto de enajenación, el procedimiento conforme al cual se propone realizarla, así como la razón y motivos de la conveniencia de llevarla a cabo en términos distintos a lo dispuesto en el citado artículo 199. El procedimiento de enajenación deberá ser aprobado por la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario con base en el dictamen señalado.
 Artículo adicionado DOF 10-01-2014
 
@@ -3119,8 +4261,12 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 219
 .- Cuando concluya el proceso de liquidación y aún se encuentre pendiente la resolución definitiva de uno o más litigios en contra de la institución de banca múltiple en liquidación, el liquidador procederá conforme a lo dispuesto por el artículo 216 de esta Ley, para lo cual deberá realizar las acciones necesarias con el objeto de que los recursos correspondientes a las reservas que, en su caso, se hayan constituido en relación con tales litigios, sean administrados y aplicados conforme a los instrumentos jurídicos que para tal efecto se constituyan.
 Al constituir tales instrumentos jurídicos, el liquidador observará en todo caso lo siguiente:
+
 I. Los gastos derivados de la administración y aplicación antes mencionados serán con cargo a los recursos de las reservas correspondientes;
-II. El liquidador deberá adicionar a las reservas, un importe que sea suficiente para sufragar los gastos que se deriven de la atención judicial de los litigios, y III. Si después de resueltos todos los litigios, y una vez aplicados los recursos, existieren cantidades remanentes, dichas cantidades deberán entregarse a los acreedores cuyos créditos no hubieren sido pagados en su totalidad, conforme al orden de pago establecido en el artículo 180 de esta Ley.
+
+II. El liquidador deberá adicionar a las reservas, un importe que sea suficiente para sufragar los gastos que se deriven de la atención judicial de los litigios, y
+
+III. Si después de resueltos todos los litigios, y una vez aplicados los recursos, existieren cantidades remanentes, dichas cantidades deberán entregarse a los acreedores cuyos créditos no hubieren sido pagados en su totalidad, conforme al orden de pago establecido en el artículo 180 de esta Ley.
 El liquidador deberá señalar en el balance final correspondiente los litigios que se encuentren en el supuesto de este artículo, con indicación del instrumento jurídico para su administración y aplicación.
 Artículo adicionado DOF 10-01-2014
 
@@ -3131,21 +4277,61 @@ Artículo adicionado DOF 10-01-2014 Apartado B De la Disolución y Liquidación 
 
 ### Artículo 221
 .- La asamblea general de accionistas de una institución de banca múltiple en liquidación podrá designar a su liquidador sólo en aquellos casos en que la revocación de su autorización derive de la solicitud a que se refiere la fracción II del artículo 28 de esta Ley, y siempre y cuando se cumpla con lo siguiente:
-I. La institución de banca múltiple de que se trate no cuente con obligaciones garantizadas en términos de lo previsto en la Ley de Protección al Ahorro Bancario, y II. La asamblea de accionistas de la institución de banca múltiple respectiva haya aprobado los estados financieros de ésta, en los que ya no se encuentren registradas a cargo de la sociedad obligaciones garantizadas referidas en la Ley de Protección al Ahorro Bancario, y sean presentados a la Comisión Nacional Bancaria y de Valores, acompañados del dictamen de un auditor externo que incluya las opiniones del auditor relativas a componentes, cuentas o partidas específicas de los estados financieros, donde se confirme lo anterior.
+
+I. La institución de banca múltiple de que se trate no cuente con obligaciones garantizadas en términos de lo previsto en la Ley de Protección al Ahorro Bancario, y
+
+II. La asamblea de accionistas de la institución de banca múltiple respectiva haya aprobado los estados financieros de ésta, en los que ya no se encuentren registradas a cargo de la sociedad obligaciones garantizadas referidas en la Ley de Protección al Ahorro Bancario, y sean presentados a la Comisión Nacional Bancaria y de Valores, acompañados del dictamen de un auditor externo que incluya las opiniones del auditor relativas a componentes, cuentas o partidas específicas de los estados financieros, donde se confirme lo anterior.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 222
 .- Para llevar a cabo la liquidación de las instituciones de banca múltiple en términos de lo previsto en el artículo 221 de esta Ley deberá observarse lo siguiente:
+
 I. Corresponderá a la asamblea de accionistas el nombramiento del liquidador. Al efecto, las instituciones de banca múltiple deberán hacer del conocimiento de la Comisión Nacional Bancaria y de Valores el nombramiento del liquidador, dentro de los cinco días hábiles siguientes a su designación, así como el inicio del trámite para su correspondiente inscripción en el Registro Público de Comercio;
+
 II. El cargo del liquidador podrá recaer en instituciones de crédito o en personas físicas o morales que cuenten con experiencia en liquidación de sociedades.
-Cuando se trate de personas físicas, el nombramiento deberá recaer en aquéllas que cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio y que reúnan los requisitos siguientes: a) Ser residente en territorio nacional en términos de lo dispuesto por el Código Fiscal de la Federación; b) Estar inscritas en el registro que lleva el Instituto Federal de Especialistas de Concursos Mercantiles; c) Presentar un Reporte de Crédito Especial, conforme a la Ley para Regular las Sociedades de Información Crediticia, proporcionado por sociedades de información crediticia, que contenga sus antecedentes de por lo menos los cinco años anteriores a la fecha en que se pretende iniciar el cargo; d) No tener litigio pendiente en contra de la institución de banca múltiple de que se trate; e) No haber sido sentenciado por delitos patrimoniales, ni inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano; f) No estar declarado quebrado ni concursado sin haber sido rehabilitado; g) No haber desempeñado el cargo de auditor externo de la institución de banca múltiple o de alguna de las empresas que integran el grupo financiero al que ésta pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento, y h) No estar impedidos para actuar como visitadores, conciliadores o síndicos ni tener conflicto de interés, en términos de la Ley de Concursos Mercantiles.
+Cuando se trate de personas físicas, el nombramiento deberá recaer en aquéllas que cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio y que reúnan los requisitos siguientes:
+
+a) Ser residente en territorio nacional en términos de lo dispuesto por el Código Fiscal de la Federación;
+
+b) Estar inscritas en el registro que lleva el Instituto Federal de Especialistas de Concursos Mercantiles;
+
+c) Presentar un Reporte de Crédito Especial, conforme a la Ley para Regular las Sociedades de Información Crediticia, proporcionado por sociedades de información crediticia, que contenga sus antecedentes de por lo menos los cinco años anteriores a la fecha en que se pretende iniciar el cargo;
+
+d) No tener litigio pendiente en contra de la institución de banca múltiple de que se trate;
+
+e) No haber sido sentenciado por delitos patrimoniales, ni inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano;
+
+f) No estar declarado quebrado ni concursado sin haber sido rehabilitado;
+
+g) No haber desempeñado el cargo de auditor externo de la institución de banca múltiple o de alguna de las empresas que integran el grupo financiero al que ésta pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento, y
+
+h) No estar impedidos para actuar como visitadores, conciliadores o síndicos ni tener conflicto de interés, en términos de la Ley de Concursos Mercantiles.
 En los casos en que se designen a personas morales como liquidadores, las personas físicas designadas para desempeñar las actividades vinculadas a esta función deberán cumplir con los requisitos a que hace referencia esta fracción. Las instituciones de banca múltiple deberán verificar que la persona que sea designada como liquidador cumpla, con anterioridad al inicio del ejercicio de sus funciones, con los requisitos señalados en esta fracción.
 Las personas que no cumplan con alguno de los requisitos previstos en los incisos a) a h) de esta fracción deberán abstenerse de aceptar el cargo de liquidador y manifestarán tal circunstancia por escrito;
-III. En el desempeño de su función, el liquidador deberá: a) Cobrar lo que se deba a la institución de banca múltiple y pagar lo que ésta debe; b) Elaborar un dictamen respecto de la situación integral de la institución de banca múltiple; c) Presentar a la Comisión Nacional Bancaria y de Valores, para su aprobación, los procedimientos para realizar la entrega de bienes propiedad de terceros y el cumplimiento de las obligaciones no garantizadas a favor de sus clientes que se encuentren pendientes de cumplir; d) Instrumentar y adoptar un plan de trabajo calendarizado que contenga los procedimientos y medidas necesarias para que las obligaciones no garantizadas a cargo de la institución de banca múltiple derivadas de sus operaciones, sean finiquitadas o transferidas a otras instituciones de crédito a más tardar dentro del año siguiente a la fecha en que haya protestado y aceptado su nombramiento; e) Convocar a la asamblea general de accionistas, a la conclusión de su gestión, para presentarle un informe completo del proceso de liquidación. Dicho informe deberá contener el balance final de la liquidación.
+
+III. En el desempeño de su función, el liquidador deberá:
+
+a) Cobrar lo que se deba a la institución de banca múltiple y pagar lo que ésta debe;
+
+b) Elaborar un dictamen respecto de la situación integral de la institución de banca múltiple;
+
+c) Presentar a la Comisión Nacional Bancaria y de Valores, para su aprobación, los procedimientos para realizar la entrega de bienes propiedad de terceros y el cumplimiento de las obligaciones no garantizadas a favor de sus clientes que se encuentren pendientes de cumplir;
+
+d) Instrumentar y adoptar un plan de trabajo calendarizado que contenga los procedimientos y medidas necesarias para que las obligaciones no garantizadas a cargo de la institución de banca múltiple derivadas de sus operaciones, sean finiquitadas o transferidas a otras instituciones de crédito a más tardar dentro del año siguiente a la fecha en que haya protestado y aceptado su nombramiento;
+
+e) Convocar a la asamblea general de accionistas, a la conclusión de su gestión, para presentarle un informe completo del proceso de liquidación. Dicho informe deberá contener el balance final de la liquidación.
 En el evento de que la liquidación no concluya dentro de los doce meses inmediatos siguientes, contados a partir de la fecha en que el liquidador haya aceptado y protestado su cargo, el liquidador deberá convocar a la asamblea general de accionistas con el objeto de presentar un informe respecto del estado en que se encuentre la liquidación, señalando las causas por las que no ha sido posible su conclusión. Dicho informe deberá contener el estado financiero de la institución de banca múltiple y deberá estar en todo momento a disposición de los accionistas. El liquidador deberá convocar a la asamblea general de accionistas en los términos antes descritos, por cada año que dure la liquidación, para presentar el informe citado.
-Cuando habiendo el liquidador convocado a la asamblea, ésta no se reúna con el quórum necesario, deberá publicar en dos diarios de mayor circulación en territorio nacional, un aviso dirigido a los accionistas indicando que los informes se encuentran a su disposición, señalando el lugar y hora en los que podrán ser consultados; f) Promover ante la autoridad judicial la aprobación del balance final de liquidación, en los casos en que no sea posible obtener la aprobación de los accionistas a dicho balance en términos de la Ley General de Sociedades Mercantiles, porque dicha asamblea, no obstante haber sido convocada, no se reúna con el quórum necesario, o bien, dicho balance sea objetado por la asamblea de manera infundada a juicio del liquidador; g) En su caso, hacer del conocimiento del juez competente que existe imposibilidad material de llevar a cabo la liquidación de la institución de banca múltiple para que éste ordene la cancelación de su inscripción en el Registro Público de Comercio, que surtirá sus efectos transcurridos ciento ochenta días a partir del mandamiento judicial.
+Cuando habiendo el liquidador convocado a la asamblea, ésta no se reúna con el quórum necesario, deberá publicar en dos diarios de mayor circulación en territorio nacional, un aviso dirigido a los accionistas indicando que los informes se encuentran a su disposición, señalando el lugar y hora en los que podrán ser consultados;
+
+f) Promover ante la autoridad judicial la aprobación del balance final de liquidación, en los casos en que no sea posible obtener la aprobación de los accionistas a dicho balance en términos de la Ley General de Sociedades Mercantiles, porque dicha asamblea, no obstante haber sido convocada, no se reúna con el quórum necesario, o bien, dicho balance sea objetado por la asamblea de manera infundada a juicio del liquidador;
+
+g) En su caso, hacer del conocimiento del juez competente que existe imposibilidad material de llevar a cabo la liquidación de la institución de banca múltiple para que éste ordene la cancelación de su inscripción en el Registro Público de Comercio, que surtirá sus efectos transcurridos ciento ochenta días a partir del mandamiento judicial.
 El liquidador deberá publicar en dos diarios de mayor circulación en el territorio nacional, un aviso dirigido a los accionistas y acreedores sobre la solicitud al juez competente.
-Los interesados podrán oponerse a esta cancelación dentro de un plazo de sesenta días siguientes al aviso, ante la propia autoridad judicial; h) Ejercer las acciones legales a que haya lugar para determinar las responsabilidades económicas que, en su caso, existan y deslindar las responsabilidades que en términos de ley y demás disposiciones resulten aplicables, e i) Abstenerse de comprar para sí o para otro, los bienes propiedad de la institución de banca múltiple en liquidación, sin consentimiento expreso de la asamblea de accionistas.
+Los interesados podrán oponerse a esta cancelación dentro de un plazo de sesenta días siguientes al aviso, ante la propia autoridad judicial;
+
+h) Ejercer las acciones legales a que haya lugar para determinar las responsabilidades económicas que, en su caso, existan y deslindar las responsabilidades que en términos de ley y demás disposiciones resulten aplicables, e
+
+i) Abstenerse de comprar para sí o para otro, los bienes propiedad de la institución de banca múltiple en liquidación, sin consentimiento expreso de la asamblea de accionistas.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 223
@@ -3164,9 +4350,12 @@ Párrafo reformado DOF 14-11-2025 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 226
 .- Procederá la declaración de la liquidación judicial de una institución de banca múltiple cuya autorización para organizarse y operar como tal hubiere sido revocada y se encuentre en el supuesto de extinción de capital. Se entenderá que una institución se encuentra en este supuesto cuando los activos de dicha institución no sean suficientes para cubrir sus pasivos, de conformidad con un dictamen de la información financiera de la institución de banca múltiple de que se trate sobre la actualización de dicho supuesto, que será emitido con base en los criterios de registro contable establecidos por la Comisión Nacional Bancaria y de Valores, conforme a lo siguiente:
+
 I. Tratándose de instituciones de banca múltiple que hubieren incurrido en la causal de revocación establecida en la fracción VIII del artículo 28 de esta Ley, la Comisión Nacional Bancaria y de Valores deberá elaborar el dictamen sobre la actualización del supuesto de extinción de capital y someterlo a la aprobación de su Junta de Gobierno.
 El dictamen deberá elaborarse con la información que haya proporcionado la propia institución o aquella ajustada conforme a los procedimientos previstos en los artículos 50, 96 Bis 1, 99 y 102 de esta Ley.
-Una vez aprobado dicho dictamen, deberá remitirse al Instituto para la Protección al Ahorro Bancario de manera conjunta con la comunicación a que se refiere el último párrafo del artículo 28 de esta Ley, y II. Tratándose de instituciones de banca múltiple en las que la insuficiencia de sus activos para cubrir sus pasivos sobrevenga con posterioridad a la revocación, el dictamen deberá elaborarse por un tercero especializado de reconocida experiencia que el liquidador contrate para tal efecto, y someterse a la aprobación de la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario. Dicho dictamen deberá considerar la determinación del valor estimado de realización de los activos de la institución de banca múltiple en liquidación en términos de las normas de registro contable aplicables, lo cual deberá verse reflejado en el balance inicial de liquidación o en los estados financieros posteriores.
+Una vez aprobado dicho dictamen, deberá remitirse al Instituto para la Protección al Ahorro Bancario de manera conjunta con la comunicación a que se refiere el último párrafo del artículo 28 de esta Ley, y
+
+II. Tratándose de instituciones de banca múltiple en las que la insuficiencia de sus activos para cubrir sus pasivos sobrevenga con posterioridad a la revocación, el dictamen deberá elaborarse por un tercero especializado de reconocida experiencia que el liquidador contrate para tal efecto, y someterse a la aprobación de la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario. Dicho dictamen deberá considerar la determinación del valor estimado de realización de los activos de la institución de banca múltiple en liquidación en términos de las normas de registro contable aplicables, lo cual deberá verse reflejado en el balance inicial de liquidación o en los estados financieros posteriores.
 Los dictámenes que se elaboren de conformidad con este artículo tendrán el carácter de documento público.
 Sin perjuicio de lo anterior, el Instituto para la Protección al Ahorro Bancario podrá solicitar a la Comisión Nacional Bancaria y de Valores la información que considere necesaria para efectos de la solicitud de declaración de la liquidación judicial a que se refiere este Apartado.
 Artículo adicionado DOF 10-01-2014
@@ -3181,19 +4370,32 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 229
 .- La solicitud de la liquidación judicial deberá contener:
+
 I. La autoridad jurisdiccional ante la cual se promueva;
+
 II. La denominación y domicilio del promovente;
+
 III. La denominación y el domicilio de la institución de banca múltiple de que se trate y, en su caso, aquéllos correspondientes a la sociedad controladora del grupo financiero del cual sea integrante la institución;
+
 IV. Una descripción de los hechos que motiven la solicitud;
-V. Los fundamentos de derecho, y VI. La solicitud de que se declare a la institución en liquidación judicial.
+
+V. Los fundamentos de derecho, y
+
+VI. La solicitud de que se declare a la institución en liquidación judicial.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 230
 .- La solicitud de la liquidación judicial deberá acompañarse de lo siguiente:
+
 I. Copia certificada del acuerdo de la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario mediante el cual el referido órgano colegiado haya aprobado la presentación de dicha solicitud;
+
 II. Copia certificada del dictamen que haya sido elaborado en términos del artículo 226 de esta Ley;
+
 III. Copia de los últimos estados financieros disponibles de la institución de banca múltiple de que se trate;
-IV. Copia de la escritura social de la institución y de su constancia de inscripción en el Registro Público de Comercio, y V. Copia del registro de accionistas de la institución.
+
+IV. Copia de la escritura social de la institución y de su constancia de inscripción en el Registro Público de Comercio, y
+
+V. Copia del registro de accionistas de la institución.
 La falta de los documentos a que se refieren las fracciones IV y V anteriores no será limitante para solicitar la declaración de liquidación judicial, ni para que el juez la declare.
 Artículo adicionado DOF 10-01-2014
 
@@ -3205,22 +4407,43 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 232
 .- En la sentencia de declaración de la liquidación judicial se señalará que el Instituto para la Protección al Ahorro Bancario, de conformidad con lo establecido en esta Ley, fungirá como liquidador judicial y podrá realizar las operaciones a que se refiere el Apartado A de la presente Sección.
 Adicionalmente, deberá contener lo siguiente:
+
 I. La denominación y domicilio de la institución de banca múltiple de que se trate y, en su caso, aquéllos correspondientes a la sociedad controladora del grupo financiero del cual sea integrante la institución;
+
 II. La fecha en que se dicte;
+
 III. La fundamentación de la sentencia en términos de esta Ley;
+
 IV. La declaración de la liquidación judicial;
+
 V. La orden al liquidador de entregar al liquidador judicial la posesión y administración de los bienes y derechos que integran el patrimonio de la institución de que se trate;
+
 VI. La orden a las personas que tengan en su posesión bienes de la institución, salvo los que estén afectos a ejecución de una sentencia ejecutoria para el cumplimiento de obligaciones anteriores a la liquidación judicial, de entregarlos al liquidador judicial;
+
 VII. La prohibición a los deudores de la institución de pagarle o entregarle bienes sin autorización del liquidador judicial, con apercibimiento de doble pago en caso de desobediencia. Lo anterior no será aplicable a los pagos que se realicen conforme al segundo párrafo del artículo 167 de la presente Ley, y en términos de la Ley de Sistemas de Pagos;
-VIII. La orden de suspender todo mandamiento de embargo o ejecución contra los bienes y derechos de la institución de banca múltiple. No procederá la suspensión tratándose de: a) Los mandamientos de embargo o ejecución de carácter laboral, tratándose de lo dispuesto en la fracción XXIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y b) Los créditos con garantía real, debiendo observarse al efecto lo dispuesto por los artículos 259 y 260 de la presente Ley.
+
+VIII. La orden de suspender todo mandamiento de embargo o ejecución contra los bienes y derechos de la institución de banca múltiple. No procederá la suspensión tratándose de:
+
+a) Los mandamientos de embargo o ejecución de carácter laboral, tratándose de lo dispuesto en la fracción XXIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+b) Los créditos con garantía real, debiendo observarse al efecto lo dispuesto por los artículos 259 y 260 de la presente Ley.
 Lo dispuesto en la Ley de Sistemas de Pagos será aplicable no obstante lo previsto en la presente fracción.
+
 IX. La orden a las oficinas de correos, telégrafos y demás empresas que transmitan información o presten el servicio de entrega de documentos, para que se entregue al liquidador judicial la correspondencia de la institución de banca múltiple;
+
 X. La orden al liquidador judicial de publicar un extracto de la sentencia por dos veces consecutivas en el Diario Oficial de la Federación y en un periódico de circulación nacional;
+
 XI. La orden al liquidador judicial de inscribir la sentencia en el Registro Público de Comercio y en aquéllos registros públicos que estime convenientes;
+
 XII. El periodo de retroacción en los términos de esta Ley;
+
 XIII. La orden al administrador de la institución de banca múltiple de poner a disposición del liquidador judicial los libros, registros y demás documentos de la institución de banca múltiple, así como los recursos necesarios para sufragar las publicaciones previstas en la presente Ley;
+
 XIV. La orden al liquidador judicial de proceder al reconocimiento de créditos;
-XV. La adopción de las medidas que estime convenientes, y XVI. La orden de que se expida, a costa de quien lo solicite, copia certificada de la sentencia.
+
+XV. La adopción de las medidas que estime convenientes, y
+
+XVI. La orden de que se expida, a costa de quien lo solicite, copia certificada de la sentencia.
 Al día siguiente de que se dicte la sentencia que declare la liquidación judicial, el juez deberá notificarla personalmente a la institución de banca múltiple, por correo certificado o por cualquier otro medio establecido en las leyes aplicables a las autoridades fiscales competentes, y por oficio al Instituto para la Protección al Ahorro Bancario, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, al Procurador de la Defensa del Trabajo, así como al representante sindical de los trabajadores de la institución de banca múltiple de que se trate.
 Artículo adicionado DOF 10-01-2014
 
@@ -3246,8 +4469,12 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 236
 .- El liquidador judicial deberá presentar al juez que conozca de la liquidación judicial, un informe bimestral que deberá contener lo siguiente:
+
 I. Una descripción general de los procedimientos de enajenación de bienes de la institución de banca múltiple de que se trate efectuados en el periodo, la cual deberá incluir el monto y naturaleza de los bienes enajenados;
-II. Los pagos que hayan sido realizados de conformidad con lo dispuesto en el artículo 241 de esta Ley, y III. El estado de las reservas constituidas en relación con los juicios o procedimientos en los que la institución de que se trate sea parte.
+
+II. Los pagos que hayan sido realizados de conformidad con lo dispuesto en el artículo 241 de esta Ley, y
+
+III. El estado de las reservas constituidas en relación con los juicios o procedimientos en los que la institución de que se trate sea parte.
 El juez dará vista del mencionado informe a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, la cual podrá formular observaciones o solicitar aclaraciones, por conducto del propio juez, en relación con el informe mencionado.
 Las observaciones o aclaraciones que se deriven de lo establecido en el párrafo anterior, así como aquéllas que, en su caso, determine formular el juez, serán hechas del conocimiento del liquidador judicial quien dispondrá de un plazo no mayor a quince días hábiles, contados a partir del requerimiento correspondiente, para presentar al juez el informe final en el cual se atiendan dichas observaciones o aclaraciones, señalando, en su caso, las razones para desestimar una o más de ellas.
 Artículo adicionado DOF 10-01-2014
@@ -3258,17 +4485,25 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 238
 .- Corresponderá a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros la representación de los intereses colectivos de los acreedores de la institución de banca múltiple ante el liquidador judicial, para lo cual tendrá las siguientes facultades:
-I. Formular observaciones o solicitar aclaraciones respecto del contenido de los informes a que se refiere el artículo 236 de esta Ley, y II. Solicitar al liquidador judicial el examen de algún libro o documento, así como cualquier otro medio de almacenamiento de datos de la institución de banca múltiple sujeta a liquidación judicial, respecto de las cuestiones que a su juicio puedan afectar los intereses colectivos de los acreedores.
+
+I. Formular observaciones o solicitar aclaraciones respecto del contenido de los informes a que se refiere el artículo 236 de esta Ley, y
+
+II. Solicitar al liquidador judicial el examen de algún libro o documento, así como cualquier otro medio de almacenamiento de datos de la institución de banca múltiple sujeta a liquidación judicial, respecto de las cuestiones que a su juicio puedan afectar los intereses colectivos de los acreedores.
 El juez que conozca de la liquidación judicial desechará de plano cualquier promoción que contravenga lo establecido en este artículo.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 239
 .- El liquidador judicial deberá llevar a cabo el procedimiento de reconocimiento de créditos, de conformidad con lo siguiente:
+
 I. En un plazo que no deberá exceder de cinco días siguientes a la fecha en que se hubiere declarado la liquidación judicial de una institución de banca múltiple, el liquidador judicial deberá formular una lista provisional de las personas que tengan el carácter de acreedores de la institución de que se trate a la citada fecha, con base en la información que la propia institución mantenga conforme lo previsto en el artículo 124 de esta Ley, con los ajustes que, en su caso, correspondan por las operaciones que se hayan realizado en la liquidación, y señalando la fecha de declaración de la liquidación judicial, el monto del crédito a dicha fecha, así como la graduación y prelación que le corresponda conforme a esta Ley.
 Asimismo, dentro del citado plazo, el liquidador judicial deberá solicitar la publicación en el Diario Oficial de la Federación y, cuando menos, en un periódico de amplia circulación nacional, de un aviso en el que se señalen la fecha en que la institución de banca múltiple fue declarada en liquidación judicial, así como el lugar y los medios a través de los cuales los acreedores podrán consultar la lista provisional. De igual forma, el liquidador judicial deberá hacer del conocimiento del público esta situación, mediante anuncios fijados en sitios visibles en los accesos a las sucursales de la institución de que se trate y a través de su página electrónica en la red mundial denominada Internet;
+
 II. Los acreedores tendrán un plazo de treinta días contados a partir de la fecha de la publicación del aviso a que se refiere la fracción anterior, para verificar si se encuentran en la lista provisional referida. Durante dicho plazo, los acreedores podrán solicitar por escrito al liquidador judicial que se realicen ajustes o modificaciones a la lista provisional, debiendo adjuntar copia de los documentos que soporten dicha solicitud. Transcurrido este plazo, ningún acreedor podrá solicitar el reconocimiento de su crédito, o la modificación o ajuste del que aparezca reconocido a su favor en la lista definitiva o en la sentencia de reconocimiento, graduación y prelación de créditos.
 En cualquier caso, los acreedores de la institución de banca múltiple por créditos sujetos a controversia ante autoridad jurisdiccional o tribunal arbitral, que se encuentre pendiente de resolución, deberán solicitar al liquidador judicial el reconocimiento de su crédito dentro del término al que se refiere el párrafo anterior y, si no lo hicieren, tales créditos no podrán ser reconocidos con posterioridad, aún y cuando el acreedor obtenga una resolución ejecutoria que le sea favorable. Si los acreedores mencionados anteriormente solicitaren el reconocimiento de sus créditos, el liquidador judicial propondrá que sean reconocidos por cuantía pendiente de determinar. Mientras no se haya dictado resolución ejecutoria que resuelva la controversia, el liquidador judicial procederá en términos del artículo 247, fracción I de esta Ley. Una vez que cause ejecutoria la resolución que, en su caso, condene a la institución de banca múltiple, el acreedor de que se trate deberá exhibirla en copia certificada ante el juez para que éste ordene la inclusión de ese crédito en la sentencia de reconocimiento, graduación y prelación de créditos, debiendo observar el juez, en todo caso, lo que establece el artículo 169 de esta Ley, para efectos de su cuantificación;
-III. Transcurrido el plazo señalado para la presentación de las solicitudes a que se refiere la fracción anterior, el liquidador judicial contará con un plazo de diez días para elaborar una lista definitiva considerando las correcciones que, en su caso, fueren procedentes con base en las solicitudes efectuadas, así como las operaciones que hubieren sido realizadas de conformidad con lo dispuesto en el último párrafo de este artículo, y IV. Una vez elaborada la lista definitiva a que se refiere la fracción anterior, el liquidador judicial deberá presentarla al juez de distrito que conozca de la liquidación judicial a efecto de que este último, dentro de los diez días siguientes, dicte de plano la sentencia de reconocimiento, graduación y prelación de créditos.
+
+III. Transcurrido el plazo señalado para la presentación de las solicitudes a que se refiere la fracción anterior, el liquidador judicial contará con un plazo de diez días para elaborar una lista definitiva considerando las correcciones que, en su caso, fueren procedentes con base en las solicitudes efectuadas, así como las operaciones que hubieren sido realizadas de conformidad con lo dispuesto en el último párrafo de este artículo, y
+
+IV. Una vez elaborada la lista definitiva a que se refiere la fracción anterior, el liquidador judicial deberá presentarla al juez de distrito que conozca de la liquidación judicial a efecto de que este último, dentro de los diez días siguientes, dicte de plano la sentencia de reconocimiento, graduación y prelación de créditos.
 Al día siguiente de que se dicte la mencionada sentencia, el liquidador judicial deberá solicitar la publicación en el Diario Oficial de la Federación y, cuando menos, en un periódico de amplia circulación en territorio nacional, de un aviso en el que se señalen los medios a través de los cuales los acreedores podrán verificar dicha lista, así como un extracto de la sentencia correspondiente.
 Transcurrido el plazo para la impugnación de la sentencia antes mencionada, no podrá exigirse reconocimiento de crédito alguno, ni modificaciones respecto de los créditos reconocidos. Lo anterior, no será aplicable tratándose de las acciones relativas al cobro de obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario, a que se refiere el artículo 192 de esta Ley ni, en su caso, de aquellas relativas al cobro de los pasivos a que se refiere el
 
@@ -3288,16 +4523,25 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 241
 .- Para el pago de las operaciones a cargo de la institución de banca múltiple en liquidación judicial, el liquidador judicial deberá considerar la prelación siguiente:
+
 I. Créditos con garantía o gravamen real;
+
 II. Créditos laborales diferentes a los referidos en la fracción XXIII, apartado A, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y créditos fiscales;
+
 III. Créditos que según las leyes que los rijan tengan un privilegio especial;
+
 IV. Créditos derivados del pago de obligaciones garantizadas conforme al artículo 6 de la Ley de Protección al Ahorro Bancario, hasta por el límite a que se refiere el artículo 11 de dicha Ley, así como cualquier otro pasivo a favor del propio Instituto;
+
 V. Créditos derivados de obligaciones garantizadas conforme al artículo 6 de la Ley de Protección al Ahorro Bancario, por el saldo que exceda el límite a que se refiere el artículo 11 de dicha Ley;
+
 VI. Créditos derivados de otras obligaciones distintas a las señaladas en las fracciones anteriores;
+
 VII. Créditos derivados de obligaciones subordinadas preferentes, conforme a lo dispuesto por el
 
 ### artículo 64
-de esta Ley, y VIII. Créditos derivados de obligaciones subordinadas no preferentes, conforme a lo dispuesto por el
+de esta Ley, y
+
+VIII. Créditos derivados de obligaciones subordinadas no preferentes, conforme a lo dispuesto por el
 
 ### artículo 64
 de esta Ley.
@@ -3316,8 +4560,12 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 242
 .- Los siguientes créditos serán pagados en el orden indicado y con anterioridad a cualquiera de los mencionados en el artículo 241 de esta Ley:
+
 I. Los referidos en la fracción XXIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
-II. Los contraídos para atender los gastos normales para la seguridad de los bienes del patrimonio de la institución, su refacción, conservación y administración, y III. Los procedentes de diligencias judiciales o extrajudiciales en beneficio del patrimonio de la institución de banca múltiple.
+
+II. Los contraídos para atender los gastos normales para la seguridad de los bienes del patrimonio de la institución, su refacción, conservación y administración, y
+
+III. Los procedentes de diligencias judiciales o extrajudiciales en beneficio del patrimonio de la institución de banca múltiple.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 243
@@ -3335,19 +4583,36 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 246
 .- El liquidador judicial podrá suscribir un convenio con los acreedores reconocidos, por el que se pacte el pago de sus créditos en forma distinta a la establecida en esta Sección, incluso mediante la dación en pago de los activos de la institución, con arreglo a las siguientes bases:
+
 I. Para la negociación de ese convenio, el liquidador judicial podrá reunirse con los acreedores que estime convenientes y con aquellos que así se lo soliciten, ya sea conjunta o separadamente, y comunicarse con ellos de cualquier forma;
+
 II. El liquidador judicial podrá recomendar la realización de los estudios y avalúos que considere necesarios para la negociación del convenio, poniéndolos a disposición de los acreedores reconocidos, por conducto del juez, con excepción de aquella información que tenga el carácter de confidencial en términos de las disposiciones aplicables;
+
 III. El convenio deberá ser suscrito, por el liquidador judicial y uno, o más acreedores reconocidos que en conjunto sean titulares de un mínimo equivalente al 75 por ciento del total del pasivo reconocido a cargo de la institución, mediante sentencia de reconocimiento, graduación y prelación de créditos, que se encentre pendiente de pago en la fecha en que se firme dicho convenio;
+
 IV. Respecto de los acreedores reconocidos que se nieguen a firmar el convenio, deberá pactarse a su favor un pago igual o mayor al que les hubiera correspondido de haberse realizado éste conforme a las reglas contenidas en esta Sección. Cumplida esta condición, no podrán oponerse a la firma del convenio o controvertir su validez en ninguna forma o vía;
-V. El convenio deberá garantizar, en cualquiera de las formas previstas en las disposiciones legales, el pago de las diferencias que puedan resultar de: a) Los recursos de revocación pendientes de resolver, que se hubieren interpuesto en contra de la sentencia de reconocimiento, graduación y prelación de créditos; b) Los juicios y procedimientos que estén pendientes de resolución ejecutoria a la fecha de firma del convenio, siempre que el acreedor correspondiente hubiere solicitado y obtenido el reconocimiento de su crédito en la sentencia de reconocimiento, graduación y prelación de créditos, y c) Los créditos fiscales pendientes de determinar a esa fecha.
-En el propio convenio se deberá pactar la forma en que se deberá repartir, entre los acreedores reconocidos, la cantidad garantizada que exceda a aquella que finalmente se aplique al pago de los créditos derivados de la conclusión de los recursos, juicios y procedimientos, o de la determinación de los créditos fiscales correspondientes, en su caso, y VI. Aquellos acreedores reconocidos con garantía real que no hayan suscrito el convenio, podrán iniciar o continuar con la ejecución de sus garantías, a menos que el convenio contemple el pago íntegro de los créditos que tengan reconocidos en la sentencia de reconocimiento, graduación y prelación de créditos, o el del valor de su garantía real. En este último caso, cualquier excedente del adeudo reconocido con respecto al valor de la garantía será considerado como crédito común y estará sujeto a lo establecido en la fracción anterior.
+
+V. El convenio deberá garantizar, en cualquiera de las formas previstas en las disposiciones legales, el pago de las diferencias que puedan resultar de:
+
+a) Los recursos de revocación pendientes de resolver, que se hubieren interpuesto en contra de la sentencia de reconocimiento, graduación y prelación de créditos;
+
+b) Los juicios y procedimientos que estén pendientes de resolución ejecutoria a la fecha de firma del convenio, siempre que el acreedor correspondiente hubiere solicitado y obtenido el reconocimiento de su crédito en la sentencia de reconocimiento, graduación y prelación de créditos, y
+
+c) Los créditos fiscales pendientes de determinar a esa fecha.
+En el propio convenio se deberá pactar la forma en que se deberá repartir, entre los acreedores reconocidos, la cantidad garantizada que exceda a aquella que finalmente se aplique al pago de los créditos derivados de la conclusión de los recursos, juicios y procedimientos, o de la determinación de los créditos fiscales correspondientes, en su caso, y
+
+VI. Aquellos acreedores reconocidos con garantía real que no hayan suscrito el convenio, podrán iniciar o continuar con la ejecución de sus garantías, a menos que el convenio contemple el pago íntegro de los créditos que tengan reconocidos en la sentencia de reconocimiento, graduación y prelación de créditos, o el del valor de su garantía real. En este último caso, cualquier excedente del adeudo reconocido con respecto al valor de la garantía será considerado como crédito común y estará sujeto a lo establecido en la fracción anterior.
 El liquidador judicial exhibirá en autos el convenio, una vez que se haya suscrito conforme a la fracción III de este artículo, y el juez lo pondrá a la vista de las partes por el término de tres días, para que manifiesten lo que a su derecho corresponda. Una vez concluido ese término, se haya desahogado o no la vista, el juez revisará de oficio que el convenio se ajuste a lo establecido en este artículo y, de ser así, lo aprobará de plano sin ulterior recurso. Una vez aprobado el convenio, el liquidador judicial procederá en términos del artículo 263 de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 247
 .- El liquidador judicial deberá constituir una reserva con cargo a los recursos de la institución de banca múltiple en liquidación judicial, en los siguientes casos:
+
 I. Cuando existan juicios o procedimientos en que la institución de banca múltiple sea parte, y que no cuenten con sentencia firme o laudo;
-II. Tratándose de créditos que no aparezcan en la contabilidad y hayan sido notificados por la autoridad competente hasta en tanto no exista resolución firme, y III. Cuando a juicio del liquidador judicial la tramitación de un incidente pudiera derivar en la condena de daños y perjuicios, según la naturaleza de la obligación que hubiere originado la controversia.
+
+II. Tratándose de créditos que no aparezcan en la contabilidad y hayan sido notificados por la autoridad competente hasta en tanto no exista resolución firme, y
+
+III. Cuando a juicio del liquidador judicial la tramitación de un incidente pudiera derivar en la condena de daños y perjuicios, según la naturaleza de la obligación que hubiere originado la controversia.
 Para la determinación del monto de las reservas que en términos de lo señalado en este artículo deban constituirse, el liquidador judicial deberá considerar las disposiciones de carácter general emitidas por la Comisión Nacional Bancaria y de Valores de conformidad con el artículo 99 de esta Ley, así como la prelación a que se refiere el artículo 241 de esta Ley. El liquidador judicial podrá modificar periódicamente el monto de las reservas para reflejar la mejor estimación posible.
 Tratándose de juicios o procedimientos seguidos en contra de la institución de banca múltiple cuyo reconocimiento no hubiere sido solicitado y obtenido por los acreedores respectivos, no existirá la obligación de constituir las reservas señaladas en este artículo.
 Artículo adicionado DOF 10-01-2014
@@ -3383,22 +4648,37 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 254
 .- Conforme a lo dispuesto en el artículo 253 de esta Ley, podrán separarse de los activos de la institución declarada en liquidación judicial los bienes que se encuentren en las situaciones siguientes o en otras que sean de naturaleza análoga:
+
 I. Los que sean reivindicables por terceros con arreglo a las leyes;
+
 II. Los inmuebles vendidos a la institución de banca múltiple, no pagados por ésta, cuando la compraventa no hubiere sido debidamente inscrita;
+
 III. Los muebles vendidos a la institución, si ésta no hubiere pagado la totalidad del precio al tiempo de la declaración de la liquidación judicial;
+
 IV. Los bienes que estén en poder de la institución por arrendamiento;
+
 V. Aquéllos que sean propiedad de los empleados de la institución o de las personas que presten servicios a ésta;
-VI. Aquéllos que se encuentren afectos a fideicomisos, mandatos, comisiones o custodia, y VII. Las contribuciones retenidas, recaudadas o trasladadas por la institución por cuenta de las autoridades fiscales.
+
+VI. Aquéllos que se encuentren afectos a fideicomisos, mandatos, comisiones o custodia, y
+
+VII. Las contribuciones retenidas, recaudadas o trasladadas por la institución por cuenta de las autoridades fiscales.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 255
 .- En lo relativo a la existencia o identidad de los bienes cuya separación se pida, se tendrá en cuenta lo siguiente:
+
 I. Las acciones de separación sólo procederán cuando los bienes estén en posesión de la institución de banca múltiple desde el momento de la declaración de la liquidación judicial;
+
 II. Si los bienes perecieren después de la declaración de la liquidación judicial y estuvieren asegurados, el separatista tendrá derecho a obtener el pago de la indemnización que se recibiere o bien a subrogarse en los derechos para reclamarla;
+
 III. Si los bienes hubieren sido enajenados antes de la declaración de la liquidación judicial, no cabe separación del precio recibido por ellos; pero si no se hubiere hecho efectivo el pago, el separatista podrá subrogarse en los derechos contra el tercero adquirente, debiendo en su caso entregar al patrimonio de la institución el excedente entre lo que cobrare y el importe de su crédito.
 En el segundo caso previsto en el párrafo anterior, el separatista no podrá presentarse como acreedor en la liquidación judicial;
+
 IV. Podrán separarse los bienes que hubieren sido remitidos, recibidos en pago o cambiados por cualquier título jurídico, equivalente con los que eran separables;
-V. La prueba de la identidad podrá hacerse aun cuando los bienes hubiesen sido privados de sus embalajes, desenfardados o parcialmente enajenados, y VI. Siempre que los bienes separables hubieren sido dados en prenda a terceros de buena fe, el acreedor prendario podrá oponerse a la entrega de dichos bienes, mientras no se le pague la obligación garantizada y los accesorios a que tenga derecho.
+
+V. La prueba de la identidad podrá hacerse aun cuando los bienes hubiesen sido privados de sus embalajes, desenfardados o parcialmente enajenados, y
+
+VI. Siempre que los bienes separables hubieren sido dados en prenda a terceros de buena fe, el acreedor prendario podrá oponerse a la entrega de dichos bienes, mientras no se le pague la obligación garantizada y los accesorios a que tenga derecho.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 256
@@ -3412,8 +4692,11 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 258
 .- La enajenación de los bienes de la institución de banca múltiple declarada en liquidación judicial, deberá efectuarse conforme a lo siguiente:
+
 I. Se llevará a cabo en los términos previstos en los artículos 200 a 215 de la presente Ley.
-Cuando en dichos artículos se haga referencia al liquidador o a la fecha en que la institución entre en estado de liquidación, se entenderá para efectos de lo dispuesto en el presente Apartado, que se hace referencia al liquidador judicial o a la fecha en que se declare la liquidación judicial de la institución, según corresponda, y II. El liquidador judicial deberá informar al juez de distrito que conozca de la liquidación judicial sobre las enajenaciones que hubiere realizado, en términos de los artículos 209 y 210 de esta Ley.
+Cuando en dichos artículos se haga referencia al liquidador o a la fecha en que la institución entre en estado de liquidación, se entenderá para efectos de lo dispuesto en el presente Apartado, que se hace referencia al liquidador judicial o a la fecha en que se declare la liquidación judicial de la institución, según corresponda, y
+
+II. El liquidador judicial deberá informar al juez de distrito que conozca de la liquidación judicial sobre las enajenaciones que hubiere realizado, en términos de los artículos 209 y 210 de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 259
@@ -3430,20 +4713,33 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 261
 .- El liquidador judicial deberá solicitar al juez que conozca de la liquidación judicial la declaración de nulidad de los actos celebrados por la institución de banca múltiple en fraude de acreedores durante el periodo de retroacción. Los acreedores de la institución de banca múltiple de que se trate podrán acudir a dicho juez para los fines antes mencionados.
 Para efectos de lo previsto en la presente sección, se entenderá por periodo de retroacción:
-I. Los doscientos setenta días anteriores a la fecha en que entre en funciones el administrador cautelar, el liquidador o el liquidador judicial, lo que ocurra primero, o II. En caso de que la institución de banca múltiple hubiere presentado la solicitud de operación condicionada a que se refiere el artículo 29 Bis 2 de esta Ley, el comprendido desde el día doscientos setenta anterior a la fecha de presentación de dicha solicitud y hasta la fecha en que entre en funciones el administrador cautelar, el liquidador o el liquidador judicial, lo que ocurra primero.
+
+I. Los doscientos setenta días anteriores a la fecha en que entre en funciones el administrador cautelar, el liquidador o el liquidador judicial, lo que ocurra primero, o
+
+II. En caso de que la institución de banca múltiple hubiere presentado la solicitud de operación condicionada a que se refiere el artículo 29 Bis 2 de esta Ley, el comprendido desde el día doscientos setenta anterior a la fecha de presentación de dicha solicitud y hasta la fecha en que entre en funciones el administrador cautelar, el liquidador o el liquidador judicial, lo que ocurra primero.
 El juez de distrito que conozca de la liquidación judicial, a solicitud del liquidador judicial o de cualquier acreedor, podrá establecer un plazo mayor al señalado en las fracciones anteriores cuando a su juicio se justifique.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 262
 .- Se considerarán actos en fraude de acreedores:
+
 I. Los que se celebren a título gratuito, así como los pagos de obligaciones no vencidas hechas por la institución de banca múltiple;
+
 II. Las remisiones de deuda hechas por la institución de banca múltiple;
+
 III. Los realizados en contravención a lo señalado en las fracciones III, IV, V, VII, VIII, X, XI, XII, XV Bis 1, XV Bis 2, XVI, XVII, XIX inciso b), del artículo 106 de esta Ley;
+
 IV. El descuento que de sus propios efectos haga la institución de banca múltiple;
+
 V. Los que ocasionen que la institución de banca múltiple correspondiente pague una contraprestación de valor notoriamente superior o reciba una contraprestación de valor notoriamente inferior a la prestación de su contraparte;
+
 VI. El otorgamiento de garantías o incremento de las vigentes, cuando la obligación original no contemplaba dicha garantía o incremento;
+
 VII. Los pagos de deudas hechos en especie, cuando ésta sea diferente a la originalmente pactada o bien, cuando la contraprestación pactada hubiere sido en dinero;
-VIII. Los actos realizados en contravención a las medidas correctivas a que se refieren los incisos c) a h) de la fracción I e inciso c) de la fracción III del artículo 122 de esta Ley, y IX. Las operaciones realizadas en contravención de lo establecido en los artículos 73, 73 Bis, 73 Bis 1 y 75 de esta Ley.
+
+VIII. Los actos realizados en contravención a las medidas correctivas a que se refieren los incisos c) a h) de la fracción I e inciso c) de la fracción III del artículo 122 de esta Ley, y
+
+IX. Las operaciones realizadas en contravención de lo establecido en los artículos 73, 73 Bis, 73 Bis 1 y 75 de esta Ley.
 Lo anterior, sin perjuicio de las sanciones que correspondan conforme a las disposiciones legales que resulten aplicables.
 No se considerarán actos en fraude de acreedores aquéllos que, de acuerdo a un dictamen emitido por el liquidador judicial, beneficien al patrimonio de la institución en liquidación judicial, con independencia de las acciones que, en su caso, correspondan.
 El que hubiere adquirido de mala fe cosas en fraude de acreedores, responderá por los daños y perjuicios que ocasione, cuando la cosa hubiere pasado a un adquirente de buena fe o se hubiere perdido. La misma responsabilidad recae sobre el que, para eludir los efectos de la nulidad que ocasionaría el fraude de acreedores, hubiere destruido u ocultado los bienes objeto de la misma.
@@ -3453,22 +4749,36 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 263
 .- El Instituto para la Protección al Ahorro Bancario, en su carácter de liquidador judicial, emitirá el balance final de la liquidación judicial cuando se hubiere actualizado algunos de los supuestos siguientes:
+
 I. Si se hubiere efectuado el pago a los acreedores en términos de la presente Sección y no quedaran más bienes por realizarse;
-II. Si se hubiere celebrado un convenio de pago con los acreedores reconocidos en los términos establecidos en el artículo 246 de esta Ley, o III. Si se demuestra que los bienes de la institución son insuficientes aún para cubrir los créditos a que se refiere el artículo 241 de la presente Ley.
+
+II. Si se hubiere celebrado un convenio de pago con los acreedores reconocidos en los términos establecidos en el artículo 246 de esta Ley, o
+
+III. Si se demuestra que los bienes de la institución son insuficientes aún para cubrir los créditos a que se refiere el artículo 241 de la presente Ley.
 El liquidador judicial deberá presentar el balance al juez de distrito que conozca de la liquidación judicial quien a su vez le ordenará su publicación por tres veces, de diez en diez días hábiles bancarios, en el Diario Oficial de la Federación y en un periódico de circulación nacional.
 El mismo balance, así como los documentos y libros de la institución de banca múltiple, estarán a disposición de los accionistas, quienes tendrán un plazo de diez días hábiles a partir de la última publicación, para acudir ante el propio juez de distrito que conozca de la liquidación judicial a presentar su inconformidad la cual se substanciará en la vía incidental. Una vez que haya transcurrido dicho plazo o cuando exista sentencia ejecutoriada, el liquidador judicial procederá a depositar e inscribir en el Registro Público de Comercio, el balance final de la liquidación judicial.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 264
 .- Una vez realizados los actos a que se refiere el artículo 263 de esta Ley, el juez de distrito que conozca de la liquidación judicial dictará la sentencia que declare la terminación de la liquidación judicial, la cual deberá contener lo siguiente:
+
 I. El fundamento por el cual se declare la terminación de la liquidación judicial;
+
 II. La declaración de terminación de la liquidación judicial de la institución de banca múltiple;
+
 III. En su caso, el convenio mediante el cual se da por terminada la liquidación judicial, así como la mención de que el convenio aprobado tendrá el carácter de sentencia y obliga a la institución y a la totalidad de los acreedores reconocidos en los términos pactados en el propio convenio, así como la orden al liquidador judicial y el plazo para cancelar las inscripciones registrales efectuadas con motivo del procedimiento de la liquidación judicial;
+
 IV. La relación de los acreedores reconocidos y pagados;
+
 V. La relación de los acreedores reconocidos que no asistieron a reclamar su pago, incluyendo la mención de que el billete de depósito correspondiente será depositado en el seguro del juzgado;
+
 VI. La orden al liquidador judicial de publicar un extracto de la sentencia en el Diario Oficial de la Federación y en un periódico de circulación nacional;
+
 VII. La orden al liquidador judicial de inscribir la sentencia en el Registro Público de Comercio y de solicitar la cancelación de la inscripción del contrato social;
-VIII. La forma y términos en que se notificará la sentencia, y IX. La forma y plazos para impugnar la sentencia de terminación de la liquidación judicial.
+
+VIII. La forma y términos en que se notificará la sentencia, y
+
+IX. La forma y plazos para impugnar la sentencia de terminación de la liquidación judicial.
 La sentencia de terminación de la liquidación judicial se notificará a través del Boletín Judicial o por los estrados del juzgado correspondiente.
 Artículo adicionado DOF 10-01-2014
 
@@ -3476,8 +4786,12 @@ Artículo adicionado DOF 10-01-2014
 .- El juez podrá declarar la terminación de la liquidación judicial aún y cuando a esa fecha todavía se encuentre pendiente la resolución definitiva de uno o más litigios en contra de la institución de banca múltiple.
 En estos casos el liquidador judicial deberá realizar las acciones necesarias con el objeto de que los recursos correspondientes a las reservas que, en su caso, se hayan constituido en relación con tales litigios, sean administrados y aplicados conforme a los instrumentos jurídicos que para tal efecto se constituyan.
 Al constituir tales instrumentos jurídicos, el liquidador judicial observará en todo caso lo siguiente:
+
 I. Los gastos derivados de la administración y aplicación antes mencionados serán con cargo a los recursos de las reservas correspondientes;
-II. El liquidador judicial deberá adicionar a las reservas, un importe que sea suficiente para sufragar los gastos que se deriven de la atención judicial de los litigios, y III. Si después de resueltos todos los litigios, y una vez aplicados los recursos, existieren sobrantes, deberán repartirse entre los acreedores reconocidos conforme al grado y prelación que a cada uno corresponda, sin que ello amerite la reapertura del procedimiento de liquidación judicial, ni la intervención del juez.
+
+II. El liquidador judicial deberá adicionar a las reservas, un importe que sea suficiente para sufragar los gastos que se deriven de la atención judicial de los litigios, y
+
+III. Si después de resueltos todos los litigios, y una vez aplicados los recursos, existieren sobrantes, deberán repartirse entre los acreedores reconocidos conforme al grado y prelación que a cada uno corresponda, sin que ello amerite la reapertura del procedimiento de liquidación judicial, ni la intervención del juez.
 El liquidador judicial deberá señalar en el balance final correspondiente los litigios que se encuentren en el supuesto de este artículo, con indicación del instrumento jurídico para su administración y aplicación.
 Los juicios o procedimientos seguidos por acreedores de la institución de banca múltiple en liquidación judicial, que no hubieren solicitado y obtenido su reconocimiento, deberán ser sobreseídos cualquiera que sea la instancia en que se encuentren como resultado de la sentencia por la que declare la terminación del procedimiento de liquidación judicial; para tales efectos, el juez que conozca de la liquidación judicial enviará copia certificada de esa resolución a los jueces, tribunales o autoridades que conozcan de tales procedimientos, una vez que haya causado ejecutoria.
 Una vez dictada la sentencia a que se refiere el artículo 264, el liquidador judicial procederá de conformidad con lo dispuesto en el artículo 218, ambos de esta Ley.
@@ -3489,13 +4803,22 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 267
 .- Para el conocimiento y decisión de las controversias que se suscitaren durante la tramitación de la liquidación judicial se plantearán, por el interesado, a través de la vía incidental ante el juez de distrito que conozca de la liquidación judicial de la institución de banca múltiple de que se trate, observándose lo siguiente:
+
 I. Se deberán interponer dentro de los diez días siguientes a la realización del acto materia de controversia;
+
 II. Del escrito inicial del incidente se correrá traslado por cinco días a la parte o a las partes interesadas en la cuestión. Se tendrá como confesa a la parte que no efectuare el desahogo, salvo prueba en contrario;
+
 III. En los escritos de demanda incidental y contestación de ésta, las partes ofrecerán pruebas, expresando los puntos sobre los que deban versar, y que no sean extraños a la cuestión incidental planteada;
+
 IV. Transcurrido el plazo a que se refiere la fracción segunda, el juez de distrito que conozca de la liquidación judicial citará a una audiencia de desahogo de pruebas y alegatos que deberá celebrarse dentro de los diez días siguientes;
+
 V. Cuando las partes ofrezcan las pruebas testimonial o pericial, exhibirán con el escrito de ofrecimiento, copia de los interrogatorios al tenor de los cuales deban ser examinados los testigos, o del cuestionario para los peritos, señalando el nombre y domicilio de los testigos y en su caso del perito de cada parte. El juez de distrito que conozca de la liquidación judicial ordenará que se entregue una copia a cada una de las partes, para que puedan formular verbalmente preguntas al verificarse la audiencia. No se admitirán más de tres testigos por cada hecho. Las testimoniales o periciales a cargo de servidores públicos deberán desahogarse por escrito;
+
 VI. Al promoverse la prueba pericial, el juez de distrito que conozca de la liquidación judicial hará la designación de un perito, o de los que estime necesarios, sin perjuicio de que cada parte pueda designar también un perito para que se asocie al nombrado por el juez o rinda dictamen por separado;
-VII. A fin de que las partes puedan rendir sus pruebas en la citada audiencia, los funcionarios o autoridades tienen obligación de expedir con toda prontitud a aquéllas, las copias o documentos que soliciten, apercibidas que de no hacerlo serán objeto de las medidas de apremio que el juez de distrito que conozca de la liquidación judicial considere convenientes, y dejarán de recibirse las que no se hayan preparado oportunamente por falta de interés en su desahogo, y VIII. Concluida la audiencia, sin necesidad de citación, el juez de distrito que conozca de la liquidación judicial dictará la sentencia interlocutoria relativa dentro del plazo de tres días.
+
+VII. A fin de que las partes puedan rendir sus pruebas en la citada audiencia, los funcionarios o autoridades tienen obligación de expedir con toda prontitud a aquéllas, las copias o documentos que soliciten, apercibidas que de no hacerlo serán objeto de las medidas de apremio que el juez de distrito que conozca de la liquidación judicial considere convenientes, y dejarán de recibirse las que no se hayan preparado oportunamente por falta de interés en su desahogo, y
+
+VIII. Concluida la audiencia, sin necesidad de citación, el juez de distrito que conozca de la liquidación judicial dictará la sentencia interlocutoria relativa dentro del plazo de tres días.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 268
@@ -3508,8 +4831,12 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 270
 .- El juez para hacer cumplir sus determinaciones podrá emplear, a su discreción, cualquiera de las medidas de apremio siguientes:
+
 I. Multa por un importe de 120 a 500 días de salario mínimo general vigente en el Distrito Federal al cometer la infracción, la cual podrá duplicarse en caso de reincidencia;
-II. El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario, y III. El arresto hasta por treinta y seis horas.
+
+II. El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario, y
+
+III. El arresto hasta por treinta y seis horas.
 Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 Cuando el juez de distrito que conozca de la liquidación judicial, en cumplimiento de lo dispuesto en este artículo, solicite el auxilio de la fuerza pública, las autoridades competentes estarán obligadas a prestar tal auxilio, con la amplitud y por todo el tiempo que sea necesario.
 Artículo adicionado DOF 10-01-2014 APARTADO D De la Asistencia y Defensa Legal y de la Responsabilidad Apartado adicionado DOF 10-01-2014
@@ -3528,9 +4855,14 @@ Artículo adicionado DOF 10-01-2014
 .- La Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores, el Instituto para la Protección al Ahorro Bancario, los integrantes de sus respectivos órganos de gobierno, los funcionarios y servidores públicos que laboren en la dependencia y organismos citados, no serán responsables por las pérdidas que sufran las instituciones de banca múltiple derivadas de su insolvencia, deterioro financiero o por la pérdida del valor de sus activos durante los procesos de liquidación o liquidación judicial; o bien, por cualquier daño patrimonial, cuando para la toma de las decisiones correspondientes hayan actuado en el ejercicio lícito de las funciones que por ley les estén encomendadas y que guarden relación con lo dispuesto en el artículo 50 de esta Ley, así como en las secciones Segunda, Tercera, Cuarta y Quinta del Capítulo I del Título Segundo, en el Capítulo Único del Título Sexto y en el Capítulo II del Título Séptimo de esta Ley.
 Si se determinara la responsabilidad a que se refiere el artículo 273 de la presente Ley, únicamente se podrá repetir a los servidores públicos el pago de la indemnización que, en su caso, hubiere sido cubierta a los particulares, cuando, previa substanciación del procedimiento administrativo disciplinario previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, se hubiere determinado su responsabilidad por falta administrativa que haya tenido el carácter de infracción grave, conforme a los criterios establecidos en esa misma Ley y tomando en cuenta lo dispuesto por el presente artículo.
 Los administradores cautelares, miembros del consejo consultivo, director general y miembros del consejo de administración de las instituciones constituidas y operadas por el Instituto para la Protección al Ahorro Bancario y los apoderados que sean designados por el citado Instituto en términos de lo dispuesto en esta Ley, así como el personal auxiliar al cual los propios administradores cautelares, liquidadores o liquidadores judiciales les otorguen poderes porque sea necesario para el desempeño de sus funciones conforme a lo previsto en el artículo 133 de esta Ley, no serán responsables por las pérdidas que sufran las instituciones que deriven de su insolvencia, liquidación judicial o deterioro financiero, cuando para la toma de las decisiones correspondientes hayan actuado en el ejercicio lícito de sus funciones. Tampoco serán responsables cuando dichas pérdidas o deterioro financiero de la institución de que se trate, se origine por cualquiera de las siguientes causas:
+
 I. Falta de aumentos de capital que deban llevar a cabo los accionistas de la institución de banca múltiple;
+
 II. Falta de pago de los deudores de la institución;
-III. Deterioro en el valor de los activos de la institución durante los procesos de liquidación o liquidación judicial, o IV. Aumento del costo de fondeo de los activos improductivos de la institución.
+
+III. Deterioro en el valor de los activos de la institución durante los procesos de liquidación o liquidación judicial, o
+
+IV. Aumento del costo de fondeo de los activos improductivos de la institución.
 Para efectos de lo dispuesto en este artículo, se entenderá que las personas físicas en él referidas actuaron en el ejercicio lícito de sus funciones y no se considerarán responsables por daños y perjuicios salvo cuando los actos que los causen hayan sido realizados con dolo, para obtener algún lucro indebido para sí mismas o para terceros.
 Artículo adicionado DOF 10-01-2014
 
@@ -3589,25 +4921,43 @@ Al expedirse las disposiciones a que se refiere este artículo, se señalarán e
 ARTICULO QUINTO.- Las autorizaciones y demás medidas adminsitrativas dictadas con fundamento en la Ley que se abroga, que se prevean en esta Ley, continuarán en vigor hasta que no sean revocadas o modificadas por la autoridad competente.
 ARTICULO SEXTO.- Los asuntos a que se refiere el inciso a), fracción XVIII del artículo 84 de la Ley Reglamentaria del Servicio Público de Banca y Crédito abrogada, que se estuvieren tramitando ante la Secretaría de Hacienda y Crédito Público, continuarán desahogándose ante la misma hasta su total terminación.
 ARTICULO SEPTIMO.- El Ejecutivo Federal, en un plazo de trescientos sesenta días contados a partir de la vigencia de esta Ley, expedirá los decretos mediante los cuales se transformen las sociedades nacionales de crédito, instituciones de banca múltiple, en sociedades anónimas y de acuerdo con las bases siguientes:
+
 I. Los consejos directivos, tomando en cuenta la opinión de las comisiones consultivas y los dictámenes de los comisarios, someterán a la autorización de la Secretaría de Hacienda y Crédito Público, los acuerdos de transformación, mismos que deberán contener los estados financieros de las sociedades, las bases para realizar el canje de los certificados de aportación patrimonial por acciones y los acuerdos para llevar a cabo la transformación;
+
 II. La Secretaría de Hacienda y Crédito Público señalará la forma y términos en que deberá llevarse a cabo la transformación, cuidando en todo tiempo la adecuada protección de los intereses del público;
+
 III. Los acuerdos de transformación se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tenga su domicilio la sociedad. Las transformaciones surtirán efectos en la fecha que se indique en los decretos respectivos;
+
 IV. Los acreedores de las sociedades no podrán oponerse a la transformación.
 Los titulares de los certificados de la serie "B", tendrán derecho de separarse de la sociedad y obtener el reembolso de sus títulos a su valor en libros según el último estado financiero aprobado por el consejo directivo y revisado por la Comisión Nacional Bancaria, siempre que lo soliciten dentro del plazo de noventa días siguientes a aquél en que surta efectos la transformación;
+
 V. Los decretos a que se refiere este artículo y los acuerdos de transformación, se inscribirán en el Registro Público de Comercio;
+
 VI. Mientras se llevan a cabo las citadas transformaciones, los aspectos corporativos de las instituciones, seguirán rigiéndose por la Ley Reglamentaria del Servicio Público de Banca y Crédito y demás disposiciones vigentes con anterioridad a la entrada en vigor de esta Ley, debiendo el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, proveer lo necesario a efecto de que las instituciones a que se refiere el presente artículo continúen prestando de manera adecuada y eficiente el servicio de banca y crédito.
 Una vez transformados y, hasta en tanto se aprueban los estatutos de las mismas, se seguirán aplicando los respectivos reglamentos orgánicos;
+
 VII. La Secretaría de Hacienda y Crédito Público, dará a conocer a través del Diario Oficial de lo Federación, los términos conforme a los cuales deberán celebrarse las asambleas de accionistas de las instituciones de banca múltiple, a fin de que se aprueben los estatutos de las respectivas instituciones;
-VIII. La conversión de certificados de aportación patrimonial en acciones se llevará a cabo en la fecha en que surta efectos la transformación, y se realizará conforme a lo siguiente: a) El cincuenta y uno por ciento del capital de la institución, representado por los certificados de aportación patrimonial de la serie "A", se canjearán por acciones de la serie "A" a que se refiere la fracción I del artículo 11 de esta Ley, y b) El quince por ciento restante del capital de la institución, representado por los certificados de aportación patrimonial de la serie "A", así como la totalidad de los certificados de aportación patrimonial de la serie "B", se convertirán en acciones de la serie "B" previstas en la fracción II del artículo 11 referido.
+
+VIII. La conversión de certificados de aportación patrimonial en acciones se llevará a cabo en la fecha en que surta efectos la transformación, y se realizará conforme a lo siguiente:
+
+a) El cincuenta y uno por ciento del capital de la institución, representado por los certificados de aportación patrimonial de la serie "A", se canjearán por acciones de la serie "A" a que se refiere la fracción I del artículo 11 de esta Ley, y
+
+b) El quince por ciento restante del capital de la institución, representado por los certificados de aportación patrimonial de la serie "A", así como la totalidad de los certificados de aportación patrimonial de la serie "B", se convertirán en acciones de la serie "B" previstas en la fracción II del artículo 11 referido.
 Las acciones que resulten de la conversión, deberán representar la misma participación del capital pagado que los certificados de aportación patrimonial respectivos.
 Por las operaciones previstas en los incisos anteriores, así como por las permutas de acciones en las que sea parte el Gobierno Federal, no se causará gravamen fiscal alguno.
 Para efectos fiscales, el costo de adquisición de la acción será el correspondiente al del certificado de aportación patrimonial que fue objeto de cambio.
+
 IX. Los directores generales, así como los consejeros y comisarios de las series "A" y "B", de las sociedades nacionales de crédito, instituciones de banca múltiple, continuarán en el desempeño de sus funciones mientras no se realicen nuevas designaciones y los designados tomen posesión de sus cargos;
+
 X. Al transformarse las instituciones de banca múltiple conservarán su misma personalidad jurídica y patrimonio, por lo que los bienes y derechos de que es titular la institución, así como sus obligaciones, incluyendo las de carácter laboral y fiscal, no tendrán modificación;
+
 XI. Los derechos y obligaciones de los trabajadores de las sociedades que se transformen no sufrirán, por ese acto, modificación alguna;
+
 XII. Se entenderán referidas a las instituciones de banca múltiple, sociedades anónimas, las inscripciones y anotaciones marginales de cualquier naturaleza efectuadas en los registros públicos de la propiedad y del comercio, así como en cualquier otro registro, relativas a las correspondientes instituciones de banca múltiple, sociedades nacionales de crédito.
 Asimismo, corresponderán a las instituciones de banca múltiple, sociedades anónimas, las acciones, excepciones, defensas y recursos de cualquier naturaleza, deducidos en los juicios o procedimientos en los cuales las instituciones de banca múltiple, sociedades nacionales de crédito, tengan interés jurídico.
-Los poderes, mandatos, designaciones de delegados fiduciarios y, en general, las representaciones otorgadas y las facultades concedidas por las sociedades que se transforman, subsistirán en sus términos en tanto no sean modificados o revocados expresamente, y XIII. Llevada a cabo la transformación, cuando las leyes y disposiciones administrativas hagan referencia a las instituciones de banca múltiple, sociedades nacionales de crédito, se entenderá que se hace a las instituciones de banca múltiple, sociedades anónimas.
+Los poderes, mandatos, designaciones de delegados fiduciarios y, en general, las representaciones otorgadas y las facultades concedidas por las sociedades que se transforman, subsistirán en sus términos en tanto no sean modificados o revocados expresamente, y
+
+XIII. Llevada a cabo la transformación, cuando las leyes y disposiciones administrativas hagan referencia a las instituciones de banca múltiple, sociedades nacionales de crédito, se entenderá que se hace a las instituciones de banca múltiple, sociedades anónimas.
 ARTICULO OCTAVO.- Las instituciones de banca múltiple que dejen de tener el carácter de entidades de la administración pública federal, mantendrán para sus trabajadores los derechos, beneficios y prestaciones que hayan venido otorgando.
 Dichas instituciones seguirán sujetándose a las condiciones generales de trabajo expedidas por ellas, en tanto se celebren los correspondientes contratos colectivos, de los que serán titulares los sindicatos actualmente existentes. Estos y los que, en su caso, posteriormente se constituyan, continuarán integrándose por trabajadores que laboren en la misma institución.
 ARTICULO NOVENO.- Los procedimientos de conciliación a que se refieren los artículos 95 y 96 de la Ley Reglamentaria de Servicio Público de Banca y Crédito, que se hayan iniciado antes de la entrada en vigor de esta Ley, se continuarán tramitando hasta su total terminación conforme al Ordenamiento citado en primer término.
@@ -3838,8 +5188,12 @@ Los trabajadores que opten por pensionarse conforme al régimen establecido en l
 Igual derecho tendrán los beneficiarios que elijan acogerse a los beneficios de pensiones establecidos en la Ley del Seguro Social que estuvo vigente hasta el 30 de junio de 1997.
 Los restantes recursos acumulados en la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez, previsto en la Ley del Seguro Social vigente a partir del 1o. de julio de 1997, deberán ser entregados por las administradoras de fondos para el retiro al Gobierno Federal.
 Artículo reformado DOF 24-12-2002 ARTICULO DECIMO.- El Presidente de la Comisión, previo acuerdo de la Junta de Gobierno, podrá autorizar la salida voluntaria de los sistemas de ahorro para el retiro de las instituciones de crédito que por ministerio de ley participen en los sistemas de ahorro para el retiro, siempre y cuando se cumplan los siguientes requisitos:
+
 I. Que exista solicitud por escrito de la persona interesada dirigida a la Comisión, en la cual aquélla exponga las causas o motivos por los cuales solicita la autorización para dejar de participar en los sistemas de ahorro para el retiro, acompañando las pruebas que considere convenientes en apoyo de su solicitud;
-II. Que a juicio de la Junta de Gobierno de la Comisión existan circunstancias económicas, jurídicas, técnicas u operativas que justifiquen la salida de los sistemas de ahorro para el retiro de la institución de crédito de que se trate; y III. Que los intereses de los trabajadores no sufran daño ni perjuicio alguno con motivo de la salida de los sistemas de ahorro para el retiro de la institución de crédito de que se trate.
+
+II. Que a juicio de la Junta de Gobierno de la Comisión existan circunstancias económicas, jurídicas, técnicas u operativas que justifiquen la salida de los sistemas de ahorro para el retiro de la institución de crédito de que se trate; y
+
+III. Que los intereses de los trabajadores no sufran daño ni perjuicio alguno con motivo de la salida de los sistemas de ahorro para el retiro de la institución de crédito de que se trate.
 En relación con este requisito, la Comisión queda facultada para dictar e imponer las medidas que considere necesarias a fin de garantizar la protección de los trabajadores.
 ARTICULO DECIMO PRIMERO.- Los recursos administrativos, reclamaciones, trámites y procedimientos que se sigan ante la Comisión Nacional del Sistema de Ahorro para el Retiro y que se encuentren pendientes de resolución al momento de la entrada en vigor de la Ley de los Sistemas de Ahorro para el Retiro, se resolverán conforme a las disposiciones anteriormente aplicables.
 Respecto de los procedimientos conciliatorios, se seguirán aplicando las reglas conforme a las cuales se venían regulando, en tanto no sea expedido el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro.
@@ -3887,8 +5241,12 @@ Publicada en el Diario Oficial de la Federación el 18 de enero de 1999
 esta Ley entre en vigor.
 **OCTAVO.-** La Secretaría, realizará los trámites que sean necesarios para que la Comisión Nacional quede comprendido en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 1999.
 **NOVENO.-** La instalación de la primera Junta de Gobierno a la que se refiere el artículo 16 deberá concretarse en los siguientes términos:
+
 I. La Secretaría, el Banco de México y las Comisiones Nacionales, deberán designar a sus representantes, y el Secretario de Hacienda y Crédito Público al Presidente de la Comisión;
-II. Los representantes a que se refiere la fracción anterior deberán emitir las bases sobre las cuales se procederá a la integración e instalación del Consejo Consultivo Nacional, dentro de un plazo no mayor de 30 días; y, III. Los integrantes de la Junta de Gobierno a que se refiere la fracción I de este artículo deberán proceder a la integración del Consejo Consultivo Nacional, en los términos de las bases señaladas en la fracción anterior, en un plazo no mayor de quince días a partir de la emisión de las bases a que se refiere la fracción II de este artículo y dicho Consejo Consultivo designará a los integrantes del mismo, que formarán parte de la Junta de Gobierno.
+
+II. Los representantes a que se refiere la fracción anterior deberán emitir las bases sobre las cuales se procederá a la integración e instalación del Consejo Consultivo Nacional, dentro de un plazo no mayor de 30 días; y,
+
+III. Los integrantes de la Junta de Gobierno a que se refiere la fracción I de este artículo deberán proceder a la integración del Consejo Consultivo Nacional, en los términos de las bases señaladas en la fracción anterior, en un plazo no mayor de quince días a partir de la emisión de las bases a que se refiere la fracción II de este artículo y dicho Consejo Consultivo designará a los integrantes del mismo, que formarán parte de la Junta de Gobierno.
 DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 México, D.F., a 13 de diciembre de 1998.- Dip. Luis Patiño Pozas, Presidente.- Sen. José Ramírez Gamero, Presidente.- Dip. Espiridión Sánchez López, Secretario.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
@@ -4171,7 +5529,9 @@ Se REFORMA la fracción I del artículo 45-A; el primer párrafo del artículo 4
 ## TRANSITORIOS
 
 **PRIMERO.-** Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:
+
 I. El artículo Primero del presente Decreto;
+
 II. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título
 **Quinto.** y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al
 
@@ -4180,7 +5540,10 @@ de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, conte
 
 ### artículo Segundo
 de este Decreto;
-III. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
+
+III. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y
+
+IV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.
 A partir de la entrada en vigor a que se refiere este artículo, las operaciones de arrendamiento financiero y factoraje financiero no se considerarán reservadas para las arrendadoras financieras y empresas de factoraje financiero, por lo que cualquier persona podrá celebrarlas en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 Las sociedades financieras de objeto limitado podrán seguir actuando con el carácter de fiduciarias en los fideicomisos a los que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito hasta que queden sin efectos las autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito, salvo que adopten la modalidad de sociedad financiera de objeto múltiple, en cuyo caso podrán continuar en el desempeño de su encomienda fiduciaria.
 SEGUNDO.- Las personas que, a partir de la fecha de entrada en vigor de las disposiciones a que se refiere el artículo primero transitorio de este Decreto, realicen operaciones de arrendamiento financiero y factoraje financiero, en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendadoras financieras y empresas de factoraje.
@@ -4188,7 +5551,9 @@ En los contratos de arrendamiento financiero y factoraje financiero que celebren
 TERCERO.- Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas a los artículos 5, 8, 40, 45 Bis 3, 47, 48, 48-A, 48-B, 78, 96, 97, 98 y 99, así como la derogación a los artículos 3 y 48 y del Capítulo II del Título Segundo, que incluye los artículos 24 a 38, del Capítulo II Bis del Título Segundo, que incluye los artículos 45-A a 45-T, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito contenidas en el artículo Segundo de este Decreto.
 A partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que haya otorgado la Secretaría de Hacienda y Crédito Público para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser organizaciones auxiliares del crédito.
 Las sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para que puedan continuar operando, deberán:
+
 I. Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito y que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público para constituirse y funcionar con tal carácter.
+
 II. Presentar a la Secretaría de Hacienda y Crédito Público, a más tardar en la fecha en que entren en vigor las reformas y derogaciones señalada en el primer párrafo de este artículo, el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
 Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
 La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
@@ -4197,7 +5562,9 @@ En los contratos de arrendamiento financiero y factoraje financiero que las soci
 CUARTO.- La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes de autorización que, para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero, en términos de lo dispuesto por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
 QUINTO.- Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas, adiciones y derogaciones a los artículos 45-A, 45-B, 45-D, 45-I, 45-K, 45N, 49, 85 BIS, 103, 108, 115 y 116 de la Ley de Instituciones de Crédito contenidas en el artículo Tercero de este Decreto.
 A partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que hayan sido otorgadas por la Secretaría de Hacienda y Crédito Público, en términos del artículo 103, fracción IV, de la Ley de Instituciones de Crédito, a las sociedades financieras de objeto limitado, quedarán sin efecto por ministerio de ley, sin que por ello estén obligadas a disolverse y liquidarse, aunque, para que puedan continuar operando, deberán:
+
 I. Reformar sus estatutos sociales, a afecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son sociedades financieras de objeto limitado y que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público para ello.
+
 II. Presentar a la Secretaría de Hacienda y Crédito Público, a más tardar en la fecha en que entren en vigor las reformas y derogaciones señaladas en el primer párrafo de este artículo, el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
 Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
 La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
@@ -4205,8 +5572,12 @@ La entrada en vigor de las reformas, adiciones y derogaciones a los artículos d
 En los contratos de crédito que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas.
 SEXTO.- La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede.
 SÉPTIMO.- Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:
+
 I. Acordar en asamblea de accionistas que las operaciones de arrendamiento financiero, factoraje financiero y crédito que realicen dichas sociedades con el carácter de arrendador, factorante o acreditante se sujetarán al régimen de la Ley General de Títulos y Operaciones de Crédito y, en su caso, al de sociedades financieras de objeto múltiple previsto en la General de Organizaciones y Actividades Auxiliares del Crédito;
-II. Reformar sus estatutos sociales, a efecto de eliminar, según corresponda, cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito o sociedades financieras de objeto limitado; que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público; que, excepto que se ubiquen en el supuesto del penúltimo párrafo del artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores y que su organización, funcionamiento y operación se rigen por dicha Ley o por la Ley de Instituciones de Crédito, y III. Presentar a la Secretaría de Hacienda y Crédito Público el instrumento público en el que conste la celebración de la asamblea de accionistas señalada en la fracción I y la reforma estatutaria referida en la fracción II anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
+
+II. Reformar sus estatutos sociales, a efecto de eliminar, según corresponda, cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito o sociedades financieras de objeto limitado; que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público; que, excepto que se ubiquen en el supuesto del penúltimo párrafo del artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores y que su organización, funcionamiento y operación se rigen por dicha Ley o por la Ley de Instituciones de Crédito, y
+
+III. Presentar a la Secretaría de Hacienda y Crédito Público el instrumento público en el que conste la celebración de la asamblea de accionistas señalada en la fracción I y la reforma estatutaria referida en la fracción II anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.
 La autorización que haya otorgado la Secretaría de Hacienda y Crédito Público, según corresponda, para la constitución, operación, organización y funcionamiento de la arrendadora financiera, empresa de factoraje financiero o sociedad financiera de objeto limitado de que se trate, quedará sin efecto a partir del día siguiente a la fecha en que se inscriba en el Registro Público de Comercio la reforma estatutaria señalada en la fracción II de este artículo, sin que, por ello, la sociedad deba entrar en estado de disolución y liquidación. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación que la autorización ha quedado sin efecto.
 Los contratos que hayan suscrito las arrendadoras financieras, empresas de factoraje financiero o sociedades financieras de objeto limitado con anterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efectos las autorizaciones referidas, no quedarán afectados en su existencia o validez ni deberán ser ratificados o convalidados por esa causa.
 En los contratos de arrendamiento financiero, factoraje financiero y crédito que las sociedades a que se refiere este artículo celebren con posterioridad a la fecha en que la autorización de la Secretaría de Hacienda y Crédito Público haya quedado sin efecto, aquellas deberán señalar expresamente que no cuentan autorización de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas en el primer párrafo de este artículo.
@@ -4256,9 +5627,13 @@ Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia
 
 ### ARTÍCULO SEXTO
 Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:
+
 I. Los artículos 3, fracción I, 10 y 16 primer párrafo.
+
 II. El artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de publicidad prevé esta última Ley.
+
 III. El artículo 8. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de contratos de adhesión prevé esta última Ley, en el entendido de que dichas disposiciones contemplarán el contenido mínimo señalado en las fracciones I a VI del referido artículo 8 para los Créditos Garantizados a la Vivienda.
+
 IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que resulten competentes, conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley, deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del Crédito Garantizado a la Vivienda.
 
 ### ARTÍCULO SÉPTIMO
@@ -4313,11 +5688,30 @@ Al expedirse las disposiciones a que se refiere este artículo, se señalarán e
 
 ### ARTÍCULO SÉPTIMO
 Sin perjuicio de lo que dispone el "Decreto por el que se reforman, derogan y Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas, Ley para Regular las Agrupaciones Financieras, Ley de Ahorro y Crédito Popular, Ley de Inversión Extranjera, Ley publicado en el Diario Oficial de la Federación el 18 de julio de 2006, las sociedades financieras de objeto limitado a que se refiere la fracción IV del artículo 103 de la Ley de Instituciones de Crédito estarán a lo siguiente:
-I. Las autorizaciones para organizarse y operar como sociedad financiera de objeto limitado que hubiere otorgado la Secretaría de Hacienda y Crédito Público estarán vigentes hasta la fecha de entrada en vigor señalada en el artículo quinto transitorio del Decreto a que se refiere el párrafo primero de este artículo transitorio, por lo que, en esa misma fecha, quedarán sin efecto las citadas autorizaciones por ministerio de Ley. Sin perjuicio de lo anterior, durante el periodo comprendido entre la fecha de entrada en vigor del presente Decreto y la señalada en el artículo quinto transitorio del Decreto antes referido, la Secretaría de Hacienda y Crédito Público, previa audiencia de la sociedad financiera de objeto de limitado de que se trate, podrá revocar la autorización que le haya otorgado en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito cuando dicha sociedad se encuentre en alguno de los supuestos siguientes: a) No inicie operaciones dentro del plazo de noventa días contado a partir del otorgamiento de la autorización; b) No cuente con un capital mínimo equivalente a aquél que, para dichas sociedades, dé a conocer la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general; c) Realice alguna de las operaciones o actividades prohibidas por las reglas a que hace referencia el tercer párrafo del artículo 103 de la Ley de Instituciones de Crédito; d) Su contabilidad y registros no se ajusten a las disposiciones aplicables; e) En la celebración de sus operaciones, no se ajusten a la Ley de Instituciones de Crédito y demás disposiciones aplicables; f) Incurra en una violación directa a la Ley, a las reglas o a la autorización emitidas por la Secretaría de Hacienda y Crédito Público al no cumplir adecuadamente con su objeto social o por no otorgar créditos para la actividad o sector señalados en la autorización que le hubiere sido otorgada, por un período mayor a un año; g) Se disuelva, entre en estado de liquidación o concurso mercantil, o h) Si los accionistas, en asamblea general extraordinaria, resuelven solicitarla.
+
+I. Las autorizaciones para organizarse y operar como sociedad financiera de objeto limitado que hubiere otorgado la Secretaría de Hacienda y Crédito Público estarán vigentes hasta la fecha de entrada en vigor señalada en el artículo quinto transitorio del Decreto a que se refiere el párrafo primero de este artículo transitorio, por lo que, en esa misma fecha, quedarán sin efecto las citadas autorizaciones por ministerio de Ley. Sin perjuicio de lo anterior, durante el periodo comprendido entre la fecha de entrada en vigor del presente Decreto y la señalada en el artículo quinto transitorio del Decreto antes referido, la Secretaría de Hacienda y Crédito Público, previa audiencia de la sociedad financiera de objeto de limitado de que se trate, podrá revocar la autorización que le haya otorgado en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito cuando dicha sociedad se encuentre en alguno de los supuestos siguientes:
+
+a) No inicie operaciones dentro del plazo de noventa días contado a partir del otorgamiento de la autorización;
+
+b) No cuente con un capital mínimo equivalente a aquél que, para dichas sociedades, dé a conocer la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general;
+
+c) Realice alguna de las operaciones o actividades prohibidas por las reglas a que hace referencia el tercer párrafo del artículo 103 de la Ley de Instituciones de Crédito;
+
+d) Su contabilidad y registros no se ajusten a las disposiciones aplicables;
+
+e) En la celebración de sus operaciones, no se ajusten a la Ley de Instituciones de Crédito y demás disposiciones aplicables;
+
+f) Incurra en una violación directa a la Ley, a las reglas o a la autorización emitidas por la Secretaría de Hacienda y Crédito Público al no cumplir adecuadamente con su objeto social o por no otorgar créditos para la actividad o sector señalados en la autorización que le hubiere sido otorgada, por un período mayor a un año;
+
+g) Se disuelva, entre en estado de liquidación o concurso mercantil, o
+
+h) Si los accionistas, en asamblea general extraordinaria, resuelven solicitarla.
 Cuando, en virtud de la inspección y vigilancia que efectúe la Comisión Nacional Bancaria y de Valores, se encuentre que las operaciones de alguna sociedad financiera de objeto limitado no se ajustan a las disposiciones aplicables expedidas por la Secretaría de Hacienda y Crédito Público, el Banco de México o la Comisión Nacional Bancaria y de Valores, esta última dictará las medidas necesarias para normalizarlas y señalará un plazo para tal efecto que no excederá de noventa días naturales a partir de la notificación de dichas medidas. Si, transcurrido dicho plazo, la sociedad financiera de objeto limitado no ha regularizado las operaciones en cuestión, la Secretaría de Hacienda y Crédito Público podrá revocar la autorización.
 La revocación por las causales señaladas en los incisos a) a f) de la presente fracción pondrá en estado de disolución y liquidación a las sociedades financieras de objeto limitado en términos de las disposiciones de la Ley General de Sociedades Mercantiles.
+
 II. Acorde con lo previsto en el artículo octavo transitorio del Decreto citado en el primer párrafo de este Artículo, las sociedades financieras de objeto limitado en las que se mantengan vínculos patrimoniales, quedarán sujetas, en tanto conserven el carácter de sociedades financieras de objeto limitado, a lo que para las instituciones de crédito disponen los artículos 4, fracciones I a VI, y 6 de la Ley de la Comisión Nacional Bancaria y de Valores, y 24 Bis, 49, 50, 51, 65, 66, 67, 68, 69, 70, 73, 73 Bis, 73 Bis 1, 76, 93, 99, 101, 102, 115 y 115 Bis de la Ley de Instituciones de Crédito, así como las disposiciones que, al amparo del artículo 103 del mismo ordenamiento legal, hubieren expedido o expidan la Secretaría de Hacienda y Crédito Público y el Banco de México.
 Se entenderá por vínculo patrimonial, para efectos de las sociedades financieras de objeto limitado, lo establecido en el artículo 87-C de la Ley General de Organizaciones y Actividades Auxiliares del Crédito para las sociedades financieras de objeto múltiple.
+
 III. Las sociedades financieras de objeto limitado deberán presentar la información y documentación que, en el ámbito de sus respectivas competencias, les soliciten la Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional Bancaria y de Valores, dentro de los plazos y a través de los medios que las mismas establezcan.
 
 ### ARTÍCULO OCTAVO
@@ -4344,10 +5738,15 @@ Hasta en tanto el Banco de México expida las disposiciones de carácter general
 
 ### ARTÍCULO DÉCIMO CUARTO
 Se considerarán como parte del Sistema Bancario Mexicano, por lo que quedarán sujetos a la supervisión de la Comisión Nacional Bancaria y de Valores y les será aplicable la regulación señalada en el artículo 134 Bis 4 de la Ley de Instituciones de Crédito que se adiciona por virtud del presente Decreto, los fideicomisos públicos siguientes:
+
 I. Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura.
+
 II. Fondo de Garantía y Fomento para las Actividades Pesqueras.
+
 III. Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios.
+
 IV. Fondo Especial para Financiamientos Agropecuarios.
+
 V. Fondo de Operación y Financiamiento Bancario a la Vivienda.
 Sin perjuicio de lo anterior, hasta en tanto se realice la publicación prevista en el artículo 134 Bis 4 de la Ley de Instituciones de Crédito, se considerará como parte del Sistema Bancario Mexicano, al Fideicomiso Fondo Nacional de Habitaciones Populares y, en consecuencia, quedará sujeto a la supervisión y regulación de la propia Comisión a que se refiere dicha Ley.
 
@@ -4444,7 +5843,9 @@ Publicado en el Diario Oficial de la Federación el 25 de junio de 2009
 
 ### ARTÍCULO PRIMERO
 Se reforman los artículos; 94 Bis; 96 Bis; 98 Bis; 106, fracción XX; 107 Bis, primer párrafo y fracción VI; 109 Bis, último párrafo; 109 Bis 1, primero, cuarto y último párrafos; 109 Bis 2, primer párrafo y fracción I; 109 Bis 3; 109 Bis 5, segundo y último párrafos; 109 Bis 6; 109 Bis 8; 110,
-**primero.** , segundo y último párrafos; 110 Bis 1, tercero, cuarto y último párrafos; 119, último párrafo; 133; 134; 135 y 136 primer párrafo; se adicionan los artículos 48 Bis 5; 81 Bis; 108 Bis 2; y se deroga el inciso i) de la fracción IV del artículo 108, y 118-A de la Ley de Instituciones de Crédito, para quedar como sigue: ……….
+**primero.** , segundo y último párrafos; 110 Bis 1, tercero, cuarto y último párrafos; 119, último párrafo; 133; 134; 135 y 136 primer párrafo; se adicionan los artículos 48 Bis 5; 81 Bis; 108 Bis 2; y se deroga el inciso
+
+i) de la fracción IV del artículo 108, y 118-A de la Ley de Instituciones de Crédito, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
@@ -4534,15 +5935,24 @@ Se REFORMAN los artículos 48 Bis 5 y 68, tercer párrafo, de la Ley de Instituc
 
 ### ARTÍCULO QUINTO
 En relación con las modificaciones a que se refieren los Artículos Primero, Segundo, Tercero y Cuarto de este Decreto, se estará a lo siguiente:
+
 I. La Comisión Federal de Competencia Económica contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto para llevar a cabo una investigación sobre las condiciones de competencia en el sistema financiero y sus mercados, para lo cual deberá escuchar la opinión no vinculante de la Secretaría de Hacienda y Crédito Público. Como resultado de dicha investigación la Comisión Federal de Competencia Económica podrá, en su caso, formular recomendaciones a las autoridades financieras para mejorar la competencia en este sistema y sus mercados y ejercer las demás atribuciones que le confiere la Ley Federal de Competencia Económica a fin de evitar prácticas monopólicas, concentraciones y demás restricciones al funcionamiento eficiente de los mercados en este sistema, incluyendo, según corresponda, ordenar medidas para eliminar las barreras a la competencia y la libre concurrencia; ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos, y el resto de las medidas facultadas por la Constitución y la ley de la materia.
+
 II. Las obligaciones derivadas del presente Decreto a cargo de las Instituciones Financieras entrarán en vigor a los noventa días naturales siguientes a su entrada en vigor.
+
 III. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros para emitir las disposiciones de carácter general a que se refiere este Decreto, tendrá un plazo de trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Decreto.
+
 IV. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros contará con el plazo citado en el transitorio anterior para emitir los lineamientos a que se refiere el artículo 84 Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros y poner en funcionamiento el Sistema Arbitral en Materia Financiera.
+
 V. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros contará con un plazo de ciento ochenta días naturales para poner en funcionamiento el Buró de Entidades Financieras, contados a partir de la entrada en vigor del presente Decreto.
 Además de lo estipulado por el artículo 8o. Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros respecto a la información del Buró de Entidades Financieras; se deberá incluir como mínimo la información relacionada con reclamaciones, consultas, dictámenes, sanciones administrativas, así como, la eliminación o modificación de cláusulas abusivas, cuya identificación deberá ser por productos o servicios.
+
 VI. La Comisión Nacional Bancaria y de Valores, dentro de los cuarenta y cinco días naturales siguientes a partir de la entrada en vigor de este Decreto, establecerá un programa de identificación, revisión e inspección de las Redes de Medios de Disposición actualmente en operación.
+
 VII. La Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, emitirán las disposiciones de carácter general a que se refiere el artículo 4 Bis 3 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros dentro de los sesenta días naturales siguientes a partir de la entrada en vigor del presente Decreto. Al vencimiento de dicho plazo el Presidente de la Comisión Nacional Bancaria y de Valores, y el Gobernador del Banco de México, comparecerán conjuntamente ante la Cámara de Diputados para informar acerca del ejercicio de esta atribución, y deberán comparecer además a los seis y doce meses siguientes para informar respecto de la evolución del mercado de redes de disposición y respecto de la aplicación de las disposiciones antes referidas.
+
 VIII. El Banco de México emitirá las disposiciones de carácter general a que se refiere el artículo 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros dentro de los sesenta días naturales siguientes a partir de la entrada en vigor del presente Decreto.
+
 IX. La Cámara de Diputados procurará destinar recursos en el presupuesto de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros para el desarrollo de los diferentes programas de educación y cultura financiera que ejerza. ……… BANCA DE DESARROLLO
 
 ### ARTÍCULO DÉCIMO PRIMERO
@@ -4551,11 +5961,17 @@ Disposiciones Transitorias
 
 ### ARTÍCULO VIGÉSIMO PRIMERO
 En relación con las modificaciones a que se refieren los Artículos Undécimo, Duodécimo, Décimo Tercero, Décimo Cuarto, Décimo Quinto, Décimo Sexto, Décimo Séptimo, Décimo Octavo, Décimo Noveno y Vigésimo de este Decreto, se estará a lo siguiente:
+
 I. El Congreso de la Unión, al emitir las leyes reglamentarias a que se refiere el párrafo segundo del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de banca de desarrollo que sea acorde a su naturaleza y funciones, evite la duplicidad de mecanismos de supervisión vigilancia y contribuya a la eficiencia de dichas instituciones.
+
 II. A partir de la entrada en vigor de este Decreto, los trabajadores de confianza de las instituciones de banca de desarrollo quedarán excluidos de la aplicación de las condiciones generales de trabajo de la respectiva institución. Sin perjuicio de lo anterior, los derechos adquiridos de los trabajadores de confianza que se encuentren laborando en una institución de banca de desarrollo a la fecha de entrada en vigor de este Decreto, deberán ser respetados, previéndose lo conducente en los manuales de remuneraciones y jubilaciones a que se refiere el artículo 43 Bis de la Ley de Instituciones de Crédito, reformado en los términos del presente Decreto.
+
 III. En un plazo de sesenta días naturales siguientes a la entrada en vigor de este Decreto, las sociedades nacionales de crédito deberán extinguir el fideicomiso constituido en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.
+
 IV. Las funciones de banca social previstas en la reforma al artículo 3 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, se deberán implementar por la institución a partir del 1o de enero de 2014, por lo que en el PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2014 deberá preverse la asignación de recursos para fortalecer el patrimonio del Banco del Ahorro Nacional y Servicios Financieros a fin de que pueda cumplir su objeto como Banca Social.
+
 V. En un plazo de noventa días naturales, la Secretaría de Hacienda y Crédito Público realizará una evaluación de los subsidios, apoyos, programas, fondos, fideicomisos otorgados y administrados por las entidades de la Administración Pública Federal, con la finalidad diagnosticar la factibilidad de que sean canalizados a través de un nuevo sistema único de financiamiento y fomento agropecuario y rural.
+
 VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones jurídicas emitidas con anterioridad al presente Decreto, así como todos los contratos, convenios y demás actos jurídicos celebrados por la institución, hagan referencia a la Financiera Rural, se entenderá que hacen referencia a la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero. ……… LIQUIDACIÓN BANCARIA
 
 ### ARTÍCULO TRIGÉSIMO
@@ -4566,21 +5982,31 @@ Bis 3; el Capítulo II Bis “De los programas de autocorrección” al Título 
 
 ### ARTÍCULO TRIGÉSIMO
 QUINTO.- En relación con las modificaciones a que se refieren los Artículos Trigésimo Primero a Trigésimo Cuarto de este Decreto, se estará a lo siguiente:
+
 I. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
 En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
 II. En tanto la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores, el Banco de México y el Instituto para la Protección al Ahorro Bancario emitan las disposiciones de carácter general a que se refieren los artículos que reforma o adiciona el presente Decreto, seguirán aplicándose las emitidas con anterioridad a su entrada en vigor en lo que no se opongan a lo previsto en el mismo.
+
 III. Los procedimientos especiales de concurso mercantil de instituciones de banca múltiple que hubiesen sido iniciados con anterioridad a la entrada en vigor de este Decreto, continuarán rigiéndose por la Ley de Concursos Mercantiles, publicada en el Diario Oficial de la Federación el día 12 de mayo de 2000.
+
 IV. Las instituciones de banca múltiple contarán con un plazo de ciento veinte días a partir de la fecha de entrada en vigor del presente Decreto para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el mismo. Tratándose de la modificación de los estatutos sociales, éstos deberán someterse a la aprobación de la Comisión Nacional Bancaria y de Valores.
+
 V. Las instituciones de banca múltiple que a la fecha de entrada en vigor del presente Decreto se encuentren en procedimiento de liquidación o concurso mercantil podrán convenir con el Servicio de Administración y Enajenación de Bienes la sustitución de los deberes derivados de fideicomisos en términos del artículo 185 de la Ley de Instituciones de Crédito que por virtud del presente Decreto se reforma.
+
 VI. Las instituciones de banca múltiple deberán efectuar los actos corporativos necesarios para prever expresamente en sus estatutos sociales y en las acciones representativas de su capital social, lo dispuesto en los artículos 29 Bis 13 al 29 Bis 15 de la Ley de Instituciones de Crédito, dentro de un plazo máximo de sesenta días naturales, contado a partir de la entrada en vigor del presente Decreto.
+
 VII. Las instituciones de banca múltiple deberán prever en los contratos que celebren a partir de la entrada en vigor de este Decreto, así como en la demás documentación relativa, las restricciones señaladas en las fracciones IV) y V) del artículo 29 Bis 14 de la Ley de Instituciones de Crédito.
+
 VIII. Cuando las leyes, reglamentos, decretos, acuerdos u otros instrumentos jurídicos hagan mención al concurso mercantil o quiebra de instituciones de crédito, la referencia deberá entenderse hecha a los procedimientos previstos en el Título Séptimo, Capítulo II, Sección Segunda de la Ley de Instituciones de Crédito.
+
 IX. La reforma contenida en el presente Decreto al séptimo párrafo del artículo 73 Bis de la Ley de Instituciones de Crédito no será aplicable al monto de las operaciones o de créditos dispuestos a cargo de personas relacionadas, celebradas con anterioridad a la entrada en vigor de este mismo Decreto, hasta que se reestructuren o renueven.
 En razón de lo anterior, las instituciones de banca múltiple solo podrán celebrar con posterioridad a la entrada en vigor del presente Decreto operaciones a cargo de personas relacionadas por un monto que no exceda del porcentaje previsto por el séptimo párrafo del
 
 ### artículo 73
 Bis de la Ley de Instituciones de Crédito, una vez consideradas las operaciones referidas en el párrafo anterior.
 Lo dispuesto por el primer párrafo del presente artículo, solo aplicará respecto del importe que con anterioridad a la entrada en vigor del presente Decreto ya hubiere sido dispuesto por el acreditado, tratándose de préstamos o créditos revocables; o bien, a la totalidad del monto de dicho préstamo o crédito, en el caso de préstamos o créditos irrevocables celebrados con anterioridad a su entrada en vigor.
+
 X. La Junta de Gobierno del Instituto para la Protección al Ahorro Bancario expedirá las disposiciones de carácter general a que se refiere el artículo 22 de la Ley de Protección al Ahorro Bancario, dentro de un plazo que no podrá exceder de doce meses contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto se expidan dichas disposiciones, las Instituciones deberán seguir el procedimiento establecido en las disposiciones publicadas en el Diario Oficial de la Federación el 31 de mayo de 1999. ………
 
 ## TRANSITORIO

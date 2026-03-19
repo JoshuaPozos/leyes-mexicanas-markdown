@@ -116,6 +116,17 @@ TRANSITORIO_ORDINAL_RE = re.compile(
     rf'^((?:Artículo\s+)?{_ORDINALS_TC})\.?-?\.?\s*(.*)', re.IGNORECASE
 )
 
+# Fracciones con numerales romanos: I., II., XVI., XXIX., etc.
+FRACCION_ROMAN_RE = re.compile(r'^([IVXL]{1,7})\.\s')
+
+# Incisos: a), b), c), etc.
+INCISO_RE = re.compile(r'^[a-z]\)\s')
+
+
+def _is_roman_numeral(s: str) -> bool:
+    """Verifica si una cadena es un numeral romano válido (I-L)."""
+    return len(s) > 0 and bool(re.fullmatch(r'(?:XL|L?X{0,3})(?:IX|IV|V?I{0,3})', s))
+
 
 def is_section_heading(line: str) -> bool:
     """Detecta TÍTULO I, CAPÍTULO II, SECCIÓN III, etc. (sin IGNORECASE para evitar falsos positivos)."""
@@ -191,6 +202,24 @@ def _strip_running_header_inline(line: str, header: str) -> str:
     if not header or header not in line:
         return line
     return line.replace(header, ' ').strip()
+
+
+def _post_split_incisos(lines: list[str]) -> list[str]:
+    """Separa incisos a), b), c) que quedaron inline después de la unión de párrafos."""
+    result: list[str] = []
+    for line in lines:
+        if not line or line.startswith('#') or line.startswith('>') or line.startswith('---') or line.startswith('**'):
+            result.append(line)
+            continue
+        parts = re.split(r'(?<=[\.:])\s+(?=[a-z]\)\s)', line)
+        if len(parts) > 1:
+            for i, part in enumerate(parts):
+                result.append(part.strip())
+                if i < len(parts) - 1:
+                    result.append("")
+        else:
+            result.append(line)
+    return result
 
 
 # ---------------------------------------------------------------------------
@@ -301,6 +330,25 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
                 buffer = formatted
                 continue
 
+        # --- Fracciones romanas: I., II., III., XVI., etc. → nuevo párrafo ---
+        rm = FRACCION_ROMAN_RE.match(stripped)
+        if rm and _is_roman_numeral(rm.group(1)):
+            if buffer:
+                joined.append(buffer.strip())
+                joined.append("")
+                buffer = ""
+            buffer = stripped
+            continue
+
+        # --- Incisos: a), b), c), etc. → nuevo párrafo ---
+        if INCISO_RE.match(stripped):
+            if buffer:
+                joined.append(buffer.strip())
+                joined.append("")
+                buffer = ""
+            buffer = stripped
+            continue
+
         # Unión de líneas: guión al final → unir directamente
         if buffer.endswith('-'):
             buffer = buffer[:-1] + stripped
@@ -314,7 +362,9 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
     if buffer:
         joined.append(buffer.strip())
 
-    return meta_header + joined
+    # Post-proceso: separar incisos que quedaron inline
+    processed = _post_split_incisos(joined)
+    return meta_header + processed
 
 
 # ---------------------------------------------------------------------------

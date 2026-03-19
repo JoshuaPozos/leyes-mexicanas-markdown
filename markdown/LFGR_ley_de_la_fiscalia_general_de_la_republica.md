@@ -46,13 +46,22 @@ Para ello, el listado que envíe el Senado de la República al Ejecutivo Federal
 
 ### Artículo 9
 . Para los efectos de esta Ley se entenderá por:
+
 I. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
+
 II. Código Nacional: El Código Nacional de Procedimientos Penales;
+
 III. Estatuto orgánico: El Estatuto Orgánico de la Fiscalía General de la República;
+
 IV. Fiscalía General: La Fiscalía General de la República;
+
 V. Fiscal General: La persona titular de la Fiscalía General de la República;
+
 VI. Ley: Ley de la Fiscalía General de la República;
-VII. Ministerio Público: El Ministerio Público de la Federación, y VIII. Policías: Las personas agentes de la Policía Federal Ministerial, así como aquellas que pertenezcan a las instituciones de seguridad pública del fuero federal o común, incluida la Guardia Nacional, que en el ámbito de sus respectivas competencias actúen bajo el mando y conducción del Ministerio Público, en la investigación de delitos de su competencia.
+
+VII. Ministerio Público: El Ministerio Público de la Federación, y
+
+VIII. Policías: Las personas agentes de la Policía Federal Ministerial, así como aquellas que pertenezcan a las instituciones de seguridad pública del fuero federal o común, incluida la Guardia Nacional, que en el ámbito de sus respectivas competencias actúen bajo el mando y conducción del Ministerio Público, en la investigación de delitos de su competencia.
 
 ## TÍTULO II
 ESTRUCTURA ORGÁNICA
@@ -62,18 +71,32 @@ FACULTADES DE LA FISCALÍA GENERAL
 
 ### Artículo 10
 . Corresponde a la Fiscalía General:
+
 I. Coordinarse, para el cumplimiento de la acción penal con absoluto respeto a su autonomía, con otras autoridades en los temas de seguridad pública de conformidad con el Sistema Nacional de Seguridad Pública a que refiere el artículo 21 de la Constitución;
+
 II. Formar parte del Sistema Nacional de Seguridad Pública como entidad autónoma;
+
 III. Remitir al Congreso de la Unión la postura institucional mediante una opinión técnica jurídica sobre las iniciativas de ley, de reformas constitucionales y legales en el ámbito de su competencia presentadas por la persona titular del Ejecutivo Federal y en las Cámaras del Congreso de la Unión;
+
 IV. Formar y actualizar a las personas servidoras públicas para la investigación y persecución de los delitos en las materias que sean de su competencia, así como implementar un servicio profesional de carrera de las personas agentes del Ministerio Público de la Federación, personas policías federales ministeriales, personas peritas, personas analistas y personas facilitadoras;
+
 V. Implementar un sistema institucional de evaluación de resultados, a través del establecimiento de indicadores que sirvan para evaluar su desempeño para mejorar sus resultados;
+
 VI. Crear y administrar las bases nacionales de información en el ámbito de su competencia;
+
 VII. Establecer medios de información sistemática y directa a la sociedad, para dar cuenta de sus actividades. Para efectos del acceso a la información pública, la Fiscalía General se regirá bajo el principio de máxima publicidad en los términos de la Constitución, no obstante, se reservará la información cuya divulgación pueda poner en riesgo la seguridad de las personas que intervienen en un procedimiento penal o las investigaciones que realice la persona agente del Ministerio Público de la Federación y mantendrá la confidencialidad de los datos personales, en los términos que disponga el Código Nacional, otras disposiciones aplicables y la presente Ley;
+
 VIII. Hacer del conocimiento de la sociedad los instrumentos jurídicos a que refiere la presente Ley, los que serán publicados gratuitamente en el Diario Oficial de la Federación;
+
 IX. Llevar a cabo todos los actos que deriven de las disposiciones aplicables para la constitución y administración de fondos en el ámbito de su competencia;
+
 X. Desarrollar los mecanismos necesarios de comunicación y colaboración con agencias de policía internacional para la investigación de los hechos que la ley señala como delito de conformidad con lo previsto en la Constitución y los tratados internacionales;
+
 XI. Desarrollar e instrumentar un sistema de medidas de protección para las personas servidoras públicas de la Institución;
-XII. Participar como entidad autónoma en el Mecanismo de Apoyo Exterior, previsto por la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y mantener comunicación continua y permanente con éste, para coadyuvar en la investigación y persecución de delitos, a través de las Fiscalías Especializadas, fiscalías o unidades competentes; así como garantizar los derechos reconocidos por el orden jurídico nacional en favor de las personas víctimas y personas ofendidas para recibir, recabar y proporcionar información sobre las acciones de investigación y persecución de los delitos cometidos en contra de personas migrantes, y XIII. Las demás que prevean otras disposiciones jurídicas aplicables.
+
+XII. Participar como entidad autónoma en el Mecanismo de Apoyo Exterior, previsto por la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y mantener comunicación continua y permanente con éste, para coadyuvar en la investigación y persecución de delitos, a través de las Fiscalías Especializadas, fiscalías o unidades competentes; así como garantizar los derechos reconocidos por el orden jurídico nacional en favor de las personas víctimas y personas ofendidas para recibir, recabar y proporcionar información sobre las acciones de investigación y persecución de los delitos cometidos en contra de personas migrantes, y
+
+XIII. Las demás que prevean otras disposiciones jurídicas aplicables.
 La Fiscalía General contará con todas aquellas unidades que le permitan cumplir con sus facultades y obligaciones constitucionales.
 
 ## CAPÍTULO II
@@ -81,44 +104,96 @@ ESTRUCTURA DE LA FISCALÍA GENERAL
 
 ### Artículo 11
 . La Fiscalía General, para el ejercicio de sus facultades, estará integrada por:
+
 I. La persona titular de la Fiscalía General;
+
 II. La Fiscalía Especializada de Control Competencial;
+
 III. La Fiscalía Especializada de Control Regional;
+
 IV. La Fiscalía Especializada en materia de Delincuencia Organizada;
+
 V. La Fiscalía Especializada en materia de Delitos Electorales;
+
 VI. La Fiscalía Especializada en materia de Combate a la Corrupción;
+
 VII. La Fiscalía Especializada en materia de Derechos Humanos;
+
 VIII. La Fiscalía Especializada en Delitos de Violencia Contra las Mujeres y Trata de Personas;
+
 IX. La Fiscalía Especializada de Asuntos Internos;
+
 X. La Agencia de Investigación Criminal;
+
 XI. El Órgano Especializado de Mecanismos Alternativos de Solución de Controversias;
+
 XII. La Oficialía Mayor;
+
 XIII. El Órgano Interno de Control;
-XIV. Las demás unidades administrativas y fiscalías creadas por mandato legal, y XV. Las que se determinen en el Estatuto orgánico.
+
+XIV. Las demás unidades administrativas y fiscalías creadas por mandato legal, y
+
+XV. Las que se determinen en el Estatuto orgánico.
 
 ### Artículo 12
 . Las personas titulares de las Fiscalías Especializadas previstas en el artículo 11 de esta Ley, tendrán las siguientes facultades:
+
 I. Organizar, coordinar, planear, programar, ejecutar, administrar, dirigir, controlar, distribuir y dar seguimiento a las actividades del personal adscrito a la Fiscalía Especializada y de las unidades administrativas que les estén adscritas, conforme a lo previsto en la presente Ley, las leyes aplicables y el Estatuto orgánico;
+
 II. Ejercer y supervisar de forma directa o a través de las personas titulares de las unidades administrativas que le están adscritas, las facultades que les correspondan;
+
 III. Originar mecanismos de coordinación y colaboración con las instancias públicas o privadas que se requieran para el ejercicio de sus funciones;
+
 IV. Participar en estrategias de coordinación internacional con las instancias homólogas o que resulten pertinentes para el ejercicio de sus funciones atendiendo, en su caso, a los acuerdos que se generen con la Secretaría de Relaciones Exteriores, en términos de las disposiciones jurídicas aplicables;
+
 V. Celebrar y emitir los instrumentos jurídicos necesarios para el desempeño de sus funciones;
+
 VI. Presentar un informe público anual sobre los avances y resultados de su gestión, dichos informes deben ser añadidos al informe que la persona titular de la Fiscalía General de la República presentará ante el Congreso;
+
 VII. Tomar medidas que privilegien la integridad y no fragmentación de la investigación y el ejercicio de la acción penal, aún en aquellas investigaciones que versen sobre delincuencia organizada;
+
 VIII. Las personas titulares de las Fiscalías Especializadas implementarán medidas y estrategias de coordinación con las fiscalías y procuradurías de los estados, en el ámbito de su competencia, así como con los sistemas, unidades, mecanismos y otras instancias especializadas creadas por las leyes especiales, tratados internacionales y demás ordenamientos vinculados con su competencia, a efecto de facilitar el ejercicio de su mandato.
-Las medidas de articulación y colaboración comprenderán acciones tales como: a) El intercambio de información; b) La designación de enlaces; c) La realización de mesas de trabajo y encuentros en los que participen, inclusive, organizaciones de personas víctimas, de la sociedad civil especializadas y organismos internacionales; d) Facilitar el contacto entre los mecanismos especializados y las personas vinculadas a las investigaciones de su competencia; e) Representar a la Fiscalía General ante los mecanismos e instancias especializadas, relacionados con los asuntos de su competencia; f) Las relaciones de colaboración entre las Fiscalías Especializadas y los mecanismos creados por leyes especiales serán revestidas de flexibilidad y de formalidad mínima, a efecto de no obstaculizar, complicar ni dilatar las mismas, y g) Las demás que se establezcan en el Estatuto orgánico o por acuerdo de la persona titular de la Fiscalía General, y IX. Las demás que establezcan la Constitución y las leyes aplicables para el cumplimiento de sus funciones.
+Las medidas de articulación y colaboración comprenderán acciones tales como:
+
+a) El intercambio de información;
+
+b) La designación de enlaces;
+
+c) La realización de mesas de trabajo y encuentros en los que participen, inclusive, organizaciones de personas víctimas, de la sociedad civil especializadas y organismos internacionales;
+
+d) Facilitar el contacto entre los mecanismos especializados y las personas vinculadas a las investigaciones de su competencia;
+
+e) Representar a la Fiscalía General ante los mecanismos e instancias especializadas, relacionados con los asuntos de su competencia;
+
+f) Las relaciones de colaboración entre las Fiscalías Especializadas y los mecanismos creados por leyes especiales serán revestidas de flexibilidad y de formalidad mínima, a efecto de no obstaculizar, complicar ni dilatar las mismas, y
+
+g) Las demás que se establezcan en el Estatuto orgánico o por acuerdo de la persona titular de la Fiscalía General, y
+
+IX. Las demás que establezcan la Constitución y las leyes aplicables para el cumplimiento de sus funciones.
 
 ### Artículo 13
 . Las Fiscalías Especializadas adscritas a la Fiscalía General, gozarán de autonomía técnica y de gestión, en el ámbito de su competencia y tendrán, sin perjuicio de las facultades que se les concedan, deleguen o, en su caso, se desarrollen en el Estatuto orgánico, las siguientes:
+
 I. A la Fiscalía Especializada de Control Competencial, la investigación y persecución de delitos previstos en las leyes especiales que no sean competencia de otra unidad administrativa de la Institución; de resolver las controversias competenciales entre las diversas Fiscalías Especializadas; y de atender, previo acuerdo con la persona titular de la Fiscalía General, los asuntos relevantes que le encomiende, procurará en todos los casos la no fragmentación de las investigaciones;
+
 II. A la Fiscalía Especializada de Control Regional, la investigación y persecución de los delitos federales que no sean competencia de otra unidad administrativa de la Institución, así como de la coordinación y articulación de las unidades administrativas de la Fiscalía General que ejerzan sus funciones en las circunscripciones territoriales o regionales, garantizará la unidad de actuación, la coordinación institucional y la eficiencia del Ministerio Público;
+
 III. A la Fiscalía Especializada en materia de Delincuencia Organizada, que será la unidad especializada a que se refiere el artículo 8 de la Ley Federal contra la Delincuencia Organizada, las facultades que dicho ordenamiento le confiere;
+
 IV. A la Fiscalía Especializada en materia de Delitos Electorales, la investigación y persecución de los delitos establecidos en la Ley General en Materia de Delitos Electorales y en cualquier otro ordenamiento legal en la materia;
+
 V. A la Fiscalía Especializada en materia de Combate a la Corrupción, la investigación y persecución de los delitos contenidos en el Título Décimo del Libro Segundo del Código Penal Federal;
+
 VI. A la Fiscalía Especializada en materia de Derechos Humanos, la investigación y persecución de los delitos del orden federal previstos en: la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas; y de conocer de los delitos cometidos contra algún periodista, persona o instalación que dolosamente afecten, limiten o menoscaben el derecho a la información o a la libertad de expresión; de delitos derivados de asuntos de violaciones o violaciones graves a derechos humanos denunciados por la Comisión Nacional de los Derechos Humanos; de los delitos del orden federal en los que el sujeto pasivo o activo del mismo sea una persona migrante y, en ejercicio de la facultad de atracción, cuando se trate de un asunto de trascendencia social, la cual deberá ejercerse obligatoriamente cuando exista una declaración de violaciones graves a derechos humanos; de los delitos del orden federal en los que se encuentren involucradas personas pertenecientes a pueblos y comunidades indígenas o afromexicanas y, en ejercicio de la facultad de atracción, cuando se trate de un asunto de trascendencia social; así como de intervenir con las unidades administrativas de la Institución en el trámite y seguimiento de las Quejas, Conciliaciones y Recomendaciones de la Comisión Nacional de los Derechos Humanos. Asimismo, brindar atención a las víctimas u ofendidos del delito y facilitar el acceso de la comunidad a los servicios requeridos por ésta, en el ámbito de competencia de la Fiscalía General, promoviendo acciones de coordinación con dependencias y entidades federales, estatales y municipales;
-Fracción reformada DOF 01-04-2024 VII. A la Fiscalía Especializada en Delitos de Violencia Contra las Mujeres y Trata de Personas, la investigación y persecución de los delitos del orden federal previstos en: el Código Penal Federal, relativos a hechos de violencia contra las mujeres por su condición de género y a los cometidos contra niñas, niños y adolescentes que sean competencia de la Federación; y en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+Fracción reformada DOF 01-04-2024
+
+VII. A la Fiscalía Especializada en Delitos de Violencia Contra las Mujeres y Trata de Personas, la investigación y persecución de los delitos del orden federal previstos en: el Código Penal Federal, relativos a hechos de violencia contra las mujeres por su condición de género y a los cometidos contra niñas, niños y adolescentes que sean competencia de la Federación; y en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+
 VIII. A la Fiscalía Especializada de Asuntos Internos, las investigaciones y el ejercicio de la acción penal en delitos cometidos por personal adscrito a los órganos sustantivos y administrativos de la Institución; del registro, seguimiento, canalización y atención de los asuntos para su adecuado desahogo a través de la ventanilla única, así como de la realización y desarrollo de visitas de supervisión, investigación, revisión y control, de la actuación de las personas agentes del Ministerio Público de la Federación, personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas, personas facilitadoras, personas técnicas y en general de las personas servidoras públicas de la Fiscalía General, de conformidad con los lineamientos técnico-jurídicos que emita, previo acuerdo con el Fiscal General;
-IX. Las Fiscalías Especializadas tomarán medidas que privilegien la integridad y no fragmentación de los asuntos de su competencia, y X. Cuando sea estrictamente necesario, para evitar la fragmentación de las investigaciones de su competencia, las Fiscalías Especializadas podrán conocer de los delitos que hayan sido cometidos por miembros de la delincuencia organizada. En estos casos, estarán facultadas para aplicar de manera excepcional las disposiciones de la Ley Federal contra la Delincuencia Organizada, y ejercer las facultades y técnicas de investigación que correspondan.
+
+IX. Las Fiscalías Especializadas tomarán medidas que privilegien la integridad y no fragmentación de los asuntos de su competencia, y
+
+X. Cuando sea estrictamente necesario, para evitar la fragmentación de las investigaciones de su competencia, las Fiscalías Especializadas podrán conocer de los delitos que hayan sido cometidos por miembros de la delincuencia organizada. En estos casos, estarán facultadas para aplicar de manera excepcional las disposiciones de la Ley Federal contra la Delincuencia Organizada, y ejercer las facultades y técnicas de investigación que correspondan.
 
 ### Artículo 14
 . La Agencia de Investigación Criminal, sin perjuicio de las facultades que se establezcan y desarrollen en el Estatuto orgánico, será la encargada de llevar a cabo la operación, investigación e inteligencia para la investigación y persecución de los delitos, así como de coordinar y asignar personas agentes de la Policía Federal Ministerial, personas peritas y personas analistas para el desarrollo de las investigaciones que formen parte de la Fiscalía General.
@@ -141,82 +216,160 @@ DE LA PERSONA TITULAR DE LA FISCALÍA GENERAL
 . La estructura de la Fiscalía General estará sujeta a la autoridad jerárquica del Fiscal General, quien ejercerá ésta sobre el personal de las fiscalías, unidades y áreas que la integran y garantizará la independencia y autonomía de las funciones del Ministerio Público.
 El nombramiento de la persona titular de la Fiscalía General se sujetará al procedimiento y requisitos previstos en el artículo 102, Apartado A, de la Constitución en el que se promoverán los principios de transparencia, publicidad, mérito, participación ciudadana, e igualdad y no discriminación.
 Quienes aspiren a ocupar la titularidad de la Fiscalía General de la República deberán cumplir, como mínimo, los siguientes requisitos de elegibilidad:
+
 I. Contar con la ciudadanía mexicana por nacimiento;
+
 II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+
 III. Contar, con una antigüedad mínima de diez años, con título profesional de licenciatura en derecho;
-IV. Gozar de buena reputación, y V. No haber recibido sentencia condenatoria por delito doloso.
+
+IV. Gozar de buena reputación, y
+
+V. No haber recibido sentencia condenatoria por delito doloso.
 El nombramiento deberá recaer en aquella persona que haya servido con eficiencia, capacidad y probidad en la procuración o impartición de justicia, o que se haya distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 La buena reputación, a la que se refiere el artículo 102, Apartado A, de la Constitución, está compuesta por dos elementos:
-I. El Objetivo que se refiere a la calidad profesional relevante, trayectoria en el servicio público o en ejercicio de la actividad jurídica, y II. El Subjetivo que se refiere a la honorabilidad, alta calidad técnica, compromiso con valores democráticos, independencia y reconocimiento social.
+
+I. El Objetivo que se refiere a la calidad profesional relevante, trayectoria en el servicio público o en ejercicio de la actividad jurídica, y
+
+II. El Subjetivo que se refiere a la honorabilidad, alta calidad técnica, compromiso con valores democráticos, independencia y reconocimiento social.
 
 ## CAPÍTULO IV
 DE LAS FACULTADES Y LAS OBLIGACIONES DE LA PERSONA TITULAR DE LA FISCALÍA GENERAL
 
 ### Artículo 19
 . Son facultades de la persona titular de la Fiscalía General:
+
 I. Dirigir y coordinar la política general de la Fiscalía General;
+
 II. Vigilar y evaluar la operación de las unidades administrativas que integran la Fiscalía General;
+
 III. Expedir el Estatuto orgánico y los demás acuerdos, circulares e instrumentos necesarios para la organización y funcionamiento de la Fiscalía General;
+
 IV. Determinar la organización y funcionamiento de la Fiscalía General, creando las unidades administrativas que se requieran y adscribirlas orgánicamente;
+
 V. Instruir el mecanismo para establecer las circunscripciones territoriales o regiones, la adscripción de las unidades administrativas, así como sus atribuciones y su integración, atendiendo a las necesidades del servicio y las cargas de trabajo de conformidad con lo previsto en el Plan Estratégico de Procuración de Justicia;
+
 VI. Establecer o delegar facultades en las personas servidoras públicas de la Institución, según sea el caso, mediante disposiciones de carácter general o especial, sin perder la posibilidad de su ejercicio directo, salvo aquéllas que las leyes señalen como indelegables;
+
 VII. Instruir la integración de unidades o equipos especiales para la investigación de casos;
+
 VIII. Nombrar y remover a las personas titulares de las Fiscalías Especializadas, fiscalías o unidades administrativas de la Institución, salvo aquellas para las que la Constitución establece un procedimiento de nombramiento o remoción.
 En este caso, cualquier persona de ciudadanía mexicana podrá aportar información fidedigna y relevante para el nombramiento de las personas titulares de Fiscalías Especializadas;
+
 IX. Emitir los estatutos, acuerdos, protocolos, lineamientos, circulares, instructivos, bases, criterios, el manual de organización y procedimientos de la Fiscalía General, y demás disposiciones administrativas generales necesarias para el ejercicio de las facultades a cargo de las personas agentes del Ministerio Público de la Federación y de las personas servidoras públicas de la Fiscalía General;
+
 X. Presidir la Junta de Gobierno del Instituto Nacional de Ciencias Penales;
+
 XI. Nombrar a la persona titular del Instituto Nacional de Ciencias Penales;
+
 XII. Representar a la Fiscalía General en las relaciones institucionales con autoridades federales y con los gobiernos de las entidades federativas y municipios, organismos públicos autónomos, así como órganos gubernamentales extranjeros u organismos internacionales;
+
 XIII. Presidir la Conferencia Nacional de Procuración de Justicia;
+
 XIV. Participar con absoluto respeto a su autonomía en las instancias de coordinación del Sistema Nacional de Seguridad Pública o de cualquier otro sistema u órgano colegiado donde las leyes prevean su participación, que sean compatibles con la naturaleza y atribuciones constitucionales de la Fiscalía General;
+
 XV. Celebrar acuerdos, bases de colaboración, convenios y demás instrumentos jurídicos con autoridades federales y con los gobiernos de las entidades federativas y de los municipios, órganos públicos autónomos, así como con organizaciones de los sectores social y privado, en el ámbito de su competencia;
+
 XVI. Celebrar acuerdos interinstitucionales vinculados con los fines de la Fiscalía General con órganos gubernamentales extranjeros u organismos internacionales, en términos de lo dispuesto en la Ley sobre la Celebración de Tratados y demás disposiciones aplicables;
+
 XVII. Celebrar los convenios de colaboración para el adecuado funcionamiento del Mecanismo de Apoyo Exterior, en cumplimiento a los fines institucionales;
+
 XVIII. Proponer y promover ante la persona titular del Ejecutivo Federal la suscripción de convenios, tratados, declaraciones o acuerdos internacionales en el ámbito de su competencia, y vinculados con los fines institucionales;
+
 XIX. Ejercer la facultad de atracción en los términos que la Constitución y las leyes prevean;
+
 XX. Determinar las políticas para la investigación y persecución penal en el ámbito federal;
+
 XXI. Emitir las políticas y disposiciones generales para la aplicación de los criterios de oportunidad y del procedimiento abreviado, y autorizar su aplicación en los términos que prevea el Código Nacional;
+
 XXII. Solicitar al órgano jurisdiccional federal competente la autorización para practicar la intervención de las comunicaciones privadas, en los términos de las disposiciones aplicables;
+
 XXIII. Solicitar y recibir de las personas concesionarias de telecomunicaciones, así como de las personas autorizadas y personas proveedoras de servicios de aplicación y contenido, la localización geográfica en tiempo real de los equipos de comunicación móvil y los datos conservados, en los términos de las disposiciones aplicables;
+
 XXIV. Emitir los protocolos que regulen las técnicas de investigación, de entrega vigilada y las operaciones encubiertas;
+
 XXV. Autorizar la infiltración de personas agentes de la Policía Federal Ministerial para investigaciones, así como los actos de entrega vigilada y las operaciones encubiertas previstos en la ley y en los tratados internacionales ratificados por el Estado mexicano;
+
 XXVI. Ordenar la implementación de los bancos de datos y sistemas de información para la generación de inteligencia necesaria a efecto de dar cumplimiento a las atribuciones constitucionales de la Fiscalía General y del Ministerio Público;
+
 XXVII. Autorizar a la persona agente del Ministerio Público de la Federación solicitar a la autoridad judicial la cancelación de las órdenes de aprehensión, reaprehensión o comparecencia, en los términos que disponga el Código Nacional;
+
 XXVIII. Autorizar el no ejercicio de la acción penal o, en su caso, el desistimiento de la misma, en los términos que disponga el Código Nacional;
+
 XXIX. Autorizar a la persona agente del Ministerio Público de la Federación para que solicite al órgano jurisdiccional la sustitución de la prisión preventiva oficiosa por otra medida cautelar en los términos y forma que prevea el Código Nacional;
+
 XXX. Autorizar la publicación del Plan Estratégico de Procuración de Justicia de conformidad con lo dispuesto en la presente Ley, los criterios generales y prioridades en la investigación de los delitos, así como en el ejercicio de la acción penal y de extinción de dominio;
+
 XXXI. Coordinar a las unidades y órganos de la Fiscalía General en el suministro de información y asegurar su consolidación, consistencia, oportunidad, y confiabilidad para los fines de formulación de la política de persecución penal que establecerá el Plan Estratégico de Procuración de Justicia;
+
 XXXII. Poner a consideración de las Cámaras del Congreso de la Unión proyectos de iniciativas de ley o de reformas constitucionales y legales que estén vinculadas con las materias que sean competencia de la Fiscalía General;
+
 XXXIII. Vigilar, en representación de la sociedad, la observancia de la constitucionalidad y legalidad de las normas generales, actos u omisiones de la autoridad, en términos de lo dispuesto en los artículos 103, 105 y 107 de la Constitución y sus leyes reglamentarias.
 En ejercicio de esta facultad intervendrá por sí o por conducto de las personas agentes del Ministerio Público de la Federación que al efecto designe, en términos de lo establecido por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
 XXXIV. Denunciar la contradicción de criterios en términos de lo dispuesto en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en asuntos en materia penal y procesal penal, así como en los relacionados con el ámbito de sus funciones;
+
 XXXV. Tener a su cargo la Unidad Especial de Género y Violencia Contra la Mujer, que tendrá como objetivo la institucionalización de la perspectiva y transversalidad de género en todas las áreas de la Fiscalía, a través de la incorporación del enfoque de igualdad y no discriminación a la cultura institucional a través del diseño, planeación, presupuesto, ejecución y evaluación de las políticas de la Fiscalía y será responsable de coordinar y gestionar acciones con todas las áreas de la Fiscalía General de la República, para incorporar en su actuación, los principios rectores de la igualdad sustantiva y de oportunidades entre mujeres y hombres;
-XXXVI. Promover las controversias constitucionales cuando: a) Se suscite un conflicto con otro órgano constitucional autónomo o con los Poderes Ejecutivo o Legislativo de la Unión, sobre la constitucionalidad de sus actos o disposiciones generales, y b) En su carácter de parte permanente en su caso, formulará opinión en los juicios de controversia constitucional, así como en los juicios sobre el cumplimiento de convenios de coordinación fiscal o los derivados de la Ley de Planeación cuando el asunto, a su juicio, así lo amerite;
-XXXVII. Promover las acciones de inconstitucionalidad, en los siguientes supuestos: a) Respecto de leyes federales y de las entidades federativas, en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones, en términos de la ley de la materia, y b) Para formular el pedimento que corresponda, en las acciones de inconstitucionalidad promovidas por otros sujetos legitimados;
-XXXVIII. Solicitar a la Suprema Corte de Justicia de la Nación que ejerza la facultad de atracción para conocer de: a) Los recursos de apelación en contra de sentencias de órganos jurisdiccionales competentes en los juicios en que intervenga el Ministerio Público y que por su interés y trascendencia así lo ameriten, y b) Los amparos directos o en revisión, así como en el caso de los demás recursos e incidentes previstos en la ley de la materia que revistan las características de interés y trascendencia, conforme a lo dispuesto en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
+XXXVI. Promover las controversias constitucionales cuando:
+
+a) Se suscite un conflicto con otro órgano constitucional autónomo o con los Poderes Ejecutivo o Legislativo de la Unión, sobre la constitucionalidad de sus actos o disposiciones generales, y
+
+b) En su carácter de parte permanente en su caso, formulará opinión en los juicios de controversia constitucional, así como en los juicios sobre el cumplimiento de convenios de coordinación fiscal o los derivados de la Ley de Planeación cuando el asunto, a su juicio, así lo amerite;
+
+XXXVII. Promover las acciones de inconstitucionalidad, en los siguientes supuestos:
+
+a) Respecto de leyes federales y de las entidades federativas, en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones, en términos de la ley de la materia, y
+
+b) Para formular el pedimento que corresponda, en las acciones de inconstitucionalidad promovidas por otros sujetos legitimados;
+
+XXXVIII. Solicitar a la Suprema Corte de Justicia de la Nación que ejerza la facultad de atracción para conocer de:
+
+a) Los recursos de apelación en contra de sentencias de órganos jurisdiccionales competentes en los juicios en que intervenga el Ministerio Público y que por su interés y trascendencia así lo ameriten, y
+
+b) Los amparos directos o en revisión, así como en el caso de los demás recursos e incidentes previstos en la ley de la materia que revistan las características de interés y trascendencia, conforme a lo dispuesto en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
 XXXIX. Promover acciones colectivas;
+
 XL. Aprobar el proyecto de Presupuesto de Egresos de la Fiscalía General;
+
 XLI. Presentar a la Secretaría de Hacienda y Crédito Público el Presupuesto de Egresos de la Fiscalía General, de conformidad con las disposiciones jurídicas aplicables;
+
 XLII. Emitir las disposiciones normativas relativas a obra pública, administración, adquisición, control, arrendamiento, enajenación de bienes y contratación de servicios, así como en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos federales que formen parte de su patrimonio, en términos de lo previsto en la legislación aplicable;
+
 XLIII. Establecer los criterios generales en materia de recursos humanos, condiciones generales de trabajo, así como para la fijación de los tabuladores y remuneraciones de las personas servidoras públicas de la Fiscalía General en términos de la legislación aplicable;
+
 XLIV. Otorgar estímulos por productividad o desempeño a las personas servidoras públicas, así como en los términos de la Ley de Premios, Estímulos y Recompensas Civiles;
+
 XLV. Designar de manera especial, cuando las necesidades de la función lo requieran, a las personas agentes del Ministerio Público de la Federación, personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas y personas facilitadoras;
+
 XLVI. Aprobar e implementar protocolos de actuación para la investigación de delitos con perspectivas de derechos humanos, género y protección integral de los derechos de la niñez;
+
 XLVII. Diseñar estrategias para lograr la efectiva reparación del daño a las personas víctimas del delito, así como para brindarles apoyo integral en coordinación con las autoridades competentes en la materia;
+
 XLVIII. Crear comisiones especiales, de carácter temporal que gozarán de autonomía técnica y de gestión, para colaborar en las investigaciones de fenómenos delictivos de orden federal, que debido a su contexto, a juicio de la persona titular de la Fiscalía General, amerite su creación, entre los que se incluyan aquellos que atenten contra la dignidad humana o grupos de personas por razones de origen o pertenencia a grupos étnicos o nacionales, raza, discapacidad, lengua, género, sexo, identidad o preferencia sexuales o condición de género, edad, estado civil, condición educativa, social o económica, condición de salud, embarazo, creencias religiosas, opiniones políticas o de cualquier otra similar.
 Las Comisiones Especiales tendrán como enfoque el acceso a la verdad, la justicia, la reparación integral y la garantía de no repetición;
+
 XLIX. Participar en el sistema de atención a las personas víctimas y personas ofendidas por la comisión de delitos competencia de la Fiscalía General, así como los demás sistemas nacionales que establezcan las leyes que determinen su participación;
-L. Instruir el otorgamiento de recompensas en numerario, en un sólo pago o en exhibiciones periódicas, a aquellas personas que aporten información útil relacionada con las investigaciones que se realicen, así como a aquéllas que colaboren en la localización y detención de personas imputadas por la comisión de hechos que la ley señala como delito, en los términos y condiciones que se determinen en el Estatuto orgánico, y LI. Las demás que prevean otras leyes, las cuales deberán ser compatibles con las atribuciones constitucionales de la Fiscalía General.
+
+L. Instruir el otorgamiento de recompensas en numerario, en un sólo pago o en exhibiciones periódicas, a aquellas personas que aporten información útil relacionada con las investigaciones que se realicen, así como a aquéllas que colaboren en la localización y detención de personas imputadas por la comisión de hechos que la ley señala como delito, en los términos y condiciones que se determinen en el Estatuto orgánico, y
+
+LI. Las demás que prevean otras leyes, las cuales deberán ser compatibles con las atribuciones constitucionales de la Fiscalía General.
 La persona titular de la Fiscalía General ejercerá sus facultades por sí o por conducto de las personas titulares de las Fiscalías Especializadas, fiscalías o unidades administrativas de la Institución.
 
 ### Artículo 20
 . Son atribuciones indelegables de la persona titular de la Fiscalía General:
+
 I. Las previstas en las fracciones I, III, IV, VI, IX, XI, XVI, XVIII, XXX, XXXII, XXXVI, inciso a), XXXVII, inciso a), XXXVIII, XL y XLVIII del artículo precedente;
+
 II. Comparecer ante cualquiera de las Cámaras del Congreso de la Unión en los casos y bajo las condiciones que establecen los artículos 93, segundo párrafo y 102, Apartado A, párrafo séptimo, de la Constitución, de conformidad con lo dispuesto en esta Ley;
+
 III. Remitir anualmente, en la apertura del segundo periodo ordinario de sesiones del Congreso de la Unión, a las Cámaras de Senadores y Diputados y a la persona titular del Ejecutivo Federal el informe de actividades a que se refiere el artículo 102, Apartado A, párrafo séptimo, de la Constitución.
 El Senado de la República podrá solicitar a la persona titular de la Fiscalía General, dentro de los quince días naturales siguientes a la presentación del informe, datos adicionales, los cuales deberán remitirse dentro de los quince días naturales siguientes a la fecha de la notificación del requerimiento.
 El Senado de la República tendrá máximo sesenta días naturales para la emisión del dictamen correspondiente sobre el informe, en caso de que esto no suceda en el plazo estipulado, se enlistará para su presentación y votación en el pleno en la primera sesión después de haber fenecido el plazo.
-El informe anual deberá incluir los ejercicios o desistimientos de la acción penal y de la acción de extinción de dominio; asuntos remitidos al archivo temporal; la abstención de investigar, la aplicación de criterios de oportunidad, y las solicitudes de suspensión condicional del proceso, y IV. Las demás que se prevean, con tal carácter, en otras disposiciones legales aplicables en el ámbito de las atribuciones constitucionales de la persona titular de la Fiscalía General.
+El informe anual deberá incluir los ejercicios o desistimientos de la acción penal y de la acción de extinción de dominio; asuntos remitidos al archivo temporal; la abstención de investigar, la aplicación de criterios de oportunidad, y las solicitudes de suspensión condicional del proceso, y
+
+IV. Las demás que se prevean, con tal carácter, en otras disposiciones legales aplicables en el ámbito de las atribuciones constitucionales de la persona titular de la Fiscalía General.
 En los supuestos anteriores, en el caso de registros de investigación estrictamente reservados en términos del artículo 218 del Código Nacional se aplicará lo que señala dicha legislación; información o datos que pongan en riesgo alguna investigación o proceso penal; o, se encuentre sujeta a reserva, secreto o confidencialidad, las personas que reciban la información deberán resguardarla con la reserva o confidencialidad que amerite el caso.
 
 ## CAPÍTULO V
@@ -229,7 +382,10 @@ Las funciones de las personas titulares de las Fiscalías Especializadas, fiscal
 
 ### Artículo 22
 . Sin perjuicio de lo dispuesto por el artículo 111 de la Constitución y por la Ley General de Responsabilidades Administrativas, en caso de que se impute algún delito a la persona titular de la Fiscalía General, se procederá de la siguiente manera:
-I. La persona servidora pública a quien corresponda actuar como suplente de la persona titular de la Fiscalía General, de conformidad con esta Ley y su Estatuto orgánico, conocerá de la denuncia y se hará cargo de la investigación respectiva, y II. La persona servidora pública suplente de la persona titular de la Fiscalía General resolverá sobre el inicio del procedimiento para la declaración de procedencia ante la Cámara de Diputados.
+
+I. La persona servidora pública a quien corresponda actuar como suplente de la persona titular de la Fiscalía General, de conformidad con esta Ley y su Estatuto orgánico, conocerá de la denuncia y se hará cargo de la investigación respectiva, y
+
+II. La persona servidora pública suplente de la persona titular de la Fiscalía General resolverá sobre el inicio del procedimiento para la declaración de procedencia ante la Cámara de Diputados.
 
 ### Artículo 23
 . La persona titular de la Fiscalía General contará con representación, ante las autoridades judiciales, administrativas y del trabajo, a través de la persona servidora pública que autorice o por las personas agentes del Ministerio Público de la Federación que establezca el Estatuto orgánico o determine para el caso concreto.
@@ -239,8 +395,12 @@ REMOCIÓN DE LA PERSONA TITULAR DE LA FISCALÍA GENERAL POR CAUSA GRAVE
 
 ### Artículo 24
 . La persona titular de la Fiscalía General sólo podrá ser removida por la persona titular del Ejecutivo Federal por incurrir en alguna de las causas graves contempladas en el Capítulo II del Título Tercero de la Ley General de Responsabilidades Administrativas o por la comisión de uno o más delitos que ameriten prisión preventiva oficiosa en términos del artículo 19 de la Constitución y 167 del Código Nacional o por los supuestos siguientes:
+
 I. Perder la ciudadanía mexicana, en los términos que establece el artículo 37 de la Constitución;
-II. Adquirir incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses, dictaminada por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, o III. Cometer violaciones graves a la Constitución.
+
+II. Adquirir incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses, dictaminada por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, o
+
+III. Cometer violaciones graves a la Constitución.
 La persona titular del Ejecutivo Federal deberá acreditar ante el Senado de la República la causa grave que motivó la remoción de la persona titular de la Fiscalía General, e informar al Senado de la República, quien decidirá si objeta por el voto de la mayoría de los miembros presentes de la Cámara de Senadores dentro de un plazo de diez días hábiles, en términos del artículo 102, Apartado A, párrafo tercero, fracciones IV y V de la Constitución, sin perjuicio de lo previsto en los artículos 110 y 111 de la misma. Si el Senado de la República no se pronuncia al respecto, se entenderá que no existe objeción.
 En caso de nombramiento o remoción de las personas titulares de las Fiscalías Especializadas en materia de delitos electorales y de combate a la corrupción, a que se refiere el párrafo quinto, del artículo 102, Apartado A, de la Constitución, se contará con un plazo de veinte días para su objeción. En caso de no hacerlo en ese término, se entenderá que no se tiene objeción.
 El proceso de remoción de la persona titular de la Fiscalía General, así como el de las personas titulares de las Fiscalías Especializadas en materia de delitos electorales y de combate a la corrupción, deberá respetar en todo momento el derecho de audiencia y debido proceso.
@@ -345,101 +505,204 @@ PERSONAS AGENTES DEL MINISTERIO PÚBLICO DE LA FEDERACIÓN
 
 ### Artículo 40
 . Son facultades de las personas agentes del Ministerio Público de la Federación las siguientes:
+
 I. Investigar y perseguir los delitos del orden federal;
+
 II. Promover la pronta, expedita y debida procuración de justicia;
+
 III. Recibir denuncias o querellas sobre acciones u omisiones que puedan constituir delito;
+
 IV. Iniciar con eficiencia, puntualidad y eficacia la investigación que corresponda conforme a lo dispuesto por el artículo 131, fracción V, del Código Nacional, cuando tenga conocimiento de la existencia de un hecho que la ley señale como delito;
+
 V. Investigar y perseguir los delitos del fuero común respecto de los cuales se haya ejercitado la facultad de atracción, en los términos de las disposiciones aplicables;
+
 VI. Determinar la procedencia de la detención de las personas imputadas por la comisión de hechos que la ley señale como delito, en los términos previstos por el artículo 16 de la Constitución, procediendo en consecuencia;
+
 VII. Realizar el aseguramiento y registro de bienes de conformidad con las disposiciones aplicables;
+
 VIII. Participar en todas las etapas del procedimiento penal, desde la investigación inicial hasta que se dicte sentencia, conforme a lo previsto en el Código Nacional;
+
 IX. Impugnar, en los términos previstos por la presente Ley y demás disposiciones legales aplicables, las resoluciones judiciales;
+
 X. Informar a la persona víctima o a la persona ofendida del delito, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución, la Ley General de Víctimas, el Código Nacional y las demás disposiciones legales aplicables, así como sus alcances, incluyendo el derecho de designar a la persona asesora jurídica;
-XI. Garantizar en toda la investigación y el proceso penal los derechos de las personas víctimas establecidos en la Constitución, la Ley General de Víctimas, el Código Nacional y en las leyes aplicables. Para lo cual tendrá las siguientes obligaciones: a) Recibir las propuestas de líneas de investigación que les formulen las personas víctimas y sus personas asesoras y tomarlas en consideración en la generación o modificación de planes de investigación y la práctica de diligencias específicas que las involucren; b) Dar acceso a los registros y proporcionar copia gratuita de estos en forma física o magnética solicitadas por las personas víctimas y sus personas representantes, con relación a los casos, para facilitar su conocimiento y participación en los mismos, de conformidad con el Código Nacional de Procedimientos Penales y las disposiciones legales aplicables; c) Garantizar el derecho de las personas víctimas y sus personas representantes, a presentar peritajes independientes, facilitando para ello el acceso a los registros que obren en las carpetas de investigación que sean necesarios para la emisión de los dictámenes; d) Garantizar a las víctimas la protección y asistencia a la que tienen derecho, por parte de las entidades públicas o privadas que correspondan, de conformidad con la presente Ley y demás disposiciones aplicables; e) Garantizar a las personas víctimas o sus familiares, la consulta de la información genética de sus familiares resguardada en las bases de datos que conforman el Banco Nacional de Datos Forenses, para la identificación de cuerpos o restos humanos, en el caso de personas desaparecidas, de conformidad con lo que establezcan los Lineamientos Generales en esta materia; f) Garantizar la perspectiva de género, de interculturalidad, de niñez y adolescencia, así como el enfoque diferencial y especializado en la investigación y ejercicio de la acción penal, de acuerdo a las condiciones específicas de las personas víctimas, y g) Garantizar a las personas víctimas que lo requieran, intérprete y traductor, por sí o en coordinación con otras entidades públicas privadas o personas en lo individual;
+
+XI. Garantizar en toda la investigación y el proceso penal los derechos de las personas víctimas establecidos en la Constitución, la Ley General de Víctimas, el Código Nacional y en las leyes aplicables. Para lo cual tendrá las siguientes obligaciones:
+
+a) Recibir las propuestas de líneas de investigación que les formulen las personas víctimas y sus personas asesoras y tomarlas en consideración en la generación o modificación de planes de investigación y la práctica de diligencias específicas que las involucren;
+
+b) Dar acceso a los registros y proporcionar copia gratuita de estos en forma física o magnética solicitadas por las personas víctimas y sus personas representantes, con relación a los casos, para facilitar su conocimiento y participación en los mismos, de conformidad con el Código Nacional de Procedimientos Penales y las disposiciones legales aplicables;
+
+c) Garantizar el derecho de las personas víctimas y sus personas representantes, a presentar peritajes independientes, facilitando para ello el acceso a los registros que obren en las carpetas de investigación que sean necesarios para la emisión de los dictámenes;
+
+d) Garantizar a las víctimas la protección y asistencia a la que tienen derecho, por parte de las entidades públicas o privadas que correspondan, de conformidad con la presente Ley y demás disposiciones aplicables;
+
+e) Garantizar a las personas víctimas o sus familiares, la consulta de la información genética de sus familiares resguardada en las bases de datos que conforman el Banco Nacional de Datos Forenses, para la identificación de cuerpos o restos humanos, en el caso de personas desaparecidas, de conformidad con lo que establezcan los Lineamientos Generales en esta materia;
+
+f) Garantizar la perspectiva de género, de interculturalidad, de niñez y adolescencia, así como el enfoque diferencial y especializado en la investigación y ejercicio de la acción penal, de acuerdo a las condiciones específicas de las personas víctimas, y
+
+g) Garantizar a las personas víctimas que lo requieran, intérprete y traductor, por sí o en coordinación con otras entidades públicas privadas o personas en lo individual;
+
 XII. Dictar medidas de protección especial a favor de las personas víctimas para la salvaguarda de sus derechos o bienes jurídicos, en el marco de la Constitución, la Ley General de Víctimas, el Código Nacional y las demás disposiciones legales aplicables, por sí o en coordinación con otras entidades públicas o privadas;
+
 XIII. Ejercer la conducción y mando de las Policías en la investigación de los delitos, en los términos previstos en el artículo 21 de la Constitución;
+
 XIV. Intervenir como parte en el juicio de amparo, en los términos previstos por el artículo 107 Constitucional y en los casos previstos en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
 XV. Dictar sin demora la orden de búsqueda y localización de personas desaparecidas cuando reciba denuncia de la probable comisión de un delito relacionado con esos hechos;
+
 XVI. Ordenar y coordinar la realización de los actos de investigación; la recolección de indicios y medios de prueba para el esclarecimiento del hecho delictivo; supervisar la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia del mismo, así como cerciorarse de que se ha cumplido con la normatividad para su preservación y procesamiento;
+
 XVII. Instruir a las Policías sobre la legalidad, pertinencia, suficiencia y contundencia de los indicios recolectados o por recolectar;
+
 XVIII. Requerir de forma debidamente fundada y motivada informes, documentos, opiniones y datos de prueba en general, a autoridades de los tres órdenes de gobierno, entes autónomos constitucionales y a particulares, así como solicitar la práctica de peritajes y de diligencias para la obtención de medios de prueba, para el debido ejercicio de sus facultades de investigación, estableciendo las sanciones correspondientes en caso de incumplimiento;
+
 XIX. Acceder, de conformidad con la legislación aplicable a la información, documentos, registros físicos y electrónicos en poder de las instituciones públicas y privadas;
+
 XX. Solicitar al órgano jurisdiccional la autorización de actos de investigación y demás actuaciones que así lo requieran las leyes aplicables;
+
 XXI. Informar y facilitar a las personas víctimas de nacionalidad extranjera el ejercicio del derecho a recibir asistencia consular por las embajadas o consulados, y comunicar sin demora esos hechos a dichas representaciones diplomáticas; con independencia de la asistencia y protección que les brinde las disposiciones jurídicas aplicables;
+
 XXII. Dictar las medidas necesarias para que la persona imputada reciba atención médica o psicológica de emergencia y demás medidas de protección idóneas para su seguridad, así como asegurar su cumplimiento, de conformidad con las disposiciones jurídicas aplicables;
+
 XXIII. Dictar las medidas necesarias que permitan garantizar la reparación del daño para la persona víctima o la persona ofendida;
+
 XXIV. Determinar la investigación, a través del ejercicio o desistimiento de la acción penal o de la acción de extinción de dominio, así como ordenar el archivo temporal, aplicar la abstención de investigar, algún criterio de oportunidad o solicitar la suspensión condicional del proceso de conformidad con lo dispuesto en esta Ley y la legislación aplicable;
+
 XXV. Solicitar la cancelación de órdenes de aprehensión, reaprehensión o comparecencia, así como la reclasificación de la conducta o hecho por los cuales se haya ejercido la acción penal previa autorización de la persona titular de la Fiscalía General o de la persona servidora pública en quien delegue esta facultad;
+
 XXVI. Promover la aplicación de mecanismos alternativos de solución de controversias, soluciones alternas y de formas anticipadas de terminación del proceso penal en los términos de la legislación aplicable y con base en los lineamientos institucionales que al efecto establezca la Fiscalía General;
+
 XXVII. Solicitar las providencias precautorias y medidas cautelares aplicables a la persona imputada en el proceso, y promover su cumplimiento;
+
 XXVIII. Solicitar al órgano jurisdiccional la sustitución de la prisión preventiva oficiosa por otra medida cautelar, previa autorización de la persona titular de la Fiscalía General o de la persona servidora pública en quien delegue esta facultad;
+
 XXIX. Presentar la acusación contra la persona imputada ante la autoridad judicial competente, y en general, promover lo conducente al desarrollo de los procesos y ejercer las demás atribuciones que le señalen las leyes aplicables;
+
 XXX. Solicitar a la autoridad judicial la imposición de las penas, así como las medidas de seguridad que en su caso correspondan;
+
 XXXI. Intervenir en el procedimiento de ejecución de las sanciones penales y medidas de seguridad en los términos de las disposiciones legales aplicables;
+
 XXXII. Intervenir en la extradición, entrega o traslado de personas imputadas, procesadas o sentenciadas, en los términos de las disposiciones aplicables, así como en cumplimiento de los tratados internacionales en que el Estado mexicano sea parte;
+
 XXXIII. Solicitar y, en su caso, proporcionar la asistencia jurídica internacional que le sea requerida de conformidad con los tratados internacionales en los que el Estado mexicano sea parte y lo dispuesto en la legislación aplicable;
+
 XXXIV. Realizar las funciones a que se refiere el artículo 18 de la Constitución, respecto de las personas menores de dieciocho años que hubieren incurrido en acciones u omisiones que la ley señale como delitos, competencia de la persona agente del Ministerio Público de la Federación;
+
 XXXV. Llevar a cabo las diligencias correspondientes para comprobar la edad de la persona adolescente;
+
 XXXVI. Velar por el respeto y cumplimiento de los derechos humanos de la persona adolescente;
+
 XXXVII. Garantizar que, desde el momento en que sea puesta a su disposición, la persona adolescente se encuentre en un lugar adecuado a su condición de persona en desarrollo;
+
 XXXVIII. Informar a la persona adolescente, desde el momento en que sea puesta a su disposición, sobre su derecho a nombrar a una persona defensora y, en caso de no contar con una, requerir de forma inmediata a la Defensoría Pública para que le sea designada;
+
 XXXIX. Comunicar de inmediato a la persona adolescente, a sus familiares, a la persona defensora y, en su caso, a quien designe como persona en quien confíe, sobre su situación jurídica y los derechos que le asisten;
+
 XL. Otorgar a la persona adolescente, persona defensora y, en su caso, a su familia, la información sobre la investigación, salvo las excepcionales que prevé el Código Nacional;
+
 XLI. Solicitar, siempre que resulte procedente en materia de personas adolescentes, la aplicación de criterios de oportunidad;
+
 XLII. Derivar en materia de personas adolescentes, para efectos de que se determine la procedencia, en los términos de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
 XLIII. Evitar la divulgación de la identidad de la persona adolescente y de la persona víctima o de la persona ofendida;
+
 XLIV. Preparar y ejercer la acción de extinción de dominio, así como interponer en esta materia cualquier recurso o medio de defensa legal que en derecho proceda, incluyendo el juicio de amparo;
+
 XLV. Intervenir en las controversias en que sean parte las personas diplomáticas y personas cónsules generales, en virtud de esta calidad. Cuando se trate de un procedimiento penal y no aparezcan inmunidades que respetar, la persona agente del Ministerio Público de la Federación procederá en cumplimiento estricto de sus obligaciones legales, observando las disposiciones contenidas en los tratados internacionales en los que el Estado mexicano sea parte;
+
 XLVI. Participar con el carácter que la ley le confiera durante la investigación y en todas las etapas de aquellos procedimientos en que así lo determinen las leyes aplicables, siempre que la actuación encomendada sea acorde con sus funciones constitucionales;
-XLVII. Certificar los documentos materia de su competencia que obren en sus archivos, y XLVIII. Las demás que determinen otros ordenamientos las que deberán ser compatibles con las atribuciones constitucionales del Ministerio Público.
+
+XLVII. Certificar los documentos materia de su competencia que obren en sus archivos, y
+
+XLVIII. Las demás que determinen otros ordenamientos las que deberán ser compatibles con las atribuciones constitucionales del Ministerio Público.
 
 ## CAPÍTULO III
 PERSONAS AGENTES DE LA POLICÍA FEDERAL MINISTERIAL
 
 ### Artículo 41
 . Con independencia de las facultades que señalan la Constitución, el Código Nacional, y las demás disposiciones aplicables, las personas agentes de la Policía Federal Ministerial deberán actuar durante la investigación bajo la conducción y mando de la persona agente del Ministerio Público de la Federación, en ejercicio de las siguientes facultades:
+
 I. Investigar hechos que puedan ser constitutivos de delito y los bienes relacionados o producto del mismo, llevando a cabo las técnicas de investigación autorizadas al efecto y que resulten necesarias;
+
 II. Constatar la veracidad de los datos aportados en informaciones anónimas, mediante los actos de investigación que resulten necesarios conforme a su ámbito de facultades;
+
 III. Practicar las diligencias necesarias que permitan el esclarecimiento de los hechos y la identidad de las personas autores o de las personas partícipes en la comisión del delito, por lo que si durante la realización de actos de investigación se percata de la probable comisión de un delito diverso deberá dar cuenta inmediatamente a la persona agente del Ministerio Público de la Federación y proceder a su investigación;
+
 IV. Preservar y procesar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios o datos de prueba;
+
 V. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación;
+
 VI. Llevar a cabo operaciones encubiertas y de usuarios simulados, en términos de las disposiciones aplicables;
+
 VII. Llevar a cabo la intervención de comunicaciones privadas o extracción de información autorizada a la persona titular de la Fiscalía General o a la persona agente del Ministerio Público de la Federación por el órgano jurisdiccional, en apego estricto a la legislación en la materia y en los términos de dicha autorización;
+
 VIII. Procesar la orden de localización geográfica en tiempo real o la entrega de los datos conservados previamente autorizada a la persona agente del Ministerio Público de la Federación, así como el requerimiento de conservación inmediata de datos, a que se refiere el Código Nacional;
+
 IX. Dejar registro de todas las actuaciones que se realicen durante la investigación, utilizando al efecto cualquier medio que permita garantizar que la información recabada sea completa, íntegra y exacta;
+
 X. Dar cumplimiento a las órdenes de aprehensión y participar en la detención de personas y el aseguramiento de bienes y desahogar aquellas diligencias ministeriales que le sean encomendadas;
+
 XI. Registrar de inmediato la detención en términos de las disposiciones aplicables;
+
 XII. Poner a disposición inmediatamente ante la persona agente del Ministerio Público de la Federación a las personas detenidas y los bienes que se encuentren bajo su custodia;
+
 XIII. Realizar las técnicas de investigación en operativos policiales de búsqueda y localización de personas con orden de extradición en términos de la legislación aplicable;
+
 XIV. Proporcionar atención a personas víctimas, personas ofendidas o personas testigos del hecho ilícito en términos de las disposiciones legales aplicables;
+
 XV. Diseñar e implementar operaciones especiales, que permitan la ubicación de objetivos en investigaciones estratégicas o de alto impacto social;
+
 XVI. Recabar información mediante la utilización de medios e instrumentos y cualquier herramienta que resulte necesaria para la generación de inteligencia. En el ejercicio de esta facultad se deberán respetar irrestrictamente los derechos humanos de las personas ponderando el derecho a la vida privada de las personas. Los datos obtenidos con afectación a la vida privada carecen de todo valor probatorio pudiendo dar lugar a las responsabilidades a que haya lugar, incluida la penal;
+
 XVII. Realizar operativos en conjunto con instituciones policiales de los tres órdenes de gobierno o extranjeras, mediante la eficaz coordinación del mando designado y bajo los principios de actuación policial;
+
 XVIII. Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables;
-XIX. Cumplir con profesionalismo y dignidad la actuación como persona agente de la Policía Federal Ministerial, tanto en los ámbitos laboral como social a nivel nacional e internacional, y XX. Las ordenadas por el órgano jurisdiccional y demás que las leyes determinen, siempre que éstas sean compatibles con las atribuciones constitucionales y legales de la Fiscalía General.
+
+XIX. Cumplir con profesionalismo y dignidad la actuación como persona agente de la Policía Federal Ministerial, tanto en los ámbitos laboral como social a nivel nacional e internacional, y
+
+XX. Las ordenadas por el órgano jurisdiccional y demás que las leyes determinen, siempre que éstas sean compatibles con las atribuciones constitucionales y legales de la Fiscalía General.
 
 ## CAPÍTULO IV
 PERSONAL DE LOS SERVICIOS PERICIALES
 
 ### Artículo 42
 . Las personas peritas además de las facultades previstas en otras disposiciones aplicables, actuarán bajo la autoridad, conducción y mando de la persona agente del Ministerio Público de la Federación, y contarán con las siguientes facultades:
+
 I. Emitir los dictámenes, documentos, opiniones o informes derivados de la solicitud de las personas agentes del Ministerio Público de la Federación;
+
 II. Auxiliar a las personas agentes del Ministerio Público de la Federación y a las personas agentes de la Policía Federal Ministerial en la búsqueda, preservación y obtención de indicios o datos de prueba, así como el esclarecimiento de los hechos a efecto de lograr la identificación de las personas autores o las personas partícipes, a través de los informes o productos que emitan las personas peritas en su rama de especialidad;
+
 III. Acudir al lugar que la persona agente del Ministerio Público de la Federación solicite a fin de apoyar en el procesamiento del lugar de los hechos, del hallazgo o cualquier sitio en el que se requiera de su pericia;
+
 IV. Aportar información que permita la actualización de los bancos de datos criminalísticos de la Institución;
+
 V. Brindar asesoría técnica a las unidades de la Fiscalía General, respecto de las especialidades con que cuente, en el ámbito de su competencia;
+
 VI. Realizar los análisis, pruebas de laboratorio, operaciones o estudios que su ciencia, técnica o arte requiera a los elementos de estudio recabados en el lugar de investigación o aportados por la autoridad solicitante, conforme a lo previsto en el Código Nacional;
+
 VII. Registrar sus actuaciones en el sistema informático de la Fiscalía General, con el registro que genere la persona agente del Ministerio Público de la Federación, y alimentarlo con la información requerida de conformidad con las disposiciones aplicables y la normatividad que al efecto se emita;
+
 VIII. Atender los requerimientos de la persona agente del Ministerio Público de la Federación y de la persona agente de la Policía Federal Ministerial, aplicar los procedimientos y protocolos para la recolección, el levantamiento, la preservación y el traslado de indicios, de las huellas o vestigios del hecho delictivo y de los instrumentos, objetos o productos del delito para asegurar su integridad a través de la cadena de custodia, conforme a las disposiciones aplicables y la normatividad emitida por la persona titular de la Fiscalía General;
+
 IX. Atender las bodegas o almacenes de evidencias en cuanto a las técnicas de manejo y preservación de las sustancias y bienes materia de custodia, en coordinación con la autoridad administrativa a cargo de estas instalaciones;
+
 X. Operar junto con la unidad administrativa correspondiente los bancos de datos criminalísticos y compartir la información con unidades específicas del Ministerio Público, de la Policía Federal Ministerial y de información y análisis;
+
 XI. Operar junto con la unidad administrativa correspondiente un sistema informático de registro y análisis de la huella balística, análisis de voz, sistemas biométricos, información genética y otros elementos relacionados con hechos delictivos, que se obtengan de conformidad con las disposiciones aplicables, así como compartir la información con unidades específicas del Ministerio Público, de la Policía Federal Ministerial y de información y análisis;
+
 XII. Proponer la actuación y participación del personal de los servicios periciales en programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de servicios periciales, de las procuradurías o fiscalías generales de justicia de los estados o de la Ciudad de México y demás dependencias, entidades y organismos municipales, estatales, federales o internacionales, públicos, sociales, privados y académicos, en materia de servicios periciales para el mejoramiento y modernización de sus funciones;
+
 XIII. Promover la cooperación y colaboración con los servicios periciales de las procuradurías o fiscalías de las entidades federativas, así como con otras instituciones;
+
 XIV. Examinar objetos o situaciones de hechos relevantes, de acuerdo con su especialidad con el fin de establecer un razonamiento científico sobre lo examinado;
+
 XV. Servir de personas consultoras ante las autoridades investigadoras brindando asesorías para la intervención de solicitudes periciales, así como de participar proactivamente en las áreas de mando, consultorías técnicas en juicio, entre otras, a efecto de proporcionar los elementos científico-técnicos a las autoridades investigadoras que lo requieran;
+
 XVI. Informar sobre los resultados de su actividad, los cuales podrán ser utilizados con fines estadísticos;
-XVII. Ejercer sus atribuciones con objetividad, imparcialidad y apego a los estándares científicotécnicos que rijan su actuación, y XVIII. Las demás que les confieran otras disposiciones, las que deberán ser compatibles con las atribuciones constitucionales de la Fiscalía General.
+
+XVII. Ejercer sus atribuciones con objetividad, imparcialidad y apego a los estándares científicotécnicos que rijan su actuación, y
+
+XVIII. Las demás que les confieran otras disposiciones, las que deberán ser compatibles con las atribuciones constitucionales de la Fiscalía General.
 
 ### Artículo 43
 . Las personas peritas en ejercicio de su encargo tienen libertad y autonomía técnica para emitir y determinar el sentido de sus informes, opiniones o dictámenes, por lo que las solicitudes de las personas agentes del Ministerio Público de la Federación o de las personas Policías Federales Ministeriales no influyen, dirigen, condicionan ni afectan los criterios que emitan en sus informes, documentos, opiniones y dictámenes.
@@ -452,80 +715,163 @@ PERSONAS ANALISTAS
 
 ### Artículo 45
 . Con independencia de lo que señalan las disposiciones aplicables, las personas analistas actuarán bajo la autoridad, conducción y mando de la persona agente del Ministerio Público de la Federación, en el ejercicio de las siguientes facultades:
+
 I. Realizar el análisis de información estratégica, a través de la elaboración de productos de inteligencia que permita a las personas agentes del Ministerio Público de la Federación contar con elementos de información integral para una efectiva integración de los indicios, datos y medios de prueba suficientes que fortalezcan las investigaciones a cargo de la Institución;
+
 II. Analizar los contenidos de los expedientes de las investigaciones para sugerir líneas de investigación para el esclarecimiento de los hechos y la probable autoría o participación de las personas;
+
 III. Realizar análisis de contexto sobre fenómenos criminales, reiterados o emergentes para contribuir a la política de persecución penal;
+
 IV. Llevar el control y seguimiento de resultados del análisis de la información con el fin de establecer el vínculo correcto de las investigaciones relacionadas con organizaciones delictivas;
+
 V. Realizar reportes estratégicos sobre criminalidad nacional, trasnacional o internacional a efecto de identificar patrones, estructuras, organizaciones, modos de operación, así como cualquier otra información que se considere necesaria, oportuna o útil para la formulación, seguimiento, evaluación y replanteamiento del Plan Estratégico de Procuración de Justicia y la investigación de los delitos;
+
 VI. Analizar la información derivada de los sistemas de comunicación inherente a las investigaciones relacionadas con delitos cometidos por organizaciones delictivas;
+
 VII. Implementar y administrar bancos de datos y sistemas de información delincuencial que permitan la consulta, integración y clasificación adecuada de los elementos que fortalezcan las investigaciones, así como la investigación y persecución de delitos;
+
 VIII. Efectuar el mantenimiento y control documental de los bancos de datos y de los sistemas de información delincuencial para generar y procesar información relacionada con las investigaciones y persecución de delitos;
+
 IX. Clasificar la información, así como integrar fichas técnicas y elaborar mapas delincuenciales para la compilación de datos de carácter sensible que permitan vincular e integrar los indicios existentes que fortalezcan las investigaciones a cargo de la Fiscalía General;
+
 X. Alimentar y actualizar los bancos de datos y sistemas de información delincuencial;
+
 XI. Registrar los casos en que se haya optado por alguna de las vías de solución alterna de conflictos;
+
 XII. Llevar el control de la información sensible almacenada en el banco de datos, así como en otros medios de acuerdo con las políticas establecidas;
+
 XIII. Contribuir en la captación, recuperación, control, análisis y compilación de información delincuencial, así como para la estandarización de procesos de trabajo y la elaboración de bases de colaboración con instituciones públicas y privadas;
+
 XIV. Colaborar en el diseño de metodologías para la custodia, seguridad y análisis de información ministerial relacionada con cateos y aseguramientos de bienes relacionados con las investigaciones;
+
 XV. Enviar la información que corresponda a las bases de datos de los Sistemas Nacional y Estatal de Seguridad Pública, conforme a las normas aplicables, en coordinación con las áreas correspondientes;
-XVI. Apoyar en la elaboración de metodologías que permitan la consulta de bases de datos nacionales e internacionales para la obtención y vinculación de información criminal o delincuencial, y XVII. Las demás que determinen las disposiciones aplicables, las que deberán ser compatibles con las atribuciones constitucionales y legales de la Fiscalía General.
+
+XVI. Apoyar en la elaboración de metodologías que permitan la consulta de bases de datos nacionales e internacionales para la obtención y vinculación de información criminal o delincuencial, y
+
+XVII. Las demás que determinen las disposiciones aplicables, las que deberán ser compatibles con las atribuciones constitucionales y legales de la Fiscalía General.
 
 ## CAPÍTULO VI
 PERSONAS FACILITADORAS
 
 ### Artículo 46
 . Con independencia de lo que dispongan otras leyes aplicables, las personas facilitadoras tendrán las siguientes facultades:
+
 I. Cumplir con la certificación en los términos de las disposiciones aplicables en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
 II. Actuar con prontitud, profesionalismo, eficacia y transparencia, en congruencia con los principios que rigen la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal y las disposiciones que al efecto se establezcan;
+
 III. Vigilar que en los mecanismos alternativos no se afecten derechos de terceras personas, intereses de personas menores de edad, o personas mayores de edad que por alguna discapacidad así lo requieran, disposiciones de orden público o interés social y que estos procuren la reparación del daño;
+
 IV. Abstenerse de fungir con la calidad de personas testigos, asesores, representantes, patronos, licenciados en derecho, o abogados, de los asuntos relativos a los mecanismos alternativos en los que participen;
+
 V. Excusarse de intervenir en asuntos en los que se vea afectada su imparcialidad;
+
 VI. Solicitar a las personas intervinientes la información necesaria para el cumplimiento eficaz de la función encomendada;
+
 VII. Cerciorarse de que las personas intervinientes comprenden el alcance del acuerdo, así como los derechos y obligaciones que de éste se deriven;
+
 VIII. Verificar que las personas intervinientes participen de manera libre y voluntaria, exentos de coacciones o de cualquier otra influencia que vicie su voluntad;
+
 IX. Mantener el buen desarrollo de los mecanismos alternativos y solicitar respeto de las personas intervinientes durante el desarrollo de estos;
+
 X. Asegurarse de que los acuerdos a los que lleguen las personas intervinientes sean apegados a la legalidad;
+
 XI. Obtener la reparación del daño para las personas víctimas y ofendidos, como resultado de los acuerdos;
+
 XII. Abstenerse de coaccionar a las personas intervinientes para acudir, permanecer o retirarse del mecanismo alternativo;
-XIII. Mantener la confidencialidad de la información a la que tengan acceso en el ejercicio de su función, salvo las excepciones previstas en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y XIV. Las demás que señalen otras disposiciones legales.
+
+XIII. Mantener la confidencialidad de la información a la que tengan acceso en el ejercicio de su función, salvo las excepciones previstas en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y
+
+XIV. Las demás que señalen otras disposiciones legales.
 
 ## CAPÍTULO VII
 OBLIGACIONES DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA FISCALÍA GENERAL
 
 ### Artículo 47
 . Son obligaciones de las personas servidoras públicas de la Fiscalía General, las siguientes:
+
 I. Conducirse siempre con apego al orden jurídico y respeto a los derechos humanos;
+
 II. Cumplir con diligencia, en tiempo y forma, su participación en la investigación y persecución del delito y demás atribuciones de la Fiscalía General;
+
 III. Abstenerse de realizar actos u omisiones que afecten la buena imagen o prestigio de la Fiscalía General;
+
 IV. Preservar el secreto, reserva y confidencialidad, en términos de las disposiciones aplicables, de los asuntos que por razón del desempeño de su función conozcan;
+
 V. Prestar auxilio a las personas que hayan sido víctimas de algún delito. Su actuación deberá ser congruente, oportuna y proporcional al hecho;
+
 VI. Cumplir sus funciones con absoluta imparcialidad, sin discriminación a persona alguna;
+
 VII. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes;
-VIII. Abstenerse de realizar cualquiera de las conductas siguientes: a) Desempeñar empleo, cargo o comisión de cualquier naturaleza en la administración pública, poder legislativo, judicial u órgano constitucional autónomo, en alguno de los órdenes de gobierno, así como trabajos o servicios en instituciones privadas cuando resulten incompatibles o representen un conflicto de interés con sus funciones públicas.
-Los remunerados de carácter docente, científico u honorario en todos los casos deberán ser comunicados por escrito, a la persona superior inmediata para contar con la autorización de la persona titular de la Fiscalía General o de la persona servidora pública que se determine en el Estatuto orgánico; b) Ordenar o realizar la detención o retención de persona alguna sin cumplir con los requisitos previstos en la Constitución y en los ordenamientos legales aplicables; c) Desempeñar sus funciones con el auxilio de personas no autorizadas por las disposiciones aplicables; d) Abandonar las funciones, comisión o servicio que tengan encomendado, sin causa justificada; e) Permitir el acceso a las investigaciones a quienes no tengan derecho en términos de lo que establece la Constitución y demás disposiciones legales aplicables; f) Ejercer su técnica o profesión en actividades diversas al ejercicio de sus funciones en el servicio público de la Fiscalía General, por sí o por interpósita persona, salvo en causa propia, de su persona cónyuge, concubina, conviviente, de sus personas ascendientes o descendientes, de sus personas consanguíneas colaterales hasta el cuarto grado o de las personas con las que tenga parentesco legal o por afinidad hasta el cuarto grado; g) Ejercer o desempeñar las funciones de persona depositaria o apoderada judicial, síndica, administradora, árbitra o arbitradora, interventora en quiebra o concurso, o cualquiera otra función que no sea inherente a su desempeño en el servicio público; h) Ejecutar actos de molestia no justificados; i) Abrir y desarrollar investigaciones sin sustento jurídico, y j) Dar a conocer, entregar, revelar, publicar, transmitir, exponer, remitir, distribuir, videograbar, audiograbar, fotografiar, reproducir, comercializar, intercambiar o compartir a quien no tenga derecho, documentos, constancias, información, imágenes, audios, videos, indicios, evidencias, objetos o cualquier instrumento que obre en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
+
+VIII. Abstenerse de realizar cualquiera de las conductas siguientes:
+
+a) Desempeñar empleo, cargo o comisión de cualquier naturaleza en la administración pública, poder legislativo, judicial u órgano constitucional autónomo, en alguno de los órdenes de gobierno, así como trabajos o servicios en instituciones privadas cuando resulten incompatibles o representen un conflicto de interés con sus funciones públicas.
+Los remunerados de carácter docente, científico u honorario en todos los casos deberán ser comunicados por escrito, a la persona superior inmediata para contar con la autorización de la persona titular de la Fiscalía General o de la persona servidora pública que se determine en el Estatuto orgánico;
+
+b) Ordenar o realizar la detención o retención de persona alguna sin cumplir con los requisitos previstos en la Constitución y en los ordenamientos legales aplicables;
+
+c) Desempeñar sus funciones con el auxilio de personas no autorizadas por las disposiciones aplicables;
+
+d) Abandonar las funciones, comisión o servicio que tengan encomendado, sin causa justificada;
+
+e) Permitir el acceso a las investigaciones a quienes no tengan derecho en términos de lo que establece la Constitución y demás disposiciones legales aplicables;
+
+f) Ejercer su técnica o profesión en actividades diversas al ejercicio de sus funciones en el servicio público de la Fiscalía General, por sí o por interpósita persona, salvo en causa propia, de su persona cónyuge, concubina, conviviente, de sus personas ascendientes o descendientes, de sus personas consanguíneas colaterales hasta el cuarto grado o de las personas con las que tenga parentesco legal o por afinidad hasta el cuarto grado;
+
+g) Ejercer o desempeñar las funciones de persona depositaria o apoderada judicial, síndica, administradora, árbitra o arbitradora, interventora en quiebra o concurso, o cualquiera otra función que no sea inherente a su desempeño en el servicio público;
+
+h) Ejecutar actos de molestia no justificados;
+
+i) Abrir y desarrollar investigaciones sin sustento jurídico, y
+
+j) Dar a conocer, entregar, revelar, publicar, transmitir, exponer, remitir, distribuir, videograbar, audiograbar, fotografiar, reproducir, comercializar, intercambiar o compartir a quien no tenga derecho, documentos, constancias, información, imágenes, audios, videos, indicios, evidencias, objetos o cualquier instrumento que obre en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
+
 IX. Observar un trato respetuoso con todas las personas debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
+
 X. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente, rechazando y denunciando cualquier acto de corrupción del que tengan conocimiento;
+
 XI. Utilizar los recursos económicos que se les entreguen con motivo de sus funciones para los fines a que están afectos y, en su caso, reembolsar los excedentes de conformidad con las disposiciones aplicables;
+
 XII. Velar por la vida e integridad física y psicológica de las personas detenidas o puestas a su disposición, así como de las personas víctimas;
+
 XIII. Registrar en los sistemas que disponga el Estatuto orgánico, los datos de las actividades o investigaciones que realicen y rendir los informes que prevén las disposiciones aplicables;
+
 XIV. Remitir a la instancia que corresponda la información recopilada en el cumplimiento de sus funciones, para su análisis y registro;
+
 XV. Realizar, en los términos que determinen las disposiciones aplicables, tareas de búsqueda, recopilación y análisis de información;
+
 XVI. Obedecer las órdenes que conforme a derecho les dicten las personas superiores jerárquicas;
+
 XVII. Resguardar la documentación e información que por razón de sus funciones tengan bajo su responsabilidad o a la cual tengan acceso;
-XVIII. Emplear el equipo y elementos que se les asigne con el debido cuidado y prudencia en el cumplimiento de sus funciones, así como preservarlos y conservarlos y, en su caso, devolverlos en los términos de las disposiciones aplicables, y XIX. Las demás que se establezcan en las disposiciones legales aplicables.
+
+XVIII. Emplear el equipo y elementos que se les asigne con el debido cuidado y prudencia en el cumplimiento de sus funciones, así como preservarlos y conservarlos y, en su caso, devolverlos en los términos de las disposiciones aplicables, y
+
+XIX. Las demás que se establezcan en las disposiciones legales aplicables.
 
 ## CAPÍTULO VIII
 OBLIGACIONES ESPECIALES PARA PERSONAS AGENTES DE LA POLICÍA FEDERAL MINISTERIAL, PERSONAS PERITAS Y PERSONAS ANALISTAS
 
 ### Artículo 48
 . Además de lo señalado en el artículo 47 de esta Ley, las personas agentes de la Policía Federal Ministerial, personas peritas y personas analistas tendrán las obligaciones siguientes:
+
 I. Registrar los datos de las actividades e investigaciones que realicen y rendir los informes señalados en los protocolos de actuación;
+
 II. Remitir a la instancia que corresponda la información recopilada en el cumplimiento de sus funciones o en el desempeño de sus actividades, para su análisis y registro;
+
 III. Apoyar a las autoridades de procuración de justicia cuando se requiera en la investigación y persecución de delitos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
+
 IV. Ejecutar mandamientos judiciales y ministeriales que les sean asignados, así como aquellos de los que tengan conocimiento con motivo de sus funciones y en el marco de sus facultades;
+
 V. Obedecer las órdenes de las personas superiores jerárquicas, o de quienes ejerzan sobre ellos funciones de mando y cumplir con todas sus obligaciones;
+
 VI. Hacer uso de la fuerza en el ejercicio de sus funciones atendiendo a los principios de racionalidad, necesidad, legalidad, oportunidad, proporcionalidad, congruencia, responsabilidad y respeto a los derechos humanos, apegándose a las disposiciones normativas y administrativas aplicables, con el fin de preservar la vida, la integridad, bienes y derechos de las personas, así como mantener y restablecer el orden y la paz pública;
+
 VII. Permanecer en las instalaciones de la Fiscalía General en que se le indique, en cumplimiento del arresto que les sea impuesto de conformidad con las normas aplicables;
-VIII. Hacerse responsables, mantener, cuidar y proteger el buen estado del armamento y municiones, así como material y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio, y IX. Las demás que establezcan las disposiciones aplicables.
+
+VIII. Hacerse responsables, mantener, cuidar y proteger el buen estado del armamento y municiones, así como material y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio, y
+
+IX. Las demás que establezcan las disposiciones aplicables.
 A las personas peritas no les será aplicable el arresto a que refiere la fracción VII del presente artículo.
 A las personas peritas y personas analistas no les será conferida la fracción VI del presente artículo.
 
@@ -537,9 +883,22 @@ RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL CAPÍTULO ÚNICO
 
 ### Artículo 50
 . Las relaciones jurídicas entre la Fiscalía General y su personal se ramificarán de la forma siguiente:
+
 I. Servicio profesional de carrera de la rama sustantiva: Se integrará por personas agentes del Ministerio Público de la Federación, personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas y personas facilitadoras, rigiéndose por lo dispuesto en la fracción XIII, del apartado B, del artículo 123 de la Constitución, en la presente Ley y en las demás disposiciones aplicables en los términos que fije el Estatuto orgánico;
+
 II. Titulares de las Fiscalías Especializadas, fiscalías o unidades administrativas: Serán de libre designación y remoción, salvo aquellas para las que la Constitución establece un procedimiento de nombramiento o remoción.
-Para ser persona titular de alguna de las Fiscalías Especializadas se requiere: a) Contar con ciudadanía mexicana; b) Tener cuando menos treinta y cinco años cumplidos el día de la designación; c) Contar, con una antigüedad mínima de diez años, con título profesional de abogada o abogado o licenciada o licenciado en derecho expedido y registrado legalmente, y con la correspondiente cédula profesional; d) No haber sido condenada o condenado por sentencia ejecutoriada como responsable de un delito doloso o culposo por el que proceda la prisión preventiva oficiosa, y e) Gozar de buena reputación, a la que se refiere el artículo 102 Constitucional compuesta por dos elementos: 1. El Objetivo que se refiere a la calidad profesional relevante, trayectoria en el servicio público o en ejercicio de la actividad jurídica, y 2. El Subjetivo que se refiere a la honorabilidad, alta calidad técnica, compromiso con valores democráticos, independencia y reconocimiento social.
+Para ser persona titular de alguna de las Fiscalías Especializadas se requiere:
+
+a) Contar con ciudadanía mexicana;
+
+b) Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+
+c) Contar, con una antigüedad mínima de diez años, con título profesional de abogada o abogado o licenciada o licenciado en derecho expedido y registrado legalmente, y con la correspondiente cédula profesional;
+
+d) No haber sido condenada o condenado por sentencia ejecutoriada como responsable de un delito doloso o culposo por el que proceda la prisión preventiva oficiosa, y
+
+e) Gozar de buena reputación, a la que se refiere el artículo 102 Constitucional compuesta por dos elementos: 1. El Objetivo que se refiere a la calidad profesional relevante, trayectoria en el servicio público o en ejercicio de la actividad jurídica, y 2. El Subjetivo que se refiere a la honorabilidad, alta calidad técnica, compromiso con valores democráticos, independencia y reconocimiento social.
+
 III. Servicio profesional de carrera de la rama administrativa: Se conformará por las demás personas servidoras públicas de la Fiscalía General, distintas a las señaladas en las fracciones anteriores.
 El Estatuto del Servicio Profesional de Carrera señalará las personas servidoras públicas que, de forma temporal, sin tener el nombramiento de personas integrantes del servicio profesional de carrera de la rama sustantiva, podrán ejercer las atribuciones que correspondan a éstas.
 
@@ -559,9 +918,32 @@ La persona titular de la Fiscalía General emitirá los instrumentos jurídicos 
 ### Artículo 53
 . El servicio profesional de carrera es el sistema integral de regulación del empleo público de toda persona que preste servicios en la Fiscalía General, y tiene por objeto estimular el crecimiento, desarrollo profesional y humano del personal; propiciar la estabilidad basada en el rendimiento y el cumplimiento legal de sus funciones; así como reforzar el compromiso ético, sentido de pertenencia e identidad institucional del personal.
 El servicio profesional de carrera comprenderá las etapas siguientes:
-I. Ingreso, que abarca los procesos de: a) Reclutamiento, selección e ingreso; b) Control de confianza; c) Capacitación y formación inicial, y d) Certificación inicial;
-II. Desarrollo, que abarca los procesos de: a) Formación permanente de alta especialización; b) Evaluación del desempeño, control de confianza y de competencias profesionales; c) Certificación; d) Establecimiento de estímulos, promociones y ascensos, y e) Movimientos y fomento del desarrollo humano;
-III. Terminación, por alguna de las causas señaladas en el artículo 61 de esta Ley, y IV. Sanción.
+
+I. Ingreso, que abarca los procesos de:
+
+a) Reclutamiento, selección e ingreso;
+
+b) Control de confianza;
+
+c) Capacitación y formación inicial, y
+
+d) Certificación inicial;
+
+II. Desarrollo, que abarca los procesos de:
+
+a) Formación permanente de alta especialización;
+
+b) Evaluación del desempeño, control de confianza y de competencias profesionales;
+
+c) Certificación;
+
+d) Establecimiento de estímulos, promociones y ascensos, y
+
+e) Movimientos y fomento del desarrollo humano;
+
+III. Terminación, por alguna de las causas señaladas en el artículo 61 de esta Ley, y
+
+IV. Sanción.
 Para los efectos antes mencionados, el Estatuto del Servicio Profesional de Carrera desarrollará los procesos y los requisitos que deberán reunir tanto las personas aspirantes, como aquellas a las que se les haya reconocido el carácter de integrantes del servicio profesional de carrera, así como el procedimiento para su sanción en los casos de incumplimiento con los procesos de evaluación o los requisitos de permanencia, en los términos de esta Ley y las disposiciones que al efecto se emitan.
 El órgano que implemente el servicio profesional de carrera deberá contar con autonomía técnica y de gestión, de acuerdo a las necesidades de la Fiscalía General y de conformidad con el Estatuto orgánico.
 La persona titular de la Fiscalía General, en el Estatuto del Servicio Profesional de Carrera, establecerá y regulará los derechos y obligaciones de las personas servidoras públicas de la Fiscalía General; así como todos aquellos procedimientos y órganos necesarios para la organización y funcionamiento del servicio profesional de carrera.
@@ -572,11 +954,18 @@ PROCESOS DE EVALUACIÓN Y CERTIFICACIÓN DE LAS PERSONAS SERVIDORAS PÚBLICAS
 ### Artículo 54
 . Las personas servidoras públicas de la Fiscalía General deberán someterse y aprobar los procesos periódicos y permanentes de evaluación de control de confianza, de competencias profesionales y del desempeño, para ingresar y permanecer en sus funciones, así como, en su caso, a las evaluaciones para la obtención de la licencia oficial colectiva para la portación de armas de fuego, de conformidad con lo dispuesto en esta Ley, el Estatuto orgánico y demás normas aplicables.
 El proceso de evaluación de control de confianza tendrá por objeto comprobar el cumplimiento de los principios establecidos en la Constitución y en esta Ley, y comprenderá los siguientes exámenes:
+
 I. Socioeconómico;
+
 II. Médico;
+
 III. Psicométrico y psicológico;
+
 IV. Poligráfico;
-V. Toxicológico, y VI. Los demás que establezcan las normas aplicables.
+
+V. Toxicológico, y
+
+VI. Los demás que establezcan las normas aplicables.
 El proceso de evaluación de competencias profesionales tiene por objeto determinar que las personas aspirantes y las personas servidoras públicas de la Fiscalía General, para las que se soliciten los procesos de evaluación, de promoción o de evaluación extraordinaria, cuenten con los conocimientos, habilidades, actitudes y aptitudes necesarias para el desempeño del cargo.
 El proceso de evaluación del desempeño tiene por objeto valorar el cumplimiento en el ejercicio de las funciones, la actitud en el trabajo y comportamiento en el entorno laboral, y se llevará a cabo en coordinación con la unidad administrativa de adscripción de la persona servidora pública evaluada.
 Los datos personales, así como la información y los documentos que conformen el expediente de los procesos de evaluación, tendrán el carácter de confidencial y reservado, según corresponda y su resguardo y custodia, estará a cargo de la unidad administrativa que se determine en el Estatuto orgánico.
@@ -591,34 +980,117 @@ REQUISITOS DE INGRESO Y PERMANENCIA
 
 ### Artículo 56
 . Para ingresar o permanecer como personal del servicio profesional de carrera en cualquiera de sus ramas, se requerirá cumplir con los requisitos siguientes:
-I. Para ingresar: a) Contar con la ciudadanía mexicana, en pleno ejercicio de sus derechos; b) Tener acreditado, en su caso, el Servicio Militar Nacional; c) Contar con el título profesional que corresponda a la función a desempeñar o en su caso, tener los conocimientos y habilidades necesarias para desempeñar las funciones que se le asignen, en caso de que se trate de profesiones que para su ejercicio requieran título en términos de ley, deberán contar con el mismo debidamente registrado y la correspondiente cédula profesional; d) [No encontrarse sujeta o sujeto a proceso penal;] Inciso declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023 e) Ser de notoria buena conducta y no haber sido condenada o condenado por sentencia ejecutoriada como responsable de un delito doloso o culposo por el que proceda la prisión preventiva oficiosa; f) No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; g) Presentar y aprobar las evaluaciones de control de confianza y de competencias profesionales previstas en las disposiciones aplicables, y h) Los demás requisitos que establezcan las disposiciones aplicables.
-II. Para permanecer: a) Cumplir los requisitos a que se refiere la fracción I de este artículo durante el servicio; b) Presentar y aprobar las evaluaciones que prevean las disposiciones legales y normativas correspondientes; c) Mantener vigente la certificación correspondiente; d) No ausentarse del servicio sin causa justificada por tres días consecutivos, o cinco discontinuos, dentro de un período de treinta días naturales; e) Cumplir con las obligaciones que les impongan las leyes respectivas y demás disposiciones aplicables; f) No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio, y g) Los demás requisitos que establezcan las disposiciones aplicables.
+
+I. Para ingresar:
+
+a) Contar con la ciudadanía mexicana, en pleno ejercicio de sus derechos;
+
+b) Tener acreditado, en su caso, el Servicio Militar Nacional;
+
+c) Contar con el título profesional que corresponda a la función a desempeñar o en su caso, tener los conocimientos y habilidades necesarias para desempeñar las funciones que se le asignen, en caso de que se trate de profesiones que para su ejercicio requieran título en términos de ley, deberán contar con el mismo debidamente registrado y la correspondiente cédula profesional;
+
+d) [No encontrarse sujeta o sujeto a proceso penal;] Inciso declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023
+
+e) Ser de notoria buena conducta y no haber sido condenada o condenado por sentencia ejecutoriada como responsable de un delito doloso o culposo por el que proceda la prisión preventiva oficiosa;
+
+f) No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
+
+g) Presentar y aprobar las evaluaciones de control de confianza y de competencias profesionales previstas en las disposiciones aplicables, y
+
+h) Los demás requisitos que establezcan las disposiciones aplicables.
+
+II. Para permanecer:
+
+a) Cumplir los requisitos a que se refiere la fracción I de este artículo durante el servicio;
+
+b) Presentar y aprobar las evaluaciones que prevean las disposiciones legales y normativas correspondientes;
+
+c) Mantener vigente la certificación correspondiente;
+
+d) No ausentarse del servicio sin causa justificada por tres días consecutivos, o cinco discontinuos, dentro de un período de treinta días naturales;
+
+e) Cumplir con las obligaciones que les impongan las leyes respectivas y demás disposiciones aplicables;
+
+f) No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio, y
+
+g) Los demás requisitos que establezcan las disposiciones aplicables.
 
 ## CAPÍTULO IV
 REQUISITOS DE INGRESO Y PERMANENCIA ESPECIALES PARA PERSONAS AGENTES DEL MINISTERIO PÚBLICO DE LA FEDERACIÓN
 
 ### Artículo 57
 . Además de cumplir con los requisitos señalados en el artículo 56 de esta Ley, para ingresar o permanecer como personas agentes del Ministerio Público de la Federación integrantes del servicio profesional de carrera sustantivo, se requerirá cumplir con los siguientes:
-I. Para ingresar: a) Contar con título de abogada o abogado o licenciada o licenciado en derecho expedido y registrado legalmente, y con la correspondiente cédula profesional; b) Tener por lo menos un año de experiencia profesional contados a partir de la expedición del título profesional al día de la designación; c) Sustentar y acreditar el examen de oposición, y d) Los demás requisitos que establezcan las disposiciones aplicables.
-II. Para permanecer: a) Cumplir los requisitos a que se refiere la fracción I de este artículo durante el servicio; b) Aprobar los programas de formación permanente y, en su caso, especialización, así como las evaluaciones que establezcan las disposiciones aplicables; c) Mantener vigente la certificación correspondiente; d) Cumplir las órdenes de comisión, rotación y cambio de adscripción; e) Cumplir con las obligaciones que les impongan las leyes respectivas y demás disposiciones aplicables, y f) Los demás requisitos que establezcan las disposiciones aplicables.
+
+I. Para ingresar:
+
+a) Contar con título de abogada o abogado o licenciada o licenciado en derecho expedido y registrado legalmente, y con la correspondiente cédula profesional;
+
+b) Tener por lo menos un año de experiencia profesional contados a partir de la expedición del título profesional al día de la designación;
+
+c) Sustentar y acreditar el examen de oposición, y
+
+d) Los demás requisitos que establezcan las disposiciones aplicables.
+
+II. Para permanecer:
+
+a) Cumplir los requisitos a que se refiere la fracción I de este artículo durante el servicio;
+
+b) Aprobar los programas de formación permanente y, en su caso, especialización, así como las evaluaciones que establezcan las disposiciones aplicables;
+
+c) Mantener vigente la certificación correspondiente;
+
+d) Cumplir las órdenes de comisión, rotación y cambio de adscripción;
+
+e) Cumplir con las obligaciones que les impongan las leyes respectivas y demás disposiciones aplicables, y
+
+f) Los demás requisitos que establezcan las disposiciones aplicables.
 
 ## CAPÍTULO V
 REQUISITOS DE INGRESO Y PERMANENCIA ESPECIALES PARA PERSONAS AGENTES DE LA POLICÍA FEDERAL MINISTERIAL, PERSONAS PERITAS, PERSONAS ANALISTAS Y PERSONAS FACILITADORAS
 
 ### Artículo 58
 . Además de cumplir con los requisitos señalados en el artículo 56 de esta Ley, para ingresar o permanecer como personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas y personas facilitadoras sujetas al servicio profesional de carrera sustantivo, se requerirá cumplir con los siguientes:
-I. Para ingresar: a) Tener título legalmente expedido y registrado por la autoridad competente o la carrera terminada; b) Sustentar y acreditar el examen de oposición; c) Cursar y aprobar la formación y capacitación inicial; d) No haber sido sujeto o dado motivo a recomendaciones por parte de organismos públicos de derechos humanos, siempre y cuando exista una imputación personal y directa; e) Sustentar y acreditar el concurso de ingreso por oposición; f) Contar con los requisitos de edad y el perfil físico, médico y de personalidad que se requiera en el perfil de puesto o cualquier otro que en su caso se exija; g) No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo, y h) Los demás requisitos que establezcan otras disposiciones aplicables.
+
+I. Para ingresar:
+
+a) Tener título legalmente expedido y registrado por la autoridad competente o la carrera terminada;
+
+b) Sustentar y acreditar el examen de oposición;
+
+c) Cursar y aprobar la formación y capacitación inicial;
+
+d) No haber sido sujeto o dado motivo a recomendaciones por parte de organismos públicos de derechos humanos, siempre y cuando exista una imputación personal y directa;
+
+e) Sustentar y acreditar el concurso de ingreso por oposición;
+
+f) Contar con los requisitos de edad y el perfil físico, médico y de personalidad que se requiera en el perfil de puesto o cualquier otro que en su caso se exija;
+
+g) No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo, y
+
+h) Los demás requisitos que establezcan otras disposiciones aplicables.
 Para el caso de las personas peritas, personas analistas y personas facilitadoras, el requisito a que se refiere el inciso a), de la fracción I, del presente artículo, se satisface cuando el título a que se hace referencia les faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar o las acciones que realizará, cuando de acuerdo con las normas aplicables no necesiten título o cédula profesional para su ejercicio, en los términos que disponga el Estatuto del Servicio Profesional de Carrera.
-I. Para permanecer: a) Participar en los procesos de promoción o ascenso que se convoquen conforme a las disposiciones aplicables; b) Cumplir con las órdenes de comisión y rotación, así como los cambios de adscripción, y c) Los demás requisitos que establezcan las disposiciones aplicables.
+
+I. Para permanecer:
+
+a) Participar en los procesos de promoción o ascenso que se convoquen conforme a las disposiciones aplicables;
+
+b) Cumplir con las órdenes de comisión y rotación, así como los cambios de adscripción, y
+
+c) Los demás requisitos que establezcan las disposiciones aplicables.
 
 ## CAPÍTULO VI
 REQUISITOS DE INGRESO Y PERMANENCIA ESPECIALES PARA PERSONAS SERVIDORAS PÚBLICAS ESPECIALIZADAS, PROFESIONALES, TÉCNICAS Y ADMINISTRATIVAS
 
 ### Artículo 59
 . Además de cumplir con los requisitos señalados en el artículo 56 de esta Ley, para ingresar y permanecer como persona servidora pública especializada, profesional, técnica y administrativa del servicio profesional de carrera, se requerirá cumplir con los requisitos siguientes:
+
 I. Presentar y acreditar los procedimientos de reclutamiento, en los términos que señalen las disposiciones aplicables del Estatuto del Servicio Profesional de Carrera;
+
 II. Presentar y aprobar las evaluaciones de control de confianza y de competencias profesionales previstas en las disposiciones aplicables;
-III. Mantener vigente la certificación correspondiente, y IV. Los demás que establezcan las disposiciones aplicables.
+
+III. Mantener vigente la certificación correspondiente, y
+
+IV. Los demás que establezcan las disposiciones aplicables.
 
 ## CAPÍTULO VII
 EXAMEN DE OPOSICIÓN
@@ -626,7 +1098,10 @@ EXAMEN DE OPOSICIÓN
 ### Artículo 60
 . El examen de oposición a que se refieren los artículos 57 y 58 de esta Ley, tiene por objeto evaluar si la persona aspirante cuenta con los conocimientos y habilidades necesarias para desempeñar funciones sustantivas, mismo que se conforma por dos etapas, una oral y otra escrita.
 El examen de oposición se presentará ante el Instituto Nacional de Ciencias Penales, el cual integrará un sínodo compuesto por:
-I. La persona servidora pública con nivel mínimo de jefe de supervisión o equivalente, adscrita a un área diversa a aquélla en la que se incorporará la persona aspirante, quien fungirá como presidente, y II. Dos personas decanas de la rama sustantiva de que se trate, quienes fungirán como persona secretaria y vocal, respectivamente.
+
+I. La persona servidora pública con nivel mínimo de jefe de supervisión o equivalente, adscrita a un área diversa a aquélla en la que se incorporará la persona aspirante, quien fungirá como presidente, y
+
+II. Dos personas decanas de la rama sustantiva de que se trate, quienes fungirán como persona secretaria y vocal, respectivamente.
 La calificación del examen oral se determinará tomando en consideración el promedio de puntos que cada una de las personas integrantes del sínodo le asigne a la persona sustentante, misma que se basará en una escala de 0 a 10. La calificación del examen escrito se basará en una escala de 0 a 10.
 Para ambos exámenes, la calificación mínima aprobatoria será de 7.0.
 Corresponderá al Instituto Nacional de Ciencias Penales la aprobación en definitiva del examen de oposición y su decisión no admitirá recurso alguno.
@@ -636,20 +1111,34 @@ TERMINACIÓN DE LAS RELACIONES DE LA FISCALÍA GENERAL CON SU PERSONAL
 
 ### Artículo 61
 . Las relaciones jurídicas entre la Fiscalía General y su personal terminarán por las causas siguientes:
+
 I. Renuncia;
+
 II. Incapacidad permanente para el desempeño de sus funciones dictaminada por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
 III. Destitución, en los términos que señale la Ley General de Responsabilidades Administrativas y la presente Ley;
+
 IV. Inhabilitación;
+
 V. Remoción;
+
 VI. Consecuencia del procedimiento correspondiente;
+
 VII. Por mandamiento judicial que tenga efecto equivalente a lo previsto en las fracciones anteriores;
+
 VIII. Muerte;
-IX. Jubilación o retiro, y X. Cualquier otra causa prevista en las disposiciones legales aplicables.
+
+IX. Jubilación o retiro, y
+
+X. Cualquier otra causa prevista en las disposiciones legales aplicables.
 
 ### Artículo 62
 . Si la separación, remoción, destitución, inhabilitación, cese o cualquier otra forma de terminación del servicio profesional de carrera fuera declarada mediante sentencia definitiva como injustificada, la Fiscalía General sólo estará obligada a pagar la indemnización y demás prestaciones a que se refiere esta Ley y las disposiciones aplicables, sin que en ningún caso proceda su reincorporación.
 La indemnización a que se refiere el párrafo anterior consistirá en:
-I. Veinte días de salario base por cada uno de los años de servicios prestados, y II. Tres meses de salario integral.
+
+I. Veinte días de salario base por cada uno de los años de servicios prestados, y
+
+II. Tres meses de salario integral.
 
 ### Artículo 63
 . Al concluir la relación jurídica que la Fiscalía General sostenga con su personal, éste deberá entregar toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o guarda y custodia.
@@ -702,9 +1191,14 @@ La persona servidora pública que forme parte del servicio profesional de carrer
 
 ### Artículo 72
 . [La persona servidora pública que forme parte del servicio profesional de carrera de la rama sustantiva e incurra en faltas administrativas por incumplimiento o transgresión al contenido de las obligaciones previstas en los artículos 47 y 48, se le sancionará, según la gravedad de la infracción, con:
+
 I. Amonestación privada;
+
 II. Amonestación pública;
-III. Suspensión de empleo cargo o comisión hasta por 90 días sin goce de sueldo, o IV. Remoción.
+
+III. Suspensión de empleo cargo o comisión hasta por 90 días sin goce de sueldo, o
+
+IV. Remoción.
 Lo anterior, sin perjuicio de cualquier otra responsabilidad y sanción a que haya lugar, previstas en las disposiciones legales aplicables.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023
 
 ### Artículo 73
@@ -720,22 +1214,38 @@ Lo anterior, sin perjuicio de cualquier otra responsabilidad y sanción a que ha
 
 ### Artículo 76
 . [Para la imposición de las sanciones administrativas serán tomados en consideración los elementos siguientes:
+
 I. La gravedad de la conducta que se atribuya a la persona servidora pública;
+
 II. La necesidad de suprimir conductas y/o prácticas que afecten la imagen y el debido funcionamiento de la Fiscalía General;
+
 III. La reincidencia de la persona responsable;
+
 IV. El nivel jerárquico, el grado académico y la antigüedad en el servicio;
+
 V. Las circunstancias y medios de ejecución;
-VI. Las circunstancias socioeconómicas de la persona servidora pública, y VII. En su caso, el monto del beneficio obtenido a raíz de la conducta sancionada; o bien, el daño o perjuicio económico ocasionado con el incumplimiento de las obligaciones.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023
+
+VI. Las circunstancias socioeconómicas de la persona servidora pública, y
+
+VII. En su caso, el monto del beneficio obtenido a raíz de la conducta sancionada; o bien, el daño o perjuicio económico ocasionado con el incumplimiento de las obligaciones.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023
 
 ### Artículo 77
 . [El Órgano Interno de Control impondrá la sanción que corresponda en los casos de los artículos 72, 73 y 74 de esta Ley, conforme al procedimiento siguiente:
+
 I. Se iniciará de oficio o, por queja presentada ante el Órgano Interno de Control, por las personas titulares de las Fiscalías Especializadas, fiscalías o unidades administrativas o la Fiscalía Especializada de Asuntos Internos, o por vista que realicen las personas servidoras públicas adscritas a las unidades administrativas, en el ejercicio de sus atribuciones, previo desahogo de las diligencias de investigación que estimen pertinentes y que permitan advertir la existencia de la falta administrativa y la probabilidad de que la persona servidora pública participó en su comisión;
+
 II. Las quejas o vistas que se formulen deberán estar apoyadas en los elementos de prueba suficientes para advertir las circunstancias de tiempo, modo, lugar y ocasión en que pudo haber ocurrido el incumplimiento de las obligaciones a cargo del personal sustantivo de la Institución;
+
 III. Con una copia de la queja o de la vista y sus anexos, o bien, con los registros electrónicos de los mismos, se correrá traslado a la persona servidora pública, para que en un término de quince días hábiles formule un informe sobre los hechos y rinda las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la queja o en la vista, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar;
+
 IV. Al momento de correrle traslado, se le hará saber su derecho a no declarar en su contra, ni a declararse culpable; así como para defenderse personalmente o ser asistido por una persona defensora perita en la materia. En caso de que no cuente con una persona defensora, le será asignado una persona defensora de oficio;
+
 V. De igual forma, se citará a la persona servidora pública a una audiencia, misma que deberá celebrarse en un plazo no menor de veinte ni mayor de treinta días posteriores a la fecha de la citación, en la que se desahogarán las pruebas respectivas si las hubiere, y se recibirán sus alegatos, por sí o por medio de su persona defensora.
 Una vez verificada la audiencia y desahogadas las pruebas, el Órgano Interno de Control, dentro de los cuarenta días hábiles siguientes, emitirá la determinación sobre la existencia o no de la responsabilidad, y en su caso impondrá a la persona responsable la sanción correspondiente;
-VI. Si del resultado de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad a cargo de la persona presunta responsable o de otras, se podrá disponer la práctica de investigaciones y acordar la celebración de otra u otras audiencias, y VII. En cualquier momento, previo o posterior a la celebración de la audiencia, el Órgano Interno de Control, podrá determinar la suspensión temporal de la persona sujeta al procedimiento, como medida cautelar, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará si así lo resuelve, el Órgano Interno de Control, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere este artículo.
+
+VI. Si del resultado de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad a cargo de la persona presunta responsable o de otras, se podrá disponer la práctica de investigaciones y acordar la celebración de otra u otras audiencias, y
+
+VII. En cualquier momento, previo o posterior a la celebración de la audiencia, el Órgano Interno de Control, podrá determinar la suspensión temporal de la persona sujeta al procedimiento, como medida cautelar, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará si así lo resuelve, el Órgano Interno de Control, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere este artículo.
 La suspensión no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la misma. Mientras dure la suspensión temporal se deberán decretar, al mismo tiempo, las medidas necesarias que le garanticen a la persona presunta responsable mantener su mínimo vital y de sus dependientes económicos, la cual deberá ser equivalente al treinta por ciento de sus percepciones netas y nunca inferior al salario tabular más bajo que se cubra en la Institución.
 Si la persona servidora pública suspendida conforme a esta fracción no resultare responsable será restituida en el goce de sus derechos.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023
 
@@ -750,8 +1260,12 @@ MEDIDAS DISCIPLINARIAS PARA PERSONAS AGENTES DE LA POLICÍA FEDERAL MINISTERIAL 
 
 ### Artículo 80
 . Sin perjuicio de otras sanciones en las cuales pudiesen incurrir las personas agentes de la Policía Federal Ministerial y las personas analistas que falten a la línea de mando o no ejecuten las órdenes directas que reciban, se harán acreedoras, en su caso, a un correctivo disciplinario, consistente en:
+
 I. Amonestación pública o privada;
-II. [Arresto hasta por veinticuatro horas, o] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023 III. Suspensión temporal, sin derecho a goce de sueldo hasta por tres días.
+
+II. [Arresto hasta por veinticuatro horas, o] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023
+
+III. Suspensión temporal, sin derecho a goce de sueldo hasta por tres días.
 
 ### Artículo 81
 . Para efectos de este Capítulo, [el arresto consiste en el confinamiento en espacios especiales destinado a ese fin;] la amonestación, es el acto mediante el cual se le llama la atención a la persona servidora pública y la conmina a rectificar su conducta.
@@ -759,8 +1273,12 @@ Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucio
 
 ### Artículo 82
 . Las medidas disciplinarias a que refiere el artículo 80 de esta Ley se impondrán de conformidad con las reglas siguientes:
+
 I. Las personas superiores jerárquicas o de cargo impondrán las medidas disciplinarias a las personas subordinadas;
-II. La persona titular de la Unidad encargada de la Policía Federal Ministerial tendrá la facultad para graduar las medidas disciplinarias; teniendo en consideración la jerarquía de quien lo impuso, la falta cometida y los antecedentes de la persona subordinada, y III. [Toda orden de arresto deberá darse por escrito y estar debidamente fundada y motivada.] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023 [La persona que impida el cumplimiento de un arresto, permita que se quebrante o no lo cumpla, será sancionada conforme a una falta considerada como grave. La reincidencia significará en cualquier caso la aplicación de la sanción establecida en la fracción III del artículo 72 de esta Ley, y sustanciado el procedimiento correspondiente y determinada su responsabilidad implicará la separación en términos del
+
+II. La persona titular de la Unidad encargada de la Policía Federal Ministerial tendrá la facultad para graduar las medidas disciplinarias; teniendo en consideración la jerarquía de quien lo impuso, la falta cometida y los antecedentes de la persona subordinada, y
+
+III. [Toda orden de arresto deberá darse por escrito y estar debidamente fundada y motivada.] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023 [La persona que impida el cumplimiento de un arresto, permita que se quebrante o no lo cumpla, será sancionada conforme a una falta considerada como grave. La reincidencia significará en cualquier caso la aplicación de la sanción establecida en la fracción III del artículo 72 de esta Ley, y sustanciado el procedimiento correspondiente y determinada su responsabilidad implicará la separación en términos del
 
 ## Capítulo IX, del Título VI de esta Ley.]
 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 28-03-2023 y publicada DOF 27-09-2023
@@ -773,15 +1291,26 @@ PATRIMONIO
 
 ### Artículo 83
 . Para la realización de sus funciones, el patrimonio de la Fiscalía General estará constituido por los bienes y recursos que a continuación se enumeran:
+
 I. Los que anualmente apruebe para la Fiscalía General la Cámara de Diputados del Congreso de la Unión en el Presupuesto de Egresos de la Federación;
+
 II. Los bienes muebles o inmuebles con los que cuente, así como los que adquiera y los que la Federación destine para el cumplimiento de sus funciones;
+
 III. Los bienes que le sean transferidos para el cumplimiento de sus funciones constitucionales y legales;
+
 IV. Los derechos de los fideicomisos o fondos destinados al cumplimiento de las funciones de la Fiscalía General;
+
 V. Las utilidades, intereses, dividendos, rentas y aprovechamientos de sus bienes muebles e inmuebles;
+
 VI. Los que reciba por concepto de los bienes o productos que enajene, y los trámites y servicios que preste, así como de otras actividades que redunden en un ingreso propio;
+
 VII. Los servicios de capacitación o adiestramiento que proporcione, así como de otras actividades que redunden en un ingreso propio;
+
 VIII. Las sanciones económicas impuestas por las autoridades competentes de la Fiscalía General de conformidad con ésta u otras leyes, mismas que tendrán la naturaleza de créditos fiscales y serán enviadas para su cobro a la Tesorería de la Federación, la cual, una vez efectuado el mismo entregará las cantidades respectivas a la Fiscalía General;
-IX. Los bienes que le correspondan de conformidad con la legislación aplicable, y X. Los demás que determinen las disposiciones aplicables.
+
+IX. Los bienes que le correspondan de conformidad con la legislación aplicable, y
+
+X. Los demás que determinen las disposiciones aplicables.
 El patrimonio de la Fiscalía General es inembargable e imprescriptible, no será susceptible de ejecución judicial o administrativa.
 
 ### Artículo 84
@@ -812,14 +1341,24 @@ PLAN ESTRATÉGICO DE PROCURACIÓN DE JUSTICIA CAPÍTULO ÚNICO PLAN ESTRATÉGICO
 ### Artículo 88
 . La Fiscalía General deberá publicar cada tres años el Plan Estratégico de Procuración de Justicia. En dicho instrumento programático se determinarán las estrategias institucionales, objetivos, metas medibles a corto, mediano y largo plazo, así como las prioridades de investigación para la eficiencia y eficacia de la persecución penal, partiendo del análisis y determinación del capital humano y los recursos financieros disponibles para el adecuado desempeño de la función sustantiva; deberá estructurar las funciones y establecerá los principios que regirán a la Institución, a partir de una política criminal basada en el conocimiento profundo del fenómeno delictivo para focalizar sus esfuerzos y recursos en dar respuesta al conflicto penal, la adecuada atención a la víctima y mejorar el acceso a la justicia.
 En este sentido, para la construcción del Plan Estratégico de Procuración de Justicia se podrá considerar, la siguiente información:
+
 I. Los distintos análisis de la incidencia delictiva;
+
 II. Los diagnósticos situacionales;
+
 III. Los informes sobre la situación de las personas víctimas del delito;
+
 IV. Los informes sobre violaciones a los derechos humanos;
+
 V. Los diagnósticos que presente cualquier persona de ciudadanía mexicana que contenga la metodología y los datos en su elaboración;
+
 VI. Las estadísticas oficiales de percepción de la violencia de la ciudadanía;
+
 VII. La opinión que emita el Consejo ciudadano, así como las observaciones de las instituciones de procuración de justicia y de seguridad pública, previa solicitud hecha por la persona titular de la Fiscalía General;
-VIII. La información institucional respecto a los indicadores de desempeño, productos estadísticos y reportes de información relativa al fenómeno de la delincuencia nacional e internacional, que generen las distintas áreas de la Fiscalía General, y IX. Los demás instrumentos, reportes e informes que sean fuente certera de información relacionada.
+
+VIII. La información institucional respecto a los indicadores de desempeño, productos estadísticos y reportes de información relativa al fenómeno de la delincuencia nacional e internacional, que generen las distintas áreas de la Fiscalía General, y
+
+IX. Los demás instrumentos, reportes e informes que sean fuente certera de información relacionada.
 La persona titular de la Fiscalía General presentará, al inicio de su gestión, ante el Senado de la República, el Plan Estratégico de Procuración de Justicia.
 El Senado de la República tendrá máximo sesenta días naturales para la emisión del dictamen respecto del Plan Estratégico de Procuración de Justicia, en caso de que esto no suceda en el plazo estipulado, se enlistará para su presentación y votación en el pleno en la primera sesión.
 El Plan deberá ser presentado a la persona titular del Poder Ejecutivo Federal, para su conocimiento.
@@ -851,29 +1390,53 @@ FACULTADES DEL ÓRGANO INTERNO DE CONTROL
 
 ### Artículo 93
 . Serán facultades del Órgano Interno de Control las siguientes: del Sistema Nacional Anticorrupción, dentro de las que se encuentran las relativas a inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de todas las personas servidoras públicas de la Fiscalía General;
+
 II. Emitir, de conformidad con los objetivos, estrategias y prioridades, su Programa Anual de Trabajo;
+
 III. Verificar que el ejercicio de gasto de la Fiscalía General se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
 IV. Realizar auditorías, revisiones y evaluaciones y presentar a la persona titular de la Fiscalía General, los informes correspondientes con el objeto de examinar, fiscalizar y promover la eficiencia, eficacia y legalidad en su gestión y encargo, así como emitir recomendaciones;
+
 V. Revisar que las operaciones presupuestales que realice la Fiscalía General se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
 VI. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
 VII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Fiscalía General;
+
 VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Fiscalía General, empleando la metodología que determine;
+
 IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
 X. Solicitar la información y efectuar visitas a las áreas de la Fiscalía General para el cumplimento de sus funciones;
+
 XI. Ejercer en el ámbito de la Fiscalía General, en lo que resulte conducente, las facultades que la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas y la Ley de Asociaciones Público Privadas, prevén para la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública;
+
 XII. Intervenir en los actos de entrega-recepción de las personas servidoras públicas de la Fiscalía General en los términos de la normatividad aplicable;
+
 XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
 XIV. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
 XV. Presentar a la persona titular de la Fiscalía General los informes, previo y anual, de resultados de su gestión; el informe previo abarcará los periodos de enero a junio entregándose en el mes de julio y de julio a diciembre entregándose en el mes de enero, y el informe anual se entregará en el mes de febrero;
+
 XVI. Presentar al Fiscal General los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, estos informes se contemplan en el informe previo y anual señalados en la fracción anterior;
 Reglas de Integridad para el ejercicio de la procuración de justicia;
+
 XVIII. Establecer en coordinación con la Oficialía Mayor, mecanismos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
 XIX. Vigilar, en colaboración con las autoridades competentes, el cumplimiento de las normas de control interno, fiscalización, integridad, transparencia, rendición de cuentas, acceso a la información y combate a la corrupción en la Fiscalía General;
+
 XX. Nombrar y remover libremente a las personas titulares de las unidades adscritas al Órgano Interno de Control, cumpliendo con todos los requisitos señalados para las personas servidoras públicas de la Fiscalía General;
+
 XXI. Suscribir los convenios que requiera para el ejercicio de sus facultades, en términos del Estatuto orgánico;
+
 XXII. Certificar las copias de documentos que se encuentren en los archivos del Órgano Interno de Control;
+
 XXIII. Definir las políticas y la estrategia para tramitar, instruir y resolver, los procedimientos por responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General;
-XXIV. Ejercer las facultades previstas en esta Ley respecto de los órganos que se encuentren dentro del ámbito de la Fiscalía General, y XXV. Las demás que señalen las leyes y disposiciones aplicables.
+
+XXIV. Ejercer las facultades previstas en esta Ley respecto de los órganos que se encuentren dentro del ámbito de la Fiscalía General, y
+
+XXV. Las demás que señalen las leyes y disposiciones aplicables.
 
 ## CAPÍTULO IV
 DESIGNACIÓN, DURACIÓN, REQUISITOS Y RESPONSABILIDADES DE LA PERSONA TITULAR DEL ÓRGANO INTERNO DE CONTROL
@@ -881,12 +1444,20 @@ DESIGNACIÓN, DURACIÓN, REQUISITOS Y RESPONSABILIDADES DE LA PERSONA TITULAR DE
 ### Artículo 94
 . La persona titular del Órgano Interno de Control será designada por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de las personas integrantes presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
 La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
 I. Contar con la ciudadanía mexicana en pleno goce de sus derechos civiles y políticos, y tener cuando menos treinta y cinco años cumplidos a la designación del cargo;
+
 II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
 III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
+
 IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título y cédula profesional relacionado con las actividades a que se refiere la fracción anterior, expedidos de conformidad con las disposiciones legales aplicables;
+
 V. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Fiscalía General, o haber fungido como persona consultora o auditora externa de la Fiscalía General en lo individual durante ese periodo;
-VI. No ser persona inhabilitada para desempeñar un empleo, cargo o comisión en el servicio público, y VII. No haber ocupado la titularidad de una Secretaría de Estado, Senaduría, Diputación Federal, del poder Ejecutivo de alguna entidad federativa, no haber sido persona miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulada para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+VI. No ser persona inhabilitada para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VII. No haber ocupado la titularidad de una Secretaría de Estado, Senaduría, Diputación Federal, del poder Ejecutivo de alguna entidad federativa, no haber sido persona miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulada para cargo de elección popular en los cuatro años anteriores a la propia designación.
 
 ### Artículo 95
 . La persona titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designada por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos. Tendrá un nivel jerárquico igual al de una plaza de persona Fiscal Especializada o su equivalente en la estructura orgánica de la Fiscalía General, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo 79 de la Constitución. La persona titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades a la persona titular de la Fiscalía General, del cual marcará copia a la Cámara de Diputados.
@@ -917,15 +1488,26 @@ Esta lista será dada a conocer por diez días para que la sociedad se pronuncie
 
 ### Artículo 100
 . El Consejo Ciudadano tendrá las siguientes facultades:
+
 I. Opinar, dar seguimiento y emitir recomendaciones públicas sobre el contenido e implementación del Plan Estratégico de Procuración de Justicia que presente la persona titular de la Fiscalía General, así como los programas anuales de trabajo y su implementación;
+
 II. Opinar sobre la creación de nuevas estructuras propuestas por la persona titular de la Fiscalía General;
+
 III. Hacer del conocimiento del Órgano Interno de Control cuando advierta una probable responsabilidad administrativa;
+
 IV. Dar opiniones para fortalecer el presupuesto de la Institución;
+
 V. Opinar sobre la normatividad interna de la Fiscalía General;
+
 VI. Opinar sobre las propuestas y planes del servicio profesional de carrera;
+
 VII. Establecer sus reglas operativas;
+
 VIII. Emitir opiniones y recomendaciones sobre el desempeño de la Fiscalía General y sus áreas;
-IX. Invitar a personas expertas, nacionales e internacionales, para un mejor desarrollo de sus funciones, y X. Las demás que establezcan esta Ley y el Estatuto orgánico.
+
+IX. Invitar a personas expertas, nacionales e internacionales, para un mejor desarrollo de sus funciones, y
+
+X. Las demás que establezcan esta Ley y el Estatuto orgánico.
 Las opiniones y recomendaciones emitidas por el Consejo Ciudadano no son vinculantes. La Fiscalía General y las áreas a las que vayan dirigidas las recomendaciones deberán fundar y motivar las razones por las cuales se acepta o rechaza la recomendación. Siempre serán de carácter público.
 Cualquier intromisión en aspectos sustantivos de la función fiscal tendrá como sanción la remoción de la persona consejera respectiva, por parte de la persona titular de la Fiscalía General.
 

@@ -35,9 +35,14 @@ Para ello, la Comisión Nacional de Energía puede contar con oficinas estatales
 
 ### Artículo 6
 .- Para efectos de la interpretación y aplicación de la presente Ley, se deben entender los conceptos y las definiciones, en singular o plural, previstos en la Ley del Sector Hidrocarburos, la Ley del Sector Eléctrico, la Ley de Planeación y Transición Energética y, las siguientes:
+
 I. Actividades en materia energética: Las actividades relacionadas con el sector eléctrico y el sector hidrocarburos cuya realización se rige por la Ley del Sector Hidrocarburos, la Ley del Sector Eléctrico y las disposiciones que de éstas deriven;
+
 II. Comisión: Comisión Nacional de Energía;
-III. Secretaría: Secretaría de Energía, y IV. Sujeto Regulado: Las Empresas Públicas del Estado, las personas físicas y morales de los sectores público, social y privado que realicen Actividades en materia energética.
+
+III. Secretaría: Secretaría de Energía, y
+
+IV. Sujeto Regulado: Las Empresas Públicas del Estado, las personas físicas y morales de los sectores público, social y privado que realicen Actividades en materia energética.
 TÍTULO SEGUNDO ATRIBUCIONES DE LA COMISIÓN Y LAS BASES DE COORDINACIÓN
 
 ## Capítulo I
@@ -45,47 +50,87 @@ Atribuciones de la Comisión Nacional de Energía
 
 ### Artículo 7
 .- La Comisión tiene, en el ámbito de su competencia las atribuciones siguientes:
+
 I. Emitir actos y resoluciones con carácter técnico, administrativo y operativo sobre las Actividades en materia energética, así como vigilar y supervisar su cumplimiento;
+
 II. Expedir la regulación y disposiciones administrativas de carácter general sobre las Actividades en materia energética, así como supervisar y vigilar su cumplimiento;
+
 III. Emitir resoluciones, acuerdos, criterios de interpretación, directivas, bases y demás actos administrativos necesarios para el cumplimiento de sus atribuciones;
+
 IV. Imponer y ejecutar las sanciones respecto de los actos u omisiones que den lugar a ello, de conformidad con las disposiciones aplicables;
+
 V. Otorgar, modificar, actualizar, revocar y extinguir los permisos, autorizaciones y los demás actos administrativos sobre las Actividades en materia energética, así como vigilar y supervisar su cumplimiento;
+
 VI. Solicitar a los Sujetos Regulados la información y la documentación necesaria, así como la exhibición de dictámenes, reportes técnicos, informes de pruebas, contratos con terceros, estudios, certificados, documentos de evaluación de la conformidad o cualquier otro documento que se requiera para el ejercicio de sus atribuciones;
+
 VII. Requerir a terceros que tengan relaciones de negocios con los Sujetos Regulados, información relacionada con las autorizaciones y permisos que se hayan emitido, y de los contratos, asignaciones y convenios relativos a las Actividades en materia energética;
+
 VIII. Proponer a la Secretaría las disposiciones para autorizar y vigilar a las personas especialistas técnicas, para la emisión de dictámenes y reportes técnicos para la evaluación de la conformidad del cumplimiento de la regulación técnica que emita;
+
 IX. Ordenar y realizar visitas de verificación, inspección o supervisión, y requerir la presentación de información y documentación;
+
 X. Citar a comparecer a las personas servidoras públicas y particulares que realicen Actividades en materia energética, a fin de supervisar y vigilar el cumplimiento de las disposiciones jurídicas aplicables, así como de la regulación, autorizaciones y permisos que se hayan emitido relativos a las Actividades en materia energética;
+
 XI. Realizar las visitas de verificación, inspección o supervisión que le soliciten las Secretarías de Energía y de Hacienda y Crédito Público, entregando a éstas el informe de cierre de la visita y los demás informes que le soliciten;
+
 XII. Imponer las medidas provisionales o de prevención que correspondan, incluyendo la clausura y la suspensión de las instalaciones y actividades que regule y supervise de conformidad con la normatividad aplicable;
+
 XIII. Promover los actos jurídicos que se requieran para hacer efectiva la declaratoria de utilidad pública, relacionados con los permisos y autorizaciones otorgados por la propia Comisión;
+
 XIV. Participar en foros, organismos y asociaciones internacionales, previa opinión favorable de la Secretaría. Así como celebrar convenios y asociaciones con órganos técnicos de otros países o agencias de cooperación internacional que autorice dicha Secretaría;
+
 XV. Participar con las dependencias competentes en la formulación de los proyectos de iniciativas de leyes, decretos, disposiciones reglamentarias, Normas Oficiales Mexicanas y actualización del marco normativo;
+
 XVI. Coadyuvar en las mediaciones o arbitrajes que realice o intervenga la Secretaría en la solución de controversias;
+
 XVII. Aportar elementos técnicos a la Secretaría para la formulación y seguimiento del Programa Sectorial de Energía y demás instrumentos de política pública en la materia;
+
 XVIII. Prestar asesoría técnica a la Secretaría, así como a otras dependencias y entidades de la Administración Pública Federal previa autorización de la Secretaría, y realizar estudios técnicos;
+
 XIX. Aprobar la contratación de servicios de consultoría, capacitación, asesoría, estudios e investigaciones que sean requeridos para sus actividades y aquellos que tengan por objeto apoyar el ejercicio de sus facultades de supervisión y de administración técnica de permisos, contratos y asignaciones, de conformidad con las leyes aplicables y presupuesto asignado;
+
 XX. Iniciar, tramitar y resolver los procedimientos administrativos que con motivo de sus atribuciones se promuevan, con base en las disposiciones aplicables;
-XXI. Llevar un sistema de registro de permisos, autorizaciones o cualquier otro acto que emita sobre las Actividades en materia energética, y XXII. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplicables, así como las que le sean delegadas por la Secretaría.
+
+XXI. Llevar un sistema de registro de permisos, autorizaciones o cualquier otro acto que emita sobre las Actividades en materia energética, y
+
+XXII. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplicables, así como las que le sean delegadas por la Secretaría.
 
 ### Artículo 8
 .- En el sector eléctrico, la Comisión tiene las atribuciones siguientes de conformidad con lo señalado en la Ley del Sector Eléctrico:
+
 I. Emitir la metodología para determinar las tarifas y contraprestaciones del sector y realizar el seguimiento de costos, previa opinión favorable de la Secretaría;
+
 II. Evaluar la productividad y eficiencia de la empresa pública del Estado, Comisión Federal de Electricidad;
+
 III. Analizar la ejecución y evolución de los subsidios a la tarifa eléctrica de suministro básico y cualquier otro que se establezca;
+
 IV. Otorgar, modificar, terminar y supervisar los permisos de generación y comercialización de energía eléctrica, así como emitir las autorizaciones y actos administrativos vinculados al sector, que se requieran;
+
 V. Regular, otorgar y llevar un registro de certificados de energías limpias que contenga al menos la información de los otorgados, de usuarios calificados que los emiten y de los usuarios finales obligados a adquirirlos, así como vigilar y supervisar su cumplimiento.
 La Comisión debe remitir las actualizaciones del registro de certificados de energía limpia de manera mensual a la Secretaría;
+
 VI. Regular, previa opinión favorable de la Secretaría, las tarifas para suministro básico, la transmisión, la distribución, la operación del Centro Nacional de Control de Energía y los servicios conexos no incluidos en el mercado eléctrico mayorista, así como las demás a que se refiera la Ley del Sector Eléctrico;
+
 VII. Promover el desarrollo ordenado, continuo y seguro de las actividades de generación de electricidad, los servicios públicos de transmisión y distribución eléctrica, y la comercialización de electricidad;
-VIII. Vigilar y supervisar el mercado eléctrico mayorista, y IX. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplicables, así como las que le delegue la Secretaría relacionadas con el sector.
+
+VIII. Vigilar y supervisar el mercado eléctrico mayorista, y
+
+IX. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplicables, así como las que le delegue la Secretaría relacionadas con el sector.
 
 ### Artículo 9
 .- En el sector hidrocarburos, la Comisión tiene las atribuciones siguientes, de conformidad con lo establecido en la Ley del Sector Hidrocarburos:
+
 I. Regular las contraprestaciones, precios y tarifas que resulten aplicables en las actividades del sector;
+
 II. Otorgar, modificar, terminar y supervisar los permisos para el procesamiento, licuefacción, regasificación, compresión, descompresión, transporte, almacenamiento, distribución, comercialización y expendio al público de gas natural;
+
 III. Otorgar, modificar, terminar y supervisar los permisos de formulación, transporte, almacenamiento, distribución, comercialización y expendio al público de petrolíferos;
+
 IV. Otorgar, modificar, terminar y supervisar los permisos de transporte, almacenamiento y comercialización de petroquímicos;
-V. El acopio, resguardo, uso, administración y actualización, así como la publicación de la información de las actividades del sector, en el ámbito de su competencia, en los medios que para tal efecto establezca la Secretaría, y VI. Las demás que le confiera esta Ley y otros ordenamientos jurídicos aplicables, así como las que le delegue la Secretaría relacionadas con el sector.
+
+V. El acopio, resguardo, uso, administración y actualización, así como la publicación de la información de las actividades del sector, en el ámbito de su competencia, en los medios que para tal efecto establezca la Secretaría, y
+
+VI. Las demás que le confiera esta Ley y otros ordenamientos jurídicos aplicables, así como las que le delegue la Secretaría relacionadas con el sector.
 
 ## Capítulo II
 Coordinación con otras autoridades
@@ -120,38 +165,71 @@ El plazo previsto en los dos párrafos anteriores inicia siempre que la Cámara 
 
 ### Artículo 15
 .- La persona titular de la Dirección General debe reunir los requisitos siguientes:
+
 I. Tener ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
 II. Poseer al día de la designación, título profesional en las materias afines de ingeniería, de las ciencias físico-matemáticas, de las ciencias biológicas y químicas o de las ciencias sociales y administrativas, con una antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello;
+
 III. No haber sido sentenciada por delitos dolosos que hayan ameritado pena privativa de la libertad por más de un año, o inhabilitada para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público;
+
 IV. Haberse desempeñado en forma destacada, durante al menos diez años, en actividades profesionales, de servicio público o académicas relacionadas con el Sector Energético;
-V. No haber ocupado, en el año previo a su designación, ningún empleo, cargo o función directiva en las empresas que estén sujetas a la regulación de la Comisión, y VI. No desempeñar durante el periodo de su encargo otra comisión o empleo dentro de la Federación, entidades federativas, municipios, alcaldías de la Ciudad de México, órganos autónomos constitucionales, organismos descentralizados, Empresas Públicas del Estado, empresas de participación estatal o de algún particular, excepto los cargos o empleos de carácter docente y los honoríficos.
+
+V. No haber ocupado, en el año previo a su designación, ningún empleo, cargo o función directiva en las empresas que estén sujetas a la regulación de la Comisión, y
+
+VI. No desempeñar durante el periodo de su encargo otra comisión o empleo dentro de la Federación, entidades federativas, municipios, alcaldías de la Ciudad de México, órganos autónomos constitucionales, organismos descentralizados, Empresas Públicas del Estado, empresas de participación estatal o de algún particular, excepto los cargos o empleos de carácter docente y los honoríficos.
 
 ### Artículo 16
 .- La persona titular de la Dirección General de la Comisión tiene las siguientes facultades:
+
 I. Administrar y representar legalmente a la Comisión, tanto en su carácter de autoridad del Sector Energético, como de órgano administrativo desconcentrado, con la suma de facultades generales y especiales que, en su caso, requiera conforme a la legislación aplicable;
+
 II. Acordar con la persona titular de la Secretaría el despacho de los asuntos de su competencia;
+
 III. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de las unidades administrativas de la Comisión, conforme a los instrumentos normativos de planeación y demás disposiciones jurídicas aplicables;
+
 IV. Dirigir, supervisar y coordinar el desarrollo de las actividades de las unidades administrativas de la Comisión;
+
 V. Integrar y presentar los expedientes de los permisos, autorizaciones, resoluciones y demás actos administrativos relacionados con el Sector Energético que generen las unidades administrativas de la Comisión para la aprobación del Comité Técnico;
+
 VI. Ejecutar los acuerdos técnicos que dicte el Comité Técnico;
+
 VII. Formalizar los permisos, autorizaciones y emitir los demás actos administrativos vinculados a las materias reguladas por la Comisión, aprobados por el Comité Técnico;
+
 VIII. Nombrar y remover, con excepción de las dos personas con jerarquías inmediatas inferiores a su cargo, cambiar de adscripción o radicación, comisionar, reasignar o trasladar a las personas servidoras públicas de las unidades administrativas a su cargo y, demás acciones previstas en los ordenamientos aplicables;
+
 IX. Proponer al Comité Técnico los nombramientos de las dos personas con jerarquías inmediatas inferiores a su cargo;
+
 X. Emitir resoluciones, acuerdos, directivas, bases y demás actos administrativos necesarios para el cumplimiento de sus atribuciones;
+
 XI. Celebrar y suscribir convenios, contratos, informes, y los demás actos e instrumentos jurídicos o de cualquier otra índole necesarios para el ejercicio de sus funciones y de las unidades administrativas a su cargo; así como aquellos que les sean delegadas por acuerdo de la persona titular de la Secretaría;
+
 XII. Suscribir acuerdos interinstitucionales de cooperación técnica y administrativa para el ejercicio de sus atribuciones y de la Comisión;
+
 XIII. Contratar servicios de consultoría, asesoría y estudios e investigaciones que sean requeridos para sus actividades, incluyendo aquéllos que tengan por objeto apoyar el ejercicio de sus facultades de supervisión y de administración técnica de permisos, contratos y asignaciones, de conformidad con las leyes aplicables y presupuesto asignado;
+
 XIV. Integrar y presentar a la Secretaría, el programa de trabajo y el informe de desempeño anual de la gestión de la Comisión;
+
 XV. Coordinar la elaboración de los programas y anteproyectos de presupuesto anual y presentarlo ante la Secretaría para su entrega a la Secretaría de Hacienda y Crédito Público;
+
 XVI. Informar a la Secretaría los ingresos generados en el ejercicio de las atribuciones conferidas a la Comisión y su destino ejercido;
+
 XVII. Participar en foros, organismos y asociaciones nacionales e internacionales respecto de las materias de su competencia, previa opinión favorable de la Secretaría. Asimismo, puede celebrar convenios y asociaciones con órganos técnicos de otros países, previa opinión favorable de dicha Secretaría;
+
 XVIII. Expedir el código de conducta al que deben sujetarse las personas servidoras públicas adscritas a la Comisión;
+
 XIX. Expedir la regulación y disposiciones administrativas de carácter general o de carácter interno, así como supervisar y vigilar su cumplimiento;
+
 XX. Tramitar ante la Comisión Nacional de Mejora Regulatoria todo lo relativo al análisis de impacto regulatorio y demás acciones que contribuyan a fortalecer la infraestructura de la calidad en la Nación, respecto de las disposiciones a las que le resulte aplicable;
+
 XXI. Solicitar al Diario Oficial de la Federación, previa opinión favorable de la Secretaría, la publicación de la regulación, disposiciones administrativas de carácter general que expida y demás resoluciones y actos que estime deban publicarse;
+
 XXII. Iniciar, tramitar y resolver los procedimientos administrativos que con motivo de sus atribuciones se promuevan, con base en las disposiciones aplicables;
+
 XXIII. Realizar los actos administrativos y jurídicos necesarios para el ejercicio de las atribuciones que le confiera esta Ley, el reglamento interior de la Comisión y demás disposiciones aplicables;
-XXIV. Certificar y expedir copias certificadas de los documentos que obren en los archivos de la Comisión y de aquellos que expidan en el ejercicio de sus funciones, las personas servidoras públicas que les estén subordinadas, y XXV. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplicables, así como las que le sean delegadas por la Secretaría.
+
+XXIV. Certificar y expedir copias certificadas de los documentos que obren en los archivos de la Comisión y de aquellos que expidan en el ejercicio de sus funciones, las personas servidoras públicas que les estén subordinadas, y
+
+XXV. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplicables, así como las que le sean delegadas por la Secretaría.
 Para el ejercicio de las facultades establecidas en este artículo y el despacho de los asuntos de su competencia, la persona titular de la Dirección General se auxilia de las personas titulares de las unidades administrativas y demás personas funcionarias, en los términos que establezca el reglamento interior de la Comisión y las disposiciones legales aplicables.
 
 ## Capítulo III
@@ -159,27 +237,49 @@ Del Comité Técnico
 
 ### Artículo 17
 .- El Comité Técnico es un órgano colegiado, cuyo objeto es conocer, opinar, analizar, evaluar, dictaminar y aprobar los actos jurídicos o administrativos que emita la Comisión en el ámbito de su competencia; de manera particular, cuenta con las siguientes atribuciones:
+
 I. Aprobar los actos y resoluciones con carácter técnico y operativo de las Actividades en materia energética;
+
 II. Aprobar la regulación y disposiciones administrativas de carácter general que requiere la Comisión para el ejercicio de sus atribuciones;
+
 III. Emitir resoluciones, acuerdos, directivas, bases y dictámenes de carácter técnico;
+
 IV. Aprobar el otorgamiento, modificación, actualización, revocación y extinción de permisos, autorizaciones, así como emitir los demás actos administrativos relacionados con las Actividades en materia energética, en el ámbito de competencia de la Comisión;
+
 V. Aprobar el otorgamiento, revocación y extinción de los permisos de generación y comercialización de energía eléctrica, así como las autorizaciones y actos administrativos regulados por la normatividad aplicable al sector eléctrico;
+
 VI. Aprobar el programa anual de visitas de verificación, inspección o supervisión de las Actividades en materia energética de la Comisión en el ámbito de su competencia;
+
 VII. Proponer a la Secretaría las actualizaciones al marco jurídico del sector, en el ámbito de su competencia;
+
 VIII. Aprobar la metodología para determinar las tarifas y contraprestaciones del sector energético y realizar el seguimiento de costos que le correspondan;
+
 IX. Conocer las tarifas a las que se deben sujetar el suministro básico, la transmisión, la distribución, la operación del Centro Nacional de Control de Energía y los servicios conexos no incluidos en el mercado eléctrico mayorista, así como las demás a que se refiera la Ley del Sector Eléctrico;
+
 X. Aprobar la regulación de las contraprestaciones, precios y tarifas de las actividades del sector hidrocarburos;
+
 XI. Conocer la evaluación de la productividad y eficiencia de las Empresas Públicas del Estado y, en su caso, emitir las recomendaciones respectivas;
+
 XII. Aprobar los nombramientos de las dos personas de jerarquías inmediatas inferiores al de la persona titular de la Dirección General de la Comisión;
-XIII. Aprobar y expedir, a propuesta de la persona titular de la Dirección General, sus reglas de operación, y XIV. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplicables, así como las que le sean delegadas por la Secretaría.
+
+XIII. Aprobar y expedir, a propuesta de la persona titular de la Dirección General, sus reglas de operación, y
+
+XIV. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplicables, así como las que le sean delegadas por la Secretaría.
 
 ### Artículo 18
 .- El Comité Técnico de la Comisión se integra por las personas titulares de:
+
 I. La Secretaría, quien lo preside y tiene voto de calidad;
+
 II. La Subsecretaría de Electricidad de la Secretaría;
+
 III. La Subsecretaría de Hidrocarburos de la Secretaría;
+
 IV. La Unidad de Electricidad de la Comisión;
-V. La Unidad de Hidrocarburos de la Comisión, y VI. Tres personas expertas técnicas del sector energético.
+
+V. La Unidad de Hidrocarburos de la Comisión, y
+
+VI. Tres personas expertas técnicas del sector energético.
 La persona titular de la Secretaría puede ser suplida en su ausencia por la persona servidora pública que al efecto designe, la cual debe contar con una jerarquía de hasta de dos niveles inferiores.
 Las personas titulares referidas en las fracciones II a la V del presente artículo pueden ser suplidas en sus ausencias por la persona servidora pública que al efecto designen, la cual debe contar con el nivel jerárquico inmediato inferior al de la persona titular.
 La asistencia de las personas expertas técnicas a las sesiones, así como el desempeño de sus funciones, tienen el carácter estrictamente personal, por lo que no pueden ser representadas o suplidas.
@@ -200,27 +300,49 @@ Las personas expertas técnicas pueden contar con una persona, como máximo, que
 
 ### Artículo 21
 .- Las personas expertas técnicas deben cumplir con los siguientes requisitos:
+
 I. Tener ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
 II. No haber sido sentenciada por delitos dolosos que hayan ameritado pena privativa de la libertad por más de un año, o inhabilitada para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público;
+
 III. Contar con título profesional en cualquiera de las ingenierías, de las ciencias físicomatemáticas, de las ciencias biológicas y químicas o de las ciencias sociales y administrativas, que se vinculen con Actividades en materia energética, con una antigüedad no menor a cinco años al día de la designación;
-IV. Haber desempeñado en forma destacada, durante al menos diez años, actividades profesionales, de servicio público o académicas relacionadas con Actividades en materia energética, y V. No haber ocupado, en los dos años previos a su designación, ningún empleo, cargo o función en las empresas que estén sujetas a la regulación de la Comisión.
+
+IV. Haber desempeñado en forma destacada, durante al menos diez años, actividades profesionales, de servicio público o académicas relacionadas con Actividades en materia energética, y
+
+V. No haber ocupado, en los dos años previos a su designación, ningún empleo, cargo o función en las empresas que estén sujetas a la regulación de la Comisión.
 Las personas expertas técnicas deben abstenerse de desempeñar cualquier otro empleo, trabajo, cargo o comisión públicos o privados en las empresas que estén sujetas a la regulación de la Comisión, con excepción de las actividades académicas, durante el tiempo de su encargo.
 
 ### Artículo 22
 .- Durante el tiempo de su encargo, las personas expertas técnicas sólo pueden ser removidas por alguna de las causas siguientes:
+
 I. Haber perdido o suspendido sus derechos ciudadanos;
+
 II. Ser sentenciada por la comisión de algún delito doloso;
-III. [Haber sido declarada en estado de interdicción;] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 04-11-2025 y publicada DOF 26-12-2025 IV. Incumplir alguna de las obligaciones a que se refieren las fracciones IX, X y XIII, del artículo 7, de la Ley General de Responsabilidades Administrativas, cuando dicho incumplimiento se determine por resolución definitiva;
+
+III. [Haber sido declarada en estado de interdicción;] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 04-11-2025 y publicada DOF 26-12-2025
+
+IV. Incumplir alguna de las obligaciones a que se refieren las fracciones IX, X y XIII, del artículo 7, de la Ley General de Responsabilidades Administrativas, cuando dicho incumplimiento se determine por resolución definitiva;
+
 V. No asistir a tres o más de tres sesiones ordinarias o extraordinarias del Comité Técnico al año, sin motivo o causa justificada;
+
 VI. Desempeñar cualquier otro tipo de empleo, trabajo, cargo o comisión públicos o privados no permitidos, salvo las actividades académicas;
+
 VII. Aprovechar o explotar la información a la que tengan acceso en virtud de su encargo, en beneficio propio o de terceras personas;
-VIII. Usar, sustraer, destruir, ocultar, inutilizar, divulgar, transferir o alterar, total o parcialmente y de manera indebida, información que se encuentre bajo su custodia, a la cual tenga acceso o conocimientos con motivo de su encargo, y IX. Emitir su voto mediante conflicto de interés o incumplir con lo dispuesto en el artículo 21 de la presente Ley.
+
+VIII. Usar, sustraer, destruir, ocultar, inutilizar, divulgar, transferir o alterar, total o parcialmente y de manera indebida, información que se encuentre bajo su custodia, a la cual tenga acceso o conocimientos con motivo de su encargo, y
+
+IX. Emitir su voto mediante conflicto de interés o incumplir con lo dispuesto en el artículo 21 de la presente Ley.
 
 ### Artículo 23
 .- Las personas expertas técnicas están impedidas para conocer asuntos en que tengan interés directo o indirecto. Se considera que existe interés directo o indirecto cuando una persona experta técnica:
+
 I. Tiene parentesco por consanguinidad, sin límite de grado, así como no ser cónyuge, concubina o concubinario, o integrante de una sociedad de convivencia, con alguna persona interesada o sus representantes;
+
 II. Tenga interés personal, familiar o de negocios en el asunto, incluyendo aquellos de los que pueda resultar su beneficio, su cónyuge, concubina o concubinario, o integrante de una sociedad de convivencia a la que pertenezca o sus parientes;
-III. Su cónyuge, concubina o concubinario, o integrante de una sociedad de convivencia a la que pertenezca o sus parientes en línea recta sin limitación de grado tengan o hayan aceptado derechos sucesorios o celebrado Contratos de donación o fianza con alguna de las personas interesadas o sus representantes, y IV. Haya sido testigo, apoderada, patrona o defensora en un asunto relacionado con las Actividades en materia energética, o haya gestionado en favor o en contra de alguna de las personas interesadas en dicho asunto.
+
+III. Su cónyuge, concubina o concubinario, o integrante de una sociedad de convivencia a la que pertenezca o sus parientes en línea recta sin limitación de grado tengan o hayan aceptado derechos sucesorios o celebrado Contratos de donación o fianza con alguna de las personas interesadas o sus representantes, y
+
+IV. Haya sido testigo, apoderada, patrona o defensora en un asunto relacionado con las Actividades en materia energética, o haya gestionado en favor o en contra de alguna de las personas interesadas en dicho asunto.
 Las personas expertas técnicas deben excusarse del conocimiento de los asuntos en que se presente alguno de los impedimentos señalados en el presente artículo en cuanto tengan conocimiento de su impedimento, expresando concretamente la causa de este, en cuyo caso el Comité Técnico debe calificar y resolver sobre la excusa.
 
 ### Artículo 24
@@ -289,9 +411,12 @@ SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Na
 Publicada en el Diario Oficial de la Federación el 26 de diciembre de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 51/2025 PROMOVENTE: COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS PONENTE: MINISTRO GIOVANNI AZAEL FIGUEROA MEJÍA SECRETARIO: OMAR CRUZ CAMACHO COLABORADOR: EMMANUEL IVÁN CAMARGO CRUZ Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al tres de noviembre de dos mil veinticinco, emite la siguiente:
 SENTENCIA Mediante la cual se resuelve la acción de inconstitucionalidad 51/2025, promovida por la Comisión Nacional de los Derechos Humanos en contra del artículo 22, fracción III, de la Ley de la Comisión Nacional de Energía, expedida mediante Decreto publicado el dieciocho de marzo de dos mil veinticinco en el Diario Oficial de la Federación.
 ANTECEDENTES Y TRÁMITE DE LA DEMANDA …….
+
 I. COMPETENCIA a VI. ESTUDIO DE FONDO …….
+
 VII. EFECTOS 45. Con fundamento en el artículo 73, en relación con los diversos 41, fracciones IV y V, y 45, párrafo
 **primero.** , de la Ley Reglamentaria de la materia, se declara la invalidez del artículo 22, fracción III, de la Ley de la Comisión Nacional de Energía. 46. La invalidez decretada surtirá efectos a partir de la notificación de los puntos resolutivos de esta resolución al Congreso de la Unión.
+
 VIII. DECISIÓN 47. Por lo expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:
 **PRIMERO.** Es procedente y fundada la presente acción de inconstitucionalidad.
 **SEGUNDO.** Se declara la invalidez del artículo 22, fracción III, de la Ley de la Comisión Nacional de Energía, expedida mediante el DECRETO publicado en el Diario Oficial de la Federación el dieciocho de marzo de dos mil veinticinco, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.

@@ -26,20 +26,36 @@ La Universidad Naval, dependerá orgánica y administrativamente de la Oficialí
 
 ### Artículo 3
 . Para los efectos de esta Ley y su Reglamento, se entenderá por:
+
 I. Autoridad Educativa Naval:·El Secretario de Marina, Oficial Mayor de Marina y Rector de la Universidad Naval;
+
 II. Cultura Naval: Tradiciones y costumbres, que se han forjado como rasgo de identidad, reflejados en la memoria histórica a través de hechos heroicos, así como en los valores en el actuar del marino;
+
 III. Director: El titular de cada Establecimiento Educativo Naval;
+
 IV. Discente: Personal naval, militar o civil, nacional o extranjero, que se encuentre realizando estudios en el Sistema Educativo;
+
 V. Docente: Personal naval, militar o civil, nacional o extranjero, encargado de aplicar los procesos enseñanza-aprendizaje en sus diferentes niveles y modalidades en los Establecimientos Educativos Navales;
+
 VI. Establecimiento Educativo Naval: Lugar de enseñanza-aprendizaje perteneciente a la Universidad Naval;
+
 VII. Ley: La Ley de Educación Naval;
+
 VIII. Modelo Educativo: El Modelo Educativo Naval;
+
 IX. Niveles Educativos: Los Niveles Educativos Navales;
+
 X. Plan General: El Plan General de Educación Naval vigente;
+
 XI. Rector: El Rector de la Universidad Naval;
+
 XII. Rectoría: La Rectoría de la Universidad Naval;
+
 XIII. Secretaría: La Secretaría de Marina;
-XIV. Sistema Educativo: Sistema Educativo Naval, y XV. Universidad Naval: Institución representativa del Sistema Educativo.
+
+XIV. Sistema Educativo: Sistema Educativo Naval, y
+
+XV. Universidad Naval: Institución representativa del Sistema Educativo.
 
 ### Artículo 4
 . La Secretaría ofrecerá a todos los mexicanos, por nacimiento en igualdad de género la oportunidad de efectuar estudios en el Sistema Educativo, de acuerdo a los lineamientos normativos y requisitos que se establezcan en las convocatorias que emita la Rectoría.
@@ -56,10 +72,16 @@ Del Rector de la Universidad Naval
 
 ### Artículo 7
 . El Rector tendrá las facultades que le confieren el Reglamento Interior de la Secretaría de Marina, asimismo, será responsable de:
+
 I. Supervisar la educación pública naval, al adiestrar, capacitar, formar y especializar al recurso humano de la Secretaría, garantizando el desarrollo armónico e integral de sus capacidades y potencialidades, a efecto de ser más eficiente y competitivo en sus funciones y con ello coadyuvar al logro de los objetivos institucionales y nacionales;
+
 II. Proponer a la Autoridad Educativa Naval, los convenios de colaboración de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación;
+
 III. Gestionar el registro de planes y programas de validez oficial de estudios que sean impartidos en el Sistema Educativo, así como del registro y expedición de la cédula correspondiente, cuando ésta sea necesaria para el ejercicio profesional en términos de la legislación aplicable al caso;
-IV. Expedir certificados, constancias y diplomas a quienes hayan concluido satisfactoriamente sus estudios, de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes, y V. Las demás que establecen las disposiciones jurídicas aplicables.
+
+IV. Expedir certificados, constancias y diplomas a quienes hayan concluido satisfactoriamente sus estudios, de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes, y
+
+V. Las demás que establecen las disposiciones jurídicas aplicables.
 
 ## CAPÍTULO III
 Del Sistema Educativo
@@ -72,39 +94,71 @@ Del Sistema Educativo
 
 ### Artículo 10
 . Los objetivos del Sistema Educativo son:
+
 I. Desarrollar en los Discentes de la Armada de México, una formación académica integral de calidad que provea los valores y competencias en cumplimiento a las atribuciones de la Secretaría y sus funciones, con ·sujeción a los principios doctrinarios navales vigentes;
+
 II. Vincular permanentemente la educación del personal naval;
+
 III. Preparar profesionistas competitivos con una formación naval, científica, tecnológica, incluyente, humanista, de calidad ciudadana, intercultural, con enfoque de derechos humanos y perspectiva de género;
-Fracción reformada DOF 24-03-2023 IV. Fortalecer la educación naval, implementando en el proceso educativo estrategias educativas innovadoras de acuerdo a los avances tecnológicos vigentes, con el propósito de realizar eficaz y eficientemente las actividades educativas;
+Fracción reformada DOF 24-03-2023
+
+IV. Fortalecer la educación naval, implementando en el proceso educativo estrategias educativas innovadoras de acuerdo a los avances tecnológicos vigentes, con el propósito de realizar eficaz y eficientemente las actividades educativas;
+
 V. Mantener de forma continua, conocimientos, habilidades, adiestramiento y capacitación de los recursos humanos de la Institución;
-VI. Adecuar permanentemente el Modelo Educativo a las nuevas tecnologías y doctrina naval de la Secretaría de Marina, y VII. Fomentar la doctrina y Cultura Naval de México en los civiles y militares nacionales o extranjeros.
+
+VI. Adecuar permanentemente el Modelo Educativo a las nuevas tecnologías y doctrina naval de la Secretaría de Marina, y
+
+VII. Fomentar la doctrina y Cultura Naval de México en los civiles y militares nacionales o extranjeros.
 
 ### Artículo 11
 . El Sistema Educativo estará constituido por:
+
 I. Autoridad Educativa Naval;
+
 II. Directores, Discentes, Docentes y personal de apoyo;
+
 III. Plan General;
+
 IV. Modelo Educativo;
-V. Planes y programas de estudio de los Establecimientos Educativos Navales, y VI. Establecimientos Educativos Navales.
+
+V. Planes y programas de estudio de los Establecimientos Educativos Navales, y
+
+VI. Establecimientos Educativos Navales.
 
 ### Artículo 12
 . Los Establecimientos Educativos Navales se clasifican en:
+
 I. Centros de Estudios;
+
 II. Institutos;
+
 III. Escuelas;
+
 IV. Centros de Capacitación;
-V. Unidades, y VI. Otras que designe la Autoridad Educativa Naval.
+
+V. Unidades, y
+
+VI. Otras que designe la Autoridad Educativa Naval.
 
 ### Artículo 13
 . Los niveles en el Sistema Educativo son:
+
 I. Adiestramiento;
+
 II. Capacitación;
-III. Media Superior, y IV. Superior.
+
+III. Media Superior, y
+
+IV. Superior.
 
 ### Artículo 14
 . Las modalidades en el Sistema Educativo son:
+
 I. Escolarizada: Es la modalidad de educación formal, la cual implica la presencia física del Discente en todas las actividades programadas, bajo la conducción de un Docente.
-II. No escolarizada: Modalidad de educación formal la cual puede ser abierta, a distancia y virtual, y III. Mixta: Es la educación del tipo formal, la cual se desarrolla bajo la combinación de las modalidades anteriormente descritas.
+
+II. No escolarizada: Modalidad de educación formal la cual puede ser abierta, a distancia y virtual, y
+
+III. Mixta: Es la educación del tipo formal, la cual se desarrolla bajo la combinación de las modalidades anteriormente descritas.
 
 ## CAPÍTULO IV
 Del Plan General
@@ -114,13 +168,21 @@ Del Plan General
 
 ### Artículo 16
 . El Plan General para su desarrollo armónico, secuencial e integral contendrá:
+
 I. Las normas que garanticen la formación de los Discentes en los ámbitos académico, de doctrina naval y cultural, de acuerdo a los niveles y modalidades educativas;
-II. Programas curriculares complementarios en las áreas que coadyuven en la formación integral de los Discentes, y III. La permanente profesionalización de los Docentes.
+
+II. Programas curriculares complementarios en las áreas que coadyuven en la formación integral de los Discentes, y
+
+III. La permanente profesionalización de los Docentes.
 
 ### Artículo 17
 . Los Directores de los Establecimientos Educativos Navales supervisarán que la currícula sea analizada y evaluada anualmente y del resultado propondrán al Rector las modificaciones que procedan con el sustento que avale la propuesta y deberán considerar además:
+
 I. Las necesidades de la Secretaría;
-II. Las actualizaciones a la doctrina naval, y III. Los avances en las áreas humanística, científica, tecnológica y náutica.
+
+II. Las actualizaciones a la doctrina naval, y
+
+III. Los avances en las áreas humanística, científica, tecnológica y náutica.
 
 ## CAPÍTULO V
 Del Modelo Educativo
@@ -139,8 +201,12 @@ De la Extensión Académica
 
 ### Artículo 21
 . La extensión académica comprenderá los siguientes aspectos:
+
 I. Convenios académicos;
-II. Intercambio académico nacional y extranjero, y III. La difusión de la Cultura Naval.
+
+II. Intercambio académico nacional y extranjero, y
+
+III. La difusión de la Cultura Naval.
 
 ### Artículo 22
 . Los convenios académicos realizados por la Universidad Naval con Instituciones de educación pública y privada, nacional o extranjera para la mejor prestación de los servicios educativos a su cargo, estarán orientados a contribuir con los valores, competencias, objetivos y desarrollo de la Secretaría en las áreas educativas, científicas, tecnológicas, humanista, naval y marítima, considerando los avances científicos y tecnológicos.

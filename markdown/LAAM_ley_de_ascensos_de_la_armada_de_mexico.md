@@ -15,8 +15,12 @@ Artículo reformado DOF 26-01-2011, 17-12-2025 ARTICULO 2o.- Es facultad del Man
 , fracción IV de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley.
 Artículo reformado DOF 27-08-2010, 17-12-2025 ARTICULO 3o.- Es facultad del Alto Mando ascender al personal de Capitanes de Corbeta y Oficiales, previo acuerdo del Mando Supremo, según lo establecido en la presente Ley y demás disposiciones aplicables.
 Artículo reformado DOF 27-08-2010 ARTICULO 4o.- Es facultad del Alto Mando ascender al personal de clases y marinería según lo establecido en la presente Ley y demás disposiciones aplicables.
-Párrafo reformado DOF 27-08-2010 I. Se deroga.
-Fracción derogada DOF 27-08-2010 II. Se deroga.
+Párrafo reformado DOF 27-08-2010
+
+I. Se deroga.
+Fracción derogada DOF 27-08-2010
+
+II. Se deroga.
 Fracción derogada DOF 27-08-2010 ARTICULO 5o.- Los ascensos a que se refieren los artículos 3o. y 4o. de la presente Ley, serán conferidos de acuerdo a los resultados obtenidos en el concurso de selección para ascenso.
 Artículo reformado DOF 27-08-2010 ARTICULO 6o.- El personal de Oficiales de la milicia auxiliar solamente podrá ser ascendido por adecuación de grado en términos de lo dispuesto por la Ley Orgánica de la Armada de México, por méritos especiales, de forma excepcional en tiempo de paz o en los supuestos a que se refiere el artículo 37 de la presente Ley.
 Artículo reformado DOF 17-12-2025 ARTICULO 7o.- Se deroga.
@@ -39,6 +43,7 @@ Artículo reformado DOF 27-08-2010 ARTICULO 19.- Cuando una persona militar de l
 Artículo reformado DOF 27-08-2010, 17-12-2025 ARTICULO 20.- Cuando una persona militar de la Armada se encuentre en cualquiera de los supuestos siguientes, se considerará el grado que ostente como grado tope:
 Párrafo reformado DOF 27-08-2010, 17-12-2025 I.- Haber sido convocado por tres veces al concurso de selección para ascenso y renunciar a ellos;
 II.- No haber sido convocado tres veces al concurso de selección para ascenso por no reunir los requisitos establecidos en esta Ley;
+
 III. Haber sido convocado y participado en tres concursos de selección para ascenso sin obtener el promedio de calificación mínima aprobatoria, y Fracción reformada DOF 27-08-2010 IV.- Cualquier combinación de las fracciones I, II y III anteriores que sumen tres de los supuestos indicados y que la persona militar ostente un mismo grado.
 Fracción reformada DOF 27-08-2010, 17-12-2025 ARTICULO 21.- El grado tope se comunicará por escrito por la Jefatura de Operaciones Navales al personal núcleo de los Cuerpos y por la unidad administrativa correspondiente al personal núcleo de los servicios y las escalas de los Cuerpos y Servicios.
 Artículo reformado DOF 27-08-2010, 17-12-2025 CAPITULO II De los ascensos de las clases y marinería ARTICULO 22.- Para ascender de Marinero a Cabo, se requerirá:
@@ -70,26 +75,36 @@ II.- Haber desempeñado mínimo durante dos años, las funciones inherentes a su
 ARTICULO 30.- Para ascender de Teniente de Navío a Capitán de Corbeta, se requerirá:
 I.- Tener como mínimo tres años de antigüedad en el grado;
 II.- Haber desempeñado mínimo durante dos años, las funciones inherentes a su cuerpo o servicio, en unidades o establecimientos de la Armada;
+
 III. Presentar un trabajo de investigación tipo tesis y obtener resultado aprobatorio, tratándose de personal núcleo de los Cuerpos y Servicios, y Fracción reformada DOF 27-08-2010 IV.- Obtener en el concurso de selección para ascenso un promedio de calificación aprobatorio que lo coloque entre el número de vacantes existentes.
 CAPITULO IV De los ascensos de Capitanes ARTICULO 31.- Para ascender de Capitán de Corbeta a Capitán de Fragata, se requerirá:
 I.- Tener como mínimo tres años de antigüedad en el grado;
 II.- Haber desempeñado mínimo durante dos años, las funciones inherentes a su cuerpo o servicio, en unidades o establecimientos de la Armada, y III.- Obtener en el concurso de selección para ascenso un promedio de calificación aprobatorio que lo coloque entre el número de vacantes existentes.
 ARTICULO 32.- Para el ascenso de Capitán de Fragata a Capitán de Navío, se le informará al Mando Supremo lo siguiente:
 I.- Vacantes existentes en el grado;
+
 II. Personal de Capitanes de Fragata que no se encuentra en los supuestos que prevé el artículo 51, y Fracción reformada DOF 27-08-2010 III.- La lista del personal de Capitanes de Fragata se integrará conforme a los criterios establecidos en el artículo 18 de esta Ley.
 Dicha lista será elaborada por la Jefatura de Operaciones Navales y los criterios establecidos corresponderán al grado de la persona participante.
 Fracción reformada DOF 27-08-2010, 17-12-2025 CAPITULO V De los ascensos de Almirantes ARTICULO 33.- Para el ascenso a Contralmirantes, Vicealmirantes y Almirantes, se le informará al Mando Supremo lo siguiente:
 I.- Vacantes existentes en cada grado;
+
 II. Personal de los grados de Capitán de Navío, Contralmirante y Vicealmirante que no se encuentren en los supuestos que prevé el artículo 51, y Fracción reformada DOF 27-08-2010 III.- La lista del personal de Capitanes de Navío, Contralmirantes y Vicealmirantes se integrará conforme a los criterios establecidos en el artículo 18 de esta Ley.
 Dicha lista será elaborada por la Jefatura de Operaciones Navales y los criterios establecidos corresponderán al grado de la persona participante.
 Fracción reformada DOF 27-08-2010, 17-12-2025 CAPITULO VI Del concurso de selección para ascenso a Cabo hasta Capitán de Fragata Denominación del Capítulo reformada DOF 27-08-2010 ARTICULO 34.- El concurso de selección para ascenso tiene por objeto determinar el orden de prelación del personal convocado, conforme a lo siguiente:
-Párrafo reformado DOF 27-08-2010, 17-12-2025 I. Para Clases y Marinería se determinará de acuerdo a los resultados de los exámenes que menciona el artículo 35 y conforme al Manual de Normas y Procedimientos de la Comisión Coordinadora correspondiente, y Fracción reformada DOF 27-08-2010 II.- Para el personal de Oficiales y para el ascenso de Capitán de Corbeta a Capitán de Fragata, se llevará de acuerdo con el Manual de Normas y Procedimientos de la Comisión Coordinadora correspondiente. En el establecimiento del orden de prelación en cada grado, núcleo y escala, se atenderán los conceptos de mérito, aptitud, competencia profesional, conducta militar y civil, así como a los resultados de los exámenes que establece el artículo 35, correspondientes al grado que ostenta la persona convocada.
+Párrafo reformado DOF 27-08-2010, 17-12-2025
+
+I. Para Clases y Marinería se determinará de acuerdo a los resultados de los exámenes que menciona el artículo 35 y conforme al Manual de Normas y Procedimientos de la Comisión Coordinadora correspondiente, y Fracción reformada DOF 27-08-2010 II.- Para el personal de Oficiales y para el ascenso de Capitán de Corbeta a Capitán de Fragata, se llevará de acuerdo con el Manual de Normas y Procedimientos de la Comisión Coordinadora correspondiente. En el establecimiento del orden de prelación en cada grado, núcleo y escala, se atenderán los conceptos de mérito, aptitud, competencia profesional, conducta militar y civil, así como a los resultados de los exámenes que establece el artículo 35, correspondientes al grado que ostenta la persona convocada.
 Fracción reformada DOF 27-08-2010, 17-12-2025 ARTICULO 35.- El concurso de selección para ascenso estará integrado por los siguientes exámenes:
 I.- Examen médico;
 II.- Examen de capacidad física;
 III.- Examen de conocimientos teóricos o académicos;
+
 IV. Examen de conocimientos prácticos para el personal de Clases y Marinería, de acuerdo a la reglamentación correspondiente;
-Fracción reformada DOF 27-08-2010 V. Examen de lengua extranjera, únicamente para Oficiales y Capitanes del núcleo de los Cuerpos y Servicios, y Fracción reformada DOF 27-08-2010 VI. Trabajo de investigación tipo tesis, únicamente para Tenientes de Navío del núcleo de los Cuerpos y Servicios.
+Fracción reformada DOF 27-08-2010
+
+V. Examen de lengua extranjera, únicamente para Oficiales y Capitanes del núcleo de los Cuerpos y Servicios, y Fracción reformada DOF 27-08-2010
+
+VI. Trabajo de investigación tipo tesis, únicamente para Tenientes de Navío del núcleo de los Cuerpos y Servicios.
 Fracción reformada DOF 27-08-2010 ARTICULO 36.- Las normas para el concurso de selección para ascenso se harán del conocimiento del personal oportunamente.
 TITULO TERCERO De los ascensos en tiempo de guerra CAPITULO UNICO ARTICULO 37.- Los ascensos en tiempo de guerra se otorgarán al personal de la Armada de México, para:
 Párrafo reformado DOF 17-12-2025 I.- Premiar actos de reconocido valor o de extraordinarios méritos en el desarrollo de operaciones de guerra;
@@ -112,6 +127,7 @@ Párrafo reformado DOF 17-12-2025 Artículo adicionado DOF 01-06-2011 TITULO QUI
 Artículo reformado DOF 27-08-2010 ARTICULO 46.- En los despachos se harán constar los datos siguientes:
 I.- Nombre, apellidos paterno y materno;
 II.- Matrícula;
+
 III. Grado, fecha de ascenso y motivo del mismo;
 Fracción reformada DOF 27-08-2010 IV.- Cuerpo o Servicio al que pertenezca, y V.- Pertenencia a la milicia permanente.
 ARTICULO 47.- Los despachos del personal de Almirantes y de Capitanes de Navío serán legalizados con las firmas del Mando Supremo y del Alto Mando y llevarán el gran sello de la Nación.
@@ -120,16 +136,20 @@ Artículo reformado DOF 27-08-2010, 17-12-2025 CAPITULO II Nombramientos ARTICUL
 Artículo reformado DOF 27-08-2010 ARTICULO 50.- En los nombramientos se harán constar los datos siguientes:
 I.- Nombre, apellidos paterno y materno;
 II.- Matrícula;
+
 III. Grado, fecha de ascenso y motivo del mismo;
 Fracción reformada DOF 27-08-2010 IV.- Cuerpo o Servicio a que pertenezca, y V.- Pertenencia a la milicia auxiliar.
 TITULO SEXTO Complementario CAPITULO I Situaciones que impiden el ascenso ARTICULO 51.- En ningún caso serán conferidos ascensos al personal de la Armada de México que se encuentre en alguna de las siguientes situaciones:
+
 I. En uso de licencia extraordinaria, por enfermedad, por edad límite e ilimitada;
 Fracción reformada DOF 12-06-2009 II.- En trámite de retiro;
+
 III. Excedido de la edad límite en su grado;
 Fracción reformada DOF 27-08-2010 IV.- Con prórroga o retenido en el servicio;
 V.- Sujeto a proceso, prófugo o cumpliendo sentencia condenatoria del orden penal;
 Fracción reformada DOF 16-04-2009 VI.- A disposición por resolución de organismo disciplinario;
 VII.- En depósito;
+
 VIII. Cuando no reúnan los requisitos establecidos por esta Ley para cada grado;
 Fracción reformada DOF 27-08-2010 IX.- Inhabilitado por resolución de órgano competente, y X.- Suspenso en sus derechos escalafonarios para fines de ascenso determinado por órgano disciplinario.
 CAPITULO II Inconformidades ARTICULO 52.- El personal naval podrá interponer el recurso de inconformidad ante la Junta Naval por sentirse afectado en sus derechos, por exclusión del concurso de selección para ascenso o por postergación.

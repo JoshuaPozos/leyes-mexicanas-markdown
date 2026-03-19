@@ -24,15 +24,26 @@ Se expide la Ley de Seguridad Interior Ley declarada inválida por sentencia de 
 
 ### Artículo 4
 . Para los efectos de esta Ley, se entenderá por:
+
 I. Acciones de Seguridad Interior: Aquellas que realizan las autoridades federales, incluyendo las Fuerzas Armadas, por sí o en coordinación con los demás órdenes de gobierno, orientadas a identificar, prevenir, atender, reducir y contener riesgos y amenazas a la seguridad interior;
+
 II. Amenazas a la Seguridad Interior: Las que afecten los principios establecidos en el artículo 3 y las contenidas en el artículo 5 de la Ley de Seguridad Nacional que tienen su origen en territorio nacional; las emergencias o desastres naturales en un área o región geográfica del país; las epidemias y demás contingencias que afecten la salubridad general; o las que afecten los deberes de colaboración de las entidades federativas y municipios en materia de seguridad nacional;
+
 III. Riesgo a la Seguridad Interior: Situación que potencialmente puede convertirse en una Amenaza a la Seguridad Interior;
+
 IV. Declaratoria de Protección a la Seguridad Interior: El mandato ejecutivo que habilita la intervención de la Federación, incluidas las Fuerzas Armadas, para que por sí o en coordinación con otras autoridades, realicen acciones de Seguridad Interior para contener y reducir Amenazas a la Seguridad Interior;
+
 V. Fuerzas Armadas: El Ejército, Armada y Fuerza Área;
+
 VI. Fuerzas Federales: Las instituciones policiales federales;
+
 VII. Inteligencia para la Seguridad Interior: El conjunto de conocimientos obtenidos a partir de la recolección, procesamiento, diseminación y explotación de información para la toma de decisiones en materia de seguridad interior;
+
 VIII. Seguridad Interior: Lo previsto en el artículo 2 de la presente Ley;
-IX. Seguridad Nacional: Lo previsto en la Ley de Seguridad Nacional, y X. Uso legítimo de la fuerza: La utilización racional y proporcional de técnicas, tácticas, métodos, armamento y protocolos que realiza el personal de las Fuerzas Federales y, en su caso, las Fuerzas Armadas, para controlar, repeler o neutralizar actos de resistencia, según sus características y modos de ejecución.
+
+IX. Seguridad Nacional: Lo previsto en la Ley de Seguridad Nacional, y
+
+X. Uso legítimo de la fuerza: La utilización racional y proporcional de técnicas, tácticas, métodos, armamento y protocolos que realiza el personal de las Fuerzas Federales y, en su caso, las Fuerzas Armadas, para controlar, repeler o neutralizar actos de resistencia, según sus características y modos de ejecución.
 
 ### Artículo 5
 . La aplicación de esta Ley corresponde al Ejecutivo Federal, a través de la Secretaría de Gobernación, con la participación de las dependencias y entidades de la Administración Pública Federal, Fuerzas Federales y, en su caso, Fuerzas Armadas, en coordinación con los otros órdenes de gobierno, en el ámbito de sus atribuciones y competencia.
@@ -58,7 +69,10 @@ CAPÍTULO SEGUNDO DE LOS SUPUESTOS Y PROCEDIMIENTO PARA EMITIR LA DECLARATORIA D
 ### Artículo 11
 . Corresponde a las autoridades federales, incluyendo las Fuerzas Armadas, por sí o en coordinación con los demás órdenes de gobierno, identificar, prevenir, atender, reducir y contener las Amenazas a la Seguridad Interior.
 El Presidente de la República podrá ordenar por sí o a petición de las Legislaturas de las entidades federativas, o de su Ejecutivo en caso de receso de aquellas, la intervención de la Federación para la realización e implementación de Acciones de Seguridad Interior en el territorio de una entidad federativa o zona geográfica del país, previa emisión de una Declaratoria de Protección a la Seguridad Interior, cuando se actualice alguna de las Amenazas a la Seguridad Interior y éstas:
-I. Comprometan o superen las capacidades efectivas de las autoridades competentes para atenderla, o II. Se originen por la falta o insuficiente colaboración de las entidades federativas y municipios en la preservación de la Seguridad Nacional, de conformidad con lo previsto en el segundo párrafo del artículo 1 de la Ley de Seguridad Nacional.
+
+I. Comprometan o superen las capacidades efectivas de las autoridades competentes para atenderla, o
+
+II. Se originen por la falta o insuficiente colaboración de las entidades federativas y municipios en la preservación de la Seguridad Nacional, de conformidad con lo previsto en el segundo párrafo del artículo 1 de la Ley de Seguridad Nacional.
 Aquellas amenazas a la Seguridad Interior que no requieran Declaratoria en términos del presente artículo serán atendidas por las autoridades conforme sus atribuciones y las disposiciones legales que resulten aplicables.
 
 ### Artículo 12
@@ -66,21 +80,37 @@ Aquellas amenazas a la Seguridad Interior que no requieran Declaratoria en térm
 
 ### Artículo 13
 . Las peticiones de las Legislaturas de las entidades federativas o de su respectivo Ejecutivo deberán contener las consideraciones que las motivan, así como una descripción detallada de los hechos o situaciones que constituyan una Amenaza a la Seguridad Interior, especificando entre otros, los aspectos siguientes:
+
 I. Amenaza identificada y el impacto de la misma;
+
 II. Área geográfica, sector poblacional e instituciones vulneradas;
+
 III. Estadísticas de actos o hechos de naturaleza similar a la amenaza identificada en la entidad federativa o área geográfica afectada;
+
 IV. Áreas de insuficiencia operativa, técnica y logística para enfrentar la amenaza identificada;
-V. El compromiso de contribuir a la atención de la amenaza y, en su caso, de restablecer la colaboración a que se refiere el segundo párrafo del artículo 1 de la Ley de Seguridad Nacional, en los términos que establezca la Declaratoria de Protección a la Seguridad Interior, y VI. La demás información que se considere relevante para justificar la procedencia de la Declaratoria de Protección a la Seguridad Interior y para la toma de decisiones correspondientes.
+
+V. El compromiso de contribuir a la atención de la amenaza y, en su caso, de restablecer la colaboración a que se refiere el segundo párrafo del artículo 1 de la Ley de Seguridad Nacional, en los términos que establezca la Declaratoria de Protección a la Seguridad Interior, y
+
+VI. La demás información que se considere relevante para justificar la procedencia de la Declaratoria de Protección a la Seguridad Interior y para la toma de decisiones correspondientes.
 
 ### Artículo 14
 . El Acuerdo de la Declaratoria de Protección a la Seguridad Interior deberá contener lo siguiente:
+
 I. Autoridad o institución federal coordinadora y las demás que participarán;
+
 II. La amenaza a la Seguridad Interior que se atenderá;
+
 III. Las entidades federativas o áreas geográficas en las que se realizarán las Acciones de Seguridad Interior;
+
 IV. Las acciones que se requieran a cargo de las entidades federativas o municipios para contribuir a la atención de la Amenaza a la Seguridad Interior;
+
 V. Las Fuerzas Federales participantes;
+
 VI. En su caso, la determinación sobre la disposición de las Fuerzas Armadas para atender la amenaza, en términos de lo dispuesto por el artículo 20 de esta Ley;
-VII. Las Acciones de Seguridad Interior que se llevarán a cabo, y VIII. La temporalidad de la Declaratoria.
+
+VII. Las Acciones de Seguridad Interior que se llevarán a cabo, y
+
+VIII. La temporalidad de la Declaratoria.
 La Declaratoria de Protección a la Seguridad Interior podrá determinar la realización simultánea de Acciones de Seguridad Interior en diversas áreas geográficas del país, cuando por la naturaleza y características de la amenaza o de los agentes que participan en su comisión, no sea materialmente posible circunscribir sus causas, manifestaciones o resultados a una entidad o área específica.
 
 ### Artículo 15
@@ -104,9 +134,14 @@ En ningún caso, las Acciones de Seguridad Interior que lleven a cabo las Fuerza
 
 ### Artículo 20
 . Las Fuerzas Armadas sin perjuicio de las misiones que tienen asignadas en la Constitución Política de los Estados Unidos Mexicanos y en sus Leyes Orgánicas, sólo intervendrán mediante la emisión de una Declaratoria de Protección a la Seguridad Interior, cuando las capacidades de las Fuerzas Federales resulten insuficientes para reducir o contener la amenaza de que se trate, conforme al procedimiento siguiente:
+
 I. El Presidente de la República, a propuesta de los Secretarios de la Defensa Nacional y Marina, designará a un Comandante de las Fuerzas Armadas participantes, quien dirigirá los grupos interinstitucionales que se integren en términos del artículo 21;
+
 II. El Comandante designado en términos de la fracción anterior elaborará el protocolo de actuación para establecer responsabilidades, canales de comunicación y coordinación de las autoridades militares y civiles participantes;
-III. El protocolo contemplará la integración de grupos interinstitucionales, a fin de que cada uno lleve a cabo la misión que se les asigne con base en las atribuciones y responsabilidades que les correspondan, coordinadas por el Comandante, y IV. Las Fuerzas Armadas actuarán realizando las Acciones de Seguridad Interior previstas en la Declaratoria respectiva.
+
+III. El protocolo contemplará la integración de grupos interinstitucionales, a fin de que cada uno lleve a cabo la misión que se les asigne con base en las atribuciones y responsabilidades que les correspondan, coordinadas por el Comandante, y
+
+IV. Las Fuerzas Armadas actuarán realizando las Acciones de Seguridad Interior previstas en la Declaratoria respectiva.
 
 ### Artículo 21
 . La institución o autoridad coordinadora constituirá un grupo interinstitucional con representantes de cada una de las autoridades u organismos participantes, a efecto de coordinar la realización de las Acciones de Seguridad Interior, así como para el seguimiento a las acciones de participación a cargo de las autoridades de las entidades federativas respectivas, de conformidad con lo dispuesto en el artículo 19 de esta Ley, y de las disposiciones reglamentarias de las Fuerzas Armadas.
@@ -116,13 +151,22 @@ III. El protocolo contemplará la integración de grupos interinstitucionales, a
 
 ### Artículo 23
 . Durante la vigencia de una Declaratoria de Protección a la Seguridad Interior las autoridades de las entidades federativas, municipios y demarcaciones territoriales, en el marco de sus competencias y en los términos de esta Ley, asumirán las siguientes responsabilidades:
+
 I. Atender de manera directa e indelegable las reuniones de coordinación a las que sean convocadas;
+
 II. Aportar a la autoridad federal coordinadora toda la información que le sea solicitada o con que cuenten, que permita cumplir los fines de la Declaratoria;
+
 III. Prestar el auxilio y colaboración que les solicite la autoridad federal coordinadora para atender la Amenaza a la Seguridad Interior;
+
 IV. Mantener el nivel de inversión en infraestructura, equipamiento y servicios públicos que resulten necesarios para mitigar el impacto de la Amenaza a la Seguridad Interior y superarla;
+
 V. Asegurar el cumplimiento de los requisitos de ingreso y permanencia de los integrantes de sus instituciones de seguridad pública en los términos de la Ley de la materia;
+
 VI. Presentar los informes periódicos ante la autoridad federal coordinadora sobre el avance del programa de fortalecimiento de capacidades institucionales que se diseñe en el marco de la Declaratoria;
-VII. Las que se establezcan conforme a la fracción IV del artículo 14 de esta Ley, y VIII. En el caso de las entidades federativas, las que haya comprometido en los términos de la fracción V del artículo 13 de esta Ley.
+
+VII. Las que se establezcan conforme a la fracción IV del artículo 14 de esta Ley, y
+
+VIII. En el caso de las entidades federativas, las que haya comprometido en los términos de la fracción V del artículo 13 de esta Ley.
 
 ### Artículo 24
 . La Secretaría de Gobernación, en coordinación con los Gobiernos de las entidades federativas, destinará Fuerzas Federales para que realicen Acciones de Seguridad Interior, en aquellas áreas o zonas del territorio nacional que así lo requieran.

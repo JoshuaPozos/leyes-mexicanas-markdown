@@ -19,8 +19,12 @@ La presente ley es de aplicación general y regirá en todo el territorio de los
 
 ### Artículo 3o
 . El Sistema, perseguirá los siguientes propósitos:
+
 I. Posibilitar a los beneficiarios el acceso por anticipado a los recursos previstos en los años restantes de vigencia del PROCAMPO, para capitalizar sus unidades de producción y desarrollar sus proyectos y acciones de modernización;
-II. Proporcionar a los productores certidumbre de que recibirán los apoyos para instrumentar los proyectos productivos que permitan una mayor capacidad de negociación al enfrentar los compromisos mercantiles, así como aprovechar las oportunidades derivadas de los acuerdos y tratados internacionales sobre la materia; y III. Proporcionar condiciones para la disponibilidad y acceso a recursos crediticios.
+
+II. Proporcionar a los productores certidumbre de que recibirán los apoyos para instrumentar los proyectos productivos que permitan una mayor capacidad de negociación al enfrentar los compromisos mercantiles, así como aprovechar las oportunidades derivadas de los acuerdos y tratados internacionales sobre la materia; y
+
+III. Proporcionar condiciones para la disponibilidad y acceso a recursos crediticios.
 
 ### Artículo 4o
 . La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en adelante “La Secretaría”, será responsable de aplicar las disposiciones del presente ordenamiento, para lo cual establecerá los convenios de coordinación necesarios con otras dependencias y entidades de la Administración Pública Federal, los gobiernos de los estados, del Distrito Federal y municipales.
@@ -68,20 +72,32 @@ Mientras persistan condiciones desfavorables de competencia en el mercado intern
 
 ### Artículo 16
 . El productor que desee incorporarse al Sistema, para estar en aptitud de disponer anticipadamente de los recursos del mismo o utilizarlos como garantía crediticia, deberá cumplir con los siguientes requisitos:
+
 I. Estar inscrito en el Padrón del PROCAMPO;
+
 II. Ser titular del predio beneficiario del PROCAMPO;
+
 III. Presentar solicitud para utilizar el Sistema, señalando los ciclos agrícolas para los cuales se requiere, la que se calificará en atención a su proyecto;
-IV. Anexar, en los términos de los artículos 8 y 19 de esta Ley, el proyecto o proyectos que pretenden realizar con dichos apoyos, comprometiéndose a ejecutarlos; y V. Presentar, tratándose de personas físicas, copia de la credencial para votar expedida por el Instituto Federal Electoral o la Clave Única de Registro de Población (CURP) u otra identificación oficial con fotografía y firma o huella digital; para productores personas morales, copia de su Cédula de Identificación Fiscal por conducto de su representante debidamente acreditado.
+
+IV. Anexar, en los términos de los artículos 8 y 19 de esta Ley, el proyecto o proyectos que pretenden realizar con dichos apoyos, comprometiéndose a ejecutarlos; y
+
+V. Presentar, tratándose de personas físicas, copia de la credencial para votar expedida por el Instituto Federal Electoral o la Clave Única de Registro de Población (CURP) u otra identificación oficial con fotografía y firma o huella digital; para productores personas morales, copia de su Cédula de Identificación Fiscal por conducto de su representante debidamente acreditado.
 
 ### Artículo 17
 . Los demás beneficiarios del PROCAMPO que deseen mantenerse conforme a lo establecido por el Decreto correspondiente y sus normas de operación, seguirán recibiendo los apoyos de conformidad con las normas establecidas en el mismo decreto.
 
 ### Artículo 18
 . El Sistema operará bajo las directrices siguientes:
+
 I. Certidumbre de su temporalidad al fijar en esta Ley la vigencia del Sistema y la posibilidad de solicitar por adelantado los recursos previstos en él;
+
 II. Precisión en cuanto a su naturaleza generalizada o diferenciada por tipo de productor, ubicación geográfica y nivel socioeconómico del beneficiario;
+
 III. Transparencia mediante la difusión de las reglas para su acceso y la publicación de los montos y el tipo de apoyo por beneficiario;
-IV. Responsabilidad de los productores, respecto a la utilización de los apoyos; y V. Posibilidad de evaluarlos para medir su eficiencia y administración, conforme a lo establecido en los proyectos y en las reglas previstas.
+
+IV. Responsabilidad de los productores, respecto a la utilización de los apoyos; y
+
+V. Posibilidad de evaluarlos para medir su eficiencia y administración, conforme a lo establecido en los proyectos y en las reglas previstas.
 
 ### Artículo 19
 . Los recursos del Sistema podrán emplearse como fuente de pago de la inversión requerida por los proyectos a desarrollar por los beneficiarios; como garantía crediticia o para constituir y fortalecer los organismos económicos de los productores, orientados a financiar proyectos productivos agropecuarios, forestales y pesqueros.

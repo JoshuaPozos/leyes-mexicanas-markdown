@@ -47,13 +47,22 @@ Párrafo reformado DOF 19-01-2018
 
 ### Artículo 4
 .- La presente Ley tiene por objeto:
+
 I. Propiciar la generación de políticas, programas, proyectos y acciones dirigidas al fomento y promoción de la lectura;
+
 II. Fomentar y estimular la edición, distribución y comercialización del libro y las publicaciones periódicas;
+
 III. Fomentar y apoyar el establecimiento y desarrollo de librerías, bibliotecas y otros espacios públicos y privados para la lectura y difusión del libro;
+
 IV. Establecer mecanismos de coordinación interinstitucional con los distintos órdenes de gobierno y la vinculación con los sectores social y privado, para impulsar las actividades relacionadas con la función educativa y cultural del fomento a la lectura y el libro;
+
 V. Hacer accesible el libro en igualdad de condiciones en todo el territorio nacional para aumentar su disponibilidad y acercarlo al lector;
+
 VI. Fortalecer la cadena del libro con el fin de promover la producción editorial mexicana para cumplir los requerimientos culturales y educativos del país;
-VII. Estimular la competitividad del libro mexicano y de las publicaciones periódicas en el terreno internacional, y VIII. Estimular la capacitación y formación profesional de los diferentes actores de la cadena del libro y promotores de la lectura.
+
+VII. Estimular la competitividad del libro mexicano y de las publicaciones periódicas en el terreno internacional, y
+
+VIII. Estimular la capacitación y formación profesional de los diferentes actores de la cadena del libro y promotores de la lectura.
 
 ## CAPÍTULO II
 DE LAS AUTORIDADES RESPONSABLES
@@ -68,7 +77,11 @@ Inciso adicionado DOF 29-11-2023
 
 ### Artículo 6
 .- Corresponde a la Secretaría de Cultura y a la Secretaría de Educación Pública, de manera concurrente y considerando la opinión y propuestas del Consejo Nacional de Fomento para el Libro y la Lectura:
-Párrafo reformado DOF 17-12-2015 I. Elaborar el Programa de Fomento para el Libro y la Lectura, y II. Poner en práctica las políticas y estrategias contenidas en el Programa, estableciendo la coordinación interinstitucional con las instancias de los diferentes órdenes de gobierno, así como con los distintos sectores de la sociedad civil.
+Párrafo reformado DOF 17-12-2015
+
+I. Elaborar el Programa de Fomento para el Libro y la Lectura, y
+
+II. Poner en práctica las políticas y estrategias contenidas en el Programa, estableciendo la coordinación interinstitucional con las instancias de los diferentes órdenes de gobierno, así como con los distintos sectores de la sociedad civil.
 El Programa de Fomento para el Libro y la Lectura será expedido por el Secretario de Cultura.
 Párrafo adicionado DOF 17-12-2015
 
@@ -83,22 +96,42 @@ Párrafo adicionado DOF 17-12-2015
 
 ### Artículo 10
 .- Corresponde a la Secretaría de Educación Pública:
+
 I. Fomentar el acceso al libro y la lectura en el Sistema Educativo Nacional, promoviendo que en él se formen lectores cuya comprensión lectora corresponda al nivel educativo que cursan, en coordinación con las autoridades educativas locales;
+
 II. Garantizar la distribución oportuna, completa y eficiente de los libros de texto gratuitos, así como de los acervos para bibliotecas escolares y de aula y otros materiales educativos indispensables en la formación de lectores en las escuelas de educación básica y normal, en coordinación con las autoridades educativas locales;
+
 III. Diseñar políticas para incorporar en la formación inicial y permanente de maestros, directivos, bibliotecarios y equipos técnicos, contenidos relativos al fomento a la lectura y la adquisición de competencias comunicativas que coadyuven a la formación de lectores, en colaboración con las autoridades educativas locales;
+
 IV. Considerar la opinión de las autoridades educativas locales, de los maestros y de los diversos sectores sociales para el diseño de políticas de fomento a la lectura y el libro en el Sistema Educativo Nacional, con base en los mecanismos de participación establecidos en la Ley General de Educación;
+
 V. Promover la producción de títulos que enriquezcan la oferta disponible de libros, de géneros y temas variados, para su lectura y consulta en el Sistema Educativo Nacional, en colaboración con autoridades de los diferentes órdenes de gobierno, la iniciativa privada, instituciones de educación superior e investigación y otros actores interesados;
+
 VI. Promover la realización periódica de estudios sobre las prácticas lectoras en el Sistema Educativo Nacional y sobre el impacto de la inversión pública en programas de fomento a la lectura en este sistema, así como la difusión de sus resultados en los medios de comunicación, en colaboración con las autoridades educativas locales, otras autoridades, la iniciativa privada, las instituciones de educación superior e investigación, organismos internacionales y otros actores interesados;
-VII. Promover el acceso y distribución de libros, fortaleciendo el vínculo entre escuelas y bibliotecas públicas, en colaboración con las autoridades educativas locales, las instituciones de educación superior e investigación, la iniciativa privada y otros actores interesados, y VIII. Impulsar carreras técnicas y profesionales en el ámbito de la edición, la producción, promoción y difusión del libro y la lectura, en colaboración con autoridades educativas de los diferentes órdenes de gobierno, instituciones de educación media superior y superior y la iniciativa privada.
+
+VII. Promover el acceso y distribución de libros, fortaleciendo el vínculo entre escuelas y bibliotecas públicas, en colaboración con las autoridades educativas locales, las instituciones de educación superior e investigación, la iniciativa privada y otros actores interesados, y
+
+VIII. Impulsar carreras técnicas y profesionales en el ámbito de la edición, la producción, promoción y difusión del libro y la lectura, en colaboración con autoridades educativas de los diferentes órdenes de gobierno, instituciones de educación media superior y superior y la iniciativa privada.
 
 ### Artículo 11
 .- Corresponde a la Secretaría de Cultura:
-Párrafo reformado DOF 17-12-2015 I. Impulsar, de manera coordinada con las autoridades correspondientes de los distintos órdenes de gobierno, programas, proyectos y acciones que promuevan de manera permanente la formación de usuarios plenos de la cultura escrita entre la población abierta;
+Párrafo reformado DOF 17-12-2015
+
+I. Impulsar, de manera coordinada con las autoridades correspondientes de los distintos órdenes de gobierno, programas, proyectos y acciones que promuevan de manera permanente la formación de usuarios plenos de la cultura escrita entre la población abierta;
+
 II. Promover conjuntamente con la iniciativa privada acciones que estimulen la formación de lectores;
+
 III. Estimular y facilitar la participación de la sociedad civil en el desarrollo de acciones que promuevan la formación de lectores entre la población abierta;
+
 IV. Garantizar la existencia de materiales escritos que respondan a los distintos intereses de los usuarios de la red nacional de bibliotecas públicas y los programas dirigidos a fomentar la lectura en la población abierta, tales como salas de lectura;
-V. Coadyuvar con instancias a nivel federal, de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, así como con miembros de la iniciativa privada en acciones que garanticen el acceso de la población abierta a los libros a través de diferentes medios gratuitos o pagados, como bibliotecas, salas de lectura o librerías, y Fracción reformada DOF 19-01-2018 VI. Generar programas de desarrollo profesional de fomento a la lectura para la población abierta y para los bibliotecarios de la red nacional de bibliotecas públicas.
-VII. Llevar el registro del precio único de libros a partir de la información que le proporcionen los editores e importadores de libros, y Fracción adicionada DOF 29-11-2023 VIII. Promover y facilitar el acceso a libros digitales.
+
+V. Coadyuvar con instancias a nivel federal, de las entidades federativas, municipales y demarcaciones territoriales de la Ciudad de México, así como con miembros de la iniciativa privada en acciones que garanticen el acceso de la población abierta a los libros a través de diferentes medios gratuitos o pagados, como bibliotecas, salas de lectura o librerías, y Fracción reformada DOF 19-01-2018
+
+VI. Generar programas de desarrollo profesional de fomento a la lectura para la población abierta y para los bibliotecarios de la red nacional de bibliotecas públicas.
+
+VII. Llevar el registro del precio único de libros a partir de la información que le proporcionen los editores e importadores de libros, y Fracción adicionada DOF 29-11-2023
+
+VIII. Promover y facilitar el acceso a libros digitales.
 Fracción adicionada DOF 29-11-2023
 
 ## CAPÍTULO III
@@ -113,40 +146,80 @@ Artículo reformado DOF 17-12-2015
 
 ### Artículo 14
 .- El Consejo estará conformado por:
+
 I. Un presidente, que será el titular de la Secretaría de Cultura. En su ausencia será suplido por quien éste designe;
-Fracción reformada DOF 17-12-2015 II. Un secretario ejecutivo que designe el presidente del Consejo. En ausencia del secretario ejecutivo será suplido por quien éste designe;
+Fracción reformada DOF 17-12-2015
+
+II. Un secretario ejecutivo que designe el presidente del Consejo. En ausencia del secretario ejecutivo será suplido por quien éste designe;
 Fracción reformada DOF 17-12-2015 II Bis. Un represente de la Secretaría de Educación Pública que designe su titular;
-Fracción adicionada DOF 17-12-2015 III. El titular del Instituto Nacional de Lenguas Indígenas;
+Fracción adicionada DOF 17-12-2015
+
+III. El titular del Instituto Nacional de Lenguas Indígenas;
+
 IV. El presidente de la Cámara Nacional de la Industria Editorial Mexicana;
+
 V. El presidente de la Asociación de Libreros de México;
+
 VI. El presidente de la Asociación Nacional de Bibliotecarios;
+
 VII. El presidente de la Sociedad General de Escritores de México;
+
 VIII. El Director General de Materiales Educativos de la Secretaría de Educación Pública;
+
 IX. El Director General de Publicaciones de la Secretaría de Cultura;
-Fracción reformada DOF 02-04-2015, 17-12-2015 X. El Director General de Bibliotecas de la Secretaría de Cultura;
-Fracción reformada DOF 02-04-2015, 17-12-2015 XI. El Director General del Fondo de Cultura Económica;
-Fracción adicionada DOF 02-04-2015 XII. El Director General del Instituto Nacional del Derecho de Autor;
-Fracción adicionada DOF 02-04-2015 XIII. El Director General de la Comisión Nacional de Libros de Texto Gratuitos;
-Fracción adicionada DOF 02-04-2015 XIV. El Presidente de la Comisión de Biblioteca y Asuntos Editoriales de la Cámara de Senadores, y Fracción adicionada DOF 02-04-2015 XV. El Presidente de la Comisión Bicamaral del Sistemas de Bibliotecas del Congreso de la Unión.
+Fracción reformada DOF 02-04-2015, 17-12-2015
+
+X. El Director General de Bibliotecas de la Secretaría de Cultura;
+Fracción reformada DOF 02-04-2015, 17-12-2015
+
+XI. El Director General del Fondo de Cultura Económica;
+Fracción adicionada DOF 02-04-2015
+
+XII. El Director General del Instituto Nacional del Derecho de Autor;
+Fracción adicionada DOF 02-04-2015
+
+XIII. El Director General de la Comisión Nacional de Libros de Texto Gratuitos;
+Fracción adicionada DOF 02-04-2015
+
+XIV. El Presidente de la Comisión de Biblioteca y Asuntos Editoriales de la Cámara de Senadores, y Fracción adicionada DOF 02-04-2015
+
+XV. El Presidente de la Comisión Bicamaral del Sistemas de Bibliotecas del Congreso de la Unión.
 Fracción adicionada DOF 02-04-2015 Por acuerdo del Consejo se podrá convocar para participar con carácter de invitado no permanente a los titulares de las Secretarías, Consejos e Institutos de Cultura de las entidades federativas o a cualquier persona o institución pública o privada que se considere necesario para el cumplimiento pleno de sus funciones.
 Párrafo reformado DOF 19-01-2018 La pertenencia y participación en este Consejo, es a título honorario.
 
 ### Artículo 15
 .- El Consejo Nacional de Fomento para el Libro y la Lectura tendrá las siguientes funciones:
+
 I. Coadyuvar al cumplimiento y ejecución de la presente Ley;
+
 II. Asesorar en el diseño, formulación y ejecución del Programa de Fomento para el Libro y la Lectura establecido en el artículo 6 de la presente Ley;
+
 III. Concertar los esfuerzos e intereses de los sectores público y privado para el desarrollo sostenido de las políticas nacionales del libro y la lectura;
+
 IV. Proponer a las autoridades competentes la adopción de políticas o medidas jurídicas, fiscales y administrativas que contribuyan a fomentar y fortalecer el mercado del libro, la lectura y la actividad editorial en general;
+
 V. Servir de instancia de consulta, conciliación y concertación entre los distintos actores de la cadena del libro y la lectura en asuntos concernientes a las materias de esta Ley;
+
 VI. Promover el desarrollo de sistemas integrales de información sobre el libro, su distribución, la lectura y los derechos de autor, así como crear una base de datos que contemple: catálogos y directorios colectivos de autores, obras, editoriales, industria gráfica, bibliotecas y librerías mexicanas, disponible para la consulta en red desde cualquier país;
+
 VII. Integrar las comisiones y grupos de trabajo que sean necesarios para el cumplimiento de sus objetivos;
+
 VIII. Asesorar, a petición de parte, a los tres niveles de gobierno, poderes, órganos autónomos e instituciones sociales y privadas en el fomento a la lectura y el libro;
+
 IX. Se deroga.
-Fracción derogada DOF 29-11-2023 X. Promover la formación, actualización y capacitación de profesionales en los diferentes eslabones de la cadena del libro;
+Fracción derogada DOF 29-11-2023
+
+X. Promover la formación, actualización y capacitación de profesionales en los diferentes eslabones de la cadena del libro;
+
 XI. Impulsar la participación ciudadana en todos los programas relacionados con el libro y la lectura, y diseñar los mecanismos de esta participación;
+
 XII. Fomentar la cultura de respeto a los derechos de autor;
+
 XIII. Proponer la realización de estudios e investigaciones que permitan apoyar el desarrollo de sus actividades;
-XIV. Proponer incentivos para la creación, edición, producción, difusión, venta y exportación de libros en las diferentes lenguas del país, y apoyar la traducción a ellas de textos de literatura nacional y universal a las diferentes lenguas del país, y XV. Expedir su manual de operación conforme al cual regulará su organización, funcionamiento y trabajo.
+
+XIV. Proponer incentivos para la creación, edición, producción, difusión, venta y exportación de libros en las diferentes lenguas del país, y apoyar la traducción a ellas de textos de literatura nacional y universal a las diferentes lenguas del país, y
+
+XV. Expedir su manual de operación conforme al cual regulará su organización, funcionamiento y trabajo.
 
 ### Artículo 16
 .- El Consejo Nacional de Fomento para el Libro y la Lectura sesionará ordinariamente como mínimo tres veces al año y sobre los asuntos que el mismo establezca.
@@ -166,8 +239,13 @@ Artículo reformado DOF 17-12-2015
 
 ### Artículo 20
 .- Para impulsar la coordinación interinstitucional e intergubernamental en la aplicación de la presente Ley, la Secretaría de Cultura deberá:
-Párrafo reformado DOF 17-12-2015 I. Establecer mecanismos e instrumentos de coordinación, cooperación y vinculación, así como promover la celebración de convenios y acuerdos con dependencias de las distintas ramas y órdenes de gobierno y los órganos autónomos del Estado, para diseñar, planear, coordinar, aplicar y fortalecer políticas, programas, proyectos y acciones de fomento a la lectura y el libro;
-II. Establecer compromisos con las instancias y organismos internacionales que, mediante convenios y acuerdos bilaterales y multilaterales, incentiven el desarrollo integral de las políticas públicas en la materia facilitando a autores, editores, promotores, lectores, espacios y alternativas de promoción y difusión que favorezcan el conocimiento de nuestra obra editorial y literaria en el exterior, y III. Establecer programas que involucren a individuos, instituciones de asistencia privada, instituciones académicas, asociaciones civiles y fideicomisos, cooperativas y colectivos, cuya labor a favor del fomento a la lectura y el libro han sido fundamentales para el desarrollo cultural en el país.
+Párrafo reformado DOF 17-12-2015
+
+I. Establecer mecanismos e instrumentos de coordinación, cooperación y vinculación, así como promover la celebración de convenios y acuerdos con dependencias de las distintas ramas y órdenes de gobierno y los órganos autónomos del Estado, para diseñar, planear, coordinar, aplicar y fortalecer políticas, programas, proyectos y acciones de fomento a la lectura y el libro;
+
+II. Establecer compromisos con las instancias y organismos internacionales que, mediante convenios y acuerdos bilaterales y multilaterales, incentiven el desarrollo integral de las políticas públicas en la materia facilitando a autores, editores, promotores, lectores, espacios y alternativas de promoción y difusión que favorezcan el conocimiento de nuestra obra editorial y literaria en el exterior, y
+
+III. Establecer programas que involucren a individuos, instituciones de asistencia privada, instituciones académicas, asociaciones civiles y fideicomisos, cooperativas y colectivos, cuya labor a favor del fomento a la lectura y el libro han sido fundamentales para el desarrollo cultural en el país.
 
 ## CAPÍTULO V
 DE LA DISPONIBILIDAD Y ACCESO EQUITATIVO AL LIBRO
@@ -180,10 +258,16 @@ DE LA DISPONIBILIDAD Y ACCESO EQUITATIVO AL LIBRO
 
 ### Artículo 23
 .- Previo a su venta a los consumidores, los editores o importadores de libros deberán registrar el precio único de los libros en la base de datos a cargo de la Secretaría de Cultura, la cual estará disponible a la consulta pública. En dicha base se registrará al menos:
+
 I. Nombre, denominación o razón social y domicilio del editor;
+
 II. Datos que identifiquen al libro y su autor;
+
 III. Número Internacional Normalizado del Libro (ISBN);
-IV. Fecha de impresión o importación, y V. Precio único de venta al público.
+
+IV. Fecha de impresión o importación, y
+
+V. Precio único de venta al público.
 Artículo reformado DOF 29-11-2023
 
 ### Artículo 24

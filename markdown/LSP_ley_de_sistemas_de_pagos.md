@@ -20,18 +20,34 @@ Asimismo, la presente Ley será aplicable a las operaciones que celebre el Banco
 
 ### Artículo 2o
 . Para efectos de esta Ley, se entenderá por:
+
 I. Administrador del Sistema: en singular o plural, la sociedad, entidad o institución financiera que opera un Sistema de Pagos, establece sus Normas Internas o, en su caso, lleva a cabo conforme a la normativa aplicable a ese Sistema de Pagos, las acciones para coordinar la actuación de los Participantes;
+
 II. Compensación: la sustitución que se lleve a cabo en términos de las Normas Internas de un Sistema de Pagos, de los derechos y obligaciones derivados de las Órdenes de Transferencia, por un único crédito o por una única obligación, de modo que sólo sea exigible dicho crédito u obligación netos, sin que para ello se requiera el consentimiento expreso de los Participantes;
+
 III. Liquidación: los cargos y abonos realizados en las cuentas de los Participantes que se lleven en un mismo Sistema de Pagos de acuerdo con las Normas Internas, correspondientes a los saldos deudores o acreedores que resulten a su cargo o a su favor como consecuencia del trámite de Órdenes de Transferencia Aceptadas;
+
 IV. Normas Internas: respecto a un mismo Sistema de Pagos, las normas internas de adhesión y funcionamiento, incluyendo los manuales, procedimientos y los mecanismos de prevención para el caso de incumplimiento de un Participante en ese sistema, adoptadas de conformidad con la presente Ley;
-V. Orden de Transferencia: en singular o plural, a) la instrucción incondicional dada por un Participante, a través de un Sistema de Pagos, a otro Participante en ese mismo Sistema de Pagos, para que ponga a disposición del beneficiario designado en dicha instrucción, una cantidad determinada en moneda nacional o extranjera, o b) la instrucción incondicional o aviso dado por un Participante, a través de un Sistema de Pagos, a otro Participante en ese mismo Sistema de Pagos, para que se efectúe la enajenación, liquidación, afectación o entrega de valores.
+
+V. Orden de Transferencia: en singular o plural,
+
+a) la instrucción incondicional dada por un Participante, a través de un Sistema de Pagos, a otro Participante en ese mismo Sistema de Pagos, para que ponga a disposición del beneficiario designado en dicha instrucción, una cantidad determinada en moneda nacional o extranjera, o
+
+b) la instrucción incondicional o aviso dado por un Participante, a través de un Sistema de Pagos, a otro Participante en ese mismo Sistema de Pagos, para que se efectúe la enajenación, liquidación, afectación o entrega de valores.
+
 VI. Orden de Transferencia Aceptada: en singular o plural, aquella Orden de Transferencia que haya pasado todos los controles de riesgo establecidos conforme a las Normas Internas de un Sistema de Pagos y que, por lo tanto, pueda ser efectuada su Liquidación de conformidad con las referidas Normas Internas del Sistema de Pagos de que se trate;
-VII. Participante: en singular o plural, el Banco de México y cualquier institución financiera, sociedad o entidad que haya sido admitida para cursar Órdenes de Transferencia en algún Sistema de Pagos, conforme a las Normas Internas aplicables a ese Sistema de Pagos, y VIII. Sistema de Pagos: en singular o plural, los acuerdos o procedimientos que reúnan los requisitos establecidos en el artículo 3o. de esta Ley, que tengan por objeto la Compensación de Órdenes de Transferencia o la Liquidación de Órdenes de Transferencia Aceptadas.
+
+VII. Participante: en singular o plural, el Banco de México y cualquier institución financiera, sociedad o entidad que haya sido admitida para cursar Órdenes de Transferencia en algún Sistema de Pagos, conforme a las Normas Internas aplicables a ese Sistema de Pagos, y
+
+VIII. Sistema de Pagos: en singular o plural, los acuerdos o procedimientos que reúnan los requisitos establecidos en el artículo 3o. de esta Ley, que tengan por objeto la Compensación de Órdenes de Transferencia o la Liquidación de Órdenes de Transferencia Aceptadas.
 También serán considerados Sistemas de Pagos y quedarán sujetos, en lo conducente, a lo dispuesto en esta Ley, los procedimientos que tengan por objeto la Compensación de Órdenes de Transferencia o la Liquidación de Órdenes de Transferencia Aceptadas, en los que el Banco de México actúe como Administrador del Sistema.
 
 ### Artículo 3o
 . Se considerarán como Sistemas de Pagos los que reúnan los requisitos siguientes:
-I. Que participen, directa o indirectamente, al menos tres sociedades autorizadas para actuar como instituciones financieras conforme a las leyes aplicables, y II. Que el monto promedio mensual de las obligaciones de pago que acepte el acuerdo o procedimiento de que se trate para su compensación o liquidación en un año calendario, sea igual o mayor al equivalente a cien mil millones de unidades de inversión.
+
+I. Que participen, directa o indirectamente, al menos tres sociedades autorizadas para actuar como instituciones financieras conforme a las leyes aplicables, y
+
+II. Que el monto promedio mensual de las obligaciones de pago que acepte el acuerdo o procedimiento de que se trate para su compensación o liquidación en un año calendario, sea igual o mayor al equivalente a cien mil millones de unidades de inversión.
 El Banco de México calculará el monto promedio mensual referido en el párrafo anterior, con base en la información que le proporcionen las respectivas entidades que administren acuerdos o procedimientos que tengan por objeto la compensación o liquidación de obligaciones de pago derivadas de órdenes de transferencia de fondos o valores en los que participen, directa o indirectamente, al menos tres instituciones financieras. Para tales efectos, las entidades indicadas en este párrafo estarán obligadas a proporcionar la información que el Banco de México les requiera.
 Para determinar el monto mínimo a que se refiere esta fracción, se utilizará el valor de las unidades de inversión dado a conocer por el Banco de México a través del Diario Oficial de la Federación, correspondiente al último día del mes de diciembre del año inmediato anterior a aquel en que se realice la publicación a que se refiere el artículo siguiente.
 
@@ -44,12 +60,20 @@ Para determinar el monto mínimo a que se refiere esta fracción, se utilizará 
 ### Artículo 6o
 . Las Normas Internas de cualquier Sistema de Pagos deberán propiciar su eficiencia y seguridad, así como el desarrollo competitivo de los servicios que se presten utilizando el citado Sistema de Pagos. Asimismo, las Normas Internas deberán sujetarse a la autorización del Banco de México y a las disposiciones de carácter general que, en su caso, este último emita.
 En todo caso, las Normas Internas, por lo que se refiere a las de adhesión y funcionamiento o a los manuales, según corresponda, deberán prever cuando menos:
+
 I. El momento en que las Órdenes de Transferencia enviadas al Sistema de Pagos de que se trate se consideren Órdenes de Transferencia Aceptadas;
+
 II. Los criterios para determinar quiénes podrán ser Participantes en el Sistema de Pagos respectivo;
+
 III. Los medios de que disponga el Sistema de Pagos para el control de los riesgos derivados de la Compensación o Liquidación;
+
 IV. Las demás medidas que se adoptarían en caso de incumplimiento de algún Participante;
+
 V. Las medidas de seguridad del sistema operativo y las acciones correctivas que se seguirían en caso de fallas de dicho sistema, incluyendo los planes de contingencia respectivos;
-VI. Las comisiones o cualquier otro cargo que, en su caso, podrán cobrarse entre sí los Participantes en el Sistema de Pagos correspondiente, así como los que el Administrador del Sistema podrá cobrar a los mencionados Participantes, los cuales no deberán ser discriminatorios, y VII. Que los bienes, derechos y valores que se otorguen como garantía para el cumplimiento tanto de las Órdenes de Transferencia Aceptadas, como de la Compensación y Liquidación que resulten de éstas, deberán estar en todo momento libres de cualquier otro gravamen.
+
+VI. Las comisiones o cualquier otro cargo que, en su caso, podrán cobrarse entre sí los Participantes en el Sistema de Pagos correspondiente, así como los que el Administrador del Sistema podrá cobrar a los mencionados Participantes, los cuales no deberán ser discriminatorios, y
+
+VII. Que los bienes, derechos y valores que se otorguen como garantía para el cumplimiento tanto de las Órdenes de Transferencia Aceptadas, como de la Compensación y Liquidación que resulten de éstas, deberán estar en todo momento libres de cualquier otro gravamen.
 
 ### Artículo 7o
 . Dentro de los diez días hábiles bancarios siguientes a aquel en que se realice la publicación a que se refiere el artículo 4o. de esta Ley, los Administradores de los Sistemas deberán someter a la autorización del Banco de México la normativa a que se refiere el artículo anterior. Ello no resultará aplicable a los Administradores de los Sistemas que durante el año calendario anterior hayan estado sujetos a lo dispuesto en este ordenamiento y que hayan presentado al Banco de México en dicho año la normativa mencionada.
@@ -87,8 +111,12 @@ El incumplimiento de las obligaciones previstas en el presente artículo será s
 
 ### Artículo 14
 . Las resoluciones judiciales o administrativas, incluidas las derivadas de la aplicación de normas de naturaleza concursal o de procedimientos que impliquen la disolución o liquidación de un Participante, que tengan por objeto prohibir, suspender, o de cualquier manera limitar los pagos que éste deba realizar en los Sistemas de Pagos, no impedirán que se efectúe la Compensación y la Liquidación de las Órdenes de Transferencia Aceptadas, sujeto a las reglas siguientes:
+
 I. Los Sistemas de Pagos no podrán aceptar Órdenes de Transferencia del Participante sujeto a la resolución en cuestión, a partir del día hábil bancario siguiente a aquel en que el Administrador del Sistema reciba cualquiera de las notificaciones a que se refiere el artículo anterior;
-II. No se revocarán la Compensación, la Liquidación, así como cualquier otro acto relativo al cumplimiento de Órdenes de Transferencia Aceptadas que se hayan realizado a más tardar el día hábil bancario en que se haya recibido la notificación citada en la fracción anterior, y III. El cumplimiento de las obligaciones de pago derivadas de los actos a que se refiere la fracción anterior, se llevará a cabo de acuerdo con las Normas Internas del Sistema de Pagos respectivo, sin que queden sujetas a procedimientos de reconocimiento de créditos o a cualquier otro de naturaleza similar.
+
+II. No se revocarán la Compensación, la Liquidación, así como cualquier otro acto relativo al cumplimiento de Órdenes de Transferencia Aceptadas que se hayan realizado a más tardar el día hábil bancario en que se haya recibido la notificación citada en la fracción anterior, y
+
+III. El cumplimiento de las obligaciones de pago derivadas de los actos a que se refiere la fracción anterior, se llevará a cabo de acuerdo con las Normas Internas del Sistema de Pagos respectivo, sin que queden sujetas a procedimientos de reconocimiento de créditos o a cualquier otro de naturaleza similar.
 
 ## CAPÍTULO III
 De las Garantías y la Prelación
@@ -125,33 +153,53 @@ Los programas de ajuste previstos en el presente artículo se llevarán a cabo s
 
 ### Artículo 22
 . Son infracciones de los Administradores de los Sistemas a la presente Ley:
+
 I. Abstenerse de ajustar las Normas Internas del Sistema de Pagos respectivo a las disposiciones de carácter general que, en su caso, emita el Banco de México o de realizar las modificaciones a dicha normativa que éste les requiera dentro del plazo que determine;
+
 II. Omitir la presentación al Banco de México de la normativa a que se refiere el artículo 7o. de esta Ley, dentro del plazo previsto en el primer párrafo de dicho artículo;
+
 III. Modificar las Normas Internas sin contar con la previa autorización del Banco de México para ello;
+
 IV. Poner en vigor modificaciones a las comisiones o cualquier otro cargo de los señalados en la fracción VI del artículo 6o. de esta Ley, sin que haya transcurrido el plazo para que el Banco de México ejerza la facultad de veto a que se refiere el último párrafo del artículo 7o. de esta Ley o, cuando dentro de dicho plazo, el propio Banco de México las haya vetado;
+
 V. Omitir presentar la información que el Banco de México les solicite conforme a este ordenamiento, o bien presentarla extemporáneamente, de manera imprecisa o incompleta;
+
 VI. Proporcionar al Banco de México información falsa que esté relacionada con el Sistema de Pagos respectivo;
-VII. Incumplir con cualesquiera de las obligaciones que deriven de la implementación de un programa de ajuste establecido conforme al artículo 21 de la presente Ley, y VIII. Incumplir con cualquier otra obligación a su cargo prevista en esta Ley o en las disposiciones de carácter general que conforme a la misma, en su caso, expida el Banco de México.
+
+VII. Incumplir con cualesquiera de las obligaciones que deriven de la implementación de un programa de ajuste establecido conforme al artículo 21 de la presente Ley, y
+
+VIII. Incumplir con cualquier otra obligación a su cargo prevista en esta Ley o en las disposiciones de carácter general que conforme a la misma, en su caso, expida el Banco de México.
 
 ### Artículo 23
 . El Banco de México podrá imponer sanciones administrativas al Administrador del Sistema de que se trate, por las infracciones previstas en el artículo 22, conforme a lo siguiente:
-I. Por ubicarse en alguno de los supuestos previstos en las fracciones I, II, III, IV, VI y VII, multa de 5,000 a 10,000 veces el salario mínimo general diario vigente en el Distrito Federal, y II. Por ubicarse en alguno de los supuestos establecidos en las fracciones V y VIII, multa de 500 a 2,000 veces el salario mínimo general diario vigente en el Distrito Federal.
+
+I. Por ubicarse en alguno de los supuestos previstos en las fracciones I, II, III, IV, VI y VII, multa de 5,000 a 10,000 veces el salario mínimo general diario vigente en el Distrito Federal, y
+
+II. Por ubicarse en alguno de los supuestos establecidos en las fracciones V y VIII, multa de 500 a 2,000 veces el salario mínimo general diario vigente en el Distrito Federal.
 
 ### Artículo 24
 . El Banco de México podrá sancionar con multa de 500 a 2,000 veces el salario mínimo general diario vigente en el Distrito Federal, a quienes administren u operen acuerdos o procedimientos que tengan por objeto la compensación o liquidación de obligaciones de pago derivadas de órdenes de transferencia de fondos o valores, en los que participen, directa o indirectamente, tres o más instituciones financieras, que omitan presentar la información que el Banco de México les solicite en términos de lo previsto en el segundo párrafo de la fracción II del artículo 3o. de esta Ley, o bien la presenten extemporáneamente, de manera imprecisa o incompleta.
 
 ### Artículo 25
 . El Banco de México, previo a la imposición de las multas que corresponda aplicar conforme a esta Ley, estará a lo siguiente:
-I. Deberá notificar por escrito al presunto infractor los hechos que se le imputan y las disposiciones que se consideren infringidas, y II. El presunto infractor tendrá un plazo de cinco días hábiles bancarios, contado a partir del día hábil bancario siguiente al de la notificación correspondiente, para manifestar lo que a su interés convenga, ofrecer pruebas y formular alegatos por escrito.
+
+I. Deberá notificar por escrito al presunto infractor los hechos que se le imputan y las disposiciones que se consideren infringidas, y
+
+II. El presunto infractor tendrá un plazo de cinco días hábiles bancarios, contado a partir del día hábil bancario siguiente al de la notificación correspondiente, para manifestar lo que a su interés convenga, ofrecer pruebas y formular alegatos por escrito.
 
 ### Artículo 26
 . En caso de que el presunto infractor no hiciere uso del derecho de audiencia citado en el
 
 ### artículo 25
 precedente dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvirtuar los hechos imputados y las disposiciones que se consideren infringidas, el Banco de México impondrá la multa que corresponda en términos de los artículos 23 y 24 de esta Ley, debiendo tomar en cuenta, para la fijación de su importe, lo siguiente:
+
 I. La gravedad de la infracción;
+
 II. La capacidad económica del infractor;
-III. Si el infractor es reincidente. Al efecto, se considerará reincidente el infractor que, habiendo sido sancionado, incurra nuevamente en cualquiera de las infracciones previstas en los artículos 22 y 24 de la presente Ley, si no ha transcurrido, desde que quedó firme la más reciente resolución de multa que se le haya impuesto en términos de este ordenamiento, un plazo de trescientos sesenta y cinco días naturales, y IV. Si la infracción es continua, entendiéndose por ésta cuando su consumación se prolonga en el tiempo.
+
+III. Si el infractor es reincidente. Al efecto, se considerará reincidente el infractor que, habiendo sido sancionado, incurra nuevamente en cualquiera de las infracciones previstas en los artículos 22 y 24 de la presente Ley, si no ha transcurrido, desde que quedó firme la más reciente resolución de multa que se le haya impuesto en términos de este ordenamiento, un plazo de trescientos sesenta y cinco días naturales, y
+
+IV. Si la infracción es continua, entendiéndose por ésta cuando su consumación se prolonga en el tiempo.
 Para calcular el importe de las multas, se tendrá como base el salario mínimo general correspondiente al Distrito Federal, vigente en el día en que cese la consumación de la infracción.
 Cuando, por un acto o una omisión, se infrinjan diversas disposiciones a las que les correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuyo importe de la multa sea mayor.
 
@@ -199,10 +247,16 @@ De la interposición y sustanciación del recurso
 
 ### Artículo 37
 . En el escrito por el que se interponga el recurso de reconsideración deberá expresarse:
+
 I. La denominación social del recurrente y el nombre de la persona que promueva en su representación;
+
 II. El lugar, ubicado en el Distrito Federal, para que se les hagan las notificaciones y se practiquen las diligencias necesarias, relativas al recurso de reconsideración;
+
 III. Los datos de identificación de la resolución impugnada;
-IV. Los agravios que se hagan valer, y V. La firma autógrafa de quien promueva en representación del recurrente.
+
+IV. Los agravios que se hagan valer, y
+
+V. La firma autógrafa de quien promueva en representación del recurrente.
 Asimismo, en el escrito por el que se interponga el recurso de reconsideración, deberán ofrecerse todas las pruebas con las que se pretendan acreditar los hechos en que se funden los agravios. Al efecto, serán admisibles todo tipo de pruebas, siempre que estén reconocidas por la ley, excepto la testimonial y la confesional de las autoridades mediante la absolución de posiciones.
 El recurrente deberá exhibir todos los documentos que ofrezca como prueba junto con el escrito mediante el cual interponga el recurso. Los que se presenten con posterioridad no serán admitidos, salvo aquellos supervenientes.
 De igual forma, deberán acompañarse a dicho escrito: una copia del mismo para cada una de las autoridades emisoras del acto impugnado; los documentos que acrediten la personalidad de quien promueva; el documento en que conste el acto impugnado, y la constancia de notificación de este último.

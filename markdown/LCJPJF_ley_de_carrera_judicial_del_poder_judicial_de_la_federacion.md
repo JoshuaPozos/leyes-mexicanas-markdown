@@ -18,22 +18,40 @@ Se expide la Ley de Carrera Judicial del Poder Judicial de la Federación TÍTUL
 
 ### Artículo 2
 . Glosario Para los efectos de esta Ley se entenderá por:
+
 I. Carrera Judicial: Carrera Judicial del Poder Judicial de la Federación;
+
 II. Conflicto de interés: La posible afectación al desempeño imparcial y objetivo de las funciones de las personas servidoras públicas en razón de intereses personales, familiares o de negocios;
+
 III. Constitución: Constitución Política de los Estados Unidos Mexicanos;
+
 IV. Defensoría Pública: Instituto Federal de Defensoría Pública;
+
 V. Directora o Director General: Directora o Director General de la Escuela Nacional de Formación Judicial;
+
 VI. Escuela Judicial: Escuela Nacional de Formación Judicial;
+
 VII. Integrantes del Órgano de Administración Judicial: Las personas que integran el Pleno del Órgano de Administración Judicial;
+
 VIII. Ley: Ley de Carrera Judicial del Poder Judicial de la Federación;
+
 IX. Órgano: El Órgano de Administración Judicial;
+
 X. Órgano Jurisdiccional: Tribunales Colegiados de Circuito, Tribunales Colegiados de Apelación, Plenos Regionales, Centros de Justicia Penal Federal, Juzgados de Distrito, Tribunales Laborales Federales o el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones;
+
 XI. Pleno: Pleno del Órgano de Administración Judicial;
+
 XII. Presidenta/Presidente: Presidenta o Presidente del Órgano de Administración Judicial;
+
 XIII. Registro Único: Registro Único de Personas Servidoras Públicas de la Carrera Judicial;
+
 XIV. Suprema Corte: Suprema Corte de Justicia de la Nación;
+
 XV. Titulares: Las Magistradas y los Magistrados de Circuito, así como las Juezas y los Jueces de Distrito y sus categorías equivalentes en el sistema penal acusatorio y en el nuevo sistema de justicia laboral;
-XVI. Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación, y XVII. Vínculo o relación familiar: El o la que tienen las personas servidoras públicas con su cónyuge, concubina o concubinario, conviviente o con quien o quienes sostengan relación análoga a las anteriores, conforme a las legislaciones aplicables que regulen instituciones o figuras del derecho de familia, así como con parientes consanguíneos o por afinidad hasta el cuarto grado, tanto en línea recta, como colateral.
+
+XVI. Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación, y
+
+XVII. Vínculo o relación familiar: El o la que tienen las personas servidoras públicas con su cónyuge, concubina o concubinario, conviviente o con quien o quienes sostengan relación análoga a las anteriores, conforme a las legislaciones aplicables que regulen instituciones o figuras del derecho de familia, así como con parientes consanguíneos o por afinidad hasta el cuarto grado, tanto en línea recta, como colateral.
 
 ### Artículo 3
 . Normas aplicables Además de lo previsto en esta Ley, la Carrera Judicial se rige por la Ley Orgánica del Poder Judicial de la Federación, la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, los acuerdos generales que emitan las instancias competentes del Poder Judicial de la Federación y las demás disposiciones jurídicas aplicables.
@@ -44,12 +62,20 @@ TÍTULO SEGUNDO CARRERA JUDICIAL CAPÍTULO PRIMERO FINALIDAD DE LA CARRERA JUDIC
 
 ### Artículo 5
 . Finalidad La Carrera Judicial tiene como fines:
+
 I. Garantizar la independencia, imparcialidad, idoneidad, estabilidad, profesionalización y especialización de las personas servidoras públicas que forman parte de ella;
+
 II. Propiciar la permanencia y superación de sus integrantes, con base en expectativas de desarrollo personal progresivo;
+
 III. Desarrollar un sentido de identidad y pertenencia hacia el Poder Judicial de la Federación;
+
 IV. Contribuir a la excelencia, eficiencia y eficacia de la impartición de justicia;
+
 V. Coadyuvar en la legitimidad de los órganos jurisdiccionales que integran el Poder Judicial de la Federación;
-VI. Vincular el cumplimiento de los objetivos institucionales con el desempeño de las responsabilidades y el desarrollo profesional de las personas servidoras públicas que forman parte de ella, y VII. Coadyuvar en el ejercicio de una justicia orientada por la igualdad sustantiva y la justicia social.
+
+VI. Vincular el cumplimiento de los objetivos institucionales con el desempeño de las responsabilidades y el desarrollo profesional de las personas servidoras públicas que forman parte de ella, y
+
+VII. Coadyuvar en el ejercicio de una justicia orientada por la igualdad sustantiva y la justicia social.
 
 ### Artículo 6
 . Acceso a la Carrera Judicial Toda persona puede aspirar a desempeñar cargos dentro de la Carrera Judicial, siempre que reúna los requisitos establecidos en esta Ley y los acuerdos correspondientes.
@@ -57,12 +83,20 @@ CAPÍTULO SEGUNDO PRINCIPIOS RECTORES DE LA CARRERA JUDICIAL
 
 ### Artículo 7
 . Principios El desarrollo de la Carrera Judicial deberá garantizar en todas sus etapas, la observancia de los siguientes principios:
+
 I. Excelencia: Fomentar una calidad superior progresiva en el ejercicio de la actividad jurisdiccional con sentido de pertenencia hacia la institución, vocación de servicio social, humanismo, honestidad, responsabilidad, justicia y empatía en la prestación del servicio;
+
 II. Profesionalismo: Disposición para ejercer de manera responsable, seria y eficiente la función jurisdiccional, con capacidad, dedicación y ética en el ejercicio del servicio público;
+
 III. Objetividad: Desempeñar la actividad jurisdiccional de manera clara, precisa, apegada a la realidad, y sin influencias extrañas al derecho;
+
 IV. Imparcialidad: Condición esencial que debe revestir la función jurisdiccional para ser ajenos o extraños a los intereses personales y a los intereses de las partes en controversia, sin favorecer indebidamente a ninguna de ellas;
+
 V. Independencia: Condición esencial que debe revestir la función jurisdiccional para que su ejercicio no pueda verse afectado por decisiones o presiones extra-jurisdiccionales ajenas a los fines del proceso;
-VI. Antigüedad: Estimación del tiempo transcurrido en el desempeño de los diversos cargos en el Poder Judicial de la Federación como factor a considerar en el desarrollo de la Carrera Judicial, y VII. Paridad de género: Generación de condiciones orientadas a consolidar, de manera progresiva y gradual, una composición igualitaria entre hombres y mujeres en las distintas etapas, procesos y cargos que comprende la Carrera Judicial.
+
+VI. Antigüedad: Estimación del tiempo transcurrido en el desempeño de los diversos cargos en el Poder Judicial de la Federación como factor a considerar en el desarrollo de la Carrera Judicial, y
+
+VII. Paridad de género: Generación de condiciones orientadas a consolidar, de manera progresiva y gradual, una composición igualitaria entre hombres y mujeres en las distintas etapas, procesos y cargos que comprende la Carrera Judicial.
 
 ### Artículo 8
 . Perspectiva de género El Poder Judicial de la Federación incorporará la perspectiva de género, de forma transversal, progresiva e igualitaria en el desarrollo de la Carrera Judicial, a fin de garantizar a mujeres y hombres el ejercicio y goce de sus derechos humanos con un enfoque de igualdad sustantiva y velará por que los órganos a su cargo así lo hagan.
@@ -75,32 +109,56 @@ CAPÍTULO TERCERO PERFIL DEL FUNCIONARIO O FUNCIONARIA JUDICIAL
 ### Artículo 10
 . Perfil El perfil de la funcionaria o el funcionario judicial está constituido por el conjunto de capacidades y cualidades personales que permiten asegurar que, en el ejercicio de sus funciones, responderá de manera idónea a las demandas de justicia.
 Entre las principales características que deberá reunir la persona servidora pública judicial, se encuentran las siguientes:
+
 I. Formación jurídica sólida e integral;
+
 II. Independencia y autonomía en el ejercicio de su función y defensa del estado de derecho;
+
 III. El respeto absoluto y el compromiso con la defensa y protección de los derechos humanos;
+
 IV. Conocimiento de los estándares de derechos humanos y habilidad para interpretar y razonar jurídicamente a partir de casos concretos, aplicando un enfoque de interseccionalidad;
+
 V. Aptitud para identificar los contextos sociales y los factores de desigualdad estructural que se presentan en los casos sujetos a su conocimiento para garantizar una función judicial orientada por la igualdad sustantiva;
+
 VI. Conocimiento de la organización y, en su caso, manejo del despacho judicial;
+
 VII. Vocación de servicio público y compromiso social;
+
 VIII. Ética en el servicio público;
+
 IX. Trayectoria personal íntegra;
-X. Capacidad para aplicar el método de juzgar con perspectiva de género, así como los enfoques de justicia social e interseccional para garantizar un análisis integral de los casos, y XI. La observancia irrestricta de la prohibición de ejercer cualquier tipo de violencia institucional en el Poder Judicial de la Federación.
+
+X. Capacidad para aplicar el método de juzgar con perspectiva de género, así como los enfoques de justicia social e interseccional para garantizar un análisis integral de los casos, y
+
+XI. La observancia irrestricta de la prohibición de ejercer cualquier tipo de violencia institucional en el Poder Judicial de la Federación.
 
 ## CAPÍTULO CUARTO
 CATEGORÍAS DE LA CARRERA JUDICIAL
 
 ### Artículo 11
 . Categorías La Carrera Judicial está integrada por las siguientes categorías:
+
 I. Secretaria o Secretario General de Acuerdos de la Suprema Corte, de la Sala Superior del Tribunal Electoral o del Tribunal de Disciplina Judicial;
+
 II. Subsecretaria o Subsecretario General de Acuerdos de la Suprema Corte, de la Sala Superior del Tribunal Electoral o del Tribunal de Disciplina Judicial;
+
 III. Secretaria o Secretario de Estudio y Cuenta de Ministra o Ministro; Secretaria o Secretario de Estudio y Cuenta, e Instructor o Instructora de la Sala Superior del Tribunal Electoral; y Secretaria o Secretario Proyectista, e Instructor o Instructora del Tribunal de Disciplina Judicial;
+
 IV. Secretaria o Secretario de Tribunal de Circuito; Secretario o Secretaria de Estudio y Cuenta, así como Instructor o Instructora de las Salas Regionales del Tribunal Electoral;
+
 V. Asistente de constancias y registro de tribunal de alzada;
+
 VI. Secretario o Secretaria Proyectista de Tribunal de Circuito;
+
 VII. Secretario o Secretaria de Juzgado de Distrito;
+
 VIII. Asistente de constancias y registro de Juez de control o Juez de enjuiciamiento; así como los Secretarios o Secretarias instructores, de constancias, de audiencias, de acuerdos, de diligencias y de instrucción de los juzgados laborales;
+
 IX. Secretaria o Secretario Proyectista de Juzgado de Distrito;
-X. Actuaria o Actuario del Poder Judicial de la Federación, y XI. Oficial judicial.
+
+X. Actuaria o Actuario del Poder Judicial de la Federación, y
+
+XI. Oficial judicial.
 Las categorías señaladas en las fracciones IV, V y VI, son equivalentes en rango y se encuentran por encima de las categorías precisadas en las fracciones VII, VIII y IX, que también son equivalentes entre sí.
 Las categorías de puestos no podrán ser creadas, modificadas o derogadas por reglamento, acuerdo general o disposición administrativa.
 CAPÍTULO QUINTO REQUISITOS DE LOS PERFILES DE PUESTO
@@ -142,18 +200,37 @@ SECCIÓN PRIMERA INGRESO Y PROMOCIÓN
 
 ### Artículo 22
 . Ingreso a la Carrera Judicial Cualquier persona puede ingresar a la Carrera Judicial a través de las siguientes vías:
+
 I. Mediante los concursos abiertos de oposición que para ocupar la categoría de Oficial judicial se realicen por la Escuela Nacional de Formación Judicial, con la periodicidad que determine el Órgano de Administración Judicial o a través del Programa de Prácticas Judiciales para dicha categoría;
-II. A través de la designación en alguna de las categorías de Carrera Judicial pertenecientes a la Suprema Corte, al Tribunal Electoral y al Tribunal de Disciplina Judicial, y III. A través de la designación como Secretaria o Secretario Proyectista de Tribunal de Circuito o como Secretaria o Secretario Proyectista de Juzgado de Distrito.
+
+II. A través de la designación en alguna de las categorías de Carrera Judicial pertenecientes a la Suprema Corte, al Tribunal Electoral y al Tribunal de Disciplina Judicial, y
+
+III. A través de la designación como Secretaria o Secretario Proyectista de Tribunal de Circuito o como Secretaria o Secretario Proyectista de Juzgado de Distrito.
 
 ### Artículo 23
 . Promoción en la Carrera Judicial La promoción a las categorías de Actuaria o Actuario; Secretaria o Secretario de Juzgado o Asistente de constancias y registro de Jueza o Juez de control o Juez o Jueza de enjuiciamiento; Secretaria o Secretario de Tribunal o Asistente de constancias y registro de tribunal de alzada; Secretaria o Secretario instructor, de constancias, de audiencias, de acuerdos, de diligencias y de instrucción de los juzgados laborales, y Secretaria o Secretario Proyectista, e Instructor o Instructora del Tribunal de Disciplina Judicial se hará a través de concursos internos o se podrá realizar mediante concursos abiertos de oposición en los términos de esta Ley y de los acuerdos generales que al efecto expida el Órgano de Administración Judicial.
 
 ### Artículo 24
 . Modalidades de los concursos de oposición Las modalidades de los concursos de oposición a las distintas categorías de la Carrera Judicial serán las siguientes:
-I. De acuerdo con las personas que pueden participar, éstos podrán ser: a) Internos: Aquellos concursos en los que podrán participar las personas que ocupen algún cargo dentro de la Carrera Judicial y que cumplan con los requisitos para ingresar establecidos en esta Ley, el Acuerdo General del Pleno del Órgano de Administración Judicial que reglamente la Carrera Judicial y la convocatoria respectiva. b) Abiertos: En estos concursos podrá participar cualquier persona que cumpla con los requisitos señalados en esta Ley y el Acuerdo General del Pleno del Órgano de Administración Judicial que reglamente la Carrera Judicial, salvo los referidos al desempeño previo de cargos en la Carrera Judicial. No obstante, en la convocatoria se podrán fijar requisitos que aseguren que las y los concursantes tengan el perfil y experiencia necesarios para desempeñar la función de la categoría que se concurse.
-II. De acuerdo con el mecanismo de selección, éstos podrán ser: a) Escolarizados: Se denominan escolarizados cuando dentro de las etapas del concurso se prevé la realización de un curso de formación impartido por la Escuela Judicial. b) No escolarizados: Los concursos de este tipo serán todos los demás casos que no impliquen llevar a cabo algún curso de formación.
+
+I. De acuerdo con las personas que pueden participar, éstos podrán ser:
+
+a) Internos: Aquellos concursos en los que podrán participar las personas que ocupen algún cargo dentro de la Carrera Judicial y que cumplan con los requisitos para ingresar establecidos en esta Ley, el Acuerdo General del Pleno del Órgano de Administración Judicial que reglamente la Carrera Judicial y la convocatoria respectiva.
+
+b) Abiertos: En estos concursos podrá participar cualquier persona que cumpla con los requisitos señalados en esta Ley y el Acuerdo General del Pleno del Órgano de Administración Judicial que reglamente la Carrera Judicial, salvo los referidos al desempeño previo de cargos en la Carrera Judicial. No obstante, en la convocatoria se podrán fijar requisitos que aseguren que las y los concursantes tengan el perfil y experiencia necesarios para desempeñar la función de la categoría que se concurse.
+
+II. De acuerdo con el mecanismo de selección, éstos podrán ser:
+
+a) Escolarizados: Se denominan escolarizados cuando dentro de las etapas del concurso se prevé la realización de un curso de formación impartido por la Escuela Judicial.
+
+b) No escolarizados: Los concursos de este tipo serán todos los demás casos que no impliquen llevar a cabo algún curso de formación.
 Sin perjuicio de lo anterior, la Escuela Judicial podrá establecer en la convocatoria respectiva, la obligatoriedad de una capacitación que, según lo determine, podrá ser previa o posterior a los concursos de oposición. Esta capacitación será inherente y estrictamente relacionada con las funciones realizadas para la categoría postulada.
-III. De acuerdo con la finalidad, éstos podrán ser: a) Para acceder directamente a una plaza dentro de alguna de las categorías de la Carrera Judicial. b) Para incorporarse a una lista de acceso o promoción en la Carrera Judicial.
+
+III. De acuerdo con la finalidad, éstos podrán ser:
+
+a) Para acceder directamente a una plaza dentro de alguna de las categorías de la Carrera Judicial.
+
+b) Para incorporarse a una lista de acceso o promoción en la Carrera Judicial.
 En aras del principio de paridad de género de la Carrera Judicial se podrán llevar a cabo concursos de oposición dirigidos exclusivamente a mujeres, independientemente de la modalidad de éstos.
 
 ### Artículo 25
@@ -189,23 +266,42 @@ Todas y todos los integrantes de la Carrera Judicial tienen derecho a perfeccion
 
 ### Artículo 31
 . Programa de formación y desarrollo profesional El Órgano de Administración Judicial, por conducto de la Escuela Judicial, deberá expedir un Programa de Formación y Desarrollo Profesional, basado en esquemas de capacitación y profesionalización permanentes, en función de las distintas categorías de la Carrera Judicial, contemplando al menos los siguientes aspectos:
+
 I. Humanidades;
+
 II. Procesos de decisión y de formalización de la justicia;
+
 III. Acceso a la justicia;
+
 IV. Buena administración de la justicia;
+
 V. Comunicación judicial y lenguaje ciudadano;
+
 VI. Interpretación y argumentación judicial;
+
 VII. Dimensión nacional e internacional de la justicia;
+
 VIII. Protección y defensa de los derechos humanos;
+
 IX. Igualdad y perspectiva de género;
+
 X. Derechos de niñas, niños y adolescentes;
+
 XI. Derechos de pueblos y comunidades indígenas y afromexicanas;
+
 XII. Derechos de personas con discapacidad;
+
 XIII. Integridad en el ejercicio de la función;
+
 XIV. Gestión de recursos humanos y administrativos;
+
 XV. Transparencia y rendición de cuentas;
+
 XVI. Mecanismos Alternativos de Solución de Controversias;
-XVII. Materias específicas y multidisciplinarias para cada integrante de la Carrera Judicial, en función de su perfil y de las actividades de naturaleza jurisdiccional que realice, y XVIII. Las demás que establezcan los acuerdos generales aplicables.
+
+XVII. Materias específicas y multidisciplinarias para cada integrante de la Carrera Judicial, en función de su perfil y de las actividades de naturaleza jurisdiccional que realice, y
+
+XVIII. Las demás que establezcan los acuerdos generales aplicables.
 SECCIÓN TERCERA EVALUACIÓN DEL DESEMPEÑO
 
 ### Artículo 32
@@ -237,19 +333,31 @@ SECCIÓN QUINTA SEPARACIÓN
 
 ### Artículo 38
 . Causales de separación La separación de las personas servidoras públicas pertenecientes a la Carrera Judicial ocurrirá cuando se presente cualquiera de las siguientes causas:
+
 I. Renuncia;
+
 II. Incapacidad física o mental que impida el desempeño de sus funciones, sin perjuicio de los ajustes razonables que procedan;
+
 III. Designación para ocupar un puesto, cargo o función no perteneciente al servicio de carrera sin previa licencia;
+
 IV. No acreditar el procedimiento que disponga el Órgano mediante acuerdo general respecto de las evaluaciones de desempeño a que se refiere la presente Ley y las disposiciones normativas aplicables que al efecto se emitan;
+
 V. Destitución o inhabilitación por resolución firme que así lo determine;
+
 VI. Condena a pena privativa de libertad por razón de delito doloso que haya causado ejecutoria;
+
 VII. Rescisión de la relación laboral derivada de un conflicto de trabajo, determinada por la autoridad competente, que haya quedado firme;
+
 VIII. Por remoción, tratándose de las categorías previstas en las fracciones I, II, III, VI, IX y XI del
 
 ### artículo 11
 de esta Ley;
+
 IX. Retiro por edad;
-X. Jubilación, y XI. Las demás que establezca la presente Ley y demás disposiciones aplicables.
+
+X. Jubilación, y
+
+XI. Las demás que establezca la presente Ley y demás disposiciones aplicables.
 
 ### Artículo 39
 . Facultad de remoción La facultad de remoción tratándose de las categorías previstas en las fracciones I, II, III, VI, IX y XI del
@@ -267,25 +375,45 @@ CAPÍTULO OCTAVO DERECHOS Y OBLIGACIONES
 
 ### Artículo 42
 . Derechos Son derechos de las personas servidoras públicas integrantes de la Carrera Judicial:
+
 I. Recibir el nombramiento como persona servidora pública integrante de la Carrera Judicial cumplidos los requisitos establecidos en la presente Ley y demás disposiciones aplicables;
+
 II. Percibir las remuneraciones y prestaciones laborales correspondientes a la categoría para la cual hayan sido designados de conformidad con la normativa aplicable en el Poder Judicial de la Federación;
+
 III. Gozar de permisos y licencias en términos de las disposiciones aplicables;
+
 IV. Percibir los reconocimientos correspondientes en los términos y bajo las condiciones establecidas en la presente Ley y demás disposiciones aplicables;
+
 V. Recibir capacitación por parte de la Escuela Judicial para el mejor desempeño de sus funciones;
+
 VI. Contar con la autorización y las facilidades del superior jerárquico para asistir a los cursos de capacitación;
+
 VII. Conocer los resultados obtenidos de las evaluaciones que se le hayan realizado;
-VIII. Acceder en igualdad de condiciones a los concursos de oposición para las categorías de la Carrera Judicial, cuando hayan cumplido los requisitos y procedimientos descritos en la presente Ley y disposiciones normativas aplicables, y IX. Los demás que determinen las leyes y disposiciones normativas aplicables.
+
+VIII. Acceder en igualdad de condiciones a los concursos de oposición para las categorías de la Carrera Judicial, cuando hayan cumplido los requisitos y procedimientos descritos en la presente Ley y disposiciones normativas aplicables, y
+
+IX. Los demás que determinen las leyes y disposiciones normativas aplicables.
 
 ### Artículo 43
 . Obligaciones Son obligaciones de las personas servidoras públicas integrantes de la Carrera Judicial:
+
 I. Ejercer sus funciones con estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos y los demás previstos en la presente Ley y demás disposiciones normativas aplicables;
+
 II. Participar en los cursos de capacitación que imparta la Escuela Judicial y acreditar las evaluaciones de desempeño establecidas para su continuidad y desarrollo en la Carrera Judicial;
+
 III. Conducirse con respeto a la normativa en materia de igualdad de género y fomentar espacios laborales libres de violencia y discriminación;
+
 IV. Proporcionar la información y documentación necesarias a la persona servidora pública que se designe para suplirlo en ausencias temporales, conforme a la normativa aplicable;
+
 V. Realizar las funciones propias de su cargo conforme a la normativa y en el tiempo y lugar estipulado, con la responsabilidad, la prontitud, el cuidado y la eficiencia que sean compatibles con sus aptitudes, su preparación y su destreza;
+
 VI. Abstenerse de participar, directa o indirectamente en la designación o nombramiento en cualquier órgano jurisdiccional o área administrativa del Poder Judicial de la Federación en que ejerza funciones, de personas con las que tenga lazos de parentesco por consanguinidad o afinidad hasta el cuarto grado o vínculo de matrimonio, concubinato o afectivo;
+
 VII. Conducirse en su actuar con apego a la independencia de la función judicial procurando una administración de la justicia pronta, completa, expedita e imparcial;
-VIII. Manifestar bajo protesta de decir verdad los vínculos familiares o por afinidad hasta el cuarto grado con personas servidoras públicas del Poder Judicial de la Federación, y IX. Las demás que establezca la presente Ley y demás disposiciones aplicables.
+
+VIII. Manifestar bajo protesta de decir verdad los vínculos familiares o por afinidad hasta el cuarto grado con personas servidoras públicas del Poder Judicial de la Federación, y
+
+IX. Las demás que establezca la presente Ley y demás disposiciones aplicables.
 La omisión, falsedad o mala fe en las manifestaciones o validaciones a que se refieren las fracciones VIII y IX de este artículo, tendrá como consecuencia que el nombramiento del servidor público obligado o la servidora pública obligada quede sin efecto, con independencia de las demás responsabilidades a que haya lugar.
 CAPÍTULO NOVENO INSTANCIAS DE LA CARRERA JUDICIAL
 
@@ -327,9 +455,21 @@ TÍTULO TERCERO MEDIDAS DE COMBATE AL NEPOTISMO CAPÍTULO ÚNICO IMPEDIMENTOS EN
 
 ### Artículo 51
 . Impedimentos en los nombramientos Las y los Titulares están impedidas e impedidos para otorgar nombramiento, prórroga o promoción a cualquier persona en los supuestos siguientes:
+
 I. Con la que tenga vínculo o relación familiar o de pareja, o conflicto de interés;
+
 II. Con la que tenga vínculo o relación familiar o de pareja con cualquier persona servidora pública del órgano jurisdiccional en el que es Titular, lo que incluye al resto de Titulares en el caso de órganos jurisdiccionales colegiados y al personal de la Secretaría de Acuerdos;
-III. A quien tenga vínculo o relación familiar o de pareja, o conflicto de interés, con otra persona Titular de órgano jurisdiccional o área administrativa, si se configura alguno de los siguientes esquemas: a) Nombramientos cruzados: Cuando dos Titulares contraten entre sí familiares de cada uno de ellos, o personas con las que tengan conflicto de interés, con independencia de que los respectivos nombramientos sean o no simultáneos. b) Nombramientos triangulados: Cuando más de dos Titulares contraten entre sí familiares de cada uno de ellos o personas con las que tengan conflicto de interés, siempre que los respectivos nombramientos sean simultáneos. c) Rotación intermitente: Cuando más de dos Titulares, con el propósito de evadir la configuración del esquema de nombramientos triangulados, otorguen nombramientos no simultáneos, de forma intermitente, a familiares de cada uno de ellos o personas con las que tengan conflicto de interés. d) Nombramientos a terceros: Cuando dos o más Titulares, con el propósito de evadir la configuración de los esquemas de nombramientos cruzados y triangulados, contraten a servidores públicos con los que no tengan relación familiar, para beneficiar a familiares de alguno o algunos de ellos o personas con las que tengan conflicto de interés;
+
+III. A quien tenga vínculo o relación familiar o de pareja, o conflicto de interés, con otra persona Titular de órgano jurisdiccional o área administrativa, si se configura alguno de los siguientes esquemas:
+
+a) Nombramientos cruzados: Cuando dos Titulares contraten entre sí familiares de cada uno de ellos, o personas con las que tengan conflicto de interés, con independencia de que los respectivos nombramientos sean o no simultáneos.
+
+b) Nombramientos triangulados: Cuando más de dos Titulares contraten entre sí familiares de cada uno de ellos o personas con las que tengan conflicto de interés, siempre que los respectivos nombramientos sean simultáneos.
+
+c) Rotación intermitente: Cuando más de dos Titulares, con el propósito de evadir la configuración del esquema de nombramientos triangulados, otorguen nombramientos no simultáneos, de forma intermitente, a familiares de cada uno de ellos o personas con las que tengan conflicto de interés.
+
+d) Nombramientos a terceros: Cuando dos o más Titulares, con el propósito de evadir la configuración de los esquemas de nombramientos cruzados y triangulados, contraten a servidores públicos con los que no tengan relación familiar, para beneficiar a familiares de alguno o algunos de ellos o personas con las que tengan conflicto de interés;
+
 IV. A la que tenga vínculo, relación familiar o de pareja, o conflicto de interés con algún o alguna Titular que haya estado adscrito en los dos años inmediatos anteriores al órgano jurisdiccional donde se pretenda dar el nombramiento.
 Con independencia de lo anterior, las y los Titulares deberán abstenerse de construir esquemas de contratación en los que se genere beneficio a una o más personas con las que aquellos u otros Titulares tengan vínculo o relación familiar o de pareja, o algún otro conflicto de interés.
 La contravención a lo dispuesto en el presente artículo será considerada una falta grave conforme lo dispuesto en los artículos 58 y 63 Bis de la Ley General de Responsabilidades Administrativas y los artículos 187, fracciones VII, XVI, XVII y 203 de la Ley Orgánica y, por lo tanto, será causa de responsabilidad administrativa.
@@ -397,22 +537,40 @@ Para el desempeño de sus funciones, la Escuela Judicial impartirá educación p
 
 ### Artículo 65
 . Facultades de la Escuela Judicial La Escuela Judicial tendrá las siguientes facultades:
+
 I. Educar, capacitar y actualizar a las funcionarias y los funcionarios del Poder Judicial de la Federación;
+
 II. Participar en los exámenes de oposición, así como en los procesos de selección y evaluación del personal del Poder Judicial de la Federación en los términos de esta Ley;
+
 III. Elaborar, calificar y resguardar los reactivos y demás documentación correspondiente a los concursos y procesos de selección que se realicen;
+
 IV. Capacitar y actualizar al personal del Instituto Federal de Defensoría Pública, así como realizar los concursos de oposición para defensoras públicas o defensores públicos y asesoras jurídicas o asesores jurídicos de dicho Instituto, en términos de lo dispuesto en las disposiciones jurídicas aplicables;
+
 V. Emitir y ejecutar el Plan Anual de Capacitación para el personal del Instituto Federal de Defensoría Pública;
+
 VI. Expedir el Programa de Formación y Desarrollo Profesional;
+
 VII. Implementar la formación permanente y obligatoria en perspectiva de género como un criterio obligatorio para la obtención de nombramientos y ascensos en la Carrera Judicial;
+
 VIII. Diseñar, difundir e impartir sus programas;
+
 IX. Diseñar, difundir e impartir posgrados, programas de educación continua y cursos de formación;
+
 X. Implementar programas de investigación que desarrollen y mejoren las funciones del Poder Judicial de la Federación;
+
 XI. Diseñar, difundir e impartir cursos de preparación para los concursos correspondientes a las distintas categorías que componen la Carrera Judicial;
+
 XII. Coordinarse con instituciones académicas para que lo auxilien en sus funciones;
+
 XIII. Promover intercambios académicos con instituciones de educación superior;
+
 XIV. Celebrar convenios de colaboración para la formación, capacitación, evaluación, certificación y actualización del personal de los Poderes Judiciales locales, fiscalías, defensorías públicas locales, organismos de protección de derechos humanos, e instituciones de seguridad pública, de acuerdo con las disposiciones que emita el Órgano mediante acuerdos generales;
+
 XV. Obtener, en su caso, el reconocimiento de validez oficial de los planes y programas de estudio que elabore;
-XVI. Establecer extensiones regionales, y XVII. Las demás que se determinen en las leyes y los acuerdos generales del Órgano.
+
+XVI. Establecer extensiones regionales, y
+
+XVII. Las demás que se determinen en las leyes y los acuerdos generales del Órgano.
 
 ### Artículo 66
 . Directora o Director General La Escuela Judicial contará con una Directora o Director quien será la o el encargado de determinar las líneas generales de capacitación y selección del personal de Carrera Judicial. Para ello, se auxiliará del personal de la Escuela Judicial que estime pertinente. El Pleno del Órgano designará a la Directora o Director, a propuesta de la Presidenta o Presidente, quien durará dos años, con posibilidad de ratificación.
@@ -427,13 +585,22 @@ El Comité Académico tendrá como función determinar de manera conjunta con la
 
 ### Artículo 69
 . Programas Los programas que imparta la Escuela Judicial tendrán como objeto lograr que las y los integrantes del Poder Judicial de la Federación o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarios para el adecuado desempeño de la función judicial. Para ello, la Escuela Judicial establecerá los programas y cursos tendientes a:
+
 I. Desarrollar el conocimiento práctico de los trámites, diligencias y actuaciones que forman parte de los procedimientos y asuntos de la competencia del Poder Judicial de la Federación;
+
 II. Perfeccionar las habilidades y técnicas en materia de preparación y ejecución de actuaciones judiciales;
+
 III. Reforzar, actualizar y profundizar los conocimientos respecto del ordenamiento jurídico positivo, doctrina y jurisprudencia;
+
 IV. Proporcionar y desarrollar técnicas de análisis, argumentación e interpretación que permitan valorar correctamente las pruebas y evidencias aportadas en los procedimientos, así como formular adecuadamente las actuaciones y proyectos de resolución judiciales;
+
 V. Difundir las técnicas de organización en la función jurisdiccional;
+
 VI. Contribuir al desarrollo de la vocación de servicio, así como al ejercicio de los valores y principios éticos inherentes a la función judicial;
-VII. Promover intercambios académicos con instituciones de educación superior, entre otras, y VIII. Implementar la formación permanente y obligatoria en perspectiva de género.
+
+VII. Promover intercambios académicos con instituciones de educación superior, entre otras, y
+
+VIII. Implementar la formación permanente y obligatoria en perspectiva de género.
 
 ### Artículo 70
 . Cursos La Escuela Judicial podrá llevar a cabo cursos de preparación para los concursos correspondientes a las distintas categorías que componen la Carrera Judicial.

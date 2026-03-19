@@ -21,12 +21,18 @@ Fracción derogada DOF 12-05-1995 VI.- (Se deroga).
 Fracción derogada DOF 22-12-1993 VII.- (Se deroga).
 Fracción reformada DOF 13-03-1943. Derogada DOF 22-12-1993 VIII.- (Se deroga).
 Fracción derogada DOF 12-05-1995 IX.- (Se deroga).
-Fracción derogada DOF 07-06-1995 XI. Las rutas del servicio postal, y Fracción derogada DOF 07-06-1995. Adicionada DOF 16-07-2025 XII. Las vías ferroviarias para el servicio público de transporte ferroviario.
+Fracción derogada DOF 07-06-1995
+
+XI. Las rutas del servicio postal, y Fracción derogada DOF 07-06-1995. Adicionada DOF 16-07-2025
+
+XII. Las vías ferroviarias para el servicio público de transporte ferroviario.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 2o
 .- Son partes integrantes de las vías generales de comunicación:
-I.- Los servicios auxiliares, obras, construcciones y demás dependencias y accesorios de las mismas, y II. Los terrenos y aguas que sean necesarias para el derecho de vía y para el establecimiento de los servicios y obras a que se refiere la fracción anterior. La extensión de los terrenos y aguas y el volumen de éstas se fijará por la Secretaría de Infraestructura, Comunicaciones y Transportes.
+I.- Los servicios auxiliares, obras, construcciones y demás dependencias y accesorios de las mismas, y
+
+II. Los terrenos y aguas que sean necesarias para el derecho de vía y para el establecimiento de los servicios y obras a que se refiere la fracción anterior. La extensión de los terrenos y aguas y el volumen de éstas se fijará por la Secretaría de Infraestructura, Comunicaciones y Transportes.
 Fracción reformada DOF 09-04-2012, 16-07-2025 CAPITULO II Jurisdicción
 
 ### Artículo 3o
@@ -152,11 +158,15 @@ Artículo derogado DOF 22-12-1993 CAPITULO V Caducidad y rescisión de concesion
 .- Las concesiones y asignaciones caducarán por cualquiera de las causas siguientes:
 Párrafo reformado DOF 16-07-2025 I.- Porque no se presenten los planos de reconocimiento y localización de las vías, puertos aéreos, campos de emergencia, estaciones, talleres y demás obras e instalaciones, dentro del término señalado en las concesiones;
 II.- Por no construir o no establecer dentro de los plazos señalados en las concesiones, la parte o la totalidad de la vía u obras convenidas;
+
 III. Porque se interrumpa el servicio público prestado en todo o en parte importante, sin causa justificada a juicio de la Secretaría de Infraestructura, Comunicaciones y Transportes, o sin previa autorización de esta;
-Fracción reformada DOF 09-04-2012, 16-07-2025 IV. Porque se enajene la concesión o alguno de los derechos en ella contenidos, o los bienes afectos al servicio de que se trate, sin la previa aprobación de la Secretaría de Infraestructura, Comunicaciones y Transportes;
+Fracción reformada DOF 09-04-2012, 16-07-2025
+
+IV. Porque se enajene la concesión o alguno de los derechos en ella contenidos, o los bienes afectos al servicio de que se trate, sin la previa aprobación de la Secretaría de Infraestructura, Comunicaciones y Transportes;
 Fracción reformada DOF 09-04-2012, 16-07-2025 V.- Porque se ceda, hipoteque, enajene, o de cualquier manera se grave la concesión, o algunos de los derechos en ella establecidos, o los bienes efectos al servicio público de que se trate, a algún gobierno o Estados extranjeros, o porque se les admita como socios en la empresa concesionaria;
 VI.- Porque se proporcionen al enemigo, en caso de guerra internacional, cualquiera de los elementos de que disponga el concesionario con motivo de su concesión;
 VII.- Porque el concesionario cambie su nacionalidad mexicana;
+
 VIII. Porque se modifiquen o alteren substancialmente la naturaleza o condiciones en que opere el servicio, el trazo o la ruta de la vía, o los circuitos de las instalaciones, o su ubicación, sin la previa aprobación de la Secretaría de Infraestructura, Comunicaciones y Transportes;
 Fracción reformada DOF 09-04-2012, 16-07-2025 IX.- Porque los concesionarios no paguen la participación que corresponda al Gobierno Federal, en los casos en que así se haya estipulado en las concesiones, o porque se defraude dolosamente al Erario, en la participación, sin perjuicio de la responsabilidad penal a que haya lugar;
 X.- Porque el concesionario se rehuse a cumplir, en su caso, con lo dispuesto por los artículos 102 y 103 de esta ley;
@@ -184,8 +194,10 @@ El Gobierno Federal tendrá en todo tiempo el derecho de adquirir los bienes que
 
 ### artículo 29
 , si el Gobierno no considera conveniente hacer por su cuenta la explotación de la vía, procederá, en subasta pública, a la venta de ésta con todos sus bienes muebles e inmuebles, conforme a las bases siguientes:
+
 I. La Secretaría de Infraestructura, Comunicaciones y Transportes designará peritos que hagan el avalúo de la vía de comunicación con todos sus bienes, el cual servirá de base para el remate;
 Fracción reformada DOF 09-04-2012, 16-07-2025 II.- Se publicarán edictos convocando para el remate, en el "Diario Oficial" de la Federación y en uno de los periódicos de mayor circulación en el país, tres veces, de diez en diez días;
+
 III. Las posturas deberán ser aprobadas por la Secretaría de Infraestructura, Comunicaciones y Transportes;
 Fracción reformada DOF 09-04-2012, 16-07-2025 IV.- Para garantizar su postura, los concursantes constituirán antes de la almoneda, en el Banco de México, un depósito en efectivo del diez por ciento del valor de los bienes, conforme al avalúo pericial;
 V.- El postor en quien se finque el remate, perderá en beneficio de la Nación el depósito, si no cumpliere con su postura, quedando ésta sin valor alguno ni efecto, y se repetirá la almoneda:
@@ -275,9 +287,13 @@ V.- Para obligar a las empresas de transportes a que reformen y mejoren los sist
 
 ### Artículo 52
 .- Las personas concesionarias, asignatarias o permisionarias que exploten vías generales de comunicación y medios de transporte podrán, con la previa aprobación de la Secretaría de Infraestructura, Comunicaciones y Transportes y sujetos a las restricciones que establece esta Ley:
-Párrafo reformado DOF 09-04-2012, 16-07-2025 I. Celebrar todos los contratos directamente relacionados con los objetos de la concesión, asignación o permiso, los que no surtirán efectos mientras no se llene el requisito de aprobación.
+Párrafo reformado DOF 09-04-2012, 16-07-2025
+
+I. Celebrar todos los contratos directamente relacionados con los objetos de la concesión, asignación o permiso, los que no surtirán efectos mientras no se llene el requisito de aprobación.
 Párrafo reformado DOF 16-07-2025 Tratándose del servicio normal que las empresas de vías deben prestar al público, éstas pueden someter a la aprobación de la Secretaría contratos tipo que, una vez aprobados, se pondrán en vigor en todos los casos, sin variación alguna;
-II.- Explotar sus líneas en combinación con otra u otras empresas nacionales u extranjeras. Se entiende que existe combinación, cuando de común acuerdo establecen horarios, itinerarios, tarifas unidas o combinadas, expidan documentos directos, intercambien sus equipos, o ejecuten otros actos análogos con ese fin, y III. Establecer en beneficio de las personas usuarias, con las condiciones y limitaciones que la Secretaría de Infraestructura, Comunicaciones y Transportes determine, todos aquellos servicios y facilidades que, sin ser indispensables para la comunicación o el transporte, sean incidentales o conexos con el mismo. Para estos servicios las personas concesionarias, asignatarias o permisionarias no disfrutarán de las franquicias que concede la presente ley, con excepción de la de carros-dormitorios.
+II.- Explotar sus líneas en combinación con otra u otras empresas nacionales u extranjeras. Se entiende que existe combinación, cuando de común acuerdo establecen horarios, itinerarios, tarifas unidas o combinadas, expidan documentos directos, intercambien sus equipos, o ejecuten otros actos análogos con ese fin, y
+
+III. Establecer en beneficio de las personas usuarias, con las condiciones y limitaciones que la Secretaría de Infraestructura, Comunicaciones y Transportes determine, todos aquellos servicios y facilidades que, sin ser indispensables para la comunicación o el transporte, sean incidentales o conexos con el mismo. Para estos servicios las personas concesionarias, asignatarias o permisionarias no disfrutarán de las franquicias que concede la presente ley, con excepción de la de carros-dormitorios.
 Fracción reformada DOF 09-04-2012, 16-07-2025
 
 ### Artículo 53
@@ -290,12 +306,17 @@ Artículo reformado DOF 09-04-2012, 16-07-2025, 16-07-2025
 
 ### Artículo 55
 .- Las tarifas para el cobro de los servicios de las empresas porteadoras, comprenderán las cuotas y las condiciones conforme a las cuales deberán aplicarse, y estarán sujetas a las reglas siguientes:
+
 I. Las tarifas y los elementos de su aplicación, como tablas de distancias, clasificaciones de efectos, tablas de mermas, etc., serán formuladas por las empresas y sometidas a la Secretaría de Infraestructura, Comunicaciones y Transportes, quien las aprobará, siempre que se encuentren de acuerdo con los preceptos de esta Ley, de su reglamento y de las concesiones respectivas.
 Fracción reformada DOF 09-04-2012, 16-07-2025 II.- Las tarifas se formularán y aplicarán observando perfecta igualdad de tratamiento, excepto en los casos en que esta ley autorice lo contrario.
+
 III. Las tarifas y sus modificaciones entrarán en vigor una vez aprobadas o registradas en la fecha que expresamente señale la Secretaría de Infraestructura, Comunicaciones y Transportes. La propia Secretaría ordenará los casos en que por su importancia las tarifas deban ser publicadas en el Diario Oficial de la Federación.
 Párrafo reformado DOF 21-01-1985, 16-07-2025 Cuando se trate de tarifas unidas con líneas extranjeras, la Secretaría, de acuerdo con las empresas, modificarán los plazos señalados en el párrafo anterior.
+
 IV. Las tarifas de competencia se formularán siempre que no sean a base de pérdida directa por la explotación en el tramo de la competencia. La Secretaría de Infraestructura, Comunicaciones y Transportes determinará, en cada caso, cuáles son los puntos o zonas de competencia.
-Fracción reformada DOF 09-04-2012, 16-07-2025 V. Las tarifas estarán en vigor durante el período que las mismas indiquen. Si no lo expresan, regirán hasta la fecha que fije el documento por el cual se les cancele o modifique.
+Fracción reformada DOF 09-04-2012, 16-07-2025
+
+V. Las tarifas estarán en vigor durante el período que las mismas indiquen. Si no lo expresan, regirán hasta la fecha que fije el documento por el cual se les cancele o modifique.
 Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Infraestructura, Comunicaciones y Transportes, de conformidad con esta Ley y su reglamento.
 Párrafo reformado DOF 16-07-2025 Fracción reformada DOF 09-04-2012 VI.- La clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
 
@@ -313,14 +334,22 @@ Todos los convenios que celebren las empresas para la expedición de pases, ser�
 ### Artículo 58
 .- De lo dispuesto en las fracciones II y IV del artículo 55 y I del artículo 57, quedan exceptuados:
 I.- Los contratos celebrados entre el Gobierno Federal y las empresas, en interés de la sociedad o de un servicio público;
+
 II. Las reducciones que hagan las empresas por razones de beneficencia y a personas estudiantes, maestras, repatriadas, colonas, turistas, niños y niñas, compañías de espectáculos públicos, conjuntos deportivos, personas agentes y personas comisionistas viajeras, representantes de sindicatos o de cooperativas de personas trabajadoras que viajen en el desempeño de funciones propias de su cargo, y en general, a las personas trabajadoras que perciban salarios reducidos.
 Párrafo reformado DOF 16-07-2025 En todo caso, las personas que pretendan hacer uso de esta franquicia deberán acreditar el carácter con que la soliciten y la legitimidad de las causas en que funden su solicitud, en la forma y términos que señalen los reglamentos respectivos o las mismas tarifas especiales.
 Cualquier abuso en el goce de esta franquicia inhabilitará a la negociación o persona que resulte responsable haberlo cometido por el plazo de un año, para volver a gozar de ella;
+
 III. Las tarifas transitorias de personas pasajeras en viajes de recreo;
-Fracción reformada DOF 16-07-2025 IV. Las tarifas reducidas cuando se trate de una extensión kilométrica que la persona pasajera podrá recorrer en cualquier dirección, en determinado período de tiempo o con el carácter de abonos.
-Fracción reformada DOF 16-07-2025 V. El transporte o cuotas reducidas, de efectos de primera necesidad a los lugares donde sean indispensables por causa de calamidad pública, por carestía proveniente de maniobras de especulación comercial y de otros motivos de interés general que lo ameriten, a juicio de la Secretaría de Economía;
+Fracción reformada DOF 16-07-2025
+
+IV. Las tarifas reducidas cuando se trate de una extensión kilométrica que la persona pasajera podrá recorrer en cualquier dirección, en determinado período de tiempo o con el carácter de abonos.
+Fracción reformada DOF 16-07-2025
+
+V. El transporte o cuotas reducidas, de efectos de primera necesidad a los lugares donde sean indispensables por causa de calamidad pública, por carestía proveniente de maniobras de especulación comercial y de otros motivos de interés general que lo ameriten, a juicio de la Secretaría de Economía;
 Fracción reformada DOF 09-04-2012 VI.- El transporte de mercancías y personas hacia regiones pobres o poca pobladas, pero susceptibles de convertirse en centros de producción y de trabajo, a juicio del Ejecutivo Federal;
-VII.- Las tarifas para servicios especiales, tales como carga o descarga, transbordo, almacenaje, limpia, demoras, arrastres, alquileres de carros, trenes y coches especiales, coches salones, dormitorios y comedores, exceso de equipaje, transporte de artículos inflamables y explosivos y para aquéllos efectos y objetos que no pudiendo sujetarse a peso o medida, debido a su naturaleza, tengan que pagar fletes distintos a los de la tarifa general, como transporte de cadáveres y otros, y VIII. Tarifas reducidas a base de por cientos de la general para el transporte de mercancías destinadas a la exportación, consumo fronterizo, cabotaje de entrada y salida o de competencia de mercados, exclusivamente en los casos excepcionales que autorice la Secretaría de Infraestructura, Comunicaciones y Transportes de acuerdo con el estudio y opinión respectivos de la Secretaría de Economía.
+VII.- Las tarifas para servicios especiales, tales como carga o descarga, transbordo, almacenaje, limpia, demoras, arrastres, alquileres de carros, trenes y coches especiales, coches salones, dormitorios y comedores, exceso de equipaje, transporte de artículos inflamables y explosivos y para aquéllos efectos y objetos que no pudiendo sujetarse a peso o medida, debido a su naturaleza, tengan que pagar fletes distintos a los de la tarifa general, como transporte de cadáveres y otros, y
+
+VIII. Tarifas reducidas a base de por cientos de la general para el transporte de mercancías destinadas a la exportación, consumo fronterizo, cabotaje de entrada y salida o de competencia de mercados, exclusivamente en los casos excepcionales que autorice la Secretaría de Infraestructura, Comunicaciones y Transportes de acuerdo con el estudio y opinión respectivos de la Secretaría de Economía.
 Fracción reformada DOF 20-08-1941, 09-04-2012, 16-07-2025 Las tarifas especiales a que se refiere este artículo sólo podrán ser canceladas por disposición de la Secretaría de Infraestructura, Comunicaciones y Transportes o mediante la autorización de esta, cuando así lo juzgue conveniente.
 Párrafo reformado DOF 20-08-1941, 09-04-2012, 16-07-2025
 
@@ -332,7 +361,10 @@ Párrafo reformado DOF 20-08-1941, 09-04-2012, 16-07-2025
 
 ### Artículo 61
 .- El precio de un servicio determinado, en las mismas condiciones, no podrá ser igual ni menor para una distancia más larga que para una más corta, excepto en los casos siguientes:
-I. Los expresamente señalados en esta Ley y sus reglamentos, en los términos y condiciones que los mismos determinen y, en su defecto, determine la Secretaría de Infraestructura, Comunicaciones y Transportes, y Fracción reformada DOF 09-04-2012, 16-07-2025 II. El de transporte y otros servicios a distancias menores de la mínima que autoricen las concesiones, asignaciones o la que, en su defecto, determine la Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+I. Los expresamente señalados en esta Ley y sus reglamentos, en los términos y condiciones que los mismos determinen y, en su defecto, determine la Secretaría de Infraestructura, Comunicaciones y Transportes, y Fracción reformada DOF 09-04-2012, 16-07-2025
+
+II. El de transporte y otros servicios a distancias menores de la mínima que autoricen las concesiones, asignaciones o la que, en su defecto, determine la Secretaría de Infraestructura, Comunicaciones y Transportes.
 Fracción reformada DOF 09-04-2012, 16-07-2025 Para ello se tomarán como fijas las cuotas que correspondan a dichas distancias mínimas o bien el cobro mínimo que autorice la Secretaría de Infraestructura, Comunicaciones y Transportes.
 Párrafo reformado DOF 09-04-2012, 16-07-2025
 
@@ -568,6 +600,7 @@ Artículo reformado DOF 15-06-1992, 16-07-2025
 
 ### Artículo 118
 .- La franquicia para viajar gratuitamente en los vehículos de las empresas de vías generales de comunicación y medios de transporte, se sujetará a las reglas siguientes:
+
 I. Las personas concesionarias y asignatarias están obligadas a transportar en sus vehículos a las personas inspectoras de vías generales de comunicación de la autoridad competente que acrediten ese carácter por medio de la credencial respectiva, aun cuando el viaje se haga en vías distintas de aquella en la cual ejerzan sus funciones. De la misma franquicia gozarán las personas visitadoras o inspectoras del servicio de Correos y Telégrafos, los trabajadores de ese ramo que viajen en comisión del servicio, así como los directores de construcciones de líneas férreas, telefónicas, telegráficas y de obras marítimas que se lleven a cabo por el gobierno federal. Las credenciales citadas deberán autorizarse, en todo caso, por la autoridad competente que ella autorice expresamente para hacerlo.
 Las franquicias a que se refiere este artículo, no comprenderán las de viajar en los carros dormitorios de las empresas ferrocarrileras. Tratándose de compañías de navegación aérea, la obligación se limitará al transporte libre de pasaje, de cinco inspectores como máximo, al mes, en cada empresa y previo aviso dado por la Secretaría de Infraestructura, Comunicaciones y Transportes. Las personas inspectoras de ferrocarriles a que se refiere el artículo 131 tendrán derecho a ocupar camas y asiento en los carros dormitorios de las líneas ferrocarrileras, y Fracción reformada DOF 09-04-2012, 16-07-2025 II.- Las empresas que exploten tranvías o autotransportes de concesión federal, están obligadas a admitir, libres de pasaje, a los mensajeros, carteros y a los miembros de la policía federal y del Distrito Federal que viajen en el desempeño de sus servicios, de acuerdo con las disposiciones reglamentarias. Las empresas que exploten servicios de comunicaciones eléctricas, incluyendo a la red nacional, estarán obligados a conceder franquicias a los inspectores de vías generales de comunicación para asuntos del servicio, con derecho a usar clave, y con las limitaciones que fije el reglamento.
 
@@ -2807,8 +2840,12 @@ Publicada en el Diario Oficial de la Federación el 19 de julio de 1993
 **PRIMERO.** La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.** Se abroga la Ley que crea a la Comisión Nacional Coordinadora de Puertos, publicada en el Diario Oficial de la Federación el 29 de diciembre de 1970.
 **TERCERO.** Se derogan:
+
 I. Los artículos del 172 al 183, 190, 210, 298 y 299 de la Ley de Vías Generales de Comunicación;
-II. Los artículos 9o., fracciones I, incisos f), g) y h), y IV; 11; 14-H; 14-I; 14-J; 17, fracciones I a IV y VI; 18, fracciones III, IV y VIII; 27; 33; 35; 43 a 52; 272; 273 y 274 de la Ley de Navegación y Comercio Marítimos, y III. Todas las disposiciones que se opongan a lo previsto en esta ley.
+
+II. Los artículos 9o., fracciones I, incisos f), g) y h), y IV; 11; 14-H; 14-I; 14-J; 17, fracciones I a IV y VI; 18, fracciones III, IV y VIII; 27; 33; 35; 43 a 52; 272; 273 y 274 de la Ley de Navegación y Comercio Marítimos, y
+
+III. Todas las disposiciones que se opongan a lo previsto en esta ley.
 Se deja sin efectos el artículo 110 de la Ley de Vías Generales de Comunicación sólo por lo que hace a puertos, terminales, marinas e instalaciones portuarias, así como a servicios portuarios.
 **CUARTO.** Las concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente ley continuarán vigentes hasta la conclusión de su vigencia.
 Los titulares de las concesiones en un puerto que se encomiende a una administración portuaria integral podrán optar, dentro de la vigencia original de su título, por sujetarse al régimen de contratos previsto por el presente ordenamiento, pero en todo caso quedarán sujetos a las reglas de operación autorizadas por la Secretaría y a los niveles de calidad establecidos para la administración del puerto.
@@ -2844,12 +2881,21 @@ Publicada en el Diario Oficial de la Federación el 4 de enero de 1994
 
 **PRIMERO.-** Esta ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.-** Se abrogan:
+
 I. La Ley para el Desarrollo de la Marina Mercante Mexicana, publicada en el Diario Oficial de la Federación el 8 de enero de 1981, y sus reformas;
-II. La Ley Sobre Disposiciones Especiales para el Servicio de Cabotaje, interior del Puerto y Fluvial de la República, publicada en el Diario Oficial de la Federación el 2 de febrero de 1929; y III. La Ley de Subvenciones a la Marina Mercante Nacional, publicada en el Diario Oficial de la Federación el 11 de diciembre de 1930.
+
+II. La Ley Sobre Disposiciones Especiales para el Servicio de Cabotaje, interior del Puerto y Fluvial de la República, publicada en el Diario Oficial de la Federación el 2 de febrero de 1929; y
+
+III. La Ley de Subvenciones a la Marina Mercante Nacional, publicada en el Diario Oficial de la Federación el 11 de diciembre de 1930.
 **TERCERO.-** Se derogan:
+
 I. La Ley de Navegación y Comercio Marítimos, excepto los artículos 222 al 232 y 234 al 250;
+
 II. Los artículos 1o., fracciones I a IV 169 a 305, 543 a 545 y 547 a 554 de la Ley de Vías Generales de Comunicación;
-III. Los artículos 19, en lo que se oponga a la presente ley, 21, fracciones XIII y XVI a XVIII, 641 a 944, 1043, fracciones III, V, VII y VIII, y 1044 del Código de Comercio; y IV. Todas las disposiciones que se opongan a lo previsto en esta ley.
+
+III. Los artículos 19, en lo que se oponga a la presente ley, 21, fracciones XIII y XVI a XVIII, 641 a 944, 1043, fracciones III, V, VII y VIII, y 1044 del Código de Comercio; y
+
+IV. Todas las disposiciones que se opongan a lo previsto en esta ley.
 **CUARTO.-** En tanto no sean expedidos los reglamentos de la presente ley, se continuarán aplicando los vigentes a la fecha, en lo que no se opongan a la misma.
 **QUINTO.-** Las concesiones, permisos y autorizaciones otorgadas con anterioridad a la fecha de expedición de la presente ley, continuarán en vigor hasta el término de su vigencia, sin perjuicio de lo dispuesto en la Ley de Puertos.
 **SEXTO.-** Las solicitudes de concesiones, permisos o autorizaciones, que se encuentren en proceso de trámite al entrar en vigor la presente ley, quedarán sujetas al régimen y condiciones previstos en la misma.
@@ -2865,8 +2911,12 @@ Publicada en el Diario Oficial de la Federación el 12 de mayo de 1995
 **Segundo.** La Secretaría dará trámite a las solicitudes a que se refieren los artículos 9, fracción I y 16,
 **segundo.** párrafo, de la presente Ley, 180 días después de que la misma entre en vigor.
 **Tercero.** Se derogan:
+
 I. Los artículos 1, fracción V; 9, fracción I, y del 129 al 145 de la Ley de Vías Generales de Comunicación;
-II. Los artículos 5, fracción X, y 7, fracción IV, inciso s) de la Ley de Inversión Extranjera, y III. Todas las disposiciones que se opongan a la presente Ley.
+
+II. Los artículos 5, fracción X, y 7, fracción IV, inciso s) de la Ley de Inversión Extranjera, y
+
+III. Todas las disposiciones que se opongan a la presente Ley.
 **Cuarto.** Ferrocarriles Nacionales de México, organismo público descentralizado, continuará administrando y operando los ferrocarriles mexicanos al amparo de su Ley Orgánica, hasta en tanto la Secretaría, de conformidad con lo previsto en la presente Ley, otorgue concesiones y permisos a terceras personas respecto de las vías férreas, el servicio público de transporte ferroviario y los servicios auxiliares que actualmente opera dicho organismo.
 Lo anterior, en el entendido de que Ferrocarriles Nacionales de México deberá ajustarse a lo dispuesto en esta Ley en lo relativo a la construcción, operación, explotación, conservación y mantenimiento de vías férreas, la prestación del servicio público de transporte ferroviario y los servicios auxiliares.
 **Quinto.** Las concesiones y permisos que se otorguen con motivo de la presente Ley, no afectarán los derechos de los trabajadores activos, jubilados y pensionados del organismo público descentralizado Ferrocarriles Nacionales de México, los que serán respetados conforme a lo establecido en el artículo 123 constitucional, y a la Ley Federal del Trabajo.
@@ -2895,9 +2945,13 @@ Publicada en el Diario Oficial de la Federación el 7 de junio de 1995
 
 **PRIMERO.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por lo que hace a las fracciones III del apartado B y IV del apartado C del artículo 71, las cuales entrarán en vigor 180 días naturales después del inicio de vigencia de esta Ley.
 **SEGUNDO.** Se derogan:
+
 I. Las fracciones IX y X del artículo 1o.; la fracción IV del artículo 9o.; los párrafos segundo y
 **tercero.** del artículo 11o.; 106; y los artículos 374 a 377; 390; 392 a 402 y 579; de la Ley de Vías Generales de Comunicación;
-II. La fracción VI del artículo 5o. de la Ley de Inversión Extranjera, y III. Todas aquellas disposiciones que se opongan a la presente Ley.
+
+II. La fracción VI del artículo 5o. de la Ley de Inversión Extranjera, y
+
+III. Todas aquellas disposiciones que se opongan a la presente Ley.
 **TERCERO.** Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando, hasta en tanto se expidan nuevos ordenamientos que las sustituyan, salvo en lo que se opongan a la presente Ley.
 **CUARTO.** Telecomunicaciones de México continuará operando los servicios de comunicación vía satélite y las redes públicas que están a su cargo, en el entendido de que en la prestación de los servicios de telecomunicación deberá ajustarse a lo dispuesto por esta Ley.
 La Secretaría, de conformidad con lo previsto en la presente Ley, podrá otorgar concesiones y permisos a terceras personas respecto de las redes y servicios actualmente a cargo de Telecomunicaciones de México, excepto por lo que se refiere a los servicios de telégrafos y radiotelegrafía.
@@ -3028,37 +3082,57 @@ Los agentes económicos deberán presentar al Instituto Federal de Telecomunicac
 El Instituto investigará dichas concentraciones en un plazo no mayor a noventa días naturales y en caso de encontrar que existe poder sustancial en el mercado de redes de telecomunicaciones que presten servicios de voz, datos o video o en el de radio y televisión según el sector que corresponda, podrá imponer las medidas necesarias para proteger y fomentar en dicho mercado la libre competencia y concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el presente artículo.
 Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes económicos preponderantes la prestación de servicios adicionales.
 **DÉCIMO.** Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
+
 I. Los agentes económicos preponderantes deberán acreditar ante el Instituto Federal de Telecomunicaciones que se encuentran en cumplimiento efectivo de lo anterior y de las medidas expedidas por el propio Instituto Federal de Telecomunicaciones a que se refieren las fracciones III y IV del artículo Octavo Transitorio del Decreto antes referido. Para tal efecto, el Instituto Federal de Telecomunicaciones establecerá la forma y términos para presentar la información y documentación respectiva;
+
 II. El agente económico preponderante deberá estar en cumplimiento efectivo de las medidas a las que se refiere la fracción I anterior cuando menos durante dieciocho meses en forma continua;
-III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que continúe en cumplimiento de lo dispuesto en la fracción I que antecede, el Instituto Federal de Telecomunicaciones resolverá y emitirá un dictamen en el que certifique que se dio cumplimiento efectivo de las obligaciones referidas, y IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
+
+III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que continúe en cumplimiento de lo dispuesto en la fracción I que antecede, el Instituto Federal de Telecomunicaciones resolverá y emitirá un dictamen en el que certifique que se dio cumplimiento efectivo de las obligaciones referidas, y
+
+IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
 No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del
 
 ### artículo Octavo
 Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 **DÉCIMO PRIMERO.** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
+
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
+
 II. Al presentar la solicitud, dichos agentes y concesionarios deberán acompañar el dictamen de cumplimiento a que se refiere la fracción III del artículo anterior, presentar la información que determine el Instituto Federal de Telecomunicaciones respecto de los servicios que pretende prestar;
+
 III. El Instituto Federal de Telecomunicaciones resolverá sobre la procedencia de la solicitud dentro de los sesenta días naturales siguientes a su presentación, con base en los lineamientos de carácter general que al efecto emita y determinará las contraprestaciones que procedan.
-Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto haya resuelto la solicitud correspondiente, la misma se entenderá en sentido negativo, y IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
+Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto haya resuelto la solicitud correspondiente, la misma se entenderá en sentido negativo, y
+
+IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
 Se entenderá que se generan efectos adversos a la competencia y libre concurrencia, entre otros factores que considere el Instituto Federal de Telecomunicaciones, cuando: a. Dicha autorización pueda tener como efecto incrementar la participación en el sector que corresponda del agente económico preponderante o del grupo de interés económico al cual pertenecen los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados, respecto de la participación determinada por el Instituto Federal de Telecomunicaciones en la resolución mediante la cual se le declaró agente económico preponderante en el sector que corresponda. b. La autorización de servicios adicionales tenga como efecto conferir poder sustancial en el mercado relevante a alguno de los concesionarios o integrantes del agente económico preponderante o de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados en el sector que corresponda.
 Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única, y será independiente de las sanciones económicas que procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
 **DÉCIMO SEGUNDO.** El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
 El agente económico preponderante en el sector de las telecomunicaciones podrá presentar al Instituto Federal de Telecomunicaciones un plan basado en una situación real, concreta y respecto de personas determinadas, que incluya en lo aplicable, la separación estructural, la desincorporación total o parcial de activos, derechos, partes sociales o acciones o cualquier combinación de las opciones anteriores a efecto de reducir su participación nacional por debajo del cincuenta por ciento del sector de telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de conformidad con las variables y parámetros de medición utilizados por el Instituto Federal de Telecomunicaciones en la declaratoria de preponderancia correspondiente, y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran dicho sector de conformidad con la Ley Federal de Competencia Económica. En caso de que el agente económico preponderante ejerza esta opción, se estará a lo siguiente:
+
 I. Al presentar el plan a que se refiere el párrafo que antecede, el agente económico preponderante deberá manifestar por escrito que se adhiere a lo previsto en este artículo y que acepta sus términos y condiciones; asimismo deberá acompañar la información y documentación necesaria que permita al Instituto Federal de Telecomunicaciones conocer y analizar el plan que se propone;
+
 II. En caso que el Instituto Federal de Telecomunicaciones considere que la información presentada es insuficiente, dentro del plazo de 20 días hábiles siguientes a la presentación del plan, prevendrá al agente económico preponderante para que presente la información faltante en un plazo de 20 días hábiles. En caso de que el agente económico preponderante no desahogue la prevención dentro del plazo señalado o que a juicio del Instituto la documentación o información presentada no sea suficiente o idónea para analizar el plan que se propone, se le podrá hacer una segunda prevención en los términos señalados con antelación y en caso de que no cumpla esta última prevención se tendrá por no presentado el plan, sin perjuicio de que el agente económico pueda presentar una nueva propuesta de plan en términos del presente artículo;
+
 III. Atendida la prevención en los términos formulados, el Instituto Federal de Telecomunicaciones analizará, evaluará y, en su caso, aprobará el plan propuesto dentro de los ciento veinte días naturales siguientes. En caso de que el Instituto lo considere necesario podrá prorrogar dicho plazo hasta en dos ocasiones y hasta por noventa días naturales cada una.
 Para aprobar dicho plan el Instituto Federal de Telecomunicaciones deberá determinar que el mismo reduce efectivamente la participación nacional del agente económico preponderante por debajo del cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo
 **Octavo.** Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
 El plan deberá tener como resultado que la participación en el sector que el agente preponderante disminuye, sea transferida a otro u otros agentes económicos distintos e independientes del agente económico preponderante. Al aprobar el plan, el Instituto Federal de Telecomunicaciones deberá asegurar la separación efectiva e independencia de esos agentes y deberá establecer los términos y condiciones necesarios para que esa situación quede debidamente salvaguardada;
+
 IV. En el supuesto de que el Instituto Federal de Telecomunicaciones apruebe el plan, el agente económico preponderante en el sector de las telecomunicaciones contará con un plazo de hasta diez días hábiles para manifestar que acepta el plan y consiente expresamente las tarifas que derivan de la aplicación de los incisos a) y b) del segundo párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y las fracciones VI a VIII de este artículo.
 Aceptado el plan por el agente económico preponderante, no podrá ser modificado y deberá ejecutarse en sus términos, sin que dicho agente pueda volver a ejercer el beneficio que otorga este artículo y sin perjuicio de que pueda optar por lo dispuesto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión;
+
 V. El plan deberá ejecutarse durante los 365 días naturales posteriores a que haya sido aceptado en términos de la fracción IV. Los agentes económicos involucrados en el plan deberán informar con la periodicidad que establezca el Instituto Federal de Telecomunicaciones sobre el proceso de ejecución del plan. En caso de que el agente económico preponderante acredite que la falta de cumplimiento del plan dentro del plazo referido se debe a causas que no le son imputables, podrá solicitar al Instituto Federal de Telecomunicaciones una prórroga, la cual se podrá otorgar por un plazo de hasta 120 días naturales, por única ocasión y siempre y cuando dichas causas se encuentren debidamente justificadas;
+
 VI. A partir de la fecha en que el agente económico preponderante en el sector de las telecomunicaciones haya aceptado el plan y durante el plazo referido en la fracción anterior, se aplicarán provisionalmente entre el agente económico preponderante en el sector de las telecomunicaciones y los demás concesionarios, los acuerdos de compensación recíproca de tráfico referidos en el primer párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y se suspenderán entre ellos las tarifas que deriven de la aplicación de los incisos a) y b) del párrafo segundo de dicho artículo;
+
 VII. El Instituto Federal de Telecomunicaciones certificará que el plan ha sido ejecutado efectivamente en el plazo señalado en la fracción V de este artículo. Para tal efecto, dentro de los 5 días hábiles siguientes al término del plazo de ejecución o, en su caso, al término de la prórroga correspondiente, el Instituto Federal de Telecomunicaciones deberá iniciar los estudios que demuestren que su ejecución generó condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones, de conformidad con la Ley Federal de Competencia Económica.
 Otorgada la certificación referida en el párrafo anterior, se aplicarán de manera general para todos los concesionarios los acuerdos de compensación de tráfico a que se refiere el párrafo primero del artículo 131 de la citada Ley;
+
 VIII. En caso de que el plan no se ejecute en el plazo a que se refiere la fracción V o, en su caso, al término de la prórroga correspondiente, o el Instituto Federal de Telecomunicaciones niegue la certificación referida en la fracción anterior o determine que no se dio cumplimiento total a dicho plan en los términos aprobados, se dejarán sin efectos los acuerdos de compensación recíproca de tráfico y la suspensión de las tarifas a que se refieren los incisos a) y b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, entre el agente económico preponderante en el sector de las telecomunicaciones y los demás concesionarios, y su aplicación se retrotraerá a la fecha en que inició la suspensión, debiendo dicho agente restituir a los demás concesionarios las cantidades que correspondan a la aplicación de las citadas tarifas. En este supuesto, los concesionarios citados podrán compensar las cantidades a ser restituidas contra otras cantidades que le adeuden al agente económico preponderante;
+
 IX. El Instituto Federal de Telecomunicaciones autorizará al agente económico que propuso el plan y a los agentes económicos resultantes o que formen parte de dicho plan, la prestación de servicios adicionales a los que son objeto de su concesión o su tránsito al modelo de concesión única, a partir de que certifique que el plan se ha ejecutado efectivamente y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones de conformidad con la Ley Federal de Competencia Económica;
+
 X. Una vez que el Instituto Federal de Telecomunicaciones certifique que el plan aprobado ha sido ejecutado efectivamente, procederá a extinguir: a. Las resoluciones mediante las cuales haya determinado al agente económico como preponderante en el sector de las telecomunicaciones así como las medidas asimétricas que le haya impuesto en los términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial en algún mercado, así como las medidas específicas que le haya impuesto.
 **DÉCIMO TERCERO.** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia pública o bajo un esquema de asociación público-privada.
@@ -3109,8 +3183,12 @@ Los derechos laborales del personal del Organismo Promotor de Medios Audiovisual
 La Cámara de Diputados deberá destinar los recursos necesarios para garantizar el adecuado ejercicio de las atribuciones referidas en el presente transitorio.
 **TRIGÉSIMO.** TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 **TRIGÉSIMO.** CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
+
 I. Sus planes de crecimiento;
-II. Sus gastos de operación, y III. Su equilibrio financiero.
+
+II. Sus gastos de operación, y
+
+III. Su equilibrio financiero.
 **TRIGÉSIMO.** QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
 **TRIGÉSIMO.** SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
 **TRIGÉSIMO.** SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.

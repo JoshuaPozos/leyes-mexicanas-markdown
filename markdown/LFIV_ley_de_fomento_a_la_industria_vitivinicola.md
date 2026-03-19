@@ -27,21 +27,37 @@ Disposiciones Generales
 
 ### Artículo 3
 . Para los efectos de la presente Ley se entenderá por:
+
 I. Añejamiento: Es el proceso de maduración al que se somete un producto alcohólico de por lo menos un año en recipientes de madera de roble blanco o encino u otras maderas que demuestren inocuidad, cuya capacidad no debe ser superior a 700 litros.
+
 II. Comisión: La Comisión Intersecretarial de Fomento a la Industria Vitivinícola.
+
 III. Enología: Ciencia, técnica y arte de producir vinos, mostos y otros derivados de la vid mediante la implantación de técnicas de cultivo de viñedo, el análisis de los productos elaborados y almacenaje, gestión y conservación de los mismos.
+
 IV. Ley: La Ley de Fomento a la Industria Vitivinícola.
+
 V. Reglamento: El Reglamento de la Ley de Fomento a la Industria Vitivinícola.
+
 VI. Productor: Persona dedicada al cultivo, producción, elaboración y transformación de la uva destinada a la elaboración de Vino.
+
 VII. Registro: El Registro Nacional de Productores Vitivinícolas.
+
 VIII. Secretaría: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
 IX. Sector: Al sector vinícola, vitícola y vitivinícola mexicano.
+
 X. Vid: Planta que produce uva, fruto comestible y materia prima para la fabricación de Vino y otras bebidas alcohólicas.
+
 XI. Vinícolas: Adjetivo de la palabra "Vino" que hace referencia a los establecimientos relacionados con su elaboración y su comercio.
+
 XII. Vino: Bebida alcohólica que se obtiene de la fermentación únicamente de los mostos de uva fresca con o sin orujo, o mezcla de mostos concentrados de uva y agua, su contenido de alcohol es de 8% Alc. Vol. a 16% Alc. Vol.
+
 XIII. Vino de Importación: Todo aquel Vino elaborado fuera del territorio mexicano, que ingresa legalmente a nuestro país ya envasado en diversas presentaciones por empresas distribuidoras o en forma líquida a granel y que podrá terminar los procesos de fermentación, clarificación, filtrado, añejamiento y envasado, por empresas legalmente establecidas con domicilio fiscal en nuestro país.
+
 XIV. Vino Mexicano: Es el Vino producido con el 100% de uvas de origen mexicano y que además su contenido total es fermentado y envasado en territorio nacional.
+
 XV. Viñedos: Se refiere específicamente a las plantaciones de vides que son rigurosamente plantadas, cuidadas y mantenidas para la producción de Vino y otras bebidas alcohólicas en sus diferentes categorías, así como para la producción y venta de las uvas para consumo como frutas, pasas de uva y jugo de uva.
+
 XVI. Viticultura: Cultivo sistemático de la Vid, o parra, para usar sus uvas en la producción de Vino.
 
 ### Artículo 4
@@ -49,19 +65,30 @@ XVI. Viticultura: Cultivo sistemático de la Vid, o parra, para usar sus uvas en
 
 ### Artículo 5
 . Serán líneas estratégicas de acción para el cumplimiento del objeto de esta Ley:
+
 I. Fomentar el respeto del territorio considerado como apto para el cultivo de la Vid en territorio nacional;
+
 II. Estimular el crecimiento económico de la actividad vitivinícola en territorio nacional, generando las condiciones favorables para el impulso de inversión y acceso a fuentes de financiamiento y apoyos para la iniciativa privada;
+
 III. Fomentar el cumplimiento de las normas oficiales mexicanas y normas mexicanas aplicables al Sector, así como su evaluación de la conformidad para garantizar la disponibilidad y correcta información al consumidor sobre la calidad del Vino Mexicano y su correcta clasificación;
+
 IV. Fortalecer la competitividad de los vinos nacionales en el mercado fomentando el desarrollo de su producción y calidad de los mismos;
-V. Fomentar el uso y conocimiento en el público consumidor de distintivos relacionados con la calidad del Vino Mexicano, y VI. Fomentar campañas y/o actividades de promoción nacional e internacional orientadas a aumentar un mayor conocimiento y consumo de Vino Mexicano.
+
+V. Fomentar el uso y conocimiento en el público consumidor de distintivos relacionados con la calidad del Vino Mexicano, y
+
+VI. Fomentar campañas y/o actividades de promoción nacional e internacional orientadas a aumentar un mayor conocimiento y consumo de Vino Mexicano.
 
 ### Artículo 6
 . Son sujetos de aplicación de esta Ley toda persona física o moral que, individualmente o de forma colectiva, estén constituidos de conformidad con la legislación vigente y que preponderantemente realice actividades vitivinícolas, así como las organizaciones, asociaciones, comités y consejos vinculados a dichas actividades, de conformidad con las disposiciones de la normatividad aplicable.
 
 ### Artículo 7
 . Son factores básicos para el impulso del Sector:
+
 I. Los procesos de plantación, siembra, cultivo, cosecha, fermentación, crianza, Añejamiento, envasado y de la distribución y comercialización del Vino Mexicano elaborado, así como de los actores que participan en la cadena productiva entre los que se encuentran los productores, empresas, academia, las organizaciones, asociaciones, comités y consejos de carácter nacional, estatal, regional, distrital y municipal, que son la base fundamental para el fomento del Sector mediante la inversión directa, la generación de empleo y la promoción del Vino Mexicano a nivel nacional e internacional;
-II. El estímulo del desarrollo de los productores de uva y de la industria del Vino a través del fomento de inversión en infraestructura y el mejoramiento de los servicios públicos, y III. La tecnificación de los procesos de producción, así como el empleo de nuevas herramientas especializadas en la producción de Vino Mexicano.
+
+II. El estímulo del desarrollo de los productores de uva y de la industria del Vino a través del fomento de inversión en infraestructura y el mejoramiento de los servicios públicos, y
+
+III. La tecnificación de los procesos de producción, así como el empleo de nuevas herramientas especializadas en la producción de Vino Mexicano.
 
 ### Artículo 8
 . El Ejecutivo Federal, a través de sus dependencias y entidades, podrá suscribir convenios de coordinación con los gobiernos de las entidades federativas, y de los Municipios para el cumplimiento de los objetivos de esta Ley.
@@ -87,14 +114,24 @@ La participación de los integrantes de la Comisión y de los invitados, será d
 
 ### Artículo 12
 . La Comisión para el cumplimiento de su objeto, tendrá las siguientes funciones:
+
 I. Proponer en congruencia con el sistema de planeación democrática del desarrollo nacional, las políticas generales y definir las estrategias de fomento a la industria vitivinícola nacional;
+
 II. Fomentar la investigación acerca de las diferentes variedades y clasificaciones de uva para vinificación;
+
 III. Establecer la obligatoriedad de la adopción y uso de certificaciones y/o mecanismos de evaluación para dar cumplimiento con las normas oficiales mexicanas y en concordancia con la legislación federal aplicable, a efecto de impulsar el uso y promoción de un distintivo público acerca de la calidad y clasificación en la producción de vinos mexicanos;
+
 IV. Establecer las bases para la creación, el funcionamiento y regulación aplicable del Registro, incluyendo a los productores primarios relacionado a la producción de las variedades de Vid utilizadas para la elaboración de vinos mexicanos, mismo que servirá como base instrumento de consulta para beneficio de políticas públicas, programas, apoyos e incentivos de los diferentes ámbitos gubernamentales;
+
 V. Ser instancia de consulta y colaboración para la realización de estudios, planes, programas, proyectos y políticas públicas que se desarrollen en la materia;
+
 VI. Impulsar las políticas públicas relacionadas con el Sector, para su crecimiento y desarrollo integral del Sector;
+
 VII. Participar en foros nacionales e internacionales relacionados con el cumplimiento del objeto de la Comisión;
-VIII. Publicar un informe anual sobre el desempeño de sus funciones y los avances en la materia, y IX. Las demás que establezcan las disposiciones legales aplicables.
+
+VIII. Publicar un informe anual sobre el desempeño de sus funciones y los avances en la materia, y
+
+IX. Las demás que establezcan las disposiciones legales aplicables.
 
 ### Artículo 13
 . Las diferentes instituciones y entes de la Administración Pública Federal y Estatal, en el ámbito de sus competencias, así como las asociaciones, consejos, comités y representaciones privadas podrán apoyar a la Comisión en el ejercicio de sus atribuciones, bajo los principios de colaboración, coordinación e información interinstitucional.
@@ -110,12 +147,20 @@ De los Órganos de la Comisión
 
 ### Artículo 16
 . El Presidente y Secretario Ejecutivo de la Comisión tendrán las siguientes facultades:
+
 I. Formular y presentar a la Comisión el Programa Anual de Trabajo y los programas de acción;
+
 II. Formular opiniones y proponer a la Comisión las vías para la solución de conflictos relacionados con la industria vitivinícola;
+
 III. Proponer los asuntos a tratar en las sesiones de la Comisión;
+
 IV. Formular y presentar a la Comisión el calendario de encuentros relacionados con la industria vitivinícola, considerando la información que los propios productores y asociaciones relacionadas con la industria vitivinícola determinen;
+
 V. Representar a la Comisión en foros, y actividades nacionales e internacionales vinculados con el Sector;
-VI. Convocar a las reuniones ordinarias de la Comisión, y VII. Las demás que le sean conferidas en éste y otros ordenamientos.
+
+VI. Convocar a las reuniones ordinarias de la Comisión, y
+
+VII. Las demás que le sean conferidas en éste y otros ordenamientos.
 
 ### Artículo 17
 . Los representantes de la Secretaría de Economía y de la Secretaría que asistan a la Comisión de manera directa, tomarán los acuerdos y levantarán las minutas correspondientes a las sesiones de la misma, además de las funciones que le sean encomendadas por la propia Comisión.
@@ -133,20 +178,35 @@ De la Coordinación entre la Comisión y las Dependencias de la Administración 
 
 ### Artículo 20
 . La Secretaría en coordinación con la Comisión apoyará al Sector a:
+
 I. Promover, evaluar y ejecutar una política nacional de fomento económico específica delineada a favor de la industria vitivinícola con la participación de los representantes de los Comités Nacional y Estatales de los Sistemas Producto Vid, comités interinstitucionales, consejos, productores, asociaciones civiles y académicos que por objeto o interés estén vinculados a la Industria Vitivinícola;
+
 II. Instrumentar el Registro, el cual deberá contener los datos completos del padrón de productores de uva destinada a la producción de Vino, embotelladores, comercializadores, distribuidores, importadores y exportadores de Vino; el cual será parte del Sistema Nacional de Información para el Desarrollo Rural Sustentable, establecido en la Ley de Desarrollo Rural Sustentable;
+
 III. Asesorar a los productores para que en el desarrollo de cultivos destinados a la producción de insumos para la vitivinicultura se realicen de acuerdo con las mejores prácticas agrícolas aplicables en materia de sanidad vegetal y que las investigaciones científicas y tecnológicas aconsejen;
+
 IV. Promover programas específicos destinados al desarrollo del Sector, sin importar los niveles de producción;
+
 V. Implementar las acciones de capacitación y asistencia técnica para la producción de la uva destinada a la producción vitivinícola;
+
 VI. Realizar campañas de protección fitosanitaria y demás instrumentos en materia de sanidad vegetal en el marco de su competencia;
-VII. Impulsar la integración de la cadena productiva, y VIII. La formación de los productores y demás agentes relacionados con la producción vitivinícola a través de mecanismos de capacitación, consultoría y concertación.
+
+VII. Impulsar la integración de la cadena productiva, y
+
+VIII. La formación de los productores y demás agentes relacionados con la producción vitivinícola a través de mecanismos de capacitación, consultoría y concertación.
 
 ### Artículo 21
 . La Secretaría de Economía en coordinación con la Comisión apoyará al Sector a:
+
 I. Realizar campañas de promoción del Vino Mexicano, asegurándose que las marcas participantes en estas campañas estén debidamente certificadas conforme lo establezcan las normas oficiales mexicanas aplicables al Vino;
+
 II. Difundir las normas oficiales mexicanas en donde se establezcan las características y especificaciones necesarias que deberán cumplir la elaboración de productos vitivinícolas para su comercialización;
+
 III. Incentivar en conjunto con la Secretaría de Hacienda y Crédito Público la incorporación de los productores mexicanos, al padrón nacional de exportadores, conforme a los lineamientos legales vigentes;
-IV. Difundir las políticas de exportación para potenciar la penetración del Vino Mexicano en otros mercados, y V. El acceso a los programas federales en relación a los apoyos vitivinícolas.
+
+IV. Difundir las políticas de exportación para potenciar la penetración del Vino Mexicano en otros mercados, y
+
+V. El acceso a los programas federales en relación a los apoyos vitivinícolas.
 
 ### Artículo 22
 . La Secretaría de Hacienda y Crédito Público en coordinación con la Comisión apoyará al Sector a actualizar la incorporación de los productores nacionales al padrón de exportadores.
@@ -159,8 +219,12 @@ IV. Difundir las políticas de exportación para potenciar la penetración del V
 
 ### Artículo 25
 . La Secretaría de Turismo en coordinación con la Comisión apoyará al Sector a:
+
 I. Promocionar las rutas de Vino y de turismo enológico;
-II. Impulsar al Vino Mexicano como producto representativo nacional, y III. Fomentar y dar cumplimiento a lo establecido en la Política de Fomento a la Gastronomía Mexicana.
+
+II. Impulsar al Vino Mexicano como producto representativo nacional, y
+
+III. Fomentar y dar cumplimiento a lo establecido en la Política de Fomento a la Gastronomía Mexicana.
 
 ### Artículo 26
 . La Secretaría de Relaciones Exteriores, en coordinación con la Comisión, apoyará al Sector promocionando al Vino Mexicano a través de todas sus representaciones, embajadas y consulados, dentro y fuera del territorio nacional, promoviendo la oferta y calidad del Vino Mexicano en el extranjero.
@@ -170,7 +234,10 @@ II. Impulsar al Vino Mexicano como producto representativo nacional, y III. Fome
 
 ### Artículo 28
 . La Secretaría de Energía, en coordinación con la Comisión, apoyará al Sector a:
-I. Fomentar y promover una mayor integración nacional de equipos y componentes para el aprovechamiento de las energías renovables en los diferentes procesos de producción del Vino Mexicano, y II. Promover las energías renovables utilizadas en la vitivinicultura, en apego a la Ley de Transición Energética.
+
+I. Fomentar y promover una mayor integración nacional de equipos y componentes para el aprovechamiento de las energías renovables en los diferentes procesos de producción del Vino Mexicano, y
+
+II. Promover las energías renovables utilizadas en la vitivinicultura, en apego a la Ley de Transición Energética.
 
 ### Artículo 29
 . El Ejecutivo Federal y las entidades federativas, a través de sus dependencias y entidades, en el ámbito de sus respectivas competencias, podrán celebrar convenios de colaboración entre los sectores público, social, académico y privado para impulsar la investigación científica y tecnológica, así como la capacitación en materia de Viticultura, vinicultura, vitivinicultura, Enología y las demás ramas derivadas del Sector.
@@ -195,18 +262,28 @@ Del Fomento, Difusión y Distribución
 
 ### Artículo 32
 . Corresponden a la Comisión la promoción y difusión de los productos vitivinícolas, la cual podrá:
+
 I. Elaborar material de promoción para dar a conocer el Vino Mexicano;
-II. Impulsar el diseño de políticas públicas a fin de propiciar la definición de programas específicos o conceptos de apoyo dentro de aquellas políticas existentes en los tres órdenes de gobierno, y III. Las demás que establezcan las disposiciones jurídicas aplicables.
+
+II. Impulsar el diseño de políticas públicas a fin de propiciar la definición de programas específicos o conceptos de apoyo dentro de aquellas políticas existentes en los tres órdenes de gobierno, y
+
+III. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 ### Artículo 33
 . La Comisión tendrá acceso a espacios y tiempos oficiales para la divulgación de sus funciones y para la correcta promoción de la cultura del consumo del Vino Mexicano en los términos de las leyes respectivas.
 
 ### Artículo 34
 . Los criterios orientadores que se deberán seguir en las campañas financiadas con fondos públicos serán los siguientes:
+
 I. Recomendar el consumo moderado y responsable del Vino;
+
 II. Informar y difundir los beneficios del Vino, en materia de salud pública y los riesgos para la salud cuando se consume en exceso;
+
 III. Fomentar el desarrollo sostenible del cultivo de la Vid, favoreciendo el respeto del medio ambiente;
-IV. Destacar los aspectos históricos y tradicionales de los vinos mexicanos, en particular, las peculiaridades específicas de la diversidad de las regiones como son las características del suelo, altitud, aire, clima, entre otros que influyen en ellos, y V. Informar y difundir la calidad, los beneficios, propiedades, cualidades y la composición del Vino, a efecto de tener información completa sobre el producto.
+
+IV. Destacar los aspectos históricos y tradicionales de los vinos mexicanos, en particular, las peculiaridades específicas de la diversidad de las regiones como son las características del suelo, altitud, aire, clima, entre otros que influyen en ellos, y
+
+V. Informar y difundir la calidad, los beneficios, propiedades, cualidades y la composición del Vino, a efecto de tener información completa sobre el producto.
 
 ### Artículo 35
 . Los Organismos de Productores y Empresariales relacionados con la industria podrán realizar campañas nacionales de promoción y difusión del Vino Mexicano, con la participación de la Comisión, los productores y los tres órdenes de gobierno.

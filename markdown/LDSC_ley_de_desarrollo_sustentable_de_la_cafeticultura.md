@@ -23,57 +23,106 @@ En todo lo no previsto por esta Ley se aplicarán de manera supletoria la Ley de
 
 ### Artículo 3
 . Para los efectos de esta Ley se entiende por:
+
 I. Apoyo: Las medidas de carácter económico, jurídico, administrativo, fiscal o financiero, de parte de las instituciones públicas de cualquier orden de gobierno en beneficio del sector cafetalero.
+
 II. Beneficio húmedo: Actividad que consiste en retirar la pulpa de los frutos de forma mecánica para obtener la semilla del café.
+
 III. Beneficio seco: Actividad que consiste en retirar el pergamino o descascarillar y clasificar el grano según tamaño, densidad y defectos para su almacenamiento y comercialización posterior.
+
 IV. Beneficio Natural: Actividad que consiste en propiciar la deshidratación de los granos en patios o camas de secado con todo y la cáscara que los recubre.
+
 V. Café arábiga mexicano: Aquel que tiene 100 por ciento café producido en México sin mezclas de origen de otros países, con características que lo distinguen por ser mayor y comúnmente cultivado bajo sombra y mitigante de emisiones de CO2.
+
 VI. Café cereza: Fruto maduro, recién cosechado del cafeto, sano, sin despulpar, también conocido como café uva, apto para ser sometido inmediatamente al beneficio húmedo y convertirlo en café pergamino.
+
 VII. Café dañado: Café que presenta algún defecto que le impide ser puro y sano, no apto para consumo humano.
+
 VIII. Café de origen: Café con un distintivo o reconocimiento certificado que lo identifica como proveniente de un productor, cultivo, localidad o región del país, ligado a características y atributos específicos.
+
 IX. Café descafeinado: Café verde, tostado o soluble del cual se ha extraído la cafeína.
+
 X. Café natural: Cereza entera seca después de su recolección a la que no se le remueve la cáscara.
+
 XI. Café orgánico: Café producido libre de agentes químicos y certificado por las agencias autorizadas por la Secretaría.
+
 XII. Café pergamino: Fruto del cafeto despulpado y seco, cuyo grano queda cubierto por una delgada cutícula cuyo color da nombre al producto.
+
 XIII. Café puro: Producto industrializado, tostado o soluble, obtenido del grano del café verde, el cual no proviene de granos dañados y no contiene materias o sustancias ajenas al grano de café.
+
 XIV. Café robusta mexicano: Aquel que tiene 100 por ciento café producido en México, sin mezclas de origen de otros países, con características que lo distinguen como el ser cultivado en zonas bajas, recarbonizando suelos sin sustituir plantaciones de arábiga.
+
 XV. Café soluble: Las partículas sólidas, secas, solubles en agua, obtenidas del café tostado.
+
 XVI. Café sustentable: Producto obtenido conforme buenas prácticas en la producción, industrialización, comercialización y consumo de café, bajo procesos ambientalmente sanos, socialmente justos y económicamente solidarios y prósperos.
+
 XVII. Café tostado: El café verde que ha sido sometido a un proceso de deshidratación a temperatura superior a los 150° Celsius.
+
 XVIII. Café verde: El producto obtenido de las semillas del género Coffea por diversas especies botánicas, que han sido objeto de un proceso de desecación y de descascarado.
+
 XIX. Cafeticultura: Actividad que engloba la producción y comercialización del café.
+
 XX. Calidad del café: Atributos físicos y organolépticos del grano de café a partir de aspectos relativos a su aroma o fragancia, sabor, resabio, acidez, cuerpo, dulzura, equilibrio, taza limpia o uniformidad y consistencia.
+
 XXI. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
+
 XXII. Comisión: Comisión Nacional para el Desarrollo de la Cafeticultura Mexicana.
+
 XXIII. Diferencial: Margen positivo o negativo sobre los mercados de referencia de futuros de café, que se utilizan en la determinación de precios del café a la compra y a la venta, tanto en las regiones productoras, como en los puntos de venta, tanto en el mercado doméstico como en el mercado exterior, en apego a las reglas para facilitar la operatividad de las transacciones de comercio internacional en materia de café.
+
 XXIV. Diferencial neto: Resultante de los diferenciales de compra y venta sobre el mercado de futuros de referencia para un café de la misma calidad o su equivalente, ya procesado. Aunque la compra y venta suceda en momentos diferentes.
+
 XXV. Organización: Figura asociativa que agrupa y representa a quienes se dedican a la producción, industrialización y/o comercialización del café.
+
 XXVI. Persona comercializadora: Persona física o moral que se dedica a la compraventa del café, en cualquier parte de la cadena productiva que se encuentre inscrito en el Registro Federal de Contribuyentes.
+
 XXVII. Persona industrializadora de café: Persona física o moral que se dedica a una o más actividades relacionadas con el beneficio húmedo, beneficio seco, descafeinado, tostado, molido, producción de soluble y otras presentaciones.
+
 XXVIII. Persona productora de café: Persona física o moral que se dedica a la siembra, cultivo y cosecha de café, con una producción mínima de 2.5 quintales y que tenga registro de comercialización.
+
 XXIX. Persona torrefactora: Persona física o moral que se dedica a la última transformación del café verde, para obtener el tostado y molido.
+
 XXX. Secretaría: Secretaría de Agricultura y Desarrollo Rural.
+
 XXXI. Servicios ambientales: Los beneficios tangibles e intangibles, generados por los ecosistemas, necesarios para la supervivencia del sistema natural y biológico en su conjunto, y para que proporcionen beneficios al ser humano.
 
 ### Artículo 4
 . La aplicación de la presente Ley se hará con base en los siguientes principios:
+
 I. La sustentabilidad ambiental, económica y social de la producción y las personas productoras;
+
 II. La innovación y el desarrollo tecnológico en el cultivo del café;
+
 III. La articulación de las políticas públicas de conformidad con las características y diversidad de las regiones en donde se cultiva el café;
+
 IV. La articulación y colaboración de los sectores público, social y privado en la producción del café;
-V. Establecimiento de políticas que al mismo tiempo que favorezcan precios accesibles del café a las personas consumidoras, permitan a las personas productoras alcanzar la sustentabilidad económica, social y ambiental del cultivo de café, y VI. El fomento y apreciación del café mexicano como un producto de calidad, inocuo, básico y estratégico, con la posibilidad de acceder a mercados de mayor innovación, valor y competitividad.
+
+V. Establecimiento de políticas que al mismo tiempo que favorezcan precios accesibles del café a las personas consumidoras, permitan a las personas productoras alcanzar la sustentabilidad económica, social y ambiental del cultivo de café, y
+
+VI. El fomento y apreciación del café mexicano como un producto de calidad, inocuo, básico y estratégico, con la posibilidad de acceder a mercados de mayor innovación, valor y competitividad.
 
 ### Artículo 5
 . El Gobierno Federal, a través de la Secretaría u otras instancias competentes, podrá establecer medidas de apoyo para el fomento de la cafeticultura, las cuales podrán ser, de manera enunciativa y no limitativa, las siguientes:
+
 I. El fomento de prácticas de desarrollo sustentable de la producción de café, su acopio, procesamiento, comercialización, consumo, sistematización y difusión de información acerca de las actividades de la cadena productiva del café que se lleven a cabo en el país y en el extranjero, y que incidan en el bienestar tanto de las familias productoras, como de los diferentes eslabones de la cadena productiva;
+
 II. El diseño y ejecución de acciones y mecanismos que impulsen el desarrollo de las actividades que conforman la cadena productiva del café;
+
 III. La planificación de esquemas de comercialización que contribuyan a generar precios competitivos del café mexicano;
+
 IV. La implementación de un esquema de difusión de los precios del café en los mercados nacional e internacional;
+
 V. La implementación de un esquema de verificación de la calidad, en apego a Normas Oficiales Mexicanas, que identifiquen y eviten el uso y comercialización de cafés dañados, no aptos para consumo humano e identifique el uso de endulzantes y saborizantes artificiales;
+
 VI. El fomento a la investigación científica, la innovación y la adopción de mejores prácticas;
+
 VII. Generar vínculos con la academia, centros de investigación y de transferencia de tecnología, para el impulso a la cadena productiva y comercial del café mexicano;
+
 VIII. El fomento de la educación, capacitación y transferencia de conocimiento en torno al café a todos los eslabones de la cadena productiva de la cafeticultura, incluida la persona consumidora y público en general;
-IX. Fomentar la asociación de las pequeñas y pequeños productores en esquemas de economía social y circular ligados a programas públicos o por iniciativas populares, y X. Fomentar la cafeticultura bajo sombra como una actividad para la gestión de otras medidas efectivas de conservación basadas en regiones bioculturales y zonas de influencia de áreas naturales protegidas, reconocidas por la Comisión Nacional de Áreas Naturales Protegidas bajo una certificación de cafetales bioculturales diversificados.
+
+IX. Fomentar la asociación de las pequeñas y pequeños productores en esquemas de economía social y circular ligados a programas públicos o por iniciativas populares, y
+
+X. Fomentar la cafeticultura bajo sombra como una actividad para la gestión de otras medidas efectivas de conservación basadas en regiones bioculturales y zonas de influencia de áreas naturales protegidas, reconocidas por la Comisión Nacional de Áreas Naturales Protegidas bajo una certificación de cafetales bioculturales diversificados.
 TÍTULO SEGUNDO De las autoridades e instancias
 
 ## CAPÍTULO I
@@ -81,21 +130,38 @@ De las facultades de la Secretaría
 
 ### Artículo 6
 . Corresponde a la Secretaría la conducción de la política pública del fomento a la producción del café en coordinación con las dependencias y entidades competentes del Gobierno Federal, de las entidades federativas, de la Ciudad de México, así como con las autoridades de los municipios y las personas físicas y morales a que se refiere el artículo 2 de esta Ley. Para tales efectos la Secretaría tendrá las siguientes atribuciones:
+
 I. Dictar las políticas públicas del orden federal de gobierno en materia de cafeticultura, a fin de estimular la sustentabilidad, rentabilidad, productividad y competitividad de las actividades que regula esta Ley;
+
 II. Desarrollar programas y acciones para el fomento y desarrollo de la cafeticultura mexicana de manera sustentable e impulsar esquemas que propicien la inversión en el campo cafetalero y en la industria del café;
+
 III. Diseñar y ejecutar, en su ámbito de competencia, acciones y medidas de apoyo dirigidos a la cadena productiva del café y, en su caso, establecer las Reglas de Operación correspondientes, para facilitar el acceso a las personas integrantes de la cadena productiva del café, principalmente a las pequeñas y pequeños productores;
+
 IV. Orientar a las personas interesadas sobre las acciones, mecanismos de apoyo, trámites o servicios implementados por otras dependencias y entidades federales susceptibles de aplicarse en la cadena productiva del café; así como facilitar la concertación y suscripción de acuerdos o convenios con las dependencias y entidades correspondientes, para dar cumplimiento a los instrumentos internacionales de los que sea parte el Estado mexicano relativos a la certificación del café;
+
 V. Promover, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, acciones de preservación, restauración y manejo sustentable de los ecosistemas dentro de los territorios cafetaleros, impulsar buenas prácticas agroecológicas que favorezcan el cultivo de cafetales bajo sombra en corredores biológicos, áreas de influencia de áreas naturales protegidas y áreas de conservación voluntaria, y otras medidas efectivas de conservación basadas en áreas, asegurando que dichas prácticas contribuyan a la conservación de la biodiversidad y la protección de los recursos naturales en las zonas cafetaleras;
+
 VI. Promover, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, acciones de recuperación ecológica y mitigación de efectos del cambio climático, con énfasis en la restauración de los servicios ambientales esenciales, como la gestión eficiente del agua, la conservación y recarbonización del suelo, la captura de carbono, así como la conservación y protección de los grupos biológicos que habitan en los ecosistemas cafetaleros;
+
 VII. Apoyar la producción, adquisición y establecimiento de plantas de café generadas en viveros, a partir de material genético certificado por el Sistema Nacional de Inspección y Certificación de Semillas a cargo de la Secretaría, con el objetivo de garantizar la calidad y sostenibilidad del cultivo, y atender de manera continua, tanto las necesidades de las personas productoras, así como la demanda del mercado, sin comprometer los principios de conservación ambiental y biodiversidad;
+
 VIII. Colaborar con la Secretaría de Economía, cuando así corresponda, en los términos de la Ley de Infraestructura de la Calidad, en las actividades de normalización, estandarización, acreditación, evaluación de la conformidad y metrología, a efecto de promover la calidad y ampliar la capacidad productiva en las cadenas de valor del café;
+
 IX. Establecer, en coordinación con la Secretaría de Economía, políticas públicas encaminadas a la autosuficiencia alimentaria en materia de café, en volumen y calidad, para procurar el abasto y consumo nacional suficiente, previendo, en su caso, la reserva estratégica que permita el establecimiento de niveles de inventarios adecuados, sin afectar la rentabilidad de la persona productora;
+
 X. Representar, en coordinación con la Secretaría de Relaciones Exteriores, al Gobierno de México ante la Organización Internacional del Café y otros organismos internacionales relacionados con la cafeticultura;
+
 XI. Fomentar, en colaboración con las dependencias públicas de los órdenes de gobierno, el consumo nacional del café cien por ciento mexicano, así como de los productos, coproductos, subproductos y derivados de la cafeticultura mexicana;
+
 XII. Llevar a cabo investigaciones de mercado para identificar oportunidades de negocios que promuevan el crecimiento de la producción y la agroindustria de la cafeticultura y sus actividades complementarias, observando, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, que dichas acciones no comprometan los sistemas naturales, especialmente en lo que respecta al uso no regulado de agroquímicos y al cambio de uso de suelo y la expansión de la frontera agrícola;
+
 XIII. Promover programas de productividad de café bajo sombra con buenas prácticas agroecológicas, fitosanitarias, servicios ambientales e infraestructura hidroagrícola y de caminos rurales;
+
 XIV. Establecer el Registro de personas productoras, acopiadoras, beneficiadoras, comercializadoras y exportadoras de café, así como de las industrias procesadoras del café y sus derivados, dentro del Sistema Nacional de Registro Agropecuario;
-XV. Colaborar, en el ámbito de su competencia, en los procedimientos de conciliación de las controversias de la cadena productiva del café, y XVI. Las demás que esta Ley y su Reglamento establezcan.
+
+XV. Colaborar, en el ámbito de su competencia, en los procedimientos de conciliación de las controversias de la cadena productiva del café, y
+
+XVI. Las demás que esta Ley y su Reglamento establezcan.
 
 ## CAPÍTULO II
 De la Comisión Nacional para el Desarrollo de la Cafeticultura Mexicana
@@ -105,39 +171,69 @@ De la Comisión Nacional para el Desarrollo de la Cafeticultura Mexicana
 
 ### Artículo 8
 . La Comisión tendrá las siguientes funciones:
+
 I. Fomentar la coordinación de actividades con el sector privado y social en materia de fomento a la producción cafetalera en el país;
+
 II. Representar a nuestro país ante los organismos internacionales en la materia;
+
 III. Proponer planes, programas, proyectos y demás acciones en materia de cafeticultura al Gobierno Federal, con el objetivo de eficientar el uso de recursos públicos e impulsar el desarrollo y crecimiento del sector cafeticultura;
+
 IV. Proponer acciones y medidas de apoyo para cada eslabón de la cadena productiva a fin de fomentar el desarrollo de la cafeticultura;
+
 V. Emitir opinión, cuando así corresponda, sobre el diseño de Normas Oficiales Mexicanas relativas a la calidad, producción, comercialización, precios, importación y consumo interno del café, sus productos, subproductos y derivados;
+
 VI. Proponer a la Secretaría la integración o actualización de información útil para el sistema de registro de personas productoras, acopiadoras, beneficiadoras, comercializadoras, importadoras y exportadoras de café;
+
 VII. Promover y concertar acciones para apoyar la concurrencia de la persona productora al mercado nacional e internacional de manera directa y eficiente, limitando la participación de personas intermediarias para contribuir a un ingreso remunerativo;
+
 VIII. Proponer acciones encaminadas a facilitar a la exportación de la producción nacional y, en general, a la cadena productiva de la actividad cafetalera, con base en lo dispuesto en la Ley de Desarrollo Rural Sustentable y en congruencia con las acciones y objetivos del Sistema Nacional de Planeación Democrática;
+
 IX. Proponer acciones de capacitación y medidas de fomento tanto a la tecnificación en el cultivo del café como la implementación de prácticas tradicionales y agroecológicas; la promoción del uso de semillas criollas y nativas; prácticas de fertilización para la mejora del rendimiento de las plantas y la conservación del ambiente; así como la difusión de los métodos de control de malezas, plagas y enfermedades; así como la prevención y control para reducir el uso de agroquímicos favoreciendo en su lugar el uso de bioinsumos;
+
 X. Proponer acciones y medidas de fomento a la investigación y uso de tecnologías agrícolas e industriales apropiadas en la cadena productiva, tendientes a incrementar la producción, mejorar la calidad y ayudar a la conservación del medio ambiente y la mitigación de los gases de efecto invernadero y la adaptación ante el cambio climático;
+
 XI. Gestionar la asistencia técnica y administrativa para las personas productoras de café;
+
 XII. Prestar asesoría para garantizar que el café mexicano que se comercializa bajo cualquier presentación cumpla con la normatividad vigente en materia de etiquetado y especifique la calidad organoléptica y de otros atributos culturales y ambientales que distinguen a cada microrregión productora de café de México;
+
 XIII. Fomentar la promoción al consumo y calidad del café mexicano dentro del territorio nacional e internacional;
+
 XIV. Colaborar con la Secretaría en la elaboración y actualización de estudios y estadísticas sobre la actividad cafetalera nacional, así como en la elaboración de las expectativas anuales de cosecha a nivel nacional, estatal y municipal;
+
 XV. Promover y gestionar la capacitación a las personas productoras para que fortalezcan los procesos de encadenamiento productivo y el incremento de niveles de competitividad, valor agregado y comercialización;
+
 XVI. Proponer, conforme a las Normas Oficiales Mexicanas y estándares de calidad, los parámetros y directrices necesarios para determinar y mejorar las calidades de los productos elaborados a partir de café y sus derivados en su comercialización;
+
 XVII. En términos de lo dispuesto en la Ley de Planeación, las personas integrantes a que se refiere el
 
 ### artículo 9
 de la Ley en las fracciones VI, VII, VIII y IX, cuando así corresponda, emitirán opinión con motivo de la elaboración del plan sectorial;
-XVIII. Emitir sus reglas de funcionamiento, así como de toma de decisiones y seguimiento de acuerdos, y XIX. Las demás que le confieran esta Ley y su Reglamento.
+
+XVIII. Emitir sus reglas de funcionamiento, así como de toma de decisiones y seguimiento de acuerdos, y
+
+XIX. Las demás que le confieran esta Ley y su Reglamento.
 Las entidades y dependencias que participan en la Comisión lo harán con apego a sus atribuciones legales y reglamentarias.
 
 ### Artículo 9
 . La Comisión se integrará por personas representantes de las siguientes dependencias, entidades, organismos y agrupaciones sociales:
+
 I. Secretaría de Agricultura y Desarrollo Rural, que tendrá a cargo la Secretaría Ejecutiva y las reuniones de la Comisión;
+
 II. Secretaría de Bienestar;
+
 III. Secretaría de Medio Ambiente y Recursos Naturales;
+
 IV. Secretaría de Economía;
+
 V. Secretaría de Hacienda y Crédito Público;
+
 VI. Cinco personas representantes de las organizaciones nacionales de personas productoras de café y del sector productor, atendiendo el principio de igualdad de género, que serán acreditados en forma individual por cada organización;
+
 VII. Dos personas representantes de los comercializadores y exportadores con representación a nivel nacional;
-VIII. Dos personas representantes de los industriales y torrefactores con representación a nivel nacional, y IX. La persona representante del Comité Nacional del Sistema Producto Café.
+
+VIII. Dos personas representantes de los industriales y torrefactores con representación a nivel nacional, y
+
+IX. La persona representante del Comité Nacional del Sistema Producto Café.
 La persona titular de la Secretaría Ejecutiva podrá designar a una persona suplente y las personas que representen a las dependencias públicas deberán tener como mínimo nivel de persona directora general.
 
 ### Artículo 10
@@ -159,24 +255,40 @@ Asimismo, podrán asistir representantes de organismos empresariales y del comer
 
 ### Artículo 14
 . La Secretaría, con el apoyo del Comité Nacional Sistema Producto Café, prestará a las personas integrantes de la cadena del café los siguientes servicios:
+
 I. Un sistema de información básica para la consulta de precios, costos de producción y de venta, así como de mercados y oportunidades de negocio de productos elaborados con café;
+
 II. Asesoría en materia de administración de riesgos del mercado de café;
+
 III. Información sobre indicadores del desempeño de la cafeticultura en el territorio nacional, su impacto en la economía, políticas y estrategias sobre competitividad y consumo en los mercados nacional e internacional;
-IV. Supervisión para el cumplimiento de los procesos de certificación y verificación, en los términos de la Ley de Infraestructura de la Calidad, y V. Brindar asesoría en materia de servicios ambientales, de conformidad con la normatividad aplicable.
+
+IV. Supervisión para el cumplimiento de los procesos de certificación y verificación, en los términos de la Ley de Infraestructura de la Calidad, y
+
+V. Brindar asesoría en materia de servicios ambientales, de conformidad con la normatividad aplicable.
 
 ## CAPÍTULO III
 De la Persona Titular de la Comisión
 
 ### Artículo 15
 . Quedan a cargo de la persona titular de la Comisión las siguientes actividades:
+
 I. Formular y proponer las reglas de funcionamiento, así como de toma de decisiones y seguimiento de acuerdos de la Comisión;
+
 II. Presentar, en su caso, a las y los integrantes de la Comisión las políticas de fomento a la cafeticultura mexicana;
+
 III. Designar a las personas representantes de la Comisión ante las comisiones, congresos, organizaciones, instituciones y foros nacionales e internacionales en los que se participe;
+
 IV. Informar periódicamente a la Comisión sobre los avances en el Sistema Nacional de Registro Agropecuario y el Sistema Nacional de Información de la Cafeticultura en México, proporcionando datos actualizados sobre personas productoras, acopiadoras, apicultoras, industriales, comercializadoras, exportadoras e importadoras nacionales de café;
+
 V. Elaborar y presentar un informe semestral de actividades a las y los integrantes de la Comisión, que incluya el seguimiento de los acuerdos adoptados y un análisis detallado de los principales indicadores de la cafeticultura en México, tales como producción, persona beneficiada, industrialización y comercialización del café a nivel nacional e internacional;
+
 VI. Dar seguimiento a los acuerdos de la Comisión;
+
 VII. Promover con los sectores público y privado, así como con organismos de la sociedad civil y de conformidad con las disposiciones aplicables, la concertación y celebración de acuerdos de cooperación y colaboración, asociación estratégica, alianzas tecnológicas, vinculación y transferencia del conocimiento, redes de innovación en información de mercados, entre otros, de carácter nacional e internacional;
-VIII. Demandar el cumplimiento de la normatividad aplicable en caso de omisiones y faltas de los integrantes de la cadena productiva, y IX. Las demás que establezca el Reglamento de la Ley.
+
+VIII. Demandar el cumplimiento de la normatividad aplicable en caso de omisiones y faltas de los integrantes de la cadena productiva, y
+
+IX. Las demás que establezca el Reglamento de la Ley.
 TÍTULO TERCERO Del Sistema Nacional de Información de la Cafeticultura en México
 
 ## CAPÍTULO I
@@ -240,23 +352,40 @@ Investigación, capacitación y asistencia técnica cafetalera
 
 ### Artículo 30
 . La Secretaría podrá impulsar la investigación, capacitación y asistencia técnica de las personas productoras y de las y los actores de la cadena productiva de la cafeticultura mexicana, con el fin de mejorar los rendimientos y la calidad que están relacionados con:
+
 I. La renovación de las plantaciones;
+
 II. La producción y mejora de las variedades de café;
+
 III. La prevención, manejo integral y el combate a plagas y enfermedades;
+
 IV. Las densidades bajas de plantas;
-V. La aplicación de insumos para la nutrición, y VI. El manejo integrado del cultivo, incluyendo la conservación y recarbonización de suelos.
+
+V. La aplicación de insumos para la nutrición, y
+
+VI. El manejo integrado del cultivo, incluyendo la conservación y recarbonización de suelos.
 
 ### Artículo 31
 . La Secretaría, en coordinación con la Comisión, el Comité Nacional Sistema Producto Café e instituciones de investigación, docencia y enseñanza, así como con las organizaciones nacionales productivas, elaborará un plan específico de investigación, capacitación, asistencia técnica y de difusión cafetalera, con objeto de mejorar la utilización de las áreas dedicadas al cultivo del café, de conformidad con la disponibilidad presupuestal.
 Las acciones de investigación, capacitación y asistencia técnica para poner en práctica las acciones establecidas en el plan específico de investigación, capacitación, asistencia técnica y de difusión cafetalera serán las siguientes:
+
 I. Establecer un modelo de investigación e innovación en la producción primaria y la generación de productos finales;
+
 II. Desarrollar la investigación, validación y transferencia de tecnología y realizar las validaciones de acuerdo con lo establecido en las leyes y normas oficiales respectivas;
+
 III. Proporcionar asistencia técnica a las personas productoras en las diversas etapas de la actividad cafetalera;
+
 IV. Organizar servicios orientados al mejoramiento de la productividad, control de calidad y catación;
+
 V. Mantener en forma actualizada los estudios de precios de los mercados internacionales, según las variedades de café mexicano;
+
 VI. Promover que la asistencia técnica llegue a las personas productoras en forma eficiente;
+
 VII. Coordinar con organismos especializados el cuidado y preservación del medio ambiente, así como la realización de monitoreos periódicos que evalúen los impactos y contribuciones ambientales de la producción cafetalera;
-VIII. Promover la creación de incentivos de mercado a las personas cafetaleras que alcancen niveles de calidad y sostenibilidad ecológica, de acuerdo con las normas determinadas mediante estudios técnicos, y IX. Apoyar y promover a las instituciones privadas que contribuyan al desarrollo tecnológico de la actividad cafetalera.
+
+VIII. Promover la creación de incentivos de mercado a las personas cafetaleras que alcancen niveles de calidad y sostenibilidad ecológica, de acuerdo con las normas determinadas mediante estudios técnicos, y
+
+IX. Apoyar y promover a las instituciones privadas que contribuyan al desarrollo tecnológico de la actividad cafetalera.
 
 ### Artículo 32
 . La Comisión podrá proponer a la Secretaría acciones de apoyo para la generación de variedades o progenies de café que coadyuven a la solución de problemas presentados por plagas y enfermedades y que mejoren la productividad y la calidad del café mexicano.
@@ -322,13 +451,21 @@ De los precios del café
 
 ### Artículo 49
 . Para contar con información suficiente y tener la definición de los referentes de precios y las propuestas de mejoramiento, se realizarán las siguientes acciones para cada ciclo:
+
 I. Antes de la cosecha, se realizará un estudio de costos de producción del café, considerando las características específicas de las diferentes regiones cafetaleras en el territorio nacional, a efecto de determinar un rango de costos de producción y un promedio ponderado confiable de precios;
-II. Se realizarán estudios de costos de diferentes etapas de procesamiento, entre ellas, beneficiado húmedo, cereza, seco, pergamino, oro, tostado, molido y envasado, considerando las características específicas de las regiones de procesamiento que involucre en, al menos, el 70 por ciento de la producción nacional, y III. Se llevará a cabo un estudio de los costos de comercialización tanto en las exportaciones como en el mercado interno para contar con un rango de costos y un promedio ponderado en diferentes puntos de venta.
+
+II. Se realizarán estudios de costos de diferentes etapas de procesamiento, entre ellas, beneficiado húmedo, cereza, seco, pergamino, oro, tostado, molido y envasado, considerando las características específicas de las regiones de procesamiento que involucre en, al menos, el 70 por ciento de la producción nacional, y
+
+III. Se llevará a cabo un estudio de los costos de comercialización tanto en las exportaciones como en el mercado interno para contar con un rango de costos y un promedio ponderado en diferentes puntos de venta.
 
 ### Artículo 50
 . Los estudios señalados en el artículo anterior estarán orientados a identificar:
+
 I. Rangos y promedios ponderados de los precios del café mexicano de exportación respecto de los precios del mercado nacional;
-II. Datos de precios del registro nacional de comercialización de café y el de exportaciones, y III. Datos de los precios de futuros de las bolsas y los diferenciales de precio a la compra y a la venta en físico, referidos por las diferentes calidades de compra y venta y, cuando así corresponda, consideradas en las Normas Oficiales Mexicanas.
+
+II. Datos de precios del registro nacional de comercialización de café y el de exportaciones, y
+
+III. Datos de los precios de futuros de las bolsas y los diferenciales de precio a la compra y a la venta en físico, referidos por las diferentes calidades de compra y venta y, cuando así corresponda, consideradas en las Normas Oficiales Mexicanas.
 Durante el transcurso de la cosecha, se realizarán encuestas sobre los precios que se pagan en las diferentes regiones cafetaleras a las personas productoras de café arábiga y robusta, lavados y en natural, y para café pergamino, cereza y en verde. La muestra de dichas encuestas deberá ser representativa de la producción nacional a efecto de contar con información confiable sobre el rango y promedio ponderado de los precios pagados a las personas productoras.
 
 ### Artículo 51
@@ -357,7 +494,10 @@ Del café mexicano
 
 ### Artículo 58
 . Los criterios de calidad del café serán establecidos con base en las Normas Oficiales Mexicanas expedidas por las autoridades normalizadoras, en coordinación con la Secretaría de Economía, de conformidad con la Ley de Infraestructura de la Calidad. Dichos criterios deberán calificar:
-I. La calidad en la producción de aquellas variedades de café mexicano que cumplan con condiciones específicas para su comercialización, y II. La calidad del beneficio en el procesamiento de los granos para su comercialización.
+
+I. La calidad en la producción de aquellas variedades de café mexicano que cumplan con condiciones específicas para su comercialización, y
+
+II. La calidad del beneficio en el procesamiento de los granos para su comercialización.
 
 ### Artículo 59
 . En los programas de apoyo a la cafeticultura, la Secretaría y demás dependencias de los tres órdenes de gobierno, se priorizará a las personas productoras de café sustentable con prácticas agroecológicas que contribuyan a la recarbonización y conservación del suelo, la diversidad biológica, minimicen huella hídrica y protejan los bosques.
@@ -371,9 +511,14 @@ Del café sustentable y el cambio climático
 
 ### Artículo 61
 . La Secretaría en acuerdo con las autoridades competentes, vigilará:
+
 I. Los efectos del cambio climático en la producción del café;
+
 II. Los riesgos para la cantidad de tierra fértil disponible para la cafeticultura y el cambio de uso de suelo forestal y agroforestal a agrícola;
-III. La presencia de plagas y enfermedades fitosanitarias, y IV. Las condiciones meteorológicas que puedan dañar o retrasar las cosechas.
+
+III. La presencia de plagas y enfermedades fitosanitarias, y
+
+IV. Las condiciones meteorológicas que puedan dañar o retrasar las cosechas.
 De igual manera, realizará análisis y estudios sobre las contingencias que pongan en riesgo la producción del café o estén vinculados con la salud, la alimentación, la nutrición y el medio ambiente.
 
 ### Artículo 62
@@ -393,9 +538,14 @@ Lo anterior contribuirá a las metas de autosuficiencia alimentaria contempladas
 
 ### Artículo 66
 . Los programas y las líneas de acción prioritarias para la producción del café sustentable incluirán:
+
 I. Desarrollo de acciones de reducción de emisiones de gases de efecto invernadero con el fin de incrementar la sostenibilidad ambiental y certificar el carbono neutro en la producción de café;
+
 II. Desarrollo de medidas de adaptación al cambio climático que respondan a los contextos locales de las zonas cafetaleras;
-III. Impulso a la organización de la producción cafetalera orientada a la calidad y valor agregado, fomentando las buenas prácticas agrícolas y de manufactura para el aseguramiento de la calidad, y IV. Fortalecimiento de los procesos para la producción y certificación de café orgánico, el comercio justo y la producción bajo esquemas de carbono neutro, entre otros.
+
+III. Impulso a la organización de la producción cafetalera orientada a la calidad y valor agregado, fomentando las buenas prácticas agrícolas y de manufactura para el aseguramiento de la calidad, y
+
+IV. Fortalecimiento de los procesos para la producción y certificación de café orgánico, el comercio justo y la producción bajo esquemas de carbono neutro, entre otros.
 
 ## CAPÍTULO V
 Café tostado, molido, soluble y extracto
@@ -421,9 +571,14 @@ De las importaciones
 
 ### Artículo 72
 . La Secretaría podrá colaborar con la Secretaría de Economía para:
+
 I. Presentar reportes e informes sobre la importación de café y sus efectos, en particular cuando existan indicios de posible existencia de prácticas desleales de comercio;
+
 II. Emitir opiniones técnicas sobre el comportamiento del mercado nacional e internacional del café y sus derivados, a partir del análisis de márgenes de demanda y consumo, que puedan ser consideradas por la Secretaría de Economía en el diseño de sus políticas comerciales;
-III. Proporcionar, a la Secretaría de Economía cuando lo solicite información técnica y estadística relacionada con la cadena productiva del café, para su posible consideración en procesos de modificación arancelaria o en las fracciones arancelarias aplicables, conforme a las reglas internacionales suscritas por el Estado mexicano, y IV. Entregar insumos técnicos y de diagnóstico a las autoridades competentes cuando así lo soliciten, sobre posibles riesgos de afectación al sector cafetalero nacional, derivados de importaciones que no cumplan con disposiciones normativas o acuerdos internacionales, sin que ello implique facultad alguna para autorizar, restringir o condicionar las importaciones.
+
+III. Proporcionar, a la Secretaría de Economía cuando lo solicite información técnica y estadística relacionada con la cadena productiva del café, para su posible consideración en procesos de modificación arancelaria o en las fracciones arancelarias aplicables, conforme a las reglas internacionales suscritas por el Estado mexicano, y
+
+IV. Entregar insumos técnicos y de diagnóstico a las autoridades competentes cuando así lo soliciten, sobre posibles riesgos de afectación al sector cafetalero nacional, derivados de importaciones que no cumplan con disposiciones normativas o acuerdos internacionales, sin que ello implique facultad alguna para autorizar, restringir o condicionar las importaciones.
 En todo momento, la Secretaría se apoyará de las recomendaciones y opiniones emitidas por la Comisión.
 
 ### Artículo 73

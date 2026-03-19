@@ -16,17 +16,37 @@ Artículo reformado DOF 09-09-2022 Artículo declarado parcialmente inválido po
 
 ### ARTÍCULO 2
 .- Para efectos de esta Ley, se entenderá por:
-Párrafo reformado DOF 16-07-2025 I. Presidencia de la República, la persona titular de la Presidencia de los Estados Unidos Mexicanos;
-Fracción reformada DOF 16-07-2025 II. Secretaría, la Secretaría de la Defensa Nacional;
+Párrafo reformado DOF 16-07-2025
+
+I. Presidencia de la República, la persona titular de la Presidencia de los Estados Unidos Mexicanos;
+Fracción reformada DOF 16-07-2025
+
+II. Secretaría, la Secretaría de la Defensa Nacional;
+
 III. Secretario, la persona titular de la Secretaría;
-Fracción reformada DOF 16-07-2025 IV. Ejército, Fuerza Aérea y Guardia Nacional, el Ejército Mexicano, la Fuerza Aérea Mexicana y la Guardia Nacional;
-Fracción reformada DOF 16-07-2025 V. Ley Orgánica, la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
+Fracción reformada DOF 16-07-2025
+
+IV. Ejército, Fuerza Aérea y Guardia Nacional, el Ejército Mexicano, la Fuerza Aérea Mexicana y la Guardia Nacional;
+Fracción reformada DOF 16-07-2025
+
+V. Ley Orgánica, la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
+
 VI. Ley, la presente Ley;
+
 VII. Reglamento, el Reglamento de la Ley;
+
 VIII. Ascenso, el acto de mando mediante el cual es conferido al militar un grado superior en el orden jerárquico dentro de la escala que fija la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y la Ley de la Guardia Nacional;
-Fracción reformada DOF 16-07-2025 IX. Recompensas, las condecoraciones, menciones honoríficas, distinciones y citaciones que se otorgan a las personas civiles o militares, unidades o dependencias del Ejército, Fuerza Aérea y Guardia Nacional para premiar su heroísmo, capacidad profesional, servicios a la Patria o demás hechos meritorios;
-Fracción reformada DOF 16-07-2025 X. Concursante, el militar con jerarquía hasta de Mayor del Ejército, Fuerza Aérea y Guardia Nacional que sustenta exámenes para cubrir una vacante en el grado inmediato superior;
-Fracción reformada DOF 05-08-2011, 16-07-2025 XI. Participante, el militar que es evaluado con el fin de ser propuesto para un ascenso, y Fracción reformada DOF 05-08-2011 XII. Militares, son las mujeres y los hombres que legalmente forman parte del Ejército, Fuerza Aérea y Guardia Nacional, con un grado de la escala jerárquica. Estarán sujetos a las obligaciones y derechos que para ellos establecen la Constitución, la presente Ley, los ordenamientos castrenses y la Ley de la Guardia Nacional.
+Fracción reformada DOF 16-07-2025
+
+IX. Recompensas, las condecoraciones, menciones honoríficas, distinciones y citaciones que se otorgan a las personas civiles o militares, unidades o dependencias del Ejército, Fuerza Aérea y Guardia Nacional para premiar su heroísmo, capacidad profesional, servicios a la Patria o demás hechos meritorios;
+Fracción reformada DOF 16-07-2025
+
+X. Concursante, el militar con jerarquía hasta de Mayor del Ejército, Fuerza Aérea y Guardia Nacional que sustenta exámenes para cubrir una vacante en el grado inmediato superior;
+Fracción reformada DOF 05-08-2011, 16-07-2025
+
+XI. Participante, el militar que es evaluado con el fin de ser propuesto para un ascenso, y Fracción reformada DOF 05-08-2011
+
+XII. Militares, son las mujeres y los hombres que legalmente forman parte del Ejército, Fuerza Aérea y Guardia Nacional, con un grado de la escala jerárquica. Estarán sujetos a las obligaciones y derechos que para ellos establecen la Constitución, la presente Ley, los ordenamientos castrenses y la Ley de la Guardia Nacional.
 Fracción adicionada DOF 05-08-2011. Reformada DOF 16-07-2025 TÍTULO SEGUNDO De los ascensos
 
 ## CAPÍTULO I
@@ -42,12 +62,18 @@ Artículo reformado DOF 16-07-2025
 
 ### ARTÍCULO 5
 .- Los ascensos serán conferidos por rigurosa escala jerárquica, en los siguientes términos:
-I. De Cabo a Coronel, el ascenso será conferido precisamente dentro del arma, servicio o de la Guardia Nacional, y Fracción reformada DOF 16-07-2025 II. De General Brigadier o de Grupo a General de División, no se expresará la procedencia de los militares de arma, pero sí su clasificación técnica, en caso de que cuenten con ella o precedida de Guardia Nacional, según corresponda.
+
+I. De Cabo a Coronel, el ascenso será conferido precisamente dentro del arma, servicio o de la Guardia Nacional, y Fracción reformada DOF 16-07-2025
+
+II. De General Brigadier o de Grupo a General de División, no se expresará la procedencia de los militares de arma, pero sí su clasificación técnica, en caso de que cuenten con ella o precedida de Guardia Nacional, según corresponda.
 Fracción reformada DOF 16-07-2025
 
 ### ARTÍCULO 6
 .- Los ascensos podrán ser otorgados:
-I. En tiempo de paz, y II. En tiempo de guerra.
+
+I. En tiempo de paz, y
+
+II. En tiempo de guerra.
 
 ## CAPÍTULO II
 De los Ascensos en tiempo de paz
@@ -58,48 +84,89 @@ Artículo reformado DOF 16-07-2025
 
 ### ARTÍCULO 8
 .- Los ascensos serán conferidos atendiendo conjuntamente a las circunstancias siguientes:
+
 I. Al tiempo de servicios;
+
 II. A la antigüedad en el grado;
+
 III. A la buena conducta militar y civil;
+
 IV. A la buena salud;
+
 V. A la aprobación en los cursos de formación, capacitación, de perfeccionamiento o superiores y demás que estatuya la normativa vigente en materia de educación militar y policial para el grado inmediato superior;
-Fracción reformada DOF 16-07-2025 VI. A la aptitud profesional, y VII. A la capacidad física.
+Fracción reformada DOF 16-07-2025
+
+VI. A la aptitud profesional, y
+
+VII. A la capacidad física.
 
 ### ARTÍCULO 9
 .- En tiempo de paz, los ascensos serán conferidos mediante las modalidades siguientes:
+
 I. Por propuesta, previo concurso en cada organismo, para cubrir las plazas de Cabo de las Armas, Servicios o de la Guardia Nacional y las de Sargento de los servicios o especialidades que carezcan de escuela de formación;
-Fracción reformada DOF 16-07-2025 II. Por egreso de algún establecimiento de educación militar, al aprobar satisfactoriamente el curso respectivo, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar;
+Fracción reformada DOF 16-07-2025
+
+II. Por egreso de algún establecimiento de educación militar, al aprobar satisfactoriamente el curso respectivo, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar;
+
 III. Por aprobar satisfactoriamente el cuarto año en las carreras que imparten las Escuelas Militar de Ingeniería, de Medicina y de Odontología, y ser considerados como pasantes, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar;
 Fracción reformada DOF 01-06-2011, 15-04-2025 III Bis. Por cursar una especialidad con una duración mínima de tres años en la Escuela Militar de Graduados de Sanidad, los Mayores y Oficiales Médicos Cirujanos que tengan derecho a participar en la promoción general, estarán exentos de presentar los exámenes teóricos y podrán ascender por rigurosa escala jerárquica, hasta el grado de Teniente Coronel, siempre y cuando cumplan los demás requisitos establecidos en esta Ley, su reglamento y disposiciones que emita el Estado Mayor Conjunto de la Defensa Nacional;
 Fracción adicionada DOF 15-04-2025 III Ter. Por acreditar una especialidad con una duración mínima de tres años en la Escuela Militar de Graduados de Sanidad u otra institución educativa, nacional o internacional, los Mayores y Oficiales Médicos Cirujanos que cuenten con cédula profesional y certificado de especialidad avalado por el Comité Normativo Nacional de Consejos de Especialidades Médicas, podrán ascender por rigurosa escala jerárquica hasta Teniente Coronel, siempre y cuando reúnan los demás requisitos establecidos en esta Ley, su reglamento, el artículo 196 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, así como las disposiciones que emita el Estado Mayor Conjunto de la Defensa Nacional;
-Fracción adicionada DOF 15-04-2025 IV. Por acreditación de la aptitud profesional en la promoción especial para Subtenientes egresados de las escuelas de formación;
+Fracción adicionada DOF 15-04-2025
+
+IV. Por acreditación de la aptitud profesional en la promoción especial para Subtenientes egresados de las escuelas de formación;
+
 V. Por concurso de selección para cubrir las plazas de Subteniente a Teniente Coronel, siendo: a. Promoción de especialistas para Sargentos Primeros de los servicios y especialidades que carecen de escuela de formación, y b. La promoción general para los Subtenientes hasta Mayores de las armas, servicios o de Guardia Nacional.
-Inciso reformado DOF 16-07-2025 VI. Por acuerdo de la persona titular del Ejecutivo Federal, tomando en consideración los resultados de la promoción superior para los ascensos a Coronel y hasta General de División, y Fracción reformada DOF 15-04-2025 VII. Por los supuestos del artículo 31 de esta Ley.
+Inciso reformado DOF 16-07-2025
+
+VI. Por acuerdo de la persona titular del Ejecutivo Federal, tomando en consideración los resultados de la promoción superior para los ascensos a Coronel y hasta General de División, y Fracción reformada DOF 15-04-2025
+
+VII. Por los supuestos del artículo 31 de esta Ley.
 
 ### ARTÍCULO 10
 .- Para los efectos de esta Ley, la conducta de los militares será acreditada mediante:
+
 I. El Acta del Consejo de Honor que se reúna expresamente para ese objeto, por lo que se refiere a los Oficiales y Tropa; Hoja de Actuación de los Oficiales y memorial de Servicios del personal de Tropa;
-II. El Certificado expedido por el Comandante de Unidad o Jefe de Dependencia y la Hoja de Actuación, tratándose de Jefes, y III. La Hoja de Actuación, tratándose de Generales.
+
+II. El Certificado expedido por el Comandante de Unidad o Jefe de Dependencia y la Hoja de Actuación, tratándose de Jefes, y
+
+III. La Hoja de Actuación, tratándose de Generales.
 Las notas contenidas en tales documentos complementarán los datos que arrojen las Hojas de Actuación y Memoriales de servicios correspondientes a la antigüedad del interesado en el último grado, hasta el año anterior al del concurso de selección.
 
 ### ARTÍCULO 11
 .- Para ascender a Cabo será necesario que el Soldado satisfaga los siguientes requisitos:
-I. Haber servido cuando menos un año en el Ejército, Fuerza Aérea o Guardia Nacional, y Fracción reformada DOF 16-07-2025 II. Satisfacer los requisitos señalados en las fracciones III, IV, VI y VII del artículo 8.
+
+I. Haber servido cuando menos un año en el Ejército, Fuerza Aérea o Guardia Nacional, y Fracción reformada DOF 16-07-2025
+
+II. Satisfacer los requisitos señalados en las fracciones III, IV, VI y VII del artículo 8.
 
 ### ARTÍCULO 12
 .- Para ascender de Cabo a Sargento Segundo y de Sargento Segundo a Sargento Primero, será necesario que el militar satisfaga los siguientes requisitos:
+
 I. Tener una antigüedad mínima de un año en el grado y haber servido durante ella encuadrado en unidades de su arma o en funciones militares propias de su especialidad, cuando se trate de militares de Servicio y en funciones de la Guardia Nacional;
-Fracción reformada DOF 16-07-2025 II. Aprobar el curso respectivo en la Escuela de Clases que corresponda, y III. Satisfacer los requisitos señalados en las fracciones III, IV, VI y VII del artículo 8.
+Fracción reformada DOF 16-07-2025
+
+II. Aprobar el curso respectivo en la Escuela de Clases que corresponda, y
+
+III. Satisfacer los requisitos señalados en las fracciones III, IV, VI y VII del artículo 8.
 
 ### ARTÍCULO 13
 .- Para ascender de Sargento Primero a Subteniente, será necesario que el militar satisfaga los siguientes requisitos:
+
 I. Tener una antigüedad mínima de un año en el grado y haber servido durante ella encuadrado en unidades de su arma, en funciones militares propias de su especialidad, cuando se trate de militares de Servicio y su equivalente en la Guardia Nacional, respecto a Unidades y funciones de seguridad pública;
-Fracción reformada DOF 16-07-2025 II. Aprobar el curso respectivo en la Escuela de Formación que corresponda, y III. Satisfacer los requisitos señalados en las fracciones III, IV, VI y VII del artículo 8.
+Fracción reformada DOF 16-07-2025
+
+II. Aprobar el curso respectivo en la Escuela de Formación que corresponda, y
+
+III. Satisfacer los requisitos señalados en las fracciones III, IV, VI y VII del artículo 8.
 
 ### ARTÍCULO 14
 .- Los Sargentos Primeros de Servicio que carezcan de Escuela de Formación tendrán derecho a concursar para el ascenso a Subteniente, cuando satisfagan las condiciones previstas en las fracciones III, IV, VI y VII del artículo 8 de esta Ley y los requisitos siguientes:
+
 I. Tener como mínimo 8 años de Servicio a la fecha prevista para el ascenso del año en que les corresponda concursar;
-II. Haber prestado 5 años de servicios como mínimo en la especialidad, y III. Acreditar los conocimientos de su especialidad mediante certificado expedido por la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
+
+II. Haber prestado 5 años de servicios como mínimo en la especialidad, y
+
+III. Acreditar los conocimientos de su especialidad mediante certificado expedido por la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
 Fracción reformada DOF 16-07-2025
 
 ### ARTÍCULO 15
@@ -116,12 +183,17 @@ Artículo reformado DOF 16-07-2025
 
 ### ARTÍCULO 18
 .- Para participar en los concursos de selección, los Oficiales deberán satisfacer los requisitos siguientes:
+
 I. Tener como mínimo el tiempo de servicios que se expresa a continuación: a. Subtenientes: 5 años; b. Tenientes: 8 años; c. Capitanes Segundos: 10 años, y d. Capitanes Primeros: 13 años.
-Fracción reformada DOF 22-11-2021 II. Tener en el grado que ostente una antigüedad mínima de: a. Subtenientes: 2 años;
+Fracción reformada DOF 22-11-2021
+
+II. Tener en el grado que ostente una antigüedad mínima de: a. Subtenientes: 2 años;
 Inciso reformado DOF 22-11-2021 b. Subtenientes que hayan obtenido su grado conforme a la fracción III del artículo 9 de esta Ley o que hayan egresado de otras Instituciones Educativas Militares con estudios de tipo Superior de Nivel Licenciatura: 1 año;
 Inciso adicionado DOF 01-06-2011. Reformado DOF 22-11-2021 c. Tenientes: 3 años;
 Inciso recorrido DOF 01-06-2011 d. Capitanes Segundos: 2 años, y Inciso recorrido DOF 01-06-2011. Reformado DOF 22-11-2021 e. Capitanes Primeros: 3 años.
-Inciso recorrido DOF 01-06-2011 III. Haber prestado sus servicios en el grado de la siguiente forma:
+Inciso recorrido DOF 01-06-2011
+
+III. Haber prestado sus servicios en el grado de la siguiente forma:
 A. Los Subtenientes: a. De Arma, encuadrados en las unidades del Ejército o en las unidades de vuelo de la Fuerza Aérea, y b. De Servicio, en los servicios orgánicos de las unidades del Ejército, Guardia Nacional o de las unidades de vuelo de la Fuerza Aérea o en las unidades de sus servicios no encuadradas. En los servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad;
 Inciso reformado DOF 16-07-2025 c. De Guardia Nacional, encuadrados en las unidades de la Guardia Nacional o desempeñando actividades propias de su especialidad, y Inciso adicionado DOF 16-07-2025 d. Los que hayan obtenido su grado conforme a la fracción III del artículo 9 de esta Ley, como discentes en dichas instituciones educativas militares o en actividades militares propias de su especialidad.
 Inciso adicionado DOF 01-06-2011. Reformado y recorrido DOF 16-07-2025 B. Los Tenientes: a. De arma, en cualquiera de las situaciones siguientes: 1. Encuadrados en las unidades del Ejército, Guardia Nacional o en las unidades de vuelo de la Fuerza Aérea;
@@ -138,9 +210,16 @@ Inciso con numerales reformado DOF 15-04-2020 b. De servicio, en cualquiera de l
 Numeral reformado DOF 16-07-2025 2. En unidades orgánicas de los establecimientos de Educación Militar; 3. Como personas docentes o instructoras, encuadradas en los establecimientos de que trata la fracción anterior;
 Numeral reformado DOF 16-07-2025 4. Como Oficiales en instrucción en los cursos de aplicación, superiores o de perfeccionamiento; 5. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y 6. En otras actividades militares propias de su especialidad.
 Inciso con numerales reformado DOF 15-04-2020 c. De Guardia Nacional, en cualquiera de las situaciones siguientes: 1. De Guardia Nacional, encuadrados en las unidades de la Guardia Nacional o desempeñando actividades propias de su especialidad; 2. En unidades orgánicas de los establecimientos de Educación Militar; 3. Como personas docentes o instructoras, encuadradas en los establecimientos de que trata la fracción anterior; 4. Como Oficiales en instrucción en cursos de aplicación, superiores o de perfeccionamiento; 5. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y 6. En otras actividades militares propias de su especialidad.
-Inciso con numerales adicionado DOF 16-07-2025 IV. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
+Inciso con numerales adicionado DOF 16-07-2025
+
+IV. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
+
 V. Haber aprobado los cursos a que se refiere la fracción V del artículo 8 de esta Ley;
-Fracción reformada DOF 01-06-2011 VI. Acreditar buena conducta militar y civil, y VII. No encontrarse en alguno de los supuestos previstos en el artículo 35 de esta Ley.
+Fracción reformada DOF 01-06-2011
+
+VI. Acreditar buena conducta militar y civil, y
+
+VII. No encontrarse en alguno de los supuestos previstos en el artículo 35 de esta Ley.
 Fracción reformada DOF 01-06-2011
 
 ### ARTÍCULO 19
@@ -149,16 +228,26 @@ A. Una vez cumplido un año de su egreso, para el personal cuyos estudios tengan
 Párrafo reformado DOF 22-11-2021 Lo anterior, siempre que hayan servido durante ese tiempo en las unidades del Ejército o Guardia Nacional, ejerciendo el mando o en unidades de vuelo de la Fuerza Aérea, si se trata de pilotos aviadores; tratándose de Oficiales de servicio, en los Servicios Orgánicos de las Unidades del Ejército, de la Guardia Nacional, de unidades de vuelo de la Fuerza Aérea o en unidades de sus Servicios no encuadradas; y, en aquellos Servicios en que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad.
 Párrafo reformado DOF 16-07-2025 B. Una vez cumplido un año de antigüedad en el grado, del ascenso obtenido conforme a la fracción III del artículo 9 de esta Ley.
 Párrafo reformado DOF 22-11-2021 En todo caso, el personal al que se refiere este artículo también deberá reunir los requisitos siguientes:
+
 I. Alcanzar la puntuación aprobatoria en la Promoción Especial;
+
 II. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
-III. Acreditar buena conducta militar y civil, y IV. No encontrarse en alguno de los supuestos previstos en el artículo 35 de esta Ley.
+
+III. Acreditar buena conducta militar y civil, y
+
+IV. No encontrarse en alguno de los supuestos previstos en el artículo 35 de esta Ley.
 Artículo reformado DOF 01-06-2011
 
 ### ARTÍCULO 20
 .- Para participar en los concursos de selección para el ascenso de Mayor a Teniente Coronel, se deberán satisfacer los requisitos siguientes:
+
 I. Tener como mínimo 16 años de tiempo de servicio;
-Fracción reformada DOF 22-11-2021 II. Tener como mínimo tres años de antigüedad en el grado;
-Fracción reformada DOF 22-11-2021 III. Haber prestado sus servicios en ese grado en la forma siguiente:
+Fracción reformada DOF 22-11-2021
+
+II. Tener como mínimo tres años de antigüedad en el grado;
+Fracción reformada DOF 22-11-2021
+
+III. Haber prestado sus servicios en ese grado en la forma siguiente:
 A. De Arma, en cualquiera de las situaciones siguientes: a. Encuadrados en las unidades del Ejército, Guardia Nacional o en las unidades de vuelo de la Fuerza Aérea;
 Inciso reformado DOF 16-07-2025 b. En las unidades Orgánicas de los Establecimientos de Educación Militar; c. Como personas docentes o instructoras, encuadradas en los establecimientos de que trata la fracción anterior;
 Inciso reformado DOF 16-07-2025 d. Como Jefe en instrucción en los cursos superiores o de perfeccionamiento; e. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y f. En otras actividades militares propias de su especialidad.
@@ -166,9 +255,15 @@ Apartado con incisos reformado DOF 15-04-2020 B. De servicio, en cualquiera de l
 Inciso reformado DOF 16-07-2025 b. En las unidades orgánicas de los establecimientos de educación Militar; c. Como personas docentes o instructoras, encuadradas en los establecimientos de que trata la fracción anterior;
 Inciso reformado DOF 16-07-2025 d. Como Jefes en instrucción en los cursos superiores o de perfeccionamiento; e. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y f. En actividades militares propias de su especialidad.
 Apartado con incisos reformado DOF 15-04-2020 C. De Guardia Nacional, en cualquiera de las situaciones siguientes: a. Encuadrados en las unidades de la Guardia Nacional o desempeñando actividades propias de su especialidad; b. En unidades orgánicas de los establecimientos de educación militar; c. Como personas docentes o instructoras, encuadradas en los establecimientos de que trata la fracción anterior; d. Como Jefes en instrucción en cursos de aplicación, superiores o de perfeccionamiento; e. En actividades contenidas en el Capítulo VII de la Carta de la Organización de las Naciones Unidas, y f. En otras actividades militares propias de su especialidad.
-Apartado con incisos adicionado DOF 16-07-2025 IV. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
+Apartado con incisos adicionado DOF 16-07-2025
+
+IV. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
+
 V. Haber aprobado los cursos a que se refiere la fracción V del artículo 8 de esta Ley;
-VI. Acreditar buena conducta militar y civil, y VII. No encontrarse en alguno de los supuestos previstos en el artículo 35.
+
+VI. Acreditar buena conducta militar y civil, y
+
+VII. No encontrarse en alguno de los supuestos previstos en el artículo 35.
 
 ### ARTÍCULO 21
 .- En los servicios en que no existan Escuelas de Formación de Oficiales y Clases, los interesados podrán concursar para obtener ascensos, cuando exista vacante o así lo exijan las necesidades del servicio y aprueben los exámenes que, para ese efecto, fije la normativa vigente en materia de Educación Militar.
@@ -211,7 +306,10 @@ Artículo reformado DOF 16-07-2025
 
 ### ARTÍCULO 31
 .- Independientemente de lo establecido por los artículos 8 y 9 de la presente Ley, también podrán ser promovidos al grado inmediato superior los militares que:
-I. Ejecuten con riesgo de su vida un acto excepcionalmente meritorio, o Fracción reformada DOF 01-06-2011 II. Sean autores de un invento o innovación de verdadera utilidad y de gran importancia para la capacitación profesional del elemento militar o para la defensa de la Nación.
+
+I. Ejecuten con riesgo de su vida un acto excepcionalmente meritorio, o Fracción reformada DOF 01-06-2011
+
+II. Sean autores de un invento o innovación de verdadera utilidad y de gran importancia para la capacitación profesional del elemento militar o para la defensa de la Nación.
 En tales casos, la Secretaría designará un jurado idóneo que investigue y juzgue sobre dichos actos, inventos o innovaciones. El dictamen del jurado será sometido a consideración del Presidente de la República, quien resolverá en definitiva sobre el ascenso del interesado.
 El dictamen del jurado será sometido a consideración de la persona titular de la Presidencia de la República, la que resolverá en definitiva sobre el ascenso del interesado.
 Párrafo reformado DOF 16-07-2025 Nota: El Decreto de reforma DOF 16-07-2025 establece en la instrucción que se reforma el artículo “31, párrafo segundo”. Sin embargo, en el cuerpo del articulado la reforma al artículo 31 se determina al párrafo tercero, dejando sin efecto el contenido del entonces párrafo tercero y repitiendo el contenido de la parte final del actual párrafo segundo.
@@ -229,35 +327,64 @@ Artículo adicionado DOF 01-06-2011
 ### ARTÍCULO 33
 .- Para los efectos del artículo anterior, la Secretaría constituirá una comisión de evaluación de la promoción superior, la cual tendrá como propósito integrar los expedientes y reunir los elementos de juicio que la persona titular de la Secretaría presentará a consideración de la persona titular de la Presidencia de la República, atendiendo a lo dispuesto por el artículo 8 de esta Ley.
 Párrafo reformado DOF 16-07-2025 Dicha Comisión estará integrada por:
+
 I. Presidencia: Persona titular de la Subsecretaría de la Defensa Nacional;
-Fracción reformada DOF 16-07-2025 II. Primera Vocalía: Persona titular de la Oficialía Mayor de la Secretaría;
-Fracción reformada DOF 16-07-2025 III. Segunda Vocalía: Persona titular de la Inspección y Contraloría del Ejército, Fuerza Aérea y Guardia Nacional;
-Fracción reformada DOF 16-07-2025 IV. Tercera Vocalía: Persona titular de la Jefatura del Estado Mayor Conjunto de la Secretaría de la Defensa Nacional;
-Fracción reformada DOF 16-07-2025 V. Cuarta Vocalía: Persona titular de la Comandancia del Ejército;
+Fracción reformada DOF 16-07-2025
+
+II. Primera Vocalía: Persona titular de la Oficialía Mayor de la Secretaría;
+Fracción reformada DOF 16-07-2025
+
+III. Segunda Vocalía: Persona titular de la Inspección y Contraloría del Ejército, Fuerza Aérea y Guardia Nacional;
+Fracción reformada DOF 16-07-2025
+
+IV. Tercera Vocalía: Persona titular de la Jefatura del Estado Mayor Conjunto de la Secretaría de la Defensa Nacional;
+Fracción reformada DOF 16-07-2025
+
+V. Cuarta Vocalía: Persona titular de la Comandancia del Ejército;
 Fracción reformada DOF 16-07-2025 V BIS. Quinta Vocalía: Persona titular de la Comandancia de la Fuerza Aérea;
 Fracción adicionada DOF 16-07-2025 V TER. Sexta Vocalía: Persona titular de la Comandancia de la Guardia Nacional;
-Fracción adicionada DOF 16-07-2025 VI. Secretaría: Persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional, y Fracción reformada DOF 16-07-2025 VII. Secretaría Adjunta: Jefe de la Sección de Recursos Humanos del Estado Mayor Conjunto de la Defensa Nacional.
+Fracción adicionada DOF 16-07-2025
+
+VI. Secretaría: Persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional, y Fracción reformada DOF 16-07-2025
+
+VII. Secretaría Adjunta: Jefe de la Sección de Recursos Humanos del Estado Mayor Conjunto de la Defensa Nacional.
 Fracción reformada DOF 16-07-2025
 
 ### ARTÍCULO 34
 .- Para poder participar en la Promoción Superior se deberá contar como mínimo a la fecha de ascenso con:
+
 I. Cuatro años de antigüedad en el grado;
+
 II. Los tiempos de servicios siguientes: a. Tenientes Coroneles: 20 años; b. Coroneles: 24 años; c. Generales Brigadieres o de Grupo: 28 años, y d. Generales de Brigada o de Ala: 32 años.
+
 III. Buena conducta militar y civil;
+
 IV. Buena salud.
 La Secretaría podrá considerar en la convocatoria respectiva la participación de personal que se ubique en alguna de las hipótesis previstas en el artículo 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas. En este supuesto, el personal que participe deberá cumplir con las condiciones siguientes: a. Su condición de salud no haya requerido cambio de arma o de Guardia Nacional a servicio en términos del citado numeral;
 Inciso reformado DOF 16-07-2025 b. Lo solicite por escrito, y c. No se trate del padecimiento previsto en el numeral 13 del artículo 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+
 V. Un índice de masa corporal inferior a 28.00;
-VI. Aprobación en los cursos de formación, capacitación, de perfeccionamiento o superiores y demás que estatuya la normativa vigente en materia de educación militar para el grado inmediato superior, y VII. Aptitud profesional y capacidad física.
+
+VI. Aprobación en los cursos de formación, capacitación, de perfeccionamiento o superiores y demás que estatuya la normativa vigente en materia de educación militar para el grado inmediato superior, y
+
+VII. Aptitud profesional y capacidad física.
 Artículo reformado DOF 22-11-2021
 
 ### ARTÍCULO 35
 .- No serán conferidos ascensos a los militares que se encuentren en alguna de las situaciones siguientes:
+
 I. Con licencia ilimitada, especial o por edad límite;
-Fracción reformada DOF 12-06-2009 II. Retirados del Activo;
+Fracción reformada DOF 12-06-2009
+
+II. Retirados del Activo;
+
 III. Sujetos a proceso, prófugos o cumpliendo sentencia condenatoria en el orden penal;
+
 IV. Haber estado sujeto a proceso en el que se haya retirado la acción penal dentro del último año de su antigüedad;
-V. Haber alcanzado la edad límite que señala la ley de la materia, y VI. Encontrarse en trámite de retiro potestativo.
+
+V. Haber alcanzado la edad límite que señala la ley de la materia, y
+
+VI. Encontrarse en trámite de retiro potestativo.
 
 ### ARTÍCULO 36
 .- Derogado Artículo derogado DOF 16-07-2025
@@ -280,9 +407,14 @@ Artículo reformado DOF 16-07-2025
 
 ### ARTÍCULO 42
 .- En las patentes de los Generales, Jefes y Oficiales y en los nombramientos de las Clases, se harán constar los datos siguientes:
+
 I. Nombres, apellidos y matrícula del militar;
+
 II. Motivo del ascenso;
-III. Fecha de antigüedad en el grado, y IV. Expresión del arma o servicio a que pertenezcan o de Guardia Nacional, hasta el grado de Coronel.
+
+III. Fecha de antigüedad en el grado, y
+
+IV. Expresión del arma o servicio a que pertenezcan o de Guardia Nacional, hasta el grado de Coronel.
 Fracción reformada DOF 16-07-2025 En las patentes de Generales procedentes de Servicio, se hará constar el Servicio a que pertenezcan; en las de Generales procedentes de Arma, no se incluirá esta mención. En las de los Generales de la Guardia Nacional, se hará constar esa denominación.
 Párrafo reformado DOF 16-07-2025
 
@@ -318,9 +450,15 @@ Disposiciones generales
 
 ### ARTÍCULO 50
 .- Con el fin de premiar a los militares u organismos del Ejército, Fuerza Aérea o Guardia Nacional, por su heroísmo, capacidad profesional, servicios a la patria y demás hechos meritorios, se establecen las siguientes recompensas:
-Párrafo reformado DOF 16-07-2025 I. Condecoraciones;
+Párrafo reformado DOF 16-07-2025
+
+I. Condecoraciones;
+
 II. Menciones Honoríficas;
-III. Distinciones, y IV. Citaciones.
+
+III. Distinciones, y
+
+IV. Citaciones.
 
 ### ARTÍCULO 51
 .- El otorgamiento de cualquiera de las recompensas establecidas en el artículo anterior, excluye la concesión de otra por el mismo hecho.
@@ -333,17 +471,32 @@ De las Condecoraciones
 
 ### ARTÍCULO 53
 .- Las condecoraciones se otorgarán por el Ejército, Fuerza Aérea o Guardia Nacional y serán las siguientes:
-Párrafo reformado DOF 16-07-2025 I. Valor Heroico;
+Párrafo reformado DOF 16-07-2025
+
+I. Valor Heroico;
+
 II. Mérito Militar;
+
 III. Mérito Técnico;
+
 IV. Mérito Facultativo;
+
 V. Mérito Docente;
+
 VI. Mérito en la Campaña contra el Narcotráfico;
+
 VII. De Perseverancia;
+
 VIII. De Retiro;
+
 IX. De Servicios Distinguidos;
+
 X. De la Legión de Honor;
-Fracción reformada DOF 27-01-2017 XI. Mérito Deportivo, y Fracción reformada DOF 27-01-2017 XII. Distinción Militar.
+Fracción reformada DOF 27-01-2017
+
+XI. Mérito Deportivo, y Fracción reformada DOF 27-01-2017
+
+XII. Distinción Militar.
 Fracción adicionada DOF 27-01-2017 Las condecoraciones a que se refieren las fracciones II, III, IV, V, VI, IX y XII podrán otorgarse a personas que no pertenezcan a las Fuerzas Armadas.
 Párrafo reformado DOF 27-01-2017
 
@@ -352,32 +505,53 @@ Párrafo reformado DOF 27-01-2017
 
 ### ARTÍCULO 55
 .- La Condecoración al mérito militar se otorgará por disposición de la persona titular de la Presidencia de la República, a propuesta de la persona titular de la Secretaría, a militares o civiles, nacionales o extranjeros, y tiene por objeto:
-Párrafo reformado DOF 16-07-2025 I. Premiar a militares mexicanos, por los actos de relevancia excepcional que realicen en beneficio de las Fuerzas Armadas del País, y II. Reconocer a militares extranjeros, así como a civiles, nacionales o extranjeros, por sus actividades o acciones que contribuyan al desarrollo o representen un beneficio al Ejército, Fuerza Aérea o Guardia Nacional.
+Párrafo reformado DOF 16-07-2025
+
+I. Premiar a militares mexicanos, por los actos de relevancia excepcional que realicen en beneficio de las Fuerzas Armadas del País, y
+
+II. Reconocer a militares extranjeros, así como a civiles, nacionales o extranjeros, por sus actividades o acciones que contribuyan al desarrollo o representen un beneficio al Ejército, Fuerza Aérea o Guardia Nacional.
 Fracción reformada DOF 16-07-2025 Esta condecoración será de cuatro grados:
+
 I. Orden, que se otorgará a Mandos Supremos y Altos Mandos o sus equivalentes;
+
 II. Banda, que se otorgará a militares nacionales;
-III. Placa, que se otorgará a militares extranjeros, y IV. Venera, que se otorgará a civiles nacionales o extranjeros.
+
+III. Placa, que se otorgará a militares extranjeros, y
+
+IV. Venera, que se otorgará a civiles nacionales o extranjeros.
 Artículo reformado DOF 27-01-2017
 
 ### ARTÍCULO 56
 .- La Condecoración al Mérito Técnico se concederá por disposición de la persona titular de la Presidencia de la República, a propuesta de la persona titular de la Secretaría, a militares o civiles, nacionales o extranjeros.
 Esta condecoración será de tres clases:
+
 I. La de primera clase, se otorgará a quienes sean autores de un invento de verdadera utilidad para la defensa de la Nación o de positivo beneficio para el Ejército, Fuerza Aérea o Guardia Nacional;
-II. La de segunda clase, se conferirá a quienes inicien reformas o métodos de instrucción o de defensa, que impliquen un progreso real para el Ejército, Fuerza Aérea o Guardia Nacional, y III. La de tercera clase, se otorgará al personal militar o civil, nacional o extranjero que contribuya en los proyectos de edición bibliográfica en beneficio del Ejército, Fuerza Aérea y Guardia Nacional.
+
+II. La de segunda clase, se conferirá a quienes inicien reformas o métodos de instrucción o de defensa, que impliquen un progreso real para el Ejército, Fuerza Aérea o Guardia Nacional, y
+
+III. La de tercera clase, se otorgará al personal militar o civil, nacional o extranjero que contribuya en los proyectos de edición bibliográfica en beneficio del Ejército, Fuerza Aérea y Guardia Nacional.
 Artículo reformado DOF 16-07-2025
 
 ### ARTÍCULO 57
 .- La Condecoración al Mérito Facultativo premiará a los alumnos de las Escuelas Superiores que hayan realizado en forma brillante sus estudios militares, obteniendo en todos los años primeros o segundos premios y será de dos clases:
-I. La de Primera Clase, se concederá a quienes obtengan primeros premios en todos los años, y II. La de Segunda Clase, a quienes obtengan primeros y segundos premios o sólo éstos en todos los años.
+
+I. La de Primera Clase, se concederá a quienes obtengan primeros premios en todos los años, y
+
+II. La de Segunda Clase, a quienes obtengan primeros y segundos premios o sólo éstos en todos los años.
 
 ### ARTÍCULO 58
 .- La Condecoración al Mérito Docente se concederá al personal directivo o docente, de las escuelas militares, después de haber desempeñado sus cargos con distinción y eficiencia por tres años como mínimo, a juicio de la Junta Técnica Consultiva del plantel y con aprobación del Secretario.
 
 ### ARTÍCULO 59
 .- La Condecoración al Mérito en la Campaña contra el Narcotráfico, se otorgará por el Presidente de la República, a propuesta del Secretario, a los militares o civiles que en cumplimiento de su deber, realicen actos de notoria trascendencia en dicha actividad, conforme a los criterios establecidos en el Reglamento de esta Ley y será:
+
 I. En Grado de Orden;
+
 II. De Primera Clase;
-III. De Segunda Clase, y IV. De Tercera Clase.
+
+III. De Segunda Clase, y
+
+IV. De Tercera Clase.
 
 ### ARTÍCULO 60
 .- La condecoración de perseverancia premiará los servicios ininterrumpidos en el activo, a los miembros del Ejército, Fuerza Aérea o Guardia Nacional; para los efectos de este artículo, no se considera como interrupción de servicios, encontrarse el militar gozando de la licencia por edad límite.
@@ -387,11 +561,18 @@ Quienes en términos de esta disposición se hagan acreedores a la Condecoració
 ### ARTÍCULO 61
 .- Para computar los servicios a los que se refiere el artículo anterior, únicamente se tomarán en cuenta los prestados sin abonos de tiempo.
 Se pierde el derecho a la Condecoración de Perseverancia en las clases que corresponda, si durante el lapso para la obtención de la misma, el militar interrumpe sus servicios por alguna de las siguientes causas:
+
 I. Por haber gozado de licencias ordinarias para asuntos ajenos al servicio que en total sumen más de ciento ochenta días, en cada periodo de diez años de servicios;
+
 II. Por gozar o haber gozado de licencia ilimitada o especial;
+
 III. Por gozar o haber gozado de licencia para desempeñar puestos de elección popular;
+
 IV. Por haberse dictado en su contra sentencia condenatoria de carácter penal o haberse retirado la acción penal ya estando sujeto a proceso;
-V. Por haber estado sujeto a proceso en el que se pronuncie sentencia que declare extinguida la acción penal por prescripción o extinguida la pena por el mismo motivo, y VI. Por estar o haber estado en situación de retiro.
+
+V. Por haber estado sujeto a proceso en el que se pronuncie sentencia que declare extinguida la acción penal por prescripción o extinguida la pena por el mismo motivo, y
+
+VI. Por estar o haber estado en situación de retiro.
 
 ### ARTÍCULO 62
 .- La condecoración de retiro se otorgará por la Secretaría al personal del Ejército, Fuerza Aérea o Guardia Nacional, que cumpla más de cuarenta y cinco años de servicios efectivos.
@@ -400,8 +581,11 @@ Artículo reformado DOF 16-07-2025
 
 ### ARTÍCULO 63
 .- La Condecoración de Servicios Distinguidos se concederá por acuerdo del Secretario en los supuestos siguientes:
+
 I. A los militares que en el transcurso de su carrera militar, además de perenne entrega y lealtad a la institución, demuestren sobrado celo, esmero y dedicación en el cumplimiento de su deber.
-Los mandos superiores formularán la propuesta correspondiente, y II. A militares extranjeros, así como a civiles nacionales o extranjeros, para reconocer sus actividades o hechos que sean de interés relevante para el Ejército, Fuerza Aérea o Guardia Nacional.
+Los mandos superiores formularán la propuesta correspondiente, y
+
+II. A militares extranjeros, así como a civiles nacionales o extranjeros, para reconocer sus actividades o hechos que sean de interés relevante para el Ejército, Fuerza Aérea o Guardia Nacional.
 Fracción reformada DOF 16-07-2025 Artículo reformado DOF 27-01-2017
 
 ### ARTÍCULO 64
@@ -588,11 +772,18 @@ En todo caso, al personal a que se refiere esta disposición le serán respetado
 **Cuarto.-** El personal militar que actualmente integra la Guardia Nacional continuará en esa situación bajo el mando de la persona Comandante de dicha institución de seguridad pública.
 **Quinto.-** La Secretaría de Marina transferirá a la Secretaría de la Defensa Nacional los recursos financieros y presupuestarios que correspondan en el presente ejercicio fiscal para cubrir las erogaciones por concepto de servicios personales respecto del personal naval que se transfiera a la Guardia Nacional, conforme a lo señalado en los párrafos primero y segundo del transitorio segundo del presente Decreto.
 **Sexto.-** [La Secretaría de Seguridad y Protección Ciudadana:
+
 I. Coordinará con la Secretaría de la Defensa Nacional la homologación del adiestramiento especializado, considerando la Estrategia Nacional de Seguridad Pública;
+
 II. Transferirá a la Secretaría de la Defensa Nacional, dentro de un plazo de sesenta días naturales, los recursos presupuestarios y financieros que correspondan para cubrir las erogaciones por concepto de servicios personales y gastos de operación de la Guardia Nacional, así como los recursos materiales destinados a su operación, con excepción de aquéllos requeridos para el personal que seguirá bajo la adscripción de la Secretaría de Seguridad y Protección Ciudadana. Asimismo, destinará dichos recursos a la Secretaría de la Defensa Nacional conforme vayan quedando vacantes las plazas;
-III. Dispondrá que el personal procedente de la extinta Policía Federal cese de prestar sus servicios en la Guardia Nacional, por lo que seguirá bajo su adscripción, conservando sus derechos laborales adquiridos. El personal que pertenezca a los organismos especializados de la Guardia Nacional continuará prestando sus servicios en dicha institución de seguridad pública de manera temporal, conforme a los convenios de colaboración que para tal efecto se formalicen entre las Secretarías de Defensa Nacional y del ramo de seguridad pública, y IV. Relevará gradualmente al personal que integra la Coordinación de Administración y Finanzas de la Guardia Nacional, por aquél que proponga la persona Comandante de esa institución. El personal relevado mantendrá su adscripción a la propia dependencia.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y publicada DOF 20-09-2023
+
+III. Dispondrá que el personal procedente de la extinta Policía Federal cese de prestar sus servicios en la Guardia Nacional, por lo que seguirá bajo su adscripción, conservando sus derechos laborales adquiridos. El personal que pertenezca a los organismos especializados de la Guardia Nacional continuará prestando sus servicios en dicha institución de seguridad pública de manera temporal, conforme a los convenios de colaboración que para tal efecto se formalicen entre las Secretarías de Defensa Nacional y del ramo de seguridad pública, y
+
+IV. Relevará gradualmente al personal que integra la Coordinación de Administración y Finanzas de la Guardia Nacional, por aquél que proponga la persona Comandante de esa institución. El personal relevado mantendrá su adscripción a la propia dependencia.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-04-2023 y publicada DOF 20-09-2023
 **Séptimo.-** [La Secretaría de Hacienda y Crédito Público en uso de sus atribuciones:
+
 I. Observará lo señalado en el tercero transitorio del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2022, para dar cumplimiento a lo previsto en el presente Decreto;
+
 II. Realizará las acciones que correspondan para que la Secretaría de la Defensa Nacional cuente con los recursos presupuestarios para cubrir las vacantes a que se refiere la fracción II del artículo sexto transitorio del presente Decreto.
 Conforme el personal naval sea reasignado a la Secretaría de Marina en términos del segundo
 
@@ -622,6 +813,7 @@ Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de 
 SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 137/2022, así como los Votos Particulares de la señora Ministra Yasmín Esquivel Mossa y de los señores Ministros Juan Luis González Alcántara Carrancá y Arturo Zaldívar Lelo de Larrea, y Particulares y Concurrentes de la señora Ministra Loretta Ortiz Ahlf y Alfredo Gutiérrez Ortiz Mena.
 Publicada en el Diario Oficial de la Federación el 20 de septiembre de 2023 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 137/2022 PROMOVENTES: DIVERSAS SENADORAS Y SENADORES INTEGRANTES DEL CONGRESO DE LA UNIÓN VISTO BUENO SR. MINISTRO PONENTE: MINISTRO JUAN LUIS GONZÁLEZ ALCÁNTARA CARRANCÁ COTEJÓ SECRETARIOS: DANIELA CARRASCO BERGE Y FERNANDO SOSA PASTRANA Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en la sesión correspondiente al día veinte de abril de dos mil veintitrés, emite la siguiente:
 SENTENCIA ……..
+
 VIII. EFECTOS 369. De conformidad con los artículos 73 y 41 de la Ley Reglamentaria de las Fracciones I y II del
 
 ### Artículo 105

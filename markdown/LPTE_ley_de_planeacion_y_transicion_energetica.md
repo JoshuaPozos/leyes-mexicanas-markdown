@@ -23,47 +23,107 @@ Tiene por objeto establecer y regular la planeación vinculante en el Sector Ene
 
 ### Artículo 2
 .- La Secretaría de Energía está a cargo de la planeación vinculante en el Sector Energético, que incluye, como parte esencial, el desarrollo de las áreas estratégicas para preservar la soberanía, la seguridad, la autosuficiencia y la Justicia Energética de la Nación; así como la prestación de servicios públicos para garantizar la continuidad, accesibilidad, seguridad y confiabilidad del Sistema Eléctrico Nacional, de acuerdo con los objetivos siguientes:
+
 I. Garantizar que la planeación vinculante permita la prevalencia de la Comisión Federal de Electricidad en las actividades del sector eléctrico, toda vez que esta es la garante de la continuidad, accesibilidad, seguridad y confiabilidad del servicio público de electricidad y del Sistema Eléctrico Nacional;
+
 II. Impulsar el desarrollo sustentable del Sector Energético y preservar la seguridad y autosuficiencia energética de la Nación;
+
 III. Impulsar los proyectos de infraestructura estratégicos necesarios para cumplir con la política energética nacional y su ejecución;
+
 IV. Establecer y regular las obligaciones de los participantes del Sector Energético para la Transición Energética, el Aprovechamiento Sustentable de la Energía, las Energías Limpias y la Eficiencia Energética para el Sector Energético;
+
 V. Establecer y regular los instrumentos de planeación del Sector Energético y de información energética;
+
 VI. Establecer y regular las obligaciones y los instrumentos para incentivar la innovación, desarrollo tecnológico y formación de recursos humanos en el Sector Energético;
+
 VII. Promover las Energías Limpias, el Aprovechamiento Sustentable de la Energía incluyendo la Eficiencia Energética en los sectores productivos y de uso final de la energía, y la reducción de emisiones de gases y compuestos de efecto invernadero, así como de contaminantes del Sector Energético. Para este fin, la Secretaría puede crear mecanismos de financiamiento en programas y proyectos de interés público;
+
 VIII. Promover la Justicia Energética con mecanismos eficientes y sustentables para reducir la Pobreza Energética y dotar de infraestructura a la población para satisfacer las necesidades energéticas básicas entre las que se incluyen el calentamiento de agua, la cocción de alimentos, la refrigeración, la iluminación, entre otros;
+
 IX. Promover la Transición Energética y el Aprovechamiento Sustentable de la Energía entre los sectores económicos del país, manteniendo y promoviendo la competitividad de los sectores productivos en los sectores de consumo final, así como en toda la cadena de producción de energía, incluyendo su transformación;
+
 X. Promover el Aprovechamiento Sustentable de la Energía y de los recursos renovables, la economía circular y el aprovechamiento de los residuos para fines energéticos;
-XI. Establecer los mecanismos de coordinación, supervisión y verificación del cumplimiento de esta Ley y las sanciones correspondientes al incumplimiento de ésta, y XII. Apoyar el cumplimiento de las metas del país con respecto a la generación de electricidad provenientes de fuentes de Energía Limpia y a la reducción de Emisiones de Gases y Compuestos de Efecto Invernadero.
+
+XI. Establecer los mecanismos de coordinación, supervisión y verificación del cumplimiento de esta Ley y las sanciones correspondientes al incumplimiento de ésta, y
+
+XII. Apoyar el cumplimiento de las metas del país con respecto a la generación de electricidad provenientes de fuentes de Energía Limpia y a la reducción de Emisiones de Gases y Compuestos de Efecto Invernadero.
 
 ### Artículo 3
 .- Para efectos de la interpretación y aplicación de la presente Ley, se deben entender los conceptos y las definiciones, en singular o plural, previstas en la Ley del Sector Eléctrico, la Ley del Sector Hidrocarburos, la Ley de Biocombustibles, la Ley de Geotermia y en las siguientes definiciones:
+
 I. Aprovechamiento Sustentable de la Energía: El uso óptimo de la energía y que contribuya a la conservación de los recursos energéticos y del medio ambiente en todos los procesos y actividades para su exploración, extracción, explotación, producción, transformación, acondicionamiento, distribución, almacenamiento y consumo, e incluye la Eficiencia Energética como uno de los principales mecanismos para lograrlo;
+
 II. Cogeneración: Generación de energía eléctrica producida de manera conjunta con vapor u otro tipo de energía térmica secundaria útil o ambos; producción directa o indirecta de energía eléctrica mediante la energía térmica no aprovechada en los procesos, o generación directa o indirecta de energía eléctrica cuando se utilicen combustibles producidos en los procesos industriales;
+
 III. Cogeneración Eficiente: La energía generada por centrales de Cogeneración, en términos de los criterios generales emitidos por la Secretaría, los criterios técnicos y metodologías emitidos por la Comisión Nacional de Energía y las metodologías de Emisiones establecidas por la Secretaría de Medio Ambiente y Recursos Naturales;
+
 IV. Consejo: Consejo de Planeación Energética;
+
 V. Contaminantes: Los referidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley General de Cambio Climático;
+
 VI. CONUEE: Comisión Nacional para el Uso Eficiente de la Energía;
+
 VII. Eficiencia Energética: Todas las acciones que conlleven a una reducción, económicamente viable, de la cantidad de energía que se requiere para satisfacer las necesidades energéticas de los servicios y bienes que demanda la sociedad, asegurando un nivel de servicio igual o superior;
+
 VIII. Emisiones: Liberación de Gases de Efecto Invernadero o sus precursores y aerosoles a la atmósfera, incluyendo en su caso compuestos de efecto invernadero, en una zona y un periodo de tiempo específicos;
+
 IX. Energías Limpias: Son aquellas fuentes de energía y procesos de generación de energía de bajas emisiones, incluidos los definidos como tales en la Ley del Sector Eléctrico;
-X. Energías Renovables: Aquellas cuya fuente reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable que se regeneran naturalmente o con capacidad de regeneración a escala del tiempo del ser humano. Se consideran fuentes de Energías Renovables las que se enumeran a continuación: a) El viento tanto en zonas terrestres como marinas; b) La radiación solar, en todas sus formas; c) El movimiento del agua en cauces naturales o en aquellos artificiales con embalses ya existentes; d) La energía oceánica en sus distintas formas, como los provenientes de las mareas, del gradiente térmico marino, de las corrientes marinas superficiales o submarinas, de olas, del gradiente de concentración de sal y cualquier otra forma de energía aprovechable del mar; e) La energía que se obtiene mediante el aprovechamiento del calor interno de la tierra, y f) Los energéticos que determine la Ley de Biocombustibles;
+
+X. Energías Renovables: Aquellas cuya fuente reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable que se regeneran naturalmente o con capacidad de regeneración a escala del tiempo del ser humano. Se consideran fuentes de Energías Renovables las que se enumeran a continuación:
+
+a) El viento tanto en zonas terrestres como marinas;
+
+b) La radiación solar, en todas sus formas;
+
+c) El movimiento del agua en cauces naturales o en aquellos artificiales con embalses ya existentes;
+
+d) La energía oceánica en sus distintas formas, como los provenientes de las mareas, del gradiente térmico marino, de las corrientes marinas superficiales o submarinas, de olas, del gradiente de concentración de sal y cualquier otra forma de energía aprovechable del mar;
+
+e) La energía que se obtiene mediante el aprovechamiento del calor interno de la tierra, y
+
+f) Los energéticos que determine la Ley de Biocombustibles;
+
 XI. Energías Fósiles: Aquellas que provienen de la combustión de materiales y sustancias en estado sólido, líquido o gaseoso que contienen carbono, y cuya formación ocurrió a través de procesos geológicos o fueron obtenidos a partir de estas;
+
 XII. Estrategia: Estrategia Nacional de Transición Energética;
+
 XIII. Externalidades: Los impactos positivos o negativos que genera la provisión de un bien o servicio y que afectan o que pudieran afectar a una tercera persona. Las Externalidades ocurren cuando el costo pagado por un bien o servicio es diferente del costo total de los daños y beneficios en términos económicos, sociales, ambientales y a la salud, que involucran su producción y consumo;
-XIV. Generación Limpia Distribuida: Generación de energía eléctrica que, en los términos de la Ley del Sector Eléctrico, cumple con las siguientes características: a) Se realiza por un generador exento de permiso; b) Se realiza en una Central Eléctrica que se encuentra interconectada a un circuito de distribución que contenga una alta concentración de Centros de Carga, en los términos de las Reglas del Mercado, y c) Se realiza a partir de Energías Limpias.
+
+XIV. Generación Limpia Distribuida: Generación de energía eléctrica que, en los términos de la Ley del Sector Eléctrico, cumple con las siguientes características:
+
+a) Se realiza por un generador exento de permiso;
+
+b) Se realiza en una Central Eléctrica que se encuentra interconectada a un circuito de distribución que contenga una alta concentración de Centros de Carga, en los términos de las Reglas del Mercado, y
+
+c) Se realiza a partir de Energías Limpias.
+
 XV. Hidrógeno Renovable: Aquel producido mediante el uso de energía renovable o electricidad producida con fuentes renovables;
+
 XVI. Justicia Energética: Acciones o Estrategias encaminadas a reducir la Pobreza Energética, las desigualdades sociales y de género en el uso de la energía e impulsar el desarrollo regional y la prosperidad compartida mediante el acceso a energía e infraestructura energética confiable, asequible, segura y limpia para la atención de necesidades básicas, la reducción de impactos en la salud y el medio ambiente. Incluye también la ampliación de espacios de participación inclusiva, principalmente de los pueblos originarios, en las cadenas productivas locales de los proyectos energéticos;
+
 XVII. Ley: Ley de Planeación y Transición Energética;
+
 XVIII. PLADESE: El Plan de Desarrollo del Sector Eléctrico;
+
 XIX. PLADESHi: El Plan de Desarrollo del Sector Hidrocarburos;
+
 XX. PLATEASE: Plan para la Transición Energética y el Aprovechamiento Sustentable de la Energía;
+
 XXI. Pobreza Energética: Situación que ocurre cuando en una vivienda no se alcanza a satisfacer una o más necesidades energéticas básicas, como son el calentamiento de agua, cocción y conservación de alimentos e iluminación, debido a sus condiciones de ingresos y carencias sociales;
+
 XXII. Reglamento: Reglamento de la Ley de Planeación y Transición Energética;
+
 XXIII. Sector Energético: Se refiere a las actividades en materia de electricidad e hidrocarburos reguladas en la Ley del Sector Eléctrico y la Ley del Sector Hidrocarburos respectivamente, así como aquellas establecidas en la Ley de Biocombustibles y de la Ley de Geotermia, y cualquier otra que correspondan a la Secretaría y sus organismos sectorizados, de acuerdo con la Ley Orgánica de la Administración Pública Federal;
+
 XXIV. Secretaría: Secretaría de Energía;
+
 XXV. Sistema Nacional de Información Energética: Sistema integrado de información energética que administra la información de la Secretaría y sus organismos sectorizados;
+
 XXVI. Tecnologías Limpias: Almacenamiento eléctrico, Hidrógeno, Rebombeo, Captura y almacenamiento de dióxido de carbono y las usadas para generar Energía limpia y las que determine la Secretaría;
-XXVII. Transición Energética: Modificación del sistema energético que consiste en la migración de un sistema basado en Energías Fósiles hacia uno sustentado preponderantemente en Energías Renovables y de bajas Emisiones, y XXVIII. Usuario de Patrón de Alto Consumo: Persona física o moral que cumpla con los criterios que establezca la CONUEE con relación a su nivel de consumo de energía.
+
+XXVII. Transición Energética: Modificación del sistema energético que consiste en la migración de un sistema basado en Energías Fósiles hacia uno sustentado preponderantemente en Energías Renovables y de bajas Emisiones, y
+
+XXVIII. Usuario de Patrón de Alto Consumo: Persona física o moral que cumpla con los criterios que establezca la CONUEE con relación a su nivel de consumo de energía.
 
 ### Artículo 4
 .- La interpretación de esta Ley, para efectos administrativos, corresponde a la Secretaría.
@@ -84,42 +144,86 @@ De las Autoridades y Organismos
 
 ### Artículo 8
 .- Para efectos de esta Ley, corresponde a la Secretaría:
+
 I. Elaborar y publicar la Estrategia, el Programa Sectorial de Energía, el PLATEASE, el PLADESE, el PLADESHi y coordinar su ejecución, así como vigilar el cumplimiento de dichos instrumentos;
+
 II. Promover el cumplimiento de todas las metas de la Estrategia mediante la formulación y aplicación de instrumentos de política pública y la coordinación con las dependencias de la Administración Pública Federal, gobiernos locales y otras instancias relevantes, públicas o privadas;
+
 III. Elaborar y publicar por medios electrónicos el reporte de avance en el cumplimiento de las metas establecidas en la Estrategia. Los requisitos para el cumplimiento de esta fracción se deben establecer en el Reglamento de la presente Ley;
+
 IV. Promover el cumplimiento de los compromisos internacionales que México haya adquirido y cuyo cumplimiento esté relacionado directamente con esta Ley y las metas de la Estrategia, en condiciones de viabilidad económica y sin menoscabo de la competitividad;
-V. Elaborar y actualizar el Atlas Nacional de Zonas con potencial de Energías Renovables, que debe incluir, al menos el contenido actualizado y verificable siguiente: a) Las zonas del país que tengan potencial de Energías Renovables, y b) Las variables geográficas relevantes para el desarrollo de Energías Renovables. Para desarrollar esta información, se cuenta con la colaboración del Servicio Meteorológico Nacional, del Instituto Nacional de Estadística y Geografía, las Empresas Públicas del Estado, la Comisión Nacional del Agua, entre otras;
+
+V. Elaborar y actualizar el Atlas Nacional de Zonas con potencial de Energías Renovables, que debe incluir, al menos el contenido actualizado y verificable siguiente:
+
+a) Las zonas del país que tengan potencial de Energías Renovables, y
+
+b) Las variables geográficas relevantes para el desarrollo de Energías Renovables. Para desarrollar esta información, se cuenta con la colaboración del Servicio Meteorológico Nacional, del Instituto Nacional de Estadística y Geografía, las Empresas Públicas del Estado, la Comisión Nacional del Agua, entre otras;
+
 VI. Suscribir convenios y acuerdos de coordinación con los gobiernos de las entidades federativas y, en su caso, de los municipios, en el ámbito de sus respectivas competencias en las materias de esta Ley;
+
 VII. Coordinar a sus organismos sectorizados para, entre otros, asesorar y apoyar técnicamente a las entidades federativas y municipios que lo soliciten en el diseño e implementación de proyectos, programas o reglamentaciones técnicas locales relacionadas con la Eficiencia Energética, Aprovechamiento Sustentable de la Energía, almacenamiento de energía, reducción de Emisiones y Energías Limpias;
+
 VIII. Planear la construcción de las obras de infraestructura del Sector Energético que faciliten el desarrollo de proyectos para la Transición Energética y la Generación Limpia Distribuida en condiciones de viabilidad económica y que fomenten el desarrollo social;
+
 IX. Asegurar la congruencia e integralidad entre los instrumentos de planeación vinculante del Sector Energético;
+
 X. Desarrollar el PLATEASE para el cumplimiento de las metas de la Estrategia y el Programa Sectorial de Energía. La Secretaría puede solicitar a la CONUEE, la Comisión Nacional de Energía y sus organismos sectorizados, apoyo técnico para la determinación de las metas;
+
 XI. Implementar y administrar el Sistema Nacional de Información Energética con el apoyo del Consejo de Planeación Energética;
+
 XII. Solicitar información a las dependencias de la Administración Pública Federal, Empresas Públicas del Estado, gobiernos locales y otros organismos públicos o privados, así como a particulares, de acuerdo con lo establecido en la regulación que, para tal efecto, se emita en el marco del Sistema Nacional de Información Energética;
+
 XIII. Imponer sanciones por el incumplimiento en la entrega de información para el Sistema Nacional de Información Energética;
+
 XIV. Administrar los fondos y fideicomisos constituidos por el Gobierno Federal para el cumplimiento de la Ley, en términos del presente ordenamiento y su Reglamento;
+
 XV. Coordinar en las materias de su competencia la simplificación administrativa con dependencias federales;
+
 XVI. Formular y emitir, en coordinación con Secretaría de Medio Ambiente y Recursos Naturales, las metodologías para la cuantificación de las Emisiones por la explotación, producción, transformación, distribución y elaboración de productos intensivos en consumo de energía, así como las Emisiones evitadas debido a la incorporación de acciones para la transición energética y el Aprovechamiento Sustentable de la Energía;
+
 XVII. Elaborar, en coordinación con la Secretaría de Hacienda y Crédito Público, la Secretaría de Salud, la Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Economía y la Comisión Nacional de Energía, una metodología para valorar las Externalidades;
+
 XVIII. Proponer a la Secretaría de Hacienda y Crédito Público, mecanismos de apoyo o estímulos fiscales o financieros, que permitan promover inversiones, acciones, programas o proyectos en materia de Eficiencia Energética, integración de sistemas de Energía limpia, Justicia Energética y combate a la Pobreza Energética, innovación y desarrollo tecnológico, formación de recursos humanos y reducción de Emisiones del Sector Energético. Para el cumplimiento de esta obligación la Secretaría puede solicitar el apoyo técnico de sus organismos sectorizados;
+
 XIX. Implementar y promover las mejores prácticas internacionales en la planeación, diseño y ejecución de programas y proyectos de Transición Energética y Aprovechamiento Sustentable de la Energía;
+
 XX. Emitir Normas Oficiales Mexicanas en las materias objeto de esta Ley por si o a través de sus organismos sectorizados;
+
 XXI. Promover la investigación científica, el desarrollo tecnológico y la formación de recursos humanos especializados en el Sector Energético;
+
 XXII. Elaborar por sí misma o mediante sus organismos sectorizados los estudios e investigaciones para la planeación del Sector Energético;
-XXIII. Solicitar a los organismos sectorizados apoyo técnico para la determinación de las metas de la Estrategia y la información que requiera para la planeación del Sector Energético, y XXIV. Vigilar y supervisar el cumplimiento de la presente Ley y las demás disposiciones que emanen de esta e imponer sanciones derivadas de su incumplimiento.
+
+XXIII. Solicitar a los organismos sectorizados apoyo técnico para la determinación de las metas de la Estrategia y la información que requiera para la planeación del Sector Energético, y
+
+XXIV. Vigilar y supervisar el cumplimiento de la presente Ley y las demás disposiciones que emanen de esta e imponer sanciones derivadas de su incumplimiento.
 
 ### Artículo 9
 .- Corresponde a la Secretaría de Medio Ambiente y Recursos Naturales:
+
 I. Diseñar y aplicar, en el ámbito de su competencia y en coordinación con la Secretaría, los instrumentos de fomento y de normatividad para prevenir, controlar y remediar la contaminación proveniente de la generación y transmisión de energía eléctrica y de combustibles en lo referente a Emisiones de Contaminantes a la atmósfera, incluidos los gases y compuestos de efecto invernadero y residuos, en los términos definidos en este ordenamiento;
-II. Realizar y coordinar estudios e investigaciones, en coordinación con la Secretaría, para: a) Determinar las causas y efectos de los problemas ambientales generados por el Sector Energético y actividades extractivas asociadas, respecto al aprovechamiento racional y sustentable de los recursos naturales no renovables, y b) Determinar las mejores prácticas para la prevención y control de la contaminación que pudiera generar el Sector de Energético;
+
+II. Realizar y coordinar estudios e investigaciones, en coordinación con la Secretaría, para:
+
+a) Determinar las causas y efectos de los problemas ambientales generados por el Sector Energético y actividades extractivas asociadas, respecto al aprovechamiento racional y sustentable de los recursos naturales no renovables, y
+
+b) Determinar las mejores prácticas para la prevención y control de la contaminación que pudiera generar el Sector de Energético;
+
 III. Colaborar y coordinarse con la Secretaría para asegurar el intercambio de información y la congruencia de las autorizaciones de estas autoridades para el desarrollo de proyectos del Sector Energético, particularmente en las materias de evaluación de impacto ambiental, impacto social y manejo de residuos;
+
 IV. Colaborar y coordinarse con la Secretaría para asegurar el intercambio de información para la simplificación administrativa;
+
 V. Elaborar estudios de evaluación ambiental estratégica de carácter regional para promover la instalación de proyectos de Energías Limpias.
 Para el cumplimiento de lo establecido en esta fracción, la Secretaría de Medio Ambiente y Recursos Naturales puede apoyarse de instituciones públicas, privadas, académicas, del sector social y de la cooperación internacional;
+
 VI. Compartir los resultados de los estudios de evaluación ambiental estratégica con la Secretaría para que se integre en la planeación del Sector Energético y desarrollar mecanismos para la promoción y simplificación de la evaluación de impacto ambiental de los proyectos de Energías Limpias en las regiones que determine, en coordinación con la Secretaría;
+
 VII. En coordinación con la Secretaría, actualizar la línea base de Emisiones de bióxido de carbono equivalente del Sector Energético en su conjunto y proyectar la disminución esperada en las Emisiones de gases y compuestos de efecto invernadero en concordancia con el cumplimiento de las metas de Energías Limpias y con el cumplimiento de su contribución a las metas establecidas en la Ley General de Cambio Climático;
+
 VIII. Publicar, en conjunto con la Secretaría un informe de las Emisiones de gases y compuestos de efecto invernadero y del resto de los Contaminantes atmosféricos regulados que tenga cada instalación del Sector Energético y que tenga una emisión mayor o igual al umbral que derive de la Ley General de Cambio Climático en materia de Registro Nacional de Emisiones, para la publicación de los instrumentos de planeación;
-IX. Proporcionar a la Secretaría la información sobre consumo final de la energía y las Emisiones Contaminantes de los sectores energético, industrial y de consumo final, y X. Colaborar y coordinarse con la Secretaría en la vigilancia del cumplimiento en materia de Emisiones y Eficiencia Energética vinculadas al Sector Energético.
+
+IX. Proporcionar a la Secretaría la información sobre consumo final de la energía y las Emisiones Contaminantes de los sectores energético, industrial y de consumo final, y
+
+X. Colaborar y coordinarse con la Secretaría en la vigilancia del cumplimiento en materia de Emisiones y Eficiencia Energética vinculadas al Sector Energético.
 
 ### Artículo 10
 .- La CONUEE es un órgano administrativo desconcentrado de la Secretaría que cuenta con autonomía técnica y operativa. Tiene por objeto promover la Eficiencia Energética y constituirse como órgano de carácter técnico en materia de Aprovechamiento Sustentable de la Energía.
@@ -127,46 +231,82 @@ La CONUEE tiene una Dirección General, cuya persona titular debe ser designada 
 
 ### Artículo 11
 .- Corresponde a la CONUEE:
+
 I. Promover el uso óptimo de la energía, desde su explotación hasta su uso final;
+
 II. Brindar apoyo técnico a la Secretaría, en el ámbito de su competencia, en la determinación de las metas de la Estrategia y los demás instrumentos de planeación, así como los mecanismos para su cumplimiento;
+
 III. Colaborar con la Secretaría para la elaboración del PLATEASE y la Estrategia en las materias de su competencia;
+
 IV. Proponer a la Secretaría las metodologías y procedimientos para cuantificar los beneficios energéticos y económicos que se deriven de las acciones y programas de Eficiencia Energética;
+
 V. Expedir y verificar disposiciones administrativas de carácter general en materia de Eficiencia Energética y de las actividades que incluyen el Aprovechamiento Sustentable de la Energía, de conformidad con las disposiciones aplicables y con la aprobación de la Secretaría;
+
 VI. Expedir, con la aprobación de la Secretaría, las Normas Oficiales Mexicanas en materia de Eficiencia Energética;
+
 VII. Proponer a las dependencias la elaboración o revisión de las Normas Oficiales Mexicanas a fin de propiciar la Eficiencia Energética;
+
 VIII. Promover, en conjunto con la Secretaría, la investigación científica y el desarrollo tecnológico en la materia de Aprovechamiento Sustentable de la Energía, en coordinación con el Instituto Nacional de Energías Limpias, el Instituto Mexicano del Petróleo y el Instituto Nacional de Ecología y Cambio Climático, en el ámbito de sus respectivas competencias;
+
 IX. Brindar asesoría técnica para la instrumentación y operación de programas y acciones de Eficiencia Energética en las entidades de la Administración Pública Federal y Empresas Públicas del Estado, así como asistir a la Secretaría para la supervisión del cumplimiento de las acciones de Eficiencia Energética;
+
 X. Suscribir convenios para brindar asesoría y apoyo técnico a las entidades federativas y municipios que lo soliciten, para el diseño e implementación de proyectos, programas o reglamentaciones técnicas locales relacionadas con la Eficiencia Energética y el Aprovechamiento Sustentable de la Energía;
+
 XI. Emitir opiniones vinculatorias para las dependencias y entidades de la Administración Pública Federal, Empresas Públicas del Estado, y para estados y municipios en programas, proyectos y actividades de Aprovechamiento Sustentable de la Energía que utilicen fondos públicos federales;
+
 XII. Elaborar, publicar y difundir libros, catálogos, manuales, artículos, informes técnicos y material audio visual sobre los trabajos que realice en las materias de su competencia;
+
 XIII. Ordenar y ejecutar verificaciones, físicas o remotas, y requerir la presentación de información a las personas físicas o morales del sector público o privado que realicen actividades relativas al Aprovechamiento Sustentable de la Energía, a fin de supervisar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones aplicables;
+
 XIV. Llevar a cabo los estudios que requiera para conocer elementos tecnológicos y prácticas que determinan patrones e intensidad de consumo de energía por uso final y otros segmentos de consumo, tipo de usuario, actividad económica y región del país;
+
 XV. Promover y concertar, con los Usuarios de Patrón de Alto Consumo de energía, la instrumentación obligatoria de sistemas de gestión energética de acuerdo con las disposiciones que para tal efecto emita;
+
 XVI. Promover la creación y fortalecimiento de capacidades de las instituciones públicas y privadas para que apoyen y, en su caso, implementen programas y proyectos de Eficiencia Energética y Aprovechamiento Sustentable de la Energía;
+
 XVII. Proponer a la Secretaría los criterios para determinar que una persona usuaria cuenta con un patrón de alto consumo de energía;
-XVIII. Identificar e implementar las mejores prácticas internacionales en cuanto a programas y proyectos de Eficiencia Energética y Aprovechamiento Sustentable de la Energía, y XIX. Vigilar e imponer sanciones por el incumplimiento de la presente Ley, en el ámbito de sus atribuciones.
+
+XVIII. Identificar e implementar las mejores prácticas internacionales en cuanto a programas y proyectos de Eficiencia Energética y Aprovechamiento Sustentable de la Energía, y
+
+XIX. Vigilar e imponer sanciones por el incumplimiento de la presente Ley, en el ámbito de sus atribuciones.
 
 ### Artículo 12
 .- El Instituto Nacional de Electricidad y Energías Limpias es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica, patrimonio propio y autonomía de gestión, sectorizado en la Secretaría, de conformidad con las disposiciones aplicables de la Ley Federal de Entidades Paraestatales.
 
 ### Artículo 13
 .- El Instituto Nacional de Electricidad y Energías Limpias tiene por objeto:
+
 I. Coordinar y realizar estudios y proyectos de investigación científica o tecnológica con instituciones académicas, de investigación, públicas o privadas, nacionales o extranjeras en materia de energía, energía eléctrica, Energías y Tecnologías Limpias, Energías Renovables, Eficiencia Energética, reducción de Emisiones Contaminantes generadas en el Sector Energético, sustentabilidad, sistemas de transmisión, distribución y almacenamiento de energía, y sistemas asociados con la operación del Sistema Eléctrico Nacional;
+
 II. Brindar insumos técnicos y científicos a la Secretaría en la materia de su competencia para la planeación y la formulación de políticas;
-III. Brindar servicios técnicos y científicos, en las materias de su competencia, a las dependencias, organismos y Empresas Públicas del Estado y al sector privado, y IV. Las demás que le señale su regulación orgánica.
+
+III. Brindar servicios técnicos y científicos, en las materias de su competencia, a las dependencias, organismos y Empresas Públicas del Estado y al sector privado, y
+
+IV. Las demás que le señale su regulación orgánica.
 
 ### Artículo 14
 .- Para efectos de esta Ley, corresponde a la Comisión Nacional de Energía:
+
 I. Coadyuvar a la identificación de las zonas de mayor potencial de Energías Limpias;
+
 II. Expedir los modelos de contrato de interconexión y de contraprestación para la Generación Limpia Distribuida;
+
 III. Elaborar y publicar anualmente, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, el factor de emisión del Sistema Eléctrico Nacional;
+
 IV. Brindar apoyo técnico a la Secretaría para la determinación de las metas que se deben establecer en los instrumentos de planeación;
-V. Proporcionar a la Secretaría la información que ésta le solicite para la planeación del Sector Energético, y VI. Vigilar e imponer sanciones por el incumplimiento de la presente Ley, en el ámbito de sus atribuciones.
+
+V. Proporcionar a la Secretaría la información que ésta le solicite para la planeación del Sector Energético, y
+
+VI. Vigilar e imponer sanciones por el incumplimiento de la presente Ley, en el ámbito de sus atribuciones.
 
 ### Artículo 15
 .- Corresponde al Centro Nacional de Control de Energía:
+
 I. Administrar el acceso a la Red Nacional de Transmisión y las Redes Generales de Distribución de las Centrales Eléctricas, incluyendo las Energías Limpias, acorde a la planeación del sector y dando prioridad a la Confiabilidad del Sistema Eléctrico Nacional. Debe tomar en consideración las acciones en materia de almacenamiento de energía incluidas en el PLATEASE;
-II. Incluir en los programas de ampliación y modernización para la Red Nacional de Transmisión que proponga a la Secretaría, la expansión y equipamiento necesario para el aprovechamiento de los recursos ubicados en las zonas con potencial de Energías Renovables, acorde a la planeación del Sector Energético, promoviendo el cumplimiento de las metas de la Estrategia en condiciones de viabilidad económica, y III. Proporcionar a la Secretaría la información que ésta le solicite para la elaboración del PLADESE.
+
+II. Incluir en los programas de ampliación y modernización para la Red Nacional de Transmisión que proponga a la Secretaría, la expansión y equipamiento necesario para el aprovechamiento de los recursos ubicados en las zonas con potencial de Energías Renovables, acorde a la planeación del Sector Energético, promoviendo el cumplimiento de las metas de la Estrategia en condiciones de viabilidad económica, y
+
+III. Proporcionar a la Secretaría la información que ésta le solicite para la elaboración del PLADESE.
 
 ## Capítulo II
 Del Consejo de Planeación Energética
@@ -177,8 +317,12 @@ La Secretaría debe emitir los lineamientos de operación del Consejo.
 
 ### Artículo 17
 .- El Consejo debe ser presidido por la persona titular de la Secretaría y se integra por:
+
 I. Una persona secretaria técnica;
-II. Las personas titulares de las Subsecretarías de la Secretaría, y III. Una persona representante de cada organismo sectorizado: Petróleos Mexicanos, Comisión Federal de Electricidad, Centro Nacional de Control del Gas Natural, Centro Nacional de Control de Energía, Comisión Nacional de Energía, CONUEE y LitioMX.
+
+II. Las personas titulares de las Subsecretarías de la Secretaría, y
+
+III. Una persona representante de cada organismo sectorizado: Petróleos Mexicanos, Comisión Federal de Electricidad, Centro Nacional de Control del Gas Natural, Centro Nacional de Control de Energía, Comisión Nacional de Energía, CONUEE y LitioMX.
 Además, puede haber personas invitadas representantes: Secretaría de Hacienda y Crédito Público; Secretaría de Medio Ambiente y Recursos Naturales; Secretaría de Economía; Secretaría de Desarrollo Agrario, Territorial y Urbano; Secretaría de Agricultura y Desarrollo Rural; Secretaría de Infraestructura, Comunicaciones y Transportes;
 Secretaría de Ciencia, Humanidades, Tecnología e Innovación; Secretaría de Bienestar; Instituto Nacional de Estadística y Geografía, y de otras instancias públicas o privadas que sean invitadas por la Presidencia del Consejo a través de la persona titular de la Secretaría Técnica.
 Las personas invitadas pueden participar con voz, pero sin voto.
@@ -191,18 +335,46 @@ Las personas invitadas pueden participar con voz, pero sin voto.
 
 ### Artículo 20
 .- El Consejo tiene las atribuciones siguientes.
-I. En materia de planeación: a) Coordinar y dar seguimiento a la planeación energética nacional; b) Opinar sobre la política energética, programas y acciones para dar cumplimiento a la planeación energética establecida en los instrumentos de planeación de esta Ley; c) Proponer adecuaciones y mejoras a los documentos de planeación energética para asegurar una mayor coordinación y seguimiento; d) Vigilar y dar seguimiento a la ejecución de los instrumentos de planeación de esta Ley y sus metas; e) Conformar comités dentro del Consejo que se consideren necesarios para coadyuvar a la coordinación y seguimiento de la planeación energética nacional, y f) Proponer a la Secretaría programas y proyectos de Transición Energética para la planeación del Sector Energético;
-II. En materia de información energética: a) Coordinar y dar seguimiento a las acciones que se determinen para la mejora y acceso de la información para la elaboración de la planeación energética nacional, el Balance Nacional de Energía y el Sistema Nacional de Información Energética; b) Conformar comités que se consideren necesarios que ayuden a la coordinación y seguimiento de la mejora y acceso de la información para la elaboración de la planeación energética nacional; c) Emitir recomendaciones para el mejoramiento y acceso de la información para la planeación energética nacional, y d) La persona secretaria técnica debe elaborar un reporte anual de mejora y acceso de la información para la planeación energética nacional, donde se presentan avances y áreas de oportunidad.
+
+I. En materia de planeación:
+
+a) Coordinar y dar seguimiento a la planeación energética nacional;
+
+b) Opinar sobre la política energética, programas y acciones para dar cumplimiento a la planeación energética establecida en los instrumentos de planeación de esta Ley;
+
+c) Proponer adecuaciones y mejoras a los documentos de planeación energética para asegurar una mayor coordinación y seguimiento;
+
+d) Vigilar y dar seguimiento a la ejecución de los instrumentos de planeación de esta Ley y sus metas;
+
+e) Conformar comités dentro del Consejo que se consideren necesarios para coadyuvar a la coordinación y seguimiento de la planeación energética nacional, y
+
+f) Proponer a la Secretaría programas y proyectos de Transición Energética para la planeación del Sector Energético;
+
+II. En materia de información energética:
+
+a) Coordinar y dar seguimiento a las acciones que se determinen para la mejora y acceso de la información para la elaboración de la planeación energética nacional, el Balance Nacional de Energía y el Sistema Nacional de Información Energética;
+
+b) Conformar comités que se consideren necesarios que ayuden a la coordinación y seguimiento de la mejora y acceso de la información para la elaboración de la planeación energética nacional;
+
+c) Emitir recomendaciones para el mejoramiento y acceso de la información para la planeación energética nacional, y
+
+d) La persona secretaria técnica debe elaborar un reporte anual de mejora y acceso de la información para la planeación energética nacional, donde se presentan avances y áreas de oportunidad.
 
 ## Capítulo III
 De los Instrumentos de Planeación Energética
 
 ### Artículo 21
 .- Son instrumentos de planeación del Sector Energético los siguientes:
+
 I. La Estrategia;
+
 II. Programa Sectorial de Energía;
+
 III. El PLATEASE;
-IV. El PLADESE, y V. El PLADESHi.
+
+IV. El PLADESE, y
+
+V. El PLADESHi.
 La Secretaría debe elaborarlos y publicarlos en términos de la Ley de Planeación y conforme se establezca en el Reglamento.
 
 ### Artículo 22
@@ -214,10 +386,16 @@ La Secretaría de Hacienda y Crédito Público debe consultar con la Secretaría
 
 ### Artículo 24
 .- La Estrategia constituye el instrumento rector de la política nacional en el mediano y largo plazo en materia de Transición Energética, Aprovechamiento Sustentable de la Energía, Eficiencia Energética, Energías Limpias, Justicia Energética, innovación, desarrollo tecnológico y formación de recursos humanos del sector energético. Los elementos mínimos que debe establecer son:
+
 I. Un diagnóstico del Sector Energético;
+
 II. Metas;
+
 III. Escenarios de mediano y largo plazo;
-IV. Responsabilidades para el cumplimiento de metas, y V. Líneas de acción estratégicas.
+
+IV. Responsabilidades para el cumplimiento de metas, y
+
+V. Líneas de acción estratégicas.
 La Estrategia se debe publicar en el Diario Oficial de la Federación dentro del primer año de la Administración Presidencial y debe actualizarse cada tres años, particularmente en el componente de mediano plazo, para asegurar la coherencia e integralidad de los planes de Desarrollo del Sector Eléctrico y del Sector Hidrocarburos.
 El diagnóstico del Sector Energético a que se refiere la fracción I de este artículo debe incluir, al menos, la producción y el consumo final de la energía y sus Emisiones.
 
@@ -236,15 +414,26 @@ La Estrategia debe incluir, al menos, las metas de Energías Renovables y demás
 
 ### Artículo 29
 .- El PLATEASE se actualiza anualmente y cuenta con los siguientes elementos:
+
 I. Las metas de Energías Renovables y demás Energías Limpias, Eficiencia Energética y reducción de la Pobreza Energética, y las demás señaladas en la Estrategia, que correspondan al período de encargo del Ejecutivo Federal;
+
 II. Las acciones, proyectos y actividades conforme a la Estrategia para alcanzar sus metas en condiciones de viabilidad económica y social, así como el detalle de su instrumentación;
+
 III. Los programas que, a través de las dependencias y entidades de la Administración Pública Federal, puedan fomentar el Aprovechamiento Sustentable de la Energía;
+
 IV. Las acciones de Transición Energética, Aprovechamiento Sustentable de la Energía, Eficiencia Energética, mejoramiento de combustibles para el uso de la energía en todos los sectores, sustitución de combustibles fósiles y la electromovilidad social y particular;
+
 V. Las acciones en materia de investigación, desarrollo tecnológico, innovación y formación de recursos humanos en áreas prioritarias en materia de Energías Renovables y demás Energías Limpias, Aprovechamiento Sustentable de la Energía, Eficiencia Energética y reducción de la Pobreza Energética;
+
 VI. Acciones y proyectos en materia de redes inteligentes, almacenamiento de energía, biocombustibles e hidrógeno renovable;
+
 VII. Acciones en materia de reducción de fugas y de venteo de metano y el aprovechamiento energético de su captura;
+
 VIII. Acciones y programas para desarrollar la exploración y explotación de áreas geotérmicas y otras medidas para impulsar el desarrollo de largo plazo de la energía geotérmica;
-IX. Acciones de mejora y actualización de las normas de Eficiencia Energética y etiquetado de Eficiencia Energética adherido a los productos o empaques de estos, y X. Otras acciones y programas para promover la sostenibilidad del Sector Energético.
+
+IX. Acciones de mejora y actualización de las normas de Eficiencia Energética y etiquetado de Eficiencia Energética adherido a los productos o empaques de estos, y
+
+X. Otras acciones y programas para promover la sostenibilidad del Sector Energético.
 
 ### Artículo 30
 .- El PLATEASE debe identificar, evaluar, diseñar, innovar, establecer e instrumentar estrategias, acciones y proyectos en materia de redes eléctricas inteligentes y almacenamiento de energía.
@@ -252,24 +441,40 @@ IX. Acciones de mejora y actualización de las normas de Eficiencia Energética 
 ### Artículo 31
 .- El PLADESHi es el documento del desarrollo y modernización de la infraestructura del Sector Hidrocarburos con un horizonte de 15 años, que es elaborado y publicado por la Secretaría, con el apoyo de Petróleos Mexicanos, Centro Nacional de Control del Gas Natural y la Comisión Nacional de Energía, así como con los organismos públicos y privados que determine la Secretaría.
 El PLADESHi se debe actualizar anualmente y debe contar con las características siguientes:
+
 I. Incluir un diagnóstico del estado actual que guarda el Sector Hidrocarburos;
+
 II. Ser consistente con la Estrategia;
+
 III. Ser consistente con el Plan Nacional de Desarrollo, el Programa Sectorial de Energía y el PLATEASE;
+
 IV. Contar con escenarios con un horizonte de 15 años, cartera de proyectos y programas de inversión de 3 a 5 años;
+
 V. Considerar el cambio tendencial en los patrones de demanda energética de los sectores de uso final, así como de producción y transformación de la energía;
-VI. Incluir programas de desarrollo de infraestructura en materia de Exploración, Extracción, Almacenamiento, Transporte y Distribución de Hidrocarburos, Gas Natural, Petrolíferos, Petroquímica, Eficiencia Energética, sostenibilidad y Transición Energética, y VII. Las demás que deriven de la Ley del Sector Hidrocarburos y demás legislación aplicable.
+
+VI. Incluir programas de desarrollo de infraestructura en materia de Exploración, Extracción, Almacenamiento, Transporte y Distribución de Hidrocarburos, Gas Natural, Petrolíferos, Petroquímica, Eficiencia Energética, sostenibilidad y Transición Energética, y
+
+VII. Las demás que deriven de la Ley del Sector Hidrocarburos y demás legislación aplicable.
 La Secretaría, la Comisión Nacional de Energía, otros organismos públicos sectorizados y la Secretaría de Medio Ambiente y Recursos Naturales, en el ámbito de sus atribuciones, deben considerar el PLADESHi en el otorgamiento de permisos y otras autorizaciones de modo que la inversión pública y privada, así como la operación en el Sector Energético, contribuyan a las metas de mediano y largo plazo establecidas en el PLADESHi y la Estrategia.
 Petróleos Mexicanos debe considerar la Estrategia y el PLADESHi, como parte de los elementos rectores de su plan estratégico.
 
 ### Artículo 32
 .- El PLADESE es el documento del desarrollo y modernización de la infraestructura del Sector Eléctrico con un horizonte de 15 años, que es elaborado y publicado por la Secretaría, con el apoyo de la Comisión Federal de Electricidad, el Centro Nacional de Control de Energía y la Comisión Nacional de Energía, así como con los organismos públicos y privados que determine la Secretaría.
 El PLADESE debe actualizarse anualmente y contar con las características siguientes:
+
 I. Incluir un diagnóstico del estado actual que guarda el Sector Eléctrico;
+
 II. Ser consistente con la Estrategia;
+
 III. Ser consistente con el Plan Nacional de Desarrollo, el Programa Sectorial de Energía y el PLATEASE;
+
 IV. Contar con escenarios con un horizonte de 15 años, y programas de inversión de 3 a 5 años;
+
 V. Considerar el cambio tendencial en los patrones de demanda energética de los sectores de uso final, así como de producción y transformación de la energía;
-VI. Incluir programas vinculantes de inversión pública en materia de instalación, modernización y retiro de centrales eléctricas, de la expansión de la Red Nacional de Transmisión, de las Redes Generales de Distribución, Servicios Conexos, Eficiencia Energética, sostenibilidad y Transición Energética, y VII. Las demás que deriven de la Ley del Sector Eléctrico y demás legislación aplicable.
+
+VI. Incluir programas vinculantes de inversión pública en materia de instalación, modernización y retiro de centrales eléctricas, de la expansión de la Red Nacional de Transmisión, de las Redes Generales de Distribución, Servicios Conexos, Eficiencia Energética, sostenibilidad y Transición Energética, y
+
+VII. Las demás que deriven de la Ley del Sector Eléctrico y demás legislación aplicable.
 La Secretaría, la Comisión Nacional de Energía, los otros organismos públicos sectorizados en energía y la Secretaría de Medio Ambiente y Recursos Naturales, en el ámbito de sus atribuciones, deben considerar el PLADESE en el otorgamiento de permisos y otras autorizaciones de su competencia, de modo tal que la inversión pública y privada, así como la operación del Sector Energético, contribuyan a las metas de mediano y largo plazo establecidas en el PLADESE y la Estrategia.
 La Comisión Federal de Electricidad debe considerar la Estrategia y el PLADESE, como parte de los elementos rectores de su plan estratégico.
 
@@ -285,12 +490,20 @@ Para la operación e implementación del Sistema Nacional de Información Energ�
 
 ### Artículo 34
 .- Para la operación e implementación del Sistema Nacional de Información Energética, la Secretaría tiene las atribuciones siguientes:
+
 I. Emitir las disposiciones para la entrega y actualización de información al Sistema Nacional de Información Energética;
+
 II. Publicar la información del Sector Energético, de acuerdo con la política energética nacional;
+
 III. Integrar al Sistema Nacional de Información Energética los diferentes sistemas de información del Sector Energético;
+
 IV. Promover acuerdos con otras dependencias de la Administración Pública Federal para compartir información estratégica del Sector Energético;
+
 V. Realizar el análisis de la información del Sistema Nacional de Información Energética o solicitarlo a los organismos sectorizados;
-VI. Contratar licencias de software, infraestructura y servicios especializados para la gestión, protección y análisis de la información del Sistema Nacional de Información Energética. Estas contrataciones no están sujetas a los procedimientos de contratación de tecnologías de la información de la Administración Pública Federal, dado el carácter estratégico de la información, y VII. Vigilar el cumplimiento de las disposiciones y establecer sanciones respecto de la entrega de información al Sistema Nacional de Información Energética.
+
+VI. Contratar licencias de software, infraestructura y servicios especializados para la gestión, protección y análisis de la información del Sistema Nacional de Información Energética. Estas contrataciones no están sujetas a los procedimientos de contratación de tecnologías de la información de la Administración Pública Federal, dado el carácter estratégico de la información, y
+
+VII. Vigilar el cumplimiento de las disposiciones y establecer sanciones respecto de la entrega de información al Sistema Nacional de Información Energética.
 
 ### Artículo 35
 .- La Secretaría debe elaborar y publicar anualmente el Balance Nacional de Energía con escenarios prospectivos de energía que presenta la información de origen y destino de la energía en el territorio nacional del año anterior.
@@ -348,7 +561,10 @@ De conformidad con sus reglas de operación, la asignación y distribución de r
 
 ### Artículo 47
 .- Sin perjuicio de otras facultades que les correspondan, el órgano colegiado del Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía tiene las funciones siguientes:
-I. Emitir las reglas para la operación del fondo correspondiente y actualizarlas cuando así se requiera, incluyendo las funciones de administración, asignación y distribución de los recursos con el fin de cumplir las obligaciones de esta Ley, promover los objetivos de la Estrategia y los demás instrumentos de planeación, y II. Convocar a la presentación de propuestas a ser financiadas por el Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía.
+
+I. Emitir las reglas para la operación del fondo correspondiente y actualizarlas cuando así se requiera, incluyendo las funciones de administración, asignación y distribución de los recursos con el fin de cumplir las obligaciones de esta Ley, promover los objetivos de la Estrategia y los demás instrumentos de planeación, y
+
+II. Convocar a la presentación de propuestas a ser financiadas por el Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía.
 
 ### Artículo 48
 .- Las personas solicitantes que reúnen los requisitos solicitados por el Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía, pueden ser sujetas para recibir recursos conforme a lo señalado en esta Ley y a sus reglas de operación.
@@ -366,9 +582,14 @@ Se deben implementar esquemas para la supervisión del funcionamiento de los equ
 
 ### Artículo 51
 .- El Fondo de Servicio Universal Energético se integra, en los términos previstos por la Ley del Sector Eléctrico y la Ley del Sector Hidrocarburos, por lo siguiente:
+
 I. Recursos por el excedente de ingresos que resulte de la gestión de pérdidas técnicas del Mercado Eléctrico Mayorista;
+
 II. Donativos nacionales o internacionales de terceras personas para el cumplimiento de sus objetivos;
-III. Por los montos de las multas y sanciones que sean impuestas por la Secretaría y la Comisión Nacional de Energía, a través del proceso de facturación y cobranza del Mercado Eléctrico Mayorista, y IV. Por los montos de las multas y sanciones que sean impuestas y cobradas a las personas titulares de los permisos de distribución y comercialización de gas natural y petrolíferos.
+
+III. Por los montos de las multas y sanciones que sean impuestas por la Secretaría y la Comisión Nacional de Energía, a través del proceso de facturación y cobranza del Mercado Eléctrico Mayorista, y
+
+IV. Por los montos de las multas y sanciones que sean impuestas y cobradas a las personas titulares de los permisos de distribución y comercialización de gas natural y petrolíferos.
 
 ### Artículo 52
 .- Los apoyos otorgados se deben asignar en apego a los principios de honestidad, legalidad, eficacia, eficiencia, transparencia y productividad buscando siempre la máxima publicidad y difusión de sus acciones.
@@ -385,8 +606,12 @@ De los Recursos de Innovación, Desarrollo Tecnológico y Formación de Recursos
 
 ### Artículo 55
 .- La Secretaría debe administrar los recursos siguientes:
+
 I. Los que se integran, en los términos previstos por la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con recursos provenientes del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo;
-II. Los provenientes de donativos nacionales o internacionales de terceras personas para el cumplimiento de sus objetivos, y III. Otros recursos provenientes de aportaciones determinadas por la Secretaría de Hacienda y Crédito Público.
+
+II. Los provenientes de donativos nacionales o internacionales de terceras personas para el cumplimiento de sus objetivos, y
+
+III. Otros recursos provenientes de aportaciones determinadas por la Secretaría de Hacienda y Crédito Público.
 
 ### Artículo 56
 .- Los recursos en materia de hidrocarburos se deben dedicar a mejorar la eficiencia de la exploración, extracción y refinación de hidrocarburos, así como la producción de petroquímicos.
@@ -405,8 +630,12 @@ De la Investigación Científica, la Innovación y el Desarrollo Tecnológico
 
 ### Artículo 59
 .- La Secretaría, con el apoyo de los institutos sectorizados a la Secretaría debe promover la investigación aplicada, la innovación, el desarrollo tecnológico y la formación de recursos humanos especializados para contribuir a la Transición Energética y la Justicia Energética, para el cumplimiento de las metas de los instrumentos de planeación a partir de, entre otros, los siguientes criterios:
+
 I. El fomento al desarrollo de nuevos conocimientos nacionales, materiales, técnicas, procesos, servicios y tecnologías útiles a la Transición Energética y Aprovechamiento Sustentable de la Energía;
-II. La viabilidad técnica, ambiental, financiera, administrativa, social y de ejecución de los proyectos para el cumplimiento efectivo de los instrumentos de planeación, y III. La vinculación de los resultados de la investigación científica, la innovación y el desarrollo tecnológico nacional con la soberanía energética, la seguridad cibernética, el desarrollo económico y social tanto nacional como regional, poniendo especial atención en la generación de empleos.
+
+II. La viabilidad técnica, ambiental, financiera, administrativa, social y de ejecución de los proyectos para el cumplimiento efectivo de los instrumentos de planeación, y
+
+III. La vinculación de los resultados de la investigación científica, la innovación y el desarrollo tecnológico nacional con la soberanía energética, la seguridad cibernética, el desarrollo económico y social tanto nacional como regional, poniendo especial atención en la generación de empleos.
 
 ## Capítulo VI
 De los Certificados de Energías Limpias
@@ -448,12 +677,19 @@ Del Financiamiento para el Aprovechamiento Sustentable de la Energía
 
 ### Artículo 69
 .- El financiamiento para el Aprovechamiento Sustentable de la Energía se debe realizar observando el interés público y la planeación sectorial, y tienen por objeto alguno de los siguientes fines:
+
 I. Contribuir a la sustitución de equipos y aparatos energéticamente ineficientes;
-II. Realizar las mejoras a edificaciones en las que se realice el consumo energético para su acondicionamiento térmico, con el fin de que este sea más eficiente, y III. La instalación de equipos económicamente viables en las viviendas que permitan aprovechar las fuentes de energía renovables para la satisfacción de sus necesidades.
+
+II. Realizar las mejoras a edificaciones en las que se realice el consumo energético para su acondicionamiento térmico, con el fin de que este sea más eficiente, y
+
+III. La instalación de equipos económicamente viables en las viviendas que permitan aprovechar las fuentes de energía renovables para la satisfacción de sus necesidades.
 
 ### Artículo 70
 .- El financiamiento para el Aprovechamiento Sustentable de la Energía se establece mediante un convenio entre una persona usuaria final y un financiador en el que:
-I. El financiador proporciona el capital necesario para realizar uno de los proyectos a que se refiere el artículo anterior, y II. La persona usuaria final puede autorizar al financiador a recuperar su capital y costos de financiamiento, a través de la facturación del Suministro Eléctrico o Distribución de gas natural de la persona usuaria final.
+
+I. El financiador proporciona el capital necesario para realizar uno de los proyectos a que se refiere el artículo anterior, y
+
+II. La persona usuaria final puede autorizar al financiador a recuperar su capital y costos de financiamiento, a través de la facturación del Suministro Eléctrico o Distribución de gas natural de la persona usuaria final.
 Los financiadores pueden ser empresas comerciales o entidades financieras.
 Los programas o proyectos que establezcan el uso de este mecanismo de financiamiento deben ser sometidos a visto bueno de la Secretaría.
 
@@ -549,8 +785,12 @@ Para el procedimiento por infracciones a la presente Ley, se debe aplicar suplet
 
 ### Artículo 92
 .- La Procuraduría Federal del Consumidor puede sancionar con multas las conductas u omisiones siguientes:
+
 I. De cien a diez mil veces el valor de la Unidad de Medida y Actualización vigente a la persona que fabrique, importe, distribuya o comercialice los equipos o aparatos a que hace referencia el presente ordenamiento, que no incluyan la información acerca del consumo energético, o cuando la incluyan de forma diferente a la que establezcan las Normas Oficiales Mexicanas, el Reglamento o disposiciones emanados de esta Ley, siempre que no implique engaño al consumidor o no constituya una práctica que pueda inducir a error;
-II. De tres mil a catorce mil veces el valor de la Unidad de Medida y Actualización vigente a la persona que incluya en los aparatos o equipos a que hace referencia la presente Ley, información falsa o incompleta que implique engaño al consumidor o constituya una práctica que pueda inducir a error, y III. De cinco mil a veinte mil veces el valor de la Unidad de Medida y Actualización vigente a la persona física o moral que importe, distribuya o comercialice equipos o aparatos a que hace referencia el presente artículo, que incluyan información falsa o incompleta que implique engaño al consumidor o constituya una práctica que pueda inducir a error.
+
+II. De tres mil a catorce mil veces el valor de la Unidad de Medida y Actualización vigente a la persona que incluya en los aparatos o equipos a que hace referencia la presente Ley, información falsa o incompleta que implique engaño al consumidor o constituya una práctica que pueda inducir a error, y
+
+III. De cinco mil a veinte mil veces el valor de la Unidad de Medida y Actualización vigente a la persona física o moral que importe, distribuya o comercialice equipos o aparatos a que hace referencia el presente artículo, que incluyan información falsa o incompleta que implique engaño al consumidor o constituya una práctica que pueda inducir a error.
 Para la sustanciación del procedimiento por infracciones a la Ley a que se refiere el presente precepto, se aplica lo dispuesto en la Ley Federal de Protección al Consumidor. Estas sanciones se imponen sin perjuicio de las que procedan civil, administrativa, penal o fiscalmente.
 
 ### Artículo 93

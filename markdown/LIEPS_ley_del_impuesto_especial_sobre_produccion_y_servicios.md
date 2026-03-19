@@ -14,8 +14,11 @@ LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS TITULO I Título adiciona
 
 ### Artículo 1o
 .- Están obligadas al pago del impuesto establecido en esta Ley, las personas físicas y las morales que realicen los actos o actividades siguientes:
+
 I. La enajenación en territorio nacional o, en su caso, la importación de los bienes señalados en esta Ley. Para efectos de la presente Ley se considera importación la introducción al país de bienes.
-Fracción reformada DOF 11-12-2013 II. La prestación de los servicios señalados en esta Ley.
+Fracción reformada DOF 11-12-2013
+
+II. La prestación de los servicios señalados en esta Ley.
 El impuesto se calculará aplicando a los valores a que se refiere este ordenamiento, la tasa que para cada bien o servicio establece el artículo 2o. del mismo o, en su caso, la cuota establecida en esta Ley.
 Párrafo reformado DOF 23-12-2005 La Federación, la Ciudad de México, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación del impuesto especial sobre producción y servicios y, en su caso, pagarlo y trasladarlo, de acuerdo con los preceptos de esta Ley.
 Párrafo reformado DOF 07-11-2025 El impuesto a que hace referencia esta Ley no se considera violatorio de precios o tarifas, incluyendo los oficiales.
@@ -23,7 +26,9 @@ Párrafo adicionado DOF 30-12-2002 Artículo reformado DOF 31-12-1982, 31-12-199
 
 ### Artículo 2o
 .- Al valor de los actos o actividades que a continuación se señalan, se aplicarán las tasas y cuotas siguientes:
-Párrafo reformado DOF 27-11-2009 I. En la enajenación o, en su caso, en la importación de los siguientes bienes:
+Párrafo reformado DOF 27-11-2009
+
+I. En la enajenación o, en su caso, en la importación de los siguientes bienes:
 A) Bebidas con contenido alcohólico y cerveza: 1. Con una graduación alcohólica de hasta 14° G.L. .................................... 26.5% Numeral reformado DOF 31-12-2003, 11-12-2013 2. Con una graduación alcohólica de más de 14° y hasta 20°G.L. .................. 30% Numeral reformado DOF 31-12-2003 3. Con una graduación alcohólica de más de 20°G.L ...................................... 53% Numeral reformado DOF 31-12-2003, 11-12-2013 B) Alcohol, alcohol desnaturalizado y mieles incristalizables. ................................. 50% Inciso reformado DOF 31-12-2003 C) Tabacos labrados y otros: 1. Cigarros. .................................................................................................. 200% 2. Puros y otros tabacos labrados. .............................................................. 200% 3. Puros y otros tabacos labrados hechos enteramente a mano. ................. 32% 4. Otros productos que contengan nicotina. ................................................ 100% Párrafo con numerales reformado DOF 27-12-2006, 07-11-2025 Adicionalmente a las tasas establecidas en este numeral, se pagará una cuota de $1.1584 por cigarro enajenado o importado. Para los efectos de esta Ley se considera que el peso de un cigarro equivale a 0.75 gramos de tabaco, incluyendo el peso de otras sustancias con que esté mezclado el tabaco. También se considera que un cigarro contiene 8 miligramos de nicotina.
 Párrafo adicionado DOF 27-11-2009. Reformado DOF 19-11-2010 Cuota del párrafo actualizada por acuerdo DOF 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024 Párrafo reformado DOF 07-11-2025 Tratándose de los tabacos labrados no considerados en el párrafo anterior, con excepción de puros y otros tabacos labrados hechos enteramente a mano, se aplicará la cuota mencionada en dicho párrafo al resultado de dividir el peso total de los tabacos labrados enajenados o importados, entre 0.75. Para tal efecto se deberá incluir el peso de otras sustancias con que esté mezclado el tabaco. No se deberá considerar el filtro ni el papel o cualquier otra sustancia que no contenga tabaco, con el que estén envueltos los referidos tabacos labrados. Tratándose de otros productos que contengan nicotina, se aplicará la referida cuota al resultado de dividir el contenido de nicotina que contengan dichos productos, entre 8, sin considerar cualquier otra sustancia que no contenga nicotina con la que estén elaborados.
 Párrafo adicionado DOF 27-11-2009. Reformado DOF 11-12-2013, 07-11-2025 La cuota a que se refieren los párrafos anteriores, se actualizará anualmente y entrará en vigor a partir del 1 de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año, así como la cuota actualizada, misma que se expresará hasta el diezmilésimo.
@@ -50,22 +55,31 @@ Inciso adicionado DOF 11-12-2013 J) Alimentos no básicos que se listan a contin
 Cuando los alimentos mencionados cumplan con las disposiciones relativas a las especificaciones generales de etiquetado para alimentos, los contribuyentes podrán tomar en consideración las kilocalorías manifestadas en la etiqueta. Tratándose de alimentos que no tengan la etiqueta mencionada, se presumirá, salvo prueba en contrario, que tienen una densidad calórica igual o superior a 275 kilocalorías por cada 100 gramos.
 El Servicio de Administración Tributaria, mediante reglas de carácter general, dará a conocer los alimentos de consumo básico, considerando su importancia en la alimentación de la población, que no quedan comprendidos en este inciso.
 Inciso adicionado DOF 11-12-2013 K) Videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, en formato físico, siempre que la enajenación se efectúe al público en general ............................................................................................................... 8% Lo dispuesto en este inciso no será aplicable tratándose de la importación de los videojuegos mencionados.
-Inciso adicionado DOF 07-11-2025 II. En la prestación de los siguientes servicios:
+Inciso adicionado DOF 07-11-2025
+
+II. En la prestación de los siguientes servicios:
 A) Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenación de los bienes señalados en los incisos A), B), C), F), I) y J) de la fracción I de este artículo. En estos casos, la tasa aplicable será la que le corresponda a la enajenación en territorio nacional del bien de que se trate en los términos que para tal efecto dispone esta Ley. No se pagará el impuesto cuando los servicios a que se refiere este inciso, sean con motivo de las enajenaciones de bienes por los que no se esté obligado al pago de este impuesto en los términos del artículo 8o. de la propia Ley.
 Inciso reformado DOF 27-12-2006, 19-11-2010, 11-12-2013 B) Realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio nacional. Quedan comprendidos en los juegos con apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar. ...... . 50% También quedan comprendidos en este inciso, los juegos con apuestas y sorteos que se realicen a través de Internet o medios electrónicos por residentes en el extranjero sin establecimiento en México en términos del artículo 18-B, primer párrafo, fracciones I y II el extranjero o, en su caso, las plataformas digitales de intermediación a que se refieren deberán cumplir con las obligaciones establecidas en los artículos 5o.-A BIS y 20-A de esta Ley, según corresponda, por los servicios digitales a que se refiere este párrafo.
 La omisión en el pago del impuesto o del entero de las retenciones que, en su caso, deban efectuar y en la presentación de la declaración de pago y de la información, a que se refieren este inciso y el artículo 5o.-A BIS de esta Ley, se sancionará de conformidad con lo dispuesto en la presente Ley y en el Código Fiscal de la Federación.
 Asimismo, el incumplimiento a las obligaciones a que se refiere el párrafo anterior y las fracciones III, inciso a) y IV, inciso a) del artículo 20-A de esta Ley, dará lugar al bloqueo temporal del acceso al servicio digital del prestador de los servicios digitales, bloqueo que se realizará de conformidad con lo dispuesto en los artículos 18-H BIS a 18-H QUINTUS Inciso derogado DOF 31-12-2003. Adicionado DOF 01-10-2007. Reformado DOF 27-11-2009, 07-11-2025 C) Los que se proporcionen en territorio nacional a través de una o más redes públicas de telecomunicaciones. .............................................................................................. 3% Inciso adicionado DOF 27-11-2009 D) Los que se proporcionen en territorio nacional que permitan el acceso o descarga de videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, proporcionados por residentes en el extranjero sin establecimiento en México y residentes en el país, en términos del artículo 18-B, primer párrafo y fracción I 1. El acceso o descarga permitido directamente por el prestador del servicio digital. 2. El acceso o descarga permitido a través de plataformas digitales de intermediación a que se refieren los artículos 1o.-A BIS y 18-B, fracción II de la Ley del Impuesto al Valor Agregado.
 Quedan comprendidos en este inciso los videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, cuyo acceso o descarga se realice sin el pago de una contraprestación, pero que oferten cualquier contenido adicional dentro del videojuego. En este caso, la tasa se aplicará sobre el precio pagado por el contenido adicional.
 Cuando el acceso o descarga a que se refiere este inciso, se realice mediante el pago de una membresía o suscripción, periódica o no, que dé acceso a un catálogo de videojuegos que incluya videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, ya sea exclusivamente o conjuntamente con otro tipo de contenido o servicio digital, la tasa se aplicará únicamente al precio que corresponda por el acceso o descarga de cada videojuego por el que se deba pagar el impuesto en términos de este inciso, siempre que en el comprobante respectivo se haga la separación de cada uno de ellos. Cuando no se haga la separación mencionada, la contraprestación cobrada se entenderá que corresponde a un 70% del monto de los servicios a que se refiere este inciso, en cuyo caso dicho impuesto no podrá ser menor que el que corresponda al servicio digital de videojuegos que se hubiera pagado de manera separada al precio de la membresía o suscripción.
-Inciso adicionado DOF 07-11-2025 III. En la exportación definitiva que realicen las empresas residentes en el país en los términos de la Ley Aduanera, de los bienes a que se refiere la fracción I, inciso J) de este artículo, siempre que sean fabricantes o productoras de dichos bienes y hayan utilizado insumos gravados de conformidad con el inciso J) citado, por los que hayan pagado el impuesto en la importación o les hayan trasladado el gravamen en la adquisición de los mismos .............................. 0% Para los efectos de esta fracción, la tasa se aplicará al valor de la enajenación a que se refiere el artículo 11 de esta Ley y, en su defecto, a la base gravable del impuesto general de exportación en términos de la Ley Aduanera.
+Inciso adicionado DOF 07-11-2025
+
+III. En la exportación definitiva que realicen las empresas residentes en el país en los términos de la Ley Aduanera, de los bienes a que se refiere la fracción I, inciso J) de este artículo, siempre que sean fabricantes o productoras de dichos bienes y hayan utilizado insumos gravados de conformidad con el inciso J) citado, por los que hayan pagado el impuesto en la importación o les hayan trasladado el gravamen en la adquisición de los mismos .............................. 0% Para los efectos de esta fracción, la tasa se aplicará al valor de la enajenación a que se refiere el artículo 11 de esta Ley y, en su defecto, a la base gravable del impuesto general de exportación en términos de la Ley Aduanera.
 Las exportaciones a las que se les aplica la tasa del 0%, producirán los mismos efectos legales que los actos o actividades por los que se deba pagar el impuesto conforme a esta Ley y los productores que exporten serán considerados como contribuyentes del impuesto que establece esta Ley por los bienes a que se refiere esta fracción.
 Fracción adicionada DOF 18-11-2015 Artículo reformado DOF 31-12-1981, 31-12-1982, 31-12-1985, 31-12-1987, 28-12-1989, 26-12-1990. 20-12-1991, 20-07-1992, 03-12-1993, 28-12-1994, 15-12-1995, 10-05-1996, 30-12-1996, 29-12-1997, 31-12-1998, 31-12-1999, 01-01-2002
 
 ### Artículo 2o
 .-A.- Sin perjuicio de lo dispuesto en el artículo 2o., fracción I, incisos D), y H), en la enajenación de gasolinas y diésel en el territorio nacional, se aplicarán las cuotas siguientes:
+
 I. Gasolina menor a 91 octanos 59.1390 centavos por litro.
-Fracción reformada DOF 09-12-2019 Cuota de la fracción actualizada por acuerdo DOF 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025 II. Gasolina mayor o igual a 91 octanos 72.1605 centavos por litro.
-Fracción reformada DOF 09-12-2019 Cuota de la fracción actualizada por acuerdo DOF 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025 III. Diésel 49.0817 centavos por litro.
+Fracción reformada DOF 09-12-2019 Cuota de la fracción actualizada por acuerdo DOF 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025
+
+II. Gasolina mayor o igual a 91 octanos 72.1605 centavos por litro.
+Fracción reformada DOF 09-12-2019 Cuota de la fracción actualizada por acuerdo DOF 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025
+
+III. Diésel 49.0817 centavos por litro.
 Cuota de la fracción actualizada por acuerdo DOF 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025 Tratándose de fracciones de las unidades de medida, la cuota se aplicará en la proporción en que corresponda a dichas fracciones respecto de la unidad de medida.
 Las cuotas establecidas en el presente artículo, se actualizarán anualmente y entrarán en vigor a partir del 1 de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año, así como la cuota actualizada, misma que se expresará hasta el diezmilésimo.
 Párrafo reformado DOF 09-12-2019 Los contribuyentes trasladarán en el precio, a quien adquiera gasolinas o diésel, un monto equivalente al impuesto establecido en este artículo, pero en ningún caso lo harán en forma expresa y por separado.
@@ -87,45 +101,64 @@ Derogado DOF 09-12-2019
 
 ### Artículo 2o
 .-D.- Para los efectos del artículo 2o., fracción I, inciso H), numeral 10 de esta Ley, para convertir la cuota que se establece en dicho numeral a una cuota por litro que corresponda a un combustible fósil no comprendido en los numerales 1 al 9 del inciso citado, se utilizará la siguiente metodología:
-I. El contribuyente, de acuerdo con las características del combustible fósil que corresponda, deberá determinar: a) La densidad en kilogramos por litro (kg/lt); b) El poder calorífico promedio de mil toneladas del combustible expresado en Terajoules, y c) El factor de emisión de carbono expresado en toneladas de carbono por Terajoules.
+
+I. El contribuyente, de acuerdo con las características del combustible fósil que corresponda, deberá determinar:
+
+a) La densidad en kilogramos por litro (kg/lt);
+
+b) El poder calorífico promedio de mil toneladas del combustible expresado en Terajoules, y
+
+c) El factor de emisión de carbono expresado en toneladas de carbono por Terajoules.
 Los valores de “b” y “c”, se determinarán conforme a lo previsto en el “Módulo 1. Energía” de las “Directrices del Panel Intergubernamental de Cambio Climático para los inventarios nacionales de gases de efecto invernadero, versión revisada en 1996” o las que, en su caso, las sustituyan.
+
 II. Con los elementos señalados, se aplicará la siguiente fórmula: 44 a x b x c x d e = x 12 10000 Donde, 44/12: Es el factor para convertir las unidades de carbono a unidades de bióxido de carbono (CO2), de acuerdo con las “Directrices del Panel Intergubernamental de Cambio Climático para los inventarios nacionales de gases de efecto invernadero, versión revisada en 1996” o las que, en su caso, las sustituyan. a: Es la densidad del combustible fósil para el cual se calcula la cuota, expresada en kg/lt, a que se refiere el inciso a) de la fracción I del presente artículo. b: Es el poder calorífico de mil toneladas del combustible fósil para el cual se calcula la cuota, expresado en Terajoules, a que se refiere el inciso b) de la fracción I del presente artículo. c: Es el factor de emisión de carbono del combustible fósil para el cual se calcula la cuota expresado en toneladas de carbono por Terajoules, a que se refiere el inciso c) de la fracción I del presente artículo. d: Es la cuota expresada en pesos por tonelada de carbono, señalada en el
 
 ### artículo 2o
 ., fracción I, inciso H), numeral 10 de esta Ley. e: Es la cuota expresada en centavos de peso por litro.
+
 III. El resultado que se obtenga conforme a la metodología señalada, se aplicará a los litros de combustible fósil para el cual se calcula la cuota conforme a lo dispuesto en esta Ley.
 Artículo adicionado DOF 29-12-1997. Derogado DOF 29-05-1998. Adicionado DOF 18-11-2015
 
 ### Artículo 2o
 .-E.- Para los efectos del artículo 2o., fracción I, inciso H), numeral 10 de esta Ley, no se consideran comprendidos dentro de la definición de “otros combustibles fósiles”, toda vez que no se destinan a un proceso de combustión, los productos siguientes:
+
 I. Parafinas.
 Descripción técnica. Es el nombre común de un grupo de hidrocarburos. La molécula más simple de la parafina es el metano; en cambio, los miembros más pesados de la serie, como el octano, se presentan como líquidos. Las formas sólidas de parafina, llamadas cera de parafina, provienen de las moléculas más pesadas.
 Usos. Se utiliza en la fabricación de papel parafinado para empacar alimentos y otros productos; en la fabricación de papel carbón, impermeabilización de tapas de corcho o plástico, maderas, municiones; como aislante en conductores eléctricos; para fabricar lápices crasos, bujías y múltiples artículos. La parafina líquida también se utiliza como medicamento contra el estreñimiento y para dar brillo a los alimentos horneados.
+
 II. Materia prima para negro de humo.
 Descripción técnica. Es un hidrocarburo obtenido del petróleo o del carbón, a partir de un corte de hidrocarburos de alta aromaticidad.
 Usos. Se utiliza en la industria del hule sintético y natural para fabricación de llantas y bandas transportadoras.
+
 III. Residuo largo.
 Descripción técnica. Es un hidrocarburo líquido, su composición es de hidrocarburos mayores a 12 carbonos, con contenido de azufre y residuos de metales pesados como vanadio y níquel.
 Usos. Se utiliza como componente en la carga a las refinerías para su transformación y separación en gasolinas y combustibles pesados.
+
 IV. Asfaltos.
 Descripción técnica. Son un material viscoso, pegajoso y de color negro cuyos constituyentes predominantes son bitúmenes, los cuales pueden producirse en forma natural o se obtienen del procesamiento del petróleo.
 Usos. Su utilización típica es en aglomerante en mezclas asfálticas para la pavimentación de carreteras, autovías o autopistas, e impermeabilizantes.
+
 V. Aceite cíclico ligero.
 Descripción técnica. Es un producto de la desintegración catalítica, el cual es útil como componente de aceites para calentamiento.
 Usos. Es usualmente empleado como componente de la carga a hidrotratamiento para la producción de diésel.
+
 VI. Aceites (lubricantes) básicos.
 Descripción técnica. Se obtienen del proceso de la refinación del petróleo. Los aceites básicos sintéticos son los que resultan de una conversión de una mezcla de moléculas a otra mezcla compleja. Los más comunes son polialfaolefinas (PAO), diésteres, poliol ésteres y polialquilenglicoles (PAG).
 Usos. En general, los lubricantes utilizados actualmente empezaron como aceite básico; estos aceites forman la base adicional de aditivos que los hacen aptos para diferentes usos.
+
 VII. Lubricantes.
 Descripción técnica. Se obtienen a partir de la destilación del barril de petróleo, después del gasóleo y antes que el alquitrán; en algunos casos comprendiendo un 50% del total del barril.
 Usos. Los lubricantes son usados en las bases parafínicas. Los lubricantes minerales obtenidos por destilación del petróleo son utilizados como aditivos en combustibles. Ello para soportar diversas condiciones de trabajo, lubricar a altas temperaturas, permanecer estable en un rango amplio de temperatura, tener la capacidad de mezclarse con un refrigerante, índice de viscosidad alto y capacidad de retener humedad.
+
 VIII. Propileno.
 Descripción técnica. Es una olefina, subproducto que se obtiene en las plantas catalíticas de las refinerías y viene mezclado con otros gases, principalmente con propano; también es obtenido en menor proporción como subproducto en las plantas de etileno.
 Existen tres grados de propileno según su pureza (% de propileno): (i) grado refinería, (ii) grado químico y (iii) grado polímero.
 Usos. Se utiliza sobre todo para la obtención de gasolinas de alto octanaje. También se utiliza en la síntesis de sus derivados, como los polímeros, disolventes y resinas.
+
 IX. Propileno grado refinería.
 Descripción técnica. Es un subproducto que se obtiene en las plantas catalíticas de las refinerías y viene mezclado con otros gases, principalmente con propano. Tiene un grado de pureza de entre 50 y 70%.
 Usos. Se utiliza mayormente para obtener polipropileno (plásticos); acrilonitrilo (fibras sintéticas, caucho y resinas termoplásticas); óxido de propileno, intermedio para la obtención del propilenglicol, polipropoxidados y otros productos; derivados oxo, butiraldehído y n-butanol; cumeno, intermedio para la obtención de fenol y acetona; alcohol isopropílico, disolvente intermedio para la obtención de acetona; entre otras aplicaciones.
+
 X. Propileno grado químico.
 Descripción técnica. Es un subproducto que se obtiene en las plantas catalíticas de las refinerías y viene mezclado con otros gases, principalmente con propano. Tiene un grado de pureza de entre 92 y 94%.
 Usos. Se utiliza mayormente para producir polipropileno (plásticos); acrilonitrilo (fibras sintéticas, caucho y resinas termoplásticas); óxido de propileno, intermedio para la obtención del propilenglicol, polipropoxidados y otros productos; derivados oxo, butiraldehído y n-butanol; cumeno, intermedio para la obtención de fenol y acetona; alcohol isopropílico, disolvente intermedio para la obtención de acetona; entre otras aplicaciones.
@@ -133,55 +166,172 @@ Artículo adicionado DOF 18-11-2015
 
 ### Artículo 3o
 .- Para los efectos de esta Ley se entiende por:
-I. Bebidas con contenido alcohólico, las bebidas alcohólicas y las bebidas refrescantes, de acuerdo con lo siguiente: a) Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor. b) Bebidas refrescantes, las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
+
+I. Bebidas con contenido alcohólico, las bebidas alcohólicas y las bebidas refrescantes, de acuerdo con lo siguiente:
+
+a) Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
+
+b) Bebidas refrescantes, las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
+
 II. Cerveza, la bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición de lúpulo o sucedáneos de éste.
+
 III. Bebidas alcohólicas a granel, las que se encuentren envasadas en recipientes cuya capacidad exceda a 5,000 mililitros.
+
 IV. Marbete, el signo distintivo de control fiscal y sanitario que puede ser físico y se adhiere a los envases que contengan bebidas alcohólicas, o bien, electrónico que se imprime del folio autorizado y entregado por el Servicio de Administración Tributaria en las etiquetas o contraetiquetas de los referidos envases, en ambos casos con capacidad que no exceda de 5,000 mililitros.
-Fracción reformada DOF 01-12-2004, 23-12-2005, 12-11-2021 V. Precinto, el signo distintivo de control fiscal y sanitario, que se adhiere a los recipientes que contengan bebidas alcohólicas con capacidad que exceda a 5,000 mililitros.
-Fracción reformada DOF 01-12-2004 VI. Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15°C. No queda comprendido el etanol para uso automotriz.
-Fracción reformada DOF 18-11-2015 VII. Alcohol desnaturalizado, la solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55°G.L., a una temperatura de 15°C, con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud. No queda comprendido el etanol para uso automotriz.
-Fracción reformada DOF 18-11-2015 VIII. Tabacos labrados y otros:
-Párrafo reformado DOF 07-11-2025 a) Cigarros, los cigarros con o sin filtro, elaborados con mezcla de tabacos rubios o de tabacos obscuros, envueltos con papel o cualquier otra sustancia que no contenga tabaco. b) Puros, los tabacos labrados confeccionados y enrollados al 100% con hojas de tabaco o cualquier otra sustancia que contenga tabaco. c) Otros tabacos labrados, los que no están comprendidos en los incisos anteriores. Se consideran tabacos labrados, entre otros, a los tabacos cernidos, picados, de hebra, de mascar, así como al rapé. d) Otros productos que contengan nicotina, los que contengan nicotina ya sea natural o artificial, cualquiera que sea su presentación, independientemente de que pudieran contener otras sustancias en su elaboración, que no contengan tabaco cortado, molido, en polvo o en hoja y no estén diseñados para calentarse o quemarse.
-Inciso adicionado DOF 07-11-2025 IX. Para los efectos de lo dispuesto en los artículos 2o., fracción I, incisos D) y H), y 2o.-A de esta Ley se entenderá por: a) Combustibles automotrices: gasolinas, diésel, combustibles no fósiles o la mezcla de cualquiera de los combustibles mencionados. b) Gasolina, combustible líquido que se puede obtener del proceso de refinación del petróleo crudo o mediante procesos alternativos que pueden utilizar como insumo materias primas que tuvieron su origen en el petróleo formado por la mezcla de hidrocarburos líquidos volátiles, principalmente parafinas ramificadas, aromáticos, naftenos y olefinas, pudiendo contener otros compuestos provenientes de otras fuentes, que se clasifica en función del número de octano. c) Diésel, combustible líquido que puede obtenerse del proceso de refinación del petróleo crudo o mediante procesos alternativos que pueden utilizar como insumo materias primas que tuvieron su origen en el petróleo, formado por la mezcla compleja de hidrocarburos, principalmente parafinas no ramificadas, pudiendo contener otros compuestos provenientes de otras fuentes, con independencia del uso al que se destine. d) Combustibles no fósiles, combustibles o componentes de combustibles que no se obtienen o derivan de un proceso de destilación de petróleo crudo o del procesamiento de gas natural.
-Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019 X. Etanol para uso automotriz, alcohol tipo etanol anhidro con contenido de agua menor o igual a 1 por ciento y que cumpla con las especificaciones de calidad y características como biocombustible puro, que emita la autoridad competente.
-Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019 XI. (Se deroga).
-Fracción derogada DOF 30-12-2002. Adicionada DOF 23-12-2005. Derogada DOF 09-12-2019 XII. Contraprestación, el precio pactado, adicionado con las cantidades que además se carguen o cobren al adquirente del bien o al prestatario del servicio por intereses normales o moratorios, penas convencionales o cualquier otro concepto distinto de impuestos. A falta de precio pactado o cuando éste se determine en cantidad "cero" se estará al valor que los bienes o servicios tengan en el mercado, o en su defecto al de avalúo.
+Fracción reformada DOF 01-12-2004, 23-12-2005, 12-11-2021
+
+V. Precinto, el signo distintivo de control fiscal y sanitario, que se adhiere a los recipientes que contengan bebidas alcohólicas con capacidad que exceda a 5,000 mililitros.
+Fracción reformada DOF 01-12-2004
+
+VI. Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15°C. No queda comprendido el etanol para uso automotriz.
+Fracción reformada DOF 18-11-2015
+
+VII. Alcohol desnaturalizado, la solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55°G.L., a una temperatura de 15°C, con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud. No queda comprendido el etanol para uso automotriz.
+Fracción reformada DOF 18-11-2015
+
+VIII. Tabacos labrados y otros:
+Párrafo reformado DOF 07-11-2025
+
+a) Cigarros, los cigarros con o sin filtro, elaborados con mezcla de tabacos rubios o de tabacos obscuros, envueltos con papel o cualquier otra sustancia que no contenga tabaco.
+
+b) Puros, los tabacos labrados confeccionados y enrollados al 100% con hojas de tabaco o cualquier otra sustancia que contenga tabaco.
+
+c) Otros tabacos labrados, los que no están comprendidos en los incisos anteriores. Se consideran tabacos labrados, entre otros, a los tabacos cernidos, picados, de hebra, de mascar, así como al rapé.
+
+d) Otros productos que contengan nicotina, los que contengan nicotina ya sea natural o artificial, cualquiera que sea su presentación, independientemente de que pudieran contener otras sustancias en su elaboración, que no contengan tabaco cortado, molido, en polvo o en hoja y no estén diseñados para calentarse o quemarse.
+Inciso adicionado DOF 07-11-2025
+
+IX. Para los efectos de lo dispuesto en los artículos 2o., fracción I, incisos D) y H), y 2o.-A de esta Ley se entenderá por:
+
+a) Combustibles automotrices: gasolinas, diésel, combustibles no fósiles o la mezcla de cualquiera de los combustibles mencionados.
+
+b) Gasolina, combustible líquido que se puede obtener del proceso de refinación del petróleo crudo o mediante procesos alternativos que pueden utilizar como insumo materias primas que tuvieron su origen en el petróleo formado por la mezcla de hidrocarburos líquidos volátiles, principalmente parafinas ramificadas, aromáticos, naftenos y olefinas, pudiendo contener otros compuestos provenientes de otras fuentes, que se clasifica en función del número de octano.
+
+c) Diésel, combustible líquido que puede obtenerse del proceso de refinación del petróleo crudo o mediante procesos alternativos que pueden utilizar como insumo materias primas que tuvieron su origen en el petróleo, formado por la mezcla compleja de hidrocarburos, principalmente parafinas no ramificadas, pudiendo contener otros compuestos provenientes de otras fuentes, con independencia del uso al que se destine.
+
+d) Combustibles no fósiles, combustibles o componentes de combustibles que no se obtienen o derivan de un proceso de destilación de petróleo crudo o del procesamiento de gas natural.
+Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
+
+X. Etanol para uso automotriz, alcohol tipo etanol anhidro con contenido de agua menor o igual a 1 por ciento y que cumpla con las especificaciones de calidad y características como biocombustible puro, que emita la autoridad competente.
+Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
+
+XI. (Se deroga).
+Fracción derogada DOF 30-12-2002. Adicionada DOF 23-12-2005. Derogada DOF 09-12-2019
+
+XII. Contraprestación, el precio pactado, adicionado con las cantidades que además se carguen o cobren al adquirente del bien o al prestatario del servicio por intereses normales o moratorios, penas convencionales o cualquier otro concepto distinto de impuestos. A falta de precio pactado o cuando éste se determine en cantidad "cero" se estará al valor que los bienes o servicios tengan en el mercado, o en su defecto al de avalúo.
 También forman parte de la contraprestación los anticipos o depósitos que reciba el enajenante o el prestador del servicio antes de entregar el bien o prestar el servicio, cualquiera que sea el nombre que se dé a dichos anticipos o depósitos.
 Cuando con motivo de la enajenación de bienes sujetos al pago de este impuesto se convenga además del precio por dicha enajenación el pago de cantidades adicionales al mismo por concepto de publicidad o cualquier otro, que en su defecto se hubieran tenido que realizar por parte del enajenante, dichas erogaciones formarán parte del valor o precio pactado.
 Párrafo reformado DOF 31-12-2003, 18-11-2015 Tratándose de enajenaciones se considerará que forma parte de la contraprestación, además de lo señalado en los párrafos anteriores, las cantidades que se carguen o cobren al adquirente del bien por concepto de envases y empaques, no retornables, necesarios para contener los bienes que se enajenan.
 Cuando la contraprestación que reciba el contribuyente por la enajenación de bienes o la prestación de servicios no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en esta Ley.
 En las permutas y pagos en especie, el impuesto especial sobre producción y servicios se deberá pagar por cada bien cuya propiedad se transmita o por cada servicio que se preste.
+
 XIII. Mieles incristalizables, el producto residual de la fabricación de azúcar, cuando referido a 85° brix a 20° centígrados, los azúcares fermentables expresados en glucosa no excedan del 61%.
-Fracción reformada DOF 30-12-2002, 31-12-2003 XIV. Red pública de telecomunicaciones, la red de telecomunicaciones a través de la cual se explotan comercialmente servicios de telecomunicaciones. La red no comprende los equipos terminales de telecomunicaciones de los usuarios ni las redes de telecomunicaciones que se encuentren más allá del punto de conexión terminal.
-Fracción reformada DOF 30-12-2002. Derogada DOF 31-12-2003. Adicionada DOF 27-11-2009 XV. Red de telecomunicaciones, el sistema integrado por medios de transmisión, tales como canales o circuitos que utilicen bandas de frecuencias del espectro radioeléctrico, enlaces satelitales, cableados, redes de transmisión eléctrica o cualquier otro medio de transmisión, así como, en su caso, centrales, dispositivos de conmutación o cualquier equipo necesario.
-Fracción reformada DOF 30-12-2002, 31-12-2003. Derogada DOF 27-12-2006. Adicionada DOF 27-11-2009 XVI. Equipo terminal de telecomunicaciones, comprende todo el equipo de telecomunicaciones de los usuarios que se conecte más allá del punto de conexión terminal de una red pública con el propósito de tener acceso a uno o más servicios de telecomunicaciones.
-Fracción reformada DOF 30-12-2002. Derogada DOF 27-12-2006. Adicionada DOF 27-11-2009 XVII. Bebidas energetizantes, las bebidas no alcohólicas adicionadas con la mezcla de cafeína y taurina o glucoronolactona o tiamina y/o cualquier otra sustancia que produzca efectos estimulantes similares.
+Fracción reformada DOF 30-12-2002, 31-12-2003
+
+XIV. Red pública de telecomunicaciones, la red de telecomunicaciones a través de la cual se explotan comercialmente servicios de telecomunicaciones. La red no comprende los equipos terminales de telecomunicaciones de los usuarios ni las redes de telecomunicaciones que se encuentren más allá del punto de conexión terminal.
+Fracción reformada DOF 30-12-2002. Derogada DOF 31-12-2003. Adicionada DOF 27-11-2009
+
+XV. Red de telecomunicaciones, el sistema integrado por medios de transmisión, tales como canales o circuitos que utilicen bandas de frecuencias del espectro radioeléctrico, enlaces satelitales, cableados, redes de transmisión eléctrica o cualquier otro medio de transmisión, así como, en su caso, centrales, dispositivos de conmutación o cualquier equipo necesario.
+Fracción reformada DOF 30-12-2002, 31-12-2003. Derogada DOF 27-12-2006. Adicionada DOF 27-11-2009
+
+XVI. Equipo terminal de telecomunicaciones, comprende todo el equipo de telecomunicaciones de los usuarios que se conecte más allá del punto de conexión terminal de una red pública con el propósito de tener acceso a uno o más servicios de telecomunicaciones.
+Fracción reformada DOF 30-12-2002. Derogada DOF 27-12-2006. Adicionada DOF 27-11-2009
+
+XVII. Bebidas energetizantes, las bebidas no alcohólicas adicionadas con la mezcla de cafeína y taurina o glucoronolactona o tiamina y/o cualquier otra sustancia que produzca efectos estimulantes similares.
 Párrafo reformado DOF 09-12-2019 Se consideran concentrados, polvos y jarabes para preparar bebidas energetizantes, aquéllos que por dilución permiten obtener bebidas energetizantes con las características señaladas en el párrafo anterior.
-Fracción adicionada DOF 19-11-2010 XVIII. Bebidas saborizadas, las bebidas no alcohólicas elaboradas por la disolución en agua de cualquier tipo de azúcares o edulcorantes y que pueden incluir ingredientes adicionales tales como saborizantes naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas o de verduras o de legumbres, de sus concentrados o extractos y otros aditivos para alimentos, y que pueden estar o no carbonatadas.
-Fracción adicionada DOF 11-12-2013. Reformada DOF 07-11-2025 XIX. Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas, a los productos con o sin edulcorantes o saboreadores, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas, de verduras o legumbres y otros aditivos para alimentos.
-Fracción adicionada DOF 11-12-2013 XX. Azúcares, a los monosacáridos, disacáridos y polisacáridos, siempre que en este último caso se utilicen como edulcorantes con aporte calórico.
+Fracción adicionada DOF 19-11-2010
+
+XVIII. Bebidas saborizadas, las bebidas no alcohólicas elaboradas por la disolución en agua de cualquier tipo de azúcares o edulcorantes y que pueden incluir ingredientes adicionales tales como saborizantes naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas o de verduras o de legumbres, de sus concentrados o extractos y otros aditivos para alimentos, y que pueden estar o no carbonatadas.
+Fracción adicionada DOF 11-12-2013. Reformada DOF 07-11-2025
+
+XIX. Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas, a los productos con o sin edulcorantes o saboreadores, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas, de verduras o legumbres y otros aditivos para alimentos.
+Fracción adicionada DOF 11-12-2013
+
+XX. Azúcares, a los monosacáridos, disacáridos y polisacáridos, siempre que en este último caso se utilicen como edulcorantes con aporte calórico.
 Fracción adicionada DOF 11-12-2013 XX BIS. Edulcorante, sustancia natural o artificial que se adiciona a las bebidas para impartir un sabor dulce a los productos, diferentes de los azúcares a que se refiere la fracción XX de este artículo.
-Fracción adicionada DOF 07-11-2025 XXI. Suero oral, la preparación en agua que exclusivamente contenga todas y cada una de las siguientes substancias: glucosa anhidra, cloruro de potasio, cloruro de sodio y citrato trisódico.
-Fracción adicionada DOF 11-12-2013 XXII. Combustibles fósiles: a) Gas Natural, hidrocarburo que se presenta como una mezcla de gases, constituida principalmente por metano, pero que comúnmente puede contener otros alcanos y otros gases como nitrógeno, ácido sulfhídrico, helio y mercaptanos. b) Propano, gas incoloro e inodoro, perteneciente a los hidrocarburos alifáticos con enlaces simples de tres carbonos. c) Butano, también conocido como n-butano, hidrocarburo saturado, parafínico o alifático, inflamable que se presenta comúnmente en estado gaseoso, incoloro e inodoro, compuesto por cuatro átomos de carbono y por diez de hidrógeno. d) Gasolina, el producto definido conforme a lo dispuesto en la fracción IX, inciso b) de este artículo.
-Inciso reformado DOF 18-11-2015, 09-12-2019 e) Gasavión, alquilado o gasolina de alto octanaje, de alta volatilidad y estabilidad y de un bajo punto de congelación, con contenido de tetraetilo de plomo utilizado en aeronaves equipadas con motores de combustión interna. f) Turbosina y kerosenos, combustibles líquidos e incoloros insolubles en agua, que se obtienen del proceso de refinación del petróleo crudo al fraccionarse típicamente a temperaturas entre los 157° y los 233° Celsius, utilizados principalmente como combustibles para aviones de retropropulsión, en los motores a reacción y de turbina de gas. g) Diésel, el producto definido conforme a lo dispuesto en la fracción IX, inciso c) de este artículo.
-Inciso reformado DOF 18-11-2015, 09-12-2019 h) Combustóleo, también llamado fuel oil, combustible más pesado de los que se puede destilar a presión atmosférica, es una fracción del petróleo que se obtiene como residuo de la destilación fraccionada a temperaturas típicamente por encima de los 426° Celsius, está compuesto por moléculas con más de 20 átomos de carbono, y su color es negro, se usa como combustible para plantas de energía eléctrica, calderas y hornos. i) Coque de Petróleo, combustible sólido carbonoso formado por la coquización del petróleo crudo procesado en refinerías o en procesos de craqueo. j) Coque de Carbón, combustible sólido carbonoso formado por la destilación de carbón bituminoso calentado a temperaturas de 500° a 1,100° Celsius sin contacto con el aire. k) Carbón Mineral, roca sedimentaria utilizada como combustible sólido, compuesto principalmente por carbono y otros elementos en cantidades variables como hidrógeno, azufre, oxígeno y nitrógeno. l) Otros combustibles fósiles, cualquier otro derivado del petróleo, carbón mineral o gas natural que se destinen a un proceso de combustión y que no estén listados en los incisos anteriores.
-Fracción adicionada DOF 11-12-2013 XXIII. Plaguicida, cualquier substancia o mezcla de substancias que se destina a controlar cualquier plaga, incluidos los vectores que transmiten las enfermedades humanas y de animales, las especies no deseadas que causen perjuicio o que interfieran con la producción agropecuaria y forestal, así como las substancias defoliantes y las desecantes.
-Fracción adicionada DOF 11-12-2013 XXIV. Bonos de carbono, son un instrumento económico contemplado en el Protocolo de Kioto y avalados por la Organización de las Naciones Unidas dentro de la Convención Marco de las Naciones Unidas sobre el Cambio Climático y cada bono de carbono equivale a una tonelada de bióxido de carbono equivalente (ton CO2 eq.), que ha sido dejada de emitir a la atmósfera.
-Fracción adicionada DOF 11-12-2013 XXV. Densidad calórica, a la cantidad de energía, expresada en kilocalorías por cada 100 gramos de alimento, que se obtiene al multiplicar las kilocalorías que contiene el alimento por cien y el resultado dividirlo entre los gramos de la porción de que se trate.
-Fracción adicionada DOF 11-12-2013 XXVI. Botanas, los productos elaborados a base de harinas, semillas, tubérculos, cereales, granos y frutas sanos y limpios que pueden estar fritos, horneados y explotados o tostados y adicionados de sal, otros ingredientes y aditivos para alimentos, así como las semillas para botanas, que son la parte del fruto comestible de las plantas o árboles, limpia, sana, con o sin cáscara o cutícula, frita, tostada u horneada, adicionada o no de otros ingredientes o aditivos para alimentos.
-Fracción adicionada DOF 11-12-2013 XXVII. Productos de confitería, los dulces y confites. Quedan comprendidos los caramelos, el dulce imitación de mazapán, gelatina o grenetina, gelatina preparada o jaletina, malvavisco, mazapán, peladilla, turrón, entre otros.
-Fracción adicionada DOF 11-12-2013 XXVIII. Chocolate, al producto obtenido por la mezcla homogénea de cantidades variables de pasta de cacao, o manteca de cacao, o cocoa con azúcares u otros edulcorantes, ingredientes opcionales y aditivos para alimentos, cualquiera que sea su presentación.
-Fracción adicionada DOF 11-12-2013 XXIX. Derivados del cacao, la manteca de cacao, pasta o licor de cacao, torta de cacao, entre otros.
-Fracción adicionada DOF 11-12-2013 XXX. Flan, dulce que se hace con yemas de huevo, leche y azúcar, y se cuaja a baño María, dentro de un molde generalmente bañado de azúcar tostada. Suele llevar también harina, y con frecuencia se le añade algún otro ingrediente, como café, naranja, vainilla, entre otros.
-Fracción adicionada DOF 11-12-2013 XXXI. Pudin, dulce que se prepara con bizcocho o pan deshecho en leche y con azúcar y frutas secas.
-Fracción adicionada DOF 11-12-2013 XXXII. Dulces de frutas y de hortalizas, a los productos tales como ates, jaleas o mermeladas, obtenidos por la cocción de pulpas o jugos de frutas u hortalizas con edulcorantes, adicionados o no de aditivos para alimentos. Comprende las frutas y hortalizas cristalizadas o congeladas.
-Fracción adicionada DOF 11-12-2013 XXXIII. Crema de cacahuate o avellanas, la pasta elaborada de cacahuates o avellanas, tostados y molidos, generalmente salada o endulzada.
-Fracción adicionada DOF 11-12-2013 XXXIV. Dulces de leche, comprende, entre otros, la cajeta, el jamoncillo y natillas.
-Fracción adicionada DOF 11-12-2013 XXXV. Alimentos preparados a base de cereales, comprende todo tipo de alimento preparado a base de cereales, ya sea en hojuelas, aglomerados o anillos de cereal, pudiendo o no estar añadidos con frutas o saborizantes.
-Fracción adicionada DOF 11-12-2013 XXXVI. Helados, al alimento elaborado mediante la congelación, con agitación de una mezcla pasteurizada compuesta por una combinación de ingredientes lácteos, que puede contener grasas vegetales permitidas, frutas, huevo, sus derivados y aditivos para alimentos.
-Fracción adicionada DOF 11-12-2013 XXXVII. Establecimientos de consumo final, a las cantinas, bares, cervecerías, centros nocturnos, cabarets, restaurantes, hoteles, centros sociales, discotecas, loncherías, fondas, kermeses, ferias, espectáculos, bailes públicos, salones, banquetes, casinos, y todos aquellos en los que se realice la apertura de bebidas alcohólicas para su venta y consumo final.
-Fracción adicionada DOF 12-11-2021 XXXVIII. Videojuego con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, aquellos que se clasifiquen como tales por contener violencia intensa o escenas prolongadas de violencia intensa, derramamiento de sangre, contenido sexual o contenido sexual gráfico, lenguaje fuerte o apuestas con moneda real.
-Fracción adicionada DOF 07-11-2025 XXXIX. Contenido adicional dentro del videojuego, todo contenido digital que complementa el videojuego por el que se paga una contraprestación, que pudiendo ser descargable o no, se utilice como elemento interactivo dentro del videojuego, como serían productos digitales o promocionales, que permitan mejorar la experiencia del adquirente, entre otros: nuevos escenarios, niveles, personajes, armas o modos de juegos.
+Fracción adicionada DOF 07-11-2025
+
+XXI. Suero oral, la preparación en agua que exclusivamente contenga todas y cada una de las siguientes substancias: glucosa anhidra, cloruro de potasio, cloruro de sodio y citrato trisódico.
+Fracción adicionada DOF 11-12-2013
+
+XXII. Combustibles fósiles:
+
+a) Gas Natural, hidrocarburo que se presenta como una mezcla de gases, constituida principalmente por metano, pero que comúnmente puede contener otros alcanos y otros gases como nitrógeno, ácido sulfhídrico, helio y mercaptanos.
+
+b) Propano, gas incoloro e inodoro, perteneciente a los hidrocarburos alifáticos con enlaces simples de tres carbonos.
+
+c) Butano, también conocido como n-butano, hidrocarburo saturado, parafínico o alifático, inflamable que se presenta comúnmente en estado gaseoso, incoloro e inodoro, compuesto por cuatro átomos de carbono y por diez de hidrógeno.
+
+d) Gasolina, el producto definido conforme a lo dispuesto en la fracción IX, inciso b) de este artículo.
+Inciso reformado DOF 18-11-2015, 09-12-2019
+
+e) Gasavión, alquilado o gasolina de alto octanaje, de alta volatilidad y estabilidad y de un bajo punto de congelación, con contenido de tetraetilo de plomo utilizado en aeronaves equipadas con motores de combustión interna.
+
+f) Turbosina y kerosenos, combustibles líquidos e incoloros insolubles en agua, que se obtienen del proceso de refinación del petróleo crudo al fraccionarse típicamente a temperaturas entre los 157° y los 233° Celsius, utilizados principalmente como combustibles para aviones de retropropulsión, en los motores a reacción y de turbina de gas.
+
+g) Diésel, el producto definido conforme a lo dispuesto en la fracción IX, inciso c) de este artículo.
+Inciso reformado DOF 18-11-2015, 09-12-2019
+
+h) Combustóleo, también llamado fuel oil, combustible más pesado de los que se puede destilar a presión atmosférica, es una fracción del petróleo que se obtiene como residuo de la destilación fraccionada a temperaturas típicamente por encima de los 426° Celsius, está compuesto por moléculas con más de 20 átomos de carbono, y su color es negro, se usa como combustible para plantas de energía eléctrica, calderas y hornos.
+
+i) Coque de Petróleo, combustible sólido carbonoso formado por la coquización del petróleo crudo procesado en refinerías o en procesos de craqueo.
+
+j) Coque de Carbón, combustible sólido carbonoso formado por la destilación de carbón bituminoso calentado a temperaturas de 500° a 1,100° Celsius sin contacto con el aire.
+
+k) Carbón Mineral, roca sedimentaria utilizada como combustible sólido, compuesto principalmente por carbono y otros elementos en cantidades variables como hidrógeno, azufre, oxígeno y nitrógeno.
+
+l) Otros combustibles fósiles, cualquier otro derivado del petróleo, carbón mineral o gas natural que se destinen a un proceso de combustión y que no estén listados en los incisos anteriores.
+Fracción adicionada DOF 11-12-2013
+
+XXIII. Plaguicida, cualquier substancia o mezcla de substancias que se destina a controlar cualquier plaga, incluidos los vectores que transmiten las enfermedades humanas y de animales, las especies no deseadas que causen perjuicio o que interfieran con la producción agropecuaria y forestal, así como las substancias defoliantes y las desecantes.
+Fracción adicionada DOF 11-12-2013
+
+XXIV. Bonos de carbono, son un instrumento económico contemplado en el Protocolo de Kioto y avalados por la Organización de las Naciones Unidas dentro de la Convención Marco de las Naciones Unidas sobre el Cambio Climático y cada bono de carbono equivale a una tonelada de bióxido de carbono equivalente (ton CO2 eq.), que ha sido dejada de emitir a la atmósfera.
+Fracción adicionada DOF 11-12-2013
+
+XXV. Densidad calórica, a la cantidad de energía, expresada en kilocalorías por cada 100 gramos de alimento, que se obtiene al multiplicar las kilocalorías que contiene el alimento por cien y el resultado dividirlo entre los gramos de la porción de que se trate.
+Fracción adicionada DOF 11-12-2013
+
+XXVI. Botanas, los productos elaborados a base de harinas, semillas, tubérculos, cereales, granos y frutas sanos y limpios que pueden estar fritos, horneados y explotados o tostados y adicionados de sal, otros ingredientes y aditivos para alimentos, así como las semillas para botanas, que son la parte del fruto comestible de las plantas o árboles, limpia, sana, con o sin cáscara o cutícula, frita, tostada u horneada, adicionada o no de otros ingredientes o aditivos para alimentos.
+Fracción adicionada DOF 11-12-2013
+
+XXVII. Productos de confitería, los dulces y confites. Quedan comprendidos los caramelos, el dulce imitación de mazapán, gelatina o grenetina, gelatina preparada o jaletina, malvavisco, mazapán, peladilla, turrón, entre otros.
+Fracción adicionada DOF 11-12-2013
+
+XXVIII. Chocolate, al producto obtenido por la mezcla homogénea de cantidades variables de pasta de cacao, o manteca de cacao, o cocoa con azúcares u otros edulcorantes, ingredientes opcionales y aditivos para alimentos, cualquiera que sea su presentación.
+Fracción adicionada DOF 11-12-2013
+
+XXIX. Derivados del cacao, la manteca de cacao, pasta o licor de cacao, torta de cacao, entre otros.
+Fracción adicionada DOF 11-12-2013
+
+XXX. Flan, dulce que se hace con yemas de huevo, leche y azúcar, y se cuaja a baño María, dentro de un molde generalmente bañado de azúcar tostada. Suele llevar también harina, y con frecuencia se le añade algún otro ingrediente, como café, naranja, vainilla, entre otros.
+Fracción adicionada DOF 11-12-2013
+
+XXXI. Pudin, dulce que se prepara con bizcocho o pan deshecho en leche y con azúcar y frutas secas.
+Fracción adicionada DOF 11-12-2013
+
+XXXII. Dulces de frutas y de hortalizas, a los productos tales como ates, jaleas o mermeladas, obtenidos por la cocción de pulpas o jugos de frutas u hortalizas con edulcorantes, adicionados o no de aditivos para alimentos. Comprende las frutas y hortalizas cristalizadas o congeladas.
+Fracción adicionada DOF 11-12-2013
+
+XXXIII. Crema de cacahuate o avellanas, la pasta elaborada de cacahuates o avellanas, tostados y molidos, generalmente salada o endulzada.
+Fracción adicionada DOF 11-12-2013
+
+XXXIV. Dulces de leche, comprende, entre otros, la cajeta, el jamoncillo y natillas.
+Fracción adicionada DOF 11-12-2013
+
+XXXV. Alimentos preparados a base de cereales, comprende todo tipo de alimento preparado a base de cereales, ya sea en hojuelas, aglomerados o anillos de cereal, pudiendo o no estar añadidos con frutas o saborizantes.
+Fracción adicionada DOF 11-12-2013
+
+XXXVI. Helados, al alimento elaborado mediante la congelación, con agitación de una mezcla pasteurizada compuesta por una combinación de ingredientes lácteos, que puede contener grasas vegetales permitidas, frutas, huevo, sus derivados y aditivos para alimentos.
+Fracción adicionada DOF 11-12-2013
+
+XXXVII. Establecimientos de consumo final, a las cantinas, bares, cervecerías, centros nocturnos, cabarets, restaurantes, hoteles, centros sociales, discotecas, loncherías, fondas, kermeses, ferias, espectáculos, bailes públicos, salones, banquetes, casinos, y todos aquellos en los que se realice la apertura de bebidas alcohólicas para su venta y consumo final.
+Fracción adicionada DOF 12-11-2021
+
+XXXVIII. Videojuego con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, aquellos que se clasifiquen como tales por contener violencia intensa o escenas prolongadas de violencia intensa, derramamiento de sangre, contenido sexual o contenido sexual gráfico, lenguaje fuerte o apuestas con moneda real.
+Fracción adicionada DOF 07-11-2025
+
+XXXIX. Contenido adicional dentro del videojuego, todo contenido digital que complementa el videojuego por el que se paga una contraprestación, que pudiendo ser descargable o no, se utilice como elemento interactivo dentro del videojuego, como serían productos digitales o promocionales, que permitan mejorar la experiencia del adquirente, entre otros: nuevos escenarios, niveles, personajes, armas o modos de juegos.
 Fracción adicionada DOF 07-11-2025 Fe de erratas al artículo DOF 17-04-1981. Reformado DOF 31-12-1981, 31-12-1982, 31-12-1985, 28-12-1989, 26-12-1990, 20-12-1991, 20-07-1992, 03-12-1993, 28-12-1994, 29-12-1997, 29-05-1998, 31-12-1998, 31-12-1999, 01-01-2002
 
 ### Artículo 4o
@@ -189,12 +339,19 @@ Fracción adicionada DOF 07-11-2025 Fe de erratas al artículo DOF 17-04-1981. R
 Únicamente procederá el acreditamiento del impuesto trasladado al contribuyente por la adquisición de los bienes a que se refieren los incisos A), D), F), G), I) y J) de la fracción I del artículo 2o. de esta Ley, así como el pagado por el propio contribuyente en la importación de los bienes a que se refieren los incisos A), C), D), F), G), H), I) y J) de dicha fracción, siempre que sea acreditable en los términos de la citada Ley.
 Párrafo reformado DOF 30-12-2002, 27-12-2006, 19-11-2010, 11-12-2013, 18-11-2015 El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores o unidades de medida señalados en esta Ley, las tasas o cuotas que correspondan, según sea el caso. Se entiende por impuesto acreditable, un monto equivalente al del impuesto especial sobre producción y servicios efectivamente trasladado al contribuyente o el propio impuesto que él hubiese pagado con motivo de la importación, exclusivamente en los supuestos a que se refiere el segundo párrafo de este artículo, en el mes al que corresponda.
 Párrafo reformado DOF 30-12-2002, 23-12-2005, 27-12-2006, 27-11-2009, 19-11-2010, 11-12-2013, 18-11-2015 Para que sea acreditable el impuesto especial sobre producción y servicios en términos de los párrafos que anteceden, deberán reunirse los siguientes requisitos:
+
 I. Que se trate de contribuyentes que causen el impuesto en relación con el que se pretende acreditar, en los términos de esta Ley y que corresponda a bienes o servicios por los que se deba pagar el impuesto o a los que se les aplique la tasa del 0%.
-Fracción reformada DOF 18-11-2015 II. Que los bienes se enajenen sin haber modificado su estado, forma o composición, salvo que se trate de bebidas alcohólicas a granel o de sus concentrados; de concentrados, polvos, jarabes, esencias o extractos de sabores, que sean utilizados para preparar bebidas saborizadas, así como de los bienes a que se refiere el artículo 2o., fracción I, incisos D), H), I) y J) de esta Ley.
+Fracción reformada DOF 18-11-2015
+
+II. Que los bienes se enajenen sin haber modificado su estado, forma o composición, salvo que se trate de bebidas alcohólicas a granel o de sus concentrados; de concentrados, polvos, jarabes, esencias o extractos de sabores, que sean utilizados para preparar bebidas saborizadas, así como de los bienes a que se refiere el artículo 2o., fracción I, incisos D), H), I) y J) de esta Ley.
 Tratándose de la exportación de bienes a que se refiere el artículo 2o., fracción III de esta Ley, no será exigible el requisito previsto en esta fracción.
-Fracción reformada DOF 30-12-2002, 11-12-2013, 18-11-2015 III. Que el impuesto haya sido trasladado expresamente al contribuyente y conste por separado en los comprobantes a que se refiere la fracción II del artículo 19 de esta Ley.
+Fracción reformada DOF 30-12-2002, 11-12-2013, 18-11-2015
+
+III. Que el impuesto haya sido trasladado expresamente al contribuyente y conste por separado en los comprobantes a que se refiere la fracción II del artículo 19 de esta Ley.
+
 IV. Que el impuesto acreditable y el impuesto a cargo contra el cual se efectúe el acreditamiento, correspondan a bienes de la misma clase, considerándose como tales los que se encuentran agrupados en cada uno de los incisos a que se refiere la fracción I del artículo 2o., de esta Ley.
 En el caso de la cerveza y de las bebidas refrescantes, éstas se considerarán cada una como bienes de diferente clase de las demás bebidas con contenido alcohólico.
+
 V. Que el impuesto que le haya sido trasladado al contribuyente y que éste pretenda acreditar, haya sido efectivamente pagado a quien efectuó dicho traslado.
 No procederá el acreditamiento a que se refiere este artículo, cuando quien lo pretenda realizar no sea contribuyente del impuesto por la enajenación del bien, por la prestación del servicio o por la exportación de bienes a que se refiere el artículo 2o., fracción III de esta Ley, por el que se le trasladó el citado impuesto o por el que se pagó en la importación. En ningún caso procederá el acreditamiento respecto de los actos o actividades que se encuentren exentos de este impuesto.
 Párrafo reformado DOF 18-11-2015 Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe efectuar de un monto equivalente al impuesto establecido en esta Ley. No se considerará acreditable el impuesto que se traslade sin tener esta obligación.
@@ -241,7 +398,9 @@ Artículo adicionado DOF 30-12-1983. Reformado DOF 31-12-1984, 31-12-1985, 30-04
 
 ### Artículo 5o
 .-A BIS.- Las plataformas digitales de intermediación que proporcionen los servicios digitales a que se refiere el artículo 2o., fracción II, inciso D), numeral 2 de esta Ley, cuando cobren el precio y el impuesto especial sobre producción y servicios correspondiente a las operaciones de intermediación por cuenta del prestador del servicio digital, deberán:
+
 I. Retener a las personas físicas o morales residentes en el país o a los residentes en el extranjero sin establecimiento en México que presten los servicios digitales, el 100% del impuesto especial sobre producción y servicios cobrado. El retenedor sustituirá al prestador del servicio en la obligación de pago del impuesto. En este caso el prestador del servicio considerará el impuesto retenido como pago definitivo del impuesto.
+
 II. Cumplir con las obligaciones previstas en el artículo 18-J, fracción II, incisos b), c) y d) y impuesto especial sobre producción y servicios que se cause conforme al artículo 2o., fracción II, inciso D) de esta Ley.
 Artículo adicionado DOF 07-11-2025
 
@@ -278,26 +437,67 @@ Párrafo adicionado DOF 31-12-2003 Reforma DOF 31-12-2003: Derogó del artículo
 
 ### Artículo 8o
 .- No se pagará el impuesto establecido en esta Ley:
-I. Por las enajenaciones siguientes: a) (Se deroga).
-Inciso reformado DOF 30-12-2002. Derogado DOF 31-12-2003. Adicionado DOF 21-12-2007. Derogado DOF 11-12-2013 b) Aguamiel y productos derivados de su fermentación. c) Las que realicen personas diferentes de los fabricantes, productores o importadores, de los bienes a que se refieren los incisos C), D), G) y H) de la fracción I del artículo 2o. y el
+
+I. Por las enajenaciones siguientes:
+
+a) (Se deroga).
+Inciso reformado DOF 30-12-2002. Derogado DOF 31-12-2003. Adicionado DOF 21-12-2007. Derogado DOF 11-12-2013
+
+b) Aguamiel y productos derivados de su fermentación.
+
+c) Las que realicen personas diferentes de los fabricantes, productores o importadores, de los bienes a que se refieren los incisos C), D), G) y H) de la fracción I del artículo 2o. y el
 
 ### artículo 2o
 .-A de esta Ley. En estos casos, las personas distintas de los fabricantes, productores o importadores, no se consideran contribuyentes de este impuesto por dichas enajenaciones.
-Inciso reformado DOF 31-12-2003, 11-12-2013, 18-11-2015 d) Las de cerveza, bebidas refrescantes, cigarros, puros y otros tabacos labrados u otros productos que contengan nicotina, así como las de los bienes a que se refiere el inciso F) de la fracción I del artículo 2o. de esta Ley, que se efectúen al público en general, salvo que el enajenante sea fabricante, productor, envasador, distribuidor o importador de los bienes que enajene. No gozarán del beneficio establecido en este inciso, las enajenaciones de los citados bienes efectuadas por comerciantes que obtengan la mayor parte del importe de sus ingresos de enajenaciones a personas que no forman parte del público en general. No se consideran enajenaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes que cumplan con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación.
-Inciso reformado DOF 27-12-2006, 19-11-2010, 07-11-2025 e) Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su enajenación se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, II, primer párrafo, VI, VIII, X, XII y XIV de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
-Inciso reformado DOF 30-12-2002. Derogado DOF 31-12-2003. Adicionado DOF 28-04-2010 f) Las de bebidas saborizadas en restaurantes, bares y otros lugares en donde se proporcionen servicios de alimentos y bebidas, bebidas saborizadas que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria, la leche en cualquier presentación, incluyendo la que esté mezclada con grasa vegetal y los sueros orales que exclusivamente contengan todas y cada una de las substancias a que se refiere la fracción XXI del artículo 3o. de esta Ley.
-Inciso derogado DOF 27-12-2006. Adicionado DOF 11-12-2013. Reformado DOF 07-11-2025 g) (Se deroga).
-Inciso adicionado DOF 30-12-2002. Derogado DOF 11-12-2013 h) Plaguicidas que conforme a la categoría de peligro de toxicidad aguda correspondan a la categoría 5.
-Inciso adicionado DOF 11-12-2013 i) Petróleo crudo y gas natural.
-Inciso adicionado DOF 11-12-2013 j) Las de otros productos que contengan nicotina que sean utilizados como terapia de reemplazo de nicotina que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria.
-Inciso adicionado DOF 07-11-2025 II. Por la exportación de los bienes a que se refiere esta Ley. En estos casos, los exportadores estarán a lo dispuesto en la fracción XI del artículo 19 de la misma.
+Inciso reformado DOF 31-12-2003, 11-12-2013, 18-11-2015
+
+d) Las de cerveza, bebidas refrescantes, cigarros, puros y otros tabacos labrados u otros productos que contengan nicotina, así como las de los bienes a que se refiere el inciso F) de la fracción I del artículo 2o. de esta Ley, que se efectúen al público en general, salvo que el enajenante sea fabricante, productor, envasador, distribuidor o importador de los bienes que enajene. No gozarán del beneficio establecido en este inciso, las enajenaciones de los citados bienes efectuadas por comerciantes que obtengan la mayor parte del importe de sus ingresos de enajenaciones a personas que no forman parte del público en general. No se consideran enajenaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes que cumplan con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación.
+Inciso reformado DOF 27-12-2006, 19-11-2010, 07-11-2025
+
+e) Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su enajenación se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, II, primer párrafo, VI, VIII, X, XII y XIV de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
+Inciso reformado DOF 30-12-2002. Derogado DOF 31-12-2003. Adicionado DOF 28-04-2010
+
+f) Las de bebidas saborizadas en restaurantes, bares y otros lugares en donde se proporcionen servicios de alimentos y bebidas, bebidas saborizadas que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria, la leche en cualquier presentación, incluyendo la que esté mezclada con grasa vegetal y los sueros orales que exclusivamente contengan todas y cada una de las substancias a que se refiere la fracción XXI del artículo 3o. de esta Ley.
+Inciso derogado DOF 27-12-2006. Adicionado DOF 11-12-2013. Reformado DOF 07-11-2025
+
+g) (Se deroga).
+Inciso adicionado DOF 30-12-2002. Derogado DOF 11-12-2013
+
+h) Plaguicidas que conforme a la categoría de peligro de toxicidad aguda correspondan a la categoría 5.
+Inciso adicionado DOF 11-12-2013
+
+i) Petróleo crudo y gas natural.
+Inciso adicionado DOF 11-12-2013
+
+j) Las de otros productos que contengan nicotina que sean utilizados como terapia de reemplazo de nicotina que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria.
+Inciso adicionado DOF 07-11-2025
+
+II. Por la exportación de los bienes a que se refiere esta Ley. En estos casos, los exportadores estarán a lo dispuesto en la fracción XI del artículo 19 de la misma.
 Lo dispuesto en esta fracción no será aplicable a las exportaciones que se realicen de conformidad con lo dispuesto en el artículo 2o., fracción III de esta Ley.
-Párrafo adicionado DOF 18-11-2015 III. Por las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, en los siguientes supuestos: a) Cuando se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir refiere el artículo 79, fracciones VI, X y XVII de dicha Ley, siempre que destinen la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas.
-Inciso reformado DOF 11-12-2013 b) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio. c) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir un bien o contratar un servicio, siempre que el realizador cumpla los requisitos siguientes: 1. No obtenga más de diez permisos para celebrar sorteos en un año de calendario. 2. El monto total de los premios ofrecidos en un año de calendario no exceda el 3% de los ingresos obtenidos en el año inmediato anterior.
+Párrafo adicionado DOF 18-11-2015
+
+III. Por las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, en los siguientes supuestos:
+
+a) Cuando se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir refiere el artículo 79, fracciones VI, X y XVII de dicha Ley, siempre que destinen la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas.
+Inciso reformado DOF 11-12-2013
+
+b) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio.
+
+c) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir un bien o contratar un servicio, siempre que el realizador cumpla los requisitos siguientes: 1. No obtenga más de diez permisos para celebrar sorteos en un año de calendario. 2. El monto total de los premios ofrecidos en un año de calendario no exceda el 3% de los ingresos obtenidos en el año inmediato anterior.
 Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos en dicho ejercicio para los efectos de lo dispuesto en este inciso. En el supuesto de que el monto de los premios ofrecidos exceda el por ciento a que se refiere el párrafo anterior, se pagará el impuesto que corresponda de conformidad con lo dispuesto en esta Ley con la actualización y los recargos respectivos.
-Fracción adicionada DOF 01-10-2007 IV. Por los servicios de telecomunicaciones siguientes: a) De telefonía fija rural, consistente en el servicio de telefonía fija que se presta en poblaciones de hasta 5,000 habitantes, conforme a los últimos resultados definitivos, referidos específicamente a población, provenientes del censo general de población y vivienda que publica el Instituto Nacional de Estadística y Geografía.
+Fracción adicionada DOF 01-10-2007
+
+IV. Por los servicios de telecomunicaciones siguientes:
+
+a) De telefonía fija rural, consistente en el servicio de telefonía fija que se presta en poblaciones de hasta 5,000 habitantes, conforme a los últimos resultados definitivos, referidos específicamente a población, provenientes del censo general de población y vivienda que publica el Instituto Nacional de Estadística y Geografía.
 En el caso de que se levante un conteo de población y vivienda o un instrumento de naturaleza similar de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica, en forma previa al siguiente censo general de población y vivienda, dicho conteo o instrumento se aplicará para los efectos del párrafo anterior.
-El Servicio de Administración Tributaria dará a conocer en su página electrónica el listado de las poblaciones a que se refiere este inciso. b) De telefonía pública, consistente en el acceso a los servicios proporcionados a través de redes públicas de telecomunicaciones, y que deberá prestarse al público en general, por medio de la instalación, operación y explotación de aparatos telefónicos de uso público. c) De interconexión, consistente en la conexión física o virtual, lógica y funcional, entre redes públicas de telecomunicaciones, que permite la conducción de tráfico entre dichas redes y/o entre servicios de telecomunicaciones prestados a través de las mismas, de manera que los usuarios de una de las redes públicas de telecomunicaciones puedan conectarse e intercambiar tráfico con los usuarios de la otra red pública de telecomunicaciones y viceversa, o bien, permite a una red pública de telecomunicaciones y/o a sus usuarios la utilización de servicios de telecomunicaciones y/o capacidad y funciones provistos por o a través de otra red pública de telecomunicaciones. Quedan comprendidos en los servicios de interconexión, los que se lleven a cabo entre residentes en México, así como los que se lleven a cabo por residentes en México con residentes en el extranjero. d) De acceso a Internet, a través de una red fija o móvil, consistente en todos los servicios, aplicaciones y contenidos que mediante dicho acceso a Internet se presten a través de una red de telecomunicaciones.
+El Servicio de Administración Tributaria dará a conocer en su página electrónica el listado de las poblaciones a que se refiere este inciso.
+
+b) De telefonía pública, consistente en el acceso a los servicios proporcionados a través de redes públicas de telecomunicaciones, y que deberá prestarse al público en general, por medio de la instalación, operación y explotación de aparatos telefónicos de uso público.
+
+c) De interconexión, consistente en la conexión física o virtual, lógica y funcional, entre redes públicas de telecomunicaciones, que permite la conducción de tráfico entre dichas redes y/o entre servicios de telecomunicaciones prestados a través de las mismas, de manera que los usuarios de una de las redes públicas de telecomunicaciones puedan conectarse e intercambiar tráfico con los usuarios de la otra red pública de telecomunicaciones y viceversa, o bien, permite a una red pública de telecomunicaciones y/o a sus usuarios la utilización de servicios de telecomunicaciones y/o capacidad y funciones provistos por o a través de otra red pública de telecomunicaciones. Quedan comprendidos en los servicios de interconexión, los que se lleven a cabo entre residentes en México, así como los que se lleven a cabo por residentes en México con residentes en el extranjero.
+
+d) De acceso a Internet, a través de una red fija o móvil, consistente en todos los servicios, aplicaciones y contenidos que mediante dicho acceso a Internet se presten a través de una red de telecomunicaciones.
 Cuando los servicios a que se refiere el párrafo anterior se ofrezcan de manera conjunta con otros servicios que se presten a través de una red pública de telecomunicaciones, la exención a que se refiere este inciso será procedente siempre que en el comprobante fiscal respectivo, se determine la contraprestación correspondiente al servicio de acceso a Internet de manera separada a los demás servicios de telecomunicaciones que se presten a través de una red pública y que dicha contraprestación se determine de acuerdo con los precios y montos de las contraprestaciones que se hubieran cobrado de no haberse proporcionado el servicio en forma conjunta con otros servicios de telecomunicaciones gravados por esta Ley.
 En este caso los servicios de Internet exentos no podrán exceder del 30% del total de las contraprestaciones antes referidas que se facturen en forma conjunta.
 Párrafo reformado DOF 11-12-2013 Fracción adicionada DOF 27-11-2009 Artículo reformado DOF 31-12-1981, 31-12-1982, 30-12-1983, 31-12-1985, 31-12-1987, 31-12-1988, 28-12-1989, 26-12-1990, 20-12-1991, 20-07-1992, 03-12-1993, 30-12-1996, 31-12-1998, 31-12-1999, 31-12-2000, 01-01-2002
@@ -330,6 +530,7 @@ Párrafo reformado DOF 09-12-2019, 07-11-2025 Artículo reformado DOF 30-12-1983
 .- Para los efectos de esta Ley, en la importación de bienes el impuesto se causa:
 Párrafo reformado DOF 31-12-1999, 01-01-2002 I.- En el momento en que el importador presente el pedimento para su trámite en los términos de la legislación aduanera.
 Fracción reformada DOF 28-12-1989 II.- En caso de importación temporal al convertirse en definitiva.
+
 III. En el caso de bienes que hayan sido introducidos ilegalmente al país, cuando dicha internación sea descubierta o las citadas mercancías sean embargadas, por las autoridades.
 Fracción adicionada DOF 01-01-2002
 
@@ -339,13 +540,25 @@ Párrafo reformado DOF 31-12-1999, 01-01-2002 I.- Las que en los términos de la
 No será aplicable la exención a que se refiere esta fracción tratándose de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico.
 Párrafo adicionado DOF 30-12-2002. Reformado DOF 11-12-2013 II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y por las misiones diplomáticas acreditadas en México, con los controles y limitaciones que mediante disposiciones de carácter general, en su caso, establezca la Secretaría de Hacienda y Crédito Público.
 III.- Las de aguamiel y productos derivados de su fermentación.
-Fracción reformada DOF 31-12-1982, 26-12-1990, 28-12-1994, 31-12-1998, 01-01-2002, 31-12-2003 IV. (Se deroga).
+Fracción reformada DOF 31-12-1982, 26-12-1990, 28-12-1994, 31-12-1998, 01-01-2002, 31-12-2003
+
+IV. (Se deroga).
 Fracción reformada DOF 31-12-1981. Derogada DOF 31-12-1982. Adicionada DOF 31-12-1985. Reformada DOF 28-12-1989.
-Derogada DOF 26-12-1990. Adicionada DOF 01-01-2002. Derogada DOF 11-12-2013 V. Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su importación se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, VI, VIII, XI, XIV y XIX de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
-Fracción derogada DOF 31-12-1982. Adicionada DOF 01-12-2004. Derogada DOF 27-12-2006. Adicionada DOF 28-04-2010 VI. Las importaciones definitivas de los bienes por los que se haya pagado el impuesto a que se refiere esta Ley al destinarse a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico o de mercancías que incluyan los bienes por los que se pagó el impuesto, siempre que la importación definitiva la realicen quienes hayan destinado los bienes a los regímenes mencionados. No será aplicable lo dispuesto en esta fracción cuando el impuesto se haya pagado aplicando el crédito fiscal previsto en el artículo 15-A de esta Ley.
-Fracción derogada DOF 31-12-1982. Adicionada DOF 11-12-2013 VII. Las de bebidas saborizadas que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria, la leche en cualquier presentación, incluyendo la que esté mezclada con grasa vegetal y los sueros orales que exclusivamente contengan todas y cada una de las substancias a que se refiere la fracción XXI del artículo 3o. de esta Ley.
-Fracción adicionada DOF 11-12-2013. Reformada DOF 07-11-2025 VIII. Las de plaguicidas que de conformidad con la categoría de peligro de toxicidad aguda corresponda a la categoría 5.
-Fracción adicionada DOF 11-12-2013 IX. Las de petróleo crudo y gas natural.
+Derogada DOF 26-12-1990. Adicionada DOF 01-01-2002. Derogada DOF 11-12-2013
+
+V. Alcohol, alcohol desnaturalizado y mieles incristalizables, siempre que por su importación se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, VI, VIII, XI, XIV y XIX de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
+Fracción derogada DOF 31-12-1982. Adicionada DOF 01-12-2004. Derogada DOF 27-12-2006. Adicionada DOF 28-04-2010
+
+VI. Las importaciones definitivas de los bienes por los que se haya pagado el impuesto a que se refiere esta Ley al destinarse a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico o de mercancías que incluyan los bienes por los que se pagó el impuesto, siempre que la importación definitiva la realicen quienes hayan destinado los bienes a los regímenes mencionados. No será aplicable lo dispuesto en esta fracción cuando el impuesto se haya pagado aplicando el crédito fiscal previsto en el artículo 15-A de esta Ley.
+Fracción derogada DOF 31-12-1982. Adicionada DOF 11-12-2013
+
+VII. Las de bebidas saborizadas que cuenten con registro sanitario como medicamentos emitido por la autoridad sanitaria, la leche en cualquier presentación, incluyendo la que esté mezclada con grasa vegetal y los sueros orales que exclusivamente contengan todas y cada una de las substancias a que se refiere la fracción XXI del artículo 3o. de esta Ley.
+Fracción adicionada DOF 11-12-2013. Reformada DOF 07-11-2025
+
+VIII. Las de plaguicidas que de conformidad con la categoría de peligro de toxicidad aguda corresponda a la categoría 5.
+Fracción adicionada DOF 11-12-2013
+
+IX. Las de petróleo crudo y gas natural.
 Fracción adicionada DOF 11-12-2013
 
 ### Artículo 14
@@ -382,8 +595,10 @@ Artículo reformado DOF 31-12-1982, 28-12-1989, 26-12-1990, 31-12-1998, 01-01-20
 Cuando en algún sorteo el premio ofrecido se encuentre contenido de manera referenciada y oculta en bienes cuya adquisición otorgue el derecho a participar en dicho sorteo, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en ese sorteo.
 Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente. Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
 Los valores a que se refiere este artículo se podrán disminuir con el monto de los siguientes conceptos:
+
 I. Los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
 Tratándose de premios diversos al efectivo, el monto que se podrá disminuir será el que corresponda al valor estipulado en el permiso otorgado por la autoridad competente o, en su defecto, el valor de mercado.
+
 II. Las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en contabilidad y, tratándose de juegos o sorteos en los que se apueste, también se registren en el sistema central de apuestas. Cuando el premio incluya la devolución de la cantidad efectivamente percibida del participante, dicho concepto se disminuirá únicamente como premio.
 Cuando el monto de los conceptos mencionados en las fracciones anteriores sea superior a los valores de las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, correspondientes al mes de que se trate, la diferencia se podrá disminuir en los meses siguientes hasta agotarse.
 Cuando se trate de los servicios a que se refiere el artículo 2o., fracción II, inciso B), segundo párrafo de esta Ley, para calcular el impuesto se considerará como valor el total de las cantidades efectivamente percibidas de los participantes en la realización de los juegos o sorteos, independientemente de su denominación, sin disminución alguna.
@@ -399,52 +614,103 @@ Artículo adicionado DOF 07-11-2025 CAPITULO V De las Obligaciones de los Contri
 
 ### Artículo 19
 .- Los contribuyentes a que se refiere esta Ley tienen, además de las obligaciones señaladas en otros artículos de la misma y en las demás disposiciones fiscales, las siguientes:
+
 I. Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas. Asimismo, se deberán identificar las operaciones en las que se pague el impuesto mediante la aplicación de las cuotas previstas en los artículos 2o., fracción I, incisos C), segundo y tercer párrafos, D), G) y H) y 2o.-A de esta Ley.
-Fracción reformada DOF 23-12-2005, 27-11-2009, 11-12-2013, 18-11-2015, 09-12-2019 II. Expedir comprobantes fiscales, sin el traslado en forma expresa y por separado del impuesto establecido en esta Ley, salvo tratándose de la enajenación de los bienes a que se refieren los incisos A), D), F), G), I) y J) de la fracción I del artículo 2o. de esta Ley, siempre que el adquirente sea a su vez contribuyente de este impuesto por dichos bienes y así lo solicite.
+Fracción reformada DOF 23-12-2005, 27-11-2009, 11-12-2013, 18-11-2015, 09-12-2019
+
+II. Expedir comprobantes fiscales, sin el traslado en forma expresa y por separado del impuesto establecido en esta Ley, salvo tratándose de la enajenación de los bienes a que se refieren los incisos A), D), F), G), I) y J) de la fracción I del artículo 2o. de esta Ley, siempre que el adquirente sea a su vez contribuyente de este impuesto por dichos bienes y así lo solicite.
 Párrafo reformado DOF 30-12-2002, 27-12-2006, 19-11-2010, 11-12-2013, 18-11-2015 Los comerciantes que en el ejercicio inmediato anterior a aquél al que corresponda, hubieran efectuado el 90% del importe de sus enajenaciones con el público en general, en el comprobante fiscal que expidan no trasladarán expresamente y por separado el impuesto establecido en esta Ley, salvo que el adquirente sea contribuyente de este impuesto por el bien o servicio de que se trate y solicite la expedición del comprobante fiscal con el impuesto trasladado expresamente y por separado. En todos los casos, se deberán ofrecer los bienes gravados por esta Ley, incluyendo el impuesto en el precio.
 Párrafo reformado DOF 11-12-2013 Los contribuyentes que enajenen los bienes a que se refieren los incisos A), F), G) y J) de la fracción I del artículo 2o. de esta Ley, que trasladen en forma expresa y por separado el impuesto establecido en la misma, deberán proporcionar al Servicio de Administración Tributaria en forma trimestral, en los meses de abril, julio, octubre y enero, del año que corresponda, la relación de las personas a las que en el trimestre anterior al que se declara les hubiere trasladado el impuesto especial sobre producción y servicios en forma expresa y por separado en los términos de esta fracción, así como el monto del impuesto trasladado en dichas operaciones y la información y documentación que mediante reglas de carácter general señale el Servicio de Administración Tributaria.
 Párrafo reformado DOF 30-12-2002, 27-12-2006, 19-11-2010, 11-12-2013 Los contribuyentes que enajenen vinos de mesa, deberán cumplir con la obligación a que se refiere el párrafo anterior en los meses de enero y julio de cada año.
 Párrafo adicionado DOF 31-12-2003 Tratándose de la enajenación de tabacos labrados y de otros productos que contengan nicotina, en los comprobantes fiscales que se expidan se deberá especificar el peso total de tabaco contenido en los tabacos labrados enajenados, la cantidad de cigarros enajenados o la cantidad de miligramos de nicotina contenida en los productos enajenados, según corresponda.
-Párrafo adicionado DOF 27-11-2009. Reformado DOF 11-12-2013, 07-11-2025 III. Presentar las declaraciones e informes previstos en esta Ley, en los términos que al efecto se establezcan en el Código Fiscal de la Federación. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración de pago ante las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente.
+Párrafo adicionado DOF 27-11-2009. Reformado DOF 11-12-2013, 07-11-2025
+
+III. Presentar las declaraciones e informes previstos en esta Ley, en los términos que al efecto se establezcan en el Código Fiscal de la Federación. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración de pago ante las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente.
+
 IV. Los productores e importadores de cigarros y otros productos que contengan nicotina, deberán registrar ante las autoridades fiscales, conjuntamente con su declaración de pago correspondiente al primer mes de cada año, la lista de precios de venta por cada uno de los productos que enajenan, clasificados por marca y presentación, señalando los precios al mayorista, detallista y el precio sugerido de venta al público.
 Párrafo reformado DOF 07-11-2025 Asimismo, se deberá informar a las autoridades fiscales cuando exista alguna modificación en los precios, debiendo presentar a las citadas autoridades, dentro de los 5 días siguientes a que esto ocurra, la lista de precios de venta que estará vigente a partir del momento de la modificación.
+
 V. Los contribuyentes deberán adherir marbetes a los envases que contengan bebidas alcohólicas, inmediatamente después de su envasamiento. Tratándose de bebidas alcohólicas a granel, se deberán adherir precintos a los recipientes que las contengan, cuando las mismas se encuentren en tránsito o transporte. No será aplicable lo dispuesto en este párrafo tratándose de bebidas alcohólicas envasadas que se destinen a la exportación, siempre que se cumplan con las reglas de carácter general que al efecto se señalen en el Reglamento de esta Ley.
 Párrafo reformado DOF 23-12-2005 Quienes importen bebidas alcohólicas y estén obligados al pago del impuesto en términos de esta Ley, deberán colocar los marbetes o precintos a que se refiere esta fracción previamente a la internación en territorio nacional de los productos o, en su defecto, tratándose de marbetes, en la aduana, almacén general de depósito o recinto fiscal o fiscalizado, autorizados por la Secretaría de Hacienda y Crédito Público. No podrán retirarse los productos de los lugares antes indicados sin que se haya cumplido con la obligación señalada.
 Párrafo reformado DOF 23-12-2005 El marbete para bebidas alcohólicas podrá colocarse en el cuello de la botella, abarcando la tapa y parte del propio envase. En los casos en que por la forma de la tapa no sea posible adherir el marbete en el cuello de la botella, éste podrá colocarse en la etiqueta frontal del envase, abarcando parte de la etiqueta y parte del propio envase, previa autorización de la autoridad fiscal.
 Para los casos de vinos de mesa de hasta 14° GL podrán adherir el marbete en el cuello de la botella o en la etiqueta frontal del envase, abarcando parte de la etiqueta y del propio envase.
-Reforma DOF 23-12-2005: Derogó de la fracción el entonces párrafo quinto Fracción reformada DOF 31-12-2003, 01-12-2004 VI. Proporcionar a las autoridades fiscales durante el mes de marzo de cada año, la información que corresponda de los bienes que produjeron, enajenaron o importaron en el año inmediato anterior, respecto de su consumo por entidad federativa e impuesto correspondiente, así como de los servicios prestados por establecimiento en cada entidad federativa. Para los efectos de esta fracción, se considera que los bienes se consumen en el lugar en el que se hace la entrega material del producto, de acuerdo con el comprobante fiscal.
-Fracción reformada DOF 11-12-2013 VII. Realizar, tratándose de los contribuyentes que presten los servicios a que se refiere el inciso A) de la fracción II del artículo 2o. de esta Ley, la separación en su contabilidad y registros, de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta ajena.
+Reforma DOF 23-12-2005: Derogó de la fracción el entonces párrafo quinto Fracción reformada DOF 31-12-2003, 01-12-2004
+
+VI. Proporcionar a las autoridades fiscales durante el mes de marzo de cada año, la información que corresponda de los bienes que produjeron, enajenaron o importaron en el año inmediato anterior, respecto de su consumo por entidad federativa e impuesto correspondiente, así como de los servicios prestados por establecimiento en cada entidad federativa. Para los efectos de esta fracción, se considera que los bienes se consumen en el lugar en el que se hace la entrega material del producto, de acuerdo con el comprobante fiscal.
+Fracción reformada DOF 11-12-2013
+
+VII. Realizar, tratándose de los contribuyentes que presten los servicios a que se refiere el inciso A) de la fracción II del artículo 2o. de esta Ley, la separación en su contabilidad y registros, de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta ajena.
+
 VIII. Los contribuyentes de los bienes a que se refieren los incisos A), B), C), D), F), G), H), I) y J) de la fracción I del artículo 2o. de esta Ley, obligados al pago del impuesto especial sobre producción y servicios a que se refiere la misma, deberán proporcionar al Servicio de Administración Tributaria, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la información sobre sus 50 principales clientes y proveedores del trimestre inmediato anterior al de su declaración, respecto de dichos bienes. Tratándose de contribuyentes que enajenen o importen vinos de mesa, deberán cumplir con esta obligación de manera semestral, en los meses de enero y julio de cada año.
 Párrafo reformado DOF 30-12-2002, 31-12-2003, 27-12-2006, 19-11-2010, 11-12-2013, 18-11-2015 Los contribuyentes que tengan uno o varios establecimientos ubicados en una entidad federativa diferente al de la matriz, deberán presentar la información a que se refiere el párrafo anterior por las operaciones que correspondan a dichos establecimientos para su consumo final.
 La información a que se refiere esta fracción y la fracción VI de este artículo, será la base para la determinación de las participaciones a que se refiere esta Ley y los artículos 3o. y 3o.-A de la Ley de Coordinación Fiscal, en materia del impuesto especial sobre producción y servicios.
-Párrafo reformado DOF 30-12-2002 IX. Los productores e importadores de tabacos labrados y de otros productos que contengan nicotina, deberán informar a la Secretaría de Hacienda y Crédito Público, conjuntamente con su declaración del mes, el precio de enajenación de cada producto y el valor y volumen de los mismos; así como especificar el peso total de tabacos labrados enajenados, la cantidad total de cigarros enajenados o la cantidad de miligramos de nicotina contenida en los productos enajenados, según corresponda. Esta información se deberá proporcionar por cada una de las marcas que produzca o importe el contribuyente.
-Fracción reformada DOF 27-11-2009, 07-11-2025 X. Los fabricantes, productores o envasadores, de alcohol, alcohol desnaturalizado y mieles incristalizables, de bebidas con contenido alcohólico, cerveza, tabacos labrados y otros productos que contengan nicotina, combustibles automotrices, bebidas energetizantes, concentrados, polvos y jarabes para preparar bebidas energetizantes, bebidas saborizadas con azúcares o edulcorantes añadidos, así como de concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener bebidas saborizadas con azúcares o edulcorantes añadidos, así como combustibles fósiles y plaguicidas, deberán llevar un control físico del volumen fabricado, producido o envasado, según corresponda, así como reportar trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la lectura mensual de los registros de cada uno de los dispositivos que se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración.
+Párrafo reformado DOF 30-12-2002
+
+IX. Los productores e importadores de tabacos labrados y de otros productos que contengan nicotina, deberán informar a la Secretaría de Hacienda y Crédito Público, conjuntamente con su declaración del mes, el precio de enajenación de cada producto y el valor y volumen de los mismos; así como especificar el peso total de tabacos labrados enajenados, la cantidad total de cigarros enajenados o la cantidad de miligramos de nicotina contenida en los productos enajenados, según corresponda. Esta información se deberá proporcionar por cada una de las marcas que produzca o importe el contribuyente.
+Fracción reformada DOF 27-11-2009, 07-11-2025
+
+X. Los fabricantes, productores o envasadores, de alcohol, alcohol desnaturalizado y mieles incristalizables, de bebidas con contenido alcohólico, cerveza, tabacos labrados y otros productos que contengan nicotina, combustibles automotrices, bebidas energetizantes, concentrados, polvos y jarabes para preparar bebidas energetizantes, bebidas saborizadas con azúcares o edulcorantes añadidos, así como de concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener bebidas saborizadas con azúcares o edulcorantes añadidos, así como combustibles fósiles y plaguicidas, deberán llevar un control físico del volumen fabricado, producido o envasado, según corresponda, así como reportar trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la lectura mensual de los registros de cada uno de los dispositivos que se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración.
 Párrafo reformado DOF 27-12-2006, 19-11-2010, 11-12-2013, 18-11-2015, 07-11-2025 La obligación a que se refiere esta fracción no será aplicable a los productores de vinos de mesa.
-Fracción reformada DOF 30-12-2002, 31-12-2003 XI. Los importadores o exportadores de los bienes a que se refieren los incisos A), B), C), D), F), G), H) e I) de la fracción I del artículo 2o. de esta Ley, deberán estar inscritos en el padrón de importadores y exportadores sectorial, según sea el caso, a cargo de la Secretaría de Hacienda y Crédito Público.
-Fracción reformada DOF 31-12-2003, 27-12-2006, 19-11-2010, 11-12-2013, 18-11-2015 XII. Los fabricantes, productores y envasadores, de alcohol, alcohol desnaturalizado, mieles incristalizables y de bebidas alcohólicas, deberán reportar en el mes de enero de cada año, al Servicio de Administración Tributaria, las características de los equipos que utilizarán para la producción, destilación, envasamiento y almacenaje de dichos bienes, así como de los contenedores para el almacenaje de dichos bienes cuando no se trate de equipo.
+Fracción reformada DOF 30-12-2002, 31-12-2003
+
+XI. Los importadores o exportadores de los bienes a que se refieren los incisos A), B), C), D), F), G), H) e I) de la fracción I del artículo 2o. de esta Ley, deberán estar inscritos en el padrón de importadores y exportadores sectorial, según sea el caso, a cargo de la Secretaría de Hacienda y Crédito Público.
+Fracción reformada DOF 31-12-2003, 27-12-2006, 19-11-2010, 11-12-2013, 18-11-2015
+
+XII. Los fabricantes, productores y envasadores, de alcohol, alcohol desnaturalizado, mieles incristalizables y de bebidas alcohólicas, deberán reportar en el mes de enero de cada año, al Servicio de Administración Tributaria, las características de los equipos que utilizarán para la producción, destilación, envasamiento y almacenaje de dichos bienes, así como de los contenedores para el almacenaje de dichos bienes cuando no se trate de equipo.
 Párrafo reformado DOF 30-12-2002, 31-12-2003, 28-06-2006 Asimismo, deberán reportar a dicha dependencia la fecha de inicio del proceso de producción, destilación o envasamiento, con quince días de anticipación al mismo, acompañando la información sobre las existencias de producto en ese momento. Igualmente, deberán reportar la fecha en que finalice el proceso, dentro de los quince días siguientes a la conclusión del mismo, acompañando la información sobre el volumen fabricado, producido o envasado.
 En el caso de que se adquieran o se incorporen nuevos equipos de destilación o envasamiento, se modifiquen los instalados o se enajenen los reportados por el contribuyente, se deberá presentar aviso ante las autoridades fiscales dentro de los 15 días siguientes a que esto ocurra.
+
 XIII. Los contribuyentes de los bienes a que se refieren los incisos A), D), F) y H) de la fracción I del
 
 ### artículo 2o
 . de esta Ley, obligados al pago del impuesto especial sobre producción y servicios, deberán proporcionar al Servicio de Administración Tributaria, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, el precio de enajenación de cada producto, valor y volumen de los mismos, efectuado en el trimestre inmediato anterior.
 Párrafo reformado DOF 27-12-2006, 19-11-2010, 11-12-2013, 18-11-2015 Los contribuyentes que enajenen vinos de mesa, deberán cumplir con la obligación a que se refiere esta fracción en los meses de enero y julio de cada año.
-Párrafo adicionado DOF 01-12-2004 Fracción reformada DOF 30-12-2002 XIV. Los fabricantes, productores, envasadores e importadores, de alcohol y de bebidas alcohólicas, deberán estar inscritos en el Padrón de Contribuyentes de Bebidas Alcohólicas, a cargo de la Secretaría de Hacienda y Crédito Público y deberán cumplir con esta obligación para poder solicitar marbetes y precintos, según se trate, debiendo cumplir con las disposiciones del Fracción reformada DOF 31-12-2003, 28-06-2006, 12-11-2021 XV. Los productores, envasadores e importadores de bebidas alcohólicas estarán obligados a presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe de los números de folio de marbetes y precintos, según corresponda, obtenidos, utilizados, destruidos, e inutilizados durante el trimestre inmediato anterior.
+Párrafo adicionado DOF 01-12-2004 Fracción reformada DOF 30-12-2002
+
+XIV. Los fabricantes, productores, envasadores e importadores, de alcohol y de bebidas alcohólicas, deberán estar inscritos en el Padrón de Contribuyentes de Bebidas Alcohólicas, a cargo de la Secretaría de Hacienda y Crédito Público y deberán cumplir con esta obligación para poder solicitar marbetes y precintos, según se trate, debiendo cumplir con las disposiciones del Fracción reformada DOF 31-12-2003, 28-06-2006, 12-11-2021
+
+XV. Los productores, envasadores e importadores de bebidas alcohólicas estarán obligados a presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe de los números de folio de marbetes y precintos, según corresponda, obtenidos, utilizados, destruidos, e inutilizados durante el trimestre inmediato anterior.
 Los contribuyentes a que se refiere esta fracción o terceros con ellos relacionados, deberán proporcionar a las autoridades fiscales, con motivo de la solicitud de marbetes o precintos que realicen, la información o documentación que sea necesaria para constatar el uso adecuado de los marbetes o precintos que les hayan sido entregados.
-Párrafo adicionado DOF 01-10-2007 Fracción reformada DOF 01-12-2004, 23-12-2005, 28-06-2006 XVI. Los productores o envasadores de los bienes a que se refiere el numeral 3 del inciso A) de la fracción I del artículo 2o. de esta Ley, estarán obligados a llevar un control volumétrico de producción y presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe que contenga el número de litros producidos de conformidad con el citado control, del trimestre inmediato anterior a la fecha en que se informa.
+Párrafo adicionado DOF 01-10-2007 Fracción reformada DOF 01-12-2004, 23-12-2005, 28-06-2006
+
+XVI. Los productores o envasadores de los bienes a que se refiere el numeral 3 del inciso A) de la fracción I del artículo 2o. de esta Ley, estarán obligados a llevar un control volumétrico de producción y presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe que contenga el número de litros producidos de conformidad con el citado control, del trimestre inmediato anterior a la fecha en que se informa.
+
 XVII. Proporcionar la información que del impuesto especial sobre producción y servicios se les solicite en las declaraciones del impuesto sobre la renta.
+
 XVIII. Los contribuyentes que enajenen al público en general bebidas alcohólicas para su consumo en el mismo lugar o establecimiento en el que se enajenen, deberán destruir los envases que las contenían, inmediatamente después de que se haya agotado su contenido. El Servicio de Administración Tributaria, a través de reglas de carácter general, podrá establecer los casos en los que no será aplicable la obligación de destruir envases a que se refiere la presente fracción.
-Fracción reformada DOF 12-11-2021 XIX. Los importadores de los bienes a que se refiere el inciso B) de la fracción I del artículo 2o. de esta Ley, que no elaboren bebidas alcohólicas, deberán estar inscritos en el Padrón de Importadores a que se refiere el artículo 59, fracción IV de la Ley Aduanera.
-Fracción reformada DOF 31-12-2003, 09-12-2019 XX. (Se deroga).
-Fracción adicionada DOF 23-12-2005. Derogada DOF 09-12-2019 XXI. (Se deroga).
-Fracción adicionada DOF 23-12-2005. Derogada DOF 09-12-2019 XXII. Los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán imprimir un código de seguridad en cada una de las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados para su venta en México, el cual será generado y proporcionado por el Servicio de Administración Tributaria. Asimismo, deberán registrar, almacenar y proporcionar a dicho órgano desconcentrado la información que se genere derivada de los mecanismos o sistemas de impresión del referido código.
-Para los efectos del párrafo anterior, los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán cumplir con lo siguiente: a) Imprimir el código de seguridad a que se refiere esta fracción con las características técnicas y de seguridad que determine el Servicio de Administración Tributaria, mediante reglas de carácter general. b) Imprimir el código de seguridad a que se refiere esta fracción en la línea de producción de las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados o antes de la importación a territorio nacional de las mismas, utilizando los mecanismos o sistemas que cumplan las características técnicas y de seguridad que determine el Servicio de Administración Tributaria, mediante reglas de carácter general. c) Registrar y almacenar la información contenida en el código de seguridad a que se refiere esta fracción, así como la información de la impresión del mismo en las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados, generada por los mecanismos o sistemas de impresión del referido código, en los términos que determine el Servicio de Administración Tributaria, mediante reglas de carácter general. d) Proporcionar al Servicio de Administración Tributaria, en forma permanente, la información en línea y en tiempo real de los registros que se realicen conforme al inciso anterior, en los términos que determine dicho órgano desconcentrado, mediante reglas de carácter general. e) Instrumentar las demás características técnicas y de seguridad que establezca el Servicio de Administración Tributaria, mediante reglas de carácter general.
+Fracción reformada DOF 12-11-2021
+
+XIX. Los importadores de los bienes a que se refiere el inciso B) de la fracción I del artículo 2o. de esta Ley, que no elaboren bebidas alcohólicas, deberán estar inscritos en el Padrón de Importadores a que se refiere el artículo 59, fracción IV de la Ley Aduanera.
+Fracción reformada DOF 31-12-2003, 09-12-2019
+
+XX. (Se deroga).
+Fracción adicionada DOF 23-12-2005. Derogada DOF 09-12-2019
+
+XXI. (Se deroga).
+Fracción adicionada DOF 23-12-2005. Derogada DOF 09-12-2019
+
+XXII. Los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán imprimir un código de seguridad en cada una de las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados para su venta en México, el cual será generado y proporcionado por el Servicio de Administración Tributaria. Asimismo, deberán registrar, almacenar y proporcionar a dicho órgano desconcentrado la información que se genere derivada de los mecanismos o sistemas de impresión del referido código.
+Para los efectos del párrafo anterior, los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán cumplir con lo siguiente:
+
+a) Imprimir el código de seguridad a que se refiere esta fracción con las características técnicas y de seguridad que determine el Servicio de Administración Tributaria, mediante reglas de carácter general.
+
+b) Imprimir el código de seguridad a que se refiere esta fracción en la línea de producción de las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados o antes de la importación a territorio nacional de las mismas, utilizando los mecanismos o sistemas que cumplan las características técnicas y de seguridad que determine el Servicio de Administración Tributaria, mediante reglas de carácter general.
+
+c) Registrar y almacenar la información contenida en el código de seguridad a que se refiere esta fracción, así como la información de la impresión del mismo en las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados, generada por los mecanismos o sistemas de impresión del referido código, en los términos que determine el Servicio de Administración Tributaria, mediante reglas de carácter general.
+
+d) Proporcionar al Servicio de Administración Tributaria, en forma permanente, la información en línea y en tiempo real de los registros que se realicen conforme al inciso anterior, en los términos que determine dicho órgano desconcentrado, mediante reglas de carácter general.
+
+e) Instrumentar las demás características técnicas y de seguridad que establezca el Servicio de Administración Tributaria, mediante reglas de carácter general.
 El Servicio de Administración Tributaria podrá requerir a los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, la información o la documentación a que se refieren los párrafos primero y segundo de esta fracción, así como la relativa a sus sistemas, clientes, operaciones y mecanismos, que estime necesaria, relacionada con el cumplimiento de las obligaciones a que se refiere esta fracción. Asimismo, dicho órgano desconcentrado podrá realizar en todo momento verificaciones en los locales, establecimientos o domicilios de los mismos, a efecto de constatar el cumplimiento de las obligaciones a que se encuentran afectos.
 Los contribuyentes a que se refiere esta fracción deberán poner a disposición de las autoridades fiscales la información, documentación o dispositivos necesarios, que permitan constatar el cumplimiento de las obligaciones previstas en los párrafos primero y segundo de esta fracción y en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 Asimismo, deberán permitir a las autoridades fiscales la realización de las verificaciones a que se refiere el párrafo anterior.
 Cuando los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, incumplan con alguna de las obligaciones establecidas en esta Ley, o bien, cuando no atiendan lo señalado en las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria, dicho órgano desconcentrado impondrá las sanciones que procedan, conforme al Código Fiscal de la Federación.
-Fracción adicionada DOF 27-11-2009. Reformada DOF 11-12-2013, 12-11-2021 XXIII. Los importadores de concentrados, polvos, jarabes, esencias o extractos de sabores, para los efectos de pagar el impuesto en la importación, deberán manifestar bajo protesta de decir verdad, el número de litros de bebidas saborizadas con azúcares o edulcorantes añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener. Las especificaciones no podrán ser menores a las que el importador manifieste en la enajenación que de dichos bienes haga en el mercado nacional.
-Fracción adicionada DOF 11-12-2013. Reformada DOF 07-11-2025 XXIV. Los establecimientos de consumo final tendrán la obligación de realizar, en presencia del consumidor, la lectura a través de un dispositivo móvil del código QR del marbete que se encuentra adherido a los envases o impreso en la etiqueta o contraetiqueta de los mismos.
+Fracción adicionada DOF 27-11-2009. Reformada DOF 11-12-2013, 12-11-2021
+
+XXIII. Los importadores de concentrados, polvos, jarabes, esencias o extractos de sabores, para los efectos de pagar el impuesto en la importación, deberán manifestar bajo protesta de decir verdad, el número de litros de bebidas saborizadas con azúcares o edulcorantes añadidos que, de conformidad con las especificaciones del fabricante, se puedan obtener. Las especificaciones no podrán ser menores a las que el importador manifieste en la enajenación que de dichos bienes haga en el mercado nacional.
+Fracción adicionada DOF 11-12-2013. Reformada DOF 07-11-2025
+
+XXIV. Los establecimientos de consumo final tendrán la obligación de realizar, en presencia del consumidor, la lectura a través de un dispositivo móvil del código QR del marbete que se encuentra adherido a los envases o impreso en la etiqueta o contraetiqueta de los mismos.
 Fracción adicionada DOF 12-11-2021 Fe de erratas al artículo DOF 17-04-1981. Reformado DOF 31-12-1981, 31-12-1982, 30-12-1983, 31-12-1987, 28-12-1989, 26-12-1990, 20-12-1991, 20-07-1992, 03-12-1993, 28-12-1994, 10-05-1996, 30-12-1996, 29-12-1997, 29-05-1998, 31-12-1998, 31-12-1999, 31-12-2000, 01-01-2002
 
 ### Artículo 19-A
@@ -454,7 +720,13 @@ Artículo adicionado DOF 11-12-2013. Reformado DOF 12-11-2021
 
 ### Artículo 20
 .- Los contribuyentes que en forma habitual realicen los juegos con apuestas y sorteos a que se refiere el inciso B) de la fracción II del artículo 2o. de esta Ley en establecimientos fijos están obligados a:
-I. Llevar los sistemas de cómputo siguientes: a) Sistema central de apuestas en el que se registren y totalicen las transacciones efectuadas con motivo de los juegos con apuestas y sorteos que realicen. b) Sistema de caja y control de efectivo en el que se registren cada una de las cantidades efectivamente percibidas de los participantes por las actividades a que se refiere el inciso B) de la fracción II del artículo 2o. de esta Ley.
+
+I. Llevar los sistemas de cómputo siguientes:
+
+a) Sistema central de apuestas en el que se registren y totalicen las transacciones efectuadas con motivo de los juegos con apuestas y sorteos que realicen.
+
+b) Sistema de caja y control de efectivo en el que se registren cada una de las cantidades efectivamente percibidas de los participantes por las actividades a que se refiere el inciso B) de la fracción II del artículo 2o. de esta Ley.
+
 II. Llevar un sistema de cómputo mediante el cual se proporcione al Servicio de Administración Tributaria, en forma permanente, la información en línea y en tiempo real de los sistemas de registro mencionados en la fracción I de este artículo. El Servicio de Administración Tributaria establecerá mediante reglas de carácter general las características técnicas, de seguridad y requerimientos de información del sistema a que se refiere la presente fracción.
 El incumplimiento de cualquiera de las obligaciones establecidas en este artículo será sancionado con la clausura del establecimiento o establecimientos que tenga el contribuyente en donde realice las actividades de juegos con apuestas y sorteos y cuyas operaciones deben ser registradas en los sistemas de cómputo a que se refiere el presente artículo.
 Párrafo reformado DOF 11-12-2013 No procederá la aplicación de la sanción establecida en el párrafo anterior cuando el incumplimiento se deba a fallas en los sistemas de cómputo cuyas causas no sean imputables a los contribuyentes y siempre que éstos presenten un aviso al Servicio de Administración Tributaria en el plazo y los términos que a través de reglas de carácter general emita dicho órgano desconcentrado.
@@ -468,10 +740,30 @@ Párrafo adicionado DOF 11-12-2013 Artículo derogado DOF 31-12-1982. Adicionado
 
 ### Artículo 20-A
 .- Las personas a que se refiere el artículo 2o., fracción II, inciso D) de esta Ley, deberán estar a lo siguiente:
+
 I. Tratándose de personas físicas y morales residentes en el país que proporcionen los servicios digitales conforme al artículo 2o., fracción II, inciso D), numeral 1 de esta Ley, además de las obligaciones señaladas en otros artículos de esta Ley y en las demás disposiciones fiscales, deberán ofertar y cobrar, conjuntamente con el precio de sus servicios digitales, el impuesto especial sobre producción y servicios incluido en el precio.
+
 II. Tratándose de personas físicas y morales residentes en el país que proporcionen los servicios digitales conforme al artículo 2o., fracción II, inciso D), numeral 2 de esta Ley, deberán estar a lo dispuesto por esta Ley y, adicionalmente, deberán ofertar el precio de sus servicios con el impuesto especial sobre producción y servicios incluido en el mismo.
-III. Tratándose de residentes en el extranjero sin establecimiento en México que proporcionen los servicios digitales conforme al artículo 2o., fracción II, inciso D), numeral 1 de esta Ley, únicamente deberán: a) Cumplir las obligaciones previstas en el artículo 18-D, fracciones I, VI y VII de la Ley del Impuesto al Valor Agregado. b) Ofertar y cobrar, conjuntamente con el precio de sus servicios digitales, el impuesto especial sobre producción y servicios incluido en el precio. c) Proporcionar al Servicio de Administración Tributaria la información sobre el número de servicios prestados en cada mes de calendario a los receptores ubicados en territorio nacional que reciban sus servicios digitales gravados con el impuesto especial sobre producción y servicios, así como el número de los receptores mencionados, y mantener los registros base de la información presentada. Dicha información se deberá presentar de manera mensual, conjuntamente con la declaración de pago a que se refiere el siguiente inciso. d) Calcular en cada mes de calendario el impuesto especial sobre producción y servicios correspondiente, aplicando la tasa que corresponda a las contraprestaciones efectivamente cobradas en dicho mes y efectuar su pago mediante declaración electrónica que presentarán a más tardar el día 17 del mes siguiente de que se trate. e) Emitir y enviar vía electrónica a los receptores de los servicios digitales en territorio nacional los comprobantes correspondientes al pago de las contraprestaciones con el impuesto incluido en el precio, cuando lo solicite el receptor de los servicios, mismos que deberán reunir los requisitos que permitan identificar a los prestadores de los servicios y a los receptores de los mismos, de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
-IV. Tratándose de las plataformas digitales de intermediación a que se refiere el artículo 2o., fracción II, inciso D), numeral 2 de esta Ley: a) Cumplir las obligaciones previstas en el artículo 18-D, fracciones I, VI y VII de la Ley del Impuesto al Valor Agregado, cuando se trate de residentes en el extranjero sin establecimiento en México. b) Publicar en su página de Internet, aplicación, plataforma o cualquier otro medio similar, el precio con el impuesto especial sobre producción y servicios incluido en que se ofertan los servicios digitales por los prestadores de servicios, en los que operan como intermediarios. c) Proporcionar al Servicio de Administración Tributaria, en el apartado correspondiente, la información a que se refiere el artículo 18-J, fracción III de la Ley del Impuesto al Valor Agregado, en cuyas operaciones hayan actuado como intermediarios.
+
+III. Tratándose de residentes en el extranjero sin establecimiento en México que proporcionen los servicios digitales conforme al artículo 2o., fracción II, inciso D), numeral 1 de esta Ley, únicamente deberán:
+
+a) Cumplir las obligaciones previstas en el artículo 18-D, fracciones I, VI y VII de la Ley del Impuesto al Valor Agregado.
+
+b) Ofertar y cobrar, conjuntamente con el precio de sus servicios digitales, el impuesto especial sobre producción y servicios incluido en el precio.
+
+c) Proporcionar al Servicio de Administración Tributaria la información sobre el número de servicios prestados en cada mes de calendario a los receptores ubicados en territorio nacional que reciban sus servicios digitales gravados con el impuesto especial sobre producción y servicios, así como el número de los receptores mencionados, y mantener los registros base de la información presentada. Dicha información se deberá presentar de manera mensual, conjuntamente con la declaración de pago a que se refiere el siguiente inciso.
+
+d) Calcular en cada mes de calendario el impuesto especial sobre producción y servicios correspondiente, aplicando la tasa que corresponda a las contraprestaciones efectivamente cobradas en dicho mes y efectuar su pago mediante declaración electrónica que presentarán a más tardar el día 17 del mes siguiente de que se trate.
+
+e) Emitir y enviar vía electrónica a los receptores de los servicios digitales en territorio nacional los comprobantes correspondientes al pago de las contraprestaciones con el impuesto incluido en el precio, cuando lo solicite el receptor de los servicios, mismos que deberán reunir los requisitos que permitan identificar a los prestadores de los servicios y a los receptores de los mismos, de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
+
+IV. Tratándose de las plataformas digitales de intermediación a que se refiere el artículo 2o., fracción II, inciso D), numeral 2 de esta Ley:
+
+a) Cumplir las obligaciones previstas en el artículo 18-D, fracciones I, VI y VII de la Ley del Impuesto al Valor Agregado, cuando se trate de residentes en el extranjero sin establecimiento en México.
+
+b) Publicar en su página de Internet, aplicación, plataforma o cualquier otro medio similar, el precio con el impuesto especial sobre producción y servicios incluido en que se ofertan los servicios digitales por los prestadores de servicios, en los que operan como intermediarios.
+
+c) Proporcionar al Servicio de Administración Tributaria, en el apartado correspondiente, la información a que se refiere el artículo 18-J, fracción III de la Ley del Impuesto al Valor Agregado, en cuyas operaciones hayan actuado como intermediarios.
 El cumplimiento de las obligaciones a que se refiere este artículo y el artículo 5o.-A BIS de esta Ley, no dará lugar a que se considere que el residente en el extranjero constituye un establecimiento permanente en México.
 La omisión en el pago del impuesto o del entero de las retenciones que, en su caso, deban efectuar y en la presentación de la declaración de pago y de la información, a que se refieren este artículo y el
 
@@ -610,6 +902,7 @@ Artículo adicionado DOF 31-12-1999. Derogado DOF 01-01-2002 CAPITULO VII De las
 
 ### Artículo 27
 .- Los Estados adheridos al Sistema Nacional de Coordinación Fiscal no mantendrán impuestos locales o municipales sobre:
+
 I. Los actos o actividades por los que deba pagarse el impuesto que esta Ley establece o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción, introducción, distribución o almacenamiento de bienes cuando por su enajenación deba pagarse dicho impuesto. [Se exceptúan de lo anterior los impuestos locales a la venta o consumo final de los bienes objeto del impuesto previsto en esta Ley, que en términos de lo establecido en el
 
 ### artículo 10-C
@@ -904,7 +1197,9 @@ III.- Cuando en un lugar o región del país se establezca un sobreprecio al pre
 IV.- La reforma a las fracciones IV y V del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios, entrará en vigor a partir del 1o. de octubre de 1992.
 V.- Para los efectos del artículo 2o., fracción I, inciso H), subinciso 1 de la Ley del Impuesto Especial sobre Producción y Servicios, durante 1992, los contribuyente podrán optar por determinar la tasa del impuesto a que el mismo se refiere, en la fecha en que se autoricen aumentos de precios al público de los cigarros, y semestralmente cuando no se dé esto último, conforme a lo siguiente: a).- Multiplicarán la tasa vigente al momento de efectuar el cálculo por el resultado de multiplicar la tasa del crecimiento experimentado por la producción industrial nacional en el periodo comprendido entre el mes de diciembre del año inmediato anterior y el mes en el cual se efectúa el cálculo, adicionado de la unidad, por el factor de actualización correspondiente a dicho periodo. El resultado así obtenido se multiplicará por el factor de ajuste que permita mantener la carga fiscal.
 Inciso reformado DOF 20-07-1992 b).- El producto del inciso anterior se dividirá entre el resultado de multiplicar la tasa de crecimiento de la industria tabacalera entre el mes de diciembre y el del mes en que se efectúa el cálculo adicionada de la unidad, por la tasa de crecimiento del precio al público de los cigarros en el mismo periodo adicionada de la unidad.
-Inciso reformado DOF 20-07-1992 c).- El factor de ajuste a que se refiere el inciso a), se obtendrá restando a la recaudación obtenida por la venta de cigarros con filtro en el año inmediato anterior manifestada en la Cuenta Pública de la Federación multiplicada por el crecimiento de la producción nacional estimado para el año adicionado de la unidad y por el factor de actualización estimado para dicho periodo, la recaudación enterada por la industria desde el mes de enero hasta el mes inmediato anterior a aquél en que se efectúa el cálculo, y dividiendo el resultado de dicha resta entre el valor de las ventas estimadas para el periodo que va desde el mes en que se efectúa el cálculo y hasta el final del mes de diciembre, tomando como referencia el volumen vendido en el año inmediato anterior, y el último precio autorizado al mes del cálculo, multiplicado por la tasa que se deriva de dividir el resultado del inciso a) sin considerar dentro de éste la multiplicación por el factor de ajuste a que se refiere dicho inciso entre el valor que se deriva del inciso b).
+Inciso reformado DOF 20-07-1992 c).- El factor de ajuste a que se refiere el inciso a), se obtendrá restando a la recaudación obtenida por la venta de cigarros con filtro en el año inmediato anterior manifestada en la Cuenta Pública de la Federación multiplicada por el crecimiento de la producción nacional estimado para el año adicionado de la unidad y por el factor de actualización estimado para dicho periodo, la recaudación enterada por la industria desde el mes de enero hasta el mes inmediato anterior a aquél en que se efectúa el cálculo, y dividiendo el resultado de dicha resta entre el valor de las ventas estimadas para el periodo que va desde el mes en que se efectúa el cálculo y hasta el final del mes de diciembre, tomando como referencia el volumen vendido en el año inmediato anterior, y el último precio autorizado al mes del cálculo, multiplicado por la tasa que se deriva de dividir el resultado del inciso
+
+a) sin considerar dentro de éste la multiplicación por el factor de ajuste a que se refiere dicho inciso entre el valor que se deriva del inciso b).
 Inciso adicionado DOF 20-07-1992 d).- La tasa a que se refiere este precepto se aplicará a partir del mes siguiente a aquél en que se efectúa el cálculo y en ningún caso será inferior a 75%.
 Inciso adicionado DOF 20-07-1992 La Secretaría de Hacienda y Crédito Público realizará las operaciones aritméticas previstas en este artículo para calcular la tasa aplicable y la publicará en el Diario Oficial de la Federación.
 Para efectos de esta fracción la tasa del impuesto aplicable a cigarros, al 1o. de enero de 1992, será de 135.87%.
@@ -961,7 +1256,9 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 1995 Ley 
 
 ### Artículo Décimo
 Se reforman se realizan las siguientes modificaciones a la Ley del Impuesto Especial sobre Producción y Servicios:
+
 I. Se reforman los artículos:  2o., fracción I, inciso I;  2o.-A, primer párrafo y fracciones II y III;  4o., último párrafo;  4o.-C, segundo y tercer párrafos, y  11, tercer párrafo.
+
 II. Se adiciona el artículo:  4 A.- con una fracción IV.
 Las modificaciones anteriores quedan de la siguiente manera: ...........
 Disposición Transitoria de la Ley del Impuesto Especial Sobre Producción y Servicios
@@ -1049,11 +1346,16 @@ Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y S
 
 ### Artículo Décimo
 En relación con las modificaciones al Artículo Noveno de este Decreto, se estará a lo siguiente:
+
 I. Las reformas a los artículos 4o., primer, segundo y tercer párrafos y a las fracciones I, segundo párrafo, II, primer párrafo y IV; 5o., segundo párrafo; 8o., fracción IV y último párrafo; 11, actuales
 **tercero.** y cuarto párrafos; 15, segundo y tercer párrafos; 16; 19, fracciones II, primer y tercer párrafos, VIII, primer y segundo párrafos y XIII y 25, fracción III; las adiciones a los artículos 2o., fracción I, inciso B); 3o., fracción II; 4o., quinto párrafo; 5o., tercer y cuarto párrafos; 6o., segundo párrafo; 8o., fracciones V y VI; 11, segundo párrafo; 14, tercer párrafo; 19, fracciones IV, último párrafo, X, segundo párrafo y XVII; 20 y 24, fracción V y las derogaciones a los artículos 2o., fracción I, incisos A), C) y G); 4o., fracción II, segundo párrafo; 8o.-B y 19, fracciones II, cuarto párrafo y V de la Ley del Impuesto Especial sobre Producción y Servicios y las reformas a los artículos 86-A, fracción III y 86-E del Código Fiscal de la Federación, entrarán en vigor el 1o. de abril de 1999.
+
 II. Los fabricantes, productores, envasadores e importadores de bebidas alcohólicas, deberán registrar ante las autoridades fiscales a más tardar el 31 de marzo de 1999, la lista de precios de venta del detallista que estará vigente a partir del 1o. de abril del mismo año, en los términos de la fracción XV del artículo 19 de esta Ley.
+
 III. Las cantidades contenidas en el artículo 5o., tercer párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, se entienden actualizadas por el mes de enero de 1999, debiéndose efectuar las posteriores actualizaciones en los términos que establece el citado artículo.
+
 IV. Las reformas al artículo 19, fracción IV, primer, segundo y sexto párrafos de la Ley del Impuesto Especial sobre Producción y Servicios, entrarán en vigor el 1o. de julio de 1999.
+
 V. Los contribuyentes de este impuesto distintos de fabricantes, productores, envasadores o importadores, que a partir del 1o. de abril de 1999 se encuentren en el supuesto de exención establecido en la fracción V del artículo 8o. de la Ley del Impuesto Especial sobre Producción y Servicios y que enajenen bebidas alcohólicas que tenían en sus inventarios al 31 de marzo de 1999, estarán obligados al pago del impuesto establecido en dicha Ley, hasta enajenar el total de los citados inventarios. Para estos efectos, presentarán un reporte de inventario de dichos bienes a más tardar el 15 de abril de 1999.
 Dichos contribuyentes calcularán y pagarán el impuesto por la enajenación de las existencias de los inventarios referidos, como si fuese la primera enajenación efectuada por fabricantes, productores, envasadores o importadores, de conformidad con la Ley del Impuesto Especial sobre Producción y Servicios.
 Para estos efectos, considerarán como valor de enajenación de dichos bienes el que señala el
@@ -1084,11 +1386,20 @@ DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y S
 
 ### Artículo Noveno
 En relación con las modificaciones a que se refiere el Artículo Octavo de esta Ley, se estará a lo siguiente:
+
 I. Las cuotas establecidas en el artículo 26-B de la Ley del Impuesto Especial sobre Producción y Servicios, así como las contenidas en la fracción III de este artículo, deberán utilizarse para el cálculo y determinación del impuesto correspondiente al mes de enero.
+
 II. Las cuotas establecidas en la Tabla del artículo 26-B de la Ley del Impuesto Especial sobre Producción y Servicios, así como las contenidas en la fracción III de este artículo, deberán actualizarse en el mes de enero de 2000, aplicando el factor que resulte de dividir el Índice Nacional de Precios al Consumidor, Rama 20 Bebidas Alcohólicas correspondiente al mes de diciembre de 1999, entre el citado Índice correspondiente al mes de agosto del mismo año. Las cuotas así actualizadas deberán utilizarse para el cálculo y determinación del impuesto correspondiente al mes de febrero de 2000. La Secretaría de Hacienda y Crédito Público publicará los citados Índices, calculados por el Banco de México, así como el factor correspondiente, en el Diario Oficial de la Federación dentro de los primeros 15 días del mes de enero de 2000.
 La actualización mensual de las cuotas a que se refiere el párrafo anterior correspondientes al mes de febrero de 2000, se deberá efectuar aplicando el factor que resulte de dividir el Índice Nacional de Precios al Consumidor, Rama 20 Bebidas Alcohólicas correspondiente al mes de enero de 2000, entre el citado Índice correspondiente al mes de diciembre de 1999.
 Las posteriores actualizaciones mensuales deberán efectuarse en los términos del artículo 26-B de la Ley del Impuesto Especial sobre Producción y Servicios.
-III. Para los efectos de la determinación del impuesto a que se refiere el Título II de esta Ley, los productores, envasadores e importadores de productos denominados "Ron", "Ron Añejo", "Ron Reserva" y "Ron con Sabor", en lugar de calcular el impuesto aplicando la cuota que les corresponda conforme a la Tabla contenida en el artículo 26-B de esta Ley, durante el año de 2000 deberán calcularlo con base en la siguiente TABLA Producto Cuota por litro $ Ron ............................. 17.95 Ron Añejo ............................. 24.63 Ron Reserva o Ron con Sabor ............................. 38.91 Los contribuyentes a que se refiere esta fracción, podrán solicitar autorización a la Secretaría de Hacienda y Crédito Público para calcular el impuesto correspondiente, aplicando la cuota que resulte de multiplicar la cuota que les corresponda en términos de esta fracción por el factor de 0.65, siempre que, además de cumplir con los requisitos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público, se trate de contribuyentes que: a) Hayan pagado el impuesto especial sobre producción y servicios por concepto de bebidas alcohólicas en los ejercicios fiscales de 1997, 1998 y 1999. b) Hayan cumplido con las obligaciones en los términos de la Ley del Impuesto Especial sobre Producción y Servicios durante los ejercicios fiscales a que se refiere el inciso que antecede. c) En cada uno de los ejercicios fiscales de 1997, 1998 y 1999, la suma de sus volúmenes totales de producción de Ron, Ron Añejo, Ron Reserva y Ron con Sabor, no haya sido superior a 1 millón 300 mil litros.
+
+III. Para los efectos de la determinación del impuesto a que se refiere el Título II de esta Ley, los productores, envasadores e importadores de productos denominados "Ron", "Ron Añejo", "Ron Reserva" y "Ron con Sabor", en lugar de calcular el impuesto aplicando la cuota que les corresponda conforme a la Tabla contenida en el artículo 26-B de esta Ley, durante el año de 2000 deberán calcularlo con base en la siguiente TABLA Producto Cuota por litro $ Ron ............................. 17.95 Ron Añejo ............................. 24.63 Ron Reserva o Ron con Sabor ............................. 38.91 Los contribuyentes a que se refiere esta fracción, podrán solicitar autorización a la Secretaría de Hacienda y Crédito Público para calcular el impuesto correspondiente, aplicando la cuota que resulte de multiplicar la cuota que les corresponda en términos de esta fracción por el factor de 0.65, siempre que, además de cumplir con los requisitos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público, se trate de contribuyentes que:
+
+a) Hayan pagado el impuesto especial sobre producción y servicios por concepto de bebidas alcohólicas en los ejercicios fiscales de 1997, 1998 y 1999.
+
+b) Hayan cumplido con las obligaciones en los términos de la Ley del Impuesto Especial sobre Producción y Servicios durante los ejercicios fiscales a que se refiere el inciso que antecede.
+
+c) En cada uno de los ejercicios fiscales de 1997, 1998 y 1999, la suma de sus volúmenes totales de producción de Ron, Ron Añejo, Ron Reserva y Ron con Sabor, no haya sido superior a 1 millón 300 mil litros.
 Las cuotas a que se refiere esta fracción deberán actualizarse en los términos del artículo 26-B de la presente Ley.
 DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
@@ -1139,40 +1450,74 @@ Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y S
 
 ### Artículo Segundo
 En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
-I. Los contribuyentes a que hace referencia el artículo 26-A de la Ley del Impuesto Especial Sobre Producción y Servicios, vigente hasta antes de la entrada en vigor del Artículo Primero de este Decreto, que hubiesen pagado el impuesto correspondiente en los términos de los artículos 26-C y 26-H, primer párrafo, vigentes en la citada Ley, no estarán obligados a pagar el impuesto que corresponda en los términos del citado Artículo Primero cuando los productos por los que ya se pagó el impuesto se enajenen, siempre y cuando presenten, dentro de los 5 días siguientes a la entrada en vigor del Artículo Primero del presente Decreto, un reporte que contenga lo siguiente: a) Inventario de existencias por tipo, marca, presentación y capacidad del envase, al día anterior al de la entrada en vigor del Artículo Primero del presente Decreto, distinguiendo aquéllas respecto de las cuales ya se pagó el impuesto y aquéllas por las que no se ha pagado el mismo. b) Copia de las declaraciones en las que se haya pagado el impuesto correspondiente a las existencias a que hace referencia el inciso anterior.
+
+I. Los contribuyentes a que hace referencia el artículo 26-A de la Ley del Impuesto Especial Sobre Producción y Servicios, vigente hasta antes de la entrada en vigor del Artículo Primero de este Decreto, que hubiesen pagado el impuesto correspondiente en los términos de los artículos 26-C y 26-H, primer párrafo, vigentes en la citada Ley, no estarán obligados a pagar el impuesto que corresponda en los términos del citado Artículo Primero cuando los productos por los que ya se pagó el impuesto se enajenen, siempre y cuando presenten, dentro de los 5 días siguientes a la entrada en vigor del Artículo Primero del presente Decreto, un reporte que contenga lo siguiente:
+
+a) Inventario de existencias por tipo, marca, presentación y capacidad del envase, al día anterior al de la entrada en vigor del Artículo Primero del presente Decreto, distinguiendo aquéllas respecto de las cuales ya se pagó el impuesto y aquéllas por las que no se ha pagado el mismo.
+
+b) Copia de las declaraciones en las que se haya pagado el impuesto correspondiente a las existencias a que hace referencia el inciso anterior.
 La información a que se refiere esta fracción se presentará mediante escrito libre ante las autoridades fiscales.
+
 II. Los productores, envasadores e importadores, de bebidas alcohólicas que con anterioridad a la entrada en vigor del Artículo Primero del presente Decreto hubieran optado por pagar el impuesto en los términos de los artículos 26-D y 26-H, segundo párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, vigentes hasta antes de la entrada en vigor del citado Artículo
-**Primero.** , y que a la fecha de la entrada en vigor del mismo cuenten con inventarios de bebidas alcohólicas que tengan adheridos marbetes, pagarán el impuesto que corresponda a dichos productos aplicando la cuota por litro vigente, de conformidad con lo siguiente: a) El impuesto se calculará mensualmente aplicando al número de litros enajenados en el mes, la cuota por litro vigente en el mes en el que se realice la enajenación de dichos productos, de conformidad con la siguiente:
+**Primero.** , y que a la fecha de la entrada en vigor del mismo cuenten con inventarios de bebidas alcohólicas que tengan adheridos marbetes, pagarán el impuesto que corresponda a dichos productos aplicando la cuota por litro vigente, de conformidad con lo siguiente:
+
+a) El impuesto se calculará mensualmente aplicando al número de litros enajenados en el mes, la cuota por litro vigente en el mes en el que se realice la enajenación de dichos productos, de conformidad con la siguiente:
 TABLA PRODUCTO CUOTA POR LITRO $ Aguardiente Abocado o Reposado 5.35 Aguardiente Standard (blanco u oro) Charanda Licor de hierbas regionales Aguardiente Añejo 10.34 Habanero Rompope Aguardiente con Sabor 12.29 Cocteles Licores y Cremas de hasta 20% Alc. Vol.
 Parras Bacanora 17.60 Comiteco Lechuguilla o raicilla Mezcal Sotol Anís 18.91 Ginebra Vodka Ron 23.41 Tequila joven o blanco Brandy 28.15 Amaretto 28.56 Licor de Café o Cacao Licores y Cremas de más 20% Alc. Vol.
 Tequila reposado o añejo Ron Añejo 33.92 Brandy Reserva 36.72 Ron con Sabor 53.46 Ron Reserva Tequila joven o blanco 100% agave 54.61 Tequila reposado 100% agave Brandy Solera 60.53 Cremas base Whisky 79.60 Whisky o Whiskey, Borbon o Bourbon, Tenessee "Standard" Calvados 139.24 Tequila añejo 100% agave Cognac V.S. 168.34 Whisky o Whiskey, Borbon o Bourbon, Tenessee "de Luxe" Cognac V.S.O.P. 283.31 Cognac X.O. 1,068.01 Otros 1,096.83 Las cuotas por litro establecidas en este inciso se encuentran actualizadas para el primer semestre de 2002 con el factor de 1.045.
 En el mes de junio de 2002 se comparará el crecimiento del Índice Nacional de Precios al Consumidor reportado por el Banco de México del periodo enero-mayo del citado año y si dicho crecimiento es mayor al 1.00%, las cuotas se incrementarán a partir del mes de julio del citado año en la proporción que represente la variación entre el crecimiento del Índice de referencia y el 1.00% citado.
-El Servicio de Administración Tributaria efectuará los cálculos previstos en este inciso y publicará a más tardar el último día del mes de junio de 2002, en su caso, las nuevas cuotas que se pagarán a partir del mes de julio de 2002. b) El impuesto determinado conforme al inciso anterior se pagará a más tardar el día 17 del mes siguiente a aquél en que se efectúe la enajenación de los productos, mediante declaración que se presentará ante las oficinas autorizadas, en la forma que al efecto apruebe la Secretaría de Hacienda y Crédito Público.
+El Servicio de Administración Tributaria efectuará los cálculos previstos en este inciso y publicará a más tardar el último día del mes de junio de 2002, en su caso, las nuevas cuotas que se pagarán a partir del mes de julio de 2002.
+
+b) El impuesto determinado conforme al inciso anterior se pagará a más tardar el día 17 del mes siguiente a aquél en que se efectúe la enajenación de los productos, mediante declaración que se presentará ante las oficinas autorizadas, en la forma que al efecto apruebe la Secretaría de Hacienda y Crédito Público.
 Los contribuyentes a que hace referencia esta fracción deberán presentar dentro de los 6 días siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, mediante escrito libre, ante las autoridades fiscales, un reporte que contenga el inventario de dichas bebidas, al día anterior al de la entrada en vigor del Artículo Primero del citado Decreto, por tipo, marca, presentación, capacidad del envase y el número de envases que se tengan en existencias, en los términos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
+
 III. Los contribuyentes a que se refieren las fracciones I y II del presente Artículo, deberán informar mensualmente a la Secretaría de Hacienda y Crédito Público en el formato que al efecto publique dicha Secretaría, las enajenaciones realizadas en el mes de que se trate de los productos que se hubiesen reportado en los inventarios a que se refieren dichas fracciones.
-IV. Los contribuyentes que con posterioridad a la entrada en vigor del Artículo Primero del presente Decreto reciban devoluciones de bebidas alcohólicas por las que ya se hubiera pagado el impuesto, estarán a lo siguiente: a) Determinarán el impuesto pagado en la enajenación de dichos productos. En el caso de que no se pueda determinar el mes en el que dichos productos fueron enajenados, considerarán como impuesto pagado, la cantidad que resulte de aplicar al número de litros devueltos, la cuota por litro vigente en el tercer mes inmediato anterior a aquél en el que se efectuó la devolución. b) Cuando los productos devueltos sean nuevamente enajenados, se calculará el impuesto correspondiente en los términos de la fracción II de este artículo, considerando la cuota por litro vigente en el mes en el que se efectúa dicha enajenación. c) Del impuesto causado por dichas enajenaciones en los términos del inciso anterior, se podrá disminuir el impuesto pagado a que se refiere el inciso a) de esta fracción correspondiente a dichos productos. d) La diferencia que resulte a cargo del contribuyente en los términos del inciso anterior, deberá pagarse conjuntamente con el impuesto que corresponda al mes en que se efectúa la enajenación de dichos productos.
+
+IV. Los contribuyentes que con posterioridad a la entrada en vigor del Artículo Primero del presente Decreto reciban devoluciones de bebidas alcohólicas por las que ya se hubiera pagado el impuesto, estarán a lo siguiente:
+
+a) Determinarán el impuesto pagado en la enajenación de dichos productos. En el caso de que no se pueda determinar el mes en el que dichos productos fueron enajenados, considerarán como impuesto pagado, la cantidad que resulte de aplicar al número de litros devueltos, la cuota por litro vigente en el tercer mes inmediato anterior a aquél en el que se efectuó la devolución.
+
+b) Cuando los productos devueltos sean nuevamente enajenados, se calculará el impuesto correspondiente en los términos de la fracción II de este artículo, considerando la cuota por litro vigente en el mes en el que se efectúa dicha enajenación.
+
+c) Del impuesto causado por dichas enajenaciones en los términos del inciso anterior, se podrá disminuir el impuesto pagado a que se refiere el inciso a) de esta fracción correspondiente a dichos productos.
+
+d) La diferencia que resulte a cargo del contribuyente en los términos del inciso anterior, deberá pagarse conjuntamente con el impuesto que corresponda al mes en que se efectúa la enajenación de dichos productos.
 Para los efectos de esta fracción, se considerará que los primeros productos devueltos fueron los
 **primero.** s que se enajenaron posteriormente.
 Los contribuyentes a que hace referencia esta fracción deberán llevar un registro especial de devoluciones y enajenaciones de productos, en los términos que para tales efectos establezca la Secretaría de Hacienda y Crédito Público.
+
 V. Los contribuyentes del impuesto especial sobre producción y servicios, que a la entrada en vigor del Artículo Primero del presente Decreto tengan marbetes o precintos adquiridos con anterioridad que no se encuentren adheridos a los envases o recipientes que contengan bebidas alcohólicas, deberán informar el número de marbetes o precintos y el folio de cada uno de ellos, y devolver a las autoridades fiscales, dentro de los 5 días siguientes a la entrada en vigor del citado
 
 ### Artículo Primero
 , dichos marbetes o precintos.
+
 VI. Los contribuyentes que a la fecha de la entrada en vigor del Artículo Primero del presente Decreto tengan un monto de impuesto pendiente de disminuir en los términos del artículo 26-E de la Ley del Impuesto Especial sobre Producción y Servicios, vigente hasta antes de la entrada en vigor de dicho Artículo Primero, lo podrán disminuir del impuesto especial sobre producción y servicios que les corresponda pagar en los meses siguientes, hasta agotarlo.
+
 VII. Los contribuyentes del impuesto especial sobre producción y servicios distintos de los productores, envasadores e importadores, de bebidas alcohólicas, que a la entrada en vigor del
 
 ### Artículo Primero
 del presente Decreto cuenten con existencias de bebidas alcohólicas por las cuales los productores, envasadores e importadores, ya hubiesen pagado el impuesto correspondiente y esta situación se demuestre con los marbetes o precintos anteriores de los que a partir de la entrada en vigor del mismo autorice la Secretaría de Hacienda y Crédito Público, no estarán obligados a pagar el impuesto que corresponda a dichas bebidas ni podrán trasladarlo cuando las mismas se enajenen.
+
 VIII. Los contribuyentes del impuesto especial sobre producción y servicios distintos de los productores, envasadores e importadores, de bebidas alcohólicas, que a partir de la entrada en vigor del Artículo Primero de este Decreto adquieran bebidas alcohólicas que tengan adherido el marbete autorizado por la Secretaría de Hacienda y Crédito Público con anterioridad a la entrada en vigor del mismo, no deberán aceptar el traslado del impuesto especial sobre producción y servicios en la adquisición de dichas bebidas y no podrán trasladarlo cuando las mismas se enajenen. Respecto de dichos bienes no se considerarán contribuyentes del citado impuesto, por lo que no procede acreditamiento alguno.
+
 IX. Para los efectos de la fracción VI del artículo 7 de la Ley de Ingresos de la Federación para el ejercicio fiscal de 2002, se entenderá por ejercicio el año de calendario.
+
 X. Para los efectos de lo dispuesto por el artículo 19, fracciones VI y VIII de la Ley del Impuesto Especial sobre Producción y Servicios, en relación con los artículos 3o. y 3o.-A de la Ley de Coordinación Fiscal, la determinación de las participaciones a las entidades federativas de la recaudación del impuesto especial sobre producción y servicios en los años de 2000 y 2001, por la realización de los actos o actividades gravados con dicho impuesto en materia de bebidas alcohólicas, se hará con base en el por ciento que corresponda a cada Estado, de conformidad con la recaudación participada en 1999 por entidad federativa.
+
 XI. Las personas físicas y morales, que hasta el 31 de diciembre de 2001 no hayan sido considerados como contribuyentes del impuesto especial sobre producción y servicios y que a partir de la entrada en vigor del Artículo Primero del presente Decreto tengan tal carácter, deberán presentar dentro de los 5 días siguientes a la entrada en vigor del citado Artículo
 **Primero.** , un reporte que contenga el inventario de existencias por tipo, marca, presentación y capacidad, de los bienes por los que a partir de la entrada en vigor de dicho Artículo son considerados como contribuyentes del impuesto de referencia.
 La información a que se refiere esta fracción se presentará mediante escrito libre ante las autoridades fiscales y deberá contener las existencias que se tengan hasta antes de la entrada en vigor del Artículo Primero del presente Decreto.
+
 XII. La obligación contenida en la fracción XVIII del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios entrará en vigor el 1o. de abril de 2002.
+
 XIII. Lo dispuesto en el Artículo Primero de este Decreto entrará en vigor el 1o. de enero de 2002.
-XIV. Para los efectos de lo dispuesto en el inciso C) de la fracción I del artículo 2o. de esta Ley, durante los ejercicios fiscales de 2002, 2003 y 2004 en lugar de aplicar las tasas previstas en dicho inciso para los cigarros, se estará a lo siguiente: a) Cigarros con filtro:
-AÑO TASA 2002 105% 2003 107% 2004 110% 2005 110% b) Cigarros sin filtro:
+
+XIV. Para los efectos de lo dispuesto en el inciso C) de la fracción I del artículo 2o. de esta Ley, durante los ejercicios fiscales de 2002, 2003 y 2004 en lugar de aplicar las tasas previstas en dicho inciso para los cigarros, se estará a lo siguiente:
+
+a) Cigarros con filtro:
+AÑO TASA 2002 105% 2003 107% 2004 110% 2005 110%
+
+b) Cigarros sin filtro:
 AÑO TASA 2002 60% 2003 80% 2004 100% 2005 110% Para los efectos de esta fracción, se consideran cigarros sin filtro los populares elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión.
 Para los efectos de lo dispuesto en el párrafo anterior, durante el año de 2002 son cigarros populares sin filtro los que al 1o. de enero de dicho año tengan un precio máximo al público que no exceda de $0.40 por cigarro. Para los ejercicios fiscales de 2003 y 2004 el precio máximo al público será el que se determine en la Ley de Ingresos de la Federación para el ejercicio fiscal de que se trate.
 México, D.F., a 31 de diciembre de 2001.- Sen. Diego Fernández de Cevallos Ramos, Presidente.Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Sara Castellanos Cortés, Secretario.- Dip.
@@ -1187,7 +1532,9 @@ Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y S
 
 ### Artículo Primero
 En relación con las modificaciones a que se refiere el Artículo Único de esta Ley, se estará a lo siguiente:
+
 I. El presente Decreto entrará en vigor el 1o. de enero de 2003.
+
 II. Para los efectos del inciso a) de la fracción II del Artículo Segundo de las Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios, vigente a partir del 1o. de enero de 2002, la tabla aplicable para el ejercicio fiscal de 2003 es la siguiente:
 TABLA PRODUCTO CUOTA POR LITRO $ Aguardiente Abocado o Reposado 5.52 Aguardiente Standard (blanco u oro) Charanda Licor de hierbas regionales Aguardiente Añejo 10.67 Habanero Rompope Aguardiente con Sabor 12.69 Cocteles Licores y Cremas hasta 20% Alc. Vol.
 Parras Bacanora 18.16 Comiteco Lechuguilla o raicilla Mezcal Sotol Anís 19.52 Ginebra Vodka Ron 24.16 Tequila joven o blanco Brandy 29.05 Amaretto 29.48 Licor de Café o Cacao Licores y Cremas de más de 20% Alc. Vol.
@@ -1207,6 +1554,7 @@ Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y S
 
 ### ARTÍCULO SEXTO
 En relación con las modificaciones a que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
+
 I. Para los efectos del inciso a) de la fracción II del Artículo Segundo de las Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y Servicios, vigente a partir del 1o. de enero de 2002, la tabla aplicable para el ejercicio fiscal de 2004 es la siguiente:
 TABLA PRODUCTO CUOTA POR LITRO $ Aguardiente Abocado o Reposado 5.70 Aguardiente Standard (blanco u oro) Charanda Licor de hierbas regionales Aguardiente Añejo 11.01 Habanero Rompope Aguardiente con Sabor 13.09 Cocteles Licores y Cremas de hasta 20% Alc. Vol.
 Parras Bacanora 18.74 Comiteco Lechuguilla o raicilla Mezcal Sotol Anís 20.14 Ginebra Vodka Ron 24.92 Tequila joven o blanco Brandy 29.97 Amaretto 30.41 Licor de Café o Cacao Licores y Cremas de más 20% Alc. Vol.
@@ -1299,9 +1647,15 @@ Se reforma el artículo 2o., fracción I, inciso C), numerales 1 y 2, y se adici
 
 **Primero.** El presente Decreto entrará en vigor el 1 de enero de 2007.
 **Segundo.** Se derogan y, en su caso, se abrogan, todas las disposiciones que se opongan al presente decreto y se dejan sin efecto todas las disposiciones administrativas, reglamentarias, acuerdos, convenios, circulares y todos los actos administrativos que contradigan a este Decreto.
-**Tercero.** Para los efectos de lo dispuesto en el artículo 2o., fracción I, inciso C) de esta ley, durante los ejercicios fiscales de 2007 y 2008, en lugar de aplicar las tasas previstas en dicho inciso para la enajenación e importación de cigarros, puros y otros tabacos labrados y, de puros y otros tabacos labrados hechos enteramente a mano, se estará a lo siguiente: a) Cigarros:
-AÑO TASA 2007 140% 2008 150% b) Puros y otros tabacos labrados:
-AÑO TASA 2007 140% 2008 150% c) Puros y otros tabacos labrados hechos enteramente a mano:
+**Tercero.** Para los efectos de lo dispuesto en el artículo 2o., fracción I, inciso C) de esta ley, durante los ejercicios fiscales de 2007 y 2008, en lugar de aplicar las tasas previstas en dicho inciso para la enajenación e importación de cigarros, puros y otros tabacos labrados y, de puros y otros tabacos labrados hechos enteramente a mano, se estará a lo siguiente:
+
+a) Cigarros:
+AÑO TASA 2007 140% 2008 150%
+
+b) Puros y otros tabacos labrados:
+AÑO TASA 2007 140% 2008 150%
+
+c) Puros y otros tabacos labrados hechos enteramente a mano:
 AÑO TASA 2007 26.6% 2008 28.5% México, D.F., a 20 de diciembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, del Código Fiscal de la Federación, de la Ley del Impuesto establece el Subsidio para el Empleo.
 Publicado en el Diario Oficial de la Federación el 1º de octubre de 2007
@@ -1312,7 +1666,9 @@ Disposiciones Transitorias de la Ley del Impuesto Especial sobre Producción y S
 
 ### ARTÍCULO SÉPTIMO
 En relación con las modificaciones a que se refiere el Artículo Sexto de este Decreto, y tratándose de las actividades a que se refiere el artículo 2o., fracción II, inciso B) de la Ley del Impuesto Especial sobre Producción y Servicios, que se realicen con posterioridad a la fecha de la entrada en vigor del presente Decreto, sólo quedarán afectas al pago del impuesto las cantidades efectivamente percibidas a partir de su entrada en vigor, las cuales sólo se podrán disminuir con el monto de los siguientes conceptos:
+
 I. Los premios efectivamente pagados o entregados conforme a las disposiciones aplicables a partir de la fecha de la entrada en vigor del presente Decreto, en la proporción que representen las cantidades efectivamente percibidas a partir de dicha fecha respecto de la totalidad de las cantidades efectivamente percibidas por el juego o sorteo de que se trate.
+
 II. Las cantidades efectivamente devueltas a los participantes a partir de la fecha de la entrada en vigor del presente Decreto, cuando se identifiquen con las cantidades efectivamente percibidas a partir de dicha fecha. Si las cantidades primeramente mencionadas no fuesen identificables de conformidad con lo anterior, se podrán disminuir en la proporción que representen las cantidades efectivamente percibidas a partir de la entrada en vigor del presente Decreto respecto de la totalidad de las cantidades efectivamente percibidas por el juego o sorteo de que se trate.
 La disminución de las cantidades mencionadas en este inciso sólo se podrá realizar cuando se cumplan los requisitos a que se refiere la fracción II del artículo 18 de la Ley del Impuesto Especial sobre Producción y Servicios.
 
@@ -1333,8 +1689,11 @@ DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y S
 ### ARTÍCULO SEXTO
 Las reformas y adiciones a los artículos 2o.-A, 2o.-B, 7o. y 8o. de la Ley del Impuesto Especial sobre Producción y Servicios, entrarán en vigor a los quince días naturales siguientes a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.
 Las cuotas previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios para la venta al público de gasolinas y diesel, se aplicarán de manera gradual, de conformidad con lo siguiente:
+
 I. En el mes calendario en que entre en vigor el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará una cuota de 2 centavos a cada litro de Gasolina Magna, 2.44 centavos a cada litro de Gasolina Premium UBA y 1.66 centavos a cada litro de Diesel.
+
 II. Las cuotas mencionadas en la fracción anterior, se incrementarán mensualmente en 2 centavos, 2.44 centavos y 1.66 centavos, por cada litro de Gasolina Magna, Gasolina Premium UBA y Diesel, respectivamente, hasta llegar a las cuotas previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios.
+
 III. (Se deroga).
 Fracción reformada DOF 12-12-2011. Derogada DOF 11-12-2013
 
@@ -1451,14 +1810,27 @@ DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y S
 
 ### ARTÍCULO CUARTO
 En relación con las modificaciones a que se refiere el Artículo Tercero de este Decreto, se estará a lo siguiente:
+
 I. Tratándose de la enajenación de bienes o de la prestación de servicios, que se hayan celebrado con anterioridad a la fecha de la entrada en vigor del presente Decreto, las contraprestaciones correspondientes que se cobren con posterioridad a la fecha mencionada, estarán afectas al pago del impuesto especial sobre producción y servicios de conformidad con las disposiciones vigentes en el momento de su cobro.
-No obstante lo anterior, los contribuyentes podrán acogerse a lo siguiente: a) Tratándose de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto hayan estado afectas a una tasa del impuesto especial sobre producción y servicios menor a la que deban aplicar con posterioridad a la fecha mencionada, se podrá calcular el impuesto especial sobre producción y servicios aplicando la tasa que corresponda conforme a las disposiciones vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha. b) En el caso de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto no hayan estado afectas al pago del impuesto especial sobre producción y servicios y que con posterioridad a la fecha mencionada queden afectas al pago de dicho impuesto, no se estará obligado al pago del citado impuesto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
-Se exceptúa del tratamiento establecido en los incisos anteriores a las actividades que se lleven a cabo entre contribuyentes que sean partes relacionadas de conformidad con lo II. Tratándose de insumos destinados hasta antes de la entrada en vigor de los artículos a que se refiere la fracción V de este artículo, a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, en caso de que éstos se incorporen en mercancías que también lleven incorporados insumos por los que se haya pagado el impuesto especial sobre producción y servicios al destinarlos a los regímenes mencionados, cuando se importe en definitiva dicha mercancía estará sujeta al pago del impuesto especial sobre producción y servicios conforme a las disposiciones vigentes con anterioridad a dicha entrada en vigor.
+No obstante lo anterior, los contribuyentes podrán acogerse a lo siguiente:
+
+a) Tratándose de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto hayan estado afectas a una tasa del impuesto especial sobre producción y servicios menor a la que deban aplicar con posterioridad a la fecha mencionada, se podrá calcular el impuesto especial sobre producción y servicios aplicando la tasa que corresponda conforme a las disposiciones vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
+
+b) En el caso de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto no hayan estado afectas al pago del impuesto especial sobre producción y servicios y que con posterioridad a la fecha mencionada queden afectas al pago de dicho impuesto, no se estará obligado al pago del citado impuesto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
+Se exceptúa del tratamiento establecido en los incisos anteriores a las actividades que se lleven a cabo entre contribuyentes que sean partes relacionadas de conformidad con lo
+
+II. Tratándose de insumos destinados hasta antes de la entrada en vigor de los artículos a que se refiere la fracción V de este artículo, a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, en caso de que éstos se incorporen en mercancías que también lleven incorporados insumos por los que se haya pagado el impuesto especial sobre producción y servicios al destinarlos a los regímenes mencionados, cuando se importe en definitiva dicha mercancía estará sujeta al pago del impuesto especial sobre producción y servicios conforme a las disposiciones vigentes con anterioridad a dicha entrada en vigor.
 Para los efectos del párrafo anterior, se considerará que, en las mercancías que se importen en definitiva, fueron incorporados en primer lugar los insumos que tengan mayor antigüedad de haber sido destinados a los regímenes mencionados, siempre que se trate de insumos genéricos que no estén identificados individualmente. Para ello, el inventario de los insumos mencionados deberá controlarse utilizando el método de primeras entradas primeras salidas.
+
 III. La reforma al artículo 19, fracción XXII y la adición del artículo 19-A, entrarán en vigor al año siguiente al de la entrada en vigor del presente Decreto.
+
 IV. Se deroga la fracción III del ARTÍCULO SEXTO, del "Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios", publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007, fracción reformada mediante el “Decreto por el que se reforman diversos artículos del Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios, publicado el 21 de diciembre de 2007”, publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011.
+
 V. Lo dispuesto en los artículos 13, fracción I, segundo párrafo y las adiciones a los artículos 13, fracción VI; 14, segundo párrafo; 15, segundo párrafo, y 15-A, de la Ley del Impuesto Especial sobre Producción y Servicios, entrará en vigor un año después de que se hayan publicado en el Diario Oficial de la Federación las reglas sobre certificación a que se refiere el citado artículo 15-A.
-VI. Para los efectos de lo dispuesto en el artículo 2o. fracción I, inciso I) de la Ley del Impuesto Especial sobre Producción y Servicios, durante el ejercicio fiscal de 2014, en sustitución de las tasas previstas en dicho inciso se aplicarán las siguientes: 1. Categorías 1 y 2 .................................................................................................. 4.5% 2. Categoría 3 ......................................................................................................... 3.5% 3. Categoría 4 .......................................................................................................... 3.0% VII. Durante 2014, en lugar del factor a que se refiere el inciso b) de la fracción I del artículo 2o.-A de la Ley del Impuesto Especial sobre Producción y Servicios, que se utiliza para calcular el monto por concepto de mermas, se utilizará un factor de 0.005. ……….
+
+VI. Para los efectos de lo dispuesto en el artículo 2o. fracción I, inciso I) de la Ley del Impuesto Especial sobre Producción y Servicios, durante el ejercicio fiscal de 2014, en sustitución de las tasas previstas en dicho inciso se aplicarán las siguientes: 1. Categorías 1 y 2 .................................................................................................. 4.5% 2. Categoría 3 ......................................................................................................... 3.5% 3. Categoría 4 .......................................................................................................... 3.0%
+
+VII. Durante 2014, en lugar del factor a que se refiere el inciso b) de la fracción I del artículo 2o.-A de la Ley del Impuesto Especial sobre Producción y Servicios, que se utiliza para calcular el monto por concepto de mermas, se utilizará un factor de 0.005. ……….
 
 ## TRANSITORIOS
 
@@ -1483,7 +1855,13 @@ ACUERDO 017/2014 por el que se actualizan las cuotas aplicables a las gasolinas 
 Publicado en el Diario Oficial de la Federación el 1 de enero de 2015
 
 ### ARTÍCULO ÚNICO
-Conforme al ajuste de 1.9% respecto de los precios vigentes en diciembre de 2014 aplicable a partir del 1 de enero de 2015 a los precios máximos de gasolinas Pemex Magna y Pemex Premium, así como al Diésel, se actualizan las cuotas establecidas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar de la forma siguiente: a) Gasolina Magna 36.68 centavos por litro. b) Gasolina Premium UBA 44.75 centavos por litro. c) Diésel 30.44 centavos por litro.
+Conforme al ajuste de 1.9% respecto de los precios vigentes en diciembre de 2014 aplicable a partir del 1 de enero de 2015 a los precios máximos de gasolinas Pemex Magna y Pemex Premium, así como al Diésel, se actualizan las cuotas establecidas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, para quedar de la forma siguiente:
+
+a) Gasolina Magna 36.68 centavos por litro.
+
+b) Gasolina Premium UBA 44.75 centavos por litro.
+
+c) Diésel 30.44 centavos por litro.
 
 ## TRANSITORIO
 
@@ -1497,16 +1875,24 @@ Se reforman los artículos 2o., fracción I, inciso D); 2o.-A; 3o., fracciones V
 
 ### ARTÍCULO QUINTO
 En relación con las modificaciones a las que se refiere el Artículo Cuarto de este Decreto, se estará a lo siguiente:
+
 I. Tratándose de enajenaciones de gasolinas y diésel efectuadas en el mes de diciembre de 2015 y que se hayan entregado en dicho mes que sean cobradas a más tardar el día 10 de enero de 2016, el impuesto se determinará y pagará conforme a las disposiciones vigentes hasta el 31 de diciembre de 2015.
 Los contribuyentes que estén en el supuesto a que se refiere el párrafo anterior, deberán presentar al Servicio de Administración Tributaria un informe de las enajenaciones de los combustibles mencionados, realizadas en el mes de diciembre de 2015 y cobradas en el plazo a que se refiere el párrafo citado, informe que deberá presentarse de conformidad con las reglas de carácter general que emita dicho órgano desconcentrado.
 La información mencionada deberá ser reportada en el primer Informe Trimestral correspondiente al ejercicio de 2016, a que se refiere el artículo 107, fracción I, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
 II. Las referencias que otras disposiciones, ordenamientos, reglamentos o acuerdos hagan a la fracción I del artículo 2o.-A de la Ley del Impuesto Especial sobre Producción y Servicios, se entenderán referidas al artículo 2o., fracción I, inciso D) del mismo ordenamiento; en tanto que las que se hagan a la fracción II del artículo 2o.-A de la Ley del Impuesto Especial sobre Producción y Servicios, se entenderán referidas al artículo 2o.-A del mismo ordenamiento.
+
 III. Se deroga.
-Fracción derogada DOF 15-11-2016 IV. En el ejercicio fiscal de 2016 las cuotas establecidas en el Artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, se actualizarán con el factor de actualización correspondiente al período comprendido desde el mes de diciembre de 2014 hasta el mes de diciembre de 2015, mismo que se obtendrá de conformidad con lo dispuesto en el artículo 17-A del Código Fiscal de la Federación. Dicha actualización deberá disminuirse con el ajuste de 1.9%, aplicado a partir del 1 de enero de 2015. La actualización así obtenida se llevará a cabo de manera proporcional en cada uno de los meses de 2016.
+Fracción derogada DOF 15-11-2016
+
+IV. En el ejercicio fiscal de 2016 las cuotas establecidas en el Artículo 2o.-A, fracciones I, II y III de la Ley del Impuesto Especial sobre Producción y Servicios, se actualizarán con el factor de actualización correspondiente al período comprendido desde el mes de diciembre de 2014 hasta el mes de diciembre de 2015, mismo que se obtendrá de conformidad con lo dispuesto en el artículo 17-A del Código Fiscal de la Federación. Dicha actualización deberá disminuirse con el ajuste de 1.9%, aplicado a partir del 1 de enero de 2015. La actualización así obtenida se llevará a cabo de manera proporcional en cada uno de los meses de 2016.
 La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación el 1 de enero de 2016, las cuotas aplicables en cada uno de los meses de dicho año.
 Las cuotas actualizadas de conformidad con el párrafo anterior correspondientes al mes de diciembre de 2016 serán la base para realizar las actualizaciones a partir de 2017 de conformidad con el tercer párrafo del Artículo 2o.-A antes mencionado.
+
 V. Se deroga.
-Fracción derogada DOF 15-11-2016 VI. Con la finalidad de que se den a conocer a más tardar el 31 de diciembre de 2015 las bandas, precios y montos a que se refiere la fracción III de este artículo quinto, dicha fracción entrará en vigor a partir del día siguiente a la publicación en el Diario Oficial de la Federación del presente Decreto. Para los fines mencionados se tomarán en consideración, cuando así proceda, los montos de las cuotas establecidas en el artículo 2o., fracción I, inciso D), numeral 1 de la Ley del Impuesto Especial sobre Producción y Servicios, mismas que entrarán en vigor el 1 de enero de 2016. ……….
+Fracción derogada DOF 15-11-2016
+
+VI. Con la finalidad de que se den a conocer a más tardar el 31 de diciembre de 2015 las bandas, precios y montos a que se refiere la fracción III de este artículo quinto, dicha fracción entrará en vigor a partir del día siguiente a la publicación en el Diario Oficial de la Federación del presente Decreto. Para los fines mencionados se tomarán en consideración, cuando así proceda, los montos de las cuotas establecidas en el artículo 2o., fracción I, inciso D), numeral 1 de la Ley del Impuesto Especial sobre Producción y Servicios, mismas que entrarán en vigor el 1 de enero de 2016. ……….
 
 ## Transitorio
 
@@ -1547,14 +1933,23 @@ de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. En este reporte s
 Décimo. Las Entidades Federativas y Municipios que cuenten con disponibilidades de recursos federales, correspondientes a ejercicios fiscales anteriores al 2016, que no hayan sido devengados conforme a los calendarios respectivos, deberán enterarlos a la Tesorería de la Federación, incluyendo los rendimientos financieros que hubieran generado.
 Para efectos de lo anterior, los aprovechamientos provenientes de los enteros que realicen las Entidades Federativas y Municipios en términos del presente transitorio, no se considerarán extemporáneos, por lo que no causan daño a la hacienda pública ni se cubrirán cargas financieras, siempre y cuando dichas disponibilidades hayan estado depositadas en cuentas bancarias de la Entidad Federativa y/o Municipio.
 Décimo Primero. A partir del 1 de enero de 2017 se derogan las siguientes disposiciones:
+
 I. Las fracciones III y V del artículo Quinto del Decreto por el que se reforman, adicionan y de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015.
+
 II. La fracción I y el último párrafo del artículo Décimo Cuarto Transitorio de la Ley de Hidrocarburos publicada en el Diario Oficial de la Federación el 11 de agosto de 2014.
 Décimo Segundo. Durante 2017 y 2018 los precios al público de las gasolinas y el diésel se determinarán de conformidad con lo siguiente:
+
 I. La Comisión Reguladora de Energía, tomando en cuenta la opinión que emita la Comisión Federal de Competencia Económica, emitirá los acuerdos o el cronograma de flexibilización para que durante los años de 2017 y 2018 los precios al público se determinen bajo condiciones de mercado. Los acuerdos o el cronograma se establecerán por regiones del país. La Comisión Reguladora de Energía podrá modificar dichos acuerdos o cronograma, con base en la evolución de las condiciones de mercado y el desarrollo de la infraestructura de suministro en el país, entre otros factores. La Comisión Reguladora de Energía deberá publicar en el Diario Oficial de la Federación los acuerdos o el cronograma actualizados. Las modificaciones únicamente podrán llevarse a cabo para adelantar el momento a partir del cual los precios al público se determinarán bajo condiciones de mercado.
-II. En las regiones del país, durante el tiempo en donde los precios al público de las gasolinas y el diésel no se determinen bajo condiciones de mercado conforme a lo establecido en la fracción anterior, la Secretaría de Hacienda y Crédito Público establecerá los precios máximos al público de las gasolinas y el diésel con base en lo siguiente: a) Considerará el precio de la referencia internacional de los combustibles y, en su caso, las diferencias en la calidad de los mismos, las diferencias relativas por los costos de logística, incluyendo los costos de transporte entre regiones, los costos de distribución y comercialización en los centros de consumo y las diversas modalidades de distribución y expendio al público, procurando generar las condiciones para el abasto oportuno de dichos combustibles.
+
+II. En las regiones del país, durante el tiempo en donde los precios al público de las gasolinas y el diésel no se determinen bajo condiciones de mercado conforme a lo establecido en la fracción anterior, la Secretaría de Hacienda y Crédito Público establecerá los precios máximos al público de las gasolinas y el diésel con base en lo siguiente:
+
+a) Considerará el precio de la referencia internacional de los combustibles y, en su caso, las diferencias en la calidad de los mismos, las diferencias relativas por los costos de logística, incluyendo los costos de transporte entre regiones, los costos de distribución y comercialización en los centros de consumo y las diversas modalidades de distribución y expendio al público, procurando generar las condiciones para el abasto oportuno de dichos combustibles.
 La Secretaría de Hacienda y Crédito Público publicará la metodología para determinar los precios máximos al público antes mencionados y el periodo de vigencia de los mismos a más tardar el 31 de diciembre de 2016.
-La fijación de estos precios máximos tendrá como objetivo final la liberalización de los precios en la región que corresponda. Adicionalmente, en aquellas regiones con precio máximo, se deberá aplicar la regulación asimétrica para el acceso a la infraestructura, cuando así lo haya determinado la Comisión Reguladora de Energía y sin perjuicio de que dicha regulación pueda ser aplicada en el resto del territorio nacional. b) Emitirá un acuerdo en el que se especifique la región, los combustibles y el periodo de aplicación de los precios, mismo que se publicará en el Diario Oficial de la Federación con anticipación al periodo durante el cual se aplicarán.
+La fijación de estos precios máximos tendrá como objetivo final la liberalización de los precios en la región que corresponda. Adicionalmente, en aquellas regiones con precio máximo, se deberá aplicar la regulación asimétrica para el acceso a la infraestructura, cuando así lo haya determinado la Comisión Reguladora de Energía y sin perjuicio de que dicha regulación pueda ser aplicada en el resto del territorio nacional.
+
+b) Emitirá un acuerdo en el que se especifique la región, los combustibles y el periodo de aplicación de los precios, mismo que se publicará en el Diario Oficial de la Federación con anticipación al periodo durante el cual se aplicarán.
 En las regiones del país que al 1 de enero de 2017 no se apliquen los precios al público de las gasolinas y el diésel bajo condiciones de mercado, se deberán publicar los precios máximos al público de los combustibles mencionados, a más tardar el 31 de diciembre de 2016.
+
 III. Para los efectos de lo dispuesto en la fracción I de este artículo, cuando la Comisión Reguladora de Energía, previa opinión de la Comisión Federal de Competencia Económica, comunique a la Secretaría de Hacienda y Crédito Público que, en las regiones en las que se haya determinado que los precios de las gasolinas y el diésel se apliquen bajo condiciones de mercado se han presentado aumentos en los precios al público de dichos combustibles que no correspondan a la evolución de los precios internacionales de los combustibles y de los costos de suministro, dicha Secretaría podrá establecer por regiones o subregiones, precios máximos al público de conformidad con lo dispuesto en la fracción II de este artículo.
 Para los efectos de lo dispuesto en el párrafo anterior, la Comisión Reguladora de Energía podrá ejercer la facultad establecida en la fracción IV del artículo 26 de esta Ley.
 Lo establecido en este artículo tendrá vigencia hasta el 31 de diciembre de 2018.
@@ -1580,8 +1975,11 @@ En adición al anterior, y de acuerdo al procedimiento establecido en el present
 ## Transitorio
 
 **Único.** El presente Decreto entrará en vigor conforme a lo siguiente:
+
 I. El Artículo Primero, el 1 de enero de 2017, salvo lo dispuesto en los transitorios Décimo
-**Segundo.** y Décimo Cuarto de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2017, los cuales entrarán en vigor el día siguiente al de la publicación en el Diario Oficial de la Federación del presente Decreto, y II. El Artículo Segundo, al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** y Décimo Cuarto de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2017, los cuales entrarán en vigor el día siguiente al de la publicación en el Diario Oficial de la Federación del presente Decreto, y
+
+II. El Artículo Segundo, al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 ACUERDO por el que se actualizan las cuotas que se especifican en materia del impuesto especial sobre producción y servicios.
 Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2016
@@ -1666,8 +2064,10 @@ DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y S
 
 ### Artículo Sexto
 En relación con las modificaciones a las que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
+
 I. Para los efectos del artículo 2o., fracción I, inciso C), segundo párrafo, de la Ley del Impuesto Especial sobre Producción y Servicios, la cuota aplicable a tabacos labrados para el ejercicio fiscal de 2020, se actualizará con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre de 2010, hasta el mes de diciembre de 2019, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público, publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de 2019, así como la cuota actualizada, misma que se expresará hasta el diezmilésimo.
 La presente disposición entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
 II. Para los efectos del artículo 2o., fracción I, inciso G), segundo párrafo, de la Ley del Impuesto Especial sobre Producción y Servicios, la cuota aplicable a bebidas saborizadas para el ejercicio fiscal de 2020, se actualizará con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre de 2017, hasta el mes de diciembre de 2019, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público, publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de 2019, así como la cuota actualizada, misma que se expresará hasta el diezmilésimo.
 La presente disposición entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación. ……….
 
@@ -1889,7 +2289,11 @@ Se reforman los artículos 1o., párrafo tercero; 2o., fracción I, inciso C), p
 Durante los ejercicios fiscales de 2026, 2027, 2028 y 2029, las cuotas aplicables serán las siguientes:
 Ejercicio Fiscal Cuota 2026 $0.8516 2027 $0.9197 2028 $0.9932 2029 $1.0726 Las cuotas establecidas en el párrafo anterior, no estarán sujetas a lo dispuesto en el cuarto párrafo del inciso C), de la fracción I, del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
 **Tercero.** Tratándose de la enajenación de bienes o de la prestación de servicios, que se hayan celebrado con anterioridad a la fecha de la entrada en vigor del presente Decreto, las contraprestaciones correspondientes que se cobren con posterioridad a la fecha mencionada, estarán afectas al pago del impuesto especial sobre producción y servicios de conformidad con las disposiciones vigentes en el momento de su cobro.
-No obstante lo anterior, los contribuyentes podrán acogerse a lo siguiente: a) Tratándose de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto hayan estado afectas a una tasa o cuota del impuesto especial sobre producción y servicios menor a la que deban aplicar con posterioridad a la fecha mencionada, se podrá calcular el impuesto especial sobre producción y servicios aplicando la tasa o cuota que corresponda conforme a las disposiciones vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha. b) En el caso de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto no hayan estado afectas al pago del impuesto especial sobre producción y servicios y que con posterioridad a la fecha mencionada queden afectas al pago de dicho impuesto, no se estará obligado al pago del citado impuesto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
+No obstante lo anterior, los contribuyentes podrán acogerse a lo siguiente:
+
+a) Tratándose de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto hayan estado afectas a una tasa o cuota del impuesto especial sobre producción y servicios menor a la que deban aplicar con posterioridad a la fecha mencionada, se podrá calcular el impuesto especial sobre producción y servicios aplicando la tasa o cuota que corresponda conforme a las disposiciones vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
+
+b) En el caso de la enajenación de bienes o de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto no hayan estado afectas al pago del impuesto especial sobre producción y servicios y que con posterioridad a la fecha mencionada queden afectas al pago de dicho impuesto, no se estará obligado al pago del citado impuesto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
 Se exceptúa del tratamiento establecido en los incisos anteriores a las actividades que se lleven a cabo entre contribuyentes que sean partes relacionadas, de conformidad con lo dispuesto por la Ley del Impuesto sobre la Renta, sean o no residentes en México.
 Ciudad de México, a 28 de octubre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 05 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 ACUERDO por el que se actualizan las cuotas que se especifican en materia del impuesto especial sobre producción y servicios para 2026.

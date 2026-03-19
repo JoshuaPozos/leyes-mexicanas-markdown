@@ -24,8 +24,13 @@ Párrafo reformado DOF 16-07-2025
 
 ### Artículo 2
 .- Para los efectos de esta Ley, se entenderá por:
+
 I. Ley, la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional;
-Fracción reformada DOF 16-07-2025 II. Secretaría, la Secretaría de la Defensa Nacional, y III. Dirección y Rectoría, la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
+Fracción reformada DOF 16-07-2025
+
+II. Secretaría, la Secretaría de la Defensa Nacional, y
+
+III. Dirección y Rectoría, la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 3
@@ -37,18 +42,34 @@ Artículo reformado DOF 17-01-2022, 16-07-2025
 
 ### Artículo 5
 .- Los objetivos de la Educación Militar son los siguientes:
+
 I. Desarrollar armónica e integralmente al personal del Ejército, Fuerza Aérea y Guardia Nacional;
-Fracción reformada DOF 16-07-2025 II. Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y de reflexión crítica;
+Fracción reformada DOF 16-07-2025
+
+II. Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y de reflexión crítica;
+
 III. Vincular permanentemente la educación y adiestramiento de los militares;
+
 IV. Promover la conciencia institucional, los valores y la doctrina militar y policial, según corresponda;
-Fracción reformada DOF 16-07-2025 V. Fomentar el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto de los mismos, y VI. Fortalecer el conocimiento enfocado a la preservación de la salud y la protección al medio ambiente.
+Fracción reformada DOF 16-07-2025
+
+V. Fomentar el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto de los mismos, y
+
+VI. Fortalecer el conocimiento enfocado a la preservación de la salud y la protección al medio ambiente.
 
 ### Artículo 6
 .- La Universidad del Ejército y Fuerza Aérea tiene las finalidades siguientes:
+
 I. Impartir al personal militar los conocimientos científicos, técnicos, humanísticos, interculturales y de derechos humanos, a nivel de educación medio superior y superior para el cumplimiento de las misiones de las armas y servicios propios del Ejército y Fuerza Aérea Mexicanos;
 Además de lo anterior, la formación policial al personal de Guardia Nacional;
-Párrafo adicionado DOF 16-07-2025 Fracción reformada DOF 17-01-2022 II. Realizar investigaciones científicas en lo general, relacionadas con el avance de la ciencia, el arte militar, así como en materia de seguridad pública;
-Fracción reformada DOF 16-07-2025 III. Formar docentes para las diversas asignaturas que imparten las Instituciones de Educación Militar, y Fracción reformada DOF 16-07-2025 IV. Difundir y enriquecer la cultura del personal del Ejército, Fuerza Aérea y Guardia Nacional.
+Párrafo adicionado DOF 16-07-2025 Fracción reformada DOF 17-01-2022
+
+II. Realizar investigaciones científicas en lo general, relacionadas con el avance de la ciencia, el arte militar, así como en materia de seguridad pública;
+Fracción reformada DOF 16-07-2025
+
+III. Formar docentes para las diversas asignaturas que imparten las Instituciones de Educación Militar, y Fracción reformada DOF 16-07-2025
+
+IV. Difundir y enriquecer la cultura del personal del Ejército, Fuerza Aérea y Guardia Nacional.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 7
@@ -70,14 +91,28 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 11
 .- Los objetivos del Sistema Educativo Militar son los siguientes:
+
 I. Mejorar los niveles de eficiencia terminal, la calidad educativa y el aprovechamiento académico, optimizando los recursos humanos, materiales, técnicos y financieros disponibles;
+
 II. Fortalecer mediante un proceso continuo y permanente el desarrollo profesional del personal del Ejército, Fuerza Aérea y Guardia Nacional en un marco de calidad educativa;
-Fracción reformada DOF 16-07-2025 III. Proporcionar al personal del Ejército, Fuerza Aérea y Guardia Nacional, los servicios educativos que corresponden a su jerarquía y especialidad;
-Fracción reformada DOF 16-07-2025 IV. Impartir los conocimientos y desarrollar las habilidades necesarias para fortalecer las capacidades de planeo y ejecución de operaciones militares y policiales combinadas y conjuntas;
-Fracción reformada DOF 16-07-2025 V. Desarrollar y fortalecer el conocimiento mediante la práctica de los valores y las virtudes, como parte fundamental de la formación militar y policial;
-Fracción reformada DOF 16-07-2025 VI. Impulsar, organizar y normar las actividades de investigación sobre el arte y ciencia de la guerra, así como aspectos técnicos y científicos de los servicios del Ejército y Fuerza Aérea Mexicanos;
+Fracción reformada DOF 16-07-2025
+
+III. Proporcionar al personal del Ejército, Fuerza Aérea y Guardia Nacional, los servicios educativos que corresponden a su jerarquía y especialidad;
+Fracción reformada DOF 16-07-2025
+
+IV. Impartir los conocimientos y desarrollar las habilidades necesarias para fortalecer las capacidades de planeo y ejecución de operaciones militares y policiales combinadas y conjuntas;
+Fracción reformada DOF 16-07-2025
+
+V. Desarrollar y fortalecer el conocimiento mediante la práctica de los valores y las virtudes, como parte fundamental de la formación militar y policial;
+Fracción reformada DOF 16-07-2025
+
+VI. Impulsar, organizar y normar las actividades de investigación sobre el arte y ciencia de la guerra, así como aspectos técnicos y científicos de los servicios del Ejército y Fuerza Aérea Mexicanos;
 Además de lo anterior, las actividades de investigación y aspectos técnicos y científicos relacionados con la Guardia Nacional;
-Párrafo adicionado DOF 16-07-2025 VII. Elevar el nivel de cultura y académico de los recursos humanos del Ejército, Fuerza Aérea y Guardia Nacional, con base en el respeto de los derechos humanos y el criterio intercultural, y Fracción reformada DOF 17-01-2022, 16-07-2025 VIII. Proporcionar en forma oportuna y secuencial la formación orientada a la función específica que habrá de cumplir el personal militar.
+Párrafo adicionado DOF 16-07-2025
+
+VII. Elevar el nivel de cultura y académico de los recursos humanos del Ejército, Fuerza Aérea y Guardia Nacional, con base en el respeto de los derechos humanos y el criterio intercultural, y Fracción reformada DOF 17-01-2022, 16-07-2025
+
+VIII. Proporcionar en forma oportuna y secuencial la formación orientada a la función específica que habrá de cumplir el personal militar.
 
 ### Artículo 12
 .- La función del Sistema Educativo Militar es adquirir, transmitir y acrecentar la cultura castrense que contribuya al desarrollo integral del militar profesional para el cumplimiento de los deberes que le impone el servicio de las armas y, en su caso, los fines de la Guardia Nacional.
@@ -85,17 +120,29 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 13
 .- Para los efectos de Ley, el Sistema Educativo Militar está constituido por:
+
 I. Los discentes, docentes y personal de apoyo;
+
 II. Las Autoridades Educativas Militares;
-III. El Plan General de Educación Militar, y IV. Las Instituciones de Educación Militar.
+
+III. El Plan General de Educación Militar, y
+
+IV. Las Instituciones de Educación Militar.
 Los integrantes del Sistema Educativo Militar serán regulados por los reglamentos que en su caso se expidan.
 
 ### Artículo 14
 .- Las Instituciones de Educación Militar se clasifican en:
+
 I. Colegios;
+
 II. Escuelas;
+
 III. Centros de Estudios;
-Fracción reformada DOF 22-11-2021 IV. Unidades-Escuela, y Fracción reformada DOF 22-11-2021 V. Institutos.
+Fracción reformada DOF 22-11-2021
+
+IV. Unidades-Escuela, y Fracción reformada DOF 22-11-2021
+
+V. Institutos.
 Fracción adicionada DOF 22-11-2021
 
 ### Artículo 15
@@ -103,11 +150,18 @@ Fracción adicionada DOF 22-11-2021
 
 ### Artículo 16
 .- Los cursos del Sistema Educativo Militar por su propósito se clasifican en:
+
 I. De Formación;
+
 II. De Capacitación;
+
 III. De Aplicación;
+
 IV. De Perfeccionamiento;
-V. De Actualización, y VI. De Especialización.
+
+V. De Actualización, y
+
+VI. De Especialización.
 
 ## CAPÍTULO III
 DEL PROCESO EDUCATIVO SECCIÓN PRIMERA DE LOS TIPOS Y MODALIDADES DE LA EDUCACIÓN MILITAR
@@ -232,11 +286,18 @@ DE LAS INFRACCIONES Y SANCIONES
 
 ### Artículo 48
 .- Para los efectos de esta Ley, se consideran como infracciones del personal directivo, académico, administrativo y docente del Sistema Educativo Militar, las siguientes:
+
 I. Incumplir las obligaciones que les impongan los reglamentos de esta Ley;
+
 II. Suspender las actividades académicas sin motivo justificado;
+
 III. Difundir antes de su aplicación los exámenes o cualquier otro instrumento de evaluación;
+
 IV. Expedir certificados, constancias, diplomas, grados o títulos de estudios sin la autorización de la Dirección y Rectoría;
-V. Permitir o realizar actividades de publicidad o comercialización dentro de las Instituciones de Educación Militar de bienes o servicios notoriamente ajenos al proceso educativo, e VI. Incumplir cualquiera de los preceptos de esta Ley.
+
+V. Permitir o realizar actividades de publicidad o comercialización dentro de las Instituciones de Educación Militar de bienes o servicios notoriamente ajenos al proceso educativo, e
+
+VI. Incumplir cualquiera de los preceptos de esta Ley.
 
 ### Artículo 49
 .- El personal directivo, académico, administrativo y docente del Sistema Educativo Militar que incurra en las infracciones previstas en el Artículo anterior, será sancionado de conformidad con las leyes y reglamentos militares y disposiciones que dicte la Secretaría y, en su caso, quedará sujeto al Fuero de Guerra.

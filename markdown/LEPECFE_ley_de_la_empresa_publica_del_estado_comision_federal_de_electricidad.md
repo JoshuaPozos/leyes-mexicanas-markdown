@@ -30,13 +30,22 @@ Cuya esencia es cumplir con su responsabilidad social y garantizar la continuida
 
 ### Artículo 5
 .- La Comisión Federal de Electricidad tiene su régimen especial en materia de:
+
 I. Empresas filiales;
+
 II. Remuneraciones y austeridad;
+
 III. Adquisiciones, arrendamientos, servicios y obras;
+
 IV. Bienes;
+
 V. Responsabilidades administrativas;
+
 VI. Presupuesto y contabilidad;
-VII. Deuda, y VIII. Sostenibilidad.
+
+VII. Deuda, y
+
+VIII. Sostenibilidad.
 
 ### Artículo 6
 .- La Comisión Federal de Electricidad como entidad, forma parte de la administración pública paraestatal y se sujeta a lo dispuesto en la presente Ley, su Reglamento y las disposiciones que deriven de los mismos.
@@ -50,17 +59,30 @@ La interpretación de esta Ley corresponde a la Secretaría de Energía.
 
 ### Artículo 8
 .- La Comisión Federal de Electricidad presta de manera directa el servicio público de transmisión y distribución de energía eléctrica. Asimismo, puede llevar a cabo las actividades siguientes:
+
 I. La generación y comercialización de energía eléctrica y productos asociados, incluyendo la importación y exportación de éstos, de acuerdo con la Ley del Sector Eléctrico;
+
 II. Salvaguardar el acceso al servicio público de energía eléctrica a través de la generación, transmisión, distribución, comercialización, suministro eléctrico, la proveeduría de insumos primarios para la industria eléctrica, así como las actividades auxiliares y conexas de la misma;
+
 III. La importación, exportación, transporte, almacenamiento, compra y venta de gas natural, carbón y cualquier otro combustible necesario para la generación de electricidad;
+
 IV. El desarrollo y ejecución de proyectos de ingeniería, investigación, actividades geológicas y geofísicas, supervisión, prestación de servicios a terceros, así como todas aquellas relacionadas con la generación, transmisión, distribución, comercialización y suministro eléctrico y demás actividades que forman parte de su objeto;
+
 V. La investigación, desarrollo e implementación de fuentes de energía que le permitan cumplir con su objeto, conforme a las disposiciones aplicables;
+
 VI. La investigación y desarrollo tecnológicos requeridos para las actividades que realice en el sector eléctrico, la comercialización de productos y servicios tecnológicos resultantes de la investigación, así como la formación de recursos humanos altamente especializados;
+
 VII. El aprovechamiento y administración de inmuebles, de la propiedad industrial y la tecnología de que disponga y que le permita la prestación o provisión de cualquier servicio adicional tales como, construcción, arrendamiento, mantenimiento y telecomunicaciones. La Comisión Federal de Electricidad puede avalar y otorgar garantías en favor de sus empresas filiales y fideicomisos;
+
 VIII. La adquisición, tenencia o participación en la composición accionaria de sociedades con objeto similar, análogo o compatible con su propio objeto;
+
 IX. Coadyuvar en la preservación de la seguridad y autosuficiencia energética de la Nación, y la seguridad nacional;
+
 X. Procurar al pueblo de los Estados Unidos Mexicanos de la electricidad al menor precio posible y evitar el lucro en la provisión del servicio, para garantizar la seguridad nacional y soberanía energética;
-XI. Contribuir en la provisión del servicio de Internet y telecomunicaciones, y XII. Las demás actividades necesarias para el cumplimiento de su objeto.
+
+XI. Contribuir en la provisión del servicio de Internet y telecomunicaciones, y
+
+XII. Las demás actividades necesarias para el cumplimiento de su objeto.
 La Comisión Federal de Electricidad puede llevar a cabo las actividades a que se refiere este artículo en el país o en el extranjero. Las actividades distintas a la transmisión y distribución de energía eléctrica pueden ser realizadas de manera directa o indirecta por la Comisión Federal de Electricidad.
 
 ### Artículo 9
@@ -88,78 +110,137 @@ La organización y estructura referidas deben atender a la optimización de los 
 
 ### Artículo 14
 .- La Comisión Federal de Electricidad es dirigida y administrada por:
-I. Un Consejo de Administración, y II. Una Dirección General.
+
+I. Un Consejo de Administración, y
+
+II. Una Dirección General.
 
 ## Capítulo II
 De la organización e integración del Consejo de Administración Sección Primera Funciones
 
 ### Artículo 15
 .- El Consejo de Administración es el órgano supremo de administración de la Comisión Federal de Electricidad y es responsable de definir las políticas, lineamientos y visión estratégica de la Comisión Federal de Electricidad y sus empresas filiales, como una empresa pública del Estado. Al efecto, tiene las funciones siguientes:
+
 I. La conducción central y la dirección estratégica de las actividades empresariales, económicas e industriales de la Comisión Federal de Electricidad y sus empresas filiales, con un enfoque de responsabilidad social y sostenibilidad;
+
 II. Establecer las directrices, prioridades y políticas generales relativas a la producción, productividad, comercialización, desarrollo tecnológico, investigación, administración general, seguridad, sostenibilidad, finanzas, presupuesto y otras que se relacionen con las actividades de la Comisión Federal de Electricidad;
+
 III. Aprobar y revisar anualmente el Programa de Desarrollo de la Comisión Federal de Electricidad y sus empresas filiales, al que se refiere el artículo 16 de la presente Ley, y con base en su proyección a cinco años, y, conforme a éste, el programa operativo y financiero anual; así como verificar su alineación al Programa de Desarrollo del Sector Eléctrico;
+
 IV. Aprobar la creación, fusión o escisión de empresas filiales en las que la Comisión Federal de Electricidad participe de manera directa;
+
 V. Aprobar, previa opinión favorable del Comité de Sostenibilidad, las directrices, prioridades y políticas generales en materia ambiental, social y fortalecimiento institucional, así como cualquier otro aspecto de sostenibilidad vinculado a las operaciones de la Comisión Federal de Electricidad y sus empresas filiales, conforme a lo dispuesto en esta Ley;
+
 VI. Aprobar, cada tres años o antes, conforme a las prioridades, riesgo y oportunidades, el Plan de Sostenibilidad de la Comisión Federal de Electricidad, que debe estar alineado con los instrumentos de planeación que expida la Secretaría de Energía, los estándares nacionales e internacionales, y los compromisos en materia de sostenibilidad;
+
 VII. Autorizar el Programa de Cumplimiento Normativo aplicable a la Comisión Federal de Electricidad y sus empresas filiales, con el fin de prevenir o mitigar riesgos de incumplimiento y de corrupción;
+
 VIII. Aprobar las directrices, prioridades y políticas generales relacionadas con las inversiones de la Comisión Federal de Electricidad y de sus empresas filiales, con la celebración de alianzas estratégicas, esquemas de desarrollo mixto y asociaciones con personas físicas o morales, para lo cual se debe señalar aquellas que por su importancia o trascendencia deban ser autorizadas por el propio Consejo;
+
 IX. Aprobar, a propuesta de la persona titular de la Dirección General, las directrices, disposiciones y políticas generales para las contrataciones que realice la Comisión Federal de Electricidad donde se indique aquellas que por su importancia o trascendencia deban ser autorizadas por el propio Consejo;
+
 X. Aprobar anualmente los estados financieros de la Comisión Federal de Electricidad, previa opinión favorable del Comité de Auditoría sobre el dictamen de las personas auditoras externas;
+
 XI. Fijar y ajustar los precios de los bienes y servicios que produzca o preste la Comisión Federal de Electricidad, previa opinión favorable de un comité especial de precios, salvo aquellos que deban determinarse en términos de las leyes de la materia;
+
 XII. Aprobar el Reporte Anual de Sostenibilidad, previa opinión favorable del Comité de Sostenibilidad;
+
 XIII. Aprobar las reglas para la Integración de la Información que constituirá el Reporte Anual de Sostenibilidad;
+
 XIV. Aprobar las reglas para la consolidación anual contable y financiera de las empresas filiales de la Comisión Federal de Electricidad;
+
 XV. Aprobar las previsiones económicas máximas para las negociaciones del contrato colectivo de trabajo aplicable en la Comisión Federal de Electricidad;
+
 XVI. Aprobar las políticas de recursos humanos, de remuneraciones y de austeridad de la Comisión Federal de Electricidad y sus empresas filiales, sujeto a las disposiciones aplicables de esta Ley;
+
 XVII. Aprobar políticas generales para cancelar adeudos a cargo de terceros y a favor de la Comisión Federal de Electricidad cuando exista inviabilidad económica o imposibilidad práctica de su cobro, así como las políticas para el otorgamiento de mutuos, garantías, préstamos o cualquier tipo de créditos y para la exención de dichas garantías;
+
 XVIII. Aprobar la constitución de reservas contables de la Comisión Federal de Electricidad y, en su caso, de sus empresas filiales, así como los requerimientos de inversión de estas;
+
 XIX. Aprobar los criterios y lineamientos para el otorgamiento de pagos extraordinarios, donativos y donaciones, en efectivo o en especie que realicen la Comisión Federal de Electricidad y, en su caso, sus empresas filiales;
+
 XX. Aprobar y expedir, a propuesta de la persona titular de la Dirección General, las políticas para el pago de indemnizaciones y de contraprestaciones que puede pagar la Comisión Federal de Electricidad a terceros para cumplir su objeto;
+
 XXI. Establecer las políticas, bases, lineamientos y procedimientos para el desmantelamiento, la aportación, la enajenación, la afectación en garantía o el gravamen de las instalaciones industriales de la Comisión Federal de Electricidad y, en su caso, sus empresas filiales;
+
 XXII. Aprobar y expedir, a propuesta de la persona titular de la Dirección General, el Estatuto Orgánico de la Comisión Federal de Electricidad, la estructura y organización básicas, para establecer las funciones que correspondan a las distintas áreas que la integran, así como las personas que ocupen cargos directivos o empleadas que tienen la representación de ésta y aquellos que pueden otorgar poderes en nombre de la empresa y las reglas de funcionamiento del Consejo de Administración y de sus comités;
+
 XXIII. Aprobar los informes que presente la persona titular de la Dirección General, así como evaluar anualmente su actuación de conformidad, entre otros elementos, con las estrategias contenidas en el Programa de Desarrollo de la Comisión Federal de Electricidad;
+
 XXIV. Vigilar y evaluar el desempeño de la Comisión Federal de Electricidad, sus empresas filiales y sus mandos superiores;
+
 XXV. Vigilar que los actos de la Comisión Federal de Electricidad procuren su operación eficiente y cumplan con su objeto;
+
 XXVI. Emitir, a propuesta del Comité de Auditoría, los lineamientos en materia de auditoría y evaluación del desempeño, aplicables en la Comisión Federal de Electricidad y sus empresas filiales;
+
 XXVII. Emitir, a propuesta del Comité de Auditoría, los lineamientos que regulen el sistema de control interno aplicable en la Comisión Federal de Electricidad y sus empresas filiales, los cuales deben incluir la administración de riesgos, y vigilar su implementación, con base en la información presentada por el propio Comité, la persona titular de la Dirección General, de la Auditoría Interna o de las personas auditoras externas, dando especial atención a los principales riesgos estratégicos;
+
 XXVIII. Evaluar y dar seguimiento a los sistemas de contabilidad, control, seguridad y auditoría, registro, archivo e información y su divulgación al público;
+
 XXIX. Fijar las políticas y bases generales para generar una rentabilidad sostenible, con las cuales la Comisión Federal de Electricidad puede participar en los mecanismos de adquisición y contratación contemplados en la presente Ley y en la Ley del Sector Eléctrico;
+
 XXX. Aprobar los proyectos y decisiones cuyas características revistan una importancia estratégica para el desarrollo del objeto de la Comisión Federal de Electricidad, conforme a las políticas y lineamientos que al efecto emita el Consejo de Administración;
+
 XXXI. Aprobar, a propuesta de la persona titular de la Dirección General, la celebración de asociaciones, alianzas y esquemas de desarrollo mixto en términos de lo dispuesto en la Ley del Sector Eléctrico;
+
 XXXII. Aprobar lineamientos para los esquemas de desarrollo mixto para la generación de energía eléctrica.
 Dichos lineamientos deben regular la forma y términos en que deben realizarse las bases del proceso de selección, los términos técnicos y operativos, el modelo de contrato, el modelo financiero y los términos generales que debe considerar el proyecto para su aprobación, los cuales deben ser publicados en el Diario Oficial de la Federación;
+
 XXXIII. Aprobar los lineamientos para realizar el procedimiento de selección de participantes en los esquemas de desarrollo mixto para la generación de energía eléctrica;
+
 XXXIV. Aprobar el modelo de contrato, el modelo financiero y el proyecto de esquema de desarrollo mixto para la generación de energía eléctrica;
+
 XXXV. Nombrar y remover, a propuesta de la persona titular de la Dirección General, a los mandos superiores de la Comisión Federal de Electricidad que ocupen cargos en las dos jerarquías inmediatas inferiores a la de aquél, y concederles licencias;
+
 XXXVI. Conocer y, en su caso, autorizar los asuntos que por su importancia o trascendencia sometan a su consideración la persona que ocupe la presidencia del Consejo, cuando menos dos personas consejeras por conducto de esta o la persona titular de la Dirección General;
+
 XXXVII. Aprobar las políticas y procedimientos para la celebración de operaciones entre la Comisión Federal de Electricidad, sus empresas filiales u otras personas sobre las que ejerzan control o influencia significativa, debiendo señalar aquellas que deben ser autorizadas por el propio Consejo;
+
 XXXVIII. Establecer mecanismos de coordinación entre la Unidad de Responsabilidades en la Comisión Federal de Electricidad, la Coordinación de Control Interno y la Auditoría Interna;
+
 XXXIX. Aprobar los lineamientos de austeridad en el gasto y uso de recursos conforme a los principios del
 
 ### artículo 78
 de la presente Ley;
-XL. Aprobar, previa recomendación del Comité de Recursos Humanos, Remuneraciones y Austeridad, el programa anual de austeridad, y XLI. Las demás previstas en esta Ley, así como otros ordenamientos jurídicos aplicables.
+
+XL. Aprobar, previa recomendación del Comité de Recursos Humanos, Remuneraciones y Austeridad, el programa anual de austeridad, y
+
+XLI. Las demás previstas en esta Ley, así como otros ordenamientos jurídicos aplicables.
 El comité especial de precios a que se refiere la fracción XI del presente artículo debe estar integrado por dos personas representantes de la Secretaría de Hacienda y Crédito Público y una persona representante de la Secretaría de Energía, todos con nivel mínimo de persona titular de subsecretaría, quienes no deben tener suplentes.
 Para tal efecto, el Consejo de Administración debe emitir las reglas para el funcionamiento de dicho comité especial.
 Para efecto de las fracciones XXXI a la XXXIV del presente artículo, se requiere mínimo el voto favorable de seis personas consejeras del Consejo de Administración, de las cuales deben ser al menos de una persona consejera independiente.
 
 ### Artículo 16
 .- El Programa de Desarrollo de la Comisión Federal de Electricidad se debe elaborar y actualizar anualmente, con un horizonte de cinco años y una prospectiva de quince años y debe contener al menos:
+
 I. Los objetivos, líneas y oportunidades de desarrollo, para garantizar el suministro de energía eléctrica al pueblo de los Estados Unidos Mexicanos y procurar la justicia energética, el fortalecimiento, seguridad y confiabilidad del Sistema Eléctrico Nacional;
+
 II. Las principales estrategias, acciones, proyectos, iniciativas y metas para alcanzar el desempeño sustentable y sostenible de las actividades de la empresa pública del Estado, así como información sobre el uso de fuentes de energías limpias y renovables en el desarrollo de sus actividades, operaciones y servicios para el cumplimiento de su objeto;
+
 III. Las principales estrategias comerciales, financieras y de inversiones, los proyectos de gran magnitud, de transición energética y de mejora tecnológica, así como las adquisiciones prioritarias;
-IV. Un diagnóstico de su situación operativa y financiera, así como los resultados e indicadores de desempeño, y V. Los principales escenarios de riesgos estratégicos y comerciales de la empresa, considerando, entre otros aspectos, el comportamiento de la economía a mediano y largo plazo, innovaciones tecnológicas, así como tendencias en la oferta y demanda.
+
+IV. Un diagnóstico de su situación operativa y financiera, así como los resultados e indicadores de desempeño, y
+
+V. Los principales escenarios de riesgos estratégicos y comerciales de la empresa, considerando, entre otros aspectos, el comportamiento de la economía a mediano y largo plazo, innovaciones tecnológicas, así como tendencias en la oferta y demanda.
 La Comisión Federal de Electricidad debe difundir en su portal de Internet una versión pública de su Programa de Desarrollo, la cual no debe contener información que pudiera comprometer o poner en riesgo su operación y estrategias comerciales.
 Sección Segunda Integración y funcionamiento
 
 ### Artículo 17
 .- El Consejo de Administración está integrado, por ocho personas consejeras, conforme a lo siguiente:
+
 I. La persona titular de la Secretaría de Energía, quien lo preside y tiene voto de calidad;
+
 II. La persona titular de la Secretaría de Hacienda y Crédito Público;
+
 III. La persona titular de la Secretaría de Medio Ambiente y Recursos Naturales;
+
 IV. La persona titular de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación;
+
 V. La persona titular de la Dirección General de Petróleos Mexicanos;
-VI. Dos personas consejeras independientes, cuya designación está a cargo de la persona titular del Ejecutivo Federal y su ratificación por el Senado de la República; se debe procurar el principio de paridad, quienes ejercen sus funciones de tiempo parcial y no tienen el carácter de personas servidoras públicas, y VII. Una persona consejera designada por las personas trabajadoras de la Comisión Federal de Electricidad.
+
+VI. Dos personas consejeras independientes, cuya designación está a cargo de la persona titular del Ejecutivo Federal y su ratificación por el Senado de la República; se debe procurar el principio de paridad, quienes ejercen sus funciones de tiempo parcial y no tienen el carácter de personas servidoras públicas, y
+
+VII. Una persona consejera designada por las personas trabajadoras de la Comisión Federal de Electricidad.
 Para efectos de lo dispuesto en la fracción VI anterior, la persona titular del Ejecutivo Federal debe enviar la designación acompañada de la documentación que acredite el cumplimiento de los requisitos para ocupar el cargo.
 La Cámara de Senadores debe ratificar, en su caso, mediante el voto favorable de las dos terceras partes de sus integrantes presentes, la designación respectiva, sin la comparecencia de la persona designada, dentro del improrrogable plazo de treinta días naturales siguientes a la recepción del nombramiento.
 Si no se alcanzan los votos mencionados o el Senado de la República no resuelve dentro del plazo señalado, se debe entender rechazado el nombramiento respectivo, en cuyo caso la persona titular del Ejecutivo Federal debe enviar una nueva designación a ratificación al Senado de la República, en términos del párrafo anterior. Si esta segunda designación también es rechazada conforme a este párrafo, la persona titular del Ejecutivo Federal debe designar directamente a la persona consejera independiente.
@@ -188,22 +269,37 @@ La persona consejera señalada en la fracción VII del artículo 17 puede ser su
 
 ### Artículo 22
 .- Las personas consejeras independientes deben ser designadas con base en su experiencia, capacidad y prestigio profesional y reunir los requisitos siguientes:
+
 I. Contar con título profesional expedido por autoridad competente en las áreas de derecho, administración, economía, ingeniería, contaduría o materias afines al sector eléctrico, con una antigüedad no menor a cinco años al día de la designación;
+
 II. Haberse desempeñado, durante al menos diez años, en actividades que proporcionen la experiencia necesaria para cumplir con las funciones de persona consejera de la Comisión Federal de Electricidad, ya sea en los ámbitos profesional, docente, o de investigación;
+
 III. No haber sido condenada mediante sentencia firme por delito doloso que le imponga pena de prisión. Tratándose de delitos patrimoniales dolosos, cualquiera que haya sido la pena;
+
 IV. No encontrarse, al momento de la designación, inhabilitada o suspendida administrativamente o, en su caso, penalmente, para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público;
-V. No tener litigio pendiente con la Comisión Federal de Electricidad o alguna de sus empresas filiales, y VI. No haber sido sancionada con motivo de una investigación de carácter administrativo, por infracciones graves, o penal, por violaciones a las leyes nacionales o extranjeras, que hayan tenido como conclusión cualquier tipo de resolución o acuerdo que implique expresamente la aceptación de la culpa o responsabilidad, o bien, sentencia condenatoria firme.
+
+V. No tener litigio pendiente con la Comisión Federal de Electricidad o alguna de sus empresas filiales, y
+
+VI. No haber sido sancionada con motivo de una investigación de carácter administrativo, por infracciones graves, o penal, por violaciones a las leyes nacionales o extranjeras, que hayan tenido como conclusión cualquier tipo de resolución o acuerdo que implique expresamente la aceptación de la culpa o responsabilidad, o bien, sentencia condenatoria firme.
 Las personas que con anterioridad a su designación hayan sido consejeras en empresas competidoras de la Comisión Federal de Electricidad o sus empresas filiales, o que les hayan prestado servicios de asesoría o representación, deben revelar tal circunstancia a la persona titular del Ejecutivo Federal. El incumplimiento de esta obligación tiene como consecuencia la remoción inmediata, sin perjuicio de las responsabilidades a que haya lugar.
 
 ### Artículo 23
 .- Las personas consejeras independientes deben nombrarse solo cuando puedan desempeñar sus funciones sin conflicto de interés y sin estar supeditados a intereses personales, patrimoniales o económicos.
 Además de los requisitos establecidos en el artículo anterior, no deben encontrarse en alguno de los siguientes supuestos:
+
 I. Haber sido empleada de la Comisión Federal de Electricidad o de alguna de sus empresas filiales en los dos años anteriores a la designación, ni removida con anterioridad del cargo de persona consejera, salvo que esto último hubiere sido resultado de incapacidad física ya superada;
+
 II. Haber desempeñado el cargo de persona auditora externa de la Comisión Federal de Electricidad o de alguna de sus empresas filiales, durante los doce meses inmediatos anteriores a la fecha del nombramiento;
+
 III. Haber sido servidora pública de cualquier nivel de gobierno ni haber ocupado cargos de elección popular o directivos en partido político alguno, en los dos años inmediatos anteriores al día de la designación;
+
 IV. Haber sido, en los dos años inmediatos anteriores al día de la designación cliente, prestadora de servicios, proveedora, contratista, deudora o acreedora importante de la Comisión Federal de Electricidad o alguna de sus empresas filiales, así como accionista, consejera, asesora o empleada de una persona moral que sea cliente, prestadora de servicios, proveedora, contratista, deudora o acreedora de la Comisión Federal de Electricidad o de alguna de sus empresas filiales. Se considera como importante a una persona que ha sido cliente, prestadora de servicios, proveedora, contratista, deudora o acreedora cuando sus ingresos derivados de las relaciones comerciales con la Comisión Federal de Electricidad o alguna de sus empresas filiales, representen más del diez por ciento de las ventas totales o activos de esta última, durante los doce meses anteriores a la fecha del nombramiento;
+
 V. Tener parentesco por consanguinidad, sin límite de grado, así como no ser cónyuge, concubina o concubinario, o integrante de una sociedad de convivencia, de cualquiera de las personas físicas referidas en las fracciones I a la IV de este artículo;
-VI. Pertenecer simultáneamente a más de cuatro juntas directivas u órganos de administración de distintas personas morales, públicas o privadas, incluida la de la Comisión Federal de Electricidad; o ejercer un empleo, cargo o comisión simultáneo que le impida el adecuado ejercicio de su función de persona consejera independiente, y VII. No encontrarse en alguno de los supuestos previstos en la fracción VII del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
+
+VI. Pertenecer simultáneamente a más de cuatro juntas directivas u órganos de administración de distintas personas morales, públicas o privadas, incluida la de la Comisión Federal de Electricidad; o ejercer un empleo, cargo o comisión simultáneo que le impida el adecuado ejercicio de su función de persona consejera independiente, y
+
+VII. No encontrarse en alguno de los supuestos previstos en la fracción VII del artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
 Las personas consejeras independientes que durante su encargo dejen de cumplir con alguno de los requisitos señalados en esta Ley o les sobrevenga algún impedimento, deben hacerlo del conocimiento de la persona titular del Ejecutivo Federal, para que esta actúe lo conducente.
 
 ### Artículo 24
@@ -224,19 +320,30 @@ El Consejo de Administración de la Comisión Federal de Electricidad, a propues
 
 ### Artículo 27
 .- El Consejo de Administración, con el voto favorable de seis de sus personas integrantes, debe emitir y actualizar las reglas para su operación y funcionamiento que deben prever, al menos:
+
 I. Periodicidad de las sesiones ordinarias. Las sesiones ordinarias deben ser al menos una vez al trimestre, conforme al calendario que se acuerde, previa convocatoria que formule la Secretaría del Consejo de Administración, a indicación de quien preside este.
 Sin perjuicio del calendario acordado para las sesiones ordinarias, la persona que preside el Consejo de Administración o al menos dos personas consejeras, pueden instruir a la persona titular de la Secretaría del Consejo para que se convoque a sesión extraordinaria.
 La persona que preside el Consejo de Administración debe resolver sobre las solicitudes que la persona titular de la Dirección General de la Comisión Federal de Electricidad le presente para la celebración de una sesión extraordinaria;
+
 II. Lugar de la celebración de las sesiones. Las sesiones se deben celebrar en el domicilio legal de la Comisión Federal de Electricidad, sin perjuicio de que, a juicio de quien preside el Consejo de Administración, se celebre en otro domicilio;
+
 III. Requisitos para la validez de las sesiones;
+
 IV. Quórum de asistencia para las sesiones del Consejo de Administración. El cual es con al menos cinco personas consejeras, siempre que asista al menos una persona consejera independiente y se mantenga el quórum para el desarrollo de la sesión;
+
 V. Acuerdos y deliberaciones. Los cuales son de forma colegiada y sus decisiones se deben adoptar por mayoría de votos de las personas presentes que integran el Consejo de Administración.
 En caso de que la mayoría de los votos no se alcance con el voto favorable de al menos una persona consejera independiente, en un plazo no mayor a veinte días hábiles, las personas consejeras que se opongan pueden emitir su voto razonado. El asunto debe ser decidido por mayoría simple de votos de las personas consejeras presentes en la siguiente sesión que se celebre al término del plazo señalado;
+
 VI. Votación en las sesiones. Todas las personas integrantes del Consejo de Administración deben votar en sentido positivo o negativo, sin que haya posibilidad de abstenerse de votar. En caso de que el voto sea en sentido negativo, la persona consejera debe expresar las razones de su emisión en la misma sesión, que deben ser asentadas en el acta respectiva.
 En caso de que alguna persona consejera se encuentre en una situación que genere conflicto de interés, tiene la obligación de comunicarlo a quien preside el Consejo de Administración y a las demás personas consejeras asistentes a la sesión y debe abandonar temporalmente la sesión correspondiente para abstenerse de conocer del asunto de que se trate y de participar en la deliberación y resolución de éste;
+
 VII. Plazos y términos para las convocatorias a sesión ordinaria y extraordinaria;
+
 VIII. La regulación sobre la participación de las personas invitadas en las sesiones, quienes tienen voz, pero no voto. La persona titular de la Dirección General de la Comisión Federal de Electricidad y la persona designada como Comisaria a que se refiere esta Ley deben asistir como invitadas permanentes;
-IX. El uso de tecnologías de la información para la convocatoria a sesiones y de medios remotos de comunicación audiovisual para su celebración en caso necesario, y X. Las funciones de la Presidencia y la Secretaría del Consejo de Administración.
+
+IX. El uso de tecnologías de la información para la convocatoria a sesiones y de medios remotos de comunicación audiovisual para su celebración en caso necesario, y
+
+X. Las funciones de la Presidencia y la Secretaría del Consejo de Administración.
 
 ### Artículo 28
 .- Las personas consejeras del Consejo de Administración, conforme a las reglas que éste emita, pueden solicitar, a través de la persona titular de la Dirección General, la información necesaria para la toma de decisiones en el ejercicio de sus funciones, esta información debe ser entregada o puesta a disposición en los plazos que determine el propio Consejo.
@@ -255,7 +362,10 @@ Sección Tercera Régimen de Responsabilidad de las Personas Consejeras
 
 ### Artículo 32
 .- Las personas consejeras son responsables por:
-I. Los daños y perjuicios que causen a la Comisión Federal de Electricidad o a alguna de sus empresas filiales, derivados de los actos, hechos u omisiones en que incurran, y II. Los daños y perjuicios que llegaren a causar derivados de la contravención a sus obligaciones y a los deberes de diligencia y lealtad previstos en la presente Ley.
+
+I. Los daños y perjuicios que causen a la Comisión Federal de Electricidad o a alguna de sus empresas filiales, derivados de los actos, hechos u omisiones en que incurran, y
+
+II. Los daños y perjuicios que llegaren a causar derivados de la contravención a sus obligaciones y a los deberes de diligencia y lealtad previstos en la presente Ley.
 La responsabilidad a que se refieren las fracciones anteriores es solidaria entre las personas que hayan adoptado la decisión.
 La indemnización que corresponda debe cubrir los daños y perjuicios causados a la Comisión Federal de Electricidad o a sus empresas filiales y, en todo caso, se debe proceder a la remoción de la persona consejera involucrada.
 La acción para exigir la responsabilidad a que se refiere este artículo prescribe en cinco años contados a partir del día en que hubiere tenido lugar el acto, hecho u omisión que haya causado el daño y perjuicio, salvo cuando se trate de actos, hechos u omisiones de tracto sucesivo o con efectos continuos, en cuyo caso el plazo para la prescripción comienza cuando termine el último acto, hecho u omisión o cesen los efectos continuos, según corresponda.
@@ -263,27 +373,48 @@ Con independencia de las responsabilidades penales a que haya lugar, los daños 
 
 ### Artículo 33
 .- Las personas consejeras deben cumplir en el desempeño de sus cargos con las siguientes obligaciones:
+
 I. Abstenerse de realizar, por sí o por interpósita persona, transacciones profesionales o comerciales con la Comisión Federal de Electricidad sus empresas filiales, o de utilizar sus activos, recursos o personal para actividades privadas, así como gestionar reuniones con proveedores o contratistas que estén en el padrón respectivo o quieran ofertar bienes y servicios;
+
 II. Participar en los comités que constituya el Consejo de Administración y desempeñar con oportunidad y profesionalismo los asuntos que le encomiende o delegue para su atención;
-III. Apoyar al Consejo de Administración a través de opiniones, recomendaciones y orientaciones que se deriven del análisis del desempeño de la Comisión Federal de Electricidad, y IV. Cumplir los deberes de diligencia y lealtad previstos, respectivamente, en los dos artículos siguientes, así como las demás obligaciones señaladas en la presente Ley.
+
+III. Apoyar al Consejo de Administración a través de opiniones, recomendaciones y orientaciones que se deriven del análisis del desempeño de la Comisión Federal de Electricidad, y
+
+IV. Cumplir los deberes de diligencia y lealtad previstos, respectivamente, en los dos artículos siguientes, así como las demás obligaciones señaladas en la presente Ley.
 
 ### Artículo 34
 .- Las personas integrantes del Consejo de Administración incumplen su deber de diligencia por cualquiera de los siguientes supuestos:
+
 I. Faltar o abandonar, sin causa justificada a juicio del Consejo de Administración, las sesiones de éste, o a las de los comités de los que formen parte;
-II. No revelar, hacerlo de manera parcial o falsear, al Consejo de Administración o, en su caso, a los comités de los que formen parte, información relevante que conozcan y que sea necesaria para la adecuada toma de decisiones en dichos órganos, salvo que se encuentren obligados legal o contractualmente a guardar confidencialidad o reserva de esta y que dicha reserva no constituya un conflicto de interés con la Comisión Federal de Electricidad o sus empresas filiales, e III. Incumplir los deberes que les impone esta Ley o las demás disposiciones aplicables.
+
+II. No revelar, hacerlo de manera parcial o falsear, al Consejo de Administración o, en su caso, a los comités de los que formen parte, información relevante que conozcan y que sea necesaria para la adecuada toma de decisiones en dichos órganos, salvo que se encuentren obligados legal o contractualmente a guardar confidencialidad o reserva de esta y que dicha reserva no constituya un conflicto de interés con la Comisión Federal de Electricidad o sus empresas filiales, e
+
+III. Incumplir los deberes que les impone esta Ley o las demás disposiciones aplicables.
 
 ### Artículo 35
 .- Las personas integrantes del Consejo de Administración incumplen su deber de lealtad en cualquiera de los siguientes supuestos:
+
 I. Cuando, sin causa legítima, por virtud de sus funciones como personas consejeras, obtengan beneficios económicos para sí o los procuren en favor de terceros;
+
 II. Asistan a las sesiones del Consejo de Administración o de sus comités cuando deban excusarse, o voten en las mismas o tomen determinaciones relacionadas con el patrimonio de la Comisión Federal de Electricidad o alguna de sus empresas filiales, a pesar de la existencia de un conflicto de interés;
+
 III. Aprovechen para sí o aprueben en favor de terceros, el uso o goce de los bienes de la Comisión Federal de Electricidad, y de empresas filiales, en contravención de las políticas aprobadas por el Consejo de Administración;
+
 IV. Utilicen, en beneficio propio o de cualquier tercero, la información de que dispongan con motivo del ejercicio de sus funciones o la divulguen en contravención a las disposiciones aplicables;
+
 V. Generen, difundan, publiquen o proporcionen información de la Comisión Federal de Electricidad o de alguna de sus empresas filiales, a sabiendas de que no debe ser revelada por su carácter de confidencialidad, es falsa o induce a error; o bien ordenen que se lleve a cabo alguna de dichas conductas;
+
 VI. Ordenen que se omita el registro de operaciones efectuadas por la Comisión Federal de Electricidad o empresas filiales, o alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones celebradas, afectando cualquier concepto de los estados financieros; o bien ordenen o acepten que se inscriban datos falsos en la contabilidad correspondiente o realicen intencionalmente cualquier acto u operación ilícita o prohibida que genere un quebranto, daño o perjuicio en el patrimonio de la Comisión Federal de Electricidad o empresas filiales;
+
 VII. Oculten u omitan revelar información relevante que, en términos de este ordenamiento y demás disposiciones aplicables, deba ser divulgada, entregada al Ejecutivo Federal, al Congreso de la Unión o a cualquier órgano competente, salvo que en términos de las disposiciones aplicables se encuentren obligados a guardar confidencialidad o reserva de esta;
+
 VIII. Destruyan o modifiquen, por sí o a través de terceros, total o parcialmente, los sistemas o registros contables o la documentación que dé origen a los asientos contables de la Comisión Federal de Electricidad o de alguna de sus empresas filiales, con anterioridad al vencimiento de los plazos legales de conservación y con el propósito de ocultar su registro o evidencia;
+
 IX. Destruyan, total o parcialmente, información, documentos o archivos, incluso electrónicos, ya sea con el propósito de impedir u obstruir los actos de supervisión, o bien de manipular u ocultar datos o información relevante de la Comisión Federal de Electricidad, a quienes tengan interés jurídico en conocerlos;
-X. Presenten a las autoridades documentos o información falsa o alterada, y XI. Hagan uso indebido de información relativa a la Comisión Federal de Electricidad o de alguna de sus empresas filiales.
+
+X. Presenten a las autoridades documentos o información falsa o alterada, y
+
+XI. Hagan uso indebido de información relativa a la Comisión Federal de Electricidad o de alguna de sus empresas filiales.
 
 ### Artículo 36
 .- Las personas consejeras son solidariamente responsables con las que les hayan precedido en el cargo, por las irregularidades en que éstas hubieren incurrido si, conociéndolas, no las comunicaren al Comité de Auditoría y, en su caso, a las autoridades competentes.
@@ -291,19 +422,30 @@ Las personas consejeras están obligadas a informar al Comité de Auditoría y, 
 
 ### Artículo 37
 .- Las personas consejeras del Consejo de Administración no incurren, individualmente o en su conjunto, en responsabilidad por los daños o perjuicios que llegaren a sufrir la Comisión Federal de Electricidad o alguna de sus empresas filiales, derivados de los actos u omisiones que ejecuten o las decisiones que adopten, cuando en el actuar de buena fe, se actualice cualquiera de los supuestos siguientes:
+
 I. Cumplan con los requisitos para la aprobación de los asuntos que competa conocer al Consejo de Administración o, en su caso, a los comités de los que formen parte;
-II. Tomen decisiones o voten en las sesiones del Consejo de Administración o, en su caso, comités a que pertenezcan, con base en información proporcionada por personas con cargos directivos de la Comisión Federal de Electricidad o de sus empresas filiales, la auditoría externa o las personas expertas independientes, o III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender, o los efectos patrimoniales negativos no hayan sido previsibles; en ambos casos, con base en la información disponible al momento de la decisión.
+
+II. Tomen decisiones o voten en las sesiones del Consejo de Administración o, en su caso, comités a que pertenezcan, con base en información proporcionada por personas con cargos directivos de la Comisión Federal de Electricidad o de sus empresas filiales, la auditoría externa o las personas expertas independientes, o
+
+III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender, o los efectos patrimoniales negativos no hayan sido previsibles; en ambos casos, con base en la información disponible al momento de la decisión.
 
 ## Sección Cuarta
 Remoción de las Personas Consejeras Independientes
 
 ### Artículo 38
 .- Las personas consejeras independientes pueden ser removidas de sus cargos en los siguientes casos:
+
 I. Por incapacidad mental o física que impida el correcto ejercicio de sus funciones durante más de seis meses continuos;
+
 II. Incumplir, sin mediar causa justificada, los acuerdos y decisiones del Consejo de Administración;
+
 III. Incumplir deliberadamente o sin causa justificada con las obligaciones, deberes de diligencia o lealtad o responsabilidades que establece esta Ley;
+
 IV. Incumplir con algún requisito de los que la Ley señala para ser persona consejera independiente o que les sobrevenga algún impedimento;
-V. No excusarse de conocer y votar los asuntos en que tengan conflicto de interés, y VI. Faltar consecutivamente a tres sesiones o no asistir al menos al setenta y cinco por ciento de las sesiones celebradas en un año.
+
+V. No excusarse de conocer y votar los asuntos en que tengan conflicto de interés, y
+
+VI. Faltar consecutivamente a tres sesiones o no asistir al menos al setenta y cinco por ciento de las sesiones celebradas en un año.
 
 ### Artículo 39
 .- La persona titular del Ejecutivo Federal debe determinar, con base en los elementos que se le presenten o recabe para tal efecto, la remoción de las personas consejeras independientes en los casos a que se refiere el artículo anterior.
@@ -315,11 +457,18 @@ Sección Quinta De los Comités
 
 ### Artículo 41
 .- Para el desarrollo eficiente de las actividades de la Comisión Federal de Electricidad, el Consejo de Administración cuenta con los comités que al efecto establezca y debe tener al menos los siguientes:
+
 I. Auditoría;
+
 II. Recursos Humanos, Remuneraciones y Austeridad;
+
 III. Estrategia e Inversiones;
+
 IV. Adquisiciones, Arrendamientos, Servicios y Obras;
-V. Empresas Filiales, y VI. Sostenibilidad.
+
+V. Empresas Filiales, y
+
+VI. Sostenibilidad.
 
 ### Artículo 42
 .- Los comités del Consejo de Administración deben procurar en su integración el principio de paridad por un mínimo de tres y un máximo de cinco personas consejeras, de las cuales al menos una persona debe ser independiente, salvo el Comité de Auditoría cuya integración está prevista expresamente en esta Ley. Corresponde al Consejo de Administración determinar la integración y funciones de los comités, por resolución adoptada por mayoría de cinco de sus integrantes, sin perjuicio de las señaladas en esta Ley, y deben funcionar conforme a las reglas que emita el propio Consejo.
@@ -332,75 +481,138 @@ Pueden asistir a sus sesiones como personas invitadas o invitados, con derecho a
 
 ### Artículo 44
 .- El Comité de Recursos Humanos, Remuneraciones y Austeridad es presidido por una persona consejera independiente de manera rotatoria anual, lo integran al menos las personas titulares de las Secretarías de Energía y de Hacienda y Crédito Público y tiene a su cargo las siguientes funciones:
+
 I. Proponer al Consejo de Administración el mecanismo de remuneración de la persona titular de la Dirección General y de las personas con cargos directivos de los tres niveles jerárquicos inferiores a éste;
+
 II. Proponer al Consejo de Administración la política de contratación, de evaluación del desempeño y de remuneraciones del resto del personal de la Comisión Federal de Electricidad y de sus empresas filiales, debiendo cumplir con lo dispuesto en la legislación y el contrato colectivo de trabajo y reglamento vigentes aplicables;
+
 III. Vigilar el cumplimento de los lineamientos de austeridad en el gasto y uso de recursos de acuerdo con lo establecido en la presente Ley y demás disposiciones aplicables;
+
 IV. Analizar y recomendar de manera anual al Consejo de Administración, el informe que presente la administración sobre cumplimiento de los principios de austeridad, conforme a los lineamientos que el propio Consejo autorice;
+
 V. Recomendar al Consejo de Administración la modificación y acciones de mejora de los lineamientos de austeridad;
+
 VI. Auxiliar al Consejo de Administración, en los términos que éste le ordene, en el seguimiento de las políticas de recursos humanos, remuneraciones y austeridad que haya aprobado;
+
 VII. Dar seguimiento al cumplimiento de los acuerdos, compromisos y autorizaciones que, en materia de recursos humanos, remuneraciones y austeridad le especifique el Consejo de Administración;
-VIII. Proponer para aprobación del Consejo de Administración los lineamientos para la formalización de los convenios de capacitación, certificación y actualización que la Comisión Federal de Electricidad pueda suscribir con instituciones públicas y privadas, nacionales o internacionales, y IX. Las demás que determine el Consejo de Administración.
+
+VIII. Proponer para aprobación del Consejo de Administración los lineamientos para la formalización de los convenios de capacitación, certificación y actualización que la Comisión Federal de Electricidad pueda suscribir con instituciones públicas y privadas, nacionales o internacionales, y
+
+IX. Las demás que determine el Consejo de Administración.
 
 ### Artículo 45
 .- El Comité de Estrategia e Inversiones es presidido por una persona consejera independiente de manera rotatoria anual, lo integran al menos las personas titulares de las Secretarías de Energía y de Hacienda y Crédito Público y tiene a su cargo las siguientes funciones:
+
 I. Auxiliar al Consejo de Administración en la aprobación de las directrices, prioridades y políticas generales relacionadas con las inversiones de la Comisión Federal de Electricidad;
+
 II. Analizar el Programa de Desarrollo de la Comisión Federal de Electricidad;
+
 III. Formular al Consejo de Administración recomendaciones relacionadas con el Programa de Desarrollo de la Comisión Federal de Electricidad y sobre las políticas generales en la materia;
+
 IV. Dar seguimiento a las inversiones que, en términos de la fracción VIII del artículo 15 de esta Ley, hayan sido autorizadas por el Consejo de Administración;
+
 V. Aprobar los informes anuales de los Comités Técnicos de los fideicomisos de inversión, constituidos por la Comisión Federal de Electricidad;
-VI. Formular al Consejo de Administración recomendaciones sobre la adquisición, venta, y liquidación de derechos y obligaciones de los fideicomisos de inversión, constituidos por la Comisión Federal de Electricidad, y VII. Las demás que determine el Consejo de Administración.
+
+VI. Formular al Consejo de Administración recomendaciones sobre la adquisición, venta, y liquidación de derechos y obligaciones de los fideicomisos de inversión, constituidos por la Comisión Federal de Electricidad, y
+
+VII. Las demás que determine el Consejo de Administración.
 
 ### Artículo 46
 .- El Comité de Adquisiciones, Arrendamientos, Servicios y Obras es presidido por una persona consejera independiente de manera rotatoria anual y tiene las siguientes funciones:
+
 I. Formular recomendaciones a la persona titular de la Dirección General sobre aspectos concretos que puedan incluirse en las políticas y disposiciones que, en materia de contrataciones, proponga al Consejo de Administración;
+
 II. Opinar sobre las propuestas que la persona titular de la Dirección General presente respecto a las políticas y disposiciones en materia de contrataciones y, en su caso, recomendar su aprobación al Consejo de Administración;
+
 III. Formular opiniones, a solicitud del Consejo de Administración, sobre las contrataciones que se sometan a consideración de éste en términos de las disposiciones aplicables;
+
 IV. Dar seguimiento a las adquisiciones, arrendamientos, servicios y obras que, en términos de la fracción IX del artículo 15 de esta Ley, hayan sido autorizadas por el Consejo de Administración;
+
 V. Aprobar los casos en que proceda la excepción a concurso abierto para que la Comisión Federal de Electricidad contrate con sus empresas filiales;
-VI. Revisar los programas anuales de adquisiciones, arrendamientos, servicios y obras y formular las recomendaciones que estime pertinentes al Consejo de Administración, y VII. Las demás que determine el Consejo de Administración.
+
+VI. Revisar los programas anuales de adquisiciones, arrendamientos, servicios y obras y formular las recomendaciones que estime pertinentes al Consejo de Administración, y
+
+VII. Las demás que determine el Consejo de Administración.
 
 ### Artículo 47
 .- El Comité de Empresas Filiales es presidido por una persona consejera independiente de manera rotatoria anual, lo integran al menos las personas titulares de las Secretarías de Energía y de Hacienda y Crédito Público y tiene a su cargo las siguientes funciones:
+
 I. Opinar al Consejo de Administración la creación, fusión o escisión de empresas filiales en las que la Comisión Federal de Electricidad participe de manera directa;
+
 II. Auxiliar al Consejo Administración en el establecimiento de directrices, políticas, lineamientos, procedimientos y demás disposiciones relacionadas con la operación, vigilancia, evaluación del desempeño y seguimiento a los resultados operativos y de negocio de las empresas filiales;
+
 III. Evaluar los asuntos que por su importancia y trascendencia deban someterse a consideración del Consejo de Administración derivado de las operaciones que en lo particular realicen las empresas filiales, así como aquellos asuntos que conlleven un impacto financiero significativo tanto para las empresas filiales, como para la Comisión Federal de Electricidad;
+
 IV. Evaluar la estructura de propiedad, la estructura organizacional, las políticas para mitigar los potenciales conflictos de interés, el cumplimiento normativo, y la alineación al Programa de Desarrollo de la Comisión Federal de Electricidad, así como las capacidades, experiencia de los Directivos y, en su caso, la plantilla gerencial de las empresas filiales;
+
 V. Conocer los informes anuales de las empresas filiales, los cuales deben incluir entre otros elementos, las estrategias alineadas con el Programa de Desarrollo de la Comisión Federal de Electricidad;
-VI. Revisar el informe que contenga las operaciones entre partes relacionadas dentro del giro ordinario del negocio y distintas a éstas entre la Comisión Federal de Electricidad y sus empresas filiales, y VII. Las demás que determine el Consejo de Administración.
+
+VI. Revisar el informe que contenga las operaciones entre partes relacionadas dentro del giro ordinario del negocio y distintas a éstas entre la Comisión Federal de Electricidad y sus empresas filiales, y
+
+VII. Las demás que determine el Consejo de Administración.
 
 ### Artículo 48
 .- El Comité de Sostenibilidad es presidido por una persona consejera independiente de manera rotatoria anual, lo integran al menos las personas titulares de las Secretarías de Energía, de Hacienda y Crédito Público y de Medio Ambiente y Recursos Naturales, y tiene a su cargo las siguientes funciones:
+
 I. Proponer al Consejo de Administración, para su aprobación y aplicación transversal, las estrategias, las directrices, prioridades y políticas generales en materia ambiental, social y de fortalecimiento institucional, así como cualquier otro aspecto de sostenibilidad vinculado a las operaciones de la Comisión Federal de Electricidad y, en su caso, empresas filiales;
+
 II. Analizar y evaluar los principales riesgos y oportunidades en materia ambiental, social y de fortalecimiento institucional, así como de cualquier otro aspecto de sostenibilidad, y proponer acciones para su atención, de acuerdo con los marcos y estándares aceptados a nivel internacional y nacional, de conformidad con la regulación aplicable y alineado con el Programa de Desarrollo de la Comisión Federal de Electricidad;
+
 III. Proponer al Consejo de Administración recomendaciones para la adopción y seguimiento de las mejores prácticas internacionales, estándares y certificaciones en materia ambiental, social y de fortalecimiento institucional, o de cualquier otro aspecto relacionado con la sostenibilidad a fin de atender los requerimientos regulatorios de las autoridades financieras que, a su vez, permitan acceder a mejores condiciones de financiamiento;
+
 IV. Revisar y opinar sobre los informes en materia de sostenibilidad para su presentación al Consejo de Administración, así como emitir observaciones o propuestas de mejora, los cuales deben presentarse de forma anual;
+
 V. Promover la transparencia de información en materia ambiental, social y de fortalecimiento institucional, así como cualquier otro aspecto de sostenibilidad, en alineación con lo establecido en los marcos y estándares en la materia aceptados a nivel nacional e internacional;
+
 VI. Revisar y opinar sobre el plan de sostenibilidad de la Comisión Federal de Electricidad, así como asegurar su alineación con los compromisos en materia ambiental, social y de fortalecimiento institucional y los marcos y estándares aceptados a nivel nacional e internacional, éste debe actualizarse al menos cada tres años;
-VII. Proponer al Consejo de Administración la aprobación del Reporte Anual de Sostenibilidad de conformidad con la normatividad aplicable, y VIII. Las demás que determine el Consejo de Administración.
+
+VII. Proponer al Consejo de Administración la aprobación del Reporte Anual de Sostenibilidad de conformidad con la normatividad aplicable, y
+
+VIII. Las demás que determine el Consejo de Administración.
 
 ## Capítulo III
 De la Dirección General
 
 ### Artículo 49
 .- Corresponde a la persona titular de la Dirección General la gestión, operación, funcionamiento y ejecución de los objetivos de la Comisión Federal de Electricidad, y se debe sujetar a las estrategias, políticas y lineamientos aprobados por el Consejo de Administración. Al efecto, tiene las funciones siguientes:
+
 I. Administrar y representar legalmente a la empresa, en términos de la presente Ley, con las más amplias facultades para actos de dominio, administración, pleitos y cobranzas, incluso las que requieran autorización, poder o cláusula especial en términos de las disposiciones aplicables, incluyendo la representación patronal y facultades necesarias en materia laboral; para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; para otorgar perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo; para comprometerse en árbitros y transigir; así como facultades cambiarias para suscribir, emitir, avalar, endosar y negociar títulos de crédito, y para otorgar y revocar toda clase de poderes generales o especiales;
+
 II. Ejecutar los acuerdos y decisiones del Consejo de Administración;
+
 III. Formular y presentar para autorización del Consejo de Administración el Programa de Desarrollo de la Comisión Federal de Electricidad y el programa operativo y financiero anual de trabajo;
+
 IV. Presentar para aprobación del Consejo de Administración, previa revisión del Comité de Sostenibilidad, el plan de sostenibilidad de la Comisión Federal de Electricidad;
+
 V. Enviar a la Secretaría de Hacienda y Crédito Público, en términos de lo dispuesto en el Capítulo VI del Título Cuarto y demás disposiciones aplicables de esta Ley, la información presupuestaria y financiera que corresponda a la Comisión Federal de Electricidad y, en su caso, empresas filiales;
+
 VI. Autorizar los pagos extraordinarios, donativos y donaciones en efectivo o en especie que la Comisión Federal de Electricidad y, en su caso, sus empresas filiales otorguen, en términos de los lineamientos que expida el Consejo de Administración;
+
 VII. Administrar el patrimonio de la empresa y disponer de sus bienes conforme a lo establecido en la presente Ley y en las políticas y autorizaciones que al efecto emita el Consejo de Administración;
+
 VIII. Dirigir la política y establecer las directrices para la programación, instrumentación y evaluación de las acciones de apoyo de la Comisión Federal de Electricidad y sus empresas filiales, para el desarrollo comunitario sustentable, que hagan viable las actividades productivas;
+
 IX. Convenir y suscribir los contratos colectivos y convenios administrativos sindicales que regulen las relaciones laborales de la Comisión Federal de Electricidad, conforme a las previsiones máximas previamente aprobadas por el Consejo de Administración, así como expedir los reglamentos de trabajo del personal de confianza, en términos del artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Federal del Trabajo;
+
 X. Dirigir la instrumentación y administración de los sistemas de seguridad de los bienes e instalaciones de la Comisión Federal de Electricidad y, en su caso, empresas filiales, en coordinación con las dependencias competentes de los tres órdenes de gobierno;
+
 XI. Dirigir la instrumentación y administración de los mecanismos de seguridad, salud y protección y seguridad industrial de la Comisión Federal de Electricidad y, en su caso, empresas filiales, así como los mecanismos y procedimientos para controlar la calidad y continuidad de las operaciones industriales y comerciales;
+
 XII. Dirigir el diseño y la implementación de los programas de prevención en materia eléctrica, y los demás que, en materia de seguridad operativa, equilibrio ecológico y preservación del medio ambiente sean aplicables;
+
 XIII. Constituir, disolver y determinar las funciones de grupos de trabajo o comisiones asesoras que se requieran para el cumplimiento del objeto de la empresa, así como dictar las bases para su funcionamiento;
+
 XIV. Presentar al Consejo de Administración un informe anual sobre el desempeño de la Comisión Federal de Electricidad y sus empresas filiales, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. El informe y los documentos de apoyo deben contener un análisis comparativo sobre las metas y compromisos establecidos en el Programa de Desarrollo de la Comisión Federal de Electricidad con los resultados alcanzados;
+
 XV. Dar a conocer al público en general, los estados financieros bajo Normas Internacionales de Información Financiera, en los términos que establezca el Consejo de Administración;
+
 XVI. Establecer medidas para el desarrollo tecnológico y para asegurar la calidad de sus productos;
+
 XVII. Proponer al Consejo de Administración las adecuaciones que estime necesarias a las políticas generales de operación;
-XVIII. Difundir la información relevante y eventos que deban ser públicos en términos de las disposiciones aplicables, y XIX. Las demás previstas en esta Ley, y las que le asigne el Consejo de Administración, el Estatuto Orgánico o se prevean en otros ordenamientos jurídicos aplicables.
+
+XVIII. Difundir la información relevante y eventos que deban ser públicos en términos de las disposiciones aplicables, y
+
+XIX. Las demás previstas en esta Ley, y las que le asigne el Consejo de Administración, el Estatuto Orgánico o se prevean en otros ordenamientos jurídicos aplicables.
 
 ### Artículo 50
 .- La persona titular de la Dirección General debe ser nombrada por la persona titular del Ejecutivo Federal. Tal nombramiento debe recaer en una persona que reúna los requisitos señalados para las personas consejeras en el artículo 22 de esta Ley, así como no ser cónyuge, concubina o concubinario o tener parentesco por consanguinidad o afinidad, sin límite de grado, o integrante de sociedad en convivencia con cualquiera de quienes integran el Consejo de Administración.
@@ -415,30 +627,55 @@ TÍTULO TERCERO VIGILANCIA Y AUDITORÍA
 
 ### Artículo 53
 .- La vigilancia y auditoría de la Comisión Federal de Electricidad y, en su caso, de las empresas filiales se debe realizar por:
+
 I. El Comité de Auditoría;
-II. La Auditoría Interna, y III. La Auditoría Externa.
+
+II. La Auditoría Interna, y
+
+III. La Auditoría Externa.
 
 ### Artículo 54
 .- El Comité de Auditoría tiene a su cargo las funciones siguientes:
+
 I. Proponer al Consejo de Administración la designación de la persona titular de la Auditoría Interna, emitir las políticas para el desarrollo de sus actividades y evaluar su desempeño;
+
 II. Dar seguimiento a la gestión de la Comisión Federal de Electricidad y sus empresas filiales, revisar la documentación concerniente a la evaluación del desempeño financiero y operativo, general y por funciones de la empresa, así como presentar al Consejo de Administración los informes relacionados con estos temas;
+
 III. Verificar el cumplimiento de las metas, objetivos, planes, programas y proyectos prioritarios, incluyendo los plazos, términos y condiciones de los compromisos que se asuman, así como establecer indicadores objetivos y cuantificables para la evaluación del desempeño;
+
 IV. Verificar y certificar la racionabilidad y suficiencia de la información contable y financiera;
+
 V. Supervisar los procesos para formular, integrar y difundir la información contable y financiera, así como la ejecución de las auditorías que se realicen a los estados financieros de conformidad con los principios contables y las normas de auditoría que le son aplicables;
+
 VI. Proponer para aprobación del Consejo de Administración, previa opinión o solicitud de la persona titular de la Dirección General, las modificaciones a las políticas contables;
+
 VII. Emitir opinión sobre la suficiencia y racionabilidad del dictamen de auditoría externa de los estados financieros;
+
 VIII. Autorizar la contratación de la persona auditora externa en actividades distintas a los servicios de auditoría externa, a fin de evitar conflictos de interés que puedan afectar la independencia de su acción;
+
 IX. Presentar para aprobación del Consejo de Administración, previa propuesta de la persona titular de la Dirección General y opinión de la persona titular de la Auditoría Interna, el sistema de control interno, así como los lineamientos que lo regulen;
+
 X. Dar seguimiento e informar al Consejo de Administración del estado que guarda el sistema de control interno, y proponer las adecuaciones pertinentes, así como las demás medidas y acciones para corregir las deficiencias que identifique;
+
 XI. Presentar para aprobación del Consejo de Administración, previa propuesta de la Auditoría Interna, los lineamientos en materia de auditoría y evaluación del desempeño;
+
 XII. Emitir opinión sobre el informe anual de la persona titular de la Dirección General;
+
 XIII. Aprobar el programa anual de auditoría interna a propuesta de la persona titular de la Auditoría Interna, incluyendo aspectos de sostenibilidad;
+
 XIV. Apoyar al Consejo de Administración en la elaboración de los informes que el órgano colegiado deba elaborar o presentar;
+
 XV. Programar y requerir, en cualquier momento, las investigaciones y auditorías que estime necesarias, salvo por lo que hace a la actuación del Consejo de Administración;
+
 XVI. Presentar al Consejo de Administración, con la periodicidad que éste le indique, informes sobre los resultados de su gestión, así como las deficiencias e irregularidades detectadas con motivo del ejercicio de sus funciones y, en su caso, proponer las acciones para ser subsanadas con oportunidad;
+
 XVII. Proponer al Consejo de Administración criterios para la organización, clasificación y manejo de los informes a que se refiere esta Ley;
+
 XVIII. Supervisar la confiabilidad, eficacia y oportunidad de los mecanismos que se implementen para atender las solicitudes de información que reciba la empresa, en términos de las disposiciones aplicables, y elaborar un dictamen anual sobre la transparencia en la Comisión Federal de Electricidad y la revelación de información conforme al artículo 123 de esta Ley;
-XIX. Comunicar al Consejo de Administración las diferencias de opinión o criterio que existieren entre la administración de la empresa y el propio Comité, y XX. Las demás que le asigne el Consejo de Administración o se establezcan en otros ordenamientos jurídicos aplicables.
+
+XIX. Comunicar al Consejo de Administración las diferencias de opinión o criterio que existieren entre la administración de la empresa y el propio Comité, y
+
+XX. Las demás que le asigne el Consejo de Administración o se establezcan en otros ordenamientos jurídicos aplicables.
 
 ### Artículo 55
 .- La persona titular de la Auditoría Interna depende del Consejo de Administración, por conducto de su Comité de Auditoría y es la instancia ejecutora de éste. Actúa conforme a las políticas que determine el Comité de Auditoría y revisa periódicamente, mediante los procedimientos de auditoría que se determinen, que las políticas, normas y controles establecidos por el Consejo de Administración para el correcto funcionamiento de la Comisión Federal de Electricidad y, en su caso, sus empresas filiales, se apliquen de manera adecuada, así como de verificar el correcto funcionamiento del sistema de control interno.
@@ -450,28 +687,51 @@ La persona titular de la Auditoría Interna puede ser removida libremente por el
 
 ### Artículo 57
 .- La Auditoría Interna tiene las funciones siguientes:
+
 I. Evaluar el funcionamiento operativo de la Comisión Federal de Electricidad y sus empresas filiales, la aplicación adecuada de las políticas establecidas por el Consejo de Administración, el cumplimiento de las disposiciones jurídicas aplicables, así como verificar, en la misma forma, el correcto funcionamiento del sistema de control interno, con base en el programa anual de auditoría interna que apruebe el Comité de Auditoría, mediante auditorías y pruebas sustantivas, procedimentales y de cumplimiento;
+
 II. Revisar que los mecanismos de control implementados conlleven la adecuada protección de los activos de la Comisión Federal de Electricidad y sus empresas filiales;
+
 III. Verificar que los sistemas informáticos, incluidos los contables, operacionales y de cualquier tipo, cuenten con mecanismos para preservar la integridad, confidencialidad y disponibilidad de la información, que eviten su alteración y cumplan con los objetivos para los cuales fueron implementados o diseñados. Asimismo, vigilar dichos sistemas a fin de identificar fallas potenciales y verificar que éstos generen información suficiente y consistente y que aseguren su disponibilidad adecuadamente;
+
 IV. Revisar que se cuente con planes de contingencia y medidas necesarias para evitar pérdidas de información, así como para, en su caso, su recuperación o rescate;
+
 V. Cerciorarse de la calidad, suficiencia y oportunidad de la información, así como que sea confiable para la adecuada toma de decisiones, y que tal información se proporcione en forma correcta y oportuna a las instancias competentes;
+
 VI. Revisar la eficacia de los procedimientos de control interno para prevenir y detectar actos u operaciones que afecten o puedan afectar a la Comisión Federal de Electricidad y sus empresas filiales, así como comunicar los resultados a las instancias competentes;
+
 VII. Facilitar a las autoridades competentes, así como a las personas auditoras externas, la información necesaria de que disponga con motivo de sus funciones;
+
 VIII. Verificar que la estructura de la Comisión Federal de Electricidad y sus empresas filiales, cumplan con los principios de independencia en las distintas funciones que lo requieran, así como con la efectiva segregación de funciones y ejercicio de facultades atribuidas a cada área, por lo que, puede formular al Comité de Auditoría las recomendaciones que estime necesarias;
+
 IX. Proporcionar al Comité de Auditoría los elementos que le permitan cumplir con sus funciones, e informarle de las irregularidades encontradas en el ejercicio de sus funciones, así como de las deficiencias o desviaciones relevantes detectadas en la operación, con el fin de que sean subsanadas oportunamente, dando el seguimiento correspondiente;
+
 X. Informar al Comité de Auditoría y a la persona titular de la Dirección General de las deficiencias e irregularidades detectadas en el ejercicio de sus funciones y que pudieran constituir responsabilidad en términos de las disposiciones jurídicas aplicables, a fin de que se inicien los procedimientos correspondientes;
+
 XI. Turnar a la Unidad de Responsabilidades en la Comisión Federal de Electricidad los asuntos en los que, derivado del ejercicio de sus funciones, detecte posibles responsabilidades administrativas;
+
 XII. Informar, al menos de manera semestral al Comité de Auditoría, o con la periodicidad que éste determine, sobre los resultados de su gestión;
-XIII. Presentar para aprobación del Comité de Auditoría, previa opinión de la persona titular de la Dirección General, su programa anual de trabajo, y XIV. Las demás previstas en esta Ley o que determine el Consejo de Administración.
+
+XIII. Presentar para aprobación del Comité de Auditoría, previa opinión de la persona titular de la Dirección General, su programa anual de trabajo, y
+
+XIV. Las demás previstas en esta Ley o que determine el Consejo de Administración.
 
 ### Artículo 58
 .- La persona titular de la Dirección General debe dirigir la implementación, con base en los lineamientos que apruebe el Consejo de Administración, del sistema de control interno en la Comisión Federal de Electricidad y sus empresas filiales, el cual tiene como objetivos los siguientes:
+
 I. Establecer mecanismos que permitan prever, identificar, administrar, dar seguimiento y evaluar los riesgos que pueden derivarse del desarrollo de las actividades de la Comisión Federal de Electricidad y sus empresas filiales;
+
 II. Prevenir, detectar y canalizar con las instancias y autoridades competentes, los actos y omisiones que puedan constituir prácticas de corrupción;
+
 III. Delimitar las funciones y operaciones entre las áreas y unidades administrativas, a fin de garantizar la eficiencia y eficacia en la realización de sus actividades y evitar conflictos de interés;
+
 IV. Coadyuvar a la observancia de las disposiciones jurídicas, contables y financieras aplicables;
+
 V. Contar con información financiera, económica, contable, jurídica, de sostenibilidad y administrativa confiable y oportuna por unidad administrativa, que contribuya a la adecuada toma de decisiones;
-VI. Propiciar el correcto funcionamiento de los sistemas de procesamiento de información, y VII. Los demás que determine el Consejo de Administración.
+
+VI. Propiciar el correcto funcionamiento de los sistemas de procesamiento de información, y
+
+VII. Los demás que determine el Consejo de Administración.
 El sistema de control interno y los lineamientos que lo regulen deben observarse en la operación y actividades financieras y sustantivas.
 Las funciones de coordinación del sistema de control interno en ningún caso pueden realizarse por personal del área de Auditoría Interna o por personas o unidades que puedan tener conflicto de interés para su adecuado desempeño.
 A más tardar el treinta de abril de cada año, la persona titular de la Dirección General debe presentar al Comité de Auditoría, previa opinión de la persona titular de la Auditoría Interna, un reporte sobre el estado que guarda el sistema de control interno en la Comisión Federal de Electricidad y sus empresas filiales, para efectos de verificar el cumplimiento de este.
@@ -506,16 +766,26 @@ Al aprobar la creación o participación en empresas filiales de participación 
 
 ### Artículo 64
 .- La organización, las políticas y acciones de la Comisión Federal de Electricidad deben asegurar que sus empresas filiales fomenten la operación eficiente, la continuidad y accesibilidad del servicio público de energía eléctrica y el mejor funcionamiento del sector eléctrico, para lo cual éstas, entre otras acciones, deben:
+
 I. Ofrecer energía eléctrica y productos asociados de las centrales eléctricas que representen en el mercado eléctrico mayorista;
+
 II. Operar con la máxima eficiencia posible;
+
 III. Reportar sus resultados de forma fehaciente;
+
 IV. Respetar el mandato y objeto de la Comisión Federal de Electricidad;
-V. Sujetar sus operaciones a las restricciones societarias de participación de capital e intervención en las decisiones administrativas y operativas de dichas empresas que establecen la presente Ley, la Ley del Sector Eléctrico y las demás disposiciones jurídicas aplicables, y VI. Privilegiar procesos competitivos para la adquisición de los insumos y servicios necesarios para su operación.
+
+V. Sujetar sus operaciones a las restricciones societarias de participación de capital e intervención en las decisiones administrativas y operativas de dichas empresas que establecen la presente Ley, la Ley del Sector Eléctrico y las demás disposiciones jurídicas aplicables, y
+
+VI. Privilegiar procesos competitivos para la adquisición de los insumos y servicios necesarios para su operación.
 La fusión, creación, liquidación o escisión de empresas filiales, así como la transferencia de activos se debe realizar teniendo como principal objetivo la seguridad y soberanía nacional y el suministro confiable y eficiente de energía eléctrica.
 
 ### Artículo 65
 .- La Comisión Federal de Electricidad, con el propósito de realizar las actividades de transmisión y distribución de energía eléctrica en términos de la ley de la materia, puede:
-I. Celebrar contratos con sus empresas filiales o con particulares para llevar a cabo, entre otros, instalación, mantenimiento y ampliación de la infraestructura necesaria para prestar los servicios mencionados en este precepto, y II. En los casos que pretenda realizar las actividades en asociación o alianza con terceros, puede hacerlo mediante la creación o participación en empresas filiales, la participación minoritaria en otras sociedades, o las demás formas de asociación que no sean contrarias a la Ley.
+
+I. Celebrar contratos con sus empresas filiales o con particulares para llevar a cabo, entre otros, instalación, mantenimiento y ampliación de la infraestructura necesaria para prestar los servicios mencionados en este precepto, y
+
+II. En los casos que pretenda realizar las actividades en asociación o alianza con terceros, puede hacerlo mediante la creación o participación en empresas filiales, la participación minoritaria en otras sociedades, o las demás formas de asociación que no sean contrarias a la Ley.
 Lo anterior, también es aplicable en los supuestos a que se refiere la Ley del Sector Eléctrico.
 
 ### Artículo 66
@@ -553,9 +823,14 @@ El régimen de remuneraciones de las empresas filiales debe alinearse conforme a
 
 ### Artículo 75
 .- Al ejercer sus funciones en materia de remuneraciones del personal de la Comisión Federal de Electricidad, el Consejo de Administración de la Comisión Federal de Electricidad y su Comité de Recursos Humanos, Remuneraciones y Austeridad, de acuerdo con el presupuesto de servicios personales aprobado, deben observar lo siguiente:
+
 I. Las remuneraciones para el personal se deben calcular de manera equivalente a las existentes en la industria o actividad de que se trate y que permitan que las empresas cuenten y conserven las personas trabajadoras idóneas para cumplir eficazmente con su objeto, conforme a los tabuladores aprobados;
+
 II. La política de recursos humanos puede prever el otorgamiento de incentivos o de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño;
-III. La política de remuneraciones debe tener como objetivo reconocer el esfuerzo laboral y la contribución de las personas trabajadoras al logro de los objetivos de la empresa, conforme a los tabuladores aprobados, y IV. En el ejercicio del presupuesto de servicios personales, la Comisión Federal de Electricidad se debe sujetar a lo dispuesto en el Capítulo VI del Título Cuarto y demás disposiciones aplicables de esta Ley.
+
+III. La política de remuneraciones debe tener como objetivo reconocer el esfuerzo laboral y la contribución de las personas trabajadoras al logro de los objetivos de la empresa, conforme a los tabuladores aprobados, y
+
+IV. En el ejercicio del presupuesto de servicios personales, la Comisión Federal de Electricidad se debe sujetar a lo dispuesto en el Capítulo VI del Título Cuarto y demás disposiciones aplicables de esta Ley.
 
 ### Artículo 76
 .- La política de contratación de personal no sindicalizado debe establecer los mecanismos para que los procesos de contratación permitan realizar la selección idónea de las personas trabajadoras que cumplan con los requisitos establecidos para el desempeño de las funciones y grado de especialización.
@@ -566,20 +841,36 @@ La creación de puestos, modificaciones a la estructura organizacional y las pla
 
 ### Artículo 78
 .- Los lineamientos de austeridad en el gasto y uso de recursos deben regirse, al menos, por los siguientes principios:
+
 I. Promover el uso eficiente de los recursos públicos y evitar gastos innecesarios;
+
 II. Transparentar los procedimientos, gastos y contrataciones e informar a los entes de fiscalización correspondientes;
+
 III. Priorizar el beneficio público y el cumplimiento de objetivos sociales estratégicos;
+
 IV. Priorizar el uso racional de los recursos y evitar gastos que no generen beneficios para la población;
+
 V. Simplificar procesos que no afecten la continuidad de las operaciones, no vulneren la seguridad de las personas trabajadoras de la Comisión Federal de Electricidad e instalaciones, ni afecten los programas de protección ambiental;
+
 VI. Eficientar la estructura organizacional y ocupacional sin incrementar el presupuesto autorizado, bajo principios de austeridad y racionalidad y evitar duplicidades de funciones;
+
 VII. Racionalizar la entrega de donativos y donaciones;
+
 VIII. Realizar acciones de eficiencia energética en el uso de las instalaciones de inmuebles y vehículos;
+
 IX. Eficientar el consumo de papelería, de artículos de oficina, de servicios de mensajería, y de telefonía móvil y fija;
+
 X. Racionalizar el uso de transportación privada terrestre, marítima y aérea, sin afectar la operación de la empresa y la seguridad de los trabajadores;
+
 XI. Enajenar los bienes muebles e inmuebles, considerados no útiles para la operación de la Comisión Federal de Electricidad;
+
 XII. Racionalizar la contratación de servicios de asesorías, consultorías, estudios e investigaciones, así como por concepto de comunicación social, publicidad y comunicaciones oficiales;
+
 XIII. Privilegiar el uso de tecnologías de la información en los procesos y actividades que lo permitan, utilizar formatos electrónicos y la gestión electrónica de documentos;
-XIV. Incentivar la compra consolidada de bienes y servicios, para aprovechar las economías de escala de la Comisión Federal de Electricidad, y XV. Optimizar el uso del espacio físico y del mobiliario disponible y procurar reducir la adquisición o arrendamiento de inmuebles de uso administrativo.
+
+XIV. Incentivar la compra consolidada de bienes y servicios, para aprovechar las economías de escala de la Comisión Federal de Electricidad, y
+
+XV. Optimizar el uso del espacio físico y del mobiliario disponible y procurar reducir la adquisición o arrendamiento de inmuebles de uso administrativo.
 
 ### Artículo 79
 .- Los lineamientos de austeridad en el gasto y uso de recursos deben prever la elaboración de programas anuales que apruebe el Consejo de Administración de la Comisión Federal de Electricidad, con la opinión favorable de la Secretaría de Energía, que contenga metas específicas de austeridad.
@@ -594,18 +885,59 @@ La adquisición de energía eléctrica y productos asociados se rigen por los me
 
 ### Artículo 81
 .- El Consejo de Administración de la Comisión Federal de Electricidad debe emitir las disposiciones a las que deben sujetarse la Comisión Federal de Electricidad para los procedimientos de adquisiciones, arrendamientos, contratación de servicios y ejecución de obras. Estas disposiciones deben observar los principios de responsabilidad social y austeridad establecidos en la presente Ley, que garanticen la continuidad y accesibilidad del servicio público de energía eléctrica conforme a las bases siguientes:
+
 I. Se pueden establecer disposiciones generales que permitan desarrollar procedimientos de contratación acorde a la naturaleza de la contratación;
-II. Se consideran, entre otros aspectos: a) La aplicación de condiciones de igualdad y transparencia entre todas las personas participantes; b) El establecimiento de los requisitos generales de las bases del concurso abierto; c) Los términos y requisitos bajo los cuales se llevan a cabo los procedimientos distintos al concurso abierto, y d) Los criterios de evaluación objetivos y medibles;
+
+II. Se consideran, entre otros aspectos:
+
+a) La aplicación de condiciones de igualdad y transparencia entre todas las personas participantes;
+
+b) El establecimiento de los requisitos generales de las bases del concurso abierto;
+
+c) Los términos y requisitos bajo los cuales se llevan a cabo los procedimientos distintos al concurso abierto, y
+
+d) Los criterios de evaluación objetivos y medibles;
+
 III. Considerar disposiciones para que los procedimientos de contratación se lleven a cabo bajo los principios de honradez, transparencia, máxima publicidad, igualdad, competitividad, sencillez, sostenibilidad y que sean expeditos, pudiendo considerar, entre otros esquemas, etapas de precalificación, ofertas subsecuentes de descuento y negociación de precios.
-El Consejo de Administración de la Comisión Federal de Electricidad debe establecer los casos en que, atendiendo al impacto o relevancia de las contrataciones, pueden participar personas en calidad de testigos sociales durante los procedimientos respectivos que realice la Comisión Federal de Electricidad, así como los mecanismos y requisitos para su designación. Corresponde a quienes sean testigos sociales: a) Participar en calidad de observador en las distintas etapas de los procedimientos de contratación; b) Emitir un testimonio final que incluya sus observaciones y, en su caso, recomendaciones respecto a la contratación de que se trate, y c) En su caso, dar aviso de las irregularidades que detecte a la Auditoría Interna y a la Unidad de Responsabilidades en la Comisión Federal de Electricidad;
+El Consejo de Administración de la Comisión Federal de Electricidad debe establecer los casos en que, atendiendo al impacto o relevancia de las contrataciones, pueden participar personas en calidad de testigos sociales durante los procedimientos respectivos que realice la Comisión Federal de Electricidad, así como los mecanismos y requisitos para su designación. Corresponde a quienes sean testigos sociales:
+
+a) Participar en calidad de observador en las distintas etapas de los procedimientos de contratación;
+
+b) Emitir un testimonio final que incluya sus observaciones y, en su caso, recomendaciones respecto a la contratación de que se trate, y
+
+c) En su caso, dar aviso de las irregularidades que detecte a la Auditoría Interna y a la Unidad de Responsabilidades en la Comisión Federal de Electricidad;
+
 IV. Publicar la información sobre las contrataciones que realice la empresa en su página electrónica, conforme a lo previsto en las disposiciones jurídicas aplicables en materia de transparencia y acceso a la información pública;
+
 V. Definir la instancia responsable de dictaminar la procedencia de llevar a cabo procedimientos distintos al concurso abierto, así como la justificación mínima que debe incluir su decisión;
-VI. Establecer políticas que regulen los casos en que la empresa se debe abstener de considerar propuestas o celebrar contratos, entre otros, con personas que: a) Tengan conflicto de intereses con la Comisión Federal de Electricidad o sus empresas filiales; b) Estén inhabilitadas para ejercer el comercio o su profesión; c) Se encuentren inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público; d) Se encuentren inhabilitadas por la autoridad competente, conforme a las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas; e) Tengan incumplimientos pendientes de solventar con la empresa o que ésta haya procedido a rescindir un contrato; f) Hayan obtenido, de manera indebida, información privilegiada, y g) Utilicen a terceros para evadir lo dispuesto en esta fracción;
+
+VI. Establecer políticas que regulen los casos en que la empresa se debe abstener de considerar propuestas o celebrar contratos, entre otros, con personas que:
+
+a) Tengan conflicto de intereses con la Comisión Federal de Electricidad o sus empresas filiales;
+
+b) Estén inhabilitadas para ejercer el comercio o su profesión;
+
+c) Se encuentren inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
+
+d) Se encuentren inhabilitadas por la autoridad competente, conforme a las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público y de Obras Públicas y Servicios Relacionados con las Mismas;
+
+e) Tengan incumplimientos pendientes de solventar con la empresa o que ésta haya procedido a rescindir un contrato;
+
+f) Hayan obtenido, de manera indebida, información privilegiada, y
+
+g) Utilicen a terceros para evadir lo dispuesto en esta fracción;
+
 VII. Establecer una política de contrataciones que considere criterios ambientales, sociales y fortalecimiento institucional que evalúe las prácticas de los proveedores;
+
 VIII. Establecer la forma en que se llevan a cabo la planeación, programación y presupuestación de las contrataciones, así como la evaluación de sus resultados con base en indicadores objetivos;
+
 IX. Establecer el contenido mínimo de los contratos, así como las reglas generales que procuren su mejor y oportuna ejecución;
+
 X. Requerir porcentajes mínimos de contenido nacional de acuerdo con la naturaleza de la contratación, la regulación tarifaria, y conforme a los tratados internacionales de los que México sea parte;
-XI. Prever las facilidades necesarias para que los procedimientos se realicen preferentemente por medios electrónicos, y XII. Debida diligencia viable.
+
+XI. Prever las facilidades necesarias para que los procedimientos se realicen preferentemente por medios electrónicos, y
+
+XII. Debida diligencia viable.
 
 ### Artículo 82
 .- Las adquisiciones, arrendamientos y contratación de servicios y obras se deben efectuar, por regla general, por concurso abierto, previa convocatoria pública. Las propuestas pueden ser presentadas y analizadas a través de medios electrónicos, en los términos que establezca el Consejo de Administración de la Comisión Federal de Electricidad.
@@ -615,30 +947,56 @@ Cuando, por excepción, el concurso abierto no sea idóneo para asegurar las mej
 
 ### Artículo 83
 .- En los casos en que el procedimiento de concurso abierto no resulte el idóneo para asegurar las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes de acuerdo con la naturaleza de la contratación, previa determinación de la instancia responsable de dictaminar la excepción al concurso abierto, la Comisión Federal de Electricidad puede optar por emplear otros procedimientos que pueden ser, entre otros, de invitación restringida o de adjudicación directa, siempre y cuando se actualice alguno de los supuestos que se indican a continuación:
+
 I. No existan bienes o servicios alternativos o sustitutos técnicamente razonables, o bien, que en el mercado sólo exista un posible oferente. Asimismo, cuando se trate de una persona que posee la titularidad o el licenciamiento exclusivo de patentes, derechos de autor, u otros derechos exclusivos, o por tratarse de obras de arte;
+
 II. Cuando se ponga en riesgo la seguridad nacional, la seguridad pública o la seguridad de la Comisión Federal de Electricidad y sus instalaciones industriales, en los términos de las leyes de la materia;
+
 III. Derivado de caso fortuito o fuerza mayor, no sea posible obtener bienes o servicios mediante el procedimiento de concurso abierto en el tiempo requerido para atender la eventualidad de que se trate. En este supuesto, las cantidades o conceptos deben limitarse a lo estrictamente necesario para afrontarla;
+
 IV. Se haya rescindido un contrato celebrado a través de concurso abierto, conforme a las disposiciones que dicte el Consejo de Administración;
+
 V. Se haya declarado desierto un procedimiento de contratación en su totalidad o únicamente algunas de sus partidas, siempre que se mantengan los requisitos establecidos en la convocatoria al concurso o en la invitación, cuyo incumplimiento haya sido considerado como causa de desechamiento porque afecta directamente la solvencia de las proposiciones;
+
 VI. Existan razones justificadas para la adquisición o arrendamiento de bienes de marca determinada, o circunstancias que puedan provocar pérdidas o costos adicionales y justificados;
+
 VII. Se trate de bienes usados o reconstruidos en los que el precio no debe ser mayor al que se determine mediante avalúo que practican las instituciones de crédito o terceros habilitados para ello conforme a las disposiciones aplicables, expedido dentro de los seis meses previos y vigente al momento de la adjudicación del contrato respectivo;
+
 VIII. Se trate de servicios de consultorías, asesorías, estudios de ingeniería o de otra naturaleza, investigaciones o capacitación;
+
 IX. Se trate de la adquisición de bienes para su comercialización directa o para someterlos a procesos productivos que realice en cumplimiento de su objeto o fines propios expresamente establecidos en las disposiciones aplicables;
+
 X. Se trate de adquisiciones de bienes provenientes de personas que, sin ser proveedores habituales, ofrezcan bienes en condiciones favorables, por encontrarse en estado de liquidación o disolución, o bien, bajo intervención judicial;
+
 XI. Se trate de los servicios prestados por una persona física, siempre que éstos sean realizados por ella misma sin requerir de la utilización de más de un especialista o técnico;
+
 XII. Se trate de servicios de mantenimiento de bienes en los que no sea posible precisar su alcance, establecer las cantidades de trabajo o determinar las especificaciones correspondientes;
+
 XIII. El objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para efectuar las pruebas que demuestren su funcionamiento. En estos casos se debe pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor de la contratante;
+
 XIV. Se trate de equipos especializados, sustancias y materiales de origen químico, físico químico o bioquímico para ser utilizadas en actividades experimentales requeridas en proyectos de investigación científica y desarrollo tecnológico, siempre que dichos proyectos se encuentren autorizados por quien determine el Consejo de Administración;
+
 XV. Se acepte la adquisición de bienes, la ejecución de trabajos o la prestación de servicios a título de dación en pago;
+
 XVI. Los vinculados directamente con incidentes en materia eléctrica que pongan en riesgo a los trabajadores, a la población, al medio ambiente o a las instalaciones utilizadas por la empresa, que sean consecuencia de accidentes, sabotajes, robo, otros actos dolosos u otros eventos que requieran de atención inmediata;
+
 XVII. Se trate de trabajos que requieran fundamentalmente de mano de obra campesina o urbana marginada, y que se contraten directamente con las personas habitantes beneficiarias de la localidad o del lugar donde deban realizarse los trabajos, ya sea como personas físicas o morales, para lo cual el Consejo de Administración debe establecer los montos hasta los cuales se puede realizar dicha contratación;
+
 XVIII. Los servicios de fedatarios públicos, peritos, servicios jurídicos y de representación en procesos judiciales, arbitrales o administrativos;
+
 XIX. En el caso de refacciones o servicios relacionados con la instalación, mantenimiento o conservación de equipos industriales del fabricante original del equipo o maquinaria, a fin de mantener la garantía técnica del mismo;
+
 XX. Cuando se trate de la celebración de una asociación o alianza estratégica, o que se lleve a cabo con personas físicas o morales dedicadas a la ingeniería, la investigación y a la transferencia y desarrollo de tecnología, a fin de aplicar las innovaciones tecnológicas en la infraestructura nacional;
+
 XXI. Se trate de contratación de servicios bancarios, de intermediación bursátil, custodia de valores, o para la constitución de fideicomisos;
+
 XXII. Las contrataciones con el propósito de desarrollar innovaciones tecnológicas relacionadas con el objeto de la Comisión Federal de Electricidad;
+
 XXIII. Las contrataciones que lleve a cabo con dependencias y entidades de la administración pública, federal o estatal, así como con sus empresas filiales;
-XXIV. Cuando se trate de contrataciones de maquinaria, equipo y combustibles necesarios y urgentes para garantizar la continuidad, confiabilidad, seguridad y accesibilidad de los servicios de generación, transmisión, distribución y suministro eléctrico, así como las vinculadas con la seguridad física de las instalaciones y del personal de la Comisión Federal de Electricidad, y XXV. Las adquisiciones, arrendamientos, servicios y bienes; obras y servicios relacionados, relativos a la operación y confiabilidad de instalaciones nucleares, en caso de necesidades que requieran atención inmediata y para las cuales no sea factible realizar la contratación mediante procedimiento de concurso abierto.
+
+XXIV. Cuando se trate de contrataciones de maquinaria, equipo y combustibles necesarios y urgentes para garantizar la continuidad, confiabilidad, seguridad y accesibilidad de los servicios de generación, transmisión, distribución y suministro eléctrico, así como las vinculadas con la seguridad física de las instalaciones y del personal de la Comisión Federal de Electricidad, y
+
+XXV. Las adquisiciones, arrendamientos, servicios y bienes; obras y servicios relacionados, relativos a la operación y confiabilidad de instalaciones nucleares, en caso de necesidades que requieran atención inmediata y para las cuales no sea factible realizar la contratación mediante procedimiento de concurso abierto.
 
 ### Artículo 84
 .- En los procedimientos distintos al de concurso abierto se debe invitar a personas con posibilidad de respuesta adecuada; que cuenten con la capacidad financiera, técnica, y operativa para dar cumplimiento a los contratos, y que cuenten con experiencia en las actividades o trabajos a realizar.
@@ -650,7 +1008,10 @@ Una vez firmado el contrato, éste y todos los actos o aspectos que deriven de e
 
 ### Artículo 86
 .- En contra del fallo o de la determinación que declare desierto el concurso o la invitación restringida procede:
-I. El recurso de reconsideración ante la instancia colegiada que se determine en el Estatuto Orgánico, y conforme al procedimiento que establezca el Reglamento de esta Ley, o II. La acción jurisdiccional que corresponda ante el Tribunal Federal de Justicia Administrativa.
+
+I. El recurso de reconsideración ante la instancia colegiada que se determine en el Estatuto Orgánico, y conforme al procedimiento que establezca el Reglamento de esta Ley, o
+
+II. La acción jurisdiccional que corresponda ante el Tribunal Federal de Justicia Administrativa.
 Contra las demás resoluciones emitidas en las etapas del procedimiento de contratación, no procede instancia ni medio ordinario de defensa alguno y, en caso de alguna irregularidad en tales resoluciones, éstas pueden ser combatidas con motivo del fallo o de la determinación que declare desierto el concurso o la invitación restringida.
 Contra la cancelación de los procedimientos de contratación no procede el recurso de reconsideración. El recurso de reconsideración sólo podrá ser interpuesto por quienes hayan presentado ofertas en el procedimiento de contratación.
 Una vez firmado un contrato, todas las controversias que surjan relativas a su interpretación o cumplimiento son competencia de los tribunales del Poder Judicial de la Federación, salvo que se haya pactado un medio alternativo de solución de controversias.
@@ -661,8 +1022,19 @@ Sección Segunda De las Medidas para Garantizar la Integridad en las Contratacio
 
 ### Artículo 88
 .- Las disposiciones y políticas a que se refiere el artículo anterior deben prever, cuando menos:
+
 I. Los mecanismos y procedimientos para identificar, sistematizar y administrar los factores o puntos de riesgo que puedan presentarse o actualizarse durante los procedimientos de contratación o en la ejecución de los contratos, así como los procedimientos y acciones que deban seguirse ante la detección de irregularidades en ambos casos, incluyendo su suspensión;
-II. Las bases generales para determinar los requisitos mínimos que deben cumplir los interesados en contratar con la Comisión Federal de Electricidad, así como los mecanismos para su evaluación, éstos deben considerar, entre otros: a) Capacidad técnica y financiera para la ejecución del proyecto; b) La experiencia previa que acredite la capacidad para la ejecución de las obligaciones contractuales; c) El estado de sus obligaciones fiscales y laborales, y d) Contar con una debida diligencia viable.
+
+II. Las bases generales para determinar los requisitos mínimos que deben cumplir los interesados en contratar con la Comisión Federal de Electricidad, así como los mecanismos para su evaluación, éstos deben considerar, entre otros:
+
+a) Capacidad técnica y financiera para la ejecución del proyecto;
+
+b) La experiencia previa que acredite la capacidad para la ejecución de las obligaciones contractuales;
+
+c) El estado de sus obligaciones fiscales y laborales, y
+
+d) Contar con una debida diligencia viable.
+
 III. Los mecanismos para instrumentar un sistema de recepción de denuncias y quejas anónimas, mediante el cual cualquier persona interesada pueda denunciar actos u omisiones durante las distintas etapas del procedimiento de contratación, o durante la ejecución del contrato, acompañado de la documentación que acredite la irregularidad objeto de la denuncia o queja correspondiente.
 Los aspectos a que se refiere el presente artículo deben regularse atendiendo, entre otros factores, a la importancia o monto de las distintas contrataciones que realiza la Comisión Federal de Electricidad, así como la relevancia de las personas contratistas para sus operaciones.
 
@@ -672,11 +1044,18 @@ Los aspectos a que se refiere el presente artículo deben regularse atendiendo, 
 ### Artículo 90
 .- La Comisión Federal de Electricidad debe contar con un sistema de información pública sobre sus proveedoras y contratistas que debe actualizarse periódicamente y contener la información de los últimos cinco años de los contratos celebrados, así como el historial de cumplimiento de estos, incluyendo, en su caso, la ampliación, incremento o ajuste en dichos contratos.
 El sistema de información señalado debe contar, al menos, con lo siguiente:
+
 I. Datos de las personas proveedoras y contratistas, incluyendo nacionalidad, ubicación, giro, constitución legal, actividad económica y el régimen fiscal, quienes están obligados a reportar cualquier modificación en términos de las disposiciones aplicables;
+
 II. Información de los contratos celebrados con las empresas y el desempeño de estos, incluyendo entre otros aspectos, cumplimiento en tiempo, aplicación de penalizaciones, calidad de los bienes o trabajos;
+
 III. Cumplimiento de normas sostenibles, de seguridad industrial y operativa y responsabilidad laboral;
+
 IV. Certificaciones de cumplimiento de normas técnicas, así como de aseguramiento de calidad;
-V. Resultados de las evaluaciones que en su caso se practiquen a los proveedores y contratistas realizadas por empresas especializadas, y VI. Debida diligencia, en su caso.
+
+V. Resultados de las evaluaciones que en su caso se practiquen a los proveedores y contratistas realizadas por empresas especializadas, y
+
+VI. Debida diligencia, en su caso.
 El Consejo de Administración de la Comisión Federal de Electricidad, a propuesta de la persona titular de la Dirección General, debe determinar las reglas para la operación del sistema y la información que debe incluir de acuerdo con el tamaño de los proveedores y contratistas y su relevancia para las operaciones de las empresas contratantes.
 La información contenida en el sistema puede utilizarse para determinar la participación y precalificación en los procedimientos de contratación, pero su inscripción no puede exigirse como un requisito de participación.
 
@@ -705,8 +1084,12 @@ Responsabilidades Administrativas
 
 ### Artículo 96
 .- La aplicación de la Ley General de Responsabilidades Administrativas a las personas servidoras públicas de la Comisión Federal de Electricidad corresponde a la Unidad de Responsabilidades, que es competente exclusivamente para:
+
 I. Recibir y dar atención a las denuncias y realizar investigaciones con motivo de estas;
-II. Substanciar los procedimientos de responsabilidad administrativa de faltas administrativas calificadas como graves y no graves, e III. Imponer las sanciones respectivas, en términos de las leyes aplicables.
+
+II. Substanciar los procedimientos de responsabilidad administrativa de faltas administrativas calificadas como graves y no graves, e
+
+III. Imponer las sanciones respectivas, en términos de las leyes aplicables.
 La Unidad de Responsabilidades en la Comisión Federal de Electricidad no tiene competencia alguna en materia de control interno y auditoría. Se debe garantizar la independencia orgánica de la Auditoría Interna y de las áreas que en su caso se establezcan para coordinar el sistema de control interno.
 La Unidad de Responsabilidades en la Comisión Federal de Electricidad puede establecer mecanismos preventivos para inhibir la comisión de faltas administrativas.
 
@@ -719,17 +1102,27 @@ Con independencia de las responsabilidades administrativas o penales a que haya 
 
 ### Artículo 98
 .- Las personas servidoras públicas de la Comisión Federal de Electricidad no incurren, individual o conjuntamente, en responsabilidad por los daños o perjuicios que llegara a ocasionar a las mismas, derivados de los actos u omisiones, así como por decisiones que adopte, cuando al actuar de buena fe se actualice cualquiera de los supuestos siguientes:
+
 I. Cumplan con los requisitos para la aprobación de los asuntos respectivos;
-II. Tomen decisiones o voten con base en información proporcionada por las áreas responsables de acuerdo con la materia, o III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender, o los efectos patrimoniales negativos no hayan sido previsibles; en ambos casos, con base en la información disponible al momento de la decisión.
+
+II. Tomen decisiones o voten con base en información proporcionada por las áreas responsables de acuerdo con la materia, o
+
+III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender, o los efectos patrimoniales negativos no hayan sido previsibles; en ambos casos, con base en la información disponible al momento de la decisión.
 
 ### Artículo 99
 .- La Unidad de Responsabilidades puede abstenerse de iniciar un procedimiento o de imponer sanciones administrativas a las personas servidoras públicas, cuando de las investigaciones o revisiones practicadas, advierta que se actualiza cualquiera de los siguientes supuestos:
-I. Que, por una sola vez, por un mismo hecho y en un periodo de un año, la actuación de la persona empleada, en la atención, trámite o resolución de asuntos a su cargo, debe estar referida a una cuestión de criterio o arbitrio opinable o debatible, en la que válidamente puedan sustentarse diversas soluciones, y obren constancias de los elementos que tomó en cuenta el empleado en la decisión que adoptó, o II. Que el acto u omisión fue corregido o subsanado de manera espontánea por la persona servidora pública o implique error manifiesto.
+
+I. Que, por una sola vez, por un mismo hecho y en un periodo de un año, la actuación de la persona empleada, en la atención, trámite o resolución de asuntos a su cargo, debe estar referida a una cuestión de criterio o arbitrio opinable o debatible, en la que válidamente puedan sustentarse diversas soluciones, y obren constancias de los elementos que tomó en cuenta el empleado en la decisión que adoptó, o
+
+II. Que el acto u omisión fue corregido o subsanado de manera espontánea por la persona servidora pública o implique error manifiesto.
 En cualquiera de estos supuestos, los efectos que, en su caso, se hubieren producido, deben haber desaparecido o haberse resarcido.
 
 ### Artículo 100
 .- El personal de la Comisión Federal de Electricidad y sus empresas filiales, que dejen de desempeñar su empleo, cargo o comisión en las mismas, deben observar, hasta dos años después de haber concluido sus funciones, lo siguiente:
-I. En ningún caso, debe aprovecharse su influencia u obtener alguna ventaja derivada de la función que desempeñaba, ya sea para sí o para su cónyuge, parientes consanguíneos o por afinidad, sin límite de grado, o para terceras personas con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que él o las personas antes referidas formen o hayan formado parte, y II. No usar, en provecho propio o de terceras personas, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sean del dominio público.
+
+I. En ningún caso, debe aprovecharse su influencia u obtener alguna ventaja derivada de la función que desempeñaba, ya sea para sí o para su cónyuge, parientes consanguíneos o por afinidad, sin límite de grado, o para terceras personas con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que él o las personas antes referidas formen o hayan formado parte, y
+
+II. No usar, en provecho propio o de terceras personas, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sean del dominio público.
 Las personas servidoras públicas de la Comisión Federal de Electricidad y sus empresas filiales, debe observar la obligación de confidencialidad respecto de la información y documentación a la que tenga acceso con motivo de sus funciones, en los mismos términos a que se refiere el párrafo segundo del artículo 29 de esta Ley.
 
 ### Artículo 101
@@ -747,20 +1140,45 @@ En todo lo no previsto en el presente Capítulo, resulta aplicable la regulació
 
 ### Artículo 104
 .- En la elaboración de su presupuesto anual, la Comisión Federal de Electricidad debe observar lo siguiente:
+
 I. La Secretaría de Hacienda y Crédito Público debe comunicar a la Comisión Federal de Electricidad, a más tardar el 15 de junio de cada año, la estimación preliminar de las variables macroeconómicas para el siguiente ejercicio fiscal, la cual debe ser tomada en consideración por la persona titular de la Dirección General de la Comisión Federal de Electricidad para elaborar, el proyecto de presupuesto consolidado para el año que se presupuesta;
+
 II. La persona titular de la Dirección General de la Comisión Federal de Electricidad debe enviar a la Secretaría de Hacienda y Crédito Público, a más tardar el 15 de julio de cada año, el proyecto de presupuesto consolidado aprobado por el Consejo de Administración, incluyendo un escenario indicativo consolidado de la meta de balance financiero de la propia empresa para los siguientes cinco años y para el año que se presupuesta, así como el techo global de erogaciones para servicios personales;
+
 III. En caso de que la Secretaría de Hacienda y Crédito Público considere que debe ajustarse la meta de balance financiero con y sin inversión física o el techo global de erogaciones para servicios personales, debe integrar su propuesta y los ajustes correspondientes en el Proyecto de Presupuesto de Egresos de la Federación, comunicándolo a la Comisión Federal de Electricidad.
-En la exposición de motivos del citado Proyecto debe motivarse la propuesta, así como los ajustes y acompañar la propuesta original de la Comisión Federal de Electricidad, y IV. La Cámara de Diputados, al aprobar el Presupuesto de Egresos de la Federación, debe autorizar la meta de balance financiero y el techo de servicios personales de la Comisión Federal de Electricidad.
+En la exposición de motivos del citado Proyecto debe motivarse la propuesta, así como los ajustes y acompañar la propuesta original de la Comisión Federal de Electricidad, y
+
+IV. La Cámara de Diputados, al aprobar el Presupuesto de Egresos de la Federación, debe autorizar la meta de balance financiero y el techo de servicios personales de la Comisión Federal de Electricidad.
 
 ### Artículo 105
 .- La Comisión Federal de Electricidad ejerce su presupuesto conforme a lo siguiente, sin requerir autorización de la Secretaría de Hacienda y Crédito Público:
+
 I. El Consejo de Administración de la Comisión Federal de Electricidad, previa opinión del Comité de Estrategia e Inversiones debe autorizar el calendario del presupuesto y sus modificaciones;
-II. El Consejo de Administración, previa opinión del Comité de Estrategia e Inversiones, debe autorizar el presupuesto a los programas y proyectos de inversión de la Comisión Federal de Electricidad, de acuerdo con lo siguiente: a) La Comisión Federal de Electricidad debe contar, conforme a los lineamientos que apruebe su Consejo de Administración, con un mecanismo de planeación que se actualizará anualmente, acorde al Programa de Desarrollo de la Comisión Federal de Electricidad al que se refiere el artículo 16 de esta Ley, en el cual se establezcan al menos las necesidades de inversión a corto, mediano y largo plazos, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos; b) Los proyectos en los que se ejerza el gasto de inversión debe incrementar el valor patrimonial de la empresa; c) Los proyectos cuya ejecución comprenda más de un ejercicio fiscal son incluidos, según corresponda, en los capítulos específicos del proyecto de Presupuesto de Egresos de la Federación, relativos a los compromisos y a las erogaciones plurianuales para proyectos de inversión, a que se refieren, respectivamente, los incisos g) y ñ) de la fracción II del artículo 41 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y su evolución se incluyen en los informes trimestrales señalados en la fracción VI de este artículo, y d) La Comisión Federal de Electricidad debe contar, conforme a los lineamientos que aprueba su Consejo de Administración, con un mecanismo permanente de evaluación de sus programas y proyectos de inversión, durante su ejecución y una vez que ésta concluye. Dicho mecanismo debe ser independiente al señalado en el inciso a) anterior;
+
+II. El Consejo de Administración, previa opinión del Comité de Estrategia e Inversiones, debe autorizar el presupuesto a los programas y proyectos de inversión de la Comisión Federal de Electricidad, de acuerdo con lo siguiente:
+
+a) La Comisión Federal de Electricidad debe contar, conforme a los lineamientos que apruebe su Consejo de Administración, con un mecanismo de planeación que se actualizará anualmente, acorde al Programa de Desarrollo de la Comisión Federal de Electricidad al que se refiere el artículo 16 de esta Ley, en el cual se establezcan al menos las necesidades de inversión a corto, mediano y largo plazos, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos;
+
+b) Los proyectos en los que se ejerza el gasto de inversión debe incrementar el valor patrimonial de la empresa;
+
+c) Los proyectos cuya ejecución comprenda más de un ejercicio fiscal son incluidos, según corresponda, en los capítulos específicos del proyecto de Presupuesto de Egresos de la Federación, relativos a los compromisos y a las erogaciones plurianuales para proyectos de inversión, a que se refieren, respectivamente, los incisos g) y ñ) de la fracción II del artículo 41 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y su evolución se incluyen en los informes trimestrales señalados en la fracción VI de este artículo, y
+
+d) La Comisión Federal de Electricidad debe contar, conforme a los lineamientos que aprueba su Consejo de Administración, con un mecanismo permanente de evaluación de sus programas y proyectos de inversión, durante su ejecución y una vez que ésta concluye. Dicho mecanismo debe ser independiente al señalado en el inciso a) anterior;
+
 III. No les son aplicables las disposiciones de austeridad contenidas en el Presupuesto de Egresos de la Federación ni aquellas que, en su caso, se emitan para la Administración Pública Federal. Sin embargo, se deben implementar lineamientos y programas de austeridad en el gasto y uso de recursos que permitan generar economías y mejorar su balance financiero, sin menoscabo de la eficiencia en su operación, conforme a las disposiciones que apruebe el Consejo de Administración de la Comisión Federal de Electricidad;
-IV. La persona titular de la Dirección General de la Comisión Federal de Electricidad debe autorizar, en los términos que establezca el Consejo de Administración los aspectos siguientes: a) La Comisión Federal de Electricidad debe contar, conforme a los lineamientos que apruebe su Consejo de Administración, con un mecanismo de planeación de los programas y proyectos de inversión en el cual se establezcan al menos las necesidades de inversión a corto, mediano y largo plazos, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos: 1. La celebración de contratos plurianuales, y 2. La convocatoria, adjudicación, en su caso, formalización de contratos cuya vigencia inicie en el ejercicio fiscal siguiente, con base en los anteproyectos de presupuesto, y b) La constitución de fideicomisos y la celebración de mandatos o contratos análogos en los que se aporten recursos públicos. Es responsabilidad de la persona titular de la Dirección General de la Comisión Federal de Electricidad, que en los informes trimestrales a que se refiere la fracción VI del presente artículo y en la Cuenta Pública se incluya un reporte del cumplimiento de la misión y fines de dichos instrumentos, así como de los recursos ejercidos para tal efecto. Este reporte debe estar a disposición del público en general en su página de Internet.
+
+IV. La persona titular de la Dirección General de la Comisión Federal de Electricidad debe autorizar, en los términos que establezca el Consejo de Administración los aspectos siguientes:
+
+a) La Comisión Federal de Electricidad debe contar, conforme a los lineamientos que apruebe su Consejo de Administración, con un mecanismo de planeación de los programas y proyectos de inversión en el cual se establezcan al menos las necesidades de inversión a corto, mediano y largo plazos, mediante criterios de evaluación que permitan establecer prioridades entre los proyectos: 1. La celebración de contratos plurianuales, y 2. La convocatoria, adjudicación, en su caso, formalización de contratos cuya vigencia inicie en el ejercicio fiscal siguiente, con base en los anteproyectos de presupuesto, y
+
+b) La constitución de fideicomisos y la celebración de mandatos o contratos análogos en los que se aporten recursos públicos. Es responsabilidad de la persona titular de la Dirección General de la Comisión Federal de Electricidad, que en los informes trimestrales a que se refiere la fracción VI del presente artículo y en la Cuenta Pública se incluya un reporte del cumplimiento de la misión y fines de dichos instrumentos, así como de los recursos ejercidos para tal efecto. Este reporte debe estar a disposición del público en general en su página de Internet.
 La persona titular de la Dirección General de la Comisión Federal de Electricidad puede delegar las facultades señaladas en esta fracción, en una persona servidora pública del nivel jerárquico inmediato inferior;
+
 V. Determinar los ajustes que correspondan en sus presupuestos en caso de disminución de ingresos, para cumplir con la meta de balance financiero aprobada;
-VI. Deben enviar a la Secretaría de Hacienda y Crédito Público, para la integración de los informes mensuales y trimestrales a que hace referencia el artículo 107 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como para la integración de la Cuenta Pública y otros informes de rendición de cuentas, la información presupuestaria, de endeudamiento y financiera, en los formatos y términos que dicha Secretaría establezca, exclusivamente para efectos de la presentación homogénea de dicha información, y VII. Con la aprobación del Consejo de Administración, la Comisión Federal de Electricidad puede utilizar sus ingresos propios excedentes para incrementar su gasto de inversión física o para cubrir, entre otras obligaciones, el pago de deuda o pasivos a su cargo.
+
+VI. Deben enviar a la Secretaría de Hacienda y Crédito Público, para la integración de los informes mensuales y trimestrales a que hace referencia el artículo 107 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como para la integración de la Cuenta Pública y otros informes de rendición de cuentas, la información presupuestaria, de endeudamiento y financiera, en los formatos y términos que dicha Secretaría establezca, exclusivamente para efectos de la presentación homogénea de dicha información, y
+
+VII. Con la aprobación del Consejo de Administración, la Comisión Federal de Electricidad puede utilizar sus ingresos propios excedentes para incrementar su gasto de inversión física o para cubrir, entre otras obligaciones, el pago de deuda o pasivos a su cargo.
 
 ### Artículo 106
 .- La Comisión Federal de Electricidad no está sujeta a la Ley General de Contabilidad Gubernamental, por lo que deben aplicarse las normas internacionales de información financiera.
@@ -772,18 +1190,52 @@ Sólo con la autorización de la Secretaría de Hacienda y Crédito Público, pu
 
 ### Artículo 108
 .- La Comisión Federal de Electricidad se debe sujetar a las siguientes disposiciones en materia de servicios personales:
-I. Su respectivo presupuesto debe incluir en una sección específica, la totalidad de las erogaciones correspondientes al gasto en servicios personales, el cual comprende: a) Las remuneraciones que correspondan a las personas trabajadoras de la Comisión Federal de Electricidad por concepto de percepciones ordinarias y extraordinarias; b) Las aportaciones de seguridad social; c) Las obligaciones fiscales inherentes a dichas remuneraciones, y d) Las previsiones salariales y económicas para cubrir, en caso de ser aprobados, los incrementos salariales, la creación de plazas y las demás medidas de índole laboral;
+
+I. Su respectivo presupuesto debe incluir en una sección específica, la totalidad de las erogaciones correspondientes al gasto en servicios personales, el cual comprende:
+
+a) Las remuneraciones que correspondan a las personas trabajadoras de la Comisión Federal de Electricidad por concepto de percepciones ordinarias y extraordinarias;
+
+b) Las aportaciones de seguridad social;
+
+c) Las obligaciones fiscales inherentes a dichas remuneraciones, y
+
+d) Las previsiones salariales y económicas para cubrir, en caso de ser aprobados, los incrementos salariales, la creación de plazas y las demás medidas de índole laboral;
+
 II. El Consejo de Administración debe analizar y, en su caso, autorizar, con base en la propuesta que realice su Comité de Recursos Humanos, Remuneraciones y Austeridad, los tabuladores de remuneraciones y las políticas de recursos humanos de la Comisión Federal de Electricidad;
+
 III. Las contribuciones que se causen por concepto de remuneraciones a cargo de las personas trabajadoras de la Comisión Federal de Electricidad deben retenerse y enterarse a las autoridades fiscales respectivas de conformidad con la legislación aplicable y no pueden ser pagadas por las empresas en calidad de prestación, percepción extraordinaria o cualquier otro concepto;
+
 IV. El Consejo de Administración de la Comisión Federal de Electricidad debe revisar y, en su caso, autorizar, con sujeción al presupuesto de servicios personales aprobado, su estructura orgánica.
 Los movimientos a sus estructuras orgánicas, ocupacionales y salariales deben realizarse mediante adecuaciones presupuestarias compensadas, las que en ningún caso deben incrementar el presupuesto regularizable para servicios personales del ejercicio fiscal en curso ni de los subsecuentes, de acuerdo con los principios y lineamientos de austeridad a que se refiere la presente Ley;
+
 V. La creación, sustitución de plazas y las nuevas contrataciones sólo proceden cuando se cuente con los recursos aprobados para cubrir todos los gastos inherentes, incluyendo las obligaciones por concepto de impuestos, aportaciones de seguridad social y demás pagos y prestaciones que por ley deban cubrirse. Los recursos para cubrir obligaciones inherentes a las contrataciones que tengan un impacto futuro en el gasto deben constituirse en reservas que garanticen que dichas obligaciones estén en todo momento plenamente financiadas. Lo anterior, de acuerdo con los principios y lineamientos de austeridad a que se refiere la presente Ley;
+
 VI. Las percepciones extraordinarias que, en su caso, se cubran por concepto de estímulos, reconocimientos, recompensas, incentivos, y cualquier pago equivalente a los mismos, se pueden otorgar de manera excepcional a las personas trabajadoras de la Comisión Federal de Electricidad, siempre y cuando cuente con recursos aprobados específicamente para dicho fin y condicionado al cumplimiento de compromisos de resultados sujetos a evaluación.
 Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso pueden formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
+
 VII. Las personas contratadas bajo el régimen de prestación de servicios profesionales por honorarios, en ningún caso deben recibir las remuneraciones que corresponden a las personas trabajadoras de la Comisión Federal de Electricidad. Dichas contrataciones se realizan en términos de la legislación civil y los montos totales que se eroguen por los servicios contratados se reportan en los informes trimestrales, de acuerdo con lo establecido en el artículo 107 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
-VIII. Se debe difundir de manera permanente en su página de Internet y actualizar trimestralmente la siguiente información: a) El contrato colectivo de trabajo y el reglamento del personal de confianza; b) Los tabuladores aprobados, con el desglose de todos los conceptos y montos de las percepciones ordinarias y extraordinarias; c) Las erogaciones que realicen por concepto de jubilaciones y pensiones; así como las actualizaciones del costo actuarial de su pasivo laboral; d) Los préstamos o créditos, así como las tasas aplicables, que en su caso otorguen a sus trabajadores, jubilados y pensionados; e) Los apoyos para el desempeño de la función y las demás erogaciones que, en su caso, se otorguen a las personas trabajadoras, que no forman parte de su remuneración; f) Los montos mensuales erogados por contrataciones temporales o eventuales; g) Los lineamientos aprobados por el Consejo de Administración de la Comisión Federal de Electricidad, con base en los cuales se otorgan y cubren los conceptos descritos en los incisos anteriores, y h) Los montos erogados en el trimestre que corresponda por cada uno de los conceptos descritos en los incisos b) a f) anteriores.
+
+VIII. Se debe difundir de manera permanente en su página de Internet y actualizar trimestralmente la siguiente información:
+
+a) El contrato colectivo de trabajo y el reglamento del personal de confianza;
+
+b) Los tabuladores aprobados, con el desglose de todos los conceptos y montos de las percepciones ordinarias y extraordinarias;
+
+c) Las erogaciones que realicen por concepto de jubilaciones y pensiones; así como las actualizaciones del costo actuarial de su pasivo laboral;
+
+d) Los préstamos o créditos, así como las tasas aplicables, que en su caso otorguen a sus trabajadores, jubilados y pensionados;
+
+e) Los apoyos para el desempeño de la función y las demás erogaciones que, en su caso, se otorguen a las personas trabajadoras, que no forman parte de su remuneración;
+
+f) Los montos mensuales erogados por contrataciones temporales o eventuales;
+
+g) Los lineamientos aprobados por el Consejo de Administración de la Comisión Federal de Electricidad, con base en los cuales se otorgan y cubren los conceptos descritos en los incisos anteriores, y
+
+h) Los montos erogados en el trimestre que corresponda por cada uno de los conceptos descritos en los incisos b) a f) anteriores.
 Lo anterior, sin perjuicio de la información que, en términos de las disposiciones jurídicas aplicables en la materia, estén obligados a publicar en dicha página de Internet.
-Asimismo, la Comisión Federal de Electricidad debe informar sobre las donaciones o cualquier aportación que realice a personas físicas o morales, cualquiera que sea su naturaleza jurídica o su objeto, y IX. Debe remitir exclusivamente para conocimiento a la Secretaría de Hacienda y Crédito Público, trimestralmente, la información relativa a la estructura orgánica y la plantilla laboral.
+Asimismo, la Comisión Federal de Electricidad debe informar sobre las donaciones o cualquier aportación que realice a personas físicas o morales, cualquiera que sea su naturaleza jurídica o su objeto, y
+
+IX. Debe remitir exclusivamente para conocimiento a la Secretaría de Hacienda y Crédito Público, trimestralmente, la información relativa a la estructura orgánica y la plantilla laboral.
 
 ### Artículo 109
 .- La Comisión Federal de Electricidad puede realizar proyectos de infraestructura productiva de largo plazo en términos de los artículos 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 18, párrafo tercero, de la Ley Federal de Deuda Pública.
@@ -796,15 +1248,38 @@ Deuda
 
 ### Artículo 111
 .- En el manejo de sus obligaciones constitutivas de deuda pública, la Comisión Federal de Electricidad se debe sujetar a lo siguiente:
+
 I. Enviar anualmente, previa aprobación de su Consejo de Administración, su propuesta global de financiamiento a la Secretaría de Hacienda y Crédito Público a efecto de que se incorpore en un apartado específico de la iniciativa de Ley de Ingresos de la Federación que el Ejecutivo Federal someta al Congreso de la Unión, conforme al artículo 10 de la Ley Federal de Deuda Pública;
+
 II. La Comisión Federal de Electricidad puede realizar, sin requerir autorización de la Secretaría de Hacienda y Crédito Público, negociaciones oficiales, gestiones informales o exploratorias sobre la posibilidad de acudir al mercado interno y externo de dinero y capitales y contratar los financiamientos internos y externos que requiera;
-III. La Comisión Federal de Electricidad es responsable de que: a) Las obligaciones que contrate no excedan su capacidad de pago; b) Los recursos que obtenga sean destinados correctamente conforme a las disposiciones jurídicas aplicables; c) Se hagan los pagos oportunamente; d) Se supervise el desarrollo de su programa financiero particular, y e) Se cumpla con los criterios de sostenibilidad convenidos en los contratos respectivos.
+
+III. La Comisión Federal de Electricidad es responsable de que:
+
+a) Las obligaciones que contrate no excedan su capacidad de pago;
+
+b) Los recursos que obtenga sean destinados correctamente conforme a las disposiciones jurídicas aplicables;
+
+c) Se hagan los pagos oportunamente;
+
+d) Se supervise el desarrollo de su programa financiero particular, y
+
+e) Se cumpla con los criterios de sostenibilidad convenidos en los contratos respectivos.
+
 IV. Las obligaciones constitutivas de deuda pública por ningún motivo y en ningún caso deben otorgar o conceder a sus tenedores, derechos sobre la propiedad, control o patrimonio de la Comisión Federal de Electricidad;
+
 V. Las obligaciones constitutivas de deuda pública de la Comisión Federal de Electricidad no son obligaciones garantizadas por el Estado Mexicano;
-VI. La Comisión Federal de Electricidad se debe coordinar con la Secretaría de Hacienda y Crédito Público en sus operaciones de financiamiento, conforme a lo siguiente: a) Una vez aprobados los montos a que se refiere la fracción I anterior, la Secretaría de Hacienda y Crédito Público y la Comisión Federal de Electricidad deben acordar la calendarización de las operaciones de financiamiento, sin que se incremente el costo de financiamiento del resto del sector público, o se reduzcan las fuentes de financiamiento de éste, y b) Para realizar operaciones de financiamiento adicionales o que modifiquen las acordadas conforme al inciso anterior, la Comisión Federal de Electricidad debe notificar a la Secretaría de Hacienda y Crédito Público, con al menos quince días hábiles de anticipación, respecto de cada operación que pretenda realizar la propia empresa.
+
+VI. La Comisión Federal de Electricidad se debe coordinar con la Secretaría de Hacienda y Crédito Público en sus operaciones de financiamiento, conforme a lo siguiente:
+
+a) Una vez aprobados los montos a que se refiere la fracción I anterior, la Secretaría de Hacienda y Crédito Público y la Comisión Federal de Electricidad deben acordar la calendarización de las operaciones de financiamiento, sin que se incremente el costo de financiamiento del resto del sector público, o se reduzcan las fuentes de financiamiento de éste, y
+
+b) Para realizar operaciones de financiamiento adicionales o que modifiquen las acordadas conforme al inciso anterior, la Comisión Federal de Electricidad debe notificar a la Secretaría de Hacienda y Crédito Público, con al menos quince días hábiles de anticipación, respecto de cada operación que pretenda realizar la propia empresa.
 La Secretaría de Hacienda y Crédito Público puede ordenar que se posponga la operación de que se trate, cuando verifica cualquiera de los supuestos señalados en el inciso a) anterior, hasta en tanto se superen todas las condiciones que motivaron la decisión de postergar.
 En caso de que la Secretaría de Hacienda y Crédito Público no manifieste su decisión dentro de los diez días hábiles contados a partir del aviso a que se refiere el primer párrafo de este inciso, se entiende que la operación respectiva se puede llevar a cabo;
-VII. La Comisión Federal de Electricidad debe proporcionar a la Secretaría de Hacienda y Crédito Público, toda aquella información que le sea requerida por dicha Secretaría, en la materia a que hace referencia el presente Capítulo y la Ley Federal de Deuda Pública, y VIII. Para efectos de la fracción anterior, y con excepción de lo que al efecto establece el artículo 105, fracción VI, la Comisión Federal de Electricidad debe presentar los informes en materia de deuda pública en los formatos y términos que la Secretaría de Hacienda y Crédito Público establezca, exclusivamente para efectos de la presentación homogénea de dicha información.
+
+VII. La Comisión Federal de Electricidad debe proporcionar a la Secretaría de Hacienda y Crédito Público, toda aquella información que le sea requerida por dicha Secretaría, en la materia a que hace referencia el presente Capítulo y la Ley Federal de Deuda Pública, y
+
+VIII. Para efectos de la fracción anterior, y con excepción de lo que al efecto establece el artículo 105, fracción VI, la Comisión Federal de Electricidad debe presentar los informes en materia de deuda pública en los formatos y términos que la Secretaría de Hacienda y Crédito Público establezca, exclusivamente para efectos de la presentación homogénea de dicha información.
 
 ### Artículo 112
 .- Corresponde al Consejo de Administración de la Comisión Federal de Electricidad aprobar, a propuesta de la persona titular de la Dirección General, las características generales y políticas para la contratación de obligaciones constitutivas de deuda pública, directas y contingentes, a cargo de la empresa.
@@ -817,8 +1292,12 @@ Sostenibilidad
 
 ### Artículo 114
 .- La Comisión Federal de Electricidad y, en su caso, sus empresas filiales deben elaborar un programa para reducir el impacto ambiental de sus actividades y orientar sus esfuerzos hacia un desempeño más eficiente de sus operaciones en el que se debe procurar:
+
 I. La reducción de emisiones de gases de efecto invernadero, mediante el uso de fuentes de energía renovables y de energías limpias en el desarrollo de sus actividades empresariales, económicas, industriales y comerciales en términos de su objeto;
-II. La transición hacia una economía baja en carbono y el cumplimiento de los acuerdos internacionales de los que México es parte, y III. El monitoreo de su progreso y realizar las medidas necesarias para su cumplimiento.
+
+II. La transición hacia una economía baja en carbono y el cumplimiento de los acuerdos internacionales de los que México es parte, y
+
+III. El monitoreo de su progreso y realizar las medidas necesarias para su cumplimiento.
 
 ### Artículo 115
 .- La Comisión Federal de Electricidad y sus empresas filiales deben contribuir al desarrollo sostenible y al bienestar social de las comunidades en las que realicen sus actividades, operaciones o servicios necesarios para el cumplimiento de su objeto, mediante acciones de responsabilidad social y estrategias de vinculación con las comunidades y autoridades estatales y municipales.
@@ -859,10 +1338,16 @@ TÍTULO QUINTO TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
 ### Artículo 126
 .- La persona titular de la Dirección General de la Comisión Federal de Electricidad debe presentar, a más tardar en julio de cada año, para aprobación del Consejo de Administración y, por conducto de la persona que lo preside, un informe a la persona titular del Ejecutivo Federal y al Congreso de la Unión. Este informe debe contener como mínimo lo siguiente:
+
 I. Un reporte de la persona titular de la Dirección General sobre la marcha de la Comisión Federal de Electricidad y sus empresas filiales y, sobre los principales proyectos existentes. Este reporte se debe realizar por línea o rama de negocios, empleando indicadores o parámetros usuales a nivel internacional para medir correctamente los resultados, vinculándolos a los objetivos y metas fijadas en el Programa de Desarrollo de la Comisión Federal de Electricidad;
+
 II. La explicación y declaración de las principales políticas y criterios contables y de información seguidos en la preparación de la información financiera;
+
 III. Los estados financieros que muestren la situación financiera de la Comisión Federal de Electricidad durante y al cierre del ejercicio, sus cambios y resultados, así como la demás información necesaria para completar o aclarar los datos suministrados con dichos estados;
-IV. Un reporte sobre el ejercicio de su presupuesto, en el que se incluyan las desviaciones en montos, tiempo y alcance de ejecución de los contratos que se llevan a cabo, y V. El Consejo de Administración debe evaluar la ejecución de los programas anuales de la Comisión Federal de Electricidad.
+
+IV. Un reporte sobre el ejercicio de su presupuesto, en el que se incluyan las desviaciones en montos, tiempo y alcance de ejecución de los contratos que se llevan a cabo, y
+
+V. El Consejo de Administración debe evaluar la ejecución de los programas anuales de la Comisión Federal de Electricidad.
 El informe se debe suscribir por la persona titular de la Dirección General de la Comisión Federal de Electricidad y por la persona que preside el Consejo de Administración, y debe difundirse en la página de Internet de la Comisión Federal de Electricidad.
 
 ### Artículo 127
@@ -880,9 +1365,13 @@ La Comisión Federal de Electricidad debe entregar a la Secretaría de Energía 
 
 ### Artículo 130
 .- La evaluación anual de la Comisión Federal de Electricidad que realice sobre el desempeño de la empresa y de su Consejo de Administración, incluyendo sus comités, debe estar a cargo de una persona Comisaria con las funciones siguientes:
+
 I. Formular anualmente una evaluación global de la marcha y desempeño de la Comisión Federal de Electricidad, que incluye un análisis sobre la situación operativa, programática y financiera de la empresa, así como de la estructura organizacional, la unidad de procesos y la estructura contable.
 El informe señalado se debe presentar a la Cámara de Diputados y a la persona titular del Ejecutivo Federal a más tardar el 30 de junio de cada año;
-II. Plantear recomendaciones puntuales al Consejo de Administración y a la persona titular de la Dirección General de la Comisión Federal de Electricidad, y III. Solicitar a la persona titular de la Dirección General de la Comisión Federal de Electricidad toda la información necesaria para rendir el informe a que se refiere la fracción I anterior.
+
+II. Plantear recomendaciones puntuales al Consejo de Administración y a la persona titular de la Dirección General de la Comisión Federal de Electricidad, y
+
+III. Solicitar a la persona titular de la Dirección General de la Comisión Federal de Electricidad toda la información necesaria para rendir el informe a que se refiere la fracción I anterior.
 La persona Comisaria debe ser designada por la persona titular de la Secretaría Anticorrupción y Buen Gobierno.
 La contratación de la persona Comisaria no puede hacerse por periodos mayores de cinco años y se debe cubrir con cargo a la Comisión Federal de Electricidad.
 La persona Comisaria debe cumplir los mismos requisitos establecidos para ser persona consejera independiente, además de no haber sido integrante del Consejo de Administración de la Comisión Federal de Electricidad en los cinco años previos a su designación.

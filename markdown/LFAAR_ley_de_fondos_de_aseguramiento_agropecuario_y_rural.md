@@ -19,35 +19,63 @@ TÍTULO PRELIMINAR DISPOSICIONES GENERALES Capítulo Único
 
 ### Artículo 1o
 . Esta Ley es de orden público y observancia general en todo el territorio nacional. Tiene por objeto crear y regular la organización, funcionamiento y operación del Sistema de Fondos de Aseguramiento Agropecuario y Rural, que se constituirá por los Fondos de Aseguramiento y por sus Organismos Integradores, que se registren ante la Secretaría de Hacienda y Crédito Público en los términos de esta Ley, con los siguientes propósitos específicos:
+
 I. Fomentar, promover y facilitar el servicio de aseguramiento por parte de los Fondos de Aseguramiento Agropecuario y Rural;
+
 II. Regular las actividades y operaciones que los Fondos de Aseguramiento Agropecuario y Rural podrán realizar, así como establecer el servicio de Asesoría Técnica y Seguimiento de Operaciones que deberán recibir, con el propósito de lograr su sano y equilibrado desarrollo;
+
 III. Regular la organización, funcionamiento y operaciones de los Organismos Integradores de los Fondos de Aseguramiento Agropecuario y Rural;
-IV. Otorgar certeza y seguridad jurídica en la protección de los intereses de quienes celebran operaciones con dichos Fondos de Aseguramiento Agropecuario y Rural, y V. Establecer los términos en que se llevará a cabo el seguimiento de operaciones del Sistema de Fondos de Aseguramiento Agropecuario y Rural.
+
+IV. Otorgar certeza y seguridad jurídica en la protección de los intereses de quienes celebran operaciones con dichos Fondos de Aseguramiento Agropecuario y Rural, y
+
+V. Establecer los términos en que se llevará a cabo el seguimiento de operaciones del Sistema de Fondos de Aseguramiento Agropecuario y Rural.
 La Secretaría de Hacienda y Crédito Público será la dependencia competente para interpretar en sus aspectos administrativos los preceptos de esta Ley y en general, para todo cuanto se refiere a los sujetos de la misma. Para estos efectos, la Secretaría podrá solicitar, cuando así lo considere conveniente, la opinión de algún organismo, dependencia o entidad en razón de la naturaleza de los casos que lo ameriten.
 
 ### Artículo 2o
 . Para los efectos de esta Ley, se entenderá por:
+
 I. Secretaría, a la Secretaría de Hacienda y Crédito Público;
+
 II. Comisión, a la Comisión Nacional de Seguros y Fianzas;
+
 III. SAGARPA, a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
 IV. Fondo de Aseguramiento, en singular o plural, son las sociedades constituidas como Fondos de Aseguramiento Agropecuario y Rural, en los términos de esta Ley y de lo previsto en el artículo 13 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros;
+
 V. Agroasemex, a AGROASEMEX, S.A., Institución Nacional de Seguros;
+
 VI. Organismo Integrador, en singular o plural, a las Asociaciones de Fondos de Aseguramiento que se constituyan en los ámbitos Nacional, Estatal y Local, de conformidad con lo previsto en esta Ley;
+
 VII. Organismo Integrador Nacional, al Organismo Integrador Nacional de Fondos de Aseguramiento Agropecuario y Rural formado por Organismos Integradores Estatales, de conformidad con lo previsto en esta Ley;
+
 VIII. Organismo Integrador Estatal, en singular o plural, a las Asociaciones de Fondos de Aseguramiento formadas por Organismos Integradores Locales y/o por Fondos de Aseguramiento de una Entidad Federativa, de conformidad con lo previsto en esta Ley;
+
 IX. Organismo Integrador Local, en singular o plural, a las Asociaciones de Fondos de Aseguramiento formadas por Fondos de Aseguramiento de una misma zona al interior de una Entidad Federativa, de conformidad con lo previsto en esta Ley;
+
 X. Socios, a las personas físicas o morales que participen como socios de los Fondos de Aseguramiento en los términos de esta Ley;
+
 XI. Líneas de Operación, a las operaciones y ramos de seguros que los Fondos de Aseguramiento podrán practicar al amparo del registro ante la Secretaría, de conformidad con esta Ley, la Ley General de Instituciones y Sociedades Mutualistas de Seguros y con las Reglas Generales que emita la Secretaría;
+
 XII. Sistema de Protección, al sistema integrado por el Fondo de Protección y por los Fondos de Retención Común de Riesgos, en los términos de esta Ley;
+
 XIII. Fondo de Protección, a los recursos constituidos por las aportaciones de los Fondos de Aseguramiento y de otros aportantes, destinados a los fines establecidos en esta Ley;
+
 XIV. Fondo de Retención Común de Riesgos, en singular o plural, a los recursos constituidos por las aportaciones de los Fondos de Aseguramiento y de otros aportantes, destinados a los fines establecidos en esta Ley;
+
 XV. Comité Técnico, a los comités de los Organismos Integradores, constituidos para la administración del Fondo de Protección y de los Fondos de Retención Común de Riesgos;
-XVI. Comité de Asesoría Técnica y Seguimiento de Operaciones, al comité de los Organismos Integradores encargados de planear, coordinar, dirigir y evaluar la prestación de los servicios que ofrezcan a sus afiliados, y XVII. Coaseguro, a la participación por acuerdo entre un Fondo de Aseguramiento y una institución de seguros en un mismo riesgo.
+
+XVI. Comité de Asesoría Técnica y Seguimiento de Operaciones, al comité de los Organismos Integradores encargados de planear, coordinar, dirigir y evaluar la prestación de los servicios que ofrezcan a sus afiliados, y
+
+XVII. Coaseguro, a la participación por acuerdo entre un Fondo de Aseguramiento y una institución de seguros en un mismo riesgo.
 
 ### Artículo 3o
 . Los Fondos de Aseguramiento son las sociedades constituidas en los términos de esta Ley y tendrán por objeto ofrecer protección mutualista y solidaria a sus socios a través de operaciones activas de seguros y coaseguros. Las coberturas que se ofrezcan se circunscribirán a lo siguiente:
+
 I. En las operaciones de daños, al ramo agrícola y de animales y a aquellos ramos que específicamente registre ante la Secretaría para el aseguramiento de los bienes conexos a la actividad agropecuaria, rural y patrimonial;
-II. En operaciones de vida, a coberturas con sumas aseguradas limitadas para atender esquemas de saldo deudor y de vida para familias campesinas, y III. En las operaciones de accidentes y enfermedades de sus socios, el ramo de accidentes personales.
+
+II. En operaciones de vida, a coberturas con sumas aseguradas limitadas para atender esquemas de saldo deudor y de vida para familias campesinas, y
+
+III. En las operaciones de accidentes y enfermedades de sus socios, el ramo de accidentes personales.
 Para el caso de las operaciones de vida, las coberturas deberán practicarse por Fondos de Aseguramiento exclusivamente constituidos para este efecto.
 En el otorgamiento de coberturas para el ámbito rural, se incluyen todas las Líneas de Operación que ofrezcan protección a la población rural, en sus bienes y personas y en sus actividades productivas, comerciales, de servicios o de otro tipo, en los términos de este artículo.
 
@@ -59,40 +87,83 @@ En el otorgamiento de coberturas para el ámbito rural, se incluyen todas las L�
 
 ### Artículo 6o
 . En lo no previsto por la presente Ley, se aplicará a los sujetos de la misma en forma supletoria, lo dispuesto en las siguientes leyes:
+
 I. La Ley General de Instituciones y Sociedades Mutualistas de Seguros;
+
 II. La Legislación Mercantil;
+
 IV. El Código Nacional de Procedimientos Civiles y Familiares.
 Fracción reformada DOF 14-11-2025 Los principios establecidos en la Ley sobre el Contrato de Seguro serán aplicables a las operaciones de los Fondos de Aseguramiento, en lo compatible con su objeto consistente en la protección mutualista y solidaria a sus socios.
 TÍTULO PRIMERO DE LOS FONDOS DE ASEGURAMIENTO Capítulo Primero De su Constitución y Registro
 
 ### Artículo 7o
 . La constitución de un Fondo de Aseguramiento deberá realizarse conforme a las siguientes bases:
+
 I. Deberá suscribirse el contrato social y los Estatutos, mismos que deberán contenerse en escritura pública constitutiva en sujeción a las disposiciones de esta Ley, estipulando su carácter de sociedad sin fines de lucro, su personalidad jurídica y su patrimonio;
+
 II. El objeto social se limitará al funcionamiento como Fondo de Aseguramiento, en los términos de esta Ley;
+
 III. Podrá estipularse que la duración de la sociedad será indefinida;
+
 IV. El domicilio de la sociedad deberá estar siempre dentro del territorio nacional;
+
 V. El nombre de la sociedad deberá expresar su carácter de Fondo de Aseguramiento;
-VI. En la escritura pública constitutiva deberá incluirse la relación de socios fundadores, así como de administradores, principales directivos y personas que integrarán los órganos a que se refiere esta Ley, y VII. Señalar los nombres, nacionalidad y domicilios de los asociados, consejeros y funcionarios, quienes deben cumplir con los requisitos establecidos en esta Ley.
+
+VI. En la escritura pública constitutiva deberá incluirse la relación de socios fundadores, así como de administradores, principales directivos y personas que integrarán los órganos a que se refiere esta Ley, y
+
+VII. Señalar los nombres, nacionalidad y domicilios de los asociados, consejeros y funcionarios, quienes deben cumplir con los requisitos establecidos en esta Ley.
 
 ### Artículo 8o
 . El registro para operar como Fondo de Aseguramiento será otorgado por la Secretaría, para lo cual se seguirá el procedimiento que a continuación se señala:
+
 I. Se deberá presentar solicitud, de conformidad con lo señalado en el artículo 9o. de esta Ley, ante el Organismo Integrador Estatal correspondiente o, de no existir, ante el Organismo Integrador Nacional, quien elaborará un dictamen respecto de la procedencia de dicha solicitud;
-II. La Secretaría resolverá las solicitudes de registro, las cuales deberán acompañarse de: a) El dictamen favorable del Organismo Integrador respectivo; b) El testimonio de la escritura pública constitutiva, conteniendo los Estatutos que deberán apegarse a las disposiciones y mecanismos que la presente Ley establece, así como su inscripción en el Registro Público de la Propiedad y del Comercio, y c) El programa general de operación, que permita a la Secretaría evaluar si podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos: i) las regiones y municipios en las que pretenda operar; ii) un estudio de viabilidad financiera para cada tipo de operaciones y ramos de seguros que pretenda operar; incluyendo las bases para retención de riesgos que asume el Fondo de Aseguramiento con cargo a sus reservas, así como su cesión en reaseguro y/o coaseguro en cada caso; iii) las bases para la aplicación de remanentes; y, iv) las bases relativas a su organización y control interno.
+
+II. La Secretaría resolverá las solicitudes de registro, las cuales deberán acompañarse de:
+
+a) El dictamen favorable del Organismo Integrador respectivo;
+
+b) El testimonio de la escritura pública constitutiva, conteniendo los Estatutos que deberán apegarse a las disposiciones y mecanismos que la presente Ley establece, así como su inscripción en el Registro Público de la Propiedad y del Comercio, y
+
+c) El programa general de operación, que permita a la Secretaría evaluar si podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos:
+
+i) las regiones y municipios en las que pretenda operar; ii) un estudio de viabilidad financiera para cada tipo de operaciones y ramos de seguros que pretenda operar; incluyendo las bases para retención de riesgos que asume el Fondo de Aseguramiento con cargo a sus reservas, así como su cesión en reaseguro y/o coaseguro en cada caso; iii) las bases para la aplicación de remanentes; y, iv) las bases relativas a su organización y control interno.
 Los Organismos Integradores remitirán a la Secretaría, en términos del presente artículo, las solicitudes para las que hubiesen generado un dictamen favorable, acompañándolas del mismo, y la Secretaría entregará su resolución a través de dichos Organismos Integradores, o directamente cuando se trate de Fondos de Aseguramiento que opten por el régimen de no afiliados;
+
 III. Tratándose de aquellos Fondos de Aseguramiento que pretendan obtener registro y que opten por el régimen de no afiliados, podrán acudir directamente ante la Secretaría, a efecto de que ésta designe al Organismo Integrador que se encargará de emitir el dictamen correspondiente, continuando con el procedimiento señalado en el inciso anterior;
+
 IV. En caso de que el Fondo de Aseguramiento reciba un dictamen desfavorable del Organismo Integrador Estatal o Nacional, según sea el caso, podrá solicitar la revisión de éste ante el mismo Organismo Integrador. De ratificarse el dictamen desfavorable, el Fondo de Aseguramiento podrá solicitar la revisión de su solicitud ante la Secretaría, quien deberá resolver sobre la misma. Los solicitantes contarán con un plazo de treinta días hábiles a partir de la fecha en que se les notifique la ratificación del dictamen desfavorable para presentar directamente a la Secretaría dicha solicitud de revisión;
+
 V. Los Organismos Integradores contarán con un plazo de quince días hábiles para elaborar su dictamen o resolver las solicitudes de revisión de los mismos, y la Secretaría contará con un plazo de treinta días hábiles para emitir resolución respecto de las solicitudes de registro que le hayan sido presentadas. Dichos plazos comenzarán a contar, respectivamente, a partir de la fecha en que sean presentadas las solicitudes a los Organismos Integradores o a la Secretaría con toda la información y documentación a que se refiere el artículo siguiente de esta Ley;
+
 VI. Se entenderá que la Secretaría resuelve en sentido aprobatorio la solicitud de registro, si no comunica lo contrario al Organismo Integrador o al Fondo de Aseguramiento solicitante dentro del periodo mencionado en la fracción anterior. Asimismo, se entenderá que la Secretaría resuelve, en sentido no aprobatorio, la solicitud de registro presentada directamente por un solicitante que hubiera obtenido un dictamen desfavorable, si no comunica lo contrario al solicitante dentro del periodo mencionado;
+
 VII. Cualquier requerimiento de información o documentación que realice la Secretaría al Organismo Integrador o al solicitante, suspenderá el cómputo del plazo con el que cuenta la Secretaría para emitir su resolución. Dicho plazo comenzará a computarse nuevamente a partir de que se reciba la información o documentación requerida;
+
 VIII. El Organismo Integrador en su dictamen propondrá a la Secretaría, las operaciones y ramos de seguros que, en términos de lo establecido en el artículo 3o. de esta Ley, ampare el registro.
-Para que el Fondo de Aseguramiento amplíe sus operaciones o ramos, se requerirá de modificar su registro ante la Secretaría, en los términos de lo previsto en este artículo, y IX. Los registros que otorgue la Secretaría serán intransferibles y no implicarán respaldo en el cumplimiento de las obligaciones que asuman los Fondos de Aseguramiento, por lo que la Secretaría no asume responsabilidad alguna por dicha inscripción.
+Para que el Fondo de Aseguramiento amplíe sus operaciones o ramos, se requerirá de modificar su registro ante la Secretaría, en los términos de lo previsto en este artículo, y
+
+IX. Los registros que otorgue la Secretaría serán intransferibles y no implicarán respaldo en el cumplimiento de las obligaciones que asuman los Fondos de Aseguramiento, por lo que la Secretaría no asume responsabilidad alguna por dicha inscripción.
 
 ### Artículo 9o
 . La solicitud para la obtención del dictamen, deberá acompañarse de lo siguiente:
+
 I. El proyecto de la escritura pública constitutiva, conteniendo los Estatutos que deberán apegarse a las disposiciones y mecanismos que la presente Ley establece;
-II. El programa general de operación, que permita evaluar si podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos: a) Las regiones y municipios en las que pretenda operar; b) Un estudio de viabilidad financiera para cada tipo de operaciones y ramos de seguros que pretenda operar; incluyendo las bases para la retención de riesgos que asume el Fondo de Aseguramiento con cargo a sus reservas, así como su cesión en reaseguro y/o coaseguro en cada caso; c) Las bases para la aplicación de remanentes, y d) Las bases relativas a su organización y control interno.
+
+II. El programa general de operación, que permita evaluar si podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos:
+
+a) Las regiones y municipios en las que pretenda operar;
+
+b) Un estudio de viabilidad financiera para cada tipo de operaciones y ramos de seguros que pretenda operar; incluyendo las bases para la retención de riesgos que asume el Fondo de Aseguramiento con cargo a sus reservas, así como su cesión en reaseguro y/o coaseguro en cada caso;
+
+c) Las bases para la aplicación de remanentes, y
+
+d) Las bases relativas a su organización y control interno.
+
 III. La acreditación de la solvencia moral y económica de los principales funcionarios;
-IV. Cartas de intención de instituciones de seguros o de reaseguro de participar en los riesgos asumidos por el Fondo de Aseguramiento, y V. El proyecto de contrato de afiliación o de Asesoría Técnica y Seguimiento de Operaciones que, en su caso, celebraría el solicitante con un Organismo Integrador, incluyendo la aceptación por parte de éste para celebrarlo.
+
+IV. Cartas de intención de instituciones de seguros o de reaseguro de participar en los riesgos asumidos por el Fondo de Aseguramiento, y
+
+V. El proyecto de contrato de afiliación o de Asesoría Técnica y Seguimiento de Operaciones que, en su caso, celebraría el solicitante con un Organismo Integrador, incluyendo la aceptación por parte de éste para celebrarlo.
 Cualquier modificación a la escritura constitutiva del Fondo de Aseguramiento y a sus Estatutos, deberá ser sometida al previo dictamen del Organismo Integrador correspondiente, en términos del Contrato de Afiliación o de Asesoría Técnica y Seguimiento de Operaciones, según sea el caso. Una vez obtenido el dictamen favorable del Organismo Integrador, lo remitirá a la Secretaría para su conocimiento.
 Tratándose de Fondos de Aseguramiento no afiliados, este procedimiento se llevará a cabo ante la Secretaría en los términos del presente artículo.
 La escritura o sus reformas deberán inscribirse en el Registro Público de la Propiedad y del Comercio del domicilio social correspondiente, debiendo exhibirse ante la Secretaría copia certificada del testimonio respectivo dentro de un término de ciento veinte días naturales contados a partir de la fecha de su inscripción.
@@ -101,9 +172,14 @@ Capítulo Segundo De su Organización
 
 ### Artículo 10
 . Los Fondos de Aseguramiento contarán, cuando menos, con los siguientes órganos:
+
 I. Asamblea General de Socios;
+
 II. Consejo de Administración;
-III. Consejo de Vigilancia, y IV. Un Director o Gerente.
+
+III. Consejo de Vigilancia, y
+
+IV. Un Director o Gerente.
 
 ### Artículo 11
 . La Asamblea General de Socios será la máxima autoridad del Fondo de Aseguramiento.
@@ -111,14 +187,28 @@ Las asambleas deberán celebrarse en el domicilio social del Fondo de Aseguramie
 
 ### Artículo 12
 . Son atribuciones de la Asamblea General de Socios las siguientes:
+
 I. Aprobar los Estatutos, el Reglamento Interno, así como las modificaciones respectivas;
+
 II. Nombrar a los integrantes del Consejo de Administración y del Consejo de Vigilancia;
+
 III. Aprobar los presupuestos y programas del seguro y reaseguro; las aportaciones al Fondo de Protección y al Fondo de Retención Común de Riesgos; las aportaciones extraordinarias; y, el pago de las cuotas a los Organismos Integradores;
+
 IV. Aprobar la evaluación de resultados, balances y estados financieros y el programa de aplicación de los remanentes en términos de esta Ley;
+
 V. Autorizar la admisión, separación, suspensión o exclusión de socios. La admisión, suspensión y separación podrán ser delegadas al Consejo de Administración, si así lo prevén los Estatutos.
 Los acuerdos que adopte el Consejo de Administración, deberán ser ratificados en la siguiente Asamblea General de Socios. La suspensión o la exclusión de cualquier socio procederán cuando incurra en violaciones a los Estatutos, al reglamento interno del Fondo de Aseguramiento o a la presente Ley;
+
 VI. Aprobar, dado el caso, sobre la fusión, escisión, transformación o disolución del Fondo de Aseguramiento, misma que deberá ser hecha del conocimiento de la Secretaría;
-VII. Remover a los integrantes del Consejo de Administración por las siguientes circunstancias: a) Incumplir los acuerdos adoptados por la Asamblea General de Socios o lo previsto en esta Ley; b) Utilizar en su provecho los recursos económicos, financieros, humanos o materiales del Fondo de Aseguramiento o cometer actos ilícitos en perjuicio o en agravio del Fondo de Aseguramiento o de sus socios, y c) Incurrir en las causas de remoción que establezcan los Estatutos o esta Ley.
+
+VII. Remover a los integrantes del Consejo de Administración por las siguientes circunstancias:
+
+a) Incumplir los acuerdos adoptados por la Asamblea General de Socios o lo previsto en esta Ley;
+
+b) Utilizar en su provecho los recursos económicos, financieros, humanos o materiales del Fondo de Aseguramiento o cometer actos ilícitos en perjuicio o en agravio del Fondo de Aseguramiento o de sus socios, y
+
+c) Incurrir en las causas de remoción que establezcan los Estatutos o esta Ley.
+
 VIII. Cualquier otro asunto que se le reserve en los términos de esta Ley y de los Estatutos.
 
 ### Artículo 13
@@ -138,8 +228,12 @@ De toda sesión de Asamblea General de Socios se levantará el acta correspondie
 . Las personas físicas o morales o grupos de socios integrantes de un Fondo de Aseguramiento, podrán designar un representante para que en su nombre, acuda a las sesiones de la Asamblea General de Socios. Cuando una persona represente a dos o más socios, ejercerá la suma de los votos de los socios que represente.
 En ningún caso podrán ser representantes de socios las personas que ocupen un cargo dentro del Consejo de Administración o Vigilancia del Fondo de Aseguramiento, ni las personas que presten sus servicios al mismo. La representación a que se refiere este artículo se conferirá en simple carta poder firmada ante dos testigos. Los actos del representante obligarán a los socios representados.
 Para ser electo representante de socios, ante la Asamblea General de Socios del Fondo de Aseguramiento, se deberá cumplir con lo siguiente:
+
 I. Estar en el pleno ejercicio de sus derechos civiles;
-II. En su caso, formar parte de la persona moral a la que pretende representar, y III. No ser miembro de otro Fondo de Aseguramiento ni representar a más de una persona moral.
+
+II. En su caso, formar parte de la persona moral a la que pretende representar, y
+
+III. No ser miembro de otro Fondo de Aseguramiento ni representar a más de una persona moral.
 
 ### Artículo 17
 . El Consejo de Administración estará constituido por un mínimo de tres miembros propietarios y un máximo de siete, y sus respectivos suplentes. En todo caso el número de Consejeros será impar. En ningún caso los miembros de este Consejo podrán formar parte del Consejo de Vigilancia.
@@ -149,35 +243,60 @@ Los consejeros durarán en su cargo tres años y podrán ser reelectos, si así 
 
 ### Artículo 18
 . Para ser miembro del Consejo de Administración se deberá cuando menos cumplir con los siguientes requisitos:
+
 I. Estar en pleno ejercicio de sus derechos civiles;
+
 II. Ser socio del Fondo de Aseguramiento o de la persona moral que lo designe representante en pleno ejercicio de sus derechos de socio del Fondo de Aseguramiento;
-III. No tener ninguno de los impedimentos señalados en el artículo siguiente, y IV. Los demás que esta Ley o los Estatutos del Fondo de Aseguramiento determinen.
+
+III. No tener ninguno de los impedimentos señalados en el artículo siguiente, y
+
+IV. Los demás que esta Ley o los Estatutos del Fondo de Aseguramiento determinen.
 
 ### Artículo 19
 . En ningún caso podrán ser Consejeros del Fondo de Aseguramiento:
+
 I. Las personas que desempeñen algún cargo en el Fondo de Aseguramiento de que se trate, así como en otros Fondos de Aseguramiento;
+
 II. Las personas cuya sentencia haya causado ejecutoria por delitos intencionales patrimoniales;
-III. Las personas que tengan litigio pendiente con el Fondo de Aseguramiento, y IV. Cualquier persona que desempeñe un cargo público, de elección popular o de dirigencia política o religiosa.
+
+III. Las personas que tengan litigio pendiente con el Fondo de Aseguramiento, y
+
+IV. Cualquier persona que desempeñe un cargo público, de elección popular o de dirigencia política o religiosa.
 Los mismos impedimentos se aplicarán a los Consejeros en los casos de los Organismos Integradores Nacional, Estatales y Locales.
 
 ### Artículo 20
 . Son facultades y obligaciones del Consejo de Administración:
+
 I. Representar al Fondo de Aseguramiento ante terceros, con facultades generales para pleitos y cobranzas, actos de administración y de dominio; así como para otorgar poderes generales y especiales, con la única limitación de que para enajenar bienes que formen parte del activo fijo del Fondo de Aseguramiento requerirán autorización previa de la Asamblea General de Socios;
+
 II. Cumplir y hacer cumplir los acuerdos de la Asamblea General de Socios y los Estatutos del Fondo de Aseguramiento;
+
 III. Proponer a la Asamblea General de Socios los presupuestos y programas de seguros, coaseguro y reaseguro;
+
 IV. Informar a la Asamblea General de Socios sobre su gestión y sobre los resultados operativos y estados financieros del ejercicio;
+
 V. Realizar gestiones, celebrar contratos y, en general, supervisar la operación del seguro, coaseguro y reaseguro en sus diversas coberturas;
+
 VI. Nombrar al Gerente o Director del Fondo de Aseguramiento, quien tendrá las facultades para pleitos y cobranzas y actos de administración con las limitaciones que, en su caso, le imponga el Consejo en la sesión que lo designe. El Gerente o Director en ningún caso gozará de facultades para actos de dominio;
+
 VII. Acordar la admisión, suspensión y separación de socios cuando así lo prevean los Estatutos y con la condición de que dicho acuerdo sea ratificado en la siguiente sesión de la Asamblea General de Socios;
-VIII. Instrumentar los mecanismos de recuperación de adeudos a cargo de los socios, y IX. Las demás previstas en esta Ley y en los Estatutos correspondientes.
+
+VIII. Instrumentar los mecanismos de recuperación de adeudos a cargo de los socios, y
+
+IX. Las demás previstas en esta Ley y en los Estatutos correspondientes.
 El Consejo se reunirá a convocatoria por escrito, firmada por el Presidente o el Secretario, en la forma y términos que señalen los Estatutos, e incluirá el orden del día. De toda sesión se levantará el acta respectiva que contendrá los asuntos tratados y los acuerdos adoptados. El acta será firmada por todos los miembros del Consejo de Administración que participen y por los miembros del Consejo de Vigilancia que asistan.
 El Consejo de Administración deberá sesionar cuando menos una vez al mes o cada vez que los asuntos del Fondo de Aseguramiento así lo requieran.
 
 ### Artículo 21
 . El Director o Gerente del Fondo de Aseguramiento, deberá reunir los siguientes requisitos:
+
 I. Tener conocimientos y experiencia en materia de seguros agropecuarios o seguros generales y de administración;
+
 II. Contar con la validación del Organismo Integrador al que se encuentre afiliado el Fondo o con el que tenga celebrado el contrato de prestación de servicios señalado en el artículo 68;
-III. No tener alguno de los impedimentos que para ser Consejero señala el artículo 19, y IV. Los demás que esta Ley o los Estatutos del Fondo de Aseguramiento determinen.
+
+III. No tener alguno de los impedimentos que para ser Consejero señala el artículo 19, y
+
+IV. Los demás que esta Ley o los Estatutos del Fondo de Aseguramiento determinen.
 
 ### Artículo 22
 . Los Fondos de Aseguramientos deberán contar con un Consejo de Vigilancia, que se integrará con socios del propio Fondo de Aseguramiento, estará constituido por un Presidente, un Secretario y un Vocal con sus respectivos suplentes. En ningún caso podrán formar parte del Consejo de Administración los miembros de este Consejo.
@@ -188,12 +307,20 @@ Los integrantes del Consejo de Vigilancia durarán en su cargo tres años y podr
 
 ### Artículo 24
 . Son facultades y obligaciones del Consejo de Vigilancia:
+
 I. Vigilar que todos los actos del Fondo de Aseguramiento se realicen con apego a esta Ley, a los Estatutos y a la normatividad aplicable;
+
 II. Rendir a la Asamblea General un informe anual sobre su gestión, sobre el desempeño del Consejo de Administración, así como del Director o Gerente;
+
 III. Convocar a sesión a la Asamblea General de Socios en caso de omisión del Consejo de Administración y cuando lo juzgue conveniente;
+
 IV. Asistir con voz pero sin voto a las sesiones de la Asamblea General de Socios y a las sesiones del Consejo de Administración, para lo cual deberán ser convocados en la forma y términos que prevean los Estatutos;
+
 V. Informar oportunamente a la Asamblea General de Socios y al Organismo Integrador correspondiente sobre cualquier desviación observada en la operación del Fondo de Aseguramiento a fin de que se determine lo conducente, y supervisar que las observaciones efectuadas se solventen debidamente y las irregularidades detectadas se corrijan;
-VI. En su caso, recomendar y justificar a la Asamblea General de Socios su aceptación o rechazo de los estados financieros del ejercicio y del informe del Consejo de Administración, y VII. Las demás previstas en esta Ley y en los Estatutos.
+
+VI. En su caso, recomendar y justificar a la Asamblea General de Socios su aceptación o rechazo de los estados financieros del ejercicio y del informe del Consejo de Administración, y
+
+VII. Las demás previstas en esta Ley y en los Estatutos.
 El Consejo de Vigilancia deberá sesionar previamente a la celebración de las sesiones de la Asamblea General de Socios y cuando los asuntos a tratar lo ameriten. De toda sesión se levantará el acta respectiva que contendrá los asuntos tratados y los acuerdos adoptados. El acta será firmada por todos los participantes.
 La Asamblea General de Socios podrá remover a los integrantes del Consejo de Vigilancia, por incumplimiento de las funciones encomendadas y por las causales señaladas para la remoción de los integrantes del Consejo de Administración.
 
@@ -204,12 +331,20 @@ Capítulo Tercero De la Admisión, Separación, Suspensión y Exclusión de Soci
 
 ### Artículo 26
 . Para ser socio de un Fondo de Aseguramiento se requiere:
+
 I. Ser persona física de nacionalidad mexicana en pleno ejercicio de sus derechos y que realice actividades agrícolas o pecuarias, o tenga su residencia en el medio rural; o bien, ser persona moral de nacionalidad mexicana con cláusula de exclusión de extranjeros, cuyo objeto social prevea la realización de actividades agrícolas o pecuarias, o del medio rural;
+
 II. Presentar por escrito solicitud de ingreso;
+
 III. No ser socio de otro Fondo de Aseguramiento, excepto en lo previsto en la fracción VI de este mismo artículo. En caso de que el interesado haya participado en otro Fondo de Aseguramiento deberá presentar el acta de la Asamblea General que haya acordado su separación; o bien, la solicitud de separación recibida por el Fondo de Aseguramiento al que perteneció, cuando no se le hubiere dado respuesta a la misma en el plazo a que se refiere el artículo siguiente;
+
 IV. Presentar la información para efecto de determinar si es susceptible de integrarse como socio al Fondo de Aseguramiento. Cada Fondo de Aseguramiento fijará los requisitos que deberá cumplir el interesado;
+
 V. Que la Asamblea General de Socios o el Consejo de Administración, en caso de que así lo prevean los Estatutos, acepte la solicitud de ingreso del nuevo socio. En caso de ser admitido por dicho Consejo, se requerirá la aprobación definitiva de la admisión en la siguiente sesión de la Asamblea General de Socios;
-VI. El socio de un Fondo de Aseguramiento puede pertenecer a otro, siempre y cuando el Fondo de Aseguramiento al que pertenezca originalmente no pueda otorgarle los servicios de aseguramiento, lo que acreditará con la constancia respectiva que dicho Fondo de Aseguramiento expida, y VII. Las demás que establezcan los Estatutos.
+
+VI. El socio de un Fondo de Aseguramiento puede pertenecer a otro, siempre y cuando el Fondo de Aseguramiento al que pertenezca originalmente no pueda otorgarle los servicios de aseguramiento, lo que acreditará con la constancia respectiva que dicho Fondo de Aseguramiento expida, y
+
+VII. Las demás que establezcan los Estatutos.
 La calidad de socio del Fondo de Aseguramiento será intransferible.
 
 ### Artículo 27
@@ -218,11 +353,18 @@ Cuando el socio que hubiere solicitado en los términos anteriores su separació
 
 ### Artículo 28
 . La Asamblea General de Socios podrá suspender o excluir a cualquier socio. En caso de que así lo prevean los Estatutos, el Consejo de Administración podrá suspenderlo. Procederá la suspensión cuando el socio incurra en alguna de las siguientes causas:
+
 I. Aportar datos falsos relacionados con los bienes a asegurar;
+
 II. Incumplir los acuerdos de las Asambleas Generales de Socios o violar disposiciones de esta Ley;
+
 III. Causar daño patrimonial al Fondo de Aseguramiento o a sus socios;
+
 IV. No cubrir totalmente y en forma oportuna al Fondo de Aseguramiento las aportaciones a su cargo;
-V. No realizar operaciones de seguros con el Fondo de Aseguramiento, y VI. Las demás que establezcan los Estatutos.
+
+V. No realizar operaciones de seguros con el Fondo de Aseguramiento, y
+
+VI. Las demás que establezcan los Estatutos.
 La suspensión podrá ser hasta por dos años según lo acuerde la Asamblea General de Socios. En caso de daños causados, la suspensión durará hasta que los mismos sean reparados o compensados a satisfacción del Fondo de Aseguramiento o de los socios afectados. En caso de reincidencia, la Asamblea General de Socios podrá resolver la exclusión del socio, lo que implicará la pérdida definitiva de sus derechos como tal.
 
 ## Capítulo Cuarto
@@ -236,25 +378,45 @@ De su Funcionamiento y Operación
 
 ### Artículo 31
 . Los Fondos de Aseguramiento sólo podrán realizar las siguientes operaciones:
+
 I. Practicar las operaciones de seguros a que se refiere el artículo 3 de esta Ley con sujeción al registro que otorgue la Secretaría;
+
 II. Constituir e invertir las reservas previstas en esta Ley;
+
 III. Administrar los recursos retenidos a las instituciones de seguros del país y del extranjero correspondientes a las operaciones de reaseguro que hayan celebrado;
+
 IV. Constituir depósitos en instituciones de crédito;
+
 V. Operar con documentos mercantiles por cuenta propia para la realización de su objeto social;
-VI. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto social, y VII. Aquellas que sean necesarias para la realización de su objeto social.
+
+VI. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto social, y
+
+VII. Aquellas que sean necesarias para la realización de su objeto social.
 
 ### Artículo 32
 . Las operaciones de seguro que lleven a cabo los Fondos de Aseguramiento con sus socios se formalizarán mediante constancias de aseguramiento, que deberán ser entregadas al socio del Fondo de Aseguramiento y en las que se harán constar los derechos y obligaciones de las partes. La constancia de aseguramiento deberá contener, cuando menos:
+
 I. La denominación del Fondo de Aseguramiento;
+
 II. El nombre del socio asegurado;
+
 III. La firma del representante del Fondo de Aseguramiento;
+
 IV. La designación de las personas o bienes asegurados;
+
 V. La naturaleza de los riesgos amparados por la cobertura;
+
 VI. En su caso, el nombre y domicilio de los beneficiarios;
+
 VII. La suma asegurada o prestación a cargo del Fondo de Aseguramiento;
+
 VIII. Los deducibles, en su caso;
+
 IX. La fecha de emisión y período de cobertura;
-X. El importe de la cuota, y XI. El lugar y la forma de pago.
+
+X. El importe de la cuota, y
+
+XI. El lugar y la forma de pago.
 Para este efecto tanto los Fondos de Aseguramiento como sus socios estarán obligados, en los términos previstos en el artículo 6o. y en todo aquello que no contravenga a esta Ley, a lo dispuesto por la Ley sobre el Contrato de Seguro.
 Asimismo, el Fondo de Aseguramiento tendrá un plazo de 60 días naturales, con posterioridad a la emisión de la constancia de aseguramiento, para acreditar a sus socios que su cobertura se encuentra amparada bajo un contrato de reaseguro.
 
@@ -268,20 +430,31 @@ Cuando las erogaciones para el ejercicio de sus operaciones no puedan sufragarse
 
 ### Artículo 34
 . Los Fondos de Aseguramiento deberán constituir las siguientes reservas técnicas:
-I. Reserva de Riesgos en Curso. Para los seguros de vida y accidentes y enfermedades es aquella que se constituye con base en las disposiciones que al efecto emita la Secretaría, oyendo a la Comisión, para cada línea de operación. Para los seguros de daños, esta reserva se constituirá con el total de los recursos provenientes de las cuotas cobradas una vez descontados el pago de reaseguro y el monto correspondiente a gastos de administración y operación, en términos de lo previsto en el artículo 33 de esta Ley. El producto de la inversión de la Reserva de Riesgos en Curso, formará parte de la misma, y II. Reserva Especial de Contingencia. Ésta se constituye con el 25% de los remanentes del ejercicio social. Esta reserva es acumulativa y el producto de su inversión formará parte de la misma.
+
+I. Reserva de Riesgos en Curso. Para los seguros de vida y accidentes y enfermedades es aquella que se constituye con base en las disposiciones que al efecto emita la Secretaría, oyendo a la Comisión, para cada línea de operación. Para los seguros de daños, esta reserva se constituirá con el total de los recursos provenientes de las cuotas cobradas una vez descontados el pago de reaseguro y el monto correspondiente a gastos de administración y operación, en términos de lo previsto en el artículo 33 de esta Ley. El producto de la inversión de la Reserva de Riesgos en Curso, formará parte de la misma, y
+
+II. Reserva Especial de Contingencia. Ésta se constituye con el 25% de los remanentes del ejercicio social. Esta reserva es acumulativa y el producto de su inversión formará parte de la misma.
 Cada Fondo de Aseguramiento tendrá la facultad de definir los términos en que los recursos de esta reserva podrán ser comprometidos para incrementar su retención de riesgos y negociar los términos y modalidades de la cobertura de reaseguro, así como realizar aportaciones al Fondo de Retención Común de Riesgos conforme a lo previsto en los artículos 75 y 84 de esta Ley. En la operación del ramo agropecuario, esta reserva deberá constituirse al cierre de cada ciclo agrícola o ganadero, pero cuando su monto acumulado alcance el equivalente al 15% de la suma asegurada del ciclo agrícola y/o ejercicio ganadero en curso, los remanentes que se generen particularmente en esa operación, quedarán disponibles para ser destinados a incrementar el fondo social, si así lo aprueba la Asamblea General.
 Para los efectos de esta Ley, el remanente es el monto que pueda existir al final del ejercicio social, que resulte de la cantidad que importen las cuotas de retención devengadas más los productos financieros, más las bonificaciones por baja siniestralidad convenidas en los contratos de reaseguro o por otros conceptos, más las comisiones recibidas por reaseguro cedido, menos, los recursos erogados por conceptos de gastos de operación, cuotas, costo de reaseguro y costo neto de siniestralidad. En el caso del seguro agropecuario, el remanente se determinará al cierre del ciclo agrícola o ganadero.
 
 ### Artículo 35
 . Los Fondos de Aseguramiento contarán con un Fondo Social que se integrará de la siguiente forma:
+
 I. Con los bienes y valores que los socios acuerden para su constitución;
+
 II. De las aportaciones adicionales que realicen los socios;
-III. De las donaciones y/o aportaciones públicas o privadas que se obtengan, y IV. Del 70% de los remanentes obtenidos al final de cada ejercicio social o, para el caso de seguros agropecuarios, al final de cada ciclo agrícola o ganadero.
+
+III. De las donaciones y/o aportaciones públicas o privadas que se obtengan, y
+
+IV. Del 70% de los remanentes obtenidos al final de cada ejercicio social o, para el caso de seguros agropecuarios, al final de cada ciclo agrícola o ganadero.
 El Fondo Social y su incremento serán destinados a cumplir con el objeto de los Fondos de Aseguramiento, debiendo existir el conocimiento y aprobación de la Asamblea General de Socios respecto de su constitución, incrementos y asignaciones específicas. Estos recursos podrán destinarse por los Fondos de Aseguramiento al incremento de sus reservas técnicas; a disminuir las cuotas de aseguramiento; a su fortalecimiento técnico, operativo y administrativo; al equipamiento y adquisición de bienes muebles e inmuebles; a crear reservas para pasivos laborales diversos; a otorgar prestaciones de previsión social; así como para la integración de organizaciones económicas y de servicios que apoyen las actividades agropecuarias, agroindustriales, comerciales, de financiamiento, de administración de riesgos, y en general de todas aquellas que contribuyan al desarrollo rural en beneficio de los socios del Fondo de Aseguramiento y de sus comunidades. Estas organizaciones deberán estar integradas por todos los socios del Fondo de Aseguramiento de que se trate.
 
 ### Artículo 36
 . En las operaciones de seguros, los Fondos de Aseguramiento deberán aplicar las coberturas, tarifas de cuotas, deducibles, sumas aseguradas, normas, participación a pérdidas, franquicias, Condiciones Generales y Especiales, y demás elementos y componentes relativos al aseguramiento, conforme a alguna de las dos siguientes opciones:
-I. Tratándose de instituciones de seguros o reaseguro del país que les brinden el servicio de reaseguro, con base en el producto de seguros que al efecto registren ante la Comisión dichas instituciones, o II. Tratándose de reaseguradoras extranjeras que les otorguen dicho servicio, con base en los elementos técnicos y contractuales que acuerde con la institución de seguros o compañía de reaseguro que les otorgue dicho servicio.
+
+I. Tratándose de instituciones de seguros o reaseguro del país que les brinden el servicio de reaseguro, con base en el producto de seguros que al efecto registren ante la Comisión dichas instituciones, o
+
+II. Tratándose de reaseguradoras extranjeras que les otorguen dicho servicio, con base en los elementos técnicos y contractuales que acuerde con la institución de seguros o compañía de reaseguro que les otorgue dicho servicio.
 La determinación del costo de cuotas de aseguramiento deberá tomar en consideración los índices de siniestralidad de la zona en la que opere, así como la experiencia siniestral del mismo y de los socios.
 
 ### Artículo 37
@@ -301,18 +474,38 @@ Dichos estados financieros deberán ser presentados al Organismo Integrador que 
 
 ### Artículo 39
 . Al invertir sus reservas técnicas, los Fondos de Aseguramiento se ajustarán a lo siguiente:
+
 I. Deberán mantenerlas invertidas, en todo momento, en valores emitidos o respaldados por el Gobierno Federal, en valores aprobados por la Comisión Nacional Bancaria y de Valores como objeto de inversión de las reservas técnicas de las instituciones y sociedades mutualistas de seguros o en depósitos en instituciones de crédito con excepción de la cuenta maestra empresarial y la cuenta de cheques;
+
 II. En los seguros de moneda extranjera deberán mantener invertidas las reservas en valores denominados en moneda extranjera que emita o respalde el Gobierno Federal, en valores denominados en moneda extranjera que estén inscritos en el Registro Nacional de Valores e Intermediarios que lleva la Comisión Nacional Bancaria y de Valores;
+
 III. Los títulos o valores a que se refieren las fracciones anteriores deberán depositarse en instituciones de crédito, en las instituciones para el depósito de valores o en casas de bolsa;
+
 IV. La reserva especial de contingencia podrá ser respaldada por convenios de cesión de derechos de PROCAMPO de los socios a favor de los Fondos de Aseguramiento. Deberá considerarse el cobro de intereses a los socios equivalente al porcentaje que los Fondos estén obteniendo en las inversiones del resto de las reservas técnicas. Lo anterior está condicionado a que el socio adquiera un seguro con el Fondo de que se trate, en el que se proteja el riesgo de imposibilidad de realizar la siembra, invariablemente el beneficiario preferente será el Fondo de Aseguramiento.
 Si por resultado de esta operación el Fondo de Aseguramiento no alcanzare, por cualquier razón a restituir el cien por ciento de la reserva especial de contingencia, deberá destinar de su Fondo Social presente o futuro el monto de los recursos suficientes para reintegrar el importe total de la reserva especial de contingencia;
+
 V. Los Fondos de Aseguramiento deberán celebrar contratos con los diferentes organismos depositarios, en los que se establecerá como requisito la obligación de los mismos de formular estados de cuenta mensuales en donde se identifiquen de manera individualizada los instrumentos depositados;
-VI. Tratándose de inversiones en moneda extranjera podrán fungir como organismos depositarios las entidades financieras mexicanas o las entidades financieras del exterior que sean filiales de aquéllas, y VII. Los Fondos de Aseguramiento, al llevar a cabo las inversiones a que se refieren las fracciones I, II y III anteriores, deberán observar los siguientes límites, tanto en moneda nacional como en moneda extranjera: a) Por tipo de valores, depósitos o títulos: i) valores emitidos o respaldados por el Gobierno Federal, hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 60%; iii) valores emitidos por entidades distintas de las señaladas en los incisos i) y ii) anteriores, hasta el 30%, y b) Por emisor o deudor: i) valores emitidos o respaldados por el Gobierno Federal hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 18%; y iii) valores emitidos por entidades distintas a las señaladas en los incisos i) y ii) anteriores, hasta el 7%.
+
+VI. Tratándose de inversiones en moneda extranjera podrán fungir como organismos depositarios las entidades financieras mexicanas o las entidades financieras del exterior que sean filiales de aquéllas, y
+
+VII. Los Fondos de Aseguramiento, al llevar a cabo las inversiones a que se refieren las fracciones I, II y III anteriores, deberán observar los siguientes límites, tanto en moneda nacional como en moneda extranjera:
+
+a) Por tipo de valores, depósitos o títulos:
+
+i) valores emitidos o respaldados por el Gobierno Federal, hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 60%; iii) valores emitidos por entidades distintas de las señaladas en los incisos i) y ii) anteriores, hasta el 30%, y
+
+b) Por emisor o deudor:
+
+i) valores emitidos o respaldados por el Gobierno Federal hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 18%; y iii) valores emitidos por entidades distintas a las señaladas en los incisos i) y ii) anteriores, hasta el 7%.
 
 ### Artículo 40
 . Los Fondos de Aseguramiento sólo podrán operar dentro de su zona de influencia, la cual deberá determinarse en los Estatutos que señalarán el o los municipios que la integran. Nuevos municipios podrán integrarse a su zona de influencia sólo mediante:
+
 I. La modificación que corresponda de los Estatutos;
-II. Que cuenten con el compromiso de las instituciones que les brindarán el reaseguro, y III. La obtención de un dictamen favorable del Organismo Integrador que corresponda al que se encuentren afiliados o, en caso de no afiliación, del Organismo Integrador responsable de otorgarles el servicio de Asesoría Técnica y Seguimiento de Operaciones o el Organismo Integrador o entidad que designe la Secretaría.
+
+II. Que cuenten con el compromiso de las instituciones que les brindarán el reaseguro, y
+
+III. La obtención de un dictamen favorable del Organismo Integrador que corresponda al que se encuentren afiliados o, en caso de no afiliación, del Organismo Integrador responsable de otorgarles el servicio de Asesoría Técnica y Seguimiento de Operaciones o el Organismo Integrador o entidad que designe la Secretaría.
 
 ### Artículo 41
 . A los Fondos de Aseguramiento les son aplicables las prohibiciones contenidas en el
@@ -339,26 +532,61 @@ La Secretaría contará con un plazo de noventa días naturales para emitir reso
 
 ### Artículo 47
 . Los Organismos Integradores realizarán las siguientes funciones:
-I. Otorgar el servicio de Asesoría Técnica y Seguimiento de Operaciones a los Fondos de Aseguramiento. La función de Seguimiento de Operaciones se apegará a los lineamientos generales que emita la Secretaría, oyendo a la Comisión, y deberá contemplar que los Fondos de Aseguramiento recibirán asesoría y el servicio de seguimiento de operaciones, entre otros aspectos, para: a) Organizarse y funcionar conforme a lo dispuesto por esta Ley; b) Realizar sus operaciones de seguro con apego a las disposiciones señaladas en el artículo 6 de esta Ley y demás regulaciones aplicables; c) Llevar a cabo sus operaciones aplicando las coberturas, tarifas de cuotas, deducibles, sumas aseguradas, normas, participación a pérdidas, franquicias, Condiciones Generales y Especiales, y demás elementos y componentes relativos al aseguramiento, en términos de lo previsto en el artículo 36 de esta Ley; d) Contratar esquemas de reaseguro y/o coaseguro que se adapten a sus características, y operar sus coberturas conforme a tales contratos, en términos de lo dispuesto por esta Ley, y e) Impulsar mecanismos voluntarios de solución de controversias entre los Fondos de Aseguramiento y sus socios.
+
+I. Otorgar el servicio de Asesoría Técnica y Seguimiento de Operaciones a los Fondos de Aseguramiento. La función de Seguimiento de Operaciones se apegará a los lineamientos generales que emita la Secretaría, oyendo a la Comisión, y deberá contemplar que los Fondos de Aseguramiento recibirán asesoría y el servicio de seguimiento de operaciones, entre otros aspectos, para:
+
+a) Organizarse y funcionar conforme a lo dispuesto por esta Ley;
+
+b) Realizar sus operaciones de seguro con apego a las disposiciones señaladas en el artículo 6 de esta Ley y demás regulaciones aplicables;
+
+c) Llevar a cabo sus operaciones aplicando las coberturas, tarifas de cuotas, deducibles, sumas aseguradas, normas, participación a pérdidas, franquicias, Condiciones Generales y Especiales, y demás elementos y componentes relativos al aseguramiento, en términos de lo previsto en el artículo 36 de esta Ley;
+
+d) Contratar esquemas de reaseguro y/o coaseguro que se adapten a sus características, y operar sus coberturas conforme a tales contratos, en términos de lo dispuesto por esta Ley, y
+
+e) Impulsar mecanismos voluntarios de solución de controversias entre los Fondos de Aseguramiento y sus socios.
 Asimismo, los lineamientos generales que emita la Secretaría, definirán la forma y términos en que los Organismos Integradores llevarán el seguimiento a las operaciones de los Fondos de Aseguramiento, en especial de sus resultados, de la constitución e inversión de sus reservas, de sus gastos y de los informes que sobre estos temas habrán de rendir a la propia Secretaría;
+
 II. Fungir como representantes legales de sus afiliadas ante personas, organismos, autoridades e instituciones tanto nacionales como extranjeras;
+
 III. Prestar a los Fondos de Aseguramiento servicios técnicos, legales, administrativos, financieros y de capacitación;
+
 IV. Promover en general la superación y capacidad técnica y operativa de sus integrantes, así como de sus empleados;
+
 V. Homologar, en lo procedente, reglamentos, trámites y mecanismos operativos, así como sistemas contables e informáticos;
+
 VI. Integrar bases de datos en materia de operaciones de seguros, calificación de riesgos, y todo lo relativo al funcionamiento de los Fondos de Aseguramiento, únicamente utilizarán dicha información para el cumplimiento de su objeto, debiendo abstenerse de proporcionar información para fines distintos de los antes mencionados;
+
 VII. Constituir y administrar un Fondo de Protección y los Fondos de Retención Común de Riesgos, que integran el Sistema de Protección, en los términos descritos en esta Ley;
+
 VIII. Registrar, evaluar y, en su caso, validar, al personal técnico de los Organismos Integradores Estatales y Locales y de las empresas de servicio, que participen en la prestación del servicio de Asesoría Técnica y Seguimiento de las operaciones de los Fondos de Aseguramiento;
-IX. Promover que los Fondos de Aseguramiento a partir de los recursos de su Fondo Social y de aportaciones de otras fuentes, formen otras organizaciones productivas y de servicios para beneficio de sus socios, para el otorgamiento de crédito, comercialización de insumos y cosechas, organismos de ahorro, de servicio técnico, entre otras. Para ello, el Organismo Integrador brindará asesoría sobre las diversas disposiciones legales y reglamentarias que regulen estas opciones de organización, identificará los diversos programas de fomento que incidan en estos proyectos, respaldará las gestiones requeridas ante las autoridades correspondientes y, en general, apoyará en todo aquello que sea requerido para la consecución de estas organizaciones, y X. Promover que las organizaciones de los socios de los Fondos de Aseguramiento a las que se refiere la fracción anterior integren una administración corporativa para brindar servicios de tipo administrativo, comercial, fiscal, jurídico, informático, técnico, financiero y otros afines que fortalezcan la vinculación entre tales organizaciones.
+
+IX. Promover que los Fondos de Aseguramiento a partir de los recursos de su Fondo Social y de aportaciones de otras fuentes, formen otras organizaciones productivas y de servicios para beneficio de sus socios, para el otorgamiento de crédito, comercialización de insumos y cosechas, organismos de ahorro, de servicio técnico, entre otras. Para ello, el Organismo Integrador brindará asesoría sobre las diversas disposiciones legales y reglamentarias que regulen estas opciones de organización, identificará los diversos programas de fomento que incidan en estos proyectos, respaldará las gestiones requeridas ante las autoridades correspondientes y, en general, apoyará en todo aquello que sea requerido para la consecución de estas organizaciones, y
+
+X. Promover que las organizaciones de los socios de los Fondos de Aseguramiento a las que se refiere la fracción anterior integren una administración corporativa para brindar servicios de tipo administrativo, comercial, fiscal, jurídico, informático, técnico, financiero y otros afines que fortalezcan la vinculación entre tales organizaciones.
 Las funciones de los Organismos Integradores descritas, corresponden al Organismo Integrador Nacional, quien, para su ejercicio, deberá contar con registro ante la Secretaría.
 El Organismo Integrador Nacional, podrá delegar tales funciones, bajo su supervisión y coordinación, a los Organismos Integradores Estatales y Locales, atendiendo a sus niveles de desarrollo y consolidación.
 A su vez, los Organismos Integradores Estatales y Locales, podrán solicitar al Organismo Integrador Nacional la delegación de funciones que sean de su interés, para lo cual, deberán acompañar tal solicitud con un Plan de Trabajo. El Organismo Integrador Nacional deberá dar respuesta en un plazo máximo de 30 días naturales; en caso de que dicha respuesta sea negativa el Organismo Integrador podrá presentar su solicitud directamente ante la Secretaría.
 
 ### Artículo 48
 . Los Organismos Integradores al solicitar su registro ante la Secretaría, deberán acompañar a su solicitud:
+
 I. El testimonio de la escritura pública constitutiva del Organismo Integrador Nacional, Estatal o Local, conteniendo los Estatutos que deberán apegarse a las disposiciones y mecanismos que la presente Ley establece, indicando su sujeción a los lineamientos generales a que se refieren los artículos 47 y 85 de esta Ley, así como su inscripción en el Registro Público de la Propiedad y del Comercio. En los Estatutos deberá indicarse su objeto y su organización interna entre otros aspectos, acordes con las disposiciones de esta Ley y demás regulaciones aplicables;
+
 II. El ámbito geográfico en el que operará;
-III. El programa general de operación, que permita a la Secretaría evaluar si el Organismo Integrador podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos: a) Los planes de trabajo; b) Las políticas de afiliación; c) La información y documentación que acredite que cuenta con la infraestructura necesaria para llevar a cabo su objeto, y d) La relación de sus principales administradores y directivos, incluyendo al Comisario, debiéndose acompañar el curriculum vitae de los mismos;
-IV. El proyecto de reglamento interior, con base al cual ejercerá sus funciones de conformidad con esta Ley, y V. En el caso de Organismos Integradores Estatales y Locales, el dictamen del Organismo Integrador Nacional.
+
+III. El programa general de operación, que permita a la Secretaría evaluar si el Organismo Integrador podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos:
+
+a) Los planes de trabajo;
+
+b) Las políticas de afiliación;
+
+c) La información y documentación que acredite que cuenta con la infraestructura necesaria para llevar a cabo su objeto, y
+
+d) La relación de sus principales administradores y directivos, incluyendo al Comisario, debiéndose acompañar el curriculum vitae de los mismos;
+
+IV. El proyecto de reglamento interior, con base al cual ejercerá sus funciones de conformidad con esta Ley, y
+
+V. En el caso de Organismos Integradores Estatales y Locales, el dictamen del Organismo Integrador Nacional.
 Las modificaciones a los Estatutos deberán hacerse del conocimiento de la Secretaría.
 
 ### Artículo 49
@@ -366,21 +594,37 @@ Las modificaciones a los Estatutos deberán hacerse del conocimiento de la Secre
 
 ### Artículo 50
 . Cada Organismo Integrador formulará su reglamento interior, que deberá contener, entre otras, las normas aplicables a:
+
 I. La admisión, suspensión y exclusión de los afiliados;
+
 II. La forma y metodología en que ejercerán las funciones a que se refiere el artículo 47;
+
 III. Las medidas preventivas, correctivas y de control interno;
+
 IV. Los derechos y obligaciones de los afiliados, así como de los no afiliados que hubiesen contratado el servicio de Asesoría Técnica y Seguimiento de Operaciones;
+
 V. La forma de determinar las cuotas que le deberán aportar sus afiliados;
+
 VI. Las aportaciones que los Fondos de Aseguramiento deberán cubrir para el Fondo de Protección y el Fondo de Retención Común de Riesgos;
-VII. Los mecanismos voluntarios de solución de controversias entre los Fondos de Aseguramiento y sus socios, y VIII. La forma mediante la cual se proporcionará a los afiliados la información sobre los servicios que ofrecen, con el objeto de fortalecer la cultura de la prevención en general y de seguros en particular.
+
+VII. Los mecanismos voluntarios de solución de controversias entre los Fondos de Aseguramiento y sus socios, y
+
+VIII. La forma mediante la cual se proporcionará a los afiliados la información sobre los servicios que ofrecen, con el objeto de fortalecer la cultura de la prevención en general y de seguros en particular.
 
 ### Artículo 51
 . Los Fondos de Aseguramiento, en su relación con los Organismos Integradores, tendrán las obligaciones siguientes:
+
 I. Aportar las cuotas periódicas que fije la Asamblea General de afiliados del Organismo Integrador para su sostenimiento, el costo de la prestación del servicio de Asesoría Técnica y Seguimiento de sus Operaciones y las aportaciones para el Fondo de Protección y el Fondo de Retención Común de Riesgos, en los términos de esta Ley y de las disposiciones que de ella emanen;
+
 II. Proporcionar al Organismo Integrador la información y documentación que le requiera para efectos del cumplimiento de sus funciones establecidas en esta Ley;
+
 III. Cumplir con las estipulaciones contenidas en el contrato de afiliación o de prestación de servicios de Asesoría Técnica y Seguimiento de Operaciones, según se trate;
+
 IV. Asistir a través de sus representantes, a las sesiones de la Asamblea General de Afiliados del Organismo Integrador correspondiente y/o a las reuniones convocadas por la misma;
-V. Cumplir con las resoluciones adoptadas por la Asamblea General de Afiliados del Organismo Integrador correspondiente, y VI. Las demás que les señale esta Ley y otras disposiciones aplicables.
+
+V. Cumplir con las resoluciones adoptadas por la Asamblea General de Afiliados del Organismo Integrador correspondiente, y
+
+VI. Las demás que les señale esta Ley y otras disposiciones aplicables.
 
 ### Artículo 52
 . Los Organismos Integradores deberán presentar a la Secretaría la información en la forma y términos que la misma les solicite de conformidad con los lineamientos generales a que se refiere el artículo 47 de esta Ley. La Secretaría podrá solicitar a la Comisión, cuando así lo considere necesario, que practique visitas de inspección para verificar el apego a esta Ley y a las demás regulaciones aplicables, por parte de los Organismos Integradores y, en su caso, de los Fondos de Aseguramiento.
@@ -388,13 +632,22 @@ Para efecto de lo anterior, la Comisión tendrá en lo que no se oponga a esta L
 
 ### Artículo 53
 . La Secretaría, escuchando previamente al Organismo Integrador de que se trate y la opinión de la Comisión, podrá a su juicio revocar el registro que le hubiese otorgado para ejercer las funciones establecidas en esta Ley, en los casos siguientes:
+
 I. Si no inicia operaciones dentro de los sesenta días hábiles siguientes a la fecha del otorgamiento del registro;
+
 II. Si no cumple diligentemente las funciones previstas en esta Ley;
+
 III. Si efectúa operaciones en contravención a lo dispuesto por esta Ley o por las disposiciones que de ella emanen, o si sus actividades se apartan de las sanas prácticas, o si abandona o suspende sus actividades;
+
 IV. Si a pesar de las observaciones de la Secretaría, reiteradamente incumple con las actividades que le establece esta Ley;
+
 V. Si no proporcionan a la Secretaría la información requerida, o bien presenta de manera dolosa, información falsa o incompleta, que no permita conocer su situación real, o la de sus afiliados;
+
 VI. Si se manejan de manera irregular, en su caso, los recursos que integran el Fondo de Protección y el Fondo de Retención Común de Riesgos;
-VII. Si obra sin autorización de la Secretaría, en los casos en que la Ley así lo exija, o VIII. Si se disuelve, liquida o quiebra.
+
+VII. Si obra sin autorización de la Secretaría, en los casos en que la Ley así lo exija, o
+
+VIII. Si se disuelve, liquida o quiebra.
 
 ### Artículo 54
 . Los Fondos de Aseguramiento afiliados a un Organismo Integrador, cuyo registro hubiere sido revocado por la Secretaría, deberán solicitar su afiliación a un Organismo Integrador distinto o sujetarse al régimen de Fondo de Aseguramiento no afiliado en un término no mayor a treinta días hábiles a partir de la fecha en que surta sus efectos la revocación antes citada.
@@ -406,7 +659,10 @@ En el caso de las Asambleas Estatales, deberá invitarse a acudir con voz pero s
 
 ### Artículo 56
 . La Asamblea General de Afiliados del Organismo Integrador podrá estar integrada, a elección de sus afiliados:
-I. Por un representante de cada afiliado, o II. A través de un sistema de representación proporcional, en el que se asignará a cada afiliado el número de votos que le correspondan, considerando el número de socios y/o los riesgos asegurados totales de los Fondos de Aseguramiento que le correspondan. En ningún caso, un afiliado podrá representar más del veinte por ciento del total de votos, excepto que el número de afiliados sea inferior a cinco, en tal caso la representación será en porcentajes iguales para cada afiliado.
+
+I. Por un representante de cada afiliado, o
+
+II. A través de un sistema de representación proporcional, en el que se asignará a cada afiliado el número de votos que le correspondan, considerando el número de socios y/o los riesgos asegurados totales de los Fondos de Aseguramiento que le correspondan. En ningún caso, un afiliado podrá representar más del veinte por ciento del total de votos, excepto que el número de afiliados sea inferior a cinco, en tal caso la representación será en porcentajes iguales para cada afiliado.
 
 ### Artículo 57
 . El Consejo de Administración del Organismo Integrador estará formado por consejeros electos por la Asamblea General de Afiliados del Organismo Integrador, cuyo número no será menor de tres ni mayor de cinco, mismos que deberán cumplir con los requisitos que para ser consejero de un Fondo de Aseguramiento señala el artículo 18. Los consejeros fungirán por un periodo máximo de hasta cinco años con posibilidad de una sola reelección.
@@ -415,14 +671,22 @@ Los consejeros tendrán la obligación de comunicar al Presidente del Consejo so
 
 ### Artículo 58
 . El Consejo de Administración nombrará un Gerente o Director del Organismo Integrador, quien deberá reunir los requisitos siguientes:
-I. Haber prestado por lo menos cinco años sus servicios en puestos cuyo desempeño requiera conocimientos y experiencia en materia de seguros agropecuarios o seguros generales y administración, y II. No tener alguno de los impedimentos que para ser consejero de un Fondo de Aseguramiento señala el artículo 19.
+
+I. Haber prestado por lo menos cinco años sus servicios en puestos cuyo desempeño requiera conocimientos y experiencia en materia de seguros agropecuarios o seguros generales y administración, y
+
+II. No tener alguno de los impedimentos que para ser consejero de un Fondo de Aseguramiento señala el artículo 19.
 
 ### Artículo 59
 . La vigilancia interna del Organismo Integrador estará a cargo de un Comisario, cuyas responsabilidades y obligaciones deberán determinarse en sus Estatutos.
 El Comisario realizará las siguientes funciones:
+
 I. Verificar que el Organismo Integrador cumpla con la regulación aplicable;
+
 II. Recibir los informes del Consejo de Administración y los dictámenes de los auditores externos para su conocimiento y análisis;
-III. Informar a la Secretaría en términos de los lineamientos generales a que se refiere el artículo 47 de esta Ley, al Consejo de Administración y a la Asamblea General del cumplimiento de sus obligaciones y responsabilidades, así como de los hallazgos e irregularidades de que tenga conocimiento en el ejercicio de sus funciones, y IV. Proponer al Consejo de Administración el programa de control y corrección interno del Organismo Integrador y sus modificaciones, a prevenir conflictos de interés y el uso indebido de la información.
+
+III. Informar a la Secretaría en términos de los lineamientos generales a que se refiere el artículo 47 de esta Ley, al Consejo de Administración y a la Asamblea General del cumplimiento de sus obligaciones y responsabilidades, así como de los hallazgos e irregularidades de que tenga conocimiento en el ejercicio de sus funciones, y
+
+IV. Proponer al Consejo de Administración el programa de control y corrección interno del Organismo Integrador y sus modificaciones, a prevenir conflictos de interés y el uso indebido de la información.
 El Comisario asistirá con voz pero sin voto a las sesiones del Consejo de Administración del Organismo Integrador.
 El Comisario deberá cumplir con los requisitos que para ser consejero de un Fondo de Aseguramiento señala el artículo 18.
 
@@ -441,7 +705,10 @@ El Organismo Integrador Estatal publicará anualmente, en periódico de amplia c
 
 ### Artículo 63
 . Para formalizar el contrato de afiliación deberá cumplirse cuando menos con lo siguiente:
-I. Contar con el registro de la Secretaría, para operar como Fondo de Aseguramiento, y II. Exhibir acta de Asamblea del Fondo de Aseguramiento en la que se haya acordado la afiliación correspondiente.
+
+I. Contar con el registro de la Secretaría, para operar como Fondo de Aseguramiento, y
+
+II. Exhibir acta de Asamblea del Fondo de Aseguramiento en la que se haya acordado la afiliación correspondiente.
 La formalización de dicho contrato deberá efectuarse a más tardar dentro de los treinta días hábiles siguientes a la fecha en que se les haya notificado el registro para operar como Fondo de Aseguramiento.
 
 ### Artículo 64
@@ -472,8 +739,12 @@ De la Fusión, Disolución, Liquidación y Revocación
 
 ### Artículo 70
 . Para los efectos de esta Ley y en términos de la misma, se podrán utilizar los siguientes mecanismos:
+
 I. La fusión del Fondo de Aseguramiento;
-II. La disolución y liquidación del Fondo de Aseguramiento, y III. La revocación del registro de la Secretaría.
+
+II. La disolución y liquidación del Fondo de Aseguramiento, y
+
+III. La revocación del registro de la Secretaría.
 En los casos de fusión, disolución y liquidación, los Fondos de Aseguramiento podrán recibir apoyos financieros del Fondo de Protección, tendientes a cubrir los costos derivados de estos mecanismos.
 
 ### Artículo 71
@@ -481,11 +752,18 @@ En los casos de fusión, disolución y liquidación, los Fondos de Aseguramiento
 
 ### Artículo 72
 . El Fondo de Aseguramiento se disolverá y liquidará por las causas siguientes:
+
 I. Por disposición legal o resolución de autoridad competente;
+
 II. Por imposibilidad de seguir realizando su objeto social;
+
 III. Si se coloca en situación de inviabilidad técnica o financiera;
+
 IV. Por pérdida del registro ante la Secretaría;
-V. Por incumplimiento a esta Ley, y VI. Por acuerdo de los socios.
+
+V. Por incumplimiento a esta Ley, y
+
+VI. Por acuerdo de los socios.
 En caso de disolución, si no tuviere adeudos y existieren remanentes al momento de la disolución y liquidación, éstos deberán ser distribuidos entre los socios proporcionalmente a las cuotas pagadas durante los últimos tres ejercicios anuales anteriores a su liquidación y conforme a lo dispuesto en los Estatutos y en el reglamento interno del Fondo de Aseguramiento.
 En caso de liquidación, la Asamblea General convocada para tal efecto, elegirá una Comisión Liquidadora que procederá conforme a las leyes de la materia, debiendo informarlo a la Secretaría, al Organismo Integrador Estatal al que pertenezca, al Organismo Integrador Nacional y a la Institución que le proporcione el servicio de reaseguro y/o coaseguro, dentro de los cinco días hábiles siguientes a la celebración de la Asamblea en que se haya tomado el acuerdo.
 
@@ -496,16 +774,28 @@ En relación a los procesos de liquidación o disolución, los acuerdos de la As
 
 ### Artículo 74
 . La Secretaría, escuchando al Fondo de Aseguramiento de que se trate, podrá revocar el registro de un Fondo de Aseguramiento en los siguientes casos:
+
 I. Si no inicia sus operaciones dentro de un año, a partir de la fecha en que se le haya otorgado su registro;
+
 II. Si no constituye, incrementa, invierte y utiliza las reservas técnicas conforme a lo establecido en esta Ley;
+
 III. Si infringe lo establecido en la cláusula de extranjería o si establece con las personas, entidades o grupos mencionados en la misma, relaciones evidentes de dependencia;
+
 IV. Si no diversifica sus responsabilidades conforme a lo previsto en esta Ley;
+
 V. Si excede los límites de las obligaciones que pueda contraer o retener, o si ejecuta operaciones distintas a las permitidas por esta Ley;
+
 VI. Si no cumple con las funciones para las que se constituyó;
+
 VII. Cuando por causas imputables al Fondo de Aseguramiento no aparezcan correctamente registradas en su contabilidad las operaciones que haya efectuado;
+
 VIII. Si asegura a personas que no tengan el carácter de socios;
+
 IX. Si impide que el Organismo Integrador al que esté afiliado o el Organismo Integrador o entidad que le haya sido designado por la Secretaría, lleve a cabo las labores de Seguimiento de Operaciones en los términos establecidos en el contrato;
-X. Si incurre en cualquiera de los casos de disolución o entra en estado de liquidación, y XI. Si deja de operar por más de dos ejercicios anuales consecutivos.
+
+X. Si incurre en cualquiera de los casos de disolución o entra en estado de liquidación, y
+
+XI. Si deja de operar por más de dos ejercicios anuales consecutivos.
 La declaración de revocación del registro incapacitará al Fondo de Aseguramiento para otorgar cualquier seguro a partir de la fecha en que se le notifique la revocación y pondrá al Fondo de Aseguramiento en estado de disolución y liquidación.
 La solicitud de revocación del registro podrá ser formulada ante la Secretaría por la SAGARPA, por el Organismo Integrador Nacional o por el que preste los Servicios de Seguimiento de Operaciones, o por los Consejos de Administración o Vigilancia o los socios del Fondo de Aseguramiento. Dicha solicitud deberá fundarse y motivarse, precisando las causales de revocación establecidas en el presente artículo y acompañarse de las pruebas documentales correspondientes, para iniciar el procedimiento de revocación, la Secretaría podrá iniciar el procedimiento sin mediar solicitud.
 La Secretaría, valorará la procedencia o improcedencia de la solicitud de revocación, notificándole a los interesados su resolución de iniciar o no el procedimiento de revocación. En caso de procedencia, notificará al Fondo de Aseguramiento la iniciación del procedimiento, haciendo de su conocimiento las causales que se le imputan y le otorgará un plazo de quince días hábiles, a partir de la fecha de notificación, para que exponga lo que a su derecho convenga. Si las causales de revocación se acreditan durante el procedimiento, la Secretaría resolverá y comunicará la declaratoria de revocación del registro a los interesados.
@@ -513,8 +803,18 @@ TÍTULO TERCERO DEL SISTEMA DE PROTECCIÓN Capítulo Único De los Fondos de Pro
 
 ### Artículo 75
 . En complemento a la operación de Seguros, llevada a cabo por los Fondos de Aseguramiento, se establece un Sistema de Protección integrado por el Fondo de Protección y el Fondo de Retención Común de Riesgos, de acuerdo a lo siguiente:
-I. El Fondo de Protección tendrá la finalidad de apoyar a los Fondos de Aseguramiento en el pago de las obligaciones contraídas con sus socios en los siguientes términos: a) Apoyar a los Fondos de Aseguramiento declarados en disolución y liquidación a pagar las indemnizaciones a que tengan derecho los socios y que no fuera posible cubrir con las reservas técnicas, ni con los contratos de reaseguro o coaseguro; b) Otorgar apoyos preventivos de liquidez a los Fondos de Aseguramiento que se encuentren en problemas financieros transitorios siempre y cuando: i. Se presente el estudio o expediente que justifique económica, administrativa y técnicamente el apoyo solicitado; ii. Exista, en su caso, un programa de restauración de reservas, y iii. Se otorguen las garantías que el Comité Técnico considere suficientes, sin contravenir lo dispuesto en el artículo 41 de esta Ley.
-Los montos de los apoyos preventivos de liquidez que otorgue el Fondo de Protección serán aprobados por el Comité Técnico, previsto en los artículos 79 y 80 de esta Ley, y la suma de los mismos en ningún caso podrá exceder el quince por ciento del patrimonio de dicho Fondo de Protección. c) Apoyar los casos de fusión, disolución y liquidación de Fondos de Aseguramiento, tendientes a cubrir los costos derivados de estos mecanismos, y d) Los apoyos contemplados en los tres incisos anteriores serán independientes de las sanciones penales o económicas a que se hagan acreedoras las personas causantes de operaciones ilícitas, quebranto patrimonial, malversación de las reservas técnicas o del Fondo Social de un Fondo de Aseguramiento.
+
+I. El Fondo de Protección tendrá la finalidad de apoyar a los Fondos de Aseguramiento en el pago de las obligaciones contraídas con sus socios en los siguientes términos:
+
+a) Apoyar a los Fondos de Aseguramiento declarados en disolución y liquidación a pagar las indemnizaciones a que tengan derecho los socios y que no fuera posible cubrir con las reservas técnicas, ni con los contratos de reaseguro o coaseguro;
+
+b) Otorgar apoyos preventivos de liquidez a los Fondos de Aseguramiento que se encuentren en problemas financieros transitorios siempre y cuando: i. Se presente el estudio o expediente que justifique económica, administrativa y técnicamente el apoyo solicitado; ii. Exista, en su caso, un programa de restauración de reservas, y iii. Se otorguen las garantías que el Comité Técnico considere suficientes, sin contravenir lo dispuesto en el artículo 41 de esta Ley.
+Los montos de los apoyos preventivos de liquidez que otorgue el Fondo de Protección serán aprobados por el Comité Técnico, previsto en los artículos 79 y 80 de esta Ley, y la suma de los mismos en ningún caso podrá exceder el quince por ciento del patrimonio de dicho Fondo de Protección.
+
+c) Apoyar los casos de fusión, disolución y liquidación de Fondos de Aseguramiento, tendientes a cubrir los costos derivados de estos mecanismos, y
+
+d) Los apoyos contemplados en los tres incisos anteriores serán independientes de las sanciones penales o económicas a que se hagan acreedoras las personas causantes de operaciones ilícitas, quebranto patrimonial, malversación de las reservas técnicas o del Fondo Social de un Fondo de Aseguramiento.
+
 II. El Fondo de Retención Común de Riesgos tendrá como objetivo fomentar un sistema de retención común de riesgos entre Fondos de Aseguramiento que les permita acceder al mercado de reaseguro en mejores condiciones y obtener contratos más favorables.
 
 ### Artículo 76
@@ -531,25 +831,39 @@ Los Fondos de Aseguramiento tendrán la obligación de informar a sus socios, so
 
 ### Artículo 78
 . En el contrato de fideicomiso para el Fondo de Protección deberá preverse que para el cumplimiento de sus fines, el fiduciario tendrá, sin perjuicio de las demás atribuciones y obligaciones que las Leyes le establecen, las siguientes:
+
 I. Pagar hasta donde alcancen los recursos del Fondo de Protección, en forma subsidiaria, las indemnizaciones a que tengan derecho los socios y que el Fondo de Aseguramiento les adeude, con los límites y condiciones a que se refiere esta Ley y los que se establezcan en el propio contrato de fideicomiso;
+
 II. Otorgar apoyo financiero a los Fondos de Aseguramiento, conforme a lo estipulado en el artículo 75 de esta Ley;
+
 III. Realizar las operaciones y contratos de carácter mercantil o civil que sean necesarios para el cumplimiento del objeto del fideicomiso;
-IV. Comunicar al Organismo Integrador Nacional las irregularidades que por razón de sus competencias les corresponda conocer, y V. Las demás que ésta y otras Leyes prevean para el cumplimiento de su objeto.
+
+IV. Comunicar al Organismo Integrador Nacional las irregularidades que por razón de sus competencias les corresponda conocer, y
+
+V. Las demás que ésta y otras Leyes prevean para el cumplimiento de su objeto.
 
 ### Artículo 79
 . El Comité Técnico del Fondo de Protección estará integrado por cinco miembros propietarios y sus respectivos suplentes que serán designados por el Consejo de Administración del Organismo Integrador Nacional y aprobados por la Asamblea General del mismo, cuidando que pertenezcan a Organismos Integradores de distintas Entidades Federativas.
 
 ### Artículo 80
 . El Comité Técnico del Fondo de Protección tendrá las siguientes facultades:
+
 I. Calcular al finalizar cada ejercicio social o ciclo agrícola o ganadero, según corresponda, de cada Fondo de Aseguramiento las aportaciones que deberá pagar para la constitución e integración del Fondo de Protección;
+
 II. Instruir al fiduciario, sobre los instrumentos en los que deberá invertir los recursos del fideicomiso en términos del artículo 39;
+
 III. Evaluar los aspectos operativos del fideicomiso;
+
 IV. Revisar y aprobar, en su caso, los informes que rinda el fiduciario sobre el manejo del patrimonio fideicomitido;
+
 V. Hacer públicas las reglas conforme a las cuales se procederá a otorgar apoyos a los Fondos de Aseguramiento;
+
 VI. Aprobar los casos en que proceda otorgar apoyos a los Fondos de Aseguramiento, conforme al
 
 ### artículo 75
-, y VII. Las demás que ésta y otras Leyes prevean para el cumplimiento de su objeto, así como las que se prevean en el contrato de fideicomiso del Fondo de Protección.
+, y
+
+VII. Las demás que ésta y otras Leyes prevean para el cumplimiento de su objeto, así como las que se prevean en el contrato de fideicomiso del Fondo de Protección.
 
 ### Artículo 81
 . Cuando algún Fondo de Aseguramiento no cumpla en tiempo y forma con las aportaciones fijadas por el Comité Técnico del Fondo de Protección, deberá pagar los intereses moratorios que se establezcan en el contrato de fideicomiso correspondiente.
@@ -609,12 +923,24 @@ Capítulo Tercero Disposiciones Finales
 
 ### Artículo 95
 . Los Fondos de Aseguramiento y los Organismos Integradores, en términos de las disposiciones de carácter general que emita la Secretaría, escuchando la previa opinión de la Comisión, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la en los supuestos del artículo 400 Bis del mismo Código, y II. Presentar a la Secretaría, por conducto de la Comisión, reportes sobre: a) Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y b) Todo acto, operación o servicio, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, directivos, funcionarios, empleados y apoderados.
+
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la en los supuestos del artículo 400 Bis del mismo Código, y
+
+II. Presentar a la Secretaría, por conducto de la Comisión, reportes sobre:
+
+a) Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y
+
+b) Todo acto, operación o servicio, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, directivos, funcionarios, empleados y apoderados.
 Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y financieras que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información.
 Asimismo, la Secretaría en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que los Fondos de Aseguramiento y los Organismos Integradores deberán observar respecto de:
+
 III. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
+
 IV. La información y documentación que los Fondos de Aseguramiento y los Organismos Integradores deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
-V. La forma en que los mismos Fondos de Aseguramiento y los Organismos Integradores deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y VI. Los términos para proporcionar capacitación al interior de los Fondos de Aseguramiento y los Organismos Integradores sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+
+V. La forma en que los mismos Fondos de Aseguramiento y los Organismos Integradores deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+VI. Los términos para proporcionar capacitación al interior de los Fondos de Aseguramiento y los Organismos Integradores sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
 Los Fondos de Aseguramiento y los Organismos Integradores deberán conservar, por al menos diez años, la información y documentación a que se refiere la fracción V de este artículo, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
 La Secretaría estará facultada para requerir y recabar, por conducto de la Comisión, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Los Fondos de Aseguramiento y los Organismos Integradores, estarán obligados a proporcionar dicha información y documentación. La Secretaría estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
 El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a la obligación de confidencialidad legal, ni constituirá violación a las restricciones sobre revelación de información establecidas por vía contractual, ni a lo dispuesto en materia del secreto propio de las operaciones a que se refiere el artículo 46 fracción XV, en relación con los artículos 117 y 118 de la Ley de Instituciones de Crédito.

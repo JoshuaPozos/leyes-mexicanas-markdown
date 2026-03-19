@@ -23,13 +23,22 @@ La aplicación de esta Ley corresponde a la Secretaría de Agricultura, Ganader�
 
 ### Artículo 3o
 . Para los efectos de esta Ley, se entenderá por:
+
 I. ACTIVIDADES AGROPECUARIAS.- Los procesos productivos primarios basados en recursos naturales renovables: agricultura, ganadería, silvicultura, acuacultura y pesca ribereña;
+
 II. CONSTITUCIÓN.- La Constitución Política de los Estados Unidos Mexicanos;
+
 III. CUOTA ENERGÉTICA.- El volumen de consumo de energético agropecuario que se establezca para cada beneficiario;
+
 IV. DESARROLLO RURAL SUSTENTABLE.- El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos, de acuerdo con las disposiciones aplicables asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+
 V. ENERGÉTICOS AGROPECUARIOS.- Son la gasolina, el diesel, el combustóleo y la energía eléctrica empleados directamente en las actividades agropecuarias;
+
 VI. LEY.- La Ley de Energía para el Campo;
-VII. PRECIOS Y TARIFAS DE ESTÍMULO.- Son los precios y tarifas cuyo propósito es estimular las actividades agropecuarias, en los términos de esta Ley y su Reglamento, y VIII. PROGRAMA.- Programa de Energía para el Campo.
+
+VII. PRECIOS Y TARIFAS DE ESTÍMULO.- Son los precios y tarifas cuyo propósito es estimular las actividades agropecuarias, en los términos de esta Ley y su Reglamento, y
+
+VIII. PROGRAMA.- Programa de Energía para el Campo.
 CAPÍTULO SEGUNDO DE LAS CUOTAS ENERGÉTICAS
 
 ### Artículo 4o
@@ -47,8 +56,12 @@ Los precios y tarifas de estímulo que se autoricen para las diferentes activida
 
 ### Artículo 7o
 . La cuota energética se otorgará previo dictamen de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y se utilizará exclusivamente en:
+
 I. Motores para bombeo y rebombeo agrícola y ganadero, tractores y maquinaria agrícola y motores fuera de borda, que se utilicen directamente en las actividades objeto de esta Ley, según lo establecido en el artículo 3o. fracción I de la misma;
-II. Maquinaria pesada utilizada en las mejoras de terrenos agrícolas, de agostadero, acuícola y silvícola, y III. Las demás actividades que establezca la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, a través del Reglamento.
+
+II. Maquinaria pesada utilizada en las mejoras de terrenos agrícolas, de agostadero, acuícola y silvícola, y
+
+III. Las demás actividades que establezca la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, a través del Reglamento.
 El Reglamento establecerá el consumo por hora, mensual o anual, según sea el caso. La adopción del Programa deberá significar mejores resultados en la productividad del sector y establecerá por parte del beneficiario un compromiso de mayor eficiencia productiva y energética. Los requisitos del mismo serán establecidos en el Reglamento que para tal efecto emita la propia Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 La solicitud de cuota energética deberá hacerse por cada ciclo productivo.
 
@@ -74,7 +87,10 @@ DE LAS INFRACCIONES Y SANCIONES
 
 ### Artículo 13
 . Son infracciones a la presente Ley:
-I. El desvío de la cuota energética para fines diversos a los que fue autorizada al beneficiario, y II. Comercializar la cuota energética.
+
+I. El desvío de la cuota energética para fines diversos a los que fue autorizada al beneficiario, y
+
+II. Comercializar la cuota energética.
 
 ### Artículo 14
 . Las infracciones señaladas en el artículo anterior, se sancionarán con la pérdida de la cuota energética establecida en la presente Ley, correspondiente a los dos ciclos productivos inmediatos posteriores.

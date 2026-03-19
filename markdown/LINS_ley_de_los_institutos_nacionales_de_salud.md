@@ -15,16 +15,28 @@ TÍTULO PRIMERO Disposiciones generales Capítulo Único
 
 ### ARTÍCULO 2
 . Para los efectos de esta ley se entenderá por:
+
 I. Ciencia médica, a la disciplina que, conforme a métodos científicamente aceptados, desarrolla un conocimiento sistematizado que de manera metódica, racional y objetiva tiene el propósito de investigar, describir y explicar el origen de las enfermedades, su prevención, diagnóstico y tratamiento, así como de procurar la rehabilitación del afectado y el mantenimiento y protección de la salud de las personas;
+
 II. Enseñanza en salud, a la transmisión sistemática de conocimientos de la Ciencia Médica, habilidades, destrezas y actitudes con propósitos de aprendizaje, para la formación de recursos humanos para la salud;
+
 III. Institutos Nacionales de Salud, a los organismos descentralizados de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, agrupados en el Sector Salud, que tienen como objeto principal la investigación científica en el campo de la salud, la formación y capacitación de recursos humanos calificados y la prestación de servicios de atención médica de alta especialidad, y cuyo ámbito de acción comprende todo el territorio nacional;
+
 IV. Investigación en salud, al estudio y análisis original de temas de la Medicina, sujetos al método científico, con el propósito de generar conocimientos sobre la salud o la enfermedad, para su aplicación en la atención médica;
+
 V. Investigación aplicada en salud, a aquella que se orienta a la comprensión, prevención, diagnóstico y tratamiento de problemas de salud determinados;
+
 VI. Investigación básica en salud, a aquella relativa al estudio de los mecanismos celulares, moleculares, genéticos, bioquímicos, inmunológicos y otros, que tenga como propósito ampliar el conocimiento de la Ciencia Médica;
+
 VII. Investigador, al profesional que mediante su participación en actividades científicas genera conocimientos, por su cuenta o institucionalmente, en la Biomedicina o la Medicina;
+
 VIII. Recursos autogenerados, a los ingresos que obtengan los Institutos Nacionales de Salud por la recuperación de cuotas por los servicios que presten y las actividades que realicen;
+
 IX. Recursos de terceros, a aquéllos puestos a disposición de los Institutos Nacionales de Salud por personas físicas o morales, públicas o privadas, nacionales o extranjeras, para financiar proyectos de investigación y que pueden o no haber sido obtenidos o promovida su disposición por investigadores;
-X. Recursos de origen externo, a los subsidios, participaciones, donativos, herencias y legados, en efectivo o en especie, de personas físicas o morales, públicas o privadas, nacionales o extranjeras, que se otorguen de manera directa a los Institutos o a través de sus patronatos, y XI. Secretaría, a la Secretaría de Salud del Ejecutivo Federal.
+
+X. Recursos de origen externo, a los subsidios, participaciones, donativos, herencias y legados, en efectivo o en especie, de personas físicas o morales, públicas o privadas, nacionales o extranjeras, que se otorguen de manera directa a los Institutos o a través de sus patronatos, y
+
+XI. Secretaría, a la Secretaría de Salud del Ejecutivo Federal.
 
 ### ARTÍCULO 3
 . La Ley Federal de las Entidades Paraestatales y sus disposiciones reglamentarias, se aplicarán para los Institutos Nacionales de Salud en lo que no se contraponga con esta ley, particularmente, en lo que se refiere al fortalecimiento de su autonomía técnica, operativa y administrativa.
@@ -38,53 +50,98 @@ Funciones
 
 ### ARTÍCULO 5
 . Los organismos descentralizados que serán considerados como Institutos Nacionales de Salud, son cada uno de los siguientes, para las áreas que se indican:
+
 I. Instituto Nacional de Cancerología, para la especialidad de las neoplasias;
+
 II. Instituto Nacional de Cardiología Ignacio Chávez, para los padecimientos cardiovasculares;
+
 III. Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, para las disciplinas biomédicas vinculadas con la medicina interna de alta especialidad en adultos y las relacionadas con la nutrición;
+
 IV. Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas, para los padecimientos del aparato respiratorio;
 Fracción reformada DOF 22-06-2006 IV Bis. Instituto Nacional de Geriatría, para la formación de recursos humanos y la investigación del envejecimiento, de las enfermedades y cuidados del adulto mayor;
-Fracción adicionada DOF 30-05-2012 V. Instituto Nacional de Neurología y Neurocirugía Manuel Velasco Suárez, para las afecciones del sistema nervioso;
+Fracción adicionada DOF 30-05-2012
+
+V. Instituto Nacional de Neurología y Neurocirugía Manuel Velasco Suárez, para las afecciones del sistema nervioso;
 V bis.- Instituto Nacional de Medicina Genómica, para la regulación, promoción, fomento y práctica de la investigación y aplicación médica del conocimiento sobre del genoma humano;
-Fracción adicionada DOF 20-07-2004 VI. Instituto Nacional de Pediatría, para los padecimientos de la población infantil hasta la adolescencia;
+Fracción adicionada DOF 20-07-2004
+
+VI. Instituto Nacional de Pediatría, para los padecimientos de la población infantil hasta la adolescencia;
+
 VII. Instituto Nacional de Perinatología Isidro Espinosa de los Reyes, para la salud reproductiva y perinatal;
-Fracción reformada DOF 05-11-2004 VIII. Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz, para la psiquiatría y la salud mental;
+Fracción reformada DOF 05-11-2004
+
+VIII. Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz, para la psiquiatría y la salud mental;
 VIII Bis. Instituto Nacional de Rehabilitación Luis Guillermo Ibarra Ibarra;
-Fracción adicionada DOF 22-06-2005. Reformada DOF 27-01-2015 IX. Instituto Nacional de Salud Pública, para la investigación y enseñanza en salud pública;
-X. Hospital Infantil de México Federico Gómez, para los padecimientos de la población infantil hasta la adolescencia, y XI. Los demás que en el futuro sean creados por ley o decreto del Congreso de la Unión, con las características que se establecen en la fracción III, del artículo 2 de la presente ley.
+Fracción adicionada DOF 22-06-2005. Reformada DOF 27-01-2015
+
+IX. Instituto Nacional de Salud Pública, para la investigación y enseñanza en salud pública;
+
+X. Hospital Infantil de México Federico Gómez, para los padecimientos de la población infantil hasta la adolescencia, y
+
+XI. Los demás que en el futuro sean creados por ley o decreto del Congreso de la Unión, con las características que se establecen en la fracción III, del artículo 2 de la presente ley.
 
 ### ARTÍCULO 6
 . A los Institutos Nacionales de Salud les corresponderá:
+
 I. Realizar estudios e investigaciones clínicas, epidemiológicas, experimentales, de desarrollo tecnológico y básicas, en las áreas biomédicas y sociomédicas en el campo de sus especialidades, para la comprensión, prevención, diagnóstico y tratamiento de las enfermedades, y rehabilitación de los afectados, así como para promover medidas de salud;
+
 II. Publicar los resultados de las investigaciones y trabajos que realice, integrándolos al Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, de conformidad con lo estipulado en la Ley de Ciencia y Tecnología.
-Fracción reformada DOF 16-02-2018 III. Promover y realizar reuniones de intercambio científico, de carácter nacional e internacional, y celebrar convenios de coordinación, intercambio o cooperación con instituciones afines;
+Fracción reformada DOF 16-02-2018
+
+III. Promover y realizar reuniones de intercambio científico, de carácter nacional e internacional, y celebrar convenios de coordinación, intercambio o cooperación con instituciones afines;
+
 IV. Formar recursos humanos en sus áreas de especialización, así como en aquellas que le sean afines;
+
 V. Formular y ejecutar programas de estudio y cursos de capacitación, enseñanza, especialización y actualización de personal profesional, técnico y auxiliar, en sus áreas de especialización y afines, así como evaluar y reconocer el aprendizaje;
+
 VI. Otorgar constancias, diplomas, reconocimientos y certificados de estudios, grados y títulos, en su caso, de conformidad con las disposiciones aplicables;
+
 VII. Prestar servicios de salud en aspectos preventivos, médicos, quirúrgicos y de rehabilitación en sus áreas de especialización;
+
 VIII. Proporcionar consulta externa, atención hospitalaria y servicios de urgencias a la población que requiera atención médica en sus áreas de especialización, hasta el límite de su capacidad instalada;
+
 IX. Asesorar y formular opiniones a la Secretaría cuando sean requeridos para ello;
+
 X. Actuar como órganos de consulta, técnica y normativa, de las dependencias y entidades de la Administración Pública Federal en sus áreas de especialización, así como prestar consultorías a título oneroso a personas de derecho privado;
+
 XI. Asesorar a los centros especializados de investigación, enseñanza o atención médica de las entidades federativas y, en general, a cualquiera de sus instituciones públicas de salud;
+
 XII. Promover acciones para la protección de la salud, en lo relativo a los padecimientos propios de sus especialidades;
-XIII. Coadyuvar con la Secretaría a la actualización de los datos sobre la situación sanitaria general del país, respecto de las especialidades médicas que les correspondan, y XIV. Realizar las demás actividades que les correspondan conforme a la presente ley y otras disposiciones aplicables.
+
+XIII. Coadyuvar con la Secretaría a la actualización de los datos sobre la situación sanitaria general del país, respecto de las especialidades médicas que les correspondan, y
+
+XIV. Realizar las demás actividades que les correspondan conforme a la presente ley y otras disposiciones aplicables.
 
 ### ARTÍCULO 7
 . El objeto del Instituto Nacional de Salud Pública comprenderá la prestación de servicios de salud a un universo de usuarios no susceptible de determinarse. Las funciones de este Instituto serán, además de las señaladas en las fracciones I a VI y IX a XIV del artículo anterior, las siguientes:
+
 I. Estudiar y diseñar métodos y técnicas de investigación científica relacionados con la salud;
+
 II. Desarrollar encuestas en las áreas de la salud pública;
+
 III. Coadyuvar a la vigilancia epidemiológica de las enfermedades infecciosas y de otros problemas de salud en el país, y de aquéllas que puedan introducirse al territorio nacional;
-IV. Contribuir al desarrollo de la tecnología diagnóstica apropiada a las necesidades nacionales, en materia de enfermedades transmisibles, y V. Servir como centro de referencia para el diagnóstico de las enfermedades infecciosas.
+
+IV. Contribuir al desarrollo de la tecnología diagnóstica apropiada a las necesidades nacionales, en materia de enfermedades transmisibles, y
+
+V. Servir como centro de referencia para el diagnóstico de las enfermedades infecciosas.
 
 ### ARTÍCULO 7
 bis.- El Instituto Nacional de Medicina Genómica tendrá las siguientes atribuciones:
+
 I. Realizar estudios e investigaciones clínicas, epidemiológicas, experimentales, de desarrollo tecnológico y básicas en las áreas de su especialidad, para la comprensión, prevención, diagnóstico y tratamiento de las enfermedades, rehabilitación de los afectados, así como para promover medidas de salud;
+
 II. Realizar las actividades a que se refieren las fracciones II, III, IV, V, VI, IX, X, XI, XII, XIII y XIV del
 
 ### artículo 6
 del presente ordenamiento;
+
 III. Las actividades a que se refieren las fracciones VII y VIII del artículo 6 de esta Ley se realizarán a través de otras instituciones de salud;
+
 IV. Impulsar en forma decidida la vinculación con instituciones nacionales para conformar una red de investigación y desarrollo en el campo de la medicina genómica y disciplinas afines, con la participación de instituciones internacionales; de conformidad con lo dispuesto en la presente Ley;
-V. Fomentar la realización de proyectos de desarrollo de tecnología especializada, obteniendo con ello protocolos de innovación tecnológica en cuanto a la elaboración de medios de diagnóstico, fármaco-genómica y terapia génica, y VI. Ser el Centro Nacional de Referencia para asuntos relacionados con estudios sobre el genoma humano y sus aplicaciones.
+
+V. Fomentar la realización de proyectos de desarrollo de tecnología especializada, obteniendo con ello protocolos de innovación tecnológica en cuanto a la elaboración de medios de diagnóstico, fármaco-genómica y terapia génica, y
+
+VI. Ser el Centro Nacional de Referencia para asuntos relacionados con estudios sobre el genoma humano y sus aplicaciones.
 Artículo adicionado DOF 20-07-2004
 
 ### ARTÍCULO 7
@@ -92,8 +149,12 @@ Ter. El Instituto Nacional de Geriatría tendrá, además de las funciones seña
 
 ### artículo 6
 de esta ley, las siguientes:
+
 I. Apoyar a la Secretaría, en su carácter de dependencia coordinadora de sector, para la elaboración y ejecución de los programas anuales, sectoriales, especiales y regionales de salud en el ámbito de sus funciones, así como promover la concertación de acciones con los sectores social y privado en su ámbito de competencia;
-II. Fomentar la realización de proyectos de desarrollo de tecnología especializada, obteniendo con ello protocolos de innovación tecnológica en cuanto a la elaboración de medios de diagnóstico y tratamiento; y III. Ser el centro nacional de referencia para asuntos relacionados con estudios sobre el envejecimiento poblacional y sus aplicaciones.
+
+II. Fomentar la realización de proyectos de desarrollo de tecnología especializada, obteniendo con ello protocolos de innovación tecnológica en cuanto a la elaboración de medios de diagnóstico y tratamiento; y
+
+III. Ser el centro nacional de referencia para asuntos relacionados con estudios sobre el envejecimiento poblacional y sus aplicaciones.
 Artículo adicionado DOF 30-05-2012
 
 ### ARTÍCULO 8
@@ -101,11 +162,18 @@ Artículo adicionado DOF 30-05-2012
 
 ### ARTÍCULO 9
 . El patrimonio de cada uno de los Institutos Nacionales de Salud se integrará con:
+
 I. Los bienes muebles e inmuebles y derechos que les transfiera o haya transferido el Gobierno Federal;
+
 II. Los bienes propios, entendidos éstos como los muebles e inmuebles adquiridos por los Institutos con recursos autogenerados, externos o de terceros, que utilizan en propósitos distintos a los de su objeto, y que no pueden ser clasificados como bienes del dominio público o privado de la Federación;
+
 III. Los recursos presupuestales que les asigne el Gobierno Federal;
+
 IV. Los recursos autogenerados;
-V. Los recursos de origen externo, y VI. Los demás bienes, derechos y recursos que por cualquier título adquieran.
+
+V. Los recursos de origen externo, y
+
+VI. Los demás bienes, derechos y recursos que por cualquier título adquieran.
 
 ## Capítulo II
 Autonomía
@@ -138,13 +206,23 @@ Artículo reformado DOF 11-05-2022
 
 ### ARTÍCULO 16
 . Las juntas de gobierno de los Institutos Nacionales de Salud tendrán, adicionalmente a las facultades que les confiere la Ley Federal de las Entidades Paraestatales, las atribuciones indelegables siguientes:
+
 I. Aprobar la distribución del presupuesto anual definitivo de la entidad y el programa de inversiones, de acuerdo con el monto total autorizado de su presupuesto;
+
 II. Aprobar las adecuaciones presupuestales a sus programas, que no impliquen la afectación de su monto total autorizado, recursos de inversión, proyectos financiados con crédito externo, ni el cumplimiento de los objetivos y metas comprometidos;
+
 III. Establecer los lineamientos para la aplicación de los recursos autogenerados;
+
 IV. Autorizar el uso oneroso de espacios en las áreas e instalaciones del Instituto de que se trate, que no sean de uso hospitalario.
+
 V. Aprobar y modificar la estructura básica de la entidad de acuerdo con el monto total autorizado de su presupuesto de servicios personales, así como definir los lineamientos y normas para conformar la estructura ocupacional y salarial, las conversiones de plazas y renivelaciones de puestos y categorías, en donde deberá de integrarse el principio de paridad de género.
-Fracción reformada DOF 11-05-2022 VI. Establecer el sistema de profesionalización del personal del Instituto de que se trate, con criterios orientados a la estabilidad y desarrollo del personal en la especialidad respectiva, para lo cual se considerarán los recursos previstos en el presupuesto;
-VII. Determinar las reglas y los porcentajes conforme a los cuales el personal que participe en proyectos determinados de investigación podrá beneficiarse de los recursos generados por el proyecto, así como, por un periodo determinado, en las regalías que resulten de aplicar o explotar derechos de propiedad industrial o intelectual, que deriven de proyectos realizados en el Instituto, y VIII. Aprobar, a propuesta del Director General, el trámite ante la coordinadora de sector para modificar o imponer nombres de médicos o benefactores a instalaciones y áreas de éste.
+Fracción reformada DOF 11-05-2022
+
+VI. Establecer el sistema de profesionalización del personal del Instituto de que se trate, con criterios orientados a la estabilidad y desarrollo del personal en la especialidad respectiva, para lo cual se considerarán los recursos previstos en el presupuesto;
+
+VII. Determinar las reglas y los porcentajes conforme a los cuales el personal que participe en proyectos determinados de investigación podrá beneficiarse de los recursos generados por el proyecto, así como, por un periodo determinado, en las regalías que resulten de aplicar o explotar derechos de propiedad industrial o intelectual, que deriven de proyectos realizados en el Instituto, y
+
+VIII. Aprobar, a propuesta del Director General, el trámite ante la coordinadora de sector para modificar o imponer nombres de médicos o benefactores a instalaciones y áreas de éste.
 
 ### ARTÍCULO 17
 . Las juntas de gobierno celebrarán sesiones ordinarias por lo menos dos veces cada año, y las extraordinarias que convoque su presidente o cuando menos tres de sus miembros.
@@ -154,25 +232,45 @@ Las juntas de gobierno podrán invitar a sus sesiones a representantes de instit
 
 ### ARTÍCULO 18
 . Los directores generales de los Institutos Nacionales de Salud serán designados por las juntas de gobierno, de una terna que deberá presentar el presidente de la junta. El nombramiento procederá siempre y cuando la persona reúna los siguientes requisitos:
+
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
 II. Ser profesional de la salud, con alguna de las especialidades del Instituto de que se trate. En el caso del titular del Instituto Nacional de Salud Pública podrá ser una persona de reconocidos méritos académicos en las disciplinas médicas y de salud pública y que haya publicado trabajos de investigación en salud pública. En el caso de los demás Institutos Nacionales de Salud, haber publicado trabajos de investigación en la especialidad respectiva;
-Fracción reformada DOF 14-07-2008 III. Tener una trayectoria reconocida en la Medicina y reconocidos méritos académicos;
-Fracción reformada DOF 14-07-2008 IV. No encontrarse en alguno de los impedimentos que señala el artículo 19, fracciones II a V de la Ley Federal de las Entidades Paraestatales, y Fracción reformada DOF 14-07-2008 V. Tener experiencia en el desempeño de cargos de alto nivel decisorio cuyo ejercicio requiera conocimientos y experiencia en materia administrativa.
+Fracción reformada DOF 14-07-2008
+
+III. Tener una trayectoria reconocida en la Medicina y reconocidos méritos académicos;
+Fracción reformada DOF 14-07-2008
+
+IV. No encontrarse en alguno de los impedimentos que señala el artículo 19, fracciones II a V de la Ley Federal de las Entidades Paraestatales, y Fracción reformada DOF 14-07-2008
+
+V. Tener experiencia en el desempeño de cargos de alto nivel decisorio cuyo ejercicio requiera conocimientos y experiencia en materia administrativa.
 Fracción adicionada DOF 14-07-2008
 
 ### ARTÍCULO 19
 . Los directores generales de los Institutos Nacionales de Salud tendrán, además de las facultades y obligaciones señaladas en el artículo 59 de la Ley Federal de las Entidades Paraestatales, las siguientes:
+
 I. Celebrar y otorgar toda clase de actos, convenios, contratos y documentos inherentes al objeto del Instituto;
+
 II. Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas, aun aquellas que requieran cláusula especial.
 Cuando se trate de actos de dominio se requerirá autorización previa de la Junta de Gobierno para el ejercicio de las facultades relativas;
+
 III. Emitir, avalar y negociar títulos de crédito;
+
 IV. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, incluso las que requieran autorización o cláusula especial;
+
 V. Formular denuncias y querellas, así como otorgar el perdón legal;
+
 VI. Ejercitar y desistirse de acciones judiciales, inclusive en materia de amparo;
+
 VII. Celebrar transacciones en materia judicial y comprometer asuntos en arbitraje;
+
 VIII. Proponer a la Junta de Gobierno los estímulos que deban otorgarse al personal del Instituto;
+
 IX. Otorgar reconocimientos no económicos a personas físicas o morales benefactoras del Instituto, incluidos aquellos que consistan en testimonios públicos permanentes;
-X. Autorizar la apertura de cuentas de inversión financiera, las que siempre serán de renta fija o de rendimiento garantizado, y XI. Fijar las condiciones generales de trabajo del Instituto, tomando en cuenta la opinión del Sindicato correspondiente.
+
+X. Autorizar la apertura de cuentas de inversión financiera, las que siempre serán de renta fija o de rendimiento garantizado, y
+
+XI. Fijar las condiciones generales de trabajo del Instituto, tomando en cuenta la opinión del Sindicato correspondiente.
 
 ### ARTÍCULO 20
 . Los directores generales de los Institutos Nacionales de Salud durarán en su cargo cinco años y podrán ser ratificados por otro período igual en una sola ocasión. Podrán ser removidos por causa plenamente comprobada, relativa a incompetencia técnica, abandono de labores o falta de honorabilidad.
@@ -196,17 +294,26 @@ El funcionamiento de cada Patronato y la duración de sus miembros en sus cargos
 
 ### ARTÍCULO 25
 . Los patronatos auxiliarán a las juntas de gobierno y tendrán las siguientes funciones:
+
 I. Apoyar las actividades de los Institutos y formular sugerencias tendientes a su mejor desempeño;
-II. Contribuir a la obtención de recursos que promuevan el cumplimiento de los objetivos de los Institutos, y III. Las demás que les señalen las juntas de gobierno.
+
+II. Contribuir a la obtención de recursos que promuevan el cumplimiento de los objetivos de los Institutos, y
+
+III. Las demás que les señalen las juntas de gobierno.
 
 ### ARTÍCULO 26
 . El consejo asesor externo se integrará, en cada Instituto, por el director general, quien lo presidirá, y por personalidades nacionales o internacionales del ámbito de las especialidades materia del Instituto, quienes serán invitados por la Junta de Gobierno a propuesta del director general.
 
 ### ARTÍCULO 27
 . Los consejos asesores externos tendrán las siguientes funciones:
+
 I. Asesorar al director general en asuntos de carácter técnico y científico;
+
 II. Recibir información general sobre los temas y desarrollo de las investigaciones que se lleven a cabo en el Instituto;
-III. Proponer al director general líneas de investigación, mejoras para el equipamiento o para la atención a pacientes, así como en la calidad y eficiencia del Instituto de que se trate, y IV. Realizar las demás funciones que le confiera el estatuto orgánico o la Junta de Gobierno.
+
+III. Proponer al director general líneas de investigación, mejoras para el equipamiento o para la atención a pacientes, así como en la calidad y eficiencia del Instituto de que se trate, y
+
+IV. Realizar las demás funciones que le confiera el estatuto orgánico o la Junta de Gobierno.
 
 ### ARTÍCULO 28
 . Cada uno de los Institutos contará con un consejo técnico de administración y programación, como órgano de coordinación para incrementar su eficacia.
@@ -214,10 +321,16 @@ Los consejos técnicos de administración y programación se integrarán por el 
 
 ### ARTÍCULO 29
 . Los consejos técnicos de administración y programación tendrán las siguientes funciones:
+
 I. Actuar como instancia de intercambio de experiencias, de propuestas de soluciones de conjunto, de congruencia de acciones y del establecimiento de criterios tendientes al desarrollo y al cumplimiento de los objetivos del Instituto;
+
 II. Proponer las adecuaciones administrativas que se requieran para el eficaz cumplimiento de los objetivos y metas establecidos;
+
 III. Opinar respecto de las políticas generales y operativas de orden interno;
-IV. Analizar problemas relativos a aspectos o acciones comunes a diversas áreas del Instituto y emitir opinión al respecto, y V. Proponer al director general la adopción de medidas de orden general tendientes al mejoramiento administrativo y operacional del Instituto.
+
+IV. Analizar problemas relativos a aspectos o acciones comunes a diversas áreas del Instituto y emitir opinión al respecto, y
+
+V. Proponer al director general la adopción de medidas de orden general tendientes al mejoramiento administrativo y operacional del Instituto.
 
 ### ARTÍCULO 30
 . Cada uno de los Institutos Nacionales de Salud podrá contar con investigadores eméritos. La Junta de Gobierno de cada Instituto Nacional de Salud, a propuesta del director general correspondiente, determinará cuando sea conveniente proponer que el organismo cuente con investigadores eméritos, para lo cual verá el establecimiento de un comité encargado de su selección y designación, el cual deberá emitir sus reglas internas.
@@ -239,11 +352,18 @@ Artículo reformado DOF 09-04-2012
 
 ### ARTÍCULO 34
 . Los servidores públicos a que se refiere el artículo anterior desarrollarán sus funciones conforme a las siguientes bases:
+
 I. Recibirán quejas, investigarán y, en su caso, por conducto del titular del órgano de control interno o del área de responsabilidades, determinarán la responsabilidad administrativa de los servidores públicos de la entidad e impondrán las sanciones aplicables en los términos previstos en la ley de la materia y dictarán las resoluciones en los recursos de revocación que interpongan los servidores públicos de la entidad respecto de la imposición de sanciones administrativas. Dichos órganos realizarán la defensa jurídica de las resoluciones que emitan, ante los diversos tribunales federales;
+
 II. Realizarán sus actividades de acuerdo con reglas y bases que les permitan ejecutar su cometido con autosuficiencia y autonomía;
+
 III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control;
+
 IV. Efectuarán revisiones y auditorías;
-V. Vigilarán que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables, y presentarán al director general y a la Junta de Gobierno los informes resultantes de las auditorías, exámenes y evaluaciones realizados, y VI. Ejercerán las demás facultades que otras disposiciones legales y reglamentarias les confieran.
+
+V. Vigilarán que el manejo y aplicación de los recursos se efectúe conforme a las disposiciones aplicables, y presentarán al director general y a la Junta de Gobierno los informes resultantes de las auditorías, exámenes y evaluaciones realizados, y
+
+VI. Ejercerán las demás facultades que otras disposiciones legales y reglamentarias les confieran.
 
 ## Capítulo VI
 Régimen laboral
@@ -266,9 +386,14 @@ Investigación
 
 ### ARTÍCULO 39
 . La investigación que realicen los Institutos Nacionales de Salud podrá financiarse por las siguientes fuentes:
+
 I. Con los recursos federales que se otorguen a los Institutos, dentro del Presupuesto de Egresos de la Federación y que, conforme a sus programas y normas internas, destinen para la realización de actividades de investigación científica;
+
 II. Con recursos autogenerados;
-III. Con recursos externos, y IV. Con recursos de terceros.
+
+III. Con recursos externos, y
+
+IV. Con recursos de terceros.
 Cuando se trate de proyectos cuya duración sea mayor a un año y que estén financiados con recursos presupuestales, la aplicación de éstos quedará sujeta a la disponibilidad de los años subsecuentes, pero los proyectos en proceso se considerarán preferentes respecto de los nuevos, en igualdad de condiciones de resultados.
 
 ### ARTÍCULO 40
@@ -276,35 +401,61 @@ Cuando se trate de proyectos cuya duración sea mayor a un año y que estén fin
 
 ### ARTÍCULO 41
 . Los proyectos de investigación financiados con recursos de terceros se sujetarán a lo siguiente:
+
 I. Cada proyecto deberá ser autorizado por el director general del Instituto de que se trate, para lo cual se deberá contar con el dictamen favorable de la comisión de investigación del propio Instituto;
+
 II. Los proyectos serán evaluados por el Instituto respectivo en cualquier tiempo, y el director general informará de los resultados a su Junta de Gobierno;
+
 III. La investigación se llevará a cabo de acuerdo con los lineamientos generales que al respecto establezca cada Instituto;
+
 IV. Los investigadores podrán presentar los proyectos para la autorización del Instituto en cualquier tiempo;
+
 V. Los recursos en ningún caso formarán parte del patrimonio del Instituto Nacional de Salud donde se desarrolle la investigación, y sólo estarán bajo la administración del Instituto de que se trate para el fin convenido;
+
 VI. Los términos y condiciones para la distribución de los recursos en cuanto a los apoyos y estímulos económicos al personal que participe en el proyecto, adquisición de equipo y otros insumos que se requieran, podrán fijarse por el investigador y el aportante de los recursos, con base en los lineamientos y políticas generales que determine la Junta de Gobierno del Instituto de que se trate, en los que deberá fijarse, entre otros, el porcentaje que deberá destinarse a favor del Instituto;
+
 VII. Los recursos deberán ser suficientes para concluir el proyecto de investigación respectivo, incluidos los costos indirectos;
+
 VIII. Los proyectos se suspenderán cuando se presente algún riesgo o daño grave a la salud de los sujetos en quienes se realice la investigación, cuando se advierta su ineficacia o ausencia de beneficios o cuando el aportante de los recursos suspenda el suministro de éstos;
+
 IX. Cuando el proyecto de investigación continúe su desarrollo en un Instituto distinto al originalmente designado, los recursos se transferirán al Instituto que tome el proyecto a su cargo;
-X. Los apoyos económicos que de los recursos de terceros se otorguen al personal serán temporales, por lo que concluirán al terminar el proyecto financiado por dichos recursos, y no crearán derechos para el trabajador, ni responsabilidad de tipo laboral o salarial para el Instituto, y XI. Los lineamientos para la administración de estos recursos serán aprobados por la Junta de Gobierno.
+
+X. Los apoyos económicos que de los recursos de terceros se otorguen al personal serán temporales, por lo que concluirán al terminar el proyecto financiado por dichos recursos, y no crearán derechos para el trabajador, ni responsabilidad de tipo laboral o salarial para el Instituto, y
+
+XI. Los lineamientos para la administración de estos recursos serán aprobados por la Junta de Gobierno.
 
 ### ARTÍCULO 42
 . La Secretaría, como coordinadora de sector, promoverá la creación de incentivos fiscales y de otros mecanismos de fomento para que los sectores social y privado realicen inversiones crecientes para la investigación en salud.
 
 ### ARTÍCULO 43
 . Los Institutos Nacionales de Salud podrán administrar los recursos para la realización de investigación a través de cuentas de inversión financiera o de fondos. Estos últimos se sujetarán a lo siguiente:
+
 I. Los fondos serán constituidos y administrados mediante la figura del fideicomiso. El fideicomitente será el Instituto Nacional de Salud de que se trate;
+
 II. El fiduciario será la institución de crédito que elija el fideicomitente en cada caso;
+
 III. Los fondos se constituirán con recursos autorizados, autogenerados o externos y podrán recibir aportaciones de terceras personas;
+
 IV. El fideicomisario de los fondos será el Instituto que lo hubiere constituido;
+
 V. El objeto de los fondos será financiar o complementar el financiamiento de proyectos específicos de investigación, la creación y mantenimiento de instalaciones de investigación, enseñanza y atención médica, su equipamiento, el suministro de materiales, el otorgamiento de apoyos económicos e incentivos extraordinarios a los investigadores, personal de apoyo a la investigación, y otros propósitos directamente vinculados con los proyectos científicos aprobados.
 Los recursos podrán afectarse para gasto de administración de los Institutos hasta el porcentaje que apruebe la Junta de Gobierno de cada Instituto. Los bienes adquiridos y obras realizadas con recursos de los fondos formarán parte del patrimonio del propio Instituto;
+
 VI. Los recursos de los fondos se canalizarán invariablemente a la finalidad a la que hayan sido afectados, su inversión será siempre en renta fija y tendrán su propia contabilidad;
+
 VII. La cuantía o la disponibilidad de recursos en los fondos, incluyendo capital e intereses y los recursos autogenerados y externos, no darán lugar a la disminución, limitación o compensación de las asignaciones presupuestales normales, autorizadas conforme al Presupuesto de Egresos de la Federación, para los Institutos que, de conformidad con esta ley, cuenten con dichos fondos;
+
 VIII. Los Institutos, por conducto de la Junta de Gobierno, establecerán las reglas de operación de los fondos, en las cuales se precisarán los tipos de proyectos que recibirán los apoyos y los procesos e instancias de seguimiento y evaluación;
+
 IX. Los fondos contarán en todos los casos con un comité técnico y de administración integrado por servidores públicos de la Secretaría y del Instituto de que se trate. Asimismo, se invitará a participar en dicho comité a personas de reconocido prestigio de los sectores científico, tecnológico y académico, público, social y privado, correspondientes a los ramos de investigación objeto del fondo;
+
 X. El órgano de gobierno del Instituto de que se trate será informado acerca del estado y movimiento de los respectivos fondos;
+
 XI. No serán consideradas entidades de la administración pública paraestatal, puesto que sólo consistirán en un contrato de fideicomiso y no contarán con estructura orgánica ni con personal propio para su funcionamiento;
-XII. Estarán sujetos a las medidas de control y auditoría gubernamental que determinen las leyes, y XIII. Los recursos de origen fiscal, autogenerados, externos, de terceros o cualesquiera otros, que ingresen a los fondos que se establezcan conforme a lo dispuesto en esta ley no se revertirán en ningún caso al Gobierno Federal. A la terminación del contrato de fideicomiso por cualquier causa legal o contractual, los recursos que se encuentren en el mismo se entregarán al fideicomitente y se afectarán según su origen.
+
+XII. Estarán sujetos a las medidas de control y auditoría gubernamental que determinen las leyes, y
+
+XIII. Los recursos de origen fiscal, autogenerados, externos, de terceros o cualesquiera otros, que ingresen a los fondos que se establezcan conforme a lo dispuesto en esta ley no se revertirán en ningún caso al Gobierno Federal. A la terminación del contrato de fideicomiso por cualquier causa legal o contractual, los recursos que se encuentren en el mismo se entregarán al fideicomitente y se afectarán según su origen.
 
 ### ARTÍCULO 44
 . Cada Instituto Nacional de Salud contará con un comité interno encargado de vigilar el uso adecuado de los recursos destinados a la investigación. Dicho comité se integrará por dos representantes del área de investigación; un representante por cada una de las siguientes áreas: administrativa, de enseñanza y médica; un representante del patronato y otro que designe la Junta de Gobierno. El comité evaluará los informes técnico y financiero.
@@ -339,9 +490,14 @@ Asimismo, podrán participar en la capacitación y actualización de recursos hu
 
 ### ARTÍCULO 52
 . En los planes y programas de estudios, los Institutos Nacionales de Salud, además de lo señalado en la ley en materia de educación, deberán:
+
 I. Vincular los cursos de especialización y de posgrado con los programas de prestación de servicios de atención médica y de investigación del Instituto de que se trate;
+
 II. Desarrollar mecanismos que permitan evaluar la calidad de los programas educativos y su impacto en la prestación de los servicios;
-III. Fomentar la participación en la docencia de los investigadores del Instituto de que se trate, y IV. Propiciar el desarrollo y actualización del personal con base en las necesidades de sus áreas de investigación, docente y de atención médica.
+
+III. Fomentar la participación en la docencia de los investigadores del Instituto de que se trate, y
+
+IV. Propiciar el desarrollo y actualización del personal con base en las necesidades de sus áreas de investigación, docente y de atención médica.
 
 ### ARTÍCULO 53
 . Las constancias, diplomas, reconocimientos, certificados y títulos que, en su caso, expidan los Institutos Nacionales de Salud tendrán la validez correspondiente a los estudios realizados.
@@ -351,9 +507,13 @@ Atención médica
 
 ### ARTÍCULO 54
 . Los Institutos Nacionales de Salud prestarán los servicios de atención médica, conforme a lo siguiente:
+
 I. Atenderán padecimientos de alta complejidad diagnóstica y de tratamiento, así como urgencias.
 Una vez diagnosticado, resuelto o controlado el problema de tercer nivel que dio origen a la atención podrán referir a los pacientes a los otros niveles de atención, de conformidad con el sistema de referencia y contrarreferencia;
-II. Recibirán a usuarios referidos por los otros dos niveles de atención o a los que requieran atención médica especializada, conforme al diagnóstico previo que efectúe el servicio de preconsulta del Instituto de que se trate, y III. Proporcionarán los servicios bajo criterios de gratuidad, para lo cual las cuotas de recuperación que al efecto cobren se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social conforme a las disposiciones de la Secretaría de Salud.
+
+II. Recibirán a usuarios referidos por los otros dos niveles de atención o a los que requieran atención médica especializada, conforme al diagnóstico previo que efectúe el servicio de preconsulta del Instituto de que se trate, y
+
+III. Proporcionarán los servicios bajo criterios de gratuidad, para lo cual las cuotas de recuperación que al efecto cobren se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social conforme a las disposiciones de la Secretaría de Salud.
 
 ### ARTÍCULO 55
 . Para la prestación de los servicios de atención médica a su cargo, los Institutos podrán contar con los servicios de preconsulta, consulta externa, ambulatorios, urgencias y hospitalización.
@@ -367,8 +527,12 @@ Dichos servicios funcionarán de conformidad con lo dispuesto en los manuales de
 
 ### ARTÍCULO 58
 . Los Institutos Nacionales de Salud podrán celebrar contratos con personas morales de carácter nacional e internacional, público o privado a fin de que les proporcionen los servicios médicos y otros relacionados con su objeto que convengan, a cambio de una contraprestación que será fijada de conformidad con lo dispuesto en el artículo 16, fracción III de esta Ley, los cuales se ajustarán a las siguientes bases:
+
 I. Definición de las responsabilidades que asuman las partes;
-II. La contraprestación establecida a favor del Instituto Nacional de Salud que corresponda, en términos de las bases que para tal efecto emita la Secretaría de Hacienda y Crédito Público, y III. Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+
+II. La contraprestación establecida a favor del Instituto Nacional de Salud que corresponda, en términos de las bases que para tal efecto emita la Secretaría de Hacienda y Crédito Público, y
+
+III. Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 Los recursos que obtengan los Institutos Nacionales de Salud de conformidad con este artículo no serán tomados en consideración para determinar las asignaciones presupuestarias que les correspondan y, en consecuencia, no podrán ser considerados como ingresos excedentes.
 Los servicios que los Institutos Nacionales de Salud otorguen para dar cumplimiento a los contratos referidos en el presente artículo, deberán proporcionarse sin detrimento de los servicios que en términos de esta Ley, los Institutos Nacionales de Salud estén obligados a proporcionar a la población en general.
 Artículo adicionado DOF 29-11-2019
@@ -377,7 +541,10 @@ Artículo adicionado DOF 29-11-2019
 
 **PRIMERO.** La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 **SEGUNDO.** Se abrogan:
-I. Las leyes del Instituto Nacional de Cancerología; del Instituto Nacional de Cardiología Ignacio Chávez; del Instituto Nacional de la Nutrición Salvador Zubirán, y del Hospital Infantil de México Federico Gómez, publicadas en el Diario Oficial de la Federación el 3 de diciembre de 1987, y II. Los decretos presidenciales del Instituto Nacional de Salud Pública; del Instituto Nacional de Pediatría; del Instituto Nacional de Neurología y Neurocirugía; del Instituto Nacional de Perinatología; del Instituto Nacional de Enfermedades Respiratorias, y del Instituto Mexicano de Psiquiatría, publicados en el Diario Oficial de la Federación los días 26 de enero de 1987, 1, 2 y 4 de agosto y 7 de septiembre de 1988, respectivamente, así como el decreto por el que se reforma el diverso del Instituto Nacional de Neurología y Neurocirugía, publicado en el mismo órgano informativo el 3 de junio de 1994.
+
+I. Las leyes del Instituto Nacional de Cancerología; del Instituto Nacional de Cardiología Ignacio Chávez; del Instituto Nacional de la Nutrición Salvador Zubirán, y del Hospital Infantil de México Federico Gómez, publicadas en el Diario Oficial de la Federación el 3 de diciembre de 1987, y
+
+II. Los decretos presidenciales del Instituto Nacional de Salud Pública; del Instituto Nacional de Pediatría; del Instituto Nacional de Neurología y Neurocirugía; del Instituto Nacional de Perinatología; del Instituto Nacional de Enfermedades Respiratorias, y del Instituto Mexicano de Psiquiatría, publicados en el Diario Oficial de la Federación los días 26 de enero de 1987, 1, 2 y 4 de agosto y 7 de septiembre de 1988, respectivamente, así como el decreto por el que se reforma el diverso del Instituto Nacional de Neurología y Neurocirugía, publicado en el mismo órgano informativo el 3 de junio de 1994.
 **TERCERO.** Las instituciones de salud que utilicen en su denominación las palabras "Instituto Nacional" tendrán un plazo de seis meses, contados a partir de la entrada en vigor de la presente ley, para promover las modificaciones necesarias para cambiar su denominación.
 **CUARTO.** Las juntas de gobierno expedirán los nuevos estatutos orgánicos de los Institutos Nacionales de Salud en un plazo de sesenta días, a partir de la entrada en vigor de la presente ley.
 **QUINTO.** En la ejecución de la presente ley se respetarán los derechos laborales adquiridos por los trabajadores de los Institutos Nacionales de Salud.

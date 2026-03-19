@@ -68,6 +68,7 @@ ARTICULO 24.- Por razón de territorio es tribunal competente:
 I.- El del lugar que el demandado haya señalado para ser requerido judicialmente sobre el cumplimiento de su obligación;
 II.- El del lugar convenido para el cumplimiento de la obligación;
 III.- El de la ubicación de la cosa, tratándose de acciones reales sobre inmuebles o de controversias derivadas del contrato de arrendamiento. Si las cosas estuvieren situadas en, o abarcaren dos o más circunscripciones territoriales, será competente el que prevenga en el conocimiento del negocio;
+
 IV. El del domicilio del demandado, tratándose de acciones reales sobre muebles o de acciones personales, colectivas o del estado civil;
 Fracción reformada DOF 30-08-2011 V.- El del lugar del domicilio del deudor, en caso de concurso.
 Es también competente el tribunal de que trata esta fracción para conocer de los juicios seguidos contra el concursado, en que no se pronuncie aun sentencia al radicarse el juicio de concurso, y de los que, para esa ocasión, estén ya sentenciados ejecutoriadamente, siempre que, en este último caso, la sentencia no ordene que se haga trance y remate de bienes embargados, ni esté en vías de ejecución con embargo ya ejecutado. El juicio sentenciado que se acumule, sólo lo será para los efectos de la graduación del crédito vuelto indiscutible por la sentencia;
@@ -149,6 +150,7 @@ CAPITULO III Facultades y obligaciones de los funcionarios judiciales SECCION PR
 Fe de erratas al párrafo DOF 13-03-1943 La imposición de la corrección disciplinaria se decretará en cuaderno por separado.
 ARTICULO 55.- Son correcciones disciplinarias:
 I.- Apercibimiento;
+
 II. Multa que no exceda de sesenta días de salario mínimo general vigente en el Distrito Federal, y Fracción reformada DOF 20-06-2008 III.- Suspensión de empleo hasta por quince días.
 Esta última fracción sólo es aplicable al secretario y demás empleados del tribunal que imponga la corrección.
 ARTICULO 56.- Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se hubiere impuesto, podrá ésta pedir, ante el mismo tribunal, que la oiga en justicia.
@@ -156,6 +158,7 @@ Recibida la petición, citará el tribunal, para dentro de los ocho días siguie
 ARTICULO 57.- Los tribunales no admitirán nunca incidentes, recursos o promociones notoriamente maliciosos o improcedentes. Los desecharán de plano, sin necesidad de mandarlos hacer saber a las otras partes, ni dar traslado, ni formar artículo.
 ARTICULO 58.- Los jueces, magistrados y ministros podrán ordenar que se subsane toda omisión que notaren en la substanciación, para el solo efecto de regularizar el procedimiento.
 ARTICULO 59.- Los tribunales, para hacer cumplir sus determinaciones, pueden emplear, a discreción, los siguientes medios de apremio:
+
 I. Multa hasta por la cantidad de ciento veinte días de salario mínimo general vigente en el Distrito Federal.
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso, y Fracción reformada DOF 20-06-2008 II.- El auxilio de la fuerza pública.
@@ -1023,11 +1026,16 @@ Artículo adicionado DOF 12-01-1988 Libro Quinto De las Acciones Colectivas Libr
 Previsiones Generales Capítulo adicionado DOF 30-08-2011 ARTICULO 578.- La defensa y protección de los derechos e intereses colectivos será ejercida ante los Tribunales de la Federación con las modalidades que se señalen en este Título, y sólo podrán promoverse en materia de relaciones de consumo de bienes o servicios, públicos o privados y medio ambiente.
 Artículo adicionado DOF 30-08-2011 ARTICULO 579.- La acción colectiva es procedente para la tutela de las pretensiones cuya titularidad corresponda a una colectividad de personas, así como para el ejercicio de las pretensiones individuales cuya titularidad corresponda a los miembros de un grupo de personas.
 Artículo adicionado DOF 30-08-2011 ARTICULO 580.- En particular, las acciones colectivas son procedentes para tutelar:
+
 I. Derechos e intereses difusos y colectivos, entendidos como aquéllos de naturaleza indivisible cuya titularidad corresponde a una colectividad de personas, indeterminada o determinable, relacionadas por circunstancias de hecho o de derecho comunes.
+
 II. Derechos e intereses individuales de incidencia colectiva, entendidos como aquéllos de naturaleza divisible cuya titularidad corresponde a los individuos integrantes de una colectividad de personas, determinable, relacionadas por circunstancias de derecho.
 Artículo adicionado DOF 30-08-2011 ARTICULO 581.- Para los efectos de este Código, los derechos citados en el artículo anterior se ejercerán a través de las siguientes acciones colectivas, que se clasificarán en:
+
 I. Acción difusa: Es aquélla de naturaleza indivisible que se ejerce para tutelar los derechos e intereses difusos, cuyo titular es una colectividad indeterminada, que tiene por objeto reclamar judicialmente del demandado la reparación del daño causado a la colectividad, consistente en la restitución de las cosas al estado que guardaren antes de la afectación, o en su caso al cumplimiento sustituto de acuerdo a la afectación de los derechos o intereses de la colectividad, sin que necesariamente exista vínculo jurídico alguno entre dicha colectividad y el demandado.
+
 II. Acción colectiva en sentido estricto: Es aquélla de naturaleza indivisible que se ejerce para tutelar los derechos e intereses colectivos, cuyo titular es una colectividad determinada o determinable con base en circunstancias comunes, cuyo objeto es reclamar judicialmente del demandado, la reparación del daño causado consistente en la realización de una o más acciones o abstenerse de realizarlas, así como a cubrir los daños en forma individual a los miembros del grupo y que deriva de un vínculo jurídico común existente por mandato de ley entre la colectividad y el demandado.
+
 III. Acción individual homogénea: Es aquélla de naturaleza divisible, que se ejerce para tutelar derechos e intereses individuales de incidencia colectiva, cuyos titulares son los individuos agrupados con base en circunstancias comunes, cuyo objeto es reclamar judicialmente de un tercero el cumplimiento forzoso de un contrato o su rescisión con sus consecuencias y efectos según la legislación aplicable.
 Artículo adicionado DOF 30-08-2011 ARTICULO 582.- La acción colectiva podrá tener por objeto pretensiones declarativas, constitutivas o de condena.
 Artículo adicionado DOF 30-08-2011 ARTICULO 583.- El juez interpretará las normas y los hechos de forma compatible con los principios y objetivos de los procedimientos colectivos, en aras de proteger y tutelar el interés general y los derechos e intereses colectivos.
@@ -1036,15 +1044,26 @@ Artículo adicionado DOF 30-08-2011
 
 ## Capítulo II
 De la Legitimación Activa Capítulo adicionado DOF 30-08-2011 ARTICULO 585.- Tienen legitimación activa para ejercitar las acciones colectivas:
+
 I. La Procuraduría Federal de Protección al Consumidor, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la Comisión Federal de Competencia;
+
 II. El representante común de la colectividad conformada por al menos treinta miembros;
-III. Las asociaciones civiles sin fines de lucro legalmente constituidas al menos un año previo al momento de presentar la acción, cuyo objeto social incluya la promoción o defensa de los derechos e intereses de la materia de que se trate y que cumplan con los requisitos establecidos en este Código, y IV. El Fiscal General de la República.
+
+III. Las asociaciones civiles sin fines de lucro legalmente constituidas al menos un año previo al momento de presentar la acción, cuyo objeto social incluya la promoción o defensa de los derechos e intereses de la materia de que se trate y que cumplan con los requisitos establecidos en este Código, y
+
+IV. El Fiscal General de la República.
 Fracción reformada DOF 20-05-2021 Artículo adicionado DOF 30-08-2011 ARTICULO 586.- La representación a que se refieren las fracciones II y III del artículo anterior, deberá ser adecuada.
 Se considera representación adecuada:
+
 I. Actuar con diligencia, pericia y buena fe en la defensa de los intereses de la colectividad en el juicio;
+
 II. No encontrarse en situaciones de conflicto de interés con sus representados respecto de las actividades que realiza;
+
 III. No promover o haber promovido de manera reiterada acciones difusas, colectivas o individuales homogéneas frívolas o temerarias;
-IV. No promover una acción difusa, colectiva en sentido estricto o individual homogénea con fines de lucro, electorales, proselitistas, de competencia desleal o especulativos, y V. No haberse conducido con impericia, mala fe o negligencia en acciones colectivas previas, en los La representación de la colectividad en el juicio se considera de interés público. El juez deberá vigilar de oficio que dicha representación sea adecuada durante la substanciación del proceso.
+
+IV. No promover una acción difusa, colectiva en sentido estricto o individual homogénea con fines de lucro, electorales, proselitistas, de competencia desleal o especulativos, y
+
+V. No haberse conducido con impericia, mala fe o negligencia en acciones colectivas previas, en los La representación de la colectividad en el juicio se considera de interés público. El juez deberá vigilar de oficio que dicha representación sea adecuada durante la substanciación del proceso.
 El representante deberá rendir protesta ante el juez y rendir cuentas en cualquier momento a petición de éste.
 En el caso de que durante el procedimiento dejare de haber un legitimado activo o aquéllos a que se refieren las fracciones II y III del artículo 585 no cumplieran con los requisitos referidos en el presente artículo, el juez de oficio o a petición de cualquier miembro de la colectividad, abrirá un incidente de remoción y sustitución, debiendo suspender el juicio y notificar el inicio del incidente a la colectividad en los términos a que se refiere el artículo 591 de este Código.
 Una vez realizada la notificación a que se refiere el párrafo anterior, el juez recibirá las solicitudes de los interesados dentro del término de diez días, evaluará las solicitudes que se presentaren y resolverá lo conducente dentro del plazo de tres días.
@@ -1055,32 +1074,60 @@ Artículo adicionado DOF 30-08-2011
 
 ## Capítulo III
 Procedimiento Capítulo adicionado DOF 30-08-2011 ARTICULO 587.- La demanda deberá contener:
+
 I. El tribunal ante el cual se promueve;
+
 II. El nombre del representante legal, señalando los documentos con los que acredite su personalidad;
+
 III. En el caso de las acciones colectivas en sentido estricto y las individuales homogéneas, los nombres de los miembros de la colectividad promoventes de la demanda;
+
 IV. Los documentos con los que la actora acredita su representación de conformidad con este Título;
+
 V. El nombre y domicilio del demandado;
+
 VI. La precisión del derecho difuso, colectivo o individual homogéneo que se considera afectado;
+
 VII. El tipo de acción que pretende promover;
+
 VIII. Las pretensiones correspondientes a la acción;
+
 IX. Los hechos en que funde sus pretensiones y las circunstancias comunes que comparta la colectividad respecto de la acción que se intente;
-X. Los fundamentos de derecho, y XI. En el caso de las acciones colectivas en sentido estricto e individuales homogéneas, las consideraciones y los hechos que sustenten la conveniencia de la substanciación por la vía colectiva en lugar de la acción individual.
+
+X. Los fundamentos de derecho, y
+
+XI. En el caso de las acciones colectivas en sentido estricto e individuales homogéneas, las consideraciones y los hechos que sustenten la conveniencia de la substanciación por la vía colectiva en lugar de la acción individual.
 El juez podrá prevenir a la parte actora para que aclare o subsane su demanda cuando advierta la omisión de requisitos de forma, sea obscura o irregular, otorgándole un término de cinco días para tales efectos.
 El juez resolverá si desecha de plano la demanda en los casos en que la parte actora no desahogue la prevención, no se cumplan los requisitos previstos en este Título, o se trate de pretensiones infundadas, frívolas, o temerarias.
 Artículo adicionado DOF 30-08-2011 ARTICULO 588.- Son requisitos de procedencia de la legitimación en la causa los siguientes:
+
 I. Que se trate de actos que dañen a consumidores o usuarios de bienes o servicios públicos o privados o al medio ambiente o que se trate de actos que hayan dañado al consumidor por la existencia de concentraciones indebidas o prácticas monopólicas, declaradas existentes por resolución firme emitida por la Comisión Federal de Competencia;
+
 II. Que verse sobre cuestiones comunes de hecho o de derecho entre los miembros de la colectividad de que se trate;
+
 III. Que existan al menos treinta miembros en la colectividad, en el caso de las acciones colectivas en sentido estricto e individuales homogéneas;
+
 IV. Que exista coincidencia entre el objeto de la acción ejercitada y la afectación sufrida;
+
 V. Que la materia de la litis no haya sido objeto de cosa juzgada en procesos previos con motivo del ejercicio de las acciones tuteladas en este Título;
-VI. Que no haya prescrito la acción, y VII. Las demás que determinen las leyes especiales aplicables.
+
+VI. Que no haya prescrito la acción, y
+
+VII. Las demás que determinen las leyes especiales aplicables.
 Artículo adicionado DOF 30-08-2011 ARTICULO 589.- Son causales de improcedencia de la legitimación en el proceso, los siguientes:
+
 I. Que los miembros promoventes de la colectividad no hayan otorgado su consentimiento en el caso de las acciones colectivas en sentido estricto e individuales homogéneas;
+
 II. Que los actos en contra de los cuales se endereza la acción constituyan procedimientos administrativos seguidos en forma de juicio o procedimientos judiciales;
+
 III. Que la representación no cumpla los requisitos previstos en este Título;
+
 IV. Que la colectividad en la acción colectiva en sentido estricto o individual homogénea, no pueda ser determinable o determinada en atención a la afectación a sus miembros, así como a las circunstancias comunes de hecho o de derecho de dicha afectación;
+
 V. Que su desahogo mediante el procedimiento colectivo no sea idóneo;
-VI. Que exista litispendencia entre el mismo tipo de acciones, en cuyo caso procederá la acumulación en los términos previstos en este Código, y VII. Que las asociaciones que pretendan ejercer la legitimación en el proceso no cumplan con los requisitos establecidos en este Título.
+
+VI. Que exista litispendencia entre el mismo tipo de acciones, en cuyo caso procederá la acumulación en los términos previstos en este Código, y
+
+VII. Que las asociaciones que pretendan ejercer la legitimación en el proceso no cumplan con los requisitos establecidos en este Título.
 El juez de oficio o a petición de cualquier interesado podrá verificar el cumplimiento de estos requisitos durante el procedimiento.
 Artículo adicionado DOF 30-08-2011 ARTICULO 590.- Una vez presentada la demanda o desahogada la prevención, dentro de los tres días siguientes, el juez ordenará el emplazamiento al demandado, le correrá traslado de la demanda y le dará vista por cinco días para que manifieste lo que a su derecho convenga respecto del cumplimiento de los requisitos de procedencia previstos en este Título.
 Desahogada la vista, el juez certificará dentro del término de diez días, el cumplimiento de los requisitos de procedencia previstos en los artículos 587 y 588 de este Código. Este plazo podrá ser prorrogado por el juez hasta por otro igual, en caso de que a su juicio la complejidad de la demanda lo amerite.
@@ -1144,12 +1191,19 @@ Artículo adicionado DOF 30-08-2011
 
 ## Capítulo V
 Medidas Precautorias Capítulo adicionado DOF 30-08-2011 ARTICULO 610.- En cualquier etapa del procedimiento el juez podrá decretar a petición de parte, medidas precautorias que podrán consistir en:
+
 I. La orden de cesación de los actos o actividades que estén causando o necesariamente hayan de causar un daño inminente e irreparable a la colectividad;
+
 II. La orden de realizar actos o acciones que su omisión haya causado o necesariamente hayan de causar un daño inminente e irreparable a la colectividad;
-III. El retiro del mercado o aseguramiento de instrumentos, bienes, ejemplares y productos directamente relacionados con el daño irreparable que se haya causado, estén causando o que necesariamente hayan de causarse a la colectividad, y IV. Cualquier otra medida que el juez considere pertinente dirigida a proteger los derechos e intereses de una colectividad.
+
+III. El retiro del mercado o aseguramiento de instrumentos, bienes, ejemplares y productos directamente relacionados con el daño irreparable que se haya causado, estén causando o que necesariamente hayan de causarse a la colectividad, y
+
+IV. Cualquier otra medida que el juez considere pertinente dirigida a proteger los derechos e intereses de una colectividad.
 Artículo adicionado DOF 30-08-2011 ARTICULO 611.- Las medidas precautorias previstas en el artículo anterior podrán decretarse siempre que con las mismas no se causen más daños que los que se causarían con los actos, hechos u omisiones objeto de la medida. El juez deberá valorar además que con el otorgamiento de la medida, no se cause una afectación ruinosa al demandado.
 Para el otorgamiento de dichas medidas se requerirá:
+
 I. Que el solicitante de la medida manifieste claramente cuáles son los actos, hechos o abstenciones que estén causando un daño o vulneración a los derechos o intereses colectivos o lo puedan llegar a causar.
+
 II. Que exista urgencia en el otorgamiento de la medida en virtud del riesgo de que se cause o continúe causando un daño de difícil o imposible reparación.
 Para decretar estas medidas, el juez dará vista por tres días a la parte demandada para que manifieste lo que a su derecho convenga respecto de la solicitud de medidas cautelares y solicitará opinión a los órganos y organismos competentes a que se refiere la fracción I del artículo 585 de este Código o de cualquier otra autoridad en los términos de la legislación aplicable.
 Si con el otorgamiento de la medida se pudiera ocasionar daño al demandado, éste podrá otorgar garantía suficiente para reparar los daños que pudieran causarse a la colectividad, salvo aquellos casos en los que se trate de una amenaza inminente e irreparable al interés social, a la vida o a la salud de los miembros de la colectividad o por razones de seguridad nacional.
@@ -1157,9 +1211,13 @@ Artículo adicionado DOF 30-08-2011
 
 ## Capítulo VI
 Medios de Apremio Capítulo adicionado DOF 30-08-2011 ARTICULO 612.- Los tribunales para hacer cumplir sus determinaciones, pueden emplear, a discreción, los siguientes medios de apremio:
+
 I. Multa hasta por la cantidad equivalente a treinta mil días de salario mínimo general vigente en el Distrito Federal, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse lo ordenado por el juez.
+
 II. El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario.
+
 III. El cateo por orden escrita.
+
 IV. El arresto hasta por treinta y seis horas.
 Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito de desobediencia.
 Artículo adicionado DOF 30-08-2011
@@ -1181,27 +1239,45 @@ Artículo adicionado DOF 30-08-2011
 Gastos y Costas Capítulo adicionado DOF 30-08-2011 ARTICULO 616.- La sentencia de condena incluirá lo relativo a los gastos y costas que correspondan.
 Artículo adicionado DOF 30-08-2011 ARTICULO 617.- Cada parte asumirá sus gastos y costas derivados de la acción colectiva, así como los respectivos honorarios de sus representantes.
 Los honorarios del representante legal y del representante común, que convengan con sus representados, quedarán sujetos al siguiente arancel máximo:
+
 I. Serán de hasta el 20%, si el monto líquido de la suerte principal no excede de 200 mil veces el salario mínimo diario en el Distrito Federal;
-II. Si el monto líquido de la suerte principal excede 200 mil pero es menor a 2 millones de veces el salario mínimo diario en el Distrito Federal, serán de hasta el 20% sobre los primeros 200 mil y de hasta el 10% sobre el excedente, y III. Si el monto líquido de la suerte principal excede a 2 millones de veces el salario mínimo diario en el Distrito Federal, serán de hasta el 11% sobre los primeros 2 millones, y hasta el 3% sobre el excedente.
+
+II. Si el monto líquido de la suerte principal excede 200 mil pero es menor a 2 millones de veces el salario mínimo diario en el Distrito Federal, serán de hasta el 20% sobre los primeros 200 mil y de hasta el 10% sobre el excedente, y
+
+III. Si el monto líquido de la suerte principal excede a 2 millones de veces el salario mínimo diario en el Distrito Federal, serán de hasta el 11% sobre los primeros 2 millones, y hasta el 3% sobre el excedente.
 Si las partes llegaren a un acuerdo para poner fin al juicio antes de la sentencia, los gastos y costas deberán estar contemplados como parte de las negociaciones del convenio de transacción judicial. En cualquier caso, los honorarios del representante legal y del representante común que pacten con sus representados deberán ajustarse al arancel máximo previsto en este artículo.
 Artículo adicionado DOF 30-08-2011 ARTICULO 618.- Los gastos y costas se liquidarán en ejecución de sentencia de conformidad con las siguientes reglas:
+
 I. Los gastos y costas así como los honorarios de los representantes de la parte actora referidos en el artículo anterior, serán cubiertos en la forma que lo determine el juez, buscando asegurar el pago correspondiente. Dicho pago se hará con cargo al Fondo a que se refiere el Capítulo XI de este Título, cuando exista un interés social que lo justifique y hasta donde la disponibilidad de los recursos lo permita.
+
 II. En el caso de las sentencias que establezcan una cantidad cuantificable, la parte actora pagará entre el tres y el veinte por ciento del monto total condenado por concepto de honorarios a sus representantes según lo previsto en el artículo anterior.
 El juez tomará en consideración el trabajo realizado y la complejidad del mismo, el número de miembros, el beneficio para la colectividad respectiva y demás circunstancias que estime pertinente.
+
 III. Si la condena no fuere cuantificable, el juez determinará el monto de los honorarios, tomando en consideración los criterios establecidos en el segundo párrafo de la fracción anterior.
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo X
 De las Asociaciones Capítulo adicionado DOF 30-08-2011 ARTICULO 619.- Por ser la representación común de interés público, las asociaciones civiles a que se refiere la fracción II del artículo 585, deberán registrarse ante el Consejo de la Judicatura Federal.
 Artículo adicionado DOF 30-08-2011 ARTICULO 620.- Para obtener el registro correspondiente, dichas asociaciones deberán:
-I. Presentar los estatutos sociales que cumplan con los requisitos establecidos en este Título, y II. Tener al menos un año de haberse constituido y acreditar que han realizado actividades inherentes al cumplimiento de su objeto social.
+
+I. Presentar los estatutos sociales que cumplan con los requisitos establecidos en este Título, y
+
+II. Tener al menos un año de haberse constituido y acreditar que han realizado actividades inherentes al cumplimiento de su objeto social.
 Artículo adicionado DOF 30-08-2011 ARTICULO 621.- El registro será público, su información estará disponible en la página electrónica del Consejo de la Judicatura Federal, y cuando menos deberá contener los nombres de los socios, asociados, representantes y aquellos que ejerzan cargos directivos, su objeto social, así como el informe a que se refiere la fracción II del artículo 623 de este Código.
 Artículo adicionado DOF 30-08-2011 ARTICULO 622.- Las asociaciones deberán:
+
 I. Evitar que sus asociados, socios, representantes o aquellos que ejerzan cargos directivos, incurran en situaciones de conflicto de interés respecto de las actividades que realizan en términos de este Título;
-II. Dedicarse a actividades compatibles con su objeto social, y III. Conducirse con diligencia, probidad y en estricto apego a las disposiciones legales aplicables.
+
+II. Dedicarse a actividades compatibles con su objeto social, y
+
+III. Conducirse con diligencia, probidad y en estricto apego a las disposiciones legales aplicables.
 Artículo adicionado DOF 30-08-2011 ARTICULO 623.- Para mantener el registro las asociaciones deberán:
+
 I. Cumplir con lo dispuesto en el artículo anterior;
-II. Entregar al Consejo de la Judicatura Federal, un informe anual sobre su operación y actividades respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, y III. Mantener actualizada en forma permanente la información que deba entregar al Consejo de la Judicatura Federal en los términos de lo dispuesto por el artículo 621 de este Código.
+
+II. Entregar al Consejo de la Judicatura Federal, un informe anual sobre su operación y actividades respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, y
+
+III. Mantener actualizada en forma permanente la información que deba entregar al Consejo de la Judicatura Federal en los términos de lo dispuesto por el artículo 621 de este Código.
 Artículo adicionado DOF 30-08-2011
 
 ## Capítulo XI
@@ -1394,10 +1470,21 @@ Se reforman los artículos 15; 18, párrafo primero; 20; 237, párrafo primero; 
 ## Transitorios
 
 **Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo siguiente:
+
 I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+
 II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
-III. Entrarán en vigor en la fecha en la que el Poder Judicial de la Federación realice la declaratoria a que se refiere el artículo Séptimo Transitorio de este Decreto: a) El artículo segundo del presente Decreto; b) Las disposiciones relativas a la Escuela Federal de Formación Judicial, y c) Las nuevas categorías de la Carrera Judicial.
+
+III. Entrarán en vigor en la fecha en la que el Poder Judicial de la Federación realice la declaratoria a que se refiere el artículo Séptimo Transitorio de este Decreto:
+
+a) El artículo segundo del presente Decreto;
+
+b) Las disposiciones relativas a la Escuela Federal de Formación Judicial, y
+
+c) Las nuevas categorías de la Carrera Judicial.
+
 IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
 V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación del presente Decreto en el Diario Oficial de la Federación.
 **Segundo.** Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
 **Tercero.** El procedimiento de sustituciones por ausencia de las personas titulares de los órganos jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en vigor del presente Decreto.
@@ -1514,7 +1601,9 @@ VERSIÓN Pública de la Sentencia dictada por el Tribunal Pleno de la Suprema Co
 Publicada en el Diario Oficial de la Federación el 5 de junio de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 5/2023 SOLICITANTE: PRIMERA SALA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PONENTE: MINISTRA ANA MARGARITA RÍOS FARJAT SECRETARIO: RICARDO LATAPIE ALDANA COLABORADORA: ANDREA GUERRERO CHIPROUT Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al siete de enero de dos mil veinticinco, emite la siguiente:
 SENTENCIA Derivada de la jurisprudencia fijada por la Primera Sala de la Suprema Corte de Justicia de la Nación en el amparo en revisión 340/2019, en el que declaró la inconstitucionalidad del artículo 496 del Código Federal de Procedimientos Civiles, el cual establece lo siguiente: “Artículo 496. Otorgada la escritura, pondrá el tribunal, al comprador, en posesión de los bienes rematados, si lo pidiere, con citación de los colindantes, arrendatarios, aparceros, colonos y demás interesados de que se tenga noticia”. Esto, al considerar que vulnera el derecho a la propiedad.
 Antecedentes y trámite ……..
+
 I. COMPETENCIA a IV. ESTUDIO ……..
+
 V. EFECTOS 52. El artículo 107, fracción II, párrafo tercero, constitucional confiere a esta Suprema Corte de Justicia de la Nación amplias facultades para fijar los alcances y condiciones de una declaratoria general de inconstitucionalidad con la finalidad de que se supere eficazmente el problema de inconstitucionalidad generado por las normas así declaradas en sus precedentes obligatorios. 53. Además, en términos del artículo 234 de la Ley de Amparo, la declaratoria general de inconstitucionalidad en ningún caso podrá modificar el sentido de la resolución que le dio origen, será obligatoria, tendrá efectos generales y no serán retroactivos, salvo en materia penal, y se establecerá la fecha a partir de la cual surtirá sus efectos, así como sus alcances y condiciones. 54. Por lo anterior, este Tribunal Pleno considera que, para poder superar el vicio de inconstitucionalidad, se deberá hacer la declaratoria general de inconstitucionalidad del artículo 496
 
 ### Artículo 496

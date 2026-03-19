@@ -20,23 +20,54 @@ Disposiciones Preliminares Título adicionado DOF 10-01-2014 Capítulo Único Ca
 ### Artículo 1
 .- La presente Ley es de orden público y observancia general en los Estados Unidos Mexicanos y tiene por objeto regular la organización y funcionamiento de los fondos de inversión, la intermediación de sus acciones en el mercado de valores, los servicios que deberán contratar para el correcto desempeño de sus actividades, así como la organización y funcionamiento de las personas que les presten servicios en términos de este ordenamiento legal.
 Párrafo reformado DOF 10-01-2014 En la aplicación de esta Ley, las autoridades deberán procurar el fomento de los fondos de inversión, su desarrollo equilibrado y el establecimiento de condiciones tendientes a la consecución de los siguientes objetivos:
-Párrafo reformado DOF 28-12-2023 I. El fortalecimiento y descentralización del mercado de valores;
+Párrafo reformado DOF 28-12-2023
+
+I. El fortalecimiento y descentralización del mercado de valores;
+
 II. El acceso del pequeño y mediano inversionista a dicho mercado;
+
 III. La diversificación del capital;
-IV. La contribución al financiamiento de la actividad productiva del país, y V. La protección de los intereses del público inversionista.
+
+IV. La contribución al financiamiento de la actividad productiva del país, y
+
+V. La protección de los intereses del público inversionista.
 
 ### Artículo 2
 .- Para efectos de esta Ley se entenderá por:
+
 I. Activos Objeto de Inversión: Los valores, títulos y documentos a los que les resulte aplicable el Sistema Internacional de Cotizaciones, otros valores, los recursos en efectivo, bienes, derechos y créditos, documentados en contratos e instrumentos, incluyendo aquellos referidos a operaciones financieras conocidas como derivadas, así como las demás cosas objeto de comercio que de conformidad con el régimen de inversión previsto en la presente Ley y en las disposiciones de carácter general que al efecto expida la Comisión para cada tipo de fondo de inversión, sean susceptibles de formar parte integrante de su patrimonio;
+
 II. Comisión: La Comisión Nacional Bancaria y de Valores;
+
 III. Consorcio: Al conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un Grupo de Personas, tengan el Control de las primeras;
+
 IV. Control: A la capacidad de imponer, directa o indirectamente, decisiones en el consejo de administración o en las asambleas generales de accionistas u órganos equivalentes; el mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social de una persona moral, dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, o por cualquier otro acto jurídico;
+
 V. Cuenta Global: A la cuenta administrada por sociedades operadoras de fondos de inversión, en donde se registran las operaciones de varios fondos de inversión y otros terceros, en forma individual y anónima frente a una casa de bolsa o institución de crédito con la que aquellas suscriban un contrato de intermediación bursátil o de administración de valores;
+
 VI. Empresa Promovida: A las sociedades nacionales o extranjeras, que celebren un contrato de promoción con algún fondo de inversión de capitales a fin de obtener recursos de mediano y largo plazo, para generar, directa o indirectamente, actividad económica, industrial, comercial o de servicios en el país; de carácter general que de esta emanen;
-VIII. Grupo de Personas: A las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un Grupo de Personas: a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario, o b) Las sociedades que formen parte de un mismo Consorcio o Grupo Empresarial y la persona o conjunto de personas que tengan el Control de dichas sociedades.
+
+VIII. Grupo de Personas: A las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un Grupo de Personas:
+
+a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario, o
+
+b) Las sociedades que formen parte de un mismo Consorcio o Grupo Empresarial y la persona o conjunto de personas que tengan el Control de dichas sociedades.
+
 IX. Grupo Empresarial: Al conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el Control de dichas personas morales. Asimismo, se considerarán como Grupo Empresarial a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras;
+
 X. Influencia Significativa: A la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto de cuando menos el veinte por ciento del capital social de una persona moral;
-XI. Poder de Mando: A la capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o sesiones del consejo de administración, o en la gestión, conducción y ejecución de los negocios de una persona moral o personas morales que esta controle o en las que tenga Influencia Significativa. Se presume que tienen Poder de Mando en una persona moral, salvo prueba en contrario, las personas que se ubiquen en cualquiera de los supuestos siguientes: a) Los accionistas que tengan el Control de la administración; b) Los individuos que tengan vínculos con la persona moral o las personas morales que integran el Grupo Empresarial o Consorcio al que aquella pertenezca, a través de cargos vitalicios, honoríficos o con cualquier otro título análogo o semejante a los anteriores; c) Las personas que hayan transmitido el Control de la persona moral bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, a favor de individuos con los que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario, o d) Quienes instruyan a consejeros o directivos relevantes de la persona moral, la toma de decisiones o la ejecución de operaciones en una sociedad o en las personas morales que esta controle, y XII. Registro Nacional: Al Registro Nacional de Valores a que se refiere la Ley del Mercado de Valores.
+
+XI. Poder de Mando: A la capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o sesiones del consejo de administración, o en la gestión, conducción y ejecución de los negocios de una persona moral o personas morales que esta controle o en las que tenga Influencia Significativa. Se presume que tienen Poder de Mando en una persona moral, salvo prueba en contrario, las personas que se ubiquen en cualquiera de los supuestos siguientes:
+
+a) Los accionistas que tengan el Control de la administración;
+
+b) Los individuos que tengan vínculos con la persona moral o las personas morales que integran el Grupo Empresarial o Consorcio al que aquella pertenezca, a través de cargos vitalicios, honoríficos o con cualquier otro título análogo o semejante a los anteriores;
+
+c) Las personas que hayan transmitido el Control de la persona moral bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, a favor de individuos con los que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario, o
+
+d) Quienes instruyan a consejeros o directivos relevantes de la persona moral, la toma de decisiones o la ejecución de operaciones en una sociedad o en las personas morales que esta controle, y
+
+XII. Registro Nacional: Al Registro Nacional de Valores a que se refiere la Ley del Mercado de Valores.
 Los términos antes señalados podrán utilizarse en singular o en plural sin que por ello deba entenderse que cambia su significado.
 Artículo reformado DOF 10-01-2014 la legislación del orden común, serán supletorios de la presente Ley, en el orden citado.
 En los actos o las operaciones que sean contratados entre los fondos de inversión y las sociedades que les proporcionen los servicios a que se refiere el artículo 32 de esta Ley; entre estas últimas, así como entre las sociedades operadoras de fondos de inversión y sociedades o entidades que presten los servicios de distribución de acciones y su clientela inversionista, la falta de forma exigida por esta Ley o por convenio de las partes producirá la nulidad relativa de dichos actos u operaciones.
@@ -56,16 +87,25 @@ Párrafo reformado DOF 28-12-2023 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 6
 .- Los fondos de inversión, de acuerdo a su régimen de inversión, deberán adoptar alguno de los tipos siguientes:
+
 I. De renta variable;
+
 II. En instrumentos de deuda;
-III. De capitales, y IV. De cobertura.
+
+III. De capitales, y
+
+IV. De cobertura.
 Fracción reformada DOF 28-12-2023 Los fondos de inversión estarán sujetos a la supervisión, regulación y sanción de la Comisión, debiendo observar lo previsto en la presente Ley y demás disposiciones aplicables.
 Las sociedades de inversión especializadas en fondos para el retiro estarán sujetas a la supervisión de la Comisión Nacional de los Sistemas de Ahorro para el Retiro y se regirán por lo señalado en la Ley de los Sistemas de Ahorro para el Retiro.
 Artículo reformado DOF 10-01-2014
 
 ### Artículo 7
 .- Los fondos de inversión, deberán adoptar alguna de las modalidades siguientes, en función de las condiciones que para la adquisición y venta de las acciones representativas de su propio capital social, establezca en el respectivo prospecto de información al público inversionista a que esta Ley se refiere:
-Párrafo reformado DOF 10-01-2014 I. Abiertas: aquellas que tienen la obligación, en los términos de esta Ley y de sus prospectos de información al público inversionista, de recomprar las acciones representativas de su capital social o de amortizarlas con Activos Objeto de Inversión integrantes de su patrimonio, a menos que conforme a los supuestos previstos en los citados prospectos, se suspenda en forma extraordinaria y temporal dicha recompra, y II. Cerradas: aquellas que tienen prohibido recomprar las acciones representativas de su capital social y amortizar acciones con Activos Objeto de Inversión integrantes de su patrimonio, a menos que sus acciones se coticen en una bolsa de valores, supuesto en el cual se ajustarán en La Comisión establecerá, mediante disposiciones de carácter general, categorías de fondos de inversión por cada tipo y modalidad, atendiendo a criterios de diversificación, especialización del régimen de inversión respectivo, objetivo y horizonte de inversión, liquidez, entre otros. Para tales efectos, podrá utilizar las categorías establecidas por los organismos autorregulatorios de fondos de inversión y personas que les prestan servicios a estos.
+Párrafo reformado DOF 10-01-2014
+
+I. Abiertas: aquellas que tienen la obligación, en los términos de esta Ley y de sus prospectos de información al público inversionista, de recomprar las acciones representativas de su capital social o de amortizarlas con Activos Objeto de Inversión integrantes de su patrimonio, a menos que conforme a los supuestos previstos en los citados prospectos, se suspenda en forma extraordinaria y temporal dicha recompra, y
+
+II. Cerradas: aquellas que tienen prohibido recomprar las acciones representativas de su capital social y amortizar acciones con Activos Objeto de Inversión integrantes de su patrimonio, a menos que sus acciones se coticen en una bolsa de valores, supuesto en el cual se ajustarán en La Comisión establecerá, mediante disposiciones de carácter general, categorías de fondos de inversión por cada tipo y modalidad, atendiendo a criterios de diversificación, especialización del régimen de inversión respectivo, objetivo y horizonte de inversión, liquidez, entre otros. Para tales efectos, podrá utilizar las categorías establecidas por los organismos autorregulatorios de fondos de inversión y personas que les prestan servicios a estos.
 Párrafo reformado DOF 10-01-2014
 
 ## Título II
@@ -75,10 +115,16 @@ De los fondos de inversión Título adicionado DOF 10-01-2014 Capítulo Primero 
 .- Para la organización y funcionamiento de los fondos de inversión se requiere previa autorización de la Comisión, sin necesidad de acuerdo previo de su Junta de Gobierno. Dicha autorización se otorgará a las sociedades anónimas organizadas de conformidad con las disposiciones especiales que se contienen en el presente ordenamiento legal y, en lo no previsto por este, en lo dispuesto por la Ley General de Sociedades Mercantiles.
 Por su naturaleza, estas autorizaciones serán intransmisibles y no implicarán certificación sobre la bondad de las acciones o valores que emitan o sobre la solvencia, liquidez, calidad crediticia o desempeño futuro de los fondos, ni de los Activos Objeto de Inversión que conforman su cartera.
 Las sociedades operadoras de fondos de inversión que soliciten autorización para la organización y funcionamiento de fondos de inversión, deberán presentar la documentación e información siguiente:
+
 I. El proyecto de acta constitutiva de una sociedad anónima de capital variable en la que constarán los estatutos sociales, los cuales deberán ajustarse a las disposiciones que se contienen en el presente ordenamiento legal;
+
 II. La información del socio fundador del fondo de inversión indicando los datos relativos a su autorización para constituirse como sociedad operadora de fondos de inversión;
+
 III. El proyecto de prospecto de información al público inversionista y documentos con información clave para la inversión a que se refiere el artículo 9 de esta Ley, señalando el tipo, modalidad y categoría del fondo de inversión;
-IV. La relación de las personas que se pretenda que vayan a prestar al fondo de inversión los servicios referidos en el artículo 32 de esta Ley, y V. La demás documentación e información relacionada que la Comisión requiera para el efecto.
+
+IV. La relación de las personas que se pretenda que vayan a prestar al fondo de inversión los servicios referidos en el artículo 32 de esta Ley, y
+
+V. La demás documentación e información relacionada que la Comisión requiera para el efecto.
 La Comisión tendrá la facultad de verificar que la solicitud a que se refiere el presente artículo cumpla con lo previsto en esta Ley, para lo cual dicha Comisión contará con facultades para corroborar la veracidad de la información proporcionada y, en tal virtud, las dependencias y entidades de la Administración Pública Federal, así como las demás instancias federales, entregarán la información relacionada. Asimismo, la Comisión podrá solicitar a organismos extranjeros con funciones de supervisión o regulación similares corroborar la información que al efecto se le proporcione.
 Artículo reformado DOF 10-01-2014
 
@@ -86,13 +132,21 @@ Artículo reformado DOF 10-01-2014
 Bis.- Los fondos de inversión se constituirán por un solo socio fundador ante la Comisión y sin necesidad de hacer constar su acta constitutiva y estatutos sociales ante notario o corredor público ni su inscripción en el Registro Público de Comercio.
 Los fondos de inversión deberán inscribirse en el Registro Nacional, teniendo los mismos efectos que la inscripción en el Registro Público de Comercio, conforme al artículo 2 de la Ley General de Sociedades Mercantiles. En ningún caso, la Comisión cobrará derechos por la inscripción de los fondos en el Registro Nacional, sin perjuicio del cobro de derechos correspondiente a la inscripción de las acciones en dicho Registro Nacional.
 Previa obtención de la autorización a que se refiere el artículo 8 de esta Ley, el socio fundador deberá comparecer ante la Comisión para constituir el fondo de inversión. Para tales efectos, se levantará un acta suscrita por el propio socio fundador aprobada por la Comisión, la cual dará fe de su existencia. Dicha acta contendrá al menos lo siguiente:
+
 I. Nombre y domicilio del socio fundador. Solo podrán ser socios fundadores las sociedades operadoras de fondos de inversión;
+
 II. El objeto de la sociedad, en términos del artículo 5 de esta Ley;
+
 III. Su denominación social.
 La denominación social se formará libremente, pero será distinta de la de cualquier otra sociedad, seguida invariablemente de las palabras “Sociedad Anónima de Capital Variable Fondo de Inversión”, debiendo agregar después el tipo que corresponda al fondo de inversión acorde con lo previsto en el artículo 6 de esta Ley;
+
 IV. Su duración, la cual podrá ser indefinida;
+
 V. El domicilio del fondo el cual deberá ubicarse en territorio nacional;
-VI. El capital mínimo totalmente pagado que deberá mantener, en términos de las disposiciones de carácter general que expida la Comisión, de conformidad con el artículo 14 Bis de esta Ley, y VII. Las indicaciones relativas a sus acciones y accionistas contenidas en los artículos 14 Bis a 14 Bis 3 de la presente Ley.
+
+VI. El capital mínimo totalmente pagado que deberá mantener, en términos de las disposiciones de carácter general que expida la Comisión, de conformidad con el artículo 14 Bis de esta Ley, y
+
+VII. Las indicaciones relativas a sus acciones y accionistas contenidas en los artículos 14 Bis a 14 Bis 3 de la presente Ley.
 Los requisitos a que se refieren las fracciones anteriores y las demás reglas que se establezcan en el acta constitutiva sobre la organización y funcionamiento del fondo de inversión constituirán los estatutos del mismo.
 Las modificaciones a los estatutos sociales de los fondos de inversión deberán ser aprobadas por la Comisión.
 Artículo adicionado DOF 10-01-2014
@@ -103,22 +157,48 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 9
 .- Los prospectos de información al público inversionista de los fondos de inversión, así como sus modificaciones, requerirán de la previa autorización de la Comisión, y contendrán la información relevante que contribuya a la adecuada toma de decisiones por parte del público inversionista, entre la que deberá figurar como mínimo la siguiente:
-Párrafo reformado DOF 10-01-2014 I. Los datos generales del fondo de inversión de que se trate;
-Fracción reformada DOF 10-01-2014 II. La política detallada de venta de sus acciones y los límites de tenencia accionaria por inversionista de acuerdo con lo establecido en el artículo 14 de esta Ley;
+Párrafo reformado DOF 10-01-2014
+
+I. Los datos generales del fondo de inversión de que se trate;
+Fracción reformada DOF 10-01-2014
+
+II. La política detallada de venta de sus acciones y los límites de tenencia accionaria por inversionista de acuerdo con lo establecido en el artículo 14 de esta Ley;
+
 III. La forma de negociación y liquidación de las operaciones de compra y venta de sus acciones, atendiendo al precio de valuación vigente y al plazo en que deba ser cubierto;
+
 IV. Las políticas detalladas de inversión, liquidez, adquisición, selección y, en su caso, diversificación o especialización de activos, los límites máximos y mínimos de inversión por instrumento y cuando así corresponda, las políticas para la contratación de préstamos y créditos, incluyendo aquéllas para la emisión de valores representativos de una deuda a su cargo;
+
 V. La advertencia a los inversionistas de los riesgos que pueden derivarse de la inversión de sus recursos en el fondo, tomando en cuenta para ello las políticas que se sigan conforme a la fracción anterior;
-Fracción reformada DOF 10-01-2014 VI. El método de valuación de sus acciones, especificando la periodicidad con que se realiza esta última y la forma de dar a conocer el precio;
+Fracción reformada DOF 10-01-2014
+
+VI. El método de valuación de sus acciones, especificando la periodicidad con que se realiza esta última y la forma de dar a conocer el precio;
+
 VII. Tratándose de fondos de inversión abiertos, las políticas para la recompra de las acciones representativas de su capital social y las causas por las que se suspenderán dichas operaciones. Lo anterior, atendiendo al importe de su capital pagado, la tenencia de cada accionista y la composición de los Activos Objeto de Inversión de cada fondo de inversión.
 La Comisión podrá establecer mediante disposiciones de carácter general normas que regulen el proceso de suspensión de la recompra o adquisición de las acciones representativas del capital social del fondo de inversión de que se trate.
 Adicionalmente, cuando existan condiciones desordenadas de mercado la Comisión podrá autorizar a los fondos de inversión que modifiquen las fechas para la recompra de sus acciones, sin necesidad de modificar su prospecto de información al público inversionista;
-Fracción reformada DOF 10-01-2014 VIII. La mención específica de que los accionistas de fondos de inversión abiertos, tendrán el derecho de que el propio fondo de inversión, a través de las personas que le presten los servicios de distribución de acciones, recompre o adquiera a precio de valuación, sin aplicación de diferencial alguno, hasta el cien por ciento de su tenencia accionaria, dentro del plazo que se establezca en el mismo prospecto de información al público inversionista, con motivo de cualquier modificación al régimen de inversión o régimen de recompra de acciones propias;
-Fracción reformada DOF 10-01-2014 IX. La estructura del capital social precisando, en su caso, las distintas características de las series o clases accionarias y los derechos y obligaciones inherentes a cada una de ellas;
-Fracción adicionada DOF 10-01-2014 X. El concepto y procedimiento de cálculo de las comisiones y remuneraciones que deberán pagar los fondos de inversión y sus accionistas, así como la periodicidad o circunstancias en que serán cobradas;
-Fracción adicionada DOF 10-01-2014 XI. Las manifestaciones bajo protesta de decir verdad, por parte de las personas que deban suscribir el prospecto de información al público inversionista en las que declaren expresamente que dentro del ámbito de su responsabilidad no tienen conocimiento de información relevante que haya sido omitida, que sea falsa o que induzca al error;
-Fracción adicionada DOF 10-01-2014 XII. Un apartado específico relacionado con las condiciones operativas que aplicarían en caso de la disolución y liquidación anticipada del fondo de inversión;
-Fracción adicionada DOF 10-01-2014 XIII. Los derechos preferenciales que pudieran existir para suscribir y recomprar acciones representativas del capital social, así como la posibilidad de suspender la adquisición y compra de las acciones representativas de su capital social, por virtud de la escisión del fondo de inversión ante problemas de liquidez;
-Fracción adicionada DOF 10-01-2014 XIV. La posibilidad de que el fondo de inversión se escinda conforme al procedimiento establecido en el artículo 14 Bis 7 de esta Ley, en el evento de que se presenten condiciones desordenadas o de alta volatilidad en los mercados financieros, o bien, cuando por las características de los Activos Objeto de Inversión estos presenten problemas de liquidez o valuación, y Fracción adicionada DOF 10-01-2014 XV. La demás que establezca la Comisión, mediante disposiciones de carácter general, en relación con las fracciones anteriores.
+Fracción reformada DOF 10-01-2014
+
+VIII. La mención específica de que los accionistas de fondos de inversión abiertos, tendrán el derecho de que el propio fondo de inversión, a través de las personas que le presten los servicios de distribución de acciones, recompre o adquiera a precio de valuación, sin aplicación de diferencial alguno, hasta el cien por ciento de su tenencia accionaria, dentro del plazo que se establezca en el mismo prospecto de información al público inversionista, con motivo de cualquier modificación al régimen de inversión o régimen de recompra de acciones propias;
+Fracción reformada DOF 10-01-2014
+
+IX. La estructura del capital social precisando, en su caso, las distintas características de las series o clases accionarias y los derechos y obligaciones inherentes a cada una de ellas;
+Fracción adicionada DOF 10-01-2014
+
+X. El concepto y procedimiento de cálculo de las comisiones y remuneraciones que deberán pagar los fondos de inversión y sus accionistas, así como la periodicidad o circunstancias en que serán cobradas;
+Fracción adicionada DOF 10-01-2014
+
+XI. Las manifestaciones bajo protesta de decir verdad, por parte de las personas que deban suscribir el prospecto de información al público inversionista en las que declaren expresamente que dentro del ámbito de su responsabilidad no tienen conocimiento de información relevante que haya sido omitida, que sea falsa o que induzca al error;
+Fracción adicionada DOF 10-01-2014
+
+XII. Un apartado específico relacionado con las condiciones operativas que aplicarían en caso de la disolución y liquidación anticipada del fondo de inversión;
+Fracción adicionada DOF 10-01-2014
+
+XIII. Los derechos preferenciales que pudieran existir para suscribir y recomprar acciones representativas del capital social, así como la posibilidad de suspender la adquisición y compra de las acciones representativas de su capital social, por virtud de la escisión del fondo de inversión ante problemas de liquidez;
+Fracción adicionada DOF 10-01-2014
+
+XIV. La posibilidad de que el fondo de inversión se escinda conforme al procedimiento establecido en el artículo 14 Bis 7 de esta Ley, en el evento de que se presenten condiciones desordenadas o de alta volatilidad en los mercados financieros, o bien, cuando por las características de los Activos Objeto de Inversión estos presenten problemas de liquidez o valuación, y Fracción adicionada DOF 10-01-2014
+
+XV. La demás que establezca la Comisión, mediante disposiciones de carácter general, en relación con las fracciones anteriores.
 Fracción adicionada DOF 10-01-2014 En la definición de las series o clases accionarias a que hace mención la fracción IX anterior, las sociedades operadoras que soliciten la autorización para la organización y funcionamiento del fondo de inversión de que se trate deberán ajustarse a las características y, en su caso, al importe máximo de cobro por las obligaciones que resulten de las mismas, que permitan diferenciarlas sin generar prácticas discriminatorias entre quienes les presten el servicio de distribución o inequitativos entre los inversionistas, que sean establecidas por la Comisión mediante disposiciones de carácter general, en términos de lo previsto en el artículo 39 Bis 4 de esta Ley.
 Párrafo reformado DOF 10-01-2014 Los fondos de inversión que obtengan la autorización de la Comisión respecto de sus prospectos de información al público inversionista, deberán incorporar de manera notoria en el propio prospecto de información al público inversionista una leyenda en la que expresamente indiquen que la referida autorización no implica certificación sobre la bondad de las acciones que emitan o sobre la solvencia, liquidez, calidad crediticia o desempeño futuro de los fondos, ni de los Activos Objeto de Inversión que conforman su cartera.
 Párrafo reformado DOF 10-01-2014 Adicionalmente, los fondos de inversión deberán presentar un documento con información clave para la inversión, que deberá contener los requisitos que la Comisión determine mediante disposiciones de carácter general. Los documentos con información clave para la inversión formarán parte de los prospectos de información al público inversionista.
@@ -133,13 +213,27 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 11
 .- Las sociedades operadoras de fondos de inversión que proporcionen servicios de administración a los fondos de inversión, a través de su propio consejo de administración, en adición a las funciones inherentes que la Ley General de Sociedades Mercantiles encomienda a quien tiene a su cargo la administración de las sociedades y a aquellas previstas en esta Ley deberán, respecto de los fondos de inversión a los que les presten servicios, realizar las funciones siguientes:
-I. Aprobar: a) La contratación de las personas que presten al fondo de inversión los servicios a que se refiere esta Ley; b) Las normas para prevenir y evitar conflictos de intereses, y c) Las operaciones con personas que mantengan nexos patrimoniales o de responsabilidad con el socio fundador o sus accionistas o bien, de parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, con tales accionistas, con los de la sociedad controladora del grupo financiero y entidades financieras integrantes del grupo al que, en su caso, pertenezca la propia sociedad operadora, así como con los accionistas del Grupo Empresarial o Consorcio al que pertenezca dicha sociedad operadora;
+
+I. Aprobar:
+
+a) La contratación de las personas que presten al fondo de inversión los servicios a que se refiere esta Ley;
+
+b) Las normas para prevenir y evitar conflictos de intereses, y
+
+c) Las operaciones con personas que mantengan nexos patrimoniales o de responsabilidad con el socio fundador o sus accionistas o bien, de parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, con tales accionistas, con los de la sociedad controladora del grupo financiero y entidades financieras integrantes del grupo al que, en su caso, pertenezca la propia sociedad operadora, así como con los accionistas del Grupo Empresarial o Consorcio al que pertenezca dicha sociedad operadora;
+
 II. Establecer las políticas de inversión y operación de los fondos de inversión, así como revisarlas cada vez que se reúna tomando en cuenta si las inversiones resultan razonables para el fondo de inversión, la inexistencia de conflictos de interés, así como el apego al objetivo y horizonte de inversión;
+
 III. Dictar las medidas que se requieran para que se observe debidamente lo señalado en el prospecto de información al público inversionista;
+
 IV. Analizar y evaluar el resultado de la gestión del fondo de inversión, así como evaluar por lo menos una vez al año el desempeño de los prestadores de servicios contratados; establecer los mecanismos para notificar a los accionistas de los fondos de inversión el resultado de la referida evaluación y, en su caso, la sustitución de dichos prestadores de servicios.
-Fracción reformada DOF 28-12-2023 V. Abstenerse de pagar servicios no devengados o no contemplados en el prospecto de información al público inversionista del fondo de inversión;
+Fracción reformada DOF 28-12-2023
+
+V. Abstenerse de pagar servicios no devengados o no contemplados en el prospecto de información al público inversionista del fondo de inversión;
+
 VI. Llevar un libro por separado de cada fondo de inversión que administre, en el cual se deberán asentar todos los actos corporativos del fondo de que se trate, relativos a cualquier modificación al acta constitutiva, incluyendo aumentos de capital, acuerdos de disolución, fusión, escisión, así como otros que tome el socio fundador los cuales deberán informarse a la Comisión para su publicación a través del Registro Nacional; en caso de que se acuerde un aumento de capital del fondo de inversión que administre, el secretario del consejo podrá autenticar el acto registral correspondiente para su presentación ante la Comisión.
 Los actos corporativos notificados a la Comisión en términos de lo previsto por la presente fracción, surtirán sus efectos hasta que sean hechos del conocimiento público a través del Registro Nacional;
+
 VII. Llevar un registro del total de las acciones en circulación de los fondos de inversión que administre, con la información que le proporcionen las sociedades distribuidoras de acciones de fondos de inversión o entidades que prestan tal servicio, con la indicación del número, serie, clase y demás particularidades.
 Artículo reformado DOF 10-01-2014
 
@@ -175,10 +269,16 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 14
 Bis 2.- Los accionistas de la parte variable del capital social de los fondos de inversión solo tendrán los derechos siguientes:
+
 I. Participar en el reparto de las ganancias acorde a lo previsto en los artículos 16 a 19 de la Ley General de Sociedades Mercantiles y demás aplicables. Tratándose de los fondos de inversión a que se refiere el artículo 6, fracciones I y II de esta Ley, este derecho se ejercerá, según el precio que corresponda a la valuación diaria que se le asigne a las acciones representativas del capital social;
+
 II. Exigir al fondo de inversión la adquisición o recompra de acciones en los supuestos que se contemplen en esta Ley y el prospecto de información al público inversionista;
+
 III. Exigir responsabilidad civil por daños y perjuicios en los casos en que la sociedad operadora del fondo de inversión de que se trate, incumpla con alguno de los supuestos del artículo 39 de esta Ley, o bien, a la persona que proporcione los servicios a que se refiere la fracción VI del artículo 32 de esta Ley, cuando incumpla con las funciones a que se refiere el artículo 51 de este ordenamiento legal;
-IV. Exigir el reembolso de sus acciones conforme al valor establecido en el balance final de liquidación, si el fondo de inversión se disuelve o liquida, y V. Ejercer la acción de responsabilidad en contra de los miembros del consejo de administración de la sociedad operadora de fondos de inversión que administre al fondo de inversión, en los términos a que se refieren los artículos 12 y 13 de esta Ley.
+
+IV. Exigir el reembolso de sus acciones conforme al valor establecido en el balance final de liquidación, si el fondo de inversión se disuelve o liquida, y
+
+V. Ejercer la acción de responsabilidad en contra de los miembros del consejo de administración de la sociedad operadora de fondos de inversión que administre al fondo de inversión, en los términos a que se refieren los artículos 12 y 13 de esta Ley.
 Los accionistas de la parte variable del capital social de los fondos de inversión no contarán con los derechos previstos en los artículos 144, 163, 184 y 201 de la Ley General de Sociedades Mercantiles. No obstante, lo anterior, los estatutos sociales de los fondos de inversión de capitales o de cobertura, podrán prever derechos corporativos y otros derechos económicos para los accionistas de la parte variable del capital social, así como el derecho para oponerse a las decisiones tomadas por el consejo de administración de la sociedad operadora de fondos de inversión que los administre, con respecto al propio fondo de inversión de capitales o de cobertura. Los derechos a que se refiere este párrafo deberán ejercerse en los términos y condiciones que al efecto se hubieren pactado en los propios estatutos sociales.
 Párrafo reformado DOF 28-12-2023 Para el ejercicio de los derechos a que se refieren las fracciones III y V, será necesario que los accionistas en lo individual, o en su conjunto, representen el 0.5 por ciento del capital social en circulación, o bien, mantengan invertido en el fondo de inversión el equivalente en moneda nacional a 100,000 unidades de inversión, lo que resulte mayor, a la fecha en que se pretenda ejercer la acción.
 El socio fundador, en adición a los derechos que esta Ley le otorga, tendrá los señalados en las fracciones I y IV que se señalan en este artículo.
@@ -200,43 +300,82 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 14
 Bis 5.- La fusión de los fondos de inversión, se efectuará con sujeción a las bases siguientes:
+
 I. Los fondos de inversión presentarán a la Comisión los acuerdos del consejo de administración de la sociedad operadora de fondos de inversión que los administren, que cuenten con la mayoría de votos favorables de los consejeros independientes relativos a la fusión, del convenio de fusión, de las modificaciones que correspondería realizar a los estatutos de los fondos, el plan de fusión de los fondos respectivos con indicación de las etapas en que deberá llevarse a cabo; así como el proyecto de prospecto de información al público inversionista y documentos con información clave para la inversión de los fondos de inversión que, en su caso, se formen o subsistan de la fusión, los estados financieros que presenten la situación de los fondos y que servirán de base para que el consejo que autorice la fusión y los estados financieros proyectados del fondo resultante de la fusión;
+
 II. Los acuerdos de fusión, así como las actas del consejo de administración de las sociedades operadoras de fondos de inversión que las administren, en los que se acuerde la fusión, se notificarán a la Comisión para su publicación en el Registro Nacional, y además se publicarán en la página electrónica de la red mundial denominada Internet en los sitios de la sociedad operadora de fondos de inversión así como de la sociedad distribuidora de acciones de fondos de inversión y entidades que presten dicho servicio, previa autorización de la Comisión.
 Adicionalmente, las sociedades operadoras de fondos de inversión, deberán dar aviso, el mismo día en que publiquen la información a que alude esta fracción, a los acreedores de los fondos de inversión que se vayan a fusionar para efectos de lo previsto en la fracción IV siguiente.
 A partir de la fecha en que dichos acuerdos se publiquen en el Registro Nacional, surtirá efectos la fusión, lo cual no podrá acontecer antes de que venza el plazo previsto en la fracción III, inciso a) siguiente;
+
 III. Los acuerdos del consejo de administración de las sociedades operadoras de fondos de inversión que las administren, relativos a la fusión deberán contener las bases, procedimientos y mecanismos de protección que serán adoptadas a favor de sus accionistas.
-Dichas bases, procedimientos y mecanismos deberán establecer, al menos, lo siguiente: a) Una vez autorizada la fusión, se dará aviso de ello a sus accionistas mediante la sociedad que le haya prestado los servicios de distribución de sus acciones, a través de medio fehaciente, por lo menos, con cuarenta días hábiles de anticipación a que surta efectos la fusión, dando a conocer las principales características de los fondos de inversión que se formen o subsistan de la fusión, y b) Durante el periodo mencionado en el inciso anterior, se tendrá a disposición de los accionistas el proyecto del prospecto de información al público inversionista y documentos con información clave para la inversión de los fondos de inversión que se formen o subsistan por la fusión;
-IV. Durante los noventa días naturales siguientes a la fecha de la publicación en el Registro Nacional de los acuerdos a que se refiere la fracción II anterior, los acreedores de los fondos de inversión podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda la fusión, y V. La Comisión podrá requerir la demás documentación e información adicional relacionada para tales efectos.
+Dichas bases, procedimientos y mecanismos deberán establecer, al menos, lo siguiente:
+
+a) Una vez autorizada la fusión, se dará aviso de ello a sus accionistas mediante la sociedad que le haya prestado los servicios de distribución de sus acciones, a través de medio fehaciente, por lo menos, con cuarenta días hábiles de anticipación a que surta efectos la fusión, dando a conocer las principales características de los fondos de inversión que se formen o subsistan de la fusión, y
+
+b) Durante el periodo mencionado en el inciso anterior, se tendrá a disposición de los accionistas el proyecto del prospecto de información al público inversionista y documentos con información clave para la inversión de los fondos de inversión que se formen o subsistan por la fusión;
+
+IV. Durante los noventa días naturales siguientes a la fecha de la publicación en el Registro Nacional de los acuerdos a que se refiere la fracción II anterior, los acreedores de los fondos de inversión podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda la fusión, y
+
+V. La Comisión podrá requerir la demás documentación e información adicional relacionada para tales efectos.
 Las autorizaciones para organizarse y funcionar como fondos de inversión, de aquellas que participen en un proceso de fusión en calidad de fusionadas, quedarán sin efectos por ministerio de Ley, sin que para ello resulte necesaria la emisión de una declaratoria por expreso por parte de la autoridad que la haya otorgado.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 14
 Bis 6.- Los fondos de inversión, podrán escindirse ya sea extinguiéndose, en cuyo caso el fondo escindente dividirá la totalidad o parte de su activo, pasivo y capital social en dos o más partes, que serán aportadas en bloque a otros fondos de nueva creación; o cuando el fondo de inversión escindente, sin extinguirse, aporte en bloque parte de su activo, pasivo y capital social a otra u otros fondos de nueva creación. Los fondos de inversión escindidos se entenderán autorizados para organizarse y operar como fondos de inversión.
 La escisión a que se refiere el presente artículo, se ajustará a las disposiciones de carácter general que emita la Comisión para tales efectos, tomando en consideración la protección de los intereses de los accionistas, y deberá efectuarse con sujeción a las bases siguientes:
+
 I. El fondo escindente presentará a la Comisión los acuerdos del consejo de administración de la sociedad operadora de fondos de inversión que la administre, que cuenten con la mayoría del voto favorable de los consejeros independientes, que contengan los acuerdos relativos a su escisión y estados financieros proyectados de los fondos que resulten de la escisión;
+
 II. Las acciones del fondo que se escinda deberán estar totalmente pagadas;
+
 III. Cada uno de los socios del fondo escindente tendrá inicialmente una proporción del capital social de los escindidos, igual a la de que sea titular en el escindente;
-IV. La resolución que apruebe la escisión deberá contener: a) La descripción de la forma, plazos y mecanismos en que los diversos conceptos de activo, pasivo y capital social serán transferidos; b) La descripción de las partes del activo, del pasivo y del capital social que correspondan a cada fondo escindido y, en su caso, al escindente, con detalle suficiente para permitir la identificación de estos; c) Los estados financieros del fondo escindente, que abarquen por lo menos las operaciones realizadas durante el último ejercicio social; d) La determinación de las obligaciones que por virtud de la escisión asuma cada fondo escindido. Si un fondo escindido incumpliera alguna de las obligaciones asumidas por él en virtud de la escisión, responderá solidariamente ante los acreedores que no hayan dado su consentimiento expreso, durante un plazo de tres años contado a partir de la última de las publicaciones a que se refiere la fracción V de este artículo, hasta por el importe del activo neto que les haya sido atribuido en la escisión a cada uno de ellos; si el escindente no hubiere dejado de existir, este responderá por la totalidad de la obligación; e) El proyecto de reformas estatutarias del fondo escindente y los proyectos de estatutos de los fondos escindidos, y f) Las bases, procedimientos y mecanismos de protección que serán adoptadas a favor de sus accionistas. Dichas bases, procedimientos y mecanismos deberán establecer, al menos, lo siguiente: 1. Una vez autorizada la escisión, se dará aviso de ello a sus accionistas mediante la sociedad que le haya prestado los servicios de distribución de sus acciones, a través de medio fehaciente, por lo menos, con cuarenta días hábiles de anticipación a que surta efectos la escisión, dando a conocer las principales características de los fondos de inversión escindidos y del escindente, en caso de que subsista, y 2. Durante el periodo mencionado en el inciso anterior, se tendrá a disposición de los accionistas el proyecto del prospecto de información al público inversionista y documentos con información clave para la inversión de los fondos de inversión escindidos y del escindente, en caso de que subsista;
+
+IV. La resolución que apruebe la escisión deberá contener:
+
+a) La descripción de la forma, plazos y mecanismos en que los diversos conceptos de activo, pasivo y capital social serán transferidos;
+
+b) La descripción de las partes del activo, del pasivo y del capital social que correspondan a cada fondo escindido y, en su caso, al escindente, con detalle suficiente para permitir la identificación de estos;
+
+c) Los estados financieros del fondo escindente, que abarquen por lo menos las operaciones realizadas durante el último ejercicio social;
+
+d) La determinación de las obligaciones que por virtud de la escisión asuma cada fondo escindido. Si un fondo escindido incumpliera alguna de las obligaciones asumidas por él en virtud de la escisión, responderá solidariamente ante los acreedores que no hayan dado su consentimiento expreso, durante un plazo de tres años contado a partir de la última de las publicaciones a que se refiere la fracción V de este artículo, hasta por el importe del activo neto que les haya sido atribuido en la escisión a cada uno de ellos; si el escindente no hubiere dejado de existir, este responderá por la totalidad de la obligación;
+
+e) El proyecto de reformas estatutarias del fondo escindente y los proyectos de estatutos de los fondos escindidos, y
+
+f) Las bases, procedimientos y mecanismos de protección que serán adoptadas a favor de sus accionistas. Dichas bases, procedimientos y mecanismos deberán establecer, al menos, lo siguiente: 1. Una vez autorizada la escisión, se dará aviso de ello a sus accionistas mediante la sociedad que le haya prestado los servicios de distribución de sus acciones, a través de medio fehaciente, por lo menos, con cuarenta días hábiles de anticipación a que surta efectos la escisión, dando a conocer las principales características de los fondos de inversión escindidos y del escindente, en caso de que subsista, y 2. Durante el periodo mencionado en el inciso anterior, se tendrá a disposición de los accionistas el proyecto del prospecto de información al público inversionista y documentos con información clave para la inversión de los fondos de inversión escindidos y del escindente, en caso de que subsista;
+
 V. Los acuerdos del consejo de administración de las sociedades operadoras de fondos de inversión que administren a los fondos de inversión, relativos a la escisión, así como las actas de dicho consejo y el acta constitutiva del escindido, se notificarán a la Comisión para su publicación en el Registro Nacional y además se publicarán en la página electrónica de la red mundial denominada Internet en los sitios de la sociedad operadora de fondos de inversión así como de la sociedad distribuidora de acciones de fondos de inversión y entidades que presten dicho servicio, una vez obtenida la autorización de la Comisión. A partir de la fecha en que se publiquen, surtirá efectos la escisión, lo cual no podrá acontecer antes de que venza el plazo previsto en la fracción IV, inciso f), numeral 1 de este artículo. Adicionalmente, las sociedades operadoras de fondos de inversión, deberán dar aviso, el mismo día en que publiquen la información a que alude esta fracción, a los acreedores de los fondos de inversión que se vayan a fusionar para efectos de lo previsto en la fracción siguiente;
-VI. Los acreedores del fondo escindente podrán oponerse judicialmente a la escisión, dentro de los noventa días naturales siguientes a la fecha del aviso a que se refiere la fracción anterior, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda los efectos de esta, y VII. La Comisión podrá requerir la demás documentación e información adicional relacionada para tales efectos.
+
+VI. Los acreedores del fondo escindente podrán oponerse judicialmente a la escisión, dentro de los noventa días naturales siguientes a la fecha del aviso a que se refiere la fracción anterior, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda los efectos de esta, y
+
+VII. La Comisión podrá requerir la demás documentación e información adicional relacionada para tales efectos.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 14
 Bis 7.- Como excepción a lo señalado en el artículo 14 Bis 6 de esta Ley, y en el evento de que se presenten condiciones desordenadas o de alta volatilidad en los mercados financieros, o bien, cuando por las características de los Activos Objeto de Inversión de los fondos de inversión, estos presenten problemas de liquidez o valuación, los propios fondos de inversión podrán escindirse con sujeción a las reglas previstas en este artículo y en el artículo 14 Bis 8 siguiente.
 Los fondos de inversión que se ajusten a lo previsto en este artículo no requerirán de la autorización de la Comisión, y deberán cumplir con las condiciones siguientes:
+
 I. Acreditar ante la Comisión al momento de informar sobre la escisión que no fue posible obtener el precio actualizado de valuación de los Activos Objeto de Inversión de que se trate;
+
 II. Los Activos Objeto de Inversión que vayan a destinarse al fondo de inversión escindido, deberán representar como máximo el porcentaje de los activos netos del fondo de inversión escindente que la Comisión determine mediante disposiciones de carácter general;
-III. El responsable de la administración integral de riesgos del fondo de inversión escindente, determine que de no escindir al fondo de inversión, este incurriría en un riesgo de liquidez que impactaría negativamente la valuación o liquidez de otros Activos Objeto de Inversión o a al propio fondo de inversión en su operación general, y IV. La escisión del fondo de inversión se realice en protección de los inversionistas del fondo de inversión.
+
+III. El responsable de la administración integral de riesgos del fondo de inversión escindente, determine que de no escindir al fondo de inversión, este incurriría en un riesgo de liquidez que impactaría negativamente la valuación o liquidez de otros Activos Objeto de Inversión o a al propio fondo de inversión en su operación general, y
+
+IV. La escisión del fondo de inversión se realice en protección de los inversionistas del fondo de inversión.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 14
 Bis 8.- Para la escisión de los fondos de inversión que se realice conforme a lo dispuesto por este artículo y el artículo 14 Bis 7 anterior, los fondos de inversión se deberán sujetar a las disposiciones de carácter general que emita la Comisión para tales efectos y remitir a la Comisión la documentación siguiente:
+
 I. Acta del consejo de administración de la sociedad operadora de fondos de inversión que las administre, con el voto favorable de la mayoría de los consejeros independientes, en la que conste el acuerdo para efectuar la escisión;
+
 II. Acta constitutiva del fondo de inversión escindido que contenga los elementos a que se refiere el
 
 ### artículo 8
 Bis de esta Ley. En este caso, la Comisión inscribirá de manera inmediata el acta del fondo escindido en el Registro Nacional;
+
 III. Los estados financieros proyectados de los fondos que resulten de la escisión;
+
 IV. La Comisión podrá requerir la demás documentación e información adicional relacionada para tales efectos.
 Asimismo, el fondo de inversión de que se trate, deberá acreditar a la Comisión que la escisión se ajustó a lo previsto en las fracciones II a IV, incisos a) a e) del artículo 14 Bis 6 de esta Ley.
 Los fondos de inversión escindidos se entenderán autorizados para organizarse y operar como fondos de inversión, e invariablemente deberán adoptar la modalidad de cerrados.
@@ -257,9 +396,12 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 14
 Bis 10.- La disolución y liquidación de los fondos de inversión, se regirá por lo dispuesto para las sociedades mercantiles por acciones en la Ley General de Sociedades Mercantiles con las siguientes excepciones:
 La designación de los liquidadores corresponderá:
+
 I. A la sociedad operadora de fondos de inversión que administre al fondo de inversión, cuando la disolución y liquidación haya sido voluntariamente resuelta por su consejo de administración. En este supuesto, deberán hacer del conocimiento de la Comisión el nombramiento del liquidador, dentro de los cinco días hábiles siguientes a su designación.
 La Comisión podrá oponer su veto respecto del nombramiento de la persona que ejercerá el cargo de liquidador, cuando considere que no cuenta con la suficiente calidad técnica, honorabilidad e historial crediticio satisfactorio para el desempeño de sus funciones, no reúna los requisitos al efecto establecidos o haya cometido infracciones graves o reiteradas a la presente Ley o a las disposiciones de carácter general que de ella deriven.
-La Comisión promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de publicada la revocación no hubiere sido designado por la sociedad operadora de fondos de inversión que administre al fondo de inversión, y II. A la Comisión, cuando la disolución y liquidación del fondo de inversión sea consecuencia de la revocación de su autorización de conformidad con lo previsto en el artículo 82 de esta Ley.
+La Comisión promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de publicada la revocación no hubiere sido designado por la sociedad operadora de fondos de inversión que administre al fondo de inversión, y
+
+II. A la Comisión, cuando la disolución y liquidación del fondo de inversión sea consecuencia de la revocación de su autorización de conformidad con lo previsto en el artículo 82 de esta Ley.
 En el evento de que por causa justificada el liquidador designado por la Comisión renuncie a su cargo, esta deberá designar a la persona que lo sustituya dentro de los quince días naturales siguientes al que surta efectos la renuncia.
 En los casos a que se refiere esta fracción, la responsabilidad de la Comisión se limitará a la designación del liquidador, por lo que los actos y resultados de la actuación del liquidador serán de la responsabilidad exclusiva de este último.
 Artículo adicionado DOF 10-01-2014
@@ -267,11 +409,18 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 14
 Bis 11.- El nombramiento de liquidador de fondos de inversión deberá recaer en instituciones de crédito, casas de bolsa, en el Servicio de Administración y Enajenación de Bienes, o bien, en personas físicas o morales que cuenten con experiencia en liquidación de entidades financieras.
 Cuando el nombramiento de liquidador recaiga en personas físicas, deberá observarse que tales personas sean residentes en territorio nacional en términos de lo dispuesto por el Código Fiscal de la Federación y que reúna los requisitos siguientes:
+
 I. No tener litigio pendiente en contra del fondo de inversión o de la sociedad operadora que le preste los servicios de administración de activos;
+
 II. No haber sido sentenciada por delitos patrimoniales, o inhabilitada para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano;
+
 III. No haber sido declarada concursada;
+
 IV. No haber desempeñado el cargo de auditor externo de la sociedad operadora que le preste los servicios de administración de activos o de alguna de las empresas que integran el Grupo Empresarial o Consorcio al que esta última pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento;
-V. Presentar un reporte de crédito especial, conforme a la Ley para Regular las Sociedades de Información Crediticia, proporcionado por sociedades de información crediticia que contenga sus antecedentes de por lo menos cinco años anteriores a la fecha en que se pretende iniciar el cargo, y VI. Estar inscritas en el registro que lleva el Instituto Federal de Especialistas de Concursos Mercantiles, o bien contar con la certificación de alguna asociación gremial reconocida como organismo autorregulatorio por la Comisión.
+
+V. Presentar un reporte de crédito especial, conforme a la Ley para Regular las Sociedades de Información Crediticia, proporcionado por sociedades de información crediticia que contenga sus antecedentes de por lo menos cinco años anteriores a la fecha en que se pretende iniciar el cargo, y
+
+VI. Estar inscritas en el registro que lleva el Instituto Federal de Especialistas de Concursos Mercantiles, o bien contar con la certificación de alguna asociación gremial reconocida como organismo autorregulatorio por la Comisión.
 Tratándose de personas morales en general, las personas físicas designadas para desempeñar las actividades vinculadas a esta función, deberán cumplir con los requisitos a que se hace referencia en este artículo.
 El Servicio de Administración y Enajenación de Bienes podrá ejercer el encargo de liquidador con su personal o a través de apoderados que para tal efecto designe. El apoderamiento podrá ser hecho a través de instituciones de crédito, de casas de bolsa o de personas físicas que cumplan con los requisitos señalados en este artículo.
 Las instituciones o personas que tengan un interés opuesto al del fondo de inversión, deberán abstenerse de aceptar el cargo de liquidador manifestando tal circunstancia.
@@ -279,17 +428,26 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 14
 Bis 12.- En el desempeño de su función, el liquidador deberá:
+
 I. Elaborar un dictamen respecto de la situación integral del fondo de inversión. En el evento de que de su dictamen se desprenda que el fondo de inversión se ubica en causales de concurso mercantil, deberá solicitar al juez la declaración del concurso mercantil conforme a lo previsto en la Ley de Concursos Mercantiles, informando de ello a la Comisión;
+
 II. Instrumentar y adoptar un plan de trabajo calendarizado que contenga los procedimientos y medidas necesarias para que las obligaciones a cargo del fondo derivadas de las operaciones reservadas a los fondos de inversión, sean finiquitadas o transferidas a otros intermediarios a más tardar dentro del año siguiente a la fecha en que haya protestado y aceptado su nombramiento;
+
 III. Cobrar lo que se deba al fondo de inversión y pagar lo que esta deba.
 En caso de que los referidos activos no sean suficientes para cubrir los pasivos del fondo, el liquidador deberá solicitar el concurso mercantil;
+
 IV. Presentar al socio fundador, a la conclusión de su gestión, un informe completo del proceso de liquidación. Dicho informe deberá contener el balance final de la liquidación.
 En el evento de que la liquidación no concluya dentro de los doce meses inmediatos siguientes, contados a partir de la fecha en que el liquidador haya aceptado y protestado su cargo, el liquidador deberá presentar al socio fundador un informe respecto del estado en que se encuentre la liquidación señalando las causas por las que no ha sido posible su conclusión.
 Dicho informe deberá contener el estado financiero del fondo y deberá estar en todo momento a disposición del propio socio fundador;
+
 V. Promover ante la autoridad judicial la aprobación del balance final de liquidación, en los casos en que no sea posible obtener la aprobación del socio fundador, cuando dicho balance sea objetado por el socio fundador a juicio del liquidador. Lo anterior es sin perjuicio de las acciones legales que correspondan al socio fundador en términos de las leyes;
+
 VI. Hacer del conocimiento del juez competente que existe imposibilidad física y material de llevar a cabo la liquidación legal del fondo para que este ordene a la sociedad operadora de fondos de inversión que le hubiera prestado los servicios de administración al fondo de inversión de que se trate, la publicación de tal circunstancia en su página electrónica de la red mundial denominada Internet.
 Los interesados podrán oponerse a la liquidación del fondo de inversión en un plazo de sesenta días naturales siguientes a la publicación, ante la propia autoridad judicial;
-VII. Ejercer las acciones legales a que haya lugar para determinar las responsabilidades económicas que, en su caso, existan y deslindar las responsabilidades que en términos de ley y demás disposiciones resulten aplicables, y VIII. Abstenerse de comprar para sí o para otro, los bienes propiedad del fondo de inversión en liquidación, sin consentimiento expreso del socio fundador.
+
+VII. Ejercer las acciones legales a que haya lugar para determinar las responsabilidades económicas que, en su caso, existan y deslindar las responsabilidades que en términos de ley y demás disposiciones resulten aplicables, y
+
+VIII. Abstenerse de comprar para sí o para otro, los bienes propiedad del fondo de inversión en liquidación, sin consentimiento expreso del socio fundador.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 14
@@ -298,8 +456,12 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 14
 Bis 14.- El concurso mercantil de los fondos de inversión se regirá por lo dispuesto en la Ley de Concursos Mercantiles, con las excepciones siguientes:
+
 I. Cuando existan elementos que puedan actualizar los supuestos para la declaración del concurso mercantil y la sociedad operadora de fondos de inversión que administre al fondo de inversión de que se trate no solicite la declaración del concurso mercantil respectiva, la solicitará la Comisión;
-II. Declarado el concurso mercantil, la Comisión, en defensa de los intereses de los acreedores, podrá solicitar que el procedimiento se inicie en la etapa de quiebra, o bien la terminación anticipada de la etapa de conciliación, en cuyo caso el juez declarará la quiebra, y III. El cargo de conciliador o síndico corresponderá a la persona que para tal efecto designe la Comisión en un plazo máximo de diez días hábiles. Dicho nombramiento podrá recaer en instituciones de crédito, casas de bolsa, en el Servicio de Administración y Enajenación de Bienes, o en personas morales o físicas que cumplan con los requisitos previstos en el artículo 14 Bis 11 de esta Ley.
+
+II. Declarado el concurso mercantil, la Comisión, en defensa de los intereses de los acreedores, podrá solicitar que el procedimiento se inicie en la etapa de quiebra, o bien la terminación anticipada de la etapa de conciliación, en cuyo caso el juez declarará la quiebra, y
+
+III. El cargo de conciliador o síndico corresponderá a la persona que para tal efecto designe la Comisión en un plazo máximo de diez días hábiles. Dicho nombramiento podrá recaer en instituciones de crédito, casas de bolsa, en el Servicio de Administración y Enajenación de Bienes, o en personas morales o físicas que cumplan con los requisitos previstos en el artículo 14 Bis 11 de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 14
@@ -316,12 +478,25 @@ Artículo adicionado DOF 10-01-2014 Capítulo Sexto De la operación de los fond
 
 ### Artículo 15
 .- Los fondos de inversión solo podrán realizar las operaciones siguientes:
-Párrafo reformado DOF 10-01-2014 I. Adquirir o enajenar Activos Objeto de Inversión de conformidad con el régimen de inversión que le corresponda;
-Fracción reformada DOF 10-01-2014 II. Celebrar operaciones de reporto y préstamo sobre valores a los que les resulte aplicable la Ley del Mercado de Valores, así como con instrumentos financieros derivados; con instituciones de crédito, casas de bolsa y entidades financieras del exterior, pudiendo actuar, según sea el caso, como reportadas, reportadoras, prestatarias o prestamistas;
-Fracción reformada DOF 10-01-2014 III. Adquirir las acciones que emitan, sin que para tal efecto sea aplicable la prohibición establecida por el artículo 134 de la Ley General de Sociedades Mercantiles. Lo anterior no será aplicable a los fondos de inversión de capitales o cerrados, a menos que coticen en bolsas, supuesto en el cual deberán llevar a cabo dicha recompra ajustándose a lo previsto por la Ley del Mercado de Valores;
-Fracción reformada DOF 10-01-2014 IV. Comprar o vender acciones representativas del capital social de otros fondos de inversión sin perjuicio del régimen de inversión al que estén sujetos;
-Fracción reformada DOF 10-01-2014 V. Obtener préstamos y créditos de instituciones de crédito, intermediarios financieros no bancarios y entidades financieras del exterior;
-VI. Emitir valores representativos de una deuda a su cargo, para el cumplimiento de su objeto, y VII. Las análogas y conexas que autorice la Comisión mediante disposiciones de carácter general.
+Párrafo reformado DOF 10-01-2014
+
+I. Adquirir o enajenar Activos Objeto de Inversión de conformidad con el régimen de inversión que le corresponda;
+Fracción reformada DOF 10-01-2014
+
+II. Celebrar operaciones de reporto y préstamo sobre valores a los que les resulte aplicable la Ley del Mercado de Valores, así como con instrumentos financieros derivados; con instituciones de crédito, casas de bolsa y entidades financieras del exterior, pudiendo actuar, según sea el caso, como reportadas, reportadoras, prestatarias o prestamistas;
+Fracción reformada DOF 10-01-2014
+
+III. Adquirir las acciones que emitan, sin que para tal efecto sea aplicable la prohibición establecida por el artículo 134 de la Ley General de Sociedades Mercantiles. Lo anterior no será aplicable a los fondos de inversión de capitales o cerrados, a menos que coticen en bolsas, supuesto en el cual deberán llevar a cabo dicha recompra ajustándose a lo previsto por la Ley del Mercado de Valores;
+Fracción reformada DOF 10-01-2014
+
+IV. Comprar o vender acciones representativas del capital social de otros fondos de inversión sin perjuicio del régimen de inversión al que estén sujetos;
+Fracción reformada DOF 10-01-2014
+
+V. Obtener préstamos y créditos de instituciones de crédito, intermediarios financieros no bancarios y entidades financieras del exterior;
+
+VI. Emitir valores representativos de una deuda a su cargo, para el cumplimiento de su objeto, y
+
+VII. Las análogas y conexas que autorice la Comisión mediante disposiciones de carácter general.
 En la realización de las operaciones a que se refiere este artículo, los fondos de inversión se sujetarán a las disposiciones de carácter general que expida la Comisión, salvo tratándose de las operaciones de reporto, préstamo de valores, préstamos y créditos, emisión de valores y la celebración de operaciones financieras conocidas como derivadas y con moneda extranjera, en cuyo caso deberán ajustarse a las disposiciones de carácter general que al efecto expida el Banco de México, en las cuales podrá establecer límites máximos a los montos de tales operaciones con base en las características de los activos objeto de inversión y las del propio fondo, así como la situación del mercado.
 Párrafo reformado DOF 10-01-2014, 28-12-2023 Las disposiciones de carácter general aplicables a los fondos de inversión de cobertura deberán ser aprobadas y, en su caso modificadas, por la Junta de Gobierno de la Comisión.
 Párrafo adicionado DOF 28-12-2023 En el evento de que la Comisión pretenda incorporar en el régimen de inversión de los fondos de inversión de cualquier tipo, la celebración de operaciones financieras conocidas como derivadas o con moneda extranjera, deberá obtener la opinión favorable del Banco de México.
@@ -339,10 +514,20 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 18
 .- Los fondos de inversión tendrán prohibido:
-Párrafo reformado DOF 10-01-2014 I. Recibir depósitos de dinero;
+Párrafo reformado DOF 10-01-2014
+
+I. Recibir depósitos de dinero;
+
 II. Dar en garantía sus bienes muebles, inmuebles, valores, títulos y documentos que mantengan en sus activos, salvo que tengan por objeto garantizar el cumplimiento de obligaciones a cargo del fondo, producto de la realización de las operaciones a que se refiere el artículo 15, fracciones II, V y VI de esta Ley, así como aquellas en las que puedan participar y que de conformidad con las disposiciones que les sean aplicables a dichas transacciones deban estar garantizadas;
-Fracción reformada DOF 10-01-2014 III. Otorgar su aval o garantía respecto de obligaciones a cargo de un tercero;
-IV. Recomprar o vender las acciones que emitan a precio distinto al que se señale conforme a lo dispuesto en el artículo 44 de esta Ley considerando las comisiones que correspondan a cada serie accionaria. Tratándose de fondos de inversión que coticen en bolsa, se ajustarán al régimen Fracción reformada DOF 10-01-2014 V. Practicar operaciones activas de crédito, excepto préstamos y reportos sobre valores, de conformidad con lo previsto en la fracción II del artículo 15 de esta Ley, y VI. Lo que les señale ésta u otras leyes.
+Fracción reformada DOF 10-01-2014
+
+III. Otorgar su aval o garantía respecto de obligaciones a cargo de un tercero;
+
+IV. Recomprar o vender las acciones que emitan a precio distinto al que se señale conforme a lo dispuesto en el artículo 44 de esta Ley considerando las comisiones que correspondan a cada serie accionaria. Tratándose de fondos de inversión que coticen en bolsa, se ajustarán al régimen Fracción reformada DOF 10-01-2014
+
+V. Practicar operaciones activas de crédito, excepto préstamos y reportos sobre valores, de conformidad con lo previsto en la fracción II del artículo 15 de esta Ley, y
+
+VI. Lo que les señale ésta u otras leyes.
 
 ### Artículo 19
 .- Se deroga Artículo derogado DOF 10-01-2014
@@ -360,9 +545,14 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 23
 .- Las inversiones que realicen los fondos de este tipo, se sujetarán al régimen que la Comisión establezca mediante disposiciones de carácter general, y que deberán considerar, entre otros:
+
 I. El porcentaje máximo del activo neto del fondo que podrá invertirse en Valores de un mismo emisor;
+
 II. El porcentaje máximo de Valores de un mismo emisor que podrá ser adquirido por un fondo de inversión;
-III. El porcentaje mínimo del activo neto del fondo que deberá invertirse en Valores y operaciones cuya liquidez le permita adquirir las acciones representativas de su capital social de los accionistas que se lo requieran, y IV. El porcentaje mínimo del activo neto del fondo que deberá invertirse en acciones y otros títulos o documentos de renta variable.
+
+III. El porcentaje mínimo del activo neto del fondo que deberá invertirse en Valores y operaciones cuya liquidez le permita adquirir las acciones representativas de su capital social de los accionistas que se lo requieran, y
+
+IV. El porcentaje mínimo del activo neto del fondo que deberá invertirse en acciones y otros títulos o documentos de renta variable.
 Al expedir las disposiciones a que se refiere este artículo, la Comisión podrá establecer las bases de cálculo de los porcentajes referidos y regímenes diferentes atendiendo a las políticas de inversión, liquidez, selección y, en su caso, diversificación o especialización de activos, así como prever la inversión en otros valores, derechos, títulos de crédito, documentos, contratos, depósitos de dinero y demás bienes objeto de comercio.
 Artículo reformado DOF 10-01-2014 Capítulo Octavo De los fondos de inversión en instrumentos de deuda Capítulo adicionado DOF 10-01-2014
 
@@ -372,8 +562,12 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 25
 .- Las inversiones que realicen los fondos de este tipo, se sujetarán al régimen que la Comisión establezca mediante disposiciones de carácter general, y que deberán considerar, entre otros:
+
 I. El porcentaje máximo del activo neto del fondo que podrá invertirse en valores de un mismo emisor;
-II. El porcentaje máximo de Valores de un mismo emisor que podrá ser adquirido por un fondo de inversión, y III. El porcentaje mínimo del activo neto del fondo que deberá invertirse en valores y operaciones cuya liquidez le permita adquirir las acciones representativas de su capital social de los accionistas que se lo requieran.
+
+II. El porcentaje máximo de Valores de un mismo emisor que podrá ser adquirido por un fondo de inversión, y
+
+III. El porcentaje mínimo del activo neto del fondo que deberá invertirse en valores y operaciones cuya liquidez le permita adquirir las acciones representativas de su capital social de los accionistas que se lo requieran.
 Al expedir las disposiciones a que se refiere este artículo, la Comisión podrá establecer las bases de cálculo de los porcentajes referidos y regímenes diferentes atendiendo a las políticas de inversión, liquidez, selección y, en su caso, diversificación o especialización de activos, así como prever la inversión en otros valores, derechos, títulos de crédito, documentos, contratos, depósitos de dinero y demás bienes objeto de comercio.
 Artículo reformado DOF 10-01-2014 Capítulo Noveno De los fondos de inversión de capitales Capítulo adicionado DOF 10-01-2014
 
@@ -383,21 +577,34 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 27
 .- Las inversiones que realicen los fondos de este tipo, se sujetarán al régimen que la Comisión establezca mediante disposiciones de carácter general, y que deberán considerar, entre otros:
+
 I. Las características genéricas de las Empresas Promovidas en que podrá invertirse el activo neto de los fondos de inversión;
+
 II. El porcentaje máximo del activo neto de los fondos de inversión que podrá invertirse en acciones o partes sociales de una misma Empresa Promovida;
-III. El porcentaje máximo del activo neto de los fondos de inversión que podrá invertirse en obligaciones y bonos emitidos por una o varias Empresas Promovidas, y IV. El porcentaje máximo del activo neto de los fondos de inversión que podrá invertirse en acciones emitidas por Empresas Promovidas.
+
+III. El porcentaje máximo del activo neto de los fondos de inversión que podrá invertirse en obligaciones y bonos emitidos por una o varias Empresas Promovidas, y
+
+IV. El porcentaje máximo del activo neto de los fondos de inversión que podrá invertirse en acciones emitidas por Empresas Promovidas.
 Los recursos que transitoriamente no sean invertidos con arreglo a las fracciones precedentes, deberán destinarse a la constitución de depósitos de dinero, así como a la adquisición de acciones representativas del capital social de fondos de inversión de renta variable o en instrumentos de deuda, de valores, títulos y documentos objeto de inversión de los fondos de inversión en instrumentos de deuda y de otros instrumentos que al efecto prevea la Comisión, mediante disposiciones de carácter general.
 Al expedir las disposiciones a que se refiere este artículo, la Comisión podrá establecer las bases de cálculo de los porcentajes referidos y regímenes diferentes, atendiendo a las políticas de inversión, liquidez, selección y, en su caso, diversificación o especialización de activos, así como prever la inversión en otros valores, derechos, títulos de crédito, documentos, contratos, depósitos de dinero y demás bienes objeto de comercio.
 Artículo reformado DOF 10-01-2014
 
 ### Artículo 28
 .- Los fondos de inversión de capitales celebrarán con cada una de las Empresas Promovidas, un contrato de promoción que tendrá por objeto la estipulación de las condiciones a las que se sujetará la inversión y que deberá reunir los requisitos mínimos siguientes:
+
 I. La determinación del porcentaje de acciones y, en su caso, instrumentos de deuda a cargo de la Empresa Promovida que estará en posibilidad de adquirir el fondo de inversión de capitales, en consistencia con lo establecido en el prospecto de información al público inversionista.
+
 II. El motivo o fin que se persigue con la inversión.
+
 III. El plazo objetivo de la inversión.
+
 IV. Los mecanismos de desinversión posibles de acuerdo a las características de la propia inversión.
+
 V. Las prohibiciones que, en su caso, se hubieren previsto en el prospecto de información al público inversionista, a las que deberán sujetarse las Empresas Promovidas.
-VI. Las condiciones para la terminación anticipada o la rescisión del contrato de promoción, y VII. La forma y términos en que las Empresas Promovidas deberán proporcionar información al fondo de inversión de capitales, así como la obligación de las citadas Empresas Promovidas de proporcionar información que al efecto le solicite a esta última, el propio fondo de inversión o la Comisión.
+
+VI. Las condiciones para la terminación anticipada o la rescisión del contrato de promoción, y
+
+VII. La forma y términos en que las Empresas Promovidas deberán proporcionar información al fondo de inversión de capitales, así como la obligación de las citadas Empresas Promovidas de proporcionar información que al efecto le solicite a esta última, el propio fondo de inversión o la Comisión.
 La citada Comisión podrá objetar los términos y condiciones de los contratos de promoción en caso de que no reúnan los requisitos mínimos antes señalados, así como ordenar que se realicen las modificaciones que estime pertinentes.
 Adicionalmente, la Comisión podrá practicar visitas de inspección a las Empresas Promovidas, circunscribiendo el ejercicio de dicha facultad a lo previsto en los contratos de promoción.
 Artículo reformado DOF 10-01-2014
@@ -431,14 +638,31 @@ De la prestación de servicios a los fondos de inversión Título adicionado DOF
 
 ### Artículo 32
 .- Los fondos de inversión en los términos y casos que esta Ley señala, para el cumplimiento de su objeto deberán contratar los servicios que a continuación se indican:
-Párrafo reformado DOF 10-01-2014 I. Administración de activos de fondos de inversión;
-Fracción reformada DOF 10-01-2014 II. Distribución de acciones de fondos de inversión;
-Fracción reformada DOF 10-01-2014 III. Valuación de acciones de fondos de inversión;
-Fracción reformada DOF 10-01-2014 IV. Calificación de fondos de inversión;
-Fracción reformada DOF 10-01-2014 V. Proveeduría de Precios de Activos Objeto de Inversión;
+Párrafo reformado DOF 10-01-2014
+
+I. Administración de activos de fondos de inversión;
+Fracción reformada DOF 10-01-2014
+
+II. Distribución de acciones de fondos de inversión;
+Fracción reformada DOF 10-01-2014
+
+III. Valuación de acciones de fondos de inversión;
+Fracción reformada DOF 10-01-2014
+
+IV. Calificación de fondos de inversión;
+Fracción reformada DOF 10-01-2014
+
+V. Proveeduría de Precios de Activos Objeto de Inversión;
+
 VI. Depósito y custodia de Activos Objeto de Inversión;
-Fracción reformada DOF 10-01-2014 VII. Contabilidad de fondos de inversión;
-Fracción reformada DOF 10-01-2014 VIII. Administrativos para fondos de inversión, y Fracción reformada DOF 10-01-2014 IX. Los demás que autorice la Comisión mediante disposiciones de carácter general.
+Fracción reformada DOF 10-01-2014
+
+VII. Contabilidad de fondos de inversión;
+Fracción reformada DOF 10-01-2014
+
+VIII. Administrativos para fondos de inversión, y Fracción reformada DOF 10-01-2014
+
+IX. Los demás que autorice la Comisión mediante disposiciones de carácter general.
 Los fondos de inversión estarán obligados a contratar los servicios a que se refiere la fracción IV anterior, cuando así lo prevea la Comisión en las disposiciones de carácter general a que se refiere el
 
 ### artículo 17
@@ -461,15 +685,40 @@ Párrafo adicionado DOF 10-01-2014
 
 ### Artículo 34
 .- La solicitud de autorización para constituirse como sociedades operadoras de fondos de inversión, sociedades distribuidoras o valuadoras de acciones de fondos de inversión, deberá acompañarse de lo siguiente:
+
 I. Proyecto de estatutos sociales;
-II. Plan general de funcionamiento que comprenda por lo menos: a) Las operaciones a realizar de conformidad con los artículos 39, 39 Bis, 40, 40 Bis ó 44 de esta Ley, según corresponda; b) Las medidas de seguridad para preservar la integridad de la información; c) Las previsiones de cobertura geográfica señalando las regiones y plazas en las que se pretenda operar; d) El estudio de viabilidad financiera de la sociedad, y e) Las bases relativas a su organización y control interno.
+
+II. Plan general de funcionamiento que comprenda por lo menos:
+
+a) Las operaciones a realizar de conformidad con los artículos 39, 39 Bis, 40, 40 Bis ó 44 de esta Ley, según corresponda;
+
+b) Las medidas de seguridad para preservar la integridad de la información;
+
+c) Las previsiones de cobertura geográfica señalando las regiones y plazas en las que se pretenda operar;
+
+d) El estudio de viabilidad financiera de la sociedad, y
+
+e) Las bases relativas a su organización y control interno.
+
 III. Manual de operación y funcionamiento, así como manual de conducta, que incluya las políticas para la solución de potenciales conflictos de interés frente a los fondos de inversión que administren. Los citados manuales deberán contener las normas que al efecto determine la Comisión mediante disposiciones de carácter general;
-IV. Relación e información de las personas que directa o indirectamente pretendan mantener una participación en el capital social de la sociedad a constituir, que deberá contener, de conformidad con las disposiciones de carácter general que al efecto expida la Comisión, lo siguiente: a) El monto del capital social que cada una de ellas suscribirá y el origen de los recursos que utilizarán para tal efecto; b) La situación patrimonial, tratándose de personas físicas, o los estados financieros, tratándose de personas morales, en ambos casos de los últimos tres años, y c) Aquella que permita verificar que cuentan con honorabilidad e historial crediticio y de negocios satisfactorio.
+
+IV. Relación e información de las personas que directa o indirectamente pretendan mantener una participación en el capital social de la sociedad a constituir, que deberá contener, de conformidad con las disposiciones de carácter general que al efecto expida la Comisión, lo siguiente:
+
+a) El monto del capital social que cada una de ellas suscribirá y el origen de los recursos que utilizarán para tal efecto;
+
+b) La situación patrimonial, tratándose de personas físicas, o los estados financieros, tratándose de personas morales, en ambos casos de los últimos tres años, y
+
+c) Aquella que permita verificar que cuentan con honorabilidad e historial crediticio y de negocios satisfactorio.
 Las entidades financieras que conforme a su régimen pretendan participar como accionistas de la sociedad a constituir, deberán indicar los datos relativos a su autorización en sustitución de la información solicitada en relación con los probables accionistas;
+
 V. Relación de los probables consejeros, director general y principales directivos de la sociedad, acompañada de la información que acredite que dichas personas cumplen con los requisitos que esta Ley establece para tales cargos;
+
 VI. El nombre de la persona que fungirá como contralor normativo, así como el procedimiento para que la asamblea general de accionistas designe, suspenda, remueva o revoque el nombramiento de dicho contralor normativo, y la forma en que este último reportará a la propia asamblea acerca del ejercicio de sus funciones;
+
 VII. Comprobante de depósito en moneda nacional constituido en institución de crédito o de valores gubernamentales por su valor de mercado, a favor de la Tesorería de la Federación, por una cantidad igual al diez por ciento del capital mínimo con que deba operar la sociedad conforme a la presente Ley.
-El principal y, en su caso, accesorios del referido depósito serán devueltos al solicitante en caso de desistimiento, así como en el evento de que la solicitud sea denegada o cuando la sociedad operadora de fondos de inversión, sociedad distribuidora o valuadora de acciones de fondos de inversión inicie operaciones en los términos previstos en esta Ley. En el caso de que se revoque la autorización conforme a lo previsto en el artículo 83, fracción VII de esta Ley, el importe del depósito se hará efectivo, y VIII. La demás documentación e información que la Comisión requiera para tal efecto.
+El principal y, en su caso, accesorios del referido depósito serán devueltos al solicitante en caso de desistimiento, así como en el evento de que la solicitud sea denegada o cuando la sociedad operadora de fondos de inversión, sociedad distribuidora o valuadora de acciones de fondos de inversión inicie operaciones en los términos previstos en esta Ley. En el caso de que se revoque la autorización conforme a lo previsto en el artículo 83, fracción VII de esta Ley, el importe del depósito se hará efectivo, y
+
+VIII. La demás documentación e información que la Comisión requiera para tal efecto.
 La Comisión tendrá la facultad de verificar que la solicitud a que se refiere el presente artículo, cumple con lo previsto en esta Ley para lo cual dicha Comisión contará con facultades para corroborar la veracidad de la información proporcionada, y en tal virtud, las dependencias y entidades de la Administración Pública Federal, así como las demás instancias federales entregarán la información relacionada. Asimismo, la Comisión podrá solicitar a organismos extranjeros con funciones de supervisión o regulación similares corroborar la información que al efecto se proporcione.
 Cuando no se presente el instrumento público en el que consten los estatutos de la sociedad, para su aprobación, dentro del plazo de noventa días señalado en el cuarto párrafo del artículo 33 de esta Ley; no se obtenga la autorización para iniciar operaciones en términos del artículo 34 Bis 5 de esta Ley, o se revoque la autorización para organizarse y operar como sociedad operadora de fondos de inversión, sociedad distribuidora o valuadora de acciones de fondos de inversión, al amparo de la fracción VII del
 
@@ -484,48 +733,80 @@ Los accionistas que representen, cuando menos, un diez por ciento del capital pa
 Los miembros del consejo de administración de las sociedades a que se refiere el presente artículo deberán contar con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como con amplios conocimientos y experiencia en materia financiera, legal o administrativa.
 Los cargos de consejeros independientes de las sociedades a que alude este artículo deberán recaer en personas ajenas a la administración de la entidad respectiva que reúnan los requisitos y condiciones que determine la Comisión, mediante disposiciones de carácter general, en las que igualmente se establecerán los supuestos bajo los cuales se considerará que un consejero deja de ser independiente, para los efectos de este artículo.
 En ningún caso podrán ser consejeros independientes:
+
 I. Empleados o directivos de la sociedad de que se trate;
+
 II. Accionistas que sin ser empleados o directivos de la sociedad, tengan Poder de Mando en la sociedad;
+
 III. Socios o personas que ocupen un empleo, cargo o comisión en sociedades o asociaciones importantes que presten servicios a la sociedad de que se trate o a las empresas que pertenezcan al mismo Grupo Empresarial del cual forme parte esta.
 Se considera que una sociedad o asociación es importante cuando los ingresos que recibe por la prestación de servicios a la sociedad operadora, sociedad distribuidora o sociedad valuadora o al mismo Grupo Empresarial o Consorcio del cual forme parte esta, según sea el caso, representan más del cinco por ciento de los ingresos totales de las sociedad o asociación de que se trate;
+
 IV. Clientes, proveedores, prestadores de servicios, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, prestador de servicios, deudor o acreedor importante de la sociedad.
 Se considera que un cliente, proveedor o prestador de servicios es importante cuando los servicios que le preste la sociedad de que se trate o las ventas que le haga a esta, representen más del diez por ciento de los servicios o ventas totales del cliente, del proveedor o del prestador de servicios, respectivamente, durante los doce meses anteriores a la fecha del nombramiento. Asimismo, se considera que un deudor o acreedor es importante cuando el importe del crédito es mayor al quince por ciento de los activos de la sociedad operadora, distribuidora o valuadora, o de su contraparte;
+
 V. Empleados de una fundación, asociación o sociedad civiles que reciban donativos importantes de la sociedad de que se trate.
 Se consideran donativos importantes a aquellos que representen más del quince por ciento del total de donativos recibidos por la fundación, asociación o sociedad civiles de que se trate;
+
 VI. Directores generales o directivos de alto nivel de una sociedad en cuyo consejo de administración participe el director general o un directivo de alto nivel de la sociedad operadora, sociedad distribuidora o sociedad valuadora, según se trate;
+
 VII. Directores generales o empleados de las entidades financieras que pertenezcan al mismo Grupo Empresarial o Consorcio al que pertenezca la sociedad operadora, sociedad distribuidora o sociedad valuadora, según se trate;
+
 VIII. Cónyuges, concubinas o concubinarios, así como quienes tengan parentesco por consanguinidad, afinidad o civil hasta el primer grado, respecto de alguna de las personas mencionadas en las fracciones III a VII anteriores, o bien, hasta el tercer grado, en relación con las señaladas en las fracciones I, II y IX de este artículo;
+
 IX. Directores o empleados de empresas en las que los accionistas de la sociedad operadora, sociedad distribuidora o sociedad valuadora ejerzan el Control;
-X. Quienes tengan conflictos de interés o estén supeditados a intereses personales, patrimoniales o económicos de cualquiera de las personas que mantengan el Control de la sociedad operadora, sociedad distribuidora o sociedad valuadora, o del Consorcio o Grupo Empresarial al que pertenezca la propia sociedad operadora, sociedad distribuidora o sociedad valuadora, según se trate, o el Poder de Mando en cualquiera de estos, y XI. Quienes hayan estado comprendidos en alguno de los supuestos anteriores, durante el año anterior al momento en que se pretenda hacer su designación.
+
+X. Quienes tengan conflictos de interés o estén supeditados a intereses personales, patrimoniales o económicos de cualquiera de las personas que mantengan el Control de la sociedad operadora, sociedad distribuidora o sociedad valuadora, o del Consorcio o Grupo Empresarial al que pertenezca la propia sociedad operadora, sociedad distribuidora o sociedad valuadora, según se trate, o el Poder de Mando en cualquiera de estos, y
+
+XI. Quienes hayan estado comprendidos en alguno de los supuestos anteriores, durante el año anterior al momento en que se pretenda hacer su designación.
 Los miembros del consejo de administración de la sociedad operadora de fondos de inversión, en su actuar, se regirán por los deberes de diligencia y lealtad a que se refieren los artículos 30 a 37 de la Ley del Mercado de Valores. La acción de responsabilidad por el incumplimiento a dichos deberes se Artículo adicionado DOF 10-01-2014
 
 ### Artículo 34
 Bis 1.- El contralor normativo de las sociedades operadoras de fondos de inversión, sociedades distribuidoras o valuadoras de acciones de fondos de inversión, será responsable de:
+
 I. Establecer procedimientos para asegurar que se cumpla con la normatividad externa e interna aplicable, y adicionalmente tratándose del contralor normativo de las sociedades operadoras de fondos de inversión para verificar la adecuada observancia del prospecto de información al público inversionista de los fondos de inversión a las que les presten servicios, y para conocer de los incumplimientos;
+
 II. Proponer al consejo de administración el establecimiento de medidas para prevenir conflictos de interés y evitar el uso indebido de la información conforme a lo establecido en las disposiciones de carácter general que al efecto expida la Comisión;
+
 III. Recibir los informes del comisario y los dictámenes de los auditores externos, para su conocimiento y análisis;
+
 IV. Informar anualmente al consejo de administración sobre las irregularidades que puedan afectar el sano desarrollo de la sociedad, así como respecto de las quejas y reclamaciones que los accionistas de los fondos de inversión a las que presten sus servicios presenten;
+
 V. Presentar al consejo de administración un informe anual en el que se contengan los asuntos previstos en la fracción anterior;
-VI. Asistir a las sesiones del consejo de administración con voz y sin voto, y VII. Las demás que determine la Comisión mediante disposiciones de carácter general y las que se establezcan en los estatutos sociales para el adecuado desempeño de sus responsabilidades.
+
+VI. Asistir a las sesiones del consejo de administración con voz y sin voto, y
+
+VII. Las demás que determine la Comisión mediante disposiciones de carácter general y las que se establezcan en los estatutos sociales para el adecuado desempeño de sus responsabilidades.
 Las funciones del contralor normativo se ejercerán sin perjuicio de las que correspondan al comisario y al auditor externo de la sociedad respectiva, de conformidad con la legislación aplicable.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 34
 Bis 2.- En adición a lo señalado en el artículo 34 Bis 1 de esta Ley, el contralor normativo de las sociedades operadoras de fondos de inversión, estará a cargo respecto de los fondos de inversión que administre la sociedad operadora respectiva, de vigilar lo siguiente:
+
 I. El debido cumplimiento de lo establecido por los fondos de inversión en sus prospectos de información al público inversionista;
+
 II. La existencia de los Activos Objeto de Inversión en los que invierta el fondo de inversión, así como verificar la debida aplicación de los recursos de los accionistas a los Activos Objeto de Inversión;
+
 III. Que la valuación de las acciones representativas del capital social del fondo de inversión al que preste sus servicios, se realice de conformidad con las disposiciones de carácter general que emita la Comisión;
+
 IV. Que en las operaciones relativas a los Activos Objeto de Inversión de los fondos de inversión a los que preste sus servicios, cualquier ingreso o rendimiento sea reconocido en la contabilidad de dicho fondo, de conformidad con las disposiciones de carácter general que emita la Comisión;
-V. Que los sistemas y la contabilidad del fondo de inversión sean adecuados. Para efectos de lo anterior, deberá proponer al consejo de administración de la sociedad operadora de fondos de inversión los procesos o procedimientos para realizar la función a que alude esta fracción. Lo previsto en esta fracción no será aplicable tratándose de fondos de inversión de capitales o de cobertura, y Fracción reformada DOF 28-12-2023 VI. El proceso de arqueo que se lleve a cabo para verificar que las acciones del fondo de inversión que haya distribuido la sociedad distribuidora o las entidades que presten tal servicio, correspondan al capital social autorizado del propio fondo de inversión.
+
+V. Que los sistemas y la contabilidad del fondo de inversión sean adecuados. Para efectos de lo anterior, deberá proponer al consejo de administración de la sociedad operadora de fondos de inversión los procesos o procedimientos para realizar la función a que alude esta fracción. Lo previsto en esta fracción no será aplicable tratándose de fondos de inversión de capitales o de cobertura, y Fracción reformada DOF 28-12-2023
+
+VI. El proceso de arqueo que se lleve a cabo para verificar que las acciones del fondo de inversión que haya distribuido la sociedad distribuidora o las entidades que presten tal servicio, correspondan al capital social autorizado del propio fondo de inversión.
 Para el ejercicio de estas funciones, las sociedades operadoras deberán proporcionar y dar acceso a toda la información necesaria para su cumplimiento.
 El contralor normativo a que hace referencia el presente artículo no deberá ubicarse en ninguno de los supuestos de falta de independencia que al efecto establezca la Comisión, mediante disposiciones de carácter general.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 34
 Bis 3.- El contralor normativo de la sociedad operadora que administre a los fondos de inversión, además de lo previsto en los artículos 34 Bis 1 y 34 Bis 2 de esta Ley, estará obligado a:
+
 I. Presentar al consejo de administración, a los accionistas del fondo de inversión de que se trate, y a la Comisión, un informe detallado sobre la situación observada, señalando si durante el desempeño de sus funciones de vigilancia encuentran irregularidades que afecten la liquidez, estabilidad o solvencia de alguno de los fondos de inversión. Lo anterior con sujeción a las disposiciones de carácter general que para tales efectos expida la Comisión, en las que se deberá señalar la periodicidad del informe y los medios para su entrega;
+
 II. Poner a disposición del público en general la información relativa al ejercicio de sus funciones que determine la Comisión, mediante reglas de carácter general. La Comisión deberá tomar en consideración la relevancia de esa información para transparentar al público la solvencia, liquidez y seguridad operativa de los fondos de inversión de que se trate;
-III. Conservar la documentación, información y demás elementos utilizados para desempeñar sus funciones, por un plazo de al menos cinco años. Asimismo, deberán suministrar a la Comisión los informes y demás elementos de juicio en los que se sustente el desempeño de sus funciones de vigilancia, y IV. En su caso, convocar a las sesiones del consejo de administración de la operadora que proporcione servicios al fondo de inversión de que se trate.
+
+III. Conservar la documentación, información y demás elementos utilizados para desempeñar sus funciones, por un plazo de al menos cinco años. Asimismo, deberán suministrar a la Comisión los informes y demás elementos de juicio en los que se sustente el desempeño de sus funciones de vigilancia, y
+
+IV. En su caso, convocar a las sesiones del consejo de administración de la operadora que proporcione servicios al fondo de inversión de que se trate.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 34
@@ -534,9 +815,14 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 34
 Bis 5.- Las sociedades a que se refiere el artículo 33 de esta Ley, previo al inicio de operaciones, deberán acreditar a la Comisión que cumplen con los requisitos siguientes:
+
 I. Que la sociedad se encuentre debidamente constituida, proporcionando los datos de inscripción en el Registro Público de Comercio;
+
 II. Que cuentan con el capital mínimo que les corresponda;
-III. Que sus consejeros, directivos y apoderados para celebrar operaciones con el público, cumplen con los requisitos establecidos en esta Ley y con las disposiciones de carácter general emitidas por la Comisión, y IV. Que cuentan con la infraestructura y controles internos necesarios para realizar sus actividades y otorgar sus servicios, conforme a las disposiciones aplicables.
+
+III. Que sus consejeros, directivos y apoderados para celebrar operaciones con el público, cumplen con los requisitos establecidos en esta Ley y con las disposiciones de carácter general emitidas por la Comisión, y
+
+IV. Que cuentan con la infraestructura y controles internos necesarios para realizar sus actividades y otorgar sus servicios, conforme a las disposiciones aplicables.
 Las sociedades a que se refiere este artículo deberán notificar por escrito a la Comisión, con al menos treinta días hábiles de anticipación, la fecha de inicio de sus operaciones, señalando el domicilio de su oficina principal.
 La Comisión practicará las visitas de inspección que considere necesarias a efecto de verificar el cumplimiento de los requisitos a que se refiere este artículo.
 La Comisión podrá negar el inicio de operaciones cuando no se acredite el cumplimiento de lo previsto en este artículo.
@@ -559,10 +845,17 @@ Artículo reformado DOF 10-01-2014
 ### artículo 34
 de esta Ley.
 En ningún momento podrán participar en el capital de las sociedades a que se refiere el párrafo anterior directa o indirectamente, los gobiernos extranjeros, salvo en los casos siguientes:
+
 I. Cuando lo hagan, con motivo de medidas prudenciales de carácter temporal tales como apoyos o rescates financieros.
 Las sociedades operadoras de fondos de inversión, así como las distribuidoras y valuadoras de acciones de fondos de inversión que se ubiquen en lo dispuesto en esta fracción, deberán entregar a la Comisión, la información y documentación que acredite satisfacer lo antes señalado, dentro de los quince días hábiles siguientes a que se encuentren en dicho supuesto.
 La Comisión tendrá un plazo de noventa días hábiles, contado a partir de que reciba la información y documentación correspondiente, para resolver, previo acuerdo de su Junta de Gobierno, si la participación de que se trata, se ubica en el supuesto de excepción previsto en la presente fracción.
-II. Cuando la participación correspondiente implique que se tenga el control de las sociedades operadoras de fondos de inversión, así como de las distribuidoras y valuadoras de acciones de fondos de inversión, en términos del artículo 2, fracción IV de esta Ley, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que: a) No ejercen funciones de autoridad, y b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+II. Cuando la participación correspondiente implique que se tenga el control de las sociedades operadoras de fondos de inversión, así como de las distribuidoras y valuadoras de acciones de fondos de inversión, en términos del artículo 2, fracción IV de esta Ley, y se realice por conducto de personas morales oficiales, tales como fondos, entidades gubernamentales de fomento, entre otros, previa autorización discrecional de la Comisión, con acuerdo de su Junta de Gobierno, siempre que a su juicio dichas personas acrediten que:
+
+a) No ejercen funciones de autoridad, y
+
+b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
 III. Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de las sociedades operadoras de fondos de inversión, así como de las distribuidoras y valuadoras de acciones de fondos de inversión, en términos del artículo 2, fracción IV de esta Ley. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley.
 La sociedad de que se trate deberá abstenerse de inscribir en el registro de sus acciones, las adquisiciones que se realicen en contravención a lo dispuesto en este artículo y deberán informar tal circunstancia a Comisión, dentro de los cinco días hábiles siguientes a la fecha en que tengan conocimiento de ello.
 Cuando las adquisiciones y demás actos jurídicos a través de los cuales se obtenga directa o indirectamente la titularidad de acciones representativas del capital de sociedades operadoras de fondos de inversión, así como de las distribuidoras y valuadoras de acciones de fondos de inversión, se realicen en contravención a lo dispuesto en este artículo los derechos patrimoniales y corporativos inherentes a las acciones correspondientes de las operadoras de fondos de inversión, así como de las distribuidoras y valuadoras de acciones de fondos de inversión, quedarán en suspenso y, por lo tanto, no podrán ser ejercidos, hasta que se acredite que se ha obtenido la autorización o resolución que corresponda, o que se han satisfecho los requisitos que esta ley contempla.
@@ -579,12 +872,27 @@ Artículo reformado DOF 10-01-2014 Capítulo Segundo De la administración de ac
 
 ### Artículo 39
 . Los servicios de administración de activos consistirán en la realización de las actividades siguientes:
-I. La celebración de las operaciones a que se refiere el artículo 15, fracciones I, II, IV y V de esta Ley, como administradora del fondo de inversión de que se trate, a nombre y por cuenta de esta, para lo cual deberán cumplir con lo siguiente: a) Cerciorarse de que los fondos de inversión que administra cumplirán con el régimen de inversión que les corresponda, previo a ordenar la celebración de las operaciones de que se trate; b) Actuar conforme al interés del fondo de inversión; c) Abstenerse de intervenir en operaciones en las que existan conflictos de interés, y d) Abstenerse de incurrir en conductas contrarias a sanos usos o prácticas de mercado para la realización de sus operaciones.
-Fracción reformada DOF 10-01-2014 II. La gestión, en su caso, de la emisión de los valores a que se refiere la fracción VI del citado
+
+I. La celebración de las operaciones a que se refiere el artículo 15, fracciones I, II, IV y V de esta Ley, como administradora del fondo de inversión de que se trate, a nombre y por cuenta de esta, para lo cual deberán cumplir con lo siguiente:
+
+a) Cerciorarse de que los fondos de inversión que administra cumplirán con el régimen de inversión que les corresponda, previo a ordenar la celebración de las operaciones de que se trate;
+
+b) Actuar conforme al interés del fondo de inversión;
+
+c) Abstenerse de intervenir en operaciones en las que existan conflictos de interés, y
+
+d) Abstenerse de incurrir en conductas contrarias a sanos usos o prácticas de mercado para la realización de sus operaciones.
+Fracción reformada DOF 10-01-2014
+
+II. La gestión, en su caso, de la emisión de los valores a que se refiere la fracción VI del citado
 
 ### artículo 15
 ;
-Fracción reformada DOF 10-01-2014 III. El manejo de carteras de valores en favor de fondos de inversión, sin que en ningún momento puedan cobrar comisiones o recibir cualquier contraprestación de persona alguna por la compra de los Activos Objeto de Inversión, y Fracción adicionada DOF 10-01-2014 IV. Proporcionar servicios administrativos a los fondos de inversión.
+Fracción reformada DOF 10-01-2014
+
+III. El manejo de carteras de valores en favor de fondos de inversión, sin que en ningún momento puedan cobrar comisiones o recibir cualquier contraprestación de persona alguna por la compra de los Activos Objeto de Inversión, y Fracción adicionada DOF 10-01-2014
+
+IV. Proporcionar servicios administrativos a los fondos de inversión.
 Fracción adicionada DOF 10-01-2014 Las personas que otorguen servicios de administración de activos deberán estar constituidas como sociedades operadoras de fondos de inversión, y contarán con todo tipo de facultades y obligaciones para administrar, como si se tratara de un apoderado con poder general para realizar actos de tal naturaleza, debiendo observar en todo caso, el régimen de inversión aplicable al fondo de inversión de que se trate, así como su prospecto de información al público inversionista, salvaguardando en todo momento los intereses de los accionistas del mismo, para lo cual deberán proporcionarles la información relevante, suficiente y necesaria para la toma de decisiones.
 Párrafo reformado DOF 10-01-2014 Las operaciones a que se refieren las fracciones I y III de este artículo que celebren las sociedades operadoras con motivo de la prestación de los servicios que otorguen a los fondos de inversión, deberán llevarlas a cabo con la intermediación de casas de bolsa o instituciones de crédito cuyo régimen les permita operar con el Activo Objeto de Inversión de que se trate, conforme a las disposiciones aplicables.
 En los casos que por la regulación aplicable no sean susceptibles de intermediación por parte de las casas de bolsa o las instituciones de crédito, podrán llevarse a cabo directamente por las sociedades operadoras. La intermediación que realicen las sociedades operadoras con las acciones representativas del capital social de fondos de inversión podrá realizarse directamente, así como con aquellos valores que el Banco de México, mediante disposiciones de carácter general, les permita operar en dichos términos.
@@ -594,13 +902,21 @@ Párrafo reformado DOF 10-01-2014 Reforma DOF 10-01-2014: Derogó del artículo 
 
 ### Artículo 39
 Bis.- Las sociedades operadoras de fondos de inversión, en adición a la prestación de los servicios de administración de activos, podrán realizar las actividades siguientes:
+
 I. Prestar los servicios de distribución de acciones de fondos de inversión.
 Las sociedades operadoras de fondos de inversión serán responsables solidarios ante los clientes de las sociedades distribuidoras de acciones de fondos de inversión o entidades que presten dicho servicio, en el evento de que estas distribuyan acciones de un fondo de inversión que no se encuentren amparadas por el capital social autorizado del fondo de inversión correspondiente, siempre y cuando la sociedad operadora de que se trate haya recibido el pago total por la venta de tales acciones. En todo caso, la sociedad operadora será la única que deberá enterar el precio actualizado de valuación de las acciones.
+
 II. Prestar los servicios de contabilidad de fondos de inversión;
+
 III. Prestar los servicios de custodia de activos;
+
 IV. Proporcionar los servicios de valuación de acciones de fondos de inversión, en los términos de este ordenamiento, previa autorización de la Comisión y sujetándose a las disposiciones de carácter general que al efecto expida;
+
 V. Prestar el servicio de manejo de carteras de valores en favor de terceros;
-VI. Actuar como fiduciarias en los términos de la presente Ley, y VII. Las análogas, conexas o complementarias que autorice la Comisión.
+
+VI. Actuar como fiduciarias en los términos de la presente Ley, y
+
+VII. Las análogas, conexas o complementarias que autorice la Comisión.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 39
@@ -613,8 +929,12 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 39
 Bis 2.- En todo momento, las sociedades operadoras de fondos de inversión se encontrarán obligadas a actuar conforme al interés de sus clientes, y deberán abstenerse de proporcionar recomendaciones en servicios de asesoría sin ajustarse a esta Ley o disposiciones de carácter general que de ella deriven o bien, actuar con conflictos de interés.
 Las sociedades operadoras de fondos de inversión al proporcionar servicios asesorados deberán emitir recomendaciones y efectuar operaciones que resulten razonables. Para la determinación de la razonabilidad de las recomendaciones u operaciones deberá existir congruencia entre:
+
 I. El perfil del cliente o de la cuenta;
-II. El producto financiero y su adecuación con el perfil del cliente o de la cuenta, y III. La política para la diversificación de la cartera de inversión que al efecto establezcan las propias sociedades operadoras de fondos de inversión, en términos de las disposiciones de carácter general que expida la Comisión.
+
+II. El producto financiero y su adecuación con el perfil del cliente o de la cuenta, y
+
+III. La política para la diversificación de la cartera de inversión que al efecto establezcan las propias sociedades operadoras de fondos de inversión, en términos de las disposiciones de carácter general que expida la Comisión.
 Las operaciones que se realicen sin guardar la congruencia a que este artículo se refiere, no podrán provenir de la asesoría de la sociedad operadora de fondos de inversión y solo podrán ejecutarse con el consentimiento previo y por escrito del cliente, conservando dichas entidades tal documento como parte integrante del expediente del cliente de que se trate. Las sociedades operadoras de fondos de inversión serán responsables de los daños y perjuicios ocasionados al cliente por el incumplimiento a lo previsto en este párrafo.
 En ningún caso se deberá entender que la asesoría en los términos de este artículo garantiza el resultado o el éxito de las inversiones o sus rendimientos.
 Artículo adicionado DOF 10-01-2014
@@ -657,13 +977,20 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 40
 Bis.- Las sociedades que presten los servicios de distribución de acciones de fondos de inversión, podrán realizar las actividades siguientes:
+
 I. Transmitir, por cuenta y orden de terceros, órdenes para la compra y venta de acciones representativas del capital social de fondos de inversión.
 Las operaciones que celebren por cuenta y orden de sus clientes podrán realizarse al amparo de mandatos o comisiones no representativos. Tratándose de operaciones que celebren por cuenta y orden del fondo de inversión, deberán concertarse en representación de esta. Los mandatos referidos no requerirán para su formalización de escritura pública;
+
 II. Solicitar a sus clientes los recursos necesarios para efectuar las operaciones de compra referidas en la fracción anterior y transferirlos a la sociedad operadora que corresponda para la liquidación de dichas operaciones, así como recibir los recursos que resulten de las ventas de acciones de fondos de inversión y transferirlos a los clientes que correspondan o celebrar con ellos otras operaciones de compra de acciones de fondos de inversión, según las instrucciones que reciba de sus clientes.
 Al efecto, deberán pactar con sus clientes la posibilidad de girar instrucciones a los intermediarios financieros que correspondan, a fin de que estos transmitan los recursos y valores necesarios para la liquidación de las operaciones, así como recibir recursos para llevar a cabo la citada liquidación;
+
 III. Elaborar estados de cuenta que contengan la información mínima señalada en el artículo 61 Bis de esta Ley, así como el lugar o medio a través del cual se podrá consultar la información relativa a la composición de los activos totales, porcentaje de tenencia accionaria, categoría y calificación del fondo de inversión en la que se mantengan invertidos los recursos y el monto y concepto de cada comisión que se cobre a la clientela bajo cualquier título;
+
 IV. Llevar a cabo las operaciones que les son propias en mercados del exterior, conforme a lo previsto en las disposiciones de carácter general que para este fin expida la Comisión, previo acuerdo de su Junta de Gobierno, y con sujeción a las leyes de los países en que desempeñen tales actividades;
-V. Actuar como comisionistas de las instituciones de crédito para la realización de las operaciones de estas últimas, y VI. Las análogas, conexas o complementarias que autorice la Comisión, mediante disposiciones de carácter general.
+
+V. Actuar como comisionistas de las instituciones de crédito para la realización de las operaciones de estas últimas, y
+
+VI. Las análogas, conexas o complementarias que autorice la Comisión, mediante disposiciones de carácter general.
 Las características de las actividades que realicen las sociedades a que se refiere el presente artículo deberán ajustarse a las disposiciones de carácter general que emita la Comisión con el propósito de atender el adecuado desarrollo de las actividades de las propias sociedades distribuidoras de acciones de fondos de inversión y la protección de los intereses de sus clientes.
 Las instituciones de seguros, organizaciones auxiliares del crédito y casas de cambio, al actuar como distribuidoras no podrán proporcionar a sus clientes de manera directa los servicios de administración y custodia de acciones de fondos de inversión.
 Las sociedades distribuidoras de acciones de fondos de inversión que se encuentren autorizadas por la Comisión, para realizar únicamente las operaciones a que se refieren las fracciones I y VI de este artículo, en ningún caso podrán recibir recursos de terceros producto de la realización de operaciones de compra y venta de las acciones de los fondos de inversión que distribuyan, por lo que la liquidación de dichas transacciones se efectuará por medio de la sociedad distribuidora que pueda realizar todas las operaciones a que se refiere el presente artículo, o la entidad financiera que actúe con tal carácter. Sin perjuicio de lo anterior, dichas sociedades distribuidoras de acciones de fondos de inversión, estarán obligadas a elaborar y entregar a sus clientes un informe de transacciones u operaciones.
@@ -746,24 +1073,40 @@ Los servicios de administración y custodia de valores obligan al prestador de l
 Los fondos de inversión deberán contratar el servicio de administración y custodia de valores con entidades financieras, nacionales o extranjeras, que brinden estos servicios conforme a la legislación que les resulte aplicable, para lo cual deberán acreditar el cumplimiento de lo señalado en este artículo y revelar al público inversionista la identidad de las entidades financieras que les presten el servicio de administración y custodia de valores, en los términos que señale la Comisión mediante disposiciones de carácter general.
 Las instituciones de crédito, casas de bolsa y sociedades distribuidoras de acciones de fondos de inversión, podrán proporcionar a las sociedades operadoras de fondos de inversión servicios de administración y custodia respecto de los valores que mantengan dentro de su propio activo.
 Las entidades financieras a que se refiere el párrafo anterior deberán llevar un registro de los accionistas de dichos fondos de inversión, que deberá contener:
-I. El nombre, nacionalidad y domicilio del accionista, y la indicación de las acciones que le pertenezcan expresándose los números, series, clases y demás particularidades, y II. Las transmisiones de acciones que se realicen. Los fondos de inversión considerarán como dueño de las acciones a quien aparezca inscrito como tal en el registro a que se refiere el presente artículo. A este efecto, las entidades financieras señaladas deberán inscribir en dicho registro a petición de cualquier titular las transmisiones que se efectúen.
+
+I. El nombre, nacionalidad y domicilio del accionista, y la indicación de las acciones que le pertenezcan expresándose los números, series, clases y demás particularidades, y
+
+II. Las transmisiones de acciones que se realicen. Los fondos de inversión considerarán como dueño de las acciones a quien aparezca inscrito como tal en el registro a que se refiere el presente artículo. A este efecto, las entidades financieras señaladas deberán inscribir en dicho registro a petición de cualquier titular las transmisiones que se efectúen.
 Artículo reformado DOF 10-01-2014 Capítulo Octavo De los servicios administrativos Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 51
 Bis.- Los servicios administrativos consistirán en la realización de las actividades siguientes a favor de los fondos de inversión:
+
 I. Control, seguimiento y operación de tesorería;
+
 II. Envío de los estados de cuenta a los que se refiere la presente Ley;
+
 III. Desarrollo e implementación de procesos operativos o tecnológicos para la transmisión, almacenamiento, procesamiento, resguardo y custodia de la información, así como la administración de bases de datos de los propios fondos de inversión o de terceros;
+
 IV. Generación y distribución de reportes que conforme a las disposiciones aplicables deban entregarse;
+
 V. Administración integral de riesgos;
-VI. Elaboración, distribución y publicación de información estadística y analítica de los fondos de inversión o de terceros, y VII. Provisión de información relacionada con los Activos Objeto de Inversión, con excepción de la información relacionada con sus precios actualizados de valuación.
+
+VI. Elaboración, distribución y publicación de información estadística y analítica de los fondos de inversión o de terceros, y
+
+VII. Provisión de información relacionada con los Activos Objeto de Inversión, con excepción de la información relacionada con sus precios actualizados de valuación.
 Artículo adicionado DOF 10-01-2014 Capítulo Noveno De los servicios fiduciarios Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 51
 Bis 1.- Las sociedades operadoras de fondos de inversión podrán actuar como fiduciarias exclusivamente en fideicomisos que cumplan con las siguientes características:
+
 I. Los fines del fideicomiso sean negocios directamente vinculados con las actividades que les sean propias;
+
 II. Se trate de fideicomisos de administración o de garantía;
-III. Los recursos se reciban exclusivamente de personas plenamente identificadas al celebrar la operación y que se destinen a adquirir o administrar bienes, derechos, efectivo o valores autorizados para los fondos de inversión que administren, no permitiéndose la adhesión de terceros una vez constituidos, ni la emisión de valores con cargo al patrimonio del fideicomiso para ser colocados entre el público, salvo que se trate de fideicomisos de inversión que se señalan en el artículo 51 Bis 8 de esta Ley, y IV. El patrimonio fideicomitido esté solamente compuesto de bienes, derechos, efectivo o valores autorizados para los fondos de inversión que administren.
+
+III. Los recursos se reciban exclusivamente de personas plenamente identificadas al celebrar la operación y que se destinen a adquirir o administrar bienes, derechos, efectivo o valores autorizados para los fondos de inversión que administren, no permitiéndose la adhesión de terceros una vez constituidos, ni la emisión de valores con cargo al patrimonio del fideicomiso para ser colocados entre el público, salvo que se trate de fideicomisos de inversión que se señalan en el artículo 51 Bis 8 de esta Ley, y
+
+IV. El patrimonio fideicomitido esté solamente compuesto de bienes, derechos, efectivo o valores autorizados para los fondos de inversión que administren.
 En la realización de operaciones financieras conocidas como derivadas que se pretendan celebrar a través de fideicomisos, las sociedades operadoras de fondos de inversión deberán ajustarse a las disposiciones de carácter general que emita la Comisión previa opinión del Banco de México, conforme a lo que se establece en el artículo 15, tercer párrafo de esta Ley.
 Adicionalmente, las sociedades operadoras de fondos de inversión al actuar como fiduciarias en términos de esta Ley, se sujetarán para la realización de dichas actividades a las disposiciones de carácter general que al efecto expida el Banco de México.
 Artículo adicionado DOF 10-01-2014
@@ -792,14 +1135,30 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 51
 Bis 6.- Las sociedades operadoras de fondos de inversión que actúen con el carácter de fiduciarias tendrán prohibido:
-I. Utilizar los bienes, derechos, efectivo o valores afectos en fideicomiso, cuando tengan la facultad discrecional en el manejo de dichos activos, para la realización de operaciones en virtud de las cuales resulten o puedan resultar deudores o beneficiarios: a) Los miembros del consejo de administración, el director general o directivos que ocupen el nivel inmediato inferior a este, o sus equivalentes, así como el contralor normativo o auditores externos de la sociedad operadora; b) Los delegados fiduciarios o los miembros del comité técnico del fideicomiso respectivo, en caso de que cuente con comité técnico; c) Los ascendientes o descendientes en primer grado o el cónyuge, la concubina o el concubinario de las personas citadas en los incisos a) y b) anteriores, y d) Las sociedades en cuyo capital tengan mayoría las personas a que hacen referencia los incisos a) a c) anteriores o la misma sociedad operadora.
+
+I. Utilizar los bienes, derechos, efectivo o valores afectos en fideicomiso, cuando tengan la facultad discrecional en el manejo de dichos activos, para la realización de operaciones en virtud de las cuales resulten o puedan resultar deudores o beneficiarios:
+
+a) Los miembros del consejo de administración, el director general o directivos que ocupen el nivel inmediato inferior a este, o sus equivalentes, así como el contralor normativo o auditores externos de la sociedad operadora;
+
+b) Los delegados fiduciarios o los miembros del comité técnico del fideicomiso respectivo, en caso de que cuente con comité técnico;
+
+c) Los ascendientes o descendientes en primer grado o el cónyuge, la concubina o el concubinario de las personas citadas en los incisos a) y b) anteriores, y
+
+d) Las sociedades en cuyo capital tengan mayoría las personas a que hacen referencia los incisos a) a c) anteriores o la misma sociedad operadora.
+
 II. Celebrar operaciones por cuenta propia. Lo anterior, salvo que se trate de las autorizadas por el Banco de México mediante disposiciones de carácter general o bien, las previstas por el artículo 40 de esta Ley, cuando no impliquen conflicto de interés;
+
 III. Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los recursos cuya inversión se les encomiende.
 Si al término del fideicomiso, los bienes, derechos o valores no hubieren sido pagados por los deudores, la fiduciaria deberá transferirlos, junto con el efectivo, bienes y demás derechos o valores que constituyan el patrimonio del fideicomiso, al fideicomitente o fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
 En los contratos de fideicomiso se insertará en forma notoria lo previsto en esta fracción y una declaración de la fiduciaria en el sentido de que hizo saber inequívocamente su contenido a las personas de quienes haya recibido los bienes para su afectación fiduciaria;
+
 IV. Actuar como fiduciarias en fideicomisos a través de los cuales se capten, directa o indirectamente, recursos del público mediante cualquier acto causante de pasivo directo o contingente;
+
 V. Actuar en fideicomisos a través de los cuales se evadan limitaciones o prohibiciones contenidas en las leyes financieras;
-VI. Actuar como fiduciarias en los fideicomisos a que se refiere el segundo párrafo del artículo 88 de esta Ley, y VII. Celebrar fideicomisos en los que se administren sumas de dinero que aporten periódicamente grupos de consumidores integrados mediante sistemas de comercialización, destinados a la adquisición de determinados bienes o servicios, incluyendo los previstos en la Ley Federal de Protección al Consumidor.
+
+VI. Actuar como fiduciarias en los fideicomisos a que se refiere el segundo párrafo del artículo 88 de esta Ley, y
+
+VII. Celebrar fideicomisos en los que se administren sumas de dinero que aporten periódicamente grupos de consumidores integrados mediante sistemas de comercialización, destinados a la adquisición de determinados bienes o servicios, incluyendo los previstos en la Ley Federal de Protección al Consumidor.
 Cualquier pacto que contravenga lo dispuesto en este artículo será nulo de pleno derecho.
 Artículo adicionado DOF 10-01-2014
 
@@ -825,7 +1184,10 @@ Artículo reformado DOF 10-01-2014
 ### Artículo 53
 .- Las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, entidades que presten el servicio de distribución de acciones de fondos de inversión, valuadoras de acciones de fondos de inversión y asesores en inversiones que cuenten con daños y perjuicios que ocasionen al fondo de inversión que las contrate, cuando dichos daños y perjuicios sean producto de una actuación dolosa o intencional, o bien, de una negligencia inexcusable.
 Párrafo reformado DOF 28-12-2023 La acción de responsabilidad a que se refiere este artículo podrá ser ejercida por:
-I. El fondo de inversión afectado, o II. Los accionistas del fondo de inversión afectado, que en lo individual o en su conjunto, representen el 0.5 por ciento del capital social en circulación o bien, mantengan invertido en el fondo de inversión el equivalente en moneda nacional a 100,000 unidades de inversión, lo que resulte mayor, a la fecha en que se pretenda ejercer la acción.
+
+I. El fondo de inversión afectado, o
+
+II. Los accionistas del fondo de inversión afectado, que en lo individual o en su conjunto, representen el 0.5 por ciento del capital social en circulación o bien, mantengan invertido en el fondo de inversión el equivalente en moneda nacional a 100,000 unidades de inversión, lo que resulte mayor, a la fecha en que se pretenda ejercer la acción.
 Artículo reformado DOF 10-01-2014
 
 ### Artículo 54
@@ -842,16 +1204,28 @@ Como excepción a lo dispuesto por el párrafo anterior, los fondos de inversió
 ### artículo 32
 de esta Ley, o a través de la Comisión.
 Los fondos de inversión y personas que les presten los servicios a que se refiere el artículo 32 de esta Ley, también estarán exceptuadas de la prohibición prevista en el primer párrafo de este artículo y, por tanto, obligadas a dar las noticias o información mencionadas, en los casos en que sean solicitadas por las siguientes autoridades:
+
 I. El Fiscal General de la República o el servidor público en quien delegue;
-Fracción reformada DOF 20-05-2021 II. Los procuradores generales de justicia de los Estados de la Federación y del Distrito Federal o subprocuradores, en asuntos relativos a la comprobación de algún delito;
+Fracción reformada DOF 20-05-2021
+
+II. Los procuradores generales de justicia de los Estados de la Federación y del Distrito Federal o subprocuradores, en asuntos relativos a la comprobación de algún delito;
+
 III. El Procurador General de Justicia Militar, en asuntos relativos a la comprobación de algún delito;
+
 IV. Las autoridades hacendarias federales, para fines fiscales;
+
 V. La Secretaría de Hacienda y Crédito Público, para efectos de lo dispuesto por el artículo 91 de la presente Ley;
+
 VI. El Tesorero de la Federación, cuando el acto de vigilancia lo amerite, para solicitar los estados de cuenta y cualquier otra información relativa a las cuentas personales de los servidores públicos, auxiliares y, en su caso, particulares relacionados con la investigación de que se trate;
+
 VII. La Auditoría Superior de la Federación, en ejercicio de sus facultades de revisión y fiscalización de la Cuenta Pública Federal y respecto a cuentas o contratos a través de los cuales se administren o ejerzan recursos públicos federales;
+
 VIII. El titular y los subsecretarios de la Secretaría de la Función Pública, en ejercicio de sus facultades de investigación o auditoría para verificar la evolución del patrimonio de los servidores públicos federales.
 La solicitud de información y documentación a que se refiere el párrafo anterior, deberá formularse en todo caso, dentro del procedimiento de verificación a que se refieren los artículos 41 y 42 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
-IX. La Unidad de Fiscalización de los Recursos de los Partidos Políticos, órgano técnico del Consejo General del Instituto Federal Electoral, para el ejercicio de sus atribuciones legales, en Las autoridades electorales de las entidades federativas solicitarán y obtendrán la información que resulte necesaria también para el ejercicio de sus atribuciones legales a través de la unidad primeramente mencionada, y X. El Centro de Investigación y Seguridad Nacional, para el ejercicio de sus atribuciones legales, en los términos establecidos en la Ley de Seguridad Nacional.
+
+IX. La Unidad de Fiscalización de los Recursos de los Partidos Políticos, órgano técnico del Consejo General del Instituto Federal Electoral, para el ejercicio de sus atribuciones legales, en Las autoridades electorales de las entidades federativas solicitarán y obtendrán la información que resulte necesaria también para el ejercicio de sus atribuciones legales a través de la unidad primeramente mencionada, y
+
+X. El Centro de Investigación y Seguridad Nacional, para el ejercicio de sus atribuciones legales, en los términos establecidos en la Ley de Seguridad Nacional.
 Las autoridades mencionadas en las fracciones anteriores solicitarán las noticias o información a que se refiere este artículo en el ejercicio de sus facultades y de conformidad con las disposiciones legales que les resulten aplicables.
 Las solicitudes a que se refiere el tercer párrafo de este artículo deberán formularse con la debida fundamentación y motivación, por conducto de la Comisión. Los servidores públicos y las instituciones señalados en las fracciones I, VII y la unidad de fiscalización a que se refiere la fracción IX, podrán optar por solicitar a la autoridad judicial que expida la orden correspondiente, a efecto de que el fondo de inversión o las personas que les presten los servicios a que se refiere el artículo 32 de esta Ley, entreguen la información requerida, siempre que dichos servidores o autoridades especifiquen la denominación de la entidad, el número de cuenta, nombre del titular o usuario y demás datos y elementos que permitan su identificación plena, de acuerdo con la operación de que se trate.
 Los empleados y funcionarios de los fondos de inversión y de las personas que les presten los servicios a que se refiere el artículo 32 de esta Ley, serán responsables, en los términos de las disposiciones aplicables, por la violación del secreto que se establece, y las sociedades y personas señaladas estarán obligadas en caso de revelación indebida del secreto, a reparar los daños y perjuicios que se causen.
@@ -863,8 +1237,12 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 55
 Bis.- Con el objeto de preservar la estabilidad financiera, evitar interrupciones o alteraciones en el funcionamiento del sistema financiero, así como para facilitar el adecuado cumplimiento de sus funciones, la Secretaría de Hacienda y Crédito Público, la Comisión y el Banco de México, deberán, a petición de parte interesada y en términos de los convenios a que se refiere el último párrafo de este artículo, intercambiar entre sí la información que tengan en su poder por haberla obtenido:
+
 I. En el ejercicio de sus facultades;
-II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien, III. Directamente de otras autoridades.
+
+II. Como resultado de su actuación en coordinación con otras entidades, personas o autoridades o bien,
+
+III. Directamente de otras autoridades.
 A la facultad mencionada en el párrafo anterior, no le serán oponibles las restricciones relativas a la información reservada o confidencial en términos de las disposiciones legales aplicables. Quien reciba la información a que se refiere este artículo será responsable administrativa y penalmente, en términos de la legislación aplicable, por la difusión a terceros de información confidencial o reservada.
 Para efectos de lo dispuesto en el presente artículo, las autoridades señaladas en el mismo deberán celebrar convenios de intercambio de información en los que especifiquen la información objeto de intercambio y determinen los términos y condiciones a los que deberán sujetarse para ello. Asimismo, dichos convenios deberán definir el grado de confidencialidad o reserva de la información, así como las instancias de control respectivas a las que se informarán los casos en que se niegue la entrega de información o su entrega se haga fuera de los plazos establecidos.
 Artículo adicionado DOF 10-01-2014
@@ -882,7 +1260,10 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 55
 Bis 2.- La Comisión, a solicitud de las autoridades citadas en el artículo 55 Bis 1 anterior y, con base en el principio de reciprocidad, podrá realizar visitas de inspección a las filiales. A discreción de la misma, las visitas podrán hacerse por su conducto o bien, en cooperación con la autoridad financiera del exterior de que se trate, podrá permitir que esta última la realice.
 La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
-I. Descripción del objeto de la visita, y II. Disposiciones legales aplicables al objeto de la solicitud.
+
+I. Descripción del objeto de la visita, y
+
+II. Disposiciones legales aplicables al objeto de la solicitud.
 La Comisión podrá solicitar a las autoridades financieras del exterior que realicen visitas en términos de este artículo un informe de los resultados obtenidos.
 Artículo adicionado DOF 10-01-2014
 
@@ -895,12 +1276,20 @@ Párrafo reformado DOF 10-01-2014
 ### Artículo 56
 Bis.- Las sociedades operadoras de fondos de inversión podrán pactar con otras sociedades operadoras y entidades financieras del exterior del mismo tipo, comisiones para realizar los servicios de administración de activos de los fondos de inversión, de conformidad con las disposiciones de carácter general que expida la Comisión, previo acuerdo de su Junta de Gobierno.
 Las operaciones que lleven a cabo los comisionistas deberán realizarse a nombre y por cuenta de las sociedades operadoras de fondos de inversión con las que celebren los actos jurídicos mencionados en el primer párrafo de este artículo. Asimismo, los instrumentos jurídicos que documenten las comisiones deberán prever que las sociedades operadoras de fondos de inversión responderán por las operaciones que los comisionistas celebren por cuenta de dichas sociedades operadoras de fondos de inversión, aun cuando estas se lleven a cabo en términos distintos a los previstos en tales instrumentos jurídicos. Las disposiciones de carácter general a que se refiere el primer párrafo de este artículo, deberán contener, entre otros, los siguientes elementos:
+
 I. Los lineamientos técnicos y operativos que deberán observarse para la realización de tales operaciones y proveer que en la celebración de dichas operaciones se cumplan las disposiciones aplicables;
+
 II. Las características de las sociedades operadoras de fondos de inversión que podrán ser contratadas por las sociedades operadoras de fondos de inversión como terceros en términos del presente artículo;
+
 III. Los requisitos respecto de los procesos operativos y de control que las sociedades operadoras de fondos de inversión deberán exigir a los terceros contratados;
+
 IV. Los contratos de prestación de servicios o comisiones que celebren en términos de este artículo que la Comisión determine que deberán serle entregados por las sociedades operadoras de fondos de inversión, así como la forma, condiciones y plazos de dicha entrega;
+
 V. Los límites aplicables a las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia sociedad operadora de fondos de inversión;
-VI. Las políticas y procedimientos con que deberán contar las sociedades operadoras de fondos de inversión para vigilar el desempeño de los terceros que sean contratados, así como el cumplimiento de sus obligaciones contractuales, entre las cuales deberá preverse la obligación de dichos terceros de proporcionar a la Comisión, y a los auditores externos de las sociedades operadoras de fondos de inversión, a solicitud de estas, los registros, la información y el apoyo técnico relativos a los servicios prestados a la sociedad operadora de fondos de inversión, y VII. La prohibición para pactar que el tercero le proporcione a la sociedad operadora de fondos de inversión sus servicios en forma exclusiva.
+
+VI. Las políticas y procedimientos con que deberán contar las sociedades operadoras de fondos de inversión para vigilar el desempeño de los terceros que sean contratados, así como el cumplimiento de sus obligaciones contractuales, entre las cuales deberá preverse la obligación de dichos terceros de proporcionar a la Comisión, y a los auditores externos de las sociedades operadoras de fondos de inversión, a solicitud de estas, los registros, la información y el apoyo técnico relativos a los servicios prestados a la sociedad operadora de fondos de inversión, y
+
+VII. La prohibición para pactar que el tercero le proporcione a la sociedad operadora de fondos de inversión sus servicios en forma exclusiva.
 Lo dispuesto en el artículo 55 de esta Ley le será también aplicable a los terceros a que se refiere el presente artículo, así como los representantes, directivos y empleados de dichos terceros, aun cuando dejen de laborar o prestar sus servicios a tales terceros.
 La Comisión, previo derecho de audiencia que se otorgue a la sociedad operadora de fondos de inversión, podrá ordenar la suspensión parcial o total, temporal o definitiva, de la prestación de los servicios o comisiones a través de la operadora de fondos de inversión cuando se incumplan las disposiciones que se mencionan en este artículo o pueda verse afectada la continuidad operativa de la sociedad operadora de fondos de inversión o en protección de los intereses del público inversionista. Lo anterior, salvo que la propia Comisión apruebe un programa de regularización que reúna los requisitos que al efecto se establezcan en las disposiciones de carácter general referidas.
 Artículo adicionado DOF 10-01-2014
@@ -922,8 +1311,13 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 60
 .- Las sociedades operadoras de fondos de inversión, las sociedades distribuidoras de acciones de fondos de inversión y las entidades que prestan el servicio de distribución de acciones de fondos de inversión, al celebrar operaciones con el público inversionista, podrán pactar el uso de equipos y sistemas automatizados o de telecomunicación, siempre que se establezca en los contratos respectivos lo siguiente:
-Párrafo reformado DOF 10-01-2014, 28-12-2023 I. Las bases para determinar las operaciones y servicios cuya prestación se pacte;
-II. Los medios de identificación del usuario y las responsabilidades correspondientes a su uso, y III. Los medios por los que se haga constar la creación, transmisión, modificación o extinción de derechos y obligaciones inherentes a las operaciones y servicios de que se trata.
+Párrafo reformado DOF 10-01-2014, 28-12-2023
+
+I. Las bases para determinar las operaciones y servicios cuya prestación se pacte;
+
+II. Los medios de identificación del usuario y las responsabilidades correspondientes a su uso, y
+
+III. Los medios por los que se haga constar la creación, transmisión, modificación o extinción de derechos y obligaciones inherentes a las operaciones y servicios de que se trata.
 El uso de los medios de identificación que se establezcan conforme a lo previsto en este artículo, en sustitución de la firma autógrafa, producirá los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
 La instalación y el uso de equipos y sistemas automatizados o de telecomunicación, que se destinen a la celebración y a la prestación especializada de servicios directos al público, se sujetarán a las disposiciones de carácter general que, en su caso, dicte la Comisión.
 
@@ -932,25 +1326,41 @@ La instalación y el uso de equipos y sistemas automatizados o de telecomunicaci
 Párrafo reformado DOF 10-01-2014 Los consejeros estarán obligados a abstenerse expresamente de participar en la deliberación y votación de cualquier asunto que implique para ellos un conflicto de interés. Asimismo, deberán mantener absoluta confidencialidad respecto de todos aquellos actos, hechos o acontecimientos que no se hayan hecho del conocimiento público, así como de toda deliberación que se lleve a cabo en el consejo, sin perjuicio de la obligación que tendrán las sociedades arriba citadas de proporcionar toda la información que les sea solicitada al amparo de la presente Ley.
 Las personas que sean designadas como consejeros, contralor normativo, director general y directivos que ocupen la jerarquía inmediata inferior a la de este último, deberán acreditar a la sociedad de que se trate, con anterioridad al inicio de sus gestiones, del cumplimiento de los requisitos señalados en el primer y segundo párrafos de este artículo. La Comisión podrá establecer, mediante disposiciones de carácter general, criterios, mediante los cuales se deberán integrar los expedientes que acrediten el cumplimiento a lo señalado en el presente artículo.
 En todo caso, las personas a que se refiere el párrafo anterior, deberán manifestar:
-I. Que no se ubican en alguno de los supuestos a que se refiere el artículo 34 Bis 4 de esta Ley, tratándose del contralor normativo, director general y funcionarios que ocupen el cargo inmediato inferior al del director general en las sociedades operadoras de fondos de inversión, sociedades distribuidoras o valuadoras, y Fracción reformada DOF 10-01-2014 II. Que se encuentran al corriente en el cumplimiento de sus obligaciones crediticias de cualquier género.
+
+I. Que no se ubican en alguno de los supuestos a que se refiere el artículo 34 Bis 4 de esta Ley, tratándose del contralor normativo, director general y funcionarios que ocupen el cargo inmediato inferior al del director general en las sociedades operadoras de fondos de inversión, sociedades distribuidoras o valuadoras, y Fracción reformada DOF 10-01-2014
+
+II. Que se encuentran al corriente en el cumplimiento de sus obligaciones crediticias de cualquier género.
 Las sociedades a que se refiere este artículo deberán informar a la Comisión los nombramientos de consejeros, contralor normativo, director general y directivos del nivel inmediato inferior al de este último, dentro de los cinco días hábiles posteriores a su designación, manifestando expresamente que los mismos cumplen con los requisistos aplicables.
 La Comisión podrá determinar, mediante disposiciones de carácter general, las personas que acorde con sus funciones deberán acreditar su calidad técnica, honorabilidad e historial crediticio satisfactorio ante alguna asociación gremial reconocida por la Comisión como organismo autorregulatorio en términos Párrafo adicionado DOF 10-01-2014
 
 ### Artículo 61
 Bis.- Los estados de cuenta que envíen las sociedades o entidades que presten los servicios de distribución de acciones de fondos de inversión a sus clientes, deberán contener lo siguiente:
+
 I. La posición de las acciones de las cuales sea titular, valuada al último día del corte del período que corresponda y la del corte del período anterior;
+
 II. Los movimientos del período que corresponda;
+
 III. En su caso, los avisos sobre las modificaciones a los prospectos de información al público inversionista, señalando el lugar o medio a través del cual los accionistas podrán acceder a su consulta;
+
 IV. El plazo para la formulación de observaciones sobre la información señalada en las fracciones I a III anteriores;
+
 V. En su caso, la información sobre la contratación de préstamos o créditos a cargo del fondo de inversión, operaciones con instrumentos financieros derivados, o bien, sobre la emisión de valores representativos de una deuda;
-VI. El resultado del cálculo del rendimiento de las carteras de inversión de sus clientes. Dichos cálculos se realizarán conforme a las disposiciones de carácter general que establezca la Comisión, y VII. La demás información que establezca la Comisión mediante disposiciones de carácter general.
+
+VI. El resultado del cálculo del rendimiento de las carteras de inversión de sus clientes. Dichos cálculos se realizarán conforme a las disposiciones de carácter general que establezca la Comisión, y
+
+VII. La demás información que establezca la Comisión mediante disposiciones de carácter general.
 Cuando se cumplan los requisitos para la remisión del estado de cuenta en donde se contenga, entre otra, la información a que se refiere el presente artículo, o bien, cumplidas las instrucciones giradas por el cliente de que se trate, los registros que figuren en las mismas, así como en la contabilidad del fondo de inversión, se presumirán ciertos, salvo prueba en contrario, en el juicio respectivo, sin perjuicio de quedar a salvo el ejercicio de las acciones que por otros conceptos o agravios competa ejercer al accionista.
 Artículo adicionado DOF 10-01-2014 Capítulo Segundo De las Filiales de Instituciones Financieras del Exterior Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 62
 . Para efectos de esta Ley se entenderá por:
+
 I. Filial: La sociedad mexicana autorizada para organizarse y funcionar, conforme a esta Ley, como sociedad operadora de fondos de inversión o distribuidora de acciones de fondos de inversión, en cuyo capital participe una Institución Financiera del Exterior o una Sociedad Controladora Filial, en los términos del presente capítulo;
-Fracción reformada DOF 10-01-2014 II. Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y III. Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
+Fracción reformada DOF 10-01-2014
+
+II. Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y
+
+III. Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
 
 ### Artículo 63
 .- Las Filiales se regirán por lo previsto en los tratados o acuerdos internacionales correspondientes, el presente capítulo, las disposiciones contenidas en esta Ley aplicables a las sociedades operadoras de fondos de inversión o distribuidoras de acciones de fondos de inversión, según corresponda, y las reglas para el establecimiento de Filiales que al efecto expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión.
@@ -986,7 +1396,10 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 70
 .- La Comisión podrá autorizar a las Instituciones Financieras del Exterior o a las Sociedades Controladoras Filiales, la adquisición de acciones representativas del capital social de una sociedad operadora de fondos de inversión o distribuidora de acciones de fondos de inversión, siempre y cuando se cumplan los siguientes requisitos:
-I. La Institución Financiera del Exterior o la Sociedad Controladora Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social, y II. Los estatutos sociales de la sociedad operadora de fondos de inversión o de la distribuidora de acciones de fondos de inversión, cuyas acciones sean objeto de enajenación, deberán modificarse a efecto de cumplir con lo dispuesto en el presente capítulo.
+
+I. La Institución Financiera del Exterior o la Sociedad Controladora Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social, y
+
+II. Los estatutos sociales de la sociedad operadora de fondos de inversión o de la distribuidora de acciones de fondos de inversión, cuyas acciones sean objeto de enajenación, deberán modificarse a efecto de cumplir con lo dispuesto en el presente capítulo.
 En todo lo relativo a gobiernos extranjeros resultará aplicable lo previsto en el artículo 37 de la presente Ley.
 Artículo reformado DOF 10-01-2014
 
@@ -1047,54 +1460,114 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 80
 .- La Comisión contará con facultades de supervisión, en términos de su Ley, respecto de los fondos de inversión, las personas que les presten servicios conforme a lo señalado en el artículo 32 de esta Ley, así como de las instituciones de seguros en cuanto a las actividades que estas realicen en materia de distribución de acciones de fondos de inversión. Las personas a que se refiere este artículo, sin perjuicio de la información y documentación que deban proporcionarle periódicamente a la Comisión, deberán presentar la información y documentación que esta les requiera, dentro de los plazos, condiciones y demás características que la Comisión establezca, para poder cumplir con sus facultades de supervisión, dentro del ámbito de las disposiciones aplicables.
 Párrafo reformado DOF 10-01-2014 Asimismo, en ejercicio de sus facultades de inspección y vigilancia, la Comisión podrá:
+
 I. Dictar normas en materia de registro contable aplicables a los fondos de inversión, sociedades operadoras de fondos de inversión, distribuidoras de acciones de fondos de inversión y valuadoras de acciones de fondos de inversión, así como disposiciones de carácter general conforme a las cuales los fondos de inversión, por conducto de las sociedades operadoras y distribuidoras, deberán dar a conocer al público la composición de los activos integrantes de su patrimonio;
-Fracción reformada DOF 10-01-2014 II. Revisar los estados financieros de los fondos de inversión, de las sociedades operadoras, de las sociedades distribuidoras y de las sociedades valuadoras, así como en su caso, ordenar su difusión en los términos del artículo 77, segundo párrafo de esta Ley, mediante su publicación;
-Fracción reformada DOF 10-01-2014 III. Determinar, con acuerdo de su Junta de Gobierno, que se proceda a la remoción de los miembros del consejo de administración, comisarios, contralor normativo, director general, funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquel, apoderados autorizados para operar con el público, y funcionarios que puedan obligar con su firma a la sociedad de que se trate, así como suspender de tres meses hasta cinco años a las personas antes mencionadas, cuando considere que no cuentan con la suficiente calidad técnica, honorabilidad e historial crediticio satisfactorio para el desempeño de sus funciones; no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley o a las disposiciones de carácter general que de ella deriven. En los dos últimos supuestos, la propia Comisión podrá además inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por el mismo periodo de tres meses hasta cinco años, con independencia de las sanciones que conforme a este u otros ordenamientos legales fueren aplicables. Antes de dictar la resolución correspondiente, la citada Comisión deberá escuchar al interesado y a la sociedad de que se trate.
+Fracción reformada DOF 10-01-2014
+
+II. Revisar los estados financieros de los fondos de inversión, de las sociedades operadoras, de las sociedades distribuidoras y de las sociedades valuadoras, así como en su caso, ordenar su difusión en los términos del artículo 77, segundo párrafo de esta Ley, mediante su publicación;
+Fracción reformada DOF 10-01-2014
+
+III. Determinar, con acuerdo de su Junta de Gobierno, que se proceda a la remoción de los miembros del consejo de administración, comisarios, contralor normativo, director general, funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquel, apoderados autorizados para operar con el público, y funcionarios que puedan obligar con su firma a la sociedad de que se trate, así como suspender de tres meses hasta cinco años a las personas antes mencionadas, cuando considere que no cuentan con la suficiente calidad técnica, honorabilidad e historial crediticio satisfactorio para el desempeño de sus funciones; no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley o a las disposiciones de carácter general que de ella deriven. En los dos últimos supuestos, la propia Comisión podrá además inhabilitar a las citadas personas para desempeñar un empleo, cargo o comisión dentro del sistema financiero mexicano, por el mismo periodo de tres meses hasta cinco años, con independencia de las sanciones que conforme a este u otros ordenamientos legales fueren aplicables. Antes de dictar la resolución correspondiente, la citada Comisión deberá escuchar al interesado y a la sociedad de que se trate.
 La propia Comisión podrá, también con el acuerdo de su Junta de Gobierno, ordenar la remoción de los auditores externos independientes de las sociedades que les presten servicios en términos del artículo 32 de esta Ley, así como suspender a dichas personas por el período señalado en el párrafo anterior, cuando incurran de manera grave o reiterada en infracciones a esta Ley o las disposiciones de carácter general que de la misma emanen, sin perjuicio de las sanciones a que pudieran hacerse acreedores.
-Para los efectos de esta fracción, se entenderá por: a) Remoción, a la separación del infractor del empleo, cargo o comisión que tuviere en la sociedad de que se trate al momento en que se haya cometido o se detecte la infracción; b) Suspensión, a la interrupción temporal en el desempeño de las funciones que el infractor tuviere dentro de la sociedad que corresponda en el momento en que se haya cometido o detecte la infracción, pudiendo realizar funciones distintas a aquellas que dieron origen a la sanción, siempre y cuando no se encuentren relacionados directa o indirectamente con el cargo o actividad que dio origen a la suspensión, y c) Inhabilitación, al impedimento temporal para el ejercicio de un empleo, cargo o comisión dentro del sistema financiero mexicano.
-Fracción reformada DOF 10-01-2014 IV. Practicar visitas domiciliarias a las personas a que se refiere el primer párrafo de este artículo, con el objeto de revisar, verificar, comprobar y evaluar las operaciones, organización, funcionamiento, los procesos, los sistemas de control interno, de administración de riesgos y de información, así como el patrimonio, la adecuación del capital a los riesgos, la calidad de los activos y, en general, todo lo que pudiendo afectar la posición financiera y legal, conste o deba constar en los registros, a fin de que dichas personas se ajusten al cumplimiento de las disposiciones que las rigen y a las sanas prácticas de la materia. Las visitas domiciliarias podrán ser ordinarias, especiales y de investigación.
+Para los efectos de esta fracción, se entenderá por:
+
+a) Remoción, a la separación del infractor del empleo, cargo o comisión que tuviere en la sociedad de que se trate al momento en que se haya cometido o se detecte la infracción;
+
+b) Suspensión, a la interrupción temporal en el desempeño de las funciones que el infractor tuviere dentro de la sociedad que corresponda en el momento en que se haya cometido o detecte la infracción, pudiendo realizar funciones distintas a aquellas que dieron origen a la sanción, siempre y cuando no se encuentren relacionados directa o indirectamente con el cargo o actividad que dio origen a la suspensión, y
+
+c) Inhabilitación, al impedimento temporal para el ejercicio de un empleo, cargo o comisión dentro del sistema financiero mexicano.
+Fracción reformada DOF 10-01-2014
+
+IV. Practicar visitas domiciliarias a las personas a que se refiere el primer párrafo de este artículo, con el objeto de revisar, verificar, comprobar y evaluar las operaciones, organización, funcionamiento, los procesos, los sistemas de control interno, de administración de riesgos y de información, así como el patrimonio, la adecuación del capital a los riesgos, la calidad de los activos y, en general, todo lo que pudiendo afectar la posición financiera y legal, conste o deba constar en los registros, a fin de que dichas personas se ajusten al cumplimiento de las disposiciones que las rigen y a las sanas prácticas de la materia. Las visitas domiciliarias podrán ser ordinarias, especiales y de investigación.
 Las visitas ordinarias serán aquellas que se efectúen de conformidad con el programa anual que apruebe el presidente de la Comisión.
-Las visitas especiales, serán aquellas que sin estar incluidas en el programa anual a que se refiere el párrafo anterior, se practiquen en cualquiera de los supuestos siguientes: a) Para examinar y, en su caso, corregir situaciones especiales operativas; b) Para dar seguimiento a los resultados obtenidos en una visita de inspección; c) Cuando se presenten cambios o modificaciones en la situación contable, jurídica, económica, financiera o administrativa de alguna de las sociedades reguladas por esta Ley; d) Cuando alguna de las sociedades reguladas por esta Ley inicie operaciones con posterioridad a que la Comisión haya elaborado el programa anual a que se refiere el tercer párrafo de esta fracción; e) Cuando se presenten actos, hechos u omisiones que no hayan sido originalmente contempladas en el programa anual a que se refiere el segundo párrafo de esta fracción, que motiven la realización de la visita, y f) Cuando deriven de la cooperación internacional.
+Las visitas especiales, serán aquellas que sin estar incluidas en el programa anual a que se refiere el párrafo anterior, se practiquen en cualquiera de los supuestos siguientes:
+
+a) Para examinar y, en su caso, corregir situaciones especiales operativas;
+
+b) Para dar seguimiento a los resultados obtenidos en una visita de inspección;
+
+c) Cuando se presenten cambios o modificaciones en la situación contable, jurídica, económica, financiera o administrativa de alguna de las sociedades reguladas por esta Ley;
+
+d) Cuando alguna de las sociedades reguladas por esta Ley inicie operaciones con posterioridad a que la Comisión haya elaborado el programa anual a que se refiere el tercer párrafo de esta fracción;
+
+e) Cuando se presenten actos, hechos u omisiones que no hayan sido originalmente contempladas en el programa anual a que se refiere el segundo párrafo de esta fracción, que motiven la realización de la visita, y
+
+f) Cuando deriven de la cooperación internacional.
 Las visitas de investigación se efectuarán siempre que la Comisión tenga indicios de los cuales pueda desprenderse la realización de alguna conducta que presuntamente contravenga lo previsto en esta Ley y demás disposiciones de carácter general que emanen de ella.
 En todo caso, las visitas a que se refiere esta fracción se sujetarán a lo dispuesto en esta Ley, en la Ley de la Comisión Nacional Bancaria y de Valores, en su respectivo reglamento, así como a las demás disposiciones que resulten aplicables.
 Cuando, en el ejercicio de la función prevista en esta fracción, la Comisión así lo requiera, podrá contratar los servicios de auditores y de otros profesionistas que le auxilien en dicha función;
-Fracción reformada DOF 10-01-2014 V. Intervenir gerencialmente a los fondos de inversión, operadoras de fondos de inversión, distribuidoras y valuadoras de acciones de fondos de inversión, con objeto de suspender, normalizar o resolver las operaciones que pongan en peligro su solvencia, estabilidad o disposiciones de carácter general derivadas de ambos ordenamientos legales;
-Fracción reformada DOF 10-01-2014 VI. Ordenar la suspensión parcial o normalización de actividades de los fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y sociedades valuadoras de acciones de fondos de inversión, así como las actividades que conforme a la presente Ley realicen las instituciones de crédito, casas de bolsa, instituciones de seguros, organizaciones auxiliares del crédito y casas de cambio;
-Fracción reformada DOF 10-01-2014 VII. Emitir disposiciones de carácter general acerca de los términos y condiciones a los que deberá sujetarse toda clase de propaganda e información dirigida al público, tanto de los fondos de inversión, como de las sociedades operadoras de fondos de inversión y las personas que presten servicios de distribución de acciones de fondos de inversión, quedando prohibido a las primeras anunciar su capital autorizado sin consignar el capital pagado.
+Fracción reformada DOF 10-01-2014
+
+V. Intervenir gerencialmente a los fondos de inversión, operadoras de fondos de inversión, distribuidoras y valuadoras de acciones de fondos de inversión, con objeto de suspender, normalizar o resolver las operaciones que pongan en peligro su solvencia, estabilidad o disposiciones de carácter general derivadas de ambos ordenamientos legales;
+Fracción reformada DOF 10-01-2014
+
+VI. Ordenar la suspensión parcial o normalización de actividades de los fondos de inversión, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y sociedades valuadoras de acciones de fondos de inversión, así como las actividades que conforme a la presente Ley realicen las instituciones de crédito, casas de bolsa, instituciones de seguros, organizaciones auxiliares del crédito y casas de cambio;
+Fracción reformada DOF 10-01-2014
+
+VII. Emitir disposiciones de carácter general acerca de los términos y condiciones a los que deberá sujetarse toda clase de propaganda e información dirigida al público, tanto de los fondos de inversión, como de las sociedades operadoras de fondos de inversión y las personas que presten servicios de distribución de acciones de fondos de inversión, quedando prohibido a las primeras anunciar su capital autorizado sin consignar el capital pagado.
 Tales disposiciones deberán procurar que la propaganda e información se exprese en forma clara y precisa, a efecto de que no se induzca al público a engaño, error o confusión sobre la prestación de los servicios que ofrecen los fondos de inversión y las personas que les prestan servicios a estos últimos.
 La Comisión podrá ordenar, previa audiencia de la parte interesada, la suspensión o rectificación de la propaganda o información que a su juicio considere sea contraria a lo previsto en este artículo;
-Fracción reformada DOF 10-01-2014 VIII. Determinar los días en que los fondos de inversión, operadoras de fondos de inversión, distribuidoras y valuadoras de acciones de fondos de inversión, deberán cerrar sus puertas y suspender sus operaciones;
-Fracción reformada DOF 10-01-2014 IX. Imponer sanciones pecuniarias por infracciones a la presente Ley o a las disposiciones de carácter general que de ella deriven;
+Fracción reformada DOF 10-01-2014
+
+VIII. Determinar los días en que los fondos de inversión, operadoras de fondos de inversión, distribuidoras y valuadoras de acciones de fondos de inversión, deberán cerrar sus puertas y suspender sus operaciones;
+Fracción reformada DOF 10-01-2014
+
+IX. Imponer sanciones pecuniarias por infracciones a la presente Ley o a las disposiciones de carácter general que de ella deriven;
+
 X. Vigilar el debido cumplimiento de lo establecido por cada fondo de inversión en sus prospectos de información al público inversionista;
-Fracción reformada DOF 10-01-2014 XI. Autorizar los prospectos de información al público inversionista emitidos por los fondos de inversión y sus modificaciones;
-Fracción reformada DOF 10-01-2014 XII. Ordenar la suspensión temporal de la colocación de acciones representativas del capital de fondos de inversión ante condiciones desordenadas de mercado o, en su caso, temporal o definitiva, por la celebración de operaciones no conformes a sanos usos o prácticas de mercado o bien, cuando a su juicio, la composición de los Activos Objeto de Inversión integrantes de su patrimonio, así lo amerite;
-Fracción reformada DOF 10-01-2014 XIII. Formular las observaciones u objeciones que considere convenientes a los intereses del público inversionista, acerca de la valuación de las acciones representativas del capital social de fondos de inversión;
-Fracción reformada DOF 10-01-2014 XIV. Suspender el servicio de valuación respecto de algún fondo de inversión, cuando a su juicio exista conflicto de interés entre este y la sociedad valuadora o el comité que proporcione tal servicio, y Fracción reformada DOF 10-01-2014 XV. Ejercer las demás facultades que se le atribuyen en este ordenamiento legal y las que le son aplicables supletoriamente.
+Fracción reformada DOF 10-01-2014
+
+XI. Autorizar los prospectos de información al público inversionista emitidos por los fondos de inversión y sus modificaciones;
+Fracción reformada DOF 10-01-2014
+
+XII. Ordenar la suspensión temporal de la colocación de acciones representativas del capital de fondos de inversión ante condiciones desordenadas de mercado o, en su caso, temporal o definitiva, por la celebración de operaciones no conformes a sanos usos o prácticas de mercado o bien, cuando a su juicio, la composición de los Activos Objeto de Inversión integrantes de su patrimonio, así lo amerite;
+Fracción reformada DOF 10-01-2014
+
+XIII. Formular las observaciones u objeciones que considere convenientes a los intereses del público inversionista, acerca de la valuación de las acciones representativas del capital social de fondos de inversión;
+Fracción reformada DOF 10-01-2014
+
+XIV. Suspender el servicio de valuación respecto de algún fondo de inversión, cuando a su juicio exista conflicto de interés entre este y la sociedad valuadora o el comité que proporcione tal servicio, y Fracción reformada DOF 10-01-2014
+
+XV. Ejercer las demás facultades que se le atribuyen en este ordenamiento legal y las que le son aplicables supletoriamente.
 La Comisión, como resultado de sus facultades de supervisión, podrá formular observaciones y, en su caso, ordenar la adopción de medidas tendientes a corregir los hechos, actos u omisiones irregulares que haya detectado con motivo de dichas funciones, en términos de esta Ley.
 Párrafo reformado DOF 10-01-2014 Reforma DOF 10-01-2014: Derogó del artículo el entonces último párrafo
 
 ### Artículo 80
 Bis.- La Comisión podrá establecer normas prudenciales orientadas a preservar la liquidez, solvencia y estabilidad de los fondos de inversión en materia de controles internos, prevención de conflictos de interés, prácticas societarias y de auditoría, administración de riesgos y transparencia, revelación de rendimientos y equidad en las operaciones y servicios, en protección del público y clientes en general, a las que deberán sujetarse los fondos de inversión, las sociedades operadoras de fondos de inversión, las sociedades distribuidoras de acciones de fondos de inversión y las sociedades valuadoras de acciones de fondos de inversión.
 Asimismo, la Comisión establecerá mediante disposiciones de carácter general, las metodologías que deberán utilizar las sociedades operadoras de fondos de inversión, las sociedades distribuidoras de acciones de fondos de inversión y las sociedades valuadoras de acciones de fondos de inversión, en el cálculo y revelación de:
+
 I. El riesgo de mercado del fondo de inversión de que se trate;
-II. El desempeño histórico de cada clase y serie accionaria, y III. El nivel de endeudamiento derivado de las características operativas de los activos objeto de inversión que conformen las carteras de los fondos de inversión.
+
+II. El desempeño histórico de cada clase y serie accionaria, y
+
+III. El nivel de endeudamiento derivado de las características operativas de los activos objeto de inversión que conformen las carteras de los fondos de inversión.
 La propia Comisión podrá establecer mediante disposiciones de carácter general los criterios aplicables a la identificación, cálculo y revelación de los riesgos de crédito y de liquidez de los fondos de inversión, tomando en consideración el tipo y clasificación correspondientes. De igual forma, en dichas disposiciones la Comisión podrá exceptuar a los fondos de inversión, de la obligación de contratar el servicio de calificación previsto en la fracción IV del artículo 32 de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 80
 Bis 1.- La Comisión contará con facultades de inspección y vigilancia, respecto de las personas morales que presten servicios de auditoría externa en términos de esta Ley, incluyendo los socios o empleados de aquellas que formen parte del equipo de auditoría, pudiendo al efecto y a fin de verificar el cumplimiento de esta Ley y la observancia de las disposiciones de carácter general que de ella emanen:
+
 I. Requerir toda clase de información y documentación;
+
 II. Practicar visitas de inspección;
-III. Requerir la comparecencia de socios, representantes y demás empleados de las personas morales que presten servicios de auditoría externa, y IV. Reconocer normas y procedimientos de auditoría que deberán observar las personas morales que presten servicios de auditoría externa al dictaminar o emitir opiniones relativas a los estados financieros de las entidades financieras, pudiendo distinguir por tipo de entidad. Asimismo, la Comisión podrá expedir normas y procedimientos de auditoría en el evento de que en relación con alguna materia no existan normas o procedimientos aplicables, o bien, cuando a juicio de la propia Comisión las normas reconocidas en términos de este párrafo sean insuficientes.
+
+III. Requerir la comparecencia de socios, representantes y demás empleados de las personas morales que presten servicios de auditoría externa, y
+
+IV. Reconocer normas y procedimientos de auditoría que deberán observar las personas morales que presten servicios de auditoría externa al dictaminar o emitir opiniones relativas a los estados financieros de las entidades financieras, pudiendo distinguir por tipo de entidad. Asimismo, la Comisión podrá expedir normas y procedimientos de auditoría en el evento de que en relación con alguna materia no existan normas o procedimientos aplicables, o bien, cuando a juicio de la propia Comisión las normas reconocidas en términos de este párrafo sean insuficientes.
 El ejercicio de las facultades a que se refiere este artículo estará circunscrito a los dictámenes, opiniones y prácticas de auditoría que en términos de esta Ley practiquen las personas morales que presten servicios de auditoría externa.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 81
 .- La Comisión y el Banco de México, en el ámbito de sus respectivas competencias, contarán con facultades para investigar, en la esfera administrativa, actos o hechos que presuntamente constituyan o puedan llegar a constituir una infracción a lo previsto en esta Ley o a las disposiciones de carácter general que de ella deriven.
 Párrafo reformado DOF 24-01-2024 Para tal efecto, así como para verificar el cumplimiento de lo previsto en esta Ley y demás disposiciones de carácter general que emanen de ella, la citada Comisión estará facultada para:
+
 I. Requerir toda clase de información y documentación a cualquier persona que pueda contribuir en el desarrollo de la investigación correspondiente;
+
 II. Practicar visitas domiciliarias a cualquier persona que pueda contribuir en el desarrollo de la investigación;
-III. Requerir la comparecencia de personas que puedan contribuir o aportar elementos a la investigación, pudiendo al efecto formularles cuestionamientos, y IV. Contratar los servicios de auditores y de otros profesionistas que le auxilien en dicha función.
+
+III. Requerir la comparecencia de personas que puedan contribuir o aportar elementos a la investigación, pudiendo al efecto formularles cuestionamientos, y
+
+IV. Contratar los servicios de auditores y de otros profesionistas que le auxilien en dicha función.
 En el desahogo de las comparecencias a que se refiere la fracción III de este artículo, la Comisión formulará los cuestionamientos que estime pertinentes, en cuyo caso los comparecientes deberán responder, bajo protesta de decir verdad los cuestionamientos que se les formulen.
 Adicionalmente, la supervisión que lleve a cabo el Banco de México atenderá a lo establecido en la Ley del Banco de México, así como a las reglas de carácter general emitidas al efecto por el propio Banco.
 Párrafo adicionado DOF 24-01-2024 Artículo reformado DOF 10-01-2014
@@ -1102,9 +1575,14 @@ Párrafo adicionado DOF 24-01-2024 Artículo reformado DOF 10-01-2014
 ### Artículo 81
 Bis.- La Comisión, en el ejercicio de las facultades a que se refiere esta Ley, podrá señalar la forma y términos en que las personas a las cuales les solicite información, deberán dar cumplimiento a sus requerimientos.
 Asimismo, la Comisión, para hacer cumplir sus determinaciones, podrá emplear, indistintamente, los siguientes medios de apremio:
+
 I. Amonestación con apercibimiento;
+
 II. Multa de 2,000 a 5,000 días de salario;
-III. Multa adicional de 100 días de salario por cada día que persista la infracción, y IV. El auxilio de la fuerza pública.
+
+III. Multa adicional de 100 días de salario por cada día que persista la infracción, y
+
+IV. El auxilio de la fuerza pública.
 Si fuera insuficiente el apremio, la Comisión podrá solicitar a la autoridad competente se proceda contra el rebelde por desobediencia a un mandato legítimo de autoridad competente.
 Para efectos de este artículo, las autoridades judiciales o ministeriales federales y los cuerpos de seguridad o policiales deberán prestar en forma expedita el apoyo que solicite la Comisión.
 En los casos de cuerpos de seguridad pública de las entidades federativas o de los municipios, el apoyo se solicitará en los términos de los ordenamientos que regulan la seguridad pública o, en su caso, de conformidad con los acuerdos de colaboración administrativa que se tengan celebrados con la Federación.
@@ -1120,13 +1598,20 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 81
 Bis 2.- La fusión de las sociedades mencionadas en el artículo 81 Bis 1 de esta Ley, se efectuará con sujeción a las bases siguientes:
+
 I. Las sociedades presentarán a la Comisión los proyectos de los acuerdos de las asambleas generales extraordinarias de accionistas, del convenio de fusión, de las modificaciones que correspondería realizar a los estatutos de las sociedades y, en su caso, al convenio de responsabilidades a que se refiere la Ley para Regular las Agrupaciones Financieras, el plan de fusión de las sociedades respectivas con indicación de las etapas en que deberá llevarse a cabo; los estados financieros que presenten la situación de las sociedades y que servirán de base para la asamblea que autorice la fusión y los estados financieros proyectados de la sociedad resultante de la fusión.
 Asimismo, deberán presentar la información a que se refieren las fracciones I, II, IV, V, VI y VII del artículo 34 de esta Ley;
+
 II. Los acuerdos de fusión, así como las actas de asamblea se inscribirán en el Registro Público de Comercio una vez obtenida la autorización a que se refiere el artículo anterior.
 A partir de la fecha en que se inscriban surtirá efectos la fusión. Asimismo, en caso de extinción de las sociedades fusionadas, deberá solicitarse al Registro Público de Comercio la cancelación de la inscripción de los estatutos sociales de dichas sociedades;
+
 III. Los acuerdos de la asamblea general extraordinaria de accionistas relativos a la fusión deberán contener las bases, procedimientos y mecanismos de protección que serán adoptadas a favor de su clientela o accionistas;
+
 IV. Los acuerdos de fusión adoptados por las respectivas asambleas generales extraordinarias de accionistas, se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tengan su domicilio las sociedades, una vez hecha la inscripción en el Registro Público de Comercio;
-V. Durante los noventa días naturales siguientes a la fecha de publicación a que se refiere la fracción anterior, los acreedores de cualquiera de las sociedades, incluso de las demás entidades financieras del o de los grupos financieros a los que pertenezcan las sociedades objeto de la fusión, podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda la fusión, y VI. La Comisión podrá requerir la demás documentación e información adicional relacionada para tales efectos.
+
+V. Durante los noventa días naturales siguientes a la fecha de publicación a que se refiere la fracción anterior, los acreedores de cualquiera de las sociedades, incluso de las demás entidades financieras del o de los grupos financieros a los que pertenezcan las sociedades objeto de la fusión, podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda la fusión, y
+
+VI. La Comisión podrá requerir la demás documentación e información adicional relacionada para tales efectos.
 Las autorizaciones para constituirse y operar como sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y valuadoras de acciones de fondos de inversión, que participen en un proceso de fusión en calidad de fusionadas, quedarán revocadas por ministerio de ley, una vez que la fusión surta sus efectos, sin que para ello resulte necesaria la emisión de una declaratoria por expreso por parte de la autoridad que la haya otorgado.
 La fusión de una sociedad operadora de fondos de inversión o una sociedad distribuidora de acciones de fondos de inversión, que sean integrantes de un grupo financiero en términos de la Ley para Regular las Agrupaciones Financieras, sea como fusionante o fusionada, se sujetará a lo dispuesto por este artículo y no le será aplicable lo previsto en el artículo 10 de dicha Ley.
 Artículo adicionado DOF 10-01-2014
@@ -1134,14 +1619,35 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 81
 Bis 3.- Las sociedades mencionadas en el artículo 81 Bis 1 de esta Ley podrán escindirse ya sea extinguiéndose, en cuyo caso la sociedad escindente dividirá la totalidad o parte de su activo, pasivo y capital social en dos o más partes, que serán aportadas en bloque a otras sociedades de nueva creación; o cuando la sociedad escindente, sin extinguirse, aporte en bloque parte de su activo, pasivo y capital social a otra u otras sociedades de nueva creación.
 La escisión a que se refiere el presente artículo, se efectuará con sujeción a las bases siguientes:
+
 I. La sociedad escindente presentará a la Comisión el proyecto de acta de asamblea general extraordinaria de accionistas que contengan los acuerdos relativos a su escisión y estados financieros proyectados de las sociedades que resulten de la escisión;
+
 II. Las acciones de la sociedad que se escinda deberán estar totalmente pagadas;
+
 III. Cada uno de los socios de la sociedad escindente tendrá inicialmente una proporción del capital social de las escindidas, igual a la de que sea titular en la escindente;
-IV. La resolución que apruebe la escisión deberá contener: a) La descripción de la forma, plazos y mecanismos en que los diversos conceptos de activo, pasivo y capital social serán transferidos; b) La descripción de las partes del activo, del pasivo y del capital social que correspondan a cada sociedad escindida y, en su caso, a la escindente, con detalle suficiente para permitir la identificación de estas; c) Los estados financieros de la sociedad escindente, que abarquen por lo menos las operaciones realizadas durante el último ejercicio social, debidamente dictaminados por auditor externo.
-Corresponderá a los administradores de la escindente, informar a la asamblea sobre las operaciones que se realicen hasta que la escisión surta plenos efectos legales; d) La determinación de las obligaciones que por virtud de la escisión asuma cada sociedad escindida. Si una sociedad escindida incumpliera alguna de las obligaciones asumidas por ella en virtud de la escisión, responderán solidariamente ante los acreedores que no hayan dado su consentimiento expreso, la o las demás sociedades escindidas, durante un plazo de tres años contado a partir de la última de las publicaciones a que se refiere la fracción VI de este artículo, hasta por el importe del activo neto que les haya sido atribuido en la escisión a cada una de ellas; si la escindente no hubiere dejado de existir, esta responderá por la totalidad de la obligación; e) El proyecto de reformas estatutarias de la sociedad escindente y los proyectos de estatutos de las sociedades escindidas, y f) Las bases, procedimientos y mecanismos de protección que serán adoptadas a favor de su clientela o accionistas.
+
+IV. La resolución que apruebe la escisión deberá contener:
+
+a) La descripción de la forma, plazos y mecanismos en que los diversos conceptos de activo, pasivo y capital social serán transferidos;
+
+b) La descripción de las partes del activo, del pasivo y del capital social que correspondan a cada sociedad escindida y, en su caso, a la escindente, con detalle suficiente para permitir la identificación de estas;
+
+c) Los estados financieros de la sociedad escindente, que abarquen por lo menos las operaciones realizadas durante el último ejercicio social, debidamente dictaminados por auditor externo.
+Corresponderá a los administradores de la escindente, informar a la asamblea sobre las operaciones que se realicen hasta que la escisión surta plenos efectos legales;
+
+d) La determinación de las obligaciones que por virtud de la escisión asuma cada sociedad escindida. Si una sociedad escindida incumpliera alguna de las obligaciones asumidas por ella en virtud de la escisión, responderán solidariamente ante los acreedores que no hayan dado su consentimiento expreso, la o las demás sociedades escindidas, durante un plazo de tres años contado a partir de la última de las publicaciones a que se refiere la fracción VI de este artículo, hasta por el importe del activo neto que les haya sido atribuido en la escisión a cada una de ellas; si la escindente no hubiere dejado de existir, esta responderá por la totalidad de la obligación;
+
+e) El proyecto de reformas estatutarias de la sociedad escindente y los proyectos de estatutos de las sociedades escindidas, y
+
+f) Las bases, procedimientos y mecanismos de protección que serán adoptadas a favor de su clientela o accionistas.
+
 V. Los acuerdos de la asamblea general de accionistas relativos a la escisión, las actas de asamblea, así como la escritura constitutiva de la escindida, se inscribirán en el Registro Público de Comercio una vez obtenida la autorización a que se refiere el artículo 81 Bis 1. A partir de la fecha en que se inscriban surtirá efectos la escisión. Asimismo, en caso de extinción de la sociedad escindida, deberá solicitarse al Registro Público de comercio la cancelación de la inscripción de los estatutos sociales de dicha sociedad;
+
 VI. Los acuerdos de escisión adoptados por la asamblea general extraordinaria de accionistas de la sociedad escindente se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tenga su domicilio social la escindente, una vez hecha la inscripción en el Registro Público de Comercio;
-VII. Los acreedores de la sociedad escindente podrán oponerse judicialmente a la escisión, dentro de los noventa días naturales siguientes a la fecha de publicación a que se refiere la fracción anterior, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda los efectos de esta, y VIII. La Comisión podrá requerir la demás documentación e información adicional relacionada para tales efectos.
+
+VII. Los acreedores de la sociedad escindente podrán oponerse judicialmente a la escisión, dentro de los noventa días naturales siguientes a la fecha de publicación a que se refiere la fracción anterior, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda los efectos de esta, y
+
+VIII. La Comisión podrá requerir la demás documentación e información adicional relacionada para tales efectos.
 La sociedad escindida no se entenderá autorizada para organizarse y operar como sociedad operadora de fondos de inversión, sociedad distribuidora de acciones de fondos de inversión o sociedad valuadora de acciones de fondos de inversión.
 En el evento de que la escisión produzca la extinción de las sociedades referidas en el artículo 81 Bis 1 de esta Ley, la autorización otorgada para organizarse y operar como tal quedará sin efectos, sin que resulte necesaria la emisión de una declaratoria al respecto.
 Las sociedades escindidas que se constituyan a raíz de la escisión podrán ser sociedades del mismo tipo que las escindentes o de cualquier otro tipo legal.
@@ -1152,20 +1658,41 @@ De la revocación Sección adicionada DOF 10-01-2014
 
 ### Artículo 81
 Bis 4.- La Comisión, a solicitud de la sociedad y previo acuerdo de su Junta de Gobierno, podrá revocar la autorización para operar como sociedad operadora de fondos de inversión, sociedad distribuidora de acciones de fondos de inversión o valuadora de acciones de fondos de inversión, siempre que se cumpla con lo siguiente:
+
 I. La asamblea de accionistas de la sociedad haya acordado su cambio de nacionalidad, transformación o, en su caso, su disolución y liquidación y aprobado los estados financieros en los que ya no se encuentren registradas obligaciones a cargo de la sociedad por cuenta propia, derivadas de las operaciones reservadas como intermediario;
-II. La sociedad haya presentado a la Comisión los mecanismos y procedimientos para realizar la entrega o transferencia de los valores o efectivo de sus accionistas o, en su caso, clientes, así como las fechas estimadas para su aplicación, y III. La sociedad haya presentado a la Comisión los estados financieros, aprobados por la asamblea de accionistas, acompañados del dictamen de un auditor externo, que incluya las opiniones del auditor relativas a componentes, cuentas o partidas específicas de los estados financieros, donde se confirme el estado de los registros a que se refiere la fracción I anterior.
+
+II. La sociedad haya presentado a la Comisión los mecanismos y procedimientos para realizar la entrega o transferencia de los valores o efectivo de sus accionistas o, en su caso, clientes, así como las fechas estimadas para su aplicación, y
+
+III. La sociedad haya presentado a la Comisión los estados financieros, aprobados por la asamblea de accionistas, acompañados del dictamen de un auditor externo, que incluya las opiniones del auditor relativas a componentes, cuentas o partidas específicas de los estados financieros, donde se confirme el estado de los registros a que se refiere la fracción I anterior.
 Lo dispuesto en el presente artículo también será aplicable tratándose de fondos de inversión, sin que en ese caso sea necesario el acuerdo de la Junta de Gobierno. Asimismo, los acuerdos mencionados en las fracciones I y III deberán realizarse por el consejo de administración de la sociedad operadora de fondos de inversión que les preste sus servicios.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 82
 .- La Comisión, previo derecho de audiencia, podrá revocar la autorización de los fondos de inversión en los casos siguientes:
-Párrafo reformado DOF 10-01-2014 I. Si no inicia sus operaciones dentro del plazo de noventa días a partir de la fecha en que se le notifique la autorización a que se refiere el artículo 8 de esta Ley. El plazo antes previsto podrá ser ampliado cuando a juicio de la Comisión exista motivo justificado;
-Párrafo reformado DOF 10-01-2014 Reforma DOF 10-01-2014: Derogó de esta fracción el entonces párrafo segundo II. Si opera con un capital inferior al mínimo legal y no lo reconstituye dentro del plazo que fije la citada Comisión;
+Párrafo reformado DOF 10-01-2014
+
+I. Si no inicia sus operaciones dentro del plazo de noventa días a partir de la fecha en que se le notifique la autorización a que se refiere el artículo 8 de esta Ley. El plazo antes previsto podrá ser ampliado cuando a juicio de la Comisión exista motivo justificado;
+Párrafo reformado DOF 10-01-2014 Reforma DOF 10-01-2014: Derogó de esta fracción el entonces párrafo segundo
+
+II. Si opera con un capital inferior al mínimo legal y no lo reconstituye dentro del plazo que fije la citada Comisión;
+
 III. Si se abstiene de realizar su objeto por un periodo de seis meses;
-Fracción reformada DOF 10-01-2014 IV. Se deroga Fracción derogada DOF 10-01-2014 V. Si incumple en forma reiterada con las disposiciones aplicables al registro contable;
-Fracción reformada DOF 10-01-2014 VI. Si comete infracciones graves o reiteradas a las disposiciones legales o administrativas que le son aplicables;
-Fracción reformada DOF 10-01-2014 VII. Si el fondo reiteradamente omite proporcionar la información a que está obligado de acuerdo a esta Ley o las disposiciones de carácter general derivadas de la misma;
-Fracción reformada DOF 10-01-2014 VIII. Si entra en proceso de disolución y liquidación, y Fracción adicionada DOF 10-01-2014 IX. Si es declarado en quiebra por la autoridad judicial.
+Fracción reformada DOF 10-01-2014
+
+IV. Se deroga Fracción derogada DOF 10-01-2014
+
+V. Si incumple en forma reiterada con las disposiciones aplicables al registro contable;
+Fracción reformada DOF 10-01-2014
+
+VI. Si comete infracciones graves o reiteradas a las disposiciones legales o administrativas que le son aplicables;
+Fracción reformada DOF 10-01-2014
+
+VII. Si el fondo reiteradamente omite proporcionar la información a que está obligado de acuerdo a esta Ley o las disposiciones de carácter general derivadas de la misma;
+Fracción reformada DOF 10-01-2014
+
+VIII. Si entra en proceso de disolución y liquidación, y Fracción adicionada DOF 10-01-2014
+
+IX. Si es declarado en quiebra por la autoridad judicial.
 Fracción adicionada DOF 10-01-2014
 
 ### Artículo 82
@@ -1178,27 +1705,49 @@ Artículo adicionado DOF 10-01-2014. Reformado DOF 24-01-2024
 
 ### Artículo 83
 .- La Comisión, con el acuerdo de su Junta de Gobierno y previo derecho de audiencia, podrá revocar la autorización de las sociedades a que se refiere el artículo 33 de esta Ley, cuando a su juicio:
-Párrafo reformado DOF 10-01-2014 I. Incurran en infracciones graves o reiteradas a lo dispuesto en esta Ley, la Ley del Mercado de Valores, o las disposiciones de carácter general que deriven de ambos ordenamientos;
+Párrafo reformado DOF 10-01-2014
+
+I. Incurran en infracciones graves o reiteradas a lo dispuesto en esta Ley, la Ley del Mercado de Valores, o las disposiciones de carácter general que deriven de ambos ordenamientos;
+
 II. Desempeñen las actividades propias de su objeto en forma inadecuada o bien, ofrezcan servicios distintos de los previstos en la autorización otorgada conforme a lo establecido en el
 
 ### artículo 33
 de esta Ley;
+
 III. Omitan reiteradamente proporcionar a la Comisión la información a que están obligadas de acuerdo a esta Ley o a las disposiciones de carácter general derivadas de la misma, o bien proporcionen información falsa o que induzca a error;
-Fracción reformada DOF 10-01-2014 IV. Intervengan en operaciones que no se apeguen a las sanas prácticas del mercado de valores;
+Fracción reformada DOF 10-01-2014
+
+IV. Intervengan en operaciones que no se apeguen a las sanas prácticas del mercado de valores;
+
 V. Incumplan reiteradamente lo señalado en el prospecto de información al público inversionista de los fondos de inversión a las que presten sus servicios o realicen operaciones que se alejen de los perfiles de inversión de los clientes a los que les presten los servicios de administración de carteras de valores; efectúen operaciones por cuenta de fondos de inversión distintas a las permitidas por esta Ley, o bien, incumplan con su objeto;
-Fracción reformada DOF 10-01-2014 VI. Falten por causa que les sea imputable al cumplimiento de las obligaciones contratadas;
-Fracción reformada DOF 10-01-2014 VII. No presenten el instrumento público en el que conste la escritura constitutiva de la sociedad, para su aprobación dentro de los noventa días siguientes a la fecha del otorgamiento de la autorización; inicien operaciones sin presentar dicho instrumento público para su aprobación, o no inicien sus operaciones dentro del plazo de ciento ochenta días a partir de la fecha en que se notifique la autorización a que se refiere el artículo 33 de esta Ley. Los plazos antes previstos podrán ser ampliados por una sola ocasión cuando a juicio de la Comisión exista motivo justificado;
-Fracción reformada DOF 10-01-2014 VIII. Operen con un capital inferior al mínimo legal y no lo reconstituyan dentro del plazo que fije la Comisión;
-Fracción adicionada DOF 10-01-2014 IX. Cuando por causas imputables a quienes presten a los fondos de inversión los servicios de valuación de sus acciones, no se reflejen en la contabilidad o en la valuación de estas últimas las operaciones realizadas;
-Fracción adicionada DOF 10-01-2014 X. Entren en proceso de disolución y liquidación, y Fracción adicionada DOF 10-01-2014 XI. Sean declaradas en quiebra por la autoridad judicial.
+Fracción reformada DOF 10-01-2014
+
+VI. Falten por causa que les sea imputable al cumplimiento de las obligaciones contratadas;
+Fracción reformada DOF 10-01-2014
+
+VII. No presenten el instrumento público en el que conste la escritura constitutiva de la sociedad, para su aprobación dentro de los noventa días siguientes a la fecha del otorgamiento de la autorización; inicien operaciones sin presentar dicho instrumento público para su aprobación, o no inicien sus operaciones dentro del plazo de ciento ochenta días a partir de la fecha en que se notifique la autorización a que se refiere el artículo 33 de esta Ley. Los plazos antes previstos podrán ser ampliados por una sola ocasión cuando a juicio de la Comisión exista motivo justificado;
+Fracción reformada DOF 10-01-2014
+
+VIII. Operen con un capital inferior al mínimo legal y no lo reconstituyan dentro del plazo que fije la Comisión;
+Fracción adicionada DOF 10-01-2014
+
+IX. Cuando por causas imputables a quienes presten a los fondos de inversión los servicios de valuación de sus acciones, no se reflejen en la contabilidad o en la valuación de estas últimas las operaciones realizadas;
+Fracción adicionada DOF 10-01-2014
+
+X. Entren en proceso de disolución y liquidación, y Fracción adicionada DOF 10-01-2014
+
+XI. Sean declaradas en quiebra por la autoridad judicial.
 Fracción adicionada DOF 10-01-2014
 
 ### Artículo 83
 Bis.- La disolución y liquidación de las sociedades a que se refiere el artículo 33 de esta Ley, se regirá por lo dispuesto en los capítulos X y XI de la Ley General de Sociedades Mercantiles, con las excepciones siguientes:
 La designación de los liquidadores corresponderá:
+
 I. A la asamblea de accionistas cuando la disolución y liquidación haya sido voluntariamente acordada por dicho órgano y sujeto al procedimiento señalado en el artículo 81 Bis 4 de esta Ley. En este supuesto, deberán hacer del conocimiento de la Comisión el nombramiento del liquidador, dentro de los cinco días hábiles siguientes a su designación.
 La Comisión podrá oponer su veto respecto del nombramiento de la persona que ejercerá el cargo de liquidador, cuando considere que no cuenta con la suficiente calidad técnica, honorabilidad e historial crediticio satisfactorio para el desempeño de sus funciones, no reúna los requisitos al efecto establecidos o haya cometido infracciones graves o reiteradas a la presente Ley o a las disposiciones de carácter general que de ella deriven.
-La Comisión promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de publicada la revocación no hubiere sido designado por la sociedad correspondiente, y II. A la Comisión, cuando la disolución y liquidación de la sociedad, sea consecuencia de la revocación de su autorización de conformidad con lo previsto en el artículo 83 de esta Ley.
+La Comisión promoverá ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de publicada la revocación no hubiere sido designado por la sociedad correspondiente, y
+
+II. A la Comisión, cuando la disolución y liquidación de la sociedad, sea consecuencia de la revocación de su autorización de conformidad con lo previsto en el artículo 83 de esta Ley.
 En el evento de que por causa justificada el liquidador designado por la Comisión renuncie a su cargo, esta deberá designar a la persona que lo sustituya dentro de los quince días naturales siguientes al en que surta efectos la renuncia.
 En los casos a que se refiere esta fracción, la responsabilidad de la Comisión se limitará a la designación del liquidador, por lo que los actos y resultados de la actuación del liquidador serán de la responsabilidad exclusiva de este último.
 Artículo adicionado DOF 10-01-2014
@@ -1206,7 +1755,10 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 83
 Bis 1.- El nombramiento de liquidador de las sociedades a que se refiere el artículo 33 de esta Ley, deberá recaer en instituciones de crédito, casas de bolsa, en el Servicio de Administración y Enajenación de Bienes, o bien, en personas físicas o morales que cuenten con experiencia en liquidación de entidades financieras.
 Cuando el nombramiento del liquidador recaiga en personas físicas, deberá observarse que tales personas cumplan con los requisitos señalados en las fracciones II, III, V y VI del artículo 14 Bis 11 de esta Ley, así como los siguientes:
-I. No tener litigio pendiente en contra de la sociedad de que se trate, y II. No haber desempeñado el cargo de auditor externo de la sociedad de que se trate o de alguna de las empresas que integran el Grupo Empresarial o Consorcio al que esta última pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento.
+
+I. No tener litigio pendiente en contra de la sociedad de que se trate, y
+
+II. No haber desempeñado el cargo de auditor externo de la sociedad de que se trate o de alguna de las empresas que integran el Grupo Empresarial o Consorcio al que esta última pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento.
 Tratándose de personas morales en general, las personas físicas designadas para desempeñar las actividades vinculadas a esta función, deberán cumplir con los requisitos a que se hace referencia en los dos párrafos anteriores.
 El Servicio de Administración y Enajenación de Bienes podrá ejercer el encargo de liquidador con su personal o a través de apoderados que para tal efecto designe. El apoderamiento podrá ser hecho a favor de instituciones de crédito, de casas de bolsa o de personas físicas que cumplan con los requisitos señalados en esta fracción.
 Las instituciones o personas que tengan un interés opuesto al de la sociedad, deberán abstenerse de aceptar el cargo de liquidador manifestando tal circunstancia.
@@ -1214,21 +1766,31 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 83
 Bis 2.- En el desempeño de su función, el liquidador deberá:
+
 I. Elaborar un dictamen respecto de la situación integral de la sociedad de que se trate. En el evento de que de su dictamen se desprenda que la sociedad se ubica en causales de concurso mercantil, deberá solicitar al juez la declaración del concurso mercantil conforme a lo previsto en la Ley de Concursos Mercantiles, informando de ello a la Comisión;
+
 II. Presentar a la Comisión para su aprobación, los procedimientos para realizar la entrega o transferencia de los valores o efectivo de sus clientes derivados de operaciones de la sociedad por cuenta de terceros, así como las fechas estimadas para su aplicación. Lo anterior, no resultará aplicable tratándose de sociedades valuadoras de acciones de fondos de inversión;
+
 III. Sin perjuicio de lo dispuesto en la fracción II anterior, instrumentar y adoptar un plan de trabajo calendarizado que contenga los procedimientos y medidas necesarias para que las obligaciones a cargo de la sociedad derivadas de las operaciones reservadas a las sociedades a que se refiere el artículo 33 de esta Ley, sean finiquitadas o transferidas a otros intermediarios a más tardar dentro del año siguiente a la fecha en que haya protestado y aceptado su nombramiento;
+
 IV. Cobrar lo que se deba a la sociedad y pagar lo que esta deba.
 Para efectos de lo anterior, en primer término el liquidador deberá separar y realizar la entrega o transferencia de los valores o efectivo de sus clientes derivados de operaciones de las sociedades por cuenta de terceros, conforme a lo señalado en el inciso II de este artículo.
 En caso de que los valores o efectivo de los clientes de la sociedad, derivados de operaciones por cuenta de terceros no sean suficientes para el cumplimiento de sus obligaciones, en protección de los intereses de los clientes de tales sociedades, el liquidador deberá destinar los activos de que disponga la sociedad por cuenta propia preferentemente al pago de las operaciones que conforme a derecho haya realizado con sus clientes, en cumplimiento de su objeto, incluyendo el pago de operaciones realizadas por la sociedad por cuenta de terceros. Lo anterior, siempre y cuando los referidos valores, efectivo o activos, no estén afectos en garantía de otros compromisos o no se vulneren los derechos de terceros acreedores.
 En caso de que los referidos activos no sean suficientes para cubrir los pasivos de la sociedad, el liquidador deberá solicitar el concurso mercantil;
+
 V. Convocar a la asamblea general de accionistas, a la conclusión de su gestión, para presentarle un informe completo del proceso de liquidación. Dicho informe deberá contener el balance final de la liquidación.
 En el evento de que la liquidación no concluya dentro de los doce meses inmediatos siguientes, contados a partir de la fecha en que el liquidador haya aceptado y protestado su cargo, el liquidador deberá convocar a la asamblea de accionistas con el objeto de presentar un informe respecto del estado en que se encuentre la liquidación señalando las causas por las que no ha sido posible su conclusión. Dicho informe deberá contener el estado financiero de la sociedad y deberá estar en todo momento a disposición de los accionistas. Sin perjuicio de lo previsto en el siguiente párrafo, el liquidador deberá convocar a la asamblea de accionistas en los términos antes descritos, por cada año que dure la liquidación, para presentar el informe citado.
 Cuando habiendo el liquidador convocado a la asamblea, esta no se reúna con el quórum necesario, deberá publicar en dos diarios de los de mayor circulación en territorio nacional, un aviso dirigido a los accionistas indicando que los informes se encuentran a su disposición, señalando el lugar y hora en los que podrán ser consultados;
+
 VI. Promover ante la autoridad judicial la aprobación del balance final de liquidación, en los casos en que no sea posible obtener la aprobación de los accionistas a dicho balance en términos de la Ley General de Sociedades Mercantiles, porque dicha asamblea, no obstante haber sido convocada, no se reúna con el quórum necesario, o bien, dicho balance sea objetado por la asamblea de manera infundada a juicio del liquidador. Lo anterior es sin perjuicio de las acciones legales que correspondan a los accionistas en términos de las leyes;
+
 VII. Hacer del conocimiento del juez competente que existe imposibilidad física y material de llevar a cabo la liquidación legal de la sociedad para que este ordene la cancelación de su inscripción en el Registro Público de Comercio, que surtirá sus efectos transcurridos ciento ochenta días naturales a partir del mandamiento judicial.
 El liquidador deberá publicar en dos diarios de mayor circulación en el territorio nacional, un aviso dirigido a los accionistas y acreedores sobre la solicitud al juez competente.
 Los interesados podrán oponerse a esta cancelación dentro de un plazo de sesenta días naturales siguientes al aviso, ante la propia autoridad judicial;
-VIII. Ejercer las acciones legales a que haya lugar para determinar las responsabilidades económicas que, en su caso, existan y deslindar las responsabilidades que en términos de ley y demás disposiciones resulten aplicables, y IX. Abstenerse de comprar para sí o para otro, los bienes propiedad de la sociedad en liquidación, sin consentimiento expreso de la asamblea.
+
+VIII. Ejercer las acciones legales a que haya lugar para determinar las responsabilidades económicas que, en su caso, existan y deslindar las responsabilidades que en términos de ley y demás disposiciones resulten aplicables, y
+
+IX. Abstenerse de comprar para sí o para otro, los bienes propiedad de la sociedad en liquidación, sin consentimiento expreso de la asamblea.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 83
@@ -1237,10 +1799,16 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 83
 Bis 4.- El concurso mercantil de las sociedades a que se refiere el artículo 33 de esta Ley, se regirá por lo dispuesto en la Ley de Concursos Mercantiles, con las excepciones siguientes:
+
 I. La Comisión deberá solicitar la declaración del concurso mercantil de una sociedad a que se refiere el artículo 33 de esta Ley, cuando existan elementos que puedan actualizar los supuestos para la declaración del concurso mercantil;
+
 II. Declarado el concurso mercantil, la Comisión, en defensa de los intereses de los acreedores, podrá solicitar que el procedimiento se inicie en la etapa de quiebra, o bien la terminación anticipada de la etapa de conciliación, en cuyo caso el juez declarará la quiebra;
+
 III. El cargo de conciliador o síndico corresponderá a la persona que para tal efecto designe la Comisión en un plazo máximo de diez días hábiles. Dicho nombramiento podrá recaer en instituciones de crédito, casas de bolsa, en el Servicio de Administración y Enajenación de Bienes o en personas morales o físicas que cumplan con los requisitos previstos en el artículo 83 Bis 1 de esta Ley;
-IV. Declarado el concurso mercantil, quien tenga a su cargo la administración de la sociedad deberá presentar para aprobación del juez los procedimientos para realizar la entrega o transferencia de los valores o efectivo de sus clientes, derivados de operaciones de la sociedad por cuenta de terceros, así como las fechas para su aplicación. El juez, previo a su aprobación, oirá la opinión de la Comisión, y V. La Comisión ejercerá las funciones de supervisión únicamente respecto del cumplimiento de los procedimientos citados en la fracción anterior.
+
+IV. Declarado el concurso mercantil, quien tenga a su cargo la administración de la sociedad deberá presentar para aprobación del juez los procedimientos para realizar la entrega o transferencia de los valores o efectivo de sus clientes, derivados de operaciones de la sociedad por cuenta de terceros, así como las fechas para su aplicación. El juez, previo a su aprobación, oirá la opinión de la Comisión, y
+
+V. La Comisión ejercerá las funciones de supervisión únicamente respecto del cumplimiento de los procedimientos citados en la fracción anterior.
 Si la Comisión detectara algún incumplimiento deberá hacerlo del conocimiento del juez.
 Artículo adicionado DOF 10-01-2014
 
@@ -1256,11 +1824,38 @@ De los procedimientos administrativos Sección adicionada DOF 10-01-2014 Apartad
 Párrafo reformado DOF 10-01-2014 Para los efectos de las multas establecidas en el presente capítulo se entenderá por días de salario, el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
 Párrafo reformado DOF 10-01-2014 En el caso de personas morales, estas multas podrán ser impuestas tanto a dichas personas como a sus administradores, funcionarios, empleados o apoderados que sean responsables de la infracción.
 La Comisión, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetará a lo siguiente:
+
 I. Se otorgará audiencia al presunto infractor, quien, en un plazo de diez días hábiles contados a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen.
-Fracción reformada DOF 24-01-2024 II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente.
-III. Se tomará en cuenta, en su caso, lo siguiente: a) El impacto a terceros o al sistema financiero que haya producido o pueda producir; b) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente;
-La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente. c) La cuantía de la operación; d) La condición económica del infractor a efecto de que la sanción no sea excesiva, y e) La naturaleza de la infracción cometida.
-IV. Tratándose de conductas calificadas por esta ley como graves, en adición a lo establecido en la fracción III anterior, podrán tomar en cuenta cualquiera de los aspectos siguientes: a) El monto del quebranto o perjuicio patrimonial causado; b) El lucro obtenido; c) La falta de honorabilidad por parte del infractor, conforme a lo dispuesto por esta Ley y las disposiciones de carácter general que de ella emanen; d) La negligencia inexcusable o dolo con que se hubiere actuado; e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, y f) Las demás circunstancias que la Comisión estime aplicables para tales efectos.
+Fracción reformada DOF 24-01-2024
+
+II. En caso de que el presunto infractor no hiciere uso del derecho de audiencia dentro del plazo concedido o bien, habiéndolo ejercido no lograre desvanecer las imputaciones vertidas en su contra, se tendrán por acreditadas las infracciones imputadas y se procederá a la imposición de la sanción administrativa correspondiente.
+
+III. Se tomará en cuenta, en su caso, lo siguiente:
+
+a) El impacto a terceros o al sistema financiero que haya producido o pueda producir;
+
+b) La reincidencia, las causas que la originaron y, en su caso, las acciones correctivas aplicadas por el presunto infractor. Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y, en adición a aquella, cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente;
+La reincidencia se podrá sancionar con multa cuyo importe sea equivalente hasta el doble de la prevista originalmente.
+
+c) La cuantía de la operación;
+
+d) La condición económica del infractor a efecto de que la sanción no sea excesiva, y
+
+e) La naturaleza de la infracción cometida.
+
+IV. Tratándose de conductas calificadas por esta ley como graves, en adición a lo establecido en la fracción III anterior, podrán tomar en cuenta cualquiera de los aspectos siguientes:
+
+a) El monto del quebranto o perjuicio patrimonial causado;
+
+b) El lucro obtenido;
+
+c) La falta de honorabilidad por parte del infractor, conforme a lo dispuesto por esta Ley y las disposiciones de carácter general que de ella emanen;
+
+d) La negligencia inexcusable o dolo con que se hubiere actuado;
+
+e) Que la conducta infractora a que se refiere el proceso administrativo pueda ser constitutiva de un delito, y
+
+f) Las demás circunstancias que la Comisión estime aplicables para tales efectos.
 Párrafo con fracciones adicionado DOF 10-01-2014 Las multas que la citada Comisión imponga deberán ser pagadas dentro de los quince días hábiles siguientes al de su notificación. Cuando las multas no se paguen en la fecha establecida, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los mismos términos que establece el Código Fiscal de la Federación para estos casos.
 En caso de que el infractor pague las multas impuestas por la mencionada Comisión dentro de los quince días referidos en el párrafo anterior, se aplicará una reducción en un veinte por ciento de su monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
 Párrafo adicionado DOF 10-01-2014 Los incumplimientos a las normas de la presente Ley y a las disposiciones que emanen de ella, cuya observancia le corresponda supervisar al Banco de México, serán sancionados por este, de conformidad con lo establecido en el artículo 36 Bis de la Ley del Banco de México, para lo cual se deberá observar lo dispuesto en el artículo 27 de ese mismo ordenamiento.
@@ -1276,8 +1871,10 @@ Párrafo adicionado DOF 24-01-2024 La Comisión podrá allegarse de los medios d
 Párrafo reformado DOF 14-11-2025 La facultad de la Comisión para imponer sanciones de carácter administrativo previstas en esta Ley, así como de las disposiciones que emanen de ella, caducará en un plazo de cinco años, contado a partir del día hábil siguiente a aquel en que se realizó la conducta o se actualizó el supuesto de infracción.
 El plazo de caducidad antes señalado se interrumpirá al iniciarse los procedimientos relativos. Se entenderá que el procedimiento de que se trata ha iniciado, a partir de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia al probable infractor a que hace referencia la fracción I del artículo 84 de esta Ley.
 El plazo de cinco años previsto por este artículo se suspenderá:
+
 I. Hasta por dos años, cuando la Entidad Financiera: no se ubique en el domicilio registrado ante la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
 El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
+
 II. Cuando la Entidad Financiera haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
 Párrafo con fracciones adicionado DOF 24-01-2024 Artículo adicionado DOF 10-01-2014
 
@@ -1294,25 +1891,72 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 86
 .- Las infracciones a que se refiere este artículo se sancionarán como sigue:
+
 I. Multa de 2,000 a 20,000 días de salario, a la persona que infrinja lo dispuesto en el primer párrafo del artículo 5 Bis de esta Ley, y la negociación respectiva podrá ser clausurada administrativamente por esa Comisión hasta que su nombre sea cambiado;
-Fracción reformada DOF 10-01-2014 II. Se deroga Fracción derogada DOF 10-01-2014 III. Multa de 10,000 a 50,000 días de salario, al que resulte responsable por causas que le sean imputables, cuando se exceda el límite de tenencia accionaria permitido de conformidad con el
+Fracción reformada DOF 10-01-2014
+
+II. Se deroga Fracción derogada DOF 10-01-2014
+
+III. Multa de 10,000 a 50,000 días de salario, al que resulte responsable por causas que le sean imputables, cuando se exceda el límite de tenencia accionaria permitido de conformidad con el
 
 ### artículo 14
 de esta Ley, conforme a la valuación que de esas mismas acciones se haya practicado en la fecha de su adquisición, así como multa por la cantidad equivalente al precio actualizado de valuación de las acciones, cuando se adquieran en contravención de lo dispuesto en el artículo 52 de este ordenamiento. Sin perjuicio de la multa establecida en esta fracción, las acciones indebidamente adquiridas deberán liquidarse en el plazo de treinta días a partir de su adquisición, vencido el cual, si no se ha efectuado la venta, la Comisión ordenará la disminución del capital necesaria para amortizar dichas acciones al precio de valuación vigente en la fecha de pago y el procedimiento para su pago;
-Fracción reformada DOF 10-01-2014 IV. Multa de 5,000 a 20,000 días de salario, a la sociedad operadora de fondos de inversión o valuadora de acciones de fondos de inversión, que infrinja lo establecido en el artículo 46 de esta Ley, sin perjuicio de la responsabilidad exigible en los términos del artículo 53 del presente ordenamiento;
-Fracción reformada DOF 10-01-2014 V. Multa de 10,000 a 100,000 días de salario, a las sociedades operadoras de fondos de inversión y a las personas que presten servicios de distribución de acciones de fondos de inversión, que incumplan lo señalado en los prospectos de información al público inversionista;
-Fracción reformada DOF 10-01-2014 VI. Multa de 10,000 a 50,000 días de salario, a las sociedades a que se refiere el artículo 33 de esta Ley, cuyo desempeño tenga por resultado que el fondo de inversión al que presten sus servicios incurra en el supuesto establecido por la fracción VII del artículo 82 de la presente Ley;
-Fracción reformada DOF 10-01-2014 VII. Multa de 15,000 a 50,000 días de salario, a las sociedades operadoras de fondos de inversión, los auditores de estas, respecto de las propias operadoras o de los fondos de inversión que administren, y las personas que presten servicios contables y administrativos a los fondos de inversión, que falseen, oculten, omitan o disimulen los registros contables y estados financieros de dichos fondos, independientemente de las responsabilidades civiles o penales en que incurran;
-Fracción reformada DOF 10-01-2014 VIII. Multa de 5,000 a 20,000 días de salario, a las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y entidades que presten el servicio de distribución de acciones de fondos de inversión, que infrinjan lo dispuesto en la fracción VII del artículo 80 de esta Ley y las disposiciones de carácter general que emanen de este;
-Fracción reformada DOF 10-01-2014, 28-12-2023 IX. Multa de 20,000 a 100,000 días de salario, a las sociedades referidas en el artículo 33 de esta Ley, que omitan proporcionar en tiempo y forma la información a que están obligadas de acuerdo a la presente Ley o las disposiciones administrativas aplicables derivadas de la misma, o esta sea falsa;
-Fracción reformada DOF 10-01-2014 X. Multa de 25,000 a 100,000 días de salario, a las personas que realicen actos de los reservados por este ordenamiento legal a los fondos de inversión, operadoras de fondos de inversión o distribuidoras de acciones de fondos de inversión, sin que para ello se cuente con la autorización correspondiente en los términos de la presente Ley;
-Fracción reformada DOF 10-01-2014 XI. Multa de 20,000 a 100,000 días de salario, a las personas que desempeñen funciones directivas, empleos, cargos o comisiones en un fondo de inversión o sociedad operadora de fondos de inversión, que dispongan de los activos integrantes del patrimonio del fondo de inversión a la que pertenezcan, aplicándolos a fines distintos a los que se prevean en el prospecto de información al público inversionista;
-Fracción reformada DOF 10-01-2014 XII. Multa de 10,000 a 100,000 días de salario, a los miembros del consejo de administración, directivos, funcionarios, empleados, apoderados para celebrar operaciones con el público, comisarios o auditores externos de una sociedad operadora de fondos de inversión o sociedad distribuidora que omitan registrar en los términos del artículo 76 de esta Ley y las disposiciones de carácter general que de este emanen, las operaciones efectuadas, incluyendo, según resulte aplicable, las operaciones realizadas por el fondo de inversión en términos de tal artículo, o bien, alteren dichos registros;
-Fracción reformada DOF 10-01-2014 XIII. Multa de 30,000 a 150,000 días de salario, a: a) Las personas que realicen alguna de las actividades previstas en los artículos 88 y 33 de esta Ley, sin contar con la autorización correspondiente; b) Las sociedades operadoras de fondos de inversión que no cumplan con cualquiera de las obligaciones establecidas en el artículo 39, fracción I, incisos a) a d) de la presente Ley; c) Las entidades financieras que no cuenten con los registros electrónicos o por escrito que se señalan en el artículo 39 Bis 1, segundo párrafo de esta Ley, en los términos ahí señalados; d) Las entidades financieras que promuevan o comercialicen valores de manera generalizada, distintos de los señalados por la Comisión mediante disposiciones de carácter general a que alude el artículo 39 Bis 1, último párrafo de esta Ley; e) Las entidades financieras que emitan recomendaciones o efectúen operaciones no razonables en servicios asesorados en contravención a lo establecido en el artículo 39 Bis 2, segundo párrafo, en sus fracciones I a III de esta Ley; f) Las entidades financieras que celebren operaciones en contravención con lo previsto por el
+Fracción reformada DOF 10-01-2014
+
+IV. Multa de 5,000 a 20,000 días de salario, a la sociedad operadora de fondos de inversión o valuadora de acciones de fondos de inversión, que infrinja lo establecido en el artículo 46 de esta Ley, sin perjuicio de la responsabilidad exigible en los términos del artículo 53 del presente ordenamiento;
+Fracción reformada DOF 10-01-2014
+
+V. Multa de 10,000 a 100,000 días de salario, a las sociedades operadoras de fondos de inversión y a las personas que presten servicios de distribución de acciones de fondos de inversión, que incumplan lo señalado en los prospectos de información al público inversionista;
+Fracción reformada DOF 10-01-2014
+
+VI. Multa de 10,000 a 50,000 días de salario, a las sociedades a que se refiere el artículo 33 de esta Ley, cuyo desempeño tenga por resultado que el fondo de inversión al que presten sus servicios incurra en el supuesto establecido por la fracción VII del artículo 82 de la presente Ley;
+Fracción reformada DOF 10-01-2014
+
+VII. Multa de 15,000 a 50,000 días de salario, a las sociedades operadoras de fondos de inversión, los auditores de estas, respecto de las propias operadoras o de los fondos de inversión que administren, y las personas que presten servicios contables y administrativos a los fondos de inversión, que falseen, oculten, omitan o disimulen los registros contables y estados financieros de dichos fondos, independientemente de las responsabilidades civiles o penales en que incurran;
+Fracción reformada DOF 10-01-2014
+
+VIII. Multa de 5,000 a 20,000 días de salario, a las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión y entidades que presten el servicio de distribución de acciones de fondos de inversión, que infrinjan lo dispuesto en la fracción VII del artículo 80 de esta Ley y las disposiciones de carácter general que emanen de este;
+Fracción reformada DOF 10-01-2014, 28-12-2023
+
+IX. Multa de 20,000 a 100,000 días de salario, a las sociedades referidas en el artículo 33 de esta Ley, que omitan proporcionar en tiempo y forma la información a que están obligadas de acuerdo a la presente Ley o las disposiciones administrativas aplicables derivadas de la misma, o esta sea falsa;
+Fracción reformada DOF 10-01-2014
+
+X. Multa de 25,000 a 100,000 días de salario, a las personas que realicen actos de los reservados por este ordenamiento legal a los fondos de inversión, operadoras de fondos de inversión o distribuidoras de acciones de fondos de inversión, sin que para ello se cuente con la autorización correspondiente en los términos de la presente Ley;
+Fracción reformada DOF 10-01-2014
+
+XI. Multa de 20,000 a 100,000 días de salario, a las personas que desempeñen funciones directivas, empleos, cargos o comisiones en un fondo de inversión o sociedad operadora de fondos de inversión, que dispongan de los activos integrantes del patrimonio del fondo de inversión a la que pertenezcan, aplicándolos a fines distintos a los que se prevean en el prospecto de información al público inversionista;
+Fracción reformada DOF 10-01-2014
+
+XII. Multa de 10,000 a 100,000 días de salario, a los miembros del consejo de administración, directivos, funcionarios, empleados, apoderados para celebrar operaciones con el público, comisarios o auditores externos de una sociedad operadora de fondos de inversión o sociedad distribuidora que omitan registrar en los términos del artículo 76 de esta Ley y las disposiciones de carácter general que de este emanen, las operaciones efectuadas, incluyendo, según resulte aplicable, las operaciones realizadas por el fondo de inversión en términos de tal artículo, o bien, alteren dichos registros;
+Fracción reformada DOF 10-01-2014
+
+XIII. Multa de 30,000 a 150,000 días de salario, a:
+
+a) Las personas que realicen alguna de las actividades previstas en los artículos 88 y 33 de esta Ley, sin contar con la autorización correspondiente;
+
+b) Las sociedades operadoras de fondos de inversión que no cumplan con cualquiera de las obligaciones establecidas en el artículo 39, fracción I, incisos a) a d) de la presente Ley;
+
+c) Las entidades financieras que no cuenten con los registros electrónicos o por escrito que se señalan en el artículo 39 Bis 1, segundo párrafo de esta Ley, en los términos ahí señalados;
+
+d) Las entidades financieras que promuevan o comercialicen valores de manera generalizada, distintos de los señalados por la Comisión mediante disposiciones de carácter general a que alude el artículo 39 Bis 1, último párrafo de esta Ley;
+
+e) Las entidades financieras que emitan recomendaciones o efectúen operaciones no razonables en servicios asesorados en contravención a lo establecido en el artículo 39 Bis 2, segundo párrafo, en sus fracciones I a III de esta Ley;
+
+f) Las entidades financieras que celebren operaciones en contravención con lo previsto por el
 
 ### artículo 39
-Bis 2, tercer párrafo; g) Las entidades financieras que proporcionen servicios asesorados sin contar con las políticas y lineamientos a que aluden los artículos 39 Bis 2, fracción III y 39 Bis 3 de esta Ley, o que no cuenten con los elementos mínimos que establezca la Comisión mediante disposiciones de carácter general; h) Las entidades financieras que omitan proporcionar a sus clientes información sobre los productos financieros que ofrezcan, las actividades y servicios que les proporcionen, incluyendo las comisiones cobradas, en contravención a lo establecido en el artículo 39 Bis 4 de esta Ley y disposiciones de carácter general que de él emanen; i) Las entidades financieras que omitan grabar o documentar, o bien, conservar dentro del plazo legal establecido, la documentación e información a que se refiere el artículo 39 Bis 5 de esta Ley, y j) Las sociedades distribuidoras de acciones de fondos de inversión que omitan proporcionar a sus clientes información sobre los rendimientos de las carteras de inversión, o bien cualquier otra que determine la Comisión mediante disposiciones de carácter general, en contravención a lo establecido en el artículo 61-Bis, fracciones VI y VII de esta Ley y disposiciones de carácter general que de él emanen.
-Fracción adicionada DOF 10-01-2014 XIV. Multa de 5,000 a 100,000 días de salario, a los infractores de cualquiera otra disposición de esta Ley o de las disposiciones de carácter general que de ella deriven, que no tengan sanción especialmente señalada en este ordenamiento.
+Bis 2, tercer párrafo;
+
+g) Las entidades financieras que proporcionen servicios asesorados sin contar con las políticas y lineamientos a que aluden los artículos 39 Bis 2, fracción III y 39 Bis 3 de esta Ley, o que no cuenten con los elementos mínimos que establezca la Comisión mediante disposiciones de carácter general;
+
+h) Las entidades financieras que omitan proporcionar a sus clientes información sobre los productos financieros que ofrezcan, las actividades y servicios que les proporcionen, incluyendo las comisiones cobradas, en contravención a lo establecido en el artículo 39 Bis 4 de esta Ley y disposiciones de carácter general que de él emanen;
+
+i) Las entidades financieras que omitan grabar o documentar, o bien, conservar dentro del plazo legal establecido, la documentación e información a que se refiere el artículo 39 Bis 5 de esta Ley, y
+
+j) Las sociedades distribuidoras de acciones de fondos de inversión que omitan proporcionar a sus clientes información sobre los rendimientos de las carteras de inversión, o bien cualquier otra que determine la Comisión mediante disposiciones de carácter general, en contravención a lo establecido en el artículo 61-Bis, fracciones VI y VII de esta Ley y disposiciones de carácter general que de él emanen.
+Fracción adicionada DOF 10-01-2014
+
+XIV. Multa de 5,000 a 100,000 días de salario, a los infractores de cualquiera otra disposición de esta Ley o de las disposiciones de carácter general que de ella deriven, que no tengan sanción especialmente señalada en este ordenamiento.
 Fracción reformada y recorrida DOF 10-01-2014 En caso de que alguna de las infracciones contenidas en los artículos 85 y 86 de esta Ley genere un daño patrimonial o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero.
 Párrafo adicionado DOF 10-01-2014
 
@@ -1327,8 +1971,12 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 86
 Bis 2.- Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, la Comisión ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del conocimiento del público en general, a través de su portal de Internet las sanciones que al efecto imponga por infracciones a esta Ley o a las disposiciones que emanen de ella, para lo cual deberán señalar:
+
 I. El nombre, denominación o razón social del infractor;
-II. El precepto legal infringido, el tipo de sanción impuesta, monto o plazo, según corresponda, la conducta infractora, y III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
+
+II. El precepto legal infringido, el tipo de sanción impuesta, monto o plazo, según corresponda, la conducta infractora, y
+
+III. El estado que guarda la resolución, indicando si se encuentra firme o bien, si es susceptible de ser impugnada y en este último caso si se ha interpuesto algún medio de defensa y su tipo, cuando se tenga conocimiento de tal circunstancia por haber sido debidamente notificada por autoridad competente.
 En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad competente, deberá igualmente publicarse tal circunstancia.
 La información antes señalada no será considerada como reservada o confidencial.
 Artículo adicionado DOF 10-01-2014 Apartado C De los programas de autocorrección Apartado adicionado DOF 10-01-2014
@@ -1336,9 +1984,13 @@ Artículo adicionado DOF 10-01-2014 Apartado C De los programas de autocorrecci�
 ### Artículo 86
 Bis 3.- Los fondos de inversión o las personas que otorguen los servicios a que se refieren las fracciones I a VI del artículo 32 de esta Ley, por conducto de su director general o equivalente y, con la opinión de la persona o área que ejerza las funciones de vigilancia de la propia sociedad, podrán someter a la autorización de la Comisión un programa de autocorrección cuando la sociedad de que se trate, en la realización de sus actividades, o la persona o área que ejerza las funciones de vigilancia como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
 No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
 I. Las irregularidades o incumplimientos que sean detectados por la Comisión en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación por parte del fondo de inversión o las personas que otorguen los servicios a que se refieren las fracciones I a VI del artículo 32 de esta Ley, del programa de autocorrección respectivo.
 Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado a la entidad la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
-II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
+
+II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 86
@@ -1369,11 +2021,18 @@ Artículo adicionado DOF 10-01-2014 Apartado D Del recurso de revisión Apartado
 .- Los afectados con motivo de los actos emitidos por la Comisión que pongan fin a los procedimientos de autorización, registro, suspensión, cancelación e imposición de sanciones administrativas, podrán acudir en defensa de sus intereses interponiendo recurso de revisión, cuya interposición será optativa.
 El recurso de revisión deberá interponerse por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y deberá presentarse ante la Junta de Gobierno de la Comisión, cuando el acto haya sido emitido por dicha Junta o por el presidente de esa misma Comisión, o ante este último cuando se trate de actos realizados por otros servidores públicos.
 El escrito mediante el cual se interponga el recurso de revisión deberá contener:
+
 I. El nombre, denominación o razón social del recurrente;
+
 II. Domicilio para oír y recibir toda clase de citas y notificaciones;
+
 III. Los documentos con los que se acredita la personalidad de quien promueve;
+
 IV. El acto que se recurre y la fecha de su notificación;
-V. Los agravios que se le causen con motivo del acto señalado en la fracción IV anterior, y VI. Las pruebas que se ofrezcan, las cuales deberán tener relación inmediata y directa con el acto impugnado.
+
+V. Los agravios que se le causen con motivo del acto señalado en la fracción IV anterior, y
+
+VI. Las pruebas que se ofrezcan, las cuales deberán tener relación inmediata y directa con el acto impugnado.
 Cuando el recurrente no cumpla con alguno de los requisitos a que se refieren las fracciones I a VI de este artículo, la Comisión lo prevendrá, por escrito y por única ocasión, para que subsane la omisión prevenida dentro de los tres días hábiles siguientes al en que surta efectos la notificación de dicha prevención y, en caso que la omisión no sea subsanada en el plazo indicado en este párrafo, dicha Comisión lo tendrá por no interpuesto. Si se omitieran las pruebas se tendrán por no ofrecidas.
 La interposición del recurso de revisión suspenderá los efectos del acto impugnado cuando se trate de multas.
 Adicionalmente, contra las sanciones impuestas por el Banco de México por infracciones a las disposiciones incluidas en la presente Ley procederá el recurso de reconsideración, en los mismos términos y condiciones previstos en los artículos 64, 65 y 66 de la Ley del Banco de México.
@@ -1381,10 +2040,24 @@ Párrafo adicionado DOF 24-01-2024 Artículo reformado DOF 10-01-2014
 
 ### Artículo 87
 Bis.- El órgano encargado de resolver el recurso de revisión podrá:
+
 I. Desecharlo por improcedente;
-II. Sobreseerlo en los casos siguientes: a) Por desistimiento expreso del recurrente; b) Por sobrevenir una causal de improcedencia; c) Por haber cesado los efectos del acto impugnado, y d) Las demás que conforme a la ley procedan;
+
+II. Sobreseerlo en los casos siguientes:
+
+a) Por desistimiento expreso del recurrente;
+
+b) Por sobrevenir una causal de improcedencia;
+
+c) Por haber cesado los efectos del acto impugnado, y
+
+d) Las demás que conforme a la ley procedan;
+
 III. Confirmar el acto impugnado;
-IV. Revocar total o parcialmente el acto impugnado, y V. Modificar o mandar reponer el acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya.
+
+IV. Revocar total o parcialmente el acto impugnado, y
+
+V. Modificar o mandar reponer el acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya.
 No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
 El órgano encargado de resolver el recurso de revisión deberá atenderlo sin la intervención del servidor público de la Comisión que haya dictaminado la sanción administrativa que haya dado origen a la imposición del recurso correspondiente.
 La resolución de los recursos de revisión deberá ser emitida en un plazo que no exceda a los noventa días hábiles posteriores a la fecha en que se interpuso el recurso, cuando deba ser resuelto por el presidente de la Comisión, ni a los ciento veinte días hábiles cuando se trate de recursos que sean competencia de la Junta de Gobierno.
@@ -1397,9 +2070,20 @@ Artículo adicionado DOF 10-01-2014 Apartado E De las Notificaciones Apartado ad
 
 ### Artículo 87
 Bis 2.- Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de registro, suspensión, cancelación o revocación de autorizaciones a que se refiere la presente Ley, así como los actos que nieguen las autorizaciones a que se refiere esta Ley y las resoluciones administrativas que le recaigan a los recursos de revisión y a las solicitudes de condonación interpuestos conforme a las leyes aplicables, se podrán realizar de las siguientes maneras:
-I. Personalmente, conforme a lo siguiente: a) En las oficinas de la Comisión, de acuerdo a lo previsto en el artículo 87 Bis 5 de esta Ley; b) En el domicilio del interesado o de su representante, en términos de lo previsto en los artículos 87 Bis 6 y 87 Bis 9 de esta Ley, y c) En cualquier lugar en el que se encuentre el interesado o su representante, en los supuestos establecidos en el artículo 87 Bis 7 de esta Ley;
+
+I. Personalmente, conforme a lo siguiente:
+
+a) En las oficinas de la Comisión, de acuerdo a lo previsto en el artículo 87 Bis 5 de esta Ley;
+
+b) En el domicilio del interesado o de su representante, en términos de lo previsto en los artículos 87 Bis 6 y 87 Bis 9 de esta Ley, y
+
+c) En cualquier lugar en el que se encuentre el interesado o su representante, en los supuestos establecidos en el artículo 87 Bis 7 de esta Ley;
+
 II. Mediante oficio entregado por mensajero o por correo certificado, ambos con acuse de recibo;
-III. Por edictos, en los supuestos señalados en el artículo 87 Bis 10 de esta Ley, y IV. Por medio electrónico, en el supuesto previsto en el artículo 87 Bis 11 de esta Ley.
+
+III. Por edictos, en los supuestos señalados en el artículo 87 Bis 10 de esta Ley, y
+
+IV. Por medio electrónico, en el supuesto previsto en el artículo 87 Bis 11 de esta Ley.
 Respecto a la información y documentación que deba exhibirse a los inspectores de la Comisión al amparo de una visita de inspección se deberá observar lo previsto en el reglamento expedido por el Ejecutivo Federal, en materia de supervisión, al amparo de lo establecido en el artículo 5, primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores.
 Artículo adicionado DOF 10-01-2014
 
@@ -1465,9 +2149,14 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 87
 Bis 14.- Las notificaciones a que se refiere este Apartado surtirán sus efectos al día hábil siguiente al que:
+
 I. Se hubieren efectuado personalmente;
+
 II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los artículos 87 Bis 3 y 87 Bis 11 anteriores;
-III. Se hubiere efectuado la última publicación a que se refiere el artículo 87 Bis 10 de esta Ley, y IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
+
+III. Se hubiere efectuado la última publicación a que se refiere el artículo 87 Bis 10 de esta Ley, y
+
+IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
 Artículo adicionado DOF 10-01-2014 Apartado F De los delitos Apartado adicionado DOF 10-01-2014
 
 ### Artículo 88
@@ -1481,7 +2170,11 @@ Artículo reformado DOF 10-01-2014, 28-12-2023
 
 ### Artículo 90
 .- Serán sancionados con prisión de dos a diez años los miembros del consejo de administración, directivos, funcionarios, empleados, apoderados para celebrar operaciones con el público, comisarios o auditores externos de un fondo de inversión, sociedad operadora de fondos de inversión o asesor en inversiones que cuente con la autorización que refiere el artículo 225 Bis de la Ley del Mercado de Valores, que intencionalmente:
-Párrafo reformado DOF 10-01-2014, 28-12-2023 I. Omitan registrar en los términos del artículo 76 de esta Ley, las operaciones efectuadas por el fondo de inversión de que se trate, o que mediante maniobras alteren o permitan que se alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas de orden o resultados, y Fracción reformada DOF 10-01-2014 II. Inscriban u ordenen que se inscriban datos falsos en la contabilidad o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionarse a la Comisión.
+Párrafo reformado DOF 10-01-2014, 28-12-2023
+
+I. Omitan registrar en los términos del artículo 76 de esta Ley, las operaciones efectuadas por el fondo de inversión de que se trate, o que mediante maniobras alteren o permitan que se alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas de orden o resultados, y Fracción reformada DOF 10-01-2014
+
+II. Inscriban u ordenen que se inscriban datos falsos en la contabilidad o que proporcionen o permitan que se incluyan datos falsos en los documentos o informes que deban proporcionarse a la Comisión.
 
 ### Artículo 90
 Bis.- Las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que, para el desempeño de las actividades y operaciones que correspondan a las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, sociedades valuadoras de acciones de fondos de inversión y asesores en inversiones que cuenten con la serán consideradas como funcionarios o empleados de dichas sociedades, para efectos de las responsabilidades administrativas y penales establecidas en el presente Apartado.
@@ -1489,7 +2182,11 @@ Artículo adicionado DOF 10-01-2014. Reformado DOF 28-12-2023
 
 ### Artículo 91
 .- Las sociedades operadoras de fondos de inversión y distribuidoras de acciones de fondos de inversión en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la Comisión, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:
-Párrafo reformado DOF 10-01-2014 I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y Fracción reformada DOF 28-06-2007 II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión, reportes sobre: a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y b. Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administrador, directivo, funcionario, empleado o apoderado.
+Párrafo reformado DOF 10-01-2014
+
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y Fracción reformada DOF 28-06-2007
+
+II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión, reportes sobre: a. Los actos, operaciones y servicios que realicen con sus clientes y usuarios, relativos a la fracción anterior, y b. Todo acto, operación o servicio, que pudiese ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas en la misma, que realice o en el que intervenga algún miembro del consejo de administración, administrador, directivo, funcionario, empleado o apoderado.
 Los reportes a que se refiere la fracción II de este artículo, de conformidad con las disposiciones de carácter general previstas en el mismo, se elaborarán y presentarán tomando en consideración, cuando menos, las modalidades que al efecto estén referidas en dichas disposiciones; las características que deban reunir los actos, operaciones y servicios a que se refiere este artículo para ser reportados, teniendo en cuenta sus montos, frecuencia y naturaleza, los instrumentos monetarios y financieros con que se realicen, y las prácticas comerciales y bursátiles que se observen en las plazas donde se efectúen; así como la periodicidad y los sistemas a través de los cuales habrá de transmitirse la información. Los reportes deberán referirse cuando menos a operaciones que se definan como relevantes, internas preocupantes e inusuales.
 Párrafo reformado DOF 10-01-2014 Asimismo, la Secretaría de Hacienda y Crédito Público en las citadas disposiciones de carácter general emitirá los lineamientos sobre el procedimiento y criterios que las sociedades operadoras de fondos de inversión y distribuidoras de acciones de fondos de inversión, deberán observar respecto de:
 Párrafo reformado DOF 10-01-2014 a. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen; b. La información y documentación que dichas sociedades y distribuidoras deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes; c. La forma en que las mismas instituciones y sociedades y distribuidoras deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y d. Los términos para proporcionar capacitación al interior de las sociedades y distribuidoras sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento. e. El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las propias disposiciones de carácter general a que se refiere este artículo.
@@ -1544,9 +2241,14 @@ Artículo reformado DOF 10-01-2014
 Lo dispuesto en los artículos 94 a 97 entrará en vigor el 1 de enero del año 2002.
 **SEGUNDO.** A la entrada en vigor de este Decreto se abroga la Ley de Sociedades de Inversión publicada en el Diario Oficial de la Federación el 14 de enero de 1985, y se derogan los incisos m) y n) del artículo 7 de la Ley de Inversión Extranjera.
 **TERCERO.** Las sociedades de inversión que tengan dividido su capital fijo en dos o más clases de acciones, contarán con un plazo de seis meses contados a partir de la fecha de publicación del presente Decreto, para convertir dichas acciones en una sola serie accionaria, sin que para ello requieran del acuerdo de asamblea de accionistas, así como para realizar el canje respectivo conforme a lo siguiente:
+
 I. El canje se formalizará a petición que realice la sociedad de inversión, a la institución para el depósito de valores en que se mantengan depositadas las acciones objeto del canje;
+
 II. Las acciones que resulten del canje, deberán representar la misma participación del capital pagado que las acciones canjeadas;
-III. No se considerará que existe enajenación de acciones, para efectos de la Ley del Impuesto Sobre la Renta, siempre y cuando el canje a que se refiere este artículo no implique cambio del titular de las acciones, y IV. Para efectos de la fracción anterior, el costo promedio de las acciones que resulten del canje, será el que corresponda a las acciones canjeadas.
+
+III. No se considerará que existe enajenación de acciones, para efectos de la Ley del Impuesto Sobre la Renta, siempre y cuando el canje a que se refiere este artículo no implique cambio del titular de las acciones, y
+
+IV. Para efectos de la fracción anterior, el costo promedio de las acciones que resulten del canje, será el que corresponda a las acciones canjeadas.
 **CUARTO.** Las sociedades de inversión, sociedades operadoras de sociedades de inversión y sociedades valuadoras previamente autorizadas, deberán cumplir con lo establecido en este Decreto, una vez iniciada su vigencia.
 Las sociedades de inversión que a la entrada en vigor de este Decreto, efectúen modificaciones a sus prospectos de información al público inversionista, a fin de ajustarse a lo previsto en el artículo 9 de la Ley de Sociedades de Inversión que se expide mediante el presente Decreto, podrán dar a conocer dichas modificaciones, por conducto de su sociedad operadora o de las personas que les presten servicios de distribución de acciones y a través de medios de comunicación masiva, sin necesidad de cumplir con alguna otra formalidad.
 **QUINTO.** En tanto la Comisión Nacional Bancaria y de Valores dicta las disposiciones de carácter general a que se refiere la Ley de Sociedades de Inversión que se expide mediante el presente Decreto, seguirán aplicándose las expedidas con anterioridad a la entrada en vigor de este Decreto.
@@ -1595,23 +2297,33 @@ Disposiciones Transitorias
 ### ARTÍCULO TRIGÉSIMO
 OCTAVO.- En relación con las modificaciones a que se refieren los Artículos
 **Trigésimo.** Sexto y Trigésimo Séptimo de este Decreto, se estará a lo siguiente:
+
 I. Las sociedades de inversión autorizadas en términos de las disposiciones legales vigentes antes de la entrada en vigor del presente Decreto, contarán con un plazo de dieciocho meses a partir de la entrada en vigor del propio Decreto para solicitar a la Comisión Nacional Bancaria y de Valores la autorización de la reforma a sus estatutos sociales que contenga las cláusulas previstas en este Decreto aplicables a los fondos de inversión, por cuanto a las funciones de administración, conducción de los negocios y vigilancia de los fondos de inversión, así como derechos de los accionistas. En la solicitud, dichas sociedades de inversión deberán adjuntar la información de su socio fundador indicando los datos relativos a su autorización para constituirse como sociedad operadora de fondos de inversión.
 Hasta en tanto las sociedades de inversión obtengan la autorización para su transformación en fondos de inversión, les resultarán aplicables las disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto. La Comisión Nacional Bancaria y de Valores contará con un plazo de dieciocho meses para resolver sobre la transformación de las sociedades de inversión en fondos de inversión conforme a este Decreto; dicho plazo computará a partir de que las sociedades anónimas respectivas presenten la solicitud correspondiente.
 La autorización otorgada por la Comisión Nacional Bancaria y de Valores se entenderá hecha para la transformación de las sociedades de inversión en fondos de inversión, y en el oficio correspondiente, la propia Comisión deberá notificar al Registro Público del Comercio los datos de aquellas que hayan sido transformadas en fondos de inversión, indicando que estos últimos no requerirán de inscripción ante dicho Registro, en virtud de lo previsto por el primer y segundo párrafos del artículo 8 Bis que se adiciona mediante este Decreto. Igualmente, deberá notificar a las instituciones para el depósito de valores autorizadas conforme a las disposiciones aplicables, que las acciones de los fondos de inversión autorizados no requerirán ser depositadas en una institución para el depósito de valores, en atención a las reformas contenidas en el presente Decreto.
 Cuando la Comisión Nacional Bancaria y de Valores otorgue su autorización para la transformación en fondos de inversión, en términos del presente artículo transitorio a aquellas sociedades de inversión que gocen de autorización para operar como tales, esta última autorización quedará sin efectos por ministerio de Ley sin que resulte necesaria la emisión de una declaratoria expresa al respecto por la propia Comisión.
 Las sociedades anónimas deberán entregar a la sociedad operadora de sociedades de inversión que le proporcione los servicios de administración de activos, a más tardar al día siguiente al de la obtención de su autorización para transformarse en fondos de inversión, los libros de la sociedad primeramente referida.
+
 II. Los fondos de inversión que hayan obtenido la autorización de su transformación en términos de la fracción I anterior, tendrán un plazo de seis meses contado a partir de la notificación de tal autorización, para dar aviso a la Comisión Nacional Bancaria y de Valores de las modificaciones efectuadas a sus prospectos de información al público inversionista y documentos con información clave para la inversión, que contengan los ajustes que deban efectuarse a dichos documentos en términos del artículo 9, fracciones I y X a XIV que se reforma mediante este Decreto. Cualquier otra modificación a su prospecto de información al público inversionista requerirá de la previa autorización de la Comisión.
 La Comisión Nacional Bancaria y de Valores podrá realizar comentarios u observaciones a la referida documentación a fin de que se ajuste a lo previsto por el presente Decreto.
+
 III. Las autorizaciones que hayan sido otorgadas para organizarse y funcionar como sociedades de inversión conforme a las disposiciones legales vigentes antes de la entrada en vigor de este Decreto, quedarán, sin efectos por ministerio de Ley una vez concluidos los plazos a que se refiere la fracción I anterior, en el evento de que las sociedades de inversión no obtengan la autorización para su transformación en fondos de inversión o bien, no la hayan solicitado.
 Las sociedades que no obtengan la autorización para su transformación en fondos de inversión o bien no hayan presentado la solicitud correspondiente en el plazo indicado, entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
 La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.
+
 IV. Los accionistas de las sociedades de inversión que, en virtud de la transformación de las sociedades, no deseen permanecer en la misma, tendrán el derecho a que la propia sociedad les adquiera la totalidad de sus acciones a precio de mercado y sin la aplicación de diferencial alguno, para lo cual contarán con un plazo máximo de treinta días hábiles contado a partir de la fecha en que se les haya notificado la transformación. Lo dispuesto en este artículo, será aplicable inclusive tratándose de aquellas sociedades de inversión cerradas.
+
 V. A los fondos de inversión que se hayan transformado, les será aplicable el concepto de reincidencia a que alude el artículo 84, fracción III, inciso b) contenido en este Decreto, cuando hubieren cometido violaciones a la Ley de Sociedades de Inversión durante el periodo que abarca el concepto de reincidencia.
+
 VI. Las sociedades operadoras de sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión y sociedades valuadoras de acciones de sociedades de inversión tendrán un plazo de un año, contado a partir de la entrada en vigor del presente Decreto para cumplir con lo previsto en el mismo.
+
 VII. Las personas físicas que a la entrada en vigor de este Decreto cuenten con la autorización para operar en bolsa, para celebrar operaciones con el público de asesoría, promoción, compra y venta de valores o de acciones de sociedades de inversión, se entenderán por acreditadas, según corresponda, para actuar en términos de los artículos 35 de la Ley de Sociedades de Inversión que se reforma mediante el presente Decreto, hasta en tanto dicha autorización siga vigente.
+
 VIII. En tanto la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y de Valores y el Banco de México emitan las disposiciones de carácter general a que se refiere el presente Decreto, seguirán aplicándose las emitidas con anterioridad a su entrada en vigor en lo que no se opongan a lo previsto en la misma.
+
 IX. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
 En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
 X. Las referencias que en otras Leyes, reglamentos o disposiciones se hagan respecto de la Ley de Sociedades de Inversión; las sociedades de inversión; las sociedades operadoras de sociedades de inversión; las sociedades distribuidoras de acciones de sociedades de inversión y las sociedades valuadoras de acciones de sociedades de inversión, se entenderán efectuadas a la Ley de Fondos de Inversión, los fondos de inversión; las sociedades operadoras de fondos de inversión; las sociedades distribuidoras de acciones de fondos de inversión, y las sociedades valuadoras de acciones de fondos de inversión, respectivamente. ……….
 
 ## TRANSITORIO

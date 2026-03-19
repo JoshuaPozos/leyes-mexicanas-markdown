@@ -14,9 +14,13 @@ Que en uso de la facultad que fue conferida al Ejecutivo Federal, por el H. Cong
 I.- El Tribunal Superior Militar;
 Fracción reformada DOF 16-07-2025 II.- (Se deroga).
 Fracción derogada DOF 16-05-2016 II Bis.- Los Tribunales Militares de Juicio Oral;
-Fracción adicionada DOF 16-05-2016 III. (Se deroga).
+Fracción adicionada DOF 16-05-2016
+
+III. (Se deroga).
 Fracción derogada DOF 16-05-2016 III Bis.- Los Juzgados Militares de Control;
-Fracción adicionada DOF 16-05-2016. Reformada DOF 16-07-2025 IV. (Se deroga).
+Fracción adicionada DOF 16-05-2016. Reformada DOF 16-07-2025
+
+IV. (Se deroga).
 Fracción derogada DOF 16-05-2016 V.- Los Juzgados Militares de Ejecución de Sentencia.
 Fracción reformada DOF 16-07-2025 Artículo reformado DOF 13-06-2014
 
@@ -73,8 +77,24 @@ Artículo adicionado DOF 16-05-2016
 
 ### Artículo 9o
 . Ter.- Para ser Juez del Tribunal Militar de Juicio Oral, será indispensable reunir los requisitos siguientes:
-I.- Para los jueces del Servicio de Justicia Militar o Naval: a) Ostentar la jerarquía de General Brigadier o Coronel o su equivalente en la Armada de México; b) Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval; c) Ser abogado con título oficial expedido por autoridad, legalmente facultada para ello, y d) Ser de notoria moralidad.
-II.- Tratándose del Juez Militar de Arma del Ejército, Fuerza Aérea o su equivalente en la Armada de México: a) Ostentar la jerarquía de General Brigadier o Coronel o su equivalente en la Armada de México; b) Contar con siete años de experiencia en el ejercicio del mando en Unidades de la Fuerza Armada a que pertenezca; c) Ser de notoria moralidad, y d) Aprobar el curso de capacitación en la función jurisdiccional que disponga la Secretaría de la Defensa Nacional.
+I.- Para los jueces del Servicio de Justicia Militar o Naval:
+
+a) Ostentar la jerarquía de General Brigadier o Coronel o su equivalente en la Armada de México;
+
+b) Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval;
+
+c) Ser abogado con título oficial expedido por autoridad, legalmente facultada para ello, y
+
+d) Ser de notoria moralidad.
+II.- Tratándose del Juez Militar de Arma del Ejército, Fuerza Aérea o su equivalente en la Armada de México:
+
+a) Ostentar la jerarquía de General Brigadier o Coronel o su equivalente en la Armada de México;
+
+b) Contar con siete años de experiencia en el ejercicio del mando en Unidades de la Fuerza Armada a que pertenezca;
+
+c) Ser de notoria moralidad, y
+
+d) Aprobar el curso de capacitación en la función jurisdiccional que disponga la Secretaría de la Defensa Nacional.
 Artículo adicionado DOF 16-05-2016 CAPITULO III De los consejos de guerra ordinarios (Se deroga) Capítulo derogado DOF 16-05-2016
 
 ### Artículo 10
@@ -167,10 +187,16 @@ Artículo adicionado DOF 13-06-2014. Derogado DOF 16-05-2016 CAPITULO V BIS De l
 
 ### Artículo 30
 Ter.- Habrá el número de Juzgados Militares de Control que sean necesarios para la administración de la Justicia, con la Jurisdicción que determine la Secretaría de la Defensa Nacional y se integrarán con:
+
 I. Un Juez;
+
 II. Los secretarios que las necesidades del servicio requieran;
+
 III. Un Administrador de la Sala de Audiencias;
-IV. Un responsable del audio y video de la Sala de Audiencias, y V. El personal administrativo de apoyo que sea necesario.
+
+IV. Un responsable del audio y video de la Sala de Audiencias, y
+
+V. El personal administrativo de apoyo que sea necesario.
 Artículo adicionado DOF 16-05-2016
 
 ### Artículo 30
@@ -182,23 +208,35 @@ Artículo adicionado DOF 16-05-2016
 
 ### Artículo 30
 Quintus.- Para ser Secretario se requiere:
+
 I. Ostentar la jerarquía de Mayor o Capitán del servicio de Justicia Militar o sus equivalentes en la Armada de México.
+
 II. Contar con cinco años de experiencia profesional en el Servicio de Justicia Militar o Naval.
+
 III. Reunir además los requisitos previstos en las fracciones III y V del artículo 4 de este Código.
 Artículo adicionado DOF 16-05-2016 CAPITULO V TER De los Juzgados Militares de Ejecución de Sentencias Capítulo adicionado DOF 16-05-2016
 
 ### Artículo 30
 Sextus.- Habrá un Juzgado Militar de Ejecución de Sentencias, cuando menos, en cada una de las plazas en que se encuentre establecida una prisión militar, debiendo la Secretaría acordar la creación de los demás que sean necesarios para la administración de la justicia, a propuesta del Tribunal, con la jurisdicción que éste determine y se integrarán con:
+
 I. Un Juez Militar de Ejecución de Sentencias;
+
 II. Los secretarios que las necesidades del servicio requieran;
+
 III. Un encargado de la Sala de Audiencias;
-IV. Un responsable del audio y video de la Sala de Audiencias, y V. El personal subalterno que las necesidades del servicio requieran.
+
+IV. Un responsable del audio y video de la Sala de Audiencias, y
+
+V. El personal subalterno que las necesidades del servicio requieran.
 Artículo adicionado DOF 16-05-2016
 
 ### Artículo 30
 Séptimus.- Para ser titular de un Juzgado Militar de Ejecución de Sentencias, será indispensable reunir los requisitos siguientes:
 Párrafo reformado DOF 16-07-2025 I.- Ostentar la jerarquía de Coronel o Teniente Coronel del servicio de Justicia Militar o sus equivalentes en la Armada.
-Fracción reformada DOF 16-07-2025 II. Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval.
+Fracción reformada DOF 16-07-2025
+
+II. Contar con siete años de experiencia profesional en el Servicio de Justicia Militar o Naval.
+
 III. Reunir además los requisitos previstos en las fracciones III y V del artículo 4 de este Código.
 Artículo adicionado DOF 16-05-2016 TITULO SEGUNDO De los auxiliares de la administración de justicia militar CAPITULO I De los jueces penales del orden común (Se deroga) Capítulo derogado DOF 16-05-2016
 
@@ -233,13 +271,22 @@ Artículo adicionado DOF 16-05-2016
 
 ### Artículo 35
 Quáter.- Son deberes de los Peritos Militares:
+
 I. Practicar en tiempo y forma los peritajes conforme a la metodología que exija su profesión, ciencia, arte, técnica u oficio, en los asuntos que se le encomienden;
+
 II. Llevar el registro de cadena de custodia y presentar todos los instrumentos, objetos y productos del delito que sean recabados, en el cumplimiento de sus funciones;
+
 III. Informar cuando el objeto o cantidad de la sustancia, sea pequeña o escasa que al practicarse el peritaje se consumiría por completo, para que se proceda en términos del Código Militar de Procedimientos Penales;
+
 IV. Excusarse cuando tenga un impedimento legal para actuar como perito en un procedimiento específico;
+
 V. Someterse a los procesos de evaluación al desempeño de conformidad con las disposiciones legalmente aplicables;
+
 VI. Obtener y mantener actualizada su certificación como perito de conformidad con las disposiciones aplicables;
-VII. Acudir en forma oportuna a la audiencia de vinculación a proceso o de juicio cuando sea citado para ello, salvo que tenga impedimento debidamente justificado, y VIII. Las demás que señalen las disposiciones legales y reglamentarias aplicables.
+
+VII. Acudir en forma oportuna a la audiencia de vinculación a proceso o de juicio cuando sea citado para ello, salvo que tenga impedimento debidamente justificado, y
+
+VIII. Las demás que señalen las disposiciones legales y reglamentarias aplicables.
 Artículo adicionado DOF 16-05-2016 TITULO TERCERO De la organización del Ministerio Público CAPITULO I Disposiciones preliminares
 
 ### Artículo 36
@@ -257,12 +304,23 @@ Artículo reformado DOF 16-05-2016 CAPITULO II Del Ministerio Público
 
 ### Artículo 39
 .- El Ministerio Público se compondrá:
+
 I. Del Fiscal General de Justicia Militar, General de Brigada del servicio de Justicia Militar, jefe de la Institución del Ministerio Público Militar; responsable de la investigación y persecución de los hechos probablemente constitutivos de delito competencia de los Tribunales Militares, en términos de lo previsto en los artículos 13 y 21 de la Constitución y demás disposiciones legales.
+
 II. De un Fiscal General Adjunto, auxiliar inmediato del Fiscal General, siendo el encargado de acordar el despacho de los asuntos de su competencia y de transmitir las órdenes y directivas al personal de la Fiscalía General, supervisando su cumplimiento.
+
 III. De un Fiscal Militar de Investigación del Delito y Control de Procesos, encargado de que se realice en forma adecuada la investigación, procesamiento y sanción de los delitos, para cumplir con el objeto del procedimiento penal.
-IV. De un Fiscal Militar Auxiliar del Fiscal General, encargado de supervisar que se ejerzan adecuadamente las facultades que tiene el Ministerio Público respecto a: a) Las formas de terminación de la investigación, excepto la aplicación de criterios de oportunidad. b) Las determinaciones que tome al concluir la investigación respecto al sobreseimiento, las soluciones alternas y el procedimiento abreviado.
+
+IV. De un Fiscal Militar Auxiliar del Fiscal General, encargado de supervisar que se ejerzan adecuadamente las facultades que tiene el Ministerio Público respecto a:
+
+a) Las formas de terminación de la investigación, excepto la aplicación de criterios de oportunidad.
+
+b) Las determinaciones que tome al concluir la investigación respecto al sobreseimiento, las soluciones alternas y el procedimiento abreviado.
+
 V. De un Fiscal Militar de Asuntos Constitucionales y Legales, encargado de supervisar que el personal de la Fiscalía General, en cumplimiento de sus atribuciones y facultades, atiendan los asuntos relacionados con los requerimientos judiciales y ministeriales, derechos humanos, atención a víctimas del delito y juicios de amparo, relacionados con las funciones de la Fiscalía General.
+
 VI. De un Fiscal Militar de Responsabilidades y Visitaduría, encargado de supervisar el desempeño en los aspectos técnicos y administrativos del personal de la Fiscalía General; así como garantizar que la actuación de dichos funcionarios, se realice bajo los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, realizando las investigaciones cuando se presenten quejas en su contra, instrumentando el procedimiento respectivo, dictando la resolución con la cual se dará cuenta al Fiscal General.
+
 VII. De los Agentes del Ministerio Público Militar necesarios para el cumplimiento de sus funciones.
 Fe de erratas al artículo DOF 27-09-1933. Artículo reformado DOF 26-06-1942, 09-04-2012, 16-05-2016
 
@@ -288,7 +346,9 @@ Artículo reformado DOF 09-04-2012, 16-05-2016
 
 ### Artículo 45
 .- Las faltas temporales del personal que forma parte de la Institución del Ministerio Público Militar, se suplirán:
+
 I. Las del Fiscal General de Justicia Militar, por los Fiscales en el orden que señala el artículo 39 de éste Código.
+
 II. Las de los Fiscales Militares Adjunto y Especiales y las de los agentes del Ministerio Público Militar, por designación del Fiscal General.
 Artículo reformado DOF 16-05-2016 CAPITULO III Del Laboratorio Científico de Investigaciones (Se deroga) Capítulo derogado DOF 16-05-2016
 
@@ -299,7 +359,9 @@ Artículo derogado DOF 16-05-2016 CAPITULO IV Policía Ministerial Militar Denom
 ### Artículo 47
 .- En el ejercicio de la investigación de los delitos que sean competencia de la jurisdicción militar, la Policía Ministerial Militar y en su caso, las Policías Militar, Naval y la Guardia Nacional, actuarán bajo la conducción y mando del Ministerio Público Militar.
 Párrafo reformado DOF 22-07-1994, 13-06-2014, 16-07-2025 La Policía Ministerial Militar, se compondrá:
-Párrafo adicionado DOF 16-07-2025 I. (Se deroga).
+Párrafo adicionado DOF 16-07-2025
+
+I. (Se deroga).
 Fracción derogada DOF 22-07-1994 II.- De un cuerpo permanente, y Fracción reformada DOF 16-07-2025 III.- Del personal militar que, en virtud de su cargo o comisión, desempeñen accidentalmente las funciones de Policía Ministerial Militar.
 Fracción reformada DOF 13-06-2014, 16-07-2025
 
@@ -316,24 +378,56 @@ Artículo reformado DOF 29-09-1937, 13-06-2014, 16-07-2025
 
 ### Artículo 49
 Bis.- La Policía Ministerial Militar permanente, actuará bajo la conducción y el mando del Ministerio Público en la investigación de los delitos, tendrá las facultades y obligaciones siguientes:
+
 I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito, incluso anónimas e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas para que este coordine la investigación;
 Fracción reformada DOF 16-05-2016 II.- Recopilar y confirmar la información que reciba sobre los hechos denunciados y hacerla constar en un registro destinado a tales fines, en el que se asentarán el día, la hora, el medio por el cual se obtuvo y los datos de los policías que intervinieron;
-III. Prestar el auxilio que requieran los ofendidos y las víctimas de los delitos de la competencia de la Jurisdicción Militar, y proteger a los testigos del delito. Para tal efecto, deberá: a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables. b) Informar a la víctima u ofendido de los delitos de la competencia de la Jurisdicción Militar, sobre los derechos que en su favor se establecen. c) Procurar que reciban atención médica y psicológica cuando sea necesaria. d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica;
-Fracción reformada DOF 16-05-2016 IV. Realizar detenciones en los supuestos que autoriza la Constitución Federal poniendo de inmediato a las personas detenidas a disposición del Agente del Ministerio Público competente;
-Fracción reformada DOF 16-05-2016 V. Elaborar un inventario de los objetos, instrumentos y productos del delito, así como de las evidencias, valores y substancias relacionadas con el mismo que se pretendan asegurar, firmado por el imputado o la persona con quien se atienda el acto de investigación, iniciando el procedimiento de la cadena de custodia conforme a los protocolos que para el efecto se emitan, poniéndolos a disposición del Agente del Ministerio Público Militar;
+
+III. Prestar el auxilio que requieran los ofendidos y las víctimas de los delitos de la competencia de la Jurisdicción Militar, y proteger a los testigos del delito. Para tal efecto, deberá:
+
+a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables.
+
+b) Informar a la víctima u ofendido de los delitos de la competencia de la Jurisdicción Militar, sobre los derechos que en su favor se establecen.
+
+c) Procurar que reciban atención médica y psicológica cuando sea necesaria.
+
+d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica;
+Fracción reformada DOF 16-05-2016
+
+IV. Realizar detenciones en los supuestos que autoriza la Constitución Federal poniendo de inmediato a las personas detenidas a disposición del Agente del Ministerio Público competente;
+Fracción reformada DOF 16-05-2016
+
+V. Elaborar un inventario de los objetos, instrumentos y productos del delito, así como de las evidencias, valores y substancias relacionadas con el mismo que se pretendan asegurar, firmado por el imputado o la persona con quien se atienda el acto de investigación, iniciando el procedimiento de la cadena de custodia conforme a los protocolos que para el efecto se emitan, poniéndolos a disposición del Agente del Ministerio Público Militar;
 Fracción reformada DOF 16-05-2016 VI.- Reunir toda la información urgente, que pueda ser útil al Agente del Ministerio Público;
+
 VII. Cuidar que los rastros e instrumentos del delito sean conservados, preservando el lugar de los hechos. Para este efecto, impedirá el acceso a toda persona ajena a las diligencias de recopilación de información y procederá a su clausura, si se trata de local cerrado, o a su aislamiento, si se trata de lugar abierto. Evitará bajo su estricta responsabilidad que se alteren o borren de cualquier forma los vestigios del hecho o se remuevan los instrumentos usados para llevarlo a cabo, hasta que intervengan la Policía Ministerial Militar especializada en la escena del delito o los peritos. Quedará constancia por escrito en la cadena de custodia de los datos de identificación de los elementos que intervinieron en la protección del mismo, conforme a los protocolos que se emitan al respecto;
 Fracción reformada DOF 16-05-2016 VIII.- Entrevistar a los testigos presumiblemente útiles para descubrir la verdad. Las entrevistas se harán constar en un registro de las diligencias policiales efectuadas;
 IX.- Practicar las diligencias orientadas a conocer los hechos y en su caso la individualización física de los autores y partícipes del hecho;
+
 X. Recabar los datos personales que sirvan para la identificación del imputado;
-Fracción reformada DOF 16-05-2016 XI. Proporcionar seguridad a víctimas, ofendidos o testigos del delito, cuando lo considere necesario el Juez o el Ministerio Público;
-Fracción reformada DOF 16-05-2016 XII. Requerir a las autoridades competentes y solicitar a las personas físicas o colectivas, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;
-Fracción adicionada DOF 16-05-2016 XIII. Previa autorización de la Autoridad Judicial Federal y bajo la supervisión del Ministerio Público materializar la intervención de comunicaciones privadas exclusivamente respecto del personal militar;
-Fracción adicionada DOF 16-05-2016 XIV. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
-Fracción adicionada DOF 16-05-2016 XV. Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables.
+Fracción reformada DOF 16-05-2016
+
+XI. Proporcionar seguridad a víctimas, ofendidos o testigos del delito, cuando lo considere necesario el Juez o el Ministerio Público;
+Fracción reformada DOF 16-05-2016
+
+XII. Requerir a las autoridades competentes y solicitar a las personas físicas o colectivas, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;
+Fracción adicionada DOF 16-05-2016
+
+XIII. Previa autorización de la Autoridad Judicial Federal y bajo la supervisión del Ministerio Público materializar la intervención de comunicaciones privadas exclusivamente respecto del personal militar;
+Fracción adicionada DOF 16-05-2016
+
+XIV. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
+Fracción adicionada DOF 16-05-2016
+
+XV. Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables.
 Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales;
-Fracción adicionada DOF 16-05-2016 XVI. Cumplir los mandatos del Fiscal General y de los Agentes del Ministerio Público, para apoyar a las autoridades civiles en la investigación de delitos;
-Fracción adicionada DOF 16-05-2016 XVII. Realizar acciones de entrega vigilada y las operaciones encubiertas con autorización del Fiscal General de Justicia Militar o el funcionario en quien delegue la función, y Fracción adicionada DOF 16-05-2016 XVIII. Someterse a los procesos de evaluación de su desempeño, de conformidad con las disposiciones legalmente aplicables.
+Fracción adicionada DOF 16-05-2016
+
+XVI. Cumplir los mandatos del Fiscal General y de los Agentes del Ministerio Público, para apoyar a las autoridades civiles en la investigación de delitos;
+Fracción adicionada DOF 16-05-2016
+
+XVII. Realizar acciones de entrega vigilada y las operaciones encubiertas con autorización del Fiscal General de Justicia Militar o el funcionario en quien delegue la función, y Fracción adicionada DOF 16-05-2016
+
+XVIII. Someterse a los procesos de evaluación de su desempeño, de conformidad con las disposiciones legalmente aplicables.
 Fracción adicionada DOF 16-05-2016 La Policía Ministerial Militar, por ningún motivo podrá realizar de propia autoridad, investigación sobre personas, manipulación y práctica de peritajes sobre los objetos asegurados.
 Cuando para el cumplimiento de estas facultades se requiera una orden judicial, la policía informará al Ministerio Público para que éste la solicite.
 Artículo adicionado DOF 13-06-2014 TITULO CUARTO De la organización de la Defensoría de Oficio Militar Denominación del Título reformada DOF 16-05-2016 CAPITULO I Disposiciones preliminares
@@ -350,8 +444,11 @@ Artículo reformado DOF 16-05-2016, 16-07-2025 CAPITULO II De la Defensoría de 
 
 ### Artículo 52
 .- La Defensoría de Oficio Militar se compondrá:
+
 I. De un Defensor General, con jerarquía de General de Brigada del servicio de Justicia Militar o su equivalente en la Armada de México, Jefe de la Defensoría de Oficio Militar.
+
 II. De un Defensor General Adjunto, Coronel o Teniente Coronel del servicio de Justicia Militar o su equivalente en la Armada de México.
+
 III. De los defensores que deban intervenir en los procedimientos penales iniciados en contra de militares en los fueros militar, común o federal.
 Artículo reformado DOF 22-07-1994, 16-05-2016
 
@@ -424,11 +521,18 @@ Artículo derogado DOF 16-05-2016 CAPITULO II Tribunal Superior Militar y secret
 
 ### Artículo 67
 . Corresponde al pleno del Tribunal Superior Militar conocer:
-Párrafo reformado DOF 16-05-2016 I. De las competencias de jurisdicción que se susciten entre los órganos Jurisdiccionales Militares.
-Fracción reformada DOF 16-05-2016 II. De las excusas que sus miembros presenten para conocer de determinados negocios, las de los jueces y las recusaciones que se promuevan en contra de magistrados y jueces.
+Párrafo reformado DOF 16-05-2016
+
+I. De las competencias de jurisdicción que se susciten entre los órganos Jurisdiccionales Militares.
+Fracción reformada DOF 16-05-2016
+
+II. De las excusas que sus miembros presenten para conocer de determinados negocios, las de los jueces y las recusaciones que se promuevan en contra de magistrados y jueces.
 Fracción reformada DOF 16-05-2016 III.- de los recursos de su competencia;
+
 IV. Del recurso de revocación interpuesto en contra de sus resoluciones de trámite que se resuelvan sin sustanciación.
-Fracción reformada DOF 16-05-2016 V. (Se deroga).
+Fracción reformada DOF 16-05-2016
+
+V. (Se deroga).
 Fracción derogada DOF 16-05-2016 VI.- Se deroga.
 Fracción derogada DOF 13-06-2014 VII.- Se deroga.
 Fracción derogada DOF 13-06-2014 VIII.- Se deroga.
@@ -438,15 +542,26 @@ XI.- de lo demás que determinen las leyes y reglamentos.
 
 ### Artículo 67
 Bis. Corresponde a las salas unitarias del Tribunal Superior Militar conocer del Recurso de apelación promovido en contra de las resoluciones emitidas por el juez de control en los casos siguientes:
+
 I. Las que nieguen el anticipo de prueba;
+
 II. Las que nieguen la posibilidad de celebrar acuerdos reparatorios o no los ratifiquen;
+
 III. La negativa o cancelación de orden de aprehensión;
+
 IV. La negativa de orden de cateo;
+
 V. Las que se pronuncien sobre las providencias precautorias o medidas cautelares;
+
 VI. Las que pongan término al procedimiento o lo suspendan;
+
 VII. El auto que resuelve la vinculación del imputado a proceso;
+
 VIII. Las que concedan, nieguen o revoquen la suspensión condicional del proceso;
-IX. La negativa de abrir el procedimiento abreviado, y X. Las que excluyan algún medio de prueba.
+
+IX. La negativa de abrir el procedimiento abreviado, y
+
+X. Las que excluyan algún medio de prueba.
 También conocerá de las resoluciones emitidas por el Tribunal Militar de Juicio Oral, que versen sobre el desistimiento de la acción penal por el Ministerio Público.
 Fracción adicionada DOF 16-05-2016
 
@@ -454,7 +569,9 @@ Fracción adicionada DOF 16-05-2016
 .- Son atribuciones del Tribunal Superior Militar:
 Párrafo reformado DOF 16-07-2025 I.- Conceder licencias a las personas magistradas, jueces, secretarias y demás empleadas subalternas del tribunal, hasta por ocho días, dando aviso a la Secretaría de la Defensa Nacional;
 Fracción reformada DOF 09-04-2012, 16-07-2025, 16-07-2025 II.- Resolver las reclamaciones de los jueces contra excitativas de justicia y demás providencias y acuerdos del presidente del Tribunal Superior Militar, en ejercicio de sus atribuciones;
-Fracción reformada DOF 16-07-2025 III. Proponer a la Secretaría de la Defensa Nacional las reformas que estime conveniente se introduzcan en la legislación militar;
+Fracción reformada DOF 16-07-2025
+
+III. Proponer a la Secretaría de la Defensa Nacional las reformas que estime conveniente se introduzcan en la legislación militar;
 Fracción reformada DOF 09-04-2012, 16-05-2016 IV.- Expedir acuerdos y circulares, dando instrucciones a las personas funcionarias de la administración de justicia militar, encaminadas a obtener el mejor desempeño de su cargo;
 Fracción reformada DOF 16-05-2016, 16-07-2025 V.- Formular el reglamento del mismo Tribunal Superior Militar y someterlo a la aprobación de la Secretaría de la Defensa Nacional;
 Fracción reformada DOF 09-04-2012, 16-07-2025 VI.- Proponer a la Secretaría de la Defensa Nacional los cambios de residencia y jurisdicción de personas funcionarias y empleadas de justicia militar, según lo exijan las necesidades del servicio;
@@ -465,7 +582,9 @@ Fracción reformada DOF 16-07-2025
 
 ### Artículo 69
 .- Corresponde a la persona titular de la presidencia del Tribunal Superior Militar:
-Párrafo reformado DOF 16-07-2025 I. Presidir las audiencias y dirigir los debates;
+Párrafo reformado DOF 16-07-2025
+
+I. Presidir las audiencias y dirigir los debates;
 Fracción reformada DOF 16-05-2016 II.- Recibir quejas e informes sobre demoras, excesos o faltas en el despacho de los negocios.
 Si las faltas fueren leves, dictará las providencias oportunas para su corrección; pero si fueren graves, dará cuenta al Tribunal Superior Militar para que resuelva;
 Fracción reformada DOF 16-07-2025 III.- Comunicar a la Secretaría de la Defensa Nacional, las faltas absolutas o temporales de las personas magistradas, jueces, secretarias y demás personal subalterno de la administración de justicia militar;
@@ -479,12 +598,19 @@ Fracción reformada DOF 16-07-2025
 
 ### Artículo 70
 .- Corresponde al secretario de acuerdos del Tribunal Superior Militar:
+
 I. Dar cuenta al presidente del Tribunal Superior Militar, con todos los negocios, comunicaciones, correspondencia y demás documentos que se reciban para que se despachen, desde luego, los que sean de la competencia del mismo presidente, y ordene, éste, el pase de los demás al Tribunal Superior Militar;
+
 II. Tomar la votación en cada negocio, haciendo constar quiénes votan en un sentido y quiénes en otro;
+
 III. Dar cuenta en las sesiones del Tribunal Superior Militar, con los asuntos de que éste deba conocer, relatándolos en extracto y proponiendo el acuerdo que en su concepto, deba recaer;
+
 IV. Expedir y autorizar las copias de las resoluciones, constancias de autos y demás que la ley determine o deban darse por mandato judicial;
+
 V. Vigilar que se lleven al corriente los libros de gobierno, de sentencias, índices, correspondencia, estadística y demás necesarios para el servicio;
+
 VI. Distribuir entre el personal subalterno las labores que deban desempeñar, designando a uno de ellos como notificador;
+
 VII. Proporcionar los expedientes a las partes para informarse de ellos, tomar apuntes o para cualquier otro efecto legal, vigilando que lo hagan en su presencia, sin permitir su salida.
 Fe de erratas al artículo DOF 27-09-1933. Artículo reformado DOF 16-05-2016
 
@@ -499,17 +625,30 @@ Artículo adicionado DOF 16-05-2016
 
 ### Artículo 71
 Ter. Los Jueces Militares de Control tienen las atribuciones siguientes:
+
 I. Resolver respecto a las órdenes de aprehensión, comparecencia o citaciones que le solicite el Ministerio Público;
+
 II. Resolver sobre las peticiones del Ministerio Público Militar para practicar técnicas de investigación que requieran de control judicial;
+
 III. Dirigir las audiencias Judiciales inicial e intermedia y resolver las peticiones que formulen las partes en ellas;
+
 IV. Decidir sobre la libertad o prisión preventiva y demás providencias precautorias y medidas cautelares;
+
 V. Resolver sobre la vinculación a proceso;
+
 VI. Procurar la solución del conflicto a través de mecanismos anticipados de terminación del proceso y los medios alternativos de solución de controversias;
+
 VII. Autorizar y dictar sentencia en el procedimiento abreviado;
+
 VIII. Guardar el secreto profesional respecto a la información reservada y confidencial que haya obtenido en el desempeño de sus funciones;
+
 IX. Resolver sobre la suspensión condicional del proceso;
+
 X. Resolver respecto a la suspensión del proceso y sobreseimiento al cierre de la investigación;
-XI. Resolver sobre todas aquellas peticiones e incidentes que le promuevan las partes en las etapas de investigación e intermedia, y XII. Las demás que le otorgue la ley.
+
+XI. Resolver sobre todas aquellas peticiones e incidentes que le promuevan las partes en las etapas de investigación e intermedia, y
+
+XII. Las demás que le otorgue la ley.
 Artículo adicionado DOF 16-05-2016 CAPITULO III Consejos de guerra (Se deroga) Capítulo derogado DOF 16-05-2016
 
 ### Artículo 72
@@ -538,29 +677,46 @@ Artículo adicionado DOF 13-06-2014. Reformado DOF 16-07-2025
 
 ### Artículo 76
 Ter.- La Persona Juzgadora de Ejecución de Sentencias, tendrá las facultades y obligaciones siguientes:
-Párrafo reformado DOF 16-07-2025 I. Controlar que la ejecución de toda pena o medida de seguridad, se realice de conformidad con la sentencia definitiva que se haya impuesto;
+Párrafo reformado DOF 16-07-2025
+
+I. Controlar que la ejecución de toda pena o medida de seguridad, se realice de conformidad con la sentencia definitiva que se haya impuesto;
+
 II. Ordenar el cumplimiento de la sentencia que determina la privación de la libertad;
+
 III. Hacer cumplir, sustituir, modificar, cesar o declarar extintas las penas o medidas de seguridad;
 IV.- Realizar el cómputo de la duración de las penas o medidas de seguridad, tomando en consideración la información técnico-jurídica que le proporcionen las personas titulares de las prisiones, de la Dirección y de los organismos auxiliares, respetando la garantía de legalidad del procedimiento, los derechos y las garantías que asistan a la persona sentenciada durante la ejecución de las mismas;
-Fracción reformada DOF 16-07-2025 V. Resolver en audiencia oral, sobre las peticiones o planteamientos de las partes, relativos a las materias siguientes: a).- La revocación de cualquier beneficio y sustitutivos concedidos a las personas sentenciadas o de aquellas que por su naturaleza e importancia requieran ofrecimiento, admisión, desahogo y debate de medios de pruebas.
+Fracción reformada DOF 16-07-2025
+
+V. Resolver en audiencia oral, sobre las peticiones o planteamientos de las partes, relativos a las materias siguientes: a).- La revocación de cualquier beneficio y sustitutivos concedidos a las personas sentenciadas o de aquellas que por su naturaleza e importancia requieran ofrecimiento, admisión, desahogo y debate de medios de pruebas.
 Inciso reformado DOF 16-07-2025 b).- La libertad preparatoria y la reducción de las penas;
 Inciso reformado DOF 16-07-2025 VI.- Decretar como medida de seguridad, a petición de la persona Directora de la prisión, el externamiento y la custodia de la persona sentenciada, al tenerse conocimiento, previo examen médico correspondiente, de que padezca alguna enfermedad mental de tipo crónico, continuo e irreversible, a cargo de una institución del sector salud, de la persona representante legal o tutora debidamente acreditada, para que se le brinde atención y tratamiento médico o de tipo asilar;
 Fracción reformada DOF 16-07-2025 VII.- Ordenar el traslado de las personas sentenciadas a los diversos Centros Penitenciarios;
 Fracción reformada DOF 16-07-2025 VIII.- Rehabilitar los derechos de las personas sentenciadas, una vez que se cumpla con el término de la suspensión señalada en la sentencia, en los casos de indulto o de reconocimiento de inocencia;
 Fracción reformada DOF 16-07-2025 IX.- Entregar a la persona sentenciada su constancia de libertad definitiva;
-Fracción reformada DOF 16-07-2025 X.- Informar a las autoridades correspondientes, cuando las personas sentenciadas cumplan con las penas impuestas, y Fracción reformada DOF 16-07-2025 XI. Las demás atribuciones que este Código y otros ordenamientos le asignen.
+Fracción reformada DOF 16-07-2025 X.- Informar a las autoridades correspondientes, cuando las personas sentenciadas cumplan con las penas impuestas, y Fracción reformada DOF 16-07-2025
+
+XI. Las demás atribuciones que este Código y otros ordenamientos le asignen.
 Artículo adicionado DOF 13-06-2014. Reformado DOF 16-05-2016
 
 ### Artículo 77
 . Los Secretarios de los Tribunales Militares de Juicio Oral, Juzgados de Control y de Ejecución de Sentencias, tienen las funciones siguientes:
+
 I. Auxiliar al Juez en lo concerniente a sus obligaciones;
+
 II. Dar cuenta al Tribunal o al Juez de las peticiones de las partes y la correspondencia dirigida al juzgado, recabando el acuerdo que sobre ellos recaiga;
+
 III. Supervisar el cumplimiento de las disposiciones giradas por el Juez para el correcto funcionamiento del área de su responsabilidad;
+
 IV. Elaborar el proyecto de las resoluciones que deban constar por escrito, así como otras que disponga el Tribunal o el juez;
+
 V. Autorizar las certificaciones que deban asentarse por mandato de la ley o del Juez;
+
 VI. Proporcionar a las partes los expedientes, carpetas y medios electrónicos para su consulta, sin que permitan su salida del área para tal fin;
+
 VII. Expedir y autorizar las copias de las resoluciones y constancias, contenidas en forma escrita o en archivo electrónico y demás que la ley determine o que deban darse en virtud de mandato judicial;
+
 VIII. Llevar los libros de gobierno, correspondencia, y demás necesarios para el servicio;
+
 IX. Las demás que le otorgue la ley.
 Artículo reformado DOF 16-05-2016 CAPITULO V Ministerio Público
 
@@ -570,17 +726,26 @@ Artículo reformado DOF 22-07-1994, 18-05-1999, 16-05-2016
 
 ### Artículo 79
 . El Ministerio Público no podrá ejercitar la acción penal, sin llenar los requisitos correspondientes, en los casos que siguen:
-I. Cuando se trate de delitos en los que sólo se puede proceder por querella necesaria, si ésta no se ha presentado, y II. Cuando la ley exija algún requisito previo, o indispensable respecto del imputado, si tal requisito no se hubiere actualizado.
+
+I. Cuando se trate de delitos en los que sólo se puede proceder por querella necesaria, si ésta no se ha presentado, y
+
+II. Cuando la ley exija algún requisito previo, o indispensable respecto del imputado, si tal requisito no se hubiere actualizado.
 En los casos de delitos flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo las reglas de disciplina y jerarquía para cometer de modo violento y reiterado o con fines predominantemente lucrativos algunos de los delitos señalados por la ley como graves.
 Cuando el indiciado fuese detenido o se presentare voluntariamente será inmediatamente registrado por el Ministerio Público, quien tendrá la obligación de hacerle saber las garantías consagradas en el
 
 ### artículo 20
 Constitucional.
 El registro de detención que realicen la Policía Ministerial Militar y el Ministerio Público en todos los casos antes citados, deberá contener, al menos lo siguiente:
+
 I. Nombre, grado y en su caso apodo del detenido;
+
 II. Media filiación;
+
 III. Motivo, circunstancias generales, lugar y hora en que se haya practicado la detención;
-IV. Nombre de quien o quienes hayan intervenido en la detención. En su caso, grado y adscripción, y V. Lugar donde será trasladado el detenido.
+
+IV. Nombre de quien o quienes hayan intervenido en la detención. En su caso, grado y adscripción, y
+
+V. Lugar donde será trasladado el detenido.
 Artículo reformado DOF 16-05-2016
 
 ### Artículo 80
@@ -589,107 +754,202 @@ Artículo reformado DOF 22-07-1994, 13-06-2014. Derogado DOF 16-05-2016
 
 ### Artículo 81
 . El Fiscal General de Justicia Militar tendrá las siguientes atribuciones y deberes indelegables:
+
 I. Proponer los proyectos de iniciativas de ley o de reformas legislativas vinculadas con las materias de la competencia de la Fiscalía General;
+
 II. Someter a la Secretaría de la Defensa Nacional los proyectos de reglamentos de este Código, de la Policía y demás que fueran necesarios;
+
 III. Emitir los manuales de organización, funcionamiento y procedimientos de la Fiscalía General y de los organismos que le dependan;
+
 IV. Aprobar y evaluar los planes y programas que le presenten los órganos de la Fiscalía General, para cumplir los objetivos institucionales;
+
 V. Expedir los nombramientos de los Fiscales, Coordinadores, Agentes del Ministerio Público y demás funcionarios de la Fiscalía General, así como reasignarlos a las distintas áreas, conforme lo requieran las necesidades del servicio, para el debido cumplimiento de las funciones de la institución;
+
 VI. Coordinar con la Secretaría de Marina, la designación de personal del Servicio de Justicia Naval Licenciados en Derecho y de apoyo, a fin de que presten sus servicios en la Fiscalía General;
+
 VII. Celebrar convenios, acuerdos y bases de colaboración en todas las materias afines a sus funciones, con sus homólogos del Fuero Federal y Común, y otras autoridades; así como con organismos públicos autónomos y organizaciones de los sectores social y privado;
+
 VIII. Autorizar los programas de profesionalización y capacitación de los Fiscales, Agentes del Ministerio Público, Agentes de la Policía Ministerial, y demás personal de la Fiscalía General;
+
 IX. Emitir los acuerdos, circulares, instructivos, protocolos y demás disposiciones para regular la actuación del personal de la Fiscalía General;
+
 X. Comisionar a los Fiscales y a los Agentes del Ministerio Público, que sean necesarios, en los asuntos de la competencia de la Fiscalía General;
+
 XI. Establecer o modificar la adscripción de los Agentes del Ministerio Público, de acuerdo a las necesidades del servicio;
+
 XII. Autorizar licencias que no excedan de ocho días al personal de la Fiscalía General, de acuerdo con la normativa;
-XIII. Velar por el respeto de los derechos humanos en la esfera de su competencia; para el efecto se deberá: a) Fomentar entre los servidores públicos de la Institución una cultura de respeto a los derechos humanos. b) Establecer disposiciones para la atención de solicitudes de información conforme a la normativa de la materia, visitas y quejas en materia de derechos humanos. c) Colaborar con otras Instituciones para la atención de requerimientos relacionados con el respeto a los derechos humanos. d) Emitir disposiciones para la observancia y atención en términos de ley, de las recomendaciones de la Comisión Nacional de los Derechos Humanos, así como dar cumplimiento a las de organismos internacionales de protección de derechos humanos, reconocidos por el Estado Mexicano.
+
+XIII. Velar por el respeto de los derechos humanos en la esfera de su competencia; para el efecto se deberá:
+
+a) Fomentar entre los servidores públicos de la Institución una cultura de respeto a los derechos humanos.
+
+b) Establecer disposiciones para la atención de solicitudes de información conforme a la normativa de la materia, visitas y quejas en materia de derechos humanos.
+
+c) Colaborar con otras Instituciones para la atención de requerimientos relacionados con el respeto a los derechos humanos.
+
+d) Emitir disposiciones para la observancia y atención en términos de ley, de las recomendaciones de la Comisión Nacional de los Derechos Humanos, así como dar cumplimiento a las de organismos internacionales de protección de derechos humanos, reconocidos por el Estado Mexicano.
+
 XIV. Participar en la elaboración del Programa Sectorial de la Secretaría de la Defensa Nacional, en los aspectos de su competencia;
+
 XV. Implementar acciones en materia de prevención del delito;
+
 XVI. Ordenar la elaboración de la estadística en materia criminal y establecer la coordinación necesaria con el Tribunal Superior Militar y la Defensoría de Oficio Militar, para los mismos efectos;
+
 XVII. Administrar los recursos humanos, financieros y materiales necesarios para el cumplimiento de sus funciones, así como mantener actualizada y sistematizada la información respectiva;
+
 XVIII. Certificar al personal de Agentes del Ministerio Público Militar, Policías Ministeriales que cumpla los estándares del Sistema Nacional de seguridad Pública;
+
 XIX. Ordenar el control administrativo de los bienes muebles e inmuebles que tenga a cargo la institución;
+
 XX. Las demás que le confieran las disposiciones legales aplicables.
 Artículo reformado DOF 09-04-2012, 13-06-2014, 16-05-2016
 
 ### Artículo 81
 Bis.- Son facultades de la o del Fiscal General, las cuales, en su ausencia, delega a la persona titular de la Fiscalía General Adjunta, de la Fiscalía Militar Auxiliar y de la Fiscalía Militar de Investigación del Delito y Control de Procesos, las siguientes:
-Párrafo reformado DOF 16-07-2025 I. Autorizar al Agente del Ministerio Público el desistimiento de la acción penal conforme a lo dispuesto en el Código Militar de Procedimientos Penales;
+Párrafo reformado DOF 16-07-2025
+
+I. Autorizar al Agente del Ministerio Público el desistimiento de la acción penal conforme a lo dispuesto en el Código Militar de Procedimientos Penales;
+
 II. Autorizar al Ministerio Público la solicitud sobre la cancelación de las órdenes de aprehensión en términos del Código Militar de Procedimientos Penales;
 III.- Autorizar al Ministerio Público que solicite a la Persona Juzgadora Militar de Control la no imposición de la prisión preventiva oficiosa para que la sustituya por otra medida cautelar en términos del Código Militar de Procedimientos Penales;
-Fracción reformada DOF 16-07-2025 IV. Autorizar a la Policía Ministerial Militar en el marco de una investigación, la entrega vigilada y las operaciones encubiertas en términos del Código Militar de Procedimientos Penales;
+Fracción reformada DOF 16-07-2025
+
+IV. Autorizar a la Policía Ministerial Militar en el marco de una investigación, la entrega vigilada y las operaciones encubiertas en términos del Código Militar de Procedimientos Penales;
+
 V. Autorizar al Ministerio Público la aplicación de los criterios de oportunidad conforme al Código Militar de Procedimientos Penales;
 VI.- Solicitar a la Autoridad Judicial Federal, la autorización para practicar intervención a comunicaciones privadas exclusivamente respecto a los hechos que se investigan en el ámbito de su competencia al personal militar y en términos del Código Militar de Procedimientos Penales;
-Fracción reformada DOF 16-07-2025 VII. [Solicitar previa autorización judicial a los concesionarios o permisionarios o comercializadoras del servicio de telecomunicaciones o comunicación vía satélite, la localización geográfica en tiempo real de los equipos de comunicación móvil asociados a una línea que se encuentren relacionados exclusivamente con los hechos que se investigan a personal militar en el ámbito de su competencia y en términos del Código Militar de Procedimientos Penales;] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 VIII.- Pronunciarse cuando la Persona Juzgadora Militar de Control haga de su conocimiento el incumplimiento del Ministerio Público de los deberes previstos en el Código Militar de Procedimientos Penales;
-Fracción reformada DOF 16-07-2025 IX. Las demás que le confieran las disposiciones legales aplicables.
+Fracción reformada DOF 16-07-2025
+
+VII. [Solicitar previa autorización judicial a los concesionarios o permisionarios o comercializadoras del servicio de telecomunicaciones o comunicación vía satélite, la localización geográfica en tiempo real de los equipos de comunicación móvil asociados a una línea que se encuentren relacionados exclusivamente con los hechos que se investigan a personal militar en el ámbito de su competencia y en términos del Código Militar de Procedimientos Penales;] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 VIII.- Pronunciarse cuando la Persona Juzgadora Militar de Control haga de su conocimiento el incumplimiento del Ministerio Público de los deberes previstos en el Código Militar de Procedimientos Penales;
+Fracción reformada DOF 16-07-2025
+
+IX. Las demás que le confieran las disposiciones legales aplicables.
 Artículo adicionado DOF 16-05-2016
 
 ### Artículo 82
 . Son atribuciones y deberes de los Fiscales Militares:
+
 I. Transmitir al personal a su cargo las órdenes, directivas, acuerdos, circulares, instructivos, protocolos y demás disposiciones emitidas por el Fiscal General;
+
 II. Coordinar y supervisar el correcto desempeño del personal bajo su responsabilidad;
+
 III. Representar en el ámbito de su competencia a la Fiscalía General, ante las autoridades administrativas, ministeriales y judiciales, en los casos que legalmente se requiera;
+
 IV. Supervisar que los asuntos de su competencia se atiendan en tiempo y forma en cumplimiento a los ordenamientos legales y a las disposiciones que resulten aplicables;
+
 V. Dirigir las actividades encomendadas a su cargo, supervisando las funciones que les correspondan a las áreas que les dependan;
+
 VI. Establecer mecanismos de coordinación con otras áreas de la Fiscalía General, para el eficiente cumplimiento de sus funciones;
+
 VII. Mantener coordinación con los órganos de investigación del delito a nivel Federal, de la Ciudad de México y de los Estados, para la obtención de documentación, información, colaboración y apoyo necesario para el cumplimiento de sus funciones;
+
 VIII. Recibir en acuerdo a las áreas que le dependan;
+
 IX. Supervisar la actualización de las bases de datos correspondientes a las áreas de su responsabilidad;
+
 X. Atender los requerimientos que formulen las autoridades Judiciales, Ministeriales, de particulares y otras instituciones;
+
 XI. Formular propuestas de cambio de personal de su adscripción para el buen funcionamiento de la Fiscalía de su responsabilidad;
+
 XII. Acordar los asuntos de su competencia con el Fiscal General o el Fiscal General Adjunto, según corresponda;
 Artículo reformado DOF 16-05-2016
 
 ### Artículo 83
 .- Las funciones del Ministerio Público Militar, son las siguientes:
-Párrafo reformado DOF 16-07-2025 I. Vigilar que en toda investigación de los delitos se cumpla estrictamente con el respeto de los derechos humanos reconocidos en la Constitución y en los tratados internacionales firmados y ratificados por el estado mexicano;
+Párrafo reformado DOF 16-07-2025
+
+I. Vigilar que en toda investigación de los delitos se cumpla estrictamente con el respeto de los derechos humanos reconocidos en la Constitución y en los tratados internacionales firmados y ratificados por el estado mexicano;
+
 II. Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
+
 III. Ejercer la conducción y el mando de la investigación de los delitos, para lo cual deberá coordinar a las Policías y a los peritos durante la misma;
+
 IV. Ordenar o supervisar, según sea el caso, la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia del mismo, así como cerciorarse de que se han seguido las reglas y protocolos para su preservación y procesamiento;
+
 V. Ordenar la suspensión o el aseguramiento de cuentas, títulos de crédito y en general cualquier bien o derecho relativos a operaciones que las instituciones financieras establecidas en el país celebren con sus clientes;
+
 VI. Iniciar la investigación correspondiente cuando así proceda y, en su caso, ordenar la recolección de indicios y medios de prueba que deberán servir para sus respectivas resoluciones y las del Órgano jurisdiccional militar, así como recabar los elementos necesarios que determinen el daño causado por el delito y la cuantificación del mismo para los efectos de su reparación;
+
 VII. Dejar registro de todas sus actuaciones que realice durante la investigación en la carpeta de investigación, permitiendo el acceso a quienes tengan derecho a ello conforme a la ley;
+
 VIII. Ordenar a la Policía Ministerial Militar y a sus auxiliares, en el ámbito de su competencia, la práctica de actos de investigación conducentes para el esclarecimiento del hecho delictivo, así como analizar las que dichas autoridades hubieren practicado;
+
 IX. Instruir a la Policía Ministerial Militar sobre la legalidad, pertinencia, suficiencia y contundencia de los indicios recolectados o por recolectar, así como las demás actividades y diligencias que deben ser llevadas a cabo dentro de la investigación;
+
 X. Requerir informes o documentación a otras autoridades y a particulares, así como solicitar la práctica de peritajes y diligencias para la obtención de otros medios de prueba;
 XI.- Solicitar a la o al Fiscal General o Fiscal General Adjunto, que requiera a los concesionarios o permisionarios o comercializadoras del servicio de telecomunicaciones o comunicación vía satélite, la localización geográfica en tiempo real de los equipos de comunicación móvil asociados a una línea que se encuentren relacionados con los hechos que se investigan, probablemente cometidos por personal militar exclusivamente en el ámbito de competencia de la Jurisdicción Militar;
 Fracción reformada DOF 16-07-2025 XII.- Gestionar en coordinación con la Policía Ministerial Militar la autorización de la o del Fiscal General o Fiscal General Adjunto, para realizar dentro de la investigación la entrega vigilada y las operaciones encubiertas;
 Fracción reformada DOF 16-07-2025 XIII.- Solicitar a la o al Fiscal General o Fiscal General Adjunto, que requiera a los concesionarios o permisionarios o comercializadoras del servicio de telecomunicaciones o comunicación vía satélite, la localización geográfica en tiempo real de los equipos de comunicación móvil asociados a una línea que se encuentren relacionados con los hechos que se investigan, probablemente cometidos por personal militar, exclusivamente en el ámbito de competencia de la justicia militar;
-Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 Fracción reformada DOF 16-07-2025 XIV. Solicitar al Órgano jurisdiccional militar la autorización de actos de investigación y demás actuaciones que sean necesarias dentro de la misma;
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 Fracción reformada DOF 16-07-2025
+
+XIV. Solicitar al Órgano jurisdiccional militar la autorización de actos de investigación y demás actuaciones que sean necesarias dentro de la misma;
 XV.- Proporcionar información veraz sobre los hechos, sobre los hallazgos en la investigación al personal militar imputado o su defensa y la víctima u ofendido, sin ocultar elemento alguno que pudiera resultar favorable para la posición que ellos asuman, salvo aquellos que deban mantenerse en reserva previa autorización de la Persona Juzgadora Militar de Control y en su caso efectuar el descubrimiento probatorio en el momento procesal oportuno;
-Fracción reformada DOF 16-07-2025 XVI. Realizar una investigación objetiva que contemple tanto a los elementos de cargo como de descargo a efecto de garantizar el respeto de los derechos de las partes y el debido proceso, al grado de que, si al concluir la investigación complementaria, solicite el sobreseimiento del proceso, o bien, en la audiencia de juicio solicite la absolución o una condena más leve, que aquella que sugiere la acusación, si estas son procedentes;
+Fracción reformada DOF 16-07-2025
+
+XVI. Realizar una investigación objetiva que contemple tanto a los elementos de cargo como de descargo a efecto de garantizar el respeto de los derechos de las partes y el debido proceso, al grado de que, si al concluir la investigación complementaria, solicite el sobreseimiento del proceso, o bien, en la audiencia de juicio solicite la absolución o una condena más leve, que aquella que sugiere la acusación, si estas son procedentes;
 XVII.- Ordenar la detención y la retención de las personas militares imputadas cuando resulte procedente en los términos que establece este Código;
 Fracción reformada DOF 16-07-2025 XVIII.- Solicitar al personal militar la aportación voluntaria de muestras de fluido corporal, vello o cabello, exámenes corporales de carácter biológico, extracciones de sangre u otros análogos, así como que se le permita obtener imágenes internas o externas de alguna parte del cuerpo, siempre que no implique riesgos para la salud y la dignidad de la persona, debiendo constar el registro correspondiente de su consentimiento y en caso de negativa solicitar a la Persona Juzgadora Militar de Control la autorización para su obtención;
 Fracción reformada DOF 16-07-2025 XIX.- Brindar las medidas de seguridad necesarias, a efecto de garantizar que las víctimas u ofendidos o testigos del delito puedan llevar a cabo la identificación del personal militar imputado, sin riesgo para ellos;
 Fracción reformada DOF 16-07-2025 XX.- Determinar el archivo temporal y el no ejercicio de la acción penal, así como ejercer la facultad de no investigar en los casos autorizados por el Código Militar de Procedimientos Penales, sometiéndola a consideración de la o del Fiscal General;
 Fracción reformada DOF 16-07-2025 XXI.- Aplicar los criterios de oportunidad con autorización de la o del Fiscal General o Fiscal General Adjunto;
-Fracción reformada DOF 16-07-2025 XXII. Asistir en forma oportuna a todas las audiencias relativas a la investigación que práctica, realizando las peticiones en base a los datos y medios de prueba que las sustenten; así como los alegatos y objeciones que en cada caso procedan;
+Fracción reformada DOF 16-07-2025
+
+XXII. Asistir en forma oportuna a todas las audiencias relativas a la investigación que práctica, realizando las peticiones en base a los datos y medios de prueba que las sustenten; así como los alegatos y objeciones que en cada caso procedan;
+
 XXIII. Promover las acciones necesarias para que se provea la seguridad y proporcionar el auxilio a víctimas u ofendidos de los delitos competencia de la Jurisdicción Militar, testigos, peritos y, en general, a todos los sujetos que con motivo de su intervención en el procedimiento, cuya vida o integridad corporal se encuentren en riesgo inminente;
 XXIV.- Canalizar a menores de edad, personas con discapacidad, o adultos mayores que dependan del personal militar imputado a instituciones de asistencia social, cuando no haya personas que puedan hacerse cargo de su cuidado;
-Fracción reformada DOF 16-07-2025 XXV. Ejercer la acción penal cuando proceda;
+Fracción reformada DOF 16-07-2025
+
+XXV. Ejercer la acción penal cuando proceda;
 XXVI.- Desistirse de la acción penal, con autorización de la o del Fiscal General o Fiscal General Adjunto;
 Fracción reformada DOF 16-07-2025 XXVII.- Solicitar a la Persona Juzgadora Militar de Control las órdenes de aprehensión, comparecencia o citatorio cuando pretenda formular la imputación;
-Fracción reformada DOF 16-07-2025 XXVIII. Solicitar las órdenes para efectuar un cateo, en los términos y condiciones que señala la ley;
+Fracción reformada DOF 16-07-2025
+
+XXVIII. Solicitar las órdenes para efectuar un cateo, en los términos y condiciones que señala la ley;
 XXIX.- Solicitar a la Persona Juzgadora Militar de Control la cancelación de las órdenes de aprehensión con autorización de la o del Fiscal General o Fiscal General Adjunto;
-Fracción reformada DOF 16-07-2025 XXX. Poner a disposición del Órgano jurisdiccional militar a las personas detenidas dentro de los plazos establecidos en el presente Código;
+Fracción reformada DOF 16-07-2025
+
+XXX. Poner a disposición del Órgano jurisdiccional militar a las personas detenidas dentro de los plazos establecidos en el presente Código;
 XXXI.- Solicitar a la Persona Juzgadora Militar de Control la no imposición de la prisión oficiosa pidiendo su sustitución por otra medida cautelar con autorización del Fiscal General o Fiscal General Adjunto;
-Fracción reformada DOF 16-07-2025 XXXII. Promover las formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables;
+Fracción reformada DOF 16-07-2025
+
+XXXII. Promover las formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables;
+
 XXXIII. Solicitar la reclasificación de la conducta o hecho por los cuales se hubiese ejercido la acción penal;
 XXXIV.- Solicitar a la Persona Juzgadora Militar de Control las providencias precautorias;
 Fracción reformada DOF 16-07-2025 XXXV.- Decretar las medidas de protección y solicitar su ratificación ante la Persona Juzgadora Militar de Control;
 Fracción reformada DOF 16-07-2025 XXXVI.- Solicitar las medidas cautelares aplicables al personal militar imputado en el proceso, en atención a las disposiciones conducentes y promover su cumplimiento;
-Fracción reformada DOF 16-07-2025 XXXVII. Autorizar la dispensa de la necropsia previa solicitud de los familiares;
+Fracción reformada DOF 16-07-2025
+
+XXXVII. Autorizar la dispensa de la necropsia previa solicitud de los familiares;
 XXXVIII.- Comunicar al Órgano jurisdiccional militar y al personal militar imputado los hechos, así como los datos de prueba que los sustentan y la fundamentación jurídica, atendiendo al objetivo o finalidad de cada etapa del procedimiento;
-Fracción reformada DOF 16-07-2025 XXXIX. Solicitar al Órgano jurisdiccional militar la imposición de las penas o medidas de seguridad que correspondan;
+Fracción reformada DOF 16-07-2025
+
+XXXIX. Solicitar al Órgano jurisdiccional militar la imposición de las penas o medidas de seguridad que correspondan;
+
 XL. Solicitar el pago de la reparación del daño a favor de la víctima u ofendido del delito, sin perjuicio de que éstos lo pudieran solicitar directamente;
+
 XLI. Actuar en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución;
+
 XLII. Excusarse en caso de impedimento legal;
+
 XLIII. Colaborar con la Fiscalía General de la República y de las Entidades Federativas, en los términos de los convenios que se suscriban;
+
 XLIV. Turnar a las autoridades correspondientes los asuntos que no sean de su competencia;
+
 XLV. Decretar el aseguramiento de los objetos, instrumentos y productos del delito, así como de las evidencias, valores y substancias relacionadas con el mismo levantando un inventario de éstos y cerciorándose que el procedimiento de la cadena de custodia se haya establecido;
+
 XLVI. Determinar el destino final de bienes puestos a su disposición que no hayan estado relacionados con el delito, ordenando su devolución o promover la declaración de abandono a favor del Estado, para su destrucción o aprovechamiento lícito en beneficio de las Fuerzas Armadas, mediante el procedimiento que establezcan las disposiciones legales aplicables;
+
 XLVII. Solicitar la aplicación de las medidas de apremio previstas en el Código Militar de Procedimientos Penales, para hacer cumplir sus determinaciones, independientemente de la facultad para iniciar investigación, en caso de que se cometa un delito;
 XLVIII.- Efectuar el registro del personal militar detenido y puesto a su disposición en relación a la integración de carpetas de investigación, así como atender las solicitudes de información sobre dicho registro;
-Fracción reformada DOF 16-07-2025 XLIX. Mantener la secrecía de la investigación, permitiendo el acceso de ella sólo al personal autorizado por la ley, L. Interponer los recursos legales en contra de autos y sentencias, así como las excepciones, incidentes, nulidad, saneamiento y convalidación de actos en términos del Código Militar de Procedimientos Penales, LI.- Intervenir en los incidentes relativos a la ejecución, sustitución, modificación o extinción de las penas o medidas de seguridad, así como en el otorgamiento de beneficios preliberacionales y demás actos en que se requiera ante la Persona Juzgadora de Ejecución, y Fracción reformada DOF 16-07-2025 LII. Las demás que las leyes determinen.
+Fracción reformada DOF 16-07-2025
+
+XLIX. Mantener la secrecía de la investigación, permitiendo el acceso de ella sólo al personal autorizado por la ley,
+
+L. Interponer los recursos legales en contra de autos y sentencias, así como las excepciones, incidentes, nulidad, saneamiento y convalidación de actos en términos del Código Militar de Procedimientos Penales, LI.- Intervenir en los incidentes relativos a la ejecución, sustitución, modificación o extinción de las penas o medidas de seguridad, así como en el otorgamiento de beneficios preliberacionales y demás actos en que se requiera ante la Persona Juzgadora de Ejecución, y Fracción reformada DOF 16-07-2025
+
+LII. Las demás que las leyes determinen.
 Artículo reformado DOF 22-07-1994, 18-05-1999, 13-06-2014, 16-05-2016
 
 ### Artículo 84
@@ -698,43 +958,74 @@ Artículo reformado DOF 22-07-1994, 18-05-1999, 13-06-2014, 16-05-2016
 ### Artículo 85
 .- Son facultades y deberes de la persona Titular de la Defensoría de Oficio Militar:
 Párrafo reformado DOF 16-07-2025 I.- Disponer que las o los defensores, en los asuntos de la Jurisdicción Militar brinden una asesoría legal y defensa técnica adecuada al personal militar durante el procedimiento penal, cuando los requiera el Agente del Ministerio Público Militar o el Órgano jurisdiccional militar según sea el caso;
-Fracción reformada DOF 16-07-2025 II. Tratándose de asuntos de defensa en el procedimiento penal ante tribunales del orden común y federal, el Defensor General, previa solicitud del interesado, podrá autorizar la defensa, siempre y cuando se trate de hechos que estén vinculados con actos del servicio y no cuente con defensor;
+Fracción reformada DOF 16-07-2025
+
+II. Tratándose de asuntos de defensa en el procedimiento penal ante tribunales del orden común y federal, el Defensor General, previa solicitud del interesado, podrá autorizar la defensa, siempre y cuando se trate de hechos que estén vinculados con actos del servicio y no cuente con defensor;
 III.- Dar a las o los defensores las instrucciones que estime necesarias para que desempeñen debidamente sus funciones, expedirles circulares, dictar todas las acciones administrativas o disciplinarias para dar calidad profesional a la garantía de defensa;
-Fracción reformada DOF 16-07-2025 IV. Calificar las excusas que tuvieren los defensores para intervenir en determinado asunto;
+Fracción reformada DOF 16-07-2025
+
+IV. Calificar las excusas que tuvieren los defensores para intervenir en determinado asunto;
+
 V. Solicitar a la Secretaría correspondiente las remociones que sean necesarias para el mejor servicio;
 VI.- Presidir el consejo técnico que substanciará y resolverá los procedimientos derivados de las quejas que se formulen en contra de los Defensores de Oficio Militar;
-Fracción reformada DOF 16-07-2025 VII. Recabar de las oficinas públicas, toda clase de informes o documentos que sean necesarios en el ejercicio de sus funciones;
+Fracción reformada DOF 16-07-2025
+
+VII. Recabar de las oficinas públicas, toda clase de informes o documentos que sean necesarios en el ejercicio de sus funciones;
+
 VIII. Dirigir la formación de la estadística y rendir los informes que le sean solicitados oficialmente;
 IX.- Encomendar a cualquiera de las o los defensores el despacho de determinado asunto, relacionado con actos propios del servicio, independientemente de sus labores permanentes;
-Fracción reformada DOF 16-07-2025 X. Informar a las Secretarías de los asuntos administrativos de su competencia;
+Fracción reformada DOF 16-07-2025
+
+X. Informar a las Secretarías de los asuntos administrativos de su competencia;
 XI.- Supervisar las actividades de las o los defensores, con el fin de verificar que su desempeño profesional cumpla con el principio constitucional de una defensa adecuada;
-Fracción reformada DOF 16-07-2025 XII. Llevar a cabo mensualmente visitas de cárcel, en el lugar de su residencia;
+Fracción reformada DOF 16-07-2025
+
+XII. Llevar a cabo mensualmente visitas de cárcel, en el lugar de su residencia;
+
 XIII. Coordinar con las Secretarías, para que destinen a personal del Servicio de Justicia Militar o Naval y demás personal de apoyo, a fin de que presten sus servicios en la Defensoría;
+
 XIV. Solicitar a la Coordinación de Servicios Periciales y Ciencias Forenses su intervención para que le brinde apoyo en materia pericial y sustentar una adecuada defensa;
+
 XV. Las demás que determinen las leyes y reglamentos.
 Fe de erratas al artículo DOF 27-09-1933. Artículo reformado DOF 22-07-1994, 09-04-2012, 13-06-2014, 16-05-2016
 
 ### Artículo 86
 .- Son obligaciones comunes de la defensa:
 Párrafo reformado DOF 16-07-2025 I.- Asistir jurídicamente a la persona militar imputada, acusada o sentenciada desde el momento de su designación ante el Órgano investigador o Jurisdiccional, en la práctica de diligencias, así como en todas las audiencias que establezca la ley, siempre que no tengan impedimento legal para dichos efectos, presentando los argumentos y ofreciendo los datos y medios de prueba pertinentes que sean necesarios para llevar a cabo una defensa adecuada;
-Fracción reformada DOF 16-07-2025 II. Abrir un expediente de control de cada uno de los asuntos a su cargo, que se integrará con las promociones y escritos derivados del caso;
+Fracción reformada DOF 16-07-2025
+
+II. Abrir un expediente de control de cada uno de los asuntos a su cargo, que se integrará con las promociones y escritos derivados del caso;
+
 III. Realizar las acciones necesarias que tengan por objeto la impugnación, modificación, sustitución o cancelación de las medidas cautelares que se puedan decretar durante el procedimiento, así como solicitar el no ejercicio de la acción penal;
+
 IV. Formular sus promociones en forma clara y precisa, con consideraciones de hecho y de derecho, fundamentándolas tanto en la legislación nacional como en los instrumentos internacionales;
 V.- Promover a favor de su representada o representado la aplicación de soluciones alternas o formas de terminación anticipada del procedimiento penal;
 Fracción reformada DOF 16-07-2025 VI.- Asesorar a la persona militar imputada para la celebración de los acuerdos que permitan salidas alternas y terminación anticipada en el procedimiento penal;
 Fracción reformada DOF 16-07-2025 VII.- Consultar a la Jefa o Jefe o Subjefa o Subjefe de la Defensoría, o bien a la Jefa o Jefe de la Sección Técnica o Subsección de Defensores, en todos los asuntos que estime necesario, exponiéndole el caso de que se trate y la opinión que de él se haya formado;
-Fracción reformada DOF 16-07-2025 VIII. Mantener informados a sus representados del estado de sus procesos;
+Fracción reformada DOF 16-07-2025
+
+VIII. Mantener informados a sus representados del estado de sus procesos;
 IX.- Informar y presentar por escrito a la persona titular de la Defensoría General, los motivos de excusa que tuvieren para intervenir en los asuntos en que se consideren impedidas o impedidos;
 Fracción reformada DOF 16-07-2025 X.- Rendir los informes mensuales de los procesos a su cargo y los demás que les ordene la persona titular de la Defensoría General;
 Fracción reformada DOF 16-07-2025 XI.- Cumplir con la asignación que les haga la persona titular de la Defensoría General para intervenir en los asuntos del orden común o federal, ejerciendo sus facultades y obligaciones al respecto;
-Fracción reformada DOF 16-07-2025 XII. Solicitar al Centro Militar de Ciencias Forenses su intervención para recabar peritajes que resulten necesarios para respaldar la defensa instrumentada;
+Fracción reformada DOF 16-07-2025
+
+XII. Solicitar al Centro Militar de Ciencias Forenses su intervención para recabar peritajes que resulten necesarios para respaldar la defensa instrumentada;
+
 XIII. Asistir en forma oportuna a todas las audiencias relativas a la investigación que practica el Ministerio Público, realizando las peticiones con base a los datos, medios de prueba y pruebas que las sustenten; así como los alegatos y objeciones que en cada caso procedan;
+
 XIV. Actuar en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución e instrumento internacionales;
+
 XV. Colaborar con la Defensoría Pública Federal y de la Entidades Federativas en los términos de los convenios que se suscriban;
 XVI.- Intervenir en los incidentes relativos a la ejecución, sustitución, modificación o extinción de las penas o medidas de seguridad, así como en el otorgamiento de beneficios preliberacionales y demás actos en que se requiera ante la Persona Juzgadora de Ejecución;
-Fracción reformada DOF 16-07-2025 XVII. Interponer los recursos o incidentes en términos de la legislación aplicable y en su caso promover el juicio de amparo en defensa de sus representados;
+Fracción reformada DOF 16-07-2025
+
+XVII. Interponer los recursos o incidentes en términos de la legislación aplicable y en su caso promover el juicio de amparo en defensa de sus representados;
 XVIII.- Previa designación, proporcionar asesoría legal y representar al personal militar, en los procedimientos administrativos de responsabilidad ante el Órgano Interno de Control Específico que corresponda; siempre que se trate de procedimientos derivados de su actuación en ejercicio de sus funciones;
-Fracción reformada DOF 16-07-2025 XIX. Asistir a la audiencia de individualización de sanciones, cumpliendo las obligaciones previstas en la fracción I;
+Fracción reformada DOF 16-07-2025
+
+XIX. Asistir a la audiencia de individualización de sanciones, cumpliendo las obligaciones previstas en la fracción I;
+
 XX. Las demás atribuciones y deberes que esta Ley y otros ordenamientos le asignen.
 Fe de erratas al artículo DOF 27-09-1933. Artículo reformado DOF 13-06-2014, 16-05-2016 TITULO SEXTO Prevenciones generales
 
@@ -914,10 +1205,19 @@ TITULO SEGUNDO De las penas y sus consecuencias CAPITULO I Reglas generales sobr
 
 ### Artículo 122
 .- Las penas son:
+
 I. Prisión.
-Fracción reformada DOF 29-06-2005 II. (Se deroga).
-Fracción derogada DOF 29-06-2005 III. Suspensión de empleo o comisión militar, y Fracción reformada DOF 29-06-2005 IV. Destitución de empleo.
-Fracción reformada DOF 29-06-2005 V. (Se deroga).
+Fracción reformada DOF 29-06-2005
+
+II. (Se deroga).
+Fracción derogada DOF 29-06-2005
+
+III. Suspensión de empleo o comisión militar, y Fracción reformada DOF 29-06-2005
+
+IV. Destitución de empleo.
+Fracción reformada DOF 29-06-2005
+
+V. (Se deroga).
 Fracción derogada DOF 29-06-2005
 
 ### Artículo 122
@@ -1018,7 +1318,9 @@ TÍTULO TERCERO Aplicación, Substitución y Reducción de las Penas Denominaci�
 .- Se prohíbe imponer por simple analogía y aun por mayoría de razón, pena alguna que no esté decretada en una ley aplicable exactamente al delito de que se trate, y que estuviere vigente cuando éste se cometió. Se exceptúan en favor del sentenciado los casos siguientes:
 Párrafo reformado DOF 13-06-2014 I.- Cuando entre la perpetración del delito y la sentencia irrevocable que sobre él se pronuncie, se promulgasen una o más leyes que disminuyan la pena establecida en otra ley vigente al cometerse el delito, o la substituyan con otra menor, se aplicará la nueva ley;
 II.- Cuando pronunciada una sentencia irrevocable en que se haya impuesto una pena privativa de libertad, se dictare una ley que sólo disminuya la duración de la pena, si el sentenciado lo pidiere y se hallare en el caso de la nueva ley, se reducirá la pena impuesta, en la misma proporción en que estén el mínimo de la señalada en la ley anterior y el de la señalada en la posterior;
-Fracción reformada DOF 29-06-2005, 13-06-2014 III. (Se deroga).
+Fracción reformada DOF 29-06-2005, 13-06-2014
+
+III. (Se deroga).
 Fracción derogada DOF 29-06-2005 IV.- cuando una ley quite a un hecho u omisión el carácter de delito que otra anterior le daba, se pondrá en absoluta libertad a quienes se estuviere juzgando, así como a los sentenciados que se hallen cumpliendo sus condenas y cesarán de pleno derecho todos los efectos que éstas y los procesos debieran producir en lo futuro.
 
 ### Artículo 146
@@ -1040,7 +1342,9 @@ Artículo reformado DOF 13-06-2014, 16-07-2025
 
 ### Artículo 151
 .- Siempre que a determinado responsable de un delito se hubiere de imponer una pena que le resulte inaplicable por ser incompatible alguna de las circunstancias de ella con las personales de la persona sentenciada o se hubiere de imponer una parte proporcional de alguna pena indivisible, se observará lo siguiente:
-Párrafo reformado DOF 29-06-2005, 13-06-2014, 16-07-2025 I. (Se deroga).
+Párrafo reformado DOF 29-06-2005, 13-06-2014, 16-07-2025
+
+I. (Se deroga).
 Fracción derogada DOF 29-06-2005 II.- Si la pena fuere la de suspensión de empleo o comisión o la de destitución de empleo, se aplicará proporcionalmente la de prisión, computada conforme a la mitad de la duración que hubieren debido tener la suspensión o la inhabilitación para volver a pertenecer a la Fuerza Armada Permanente.
 Fracción reformada DOF 16-07-2025
 
@@ -1071,6 +1375,7 @@ Fe de erratas al artículo DOF 27-09-1933. Reformado DOF 16-07-2025 CAPITULO III
 
 ### Artículo 157
 .- Los delitos de imprudencia, cuando este Código no señale pena determinada, se castigarán:
+
 I. Con tres años de prisión cuando el delito, de ser intencional, tuviere señalada pena de treinta a sesenta años;
 Fracción reformada DOF 29-06-2005 II.- con un año de prisión si el delito, de ser intencional, estuviere penado con la destitución de empleo;
 III.- con una tercera parte del tiempo de suspensión de empleo o comisión que tuviese fijado para el delito, de ser intencional, y IV.- en cualquier otro caso con prisión de dieciséis días a dos años al arbitrio del juez, quien tomará en cuenta para la fijación de la pena, la mayor o menor facilidad de prever y evitar el daño causado; si bastaban para esto una reflexión o atención ordinarias y conocimientos comunes en algún arte o ciencia; si los acusados han delinquido anteriormente en circunstancias semejantes, y si tuvieron tiempo para obrar con la reflexión y el cuidado necesarios.
@@ -1213,8 +1518,11 @@ Artículo reformado DOF 16-07-2025
 .- Las acciones penales prescribirán en los plazos siguientes:
 I.- En un año si el término medio de la pena privativa de la libertad fuere menor de ese tiempo o fuere la de suspensión de empleo o comisión;
 II.- en tres años si el término medio de la pena de prisión fuere de un año o más, sin exceder de tres; o si la acción naciere de delito que tenga señalada como única pena la de destitución de empleo;
+
 III. En un tiempo igual al término medio de la pena si éste debiere exceder de tres años.
-Fracción reformada DOF 29-06-2005 IV. (Se deroga).
+Fracción reformada DOF 29-06-2005
+
+IV. (Se deroga).
 Fracción derogada DOF 29-06-2005
 
 ### Artículo 191
@@ -1242,8 +1550,11 @@ Artículo reformado DOF 13-06-2014
 
 ### Artículo 197
 .- Las penas prescribirán en los siguientes plazos:
+
 I. (Se deroga).
-Fracción derogada DOF 29-06-2005 II. En un término igual al de su duración, más una cuarta parte de la pena impuesta, y Fracción reformada DOF 29-06-2005 III.- En un tiempo igual al que falte de la condena, más una cuarta parte, cuando el sentenciado hubiere cumplido parcialmente aquélla.
+Fracción derogada DOF 29-06-2005
+
+II. En un término igual al de su duración, más una cuarta parte de la pena impuesta, y Fracción reformada DOF 29-06-2005 III.- En un tiempo igual al que falte de la condena, más una cuarta parte, cuando el sentenciado hubiere cumplido parcialmente aquélla.
 Fracción reformada DOF 13-06-2014 Reforma DOF 29-06-2005: Derogó del artículo el entonces último párrafo
 
 ### Artículo 198
@@ -1654,8 +1965,12 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 274
 .- Siempre que tres o más personas militares reunidas cometieren simultáneamente alguno de los delitos consignados en este capítulo, se observará lo que a continuación se expresa:
-Párrafo reformado DOF 16-07-2025 I. A los que en el caso de haber cometido el delito aisladamente, hubiere debido aplicársele pena de treinta a sesenta años de prisión, se les impondrá ésta;
-Fracción reformada DOF 29-06-2005 II.- A los que en ese mismo caso hubiere debido imponérseles una privativa de libertad, sola o reunida a otra de distinta especie, se les impondrá el máximo de aquélla aumentada en una cuarta parte de su duración, y las demás que hubiere debido imponérseles en el caso indicado, y Fracción reformada DOF 16-07-2025 III. Al que hubiere encabezado la reunión o grupo si fuere individuo de tropa se le castigará con la pena de trece años de prisión, siempre que conforme a lo prevenido en la fracción I, no debiere imponérsele pena de treinta a sesenta años de prisión; pero si fuere oficial o el delito se hubiere cometido en campaña, se le aplicará en todo caso esa última pena.
+Párrafo reformado DOF 16-07-2025
+
+I. A los que en el caso de haber cometido el delito aisladamente, hubiere debido aplicársele pena de treinta a sesenta años de prisión, se les impondrá ésta;
+Fracción reformada DOF 29-06-2005 II.- A los que en ese mismo caso hubiere debido imponérseles una privativa de libertad, sola o reunida a otra de distinta especie, se les impondrá el máximo de aquélla aumentada en una cuarta parte de su duración, y las demás que hubiere debido imponérseles en el caso indicado, y Fracción reformada DOF 16-07-2025
+
+III. Al que hubiere encabezado la reunión o grupo si fuere individuo de tropa se le castigará con la pena de trece años de prisión, siempre que conforme a lo prevenido en la fracción I, no debiere imponérsele pena de treinta a sesenta años de prisión; pero si fuere oficial o el delito se hubiere cometido en campaña, se le aplicará en todo caso esa última pena.
 Fracción reformada DOF 29-06-2005
 
 ### Artículo 275
@@ -1672,16 +1987,29 @@ Artículo adicionado DOF 16-11-2011. Reformado DOF 16-07-2025
 
 ### Artículo 275
 Ter.- Se aplicará la pena de prisión de quince a sesenta años y baja de la Fuerza Armada que corresponda, a la persona militar que:
-Párrafo reformado DOF 16-07-2025 I. Utilice la fuerza, embarcación, aeronave, o cualquier otro bien o recurso humano que tenga bajo su cargo o mando a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa;
+Párrafo reformado DOF 16-07-2025
+
+I. Utilice la fuerza, embarcación, aeronave, o cualquier otro bien o recurso humano que tenga bajo su cargo o mando a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
 II. Proporcione a cualquier miembro de la delincuencia organizada o asociación delictuosa, protección o facilidades en la plaza o puesto confiado a su cargo; así como adiestramiento, capacitación o conocimientos militares;
+
 III. Induzca al personal que tenga bajo su mando o a las tropas de las que forme parte, para que presten algún servicio a cualquier miembro de la delincuencia organizada o asociación delictuosa, o reclute personal militar para el mismo fin;
+
 IV. Proporcione a cualquier miembro de la delincuencia organizada o asociación delictuosa, información a la que tenga acceso con motivo del ejercicio de su cargo o comisión;
+
 V. Incumpla con sus obligaciones, respecto de las tropas a su cargo, para actuar contra cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
 VI. Obstaculice las acciones de las fuerzas armadas o autoridad competente, en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
 VII. No ejecute una orden del servicio o la modifique de propia autoridad, en ambos casos, para favorecer a cualquier miembro de la delincuencia organizada o asociación delictuosa;
+
 VIII. Falsifique o altere un documento o instrumento que contenga información relativa a las operaciones de las Fuerzas Armadas o autoridad competente en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa, o a sabiendas de que se trata de documentos o instrumentos falsificados o alterados, haga uso de ellos;
+
 IX. Proporcione a sus superiores información diferente a la que conozca acerca de las actividades que esté desarrollando en las Fuerzas Armadas en contra de cualquier miembro de la delincuencia organizada o asociación delictuosa, u omita proporcionar los datos que tenga sobre dichas actividades, así como de los proyectos o movimientos de éstos;
-X. Conduzca o guíe las actividades de cualquier miembro de la delincuencia organizada o asociación delictuosa, y XI. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa, o proteja o facilite su fuga.
+
+X. Conduzca o guíe las actividades de cualquier miembro de la delincuencia organizada o asociación delictuosa, y
+
+XI. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa, o proteja o facilite su fuga.
 Las penas previstas en este capítulo se impondrán además de las que correspondan a los delitos que resulten cometidos por las actividades del individuo u organización delictiva de que se trate.
 Para los efectos de este capítulo, se entenderá por Fuerzas Armadas Mexicanas, a las instituciones armadas de la Unión, a saber: Ejército, Armada, Fuerza Aérea y Guardia Nacional.
 Párrafo reformado DOF 16-07-2025 Para los efectos de este capítulo se entenderá por delincuencia organizada la prevista en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada y por asociación delictuosa, la prevista en el Artículo adicionado DOF 16-11-2011 CAPITULO V Inutilización voluntaria para el servicio
@@ -1700,7 +2028,9 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 279
 .- Quien cometa violencia contra cualquiera de los individuos mencionados en el artículo anterior, será sancionado:
-Párrafo reformado DOF 29-06-2005, 16-07-2025 I. Con pena de treinta a sesenta años de prisión si hiciere uso de armas, y Fracción reformada DOF 29-06-2005 II.- Con la pena de cinco años de prisión, si la violencia se cometiere sin hacer uso de armas.
+Párrafo reformado DOF 29-06-2005, 16-07-2025
+
+I. Con pena de treinta a sesenta años de prisión si hiciere uso de armas, y Fracción reformada DOF 29-06-2005 II.- Con la pena de cinco años de prisión, si la violencia se cometiere sin hacer uso de armas.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 280
@@ -1715,7 +2045,9 @@ Artículo reformado DOF 16-07-2025 CAPITULO VIII Falsa Alarma
 ### Artículo 282
 .- Quien intencionalmente ocasione una falsa alarma, o que en marcha o en campamento, guarnición, cuartel o dependencia cause intencionalmente una confusión o desorden en la tropa y sus equivalentes en la Armada o en las formaciones de los buques, o aeronaves, en las dotaciones o en la población donde las fuerzas estuvieren, será sancionado:
 Párrafo reformado DOF 16-07-2025 I.- Con seis meses de prisión en tiempo de paz;
-II.- Con un año de prisión estando en campaña, y Fracción reformada DOF 16-07-2025 III. Con pena de treinta a sesenta años de prisión, si estando frente al enemigo, se hubiere causado daño a las tropas, embarcaciones o aeronaves.
+II.- Con un año de prisión estando en campaña, y Fracción reformada DOF 16-07-2025
+
+III. Con pena de treinta a sesenta años de prisión, si estando frente al enemigo, se hubiere causado daño a las tropas, embarcaciones o aeronaves.
 Fracción reformada DOF 29-06-2005 TITULO NOVENO Delitos contra la jerarquía y la autoridad CAPITULO I Insubordinación
 
 ### Artículo 283
@@ -1736,7 +2068,9 @@ Fracción reformada DOF 16-07-2025 IV.- Con seis años de prisión si causare un
 Fracción reformada DOF 16-07-2025 V.- Con siete años de prisión cuando la enfermedad pase de quince días y sea temporal;
 Fracción reformada DOF 16-07-2025 VI.- Con ocho años de prisión cuando quede al ofendido una cicatriz en la cara perpetuamente notable, o se le disminuya la facultad de oír, se le debilite para siempre la vista, o se le entorpezca o debilite permanentemente una mano, un pie, un brazo o una pierna o cualquier otro órgano, el uso de la palabra o alguna de las facultades mentales;
 Fracción reformada DOF 16-07-2025 VII.- Con nueve años de prisión, cuando resulte una enfermedad seguramente incurable, la inutilización completa o la pérdida de un ojo o de la facultad de oír, de un brazo, de una mano, de una pierna, de un pie, o de cualquier otro órgano, o cuando el individuo quede con una deformidad perpetuamente notable en parte visible. Si la deformidad fuere en la cara, se tendrá esta circunstancia como agravante;
-Fracción reformada DOF 16-07-2025 VIII.- Con diez años de prisión cuando resulte incapacidad permanente para trabajar, enajenación mental, pérdida de la vista, o del habla, o de las funciones sexuales, y Fracción reformada DOF 16-07-2025 IX. Con pena de treinta a sesenta años de prisión cuando se causare la muerte del superior.
+Fracción reformada DOF 16-07-2025 VIII.- Con diez años de prisión cuando resulte incapacidad permanente para trabajar, enajenación mental, pérdida de la vista, o del habla, o de las funciones sexuales, y Fracción reformada DOF 16-07-2025
+
+IX. Con pena de treinta a sesenta años de prisión cuando se causare la muerte del superior.
 Fracción reformada DOF 29-06-2005 Cuando las lesiones hayan puesto en peligro la vida del ofendido, se agregarán dos años a las penas de prisión fijadas en las fracciones IV a VIII.
 
 ### Artículo 286
@@ -1801,7 +2135,9 @@ II.- Con dos años de prisión, si fuere de las clasificadas en la fracción V;
 Fracción reformada DOF 16-07-2025 III.- Con cuatro años de prisión, si fuere de las mencionadas en la fracción VI;
 Fracción reformada DOF 16-07-2025 IV.- Con seis años y seis meses de prisión, si se tratare de las que cita la fracción VII;
 Fracción reformada DOF 16-07-2025 V.- Con ocho años de prisión, si fuere de las expresadas en la fracción VIII;
-Fracción reformada DOF 16-07-2025 VI.- Con diez años y seis meses de prisión, si resultare homicidio simple, y Fracción reformada DOF 16-07-2025 VII. Con pena de treinta a sesenta años de prisión si resultare homicidio calificado.
+Fracción reformada DOF 16-07-2025 VI.- Con diez años y seis meses de prisión, si resultare homicidio simple, y Fracción reformada DOF 16-07-2025
+
+VII. Con pena de treinta a sesenta años de prisión si resultare homicidio calificado.
 Fracción reformada DOF 29-06-2005 Cuando las lesiones hayan puesto en peligro la vida del ofendido, se agregarán dos años a las penas de prisión fijadas en las fracciones I a V.
 Fe de erratas al párrafo DOF 27-09-1933
 
@@ -1820,7 +2156,9 @@ Artículo reformado DOF 16-07-2025
 ### Artículo 303
 .- La desobediencia en actos del servicio será sancionada con un año de prisión, excepto en los casos siguientes:
 Párrafo reformado DOF 16-07-2025 I.- Cuando ocasione un mal grave que se sancionará con dos años de prisión;
-Fracción reformada DOF 16-07-2025 II.- Cuando fuere cometida en campaña, que se sancionará con cinco años de prisión, y si resultare perjuicio a las operaciones militares, con diez años de prisión, y Fracción reformada DOF 16-07-2025 III. Cuando se efectúe frente al enemigo, marchando a encontrarlo, esperándolo a la defensiva, persiguiéndolo o durante la retirada, se impondrá pena de treinta a sesenta años de prisión.
+Fracción reformada DOF 16-07-2025 II.- Cuando fuere cometida en campaña, que se sancionará con cinco años de prisión, y si resultare perjuicio a las operaciones militares, con diez años de prisión, y Fracción reformada DOF 16-07-2025
+
+III. Cuando se efectúe frente al enemigo, marchando a encontrarlo, esperándolo a la defensiva, persiguiéndolo o durante la retirada, se impondrá pena de treinta a sesenta años de prisión.
 Fracción reformada DOF 29-06-2005
 
 ### Artículo 304
@@ -1832,7 +2170,9 @@ Fracción reformada DOF 16-07-2025 CAPITULO IV Asonada
 
 ### Artículo 305
 .- El personal militar que, en grupo de cinco, por lo menos, o sin llegar a ese número cuando forme la mitad o más de una fuerza aislada, rehúse obedecer las órdenes de un superior, las resista o recurra a vías de hecho para impedirlas, serán sancionados:
-Párrafo reformado DOF 16-07-2025 I.- Con diez años de prisión los promovedores, instigadores o cabecillas del delito y con cinco años de prisión, los que hubieren secundado a los anteriores, si el delito se cometiere en tiempo de paz, y II. Con pena de treinta a sesenta años de prisión, a todos los promovedores, instigadores o cabecillas de la asonada, de cabos en adelante, y con doce años de prisión los soldados, si el delito se cometiere en campaña.
+Párrafo reformado DOF 16-07-2025 I.- Con diez años de prisión los promovedores, instigadores o cabecillas del delito y con cinco años de prisión, los que hubieren secundado a los anteriores, si el delito se cometiere en tiempo de paz, y
+
+II. Con pena de treinta a sesenta años de prisión, a todos los promovedores, instigadores o cabecillas de la asonada, de cabos en adelante, y con doce años de prisión los soldados, si el delito se cometiere en campaña.
 Fracción reformada DOF 29-06-2005
 
 ### Artículo 306
@@ -1867,7 +2207,10 @@ Párrafo reformado DOF 29-06-2005
 ### Artículo 312
 .- El abandono de puesto se sancionará:
 Párrafo reformado DOF 16-07-2025 I.- Con la pena de doce años de prisión cuando el comandante de un buque o encargado de un puesto, defendiéndose en cualquiera de ellos, lo abandone o pierda, sin haber hecho todo lo posible para conservarlo y mantener el honor de las armas;
-II. Con pena de treinta a sesenta años de prisión, cuando el comandante de un puesto o buque, que habiendo recibido orden absoluta de defenderlo a toda costa, lo abandone o no haga la defensa que se le hubiere ordenado, y Fracción reformada DOF 29-06-2005 III. Con pena de treinta a sesenta años de prisión, cuando el militar abandone el puesto que tuviere señalado para defenderlo o para observar al enemigo.
+
+II. Con pena de treinta a sesenta años de prisión, cuando el comandante de un puesto o buque, que habiendo recibido orden absoluta de defenderlo a toda costa, lo abandone o no haga la defensa que se le hubiere ordenado, y Fracción reformada DOF 29-06-2005
+
+III. Con pena de treinta a sesenta años de prisión, cuando el militar abandone el puesto que tuviere señalado para defenderlo o para observar al enemigo.
 Fracción reformada DOF 29-06-2005
 
 ### Artículo 313
@@ -1905,7 +2248,9 @@ Fracción reformada DOF 29-06-2005, 16-07-2025
 
 ### Artículo 319
 .- El personal de la Armada de México de un buque o convoy, que lo abandone sin motivo poderoso ni justificado, se le impondrá la pena:
-Párrafo reformado DOF 16-07-2025 I. De treinta a sesenta años de prisión, si el escoltado fuere buque de la armada o convoy o buque mercante que transporte tropas, efectos militares, víveres, combustible, pertrechos de guerra o caudales del Estado, y si por el abandono fueren apresados o destruidos por el enemigo, alguno o todos los buques;
+Párrafo reformado DOF 16-07-2025
+
+I. De treinta a sesenta años de prisión, si el escoltado fuere buque de la armada o convoy o buque mercante que transporte tropas, efectos militares, víveres, combustible, pertrechos de guerra o caudales del Estado, y si por el abandono fueren apresados o destruidos por el enemigo, alguno o todos los buques;
 Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 29-06-2005 II.- De diez años de prisión si no fuere apresado ni destruido por el enemigo ningún buque de los convoyados, o si no transportare tropas ni efectos de los que expresa la fracción anterior;
 Fracción reformada DOF 16-07-2025 III.- De once años de prisión, si por el abandono resultare naufragio, y la pérdida de toda o parte de la tripulación, tropas o efectos, y Fracción reformada DOF 16-07-2025 IV.- De siete meses de prisión y destitución de empleo, en todos los demás casos.
 Fracción reformada DOF 16-07-2025
@@ -1924,7 +2269,9 @@ Artículo reformado DOF 16-07-2025 CAPITULO II Extralimitación y usurpación de
 ### Artículo 323
 .- Quien indebidamente asuma o retenga un mando o comisión del servicio o ejerza funciones de éste que no le correspondan, será sancionado:
 Párrafo reformado DOF 16-07-2025 I.- Con la pena de tres años y seis meses de prisión, si no se ocasionare perjuicio grave en el servicio;
-II.- Con la pena de siete años de prisión si causa perjuicio grave, y Fracción reformada DOF 16-07-2025 III. Con pena de treinta a sesenta años de prisión si ocasionare perjuicio grave en el servicio, se cometiere este delito frente al enemigo, en marcha hacia él, esperándolo a la defensiva, bajo su persecución o durante la retirada.
+II.- Con la pena de siete años de prisión si causa perjuicio grave, y Fracción reformada DOF 16-07-2025
+
+III. Con pena de treinta a sesenta años de prisión si ocasionare perjuicio grave en el servicio, se cometiere este delito frente al enemigo, en marcha hacia él, esperándolo a la defensiva, bajo su persecución o durante la retirada.
 Fracción reformada DOF 29-06-2005 CAPITULO III Maltrato a prisioneros, detenidos o presos y heridos
 
 ### Artículo 324
@@ -1992,7 +2339,9 @@ Artículo adicionado DOF 13-06-2014 TITULO DECIMOPRIMERO Delitos contra el deber
 
 ### Artículo 338
 .- Quien revele un asunto que se le hubiere confiado como del servicio, y que por su propia naturaleza o por circunstancias especiales deba tener el carácter de reservado, o sobre el cual se le tuviere prevenido reserva, o que encargado de llevar una orden por escrito u otra comunicación recomendadas especialmente a su vigilancia, las extravíe por no haber cuidado escrupulosamente de ellas, o no las entregue a la persona a quien fueren dirigidas o no intentare destruirlas de cualquier modo y a cualquiera costa cuando estuviere en peligro de caer prisionero o ser sorprendido, se le sancionará:
-Párrafo reformado DOF 16-07-2025 I.- Si se hubiere cometido en tiempo de paz, con la pena de dos años de prisión; en el caso de revelación de asuntos militares y en el de extravío o falta de entrega de una orden o comunicación, con la de tres meses de prisión, y Fe de erratas a la fracción DOF 27-09-1933 II. Si el delito se hubiere efectuado en campaña y con este motivo hubiere resultado grave daño al Ejército, a una parte de él, a un buque o aeronave, con pena de treinta a sesenta años de prisión.
+Párrafo reformado DOF 16-07-2025 I.- Si se hubiere cometido en tiempo de paz, con la pena de dos años de prisión; en el caso de revelación de asuntos militares y en el de extravío o falta de entrega de una orden o comunicación, con la de tres meses de prisión, y Fe de erratas a la fracción DOF 27-09-1933
+
+II. Si el delito se hubiere efectuado en campaña y con este motivo hubiere resultado grave daño al Ejército, a una parte de él, a un buque o aeronave, con pena de treinta a sesenta años de prisión.
 Fracción reformada DOF 29-06-2005 Si no hubiere resultado grave daño, con la de cuatro años de prisión.
 
 ### Artículo 339
@@ -2123,7 +2472,9 @@ Artículo reformado DOF 29-06-2005, 16-07-2025
 .- La persona comandante de buque subordinado o cualquier oficial que se separe maliciosamente con su embarcación del grupo, escuadra o división a que pertenezca, será sancionada:
 Fe de erratas al párrafo DOF 27-09-1933. Reformado DOF 16-07-2025 I.- Con destitución o suspensión de empleo o comisión por cinco años en tiempo de paz, si no resultare algún daño al grupo, escuadra o división o a sus tripulantes; en caso contrario se impondrá la pena de seis años de prisión;
 Fe de erratas a la fracción DOF 27-09-1933 II.- Con siete años de prisión, en campaña de guerra;
-Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025 III.- Con trece años de prisión, frente al enemigo, y Fracción reformada DOF 16-07-2025 IV. Con pena de treinta a sesenta años de prisión cuando en los casos de estas dos últimas fracciones resultare algún daño al grupo, escuadra o división o a sus tripulantes, o si se ocasionare la pérdida del combate.
+Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 16-07-2025 III.- Con trece años de prisión, frente al enemigo, y Fracción reformada DOF 16-07-2025
+
+IV. Con pena de treinta a sesenta años de prisión cuando en los casos de estas dos últimas fracciones resultare algún daño al grupo, escuadra o división o a sus tripulantes, o si se ocasionare la pérdida del combate.
 Fe de erratas a la fracción DOF 27-09-1933. Reformada DOF 29-06-2005
 
 ### Artículo 365
@@ -4614,12 +4965,19 @@ Sentencias”, que comprende los artículos 30 Sextus y 30 Septimus; un nuevo Ca
 
 ### ARTÍCULO SEGUNDO
 En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
+
 I. El presente Decreto entrará en vigor a los 30 días naturales después de su publicación en el Diario Oficial de la Federación.
+
 II. Las erogaciones que deriven de la aplicación del presente Decreto, serán realizadas mediante movimientos compensados, por lo que las Secretarias de la Defensa Nacional y de Marina deberán sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y los subsecuentes.
+
 III. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
 IV. Los procedimientos penales relacionados con presuntos delitos contra la disciplina militar que hayan sido iniciados antes de la entrada en vigor del presente Decreto, serán tramitados y concluidos conforme a las disposiciones aplicables al momento de la comisión de los hechos probablemente delictivos.
+
 V. Las disposiciones relativas a la ejecución de sentencias, quedarán derogadas, una vez que entre en vigor la legislación en materia de Ejecución de Sentencias, que apruebe el Congreso de la Unión.
+
 VI. Se abroga la Ley Orgánica de los Tribunales Militares publicada en el Diario Oficial de la Federación el 22 de junio de 1929.
+
 VII. Todas las referencias que en este Código y demás ordenamientos se hagan al Supremo Tribunal Militar; a la Procuraduría General de Justicia Militar y al Cuerpo de Defensores de Oficio se entenderán hechas al Tribunal Superior Militar; a la Fiscalía General de Justicia Militar y a la Defensoría de Oficio Militar.
 
 ### ARTÍCULO TERCERO
@@ -4629,19 +4987,27 @@ Se expide el Código Militar de Procedimientos Penales.
 Se expide el Código Militar de Procedimientos Penales. ……… Disposiciones transitorias
 
 ### ARTÍCULO CUARTO
-En relación con la expedición del Código Militar de Procedimientos Penales a que se refiere el Artículo Tercero del presente Decreto, se estará a lo siguiente I. Declaratoria e inicio de vigencia.
+En relación con la expedición del Código Militar de Procedimientos Penales a que se refiere el Artículo Tercero del presente Decreto, se estará a lo siguiente
+
+I. Declaratoria e inicio de vigencia.
 Para los efectos señalados en el párrafo tercero del artículo segundo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008, se declara que la presente legislación incorpora el sistema procesal penal acusatorio y entrará en vigor a los 30 días naturales después de su publicación en el Diario Oficial de la Federación.
+
 II. Aplicación.
 Sus disposiciones se aplicarán a hechos que ocurran a partir de las cero horas de su entrada en vigor.
+
 III. Derogación.
 El Código de Justicia Militar promulgado el día veintinueve de agosto de 1933 en el Diario Oficial de la Federación seguirá rigiendo, en lo conducente, a los procedimientos iniciados con anterioridad a la aplicación del presente Código, así como los preceptos de la normativa militar que se opongan a las disposiciones de este Ordenamiento.
 Las averiguaciones previas, procesos y recursos que se refiere a hechos ocurridos antes de la entrada en vigor del presente Código, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Justicia Militar que se derogan.
+
 IV. Delitos permanentes y continuados.
 Los procedimientos penales relativos a hechos delictuosos de carácter permanente o continuado que iniciaron bajo la vigencia del aludido Código de Justicia Militar de 1933 y que continúen desarrollándose estando vigente ya el presente Código, serán regulados por el segundo de los ordenamientos citados en este artículo.
+
 V. Prohibición de acumulación de procesos.
 No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al Código de Justicia Militar de 1933.
+
 VI. Recursos.
 Las erogaciones que deriven de la aplicación del presente Decreto, serán realizadas mediante movimientos compensados, por lo que las Secretarías de la Defensa Nacional y de Marina deberán sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y los subsecuentes.
+
 VII. Convenios para supervisión de medidas cautelares y condiciones de la suspensión condicional del proceso.
 En tanto se crean las Unidades Administrativas de supervisión de medidas cautelares y de suspensión condicional del proceso; la Secretaría de la Defensa Nacional podrá celebrar convenios con las autoridades federales y estatales encargadas de ésta actividad para que asuma la supervisión y vigilancia de los imputados o acusados en la jurisdicción militar sujetos a estas medidas.
 

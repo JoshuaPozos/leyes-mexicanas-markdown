@@ -127,8 +127,13 @@ Artículo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025
 ### Artículo 24
 Quáter.- Los correctivos disciplinarios se clasifican en:
 I.- Amonestación;
+
 II. Arresto;
-Fracción reformada DOF 16-07-2025 III. Cambio de unidad, dependencia, instalación o comisión en observación de su conducta, determinado por el Consejo de Honor, y Fracción reformada DOF 16-07-2025 IV. Suspensión hasta por treinta días naturales, dictaminada por el Consejo de Honor o por el Consejo Superior de Disciplina.
+Fracción reformada DOF 16-07-2025
+
+III. Cambio de unidad, dependencia, instalación o comisión en observación de su conducta, determinado por el Consejo de Honor, y Fracción reformada DOF 16-07-2025
+
+IV. Suspensión hasta por treinta días naturales, dictaminada por el Consejo de Honor o por el Consejo Superior de Disciplina.
 Fracción adicionada DOF 16-07-2025 Artículo adicionado DOF 10-12-2004
 
 ### Artículo 24
@@ -185,8 +190,14 @@ Artículo reformado DOF 10-12-2004
 
 ### Artículo 33
 Bis.- Tienen facultad para graduar arrestos:
-I.- El Secretario, Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, y II.- En las tropas a su mando: a) Los Comandantes del Ejército, de la Fuerza Aérea y de la Guardia Nacional, los Comandantes de Mandos Territoriales, de Unidades y Organismos Circunstanciales; así como, los Coordinadores Territoriales, Estatales y de Unidad de nivel Batallón y Grupos Especializados, Jefes y Oficiales Comandantes de Unidades destacamentadas;
-Inciso reformado DOF 16-07-2025 b) Los Directores Generales de las Armas y Servicios, y c) Los Directores y Jefes de Dependencias e Instalaciones.
+I.- El Secretario, Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, y II.- En las tropas a su mando:
+
+a) Los Comandantes del Ejército, de la Fuerza Aérea y de la Guardia Nacional, los Comandantes de Mandos Territoriales, de Unidades y Organismos Circunstanciales; así como, los Coordinadores Territoriales, Estatales y de Unidad de nivel Batallón y Grupos Especializados, Jefes y Oficiales Comandantes de Unidades destacamentadas;
+Inciso reformado DOF 16-07-2025
+
+b) Los Directores Generales de las Armas y Servicios, y
+
+c) Los Directores y Jefes de Dependencias e Instalaciones.
 En ausencia de los anteriores, la facultad recaerá en quien los suceda en el mando o cargo.
 Artículo adicionado DOF 10-12-2004
 
@@ -227,9 +238,12 @@ VI.- De todo lo que concierne a la dignidad militar.
 .- El Consejo de Honor tiene facultades para:
 I.- Acordar las notas que hayan de ponerse en las Hojas de Servicios de los Oficiales, y en el Memorial de Servicios de los individuos de tropa.
 II.- Dictaminar sobre los castigos correccionales que deban imponerse desde Capitán 1o. hasta el Soldado, por faltas, cuyo conocimiento sea de la competencia de este Consejo.
+
 III. Acordar se solicite la baja del Ejército, Fuerza Aérea y Guardia Nacional por determinación de mala conducta, para el personal de Tropa y discentes del Sistema Educativo Militar;
 Fracción reformada DOF 11-12-1995, 10-12-2004, 03-05-2024, 16-07-2025 IV.- Turnar al Ministerio Público, las constancias respectivas en los casos en que determine que es competencia de los tribunales correspondientes.
-Fracción adicionada DOF 11-12-1995 V. Acordar se solicite la suspensión hasta por treinta días del empleo por determinación de mala conducta al personal de Oficiales y Tropa del Ejército, Fuerza Aérea y Guardia Nacional.
+Fracción adicionada DOF 11-12-1995
+
+V. Acordar se solicite la suspensión hasta por treinta días del empleo por determinación de mala conducta al personal de Oficiales y Tropa del Ejército, Fuerza Aérea y Guardia Nacional.
 Fracción adicionada DOF 16-07-2025 En el caso de las fracciones III y V se otorgará al militar un plazo de quince días naturales para que manifieste lo que a su interés convenga.
 Párrafo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025
 
@@ -242,16 +256,28 @@ Artículo adicionado DOF 16-07-2025
 
 ### Artículo 36
 Ter.- El Consejo Superior de Disciplina está integrado por:
+
 I. Presidente: La persona titular de la Subsecretaría de la Defensa Nacional;
+
 II. Primera vocalía: La persona titular de la Oficialía Mayor de la Secretaría de la Defensa Nacional;
+
 III. Segunda vocalía: La persona titular de la Inspección y Contraloría del Ejército, Fuerza Aérea y Guardia Nacional;
+
 IV. Tercera vocalía: La persona titular de la Jefatura del Estado Mayor Conjunto de la Defensa Nacional;
+
 V. Cuarta vocalía: La persona titular de la Comandancia del Ejército Mexicano;
+
 VI. Quinta vocalía: La persona titular de la Comandancia de la Fuerza Aérea Mexicana;
+
 VII. Sexta vocalía: La persona titular de la Comandancia de la Guardia Nacional;
+
 VIII. Secretaría del Consejo: La persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional;
+
 IX. Secretaría Adjunta del Consejo: La persona titular de la Jefatura de la Sección Primera (Recursos Humanos) del Estado Mayor Conjunto de la Defensa Nacional;
-X. Primera asesoría: La persona titular de la Unidad de Asuntos Jurídicos de la Secretaría de la Defensa Nacional, y XI. Segunda asesoría: La persona titular de la Asesoría Jurídica del Estado Mayor Conjunto de la Defensa Nacional.
+
+X. Primera asesoría: La persona titular de la Unidad de Asuntos Jurídicos de la Secretaría de la Defensa Nacional, y
+
+XI. Segunda asesoría: La persona titular de la Asesoría Jurídica del Estado Mayor Conjunto de la Defensa Nacional.
 Artículo adicionado DOF 16-07-2025
 
 ### Artículo 36

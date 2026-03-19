@@ -64,12 +64,19 @@ Sección Segunda De los Ejidatarios y Avecindados
 
 ### Artículo 15
 .- Para poder adquirir la calidad de ejidatario se requiere:
-I. Ser mexicano mayor de edad o de cualquier edad si tiene familia a su cargo o se trate de heredero de ejidatario; y II. Ser avecindado del ejido correspondiente, excepto cuando se trate de un heredero, o cumplir con los requisitos que establezca cada ejido en su reglamento interno.
+
+I. Ser mexicano mayor de edad o de cualquier edad si tiene familia a su cargo o se trate de heredero de ejidatario; y
+
+II. Ser avecindado del ejido correspondiente, excepto cuando se trate de un heredero, o cumplir con los requisitos que establezca cada ejido en su reglamento interno.
 
 ### Artículo 16
 .- La calidad de ejidatario se acredita:
+
 I. Con el certificado de derechos agrarios expedido por autoridad competente;
-II. Con el certificado parcelario o de derechos comunes; o III. Con la sentencia o resolución relativa del tribunal agrario.
+
+II. Con el certificado parcelario o de derechos comunes; o
+
+III. Con la sentencia o resolución relativa del tribunal agrario.
 
 ### Artículo 17
 .- El ejidatario tiene la facultad de designar a quien deba sucederle en sus derechos sobre la parcela y en los demás inherentes a su calidad de ejidatario, para lo cual bastará que el ejidatario formule una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia conforme al cual deba hacerse la adjudicación de derechos a su fallecimiento. Para ello podrá designar al cónyuge, a la concubina o concubinario, en su caso, a una de las hijas o uno de los hijos, a uno de los ascendientes o a cualquier otra persona.
@@ -77,10 +84,18 @@ Párrafo reformado DOF 08-03-2022 La lista de sucesión deberá ser depositada e
 
 ### Artículo 18
 .- Cuando el ejidatario no haya hecho designación de sucesores, o cuando ninguno de los señalados en la lista de herederos pueda heredar por imposibilidad material o legal, los derechos agrarios se transmitirán de acuerdo con el siguiente orden de preferencia:
+
 I. Al cónyuge;
+
 II. A la concubina o concubinario;
-LEY AGRARIA III. A una de las hijas o uno de los hijos del ejidatario;
-Fracción reformada DOF 08-03-2022 IV. A uno de sus ascendientes; y V. A cualquier otra persona de las que dependan económicamente de él.
+LEY AGRARIA
+
+III. A una de las hijas o uno de los hijos del ejidatario;
+Fracción reformada DOF 08-03-2022
+
+IV. A uno de sus ascendientes; y
+
+V. A cualquier otra persona de las que dependan económicamente de él.
 En los casos a que se refieren las fracciones III, IV y V, si al fallecimiento del ejidatario resultan dos o más personas con derecho a heredar, los herederos gozarán de tres meses a partir de la muerte del ejidatario para decidir quién, de entre ellos, conservará los derechos ejidales. En caso de que no se pusieran de acuerdo, el Tribunal Agrario proveerá la venta de dichos derechos ejidales en subasta pública y repartirá el producto, por partes iguales, entre las personas con derecho a heredar. En caso de igualdad de posturas en la subasta tendrá preferencia cualquiera de los herederos.
 
 ### Artículo 19
@@ -88,8 +103,11 @@ En los casos a que se refieren las fracciones III, IV y V, si al fallecimiento d
 
 ### Artículo 20
 .- La calidad de ejidatario se pierde:
+
 I. Por la cesión legal de sus derechos parcelarios y comunes;
+
 II. Por renuncia a sus derechos, en cuyo caso se entenderán cedidos en favor del núcleo de población;
+
 III. Por prescripción negativa, en su caso, cuando otra persona adquiera sus derechos en los términos del artículo 48 de esta ley.
 
 ### Artículo 20
@@ -99,8 +117,12 @@ Artículo adicionado DOF 22-06-2018 Sección Tercera De los Organos del Ejido
 
 ### Artículo 21
 .- Son órganos de los ejidos:
+
 I. La asamblea;
-II. El comisariado ejidal; y III. El consejo de vigilancia.
+
+II. El comisariado ejidal; y
+
+III. El consejo de vigilancia.
 
 ### Artículo 22
 .- El órgano supremo del ejido es la asamblea, en la que participan todos los ejidatarios.
@@ -109,20 +131,36 @@ LEY AGRARIA
 
 ### Artículo 23
 .- La asamblea se reunirá por lo menos una vez cada seis meses o con mayor frecuencia cuando así lo determine su reglamento o su costumbre. Serán de la competencia exclusiva de la asamblea los siguientes asuntos:
+
 I. Formulación y modificación del reglamento interno del ejido;
+
 II. Aceptación y separación de ejidatarios, así como sus aportaciones;
+
 III. Informes del comisariado ejidal y del consejo de vigilancia, así como la elección y remoción de sus miembros;
+
 IV. Cuentas o balances, aplicación de los recursos económicos del ejido y otorgamiento de poderes y mandatos;
+
 V. Aprobación de los contratos y convenios que tengan por objeto el uso o disfrute por terceros de las tierras de uso común;
+
 VI. Distribución de ganancias que arrojen las actividades del ejido;
+
 VII. Señalamiento y delimitación de las áreas necesarias para el asentamiento humano, fundo legal y parcelas con destino específico, así como la localización y relocalización del área de urbanización;
+
 VIII. Reconocimiento del parcelamiento económico o de hecho y regularización de tenencia de posesionarios;
+
 IX. Autorización a los ejidatarios para que adopten el dominio pleno sobre sus parcelas y la aportación de las tierras de uso común a una sociedad, en los términos del artículo 75 de esta ley;
+
 X. Delimitación, asignación y destino de las tierras de uso común así como su régimen de explotación;
+
 XI. División del ejido o su fusión con otros ejidos;
+
 XII. Terminación del régimen ejidal cuando, previo dictamen de la Procuraduría Agraria solicitado por el núcleo de población, se determine que ya no existen las condiciones para su permanencia;
+
 XIII. Conversión del régimen ejidal al régimen comunal;
-XIV. Instauración, modificación y cancelación del régimen de explotación colectiva; y XV. Los demás que establezca la ley y el reglamento interno del ejido.
+
+XIV. Instauración, modificación y cancelación del régimen de explotación colectiva; y
+
+XV. Los demás que establezca la ley y el reglamento interno del ejido.
 
 ### Artículo 24
 .- La asamblea podrá ser convocada por el comisariado ejidal o por el consejo de vigilancia, ya sea a iniciativa propia o si así lo solicitan al menos veinte ejidatarios o el veinte por ciento del total de ejidatarios que integren el núcleo de población ejidal. Si el comisariado o el consejo no lo hicieren en un plazo de cinco días hábiles a partir de la solicitud, el mismo número de ejidatarios podrá solicitar a la Procuraduría Agraria que convoque a la asamblea.
@@ -169,10 +207,15 @@ Artículo reformado DOF 25-04-2023
 
 ### Artículo 33
 .- Son facultades y obligaciones del comisariado:
+
 I. Representar al núcleo de población ejidal y administrar los bienes comunes del ejido, en los términos que fije la asamblea, con las facultades de un apoderado general para actos de administración y pleitos y cobranzas;
+
 II. Procurar que se respeten estrictamente los derechos de los ejidatarios;
+
 III. Convocar a la asamblea en los términos de la ley, así como cumplir los acuerdos que dicten las mismas;
+
 IV. Dar cuenta a la asamblea de las labores efectuadas y del movimiento de fondos, así como informar a ésta sobre los trabajos de aprovechamiento de las tierras de uso común y el estado en que éstas se encuentren;
+
 V. Las demás que señalen la ley y el reglamento interno del ejido.
 
 ### Artículo 34
@@ -184,9 +227,14 @@ LEY AGRARIA
 
 ### Artículo 36
 .- Son facultades y obligaciones del consejo de vigilancia:
+
 I. Vigilar que los actos del comisariado se ajusten a los preceptos de la ley y a lo dispuesto por el reglamento interno o la asamblea;
+
 II. Revisar las cuentas y operaciones del comisariado a fin de darlas a conocer a la asamblea y denunciar ante ésta las irregularidades en que haya incurrido el comisariado;
-III. Convocar a asamblea cuando no lo haga el comisariado; y IV. Las demás que señalen la ley y el reglamento interno del ejido.
+
+III. Convocar a asamblea cuando no lo haga el comisariado; y
+
+IV. Las demás que señalen la ley y el reglamento interno del ejido.
 
 ### Artículo 37
 .- Las personas integrantes del comisariado y del consejo de vigilancia, así como sus suplentes, serán electas en asamblea. El voto será secreto y el escrutinio público e inmediato. En caso de que la votación se empate, se repetirá ésta y si volviere a empatarse se asignarán los puestos por sorteo entre las personas que hubiesen obtenido el mismo número de votos.
@@ -209,10 +257,16 @@ LEY AGRARIA La integración y funcionamiento de las juntas de pobladores se dete
 
 ### Artículo 42
 .- Son atribuciones y obligaciones de las juntas de pobladores:
+
 I. Opinar sobre los servicios sociales y urbanos ante las autoridades municipales; proponer las medidas para mejorarlos; sugerir y coadyuvar en la tramitación de las medidas sugeridas;
+
 II. Informar en conjunto con el comisariado ejidal a las autoridades municipales sobre el estado que guarden las escuelas, mercados, hospitales o clínicas, y en general todo aquello que dentro del asentamiento humano sea de interés de los pobladores;
+
 III. Opinar sobre los problemas de vivienda y sanitarios, así como hacer recomendaciones tendientes a mejorar la vivienda y la sanidad;
-IV. Dar a conocer a la asamblea del ejido las necesidades que existan sobre solares urbanos o los pendientes de regularización; y V. Las demás que señale el reglamento de la junta de pobladores, que se limiten a cuestiones relacionadas con el asentamiento humano y que no sean contrarias a la ley ni a las facultades previstas por esta ley para los órganos del ejido.
+
+IV. Dar a conocer a la asamblea del ejido las necesidades que existan sobre solares urbanos o los pendientes de regularización; y
+
+V. Las demás que señale el reglamento de la junta de pobladores, que se limiten a cuestiones relacionadas con el asentamiento humano y que no sean contrarias a la ley ni a las facultades previstas por esta ley para los órganos del ejido.
 
 ## Capítulo II
 De las Tierras Ejidales Sección Primera Disposiciones Generales
@@ -222,8 +276,12 @@ De las Tierras Ejidales Sección Primera Disposiciones Generales
 
 ### Artículo 44
 .- Para efectos de esta ley las tierras ejidales, por su destino, se dividen en:
+
 I. Tierras para el asentamiento humano;
-II. Tierras de uso común; y III. Tierras parceladas.
+
+II. Tierras de uso común; y
+
+III. Tierras parceladas.
 
 ### Artículo 45
 .- Las tierras ejidales podrán ser objeto de cualquier contrato de asociación o aprovechamiento celebrado por el núcleo de población ejidal, o por los ejidatarios titulares, según se trate de tierras de uso común o parceladas, respectivamente. Los contratos que impliquen el uso de tierras ejidales por terceros tendrán una duración acorde al proyecto productivo correspondiente, no mayor a treinta años, prorrogables.
@@ -268,15 +326,25 @@ Sección Tercera De la Delimitación y Destino de las Tierras Ejidales
 ### Artículo 56
 .- La asamblea de cada ejido, con las formalidades previstas a tal efecto en los artículos 24 a 28 y 31 de esta ley, podrá determinar el destino de las tierras que no estén formalmente parceladas, efectuar el parcelamiento de éstas, reconocer el parcelamiento económico o de hecho o regularizar la tenencia de los posesionarios o de quienes carezcan de los certificados correspondientes.
 Consecuentemente, la asamblea podrá destinarlas al asentamiento humano, al uso común o parcelarlas en favor de los ejidatarios. En todo caso, a partir del plano general del ejido que haya sido elaborado por la autoridad competente o el que elabore el Registro Agrario Nacional, procederá como sigue:
+
 I. Si lo considera conveniente, reservará las extensiones de tierra correspondientes al asentamiento humano y delimitará las tierras de uso común del ejido;
-II. Si resultaren tierras cuya tenencia no ha sido regularizada o estén vacantes, podrá asignar los derechos ejidales correspondientes a dichas tierras a individuos o grupos de individuos; y III. Los derechos sobre las tierras de uso común se presumirán concedidos en partes iguales, a menos que la asamblea determine la asignación de proporciones distintas, en razón de las aportaciones materiales, de trabajo y financieras de cada individuo.
+
+II. Si resultaren tierras cuya tenencia no ha sido regularizada o estén vacantes, podrá asignar los derechos ejidales correspondientes a dichas tierras a individuos o grupos de individuos; y
+
+III. Los derechos sobre las tierras de uso común se presumirán concedidos en partes iguales, a menos que la asamblea determine la asignación de proporciones distintas, en razón de las aportaciones materiales, de trabajo y financieras de cada individuo.
 En todo caso, el Registro Agrario Nacional emitirá las normas técnicas que deberá seguir la asamblea al realizar la delimitación de las tierras al interior del ejido y proverá a la misma del auxilio que al efecto le solicite. El Registro certificará el plano interno del ejido, y con base en éste, expedirá los certificados parcelarios o los certificados de derechos comunes, o ambos, según sea el caso, en favor de todos y cada uno de los individuos que integran el ejido, conforme a las instrucciones de la asamblea, por conducto del comisariado o por el representante que se designe. Estos certificados deberán inscribirse en el propio Registro Agrario Nacional.
 
 ### Artículo 57
 .- Para proceder a la asignación de derechos sobre tierras a que se refiere la fracción III del artículo anterior, la asamblea se apegará, salvo causa justificada y expresa, al siguiente orden de preferencia:
+
 I. Posesionarios reconocidos por la asamblea;
+
 II. Ejidatarios y avecindados del núcleo de población cuya dedicación y esmero sean notorios o que hayan mejorado con su trabajo e inversión las tierras de que se trate;
-LEY AGRARIA III. Hijos de ejidatarios y otros avecindados que hayan trabajado las tierras por dos años o más; y IV. Otros individuos, a juicio de la asamblea.
+LEY AGRARIA
+
+III. Hijos de ejidatarios y otros avecindados que hayan trabajado las tierras por dos años o más; y
+
+IV. Otros individuos, a juicio de la asamblea.
 Cuando así lo decida la asamblea, la asignación de tierras podrá hacerse por resolución de la propia asamblea, a cambio de una contraprestación que se destine al beneficio del núcleo de población ejidal.
 
 ### Artículo 58
@@ -351,10 +419,15 @@ Los derechos sobre las tierras de uso común se acreditan con el certificado a q
 
 ### Artículo 75
 .- En los casos de manifiesta utilidad para el núcleo de población ejidal, éste podrá transmitir el dominio de tierras de uso común a sociedades mercantiles o civiles en las que participen el ejido o los ejidatarios conforme al siguiente procedimiento:
+
 I. La aportación de las tierras deberá ser resuelta por la asamblea, con las formalidades previstas a tal efecto en los artículos 24 a 28 y 31 de esta ley;
+
 II. El proyecto de desarrollo y de escritura social respectivos serán sometidos a la opinión de la Procuraduría Agraria, la que habrá de analizar y pronunciarse sobre la certeza de la realización de la inversión proyectada, el aprovechamiento racional y sostenido de los recursos naturales y la equidad en los términos y condiciones que se propongan. Esta opinión deberá ser emitida en un término no mayor a treinta días hábiles para ser considerada por la asamblea al adoptar la resolución correspondiente. Lo LEY AGRARIA anterior, sin perjuicio de que, para los efectos de esta fracción, el ejido pueda recurrir a los servicios profesionales que considere pertinentes.
+
 III. En la asamblea que resuelva la aportación de las tierras a la sociedad, se determinará si las acciones o partes sociales de la sociedad corresponden al núcleo de población ejidal o a los ejidatarios individualmente considerados, de acuerdo con la proporción que les corresponda según sus derechos sobre las tierras aportadas.
+
 IV. El valor de suscripción de las acciones o partes sociales que correspondan al ejido o a los ejidatarios por la aportación de sus tierras, deberá ser cuando menos igual al precio de referencia que establezca la Comisión de Avalúos de Bienes Nacionales o cualquier institución de crédito.
+
 V. Cuando participen socios ajenos al ejido, éste o los ejidatarios, en su caso, tendrán el derecho irrenunciable de designar un comisario que informe directamente a la asamblea del ejido, con las funciones que sobre la vigilancia de las sociedades prevé la Ley General de Sociedades Mercantiles. Si el ejido o los ejidatarios no designaren comisario, la Procuraduría Agraria, bajo su responsabilidad, deberá hacerlo.
 Las sociedades que conforme a este artículo se constituyan deberán ajustarse a las disposiciones previstas en el Título Sexto de la presente ley.
 En caso de liquidación de la sociedad, el núcleo de población ejidal y los ejidatarios, de acuerdo a su participación en el capital social, y bajo la estricta vigilancia de la Procuraduría Agraria, tendrán preferencia, respecto de los demás socios, para recibir tierra en pago de lo que les corresponda en el haber social.
@@ -377,7 +450,13 @@ LEY AGRARIA
 
 ### Artículo 80
 . Los ejidatarios podrán enajenar sus derechos parcelarios a otros ejidatarios o avecindados del mismo núcleo de población.
-Para la validez de la enajenación se requiere: a) La manifestación de conformidad por escrito de las partes ante dos testigos, ratificada ante fedatario público; b) La notificación por escrito al cónyuge, concubina o concubinario y los hijos del enajenante, quienes, en ese orden, gozarán del derecho del tanto, el cual deberán ejercer dentro del término de treinta días naturales contados a partir de la notificación a cuyo vencimiento caducará tal derecho. Será aceptable para este efecto la renuncia expresada por escrito ante dos testigos e inscrita en el Registro Agrario Nacional. En caso de que se desconozca el domicilio o ubicación de las personas que gozan del derecho del tanto, se procederá en términos de lo dispuesto por el párrafo tercero del artículo 84 de esta Ley, y Inciso reformado DOF 19-12-2016 c) Dar aviso por escrito al comisariado ejidal.
+Para la validez de la enajenación se requiere:
+
+a) La manifestación de conformidad por escrito de las partes ante dos testigos, ratificada ante fedatario público;
+
+b) La notificación por escrito al cónyuge, concubina o concubinario y los hijos del enajenante, quienes, en ese orden, gozarán del derecho del tanto, el cual deberán ejercer dentro del término de treinta días naturales contados a partir de la notificación a cuyo vencimiento caducará tal derecho. Será aceptable para este efecto la renuncia expresada por escrito ante dos testigos e inscrita en el Registro Agrario Nacional. En caso de que se desconozca el domicilio o ubicación de las personas que gozan del derecho del tanto, se procederá en términos de lo dispuesto por el párrafo tercero del artículo 84 de esta Ley, y Inciso reformado DOF 19-12-2016
+
+c) Dar aviso por escrito al comisariado ejidal.
 Realizada la enajenación, el Registro Agrario Nacional, procederá a inscribirla y expedirá los nuevos certificados parcelarios, cancelando los anteriores. Por su parte, el comisariado ejidal deberá realizar la inscripción correspondiente en el libro respectivo.
 Artículo reformado DOF 17-04-2008
 
@@ -419,9 +498,14 @@ De la Constitución de Nuevos Ejidos
 
 ### Artículo 90
 .- Para la constitución de un ejido bastará:
+
 I. Que un grupo de veinte o más individuos participen en su constitución;
+
 II. Que cada individuo aporte una superficie de tierra;
-III. Que el núcleo cuente con un proyecto de reglamento interno que se ajuste a lo dispuesto en esta ley; y IV. Que tanto la aportación como el reglamento interno consten en escritura pública y se solicite su inscripción en el Registro Agrario Nacional.
+
+III. Que el núcleo cuente con un proyecto de reglamento interno que se ajuste a lo dispuesto en esta ley; y
+
+IV. Que tanto la aportación como el reglamento interno consten en escritura pública y se solicite su inscripción en el Registro Agrario Nacional.
 LEY AGRARIA Será nula la aportación de tierras en fraude de acreedores.
 
 ### Artículo 91
@@ -435,13 +519,22 @@ De la Expropiación de Bienes Ejidales y Comunales
 
 ### Artículo 93
 .- Los bienes ejidales y comunales podrán ser expropiados por alguna o algunas de las siguientes causas de utilidad pública:
+
 I. El establecimiento, explotación o conservación de un servicio o función públicos;
+
 II. La realización de acciones para el ordenamiento urbano y ecológico, así como la creación y ampliación de reservas territoriales y áreas para el desarrollo urbano, la vivienda, la industria y el turismo;
+
 III. La realización de acciones para promover y ordenar el desarrollo y la conservación de los recursos agropecuarios, forestales y pesqueros;
+
 IV. Explotación del petróleo, su procesamiento y conducción, la explotación de otros elementos naturales pertenecientes a la Nación y la instalación de plantas de beneficio asociadas a dichas explotaciones;
+
 V. Regularización de la tenencia de la tierra urbana y rural;
+
 VI. Creación, fomento y conservación de unidades de producción de bienes o servicios de indudable beneficio para la comunidad;
-VII. La construcción de puentes, carreteras, ferrocarriles, campos de aterrizaje y demás obras que faciliten el transporte, así como aquellas sujetas a la Ley de Vías Generales de Comunicación y líneas de conducción de energía, obras hidráulicas, sus pasos de acceso y demás obras relacionadas; y VIII. Las demás previstas en la Ley de Expropiación y otras leyes.
+
+VII. La construcción de puentes, carreteras, ferrocarriles, campos de aterrizaje y demás obras que faciliten el transporte, así como aquellas sujetas a la Ley de Vías Generales de Comunicación y líneas de conducción de energía, obras hidráulicas, sus pasos de acceso y demás obras relacionadas; y
+
+VIII. Las demás previstas en la Ley de Expropiación y otras leyes.
 
 ### Artículo 94
 .- La expropiación deberá tramitarse ante la Secretaría de la Reforma Agraria. Deberá hacerse por decreto presidencial que determine la causa de utilidad pública y los bienes por expropiar y mediante indemnización. El monto de la indemnización será determinado por la Comisión de Avalúos de Bienes Nacionales, atendiendo al valor comercial de los bienes expropiados; en el caso de la fracción V del Artículo anterior, para la fijación del monto se atenderá a la cantidad que se cobrará por la regularización. El decreto deberá publicarse en el Diario Oficial de la Federación y se notificará la expropiación al núcleo de población.
@@ -464,16 +557,27 @@ De las Comunidades
 
 ### Artículo 98
 .- El reconocimiento como comunidad a los núcleos agrarios deriva de los siguientes procedimientos:
+
 I. Una acción agraria de restitución para las comunidades despojadas de su propiedad;
+
 II. Un acto de jurisdicción voluntaria promovido por quienes guardan el estado comunal cuando no exista litigio en materia de posesión y propiedad comunal;
-III. La resolución de un juicio promovido por quienes conserven el estado comunal cuando exista litigio u oposición de parte interesada respecto a la solicitud del núcleo; o IV. El procedimiento de conversión de ejido a comunidad.
+
+III. La resolución de un juicio promovido por quienes conserven el estado comunal cuando exista litigio u oposición de parte interesada respecto a la solicitud del núcleo; o
+
+IV. El procedimiento de conversión de ejido a comunidad.
 De estos procedimientos se derivará el registro correspondiente en los registros Públicos de la Propiedad y Agrario Nacional.
 
 ### Artículo 99
 .- Los efectos jurídicos del reconocimiento de la comunidad son:
+
 I. La personalidad jurídica del núcleo de población y su propiedad sobre la tierra;
+
 II. La existencia del Comisariado de Bienes Comunales como órgano de representación y gestión administrativa de la asamblea de comuneros en los términos que establezca el estatuto comunal y la costumbre;
-LEY AGRARIA III. La protección especial a las tierras comunales que las hace inalienables, imprescriptibles e inembargables, salvo que se aporten a una sociedad en los términos del artículo 100 de esta ley; y IV. Los derechos y las obligaciones de los comuneros conforme a la ley y el estatuto comunal.
+LEY AGRARIA
+
+III. La protección especial a las tierras comunales que las hace inalienables, imprescriptibles e inembargables, salvo que se aporten a una sociedad en los términos del artículo 100 de esta ley; y
+
+IV. Los derechos y las obligaciones de los comuneros conforme a la ley y el estatuto comunal.
 
 ### Artículo 100
 .- La comunidad determinará el uso de sus tierras, su división en distintas porciones según distintas finalidades y la organización para el aprovechamiento de sus bienes. Podrá constituir sociedades civiles o mercantiles, asociarse con terceros, encargar la administración o ceder temporalmente el uso y disfrute de sus bienes para su mejor aprovechamiento. La asamblea, con los requisitos de asistencia y votación previstos para la fracción IX del artículo 23 podrá decidir transmitir el dominio de áreas de uso común a estas sociedades en los casos de manifiesta utilidad para el núcleo y en los términos previstos por el artículo 75.
@@ -539,8 +643,11 @@ La constitución y administración de la sociedad se sujetará en lo conducente 
 ### Artículo 112
 .- Los derechos de los socios de la sociedad serán transmisibles con el consentimiento de la asamblea. Cuando la sociedad tenga obligaciones con alguna institución financiera se requerirá además la autorización de ésta.
 Las Sociedades de Producción Rural constituirán su capital social mediante aportaciones de sus socios, conforme a las siguientes reglas:
+
 I. En las sociedades de responsabilidad ilimitada no se requiere aportación inicial;
+
 II. En las de responsabilidad limitada, la aportación inicial será la necesaria para formar un capital mínimo que deberá ser equivalente a setecientas veces el salario mínimo diario general vigente en el Distrito Federal;
+
 III. En las de responsabilidad suplementada, la aportación inicial será la necesaria para formar un capital mínimo, que deberá ser equivalente a trescientos cincuenta veces el salario mínimo diario general en el Distrito Federal.
 LEY AGRARIA La contabilidad de la sociedad será llevada por la persona propuesta por la junta de vigilancia y aprobada por la asamblea general.
 
@@ -558,15 +665,21 @@ Artículo reformado DOF 19-12-2016
 
 ### Artículo 116
 .- Para los efectos de esta ley, se entiende por:
+
 I. Tierras agrícolas: los suelos utilizados para el cultivo de vegetales.
+
 II. Tierras ganaderas: los suelos utilizados para la reproducción y cría de animales mediante el uso de su vegetación, sea ésta natural o inducida.
+
 III. Tierras forestales: los suelos utilizados para el manejo productivo de bosques o selvas.
 Se reputan como agrícolas las tierras rústicas que no estén efectivamente dedicadas a alguna otra actividad económica.
 
 ### Artículo 117
 .- Se considera pequeña propiedad agrícola la superficie de tierras agrícolas de riego o humedad de primera que no exceda los siguientes límites o sus equivalentes en otras clases de tierras:
+
 I. 100 hectáreas si se destina a cultivos distintos a los señalados en las fracciones II y III de este artículo;
+
 II. 150 hectáreas si se destina al cultivo de algodón;
+
 III. 300 hectáreas si se destina al cultivo de plátano, caña de azúcar, café, henequén, hule, palma, vid, olivo, quina, vainilla, cacao, agave, nopal o árboles frutales.
 Para los efectos de esta ley, se consideran árboles frutales las plantas perennes de tronco leñoso productoras de frutos útiles al hombre.
 LEY AGRARIA Para efectos de la equivalencia a que se refiere este artículo, se computará una hectárea de riego, por dos de temporal, por cuatro de agostadero de buena calidad, por ocho de monte o agostadero en terrenos áridos.
@@ -590,7 +703,10 @@ Párrafo reformado DOF 09-04-2012
 
 ### Artículo 122
 .- Las pequeñas propiedades ganaderas seguirán siendo consideradas como tales, aún cuando se dediquen a uso agrícola, siempre que las tierras dedicadas a tal fin hubieren sido mejoradas y se cumpla con lo siguiente:
-I. Que la producción obtenida de la superficie destinada a uso agrícola se utilice para la alimentación de ganado; o II. Que las tierras dedicadas a uso agrícola, sin fines de alimentación de ganado, no excedan las superficies señaladas en el artículo 117. El límite aplicable será el que corresponda a la clase que tenían dichas tierras antes de la mejora.
+
+I. Que la producción obtenida de la superficie destinada a uso agrícola se utilice para la alimentación de ganado; o
+
+II. Que las tierras dedicadas a uso agrícola, sin fines de alimentación de ganado, no excedan las superficies señaladas en el artículo 117. El límite aplicable será el que corresponda a la clase que tenían dichas tierras antes de la mejora.
 Continuarán en el supuesto de la fracción I quienes, manteniendo como mínimo el número de cabezas que corresponda al coeficiente de agostadero anterior a la mejora, comercien con los excedentes de los productos que se obtengan debido a las mejoras realizadas.
 LEY AGRARIA Los vegetales que en forma espontánea se obtengan en tierras ganaderas podrán comercializarse sin que por ello se entienda que dichas tierras se destinan a uso agrícola.
 
@@ -600,10 +716,15 @@ LEY AGRARIA Los vegetales que en forma espontánea se obtengan en tierras ganade
 ### Artículo 124
 .- Las tierras que conforme a lo dispuesto en esta ley excedan la extensión de la pequeña propiedad individual, deberán ser fraccionadas, en su caso, y enajenadas de acuerdo con los procedimientos previstos en las leyes de las entidades federativas.
 De acuerdo con lo dispuesto por la parte final del párrafo segundo de la fracción XVII del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, cuando en la enajenación de excedentes en pública almoneda se hagan dos o más ofertas iguales, tendrán preferencia, en el orden señalado:
+
 I. Los núcleos de población colindantes a las tierras de cuya enajenación se trate;
+
 II. Los municipios en que se localicen los excedentes;
+
 III. Las entidades federativas en que se localicen los excedentes;
+
 IV. La Federación;
+
 V. Los demás oferentes.
 TITULO SEXTO DE LAS SOCIEDADES PROPIETARIAS DE TIERRAS AGRICOLAS, GANADERAS O FORESTALES
 
@@ -613,8 +734,11 @@ Asimismo, lo dispuesto en este Título será aplicable a las sociedades a que se
 
 ### Artículo 126
 .- Las sociedades mercantiles o civiles no podrán tener en propiedad tierras agrícolas, ganaderas o forestales en mayor extensión que la equivalente a veinticinco veces los límites de la pequeña propiedad individual y deberán cumplir con los siguientes requisitos:
+
 I. Deberán participar en la sociedad, por lo menos, tantos individuos como veces rebasen las tierras de la sociedad los límites de la pequeña propiedad individual. Al efecto, se tomará en cuenta la participación de cada individuo, ya sea directamente o a través de otra sociedad;
+
 II. Su objeto social deberá limitarse a la producción, transformación o comercialización de productos agrícolas, ganaderos o forestales y a los demás actos accesorios necesarios para el cumplimiento de dicho objeto;
+
 III. Su capital social deberá distinguir una serie especial de acciones o partes sociales identificada con la letra T, la que será equivalente al capital aportado en tierras agrícolas, ganaderas o forestales o al destinado a la adquisición de las mismas, de acuerdo con el valor de las tierras al momento de su aportación o adquisición.
 LEY AGRARIA
 
@@ -633,10 +757,15 @@ Ninguna sociedad podrá detentar más acciones o partes sociales de serie T, ya 
 
 ### Artículo 131
 .- El Registro Agrario Nacional contará con una sección especial en la que se inscribirán:
+
 I. Las sociedades mercantiles o civiles propietarias de tierras agrícolas, ganaderas o forestales;
+
 II. Las superficies, linderos y colindancias de los predios agrícolas, ganaderos o forestales propiedad de las sociedades a que se refiere la fracción anterior, con indicación de la clase y uso de sus tierras;
+
 III. Los individuos tenedores de acciones o partes sociales de serie T de las sociedades a que se refiere la fracción I de este artículo;
+
 IV. Las sociedades tenedoras de acciones o partes sociales de serie T representativas del capital social de las sociedades a que se refiere la fracción I de este artículo;
+
 V. Los demás actos, documentos o información que sea necesaria para vigilar el cumplimiento de lo dispuesto en este Título y que prevea el reglamento de esta ley.
 Los administradores de las sociedades, así como los socios tenedores de acciones o partes sociales de serie T, según corresponda, serán responsables de proporcionar al Registro la información a que se refiere este artículo, en la forma y términos que señale el reglamento respectivo de esta ley.
 
@@ -656,16 +785,28 @@ LEY AGRARIA TITULO SEPTIMO DE LA PROCURADURIA AGRARIA
 
 ### Artículo 136
 .- Son atribuciones de la Procuraduría Agraria las siguientes:
+
 I. Coadyuvar y en su caso representar a las personas a que se refiere el artículo anterior, en asuntos y ante autoridades agrarias;
+
 II. Asesorar sobre las consultas jurídicas planteadas por las personas a que se refiere el artículo anterior en sus relaciones con terceros que tengan que ver con la aplicación de esta ley;
+
 III. Promover y procurar la conciliación de intereses entre las personas a que se refiere el artículo anterior, en casos controvertidos que se relacionen con la normatividad agraria;
+
 IV. Prevenir y denunciar ante la autoridad competente, la violación de las leyes agrarias, para hacer respetar el derecho de sus asistidos e instar a las autoridades agrarias a la realización de funciones a su cargo y emitir las recomendaciones que considere pertinentes;
+
 V. Estudiar y proponer medidas encaminadas a fortalecer la seguridad jurídica en el campo;
+
 VI. Denunciar el incumplimiento de las obligaciones o responsabilidades de los funcionarios agrarios o de los empleados de la administración de justicia agraria;
+
 VII. Ejercer, con el auxilio y participación de las autoridades locales, las funciones de inspección y vigilancia encaminadas a defender los derechos de sus asistidos;
+
 VIII. Investigar y denunciar los casos en los que se presuma la existencia de prácticas de acaparamiento o concentración de tierras, en extensiones mayores a las permitidas legalmente;
+
 IX. Asesorar y representar, en su caso, a las personas a que se refiere el artículo anterior en sus trámites y gestiones para obtener la regularización y titulación de sus derechos agrarios, ante las autoridades administrativas o judiciales que corresponda;
-X. Denunciar ante el Ministerio Público o ante las autoridades correspondientes, los hechos que lleguen a su conocimiento y que puedan ser constitutivos de delito o que puedan constituir infracciones o faltas administrativas en la materia, así como atender las denuncias sobre las irregularidades en que, en su caso, incurra el comisariado ejidal y que le deberá presentar el comité de vigilancia; y XI. Las demás que esta ley, sus reglamentos y otras leyes le señalen.
+
+X. Denunciar ante el Ministerio Público o ante las autoridades correspondientes, los hechos que lleguen a su conocimiento y que puedan ser constitutivos de delito o que puedan constituir infracciones o faltas administrativas en la materia, así como atender las denuncias sobre las irregularidades en que, en su caso, incurra el comisariado ejidal y que le deberá presentar el comité de vigilancia; y
+
+XI. Las demás que esta ley, sus reglamentos y otras leyes le señalen.
 LEY AGRARIA
 
 ### Artículo 137
@@ -680,13 +821,21 @@ Las autoridades federales, estatales, municipales y las organizaciones sociales 
 
 ### Artículo 140
 .- El Procurador Agrario deberá satisfacer los siguientes requisitos:
+
 I. Ser mexicano, mayor de edad y estar en pleno ejercicio de sus derechos políticos y civiles;
-II. Contar con experiencia mínima de cinco años en cuestiones agrarias; y III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal.
+
+II. Contar con experiencia mínima de cinco años en cuestiones agrarias; y
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal.
 
 ### Artículo 141
 .- Los Subprocuradores deberán reunir los requisitos siguientes:
+
 I. Ser mexicano, mayor de edad y estar en pleno ejercicio de sus derechos políticos y civiles;
-II. Poseer el día de la designación, con antigüedad mínima de dos años, cédula profesional de licenciado en derecho y una práctica profesional también de dos años; y III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal.
+
+II. Poseer el día de la designación, con antigüedad mínima de dos años, cédula profesional de licenciado en derecho y una práctica profesional también de dos años; y
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal.
 El Secretario General deberá reunir los requisitos previstos en las fracciones I y III anteriores.
 
 ### Artículo 142
@@ -697,13 +846,23 @@ El Secretario General deberá reunir los requisitos previstos en las fracciones 
 
 ### Artículo 144
 .- El Procurador Agrario tendrá las siguientes atribuciones:
+
 I. Actuar como representante legal de la Procuraduría;
+
 II. Dirigir y coordinar las funciones de la Procuraduría;
+
 III. Nombrar y remover al personal al servicio de la institución, así como señalar sus funciones, áreas de responsabilidad y remuneración de acuerdo con el presupuesto programado;
-LEY AGRARIA IV. Crear las unidades técnicas y administrativas necesarias para el adecuado funcionamiento de la Procuraduría;
+LEY AGRARIA
+
+IV. Crear las unidades técnicas y administrativas necesarias para el adecuado funcionamiento de la Procuraduría;
+
 V. Expedir los manuales de organización y procedimientos, y dictar normas para la adecuada desconcentración territorial, administrativa y funcional de la institución;
+
 VI. Hacer la propuesta del presupuesto de la Procuraduría;
-VII. Delegar sus facultades en los servidores públicos subalternos que el Reglamento Interior de la Procuraduría señale; y VIII. Las demás que esta ley, sus reglamentos y otras leyes le señalen.
+
+VII. Delegar sus facultades en los servidores públicos subalternos que el Reglamento Interior de la Procuraduría señale; y
+
+VIII. Las demás que esta ley, sus reglamentos y otras leyes le señalen.
 
 ### Artículo 145
 .- Al Secretario General corresponderá realizar las tareas administrativas de la Procuraduría, coordinando las oficinas de la dependencia de conformidad con las instrucciones y disposiciones del Procurador.
@@ -731,13 +890,22 @@ LEY AGRARIA
 
 ### Artículo 152
 .- Deberán inscribirse en el Registro Agrario Nacional:
+
 I. Todas las resoluciones judiciales o administrativas que reconozcan, creen, modifiquen o extingan derechos ejidales o comunales;
+
 II. Los certificados o títulos que amparen derechos sobre solares, tierras de uso común y parcelas de ejidatarios o comuneros;
+
 III. Los títulos primordiales de las comunidades, y en su caso, los títulos que las reconozcan como comunidades tradicionales;
+
 IV. Los planos y delimitación de las tierras a que se refiere el artículo 56 de esta ley;
+
 V. Los planos y documentos relativos al catastro y censo rurales;
+
 VI. Los documentos relativos a las sociedades mercantiles, en los términos del Título Sexto de esta ley;
-VII. Los decretos de expropiación de bienes ejidales o comunales; y VIII. Los demás actos y documentos que dispongan esta ley, sus reglamentos u otras leyes.
+
+VII. Los decretos de expropiación de bienes ejidales o comunales; y
+
+VIII. Los demás actos y documentos que dispongan esta ley, sus reglamentos u otras leyes.
 
 ### Artículo 153
 .- El Registro Agrario Nacional también deberá llevar las inscripciones de todos los terrenos nacionales y los denunciados como baldíos.
@@ -747,10 +915,16 @@ VII. Los decretos de expropiación de bienes ejidales o comunales; y VIII. Los d
 
 ### Artículo 155
 .- El Registro Agrario Nacional deberá:
+
 I. Llevar clasificaciones alfabéticas de nombres de individuos tenedores de acciones de serie T y denominaciones de sociedades propietarias de tierras agrícolas, ganaderas o forestales;
+
 II. Llevar clasificaciones geográficas de la ubicación de predios de sociedades, con indicaciones sobre su extensión, clase y uso;
+
 III. Registrar las operaciones que impliquen la cesión de derechos sobre tierras ejidales y la garantía a que se refiere el artículo 46, así como las de los censos ejidales;
-IV. Disponer el procesamiento y óptima disponibilidad de la información bajo su resguardo; y V. Participar en la regularización de la tenencia de la tierra ejidal y comunal en los términos que señala el artículo 56 de esta ley.
+
+IV. Disponer el procesamiento y óptima disponibilidad de la información bajo su resguardo; y
+
+V. Participar en la regularización de la tenencia de la tierra ejidal y comunal en los términos que señala el artículo 56 de esta ley.
 
 ### Artículo 156
 .- Los notarios y los registros públicos de la propiedad, cuando autoricen o registren operaciones o documentos sobre conversión de propiedad ejidal a dominio pleno y de éste al régimen ejidal, así como la adquisición de tierra por sociedades mercantiles o civiles, deberán dar aviso al Registro Agrario Nacional. Asimismo, los notarios públicos deberán dar aviso al Registro Agrario.
@@ -762,7 +936,10 @@ TITULO NOVENO LEY AGRARIA DE LOS TERRENOS BALDIOS Y NACIONALES
 
 ### Artículo 158
 .- Son nacionales:
-I. Los terrenos baldíos deslindados y medidos en los términos de este Título; y II. Los terrenos que recobre la Nación por virtud de nulidad de los títulos que respecto de ellos se hubieren otorgado.
+
+I. Los terrenos baldíos deslindados y medidos en los términos de este Título; y
+
+II. Los terrenos que recobre la Nación por virtud de nulidad de los títulos que respecto de ellos se hubieren otorgado.
 
 ### Artículo 159
 .- Los terrenos baldíos y los nacionales serán inembargables e imprescriptibles.
@@ -829,7 +1006,10 @@ LEY AGRARIA
 
 ### Artículo 171
 .- El emplazamiento se efectuará al demandado por medio del secretario o actuario del tribunal en el lugar que el actor designe para ese fin y que podrá ser:
-I. El domicilio del demandado, su finca, su oficina o principal asiento de negocios o el lugar en que labore; y II. Su parcela u otro lugar que frecuente y en el que sea de creerse que se halle al practicarse el emplazamiento.
+
+I. El domicilio del demandado, su finca, su oficina o principal asiento de negocios o el lugar en que labore; y
+
+II. Su parcela u otro lugar que frecuente y en el que sea de creerse que se halle al practicarse el emplazamiento.
 
 ### Artículo 172
 .- El secretario o actuario que haga el emplazamiento se cerciorará de que el demandado se encuentra en el lugar señalado y lo efectuará personalmente. Si no lo encontraren y el lugar fuere de los enumerados en la fracción I del artículo anterior, cerciorándose de este hecho, dejará la cédula con la persona de mayor confianza. Si no se encontrare al demandado y el lugar no fuere de los enumerados en la fracción I mencionada no se le dejará la cédula, debiéndose emplazarse de nuevo cuando lo promueva el actor.
@@ -890,10 +1070,15 @@ En este caso, se dará traslado al actor para que esté en condiciones de contes
 
 ### Artículo 185
 .- El tribunal abrirá la audiencia y en ella se observarán las siguientes prevenciones:
+
 I. Expondrán oralmente sus pretensiones por su orden, el actor su demanda y el demandado su contestación y ofrecerán las pruebas que estimen conducentes a su defensa y presentarán a los testigos y peritos que pretendan sean oídos;
+
 II. Las partes se pueden hacer mutuamente las preguntas que quieran, interrogar los testigos y peritos y, en general, presentar todas las pruebas que se puedan rendir desde luego;
+
 III. Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin sustanciar artículos o incidentes de previo y especial pronunciamiento. Si de lo que expongan las partes resultare demostrada la procedencia de una excepción dilatoria, el tribunal lo declarará así desde luego y dará por terminada la audiencia;
+
 IV. El magistrado podrá hacer libremente las preguntas que juzgue oportunas a cuantas personas estuvieren en la audiencia, carear a las personas entre sí o con los testigos y a éstos, los unos con los otros, examinar documentos, objetos o lugares y hacerlos reconocer por peritos;
+
 V. Si el demandado no compareciere o se rehusara a contestar las preguntas que se le hagan, el tribunal podrá tener por ciertas las afirmaciones de la otra parte, salvo cuando se demuestre que no compareció por caso fortuito o fuerza mayor a juicio del propio tribunal; y VI.- En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el tribunal exhortará a las partes a una composición amigable. Si se lograra la avenencia, se dará por terminado el juicio y se suscribirá el convenio respectivo, el cual deberá cumplir con los principios de exhaustividad, congruencia y equidad, el que una vez calificado y, en su caso, aprobado por el tribunal, tendrá el carácter de sentencia ejecutoriada. En caso contrario, el tribunal oirá los alegatos de las partes, para lo cual concederá el tiempo necesario a cada una y en seguida pronunciará su fallo en presencia de ellas de una manera clara y sencilla.
 Fracción reformada DOF 09-07-1993, 27-03-2017 En caso de que la audiencia no estuviere presidida por el magistrado, lo actuado en ella no producirá efecto jurídico alguno.
 Párrafo adicionado DOF 09-07-1993 LEY AGRARIA
@@ -920,7 +1105,10 @@ Ejecución de las Sentencias
 
 ### Artículo 191
 .- Los tribunales agrarios están obligados a proveer a la eficaz e inmediata ejecución de sus sentencias y a ese efecto podrán dictar todas las medidas necesarias, incluidas las de apremio, en la forma y términos que, a su juicio, fueren procedentes, sin contravenir las reglas siguientes:
-I. Si al pronunciarse la sentencia estuvieren presentes ambas partes, el tribunal las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto; y II. El vencido en juicio podrá proponer fianza de persona arraigada en el lugar o de institución autorizada para garantizar la obligación que se le impone, y el tribunal, con audiencia de la parte que obtuvo, calificará la fianza o garantía según su arbitrio y si la aceptare podrá conceder un término hasta de quince días para el cumplimiento y aún mayor tiempo si el que obtuvo estuviera conforme con ella. Si transcurrido el plazo no hubiere cumplido, se hará efectiva la fianza o garantía correspondiente.
+
+I. Si al pronunciarse la sentencia estuvieren presentes ambas partes, el tribunal las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto; y
+
+II. El vencido en juicio podrá proponer fianza de persona arraigada en el lugar o de institución autorizada para garantizar la obligación que se le impone, y el tribunal, con audiencia de la parte que obtuvo, calificará la fianza o garantía según su arbitrio y si la aceptare podrá conceder un término hasta de quince días para el cumplimiento y aún mayor tiempo si el que obtuvo estuviera conforme con ella. Si transcurrido el plazo no hubiere cumplido, se hará efectiva la fianza o garantía correspondiente.
 Si existiera alguna imposibilidad material o jurídica para ejecutar una sentencia relativa a tierras de un núcleo de población, la parte que obtuvo sentencia favorable podrá aceptar la superficie efectivamente deslindada, en cuyo caso la sentencia se tendrá por ejecutada, dejándose constancia de tal circunstancia en el acta que levante el actuario.
 Párrafo adicionado DOF 09-07-1993 LEY AGRARIA En caso de inconformidad con la ejecución de la parte que obtuvo sentencia favorable, se presentarán al actuario los alegatos correspondientes, los que asentará junto con las razones que impidan la ejecución, en el acta circunstanciada que levante.
 Párrafo adicionado DOF 09-07-1993 Dentro de los quince días siguientes al levantamiento del acta de ejecución, el tribunal del conocimiento dictará resolución definitiva sobre la ejecución de la sentencia y aprobará el plano definitivo.

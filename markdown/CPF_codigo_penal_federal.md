@@ -13,6 +13,7 @@ Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero 
 
 ### Artículo 2o
 .- Se aplicará, asimismo:
+
 I. Por los delitos que se inicien, preparen o cometan en el extranjero, cuando produzcan o se pretenda que tengan efectos en el territorio de la República; o bien, por los delitos que se inicien, preparen o cometan en el extranjero, siempre que un tratado vinculativo para México prevea la obligación de extraditar o juzgar, se actualicen los requisitos previstos en el artículo 4o. de este Código y no se extradite al probable responsable al Estado que lo haya requerido, y Fracción reformada DOF 28-06-2007 II.- Por los delitos cometidos en los consulados mexicanos o en contra de su personal, cuando no hubieren sido juzgados en el país en que se cometieron.
 
 ### Artículo 3o
@@ -42,6 +43,7 @@ Párrafo adicionado DOF 19-08-2010 Artículo reformado DOF 14-01-1985 TITULO PRI
 .- Delito es el acto u omisión que sancionan las leyes penales.
 En los delitos de resultado material también será atribuible el resultado típico producido al que omita impedirlo, si éste tenía el deber jurídico de evitarlo. En estos casos se considerará que el resultado es consecuencia de una conducta omisiva, cuando se determine que el que omite impedirlo tenia el deber de actuar para ello, derivado de una ley, de un contrato o de su propio actuar precedente.
 Párrafo adicionado DOF 10-01-1994 El delito es:
+
 I. Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos de la descripción penal;
 Fracción reformada DOF 17-06-2016 II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo, y III.- Continuado, cuando con unidad de propósito delictivo, pluralidad de conductas y unidad de sujeto pasivo, se viola el mismo precepto legal.
 Fracción reformada DOF 13-05-1996 Artículo reformado DOF 13-01-1984
@@ -63,47 +65,98 @@ Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 13-01-1984, 10-01-1994
 ### Artículo 11
 Bis.- Para los efectos de lo previsto en el Título X, Capítulo II, del Código Nacional de Procedimientos Penales, a las personas jurídicas podrán imponérseles algunas o varias de las consecuencias jurídicas cuando hayan intervenido en la comisión de los siguientes delitos:
 A. De los previstos en el presente Código:
+
 I. Terrorismo, previsto en los artículos 139 al 139 Ter y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter;
+
 II. Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 Bis;
+
 III. Contra la salud, previsto en los artículos 194 y 195, párrafo primero;
+
 IV. Corrupción de personas menores de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201;
+
 V. Tráfico de influencia previsto en el artículo 221;
+
 VI. Cohecho, previsto en los artículos 222, fracción II, y 222 bis;
+
 VII. Falsificación y alteración de moneda, previstos en los artículos 234, 236 y 237;
+
 VIII. Contra el consumo y riqueza nacionales, prevista en el artículo 254;
+
 IX. Tráfico de menores o de personas que no tienen capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter;
+
 X. Comercialización habitual de objetos robados, previsto en el artículo 368 Ter;
+
 XI. Robo de vehículos, previsto en el artículo 376 Bis y posesión, comercio, tráfico de vehículos robados y demás comportamientos previstos en el artículo 377;
+
 XII. Fraude, previsto en el artículo 388;
+
 XIII. Encubrimiento, previsto en el artículo 400;
+
 XIV. Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;
+
 XV. Contra el ambiente, previsto en los artículos 414, 415, 416, 418, 419 y 420;
+
 XVI. En materia de derechos de autor, previsto en el artículo 424 Bis;
 B. De los delitos establecidos en los siguientes ordenamientos:
+
 I. Acopio y tráfico de armas, previstos en los artículos 83 Bis y 84, de la Ley Federal de Armas de Fuego y Explosivos;
+
 II. Tráfico de personas, previsto en el artículo 159, de la Ley de Migración;
+
 III. Tráfico de órganos, previsto en los artículos 461, 462 y 462 Bis, de la Ley General de Salud;
+
 IV. Trata de personas, previsto en los artículos 10 al 38 de la Ley General para Prevenir, Sancionar y Erradicar los delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+
 V. Introducción clandestina de armas de fuego que no están reservadas al uso exclusivo del Ejército, Armada o Fuerza Aérea, previsto en el artículo 84 Bis, de la Ley Federal de Armas de Fuego y Explosivos;
+
 VI. De la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los previstos en los artículos 9, 10, 11 y 15;
+
 VII. Contrabando y su equiparable, previstos en los artículos 102 y 105 del Código Fiscal de la Federación;
+
 VIII. Defraudación Fiscal y su equiparable, previstos en los artículos 108 y 109, del Código Fiscal de la Federación;
 VIII Bis. Del Código Fiscal de la Federación, el delito previsto en el artículo 113 Bis;
-Fracción adicionada DOF 08-11-2019 IX. De la Ley de la Propiedad Industrial, los delitos previstos en el artículo 223;
+Fracción adicionada DOF 08-11-2019
+
+IX. De la Ley de la Propiedad Industrial, los delitos previstos en el artículo 223;
+
 X. De la Ley de Instituciones de Crédito, los previstos en los artículos 111; 111 Bis; 112; 112 Bis; 112 Ter; 112 Quáter; 112 Quintus; 113 Bis y 113 Bis 3;
+
 XI. De la Ley General de Títulos y Operaciones de Crédito, los previstos en los artículos 432, 433 y 434;
+
 XII. De la Ley General de Organizaciones y Actividades Auxiliares del Crédito, los previstos en los artículos 96; 97; 98; 99; 100 y 101; 382; 383 y 385;
+
 XIV. De la Ley de los Sistemas de Ahorro para el Retiro, los previstos en los artículos 103; 104 cuando el monto de la disposición de los fondos, valores o documentos que manejen de los trabajadores con motivo de su objeto, exceda de trescientos cincuenta mil días de salario mínimo general vigente en el Distrito Federal; 105; 106 y 107 Bis 1;
+
 XV. De la Ley de Fondos de Inversión, los previstos en los artículos 88 y 90;
+
 XVI. De la Ley de Uniones de Crédito, los previstos en los artículos 121; 122; 125; 126 y 128;
+
 XVII. De la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, los previstos en los artículos 110; 111; 112; 114 y 116;
+
 XVIII. De la Ley de Ahorro y Crédito Popular, los previstos en los artículos 136 Bis 7; 137; 138; 140 y 142;
+
 XIX. De la Ley de Concursos Mercantiles, los previstos en los artículos 117 y 271;
+
 XX. Los previstos en el artículo 49 de la Ley Federal para el Control de Sustancias Químicas Susceptibles de desvío para la fabricación de Armas Químicas;
+
 XXI. Los previstos en los artículos 8, 9, 10, 12, 13, 14, 15, 16, 17, 18 y 19 de la Ley Federal para Prevenir y Sancionar los Delitos en Materia de Hidrocarburos.
-Fracción reformada DOF 01-06-2018 XXII. El delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
-Fracción adicionada DOF 28-11-2025 XXIII. En los demás casos expresamente previstos en la legislación aplicable.
-Fracción recorrida DOF 28-11-2025 Para los efectos del artículo 422 del Código Nacional de Procedimientos Penales, se estará a los siguientes límites de punibilidad para las consecuencias jurídicas de las personas jurídicas: a) Suspensión de actividades, por un plazo de entre seis meses a seis años. b) Clausura de locales y establecimientos, por un plazo de entre seis meses a seis años. c) Prohibición de realizar en el futuro las actividades en cuyo ejercicio se haya cometido o participado en su comisión, por un plazo de entre seis meses a diez años. d) Inhabilitación temporal consistente en la suspensión de derechos para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como por la Ley de Obras Públicas y Servicios relacionados con las mismas, por un plazo de entre seis meses a seis años. e) Intervención judicial para salvaguardar los derechos de los trabajadores o de los acreedores en un plazo de entre seis meses a seis años.
+Fracción reformada DOF 01-06-2018
+
+XXII. El delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+Fracción adicionada DOF 28-11-2025
+
+XXIII. En los demás casos expresamente previstos en la legislación aplicable.
+Fracción recorrida DOF 28-11-2025 Para los efectos del artículo 422 del Código Nacional de Procedimientos Penales, se estará a los siguientes límites de punibilidad para las consecuencias jurídicas de las personas jurídicas:
+
+a) Suspensión de actividades, por un plazo de entre seis meses a seis años.
+
+b) Clausura de locales y establecimientos, por un plazo de entre seis meses a seis años.
+
+c) Prohibición de realizar en el futuro las actividades en cuyo ejercicio se haya cometido o participado en su comisión, por un plazo de entre seis meses a diez años.
+
+d) Inhabilitación temporal consistente en la suspensión de derechos para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como por la Ley de Obras Públicas y Servicios relacionados con las mismas, por un plazo de entre seis meses a seis años.
+
+e) Intervención judicial para salvaguardar los derechos de los trabajadores o de los acreedores en un plazo de entre seis meses a seis años.
 La intervención judicial podrá afectar a la totalidad de la organización o limitarse a alguna de sus instalaciones, secciones o unidades de negocio. Se determinará exactamente el alcance de la intervención y quién se hará cargo de la misma, así como los plazos en que deberán realizarse los informes de seguimiento para el órgano judicial. La intervención judicial se podrá modificar o suspender en todo momento previo informe del interventor y del Ministerio Público.
 El interventor tendrá derecho a acceder a todas las instalaciones y locales de la empresa o persona jurídica, así como a recibir cuanta información estime necesaria para el ejercicio de sus funciones. La legislación aplicable determinará los aspectos relacionados con las funciones del interventor y su retribución respectiva.
 En todos los supuestos previstos en el artículo 422 del Código Nacional de Procedimientos Penales, las sanciones podrán atenuarse hasta en una cuarta parte, si con anterioridad al hecho que se les imputa, las personas jurídicas contaban con un órgano de control permanente, encargado de verificar el cumplimiento de las disposiciones legales aplicables para darle seguimiento a las políticas internas de prevención delictiva y que hayan realizado antes o después del hecho que se les imputa, la disminución del daño provocado por el hecho típico.
@@ -139,7 +192,13 @@ CAPITULO IV Causas de exclusión del delito Denominación del Capítulo reformad
 .- El delito se excluye cuando:
 I.- El hecho se realice sin intervención de la voluntad del agente;
 II.- Se demuestre la inexistencia de alguno de los elementos que integran la descripción típica del delito de que se trate;
-Fracción reformada DOF 18-05-1999 III.- Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos: a) Que el bien jurídico sea disponible; b) Que el titular del bien tenga la capacidad jurídica para disponer libremente del mismo; y c) Que el consentimiento sea expreso o tácito y sin que medie algún vicio; o bien, que el hecho se realice en circunstancias tales que permitan fundadamente presumir que, de haberse consultado al titular, éste hubiese otorgado el mismo;
+Fracción reformada DOF 18-05-1999 III.- Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
+
+a) Que el bien jurídico sea disponible;
+
+b) Que el titular del bien tenga la capacidad jurídica para disponer libremente del mismo; y
+
+c) Que el consentimiento sea expreso o tácito y sin que medie algún vicio; o bien, que el hecho se realice en circunstancias tales que permitan fundadamente presumir que, de haberse consultado al titular, éste hubiese otorgado el mismo;
 IV.- Se repela una agresión real, actual o inminente, y sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
 Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trate de penetrar, sin derecho, al hogar del agente, al de su familia, a sus dependencias, o a los de cualquier persona que tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión;
 V.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
@@ -230,12 +289,19 @@ Párrafo reformado DOF 17-06-2016 Artículo reformado DOF 13-01-1984
 
 ### Artículo 30
 . La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos:
+
 I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
+
 II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
+
 III. El resarcimiento de los perjuicios ocasionados;
+
 IV. El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y en caso de no contar con esa información, será conforme al salario mínimo vigente en el lugar en que ocurra el hecho;
+
 V. El costo de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales, acorde a sus circunstancias;
+
 VI. La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos;
+
 VII. La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos.
 Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 Artículo reformado DOF 05-01-1983, 13-01-1984, 10-01-1994, 30-12-1997, 19-08-2010, 14-06-2012
@@ -262,7 +328,9 @@ II.- Los tutores y los custodios, por los delitos de los incapacitados que se ha
 III.- Los directores de internados o talleres, que reciban en su establecimiento discípulos o aprendices menores de 16 años, por los delitos que ejecuten éstos durante el tiempo que se hallen bajo el cuidado de aquéllos;
 IV.- Los dueños, empresas o encargados de negociaciones o establecimientos mercantiles de cualquier especie, por los delitos que cometan sus obreros, jornaleros, empleados, domésticos y artesanos, con motivo y en el desempeño de su servicio;
 V.- Las sociedades o agrupaciones, por los delitos de sus socios o gerentes directores, en los mismos términos en que, conforme a las leyes, sean responsables por las demás obligaciones que los segundos contraigan.
-Se exceptúa de esta regla a la sociedad conyugal, pues, en todo caso, cada cónyuge responderá con sus bienes propios por la reparación del daño que cause, y VI. Cualquier institución, asociación, organización o agrupación de carácter religioso, cultural, deportivo, educativo, recreativo o de cualquier índole, cuyos empleados, miembros, integrantes, auxiliares o ayudantes que realicen sus actividades de manera voluntaria o remunerada, y Fracción adicionada DOF 19-08-2010 VII.- El Estado, solidariamente, por los delitos dolosos de sus servidores públicos realizados con motivo del ejercicio de sus funciones, y subsidiariamente cuando aquéllos fueren culposos.
+Se exceptúa de esta regla a la sociedad conyugal, pues, en todo caso, cada cónyuge responderá con sus bienes propios por la reparación del daño que cause, y
+
+VI. Cualquier institución, asociación, organización o agrupación de carácter religioso, cultural, deportivo, educativo, recreativo o de cualquier índole, cuyos empleados, miembros, integrantes, auxiliares o ayudantes que realicen sus actividades de manera voluntaria o remunerada, y Fracción adicionada DOF 19-08-2010 VII.- El Estado, solidariamente, por los delitos dolosos de sus servidores públicos realizados con motivo del ejercicio de sus funciones, y subsidiariamente cuando aquéllos fueren culposos.
 Fracción reformada DOF 10-01-1994. Recorrida DOF 19-08-2010
 
 ### Artículo 33
@@ -472,8 +540,13 @@ Artículo adicionado DOF 10-01-1994 CAPITULO VI Substitución y conmutación de 
 
 ### Artículo 70
 .- La prisión podrá ser sustituida, a juicio del juzgador, apreciando lo dispuesto en los artículos 51 y 52 en los términos siguientes:
+
 I. Por trabajo en favor de la comunidad o semilibertad, cuando la pena impuesta no exceda de cuatro años;
-Fracción reformada DOF 13-05-1996 II. Por tratamiento en libertad, si la prisión no excede de tres años, o Fracción reformada DOF 13-05-1996 III. Por multa, si la prisión no excede de dos años.
+Fracción reformada DOF 13-05-1996
+
+II. Por tratamiento en libertad, si la prisión no excede de tres años, o Fracción reformada DOF 13-05-1996
+
+III. Por multa, si la prisión no excede de dos años.
 Fracción reformada DOF 13-05-1996 La sustitución no podrá aplicarse a quien anteriormente hubiere sido condenado en sentencia ejecutoriada por delito doloso que se persiga de oficio. Tampoco se aplicará a quien sea condenado por algún delito de los señalados en la fracción I del artículo 85 de este Código.
 Párrafo adicionado DOF 13-05-1996. Reformado DOF 31-12-1998, 17-05-1999 Reforma DOF 10-01-1994: Derogó del artículo el entonces párrafo segundo Artículo derogado DOF 12-05-1938. Adicionado DOF 24-03-1944. Derogado DOF 05-01-1948. Adicionado DOF 13-01-1984. Reformado DOF 30-12-1991
 
@@ -543,24 +616,60 @@ Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 19-03-1971
 
 ### Artículo 85
 . No se concederá la libertad preparatoria a:
-I. Los sentenciados por alguno de los delitos previstos en este Código que a continuación se señalan: a) Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 bis, párrafo tercero; b) Contra la salud, previsto en el artículo 194, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; y para la modalidad de transportación, si cumplen con los requisitos establecidos en los artículos 84 y 90, fracción I, inciso c), para lo cual deberán ser primodelincuentes, a pesar de no hallarse en los tres supuestos señalados en la excepción general de este inciso;
-Inciso reformado DOF 12-06-2003 c) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202;
+
+I. Los sentenciados por alguno de los delitos previstos en este Código que a continuación se señalan:
+
+a) Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 bis, párrafo tercero;
+
+b) Contra la salud, previsto en el artículo 194, salvo que se trate de individuos en los que concurran evidente atraso cultural, aislamiento social y extrema necesidad económica; y para la modalidad de transportación, si cumplen con los requisitos establecidos en los artículos 84 y 90, fracción I, inciso c), para lo cual deberán ser primodelincuentes, a pesar de no hallarse en los tres supuestos señalados en la excepción general de este inciso;
+Inciso reformado DOF 12-06-2003
+
+c) Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202;
 Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 203 y 203 bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Pederastia, previsto en el artículo 209 Bis;
-Inciso reformado DOF 27-03-2007, 27-11-2007, 19-08-2010 d) Violación, previsto en los artículos 265, 266 y 266 bis; e) Homicidio, previsto en los artículos 315, 315 Bis y 320; y feminicidio previsto en el artículo 325;
-Inciso reformado DOF 14-06-2012 f) Tráfico de menores, previsto en el artículo 366 Ter.
-Inciso reformado DOF 12-06-2000, 30-11-2010 g) Comercialización de objetos robados, previsto en el artículo 368 ter; h) Robo de vehículo, previsto en el artículo 376 bis; i) Robo, previsto en los artículos 371, último párrafo; 372; 381, fracciones VII, VIII, IX, X, XI y XV; y 381 Bis;
-Inciso reformado DOF 26-06-2008 j) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;
-Inciso reformado DOF 26-06-2008 k) Los previstos y sancionados en los artículos 112 Bis, 112 Ter, 112 Quáter y 112 Quintus de la Ley de Instituciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164, o 164 Bis, o Inciso adicionado DOF 26-06-2008 l) Los previstos y sancionados en los artículos 432, 433, 434 y 435 de la Ley General de Títulos y Operaciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164 o 164 Bis.
-Inciso adicionado DOF 26-06-2008 II. Delitos en Materia de Trata de Personas contenidos en el Título Segundo de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
-Fracción adicionada DOF 27-11-2007. Reformada DOF 14-06-2012 III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
-Fracción recorrida DOF 27-11-2007 IV. Los sentenciados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, salvo las previstas en los artículos 9, 10, 11, 17 y 18.
-Fracción adicionada DOF 30-11-2010 V. Los sentenciados por el delito de Tortura.
+Inciso reformado DOF 27-03-2007, 27-11-2007, 19-08-2010
+
+d) Violación, previsto en los artículos 265, 266 y 266 bis;
+
+e) Homicidio, previsto en los artículos 315, 315 Bis y 320; y feminicidio previsto en el artículo 325;
+Inciso reformado DOF 14-06-2012
+
+f) Tráfico de menores, previsto en el artículo 366 Ter.
+Inciso reformado DOF 12-06-2000, 30-11-2010
+
+g) Comercialización de objetos robados, previsto en el artículo 368 ter;
+
+h) Robo de vehículo, previsto en el artículo 376 bis;
+
+i) Robo, previsto en los artículos 371, último párrafo; 372; 381, fracciones VII, VIII, IX, X, XI y XV; y 381 Bis;
+Inciso reformado DOF 26-06-2008
+
+j) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;
+Inciso reformado DOF 26-06-2008
+
+k) Los previstos y sancionados en los artículos 112 Bis, 112 Ter, 112 Quáter y 112 Quintus de la Ley de Instituciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164, o 164 Bis, o Inciso adicionado DOF 26-06-2008
+
+l) Los previstos y sancionados en los artículos 432, 433, 434 y 435 de la Ley General de Títulos y Operaciones de Crédito, cuando quien lo cometa forme parte de una asociación, banda o pandilla en los términos del artículo 164 o 164 Bis.
+Inciso adicionado DOF 26-06-2008
+
+II. Delitos en Materia de Trata de Personas contenidos en el Título Segundo de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+Fracción adicionada DOF 27-11-2007. Reformada DOF 14-06-2012
+
+III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
+Fracción recorrida DOF 27-11-2007
+
+IV. Los sentenciados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, salvo las previstas en los artículos 9, 10, 11, 17 y 18.
+Fracción adicionada DOF 30-11-2010
+
+V. Los sentenciados por el delito de Tortura.
 Fracción adicionada DOF 26-06-2017 Tratándose de los delitos comprendidos en el Titulo Décimo de este Código, la libertad preparatoria solo se concederá cuando se satisfaga la reparación del daño a que se refiere la fracción III del artículo 30 o se otorgue caución que la garantice.
 Artículo reformado DOF 09-03-1946, 14-01-1966, 08-03-1968, 19-03-1971, 08-12-1978, 05-01-1983, 28-12-1992, 10-01-1994. Fe de erratas DOF 01-02-1994. Reformado DOF 17-05-1999
 
 ### Artículo 86
 .- La autoridad competente revocará la libertad preparatoria cuando:
-I. El liberado incumpla injustificadamente con las condiciones impuestas para otorgarle el beneficio. La autoridad podrá, en caso de un primer incumplimiento, amonestar al sentenciado y apercibirlo de revocar el beneficio en caso de un segundo incumplimiento. Cuando el liberado infrinja medidas que establezcan presentaciones frecuentes para tratamiento, la revocación sólo procederá al tercer incumplimiento, o II. El liberado sea condenado por nuevo delito doloso, mediante sentencia ejecutoriada, en cuyo caso la revocación operará de oficio. Si el nuevo delito fuere culposo, la autoridad podrá, motivadamente y según la gravedad del hecho, revocar o mantener la libertad preparatoria.
+
+I. El liberado incumpla injustificadamente con las condiciones impuestas para otorgarle el beneficio. La autoridad podrá, en caso de un primer incumplimiento, amonestar al sentenciado y apercibirlo de revocar el beneficio en caso de un segundo incumplimiento. Cuando el liberado infrinja medidas que establezcan presentaciones frecuentes para tratamiento, la revocación sólo procederá al tercer incumplimiento, o
+
+II. El liberado sea condenado por nuevo delito doloso, mediante sentencia ejecutoriada, en cuyo caso la revocación operará de oficio. Si el nuevo delito fuere culposo, la autoridad podrá, motivadamente y según la gravedad del hecho, revocar o mantener la libertad preparatoria.
 El condenado cuya libertad preparatoria sea revocada deberá cumplir el resto de la pena en prisión, para lo cual la autoridad considerará el tiempo de cumplimiento en libertad. Los hechos que originen los nuevos procesos a que se refiere la fracción II de este artículo interrumpen los plazos para extinguir la sanción.
 Artículo reformado DOF 19-03-1971, 10-01-1994, 17-05-1999
 
@@ -579,8 +688,14 @@ Artículo derogado DOF 23-12-1985 CAPITULO IV Condena condicional
 ### Artículo 90
 .- El otorgamiento y disfrute de los beneficios de la condena condicional, se sujetarán a las siguientes normas:
 I.- El juez o Tribunal, en su caso, al dictar sentencia de condena o en la hipótesis que establece la fracción X de este artículo, suspenderán motivadamente la ejecución de las penas, a petición de parte o de oficio, si concurren estas condiciones: a).- Que la condena se refiera a pena de prisión que no exceda de cuatro años;
-Inciso reformado DOF 30-12-1991 b) Que el sentenciado no sea reincidente por delito doloso, haya evidenciado buena conducta antes y después del hecho punible y que la condena no se refiera a alguno de los delitos señalados en la fracción I del artículo 85 de este Código, y Inciso reformado DOF 10-01-1994, 17-05-1999 c) Que por sus antecedentes personales o modo honesto de vivir, así como por la naturaleza, modalidades y móviles del delito, se presuma que el sentenciado no volverá a delinquir.
-Inciso reformado DOF 17-05-1999 d) Derogado.
+Inciso reformado DOF 30-12-1991
+
+b) Que el sentenciado no sea reincidente por delito doloso, haya evidenciado buena conducta antes y después del hecho punible y que la condena no se refiera a alguno de los delitos señalados en la fracción I del artículo 85 de este Código, y Inciso reformado DOF 10-01-1994, 17-05-1999
+
+c) Que por sus antecedentes personales o modo honesto de vivir, así como por la naturaleza, modalidades y móviles del delito, se presuma que el sentenciado no volverá a delinquir.
+Inciso reformado DOF 17-05-1999
+
+d) Derogado.
 Inciso adicionado como inciso e) DOF 05-01-1983. Derogado como inciso e) DOF 10-01-1994. Derogado como inciso d) DOF 17-05-1999 II.- Para gozar de este beneficio el sentenciado deberá: a).- Otorgar la garantía o sujetarse a las medidas que se le fijen, para asegurar su presentación ante la autoridad siempre que fuere requerido; b).- Obligarse a residir en determinado lugar, del que no podrá ausentarse sin permiso de la autoridad que ejerza sobre él cuidado y vigilancia; c).- Desempeñar en el plazo que se le fije, profesión, arte, oficio u ocupación lícitos; d).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares, salvo por prescripción médica; y Fe de erratas al inciso DOF 07-05-1971. Reformado DOF 31-12-1974 e).- Reparar el daño causado.
 Cuando por sus circunstancias personales no pueda reparar desde luego el daño causado, dará caución o se sujetará a las medidas que a juicio del juez o tribunal sean bastantes para asegurar que cumplirá, en el plazo que se le fije esta obligación.
 III.- La suspensión comprenderá la pena de prisión y la multa, y en cuanto a las demás sanciones impuestas, el juez o tribunal resolverán discrecionalmente según las circunstancias del caso.
@@ -832,7 +947,11 @@ Artículo reformado DOF 15-01-1951, 29-07-1970
 ### Artículo 135
 .- Se aplicará la pena de uno a veinte años de prisión y multa hasta de cincuenta mil pesos al que:
 I.- En cualquier forma o por cualquier medio invite a una rebelión;
-II.- Residiendo en territorio ocupado por el Gobierno: a) Oculte o auxilie a los espías o exploradores de los rebeldes, sabiendo que lo son; b) Mantenga relaciones con los rebeldes, para proporcionarles noticias concernientes a las operaciones militares u otras que les sean útiles.
+II.- Residiendo en territorio ocupado por el Gobierno:
+
+a) Oculte o auxilie a los espías o exploradores de los rebeldes, sabiendo que lo son;
+
+b) Mantenga relaciones con los rebeldes, para proporcionarles noticias concernientes a las operaciones militares u otras que les sean útiles.
 III.- Voluntariamente sirva un empleo, cargo o comisión en lugar ocupado por los rebeldes, salvo que actúe coaccionado o por razones humanitarias.
 Artículo reformado DOF 15-01-1951, 29-07-1970
 
@@ -851,11 +970,18 @@ Artículo reformado DOF 29-07-1970 CAPITULO VI Terrorismo Capítulo adicionado D
 
 ### Artículo 139
 .- Se impondrá pena de prisión de quince a cuarenta años y multa de cuatrocientas a mil doscientas veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas que correspondan por otros delitos que resulten:
-Párrafo reformado DOF 07-06-2024 I. A quien utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo, material nuclear, combustible nuclear, mineral radiactivo, fuente de radiación o instrumentos que emitan radiaciones, explosivos, o armas de fuego, o por incendio, inundación o por cualquier otro medio violento, intencionalmente realice actos en contra de bienes o servicios, ya sea públicos o privados, o bien, en contra de la integridad física, emocional, o la vida de personas, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para atentar contra la seguridad nacional o presionar a la autoridad o a un particular, u obligar a éste para que tome una determinación.
+Párrafo reformado DOF 07-06-2024
+
+I. A quien utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo, material nuclear, combustible nuclear, mineral radiactivo, fuente de radiación o instrumentos que emitan radiaciones, explosivos, o armas de fuego, o por incendio, inundación o por cualquier otro medio violento, intencionalmente realice actos en contra de bienes o servicios, ya sea públicos o privados, o bien, en contra de la integridad física, emocional, o la vida de personas, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para atentar contra la seguridad nacional o presionar a la autoridad o a un particular, u obligar a éste para que tome una determinación.
+
 II. Al que acuerde o prepare un acto terrorista que se pretenda cometer, se esté cometiendo o se haya cometido en territorio nacional.
 Las sanciones a que se refiere el primer párrafo de este artículo se aumentarán en una mitad, cuando además:
+
 I. El delito sea cometido en contra de un bien inmueble de acceso público;
-II. Se genere un daño o perjuicio a la economía nacional, o III. En la comisión del delito se detenga en calidad de rehén a una persona.
+
+II. Se genere un daño o perjuicio a la economía nacional, o
+
+III. En la comisión del delito se detenga en calidad de rehén a una persona.
 A quien utilice aeronaves pilotadas a distancia para cometer las conductas previstas en la fracción I del párrafo primero del presente artículo, se aumentará hasta en un tercio la pena establecida.
 Párrafo adicionado DOF 07-06-2024 Artículo reformado DOF 29-07-1970, 28-06-2007, 14-03-2014
 
@@ -875,6 +1001,7 @@ Del Financiamiento al Terrorismo Capítulo adicionado DOF 14-03-2014
 
 ### Artículo 139
 Quáter.- Se impondrá la misma pena señalada en el artículo 139 de este Código, sin perjuicio de las penas que corresponden por los demás delitos que resulten, al que por cualquier medio que fuere ya sea directa o indirectamente, aporte o recaude fondos económicos o recursos de cualquier naturaleza, con conocimiento de que serán destinados para financiar o apoyar actividades de individuos u organizaciones terroristas, o para ser utilizados, o pretendan ser utilizados, directa o indirectamente, total o parcialmente, para la comisión, en territorio nacional o en el extranjero, de cualquiera de los delitos previstos en los ordenamientos legales siguientes: 1) Terrorismo, previstos en los artículos 139, 139 Bis y 139 Ter; 2) Sabotaje, previsto en el artículo 140; 3) Terrorismo Internacional, previsto en los artículos 148 Bis, 148 Ter y 148 Quáter; 4) Ataques a las vías de comunicación, previstos en los artículos 167, fracción IX, y 170, párrafos primero, segundo y tercero, y 5) Robo, previsto en el artículo 368 Quinquies.
+
 II. De la Ley que Declara Reservas Mineras los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se obtengan Isótopos Hendibles que puedan producir Energía Nuclear, los previstos en los artículos 10 y 13.
 Artículo adicionado DOF 14-03-2014
 
@@ -936,9 +1063,14 @@ CAPITULO III TERRORISMO INTERNACIONAL Capítulo adicionado DOF 28-06-2007
 
 ### Artículo 148
 Bis.- Se impondrá pena de prisión de quince a cuarenta años y de cuatrocientos a mil doscientos días multa, sin perjuicio de las penas que correspondan por otros delitos que resulten:
+
 I. A quien utilizando sustancias tóxicas, armas químicas, biológicas o similares, material radioactivo, material nuclear, combustible nuclear, mineral radiactivo, fuente de radiación o instrumentos que emitan radiaciones, explosivos o armas de fuego, o por incendio, inundación o por cualquier otro medio violento, realice en territorio mexicano, actos en contra de bienes, personas o servicios, de un Estado extranjero, o de cualquier organismo u organización internacionales, que produzcan alarma, temor o terror en la población o en un grupo o sector de ella, para presionar a la autoridad de ese Estado extranjero, u obligar a éste o a un organismo u organización internacionales para que tomen una determinación;
+
 II. Al que cometa el delito de homicidio o algún acto contra la libertad de una persona internacionalmente protegida;
-III. Al que realice, en territorio mexicano, cualquier acto violento en contra de locales oficiales, residencias particulares o medios de transporte de una persona internacionalmente protegida, que atente en contra de su vida o su libertad, o IV. Al que acuerde o prepare en territorio mexicano un acto terrorista que se pretenda cometer, se esté cometiendo o se haya cometido en el extranjero.
+
+III. Al que realice, en territorio mexicano, cualquier acto violento en contra de locales oficiales, residencias particulares o medios de transporte de una persona internacionalmente protegida, que atente en contra de su vida o su libertad, o
+
+IV. Al que acuerde o prepare en territorio mexicano un acto terrorista que se pretenda cometer, se esté cometiendo o se haya cometido en el extranjero.
 Para efectos de este artículo se entenderá como persona internacionalmente protegida a un jefe de Estado incluso cada uno de los miembros de un órgano colegiado cuando, de conformidad con la constitución respectiva, cumpla las funciones de jefe de Estado, un jefe de gobierno o un ministro de relaciones exteriores, así como los miembros de su familia que lo acompañen y, además, a cualquier representante, funcionario o personalidad oficial de un Estado o cualquier funcionario, personalidad oficial u otro agente de una organización intergubernamental que, en el momento y en el lugar en que se cometa un delito contra él, los miembros de su familia que habiten con él, sus locales oficiales, su residencia particular o sus medios de transporte, tenga derecho a una protección especial conforme al derecho internacional.
 Artículo adicionado DOF 28-06-2007. Reformado DOF 14-03-2014
 
@@ -967,8 +1099,12 @@ Artículo adicionado DOF 20-01-1967 Título Tercero Bis Delitos contra la Dignid
 
 ### Artículo 149
 Ter. Se aplicará sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa al que por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+
 I. Niegue a una persona un servicio o una prestación a la que tenga derecho;
-II. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo; o límite un servicio de salud, principalmente a la mujer en relación con el embarazo; o III. Niegue o restrinja derechos educativos.
+
+II. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo; o límite un servicio de salud, principalmente a la mujer en relación con el embarazo; o
+
+III. Niegue o restrinja derechos educativos.
 Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación a que tenga derecho se le aumentará en una mitad la pena prevista en el primer párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
 No serán consideradas discriminatorias todas aquellas medidas tendentes a la protección de los grupos socialmente desfavorecidos.
 Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
@@ -1044,7 +1180,10 @@ Uso indebido de aeronaves pilotadas a distancia Capítulo adicionado DOF 07-06-2
 
 ### Artículo 163
 Bis.- Se impondrá pena de prisión de diez a veinte años, sin perjuicio de las penas que correspondan por otros delitos que resulten, a quien mediante el uso de aeronaves pilotadas a distancia realice las conductas siguientes:
-I. Arroje cualquier objeto o artefacto explosivo, artefactos explosivos improvisados o armas, así como sustancias químicas que por sí solas o combinadas sean susceptibles de ser empleadas como explosivos sobre otras personas o bienes, y II. Impacte a alguna persona o propiedad con el propósito de causar daño.
+
+I. Arroje cualquier objeto o artefacto explosivo, artefactos explosivos improvisados o armas, así como sustancias químicas que por sí solas o combinadas sean susceptibles de ser empleadas como explosivos sobre otras personas o bienes, y
+
+II. Impacte a alguna persona o propiedad con el propósito de causar daño.
 Cuando la persona o el bien afectado pertenezca o esté destinado a las Fuerzas Armadas o de seguridad pública, la pena establecida se aumentará hasta en una mitad.
 Artículo adicionado DOF 07-06-2024
 
@@ -1087,8 +1226,14 @@ Fracción reformada DOF 17-05-1999, 14-07-2014 III.- Al que, para detener los ve
 IV.- Por el incendio de un vagón, o de cualquier otro vehículo destinado al transporte de carga y que no forme parte de un tren en que se halle alguna persona;
 V.- Al que inundare en todo o en parte, un camino público o echare sobre él las aguas de modo que causen daño;
 VI.- Al que dolosamente o con fines de lucro, interrumpa o interfiera las comunicaciones, alámbricas, inalámbricas o de fibra óptica, sean telegráficas, telefónicas o satelitales, por medio de las cuales se transfieran señales de audio, de video o de datos;
-Fracción reformada DOF 17-05-1999 VII. Al que destruya en todo o en parte, o paralice por otro medio de los especificados en las fracciones anteriores, una máquina empleada en un camino de hierro, o una embarcación, o destruya o deteriore un puente, un dique, una calzada o camino, o una vía;
-Fracción reformada DOF 28-06-2007 VIII. Al que con objeto de perjudicar o dificultar las comunicaciones, modifique o altere el mecanismo de un vehículo haciendo que pierda potencia, velocidad o seguridad, y Fracción adicionada DOF 15-01-1951. Reformada DOF 28-06-2007 IX. Al que difunda o transmita información falsa que en cualquier forma perjudique o pueda perjudicar la seguridad de una aeronave, de un buque o de otro tipo de vehículo de servicio público federal.
+Fracción reformada DOF 17-05-1999
+
+VII. Al que destruya en todo o en parte, o paralice por otro medio de los especificados en las fracciones anteriores, una máquina empleada en un camino de hierro, o una embarcación, o destruya o deteriore un puente, un dique, una calzada o camino, o una vía;
+Fracción reformada DOF 28-06-2007
+
+VIII. Al que con objeto de perjudicar o dificultar las comunicaciones, modifique o altere el mecanismo de un vehículo haciendo que pierda potencia, velocidad o seguridad, y Fracción adicionada DOF 15-01-1951. Reformada DOF 28-06-2007
+
+IX. Al que difunda o transmita información falsa que en cualquier forma perjudique o pueda perjudicar la seguridad de una aeronave, de un buque o de otro tipo de vehículo de servicio público federal.
 Fracción adicionada DOF 11-01-1982. Derogada DOF 07-11-1996. Adicionada DOF 28-06-2007
 
 ### Artículo 168
@@ -1098,8 +1243,13 @@ Párrafo adicionado DOF 07-06-2024
 
 ### Artículo 168
 bis.- Se impondrán de seis meses a dos años de prisión y de trescientos a tres mil días multa, a quien sin derecho:
+
 I. Descifre o decodifique señales de telecomunicaciones distintas a las de satélite portadoras de programas;
-Fracción reformada DOF 01-07-2020 II. Transmita la propiedad, uso o goce de aparatos, instrumentos o información que permitan descifrar o decodificar señales de telecomunicaciones distintas a las de satélite portadoras de programas, o Fracción reformada DOF 01-07-2020 III. Reciba o distribuya una señal de satélite cifrada portadora de programas originalmente codificada, sin la autorización del distribuidor legal de la señal.
+Fracción reformada DOF 01-07-2020
+
+II. Transmita la propiedad, uso o goce de aparatos, instrumentos o información que permitan descifrar o decodificar señales de telecomunicaciones distintas a las de satélite portadoras de programas, o Fracción reformada DOF 01-07-2020
+
+III. Reciba o distribuya una señal de satélite cifrada portadora de programas originalmente codificada, sin la autorización del distribuidor legal de la señal.
 Fracción adicionada DOF 01-07-2020 Artículo adicionado DOF 17-05-1999
 
 ### Artículo 168
@@ -1261,7 +1411,9 @@ Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 08-03-1968, 31-12-1974,
 ### Artículo 195
 bis.- Cuando por las circunstancias del hecho la posesión de alguno de los narcóticos señalados en el artículo 193, sin la autorización a que se refiere la Ley General de Salud, no pueda considerarse destinada a realizar alguna de las conductas a que se refiere el artículo 194, se aplicará pena de cuatro a siete años seis meses de prisión y de cincuenta a ciento cincuenta días multa.
 El Ministerio Público Federal no procederá penalmente por este delito en contra de la persona que posea:
+
 I. Medicamentos que contengan narcóticos, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+
 II. Peyote u hongos alucinógenos, cuando por la cantidad y circunstancias del caso pueda presumirse que serán utilizados en las ceremonias, usos y costumbres de los pueblos y comunidades indígenas y afromexicanas, así reconocidos por sus autoridades propias.
 Fracción reformada DOF 01-04-2024 Para efectos de este capítulo se entiende por posesión: la tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona.
 La posesión de narcóticos podrá ser investigada, perseguida y, en su caso sancionada por las autoridades del fuero común en los términos de la Ley General de Salud, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
@@ -1380,7 +1532,19 @@ Artículo reformado DOF 14-02-1940, 14-01-1966, 21-01-1991, 27-03-2007
 
 ### Artículo 201
 .- Comete el delito de corrupción de menores, quien obligue, induzca, facilite o procure a una o varias personas menores de 18 años de edad o una o varias personas que no tienen capacidad para comprender el significado del hecho o una o varias personas que no tienen capacidad para resistirlo a realizar cualquiera de los siguientes actos:
-Párrafo reformado DOF 18-07-2016 a) Consumo habitual de bebidas alcohólicas; b) Consumo de sustancias tóxicas o al consumo de alguno de los narcóticos a que se refiere el párrafo primero del artículo 193 de este Código o a la fármaco dependencia; c) Mendicidad con fines de explotación; d) Comisión de algún delito; e) Formar parte de una asociación delictuosa; o Inciso reformado DOF 18-07-2016 f) Realizar actos de exhibicionismo corporal o sexuales simulados o no, con fin lascivo o sexual.
+Párrafo reformado DOF 18-07-2016
+
+a) Consumo habitual de bebidas alcohólicas;
+
+b) Consumo de sustancias tóxicas o al consumo de alguno de los narcóticos a que se refiere el párrafo primero del artículo 193 de este Código o a la fármaco dependencia;
+
+c) Mendicidad con fines de explotación;
+
+d) Comisión de algún delito;
+
+e) Formar parte de una asociación delictuosa; o Inciso reformado DOF 18-07-2016
+
+f) Realizar actos de exhibicionismo corporal o sexuales simulados o no, con fin lascivo o sexual.
 A quién cometa este delito se le impondrá: en el caso del inciso a) o b) pena de prisión de cinco a diez años y multa de quinientos a mil días; en el caso del inciso c) pena de prisión de cuatro a nueve años y de cuatrocientos a novecientos días multa; en el caso del inciso d) se estará a lo dispuesto en el artículo 52, del Capítulo I, del Título Tercero, del presente Código; en el caso del inciso e) o f) pena de prisión de siete a doce años y multa de ochocientos a dos mil quinientos días.
 Cuando se trate de mendicidad por situación de pobreza o abandono, deberá ser atendida por la asistencia social.
 No se entenderá por corrupción, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto la educación sexual, educación sobre función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo de adolescentes, siempre que estén aprobados por la autoridad competente; las fotografías, video grabaciones, audio grabaciones o las imágenes fijas o en movimiento, impresas, plasmadas o que sean contenidas o reproducidas en medios magnéticos, electrónicos o de otro tipo y que constituyan recuerdos familiares.
@@ -1452,7 +1616,27 @@ Artículo derogado DOF 14-01-1966. Adicionado DOF 13-01-1984. Reformado DOF 03-0
 
 ### Artículo 205
 Bis. Serán imprescriptibles las sanciones señaladas en los artículos 200, 201, 202, 203, 203 Bis, 204 y 209 Bis de este Código. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
-Párrafo reformado DOF 27-11-2007, 14-06-2012, 25-04-2023, 18-10-2023 a) Los que ejerzan la patria potestad, guarda o custodia; b) Ascendientes o descendientes sin límite de grado; c) Familiares en línea colateral hasta cuarto grado; d) Tutores o curadores; e) Aquél que ejerza sobre la víctima en virtud de una relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima; f) Quien se valga de función pública para cometer el delito; g) Quien habite en el mismo domicilio de la víctima; h) Al ministro de un culto religioso; i) Cuando el autor emplee violencia física, psicológica o moral en contra de la víctima; y j) Quien esté ligado con la víctima por un lazo afectivo o de amistad, de gratitud, o algún otro que pueda influir en obtener la confianza de ésta.
+Párrafo reformado DOF 27-11-2007, 14-06-2012, 25-04-2023, 18-10-2023
+
+a) Los que ejerzan la patria potestad, guarda o custodia;
+
+b) Ascendientes o descendientes sin límite de grado;
+
+c) Familiares en línea colateral hasta cuarto grado;
+
+d) Tutores o curadores;
+
+e) Aquél que ejerza sobre la víctima en virtud de una relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima;
+
+f) Quien se valga de función pública para cometer el delito;
+
+g) Quien habite en el mismo domicilio de la víctima;
+
+h) Al ministro de un culto religioso;
+
+i) Cuando el autor emplee violencia física, psicológica o moral en contra de la víctima; y
+
+j) Quien esté ligado con la víctima por un lazo afectivo o de amistad, de gratitud, o algún otro que pueda influir en obtener la confianza de ésta.
 En los casos de los incisos a), b), c) y d) además de las sanciones señaladas, los autores del delito perderán la patria potestad, tutela o curatela, según sea el caso, respecto de todos sus descendientes, el derecho a alimentos que pudiera corresponderle por su relación con la víctima y el derecho que pudiera tener respecto de los bienes de ésta.
 En los casos de los incisos e), f) y h) si la persona activa del delito fuere servidora o servidor público o ministra o ministro de culto religioso, además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
 Párrafo reformado DOF 18-10-2023 En todos los casos el juez acordará las medidas pertinentes para que se le prohíba permanentemente al ofensor tener cualquier tipo de contacto o relación con la víctima.
@@ -1521,7 +1705,13 @@ Delitos contra la Orientación Sexual o la Identidad de Género de las Personas 
 Quintus.- Se impondrá de dos a seis años de prisión y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización a quien realice, imparta, aplique, obligue o financie cualquier tipo de tratamiento, terapia, servicio o práctica que obstaculice, restrinja, impida, menoscabe, anule o suprima la orientación sexual, identidad o expresión de género de una persona.
 Se aumentará al doble la sanción prevista en el párrafo que precede, cuando las conductas tipificadas se realicen en contra de personas menores de dieciocho años, adultos mayores o personas con alguna discapacidad.
 En caso de que sea el padre, madre o tutor de la víctima los que incurran en las conductas sancionadas, se les aplicarán las sanciones de amonestación o apercibimiento a consideración del juez.
-Las sanciones señaladas en el primer párrafo de este artículo se aumentarán al doble de la que corresponda, cuando la persona autora tuviere para con la víctima, alguna de las relaciones que a continuación se enuncian o bien, se sitúen en alguno de los siguientes supuestos: a) Relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima; b) Quien se valga de función pública para cometer el delito, y c) Cuando la persona autora emplee violencia física, psicológica o moral en contra de la víctima.
+Las sanciones señaladas en el primer párrafo de este artículo se aumentarán al doble de la que corresponda, cuando la persona autora tuviere para con la víctima, alguna de las relaciones que a continuación se enuncian o bien, se sitúen en alguno de los siguientes supuestos:
+
+a) Relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima;
+
+b) Quien se valga de función pública para cometer el delito, y
+
+c) Cuando la persona autora emplee violencia física, psicológica o moral en contra de la víctima.
 En los casos de los incisos a) y b), además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
 Bastará la presentación de una denuncia para iniciar la investigación de los hechos que revistan las características del delito al que este precepto se refiere.
 Para la determinación del daño ocasionado al libre desarrollo de la personalidad de la víctima y su reparación, se observará lo dispuesto en el artículo 209 Ter.
@@ -1614,9 +1804,11 @@ Párrafo reformado DOF 17-11-1986, 30-06-2006, 18-07-2016 Fe de erratas al artí
 ### Artículo 215
 .- Cometen el delito de abuso de autoridad los servidores públicos que incurran en alguna de las conductas siguientes:
 Párrafo reformado DOF 03-01-1989 I.- Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
+
 II. Derogado.
 Fracción derogada DOF 26-06-2017 III.- Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
 IV.- Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la ley;
+
 V. Cuando el encargado o elemento de una fuerza pública, requerido legalmente por una autoridad competente para que le preste auxilio se niegue a dárselo o retrase el mismo injustificadamente.
 La misma previsión se aplicará tratándose de peritos.
 Fracción reformada DOF 23-01-2009 VI.- Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, o centros de arraigo que, sin los requisitos legales, reciba como presa, detenida, arrestada, arraigada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
@@ -1626,9 +1818,15 @@ IX.- Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o 
 Fracción reformada DOF 18-07-2016 X.- Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado;
 XI.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que lo haga con conocimiento de tal situación;
 Fracción reformada DOF 06-06-2006, 18-07-2016 XII.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
-Fracción reformada DOF 06-06-2006 XIII. Derogada.
+Fracción reformada DOF 06-06-2006
+
+XIII. Derogada.
 Fracción adicionada DOF 06-06-2006. Reformada DOF 30-11-2010, 18-07-2016. Derogada DOF 26-06-2017 de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad.
-Fracción adicionada DOF 06-06-2006 XV. Omitir realizar el registro inmediato de la detención correspondiente, falsear el Reporte Administrativo de Detención correspondiente, omitir actualizarlo debidamente o dilatar injustificadamente poner al detenido bajo la custodia de la autoridad correspondiente; y Fracción adicionada DOF 23-01-2009. Reformada DOF 30-11-2010, 26-06-2017 XVI. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
+Fracción adicionada DOF 06-06-2006
+
+XV. Omitir realizar el registro inmediato de la detención correspondiente, falsear el Reporte Administrativo de Detención correspondiente, omitir actualizarlo debidamente o dilatar injustificadamente poner al detenido bajo la custodia de la autoridad correspondiente; y Fracción adicionada DOF 23-01-2009. Reformada DOF 30-11-2010, 26-06-2017
+
+XVI. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
 Fracción adicionada DOF 30-11-2010 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien días multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 Párrafo reformado DOF 03-01-1989, 18-07-2016 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIV, XV y XVI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 Párrafo reformado DOF 03-01-1989, 06-06-2006, 23-01-2009, 30-11-2010, 18-07-2016, 26-06-2017 Artículo reformado DOF 05-01-1983 Desaparición forzada de personas (Derogado) Capítulo adicionado DOF 01-06-2001. Derogado DOF 17-11-2017
@@ -1662,7 +1860,9 @@ B) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido eco
 Inciso reformado DOF 18-07-2016 C) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal;
 Inciso reformado DOF 18-07-2016 D) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos;
 Inciso reformado DOF 18-07-2016 E) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
-Inciso adicionado DOF 18-07-2016 I. bis.- El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
+Inciso adicionado DOF 18-07-2016
+
+I. bis.- El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
 A) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o B) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
 Fracción con incisos adicionada DOF 18-07-2016 II.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas, y III.- El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
 Fracción reformada DOF 18-07-2016 Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
@@ -1680,15 +1880,22 @@ Del pago y recibo indebido de remuneraciones de los servidores públicos Capítu
 
 ### Artículo 217
 Ter. Además de las responsabilidades administrativa y política, incurre en el delito de remuneración ilícita:
+
 I. El servidor público que apruebe o refrende el pago, o que suscriba el comprobante, cheque, nómina u orden de pago, de una remuneración, retribución, jubilación, pensión, haber de retiro, liquidación por servicios prestados, préstamo o crédito, no autorizado de conformidad con lo dispuesto en la Ley Federal de Remuneraciones de los Servidores Públicos;
+
 II. Quien reciba un pago indebido en los términos de la fracción anterior sin realizar el reporte dentro del plazo señalado en el artículo 5 de la Ley Federal de Remuneraciones de los Servidores Públicos, teniendo conocimiento de la ilicitud del acto, excepto cuando forme parte del personal de base y supernumerario de las entidades públicas que no tenga puesto de mando medio o superior, así como el personal de tropa y clases de las fuerzas armadas, o en los casos considerados por el mismo artículo 5 de la mencionada Ley como falta administrativa no grave.
 Artículo adicionado DOF 05-11-2018. Artículo y numeral reformado (antes artículo 217 Bis) DOF 12-04-2019
 
 ### Artículo 217
 Quáter. Por la comisión del delito señalado en el artículo precedente se impondrán las siguientes penas:
+
 I. Si el beneficio indebidamente otorgado no excede del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito;
+
 II. Si el beneficio indebidamente otorgado excede el equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, pero no es mayor que el equivalente a dos mil veces dicha unidad, se impondrán de seis meses a tres años de prisión y multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito;
-III. Si el beneficio indebidamente otorgado excede el equivalente a dos mil veces, pero no es mayor que el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres a cinco años de prisión y multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, y IV. Si el beneficio indebidamente otorgado excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de cinco a doce años de prisión y multa de quinientas a tres mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito.
+
+III. Si el beneficio indebidamente otorgado excede el equivalente a dos mil veces, pero no es mayor que el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres a cinco años de prisión y multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, y
+
+IV. Si el beneficio indebidamente otorgado excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de cinco a doce años de prisión y multa de quinientas a tres mil veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito.
 Se impondrá también la destitución y la inhabilitación para desempeñar otro cargo, empleo o comisión públicos de seis meses a catorce años.
 Artículo adicionado DOF 05-11-2018. Artículo y numeral reformado (antes artículo 217 Ter) DOF 12-04-2019 CAPITULO VI Concusión Capítulo adicionado DOF 05-01-1983
 
@@ -1725,7 +1932,11 @@ Párrafo reformado DOF 18-07-2016 Artículo derogado DOF 03-01-1980. Adicionado 
 ### Artículo 222
 . Cometen el delito de cohecho:
 I.- El servidor público que por sí, o por interpósita persona solicite o reciba ilícitamente para sí o para otro, dinero o cualquier beneficio, o acepte una promesa, para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
-Fracción reformada DOF 12-03-2015, 18-07-2016 II.- El que dé, prometa o entregue cualquier beneficio a alguna de las personas que se mencionan en el artículo 212 de este Código, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión, y Fracción reformada DOF 12-03-2015, 18-07-2016 III.- El legislador federal que, en el ejercicio de sus funciones o atribuciones, y en el marco del proceso de aprobación del presupuesto de egresos respectivo, gestione o solicite: a) La asignación de recursos a favor de un ente público, exigiendo u obteniendo, para sí o para un tercero, una comisión, dádiva o contraprestación, en dinero o en especie, distinta a la que le corresponde por el ejercicio de su encargo; b) El otorgamiento de contratos de obra pública o de servicios a favor de determinadas personas físicas o morales.
+Fracción reformada DOF 12-03-2015, 18-07-2016 II.- El que dé, prometa o entregue cualquier beneficio a alguna de las personas que se mencionan en el artículo 212 de este Código, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión, y Fracción reformada DOF 12-03-2015, 18-07-2016 III.- El legislador federal que, en el ejercicio de sus funciones o atribuciones, y en el marco del proceso de aprobación del presupuesto de egresos respectivo, gestione o solicite:
+
+a) La asignación de recursos a favor de un ente público, exigiendo u obteniendo, para sí o para un tercero, una comisión, dádiva o contraprestación, en dinero o en especie, distinta a la que le corresponde por el ejercicio de su encargo;
+
+b) El otorgamiento de contratos de obra pública o de servicios a favor de determinadas personas físicas o morales.
 Fracción con incisos adicionada DOF 18-07-2016 Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o en representación del legislador federal las asignaciones de recursos u otorgamiento de contratos a que se refieren los incisos a) y b) de este artículo.
 Párrafo adicionado DOF 18-07-2016 Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
 Cuando la cantidad o el valor de la dádiva, de los bienes o la promesa no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
@@ -1738,8 +1949,13 @@ Cohecho a servidores públicos extranjeros Capítulo adicionado DOF 17-05-1999
 
 ### Artículo 222
 bis.- Se impondrán las penas previstas en el artículo anterior al que con el propósito de obtener o retener para sí o para otra persona ventajas indebidas en el desarrollo o conducción de transacciones comerciales internacionales, ofrezca, prometa o dé, por sí o por interpósita persona, dinero o cualquiera otra dádiva, ya sea en bienes o servicios:
+
 I. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione o se abstenga de gestionar la tramitación o resolución de asuntos relacionados con las funciones inherentes a su empleo, cargo o comisión;
-Fracción reformada DOF 23-08-2005, 12-03-2015 II. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione la tramitación o resolución de cualquier asunto que se encuentre fuera del ámbito de las funciones inherentes a su empleo, cargo o comisión, o Fracción reformada DOF 23-08-2005, 12-03-2015 III. A cualquier persona para que acuda ante un servidor público extranjero y le requiera o le proponga llevar a cabo la tramitación o resolución de cualquier asunto relacionado con las funciones inherentes al empleo, cargo o comisión de este último.
+Fracción reformada DOF 23-08-2005, 12-03-2015
+
+II. A un servidor público extranjero, en su beneficio o el de un tercero, para que dicho servidor público gestione la tramitación o resolución de cualquier asunto que se encuentre fuera del ámbito de las funciones inherentes a su empleo, cargo o comisión, o Fracción reformada DOF 23-08-2005, 12-03-2015
+
+III. A cualquier persona para que acuda ante un servidor público extranjero y le requiera o le proponga llevar a cabo la tramitación o resolución de cualquier asunto relacionado con las funciones inherentes al empleo, cargo o comisión de este último.
 Para los efectos de este artículo se entiende por servidor público extranjero, toda persona que desempeñe un empleo, cargo o comisión en el poder legislativo, ejecutivo o judicial o en un órgano público autónomo en cualquier orden o nivel de gobierno de un Estado extranjero, sea designado o electo; cualquier persona en ejercicio de una función para una autoridad, organismo o empresa pública o de participación estatal de un país extranjero; y cualquier funcionario o agente de un organismo u organización pública internacional.
 Párrafo reformado DOF 23-08-2005 Cuando alguno de los delitos comprendidos en este artículo se cometa en los supuestos a que se refiere el artículo 11 de este Código, el juez impondrá a la persona moral hasta mil días multa y podrá decretar su suspensión o disolución, tomando en consideración el grado de conocimiento de los órganos de administración respecto del cohecho en la transacción internacional y el daño causado o el beneficio obtenido por la persona moral.
 Párrafo reformado DOF 23-08-2005 Artículo adicionado DOF 17-05-1999 CAPITULO XII Peculado Capítulo adicionado DOF 05-01-1983
@@ -1775,33 +1991,62 @@ V.- No cumplir una disposición que legalmente se les comunique por su superior 
 VI.- Dictar, a sabiendas, una resolución de fondo o una sentencia definitiva que sean ilícitas por violar algún precepto terminante de la ley, o ser contrarias a las actuaciones seguidas en juicio u omitir dictar una resolución de trámite, de fondo o una sentencia definitiva lícita, dentro de los términos dispuestos en la ley;
 Fracción reformada DOF 18-07-2016 VII.- Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebidos;
 VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración de justicia;
+
 IX. Abstenerse injustificadamente de ejercer la acción penal que corresponda de una persona que se encuentre detenida a su disposición como imputado de algún delito, cuando esta sea procedente conforme a la Constitución y a la leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar la acción penal cuando no proceda denuncia, acusación o querella;
 Fracción reformada DOF 10-01-1994, 17-06-2016 X.- Detener a un individuo fuera de los casos señalados por la ley, o retenerlo por más tiempo del señalado en la Constitución;
-Fracción reformada DOF 10-01-1994, 23-01-2009, 17-06-2016, 18-07-2016 XI. Se deroga.
-Fracción derogada DOF 17-06-2016 XII. Derogada.
+Fracción reformada DOF 10-01-1994, 23-01-2009, 17-06-2016, 18-07-2016
+
+XI. Se deroga.
+Fracción derogada DOF 17-06-2016
+
+XII. Derogada.
 Fracción reformada DOF 10-01-1994, 17-06-2016. Derogada DOF 26-06-2017 XIII.- Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
-Fracción derogada DOF 17-06-2016. Adicionada DOF 18-07-2016 XIV. Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
+Fracción derogada DOF 17-06-2016. Adicionada DOF 18-07-2016
+
+XIV. Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
 Fracción reformada DOF 17-06-2016 XV.- Imponer gabelas o contribuciones en cualesquiera lugares de detención o internamiento;
+
 XVI. Demorar injustificadamente el cumplimiento de las resoluciones judiciales, en las que se ordene poner en libertad a un detenido;
 Fracción reformada DOF 17-06-2016 XVII.- No dictar auto de vinculación al proceso o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, a no ser que el inculpado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo;
 Fracción reformada DOF 10-01-1994, 17-06-2016, 18-07-2016 XVIII.- Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
+
 XIX. Abrir procedimiento penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
 Fracción reformada DOF 17-06-2016 XX.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no preceda denuncia, acusación o querella; o realizar la aprehensión sin poner al detenido a disposición del juez en el término señalado por el artículo 16 de la Constitución;
-Fracción reformada DOF 10-01-1994, 18-07-2016 XXI. A los encargados o empleados de los centros penitenciarios que cobren cualquier cantidad a los imputados, sentenciados o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
+Fracción reformada DOF 10-01-1994, 18-07-2016
+
+XXI. A los encargados o empleados de los centros penitenciarios que cobren cualquier cantidad a los imputados, sentenciados o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
 Fracción reformada DOF 17-06-2016 XXII.- Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo juicio hubieren intervenido;
 XXIII.- Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
 XXIV.- Advertir al demandado, ilícitamente, respecto de la providencia de embargo decretada en su contra;
 Fracción reformada DOF 18-07-2016 XXV.- Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común; y XXVI.- Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas.
-Fracción reformada DOF 17-11-1986 XXVII. No ordenar la libertad de un imputado, decretando su vinculación a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa;
+Fracción reformada DOF 17-11-1986
+
+XXVII. No ordenar la libertad de un imputado, decretando su vinculación a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa;
 Fracción adicionada DOF 10-01-1994. Reformada DOF 17-05-1999, 06-06-2006, 17-06-2016 XXVIII.- Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
-Fracción adicionada DOF 17-05-1999. Reformada DOF 06-06-2006, 17-06-2016, 18-07-2016 XXIX. Se deroga.
-Fracción adicionada DOF 06-06-2006. Derogada DOF 23-01-2009 XXX. Retener al imputado sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
-Fracción adicionada DOF 23-01-2009. Reformada DOF 17-06-2016 XXXI. Alterar, modificar, ocultar, destruir, perder o perturbar el lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos o productos relacionados con un hecho delictivo o el procedimiento de cadena de custodia;
+Fracción adicionada DOF 17-05-1999. Reformada DOF 06-06-2006, 17-06-2016, 18-07-2016
+
+XXIX. Se deroga.
+Fracción adicionada DOF 06-06-2006. Derogada DOF 23-01-2009
+
+XXX. Retener al imputado sin cumplir con los requisitos que establece la Constitución y las leyes respectivas;
+Fracción adicionada DOF 23-01-2009. Reformada DOF 17-06-2016
+
+XXXI. Alterar, modificar, ocultar, destruir, perder o perturbar el lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos o productos relacionados con un hecho delictivo o el procedimiento de cadena de custodia;
 Fracción adicionada DOF 23-01-2009. Reformada DOF 14-06-2012, 17-06-2016 XXXII.- Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el imputado se sustraiga a la acción de la justicia;
-Fracción adicionada DOF 23-01-2009. Reformada DOF 14-06-2012, 17-06-2016, 18-07-2016 XXXIII. Obligue a una persona o a su representante a otorgar el perdón en los delitos que se persiguen por querella; y Fracción adicionada DOF 14-06-2012 XXXIV. Obligue a una persona a renunciar a su cargo o empleo para evitar responder a acusaciones de acoso, hostigamiento o para ocultar violaciones a la Ley Federal del Trabajo.
-Fracción adicionada DOF 14-06-2012 XXXV. A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciere amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia y posesiones;
-Fracción adicionada DOF 16-06-2016 XXXVI. A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia;
-Fracción adicionada DOF 16-06-2016 XXXVII. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución.
+Fracción adicionada DOF 23-01-2009. Reformada DOF 14-06-2012, 17-06-2016, 18-07-2016
+
+XXXIII. Obligue a una persona o a su representante a otorgar el perdón en los delitos que se persiguen por querella; y Fracción adicionada DOF 14-06-2012
+
+XXXIV. Obligue a una persona a renunciar a su cargo o empleo para evitar responder a acusaciones de acoso, hostigamiento o para ocultar violaciones a la Ley Federal del Trabajo.
+Fracción adicionada DOF 14-06-2012
+
+XXXV. A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciere amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia y posesiones;
+Fracción adicionada DOF 16-06-2016
+
+XXXVI. A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada, sentenciada o su familia;
+Fracción adicionada DOF 16-06-2016
+
+XXXVII. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución.
 Fracción adicionada DOF 16-06-2016 A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, XXXIII y XXXIV, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa.
 Párrafo reformado DOF 17-05-1999, 14-06-2012, 18-07-2016 A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI y XXXVII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
 Párrafo reformado DOF 17-05-1999, 06-06-2006, 23-01-2009, 16-06-2016, 18-07-2016 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
@@ -1951,6 +2196,7 @@ Fracción reformada DOF 15-01-1951. Recorrida DOF 07-04-2016 CAPITULO V Falsedad
 ### Artículo 247
 .- Se impondrán de cuatro a ocho años de prisión y de cien a trescientos días multa:
 Párrafo reformado DOF 30-12-1991, 10-01-1994. Fe de erratas DOF 01-02-1994. Reformado DOF 20-06-2008, 23-01-2009 I.- Al que interrogado por alguna autoridad pública distinta de la judicial en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad.
+
 II. Se deroga.
 Fracción reformada DOF 10-01-1994. Derogada DOF 23-01-2009 III.- Al que soborne a un testigo, a un perito o a un intérprete, para que se produzca con falsedad en juicio o los obligue o comprometa a ello intimándolos o de otro modo;
 IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testigo, sea examinado y faltare a la verdad en perjuicio de otro, negando ser suya la firma con que hubiere suscrito el documento o afirmando un hecho falso o alternando o negando uno verdadero, o sus circunstancias sustanciales.
@@ -2012,14 +2258,19 @@ TITULO DECIMOCUARTO Delitos contra la economía pública Título recorrido DOF 2
 
 ### Artículo 253
 .- Son actos u omisiones que afectan gravemente al consumo nacional y se sancionarán con prisión de tres a diez años y con doscientos a mil días multa, los siguientes:
-Párrafo reformado DOF 13-05-1996 I.- Los relacionados con artículos de consumo necesario o generalizado o con las materias primas necesarias para elaborarlos, así como con las materias primas esenciales para la actividad de la industria nacional, que consistan en: a).- El acaparamiento, ocultación o injustificada negativa para su venta, con el objeto de obtener un alza en los precios o afectar el abasto a los consumidores. b).- Todo acto o procedimiento que evite o dificulte, o se proponga evitar o dificultar la libre concurrencia en la producción o en el comercio. c).- La limitación de la producción o el manejo que se haga de la misma, con el propósito de mantener las mercancías en injusto precio. d) (Se deroga) Inciso derogado DOF 10-05-2011 e).- La suspensión de la producción, procesamiento, distribución, oferta o venta de mercancías o de la prestación de servicios, que efectúen los industriales, comerciantes, productores, empresarios o prestadores de servicios, con el objeto de obtener un alza en los precios o se afecte el abasto de los consumidores.
+Párrafo reformado DOF 13-05-1996 I.- Los relacionados con artículos de consumo necesario o generalizado o con las materias primas necesarias para elaborarlos, así como con las materias primas esenciales para la actividad de la industria nacional, que consistan en: a).- El acaparamiento, ocultación o injustificada negativa para su venta, con el objeto de obtener un alza en los precios o afectar el abasto a los consumidores. b).- Todo acto o procedimiento que evite o dificulte, o se proponga evitar o dificultar la libre concurrencia en la producción o en el comercio. c).- La limitación de la producción o el manejo que se haga de la misma, con el propósito de mantener las mercancías en injusto precio.
+
+d) (Se deroga) Inciso derogado DOF 10-05-2011 e).- La suspensión de la producción, procesamiento, distribución, oferta o venta de mercancías o de la prestación de servicios, que efectúen los industriales, comerciantes, productores, empresarios o prestadores de servicios, con el objeto de obtener un alza en los precios o se afecte el abasto de los consumidores.
 Si se depone la conducta ilícita dentro de los dos días hábiles siguientes al momento en que la autoridad administrativa competente lo requiera, la sanción aplicable será de seis meses a tres años de prisión, o de cien a quinientos días multa;
 Párrafo reformado DOF 13-05-1996 f).- La exportación, sin permiso de la autoridad competente cuando éste sea necesario de acuerdo con las disposiciones legales aplicables. g).- La venta con inmoderado lucro, por los productores, distribuidores o comerciantes en general. En los casos de que el lucro indebido sea inferior al equivalente a sesenta días del salario mínimo general vigente en la región y en el momento donde se consuma el delito, se sancionará con prisión de dos a seis años y de sesenta a trescientos días multa;
 Fracción reformada DOF 13-05-1996 h).- Distraer, para usos distintos mercancías que hayan sido surtidas para un fin determinado, por una entidad pública o por sus distribuidores, cuando el precio a que se hubiese entregado la mercancía sea inferior al que tenga si se destina a otros usos. i).- Impedir o tratar de impedir la generación, conducción, transformación, distribución o venta de energía eléctrica de servicio público.
-Inciso adicionado DOF 13-05-1996 j) Se deroga.
+Inciso adicionado DOF 13-05-1996
+
+j) Se deroga.
 Inciso adicionado DOF 17-05-1999. Derogado DOF 12-01-2016 II.- Envasar o empacar las mercancías destinadas para la venta, en cantidad inferior a la indicada como contenido neto y fuera de la respectiva tolerancia o sin indicar en los envases o empaques el precio máximo oficial de venta al público, cuando se tenga la obligación de hacerlo.
 III.- Entregar dolosa y repetidamente, cuando la medición se haga en el momento de la transacción, mercancías en cantidades menores a las convenidas.
 IV.- Alterar o reducir por cualquier medio las propiedades que las mercancías o productos debieran tener.
+
 V. Revender a un organismo público, a precios mínimos de garantía o a los autorizados por la Secretaría de Economía, productos agropecuarios, marítimos, fluviales y lacustres adquiridos a un precio menor. Se aplicará la misma sanción al empleado o funcionario del organismo público que los compre a sabiendas de esa situación o propicie que el productor se vea obligado a vender a precios más bajos a terceras personas.
 Fracción reformada DOF 09-04-2012 En cualquiera de los casos señalados en las fracciones anteriores, el juez podrá ordenar, además, la suspensión hasta por un año o la disolución de la empresa de la que el delincuente sea miembro o representante, si concurren las circunstancias mencionadas en el artículo 11 de este Código.
 En los casos de los incisos a), f) y h), de la fracción I y de la IV de este artículo, la autoridad que tenga conocimiento de los hechos procederá de inmediato a depositar los artículos de consumo necesario o generalizado, las materias primas para elaborarlos o las materias primas esenciales para la actividad industrial nacional. El depósito se efectuará en un almacén general de depósito que sea organización nacional auxiliar de crédito y los bienes serán genéricamente designados, en los términos del artículo 281 de la Ley General de Títulos y Operaciones de Crédito; cuando se trate de bienes cuya especial naturaleza no permita el depósito genérico, se constituirá el específico, señalando asimismo, el plazo y condiciones en que habrá de procederse a su venta o destrucción conforme a lo que establece el artículo 282 de la misma Ley. El certificado de depósito que se expida tendrá el carácter de no negociable y será remitido al Ministerio Público o, en su caso, al Juez que conozca del proceso, para los efectos que procedan.
@@ -2042,16 +2293,24 @@ Si el que entregue los insumos referidos, fuere el productor que los recibió de
 Fracción adicionada DOF 30-12-1980 VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253.
 Fracción adicionada DOF 30-12-1980 VII.- Se deroga.
 Fracción adicionada DOF 13-05-1996. Reformada DOF 17-05-1999, 24-10-2011. Derogada DOF 12-01-2016 VIII.- Se deroga.
-Fracción adicionada DOF 24-10-2011. Derogada DOF 12-01-2016 IX. Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
+Fracción adicionada DOF 24-10-2011. Derogada DOF 12-01-2016
+
+IX. Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
 Fracción adicionada DOF 13-05-1996. Recorrida DOF 24-10-2011 Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
 Párrafo adicionado DOF 24-10-2011
 
 ### Artículo 254
 bis. Se sancionará con prisión de cinco a diez años y con mil a diez mil días de multa, a quien celebre, ordene o ejecute contratos, convenios, arreglos o combinaciones entre agentes económicos competidores entre sí, cuyo objeto o efecto sea cualquiera de los siguientes:
+
 I. Fijar, elevar, concertar o manipular el precio de venta o compra de bienes o servicios al que son ofrecidos o demandados en los mercados;
+
 II. Establecer la obligación de no producir, procesar, distribuir, comercializar o adquirir sino solamente una cantidad restringida o limitada de bienes o la prestación o transacción de un número, volumen o frecuencia restringidos o limitados de servicios;
+
 III. Dividir, distribuir, asignar o imponer porciones o segmentos de un mercado actual o potencial de bienes y servicios, mediante clientela, proveedores, tiempos o espacios determinados o determinables;
-IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas, y V. Intercambiar información con alguno de los objetos o efectos a que se refieren las anteriores fracciones.
+
+IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas, y
+
+V. Intercambiar información con alguno de los objetos o efectos a que se refieren las anteriores fracciones.
 El delito previsto en este artículo se perseguirá por querella de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, según corresponda, la cual sólo podrá formularse con el dictamen de probable responsabilidad, en los términos de lo dispuesto en la Ley Federal de Competencia Económica.
 No existirá responsabilidad penal para los agentes económicos que se acojan al beneficio a que se refiere el artículo 103 de la Ley Federal de Competencia Económica, previa resolución de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones que determine que cumple con los términos establecidos en dicha disposición y las demás aplicables.
 Los procesos seguidos por este delito se podrán sobreseer a petición del Pleno de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, cuando los procesados cumplan las sanciones administrativas impuestas y, además se cumplan los requisitos previstos en los criterios técnicos emitidos por la Comisión Federal de Competencia Económica o el Instituto Federal de Telecomunicaciones.
@@ -2135,8 +2394,12 @@ Artículo adicionado DOF 30-12-1997
 
 ### Artículo 266
 . Se equipara a la violación y se sancionará de ocho a treinta años de prisión:
-Párrafo reformado DOF 14-06-2012 I. Al que sin violencia realice cópula con persona menor de dieciocho años de edad;
-Fracción reformada DOF 14-06-2012, 18-10-2023 II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y III. Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de dieciocho años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
+Párrafo reformado DOF 14-06-2012
+
+I. Al que sin violencia realice cópula con persona menor de dieciocho años de edad;
+Fracción reformada DOF 14-06-2012, 18-10-2023 II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y
+
+III. Al que sin violencia y con fines lascivos introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de dieciocho años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
 Fracción reformada DOF 14-06-2012, 18-10-2023 Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se aumentará hasta en una mitad.
 Artículo reformado DOF 20-01-1967, 03-01-1989, 21-01-1991, 30-12-1997
 
@@ -2144,8 +2407,10 @@ Artículo reformado DOF 20-01-1967, 03-01-1989, 21-01-1991, 30-12-1997
 Bis.- Las penas previstas para el abuso sexual y la violación se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
 I.- El delito fuere cometido con intervención directa o inmediata de dos o más personas;
 II.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, o por el padrastro o amasio de la madre del ofendido en contra del hijastro. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima;
+
 III. El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión, dicho término se duplicará en el caso de que el delito fuere cometido por profesionistas que se desempeñen en atención o servicio de niñas, niños y adolescentes;
 Fracción reformada DOF 27-03-2024 IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada.
+
 V. El delito fuere cometido previa suministración de estupefacientes o psicotrópicos a la víctima, en contra de su voluntad o sin su conocimiento.
 Fracción adicionada DOF 15-06-2018 Artículo adicionado DOF 20-01-1967. Reformado DOF 03-01-1989, 21-01-1991
 
@@ -2385,10 +2650,19 @@ Artículo adicionado DOF 03-01-1989
 .- Se entiende que hay ventaja:
 I.- Cuando el delincuente es superior en fuerza física al ofendido y éste no se halla armado;
 II.- Cuando es superior por las armas que emplea, por su mayor destreza en el manejo de ellas o por el número de los que lo acompañan;
+
 III. Cuando se vale de algún medio que debilita la defensa del ofendido;
-Fracción reformada DOF 14-06-2012 IV. Cuando éste se halla inerme o caído y aquél armado o de pie;
-Fracción reformada DOF 14-06-2012 V. El activo sea un hombre superior en fuerza física y el pasivo una mujer o persona menor de dieciocho años;
-Fracción adicionada DOF 14-06-2012 VI. El homicidio y las lesiones se ocasionen en situaciones de violencia familiar; y Fracción adicionada DOF 14-06-2012 VII. Exista una situación de vulnerabilidad motivada por la condición física o mental o por discriminación.
+Fracción reformada DOF 14-06-2012
+
+IV. Cuando éste se halla inerme o caído y aquél armado o de pie;
+Fracción reformada DOF 14-06-2012
+
+V. El activo sea un hombre superior en fuerza física y el pasivo una mujer o persona menor de dieciocho años;
+Fracción adicionada DOF 14-06-2012
+
+VI. El homicidio y las lesiones se ocasionen en situaciones de violencia familiar; y Fracción adicionada DOF 14-06-2012
+
+VII. Exista una situación de vulnerabilidad motivada por la condición física o mental o por discriminación.
 Fracción adicionada DOF 14-06-2012 La ventaja no se tomará en consideración en los tres primeros casos, si el que la tiene obrase en defensa legítima, ni en el cuarto, si el que se halla armado o de pie fuera el agredido, y, además, hubiere corrido peligro su vida por no aprovechar esa circunstancia.
 Fe de erratas al párrafo DOF 31-08-1931
 
@@ -2434,13 +2708,26 @@ Feminicidio Denominación del Capítulo reformada DOF 14-06-2012
 ### Artículo 325
 . Comete el delito de feminicidio quien prive de la vida a una mujer por una razón de género.
 Párrafo reformado DOF 25-04-2023 Se considera que existe una razón de género cuando concurra cualquiera de las siguientes circunstancias:
-Encabezado del párrafo adicionado DOF 25-04-2023 I. La víctima presente signos de violencia sexual de cualquier tipo;
+Encabezado del párrafo adicionado DOF 25-04-2023
+
+I. La víctima presente signos de violencia sexual de cualquier tipo;
+
 II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
+
 III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral, comunitario, político o escolar, del sujeto activo en contra de la víctima;
-Fracción reformada DOF 25-04-2023 IV. Haya existido entre el sujeto activo y la víctima parentesco por consanguinidad o afinidad o una relación sentimental, afectiva, laboral, docente, de confianza o alguna relación de hecho entre las partes;
-Fracción reformada DOF 25-04-2023 V. Existan datos que establezcan que hubo amenazas directas o indirectas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
-Fracción reformada DOF 25-04-2023 VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
-VII. El cuerpo de la víctima sea expuesto, arrojado, depositado o exhibido en un lugar público, o Fracción reformada DOF 25-04-2023 VIII. El sujeto activo haya obligado a la víctima a realizar una actividad o trabajo o haya ejercido sobre ella cualquier forma de explotación.
+Fracción reformada DOF 25-04-2023
+
+IV. Haya existido entre el sujeto activo y la víctima parentesco por consanguinidad o afinidad o una relación sentimental, afectiva, laboral, docente, de confianza o alguna relación de hecho entre las partes;
+Fracción reformada DOF 25-04-2023
+
+V. Existan datos que establezcan que hubo amenazas directas o indirectas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+Fracción reformada DOF 25-04-2023
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+
+VII. El cuerpo de la víctima sea expuesto, arrojado, depositado o exhibido en un lugar público, o Fracción reformada DOF 25-04-2023
+
+VIII. El sujeto activo haya obligado a la víctima a realizar una actividad o trabajo o haya ejercido sobre ella cualquier forma de explotación.
 Fracción adicionada DOF 25-04-2023 A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y de quinientos a mil días multa.
 La pena se agravará hasta en un tercio cuando la víctima sea mujer menor de edad, embarazada, adulta mayor o con discapacidad, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
 Párrafo adicionado DOF 25-04-2023 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio. En su caso, también perderá todo derecho con relación a los hijos de la víctima, garantizando el interés superior de la niñez en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
@@ -2642,9 +2929,16 @@ Artículo adicionado DOF 13-05-1996. Reformado DOF 12-06-2000. Derogado DOF 30-1
 ### Artículo 366
 Ter.- Comete el delito de tráfico de menores, quien traslade a un menor de dieciséis años de edad o lo entregue a un tercero, de manera ilícita, fuera del territorio nacional, con el propósito de obtener un beneficio económico indebido por el traslado o la entrega del menor.
 Cometen el delito a que se refiere el párrafo anterior:
+
 I. Quienes ejerzan la patria potestad o custodia sobre el menor, aunque no haya sido declarada, cuando realicen materialmente el traslado o la entrega o por haber otorgado su consentimiento para ello;
+
 II. Los ascendientes sin límite de grado, los parientes colaterales y por afinidad hasta el cuarto grado, así como cualquier tercero que no tenga parentesco con el menor.
-Se entenderá que las personas a que se refiere el párrafo anterior actúan de manera ilícita cuando tengan conocimiento de que: a) Quienes ejerzan la patria potestad o la custodia del menor no han otorgado su consentimiento expreso para el traslado o la entrega, o b) Quienes ejerzan la patria potestad o la custodia del menor obtendrán un beneficio económico indebido por el traslado o la entrega.
+Se entenderá que las personas a que se refiere el párrafo anterior actúan de manera ilícita cuando tengan conocimiento de que:
+
+a) Quienes ejerzan la patria potestad o la custodia del menor no han otorgado su consentimiento expreso para el traslado o la entrega, o
+
+b) Quienes ejerzan la patria potestad o la custodia del menor obtendrán un beneficio económico indebido por el traslado o la entrega.
+
 III. La persona o personas que reciban al menor.
 A quienes cometan el delito a que se refiere el presente artículo se les impondrá una pena de tres a diez años de prisión y de cuatrocientos a mil días multa.
 Además de las sanciones señaladas en el párrafo anterior, se privará de los derechos de patria potestad, tutela o custodia a quienes, en su caso, teniendo el ejercicio de éstos cometan el delito a que se refiere el presente artículo.
@@ -2653,7 +2947,10 @@ Artículo adicionado DOF 13-01-1984. Recorrido (antes artículo 366 bis) DOF 13-
 
 ### Artículo 366
 quáter.- Las penas a que se refiere el artículo anterior se reducirán en una mitad cuando:
-I. El traslado o entrega del menor se realice sin el propósito de obtener un beneficio económico indebido, o II. La persona que reciba al menor tenga el propósito de incorporarlo a su núcleo familiar.
+
+I. El traslado o entrega del menor se realice sin el propósito de obtener un beneficio económico indebido, o
+
+II. La persona que reciba al menor tenga el propósito de incorporarlo a su núcleo familiar.
 Se impondrán las penas a que se refiere este artículo al padre o madre de un menor de dieciséis años que de manera ilícita o sin el consentimiento de quien o quienes ejerzan la patria potestad o la custodia del menor, sin el propósito de obtener un lucro indebido, lo trasladen fuera del territorio nacional con el fin de cambiar su residencia habitual o impedir a la madre o padre, según sea el caso, convivir con el menor o visitarlo.
 Además, se privará de los derechos de patria potestad, tutela o custodia a quienes, en su caso, teniendo el ejercicio de éstos cometan el delito a que se refiere el presente artículo.
 En los casos a que se refiere este artículo, el delito se perseguirá a petición de parte ofendida.
@@ -2742,10 +3039,16 @@ Artículo adicionado DOF 21-02-2018
 
 ### Artículo 377
 .- Se sancionará con pena de cinco a quince años de prisión y hasta mil días multa, al que a sabiendas y con independencia de las penas que le correspondan por la comisión de otros delitos:
+
 I. Desmantele algún o algunos vehículos robados o comercialice conjunta o separadamente sus partes;
+
 II. Enajene o trafique de cualquier manera con vehículo o vehículos robados;
+
 III. Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite la propiedad o identificación de un vehículo robado;
-IV. Traslade el o los vehículos robados a otra entidad federativa o al extranjero, y V. Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+
+IV. Traslade el o los vehículos robados a otra entidad federativa o al extranjero, y
+
+V. Utilice el o los vehículos robados en la comisión de otro u otros delitos.
 A quien aporte recursos económicos o de cualquier índole, para la ejecución de las actividades descritas en las fracciones anteriores, se le considerará copartícipe en los términos del artículo 13 de este Código.
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual a la pena de prisión impuesta.
 Fe de erratas al artículo DOF 31-08-1931. Derogado DOF 13-01-1984. Adicionado DOF 13-05-1996
@@ -2778,8 +3081,14 @@ Fracción adicionada DOF 13-01-1984 X.- Cuando se cometa en contra de una oficin
 Fracción adicionada DOF 13-01-1984 XI.- Cuando se trate de partes de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación;
 Fracción adicionada DOF 03-01-1989 XII.- Cuando se realicen sobre embarcaciones o cosas que se encuentren en ellas;
 Fracción adicionada DOF 03-01-1989 XIII.- (Se deroga) Fracción adicionada DOF 03-01-1989. Derogada DOF 21-02-2018 XIV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete el servidor público de la oficina en que se encuentre el expediente o documento, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, de seis meses a tres años;
-Fracción adicionada DOF 03-01-1989. Reformada DOF 08-02-1999 XV. Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad;
-Fracción adicionada DOF 03-01-1989. Reformada DOF 08-02-1999, 18-06-2010 XVI. Cuando se cometa en caminos o carreteras, y Fracción adicionada DOF 08-02-1999. Reformada DOF 18-06-2010 XVII. Cuando el objeto de apoderamiento sean vías, sus partes o equipo ferroviario, los bienes, valores o mercancías que se transporten por este medio.
+Fracción adicionada DOF 03-01-1989. Reformada DOF 08-02-1999
+
+XV. Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad;
+Fracción adicionada DOF 03-01-1989. Reformada DOF 08-02-1999, 18-06-2010
+
+XVI. Cuando se cometa en caminos o carreteras, y Fracción adicionada DOF 08-02-1999. Reformada DOF 18-06-2010
+
+XVII. Cuando el objeto de apoderamiento sean vías, sus partes o equipo ferroviario, los bienes, valores o mercancías que se transporten por este medio.
 Fracción adicionada DOF 18-06-2010. Reformada DOF 25-01-2013 En los supuestos a que se refieren las fracciones I, II, III, IV, V, VI, XI, XII, XIV y XV, hasta cinco años de prisión.
 Párrafo adicionado DOF 17-05-1999. Reformado DOF 21-02-2018 En los supuestos a que se refieren las fracciones VII, VIII, IX, X, XVI y XVII, de dos a siete años de prisión.
 Párrafo adicionado DOF 17-05-1999. Reformado DOF 18-06-2010
@@ -2946,17 +3255,36 @@ I.- Con ánimo de lucro, después de la ejecución del delito y sin haber partic
 Si el que recibió la cosa en venta, prenda o bajo cualquier concepto, no tuvo conocimiento de la procedencia ilícita de aquélla, por no haber tomado las precauciones indispensables para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, la pena se disminuirá hasta en una mitad;
 Reforma DOF 30-12-1991: Derogó de la fracción el entonces párrafo tercero (antes adicionado DOF 23-12-1985) II.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito;
 III.- Oculte o favorezca el ocultamiento del responsable de un delito, los efectos, objetos o instrumentos del mismo o impida que se averigüe;
-Fracción reformada DOF 23-12-1985 IV. Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes;
-Fracción reformada DOF 23-01-2009 V. No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables;
-Fracción reformada DOF 23-01-2009 VI. Altere, modifique o perturbe ilícitamente el lugar, huellas o vestigios del hecho delictivo, y Fracción adicionada DOF 23-01-2009 VII. Desvíe u obstaculice la investigación del hecho delictivo de que se trate o favorezca que el inculpado se sustraiga a la acción de la justicia.
-Fracción adicionada DOF 23-01-2009 No se aplicará la pena prevista en este artículo en los casos de las fracciones III, en lo referente al ocultamiento del infractor, y IV, cuando se trate de: a) Los ascendientes y descendientes consanguíneos o afines; b) El cónyuge, la concubina, el concubinario y parientes colaterales por consanguinidad hasta el cuarto grado, y por afinidad hasta el segundo; y c) Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad derivados de motivos nobles.
-Párrafo con incisos adicionado DOF 23-12-1985 Las disposiciones contenidas en el párrafo anterior y las excusas absolutorias previstas en los incisos a) a c) no serán aplicables cuando el infractor que se oculte sea responsable del delito de feminicidio u homicidio.
+Fracción reformada DOF 23-12-1985
+
+IV. Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes;
+Fracción reformada DOF 23-01-2009
+
+V. No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables;
+Fracción reformada DOF 23-01-2009
+
+VI. Altere, modifique o perturbe ilícitamente el lugar, huellas o vestigios del hecho delictivo, y Fracción adicionada DOF 23-01-2009
+
+VII. Desvíe u obstaculice la investigación del hecho delictivo de que se trate o favorezca que el inculpado se sustraiga a la acción de la justicia.
+Fracción adicionada DOF 23-01-2009 No se aplicará la pena prevista en este artículo en los casos de las fracciones III, en lo referente al ocultamiento del infractor, y IV, cuando se trate de:
+
+a) Los ascendientes y descendientes consanguíneos o afines;
+
+b) El cónyuge, la concubina, el concubinario y parientes colaterales por consanguinidad hasta el cuarto grado, y por afinidad hasta el segundo; y
+
+c) Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad derivados de motivos nobles.
+Párrafo con incisos adicionado DOF 23-12-1985 Las disposiciones contenidas en el párrafo anterior y las excusas absolutorias previstas en los incisos
+
+a) a c) no serán aplicables cuando el infractor que se oculte sea responsable del delito de feminicidio u homicidio.
 Párrafo adicionado DOF 25-04-2023 El juez, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que señala el artículo 52, podrá imponer en los casos de encubrimiento a que se refieren las fracciones I, párrafo primero y II a IV de este artículo, en lugar de las sanciones señaladas, hasta las dos terceras partes de las que correspondería al autor del delito; debiendo hacer constar en la sentencia las razones en que se funda para aplicar la sanción que autoriza este párrafo.
 Párrafo adicionado DOF 13-05-1996 Artículo reformado DOF 09-03-1946, 20-01-1967, 14-01-1985 CAPITULO II Operaciones con recursos de procedencia ilícita Capítulo adicionado DOF 13-05-1996
 
 ### Artículo 400
 Bis. Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que, por sí o por interpósita persona realice cualquiera de las siguientes conductas:
-I. Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera, dentro del territorio nacional, de éste hacia el extranjero o a la inversa, recursos, derechos o bienes de cualquier naturaleza, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita, o II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita.
+
+I. Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera, dentro del territorio nacional, de éste hacia el extranjero o a la inversa, recursos, derechos o bienes de cualquier naturaleza, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita, o
+
+II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita.
 Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
 En caso de conductas previstas en este Capítulo, en las que se utilicen servicios de instituciones que integran el sistema financiero el Ministerio Público estará en todo momento facultado para investigarlas.
 Para ejercer la acción penal se requerirá la denuncia de la Secretaría de Hacienda y Crédito Público, quien tendrá el carácter de víctima u ofendida.
@@ -2972,12 +3300,19 @@ Artículo adicionado DOF 14-03-2014 TITULO VIGESIMOCUARTO Delitos Electorales y 
 
 ### Artículo 401
 .- Para los efectos de este Capítulo, se entiende por:
+
 I. Servidores Públicos, las personas que se encuentren dentro de los supuestos establecidos por el artículo 212 de este Código.
 Se entenderá también como Servidores Públicos a los funcionarios y empleados de la Administración Pública Estatal y Municipal;
+
 II. Funcionarios electorales, quienes en los términos de la legislación federal electoral integren los órganos que cumplen funciones electorales;
+
 III. Funcionarios partidistas, los dirigentes de los partidos políticos nacionales y de las agrupaciones políticas, y sus representantes ante los órganos electorales, en los términos de la legislación federal electoral;
+
 IV. Candidatos, los ciudadanos registrados formalmente como tales por la autoridad competente;
-V. Documentos públicos electorales, las actas de la jornada electoral, las relativas al escrutinio y cómputo de cada una de las elecciones, paquetes electorales y expedientes de casilla, las actas circunstanciadas de las sesiones de cómputo de los consejos locales y distritales, y las de los cómputos de circunscripción plurinominal y, en general todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos del Instituto Federal Electoral; y VI. Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
+
+V. Documentos públicos electorales, las actas de la jornada electoral, las relativas al escrutinio y cómputo de cada una de las elecciones, paquetes electorales y expedientes de casilla, las actas circunstanciadas de las sesiones de cómputo de los consejos locales y distritales, y las de los cómputos de circunscripción plurinominal y, en general todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos del Instituto Federal Electoral; y
+
+VI. Materiales electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
 Artículo adicionado DOF 15-08-1990. Reformado DOF 22-11-1996
 
 ### Artículo 402
@@ -2986,18 +3321,32 @@ Artículo adicionado DOF 15-08-1990. Reformado DOF 25-03-1994
 
 ### Artículo 403
 .- Se impondrán de diez a cien días multa y prisión de seis meses a tres años, a quien:
+
 I. Vote a sabiendas de que no cumple con los requisitos de la ley;
+
 II. Vote más de una vez en una misma elección;
+
 III. Haga proselitismo o presione objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
+
 IV. Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
+
 V. Recoja en cualquier tiempo, sin causa prevista por la ley, credenciales para votar de los ciudadanos;
+
 VI. Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
+
 VII. El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto;
+
 VIII. Vote o pretenda votar con una credencial para votar de la que no sea titular;
+
 IX. El día de la jornada electoral lleve a cabo el transporte de votantes, coartando o pretendiendo coartar su libertad para la emisión del voto;
+
 X. Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
+
 XI. Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que, mediante amenaza o promesa de paga o dádiva, comprometa su voto en favor de un determinado partido político o candidato;
-XII. Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación normal de la casilla; o XIII. Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas que se encuentren en las zonas de husos horarios más occidentales del territorio nacional, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
+
+XII. Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación normal de la casilla; o
+
+XIII. Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas que se encuentren en las zonas de husos horarios más occidentales del territorio nacional, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
 Artículo adicionado DOF 15-08-1990. Reformado DOF 25-03-1994, 22-11-1996
 
 ### Artículo 404
@@ -3007,32 +3356,62 @@ Artículo adicionado DOF 15-08-1990. Reformado DOF 25-03-1994, 22-11-1996
 ### Artículo 405
 .- Se impondrá de cincuenta a doscientos días multa y prisión de dos a seis años, al funcionario electoral que:
 Párrafo reformado DOF 25-03-1994 I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
+
 II. Se abstenga de cumplir, sin causa justificada, con las obligaciones propias de su cargo, en perjuicio del proceso electoral;
 Fracción reformada DOF 22-11-1996 III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+
 IV. Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales;
-Fracción reformada DOF 25-03-1994, 22-11-1996 V. No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
-Fracción reformada DOF 22-11-1996 VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+Fracción reformada DOF 25-03-1994, 22-11-1996
+
+V. No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
+Fracción reformada DOF 22-11-1996
+
+VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 Fracción reformada DOF 22-11-1996 VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;
-Fracción reformada DOF 25-03-1994 VIII. Sin causa prevista por la ley expulse u ordene el retiro de la casilla electoral de representantes de un partido político o coarte los derechos que la ley les concede;
+Fracción reformada DOF 25-03-1994
+
+VIII. Sin causa prevista por la ley expulse u ordene el retiro de la casilla electoral de representantes de un partido político o coarte los derechos que la ley les concede;
 Fracción reformada DOF 25-03-1994, 22-11-1996 IX.- Se deroga.
-Fracción adicionada DOF 25-03-1994. Derogada DOF 22-11-1996 X. Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o Fracción adicionada DOF 25-03-1994. Reformada DOF 22-11-1996 XI. Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+Fracción adicionada DOF 25-03-1994. Derogada DOF 22-11-1996
+
+X. Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o Fracción adicionada DOF 25-03-1994. Reformada DOF 22-11-1996
+
+XI. Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 Fracción adicionada DOF 25-03-1994. Reformada DOF 22-11-1996 Artículo adicionado DOF 15-08-1990
 
 ### Artículo 406
 .- Se impondrán de cien a doscientos días multa y prisión de uno a seis años, al funcionario partidista o al candidato que:
-Párrafo reformado DOF 25-03-1994, 22-11-1996 I. Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+Párrafo reformado DOF 25-03-1994, 22-11-1996
+
+I. Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 Fracción reformada DOF 22-11-1996 II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
 III. Sustraiga, destruya, altere o haga uso indebido de documentos o materiales electorales;
-Fracción reformada DOF 22-11-1996 IV. Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
-Fracción reformada DOF 22-11-1996 V. Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
-Fracción reformada DOF 25-03-1994, 22-11-1996 VI. Impida con violencia la instalación, apertura o cierre de una casilla; o Fracción reformada DOF 22-11-1996 VII. Obtenga y utilice a sabiendas y en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral.
+Fracción reformada DOF 22-11-1996
+
+IV. Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
+Fracción reformada DOF 22-11-1996
+
+V. Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
+Fracción reformada DOF 25-03-1994, 22-11-1996
+
+VI. Impida con violencia la instalación, apertura o cierre de una casilla; o Fracción reformada DOF 22-11-1996
+
+VII. Obtenga y utilice a sabiendas y en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral.
 Fracción adicionada DOF 22-11-1996 Artículo adicionado DOF 15-08-1990
 
 ### Artículo 407
 .- Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al servidor público que:
+
 I. Obligue a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir sus votos en favor de un partido político o candidato;
-Fracción reformada DOF 22-11-1996 II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
-Fracción reformada DOF 22-11-1996 III. Destine, de manera ilegal, fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado; o Fracción reformada DOF 22-11-1996 IV. Proporcione apoyo o preste algún servicio a los partidos políticos o a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal.
+Fracción reformada DOF 22-11-1996
+
+II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
+Fracción reformada DOF 22-11-1996
+
+III. Destine, de manera ilegal, fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado; o Fracción reformada DOF 22-11-1996
+
+IV. Proporcione apoyo o preste algún servicio a los partidos políticos o a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal.
 Fracción adicionada DOF 22-11-1996 Artículo adicionado DOF 15-08-1990. Reformado DOF 25-03-1994
 
 ### Artículo 408
@@ -3069,7 +3448,10 @@ Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002
 
 ### Artículo 415
 .- Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, a quien sin aplicar las medidas de prevención o seguridad:
-I. Emita, despida, descargue en la atmósfera, lo autorice u ordene, gases, humos, polvos o contaminantes que ocasionen daños a los recursos naturales, a la fauna, a la flora, a los ecosistemas o al ambiente, siempre que dichas emisiones provengan de fuentes fijas de competencia federal, conforme a lo previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, o II. Genere emisiones de ruido, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de competencia federal, conforme al ordenamiento señalado en la fracción anterior, que ocasionen daños a los recursos naturales, a la flora, a la fauna, a los ecosistemas o al ambiente.
+
+I. Emita, despida, descargue en la atmósfera, lo autorice u ordene, gases, humos, polvos o contaminantes que ocasionen daños a los recursos naturales, a la fauna, a la flora, a los ecosistemas o al ambiente, siempre que dichas emisiones provengan de fuentes fijas de competencia federal, conforme a lo previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, o
+
+II. Genere emisiones de ruido, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de competencia federal, conforme al ordenamiento señalado en la fracción anterior, que ocasionen daños a los recursos naturales, a la flora, a la fauna, a los ecosistemas o al ambiente.
 Las mismas penas se aplicarán a quien ilícitamente lleve a cabo las actividades descritas en las fracciones anteriores, que ocasionen un riesgo a los recursos naturales, a la flora, a la fauna, a los ecosistemas o al ambiente.
 En el caso de que las actividades a que se refiere el presente artículo se lleven a cabo en un área natural protegida, la pena de prisión se incrementará hasta en tres años y la pena económica hasta en mil días multa.
 Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002
@@ -3085,46 +3467,73 @@ Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002
 
 ### Artículo 418
 .- Se impondrá pena de seis meses a nueve años de prisión y multa de cien a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente, siempre que dichas actividades no se realicen en zonas urbanas, al que sin contar con la autorización previa de la autoridad competente:
-Párrafo reformado DOF 08-05-2023 I. Desmonte o destruya la vegetación forestal;
-Fracción reformada DOF 08-05-2023 II. Corte, arranque, derribe o tale algún o algunos árboles, o III. Cambie el uso de suelo en terrenos forestales sin la autorización expedida por la autoridad competente.
+Párrafo reformado DOF 08-05-2023
+
+I. Desmonte o destruya la vegetación forestal;
+Fracción reformada DOF 08-05-2023
+
+II. Corte, arranque, derribe o tale algún o algunos árboles, o
+
+III. Cambie el uso de suelo en terrenos forestales sin la autorización expedida por la autoridad competente.
 Fracción reformada DOF 08-05-2023 La pena de prisión deberá aumentarse hasta en cuatro años más y la multa hasta en cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente para el caso en el que, las conductas referidas en las fracciones del primer párrafo del presente artículo afecten un área natural protegida.
 Párrafo reformado DOF 08-05-2023 Cuando las conductas a que se refiere este artículo se realicen empleando armas de fuego o por cualquier otro medio violento en contra de las personas o para obtener un lucro o beneficio económico, se le impondrá pena de tres a doce años de prisión y multa de quinientos a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 Párrafo adicionado DOF 08-05-2023 Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002
 
 ### Artículo 419
 .- A quien, sin que exista acto administrativo que lo autorice o no cuente con la documentación que acredite la legal procedencia, transporte, comercie, enajene, distribuya, suministre, acopie, compre, reciba, adquiera, almacene, resguarde, posea o transforme materias primas forestales o productos forestales maderables, se le impondrán las siguientes penas:
+
 I. Cuando el volumen no exceda de dos metros cúbicos se le impondrá de dos a cinco años de prisión y multa de quinientos a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
 II. Si el volumen es superior a dos metros cúbicos se le impondrá de seis a doce años de prisión y multa de mil a cinco mil veces el valor de la Unidad de Medida y Actualización vigente.
 Las penas privativas de la libertad a que hacen referencia las fracciones anteriores se incrementarán hasta en cuatro años de prisión y multa hasta en cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, cuando las materias primas forestales o productos forestales maderables provengan de un área natural protegida.
 Artículo adicionado DOF 13-12-1996. Reformado DOF 24-12-1996, 06-02-2002, 08-05-2023
 
 ### Artículo 419
 Bis.- Se impondrá pena de seis meses a cinco años de prisión y el equivalente de doscientos a dos mil días multa a quien:
+
 I. Críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos, de entretenimiento o de cualquier otra índole;
+
 II. Posea, transporte, compre o venda perros con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros;
+
 III. Organice, promueva, anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
+
 IV. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
-V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
 La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
 Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
 Artículo adicionado DOF 22-06-2017
 
 ### Artículo 420
 .- Se impondrá pena de uno a nueve años de prisión y por el equivalente de trescientos a tres mil días multa, a quien ilícitamente:
+
 I. Capture, dañe o prive de la vida a algún ejemplar de tortuga o mamífero marino, o recolecte o almacene de cualquier forma sus productos o subproductos;
+
 II. Capture, transforme, acopie, transporte o dañe ejemplares de especies acuáticas declaradas en veda;
 II Bis. De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con las especies acuáticas denominadas abulón, camarón, pepino de mar y langosta, dentro o fuera de los periodos de veda, sin contar con la autorización que corresponda, en cantidad que exceda 10 kilogramos de peso.
-Fracción adicionada DOF 08-02-2006. Reformada DOF 07-04-2017 III. Realice actividades de caza, pesca o captura con un medio no permitido, de algún ejemplar de una especie de fauna silvestre, o ponga en riesgo la viabilidad biológica de una población o especie silvestres;
-IV. Realice cualquier actividad con fines de tráfico, o capture, posea, transporte, acopie, introduzca al país o extraiga del mismo, algún ejemplar, sus productos o subproductos y demás recursos genéticos, de una especie de flora o fauna silvestres, terrestres o acuáticas en veda, considerada endémica, amenazada, en peligro de extinción, sujeta a protección especial, o regulada por algún tratado internacional del que México sea parte, o V. Dañe algún ejemplar de las especies de flora o fauna silvestres, terrestres o acuáticas señaladas en la fracción anterior.
+Fracción adicionada DOF 08-02-2006. Reformada DOF 07-04-2017
+
+III. Realice actividades de caza, pesca o captura con un medio no permitido, de algún ejemplar de una especie de fauna silvestre, o ponga en riesgo la viabilidad biológica de una población o especie silvestres;
+
+IV. Realice cualquier actividad con fines de tráfico, o capture, posea, transporte, acopie, introduzca al país o extraiga del mismo, algún ejemplar, sus productos o subproductos y demás recursos genéticos, de una especie de flora o fauna silvestres, terrestres o acuáticas en veda, considerada endémica, amenazada, en peligro de extinción, sujeta a protección especial, o regulada por algún tratado internacional del que México sea parte, o
+
+V. Dañe algún ejemplar de las especies de flora o fauna silvestres, terrestres o acuáticas señaladas en la fracción anterior.
 Se aplicará una pena adicional hasta de tres años más de prisión y hasta mil días multa adicionales, cuando las conductas descritas en el presente artículo se realicen en o afecten un área natural protegida, o cuando se realicen con fines comerciales.
 En los casos previstos en la fracción IV del presente artículo y la fracción X del artículo 2o. de la Ley Federal contra la Delincuencia Organizada, se impondrá la pena de cinco a quince años de prisión y el equivalente de tres mil a seis mil días multa cuando se trate de algún ejemplar, partes, derivados, productos o subproductos de la especie totoaba macdonaldi.
 Párrafo adicionado DOF 19-02-2021 Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002
 
 ### Artículo 420
 Bis.- Se impondrá pena de dos a diez años de prisión y por el equivalente de trescientos a tres mil días multa, a quien ilícitamente:
+
 I. Dañe, deseque o rellene humedales, manglares, lagunas, esteros o pantanos;
+
 II. Dañe arrecifes;
-III. Introduzca o libere en el medio natural, algún ejemplar de flora o fauna exótica que perjudique a un ecosistema, o que dificulte, altere o afecte las especies nativas o migratorias en los ciclos naturales de su reproducción o migración, o IV. Provoque un incendio en un bosque, selva, vegetación natural o terrenos forestales, que dañe elementos naturales, flora, fauna, los ecosistemas o al ambiente.
+
+III. Introduzca o libere en el medio natural, algún ejemplar de flora o fauna exótica que perjudique a un ecosistema, o que dificulte, altere o afecte las especies nativas o migratorias en los ciclos naturales de su reproducción o migración, o
+
+IV. Provoque un incendio en un bosque, selva, vegetación natural o terrenos forestales, que dañe elementos naturales, flora, fauna, los ecosistemas o al ambiente.
 Se aplicará una pena adicional hasta de dos años de prisión y hasta mil días multa adicionales, cuando las conductas descritas en el presente artículo se realicen en o afecten un área natural protegida, o el autor o partícipe del delito previsto en la fracción IV, realice la conducta para obtener un lucro o beneficio económico.
 Artículo adicionado DOF 06-02-2002 CAPÍTULO TERCERO De la bioseguridad Capítulo adicionado DOF 06-02-2002
 
@@ -3138,19 +3547,33 @@ Delitos contra la gestión ambiental Capítulo adicionado DOF 06-02-2002
 
 ### Artículo 420
 Quáter.- Se impondrá pena de uno a cuatro años de prisión y de trescientos a tres mil días multa, a quien:
+
 I. Transporte o consienta, autorice u ordene que se transporte, cualquier residuo considerado como peligroso por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, biológico infecciosas o radioactivas, a un destino para el que no se tenga autorización para recibirlo, almacenarlo, desecharlo o abandonarlo;
+
 II. Asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental federal;
+
 III. Destruya, altere u oculte información, registros, reportes o cualquier otro documento que se requiera mantener o archivar de conformidad a la normatividad ambiental federal;
-IV. Prestando sus servicios como auditor técnico, especialista o perito o especialista en materia de impacto ambiental, forestal, en vida silvestre, pesca u otra materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua o al ambiente, o V. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
+
+IV. Prestando sus servicios como auditor técnico, especialista o perito o especialista en materia de impacto ambiental, forestal, en vida silvestre, pesca u otra materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua o al ambiente, o
+
+V. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
 Los delitos previstos en el presente Capítulo se perseguirán por querella de la Procuraduría Federal de Protección al Ambiente.
 Artículo adicionado DOF 06-02-2002 CAPÍTULO QUINTO Disposiciones comunes a los delitos contra el ambiente Capítulo adicionado DOF 06-02-2002
 
 ### Artículo 421
 . Además de lo establecido en los anteriores capítulos del Título Vigésimo Quinto, se impondrán las siguientes penas y medidas de seguridad:
-Párrafo reformado DOF 07-06-2013 I. La reparación y, en su caso, la compensación del daño al ambiente, de conformidad a lo dispuesto en la Ley Federal de Responsabilidad Ambiental;
-Fracción reformada DOF 07-06-2013 II. La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo;
+Párrafo reformado DOF 07-06-2013
+
+I. La reparación y, en su caso, la compensación del daño al ambiente, de conformidad a lo dispuesto en la Ley Federal de Responsabilidad Ambiental;
+Fracción reformada DOF 07-06-2013
+
+II. La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo;
+
 III. La reincorporación de los elementos naturales, ejemplares o especies de flora y fauna silvestre, a los hábitat de que fueron sustraídos, siempre y cuando su reincorporación no constituya un peligro al equilibrio ecológico o dificulte la reproducción o migración de especies de flora o fauna silvestre;
-IV. El retorno de los materiales o residuos peligrosos o ejemplares de flora y fauna silvestre amenazados o en peligro de extinción, al país de origen, considerando lo dispuesto en los tratados y convenciones internacionales de que México sea parte, o V. Inhabilitación, cuando el autor o partícipe del delito tenga la calidad de servidor público, hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida.
+
+IV. El retorno de los materiales o residuos peligrosos o ejemplares de flora y fauna silvestre amenazados o en peligro de extinción, al país de origen, considerando lo dispuesto en los tratados y convenciones internacionales de que México sea parte, o
+
+V. Inhabilitación, cuando el autor o partícipe del delito tenga la calidad de servidor público, hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida.
 Los trabajos a favor de la comunidad a que se refiere el artículo 24 de este ordenamiento, consistirán en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
 Para los efectos a los que se refiere este artículo, el juez deberá solicitar a la dependencia federal competente o a las instituciones de educación superior o de investigación científica, la expedición del dictamen técnico correspondiente.
 Las dependencias de la administración pública competentes, deberán proporcionar al ministerio público o al juez, los dictámenes técnicos o periciales que se requieran con motivo de las denuncias presentadas por la comisión de los delitos a que se refiere el presente Título.
@@ -3168,17 +3591,27 @@ Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002, 08-05-2023 TITULO
 
 ### Artículo 424
 .- Se impondrá prisión de seis meses a seis años y de trescientos a tres mil días multa:
+
 I. Al que especule en cualquier forma con los libros de texto gratuitos que distribuye la Secretaría de Educación Pública;
+
 II. Al editor, productor o grabador que a sabiendas produzca más números de ejemplares de una obra protegida por la Ley Federal del Derecho de Autor, que los autorizados por el titular de los derechos;
+
 III. A quien use en forma dolosa, con fin de lucro y sin la autorización correspondiente obras protegidas por la Ley Federal del Derecho de Autor.
-Fracción reformada DOF 19-05-1997, 17-05-1999 IV. Derogada.
+Fracción reformada DOF 19-05-1997, 17-05-1999
+
+IV. Derogada.
 Fracción derogada DOF 17-05-1999 Artículo adicionado DOF 24-12-1996
 
 ### Artículo 424
 bis.- Se impondrá prisión de tres a diez años y de dos mil a veinte mil días multa:
+
 I. A quien produzca, reproduzca, introduzca al país, almacene, transporte, distribuya, venda o arriende copias de obras, fonogramas, videogramas o libros, protegidos por la Ley Federal del Derecho de Autor, en forma dolosa, con fin de especulación comercial y sin la autorización que en los términos de la citada Ley deba otorgar el titular de los derechos de autor o de los derechos conexos.
 Igual pena se impondrá a quienes, a sabiendas, aporten o provean de cualquier forma, materias primas o insumos destinados a la producción o reproducción de obras, fonogramas, videogramas o libros a que se refiere el párrafo anterior;
-Párrafo reformado DOF 01-07-2020 II. A quien fabrique con fin de lucro un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación, o Fracción reformada DOF 01-07-2020 III. A quien grabe, transmita o realice una copia total o parcial de una obra cinematográfica protegida, exhibida en una sala de cine o lugares que hagan sus veces, sin la autorización del titular del derecho de autor o derechos conexos.
+Párrafo reformado DOF 01-07-2020
+
+II. A quien fabrique con fin de lucro un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación, o Fracción reformada DOF 01-07-2020
+
+III. A quien grabe, transmita o realice una copia total o parcial de una obra cinematográfica protegida, exhibida en una sala de cine o lugares que hagan sus veces, sin la autorización del titular del derecho de autor o derechos conexos.
 Fracción adicionada DOF 01-07-2020 Artículo adicionado DOF 17-05-1999
 
 ### Artículo 424
@@ -3192,9 +3625,16 @@ Artículo adicionado DOF 24-12-1996
 
 ### Artículo 426
 .- Se impondrá prisión de seis meses a cuatro años y de trescientos a tres mil días multa, en los casos siguientes:
+
 I. A quien fabrique, modifique, importe, distribuya, venda o arriende un dispositivo o sistema para descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;
-Fracción reformada DOF 01-07-2020 II. A quien realice con fines de lucro cualquier acto con la finalidad de descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;
-Fracción reformada DOF 01-07-2020 III. A quien fabrique o distribuya equipo destinado a la recepción de una señal de cable encriptada portadora de programas, sin autorización del distribuidor legítimo de dicha señal, o Fracción adicionada DOF 01-07-2020 IV. A quien reciba o asista a otro a recibir una señal de cable encriptada portadora de programas sin la autorización del distribuidor legítimo de dicha señal.
+Fracción reformada DOF 01-07-2020
+
+II. A quien realice con fines de lucro cualquier acto con la finalidad de descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;
+Fracción reformada DOF 01-07-2020
+
+III. A quien fabrique o distribuya equipo destinado a la recepción de una señal de cable encriptada portadora de programas, sin autorización del distribuidor legítimo de dicha señal, o Fracción adicionada DOF 01-07-2020
+
+IV. A quien reciba o asista a otro a recibir una señal de cable encriptada portadora de programas sin la autorización del distribuidor legítimo de dicha señal.
 Fracción adicionada DOF 01-07-2020 Artículo adicionado DOF 24-12-1996
 
 ### Artículo 427
@@ -3216,7 +3656,10 @@ Artículo adicionado DOF 01-07-2020
 ### Artículo 427
 Quinquies.- A quien, a sabiendas, sin autorización y con fines de lucro, suprima o altere, por sí o por medio de otro, cualquier información sobre gestión de derechos, se le impondrá de seis meses a seis años de prisión y de quinientos a mil días multa.
 La misma pena será impuesta a quien con fines de lucro:
-I. Distribuya o importe para su distribución información sobre gestión de derechos, a sabiendas de que ésta ha sido suprimida o alterada sin autorización, o II. Distribuya, importe para su distribución, transmita, comunique o ponga a disposición del público copias de las obras, interpretaciones, ejecuciones o fonogramas, a sabiendas de que la información sobre gestión de derechos ha sido suprimida o alterada sin autorización.
+
+I. Distribuya o importe para su distribución información sobre gestión de derechos, a sabiendas de que ésta ha sido suprimida o alterada sin autorización, o
+
+II. Distribuya, importe para su distribución, transmita, comunique o ponga a disposición del público copias de las obras, interpretaciones, ejecuciones o fonogramas, a sabiendas de que la información sobre gestión de derechos ha sido suprimida o alterada sin autorización.
 Artículo adicionado DOF 01-07-2020
 
 ### Artículo 428
@@ -3663,7 +4106,9 @@ Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1992 ARTI
 UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 DECRETO que reforma, adiciona y deroga diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Penales para el Distrito Federal, de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de los Servidores Públicos, de la Ley Orgánica del Tribunal Fiscal de la Federación, de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Ley Federal para Prevenir y Sancionar la Tortura y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y de la Ley Orgánica del Poder Judicial de la Federación.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 1994 toda la República en Materia de Fuero Federal, se reforman los artículos: 8, 9, 12 párrafos primero y
-**segundo.** , 13 primer párrafo y fracciones V, VI y VIII, 15, 16, 17, 29 párrafo segundo, 30 fracciones II y III, 32 fracción VI, 34 párrafo primero, 35 párrafo cuarto, 37, 52, 60 primero y segundo párrafo y la fracción II, 61, 62, 64 segundo párrafo, 64 bis, 65, 66, 71 párrafo primero, 85 párrafo primero, 86 fracción II, 90 inciso b) de la fracción I, y fracciones VII y VIII, 93 párrafo primero, 107 párrafo segundo, 111, 115, 153, 158 primer párrafo, 164 segundo párrafo, 170, 172 bis, 173 primer párrafo, 178, 187, 193, 194, 195, 196, 197, 198, 199, 201 párrafos primero y segundo, 209, 210, 225 fracciones IX, X, XII, XVII y XX, 228 fracción I, 231 párrafo primero, 340, 341, 247 párrafo primero y fracciones II y IV en su primer párrafo, 249 primer párrafo, 250 primer párrafo y fracciones II y IV, 284, 303, 310, 323, 368 fracción I, 388 y 390. Del mismo Código se adicionan: Un párrafo segundo al artículo 7, dos últimos párrafos al artículo 13, un párrafo
+**segundo.** , 13 primer párrafo y fracciones V, VI y VIII, 15, 16, 17, 29 párrafo segundo, 30 fracciones II y III, 32 fracción VI, 34 párrafo primero, 35 párrafo cuarto, 37, 52, 60 primero y segundo párrafo y la fracción II, 61, 62, 64 segundo párrafo, 64 bis, 65, 66, 71 párrafo primero, 85 párrafo primero, 86 fracción II, 90 inciso
+
+b) de la fracción I, y fracciones VII y VIII, 93 párrafo primero, 107 párrafo segundo, 111, 115, 153, 158 primer párrafo, 164 segundo párrafo, 170, 172 bis, 173 primer párrafo, 178, 187, 193, 194, 195, 196, 197, 198, 199, 201 párrafos primero y segundo, 209, 210, 225 fracciones IX, X, XII, XVII y XX, 228 fracción I, 231 párrafo primero, 340, 341, 247 párrafo primero y fracciones II y IV en su primer párrafo, 249 primer párrafo, 250 primer párrafo y fracciones II y IV, 284, 303, 310, 323, 368 fracción I, 388 y 390. Del mismo Código se adicionan: Un párrafo segundo al artículo 7, dos últimos párrafos al artículo 13, un párrafo
 **cuarto.** al artículo 27, recorriéndose en su orden los actuales párrafos cuarto, quinto y sexto, pasando a ser los párrafos quinto, sexto y séptimo, un artículo 31 bis, un segundo párrafo al artículo 34, recorriéndose en su orden los actuales párrafos segundo y tercero pasando a ser tercero y cuarto, al
 
 ### artículo 35
@@ -4397,37 +4842,57 @@ Los agentes económicos deberán presentar al Instituto Federal de Telecomunicac
 El Instituto investigará dichas concentraciones en un plazo no mayor a noventa días naturales y en caso de encontrar que existe poder sustancial en el mercado de redes de telecomunicaciones que presten servicios de voz, datos o video o en el de radio y televisión según el sector que corresponda, podrá imponer las medidas necesarias para proteger y fomentar en dicho mercado la libre competencia y concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el presente artículo.
 Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes económicos preponderantes la prestación de servicios adicionales.
 **DÉCIMO.** Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
+
 I. Los agentes económicos preponderantes deberán acreditar ante el Instituto Federal de Telecomunicaciones que se encuentran en cumplimiento efectivo de lo anterior y de las medidas expedidas por el propio Instituto Federal de Telecomunicaciones a que se refieren las fracciones III y IV del artículo Octavo Transitorio del Decreto antes referido. Para tal efecto, el Instituto Federal de Telecomunicaciones establecerá la forma y términos para presentar la información y documentación respectiva;
+
 II. El agente económico preponderante deberá estar en cumplimiento efectivo de las medidas a las que se refiere la fracción I anterior cuando menos durante dieciocho meses en forma continua;
-III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que continúe en cumplimiento de lo dispuesto en la fracción I que antecede, el Instituto Federal de Telecomunicaciones resolverá y emitirá un dictamen en el que certifique que se dio cumplimiento efectivo de las obligaciones referidas, y IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
+
+III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que continúe en cumplimiento de lo dispuesto en la fracción I que antecede, el Instituto Federal de Telecomunicaciones resolverá y emitirá un dictamen en el que certifique que se dio cumplimiento efectivo de las obligaciones referidas, y
+
+IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
 No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del
 
 ### artículo Octavo
 Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 **DÉCIMO PRIMERO.** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
+
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
+
 II. Al presentar la solicitud, dichos agentes y concesionarios deberán acompañar el dictamen de cumplimiento a que se refiere la fracción III del artículo anterior, presentar la información que determine el Instituto Federal de Telecomunicaciones respecto de los servicios que pretende prestar;
+
 III. El Instituto Federal de Telecomunicaciones resolverá sobre la procedencia de la solicitud dentro de los sesenta días naturales siguientes a su presentación, con base en los lineamientos de carácter general que al efecto emita y determinará las contraprestaciones que procedan.
-Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto haya resuelto la solicitud correspondiente, la misma se entenderá en sentido negativo, y IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
+Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto haya resuelto la solicitud correspondiente, la misma se entenderá en sentido negativo, y
+
+IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
 Se entenderá que se generan efectos adversos a la competencia y libre concurrencia, entre otros factores que considere el Instituto Federal de Telecomunicaciones, cuando: a. Dicha autorización pueda tener como efecto incrementar la participación en el sector que corresponda del agente económico preponderante o del grupo de interés económico al cual pertenecen los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados, respecto de la participación determinada por el Instituto Federal de Telecomunicaciones en la resolución mediante la cual se le declaró agente económico preponderante en el sector que corresponda. b. La autorización de servicios adicionales tenga como efecto conferir poder sustancial en el mercado relevante a alguno de los concesionarios o integrantes del agente económico preponderante o de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados en el sector que corresponda.
 Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única, y será independiente de las sanciones económicas que procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
 **DÉCIMO SEGUNDO.** El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
 El agente económico preponderante en el sector de las telecomunicaciones podrá presentar al Instituto Federal de Telecomunicaciones un plan basado en una situación real, concreta y respecto de personas determinadas, que incluya en lo aplicable, la separación estructural, la desincorporación total o parcial de activos, derechos, partes sociales o acciones o cualquier combinación de las opciones anteriores a efecto de reducir su participación nacional por debajo del cincuenta por ciento del sector de telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de conformidad con las variables y parámetros de medición utilizados por el Instituto Federal de Telecomunicaciones en la declaratoria de preponderancia correspondiente, y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran dicho sector de conformidad con la Ley Federal de Competencia Económica. En caso de que el agente económico preponderante ejerza esta opción, se estará a lo siguiente:
+
 I. Al presentar el plan a que se refiere el párrafo que antecede, el agente económico preponderante deberá manifestar por escrito que se adhiere a lo previsto en este artículo y que acepta sus términos y condiciones; asimismo deberá acompañar la información y documentación necesaria que permita al Instituto Federal de Telecomunicaciones conocer y analizar el plan que se propone;
+
 II. En caso que el Instituto Federal de Telecomunicaciones considere que la información presentada es insuficiente, dentro del plazo de 20 días hábiles siguientes a la presentación del plan, prevendrá al agente económico preponderante para que presente la información faltante en un plazo de 20 días hábiles. En caso de que el agente económico preponderante no desahogue la prevención dentro del plazo señalado o que a juicio del Instituto la documentación o información presentada no sea suficiente o idónea para analizar el plan que se propone, se le podrá hacer una segunda prevención en los términos señalados con antelación y en caso de que no cumpla esta última prevención se tendrá por no presentado el plan, sin perjuicio de que el agente económico pueda presentar una nueva propuesta de plan en términos del presente artículo;
+
 III. Atendida la prevención en los términos formulados, el Instituto Federal de Telecomunicaciones analizará, evaluará y, en su caso, aprobará el plan propuesto dentro de los ciento veinte días naturales siguientes. En caso de que el Instituto lo considere necesario podrá prorrogar dicho plazo hasta en dos ocasiones y hasta por noventa días naturales cada una.
 Para aprobar dicho plan el Instituto Federal de Telecomunicaciones deberá determinar que el mismo reduce efectivamente la participación nacional del agente económico preponderante por debajo del cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo
 **Octavo.** Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
 El plan deberá tener como resultado que la participación en el sector que el agente preponderante disminuye, sea transferida a otro u otros agentes económicos distintos e independientes del agente económico preponderante. Al aprobar el plan, el Instituto Federal de Telecomunicaciones deberá asegurar la separación efectiva e independencia de esos agentes y deberá establecer los términos y condiciones necesarios para que esa situación quede debidamente salvaguardada;
+
 IV. En el supuesto de que el Instituto Federal de Telecomunicaciones apruebe el plan, el agente económico preponderante en el sector de las telecomunicaciones contará con un plazo de hasta diez días hábiles para manifestar que acepta el plan y consiente expresamente las tarifas que derivan de la aplicación de los incisos a) y b) del segundo párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y las fracciones VI a VIII de este artículo.
 Aceptado el plan por el agente económico preponderante, no podrá ser modificado y deberá ejecutarse en sus términos, sin que dicho agente pueda volver a ejercer el beneficio que otorga este artículo y sin perjuicio de que pueda optar por lo dispuesto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión;
+
 V. El plan deberá ejecutarse durante los 365 días naturales posteriores a que haya sido aceptado en términos de la fracción IV. Los agentes económicos involucrados en el plan deberán informar con la periodicidad que establezca el Instituto Federal de Telecomunicaciones sobre el proceso de ejecución del plan. En caso de que el agente económico preponderante acredite que la falta de cumplimiento del plan dentro del plazo referido se debe a causas que no le son imputables, podrá solicitar al Instituto Federal de Telecomunicaciones una prórroga, la cual se podrá otorgar por un plazo de hasta 120 días naturales, por única ocasión y siempre y cuando dichas causas se encuentren debidamente justificadas;
+
 VI. A partir de la fecha en que el agente económico preponderante en el sector de las telecomunicaciones haya aceptado el plan y durante el plazo referido en la fracción anterior, se aplicarán provisionalmente entre el agente económico preponderante en el sector de las telecomunicaciones y los demás concesionarios, los acuerdos de compensación recíproca de tráfico referidos en el primer párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y se suspenderán entre ellos las tarifas que deriven de la aplicación de los incisos a) y b) del párrafo segundo de dicho artículo;
+
 VII. El Instituto Federal de Telecomunicaciones certificará que el plan ha sido ejecutado efectivamente en el plazo señalado en la fracción V de este artículo. Para tal efecto, dentro de los 5 días hábiles siguientes al término del plazo de ejecución o, en su caso, al término de la prórroga correspondiente, el Instituto Federal de Telecomunicaciones deberá iniciar los estudios que demuestren que su ejecución generó condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones, de conformidad con la Ley Federal de Competencia Económica.
 Otorgada la certificación referida en el párrafo anterior, se aplicarán de manera general para todos los concesionarios los acuerdos de compensación de tráfico a que se refiere el párrafo primero del artículo 131 de la citada Ley;
+
 VIII. En caso de que el plan no se ejecute en el plazo a que se refiere la fracción V o, en su caso, al término de la prórroga correspondiente, o el Instituto Federal de Telecomunicaciones niegue la certificación referida en la fracción anterior o determine que no se dio cumplimiento total a dicho plan en los términos aprobados, se dejarán sin efectos los acuerdos de compensación recíproca de tráfico y la suspensión de las tarifas a que se refieren los incisos a) y b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, entre el agente económico preponderante en el sector de las telecomunicaciones y los demás concesionarios, y su aplicación se retrotraerá a la fecha en que inició la suspensión, debiendo dicho agente restituir a los demás concesionarios las cantidades que correspondan a la aplicación de las citadas tarifas. En este supuesto, los concesionarios citados podrán compensar las cantidades a ser restituidas contra otras cantidades que le adeuden al agente económico preponderante;
+
 IX. El Instituto Federal de Telecomunicaciones autorizará al agente económico que propuso el plan y a los agentes económicos resultantes o que formen parte de dicho plan, la prestación de servicios adicionales a los que son objeto de su concesión o su tránsito al modelo de concesión única, a partir de que certifique que el plan se ha ejecutado efectivamente y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones de conformidad con la Ley Federal de Competencia Económica;
+
 X. Una vez que el Instituto Federal de Telecomunicaciones certifique que el plan aprobado ha sido ejecutado efectivamente, procederá a extinguir: a. Las resoluciones mediante las cuales haya determinado al agente económico como preponderante en el sector de las telecomunicaciones así como las medidas asimétricas que le haya impuesto en los términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial en algún mercado, así como las medidas específicas que le haya impuesto.
 **DÉCIMO TERCERO.** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia pública o bajo un esquema de asociación público-privada.
@@ -4478,8 +4943,12 @@ Los derechos laborales del personal del Organismo Promotor de Medios Audiovisual
 La Cámara de Diputados deberá destinar los recursos necesarios para garantizar el adecuado ejercicio de las atribuciones referidas en el presente transitorio.
 **TRIGÉSIMO.** TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 **TRIGÉSIMO.** CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
+
 I. Sus planes de crecimiento;
-II. Sus gastos de operación, y III. Su equilibrio financiero.
+
+II. Sus gastos de operación, y
+
+III. Su equilibrio financiero.
 **TRIGÉSIMO.** QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
 **TRIGÉSIMO.** SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
 **TRIGÉSIMO.** SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
@@ -4528,8 +4997,12 @@ Se adicionan un tercer párrafo al artículo 140; un último párrafo al artícu
 **Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 **Segundo.-** Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
 **Tercero.-** A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
 I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
-II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
 **Cuarto.-** Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
 **Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
@@ -4575,7 +5048,10 @@ La Autoridad Penitenciaria contará con un plazo de cuatro años, a partir de la
 El Consejo de Coordinación presentará anualmente ante las Cámaras del Congreso de la Unión, un informe anual del seguimiento a la implementación del Sistema de Ejecución Penal.
 **Noveno.** Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional del Sistema Penitenciario deberá emitir un Acuerdo General en el que se establezca un régimen gradual por virtud del cual las Autoridades Penitenciarias, en el ámbito de su competencias, destinarán espacios especiales de reclusión, dentro de los establecimientos penitenciarios, para los sentenciados por los delitos de delincuencia organizada y secuestro, previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, así como aquellas personas privadas de la libertad que requieran medidas especiales de seguridad.
 **Décimo.** A partir de la entrada en vigor del presente Decreto, podrán acceder, de manera inmediata y sin tener que satisfacer los requisitos establecidos en las fracciones IV y VII del artículo 141 de la presente Ley, al beneficio de libertad anticipada todas las personas que hayan sido sentenciadas con penas privativas de la libertad por la comisión de los siguientes delitos:
-I. La comisión del delito de robo cuyo valor de lo robado no exceda de 80 veces la Unidad de Medida y Actualización, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, o II. La comisión del delito de posesión sin fines de comercio o suministro, de Cannabis Sativa, Indica o Marihuana, contemplado en el artículo 477 de la Ley General de Salud, en cualquiera de sus formas, derivados o preparaciones, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, ni la concurrencia de más delitos.
+
+I. La comisión del delito de robo cuyo valor de lo robado no exceda de 80 veces la Unidad de Medida y Actualización, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, o
+
+II. La comisión del delito de posesión sin fines de comercio o suministro, de Cannabis Sativa, Indica o Marihuana, contemplado en el artículo 477 de la Ley General de Salud, en cualquiera de sus formas, derivados o preparaciones, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, ni la concurrencia de más delitos.
 Para tal efecto, la autoridad jurisdiccional requerirá a la Autoridad Penitenciaria el informe sobre el cumplimiento de los requisitos a que alude el párrafo anterior.
 **Décimo Primero.** Los procuradores o fiscales generales de la Federación y de las entidades federativas, en su ámbito de competencia respectivo, podrán solicitar ante la autoridad jurisdiccional competente, la aplicación de los beneficios de libertad anticipada referidos en el artículo transitorio
 **décimo.** Asimismo, las autoridades judiciales competentes sustanciarán el procedimiento respectivo de manera oficiosa o a solicitud de la persona a quien aplique dicho beneficio.
@@ -4631,10 +5107,16 @@ Se reforman el párrafo primero y el inciso e) del artículo 201; la denominaci�
 
 del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, a través del Acuerdo A/011/14 por el que se crea la Fiscalía Especializada en materia de Delitos relacionados con Hechos de Corrupción y se establecen sus atribuciones, publicado en el Diario Oficial de la Federación el 12 de marzo de 2014.
 **Segundo.-** A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
 I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
 II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
 III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
-IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+
+V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
 **Tercero.-** Una vez que entre en vigencia la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes que establece el inciso a) de la fracción XXI del artículo 73, la fracción XIII del artículo 215 quedará derogada y los procedimientos iniciados por hechos que ocurran a partir de dicha entrada en vigor, se seguirán conforme a lo establecido en la misma.
 Los procedimientos iniciados antes de la vigencia de dicha ley continuarán su sustanciación de conformidad con este Código.
 **Cuarto.-** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
@@ -4699,8 +5181,12 @@ Se reforma el artículo 381 Bis y se adicionan los artículos 381 Ter y 381 Quá
 
 ### artículo 381
 Bis se contemplaba como delito y que por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establece, se estará a lo siguiente:
+
 I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
-II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
 Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; y se reforman, Comisión Nacional de los Derechos Humanos, de la Ley del Sistema Nacional de Seguridad Pública y de la Ley de Extradición Internacional.
@@ -4783,18 +5269,30 @@ Noveno. El Congreso de la Unión deberá legislar en materia de Declaración Esp
 Las Entidades Federativas deberán emitir y, en su caso, armonizar la legislación que corresponda a su ámbito de competencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
 En aquellas Entidades Federativas en las que no se haya llevado a cabo la armonización prevista en el Capítulo Tercero del Título Cuarto de esta Ley, dentro del plazo señalado en el párrafo anterior, resultarán aplicables las disposiciones del referido Capítulo no obstante lo previsto en la legislación local aplicable.
 Décimo. A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones contenidas en el mismo contemplen la descripción legal de conductas previstas en otras normas como delitos y por virtud de la presente Ley se denominan, tipifican, penalizan o agravan de forma diversa, siempre y cuando la conducta y los hechos correspondan a la descripción que ahora se establece, se estará a lo siguiente:
+
 I. En los casos de hechos que constituyan alguno de los delitos de esta Ley, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la presente Ley;
+
 II. En las investigaciones iniciadas en las que aún no se ejerza acción penal, el Ministerio Público la ejercitará de conformidad con la traslación del tipo que resulte procedente;
+
 III. En los procesos iniciados conforme al sistema penal mixto en los que el Ministerio Público aún no formule conclusiones acusatorias, procederá a su elaboración y presentación de conformidad con la traslación del tipo penal que, en su caso, resultare procedente;
+
 IV. En los procesos iniciados conforme al sistema acusatorio adversarial, en los que el Ministerio Público aún no presente acusación, procederá a su preparación y presentación atendiendo a la traslación del tipo que pudiera proceder;
-V. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal que corresponda, podrá efectuar la traslación del tipo de conformidad con la conducta que se haya probado, incluyendo sus modalidades, sin exceder el monto de las penas señaladas en la respectiva ley vigente al momento de la comisión de los hechos, y VI. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, según las modalidades correspondientes.
+
+V. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal que corresponda, podrá efectuar la traslación del tipo de conformidad con la conducta que se haya probado, incluyendo sus modalidades, sin exceder el monto de las penas señaladas en la respectiva ley vigente al momento de la comisión de los hechos, y
+
+VI. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, según las modalidades correspondientes.
 Décimo Primero. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto.
 Décimo Segundo. Dentro de los treinta días siguientes a la creación de la Comisión Nacional de Búsqueda, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
 Dentro de los noventa días siguientes a que reciba la información a que se refiere el párrafo anterior, la Comisión Nacional de Búsqueda deberá transmitir a las Fiscalías Especializadas la información de las Personas Desaparecidas o No Localizadas que correspondan al ámbito de su competencia.
 Las Fiscalías Especializadas deberán actualizar el contenido del Registro Nacional, conforme a lo siguiente:
+
 I. Dentro de los ciento ochenta días siguientes a que reciban la información, la Fiscalía Especializada que corresponda deberá recabar información sobre las personas inscritas en el Registro previsto en la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas que correspondan a su ámbito de competencia, a fin de que dicha información esté apegada a lo dispuesto en el artículo 106 y, en su caso, al artículo 112 de esta Ley;
+
 II. En términos de la fracción anterior, las Fiscalías Especializadas que estén impedidas materialmente para actualizar la información dentro del plazo previsto, deberán publicar un padrón con el nombre de las Personas Desaparecidas o No Localizadas cuya información no haya sido actualizada, a efecto de que, dentro de los ciento veinte días siguientes, los Familiares y organizaciones de la sociedad civil proporcionen la información que pudiera resultar útil para realizar dicha actualización;
-III. Una vez actualizada la información, la Comisión Nacional de Búsqueda deberá ingresarla al registro que corresponda, a excepción de que la actualización revele que la persona fue localizada, en cuyo caso, se asentará en el Registro Nacional de Personas Desaparecidas, y IV. Al haberse realizado la acción prevista en la fracción II de este artículo, de no haberse actualizado el registro, la Fiscalía Especializada que corresponda estará materialmente imposibilitada para actualizarlo. En este supuesto, el registro permanecerá con la anotación de actualización pendiente y será migrado, con ese carácter, al registro que corresponda.
+
+III. Una vez actualizada la información, la Comisión Nacional de Búsqueda deberá ingresarla al registro que corresponda, a excepción de que la actualización revele que la persona fue localizada, en cuyo caso, se asentará en el Registro Nacional de Personas Desaparecidas, y
+
+IV. Al haberse realizado la acción prevista en la fracción II de este artículo, de no haberse actualizado el registro, la Fiscalía Especializada que corresponda estará materialmente imposibilitada para actualizarlo. En este supuesto, el registro permanecerá con la anotación de actualización pendiente y será migrado, con ese carácter, al registro que corresponda.
 Décimo Tercero. El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente Decreto.
 Dentro de los tres meses siguientes a que inicie la operación de dichos registros, las autoridades que posean información forense deberán incorporarla al registro que corresponda.
 Décimo Cuarto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de Investigación a que se refiere el artículo 99 de esta Ley.
@@ -5098,7 +5596,9 @@ El periodo anual a que se refieren las fracciones IX y XI del artículo 18 de la
 Tratándose del primer año de operaciones de quienes realicen Actividades Vulnerables, el periodo comprenderá desde la fecha en que inicien operaciones como Actividad Vulnerable y hasta el 31 de diciembre del siguiente año.
 **Tercero.** Las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma entrarán en vigor en los plazos que para tal efecto establezcan las reglas de carácter general a que se refiere la citada Ley.
 **Cuarto.** Durante los primeros seis meses contados a partir de la entrada en vigor de las reglas de carácter general de la Ley que se reforma, la Unidad de Inteligencia Financiera en coordinación con el Servicio de Administración Tributaria implementarán:
+
 I. Un programa de capacitación y orientación dirigido a las asociaciones y sociedades sin fines de lucro, para el correcto cumplimiento de las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma.
+
 II. Las medidas simplificadas de cumplimiento de las obligaciones de las asociaciones y sociedades sin fines de lucro, de acuerdo con el nivel de riesgo que representen, de conformidad con las disposiciones reglamentarias, a efecto de armonizar la debida aplicación de la ley con la protección del espacio cívico y el derecho a la libertad de asociación.
 **Quinto.** Los Congresos de las Entidades Federativas, dentro de un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, realizarán las reformas conducentes para la aplicación de las previsiones contenidas en el artículo 58 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
 **Sexto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.

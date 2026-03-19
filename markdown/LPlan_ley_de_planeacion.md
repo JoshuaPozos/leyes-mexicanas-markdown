@@ -97,6 +97,7 @@ Fracción adicionada DOF 20-06-2011. Reformada DOF 16-02-2018
 ### Artículo 15
 .- A la Secretaría de Hacienda y Crédito Público le corresponde:
 I.- Participar en la elaboración del Plan Nacional de Desarrollo, respecto de la definición de las políticas financiera, fiscal y crediticia;
+
 II. Proyectar y calcular los ingresos de la Federación y de las entidades paraestatales, considerando las necesidades de recursos y la utilización del crédito público, para la ejecución del Plan y los programas;
 Fracción reformada DOF 13-06-2003 III.- Procurar el cumplimiento de los objetivos y prioridades del Plan y los programas, en el ejercicio de sus atribuciones de planeación, coordinación, evaluación y vigilancia del Sistema Bancario.
 IV.- Verificar que las operaciones en que se haga uso del crédito público prevean el cumplimiento de los objetivos y prioridades del Plan y los programas; y V.- Considerar los efectos de la política monetaria y crediticia, así como de los precios y tarifas de los bienes y servicios de la Administración Pública Federal, en el logro de los objetivos y prioridades del Plan y los programas.
@@ -235,10 +236,16 @@ Artículo reformado DOF 16-02-2018
 
 ### Artículo 34
 .- Para los efectos del artículo anterior, el Ejecutivo Federal podrá convenir con los gobiernos de las entidades federativas:
-Párrafo reformado DOF 16-02-2018 I. Su participación en la planeación nacional a través de la presentación de las propuestas que estimen pertinentes;
+Párrafo reformado DOF 16-02-2018
+
+I. Su participación en la planeación nacional a través de la presentación de las propuestas que estimen pertinentes;
 II.- Los procedimientos de coordinación entre las autoridades de todos los órdenes de gobierno para propiciar la planeación del desarrollo integral de cada entidad federativa y de los municipios, y su congruencia con la planeación nacional, así como para promover la participación de los diversos sectores de la sociedad en las actividades de planeación;
-Fracción reformada DOF 16-02-2018 III. Los lineamientos metodológicos para la realización de las actividades de planeación, en el ámbito de su jurisdicción;
-IV.- La elaboración de los programas regionales a que se refiere el artículo 25, de conformidad con los criterios establecidos en la fracción III del artículo 14 de este ordenamiento, y Fracción reformada DOF 16-02-2018 V. La ejecución de las acciones que deban realizarse en cada entidad federativa, y que competen a ambos órdenes de gobierno, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
+Fracción reformada DOF 16-02-2018
+
+III. Los lineamientos metodológicos para la realización de las actividades de planeación, en el ámbito de su jurisdicción;
+IV.- La elaboración de los programas regionales a que se refiere el artículo 25, de conformidad con los criterios establecidos en la fracción III del artículo 14 de este ordenamiento, y Fracción reformada DOF 16-02-2018
+
+V. La ejecución de las acciones que deban realizarse en cada entidad federativa, y que competen a ambos órdenes de gobierno, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
 Para este efecto la Secretaría de Hacienda y Crédito Público propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, conforme a sus atribuciones.
 Párrafo reformado DOF 13-06-2003
 

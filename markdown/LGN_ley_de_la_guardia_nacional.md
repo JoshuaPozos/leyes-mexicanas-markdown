@@ -25,14 +25,24 @@ de la Constitución Política de los Estados Unidos Mexicanos, en materia de Gua
 
 ### Artículo 2
 . Para efectos de la presente Ley se observarán las siguientes definiciones:
+
 I. Profesionalización y capacitación: Ruta profesional del personal de la Guardia Nacional;
+
 II. Comandante: Persona titular de la Comandancia de la Guardia Nacional;
+
 III. Instituciones de seguridad pública: El Ministerio Público, las instituciones policiales de los tres órdenes de gobierno y la Guardia Nacional;
+
 IV. Integrante de la Guardia Nacional: Persona militar con formación policial, adscrito a la Guardia Nacional;
+
 V. Ministerio Público: Ministerio Público de la Federación;
+
 VI. Reglamento: Reglamento de la Ley de la Guardia Nacional;
+
 VII. Personal de confianza: Persona civil que realiza funciones técnicas, profesionales y administrativas en la Guardia Nacional, quienes se regirán conforme a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, el cual será de libre designación y remoción, por lo que su nombramiento o encargo se podrá dar por terminado en cualquier momento, así como en el caso de que no acredite las evaluaciones de control de confianza, de conformidad con las disposiciones aplicables;
-VIII. Secretaría: Secretaría de la Defensa Nacional, y IX. Secretario: Persona titular de la Secretaría de la Defensa Nacional y Alto Mando del Ejército, Fuerza Aérea y Guardia Nacional.
+
+VIII. Secretaría: Secretaría de la Defensa Nacional, y
+
+IX. Secretario: Persona titular de la Secretaría de la Defensa Nacional y Alto Mando del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ### Artículo 3
 . A falta de disposición expresa se aplicarán en forma supletoria, en lo que resulten aplicables, la Ley General del Sistema Nacional de Seguridad Pública y el Código Nacional de Procedimientos Penales, así como toda aquella normativa aplicable en la materia.
@@ -49,20 +59,35 @@ La Guardia Nacional podrá contar con el personal del Ejército, Fuerza Aérea y
 
 ### Artículo 6
 . Son fines de la Guardia Nacional:
+
 I. Salvaguardar la vida, integridad, seguridad, bienes y derechos de las personas, así como preservar las libertades;
+
 II. Contribuir a la generación y preservación del orden público y la paz social;
-III. Salvaguardar los bienes y recursos de la Nación, y IV. Llevar a cabo acciones de colaboración y coordinación con entidades federativas y municipios.
+
+III. Salvaguardar los bienes y recursos de la Nación, y
+
+IV. Llevar a cabo acciones de colaboración y coordinación con entidades federativas y municipios.
 
 ### Artículo 7
 . La Guardia Nacional, para materializar sus fines, debe:
+
 I. Aplicar, de acuerdo a sus atribuciones y obligaciones, los programas, políticas y acciones que integran la Estrategia Nacional de Seguridad Pública;
+
 II. Prevenir la comisión de delitos y faltas administrativas, a través de la realización de trabajos de investigación e inteligencia, en coordinación con el Consejo Nacional de Inteligencia en Seguridad Pública y el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
+
 III. Investigar la comisión de delitos, bajo la conducción y mando del Ministerio Público competente en el ejercicio de esta función;
+
 IV. Colaborar y participar, en materia de seguridad pública, con la Federación, las entidades federativas y los municipios, a través de los Gabinetes, Consejos, y en general con los Órganos Colegiados en los términos que así se convenga, de conformidad con los mecanismos de coordinación que regulen el Sistema Nacional de Seguridad Pública y la normatividad aplicable;
+
 V. Auxiliar al Poder Judicial de la Federación en el ejercicio de sus funciones en materia penal federal; así como a los de las entidades federativas, en los términos de la coordinación y colaboración que convengan, de conformidad con las disposiciones de la Estrategia Nacional de Seguridad Pública;
+
 VI. Intervenir en los actos procesales de carácter penal en los que sea requerida su participación, de conformidad con las disposiciones de la Estrategia Nacional de Seguridad Pública;
+
 VII. Intervenir en materia de seguridad pública en el ámbito local, en coadyuvancia de las autoridades competentes, de conformidad con las disposiciones de la Estrategia Nacional de Seguridad Pública;
-VIII. Hacer uso de las armas de conformidad con las disposiciones aplicables, y IX. Auxiliar al Ejército, Fuerza Aérea y Armada en el ejercicio de sus misiones, cuando así lo disponga la persona titular del Poder Ejecutivo Federal.
+
+VIII. Hacer uso de las armas de conformidad con las disposiciones aplicables, y
+
+IX. Auxiliar al Ejército, Fuerza Aérea y Armada en el ejercicio de sus misiones, cuando así lo disponga la persona titular del Poder Ejecutivo Federal.
 
 ### Artículo 8
 . La Guardia Nacional regirá su actuación por los principios de patriotismo, legalidad, objetividad, eficiencia, profesionalismo, honradez, honestidad y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.
@@ -72,55 +97,126 @@ Atribuciones y Obligaciones de la Guardia Nacional
 
 ### Artículo 9
 . La Guardia Nacional tendrá las atribuciones y obligaciones siguientes:
+
 I. Prevenir la comisión de delitos y las faltas administrativas que determine la legislación aplicable;
-II. Salvaguardar la integridad de las personas y de su patrimonio; garantizar, mantener y restablecer el orden y la paz social, así como prevenir la comisión de delitos en: a) Las zonas fronterizas y en la tierra firme de los litorales, la parte perteneciente al país de los pasos y puentes limítrofes, aduanas, recintos fiscales, con excepción de los marítimos, secciones aduaneras, garitas, puntos de revisión aduaneros, los centros de supervisión y control migratorio, las carreteras federales, las vías férreas, los aeropuertos, el espacio aéreo y los medios de transporte que operen en las vías generales de comunicación, así como sus servicios auxiliares; b) La Guardia Nacional actuará en aduanas, recintos fiscales, secciones aduaneras, garitas o puntos de revisión aduaneros, en auxilio y coordinación con las autoridades responsables en materia fiscal, naval o de migración, en los términos de la presente Ley y las demás disposiciones aplicables; c) Los parques nacionales, las instalaciones hidráulicas y vasos de las presas, los embalses de los lagos y los cauces de los ríos; d) Los espacios urbanos considerados como zonas federales, así como en los inmuebles, instalaciones y servicios de las dependencias y entidades de la Federación; e) Todos aquellos lugares, zonas o espacios del territorio nacional sujetos a la jurisdicción federal, así como las instalaciones estratégicas, y f) En todo el territorio nacional, en el ámbito de su competencia; en las zonas turísticas deberán establecerse protocolos especializados para su actuación;
+
+II. Salvaguardar la integridad de las personas y de su patrimonio; garantizar, mantener y restablecer el orden y la paz social, así como prevenir la comisión de delitos en:
+
+a) Las zonas fronterizas y en la tierra firme de los litorales, la parte perteneciente al país de los pasos y puentes limítrofes, aduanas, recintos fiscales, con excepción de los marítimos, secciones aduaneras, garitas, puntos de revisión aduaneros, los centros de supervisión y control migratorio, las carreteras federales, las vías férreas, los aeropuertos, el espacio aéreo y los medios de transporte que operen en las vías generales de comunicación, así como sus servicios auxiliares;
+
+b) La Guardia Nacional actuará en aduanas, recintos fiscales, secciones aduaneras, garitas o puntos de revisión aduaneros, en auxilio y coordinación con las autoridades responsables en materia fiscal, naval o de migración, en los términos de la presente Ley y las demás disposiciones aplicables;
+
+c) Los parques nacionales, las instalaciones hidráulicas y vasos de las presas, los embalses de los lagos y los cauces de los ríos;
+
+d) Los espacios urbanos considerados como zonas federales, así como en los inmuebles, instalaciones y servicios de las dependencias y entidades de la Federación;
+
+e) Todos aquellos lugares, zonas o espacios del territorio nacional sujetos a la jurisdicción federal, así como las instalaciones estratégicas, y
+
+f) En todo el territorio nacional, en el ámbito de su competencia; en las zonas turísticas deberán establecerse protocolos especializados para su actuación;
+
 III. Realizar investigación e inteligencia para la prevención de los delitos, en coordinación con el Consejo Nacional de Inteligencia en Seguridad Pública;
+
 IV. Efectuar tareas de verificación, en el ámbito de su competencia, para la prevención de infracciones administrativas, en apego a la normativa aplicable y respeto a los derechos humanos;
+
 V. Recabar información en lugares públicos para evitar el fenómeno delictivo, mediante la utilización de medios e instrumentos y cualquier herramienta que resulten necesarios para la generación de inteligencia preventiva. En el ejercicio de esta atribución se deberá respetar el derecho a la vida privada y los derechos humanos de las personas. Los datos obtenidos con afectación a los derechos humanos carecerán de todo valor probatorio;
+
 VI. Llevar a cabo operaciones encubiertas y de usuarios simulados para la investigación preventiva del delito; asimismo, realizar bajo el mando y conducción del Ministerio Público, la investigación que resulte de esas operaciones en términos de las disposiciones aplicables;
+
 VII. Realizar análisis técnico, táctico o estratégico de la información obtenida para la generación de inteligencia;
+
 VIII. Realizar, bajo la conducción y mando del Ministerio Público, las investigaciones de los delitos cometidos, así como las actuaciones que les instruya aquel o la autoridad jurisdiccional Federal, conforme a las normas aplicables;
+
 IX. Informar a la persona, al momento de su detención, sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
+
 X. Poner a disposición de las autoridades competentes, sin demora, a personas y bienes en los casos en que, por motivo de sus funciones, practique alguna detención o lleve a cabo algún aseguramiento de bienes, observando en todo momento el cumplimiento de los plazos establecidos en las disposiciones constitucionales y legales que resulten aplicables;
+
 XI. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, en términos de lo dispuesto en el Código Nacional de Procedimientos Penales y las demás disposiciones aplicables;
+
 XII. Verificar la información que reciba sobre hechos que puedan ser constitutivos de delito y, en su caso, hacerla del conocimiento del Ministerio Público;
+
 XIII. Realizar la detención de personas y el aseguramiento de bienes relacionados con hechos delictivos;
+
 XIV. Efectuar las detenciones conforme a lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales;
+
 XV. Realizar el registro inmediato de la detención de las personas, en los términos señalados en la ley de la materia;
+
 XVI. Preservar el lugar de los hechos o del hallazgo, la integridad de los indicios, huellas o vestigios, así como los instrumentos, objetos o productos del delito, dando aviso de inmediato al Ministerio Público. Al efecto, la Guardia Nacional contará con unidades facultadas para el procesamiento del lugar de los hechos, de conformidad con el Código Nacional de Procedimientos Penales y los protocolos correspondientes;
+
 XVII. Recolectar y resguardar objetos relacionados con la investigación de los delitos, hasta su presentación inmediata ante el Ministerio Público correspondiente;
+
 XVIII. Requerir, en coordinación con el Ministerio Público, a las autoridades competentes y solicitar a las personas físicas o morales informes y documentos para fines de investigación; a la información que se recabe se le dará el tratamiento establecido en la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, según corresponda;
+
 XIX. Realizar los registros de los actos de investigación que lleve a cabo, conforme al Código Nacional de Procedimientos Penales;
+
 XX. Emitir los informes, partes policiales y demás documentos relativos a sus investigaciones y, en su caso, remitirlos al Ministerio Público;
-XXI. Proporcionar atención a víctimas, para tal efecto deberá: a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables; b) Procurar que reciban atención médica o psicológica; c) Adoptar las medidas que se consideren necesarias tendientes a evitar que se ponga en riesgo su integridad física o psicológica, en el ámbito de su competencia; d) Preservar los indicios y elementos de prueba que la víctima o persona ofendida aporten en el momento de la intervención policial y ponerlas a disposición del Ministerio Público encargado del asunto, observando la cadena de custodia, para que éste acuerde lo conducente, y e) Asegurar que puedan llevar a cabo la identificación del indiciado sin riesgo para ellos;
+
+XXI. Proporcionar atención a víctimas, para tal efecto deberá:
+
+a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables;
+
+b) Procurar que reciban atención médica o psicológica;
+
+c) Adoptar las medidas que se consideren necesarias tendientes a evitar que se ponga en riesgo su integridad física o psicológica, en el ámbito de su competencia;
+
+d) Preservar los indicios y elementos de prueba que la víctima o persona ofendida aporten en el momento de la intervención policial y ponerlas a disposición del Ministerio Público encargado del asunto, observando la cadena de custodia, para que éste acuerde lo conducente, y
+
+e) Asegurar que puedan llevar a cabo la identificación del indiciado sin riesgo para ellos;
+
 XXII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales que le sean encomendados con motivo de sus funciones;
+
 XXIII. Entrevistar a las personas que puedan aportar algún dato o elemento para la investigación en caso de flagrancia o por mandato del Ministerio Público, con respeto a los derechos humanos de la persona y en términos de las disposiciones aplicables. De las entrevistas que se practiquen se dejará constancia;
+
 XXIV. Incorporar a las Bases de Datos del Sistema Nacional de Información en Seguridad Pública la información que pueda ser útil en la investigación de los delitos y utilizar su contenido para el desempeño de sus atribuciones, sin afectar el derecho de las personas a la protección de sus datos personales;
+
 XXV. Colaborar con otras autoridades federales en funciones de vigilancia, verificación e inspección que tengan conferidas por disposición de otras leyes.
 La Guardia Nacional podrá participar, en coordinación con las autoridades ambientales competentes, en la protección de los recursos naturales, así como en la prevención, investigación y combate de delitos ambientales que representen un riesgo para la seguridad pública, incluyendo la tala ilegal, el tráfico de especies y la degradación o contaminación de ecosistemas. Su actuación deberá regirse por los principios de respeto a los derechos humanos, protección ambiental y colaboración interinstitucional;
+
 XXVI. Solicitar por escrito y bajo el mando y conducción del Ministerio Público, en los términos del artículo 16 Constitucional, a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones o de sistemas de comunicación vía satélite, la información con que cuenten, así como la georreferenciación de los equipos de comunicación móvil en tiempo real, para el cumplimiento de sus fines de prevención de los delitos; previa autorización fundada y motivada de la autoridad judicial, realizar intervención de comunicaciones privadas, siempre y cuando se tengan elementos que hagan presumir la existencia de un ilícito. La autoridad judicial competente deberá resolver las solicitudes en un plazo no mayor de doce horas a partir de su presentación;
+
 XXVII. Colaborar, cuando sea formalmente requerida, de conformidad con los ordenamientos constitucionales, legales y convenios aplicables, con las autoridades locales y municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por situaciones que impliquen violencia o riesgo inminente; prevenir la comisión de delitos, así como garantizar, mantener y restablecer la paz y el orden públicos;
+
 XXVIII. Participar con otras autoridades federales, locales o municipales en operativos conjuntos que se lleven a cabo conforme a lo dispuesto en la legislación relativa al Sistema Nacional de Seguridad Pública;
+
 XXIX. Obtener, analizar y procesar información, de conformidad con los lineamientos que para tal efecto emita el Sistema Nacional de Seguridad Pública, así como realizar las acciones que, conforme a las disposiciones aplicables, resulten necesarias para la prevención de delitos, sea directamente o mediante los mecanismos de coordinación previstos en otras leyes federales;
+
 XXX. Vigilar e inspeccionar, para fines de seguridad pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en ellas;
+
 XXXI. Determinar las infracciones e imponer las sanciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito en los caminos y puentes federales, así como a la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación;
+
 XXXII. Ejercer, para fines de seguridad pública, la vigilancia e inspección sobre la entrada y salida de mercancías y personas en los aeropuertos, aduanas, recintos fiscales, secciones aduaneras, garitas y puntos de revisión aduaneros; así como para los mismos fines sobre el manejo, transporte o tenencia de mercancías en cualquier parte del territorio nacional;
+
 XXXIII. Colaborar, a solicitud de las autoridades competentes, con los servicios de protección civil en casos de calamidades, situaciones de alto riesgo o desastres por causas naturales;
+
 XXXIV. Realizar, en coordinación con el Instituto Nacional de Migración, la inspección de los documentos migratorios de personas extranjeras, a fin de verificar su estancia regular, con excepción de las instalaciones destinadas al tránsito internacional de personas y, en su caso, proceder a presentar a quienes se encuentren en situación irregular para los efectos previstos en la ley de la materia;
+
 XXXV. Apoyar el aseguramiento que realice el Instituto Nacional de Migración y a petición del mismo, resguardar las estaciones migratorias y a los extranjeros que en ellas se encuentren;
+
 XXXVI. Estudiar, planificar y ejecutar los métodos y técnicas de combate a la delincuencia, de conformidad con lo dispuesto en la Estrategia Nacional de Seguridad Pública;
+
 XXXVII. Realizar acciones de vigilancia, identificación, monitoreo y rastreo en la red pública de Internet sobre sitios web, con el fin de prevenir conductas delictivas;
+
 XXXVIII. Desarrollar, mantener y supervisar fuentes de información en la sociedad que le permitan obtener datos sobre actividades relacionadas con fenómenos delictivos;
+
 XXXIX. Integrar al Sistema Nacional de Información en Seguridad Pública los datos que se recaben para identificar a las personas transgresoras de la ley;
+
 XL. Suscribir convenios o instrumentos jurídicos con otras instituciones policiales de los tres órdenes de gobierno y organizaciones no gubernamentales para el desempeño de sus atribuciones, en el marco de la ley;
+
 XLI. Colaborar y prestar auxilio a las policías de otros países, en el ámbito de su competencia;
+
 XLII. Ejecutar las previsiones que, por motivos de seguridad o de policía, se dicten con base en el párrafo primero del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos, en materia de circulación de bienes en el territorio de la República;
-XLIII. Promover el desarrollo tecnológico, para el cumplimiento de sus funciones en la investigación preventiva del delito, con la finalidad de preservar la paz social y mantener la seguridad pública, y XLIV. Las demás que le confieran ésta y otras leyes.
+
+XLIII. Promover el desarrollo tecnológico, para el cumplimiento de sus funciones en la investigación preventiva del delito, con la finalidad de preservar la paz social y mantener la seguridad pública, y
+
+XLIV. Las demás que le confieran ésta y otras leyes.
 
 ### Artículo 10
 . Para el cumplimiento de las atribuciones y obligaciones señaladas en el artículo anterior, la Guardia Nacional contará con:
+
 I. Personal técnico especializado;
-II. Equipo especializado, y III. Recursos para gastos de investigación.
+
+II. Equipo especializado, y
+
+III. Recursos para gastos de investigación.
 TÍTULO SEGUNDO Integración de la Guardia Nacional
 
 ## Capítulo I
@@ -131,31 +227,57 @@ Generalidades
 
 ### Artículo 12
 . La Guardia Nacional estará integrada por:
-I. Recursos Humanos: a) El personal militar con formación policial, y b) Personal de confianza;
-II. Recursos económicos: Los recursos que el Presupuesto de Egresos de la Federación le asigne para su sostenimiento y cumplimiento de sus atribuciones y obligaciones, y III. Recursos materiales: Los bienes muebles e inmuebles destinados para el cumplimiento de sus atribuciones.
+
+I. Recursos Humanos:
+
+a) El personal militar con formación policial, y
+
+b) Personal de confianza;
+
+II. Recursos económicos: Los recursos que el Presupuesto de Egresos de la Federación le asigne para su sostenimiento y cumplimiento de sus atribuciones y obligaciones, y
+
+III. Recursos materiales: Los bienes muebles e inmuebles destinados para el cumplimiento de sus atribuciones.
 
 ### Artículo 13
 . La Guardia Nacional realizará sus operaciones mediante la estructura siguiente:
+
 I. Secretaría de la Defensa Nacional;
+
 II. Comandancia;
+
 III. Coordinación Territorial;
+
 IV. Coordinación Estatal;
-V. Coordinación de Unidad, y VI. Unidades Circunstanciales.
+
+V. Coordinación de Unidad, y
+
+VI. Unidades Circunstanciales.
 
 ## Capítulo II
 De la Secretaría
 
 ### Artículo 14
 . La persona titular de la Secretaría, de conformidad con las instrucciones que reciba de la persona titular del Ejecutivo Federal, es el responsable de organizar, equipar, educar, adiestrar, capacitar, administrar y desarrollar a la Guardia Nacional, correspondiéndole las facultades siguientes:
+
 I. Aportar los elementos necesarios por conducto de la Guardia Nacional para la elaboración de la Estrategia Nacional de Seguridad Pública, en lo aplicable a dicha fuerza de seguridad pública;
+
 II. Implementar por conducto de la Guardia Nacional las políticas, programas y acciones que se deriven de la Estrategia Nacional de Seguridad Pública aplicables a la referida fuerza;
+
 III. Nombrar a las personas titulares de las Coordinaciones Territoriales, Estatales y de las Unidades Circunstanciales, a propuesta de la persona titular de la Comandancia;
+
 IV. Autorizar los convenios de colaboración con las entidades federativas y municipios respecto de la participación de la Guardia Nacional, que sean necesarios para el cumplimiento de la Estrategia Nacional de Seguridad Pública;
+
 V. Autorizar los manuales de organización y funcionamiento de la Guardia Nacional;
+
 VI. Aprobar el Programa Anual de Capacitación;
+
 VII. Autorizar los planes y programas de la Guardia Nacional, que se deriven de la Estrategia Nacional de Seguridad Pública;
+
 VIII. Organizar la distribución territorial de la Guardia Nacional;
-IX. Autorizar adecuaciones a la estructura orgánica de la Guardia Nacional, y X. Las demás establecidas en esta Ley y disposiciones aplicables.
+
+IX. Autorizar adecuaciones a la estructura orgánica de la Guardia Nacional, y
+
+X. Las demás establecidas en esta Ley y disposiciones aplicables.
 
 ## Capítulo III
 Del Comandante y las Coordinaciones
@@ -166,43 +288,87 @@ Las ausencias del Comandante se suplirán conforme lo disponga el reglamento res
 
 ### Artículo 16
 . La persona titular de la Comandancia de la Guardia Nacional será responsable del desarrollo, administración y operación de la Guardia Nacional, así como del empleo de sus organismos, de conformidad con las directivas y demás disposiciones del Secretario y le corresponden las facultades siguientes:
+
 I. Ejercer el mando de la Guardia Nacional;
+
 II. Coordinar, administrar, capacitar, dirigir y supervisar a la Guardia Nacional;
+
 III. Vigilar, en el área de su competencia, el cumplimiento de las disposiciones legales en materia de protección de derechos humanos;
+
 IV. Verificar el correcto ejercicio de los recursos que se aporten para la operación y funcionamiento de la Guardia Nacional;
+
 V. Coordinar la realización de cursos, seminarios o eventos con instituciones nacionales y extranjeras que establezca la Secretaría de la Defensa Nacional;
+
 VI. Proponer y celebrar convenios y demás actos jurídicos que no estén reservados a la persona titular de la Secretaría, así como llevar a cabo todas aquellas actividades que deriven de la Estrategia Nacional de Seguridad Pública que estén directamente relacionadas con el ámbito de competencia de la Guardia Nacional;
+
 VII. Proponer a la Secretaría los proyectos de manuales, acuerdos, circulares, memoranda, instructivos, bases y demás normas y disposiciones administrativas para el buen funcionamiento de la Guardia Nacional, en términos del reglamento de esta Ley;
+
 VIII. Proponer a la persona titular de la Secretaría los nombramientos y remociones de las personas titulares de las Coordinaciones Territoriales, Estatales, de Unidad y de las Unidades Circunstanciales;
+
 IX. Ordenar operaciones encubiertas y de usuarios simulados para desarrollar operaciones de inteligencia para la prevención e investigación de los delitos, en los términos establecidos en el Código Nacional de Procedimientos Penales;
+
 X. Ser el enlace institucional con organismos policiales, nacionales y extranjeros que se relacionen con el ámbito de sus atribuciones;
+
 XI. Informar a la persona titular de la Secretaría sobre el desempeño y resultado de las actividades de la Guardia Nacional;
+
 XII. Realizar la coordinación con autoridades federales, de las entidades federativas y de los municipios, en el ámbito de su competencia;
+
 XIII. Llevar a cabo, previo acuerdo del Secretario, las acciones de colaboración y auxilio con las autoridades policiales de otros países, conforme a lo establecido en tratados, convenios y acuerdos internacionales;
+
 XIV. Elaborar y presentar a la persona titular de la Secretaría el informe anual de actividades de la Guardia Nacional;
-XV. Elaborar los planes y programas para: a) La capacitación y profesionalización del personal de la Guardia Nacional en el ámbito de los ejes de formación policial, académico y axiológico, conforme a la normatividad en materia policial; b) La capacitación permanente del personal de la Guardia Nacional, en el uso de la fuerza, informe policial homologado, cadena de custodia, puestas a disposición y respeto a los derechos humanos, y c) Elaborar el Programa Anual de Capacitación;
+
+XV. Elaborar los planes y programas para:
+
+a) La capacitación y profesionalización del personal de la Guardia Nacional en el ámbito de los ejes de formación policial, académico y axiológico, conforme a la normatividad en materia policial;
+
+b) La capacitación permanente del personal de la Guardia Nacional, en el uso de la fuerza, informe policial homologado, cadena de custodia, puestas a disposición y respeto a los derechos humanos, y
+
+c) Elaborar el Programa Anual de Capacitación;
+
 XVI. Planear, controlar, coordinar, ejercer el mando y evaluar las actividades de las unidades, dependencias e instalaciones de la Guardia Nacional, conforme a las directivas que emita el Secretario y demás disposiciones jurídicas aplicables;
+
 XVII. Participar en la planeación, ejecución, administración y supervisión del sistema de adiestramiento policial de la Guardia Nacional, así como en la actualización y generación de la doctrina de la materia;
+
 XVIII. Acordar con la persona titular de la Secretaría el despacho de los asuntos de su competencia;
+
 XIX. Desempeñar las comisiones y funciones especiales que le encomiende la persona titular de la Secretaría e informarle sobre el desarrollo de las mismas;
+
 XX. Recibir en acuerdo ordinario a las personas titulares de los órganos administrativos que tenga adscritos a su responsabilidad y, en acuerdo extraordinario, a otras personas servidoras públicas de la Secretaría;
+
 XXI. Proponer a la persona titular de la Secretaría adecuaciones a la división territorial y a la distribución de las unidades, dependencias e instalaciones de la Guardia Nacional;
+
 XXII. Asesorar a la persona titular de la Secretaría en lo relacionado con la seguridad pública y en asuntos de su competencia;
+
 XXIII. Proponer a la persona titular de la Secretaría medidas orientadas para mejorar la organización y funcionamiento de la Guardia Nacional, incluyendo aspectos administrativos y logísticos;
+
 XXIV. El despliegue de la Guardia Nacional en auxilio a la población civil en caso de necesidades públicas y cuando se vea afectada su seguridad y patrimonio por desastres naturales y antropogénicos;
+
 XXV. Someter a consideración de la persona titular de la Secretaría, por conducto de las áreas competentes, los requerimientos de las unidades, dependencias e instalaciones de la Guardia Nacional;
+
 XXVI. Controlar y evaluar el funcionamiento de las direcciones generales adscritas a su responsabilidad;
+
 XXVII. Poner a consideración del Secretario por conducto del Estado Mayor Conjunto, los movimientos del personal de Generales que pertenezcan a la Guardia Nacional; además del personal de Estado Mayor y del personal de Generales, Jefes y Oficiales para prestar sus servicios en el Estado Mayor Conjunto, el Estado Mayor del Ejército, las instituciones educativas militares y cuerpos especiales;
+
 XXVIII. Organizar y controlar las reservas de la Guardia Nacional, en coordinación con la dirección general competente de la Secretaría;
+
 XXIX. Mantener el enlace en asuntos de su competencia con entes públicos y privados, de conformidad con las directivas que emita la persona titular de la Secretaría;
+
 XXX. Proporcionar información, datos o cooperación técnica en asuntos de su competencia que le sea requerida por entes públicos y privados, de acuerdo con las disposiciones jurídicas aplicables;
+
 XXXI. Participar y desarrollar las actividades correspondientes para representar a dicha fuerza de seguridad pública en diversos foros bilaterales y multilaterales del mismo nivel en dicha materia con países con los que el Estado mexicano tiene relaciones diplomáticas;
+
 XXXII. Participar en mecanismos de coordinación y cooperación en temas de interés común para las fuerzas armadas, que permitan fomentar su interoperabilidad;
+
 XXXIII. Elaborar informes que le sean requeridos por las autoridades competentes, de conformidad con las directivas que emita la persona titular de la Secretaría y demás disposiciones jurídicas aplicables;
+
 XXXIV. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que le sean señalados por delegación;
+
 XXXV. Supervisar que la actuación de los órganos administrativos que tenga adscritos cumpla con las disposiciones jurídicas y evaluar dicha actuación, así como vigilar que elaboren y mantengan permanentemente actualizados sus respectivos manuales de organización y funcionamiento;
+
 XXXVI. Realizar la coordinación con autoridades federales, de las entidades federativas y de los municipios, en el ámbito de su competencia;
+
 XXXVII. Expedir certificaciones sobre los asuntos de su competencia;
+
 XXXVIII. Las demás que le confieran otras disposiciones legales y jurídicas, así como aquellas funciones que le encomiende la persona titular de la Secretaría.
 
 ### Artículo 17
@@ -225,11 +391,17 @@ Las Coordinaciones Estatales se integran con organismos de la Guardia Nacional q
 
 ### Artículo 20
 . Las Coordinaciones de Unidad serán de Batallón, Compañía, Sección, Pelotón y Escuadra, conforme a las disposiciones siguientes:
+
 I. El Batallón estará a cargo de un General Brigadier o Coronel de Guardia Nacional, tendrá bajo su mando a dos o más compañías, contará con una Jefatura de Coordinación Policial y dispondrá de la estructura necesaria para realizar sus funciones.
 Asimismo, conforme a las instrucciones que reciba de la persona titular de la Coordinación Estatal de la cual dependa, la persona titular del Batallón mantendrá enlace con su homólogo del Ejército, Fuerza Aérea o Armada en su adscripción, a fin de facilitar una adecuada colaboración para el desempeño de las funciones de seguridad pública, en el marco de sus respectivas atribuciones;
+
 II. La compañía estará a cargo de un Capitán Primero o Segundo de Guardia Nacional y tendrá bajo su mando a dos o más Secciones. La Compañía, en el cumplimiento de sus funciones de seguridad pública, se desplegará en Secciones, Pelotones y Escuadras;
+
 III. La Sección estará a cargo de un Teniente o Subteniente de Guardia Nacional y tendrá bajo su mando a dos o más Pelotones;
-IV. El Pelotón estará a cargo de un Sargento Segundo de Guardia Nacional y tendrá bajo su mando a dos o más Escuadras, y V. La Escuadra estará a cargo de un Cabo de Guardia Nacional y tendrá bajo su mando a dos o más Soldados de Guardia Nacional.
+
+IV. El Pelotón estará a cargo de un Sargento Segundo de Guardia Nacional y tendrá bajo su mando a dos o más Escuadras, y
+
+V. La Escuadra estará a cargo de un Cabo de Guardia Nacional y tendrá bajo su mando a dos o más Soldados de Guardia Nacional.
 Los organismos constituidos por tropas de la Guardia Nacional, estructurados internamente en dos o más escalones, equipados y adiestrados para cumplir funciones policiales a cargo de la Federación, bajo normas tácticas y técnicas en el cumplimiento de sus atribuciones, reciben el nombre de Coordinaciones de Unidad.
 
 ### Artículo 21
@@ -240,10 +412,16 @@ De la Composición y Actuación de la Guardia Nacional
 
 ### Artículo 22
 . La Guardia Nacional tendrá la estructura orgánica que determine su reglamento y contará al menos con:
+
 I. La Comandancia;
+
 II. La Jefatura General de Coordinación Policial;
+
 III. Las Coordinaciones Territoriales, Estatales y de Unidad;
-IV. Unidades Circunstanciales, y V. Los servicios especializados de investigación e inteligencia.
+
+IV. Unidades Circunstanciales, y
+
+V. Los servicios especializados de investigación e inteligencia.
 
 ### Artículo 23
 . La Guardia Nacional dispondrá de servicios especializados que sean necesarios para el cumplimiento de sus atribuciones, que adoptarán la organización que requieran sus funciones.
@@ -266,9 +444,14 @@ Ingreso
 
 ### Artículo 27
 . La profesionalización y capacitación de Guardia Nacional se regulará conforme a los lineamientos siguientes:
+
 I. El ingreso de una persona a la Guardia Nacional estará supeditado a los antecedentes que obren en el Registro Nacional de Personal de Seguridad Pública. En caso de que el aspirante no cuente con antecedentes, deberá tramitar su inscripción en dicho Registro;
+
 II. El personal de la Guardia Nacional para el ejercicio de la función policial, debe contar con el Certificado Único Policial, expedido conforme al protocolo aprobado por el Centro Nacional de Acreditación y Control de Confianza. Este Certificado deberá mantenerse actualizado durante el tiempo que la persona permanezca en la Guardia Nacional;
-III. El personal de la Guardia Nacional deberá cursar y aprobar los programas de formación, capacitación y profesionalización correspondientes, así como, cumplir con todos los requisitos que determine esta Ley y la Ley General del Sistema Nacional de Seguridad Pública, y IV. Las sanciones que se apliquen al personal de la Guardia Nacional por infracciones al régimen de responsabilidades administrativas, se determinarán mediante el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
+
+III. El personal de la Guardia Nacional deberá cursar y aprobar los programas de formación, capacitación y profesionalización correspondientes, así como, cumplir con todos los requisitos que determine esta Ley y la Ley General del Sistema Nacional de Seguridad Pública, y
+
+IV. Las sanciones que se apliquen al personal de la Guardia Nacional por infracciones al régimen de responsabilidades administrativas, se determinarán mediante el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
 
 ## Capítulo II
 De los Grados y el Escalafón
@@ -276,20 +459,65 @@ De los Grados y el Escalafón
 ### Artículo 28
 . La escala jerárquica de la Guardia Nacional tiene por objeto el ejercicio del mando.
 Los grados de la escala jerárquica de la Guardia Nacional se clasifican en:
+
 I. Generales de Guardia Nacional;
+
 II. Jefes de Guardia Nacional;
-III. Oficiales de Guardia Nacional, y IV. Tropa de Guardia Nacional.
+
+III. Oficiales de Guardia Nacional, y
+
+IV. Tropa de Guardia Nacional.
 
 ### Artículo 29
 . Los grados de la Guardia Nacional, en orden decreciente, son:
-I. Generales: a) General de División de Guardia Nacional; b) General de Brigada de Guardia Nacional, y c) General Brigadier de Guardia Nacional.
-II. Jefes: a) Coronel de Guardia Nacional; b) Teniente Coronel de Guardia Nacional, y c) Mayor de Guardia Nacional.
-III. Oficiales: a) Capitán Primero de Guardia Nacional; b) Capitán Segundo de Guardia Nacional; c) Teniente de Guardia Nacional, y d) Subteniente de Guardia Nacional.
-IV. Tropa: a) Sargento Primero de Guardia Nacional; b) Sargento Segundo de Guardia Nacional; c) Cabo de Guardia Nacional, y d) Soldado de Guardia Nacional.
+
+I. Generales:
+
+a) General de División de Guardia Nacional;
+
+b) General de Brigada de Guardia Nacional, y
+
+c) General Brigadier de Guardia Nacional.
+
+II. Jefes:
+
+a) Coronel de Guardia Nacional;
+
+b) Teniente Coronel de Guardia Nacional, y
+
+c) Mayor de Guardia Nacional.
+
+III. Oficiales:
+
+a) Capitán Primero de Guardia Nacional;
+
+b) Capitán Segundo de Guardia Nacional;
+
+c) Teniente de Guardia Nacional, y
+
+d) Subteniente de Guardia Nacional.
+
+IV. Tropa:
+
+a) Sargento Primero de Guardia Nacional;
+
+b) Sargento Segundo de Guardia Nacional;
+
+c) Cabo de Guardia Nacional, y
+
+d) Soldado de Guardia Nacional.
 
 ### Artículo 30
 . Los escalafones y los grados que comprende el personal de la Guardia Nacional, son los siguientes:
-I. De Plana Mayor de Guardia Nacional, que comprende: a) General de División de Guardia Nacional; b) General de Brigada de Guardia Nacional, y c) General Brigadier de Guardia Nacional.
+
+I. De Plana Mayor de Guardia Nacional, que comprende:
+
+a) General de División de Guardia Nacional;
+
+b) General de Brigada de Guardia Nacional, y
+
+c) General Brigadier de Guardia Nacional.
+
 II. Personal de Guardia Nacional:
 De Soldado de Guardia Nacional a General de División de Guardia Nacional.
 El personal militar de la clase de servicio del Ejército y Fuerza Aérea Mexicanos, que preste sus actividades en la Guardia Nacional, a su empleo se le adicionará la denominación de Guardia Nacional.
@@ -328,10 +556,18 @@ Las insignias que correspondan a cada grado serán especificadas en el manual qu
 
 ### Artículo 40
 . Para una adecuada colaboración de la Guardia Nacional, con el Ejército, Armada y Fuerza Aérea en el desempeño de las funciones de seguridad pública que tiene a su cargo, conforme a lo previsto en los artículos 18, 19 y 20, fracción I, de esta Ley, la equivalencia jerárquica será la siguiente:
-GUARDIA NACIONAL EJÉRCITO Y FUERZA AÉREA ARMADA I. Generales: I. Generales: I. Almirantes:
-General de División de Guardia Nacional General de División Almirante General de Brigada de Guardia Nacional General de Brigada o General de Ala Vicealmirante General Brigadier de Guardia Nacional General Brigadier o General de Grupo Contralmirante II. Jefes: II. Jefes: II. Capitanes:
-Coronel de Guardia Nacional Coronel Capitán de Navío Teniente Coronel de Guardia Nacional Teniente Coronel Capitán de Fragata Mayor de Guardia Nacional Mayor Capitán de Corbeta III. Oficiales: III. Oficiales: III. Oficiales:
-Capitán Primero de Guardia Nacional Capitán Primero Teniente de Navío Capitán Segundo de Guardia Nacional Capitán Segundo Teniente de Fragata Teniente de Guardia Nacional Teniente Teniente de Corbeta Subteniente de Guardia Nacional Subteniente Primer Maestre/Guardia Marina IV. Clases: IV. Clases: IV. Clases:
+GUARDIA NACIONAL EJÉRCITO Y FUERZA AÉREA ARMADA
+
+I. Generales: I. Generales: I. Almirantes:
+General de División de Guardia Nacional General de División Almirante General de Brigada de Guardia Nacional General de Brigada o General de Ala Vicealmirante General Brigadier de Guardia Nacional General Brigadier o General de Grupo Contralmirante
+
+II. Jefes: II. Jefes: II. Capitanes:
+Coronel de Guardia Nacional Coronel Capitán de Navío Teniente Coronel de Guardia Nacional Teniente Coronel Capitán de Fragata Mayor de Guardia Nacional Mayor Capitán de Corbeta
+
+III. Oficiales: III. Oficiales: III. Oficiales:
+Capitán Primero de Guardia Nacional Capitán Primero Teniente de Navío Capitán Segundo de Guardia Nacional Capitán Segundo Teniente de Fragata Teniente de Guardia Nacional Teniente Teniente de Corbeta Subteniente de Guardia Nacional Subteniente Primer Maestre/Guardia Marina
+
+IV. Clases: IV. Clases: IV. Clases:
 Sargento Primero de Guardia Nacional Sargento Primero Segundo Maestre Sargento Segundo de Guardia Nacional Sargento Segundo Tercer Maestre Cabo de Guardia Nacional Cabo Cabo Soldado de Guardia Nacional Soldado Marinero
 
 ### Artículo 41
@@ -342,28 +578,64 @@ Situación de los integrantes de la Guardia Nacional
 
 ### Artículo 42
 . El activo de la Guardia Nacional está constituido por el personal militar con formación policial que se encuentre:
+
 I. Encuadrado, agregado o comisionado en Unidades, Dependencias e Instalaciones Militares;
+
 II. A disposición de la Secretaría de la Defensa Nacional;
+
 III. Con licencia;
+
 IV. Hospitalizado;
-V. Sujeto a proceso, y VI. Compurgando una sentencia.
+
+V. Sujeto a proceso, y
+
+VI. Compurgando una sentencia.
 
 ### Artículo 43
 . La baja es la separación definitiva de los miembros de la Guardia Nacional, del activo de dicha fuerza de seguridad pública y procederá por ministerio de ley o por acuerdo de la persona titular de la Secretaría de la Defensa Nacional en los siguientes casos:
-I. Procede por ministerio de ley: a) Por muerte, y b) Por sentencia ejecutoriada que la ordene, dictada por tribunal competente del Fuero Militar.
+
+I. Procede por ministerio de ley:
+
+a) Por muerte, y
+
+b) Por sentencia ejecutoriada que la ordene, dictada por tribunal competente del Fuero Militar.
 En estos casos, la Secretaría deberá girar las órdenes que procedan para que la baja surta sus efectos.
-II. Procede por acuerdo de la persona titular de la Secretaría: a) Por solicitud del interesado que sea aceptada; b) Por ser declarado prófugo de la justicia por el Tribunal Militar al que hubiere sido consignado, sin perjuicio del proceso que se le siga y siempre que dure en esta situación más de tres meses.
-En este caso, antes de girarse la orden de baja, se le emplazará por medio de publicación en la Orden General de la Plaza de México, expresándose el fundamento y motivo, a fin de que, dentro del término de quince días a partir de la publicación, manifieste a la Comandancia de la Guardia Nacional lo que estime necesario en su defensa; expirado el plazo sin que comparezca por escrito o personalmente, se le tendrá por conforme; c) Por desaparición del militar, comprobada esta circunstancia mediante los partes oficiales, siempre que dure en esta situación más de tres meses, en caso de que el individuo de que se trate apareciera y justifique su ausencia, será reincorporado al activo; d) Por observar mala conducta determinada por el Consejo de Honor de la unidad, dependencia o establecimiento de educación militar a que pertenezcan o por colocarse en situación de no poder cumplir con sus obligaciones militares, por causas no imputables a la Secretaría, tratándose del personal de Tropa y de los discentes del Sistema Educativo Militar, a quienes se les otorgará la garantía de audiencia en su defensa; e) Por adquirir otra nacionalidad; f) La rescisión del contrato de enganche o del de su renovación, para las y los Soldados, Cabos y discentes del Sistema Educativo Militar, a quienes se les otorgará la garantía de audiencia dentro de los quince días hábiles siguientes al de su notificación, en los términos del Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, o g) Por incumplir con los requisitos de permanencia establecidos en la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables.
+
+II. Procede por acuerdo de la persona titular de la Secretaría:
+
+a) Por solicitud del interesado que sea aceptada;
+
+b) Por ser declarado prófugo de la justicia por el Tribunal Militar al que hubiere sido consignado, sin perjuicio del proceso que se le siga y siempre que dure en esta situación más de tres meses.
+En este caso, antes de girarse la orden de baja, se le emplazará por medio de publicación en la Orden General de la Plaza de México, expresándose el fundamento y motivo, a fin de que, dentro del término de quince días a partir de la publicación, manifieste a la Comandancia de la Guardia Nacional lo que estime necesario en su defensa; expirado el plazo sin que comparezca por escrito o personalmente, se le tendrá por conforme;
+
+c) Por desaparición del militar, comprobada esta circunstancia mediante los partes oficiales, siempre que dure en esta situación más de tres meses, en caso de que el individuo de que se trate apareciera y justifique su ausencia, será reincorporado al activo;
+
+d) Por observar mala conducta determinada por el Consejo de Honor de la unidad, dependencia o establecimiento de educación militar a que pertenezcan o por colocarse en situación de no poder cumplir con sus obligaciones militares, por causas no imputables a la Secretaría, tratándose del personal de Tropa y de los discentes del Sistema Educativo Militar, a quienes se les otorgará la garantía de audiencia en su defensa;
+
+e) Por adquirir otra nacionalidad;
+
+f) La rescisión del contrato de enganche o del de su renovación, para las y los Soldados, Cabos y discentes del Sistema Educativo Militar, a quienes se les otorgará la garantía de audiencia dentro de los quince días hábiles siguientes al de su notificación, en los términos del Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, o
+
+g) Por incumplir con los requisitos de permanencia establecidos en la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables.
 Salvo los casos de la fracción I, inciso a), la baja de la Guardia Nacional implica la pérdida del derecho a reclamar prestaciones o beneficios con base en el tiempo de servicios que se tuvo y en todos los casos el de usar uniformes, condecoraciones y demás insignias que le hubieren sido otorgadas durante su desempeño en la Guardia Nacional.
 Sin perjuicio de lo señalado en el presente artículo, el acuerdo de baja respectivo podrá emitirse por la persona titular de la Comandancia de la Guardia Nacional, de acuerdo con lo previsto en el Reglamento de esta Ley y demás ordenamientos aplicables.
 Al concluir su servicio, el personal de la Guardia Nacional deberá entregar al servidor público designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega-recepción.
 
 ### Artículo 44
 . Las licencias para el personal del activo serán: ordinaria, ilimitada, especial y por edad límite, conforme a lo siguiente:
+
 I. La licencia ordinaria es la que se concede con goce de haberes al personal militar con formación policial integrante de la Guardia Nacional, por un lapso que no exceda de seis meses por causas de enfermedad o por asuntos particulares, de conformidad con lo que establezca el reglamento respectivo.
+
 II. La licencia ilimitada es la que se concederá al personal militar con formación policial integrante de la Guardia Nacional sin goce de haberes y de otros emolumentos, para separarse del servicio activo.
 La persona titular de la Secretaría podrá conceder o negar esta licencia, según lo permitan, a su juicio, las necesidades del servicio, pero en ningún caso se concederá cuando exista un estado de emergencia nacional y cuando el personal no haya cumplido el tiempo obligatorio de servicio establecido en su contrato-filiación. El personal que la goce tendrá derecho a reingresar al servicio previa solicitud, siempre que la persona titular del Ejecutivo Federal considere procedente su petición y no se encuentre comprendido en alguna causal de retiro señalada por la ley de la materia, éste se halle físicamente útil para el servicio, exista vacante y no hayan transcurrido más de seis años desde la fecha de su separación del activo y no adquiera otra nacionalidad.
-III. La licencia especial es la que se concede o en la que se coloca al personal militar con formación policial integrante de la Guardia Nacional, para: a) Desempeñar cargos de elección popular; b) Cuando la persona titular del Ejecutivo Federal los nombre para el desempeño de una actividad ajena a la Guardia Nacional, y c) Desempeñar actividades o empleos civiles en dependencias del Ejecutivo Federal, de los gobiernos de las entidades federativas, de los municipios, en organismos descentralizados o empresas de participación estatal y otras dependencias públicas, siempre que esas actividades o empleos requieran separarse temporalmente de sus funciones de seguridad pública para estar en aptitud legal de desempeñarlos.
+
+III. La licencia especial es la que se concede o en la que se coloca al personal militar con formación policial integrante de la Guardia Nacional, para:
+
+a) Desempeñar cargos de elección popular;
+
+b) Cuando la persona titular del Ejecutivo Federal los nombre para el desempeño de una actividad ajena a la Guardia Nacional, y
+
+c) Desempeñar actividades o empleos civiles en dependencias del Ejecutivo Federal, de los gobiernos de las entidades federativas, de los municipios, en organismos descentralizados o empresas de participación estatal y otras dependencias públicas, siempre que esas actividades o empleos requieran separarse temporalmente de sus funciones de seguridad pública para estar en aptitud legal de desempeñarlos.
 Es facultad de la persona titular del Ejecutivo Federal y, en su caso, de la persona titular de la Secretaría, conceder o negar esta licencia y en caso de ser concedida, será para el desempeño específico del empleo o comisión señalados en la solicitud y por el término que se haya establecido al autorizarla.
 Los casos de licencia previstos en la fracción III, incisos a) y c), serán concedidos cuando se justifique, pero sin goce de haberes.
 La reincorporación al servicio del personal al que se refiere la fracción III tendrá lugar al día siguiente de que fenezca la orden expedida o la licencia concedida por la persona titular del Ejecutivo Federal. Cuando no esté fijado el plazo, la Secretaría dará por terminada la licencia del personal militar integrante de la Guardia Nacional al concluir el mandato constitucional de la persona titular del Ejecutivo Federal de quien emanó la orden. En todos los casos, el personal al reincorporarse quedará a disposición de la Secretaría, para que le sea asignado destino.
@@ -385,9 +657,14 @@ Esta licencia será concedida por una sola ocasión, con goce de las percepcione
 
 ### Artículo 49
 . La actuación del integrante de la Guardia Nacional se asentará en los documentos que a continuación se enlistan, de conformidad con lo establecido en las leyes, reglamentos y disposiciones normativas aplicables, como sigue:
+
 I. Hoja de Actuación;
+
 II. Hoja de Servicios;
-III. Memorial de Servicios, y IV. Extracto de Antecedentes.
+
+III. Memorial de Servicios, y
+
+IV. Extracto de Antecedentes.
 
 ## TÍTULO CUARTO
 Armamento
@@ -397,8 +674,12 @@ De la Disposición
 
 ### Artículo 50
 . Para el cumplimiento de sus fines la Guardia Nacional dispondrá de:
+
 I. Las armas de fuego y municiones que tenga asignadas;
-II. Las armas menos letales, y III. Los equipos e instrumentos tecnológicos.
+
+II. Las armas menos letales, y
+
+III. Los equipos e instrumentos tecnológicos.
 El personal de la Guardia Nacional hará uso diferenciado de la fuerza y de las armas, de conformidad con la Ley Nacional sobre el Uso de la Fuerza.
 
 ### Artículo 51
@@ -463,45 +744,85 @@ De las Obligaciones
 
 ### Artículo 65
 . Son obligaciones del integrante de la Guardia Nacional:
+
 I. Conducir su actuación con dedicación y disciplina, con apego al orden jurídico, los principios de patriotismo, amor a la patria, legalidad, objetividad, eficiencia, profesionalismo, honradez, honestidad; respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de la materia de los que el Estado mexicano sea parte;
+
 II. Preservar la secrecía, reserva o confidencialidad de los asuntos que conozcan por razón del desempeño de su función;
+
 III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas por algún delito, así como brindar protección a sus bienes y derechos en el momento de su intervención. Su actuación será congruente, oportuna y proporcional al hecho;
+
 IV. Utilizar adecuadamente el uniforme y las insignias de la Guardia Nacional que les correspondan;
+
 V. Cumplir sus funciones con absoluta imparcialidad, sin discriminación alguna;
+
 VI. Abstenerse de infligir o tolerar actos de tortura, tratos crueles, inhumanos o degradantes, así como desaparición forzada, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública o urgencia de las investigaciones. Cuando tenga conocimiento de ello, deberá denunciarlo inmediatamente a la autoridad competente;
+
 VII. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario;
+
 VIII. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular, se opondrá a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberá denunciarlo;
+
 IX. Abstenerse de realizar la detención de persona alguna sin existir una orden expresa del Ministerio Público o de alguna autoridad jurisdiccional y sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables.
 Dicha abstención aplicará siempre y cuando la detención no se genere en casos de flagrancia. En los casos de flagrancia, los integrantes de la Guardia Nacional estarán obligados a realizar la presentación ante el Ministerio Público de manera inmediata;
+
 X. Velar por la vida e integridad física de las personas detenidas;
+
 XI. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias para el ejercicio de sus funciones;
+
 XII. Cumplir con los protocolos de investigación y de cadena de custodia que establezcan las autoridades competentes;
+
 XIII. Participar de manera coordinada con otras instituciones en materia de seguridad pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+
 XIV. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de infracciones administrativas, de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+
 XV. Someterse a evaluaciones periódicas para acreditar el cumplimiento de los requisitos de su función, así como obtener y mantener vigente la certificación respectiva;
+
 XVI. Informar al superior jerárquico, de manera inmediata, las omisiones, infracciones o delitos de los que tenga conocimiento;
+
 XVII. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
+
 XVIII. Fomentar la disciplina, responsabilidad, decisión, integridad, respeto a los derechos humanos, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
+
 XIX. Inscribir las detenciones en el Registro Nacional de Detenciones, conforme a las disposiciones aplicables;
+
 XX. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las instituciones;
+
 XXI. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer, por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento, en ejercicio y con motivo de sus funciones;
+
 XXII. Atender con diligencia la solicitud de información, queja o auxilio de la ciudadanía o de sus propios subordinados, excepto cuando la petición rebase su ámbito de competencia, en cuyo caso deberá turnarlo a la autoridad o servidor público que corresponda;
+
 XXIII. Abstenerse de introducir a las instalaciones de la Guardia Nacional bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares y previamente exista la autorización correspondiente;
+
 XXIV. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal o prohibido. El consumo de medicamentos controlados deberá realizarse mediante prescripción médica, avalada y certificada por el servicio médico correspondiente;
+
 XXV. Abstenerse de consumir en las instalaciones de la Guardia Nacional o en actos del servicio, bebidas embriagantes; así como de presentarse a sus labores bajo sus efectos;
+
 XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Guardia Nacional, dentro o fuera del servicio;
+
 XXVII. Impedir que personas ajenas a la Guardia Nacional realicen actos inherentes a las atribuciones que tenga encomendadas o que le acompañen durante la realización de actos del servicio;
+
 XXVIII. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas y juegos, prostíbulos u otros lugares de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia;
+
 XXIX. Hacer uso de la fuerza de manera racional y proporcional, conforme a lo previsto en la ley en la materia;
+
 XXX. Comportarse con el más alto grado de cortesía y educación, guardando la compostura que corresponde a su situación profesional en la Guardia Nacional y como servidor público;
+
 XXXI. Prestar, siempre que le sea posible, su ayuda moral y material a sus subordinados y compañeros que la necesiten;
+
 XXXII. Abstenerse de dar órdenes cuya ejecución constituya un delito; el personal de la Guardia Nacional que las emita y el subordinado que las cumpla, serán responsables conforme a la legislación penal aplicable;
+
 XXXIII. Abstenerse de abandonar el país sin autorización del superior facultado para ello;
+
 XXXIV. Abstenerse de abandonar, sin autorización del superior facultado para ello, la entidad federativa a la que está adscrito o en donde deba permanecer;
+
 XXXV. Mantener respeto a sus superiores jerárquicos, acatar y ejecutar sus órdenes, salvo que atenten contra la ley y los derechos humanos;
+
 XXXVI. Abstenerse de dar órdenes de índole personal o que no tengan relación con el servicio o para impedir la ejecución de los deberes o facultades del subordinado;
+
 XXXVII. Abstenerse de obstaculizar algún medio de defensa o petición que quiera hacer valer un subordinado, insultarlo o inducirlo a cometer una acción degradante, una infracción o un delito;
-XXXVIII. Aplicar los correctivos disciplinarios que correspondan, de manera proporcional a la falta cometida, y XXXIX. Los demás que establezca la presente Ley y disposiciones legales aplicables.
+
+XXXVIII. Aplicar los correctivos disciplinarios que correspondan, de manera proporcional a la falta cometida, y
+
+XXXIX. Los demás que establezca la presente Ley y disposiciones legales aplicables.
 
 ### Artículo 66
 . La disciplina es la norma a la que los integrantes de la Guardia Nacional deben ajustar su conducta; tiene como bases la obediencia y un alto concepto del honor, de la justicia y de la moral y, por objeto, el fiel y exacto cumplimiento de los deberes que prescriben las leyes y reglamentos militares y las disposiciones aplicables en materia de seguridad pública.
@@ -511,9 +832,14 @@ XXXVIII. Aplicar los correctivos disciplinarios que correspondan, de manera prop
 
 ### Artículo 68
 . El integrante de la Guardia Nacional que incumpla una o más de las obligaciones previstas en esta Ley o su Reglamento y demás disposiciones legales aplicables, se hará acreedor a alguno de los correctivos disciplinarios siguientes:
+
 I. Amonestación;
+
 II. Arresto;
-III. Cambio de unidad, dependencia, instalación o comisión en observación de su conducta, determinado por el Consejo de Honor, y IV. Suspensión hasta por treinta días naturales, dictaminada por el Consejo de Honor o por el Consejo Superior de Disciplina.
+
+III. Cambio de unidad, dependencia, instalación o comisión en observación de su conducta, determinado por el Consejo de Honor, y
+
+IV. Suspensión hasta por treinta días naturales, dictaminada por el Consejo de Honor o por el Consejo Superior de Disciplina.
 El arresto consiste en la obligación de permanecer a disposición de su superior jerárquico, sin poder disponer de su tiempo libre. La persona sancionada no podrá salir de las instalaciones a la que está adscrita o comisionada, salvo en actividades propias de sus obligaciones que le ordene un superior jerárquico.
 El arresto tendrá una duración máxima de quince días.
 La suspensión es el correctivo disciplinario que se impone a la persona militar por observar mala conducta, determinada por el Consejo de Honor o por el Consejo Superior de Disciplina, consistente en la separación del empleo hasta por treinta días, sin goce de haberes y demás emolumentos, así como la interrupción del tiempo de servicios.
@@ -523,17 +849,34 @@ La suspensión es el correctivo disciplinario que se impone a la persona militar
 
 ### Artículo 70
 . El arresto se impondrá de conformidad con las reglas siguientes:
+
 I. Pueden imponer los correctivos disciplinarios a los subordinados, los superiores jerárquicos o de cargo;
-II. Tienen facultad para graduar los arrestos: a) La persona titular de la Secretaría, la Subsecretaría y la Oficialía Mayor; b) La persona titular de la Comandancia, y c) Las personas titulares de las Coordinaciones Territoriales, Estatales y de Unidad a nivel Batallón y Jefes y Oficiales Comandantes de Unidades destacamentadas.
+
+II. Tienen facultad para graduar los arrestos:
+
+a) La persona titular de la Secretaría, la Subsecretaría y la Oficialía Mayor;
+
+b) La persona titular de la Comandancia, y
+
+c) Las personas titulares de las Coordinaciones Territoriales, Estatales y de Unidad a nivel Batallón y Jefes y Oficiales Comandantes de Unidades destacamentadas.
 En ausencia de los anteriores, la facultad recaerá en quien los suceda en el mando o cargo;
+
 III. Quien imponga el arresto dará cuenta a la autoridad competente para su graduación, siendo ésta quien debe fijar su duración, teniendo en consideración la jerarquía de quien lo impuso, la falta cometida y los antecedentes del subordinado;
-IV. Toda orden de arresto debe comunicarse por escrito. En caso de que el personal integrante de la Guardia Nacional se vea precisado a comunicarla de manera verbal, ésta, surtirá efectos de inmediato, pero dicha medida deberá ser ratificada por escrito dentro de las veinticuatro horas siguientes, de manera fundada y motivada. En caso de que no se ratifique por escrito, la orden quedará sin efecto, y V. Quien impida el cumplimiento de un arresto, el que permita que se quebrante, así como el que no lo cumpla, serán sancionados de acuerdo a lo dispuesto en el Código de Justicia Militar.
+
+IV. Toda orden de arresto debe comunicarse por escrito. En caso de que el personal integrante de la Guardia Nacional se vea precisado a comunicarla de manera verbal, ésta, surtirá efectos de inmediato, pero dicha medida deberá ser ratificada por escrito dentro de las veinticuatro horas siguientes, de manera fundada y motivada. En caso de que no se ratifique por escrito, la orden quedará sin efecto, y
+
+V. Quien impida el cumplimiento de un arresto, el que permita que se quebrante, así como el que no lo cumpla, serán sancionados de acuerdo a lo dispuesto en el Código de Justicia Militar.
 
 ### Artículo 71
 . Los arrestos se impondrán de acuerdo a lo siguiente:
+
 I. Generales, hasta por veinticuatro horas;
+
 II. Jefes, hasta por cuarenta y ocho horas;
-III. Oficiales, hasta por ocho días, y IV. Tropa, hasta por quince días.
+
+III. Oficiales, hasta por ocho días, y
+
+IV. Tropa, hasta por quince días.
 Los Generales, Jefes, Oficiales y Tropa de la Guardia Nacional que se encuentren a disposición de la Secretaría, cumplirán los arrestos que se les impongan en cualquier instalación de la Guardia Nacional o recinto militar.
 La persona titular de la Secretaría, podrá imponer, en todos los casos, arresto hasta por quince días.
 
@@ -574,11 +917,18 @@ El titular del Poder Ejecutivo de las entidades federativas será invitado a las
 
 ### Artículo 80
 . Durante la vigencia de los convenios de colaboración de la Guardia Nacional con las instituciones de seguridad pública de las entidades federativas o de los municipios, los titulares del poder ejecutivo local o los presidentes municipales, en el ámbito de sus competencias, asumirán las siguientes responsabilidades:
+
 I. Asistir a las reuniones de coordinación que se convoquen;
+
 II. Aportar la información necesaria para cumplir con los fines de la colaboración;
+
 III. Mantener, conforme los parámetros que establezca el Consejo Nacional de Seguridad Pública, el nivel de inversión en infraestructura, equipamiento y servicios públicos que resulten necesarios para atender las necesidades en materia de seguridad pública en el ámbito de su competencia;
+
 IV. Asegurar el cumplimiento de los requisitos de ingreso y permanencia de los integrantes de sus instituciones de seguridad pública en los términos de la ley de la materia;
-V. Presentar informes periódicos sobre el avance del programa de fortalecimiento de capacidades institucionales que se diseñe al efecto, y VI. Propiciar, en el ámbito de su competencia, las condiciones para el cumplimiento de los fines que se persigan con la colaboración solicitada.
+
+V. Presentar informes periódicos sobre el avance del programa de fortalecimiento de capacidades institucionales que se diseñe al efecto, y
+
+VI. Propiciar, en el ámbito de su competencia, las condiciones para el cumplimiento de los fines que se persigan con la colaboración solicitada.
 
 ### Artículo 81
 . Los términos, condiciones, obligaciones y derechos que correspondan a la Guardia Nacional y a las autoridades de las entidades federativas y municipios, se establecerán en los convenios de colaboración que al efecto se suscriban entre el Secretario, el titular del Poder Ejecutivo de la entidad federativa de que se trate y, en su caso, los presidentes municipales correspondientes. En los convenios se establecerán las condiciones y términos para la conclusión de las tareas encomendadas a la Guardia Nacional, a fin de que las instituciones de seguridad pública local las asuman plenamente.
@@ -609,18 +959,32 @@ Del Control Parlamentario
 
 ### Artículo 87
 . El informe que el Ejecutivo Federal presente al Senado de la República contendrá, al menos, los rubros siguientes:
+
 I. Los nombramientos expedidos para los cargos establecidos en el artículo 21 de esta Ley y las adscripciones realizadas a las personas titulares de las Coordinaciones Territoriales y Estatales;
+
 II. El despliegue territorial de la Guardia Nacional;
+
 III. El número de efectivos desplegados;
+
 IV. El número de eventos en los que haya participado personal de la Guardia Nacional, el desglose de aquellos en los que haya hecho uso de la fuerza, especificando los casos en que se utilizaron armas de fuego y en los que se haya determinado exceso en el uso de la misma;
+
 V. El número de personas detenidas, de objetos, productos o instrumentos de delitos y el desglose de armas, explosivos, sustancias contempladas en la Ley General de Salud, así como los bienes cuyas categorías prevé el Código Nacional de Procedimientos Penales;
+
 VI. El número de diligencias ministeriales y judiciales en las que intervino el personal de la Guardia Nacional;
+
 VII. El número de elementos sancionados disciplinariamente y el desglose de los motivos y clase de las sanciones impuestas;
+
 VIII. El número de elementos sancionados penalmente y el desglose de los motivos y tipo de penas impuestas;
+
 IX. El número de recomendaciones en materia de derechos humanos realizadas en relación a las actuaciones de la Guardia Nacional, así como el desglose de sus motivos, la atención que se haya dado a las mismas y, en su caso, el sentido de los informes que emitan la Comisión Nacional de los Derechos Humanos y las equivalentes de las entidades federativas;
+
 X. Los recursos ejercidos por la Guardia Nacional para el cumplimiento de los convenios de colaboración con las entidades federativas y municipios;
+
 XI. El número de los convenios de colaboración suscritos con entidades federativas y municipios, así como el avance en el cumplimiento de los objetivos establecidos para la Guardia Nacional en los mismos;
-XII. El número de personas fallecidas por el uso de la fuerza, y XIII. La estrategia desplegada para el cumplimiento de los fines de la Guardia Nacional, sus objetivos generales y específicos, así como los resultados obtenidos con base en indicadores de evaluación del desempeño.
+
+XII. El número de personas fallecidas por el uso de la fuerza, y
+
+XIII. La estrategia desplegada para el cumplimiento de los fines de la Guardia Nacional, sus objetivos generales y específicos, así como los resultados obtenidos con base en indicadores de evaluación del desempeño.
 
 ### Artículo 88
 . El Senado de la República podrá solicitar al Ejecutivo Federal, dentro de los quince días hábiles siguientes a la presentación del informe, datos adicionales a sus rubros legales, los cuales deberán remitirse dentro de los quince días hábiles siguientes a la fecha de notificación del requerimiento.
@@ -643,13 +1007,49 @@ En caso de que durante la intervención de comunicaciones se advierta el indicio
 En su autorización, la autoridad judicial competente determinará las características de la intervención, sus modalidades y límites y, en su caso, ordenará a instituciones públicas o privadas, modos específicos de colaboración.
 
 ### Artículo 93
-. La intervención preventiva de comunicaciones a que se refiere esta Ley, se autorizará únicamente en relación con los delitos previstos en los ordenamientos legales que a continuación se enlistan: a) El de evasión de presos, previsto en el artículo 150; b) El que se cometa contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero; c) El de corrupción de menores o incapaces, previsto en los artículos 200, 201 y 201 BIS; d) El de pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el Capítulo II, del Título Octavo; e) El de turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS; f) El de lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; g) El de explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208; h) El de asalto en carreteras o caminos, previsto en el artículo 286, segundo párrafo; i) El de homicidio relacionado con la delincuencia organizada; j) El de tráfico de menores, previsto en el artículo 366 Ter; k) El de robo de vehículo, previsto en el artículo 376 bis; l) Los previstos en el artículo 377; m) El de extorsión, previsto en el artículo 390, y n) El de operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis;
+. La intervención preventiva de comunicaciones a que se refiere esta Ley, se autorizará únicamente en relación con los delitos previstos en los ordenamientos legales que a continuación se enlistan:
+
+a) El de evasión de presos, previsto en el artículo 150;
+
+b) El que se cometa contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;
+
+c) El de corrupción de menores o incapaces, previsto en los artículos 200, 201 y 201 BIS;
+
+d) El de pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el Capítulo II, del Título Octavo;
+
+e) El de turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 BIS;
+
+f) El de lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204;
+
+g) El de explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208;
+
+h) El de asalto en carreteras o caminos, previsto en el artículo 286, segundo párrafo;
+
+i) El de homicidio relacionado con la delincuencia organizada;
+
+j) El de tráfico de menores, previsto en el artículo 366 Ter;
+
+k) El de robo de vehículo, previsto en el artículo 376 bis;
+
+l) Los previstos en el artículo 377;
+
+m) El de extorsión, previsto en el artículo 390, y
+
+n) El de operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis;
+
 II. En la Ley Federal de Armas de Fuego y Explosivos, el delito de introducción clandestina de armas de fuego, en términos de la Ley Federal contra la Delincuencia Organizada;
+
 III. En la Ley General de Salud, el delito de tráfico de órganos previsto en los artículos 461, 462 y 462 Bis;
+
 IV. En la Ley de Migración, el delito de tráfico de indocumentados, previsto en el artículo 159;
+
 V. En la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los delitos previstos en ella;
+
 VI. En la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
-VII. En la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, y VIII. En la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en materia de Hidrocarburos.
+
+VII. En la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, y
+
+VIII. En la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en materia de Hidrocarburos.
 
 ### Artículo 94
 . Cuando en la misma práctica sea necesario intervenir a otros números telefónicos, se debe presentar ante la autoridad judicial competente una nueva solicitud, debiendo, al concluir la intervención, levantar un acta que contenga un inventario pormenorizado de la información de audio o video con los sonidos o imágenes captados durante la intervención y entregar a la autoridad judicial un informe sobre los resultados de la intervención, a efecto de constatar el debido cumplimiento de la autorización otorgada.
@@ -664,8 +1064,12 @@ En caso de que durante la investigación preventiva se advierta la comisión de 
 
 ### Artículo 96
 . Solo podrá dar cumplimiento a las intervenciones autorizadas por la autoridad judicial competente, el personal de la Guardia Nacional que cumpla con los siguientes requisitos:
+
 I. Que pertenezca a los organismos de investigación o de servicios técnicos especializados;
-II. Que cuente con certificación de control de confianza vigente, y III. Que tenga una jerarquía mínima de Oficial.
+
+II. Que cuente con certificación de control de confianza vigente, y
+
+III. Que tenga una jerarquía mínima de Oficial.
 
 ### Artículo Segundo a Artículo Noveno
 ……..

@@ -38,9 +38,15 @@ Párrafo adicionado DOF 26-03-2024
 ### Artículo 6o
 .- La Comisión Nacional tendrá las siguientes atribuciones:
 I.- Recibir quejas de presuntas violaciones a derechos humanos;
-II.- Conocer e investigar a petición de parte, o de oficio, presuntas violaciones de derechos humanos en los siguientes casos: a) Por actos u omisiones de autoridades administrativas de carácter federal; b) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente en tratándose de conductas que afecten la integridad física de las personas;
+II.- Conocer e investigar a petición de parte, o de oficio, presuntas violaciones de derechos humanos en los siguientes casos:
+
+a) Por actos u omisiones de autoridades administrativas de carácter federal;
+
+b) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente en tratándose de conductas que afecten la integridad física de las personas;
+
 III. Formular recomendaciones públicas no vinculatorias y denuncias y quejas ante las autoridades respectivas, en los términos establecidos por el artículo 102, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos;
 Fracción reformada DOF 26-11-2001 IV.- Conocer y decidir en última instancia las inconformidades que se presenten respecto de las recomendaciones y acuerdos de los organismos de derechos humanos de las Entidades Federativas a que se refiere el citado artículo 102, apartado B, de la Constitución Política;
+
 V. Conocer y decidir en última instancia las inconformidades por omisiones en que incurran los organismos de derechos humanos a que se refiere la fracción anterior, y por insuficiencia en el cumplimiento de las recomendaciones de éstos por parte de las autoridades locales, en los términos señalados por esta ley;
 Fracción reformada DOF 26-11-2001 VI.- Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución de un conflicto planteado, cuando la naturaleza del caso lo permita;
 VII.- Impulsar la observancia de los derechos humanos en el país;
@@ -56,7 +62,11 @@ Fracción reformada DOF 10-06-2013 XIII.- Formular programas y proponer acciones
 XIII Bis.- Promover la cultura de la paz;
 Fracción adicionada DOF 01-04-2024 XIV.- Proponer al Ejecutivo Federal, en los términos de la legislación aplicable, la suscripción de convenios o acuerdos internacionales en materia de derechos humanos;
 XIV Bis.- La observancia del seguimiento, evaluación y monitoreo, en materia de igualdad entre mujeres y hombres;
-Fracción adicionada DOF 26-01-2006 XV. Investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, alguna de las Cámaras del Congreso de la Unión, el Gobernador de un Estado, el Jefe de Gobierno del Distrito Federal o las legislaturas de las entidades federativas, y Fracción adicionada DOF 15-06-2012 XVI. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
+Fracción adicionada DOF 26-01-2006
+
+XV. Investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, alguna de las Cámaras del Congreso de la Unión, el Gobernador de un Estado, el Jefe de Gobierno del Distrito Federal o las legislaturas de las entidades federativas, y Fracción adicionada DOF 15-06-2012
+
+XVI. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 Fracción reformada y recorrida DOF 15-06-2012
 
 ### Artículo 7o
@@ -74,12 +84,21 @@ De la elección, facultades y obligaciones del Presidente de la Comisión Denomi
 
 ### Artículo 9o
 . El Presidente de la Comisión Nacional de los Derechos Humanos deberá reunir para su elección los siguientes requisitos:
+
 I. Ser ciudadano mexicano por nacimiento y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
 II. Tener cumplidos treinta y cinco años de edad, el día de su elección;
+
 III. Contar con experiencia en materia de derechos humanos, o actividades afines reconocidas por las leyes mexicanas y los instrumentos jurídicos internacionales;
+
 IV. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en el año anterior a su designación;
+
 V. No desempeñar ni haber desempeñado cargo de Secretario o Subsecretario de Estado, Procurador o Fiscal General de la República, Gobernador, o procurador o Fiscal general de justicia de alguna entidad federativa o jefe de gobierno de la Ciudad de México, en el año anterior a su elección;
-Fracción reformada DOF 20-05-2021 VI. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena, y VII. Tener preferentemente título de licenciado en derecho.
+Fracción reformada DOF 20-05-2021
+
+VI. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena, y
+
+VII. Tener preferentemente título de licenciado en derecho.
 Artículo reformado DOF 23-01-1998, 26-11-2001
 
 ### Artículo 10
@@ -92,7 +111,21 @@ Bis. Para efectos de lo dispuesto en el artículo anterior, la comisión o comis
 I.- Emitir la convocatoria para la elección del Presidente de la Comisión Nacional de los Derechos Humanos.
 La convocatoria se emitirá treinta días hábiles antes de la fecha en que haya de concluir el cargo que se renovará.
 Dicha convocatoria deberá publicarse en la Gaceta del Senado, así como en el Diario Oficial de la Federación, en ambos casos incluyendo sus versiones electrónicas. De igual forma, deberá difundirse a través de su publicación en al menos tres de los periódicos de mayor circulación nacional;
-II.- Señalar en la convocatoria: a) Los requisitos que habrán de cumplir quienes deseen participar en la elección para ocupar el cargo de Presidente de la Comisión Nacional de los Derechos Humanos, de conformidad con las disposiciones jurídicas aplicables. b) El procedimiento mediante el que se desahogará la elección del Presidente. c) El periodo en el que se recibirán las propuestas de candidatos. d) La fecha en la que se dará a conocer la lista de candidatos que hayan cumplido con los requisitos de elegibilidad para ocupar el cargo vacante. e) La fecha, hora y duración de las comparecencias de los candidatos ante la comisión o comisiones correspondientes. f) El formato a que se sujetarán las comparecencias de candidatos. g) La fecha en la que se publicarán los resultados del procedimiento;
+II.- Señalar en la convocatoria:
+
+a) Los requisitos que habrán de cumplir quienes deseen participar en la elección para ocupar el cargo de Presidente de la Comisión Nacional de los Derechos Humanos, de conformidad con las disposiciones jurídicas aplicables.
+
+b) El procedimiento mediante el que se desahogará la elección del Presidente.
+
+c) El periodo en el que se recibirán las propuestas de candidatos.
+
+d) La fecha en la que se dará a conocer la lista de candidatos que hayan cumplido con los requisitos de elegibilidad para ocupar el cargo vacante.
+
+e) La fecha, hora y duración de las comparecencias de los candidatos ante la comisión o comisiones correspondientes.
+
+f) El formato a que se sujetarán las comparecencias de candidatos.
+
+g) La fecha en la que se publicarán los resultados del procedimiento;
 III.- Difundir la lista de candidatos que cumplieron con los requisitos de elegibilidad para ocupar el cargo de Presidente de la Comisión Nacional. Para tal efecto, la lista deberá publicarse en los medios en que se haya difundido la convocatoria, a más tardar dentro de los tres días siguientes de haberse ésta cerrado;
 IV.- Evaluar a los candidatos para lo cual programará las comparecencias de los mismos y, una vez concluidas, determinará a quienes habrán de integrar la terna para ocupar el cargo correspondiente.
 Las comparecencias de los candidatos serán públicas y deberán transmitirse en vivo por el Canal del Congreso, y V.- Proponer ante el pleno del Senado o ante la Comisión Permanente, una vez desahogado el procedimiento a que se refieren las fracciones que anteceden, una terna de candidatos a ocupar el cargo de Presidente de la Comisión Nacional.
@@ -126,17 +159,26 @@ Artículo reformado DOF 26-11-2001
 Párrafo reformado DOF 26-11-2001 I.- Ejercer la representación legal de la Comisión Nacional;
 II.- Formular los lineamientos generales a los que se sujetarán las actividades administrativas de la Comisión, así como nombrar, dirigir y coordinar a los funcionarios y al personal bajo su autoridad;
 III.- Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión;
+
 IV. Distribuir y delegar funciones en los términos del Reglamento Interno;
 Fracción reformada DOF 26-11-2001 V.- Presentar anualmente a los Poderes de la Unión, un informe de actividades, en los términos del
 
 ### artículo 52
 de esta Ley.
 Fracción reformada DOF 26-11-2001, 30-06-2006 VI.- Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
+
 VII. Aprobar y emitir las recomendaciones públicas y acuerdos que resulten de las investigaciones realizadas por los visitadores;
 Fracción reformada DOF 26-11-2001 VIII.- Formular las propuestas generales conducentes a una mejor protección de los derechos humanos en el país;
+
 IX. Elaborar el anteproyecto de presupuesto de egresos de la Comisión y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma;
-Fracción reformada DOF 15-06-2012 X. Solicitar, en los términos del artículo 46 de esta Ley, a la Cámara de Senadores o en sus recesos, a la Comisión Permanente, o a las legislaturas de las entidades federativas, según corresponda se llame a comparecer a las autoridades o servidores públicos responsables, para explicar el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por la Comisión Nacional de los Derechos Humanos;
-Fracción adicionada DOF 15-06-2012 XI. Promover las acciones de inconstitucionalidad, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que México sea parte, y Fracción adicionada DOF 15-06-2012 XII. Las demás que le señalen la presente Ley y otros ordenamientos.
+Fracción reformada DOF 15-06-2012
+
+X. Solicitar, en los términos del artículo 46 de esta Ley, a la Cámara de Senadores o en sus recesos, a la Comisión Permanente, o a las legislaturas de las entidades federativas, según corresponda se llame a comparecer a las autoridades o servidores públicos responsables, para explicar el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por la Comisión Nacional de los Derechos Humanos;
+Fracción adicionada DOF 15-06-2012
+
+XI. Promover las acciones de inconstitucionalidad, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que México sea parte, y Fracción adicionada DOF 15-06-2012
+
+XII. Las demás que le señalen la presente Ley y otros ordenamientos.
 Fracción reformada y recorrida DOF 15-06-2012
 
 ### Artículo 16
@@ -164,9 +206,16 @@ Artículo reformado DOF 26-11-2001
 Párrafo reformado DOF 26-11-2001 I.- Establecer los lineamientos generales de actuación de la Comisión Nacional;
 II.- Aprobar el Reglamento Interno de la Comisión Nacional;
 III.- Aprobar las normas de carácter interno relacionadas con la Comisión Nacional;
+
 IV. Opinar sobre el proyecto de informe anual que el Presidente de la Comisión Nacional presente a los Poderes de la Unión;
-Fracción reformada DOF 26-11-2001 V. Solicitar al Presidente de la Comisión Nacional información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión Nacional;
-Fracción reformada DOF 23-04-2013 VI. Opinar sobre el proyecto de presupuesto para el ejercicio del año siguiente; y Fracción adicionada DOF 23-04-2013 VII. Conocer el informe del Presidente de la Comisión Nacional respecto al ejercicio presupuestal.
+Fracción reformada DOF 26-11-2001
+
+V. Solicitar al Presidente de la Comisión Nacional información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión Nacional;
+Fracción reformada DOF 23-04-2013
+
+VI. Opinar sobre el proyecto de presupuesto para el ejercicio del año siguiente; y Fracción adicionada DOF 23-04-2013
+
+VII. Conocer el informe del Presidente de la Comisión Nacional respecto al ejercicio presupuestal.
 Fracción recorrida DOF 23-04-2013
 
 ### Artículo 20
@@ -184,8 +233,11 @@ II.- Gozar de buena reputación; y III.- Ser mayor de treinta años de edad, el 
 I.- Proponer al Consejo y al Presidente de la Comisión Nacional, las políticas generales que en materia de derechos humanos habrá de seguir la Comisión Nacional ante los organismos gubernamentales y no gubernamentales, nacionales e internacionales;
 II.- Promover y fortalecer las relaciones de la Comisión Nacional, con organismos públicos, sociales o privados, nacionales e internacionales, en materia de derechos humanos;
 III.- Realizar estudios sobre los tratados y convenciones internacionales en materia de derechos humanos;
+
 IV. Derogada.
-Fracción derogada DOF 26-11-2001 V. Derogada.
+Fracción derogada DOF 26-11-2001
+
+V. Derogada.
 Fracción derogada DOF 26-11-2001 VI.- Enriquecer, mantener y custodiar el acervo documental de la Comisión Nacional; y VII.- Las demás que le sean conferidas en otras disposiciones legales y reglamentarias.
 CAPITULO V DEL NOMBRAMIENTO Y FACULTADES DE LOS VISITADORES
 
@@ -215,24 +267,44 @@ Artículo adicionado DOF 27-01-2017
 
 ### Artículo 24
 Ter.- El Órgano Interno de Control tendrá las siguientes atribuciones:
+
 I. Las que contempla la Ley General de Responsabilidades Administrativas;
+
 II. Verificar que el ejercicio de gasto de la Comisión Nacional se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
 III. Presentar a la Comisión Nacional los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión Nacional;
+
 IV. Revisar que las operaciones presupuestales que realice la Comisión Nacional, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
 V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
 VI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión Nacional;
+
 VII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
+
 VIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión Nacional, empleando la metodología que determine;
+
 IX. Recibir quejas y denuncias conforme a las leyes aplicables;
+
 X. Solicitar la información y efectuar visitas a las áreas y órganos de la Comisión Nacional para el cumplimento de sus funciones;
+
 XI. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y sus Reglamentos;
+
 XII. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión Nacional de mandos medios y superiores, en los términos de la normativa aplicable;
+
 XIII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
 XIV. Atender las solicitudes de los diferentes órganos de la Comisión Nacional en los asuntos de su competencia;
+
 XV. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
+
 XVI. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+
 XVII. Presentar a la Comisión Nacional los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Presidente;
-XVIII. Presentar a la Comisión Nacional los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y XIX. Las demás que le confieran otros ordenamientos.
+
+XVIII. Presentar a la Comisión Nacional los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
+
+XIX. Las demás que le confieran otros ordenamientos.
 Artículo adicionado DOF 27-01-2017
 
 ### Artículo 24
@@ -241,13 +313,22 @@ Artículo adicionado DOF 27-01-2017
 
 ### Artículo 24
 Quinquies. El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
 I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
+
 II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
 III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
+
 IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
+
 V. Contar con reconocida solvencia moral;
+
 VI. No pertenecer o haber pertenecido en los cinco años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión Nacional o haber fungido como consultor o auditor externo de la Comisión Nacional, en lo individual durante ese periodo;
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y VIII. No haber sido Secretario de Estado, Procurador o Fiscal General de la República o de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VIII. No haber sido Secretario de Estado, Procurador o Fiscal General de la República o de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
 Fracción reformada DOF 20-05-2021 Artículo adicionado DOF 27-01-2017 TITULO III DEL PROCEDIMIENTO ANTE LA COMISION NACIONAL DE DERECHOS HUMANOS CAPITULO I DISPOSICIONES GENERALES
 
 ### Artículo 25
@@ -333,10 +414,18 @@ Los proyectos antes referidos serán sometidos al Presidente de la Comisión Nac
 . La recomendación será pública y no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirigirá y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia.
 Párrafo reformado DOF 26-11-2001 En todo caso, una vez recibida, la autoridad o servidor público de que se trate informará, dentro de los quince días hábiles siguientes a su notificación, si acepta dicha Recomendación. Entregará, en su caso, en otros quince días adicionales, las pruebas correspondientes de que ha cumplido con la Recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la Recomendación así lo amerite.
 Cuando las recomendaciones emitidas no sean aceptadas o cumplidas, se procederá conforme a lo siguiente:
-Párrafo adicionado DOF 15-06-2012 a) La autoridad o servidor público de que se trate deberá fundar, motivar y hacer pública su negativa, y atender los llamados de la Cámara de Senadores o en sus recesos la Comisión Permanente, a comparecer ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
-Inciso adicionado DOF 15-06-2012 b) La Comisión Nacional determinará, previa consulta con los órganos legislativos referidos en el inciso anterior, en su caso, si la fundamentación y motivación presentadas por la autoridad o servidor público que se hubiese negado a aceptar o cumplir las recomendaciones emitidas, son suficientes, y hará saber dicha circunstancia por escrito a la propia autoridad o servidor público y, en su caso, a sus superiores jerárquicos, para los efectos del siguiente inciso.
-Inciso adicionado DOF 15-06-2012 c) Las autoridades o servidores públicos, a quienes se les hubiese notificado la insuficiencia de la fundamentación y motivación de la negativa, informarán dentro de los quince días hábiles siguientes a la notificación del escrito referido en el inciso que antecede, si persisten o no en la posición de no aceptar o no cumplir la recomendación.
-Inciso adicionado DOF 15-06-2012 d) Si persiste la negativa, la Comisión Nacional podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda a los servidores públicos señalados en la recomendación como responsables.
+Párrafo adicionado DOF 15-06-2012
+
+a) La autoridad o servidor público de que se trate deberá fundar, motivar y hacer pública su negativa, y atender los llamados de la Cámara de Senadores o en sus recesos la Comisión Permanente, a comparecer ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
+Inciso adicionado DOF 15-06-2012
+
+b) La Comisión Nacional determinará, previa consulta con los órganos legislativos referidos en el inciso anterior, en su caso, si la fundamentación y motivación presentadas por la autoridad o servidor público que se hubiese negado a aceptar o cumplir las recomendaciones emitidas, son suficientes, y hará saber dicha circunstancia por escrito a la propia autoridad o servidor público y, en su caso, a sus superiores jerárquicos, para los efectos del siguiente inciso.
+Inciso adicionado DOF 15-06-2012
+
+c) Las autoridades o servidores públicos, a quienes se les hubiese notificado la insuficiencia de la fundamentación y motivación de la negativa, informarán dentro de los quince días hábiles siguientes a la notificación del escrito referido en el inciso que antecede, si persisten o no en la posición de no aceptar o no cumplir la recomendación.
+Inciso adicionado DOF 15-06-2012
+
+d) Si persiste la negativa, la Comisión Nacional podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda a los servidores públicos señalados en la recomendación como responsables.
 Inciso adicionado DOF 15-06-2012
 
 ### Artículo 47
@@ -405,7 +494,15 @@ Una vez admitido el recurso, se correrá traslado del mismo a la autoridad u org
 De acuerdo con la documentación respectiva, la Comisión Nacional examinará la legalidad de la Recomendación del organismo local, o de la conducta de la autoridad sobre el cumplimiento de la que se le hubiese formulado. Excepcionalmente y sólo cuando se considere que es preciso un período probatorio, se recibirán las pruebas ofrecidas por los interesados o por los representantes oficiales de dichos organismos.
 
 ### Artículo 66
-.- Un vez agotada la tramitación, la Comisión Nacional deberá resolver el recurso de impugnación en un plazo no mayor de sesenta días hábiles, en el cual deberá pronunciarse por: a) La confirmación de la resolución definitiva del organismo local de derechos humanos. b) La modificación de la propia Recomendación, caso en el cual formulará a su vez, una Recomendación al organismo local. c) La declaración de suficiencia en el cumplimiento de la Recomendación formulada por el organismo estatal respectivo. d) La declaración de insuficiencia en el cumplimiento de la Recomendación del organismo estatal por parte de la autoridad local a la cual se dirigió, supuesto en el que la Comisión Nacional, formulará una Recomendación dirigida a dicha autoridad, la que deberá informar sobre su aceptación y cumplimiento.
+.- Un vez agotada la tramitación, la Comisión Nacional deberá resolver el recurso de impugnación en un plazo no mayor de sesenta días hábiles, en el cual deberá pronunciarse por:
+
+a) La confirmación de la resolución definitiva del organismo local de derechos humanos.
+
+b) La modificación de la propia Recomendación, caso en el cual formulará a su vez, una Recomendación al organismo local.
+
+c) La declaración de suficiencia en el cumplimiento de la Recomendación formulada por el organismo estatal respectivo.
+
+d) La declaración de insuficiencia en el cumplimiento de la Recomendación del organismo estatal por parte de la autoridad local a la cual se dirigió, supuesto en el que la Comisión Nacional, formulará una Recomendación dirigida a dicha autoridad, la que deberá informar sobre su aceptación y cumplimiento.
 TITULO IV DE LAS AUTORIDADES Y LOS SERVIDORES PUBLICOS CAPITULO I OBLIGACIONES Y COLABORACION
 
 ### Artículo 67

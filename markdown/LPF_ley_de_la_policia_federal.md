@@ -22,23 +22,38 @@ Disposiciones Generales.
 
 ### Artículo 2
 . La Policía Federal es un órgano administrativo desconcentrado de la Secretaría de Seguridad Pública, y sus objetivos serán los siguientes:
+
 I. Salvaguardar la vida, la integridad, la seguridad y los derechos de las personas, así como preservar las libertades, el orden y la paz públicos;
+
 II. Aplicar y operar la política de seguridad pública en materia de prevención y combate de delitos;
-III. Prevenir la comisión de los delitos, y IV. Investigar la comisión de delitos bajo la conducción y mando del Ministerio Público de la Federación, en términos de las disposiciones aplicables.
+
+III. Prevenir la comisión de los delitos, y
+
+IV. Investigar la comisión de delitos bajo la conducción y mando del Ministerio Público de la Federación, en términos de las disposiciones aplicables.
 
 ### Artículo 3
 . Serán principios rectores en el ejercicio de las funciones y acciones que en materia de prevención y combate de los delitos le competen a la Policía Federal, los de legalidad, objetividad, eficiencia, profesionalismo, honradez y el respeto a las garantías individuales y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Artículo 4
 . Para efectos de la presente Ley se entenderá por:
+
 I. Carrera Policial, al Servicio Profesional de Carrera Policial de la Policía Federal;
+
 II. Centro de Control de Confianza, al Centro de Evaluación y Control de Confianza de la Secretaría;
+
 III. Consejo Federal, al Consejo Federal de Desarrollo Policial;
+
 IV. Integrantes, a los miembros de la Policía Federal;
+
 V. Ley, a la presente Ley de la Policía Federal;
+
 VI. Ministerio Público, al Ministerio Público de la Federación;
+
 VII. Reglamento, al Reglamento de esta ley;
-VIII. Secretaría, a la Secretaría de Seguridad Pública del Gobierno Federal, y IX. Secretario, al titular de la Secretaría de Seguridad Pública Federal.
+
+VIII. Secretaría, a la Secretaría de Seguridad Pública del Gobierno Federal, y
+
+IX. Secretario, al titular de la Secretaría de Seguridad Pública Federal.
 
 ### Artículo 5
 . La investigación para la prevención de los delitos, en términos de los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos, es el conjunto sistematizado de acciones y procedimientos encaminados a la planeación, obtención, procesamiento y aprovechamiento de la información, con el propósito exclusivo de evitar la comisión de delitos, con base en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a las garantías individuales y los derechos humanos reconocidos en la Constitución.
@@ -51,86 +66,183 @@ De la Organización y Funcionamiento de la Policía Federal.
 
 ### Artículo 7
 . Para ser Comisionado General de la Policía Federal deberán cumplirse los requisitos siguientes:
+
 I. Ser ciudadano mexicano por nacimiento que no tenga otra nacionalidad, en pleno ejercicio de sus derechos políticos y civiles;
+
 II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
+
 III. Contar con título de estudios superiores debidamente registrado;
+
 IV. Tener reconocida capacidad y probidad, no haber sido sentenciado por delito doloso o inhabilitado como servidor público, ni estar sujeto a proceso penal;
-V. Comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública, y VI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público.
+
+V. Comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública, y
+
+VI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público.
 
 ### Artículo 8
 . La Policía Federal tendrá las atribuciones y obligaciones siguientes:
+
 I. Prevenir la comisión de delitos y las faltas administrativas que determinen las leyes federales;
+
 II. Intervenir en materia de seguridad pública, en coadyuvancia con las autoridades competentes, en la observancia y cumplimiento de las leyes;
-III. Salvaguardar la integridad de las personas, garantizar, mantener y restablecer el orden y la paz públicos, así como prevenir la comisión de delitos, en: a) Las zonas fronterizas y en la tierra firme de los litorales, la parte perteneciente al país de los pasos y puentes limítrofes, las aduanas, recintos fiscales, secciones aduaneras, garitas, puntos de revisión aduaneros, los centros de supervisión y control migratorio, las carreteras federales, las vías férreas, los aeropuertos, los puertos marítimos autorizados para el tráfico internacional, el espacio aéreo y los medios de transporte que operen en las vías generales de comunicación, así como sus servicios auxiliares.
-La Policía Federal actuará en los recintos fiscales, aduanas, secciones aduaneras, garitas o puntos de revisión aduaneros, en auxilio y coordinación con las autoridades responsables en materia fiscal o de migración, en los términos de la presente Ley y las demás disposiciones legales aplicables; b) Los parques nacionales, las instalaciones hidráulicas y vasos de las presas, los embalses de los lagos y los cauces de los ríos; c) Los espacios urbanos considerados como zonas federales, así como en los inmuebles, instalaciones y servicios de entidades y dependencias de la federación; d) Todos aquellos lugares, zonas o espacios del territorio nacional sujetos a la jurisdicción federal, conforme a lo establecido por las leyes respectivas, y e) En todo el territorio nacional en el ámbito de su competencia.
+
+III. Salvaguardar la integridad de las personas, garantizar, mantener y restablecer el orden y la paz públicos, así como prevenir la comisión de delitos, en:
+
+a) Las zonas fronterizas y en la tierra firme de los litorales, la parte perteneciente al país de los pasos y puentes limítrofes, las aduanas, recintos fiscales, secciones aduaneras, garitas, puntos de revisión aduaneros, los centros de supervisión y control migratorio, las carreteras federales, las vías férreas, los aeropuertos, los puertos marítimos autorizados para el tráfico internacional, el espacio aéreo y los medios de transporte que operen en las vías generales de comunicación, así como sus servicios auxiliares.
+La Policía Federal actuará en los recintos fiscales, aduanas, secciones aduaneras, garitas o puntos de revisión aduaneros, en auxilio y coordinación con las autoridades responsables en materia fiscal o de migración, en los términos de la presente Ley y las demás disposiciones legales aplicables;
+
+b) Los parques nacionales, las instalaciones hidráulicas y vasos de las presas, los embalses de los lagos y los cauces de los ríos;
+
+c) Los espacios urbanos considerados como zonas federales, así como en los inmuebles, instalaciones y servicios de entidades y dependencias de la federación;
+
+d) Todos aquellos lugares, zonas o espacios del territorio nacional sujetos a la jurisdicción federal, conforme a lo establecido por las leyes respectivas, y
+
+e) En todo el territorio nacional en el ámbito de su competencia.
+
 IV. Realizar investigación para la prevención de los delitos;
+
 V. Efectuar tareas de verificación en el ámbito de su competencia, para la prevención de infracciones administrativas;
+
 VI. Recabar información en lugares públicos, para evitar el fenómeno delictivo, mediante la utilización de medios e instrumentos y cualquier herramienta que resulten necesarias para la generación de inteligencia preventiva. En el ejercicio de esta atribución se deberá respetar el derecho a la vida privada de los ciudadanos. Los datos obtenidos con afectación a la vida privada carecen de todo valor probatorio;
+
 VII. Llevar a cabo operaciones encubiertas y de usuarios simulados para la prevención de delitos. El Reglamento definirá con precisión los lineamientos mínimos para el ejercicio de esta atribución;
+
 VIII. Realizar análisis técnico táctico o estratégico de la información obtenida para la generación de inteligencia;
+
 IX. Realizar bajo la conducción y mando del Ministerio Público las investigaciones de los delitos cometidos, así como las actuaciones que le instruya éste o la autoridad jurisdiccional conforme a las normas aplicables;
+
 X. Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
+
 XI. Poner a disposición sin demora de las autoridades competentes, a personas y bienes en los casos en que por motivo de sus funciones practique alguna detención o lleve a cabo algún aseguramiento de bienes, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
+
 XII. Verificar la información que reciba sobre hechos que puedan ser constitutivos de delito para, en su caso, remitirla al Ministerio Público;
+
 XIII. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, en términos de lo aplicables;
+
 XIV. Participar en la investigación ministerial, en la detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos, así como practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Público;
-XV. Efectuar las detenciones conforme lo dispuesto en el artículo 16 de la Constitución Política de los XVI. Inscribir de inmediato la detención que realice en el Registro Administrativo de Detenciones del Centro Nacional de Información, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
+
+XV. Efectuar las detenciones conforme lo dispuesto en el artículo 16 de la Constitución Política de los
+
+XVI. Inscribir de inmediato la detención que realice en el Registro Administrativo de Detenciones del Centro Nacional de Información, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
+
 XVII. Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, dando aviso de inmediato al Ministerio Público. Las unidades facultadas para el procesamiento del lugar de los hechos, deberán fijar, señalar, levantar, embalar y entregar la evidencia física al Ministerio Público, conforme al procedimiento previamente establecido por éste y en términos de las disposiciones aplicables;
+
 XVIII. Solicitar al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación;
+
 XIX. Garantizar que se asiente constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación ministerial deberán elaborar informes sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;
+
 XX. Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
-XXI. Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá: a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables; b) Garantizar que reciban atención médica y psicológica cuando sea necesaria; c) Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia; d) Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos sin demora al Ministerio Público encargado del asunto para que éste acuerde lo conducente, y e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
+
+XXI. Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá:
+
+a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables;
+
+b) Garantizar que reciban atención médica y psicológica cuando sea necesaria;
+
+c) Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia;
+
+d) Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos sin demora al Ministerio Público encargado del asunto para que éste acuerde lo conducente, y
+
+e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
+
 XXII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones;
+
 XXIII. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación en caso de flagrancia o por mandato del Ministerio Público, en términos de las disposiciones aplicables. De las entrevistas que se practiquen se dejará constancia y se utilizarán meramente como un registro de la investigación, que para tener valor probatorio, deberán ser ratificadas ante la autoridad ministerial o judicial que corresponda;
+
 XXIV. Reunir la información que pueda ser útil al Ministerio Público que conozca del asunto, para acreditar el cuerpo del delito y la probable responsabilidad del imputado, conforme a las instrucciones de aquél;
+
 XXV. Incorporar a las bases de datos criminalísticas y de personal de la Secretaría y del Sistema Nacional de Información de Seguridad Pública, la información que pueda ser útil en la investigación de los delitos, y utilizar su contenido para el desempeño de sus atribuciones, sin afectar el derecho de las personas sobre sus datos personales;
+
 XXVI. Colaborar, cuando así lo soliciten otras autoridades federales, para el ejercicio de sus funciones de vigilancia, verificación e inspección que tengan conferidas por disposición de otras leyes;
+
 XXVII. Coordinarse en los términos que señala el Sistema Nacional de Seguridad Pública, con las autoridades de los tres órdenes de gobierno, para el intercambio de información contenida en documentos bases de datos o sistemas de información que sea útil al desempeño de sus funciones sin Procedimientos Penales;
+
 XXVIII. Solicitar por escrito, previa autorización del juez de control en los términos del artículo 16 Constitucional, a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones, de sistemas de comunicación vía satélite, la información con que cuenten, así como georreferenciación de los equipos de comunicación móvil en tiempo real, para el cumplimiento de sus fines de prevención de los delitos. La autoridad judicial competente, deberá acordar la solicitud en un plazo no mayor de doce horas a partir de su presentación;
+
 XXIX. Solicitar por escrito ante el juez de control, en términos del capítulo XI de la presente Ley, la autorización para la intervención de comunicaciones privadas para la investigación de los delitos. La autoridad judicial competente deberá acordar la solicitud en un plazo no mayor de doce horas a partir de su presentación;
+
 XXX. Colaborar, cuando sean formalmente requeridas, de conformidad con los ordenamientos constitucionales y legales aplicables, con las autoridades locales y municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por situaciones que impliquen violencia o riesgo inminente; prevenir la comisión de delitos, así como garantizar, mantener y restablecer la paz y el orden públicos;
+
 XXXI. Participar en operativos conjuntos con otras autoridades federales, locales o municipales, que se lleven a cabo conforme a lo dispuesto en la legislación relativa al Sistema Nacional de Seguridad Pública;
+
 XXXII. Obtener, analizar y procesar información así como realizar las acciones que, conforme a las disposiciones aplicables, resulten necesarias para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes federales;
+
 XXXIII. Vigilar e inspeccionar, para fines de seguridad pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en ellas;
+
 XXXIV. Vigilar, supervisar, asegurar y custodiar, a solicitud de la autoridad competente, las instalaciones de los centros federales de detención, reclusión, readaptación y reinserción social, con apego a los derechos humanos reconocidos en la Constitución federal;
+
 XXXV. Levantar las infracciones e imponer las sanciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito en los caminos y puentes federales, así como a la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación;
+
 XXXVI. Ejercer, para fines de seguridad pública, la vigilancia e inspección sobre la entrada y salida de mercancías y personas en los aeropuertos, puertos marítimos autorizados para el tráfico internacional, en las aduanas, recintos fiscales, secciones aduaneras, garitas y puntos de revisión aduaneros; así como para los mismos fines sobre el manejo, transporte o tenencia de dichas mercancías en cualquier parte del territorio nacional.
 La Policía Federal actuará en los recintos fiscales, aduanas, secciones aduaneras, garitas o puntos de revisión aduaneros, en auxilio y coordinación con las autoridades responsables en materia fiscal o de migración, en los términos de la presente Ley y las demás disposiciones legales aplicables;
+
 XXXVII. Colaborar, a solicitud de las autoridades competentes, con los servicios de protección civil en casos de calamidades, situaciones de alto riesgo o desastres por causas naturales;
+
 XXXVIII. Ejercer en el ámbito de su competencia, y en coordinación con el Instituto Nacional de Migración, las facultades que en materia migratoria prescriben la Ley General de Población, su Reglamento y demás disposiciones legales;
+
 XXXIX. Prestar apoyo al Instituto Nacional de Migración para verificar que los extranjeros residentes en territorio nacional cumplan con las obligaciones que establece la Ley General de Población;
+
 XL. Apoyar el aseguramiento que realice el Instituto Nacional de Migración y, en su caso, resguardar a solicitud del Instituto las estaciones migratorias a los extranjeros que violen la Ley General de Población, cuando el caso lo amerite;
+
 XLI. Estudiar, planificar y ejecutar los métodos y técnicas de combate a la delincuencia;
+
 XLII. Realizar acciones de vigilancia, identificación, monitoreo y rastreo en la Red Pública de Internet sobre sitios web con el fin de prevenir conductas delictivas;
+
 XLIII. Desarrollar, mantener y supervisar fuentes de información en la sociedad, que permitan obtener datos sobre actividades relacionadas con fenómenos delictivos;
+
 XLIV. Integrar en el Registro Administrativo de Detenciones y demás bases de datos criminalísticos y de personal, las huellas decadactilares y otros elementos distintos a las fotografías y videos para identificar a una persona, solicitando a las autoridades de los tres órdenes de gobierno la información respectiva con que cuenten;
+
 XLV. Suscribir convenios o instrumentos jurídicos con otras instituciones policiales de los tres órdenes de gobierno y organizaciones no gubernamentales para el desempeño de sus atribuciones, en el marco de la ley;
-XLVI. Colaborar y prestar auxilio a las policías de otros países, en el ámbito de su competencia, y XLVII. Las demás que le confieran ésta y otras leyes.
+
+XLVI. Colaborar y prestar auxilio a las policías de otros países, en el ámbito de su competencia, y
+
+XLVII. Las demás que le confieran ésta y otras leyes.
 
 ### Artículo 9
 . Las Secretarías de Seguridad Pública, de Hacienda y Crédito Público, y de la Función Pública, en el ámbito de sus respectivas competencias, establecerán mecanismos administrativos, presupuestarios y de control, aplicables de manera específica a las funciones y actividades excepcionales de la Policía Federal que requieran realizarse con riesgo o urgencia.
 
 ### Artículo 10
 . Son atribuciones del Comisionado General de la Policía Federal:
+
 I. Ejercer atribuciones de mando, dirección y disciplina de la corporación policial;
+
 II. Proponer al Secretario la política en materia policial;
+
 III. Vigilar, en el área de su competencia, el cumplimiento de las disposiciones legales y administrativas en materia de protección de derechos humanos;
+
 IV. Ejercer los recursos que se aporten para la operación y funcionamiento de la Policía Federal;
+
 V. Promover la realización de cursos, seminarios o eventos con instituciones nacionales y extranjeras similares a la Policía Federal;
+
 VI. Proponer y celebrar convenios y demás actos jurídicos, así como llevar a cabo todas aquellas actividades directamente relacionadas con el ámbito de competencia de la Policía Federal;
+
 VII. Proponer al Secretario, los anteproyectos de Reglamento, manuales, acuerdos, circulares, memorando, instructivos, bases y demás normas administrativas para el buen funcionamiento de la corporación y sugerir adecuaciones al marco normativo de la Policía Federal;
+
 VIII. Proponer al Secretario, los nombramientos de los mandos superiores de la Policía Federal, de acuerdo a lo establecido en esta Ley y su Reglamento;
+
 IX. Designar a los integrantes en cargos administrativos o de dirección de la estructura orgánica de la propia institución y relevarlos libremente de los mismos, respetando su grado policial y derechos inherentes a la Carrera Policial;
+
 X. Otorgar, en términos que establezca el Reglamento, los grados policiales homólogos;
+
 XI. Adscribir funcionalmente, con la aprobación del Secretario y conforme a esta ley y su Reglamento, las unidades administrativas a su mando, mediante acuerdo publicado en el Diario Oficial de la Federación;
+
 XII. Autorizar, previo acuerdo con el Secretario, operaciones encubiertas y de usuarios simulados para desarrollar operaciones de inteligencia para la prevención;
+
 XIII. Ser el enlace institucional con organismos policiales gubernamentales y no gubernamentales homólogos, nacionales y extranjeros, que se relacionen con el ámbito de sus atribuciones;
+
 XIV. Informar al Secretario, con la periodicidad que él determine, sobre el desempeño de las atribuciones de la Policía Federal y de los resultados alcanzados;
+
 XV. Presidir el Consejo Federal, por sí o por conducto de quien designe;
+
 XVI. Establecer la coordinación con autoridades federales, estatales, del Gobierno del Distrito Federal y municipales en el ámbito de su competencia;
+
 XVII. Llevar a cabo, previo acuerdo del Secretario, las relaciones de colaboración y auxilio con las autoridades policiales de otros países, conforme a lo establecido en tratados, convenios y acuerdos internacionales;
+
 XVIII. Establecer y operar, en el ámbito de su competencia, un sistema de gratificaciones para la investigación preventiva, conforme a la disponibilidad presupuestaria y la obtención de resultados;
-XIX. Presentar un informe anual de las actividades realizadas en cumplimiento del programa operativo anual de la Policía Federal, ante las Comisiones del Congreso de la Unión en la materia; y XX. Las demás que expresamente las leyes federales le confieran.
+
+XIX. Presentar un informe anual de las actividades realizadas en cumplimiento del programa operativo anual de la Policía Federal, ante las Comisiones del Congreso de la Unión en la materia; y
+
+XX. Las demás que expresamente las leyes federales le confieran.
 
 ### Artículo 11
 . Las relaciones jerárquicas en la Policía Federal, sus estructuras normativas y operativas, su organización territorial, las demás atribuciones de mando, dirección y disciplina, así como otros componentes de su régimen interno, serán determinados en el Reglamento de la presente ley, en términos de lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones jurídicas aplicables.
@@ -157,50 +269,105 @@ Del Servicio Profesional de Carrera Policial.
 
 ### Artículo 16
 . La carrera policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante. Se regirá por las normas siguientes:
+
 I. La Policía Federal deberá consultar los antecedentes de los aspirantes en el Registro Nacional de Personal de Seguridad Pública antes de que se autorice su ingreso a la misma;
+
 II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro de Control de Confianza, conforme al protocolo aprobado por el Centro Nacional de Acreditación y Control de Confianza;
+
 III. Ninguna persona podrá ingresar a la Policía Federal si no ha sido debidamente certificada e inscrita en el Registro Nacional de Personal de Seguridad Pública;
+
 IV. Sólo ingresarán y permanecerán en la Policía Federal aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización;
+
 V. La permanencia de los integrantes está condicionada al cumplimiento de los requisitos que determine la Ley y su Reglamento;
+
 VI. Los méritos de los integrantes serán evaluados por el Consejo Federal, encargado de determinar las promociones y verificar que se cumplan los requisitos de permanencia; que deberán ser, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo;
+
 VIII. El Reglamento establecerá un régimen de estímulos y previsión social que corresponda a las funciones de los integrantes;
+
 IX. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio, sin que esa adscripción implique inamovilidad en la sede a la que fueron destinados;
+
 X. El cambio de un integrante de un área operativa a otra de distinta especialidad sólo podrá ser autorizado por el Consejo Federal;
+
 XI. Las sanciones de amonestación, suspensión o remoción que se apliquen a los integrantes, se determinarán mediante el procedimiento que señala la Ley y su Reglamento. En el procedimiento de aplicación de sanciones se salvaguardará en todo tiempo la garantía de audiencia;
-XII. Los procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de integrantes serán establecidos en las disposiciones reglamentarias que al efecto se expidan, y XIII. El Consejo Federal aplicará los procedimientos relativos a cada una de las etapas de la Carrera Policial.
+
+XII. Los procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de integrantes serán establecidos en las disposiciones reglamentarias que al efecto se expidan, y
+
+XIII. El Consejo Federal aplicará los procedimientos relativos a cada una de las etapas de la Carrera Policial.
 La Carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a desempeñar en la Policía Federal. En ningún caso los derechos adquiridos en la Carrera Policial implicarán inamovilidad en cargo alguno.
 
 ### Artículo 17
 . Para ingresar o permanecer en la Policía Federal se requiere:
 A. Para el ingreso:
+
 I. Ser ciudadano mexicano [por nacimiento] en pleno ejercicio de sus derechos políticos y civiles, [sin tener otra nacionalidad];
-Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 24-06-2011 (en las porciones normativas que señalan “por nacimiento” y “sin tener otra nacionalidad”) II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
-III. Acreditar que ha concluido, al menos, los estudios siguientes: a) En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente; b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente, y c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
+Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 24-06-2011 (en las porciones normativas que señalan “por nacimiento” y “sin tener otra nacionalidad”)
+
+II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+
+III. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a) En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente;
+
+b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente, y
+
+c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
+
 IV. Aprobar el concurso de ingreso y los cursos de formación;
+
 V. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+
 VI. Aprobar los procesos de evaluación de control de confianza;
+
 VII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
 VIII. No padecer alcoholismo;
+
 IX. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
 X. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+
 XI. Cumplir con los deberes establecidos en esta ley, y demás disposiciones que deriven de ésta;
+
 XII. Los demás que establezcan otras disposiciones legales aplicables.
 B. Para la Permanencia:
+
 I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
+
 II. Mantener actualizado su Certificado Único Policial;
+
 III. No superar la edad máxima de retiro que establezca el reglamento de la Ley, salvo lo previsto en el artículo 21;
-IV. Acreditar que ha concluido, al menos, los estudios siguientes: a) En el caso de integrantes de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato; b) Tratándose de integrantes de las áreas de prevención, enseñanza media superior o equivalente, y c) En caso de integrantes de las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
+
+IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+
+a) En el caso de integrantes de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato;
+
+b) Tratándose de integrantes de las áreas de prevención, enseñanza media superior o equivalente, y
+
+c) En caso de integrantes de las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
+
 V. Aprobar los cursos de formación, capacitación y profesionalización;
+
 VI. Aprobar los procesos de evaluación de control de confianza;
+
 VII. Aprobar las evaluaciones del desempeño;
+
 VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
+
 IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
 X. No padecer alcoholismo;
+
 XI. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
 XII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+
 XIII. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días;
+
 XIV. Abstenerse de incurrir en cualquier acto u omisión que afecte la prestación del servicio;
-XV. No incurrir en actos u omisiones que causen la pérdida de confianza, y XVI. Las demás que establezcan las disposiciones legales aplicables.
+
+XV. No incurrir en actos u omisiones que causen la pérdida de confianza, y
+
+XVI. Las demás que establezcan las disposiciones legales aplicables.
 
 ## Capítulo V
 Del Régimen Disciplinario.
@@ -211,66 +378,134 @@ El régimen disciplinario se ajustará a los principios establecidos en la Const
 
 ### Artículo 19
 . Son deberes de los integrantes:
+
 I. Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución;
+
 II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
+
 III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+
 IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
+
 V. Abstenerse en todo momento de infligir o tolerar actos de tortura, tratos crueles, inhumanos o degradantes, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la Seguridad Pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, podrá denunciarlo inmediatamente ante la autoridad competente;
+
 VI. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
+
 VII. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
+
 VIII. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+
 IX. Velar por la vida e integridad física de las personas detenidas;
+
 X. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
+
 XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por su corporación;
+
 XII. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+
 XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+
 XIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
+
 XV. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
+
 XVI. Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;
+
 XVII. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
+
 XVIII. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
+
 XIX. Inscribir las detenciones en el Registro Administrativo de Detenciones conforme a las disposiciones aplicables;
+
 XX. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones;
+
 XXI. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
+
 XXII. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
+
 XXIII. Abstenerse de introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
+
 XXIV. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones;
+
 XXV. Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes;
+
 XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
+
 XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
+
 XXVIII. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados, sea autorizado mediante prescripción médica, avalada y certificada por los servicios médicos de la Policía Federal;
+
 XXIX. Abstenerse de consumir en las instalaciones de la Policía Federal o en actos del servicio, bebidas embriagantes, así como presentarse a su servicio en estado de ebriedad;
+
 XXX. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Policía Federal, dentro o fuera del servicio;
+
 XXXI. No permitir que personas ajenas a la Policía Federal realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
+
 XXXII. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas y juegos, o prostíbulos u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia;
-XXXIII. Deberá hacer uso de la fuerza de manera racional y proporcional, con pleno respeto a los derechos humanos, manteniéndose dentro de los límites y alcances que se marcan en las disposiciones legales aplicables y los procedimientos previamente establecidos, y XXXIV. Los demás que establezca el Reglamento de la presente Ley.
+
+XXXIII. Deberá hacer uso de la fuerza de manera racional y proporcional, con pleno respeto a los derechos humanos, manteniéndose dentro de los límites y alcances que se marcan en las disposiciones legales aplicables y los procedimientos previamente establecidos, y
+
+XXXIV. Los demás que establezca el Reglamento de la presente Ley.
 
 ### Artículo 20
 . Las sanciones que aplique el Consejo Federal por infracciones cometidas por los integrantes serán:
+
 I. Amonestación;
-II. Suspensión, y III. Remoción.
+
+II. Suspensión, y
+
+III. Remoción.
 
 ### Artículo 21
 . La aplicación de dichas sanciones por el Consejo Federal se realizará considerando los factores siguientes:
+
 I. Gravedad de la infracción;
+
 II. Daños causados a la Institución;
+
 III. Daños infligidos a la ciudadanía;
+
 IV. Condiciones socioeconómicas del infractor;
+
 V. Cargo, comisión, categoría jerárquica y antigüedad;
+
 VI. Conducta observada con anterioridad al hecho;
+
 VII. Circunstancias de ejecución;
+
 VIII. Intencionalidad o negligencia;
+
 IX. Perjuicios originados al servicio;
+
 X. Daños producidos a otros integrantes;
-XI. Daños causados al material y equipo, y XII. Grado de instrucción del presunto infractor.
+
+XI. Daños causados al material y equipo, y
+
+XII. Grado de instrucción del presunto infractor.
 
 ## Capítulo VI
 De la Conclusión del Servicio.
 
 ### Artículo 22
 . La conclusión del servicio de un integrante es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
-I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias: a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él; b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables, y c) Que del expediente del integrante no se desprendan méritos suficientes a juicio del Consejo Federal para conservar permanencia.
-II. Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario, o III. Baja, por: a) Renuncia; b) Muerte, o incapacidad permanente, o c) Jubilación o retiro.
+
+I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
+
+a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;
+
+b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables, y
+
+c) Que del expediente del integrante no se desprendan méritos suficientes a juicio del Consejo Federal para conservar permanencia.
+
+II. Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario, o
+
+III. Baja, por:
+
+a) Renuncia;
+
+b) Muerte, o incapacidad permanente, o
+
+c) Jubilación o retiro.
 Al concluir el servicio el integrante deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
 
 ### Artículo 23
@@ -289,27 +524,50 @@ Generalidades.
 
 ### Artículo 26
 . Son atribuciones del Consejo Federal:
+
 I. Emitir normas relativas al ingreso, selección, permanencia, estímulos, promoción y reconocimiento de los integrantes;
+
 II. Establecer los lineamientos para los procedimientos de Servicio Profesional;
+
 III. Formular normas en materia de previsión social;
+
 IV. Elaborar los planes y programas de Profesionalización que contendrá los aspectos de formación, capacitación, adiestramiento y actualización;
+
 V. Establecer los procedimientos aplicables a la Profesionalización;
+
 VI. Celebrar los convenios necesarios para la instrumentación de la Profesionalización;
+
 VII. Instruir el desarrollo de los programas de investigación académica en materia policial;
+
 VIII. Establecer los lineamientos para los procedimientos aplicables al Régimen Disciplinario;
+
 IX. Emitir Acuerdos de observancia general y obligatoria en materia de desarrollo policial para la exacta aplicación del Servicio Profesional;
+
 X. Aplicar y resolver los procedimientos relativos al ingreso, selección, permanencia, promoción y reconocimiento de los integrantes;
+
 XI. Verificar el cumplimiento de los requisitos de permanencia de los integrantes;
+
 XII. Analizar la formación, capacitación, adiestramiento, desarrollo, actualización, las sanciones aplicadas y los méritos de los integrantes a fin de determinar quiénes cumplen con los requisitos para ser promovidos;
+
 XIII. Resolver, de acuerdo a las necesidades del servicio, la reubicación de los integrantes de un área operativa a otra;
+
 XIV. Sustanciar los procedimientos disciplinarios por incumplimiento a los deberes u obligaciones de los integrantes, preservando el derecho a la garantía de audiencia;
+
 XV. Conocer y resolver sobre el otorgamiento de constancias de grado y estímulos a los integrantes, conforme al procedimiento establecido en el Reglamento de la presente Ley;
+
 XVI. Establecer el régimen homólogo de grados para el personal de servicios, conforme a las instrucciones del Comisionado General;
+
 XVII. Crear las comisiones, comités y grupos de trabajo del Servicio Profesional, Régimen Disciplinario y demás que resulten necesarias, de acuerdo al tema o actividad a desarrollar, supervisando su actuación;
+
 XVIII. Sancionar a los integrantes por incumplimiento a los deberes previstos en la presente Ley y disposiciones aplicables que deriven de ésta;
+
 XIX. Resolver los recursos de revisión promovidos contra las sanciones impuestas por violación al Régimen Disciplinario;
+
 XX. Resolver los recursos de reclamación promovidos contra los acuerdos respecto a la no procedencia del inicio del procedimiento;
-XXI. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia, y XXII. Las demás que le señalen la presente Ley y demás disposiciones legales que de él deriven.
+
+XXI. Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia, y
+
+XXII. Las demás que le señalen la presente Ley y demás disposiciones legales que de él deriven.
 Las Reglas de Operación y Funcionamiento del Consejo Federal estarán previstas en el Reglamento de esta Ley.
 
 ### Artículo 27
@@ -319,11 +577,18 @@ De su Integración y Funcionamiento.
 
 ### Artículo 28
 . El Consejo Federal se integrará de la siguiente manera:
+
 I. Un presidente, que será el Comisionado General;
+
 II. Un Secretario General;
+
 III. Un representante del Órgano Interno de Control;
+
 IV. Un representante de la unidad jurídica de la Secretaría;
-V. Un Consejero por cada área operativa, y VI. Un Consejero por el área jurídica de la Policía Federal.
+
+V. Un Consejero por cada área operativa, y
+
+VI. Un Consejero por el área jurídica de la Policía Federal.
 Los integrantes del Consejo Federal serán de carácter permanente, y se designará a un suplente, de conformidad con el Reglamento.
 
 ### Artículo 29
@@ -361,10 +626,18 @@ El Secretario de la instancia concederá el uso de la palabra al presunto infrac
 ### Artículo 37
 . Las pruebas que sean presentadas por las partes, serán debidamente analizadas y ponderadas, resolviendo cuáles se admiten y cuáles son desechadas dentro de la misma audiencia.
 Son admisibles como medio de prueba:
+
 I. Los documentos públicos;
+
 II. Los documentos privados;
+
 III. Los testigos;
-IV. Las fotografías, escritos y notas taquigráficas y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia, V. Las presunciones, y VI. Todas aquellas que sean permitidas por la ley.
+
+IV. Las fotografías, escritos y notas taquigráficas y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia,
+
+V. Las presunciones, y
+
+VI. Todas aquellas que sean permitidas por la ley.
 No es admisible la confesional a cargo de la autoridad. Las pruebas se admitirán siempre que guarden relación inmediata con los hechos materia de la litis y sólo en cuanto fueren conducentes para el eficaz esclarecimiento de los hechos y se encuentren ofrecidas conforme a derecho. Sólo los hechos están sujetos a prueba.
 Si la prueba ofrecida por el integrante es la testimonial, quedará a su cargo la presentación de los testigos.
 Si el oferente no puede presentar a los testigos, deberá señalar su domicilio y solicitara a la instancia que los cite. Esta los citará por una solo ocasión, en caso de incomparecencia declarará desierta la prueba.
@@ -394,10 +667,16 @@ Del auxilio a la Policía Federal y de los Servicios Técnicos Especializados.
 
 ### Artículo 43
 . En los casos en que resulte necesario, la Policía Federal podrá auxiliarse con:
+
 I. El personal técnico especializado de la Secretaría;
+
 II. Las policías del Distrito Federal, de los estados y de los municipios, en los términos que señala la Ley General del Sistema Nacional de Seguridad Pública;
+
 III. Los capitanes, patrones o encargados de naves o aeronaves nacionales;
-IV. El Servicio de Protección Federal, y V. Los particulares que presten servicios de seguridad privada, sin que puedan substituir en sus funciones a las instituciones de seguridad pública.
+
+IV. El Servicio de Protección Federal, y
+
+V. Los particulares que presten servicios de seguridad privada, sin que puedan substituir en sus funciones a las instituciones de seguridad pública.
 
 ### Artículo 44
 . Los auxiliares de la Policía Federal deberán, informar a la brevedad del resultado del auxilio prestado a ésta.
@@ -430,11 +709,45 @@ En caso de que durante la investigación preventiva se advierta que alguno de lo
 En la autorización, la autoridad judicial competente determinará las características de la intervención, sus modalidades y límites y, en su caso, ordenará a instituciones públicas o privadas, modos específicos de colaboración.
 
 ### Artículo 51
-. La intervención preventiva de comunicaciones a que se refiere esta Ley, se autorizará únicamente en los delitos previstos en los ordenamientos legales que a continuación se enlistan: a) Evasión de Presos; previsto en el artículo 150; b) Contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 Bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero; c) Corrupción de menores o incapaces, previsto en los artículos 200, 201 y 201 bis; d) Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el Capítulo II; e) Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 bis; f) Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; g) Explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208; h) Asalto en carreteras o caminos, previsto en el artículo 286, segundo párrafo; i) Homicidios relacionados con la delincuencia organizada; j) Tráfico de menores, previsto en el artículo 366 Ter;
-Inciso reformado DOF 30-11-2010 k) Robo de vehículo, previsto en el artículo 376 Bis; l) Los previstos en el artículo 377; m) Extorsión, previsto en el artículo 390; n) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;
+. La intervención preventiva de comunicaciones a que se refiere esta Ley, se autorizará únicamente en los delitos previstos en los ordenamientos legales que a continuación se enlistan:
+
+a) Evasión de Presos; previsto en el artículo 150;
+
+b) Contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 Bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;
+
+c) Corrupción de menores o incapaces, previsto en los artículos 200, 201 y 201 bis;
+
+d) Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el Capítulo II;
+
+e) Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 bis;
+
+f) Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204;
+
+g) Explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208;
+
+h) Asalto en carreteras o caminos, previsto en el artículo 286, segundo párrafo;
+
+i) Homicidios relacionados con la delincuencia organizada;
+
+j) Tráfico de menores, previsto en el artículo 366 Ter;
+Inciso reformado DOF 30-11-2010
+
+k) Robo de vehículo, previsto en el artículo 376 Bis;
+
+l) Los previstos en el artículo 377;
+
+m) Extorsión, previsto en el artículo 390;
+
+n) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;
+
 II. De la Ley Federal de Armas de Fuego y Explosivos el delito de introducción clandestina de armas de fuego en términos de la Ley Federal contra la Delincuencia Organizada;
+
 III. De la Ley General de Salud, el delito de tráfico de órganos previsto en los artículos 461, 462 y 462 Bis;
-Fracción reformada DOF 30-11-2010 IV. De la Ley de Migración, el delito de tráfico de indocumentados, previsto en el artículo 159, y Fracción reformada DOF 30-11-2010, 25-05-2011 V. Los previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+Fracción reformada DOF 30-11-2010
+
+IV. De la Ley de Migración, el delito de tráfico de indocumentados, previsto en el artículo 159, y Fracción reformada DOF 30-11-2010, 25-05-2011
+
+V. Los previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 Fracción adicionada DOF 30-11-2010
 
 ### Artículo 52
@@ -449,7 +762,13 @@ La reserva de las intervenciones de comunicaciones privadas autorizadas al Comis
 En caso de que durante la investigación preventiva se advierta la comisión de un delito, se dará vista de inmediato al Ministerio Público.
 
 ### Artículo 54
-. Sólo podrán dar cumplimiento a las intervenciones autorizadas por la autoridad judicial competente, aquellos integrantes de la Policía Federal que cumplan los siguientes requisitos, que: a) Pertenezcan a las áreas de Investigación o de Servicios Técnicos Especializados de la Institución; b) Cuenten con certificación de control de confianza vigente; y c) Tengan un grado policial mínimo de subinspector.
+. Sólo podrán dar cumplimiento a las intervenciones autorizadas por la autoridad judicial competente, aquellos integrantes de la Policía Federal que cumplan los siguientes requisitos, que:
+
+a) Pertenezcan a las áreas de Investigación o de Servicios Técnicos Especializados de la Institución;
+
+b) Cuenten con certificación de control de confianza vigente; y
+
+c) Tengan un grado policial mínimo de subinspector.
 Todos los integrantes de la Policía Federal que den cumplimiento a una intervención de comunicaciones autorizada por la autoridad judicial competente, estarán obligados a someterse a los exámenes de control de confianza al término de la misma.
 
 ### Artículo 55

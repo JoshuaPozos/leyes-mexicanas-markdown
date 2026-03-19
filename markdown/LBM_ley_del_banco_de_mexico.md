@@ -11,11 +11,18 @@ Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "E
 LEY DEL BANCO DE MEXICO CAPITULO I De la Naturaleza, las Finalidades y las Funciones ARTICULO 1o.- El banco central será persona de derecho público con carácter autónomo y se denominará Banco de México. En el ejercicio de sus funciones y en su administración se regirá por las disposiciones de esta Ley, reglamentaria de los párrafos sexto y séptimo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
 ARTICULO 2o.- El Banco de México tendrá por finalidad proveer a la economía del país de moneda nacional. En la consecución de esta finalidad tendrá como objetivo prioritario procurar la estabilidad del poder adquisitivo de dicha moneda. Serán también finalidades del Banco promover el sano desarrollo del sistema financiero y propiciar el buen funcionamiento de los sistemas de pagos.
 ARTICULO 3o.- El Banco desempeñará las funciones siguientes:
+
 I. Regular la emisión y circulación de la moneda, los cambios, la intermediación y los servicios financieros, así como los sistemas de pagos;
+
 II. Operar con las instituciones de crédito como banco de reserva y acreditante de última instancia;
+
 III. Prestar servicios de tesorería al Gobierno Federal y actuar como agente financiero del mismo;
+
 IV. Fungir como asesor del Gobierno Federal en materia económica y, particularmente, financiera;
-V. Participar en el Fondo Monetario Internacional y en otros organismos de cooperación financiera internacional o que agrupen a bancos centrales, y VI. Operar con los organismos a que se refiere la fracción V anterior, con bancos centrales y con otras personas morales extranjeras que ejerzan funciones de autoridad en materia financiera.
+
+V. Participar en el Fondo Monetario Internacional y en otros organismos de cooperación financiera internacional o que agrupen a bancos centrales, y
+
+VI. Operar con los organismos a que se refiere la fracción V anterior, con bancos centrales y con otras personas morales extranjeras que ejerzan funciones de autoridad en materia financiera.
 CAPITULO II De la Emisión y la Circulación Monetaria ARTICULO 4o.- Corresponderá privativamente al Banco de México emitir billetes y ordenar la acuñación de moneda metálica, así como poner ambos signos en circulación a través de las operaciones que esta Ley le autoriza realizar.
 ARTICULO 5o.- Los billetes que emita el Banco de México deberán contener: la denominación con número y letra; la serie y número; la fecha del acuerdo de emisión; las firmas en facsímile de un miembro de la Junta de Gobierno y del Cajero Principal; la leyenda "Banco de México", y las demás características que señale el propio Banco.
 El Banco podrá fabricar sus billetes o encargar la fabricación de éstos a terceros.
@@ -27,31 +34,53 @@ Se exceptúan de lo dispuesto en este artículo las monedas metálicas a que se 
 .
 En el cumplimiento de su obligación de canje con las instituciones de crédito, el Banco podrá entregarles billetes y monedas metálicas de las denominaciones cuya mayor circulación considere conveniente para facilitar los pagos.
 CAPITULO III De las Operaciones ARTICULO 7o.- El Banco de México podrá llevar a cabo los actos siguientes:
+
 I. Operar con valores;
 II.- Otorgar crédito al Gobierno Federal, a las instituciones de crédito, así como al organismo descentralizado denominado Instituto para la Protección al Ahorro Bancario;
-Fracción reformada DOF 19-01-1999 III. Otorgar crédito a las personas a que se refiere la fracción VI del artículo 3o.;
+Fracción reformada DOF 19-01-1999
+
+III. Otorgar crédito a las personas a que se refiere la fracción VI del artículo 3o.;
+
 IV. Constituir depósitos en instituciones de crédito o depositarias de valores, del país o del extranjero;
+
 V. Adquirir valores emitidos por organismos financieros internacionales o personas morales domiciliadas en el exterior, de los previstos en la fracción II del artículo 20;
+
 VI. Emitir bonos de regulación monetaria;
+
 VII. Recibir depósitos bancarios de dinero del Gobierno Federal, de entidades financieras del país y del exterior, de fideicomisos públicos de fomento económico y de los referidos en la fracción XI siguiente, de instituciones para el depósito de valores, así como de entidades de la administración pública federal cuando las leyes así lo dispongan;
+
 VIII. Recibir depósitos bancarios de dinero de las personas a que se refiere la fracción VI del artículo 3o.;
+
 IX. Obtener créditos de las personas a que se refiere la fracción VI del artículo 3o. y de entidades financieras del exterior, exclusivamente con propósitos de regulación cambiaria; así como constituir cauciones en efectivo o con valores respecto de las operaciones financieras que celebre con dichos sujetos conforme a la presente Ley, derivadas de la administración de la reserva de activos internacionales;
-Fracción reformada DOF 10-01-2014 X. Efectuar operaciones con divisas, oro y plata, incluyendo reportos;
-XI. Actuar como fiduciario cuando por ley se le asigne esa encomienda, o bien tratándose de fideicomisos cuyos fines coadyuven al desempeño de sus funciones o de los que el propio Banco constituya para cumplir obligaciones laborales a su cargo, y XII. Recibir depósitos de títulos o valores, en custodia o en administración, de las personas señaladas en las fracciones VII y VIII anteriores. También podrá recibir depósitos de otros efectos del Gobierno Federal.
+Fracción reformada DOF 10-01-2014
+
+X. Efectuar operaciones con divisas, oro y plata, incluyendo reportos;
+
+XI. Actuar como fiduciario cuando por ley se le asigne esa encomienda, o bien tratándose de fideicomisos cuyos fines coadyuven al desempeño de sus funciones o de los que el propio Banco constituya para cumplir obligaciones laborales a su cargo, y
+
+XII. Recibir depósitos de títulos o valores, en custodia o en administración, de las personas señaladas en las fracciones VII y VIII anteriores. También podrá recibir depósitos de otros efectos del Gobierno Federal.
 El Banco no podrá realizar sino los actos expresamente previstos en las disposiciones de esta Ley o los conexos a ellos.
 ARTICULO 8o.- Las operaciones a que se refiere el artículo 7o. deberán contratarse en términos que guarden congruencia con las condiciones de mercado al tiempo de su celebración, exceptuando aquéllas que por su naturaleza no tengan cotización en el mercado.
 Además, las operaciones con valores que realice el Banco Central, salvo las señaladas en las fracciones IV, V y XII del artículo 7o. y en la fracción I del artículo 9o., se harán exclusivamente mediante subasta, cuyo objeto sean títulos a cargo del Gobierno Federal, de instituciones de crédito o del propio Banco.
 ARTICULO 9o.- El Banco de México no deberá prestar valores al Gobierno Federal ni adquirirlos de éste, excepto cuando se trate de adquisiciones de valores a cargo del propio Gobierno y se cumpla una de las dos condiciones siguientes:
-I. Las adquisiciones queden correspondidas con depósitos en efectivo no retirables antes del vencimiento, que dicho Gobierno constituya en el Banco con el producto de la colocación de los valores referidos, cuyos montos, plazos y rendimientos sean iguales a los de los valores objeto de la operación respectiva; o bien, II. Las adquisiciones correspondan a posturas presentadas por el Banco en las subastas primarias de dichos valores. Estas adquisiciones en ningún caso deberán ser por monto mayor al de los títulos a cargo del propio Gobierno propiedad del Banco que venzan el día de colocación de los valores objeto de la subasta.
+
+I. Las adquisiciones queden correspondidas con depósitos en efectivo no retirables antes del vencimiento, que dicho Gobierno constituya en el Banco con el producto de la colocación de los valores referidos, cuyos montos, plazos y rendimientos sean iguales a los de los valores objeto de la operación respectiva; o bien,
+
+II. Las adquisiciones correspondan a posturas presentadas por el Banco en las subastas primarias de dichos valores. Estas adquisiciones en ningún caso deberán ser por monto mayor al de los títulos a cargo del propio Gobierno propiedad del Banco que venzan el día de colocación de los valores objeto de la subasta.
 ARTICULO 10.- La función de agente del Gobierno Federal para la emisión, colocación, compra y venta, de valores representativos de la deuda interna del citado Gobierno y, en general, para el servicio de dicha deuda, será privativa del Banco Central.
 ARTICULO 11.- El Banco de México sólo podrá dar crédito al Gobierno Federal mediante el ejercicio de la cuenta corriente que lleve a la Tesorería de la Federación y con sujeción a lo que se dispone en el
 
 ### artículo 12
 . Para efectos de la presente Ley, no se consideran crédito al Gobierno Federal los valores a cargo de éste propiedad del Banco Central.
 ARTICULO 12.- El Banco llevará una cuenta corriente a la Tesorería de la Federación que se ajustará a lo que convengan las partes, pero en todo caso a lo siguiente:
+
 I. Sólo podrán hacerse cargos o abonos a esta cuenta mediante instrucción directa del Tesorero de la Federación al Banco, que este último reciba con una antelación de por lo menos un día hábil bancario a la fecha en que deba efectuarse el respectivo cargo o abono;
+
 II. El Banco de México podrá, sin autorización del Tesorero de la Federación, cargar la cuenta para atender el servicio de la deuda interna del Gobierno Federal;
-III. Con cargo a esta cuenta no podrán librarse cheques u otros documentos a favor de terceros, y IV. El saldo que, en su caso, obre a cargo del Gobierno Federal no deberá exceder de un límite equivalente al 1.5 por ciento de las erogaciones del propio Gobierno previstas en el Presupuesto de Egresos de la Federación para el ejercicio de que se trate, sin considerar las señaladas para la amortización de la deuda de dicho Gobierno; salvo que, por circunstancias extraordinarias, aumenten considerablemente las diferencias temporales entre los ingresos y los gastos públicos.
+
+III. Con cargo a esta cuenta no podrán librarse cheques u otros documentos a favor de terceros, y
+
+IV. El saldo que, en su caso, obre a cargo del Gobierno Federal no deberá exceder de un límite equivalente al 1.5 por ciento de las erogaciones del propio Gobierno previstas en el Presupuesto de Egresos de la Federación para el ejercicio de que se trate, sin considerar las señaladas para la amortización de la deuda de dicho Gobierno; salvo que, por circunstancias extraordinarias, aumenten considerablemente las diferencias temporales entre los ingresos y los gastos públicos.
 En el evento de que el saldo deudor de la cuenta exceda del límite referido, el Banco deberá proceder a la colocación de valores a cargo del Gobierno Federal, por cuenta de éste y por el importe del excedente. De ser necesario o conveniente, el Banco, también por cuenta del Gobierno Federal, emitirá valores a cargo de éste para realizar la colocación respectiva. Al determinar las características de la colocación y, en su caso, emisión, el Banco procurará las mejores condiciones para el Gobierno dentro de lo que el mercado permita.
 El Banco deberá efectuar la colocación de los valores mencionados en un plazo no mayor de quince días hábiles, contado a partir de la fecha en que se exceda el límite señalado, liquidando el excedente de crédito con el producto de la colocación correspondiente. Excepcionalmente, la Junta de Gobierno del Banco podrá ampliar este plazo una o más veces por un plazo conjunto no mayor de tres meses, si ello resulta conveniente para evitar trastornos en el mercado financiero.
 ARTICULO 13.- Cuando las leyes establezcan que el Banco de México deba efectuar aportaciones a organismos financieros internacionales, el Gobierno Federal, salvo por lo que enseguida se señala, proveerá oportunamente al propio Banco de los recursos respectivos. El pago de las cuotas al Fondo Monetario Internacional, se efectuará con recursos del Banco de México.
@@ -62,14 +91,23 @@ ARTICULO 16.- Los financiamientos que el Banco de México conceda a las instituc
 ARTICULO 17.- Los bonos de regulación monetaria que emita el Banco de México, serán títulos de crédito nominativos o al portador y tendrán las demás características que el Banco fije, debiendo mantenerse depositados en administración en el propio Banco, cuando éste así lo determine.
 CAPITULO IV De la Reserva Internacional y el Régimen Cambiario ARTICULO 18.- El Banco de México contará con una reserva de activos internacionales, que tendrá por objeto coadyuvar a la estabilidad del poder adquisitivo de la moneda nacional mediante la compensación de desequilibrios entre los ingresos y egresos de divisas del país.
 ARTICULO 19.- La reserva a que se refiere el artículo inmediato anterior se constituirá con:
+
 I. Las divisas y el oro, propiedad del Banco Central, que se hallen libres de todo gravamen y cuya disponibilidad no esté sujeta a restricción alguna;
-II. La diferencia entre la participación de México en el Fondo Monetario Internacional y el saldo del pasivo a cargo del Banco por el mencionado concepto, cuando dicho saldo sea inferior a la citada participación, y III. Las divisas provenientes de financiamientos obtenidos con propósitos de regulación cambiaria, de las personas señaladas en la fracción VI del artículo 3o.
+
+II. La diferencia entre la participación de México en el Fondo Monetario Internacional y el saldo del pasivo a cargo del Banco por el mencionado concepto, cuando dicho saldo sea inferior a la citada participación, y
+
+III. Las divisas provenientes de financiamientos obtenidos con propósitos de regulación cambiaria, de las personas señaladas en la fracción VI del artículo 3o.
 Para determinar el monto de la reserva, no se considerarán las divisas pendientes de recibir por operaciones de compraventa contra moneda nacional, y se restarán los pasivos de la Institución en divisas y oro, excepto los que sean a plazo mayor de seis meses y los correspondientes a los financiamientos mencionados en la fracción III de este artículo.
 ARTICULO 20.- Para efectos de esta Ley, el término divisas comprende: billetes y monedas metálicas extranjeros, depósitos bancarios, títulos de crédito y toda clase de documentos de crédito, sobre el exterior y denominados en moneda extranjera, así como, en general, los medios internacionales de pago.
 Las divisas susceptibles de formar parte de la reserva son únicamente:
+
 I. Los billetes y monedas metálicas extranjeros;
+
 II. Los depósitos, títulos, valores y demás obligaciones pagaderos fuera del territorio nacional, considerados de primer orden en los mercados internacionales, denominados en moneda extranjera y a cargo de gobiernos de países distintos de México, de organismos financieros internacionales o de entidades del exterior, siempre que sean exigibles a plazo no mayor de seis meses o de amplia liquidez;
-III. Los créditos a cargo de bancos centrales, exigibles a plazo no mayor de seis meses, cuyo servicio esté al corriente, y IV. Los derechos especiales de giro del Fondo Monetario Internacional.
+
+III. Los créditos a cargo de bancos centrales, exigibles a plazo no mayor de seis meses, cuyo servicio esté al corriente, y
+
+IV. Los derechos especiales de giro del Fondo Monetario Internacional.
 ARTICULO 21.- El Banco de México deberá actuar en materia cambiaria de acuerdo con las directrices que determine una Comisión de Cambios, que estará integrada por el Secretario y el Subsecretario de Hacienda y Crédito Público, otro subsecretario de dicha Dependencia que designe el Titular de ésta, el Gobernador del Banco y dos miembros de la Junta de Gobierno, que el propio Gobernador designe. Los integrantes de la Comisión no tendrán suplentes.
 Las sesiones de la Comisión serán presididas por el Secretario de Hacienda y Crédito Público, en su ausencia, por el Gobernador y, en ausencia de ambos, por el subsecretario que designe el Titular de la citada Secretaría. Quien presida la sesión tendrá voto de calidad en caso de empate.
 La Comisión podrá reunirse en todo tiempo a solicitud del Secretario de Hacienda y Crédito Público o del Gobernador; sus sesiones deberán celebrarse con la asistencia de por lo menos tres de sus miembros, siempre que tanto dicha Secretaría como el Banco de México se encuentren representados.
@@ -77,8 +115,12 @@ Las resoluciones de la Comisión se tomarán por mayoría de votos, siendo neces
 El Gobernador informará a la Junta de Gobierno sobre dichas resoluciones.
 El secretario de la Junta de Gobierno y su suplente lo serán también de la Comisión de Cambios.
 ARTICULO 22.- La Comisión estará facultada para:
+
 I. Autorizar la obtención de los créditos a que se refiere la fracción IX del artículo 7o.;
-II. Fijar criterios a los que deba sujetarse el Banco en el ejercicio de las facultades previstas en los artículos 32, 34 y 35, así como en el artículo 33 respecto de la banca de desarrollo, y III. Señalar directrices respecto del manejo y la valuación de la reserva a que se refiere el artículo 18.
+
+II. Fijar criterios a los que deba sujetarse el Banco en el ejercicio de las facultades previstas en los artículos 32, 34 y 35, así como en el artículo 33 respecto de la banca de desarrollo, y
+
+III. Señalar directrices respecto del manejo y la valuación de la reserva a que se refiere el artículo 18.
 ARTICULO 23.- El Banco de México, para el cumplimiento de su objetivo prioritario, podrá compensar el aumento de la circulación de moneda o de sus obligaciones a la vista, resultante de las adquisiciones de divisas que efectúe atendiendo las directrices a que se refiere el artículo 21, mediante la colocación y, en su caso, emisión de valores a cargo del Gobierno Federal en términos de lo dispuesto en el segundo párrafo de la fracción IV del artículo 12. Esta colocación por cuenta del citado Gobierno sólo podrá efectuarse en caso de que el monto de los valores a cargo del Gobierno Federal con que el Banco cuente en sus activos sea igual o menor que el monto de los depósitos referidos en la fracción I del artículo 9o. y el Banco no disponga de otros valores de amplio mercado. Al realizarse la colocación, el Banco de México abonará el producto de ella a un depósito a su cargo sin intereses a favor del propio Gobierno.
 Los fondos depositados serán entregados al Gobierno al tiempo y por el monto equivalente de las enajenaciones netas de divisas que el Banco efectúe y que por sí mismas determinen disminución en la circulación de moneda o en el monto de las obligaciones a la vista de éste.
 CAPITULO V De la Expedición de Normas y las Sanciones ARTICULO 24.- El Banco de México podrá expedir disposiciones en términos de la presente Ley, solamente cuando tengan por propósito la regulación monetaria o cambiaria, el sano desarrollo del sistema financiero, el buen funcionamiento del sistema de pagos, o bien, la protección de los intereses del público; esto sin perjuicio de las demás disposiciones que los preceptos de otras leyes faculten al Banco a expedir en las materias ahí señaladas. Al expedir sus disposiciones, el Banco deberá expresar las razones que las motivan.
@@ -90,14 +132,22 @@ ARTICULO 26.- Las características de las operaciones activas, pasivas y de serv
 Párrafo reformado DOF 10-01-2014 El Banco de México regulará las comisiones y tasas de interés, activas y pasivas, así como cualquier otro concepto de cobro de las operaciones celebradas por las entidades financieras con clientes. Para el ejercicio de dichas atribuciones el Banco de México podrá solicitar la opinión de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o de la Comisión Federal de Competencia y observará para estos fines lo dispuesto en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 Párrafo adicionado DOF 25-05-2010 Lo dispuesto en este artículo será aplicable también a los fideicomisos, mandatos o comisiones de los intermediaros bursátiles y de las instituciones de seguros y de fianzas.
 ARTICULO 27.- El Banco de México, en la imposición de las sanciones a que se refiere esta Ley, tomará en cuenta lo siguiente:
+
 I. El lucro obtenido, así como el monto del quebranto o perjuicio patrimonial causado, en su caso;
+
 II. Los riesgos en que hayan incurrido los intermediarios y entidades de que se trate por la celebración de las operaciones que hayan dado lugar a la sanción correspondiente;
+
 III. El plazo que dure el incumplimiento;
+
 IV. La reincidencia, las causas que la originaron y las acciones correctivas aplicadas por el presunto infractor, en su caso.
 Se considerará reincidente al que haya incurrido en una infracción que haya sido sancionada y cometa la misma infracción, dentro de los dos años inmediatos siguientes a la fecha en que haya quedado firme la resolución correspondiente.
 La reincidencia podrá sancionarse con multa cuyo importe equivalga hasta al doble de la cantidad que corresponda originalmente;
+
 V. La gravedad de la infracción cometida;
-VI. La capacidad económica del infractor, y VII. Las demás circunstancias particulares que el Banco de México estime aplicables para la individualización de la sanción respectiva.
+
+VI. La capacidad económica del infractor, y
+
+VII. Las demás circunstancias particulares que el Banco de México estime aplicables para la individualización de la sanción respectiva.
 Tratándose de las sanciones a que se refieren los incisos a) y b) de la fracción III del artículo 36 Bis, el Banco de México tomará en cuenta, además de los aspectos referidos en las fracciones anteriores, las causas que hayan originado los faltantes que den lugar a la infracción correspondiente y, en particular, si estos obedecen a retiros anormales de fondos, a situaciones críticas de los intermediarios o a errores u omisiones de carácter administrativo en los que, a criterio del propio Banco, no haya mediado mala fe.
 Atendiendo a las circunstancias de cada caso, el Banco de México podrá además de imponer la multa que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes, la gravedad de la conducta, que no se afecten los intereses de terceros y, en su caso, la existencia de atenuantes. Para efectos de este artículo, se considerará como atenuante en la imposición de sanciones administrativas, entre otras, cuando el presunto infractor acredite ante el Banco haber resarcido el daño causado.
 El Banco de México podrá abstenerse de sancionar a las entidades o intermediarios financieros siempre y cuando se justifique la causa de tal abstención y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia, no se cuente con elementos que permitan demostrar que se afecten los intereses de terceros o del propio sistema financiero y no constituyan delito.
@@ -122,15 +172,36 @@ La vigilancia se realizará por medio del análisis y monitoreo de la informaci�
 Artículo adicionado DOF 10-01-2014 ARTICULO 36.- Los intermediarios financieros estarán obligados a suministrar al Banco de México la información que éste les requiera sobre sus operaciones incluso respecto de alguna o algunas de ellas en lo individual, los datos que permitan estimar su situación financiera y, en general, aquélla que sea útil al Banco para proveer el adecuado cumplimiento de sus funciones.
 Sin perjuicio de las facultades de supervisión contempladas en el artículo 35 Bis de la presente Ley, el Banco de México buscará coordinarse con las comisiones supervisoras del sistema financiero, con la intención de practicar las visitas a los intermediarios programadas anualmente, en forma conjunta con dichas autoridades en función de sus capacidades, sin perjuicio de las visitas que el Banco de México y las referidas autoridades puedan practicar de manera extraordinaria o en cualquier momento, de conformidad con las disposiciones que les resulten aplicables.
 Párrafo reformado DOF 10-01-2014 ARTICULO 36 Bis.- Las infracciones a la presente Ley o a las disposiciones que el Banco de México emita con base en esta o en las demás leyes a que se refiere el primer párrafo del artículo 26 anterior serán sancionadas con multa administrativa que impondrá el propio Banco conforme a lo siguiente:
-I. Multa por un monto equivalente de 1,000 días de salario mínimo general diario en el Distrito Federal, vigente el día en que se realice la conducta, hasta el cinco por ciento del total de la suma del capital pagado y reservas del capital del intermediario o entidad financiera de que se trate que hubiere reportado, en términos de las disposiciones aplicables, con la menor antelación a la fecha en que haya realizado la conducta objeto de la sanción: a) A los intermediarios y entidades financieras por las operaciones activas, pasivas o de servicios, que realicen en contravención a la presente Ley o a las disposiciones que este expida en términos de esta misma Ley, así como por el incumplimiento a las demás disposiciones del propio Banco que otros ordenamientos lo faculten a emitir; b) A los intermediarios financieros que realicen operaciones señaladas en el primer párrafo del artículo 32, en contravención a las disposiciones que el Banco expida al efecto, y c) A los intermediarios financieros mencionados en el primer párrafo del artículo 32 que transgredan los límites que el Banco de México establezca conforme al artículo 33.
-II. Multa por un monto equivalente de 3,000 a 15,000 días de salario mínimo general diario en el Distrito Federal, vigente el día en que se realice la conducta infractora: a) A los intermediarios y entidades financieras que incumplan la obligación de suministrar, en la forma, condiciones, plazos y demás características que el Banco de México determine, la información o documentación que este les requiera en términos de lo dispuesto en esta Ley o en cualquier otra que le otorgue facultades para ello, así como en las disposiciones que, para esos efectos, expida de conformidad con dichas leyes, y b) A los intermediarios y entidades financieras que se nieguen a recibir una orden de visita, o de cualquier manera impidan, obstaculicen o entorpezcan el ejercicio de la facultad de supervisión del propio Banco de México.
-III. Multa por un monto equivalente de 5,000 días de salario mínimo general diario en el Distrito Federal, vigente el día en que se realice la conducta, hasta el cinco por ciento del total de la suma del capital pagado y reservas del capital del intermediario de que se trate que hubiere reportado, en términos de las disposiciones aplicables, con la menor antelación a la fecha en que haya realizado la conducta objeto de la sanción: a) A los intermediarios financieros por incurrir en faltantes respecto de las inversiones que deban mantener conforme a lo dispuesto en el artículo 28 de la presente Ley, y b) A los intermediarios financieros por abstenerse de constituir, cuando así lo disponga el Banco de México, los depósitos a que se refiere el segundo párrafo del artículo 32 de la presente Ley.
+
+I. Multa por un monto equivalente de 1,000 días de salario mínimo general diario en el Distrito Federal, vigente el día en que se realice la conducta, hasta el cinco por ciento del total de la suma del capital pagado y reservas del capital del intermediario o entidad financiera de que se trate que hubiere reportado, en términos de las disposiciones aplicables, con la menor antelación a la fecha en que haya realizado la conducta objeto de la sanción:
+
+a) A los intermediarios y entidades financieras por las operaciones activas, pasivas o de servicios, que realicen en contravención a la presente Ley o a las disposiciones que este expida en términos de esta misma Ley, así como por el incumplimiento a las demás disposiciones del propio Banco que otros ordenamientos lo faculten a emitir;
+
+b) A los intermediarios financieros que realicen operaciones señaladas en el primer párrafo del artículo 32, en contravención a las disposiciones que el Banco expida al efecto, y
+
+c) A los intermediarios financieros mencionados en el primer párrafo del artículo 32 que transgredan los límites que el Banco de México establezca conforme al artículo 33.
+
+II. Multa por un monto equivalente de 3,000 a 15,000 días de salario mínimo general diario en el Distrito Federal, vigente el día en que se realice la conducta infractora:
+
+a) A los intermediarios y entidades financieras que incumplan la obligación de suministrar, en la forma, condiciones, plazos y demás características que el Banco de México determine, la información o documentación que este les requiera en términos de lo dispuesto en esta Ley o en cualquier otra que le otorgue facultades para ello, así como en las disposiciones que, para esos efectos, expida de conformidad con dichas leyes, y
+
+b) A los intermediarios y entidades financieras que se nieguen a recibir una orden de visita, o de cualquier manera impidan, obstaculicen o entorpezcan el ejercicio de la facultad de supervisión del propio Banco de México.
+
+III. Multa por un monto equivalente de 5,000 días de salario mínimo general diario en el Distrito Federal, vigente el día en que se realice la conducta, hasta el cinco por ciento del total de la suma del capital pagado y reservas del capital del intermediario de que se trate que hubiere reportado, en términos de las disposiciones aplicables, con la menor antelación a la fecha en que haya realizado la conducta objeto de la sanción:
+
+a) A los intermediarios financieros por incurrir en faltantes respecto de las inversiones que deban mantener conforme a lo dispuesto en el artículo 28 de la presente Ley, y
+
+b) A los intermediarios financieros por abstenerse de constituir, cuando así lo disponga el Banco de México, los depósitos a que se refiere el segundo párrafo del artículo 32 de la presente Ley.
 Como excepción a lo dispuesto en este artículo, no serán aplicables las sanciones que éste señala tratándose de incumplimientos a disposiciones del Banco de México previstas en otros ordenamientos que, a su vez, contemplen sanciones específicas aplicables a tales supuestos.
 Artículo adicionado DOF 10-01-2014 ARTICULO 36 Bis 1.- Los intermediarios y entidades financieras, por conducto de su director general o equivalente y con la opinión del comité de auditoría, podrán someter a la autorización del Banco de México un programa de autocorrección cuando estas en la realización de sus actividades, o el comité de auditoría como resultado de la funciones que tienen conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
 No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
 I. Las irregularidades o incumplimientos que sean detectados por las comisiones supervisoras del sistema financiero en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación por parte de los intermediarios y entidades financieras, del programa de autocorrección respectivo.
 Se entenderá que la irregularidad fue detectada previamente por las comisiones supervisoras del sistema financiero, en el caso de las facultades de vigilancia, cuando se haya notificado a los intermediarios y entidades financieras la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
-II. Cuando la contravención a la norma de que se trate, corresponda a algún delito, o III. Cuando se trate de alguna de las infracciones que el Banco de México, las leyes o las disposiciones aplicables consideren como graves.
+
+II. Cuando la contravención a la norma de que se trate, corresponda a algún delito, o
+
+III. Cuando se trate de alguna de las infracciones que el Banco de México, las leyes o las disposiciones aplicables consideren como graves.
 Artículo adicionado DOF 10-01-2014 ARTICULO 36 Bis 2.- Los programas de autocorrección a que se refiere el artículo anterior, se sujetarán a las disposiciones de carácter general que emita el Banco de México. Adicionalmente, deberán ser firmados por el presidente del comité de auditoría de los intermediarios y entidades financieras, y ser presentados al Consejo de Administración u órgano equivalente en la sesión inmediata posterior a la solicitud de autorización presentada al Banco de México. Igualmente, deberá contener las irregularidades o incumplimientos cometidos indicando al efecto las disposiciones que se hayan considerado contravenidas; las circunstancias que originaron la irregularidad o incumplimiento cometido, así como señalar las acciones adoptadas o que se pretendan adoptar por parte de los intermediarios y entidades financieras para corregir la irregularidad o incumplimiento que motivó el programa.
 En caso de que los intermediarios y entidades financieras requieran de un plazo para subsanar la irregularidad o incumplimiento cometido, el programa de autocorrección deberá incluir un calendario detallado de actividades a realizar para ese efecto.
 Si el Banco de México no ordena a los intermediarios y entidades financieras de que se trate modificaciones o correcciones al programa de autocorrección dentro de los veinte días hábiles siguientes a su presentación, el programa se tendrá por autorizado en todos sus términos.
@@ -146,23 +217,35 @@ La Junta de Gobierno estará integrada por cinco miembros, designados conforme a
 Podrán ser sujetos de juicio político conforme a lo establecido en los artículos 108 y 110 de la Constitución Política de los Estados Unidos Mexicanos, los servidores públicos que incumplan con las disposiciones contenidas en esta Ley.
 Párrafo adicionado DOF 25-05-2010 ARTICULO 39.- La designación de miembro de la Junta de Gobierno deberá recaer en persona que reúna los requisitos siguientes:
 I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad, estar en pleno goce de sus derechos civiles y políticos y no tener más de sesenta y cinco años cumplidos en la fecha de inicio del período durante el cual desempeñará su cargo.
-Fracción reformada DOF 23-01-1998 II. Gozar de reconocida competencia en materia monetaria, así como haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera.
-Para la designación de dos de los cinco miembros no será necesario satisfacer los requisitos previstos en el párrafo anterior; pero en todo caso, deberá tratarse de profesionales distinguidos en materia económica, financiera o jurídica. Ninguno de estos dos miembros podrá ser nombrado Gobernador antes de haber cumplido tres años en su cargo, y III. No haber sido sentenciada por delitos intencionales; inhabilitada para ejercer el comercio o para desempeñar un empleo, cargo o comisión, en el servicio público o en el sistema financiero mexicano; ni removida con anterioridad del cargo de miembro de la Junta de Gobierno, salvo que esto último hubiere sido resultado de incapacidad física ya superada.
+Fracción reformada DOF 23-01-1998
+
+II. Gozar de reconocida competencia en materia monetaria, así como haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera.
+Para la designación de dos de los cinco miembros no será necesario satisfacer los requisitos previstos en el párrafo anterior; pero en todo caso, deberá tratarse de profesionales distinguidos en materia económica, financiera o jurídica. Ninguno de estos dos miembros podrá ser nombrado Gobernador antes de haber cumplido tres años en su cargo, y
+
+III. No haber sido sentenciada por delitos intencionales; inhabilitada para ejercer el comercio o para desempeñar un empleo, cargo o comisión, en el servicio público o en el sistema financiero mexicano; ni removida con anterioridad del cargo de miembro de la Junta de Gobierno, salvo que esto último hubiere sido resultado de incapacidad física ya superada.
 ARTICULO 40.- El cargo de Gobernador durará seis años y el de Subgobernador será de ocho años.
 El periodo del Gobernador comenzará el primero de enero del cuarto año calendario del periodo correspondiente al Presidente de la República. Los periodos de los Subgobernadores serán escalonados, sucediéndose cada dos años e iniciándose el primero de enero del primer, tercer y quinto año del periodo del Ejecutivo Federal. Las personas que ocupen esos cargos podrán ser designadas miembros de la Junta de Gobierno más de una vez.
 ARTICULO 41.- La vacante que se produzca en un puesto de Subgobernador será cubierta por el nuevo miembro que se designe para integrar la Junta de Gobierno. En caso de vacante en el puesto de Gobernador, el Ejecutivo Federal podrá nombrar para ocupar tal cargo a un Subgobernador en funciones, o bien, designar a un nuevo miembro de la Junta de Gobierno y, ya integrada ésta, nombrar de entre sus cinco miembros al Gobernador. En tanto se hace el nombramiento de Gobernador, el Subgobernador con mayor antigüedad en el cargo será Gobernador Interino del Banco y presidirá la Junta de Gobierno. En caso de que hubieren dos o más Subgobernadores con igual antigüedad, la Junta de Gobierno elegirá entre ellos al Gobernador Interino.
 Los miembros que cubran vacantes que se produzcan antes de la terminación del periodo respectivo, durarán en su cargo sólo por el tiempo que faltare desempeñar al sustituido. Si al término del periodo que corresponde al Gobernador, se nombra a un Subgobernador en funciones para ocupar tal puesto, el nombramiento referido será por seis años independientemente del tiempo que hubiere sido Subgobernador.
 ARTICULO 42.- El Gobernador y los Subgobernadores deberán abstenerse de participar con la representación del Banco en actos políticos partidistas.
 ARTICULO 43.- Son causas de remoción de un miembro de la Junta de Gobierno:
+
 I. La incapacidad mental, así como la incapacidad física que impida el correcto ejercicio de sus funciones durante más de seis meses;
+
 II. El desempeño de algún empleo, cargo o comisión, distinto de los previstos en el párrafo séptimo del
 
 ### artículo 28
 constitucional;
+
 III. Dejar de ser ciudadano mexicano o de reunir alguno de los requisitos señalados en la fracción III del artículo 39;
+
 IV. No cumplir los acuerdos de la Junta de Gobierno o actuar deliberadamente en exceso o defecto de sus atribuciones;
+
 V. Utilizar, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, así como divulgar la mencionada información sin la autorización de la Junta de Gobierno;
-VI. Someter a sabiendas, a la consideración de la Junta de Gobierno, información falsa, y VII. Ausentarse de sus labores sin autorización de la Junta de Gobierno o sin mediar causa de fuerza mayor o motivo justificado. La Junta de Gobierno no podrá autorizar ausencias por más de seis meses.
+
+VI. Someter a sabiendas, a la consideración de la Junta de Gobierno, información falsa, y
+
+VII. Ausentarse de sus labores sin autorización de la Junta de Gobierno o sin mediar causa de fuerza mayor o motivo justificado. La Junta de Gobierno no podrá autorizar ausencias por más de seis meses.
 El Gobernador podrá ser removido también por no cumplir con los acuerdos de la Comisión de Cambios.
 ARTICULO 44.- Compete a la Junta de Gobierno dictaminar sobre la existencia de las causas de remoción señaladas en el artículo inmediato anterior, debiendo hacerlo a solicitud del Presidente de la República o de cuando menos dos de sus miembros. El dictamen se formulará según resolución de la mayoría de los miembros de la Junta de Gobierno, después de conceder el derecho de audiencia al afectado y sin que éste participe en la votación.
 El dictamen, con la documentación que lo sustente, incluida la argumentación por escrito que, en su caso, el afectado hubiere presentado, será enviado al Ejecutivo Federal. Este último deberá remitirlo, acompañado con la citada documentación y con su razonamiento de procedencia o improcedencia de remoción, a la Cámara de Senadores o, en su caso, a la Comisión Permanente, para resolución definitiva.
@@ -172,49 +255,89 @@ El Secretario y el Subsecretario de Hacienda y Crédito Público, podrán asisti
 La Junta podrá acordar la asistencia de funcionarios de la Institución a sus sesiones para que le rindan directamente la información que les solicite.
 Quienes asistan a las sesiones deberán guardar confidencialidad respecto de los asuntos que se traten en ellas, salvo autorización expresa de la Junta de Gobierno para hacer alguna comunicación.
 ARTICULO 46.- La Junta de Gobierno tendrá las facultades siguientes:
+
 I. Determinar las características de los billetes, con sujeción a lo establecido en el artículo 5o., y proponer a la Secretaría de Hacienda y Crédito Público, las composiciones metálicas de las monedas conforme a lo dispuesto por la Ley Monetaria de los Estados Unidos Mexicanos;
+
 II. Autorizar las órdenes de acuñación de moneda y de fabricación de billetes;
+
 III. Resolver sobre la desmonetización de billetes y los procedimientos para la inutilización y destrucción de moneda;
+
 IV. Resolver sobre el otorgamiento de crédito del Banco al Gobierno Federal;
+
 V. Fijar las políticas y criterios conforme a los cuales el Banco realice sus operaciones, pudiendo determinar las características de éstas y las que por su importancia deban someterse en cada caso a su previa aprobación;
+
 VI. Autorizar las emisiones de bonos de regulación monetaria y fijar las características de éstos;
+
 VII. Determinar las características de los valores a cargo del Gobierno Federal que el Banco emita conforme al párrafo segundo, fracción IV, del artículo 12, así como las condiciones en que se coloquen esos títulos y los demás valores señalados en dicho párrafo;
+
 VIII. Establecer las políticas y criterios conforme a los cuales se expidan las normas previstas en el capítulo V, sin perjuicio de las facultades que corresponden a la Comisión de Cambios conforme al
 
 ### artículo 22
 ;
+
 IX. Aprobar las exposiciones e informes del Banco y de los miembros de la Junta de Gobierno sobre las políticas y actividades de aquél;
+
 X. Aprobar los estados financieros correspondientes a cada ejercicio, así como los estados de cuenta consolidados mensuales;
+
 XI. Expedir las normas y criterios generales a los que deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente e inversión física del Banco, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuarle durante el ejercicio. La Junta de Gobierno deberá hacer lo anterior, de conformidad con el criterio de que la evolución del citado presupuesto guarde congruencia con la del Presupuesto de Egresos de la Federación;
+
 XII. Expedir, con sujeción a los criterios de carácter general señalados en el artículo 134 constitucional, las normas conforme a las cuales el Banco deba contratar las adquisiciones y enajenaciones de bienes muebles, los arrendamientos de todo tipo de bienes, la realización de obra inmobiliaria, así como los servicios de cualquier naturaleza;
+
 XIII. Resolver sobre la adquisición y enajenación de acciones o partes sociales por el Banco, de empresas que le presten servicios;
+
 XIV. Autorizar la adquisición y enajenación de inmuebles;
+
 XV. Resolver sobre la constitución de las reservas a que se refiere el artículo 53;
+
 XVI. Aprobar el Reglamento Interior del Banco, el cual deberá ser publicado en el Diario Oficial de la Federación;
+
 XVII. Aprobar las Condiciones Generales de Trabajo que deban observarse en las relaciones entre el Banco y su personal, así como los tabuladores de sueldos, en el concepto de que las remuneraciones de los funcionarios y empleados del Banco no deberán exceder de las que perciban los miembros de la Junta de Gobierno, excepto en los casos en que dadas las condiciones del mercado de trabajo de alguna especialidad, se requiera de mayor remuneración;
+
 XVIII. Nombrar y remover al secretario de la Junta de Gobierno, así como a su suplente, quienes deberán ser funcionarios del Banco;
+
 XIX. Nombrar y remover a los funcionarios que ocupen los tres primeros niveles jerárquicos del personal de la Institución;
-XX. Aprobar las políticas para cancelar, total o parcialmente, adeudos a cargo de terceros y a favor del Banco, cuando fuere notoria la imposibilidad práctica de su cobro, o éste fuere económicamente inconveniente para la Institución, y XXI. Resolver sobre otros asuntos que el Gobernador someta a su consideración.
+
+XX. Aprobar las políticas para cancelar, total o parcialmente, adeudos a cargo de terceros y a favor del Banco, cuando fuere notoria la imposibilidad práctica de su cobro, o éste fuere económicamente inconveniente para la Institución, y
+
+XXI. Resolver sobre otros asuntos que el Gobernador someta a su consideración.
 ARTICULO 47.- Corresponderá al Gobernador del Banco de México:
+
 I. Tener a su cargo la administración del Banco, la representación legal de éste y el ejercicio de sus funciones, sin perjuicio de las atribuciones que esta Ley confiere a la Junta de Gobierno;
+
 II. Ejecutar los acuerdos de la Junta de Gobierno y de la Comisión de Cambios;
+
 III. Someter a la consideración y, en su caso, aprobación de la Junta de Gobierno las exposiciones e informes del Banco señalados en la fracción IX del artículo 46, así como los documentos a que se refieren las fracciones X, XI, XII, XVI y XVII del referido artículo 46;
+
 IV. Actuar con el carácter de apoderado y delegado fiduciario;
+
 V. Ser el enlace entre el Banco y la Administración Pública Federal;
+
 VI. Ser el vocero del Banco, pudiendo delegar esta facultad en los Subgobernadores;
+
 VII. Constituir consejos regionales;
+
 VIII. Acordar el establecimiento, cambio y clausura de sucursales;
+
 IX. Designar a los Subgobernadores que deban desempeñar cargos o comisiones en representación del Banco;
+
 X. Designar y remover a los apoderados y delegados fiduciarios;
+
 XI. Nombrar y remover al personal del Banco, excepto el referido en la fracción XIX del artículo 46;
-Fracción reformada DOF 25-05-2010 XII. Fijar, conforme a los tabuladores aprobados por la Junta de Gobierno, los sueldos del personal y aprobar los programas que deban aplicarse para su capacitación y adiestramiento, y Fracción reformada DOF 25-05-2010 XIII. Comparecer ante comisiones del Senado de la República cada año, durante el segundo periodo ordinario de sesiones, a rendir un informe del cumplimiento del mandato.
+Fracción reformada DOF 25-05-2010
+
+XII. Fijar, conforme a los tabuladores aprobados por la Junta de Gobierno, los sueldos del personal y aprobar los programas que deban aplicarse para su capacitación y adiestramiento, y Fracción reformada DOF 25-05-2010
+
+XIII. Comparecer ante comisiones del Senado de la República cada año, durante el segundo periodo ordinario de sesiones, a rendir un informe del cumplimiento del mandato.
 Fracción adicionada DOF 25-05-2010 ARTICULO 48.- Los consejos regionales previstos en la fracción VII del artículo 47, tendrán únicamente funciones de consulta, así como de obtención y difusión de información de carácter general en materia económica y, particularmente, financiera.
 ARTICULO 49.- La remuneración del Gobernador del Banco, así como la de los Subgobernadores, las determinará un comité integrado por el Presidente de la Comisión Nacional Bancaria y por dos personas nombradas por el Secretario de Hacienda y Crédito Público, cuya designación no produzca conflicto de intereses y que sean de reconocida experiencia en el mercado laboral en el que participan las instituciones de crédito públicas y privadas, así como las autoridades reguladoras de éstas.
 El comité sesionará por lo menos una vez al año, y tomará sus resoluciones por el voto favorable de la mayoría de sus miembros, los cuales no tendrán suplentes. Para adoptar sus resoluciones, el comité deberá considerar las remuneraciones existentes en el Banco y la evolución de las remuneraciones en el sistema financiero del país, teniendo como criterio rector que, dadas las condiciones del referido mercado laboral, la Junta de Gobierno cuente con miembros idóneos y el Banco pueda contratar y conservar personal debidamente calificado.
 ARTICULO 50. El Secretario de Hacienda y Crédito Público solicitará a un colegio o instituto de contadores ampliamente representativo de la profesión, le proponga una terna de firmas de reconocido prestigio, entre las cuales designará al auditor externo del Banco con la aprobación de la Comisión de Vigilancia de la Auditoría Superior de la Federación, y contratará sus servicios por cuenta del Banco. La contratación del auditor externo no podrá hacerse por periodos mayores de cinco años.
 Párrafo reformado DOF 09-04-2012 El auditor tendrá las más amplias facultades para examinar y dictaminar los estados financieros del Banco, así como para revisar la contabilidad y demás documentación relacionada con ésta, debiendo enviar al Ejecutivo Federal y al Congreso de la Unión copia de los dictámenes que presente a la Junta de Gobierno, y un informe sobre el ejercicio del presupuesto de gasto corriente e inversión física.
 CAPITULO VII De las Disposiciones Generales ARTICULO 51.- El Banco enviará al Ejecutivo Federal y al Congreso de la Unión y, en los recesos de este último, a su Comisión Permanente, lo siguiente:
-I. En enero de cada año, una exposición sobre la política monetaria a seguir por la Institución en el ejercicio respectivo, así como un informe sobre el presupuesto de gasto corriente e inversión física de la Institución, correspondiente a dicho ejercicio, y II. A más tardar cuarenta y cinco días hábiles después del cierre de cada trimestre, un informe sobre la inflación, la evolución económica y el comportamiento de los indicadores económicos del país en dicho trimestre, así como la ejecución de la política monetaria del trimestre de que se trate y, en general, las actividades del Banco durante dicho periodo, en el contexto de la situación económica nacional e internacional.
+
+I. En enero de cada año, una exposición sobre la política monetaria a seguir por la Institución en el ejercicio respectivo, así como un informe sobre el presupuesto de gasto corriente e inversión física de la Institución, correspondiente a dicho ejercicio, y
+
+II. A más tardar cuarenta y cinco días hábiles después del cierre de cada trimestre, un informe sobre la inflación, la evolución económica y el comportamiento de los indicadores económicos del país en dicho trimestre, así como la ejecución de la política monetaria del trimestre de que se trate y, en general, las actividades del Banco durante dicho periodo, en el contexto de la situación económica nacional e internacional.
 Adicionalmente, el Banco enviará un informe anual al Congreso de la Unión, sobre el ejercicio de las atribuciones que le confiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 Artículo reformado DOF 25-05-2010, 10-01-2014 ARTICULO 52.- Cualquiera de las Cámaras del Congreso de la Unión podrá citar al Gobernador del Banco para que rinda informes sobre las políticas y actividades de la Institución.
 ARTICULO 53.- El Banco de México deberá, siempre que sea posible, preservar el valor real de la suma de su capital más sus reservas e incrementar dicho valor conforme aumente el producto interno bruto en términos reales. El Banco de México sólo podrá constituir reservas en adición a lo que dispone este artículo, cuando resulten de la revaluación de activos o así lo acuerde con la Secretaría de Hacienda y Crédito Público.
@@ -223,31 +346,63 @@ ARTICULO 55.- El Banco será Institución sin propósito de lucro y deberá entr
 ARTICULO 56.- Los billetes y las monedas metálicas que el Banco de México ponga en circulación deberán quedar registrados como pasivos en el balance de la Institución a su valor nominal. En tanto dichas piezas no sean puestas en circulación figurarán en el activo del Banco a su costo de fabricación o a su valor de adquisición, según corresponda, debiendo ajustarse los importes respectivos conforme evolucione el costo de reponer las piezas referidas. Al ser puestas en circulación por primera vez se darán de baja en el activo con cargo a resultados. El Banco registrará en su activo con abono a resultados, el importe obtenible de la enajenación del metal de las monedas que retire de la circulación.
 Las monedas señaladas en el inciso c) del artículo 2o. de la Ley Monetaria de los Estados Unidos Mexicanos que no estén destinadas a fungir como medios generales de pago, y las del artículo 2o. bis de dicha Ley, serán contabilizadas en los términos que acuerde la Junta de Gobierno.
 ARTICULO 57.- Las operaciones a que se refiere la fracción XII del artículo 46 se llevarán a cabo a través de licitaciones públicas, excepto en los casos siguientes:
+
 I. Cuando se trate de adquisiciones de alimentos u otros bienes perecederos;
+
 II. De no existir por lo menos tres proveedores o postores idóneos;
+
 III. Cuando se dé por terminado anticipadamente un contrato o se rescinda;
-IV. Cuando el importe del contrato no rebase los montos equivalentes a: a) Sesenta veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, tratándose de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles; b) Noventa veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, en el caso de obra inmobiliaria, y c) Diez veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, conforme avalúo realizado por persona capacitada legalmente para ello, cuando se trate de enajenación de bienes muebles;
+
+IV. Cuando el importe del contrato no rebase los montos equivalentes a:
+
+a) Sesenta veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, tratándose de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
+
+b) Noventa veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, en el caso de obra inmobiliaria, y
+
+c) Diez veces el salario mínimo general diario vigente en el Distrito Federal elevado al año, conforme avalúo realizado por persona capacitada legalmente para ello, cuando se trate de enajenación de bienes muebles;
+
 V. Tratándose de casos fortuitos o de fuerza mayor;
+
 VI. Cuando existan trabajos o servicios de conservación, mantenimiento, restauración, reparación y demolición en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
+
 VII. Tratándose de la adquisición o de la enajenación de bienes inmuebles, así como de los servicios relacionados con la obra inmobiliaria;
+
 VIII. De existir circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes para el Banco;
-IX. Después de haber realizado dos licitaciones sin que hubiese sido posible adjudicar el contrato correspondiente, o X. Cuando se trate de adquisiciones de insumos que el Banco requiera para la fabricación de billetes o adquiera para la de moneda metálica.
+
+IX. Después de haber realizado dos licitaciones sin que hubiese sido posible adjudicar el contrato correspondiente, o
+
+X. Cuando se trate de adquisiciones de insumos que el Banco requiera para la fabricación de billetes o adquiera para la de moneda metálica.
 ARTICULO 58.- Al Banco de México, a los miembros de su Junta de Gobierno, así como a los funcionarios y empleados de la Institución, les serán aplicables las disposiciones relativas al secreto bancario y al fiduciario previstas en ley.
 ARTICULO 59.- Son trabajadores de confianza del Banco de México:
-I. El personal que ocupe puestos de subgerente o superior, los trabajadores de rango equivalente al de los anteriores y los empleados adscritos de manera personal y directa a la Junta de Gobierno y a los miembros de ésta; los asesores y personal secretarial de los funcionarios antes mencionados; los jefes de división y de oficina; el personal de seguridad; los pilotos, copilotos e ingenieros de vuelo; el personal técnico adscrito a las áreas de cambios, metales, inversiones, valores e informática; los operadores y contraseñadores de telecomunicaciones por las que se transmitan escritos, así como el personal técnico que maneje información confidencial, y II. Los señalados en la Ley Reglamentaria de la fracción XIII BIS del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, que no estén comprendidos en la fracción anterior.
+
+I. El personal que ocupe puestos de subgerente o superior, los trabajadores de rango equivalente al de los anteriores y los empleados adscritos de manera personal y directa a la Junta de Gobierno y a los miembros de ésta; los asesores y personal secretarial de los funcionarios antes mencionados; los jefes de división y de oficina; el personal de seguridad; los pilotos, copilotos e ingenieros de vuelo; el personal técnico adscrito a las áreas de cambios, metales, inversiones, valores e informática; los operadores y contraseñadores de telecomunicaciones por las que se transmitan escritos, así como el personal técnico que maneje información confidencial, y
+
+II. Los señalados en la Ley Reglamentaria de la fracción XIII BIS del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, que no estén comprendidos en la fracción anterior.
 El Gobernador y los Subgobernadores del Banco no formarán parte del personal de la Institución.
 ARTICULO 60.- El personal que ocupe puestos de subgerente o superior y los trabajadores de rango equivalente al de los anteriores, no podrán tener empleo, cargo o comisión, en la Administración Pública Federal, con excepción de aquéllos en que actúen en representación del Banco o en asociaciones docentes, científicas, culturales o de beneficencia.
 ARTICULO 61.- La Ley Federal de Responsabilidades de los Servidores Públicos, será aplicable a los miembros de la Junta de Gobierno y al personal del Banco, con sujeción a lo siguiente:
+
 I. La aplicación de dicha Ley y el proveer a su estricta observancia, salvo en lo tocante al Juicio Político al que podrán ser sujetos los integrantes de la Junta de Gobierno, competerán a una Comisión de Responsabilidades integrada por el miembro de la Junta de Gobierno que ésta designe y por los titulares de las áreas jurídica y de contraloría del Banco.
-Tratándose de infracciones cometidas por miembros de la Junta de Gobierno o por funcionarios que ocupen puestos comprendidos en los tres niveles más altos del personal, será la Junta de Gobierno quien determine la responsabilidad que resulte e imponga la sanción correspondiente, a cuyo efecto la Comisión de Responsabilidades le turnará el expediente respectivo, y II. Las personas sujetas a presentar declaración de situación patrimonial, serán los miembros de la Junta de Gobierno y quienes ocupen en la Institución puestos de subgerente o superior, así como aquéllas que por la naturaleza de sus funciones se señalen en el Reglamento Interior. Esta declaración deberá presentarse ante la contraloría del Banco, quien llevará el registro y seguimiento de la evolución de la mencionada situación patrimonial, informando a la Comisión de Responsabilidades o a la Junta de Gobierno, según corresponda, las observaciones que, en su caso, resulten de dicho seguimiento.
+Tratándose de infracciones cometidas por miembros de la Junta de Gobierno o por funcionarios que ocupen puestos comprendidos en los tres niveles más altos del personal, será la Junta de Gobierno quien determine la responsabilidad que resulte e imponga la sanción correspondiente, a cuyo efecto la Comisión de Responsabilidades le turnará el expediente respectivo, y
+
+II. Las personas sujetas a presentar declaración de situación patrimonial, serán los miembros de la Junta de Gobierno y quienes ocupen en la Institución puestos de subgerente o superior, así como aquéllas que por la naturaleza de sus funciones se señalen en el Reglamento Interior. Esta declaración deberá presentarse ante la contraloría del Banco, quien llevará el registro y seguimiento de la evolución de la mencionada situación patrimonial, informando a la Comisión de Responsabilidades o a la Junta de Gobierno, según corresponda, las observaciones que, en su caso, resulten de dicho seguimiento.
 Contra las resoluciones a que se refiere este artículo no procederá medio de defensa alguno ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 Párrafo reformado DOF 31-12-2000 ARTICULO 62.- El Banco de México podrá:
+
 I. En coordinación con las demás autoridades competentes, elaborar, compilar y publicar estadísticas económicas y financieras, así como operar sistemas de información basados en ellas y recabar los datos necesarios para esos efectos;
+
 II. Llevar a cabo, directamente o a través de terceros, la comercialización de monedas conmemorativas, así como de los billetes y las monedas metálicas, que tengan empaque o acabado especial;
-III. Utilizar los recursos de que disponga, en la fabricación de bienes para terceros y en la prestación de servicios a éstos, siempre que ello no afecte el adecuado desempeño de sus funciones, y IV. Adquirir o arrendar los bienes muebles y contratar los servicios y la obra inmobiliaria, necesarios o convenientes para su adecuada operación y funcionamiento, así como enajenar aquellos bienes muebles que dejaren de ser útiles para tales efectos.
+
+III. Utilizar los recursos de que disponga, en la fabricación de bienes para terceros y en la prestación de servicios a éstos, siempre que ello no afecte el adecuado desempeño de sus funciones, y
+
+IV. Adquirir o arrendar los bienes muebles y contratar los servicios y la obra inmobiliaria, necesarios o convenientes para su adecuada operación y funcionamiento, así como enajenar aquellos bienes muebles que dejaren de ser útiles para tales efectos.
 ARTICULO 63.- Queda prohibido al Banco de México:
+
 I. Otorgar garantías;
-II. Adquirir o arrendar inmuebles que no requiera para el desempeño de sus funciones. Cuando fuere necesario que el Banco reciba o se adjudique inmuebles o derechos reales en pago de sus créditos, así como cuando dejen de serle necesarios aquéllos de que sea propietario, estará obligado a realizarlos dentro de un plazo máximo de tres años, y III. Adquirir títulos representativos del capital de sociedades, salvo que se trate de empresas que le presten servicios necesarios o convenientes a la realización de sus funciones.
+
+II. Adquirir o arrendar inmuebles que no requiera para el desempeño de sus funciones. Cuando fuere necesario que el Banco reciba o se adjudique inmuebles o derechos reales en pago de sus créditos, así como cuando dejen de serle necesarios aquéllos de que sea propietario, estará obligado a realizarlos dentro de un plazo máximo de tres años, y
+
+III. Adquirir títulos representativos del capital de sociedades, salvo que se trate de empresas que le presten servicios necesarios o convenientes a la realización de sus funciones.
 No serán aplicables al Banco las prohibiciones y limitaciones establecidas en esta Ley, cuando actúe en cumplimiento de sus obligaciones de carácter laboral o de las que adquiera con los miembros de su Junta de Gobierno como contraprestación por los servicios que le presten, pudiendo en esos casos realizar las operaciones y constituir las reservas necesarias o convenientes para dicho cumplimiento.
 ARTICULO 64.- Contra las sanciones previstas en la presente Ley procederá el recurso de reconsideración, el cual deberá interponerse ante la unidad administrativa que se determine en el Reglamento Interior del Banco de México, dentro de los quince días hábiles siguientes a la fecha de notificación de tales resoluciones.
 Párrafo reformado DOF 10-01-2014 El recurso tendrá por objeto revocar, modificar o confirmar la resolución reclamada. En el escrito de interposición se deberá señalar el nombre y domicilio del recurrente, la resolución impugnada y los agravios que se hagan valer, acompañándose con los elementos de prueba que se consideren necesarios, así como con las constancias que acrediten la personalidad del promovente.
@@ -257,9 +412,14 @@ Cuando el escrito antes mencionado no señale los agravios o el acto reclamado, 
 La resolución del recurso contendrá la fijación del acto impugnado, los fundamentos legales en que se apoye y los puntos de resolución.
 Contra las resoluciones a que se refiere este artículo no procederá medio de defensa alguno ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 Párrafo reformado DOF 31-12-2000 ARTICULO 66.- Las resoluciones previstas en el primer párrafo del artículo 64 se ejecutarán:
+
 I. Cuando no se interponga recurso de reconsideración dentro del plazo señalado en el artículo 64;
+
 II. Si el afectado no acredita, dentro de los veinte días hábiles siguientes a aquél en que se notifique la resolución correspondiente, que ha presentado demanda de amparo contra dicha resolución;
-III. Si en el juicio de amparo se niega la suspensión del acto reclamado, o IV. De haberse concedido la suspensión en el juicio de amparo, hasta que se dicte sentencia firme en contra del quejoso.
+
+III. Si en el juicio de amparo se niega la suspensión del acto reclamado, o
+
+IV. De haberse concedido la suspensión en el juicio de amparo, hasta que se dicte sentencia firme en contra del quejoso.
 ARTICULO 67.- Las multas que el Banco de México imponga deberán ser pagadas dentro de los quince días hábiles siguientes al de su notificación. Cuando las multas no se paguen en el plazo señalado en este párrafo, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los mismos términos que establece el Código Fiscal de la Federación.
 En caso de que las entidades o intermediarios financieros paguen las multas impuestas por Banco de México dentro de los quince días hábiles señalados en el párrafo anterior, se aplicará una reducción de un veinte por ciento de su monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
 El procedimiento administrativo de ejecución para el cobro de las multas que no hubieren sido cubiertas oportunamente al Banco de México, se aplicará por la Secretaría de Hacienda y Crédito Público, o por el propio Banco a través de la unidad administrativa que señale su Reglamento Interior.
@@ -362,8 +522,11 @@ Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000 Disp
 
 ### Artículo Décimo Primero
 En relación con las modificaciones a que se refiere el Artículo Décimo de este Decreto, se estará a lo siguiente:
+
 I. La reforma al artículo 28 de la Ley Orgánica del Tribunal Fiscal de la Federación, entrará en vigor el 1o. de febrero de 2001.
+
 II. Para los efectos del artículo 31 de la Ley Orgánica del Tribunal Fiscal de la Federación, las demandas presentadas antes del 1o. de enero de 2001, serán competencia de la Sala Regional que corresponda, de conformidad con el citado artículo 31, vigente hasta el 31 de diciembre de 2000.
+
 III. Se reforma la denominación del Tribunal Fiscal de la Federación por la de Tribunal Federal de Justicia Fiscal y Administrativa. En consecuencia, se reforma la Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones, así como en todas aquellas contenidas en el Código Fiscal de la Federación y en las demás leyes fiscales y administrativas federales, en las que se cite al Tribunal Fiscal de la Federación, para sustituir ese nombre por el de Tribunal Federal de Justicia Fiscal y Administrativa.
 
 ## Transitorios
@@ -407,9 +570,14 @@ Se reforma el artículo 50, primer párrafo, de la Ley del Banco de México, par
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014 ARTÍCULO CUADRAGÉSIMO TERCERO.- Se REFORMAN los artículos 7, fracción IX; 24, primer y tercer párrafos; 26, primer párrafo; 27; 36, segundo párrafo; 51 y 64, primer párrafo; se ADICIONAN los artículos 24, último párrafo; 35 Bis, 36 Bis a 36 Bis 3, y 67, primer y segundo párrafos, recorriéndose en su orden los actuales párrafos primero, segundo y tercero y se DEROGAN los artículos 29 y 33, segundo y tercer párrafos, de la Ley del Banco de México, para quedar como sigue: ……… Disposiciones Transitorias ARTÍCULO QUINCUAGÉSIMO.- En relación con las modificaciones a que se refieren los Artículos Cuadragésimo Primero a Cuadragésimo Noveno de este Decreto, se estará a lo siguiente:
-I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
+I. Artículo Cuadragésimo Tercero, el cual entrará en vigor a los treinta días naturales siguientes a la publicación del presente Decreto, y
+
+II. Artículo Cuadragésimo Séptimo, el cual entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del Decreto por el que se expide la Ley de Instituciones de Seguros y de Fianzas y se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro, publicado el 4 de abril de 2013 en el citado Diario Oficial.
+
 III. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.
 En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.
+
 IV. La obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015.
 Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisión a más tardar en el mes de septiembre de 2014. ………
 

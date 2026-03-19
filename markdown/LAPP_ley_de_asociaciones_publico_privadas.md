@@ -29,9 +29,14 @@ Párrafo reformado DOF 21-04-2016 Los proyectos de inversión productiva se suje
 
 ### Artículo 4
 . Las disposiciones de la presente Ley son aplicables a proyectos de asociaciones públicoprivadas que realicen:
+
 I. Las dependencias y entidades de la Administración Pública Federal;
+
 II. Fideicomisos públicos federales no considerados entidades paraestatales;
-III. Personas de derecho público federal, con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, las cuales aplicarán los criterios y procedimientos previstos en esta Ley, sólo en lo no previsto en los ordenamientos que los rigen y siempre que no se contrapongan con los mismos, en cuyo caso quedarán sujetas a sus propios órganos de control, y, IV. Las entidades federativas, municipios y los entes públicos de unas y otros, con recursos federales, de conformidad con los convenios que celebren con dependencias o entidades de la Administración Pública Federal.
+
+III. Personas de derecho público federal, con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, las cuales aplicarán los criterios y procedimientos previstos en esta Ley, sólo en lo no previsto en los ordenamientos que los rigen y siempre que no se contrapongan con los mismos, en cuyo caso quedarán sujetas a sus propios órganos de control, y,
+
+IV. Las entidades federativas, municipios y los entes públicos de unas y otros, con recursos federales, de conformidad con los convenios que celebren con dependencias o entidades de la Administración Pública Federal.
 Para estos efectos, se entenderá que los proyectos se realizan con recursos federales, cuando las aportaciones de las entidades federativas, municipios y entes públicos de unas y otros, en su conjunto, sean inferiores en relación con las aportaciones federales. Para efectos de dicho cómputo no quedan comprendidos los recursos federales correspondientes a los fondos previstos en el capítulo V de la Ley de Coordinación Fiscal.
 
 ### Artículo 5
@@ -51,8 +56,12 @@ inmediato anterior, en los convenios para la aportación de recursos federales, 
 
 ### Artículo 9
 . A falta de disposición expresa en esta Ley, serán aplicables de manera supletoria, en el orden siguiente:
+
 I. El Código de Comercio;
-III. La Ley Federal de Procedimiento Administrativo; y IV. El Código Nacional de Procedimientos Civiles y Familiares.
+
+III. La Ley Federal de Procedimiento Administrativo; y
+
+IV. El Código Nacional de Procedimientos Civiles y Familiares.
 Fracción reformada DOF 14-11-2025
 
 ### Artículo 10
@@ -66,58 +75,122 @@ Este sistema será operado por la Secretaría de la Función Pública, la que es
 
 ### Artículo 12
 . Para los efectos de la presente Ley, se entenderá por:
+
 I. Asociación público-privada: Cualquier esquema de los descritos en los artículos 2 y 3 de esta Ley;
+
 II. Autorizaciones para el desarrollo del proyecto: Autorizaciones para la ejecución de la obra, así como para la prestación de los servicios, de un proyecto de asociación público-privada;
+
 III. Autorizaciones para la ejecución de la obra: Permisos, licencias, concesiones y demás autorizaciones que, en su caso, se requieran conforme a las disposiciones aplicables, para la ejecución de las obras de infraestructura de un proyecto de asociación público-privada;
+
 IV. Autorizaciones para la prestación de los servicios: Permisos, concesiones y demás autorizaciones que, en su caso, se requieran conforme a las disposiciones aplicables para el uso o explotación de bienes públicos o prestación de servicios por parte del desarrollador en un proyecto de asociación público-privada;
+
 V. CompraNet: El sistema electrónico de información público gubernamental sobre adquisiciones, arrendamientos y servicios del sector público federal, así como de obras públicas y servicios relacionados con las mismas, que lleva la Secretaría de la Función Pública;
+
 VI. Concursante: Persona que participa en algún concurso que tenga por objeto la adjudicación de un proyecto de asociación público-privada;
+
 VII. Convocante: Dependencia o entidad que convoque a un concurso para adjudicar un proyecto de asociación público-privada;
+
 VIII. Dependencias: Las secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal y los órganos reguladores coordinados en materia energética;
-Fracción reformada DOF 21-04-2016 IX. Desarrollador: Sociedad mercantil mexicana, con objeto exclusivo de desarrollar un determinado proyecto de asociación público-privada, con quien se celebre el contrato respectivo y a quien se otorguen, en su caso, las autorizaciones para desarrollar el proyecto;
+Fracción reformada DOF 21-04-2016
+
+IX. Desarrollador: Sociedad mercantil mexicana, con objeto exclusivo de desarrollar un determinado proyecto de asociación público-privada, con quien se celebre el contrato respectivo y a quien se otorguen, en su caso, las autorizaciones para desarrollar el proyecto;
+
 X. Entidades: Las entidades paraestatales de la Administración Pública Federal, los fideicomisos públicos federales no considerados entidades paraestatales, personas de derecho público federal con autonomía derivada de la Constitución, así como las entidades federativas y municipios;
+
 XI. Entidades Federativas: Los Estados de la Federación, el Distrito Federal, así como sus entes públicos;
+
 XII. Ley: La presente Ley de Asociaciones Público-Privadas;
+
 XIII. Municipios: Los municipios y sus entes públicos;
+
 XIV. Nivel de desempeño: Conjunto de especificaciones y parámetros de desempeño y calidad que deban satisfacerse en la prestación de un servicio, o en la construcción y ejecución de la infraestructura, que se realicen bajo el esquema de asociación público-privada;
-XV. Promotor: Persona que promueve, ante una instancia del sector público, un proyecto de asociación público-privada; y XVI. Reglamento: El Reglamento de la presente Ley.
+
+XV. Promotor: Persona que promueve, ante una instancia del sector público, un proyecto de asociación público-privada; y
+
+XVI. Reglamento: El Reglamento de la presente Ley.
 Capítulo Segundo De la Preparación e Inicio de los Proyectos Sección Primera De la Preparación de los Proyectos
 
 ### Artículo 13
 . Para realizar proyectos de asociación público-privada se requiere, en términos de la presente Ley:
+
 I. La celebración de un contrato de largo plazo, en el que se establezcan los derechos y obligaciones del ente público contratante, por un lado y los del o los desarrolladores que presten los servicios y, en su caso, ejecuten la obra, por el otro;
-II. Cuando así sea necesario, el otorgamiento de uno o varios permisos, concesiones o autorizaciones para el uso y explotación de los bienes públicos, la prestación de los servicios respectivos, o ambos; y III. En el caso de los proyectos referidos en el artículo 3, vinculados a innovación y desarrollo tecnológico, se requerirá además, la previa aprobación del Foro Consultivo Científico y Tecnológico previsto en la Ley de Ciencia y Tecnología. Para el análisis y aprobación de estos proyectos el Foro Consultivo Científico y Tecnológico deberá ajustarse a los principios orientadores del apoyo a la Investigación Científica, Desarrollo Tecnológico e Innovación previstos en esa ley.
+
+II. Cuando así sea necesario, el otorgamiento de uno o varios permisos, concesiones o autorizaciones para el uso y explotación de los bienes públicos, la prestación de los servicios respectivos, o ambos; y
+
+III. En el caso de los proyectos referidos en el artículo 3, vinculados a innovación y desarrollo tecnológico, se requerirá además, la previa aprobación del Foro Consultivo Científico y Tecnológico previsto en la Ley de Ciencia y Tecnología. Para el análisis y aprobación de estos proyectos el Foro Consultivo Científico y Tecnológico deberá ajustarse a los principios orientadores del apoyo a la Investigación Científica, Desarrollo Tecnológico e Innovación previstos en esa ley.
 
 ### Artículo 14
 . Los proyectos de asociaciones público-privadas serán viables cuando así lo determine la dependencia o entidad interesada, mediante dictamen que la misma emita. Para la elaboración de dicho dictamen, la dependencia o entidad deberá llevar a cabo los análisis siguientes:
-Párrafo reformado DOF 21-04-2016 I. La descripción del proyecto y viabilidad técnica del mismo;
+Párrafo reformado DOF 21-04-2016
+
+I. La descripción del proyecto y viabilidad técnica del mismo;
+
 II. Los inmuebles, bienes y derechos necesarios para el desarrollo del proyecto;
+
 III. Las autorizaciones para el desarrollo del proyecto que en su caso, resulten necesarias;
+
 IV. La viabilidad jurídica del proyecto;
+
 V. El impacto ambiental, la preservación y conservación del equilibrio ecológico y, en su caso, afectación de las áreas naturales o zonas protegidas, asentamientos humanos y desarrollo urbano del proyecto, así como su viabilidad en estos aspectos; por parte de las autoridades competentes. Este primer análisis será distinto a la manifestación de impacto ambiental correspondiente conforme a las disposiciones legales aplicables;
+
 VI. La rentabilidad social del proyecto;
+
 VII. Las estimaciones de inversión y aportaciones, en numerario y en especie, tanto federales y de los particulares como, en su caso, estatales y municipales;
-VIII. La viabilidad económica y financiera del proyecto; y IX. La conveniencia de llevar a cabo el proyecto mediante un esquema de asociación públicoprivada, en el que se incluya un análisis respecto de otras opciones.
+
+VIII. La viabilidad económica y financiera del proyecto; y
+
+IX. La conveniencia de llevar a cabo el proyecto mediante un esquema de asociación públicoprivada, en el que se incluya un análisis respecto de otras opciones.
 La información anterior deberá ser publicada en internet y ser presentada ante la Cámara de Diputados.
 La Secretaría de Hacienda y Crédito Público coordinará y publicará un registro para efectos estadísticos con la información contenida en los análisis a que se refieren las fracciones I a IX del presente artículo. Asimismo, publicará de manera sistemática la información siguiente:
-Párrafo reformado DOF 21-04-2016 a) Nombre del proyecto; b) Número de licitación y/o registro del sistema electrónico de información pública gubernamental CompraNet; c) Nombre del convocante; d) Nombre del desarrollador; e) Plazo del contrato de asociación público-privada; f) Monto total del proyecto; g) Monto de los pagos programados y ejecutados durante el ciclo de vida del proyecto; h) Indicadores asociados a la rentabilidad social, financiera y económica del proyecto, en los términos que determine el Reglamento; i) Resultado de la evaluación de la conveniencia a que se refiere la fracción IX del primer párrafo de este artículo, y Inciso reformado DOF 21-04-2016 j) Otra información que la Secretaría de Hacienda y Crédito Público considere relevante.
+Párrafo reformado DOF 21-04-2016
+
+a) Nombre del proyecto;
+
+b) Número de licitación y/o registro del sistema electrónico de información pública gubernamental CompraNet;
+
+c) Nombre del convocante;
+
+d) Nombre del desarrollador;
+
+e) Plazo del contrato de asociación público-privada;
+
+f) Monto total del proyecto;
+
+g) Monto de los pagos programados y ejecutados durante el ciclo de vida del proyecto;
+
+h) Indicadores asociados a la rentabilidad social, financiera y económica del proyecto, en los términos que determine el Reglamento;
+
+i) Resultado de la evaluación de la conveniencia a que se refiere la fracción IX del primer párrafo de este artículo, y Inciso reformado DOF 21-04-2016
+
+j) Otra información que la Secretaría de Hacienda y Crédito Público considere relevante.
 La información a que se refiere el párrafo anterior será de carácter público, a excepción de aquélla de naturaleza reservada o confidencial, en términos de la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables. Dicha información será publicada de manera permanente en el Portal de Transparencia Presupuestaria de la Secretaría de Hacienda y Crédito Público en formato de datos abiertos.
 Párrafo reformado DOF 21-04-2016 Asimismo, la Secretaría de Hacienda y Crédito Público reportará en los Informes Trimestrales sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública, en términos de las disposiciones jurídicas aplicables, la descripción de cada uno de los proyectos de asociación público-privada autorizados, los montos erogados o por erogar conforme a las proyecciones y estimaciones correspondientes, avance en la ejecución y calendario, así como en su caso, el monto anual de los pagos comprometidos durante la vigencia del contrato.
 Párrafo reformado DOF 21-04-2016 Reforma DOF 21-04-2016: Derogó del artículo el entonces párrafo quinto
 
 ### Artículo 15
 . En los estudios previos para preparar los proyectos de asociación público-privada, las dependencias y entidades considerarán:
+
 I. Los análisis de las autoridades competentes sobre el cumplimiento de las disposiciones de protección ambiental, preservación y conservación del equilibrio ecológico en los ámbitos federal, estatal y municipal, así como los efectos sobre el ambiente que pueda causar la ejecución de las obras, con sustento en la evaluación del impacto ambiental previsto por la Ley General del Equilibrio Ecológico y Protección al Ambiente y demás disposiciones aplicables.
 Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieren deteriorarse y se dará la intervención que corresponda a la Secretaría de Medio Ambiente y Recursos Naturales y demás autoridades federales, estatales y municipales que tengan atribuciones en la materia;
+
 II. El cumplimiento de las disposiciones de asentamientos humanos y desarrollo urbano, y en materia de construcción, en los ámbitos federal, estatal y municipal;
-III. El cumplimiento de las demás disposiciones que resulten aplicables, en los ámbitos federal, estatal y municipal; y IV. En el marco del sistema de planeación democrática del desarrollo nacional, la congruencia con el Plan Nacional de Desarrollo y el programa sectorial, institucional, regional o especial que corresponda.
+
+III. El cumplimiento de las demás disposiciones que resulten aplicables, en los ámbitos federal, estatal y municipal; y
+
+IV. En el marco del sistema de planeación democrática del desarrollo nacional, la congruencia con el Plan Nacional de Desarrollo y el programa sectorial, institucional, regional o especial que corresponda.
 
 ### Artículo 16
 . El análisis sobre los inmuebles, bienes y derechos necesarios para el desarrollo del proyecto, mencionado en la fracción II del artículo 14 de esta Ley, deberá referirse a los aspectos siguientes:
+
 I. Información del o de los registros públicos de la propiedad de ubicación de los inmuebles necesarios para el desarrollo del proyecto, relativa a la titularidad, gravámenes y anotaciones marginales de tales inmuebles;
+
 II. Factibilidad de adquirir los inmuebles y, en su caso, los demás bienes y derechos de que se trate;
+
 III. Estimación preliminar por la dependencia o entidad interesada, sobre el posible valor de los inmuebles, bienes y derechos necesarios para desarrollar el proyecto;
-IV. Análisis preliminar sobre el uso de suelo, sus modificaciones y problemática de los inmuebles de que se trate; y V. Una relación de los demás inmuebles, construcciones, instalaciones, equipos y otros bienes que resultarían afectados y el costo estimado de tales afectaciones.
+
+IV. Análisis preliminar sobre el uso de suelo, sus modificaciones y problemática de los inmuebles de que se trate; y
+
+V. Una relación de los demás inmuebles, construcciones, instalaciones, equipos y otros bienes que resultarían afectados y el costo estimado de tales afectaciones.
 
 ### Artículo 17
 . Para evaluar la conveniencia de llevar a cabo un proyecto mediante esquemas de asociación público-privada conforme a lo dispuesto en la fracción IX del artículo 14 de esta Ley, la dependencia o entidad interesada aplicará los lineamientos que al efecto determine la Secretaría de Hacienda y Crédito Público.
@@ -148,8 +221,18 @@ Para que opere la afirmativa ficta señalada en este artículo, al solicitar cad
 
 ### Artículo 23
 . El procedimiento de contratación de un proyecto de asociación público-privada sólo podrá iniciarse conforme a lo siguiente:
-I. Tratándose de proyectos de asociación público-privada que involucren recursos del Presupuesto de Egresos de la Federación, cuando cuenten con: a) El dictamen de viabilidad a que se refiere el artículo 14 de esta Ley; b) El registro en la cartera de inversión a que se refiere el artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y c) La autorización de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, en términos del artículo 24 de esta Ley;
-II. En el caso de proyectos de asociación público-privada que involucren recursos públicos federales en numerario, distintos a los previstos en el Presupuesto de Egresos de la Federación, deberán contar con los requisitos previstos en los incisos a) y b) de la fracción anterior, y III. Tratándose de proyectos de asociación público-privada que involucren recursos públicos federales distintos a numerario, deberán contar con el dictamen de viabilidad, en términos del
+
+I. Tratándose de proyectos de asociación público-privada que involucren recursos del Presupuesto de Egresos de la Federación, cuando cuenten con:
+
+a) El dictamen de viabilidad a que se refiere el artículo 14 de esta Ley;
+
+b) El registro en la cartera de inversión a que se refiere el artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y
+
+c) La autorización de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, en términos del artículo 24 de esta Ley;
+
+II. En el caso de proyectos de asociación público-privada que involucren recursos públicos federales en numerario, distintos a los previstos en el Presupuesto de Egresos de la Federación, deberán contar con los requisitos previstos en los incisos a) y b) de la fracción anterior, y
+
+III. Tratándose de proyectos de asociación público-privada que involucren recursos públicos federales distintos a numerario, deberán contar con el dictamen de viabilidad, en términos del
 
 ### artículo 14
 de la presente Ley.
@@ -177,8 +260,28 @@ Párrafo reformado DOF 21-04-2016
 
 ### Artículo 27
 . Las propuestas a que se refiere el artículo anterior, deberán cumplir los requisitos siguientes:
-I. Se presentarán acompañadas con el estudio preliminar de factibilidad que deberá incluir los aspectos siguientes: a) Descripción del proyecto que se propone, con sus características y viabilidad técnicas; b) Descripción de las autorizaciones para la ejecución de la obra que, en su caso, resultarían necesarias, con especial mención a las autorizaciones de uso de suelo de los inmuebles de que se trate, sus modificaciones y la eventual problemática de adquisición de éstos; c) La viabilidad jurídica del proyecto; d) En su caso, la rentabilidad social del proyecto; e) La conveniencia de llevar a cabo el proyecto mediante un esquema de asociación públicoprivada; f) Las estimaciones de inversión y aportaciones, en efectivo y en especie, tanto federales y de los particulares como, en su caso, estatales y municipales, en las que se haga referencia al costo estimado de adquisición de los inmuebles, bienes y derechos necesarios para el proyecto; g) La viabilidad económica y financiera del proyecto, y h) Las características esenciales del contrato de asociación público-privada a celebrar. En el evento de que la propuesta considere la participación de dos o más personas morales del sector privado, las responsabilidades de cada participante de dicho sector;
-II. Los proyectos se encuentren en los supuestos señalados en los acuerdos que, en su caso, la dependencia o entidad competente haya expedido conforme al segundo párrafo del artículo 26 de esta Ley, y III. No se trate de propuestas no solicitadas previamente presentadas y ya resueltas.
+
+I. Se presentarán acompañadas con el estudio preliminar de factibilidad que deberá incluir los aspectos siguientes:
+
+a) Descripción del proyecto que se propone, con sus características y viabilidad técnicas;
+
+b) Descripción de las autorizaciones para la ejecución de la obra que, en su caso, resultarían necesarias, con especial mención a las autorizaciones de uso de suelo de los inmuebles de que se trate, sus modificaciones y la eventual problemática de adquisición de éstos;
+
+c) La viabilidad jurídica del proyecto;
+
+d) En su caso, la rentabilidad social del proyecto;
+
+e) La conveniencia de llevar a cabo el proyecto mediante un esquema de asociación públicoprivada;
+
+f) Las estimaciones de inversión y aportaciones, en efectivo y en especie, tanto federales y de los particulares como, en su caso, estatales y municipales, en las que se haga referencia al costo estimado de adquisición de los inmuebles, bienes y derechos necesarios para el proyecto;
+
+g) La viabilidad económica y financiera del proyecto, y
+
+h) Las características esenciales del contrato de asociación público-privada a celebrar. En el evento de que la propuesta considere la participación de dos o más personas morales del sector privado, las responsabilidades de cada participante de dicho sector;
+
+II. Los proyectos se encuentren en los supuestos señalados en los acuerdos que, en su caso, la dependencia o entidad competente haya expedido conforme al segundo párrafo del artículo 26 de esta Ley, y
+
+III. No se trate de propuestas no solicitadas previamente presentadas y ya resueltas.
 El Reglamento señalará los alcances de los requisitos mencionados en las fracciones del párrafo anterior, sin que pueda establecer requisitos adicionales.
 Si la propuesta no solicitada incumple alguno de los requisitos a que se refiere este artículo, o los estudios se encuentran incompletos, no será analizada.
 En los informes trimestrales que el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, presente al Congreso de la Unión, se deberán señalar las propuestas no solicitadas que las dependencias y entidades hayan recibido durante el período que se reporta, que cumplan con todos los requisitos establecidos en el presente artículo.
@@ -199,15 +302,25 @@ La aludida opinión se notificará al promotor y deberá publicarse en la págin
 
 ### Artículo 31
 . Si la propuesta no solicitada es procedente y la dependencia o entidad decide celebrar el concurso, éste se realizará conforme a lo previsto en el capítulo cuarto de la presente Ley y las disposiciones siguientes:
-Párrafo reformado DOF 21-04-2016 I. La dependencia o entidad convocante entregará al promotor del proyecto un certificado en el que se indicará el nombre del beneficiario, monto, plazo y demás condiciones para el reembolso de los gastos incurridos por los estudios realizados, para el evento de que el promotor no resulte ganador o no participe en el concurso. Este reembolso será con cargo al adjudicatario del contrato, en los términos que se indiquen en las bases del concurso.
+Párrafo reformado DOF 21-04-2016
+
+I. La dependencia o entidad convocante entregará al promotor del proyecto un certificado en el que se indicará el nombre del beneficiario, monto, plazo y demás condiciones para el reembolso de los gastos incurridos por los estudios realizados, para el evento de que el promotor no resulte ganador o no participe en el concurso. Este reembolso será con cargo al adjudicatario del contrato, en los términos que se indiquen en las bases del concurso.
 Contra entrega de este certificado, todos los derechos relativos a los estudios presentados pasarán al dominio de la dependencia o entidad convocante;
+
 II. El promotor suscribirá declaración unilateral de voluntad, irrevocable, en la que se obligue a: a. Otorgar sin limitación alguna toda la información relativa al proyecto, que le sea solicitada por cualquier postor en el concurso, incluyendo hojas de trabajo y demás documentos conceptuales o proyectos alternos; y b. Ceder los derechos y otorgar las autorizaciones en materia de derechos de autor y propiedad industrial, así como cualquier otra para que el proyecto pueda desarrollarse en el evento de que el ganador del concurso sea distinto al mismo promotor;
+
 III. La dependencia o entidad podrá contratar con terceros, conforme al artículo 20 de esta Ley, la evaluación de los proyectos o la realización de estudios complementarios que se requieran para convocar al concurso;
-Fracción reformada DOF 21-04-2016 IV. La convocatoria al concurso se realizará siempre y cuando se hayan cumplido todos los requisitos de la sección primera del capítulo segundo de esta Ley y de las fracciones I y II del presente artículo.
+Fracción reformada DOF 21-04-2016
+
+IV. La convocatoria al concurso se realizará siempre y cuando se hayan cumplido todos los requisitos de la sección primera del capítulo segundo de esta Ley y de las fracciones I y II del presente artículo.
 Si el concurso no se convoca por causa imputable al promotor, éste perderá en favor de las dependencias o entidades convocantes todos sus derechos sobre los estudios presentados incluso si el proyecto se concursa- y se hará efectiva la garantía de seriedad en los términos que determine el reglamento;
+
 V. El promotor que presentó la propuesta con base en la cual se realiza el concurso, tendrá un premio en la evaluación de su oferta, que se establecerá en las bases y que no podrá exceder del equivalente a un diez por ciento en relación con los criterios señalados para adjudicar el contrato.
 El Reglamento establecerá métodos y procedimientos para calcular este premio;
-VI. En el evento de que en el concurso sólo participe el promotor, podrá adjudicársele el contrato, siempre que haya cumplido con todos los requisitos previstos en las bases del citado concurso, y VII. En caso de que se declare desierto el concurso y que la dependencia o entidad convocante decida no adquirir los derechos sobre los estudios presentados, se procederá a cancelar el certificado a que se refiere la fracción I del presente artículo y a devolver al promotor los estudios que éste haya presentado.
+
+VI. En el evento de que en el concurso sólo participe el promotor, podrá adjudicársele el contrato, siempre que haya cumplido con todos los requisitos previstos en las bases del citado concurso, y
+
+VII. En caso de que se declare desierto el concurso y que la dependencia o entidad convocante decida no adquirir los derechos sobre los estudios presentados, se procederá a cancelar el certificado a que se refiere la fracción I del presente artículo y a devolver al promotor los estudios que éste haya presentado.
 
 ### Artículo 32
 . Si el proyecto se considera procedente, pero la dependencia o entidad decide no celebrar el concurso, en su caso podrá ofrecer bajo su responsabilidad al promotor adquirir, previa autorización escrita e indelegable del titular de la dependencia o entidad debidamente motivada y justificada, los estudios realizados, junto con los derechos de autor y de propiedad industrial correspondientes, mediante reembolso de todo o parte de los costos incurridos. La motivación y justificación deberá acreditar, de manera expresa, la congruencia del proyecto con el Plan Nacional de Desarrollo, así como con los programas que de éste derivan.
@@ -252,12 +365,22 @@ Dos o más personas podrán presentar, como consorcio, una propuesta conjunta, e
 
 ### Artículo 42
 . No podrán participar en los concursos, ni recibir adjudicación para desarrollar un proyecto de asociación público-privada, las personas siguientes:
+
 I. Aquellas en las que algún servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, o bien de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos o por afinidad hasta el cuarto grado, o civil, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
+
 II. Las personas condenadas, mediante sentencia firme dentro de los tres años inmediatos anteriores a la fecha de la convocatoria, por incumplimiento de contratos celebrados con dependencias o entidades federales;
+
 III. Aquellas que, por causas imputables a ellas mismas, alguna dependencia o entidad federal les hubiere rescindido administrativamente un contrato, dentro del año calendario inmediato anterior a la convocatoria;
+
 IV. Las que por causas imputables a ellas mismas se encuentren en situación de mora en el cumplimiento de sus obligaciones en contratos celebrados con dependencias o entidades federales;
+
 V. Las que se encuentren inhabilitadas por la Secretaría de la Función Pública en los términos del título séptimo de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, del título sexto de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, o de la sección cuarta del capítulo décimo primero de la presente Ley;
-VI. Las que contraten servicios de cualquier naturaleza, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez, son recibidas por servidores públicos por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación, VII. Las que hayan sido declaradas en concurso mercantil, ni VIII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
+
+VI. Las que contraten servicios de cualquier naturaleza, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez, son recibidas por servidores públicos por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación,
+
+VII. Las que hayan sido declaradas en concurso mercantil, ni
+
+VIII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
 ### Artículo 43
 . Cualquier persona podrá asistir a los diferentes actos del concurso, en calidad de observador, previo registro de su participación ante la convocante. Los observadores se abstendrán de intervenir en cualquier forma en el concurso.
@@ -266,31 +389,55 @@ Sección Segunda De la Convocatoria y Bases de los Concursos
 
 ### Artículo 44
 . La convocatoria al concurso contendrá, por lo menos, los elementos siguientes:
+
 I. El nombre de la convocante, y la indicación de tratarse de un concurso y un proyecto de asociación público-privada, regidos por la presente Ley;
+
 II. La descripción general del proyecto, con indicación de los servicios a prestar y, en su caso, de la infraestructura a construir;
-III. Las fechas previstas para el concurso, los plazos de la prestación de los servicios y, en su caso, de la ejecución de las obras de infraestructura, así como las fechas estimadas para el inicio de una y otra; y IV. Los lugares, fechas y horarios en que los interesados podrán adquirir las bases del concurso.
+
+III. Las fechas previstas para el concurso, los plazos de la prestación de los servicios y, en su caso, de la ejecución de las obras de infraestructura, así como las fechas estimadas para el inicio de una y otra; y
+
+IV. Los lugares, fechas y horarios en que los interesados podrán adquirir las bases del concurso.
 La publicación de la convocatoria se realizará a través de la página de difusión electrónica -Internetde la dependencia o entidad convocante, en el Diario Oficial de la Federación, en CompraNet, en un diario de circulación nacional y en otro de la entidad federativa en donde se vaya a desarrollar el proyecto.
 En proyectos conjuntos con entidades federativas y municipios, también deberán publicarse en los medios de difusión oficiales de cada uno de éstos.
 La adquisición de las bases será requisito indispensable para participar en el concurso.
 
 ### Artículo 45
 . Las bases del concurso contendrán, por lo menos, los elementos siguientes:
+
 I. Los necesarios para que los participantes estén en posibilidad de elaborar sus propuestas, que comprenderán, por lo menos; a. Las características y especificaciones técnicas, así como los niveles mínimos de desempeño de los servicios a prestar; y b. En su caso, las características y especificaciones técnicas para la construcción y ejecución de las obras de infraestructura de que se trate.
 En caso de información que no pueda ser proporcionada a través de CompraNet, la indicación de que la misma estará a disposición de los interesados en el domicilio que señale la convocante;
+
 II. Los inmuebles, bienes y derechos necesarios para el desarrollo del proyecto y, en su caso, el responsable de su obtención;
+
 III. El plazo de la prestación de los servicios y, en su caso, de la ejecución de las obras de infraestructura, con indicación de las fechas estimadas de inicio de una y otra;
+
 IV. En su caso, los términos y condiciones en que los trabajos y servicios podrán subcontratarse;
+
 V. El proyecto del contrato, con los derechos y obligaciones de las partes, así como la distribución de riesgos del proyecto;
+
 VI. Los proyectos de autorizaciones que, en su caso, se requieran para el desarrollo del proyecto de asociación público-privada que corresponda otorgar a la convocante;
+
 VII. La forma en que los participantes acreditarán su capacidad legal, experiencia y capacidad técnica, administrativa, económica y financiera, que se requieran de acuerdo con las características, complejidad y magnitud del proyecto;
+
 VIII. La obligación de constituir la persona moral en términos del artículo 91 de esta Ley, si participa una persona distinta a las mencionadas en el citado artículo;
+
 IX. Las garantías que los participantes deban otorgar;
+
 X. Cuando procedan, lugar, fecha y hora para la visita o visitas al sitio de realización de los trabajos;
+
 XI. La fecha, hora y lugar de la o las juntas de aclaraciones, de la presentación de las propuestas, de la apertura de éstas, de la comunicación del fallo y de la firma del contrato;
+
 XII. El idioma o idiomas, además del español, en que en su caso las propuestas podrán presentarse;
+
 XIII. La moneda o monedas en que, en su caso, las propuestas podrán presentarse;
-XIV. La relación de documentos que los concursantes deberán presentar con sus propuestas, XV. Los criterios, claros y detallados, para la evaluación objetiva de las propuestas y la adjudicación del proyecto, de conformidad con lo señalado en los artículos 52 y 54 de esta Ley. En estos criterios se señalará el coeficiente de integración de producto nacional que deberán cumplir los participantes de conformidad con el tipo de proyecto de que se trate, procurando la mayor integración de contenido nacional posible, respetando lo dispuesto en los tratados internacionales.
-XVI. Las causas de descalificación de los participantes; y XVII. Los demás elementos generales, estrictamente indispensables, que el Reglamento establezca, para que los concursos cumplan con los principios mencionados en el artículo 38 anterior.
+
+XIV. La relación de documentos que los concursantes deberán presentar con sus propuestas,
+
+XV. Los criterios, claros y detallados, para la evaluación objetiva de las propuestas y la adjudicación del proyecto, de conformidad con lo señalado en los artículos 52 y 54 de esta Ley. En estos criterios se señalará el coeficiente de integración de producto nacional que deberán cumplir los participantes de conformidad con el tipo de proyecto de que se trate, procurando la mayor integración de contenido nacional posible, respetando lo dispuesto en los tratados internacionales.
+
+XVI. Las causas de descalificación de los participantes; y
+
+XVII. Los demás elementos generales, estrictamente indispensables, que el Reglamento establezca, para que los concursos cumplan con los principios mencionados en el artículo 38 anterior.
 
 ### Artículo 46
 . Ninguna de las condiciones contenidas en la convocatoria, en las propias bases y sus anexos, ni en las propuestas de los participantes, serán objeto de negociación, salvo lo dispuesto en el capítulo octavo de la presente Ley.
@@ -301,9 +448,14 @@ Las garantías que, en su caso, los participantes deban otorgar no deberán exce
 
 ### Artículo 48
 . Las modificaciones a las bases del concurso que, en su caso, la convocante realice deberán ajustarse a lo siguiente:
+
 I. Únicamente tendrán por objeto facilitar la presentación de las propuestas y la conducción de los actos del concurso;
+
 II. No deberán implicar limitación en el número de participantes en el concurso;
-III. Deberán notificarse a cada uno de los participantes, a más tardar el décimo día hábil previo a la presentación de las propuestas. De ser necesario, la fecha señalada para la presentación y apertura de las propuestas podrá diferirse; y IV. Darán oportunidad a los participantes de retirarse del concurso, sin que ello implique incumplimiento o hacer efectiva garantía alguna.
+
+III. Deberán notificarse a cada uno de los participantes, a más tardar el décimo día hábil previo a la presentación de las propuestas. De ser necesario, la fecha señalada para la presentación y apertura de las propuestas podrá diferirse; y
+
+IV. Darán oportunidad a los participantes de retirarse del concurso, sin que ello implique incumplimiento o hacer efectiva garantía alguna.
 Las modificaciones así realizadas formarán parte de la convocatoria y bases del concurso, por lo que deberán ser consideradas por los concursantes en la elaboración de sus propuestas.
 Sección Tercera De la Presentación de las Propuestas
 
@@ -352,21 +504,34 @@ Si el error no fuere susceptible de corregirse conforme a lo dispuesto en el pá
 
 ### Artículo 57
 . Serán causas de descalificación, además de las que se indiquen en las bases:
+
 I. El incumplimiento de alguno de los requisitos establecidos en las bases, con las salvedades señaladas en el artículo 52 de esta Ley;
+
 II. Las que hayan utilizado información privilegiada;
-III. Si iniciado el concurso sobreviene una causa de inhabilitación prevista en el artículo 42 de esta Ley; y IV. Si alguno de los participantes acuerda con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja indebida sobre los demás participantes.
+
+III. Si iniciado el concurso sobreviene una causa de inhabilitación prevista en el artículo 42 de esta Ley; y
+
+IV. Si alguno de los participantes acuerda con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja indebida sobre los demás participantes.
 
 ### Artículo 58
 . La convocante procederá a declarar desierto el concurso, cuando todas las propuestas no reúnan los requisitos solicitados en las bases, o cuando sus ofertas económicas no fueren aceptables.
 La convocante podrá cancelar un concurso:
+
 I. Por caso fortuito o fuerza mayor;
+
 II. Cuando se modifiquen sustancialmente las condiciones para el desarrollo del proyecto;
-III. Cuando se extinga la necesidad de ejecutarlo, o IV. Cuando se presenten circunstancias que, de continuarse con el procedimiento, pudieren ocasionar un daño o perjuicio a la propia convocante.
+
+III. Cuando se extinga la necesidad de ejecutarlo, o
+
+IV. Cuando se presenten circunstancias que, de continuarse con el procedimiento, pudieren ocasionar un daño o perjuicio a la propia convocante.
 Salvo por las cancelaciones señaladas por la fracción I, la convocante cubrirá a los licitantes, los gastos no recuperables que, en su caso, procedan en términos de lo dispuesto por el Reglamento.
 
 ### Artículo 59
 . Contra el fallo que adjudique el concurso procederá, a elección del participante interesado:
-I. El recurso administrativo de revisión, de conformidad con la Ley Federal de Procedimiento Administrativo; o II. El juicio contencioso administrativo federal, de conformidad con la Ley Federal de Procedimiento Contencioso Administrativo.
+
+I. El recurso administrativo de revisión, de conformidad con la Ley Federal de Procedimiento Administrativo; o
+
+II. El juicio contencioso administrativo federal, de conformidad con la Ley Federal de Procedimiento Contencioso Administrativo.
 Fracción reformada DOF 21-04-2016 Contra las demás resoluciones de la convocante emitidas durante el concurso no procederá instancia ni medio ordinario de defensa alguno y, en caso de alguna irregularidad en tales resoluciones, ésta podrá ser combatida con motivo del fallo.
 Sección Quinta De los Actos Posteriores al Fallo
 
@@ -379,9 +544,16 @@ En el evento de que el contrato no se suscriba en el plazo señalado, por causa 
 
 ### Artículo 62
 . Los medios de defensa, ordinarios o extraordinarios, mediante los cuales se pretenda impugnar el fallo, solamente suspenderán el concurso o la obra en curso, cuando concurran los requisitos siguientes:
+
 I. Que la solicite el agraviado;
+
 II. Que no se afecte el interés social, ni se contravengan disposiciones de orden público.
-Se considera, entre otros casos, que se siguen esos perjuicios o se realizan esas contravenciones, cuando: a) El proyecto involucre la prestación de un servicio público de necesidad inminente, o b) Se ponga en riesgo la rentabilidad social del proyecto o su ejecución misma.
+Se considera, entre otros casos, que se siguen esos perjuicios o se realizan esas contravenciones, cuando:
+
+a) El proyecto involucre la prestación de un servicio público de necesidad inminente, o
+
+b) Se ponga en riesgo la rentabilidad social del proyecto o su ejecución misma.
+
 III. Que sean de difícil reparación los daños o perjuicios que se causen al agraviado con la ejecución del acto.
 La suspensión sólo será procedente si el solicitante otorga garantía suficiente sobre los daños y perjuicios que la misma pudiere ocasionar.
 Dicha garantía no deberá ser menor al diez ni mayor al treinta por ciento del monto de la propuesta económica del inconforme y cuando no sea posible determinar dicho monto, del presupuesto autorizado para la contratación de que se trate.
@@ -395,11 +567,18 @@ Sección Sexta De las Excepciones al Concurso
 
 ### Artículo 64
 . Las dependencias y entidades, bajo su responsabilidad, podrán adjudicar proyectos de asociación público-privada, sin sujetarse al procedimiento de concurso a que se refiere el presente capítulo, a través de invitación a cuando menos tres personas o de adjudicación directa, cuando:
+
 I. No existan opciones suficientes de desarrollo de infraestructura o equipamiento, o bien, que en el mercado sólo exista un posible oferente, o se trate de una persona que posea la titularidad exclusiva de patentes, derechos de autor, u otros derechos exclusivos;
+
 II. Se realicen con fines exclusivamente militares o para la armada, o su contratación mediante concurso ponga en riesgo la seguridad nacional o la seguridad pública, en los términos de las leyes de la materia;
+
 III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, cuantificables y comprobables;
+
 IV. Se haya rescindido un proyecto adjudicado a través de concurso, antes de su inicio, en cuyo caso el proyecto podrá adjudicarse al concursante que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con la propuesta inicialmente ganadora no sea superior al diez por ciento. Tratándose de concursos con puntos y porcentajes para la evaluación, se podrá adjudicar a la propuesta que siga en calificación a la del ganador;
-V. Se trate de la sustitución de un desarrollador por causas de terminación anticipada o rescisión de un proyecto de asociación público-privada en marcha; y VI. Se acredite la celebración de una alianza estratégica que lleven a cabo las dependencias y entidades con personas morales dedicadas a la ingeniería, la investigación y a la transferencia y desarrollo de tecnología, a fin de aplicar las innovaciones tecnológicas en la infraestructura nacional.
+
+V. Se trate de la sustitución de un desarrollador por causas de terminación anticipada o rescisión de un proyecto de asociación público-privada en marcha; y
+
+VI. Se acredite la celebración de una alianza estratégica que lleven a cabo las dependencias y entidades con personas morales dedicadas a la ingeniería, la investigación y a la transferencia y desarrollo de tecnología, a fin de aplicar las innovaciones tecnológicas en la infraestructura nacional.
 La adjudicación de los proyectos a que se refiere este artículo se realizará preferentemente a través de invitación a cuando menos tres personas, salvo que las circunstancias particulares ameriten realizarlas mediante adjudicación directa.
 No procederá la adjudicación directa tratándose de propuestas no solicitadas a que se refiere el capítulo tercero de la presente Ley.
 Párrafo reformado DOF 21-04-2016
@@ -420,9 +599,14 @@ La adquisición de tales inmuebles, bienes y derechos se hará a través de la v
 ### Artículo 68
 . Para proceder a la adquisición a través de la vía convencional o, en su caso, a la expropiación de los inmuebles, bienes y derechos necesarios para el proyecto de asociación públicoprivada, se solicitará avalúo de los mismos al Instituto de Administración y Avalúos de Bienes Nacionales o a las instituciones de crédito del país que se encuentren autorizadas, o a corredores públicos o profesionistas con postgrado en valuación, en los términos que indique el Reglamento.
 Los avalúos citados podrán considerar, entre otros factores:
+
 I. La previsión de que el proyecto a desarrollar generará, dentro de su zona de influencia, una plusvalía futura de los inmuebles, bienes y derechos de que se trate;
+
 II. La existencia de características en los inmuebles, bienes y derechos por adquirir que, sin reflejarse en su valor comercial, los hace técnicamente idóneos para el desarrollo del proyecto de que se trate;
-III. La afectación en la porción remanente de los inmuebles, bienes o derechos del cual forme parte la fracción por adquirir; y IV. Los gastos complementarios no previstos en el valor comercial, para que los afectados sustituyan los inmuebles, bienes y derechos por adquirir, cuando sea necesaria la emigración de los afectados.
+
+III. La afectación en la porción remanente de los inmuebles, bienes o derechos del cual forme parte la fracción por adquirir; y
+
+IV. Los gastos complementarios no previstos en el valor comercial, para que los afectados sustituyan los inmuebles, bienes y derechos por adquirir, cuando sea necesaria la emigración de los afectados.
 La aplicación de los factores citados en las fracciones anteriores se hará en términos que el Reglamento señale.
 En ningún caso el valor de adquisición o de expropiación será menor al valor fiscal de los inmuebles y, en su caso, bienes y derechos de que se trate.
 Los avalúos tendrán una vigencia de un año, vencido el cual, procederá su actualización.
@@ -479,17 +663,26 @@ La previa negociación en términos de la sección anterior no es requisito para
 
 ### Artículo 81
 . La expropiación se llevará a cabo conforme a las disposiciones siguientes:
+
 I. La dependencia responsable tramitará el expediente de expropiación, en el que conste la declaratoria de utilidad pública a que se refiere la sub sección primera inmediata anterior. En caso de una entidad, solicitará la tramitación del expediente a la dependencia coordinadora de sector.
 En el supuesto de bienes sujetos al régimen comunal o ejidal, el expediente de expropiación será tramitado por la Secretaría de la Reforma Agraria;
+
 II. En el caso de inmuebles, bienes y derechos objeto de registro, iniciado el procedimiento de expropiación, la dependencia que tramite el expediente podrá solicitar al respectivo registro que realice la anotación preventiva correspondiente;
+
 III. El Ejecutivo federal llevará a cabo la expropiación, mediante decreto en el que aluda a la declaración de utilidad pública y señale el monto de la indemnización correspondiente;
+
 IV. El importe de la indemnización se fijará con base en el avalúo mencionado en el artículo 68 de esta Ley;
+
 V. El decreto de expropiación se publicará en el Diario Oficial de la Federación, en el órgano oficial de la localidad respectiva y se notificará personalmente a los titulares de los inmuebles, bienes y derechos expropiados.
 De ignorarse quienes son los titulares, su domicilio o localización, surtirá efectos de notificación personal una segunda publicación del decreto en el mismo Diario Oficial de la Federación y en el órgano oficial de la localidad respectiva. Entre la primera y segunda publicaciones deberán transcurrir no menos de cinco ni más de veinte días hábiles;
+
 VI. La autoridad administrativa procederá a la ocupación de los inmuebles, bienes y derechos expropiados y, en su caso, dará posesión de los mismos al desarrollador del proyecto, a partir del día de notificación del respectivo decreto de expropiación.
 En caso de bienes sujetos al régimen comunal o ejidal, éstos sólo podrán ser ocupados previo pago o depósito del importe de la indemnización, que se hará de preferencia en el Fondo Nacional de Fomento Ejidal o, en su defecto, mediante garantía suficiente;
+
 VII. La indemnización deberá pagarse, a más tardar, dentro de los cuarenta y cinco días hábiles siguientes a la fecha de publicación del decreto de expropiación.
-Cuando se trate de bienes sujetos al régimen comunal o ejidal, la indemnización deberá pagarse de inmediato, una vez publicado el decreto de expropiación, y VIII. El procedimiento previsto en el presente artículo será aplicable en el régimen de propiedad privada, comunal o ejidal de los inmuebles, bienes y derechos expropiados.
+Cuando se trate de bienes sujetos al régimen comunal o ejidal, la indemnización deberá pagarse de inmediato, una vez publicado el decreto de expropiación, y
+
+VIII. El procedimiento previsto en el presente artículo será aplicable en el régimen de propiedad privada, comunal o ejidal de los inmuebles, bienes y derechos expropiados.
 Cuando la expropiación verse sobre bienes sujetos al régimen comunal o ejidal, prevalecerá lo dispuesto en la presente ley y sólo en lo no previsto por la misma, se aplicarán de manera supletoria las disposiciones en materia de expropiación contenidas en la Ley Agraria y su Reglamento.
 
 ### Artículo 82
@@ -514,7 +707,9 @@ En el evento de que, hecha la expropiación, alguien demuestre un mejor derecho 
 ### Artículo 86
 . Si dentro de un plazo de cinco años contados a partir de la fecha del decreto respectivo, los inmuebles, bienes y derechos expropiados no fueren destinados total o parcialmente al proyecto que dio origen a la expropiación, los afectados podrán solicitar a la autoridad que tramitó el expediente, la reversión total o parcial, o el pago de los daños y perjuicios causados.
 La solicitud de reversión deberá presentarse:
+
 I. Dentro del año inmediato siguiente al vencimiento del plazo de cinco años mencionado en el primer párrafo del presente artículo, o bien;
+
 II. Dentro del año inmediato siguiente a la fecha en que los inmuebles, bienes y derechos expropiados se destinen a un fin distinto, cuando ello suceda dentro del plazo de cinco años antes citado.
 La autoridad que tramitó el expediente dictará resolución dentro de los cuarenta y cinco días hábiles siguientes a la presentación de la solicitud.
 De proceder la reversión, total o parcial, el Reglamento indicará los elementos para determinar el importe y actualización de la indemnización que el interesado deberá devolver, así como la cantidad que el propio interesado tiene derecho a recibir por concepto de los daños que le hayan sido originados.
@@ -522,7 +717,16 @@ Capítulo Sexto De las Asociaciones Público-Privadas Sección Primera De las Au
 
 ### Artículo 87
 . Cuando en un proyecto de asociación público-privada el uso de bienes públicos o la prestación de los servicios por parte del o de los desarrolladores requieran de permisos, concesiones u otras autorizaciones, éstos se otorgarán conforme a las disposiciones que los regulen, con las salvedades siguientes:
-I. Su otorgamiento se realizará mediante el procedimiento de concurso previsto en la presente Ley; y II. La vigencia de cada una de las autorizaciones para la prestación de los servicios se sujetará a lo siguiente: a) Cuando el plazo inicial máximo que establezca la ley que regula la autorización sea menor o igual al plazo de cuarenta años, aplicará éste último; b) Cuando la ley que rige la autorización establezca un plazo inicial máximo mayor al de cuarenta años, aplicará el plazo mayor, y c) Independientemente del plazo inicial por el que se otorgue la autorización, su duración, con las prórrogas que en su caso se otorguen conforme a la ley de la materia, no podrá exceder el plazo máximo señalado por dicha ley.
+
+I. Su otorgamiento se realizará mediante el procedimiento de concurso previsto en la presente Ley; y
+
+II. La vigencia de cada una de las autorizaciones para la prestación de los servicios se sujetará a lo siguiente:
+
+a) Cuando el plazo inicial máximo que establezca la ley que regula la autorización sea menor o igual al plazo de cuarenta años, aplicará éste último;
+
+b) Cuando la ley que rige la autorización establezca un plazo inicial máximo mayor al de cuarenta años, aplicará el plazo mayor, y
+
+c) Independientemente del plazo inicial por el que se otorgue la autorización, su duración, con las prórrogas que en su caso se otorguen conforme a la ley de la materia, no podrá exceder el plazo máximo señalado por dicha ley.
 
 ### Artículo 88
 . Las autorizaciones antes citadas que, en su caso, sea necesario otorgar, contendrán únicamente las condiciones mínimas indispensables que, conforme a las disposiciones que las regulan, permitan al desarrollador el uso de los bienes o la prestación de los servicios del proyecto.
@@ -542,41 +746,76 @@ Párrafo reformado DOF 21-04-2016
 
 ### Artículo 92
 . El contrato de asociación público-privada deberá contener, como mínimo:
+
 I. Nombre, datos de identificación y capacidad jurídica de las partes;
+
 II. Personalidad de los representantes legales de las partes;
+
 III. El objeto del contrato;
+
 IV. Los derechos y obligaciones de las partes;
+
 V. Las características, especificaciones, estándares técnicos, niveles de desempeño y calidad para la ejecución de la obra y prestación de los servicios;
+
 VI. La relación de los inmuebles, bienes y derechos afectos al proyecto y su destino a la terminación del contrato, de conformidad con lo señalado en el artículo 123 de esta Ley y la obligación de mantener dicha relación actualizada;
+
 VII. El régimen financiero del proyecto, con las contraprestaciones a favor del desarrollador;
+
 VIII. La mención de que los inmuebles, bienes y derechos del proyecto sólo podrán ser afectados en términos del artículo 93 siguiente;
+
 IX. Los términos y condiciones conforme a los cuales el desarrollador deberá pactar con sus respectivos acreedores, en caso de incumplimiento frente a éstos, la transferencia temporal del control de la propia sociedad desarrolladora a los acreedores de ésta, previa autorización de la dependencia o entidad contratante;
-Fracción reformada DOF 21-04-2016 X. El régimen de distribución de riesgos, técnicos, de ejecución de la obra, financieros, por caso fortuito o fuerza mayor y de cualquier otra naturaleza, entre las partes, que en todo caso deberá ser equilibrado. Las dependencias y entidades no podrán garantizar a los desarrolladores ningún pago por concepto de riesgos distintos de los establecidos en el contrato o bien establecidos por mecanismos diferentes de los señalados por esta ley y su reglamento;
+Fracción reformada DOF 21-04-2016
+
+X. El régimen de distribución de riesgos, técnicos, de ejecución de la obra, financieros, por caso fortuito o fuerza mayor y de cualquier otra naturaleza, entre las partes, que en todo caso deberá ser equilibrado. Las dependencias y entidades no podrán garantizar a los desarrolladores ningún pago por concepto de riesgos distintos de los establecidos en el contrato o bien establecidos por mecanismos diferentes de los señalados por esta ley y su reglamento;
+
 XI. El plazo para el inicio y terminación de la obra, para el inicio en la prestación de los servicios, así como el plazo de vigencia del contrato y, en su caso, el régimen para prorrogarlos;
+
 XII. La indicación de las autorizaciones para el desarrollo del proyecto;
+
 XIII. Los supuestos de rescisión y terminación anticipada del contrato y sus efectos, incluyendo las obligaciones, reembolsos y penas convencionales que, según sea el caso, deriven de las mismas, así como los términos y condiciones para realizarlas;
-Fracción reformada DOF 21-04-2016 XIV. El régimen de penas convencionales y de sanciones por incumplimiento de las obligaciones de las partes;
-XV. Los procedimientos de solución de controversias; y XVI. Los demás que, en su caso, el Reglamento establezca.
+Fracción reformada DOF 21-04-2016
+
+XIV. El régimen de penas convencionales y de sanciones por incumplimiento de las obligaciones de las partes;
+
+XV. Los procedimientos de solución de controversias; y
+
+XVI. Los demás que, en su caso, el Reglamento establezca.
 Para efectos de la presente Ley, el contrato y sus anexos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones del contrato no deberán contravenir los términos y condiciones de las bases del concurso y los señalados en las juntas de aclaraciones.
 
 ### Artículo 93
 . El contrato de asociación público-privada tendrá por objeto:
-I. La prestación de los servicios que el proyecto implique; y II. En su caso, la ejecución de la obra de infraestructura necesaria para la prestación de los servicios citados.
+
+I. La prestación de los servicios que el proyecto implique; y
+
+II. En su caso, la ejecución de la obra de infraestructura necesaria para la prestación de los servicios citados.
 
 ### Artículo 94
 . El desarrollador tendrá, los siguientes derechos, sin perjuicio de los que establezcan las demás disposiciones aplicables:
+
 I. Recibir las contraprestaciones por el desarrollo del proyecto, previstas en el régimen financiero del contrato;
-II. Solicitar prorroga de los plazos del contrato, cuando éstos se hayan demorado por causas imputables a la dependencia o entidad contratante; y III. Recibir las indemnizaciones previstas en el contrato, por los daños originados por las demoras mencionadas en la fracción inmediata anterior.
+
+II. Solicitar prorroga de los plazos del contrato, cuando éstos se hayan demorado por causas imputables a la dependencia o entidad contratante; y
+
+III. Recibir las indemnizaciones previstas en el contrato, por los daños originados por las demoras mencionadas en la fracción inmediata anterior.
 
 ### Artículo 95
 . El desarrollador tendrá, por lo menos, las siguientes obligaciones, sin perjuicio de las que establezcan las demás disposiciones aplicables:
+
 I. Prestar los servicios contratados, con los niveles de desempeño convenidos;
+
 II. En su caso, ejecutar la obra de infraestructura requerida para la prestación de los servicios objeto del contrato;
+
 III. Cumplir con las instrucciones de la dependencia o entidad contratante, cuando se expidan con fundamento legal o de acuerdo a las estipulaciones del contrato;
+
 IV. Contratar los seguros y asumir los riesgos establecidos en el contrato;
+
 V. Proporcionar la información financiera y de cualquier otra naturaleza que solicite la dependencia o entidad contratante y cualquier otra autoridad competente;
+
 VI. Permitir y facilitar la supervisión y auditorías conforme a las disposiciones aplicables y al contrato;
-VII. Guardar confidencialidad respecto de la información y documentos relativos al proyecto, en el alcance y plazos señalados en el contrato; y VIII. Cumplir con el régimen de comunicación social pactado en el contrato.
+
+VII. Guardar confidencialidad respecto de la información y documentos relativos al proyecto, en el alcance y plazos señalados en el contrato; y
+
+VIII. Cumplir con el régimen de comunicación social pactado en el contrato.
 
 ### Artículo 96
 . El desarrollador será responsable de aportar los recursos para la ejecución de la obra y la prestación de los servicios.
@@ -592,15 +831,24 @@ Lo anterior, sin perjuicio de las demás autorizaciones que, conforme a las disp
 
 ### Artículo 99
 . Cuando en las bases del concurso se prevea que el desarrollador otorgue garantías, el monto de éstas, en su conjunto, no deberá exceder:
-Párrafo reformado DOF 21-04-2016 I. Durante la construcción de la infraestructura de que se trate, del equivalente al quince por ciento del valor de las obras; y II. Durante la prestación de los servicios, del equivalente al diez por ciento de la contraprestación anual por los servicios mismos.
+Párrafo reformado DOF 21-04-2016
+
+I. Durante la construcción de la infraestructura de que se trate, del equivalente al quince por ciento del valor de las obras; y
+
+II. Durante la prestación de los servicios, del equivalente al diez por ciento de la contraprestación anual por los servicios mismos.
 El Reglamento establecerá los lineamientos y forma de cálculo de los importes citados.
 En las garantías citadas se incluirán aquéllas previstas en las leyes que regulen las autorizaciones para el desarrollo del proyecto de asociación público-privada de que se trate.
 
 ### Artículo 100
 . En caso de que así lo permita la rentabilidad del proyecto y según se haya establecido en las bases del concurso y en el contrato respectivo, la dependencia o entidad contratante podrá exigir al desarrollador, con independencia de lo que señalen otras disposiciones aplicables, alguna o algunas de las prestaciones siguientes:
+
 I. El reembolso del valor de los inmuebles, bienes y derechos aportados por dependencias o entidades del sector público, utilizados en el proyecto;
+
 II. El reembolso de las cantidades por concepto de remanentes y otros rubros en la forma y términos que se establezcan en las bases o en el contrato.
-III. El pago de derechos por la supervisión y vigilancia de la ejecución de la obra o de la prestación de los servicios, previstos en las disposiciones legales aplicables; o IV. Cualquier otra que las partes estipulen en el contrato.
+
+III. El pago de derechos por la supervisión y vigilancia de la ejecución de la obra o de la prestación de los servicios, previstos en las disposiciones legales aplicables; o
+
+IV. Cualquier otra que las partes estipulen en el contrato.
 Los seguros que la sociedad desarrolladora deberá contratar y mantener vigentes cubrirán, por lo menos, los riesgos a que estén expuestos los usuarios, la infraestructura y todos los bienes afectos al servicio, así como los de responsabilidad civil.
 Para estos efectos, la sociedad desarrolladora contratará con empresa especializada, previamente aprobada por la dependencia o entidad contratante, la elaboración de un estudio de riesgos, coberturas, indemnizaciones, montos mínimos, vigencia y demás términos y condiciones de los seguros.
 Dicho estudio servirá de base para que las partes acuerden las características y alcances de tales seguros.
@@ -676,16 +924,24 @@ Capítulo Octavo De la Modificación y Prórroga de los Proyectos Sección Prime
 
 ### Artículo 117
 . Durante la vigencia original de un proyecto de asociación público-privada, sólo podrán realizarse modificaciones a éste cuando las mismas tengan por objeto:
+
 I. Mejorar las características de la infraestructura, que podrán incluir obras adicionales;
+
 II. Incrementar los servicios o su nivel de desempeño;
+
 III. Atender aspectos relacionados con la protección del medio ambiente, así como la preservación y conservación de los recursos naturales;
-IV. Ajustar el alcance de los proyectos por causas supervenientes no previsibles al realizarse la preparación y adjudicación del proyecto; o V. Restablecer el equilibrio económico del proyecto, en los supuestos del artículo 119 de la presente Ley.
+
+IV. Ajustar el alcance de los proyectos por causas supervenientes no previsibles al realizarse la preparación y adjudicación del proyecto; o
+
+V. Restablecer el equilibrio económico del proyecto, en los supuestos del artículo 119 de la presente Ley.
 Ninguna modificación deberá implicar transferencia de riesgos, de una de las partes a la otra, en términos distintos a los pactados en el contrato original.
 De modificarse el contrato de asociación público-privada o, en su caso, las respectivas autorizaciones para el desarrollo del proyecto, deberán modificarse, en lo conducente, los demás de los citados documentos.
 
 ### Artículo 118
 . En los supuestos de las fracciones I, II y IV del artículo 117 inmediato anterior, las modificaciones se ajustarán a lo siguiente:
+
 I. Si no requieren contraprestación adicional alguna ni implican disminución de las obligaciones de la desarrolladora, podrán pactarse en cualquier momento;
+
 II. Si las modificaciones requieren compensación adicional, o implican disminución de las obligaciones del desarrollador, deberán cumplirse todos y cada uno de los requisitos siguientes: a. El cumplimiento del o de los supuestos señalados en las fracciones I, II y IV del artículo 117 anterior, la necesidad y beneficios de las modificaciones, así como el importe de la compensación adicional o de la disminución de obligaciones, deberán demostrarse con dictamen de expertos independientes; b. Durante los primeros dos años inmediatos siguientes a la adjudicación del proyecto, el importe de las modificaciones, en su conjunto, no podrá exceder del equivalente al veinte por ciento del costo pactado de la infraestructura, así como de la contraprestación por los servicios durante el primer año de su prestación; y c. Cuando después de los dos primeros años de adjudicado el proyecto, las modificaciones, previamente autorizadas y por autorizar, excedan en su conjunto el equivalente al veinte por ciento del costo pactado de la infraestructura, así como de la contraprestación por los servicios durante el primer año de su prestación, deberán ser expresamente aprobadas por escrito por el titular de la dependencia o entidad contratante.
 El Reglamento establecerá los lineamientos, formas de cálculo y actualización para determinar los importes citados en esta fracción.
 Las modificaciones pactadas podrán incluir, entre otros, la ampliación de los plazos del contrato y de las autorizaciones para el desarrollo del proyecto.
@@ -694,8 +950,12 @@ Las modificaciones pactadas podrán incluir, entre otros, la ampliación de los 
 . Con objeto de restablecer el equilibrio económico del proyecto, el desarrollador tendrá derecho a la revisión del contrato cuando, derivado de un acto administrativo, legislativo o jurisdiccional, de autoridad competente, aumente sustancialmente el costo de ejecución del proyecto, o se reduzcan, también sustancialmente, los beneficios a su favor.
 Para estos efectos, se entiende que las variaciones citadas son sustanciales cuando sean duraderas y pongan en riesgo la viabilidad financiera del proyecto.
 La revisión y, en su caso, los ajustes al contrato sólo procederán si el acto de autoridad:
+
 I. Tiene lugar con posterioridad a la fecha de presentación de las posturas económicas en el concurso;
-II. No haya sido posible preverlo al realizarse la preparación y adjudicación del proyecto; y III. Represente un cambio a las disposiciones aplicables al desarrollo del proyecto.
+
+II. No haya sido posible preverlo al realizarse la preparación y adjudicación del proyecto; y
+
+III. Represente un cambio a las disposiciones aplicables al desarrollo del proyecto.
 La dependencia o entidad contratante procederá a realizar los ajustes a los términos y condiciones del contrato, incluso de la contraprestación a favor del desarrollador, que se justifiquen por las nuevas condiciones derivadas del acto de autoridad de que se trate.
 De igual manera, procederá la revisión del contrato cuando sobrevenga un desequilibrio económico del mismo, que implique un rendimiento para el desarrollador mayor al previsto en su propuesta económica y en el propio contrato.
 
@@ -712,8 +972,12 @@ Capítulo Noveno De la Terminación de la Asociación Público-Privada
 
 ### Artículo 122
 . Sin perjuicio de las demás previstas en cada contrato, serán causas de rescisión de los contratos de asociación público-privada, las siguientes:
+
 I. La cancelación, abandono o retraso en la ejecución de la obra, en los supuestos previstos en el propio contrato;
-II. La no prestación de los servicios contratados, su prestación en términos distintos a los pactados, o la suspensión de éstos por más de siete días naturales seguidos, sin causa justificada; y III. En caso de que el proyecto requiera autorizaciones para la prestación de los servicios, la revocación de éstas.
+
+II. La no prestación de los servicios contratados, su prestación en términos distintos a los pactados, o la suspensión de éstos por más de siete días naturales seguidos, sin causa justificada; y
+
+III. En caso de que el proyecto requiera autorizaciones para la prestación de los servicios, la revocación de éstas.
 En todo caso, los incumplimientos se sujetarán a lo dispuesto por las partes en el contrato y cualquier controversia al respecto será resuelta por los tribunales federales, o en su caso, mediante el procedimiento arbitral correspondiente.
 
 ### Artículo 123
@@ -752,10 +1016,16 @@ En los supuestos de incumplimiento de las autorizaciones para el desarrollo de p
 
 ### Artículo 130
 . Además de las sanciones que, en su caso, procedan conforme a las disposiciones aplicables, la Secretaría de la Función Pública podrá inhabilitar temporalmente para participar en procedimientos de contratación o celebrar contratos regulados por esta Ley, en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, a las personas que se encuentren en alguno de los supuestos siguientes:
+
 I. Concursantes que injustificadamente y por causas imputables a los mismos, no formalicen el contrato que les haya sido adjudicado;
+
 II. El desarrollador que no cumpla con sus obligaciones contractuales por causas imputables a él y que, como consecuencia, cause daños o perjuicios graves a la dependencia o entidad de que se trate.
+
 III. Personas físicas o morales -y administradores que representen a éstas- que proporcionen información falsa, o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su ejecución, o bien en la presentación o desahogo de una queja, en una audiencia de conciliación o de una inconformidad;
-IV. Personas que contraten servicios de asesoría, consultoría o apoyo en materia de contrataciones gubernamentales, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador de los servicios, a su vez, son recibidas por servidores públicos, por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación, y V. Persona o personas, físicas o morales, que tengan el control de una persona moral que se encuentren en los supuestos previstos en las fracciones I, II y IV inmediatas anteriores.
+
+IV. Personas que contraten servicios de asesoría, consultoría o apoyo en materia de contrataciones gubernamentales, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador de los servicios, a su vez, son recibidas por servidores públicos, por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación, y
+
+V. Persona o personas, físicas o morales, que tengan el control de una persona moral que se encuentren en los supuestos previstos en las fracciones I, II y IV inmediatas anteriores.
 Para estos efectos, se entenderá que una o varias personas, físicas o morales, tienen el control de una persona moral cuando estén en posibilidad de llevar a cabo cualquiera de los actos siguientes: a. Imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes; b. Mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social, o c. Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
 
 ### Artículo 131
@@ -783,10 +1053,16 @@ El comité conocerá de aquellas divergencias de naturaleza técnica o económic
 
 ### artículo 134
 inmediato anterior, la parte interesada notificará a su contraparte aviso que contendrá:
+
 I. La decisión de someter la divergencia al comité de expertos;
+
 II. El experto designado por su parte;
+
 III. La divergencia a resolver y una descripción de la misma, lo más amplia posible, con los hechos que hayan dado lugar a la misma;
-IV. Las pruebas con las que pretenda justificar su pretensión; y V. La propuesta para resolver la divergencia.
+
+IV. Las pruebas con las que pretenda justificar su pretensión; y
+
+V. La propuesta para resolver la divergencia.
 Dentro de los cinco días hábiles inmediatos siguientes a recibir la notificación anterior, la parte así notificada deberá contestar, con los mismos requisitos señalados en las fracciones II, IV y V anteriores.
 
 ### Artículo 136
@@ -804,8 +1080,12 @@ Sección Segunda Procedimiento Arbitral y de Conciliación
 ### Artículo 139
 . Las partes de un contrato de asociación público-privada podrán convenir un procedimiento arbitral, de estricto derecho, para resolver las controversias que deriven sobre el cumplimiento del propio contrato en términos de lo dispuesto en el título cuarto del libro quinto del Código de Comercio.
 El procedimiento arbitral podrá convenirse en el propio contrato o en convenio independiente. En todo caso, se ajustará a lo siguiente:
+
 I. Las leyes aplicables serán las Leyes Federales Mexicanas;
-II. Se llevará en idioma Español; y III. El laudo será obligatorio y firme para ambas partes. En su caso, sólo procederá el juicio de amparo.
+
+II. Se llevará en idioma Español; y
+
+III. El laudo será obligatorio y firme para ambas partes. En su caso, sólo procederá el juicio de amparo.
 No podrá ser materia de arbitraje la revocación de las concesiones y autorizaciones en general, ni los actos de autoridad.
 La solución de controversias relacionadas con la validez legal de cualquier acto administrativo sólo podrá dirimirse por los tribunales federales.
 Sección Tercera Jurisdicción Federal
@@ -885,37 +1165,57 @@ Los agentes económicos deberán presentar al Instituto Federal de Telecomunicac
 El Instituto investigará dichas concentraciones en un plazo no mayor a noventa días naturales y en caso de encontrar que existe poder sustancial en el mercado de redes de telecomunicaciones que presten servicios de voz, datos o video o en el de radio y televisión según el sector que corresponda, podrá imponer las medidas necesarias para proteger y fomentar en dicho mercado la libre competencia y concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el presente artículo.
 Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes económicos preponderantes la prestación de servicios adicionales.
 **DÉCIMO.** Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
+
 I. Los agentes económicos preponderantes deberán acreditar ante el Instituto Federal de Telecomunicaciones que se encuentran en cumplimiento efectivo de lo anterior y de las medidas expedidas por el propio Instituto Federal de Telecomunicaciones a que se refieren las fracciones III y IV del artículo Octavo Transitorio del Decreto antes referido. Para tal efecto, el Instituto Federal de Telecomunicaciones establecerá la forma y términos para presentar la información y documentación respectiva;
+
 II. El agente económico preponderante deberá estar en cumplimiento efectivo de las medidas a las que se refiere la fracción I anterior cuando menos durante dieciocho meses en forma continua;
-III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que continúe en cumplimiento de lo dispuesto en la fracción I que antecede, el Instituto Federal de Telecomunicaciones resolverá y emitirá un dictamen en el que certifique que se dio cumplimiento efectivo de las obligaciones referidas, y IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
+
+III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que continúe en cumplimiento de lo dispuesto en la fracción I que antecede, el Instituto Federal de Telecomunicaciones resolverá y emitirá un dictamen en el que certifique que se dio cumplimiento efectivo de las obligaciones referidas, y
+
+IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
 No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del
 
 ### artículo Octavo
 Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 **DÉCIMO PRIMERO.** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
+
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
+
 II. Al presentar la solicitud, dichos agentes y concesionarios deberán acompañar el dictamen de cumplimiento a que se refiere la fracción III del artículo anterior, presentar la información que determine el Instituto Federal de Telecomunicaciones respecto de los servicios que pretende prestar;
+
 III. El Instituto Federal de Telecomunicaciones resolverá sobre la procedencia de la solicitud dentro de los sesenta días naturales siguientes a su presentación, con base en los lineamientos de carácter general que al efecto emita y determinará las contraprestaciones que procedan.
-Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto haya resuelto la solicitud correspondiente, la misma se entenderá en sentido negativo, y IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
+Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto haya resuelto la solicitud correspondiente, la misma se entenderá en sentido negativo, y
+
+IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
 Se entenderá que se generan efectos adversos a la competencia y libre concurrencia, entre otros factores que considere el Instituto Federal de Telecomunicaciones, cuando: a. Dicha autorización pueda tener como efecto incrementar la participación en el sector que corresponda del agente económico preponderante o del grupo de interés económico al cual pertenecen los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados, respecto de la participación determinada por el Instituto Federal de Telecomunicaciones en la resolución mediante la cual se le declaró agente económico preponderante en el sector que corresponda. b. La autorización de servicios adicionales tenga como efecto conferir poder sustancial en el mercado relevante a alguno de los concesionarios o integrantes del agente económico preponderante o de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados en el sector que corresponda.
 Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única, y será independiente de las sanciones económicas que procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
 **DÉCIMO SEGUNDO.** El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
 El agente económico preponderante en el sector de las telecomunicaciones podrá presentar al Instituto Federal de Telecomunicaciones un plan basado en una situación real, concreta y respecto de personas determinadas, que incluya en lo aplicable, la separación estructural, la desincorporación total o parcial de activos, derechos, partes sociales o acciones o cualquier combinación de las opciones anteriores a efecto de reducir su participación nacional por debajo del cincuenta por ciento del sector de telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de conformidad con las variables y parámetros de medición utilizados por el Instituto Federal de Telecomunicaciones en la declaratoria de preponderancia correspondiente, y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran dicho sector de conformidad con la Ley Federal de Competencia Económica. En caso de que el agente económico preponderante ejerza esta opción, se estará a lo siguiente:
+
 I. Al presentar el plan a que se refiere el párrafo que antecede, el agente económico preponderante deberá manifestar por escrito que se adhiere a lo previsto en este artículo y que acepta sus términos y condiciones; asimismo deberá acompañar la información y documentación necesaria que permita al Instituto Federal de Telecomunicaciones conocer y analizar el plan que se propone;
+
 II. En caso que el Instituto Federal de Telecomunicaciones considere que la información presentada es insuficiente, dentro del plazo de 20 días hábiles siguientes a la presentación del plan, prevendrá al agente económico preponderante para que presente la información faltante en un plazo de 20 días hábiles. En caso de que el agente económico preponderante no desahogue la prevención dentro del plazo señalado o que a juicio del Instituto la documentación o información presentada no sea suficiente o idónea para analizar el plan que se propone, se le podrá hacer una segunda prevención en los términos señalados con antelación y en caso de que no cumpla esta última prevención se tendrá por no presentado el plan, sin perjuicio de que el agente económico pueda presentar una nueva propuesta de plan en términos del presente artículo;
+
 III. Atendida la prevención en los términos formulados, el Instituto Federal de Telecomunicaciones analizará, evaluará y, en su caso, aprobará el plan propuesto dentro de los ciento veinte días naturales siguientes. En caso de que el Instituto lo considere necesario podrá prorrogar dicho plazo hasta en dos ocasiones y hasta por noventa días naturales cada una.
 Para aprobar dicho plan el Instituto Federal de Telecomunicaciones deberá determinar que el mismo reduce efectivamente la participación nacional del agente económico preponderante por debajo del cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo
 **Octavo.** Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
 El plan deberá tener como resultado que la participación en el sector que el agente preponderante disminuye, sea transferida a otro u otros agentes económicos distintos e independientes del agente económico preponderante. Al aprobar el plan, el Instituto Federal de Telecomunicaciones deberá asegurar la separación efectiva e independencia de esos agentes y deberá establecer los términos y condiciones necesarios para que esa situación quede debidamente salvaguardada;
+
 IV. En el supuesto de que el Instituto Federal de Telecomunicaciones apruebe el plan, el agente económico preponderante en el sector de las telecomunicaciones contará con un plazo de hasta diez días hábiles para manifestar que acepta el plan y consiente expresamente las tarifas que derivan de la aplicación de los incisos a) y b) del segundo párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y las fracciones VI a VIII de este artículo.
 Aceptado el plan por el agente económico preponderante, no podrá ser modificado y deberá ejecutarse en sus términos, sin que dicho agente pueda volver a ejercer el beneficio que otorga este artículo y sin perjuicio de que pueda optar por lo dispuesto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión;
+
 V. El plan deberá ejecutarse durante los 365 días naturales posteriores a que haya sido aceptado en términos de la fracción IV. Los agentes económicos involucrados en el plan deberán informar con la periodicidad que establezca el Instituto Federal de Telecomunicaciones sobre el proceso de ejecución del plan. En caso de que el agente económico preponderante acredite que la falta de cumplimiento del plan dentro del plazo referido se debe a causas que no le son imputables, podrá solicitar al Instituto Federal de Telecomunicaciones una prórroga, la cual se podrá otorgar por un plazo de hasta 120 días naturales, por única ocasión y siempre y cuando dichas causas se encuentren debidamente justificadas;
+
 VI. A partir de la fecha en que el agente económico preponderante en el sector de las telecomunicaciones haya aceptado el plan y durante el plazo referido en la fracción anterior, se aplicarán provisionalmente entre el agente económico preponderante en el sector de las telecomunicaciones y los demás concesionarios, los acuerdos de compensación recíproca de tráfico referidos en el primer párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y se suspenderán entre ellos las tarifas que deriven de la aplicación de los incisos a) y b) del párrafo segundo de dicho artículo;
+
 VII. El Instituto Federal de Telecomunicaciones certificará que el plan ha sido ejecutado efectivamente en el plazo señalado en la fracción V de este artículo. Para tal efecto, dentro de los 5 días hábiles siguientes al término del plazo de ejecución o, en su caso, al término de la prórroga correspondiente, el Instituto Federal de Telecomunicaciones deberá iniciar los estudios que demuestren que su ejecución generó condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones, de conformidad con la Ley Federal de Competencia Económica.
 Otorgada la certificación referida en el párrafo anterior, se aplicarán de manera general para todos los concesionarios los acuerdos de compensación de tráfico a que se refiere el párrafo primero del artículo 131 de la citada Ley;
+
 VIII. En caso de que el plan no se ejecute en el plazo a que se refiere la fracción V o, en su caso, al término de la prórroga correspondiente, o el Instituto Federal de Telecomunicaciones niegue la certificación referida en la fracción anterior o determine que no se dio cumplimiento total a dicho plan en los términos aprobados, se dejarán sin efectos los acuerdos de compensación recíproca de tráfico y la suspensión de las tarifas a que se refieren los incisos a) y b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, entre el agente económico preponderante en el sector de las telecomunicaciones y los demás concesionarios, y su aplicación se retrotraerá a la fecha en que inició la suspensión, debiendo dicho agente restituir a los demás concesionarios las cantidades que correspondan a la aplicación de las citadas tarifas. En este supuesto, los concesionarios citados podrán compensar las cantidades a ser restituidas contra otras cantidades que le adeuden al agente económico preponderante;
+
 IX. El Instituto Federal de Telecomunicaciones autorizará al agente económico que propuso el plan y a los agentes económicos resultantes o que formen parte de dicho plan, la prestación de servicios adicionales a los que son objeto de su concesión o su tránsito al modelo de concesión única, a partir de que certifique que el plan se ha ejecutado efectivamente y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones de conformidad con la Ley Federal de Competencia Económica;
+
 X. Una vez que el Instituto Federal de Telecomunicaciones certifique que el plan aprobado ha sido ejecutado efectivamente, procederá a extinguir: a. Las resoluciones mediante las cuales haya determinado al agente económico como preponderante en el sector de las telecomunicaciones así como las medidas asimétricas que le haya impuesto en los términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial en algún mercado, así como las medidas específicas que le haya impuesto.
 **DÉCIMO TERCERO.** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia pública o bajo un esquema de asociación público-privada.
@@ -966,8 +1266,12 @@ Los derechos laborales del personal del Organismo Promotor de Medios Audiovisual
 La Cámara de Diputados deberá destinar los recursos necesarios para garantizar el adecuado ejercicio de las atribuciones referidas en el presente transitorio.
 **TRIGÉSIMO.** TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 **TRIGÉSIMO.** CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
+
 I. Sus planes de crecimiento;
-II. Sus gastos de operación, y III. Su equilibrio financiero.
+
+II. Sus gastos de operación, y
+
+III. Su equilibrio financiero.
 **TRIGÉSIMO.** QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
 **TRIGÉSIMO.** SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
 **TRIGÉSIMO.** SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.

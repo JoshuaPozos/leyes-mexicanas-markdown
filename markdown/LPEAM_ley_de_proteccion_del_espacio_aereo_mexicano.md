@@ -30,23 +30,42 @@ Disposiciones generales
 
 ### Artículo 5
 . Para los efectos de la presente Ley, se entenderá por:
+
 I. Aeronave en situación de emergencia: Aeronave que informa o activa un código transponder para reportar fallas de comunicación, emergencias generales o interferencias ilícitas;
+
 II. Aeronave interceptora: Aeronave de Estado que lleva a cabo la interceptación de otra aeronave;
+
 III. Alertamiento aéreo: Comunicación que realiza el Centro para interceptar un vuelo no autorizado, un vuelo clandestino o una aeronave en situación de emergencia;
+
 IV. Aseguramiento: Acción que realiza la Guardia Nacional, las Fuerzas Armadas u otra autoridad, con apoyo del Centro, con el fin de impedir la movilización de una aeronave posada en tierra antes del despegue o inmediatamente después de su aterrizaje como parte de un vuelo clandestino, y solicitar la intervención de la autoridad competente;
+
 V. Autoridad de control de interceptación: Centro Nacional de Vigilancia y Protección del Espacio Aéreo;
+
 VI. Centro: Centro Nacional de Vigilancia y Protección del Espacio Aéreo;
+
 VII. Consejo: Consejo Nacional de Vigilancia y Protección del Espacio Aéreo;
+
 VIII. Detección: Descubrimiento, localización, por cualquier medio, de la presencia de una aeronave en un área determinada, sin vulnerar con ello los derechos fundamentales;
+
 IX. Espacio Aéreo Mexicano: El situado sobre territorio nacional, con la extensión y modalidades que establece el derecho internacional;
+
 X. Identificación: Proceso mediante el cual se determina la identidad de una aeronave, a través de medios visuales o electrónicos, por correlación de planes de vuelo, por procedimientos establecidos o comunicación en tiempo real entre el Centro, la Agencia Federal de Aviación Civil y los Servicios a la Navegación en el Espacio Aéreo Mexicano;
+
 XI. Interceptación aérea: Procedimiento para llevar una aeronave del Estado al encuentro con otra, con el propósito de identificarla, brindarle ayuda, vigilar su comportamiento, girar instrucciones a la tripulación para retornar a su ruta planeada o para aterrizar en un aeródromo designado, según corresponda, de acuerdo con los procedimientos publicados por la autoridad competente;
+
 XII. Protección del Espacio Aéreo Mexicano: Conjunto de acciones operativas y de carácter legal que se realicen para evitar actos contra la seguridad del territorio nacional;
+
 XIII. Secretaría: Secretaría de la Defensa Nacional;
+
 XIV. Seguimiento: Contacto continuo visual, electro-óptico o por medio de radar de una aeronave, durante toda su ruta, cuando no se tiene identificada una traza de interés, o una aeronave en vuelo no autorizado, o en vuelo clandestino;
+
 XV. Seguridad del Espacio Aéreo: Las acciones destinadas a la protección del Espacio Aéreo Mexicano frente a amenazas tradicionales y especializadas, como las relacionadas con la delincuencia organizada transnacional, el problema mundial de las drogas, la corrupción, el lavado de activos, el tráfico de armas y las conexiones, entre otras;
+
 XVI. Sistema: Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano;
-XVII. Zona de Identificación de Defensa Aérea: Área delimitada por la Secretaría dentro del Espacio Aéreo Mexicano para llevar a cabo procedimientos especiales de identificación y notificación de aeronaves, sin menoscabo de los relacionados con la prestación de servicios de tránsito aéreo, y XVIII. Zona de Vigilancia y Protección del Espacio Aéreo: Área delimitada dentro del Espacio Aéreo Mexicano por el Consejo a propuesta de la Secretaría, para la seguridad de eventos oficiales internacionales que se realicen en el territorio nacional, en los que participen jefes de Estado y de gobierno o en los que por su naturaleza sea necesario establecer espacios aéreos con fines de vigilancia aérea y protección del Espacio Aéreo Mexicano.
+
+XVII. Zona de Identificación de Defensa Aérea: Área delimitada por la Secretaría dentro del Espacio Aéreo Mexicano para llevar a cabo procedimientos especiales de identificación y notificación de aeronaves, sin menoscabo de los relacionados con la prestación de servicios de tránsito aéreo, y
+
+XVIII. Zona de Vigilancia y Protección del Espacio Aéreo: Área delimitada dentro del Espacio Aéreo Mexicano por el Consejo a propuesta de la Secretaría, para la seguridad de eventos oficiales internacionales que se realicen en el territorio nacional, en los que participen jefes de Estado y de gobierno o en los que por su naturaleza sea necesario establecer espacios aéreos con fines de vigilancia aérea y protección del Espacio Aéreo Mexicano.
 
 ### Artículo 6
 . La Secretaría previo acuerdo del Consejo, emitirá las disposiciones técnicas y administrativas necesarias para el cumplimiento de esta Ley, que se publicarán en el Diario Oficial de la Federación.
@@ -60,22 +79,46 @@ De las Maniobras de Vuelo de las Aeronaves
 
 ### Artículo 8
 . Para efectos de la presente Ley, se considera traza de interés a la lectura del eco radar o avistamiento de una aeronave que realiza alguna de las siguientes conductas:
+
 I. No activar su código transponder o apagarlo durante el vuelo;
+
 II. Cambiar de ruta sin motivo aparente;
+
 III. No establecer comunicación con los servicios de control de tránsito aéreo previstos por la autoridad aeronáutica o con el Centro;
+
 IV. No responder a las instrucciones de los servicios de tránsito aéreo de conformidad a los procedimientos publicados por la autoridad;
+
 V. No contar con información de plan de vuelo;
+
 VI. Registrar cambios erráticos de velocidad, altura, rumbo o realizar maniobras inusuales;
+
 VII. Sobrevolar una zona restringida, prohibida, peligrosa, de vigilancia y protección del Espacio Aéreo Mexicano y de identificación de defensa aérea;
-VIII. Existan discrepancias entre el vuelo y lo autorizado en el plan de vuelo, y IX. Cuando una aeronave se encuentre en situación de emergencia.
+
+VIII. Existan discrepancias entre el vuelo y lo autorizado en el plan de vuelo, y
+
+IX. Cuando una aeronave se encuentre en situación de emergencia.
 
 ### Artículo 9
 . El Centro considerará como vuelo no autorizado, aquel que se encuentre en alguno de los siguientes supuestos:
-I. Cuando la traza de interés no fuera identificada, y II. Cuando las aeronaves no cuenten con un plan de vuelo autorizado por la autoridad aeronáutica, ni aprobado por los Servicios a la Navegación en el Espacio Aéreo Mexicano.
+
+I. Cuando la traza de interés no fuera identificada, y
+
+II. Cuando las aeronaves no cuenten con un plan de vuelo autorizado por la autoridad aeronáutica, ni aprobado por los Servicios a la Navegación en el Espacio Aéreo Mexicano.
 
 ### Artículo 10
 . Se considera vuelo clandestino, cuando la tripulación de una aeronave realiza alguna de las siguientes conductas:
-I. No cuente con un plan de vuelo autorizado antes del despegue o aprobado durante el vuelo, para evitar ser detectado, eluda o desobedezca a la autoridad, y II. Cuando incurra durante el protocolo de Interceptación aérea o el Seguimiento, en lo siguiente: a) Desacato de las instrucciones de la Aeronave interceptora, del Centro o de los Servicios a la Navegación en el Espacio Aéreo Mexicano; b) No exhiba de manera visible o no sea posible visualizar por medios electro-ópticos los distintivos de nacionalidad y matrícula de la aeronave; porte unos que no le correspondan, o que éstos sean sobrepuestos o alterados; c) Aterrice en un lugar distinto al establecido en el plan de vuelo, sin dar aviso oportuno a la autoridad competente de las razones que tuvo para ello, y d) Se localice la aeronave en cualquier superficie terrestre o marítima, diferente a un aeródromo o helipuerto.
+
+I. No cuente con un plan de vuelo autorizado antes del despegue o aprobado durante el vuelo, para evitar ser detectado, eluda o desobedezca a la autoridad, y
+
+II. Cuando incurra durante el protocolo de Interceptación aérea o el Seguimiento, en lo siguiente:
+
+a) Desacato de las instrucciones de la Aeronave interceptora, del Centro o de los Servicios a la Navegación en el Espacio Aéreo Mexicano;
+
+b) No exhiba de manera visible o no sea posible visualizar por medios electro-ópticos los distintivos de nacionalidad y matrícula de la aeronave; porte unos que no le correspondan, o que éstos sean sobrepuestos o alterados;
+
+c) Aterrice en un lugar distinto al establecido en el plan de vuelo, sin dar aviso oportuno a la autoridad competente de las razones que tuvo para ello, y
+
+d) Se localice la aeronave en cualquier superficie terrestre o marítima, diferente a un aeródromo o helipuerto.
 
 ## Capítulo III
 Del Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano
@@ -85,11 +128,32 @@ Del Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano
 
 ### Artículo 12
 . El Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano se integra por:
-I. La Secretaría de la Defensa Nacional, quien coordinará el Sistema: a) La Comandancia de la Fuerza Aérea Mexicana, y b) La Comandancia del Centro Nacional para la Vigilancia y Protección del Espacio Aéreo.
-II. La Secretaría de Marina: a) La Dirección del Centro de Mando y Control de la Armada de México.
-III. La Secretaría de Infraestructura, Comunicaciones y Transportes: a) La Agencia Federal de Aviación Civil, y b) Los Servicios a la Navegación en el Espacio Aéreo Mexicano.
-IV. La Secretaría de Seguridad y Protección Ciudadana: a) La Guardia Nacional, y b) El Centro Nacional de Inteligencia.
-V. La Secretaría de Gobernación: a) El Instituto Nacional de Migración.
+
+I. La Secretaría de la Defensa Nacional, quien coordinará el Sistema:
+
+a) La Comandancia de la Fuerza Aérea Mexicana, y
+
+b) La Comandancia del Centro Nacional para la Vigilancia y Protección del Espacio Aéreo.
+
+II. La Secretaría de Marina:
+
+a) La Dirección del Centro de Mando y Control de la Armada de México.
+
+III. La Secretaría de Infraestructura, Comunicaciones y Transportes:
+
+a) La Agencia Federal de Aviación Civil, y
+
+b) Los Servicios a la Navegación en el Espacio Aéreo Mexicano.
+
+IV. La Secretaría de Seguridad y Protección Ciudadana:
+
+a) La Guardia Nacional, y
+
+b) El Centro Nacional de Inteligencia.
+
+V. La Secretaría de Gobernación:
+
+a) El Instituto Nacional de Migración.
 
 ## Capítulo IV
 Del Consejo Nacional de Vigilancia y Protección del Espacio Aéreo
@@ -99,12 +163,20 @@ Del Consejo Nacional de Vigilancia y Protección del Espacio Aéreo
 
 ### Artículo 14
 . El Consejo estará integrado por:
+
 I. La persona titular de la Presidencia de la República, quien lo presidirá;
+
 II. La persona titular de la Secretaría de Relaciones Exteriores;
+
 III. La persona titular de la Secretaría de la Defensa Nacional;
+
 IV. La persona titular de la Secretaría de Marina;
+
 V. La persona titular de la Secretaría de Seguridad y Protección Ciudadana;
-VI. La persona titular de la Secretaría de Infraestructura, Comunicaciones y Transportes, y VII. La persona titular de la Comandancia del Centro Nacional de Vigilancia y Protección del Espacio Aéreo, quien fungirá como titular de la Secretaría Técnica del Consejo.
+
+VI. La persona titular de la Secretaría de Infraestructura, Comunicaciones y Transportes, y
+
+VII. La persona titular de la Comandancia del Centro Nacional de Vigilancia y Protección del Espacio Aéreo, quien fungirá como titular de la Secretaría Técnica del Consejo.
 
 ### Artículo 15
 . Las personas integrantes del Consejo contarán con voz y voto y no recibirán remuneración alguna por su participación en el mismo.
@@ -118,11 +190,18 @@ Las personas invitadas tendrán derecho a voz, pero sin voto.
 
 ### Artículo 16
 . El Consejo tendrá las atribuciones siguientes:
+
 I. Establecer las bases generales de coordinación entre las dependencias y entidades de la Administración Pública Federal que lo integran para proteger el espacio aéreo y territorio nacional;
+
 II. Establecer los Procedimientos de actuación para la Detección, Identificación, Interceptación aérea y Seguimiento de aeronaves que se deriven de un Alertamiento aéreo;
+
 III. Acordar con los miembros del Consejo la emisión de medidas o disposiciones técnico administrativas que, en el ámbito de sus respectivas competencias, permitan la coordinación entre las dependencias y entidades de la Administración Pública Federal;
+
 IV. Establecer las políticas de intercambio de información en materia de protección del Espacio Aéreo Mexicano entre las dependencias y entidades de la Administración Pública Federal y las entidades federativas;
-V. Emitir el manual de integración y funcionamiento del Consejo, y VI. Ejercer las demás facultades que establezcan otras disposiciones en materia de protección del Espacio Aéreo Mexicano.
+
+V. Emitir el manual de integración y funcionamiento del Consejo, y
+
+VI. Ejercer las demás facultades que establezcan otras disposiciones en materia de protección del Espacio Aéreo Mexicano.
 
 ### Artículo 17
 . El Consejo sesionará de manera ordinaria, semestralmente, y de manera extraordinaria, en cualquier momento, a solicitud de cualquiera de sus integrantes.
@@ -133,44 +212,73 @@ Las actas y acuerdos que se generen en las sesiones se aprobarán por mayoría d
 
 ### Artículo 18
 . La persona titular de la Presidencia del Consejo tendrá las atribuciones siguientes:
-I. Dirigir el desarrollo de las sesiones del Consejo, y II. Propiciar la cooperación y coordinación necesarias entre las personas integrantes del Consejo para la prosecución de los fines del mismo.
+
+I. Dirigir el desarrollo de las sesiones del Consejo, y
+
+II. Propiciar la cooperación y coordinación necesarias entre las personas integrantes del Consejo para la prosecución de los fines del mismo.
 
 ### Artículo 19
 . La Secretaría Técnica del Consejo tendrá las facultades siguientes:
+
 I. Elaborar la orden del día de las sesiones, incluyendo las invitaciones que correspondan de acuerdo con los asuntos a desahogarse;
+
 II. Someter a consideración del Consejo, el programa anual de trabajo;
+
 III. Dar seguimiento e informar al Consejo respecto del cumplimiento de los acuerdos aprobados por éste;
+
 IV. Integrar y preservar la documentación e información que se genere con motivo de las actuaciones del Consejo;
+
 V. Dar seguimiento al programa anual de trabajo emitido por el Consejo e informar a éste de sus avances;
-VI. Coadyuvar en la operación y funcionamiento del Consejo, así como atender las solicitudes y requerimientos que éste le ordene, y VII. Ejercer las demás facultades que el Consejo le confiera.
+
+VI. Coadyuvar en la operación y funcionamiento del Consejo, así como atender las solicitudes y requerimientos que éste le ordene, y
+
+VII. Ejercer las demás facultades que el Consejo le confiera.
 
 ## Capítulo V
 Del Centro Nacional de Vigilancia y Protección del Espacio Aéreo
 
 ### Artículo 20
 . Para llevar a cabo las acciones de Alertamiento, Interceptación aérea, Identificación, Seguimiento de trazas de interés y asistencia de aeronaves en emergencia en el Espacio Aéreo Mexicano, se conforma el Centro, dependiente de la Secretaría, que tendrá las facultades siguientes:
+
 I. Operar los medios de Detección, Identificación e Interceptación aérea y salvamento puestos a su disposición, de conformidad con la normatividad aplicable;
+
 II. Monitorear el Espacio Aéreo Mexicano en coordinación con los Servicios a la Navegación en el Espacio Aéreo Mexicano;
+
 III. Controlar las operaciones aéreas dentro de las zonas aéreas restringidas, y las zonas de vigilancia y protección del Espacio Aéreo Mexicano, en coordinación con los Servicios a la Navegación en el Espacio Aéreo Mexicano;
+
 IV. Determinar las zonas de identificación de defensa aérea y las zonas de vigilancia y protección del Espacio Aéreo Mexicano, mismas que se publicarán en el Diario Oficial de la Federación y en la Publicación de Información Aeronáutica;
+
 V. Emitir la declaratoria de Alertamiento aéreo, a efecto de que se lleven a cabo las acciones de protección del Espacio Aéreo Mexicano, de conformidad con los protocolos que emita el Consejo;
+
 VI. Coordinar y ejecutar la Interceptación aérea de aeronaves en el Espacio Aéreo Mexicano;
+
 VII. Recibir las notificaciones de Identificación de las aeronaves en una Zona de Identificación de Defensa Aérea;
+
 VIII. Emitir opinión en la expedición de medidas y normas respecto al tráfico aéreo que afecte la protección del Espacio Aéreo Mexicano en términos de esta Ley;
-IX. Notificar a las autoridades competentes los hechos en los que se vean involucradas las tripulaciones, propietarios, prestadores de servicios, aeronaves y aeródromos, como resultado del ejercicio de las atribuciones a que se refiere esta Ley, a efecto de que se inicien las acciones legales que procedan, y X. Notificar a los integrantes del Sistema que resulten competentes que una traza de interés o aeronave está siendo objeto de una Interceptación aérea, a efecto de que tomen las acciones que correspondan.
+
+IX. Notificar a las autoridades competentes los hechos en los que se vean involucradas las tripulaciones, propietarios, prestadores de servicios, aeronaves y aeródromos, como resultado del ejercicio de las atribuciones a que se refiere esta Ley, a efecto de que se inicien las acciones legales que procedan, y
+
+X. Notificar a los integrantes del Sistema que resulten competentes que una traza de interés o aeronave está siendo objeto de una Interceptación aérea, a efecto de que tomen las acciones que correspondan.
 
 ## Capítulo VI
 Del Procedimiento de Interceptación
 
 ### Artículo 21
 . El Centro activará su procedimiento de Interceptación aérea cuando:
-I. Por sus propios medios aéreos y sistemas de Detección, detecte u observe una traza de interés, un vuelo no autorizado o un vuelo clandestino, y II. Al ser informado por los Servicios a la Navegación en el Espacio Aéreo Mexicano de la Detección de una traza de interés, un vuelo no autorizado.
+
+I. Por sus propios medios aéreos y sistemas de Detección, detecte u observe una traza de interés, un vuelo no autorizado o un vuelo clandestino, y
+
+II. Al ser informado por los Servicios a la Navegación en el Espacio Aéreo Mexicano de la Detección de una traza de interés, un vuelo no autorizado.
 En ambos casos se establecerá la coordinación de comunicación de información en tiempo real para identificar y dar Seguimiento a la aeronave o las causas de una traza de interés, un vuelo no autorizado o un vuelo clandestino.
 
 ### Artículo 22
 . El Centro comunicará el Alertamiento aéreo a las autoridades competentes bajo las siguientes circunstancias:
+
 I. Cuando no le es posible determinar la identidad de una traza de interés;
-II. Cuando los Servicios a la Navegación en el Espacio Aéreo Mexicano comunique al Centro la existencia de un vuelo no autorizado, y III. Cuando una autoridad extranjera comparta información relacionada con un vuelo no autorizado o clandestino con dirección al espacio aéreo nacional.
+
+II. Cuando los Servicios a la Navegación en el Espacio Aéreo Mexicano comunique al Centro la existencia de un vuelo no autorizado, y
+
+III. Cuando una autoridad extranjera comparta información relacionada con un vuelo no autorizado o clandestino con dirección al espacio aéreo nacional.
 
 ### Artículo 23
 . El procedimiento de Interceptación aérea en el espacio aéreo nacional tendrá como premisa el uso flexible del Espacio Aéreo Mexicano, conforme a lo establecido por la Organización de Aviación Civil Internacional, por lo que, cuando el Centro declare un Alertamiento aéreo lo notificará de manera simultánea a la autoridad aeronáutica y a los Servicios a la Navegación en el Espacio Aéreo Mexicano. Para este fin, los Servicios a la Navegación en el Espacio Aéreo Mexicano segregarán el espacio aéreo en favor de las aeronaves en cumplimiento de estas acciones, las cuales tendrán prioridad para el cumplimiento de su misión.
@@ -184,9 +292,14 @@ En los casos de Alertamiento aéreo en los cuales los Servicios a la Navegación
 
 ### Artículo 26
 . El Centro requerirá a la autoridad aeronáutica y a las demás autoridades que tengan injerencia en las actividades de vigilancia y protección del Espacio Aéreo Mexicano lo siguiente:
+
 I. Los documentos que amparen que una aeronave cuenta con los certificados y licencia vigentes de conformidad con la Ley de Aviación Civil, a fin de verificar físicamente que corresponde a las capacidades de vuelo de la tripulación y a las marcas de nacionalidad, matrícula, placas de número de serie que ostenta la aeronave y características acorde al uso autorizado;
+
 II. Los permisos correspondientes de los talleres aeronáuticos de aeronaves y los centros de producción, en el caso de fábricas de aeronaves no tripuladas, para las actividades que realizan;
-III. Los documentos que amparen que los aeródromos cumplen con las condiciones de Seguridad del Espacio Aéreo y operaciones previstas en las disposiciones aplicables, y IV. La información respecto a pasajeros, tripulaciones y aeronaves a quienes presten servicio en territorio nacional.
+
+III. Los documentos que amparen que los aeródromos cumplen con las condiciones de Seguridad del Espacio Aéreo y operaciones previstas en las disposiciones aplicables, y
+
+IV. La información respecto a pasajeros, tripulaciones y aeronaves a quienes presten servicio en territorio nacional.
 Cuando se adviertan irregularidades o inconsistencias de la información a que hacen referencia las fracciones anteriores, el Centro solicitará a la autoridad competente para que, previo procedimiento, determine lo conducente conforme a la legislación aplicable.
 
 ## Transitorios

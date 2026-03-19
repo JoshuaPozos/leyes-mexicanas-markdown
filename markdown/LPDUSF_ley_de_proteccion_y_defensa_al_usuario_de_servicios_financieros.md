@@ -15,14 +15,28 @@ TÍTULO PRIMERO CAPÍTULO ÚNICO DISPOSICIONES GENERALES
 
 ### Artículo 2o
 .- Para los efectos de esta Ley, se entiende por:
+
 I. Usuario, en singular o plural, la persona que contrata, utiliza o por cualquier otra causa tenga algún derecho frente a la Institución Financiera como resultado de la operación o servicio prestado;
-Fracción reformada DOF 05-01-2000 II. Comisión Nacional, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros;
-Fracción reformada DOF 05-01-2000 III. Comisiones Nacionales, a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas, y a la Comisión Nacional del Sistema de Ahorro para el Retiro;
+Fracción reformada DOF 05-01-2000
+
+II. Comisión Nacional, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros;
+Fracción reformada DOF 05-01-2000
+
+III. Comisiones Nacionales, a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas, y a la Comisión Nacional del Sistema de Ahorro para el Retiro;
+
 IV. Institución Financiera, en singular o plural, a las sociedades controladoras, instituciones de crédito, sociedades financieras de objeto múltiple, sociedades de información crediticia, casas de bolsa, fondos de inversión, almacenes generales de depósito, uniones de crédito, casas de cambio, instituciones de seguros, sociedades mutualistas de seguros, instituciones de fianzas, administradoras de fondos para el retiro, PENSIONISSSTE, empresas operadoras de la base de datos nacional del sistema de ahorro para el retiro, Instituto del Fondo Nacional para el Consumo de los Trabajadores, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias, las instituciones de tecnología financiera, y cualquiera otra sociedad que requiera de la autorización de la Secretaría de Hacienda y Crédito Público o de cualesquiera de las Comisiones Nacionales para constituirse y funcionar como tales y ofrecer un producto o servicio financiero a los Usuarios;
-Fracción reformada DOF 05-01-2000, 12-05-2005, 25-06-2009, 10-01-2014, 09-03-2018 V. Junta, a la Junta de Gobierno de la Comisión Nacional;
+Fracción reformada DOF 05-01-2000, 12-05-2005, 25-06-2009, 10-01-2014, 09-03-2018
+
+V. Junta, a la Junta de Gobierno de la Comisión Nacional;
+
 VI. Presidente, al titular de la Comisión Nacional;
+
 VII. Estatuto Orgánico, al estatuto orgánico de la Comisión Nacional;
-Fracción reformada DOF 05-01-2000 VIII. Secretaría, a la Secretaría de Hacienda y Crédito Público, y IX. Defensor, en singular o plural a la persona empleada por la Comisión Nacional para brindar la orientación jurídica y defensa legal, en su caso, a los Usuarios.
+Fracción reformada DOF 05-01-2000
+
+VIII. Secretaría, a la Secretaría de Hacienda y Crédito Público, y
+
+IX. Defensor, en singular o plural a la persona empleada por la Comisión Nacional para brindar la orientación jurídica y defensa legal, en su caso, a los Usuarios.
 
 ### Artículo 3o
 .- Esta Ley es de orden público, interés social y de observancia en toda la República, de conformidad con los términos y condiciones que la misma establece. Los derechos que otorga la presente Ley son irrenunciables.
@@ -77,53 +91,129 @@ DE LAS FACULTADES DE LA COMISIÓN NACIONAL
 
 ### Artículo 11
 .- La Comisión Nacional está facultada para:
+
 I. Atender y resolver las consultas que le presenten los Usuarios, sobre asuntos de su competencia;
+
 II. Atender y, en su caso, resolver las reclamaciones que formulen los Usuarios, sobre los asuntos que sean competencia de la Comisión Nacional;
-Fracción reformada DOF 05-01-2000 III. Llevar a cabo el procedimiento conciliatorio entre el Usuario y la Institución Financiera en los términos previstos en esta Ley, así como entre una Institución Financiera y varios Usuarios, exclusivamente en los casos en que éstos hayan contratado un mismo producto o servicio, mediante la celebración de un solo contrato, para lo cual dichos Usuarios deberán apegarse a lo establecido en el último párrafo del artículo 63 de esta Ley, así como emitir dictámenes de conformidad con la misma.
-Fracción reformada DOF 05-01-2000, 25-06-2009 IV. Actuar como árbitro en amigable composición o en juicio arbitral de estricto derecho, de conformidad con esta Ley y con los convenios arbitrales celebrados entre las partes en conflicto, así como llevar a cabo las acciones necesarias para la organización, funcionamiento y promoción del Sistema Arbitral en Materia Financiera, en los términos previstos en esta Ley, y mantener un padrón de árbitros independientes;
+Fracción reformada DOF 05-01-2000
+
+III. Llevar a cabo el procedimiento conciliatorio entre el Usuario y la Institución Financiera en los términos previstos en esta Ley, así como entre una Institución Financiera y varios Usuarios, exclusivamente en los casos en que éstos hayan contratado un mismo producto o servicio, mediante la celebración de un solo contrato, para lo cual dichos Usuarios deberán apegarse a lo establecido en el último párrafo del artículo 63 de esta Ley, así como emitir dictámenes de conformidad con la misma.
+Fracción reformada DOF 05-01-2000, 25-06-2009
+
+IV. Actuar como árbitro en amigable composición o en juicio arbitral de estricto derecho, de conformidad con esta Ley y con los convenios arbitrales celebrados entre las partes en conflicto, así como llevar a cabo las acciones necesarias para la organización, funcionamiento y promoción del Sistema Arbitral en Materia Financiera, en los términos previstos en esta Ley, y mantener un padrón de árbitros independientes;
 Fracción reformada DOF 05-01-2000, 12-05-2005, 25-06-2009, 10-01-2014 IV Bis. Emitir dictámenes de conformidad con esta Ley;
-Fracción adicionada DOF 10-01-2014 V. De conformidad con lo señalado por el artículo 86 de esta Ley, procurar, proteger y representar individualmente los intereses de los Usuarios, en las controversias entre éstos y las Instituciones Financieras mediante el ejercicio de las acciones, recursos, trámites o gestiones que procedan ante autoridades administrativas y jurisdiccionales, con motivo de operaciones o servicios que los primeros hayan contratado por montos inferiores a tres millones de unidades de inversión, salvo tratándose de reclamaciones en contra de instituciones de seguros en cuyo caso la cuantía deberá de ser inferior a seis millones de unidades de inversión.
+Fracción adicionada DOF 10-01-2014
+
+V. De conformidad con lo señalado por el artículo 86 de esta Ley, procurar, proteger y representar individualmente los intereses de los Usuarios, en las controversias entre éstos y las Instituciones Financieras mediante el ejercicio de las acciones, recursos, trámites o gestiones que procedan ante autoridades administrativas y jurisdiccionales, con motivo de operaciones o servicios que los primeros hayan contratado por montos inferiores a tres millones de unidades de inversión, salvo tratándose de reclamaciones en contra de instituciones de seguros en cuyo caso la cuantía deberá de ser inferior a seis millones de unidades de inversión.
 Fracción reformada DOF 12-05-2005, 25-06-2009 V Bis. Ejercitar la acción colectiva o asumir la representación de la colectividad de conformidad con lo dispuesto en el Libro Sexto del Código Nacional de Procedimientos Civiles y Familiares, cuando se realicen actos, hechos u omisiones que vulneren los derechos e intereses de una colectividad de Usuarios;
-Fracción adicionada DOF 30-08-2011. Reformada DOF 10-01-2014, 14-11-2025 VI. Promover y proteger los derechos del Usuario, así como aplicar las medidas necesarias para propiciar la seguridad jurídica en las relaciones entre Instituciones Financieras y Usuarios;
+Fracción adicionada DOF 30-08-2011. Reformada DOF 10-01-2014, 14-11-2025
+
+VI. Promover y proteger los derechos del Usuario, así como aplicar las medidas necesarias para propiciar la seguridad jurídica en las relaciones entre Instituciones Financieras y Usuarios;
 Párrafo reformado DOF 25-06-2009 Expedir, cuando así proceda, a solicitud de parte interesada y previo el pago de los gastos correspondientes, copia certificada de los documentos que obren en poder de la misma, siempre y cuando se compruebe fehacientemente el interés jurídico.
-Párrafo adicionado DOF 05-01-2000 VII. Coadyuvar con otras autoridades en materia financiera para lograr una relación equitativa entre las Instituciones Financieras y los Usuarios, así como un sano desarrollo del sistema financiero mexicano;
+Párrafo adicionado DOF 05-01-2000
+
+VII. Coadyuvar con otras autoridades en materia financiera para lograr una relación equitativa entre las Instituciones Financieras y los Usuarios, así como un sano desarrollo del sistema financiero mexicano;
+
 VIII. Emitir recomendaciones a las autoridades federales y locales para coadyuvar al cumplimiento del objeto de esta Ley y al de la Comisión Nacional;
+
 IX. Emitir recomendaciones a las Instituciones Financieras y hacerlas del conocimiento de sus organismos, asociaciones gremiales y del público en general, así como emitir recomendaciones generales, en las materias de su competencia;
-Fracción reformada DOF 10-01-2014 X. Formular recomendaciones al Ejecutivo Federal a través de la Secretaría, para la elaboración de iniciativas de leyes, reglamentos, decretos y acuerdos en las materias de su competencia, a fin de dar cumplimiento al objeto de esta Ley y al de la Comisión Nacional, así como para el sano desarrollo del sistema financiero mexicano;
+Fracción reformada DOF 10-01-2014
+
+X. Formular recomendaciones al Ejecutivo Federal a través de la Secretaría, para la elaboración de iniciativas de leyes, reglamentos, decretos y acuerdos en las materias de su competencia, a fin de dar cumplimiento al objeto de esta Ley y al de la Comisión Nacional, así como para el sano desarrollo del sistema financiero mexicano;
+
 XI. Concertar y celebrar convenios con las Instituciones Financieras, así como con las autoridades federales y locales con objeto de dar cumplimiento a esta Ley. Los convenios con las autoridades federales podrán incluir, entre otros aspectos, el intercambio de información sobre los contratos de adhesión, publicidad, modelos de estados de cuenta, Unidades Especializadas de atención a usuarios, productos y servicios financieros;
-Fracción reformada DOF 12-05-2005 XII. Elaborar estudios de derecho comparado relacionados con las materias de su competencia, y publicarlos para apoyar a los Usuarios y a las Instituciones Financieras;
+Fracción reformada DOF 12-05-2005
+
+XII. Elaborar estudios de derecho comparado relacionados con las materias de su competencia, y publicarlos para apoyar a los Usuarios y a las Instituciones Financieras;
+
 XIII. Celebrar convenios con organismos y participar en foros nacionales e internacionales, cuyas funciones sean acordes con las de la Comisión Nacional;
+
 XIV. Proporcionar información a los Usuarios relacionada con los servicios y productos que ofrecen las Instituciones Financieras, y elaborar programas de difusión con los diversos beneficios que se otorguen a los Usuarios;
+
 XV. Analizar y, en su caso, ordenar la suspensión de la información que induzca a error dirigida a los Usuarios sobre los servicios y productos financieros que ofrezcan las Instituciones Financieras, así como aquella que no cumpla con las disposiciones de carácter general que la Comisión Nacional emita para tal efecto;
-Fracción reformada DOF 10-01-2014 XVI. Informar al público sobre la situación de los servicios que prestan las Instituciones Financieras y sus niveles de atención, así como de aquellas Instituciones Financieras que presentan los niveles más altos de reclamaciones por parte de los Usuarios. Esta información podrá incluir la clasificación de Instituciones Financieras en aspectos cualitativos y cuantitativos de sus productos y servicios;
-Fracción reformada DOF 15-06-2007 XVII. Orientar y asesorar a las Instituciones Financieras sobre las necesidades de los Usuarios;
+Fracción reformada DOF 10-01-2014
+
+XVI. Informar al público sobre la situación de los servicios que prestan las Instituciones Financieras y sus niveles de atención, así como de aquellas Instituciones Financieras que presentan los niveles más altos de reclamaciones por parte de los Usuarios. Esta información podrá incluir la clasificación de Instituciones Financieras en aspectos cualitativos y cuantitativos de sus productos y servicios;
+Fracción reformada DOF 15-06-2007
+
+XVII. Orientar y asesorar a las Instituciones Financieras sobre las necesidades de los Usuarios;
+
 XVIII. Revisar y ordenar modificaciones a los contratos de adhesión utilizados por Instituciones Financieras para la celebración de sus operaciones o la prestación de sus servicios, en caso de que incumplan con las disposiciones de carácter general que establezca la Comisión Nacional;
-Fracción reformada DOF 05-01-2000, 10-01-2014 XIX. Revisar y ordenar a las Instituciones Financieras, modificaciones a los documentos que se utilicen para informar a los Usuarios sobre el estado que guardan las operaciones o servicios contratados, en caso de que incumplan con las disposiciones de carácter general que establezca la Comisión Nacional;
-Fracción reformada DOF 05-01-2000, 10-01-2014 XX. Solicitar la información y los reportes de crédito necesarios para la substanciación de los procedimientos de conciliación y de arbitraje a que se refiere esta Ley. Para todos los efectos legales, la sola presentación de la reclamación por parte del Usuario, faculta a la Comisión Nacional para exigir la información relativa.
-Fracción reformada DOF 05-01-2000 XXI. Imponer las sanciones establecidas en esta Ley;
+Fracción reformada DOF 05-01-2000, 10-01-2014
+
+XIX. Revisar y ordenar a las Instituciones Financieras, modificaciones a los documentos que se utilicen para informar a los Usuarios sobre el estado que guardan las operaciones o servicios contratados, en caso de que incumplan con las disposiciones de carácter general que establezca la Comisión Nacional;
+Fracción reformada DOF 05-01-2000, 10-01-2014
+
+XX. Solicitar la información y los reportes de crédito necesarios para la substanciación de los procedimientos de conciliación y de arbitraje a que se refiere esta Ley. Para todos los efectos legales, la sola presentación de la reclamación por parte del Usuario, faculta a la Comisión Nacional para exigir la información relativa.
+Fracción reformada DOF 05-01-2000
+
+XXI. Imponer las sanciones establecidas en esta Ley;
+
 XXII. Aplicar las medidas de apremio a que se refiere esta Ley;
+
 XXIII. Conocer y resolver sobre el recurso de revisión que se interponga en contra de las resoluciones dictadas por la Comisión Nacional;
+
 XXIV. Determinar el monto, la forma y las condiciones de las garantías a las que se refiere esta Ley, así como el monto que deberá registrarse como pasivo contingente por parte de las Instituciones Financieras en términos del artículo 68 fracción X;
-Fracción reformada DOF 05-01-2000 XXV. Condonar total o parcialmente las multas impuestas por el incumplimiento de esta Ley, y XXVI. Denunciar ante el Ministerio Público cuando se tenga conocimiento de hechos que puedan ser constitutivos de delitos en general y ante la Secretaría cuando se trate de delitos tipificados en leyes que establezcan que el delito se persiga a petición de dicha Secretaría.
+Fracción reformada DOF 05-01-2000
+
+XXV. Condonar total o parcialmente las multas impuestas por el incumplimiento de esta Ley, y
+
+XXVI. Denunciar ante el Ministerio Público cuando se tenga conocimiento de hechos que puedan ser constitutivos de delitos en general y ante la Secretaría cuando se trate de delitos tipificados en leyes que establezcan que el delito se persiga a petición de dicha Secretaría.
 Asimismo, denunciar ante las autoridades competentes, los actos que constituyan violaciones administrativas y asistir al Usuario que pretenda coadyuvar con el Ministerio Público, cuando a juicio de la Comisión Nacional sea víctima u ofendido por algún delito derivado de la contratación de productos o servicios financieros, cometido por las Instituciones Financieras, sus consejeros, directivos, funcionarios, empleados o representantes.
-Fracción adicionada DOF 12-05-2005. Reformada DOF 25-06-2009 XXVII. Publicar en la página electrónica de la Comisión Nacional la información relativa a las comisiones que cobra cada Instituciones Financieras, mismas que éstas previamente presentaron ante la Comisión y vigilar la evolución de las comisiones o cargos máximos y mínimos causados por las operaciones y servicios que presten las Instituciones Financieras para darlos a conocer al público en general.
+Fracción adicionada DOF 12-05-2005. Reformada DOF 25-06-2009
+
+XXVII. Publicar en la página electrónica de la Comisión Nacional la información relativa a las comisiones que cobra cada Instituciones Financieras, mismas que éstas previamente presentaron ante la Comisión y vigilar la evolución de las comisiones o cargos máximos y mínimos causados por las operaciones y servicios que presten las Instituciones Financieras para darlos a conocer al público en general.
 La Comisión Nacional Publicará las comisiones más representativas o de relevancia a través de cuadros comparativos de carácter trimestral en medios masivos de comunicación;
-Fracción reformada DOF 12-05-2005 (reubicada), 15-06-2007 XXVIII. Vigilar y verificar el cumplimiento de las disposiciones contenidas en esta Ley y en las leyes relativas al sistema financiero, en el ámbito de su competencia, así como, en su caso, determinar los criterios para la verificación de su cumplimiento;
-Fracción adicionada DOF 25-06-2009 XXIX. Actuar como consultor en materia de productos y servicios financieros y elaborar estudios relacionados con dichas materias. Asimismo, emitir las opiniones técnicas financieras para resolver las consultas de los Usuarios;
-Fracción adicionada DOF 25-06-2009. Reformada DOF 10-01-2014 XXX. Requerir a las Instituciones Financieras que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los derechos de los Usuarios, así como publicar dichos requerimientos, en cumplimiento del objeto de esta Ley y al de la Comisión Nacional;
-Fracción adicionada DOF 25-06-2009 XXXI. Promover nuevos o mejores sistemas y procedimientos que faciliten a los Usuarios el acceso a los productos o servicios que presten las Instituciones Financieras en mejores condiciones de mercado;
-Fracción adicionada DOF 25-06-2009 XXXII. Informar a los Usuarios sobre las acciones u omisiones de las Instituciones Financieras que afecten sus derechos, así como la forma en que las Instituciones Financieras retribuirán o compensarán a los Usuarios;
-Fracción adicionada DOF 25-06-2009 XXXIII. Supervisar a las Instituciones Financieras en relación a las normas de protección al usuario de servicios financieros cuando tal atribución le esté conferida en las leyes relativas al sistema financiero;
-Fracción adicionada DOF 25-06-2009 XXXIV. Emitir en el ámbito de su competencia la regulación a que se sujetarán las Instituciones Financieras, cuando tal atribución le esté conferida en las leyes del sistema financiero;
-Fracción adicionada DOF 25-06-2009 XXXV. Expedir disposiciones de carácter general en las que se establezca la información que deberán proporcionarle periódicamente las Instituciones Financieras en el ámbito de sus atribuciones, cuando así lo prevean las leyes relativas al sistema financiero;
-Fracción adicionada DOF 25-06-2009 XXXVI. Fungir como órgano de consulta del Gobierno Federal en materia de protección al Usuario, en el ámbito de su competencia;
-Fracción adicionada DOF 25-06-2009 XXXVII. Procurar a través de los procedimientos establecidos en las leyes que regulan el sistema financiero, que las Instituciones Financieras cumplan debida y eficazmente las operaciones y servicios, en los términos y condiciones concertados, con los Usuarios;
-Fracción adicionada DOF 25-06-2009 XXXVIII. Imponer sanciones administrativas en el ámbito de su competencia por infracciones a las leyes que regulan las actividades e Instituciones Financieras, sujetas a su supervisión, así como a las disposiciones que emanen de ellas;
-Fracción adicionada DOF 25-06-2009 XXXIX. Conocer y resolver sobre el recurso de revisión que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente las multas impuestas;
-Fracción adicionada DOF 25-06-2009 XL. Elaborar y publicar estadísticas relativas a las Instituciones Financieras y mercados financieros, en el ámbito de su competencia;
-Fracción adicionada DOF 25-06-2009 XLI. Regular y supervisar en el ámbito de su competencia el cumplimiento de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, en los términos señalados en el referido texto legal, y Fracción adicionada DOF 25-06-2009 XLII. Emitir, con el acuerdo de su Junta de Gobierno, disposiciones de carácter general en las que se definan las actividades que se aparten de las sanas prácticas y usos relativos al ofrecimiento y comercialización de las operaciones y servicios financieros por parte de las Instituciones Financieras.
+Fracción reformada DOF 12-05-2005 (reubicada), 15-06-2007
+
+XXVIII. Vigilar y verificar el cumplimiento de las disposiciones contenidas en esta Ley y en las leyes relativas al sistema financiero, en el ámbito de su competencia, así como, en su caso, determinar los criterios para la verificación de su cumplimiento;
+Fracción adicionada DOF 25-06-2009
+
+XXIX. Actuar como consultor en materia de productos y servicios financieros y elaborar estudios relacionados con dichas materias. Asimismo, emitir las opiniones técnicas financieras para resolver las consultas de los Usuarios;
+Fracción adicionada DOF 25-06-2009. Reformada DOF 10-01-2014
+
+XXX. Requerir a las Instituciones Financieras que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los derechos de los Usuarios, así como publicar dichos requerimientos, en cumplimiento del objeto de esta Ley y al de la Comisión Nacional;
+Fracción adicionada DOF 25-06-2009
+
+XXXI. Promover nuevos o mejores sistemas y procedimientos que faciliten a los Usuarios el acceso a los productos o servicios que presten las Instituciones Financieras en mejores condiciones de mercado;
+Fracción adicionada DOF 25-06-2009
+
+XXXII. Informar a los Usuarios sobre las acciones u omisiones de las Instituciones Financieras que afecten sus derechos, así como la forma en que las Instituciones Financieras retribuirán o compensarán a los Usuarios;
+Fracción adicionada DOF 25-06-2009
+
+XXXIII. Supervisar a las Instituciones Financieras en relación a las normas de protección al usuario de servicios financieros cuando tal atribución le esté conferida en las leyes relativas al sistema financiero;
+Fracción adicionada DOF 25-06-2009
+
+XXXIV. Emitir en el ámbito de su competencia la regulación a que se sujetarán las Instituciones Financieras, cuando tal atribución le esté conferida en las leyes del sistema financiero;
+Fracción adicionada DOF 25-06-2009
+
+XXXV. Expedir disposiciones de carácter general en las que se establezca la información que deberán proporcionarle periódicamente las Instituciones Financieras en el ámbito de sus atribuciones, cuando así lo prevean las leyes relativas al sistema financiero;
+Fracción adicionada DOF 25-06-2009
+
+XXXVI. Fungir como órgano de consulta del Gobierno Federal en materia de protección al Usuario, en el ámbito de su competencia;
+Fracción adicionada DOF 25-06-2009
+
+XXXVII. Procurar a través de los procedimientos establecidos en las leyes que regulan el sistema financiero, que las Instituciones Financieras cumplan debida y eficazmente las operaciones y servicios, en los términos y condiciones concertados, con los Usuarios;
+Fracción adicionada DOF 25-06-2009
+
+XXXVIII. Imponer sanciones administrativas en el ámbito de su competencia por infracciones a las leyes que regulan las actividades e Instituciones Financieras, sujetas a su supervisión, así como a las disposiciones que emanen de ellas;
+Fracción adicionada DOF 25-06-2009
+
+XXXIX. Conocer y resolver sobre el recurso de revisión que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente las multas impuestas;
+Fracción adicionada DOF 25-06-2009
+
+XL. Elaborar y publicar estadísticas relativas a las Instituciones Financieras y mercados financieros, en el ámbito de su competencia;
+Fracción adicionada DOF 25-06-2009
+
+XLI. Regular y supervisar en el ámbito de su competencia el cumplimiento de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, en los términos señalados en el referido texto legal, y Fracción adicionada DOF 25-06-2009
+
+XLII. Emitir, con el acuerdo de su Junta de Gobierno, disposiciones de carácter general en las que se definan las actividades que se aparten de las sanas prácticas y usos relativos al ofrecimiento y comercialización de las operaciones y servicios financieros por parte de las Instituciones Financieras.
 Dichas disposiciones no podrán oponerse a las demás disposiciones o reglas que emitan otras autoridades en el ejercicio de sus atribuciones.
-Fracción adicionada DOF 10-01-2014 XLIII. Las disposiciones de carácter general, ordenamientos y recomendaciones contenidas en las fracciones IX, XV, XVIII, XIX y XLII, deberán ser difundidas a los Usuarios del sistema financiero a través del Buró de Entidades Financieras, y Fracción adicionada DOF 10-01-2014 XLIV. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento.
+Fracción adicionada DOF 10-01-2014
+
+XLIII. Las disposiciones de carácter general, ordenamientos y recomendaciones contenidas en las fracciones IX, XV, XVIII, XIX y XLII, deberán ser difundidas a los Usuarios del sistema financiero a través del Buró de Entidades Financieras, y Fracción adicionada DOF 10-01-2014
+
+XLIV. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento.
 Fracción adicionada DOF 15-06-2007. Reformada DOF 25-06-2009 (se recorre). Recorrida DOF 10-01-2014
 
 ### Artículo 12
@@ -164,29 +254,58 @@ En caso de urgencia, a propuesta del Presidente, el secretario de la Junta podr�
 
 ### Artículo 22
 .- Corresponde a la Junta:
+
 I. Determinar y aprobar las bases y criterios conforme a los cuales, la Comisión Nacional considere que deba brindar defensoría legal gratuita a los Usuarios;
+
 II. Publicar, en caso de que lo determine necesario, las bases y criterios a que se refiere la fracción anterior;
+
 III. Aprobar los programas y presupuestos de la Comisión Nacional, propuestos por el Presidente, así como sus modificaciones, en los términos de la legislación aplicable;
+
 IV. Publicar, cuando lo estime necesario, las recomendaciones hechas a las Instituciones Financieras cuando ello contribuya a la creación de una cultura financiera y a la protección de los intereses de los Usuarios;
+
 V. Establecer las políticas y lineamientos que provean a la más adecuada difusión de los servicios que ofrezca la Comisión Nacional;
+
 VI. Aprobar su Estatuto Orgánico, así como expedir las normas internas necesarias para el funcionamiento de la misma;
-Fracción reformada DOF 05-01-2000 VII. Resolver respecto de la instalación de Consejos Consultivos Regionales, Estatales y Locales;
+Fracción reformada DOF 05-01-2000
+
+VII. Resolver respecto de la instalación de Consejos Consultivos Regionales, Estatales y Locales;
+
 VIII. Examinar y, en su caso, aprobar los informes generales y especiales que debe someter a su consideración el Presidente, sobre las labores de la Comisión Nacional;
+
 IX. Establecer las bases, lineamientos y políticas para el adecuado funcionamiento de la Comisión Nacional;
+
 X. Aprobar de conformidad con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que la Comisión Nacional deba celebrar con terceros en obras públicas, adquisiciones, arrendamientos y prestaciones de servicios relacionados con bienes muebles. El Presidente y, en su caso, los servidores públicos que deban intervenir de conformidad con el Estatuto Orgánico de la Comisión Nacional, realizarán tales actos bajo su responsabilidad, sujetándose a las directrices que fije la Junta;
-Fracción reformada DOF 05-01-2000 XI. Aprobar anualmente, previo dictamen de los auditores externos, los estados financieros de la Comisión Nacional y autorizar su publicación;
+Fracción reformada DOF 05-01-2000
+
+XI. Aprobar anualmente, previo dictamen de los auditores externos, los estados financieros de la Comisión Nacional y autorizar su publicación;
+
 XII. Aprobar las disposiciones relativas a la organización de la Comisión Nacional, con las atribuciones que correspondan a sus respectivas unidades administrativas;
+
 XIII. Aprobar las Condiciones Generales de Trabajo que deban observarse entre la Comisión Nacional y sus trabajadores;
+
 XIV. Aprobar el nombramiento y remoción de los funcionarios del nivel inmediato inferior al del Presidente, a propuesta de éste;
+
 XV. Establecer, con sujeción a las disposiciones legales relativas, y sin intervención de cualquiera otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la Comisión Nacional requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la Ley General de Bienes Nacionales considere como del dominio público de la Federación;
+
 XVI. Aprobar los lineamientos para la evaluación de los programas y campañas publicitarias que las Instituciones Financieras pretendan realizar para efecto de dar a conocer sus operaciones o servicios;
+
 XVII. Evaluar periódicamente las actividades de la Comisión Nacional;
+
 XVIII. Resolver respecto de la condonación total o parcial de multas;
+
 XIX. Establecer los parámetros para determinar el monto, la forma y las condiciones de las garantías a que se refiere esta Ley;
-Fracción reformada DOF 05-01-2000 XX. Requerir al Presidente la información necesaria para llevar a cabo sus actividades de evaluación;
+Fracción reformada DOF 05-01-2000
+
+XX. Requerir al Presidente la información necesaria para llevar a cabo sus actividades de evaluación;
+
 XXI. Constituir comités con fines específicos cuando se consideren necesarios;
+
 XXII. Nombrar y remover al secretario y al prosecretario;
-XXIII. Resolver sobre otros asuntos que el Presidente someta a su consideración, y XXIV. Las demás facultades que le confieran otros ordenamientos.
+
+XXIII. Resolver sobre otros asuntos que el Presidente someta a su consideración, y
+
+XXIV. Las demás facultades que le confieran otros ordenamientos.
+
 XXV. Imponer sanciones administrativas por infracciones a las leyes que regulan las actividades, Instituciones Financieras y personas sujetas a la supervisión de la Comisión Nacional, así como a las disposiciones que emanen de ellas. Dicha facultad podrá delegarse en el Presidente, así como en otros servidores públicos de la Comisión Nacional, considerando la naturaleza de la infracción o el monto de las multas. A propuesta del Presidente de la Comisión Nacional, las multas administrativas podrán ser condonadas parcial o totalmente por la Junta de Gobierno.
 Fracción adicionada DOF 25-06-2009
 
@@ -202,10 +321,16 @@ Artículo adicionado DOF 25-06-2009
 
 ### Artículo 24
 .- El nombramiento del Presidente deberá recaer en persona que reúna los siguientes requisitos:
+
 I. Ser ciudadano mexicano y estar en pleno goce de sus derechos civiles y políticos;
+
 II. Haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera;
+
 III. No desempeñar cargos de elección popular, ni ser accionista, consejero, funcionario, comisario, apoderado o agente de las entidades;
-IV. No tener litigio pendiente con la Comisión, y V. No haber sido condenado por sentencia irrevocable por delito intencional que le imponga más de un año de prisión, y si se tratare de delito patrimonial, cometido intencionalmente, cualquiera que haya sido la pena, ni inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano.
+
+IV. No tener litigio pendiente con la Comisión, y
+
+V. No haber sido condenado por sentencia irrevocable por delito intencional que le imponga más de un año de prisión, y si se tratare de delito patrimonial, cometido intencionalmente, cualquiera que haya sido la pena, ni inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano.
 Artículo reformado DOF 25-06-2009, 10-01-2014
 
 ### Artículo 25
@@ -214,25 +339,49 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 26
 .- Corresponde al Presidente de la Comisión Nacional:
+
 I. La representación legal de la Comisión Nacional y el ejercicio de sus facultades, sin perjuicio de las que esta Ley u otras Leyes confiere a la Junta;
-Fracción reformada DOF 25-06-2009 II. Ejecutar los acuerdos de la Junta;
+Fracción reformada DOF 25-06-2009
+
+II. Ejecutar los acuerdos de la Junta;
+
 III. Imponer las sanciones que correspondan de conformidad con lo establecido en esta Ley, así como conocer y resolver sobre el recurso de revisión, y proponer a la Junta la condonación total o parcial de las multas;
+
 IV. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto de la Comisión Nacional;
+
 V. Suscribir y negociar títulos de crédito, así como realizar operaciones de crédito;
-Fracción reformada DOF 05-01-2000 VI. Formular denuncias y querellas, así como otorgar el perdón correspondiente;
+Fracción reformada DOF 05-01-2000
+
+VI. Formular denuncias y querellas, así como otorgar el perdón correspondiente;
+
 VII. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. Para el otorgamiento y validez de estos poderes, bastará la comunicación oficial que se expida al mandatario por el propio Presidente;
+
 VIII. Solicitar la aprobación de la Junta para todas las disposiciones de carácter general que crea pertinentes;
+
 IX. Informar a la Secretaría respecto de los casos concretos que ésta le solicite;
+
 X. Presentar anualmente los presupuestos de la Comisión Nacional, los cuales una vez aprobados por la Junta, serán sometidos a la autorización de la Secretaría;
+
 XI. Proveer lo necesario para el cumplimiento de los programas y el correcto ejercicio del presupuesto aprobado por la Junta;
+
 XII. Informar a la Junta sobre el ejercicio del presupuesto de la Comisión Nacional;
+
 XIII. Informar a la Junta, anualmente o cuando ésta se lo solicite, sobre el ejercicio de las facultades que le sean conferidas;
+
 XIV. Proponer a la Junta el nombramiento y remoción de los funcionarios del nivel inmediato inferior al del Presidente;
+
 XV. Nombrar y remover al personal de la Comisión Nacional;
+
 XVI. Presentar a la Junta los proyectos de disposiciones relacionadas con la organización de la Comisión Nacional y con las atribuciones de sus unidades administrativas;
+
 XVII. Presentar o proponer los documentos o proyectos que respectivamente correspondan, para la aprobación o determinación de la Junta a que se refieren las diversas fracciones del artículo 22 de esta Ley;
+
 XVIII. Ejercer las más amplias facultades de dominio, administración y pleitos y cobranzas, aun de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias;
-Fracción reformada DOF 25-06-2009 XIX. Informar a la Secretaría respecto de los casos concretos que ésta le solicite; y Fracción adicionada DOF 25-06-2009 XX. Las demás que le atribuya la Junta, esta Ley u otros ordenamientos.
+Fracción reformada DOF 25-06-2009
+
+XIX. Informar a la Secretaría respecto de los casos concretos que ésta le solicite; y Fracción adicionada DOF 25-06-2009
+
+XX. Las demás que le atribuya la Junta, esta Ley u otros ordenamientos.
 Fracción reformada DOF 25-06-2009 (se recorre) El Presidente ejercerá sus funciones directamente o mediante acuerdo delegatorio, a través de los Vicepresidentes, Directores Generales y demás servidores públicos de la Comisión Nacional, salvo aquéllas a las que se refiere el artículo siguiente. Los acuerdos por los que se deleguen facultades serán publicados en el Diario Oficial de la Federación.
 
 ### Artículo 27
@@ -275,12 +424,20 @@ Los Consejos Consultivos Regionales estarán integrados por los Delegados Region
 
 ### Artículo 35
 .- Los Consejos Consultivos tendrán las siguientes atribuciones:
+
 I. Opinar ante la Comisión Nacional sobre el desarrollo de los programas y actividades que realice;
+
 II. Elaborar propuestas que contribuyan al mejoramiento de los servicios que proporciona la Comisión Nacional;
+
 III. Opinar sobre el establecimiento de criterios para orientar la protección y defensa de los derechos de los Usuarios;
+
 IV. Opinar ante la Comisión Nacional en cuestiones relacionadas con las políticas de protección y defensa a los Usuarios, así como sobre las campañas publicitarias que la Comisión Nacional emprenda, con el fin de fomentar una cultura financiera entre la población;
+
 V. Proponer medidas para fortalecer la desconcentración de la Comisión Nacional con base en los lineamientos que expidan, en sus respectivos ámbitos de competencia, la Junta y el Presidente;
-VI. Resolver o, en su caso, emitir opinión respecto de los asuntos que sean sometidos a su consideración, y VII. Las demás que como órgano auxiliar le confieran otros ordenamientos.
+
+VI. Resolver o, en su caso, emitir opinión respecto de los asuntos que sean sometidos a su consideración, y
+
+VII. Las demás que como órgano auxiliar le confieran otros ordenamientos.
 
 ### Artículo 36
 .- Los Consejos Consultivos sesionarán por materia, debiendo convocarse a sus sesiones exclusivamente a las personas vinculadas con el tema a tratar en ellas.
@@ -318,11 +475,18 @@ DEL PATRIMONIO DE LA COMISIÓN NACIONAL
 
 ### Artículo 44
 .- El patrimonio de la Comisión Nacional está constituido por:
+
 I. Sus propiedades, posesiones, derechos y obligaciones;
+
 II. Los recursos que directamente le asigne el Presupuesto de Egresos de la Federación;
+
 III. El producto de las sanciones pecuniarias derivadas de la aplicación de esta Ley;
+
 IV. Los bienes muebles e inmuebles que la Federación transfiera a la Comisión Nacional para el cumplimiento de su objeto, así como aquéllos que adquiera la propia Comisión Nacional y que puedan ser destinados a los mismos fines;
-V. Los intereses, rentas, plusvalías y demás utilidades que se obtengan de las inversiones que haga la Comisión Nacional, en los términos de las disposiciones legales, y VI. Cualquier otro ingreso respecto del cual la Comisión Nacional resulte beneficiario.
+
+V. Los intereses, rentas, plusvalías y demás utilidades que se obtengan de las inversiones que haga la Comisión Nacional, en los términos de las disposiciones legales, y
+
+VI. Cualquier otro ingreso respecto del cual la Comisión Nacional resulte beneficiario.
 
 ### Artículo 45
 .- La Comisión Nacional se considera de acreditada solvencia y, por lo tanto, no estará obligado a constituir depósitos o fianza legal de ninguna clase, o cualquiera otra garantía, ni aun tratándose del juicio de amparo.
@@ -347,8 +511,13 @@ Artículo reformado DOF 05-01-2000
 
 ### Artículo 49
 .- La Comisión Nacional, en el ámbito de su competencia y bajo los términos de los convenios de intercambio de información a los que se refiere el artículo 12 de la presente Ley, solicitará a las autoridades financieras que tengan a su cargo otorgar las autorizaciones para el funcionamiento y operación de las Instituciones Financieras, los siguientes documentos:
-Párrafo reformado DOF 10-01-2014 I. Copia de la escritura constitutiva de la Institución Financiera y sus reformas o modificaciones;
-II. Copia del documento que acredite a los administradores o a los representantes legales de la Institución Financiera, y III. Copia de la autorización expedida por la autoridad competente, para operar como Institución Financiera, de los documentos en los que conste el cambio de denominación o de domicilio social, su fusión, escisión o transformación o la revocación o liquidación de la misma, así como de cualquier acto que, a juicio de la Comisión Nacional, pudiera afectar de manera sustancial la operación o funcionamiento de la Institución Financiera.
+Párrafo reformado DOF 10-01-2014
+
+I. Copia de la escritura constitutiva de la Institución Financiera y sus reformas o modificaciones;
+
+II. Copia del documento que acredite a los administradores o a los representantes legales de la Institución Financiera, y
+
+III. Copia de la autorización expedida por la autoridad competente, para operar como Institución Financiera, de los documentos en los que conste el cambio de denominación o de domicilio social, su fusión, escisión o transformación o la revocación o liquidación de la misma, así como de cualquier acto que, a juicio de la Comisión Nacional, pudiera afectar de manera sustancial la operación o funcionamiento de la Institución Financiera.
 Fracción reformada DOF 05-01-2000
 
 ### Artículo 50
@@ -357,10 +526,17 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 50
 Bis.- Cada Institución Financiera deberá contar con una Unidad Especializada que tendrá por objeto atender consultas y reclamaciones de los Usuarios. Dicha Unidad se sujetará a lo siguiente:
+
 I. El Titular de la Unidad deberá tener facultades para representar y obligar a la Institución Financiera al cumplimiento de los acuerdos derivados de la atención que se dé a la reclamación;
+
 II. Contará con encargados regionales en cada entidad federativa en que la Institución Financiera tenga sucursales u oficinas de atención al público;
-Fracción reformada DOF 10-01-2014 III. Los gastos derivados de su funcionamiento, operación y organización correrán a cargo de las Instituciones Financieras;
-IV. Deberá recibir la consulta, reclamación o aclaración del Usuario por cualquier medio que facilite su recepción, incluida la recepción en las sucursales u oficinas de atención al público y responder por escrito dentro de un plazo que no exceda de treinta días hábiles, contado a partir de la fecha de su recepción, y Fracción reformada DOF 10-01-2014 V. El titular de la Unidad Especializada deberá presentar dentro de los diez días hábiles siguientes al cierre de cada trimestre, un informe a la Comisión Nacional de todas las consultas, reclamaciones y aclaraciones recibidas y atendidas por la Institución Financiera en los términos que la Comisión Nacional establezca a través de disposiciones de carácter general que para tal efecto emita.
+Fracción reformada DOF 10-01-2014
+
+III. Los gastos derivados de su funcionamiento, operación y organización correrán a cargo de las Instituciones Financieras;
+
+IV. Deberá recibir la consulta, reclamación o aclaración del Usuario por cualquier medio que facilite su recepción, incluida la recepción en las sucursales u oficinas de atención al público y responder por escrito dentro de un plazo que no exceda de treinta días hábiles, contado a partir de la fecha de su recepción, y Fracción reformada DOF 10-01-2014
+
+V. El titular de la Unidad Especializada deberá presentar dentro de los diez días hábiles siguientes al cierre de cada trimestre, un informe a la Comisión Nacional de todas las consultas, reclamaciones y aclaraciones recibidas y atendidas por la Institución Financiera en los términos que la Comisión Nacional establezca a través de disposiciones de carácter general que para tal efecto emita.
 Fracción reformada DOF 10-01-2014 La presentación de reclamaciones ante la Unidad Especializada suspenderá la prescripción de las acciones a que pudieren dar lugar.
 Las Instituciones Financieras deberán informar mediante avisos colocados en lugares visibles en todas sus sucursales la ubicación, horario de atención y responsable o responsables de la Unidad Especializada. Los Usuarios podrán a su elección presentar su consulta o reclamación ante la Unidad Especializada de la Institución Financiera de que se trate o ante la Comisión Nacional.
 En el caso de que las Instituciones Financieras no tengan sucursales u oficinas de atención al público no les serán aplicables las obligaciones previstas en la fracción II del párrafo primero y el párrafo tercero de este artículo. Dichas Instituciones Financieras solamente deberán señalar los datos de contacto de su Unidad Especializada en un lugar visible y de fácil acceso al público general en el medio electrónico que utilicen para ofrecer sus servicios.
@@ -441,10 +617,16 @@ Artículo reformado DOF 05-01-2000
 
 ### Artículo 63
 .- La Comisión Nacional recibirá las reclamaciones de los Usuarios con base en las disposiciones de esta Ley. Dichas reclamaciones podrán presentarse ya sea por comparecencia del afectado, en forma escrita, o por cualquier otro medio idóneo, cumpliendo los siguientes requisitos:
+
 I. Nombre y domicilio del reclamante;
+
 II. Nombre y domicilio del representante o persona que promueve en su nombre, así como el documento en que conste dicha atribución;
+
 III. Descripción del servicio que se reclama, y relación sucinta de los hechos que motivan la reclamación;
-IV. Nombre de la Institución Financiera contra la que se formula la reclamación. La Comisión Nacional podrá solicitar a la Secretaría y a las Comisiones Nacionales los datos necesarios para proceder a la identificación de la Institución Financiera, cuando la información proporcionada por el Usuario sea insuficiente, y Fracción reformada DOF 05-01-2000 V. Documentación que ampare la contratación del servicio que origina la reclamación.
+
+IV. Nombre de la Institución Financiera contra la que se formula la reclamación. La Comisión Nacional podrá solicitar a la Secretaría y a las Comisiones Nacionales los datos necesarios para proceder a la identificación de la Institución Financiera, cuando la información proporcionada por el Usuario sea insuficiente, y Fracción reformada DOF 05-01-2000
+
+V. Documentación que ampare la contratación del servicio que origina la reclamación.
 Fracción reformada DOF 05-01-2000, 12-05-2005 La Comisión Nacional estará facultada para suplir la deficiencia de las reclamaciones en beneficio del Usuario.
 Párrafo adicionado DOF 12-05-2005 Las reclamaciones podrán ser presentadas de manera conjunta por los Usuarios que presenten problemas comunes con una o varias Instituciones Financieras, debiendo elegir al efecto uno o varios representantes formales comunes.
 
@@ -468,32 +650,54 @@ Párrafo adicionado DOF 05-01-2000
 
 ### Artículo 68
 .- La Comisión Nacional, deberá agotar el procedimiento de conciliación, conforme a las siguientes reglas:
-Párrafo reformado DOF 05-01-2000, 12-05-2005 I. El procedimiento de conciliación sólo se llevará a cabo en reclamaciones por cuantías totales inferiores a tres millones de unidades de inversión, salvo tratándose de reclamaciones en contra de instituciones de seguros en cuyo caso la cuantía deberá de ser inferior a seis millones de unidades de inversión.
+Párrafo reformado DOF 05-01-2000, 12-05-2005
+
+I. El procedimiento de conciliación sólo se llevará a cabo en reclamaciones por cuantías totales inferiores a tres millones de unidades de inversión, salvo tratándose de reclamaciones en contra de instituciones de seguros en cuyo caso la cuantía deberá de ser inferior a seis millones de unidades de inversión.
 Fracción reformada DOF 05-01-2000, 12-05-2005, 15-06-2007, 25-06-2009 I Bis. La Comisión Nacional citará a las partes a una audiencia de conciliación que se realizará dentro de los veinte días hábiles siguientes contados a partir de la fecha en que se reciba la reclamación.
 La conciliación podrá celebrarse vía telefónica o por otro medio idóneo, en cuyo caso la Comisión Nacional o las partes podrán solicitar que se confirmen por escrito los compromisos adquiridos.
-Fracción adicionada DOF 25-06-2009 II. La Institución Financiera deberá, por conducto de un representante, rendir un informe por escrito que se presentará con anterioridad o hasta el momento de la celebración de la audiencia de conciliación a que se refiere la fracción anterior;
-Fracción reformada DOF 05-01-2000 III. En el informe señalado en la fracción anterior, la Institución Financiera, deberá responder de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, en caso contrario, dicho informe se tendrá por no presentado para todos los efectos legales a que haya lugar;
+Fracción adicionada DOF 25-06-2009
+
+II. La Institución Financiera deberá, por conducto de un representante, rendir un informe por escrito que se presentará con anterioridad o hasta el momento de la celebración de la audiencia de conciliación a que se refiere la fracción anterior;
+Fracción reformada DOF 05-01-2000
+
+III. En el informe señalado en la fracción anterior, la Institución Financiera, deberá responder de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, en caso contrario, dicho informe se tendrá por no presentado para todos los efectos legales a que haya lugar;
 La institución financiera deberá acompañar al informe, la documentación, información y todos los elementos que considere pertinentes para sustentarlo, no obstante, la Comisión Nacional podrá en todo momento, requerir a la institución financiera la entrega de cualquier información, documentación o medios electromagnéticos que requiera con motivo de la reclamación y del informe;
-Párrafo adicionado DOF 15-06-2007 Fracción reformada DOF 05-01-2000, 12-05-2005 IV. La Comisión Nacional podrá suspender justificadamente y por una sola ocasión, la audiencia de conciliación. En este caso, la Comisión Nacional señalará día y hora para su reanudación, la cual deberá llevarse a cabo dentro de los diez días hábiles siguientes.
+Párrafo adicionado DOF 15-06-2007 Fracción reformada DOF 05-01-2000, 12-05-2005
+
+IV. La Comisión Nacional podrá suspender justificadamente y por una sola ocasión, la audiencia de conciliación. En este caso, la Comisión Nacional señalará día y hora para su reanudación, la cual deberá llevarse a cabo dentro de los diez días hábiles siguientes.
 La falta de presentación del informe no podrá ser causa para suspender la audiencia referida.
-Fracción reformada DOF 05-01-2000, 25-06-2009, 10-01-2014 V. La falta de presentación del informe dará lugar a que la Comisión Nacional valore la procedencia de las pretensiones del Usuario con base en los elementos con que cuente o se allegue conforme a la fracción VI, y para los efectos de la emisión del dictamen, en su caso, a que se refiere el artículo 68 Bis.
-Fracción reformada DOF 15-06-2007, 25-06-2009 VI. La Comisión Nacional cuando así lo considere o a petición del Usuario, en la audiencia de conciliación correspondiente o dentro de los diez días hábiles anteriores a la celebración de la misma, podrá requerir información adicional a la Institución Financiera, y en su caso, diferirá la audiencia requiriendo a la Institución Financiera para que en la nueva fecha presente el informe adicional;
+Fracción reformada DOF 05-01-2000, 25-06-2009, 10-01-2014
+
+V. La falta de presentación del informe dará lugar a que la Comisión Nacional valore la procedencia de las pretensiones del Usuario con base en los elementos con que cuente o se allegue conforme a la fracción VI, y para los efectos de la emisión del dictamen, en su caso, a que se refiere el artículo 68 Bis.
+Fracción reformada DOF 15-06-2007, 25-06-2009
+
+VI. La Comisión Nacional cuando así lo considere o a petición del Usuario, en la audiencia de conciliación correspondiente o dentro de los diez días hábiles anteriores a la celebración de la misma, podrá requerir información adicional a la Institución Financiera, y en su caso, diferirá la audiencia requiriendo a la Institución Financiera para que en la nueva fecha presente el informe adicional;
 Asimismo, podrá acordar la práctica de diligencias que permitan acreditar los hechos constitutivos de la reclamación.
-Párrafo adicionado DOF 25-06-2009 Fracción reformada DOF 05-01-2000 VII. En la audiencia respectiva se exhortará a las partes a conciliar sus intereses, para tal efecto, el conciliador deberá formular propuestas de solución y procurar que la audiencia se desarrolle en forma ordenada y congruente. Si las partes no llegan a un arreglo, el conciliador deberá consultar el Registro de Ofertas Públicas del Sistema Arbitral en Materia Financiera, previsto en esta misma Ley, a efecto de informar a las mismas que la controversia se podrá resolver mediante el arbitraje de esa Comisión Nacional, para lo cual las invitará a que, de común acuerdo y voluntariamente, designen como árbitro para resolver sus intereses a la propia Comisión Nacional, quedando a elección de las mismas, que sea en amigable composición o de estricto derecho.
+Párrafo adicionado DOF 25-06-2009 Fracción reformada DOF 05-01-2000
+
+VII. En la audiencia respectiva se exhortará a las partes a conciliar sus intereses, para tal efecto, el conciliador deberá formular propuestas de solución y procurar que la audiencia se desarrolle en forma ordenada y congruente. Si las partes no llegan a un arreglo, el conciliador deberá consultar el Registro de Ofertas Públicas del Sistema Arbitral en Materia Financiera, previsto en esta misma Ley, a efecto de informar a las mismas que la controversia se podrá resolver mediante el arbitraje de esa Comisión Nacional, para lo cual las invitará a que, de común acuerdo y voluntariamente, designen como árbitro para resolver sus intereses a la propia Comisión Nacional, quedando a elección de las mismas, que sea en amigable composición o de estricto derecho.
 Párrafo reformado DOF 10-01-2014 Para el caso de la celebración del convenio arbitral correspondiente, a elección del Usuario la audiencia respectiva podrá diferirse para el solo efecto de que el Usuario desee asesorarse de un representante legal. El convenio arbitral correspondiente se hará constar en el acta que al efecto firmen las partes ante la Comisión Nacional.
 Párrafo adicionado DOF 10-01-2014 En caso que las partes no se sometan al arbitraje de la Comisión Nacional se dejarán a salvo sus derechos para que los hagan valer ante los tribunales competentes o en la vía que proceda.
 Párrafo adicionado DOF 10-01-2014 En el evento de que la Institución Financiera no asista a la junta de conciliación se le impondrá sanción pecuniaria y se emplazará a una segunda audiencia, la cual deberá llevarse a cabo en un plazo no mayor a diez días hábiles; en caso de no asistir a ésta se le impondrá una nueva sanción pecuniaria.
 La Comisión Nacional entregará al reclamante, contra pago de su costo, copia certificada del dictamen a que se refiere el artículo 68 Bis, a efecto de que lo pueda hacer valer ante los tribunales competentes;
 La solicitud se hará del conocimiento de la Institución Financiera para que ésta manifieste lo que a su derecho convenga y aporte los elementos y pruebas que estime convenientes en un plazo que no excederá de diez días hábiles.
 Si la Institución Financiera no hace manifestación alguna dentro de dicho plazo, la Comisión emitirá el dictamen con los elementos que posea.
-Fracción reformada DOF 05-01-2000, 12-05-2005, 25-06-2009 VIII. En caso de que las partes lleguen a un acuerdo para la resolución de la reclamación, el mismo se hará constar en el acta circunstanciada que al efecto se levante. En todo momento, la Comisión Nacional deberá explicar al Usuario los efectos y alcances de dicho acuerdo; si después de escuchar explicación el Usuario decide aceptar el acuerdo, éste se firmará por ambas partes y por la Comisión Nacional, fijándose un término para acreditar su cumplimiento.
+Fracción reformada DOF 05-01-2000, 12-05-2005, 25-06-2009
+
+VIII. En caso de que las partes lleguen a un acuerdo para la resolución de la reclamación, el mismo se hará constar en el acta circunstanciada que al efecto se levante. En todo momento, la Comisión Nacional deberá explicar al Usuario los efectos y alcances de dicho acuerdo; si después de escuchar explicación el Usuario decide aceptar el acuerdo, éste se firmará por ambas partes y por la Comisión Nacional, fijándose un término para acreditar su cumplimiento.
 El convenio firmado por las partes tiene fuerza de cosa juzgada y trae aparejada ejecución;
-Fracción reformada DOF 12-05-2005 IX. La carga de la prueba respecto del cumplimiento del convenio corresponde a la Institución Financiera y, en caso de omisión, se hará acreedora de la sanción que proceda conforme a la presente Ley, y X. Concluidas las audiencias de conciliación y en caso de que las partes no lleguen a un acuerdo se levantará el acta respectiva. En el caso de que la Institución Financiera no firme el acta, ello no afectará su validez, debiéndose hacer constar la negativa.
+Fracción reformada DOF 12-05-2005
+
+IX. La carga de la prueba respecto del cumplimiento del convenio corresponde a la Institución Financiera y, en caso de omisión, se hará acreedora de la sanción que proceda conforme a la presente Ley, y
+
+X. Concluidas las audiencias de conciliación y en caso de que las partes no lleguen a un acuerdo se levantará el acta respectiva. En el caso de que la Institución Financiera no firme el acta, ello no afectará su validez, debiéndose hacer constar la negativa.
 Adicionalmente, la Comisión Nacional ordenará a la Institución Financiera correspondiente que registre el pasivo contingente totalmente reservado que derive de la reclamación, y dará aviso de ello a las Comisiones Nacionales a las que corresponda su supervisión.
 En el caso de instituciones y sociedades mutualistas de seguros, la orden mencionada en el segundo párrafo de esta fracción se referirá a la constitución e inversión conforme a la Ley en materia de seguros, de una reserva técnica específica para obligaciones pendientes de cumplir, cuyo monto no deberá exceder la suma asegurada. Dicha reserva se registrará en una partida contable determinada.
 En los supuestos previstos en los dos párrafos anteriores, el registro contable podrá ser cancelado por la Institución Financiera bajo su estricta responsabilidad, si transcurridos ciento ochenta días naturales después de su anotación, el reclamante no ha hecho valer sus derechos ante la autoridad judicial competente o no ha dado inicio el procedimiento arbitral conforme a esta Ley.
 El registro del pasivo contingente o la constitución de la reserva técnica, según corresponda, será obligatoria para el caso de que la Comisión Nacional emita el dictamen a que hace referencia el artículo 68 Bis de la presente Ley. Si de las constancias que obren en el expediente respectivo se desprende, a juicio de la Comisión Nacional, la improcedencia de las pretensiones del Usuario, ésta se abstendrá de ordenar el registro del pasivo contingente o la constitución de la reserva técnica, según corresponda.
-Fracción reformada DOF 05-01-2000, 12-05-2005, 25-06-2009, 10-01-2014 XI. Los acuerdos de trámite que emita la Comisión Nacional no admitirán recurso alguno.
+Fracción reformada DOF 05-01-2000, 12-05-2005, 25-06-2009, 10-01-2014
+
+XI. Los acuerdos de trámite que emita la Comisión Nacional no admitirán recurso alguno.
 Fracción adicionada DOF 25-06-2009
 
 ### Artículo 68
@@ -507,11 +711,18 @@ Artículo adicionado DOF 25-06-2009. Reformado DOF 10-01-2014
 ### Artículo 68
 Bis 1. El dictamen que puede emitir la Comisión Nacional en términos de los artículos 68 y 68 Bis contendrá una valoración técnica y jurídica elaborada con base en la información, documentación o elementos que existan en el expediente, así como en los elementos adicionales que el organismo se hubiere allegado.
 El dictamen a que se refiere el párrafo anterior deberá contener lo siguiente:
+
 I. Lugar y fecha de emisión;
+
 II. Identificación del funcionario que emite el dictamen;
+
 III. Nombre y domicilio de la Institución Financiera y del Usuario;
+
 IV. La obligación contractual y tipo de operación o servicio financiero de que se trate;
-V. El monto original de la operación así como el monto materia de la reclamación; y VI. La determinación del importe de las obligaciones a cargo de la Institución Financiera.
+
+V. El monto original de la operación así como el monto materia de la reclamación; y
+
+VI. La determinación del importe de las obligaciones a cargo de la Institución Financiera.
 La Comisión Nacional contará con un término de sesenta días hábiles para expedir el dictamen correspondiente. El servidor público que incumpla con dicha obligación, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos.
 Artículo adicionado DOF 25-06-2009
 
@@ -553,17 +764,32 @@ Artículo reformado DOF 05-01-2000, 10-01-2014
 
 ### Artículo 75
 .- El procedimiento arbitral de estricto derecho se sujetará como mínimo a los plazos y bases siguientes:
-Párrafo reformado DOF 05-01-2000 I. La demanda deberá presentarse dentro del plazo que voluntariamente hayan acordado las partes, el cual no podrá exceder de nueve días hábiles; a falta de acuerdo entre ellas, dentro de los seis días hábiles siguientes a la celebración del convenio, debiendo el actor acompañar al escrito la documentación en que se funde la acción y las pruebas que puedan servir a su favor en el juicio o en su caso ofrecerlas;
-Fracción reformada DOF 05-01-2000 II. La contestación a la demanda deberá presentarse dentro del plazo que voluntariamente hayan acordado las partes, el cual no podrá exceder de nueve días hábiles; a falta de acuerdo entre ellas, dentro de los seis días hábiles siguientes a la notificación de la misma, debiendo el demandado acompañar a dicho escrito la documentación en que se funden las excepciones y defensas correspondientes, así como las pruebas que puedan servir a su favor en el juicio o en su caso ofrecerlas;
-Fracción reformada DOF 05-01-2000 III. Salvo convenio expreso de las partes, contestada la demanda o transcurrido el plazo para hacerlo, se dictará auto abriendo el juicio a un período de prueba de quince días hábiles, de los cuales los cinco primeros serán para ofrecer aquellas pruebas que tiendan a desvirtuar las ofrecidas por el demandado y los diez restantes para el desahogo de todas las pruebas.
+Párrafo reformado DOF 05-01-2000
+
+I. La demanda deberá presentarse dentro del plazo que voluntariamente hayan acordado las partes, el cual no podrá exceder de nueve días hábiles; a falta de acuerdo entre ellas, dentro de los seis días hábiles siguientes a la celebración del convenio, debiendo el actor acompañar al escrito la documentación en que se funde la acción y las pruebas que puedan servir a su favor en el juicio o en su caso ofrecerlas;
+Fracción reformada DOF 05-01-2000
+
+II. La contestación a la demanda deberá presentarse dentro del plazo que voluntariamente hayan acordado las partes, el cual no podrá exceder de nueve días hábiles; a falta de acuerdo entre ellas, dentro de los seis días hábiles siguientes a la notificación de la misma, debiendo el demandado acompañar a dicho escrito la documentación en que se funden las excepciones y defensas correspondientes, así como las pruebas que puedan servir a su favor en el juicio o en su caso ofrecerlas;
+Fracción reformada DOF 05-01-2000
+
+III. Salvo convenio expreso de las partes, contestada la demanda o transcurrido el plazo para hacerlo, se dictará auto abriendo el juicio a un período de prueba de quince días hábiles, de los cuales los cinco primeros serán para ofrecer aquellas pruebas que tiendan a desvirtuar las ofrecidas por el demandado y los diez restantes para el desahogo de todas las pruebas.
 Cuando a juicio del árbitro y atendiendo a la naturaleza de las pruebas resulte insuficiente el mencionado plazo, éste podrá ser ampliado por una sola vez. Concluido el plazo o la prórroga otorgada por el árbitro, sólo les serán admitidas las pruebas supervenientes, conforme a lo previsto en el Código de Comercio;
 Se tendrán además como pruebas todas las constancias que integren el expediente, aunque no hayan sido ofrecidas por las partes;
-Fracción reformada DOF 05-01-2000 IV. Los exhortos y oficios se entregarán a la parte que haya ofrecido la prueba correspondiente, para que los haga llegar a su destino, para lo cual tendrá la carga de gestionar su diligenciación con la debida prontitud.
+Fracción reformada DOF 05-01-2000
+
+IV. Los exhortos y oficios se entregarán a la parte que haya ofrecido la prueba correspondiente, para que los haga llegar a su destino, para lo cual tendrá la carga de gestionar su diligenciación con la debida prontitud.
 En este caso cuando a juicio del árbitro no se desahoguen las pruebas por causas imputables al oferente, se le tendrá por desistido del derecho que se pretende ejercer;
-Fracción reformada DOF 05-01-2000 V. Ocho días comunes a las partes para formular alegatos;
+Fracción reformada DOF 05-01-2000
+
+V. Ocho días comunes a las partes para formular alegatos;
+
 VI. Una vez concluidos los términos fijados, sin necesidad de que se acuse rebeldía, el procedimiento seguirá su curso y se tendrá por perdido el derecho que debió ejercitarse, salvo en caso de que no se presente la demanda, supuesto en el que se dejarán a salvo los derechos del reclamante;
+
 VII. Los términos serán improrrogables, se computarán en días hábiles y, en todo caso, empezarán a contarse a partir del día siguiente a aquél en que surtan efectos las notificaciones respectivas;
-VIII. Se aplicará supletoriamente el Código de Comercio, a excepción del artículo 1235 y a falta de disposición en dicho Código, se aplicarán las disposiciones del Código Nacional de Procedimientos Civiles y Familiares, y Fracción reformada DOF 14-11-2025 IX. En caso de que no exista promoción de las partes por un lapso de más de sesenta días, contado a partir de la notificación de la última actuación, operará la caducidad de la instancia.
+
+VIII. Se aplicará supletoriamente el Código de Comercio, a excepción del artículo 1235 y a falta de disposición en dicho Código, se aplicarán las disposiciones del Código Nacional de Procedimientos Civiles y Familiares, y Fracción reformada DOF 14-11-2025
+
+IX. En caso de que no exista promoción de las partes por un lapso de más de sesenta días, contado a partir de la notificación de la última actuación, operará la caducidad de la instancia.
 
 ### Artículo 76
 .- La Comisión Nacional tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido en arbitraje. Para tal efecto, podrá valerse de cualquier persona, sea parte o tercero, y de cualquier objeto o documento, ya sea que pertenezca a las partes o a un tercero, sin más limitaciones que la de que las pruebas no estén prohibidas por la ley ni sean contrarias a la moral. Las autoridades administrativas, así como los tribunales deberán auxiliarle en la esfera de su competencia.
@@ -592,7 +818,10 @@ Artículo reformado DOF 05-01-2000
 
 ### Artículo 82
 .- La Comisión Nacional, para el desempeño de las facultades establecidas en este Capítulo, podrá emplear las siguientes medidas de apremio:
-I. Multas, en los términos señalados en esta Ley, y II. El auxilio de la fuerza pública.
+
+I. Multas, en los términos señalados en esta Ley, y
+
+II. El auxilio de la fuerza pública.
 
 ### Artículo 83
 .- Tratándose de Instituciones y Sociedades Mutualistas de Seguros, así como de Instituciones de Fianzas, en caso de no ejecución del laudo, se ordenará el remate de valores invertidos conforme a las Leyes respectivas.
@@ -618,16 +847,24 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 84
 Ter.- Las ofertas públicas del Sistema Arbitral en Materia Financiera que emitan las Instituciones Financieras para la solución de controversias futuras originadas por operaciones o servicios contratados con los Usuarios, se inscribirán en el Registro de Ofertas Públicas del Sistema Arbitral, que tendrá a su cargo la Comisión Nacional.
 Las solicitudes de registro que efectúen las Instituciones Financieras deberán contener:
+
 I. Sometimiento expreso al arbitraje y a los lineamientos de la Comisión Nacional sobre el Sistema Arbitral en Materia Financiera;
+
 II. Indicación de por lo menos tres productos o servicios financieros.
-Una vez registrados el producto o servicio, se entenderá que son por tiempo indefinido, sin embargo podrá revocarse su inscripción a solicitud de la Institución Financiera en cualquier momento, y III. Los demás requisitos que determine la Comisión Nacional en los lineamientos que expida.
+Una vez registrados el producto o servicio, se entenderá que son por tiempo indefinido, sin embargo podrá revocarse su inscripción a solicitud de la Institución Financiera en cualquier momento, y
+
+III. Los demás requisitos que determine la Comisión Nacional en los lineamientos que expida.
 La Comisión Nacional entregará la constancia y distintivo del registro a la Institución Financiera, cuyas características y modalidades para su empleo se establecerán en los lineamientos que expida.
 La lista de las Instituciones Financieras inscritas se divulgará en el portal de internet de la Comisión Nacional y, por otros medios de comunicación.
 La inscripción de las Instituciones Financieras en este registro es voluntaria y no obligatoria.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 84
-Quáter.- Sin perjuicio de lo previsto en el artículo 62 de esta Ley, no podrán ser objeto del Sistema Arbitral en Materia Financiera: a) Las cuestiones sobre las que haya recaído resolución judicial firme y definitiva, y b) Cuando se trate de Instituciones Financieras que sean declaradas en concurso mercantil, en liquidación administrativa, o haya sido revocada su autorización.
+Quáter.- Sin perjuicio de lo previsto en el artículo 62 de esta Ley, no podrán ser objeto del Sistema Arbitral en Materia Financiera:
+
+a) Las cuestiones sobre las que haya recaído resolución judicial firme y definitiva, y
+
+b) Cuando se trate de Instituciones Financieras que sean declaradas en concurso mercantil, en liquidación administrativa, o haya sido revocada su autorización.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 84
@@ -659,12 +896,20 @@ Cuando el Usuario no proporcione al Defensor la información solicitada y no jus
 
 ### Artículo 90
 .- Los Defensores tienen las siguientes obligaciones:
+
 I. Desempeñar y prestar los servicios de orientación jurídica y defensoría legal, con la mayor atingencia y profesionalismo en beneficio de los Usuarios;
+
 II. Hacer uso de todos los medios a su alcance, de acuerdo con la legislación vigente, para lograr una exitosa defensa de los Usuarios;
+
 III. Interponer todos los medios de defensa que la legislación vigente le permita en aras de la defensa de los Usuarios;
+
 IV. Ofrecer todas las pruebas que el Usuario le haya proporcionado, así como aquéllas que el propio Defensor se allegue, a fin de velar por los intereses de los Usuarios;
+
 V. Llevar un registro y expediente de todos y cada uno de los casos que le sean asignados;
-VI. Rendir mensualmente, dentro de los primeros cinco días hábiles, un informe de las labores efectuadas en el mes próximo anterior correspondiente, en el que se consignen los aspectos más relevantes de cada caso bajo su responsabilidad, así como el estado que guardan los mismos, y VII. En general, llevar a cabo todas aquellas acciones que coadyuven a la mejor orientación jurídica y defensa legal de los Usuarios.
+
+VI. Rendir mensualmente, dentro de los primeros cinco días hábiles, un informe de las labores efectuadas en el mes próximo anterior correspondiente, en el que se consignen los aspectos más relevantes de cada caso bajo su responsabilidad, así como el estado que guardan los mismos, y
+
+VII. En general, llevar a cabo todas aquellas acciones que coadyuven a la mejor orientación jurídica y defensa legal de los Usuarios.
 
 ### Artículo 91
 .- Los defensores, durante el tiempo que desempeñen dicho cargo, no podrán dedicarse al libre ejercicio de la profesión, salvo que se trate de actividades docentes.
@@ -694,9 +939,13 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 92
 Bis 3.- Las Instituciones Financieras por conducto de su director general o equivalente y con la opinión de la persona o área que ejerza las funciones de vigilancia de la propia Institución Financiera, podrán someter a la autorización de la Comisión Nacional un programa de autocorrección cuando la Institución Financiera de que se trate, en la realización de sus actividades, o la persona o área que ejerza las funciones de vigilancia como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley.
 No podrán ser materia de un programa de autocorrección en los términos del presente artículo:
+
 I. Las irregularidades o incumplimientos que sean detectados por la Comisión Nacional en ejercicio de sus atribuciones, antes de la presentación por parte de la entidad del programa de autocorrección respectivo.
 Se entenderá que la irregularidad fue detectada previamente por la Comisión Nacional, cuando se haya notificado a la Institución Financiera la irregularidad o cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
-II. Cuando la contravención a la norma de que se trate, corresponda a la comisión de algún delito, o III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
+
+II. Cuando la contravención a la norma de que se trate, corresponda a la comisión de algún delito, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
 ### Artículo 92
@@ -722,22 +971,76 @@ Párrafo reformado DOF 05-01-2000 La imposición de sanciones no relevará al in
 
 ### Artículo 94
 .- La Comisión Nacional estará facultada para imponer las siguientes sanciones:
-Párrafo reformado DOF 05-01-2000 I. Multa de 200 a 1000 días de salario, a la Institución Financiera que no proporcione la información que le solicite la Comisión Nacional, conforme al artículo 47 de esta Ley;
-Fracción reformada DOF 05-01-2000 II. Multa de 200 a 1000 días de salario, a la Institución Financiera que no proporcione la información o la documentación que le solicite la Comisión Nacional, para el cumplimiento de su objeto, de acuerdo con los artículos 12, 49, 53, 58 y 92 Bis 1 de esta Ley;
-Fracción reformada DOF 05-01-2000, 25-06-2009, 10-01-2014 III. Multa de 500 a 2000 días de salario a la Institución Financiera que no presente: a) Los documentos, elementos o información específica solicitados en términos del artículo 67; b) El informe a que se refieren las fracciones II, III, IV y V del artículo 68, o no lo rinda respondiendo de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, y Inciso reformado DOF 25-06-2009 c) La información adicional a que se refiere la fracción VI del artículo 68.
-Fracción reformada DOF 05-01-2000, 12-05-2005 IV. Multa hasta por el importe de lo reclamado por el Usuario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo 68 de esta Ley, siempre que dicho importe sea menor a diez mil unidades de inversión; y para el caso de que el importe reclamado por el Usuario sea igual o superior al monto antes señalado, la sanción máxima será de diez mil unidades de inversión.
+Párrafo reformado DOF 05-01-2000
+
+I. Multa de 200 a 1000 días de salario, a la Institución Financiera que no proporcione la información que le solicite la Comisión Nacional, conforme al artículo 47 de esta Ley;
+Fracción reformada DOF 05-01-2000
+
+II. Multa de 200 a 1000 días de salario, a la Institución Financiera que no proporcione la información o la documentación que le solicite la Comisión Nacional, para el cumplimiento de su objeto, de acuerdo con los artículos 12, 49, 53, 58 y 92 Bis 1 de esta Ley;
+Fracción reformada DOF 05-01-2000, 25-06-2009, 10-01-2014
+
+III. Multa de 500 a 2000 días de salario a la Institución Financiera que no presente:
+
+a) Los documentos, elementos o información específica solicitados en términos del artículo 67;
+
+b) El informe a que se refieren las fracciones II, III, IV y V del artículo 68, o no lo rinda respondiendo de manera razonada a todos y cada uno de los hechos a que se refiere la reclamación, y Inciso reformado DOF 25-06-2009
+
+c) La información adicional a que se refiere la fracción VI del artículo 68.
+Fracción reformada DOF 05-01-2000, 12-05-2005
+
+IV. Multa hasta por el importe de lo reclamado por el Usuario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo 68 de esta Ley, siempre que dicho importe sea menor a diez mil unidades de inversión; y para el caso de que el importe reclamado por el Usuario sea igual o superior al monto antes señalado, la sanción máxima será de diez mil unidades de inversión.
 Fracción reformada DOF 05-01-2000, 15-06-2007, 25-06-2009 IV Bis. Multa de 300 a 1500 días de salario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo 68 de esta Ley cuando la reclamación presentada por el Usuario no refiera importe alguno.
-Fracción adicionada DOF 25-06-2009 V. Multa de 500 a 2000 días de salario, a la Institución Financiera que no cumpla con lo dispuesto por la fracción IX del artículo 68 de esta Ley;
-Fracción reformada DOF 05-01-2000 VI. Multa de 250 a 3000 días de salario, a la Institución Financiera: a) Que no registre o no constituya en tiempo el pasivo contingente o no constituya la reserva técnica específica para obligaciones pendientes de cumplir a que se refieren los artículos 68, fracción X, y 70 de esta Ley; b) Que no acredite o no acredite en tiempo haber registrado el pasivo contingente o la constitución e inversión de la reserva técnica específica para obligaciones pendientes de cumplir a que se refieren los artículos 68, fracción X, y 70 de esta Ley.
-Fracción reformada DOF 05-01-2000, 15-06-2007 VII. Multa de 100 a 1000 días de salario, a la Institución Financiera que no cumpla el laudo arbitral en el plazo establecido en el artículo 81 de esta Ley;
-Fracción reformada DOF 05-01-2000 VIII. Multa de 500 a 2000 días de salario, a la Institución Financiera que no cumpla con lo previsto en el artículo 50 Bis de esta Ley, así como a lo establecido en las disposiciones de carácter general que la Comisión Nacional emita en términos de la fracción V del referido artículo;
-Fracción reformada DOF 05-01-2000, 10-01-2014 IX. La multa a que se refiere el artículo 84 de esta Ley.
-Fracción reformada DOF 05-01-2000 X. Se deroga Fracción adicionada DOF 15-06-2007. Derogada DOF 25-06-2009 XI. Multa de 500 a 2000 días de salario, a la Institución Financiera que cobre cualquier comisión que no se haya reportado a la Comisión Nacional para su inserción en la Base de Datos de las Comisiones que cobren las Instituciones Financieras, prevista en esta Ley.
-Fracción adicionada DOF 15-06-2007 XII. Multa de 250 a 2000 días de salario, a la Institución Financiera que envíe directamente o por interpósita persona cualesquiera publicidad relativa a los productos y servicios que ofrezcan las mismas Instituciones Financieras a aquellos Usuarios que expresamente hayan solicitado que no se les envíe dicha publicidad, que asimismo hayan pedido no ser molestados en su domicilio, lugar de trabajo, dirección electrónica o por cualquier otro medio, para ofrecerles bienes, productos o servicios financieros o que estén inscritos en el Registro Público de Usuarios que no Deseen que su Información sea Utilizada para Fines Mercadotécnicos o Publicitarios, previsto en esta Ley.
-Fracción adicionada DOF 15-06-2007. Reformada DOF 25-06-2009 XIII. Multa de 500 a 2000 días de salario, a la Institución Financiera que celebre cualquier convenio por el que se prohíba o de cualquier manera se restrinja a los Usuarios celebrar operaciones o contratar con otra Institución Financiera.
-Fracción adicionada DOF 15-06-2007 XIV. Multa de 500 a 2000 días de salario, a la Institución Financiera que no atienda: a) La orden de suspensión de la información dirigida a los Usuarios sobre los servicios y productos financieros que ofrezca, y b) Las disposiciones de carácter general que la Comisión Nacional emita en términos de las fracciones XV, XVIII y XIX del artículo 11 de la Ley.
-Fracción adicionada DOF 10-01-2014 XV. Multa de 500 a 2000 días de salario, a la Institución Financiera que: a) No modifique los contratos de adhesión utilizados para la celebración de sus operaciones o la prestación de sus servicios, en términos de la normatividad que resulte aplicable. b) No modifique los documentos que se utilicen para informar a los Usuarios sobre el estado que guardan las operaciones o servicios contratados, y c) No modifique los contratos de adhesión que hubiera celebrado con sus Usuarios, a fin de eliminar cláusulas abusivas, a solicitud de éstos.
-Fracción adicionada DOF 10-01-2014 XVI. Multa de 200 a 1000 días de salario, a la Sociedad Financiera de Objeto Múltiple, Entidad No Regulada, que no proporcione la información que le solicite esa Comisión Nacional, relativa a sus operaciones financieras, y Fracción adicionada DOF 10-01-2014 XVII. Multa de 500 a 2000 días de salario, a la Institución Financiera que realice actividades que se aparten de las sanas prácticas y usos relativos al ofrecimiento y comercialización de las operaciones y servicios financieros de conformidad con las disposiciones de carácter general que la Comisión Nacional emita en términos de la fracción XLII del artículo 11 de la Ley.
+Fracción adicionada DOF 25-06-2009
+
+V. Multa de 500 a 2000 días de salario, a la Institución Financiera que no cumpla con lo dispuesto por la fracción IX del artículo 68 de esta Ley;
+Fracción reformada DOF 05-01-2000
+
+VI. Multa de 250 a 3000 días de salario, a la Institución Financiera:
+
+a) Que no registre o no constituya en tiempo el pasivo contingente o no constituya la reserva técnica específica para obligaciones pendientes de cumplir a que se refieren los artículos 68, fracción X, y 70 de esta Ley;
+
+b) Que no acredite o no acredite en tiempo haber registrado el pasivo contingente o la constitución e inversión de la reserva técnica específica para obligaciones pendientes de cumplir a que se refieren los artículos 68, fracción X, y 70 de esta Ley.
+Fracción reformada DOF 05-01-2000, 15-06-2007
+
+VII. Multa de 100 a 1000 días de salario, a la Institución Financiera que no cumpla el laudo arbitral en el plazo establecido en el artículo 81 de esta Ley;
+Fracción reformada DOF 05-01-2000
+
+VIII. Multa de 500 a 2000 días de salario, a la Institución Financiera que no cumpla con lo previsto en el artículo 50 Bis de esta Ley, así como a lo establecido en las disposiciones de carácter general que la Comisión Nacional emita en términos de la fracción V del referido artículo;
+Fracción reformada DOF 05-01-2000, 10-01-2014
+
+IX. La multa a que se refiere el artículo 84 de esta Ley.
+Fracción reformada DOF 05-01-2000
+
+X. Se deroga Fracción adicionada DOF 15-06-2007. Derogada DOF 25-06-2009
+
+XI. Multa de 500 a 2000 días de salario, a la Institución Financiera que cobre cualquier comisión que no se haya reportado a la Comisión Nacional para su inserción en la Base de Datos de las Comisiones que cobren las Instituciones Financieras, prevista en esta Ley.
+Fracción adicionada DOF 15-06-2007
+
+XII. Multa de 250 a 2000 días de salario, a la Institución Financiera que envíe directamente o por interpósita persona cualesquiera publicidad relativa a los productos y servicios que ofrezcan las mismas Instituciones Financieras a aquellos Usuarios que expresamente hayan solicitado que no se les envíe dicha publicidad, que asimismo hayan pedido no ser molestados en su domicilio, lugar de trabajo, dirección electrónica o por cualquier otro medio, para ofrecerles bienes, productos o servicios financieros o que estén inscritos en el Registro Público de Usuarios que no Deseen que su Información sea Utilizada para Fines Mercadotécnicos o Publicitarios, previsto en esta Ley.
+Fracción adicionada DOF 15-06-2007. Reformada DOF 25-06-2009
+
+XIII. Multa de 500 a 2000 días de salario, a la Institución Financiera que celebre cualquier convenio por el que se prohíba o de cualquier manera se restrinja a los Usuarios celebrar operaciones o contratar con otra Institución Financiera.
+Fracción adicionada DOF 15-06-2007
+
+XIV. Multa de 500 a 2000 días de salario, a la Institución Financiera que no atienda:
+
+a) La orden de suspensión de la información dirigida a los Usuarios sobre los servicios y productos financieros que ofrezca, y
+
+b) Las disposiciones de carácter general que la Comisión Nacional emita en términos de las fracciones XV, XVIII y XIX del artículo 11 de la Ley.
+Fracción adicionada DOF 10-01-2014
+
+XV. Multa de 500 a 2000 días de salario, a la Institución Financiera que:
+
+a) No modifique los contratos de adhesión utilizados para la celebración de sus operaciones o la prestación de sus servicios, en términos de la normatividad que resulte aplicable.
+
+b) No modifique los documentos que se utilicen para informar a los Usuarios sobre el estado que guardan las operaciones o servicios contratados, y
+
+c) No modifique los contratos de adhesión que hubiera celebrado con sus Usuarios, a fin de eliminar cláusulas abusivas, a solicitud de éstos.
+Fracción adicionada DOF 10-01-2014
+
+XVI. Multa de 200 a 1000 días de salario, a la Sociedad Financiera de Objeto Múltiple, Entidad No Regulada, que no proporcione la información que le solicite esa Comisión Nacional, relativa a sus operaciones financieras, y Fracción adicionada DOF 10-01-2014
+
+XVII. Multa de 500 a 2000 días de salario, a la Institución Financiera que realice actividades que se aparten de las sanas prácticas y usos relativos al ofrecimiento y comercialización de las operaciones y servicios financieros de conformidad con las disposiciones de carácter general que la Comisión Nacional emita en términos de la fracción XLII del artículo 11 de la Ley.
 Fracción adicionada DOF 10-01-2014 Las Instituciones Financieras que sean objeto de publicidad serán acreedoras a la misma sanción.
 Párrafo adicionado DOF 15-06-2007 En caso de reincidencia, de conformidad con lo señalado por el artículo siguiente, la Comisión Nacional podrá sancionar a las Instituciones Financieras con multa de hasta el doble de la originalmente impuesta.
 
@@ -749,8 +1052,10 @@ Párrafo adicionado DOF 15-06-2007 En caso de reincidencia, de conformidad con l
 La facultad de la Comisión Nacional para imponer las sanciones de carácter administrativo señaladas en esta Ley, caducará en un plazo de cinco años, contados a partir del día siguiente a aquel en que se realizó la conducta o se actualizó el supuesto de la infracción.
 El plazo de cinco años previsto en el párrafo anterior se interrumpirá, para efectos del inicio del procedimiento administrativo sancionador, a partir del momento de la notificación al presunto infractor del oficio mediante el cual se le concede el derecho de audiencia, en términos de lo previsto en el primer párrafo del presente artículo, sin que ello implique exceder el plazo señalado en el párrafo anterior.
 Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
+
 I. Hasta por dos años, cuando la Institución Financiera: no se ubique en el domicilio registrado ante la Comisión Nacional sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
 El citado plazo se reanudará a partir de la fecha en que la Comisión Nacional tenga conocimiento del domicilio actual.
+
 II. Cuando la Institución Financiera haya controvertido cualquiera de los actos relacionados con el proceso de imposición de la sanción. Dicha suspensión se computará desde la fecha de interposición del medio de defensa y hasta aquella en que se dicte la resolución definitiva correspondiente.
 Previo a la imposición de las sanciones, se notificarán por escrito al presunto infractor los hechos que se le imputan y las disposiciones que se consideren probablemente infringidas.
 En la notificación a que se refiere el párrafo inmediato anterior, se deberá otorgar el derecho de audiencia al presunto infractor, a fin de que, dentro de un plazo que no podrá ser inferior a diez días hábiles, contados a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste lo que a su interés convenga y ofrezca pruebas por escrito. La Comisión Nacional, a petición de parte, podrá ampliar por una sola ocasión el plazo mencionado, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso.
@@ -781,11 +1086,18 @@ DE LA SUBSTANCIACIÓN DEL RECURSO
 . Los afectados con motivo de los actos de la Comisión Nacional en resoluciones dictadas fuera del procedimiento arbitral que pongan fin a un procedimiento o de la imposición de sanciones administrativas, podrán acudir en defensa de sus intereses interponiendo recurso de revisión, cuya interposición será optativa.
 El recurso de revisión deberá interponerse por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y deberá presentarse ante la Junta, cuando el acto haya sido emitido por dicha Junta o por el Presidente, o ante este último cuando se trate de actos realizados por otros servidores públicos.
 El escrito mediante el cual se interponga el recurso de revisión deberá contener:
+
 I. El nombre, denominación o razón social del recurrente;
+
 II. Domicilio para oír y recibir toda clase de citas y notificaciones;
+
 III. Los documentos con los que se acredita la personalidad de quien promueve;
+
 IV. El acto que se recurre y la fecha de su notificación;
-V. Los agravios que se le causen con motivo del acto señalado en la fracción IV anterior, y VI. Las pruebas que se ofrezcan, las cuales deberán tener relación inmediata y directa con el acto impugnado.
+
+V. Los agravios que se le causen con motivo del acto señalado en la fracción IV anterior, y
+
+VI. Las pruebas que se ofrezcan, las cuales deberán tener relación inmediata y directa con el acto impugnado.
 Cuando el recurrente no cumpla con alguno de los requisitos a que se refieren las fracciones I a VI de este artículo, la Comisión Nacional lo prevendrá, por escrito y por única ocasión, para que subsane la omisión prevenida dentro de los tres días hábiles siguientes al en que surta efectos la notificación de dicha prevención y, en caso que la omisión no sea subsanada en el plazo indicado en este párrafo, la Comisión Nacional lo tendrá por no interpuesto. Si se omitieran las pruebas se tendrán por no ofrecidas.
 Artículo reformado DOF 12-05-2005, 07-07-2005, 06-06-2006, 25-06-2009
 
@@ -795,10 +1107,24 @@ Artículo reformado DOF 25-06-2009
 
 ### Artículo 101
 . El órgano encargado de resolver el recurso de revisión podrá:
+
 I. Desecharlo por improcedente;
-II. Sobreseerlo en los casos siguientes: a) Por desistimiento expreso del recurrente. b) Por sobrevenir una causal de improcedencia. c) Por haber cesado los efectos del acto impugnado. d) Las demás que conforme a la ley procedan.
+
+II. Sobreseerlo en los casos siguientes:
+
+a) Por desistimiento expreso del recurrente.
+
+b) Por sobrevenir una causal de improcedencia.
+
+c) Por haber cesado los efectos del acto impugnado.
+
+d) Las demás que conforme a la ley procedan.
+
 III. Confirmar el acto impugnado;
-IV. Revocar total o parcialmente el acto impugnado, y V. Modificar o mandar reponer el acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya.
+
+IV. Revocar total o parcialmente el acto impugnado, y
+
+V. Modificar o mandar reponer el acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya.
 No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
 El órgano encargado de resolver el recurso de revisión deberá atenderlo sin la intervención del servidor público de la Comisión Nacional que haya dictaminado la sanción administrativa que haya dado origen a la imposición del recurso correspondiente.
 La resolución de los recursos de revisión deberá ser emitida en un plazo que no exceda a los noventa días hábiles posteriores a la fecha en que se interpuso el recurso, cuando deba ser resuelto por el Presidente, ni a los ciento veinte días hábiles cuando se trate de recursos que sean competencia de la Junta.
@@ -841,8 +1167,12 @@ Artículo reformado DOF 12-05-2005
 esta Ley entre en vigor.
 **OCTAVO.-** La Secretaría, realizará los trámites que sean necesarios para que la Comisión Nacional quede comprendido en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 1999.
 **NOVENO.-** La instalación de la primera Junta de Gobierno a la que se refiere el artículo 16 deberá concretarse en los siguientes términos:
+
 I. La Secretaría, el Banco de México y las Comisiones Nacionales, deberán designar a sus representantes, y el Secretario de Hacienda y Crédito Público al Presidente de la Comisión;
-II. Los representantes a que se refiere la fracción anterior deberán emitir las bases sobre las cuales se procederá a la integración e instalación del Consejo Consultivo Nacional, dentro de un plazo no mayor de 30 días; y, III. Los integrantes de la Junta de Gobierno a que se refiere la fracción I de este artículo deberán proceder a la integración del Consejo Consultivo Nacional, en los términos de las bases señaladas en la fracción anterior, en un plazo no mayor de quince días a partir de la emisión de las bases a que se refiere la fracción II de este artículo y dicho Consejo Consultivo designará a los integrantes del mismo, que formarán parte de la Junta de Gobierno.
+
+II. Los representantes a que se refiere la fracción anterior deberán emitir las bases sobre las cuales se procederá a la integración e instalación del Consejo Consultivo Nacional, dentro de un plazo no mayor de 30 días; y,
+
+III. Los integrantes de la Junta de Gobierno a que se refiere la fracción I de este artículo deberán proceder a la integración del Consejo Consultivo Nacional, en los términos de las bases señaladas en la fracción anterior, en un plazo no mayor de quince días a partir de la emisión de las bases a que se refiere la fracción II de este artículo y dicho Consejo Consultivo designará a los integrantes del mismo, que formarán parte de la Junta de Gobierno.
 DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 México, D.F., a 13 de diciembre de 1998.- Dip. Luis Patiño Pozas, Presidente.- Sen. José Ramírez Gamero, Presidente.- Dip. Espiridión Sánchez López, Secretario.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
@@ -916,9 +1246,13 @@ Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia
 
 ### ARTÍCULO SEXTO
 Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:
+
 I. Los artículos 3, fracción I, 10 y 16 primer párrafo.
+
 II. El artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de publicidad prevé esta última Ley.
+
 III. El artículo 8. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de contratos de adhesión prevé esta última Ley, en el entendido de que dichas disposiciones contemplarán el contenido mínimo señalado en las fracciones I a VI del referido artículo 8 para los Créditos Garantizados a la Vivienda.
+
 IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que resulten competentes, conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley, deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del Crédito Garantizado a la Vivienda.
 
 ### ARTÍCULO SÉPTIMO
@@ -1014,15 +1348,24 @@ Disposiciones Transitorias
 ### ARTÍCULO QUINTO
 En relación con las modificaciones a que se refieren los Artículos Primero,
 **Segundo.** , Tercero y Cuarto de este Decreto, se estará a lo siguiente:
+
 I. La Comisión Federal de Competencia Económica contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto para llevar a cabo una investigación sobre las condiciones de competencia en el sistema financiero y sus mercados, para lo cual deberá escuchar la opinión no vinculante de la Secretaría de Hacienda y Crédito Público. Como resultado de dicha investigación la Comisión Federal de Competencia Económica podrá, en su caso, formular recomendaciones a las autoridades financieras para mejorar la competencia en este sistema y sus mercados y ejercer las demás atribuciones que le confiere la Ley Federal de Competencia Económica a fin de evitar prácticas monopólicas, concentraciones y demás restricciones al funcionamiento eficiente de los mercados en este sistema, incluyendo, según corresponda, ordenar medidas para eliminar las barreras a la competencia y la libre concurrencia; ordenar la desincorporación de activos, derechos, partes sociales o acciones de los agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos, y el resto de las medidas facultadas por la Constitución y la ley de la materia.
+
 II. Las obligaciones derivadas del presente Decreto a cargo de las Instituciones Financieras entrarán en vigor a los noventa días naturales siguientes a su entrada en vigor.
+
 III. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros para emitir las disposiciones de carácter general a que se refiere este Decreto, tendrá un plazo de trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Decreto.
+
 IV. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros contará con el plazo citado en el transitorio anterior para emitir los lineamientos a que se refiere el artículo 84 Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros y poner en funcionamiento el Sistema Arbitral en Materia Financiera.
+
 V. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros contará con un plazo de ciento ochenta días naturales para poner en funcionamiento el Buró de Entidades Financieras, contados a partir de la entrada en vigor del presente Decreto.
 Además de lo estipulado por el artículo 8o. Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros respecto a la información del Buró de Entidades Financieras; se deberá incluir como mínimo la información relacionada con reclamaciones, consultas, dictámenes, sanciones administrativas, así como, la eliminación o modificación de cláusulas abusivas, cuya identificación deberá ser por productos o servicios.
+
 VI. La Comisión Nacional Bancaria y de Valores, dentro de los cuarenta y cinco días naturales siguientes a partir de la entrada en vigor de este Decreto, establecerá un programa de identificación, revisión e inspección de las Redes de Medios de Disposición actualmente en operación.
+
 VII. La Comisión Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, emitirán las disposiciones de carácter general a que se refiere el artículo 4 Bis 3 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros dentro de los sesenta días naturales siguientes a partir de la entrada en vigor del presente Decreto. Al vencimiento de dicho plazo el Presidente de la Comisión Nacional Bancaria y de Valores, y el Gobernador del Banco de México, comparecerán conjuntamente ante la Cámara de Diputados para informar acerca del ejercicio de esta atribución, y deberán comparecer además a los seis y doce meses siguientes para informar respecto de la evolución del mercado de redes de disposición y respecto de la aplicación de las disposiciones antes referidas.
+
 VIII. El Banco de México emitirá las disposiciones de carácter general a que se refiere el artículo 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros dentro de los sesenta días naturales siguientes a partir de la entrada en vigor del presente Decreto.
+
 IX. La Cámara de Diputados procurará destinar recursos en el presupuesto de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros para el desarrollo de los diferentes programas de educación y cultura financiera que ejerza. ……….
 
 ## TRANSITORIO

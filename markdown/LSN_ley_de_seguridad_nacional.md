@@ -23,37 +23,67 @@ La misma tiene por objeto establecer las bases de integración y acción coordin
 
 ### Artículo 3
 .- Para efectos de esta Ley, por Seguridad Nacional se entienden las acciones destinadas de manera inmediata y directa a mantener la integridad, estabilidad y permanencia del Estado Mexicano, que conlleven a:
+
 I. La protección de la nación mexicana frente a las amenazas y riesgos que enfrente nuestro país;
+
 II. La preservación de la soberanía e independencia nacionales y la defensa del territorio;
+
 III. El mantenimiento del orden constitucional y el fortalecimiento de las instituciones democráticas de gobierno;
+
 IV. El mantenimiento de la unidad de las partes integrantes de la Federación señaladas en el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
-V. La defensa legítima del Estado Mexicano respecto de otros Estados o sujetos de derecho internacional, y VI. La preservación de la democracia, fundada en el desarrollo económico social y político del país y sus habitantes.
+
+V. La defensa legítima del Estado Mexicano respecto de otros Estados o sujetos de derecho internacional, y
+
+VI. La preservación de la democracia, fundada en el desarrollo económico social y político del país y sus habitantes.
 
 ### Artículo 4
 .- La Seguridad Nacional se rige por los principios de legalidad, responsabilidad, respeto a los derechos fundamentales de protección a la persona humana y garantías individuales y sociales, confidencialidad, lealtad, transparencia, eficiencia, coordinación y cooperación.
 
 ### Artículo 5
 .- Para los efectos de la presente Ley, son amenazas a la Seguridad Nacional:
+
 I. Actos tendentes a consumar espionaje, sabotaje, terrorismo, rebelión, traición a la patria, genocidio, en contra de los Estados Unidos Mexicanos dentro del territorio nacional;
+
 II. Actos de interferencia extranjera en los asuntos nacionales que puedan implicar una afectación al Estado Mexicano;
+
 III. Actos que impidan a las autoridades actuar contra la delincuencia organizada;
+
 IV. Actos tendentes a quebrantar la unidad de las partes integrantes de la Federación, señaladas en el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
+
 V. Actos tendentes a obstaculizar o bloquear operaciones militares o navales contra la delincuencia organizada;
+
 VI. Actos en contra de la seguridad de la aviación;
+
 VII. Actos que atenten en contra del personal diplomático;
+
 VIII. Todo acto tendente a consumar el tráfico ilegal de materiales nucleares, de armas químicas, biológicas y convencionales de destrucción masiva;
+
 IX. Actos ilícitos en contra de la navegación marítima;
+
 X. Todo acto de financiamiento de acciones y organizaciones terroristas;
+
 XI. Actos tendentes a obstaculizar o bloquear actividades de inteligencia o contrainteligencia;
-Fracción reformada DOF 08-11-2019 XII. Actos tendentes a destruir o inhabilitar la infraestructura de carácter estratégico o indispensable para la provisión de bienes o servicios públicos, y Fracción reformada DOF 08-11-2019 XIII. [Actos ilícitos en contra del fisco federal a los que hace referencia el artículo 167 del Código Nacional de Procedimientos Penales.] Fracción adicionada DOF 08-11-2019 Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025
+Fracción reformada DOF 08-11-2019
+
+XII. Actos tendentes a destruir o inhabilitar la infraestructura de carácter estratégico o indispensable para la provisión de bienes o servicios públicos, y Fracción reformada DOF 08-11-2019
+
+XIII. [Actos ilícitos en contra del fisco federal a los que hace referencia el artículo 167 del Código Nacional de Procedimientos Penales.] Fracción adicionada DOF 08-11-2019 Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025
 
 ### Artículo 6
 .- Para los efectos de la presente Ley, se entiende por:
+
 I. Consejo: Consejo de Seguridad Nacional.
+
 II. Instancias: Instituciones y autoridades que en función de sus atribuciones participen directa o indirectamente en la Seguridad Nacional.
+
 III. Red: Red Nacional de Investigación.
+
 IV. Centro: Centro de Investigación y Seguridad Nacional;
-Fracción reformada DOF 18-12-2020 V. Información gubernamental confidencial: Los datos personales otorgados a una instancia por servidores públicos, así como los datos personales proporcionados al Estado Mexicano para determinar o prevenir una amenaza a la Seguridad Nacional, y Fracción reformada DOF 18-12-2020 VI. Agentes Extranjeros: Funcionarios extranjeros que en sus países de origen ejercen funciones policiales, de inspección o de supervisión de las leyes y otras disposiciones de carácter reglamentario o aquéllas de carácter técnico especializado.
+Fracción reformada DOF 18-12-2020
+
+V. Información gubernamental confidencial: Los datos personales otorgados a una instancia por servidores públicos, así como los datos personales proporcionados al Estado Mexicano para determinar o prevenir una amenaza a la Seguridad Nacional, y Fracción reformada DOF 18-12-2020
+
+VI. Agentes Extranjeros: Funcionarios extranjeros que en sus países de origen ejercen funciones policiales, de inspección o de supervisión de las leyes y otras disposiciones de carácter reglamentario o aquéllas de carácter técnico especializado.
 Fracción adicionada DOF 18-12-2020
 
 ### Artículo 7
@@ -62,10 +92,19 @@ Para la elaboración de la Agenda Nacional de Riesgos, se tomará en cuenta tant
 
 ### Artículo 8
 .- A falta de previsión expresa en la presente Ley, se estará a las siguientes reglas de supletoriedad:
+
 I. Respecto del apoyo que deban prestar las Instancias se estará a lo dispuesto en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
+
 II. En lo relativo al régimen disciplinario de los servidores públicos de las dependencias federales que integran el Consejo, se aplicará la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
 III. Con referencia al control judicial de la inteligencia para la Seguridad Nacional, será aplicable en lo conducente el Código Nacional de Procedimientos Civiles y Familiares y la Ley Orgánica del Poder Judicial de la Federación;
-Fracción reformada DOF 14-11-2025 IV. En materia de coadyuvancia y de intervención de comunicaciones privadas, será aplicable el V. Por cuanto hace a la información de Seguridad Nacional, se estará a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y VI. Para el resto de los aspectos, se aplicarán los principios generales del derecho.
+Fracción reformada DOF 14-11-2025
+
+IV. En materia de coadyuvancia y de intervención de comunicaciones privadas, será aplicable el
+
+V. Por cuanto hace a la información de Seguridad Nacional, se estará a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y
+
+VI. Para el resto de los aspectos, se aplicarán los principios generales del derecho.
 La materia de Seguridad Nacional está excluida de la aplicación supletoria de la Ley Federal de Procedimiento Administrativo.
 TÍTULO SEGUNDO DE LAS INSTANCIAS ENCARGADAS DE LA SEGURIDAD NACIONAL
 
@@ -81,59 +120,101 @@ Las actividades propias de inteligencia para la Seguridad Nacional cuyas caracte
 
 ### Artículo 11
 .- Los titulares de las instituciones de Seguridad Nacional, deben reunir los requisitos siguientes:
+
 I. Ser mexicano por nacimiento;
+
 II. Tener por lo menos 30 años cumplidos;
+
 III. Acreditar la capacidad y experiencia para el desempeño de la función;
+
 IV. Ser de reconocida probidad.
+
 V. No estar procesado, ni haber sido condenado por delito doloso.
 
 ### Artículo 12
 .- Para la coordinación de acciones orientadas a preservar la Seguridad Nacional se establece el Consejo de Seguridad Nacional, que estará integrado por:
+
 I. El Titular del Ejecutivo Federal, quien lo presidirá;
+
 II. El Secretario de Gobernación, quien fungirá como Secretario Ejecutivo;
+
 III. El Secretario de la Defensa Nacional;
+
 IV. El Secretario de Marina;
+
 V. El Secretario de Seguridad Pública;
+
 VI. El Secretario de Hacienda y Crédito Público;
+
 VII. El Secretario de la Función Pública;
+
 VIII. El Secretario de Relaciones Exteriores;
+
 IX. El Secretario de Comunicaciones y Transportes;
-X. El Fiscal General de la República, y Fracción reformada DOF 20-05-2021 XI. El Director General del Centro de Investigación y Seguridad Nacional.
+
+X. El Fiscal General de la República, y Fracción reformada DOF 20-05-2021
+
+XI. El Director General del Centro de Investigación y Seguridad Nacional.
 Los integrantes del Consejo no podrán nombrar suplente. En caso de ausencia del Presidente, el Secretario Ejecutivo presidirá la reunión.
 El Consejo contará con un Secretario Técnico, que será nombrado por el Presidente de la República, dependerá directamente de él, contará con un equipo técnico especializado y un presupuesto asignado en el Presupuesto de Egresos de la Federación. Éste no será integrante del Consejo.
 
 ### Artículo 13
 .- El Consejo de Seguridad Nacional es una instancia deliberativa cuya finalidad es establecer y articular la política en la materia. Por tanto conocerá los asuntos siguientes:
+
 I. La integración y coordinación de los esfuerzos orientados a preservar la Seguridad Nacional;
+
 II. Los lineamientos que permitan el establecimiento de políticas generales para la Seguridad Nacional;
+
 III. El Programa para la Seguridad Nacional y la definición anual de la Agenda Nacional de Riesgos;
+
 IV. La evaluación periódica de los resultados del Programa y el seguimiento de la Agenda Nacional de Riesgos;
+
 V. Los programas de cooperación internacional;
+
 VI. Las medidas necesarias para la Seguridad Nacional, dentro del marco de atribuciones previsto en la presente Ley y en otros ordenamientos aplicables;
+
 VII. Los lineamientos para regular el uso de aparatos útiles en la intervención de comunicaciones privadas;
+
 VIII. Los lineamientos para que el Centro preste auxilio y colaboración en materia de Seguridad Pública, procuración de justicia y en cualquier otro ramo de la Administración Pública que acuerde el Consejo;
-IX. Los procesos de clasificación y desclasificación de información en materia de Seguridad Nacional, y X. Los demás que establezcan otras disposiciones o el Presidente de la República.
+
+IX. Los procesos de clasificación y desclasificación de información en materia de Seguridad Nacional, y
+
+X. Los demás que establezcan otras disposiciones o el Presidente de la República.
 
 ### Artículo 14
 .- El Secretario Ejecutivo tendrá la obligación de promover en todo tiempo la efectiva coordinación y funcionamiento del Consejo, y estará facultado para celebrar los convenios y bases de colaboración que acuerde éste.
 
 ### Artículo 15
 .- El Secretario Técnico del Consejo tendrá a su cargo las siguientes funciones:
+
 I. Elaborar y certificar los acuerdos que se tomen en el Consejo, llevando su archivo y el de los instrumentos jurídicos que se generen en el seno del mismo;
+
 II. Realizar las acciones necesarias para la debida ejecución y seguimientos de los acuerdos del Consejo;
+
 III. Proponer al Consejo políticas, lineamientos y acciones en materia de Seguridad Nacional;
+
 IV. Proponer el contenido del Programa para la Seguridad Nacional;
+
 V. Presentar al Consejo la Agenda Nacional de Riesgos;
+
 VI. Elaborar los informes de actividades que ordene el Consejo;
+
 VII. Entregar en tiempo a la Comisión Bicamaral la documentación e informes a las que se refiere el
 
 ### artículo 57
 de la presente Ley;
+
 VIII. Administrar y sistematizar los instrumentos y redes de información que se generen en el seno del Consejo;
+
 IX. Promover la ejecución de las acciones conjuntas que se acuerden en el Consejo, de conformidad con las bases y reglas que emita el mismo y con respeto a las atribuciones de las instancias vinculadas;
+
 X. Realizar estudios especializados en materias relacionadas con la Seguridad Nacional por acuerdo del Consejo;
+
 XI. Realizar el inventario de la infraestructura estratégica del país;
-XII. Solicitar información necesaria a las dependencias federales para seguridad nacional que requiera explícitamente el Consejo, y XIII. Las demás que señalen las leyes y reglamentos, o que sean necesarias para cumplir las anteriores.
+
+XII. Solicitar información necesaria a las dependencias federales para seguridad nacional que requiera explícitamente el Consejo, y
+
+XIII. Las demás que señalen las leyes y reglamentos, o que sean necesarias para cumplir las anteriores.
 
 ### Artículo 16
 .- El Consejo se reunirá a convocatoria de su Presidente con la periodicidad que éste determine. En todo caso deberá reunirse, cuando menos, bimestralmente.
@@ -151,16 +232,28 @@ DEL CENTRO DE INVESTIGACIÓN Y SEGURIDAD NACIONAL
 
 ### Artículo 19
 .- Son atribuciones del Centro:
+
 I. Operar tareas de inteligencia como parte del sistema de seguridad nacional que contribuyan a preservar la integridad, estabilidad y permanencia del Estado Mexicano, a dar sustento a la gobernabilidad y a fortalecer el Estado de Derecho;
+
 II. Procesar la información que generen sus operaciones, determinar su tendencia, valor, significado e interpretación específica y formular las conclusiones que se deriven de las evaluaciones correspondientes, con el propósito de salvaguardar la seguridad del país;
+
 III. Preparar estudios de carácter político, económico, social y demás que se relacionen con sus atribuciones, así como aquellos que sean necesarios para alertar sobre los riesgos y amenazas a la Seguridad Nacional;
+
 IV. Elaborar los lineamientos generales del plan estratégico y la Agenda Nacional de Riesgos;
+
 V. Proponer medidas de prevención, disuasión, contención y desactivación de riesgos y amenazas que pretendan vulnerar el territorio, la soberanía, las instituciones nacionales, la gobernabilidad democrática o el Estado de Derecho;
+
 VI. Establecer cooperación interinstitucional con las diversas dependencias de la Administración Pública Federal, autoridades federales, de las entidades federativas y municipales o delegacionales, en estricto apego a sus respectivos ámbitos de competencia con la finalidad de coadyuvar en la preservación de la integridad, estabilidad y permanencia del Estado Mexicano;
+
 VII. Proponer al Consejo el establecimiento de sistemas de cooperación internacional, con el objeto de identificar posibles riesgos y amenazas a la soberanía y seguridad nacionales;
+
 VIII. Adquirir, administrar y desarrollar tecnología especializada para la investigación y difusión confiable de las comunicaciones del Gobierno Federal en materia de Seguridad Nacional, así como para la protección de esas comunicaciones y de la información que posea;
+
 IX. Operar la tecnología de comunicaciones especializadas, en cumplimiento de las atribuciones que tiene encomendadas o en apoyo de las instancias de gobierno que le solicite el Consejo;
-X. Prestar auxilio técnico a cualquiera de las instancias de gobierno representadas en el Consejo, conforme a los acuerdos que se adopten en su seno, y XI. Las demás que le confieran otras disposiciones jurídicas aplicables o le señale, en el ámbito de su competencia, el Consejo o el Secretario Ejecutivo.
+
+X. Prestar auxilio técnico a cualquiera de las instancias de gobierno representadas en el Consejo, conforme a los acuerdos que se adopten en su seno, y
+
+XI. Las demás que le confieran otras disposiciones jurídicas aplicables o le señale, en el ámbito de su competencia, el Consejo o el Secretario Ejecutivo.
 
 ## CAPÍTULO III
 ESTATUTO DEL PERSONAL DEL CENTRO
@@ -243,10 +336,14 @@ DEL PROCEDIMIENTO
 
 ### Artículo 38
 .- La solicitud a que se refiere el artículo 34 debe contener:
+
 I. Una descripción detallada de los hechos y situaciones que representen alguna amenaza para la Seguridad Nacional en los términos del artículo 5 de esta Ley.
 Dicha descripción omitirá datos de identificación de personas, lugares o cosas cuya difusión indebida, ponga en riesgo su seguridad o la investigación en curso.
 No obstante lo dispuesto en el párrafo anterior, los datos de identificación omitidos en la solicitud, serán presentados en un sobre cerrado, relacionado con la solicitud que acompaña, el cual será debidamente identificado y señalado por el juez mediante acuerdo reservado que recaiga a la solicitud. El expediente que se forma con este motivo, se manejará en sigilo y se guardará en el secreto del juzgado;
-II. Las consideraciones que motivaran la solicitud, y III. El lapso de vigencia de la autorización que se solicita.
+
+II. Las consideraciones que motivaran la solicitud, y
+
+III. El lapso de vigencia de la autorización que se solicita.
 
 ### Artículo 39
 .- Una vez presentada la solicitud, el juez debe proporcionar acuse de recibo y emitir dentro de las veinticuatro horas contadas a partir de la solicitud, una resolución fundada y motivada en la que puede otorgar o negar la autorización solicitada.
@@ -255,10 +352,16 @@ La intervención puede aplicarse a comunicaciones y emisiones privadas, realizad
 
 ### Artículo 40
 .- El juez, al emitir la resolución que autorice la medida solicitada, en todo caso deberá precisar:
+
 I. Los datos de identificación del expediente en que se actúa;
+
 II. El tipo de actividad que autoriza;
+
 III. El lapso durante el cual se autoriza la medida;
-IV. En caso necesario, la autorización expresa para instalar o remover cualquier instrumento o medio de intervención, y V. Cualquier apreciación que el juez considere necesaria.
+
+IV. En caso necesario, la autorización expresa para instalar o remover cualquier instrumento o medio de intervención, y
+
+V. Cualquier apreciación que el juez considere necesaria.
 
 ### Artículo 41
 .- El control y la ejecución de las intervenciones en materia de Seguridad Nacional están a cargo del Centro.
@@ -308,7 +411,10 @@ DEL ACCESO A LA INFORMACIÓN EN MATERIA DE SEGURIDAD NACIONAL
 
 ### Artículo 51
 .- Además de la información que satisfaga los criterios establecidos en la legislación general aplicable, es información reservada por motivos de Seguridad Nacional:
-I. Aquella cuya aplicación implique la revelación de normas, procedimientos, métodos, fuentes, especificaciones técnicas, tecnología o equipo útiles a la generación de inteligencia para la Seguridad Nacional, sin importar la naturaleza o el origen de los documentos que la consignen, o II. Aquella cuya revelación pueda ser utilizada para actualizar o potenciar una amenaza.
+
+I. Aquella cuya aplicación implique la revelación de normas, procedimientos, métodos, fuentes, especificaciones técnicas, tecnología o equipo útiles a la generación de inteligencia para la Seguridad Nacional, sin importar la naturaleza o el origen de los documentos que la consignen, o
+
+II. Aquella cuya revelación pueda ser utilizada para actualizar o potenciar una amenaza.
 
 ### Artículo 52
 .- La publicación de información no reservada, generada o custodiada por el Centro, se realizará invariablemente con apego al principio de la información confidencial gubernamental.
@@ -332,14 +438,24 @@ Párrafo adicionado DOF 26-12-2005
 
 ### Artículo 57
 .- La Comisión Bicamaral tendrá las siguientes atribuciones:
+
 I. Solicitar informes concretos al Centro, cuando se discuta una ley o se estudie un asunto concerniente a su ramo o actividades;
+
 II. Conocer el proyecto anual de la Agenda Nacional de Riesgos y emitir opinión al respecto;
+
 III. Conocer el informe a que hace referencia el artículo 58 de esta Ley;
+
 IV. Conocer los reportes de actividades que envíe el Director General del Centro al Secretario Ejecutivo;
+
 V. Conocer los informes generales de cumplimiento de las directrices que dé por escrito el Secretario Ejecutivo al Director General del Centro;
+
 VI. Conocer de los Acuerdos de Cooperación que establezca el Centro y las Acciones que realicen en cumplimiento de esos Acuerdos;
+
 VII. Requerir al Centro y a las instancias correspondientes los resultados de las revisiones, auditorías y procedimientos que se practiquen a dicha institución;
-VIII. Enviar al Consejo cualquier recomendación que considere apropiada, y IX. Las demás que le otorgue otras disposiciones legales.
+
+VIII. Enviar al Consejo cualquier recomendación que considere apropiada, y
+
+IX. Las demás que le otorgue otras disposiciones legales.
 
 ### Artículo 58
 .- En los meses en que inicien los periodos ordinarios de sesiones del Congreso, el Secretario Técnico del Consejo deberá rendir a la Comisión Bicamaral un informe general de las actividades desarrolladas en el semestre inmediato anterior.
@@ -369,9 +485,14 @@ TÍTULO SEXTO DE LA COOPERACIÓN DE LAS INSTANCIAS LOCALES Y MUNICIPALES CAPÍTU
 
 ### Artículo 65
 .- La cooperación de los poderes y órganos de gobierno de las entidades federativas en la función de garantizar la Seguridad Nacional se establecerá para:
+
 I. Aportar cualquier información del orden local a la Red;
+
 II. Colaborar con las autoridades federales previstas en esta Ley, a fin de lograr una coordinación efectiva y oportuna de políticas, acciones y programas;
-III. Celebrar convenios de colaboración generales y específicos que deriven de la presente Ley, y IV. Promover la participación de los Municipios en las políticas, acciones y programas.
+
+III. Celebrar convenios de colaboración generales y específicos que deriven de la presente Ley, y
+
+IV. Promover la participación de los Municipios en las políticas, acciones y programas.
 
 ### Artículo 66
 .- Los gobiernos de las entidades federativas, en el ejercicio de las atribuciones que les correspondan por virtud de lo previsto en el presente Título, en ningún caso estarán facultados para causar actos de molestia o de cualquier naturaleza que afecten la esfera jurídica de los particulares.
@@ -399,13 +520,22 @@ Artículo adicionado DOF 18-12-2020
 
 ### Artículo 71
 .- Los Agentes Extranjeros deberán observar las siguientes disposiciones:
+
 I. Sólo podrán desarrollar las actividades de enlace para el intercambio de información con autoridades mexicanas en términos de lo dispuesto en la acreditación que se hubiese expedido a su favor;
+
 II. No podrán ejercer las facultades reservadas a las autoridades mexicanas ni podrán aplicar o ejecutar las leyes extranjeras en territorio nacional;
+
 III. Deberán abstenerse de realizar gestiones directas ante autoridades distintas de la Secretaría de Relaciones Exteriores o de las dependencias que corresponda en términos de los respectivos convenios de cooperación internacional suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional;
+
 IV. Deberán poner en conocimiento de las autoridades mexicanas que corresponda, en términos de los respectivos convenios de cooperación internacional suscrito por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional, la información de que se alleguen en el ejercicio de sus funciones;
+
 V. Deberán presentar ante las secretarías de Relaciones Exteriores y de Seguridad y Protección Ciudadana un informe de carácter mensual en las materias relativas a los convenios de cooperación bilateral suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional. En dicho informe se deberán incluir las actividades y gestiones que desarrollen ante las diversas autoridades federales, de las entidades federativas y de los municipios. En todo caso, deberán mantener la confidencialidad de la información que obtengan derivado de la aplicación de los convenios de cooperación bilateral, de conformidad con los términos establecidos en los mismos;
+
 VI. Tendrán prohibido realizar o inducir a terceras personas a realizar detenciones, a realizar acciones tendientes a la privación de la libertad, a allanar la propiedad privada o cualquiera otra conducta que resulte violatoria de la Constitución Política de los Estados Unidos Mexicanos y las leyes nacionales aplicables;
-VII. Deberán abstenerse de realizar actividades que pongan en peligro su integridad física. En consecuencia, deberán sujetarse a los criterios que determine la Secretaría de Seguridad y Protección Ciudadana, y VIII. Sólo podrán portar las armas de fuego que, en su caso, les autorice la Secretaría de la Defensa Nacional.
+
+VII. Deberán abstenerse de realizar actividades que pongan en peligro su integridad física. En consecuencia, deberán sujetarse a los criterios que determine la Secretaría de Seguridad y Protección Ciudadana, y
+
+VIII. Sólo podrán portar las armas de fuego que, en su caso, les autorice la Secretaría de la Defensa Nacional.
 Artículo adicionado DOF 18-12-2020
 
 ### Artículo 72
@@ -555,6 +685,7 @@ Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de 
 SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 130/2019 y su acumulada 136/2019, así como los Votos Concurrente y Particular de la señora Ministra Ana Margarita Ríos Farjat, Concurrente y Aclaratorio del señor Ministro Juan Luis González Alcántara Carrancá y Concurrente de la señora Ministra Presidenta Norma Lucía Piña Hernández.
 Publicada en el Diario Oficial de la Federación el 20 de agosto de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 130/2019 Y SU ACUMULADA 136/2019 PROMOVENTES: COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS Y DIVERSOS INTEGRANTES DE LA CÁMARA DE SENADORES DEL CONGRESO DE LA UNIÓN VISTO BUENO SR. MINISTRO PONENTE: MINISTRO LUIS MARÍA AGUILAR MORALES COTEJÓ SECRETARIOS: LUIS ALBERTO TREJO OSORNIO ROBERTO NEGRETE ROMERO Ciudad de México. El Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al veinticuatro de noviembre de dos mil veintidós, emite la siguiente:
 SENTENCIA ……..
+
 VIII. DECISIÓN. 594. Por lo antes expuesto, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación resuelve:
 **PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad y su acumulada.
 **SEGUNDO.** Se reconoce la validez del procedimiento legislativo por el que se emitió el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de publicado en el Diario Oficial de la Federación el ocho de noviembre de dos mil diecinueve, en términos del apartado VI de esta ejecutoria.

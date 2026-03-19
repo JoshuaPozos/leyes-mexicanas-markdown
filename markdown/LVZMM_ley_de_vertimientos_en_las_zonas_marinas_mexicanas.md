@@ -23,31 +23,61 @@ La interpretación de estas disposiciones corresponde, para efectos administrati
 
 ### Artículo 2
 .- Para efectos de la presente Ley, se entiende por:
+
 I. Desecho.- Material o producto que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos. En esta definición incluye a todas las categorías de residuos regulados en la legislación nacional;
+
 II. Dragado.- Retiro, movimiento o excavación de suelos cubiertos o saturados por agua, incluyendo la acción de ahondar y limpiar para mantener o incrementar las profundidades de puertos, vías navegables o terrenos saturados por agua; sanear terrenos pantanosos, abriendo zanjas que permitan el libre flujo de las aguas, eliminar los suelos de mala calidad en las zonas donde se proyecta la instalación de estructuras;
+
 III. Incineración.- La destrucción térmica de desechos u otras materias a bordo de un buque, plataforma u otra construcción en el mar para su eliminación deliberada, en las zonas marinas mexicanas, salvo que otra Ley o Tratado Internacional de los que el Estado Mexicano sea parte prohíba dicha eliminación. Esta definición no incluye a los residuos peligrosos, cuya incineración se rige por lo establecido en la legislación aplicable;
+
 IV. Ley.- Ley de Vertimientos en las Zonas Marinas Mexicanas;
+
 V. Otras materias.- Los materiales y sustancias de cualquier clase, forma o naturaleza;
+
 VI. Secretaría.- La Secretaría de Marina;
+
 VII. Suspensión.- Interrupción de forma temporal de un vertimiento en las zonas marinas mexicanas, por no cumplir con lo establecido en la presente Ley, el permiso autorizado para tal acto o cuando se detecte que se está causando una alteración al ambiente;
+
 VIII. Vigilancia.- Actividad efectuada por la Secretaría para proteger las zonas marinas mexicanas, detectar la realización de actividades ilícitas o el incumplimiento a esta Ley y otras disposiciones jurídicas aplicables en la materia;
+
 IX. Visita de Inspección.- Los actos realizados por la Secretaría para verificar el cumplimiento de las disposiciones de la presente Ley;
-X. Zona de Tiro.- Área determinada geográficamente por la Secretaría para realizar el vertimiento, y XI. Zonas Marinas Mexicanas.- Las establecidas en la Ley Federal del Mar.
+
+X. Zona de Tiro.- Área determinada geográficamente por la Secretaría para realizar el vertimiento, y
+
+XI. Zonas Marinas Mexicanas.- Las establecidas en la Ley Federal del Mar.
 
 ### Artículo 3
 .- Para efectos de la presente Ley, se entenderá como vertimiento en las zonas marinas mexicanas, lo siguiente:
-Párrafo reformado DOF 13-04-2020 I. La evacuación deliberada de desechos u otras materias, desde buques, aeronaves, plataformas u otras construcciones con el único objeto de deshacerse de ellas;
-Fracción reformada DOF 13-04-2020 II. El hundimiento deliberado de buques, aeronaves, plataformas u otras construcciones en el mar, con el único objeto de deshacerse de ellas;
-Fracción reformada DOF 13-04-2020 III. El almacenamiento de desechos u otras materias en el lecho marino o en el subsuelo de éste, desde buques, aeronaves, plataformas u otras construcciones en el mar, y Fracción reformada DOF 13-04-2020 IV. Todo abandono o derribo in situ de plataformas u otras construcciones, con el único objeto de deshacerse deliberadamente de ellas.
-Fracción reformada DOF 13-04-2020 V. Se deroga.
-Fracción derogada DOF 13-04-2020 VI. Se deroga.
-Fracción derogada DOF 13-04-2020 VII. Se deroga.
+Párrafo reformado DOF 13-04-2020
+
+I. La evacuación deliberada de desechos u otras materias, desde buques, aeronaves, plataformas u otras construcciones con el único objeto de deshacerse de ellas;
+Fracción reformada DOF 13-04-2020
+
+II. El hundimiento deliberado de buques, aeronaves, plataformas u otras construcciones en el mar, con el único objeto de deshacerse de ellas;
+Fracción reformada DOF 13-04-2020
+
+III. El almacenamiento de desechos u otras materias en el lecho marino o en el subsuelo de éste, desde buques, aeronaves, plataformas u otras construcciones en el mar, y Fracción reformada DOF 13-04-2020
+
+IV. Todo abandono o derribo in situ de plataformas u otras construcciones, con el único objeto de deshacerse deliberadamente de ellas.
+Fracción reformada DOF 13-04-2020
+
+V. Se deroga.
+Fracción derogada DOF 13-04-2020
+
+VI. Se deroga.
+Fracción derogada DOF 13-04-2020
+
+VII. Se deroga.
 Fracción derogada DOF 13-04-2020
 
 ### Artículo 3
 Bis.- En las zonas marinas mexicanas no se considerará como vertimiento lo siguiente:
+
 I. La evacuación en el mar de desechos u otras materias resultante, directa o indirectamente, de las operaciones normales de buques, aeronaves, plataformas u otras construcciones en el mar y de su equipo, salvo los desechos u otras materias que se transporten en buques, aeronaves, plataformas u otras construcciones en el mar destinados a la evacuación de tales materias, o se transborden a ellos, o que resulten del tratamiento de tales desechos u otras materias en esos buques, aeronaves, plataformas o construcciones;
-II. La colocación de materias para un fin distinto del de su mera evacuación, siempre que dicha colocación no sea contraria a los objetivos del Protocolo 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias, y III. El abandono de materiales que hayan sido colocadas para un fin distinto del de su mera evacuación, tales como, cables, tuberías y dispositivos de investigación marina, sin perjuicio de lo señalado en el artículo 3, fracción IV de la presente Ley.
+
+II. La colocación de materias para un fin distinto del de su mera evacuación, siempre que dicha colocación no sea contraria a los objetivos del Protocolo 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias, y
+
+III. El abandono de materiales que hayan sido colocadas para un fin distinto del de su mera evacuación, tales como, cables, tuberías y dispositivos de investigación marina, sin perjuicio de lo señalado en el artículo 3, fracción IV de la presente Ley.
 Artículo adicionado DOF 13-04-2020
 
 ### Artículo 3
@@ -61,12 +91,20 @@ Está prohibida la incineración de desechos u otras materias, en las zonas mari
 
 ### Artículo 4
 Bis.- Para otorgar el permiso de vertimiento a que se refiere el artículo 5 de la presente Ley, la Secretaría requerirá que el material a verter esté considerado dentro de una de las siguientes categorías que establece el Protocolo de Londres y que cumpla con los requisitos que se exijan al solicitante:
+
 I. Materiales de dragado;
+
 II. Fangos cloacales;
+
 III. Desechos de pescado o materiales resultantes de las operaciones de elaboración de pescado;
+
 IV. Buques, plataformas u otras construcciones en el mar;
+
 V. Materiales geológicos inorgánicos inertes;
-VI. Materiales orgánicos de origen natural, y VII. Objetos voluminosos constituidos principalmente por hierro, acero, hormigón y materiales igualmente no perjudiciales en relación con los cuales el impacto físico sea el motivo de preocupación, y solamente en aquellas circunstancias en que esos desechos se produzcan en lugares, tales como islas pequeñas con comunidades aisladas, en que no haya acceso práctico a otras opciones de evacuación que no sean el vertimiento.
+
+VI. Materiales orgánicos de origen natural, y
+
+VII. Objetos voluminosos constituidos principalmente por hierro, acero, hormigón y materiales igualmente no perjudiciales en relación con los cuales el impacto físico sea el motivo de preocupación, y solamente en aquellas circunstancias en que esos desechos se produzcan en lugares, tales como islas pequeñas con comunidades aisladas, en que no haya acceso práctico a otras opciones de evacuación que no sean el vertimiento.
 Artículo adicionado DOF 13-04-2020
 
 ## Capítulo II
@@ -74,22 +112,42 @@ De la Autoridad
 
 ### Artículo 5
 .- La Secretaría es la autoridad en materia de vertimientos y tendrá las siguientes facultades:
+
 I. Otorgar y cancelar los permisos de vertimientos y vigilar su cumplimiento; asimismo, suspender cualquier vertimiento deliberado de desechos u otras materias que contravenga las disposiciones de la presente Ley;
+
 II. Realizar visitas de inspección y vigilancia;
+
 III. Realizar investigaciones oceanográficas, actuaciones, emitir dictámenes y resoluciones;
+
 IV. Determinar las responsabilidades e imponer las sanciones establecidas en la presente Ley;
+
 V. Fijar las medidas preventivas para evitar el vertimiento de desechos u otras materias que ocasionen daños o alteraciones al ambiente costero o marino;
+
 VI. Integrar la información estadística y llevar el control de los vertimientos realizados en las zonas marinas mexicanas, así como de las infracciones impuestas;
+
 VII. Fijar la cantidad que cubrirá el solicitante, para garantizar la reparación de los daños, perjuicios y multa que se pudieran aplicar, por contravenir las disposiciones de la Ley o del permiso mediante billete de depósito; y en su caso implementar las acciones legales, cuando la garantía no haya sido suficiente para tales efectos;
+
 VIII. Establecer medidas para la prevención, reducción y en su caso, eliminación de los contaminantes contenidos en el material a verter o la contaminación por el vertimiento, así como los criterios para evitar que se transfieran, directa o indirectamente, los daños de una parte del medio ambiente a otra, ni transformen un tipo de contaminante en otro;
+
 IX. Se deroga.
-Fracción derogada DOF 13-04-2020 X. Establecer y expedir los criterios respecto de las materias o substancias que podrán ser objeto de solicitudes de vertimientos;
+Fracción derogada DOF 13-04-2020
+
+X. Establecer y expedir los criterios respecto de las materias o substancias que podrán ser objeto de solicitudes de vertimientos;
+
 XI. Interpretar y aplicar las disposiciones del Protocolo 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias, 1972, adoptado en la ciudad de Londres;
+
 XII. Se deroga.
-Fracción derogada DOF 13-04-2020 XIII. Determinar la zona de tiro, o en su caso autorizar la zona propuesta por el interesado;
+Fracción derogada DOF 13-04-2020
+
+XIII. Determinar la zona de tiro, o en su caso autorizar la zona propuesta por el interesado;
+
 XIV. Fungir como autoridad responsable ante los organismos internacionales, en materia de prevención de la contaminación de las zonas marinas mexicanas por vertimiento de residuos y otras materias, para lo cual deberá coordinarse, en su caso, con las dependencias del Ejecutivo Federal que, en el ámbito nacional, tengan competencia sobre materias vinculadas al cumplimiento de los compromisos internacionales correspondientes;
+
 XV. Participar en los foros nacionales e internacionales en materia de vertimientos, así como informar anualmente o cuando sea requerido por la Organización Marítima Internacional de los vertimientos autorizados por la Secretaría;
-XVI. Dar intervención a otra dependencia del Ejecutivo federal u organismo cuando de los hechos se desprenda la posible infracción a otras disposiciones legales, y XVII. Emitir y actualizar los formatos necesarios de acuerdo al material que se pretenda verter, considerando los avances de la ciencia y la tecnología, debiendo publicarlos en el Diario Oficial de la Federación.
+
+XVI. Dar intervención a otra dependencia del Ejecutivo federal u organismo cuando de los hechos se desprenda la posible infracción a otras disposiciones legales, y
+
+XVII. Emitir y actualizar los formatos necesarios de acuerdo al material que se pretenda verter, considerando los avances de la ciencia y la tecnología, debiendo publicarlos en el Diario Oficial de la Federación.
 
 ### Artículo 6
 .- La Autoridad Marítima en materia de Marina Mercante, en términos de lo dispuesto por la Ley de Navegación y Comercio Marítimos, que determine el hundimiento de buques, plataformas u otras construcciones en el mar, deberá sujetarse a las disposiciones contenidas en la presente Ley.
@@ -110,34 +168,81 @@ Evaluación a Considerarse en los Vertimientos
 
 ### Artículo 8
 .- La Secretaría evaluará el origen, las circunstancias y efectos del vertimiento considerando la justificación que para tal efecto presente el interesado, en los siguientes términos:
+
 I. La necesidad de efectuar el vertimiento, posterior a que el interesado demuestre que no es posible otra alternativa;
-II. El tipo, naturaleza y cantidad de los desechos o materias que pretendan verterse y el peligro que puede representar el vertimiento para la salud humana o el medio ambiente, considerando la biota costera y marina, los recursos minerales marinos, la dinámica costera y marina, las playas y los valores económicos, recreativos, escénicos y los usos legítimos del mar, particularmente en relación con lo siguiente: a) La transferencia, concentración y dispersión de las sustancias que se pretendan verter y sus metabolitos (bioproductos); b) Los cambios sustanciales en la diversidad, productividad y estabilidad de los ecosistemas marinos; c) La permanencia y persistencia de las sustancias vertidas; d) El tipo, calidad, cantidad y concentración de los desechos a verter; e) Alternativas en tierra y sus impactos ambientales probables, lugares y métodos para llevarlos a cabo, tomando en cuenta el interés público y la posibilidad de un impacto adverso en las zonas marinas mexicanas, y f) El efecto que cause en los océanos y su influjo en los estudios científicos, pesca y otras exploraciones de los recursos vivos e inertes del mar;
+
+II. El tipo, naturaleza y cantidad de los desechos o materias que pretendan verterse y el peligro que puede representar el vertimiento para la salud humana o el medio ambiente, considerando la biota costera y marina, los recursos minerales marinos, la dinámica costera y marina, las playas y los valores económicos, recreativos, escénicos y los usos legítimos del mar, particularmente en relación con lo siguiente:
+
+a) La transferencia, concentración y dispersión de las sustancias que se pretendan verter y sus metabolitos (bioproductos);
+
+b) Los cambios sustanciales en la diversidad, productividad y estabilidad de los ecosistemas marinos;
+
+c) La permanencia y persistencia de las sustancias vertidas;
+
+d) El tipo, calidad, cantidad y concentración de los desechos a verter;
+
+e) Alternativas en tierra y sus impactos ambientales probables, lugares y métodos para llevarlos a cabo, tomando en cuenta el interés público y la posibilidad de un impacto adverso en las zonas marinas mexicanas, y
+
+f) El efecto que cause en los océanos y su influjo en los estudios científicos, pesca y otras exploraciones de los recursos vivos e inertes del mar;
+
 III. El método, frecuencia y la fecha en que deberá realizarse el vertimiento;
+
 IV. La forma de almacenar, contener, cargar, transportar y descargar la sustancia o material a verter;
+
 V. La ubicación para el vertimiento, la distancia más próxima a la costa, profundidad en el área y técnica proporcionadas por el interesado;
+
 VI. Los sitios predeterminados por la Secretaría para que se realice el vertimiento;
+
 VII. La ruta que de acuerdo con la Secretaría de Comunicaciones y Transportes deberá seguir el buque o aeronave que transporte la sustancia al sitio de vertimiento;
+
 VIII. Las precauciones especiales que deban ser tomadas respecto de la carga, transporte y vertimiento de la sustancia;
-IX. Los pormenores del proceso de producción y de las fuentes de desechos en dicho proceso, y X. La viabilidad de cada una de las siguientes técnicas para reducir o evitar la producción de desechos: a) Reformulación del producto; b) Tecnologías de producción limpias; c) Modificación del proceso; d) Sustitución de insumos, y e) Reutilización en ciclo cerrado en el sitio.
+
+IX. Los pormenores del proceso de producción y de las fuentes de desechos en dicho proceso, y
+
+X. La viabilidad de cada una de las siguientes técnicas para reducir o evitar la producción de desechos:
+
+a) Reformulación del producto;
+
+b) Tecnologías de producción limpias;
+
+c) Modificación del proceso;
+
+d) Sustitución de insumos, y
+
+e) Reutilización en ciclo cerrado en el sitio.
 
 ### Artículo 9
 .- La Secretaría para otorgar o negar un permiso de vertimiento, además de la evaluación señalada en el artículo anterior, observará los aspectos siguientes:
+
 I. La caracterización química, física, biológica, geológica y toxicológica de los desechos u otras materias;
+
 II. Las características oceanográficas del sitio de vertimiento;
+
 III. El lapso mínimo de monitoreo requerido para determinar si existieran cambios, con el fin de evitar riesgo en el equilibrio ecológico o afectaciones nocivas imprevistas;
+
 IV. La información técnica necesaria que garantice la conservación de las condiciones iniciales del lugar de vertimiento;
+
 V. Que el material a verter no influya significativamente en los usos actuales y otros posibles en el mar;
-VI. Los antecedentes del solicitante en cuanto a cumplimiento de permisos anteriores, normas oficiales y otras disposiciones aplicables, y VII. Que el desecho o material respecto del cual se solicita el vertimiento se encuentre regulado en alguna disposición jurídica que prohíba la forma y características del vertimiento que se solicita.
+
+VI. Los antecedentes del solicitante en cuanto a cumplimiento de permisos anteriores, normas oficiales y otras disposiciones aplicables, y
+
+VII. Que el desecho o material respecto del cual se solicita el vertimiento se encuentre regulado en alguna disposición jurídica que prohíba la forma y características del vertimiento que se solicita.
 
 ### Artículo 10
 .- Efectuada la evaluación, la Secretaría podrá indicar al solicitante, cuando corresponda, que deberá formular e implantar una estrategia para reducir la producción de desechos, auxiliándose con las instancias competentes, en cuyo caso, implementará las inspecciones necesarias a fin de verificar su cumplimiento.
 
 ### Artículo 11
 .- El interesado, al presentar la solicitud para el vertimiento de desechos u otras materias, incluyendo los materiales de dragado, materiales orgánicos no contaminados de origen natural, desechos de pescado o materiales resultantes de las operaciones de elaboración del pescado, buques, plataformas, geológicos, hierro, acero, hormigón y fangos cloacales; deberá acreditar que agotó cualquiera de las opciones de manejo integral de desechos que comprenden enunciativa y no limitativamente las siguientes:
+
 I. Reutilización;
+
 II. Reciclaje fuera de las aguas marinas mexicanas;
+
 III. Destrucción de los componentes peligrosos;
-IV. Tratamiento para reducir o retirar los componentes peligrosos, y V. Evacuación en tierra, en la atmósfera y en el mar.
+
+IV. Tratamiento para reducir o retirar los componentes peligrosos, y
+
+V. Evacuación en tierra, en la atmósfera y en el mar.
 
 ### Artículo 12
 .- No se otorgará el permiso de vertimiento, cuando la Secretaría advierta que existen posibilidades adecuadas de realizar un manejo integral de los residuos, que no impliquen riesgos para la salud humana o daños al ambiente, mayores a los que implicaría el vertimiento solicitado o costos desmesurados.
@@ -150,22 +255,35 @@ No se autorizarán vertimientos de desechos u otras materias en áreas naturales
 
 ### Artículo 14
 .- La Secretaría, al evaluar la solicitud de vertimiento de desechos u otras materias en el mar, tomará en consideración los siguientes factores:
+
 I. Origen, cantidad total, forma y composición media;
+
 II. Propiedades físicas, químicas, bioquímicas y biológicas;
+
 III. Toxicidad;
-IV. Persistencia física, química y biológica, y V. Acumulación y biotransformación en materiales o sedimentos biológicos.
+
+IV. Persistencia física, química y biológica, y
+
+V. Acumulación y biotransformación en materiales o sedimentos biológicos.
 
 ### Artículo 15
 .- La Secretaría, por Acuerdo de su titular, en base a lo indicado en las directrices relativas al Protocolo sobre la Prevención de la Contaminación del Mar por vertimiento de desechos y otras materias, 1972, con la participación de otras Dependencias de la Administración Pública Federal e instituciones de investigación científica, expedirá los criterios que deberán observarse respecto de los desechos, materiales o sustancias que podrán ser objeto de solicitud de vertimiento. Acuerdo que será publicado anualmente en el Diario Oficial de la Federación.
 Los criterios se definirán a partir de los componentes de los desechos, materiales y sustancias y la información disponible sobre sus posibles efectos sobre la salud humana y el ambiente marino y costero.
 En el Acuerdo, se definirán los desechos, materiales o sustancias que no pueden ser objeto de vertimiento. Para esta definición se considerarán, de manera enunciativa y no limitativa:
-I. Las sustancias antropogénicas tóxicas, persistentes y bioacumulables, entre otras: plásticos persistentes y demás materiales sintéticos, cadmio, mercurio, organohalógenos, organometálicos, hidrocarburos y sus derivados, cuando proceda, arsénico, plomo, cobre, zinc, berilio, cromo, níquel, vanadio, y sus compuestos de todos estos; compuestos orgánicos de silicio, cianuros, fluoruros, plaguicidas y pesticidas o sus subproductos distintos de los organohalógenos, y II. Aquellos compuestos respecto de los cuales se disponga de información que demuestre que causan daños a la salud humana o al ambiente marino y costero.
+
+I. Las sustancias antropogénicas tóxicas, persistentes y bioacumulables, entre otras: plásticos persistentes y demás materiales sintéticos, cadmio, mercurio, organohalógenos, organometálicos, hidrocarburos y sus derivados, cuando proceda, arsénico, plomo, cobre, zinc, berilio, cromo, níquel, vanadio, y sus compuestos de todos estos; compuestos orgánicos de silicio, cianuros, fluoruros, plaguicidas y pesticidas o sus subproductos distintos de los organohalógenos, y
+
+II. Aquellos compuestos respecto de los cuales se disponga de información que demuestre que causan daños a la salud humana o al ambiente marino y costero.
 Lo previsto en el presente artículo no constituye una caracterización de los desechos u otras materias, la cual se realizará conforme a la legislación que resulte aplicable.
 
 ### Artículo 16
 .- La Secretaría por Acuerdo de su titular, de acuerdo a lo indicado en las directrices relativas al Protocolo sobre la Prevención de la Contaminación del Mar por vertimiento de desechos y otras materias, 1972, así como los ordenamientos nacionales en la materia, establecerá los límites máximo, inferior y superior, de vertimiento de desechos, materiales o sustancias, previa opinión de otras Dependencias de la Administración Pública Federal. Acuerdo que será publicado anualmente en el Diario Oficial de la Federación, considerando lo siguiente:
+
 I. Los desechos que contengan determinadas sustancias, o sustancias que causen reacciones biológicas que excedan del límite superior pertinente; no se verterán en el mar, a menos que su vertimiento resulte aceptable después de haberlos sometido a técnicas o procedimientos de degradación de los componentes peligrosos;
-II. Los desechos u otras materias que contengan determinadas sustancias que causen reacciones biológicas, que no excedan del límite inferior pertinente, se deberán considerar de escasa incidencia ambiental desde el punto de vista de su vertimiento, y III. Los desechos que contengan determinadas sustancias que causen reacciones biológicas, que no excedan el límite superior pero excedan el inferior; requerirán una evaluación más detallada, con la finalidad de determinar la aceptabilidad del vertimiento.
+
+II. Los desechos u otras materias que contengan determinadas sustancias que causen reacciones biológicas, que no excedan del límite inferior pertinente, se deberán considerar de escasa incidencia ambiental desde el punto de vista de su vertimiento, y
+
+III. Los desechos que contengan determinadas sustancias que causen reacciones biológicas, que no excedan el límite superior pero excedan el inferior; requerirán una evaluación más detallada, con la finalidad de determinar la aceptabilidad del vertimiento.
 
 ### Artículo 17
 .- Cuando se pretenda verter volúmenes menores a tres metros cúbicos de materiales geológicos inertes no contaminados o inorgánico inertes, el interesado presentará ante la Secretaría su proyecto y ésta efectuará el análisis y de considerarlo procedente, lo exentará por una sola ocasión del trámite de permiso.
@@ -179,14 +297,31 @@ De los Permisos
 
 ### Artículo 19
 .- Para efectuar un vertimiento se requiere de permiso otorgado por la Secretaría en los términos y condiciones que establece la presente Ley, debiendo el interesado presentar lo siguiente:
+
 I. Formato de solicitud, debidamente requisitado, firmado por el solicitante y el responsable de la operación del vertimiento;
+
 II. Autorización en materia de impacto ambiental, expedido por la Secretaría de Medio Ambiente y Recursos Naturales;
+
 III. Programa del vertimiento que indique las obras o actividades a realizar;
+
 IV. Resultado de los análisis y de la caracterización tóxica, física, química y biológica de estructuras, desechos u otras materias que se pretenden verter, que se realicen conforme a la normatividad aplicable y practicados por laboratorios acreditados ante la Entidad Mexicana de Acreditación;
+
 V. Programas de monitoreos ambientales, estudios batimétricos, hidrodinámicos y de la composición bentónica de la zona de vertimiento, antes, durante y después del mismo;
+
 VI. Propuesta de zona de tiro, debiendo considerar los aspectos oceanográficos, biológicos, la posición geográfica, actividades de esparcimiento, belleza natural, interés cultural o histórico, importancia científica, refugios naturales; zonas de desove, reproducción y repoblación; rutas migratorias; hábitat estacionales y críticos; zonas de pesca; vías de navegación; usos tecnológicos del fondo del mar; zonas de exclusión y otros usos legítimos del mar;
+
 VII. Comprobante de pago por concepto de trámite, estudio y autorización de vertimiento;
-Fracción reformada DOF 13-04-2020 VIII. Triplicado de la documentación y archivo electrónico, y IX. Según sea el caso, conforme se establezca en el formato correspondiente, la opinión de las siguientes autoridades: a) La autoridad municipal, respecto a la no existencia de un lugar en tierra para llevar a cabo la disposición de desechos u otras materias, incluyendo el material producto de dragado; b) La Secretaría de Comunicaciones y Transportes, respecto a la afectación al tráfico marítimo en la zona de vertimiento, las operaciones de éste o el vertimiento, y c) La Secretaría de Energía, por conducto de la Comisión Nacional de Seguridad Nuclear y Salvaguardias, cuando se presuma que los materiales o sustancias a verter contienen materiales radioactivos.
+Fracción reformada DOF 13-04-2020
+
+VIII. Triplicado de la documentación y archivo electrónico, y
+
+IX. Según sea el caso, conforme se establezca en el formato correspondiente, la opinión de las siguientes autoridades:
+
+a) La autoridad municipal, respecto a la no existencia de un lugar en tierra para llevar a cabo la disposición de desechos u otras materias, incluyendo el material producto de dragado;
+
+b) La Secretaría de Comunicaciones y Transportes, respecto a la afectación al tráfico marítimo en la zona de vertimiento, las operaciones de éste o el vertimiento, y
+
+c) La Secretaría de Energía, por conducto de la Comisión Nacional de Seguridad Nuclear y Salvaguardias, cuando se presuma que los materiales o sustancias a verter contienen materiales radioactivos.
 La Secretaría de Salud, a petición de la Secretaría, cuando el caso lo requiera, emitirá el dictamen correspondiente respecto a la afectación a la salud humana, como consecuencia del vertimiento de desechos o materias, en los términos de las disposiciones jurídicas que resulten aplicables.
 
 ### Artículo 20
@@ -199,14 +334,24 @@ Reforma DOF 13-04-2020: Derogó del artículo el entonces párrafo segundo
 
 ### Artículo 22
 .- El permiso de vertimiento contendrá lo siguiente:
+
 I. Nombre de la persona física o la denominación o razón social de la persona moral, según corresponda;
+
 II. Volumen de los desechos u otras materias a verter expresadas en metros cúbicos;
+
 III. Descripción de la materia o desecho a verter;
+
 IV. Denominación del Proyecto a desarrollarse;
+
 V. Vigencia del permiso;
+
 VI. Situación geográfica y profundidad de la zona de tiro autorizada, así como la distancia a la costa más cercana;
+
 VII. La cantidad que garantice la reparación de los daños, perjuicios y multa que se pudieran aplicar, por contravenir las disposiciones de la Ley o del permiso;
-VIII. Los términos y condicionantes que establezca la Secretaría para llevar a cabo el vertimiento, y IX. La obligación del titular del permiso de responder por los daños al medio ambiente que pudiera ocasionar el vertimiento.
+
+VIII. Los términos y condicionantes que establezca la Secretaría para llevar a cabo el vertimiento, y
+
+IX. La obligación del titular del permiso de responder por los daños al medio ambiente que pudiera ocasionar el vertimiento.
 
 ### Artículo 23
 .- Los permisos son intransferibles; toda contravención será sancionada, conforme a lo señalado en la presente ley, tanto a quien los transfiera, como a quien haga o pretenda hacer uso de ellos.
@@ -229,11 +374,18 @@ De las Obligaciones Adicionales en materia de Vertimientos
 
 ### Artículo 27
 .- Adicionalmente a los requisitos que establece la presente ley, el interesado deberá cumplir con lo siguiente:
+
 I. Entregará los resultados originales de análisis que se hayan determinado conforme al tipo de material que se pretende verter, debiendo anexar cromatogramas, hojas de campo y cadena de custodia de la muestra y en cuatro puntos alrededor del mismo con un radio mínimo de una milla náutica de distancia, o la que determine la Secretaría en función del área en donde se vaya a efectuar el vertimiento, a fin de dar seguimiento a los posibles efectos del vertimiento en la zona de tiro autorizada, elaborados por un laboratorio acreditado, tres días hábiles después de finalizar el vertimiento;
+
 II. Entregar el muestreo y análisis expedidas por el laboratorio responsable, debiendo asentar en el reporte de laboratorio la fecha, hora y coordenadas geográficas del lugar de colecta, indicando si los resultados no excedieron los límites máximos permitidos por la normatividad ambiental vigente, conforme lo señalado en el Capítulo III de la presente Ley;
+
 III. Presentará, cuando se trate de material producto de dragado, previamente a la ejecución del proyecto, la evaluación de los lixiviados de los lodos o sedimentos del dragado que serán vertidos al mar, debiendo tomar la muestra antes de iniciar el vertimiento al mar; asimismo elaborará un estudio de la composición bentónica de la zona autorizada;
+
 IV. Entregará, cuando el caso lo requiera, los estudios batimétricos e hidrodinámicos de la zona de tiro, realizados dentro de los tres días hábiles siguientes al término de las operaciones de vertimiento, o dentro del tiempo que establezca la Secretaría;
-V. Entregará, según el caso y por el tiempo que señale la Secretaría, un informe relativo a monitoreos ambientales, con el fin de constatar que no exista un posible daño ambiental causado por las maniobras propias de las actividades a desarrollar, así como mantener la zona en las condiciones ambientales que hasta el momento se tienen establecidas, debiendo anexar cromatogramas, hojas de campo y cadena de custodia, y VI. Suspenderá las actividades de vertimiento ante la presencia de un fenómeno meteorológico que por su magnitud e intensidad pudiera causar daños a los ecosistemas, y procederá de la misma forma cuando el vertimiento por sí mismo provoque las mismas consecuencias.
+
+V. Entregará, según el caso y por el tiempo que señale la Secretaría, un informe relativo a monitoreos ambientales, con el fin de constatar que no exista un posible daño ambiental causado por las maniobras propias de las actividades a desarrollar, así como mantener la zona en las condiciones ambientales que hasta el momento se tienen establecidas, debiendo anexar cromatogramas, hojas de campo y cadena de custodia, y
+
+VI. Suspenderá las actividades de vertimiento ante la presencia de un fenómeno meteorológico que por su magnitud e intensidad pudiera causar daños a los ecosistemas, y procederá de la misma forma cuando el vertimiento por sí mismo provoque las mismas consecuencias.
 
 ## Capítulo VI
 De las Visitas de Inspección y Vigilancia
@@ -254,40 +406,74 @@ Los capitanes, patrones de buques, piloto al mando de aeronaves, plataformas o p
 
 ### Artículo 32
 .- El personal acreditado de la Secretaría tiene facultad para lo siguiente:
+
 I. Inspeccionar cualquier obra, lugar, buque, estructura, plataforma, artefacto naval, almacén o aeronave, en que se presenten elementos o indicios que presuman la existencia de algún desecho u otras materias que vayan a ser vertidos;
+
 II. Examinar y en su caso tomar muestras de los desechos u otras materias encontrados;
+
 III. Requerir la documentación de embarque del material encontrado a bordo;
+
 IV. Viajar o permanecer en el buque, estructura, plataforma, artefacto naval, almacén o aeronave que transporte los desechos u otras materias que van a ser vertidas en caso de contar con el permiso, para comprobar que se realice en el lugar autorizado;
+
 V. Abordar en cualquier puerto o terminal, un buque o aeronave nacional o extranjera, en que se presenten elementos o indicios que presuman transporta desechos o materias para ser vertidos o abandonados en zonas marinas mexicanas;
+
 VI. Si como resultado de la inspección y vigilancia se advierten infracciones a la presente Ley, el infractor y el buque serán conducidos al puerto más cercano, con el objeto de evitar que se continúe con el vertimiento, imponiéndosele la sanción correspondiente;
+
 VII. Cuando fuera necesario, la Secretaría, solicitará a la Capitanía de Puerto que impida el zarpe del buque, o en su caso, hará lo conducente ante el comandante del aeropuerto cuando se trate de una aeronave;
-VIII. Con el objeto de evitar el vertimiento deliberado de los desechos o materias que se encuentren a bordo de un buque, estructura, plataforma, artefacto naval, almacén o aeronave, se tomarán las medidas correspondientes, y IX. Cuando se trate de aeronaves nacionales o extranjeras que se encuentren en los aeropuertos de la red nacional, el personal de la Secretaría deberá coordinar con el comandante del aeropuerto las facilidades requeridas para el cumplimiento de sus funciones.
+
+VIII. Con el objeto de evitar el vertimiento deliberado de los desechos o materias que se encuentren a bordo de un buque, estructura, plataforma, artefacto naval, almacén o aeronave, se tomarán las medidas correspondientes, y
+
+IX. Cuando se trate de aeronaves nacionales o extranjeras que se encuentren en los aeropuertos de la red nacional, el personal de la Secretaría deberá coordinar con el comandante del aeropuerto las facilidades requeridas para el cumplimiento de sus funciones.
 
 ### Artículo 33
 .- Durante la inspección y vigilancia el personal acreditado deberá observar lo siguiente:
+
 I. Se identificará con la persona con quien se entienda la diligencia, mostrándole el oficio correspondiente y requiriéndole para que en el acto designe dos testigos;
+
 II. En caso de negativa, o de que los testigos designados no acepten fungir como tales, el personal de la Secretaría los designará, haciendo constar dicha circunstancia en el acta, sin que esto afecte la validez de la inspección;
+
 III. Cuando en el lugar a inspeccionar no se encuentre persona con quien se entienda la diligencia, se deberá asentar en el acta dicha circunstancia;
+
 IV. La Secretaría, en el acta deberá determinar las acciones a implementarse derivadas de infracciones a la presente Ley;
+
 V. La Secretaría, en el acta deberá determinar las medidas urgentes que deberán aplicarse en caso de que el vertimiento represente un riesgo inminente de daño a la salud humana o a los ecosistemas;
+
 VI. Concluida la inspección, se hará saber a la persona con quien se entendió la diligencia su derecho a manifestar lo que a sus intereses convenga, en relación con los hechos u omisiones asentados en el acta, y para que ofrezca pruebas dentro del término de cinco días hábiles siguientes a la fecha en que se practicó la diligencia;
-VII. Se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al visitado, y VIII. Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta, o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán, sin que esto afecte su validez y valor probatorio.
+
+VII. Se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al visitado, y
+
+VIII. Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta, o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán, sin que esto afecte su validez y valor probatorio.
 
 ### Artículo 34
 .- De todo acto de inspección, se deberá elaborar el acta administrativa correspondiente, en la que se hagan constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia. El acta que se levante deberá contener lo siguiente:
+
 I. Lugar, hora y fecha;
+
 II. Nombre de la persona autorizada para llevar a cabo la visita de inspección, así como el nombre de la persona con quien se entendió la diligencia;
+
 III. Descripción del documento con el que se identificó el personal;
+
 IV. Testigos de asistencia designados por el personal con quien se atendió la diligencia; en caso de negativa a designarlos, lo hará el inspector, haciendo constar dicha circunstancia, sin que lo anterior afecte la validez de la visita de inspección. Asimismo el personal que formule las actuaciones designará a sus testigos de asistencia;
+
 V. Nombre de la persona física, la denominación o razón social de la empresa, artefacto naval, buque, estructura, plataforma, almacén o aeronave;
+
 VI. Motivo de la inspección;
+
 VII. En los casos en que así proceda, se asentará el oficio expedido por la Secretaría, que lo autorice para realizar la inspección en las zonas marinas mexicanas en materia de vertimiento;
+
 VIII. Descripción de la documentación relacionada con sus actividades y en su caso con el vertimiento;
+
 IX. Narración de los hechos de manera clara y concisa;
+
 X. Descripción de los desechos, o materias encontrados;
+
 XI. Infracciones que se hayan cometido a la presente Ley;
+
 XII. Medidas extraordinarias que se hayan adoptado, a fin de evitar se continúe con el vertimiento;
-XIII. Manifestación del personal con quien se atendió la diligencia, y XIV. Nombre y firma de quienes intervinieron en la diligencia.
+
+XIII. Manifestación del personal con quien se atendió la diligencia, y
+
+XIV. Nombre y firma de quienes intervinieron en la diligencia.
 
 ## Sección I
 De las Medidas Preventivas
@@ -317,21 +503,37 @@ De las Infracciones y Sanciones
 
 ### Artículo 41
 .- Son infracciones a la presente Ley, las siguientes:
+
 I. Omitir informar de vertimientos realizados por causas de fuerza mayor;
+
 II. Incumplir las obligaciones a que se refiere el artículo 27;
+
 III. Actualizarse alguno de los supuestos a que se refiere el artículo 54;
+
 IV. Se incumplan las obligaciones previstas en el artículo 23;
+
 V. No cumplir con los Acuerdos que conforme a esta Ley, expida la Secretaría;
+
 VI. No cumplir con los términos especificados en el permiso de vertimiento;
+
 VII. Abandonar un buque, aeronave, artefacto naval, estructura o plataforma, sin informar a la Secretaría oportunamente;
+
 VIII. Efectuar vertimientos sin la autorización de la Secretaría;
+
 IX. Efectuar vertimientos posteriores a una suspensión;
-X. Efectuar vertimientos posteriores a una cancelación, y XI. Incurrir en cualquier otra violación a los preceptos de esta Ley y su Reglamento.
+
+X. Efectuar vertimientos posteriores a una cancelación, y
+
+XI. Incurrir en cualquier otra violación a los preceptos de esta Ley y su Reglamento.
 
 ### Artículo 42
 .- Las sanciones consistirán en:
+
 I. Suspensión del permiso de 1 día hasta por 60 días;
-II. Cancelación del permiso, y III. Multa, la cual se determinará tomando como base el salario mínimo general vigente en el Distrito Federal al momento de haberse cometido la infracción, de doscientos cincuenta hasta cincuenta mil días de salario mínimo, según la infracción y el daño causado.
+
+II. Cancelación del permiso, y
+
+III. Multa, la cual se determinará tomando como base el salario mínimo general vigente en el Distrito Federal al momento de haberse cometido la infracción, de doscientos cincuenta hasta cincuenta mil días de salario mínimo, según la infracción y el daño causado.
 Se sancionarán con suspensión del permiso hasta por 60 días, las infracciones previstas en las fracciones II, V y VI del artículo anterior.
 Procede la cancelación del permiso, cuando el permisionario incurra en las infracciones previstas en las fracciones III y IV del artículo anterior.
 Se sancionarán con multa, según la infracción y el daño causado, los supuestos previstos en las fracciones I, y de la VII a la XI del artículo anterior.
@@ -344,12 +546,20 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el 
 
 ### Artículo 44
 .- Para la imposición de las sanciones por infracciones a la presente Ley, la Secretaría deberá tomar en consideración las circunstancias siguientes:
+
 I. Los riesgos o daños producidos o que puedan producirse en la salud humana; la generación de desequilibrio ecológico; la afectación de recursos naturales o de la biodiversidad;
+
 II. La acción u omisión;
+
 III. La reincidencia del infractor;
+
 IV. Las condiciones económicas del infractor;
+
 V. El beneficio directamente obtenido por el infractor por los actos que motiven el vertimiento;
-VI. En caso de que el infractor realice medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que se imponga una sanción, la Secretaría deberá considerar tal situación como atenuante de la infracción, y VII. Que se hayan cometido diversas infracciones.
+
+VI. En caso de que el infractor realice medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que se imponga una sanción, la Secretaría deberá considerar tal situación como atenuante de la infracción, y
+
+VII. Que se hayan cometido diversas infracciones.
 
 ### Artículo 45
 .- Las sanciones establecidas en la presente Ley, son independientes de la responsabilidad penal o civil en que se incurra conforme a otras disposiciones legales aplicables.
@@ -395,12 +605,20 @@ De la Cancelación
 
 ### Artículo 54
 .- Son causas de cancelación del permiso de vertimiento, las siguientes:
+
 I. Dejar de cumplir cualquiera de las condicionantes establecidas en el permiso respectivo;
+
 II. Que las obras o actividades autorizadas pongan en riesgo u ocasionen afectaciones que llegasen a alterar los patrones de comportamiento de los recursos bióticos y/o algún tipo de afectación, daño o deterioro sobre los elementos abióticos presentes en la zona de tiro autorizada, así como en su área de influencia, en cuyo caso el autorizado deberá instrumentar programas de compensación;
+
 III. Cuando de la evaluación de los estudios requeridos antes, durante y después del vertimiento, se determine que estuviera en riesgo el equilibrio ecológico o se produjeran afectaciones nocivas imprevistas en el ambiente;
+
 IV. Cuando se detecte que la información proporcionada por el solicitante fue falsa o alterada, incluyendo los resultados de laboratorio;
+
 V. No realizar actividad alguna dentro de los tres meses posteriores a su otorgamiento;
-VI. Transferir el permiso, y VII. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, así como en materia ambiental.
+
+VI. Transferir el permiso, y
+
+VII. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, así como en materia ambiental.
 
 ## Sección V
 De las Excepciones

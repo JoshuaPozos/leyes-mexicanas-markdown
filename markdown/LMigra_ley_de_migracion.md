@@ -39,42 +39,110 @@ Párrafo adicionado DOF 04-05-2021 El Poder Ejecutivo determinará la política 
 
 ### Artículo 3
 . Para efectos de la presente Ley se entenderá por:
+
 I. Autoridad migratoria, al servidor público que ejerce la potestad legal expresamente conferida para realizar determinadas funciones y actos de autoridad en materia migratoria;
+
 II. Acuerdo de readmisión: al acto por el cual la Secretaría determina autorizar la internación al país de un extranjero deportado con anterioridad;
+
 III. Asilado: a todo extranjero que sea reconocido como tal en los términos de la Ley sobre Refugiados, Protección Complementaria y Asilo Político;
-Fracción reformada DOF 30-10-2014 IV. Apátrida: toda persona que no sea considerada como nacional por, ningún Estado, conforme a su legislación. La ley concederá igual trato a las personas que tienen una nacionalidad pero que no es efectiva.
+Fracción reformada DOF 30-10-2014
+
+IV. Apátrida: toda persona que no sea considerada como nacional por, ningún Estado, conforme a su legislación. La ley concederá igual trato a las personas que tienen una nacionalidad pero que no es efectiva.
+
 V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
-Fracción adicionada DOF 11-11-2020 VI. Centro de Evaluación: al Centro de Evaluación y Control de Confianza del Instituto Nacional de Migración;
-Fracción recorrida DOF 11-11-2020 VII. Condición de estancia: a la situación regular en la que se ubica a un extranjero en atención a su intención de residencia y, en algunos casos, en atención a la actividad que desarrollarán en el país, o bien, en atención a criterios humanitarios o de solidaridad internacional.
-Fracción recorrida DOF 11-11-2020 VIII. Constitución: a la Constitución Política de los Estados Unidos Mexicanos;
-Fracción recorrida DOF 11-11-2020 IX. Cuota: al número máximo de extranjeros para ingresar a trabajar al país ya sea en general por actividad económica o por zona de residencia.
-Fracción recorrida DOF 11-11-2020 X. Defensor de derechos humanos: a toda persona u organización de la sociedad civil que individual o colectivamente promueva o procure la protección o realización de los derechos humanos, libertades fundamentales y garantías individuales en los planos nacional o internacional.
-Fracción recorrida DOF 11-11-2020 XI. Estación Migratoria: a la instalación física que establece el Instituto para alojar temporalmente a los extranjeros que no acrediten su situación migratoria regular, en tanto se resuelve su situación migratoria;
-Fracción recorrida DOF 11-11-2020 XII. Filtro de revisión migratoria: al espacio ubicado en el lugar destinado al tránsito internacional de personas, donde el Instituto autoriza o rechaza la internación regular de personas al territorio de los Estados Unidos Mexicanos;
-Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XIII) XIII. Instituto: al Instituto Nacional de Migración;
-Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XIV) XIV. Ley: a la presente Ley;
-Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XV) XV. Lugar destinado al tránsito internacional de personas: al espacio físico fijado por la Secretaría para el paso de personas de un país a otro;
-Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XVI) XVI. Niña, niño o adolescente migrante: cualquier persona migrante, nacional o extranjera, menor de dieciocho años de edad. Son niñas y niños los menores de doce años, y adolescentes las personas entre doce años cumplidos y menos de dieciocho años de edad.
+Fracción adicionada DOF 11-11-2020
+
+VI. Centro de Evaluación: al Centro de Evaluación y Control de Confianza del Instituto Nacional de Migración;
+Fracción recorrida DOF 11-11-2020
+
+VII. Condición de estancia: a la situación regular en la que se ubica a un extranjero en atención a su intención de residencia y, en algunos casos, en atención a la actividad que desarrollarán en el país, o bien, en atención a criterios humanitarios o de solidaridad internacional.
+Fracción recorrida DOF 11-11-2020
+
+VIII. Constitución: a la Constitución Política de los Estados Unidos Mexicanos;
+Fracción recorrida DOF 11-11-2020
+
+IX. Cuota: al número máximo de extranjeros para ingresar a trabajar al país ya sea en general por actividad económica o por zona de residencia.
+Fracción recorrida DOF 11-11-2020
+
+X. Defensor de derechos humanos: a toda persona u organización de la sociedad civil que individual o colectivamente promueva o procure la protección o realización de los derechos humanos, libertades fundamentales y garantías individuales en los planos nacional o internacional.
+Fracción recorrida DOF 11-11-2020
+
+XI. Estación Migratoria: a la instalación física que establece el Instituto para alojar temporalmente a los extranjeros que no acrediten su situación migratoria regular, en tanto se resuelve su situación migratoria;
+Fracción recorrida DOF 11-11-2020
+
+XII. Filtro de revisión migratoria: al espacio ubicado en el lugar destinado al tránsito internacional de personas, donde el Instituto autoriza o rechaza la internación regular de personas al territorio de los Estados Unidos Mexicanos;
+Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XIII)
+
+XIII. Instituto: al Instituto Nacional de Migración;
+Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XIV)
+
+XIV. Ley: a la presente Ley;
+Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XV)
+
+XV. Lugar destinado al tránsito internacional de personas: al espacio físico fijado por la Secretaría para el paso de personas de un país a otro;
+Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XVI)
+
+XVI. Niña, niño o adolescente migrante: cualquier persona migrante, nacional o extranjera, menor de dieciocho años de edad. Son niñas y niños los menores de doce años, y adolescentes las personas entre doce años cumplidos y menos de dieciocho años de edad.
 Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor a doce años, se presumirá que es niña o niño;
-Fracción reformada y recorrida DOF 11-11-2020. Recorrida DOF 27-05-2024 (antes fracción XIX) XVII. Niña, niño o adolescente migrante no acompañado: cualquier persona migrante menor de dieciocho años de edad que no se encuentra acompañada por la persona adulta que ejerce la patria potestad, que la tenga bajo su guarda y custodia, por su tutor o persona adulta bajo cuyos cuidados se encuentre habitualmente por costumbre;
-Fracción adicionada DOF 11-11-2020. Recorrida DOF 27-05-2024 (antes fracción XX) XVIII. Niña, niño o adolescente migrante acompañado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada por la persona adulta que ejerce la patria potestad, la tenga bajo su guarda y custodia o por su tutor;
-Fracción adicionada DOF 11-11-2020. Recorrida DOF 27-05-2024 (antes fracción XXI) XIX. Niña, niño o adolescente migrante separado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada de una persona adulta bajo cuyos cuidados se encuentra habitualmente por costumbre y no en virtud de ley;
-Fracción adicionada DOF 11-11-2020. Recorrida DOF 27-05-2024 (antes fracción XXII) XX. Oficina consular: a las representaciones del Estado mexicano ante el gobierno de otro país en las que se realizan de carácter permanente las siguientes funciones: proteger a los mexicanos que se localizan en su circunscripción, fomentar las relaciones comerciales, económicas, culturales y científicas entre ambos países y expedir la documentación a mexicanos y extranjeros en términos de la Ley del Servicio Exterior Mexicano y su Reglamento;
-Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XXIII) XXI. Persona extranjera: a la persona que no posea la nacionalidad mexicana, conforme a lo previsto en el artículo 30 de la Constitución;
-Fracción recorrida DOF 11-11-2020. Reformada y reubicada DOF 27-05-2024 (antes fracción XII) XXII. Persona mexicana: a la persona que posea los requisitos exigidos en el artículo 30 de la Constitución;
-Fracción recorrida DOF 11-11-2020. Reformada y reubicada DOF 27-05-2024 (antes fracción XVII) XXIII. Persona migrante: a la persona que sale, transita o llega al territorio de un Estado distinto al de su residencia por cualquier tipo de motivación;
-Fracción recorrida DOF 11-11-2020. Reformada y reubicada DOF 27-05-2024 (antes fracción XVIII) XXIV. Presentación: a la medida dictada por el Instituto mediante la cual se acuerda el alojamiento temporal de un extranjero que no acredita su situación migratoria para la regularización de su estancia o la asistencia para el retorno.
-Fracción recorrida DOF 11-11-2020 XXV. Procuradurías de Protección: la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa;
-Fracción adicionada DOF 11-11-2020 XXVI. Protección complementaria: a la protección que la Secretaría otorga al extranjero que no ha sido reconocido como refugiado, consistente en no devolverlo al territorio de otro país en donde su vida se vería amenazada o se encontraría en peligro de ser sometido a tortura u otros tratos o penas crueles, inhumanos o degradantes;
-Fracción recorrida DOF 11-11-2020 XXVII. Refugiado: a todo extranjero que se encuentre en territorio nacional y que sea reconocido como refugiado por parte de las autoridades competentes, conforme a los tratados y convenios internacionales de que es parte el Estado Mexicano y a la legislación vigente;
-Fracción recorrida DOF 11-11-2020 XXVIII. Reglamento: al Reglamento de la presente Ley;
-Fracción recorrida DOF 11-11-2020 XXIX. Retorno asistido es el procedimiento por el que el Instituto Nacional de Migración hace abandonar el territorio nacional a un extranjero, remitiéndolo a su país de origen o de residencia habitual;
-Fracción recorrida DOF 11-11-2020 XXX. Remuneración: a las percepciones que reciban las personas en el territorio de los Estados Unidos Mexicanos por la prestación de un servicio personal subordinado o por la prestación de un servicio profesional independiente;
-Fracción recorrida DOF 11-11-2020 XXXI. Secretaría: a la Secretaría de Gobernación;
-Fracción recorrida DOF 11-11-2020 XXXII. Servicio Profesional de Carrera Migratoria: al mecanismo que garantiza la igualdad de oportunidades para el ingreso, permanencia y desarrollo de los servidores públicos con cargos de confianza del Instituto.
-Fracción adicionada DOF 07-06-2013. Recorrida DOF 11-11-2020 XXXIII. Situación migratoria: a la hipótesis jurídica en la que se ubica un extranjero en función del cumplimiento o incumplimiento de las disposiciones migratorias para su internación y estancia en el país. Se considera que el extranjero tiene situación migratoria regular cuando ha cumplido dichas disposiciones y que tiene situación migratoria irregular cuando haya incumplido con las mismas;
-Fracción recorrida DOF 07-06-2013. Reformada DOF 12-07-2018. Recorrida DOF 11-11-2020 XXXIV. Tarjeta de residencia: al documento que expide el Instituto con el que los extranjeros acreditan su situación migratoria regular de residencia temporal o permanente;
-Fracción recorrida DOF 07-06-2013, 11-11-2020 XXXV. Trámite migratorio: Cualquier solicitud o entrega de información que formulen las personas físicas y morales ante la autoridad migratoria, para cumplir una obligación, obtener un beneficio o servicio de carácter migratorio a fin de que se emita una resolución, así como cualquier otro documento que dichas personas estén obligadas a conservar, no comprendiéndose aquélla documentación o información que solo tenga que presentarse en caso de un requerimiento del Instituto, y Fracción recorrida DOF 07-06-2013, 11-11-2020 XXXVI. Visa: a la autorización que se otorga en una oficina consular que evidencia la acreditación de los requisitos para obtener una condición de estancia en el país y que se expresa mediante un documento que se imprime, adhiere o adjunta a un pasaporte u otro documento. La visa también se puede otorgar a través de medios y registros electrónicos pudiéndose denominar visa electrónica o virtual. La visa autoriza al extranjero para presentarse a un lugar destinado al tránsito internacional de personas y solicitar, según el tipo de visado su estancia, siempre que se reúnan los demás requisitos para el ingreso.
+Fracción reformada y recorrida DOF 11-11-2020. Recorrida DOF 27-05-2024 (antes fracción XIX)
+
+XVII. Niña, niño o adolescente migrante no acompañado: cualquier persona migrante menor de dieciocho años de edad que no se encuentra acompañada por la persona adulta que ejerce la patria potestad, que la tenga bajo su guarda y custodia, por su tutor o persona adulta bajo cuyos cuidados se encuentre habitualmente por costumbre;
+Fracción adicionada DOF 11-11-2020. Recorrida DOF 27-05-2024 (antes fracción XX)
+
+XVIII. Niña, niño o adolescente migrante acompañado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada por la persona adulta que ejerce la patria potestad, la tenga bajo su guarda y custodia o por su tutor;
+Fracción adicionada DOF 11-11-2020. Recorrida DOF 27-05-2024 (antes fracción XXI)
+
+XIX. Niña, niño o adolescente migrante separado: cualquier persona migrante menor de dieciocho años de edad que se encuentra acompañada de una persona adulta bajo cuyos cuidados se encuentra habitualmente por costumbre y no en virtud de ley;
+Fracción adicionada DOF 11-11-2020. Recorrida DOF 27-05-2024 (antes fracción XXII)
+
+XX. Oficina consular: a las representaciones del Estado mexicano ante el gobierno de otro país en las que se realizan de carácter permanente las siguientes funciones: proteger a los mexicanos que se localizan en su circunscripción, fomentar las relaciones comerciales, económicas, culturales y científicas entre ambos países y expedir la documentación a mexicanos y extranjeros en términos de la Ley del Servicio Exterior Mexicano y su Reglamento;
+Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XXIII)
+
+XXI. Persona extranjera: a la persona que no posea la nacionalidad mexicana, conforme a lo previsto en el artículo 30 de la Constitución;
+Fracción recorrida DOF 11-11-2020. Reformada y reubicada DOF 27-05-2024 (antes fracción XII)
+
+XXII. Persona mexicana: a la persona que posea los requisitos exigidos en el artículo 30 de la Constitución;
+Fracción recorrida DOF 11-11-2020. Reformada y reubicada DOF 27-05-2024 (antes fracción XVII)
+
+XXIII. Persona migrante: a la persona que sale, transita o llega al territorio de un Estado distinto al de su residencia por cualquier tipo de motivación;
+Fracción recorrida DOF 11-11-2020. Reformada y reubicada DOF 27-05-2024 (antes fracción XVIII)
+
+XXIV. Presentación: a la medida dictada por el Instituto mediante la cual se acuerda el alojamiento temporal de un extranjero que no acredita su situación migratoria para la regularización de su estancia o la asistencia para el retorno.
+Fracción recorrida DOF 11-11-2020
+
+XXV. Procuradurías de Protección: la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa;
+Fracción adicionada DOF 11-11-2020
+
+XXVI. Protección complementaria: a la protección que la Secretaría otorga al extranjero que no ha sido reconocido como refugiado, consistente en no devolverlo al territorio de otro país en donde su vida se vería amenazada o se encontraría en peligro de ser sometido a tortura u otros tratos o penas crueles, inhumanos o degradantes;
+Fracción recorrida DOF 11-11-2020
+
+XXVII. Refugiado: a todo extranjero que se encuentre en territorio nacional y que sea reconocido como refugiado por parte de las autoridades competentes, conforme a los tratados y convenios internacionales de que es parte el Estado Mexicano y a la legislación vigente;
+Fracción recorrida DOF 11-11-2020
+
+XXVIII. Reglamento: al Reglamento de la presente Ley;
+Fracción recorrida DOF 11-11-2020
+
+XXIX. Retorno asistido es el procedimiento por el que el Instituto Nacional de Migración hace abandonar el territorio nacional a un extranjero, remitiéndolo a su país de origen o de residencia habitual;
+Fracción recorrida DOF 11-11-2020
+
+XXX. Remuneración: a las percepciones que reciban las personas en el territorio de los Estados Unidos Mexicanos por la prestación de un servicio personal subordinado o por la prestación de un servicio profesional independiente;
+Fracción recorrida DOF 11-11-2020
+
+XXXI. Secretaría: a la Secretaría de Gobernación;
+Fracción recorrida DOF 11-11-2020
+
+XXXII. Servicio Profesional de Carrera Migratoria: al mecanismo que garantiza la igualdad de oportunidades para el ingreso, permanencia y desarrollo de los servidores públicos con cargos de confianza del Instituto.
+Fracción adicionada DOF 07-06-2013. Recorrida DOF 11-11-2020
+
+XXXIII. Situación migratoria: a la hipótesis jurídica en la que se ubica un extranjero en función del cumplimiento o incumplimiento de las disposiciones migratorias para su internación y estancia en el país. Se considera que el extranjero tiene situación migratoria regular cuando ha cumplido dichas disposiciones y que tiene situación migratoria irregular cuando haya incumplido con las mismas;
+Fracción recorrida DOF 07-06-2013. Reformada DOF 12-07-2018. Recorrida DOF 11-11-2020
+
+XXXIV. Tarjeta de residencia: al documento que expide el Instituto con el que los extranjeros acreditan su situación migratoria regular de residencia temporal o permanente;
+Fracción recorrida DOF 07-06-2013, 11-11-2020
+
+XXXV. Trámite migratorio: Cualquier solicitud o entrega de información que formulen las personas físicas y morales ante la autoridad migratoria, para cumplir una obligación, obtener un beneficio o servicio de carácter migratorio a fin de que se emita una resolución, así como cualquier otro documento que dichas personas estén obligadas a conservar, no comprendiéndose aquélla documentación o información que solo tenga que presentarse en caso de un requerimiento del Instituto, y Fracción recorrida DOF 07-06-2013, 11-11-2020
+
+XXXVI. Visa: a la autorización que se otorga en una oficina consular que evidencia la acreditación de los requisitos para obtener una condición de estancia en el país y que se expresa mediante un documento que se imprime, adhiere o adjunta a un pasaporte u otro documento. La visa también se puede otorgar a través de medios y registros electrónicos pudiéndose denominar visa electrónica o virtual. La visa autoriza al extranjero para presentarse a un lugar destinado al tránsito internacional de personas y solicitar, según el tipo de visado su estancia, siempre que se reúnan los demás requisitos para el ingreso.
 Fracción recorrida DOF 07-06-2013, 11-11-2020
 
 ### Artículo 4
@@ -116,8 +184,12 @@ Artículo reformado DOF 11-11-2020
 
 ### Artículo 13
 . Los migrantes y sus familiares que se encuentren en el territorio de los Estados Unidos Mexicanos tendrán derecho a que se les proporcione información acerca de:
+
 I. Sus derechos y obligaciones, conforme a la legislación vigente;
-II. Los requisitos establecidos por la legislación aplicable para su admisión, permanencia y salida, y III. La posibilidad de solicitar el reconocimiento de la condición de refugiado, del otorgamiento de protección complementaria o de la concesión de asilo político y la determinación de apátrida, así como los procedimientos respectivos para obtener dichas condiciones.
+
+II. Los requisitos establecidos por la legislación aplicable para su admisión, permanencia y salida, y
+
+III. La posibilidad de solicitar el reconocimiento de la condición de refugiado, del otorgamiento de protección complementaria o de la concesión de asilo político y la determinación de apátrida, así como los procedimientos respectivos para obtener dichas condiciones.
 La Secretaría adoptará las medidas que considere apropiadas para dar a conocer la información mencionada, de conformidad con la legislación aplicable.
 
 ### Artículo 14
@@ -130,9 +202,14 @@ En caso de dictarse sentencia condenatoria a un migrante, independientemente de 
 
 ### Artículo 16
 . Los migrantes deberán cumplir con las siguientes obligaciones:
+
 I. Cuando se trate de extranjeros con, situación migratoria regular, resguardar y custodiar la documentación que acredite su identidad y su situación.
+
 II. Mostrar la documentación que acredite su identidad o su situación migratoria regular, cuando les sea requerida por las autoridades migratorias;
-III. Proporcionar la información y datos personales que les sean solicitados por las autoridades competentes, en el ámbito de sus atribuciones, lo anterior sin perjuicio de lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables en la materia, y IV. Las demás obligaciones establecidas en la Constitución, en la presente Ley, su Reglamento y demás disposiciones aplicables.
+
+III. Proporcionar la información y datos personales que les sean solicitados por las autoridades competentes, en el ámbito de sus atribuciones, lo anterior sin perjuicio de lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables en la materia, y
+
+IV. Las demás obligaciones establecidas en la Constitución, en la presente Ley, su Reglamento y demás disposiciones aplicables.
 
 ### Artículo 17
 . Sólo las autoridades migratorias podrán retener la documentación que acredite la identidad o situación migratoria de los migrantes cuando existan elementos para presumir que son apócrifas, en cuyo caso deberán inmediatamente hacerlo del conocimiento de las autoridades competentes para que éstas resuelvan lo conducente.
@@ -143,39 +220,73 @@ DE LA AUTORIDADES MIGRATORIAS
 
 ### Artículo 18
 . La Secretaría tendrá las siguientes atribuciones en materia migratoria:
+
 I. Formular y dirigir la política migratoria del país, tomando en cuenta la opinión de las autoridades que al efecto se establezcan en el Reglamento, así como las demandas y posicionamientos de los otros Poderes de la Unión, de los Gobiernos de las entidades federativas y de la sociedad civil;
+
 II. Fijar las cuotas, requisitos o procedimientos para la emisión de visas y la autorización de condiciones de estancia, siempre que de ellas se desprenda para su titular la posibilidad de realizar actividades a cambio de una remuneración; así como determinar los municipios o entidades federativas que conforman las regiones fronterizas o aquellas que reciben trabajadores temporales y la vigencia correspondiente de las autorizaciones para la condición de estancia expedida en esas regiones, en los términos de la presente Ley. En todos estos supuestos la Secretaría deberá obtener previamente la opinión favorable de la Secretaría del Trabajo y Previsión Social y tomará en cuenta la opinión de las demás autoridades que al efecto se establezcan en el Reglamento;
+
 III. Establecer o suprimir requisitos para el ingreso de extranjeros al territorio nacional, mediante disposiciones de carácter general publicadas en el Diario Oficial de la Federación, tomando en cuenta la opinión de las autoridades que al efecto se establezcan en el Reglamento;
+
 IV. Suspender o prohibir el ingreso de extranjeros, en términos de la presente Ley y su Reglamento;
+
 V. En coordinación con la Secretaría de Relaciones Exteriores, promover y suscribir instrumentos internacionales en materia de retorno asistido tanto de mexicanos como de extranjeros;
+
 VI. Fijar y suprimir los lugares destinados al tránsito internacional de personas, en términos de esta Ley y su Reglamento;
-VII. Dictar los Acuerdos de readmisión, en los supuestos previstos en esta Ley, y VIII. Las demás que le señale la Ley General de Población, esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
+
+VII. Dictar los Acuerdos de readmisión, en los supuestos previstos en esta Ley, y
+
+VIII. Las demás que le señale la Ley General de Población, esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
 
 ### Artículo 19
 . El Instituto es un órgano administrativo desconcentrado de la Secretaría, que tiene por objeto la ejecución, control y supervisión de los actos realizados por las autoridades migratorias en territorio nacional, así como la instrumentación de políticas en la materia, con base en los lineamientos que expida la misma Secretaría.
 
 ### Artículo 20
 . El Instituto tendrá las siguientes atribuciones en materia migratoria:
+
 I. Instrumentar la política en materia migratoria;
+
 II. Vigilar la entrada y salida de personas al territorio de los Estados Unidos Mexicanos y revisar su documentación;
+
 III. En los casos señalados en esta Ley, tramitar y resolver sobre la internación, estancia y salida del país de los extranjeros;
+
 IV. Conocer, resolver y ejecutar la deportación o el retorno asistido de personas extranjeras, en los términos y condiciones establecidos en la presente Ley y en su Reglamento; salvo que, en el caso de deportación o retorno asistido de niñas, niños y adolescentes migrantes, el plan de restitución de derechos que emita la Procuraduría de Protección determine lo contrario;
-Fracción reformada DOF 11-11-2020 V. Imponer las sanciones previstas por esta Ley y su Reglamento;
+Fracción reformada DOF 11-11-2020
+
+V. Imponer las sanciones previstas por esta Ley y su Reglamento;
+
 VI. Llevar y mantener actualizado el Registro Nacional de Extranjeros;
+
 VII. Presentar en las estaciones migratorias o en los lugares habilitados para tal fin, a las personas extranjeras que lo ameriten conforme a las disposiciones de esta Ley, respetando en todo momento sus derechos humanos;
-Fracción reformada DOF 11-11-2020 VIII. Coordinar la operación de los grupos de atención a migrantes que se encuentren en territorio nacional;
+Fracción reformada DOF 11-11-2020
+
+VIII. Coordinar la operación de los grupos de atención a migrantes que se encuentren en territorio nacional;
+
 IX. Proporcionar información contenida en las bases de datos de los distintos sistemas informáticos que administra, a las diversas instituciones de seguridad nacional que así lo soliciten, de conformidad con las disposiciones jurídicas aplicables;
-Fracción reformada DOF 11-11-2020 X. Gestionar ante la autoridad correspondiente la asignación de la clave única del registro de población para niñas, niños y adolescentes a quienes se les otorgue autorización de estancia como Visitante por Razones Humanitarias o como Residente;
-Fracción adicionada DOF 11-11-2020 XI. Recibir a niñas, niños y adolescentes mexicanos repatriados y de manera inmediata notificar a la Procuraduría de Protección y canalizar a la niña, niño o adolescente al Sistema DIF correspondiente;
-Fracción adicionada DOF 11-11-2020. Reformada DOF 15-01-2026 XII. Garantizar los deberes reforzados del Estado de protección con las mujeres, adolescentes, niñas y niños en materia migratoria, y Fracción adicionada DOF 15-01-2026 XIII. Las demás que le señale esta Ley, su Reglamento y las disposiciones jurídicas aplicables.
+Fracción reformada DOF 11-11-2020
+
+X. Gestionar ante la autoridad correspondiente la asignación de la clave única del registro de población para niñas, niños y adolescentes a quienes se les otorgue autorización de estancia como Visitante por Razones Humanitarias o como Residente;
+Fracción adicionada DOF 11-11-2020
+
+XI. Recibir a niñas, niños y adolescentes mexicanos repatriados y de manera inmediata notificar a la Procuraduría de Protección y canalizar a la niña, niño o adolescente al Sistema DIF correspondiente;
+Fracción adicionada DOF 11-11-2020. Reformada DOF 15-01-2026
+
+XII. Garantizar los deberes reforzados del Estado de protección con las mujeres, adolescentes, niñas y niños en materia migratoria, y Fracción adicionada DOF 15-01-2026
+
+XIII. Las demás que le señale esta Ley, su Reglamento y las disposiciones jurídicas aplicables.
 Fracción recorrida DOF 11-11-2020. Reformada y recorrida DOF 15-01-2026
 
 ### Artículo 21
 . La Secretaría de Relaciones Exteriores tendrá las siguientes atribuciones en materia migratoria:
+
 I. Aplicar en el ámbito de su competencia las disposiciones de esta Ley, su Reglamento y demás disposiciones legales;
+
 II. Promover conjuntamente con la Secretaría la suscripción de instrumentos internacionales en materia de retorno asistido de mexicanos y extranjeros;
+
 III. Promover conjuntamente con la Secretaría de Gobernación, la suscripción de acuerdos bilaterales que regulen el flujo migratorio;
-IV. En los casos previstos en esta Ley, tramitar y resolver la expedición de visas, y V. Las demás que le señale esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
+
+IV. En los casos previstos en esta Ley, tramitar y resolver la expedición de visas, y
+
+V. Las demás que le señale esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
 
 ## CAPÍTULO II
 DE LA PROFESIONALIZACIÓN Y CERTIFICACIÓN DEL PERSONAL DEL INSTITUTO
@@ -191,12 +302,20 @@ El Centro de Evaluación se integrará con el personal de las áreas técnicas y
 
 ### Artículo 24
 . El Centro de Evaluación tendrá las siguientes atribuciones:
+
 I. Llevar a cabo las evaluaciones periódicas a los Integrantes del Instituto, a fin de comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia necesarios para el cumplimiento de sus funciones;
+
 II. Comunicar a las unidades administrativas competentes los resultados de las evaluaciones que practique, para los efectos del ingreso, promoción o permanencia de los servidores públicos del Instituto, según corresponda;
+
 III. Emitir y actualizar el certificado correspondiente al personal del Instituto que acredite las evaluaciones correspondientes;
+
 IV. Contribuir a identificar los factores de riesgo que repercutan o pongan en peligro el desempeño de las funciones migratorias, con el fin de garantizar la adecuada operación de los servicios migratorios;
+
 V. Establecer una base de datos que contenga los archivos de los procesos de certificación de las personas a quienes se les hayan practicado e implementar las medidas de seguridad necesarias para el resguardo de la información contenida en dichas bases;
-VI. Recomendar la capacitación y la implementación de las medidas que se deriven de los resultados de las evaluaciones practicadas, y VII. Las demás que le señale esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
+
+VI. Recomendar la capacitación y la implementación de las medidas que se deriven de los resultados de las evaluaciones practicadas, y
+
+VII. Las demás que le señale esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
 
 ### Artículo 25
 . Los servidores públicos del Instituto para su ingreso, desarrollo y permanencia deberán cursar y aprobar los programas de formación, capacitación y profesionalización, incluyendo normatividad en materia migratoria y derechos humanos impartidos a través del Servicio Profesional de Carrera Migratoria, posterior a contar con la certificación a que hace referencia el artículo 23 de esta Ley.
@@ -208,39 +327,74 @@ DE LAS AUTORIDADES AUXILIARES EN MATERIA MIGRATORIA
 
 ### Artículo 26
 . Corresponde a la Secretaría de Turismo:
+
 I. Difundir información oficial de los trámites y requisitos migratorios que se requieran para la internación, tránsito, estancia regular y salida de los extranjeros que pretendan visitar el país;
-II. Participar en las acciones interinstitucionales en materia migratoria, que coadyuven en la implementación de programas que fomenten y promuevan el turismo en destinos nacionales, para el desarrollo y beneficio del país, y III. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+
+II. Participar en las acciones interinstitucionales en materia migratoria, que coadyuven en la implementación de programas que fomenten y promuevan el turismo en destinos nacionales, para el desarrollo y beneficio del país, y
+
+III. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
 ### Artículo 27
 . Corresponde a la Secretaría de Salud:
+
 I. Promover en coordinación con las autoridades sanitarias de los diferentes niveles de gobierno que, la prestación de servicios de salud que se otorgue a los extranjeros, se brinde sin importar su situación migratoria y conforme a las disposiciones jurídicas aplicables;
+
 II. Establecer requisitos sanitarios para la internación de personas al territorio nacional, conforme a las disposiciones jurídicas aplicables;
+
 III. Ejercer la vigilancia de los servicios de sanidad en los lugares destinados al tránsito internacional de personas, en transportes nacionales o extranjeros, marítimos, aéreos y terrestres, mediante visitas de inspección conforme a las disposiciones jurídicas aplicables;
-IV. Diseñar y difundir campañas en los lugares destinados al tránsito internacional de personas, para la prevención y control de enfermedades, conforme a las disposiciones jurídicas aplicables, y V. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+
+IV. Diseñar y difundir campañas en los lugares destinados al tránsito internacional de personas, para la prevención y control de enfermedades, conforme a las disposiciones jurídicas aplicables, y
+
+V. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
 ### Artículo 28
 . Corresponde a la Fiscalía General de la República:
-Párrafo reformado DOF 20-05-2021 I. Promover la formación y especialización de Agentes de la Policía Federal Ministerial, Agentes del Ministerio Público y Oficiales Ministeriales en materia de derechos humanos;
+Párrafo reformado DOF 20-05-2021
+
+I. Promover la formación y especialización de Agentes de la Policía Federal Ministerial, Agentes del Ministerio Público y Oficiales Ministeriales en materia de derechos humanos;
+
 II. Proporcionar a los migrantes orientación y asesoría para su eficaz atención y protección, de conformidad con la Ley de la Fiscalía General de la República, su Estatuto Orgánico y demás ordenamientos aplicables;
-Fracción reformada DOF 20-05-2021 III. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de averiguaciones previas, carpetas de investigación y procesos penales respecto de los delitos de los que son víctimas los migrantes;
-Fracción reformada DOF 20-05-2021 IV. Celebrar convenios de cooperación y coordinación, así como realizar en el ámbito de sus atribuciones, las acciones necesarias para lograr una eficaz investigación y persecución de los delitos de los que son víctimas u ofendidos los migrantes;
-Fracción reformada DOF 04-05-2021 V. Conocer respecto de los delitos previstos en los artículos 159 y 161 de esta Ley, y VI. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+Fracción reformada DOF 20-05-2021
+
+III. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de averiguaciones previas, carpetas de investigación y procesos penales respecto de los delitos de los que son víctimas los migrantes;
+Fracción reformada DOF 20-05-2021
+
+IV. Celebrar convenios de cooperación y coordinación, así como realizar en el ámbito de sus atribuciones, las acciones necesarias para lograr una eficaz investigación y persecución de los delitos de los que son víctimas u ofendidos los migrantes;
+Fracción reformada DOF 04-05-2021
+
+V. Conocer respecto de los delitos previstos en los artículos 159 y 161 de esta Ley, y
+
+VI. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
 ### Artículo 29
 . Corresponde al Sistema Nacional para el Desarrollo Integral de la Familia, a los Sistemas Estatales DIF y al de la Ciudad de México:
+
 I. Proporcionar asistencia social para la atención de niñas, niños y adolescentes migrantes que requieran servicios para su protección;
+
 II. Otorgar facilidades de estancia y garantizar la protección y los derechos de niñas, niños y adolescentes migrantes, independientemente de su nacionalidad y situación migratoria, garantizando el principio de unidad familiar y el cumplimiento de las medidas de protección para la restitución integral de derechos vulnerados de niñas, niños y adolescentes de conformidad con los artículos 122 y 123 de la Ley General de los Derechos de Niñas, Niños y Adolescentes;
+
 III. El Sistema Nacional DIF y los sistemas de las entidades federativas, en coordinación con las instituciones competentes, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial;
+
 IV. Coadyuvar con el Instituto en la implementación de acciones que permitan brindar una atención adecuada a los migrantes que por diferentes factores o la combinación de ellos, enfrentan situaciones de mayor vulnerabilidad;
+
 V. Coadyuvar con defensores de derechos humanos y la Comisión Nacional de los Derechos Humanos para garantizar la protección integral de los derechos de niñas, niños y adolescentes;
+
 VI. Establecer convenios de coordinación con dependencias y entidades de la Administración Pública Federal, de las entidades federativas, municipios y demarcaciones territoriales y con las organizaciones de la sociedad civil especializadas para garantizar la protección integral de los derechos de niñas, niños y adolescentes, y y Adolescentes y su Reglamento y otras disposiciones jurídicas aplicables.
 Artículo reformado DOF 09-11-2017, 11-11-2020
 
 ### Artículo 30
 . Corresponde a la Secretaría de las Mujeres:
-Párrafo reformado DOF 15-01-2026 I. Realizar acciones interinstitucionales, de manera coordinada con el Instituto, que permitan atender las necesidades de la población migrante con perspectiva de género, así como la prevención de las violencias contra las mujeres, adolescentes, niñas y niños migrantes, y avanzar en el cumplimiento de los tratados y convenios internacionales de los cuales sea parte el Estado Mexicano;
-Fracción reformada DOF 25-06-2018, 15-01-2026 II. Promover acciones dirigidas a mejorar la condición social de las mujeres, adolescentes, niñas y niños migrantes, para garantizar su derecho a una vida libre de violencias y la erradicación de todas las formas de discriminación en su contra;
-Fracción reformada DOF 15-01-2026 III. Proporcionar a las autoridades migratorias capacitación en materia de igualdad de género, con énfasis en la atención con perspectiva de género, prevención y erradicación de violencias de género, así como respeto y protección de los derechos humanos de las migrantes, y Fracción reformada DOF 15-01-2026 IV. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+Párrafo reformado DOF 15-01-2026
+
+I. Realizar acciones interinstitucionales, de manera coordinada con el Instituto, que permitan atender las necesidades de la población migrante con perspectiva de género, así como la prevención de las violencias contra las mujeres, adolescentes, niñas y niños migrantes, y avanzar en el cumplimiento de los tratados y convenios internacionales de los cuales sea parte el Estado Mexicano;
+Fracción reformada DOF 25-06-2018, 15-01-2026
+
+II. Promover acciones dirigidas a mejorar la condición social de las mujeres, adolescentes, niñas y niños migrantes, para garantizar su derecho a una vida libre de violencias y la erradicación de todas las formas de discriminación en su contra;
+Fracción reformada DOF 15-01-2026
+
+III. Proporcionar a las autoridades migratorias capacitación en materia de igualdad de género, con énfasis en la atención con perspectiva de género, prevención y erradicación de violencias de género, así como respeto y protección de los derechos humanos de las migrantes, y Fracción reformada DOF 15-01-2026
+
+IV. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
 ## TÍTULO CUARTO
 DEL MOVIMIENTO INTERNACIONAL DE PERSONAS Y LA ESTANCIA DE EXTRANJEROS EN TERRITORIO NACIONAL
@@ -271,11 +425,18 @@ Artículo reformado DOF 29-04-2022
 ### Artículo 36
 . Los mexicanos no podrán ser privados del derecho a ingresar a territorio nacional. Para tal efecto, deben acreditar su nacionalidad además de cumplir con los demás requisitos que se establecen en esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 Los mexicanos comprobarán su nacionalidad, con alguno de los documentos siguientes:
+
 I. Pasaporte;
+
 II. Cédula de Identidad Ciudadana o Cédula de Identidad Personal o su equivalente;
+
 III. Copia certificada del Acta de Nacimiento;
+
 IV. Matrícula consular;
-V. Carta de Naturalización, o VI. Certificado de Nacionalidad Mexicana.
+
+V. Carta de Naturalización, o
+
+VI. Certificado de Nacionalidad Mexicana.
 En su caso, podrá identificarse con credencial para votar con fotografía, expedida por la autoridad electoral nacional, o cualquier otro documento expedido por la autoridad en el ejercicio de sus funciones.
 A falta de los documentos probatorios mencionados en las fracciones anteriores, para los efectos de lo dispuesto en este artículo, se podrá acreditar la nacionalidad mexicana mediante cualquier otro elemento objetivo de convicción que permita al Instituto determinar que se cumplen con los supuestos de acreditación de la nacionalidad mexicana.
 En los casos en que el Instituto cuente con elementos suficientes para presumir la falta de autenticidad de los documentos o de veracidad de los elementos aportados para acreditar la nacionalidad mexicana, determinará el ingreso o rechazo de la persona de que se trate, después de realizar la investigación respectiva. Este procedimiento deberá ser racional y en ningún caso excederá de 4 horas, mismo que sólo podrá ampliarse a solicitud expresa de la persona que se ostenta como de nacionalidad mexicana. En ningún caso el plazo podrá ser mayor a veinticuatro horas.
@@ -285,27 +446,57 @@ Párrafo adicionado DOF 26-03-2024 De igual forma, al ingresar al país, los mex
 
 ### Artículo 37
 . Para internarse al país, los extranjeros deberán:
-I. Presentar en el filtro de revisión migratoria ante el Instituto, los documentos siguientes: a) Pasaporte o documento de identidad y viaje que sea válido de conformidad con el derecho internacional vigente, y b) Cuando así se requiera, visa válidamente expedida y en vigor, en términos del artículo 40 de esta Ley; o c) Tarjeta de residencia o autorización en la condición de estancia de visitante regional, visitante trabajador fronterizo o visitante por razones humanitarias.
+
+I. Presentar en el filtro de revisión migratoria ante el Instituto, los documentos siguientes:
+
+a) Pasaporte o documento de identidad y viaje que sea válido de conformidad con el derecho internacional vigente, y
+
+b) Cuando así se requiera, visa válidamente expedida y en vigor, en términos del artículo 40 de esta Ley; o
+
+c) Tarjeta de residencia o autorización en la condición de estancia de visitante regional, visitante trabajador fronterizo o visitante por razones humanitarias.
+
 II. Proporcionar la información y los datos personales que las autoridades competentes soliciten en el ámbito de sus atribuciones.
-III. No necesitan visa los extranjeros que se ubiquen en alguno de los siguientes supuestos: a) Nacionales de países con los que se haya suscrito un acuerdo de supresión de visas o que no se requiera de visado en virtud de una decisión unilateral asumida por el Estado mexicano; b) Solicitantes de la condición de estancia de visitante regional y visitante trabajador fronterizo; c) Titulares de un permiso de salida y regreso; d) Titulares de una condición de estancia autorizada, en los casos que previamente determine la Secretaría; e) Solicitantes de la condición de refugiado, de protección complementaria y de la determinación de apátrida, o por razones humanitarias o causas de fuerza mayor, y f) Miembros de la tripulación de embarcaciones o aeronaves comerciales conforme a los compromisos internacionales asumidos por México.
+
+III. No necesitan visa los extranjeros que se ubiquen en alguno de los siguientes supuestos:
+
+a) Nacionales de países con los que se haya suscrito un acuerdo de supresión de visas o que no se requiera de visado en virtud de una decisión unilateral asumida por el Estado mexicano;
+
+b) Solicitantes de la condición de estancia de visitante regional y visitante trabajador fronterizo;
+
+c) Titulares de un permiso de salida y regreso;
+
+d) Titulares de una condición de estancia autorizada, en los casos que previamente determine la Secretaría;
+
+e) Solicitantes de la condición de refugiado, de protección complementaria y de la determinación de apátrida, o por razones humanitarias o causas de fuerza mayor, y
+
+f) Miembros de la tripulación de embarcaciones o aeronaves comerciales conforme a los compromisos internacionales asumidos por México.
 
 ### Artículo 38
 . La Secretaría, por causas de interés público y mientras subsistan las causas que la motiven podrá suspender o prohibir la admisión de extranjeros mediante la expedición de disposiciones administrativas de carácter general, que deberán ser publicadas en el Diario Oficial de la Federación.
 
 ### Artículo 39
 . En los términos de esta Ley y su Reglamento, en el procedimiento de trámite y expedición de visas y autorización de condiciones de estancia intervendrán:
-I. Las oficinas establecidas por la Secretaría en territorio nacional, y II. Las oficinas consulares, de conformidad con la Ley del Servicio Exterior Mexicano y su Reglamento.
+
+I. Las oficinas establecidas por la Secretaría en territorio nacional, y
+
+II. Las oficinas consulares, de conformidad con la Ley del Servicio Exterior Mexicano y su Reglamento.
 
 ### Artículo 40
 . Los extranjeros que pretendan ingresar al país deben presentar alguno de los siguientes tipos de visa, válidamente expedidas y vigentes:
+
 I. Visa de visitante sin permiso para realizar actividades remuneradas, que autoriza al extranjero para presentarse en cualquier lugar destinado al tránsito internacional de personas y solicitar su ingreso a territorio nacional, con el objeto de permanecer por un tiempo ininterrumpido no mayor a ciento ochenta días, contados a partir de la fecha de entrada.
+
 II. Visa de visitante con permiso para realizar actividades remuneradas, que autoriza al extranjero para presentarse en cualquier lugar destinado al tránsito internacional de personas y solicitar su ingreso a territorio nacional, con el objeto de permanecer por un tiempo ininterrumpido no mayor a ciento ochenta días, contados a partir de la fecha de entrada y realizar actividades remuneradas.
+
 III. Visa de visitante para realizar trámites de adopción, que autoriza al extranjero vinculado con un proceso de adopción en los Estados Unidos Mexicanos, a presentarse en cualquier lugar destinado al tránsito internacional de personas y solicitar su ingreso a territorio nacional, con el objeto de permanecer en el país hasta en tanto se dicte la resolución ejecutoriada y, en su caso, se inscriba en el Registro Civil la nueva acta del niño, niña o adolescente adoptado, así como se expida el pasaporte respectivo y todos los trámites necesarios para garantizar la salida del niño, niña o adolescente del país. La expedición de esta autorización, sólo procederá respecto de ciudadanos de países con los que los Estados Unidos Mexicanos hayan suscrito algún convenio en la materia.
+
 IV. Visa de residencia temporal, que autoriza al extranjero para presentarse en cualquier lugar destinado al tránsito internacional de personas y solicitar su ingreso a territorio nacional, con el objeto de permanecer por un tiempo no mayor a cuatro años.
+
 V. Visa de residente temporal estudiante, que autoriza al extranjero para presentarse en cualquier lugar destinado al tránsito internacional de personas y solicitar su ingreso a territorio nacional, con el objeto de permanecer por el tiempo que duren los cursos, estudios, proyectos de investigación o formación que acredite que se llevarán a cabo en instituciones educativas pertenecientes al sistema educativo nacional, y realizar actividades remuneradas conforme a lo dispuesto por la fracción VIII del
 
 ### artículo 52
 de esta Ley.
+
 VI. Visa de residencia permanente, que autoriza al extranjero para presentarse en cualquier lugar destinado al tránsito internacional de personas y solicitar su ingreso a territorio nacional, con el objeto de permanecer de manera indefinida.
 Los criterios para emitir visas serán establecidos en el Reglamento y los lineamientos serán determinados en conjunto por la Secretaría y la Secretaría de Relaciones Exteriores, privilegiando una gestión migratoria congruente que otorgue facilidades en la expedición de visas a fin de favorecer los flujos migratorios ordenados y regulares privilegiando la dignidad de los migrantes.
 Ninguna de las visas otorga el permiso para trabajar a cambio de una remuneración, a menos que sea explícitamente referido en dicho documento.
@@ -322,10 +513,18 @@ El Instituto resolverá en definitiva sin responsabilidad para la oficina consul
 
 ### Artículo 43
 . Sin perjuicio de lo dispuesto en el artículo 42 de este ordenamiento, las autoridades migratorias podrán negar la expedición de la visa, la internación regular a territorio nacional o su permanencia a los extranjeros que se ubiquen en alguno de los siguientes supuestos:
+
 I. Cuando derivado de sus antecedentes en México o en el extranjero se comprometa la seguridad nacional o la seguridad pública;
-Fracción reformada DOF 07-01-2021 II. Cuando no cumplan con los requisitos establecidos en esta Ley, su Reglamento y otras disposiciones jurídicas aplicables;
+Fracción reformada DOF 07-01-2021
+
+II. Cuando no cumplan con los requisitos establecidos en esta Ley, su Reglamento y otras disposiciones jurídicas aplicables;
+
 III. Cuando se verifique que los documentos o los elementos aportados no son auténticos;
-Fracción reformada DOF 07-01-2021 IV. Estar sujeto a prohibiciones expresas de autoridad competente, o V. Lo prevean otras disposiciones jurídicas.
+Fracción reformada DOF 07-01-2021
+
+IV. Estar sujeto a prohibiciones expresas de autoridad competente, o
+
+V. Lo prevean otras disposiciones jurídicas.
 Las autoridades migratorias, en el ámbito de sus atribuciones, contarán con los medios necesarios para verificar los supuestos anteriores y para este fin podrán solicitar al extranjero la información o datos que se requieran.
 El hecho de que el extranjero haya incumplido con lo dispuesto en la fracción II de este artículo, no impedirá a la autoridad migratoria analizar de nueva cuenta su solicitud de visa, siempre que cumpla con lo dispuesto en esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 En los casos en que la autoridad judicial imponga a la persona extranjera sentencia firme condenatoria, el Instituto valorará su condición migratoria atendiendo los principios de la reinserción social, así como los relativos a la reunificación familiar.
@@ -344,23 +543,39 @@ En el Reglamento se especificará la información que se solicitará, y los tér
 
 ### Artículo 47
 . Para la salida de personas del territorio nacional, éstas deberán:
+
 I. Hacerlo por lugares destinados al tránsito internacional de personas;
+
 II. Identificarse mediante la presentación del pasaporte o documento de identidad o viaje válido y vigente;
+
 III. Presentar al Instituto la información que se requiera con fines estadísticos;
-IV. En el caso de extranjeros, acreditar su situación migratoria regular en el país, o el permiso expedido por la autoridad migratoria en los términos del artículo 137 de esta Ley, y V. Sujetarse a lo que establezcan otras disposiciones aplicables en la materia.
+
+IV. En el caso de extranjeros, acreditar su situación migratoria regular en el país, o el permiso expedido por la autoridad migratoria en los términos del artículo 137 de esta Ley, y
+
+V. Sujetarse a lo que establezcan otras disposiciones aplicables en la materia.
 
 ### Artículo 48
 . La salida de mexicanos y extranjeros del territorio nacional podrá realizarse libremente, excepto en los siguientes casos:
+
 I. Se le haya dictado por autoridad judicial, providencia precautoria o medida cautelar, siempre que tenga por objeto restringir la libertad de tránsito de la persona;
+
 II. Que se encuentre bajo libertad caucional por vinculación a proceso;
+
 III. Que goce de libertad preparatoria o condicional, salvo con permiso de la autoridad competente;
+
 IV. Por razones de seguridad nacional, de conformidad con las disposiciones jurídicas aplicables;
-Fracción reformada DOF 21-04-2016 V. Tratándose de niñas, niños y adolescentes sujetos a un procedimiento de restitución internacional, de conformidad con lo establecido en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano, y Fracción reformada DOF 21-04-2016 VI. Las personas que, en su carácter de deudoras alimentarias, dejen de cumplir con las obligaciones que impone la legislación civil en materia de alimentos por un período mayor de sesenta días, previa solicitud de la autoridad judicial competente, sin perjuicio de las excepciones previstas por la legislación civil aplicable, así como de aquellas conductas consideradas como delitos por las leyes penales correspondientes. Para efectos de esta fracción y tratándose de extranjeros, el Instituto definirá su situación migratoria y resolverá con base en lo que se establezca en otros ordenamientos y en el reglamento de esta Ley.
+Fracción reformada DOF 21-04-2016
+
+V. Tratándose de niñas, niños y adolescentes sujetos a un procedimiento de restitución internacional, de conformidad con lo establecido en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano, y Fracción reformada DOF 21-04-2016
+
+VI. Las personas que, en su carácter de deudoras alimentarias, dejen de cumplir con las obligaciones que impone la legislación civil en materia de alimentos por un período mayor de sesenta días, previa solicitud de la autoridad judicial competente, sin perjuicio de las excepciones previstas por la legislación civil aplicable, así como de aquellas conductas consideradas como delitos por las leyes penales correspondientes. Para efectos de esta fracción y tratándose de extranjeros, el Instituto definirá su situación migratoria y resolverá con base en lo que se establezca en otros ordenamientos y en el reglamento de esta Ley.
 Fracción adicionada DOF 21-04-2016 El Instituto contará con los medios adecuados para verificar los supuestos anteriores, de conformidad con lo dispuesto en el Reglamento.
 
 ### Artículo 49
 . La salida del país de niñas, niños y adolescentes o de personas bajo tutela jurídica en términos de la legislación civil, sean mexicanos o extranjeros, se sujetará además a las siguientes reglas:
+
 I. Deberán ir acompañados de alguna de las personas que ejerzan sobre ellos la patria potestad o la tutela, y cumpliendo los requisitos de la legislación Civil.
+
 II. En el caso de que vayan acompañados por un tercero mayor de edad o viajen solos, se deberá presentar el pasaporte y el documento en el que conste la autorización de quiénes ejerzan la patria potestad o la tutela, ante fedatario público o por las autoridades que tengan facultades para ello.
 
 ### Artículo 50
@@ -374,31 +589,54 @@ DE LA ESTANCIA DE EXTRANJEROS EN EL TERRITORIO NACIONAL
 
 ### Artículo 52
 . Los extranjeros podrán permanecer en el territorio nacional en las condiciones de estancia de visitante, residente temporal y residente permanente, siempre que cumplan con los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones jurídicas aplicables, de conformidad con lo siguiente:
+
 I. VISITANTE SIN PERMISO PARA REALIZAR ACTIVIDADES REMUNERADAS. Autoriza al extranjero para transitar o permanecer en territorio nacional por un tiempo ininterrumpido no mayor a ciento ochenta días, contados a partir de la fecha de entrada, sin permiso para realizar actividades sujetas a una remuneración en el país.
+
 II. VISITANTE CON PERMISO PARA REALIZAR ACTIVIDADES REMUNERADAS. Autoriza al extranjero que cuente con una oferta de empleo, con una invitación por parte de alguna autoridad o institución académica, artística, deportiva o cultural por la cual perciba una remuneración en el país, o venga a desempeñar una actividad remunerada por temporada estacional en virtud de acuerdos interinstitucionales celebrados con entidades extranjeras, para permanecer en territorio nacional por un tiempo ininterrumpido no mayor a ciento ochenta días, contados a partir de la fecha de entrada.
+
 III. VISITANTE REGIONAL. Autoriza al extranjero nacional o residente de los países vecinos para ingresar a las regiones fronterizas con derecho a entrar y salir de las mismas cuantas veces lo deseen, sin que su permanencia exceda de siete días y sin permiso para recibir remuneración en el país.
 Párrafo reformado DOF 19-05-2017 Mediante disposiciones de carácter administrativo, la Secretaría establecerá la vigencia de las autorizaciones y los municipios y entidades federativas que conforman las regiones fronterizas, para efectos del otorgamiento de la condición de estancia de visitante regional.
+
 IV. VISITANTE TRABAJADOR FRONTERIZO. Autoriza al extranjero que sea nacional de los países con los cuales los Estados Unidos Mexicanos comparten límites territoriales, para permanecer hasta por un año en las entidades federativas que determine la Secretaría. El visitante trabajador fronterizo contará con permiso para trabajar a cambio de una remuneración en el país, en la actividad relacionada con la oferta de empleo con que cuente y con derecho a entrar y salir del territorio nacional cuantas veces lo desee.
-V. VISITANTE POR RAZONES HUMANITARIAS. Se autorizará esta condición de estancia a los extranjeros que se encuentren en cualquiera de los siguientes supuestos: a) Ser ofendido, víctima o testigo de algún delito cometido en territorio nacional.
+
+V. VISITANTE POR RAZONES HUMANITARIAS. Se autorizará esta condición de estancia a los extranjeros que se encuentren en cualquiera de los siguientes supuestos:
+
+a) Ser ofendido, víctima o testigo de algún delito cometido en territorio nacional.
 Para efectos de esta Ley, sin perjuicio de lo establecido en otras disposiciones jurídicas aplicables, se considerará ofendido o víctima a la persona que sea el sujeto pasivo de la conducta delictiva, independientemente de que se identifique, aprehenda, enjuicie o condene al perpetrador e independientemente de la relación familiar entre el perpetrador y la víctima.
-Al ofendido, víctima o testigo de un delito a quien se autorice la condición de estancia de Visitante por Razones Humanitarias, se le autorizará para permanecer en el país hasta que concluya el proceso, al término del cual deberán salir del país o solicitar una nueva condición de estancia, con derecho a entrar y salir del país cuantas veces lo desee y con permiso para trabajar a cambio de una remuneración en el país. Posteriormente, podrá solicitar la condición de estancia de residente permanente; b) Ser niña, niño o adolescente migrante, en términos del artículo 74 de esta Ley.
+Al ofendido, víctima o testigo de un delito a quien se autorice la condición de estancia de Visitante por Razones Humanitarias, se le autorizará para permanecer en el país hasta que concluya el proceso, al término del cual deberán salir del país o solicitar una nueva condición de estancia, con derecho a entrar y salir del país cuantas veces lo desee y con permiso para trabajar a cambio de una remuneración en el país. Posteriormente, podrá solicitar la condición de estancia de residente permanente;
+
+b) Ser niña, niño o adolescente migrante, en términos del artículo 74 de esta Ley.
 La autorización de la condición de estancia por razones humanitarias deberá ser inmediata y no podrá negarse o condicionarse a la presentación de documental alguna ni al pago de derechos.
 Esta condición de estancia se otorgará como medida de carácter temporal en tanto la Procuraduría de Protección determina el plan de restitución de derechos en los términos establecidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 La expedición del documento migratorio con dicha autorización deberá contener la CURP que la autoridad competente hubiera asignado y señalar expresamente la razón humanitaria de que se trata.
 En el caso de niñas, niños y adolescentes acompañados y separados, la autorización de esta condición de estancia beneficiará de manera solidaria a la persona adulta a cargo de su cuidado.
 El Instituto podrá negar el otorgamiento de la autorización a aquellas personas adultas de quien la Procuraduría de Protección hubiera determinado ser contrarios al interés superior de la niña, niño o adolescente de quien se trate.
-Inciso reformado DOF 11-11-2020 c) Ser solicitante de asilo político, de reconocimiento de la condición de refugiado o de protección complementaria del Estado Mexicano, hasta en tanto no se resuelva su situación migratoria. Si la solicitud es positiva se les otorgará la condición de estancia de residente permanente, en términos del
+Inciso reformado DOF 11-11-2020
+
+c) Ser solicitante de asilo político, de reconocimiento de la condición de refugiado o de protección complementaria del Estado Mexicano, hasta en tanto no se resuelva su situación migratoria. Si la solicitud es positiva se les otorgará la condición de estancia de residente permanente, en términos del
 
 ### artículo 54
 de esta Ley.
 También la Secretaría podrá autorizar la condición de estancia de visitante por razones humanitarias a los extranjeros que no se ubiquen en los supuestos anteriores, cuando exista una causa humanitaria o de interés público que haga necesaria su internación o regularización en el país, en cuyo caso contarán con permiso para trabajar a cambio de una remuneración.
+
 VI. VISITANTE CON FINES DE ADOPCIÓN. Autoriza al extranjero vinculado con un proceso de adopción en los Estados Unidos Mexicanos, a permanecer en el país hasta en tanto se dicte la resolución ejecutoriada y en su caso, se inscriba en el registro civil la nueva acta del niño, niña o adolescente adoptado, así como se expida el pasaporte respectivo y todos los trámites necesarios para garantizar la salida del niño, niña o adolescente del país. La expedición de esta autorización solo procederá respecto de ciudadanos de países con los que los Estados Unidos Mexicanos haya suscrito algún convenio en la materia.
-VII. RESIDENTE TEMPORAL. Autoriza al extranjero para permanecer en el país por un tiempo no mayor a cuatro años, con la posibilidad de obtener un permiso para trabajar a cambio de una remuneración en el país, sujeto a una oferta de empleo con derecho a entrar y salir del territorio nacional cuantas veces lo desee y con derecho a la preservación de la unidad familiar por lo que podrá ingresar con o solicitar posteriormente la internación de las personas que se señalan a continuación, quienes podrán residir regularmente en territorio nacional por el tiempo que dure el permiso del residente temporal: a) Hijos del residente temporal y los hijos del cónyuge, concubinario o concubina, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o se encuentren bajo su tutela o custodia; b) Cónyuge; c) Concubinario, concubina o figura equivalente, acreditando dicha situación jurídica conforme a los supuestos que señala la legislación mexicana, y d) Padre o madre del residente temporal.
+
+VII. RESIDENTE TEMPORAL. Autoriza al extranjero para permanecer en el país por un tiempo no mayor a cuatro años, con la posibilidad de obtener un permiso para trabajar a cambio de una remuneración en el país, sujeto a una oferta de empleo con derecho a entrar y salir del territorio nacional cuantas veces lo desee y con derecho a la preservación de la unidad familiar por lo que podrá ingresar con o solicitar posteriormente la internación de las personas que se señalan a continuación, quienes podrán residir regularmente en territorio nacional por el tiempo que dure el permiso del residente temporal:
+
+a) Hijos del residente temporal y los hijos del cónyuge, concubinario o concubina, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o se encuentren bajo su tutela o custodia;
+
+b) Cónyuge;
+
+c) Concubinario, concubina o figura equivalente, acreditando dicha situación jurídica conforme a los supuestos que señala la legislación mexicana, y
+
+d) Padre o madre del residente temporal.
 Las personas a que se refieren los incisos anteriores serán autorizados para residir regularmente en territorio nacional bajo la condición de estancia de residente temporal, con la posibilidad de obtener un permiso para trabajar a cambio de una remuneración en el país sujeto a una oferta de empleo, y con derecho a entrar y salir del territorio nacional cuantas veces lo deseen.
 En el caso de que el residente temporal cuente con una oferta de empleo, se le otorgará permiso para trabajar a cambio de una remuneración en el país, en la actividad relacionada con dicha oferta de empleo.
 Los extranjeros a quienes se les otorgue la condición de estancia de residentes temporales podrán introducir sus bienes muebles, en la forma y términos que determine la legislación aplicable.
+
 VIII. RESIDENTE TEMPORAL ESTUDIANTE. Autoriza al extranjero para permanecer en el territorio nacional por el tiempo que duren los cursos, estudios, proyectos de investigación o formación que acredite que va a realizar en instituciones educativas pertenecientes al sistema educativo nacional, hasta la obtención del certificado, constancia, diploma, título o grado académico correspondiente, con derecho a entrar y salir del territorio nacional cuantas veces lo desee, con permiso para realizar actividades remuneradas cuando se trate de estudios de nivel superior, posgrado e investigación.
 La autorización de estancia de los estudiantes está sujeta a la presentación por parte del extranjero de la carta de invitación o de aceptación de la institución educativa correspondiente y deberá renovarse anualmente, para lo cual el extranjero acreditará que subsisten las condiciones requeridas para la expedición de la autorización inicial. La autorización para realizar actividades remuneradas se otorgará por el Instituto cuando exista carta de conformidad de la institución educativa correspondiente y estará sujeta a una oferta de trabajo en actividades relacionadas con la materia de sus estudios. El residente temporal estudiante tendrá derecho a entrar y salir del territorio nacional cuantas veces lo desee y contará también con el derecho a la preservación de la unidad familiar, por lo que podrá ingresar con o solicitar posteriormente el ingreso de las personas que se señalan en la fracción anterior.
+
 IX. RESIDENTE PERMANENTE. Autoriza al extranjero para permanecer en el territorio nacional de manera indefinida, con permiso para trabajar a cambio de una remuneración en el país.
 
 ### Artículo 53
@@ -406,41 +644,66 @@ IX. RESIDENTE PERMANENTE. Autoriza al extranjero para permanecer en el territori
 
 ### Artículo 54
 . Se otorgará la condición de residente permanente al extranjero que se ubique en cualquiera de los siguientes supuestos:
+
 I. Por razones de asilo político, reconocimiento de la condición de refugiado y protección complementaria o por la determinación de apátrida, previo cumplimiento de los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones jurídicas aplicables;
+
 II. Por el derecho a la preservación de la unidad familiar en los supuestos del artículo 55 de esta Ley;
+
 III. Que sean jubilados o pensionados que perciban de un gobierno extranjero o de organismos internacionales o de empresas particulares por servicios prestados en el exterior, un ingreso que les permita vivir en el país;
+
 IV. Por decisión del Instituto, conforme al sistema de puntos que al efecto se establezca, en términos del artículo 57 de esta Ley;
+
 V. Porque hayan transcurrido cuatro años desde que el extranjero cuenta con un permiso de residencia temporal;
-VI. Por tener hijos de nacionalidad mexicana por nacimiento, y VII. Por ser ascendiente o descendiente en línea recta hasta el segundo grado de un mexicano por nacimiento.
+
+VI. Por tener hijos de nacionalidad mexicana por nacimiento, y
+
+VII. Por ser ascendiente o descendiente en línea recta hasta el segundo grado de un mexicano por nacimiento.
 Los extranjeros a quienes se les otorgue la condición de estancia de residentes permanentes tendrán la posibilidad de obtener un permiso para trabajar a cambio de una remuneración en el país sujeto a una oferta de empleo, y con derecho a entrar y salir del territorio nacional cuantas veces lo deseen.
 Asimismo, los residentes permanentes podrán introducir sus bienes muebles, en la forma y términos que determine la legislación aplicable.
 Las cuestiones relacionadas con el reconocimiento de la condición de refugiado, el otorgamiento de la protección complementaria y la determinación de apátrida, se regirán por lo dispuesto en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano y demás leyes aplicables.
 
 ### Artículo 55
 . Los residentes permanentes tendrán derecho a la preservación de la unidad familiar por lo que podrán ingresar con o solicitar posteriormente el ingreso de las siguientes personas, mismas que podrán residir en territorio nacional bajo la misma condición de estancia y con las prerrogativas señaladas en el artículo anterior:
+
 I. Padre o madre del residente permanente;
+
 II. Cónyuge, al cual se le concederá la condición de estancia de residente temporal por dos años, transcurridos los cuales podrá obtener la condición de estancia de residente permanente, siempre y cuando subsista el vínculo matrimonial;
+
 III. Concubinario, concubina, o figura equivalente al cual se le concederá la condición de estancia de residente temporal por dos años, transcurridos los cuales podrá obtener la condición de estancia de residente permanente, siempre y cuando subsista el concubinato;
-IV. Hijos del residente permanente y los hijos del cónyuge o concubinario o concubina, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o se encuentren bajo su tutela o custodia, y V. Hermanos del residente permanente, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o estén bajo su representación legal.
+
+IV. Hijos del residente permanente y los hijos del cónyuge o concubinario o concubina, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o se encuentren bajo su tutela o custodia, y
+
+V. Hermanos del residente permanente, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o estén bajo su representación legal.
 Para el ejercicio del derecho consagrado en el presente artículo de las personas que se les otorgue asilo político u obtengan el reconocimiento de la condición de refugiado, se atenderá a lo dispuesto en los tratados internacionales de los que el Estado Mexicano sea parte y demás legislación aplicable.
 Párrafo reformado DOF 30-10-2014
 
 ### Artículo 56
 . Los mexicanos tendrán el derecho a la preservación de la unidad familiar por lo que podrán ingresar con o solicitar posteriormente el ingreso de las siguientes personas extranjeras:
+
 I. Padre o madre;
+
 II. Cónyuge, al cual se le concederá la condición de estancia de residente temporal por dos años, transcurridos los cuales podrá obtener la condición de estancia de residente permanente, siempre y cuando subsista el vínculo matrimonial;
+
 III. Concubinario o concubina, acreditando dicha situación jurídica conforme a los supuestos que señala la legislación civil mexicana, al cual se le concederá la condición de estancia de residente temporal por dos años, transcurridos los cuales podrá obtener la condición de estancia de residente permanente, siempre y cuando subsista el concubinato;
+
 IV. Hijos nacidos en el extranjero, cuando de conformidad con el artículo 30 de la Constitución no sean mexicanos;
-V. Hijos del cónyuge, concubinario o concubina extranjeros, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o estén bajo su representación legal, y VI. Hermanos, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o estén bajo su representación legal.
+
+V. Hijos del cónyuge, concubinario o concubina extranjeros, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o estén bajo su representación legal, y
+
+VI. Hermanos, siempre y cuando sean niñas, niños y adolescentes y no hayan contraído matrimonio, o estén bajo su representación legal.
 
 ### Artículo 57
 . La Secretaría, podrá establecer mediante disposiciones administrativas de carácter general que se publicarán en el Diario Oficial de la Federación, un sistema de puntos para que los extranjeros puedan adquirir la residencia permanente sin cumplir con los cuatro años de residencia previa. Los extranjeros que ingresen a territorio nacional por la vía del sistema de puntos contarán con permiso de trabajo y tendrán derecho a la preservación de la unidad familiar por lo que podrán ingresar con o solicitar posteriormente el ingreso de las personas señaladas en el artículo 55 de esta Ley.
 La Secretaría a través del Sistema de Puntos, permitirá a los extranjeros adquirir la residencia permanente en el país. Dicho sistema deberá considerar como mínimo lo siguiente:
+
 I. Los criterios para el ingreso por la vía del sistema de puntos, tomando en cuenta lo establecido en el
 
 ### artículo 18
 , fracción II de esta Ley para el establecimiento de cuotas para el ingreso de extranjeros al territorio nacional;
-II. Las capacidades del solicitante tomando en cuenta entre otros aspectos el nivel educativo; la experiencia laboral; las aptitudes en áreas relacionadas con el desarrollo de la ciencia y la tecnología; los reconocimientos internacionales, así como las aptitudes para desarrollar actividades que requiera el país, y III. El procedimiento para solicitar el ingreso por dicha vía.
+
+II. Las capacidades del solicitante tomando en cuenta entre otros aspectos el nivel educativo; la experiencia laboral; las aptitudes en áreas relacionadas con el desarrollo de la ciencia y la tecnología; los reconocimientos internacionales, así como las aptitudes para desarrollar actividades que requiera el país, y
+
+III. El procedimiento para solicitar el ingreso por dicha vía.
 
 ### Artículo 58
 . Los extranjeros tienen derecho a que las autoridades migratorias les expidan la documentación que acredite su situación migratoria regular una vez cubiertos los requisitos establecidos en esta Ley y su Reglamento. Cuando la documentación que expidan las autoridades migratorias no contenga fotografía, el extranjero deberá exhibir adicionalmente su pasaporte o documento de identidad y viaje vigente.
@@ -466,11 +729,18 @@ Los extranjeros tendrán la obligación de comunicar al Instituto de cualquier c
 
 ### Artículo 64
 . El Instituto deberá cancelar la condición de residente temporal o permanente, por las siguientes causas:
+
 I. Manifestación del extranjero de que su salida es definitiva;
+
 II. Autorización al extranjero de otra condición de estancia;
+
 III. Proporcionar información falsa o exhibir ante el Instituto documentación oficial apócrifa o legítima pero que haya sido obtenida de manera fraudulenta;
+
 IV. Perder el extranjero su condición de estancia por las demás causas establecidas en esta Ley;
-V. Perder el extranjero el reconocimiento de su condición de refugiado o protección complementaria, de conformidad con las disposiciones jurídicas que resulten aplicables, y VI. Cuando derivado de sus antecedentes en México o en el extranjero se comprometa la seguridad nacional o la seguridad pública.
+
+V. Perder el extranjero el reconocimiento de su condición de refugiado o protección complementaria, de conformidad con las disposiciones jurídicas que resulten aplicables, y
+
+VI. Cuando derivado de sus antecedentes en México o en el extranjero se comprometa la seguridad nacional o la seguridad pública.
 Fracción reformada DOF 07-01-2021
 
 ### Artículo 65
@@ -493,11 +763,18 @@ Párrafo reformado DOF 11-11-2020
 
 ### Artículo 69
 . Los migrantes que se encuentren en situación migratoria irregular en el país tendrán derecho a que las autoridades migratorias, al momento de su presentación, les proporcionen información acerca de:
+
 I. Sus derechos y garantías de acuerdo con lo establecido en la legislación aplicable y en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano;
+
 II. El motivo de su presentación;
+
 III. Los requisitos establecidos para su admisión, sus derechos y obligaciones de acuerdo con lo establecido por la legislación aplicable;
+
 IV. La notificación inmediata de su presentación por parte de la autoridad migratoria, al consulado del país del cual manifiesta ser nacional, excepto en el caso de que el extranjero pudiera acceder al asilo político o al reconocimiento de la condición de refugiado;
-V. La posibilidad de regularizar su situación migratoria, en términos de lo dispuesto por los artículos 132, 133 y 134 de esta Ley, y VI. La posibilidad de constituir garantía en los términos del artículo 102 de esta Ley.
+
+V. La posibilidad de regularizar su situación migratoria, en términos de lo dispuesto por los artículos 132, 133 y 134 de esta Ley, y
+
+VI. La posibilidad de constituir garantía en los términos del artículo 102 de esta Ley.
 
 ### Artículo 70
 . Todo migrante tiene derecho a ser asistido o representado legalmente por la persona que designe durante el procedimiento administrativo migratorio. El Instituto podrá celebrar los convenios de colaboración que se requieran y establecerá facilidades para que las organizaciones de la sociedad civil ofrezcan servicios de asesoría y representación legal a los migrantes en situación migratoria irregular a quienes se les haya iniciado un procedimiento administrativo migratorio.
@@ -599,8 +876,12 @@ DE LA VERIFICACIÓN MIGRATORIA
 ### Artículo 92
 . El Instituto realizará visitas de verificación para comprobar que los extranjeros que se encuentren en territorio nacional cumplan con las obligaciones previstas en esta Ley y su Reglamento.
 Los supuestos para que el Instituto lleve a cabo una visita de verificación son los siguientes:
+
 I. Confirmar la veracidad de los datos proporcionados en trámites migratorios;
-II. Cuando se advierta que ha expirado la vigencia de estancia de extranjeros en el país, y III. Para la obtención de elementos necesarios para la aplicación de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables, siempre que funde y motive su proceder.
+
+II. Cuando se advierta que ha expirado la vigencia de estancia de extranjeros en el país, y
+
+III. Para la obtención de elementos necesarios para la aplicación de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables, siempre que funde y motive su proceder.
 La facultad para realizar visitas de verificación se ejercitará de oficio por tratarse de cuestiones de orden público.
 La orden por la que se disponga la verificación migratoria deberá ser expedida por el Instituto y precisar el responsable de la diligencia y el personal asignado para la realización de la misma, el lugar o zona que ha de verificarse, el objeto de la verificación, el alcance que deba tener y las disposiciones jurídicas aplicables que la fundamenten y la motiven.
 
@@ -657,7 +938,15 @@ Artículo reformado DOF 11-11-2020
 . Una vez emitido el acuerdo de presentación, y hasta que no se dicte resolución respecto de la situación migratoria del extranjero, en los casos y de conformidad con los requisitos que se señalen en el Reglamento, el extranjero podrá ser entregado en custodia a la representación diplomática del país del que sea nacional, o bien a persona moral o institución de reconocida solvencia cuyo objeto esté vinculado con la protección a los derechos humanos, con la obligación del extranjero de permanecer en un domicilio ubicado en la circunscripción territorial en donde se encuentre la estación migratoria, con el objeto de dar debido seguimiento al procedimiento administrativo migratorio.
 
 ### Artículo 102
-. El extranjero sometido a un procedimiento administrativo, a fin de lograr su estancia regular en el país, en lo que se dicta resolución definitiva, podrá: a) Otorgar garantía suficiente y a satisfacción de la autoridad; b) Establecer domicilio o lugar en el que permanecerá; c) No ausentarse del mismo sin previa autorización de la autoridad, y d) Presentar una solicitud con responsiva firmada por un ciudadano u organización social mexicana.
+. El extranjero sometido a un procedimiento administrativo, a fin de lograr su estancia regular en el país, en lo que se dicta resolución definitiva, podrá:
+
+a) Otorgar garantía suficiente y a satisfacción de la autoridad;
+
+b) Establecer domicilio o lugar en el que permanecerá;
+
+c) No ausentarse del mismo sin previa autorización de la autoridad, y
+
+d) Presentar una solicitud con responsiva firmada por un ciudadano u organización social mexicana.
 La garantía podrá constituirse en póliza de fianza, billete de depósito o por cualquier otro medio permitido por la ley.
 
 ### Artículo 103
@@ -679,16 +968,28 @@ No se alojará a un número de migrantes que supere la capacidad física de la e
 
 ### Artículo 107
 . Las estaciones migratorias, deberán cumplir al menos los siguientes requisitos:
+
 I. Prestar servicios de asistencia médica, psicológica y jurídica;
+
 II. Atender los requerimientos alimentarios del extranjero presentado, ofreciéndole tres alimentos al día. El Instituto deberá supervisar que la calidad de los alimentos sea adecuada. Las personas con necesidades especiales de nutrición, como personas de la tercera edad y mujeres embarazadas, recibirán una dieta adecuada, con el fin de que su salud no se vea afectada en tanto se define su situación migratoria.
 Párrafo reformado DOF 11-11-2020 Asimismo, cuando así lo requiera el tratamiento médico que se haya; prescrito al alojado, se autorizarán dietas especiales de alimentación. De igual manera se procederá con las personas que por cuestiones religiosas así lo soliciten;
+
 III. Mantener en lugares separados y con medidas que aseguran la integridad física de las personas extranjeras, a hombres y mujeres;
-Fracción reformada DOF 11-11-2020 IV. Promover el derecho a la preservación de la unidad familiar;
+Fracción reformada DOF 11-11-2020
+
+IV. Promover el derecho a la preservación de la unidad familiar;
+
 V. Garantizar el respeto de los derechos humanos del extranjero presentado;
+
 VI. Mantener instalaciones adecuadas que eviten el hacinamiento;
+
 VII. Contar con espacios de recreación deportiva y cultural;
+
 VIII. Permitir el acceso de representantes legales, o persona de su confianza y la asistencia consular;
-IX. Permitir la visita de las personas que cumplan con los requisitos establecidos en las disposiciones jurídicas aplicables. En caso de negativa de acceso, ésta deberá entregarse por escrito debidamente fundado y motivado, y X. Las demás que establezca el Reglamento.
+
+IX. Permitir la visita de las personas que cumplan con los requisitos establecidos en las disposiciones jurídicas aplicables. En caso de negativa de acceso, ésta deberá entregarse por escrito debidamente fundado y motivado, y
+
+X. Las demás que establezca el Reglamento.
 El Instituto facilitará la verificación de la Comisión Nacional de los Derechos Humanos del cumplimiento de los requisitos señalados en este artículo, y el acceso de organizaciones de la sociedad civil, conforme a lo dispuesto en las disposiciones jurídicas aplicables.
 
 ### Artículo 108
@@ -697,19 +998,34 @@ Artículo reformado DOF 15-01-2026
 
 ### Artículo 109
 . Todo presentado, en su caso, tendrá los siguientes derechos desde su ingreso a la estación migratoria:
+
 I. Conocer la ubicación de la estación migratoria en la que se encuentra alojado, de las reglas aplicables y los servicios a los que tendrá acceso;
+
 II. Ser informado del motivo de su ingreso a la estación migratoria; del procedimiento migratorio; de su derecho a solicitar el reconocimiento de la condición de refugiado o la determinación de apátrida; del derecho a regularizar su estancia en términos de los artículos 132, 133 y 134 de la presente ley, en su caso, de la posibilidad de solicitar voluntariamente el retorno asistido a su país de origen; así como del derecho de interponer un recurso efectivo contra las resoluciones del Instituto;
+
 III. Recibir protección de su representación consular y comunicarse con ella. En caso de que el extranjero desee recibir la protección de su representación consular, se le facilitarán los medios para comunicarse con ésta lo antes posible;
+
 IV. Recibir por escrito sus derechos y obligaciones, así como las instancias donde puede presentar sus denuncias y quejas;
+
 V. Que el procedimiento sea sustanciado por autoridad competente y el derecho a recibir asesoría legal, ofrecer pruebas y alegar lo que a su derecho convenga, así como tener acceso a las constancias del expediente administrativo migratorio;
+
 VI. Contar con un traductor o intérprete para facilitar la comunicación, en caso de que no hable o no entienda el español;
+
 VII. Acceder a comunicación telefónica;
+
 VIII. A recibir durante su estancia un espacio digno, alimentos, enseres básicos para su aseo personal y atención médica en caso de ser necesario;
+
 IX. Ser visitado por sus familiares y por su representante legal;
+
 X. Participar en actividades recreativas, educativas y culturales que se organicen dentro de las instalaciones;
+
 XI. No ser discriminado por las autoridades a causa de su origen étnico o nacional, sexo, género, edad, discapacidad, condición social o; económica, estado de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra circunstancia que tenga por objeto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+
 XII. Recibir un trato digno y humano durante toda su estancia en la Estación Migratoria;
-XIII. Que las Estaciones Migratorias cuenten con áreas de estancia separadas para mujeres y hombres, garantizando en todo momento el derecho a la preservación de la unidad familiar, y Fracción reformada DOF 11-11-2020 XIV. Las demás que se establezcan en disposiciones de carácter general que expida la Secretaría.
+
+XIII. Que las Estaciones Migratorias cuenten con áreas de estancia separadas para mujeres y hombres, garantizando en todo momento el derecho a la preservación de la unidad familiar, y Fracción reformada DOF 11-11-2020
+
+XIV. Las demás que se establezcan en disposiciones de carácter general que expida la Secretaría.
 Fracción reformada DOF 03-07-2019. Reformada y recorrida DOF 11-11-2020 Reforma DOF 11-11-2020: Suprimió del artículo la entonces fracción XIV
 
 ### Artículo 110
@@ -719,10 +1035,16 @@ Artículo reformado DOF 15-01-2026
 ### Artículo 111
 . El Instituto resolverá la situación migratoria de los extranjeros presentados en un plazo no mayor de 15 días hábiles, contados a partir de su presentación.
 Párrafo reformado DOF 12-07-2018 El alojamiento en las estaciones migratorias únicamente podrá exceder de los 15 días hábiles a que se refiere el párrafo anterior cuando se actualicen cualquiera de los siguientes supuestos:
+
 I. Que no exista información fehaciente sobre su identidad y/o nacionalidad, o exista dificultad para la obtención de los documentos de identidad y viaje;
+
 II. Que los consulados o secciones consulares del país de origen o residencia requieran mayor tiempo para la expedición de los documentos de identidad y viaje;
+
 III. Que exista impedimento para su tránsito por terceros países u obstáculo para establecer el itinerario de viaje al destino final;
-IV. Que exista enfermedad o discapacidad física o mental médicamente acreditada que imposibilite viajar al migrante presentado, y V. Que se haya interpuesto un recurso administrativo o judicial en que se reclamen cuestiones inherentes a su situación migratoria en territorio nacional; o se haya interpuesto un juicio de amparo y exista una prohibición expresa de la autoridad competente para que el extranjero pueda ser trasladado o para que pueda abandonar el país.
+
+IV. Que exista enfermedad o discapacidad física o mental médicamente acreditada que imposibilite viajar al migrante presentado, y
+
+V. Que se haya interpuesto un recurso administrativo o judicial en que se reclamen cuestiones inherentes a su situación migratoria en territorio nacional; o se haya interpuesto un juicio de amparo y exista una prohibición expresa de la autoridad competente para que el extranjero pueda ser trasladado o para que pueda abandonar el país.
 En los supuestos de las fracciones I, II, III y IV de este artículo el alojamiento de los extranjeros en las estaciones migratorias no podrá exceder de 60 días hábiles.
 Transcurrido dicho plazo, el Instituto les otorgará la condición de estancia de visitante con permiso para recibir una remuneración en el país, mientras subsista el supuesto por el que se les otorgó dicha condición de estancia. Agotado el mismo, el Instituto deberá determinar la situación migratoria del extranjero.
 
@@ -731,20 +1053,26 @@ DEL PROCEDIMIENTO EN LA ATENCIÓN DE PERSONAS EN SITUACIÓN DE VULNERABILIDAD
 
 ### Artículo 112
 . Cuando alguna niña, niño o adolescente sea puesta a disposición del Instituto, quedará bajo su total responsabilidad en tanto procede la notificación inmediata a la Procuraduría de Protección y la canalización al Sistema DIF correspondiente, y se deberá garantizar el respeto a sus derechos humanos, sujetándose particularmente a lo siguiente:
+
 I. Por lo que respecta a la seguridad y cuidado de niñas, niños y adolescentes, el Instituto deberá ponerles de inmediato a disposición del Sistema Nacional DIF o su equivalente en las diferentes entidades federativas, municipios o demarcaciones territoriales y notificar del caso a la Procuraduría de Protección, para proceder a su gestión conforme a lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 De manera cautelar, el Instituto reconocerá a toda niña, niño y adolescente migrante la condición de Visitante por Razones Humanitarias, en los términos establecidos en la presente Ley y su Reglamento.
 El Instituto emitirá un acta de canalización de la niña, niño o adolescente en la que conste la notificación a la Procuraduría de Protección y la canalización de la niña, niño o adolescente al Sistema DIF correspondiente;
+
 II. Por lo que respecta a la determinación y resolución de la situación administrativa migratoria de niñas, niños y adolescentes, el Instituto deberá iniciar el procedimiento administrativo migratorio previa notificación a la Procuraduría de Protección para su oportuna intervención;
+
 III. Será el Instituto quien determine y resuelva el procedimiento administrativo correspondiente, atendiendo las determinaciones que en ese sentido provea el plan de restitución de derechos emitido por la Procuraduría de Protección.
 En el caso de que el plan de restitución de derechos que emita la Procuraduría de Protección recomiende la permanencia de la niña, niño o adolescente, el Instituto lo podrá regularizar bajo los supuestos establecidos en los artículos 132, 133 y 134 de esta Ley, y tendrá derecho a la preservación de la unidad familiar.
 En el caso de que el plan de restitución de derechos que emita la Procuraduría de Protección estipule la posibilidad de que la niña, niño o adolescente salga del país, el Instituto procederá al retorno asistido y se notificará de esta situación al Consulado correspondiente, con tiempo suficiente para la recepción del niño, niña o adolescente en su país de nacionalidad o residencia.
 El retorno asistido de la niña, niño o adolescente migrante a su país de nacionalidad o residencia se realizará atendiendo al interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, con pleno respeto a sus derechos humanos y con la intervención de la autoridad competente del país de nacionalidad o residencia.
 Todo traslado y retorno asistido deberá de hacerse en acompañamiento de personal especializado en el tema de infancia.
 Tratándose de niña, niño o adolescente nacional no acompañado, corresponderá al Sistema Nacional para el Desarrollo Integral de la Familia, en coordinación y coadyuvancia con los Sistemas Estatales DIF y de la Ciudad de México que correspondan, garantizar el eficaz retorno asistido de la niña, niño o adolescente con sus familiares adultos o personas adultas bajo cuyos cuidados se encuentre habitualmente ya sea en virtud de ley o por costumbre, atendiéndose en todo momento el interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, considerando las causas de su migración: reunificación familiar, en busca de empleo, violencia intrafamiliar, violencia e inseguridad social, entre otras;
+
 IV. Se informará en lenguaje claro y conforme a su edad y madurez a la niña, niño o adolescente de las implicaciones de la canalización al Sistema DIF, la notificación de su caso a la Procuraduría de Protección, del proceso administrativo migratorio, de sus derechos y del proceso de retorno a su país o comunidad de origen, en el caso de las niñas, niños y adolescentes nacionales repatriados;
+
 V. Se le pondrá en contacto con el consulado de su país, salvo que a juicio del Instituto o a solicitud de la niña, niño o adolescente pudiera acceder al asilo político, al reconocimiento de la condición de refugiado, o se identifiquen indicios de necesidad de protección internacional, en cuyo caso no se entablará contacto con la representación consular.
 En estos casos, además de a la Procuraduría de Protección, el Instituto deberá notificar a la Comisión Mexicana de Ayuda a Refugiados de manera inmediata.
 En los casos en que corresponda, se notificará al consulado del país de nacionalidad o residencia del niño, niña o adolescente, sobre la canalización al Sistema DIF y la notificación a la Procuraduría de Protección, incluyendo los datos de contacto para ambos casos;
+
 VI. Personal del Instituto, especializado en la protección de la infancia, capacitado en los derechos de niñas, niños y adolescentes, podrá entrevistarles con el único objeto de conocer su identidad, su país de nacionalidad o residencia, su situación migratoria, el paradero de sus familiares y sus necesidades particulares de protección, de atención médica y psicológica. Dicha información se compartirá con los Sistemas DIF y la Procuraduría Federal en los términos que establecen la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento.
 Un representante de la Comisión Nacional de los Derechos Humanos podrá estar presente en estas entrevistas, sin perjuicio de las facultades que le corresponden al representante legal o persona de confianza del niño, niña o adolescente.
 Artículo reformado DOF 04-06-2013, 09-11-2017, 11-11-2020
@@ -774,24 +1102,41 @@ de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Artículo 118
 . Podrán solicitar el beneficio del retorno asistido, sin perjuicio de lo que al efecto se establezca en los instrumentos interinstitucionales, los extranjeros que se ubiquen en los siguientes supuestos:
-I. Se encuentren irregularmente en el territorio nacional, a disposición del Instituto, y II. No exista restricción legal emitida por autoridad competente para que abandonen el país.
+
+I. Se encuentren irregularmente en el territorio nacional, a disposición del Instituto, y
+
+II. No exista restricción legal emitida por autoridad competente para que abandonen el país.
 En el caso de que el extranjero decida no solicitar el beneficio del retorno asistido, se procederá a su presentación, conforme a lo dispuesto en esta Ley.
 
 ### Artículo 119
 . El retorno asistido de mayores de dieciocho años que se encuentren irregularmente en territorio nacional se llevará a cabo a petición expresa del extranjero y durante el procedimiento se garantizará el pleno respeto de sus derechos humanos. Previo al retorno asistido, el extranjero tendrá derecho a:
+
 I. Ser informado de su derecho a recibir protección de su representación consular y comunicarse con ella. En caso de que el extranjero desee recibir la protección de su representación consular, se le facilitarán los medios para comunicarse con ésta lo antes posible;
+
 II. Recibir información acerca de la posibilidad de permanecer en el país de manera regular, así como del procedimiento de retorno asistido, incluyendo aquella relativa a los recursos jurídicos disponibles;
+
 III. Avisar a sus familiares, representante legal o persona de su confianza, ya sea en territorio nacional o fuera de éste, para tal efecto, se le facilitarán los medios para comunicarse con ésta lo antes posible;
+
 IV. Contar con un traductor o intérprete para facilitar la comunicación, para el caso de que no hable o no entienda el español;
+
 V. Que el procedimiento sea sustanciado por autoridad competente y el derecho a recibir asesoría legal, ofrecer pruebas y alegar lo que a su derecho convenga, así como tener acceso a las constancias del expediente administrativo migratorio;
+
 VI. Que el Instituto se cerciore que el extranjero posee la nacionalidad o residencia regular del país receptor;
-VII. Ser trasladado junto con sus efectos personales, y VIII. Que en el caso de que el extranjero sea rechazado por el país de destino, sea devuelto al territorio de los Estados Unidos Mexicanos para que el Instituto defina su situación migratoria.
+
+VII. Ser trasladado junto con sus efectos personales, y
+
+VIII. Que en el caso de que el extranjero sea rechazado por el país de destino, sea devuelto al territorio de los Estados Unidos Mexicanos para que el Instituto defina su situación migratoria.
 
 ### Artículo 120
 . En el procedimiento de retorno asistido se privilegiarán los principios de preservación de la unidad familiar y de especial atención a personas en situación de vulnerabilidad, procurando que los integrantes de la misma familia viajen juntos.
 En el caso de niñas, niños y adolescentes, mujeres embarazadas, víctimas o testigos de delitos cometidos en territorio nacional, personas con discapacidad y adultos mayores, se aplicará el procedimiento de retorno asistido con la intervención de los funcionarios consulares o migratorios del país receptor. Asimismo, se deberán tomar en consideración:
+
 I. El interés superior de niñas, niños y adolescentes para garantizar su mayor protección;
-Fracción reformada DOF 15-01-2026 II. Su situación de vulnerabilidad para establecer la forma y términos en que serán trasladados a su país de origen, y Fracción reformada DOF 15-01-2026 III. La perspectiva de género y el derecho a una vida libre de violencias.
+Fracción reformada DOF 15-01-2026
+
+II. Su situación de vulnerabilidad para establecer la forma y términos en que serán trasladados a su país de origen, y Fracción reformada DOF 15-01-2026
+
+III. La perspectiva de género y el derecho a una vida libre de violencias.
 Fracción adicionada DOF 15-01-2026 En el caso de niñas, niños y adolescentes y el de víctimas o testigos de delitos cometidos en territorio nacional, no serán deportados y atendiendo a su voluntad o al interés superior para garantizar su mayor protección, podrán sujetarse al procedimiento de retorno asistido o de regularización de su situación migratoria.
 Artículo reformado DOF 11-11-2020
 
@@ -801,11 +1146,18 @@ El retorno asistido y la deportación no podrán realizarse más que al país de
 
 ### Artículo 122
 . En el procedimiento de deportación, los extranjeros tendrán derecho a:
+
 I. Ser notificados del inicio del procedimiento administrativo migratorio;
+
 II. Recibir protección de su representación consular y comunicarse con ésta, excepto en el caso de que hayan solicitado el asilo político o el reconocimiento de la condición de refugiado. En caso de que el extranjero desee recibir la protección de su representación consular, se le facilitarán los medios para comunicarse con ésta lo antes posible;
+
 III. Avisar a sus familiares o persona de confianza, ya sea en territorio nacional o fuera de éste, para tal efecto se le facilitarán los medios para comunicarse con ésta lo antes posible;
+
 IV. Recibir información acerca del procedimiento de deportación, así como del derecho de interponer un recurso efectivo contra las resoluciones del Instituto;
-V. Contar con un traductor o intérprete para facilitar la comunicación, para el caso de que no hable o no entienda el español, y VI. Recibir asesoría legal.
+
+V. Contar con un traductor o intérprete para facilitar la comunicación, para el caso de que no hable o no entienda el español, y
+
+VI. Recibir asesoría legal.
 
 ### Artículo 123
 . En todo caso, el Instituto proporcionará los medios de transporte necesarios para el traslado de los extranjeros al país de origen o de residencia. Asimismo, deberá preverse de ser el caso, el suministro de agua potable y los alimentos necesarios durante el trayecto, conforme a las disposiciones jurídicas aplicables.
@@ -841,29 +1193,49 @@ Si el particular lo requiere, la autoridad emitirá constancia de tal hecho, den
 
 ### Artículo 132
 . Los extranjeros tendrán derecho a solicitar la regularización de su situación migratoria, cuando se encuentren en alguno de los siguientes supuestos:
+
 I. Que carezcan de la documentación necesaria para acreditar su situación migratoria regular;
-II. Que la documentación con la que acrediten su situación migratoria se encuentre vencida, o III. Que hayan dejado de satisfacer los requisitos en virtud de los cuales se les otorgó una determinada condición de estancia.
+
+II. Que la documentación con la que acrediten su situación migratoria se encuentre vencida, o
+
+III. Que hayan dejado de satisfacer los requisitos en virtud de los cuales se les otorgó una determinada condición de estancia.
 
 ### Artículo 133
 . El Instituto podrá regularizar la situación migratoria de los extranjeros que se ubiquen en territorio nacional y manifiesten su interés de residir de forma temporal o permanente en territorio nacional, siempre y cuando cumplan con los requisitos de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables. La regularización se podrá otorgar concediendo al extranjero la condición de estancia que corresponda conforme a esta Ley.
 Con independencia de lo anterior, tienen derecho a la regularización de su situación migratoria los extranjeros que se ubiquen en territorio nacional y se encuentren en alguno de los siguientes supuestos:
+
 I. Acredite ser cónyuge, concubina o concubinario de persona mexicana o de persona extranjera con condición de estancia de residente;
+
 II. Acredite ser padre, madre o hijo, o tener la representación legal o custodia de persona mexicana o extranjera con condición de estancia de residente;
+
 III. Que el extranjero sea identificado por el Instituto o por autoridad competente, como víctima o testigo de algún delito grave cometido en territorio nacional;
-IV. Que se trate de personas cuyo grado de vulnerabilidad dificulte o haga imposible su deportación o retorno asistido, y V. Cuando se trate de niñas, niños y adolescentes que se encuentren sujetos al procedimiento de sustracción y restitución internacional de niños, niñas o adolescentes.
+
+IV. Que se trate de personas cuyo grado de vulnerabilidad dificulte o haga imposible su deportación o retorno asistido, y
+
+V. Cuando se trate de niñas, niños y adolescentes que se encuentren sujetos al procedimiento de sustracción y restitución internacional de niños, niñas o adolescentes.
 
 ### Artículo 134
 . Los extranjeros también podrán solicitar la regularización de su situación migratoria, salvo lo dispuesto en el artículo 43 de esta Ley, cuando:
-I. Habiendo obtenido autorización para internarse de forma regular al país, hayan excedido el período de estancia inicialmente otorgado, siempre y cuando presenten su solicitud dentro de los sesenta días naturales siguientes al vencimiento del período de estancia autorizado, o II. Realicen actividades distintas a las que les permita su condición de estancia.
+
+I. Habiendo obtenido autorización para internarse de forma regular al país, hayan excedido el período de estancia inicialmente otorgado, siempre y cuando presenten su solicitud dentro de los sesenta días naturales siguientes al vencimiento del período de estancia autorizado, o
+
+II. Realicen actividades distintas a las que les permita su condición de estancia.
 Para el efecto anterior, deberán cumplir los requisitos que establecen esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
 ### Artículo 135
 . Para realizar el trámite de regularización de la situación migratoria, el extranjero deberá cumplir con lo siguiente:
+
 I. Presentar ante el Instituto un escrito por el que solicite la regularización de su situación migratoria, especificando la irregularidad en la que incurrió;
+
 II. Presentar documento oficial que acredite su identidad;
+
 III. Para el caso de que tengan vínculo con mexicano o persona extranjera con residencia regular en territorio nacional, deberán exhibir los documentos que así lo acrediten;
+
 IV. Para el supuesto de que se hayan excedido el período de estancia inicialmente otorgado, deberán presentar el documento migratorio vencido;
-V. Acreditar el pago de la multa determinada en esta Ley, y VI. Los previstos en esta Ley y su Reglamento para la condición de estancia que desea adquirir.
+
+V. Acreditar el pago de la multa determinada en esta Ley, y
+
+VI. Los previstos en esta Ley y su Reglamento para la condición de estancia que desea adquirir.
 
 ### Artículo 136
 . El Instituto no podrá presentar al extranjero que acuda ante el mismo a solicitar la regularización de su situación migratoria.
@@ -873,8 +1245,12 @@ El Instituto contará con un término de treinta días naturales, contados a par
 ### Artículo 137
 . El Instituto podrá expedir permisos de salida y regreso por un periodo determinado a los extranjeros que tengan un trámite pendiente de resolución que no haya causado estado.
 El Instituto expedirá una orden de salida del país a los extranjeros, cuando:
+
 I. Se desistan de su trámite migratorio;
-II. El trámite migratorio le sea negado, y III. Así lo solicite el extranjero.
+
+II. El trámite migratorio le sea negado, y
+
+III. Así lo solicite el extranjero.
 En estos casos, el extranjero deberá abandonar el territorio nacional en el plazo concedido por el Instituto y podrá reingresar de forma inmediata, previo cumplimiento de los requisitos que establece esta Ley.
 TÍTULO SÉPTIMO DE LAS SANCIONES
 
@@ -883,10 +1259,16 @@ DISPOSICIONES GENERALES RELATIVAS A LAS SANCIONES
 
 ### Artículo 138
 . El Instituto impondrá las sanciones a que se refiere esta Ley, dentro de los límites señalados para cada infracción, con base en la gravedad de la misma y el grado de responsabilidad del infractor, tomando en cuenta:
+
 I. Las circunstancias socioeconómicas del infractor;
+
 II. Las condiciones exteriores, los antecedentes del infractor y los medios de ejecución;
+
 III. La reincidencia en el incumplimiento de obligaciones;
-IV. El monto del beneficio, lucro o daño o perjuicio derivado del incumplimiento de obligaciones, y V. El nivel jerárquico del infractor y su antigüedad en el servicio, tratándose de autoridades distintas al Instituto.
+
+IV. El monto del beneficio, lucro o daño o perjuicio derivado del incumplimiento de obligaciones, y
+
+V. El nivel jerárquico del infractor y su antigüedad en el servicio, tratándose de autoridades distintas al Instituto.
 
 ### Artículo 139
 . Los ingresos que la Federación obtenga efectivamente de multas por infracción a esta Ley, se destinarán al Instituto para mejorar los servicios que en materia migratoria proporciona.
@@ -896,12 +1278,20 @@ DE LAS CAUSAS PARA SANCIONAR A LOS SERVIDORES PÚBLICOS DEL INSTITUTO
 
 ### Artículo 140
 . Los servidores públicos del Instituto serán sancionados por las siguientes conductas:
+
 I. Sin estar autorizados, den a conocer cualquier información de carácter confidencial o reservado;
+
 II. Dolosamente o por negligencia retrasen el trámite normal de los asuntos migratorios;
+
 III. Por sí o por intermediarios intervengan de cualquier forma en la gestión de los asuntos a que se refiere esta Ley o su Reglamento o patrocinen o aconsejen la manera de evadir las disposiciones o trámites migratorios a los interesados o a sus representantes;
+
 IV. Dolosamente hagan uso indebido o proporcionen a terceras personas documentación migratoria;
+
 V. Faciliten a los extranjeros sujetos al control migratorio los medios para evadir el cumplimiento de esta Ley y su Reglamento;
-VI. Por violación a los derechos humanos de los migrantes, acreditada ante la autoridad competente, y VII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+VI. Por violación a los derechos humanos de los migrantes, acreditada ante la autoridad competente, y
+
+VII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 Se considerará infracción grave y se sancionará con la destitución e inhabilitación, la actualización de las conductas previstas en las fracciones IV y VI del presente artículo, de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas y sin perjuicio de lo previsto en otras disposiciones jurídicas aplicables.
 Párrafo reformado DOF 03-07-2019
 
@@ -921,11 +1311,19 @@ La deportación es la medida dictada por el Instituto mediante la cual se ordena
 
 ### Artículo 144
 . Será deportado del territorio nacional el extranjero presentado que:
+
 I. Se haya internado al país sin la documentación requerida o por un lugar no autorizado para el tránsito internacional de personas;
+
 II. Habiendo sido deportado, se interne nuevamente al territorio nacional sin haber obtenido el Acuerdo de readmisión, aún y cuando haya obtenido una condición de estancia;
+
 III. Se ostente como mexicano ante el Instituto sin serlo;
+
 IV. Cuando derivado de sus antecedentes en México o en el extranjero se comprometa la seguridad nacional o la seguridad pública;
-Fracción reformada DOF 07-01-2021 V. Proporcione información falsa o exhiba ante el Instituto documentación apócrifa, alterada o legítima, pero que haya sido obtenida de manera fraudulenta, y VI. Haya incumplido con una orden de salida de territorio nacional expedida por el Instituto.
+Fracción reformada DOF 07-01-2021
+
+V. Proporcione información falsa o exhiba ante el Instituto documentación apócrifa, alterada o legítima, pero que haya sido obtenida de manera fraudulenta, y
+
+VI. Haya incumplido con una orden de salida de territorio nacional expedida por el Instituto.
 En todos estos casos, el Instituto determinará el período durante el cual el extranjero deportado no deberá reingresar al país, conforme a lo establecido en el Reglamento. Durante dicho periodo, sólo podrá ser readmitido por acuerdo expreso de la Secretaría.
 En el supuesto de que el extranjero, por sus antecedentes en los Estados Unidos Mexicanos o en el extranjero, pudiera comprometer la soberanía nacional, la seguridad nacional o la seguridad pública, la deportación será definitiva.
 
@@ -980,15 +1378,23 @@ TÍTULO OCTAVO DE LOS DELITOS EN MATERIA MIGRATORIA CAPÍTULO ÚNICO DE LOS DELI
 
 ### Artículo 159
 . Se impondrá pena de ocho a dieciséis años de prisión y multa de cinco mil a quince mil días de salario mínimo general vigente en el Distrito Federal, a quien:
+
 I. Con propósito de tráfico lleve a una o más personas a internarse en otro país sin la documentación correspondiente, con objeto de obtener directa o indirectamente un lucro;
-II. Introduzca, sin la documentación correspondiente, a uno o varios extranjeros a territorio mexicano, con objeto de obtener directa o indirectamente un lucro, o III. Albergue o transporte por el territorio nacional, con el objeto de obtener directa o indirectamente un lucro, a uno o varios extranjeros con el fin de evadir la revisión migratoria.
+
+II. Introduzca, sin la documentación correspondiente, a uno o varios extranjeros a territorio mexicano, con objeto de obtener directa o indirectamente un lucro, o
+
+III. Albergue o transporte por el territorio nacional, con el objeto de obtener directa o indirectamente un lucro, a uno o varios extranjeros con el fin de evadir la revisión migratoria.
 Para efectos de la actualización del delito previsto en este artículo, será necesario que quede demostrada la intención del sujeto activo de obtener un beneficio económico en dinero o en especie, cierto, actual o inminente.
 No se impondrá pena a las personas de reconocida solvencia moral, que por razones estrictamente humanitarias y sin buscar beneficio alguno, presten ayuda a la persona que se ha internado en el país de manera irregular, aun cuando reciban donativos o recursos para la continuación de su labor humanitaria.
 
 ### Artículo 160
 . Se aumentarán hasta en una mitad las penas previstas en el artículo anterior, cuando las conductas descritas en el mismo se realicen:
+
 I. Respecto de niñas, niños y adolescentes o cuando se induzca, procure, facilite u obligue a un niño, niña o adolescente o a quien no tenga capacidad para comprender el significado del hecho, a realizar cualquiera de las conductas descritas en el artículo anterior;
-II. En condiciones o por medios que pongan o puedan poner en peligro la salud, la integridad, la seguridad o la vida o den lugar a un trato inhumano o degradante de las personas en quienes recaiga la conducta, o III. Cuando el autor material o intelectual sea servidor público.
+
+II. En condiciones o por medios que pongan o puedan poner en peligro la salud, la integridad, la seguridad o la vida o den lugar a un trato inhumano o degradante de las personas en quienes recaiga la conducta, o
+
+III. Cuando el autor material o intelectual sea servidor público.
 
 ### Artículo 161
 . Al servidor público que auxilie, encubra o induzca a cualquier persona a violar las disposiciones contenidas en la presente Ley, con el objeto de obtener directa o indirectamente un lucro en dinero o en especie, se le impondrá una pena de cuatro a ocho años de prisión y multa de quinientos hasta un mil días de salario mínimo general vigente en el Distrito Federal.
@@ -1005,11 +1411,18 @@ II. En condiciones o por medios que pongan o puedan poner en peligro la salud, l
 **CUARTO.** Las disposiciones administrativas de carácter general en materia migratoria emitidas con anterioridad a la entrada en vigor de la Ley de Migración, continuarán vigentes en todo lo que no se le opongan, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo a la misma.
 **QUINTO.** Las erogaciones que las dependencias y entidades de la Administración Pública Federal, así como la Procuraduría General de la República, deban realizar para dar cumplimiento a las acciones establecidas en la Ley de Migración, se sujetarán a su disponibilidad presupuestaria aprobada para ese fin por la Cámara de Diputados en el Decreto de Presupuesto de Egresos de la Federación.
 **SEXTO.** Para efectos de la aplicación de la Ley de Migración, se deberá tener en cuenta lo siguiente:
+
 I. Los extranjeros que hayan obtenido la calidad migratoria de No inmigrante, dentro de las características de turista, transmigrante, visitante en todas sus modalidades excepto los extranjeros que hayan obtenido la calidad migratoria de No inmigrante dentro de la característica de Visitante Local, otorgada a los nacionales de los países vecinos para su visita a las poblaciones fronterizas de los Estados Unidos Mexicanos, ministro de culto, visitante distinguido, visitante provisional y corresponsal, se equipararán al Visitante sin permiso para realizar actividades remuneradas;
+
 II. Los extranjeros que hayan obtenido la calidad migratoria de No inmigrante dentro de la característica de Visitante Local, otorgada a los nacionales de los países vecinos para su visita a las poblaciones fronterizas de los Estados Unidos Mexicanos, se equipararán al Visitante Regional;
+
 III. Los extranjeros que hayan obtenido la calidad migratoria de No inmigrante, dentro la característica de estudiante, se equipararán al Residente temporal Estudiante;
+
 IV. Los extranjeros que hayan obtenido la calidad migratoria de No inmigrante, dentro las características de asilado político y refugiado, se equipararán al Residente permanente;
-V. Los extranjeros que hayan obtenido la calidad migratoria de Inmigrante, dentro las características de rentista, inversionista, profesional, cargo de confianza, científico, técnico, familiar, artista y deportista o asimilados, se equipararán al Residente temporal, y VI. Los extranjeros que hayan obtenido la calidad migratoria de inmigrado, se equipararán al Residente permanente.
+
+V. Los extranjeros que hayan obtenido la calidad migratoria de Inmigrante, dentro las características de rentista, inversionista, profesional, cargo de confianza, científico, técnico, familiar, artista y deportista o asimilados, se equipararán al Residente temporal, y
+
+VI. Los extranjeros que hayan obtenido la calidad migratoria de inmigrado, se equipararán al Residente permanente.
 **SÉPTIMO.** Las referencias realizadas en la Ley de Migración al auto de vinculación a proceso, quedarán entendidas al término vigente de auto de formal prisión, toda vez que con este Decreto no entra en vigor el artículo 19 constitucional sujeto a la vacancia prevista en el artículo Segundo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
 **OCTAVO.** La Secretaría de Gobernación publicará en el Diario Oficial de la Federación, las reglas relativas al Sistema de Puntos previsto en la Ley de Migración, dentro del término de ciento ochenta días contados a partir de su entrada en vigor.
 **NOVENO.** Los trámites migratorios que se encuentren en proceso o pendientes de resolución a la fecha de entrada en vigor de la Ley de Migración, deberán concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron.
