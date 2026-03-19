@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **18/03/2026** — **54/315** leyes disponibles en Markdown (17%).
+> Última actualización: **18/03/2026** — **64/315** leyes disponibles en Markdown (20%).
 
 ---
 
@@ -60,16 +60,16 @@
 | 051 | LEY de Firma Electrónica Avanzada | DOF 14/11/2025 | [`LFEA_ley_de_firma_electronica_avanzada.md`](markdown/LFEA_ley_de_firma_electronica_avanzada.md) |
 | 052 | LEY de Fiscalización y Rendición de Cuentas de la Federación | DOF 20/05/2021 | [`LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.md`](markdown/LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.md) |
 | 053 | LEY de Fomento a la Confianza Ciudadana | Sin reforma | [`LFCC_ley_de_fomento_a_la_confianza_ciudadana.md`](markdown/LFCC_ley_de_fomento_a_la_confianza_ciudadana.md) |
-| 054 | LEY de Fomento a la Industria Vitivinícola | Sin reforma | — |
-| 055 | LEY de Fomento para la Lectura y el Libro | DOF 29/11/2023 | — |
-| 056 | LEY de Fondos de Aseguramiento Agropecuario y Rural | DOF 14/11/2025 | — |
-| 057 | LEY de Fondos de Inversión (Antes "Ley de Sociedades de Inversión") | DOF 14/11/2025 | — |
-| 058 | LEY de Geotermia | Sin reforma | — |
-| 059 | LEY de Infraestructura de la Calidad | Sin reforma | — |
-| 060 | LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2026 | Sin reforma | — |
-| 061 | LEY de Ingresos sobre Hidrocarburos | DOF 28/12/2025 | — |
-| 062 | LEY de Instituciones de Crédito | DOF 14/11/2025 | — |
-| 063 | LEY de Instituciones de Seguros y de Fianzas | DOF 14/11/2025 | — |
+| 054 | LEY de Fomento a la Industria Vitivinícola | Sin reforma | [`LFIV_ley_de_fomento_a_la_industria_vitivinicola.md`](markdown/LFIV_ley_de_fomento_a_la_industria_vitivinicola.md) |
+| 055 | LEY de Fomento para la Lectura y el Libro | DOF 29/11/2023 | [`LFLL_ley_de_fomento_para_la_lectura_y_el_libro.md`](markdown/LFLL_ley_de_fomento_para_la_lectura_y_el_libro.md) |
+| 056 | LEY de Fondos de Aseguramiento Agropecuario y Rural | DOF 14/11/2025 | [`LFAAR_ley_de_fondos_de_aseguramiento_agropecuario_y_rural.md`](markdown/LFAAR_ley_de_fondos_de_aseguramiento_agropecuario_y_rural.md) |
+| 057 | LEY de Fondos de Inversión (Antes "Ley de Sociedades de Inversión") | DOF 14/11/2025 | [`LFI_ley_de_fondos_de_inversion_antes_ley_de_sociedades_de_inversion.md`](markdown/LFI_ley_de_fondos_de_inversion_antes_ley_de_sociedades_de_inversion.md) |
+| 058 | LEY de Geotermia | Sin reforma | [`LGeo_ley_de_geotermia.md`](markdown/LGeo_ley_de_geotermia.md) |
+| 059 | LEY de Infraestructura de la Calidad | Sin reforma | [`LICal_ley_de_infraestructura_de_la_calidad.md`](markdown/LICal_ley_de_infraestructura_de_la_calidad.md) |
+| 060 | LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2026 | Sin reforma | [`LIF_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026.md`](markdown/LIF_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026.md) |
+| 061 | LEY de Ingresos sobre Hidrocarburos | DOF 28/12/2025 | [`LIH_ley_de_ingresos_sobre_hidrocarburos.md`](markdown/LIH_ley_de_ingresos_sobre_hidrocarburos.md) |
+| 062 | LEY de Instituciones de Crédito | DOF 14/11/2025 | [`LIC_ley_de_instituciones_de_credito.md`](markdown/LIC_ley_de_instituciones_de_credito.md) |
+| 063 | LEY de Instituciones de Seguros y de Fianzas | DOF 14/11/2025 | [`LISF_ley_de_instituciones_de_seguros_y_de_fianzas.md`](markdown/LISF_ley_de_instituciones_de_seguros_y_de_fianzas.md) |
 | 064 | LEY de Inversión Extranjera | DOF 27/05/2024 | — |
 | 065 | LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | DOF 11/05/2022 | — |
 | 066 | LEY de la Casa de Moneda de México | DOF 11/05/2022 | — |
@@ -393,16 +393,16 @@ python scripts/gen_indice.py
 | 051 | LEY de Firma Electrónica Avanzada | DOF 14/11/2025 | [`LFEA_ley_de_firma_electronica_avanzada.md`](markdown/LFEA_ley_de_firma_electronica_avanzada.md) |
 | 052 | LEY de Fiscalización y Rendición de Cuentas de la Federación | DOF 20/05/2021 | [`LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.md`](markdown/LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.md) |
 | 053 | LEY de Fomento a la Confianza Ciudadana | Sin reforma | [`LFCC_ley_de_fomento_a_la_confianza_ciudadana.md`](markdown/LFCC_ley_de_fomento_a_la_confianza_ciudadana.md) |
-| 054 | LEY de Fomento a la Industria Vitivinícola | Sin reforma | — |
-| 055 | LEY de Fomento para la Lectura y el Libro | DOF 29/11/2023 | — |
-| 056 | LEY de Fondos de Aseguramiento Agropecuario y Rural | DOF 14/11/2025 | — |
-| 057 | LEY de Fondos de Inversión (Antes "Ley de Sociedades de Inversión") | DOF 14/11/2025 | — |
-| 058 | LEY de Geotermia | Sin reforma | — |
-| 059 | LEY de Infraestructura de la Calidad | Sin reforma | — |
-| 060 | LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2026 | Sin reforma | — |
-| 061 | LEY de Ingresos sobre Hidrocarburos | DOF 28/12/2025 | — |
-| 062 | LEY de Instituciones de Crédito | DOF 14/11/2025 | — |
-| 063 | LEY de Instituciones de Seguros y de Fianzas | DOF 14/11/2025 | — |
+| 054 | LEY de Fomento a la Industria Vitivinícola | Sin reforma | [`LFIV_ley_de_fomento_a_la_industria_vitivinicola.md`](markdown/LFIV_ley_de_fomento_a_la_industria_vitivinicola.md) |
+| 055 | LEY de Fomento para la Lectura y el Libro | DOF 29/11/2023 | [`LFLL_ley_de_fomento_para_la_lectura_y_el_libro.md`](markdown/LFLL_ley_de_fomento_para_la_lectura_y_el_libro.md) |
+| 056 | LEY de Fondos de Aseguramiento Agropecuario y Rural | DOF 14/11/2025 | [`LFAAR_ley_de_fondos_de_aseguramiento_agropecuario_y_rural.md`](markdown/LFAAR_ley_de_fondos_de_aseguramiento_agropecuario_y_rural.md) |
+| 057 | LEY de Fondos de Inversión (Antes "Ley de Sociedades de Inversión") | DOF 14/11/2025 | [`LFI_ley_de_fondos_de_inversion_antes_ley_de_sociedades_de_inversion.md`](markdown/LFI_ley_de_fondos_de_inversion_antes_ley_de_sociedades_de_inversion.md) |
+| 058 | LEY de Geotermia | Sin reforma | [`LGeo_ley_de_geotermia.md`](markdown/LGeo_ley_de_geotermia.md) |
+| 059 | LEY de Infraestructura de la Calidad | Sin reforma | [`LICal_ley_de_infraestructura_de_la_calidad.md`](markdown/LICal_ley_de_infraestructura_de_la_calidad.md) |
+| 060 | LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2026 | Sin reforma | [`LIF_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026.md`](markdown/LIF_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026.md) |
+| 061 | LEY de Ingresos sobre Hidrocarburos | DOF 28/12/2025 | [`LIH_ley_de_ingresos_sobre_hidrocarburos.md`](markdown/LIH_ley_de_ingresos_sobre_hidrocarburos.md) |
+| 062 | LEY de Instituciones de Crédito | DOF 14/11/2025 | [`LIC_ley_de_instituciones_de_credito.md`](markdown/LIC_ley_de_instituciones_de_credito.md) |
+| 063 | LEY de Instituciones de Seguros y de Fianzas | DOF 14/11/2025 | [`LISF_ley_de_instituciones_de_seguros_y_de_fianzas.md`](markdown/LISF_ley_de_instituciones_de_seguros_y_de_fianzas.md) |
 | 064 | LEY de Inversión Extranjera | DOF 27/05/2024 | — |
 | 065 | LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | DOF 11/05/2022 | — |
 | 066 | LEY de la Casa de Moneda de México | DOF 11/05/2022 | — |

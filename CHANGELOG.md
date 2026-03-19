@@ -2,6 +2,24 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Lote 6 — Leyes 054-063] — 2026-03-18
+
+### Leyes publicadas (10)
+| No. | Clave | Ley |
+|-----|-------|-----|
+| 054 | LFIV | Ley de Fomento a la Industria Vitivinícola |
+| 055 | LFLL | Ley de Fomento para la Lectura y el Libro |
+| 056 | LFAAR | Ley de Fondos de Aseguramiento Agropecuario y Rural |
+| 057 | LFI | Ley de Fondos de Inversión |
+| 058 | LGeo | Ley de Geotermia |
+| 059 | LICal | Ley de Infraestructura de la Calidad |
+| 060 | LIF | Ley de Ingresos de la Federación para el Ejercicio Fiscal 2026 |
+| 061 | LIH | Ley de Ingresos sobre Hidrocarburos |
+| 062 | LIC | Ley de Instituciones de Crédito |
+| 063 | LISF | Ley de Instituciones de Seguros y de Fianzas |
+
+---
+
 ## [Lote 5 — Leyes 044-053] — 2026-03-18
 
 ### Leyes publicadas (10)
