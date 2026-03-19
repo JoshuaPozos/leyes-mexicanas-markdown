@@ -1,0 +1,2837 @@
+[
+  {
+    "numero": "001",
+    "nombre": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
+    "dof": "DOF05/02/1917 Nueva reforma",
+    "ultima_reforma": "DOF 03/03/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+    "pdf_filename": "CPEUM.pdf",
+    "slug": "CPEUM"
+  },
+  {
+    "numero": "002",
+    "nombre": "CÓDIGO Civil Federal",
+    "dof": "DOF26/05/1928",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
+    "pdf_filename": "CCF.pdf",
+    "slug": "CCF"
+  },
+  {
+    "numero": "003",
+    "nombre": "CÓDIGO de Comercio",
+    "dof": "DOF07/10/1889",
+    "ultima_reforma": "DOF 26/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf",
+    "pdf_filename": "CCom.pdf",
+    "slug": "CCom"
+  },
+  {
+    "numero": "004",
+    "nombre": "CÓDIGO de Justicia Militar",
+    "dof": "DOF31/08/1933",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf",
+    "pdf_filename": "CJM.pdf",
+    "slug": "CJM"
+  },
+  {
+    "numero": "005",
+    "nombre": "CÓDIGO Federal de Procedimientos Civiles",
+    "dof": "DOF24/02/1943",
+    "ultima_reforma": "Notificación 17/06/2025 Sentencia SCJN",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf",
+    "pdf_filename": "CFPC.pdf",
+    "slug": "CFPC"
+  },
+  {
+    "numero": "006",
+    "nombre": "CÓDIGO Fiscal de la Federación",
+    "dof": "DOF31/12/1981",
+    "ultima_reforma": "DOF 28/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
+    "pdf_filename": "CFF.pdf",
+    "slug": "CFF"
+  },
+  {
+    "numero": "007",
+    "nombre": "CÓDIGO Militar de Procedimientos Penales",
+    "dof": "DOF16/05/2016",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf",
+    "pdf_filename": "CMPP.pdf",
+    "slug": "CMPP"
+  },
+  {
+    "numero": "008",
+    "nombre": "CÓDIGO Nacional de Procedimientos Civiles y Familiares",
+    "dof": "DOF07/06/2023",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf",
+    "pdf_filename": "CNPCF.pdf",
+    "slug": "CNPCF"
+  },
+  {
+    "numero": "009",
+    "nombre": "CÓDIGO Nacional de Procedimientos Penales",
+    "dof": "DOF05/03/2014",
+    "ultima_reforma": "DOF 28/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf",
+    "pdf_filename": "CNPP.pdf",
+    "slug": "CNPP"
+  },
+  {
+    "numero": "010",
+    "nombre": "CÓDIGO Penal Federal",
+    "dof": "DOF14/08/1931",
+    "ultima_reforma": "DOF 28/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
+    "pdf_filename": "CPF.pdf",
+    "slug": "CPF"
+  },
+  {
+    "numero": "011",
+    "nombre": "ESTATUTO de Gobierno del Distrito Federal",
+    "dof": "DOF26/07/1994",
+    "ultima_reforma": "DOF 27/06/2014",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/10_270614.pdf",
+    "pdf_filename": "10_270614.pdf",
+    "slug": "10_270614"
+  },
+  {
+    "numero": "012",
+    "nombre": "IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
+    "dof": "DOF31/12/1968",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+    "pdf_filename": "79.pdf",
+    "slug": "79"
+  },
+  {
+    "numero": "013",
+    "nombre": "LEY Aduanera",
+    "dof": "DOF15/12/1995",
+    "ultima_reforma": "DOF 27/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf",
+    "pdf_filename": "LAdua.pdf",
+    "slug": "LAdua"
+  },
+  {
+    "numero": "014",
+    "nombre": "LEY Agraria",
+    "dof": "DOF26/02/1992",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf",
+    "pdf_filename": "LAgra.pdf",
+    "slug": "LAgra"
+  },
+  {
+    "numero": "015",
+    "nombre": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+    "dof": "DOF16/04/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf",
+    "pdf_filename": "LAASSP.pdf",
+    "slug": "LAASSP"
+  },
+  {
+    "numero": "016",
+    "nombre": "LEY de Aeropuertos",
+    "dof": "DOF22/12/1995",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf",
+    "pdf_filename": "LAero.pdf",
+    "slug": "LAero"
+  },
+  {
+    "numero": "017",
+    "nombre": "LEY de Aguas Nacionales",
+    "dof": "DOF01/12/1992",
+    "ultima_reforma": "DOF 11/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf",
+    "pdf_filename": "LAN.pdf",
+    "slug": "LAN"
+  },
+  {
+    "numero": "018",
+    "nombre": "LEY de Ahorro y Crédito Popular",
+    "dof": "DOF04/06/2001",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf",
+    "pdf_filename": "LACP.pdf",
+    "slug": "LACP"
+  },
+  {
+    "numero": "019",
+    "nombre": "LEY de Amnistía",
+    "dof": "DOF22/04/2020",
+    "ultima_reforma": "DOF 14/06/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmn.pdf",
+    "pdf_filename": "LAmn.pdf",
+    "slug": "LAmn"
+  },
+  {
+    "numero": "020",
+    "nombre": "LEY de Amnistía",
+    "dof": "DOF22/01/1994",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf",
+    "pdf_filename": "19.pdf",
+    "slug": "19"
+  },
+  {
+    "numero": "021",
+    "nombre": "LEY de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
+    "dof": "DOF02/04/2013",
+    "ultima_reforma": "DOF 16/10/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf",
+    "pdf_filename": "LAmp.pdf",
+    "slug": "LAmp"
+  },
+  {
+    "numero": "022",
+    "nombre": "LEY de Ascensos de la Armada de México",
+    "dof": "DOF25/06/2004",
+    "ultima_reforma": "DOF 17/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAM.pdf",
+    "pdf_filename": "LAAM.pdf",
+    "slug": "LAAM"
+  },
+  {
+    "numero": "023",
+    "nombre": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional (Antes \"Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos\")",
+    "dof": "DOF30/10/2003",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf",
+    "pdf_filename": "LAREFAGN.pdf",
+    "slug": "LAREFAGN"
+  },
+  {
+    "numero": "024",
+    "nombre": "LEY de Asistencia Social",
+    "dof": "DOF02/09/2004",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf",
+    "pdf_filename": "LASoc.pdf",
+    "slug": "LASoc"
+  },
+  {
+    "numero": "025",
+    "nombre": "LEY de Asociaciones Público Privadas",
+    "dof": "DOF16/01/2012",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf",
+    "pdf_filename": "LAPP.pdf",
+    "slug": "LAPP"
+  },
+  {
+    "numero": "026",
+    "nombre": "LEY de Asociaciones Religiosas y Culto Público",
+    "dof": "DOF15/07/1992",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LARCP.pdf",
+    "pdf_filename": "LARCP.pdf",
+    "slug": "LARCP"
+  },
+  {
+    "numero": "027",
+    "nombre": "LEY de Aviación Civil",
+    "dof": "DOF12/05/1995",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf",
+    "pdf_filename": "LAC.pdf",
+    "slug": "LAC"
+  },
+  {
+    "numero": "028",
+    "nombre": "LEY de Ayuda Alimentaria para los Trabajadores",
+    "dof": "DOF17/01/2011",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf",
+    "pdf_filename": "LAAT.pdf",
+    "slug": "LAAT"
+  },
+  {
+    "numero": "029",
+    "nombre": "LEY de Biocombustibles",
+    "dof": "DOF18/03/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf",
+    "pdf_filename": "LBio.pdf",
+    "slug": "LBio"
+  },
+  {
+    "numero": "030",
+    "nombre": "LEY de Bioseguridad de Organismos Genéticamente Modificados",
+    "dof": "DOF18/03/2005",
+    "ultima_reforma": "DOF 11/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBOGM.pdf",
+    "pdf_filename": "LBOGM.pdf",
+    "slug": "LBOGM"
+  },
+  {
+    "numero": "031",
+    "nombre": "LEY de Cámaras Empresariales y sus Confederaciones",
+    "dof": "DOF20/01/2005",
+    "ultima_reforma": "DOF 12/04/2019",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf",
+    "pdf_filename": "LCEC_120419.pdf",
+    "slug": "LCEC_120419"
+  },
+  {
+    "numero": "032",
+    "nombre": "LEY de Caminos, Puentes y Autotransporte Federal",
+    "dof": "DOF22/12/1993",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPAF.pdf",
+    "pdf_filename": "LCPAF.pdf",
+    "slug": "LCPAF"
+  },
+  {
+    "numero": "033",
+    "nombre": "LEY de Capitalización del Procampo",
+    "dof": "DOF31/12/2001",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf",
+    "pdf_filename": "238.pdf",
+    "slug": "238"
+  },
+  {
+    "numero": "034",
+    "nombre": "LEY de Carrera Judicial del Poder Judicial de la Federación",
+    "dof": "DOF02/01/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf",
+    "pdf_filename": "LCJPJF.pdf",
+    "slug": "LCJPJF"
+  },
+  {
+    "numero": "035",
+    "nombre": "LEY de Comercio Exterior",
+    "dof": "DOF27/07/1993",
+    "ultima_reforma": "DOF 21/12/2006",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/28.pdf",
+    "pdf_filename": "28.pdf",
+    "slug": "28"
+  },
+  {
+    "numero": "036",
+    "nombre": "LEY de Concursos Mercantiles",
+    "dof": "DOF12/05/2000",
+    "ultima_reforma": "DOF 16/01/2026 Sentencia SCJN",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf",
+    "pdf_filename": "LCM.pdf",
+    "slug": "LCM"
+  },
+  {
+    "numero": "037",
+    "nombre": "LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
+    "dof": "DOF26/12/1990",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+    "pdf_filename": "30.pdf",
+    "slug": "30"
+  },
+  {
+    "numero": "038",
+    "nombre": "LEY de Cooperación Internacional para el Desarrollo",
+    "dof": "DOF06/04/2011",
+    "ultima_reforma": "DOF 06/11/2020",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf",
+    "pdf_filename": "LCID_061120.pdf",
+    "slug": "LCID_061120"
+  },
+  {
+    "numero": "039",
+    "nombre": "LEY de Coordinación Fiscal",
+    "dof": "DOF27/12/1978",
+    "ultima_reforma": "DOF 03/01/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf",
+    "pdf_filename": "LCF.pdf",
+    "slug": "LCF"
+  },
+  {
+    "numero": "040",
+    "nombre": "LEY de Desarrollo Rural Sustentable",
+    "dof": "DOF07/12/2001",
+    "ultima_reforma": "DOF 07/06/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf",
+    "pdf_filename": "LDRS.pdf",
+    "slug": "LDRS"
+  },
+  {
+    "numero": "041",
+    "nombre": "LEY de Desarrollo Sustentable de la Cafeticultura",
+    "dof": "DOF19/12/2025 Ley en vigor el 17/06/2026",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSC.pdf",
+    "pdf_filename": "LDSC.pdf",
+    "slug": "LDSC"
+  },
+  {
+    "numero": "042",
+    "nombre": "LEY de Desarrollo Sustentable de la Caña de Azúcar",
+    "dof": "DOF22/08/2005",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf",
+    "pdf_filename": "LDSCA.pdf",
+    "slug": "LDSCA"
+  },
+  {
+    "numero": "043",
+    "nombre": "LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional (Antes \"Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos\")",
+    "dof": "DOF15/03/1926",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
+    "pdf_filename": "LDEFAGN.pdf",
+    "slug": "LDEFAGN"
+  },
+  {
+    "numero": "044",
+    "nombre": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+    "dof": "DOF27/04/2016",
+    "ultima_reforma": "DOF 10/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf",
+    "pdf_filename": "LDFEFM.pdf",
+    "slug": "LDFEFM"
+  },
+  {
+    "numero": "045",
+    "nombre": "LEY de Disciplina para el Personal de la Armada de México",
+    "dof": "DOF13/12/2002",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf",
+    "pdf_filename": "252.pdf",
+    "slug": "252"
+  },
+  {
+    "numero": "046",
+    "nombre": "LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional (Antes \"Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos\")",
+    "dof": "DOF23/12/2005",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf",
+    "pdf_filename": "LEMEFAGN.pdf",
+    "slug": "LEMEFAGN"
+  },
+  {
+    "numero": "047",
+    "nombre": "LEY de Educación Naval",
+    "dof": "DOF12/03/2019",
+    "ultima_reforma": "DOF 24/03/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf",
+    "pdf_filename": "LEN.pdf",
+    "slug": "LEN"
+  },
+  {
+    "numero": "048",
+    "nombre": "LEY de Energía para el Campo",
+    "dof": "DOF30/12/2002",
+    "ultima_reforma": "DOF 28/12/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf",
+    "pdf_filename": "246.pdf",
+    "slug": "246"
+  },
+  {
+    "numero": "049",
+    "nombre": "LEY de Expropiación",
+    "dof": "DOF25/11/1936",
+    "ultima_reforma": "DOF 27/01/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf",
+    "pdf_filename": "35.pdf",
+    "slug": "35"
+  },
+  {
+    "numero": "050",
+    "nombre": "LEY de Extradición Internacional",
+    "dof": "DOF29/12/1975",
+    "ultima_reforma": "DOF 20/05/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf",
+    "pdf_filename": "36_200521.pdf",
+    "slug": "36_200521"
+  },
+  {
+    "numero": "051",
+    "nombre": "LEY de Firma Electrónica Avanzada",
+    "dof": "DOF11/01/2012",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf",
+    "pdf_filename": "LFEA.pdf",
+    "slug": "LFEA"
+  },
+  {
+    "numero": "052",
+    "nombre": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+    "dof": "DOF18/07/2016",
+    "ultima_reforma": "DOF 20/05/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF_200521.pdf",
+    "pdf_filename": "LFRCF_200521.pdf",
+    "slug": "LFRCF_200521"
+  },
+  {
+    "numero": "053",
+    "nombre": "LEY de Fomento a la Confianza Ciudadana",
+    "dof": "DOF20/01/2020",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf",
+    "pdf_filename": "LFCC_200120.pdf",
+    "slug": "LFCC_200120"
+  },
+  {
+    "numero": "054",
+    "nombre": "LEY de Fomento a la Industria Vitivinícola",
+    "dof": "DOF23/05/2018",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf",
+    "pdf_filename": "LFIV_230518.pdf",
+    "slug": "LFIV_230518"
+  },
+  {
+    "numero": "055",
+    "nombre": "LEY de Fomento para la Lectura y el Libro",
+    "dof": "DOF24/07/2008",
+    "ultima_reforma": "DOF 29/11/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf",
+    "pdf_filename": "LFLL.pdf",
+    "slug": "LFLL"
+  },
+  {
+    "numero": "056",
+    "nombre": "LEY de Fondos de Aseguramiento Agropecuario y Rural",
+    "dof": "DOF13/05/2005",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf",
+    "pdf_filename": "LFAAR.pdf",
+    "slug": "LFAAR"
+  },
+  {
+    "numero": "057",
+    "nombre": "LEY de Fondos de Inversión (Antes \"Ley de Sociedades de Inversión\")",
+    "dof": "DOF04/06/2001",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf",
+    "pdf_filename": "LFI.pdf",
+    "slug": "LFI"
+  },
+  {
+    "numero": "058",
+    "nombre": "LEY de Geotermia",
+    "dof": "DOF18/03/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf",
+    "pdf_filename": "LGeo.pdf",
+    "slug": "LGeo"
+  },
+  {
+    "numero": "059",
+    "nombre": "LEY de Infraestructura de la Calidad",
+    "dof": "DOF01/07/2020",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf",
+    "pdf_filename": "LICal_010720.pdf",
+    "slug": "LICal_010720"
+  },
+  {
+    "numero": "060",
+    "nombre": "LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2026",
+    "dof": "DOF07/11/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
+    "pdf_filename": "LIF_2026.pdf",
+    "slug": "LIF_2026"
+  },
+  {
+    "numero": "061",
+    "nombre": "LEY de Ingresos sobre Hidrocarburos",
+    "dof": "DOF11/08/2014",
+    "ultima_reforma": "DOF 28/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf",
+    "pdf_filename": "LIH.pdf",
+    "slug": "LIH"
+  },
+  {
+    "numero": "062",
+    "nombre": "LEY de Instituciones de Crédito",
+    "dof": "DOF18/07/1990",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
+    "pdf_filename": "LIC.pdf",
+    "slug": "LIC"
+  },
+  {
+    "numero": "063",
+    "nombre": "LEY de Instituciones de Seguros y de Fianzas",
+    "dof": "DOF04/04/2013",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf",
+    "pdf_filename": "LISF.pdf",
+    "slug": "LISF"
+  },
+  {
+    "numero": "064",
+    "nombre": "LEY de Inversión Extranjera",
+    "dof": "DOF27/12/1993",
+    "ultima_reforma": "DOF 27/05/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
+    "pdf_filename": "LIE.pdf",
+    "slug": "LIE"
+  },
+  {
+    "numero": "065",
+    "nombre": "LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+    "dof": "DOF11/08/2014",
+    "ultima_reforma": "DOF 11/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf",
+    "pdf_filename": "LANSI.pdf",
+    "slug": "LANSI"
+  },
+  {
+    "numero": "066",
+    "nombre": "LEY de la Casa de Moneda de México",
+    "dof": "DOF20/01/1986",
+    "ultima_reforma": "DOF 11/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf",
+    "pdf_filename": "LCMM.pdf",
+    "slug": "LCMM"
+  },
+  {
+    "numero": "067",
+    "nombre": "LEY de la Comisión Nacional Bancaria y de Valores",
+    "dof": "DOF28/04/1995",
+    "ultima_reforma": "DOF 11/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+    "pdf_filename": "LCNBV.pdf",
+    "slug": "LCNBV"
+  },
+  {
+    "numero": "068",
+    "nombre": "LEY de la Comisión Nacional de Energía",
+    "dof": "DOF18/03/2025",
+    "ultima_reforma": "DOF 26/12/2025 Sentencia SCJN",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf",
+    "pdf_filename": "LCNE.pdf",
+    "slug": "LCNE"
+  },
+  {
+    "numero": "069",
+    "nombre": "LEY de la Comisión Nacional de los Derechos Humanos",
+    "dof": "DOF29/06/1992",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf",
+    "pdf_filename": "LCNDH.pdf",
+    "slug": "LCNDH"
+  },
+  {
+    "numero": "070",
+    "nombre": "LEY de la Economía Social y Solidaria (Antes \"Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía\")",
+    "dof": "DOF23/05/2012",
+    "ultima_reforma": "DOF 16/04/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf",
+    "pdf_filename": "LESS.pdf",
+    "slug": "LESS"
+  },
+  {
+    "numero": "071",
+    "nombre": "LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad",
+    "dof": "DOF18/03/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf",
+    "pdf_filename": "LEPECFE.pdf",
+    "slug": "LEPECFE"
+  },
+  {
+    "numero": "072",
+    "nombre": "LEY de la Empresa Pública del Estado, Petróleos Mexicanos",
+    "dof": "DOF18/03/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf",
+    "pdf_filename": "LEPEPM.pdf",
+    "slug": "LEPEPM"
+  },
+  {
+    "numero": "073",
+    "nombre": "LEY de la Fiscalía General de la República",
+    "dof": "DOF20/05/2021",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf",
+    "pdf_filename": "LFGR.pdf",
+    "slug": "LFGR"
+  },
+  {
+    "numero": "074",
+    "nombre": "LEY de la Guardia Nacional",
+    "dof": "DOF16/07/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf",
+    "pdf_filename": "LGN.pdf",
+    "slug": "LGN"
+  },
+  {
+    "numero": "075",
+    "nombre": "LEY de la Policía Federal",
+    "dof": "DOF01/06/2009",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf",
+    "pdf_filename": "LPF.pdf",
+    "slug": "LPF"
+  },
+  {
+    "numero": "076",
+    "nombre": "LEY de los Derechos de las Personas Adultas Mayores",
+    "dof": "DOF25/06/2002",
+    "ultima_reforma": "DOF 14/06/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf",
+    "pdf_filename": "LDPAM.pdf",
+    "slug": "LDPAM"
+  },
+  {
+    "numero": "077",
+    "nombre": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+    "dof": "DOF28/10/2022",
+    "ultima_reforma": "DOF 29/11/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
+    "pdf_filename": "LHHEUM.pdf",
+    "slug": "LHHEUM"
+  },
+  {
+    "numero": "078",
+    "nombre": "LEY de los Impuestos Generales de Importación y de Exportación",
+    "dof": "DOF07/06/2022",
+    "ultima_reforma": "DOF 31/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
+    "pdf_filename": "LIGIE_2022.pdf",
+    "slug": "LIGIE_2022"
+  },
+  {
+    "numero": "079",
+    "nombre": "LEY de los Institutos Nacionales de Salud",
+    "dof": "DOF26/05/2000",
+    "ultima_reforma": "DOF 11/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf",
+    "pdf_filename": "LINS.pdf",
+    "slug": "LINS"
+  },
+  {
+    "numero": "080",
+    "nombre": "LEY de los Sistemas de Ahorro para el Retiro",
+    "dof": "DOF23/05/1996",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf",
+    "pdf_filename": "LSAR.pdf",
+    "slug": "LSAR"
+  },
+  {
+    "numero": "081",
+    "nombre": "LEY de Migración",
+    "dof": "DOF25/05/2011",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf",
+    "pdf_filename": "LMigra.pdf",
+    "slug": "LMigra"
+  },
+  {
+    "numero": "082",
+    "nombre": "LEY de Minería (Antes \"Ley Minera\")",
+    "dof": "DOF26/06/1992",
+    "ultima_reforma": "DOF 08/05/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf",
+    "pdf_filename": "LMin.pdf",
+    "slug": "LMin"
+  },
+  {
+    "numero": "083",
+    "nombre": "LEY de Nacionalidad",
+    "dof": "DOF23/01/1998",
+    "ultima_reforma": "DOF 23/04/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf",
+    "pdf_filename": "53.pdf",
+    "slug": "53"
+  },
+  {
+    "numero": "084",
+    "nombre": "LEY de Navegación y Comercio Marítimos",
+    "dof": "DOF01/06/2006",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf",
+    "pdf_filename": "LNCM.pdf",
+    "slug": "LNCM"
+  },
+  {
+    "numero": "085",
+    "nombre": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+    "dof": "DOF04/01/2000",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf",
+    "pdf_filename": "LOPSRM.pdf",
+    "slug": "LOPSRM"
+  },
+  {
+    "numero": "086",
+    "nombre": "LEY de Organizaciones Ganaderas",
+    "dof": "DOF06/01/1999",
+    "ultima_reforma": "DOF 09/04/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf",
+    "pdf_filename": "57.pdf",
+    "slug": "57"
+  },
+  {
+    "numero": "087",
+    "nombre": "LEY de Planeación",
+    "dof": "DOF05/01/1983",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf",
+    "pdf_filename": "LPlan.pdf",
+    "slug": "LPlan"
+  },
+  {
+    "numero": "088",
+    "nombre": "LEY de Planeación y Transición Energética",
+    "dof": "DOF18/03/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf",
+    "pdf_filename": "LPTE.pdf",
+    "slug": "LPTE"
+  },
+  {
+    "numero": "089",
+    "nombre": "LEY de Premios, Estímulos y Recompensas Civiles",
+    "dof": "DOF31/12/1975",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf",
+    "pdf_filename": "LPERC.pdf",
+    "slug": "LPERC"
+  },
+  {
+    "numero": "090",
+    "nombre": "LEY de Productos Orgánicos",
+    "dof": "DOF07/02/2006",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf",
+    "pdf_filename": "LPO.pdf",
+    "slug": "LPO"
+  },
+  {
+    "numero": "091",
+    "nombre": "LEY de Protección al Ahorro Bancario",
+    "dof": "DOF19/01/1999",
+    "ultima_reforma": "DOF 11/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPAB.pdf",
+    "pdf_filename": "LPAB.pdf",
+    "slug": "LPAB"
+  },
+  {
+    "numero": "092",
+    "nombre": "LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
+    "dof": "DOF23/10/1996",
+    "ultima_reforma": "DOF 09/04/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf",
+    "pdf_filename": "63.pdf",
+    "slug": "63"
+  },
+  {
+    "numero": "093",
+    "nombre": "LEY de Protección del Espacio Aéreo Mexicano",
+    "dof": "DOF01/03/2023",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf",
+    "pdf_filename": "LPEAM.pdf",
+    "slug": "LPEAM"
+  },
+  {
+    "numero": "094",
+    "nombre": "LEY de Protección y Defensa al Usuario de Servicios Financieros",
+    "dof": "DOF18/01/1999",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPDUSF.pdf",
+    "pdf_filename": "LPDUSF.pdf",
+    "slug": "LPDUSF"
+  },
+  {
+    "numero": "095",
+    "nombre": "LEY de Puertos",
+    "dof": "DOF19/07/1993",
+    "ultima_reforma": "DOF 07/12/2020",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf",
+    "pdf_filename": "65_071220.pdf",
+    "slug": "65_071220"
+  },
+  {
+    "numero": "096",
+    "nombre": "LEY de Recompensas de la Armada de México",
+    "dof": "DOF14/01/1985",
+    "ultima_reforma": "DOF 22/11/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf",
+    "pdf_filename": "LRAM.pdf",
+    "slug": "LRAM"
+  },
+  {
+    "numero": "097",
+    "nombre": "LEY de Responsabilidad Civil por Daños Nucleares",
+    "dof": "DOF31/12/1974",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRCDN.pdf",
+    "pdf_filename": "LRCDN.pdf",
+    "slug": "LRCDN"
+  },
+  {
+    "numero": "098",
+    "nombre": "LEY de Seguridad Interior",
+    "dof": "DOF21/12/2017",
+    "ultima_reforma": "DOF 30/05/2019 Sentencia SCJN",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf",
+    "pdf_filename": "LSInt_300519.pdf",
+    "slug": "LSInt_300519"
+  },
+  {
+    "numero": "099",
+    "nombre": "LEY de Seguridad Nacional",
+    "dof": "DOF31/01/2005",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf",
+    "pdf_filename": "LSN.pdf",
+    "slug": "LSN"
+  },
+  {
+    "numero": "100",
+    "nombre": "LEY de Sistemas de Pagos",
+    "dof": "DOF12/12/2002",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf",
+    "pdf_filename": "LSP.pdf",
+    "slug": "LSP"
+  },
+  {
+    "numero": "101",
+    "nombre": "LEY de Sociedades de Responsabilidad Limitada de Interés Público",
+    "dof": "DOF31/08/1934",
+    "ultima_reforma": "DOF 09/04/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf",
+    "pdf_filename": "70.pdf",
+    "slug": "70"
+  },
+  {
+    "numero": "102",
+    "nombre": "LEY de Sociedades de Solidaridad Social",
+    "dof": "DOF27/05/1976",
+    "ultima_reforma": "DOF 24/04/2018",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf",
+    "pdf_filename": "71_240418.pdf",
+    "slug": "71_240418"
+  },
+  {
+    "numero": "103",
+    "nombre": "LEY de Tesorería de la Federación",
+    "dof": "DOF30/12/2015",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf",
+    "pdf_filename": "LTF.pdf",
+    "slug": "LTF"
+  },
+  {
+    "numero": "104",
+    "nombre": "LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado",
+    "dof": "DOF30/12/2002",
+    "ultima_reforma": "DOF 10/01/2014",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf",
+    "pdf_filename": "256.pdf",
+    "slug": "256"
+  },
+  {
+    "numero": "105",
+    "nombre": "LEY de Uniones de Crédito",
+    "dof": "DOF20/08/2008",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf",
+    "pdf_filename": "LUC.pdf",
+    "slug": "LUC"
+  },
+  {
+    "numero": "106",
+    "nombre": "LEY de Vertimientos en las Zonas Marinas Mexicanas",
+    "dof": "DOF17/01/2014",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf",
+    "pdf_filename": "LVZMM.pdf",
+    "slug": "LVZMM"
+  },
+  {
+    "numero": "107",
+    "nombre": "LEY de Vías Generales de Comunicación",
+    "dof": "DOF19/02/1940",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf",
+    "pdf_filename": "LVGC.pdf",
+    "slug": "LVGC"
+  },
+  {
+    "numero": "108",
+    "nombre": "LEY de Vivienda",
+    "dof": "DOF27/06/2006",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf",
+    "pdf_filename": "LViv.pdf",
+    "slug": "LViv"
+  },
+  {
+    "numero": "109",
+    "nombre": "LEY del Banco de México",
+    "dof": "DOF23/12/1993",
+    "ultima_reforma": "DOF 10/01/2014",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf",
+    "pdf_filename": "74.pdf",
+    "slug": "74"
+  },
+  {
+    "numero": "110",
+    "nombre": "LEY del Diario Oficial de la Federación y Gacetas Gubernamentales",
+    "dof": "DOF24/12/1986",
+    "ultima_reforma": "DOF 10/06/2019",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf",
+    "pdf_filename": "75_100619.pdf",
+    "slug": "75_100619"
+  },
+  {
+    "numero": "111",
+    "nombre": "LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
+    "dof": "DOF11/08/2014",
+    "ultima_reforma": "DOF 18/03/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf",
+    "pdf_filename": "LFMPED.pdf",
+    "slug": "LFMPED"
+  },
+  {
+    "numero": "112",
+    "nombre": "LEY del Impuesto al Valor Agregado",
+    "dof": "DOF29/12/1978",
+    "ultima_reforma": "DOF 12/11/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf",
+    "pdf_filename": "LIVA.pdf",
+    "slug": "LIVA"
+  },
+  {
+    "numero": "113",
+    "nombre": "LEY del Impuesto Especial sobre Producción y Servicios",
+    "dof": "DOF30/12/1980",
+    "ultima_reforma": "DOF 22/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf",
+    "pdf_filename": "LIEPS.pdf",
+    "slug": "LIEPS"
+  },
+  {
+    "numero": "114",
+    "nombre": "LEY del Impuesto sobre la Renta",
+    "dof": "DOF11/12/2013",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
+    "pdf_filename": "LISR.pdf",
+    "slug": "LISR"
+  },
+  {
+    "numero": "115",
+    "nombre": "LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+    "dof": "DOF09/07/2003",
+    "ultima_reforma": "Notificación 15/01/2026 Sentencia SCJN",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf",
+    "pdf_filename": "LISSFAM.pdf",
+    "slug": "LISSFAM"
+  },
+  {
+    "numero": "116",
+    "nombre": "LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+    "dof": "DOF31/03/2007",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf",
+    "pdf_filename": "LISSSTE.pdf",
+    "slug": "LISSSTE"
+  },
+  {
+    "numero": "117",
+    "nombre": "LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+    "dof": "DOF24/04/1972",
+    "ultima_reforma": "DOF 21/02/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf",
+    "pdf_filename": "LIFNVT.pdf",
+    "slug": "LIFNVT"
+  },
+  {
+    "numero": "118",
+    "nombre": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+    "dof": "DOF24/04/2006",
+    "ultima_reforma": "DOF 03/01/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf",
+    "pdf_filename": "LIFNCT.pdf",
+    "slug": "LIFNCT"
+  },
+  {
+    "numero": "119",
+    "nombre": "LEY del Instituto Mexicano de la Juventud",
+    "dof": "DOF06/01/1999",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIMJ.pdf",
+    "pdf_filename": "LIMJ.pdf",
+    "slug": "LIMJ"
+  },
+  {
+    "numero": "120",
+    "nombre": "LEY del Instituto Nacional de los Pueblos Indígenas",
+    "dof": "DOF04/12/2018",
+    "ultima_reforma": "DOF 29/12/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf",
+    "pdf_filename": "LINPI.pdf",
+    "slug": "LINPI"
+  },
+  {
+    "numero": "121",
+    "nombre": "LEY del Mercado de Valores",
+    "dof": "DOF30/12/2005",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf",
+    "pdf_filename": "LMV.pdf",
+    "slug": "LMV"
+  },
+  {
+    "numero": "122",
+    "nombre": "LEY del Registro Público Vehicular",
+    "dof": "DOF01/09/2004",
+    "ultima_reforma": "DOF 20/05/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf",
+    "pdf_filename": "269_200521.pdf",
+    "slug": "269_200521"
+  },
+  {
+    "numero": "123",
+    "nombre": "LEY del Sector Eléctrico",
+    "dof": "DOF18/03/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf",
+    "pdf_filename": "LSE.pdf",
+    "slug": "LSE"
+  },
+  {
+    "numero": "124",
+    "nombre": "LEY del Sector Hidrocarburos",
+    "dof": "DOF18/03/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf",
+    "pdf_filename": "LSH.pdf",
+    "slug": "LSH"
+  },
+  {
+    "numero": "125",
+    "nombre": "LEY del Seguro Social",
+    "dof": "DOF21/12/1995",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf",
+    "pdf_filename": "LSS.pdf",
+    "slug": "LSS"
+  },
+  {
+    "numero": "126",
+    "nombre": "LEY del Servicio de Administración Tributaria",
+    "dof": "DOF15/12/1995",
+    "ultima_reforma": "DOF 04/12/2018",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf",
+    "pdf_filename": "93_041218.pdf",
+    "slug": "93_041218"
+  },
+  {
+    "numero": "127",
+    "nombre": "LEY del Servicio Exterior Mexicano",
+    "dof": "DOF04/01/1994",
+    "ultima_reforma": "DOF 19/04/2018",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf",
+    "pdf_filename": "96_190418.pdf",
+    "slug": "96_190418"
+  },
+  {
+    "numero": "128",
+    "nombre": "LEY del Servicio Militar",
+    "dof": "DOF11/09/1940",
+    "ultima_reforma": "DOF 18/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf",
+    "pdf_filename": "LSM.pdf",
+    "slug": "LSM"
+  },
+  {
+    "numero": "129",
+    "nombre": "LEY del Servicio Postal Mexicano",
+    "dof": "DOF24/12/1986",
+    "ultima_reforma": "DOF 19/01/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf",
+    "pdf_filename": "LSPM.pdf",
+    "slug": "LSPM"
+  },
+  {
+    "numero": "130",
+    "nombre": "LEY del Servicio Profesional de Carrera en la Administración Pública Federal",
+    "dof": "DOF10/04/2003",
+    "ultima_reforma": "DOF 09/01/2006",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf",
+    "pdf_filename": "260.pdf",
+    "slug": "260"
+  },
+  {
+    "numero": "131",
+    "nombre": "LEY del Sistema Nacional de Información Estadística y Geográfica",
+    "dof": "DOF16/04/2008",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG.pdf",
+    "pdf_filename": "LSNIEG.pdf",
+    "slug": "LSNIEG"
+  },
+  {
+    "numero": "132",
+    "nombre": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+    "dof": "DOF16/07/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf",
+    "pdf_filename": "LSNIIMSP.pdf",
+    "slug": "LSNIIMSP"
+  },
+  {
+    "numero": "133",
+    "nombre": "LEY del Sistema Público de Radiodifusión del Estado Mexicano",
+    "dof": "DOF14/07/2014",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf",
+    "pdf_filename": "LSPREM.pdf",
+    "slug": "LSPREM"
+  },
+  {
+    "numero": "134",
+    "nombre": "LEY en Materia de Telecomunicaciones y Radiodifusión",
+    "dof": "DOF16/07/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf",
+    "pdf_filename": "LMTR.pdf",
+    "slug": "LMTR"
+  },
+  {
+    "numero": "135",
+    "nombre": "LEY Federal contra la Delincuencia Organizada",
+    "dof": "DOF07/11/1996",
+    "ultima_reforma": "DOF 28/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf",
+    "pdf_filename": "LFCDO.pdf",
+    "slug": "LFCDO"
+  },
+  {
+    "numero": "136",
+    "nombre": "LEY Federal de Armas de Fuego y Explosivos",
+    "dof": "DOF11/01/1972",
+    "ultima_reforma": "DOF 29/05/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf",
+    "pdf_filename": "LFAFE.pdf",
+    "slug": "LFAFE"
+  },
+  {
+    "numero": "137",
+    "nombre": "LEY Federal de Austeridad Republicana",
+    "dof": "DOF19/11/2019",
+    "ultima_reforma": "DOF 16/04/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf",
+    "pdf_filename": "LFAR.pdf",
+    "slug": "LFAR"
+  },
+  {
+    "numero": "138",
+    "nombre": "LEY Federal de Cinematografía",
+    "dof": "DOF29/12/1992",
+    "ultima_reforma": "Notificación 01/09/2025 Sentencia SCJN",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFC.pdf",
+    "pdf_filename": "LFC.pdf",
+    "slug": "LFC"
+  },
+  {
+    "numero": "139",
+    "nombre": "LEY Federal de Competencia Económica",
+    "dof": "DOF23/05/2014",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf",
+    "pdf_filename": "LFCE.pdf",
+    "slug": "LFCE"
+  },
+  {
+    "numero": "140",
+    "nombre": "LEY Federal de Consulta Popular",
+    "dof": "DOF14/03/2014",
+    "ultima_reforma": "DOF 19/05/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf",
+    "pdf_filename": "LFCPo_190521.pdf",
+    "slug": "LFCPo_190521"
+  },
+  {
+    "numero": "141",
+    "nombre": "LEY Federal de Correduría Pública",
+    "dof": "DOF29/12/1992",
+    "ultima_reforma": "DOF 09/04/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf",
+    "pdf_filename": "105.pdf",
+    "slug": "105"
+  },
+  {
+    "numero": "142",
+    "nombre": "LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas",
+    "dof": "DOF22/06/2018",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf",
+    "pdf_filename": "LFDEAPD.pdf",
+    "slug": "LFDEAPD"
+  },
+  {
+    "numero": "143",
+    "nombre": "LEY Federal de Defensoría Pública",
+    "dof": "DOF28/05/1998",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf",
+    "pdf_filename": "LFDefP.pdf",
+    "slug": "LFDefP"
+  },
+  {
+    "numero": "144",
+    "nombre": "LEY Federal de Derechos",
+    "dof": "DOF31/12/1981",
+    "ultima_reforma": "DOF 28/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+    "pdf_filename": "LFD.pdf",
+    "slug": "LFD"
+  },
+  {
+    "numero": "145",
+    "nombre": "LEY Federal de Deuda Pública (Antes \"Ley General de Deuda Pública\")",
+    "dof": "DOF31/12/1976",
+    "ultima_reforma": "DOF 30/01/2018",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf",
+    "pdf_filename": "136_300118.pdf",
+    "slug": "136_300118"
+  },
+  {
+    "numero": "146",
+    "nombre": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+    "dof": "DOF09/02/2004",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf",
+    "pdf_filename": "LFFAOSC.pdf",
+    "slug": "LFFAOSC"
+  },
+  {
+    "numero": "147",
+    "nombre": "LEY Federal de Juegos y Sorteos",
+    "dof": "DOF31/12/1947",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/109.pdf",
+    "pdf_filename": "109.pdf",
+    "slug": "109"
+  },
+  {
+    "numero": "148",
+    "nombre": "LEY Federal de las Entidades Paraestatales",
+    "dof": "DOF14/05/1986",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf",
+    "pdf_filename": "LFEP.pdf",
+    "slug": "LFEP"
+  },
+  {
+    "numero": "149",
+    "nombre": "LEY Federal de los Derechos del Contribuyente",
+    "dof": "DOF23/06/2005",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf",
+    "pdf_filename": "LFDC.pdf",
+    "slug": "LFDC"
+  },
+  {
+    "numero": "150",
+    "nombre": "LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional",
+    "dof": "DOF28/12/1963",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf",
+    "pdf_filename": "LFTSE.pdf",
+    "slug": "LFTSE"
+  },
+  {
+    "numero": "151",
+    "nombre": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+    "dof": "DOF30/03/2006",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf",
+    "pdf_filename": "LFPRH.pdf",
+    "slug": "LFPRH"
+  },
+  {
+    "numero": "152",
+    "nombre": "LEY Federal de Procedimiento Administrativo",
+    "dof": "DOF04/08/1994",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf",
+    "pdf_filename": "LFPA.pdf",
+    "slug": "LFPA"
+  },
+  {
+    "numero": "153",
+    "nombre": "LEY Federal de Procedimiento Contencioso Administrativo",
+    "dof": "DOF01/12/2005",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf",
+    "pdf_filename": "LFPCA.pdf",
+    "slug": "LFPCA"
+  },
+  {
+    "numero": "154",
+    "nombre": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+    "dof": "DOF15/06/2007",
+    "ultima_reforma": "DOF 11/05/2018",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf",
+    "pdf_filename": "LFPCCS_110518.pdf",
+    "slug": "LFPCCS_110518"
+  },
+  {
+    "numero": "155",
+    "nombre": "LEY Federal de Protección a la Propiedad Industrial",
+    "dof": "DOF01/07/2020",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
+    "pdf_filename": "LFPPI.pdf",
+    "slug": "LFPPI"
+  },
+  {
+    "numero": "156",
+    "nombre": "LEY Federal de Protección al Consumidor",
+    "dof": "DOF24/12/1992",
+    "ultima_reforma": "DOF 23/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
+    "pdf_filename": "LFPC.pdf",
+    "slug": "LFPC"
+  },
+  {
+    "numero": "157",
+    "nombre": "LEY Federal de Protección de Datos Personales en Posesión de los Particulares",
+    "dof": "DOF20/03/2025",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
+    "pdf_filename": "LFPDPPP.pdf",
+    "slug": "LFPDPPP"
+  },
+  {
+    "numero": "158",
+    "nombre": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+    "dof": "DOF17/01/2022",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf",
+    "pdf_filename": "LFPPCPCIA.pdf",
+    "slug": "LFPPCPCIA"
+  },
+  {
+    "numero": "159",
+    "nombre": "LEY Federal de Remuneraciones de los Servidores Públicos",
+    "dof": "DOF19/05/2021",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf",
+    "pdf_filename": "LFRemSP_190521.pdf",
+    "slug": "LFRemSP_190521"
+  },
+  {
+    "numero": "160",
+    "nombre": "LEY Federal de Responsabilidad Ambiental",
+    "dof": "DOF07/06/2013",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf",
+    "pdf_filename": "LFRA.pdf",
+    "slug": "LFRA"
+  },
+  {
+    "numero": "161",
+    "nombre": "LEY Federal de Responsabilidad Patrimonial del Estado",
+    "dof": "DOF31/12/2004",
+    "ultima_reforma": "DOF 29/12/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
+    "pdf_filename": "LFRPE.pdf",
+    "slug": "LFRPE"
+  },
+  {
+    "numero": "162",
+    "nombre": "LEY Federal de Responsabilidades de los Servidores Públicos",
+    "dof": "DOF31/12/1982",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf",
+    "pdf_filename": "LFRSP.pdf",
+    "slug": "LFRSP"
+  },
+  {
+    "numero": "163",
+    "nombre": "LEY Federal de Revocación de Mandato",
+    "dof": "DOF14/09/2021",
+    "ultima_reforma": "DOF 26/09/2022 Sentencia SCJN",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf",
+    "pdf_filename": "LFRM.pdf",
+    "slug": "LFRM"
+  },
+  {
+    "numero": "164",
+    "nombre": "LEY Federal de Sanidad Animal",
+    "dof": "DOF25/07/2007",
+    "ultima_reforma": "DOF 21/05/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf",
+    "pdf_filename": "LFSA.pdf",
+    "slug": "LFSA"
+  },
+  {
+    "numero": "165",
+    "nombre": "LEY Federal de Sanidad Vegetal",
+    "dof": "DOF05/01/1994",
+    "ultima_reforma": "DOF 11/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf",
+    "pdf_filename": "LFSV.pdf",
+    "slug": "LFSV"
+  },
+  {
+    "numero": "166",
+    "nombre": "LEY Federal de Seguridad Privada",
+    "dof": "DOF06/07/2006",
+    "ultima_reforma": "DOF 17/10/2011",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf",
+    "pdf_filename": "LFSP.pdf",
+    "slug": "LFSP"
+  },
+  {
+    "numero": "167",
+    "nombre": "LEY Federal de Variedades Vegetales",
+    "dof": "DOF25/10/1996",
+    "ultima_reforma": "DOF 11/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf",
+    "pdf_filename": "LFVV.pdf",
+    "slug": "LFVV"
+  },
+  {
+    "numero": "168",
+    "nombre": "LEY Federal de Zonas Económicas Especiales",
+    "dof": "DOF01/06/2016",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf",
+    "pdf_filename": "LFZEE.pdf",
+    "slug": "LFZEE"
+  },
+  {
+    "numero": "169",
+    "nombre": "LEY Federal del Derecho de Autor",
+    "dof": "DOF24/12/1996",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
+    "pdf_filename": "LFDA.pdf",
+    "slug": "LFDA"
+  },
+  {
+    "numero": "170",
+    "nombre": "LEY Federal del Impuesto sobre Automóviles Nuevos",
+    "dof": "DOF30/12/1996",
+    "ultima_reforma": "DOF 28/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf",
+    "pdf_filename": "LFISAN.pdf",
+    "slug": "LFISAN"
+  },
+  {
+    "numero": "171",
+    "nombre": "LEY Federal del Mar",
+    "dof": "DOF08/01/1986",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf",
+    "pdf_filename": "124.pdf",
+    "slug": "124"
+  },
+  {
+    "numero": "172",
+    "nombre": "LEY Federal del Trabajo",
+    "dof": "DOF01/04/1970",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+    "pdf_filename": "LFT.pdf",
+    "slug": "LFT"
+  },
+  {
+    "numero": "173",
+    "nombre": "LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
+    "dof": "DOF26/12/1997",
+    "ultima_reforma": "DOF 03/05/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf",
+    "pdf_filename": "LFCPQ.pdf",
+    "slug": "LFCPQ"
+  },
+  {
+    "numero": "174",
+    "nombre": "LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas",
+    "dof": "DOF09/06/2009",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf",
+    "pdf_filename": "LFCSQ.pdf",
+    "slug": "LFCSQ"
+  },
+  {
+    "numero": "175",
+    "nombre": "LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal",
+    "dof": "DOF26/01/1988",
+    "ultima_reforma": "DOF 27/03/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf",
+    "pdf_filename": "LFFMAA.pdf",
+    "slug": "LFFMAA"
+  },
+  {
+    "numero": "176",
+    "nombre": "LEY Federal para el Fomento y Protección del Maíz Nativo",
+    "dof": "DOF13/04/2020",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFPMN_130420.pdf",
+    "pdf_filename": "LFFPMN_130420.pdf",
+    "slug": "LFFPMN_130420"
+  },
+  {
+    "numero": "177",
+    "nombre": "LEY Federal para la Administración y Enajenación de Bienes del Sector Público",
+    "dof": "DOF19/12/2002",
+    "ultima_reforma": "DOF 30/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf",
+    "pdf_filename": "LFAEBSP.pdf",
+    "slug": "LFAEBSP"
+  },
+  {
+    "numero": "178",
+    "nombre": "LEY Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+    "dof": "DOF17/10/2012",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf",
+    "pdf_filename": "LFPIORPI.pdf",
+    "slug": "LFPIORPI"
+  },
+  {
+    "numero": "179",
+    "nombre": "LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal",
+    "dof": "DOF08/06/2012",
+    "ultima_reforma": "DOF 20/05/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf",
+    "pdf_filename": "LFPPIPP_200521.pdf",
+    "slug": "LFPPIPP_200521"
+  },
+  {
+    "numero": "180",
+    "nombre": "LEY Federal para Prevenir y Eliminar la Discriminación",
+    "dof": "DOF11/06/2003",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
+    "pdf_filename": "LFPED.pdf",
+    "slug": "LFPED"
+  },
+  {
+    "numero": "181",
+    "nombre": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+    "dof": "DOF12/01/2016",
+    "ultima_reforma": "DOF 12/11/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf",
+    "pdf_filename": "LFPSDMH.pdf",
+    "slug": "LFPSDMH"
+  },
+  {
+    "numero": "182",
+    "nombre": "LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos",
+    "dof": "DOF06/05/1972",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMZAAH.pdf",
+    "pdf_filename": "LFMZAAH.pdf",
+    "slug": "LFMZAAH"
+  },
+  {
+    "numero": "183",
+    "nombre": "LEY General de Acceso de las Mujeres a una Vida Libre de Violencias (Antes \"Ley General de Acceso de las Mujeres a una Vida Libre de Violencia\")",
+    "dof": "DOF01/02/2007",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf",
+    "pdf_filename": "LGAMVLV.pdf",
+    "slug": "LGAMVLV"
+  },
+  {
+    "numero": "184",
+    "nombre": "LEY General de Aguas",
+    "dof": "DOF11/12/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf",
+    "pdf_filename": "LGAg.pdf",
+    "slug": "LGAg"
+  },
+  {
+    "numero": "185",
+    "nombre": "LEY General de Archivos",
+    "dof": "DOF15/06/2018",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGA.pdf",
+    "pdf_filename": "LGA.pdf",
+    "slug": "LGA"
+  },
+  {
+    "numero": "186",
+    "nombre": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+    "dof": "DOF28/11/2016",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf",
+    "pdf_filename": "LGAHOTDU.pdf",
+    "slug": "LGAHOTDU"
+  },
+  {
+    "numero": "187",
+    "nombre": "LEY General de Bibliotecas",
+    "dof": "DOF01/06/2021",
+    "ultima_reforma": "DOF 29/11/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
+    "pdf_filename": "LGB.pdf",
+    "slug": "LGB"
+  },
+  {
+    "numero": "188",
+    "nombre": "LEY General de Bienes Nacionales",
+    "dof": "DOF20/05/2004",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf",
+    "pdf_filename": "LGBN.pdf",
+    "slug": "LGBN"
+  },
+  {
+    "numero": "189",
+    "nombre": "LEY General de Cambio Climático",
+    "dof": "DOF06/06/2012",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCC.pdf",
+    "pdf_filename": "LGCC.pdf",
+    "slug": "LGCC"
+  },
+  {
+    "numero": "190",
+    "nombre": "LEY General de Comunicación Social",
+    "dof": "DOF11/05/2018",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCS.pdf",
+    "pdf_filename": "LGCS.pdf",
+    "slug": "LGCS"
+  },
+  {
+    "numero": "191",
+    "nombre": "LEY General de Contabilidad Gubernamental",
+    "dof": "DOF31/12/2008",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf",
+    "pdf_filename": "LGCG.pdf",
+    "slug": "LGCG"
+  },
+  {
+    "numero": "192",
+    "nombre": "LEY General de Cultura Física y Deporte",
+    "dof": "DOF07/06/2013",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCFD.pdf",
+    "pdf_filename": "LGCFD.pdf",
+    "slug": "LGCFD"
+  },
+  {
+    "numero": "193",
+    "nombre": "LEY General de Cultura y Derechos Culturales",
+    "dof": "DOF19/06/2017",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf",
+    "pdf_filename": "LGCDC.pdf",
+    "slug": "LGCDC"
+  },
+  {
+    "numero": "194",
+    "nombre": "LEY General de Derechos Lingüísticos de los Pueblos Indígenas",
+    "dof": "DOF13/03/2003",
+    "ultima_reforma": "DOF 18/10/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf",
+    "pdf_filename": "LGDLPI.pdf",
+    "slug": "LGDLPI"
+  },
+  {
+    "numero": "195",
+    "nombre": "LEY General de Desarrollo Forestal Sustentable",
+    "dof": "DOF05/06/2018",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf",
+    "pdf_filename": "LGDFS.pdf",
+    "slug": "LGDFS"
+  },
+  {
+    "numero": "196",
+    "nombre": "LEY General de Desarrollo Social",
+    "dof": "DOF20/01/2004",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf",
+    "pdf_filename": "LGDS.pdf",
+    "slug": "LGDS"
+  },
+  {
+    "numero": "197",
+    "nombre": "LEY General de Economía Circular",
+    "dof": "DOF19/01/2026",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf",
+    "pdf_filename": "LGEC.pdf",
+    "slug": "LGEC"
+  },
+  {
+    "numero": "198",
+    "nombre": "LEY General de Educación",
+    "dof": "DOF30/09/2019",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
+    "pdf_filename": "LGE.pdf",
+    "slug": "LGE"
+  },
+  {
+    "numero": "199",
+    "nombre": "LEY General de Educación Superior",
+    "dof": "DOF20/04/2021",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
+    "pdf_filename": "LGES_200421.pdf",
+    "slug": "LGES_200421"
+  },
+  {
+    "numero": "200",
+    "nombre": "LEY General de Instituciones y Procedimientos Electorales",
+    "dof": "DOF23/05/2014",
+    "ultima_reforma": "DOF 14/10/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
+    "pdf_filename": "LGIPE.pdf",
+    "slug": "LGIPE"
+  },
+  {
+    "numero": "201",
+    "nombre": "LEY General de la Alimentación Adecuada y Sostenible",
+    "dof": "DOF17/04/2024",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf",
+    "pdf_filename": "LGAAS.pdf",
+    "slug": "LGAAS"
+  },
+  {
+    "numero": "202",
+    "nombre": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+    "dof": "DOF04/12/2014",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf",
+    "pdf_filename": "LGDNNA.pdf",
+    "slug": "LGDNNA"
+  },
+  {
+    "numero": "203",
+    "nombre": "LEY General de los Medios de Impugnación en Materia Electoral",
+    "dof": "DOF02/03/2023",
+    "ultima_reforma": "DOF 24/11/2023 Sentencia SCJN",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf",
+    "pdf_filename": "LGMIME.pdf",
+    "slug": "LGMIME"
+  },
+  {
+    "numero": "204",
+    "nombre": "LEY General de Mecanismos Alternativos de Solución de Controversias",
+    "dof": "DOF26/01/2024",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf",
+    "pdf_filename": "LGMASC.pdf",
+    "slug": "LGMASC"
+  },
+  {
+    "numero": "205",
+    "nombre": "LEY General de Movilidad y Seguridad Vial",
+    "dof": "DOF17/05/2022",
+    "ultima_reforma": "DOF 29/12/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf",
+    "pdf_filename": "LGMSV.pdf",
+    "slug": "LGMSV"
+  },
+  {
+    "numero": "206",
+    "nombre": "LEY General de Organizaciones y Actividades Auxiliares del Crédito",
+    "dof": "DOF14/01/1985",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf",
+    "pdf_filename": "LGOAAC.pdf",
+    "slug": "LGOAAC"
+  },
+  {
+    "numero": "207",
+    "nombre": "LEY General de Partidos Políticos",
+    "dof": "DOF23/05/2014",
+    "ultima_reforma": "DOF 24/11/2023 Sentencia SCJN",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf",
+    "pdf_filename": "LGPP.pdf",
+    "slug": "LGPP"
+  },
+  {
+    "numero": "208",
+    "nombre": "LEY General de Pesca y Acuacultura Sustentables",
+    "dof": "DOF24/07/2007",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf",
+    "pdf_filename": "LGPAS.pdf",
+    "slug": "LGPAS"
+  },
+  {
+    "numero": "209",
+    "nombre": "LEY General de Población",
+    "dof": "DOF07/01/1974",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf",
+    "pdf_filename": "LGP.pdf",
+    "slug": "LGP"
+  },
+  {
+    "numero": "210",
+    "nombre": "LEY General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil",
+    "dof": "DOF24/10/2011",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf",
+    "pdf_filename": "LGPSACDII.pdf",
+    "slug": "LGPSACDII"
+  },
+  {
+    "numero": "211",
+    "nombre": "LEY General de Protección Civil",
+    "dof": "DOF06/06/2012",
+    "ultima_reforma": "DOF 21/12/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
+    "pdf_filename": "LGPC.pdf",
+    "slug": "LGPC"
+  },
+  {
+    "numero": "212",
+    "nombre": "LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados",
+    "dof": "DOF20/03/2025",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
+    "pdf_filename": "LGPDPPSO.pdf",
+    "slug": "LGPDPPSO"
+  },
+  {
+    "numero": "213",
+    "nombre": "LEY General de Responsabilidades Administrativas",
+    "dof": "DOF18/07/2016",
+    "ultima_reforma": "DOF 15/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
+    "pdf_filename": "LGRA.pdf",
+    "slug": "LGRA"
+  },
+  {
+    "numero": "214",
+    "nombre": "LEY General de Salud",
+    "dof": "DOF07/02/1984",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
+    "pdf_filename": "LGS.pdf",
+    "slug": "LGS"
+  },
+  {
+    "numero": "215",
+    "nombre": "LEY General de Sociedades Cooperativas",
+    "dof": "DOF03/08/1994",
+    "ultima_reforma": "DOF 16/04/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf",
+    "pdf_filename": "LGSC.pdf",
+    "slug": "LGSC"
+  },
+  {
+    "numero": "216",
+    "nombre": "LEY General de Sociedades Mercantiles",
+    "dof": "DOF04/08/1934",
+    "ultima_reforma": "DOF 26/12/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf",
+    "pdf_filename": "LGSM.pdf",
+    "slug": "LGSM"
+  },
+  {
+    "numero": "217",
+    "nombre": "LEY General de Títulos y Operaciones de Crédito",
+    "dof": "DOF27/08/1932",
+    "ultima_reforma": "DOF 26/03/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf",
+    "pdf_filename": "LGTOC.pdf",
+    "slug": "LGTOC"
+  },
+  {
+    "numero": "218",
+    "nombre": "LEY General de Transparencia y Acceso a la Información Pública",
+    "dof": "DOF20/03/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
+    "pdf_filename": "LGTAIP.pdf",
+    "slug": "LGTAIP"
+  },
+  {
+    "numero": "219",
+    "nombre": "LEY General de Turismo",
+    "dof": "DOF17/06/2009",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf",
+    "pdf_filename": "LGT.pdf",
+    "slug": "LGT"
+  },
+  {
+    "numero": "220",
+    "nombre": "LEY General de Víctimas",
+    "dof": "DOF09/01/2013",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf",
+    "pdf_filename": "LGV.pdf",
+    "slug": "LGV"
+  },
+  {
+    "numero": "221",
+    "nombre": "LEY General de Vida Silvestre",
+    "dof": "DOF03/07/2000",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf",
+    "pdf_filename": "LGVS.pdf",
+    "slug": "LGVS"
+  },
+  {
+    "numero": "222",
+    "nombre": "LEY General del Equilibrio Ecológico y la Protección al Ambiente",
+    "dof": "DOF28/01/1988",
+    "ultima_reforma": "DOF 19/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf",
+    "pdf_filename": "LGEEPA.pdf",
+    "slug": "LGEEPA"
+  },
+  {
+    "numero": "223",
+    "nombre": "LEY General del Sistema de Medios de Impugnación en Materia Electoral",
+    "dof": "DOF22/11/1996",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf",
+    "pdf_filename": "LGSMIME.pdf",
+    "slug": "LGSMIME"
+  },
+  {
+    "numero": "224",
+    "nombre": "LEY General del Sistema Nacional Anticorrupción",
+    "dof": "DOF18/07/2016",
+    "ultima_reforma": "DOF 20/05/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf",
+    "pdf_filename": "LGSNA_200521.pdf",
+    "slug": "LGSNA_200521"
+  },
+  {
+    "numero": "225",
+    "nombre": "LEY General del Sistema Nacional de Seguridad Pública",
+    "dof": "DOF16/07/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf",
+    "pdf_filename": "LGSNSP.pdf",
+    "slug": "LGSNSP"
+  },
+  {
+    "numero": "226",
+    "nombre": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+    "dof": "DOF30/09/2019",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf",
+    "pdf_filename": "LGSCMM_300919.pdf",
+    "slug": "LGSCMM_300919"
+  },
+  {
+    "numero": "227",
+    "nombre": "LEY General en Materia de Delitos Electorales",
+    "dof": "DOF23/05/2014",
+    "ultima_reforma": "DOF 20/05/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf",
+    "pdf_filename": "LGMDE_200521.pdf",
+    "slug": "LGMDE_200521"
+  },
+  {
+    "numero": "228",
+    "nombre": "LEY General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+    "dof": "DOF17/11/2017",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf",
+    "pdf_filename": "LGMDFP.pdf",
+    "slug": "LGMDFP"
+  },
+  {
+    "numero": "229",
+    "nombre": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+    "dof": "DOF08/05/2023",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf",
+    "pdf_filename": "LGMHCTI.pdf",
+    "slug": "LGMHCTI"
+  },
+  {
+    "numero": "230",
+    "nombre": "LEY General para el Control del Tabaco",
+    "dof": "DOF30/05/2008",
+    "ultima_reforma": "DOF 17/02/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf",
+    "pdf_filename": "LGCT.pdf",
+    "slug": "LGCT"
+  },
+  {
+    "numero": "231",
+    "nombre": "LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista",
+    "dof": "DOF30/04/2015",
+    "ultima_reforma": "DOF 27/05/2016",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf",
+    "pdf_filename": "LGAPPCEA_270516.pdf",
+    "slug": "LGAPPCEA_270516"
+  },
+  {
+    "numero": "232",
+    "nombre": "LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+    "dof": "DOF07/01/2021",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
+    "pdf_filename": "LGDOCIA_070121.pdf",
+    "slug": "LGDOCIA_070121"
+  },
+  {
+    "numero": "233",
+    "nombre": "LEY General para la Igualdad Sustantiva entre Mujeres y Hombres (Antes \"Ley General para la Igualdad entre Mujeres y Hombres\")",
+    "dof": "DOF02/08/2006",
+    "ultima_reforma": "DOF 15/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf",
+    "pdf_filename": "LGISMH.pdf",
+    "slug": "LGISMH"
+  },
+  {
+    "numero": "234",
+    "nombre": "LEY General para la Inclusión de las Personas con Discapacidad",
+    "dof": "DOF30/05/2011",
+    "ultima_reforma": "DOF 14/06/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf",
+    "pdf_filename": "LGIPD.pdf",
+    "slug": "LGIPD"
+  },
+  {
+    "numero": "235",
+    "nombre": "LEY General para la Prevención Social de la Violencia y la Delincuencia",
+    "dof": "DOF24/01/2012",
+    "ultima_reforma": "DOF 04/05/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf",
+    "pdf_filename": "LGPSVD_040521.pdf",
+    "slug": "LGPSVD_040521"
+  },
+  {
+    "numero": "236",
+    "nombre": "LEY General para la Prevención y Gestión Integral de los Residuos",
+    "dof": "DOF08/10/2003",
+    "ultima_reforma": "DOF 19/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf",
+    "pdf_filename": "LGPGIR.pdf",
+    "slug": "LGPGIR"
+  },
+  {
+    "numero": "237",
+    "nombre": "LEY General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+    "dof": "DOF26/06/2017",
+    "ultima_reforma": "DOF 28/04/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf",
+    "pdf_filename": "LGPIST.pdf",
+    "slug": "LGPIST"
+  },
+  {
+    "numero": "238",
+    "nombre": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+    "dof": "DOF28/11/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf",
+    "pdf_filename": "LGPISDME.pdf",
+    "slug": "LGPISDME"
+  },
+  {
+    "numero": "239",
+    "nombre": "LEY General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
+    "dof": "DOF14/06/2012",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf",
+    "pdf_filename": "LGPSEDMTP.pdf",
+    "slug": "LGPSEDMTP"
+  },
+  {
+    "numero": "240",
+    "nombre": "LEY General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+    "dof": "DOF30/11/2010",
+    "ultima_reforma": "DOF 20/05/2021",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_200521.pdf",
+    "pdf_filename": "LGPSDMS_200521.pdf",
+    "slug": "LGPSDMS_200521"
+  },
+  {
+    "numero": "241",
+    "nombre": "LEY Monetaria de los Estados Unidos Mexicanos",
+    "dof": "DOF27/07/1931",
+    "ultima_reforma": "DOF 19/01/2026",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf",
+    "pdf_filename": "LMEUM.pdf",
+    "slug": "LMEUM"
+  },
+  {
+    "numero": "242",
+    "nombre": "LEY Nacional de Ejecución Penal",
+    "dof": "DOF16/06/2016",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf",
+    "pdf_filename": "LNEP.pdf",
+    "slug": "LNEP"
+  },
+  {
+    "numero": "243",
+    "nombre": "LEY Nacional de Extinción de Dominio",
+    "dof": "DOF09/08/2019",
+    "ultima_reforma": "DOF 28/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf",
+    "pdf_filename": "LNED.pdf",
+    "slug": "LNED"
+  },
+  {
+    "numero": "244",
+    "nombre": "LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal",
+    "dof": "DOF29/12/2014",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf",
+    "pdf_filename": "LNMASCMP.pdf",
+    "slug": "LNMASCMP"
+  },
+  {
+    "numero": "245",
+    "nombre": "LEY Nacional del Registro de Detenciones",
+    "dof": "DOF27/05/2019",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf",
+    "pdf_filename": "LNRD_270519.pdf",
+    "slug": "LNRD_270519"
+  },
+  {
+    "numero": "246",
+    "nombre": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+    "dof": "DOF16/06/2016",
+    "ultima_reforma": "DOF 20/12/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf",
+    "pdf_filename": "LNSIJPA.pdf",
+    "slug": "LNSIJPA"
+  },
+  {
+    "numero": "247",
+    "nombre": "LEY Nacional para Eliminar Trámites Burocráticos",
+    "dof": "DOF16/07/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf",
+    "pdf_filename": "LNETB.pdf",
+    "slug": "LNETB"
+  },
+  {
+    "numero": "248",
+    "nombre": "LEY Nacional sobre el Uso de la Fuerza",
+    "dof": "DOF27/05/2019",
+    "ultima_reforma": "DOF 24/01/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf",
+    "pdf_filename": "LNUF.pdf",
+    "slug": "LNUF"
+  },
+  {
+    "numero": "249",
+    "nombre": "LEY Orgánica de la Administración Pública Federal",
+    "dof": "DOF29/12/1976",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf",
+    "pdf_filename": "LOAPF.pdf",
+    "slug": "LOAPF"
+  },
+  {
+    "numero": "250",
+    "nombre": "LEY Orgánica de la Armada de México",
+    "dof": "DOF07/11/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf",
+    "pdf_filename": "LOAM.pdf",
+    "slug": "LOAM"
+  },
+  {
+    "numero": "251",
+    "nombre": "LEY Orgánica de la Procuraduría de la Defensa del Contribuyente",
+    "dof": "DOF04/09/2006",
+    "ultima_reforma": "DOF 11/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf",
+    "pdf_filename": "LOPDC.pdf",
+    "slug": "LOPDC"
+  },
+  {
+    "numero": "252",
+    "nombre": "LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+    "dof": "DOF20/06/2011",
+    "ultima_reforma": "DOF 24/02/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf",
+    "pdf_filename": "LOPGJDF.pdf",
+    "slug": "LOPGJDF"
+  },
+  {
+    "numero": "253",
+    "nombre": "LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro",
+    "dof": "DOF26/04/2006",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf",
+    "pdf_filename": "LOUAAAN.pdf",
+    "slug": "LOUAAAN"
+  },
+  {
+    "numero": "254",
+    "nombre": "LEY Orgánica de la Universidad Autónoma Metropolitana",
+    "dof": "DOF17/12/1973",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf",
+    "pdf_filename": "157.pdf",
+    "slug": "157"
+  },
+  {
+    "numero": "255",
+    "nombre": "LEY Orgánica de la Universidad Nacional Autónoma de México",
+    "dof": "DOF06/01/1945",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf",
+    "pdf_filename": "158.pdf",
+    "slug": "158"
+  },
+  {
+    "numero": "256",
+    "nombre": "LEY Orgánica de los Tribunales Agrarios",
+    "dof": "DOF26/02/1992",
+    "ultima_reforma": "DOF 23/01/1998",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf",
+    "pdf_filename": "159.pdf",
+    "slug": "159"
+  },
+  {
+    "numero": "257",
+    "nombre": "LEY Orgánica de Nacional Financiera",
+    "dof": "DOF26/12/1986",
+    "ultima_reforma": "DOF 10/01/2014",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/162.pdf",
+    "pdf_filename": "162.pdf",
+    "slug": "162"
+  },
+  {
+    "numero": "258",
+    "nombre": "LEY Orgánica de Sociedad Hipotecaria Federal",
+    "dof": "DOF11/10/2001",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf",
+    "pdf_filename": "LOSHF.pdf",
+    "slug": "LOSHF"
+  },
+  {
+    "numero": "259",
+    "nombre": "LEY Orgánica del Banco del Bienestar (Antes \"Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros\")",
+    "dof": "DOF01/06/2001",
+    "ultima_reforma": "DOF 19/07/2019",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/164_190719.pdf",
+    "pdf_filename": "164_190719.pdf",
+    "slug": "164_190719"
+  },
+  {
+    "numero": "260",
+    "nombre": "LEY Orgánica del Banco Nacional de Comercio Exterior",
+    "dof": "DOF20/01/1986",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNCE.pdf",
+    "pdf_filename": "LOBNCE.pdf",
+    "slug": "LOBNCE"
+  },
+  {
+    "numero": "261",
+    "nombre": "LEY Orgánica del Banco Nacional de Obras y Servicios Públicos",
+    "dof": "DOF20/01/1986",
+    "ultima_reforma": "DOF 01/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf",
+    "pdf_filename": "LOBNOSP.pdf",
+    "slug": "LOBNOSP"
+  },
+  {
+    "numero": "262",
+    "nombre": "LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada",
+    "dof": "DOF13/01/1986",
+    "ultima_reforma": "DOF 10/01/2014",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/167.pdf",
+    "pdf_filename": "167.pdf",
+    "slug": "167"
+  },
+  {
+    "numero": "263",
+    "nombre": "LEY Orgánica del Centro Federal de Conciliación y Registro Laboral",
+    "dof": "DOF06/01/2020",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
+    "pdf_filename": "LOCFCRL_060120.pdf",
+    "slug": "LOCFCRL_060120"
+  },
+  {
+    "numero": "264",
+    "nombre": "LEY Orgánica del Congreso General de los Estados Unidos Mexicanos",
+    "dof": "DOF03/09/1999",
+    "ultima_reforma": "DOF 07/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf",
+    "pdf_filename": "LOCGEUM.pdf",
+    "slug": "LOCGEUM"
+  },
+  {
+    "numero": "265",
+    "nombre": "LEY Orgánica del Ejército y Fuerza Aérea Mexicanos",
+    "dof": "DOF26/12/1986",
+    "ultima_reforma": "DOF 16/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf",
+    "pdf_filename": "LOEFAM.pdf",
+    "slug": "LOEFAM"
+  },
+  {
+    "numero": "266",
+    "nombre": "LEY Orgánica del Instituto Nacional de Antropología e Historia",
+    "dof": "DOF03/02/1939",
+    "ultima_reforma": "DOF 17/12/2015",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf",
+    "pdf_filename": "170_171215.pdf",
+    "slug": "170_171215"
+  },
+  {
+    "numero": "267",
+    "nombre": "LEY Orgánica del Instituto Politécnico Nacional",
+    "dof": "DOF29/12/1981",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf",
+    "pdf_filename": "171.pdf",
+    "slug": "171"
+  },
+  {
+    "numero": "268",
+    "nombre": "LEY Orgánica del Poder Judicial de la Federación",
+    "dof": "DOF20/12/2024",
+    "ultima_reforma": "DOF 28/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf",
+    "pdf_filename": "LOPJF.pdf",
+    "slug": "LOPJF"
+  },
+  {
+    "numero": "269",
+    "nombre": "LEY Orgánica del Seminario de Cultura Mexicana",
+    "dof": "DOF31/12/1949",
+    "ultima_reforma": "DOF 11/05/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSCM.pdf",
+    "pdf_filename": "LOSCM.pdf",
+    "slug": "LOSCM"
+  },
+  {
+    "numero": "270",
+    "nombre": "LEY Orgánica del Tribunal Federal de Justicia Administrativa",
+    "dof": "DOF18/07/2016",
+    "ultima_reforma": "DOF 16/10/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf",
+    "pdf_filename": "LOTFJA.pdf",
+    "slug": "LOTFJA"
+  },
+  {
+    "numero": "271",
+    "nombre": "LEY para Conservar la Neutralidad del País",
+    "dof": "DOF10/11/1939",
+    "ultima_reforma": "DOF 21/06/2018",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf",
+    "pdf_filename": "176_210618.pdf",
+    "slug": "176_210618"
+  },
+  {
+    "numero": "272",
+    "nombre": "LEY para Determinar el Valor de la Unidad de Medida y Actualización",
+    "dof": "DOF30/12/2016",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf",
+    "pdf_filename": "LDVUMA_301216.pdf",
+    "slug": "LDVUMA_301216"
+  },
+  {
+    "numero": "273",
+    "nombre": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+    "dof": "DOF30/12/2002",
+    "ultima_reforma": "DOF 20/10/2023",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf",
+    "pdf_filename": "LDCMPME.pdf",
+    "slug": "LDCMPME"
+  },
+  {
+    "numero": "274",
+    "nombre": "LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas",
+    "dof": "DOF11/03/1995",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf",
+    "pdf_filename": "177.pdf",
+    "slug": "177"
+  },
+  {
+    "numero": "275",
+    "nombre": "LEY para el uso y protección de la denominación y del emblema de la Cruz Roja",
+    "dof": "DOF23/03/2007",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf",
+    "pdf_filename": "LUPDECR.pdf",
+    "slug": "LUPDECR"
+  },
+  {
+    "numero": "276",
+    "nombre": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+    "dof": "DOF06/05/2015",
+    "ultima_reforma": "DOF 17/04/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
+    "pdf_filename": "LIISPCEN.pdf",
+    "slug": "LIISPCEN"
+  },
+  {
+    "numero": "277",
+    "nombre": "LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México",
+    "dof": "DOF14/06/2004",
+    "ultima_reforma": "DOF 12/06/2009",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf",
+    "pdf_filename": "268.pdf",
+    "slug": "268"
+  },
+  {
+    "numero": "278",
+    "nombre": "LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos",
+    "dof": "DOF09/02/2006",
+    "ultima_reforma": "DOF 03/05/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+    "pdf_filename": "LCACSEFAM.pdf",
+    "slug": "LCACSEFAM"
+  },
+  {
+    "numero": "279",
+    "nombre": "LEY para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+    "dof": "DOF25/06/2012",
+    "ultima_reforma": "DOF 28/04/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf",
+    "pdf_filename": "LPPDDHP.pdf",
+    "slug": "LPPDDHP"
+  },
+  {
+    "numero": "280",
+    "nombre": "LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
+    "dof": "DOF03/06/2021",
+    "ultima_reforma": "DOF 22/12/2023 Sentencia SCJN",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf",
+    "pdf_filename": "LTPCPIMCP.pdf",
+    "slug": "LTPCPIMCP"
+  },
+  {
+    "numero": "281",
+    "nombre": "LEY para la Transparencia y Ordenamiento de los Servicios Financieros",
+    "dof": "DOF15/06/2007",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf",
+    "pdf_filename": "LTOSF.pdf",
+    "slug": "LTOSF"
+  },
+  {
+    "numero": "282",
+    "nombre": "LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
+    "dof": "DOF13/08/2009",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf",
+    "pdf_filename": "LRASCAP.pdf",
+    "slug": "LRASCAP"
+  },
+  {
+    "numero": "283",
+    "nombre": "LEY para Regular las Agrupaciones Financieras",
+    "dof": "DOF10/01/2014",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF.pdf",
+    "pdf_filename": "LRAF.pdf",
+    "slug": "LRAF"
+  },
+  {
+    "numero": "284",
+    "nombre": "LEY para Regular las Instituciones de Tecnología Financiera",
+    "dof": "DOF09/03/2018",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
+    "pdf_filename": "LRITF.pdf",
+    "slug": "LRITF"
+  },
+  {
+    "numero": "285",
+    "nombre": "LEY para Regular las Sociedades de Información Crediticia",
+    "dof": "DOF15/01/2002",
+    "ultima_reforma": "DOF 24/01/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf",
+    "pdf_filename": "LRSIC.pdf",
+    "slug": "LRSIC"
+  },
+  {
+    "numero": "286",
+    "nombre": "LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+    "dof": "DOF05/01/1982",
+    "ultima_reforma": "DOF 29/12/2014",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf",
+    "pdf_filename": "187_291214.pdf",
+    "slug": "187_291214"
+  },
+  {
+    "numero": "287",
+    "nombre": "LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
+    "dof": "DOF31/12/1954",
+    "ultima_reforma": "DOF 09/04/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf",
+    "pdf_filename": "192.pdf",
+    "slug": "192"
+  },
+  {
+    "numero": "288",
+    "nombre": "LEY que crea el Instituto Nacional de Bellas Artes y Literatura",
+    "dof": "DOF31/12/1946",
+    "ultima_reforma": "DOF 17/12/2015",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/193_171215.pdf",
+    "pdf_filename": "193_171215.pdf",
+    "slug": "193_171215"
+  },
+  {
+    "numero": "289",
+    "nombre": "LEY que crea la Agencia Espacial Mexicana",
+    "dof": "DOF30/07/2010",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
+    "pdf_filename": "LAEM.pdf",
+    "slug": "LAEM"
+  },
+  {
+    "numero": "290",
+    "nombre": "LEY que crea la Universidad Autónoma Chapingo",
+    "dof": "DOF30/12/1974",
+    "ultima_reforma": "DOF 30/12/1977",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf",
+    "pdf_filename": "195.pdf",
+    "slug": "195"
+  },
+  {
+    "numero": "291",
+    "nombre": "LEY que Crea la Universidad del Ejército y Fuerza Aérea",
+    "dof": "DOF29/12/1975",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf",
+    "pdf_filename": "196.pdf",
+    "slug": "196"
+  },
+  {
+    "numero": "292",
+    "nombre": "LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+    "dof": "DOF26/01/1950",
+    "ultima_reforma": "DOF 12/01/1972",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf",
+    "pdf_filename": "197.pdf",
+    "slug": "197"
+  },
+  {
+    "numero": "293",
+    "nombre": "LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento",
+    "dof": "DOF31/12/1960",
+    "ultima_reforma": "DOF 06/06/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf",
+    "pdf_filename": "LCCAIF.pdf",
+    "slug": "LCCAIF"
+  },
+  {
+    "numero": "294",
+    "nombre": "LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo",
+    "dof": "DOF19/12/1959",
+    "ultima_reforma": "DOF 29/12/2014",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/200_291214.pdf",
+    "pdf_filename": "200_291214.pdf",
+    "slug": "200_291214"
+  },
+  {
+    "numero": "295",
+    "nombre": "LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República",
+    "dof": "DOF29/12/1978",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf",
+    "pdf_filename": "202.pdf",
+    "slug": "202"
+  },
+  {
+    "numero": "296",
+    "nombre": "LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+    "dof": "DOF31/08/2007",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
+    "pdf_filename": "LRArt76_fracVI.pdf",
+    "slug": "LRArt76_fracVI"
+  },
+  {
+    "numero": "297",
+    "nombre": "LEY Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos",
+    "dof": "DOF30/12/1983",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf",
+    "pdf_filename": "LRFXIIIB_Art123.pdf",
+    "slug": "LRFXIIIB_Art123"
+  },
+  {
+    "numero": "298",
+    "nombre": "LEY Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
+    "dof": "DOF27/12/1982",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf",
+    "pdf_filename": "204.pdf",
+    "slug": "204"
+  },
+  {
+    "numero": "299",
+    "nombre": "LEY Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
+    "dof": "DOF11/05/1995",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf",
+    "pdf_filename": "LRFIyII_Art105.pdf",
+    "slug": "LRFIyII_Art105"
+  },
+  {
+    "numero": "300",
+    "nombre": "LEY Reglamentaria del Artículo 27 Constitucional en Materia Nuclear",
+    "dof": "DOF04/02/1985",
+    "ultima_reforma": "DOF 09/04/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf",
+    "pdf_filename": "207.pdf",
+    "slug": "207"
+  },
+  {
+    "numero": "301",
+    "nombre": "LEY Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+    "dof": "DOF30/09/2019",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
+    "pdf_filename": "LRArt3_MMCE_300919.pdf",
+    "slug": "LRArt3_MMCE_300919"
+  },
+  {
+    "numero": "302",
+    "nombre": "LEY Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México (Antes \"Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en el Distrito Federal\")",
+    "dof": "DOF26/05/1945",
+    "ultima_reforma": "DOF 19/01/2018",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf",
+    "pdf_filename": "208_190118.pdf",
+    "slug": "208_190118"
+  },
+  {
+    "numero": "303",
+    "nombre": "LEY Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+    "dof": "DOF04/11/2015",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf",
+    "pdf_filename": "LRArt6_MDR.pdf",
+    "slug": "LRArt6_MDR"
+  },
+  {
+    "numero": "304",
+    "nombre": "LEY Reglamentaria del Servicio Ferroviario",
+    "dof": "DOF12/05/1995",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf",
+    "pdf_filename": "LRSF.pdf",
+    "slug": "LRSF"
+  },
+  {
+    "numero": "305",
+    "nombre": "LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
+    "dof": "DOF27/08/1932",
+    "ultima_reforma": "DOF 09/04/2012",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf",
+    "pdf_filename": "23.pdf",
+    "slug": "23"
+  },
+  {
+    "numero": "306",
+    "nombre": "LEY Sobre el Contrato de Seguro",
+    "dof": "DOF31/08/1935",
+    "ultima_reforma": "DOF 04/04/2013",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf",
+    "pdf_filename": "211.pdf",
+    "slug": "211"
+  },
+  {
+    "numero": "307",
+    "nombre": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+    "dof": "DOF08/02/1984",
+    "ultima_reforma": "DOF 21/07/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf",
+    "pdf_filename": "LEBHN.pdf",
+    "slug": "LEBHN"
+  },
+  {
+    "numero": "308",
+    "nombre": "LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica",
+    "dof": "DOF02/09/2004",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf",
+    "pdf_filename": "271.pdf",
+    "slug": "271"
+  },
+  {
+    "numero": "309",
+    "nombre": "LEY sobre la Celebración de Tratados",
+    "dof": "DOF02/01/1992",
+    "ultima_reforma": "DOF 14/11/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSCT.pdf",
+    "pdf_filename": "LSCT.pdf",
+    "slug": "LSCT"
+  },
+  {
+    "numero": "310",
+    "nombre": "LEY sobre Refugiados, Protección Complementaria y Asilo Político (Antes \"Ley sobre Refugiados y Protección Complementaria\")",
+    "dof": "DOF27/01/2011",
+    "ultima_reforma": "DOF 18/02/2022",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf",
+    "pdf_filename": "LRPCAP.pdf",
+    "slug": "LRPCAP"
+  },
+  {
+    "numero": "311",
+    "nombre": "ORDENANZA General de la Armada",
+    "dof": "DOF01 al 08/01/1912",
+    "ultima_reforma": "DOF 19/10/2000",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/218.pdf",
+    "pdf_filename": "218.pdf",
+    "slug": "218"
+  },
+  {
+    "numero": "312",
+    "nombre": "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026",
+    "dof": "DOF21/11/2025",
+    "ultima_reforma": "Sin reforma",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+    "pdf_filename": "PEF_2026.pdf",
+    "slug": "PEF_2026"
+  },
+  {
+    "numero": "313",
+    "nombre": "REGLAMENTO de la Cámara de Diputados",
+    "dof": "DOF24/12/2010",
+    "ultima_reforma": "DOF 07/05/2025",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+    "pdf_filename": "Reg_Diputados.pdf",
+    "slug": "Reg_Diputados"
+  },
+  {
+    "numero": "314",
+    "nombre": "REGLAMENTO del Senado de la República",
+    "dof": "DOF04/06/2010",
+    "ultima_reforma": "DOF 06/12/2024",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+    "pdf_filename": "Reg_Senado.pdf",
+    "slug": "Reg_Senado"
+  },
+  {
+    "numero": "315",
+    "nombre": "REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
+    "dof": "DOF20/03/1934",
+    "ultima_reforma": "DOF 24/12/2010",
+    "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
+    "pdf_filename": "219.pdf",
+    "slug": "219"
+  }
+]

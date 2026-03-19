@@ -224,9 +224,9 @@ def main() -> None:
         print(f"Error: no se encontró el archivo '{pdf_path}'", file=sys.stderr)
         sys.exit(1)
 
-    # Output por defecto: leyes/<nombre>.md
+    # Output por defecto: markdown/<nombre>.md
     if args.output is None:
-        output_path = Path(__file__).parent.parent / "leyes" / (pdf_path.stem + ".md")
+        output_path = Path(__file__).parent.parent / "markdown" / (pdf_path.stem + ".md")
     else:
         output_path = args.output.resolve()
 

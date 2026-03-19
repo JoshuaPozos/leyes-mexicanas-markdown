@@ -1,6 +1,10 @@
 # 🇲🇽 mx-md — Leyes mexicanas en Markdown
 
-Convierte los PDFs oficiales de leyes y códigos mexicanos a **Markdown limpio y estructurado**, listo para usarse en agentes de IA, RAG, búsqueda semántica o cualquier herramienta que consuma texto.
+Las **315+ leyes federales vigentes** de México convertidas a **Markdown limpio y estructurado**, listas para usarse en agentes de IA, RAG, búsqueda semántica o cualquier herramienta que consuma texto.
+
+Fuente oficial: [Cámara de Diputados — Leyes Federales Vigentes](https://www.diputados.gob.mx/LeyesBiblio/index.htm)
+
+👉 **[Ver índice completo de leyes](INDICE.md)**
 
 ---
 
@@ -20,28 +24,26 @@ Este repo los convierte a Markdown con jerarquía clara (`##` por Título/Capít
 
 ```
 mx-md/
-├── leyes/                  # Markdowns generados (listos para usar)
-│   └── LISR.md             # Ley del Impuesto Sobre la Renta
+├── markdown/               # Markdowns generados (listos para usar)
+│   ├── CPEUM.md            # Constitución
+│   ├── LISR.md             # Ley del ISR
+│   ├── LIVA.md             # Ley del IVA
+│   └── ...                 # 315+ leyes
 ├── scripts/
-│   └── pdf_to_md.py        # Script de conversión (CLI)
-├── origen-docs/            # Coloca aquí los PDFs fuente (no versionados)
+│   ├── download_leyes.py   # Descarga todos los PDFs desde diputados.gob.mx
+│   ├── batch_convert.py    # Convierte todos los PDFs a Markdown
+│   ├── pdf_to_md.py        # Conversión individual (CLI)
+│   └── gen_indice.py       # Genera INDICE.md
+├── origen-docs/            # PDFs descargados (no versionados)
+├── catalogo.json           # Catálogo de leyes (generado automáticamente)
+├── INDICE.md               # Índice navegable de todas las leyes
 ├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## 📋 Leyes disponibles
-
-| Ley | Última reforma | Archivo |
-|-----|---------------|---------|
-| Ley del Impuesto Sobre la Renta (LISR) | 01-04-2024 | [`leyes/LISR.md`](leyes/LISR.md) |
-
-> ¿Necesitas otra ley? Descarga el PDF de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm), ponlo en `origen-docs/` y corre el script.
-
----
-
-## 🚀 Uso
+## 🚀 Uso rápido
 
 ### 1. Instalar dependencias
 
@@ -51,30 +53,40 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 2. Convertir un PDF
+### 2. Descargar todos los PDFs
 
 ```bash
-# Conversión básica (genera leyes/<nombre>.md automáticamente)
-python scripts/pdf_to_md.py origen-docs/LISR.pdf
+# Descargar las 315+ leyes (~2 GB)
+python scripts/download_leyes.py
 
-# Con título personalizado y progreso visible
-python scripts/pdf_to_md.py origen-docs/LISR.pdf \
-  --title "Ley del Impuesto Sobre la Renta (LISR)" \
-  --output leyes/LISR.md \
-  --verbose
+# Solo ver el catálogo sin descargar
+python scripts/download_leyes.py --list
 
-# Ver ayuda
-python scripts/pdf_to_md.py --help
+# Descargar solo las que faltan
+python scripts/download_leyes.py --skip-existing
+
+# Descargar solo las primeras 10 (para probar)
+python scripts/download_leyes.py --limit 10
 ```
 
-### Parámetros disponibles
+### 3. Convertir a Markdown
 
-| Parámetro | Descripción |
-|-----------|-------------|
-| `pdf` | Ruta al PDF fuente (requerido) |
-| `--output`, `-o` | Ruta de salida del `.md` |
-| `--title`, `-t` | Título H1 del documento generado |
-| `--verbose`, `-v` | Muestra progreso página a página |
+```bash
+# Convertir todos los PDFs
+python scripts/batch_convert.py
+
+# Solo los que no se han convertido
+python scripts/batch_convert.py --skip-existing
+
+# Convertir un PDF específico
+python scripts/pdf_to_md.py origen-docs/LISR.pdf --verbose
+```
+
+### 4. Regenerar el índice
+
+```bash
+python scripts/gen_indice.py
+```
 
 ---
 
@@ -99,34 +111,32 @@ Puedes chunkearlo por artículo (cada `### Artículo N` es un chunk natural), po
 
 ---
 
-## 🔧 Cómo funciona el script
+## 🔧 Cómo funciona
 
-1. **Extracción** — usa [`pdfplumber`](https://github.com/jsvine/pdfplumber) para extraer texto con alta fidelidad, respetando tolerancias de caracteres y líneas.
-2. **Limpieza** — filtra encabezados repetitivos de cada página y marcadores de paginación (`N de 313`).
-3. **Estructuración** — detecta `TÍTULO`, `CAPÍTULO`, `SECCIÓN` y `Artículo N` para asignar niveles de encabezado Markdown.
-4. **Unión de líneas** — une líneas de continuación que el PDF partió artificialmente, incluyendo palabras con guión.
+1. **Scraping** — `download_leyes.py` parsea la tabla de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm) y descarga cada PDF.
+2. **Extracción** — `pdf_to_md.py` usa [`pdfplumber`](https://github.com/jsvine/pdfplumber) para extraer texto con alta fidelidad.
+3. **Limpieza** — filtra encabezados repetitivos de cada página y marcadores de paginación (`N de 313`).
+4. **Estructuración** — detecta `TÍTULO`, `CAPÍTULO`, `SECCIÓN` y `Artículo N` para asignar niveles de encabezado Markdown.
+5. **Unión de líneas** — une líneas de continuación que el PDF partió artificialmente, incluyendo palabras con guión.
+6. **Índice** — `gen_indice.py` genera un `INDICE.md` navegable con links a cada ley disponible.
 
 ---
 
-## 📥 Fuentes de los PDFs
+## 📥 Fuentes
 
-Todos los PDFs deben descargarse directamente de fuentes oficiales:
+Todos los PDFs se descargan directamente de la fuente oficial:
 
 - **Cámara de Diputados** → [diputados.gob.mx/LeyesBiblio](https://www.diputados.gob.mx/LeyesBiblio/index.htm)
-- **DOF (Diario Oficial de la Federación)** → [dof.gob.mx](https://www.dof.gob.mx)
 
-> Los PDFs **no están versionados** en este repositorio por su tamaño y porque cambian con cada reforma. Siempre descarga la versión vigente de la fuente oficial.
+> Los PDFs **no están versionados** en este repositorio por su tamaño y porque cambian con cada reforma. El script siempre descarga la versión vigente.
 
 ---
 
 ## 🤝 Contribuir
 
-¿Quieres agregar otra ley? El flujo es simple:
-
-1. Descarga el PDF oficial y ponlo en `origen-docs/`
-2. Corre `python scripts/pdf_to_md.py origen-docs/<archivo>.pdf --verbose`
-3. Revisa que el Markdown generado sea correcto
-4. Abre un PR con el `.md` en `leyes/` y actualiza la tabla en este README
+1. Clona el repo y ejecuta los scripts de descarga/conversión
+2. Si el Markdown de alguna ley tiene errores, mejora la lógica en `pdf_to_md.py`
+3. Abre un PR con los cambios
 
 ---
 
