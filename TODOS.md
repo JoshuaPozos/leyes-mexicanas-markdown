@@ -302,8 +302,8 @@ for img in page.images:
 | 4 | "ARTÍCULO TERCERO..." sin heading | Media | ✅ Resuelto (58 archivos) |
 | 5 | Ordinales sin negritas | Media | ✅ Resuelto (77 archivos) |
 | 6 | Nombres de sección descriptivos | Baja | ⏳ Pendiente |
-| 7 | Fracciones romanas (I., II., III.) sin separar | Alta | ⏳ Pendiente |
-| 8 | Sub-incisos a), b), c) inline | Alta | ⏳ Pendiente |
+| 7 | Fracciones romanas (I., II., III.) sin separar | Alta | ✅ Resuelto (114 archivos) |
+| 8 | Sub-incisos a), b), c) inline | Alta | ✅ Resuelto (114 archivos) |
 | 9 | Tablas-imagen no extraídas del PDF | Media-Alta | ⏳ Pendiente |
 
 ---
@@ -314,3 +314,4 @@ for img in page.images:
 - Los 84 archivos existentes fueron reconvertidos con el script mejorado.
 - El issue 6 queda pendiente (requiere análisis de coordenadas del PDF).
 - Los issues 7-9 fueron documentados el 2026-03-19. Aplican a todos los archivos convertidos.
+- Los issues 7-8 fueron corregidos en `scripts/pdf_to_md.py` y los 114 archivos reconvertidos (commit `e72b398`).
