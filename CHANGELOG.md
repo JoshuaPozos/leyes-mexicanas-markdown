@@ -2,6 +2,24 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Lote 4 — Leyes 034-043] — 2026-03-18
+
+### Leyes publicadas (10)
+| No. | Clave | Ley |
+|-----|-------|-----|
+| 034 | LCJPJF | Ley de Carrera Judicial del Poder Judicial de la Federación |
+| 035 | LCE | Ley de Comercio Exterior |
+| 036 | LCM | Ley de Concursos Mercantiles |
+| 037 | LCMOPFIH | Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica |
+| 038 | LCID | Ley de Cooperación Internacional para el Desarrollo |
+| 039 | LCF | Ley de Coordinación Fiscal |
+| 040 | LDRS | Ley de Desarrollo Rural Sustentable |
+| 041 | LDSC | Ley de Desarrollo Sustentable de la Cafeticultura |
+| 042 | LDSCA | Ley de Desarrollo Sustentable de la Caña de Azúcar |
+| 043 | LDEFAGN | Ley de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional |
+
+---
+
 ## [Lote 3 — Leyes 024-033] — 2026-03-18
 
 ### Leyes publicadas (10)

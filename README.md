@@ -27,7 +27,8 @@ Este repo los convierte a Markdown con jerarquía clara (`##` por Título/Capít
 | Lote 1 | 001-013 + LISR (114) | ✅ Publicado |
 | Lote 2 | 014-023 | ✅ Publicado |
 | Lote 3 | 024-033 | ✅ Publicado |
-| Lotes 4-32 | 034-315 | ⏳ Pendiente |
+| Lote 4 | 034-043 | ✅ Publicado |
+| Lotes 5-32 | 044-315 | ⏳ Pendiente |
 
 Consulta el [CHANGELOG](CHANGELOG.md) y el [INDICE](INDICE.md) para el estado actualizado ley por ley.
 

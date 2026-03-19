@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **18/03/2026** — **34/315** leyes disponibles en Markdown (10%).
+> Última actualización: **18/03/2026** — **44/315** leyes disponibles en Markdown (13%).
 
 ---
 
@@ -40,16 +40,16 @@
 | 031 | LEY de Cámaras Empresariales y sus Confederaciones | DOF 12/04/2019 | [`LCEC_ley_de_camaras_empresariales_y_sus_confederaciones.md`](markdown/LCEC_ley_de_camaras_empresariales_y_sus_confederaciones.md) |
 | 032 | LEY de Caminos, Puentes y Autotransporte Federal | DOF 14/11/2025 | [`LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.md`](markdown/LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.md) |
 | 033 | LEY de Capitalización del Procampo | Sin reforma | [`LCP_ley_de_capitalizacion_del_procampo.md`](markdown/LCP_ley_de_capitalizacion_del_procampo.md) |
-| 034 | LEY de Carrera Judicial del Poder Judicial de la Federación | Sin reforma | — |
-| 035 | LEY de Comercio Exterior | DOF 21/12/2006 | — |
-| 036 | LEY de Concursos Mercantiles | DOF 16/01/2026 Sentencia SCJN | — |
-| 037 | LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | Sin reforma | — |
-| 038 | LEY de Cooperación Internacional para el Desarrollo | DOF 06/11/2020 | — |
-| 039 | LEY de Coordinación Fiscal | DOF 03/01/2024 | — |
-| 040 | LEY de Desarrollo Rural Sustentable | DOF 07/06/2024 | — |
-| 041 | LEY de Desarrollo Sustentable de la Cafeticultura | Sin reforma | — |
-| 042 | LEY de Desarrollo Sustentable de la Caña de Azúcar | DOF 14/11/2025 | — |
-| 043 | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | — |
+| 034 | LEY de Carrera Judicial del Poder Judicial de la Federación | Sin reforma | [`LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion.md`](markdown/LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion.md) |
+| 035 | LEY de Comercio Exterior | DOF 21/12/2006 | [`LCE_ley_de_comercio_exterior.md`](markdown/LCE_ley_de_comercio_exterior.md) |
+| 036 | LEY de Concursos Mercantiles | DOF 16/01/2026 Sentencia SCJN | [`LCM_ley_de_concursos_mercantiles.md`](markdown/LCM_ley_de_concursos_mercantiles.md) |
+| 037 | LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | Sin reforma | [`LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes.md`](markdown/LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes.md) |
+| 038 | LEY de Cooperación Internacional para el Desarrollo | DOF 06/11/2020 | [`LCID_ley_de_cooperacion_internacional_para_el_desarrollo.md`](markdown/LCID_ley_de_cooperacion_internacional_para_el_desarrollo.md) |
+| 039 | LEY de Coordinación Fiscal | DOF 03/01/2024 | [`LCF_ley_de_coordinacion_fiscal.md`](markdown/LCF_ley_de_coordinacion_fiscal.md) |
+| 040 | LEY de Desarrollo Rural Sustentable | DOF 07/06/2024 | [`LDRS_ley_de_desarrollo_rural_sustentable.md`](markdown/LDRS_ley_de_desarrollo_rural_sustentable.md) |
+| 041 | LEY de Desarrollo Sustentable de la Cafeticultura | Sin reforma | [`LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura.md`](markdown/LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura.md) |
+| 042 | LEY de Desarrollo Sustentable de la Caña de Azúcar | DOF 14/11/2025 | [`LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar.md`](markdown/LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar.md) |
+| 043 | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | [`LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l.md`](markdown/LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l.md) |
 | 044 | LEY de Disciplina Financiera de las Entidades Federativas y los Municipios | DOF 10/05/2022 | — |
 | 045 | LEY de Disciplina para el Personal de la Armada de México | Sin reforma | — |
 | 046 | LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | — |
@@ -373,16 +373,16 @@ python scripts/gen_indice.py
 | 031 | LEY de Cámaras Empresariales y sus Confederaciones | DOF 12/04/2019 | [`LCEC_ley_de_camaras_empresariales_y_sus_confederaciones.md`](markdown/LCEC_ley_de_camaras_empresariales_y_sus_confederaciones.md) |
 | 032 | LEY de Caminos, Puentes y Autotransporte Federal | DOF 14/11/2025 | [`LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.md`](markdown/LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.md) |
 | 033 | LEY de Capitalización del Procampo | Sin reforma | [`LCP_ley_de_capitalizacion_del_procampo.md`](markdown/LCP_ley_de_capitalizacion_del_procampo.md) |
-| 034 | LEY de Carrera Judicial del Poder Judicial de la Federación | Sin reforma | — |
-| 035 | LEY de Comercio Exterior | DOF 21/12/2006 | — |
-| 036 | LEY de Concursos Mercantiles | DOF 16/01/2026 Sentencia SCJN | — |
-| 037 | LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | Sin reforma | — |
-| 038 | LEY de Cooperación Internacional para el Desarrollo | DOF 06/11/2020 | — |
-| 039 | LEY de Coordinación Fiscal | DOF 03/01/2024 | — |
-| 040 | LEY de Desarrollo Rural Sustentable | DOF 07/06/2024 | — |
-| 041 | LEY de Desarrollo Sustentable de la Cafeticultura | Sin reforma | — |
-| 042 | LEY de Desarrollo Sustentable de la Caña de Azúcar | DOF 14/11/2025 | — |
-| 043 | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | — |
+| 034 | LEY de Carrera Judicial del Poder Judicial de la Federación | Sin reforma | [`LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion.md`](markdown/LCJPJF_ley_de_carrera_judicial_del_poder_judicial_de_la_federacion.md) |
+| 035 | LEY de Comercio Exterior | DOF 21/12/2006 | [`LCE_ley_de_comercio_exterior.md`](markdown/LCE_ley_de_comercio_exterior.md) |
+| 036 | LEY de Concursos Mercantiles | DOF 16/01/2026 Sentencia SCJN | [`LCM_ley_de_concursos_mercantiles.md`](markdown/LCM_ley_de_concursos_mercantiles.md) |
+| 037 | LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | Sin reforma | [`LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes.md`](markdown/LCMOPFIH_ley_de_contribucion_de_mejoras_por_obras_publicas_federales_de_infraes.md) |
+| 038 | LEY de Cooperación Internacional para el Desarrollo | DOF 06/11/2020 | [`LCID_ley_de_cooperacion_internacional_para_el_desarrollo.md`](markdown/LCID_ley_de_cooperacion_internacional_para_el_desarrollo.md) |
+| 039 | LEY de Coordinación Fiscal | DOF 03/01/2024 | [`LCF_ley_de_coordinacion_fiscal.md`](markdown/LCF_ley_de_coordinacion_fiscal.md) |
+| 040 | LEY de Desarrollo Rural Sustentable | DOF 07/06/2024 | [`LDRS_ley_de_desarrollo_rural_sustentable.md`](markdown/LDRS_ley_de_desarrollo_rural_sustentable.md) |
+| 041 | LEY de Desarrollo Sustentable de la Cafeticultura | Sin reforma | [`LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura.md`](markdown/LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura.md) |
+| 042 | LEY de Desarrollo Sustentable de la Caña de Azúcar | DOF 14/11/2025 | [`LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar.md`](markdown/LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar.md) |
+| 043 | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | [`LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l.md`](markdown/LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l.md) |
 | 044 | LEY de Disciplina Financiera de las Entidades Federativas y los Municipios | DOF 10/05/2022 | — |
 | 045 | LEY de Disciplina para el Personal de la Armada de México | Sin reforma | — |
 | 046 | LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | — |
