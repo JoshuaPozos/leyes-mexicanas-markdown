@@ -2,6 +2,28 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Lote 2 — Leyes 014-023] — 2026-03-18
+
+### Leyes publicadas (10)
+| No. | Clave | Ley |
+|-----|-------|-----|
+| 014 | LAgra | Ley Agraria |
+| 015 | LAASSP | Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público |
+| 016 | LAero | Ley de Aeropuertos |
+| 017 | LAN | Ley de Aguas Nacionales |
+| 018 | LACP | Ley de Ahorro y Crédito Popular |
+| 019 | LAmn | Ley de Amnistía (DOF 22/01/2021) |
+| 020 | LA | Ley de Amnistía (Sin reforma — versión anterior) |
+| 021 | LAmp | Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución |
+| 022 | LAAM | Ley de Ascensos de la Armada de México |
+| 023 | LAREFAGN | Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional |
+
+### Cambiado (calidad del repo)
+- `gen_indice.py` ahora incluye fecha de actualización y porcentaje de avance en el encabezado de `INDICE.md`.
+- `README.md` actualizado: sección de estructura con convención de nombres correcta, nueva sección de **Progreso** con estado de lotes.
+
+---
+
 ## [Lote 1 — Leyes 001-013 + LISR] — 2026-03-18
 
 ### Leyes publicadas (14)

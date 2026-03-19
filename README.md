@@ -20,15 +20,27 @@ Este repo los convierte a Markdown con jerarquía clara (`##` por Título/Capít
 
 ---
 
+## � Progreso
+
+| Lote | Leyes | Estado |
+|------|-------|--------|
+| Lote 1 | 001-013 + LISR (114) | ✅ Publicado |
+| Lote 2 | 014-023 | ✅ Publicado |
+| Lotes 3-32 | 024-315 | ⏳ Pendiente |
+
+Consulta el [CHANGELOG](CHANGELOG.md) y el [INDICE](INDICE.md) para el estado actualizado ley por ley.
+
+---
+
 ## 📂 Estructura del repositorio
 
 ```
 mx-md/
 ├── markdown/               # Markdowns generados (listos para usar)
-│   ├── CPEUM.md            # Constitución
-│   ├── LISR.md             # Ley del ISR
-│   ├── LIVA.md             # Ley del IVA
-│   └── ...                 # 315+ leyes
+│   ├── CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.md
+│   ├── LISR_ley_del_impuesto_sobre_la_renta.md
+│   ├── CFF_codigo_fiscal_de_la_federacion.md
+│   └── ...                 # Convención: {ABREV}_{nombre_snake_case}.md
 ├── scripts/
 │   ├── download_leyes.py   # Descarga todos los PDFs desde diputados.gob.mx
 │   ├── batch_convert.py    # Convierte todos los PDFs a Markdown
@@ -37,9 +49,17 @@ mx-md/
 ├── origen-docs/            # PDFs descargados (no versionados)
 ├── catalogo.json           # Catálogo de leyes (generado automáticamente)
 ├── INDICE.md               # Índice navegable de todas las leyes
+├── CHANGELOG.md            # Historial de lotes publicados
 ├── requirements.txt
 └── README.md
 ```
+
+### Convención de nombres
+
+Los archivos Markdown siguen el patrón `{ABREV}_{nombre_snake_case}.md`:
+
+- `ABREV` — la sigla oficial de la ley (ej. `CPEUM`, `CFF`, `LISR`). Para las pocas leyes cuyo PDF tiene nombre numérico, se deriva del nombre completo (máx. 8 letras).
+- `nombre_snake_case` — el nombre completo normalizado a ASCII y snake_case, truncado a 70 caracteres.
 
 ---
 

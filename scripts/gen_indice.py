@@ -10,6 +10,7 @@ Uso:
 
 import json
 import sys
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
@@ -28,18 +29,61 @@ def main() -> None:
 
     # Check which markdowns exist (keyed by md_slug)
     existing_mds = {p.stem for p in MARKDOWN_DIR.glob("*.md")}
+    total = len(laws)
+    done = len(existing_mds)
+    pct = done * 100 // total
+
+    today = date.today().strftime("%d/%m/%Y")
 
     lines = [
         "# 📇 Índice de Leyes Federales Vigentes",
         "",
-        f"> Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).",
-        f"> Total: **{len(laws)}** leyes catalogadas — **{len(existing_mds)}** disponibles en Markdown.",
+        f"> Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  ",
+        f"> Última actualización: **{today}** — **{done}/{total}** leyes disponibles en Markdown ({pct}%).",
         "",
         "---",
         "",
         "| No. | Ley | Última Reforma | Markdown |",
         "|----:|-----|---------------|:--------:|",
     ]
+
+    for law in laws:
+        num = law["numero"]
+        nombre = law["nombre"]
+        reforma = law["ultima_reforma"]
+        md_slug = law.get("md_slug", law.get("slug", ""))
+        has_md = md_slug in existing_mds
+
+        if has_md:
+            md_link = f"[`{md_slug}.md`](markdown/{md_slug}.md)"
+        else:
+            md_link = "—"
+
+        lines.append(f"| {num} | {nombre} | {reforma} | {md_link} |")
+
+    lines.extend([
+        "",
+        "---",
+        "",
+        "## Cómo generar los Markdowns faltantes",
+        "",
+        "```bash",
+        "# 1. Descargar los PDFs",
+        "python scripts/download_leyes.py --skip-existing",
+        "",
+        "# 2. Convertir a Markdown",
+        "python scripts/batch_convert.py --skip-existing",
+        "```",
+        "",
+        "El índice se regenera automáticamente al correr `batch_convert.py`, o manualmente con:",
+        "",
+        "```bash",
+        "python scripts/gen_indice.py",
+        "```",
+    ])
+
+    with open(INDEX_PATH, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
 
     for law in laws:
         num = law["numero"]
