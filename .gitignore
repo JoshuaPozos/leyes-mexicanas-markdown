@@ -1,0 +1,23 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PDFs fuente (pueden ser grandes; descárgalos desde diputados.gob.mx)
+origen-docs/*.pdf
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+
+# IDEs
+.vscode/settings.json
+.idea/
+*.swp
