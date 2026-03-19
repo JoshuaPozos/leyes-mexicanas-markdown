@@ -1,25 +1,25 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).
-> Total: **315** leyes catalogadas — **4** disponibles en Markdown.
+> Total: **315** leyes catalogadas — **14** disponibles en Markdown.
 
 ---
 
 | No. | Ley | Última Reforma | Markdown |
 |----:|-----|---------------|:--------:|
-| 001 | CONSTITUCIÓN Política de los Estados Unidos Mexicanos | DOF 03/03/2026 | [`CPEUM.md`](markdown/CPEUM.md) |
-| 002 | CÓDIGO Civil Federal | DOF 14/11/2025 | [`CCF.md`](markdown/CCF.md) |
-| 003 | CÓDIGO de Comercio | DOF 26/12/2025 | [`CCom.md`](markdown/CCom.md) |
-| 004 | CÓDIGO de Justicia Militar | DOF 16/07/2025 | — |
-| 005 | CÓDIGO Federal de Procedimientos Civiles | Notificación 17/06/2025 Sentencia SCJN | — |
-| 006 | CÓDIGO Fiscal de la Federación | DOF 28/12/2025 | — |
-| 007 | CÓDIGO Militar de Procedimientos Penales | DOF 14/11/2025 | — |
-| 008 | CÓDIGO Nacional de Procedimientos Civiles y Familiares | DOF 15/01/2026 | — |
-| 009 | CÓDIGO Nacional de Procedimientos Penales | DOF 28/11/2025 | — |
-| 010 | CÓDIGO Penal Federal | DOF 28/11/2025 | — |
-| 011 | ESTATUTO de Gobierno del Distrito Federal | DOF 27/06/2014 | — |
-| 012 | IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | Sin reforma | — |
-| 013 | LEY Aduanera | DOF 27/12/2025 | — |
+| 001 | CONSTITUCIÓN Política de los Estados Unidos Mexicanos | DOF 03/03/2026 | [`CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.md`](markdown/CPEUM_constitucion_politica_de_los_estados_unidos_mexicanos.md) |
+| 002 | CÓDIGO Civil Federal | DOF 14/11/2025 | [`CCF_codigo_civil_federal.md`](markdown/CCF_codigo_civil_federal.md) |
+| 003 | CÓDIGO de Comercio | DOF 26/12/2025 | [`CCom_codigo_de_comercio.md`](markdown/CCom_codigo_de_comercio.md) |
+| 004 | CÓDIGO de Justicia Militar | DOF 16/07/2025 | [`CJM_codigo_de_justicia_militar.md`](markdown/CJM_codigo_de_justicia_militar.md) |
+| 005 | CÓDIGO Federal de Procedimientos Civiles | Notificación 17/06/2025 Sentencia SCJN | [`CFPC_codigo_federal_de_procedimientos_civiles.md`](markdown/CFPC_codigo_federal_de_procedimientos_civiles.md) |
+| 006 | CÓDIGO Fiscal de la Federación | DOF 28/12/2025 | [`CFF_codigo_fiscal_de_la_federacion.md`](markdown/CFF_codigo_fiscal_de_la_federacion.md) |
+| 007 | CÓDIGO Militar de Procedimientos Penales | DOF 14/11/2025 | [`CMPP_codigo_militar_de_procedimientos_penales.md`](markdown/CMPP_codigo_militar_de_procedimientos_penales.md) |
+| 008 | CÓDIGO Nacional de Procedimientos Civiles y Familiares | DOF 15/01/2026 | [`CNPCF_codigo_nacional_de_procedimientos_civiles_y_familiares.md`](markdown/CNPCF_codigo_nacional_de_procedimientos_civiles_y_familiares.md) |
+| 009 | CÓDIGO Nacional de Procedimientos Penales | DOF 28/11/2025 | [`CNPP_codigo_nacional_de_procedimientos_penales.md`](markdown/CNPP_codigo_nacional_de_procedimientos_penales.md) |
+| 010 | CÓDIGO Penal Federal | DOF 28/11/2025 | [`CPF_codigo_penal_federal.md`](markdown/CPF_codigo_penal_federal.md) |
+| 011 | ESTATUTO de Gobierno del Distrito Federal | DOF 27/06/2014 | [`EGDF_estatuto_de_gobierno_del_distrito_federal.md`](markdown/EGDF_estatuto_de_gobierno_del_distrito_federal.md) |
+| 012 | IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos) | Sin reforma | [`ISEDIPL_impuesto_sobre_servicios_expresamente_declarados_de_interes_publico_po.md`](markdown/ISEDIPL_impuesto_sobre_servicios_expresamente_declarados_de_interes_publico_po.md) |
+| 013 | LEY Aduanera | DOF 27/12/2025 | [`LAdua_ley_aduanera.md`](markdown/LAdua_ley_aduanera.md) |
 | 014 | LEY Agraria | DOF 14/11/2025 | — |
 | 015 | LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público | Sin reforma | — |
 | 016 | LEY de Aeropuertos | DOF 14/11/2025 | — |
@@ -120,7 +120,7 @@
 | 111 | LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | DOF 18/03/2025 | — |
 | 112 | LEY del Impuesto al Valor Agregado | DOF 12/11/2021 | — |
 | 113 | LEY del Impuesto Especial sobre Producción y Servicios | DOF 22/12/2025 | — |
-| 114 | LEY del Impuesto sobre la Renta | DOF 01/04/2024 | [`LISR.md`](markdown/LISR.md) |
+| 114 | LEY del Impuesto sobre la Renta | DOF 01/04/2024 | [`LISR_ley_del_impuesto_sobre_la_renta.md`](markdown/LISR_ley_del_impuesto_sobre_la_renta.md) |
 | 115 | LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | Notificación 15/01/2026 Sentencia SCJN | — |
 | 116 | LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | DOF 15/01/2026 | — |
 | 117 | LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores | DOF 21/02/2025 | — |

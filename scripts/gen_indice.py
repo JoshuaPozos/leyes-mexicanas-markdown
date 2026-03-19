@@ -26,7 +26,7 @@ def main() -> None:
     with open(CATALOG_PATH, encoding="utf-8") as f:
         laws = json.load(f)
 
-    # Check which markdowns exist
+    # Check which markdowns exist (keyed by md_slug)
     existing_mds = {p.stem for p in MARKDOWN_DIR.glob("*.md")}
 
     lines = [
@@ -45,11 +45,11 @@ def main() -> None:
         num = law["numero"]
         nombre = law["nombre"]
         reforma = law["ultima_reforma"]
-        slug = law["slug"]
-        has_md = slug in existing_mds
+        md_slug = law.get("md_slug", law.get("slug", ""))
+        has_md = md_slug in existing_mds
 
         if has_md:
-            md_link = f"[`{slug}.md`](markdown/{slug}.md)"
+            md_link = f"[`{md_slug}.md`](markdown/{md_slug}.md)"
         else:
             md_link = "—"
 

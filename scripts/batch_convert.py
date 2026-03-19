@@ -89,12 +89,11 @@ def main() -> None:
     failed = 0
 
     for i, pdf_path in enumerate(subset, 1):
-        slug = pdf_path.stem
-        md_path = MARKDOWN_DIR / f"{slug}.md"
-
-        # Get title from catalog if available
+        # Get metadata from catalog
         info = catalog.get(pdf_path.name, {})
-        title = info.get("nombre", slug.replace("_", " ").replace("-", " "))
+        md_slug = info.get("md_slug", pdf_path.stem)
+        md_path = MARKDOWN_DIR / f"{md_slug}.md"
+        title = info.get("nombre", pdf_path.stem.replace("_", " ").replace("-", " "))
 
         label = f"[{i}/{len(subset)}] {pdf_path.name}"
 

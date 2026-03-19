@@ -2,6 +2,30 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Lote 1 — Leyes 001-013 + LISR] — 2026-03-18
+
+### Leyes publicadas (14)
+| No. | Clave | Ley |
+|-----|-------|-----|
+| 001 | CPEUM | Constitución Política de los Estados Unidos Mexicanos |
+| 002 | CCF | Código Civil Federal |
+| 003 | CCom | Código de Comercio |
+| 004 | CJM | Código de Justicia Militar |
+| 005 | CFPC | Código Federal de Procedimientos Civiles |
+| 006 | CFF | Código Fiscal de la Federación |
+| 007 | CMPP | Código Militar de Procedimientos Penales |
+| 008 | CNPCF | Código Nacional de Procedimientos Civiles y Familiares |
+| 009 | CNPP | Código Nacional de Procedimientos Penales |
+| 010 | CPF | Código Penal Federal |
+| 011 | EGDF | Estatuto de Gobierno del Distrito Federal |
+| 012 | ISEDIPL | Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley |
+| 013 | LAdua | Ley Aduanera |
+| 114 | LISR | Ley del Impuesto sobre la Renta |
+
+### Corregido
+- Convención de nombres: `{ABREV}_{nombre_en_snake_case}.md` aplicada consistently a todos los archivos.
+- `derive_acronym` ahora trunca el nombre en la primera coma o paréntesis y limita el acrónimo a 8 caracteres para evitar nombres excesivamente largos.
+
 ## [0.2.0] — 2026-03-18
 
 ### Agregado

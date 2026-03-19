@@ -11,11 +11,11 @@ Uso:
 """
 
 import argparse
-import csv
 import json
 import re
 import sys
 import time
+import unicodedata
 import urllib.request
 import urllib.error
 from html.parser import HTMLParser
@@ -108,9 +108,55 @@ def parse_law_name(raw: str) -> tuple[str, str]:
     return nombre, dof_date
 
 
-def derive_slug(pdf_filename: str) -> str:
-    """Derives a clean slug from the PDF filename for use as .md name."""
-    return Path(pdf_filename).stem
+def slugify(text: str, max_len: int = 70) -> str:
+    """Convert text to snake_case ASCII slug."""
+    text = unicodedata.normalize('NFD', text)
+    text = ''.join(c for c in text if unicodedata.category(c) != 'Mn')
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9]+', '_', text)
+    text = text.strip('_')
+    if len(text) > max_len:
+        text = text[:max_len].rstrip('_')
+    return text
+
+
+_STOP_WORDS = {
+    'de', 'del', 'la', 'las', 'los', 'el', 'en', 'y', 'e', 'o', 'u', 'a',
+    'al', 'con', 'por', 'para', 'que', 'se', 'su', 'sus', 'un', 'una',
+    'sobre', 'entre', 'ante', 'sin', 'si', 'no', 'lo',
+}
+
+def derive_acronym(nombre: str, max_len: int = 8) -> str:
+    """
+    Derives an acronym from the law's name by taking the first letter of each
+    significant word in the main clause (before the first comma or parenthesis),
+    ignoring stop words. Max max_len characters.
+    E.g. 'ESTATUTO de Gobierno del Distrito Federal' -> 'EGDF'
+         'IMPUESTO sobre Servicios Expresamente Declarados...' -> 'ISEDIP'
+    """
+    # Take only the main clause (before first comma or parenthesis)
+    main = re.split(r'[,(]', nombre)[0].strip()
+    words = re.split(r'[\s\-/]+', main)
+    letters = [
+        w[0].upper()
+        for w in words
+        if w and w.lower() not in _STOP_WORDS and w[0].isalpha()
+    ]
+    return ''.join(letters[:max_len]) or 'LEY'
+
+
+def compute_md_slug(pdf_stem: str, nombre: str, numero: str) -> str:
+    """
+    Computes a clean filename slug: {ABBREV}_{nombre_snake}.
+    Uses the PDF stem as abbreviation if it looks like an acronym (starts with a letter).
+    Otherwise derives an acronym from the law name.
+    """
+    name_slug = slugify(nombre, max_len=70)
+    if len(pdf_stem) > 0 and not pdf_stem[0].isdigit():
+        abbrev = pdf_stem
+    else:
+        abbrev = derive_acronym(nombre)
+    return f"{abbrev}_{name_slug}"
 
 
 def fetch_index() -> list[dict]:
@@ -141,8 +187,10 @@ def fetch_index() -> list[dict]:
         if not pdf_href:
             continue
 
+        pdf_filename = pdf_href.split("/")[-1]
+        pdf_stem = Path(pdf_filename).stem
         pdf_url = BASE_URL + pdf_href
-        slug = derive_slug(pdf_href.split("/")[-1])
+        md_slug = compute_md_slug(pdf_stem, nombre, numero)
 
         laws.append({
             "numero": numero,
@@ -150,8 +198,8 @@ def fetch_index() -> list[dict]:
             "dof": dof,
             "ultima_reforma": ultima_reforma,
             "pdf_url": pdf_url,
-            "pdf_filename": pdf_href.split("/")[-1],
-            "slug": slug,
+            "pdf_filename": pdf_filename,
+            "md_slug": md_slug,
         })
 
     return laws
