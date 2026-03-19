@@ -155,6 +155,143 @@ Esto debería ser:
 
 ---
 
+## 7. Fracciones con numerales romanos (I., II., III., etc.) no se formatean como lista
+
+**Prioridad:** Alta
+**Archivos afectados:** Todos (prácticamente todas las leyes usan fracciones con numerales romanos)
+**Causa raíz:** `build_markdown()` no tiene lógica para detectar fracciones romanas. Las líneas que inician con `I.`, `II.`, `XVI.`, etc. se tratan como texto de párrafo normal y se unen con la línea anterior por la lógica de unión de párrafos.
+
+**Ejemplo actual (LISR Artículo 93):**
+```markdown
+I. Las prestaciones distintas del salario que reciban los trabajadores del salario mínimo general...
+II. Por el excedente de las prestaciones exceptuadas del pago del impuesto...
+III. Las indemnizaciones por riesgos de trabajo o enfermedades...
+```
+Estas fracciones se muestran como párrafos continuos sin separación visual.
+
+**Debería ser:**
+```markdown
+
+I. Las prestaciones distintas del salario que reciban los trabajadores del salario mínimo general...
+
+II. Por el excedente de las prestaciones exceptuadas del pago del impuesto...
+
+III. Las indemnizaciones por riesgos de trabajo o enfermedades...
+```
+Cada fracción debe ser un párrafo separado, garantizando un salto de línea antes del numeral romano.
+
+**Regex propuesto para detectar fracciones:**
+```python
+FRACCION_ROMAN_RE = re.compile(
+    r'^(X{0,3}(?:IX|IV|V?I{0,3}))\.\s+'
+)
+```
+Esto matchea: `I.`, `II.`, `III.`, `IV.`, `V.`, `VI.`, ..., `XXIX.`, `XXX.`, etc.
+
+**Fix propuesto:** En `build_markdown()`, cuando una línea inicia con un numeral romano seguido de `.`, tratarla como inicio de un nuevo párrafo (flush del buffer anterior y separar con línea en blanco).
+
+---
+
+## 8. Sub-incisos a), b), c), etc. no se formatean como sub-lista
+
+**Prioridad:** Alta
+**Archivos afectados:** Todos los que contienen fracciones con incisos (muy común en leyes fiscales)
+**Causa raíz:** El script une todas las líneas en un solo párrafo. Los incisos `a)`, `b)`, `c)`, etc. que en el PDF aparecen en líneas separadas e indentadas, terminan inline dentro del mismo párrafo de la fracción.
+
+**Ejemplo actual (LISR Artículo 93 fracción XVI):**
+```markdown
+XVI. Las remuneraciones por servicios personales subordinados que perciban los extranjeros, en los siguientes casos: a) Los agentes diplomáticos. b) Los agentes consulares, en el ejercicio de sus funciones, en los casos de reciprocidad. c) Los empleados de embajadas, legaciones y consulados extranjeros...
+```
+
+**Debería ser:**
+```markdown
+XVI. Las remuneraciones por servicios personales subordinados que perciban los extranjeros, en los siguientes casos:
+
+a) Los agentes diplomáticos.
+
+b) Los agentes consulares, en el ejercicio de sus funciones, en los casos de reciprocidad.
+
+c) Los empleados de embajadas, legaciones y consulados extranjeros...
+```
+
+**PDF de referencia:** En el PDF, cada inciso (a, b, c, ...) aparece en una línea separada con indentación, como sub-lista.
+
+**Regex propuesto:**
+```python
+INCISO_RE = re.compile(r'^([a-z]\))\s+')
+```
+Matchea: `a) `, `b) `, `c) `, ..., `z) `.
+
+**Fix propuesto:** Dos niveles:
+1. **En `build_markdown()`:** Detectar líneas que inician con `a)`, `b)`, etc. y tratarlas como nuevo párrafo.
+2. **Post-proceso:** Si un inciso quedó inline (unido por la lógica de párrafos), splitear el texto en los patrones ` a) `, ` b) `, etc. y poner cada uno en su propia línea.
+
+---
+
+## 9. Tablas como imágenes en el PDF no se extraen
+
+**Prioridad:** Media-Alta
+**Archivos afectados:** LISR (Artículo 96 — TARIFA MENSUAL), y potencialmente más leyes con tablas fiscales
+**Causa raíz:** Algunas tablas en los PDFs están embebidas como imágenes (no como texto/vectores). `pdfplumber.extract_text()` no puede leer texto de imágenes, y `page.extract_tables()` devuelve 0 tablas para estas páginas.
+
+**Ejemplo (LISR Artículo 96):**
+
+El PDF muestra una "TARIFA MENSUAL" con columnas: Límite inferior, Límite superior, Cuota fija, % sobre excedente. En el markdown generado, la tabla simplemente desaparece:
+```markdown
+La retención se calculará aplicando a la totalidad de los ingresos obtenidos en un mes de calendario, la siguiente:
+Quienes hagan pagos por concepto de gratificación anual...
+```
+Debería haber una tabla markdown entre "la siguiente:" y "Quienes hagan pagos...".
+
+**Diagnóstico técnico:**
+- Página 130 del LISR.pdf tiene 2 imágenes: logo (56×53px) y tabla (390×292px)
+- `page.extract_tables()` retorna `[]` (0 tablas)
+- `page.images[1]` es la tabla: `x0=111, y0=247.5, x1=501, y1=539.9`
+- La tabla contiene datos numéricos fiscales que no se pueden reconstruir sin OCR
+
+**Opciones de solución (de menos a más compleja):**
+
+### Opción A: Placeholder (mínimo esfuerzo)
+Detectar imágenes grandes en la página y agregar un placeholder:
+```markdown
+<!-- TABLA: imagen no extraíble (ver PDF original, página 130) -->
+```
+**Pro:** Simple, no requiere dependencias extra.
+**Contra:** No incluye los datos.
+
+### Opción B: OCR con pytesseract (mejor resultado)
+1. Detectar imágenes grandes en cada página (ancho > 200px y alto > 100px → probable tabla)
+2. Extraer la imagen del PDF con `page.crop().to_image().original`
+3. Aplicar OCR con `pytesseract.image_to_string()` o `pytesseract.image_to_data()`
+4. Parsear el resultado del OCR a tabla markdown
+
+**Dependencias extra:** `pytesseract`, `Pillow`, Tesseract-OCR instalado en el sistema (`brew install tesseract` + `tesseract-ocr-spa` para idioma español).
+
+```python
+# Pseudocódigo
+from PIL import Image
+import pytesseract
+
+for img in page.images:
+    if (img['x1'] - img['x0']) > 200 and (img['bottom'] - img['top']) > 100:
+        cropped = page.crop((img['x0'], img['top'], img['x1'], img['bottom']))
+        pil_img = cropped.to_image(resolution=300).original
+        text = pytesseract.image_to_string(pil_img, lang='spa')
+        # Parsear a tabla markdown...
+```
+
+**Pro:** Automatizado, extrae la tabla real.
+**Contra:** Requiere Tesseract instalado, OCR puede tener errores en números.
+
+### Opción C: Híbrida (recomendada)
+1. Intentar `page.extract_tables()` primero (para tablas basadas en texto/vectores)
+2. Si no hay tablas pero hay imágenes grandes, intentar OCR si `pytesseract` está disponible
+3. Si OCR no disponible, insertar placeholder con número de página
+
+**Fix propuesto:** Implementar Opción C como la más robusta.
+
+---
+
 ## Resumen de prioridades
 
 | # | Issue | Prioridad | Estado |
@@ -165,6 +302,9 @@ Esto debería ser:
 | 4 | "ARTÍCULO TERCERO..." sin heading | Media | ✅ Resuelto (58 archivos) |
 | 5 | Ordinales sin negritas | Media | ✅ Resuelto (77 archivos) |
 | 6 | Nombres de sección descriptivos | Baja | ⏳ Pendiente |
+| 7 | Fracciones romanas (I., II., III.) sin separar | Alta | ⏳ Pendiente |
+| 8 | Sub-incisos a), b), c) inline | Alta | ⏳ Pendiente |
+| 9 | Tablas-imagen no extraídas del PDF | Media-Alta | ⏳ Pendiente |
 
 ---
 
@@ -173,3 +313,4 @@ Esto debería ser:
 - Los issues 1-5 fueron corregidos en `scripts/pdf_to_md.py` el 2026-03-19.
 - Los 84 archivos existentes fueron reconvertidos con el script mejorado.
 - El issue 6 queda pendiente (requiere análisis de coordenadas del PDF).
+- Los issues 7-9 fueron documentados el 2026-03-19. Aplican a todos los archivos convertidos.
