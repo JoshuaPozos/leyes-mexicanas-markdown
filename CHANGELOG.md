@@ -2,6 +2,27 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Lote 3 — Leyes 024-033] — 2026-03-18
+
+### Leyes publicadas (10)
+| No. | Clave | Ley |
+|-----|-------|-----|
+| 024 | LASoc | Ley de Asistencia Social |
+| 025 | LAPP | Ley de Asociaciones Público Privadas |
+| 026 | LARCP | Ley de Asociaciones Religiosas y Culto Público |
+| 027 | LAC | Ley de Aviación Civil |
+| 028 | LAAT | Ley de Ayuda Alimentaria para los Trabajadores |
+| 029 | LBio | Ley de Biocombustibles |
+| 030 | LBOGM | Ley de Bioseguridad de Organismos Genéticamente Modificados |
+| 031 | LCEC | Ley de Cámaras Empresariales y sus Confederaciones |
+| 032 | LCPAF | Ley de Caminos, Puentes y Autotransporte Federal |
+| 033 | LCP | Ley de Capitalización del PROCAMPO |
+
+### Corregido (calidad)
+- `compute_md_slug` ahora elimina sufijos numéricos de fecha en nombres de PDF (ej. `LCEC_120419` → `LCEC`). Afecta a ~34 leyes del catálogo completo.
+
+---
+
 ## [Lote 2 — Leyes 014-023] — 2026-03-18
 
 ### Leyes publicadas (10)

@@ -276,7 +276,7 @@
     "ultima_reforma": "DOF 12/04/2019",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf",
     "pdf_filename": "LCEC_120419.pdf",
-    "md_slug": "LCEC_120419_ley_de_camaras_empresariales_y_sus_confederaciones"
+    "md_slug": "LCEC_ley_de_camaras_empresariales_y_sus_confederaciones"
   },
   {
     "numero": "032",
@@ -339,7 +339,7 @@
     "ultima_reforma": "DOF 06/11/2020",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf",
     "pdf_filename": "LCID_061120.pdf",
-    "md_slug": "LCID_061120_ley_de_cooperacion_internacional_para_el_desarrollo"
+    "md_slug": "LCID_ley_de_cooperacion_internacional_para_el_desarrollo"
   },
   {
     "numero": "039",
@@ -465,7 +465,7 @@
     "ultima_reforma": "DOF 20/05/2021",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF_200521.pdf",
     "pdf_filename": "LFRCF_200521.pdf",
-    "md_slug": "LFRCF_200521_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion"
+    "md_slug": "LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion"
   },
   {
     "numero": "053",
@@ -474,7 +474,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf",
     "pdf_filename": "LFCC_200120.pdf",
-    "md_slug": "LFCC_200120_ley_de_fomento_a_la_confianza_ciudadana"
+    "md_slug": "LFCC_ley_de_fomento_a_la_confianza_ciudadana"
   },
   {
     "numero": "054",
@@ -483,7 +483,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf",
     "pdf_filename": "LFIV_230518.pdf",
-    "md_slug": "LFIV_230518_ley_de_fomento_a_la_industria_vitivinicola"
+    "md_slug": "LFIV_ley_de_fomento_a_la_industria_vitivinicola"
   },
   {
     "numero": "055",
@@ -528,7 +528,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf",
     "pdf_filename": "LICal_010720.pdf",
-    "md_slug": "LICal_010720_ley_de_infraestructura_de_la_calidad"
+    "md_slug": "LICal_ley_de_infraestructura_de_la_calidad"
   },
   {
     "numero": "060",
@@ -537,7 +537,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
     "pdf_filename": "LIF_2026.pdf",
-    "md_slug": "LIF_2026_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026"
+    "md_slug": "LIF_ley_de_ingresos_de_la_federacion_para_el_ejercicio_fiscal_de_2026"
   },
   {
     "numero": "061",
@@ -699,7 +699,7 @@
     "ultima_reforma": "DOF 31/12/2025",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
     "pdf_filename": "LIGIE_2022.pdf",
-    "md_slug": "LIGIE_2022_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion"
+    "md_slug": "LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion"
   },
   {
     "numero": "079",
@@ -879,7 +879,7 @@
     "ultima_reforma": "DOF 30/05/2019 Sentencia SCJN",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf",
     "pdf_filename": "LSInt_300519.pdf",
-    "md_slug": "LSInt_300519_ley_de_seguridad_interior"
+    "md_slug": "LSInt_ley_de_seguridad_interior"
   },
   {
     "numero": "099",
@@ -1257,7 +1257,7 @@
     "ultima_reforma": "DOF 19/05/2021",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf",
     "pdf_filename": "LFCPo_190521.pdf",
-    "md_slug": "LFCPo_190521_ley_federal_de_consulta_popular"
+    "md_slug": "LFCPo_ley_federal_de_consulta_popular"
   },
   {
     "numero": "141",
@@ -1383,7 +1383,7 @@
     "ultima_reforma": "DOF 11/05/2018",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf",
     "pdf_filename": "LFPCCS_110518.pdf",
-    "md_slug": "LFPCCS_110518_ley_federal_de_produccion_certificacion_y_comercio_de_semillas"
+    "md_slug": "LFPCCS_ley_federal_de_produccion_certificacion_y_comercio_de_semillas"
   },
   {
     "numero": "155",
@@ -1428,7 +1428,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf",
     "pdf_filename": "LFRemSP_190521.pdf",
-    "md_slug": "LFRemSP_190521_ley_federal_de_remuneraciones_de_los_servidores_publicos"
+    "md_slug": "LFRemSP_ley_federal_de_remuneraciones_de_los_servidores_publicos"
   },
   {
     "numero": "160",
@@ -1581,7 +1581,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFPMN_130420.pdf",
     "pdf_filename": "LFFPMN_130420.pdf",
-    "md_slug": "LFFPMN_130420_ley_federal_para_el_fomento_y_proteccion_del_maiz_nativo"
+    "md_slug": "LFFPMN_ley_federal_para_el_fomento_y_proteccion_del_maiz_nativo"
   },
   {
     "numero": "177",
@@ -1608,7 +1608,7 @@
     "ultima_reforma": "DOF 20/05/2021",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf",
     "pdf_filename": "LFPPIPP_200521.pdf",
-    "md_slug": "LFPPIPP_200521_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced"
+    "md_slug": "LFPPIPP_ley_federal_para_la_proteccion_a_personas_que_intervienen_en_el_proced"
   },
   {
     "numero": "180",
@@ -1788,7 +1788,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
     "pdf_filename": "LGES_200421.pdf",
-    "md_slug": "LGES_200421_ley_general_de_educacion_superior"
+    "md_slug": "LGES_ley_general_de_educacion_superior"
   },
   {
     "numero": "200",
@@ -2013,7 +2013,7 @@
     "ultima_reforma": "DOF 20/05/2021",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf",
     "pdf_filename": "LGSNA_200521.pdf",
-    "md_slug": "LGSNA_200521_ley_general_del_sistema_nacional_anticorrupcion"
+    "md_slug": "LGSNA_ley_general_del_sistema_nacional_anticorrupcion"
   },
   {
     "numero": "225",
@@ -2031,7 +2031,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf",
     "pdf_filename": "LGSCMM_300919.pdf",
-    "md_slug": "LGSCMM_300919_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros"
+    "md_slug": "LGSCMM_ley_general_del_sistema_para_la_carrera_de_las_maestras_y_los_maestros"
   },
   {
     "numero": "227",
@@ -2040,7 +2040,7 @@
     "ultima_reforma": "DOF 20/05/2021",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf",
     "pdf_filename": "LGMDE_200521.pdf",
-    "md_slug": "LGMDE_200521_ley_general_en_materia_de_delitos_electorales"
+    "md_slug": "LGMDE_ley_general_en_materia_de_delitos_electorales"
   },
   {
     "numero": "228",
@@ -2076,7 +2076,7 @@
     "ultima_reforma": "DOF 27/05/2016",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf",
     "pdf_filename": "LGAPPCEA_270516.pdf",
-    "md_slug": "LGAPPCEA_270516_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion"
+    "md_slug": "LGAPPCEA_ley_general_para_la_atencion_y_proteccion_a_personas_con_la_condicion"
   },
   {
     "numero": "232",
@@ -2085,7 +2085,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
     "pdf_filename": "LGDOCIA_070121.pdf",
-    "md_slug": "LGDOCIA_070121_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la"
+    "md_slug": "LGDOCIA_ley_general_para_la_deteccion_oportuna_del_cancer_en_la_infancia_y_la"
   },
   {
     "numero": "233",
@@ -2112,7 +2112,7 @@
     "ultima_reforma": "DOF 04/05/2021",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf",
     "pdf_filename": "LGPSVD_040521.pdf",
-    "md_slug": "LGPSVD_040521_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci"
+    "md_slug": "LGPSVD_ley_general_para_la_prevencion_social_de_la_violencia_y_la_delincuenci"
   },
   {
     "numero": "236",
@@ -2157,7 +2157,7 @@
     "ultima_reforma": "DOF 20/05/2021",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_200521.pdf",
     "pdf_filename": "LGPSDMS_200521.pdf",
-    "md_slug": "LGPSDMS_200521_ley_general_para_prevenir_y_sancionar_los_delitos_en_materia_de_secues"
+    "md_slug": "LGPSDMS_ley_general_para_prevenir_y_sancionar_los_delitos_en_materia_de_secues"
   },
   {
     "numero": "241",
@@ -2202,7 +2202,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf",
     "pdf_filename": "LNRD_270519.pdf",
-    "md_slug": "LNRD_270519_ley_nacional_del_registro_de_detenciones"
+    "md_slug": "LNRD_ley_nacional_del_registro_de_detenciones"
   },
   {
     "numero": "246",
@@ -2364,7 +2364,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
     "pdf_filename": "LOCFCRL_060120.pdf",
-    "md_slug": "LOCFCRL_060120_ley_organica_del_centro_federal_de_conciliacion_y_registro_laboral"
+    "md_slug": "LOCFCRL_ley_organica_del_centro_federal_de_conciliacion_y_registro_laboral"
   },
   {
     "numero": "264",
@@ -2445,7 +2445,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf",
     "pdf_filename": "LDVUMA_301216.pdf",
-    "md_slug": "LDVUMA_301216_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion"
+    "md_slug": "LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion"
   },
   {
     "numero": "273",
@@ -2706,7 +2706,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
     "pdf_filename": "LRArt3_MMCE_300919.pdf",
-    "md_slug": "LRArt3_MMCE_300919_ley_reglamentaria_del_articulo_3o_de_la_constitucion_politica_de_los_e"
+    "md_slug": "LRArt3_MMCE_ley_reglamentaria_del_articulo_3o_de_la_constitucion_politica_de_los_e"
   },
   {
     "numero": "302",
@@ -2805,7 +2805,7 @@
     "ultima_reforma": "Sin reforma",
     "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
     "pdf_filename": "PEF_2026.pdf",
-    "md_slug": "PEF_2026_presupuesto_de_egresos_de_la_federacion_para_el_ejercicio_fiscal_2026"
+    "md_slug": "PEF_presupuesto_de_egresos_de_la_federacion_para_el_ejercicio_fiscal_2026"
   },
   {
     "numero": "313",

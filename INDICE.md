@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **18/03/2026** — **24/315** leyes disponibles en Markdown (7%).
+> Última actualización: **18/03/2026** — **34/315** leyes disponibles en Markdown (10%).
 
 ---
 
@@ -30,16 +30,16 @@
 | 021 | LEY de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | DOF 16/10/2025 | [`LAmp_ley_de_amparo_reglamentaria_de_los_articulos_103_y_107_de_la_constituc.md`](markdown/LAmp_ley_de_amparo_reglamentaria_de_los_articulos_103_y_107_de_la_constituc.md) |
 | 022 | LEY de Ascensos de la Armada de México | DOF 17/12/2025 | [`LAAM_ley_de_ascensos_de_la_armada_de_mexico.md`](markdown/LAAM_ley_de_ascensos_de_la_armada_de_mexico.md) |
 | 023 | LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | [`LAREFAGN_ley_de_ascensos_y_recompensas_del_ejercito_fuerza_aerea_y_guardia_naci.md`](markdown/LAREFAGN_ley_de_ascensos_y_recompensas_del_ejercito_fuerza_aerea_y_guardia_naci.md) |
-| 024 | LEY de Asistencia Social | DOF 01/04/2024 | — |
-| 025 | LEY de Asociaciones Público Privadas | DOF 14/11/2025 | — |
-| 026 | LEY de Asociaciones Religiosas y Culto Público | DOF 14/11/2025 | — |
-| 027 | LEY de Aviación Civil | DOF 14/11/2025 | — |
-| 028 | LEY de Ayuda Alimentaria para los Trabajadores | Sin reforma | — |
-| 029 | LEY de Biocombustibles | Sin reforma | — |
-| 030 | LEY de Bioseguridad de Organismos Genéticamente Modificados | DOF 11/05/2022 | — |
-| 031 | LEY de Cámaras Empresariales y sus Confederaciones | DOF 12/04/2019 | — |
-| 032 | LEY de Caminos, Puentes y Autotransporte Federal | DOF 14/11/2025 | — |
-| 033 | LEY de Capitalización del Procampo | Sin reforma | — |
+| 024 | LEY de Asistencia Social | DOF 01/04/2024 | [`LASoc_ley_de_asistencia_social.md`](markdown/LASoc_ley_de_asistencia_social.md) |
+| 025 | LEY de Asociaciones Público Privadas | DOF 14/11/2025 | [`LAPP_ley_de_asociaciones_publico_privadas.md`](markdown/LAPP_ley_de_asociaciones_publico_privadas.md) |
+| 026 | LEY de Asociaciones Religiosas y Culto Público | DOF 14/11/2025 | [`LARCP_ley_de_asociaciones_religiosas_y_culto_publico.md`](markdown/LARCP_ley_de_asociaciones_religiosas_y_culto_publico.md) |
+| 027 | LEY de Aviación Civil | DOF 14/11/2025 | [`LAC_ley_de_aviacion_civil.md`](markdown/LAC_ley_de_aviacion_civil.md) |
+| 028 | LEY de Ayuda Alimentaria para los Trabajadores | Sin reforma | [`LAAT_ley_de_ayuda_alimentaria_para_los_trabajadores.md`](markdown/LAAT_ley_de_ayuda_alimentaria_para_los_trabajadores.md) |
+| 029 | LEY de Biocombustibles | Sin reforma | [`LBio_ley_de_biocombustibles.md`](markdown/LBio_ley_de_biocombustibles.md) |
+| 030 | LEY de Bioseguridad de Organismos Genéticamente Modificados | DOF 11/05/2022 | [`LBOGM_ley_de_bioseguridad_de_organismos_geneticamente_modificados.md`](markdown/LBOGM_ley_de_bioseguridad_de_organismos_geneticamente_modificados.md) |
+| 031 | LEY de Cámaras Empresariales y sus Confederaciones | DOF 12/04/2019 | [`LCEC_ley_de_camaras_empresariales_y_sus_confederaciones.md`](markdown/LCEC_ley_de_camaras_empresariales_y_sus_confederaciones.md) |
+| 032 | LEY de Caminos, Puentes y Autotransporte Federal | DOF 14/11/2025 | [`LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.md`](markdown/LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.md) |
+| 033 | LEY de Capitalización del Procampo | Sin reforma | [`LCP_ley_de_capitalizacion_del_procampo.md`](markdown/LCP_ley_de_capitalizacion_del_procampo.md) |
 | 034 | LEY de Carrera Judicial del Poder Judicial de la Federación | Sin reforma | — |
 | 035 | LEY de Comercio Exterior | DOF 21/12/2006 | — |
 | 036 | LEY de Concursos Mercantiles | DOF 16/01/2026 Sentencia SCJN | — |
@@ -363,16 +363,16 @@ python scripts/gen_indice.py
 | 021 | LEY de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos | DOF 16/10/2025 | [`LAmp_ley_de_amparo_reglamentaria_de_los_articulos_103_y_107_de_la_constituc.md`](markdown/LAmp_ley_de_amparo_reglamentaria_de_los_articulos_103_y_107_de_la_constituc.md) |
 | 022 | LEY de Ascensos de la Armada de México | DOF 17/12/2025 | [`LAAM_ley_de_ascensos_de_la_armada_de_mexico.md`](markdown/LAAM_ley_de_ascensos_de_la_armada_de_mexico.md) |
 | 023 | LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | [`LAREFAGN_ley_de_ascensos_y_recompensas_del_ejercito_fuerza_aerea_y_guardia_naci.md`](markdown/LAREFAGN_ley_de_ascensos_y_recompensas_del_ejercito_fuerza_aerea_y_guardia_naci.md) |
-| 024 | LEY de Asistencia Social | DOF 01/04/2024 | — |
-| 025 | LEY de Asociaciones Público Privadas | DOF 14/11/2025 | — |
-| 026 | LEY de Asociaciones Religiosas y Culto Público | DOF 14/11/2025 | — |
-| 027 | LEY de Aviación Civil | DOF 14/11/2025 | — |
-| 028 | LEY de Ayuda Alimentaria para los Trabajadores | Sin reforma | — |
-| 029 | LEY de Biocombustibles | Sin reforma | — |
-| 030 | LEY de Bioseguridad de Organismos Genéticamente Modificados | DOF 11/05/2022 | — |
-| 031 | LEY de Cámaras Empresariales y sus Confederaciones | DOF 12/04/2019 | — |
-| 032 | LEY de Caminos, Puentes y Autotransporte Federal | DOF 14/11/2025 | — |
-| 033 | LEY de Capitalización del Procampo | Sin reforma | — |
+| 024 | LEY de Asistencia Social | DOF 01/04/2024 | [`LASoc_ley_de_asistencia_social.md`](markdown/LASoc_ley_de_asistencia_social.md) |
+| 025 | LEY de Asociaciones Público Privadas | DOF 14/11/2025 | [`LAPP_ley_de_asociaciones_publico_privadas.md`](markdown/LAPP_ley_de_asociaciones_publico_privadas.md) |
+| 026 | LEY de Asociaciones Religiosas y Culto Público | DOF 14/11/2025 | [`LARCP_ley_de_asociaciones_religiosas_y_culto_publico.md`](markdown/LARCP_ley_de_asociaciones_religiosas_y_culto_publico.md) |
+| 027 | LEY de Aviación Civil | DOF 14/11/2025 | [`LAC_ley_de_aviacion_civil.md`](markdown/LAC_ley_de_aviacion_civil.md) |
+| 028 | LEY de Ayuda Alimentaria para los Trabajadores | Sin reforma | [`LAAT_ley_de_ayuda_alimentaria_para_los_trabajadores.md`](markdown/LAAT_ley_de_ayuda_alimentaria_para_los_trabajadores.md) |
+| 029 | LEY de Biocombustibles | Sin reforma | [`LBio_ley_de_biocombustibles.md`](markdown/LBio_ley_de_biocombustibles.md) |
+| 030 | LEY de Bioseguridad de Organismos Genéticamente Modificados | DOF 11/05/2022 | [`LBOGM_ley_de_bioseguridad_de_organismos_geneticamente_modificados.md`](markdown/LBOGM_ley_de_bioseguridad_de_organismos_geneticamente_modificados.md) |
+| 031 | LEY de Cámaras Empresariales y sus Confederaciones | DOF 12/04/2019 | [`LCEC_ley_de_camaras_empresariales_y_sus_confederaciones.md`](markdown/LCEC_ley_de_camaras_empresariales_y_sus_confederaciones.md) |
+| 032 | LEY de Caminos, Puentes y Autotransporte Federal | DOF 14/11/2025 | [`LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.md`](markdown/LCPAF_ley_de_caminos_puentes_y_autotransporte_federal.md) |
+| 033 | LEY de Capitalización del Procampo | Sin reforma | [`LCP_ley_de_capitalizacion_del_procampo.md`](markdown/LCP_ley_de_capitalizacion_del_procampo.md) |
 | 034 | LEY de Carrera Judicial del Poder Judicial de la Federación | Sin reforma | — |
 | 035 | LEY de Comercio Exterior | DOF 21/12/2006 | — |
 | 036 | LEY de Concursos Mercantiles | DOF 16/01/2026 Sentencia SCJN | — |

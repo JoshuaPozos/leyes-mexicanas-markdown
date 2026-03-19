@@ -148,12 +148,14 @@ def derive_acronym(nombre: str, max_len: int = 8) -> str:
 def compute_md_slug(pdf_stem: str, nombre: str, numero: str) -> str:
     """
     Computes a clean filename slug: {ABBREV}_{nombre_snake}.
-    Uses the PDF stem as abbreviation if it looks like an acronym (starts with a letter).
+    Uses the PDF stem as abbreviation if it looks like an acronym (starts with a letter),
+    stripping any trailing date/version suffix (e.g. LCEC_120419 → LCEC).
     Otherwise derives an acronym from the law name.
     """
     name_slug = slugify(nombre, max_len=70)
     if len(pdf_stem) > 0 and not pdf_stem[0].isdigit():
-        abbrev = pdf_stem
+        # Strip trailing numeric suffix (e.g. _120419, _270614)
+        abbrev = re.sub(r'_\d+$', '', pdf_stem)
     else:
         abbrev = derive_acronym(nombre)
     return f"{abbrev}_{name_slug}"
