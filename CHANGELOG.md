@@ -2,6 +2,26 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Lote 8 — Leyes 074-083] — 2026-03-18
+
+### Leyes publicadas (10)
+| No. | Clave | Ley |
+|-----|-------|-----|
+| 074 | LGN | Ley de la Guardia Nacional |
+| 075 | LPF | Ley de la Policía Federal |
+| 076 | LDPAM | Ley de los Derechos de las Personas Adultas Mayores |
+| 077 | LHHEUM | Ley de los Husos Horarios en los Estados Unidos Mexicanos |
+| 078 | LIGIE | Ley de los Impuestos Generales de Importación y de Exportación |
+| 079 | LINS | Ley de los Institutos Nacionales de Salud |
+| 080 | LSAR | Ley de los Sistemas de Ahorro para el Retiro |
+| 081 | LMigra | Ley de Migración |
+| 082 | LMin | Ley de Minería |
+| 083 | LN | Ley de Nacionalidad |
+
+> A partir del lote 9 los lotes son de 15 leyes.
+
+---
+
 ## [Lote 7 — Leyes 064-073] — 2026-03-18
 
 ### Leyes publicadas (10)

@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **18/03/2026** — **74/315** leyes disponibles en Markdown (23%).
+> Última actualización: **18/03/2026** — **84/315** leyes disponibles en Markdown (26%).
 
 ---
 
@@ -80,16 +80,16 @@
 | 071 | LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad | Sin reforma | [`LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad.md`](markdown/LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad.md) |
 | 072 | LEY de la Empresa Pública del Estado, Petróleos Mexicanos | Sin reforma | [`LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos.md`](markdown/LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos.md) |
 | 073 | LEY de la Fiscalía General de la República | DOF 14/11/2025 | [`LFGR_ley_de_la_fiscalia_general_de_la_republica.md`](markdown/LFGR_ley_de_la_fiscalia_general_de_la_republica.md) |
-| 074 | LEY de la Guardia Nacional | Sin reforma | — |
-| 075 | LEY de la Policía Federal | DOF 14/11/2025 | — |
-| 076 | LEY de los Derechos de las Personas Adultas Mayores | DOF 14/06/2024 | — |
-| 077 | LEY de los Husos Horarios en los Estados Unidos Mexicanos | DOF 29/11/2022 | — |
-| 078 | LEY de los Impuestos Generales de Importación y de Exportación | DOF 31/12/2025 | — |
-| 079 | LEY de los Institutos Nacionales de Salud | DOF 11/05/2022 | — |
-| 080 | LEY de los Sistemas de Ahorro para el Retiro | DOF 14/11/2025 | — |
-| 081 | LEY de Migración | DOF 15/01/2026 | — |
-| 082 | LEY de Minería (Antes "Ley Minera") | DOF 08/05/2023 | — |
-| 083 | LEY de Nacionalidad | DOF 23/04/2012 | — |
+| 074 | LEY de la Guardia Nacional | Sin reforma | [`LGN_ley_de_la_guardia_nacional.md`](markdown/LGN_ley_de_la_guardia_nacional.md) |
+| 075 | LEY de la Policía Federal | DOF 14/11/2025 | [`LPF_ley_de_la_policia_federal.md`](markdown/LPF_ley_de_la_policia_federal.md) |
+| 076 | LEY de los Derechos de las Personas Adultas Mayores | DOF 14/06/2024 | [`LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores.md`](markdown/LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores.md) |
+| 077 | LEY de los Husos Horarios en los Estados Unidos Mexicanos | DOF 29/11/2022 | [`LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos.md`](markdown/LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos.md) |
+| 078 | LEY de los Impuestos Generales de Importación y de Exportación | DOF 31/12/2025 | [`LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion.md`](markdown/LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion.md) |
+| 079 | LEY de los Institutos Nacionales de Salud | DOF 11/05/2022 | [`LINS_ley_de_los_institutos_nacionales_de_salud.md`](markdown/LINS_ley_de_los_institutos_nacionales_de_salud.md) |
+| 080 | LEY de los Sistemas de Ahorro para el Retiro | DOF 14/11/2025 | [`LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro.md`](markdown/LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro.md) |
+| 081 | LEY de Migración | DOF 15/01/2026 | [`LMigra_ley_de_migracion.md`](markdown/LMigra_ley_de_migracion.md) |
+| 082 | LEY de Minería (Antes "Ley Minera") | DOF 08/05/2023 | [`LMin_ley_de_mineria_antes_ley_minera.md`](markdown/LMin_ley_de_mineria_antes_ley_minera.md) |
+| 083 | LEY de Nacionalidad | DOF 23/04/2012 | [`LN_ley_de_nacionalidad.md`](markdown/LN_ley_de_nacionalidad.md) |
 | 084 | LEY de Navegación y Comercio Marítimos | DOF 14/11/2025 | — |
 | 085 | LEY de Obras Públicas y Servicios Relacionados con las Mismas | DOF 14/11/2025 | — |
 | 086 | LEY de Organizaciones Ganaderas | DOF 09/04/2012 | — |
@@ -413,16 +413,16 @@ python scripts/gen_indice.py
 | 071 | LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad | Sin reforma | [`LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad.md`](markdown/LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad.md) |
 | 072 | LEY de la Empresa Pública del Estado, Petróleos Mexicanos | Sin reforma | [`LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos.md`](markdown/LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos.md) |
 | 073 | LEY de la Fiscalía General de la República | DOF 14/11/2025 | [`LFGR_ley_de_la_fiscalia_general_de_la_republica.md`](markdown/LFGR_ley_de_la_fiscalia_general_de_la_republica.md) |
-| 074 | LEY de la Guardia Nacional | Sin reforma | — |
-| 075 | LEY de la Policía Federal | DOF 14/11/2025 | — |
-| 076 | LEY de los Derechos de las Personas Adultas Mayores | DOF 14/06/2024 | — |
-| 077 | LEY de los Husos Horarios en los Estados Unidos Mexicanos | DOF 29/11/2022 | — |
-| 078 | LEY de los Impuestos Generales de Importación y de Exportación | DOF 31/12/2025 | — |
-| 079 | LEY de los Institutos Nacionales de Salud | DOF 11/05/2022 | — |
-| 080 | LEY de los Sistemas de Ahorro para el Retiro | DOF 14/11/2025 | — |
-| 081 | LEY de Migración | DOF 15/01/2026 | — |
-| 082 | LEY de Minería (Antes "Ley Minera") | DOF 08/05/2023 | — |
-| 083 | LEY de Nacionalidad | DOF 23/04/2012 | — |
+| 074 | LEY de la Guardia Nacional | Sin reforma | [`LGN_ley_de_la_guardia_nacional.md`](markdown/LGN_ley_de_la_guardia_nacional.md) |
+| 075 | LEY de la Policía Federal | DOF 14/11/2025 | [`LPF_ley_de_la_policia_federal.md`](markdown/LPF_ley_de_la_policia_federal.md) |
+| 076 | LEY de los Derechos de las Personas Adultas Mayores | DOF 14/06/2024 | [`LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores.md`](markdown/LDPAM_ley_de_los_derechos_de_las_personas_adultas_mayores.md) |
+| 077 | LEY de los Husos Horarios en los Estados Unidos Mexicanos | DOF 29/11/2022 | [`LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos.md`](markdown/LHHEUM_ley_de_los_husos_horarios_en_los_estados_unidos_mexicanos.md) |
+| 078 | LEY de los Impuestos Generales de Importación y de Exportación | DOF 31/12/2025 | [`LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion.md`](markdown/LIGIE_ley_de_los_impuestos_generales_de_importacion_y_de_exportacion.md) |
+| 079 | LEY de los Institutos Nacionales de Salud | DOF 11/05/2022 | [`LINS_ley_de_los_institutos_nacionales_de_salud.md`](markdown/LINS_ley_de_los_institutos_nacionales_de_salud.md) |
+| 080 | LEY de los Sistemas de Ahorro para el Retiro | DOF 14/11/2025 | [`LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro.md`](markdown/LSAR_ley_de_los_sistemas_de_ahorro_para_el_retiro.md) |
+| 081 | LEY de Migración | DOF 15/01/2026 | [`LMigra_ley_de_migracion.md`](markdown/LMigra_ley_de_migracion.md) |
+| 082 | LEY de Minería (Antes "Ley Minera") | DOF 08/05/2023 | [`LMin_ley_de_mineria_antes_ley_minera.md`](markdown/LMin_ley_de_mineria_antes_ley_minera.md) |
+| 083 | LEY de Nacionalidad | DOF 23/04/2012 | [`LN_ley_de_nacionalidad.md`](markdown/LN_ley_de_nacionalidad.md) |
 | 084 | LEY de Navegación y Comercio Marítimos | DOF 14/11/2025 | — |
 | 085 | LEY de Obras Públicas y Servicios Relacionados con las Mismas | DOF 14/11/2025 | — |
 | 086 | LEY de Organizaciones Ganaderas | DOF 09/04/2012 | — |
