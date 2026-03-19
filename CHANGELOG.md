@@ -2,6 +2,24 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Lote 5 — Leyes 044-053] — 2026-03-18
+
+### Leyes publicadas (10)
+| No. | Clave | Ley |
+|-----|-------|-----|
+| 044 | LDFEFM | Ley de Disciplina Financiera de las Entidades Federativas y los Municipios |
+| 045 | LDPAM | Ley de Disciplina para el Personal de la Armada de México |
+| 046 | LEMEFAGN | Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional |
+| 047 | LEN | Ley de Educación Naval |
+| 048 | LEC | Ley de Energía para el Campo |
+| 049 | LE | Ley de Expropiación |
+| 050 | LEI | Ley de Extradición Internacional |
+| 051 | LFEA | Ley de Firma Electrónica Avanzada |
+| 052 | LFRCF | Ley de Fiscalización y Rendición de Cuentas de la Federación |
+| 053 | LFCC | Ley de Fomento a la Confianza Ciudadana |
+
+---
+
 ## [Lote 4 — Leyes 034-043] — 2026-03-18
 
 ### Leyes publicadas (10)

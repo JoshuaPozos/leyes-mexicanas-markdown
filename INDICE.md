@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **18/03/2026** — **44/315** leyes disponibles en Markdown (13%).
+> Última actualización: **18/03/2026** — **54/315** leyes disponibles en Markdown (17%).
 
 ---
 
@@ -50,16 +50,16 @@
 | 041 | LEY de Desarrollo Sustentable de la Cafeticultura | Sin reforma | [`LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura.md`](markdown/LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura.md) |
 | 042 | LEY de Desarrollo Sustentable de la Caña de Azúcar | DOF 14/11/2025 | [`LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar.md`](markdown/LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar.md) |
 | 043 | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | [`LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l.md`](markdown/LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l.md) |
-| 044 | LEY de Disciplina Financiera de las Entidades Federativas y los Municipios | DOF 10/05/2022 | — |
-| 045 | LEY de Disciplina para el Personal de la Armada de México | Sin reforma | — |
-| 046 | LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | — |
-| 047 | LEY de Educación Naval | DOF 24/03/2023 | — |
-| 048 | LEY de Energía para el Campo | DOF 28/12/2012 | — |
-| 049 | LEY de Expropiación | DOF 27/01/2012 | — |
-| 050 | LEY de Extradición Internacional | DOF 20/05/2021 | — |
-| 051 | LEY de Firma Electrónica Avanzada | DOF 14/11/2025 | — |
-| 052 | LEY de Fiscalización y Rendición de Cuentas de la Federación | DOF 20/05/2021 | — |
-| 053 | LEY de Fomento a la Confianza Ciudadana | Sin reforma | — |
+| 044 | LEY de Disciplina Financiera de las Entidades Federativas y los Municipios | DOF 10/05/2022 | [`LDFEFM_ley_de_disciplina_financiera_de_las_entidades_federativas_y_los_munici.md`](markdown/LDFEFM_ley_de_disciplina_financiera_de_las_entidades_federativas_y_los_munici.md) |
+| 045 | LEY de Disciplina para el Personal de la Armada de México | Sin reforma | [`LDPAM_ley_de_disciplina_para_el_personal_de_la_armada_de_mexico.md`](markdown/LDPAM_ley_de_disciplina_para_el_personal_de_la_armada_de_mexico.md) |
+| 046 | LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | [`LEMEFAGN_ley_de_educacion_militar_del_ejercito_fuerza_aerea_y_guardia_nacional.md`](markdown/LEMEFAGN_ley_de_educacion_militar_del_ejercito_fuerza_aerea_y_guardia_nacional.md) |
+| 047 | LEY de Educación Naval | DOF 24/03/2023 | [`LEN_ley_de_educacion_naval.md`](markdown/LEN_ley_de_educacion_naval.md) |
+| 048 | LEY de Energía para el Campo | DOF 28/12/2012 | [`LEC_ley_de_energia_para_el_campo.md`](markdown/LEC_ley_de_energia_para_el_campo.md) |
+| 049 | LEY de Expropiación | DOF 27/01/2012 | [`LE_ley_de_expropiacion.md`](markdown/LE_ley_de_expropiacion.md) |
+| 050 | LEY de Extradición Internacional | DOF 20/05/2021 | [`LEI_ley_de_extradicion_internacional.md`](markdown/LEI_ley_de_extradicion_internacional.md) |
+| 051 | LEY de Firma Electrónica Avanzada | DOF 14/11/2025 | [`LFEA_ley_de_firma_electronica_avanzada.md`](markdown/LFEA_ley_de_firma_electronica_avanzada.md) |
+| 052 | LEY de Fiscalización y Rendición de Cuentas de la Federación | DOF 20/05/2021 | [`LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.md`](markdown/LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.md) |
+| 053 | LEY de Fomento a la Confianza Ciudadana | Sin reforma | [`LFCC_ley_de_fomento_a_la_confianza_ciudadana.md`](markdown/LFCC_ley_de_fomento_a_la_confianza_ciudadana.md) |
 | 054 | LEY de Fomento a la Industria Vitivinícola | Sin reforma | — |
 | 055 | LEY de Fomento para la Lectura y el Libro | DOF 29/11/2023 | — |
 | 056 | LEY de Fondos de Aseguramiento Agropecuario y Rural | DOF 14/11/2025 | — |
@@ -383,16 +383,16 @@ python scripts/gen_indice.py
 | 041 | LEY de Desarrollo Sustentable de la Cafeticultura | Sin reforma | [`LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura.md`](markdown/LDSC_ley_de_desarrollo_sustentable_de_la_cafeticultura.md) |
 | 042 | LEY de Desarrollo Sustentable de la Caña de Azúcar | DOF 14/11/2025 | [`LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar.md`](markdown/LDSCA_ley_de_desarrollo_sustentable_de_la_cana_de_azucar.md) |
 | 043 | LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | [`LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l.md`](markdown/LDEFAGN_ley_de_disciplina_del_ejercito_fuerza_aerea_y_guardia_nacional_antes_l.md) |
-| 044 | LEY de Disciplina Financiera de las Entidades Federativas y los Municipios | DOF 10/05/2022 | — |
-| 045 | LEY de Disciplina para el Personal de la Armada de México | Sin reforma | — |
-| 046 | LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | — |
-| 047 | LEY de Educación Naval | DOF 24/03/2023 | — |
-| 048 | LEY de Energía para el Campo | DOF 28/12/2012 | — |
-| 049 | LEY de Expropiación | DOF 27/01/2012 | — |
-| 050 | LEY de Extradición Internacional | DOF 20/05/2021 | — |
-| 051 | LEY de Firma Electrónica Avanzada | DOF 14/11/2025 | — |
-| 052 | LEY de Fiscalización y Rendición de Cuentas de la Federación | DOF 20/05/2021 | — |
-| 053 | LEY de Fomento a la Confianza Ciudadana | Sin reforma | — |
+| 044 | LEY de Disciplina Financiera de las Entidades Federativas y los Municipios | DOF 10/05/2022 | [`LDFEFM_ley_de_disciplina_financiera_de_las_entidades_federativas_y_los_munici.md`](markdown/LDFEFM_ley_de_disciplina_financiera_de_las_entidades_federativas_y_los_munici.md) |
+| 045 | LEY de Disciplina para el Personal de la Armada de México | Sin reforma | [`LDPAM_ley_de_disciplina_para_el_personal_de_la_armada_de_mexico.md`](markdown/LDPAM_ley_de_disciplina_para_el_personal_de_la_armada_de_mexico.md) |
+| 046 | LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional (Antes "Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos") | DOF 16/07/2025 | [`LEMEFAGN_ley_de_educacion_militar_del_ejercito_fuerza_aerea_y_guardia_nacional.md`](markdown/LEMEFAGN_ley_de_educacion_militar_del_ejercito_fuerza_aerea_y_guardia_nacional.md) |
+| 047 | LEY de Educación Naval | DOF 24/03/2023 | [`LEN_ley_de_educacion_naval.md`](markdown/LEN_ley_de_educacion_naval.md) |
+| 048 | LEY de Energía para el Campo | DOF 28/12/2012 | [`LEC_ley_de_energia_para_el_campo.md`](markdown/LEC_ley_de_energia_para_el_campo.md) |
+| 049 | LEY de Expropiación | DOF 27/01/2012 | [`LE_ley_de_expropiacion.md`](markdown/LE_ley_de_expropiacion.md) |
+| 050 | LEY de Extradición Internacional | DOF 20/05/2021 | [`LEI_ley_de_extradicion_internacional.md`](markdown/LEI_ley_de_extradicion_internacional.md) |
+| 051 | LEY de Firma Electrónica Avanzada | DOF 14/11/2025 | [`LFEA_ley_de_firma_electronica_avanzada.md`](markdown/LFEA_ley_de_firma_electronica_avanzada.md) |
+| 052 | LEY de Fiscalización y Rendición de Cuentas de la Federación | DOF 20/05/2021 | [`LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.md`](markdown/LFRCF_ley_de_fiscalizacion_y_rendicion_de_cuentas_de_la_federacion.md) |
+| 053 | LEY de Fomento a la Confianza Ciudadana | Sin reforma | [`LFCC_ley_de_fomento_a_la_confianza_ciudadana.md`](markdown/LFCC_ley_de_fomento_a_la_confianza_ciudadana.md) |
 | 054 | LEY de Fomento a la Industria Vitivinícola | Sin reforma | — |
 | 055 | LEY de Fomento para la Lectura y el Libro | DOF 29/11/2023 | — |
 | 056 | LEY de Fondos de Aseguramiento Agropecuario y Rural | DOF 14/11/2025 | — |
