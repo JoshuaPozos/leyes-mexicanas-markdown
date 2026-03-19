@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **18/03/2026** — **64/315** leyes disponibles en Markdown (20%).
+> Última actualización: **18/03/2026** — **74/315** leyes disponibles en Markdown (23%).
 
 ---
 
@@ -70,16 +70,16 @@
 | 061 | LEY de Ingresos sobre Hidrocarburos | DOF 28/12/2025 | [`LIH_ley_de_ingresos_sobre_hidrocarburos.md`](markdown/LIH_ley_de_ingresos_sobre_hidrocarburos.md) |
 | 062 | LEY de Instituciones de Crédito | DOF 14/11/2025 | [`LIC_ley_de_instituciones_de_credito.md`](markdown/LIC_ley_de_instituciones_de_credito.md) |
 | 063 | LEY de Instituciones de Seguros y de Fianzas | DOF 14/11/2025 | [`LISF_ley_de_instituciones_de_seguros_y_de_fianzas.md`](markdown/LISF_ley_de_instituciones_de_seguros_y_de_fianzas.md) |
-| 064 | LEY de Inversión Extranjera | DOF 27/05/2024 | — |
-| 065 | LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | DOF 11/05/2022 | — |
-| 066 | LEY de la Casa de Moneda de México | DOF 11/05/2022 | — |
-| 067 | LEY de la Comisión Nacional Bancaria y de Valores | DOF 11/05/2022 | — |
-| 068 | LEY de la Comisión Nacional de Energía | DOF 26/12/2025 Sentencia SCJN | — |
-| 069 | LEY de la Comisión Nacional de los Derechos Humanos | DOF 01/04/2024 | — |
-| 070 | LEY de la Economía Social y Solidaria (Antes "Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía") | DOF 16/04/2025 | — |
-| 071 | LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad | Sin reforma | — |
-| 072 | LEY de la Empresa Pública del Estado, Petróleos Mexicanos | Sin reforma | — |
-| 073 | LEY de la Fiscalía General de la República | DOF 14/11/2025 | — |
+| 064 | LEY de Inversión Extranjera | DOF 27/05/2024 | [`LIE_ley_de_inversion_extranjera.md`](markdown/LIE_ley_de_inversion_extranjera.md) |
+| 065 | LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | DOF 11/05/2022 | [`LANSI_ley_de_la_agencia_nacional_de_seguridad_industrial_y_de_proteccion_al.md`](markdown/LANSI_ley_de_la_agencia_nacional_de_seguridad_industrial_y_de_proteccion_al.md) |
+| 066 | LEY de la Casa de Moneda de México | DOF 11/05/2022 | [`LCMM_ley_de_la_casa_de_moneda_de_mexico.md`](markdown/LCMM_ley_de_la_casa_de_moneda_de_mexico.md) |
+| 067 | LEY de la Comisión Nacional Bancaria y de Valores | DOF 11/05/2022 | [`LCNBV_ley_de_la_comision_nacional_bancaria_y_de_valores.md`](markdown/LCNBV_ley_de_la_comision_nacional_bancaria_y_de_valores.md) |
+| 068 | LEY de la Comisión Nacional de Energía | DOF 26/12/2025 Sentencia SCJN | [`LCNE_ley_de_la_comision_nacional_de_energia.md`](markdown/LCNE_ley_de_la_comision_nacional_de_energia.md) |
+| 069 | LEY de la Comisión Nacional de los Derechos Humanos | DOF 01/04/2024 | [`LCNDH_ley_de_la_comision_nacional_de_los_derechos_humanos.md`](markdown/LCNDH_ley_de_la_comision_nacional_de_los_derechos_humanos.md) |
+| 070 | LEY de la Economía Social y Solidaria (Antes "Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía") | DOF 16/04/2025 | [`LESS_ley_de_la_economia_social_y_solidaria_antes_ley_de_la_economia_social.md`](markdown/LESS_ley_de_la_economia_social_y_solidaria_antes_ley_de_la_economia_social.md) |
+| 071 | LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad | Sin reforma | [`LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad.md`](markdown/LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad.md) |
+| 072 | LEY de la Empresa Pública del Estado, Petróleos Mexicanos | Sin reforma | [`LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos.md`](markdown/LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos.md) |
+| 073 | LEY de la Fiscalía General de la República | DOF 14/11/2025 | [`LFGR_ley_de_la_fiscalia_general_de_la_republica.md`](markdown/LFGR_ley_de_la_fiscalia_general_de_la_republica.md) |
 | 074 | LEY de la Guardia Nacional | Sin reforma | — |
 | 075 | LEY de la Policía Federal | DOF 14/11/2025 | — |
 | 076 | LEY de los Derechos de las Personas Adultas Mayores | DOF 14/06/2024 | — |
@@ -403,16 +403,16 @@ python scripts/gen_indice.py
 | 061 | LEY de Ingresos sobre Hidrocarburos | DOF 28/12/2025 | [`LIH_ley_de_ingresos_sobre_hidrocarburos.md`](markdown/LIH_ley_de_ingresos_sobre_hidrocarburos.md) |
 | 062 | LEY de Instituciones de Crédito | DOF 14/11/2025 | [`LIC_ley_de_instituciones_de_credito.md`](markdown/LIC_ley_de_instituciones_de_credito.md) |
 | 063 | LEY de Instituciones de Seguros y de Fianzas | DOF 14/11/2025 | [`LISF_ley_de_instituciones_de_seguros_y_de_fianzas.md`](markdown/LISF_ley_de_instituciones_de_seguros_y_de_fianzas.md) |
-| 064 | LEY de Inversión Extranjera | DOF 27/05/2024 | — |
-| 065 | LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | DOF 11/05/2022 | — |
-| 066 | LEY de la Casa de Moneda de México | DOF 11/05/2022 | — |
-| 067 | LEY de la Comisión Nacional Bancaria y de Valores | DOF 11/05/2022 | — |
-| 068 | LEY de la Comisión Nacional de Energía | DOF 26/12/2025 Sentencia SCJN | — |
-| 069 | LEY de la Comisión Nacional de los Derechos Humanos | DOF 01/04/2024 | — |
-| 070 | LEY de la Economía Social y Solidaria (Antes "Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía") | DOF 16/04/2025 | — |
-| 071 | LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad | Sin reforma | — |
-| 072 | LEY de la Empresa Pública del Estado, Petróleos Mexicanos | Sin reforma | — |
-| 073 | LEY de la Fiscalía General de la República | DOF 14/11/2025 | — |
+| 064 | LEY de Inversión Extranjera | DOF 27/05/2024 | [`LIE_ley_de_inversion_extranjera.md`](markdown/LIE_ley_de_inversion_extranjera.md) |
+| 065 | LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos | DOF 11/05/2022 | [`LANSI_ley_de_la_agencia_nacional_de_seguridad_industrial_y_de_proteccion_al.md`](markdown/LANSI_ley_de_la_agencia_nacional_de_seguridad_industrial_y_de_proteccion_al.md) |
+| 066 | LEY de la Casa de Moneda de México | DOF 11/05/2022 | [`LCMM_ley_de_la_casa_de_moneda_de_mexico.md`](markdown/LCMM_ley_de_la_casa_de_moneda_de_mexico.md) |
+| 067 | LEY de la Comisión Nacional Bancaria y de Valores | DOF 11/05/2022 | [`LCNBV_ley_de_la_comision_nacional_bancaria_y_de_valores.md`](markdown/LCNBV_ley_de_la_comision_nacional_bancaria_y_de_valores.md) |
+| 068 | LEY de la Comisión Nacional de Energía | DOF 26/12/2025 Sentencia SCJN | [`LCNE_ley_de_la_comision_nacional_de_energia.md`](markdown/LCNE_ley_de_la_comision_nacional_de_energia.md) |
+| 069 | LEY de la Comisión Nacional de los Derechos Humanos | DOF 01/04/2024 | [`LCNDH_ley_de_la_comision_nacional_de_los_derechos_humanos.md`](markdown/LCNDH_ley_de_la_comision_nacional_de_los_derechos_humanos.md) |
+| 070 | LEY de la Economía Social y Solidaria (Antes "Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía") | DOF 16/04/2025 | [`LESS_ley_de_la_economia_social_y_solidaria_antes_ley_de_la_economia_social.md`](markdown/LESS_ley_de_la_economia_social_y_solidaria_antes_ley_de_la_economia_social.md) |
+| 071 | LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad | Sin reforma | [`LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad.md`](markdown/LEPECFE_ley_de_la_empresa_publica_del_estado_comision_federal_de_electricidad.md) |
+| 072 | LEY de la Empresa Pública del Estado, Petróleos Mexicanos | Sin reforma | [`LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos.md`](markdown/LEPEPM_ley_de_la_empresa_publica_del_estado_petroleos_mexicanos.md) |
+| 073 | LEY de la Fiscalía General de la República | DOF 14/11/2025 | [`LFGR_ley_de_la_fiscalia_general_de_la_republica.md`](markdown/LFGR_ley_de_la_fiscalia_general_de_la_republica.md) |
 | 074 | LEY de la Guardia Nacional | Sin reforma | — |
 | 075 | LEY de la Policía Federal | DOF 14/11/2025 | — |
 | 076 | LEY de los Derechos de las Personas Adultas Mayores | DOF 14/06/2024 | — |

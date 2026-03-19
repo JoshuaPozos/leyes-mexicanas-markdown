@@ -2,6 +2,24 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Lote 7 — Leyes 064-073] — 2026-03-18
+
+### Leyes publicadas (10)
+| No. | Clave | Ley |
+|-----|-------|-----|
+| 064 | LIE | Ley de Inversión Extranjera |
+| 065 | LANSI | Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos |
+| 066 | LCMM | Ley de la Casa de Moneda de México |
+| 067 | LCNBV | Ley de la Comisión Nacional Bancaria y de Valores |
+| 068 | LCNE | Ley de la Comisión Nacional de Energía |
+| 069 | LCNDH | Ley de la Comisión Nacional de los Derechos Humanos |
+| 070 | LESS | Ley de la Economía Social y Solidaria |
+| 071 | LEPECFE | Ley de la Empresa Pública del Estado Comisión Federal de Electricidad |
+| 072 | LEPEPM | Ley de la Empresa Pública del Estado Petróleos Mexicanos |
+| 073 | LFGR | Ley de la Fiscalía General de la República |
+
+---
+
 ## [Lote 6 — Leyes 054-063] — 2026-03-18
 
 ### Leyes publicadas (10)
