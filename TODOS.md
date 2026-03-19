@@ -157,19 +157,19 @@ Esto debería ser:
 
 ## Resumen de prioridades
 
-| # | Issue | Prioridad | Impacto |
-|---|-------|-----------|---------|
-| 1 | Falso positivo `##` en "título de..." | Alta | 22+ líneas mal formateadas |
-| 2 | Header corrido del PDF en el texto | Alta | 80/84 archivos, miles de instancias |
-| 3 | "Transitorios" sin formato heading | Media | Casi todos los archivos |
-| 4 | "ARTÍCULO TERCERO..." sin heading | Media | 4+ archivos |
-| 5 | Ordinales sin negritas | Media | Casi todos los archivos |
-| 6 | Nombres de sección descriptivos | Baja | Varios archivos |
+| # | Issue | Prioridad | Estado |
+|---|-------|-----------|--------|
+| 1 | Falso positivo `##` en "título de..." | Alta | ✅ Resuelto (17 → 0) |
+| 2 | Header corrido del PDF en el texto | Alta | ✅ Resuelto (80 → 0 archivos) |
+| 3 | "Transitorios" sin formato heading | Media | ✅ Resuelto (74 archivos) |
+| 4 | "ARTÍCULO TERCERO..." sin heading | Media | ✅ Resuelto (58 archivos) |
+| 5 | Ordinales sin negritas | Media | ✅ Resuelto (77 archivos) |
+| 6 | Nombres de sección descriptivos | Baja | ⏳ Pendiente |
 
 ---
 
 ## Notas
 
-- Los issues 1-5 se corrigen en `scripts/pdf_to_md.py`.
-- Después de corregir el script, se deben **reconvertir todos los archivos** existentes.
-- El issue 2 (running header) es el de mayor impacto visual y de contenido.
+- Los issues 1-5 fueron corregidos en `scripts/pdf_to_md.py` el 2026-03-19.
+- Los 84 archivos existentes fueron reconvertidos con el script mejorado.
+- El issue 6 queda pendiente (requiere análisis de coordenadas del PDF).

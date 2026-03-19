@@ -5,11 +5,14 @@
 
 ---
 
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA TEXTO VIGENTE a partir del 17-06-2026 Nueva Ley publicada en el Diario Oficial de la Federación el 19 de diciembre de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+TEXTO VIGENTE a partir del 17-06-2026 Nueva Ley publicada en el Diario Oficial de la Federación el 19 de diciembre de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 CLAUDIA SHEINBAUM PARDO, Presidenta de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-SE EXPIDE LA LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA Artículo Único.- Se expide la Ley de Desarrollo Sustentable de la Cafeticultura, para quedar como sigue:
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA TÍTULO PRIMERO Disposiciones generales CAPÍTULO ÚNICO Del objeto de la Ley
+SE EXPIDE LA
+
+### Artículo Único
+Se expide la Ley de Desarrollo Sustentable de la Cafeticultura, para quedar como sigue:
+TÍTULO PRIMERO Disposiciones generales CAPÍTULO ÚNICO Del objeto de la Ley
 
 ### Artículo 1
 . La presente Ley es de interés público y observancia general en el territorio nacional. Tiene por objeto normar y fomentar la producción, distribución, industrialización y comercialización del café, establecer criterios para impulsar la calidad del producto en todas las fases de la cadena productiva, así como generar su integración, para que el café continúe siendo un producto básico y estratégico cuya producción contribuya a la seguridad y soberanía alimentaria del país.
@@ -25,7 +28,7 @@ II. Beneficio húmedo: Actividad que consiste en retirar la pulpa de los frutos 
 III. Beneficio seco: Actividad que consiste en retirar el pergamino o descascarillar y clasificar el grano según tamaño, densidad y defectos para su almacenamiento y comercialización posterior.
 IV. Beneficio Natural: Actividad que consiste en propiciar la deshidratación de los granos en patios o camas de secado con todo y la cáscara que los recubre.
 V. Café arábiga mexicano: Aquel que tiene 100 por ciento café producido en México sin mezclas de origen de otros países, con características que lo distinguen por ser mayor y comúnmente cultivado bajo sombra y mitigante de emisiones de CO2.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA VI. Café cereza: Fruto maduro, recién cosechado del cafeto, sano, sin despulpar, también conocido como café uva, apto para ser sometido inmediatamente al beneficio húmedo y convertirlo en café pergamino.
+VI. Café cereza: Fruto maduro, recién cosechado del cafeto, sano, sin despulpar, también conocido como café uva, apto para ser sometido inmediatamente al beneficio húmedo y convertirlo en café pergamino.
 VII. Café dañado: Café que presenta algún defecto que le impide ser puro y sano, no apto para consumo humano.
 VIII. Café de origen: Café con un distintivo o reconocimiento certificado que lo identifica como proveniente de un productor, cultivo, localidad o región del país, ligado a características y atributos específicos.
 IX. Café descafeinado: Café verde, tostado o soluble del cual se ha extraído la cafeína.
@@ -43,7 +46,7 @@ XX. Calidad del café: Atributos físicos y organolépticos del grano de café a
 XXI. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables.
 XXII. Comisión: Comisión Nacional para el Desarrollo de la Cafeticultura Mexicana.
 XXIII. Diferencial: Margen positivo o negativo sobre los mercados de referencia de futuros de café, que se utilizan en la determinación de precios del café a la compra y a la venta, tanto en las regiones productoras, como en los puntos de venta, tanto en el mercado doméstico como en el mercado exterior, en apego a las reglas para facilitar la operatividad de las transacciones de comercio internacional en materia de café.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA XXIV. Diferencial neto: Resultante de los diferenciales de compra y venta sobre el mercado de futuros de referencia para un café de la misma calidad o su equivalente, ya procesado. Aunque la compra y venta suceda en momentos diferentes.
+XXIV. Diferencial neto: Resultante de los diferenciales de compra y venta sobre el mercado de futuros de referencia para un café de la misma calidad o su equivalente, ya procesado. Aunque la compra y venta suceda en momentos diferentes.
 XXV. Organización: Figura asociativa que agrupa y representa a quienes se dedican a la producción, industrialización y/o comercialización del café.
 XXVI. Persona comercializadora: Persona física o moral que se dedica a la compraventa del café, en cualquier parte de la cadena productiva que se encuentre inscrito en el Registro Federal de Contribuyentes.
 XXVII. Persona industrializadora de café: Persona física o moral que se dedica a una o más actividades relacionadas con el beneficio húmedo, beneficio seco, descafeinado, tostado, molido, producción de soluble y otras presentaciones.
@@ -64,7 +67,7 @@ V. Establecimiento de políticas que al mismo tiempo que favorezcan precios acce
 . El Gobierno Federal, a través de la Secretaría u otras instancias competentes, podrá establecer medidas de apoyo para el fomento de la cafeticultura, las cuales podrán ser, de manera enunciativa y no limitativa, las siguientes:
 I. El fomento de prácticas de desarrollo sustentable de la producción de café, su acopio, procesamiento, comercialización, consumo, sistematización y difusión de información acerca de las actividades de la cadena productiva del café que se lleven a cabo en el país y en el extranjero, y que incidan en el bienestar tanto de las familias productoras, como de los diferentes eslabones de la cadena productiva;
 II. El diseño y ejecución de acciones y mecanismos que impulsen el desarrollo de las actividades que conforman la cadena productiva del café;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA III. La planificación de esquemas de comercialización que contribuyan a generar precios competitivos del café mexicano;
+III. La planificación de esquemas de comercialización que contribuyan a generar precios competitivos del café mexicano;
 IV. La implementación de un esquema de difusión de los precios del café en los mercados nacional e internacional;
 V. La implementación de un esquema de verificación de la calidad, en apego a Normas Oficiales Mexicanas, que identifiquen y eviten el uso y comercialización de cafés dañados, no aptos para consumo humano e identifique el uso de endulzantes y saborizantes artificiales;
 VI. El fomento a la investigación científica, la innovación y la adopción de mejores prácticas;
@@ -82,7 +85,7 @@ I. Dictar las políticas públicas del orden federal de gobierno en materia de c
 II. Desarrollar programas y acciones para el fomento y desarrollo de la cafeticultura mexicana de manera sustentable e impulsar esquemas que propicien la inversión en el campo cafetalero y en la industria del café;
 III. Diseñar y ejecutar, en su ámbito de competencia, acciones y medidas de apoyo dirigidos a la cadena productiva del café y, en su caso, establecer las Reglas de Operación correspondientes, para facilitar el acceso a las personas integrantes de la cadena productiva del café, principalmente a las pequeñas y pequeños productores;
 IV. Orientar a las personas interesadas sobre las acciones, mecanismos de apoyo, trámites o servicios implementados por otras dependencias y entidades federales susceptibles de aplicarse en la cadena productiva del café; así como facilitar la concertación y suscripción de acuerdos o convenios con las dependencias y entidades correspondientes, para dar cumplimiento a los instrumentos internacionales de los que sea parte el Estado mexicano relativos a la certificación del café;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA V. Promover, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, acciones de preservación, restauración y manejo sustentable de los ecosistemas dentro de los territorios cafetaleros, impulsar buenas prácticas agroecológicas que favorezcan el cultivo de cafetales bajo sombra en corredores biológicos, áreas de influencia de áreas naturales protegidas y áreas de conservación voluntaria, y otras medidas efectivas de conservación basadas en áreas, asegurando que dichas prácticas contribuyan a la conservación de la biodiversidad y la protección de los recursos naturales en las zonas cafetaleras;
+V. Promover, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, acciones de preservación, restauración y manejo sustentable de los ecosistemas dentro de los territorios cafetaleros, impulsar buenas prácticas agroecológicas que favorezcan el cultivo de cafetales bajo sombra en corredores biológicos, áreas de influencia de áreas naturales protegidas y áreas de conservación voluntaria, y otras medidas efectivas de conservación basadas en áreas, asegurando que dichas prácticas contribuyan a la conservación de la biodiversidad y la protección de los recursos naturales en las zonas cafetaleras;
 VI. Promover, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, acciones de recuperación ecológica y mitigación de efectos del cambio climático, con énfasis en la restauración de los servicios ambientales esenciales, como la gestión eficiente del agua, la conservación y recarbonización del suelo, la captura de carbono, así como la conservación y protección de los grupos biológicos que habitan en los ecosistemas cafetaleros;
 VII. Apoyar la producción, adquisición y establecimiento de plantas de café generadas en viveros, a partir de material genético certificado por el Sistema Nacional de Inspección y Certificación de Semillas a cargo de la Secretaría, con el objetivo de garantizar la calidad y sostenibilidad del cultivo, y atender de manera continua, tanto las necesidades de las personas productoras, así como la demanda del mercado, sin comprometer los principios de conservación ambiental y biodiversidad;
 VIII. Colaborar con la Secretaría de Economía, cuando así corresponda, en los términos de la Ley de Infraestructura de la Calidad, en las actividades de normalización, estandarización, acreditación, evaluación de la conformidad y metrología, a efecto de promover la calidad y ampliar la capacidad productiva en las cadenas de valor del café;
@@ -92,7 +95,7 @@ XI. Fomentar, en colaboración con las dependencias públicas de los órdenes de
 XII. Llevar a cabo investigaciones de mercado para identificar oportunidades de negocios que promuevan el crecimiento de la producción y la agroindustria de la cafeticultura y sus actividades complementarias, observando, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, que dichas acciones no comprometan los sistemas naturales, especialmente en lo que respecta al uso no regulado de agroquímicos y al cambio de uso de suelo y la expansión de la frontera agrícola;
 XIII. Promover programas de productividad de café bajo sombra con buenas prácticas agroecológicas, fitosanitarias, servicios ambientales e infraestructura hidroagrícola y de caminos rurales;
 XIV. Establecer el Registro de personas productoras, acopiadoras, beneficiadoras, comercializadoras y exportadoras de café, así como de las industrias procesadoras del café y sus derivados, dentro del Sistema Nacional de Registro Agropecuario;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA XV. Colaborar, en el ámbito de su competencia, en los procedimientos de conciliación de las controversias de la cadena productiva del café, y XVI. Las demás que esta Ley y su Reglamento establezcan.
+XV. Colaborar, en el ámbito de su competencia, en los procedimientos de conciliación de las controversias de la cadena productiva del café, y XVI. Las demás que esta Ley y su Reglamento establezcan.
 
 ## CAPÍTULO II
 De la Comisión Nacional para el Desarrollo de la Cafeticultura Mexicana
@@ -111,7 +114,7 @@ VI. Proponer a la Secretaría la integración o actualización de información �
 VII. Promover y concertar acciones para apoyar la concurrencia de la persona productora al mercado nacional e internacional de manera directa y eficiente, limitando la participación de personas intermediarias para contribuir a un ingreso remunerativo;
 VIII. Proponer acciones encaminadas a facilitar a la exportación de la producción nacional y, en general, a la cadena productiva de la actividad cafetalera, con base en lo dispuesto en la Ley de Desarrollo Rural Sustentable y en congruencia con las acciones y objetivos del Sistema Nacional de Planeación Democrática;
 IX. Proponer acciones de capacitación y medidas de fomento tanto a la tecnificación en el cultivo del café como la implementación de prácticas tradicionales y agroecológicas; la promoción del uso de semillas criollas y nativas; prácticas de fertilización para la mejora del rendimiento de las plantas y la conservación del ambiente; así como la difusión de los métodos de control de malezas, plagas y enfermedades; así como la prevención y control para reducir el uso de agroquímicos favoreciendo en su lugar el uso de bioinsumos;
-X. Proponer acciones y medidas de fomento a la investigación y uso de tecnologías agrícolas e industriales apropiadas en la cadena productiva, tendientes a incrementar la producción, mejorar la LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA calidad y ayudar a la conservación del medio ambiente y la mitigación de los gases de efecto invernadero y la adaptación ante el cambio climático;
+X. Proponer acciones y medidas de fomento a la investigación y uso de tecnologías agrícolas e industriales apropiadas en la cadena productiva, tendientes a incrementar la producción, mejorar la calidad y ayudar a la conservación del medio ambiente y la mitigación de los gases de efecto invernadero y la adaptación ante el cambio climático;
 XI. Gestionar la asistencia técnica y administrativa para las personas productoras de café;
 XII. Prestar asesoría para garantizar que el café mexicano que se comercializa bajo cualquier presentación cumpla con la normatividad vigente en materia de etiquetado y especifique la calidad organoléptica y de otros atributos culturales y ambientales que distinguen a cada microrregión productora de café de México;
 XIII. Fomentar la promoción al consumo y calidad del café mexicano dentro del territorio nacional e internacional;
@@ -134,7 +137,7 @@ IV. Secretaría de Economía;
 V. Secretaría de Hacienda y Crédito Público;
 VI. Cinco personas representantes de las organizaciones nacionales de personas productoras de café y del sector productor, atendiendo el principio de igualdad de género, que serán acreditados en forma individual por cada organización;
 VII. Dos personas representantes de los comercializadores y exportadores con representación a nivel nacional;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA VIII. Dos personas representantes de los industriales y torrefactores con representación a nivel nacional, y IX. La persona representante del Comité Nacional del Sistema Producto Café.
+VIII. Dos personas representantes de los industriales y torrefactores con representación a nivel nacional, y IX. La persona representante del Comité Nacional del Sistema Producto Café.
 La persona titular de la Secretaría Ejecutiva podrá designar a una persona suplente y las personas que representen a las dependencias públicas deberán tener como mínimo nivel de persona directora general.
 
 ### Artículo 10
@@ -162,7 +165,7 @@ III. Información sobre indicadores del desempeño de la cafeticultura en el ter
 IV. Supervisión para el cumplimiento de los procesos de certificación y verificación, en los términos de la Ley de Infraestructura de la Calidad, y V. Brindar asesoría en materia de servicios ambientales, de conformidad con la normatividad aplicable.
 
 ## CAPÍTULO III
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA De la Persona Titular de la Comisión
+De la Persona Titular de la Comisión
 
 ### Artículo 15
 . Quedan a cargo de la persona titular de la Comisión las siguientes actividades:
@@ -185,7 +188,6 @@ Disposiciones generales
 ### Artículo 17
 . El Sistema Nacional de Información de la Cafeticultura en México tiene por objeto documentar, identificar, analizar y proporcionar información actualizada y accesible sobre las y los actores que participan en la cadena productiva del café. También incluirá datos clave sobre componentes económicos, estadísticas agropecuarias, regionalización, zonas cafetaleras de cultivo y, especialmente su interacción con áreas naturales protegidas y otras medidas efectivas de conservación.
 Asimismo, brindará información sobre fuentes de financiamiento, desarrollo tecnológico, servicios técnicos, prácticas agroecológicas e industriales del sector cafetalero, en cumplimiento de esta Ley y su Reglamento. En coordinación con el Instituto Nacional de Estadística y Geografía, el Sistema de Información Agroalimentaria y Pesquera y otros sistemas que contribuyan a la integración de la información estratégica para la toma de decisiones en el sector.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA
 
 ### Artículo 18
 . El Sistema Nacional de Información de la Cafeticultura en México será público, debiendo proporcionar información sobre el clima actual y el proyectado, precios, mercados, comercio interno y externo, entre otros datos relevantes para la cafeticultura nacional que permita a las personas productoras y a las y los actores a lo largo de la cadena tomar decisiones basadas en información confiable, completa y transparente, sin perjuicio de los derechos de propiedad intelectual y protección de datos personales, así como cualquier otra disposición aplicable.
@@ -222,7 +224,7 @@ Del financiamiento de la cafeticultura
 . La Comisión propondrá a la Secretaría mecanismos que permitan conjuntar recursos públicos y crediticios para apoyar las medidas específicas que atiendan la adaptación climática del cultivo del café con motivo de los riesgos del cambio climático.
 
 ### Artículo 26
-. La Secretaría, podrá implementar acciones y mecanismos, con sujeción al Sistema Nacional de Planeación Democrática y a las leyes en materia presupuestaria, con el fin de impulsar el desarrollo de la LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA cafeticultura mexicana, tanto para ejecutar su actividad productiva de manera exitosa, como para mitigar los riesgos asociados al cambio climático y otras contingencias de naturaleza ambiental, antrópica o enfermedades fitosanitarias y plagas de la planta del café.
+. La Secretaría, podrá implementar acciones y mecanismos, con sujeción al Sistema Nacional de Planeación Democrática y a las leyes en materia presupuestaria, con el fin de impulsar el desarrollo de la cafeticultura mexicana, tanto para ejecutar su actividad productiva de manera exitosa, como para mitigar los riesgos asociados al cambio climático y otras contingencias de naturaleza ambiental, antrópica o enfermedades fitosanitarias y plagas de la planta del café.
 
 ### Artículo 27
 . El Gobierno Federal podrá facilitar el desarrollo de instrumentos de aseguramiento de la producción de café, así como un sistema de administración de riesgos asociados a la producción, comercialización y otros aspectos de la actividad cafetalera.
@@ -252,7 +254,7 @@ II. Desarrollar la investigación, validación y transferencia de tecnología y 
 III. Proporcionar asistencia técnica a las personas productoras en las diversas etapas de la actividad cafetalera;
 IV. Organizar servicios orientados al mejoramiento de la productividad, control de calidad y catación;
 V. Mantener en forma actualizada los estudios de precios de los mercados internacionales, según las variedades de café mexicano;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA VI. Promover que la asistencia técnica llegue a las personas productoras en forma eficiente;
+VI. Promover que la asistencia técnica llegue a las personas productoras en forma eficiente;
 VII. Coordinar con organismos especializados el cuidado y preservación del medio ambiente, así como la realización de monitoreos periódicos que evalúen los impactos y contribuciones ambientales de la producción cafetalera;
 VIII. Promover la creación de incentivos de mercado a las personas cafetaleras que alcancen niveles de calidad y sostenibilidad ecológica, de acuerdo con las normas determinadas mediante estudios técnicos, y IX. Apoyar y promover a las instituciones privadas que contribuyan al desarrollo tecnológico de la actividad cafetalera.
 
@@ -282,7 +284,7 @@ TÍTULO QUINTO De la comercialización e industrialización del café mexicano
 De la comercialización
 
 ### Artículo 38
-. Previo al inicio de cosecha, la Comisión ordenará la realización de un estudio de expectativa de producción confiable para cada ciclo cafetalero. El resultado será el que se maneje como estimado oficial y se reporte a la Organización Internacional del Café, de conformidad con los acuerdos internacionales en la materia de LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA los que sea parte el Estado mexicano. En la elaboración del estudio a que se hace referencia en este artículo, se podrá contar con la colaboración del Comité Nacional Sistema Producto Café.
+. Previo al inicio de cosecha, la Comisión ordenará la realización de un estudio de expectativa de producción confiable para cada ciclo cafetalero. El resultado será el que se maneje como estimado oficial y se reporte a la Organización Internacional del Café, de conformidad con los acuerdos internacionales en la materia de los que sea parte el Estado mexicano. En la elaboración del estudio a que se hace referencia en este artículo, se podrá contar con la colaboración del Comité Nacional Sistema Producto Café.
 
 ### Artículo 39
 . La Comisión establecerá un Comité de Comercialización del Café, que estará integrado por personas expertas en la producción y comercialización del café, así como por representantes de los sectores involucrados.
@@ -311,7 +313,6 @@ De los precios del café
 
 ### Artículo 46
 . La Comisión establecerá un Comité de seguimiento de Precios, el cual podrá emitir un referente de precios para las compras de café pergamino o sus equivalentes en diferentes etapas del proceso de materia prima, entre otros, para el café cereza, oro o naturales. Lo anterior, con base en los datos del Sistema Nacional de Información de la Cafeticultura y a partir de los estudios a que se refiere en el artículo 49 de esta Ley.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA
 
 ### Artículo 47
 . El Comité de seguimiento de Precios establecerá un mecanismo para determinar un referente de precios para las compras de café convencional.
@@ -340,7 +341,7 @@ Durante el transcurso de la cosecha, se realizarán encuestas sobre los precios 
 . El Comité de seguimiento de Precios, tendrá como función promover indicadores de referencia no vinculantes basados en el análisis de costos promedio de producción y precios del mercado observados nacional e internacionalmente, con el objeto de orientar a las personas productoras en sus decisiones comerciales. Estos indicadores no constituirán en ningún caso precios oficiales ni obligatorios.
 
 ### Artículo 54
-. La Comisión podrá proponer a la Secretaría, acciones para fortalecer económicamente los precios del café, y buscar nuevas aportaciones, las cuales podrán provenir, entre otras, de parte de las personas productoras o de otros sectores de la cadena productiva del café, con el objetivo de otorgar apoyos a quienes lo siembran, LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA cultivan o cosechan cuando los precios sean bajos o, en su caso, se destinen al manejo de coberturas de precios y de garantías de crédito para la comercialización de café.
+. La Comisión podrá proponer a la Secretaría, acciones para fortalecer económicamente los precios del café, y buscar nuevas aportaciones, las cuales podrán provenir, entre otras, de parte de las personas productoras o de otros sectores de la cadena productiva del café, con el objetivo de otorgar apoyos a quienes lo siembran, cultivan o cosechan cuando los precios sean bajos o, en su caso, se destinen al manejo de coberturas de precios y de garantías de crédito para la comercialización de café.
 
 ### Artículo 55
 . El Reglamento de la Ley establecerá las funciones del Comité de seguimiento de Precios, así como los procedimientos para la emisión de recomendaciones del referente de precios que se señala en esta Ley.
@@ -378,7 +379,7 @@ De igual manera, realizará análisis y estudios sobre las contingencias que pon
 ### Artículo 62
 . Corresponde a la Secretaría, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, identificar y promover medidas para fomentar la producción de café sustentable que contribuyan a la implementación de las medidas de mitigación y adaptación para hacer frente a los efectos adversos del cambio climático.
 Esto incluirá la promoción de la producción de café bajo sombra diversificada y en policultivos, con el objetivo de establecer corredores biológicos en áreas naturales protegidas a nivel altitudinal, conforme a la normativa vigente que garantice las actividades no perjudiciales a los ecosistemas protegidos.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA Además, se impulsarán iniciativas en sitios estratégicos para la captación de agua y en zonas aledañas a regiones prioritarias para la conservación de la biodiversidad del país, asegurando que estas prácticas no afecten negativamente la conservación de los recursos naturales.
+Además, se impulsarán iniciativas en sitios estratégicos para la captación de agua y en zonas aledañas a regiones prioritarias para la conservación de la biodiversidad del país, asegurando que estas prácticas no afecten negativamente la conservación de los recursos naturales.
 Lo anterior contribuirá a las metas de autosuficiencia alimentaria contempladas en el Programa Sectorial de Agricultura, promoviendo un equilibrio entre producción agrícola y conservación ambiental.
 
 ### Artículo 63
@@ -416,7 +417,7 @@ TÍTULO SEXTO De las importaciones y exportaciones
 De las importaciones
 
 ### Artículo 71
-. Las autoridades competentes en materia aduanera y de comercio exterior serán las responsables de identificar y aplicar las disposiciones legales correspondientes a la entrada al territorio nacional de café o sus derivados. La Secretaría podrá colaborar con dichas autoridades, en el marco de sus atribuciones y de conformidad con la legislación aplicable, proporcionando información técnica relacionada con el cumplimiento de las Normas LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA Oficiales Mexicanas aplicables al producto, sin intervenir en la regulación o supervisión de aspectos arancelarios o aduaneros.
+. Las autoridades competentes en materia aduanera y de comercio exterior serán las responsables de identificar y aplicar las disposiciones legales correspondientes a la entrada al territorio nacional de café o sus derivados. La Secretaría podrá colaborar con dichas autoridades, en el marco de sus atribuciones y de conformidad con la legislación aplicable, proporcionando información técnica relacionada con el cumplimiento de las Normas Oficiales Mexicanas aplicables al producto, sin intervenir en la regulación o supervisión de aspectos arancelarios o aduaneros.
 
 ### Artículo 72
 . La Secretaría podrá colaborar con la Secretaría de Economía para:
@@ -447,7 +448,7 @@ De las exportaciones
 . La Comisión, cuando se requiera, y con apoyo del Comité Nacional Sistema Producto Café, podrá apoyar a las personas exportadoras e importadoras en la identificación de la calidad del café que se comercialice, siendo cubiertos los costos de esta actividad por la propia persona exportadora o importadora.
 
 ## CAPÍTULO III
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA De la trazabilidad del café
+De la trazabilidad del café
 
 ### Artículo 79
 . La extracción de café del territorio nacional deberá cumplir con lo previsto en las disposiciones jurídicas aplicables.
@@ -472,10 +473,13 @@ En caso de que la controversia sea competencia de otra autoridad, la Secretaría
 
 ### Artículo 85
 . La persona servidora pública que viole esta y otras leyes o Normas Oficiales Mexicanas en la materia, será sancionada en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas.
-Transitorios Primero. La presente Ley entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.
-Segundo. Se deberán armonizar con arreglo a la presente Ley la normatividad relacionada a la actividad cafetalera.
-Tercero. La Secretaría, en un plazo no mayor de un año, contado a partir de la publicación de este Decreto, emitirá los lineamientos para el funcionamiento de la Comisión.
-Cuarto. La integración al Sistema Nacional de Registro Agropecuario del Registro de Personas Productoras, Acopiadoras, Industriales, Comercializadoras, Exportadoras e Importadoras Nacionales de Café se llevará a cabo de manera progresiva y con el apoyo del Comité Nacional Sistema Producto Café.
-Quinto. Se abroga la Ley sobre Elaboración y Venta de Café Tostado, publicada en el Diario Oficial de la Federación el 25 de mayo de 1972.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAFETICULTURA Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes y se realizarán con cargo a su presupuesto aprobado por la Cámara de Diputados para el ejercicio fiscal que corresponda.
+
+## Transitorios
+
+**Primero.** La presente Ley entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Se deberán armonizar con arreglo a la presente Ley la normatividad relacionada a la actividad cafetalera.
+**Tercero.** La Secretaría, en un plazo no mayor de un año, contado a partir de la publicación de este Decreto, emitirá los lineamientos para el funcionamiento de la Comisión.
+**Cuarto.** La integración al Sistema Nacional de Registro Agropecuario del Registro de Personas Productoras, Acopiadoras, Industriales, Comercializadoras, Exportadoras e Importadoras Nacionales de Café se llevará a cabo de manera progresiva y con el apoyo del Comité Nacional Sistema Producto Café.
+**Quinto.** Se abroga la Ley sobre Elaboración y Venta de Café Tostado, publicada en el Diario Oficial de la Federación el 25 de mayo de 1972.
+**Sexto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes y se realizarán con cargo a su presupuesto aprobado por la Cámara de Diputados para el ejercicio fiscal que corresponda.
 Ciudad de México, a 3 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Laura Irais Ballesteros Mancilla, Secretaria.- Sen. María Martina Kantún Can, Secretaria.Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.Rúbrica.

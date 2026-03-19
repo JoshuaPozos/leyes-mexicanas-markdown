@@ -5,7 +5,7 @@
 
 ---
 
-LEY DE AVIACIÓN CIVIL LEY DE AVIACIÓN CIVIL Nueva Ley publicada en el Diario Oficial de la Federación el 12 de mayo de 1995 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 12 de mayo de 1995 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ERNESTO ZEDILLO PONCE DE LEON, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 LEY DE AVIACION CIVIL
@@ -24,7 +24,7 @@ II. Aeronave: Toda máquina que puede sustentarse en la atmósfera por reaccione
 II Bis. Aeronave agrícola: La empleada exclusivamente para la fumigación de campos y cultivos del sector primario, con el fin de realizar el control de plagas y enfermedades del sector agropecuario;
 III. Aeródromo civil: Área definida de tierra o de agua adecuada para el despegue, aterrizaje, acuatizaje o movimiento de aeronaves, con instalaciones o servicios mínimos para garantizar la seguridad de su operación;
 III Bis. Aeródromo temporal: Área definida de tierra, adecuada para el despegue y aterrizaje de aeronaves agrícolas que realizan labores de fumigación agrícola y aquellas aeronaves autorizadas por la Agencia Federal de Aviación Civil;
-LEY DE AVIACIÓN CIVIL IV. Aeromodelo: Aeronave no tripulada, manejada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;
+IV. Aeromodelo: Aeronave no tripulada, manejada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;
 V. Aeronave Autónoma: Aeronave no tripulada que opera sin la intervención de piloto en la gestión del vuelo;
 V Bis. Aeronave Pilotada a Distancia para uso agrícola: Aeronave no tripulada que es pilotada desde una estación de pilotaje a distancia autorizada;
 VI. Aeronave no Tripulada: Aeronave destinada a volar sin piloto a bordo;
@@ -38,7 +38,7 @@ XII. Cabotaje: Transporte aéreo mediante remuneración o cualquier otro tipo de
 XIII. Certificado de aeronavegabilidad: Documento oficial que acredita que la aeronave está en condiciones técnicas satisfactorias para realizar operaciones de vuelo;
 XIV. Certificado de Explotador de Servicios Aéreos: Documento oficial por el que se autoriza a una concesionaria, asignataria o permisionaria a realizar determinadas operaciones de transporte aéreo comercial, que incluye las especificaciones de operación, conocido como "AOC" por las siglas en inglés de Air Operator's Certificate;
 XV. Certificado de matrícula: Documento que identifica y determina la nacionalidad de la aeronave;
-XVI. Comisión Investigadora y Dictaminadora de Accidentes Aéreos: Instancia integrada por la Secretaria y por expertos en la materia aeronáutica, investigadores y dictaminadores de accidentes aéreos, encargada de identificar la causa probable del accidente, elaborar y presentar los informes preliminar y final a la Secretaria, y hacer recomendaciones de carácter preventivo a la Agencia Federal de Aviación Civil, a toda persona concesionaria, LEY DE AVIACIÓN CIVIL asignataria, permisionaria, operadora aérea, a los prestadores de servicios a la navegación en el espacio aéreo mexicano, y demás prestadores de servicios;
+XVI. Comisión Investigadora y Dictaminadora de Accidentes Aéreos: Instancia integrada por la Secretaria y por expertos en la materia aeronáutica, investigadores y dictaminadores de accidentes aéreos, encargada de identificar la causa probable del accidente, elaborar y presentar los informes preliminar y final a la Secretaria, y hacer recomendaciones de carácter preventivo a la Agencia Federal de Aviación Civil, a toda persona concesionaria, asignataria, permisionaria, operadora aérea, a los prestadores de servicios a la navegación en el espacio aéreo mexicano, y demás prestadores de servicios;
 XVII. Datos sobre seguridad operacional: Conjunto definido de hechos o valores de seguridad operacional de diversas fuentes relacionadas con la aviación, y que se utilizan para mantener o mejorar la seguridad operacional;
 XVIII. Disposiciones técnico-administrativas: Circulares técnicas de carácter obligatorio, emitidas por la Secretaría o la Agencia Federal de Aviación Civil de conformidad con los artículos 6 y 6 Bis de esta Ley, respectivamente; las cuales regulan la operación, certificación de aeronaves, sistemas, equipos, licencias, certificados, aeropuertos, servicios de tránsito aéreo, búsqueda y salvamento e investigación de accidentes e incidentes y procedimientos que se difunden en la Publicación de Información Aeronáutica de México y se publican en el Diario Oficial de la Federación;
 XIX. Fatiga: Estado fisiológico que se caracteriza por una reducción de la capacidad de desempeño mental o físico debido a la falta de sueño o a periodos prolongados de vigilia, fase circadiana, o de trabajo (actividad mental y física) y que puede menoscabar el estado de alerta de una persona y su capacidad para desempeñar sus funciones relacionadas con la seguridad operacional;
@@ -50,7 +50,7 @@ XXIV. Persona pasajera: Aquella que celebra el contrato de transporte aéreo, la
 XXV. Procuraduría: Procuraduría Federal del Consumidor;
 XXVI. Programa Estatal de Seguridad Operacional: Conjunto integrado de reglamentos y actividades destinado a mejorar la seguridad operacional, conocido como "SSP" por las siglas en inglés de State Safety Program;
 XXVII. Programa de Seguridad de la Aviación Civil del Estado mexicano: El que elabore el Comité Nacional de Seguridad de Aviación Civil integrado por las personas representantes de las secretarías de la Defensa Nacional, de Marina, de Infraestructura, Comunicaciones y Transportes y apruebe la persona titular de la Secretaría de Infraestructura, Comunicaciones y Transportes;
-LEY DE AVIACIÓN CIVIL XXVIII. Proveedoras de servicio: Las personas concesionarias, asignatarias y permisionarias del servicio al público de transporte aéreo; las concesionarias, asignatarias, operadoras aeroportuarias y permisionarias de aeropuertos; Aeropuertos y Servicios Auxiliares, organismo descentralizado; Servicios a la Navegación en el Espacio Aéreo Mexicano, órgano administrativo desconcentrado; las permisionarias de talleres aeronáuticos; las empresas o consorcios creadoras del diseño de tipo y fabricadoras de aeronaves, motores o hélices; las personas prestadoras de servicios de tránsito aéreo; las instituciones educativas; las operadoras aéreas de aeronaves de Estado distintas de las militares, y las demás que los reglamentos establezcan;
+XXVIII. Proveedoras de servicio: Las personas concesionarias, asignatarias y permisionarias del servicio al público de transporte aéreo; las concesionarias, asignatarias, operadoras aeroportuarias y permisionarias de aeropuertos; Aeropuertos y Servicios Auxiliares, organismo descentralizado; Servicios a la Navegación en el Espacio Aéreo Mexicano, órgano administrativo desconcentrado; las permisionarias de talleres aeronáuticos; las empresas o consorcios creadoras del diseño de tipo y fabricadoras de aeronaves, motores o hélices; las personas prestadoras de servicios de tránsito aéreo; las instituciones educativas; las operadoras aéreas de aeronaves de Estado distintas de las militares, y las demás que los reglamentos establezcan;
 XXIX. Reglas de tránsito aéreo: Disposiciones técnico-administrativas emitidas por la Agencia Federal de Aviación Civil que establecen las condiciones de funcionamiento y operación de la navegación aérea;
 XXX. Ruta: Conexión por aerovía de puntos en el territorio nacional o entre un punto en territorio mexicano y otro punto en el extranjero y viceversa;
 XXXI. Secretaría: Secretaría de Infraestructura, Comunicaciones y Transportes;
@@ -62,7 +62,7 @@ XXXVI. Servicio de transporte aéreo no regular: El que no está sujeto a rutas,
 XXXVII. Servicio de transporte aéreo regular: El que está sujeto a itinerarios, frecuencias de vuelos y horarios, podrá ser nacional o internacional y de conformidad con lo establecido por esta Ley;
 XXXVIII. Sistema de Aeronave Pilotada a Distancia: Conjunto integrado por la Aeronave pilotada a distancia, su estación o estaciones conexas de pilotaje a distancia, los enlaces requeridos de mando y control, y cualquier otro componente;
 XXXIX. Sistema de gestión de la seguridad operacional: Enfoque sistemático para la gestión de la seguridad operacional que incluye las estructuras orgánicas, la obligación de rendición de cuentas, las responsabilidades, las políticas y procedimientos necesarios;
-XL. Sistema de Gestión de los Riesgos Asociados a la Fatiga: Conjunto de reglas, procedimientos y datos que sirven para controlar y gestionar constantemente los riesgos de seguridad operacional relacionados con la fatiga, los cuales se basan en principios, conocimientos científicos y en la experiencia operacional, con el propósito de asegurar el LEY DE AVIACIÓN CIVIL eficaz desempeño del personal con un nivel de alerta adecuado, conocido como “FRMS” por las siglas en inglés de Fatigue Risk Management System;
+XL. Sistema de Gestión de los Riesgos Asociados a la Fatiga: Conjunto de reglas, procedimientos y datos que sirven para controlar y gestionar constantemente los riesgos de seguridad operacional relacionados con la fatiga, los cuales se basan en principios, conocimientos científicos y en la experiencia operacional, con el propósito de asegurar el eficaz desempeño del personal con un nivel de alerta adecuado, conocido como “FRMS” por las siglas en inglés de Fatigue Risk Management System;
 XLI. Tratados: Los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados, y XLII. Vigilancia: Actividades mediante las cuales el Estado constata, de manera preventiva, con verificaciones, inspecciones y auditorías que las personas titulares de licencias, certificados, autorizaciones o aprobaciones en el ámbito de la aviación cumplen con los requisitos y las funciones establecidas, al nivel de competencia y seguridad operacional que se requiere.
 Las definiciones de los tratados internacionales en materia de aviación civil suscritos por el Estado mexicano que no estén contenidas en las leyes expedidas por el Congreso de la Unión, normas oficiales mexicanas, ni en las disposiciones técnico-administrativas aplicables, se utilizarán supletoriamente, siempre que no se opongan a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
 Artículo reformado DOF 26-01-2015, 26-06-2017, 18-06-2018, 20-05-2021. Reformado con fracciones en su totalidad DOF 03-05-2023
@@ -80,8 +80,7 @@ III. La Ley Federal de Procedimiento Administrativo, y Fracción reformada DOF 1
 
 ### Artículo 5
 . Las aeronaves mexicanas se clasifican en:
-I. Civiles, que podrán ser:
-LEY DE AVIACIÓN CIVIL a) De servicio al público: las empleadas para la prestación al público de un servicio de transporte aéreo regular o no regular, nacional o internacional; b) Privadas: las utilizadas para usos comerciales diferentes al servicio al público o para el transporte particular sin fines de lucro, y aquellas cuyo fin expreso sea la experimentación, acrobacia, exhibición y las que por su naturaleza sean de colección, y c) Agrícola: las empleadas exclusivamente para la fumigación de campos y cultivos del sector primario, con el fin de realizar el control de plagas y enfermedades del sector agrícola, de conformidad con las disposiciones técnico-administrativa que emita la Agencia Federal de Aviación Civil.
+I. Civiles, que podrán ser: a) De servicio al público: las empleadas para la prestación al público de un servicio de transporte aéreo regular o no regular, nacional o internacional; b) Privadas: las utilizadas para usos comerciales diferentes al servicio al público o para el transporte particular sin fines de lucro, y aquellas cuyo fin expreso sea la experimentación, acrobacia, exhibición y las que por su naturaleza sean de colección, y c) Agrícola: las empleadas exclusivamente para la fumigación de campos y cultivos del sector primario, con el fin de realizar el control de plagas y enfermedades del sector agrícola, de conformidad con las disposiciones técnico-administrativa que emita la Agencia Federal de Aviación Civil.
 II. De Estado, que podrán ser: a) Las de propiedad o uso de la Federación distintas de las militares; las de los gobiernos estatales y municipales, y las de las entidades paraestatales, y b) Las militares, que son las destinadas o en posesión del Ejército, Armada y Fuerza Aérea Nacionales.
 Artículo reformado DOF 28-12-2001, 03-05-2023
 
@@ -97,7 +96,7 @@ IV. Dirigir y controlar las operaciones de búsqueda y salvamento en accidentes 
 V. Investigar accidentes e incidentes sufridos por aeronaves civiles y emitir el informe preliminar y definitivo correspondiente, a través de la Comisión Investigadora y Dictaminadora de Accidentes Aéreos;
 VI. Expedir las disposiciones técnico-administrativas en materia de búsqueda y salvamento, así como de investigación de accidentes e incidentes para el cumplimiento de lo dispuesto en esta Ley y en los tratados de los que el Estado mexicano es parte, mismas que deben publicarse en el Diario Oficial de la Federación y difundirse en la Publicación de Información Aeronáutica de México;
 VII. Autorizar la cesión total o parcial, hipoteca, gravamen, transferencia o enajenación de las concesiones o los derechos en ellas conferidos a otros particulares, nacionales o extranjeros;
-LEY DE AVIACIÓN CIVIL VIII. Interpretar la presente Ley, sus reglamentos y demás normativa aplicable para efectos administrativos;
+VIII. Interpretar la presente Ley, sus reglamentos y demás normativa aplicable para efectos administrativos;
 IX. Expedir en los términos de la normativa aplicable las normas oficiales mexicanas, y X. Las demás atribuciones que esta Ley y otros ordenamientos jurídicos aplicables le otorgan a la Secretaría en materias relacionadas con el servicio de transporte aéreo civil.
 Artículo reformado DOF 28-12-2001, 05-07-2006, 21-05-2013, 18-06-2018, 20-05-2021, 03-05-2023
 
@@ -112,7 +111,7 @@ V. Expedir y aplicar, en coordinación con las Secretarías competentes, las med
 VI. Expedir los certificados de: a) Matrícula; b) Cancelación de matrícula; c) Aeronavegabilidad, y d) Explotador de servicios aéreos.
 VII. Determinar la suspensión, cancelación, revalidación o revocación de los certificados referidos en la fracción anterior;
 VIII. Establecer y vigilar el sistema de aerovías dentro del espacio aéreo nacional;
-LEY DE AVIACIÓN CIVIL IX. Participar en los organismos internacionales y en las negociaciones de tratados, así como acuerdos interinstitucionales en los términos de la ley sobre la materia;
+IX. Participar en los organismos internacionales y en las negociaciones de tratados, así como acuerdos interinstitucionales en los términos de la ley sobre la materia;
 X. Promover la formación, capacitación y adiestramiento del personal técnico aeronáutico;
 XI. Expedir y, en su caso, revalidar o cancelar las licencias del personal técnico-aeronáutico;
 XII. Interpretar la presente Ley, sus reglamentos, normas oficiales mexicanas y disposiciones técnico-administrativas, previa consulta con la Secretaría;
@@ -125,7 +124,7 @@ XVIII. Aplicar las medidas y normas oficiales mexicanas en materia de seguridad 
 XIX. Aplicar las normas oficiales mexicanas, así como expedir y aplicar las disposiciones técnico-administrativas relativas a la certificación, operación y fabricación de las aeronaves no tripuladas civiles y de Estado, excepto las militares;
 XX. Autorizar el establecimiento de oficinas de despacho de vuelos en la modalidad correspondiente, de acuerdo con la normativa aplicable;
 XXI. Efectuar la investigación administrativa y de seguridad aérea (regulatory investigation), que comprende otorgar la garantía de audiencia de los presuntos infractores y llevar a cabo el examen o indagación oficial de los hechos, en términos de la normativa aplicable, para determinar la responsabilidad administrativa en los accidentes o incidentes de que tenga conocimiento la Agencia Federal de Aviación Civil, con relación a los servicios de transporte aéreo, aeropuertos, aeródromos, servicios aeroportuarios y complementarios e instalaciones, así como de los servicios de apoyo a la navegación aérea, control del tránsito aéreo, las personas concesionarias, asignatarias, permisionarias y operadoras aéreas que cuenten con algún certificado o autorización otorgados por la Agencia Federal de Aviación Civil o Autoridad de Aviación Civil Extranjera, lo anterior de manera enunciativa más no limitativa, a fin de determinar las medidas de seguridad y sanciones que procedan;
-LEY DE AVIACIÓN CIVIL XXII. Expedir una aprobación específica para el transporte de mercancías peligrosas;
+XXII. Expedir una aprobación específica para el transporte de mercancías peligrosas;
 XXIII. Convalidar los certificados o documentos expedidos por Autoridades de Aviación Civil Extranjeras, organizaciones de instrucción reconocidas y talleres aeronáuticos en el extranjero, siempre y cuando el país de origen cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional;
 XXIV. Prestar el servicio de medicina de aviación, así como establecer y mantener unidades médicas, establecimientos de salud o laboratorios fijos o móviles;
 XXV. Vigilar a las personas físicas, morales o unidades administrativas que han sido autorizadas para actuar en representación de la Agencia Federal de Aviación Civil, de conformidad con las disposiciones técnico-administrativas correspondientes;
@@ -138,7 +137,7 @@ XXXI. Aplicar y vigilar el funcionamiento del sistema de medicina de aviación c
 XXXII. Autorizar a personas físicas, morales o unidades administrativas para que actúen en representación de la Agencia Federal de Aviación Civil para evaluar o examinar al personal técnico-aeronáutico y a los aspirantes a obtener un permiso para iniciar su formación como personal técnico-aeronáutico, de conformidad con las leyes, reglamentos, disposiciones técnico-administrativas y demás normativa aplicable;
 XXXIII. Vigilar que las personas físicas, morales o unidades administrativas autorizadas para evaluar o examinar a las personas que integran al personal técnico-aeronáutico y aspirantes a obtener un permiso para iniciar su formación como personal técnicoaeronáutico cumplan con sus responsabilidades y obligaciones;
 XXXIV. Llevar a cabo la vigilancia, constatación e inspección del cumplimiento de los requisitos médicos para la emisión de los certificados de aptitud psicofísica respecto del personal técnico-aeronáutico y, en su caso, la suspensión o revocación de estos;
-LEY DE AVIACIÓN CIVIL XXXV. Emitir el certificado de aptitud psicofísica conforme al tipo de evaluación médica, para las personas integrantes del personal técnico-aeronáutico y de los aspirantes a obtener un permiso para iniciar su formación como personal técnico-aeronáutico;
+XXXV. Emitir el certificado de aptitud psicofísica conforme al tipo de evaluación médica, para las personas integrantes del personal técnico-aeronáutico y de los aspirantes a obtener un permiso para iniciar su formación como personal técnico-aeronáutico;
 XXXVI. Realizar el análisis de las causas de incapacitación del personal técnico-aeronáutico durante el vuelo, a través de los reportes obligatorios acerca de estas, realizados por las concesionarias, asignatarias y permisionarias;
 XXXVII. Supervisar y vigilar a las personas proveedoras de servicios y operadoras aéreas extranjeras que presten sus servicios en territorio nacional;
 XXXVIII. Expedir autorizaciones para operaciones especiales, de conformidad con las disposiciones técnico-administrativas respectivas;
@@ -153,7 +152,7 @@ XLV. Implementar el Programa de Seguridad de la Aviación Civil del Estado mexic
 XLVI. Fijar las medidas necesarias para prevenir los actos de interferencia ilícita;
 XLVII. Vigilar permanentemente que las personas concesionarias, asignatarias, permisionarias, operadoras aéreas y prestadoras de servicios a la navegación aérea cumplan con esta Ley, sus reglamentos, normas oficiales mexicanas y demás disposiciones aplicables;
 XLVIII. Analizar y determinar la acreditación de las capacidades técnicas, administrativas, jurídicas y financieras para el otorgamiento de concesiones y asignaciones;
-LEY DE AVIACIÓN CIVIL XLIX. Revisar y aprobar previamente el contenido de la Publicación de Información Aeronáutica de México;
+XLIX. Revisar y aprobar previamente el contenido de la Publicación de Información Aeronáutica de México;
 XLIX Bis. Colaborar con la Secretaría en el proceso de planeación, formulación y revisión de la política aeronáutica;
 L. Autorizar a personas físicas, morales o unidades administrativas para que actúen en representación de la Agencia Federal de Aviación Civil, de conformidad con las disposiciones técnico-administrativas correspondientes, y LI. Las demás que señalen esta Ley y otros ordenamientos aplicables.
 Artículo adicionado DOF 03-05-2023
@@ -168,7 +167,7 @@ Fracción adicionada DOF 03-05-2023 II. Vigilar el cumplimiento de las disposici
 Fracción reformada DOF 03-05-2023 III. Vigilar el estricto cumplimiento de los deberes y responsabilidades de los Comandantes de Aeropuerto;
 IV. Vigilar que el personal de las comandancias de aeropuerto de su región esté debidamente capacitado para el desempeño de sus funciones;
 V. Vigilar la seguridad y eficiencia de las operaciones aeronáuticas;
-VI. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y LEY DE AVIACIÓN CIVIL VII. Las demás que expresamente les sean conferidas por su superior jerárquico y se encuentren fundadas en la legislación vigente aplicable a la materia.
+VI. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y VII. Las demás que expresamente les sean conferidas por su superior jerárquico y se encuentren fundadas en la legislación vigente aplicable a la materia.
 Artículo reformado DOF 23-01-1998, 28-12-2001
 
 ### Artículo 7
@@ -190,7 +189,7 @@ Artículo derogado DOF 22-12-1995
 
 ### Artículo 8
 Bis. Cuando el empleo de una aeronave amenace la seguridad de la aviación, la Secretaría de la Defensa Nacional coadyuvará con la Secretaría para garantizar la protección del espacio aéreo en lo siguiente:
-LEY DE AVIACIÓN CIVIL I. Solicitar a las personas propietarias o la tripulación de una aeronave nacional o extranjera de servicio privado no comercial, los documentos que amparen que la aeronave cuenta con los certificados de aeronavegabilidad y licencia establecidos en el estado de su matrícula;
+I. Solicitar a las personas propietarias o la tripulación de una aeronave nacional o extranjera de servicio privado no comercial, los documentos que amparen que la aeronave cuenta con los certificados de aeronavegabilidad y licencia establecidos en el estado de su matrícula;
 II. Verificar que los talleres aeronáuticos y centros de capacitación y adiestramiento, y la producción en el caso de fábricas de aeronaves y sus componentes, no se empleen para propósitos incompatibles con la aviación civil, y III. Emitir opinión en la expedición de medidas y normas respecto del tráfico aéreo que afecte la protección del espacio aéreo.
 Artículo adicionado DOF 03-05-2023
 
@@ -210,7 +209,7 @@ Párrafo reformado DOF 03-05-2023
 . Las concesiones se otorgarán hasta por un plazo de treinta años y podrán ser prorrogadas en una o varias ocasiones, siempre que cada una de dichas prórrogas no exceda el plazo a que se refiere este artículo, y el concesionario:
 I. Hubiere cumplido con las obligaciones señaladas en la concesión que se pretenda prorrogar;
 II. Lo solicite a más tardar un año antes de su conclusión;
-LEY DE AVIACIÓN CIVIL III. Hubiere realizado un mejoramiento en la calidad de los servicios prestados durante la vigencia de la concesión, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen en los reglamentos respectivos y demás disposiciones aplicables, y IV. Acepte las nuevas condiciones que establezca la Secretaría, con base en esta Ley.
+III. Hubiere realizado un mejoramiento en la calidad de los servicios prestados durante la vigencia de la concesión, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen en los reglamentos respectivos y demás disposiciones aplicables, y IV. Acepte las nuevas condiciones que establezca la Secretaría, con base en esta Ley.
 Sección Primera Bis De las asignaciones Sección adicionada DOF 03-05-2023
 
 ### Artículo 10
@@ -227,7 +226,7 @@ Fracción reformada DOF 20-05-2021 III. Servicio de transporte aéreo internacio
 Fracción reformada DOF 20-05-2021, 03-05-2023 Los permisos se otorgarán: a personas morales mexicanas en el caso de la fracción I; a sociedades extranjeras en el supuesto de la fracción II; a personas morales mexicanas o sociedades extranjeras en el caso de la fracción III; y a personas físicas o morales mexicanas o extranjeras en el de la fracción IV.
 Para la prestación del servicio de transporte aéreo internacional regular por personas morales mexicanas, se estará a lo dispuesto en el artículo 9 de esta Ley.
 Asimismo, se requerirá de permiso para el establecimiento de talleres aeronáuticos e instituciones educativas y del certificado de producción para el establecimiento de fábricas de producción en serie de aeronaves, motores de aeronaves, estaciones de pilotaje a distancia, hélices y sus artículos, que pueden otorgarse a personas físicas o morales, mexicanas o extranjeras.
-Párrafo reformado DOF 18-06-2018, 03-05-2023 LEY DE AVIACIÓN CIVIL Los certificados o documentación equivalente que expidan las instituciones educativas y talleres aeronáuticos extranjeros, se convalidarán por la Agencia Federal de Aviación Civil, siempre y cuando esos talleres e instituciones educativas estén acreditados por la Autoridad de Aviación Civil Extranjera, y ese país cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional.
+Párrafo reformado DOF 18-06-2018, 03-05-2023 Los certificados o documentación equivalente que expidan las instituciones educativas y talleres aeronáuticos extranjeros, se convalidarán por la Agencia Federal de Aviación Civil, siempre y cuando esos talleres e instituciones educativas estén acreditados por la Autoridad de Aviación Civil Extranjera, y ese país cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional.
 Párrafo adicionado DOF 26-01-2015. Reformado DOF 18-06-2018, 03-05-2023 Se podrán otorgar permisos a las instituciones educativas del país para llevar a cabo la formación del personal técnico-aeronáutico, de vuelo y tierra, a personas extranjeras para que estas puedan obtener su licencia correspondiente ante alguna Autoridad de Aviación Civil Extranjera, sin que ello obligue a la Agencia Federal de Aviación Civil a otorgar licencia comercial para operar en territorio nacional.
 Párrafo adicionado DOF 03-05-2023 En el caso de las fracciones I, III y IV los permisos se otorgarán por plazo indefinido. En el caso de la fracción II, los permisos podrán otorgarse por un plazo indefinido siempre y cuando existan convenios internacionales recíprocos con este fin. Si esto no fuera así, los permisos se otorgarán por un plazo máximo de un año.
 Párrafo reformado DOF 18-06-2018 En el reglamento correspondiente se precisarán los requisitos para la obtención de los permisos a que se refiere este artículo.
@@ -246,7 +245,6 @@ II. El objeto de la concesión o el permiso;
 III. En su caso, las rutas o vuelos autorizados;
 IV. Los programas de desarrollo y, en su caso, los programas de mantenimiento del servicio;
 V. Los derechos y obligaciones de los concesionarios o permisionarios, y VI. El período de vigencia.
-LEY DE AVIACIÓN CIVIL
 
 ### Artículo 14
 . Las concesiones o los permisos terminan por:
@@ -270,7 +268,7 @@ IX. Prestar servicios distintos de los autorizados en la concesión o asignació
 Fracción reformada DOF 03-05-2023 X. Infringir las condiciones de seguridad en materia de aeronavegabilidad y seguridad operacional;
 Fracción reformada DOF 18-06-2018 XI. Incumplir con las obligaciones de pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
 XII. Ejecutar u omitir actos que impidan la prestación de los servicios concesionados o asignados entre quienes tengan derecho a ello;
-LEY DE AVIACIÓN CIVIL Fracción reformada DOF 21-05-2013, 03-05-2023 XIII. Infringir las medidas y normas de higiene y de protección al ambiente;
+Fracción reformada DOF 21-05-2013, 03-05-2023 XIII. Infringir las medidas y normas de higiene y de protección al ambiente;
 Fracción adicionada DOF 21-05-2013. Reformada DOF 26-01-2015 XIV. Realizar cabotaje en territorio nacional, utilizando aeronaves extranjeras no autorizadas para tal fin, y Fracción adicionada DOF 26-01-2015 XV. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos y en el título de concesión o asignación, siempre que por el incumplimiento se haya impuesto una sanción y esta haya quedado firme en términos de ley.
 Fracción recorrida DOF 21-05-2013, 26-01-2015, 03-05-2023 La Secretaría revocará las concesiones de manera inmediata en los supuestos de las fracciones I a V, VII y XIV anteriores. De igual forma procederá en el caso de la fracción X, cuando a su juicio sea grave la infracción para la seguridad de la operación.
 Párrafo reformado DOF 06-06-2006, 26-01-2015, 03-05-2023 En los casos de las fracciones VI, VIII, IX, XI, XII y XIII la Secretaría revocará la concesión cuando previamente hubiese sanción en contra del concesionario, por lo menos en dos ocasiones, por las causas previstas en la misma fracción, en un período de diez años.
@@ -288,7 +286,7 @@ VI. Aplicar tarifas diferentes de las registradas o, en su caso, aprobadas por l
 VII. Presentar documentos oficiales alterados o falsificados relacionados con esta Ley;
 VIII. Suspender, en forma total, la prestación de los servicios sin autorización de la Agencia Federal de Aviación Civil, salvo en caso fortuito o de fuerza mayor;
 IX. Prestar servicios distintos de los señalados en el permiso respectivo;
-LEY DE AVIACIÓN CIVIL X. Infringir las condiciones de seguridad en materia de aeronavegabilidad y seguridad operacional;
+X. Infringir las condiciones de seguridad en materia de aeronavegabilidad y seguridad operacional;
 XI. Incumplir con las obligaciones de pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
 XII. Ejecutar u omitir actos que impidan la prestación de los servicios permisionados entre quienes tengan derecho a ello;
 XIII. Infringir las medidas y normas oficiales mexicanas en materia de higiene y de protección al medio ambiente, y XIV. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos o en el permiso respectivo, siempre que por el incumplimiento se haya impuesto una sanción y esta haya quedado firme en términos de ley.
@@ -308,7 +306,7 @@ Del servicio de transporte aéreo Sección Primera Generalidades
 
 ### Artículo 17
 . En la prestación de los servicios de transporte aéreo se deberán adoptar las medidas necesarias para garantizar las condiciones máximas de seguridad de la aeronave y de su operación, a fin de proteger la integridad física de los usuarios y de sus bienes, así como la de terceros.
-LEY DE AVIACIÓN CIVIL Los servicios deberán prestarse de manera permanente y uniforme, en condiciones equitativas y no discriminatorias en cuanto a calidad, oportunidad y precio.
+Los servicios deberán prestarse de manera permanente y uniforme, en condiciones equitativas y no discriminatorias en cuanto a calidad, oportunidad y precio.
 
 ### Artículo 17
 Bis. Las prácticas de cabotaje por parte de permisionarios extranjeros en territorio mexicano están prohibidas.
@@ -331,7 +329,7 @@ Fracción reformada DOF 03-05-2023
 ### Artículo 20
 . La prestación de servicios de transporte aéreo internacional regular por personas morales mexicanas estará sujeta a lo siguiente:
 I. Para la operación de las rutas correspondientes, se requiere de la autorización que otorgue la Agencia Federal de Aviación Civil;
-LEY DE AVIACIÓN CIVIL Fracción reformada DOF 03-05-2023 II. Las autorizaciones respectivas únicamente se otorgarán a las personas que cuenten con concesión para prestar el servicio de transporte aéreo regular nacional;
+Fracción reformada DOF 03-05-2023 II. Las autorizaciones respectivas únicamente se otorgarán a las personas que cuenten con concesión para prestar el servicio de transporte aéreo regular nacional;
 III. Las autorizaciones se ajustarán a lo convenido con el Estado hacia el cual se opere la ruta;
 IV. Las autorizaciones se referirán a rutas específicas;
 V. Las rutas específicas podrán comercializarse cuando hayan sido autorizadas. Su operación debe iniciarse en un plazo máximo de ciento ochenta días, contado a partir de la fecha en que se haya expedido la autorización. De no operarse la ruta en dicho plazo, esta quedará cancelada sin necesidad de declaratoria de la Agencia Federal de Aviación Civil, y Fracción reformada DOF 03-05-2023 VI. En los casos en que más de una concesionaria solicite la operación de una misma ruta asignable por la Agencia Federal de Aviación Civil, esta otorgará la autorización correspondiente a aquella que ofrezca las mejores condiciones para la prestación del servicio.
@@ -351,7 +349,7 @@ Artículo reformado DOF 03-05-2023
 Párrafo reformado DOF 03-05-2023 En el caso de los servicios de fletamento, los permisionarios deberán observar lo siguiente:
 I. Los vuelos o paquetes de vuelos quedan sujetos a autorización previa de la Agencia Federal de Aviación Civil;
 Fracción reformada DOF 03-05-2023 II. Los servicios que presten en ningún caso podrán traducirse o de hecho ser equivalentes a los del transporte aéreo regular;
-III. Los servicios serán complementarios a los del transporte aéreo regular, y IV. En los contratos de fletamento de aeronaves que celebren con prestadores de servicios turísticos, deberá pactarse que los servicios de transporte aéreo se comercializarán, en todo LEY DE AVIACIÓN CIVIL caso, como parte de otros servicios en paquete; y conforme con lo que establezca el reglamento respectivo.
+III. Los servicios serán complementarios a los del transporte aéreo regular, y IV. En los contratos de fletamento de aeronaves que celebren con prestadores de servicios turísticos, deberá pactarse que los servicios de transporte aéreo se comercializarán, en todo caso, como parte de otros servicios en paquete; y conforme con lo que establezca el reglamento respectivo.
 Las aeronaves autorizadas para la prestación del servicio de taxi aéreo podrán ser de hasta 19 pasajeros o 3,500 kilogramos de carga.
 Párrafo adicionado DOF 28-12-2001. Reformado DOF 18-06-2018 La prestación de los servicios de taxi aéreo queda sujeta a las condiciones que se especifiquen en los permisos que, para tal efecto, se otorguen por la Agencia Federal de Aviación Civil con base en esta Ley y en los criterios que atiendan, entre otros elementos, las especificaciones de los equipos aéreos, las características de las operaciones y la forma de comercialización de los servicios.
 Párrafo reformado DOF 28-12-2001, 03-05-2023
@@ -377,7 +375,7 @@ Las permisionarias extranjeras que presten servicios aéreos a terceros tienen p
 Artículo reformado DOF 26-01-2015, 03-05-2023
 
 ## Sección Cuarta
-De las operaciones de aeronaves para uso particular LEY DE AVIACIÓN CIVIL Denominación de la Sección reformada DOF 03-05-2023
+De las operaciones de aeronaves para uso particular Denominación de la Sección reformada DOF 03-05-2023
 
 ### Artículo 28
 . La operación de las aeronaves para uso particular es aquella que se realiza sin fines de lucro; no requiere de permiso, pero debe contar con los certificados de matrícula y de aeronavegabilidad, así como con póliza de seguro vigente.
@@ -401,7 +399,7 @@ Artículo reformado DOF 28-12-2001, 03-05-2023 Sección Quinta De las aeronaves 
 Las aeronaves militares se regirán para su operación por las disposiciones aplicables en específico a las mismas, sin perjuicio de lo dispuesto por el artículo 37 de esta Ley.
 
 ## Capítulo V
-De las operaciones LEY DE AVIACIÓN CIVIL
+De las operaciones
 
 ### Artículo 32
 . Toda aeronave, para realizar vuelos, debe llevar a bordo la información aeronáutica necesaria para sus operaciones, la póliza de seguro, así como los certificados de aeronavegabilidad y de matrícula vigentes o copia certificada de estos.
@@ -422,7 +420,7 @@ Párrafo reformado DOF 03-05-2023 Artículo adicionado DOF 20-05-2021
 
 ### Artículo 32
 Ter. La operación, mantenimiento y los horarios de funcionamiento de las aeronaves pilotadas y pilotadas a distancia de uso agrícola se regirán por las disposiciones técnico-administrativas que emita la Agencia Federal de Aviación Civil.
-Artículo adicionado DOF 03-05-2023 LEY DE AVIACIÓN CIVIL
+Artículo adicionado DOF 03-05-2023
 
 ### Artículo 33
 . En las aeronaves civiles no podrán abordar personas armadas, en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o enervantes; y sólo con las autorizaciones correspondientes podrán transportarse cadáveres o personas que, por la naturaleza de su enfermedad, presenten riesgo para los demás pasajeros.
@@ -450,7 +448,7 @@ Dicho certificado se debe emitir de conformidad con las normas oficiales mexican
 Artículo adicionado DOF 03-05-2023
 
 ## Capítulo VI
-Del tránsito aéreo LEY DE AVIACIÓN CIVIL
+Del tránsito aéreo
 
 ### Artículo 35
 . De acuerdo con las reglas de vuelo por instrumentos, para la navegación en el espacio aéreo, es obligatorio utilizar los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáutica, así como los servicios de despacho e información de vuelos que preste la Secretaría o, en su caso, la persona facultada por esta. Asimismo, es obligatorio hacer uso del sistema de aerovías indicado en la Publicación de Información Aeronáutica de México.
@@ -473,7 +471,7 @@ Del personal técnico aeronáutico Sección Primera Disposiciones comunes
 
 ### Artículo 38
 . El personal técnico-aeronáutico está constituido por el personal de vuelo que interviene directamente en la operación de la aeronave y por el personal de tierra, cuyas funciones se especifiquen en el reglamento correspondiente. Dicho personal debe, además de ser mexicano por nacimiento, no adquirir otra nacionalidad y contar con las licencias respectivas.
-Párrafo reformado DOF 23-01-1998, 03-05-2023 Para la operación de aeronaves de uso particular, las personas nacionales y extranjeras que las piloten pueden solicitar a la Agencia Federal de Aviación Civil la convalidación u obtención de la licencia LEY DE AVIACIÓN CIVIL de piloto privado, previo cumplimiento de los reglamentos correspondientes y de las disposiciones técnico-administrativas respectivas.
+Párrafo reformado DOF 23-01-1998, 03-05-2023 Para la operación de aeronaves de uso particular, las personas nacionales y extranjeras que las piloten pueden solicitar a la Agencia Federal de Aviación Civil la convalidación u obtención de la licencia de piloto privado, previo cumplimiento de los reglamentos correspondientes y de las disposiciones técnico-administrativas respectivas.
 Párrafo adicionado DOF 28-12-2001. Reformado DOF 03-05-2023 La vigencia de las licencias del personal técnico aeronáutico será de tres años, salvo que:
 I. Se solicite la obtención de una licencia cuando previamente haya sido suspendida o cancelada una anterior, caso en el que su vigencia será de un año, transcurrido el cual, de mediar una nueva solicitud, la Agencia Federal de Aviación Civil determinará, si conforme al cumplimiento del interesado en el uso de la licencia, se le otorga por dos años o nuevamente por un año, o Fracción reformada DOF 03-05-2023 II. Se trate de la convalidación de licencia, cuya vigencia no podrá exceder de aquella otorgada por la Autoridad de Aviación Civil Extranjera.
 Fracción reformada DOF 03-05-2023 Párrafo con fracciones adicionado DOF 26-01-2015 Para que el personal técnico-aeronáutico pueda dedicarse al ejercicio de su actividad, deberá acreditar ante la Agencia Federal de Aviación Civil ser titular de una licencia vigente expedida por esta y contar con el certificado de aptitud psicofísica vigente correspondiente a su actividad.
@@ -486,7 +484,7 @@ Párrafo adicionado DOF 03-05-2023
 ### Artículo 39
 . Las personas concesionarias, asignatarias, o permisionarias tendrán la obligación, de conformidad con la ley de la materia, de proporcionar al personal a que se refiere el artículo anterior, la capacitación y el adiestramiento que se requiera para que la prestación de los servicios sea eficiente y segura.
 Las personas instructoras que impartan la capacitación y el adiestramiento deben contar con registro ante la Agencia Federal de Aviación Civil o ante la institución educativa extranjera para la cual presten sus servicios.
-La Agencia Federal de Aviación Civil, sin perjuicio de las atribuciones que correspondan a la Secretaría del Trabajo y Previsión Social, en coordinación con otras autoridades federales competentes, LEY DE AVIACIÓN CIVIL determinará los lineamientos generales aplicables para la definición de aquellos conocimientos, habilidades y destrezas que requieran de certificación, para garantizar la seguridad en la prestación de los servicios aéreos y aeroportuarios. Dicha certificación se sujetará al régimen que las autoridades señaladas establezcan.
+La Agencia Federal de Aviación Civil, sin perjuicio de las atribuciones que correspondan a la Secretaría del Trabajo y Previsión Social, en coordinación con otras autoridades federales competentes, determinará los lineamientos generales aplicables para la definición de aquellos conocimientos, habilidades y destrezas que requieran de certificación, para garantizar la seguridad en la prestación de los servicios aéreos y aeroportuarios. Dicha certificación se sujetará al régimen que las autoridades señaladas establezcan.
 En la determinación de los lineamientos generales antes citados, las autoridades competentes establecerán procedimientos que consideren las propuestas y operaciones de las personas concesionarias, asignatarias y permisionarias.
 Artículo reformado DOF 26-01-2015, 03-05-2023 Sección Segunda Del comandante de la aeronave
 
@@ -503,7 +501,7 @@ Las personas concesionarias, asignatarias, permisionarias y operadoras aéreas s
 Artículo reformado DOF 26-01-2015, 20-05-2021, 03-05-2023
 
 ## Capítulo VIII
-LEY DE AVIACIÓN CIVIL De las tarifas
+De las tarifas
 
 ### Artículo 42
 . Las personas concesionarias, asignatarias, o permisionarias fijarán libremente las tarifas por los servicios que presten, en términos que permitan la prestación de los servicios en condiciones satisfactorias de calidad, competitividad, seguridad y permanencia.
@@ -522,7 +520,7 @@ Artículo adicionado DOF 26-06-2017
 
 ### Artículo 43
 . Cuando la Agencia Federal de Aviación Civil, por sí o a petición de la parte afectada, considere que no existe competencia efectiva entre las concesionarias, asignatarias o permisionarias, solicitará la opinión de la Comisión Federal de Competencia Económica para que, en su caso, la Agencia Federal de Aviación Civil establezca bases de regulación tarifaria. Dicha regulación se mantendrá sólo mientras subsistan las condiciones que la motivaron.
-Párrafo reformado DOF 03-05-2023 LEY DE AVIACIÓN CIVIL La Agencia Federal de Aviación Civil podrá establecer tarifas específicas para la prestación de los servicios, así como mecanismos de ajuste y periodos de vigencia.
+Párrafo reformado DOF 03-05-2023 La Agencia Federal de Aviación Civil podrá establecer tarifas específicas para la prestación de los servicios, así como mecanismos de ajuste y periodos de vigencia.
 Párrafo reformado DOF 03-05-2023 Los concesionarios y permisionarios sujetos a tal regulación podrán solicitar a la Comisión Federal de Competencia que emita opinión sobre la aplicación y subsistencia de tales condiciones.
 
 ## Capítulo IX
@@ -544,7 +542,7 @@ Párrafo reformado DOF 28-12-2001, 03-05-2023
 
 ### Artículo 46
 . La cancelación de la matrícula de una aeronave en el Registro Aeronáutico Mexicano tendrá por consecuencia la pérdida de su nacionalidad mexicana y podrá realizarse en los siguientes casos:
-LEY DE AVIACIÓN CIVIL I. A solicitud escrita del propietario o legítimo poseedor de la aeronave. No podrá cancelarse el registro de matrícula de una aeronave sujeta a gravamen, sin el consentimiento del acreedor;
+I. A solicitud escrita del propietario o legítimo poseedor de la aeronave. No podrá cancelarse el registro de matrícula de una aeronave sujeta a gravamen, sin el consentimiento del acreedor;
 II. Por mandamiento judicial o de otra autoridad competente;
 III. En caso de destrucción, pérdida o abandono de la aeronave;
 IV. Por vencimiento del plazo, tratándose de matrículas provisionales;
@@ -568,7 +566,7 @@ De los derechos y las obligaciones de los pasajeros Capítulo adicionado DOF 26-
 ### Artículo 47
 Bis. La persona concesionaria, asignataria o permisionaria están obligadas a proporcionar un servicio eficiente y de calidad a las personas pasajeras.
 Párrafo reformado DOF 03-05-2023 Para garantizar lo anterior, debe respetar y cumplir con cuando menos sus siguientes derechos:
-LEY DE AVIACIÓN CIVIL Encabezado de párrafo adicionado DOF 03-05-2023 I. Las personas pasajeras con alguna discapacidad tienen derecho a ser transportados sin ningún tipo de discriminación por las personas concesionarias, asignatarias o permisionarias.
+Encabezado de párrafo adicionado DOF 03-05-2023 I. Las personas pasajeras con alguna discapacidad tienen derecho a ser transportados sin ningún tipo de discriminación por las personas concesionarias, asignatarias o permisionarias.
 Estas deben establecer mecanismos de conformidad con las disposiciones técnicoadministrativas para garantizar el transporte de personas con discapacidad, conforme a las medidas de seguridad operacional. Las personas pasajeras con discapacidad que requieran transportar dispositivos médicos o de asistencia, inherentes a su discapacidad, pueden hacerlo de acuerdo a lo establecido por el artículo 47 Bis 1 de la presente Ley. No se pueden establecer condiciones ni aplicar cargos adicionales para permitir el abordaje de personas con discapacidad.
 Para efectos de esta fracción se entiende por dispositivos médicos o de asistencia: cualquier equipo que ayude a un pasajero con discapacidad a hacer frente a los efectos de su discapacidad. Dichos dispositivos están destinados a ayudar a un pasajero con discapacidad a oír, ver, comunicarse, maniobrar o realizar otras funciones de la vida diaria, y pueden incluir instrumentos o elementos médicos y medicamentos.
 Fracción reformada DOF 03-05-2023 II. La persona pasajera mayor de edad puede, sin pago de ninguna tarifa, llevar a un infante menor de dos años a su cuidado sin derecho a asiento ni a franquicia de equipaje, por lo que la persona concesionaria, asignataria o permisionaria está obligada a expedir sin costo alguno a favor del infante el boleto y pase de abordar correspondiente. Únicamente en este caso, la persona pasajera puede transportar sin cargo adicional una carriola para infantes.
@@ -576,7 +574,7 @@ Fracción reformada DOF 03-05-2023 III. La persona pasajera tiene derecho a un t
 De la misma forma, si los cambios se produjeran dentro de las veinticuatro horas previas a la salida programada, las personas concesionarias, asignatarias o permisionarias deben informar a las personas pasajeras tan pronto tengan certeza de que dichos cambios son inevitables, sin que esto las exima de su responsabilidad frente a las personas pasajeras.
 La Agencia Federal de Aviación Civil debe supervisar que las personas concesionarias, asignatarias y permisionarias informen de manera oportuna a las personas pasajeras de posibles cambios, retrasos o cancelaciones en su itinerario.
 Fracción reformada DOF 03-05-2023 IV. En el caso de que la persona pasajera haya adquirido boletos de ida y vuelta o con conexión, puede disponer de ellos para cada segmento particular; las personas concesionarias, asignatarias y permisionarias no pueden negarle el embarque a un vuelo por no haber utilizado alguno de los segmentos del trayecto total.
-Para garantizar el cumplimiento de lo anterior, la persona pasajera debe informar a las personas concesionarias, asignatarias o permisionarias, en el lapso de veinticuatro horas contadas a partir de la hora programada del segmento no utilizado, que hará uso de los LEY DE AVIACIÓN CIVIL segmentos subsecuentes por los medios electrónicos que señalen las personas concesionarias, asignatarias o permisionarias.
+Para garantizar el cumplimiento de lo anterior, la persona pasajera debe informar a las personas concesionarias, asignatarias o permisionarias, en el lapso de veinticuatro horas contadas a partir de la hora programada del segmento no utilizado, que hará uso de los segmentos subsecuentes por los medios electrónicos que señalen las personas concesionarias, asignatarias o permisionarias.
 Fracción reformada DOF 03-05-2023 V. En caso de que exista retraso en relación con la hora de salida estipulada en el boleto y la causa sea atribuible a la persona concesionaria, asignataria o permisionaria, la persona pasajera será indemnizada o compensada por la persona proveedora del servicio de acuerdo con los siguientes criterios:
 Párrafo reformado DOF 03-05-2023 a) Cuando la demora sea superior a una hora e inferior a cuatro, se compensará conforme las políticas de compensación de cada permisionario o concesionario.
 Las políticas de compensación deben incluir mínimamente descuentos para vuelos en fecha posterior hacia el destino contratado, alimentos y bebidas o una combinación de estos, de acuerdo con lo establecido por las personas concesionarias, asignatarias o permisionarias y conforme al principio de competitividad.
@@ -586,7 +584,7 @@ Párrafo reformado DOF 03-05-2023 b) Si la demora es mayor a cuatro horas, la pe
 Párrafo reformado DOF 03-05-2023 En todos los casos, el proveedor del servicio deberá poner a disposición de los pasajeros en espera acceso a llamadas telefónicas y envío de correos electrónicos.
 VI. En caso de producirse la cancelación del vuelo por responsabilidad atribuible a la persona concesionaria, asignataria o permisionaria deben, a elección de la persona pasajera:
 Párrafo reformado DOF 03-05-2023 a) Reintegrarle el precio del boleto o billete de pasaje o la proporción que corresponda a la parte no realizada del viaje. b) Ofrecerle, con todos los medios a su alcance, transporte sustituto en el primer vuelo disponible y proporcionarle, como mínimo y sin cargo, acceso a llamadas telefónicas y envío de correos electrónicos; alimentos de conformidad con el tiempo de espera que medie hasta el embarque en otro vuelo; alojamiento en hotel del aeropuerto o de la ciudad cuando se requiera pernocta y, en este último caso, transporte terrestre desde y hacia el aeropuerto. c) Transportarle en la fecha posterior que convenga al mismo pasajero hacia el destino respecto del cual haya sido cancelado el vuelo.
-LEY DE AVIACIÓN CIVIL En los casos de los incisos a) y c) anteriores, la persona concesionaria, asignataria o permisionaria debe cubrir, además, una indemnización a la persona pasajera afectada no inferior al veinticinco por ciento del precio del boleto o de la parte no realizada del viaje.
+En los casos de los incisos a) y c) anteriores, la persona concesionaria, asignataria o permisionaria debe cubrir, además, una indemnización a la persona pasajera afectada no inferior al veinticinco por ciento del precio del boleto o de la parte no realizada del viaje.
 Párrafo reformado DOF 03-05-2023 VII. Si por caso fortuito o fuerza mayor, la aeronave realiza un aterrizaje en un lugar distinto al de destino, la persona concesionaria, asignataria o permisionaria debe trasladar a la persona pasajera por los medios de transporte más rápidos disponibles, hasta el lugar de destino.
 Fracción reformada DOF 03-05-2023 VIII. La persona pasajera puede solicitar la devolución de su boleto en caso de que decida no efectuar el viaje, siempre y cuando lo comunique a la persona concesionaria, asignataria o permisionaria en el lapso de veinticuatro horas contadas a partir de la hora de la compra del boleto. Pasado este plazo, la persona concesionaria, asignataria o permisionaria determinará las condiciones de la cancelación.
 Fracción reformada DOF 03-05-2023 IX. Para vuelos nacionales e internacionales, la persona pasajera puede transportar como mínimo, y sin cargo alguno, veinticinco kilogramos de equipaje cuando los vuelos se realicen en aeronaves con capacidad para veinte personas pasajeras o más, y quince kilogramos cuando la aeronave sea de menor capacidad, siempre que acate las indicaciones de la persona concesionaria, asignataria o permisionaria en cuanto al número de piezas y restricciones de volumen. El exceso de equipaje debe ser transportado de acuerdo con la capacidad disponible de la aeronave y la persona concesionaria, asignataria o permisionaria, en este caso, tiene derecho a solicitar a la persona pasajera un pago adicional.
@@ -595,7 +593,7 @@ Párrafo reformado DOF 03-05-2023 Además, la persona pasajera puede llevar en c
 Las dimensiones de cada pieza de equipaje de mano serán de hasta 55 centímetros de largo por 40 centímetros de ancho por 25 centímetros de alto, y el peso de ambas no deben exceder los 10 kilogramos, siempre y cuando por su naturaleza o dimensiones no disminuyan la seguridad y la comodidad de las personas pasajeras.
 Párrafo reformado DOF 20-05-2021, 03-05-2023 La persona concesionaria, asignataria o permisionaria se asegurará de que todo el equipaje de mano embarcado en el avión e introducido en la cabina de personas pasajeras quede bien asegurado y retenido, que evite que caiga de los compartimientos superiores y cause alguna lesión, que no obstruya las salidas y equipo de emergencia, que no exceda las limitaciones de peso de los compartimientos de almacenaje, que no se lleve equipaje de mano durante una evacuación, así como que cuente con los procedimientos para el manejo del exceso en equipaje de mano.
 Párrafo adicionado DOF 03-05-2023 La persona concesionaria, asignataria o permisionaria puede solicitar a la persona pasajera un pago por peso y dimensiones adicionales del equipaje de mano, pero no puede realizar cobros por pesos y dimensiones menores a los establecidos en esta fracción.
-Párrafo adicionado DOF 03-05-2023 LEY DE AVIACIÓN CIVIL Para los servicios de transporte aéreo internacional, el transporte de equipaje se sujetará a lo dispuesto en los Tratados.
+Párrafo adicionado DOF 03-05-2023 Para los servicios de transporte aéreo internacional, el transporte de equipaje se sujetará a lo dispuesto en los Tratados.
 X. La persona pasajera tiene derecho a conocer los términos del contrato, así como los derechos de los que goza. La persona concesionaria, asignataria o permisionaria debe informarle, al momento de la compra del boleto, acerca de los términos y condiciones del servicio contratado, las políticas de compensación, así como sus derechos.
 Las personas concesionarias, asignatarias o permisionarias están obligadas a pagar las indemnizaciones previstas en la presente Ley dentro de un periodo máximo de diez días naturales posteriores a su reclamación, hecha por la persona pasajera, salvo las compensaciones de alimentos y hospedaje que deben ser cubiertas al momento de que el retraso del vuelo se actualice.
 Toda cláusula o disposición que pretenda exonerar a la persona concesionaria, asignataria o permisionaria de su responsabilidad, o evitar el pago de las indemnizaciones o compensaciones mencionadas o a fijar un límite inferior al establecido en la presente Ley es nula de pleno derecho por lo que no tendrá efecto legal alguno. En ningún caso, será posible el perdón, condonación o cualquier figura que implique el no pago de las indemnizaciones, compensaciones o sanciones establecidas en la presente Ley.
@@ -611,7 +609,7 @@ Artículo adicionado DOF 26-06-2017
 Bis 2. Con el fin de dar cumplimiento a las disposiciones señaladas en este capítulo, los concesionarios o permisionarios de servicio al público de transporte aéreo deberán de contar con un módulo de atención al pasajero en cada una de las terminales en donde operen. La Procuraduría deberá establecer mecanismos para regular estos módulos y garantizar que los procedimientos que ahí se realicen se hagan de forma sencilla y expedita.
 El concesionario o permisionario podrá implementar procedimientos electrónicos con el fin de agilizar los procesos de atención al pasajero y su seguimiento, siempre y cuando informe de manera clara y oportuna sobre su funcionamiento al pasajero y, en caso de que este lo requiera, le brinde el apoyo necesario para su uso.
 En caso de que los concesionarios o permisionarios incumplan con estos procedimientos, la Procuraduría impondrá sanciones de acuerdo a lo dispuesto en el artículo 47 Bis 3 de esta Ley, las cuales se aplicarán independientemente de las compensaciones previamente señaladas para el pasajero.
-Artículo adicionado DOF 26-06-2017 LEY DE AVIACIÓN CIVIL
+Artículo adicionado DOF 26-06-2017
 
 ### Artículo 47
 Bis 3. La Procuraduría, en el ámbito de sus competencias, sancionará las infracciones a los derechos de los pasajeros, en los términos de la Ley Federal de Protección al Consumidor.
@@ -636,7 +634,7 @@ De los contratos Sección Primera De los contratos de transporte aéreo
 El contrato se perfecciona con la compra del boleto de pasaje, el cual puede ser emitido a través de medios físicos o electrónicos. Su formato se sujetará a lo especificado en las disposiciones técnicoadministrativas correspondientes.
 La interpretación del contrato se sujetará a lo previsto en la presente Ley, el reglamento correspondiente, la Ley Federal de Protección al Consumidor, las normas oficiales mexicanas y las disposiciones técnico-administrativas correspondientes.
 Es obligación de las personas concesionarias, asignatarias o permisionarias de servicio al público de transporte aéreo presentar desde el primer momento el costo total del boleto, impuestos incluidos.
-LEY DE AVIACIÓN CIVIL Las personas permisionarias, asignatarias o concesionarias pueden ofrecer servicios adicionales al momento de la compra. Sin embargo, no pueden realizar cargos que condicionen la compra del boleto a la contratación obligatoria de servicios adicionales.
+Las personas permisionarias, asignatarias o concesionarias pueden ofrecer servicios adicionales al momento de la compra. Sin embargo, no pueden realizar cargos que condicionen la compra del boleto a la contratación obligatoria de servicios adicionales.
 Artículo reformado DOF 26-06-2017, 03-05-2023
 
 ### Artículo 50
@@ -657,7 +655,7 @@ En los casos de las fracciones I y III anteriores, el concesionario o permisiona
 ### Artículo 52
 Bis. En el caso de la denegación de embarque por expedición de boletos en exceso a la capacidad disponible de la aeronave, el concesionario o permisionario deberá solicitar voluntarios que renuncien al embarque a cambio de beneficios que acuerde directamente con el pasajero, los cuales no podrán ser inferiores a las opciones establecidas en el artículo anterior.
 Tendrán prioridad para abordar en sustitución de los voluntarios a que refiere el presente artículo, las personas con alguna discapacidad, las personas adultas mayores, los menores no acompañados y las mujeres embarazadas.
-Artículo adicionado DOF 26-06-2017 LEY DE AVIACIÓN CIVIL
+Artículo adicionado DOF 26-06-2017
 
 ### Artículo 53
 . Los pasajeros no tendrán los derechos a que se refiere el artículo anterior cuando el transporte lo hagan a título gratuito, con tarifas reducidas que no estén disponibles al público, o cuando no se presenten o lo hicieren fuera del tiempo fijado para documentar el embarque.
@@ -684,7 +682,7 @@ En las tarifas que ofrezcan los concesionarios o permisionarios estarán incluid
 Sección segunda Del contrato de fletamento de aeronaves
 
 ### Artículo 59
-. El fletamento de aeronaves es el contrato mediante el cual el permisionario de la prestación del servicio al público de transporte aéreo no regular, en su carácter de fletante, pone a disposición del fletador, a cambio del pago de un precio determinado llamado flete, la capacidad útil total o parcial de una o más aeronaves para transportar personas, carga o correo, una o más veces o durante LEY DE AVIACIÓN CIVIL un período determinado, reservándose el fletante la dirección de la tripulación y la conducción técnica de la aeronave.
+. El fletamento de aeronaves es el contrato mediante el cual el permisionario de la prestación del servicio al público de transporte aéreo no regular, en su carácter de fletante, pone a disposición del fletador, a cambio del pago de un precio determinado llamado flete, la capacidad útil total o parcial de una o más aeronaves para transportar personas, carga o correo, una o más veces o durante un período determinado, reservándose el fletante la dirección de la tripulación y la conducción técnica de la aeronave.
 
 ### Artículo 60
 . El fletante responderá exclusivamente ante el fletador por el incumplimiento de las obligaciones pactadas entre ellos, y además será responsable por los daños que se produzcan a las personas, carga o correo transportados en su aeronave o a los causados a terceros en la superficie por ésta, así como por aquéllos que se ocasionen por los abordajes en que la propia aeronave intervenga.
@@ -710,7 +708,7 @@ Artículo reformado DOF 18-06-2018
 
 ### Artículo 64
 . En los casos de las indemnizaciones previstas en los artículos 62 y 63 anteriores, el concesionario o permisionario no gozará del beneficio de limitación de responsabilidad, y deberá cubrir debieron a dolo o mala fe del propio concesionario o permisionario o de sus dependientes o empleados, o cuando no se expida el billete de pasaje o boleto, el talón de equipaje o la carta de porte o guía de carga aérea, según corresponda.
-LEY DE AVIACIÓN CIVIL Para el pago de las indemnizaciones se tomará como base la Unidad de Medida y Actualización, en la fecha en que ocurran los daños.
+Para el pago de las indemnizaciones se tomará como base la Unidad de Medida y Actualización, en la fecha en que ocurran los daños.
 Artículo reformado DOF 18-06-2018
 
 ### Artículo 65
@@ -734,7 +732,7 @@ I. A pasajeros, por culpa o negligencia inexcusable de la víctima, y II. A equi
 
 ### artículo 67
 anterior. La nulidad de tales cláusulas no implicará la del contrato de transporte.
-LEY DE AVIACIÓN CIVIL Sección Segunda De los daños a terceros
+Sección Segunda De los daños a terceros
 
 ### Artículo 70
 . Cuando por la operación de una aeronave, por objetos desprendidos de la misma o por abordaje, se causen daños a personas o cosas que se encuentren en la superficie, nacerá la responsabilidad con sólo establecer la existencia del daño y su causa.
@@ -755,7 +753,6 @@ Párrafo reformado DOF 03-05-2023
 
 ### Artículo 73
 . Las acciones para exigir las indemnizaciones a que se refiere esta sección, prescribirán en un año a partir de la fecha en la cual ocurrieron los hechos.
-LEY DE AVIACIÓN CIVIL
 
 ## Capítulo XIII
 De los seguros aéreos
@@ -783,7 +780,7 @@ Artículo reformado DOF 21-05-2013, 03-05-2023
 
 ### Artículo 76
 Bis. La persona titular de la Secretaría, por sí o a propuesta de la Agencia Federal de Aviación Civil, celebrará convenios o acuerdos de coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, para promover la eficiencia en las operaciones e infraestructura aeroportuaria, con el fin de reducir el ruido y las emisiones contaminantes en los servicios de transporte aéreo.
-Artículo adicionado DOF 21-05-2013. Reformado DOF 03-05-2023 LEY DE AVIACIÓN CIVIL
+Artículo adicionado DOF 21-05-2013. Reformado DOF 03-05-2023
 
 ## Capítulo XV
 Del abandono de aeronaves
@@ -808,7 +805,7 @@ Párrafo reformado DOF 03-05-2023 I. Política, objetivos y recursos estatales d
 Fracción reformada DOF 03-05-2023 II. Gestión estatal de los riesgos de seguridad operacional;
 Fracción reformada DOF 03-05-2023 III. Aseguramiento estatal de la seguridad operacional, y Fracción reformada DOF 03-05-2023 IV. Promoción estatal de la seguridad operacional.
 Fracción reformada DOF 03-05-2023 V. Derogada.
-LEY DE AVIACIÓN CIVIL Fracción derogada DOF 03-05-2023 Reforma DOF 03-05-2023: Derogó del artículo el entonces párrafo segundo Artículo adicionado DOF 26-01-2015
+Fracción derogada DOF 03-05-2023 Reforma DOF 03-05-2023: Derogó del artículo el entonces párrafo segundo Artículo adicionado DOF 26-01-2015
 
 ### Artículo 78
 Bis 1. La Agencia Federal de Aviación Civil, en materia de seguridad operacional, tiene las siguientes atribuciones:
@@ -824,7 +821,7 @@ Fracción reformada DOF 03-05-2023 IX. Asegurarse de que los hallazgos de Seguri
 X. Proponer a la Secretaría los recursos financieros necesarios para la implementación del Programa Estatal de Seguridad Operacional;
 Fracción reformada DOF 03-05-2023 XI. Establecer sistemas de recopilación y procesamiento de datos sobre seguridad operacional;
 Fracción adicionada DOF 03-05-2023 XII. Acceder a los datos e información sobre seguridad operacional;
-Fracción adicionada DOF 03-05-2023 LEY DE AVIACIÓN CIVIL XIII. Recopilar, analizar, compartir, procesar, intercambiar y utilizar datos e información de seguridad operacional;
+Fracción adicionada DOF 03-05-2023 XIII. Recopilar, analizar, compartir, procesar, intercambiar y utilizar datos e información de seguridad operacional;
 Fracción adicionada DOF 03-05-2023 XIV. Emitir el Manual del Programa Estatal de Seguridad Operacional, y Fracción adicionada DOF 03-05-2023 XV. Emitir disposiciones técnico-administrativas en materia de seguridad operacional.
 Fracción adicionada DOF 03-05-2023 Artículo adicionado DOF 26-01-2015
 
@@ -845,7 +842,7 @@ Bis 3. El Sistema de gestión de la seguridad operacional deberá incluir, por l
 I. Un proceso para identificar y notificar peligros que afecten la seguridad operacional y evaluar los riesgos conexos;
 Fracción reformada DOF 03-05-2023 II. Un proceso para definir y aplicar las acciones necesarias para mantener un nivel óptimo de Seguridad operacional;
 III. Disposiciones para observar continuamente y evaluar en forma regular la eficacia de las actividades de gestión de la seguridad operacional;
-Fracción reformada DOF 03-05-2023 LEY DE AVIACIÓN CIVIL IV. Un proceso para la supervisión y medición del desempeño de seguridad operacional logrado;
+Fracción reformada DOF 03-05-2023 IV. Un proceso para la supervisión y medición del desempeño de seguridad operacional logrado;
 Fracción reformada DOF 03-05-2023 V. Un mecanismo de control que permita a la persona proveedora de servicios evaluar la eficacia de sus procesos y del Sistema de gestión de la seguridad operacional para permitir el mejoramiento continuo del rendimiento general del mismo, y Fracción reformada DOF 03-05-2023 VI. Un proceso de mejora continua que permita el incremento del rendimiento de los procesos del Sistema de gestión de seguridad operacional.
 Fracción adicionada DOF 03-05-2023 Las personas proveedoras de servicio que se encuentren en proceso de implementación del Sistema de gestión de la seguridad operacional estarán sujetas a ser evaluadas mediante inspecciones de conformidad con la norma oficial mexicana y las disposiciones técnico-administrativas correspondientes.
 Párrafo adicionado DOF 03-05-2023 Artículo adicionado DOF 26-01-2015
@@ -862,7 +859,7 @@ I. Datos e información relativos a las investigaciones de accidentes e incident
 II. Sistemas de notificación obligatoria de seguridad operacional, que incluya la notificación de incidentes;
 III. Sistemas de notificación voluntaria de seguridad operacional;
 IV. Sistemas de autonotificación, incluidos los sistemas automáticos o manuales de captura de datos, y V. Datos e información relativos a las investigaciones de seguridad operacional efectuadas por la Agencia Federal de Aviación Civil o las proveedoras de servicio.
-Artículo adicionado DOF 26-01-2015. Reformado DOF 20-05-2021, 03-05-2023 LEY DE AVIACIÓN CIVIL
+Artículo adicionado DOF 26-01-2015. Reformado DOF 20-05-2021, 03-05-2023
 
 ### Artículo 78
 Bis 6. Los datos e información de seguridad operacional recopilados por medio de los sistemas precisados en el artículo anterior tienen el carácter de confidencial.
@@ -885,7 +882,7 @@ Artículo adicionado DOF 26-01-2015. Reformado DOF 03-05-2023
 
 ### Artículo 78
 Bis 10. Con el fin de promover la seguridad operacional, la Agencia Federal de Aviación Civil tiene la facultad de concertar acuerdos con las personas proveedoras de servicios respecto a la recopilación, análisis, uso, compartición, intercambio y utilización de datos e información de seguridad operacional.
-Artículo adicionado DOF 26-01-2015. Reformado DOF 03-05-2023 LEY DE AVIACIÓN CIVIL
+Artículo adicionado DOF 26-01-2015. Reformado DOF 03-05-2023
 
 ### Artículo 78
 Bis 11. La Agencia Federal de Aviación Civil establecerá y mantendrá un proceso para analizar los datos e información sobre seguridad operacional obtenida de los sistemas de recopilación y procesamiento de datos y bases de datos sobre seguridad operacional conexas.
@@ -921,7 +918,7 @@ Artículo adicionado DOF 03-05-2023
 ### Artículo 78
 Sexies. El Sistema de gestión de los riesgos asociados a la fatiga debe incluir, por lo menos procesos para:
 I. Identificar y notificar peligros asociados a la fatiga que afecten la seguridad operacional y evaluar los riesgos conexos;
-LEY DE AVIACIÓN CIVIL II. Definir y aplicar las acciones necesarias para mantener un nivel aceptable de seguridad operacional;
+II. Definir y aplicar las acciones necesarias para mantener un nivel aceptable de seguridad operacional;
 III. Observar continuamente y evaluar en forma regular la eficacia de las actividades de gestión de los riesgos asociados a la fatiga;
 IV. Supervisar y medir el desempeño de seguridad operacional logrado con relación a la gestión de la fatiga, y V. Evaluar de manera continua y permanente la eficacia de los procesos del Sistema de gestión de los riesgos asociados a la fatiga, a fin de permitir el mejoramiento continuo del rendimiento general de dicho Sistema.
 Las personas proveedoras de servicio que se encuentren en proceso de implementación del Sistema de gestión de los riesgos asociados a la fatiga están sujetas a ser evaluadas mediante inspecciones de conformidad con la norma oficial mexicana y las disposiciones técnico-administrativas correspondientes.
@@ -941,7 +938,7 @@ Octies. La Agencia Federal de Aviación Civil tiene como uno de sus objetivos pr
 I. Apoderamiento ilícito de aeronaves;
 II. Destrucción de una aeronave en servicio;
 III. Toma de rehenes a bordo de aeronaves o en los aeródromos;
-LEY DE AVIACIÓN CIVIL IV. Intrusión por la fuerza en una aeronave, en un aeropuerto o en el recinto de una instalación aeronáutica;
+IV. Intrusión por la fuerza en una aeronave, en un aeropuerto o en el recinto de una instalación aeronáutica;
 V. Introducción, a bordo de una aeronave o en un aeropuerto, de armas, artefactos o sustancias peligrosas, sin la autorización correspondiente;
 VI. El uso de una aeronave en servicio que cause la muerte, lesiones corporales graves o daños graves a los bienes o al medio ambiente;
 VII. Comunicación de información falsa que comprometa la seguridad de una aeronave en vuelo, o en tierra, o la seguridad de las personas pasajeras, tripulación, personal de tierra y público en un aeropuerto o en el recinto de una instalación de aviación civil, y VIII. Las demás acciones u omisiones que transgredan las disposiciones jurídicas y que comprometan la seguridad de una aeronave en vuelo o en tierra, o la seguridad de las personas pasajeras, tripulación, personal de tierra, o bien, de las personas en su conjunto que se encuentren en el recinto de una instalación de aviación civil.
@@ -963,7 +960,7 @@ Artículo adicionado DOF 03-05-2023
 
 ### Artículo 78
 Duodecies. Las personas concesionarias, asignatarias o permisionarias del transporte aéreo deben elaborar, mantener y ejecutar su Programa de Instrucción de Seguridad de la Aviación Civil, previa revisión y, en su caso, autorización de la Agencia Federal de Aviación Civil de conformidad con el Programa General de Instrucción de Seguridad de la Aviación Civil.
-Las personas concesionarias, asignatarias o permisionarias del transporte aéreo deben asegurar que todos los programas de instrucción en seguridad de la aviación civil para el personal que aplica controles LEY DE AVIACIÓN CIVIL de seguridad comprendan la evaluación de las competencias y habilidades que deben adquirirse y el proceso de certificación establecido por la Agencia Federal de Aviación Civil.
+Las personas concesionarias, asignatarias o permisionarias del transporte aéreo deben asegurar que todos los programas de instrucción en seguridad de la aviación civil para el personal que aplica controles de seguridad comprendan la evaluación de las competencias y habilidades que deben adquirirse y el proceso de certificación establecido por la Agencia Federal de Aviación Civil.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 78
@@ -982,7 +979,7 @@ Artículo adicionado DOF 03-05-2023
 
 ### Artículo 78
 Quinquiesdecies. La Agencia Federal de Aviación Civil debe vigilar que las personas concesionarias, asignatarias, permisionarias u operadoras del transporte aéreo, identifiquen sus sistemas de tecnología de la información y las comunicaciones, y datos críticos que empleen para los fines de la aviación civil, y en función de una evaluación de riesgos, elaboren y lleven a la práctica las medidas que correspondan para protegerlos de interferencia ilícita.
-Artículo adicionado DOF 03-05-2023 LEY DE AVIACIÓN CIVIL
+Artículo adicionado DOF 03-05-2023
 
 ### Artículo 78
 Sexiesdecies. Las personas concesionarias, asignatarias, permisionarias u operadoras del transporte aéreo adoptarán medidas, cuando exista información fiable que indique que una aeronave pueda ser objeto de un acto de interferencia ilícita, para protegerla, si todavía está en tierra, y para notificar su llegada lo antes posible a la Agencia Federal de Aviación Civil y a los servicios de tránsito aéreo si la aeronave ya ha salido.
@@ -1012,7 +1009,7 @@ Fracción reformada DOF 03-05-2023
 
 ### Artículo 80
 . La búsqueda y salvamento en accidentes de aeronaves civiles es de interés público y las autoridades, las personas propietarias, poseedoras, concesionarias, asignatarias, operadoras aéreas, permisionarias e integrantes de la tripulación de vuelo estarán obligadas a participar en las acciones que se lleven a cabo.
-LEY DE AVIACIÓN CIVIL Párrafo reformado DOF 03-05-2023 Las operaciones de búsqueda y salvamento estarán bajo la dirección y control de la Secretaría. Los costos directos que se originen por el rescate de la aeronave, la investigación, la preservación de los restos de la aeronave, correo, carga, el rescate de las víctimas y de sus bienes, la repatriación de los restos mortales, sobrevivientes y la asistencia a los familiares de las víctimas será por cuenta de la persona concesionaria, asignataria, operadora aérea o permisionaria, y en el caso de las operaciones de aeronaves para uso particular, de la persona propietaria o poseedora de la aeronave accidentada.
+Párrafo reformado DOF 03-05-2023 Las operaciones de búsqueda y salvamento estarán bajo la dirección y control de la Secretaría. Los costos directos que se originen por el rescate de la aeronave, la investigación, la preservación de los restos de la aeronave, correo, carga, el rescate de las víctimas y de sus bienes, la repatriación de los restos mortales, sobrevivientes y la asistencia a los familiares de las víctimas será por cuenta de la persona concesionaria, asignataria, operadora aérea o permisionaria, y en el caso de las operaciones de aeronaves para uso particular, de la persona propietaria o poseedora de la aeronave accidentada.
 Párrafo reformado DOF 28-12-2001, 20-05-2021, 03-05-2023 Cuando se vean involucradas aeronaves e instalaciones militares en accidentes o incidentes aéreos civiles las Dependencias Militares cooperaran en la investigación, proporcionando toda información que les requiera la Secretaría a través de la Agencia Federal de Aviación Civil.
 Párrafo adicionado DOF 20-05-2021
 
@@ -1028,7 +1025,7 @@ Bis. La Comisión Investigadora y Dictaminadora de Accidentes Aéreos contará c
 I. Coordinar, requerir y recibir información, realizar la investigación del incidente o accidente;
 II. Requerir la asistencia de todas las personas que considere necesario entrevistar para que rindan cualquier aclaración, pregunta o proporcionen información sobre el accidente o incidente aéreo;
 III. Exigir la protección y preservación de: a) El lugar del accidente o incidente aéreo; b) La aeronave y cualquier parte de esta, y c) Los registros y documentos relacionados con el suceso.
-IV. Establecer o delimitar el lugar en que se considere que pueda existir información para acceder con fines de búsqueda y recopilar información, registros o evidencias relevantes para la investigación del accidente o incidente, entre ellos al taller de mantenimiento, oficina de despacho, proveedores de LEY DE AVIACIÓN CIVIL servicio, operador aéreo, aeropuerto, torre de control, así como obtener copia, previo cotejo del original de todo documento o evidencia de lo que se encuentre durante el transcurso de su búsqueda incluidas las transcripciones de las comunicaciones y registros de los servicios de tránsito aéreo;
+IV. Establecer o delimitar el lugar en que se considere que pueda existir información para acceder con fines de búsqueda y recopilar información, registros o evidencias relevantes para la investigación del accidente o incidente, entre ellos al taller de mantenimiento, oficina de despacho, proveedores de servicio, operador aéreo, aeropuerto, torre de control, así como obtener copia, previo cotejo del original de todo documento o evidencia de lo que se encuentre durante el transcurso de su búsqueda incluidas las transcripciones de las comunicaciones y registros de los servicios de tránsito aéreo;
 V. Prohibir o limitar, por el tiempo que sea necesario el acceso a las áreas diferentes al lugar del accidente, donde haya estado o estuvo la aeronave accidentada o incidentada, para los fines de conservación y protección de evidencias;
 VI. Solicitar instalaciones para el resguardo y para realizar cualquier tipo de pruebas y exámenes a los componentes, motores, sistemas y demás partes de la aeronave que sean necesarias para determinar las causas de ocurrencia del suceso, incluyendo las destructivas;
 VII. Obtener todo tipo de evidencia y copias de cualquier documento relevante relativo al accidente o incidente, a las personas, empresas y equipos relacionados con el mismo, en particular, la formación y calificación de las personas, que hayan participado en el mantenimiento, despacho, servicio de control y seguimiento del vuelo, construcción o diseño, tripulación, control de la(s) aeronave(s) implicadas, así como demás información que el investigador considere relevante;
@@ -1043,7 +1040,7 @@ La comandancia de aeropuerto mantendrá la organización del sitio del accidente
 Artículo adicionado DOF 20-05-2021
 
 ### Artículo 81
-Ter. La clasificación y acceso a la información que genere o custodie la Secretaría en materia de investigación de accidentes o incidentes debe ajustarse a lo previsto en la Constitución LEY DE AVIACIÓN CIVIL Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, así como a lo dispuesto en los tratados en los que el Estado mexicano sea parte.
+Ter. La clasificación y acceso a la información que genere o custodie la Secretaría en materia de investigación de accidentes o incidentes debe ajustarse a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, así como a lo dispuesto en los tratados en los que el Estado mexicano sea parte.
 Párrafo reformado DOF 03-05-2023 Respecto a la información relacionada con accidentes o incidentes aéreos que conforme a los tratados en los que el Estado mexicano sea parte deba ser objeto de clasificación de conformidad con las disposiciones aplicables, dicha clasificación deberá ajustarse a lo establecido en las normas señaladas en el primer párrafo de este artículo. Entre dicha información destaca la relativa al nombre de las personas involucradas en los accidentes e incidentes aéreos, las declaraciones de testigos, el contenido de comunicaciones en la operación, la información médica del personal técnico aeronáutico involucrado, el audio y conversaciones de cabinas y con los servicios de tránsito aéreo, los análisis y opiniones expresadas por los registradores del vuelo, proyectos de informe preliminar o definitivo de accidente o incidente y otros datos que por su naturaleza se considere que sean susceptibles de clasificación.
 Las personas investigadoras de la Secretaría respecto de las indagaciones a su cargo se limitarán exclusivamente a presentar su informe de hechos, preliminar o final y, en los casos que la autoridad competente los requiera, procederán a ratificar los mismos.
 Párrafo reformado DOF 03-05-2023 Los resultados de la investigación con motivo de un accidente o incidente aéreo constarán en el informe de hechos o preliminar y final, los cuales se ajustarán a lo dispuesto en los tratados en la materia en los que el Estado mexicano sea parte. El informe de hechos o preliminar deberá emitirse al año de haber ocurrido el accidente o incidente, salvo que haya sido emitido el informe final antes de la conclusión de dicho plazo.
@@ -1060,7 +1057,7 @@ Párrafo reformado DOF 03-05-2023
 De la investigación administrativa (regulatory investigation) Capítulo adicionado DOF 03-05-2023
 
 ### Artículo 82
-Bis. La Agencia Federal de Aviación Civil llevará a cabo la investigación administrativa de conformidad con el reglamento correspondiente y las disposiciones técnico-administrativas que se emitan para tal efecto, con la finalidad de determinar administrativamente la responsabilidad en los accidentes o incidentes que se hagan de su conocimiento, con relación a las operaciones áreas, servicios de transporte aéreo, aeropuertos, aeródromos, servicios aeroportuarios y complementarios e instalaciones, LEY DE AVIACIÓN CIVIL así como a los servicios de apoyo a la navegación aérea y control del tránsito aéreo, a fin de determinar las medidas de seguridad y las sanciones que procedan.
+Bis. La Agencia Federal de Aviación Civil llevará a cabo la investigación administrativa de conformidad con el reglamento correspondiente y las disposiciones técnico-administrativas que se emitan para tal efecto, con la finalidad de determinar administrativamente la responsabilidad en los accidentes o incidentes que se hagan de su conocimiento, con relación a las operaciones áreas, servicios de transporte aéreo, aeropuertos, aeródromos, servicios aeroportuarios y complementarios e instalaciones, así como a los servicios de apoyo a la navegación aérea y control del tránsito aéreo, a fin de determinar las medidas de seguridad y las sanciones que procedan.
 Artículo adicionado DOF 03-05-2023
 
 ### Artículo 82
@@ -1084,7 +1081,7 @@ De la requisa
 El Gobierno Federal, salvo en el caso de guerra internacional, indemnizará a los interesados, pagando los daños y perjuicios a su valor real. Si no hubiere acuerdo sobre el monto de la indemnización, los daños se fijarán por peritos nombrados por ambas partes, y en el caso de los perjuicios, se tomará como base el promedio del ingreso neto en el año anterior a la requisa. Cada una de las partes cubrirá la mitad de los gastos que se originen por el peritaje.
 
 ## Capítulo XVIII
-De la vigilancia y verificación Denominación del Capítulo reformada DOF 03-05-2023 LEY DE AVIACIÓN CIVIL
+De la vigilancia y verificación Denominación del Capítulo reformada DOF 03-05-2023
 
 ### Artículo 84
 . La Agencia Federal de Aviación Civil vigilará y verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables, sin perjuicio de la competencia que expresamente corresponda a otras autoridades.
@@ -1101,7 +1098,7 @@ Artículo reformado DOF 28-12-2001, 26-06-2017, 03-05-2023
 ### Artículo 84
 Bis. En las actas que se instrumenten con motivo del ejercicio de las actividades de vigilancia y verificación, se hará constar:
 I. Nombre, denominación o razón social de las personas sujetas a vigilancia y verificación;
-LEY DE AVIACIÓN CIVIL II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+II. Hora, día, mes y año en que se inicie y concluya la diligencia;
 III. Calle, número, población o colonia, municipio o alcaldía, código postal y entidad federativa, teléfono u otra forma de comunicación disponible, en que se encuentre ubicado el lugar, en que se practique la visita;
 IV. Número y fecha del oficio de comisión que la motivó;
 V. Nombre y cargo de la persona con quien se entendió la diligencia;
@@ -1124,12 +1121,11 @@ De las sanciones
 
 ### Artículo 86
 . Las infracciones a lo dispuesto en la presente Ley cometidas por la persona concesionaria, asignataria, operadora aérea o permisionaria, según se trate, serán sancionadas por la Agencia Federal de Aviación Civil de acuerdo con lo siguiente:
-Párrafo reformado DOF 28-12-2001, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) I. Permitir que la aeronave transite: a) Sin ostentar las marcas de nacionalidad y matrícula, o cuando éstas se encuentren alteradas o modificadas sin autorización de la Secretaría, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
-LEY DE AVIACIÓN CIVIL b) Por carecer de los certificados de aeronavegabilidad o de matrícula, o cuando tales documentos estén vencidos, con multa de cinco mil a quince mil Unidades de Medida y Actualización; c) Por carecer de los seguros o cuando no estén vigentes, con multa de cinco mil a quince mil Unidades de Medida y Actualización; d) Tripulada por personas que carezcan de la licencia correspondiente, con multa de cinco mil a quince mil Unidades de Medida y Actualización; e) Sin el plan de vuelo o cuando se modifique sin autorización, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización; f) Por no llevar a bordo la póliza de seguro o el documento que acredite la vigencia de la misma, una multa de cien a dos mil Unidades de Medida y Actualización.
+Párrafo reformado DOF 28-12-2001, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) I. Permitir que la aeronave transite: a) Sin ostentar las marcas de nacionalidad y matrícula, o cuando éstas se encuentren alteradas o modificadas sin autorización de la Secretaría, con multa de cinco mil a quince mil Unidades de Medida y Actualización; b) Por carecer de los certificados de aeronavegabilidad o de matrícula, o cuando tales documentos estén vencidos, con multa de cinco mil a quince mil Unidades de Medida y Actualización; c) Por carecer de los seguros o cuando no estén vigentes, con multa de cinco mil a quince mil Unidades de Medida y Actualización; d) Tripulada por personas que carezcan de la licencia correspondiente, con multa de cinco mil a quince mil Unidades de Medida y Actualización; e) Sin el plan de vuelo o cuando se modifique sin autorización, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización; f) Por no llevar a bordo la póliza de seguro o el documento que acredite la vigencia de la misma, una multa de cien a dos mil Unidades de Medida y Actualización.
 En el caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que la póliza se encontraba vigente, se aplicará una multa de cien a doscientas Unidades de Medida y Actualización; g) Sin los instrumentos de seguridad y equipo de auxilio que corresponda, con multa de quinientos a cinco mil Unidades de Medida y Actualización; h) Sin hacer uso de las instalaciones y de los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáutica, así como de despacho e información de vuelos, en caso de ser aplicable, salvo casos de fuerza mayor, con multa de quinientas a cinco mil Unidades de Medida y Actualización;
 Inciso reformado DOF 20-05-2021 i) Por no llevar a bordo certificado de aeronavegabilidad o de matrícula o copia certificada de este último, con una multa de doscientas a un mil Unidades de Medida y Actualización;
 Inciso reformado DOF 20-05-2021, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) j) Con documentos presentados a la Agencia Federal de Aviación Civil que no sean emitidos por una autoridad competente, con la intención de acreditar el cumplimiento de obligaciones o requisitos contenidos en esta Ley, en el reglamento correspondiente, normas oficiales mexicanas y disposiciones-técnico administrativas, con una multa de dos mil a diez mil Unidades de Medida y Actualización, y Inciso adicionado DOF 20-05-2021. Reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62) k) Con documentos presentados a la Agencia Federal de Aviación Civil que no sean emitidos por las organizaciones responsables del diseño de tipo o responsables de la fabricación de aeronaves, motores, hélices, estaciones de pilotaje a distancia y sus artículos, con la intención de acreditar el cumplimiento de obligaciones o requisitos contenidos en esta Ley, en el reglamento correspondiente, normas oficiales mexicanas y disposiciones técnico-administrativas, con una multa de dos mil a diez mil Unidades de Medida y Actualización.
-Inciso adicionado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) Fracción reformada DOF 28-12-2001, 18-06-2018 LEY DE AVIACIÓN CIVIL II. Internar al territorio nacional una aeronave extranjera o por llevar una aeronave mexicana al extranjero, sin cumplir con los requisitos exigidos por esta Ley, con multa de dos mil a diez mil Unidades de Medida y Actualización;
+Inciso adicionado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) Fracción reformada DOF 28-12-2001, 18-06-2018 II. Internar al territorio nacional una aeronave extranjera o por llevar una aeronave mexicana al extranjero, sin cumplir con los requisitos exigidos por esta Ley, con multa de dos mil a diez mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 III. Operar aviones en aeródromos y aeropuertos no autorizados, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 IV. Obtener la matrícula de la aeronave en el registro de otro Estado, sin haber obtenido la cancelación de la matrícula mexicana, con multa de un mil a ocho mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 V. Cuando de manera negligente en un término de veinticuatro horas no se haga del conocimiento de la Secretaría los incidentes o accidentes ocurridos a sus aeronaves, salvo causa de fuerza mayor, con multa de un mil a ocho mil Unidades de Medida y Actualización;
@@ -1140,7 +1136,7 @@ Cuando el cabotaje sea detectado por la Agencia Federal de Aviación Civil en el
 Dicho aseguramiento quedará sin efectos si la Agencia Federal de Aviación Civil no emite la resolución correspondiente dentro de los sesenta días hábiles siguientes a la fecha en que se levante el acta a que se refiere el párrafo anterior, o si el infractor garantiza por cualquier forma establecida en la legislación aplicable, su sujeción al procedimiento que se instaure en su contra.
 Los gastos que genere el aseguramiento de la aeronave correrán a cargo del permisionario extranjero infractor, salvo que la autoridad resuelva que no cometió el cabotaje;
 Fracción adicionada DOF 26-01-2015. Reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62) IX. No reportar las incapacitaciones, durante el vuelo, del personal técnico-aeronáutico a la Agencia Federal de Aviación Civil dentro de las veinticuatro horas siguientes al suceso, con una multa de quinientas a mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) LEY DE AVIACIÓN CIVIL IX Bis. Cuando la aeronave realice maniobras de vuelo que motiven la activación de un alertamiento aéreo con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización, siempre y cuando no sea por falla técnica o emergencia;
+Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) IX Bis. Cuando la aeronave realice maniobras de vuelo que motiven la activación de un alertamiento aéreo con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización, siempre y cuando no sea por falla técnica o emergencia;
 Fracción adicionada DOF 03-05-2023 X. Permitir que el personal técnico-aeronáutico realice sus funciones: a) Con una afectación médica que ponga en riesgo la seguridad operacional, con una multa de mil a cinco mil Unidades de Medida y Actualización; b) Posterior a obtener un resultado positivo en un examen psicofísico o de detección de alcohol y sustancias psicoactivas, con una multa de doscientas a quinientas Unidades de Medida y Actualización, y c) Con posterioridad a haberse involucrado en un accidente o incidente aéreo, sin que la Agencia Federal de Aviación Civil haya verificado, constatado e inspeccionado el cumplimiento de los requisitos médicos, a pesar de que el reconocimiento psicofísico haya tenido validez previa al evento, con una multa de un mil a dos mil Unidades de Medida y Actualización;
 Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XI. Coaccionar a las personas inspectoras verificadoras por medio de violencia, física o moral, para obligarlos a que ejecuten un acto oficial, con una multa de dos mil a cinco mil Unidades de Medida y Actualización, y Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XII. No realizar la notificación de dificultades en servicio, en los términos establecidos en esta Ley, los reglamentos correspondientes y las disposiciones técnico-administrativas aplicables, con multa de quinientas a dos mil Unidades de Medida y Actualización.
 Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
@@ -1154,7 +1150,7 @@ Artículo adicionado DOF 28-12-2001. Reformado DOF 18-06-2018, 03-05-2023
 Párrafo reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) I. No tener vigente la concesión o permiso correspondiente, multa de ocho mil a diez mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 II. Llevar a cabo el servicio de transporte aéreo nacional, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de ocho mil a diez mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 III. Cuando con motivo de un vuelo de simple tránsito efectúe embarque o desembarque de pasajeros y carga, en el caso de sociedades extranjeras de servicio de transporte aéreo, multa de cinco mil a diez mil Unidades de Medida y Actualización;
-LEY DE AVIACIÓN CIVIL Fracción reformada DOF 18-06-2018 IV. No seguir las aerovías o no utilizar los aeropuertos que le hayan sido señalados en el plan de vuelo respectivo, salvo caso fortuito o de fuerza mayor, multa de dos mil a diez mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018 IV. No seguir las aerovías o no utilizar los aeropuertos que le hayan sido señalados en el plan de vuelo respectivo, salvo caso fortuito o de fuerza mayor, multa de dos mil a diez mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 V. No dar aviso a la Agencia Federal de Aviación Civil de las rutas que deje de operar, en los términos del artículo 22 de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) VI. Vender, en forma directa, porciones aéreas en el caso de los servicios de transporte aéreo de fletamento, multa de un mil a cinco mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 VII. Negarse a prestar servicios, sin causa justificada, multa de un mil a cinco mil Unidades de Medida y Actualización;
@@ -1165,7 +1161,7 @@ Fracción reformada DOF 18-06-2018 XI. No proporcionar la información que le so
 Fracción reformada DOF 26-06-2017, 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XII. No sujetarse a los itinerarios, frecuencias de vuelo y horarios autorizados, multa de quinientas a cinco mil Unidades de Medida y Actualización;
 Fracción reformada DOF 26-06-2017, 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XIII. Incumplir con lo señalado en el artículo 49 de la presente Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
 Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021 XIV. No entregar mensualmente a la Agencia Federal de Aviación Civil la información señalada en el párrafo último del artículo 84 de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización;
-Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) LEY DE AVIACIÓN CIVIL XV. Transgredir las limitaciones existentes sobre tiempos de vuelo, servicio o de descanso del personal de vuelo o de sobrecargos, multa de tres mil a cinco mil Unidades de Medida y Actualización;
+Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XV. Transgredir las limitaciones existentes sobre tiempos de vuelo, servicio o de descanso del personal de vuelo o de sobrecargos, multa de tres mil a cinco mil Unidades de Medida y Actualización;
 Fracción adicionada DOF 20-05-2021 XVI. Permitir que la aeronave transite sin llevar a bordo la copia certificada del Certificado de Explotador de Servicios Aéreos y la copia simple de las especificaciones de operación, con multa de cinco mil a quince mil Unidades de Medida y Actualización;
 Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XVII. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, con una multa de dos mil a diez mil Unidades de Medida y Actualización, y la cancelación de la matrícula de la aeronave de que se trate, y Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62) XVIII. No cumplir con las disposiciones en materia de medio ambiente establecidas en esta Ley, el reglamento correspondiente, normas oficiales mexicanas y disposiciones técnicoadministrativas aplicables en materia aeronáutica, multa de cuatro mil a siete mil Unidades de Medida y Actualización.
 Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XIX. Cuando la aeronave realice maniobras de vuelo que motiven la activación de un alertamiento aéreo, con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización, siempre y cuando no sea por falla técnica o emergencia.
@@ -1178,7 +1174,7 @@ Fracción reformada DOF 18-06-2018 II. Transportar mercancías peligrosas, armas
 Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) III. No aterrizar en los aeropuertos internacionales autorizados en casos de vuelos de internación al territorio nacional, salvo causa de fuerza mayor, multa de un mil a cinco mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 IV. Transportar cadáveres o personas que por la naturaleza de su enfermedad presenten riesgo para los demás pasajeros, sin la autorización correspondiente, multa de un mil a cinco mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 V. Abandonar la aeronave, la tripulación, los pasajeros, la carga y demás efectos, en lugar que no sea la terminal del vuelo y sin causa justificada, multa de quinientas a cinco mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018 LEY DE AVIACIÓN CIVIL VI. Realizar vuelos acrobáticos, rasantes o de exhibición en lugares prohibidos, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018 VI. Realizar vuelos acrobáticos, rasantes o de exhibición en lugares prohibidos, multa de quinientas a cinco mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 VII. Tripular la aeronave sin licencia, multa de quinientas a cinco mil Unidades de Medida y Actualización. En caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que se contaba con licencia vigente, se aplicará una multa de cien a doscientas Unidades de Medida y Actualización;
 Fracción reformada DOF 28-12-2001, 18-06-2018 VIII. Desobedecer las órdenes o instrucciones que reciba con respecto al tránsito aéreo, salvo causa de fuerza mayor, multa de quinientas a cinco mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 IX. Iniciar el vuelo sin cerciorarse de la vigencia del certificado de aeronavegabilidad, de las licencias de la tripulación de vuelo y de que la aeronave ostente las marcas de nacionalidad y matrícula, multa de trescientas a tres mil Unidades de Medida y Actualización;
@@ -1189,7 +1185,7 @@ Fracción reformada DOF 28-12-2001, 18-06-2018 XIII. Realizar vuelos de demostra
 Fracción reformada DOF 18-06-2018 XIV. Volar sobre zonas prohibidas, restringidas o peligrosas, sin autorización de la Agencia Federal de Aviación Civil, multa de doscientas a dos mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XV. Arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo, objetos o lastre, multa de doscientas a dos mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018 XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientas a dos mil Unidades de Medida y Actualización;
-Fracción reformada DOF 18-06-2018, 20-05-2021 LEY DE AVIACIÓN CIVIL XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientas a dos mil Unidades de Medida y Actualización;
+Fracción reformada DOF 18-06-2018, 20-05-2021 XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientas a dos mil Unidades de Medida y Actualización;
 Fracción reformada DOF 18-06-2018, 20-05-2021 XVIII. Operar la aeronave sin los documentos que deban llevarse a bordo de conformidad con esta Ley, el reglamento correspondiente, las disposiciones técnico- administrativas y demás disposiciones jurídicas aplicables, con una multa de quinientas a cinco mil Unidades de Medida y Actualización;
 Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XIX. Operar la aeronave de manera negligente o fuera de los límites y parámetros establecidos por el fabricante de la misma, sin que medie causa justificada, multa de mil a cinco mil Unidades de Medida y Actualización;
 Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XX. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, multa de dos mil a diez mil Unidades de Medida y Actualización;
@@ -1202,7 +1198,7 @@ Fracción adicionada DOF 03-05-2023
 
 ### Artículo 88
 Bis. Las personas proveedoras de servicios serán acreedoras a las sanciones siguientes por:
-LEY DE AVIACIÓN CIVIL I. No contar con un Sistema de Gestión de la Seguridad Operacional en su fase I aprobada de conformidad con la norma oficial mexicana y disposiciones técnico-administrativas, multa de un mil a tres mil Unidades de Medida y Actualización;
+I. No contar con un Sistema de Gestión de la Seguridad Operacional en su fase I aprobada de conformidad con la norma oficial mexicana y disposiciones técnico-administrativas, multa de un mil a tres mil Unidades de Medida y Actualización;
 II. No cumplir dentro del plazo de cuarenta y ocho meses, contados a partir de la aprobación de la fase I del Sistema de Gestión de la Seguridad Operacional, con la implementación total de las fases de dicho Sistema, en términos de las disposiciones jurídicas aplicables, multa de un mil a tres mil Unidades de Medida y Actualización;
 III. No cumplir, en caso de prórroga, con la implementación de todas las fases del Sistema de Gestión de la Seguridad Operacional en el plazo otorgado por la Agencia Federal de Aviación Civil, multa de dos mil a cinco mil Unidades de Medida y Actualización;
 IV. No contar con la autorización de la gestión de los riesgos asociados a la fatiga en su fase I, de conformidad con la norma oficial mexicana y las disposiciones técnico-administrativas correspondientes, multa de un mil a tres mil Unidades de Medida y Actualización;
@@ -1215,7 +1211,7 @@ Bis 1. Se impondrá sanción con multa de doscientas a cinco mil Unidades de Med
 Asimismo, les será suspendido cualquier permiso, certificado, registro, matrícula, autorización o licencia, atendiendo la gravedad de la infracción, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
 La Agencia Federal de Aviación Civil revocará cualquier certificado, registro, matrícula, autorización o licencia, cuando la infracción sea grave para la seguridad de las operaciones aéreas o se haya vulnerado la integridad física de terceros y sus bienes.
 Párrafo reformado DOF 03-05-2023 El titular de un permiso, certificado, registro, matrícula, autorización o licencia, que hubiere sido revocado, no podrá obtener, directa o indirectamente, otro permiso de los contemplados en la presente Ley dentro de un plazo de cinco años, contado a partir de la fecha en que hubiere quedado firme la resolución respectiva.
-Artículo adicionado DOF 18-06-2018 LEY DE AVIACIÓN CIVIL
+Artículo adicionado DOF 18-06-2018
 
 ### Artículo 88
 Ter. A las instituciones educativas se les impondrán las siguientes sanciones por:
@@ -1237,7 +1233,7 @@ Artículo adicionado DOF 20-05-2021. Reformado DOF 03-05-2023
 ### Artículo 88
 Quinquies. Se le impondrán las siguientes sanciones al técnico en mantenimiento por:
 I. Anotar y firmar en el libro de bitácora de las aeronaves los servicios de mantenimiento sin haberlos realizado, multa de quinientas a tres mil Unidades de Medida y Actualización;
-LEY DE AVIACIÓN CIVIL II. Anotar y firmar en el libro de bitácora de las aeronaves los servicios de mantenimiento, o certificar el mantenimiento de la aeronavegabilidad sin contar con la capacidad señalada en su licencia, multa de un mil a tres mil Unidades de Medida y Actualización;
+II. Anotar y firmar en el libro de bitácora de las aeronaves los servicios de mantenimiento, o certificar el mantenimiento de la aeronavegabilidad sin contar con la capacidad señalada en su licencia, multa de un mil a tres mil Unidades de Medida y Actualización;
 III. No efectuar el cambio de componentes no aeronavegables en las aeronaves, multa de un mil a tres mil Unidades de Medida y Actualización, y IV. Certificar la aeronavegabilidad de los componentes de una aeronave sin haber efectuado las reparaciones parciales y totales respectivas, multa de un mil a cinco mil Unidades de Medida y Actualización.
 Artículo adicionado DOF 03-05-2023
 
@@ -1256,7 +1252,7 @@ Párrafo reformado DOF 18-06-2018
 . Sin perjuicio a las demás sanciones que establece esta Ley y su reglamento, se le revocará la licencia a la persona comandante de la aeronave que incurra en los siguientes supuestos:
 Párrafo reformado DOF 03-05-2023 I. Que tripule en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o enervantes o que permita que un miembro de la tripulación de vuelo participe en las operaciones en ese estado o bajo tales efectos;
 II. Cuando realice actos u omisiones que tiendan al uso ilícito de instalaciones destinadas al tránsito aéreo, contrabando, contrabando equiparado, tráfico de órganos, ataques a las vías generales de comunicación, sabotaje, tráfico ilegal de personas, drogas y armas. Igual sanción se impondrá a cualquier miembro de la tripulación de vuelo, que se encuentre en los mismos supuestos;
-Fracción reformada DOF 03-05-2023 LEY DE AVIACIÓN CIVIL III. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, y Fracción reformada DOF 03-05-2023 IV. Cuando, sin causa legítima para ello, despegue o aterrice fuera de un aeródromo, o lo haga en uno sin permiso de operación o cuando haga uso de un aeródromo fuera de sus horarios de operación.
+Fracción reformada DOF 03-05-2023 III. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, y Fracción reformada DOF 03-05-2023 IV. Cuando, sin causa legítima para ello, despegue o aterrice fuera de un aeródromo, o lo haga en uno sin permiso de operación o cuando haga uso de un aeródromo fuera de sus horarios de operación.
 Fracción adicionada DOF 03-05-2023 Artículo reformado DOF 20-05-2021
 
 ### Artículo 91
@@ -1264,133 +1260,244 @@ Fracción adicionada DOF 03-05-2023 Artículo reformado DOF 20-05-2021
 
 ### Artículo 92
 . Las sanciones que se señalan en este capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte, ni de la revocación que proceda.
-TRANSITORIOS PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Se derogan los artículos 1o., fracción VIII; 9o., fracciones II y VI; 306 al 326; 329 al 370; 371, fracción I, incisos a) y d), fracciones II y III y el penúltimo y último párrafo; 372 y 373; 542; 546; 555 al 558; 562 al 564, y 568 al 570, de la Ley de Vías Generales de Comunicación, así como las demás disposiciones que se opongan a la presente Ley.
+
+## TRANSITORIOS
+
+**PRIMERO.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se derogan los artículos 1o., fracción VIII; 9o., fracciones II y VI; 306 al 326; 329 al 370; 371, fracción I, incisos a) y d), fracciones II y III y el penúltimo y último párrafo; 372 y 373; 542; 546; 555 al 558; 562 al 564, y 568 al 570, de la Ley de Vías Generales de Comunicación, así como las demás disposiciones que se opongan a la presente Ley.
 Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando mientras se expiden los nuevos reglamentos, salvo en lo que se opongan a la presente Ley.
-TERCERO.- Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se sancionarán y tramitarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
-CUARTO.- Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la presente Ley, serán respetados en sus términos, sin perjuicio de que sus titulares opten por acogerse a la presente Ley.
+**TERCERO.-** Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se sancionarán y tramitarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
+**CUARTO.-** Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la presente Ley, serán respetados en sus términos, sin perjuicio de que sus titulares opten por acogerse a la presente Ley.
 Por lo que se refiere a los permisos en trámite, se estará a lo dispuesto en esta Ley.
 La obtención de permisos, en tanto se expiden los reglamentos respectivos, se sujetará a las disposiciones vigentes, en lo que no se opongan a la presente Ley.
 México, D.F., a 28 de abril de 1995.- Dip. Florentino Castro López, Presidente.- Sen. Martha Lara Alatorre, Presidenta.- Dip. Fernando Flores Gómez González, Secretario.- Sen. Antonio Manríquez Guluarte, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de mayo de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
-LEY DE AVIACIÓN CIVIL ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA LEY de Aeropuertos.
-Publicada en el Diario Oficial de la Federación el 22 de diciembre de 1995 TRANSITORIOS PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. Se derogan los artículos 327; 328; 371 fracción I, incisos b) y c) y 567 de la Ley de Vías Generales de Comunicación; el artículo 8 de la Ley de Aviación Civil; así como las demás disposiciones que se opongan a la presente Ley.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA LEY de Aeropuertos.
+Publicada en el Diario Oficial de la Federación el 22 de diciembre de 1995
+
+## TRANSITORIOS
+
+**PRIMERO.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** Se derogan los artículos 327; 328; 371 fracción I, incisos b) y c) y 567 de la Ley de Vías Generales de Comunicación; el artículo 8 de la Ley de Aviación Civil; así como las demás disposiciones que se opongan a la presente Ley.
 Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando hasta en tanto no sean derogadas por otras, salvo en lo que se opongan a la presente Ley.
 Cuando en otras disposiciones se haga referencia a la figura de comandante de aeropuerto, se entenderá como comandante de aeródromo en los términos de esta Ley.
-TERCERO. El organismo público descentralizado Aeropuertos y Servicios Auxiliares podrá continuar administrando aeropuertos en los términos de su Decreto de creación de fecha 10 de junio de 1965, publicado en el Diario Oficial de la Federación el 12 del mismo mes y año, y de sus decretos modificatorios, hasta en tanto la Secretaría, de conformidad con lo previsto en esta Ley, otorgue concesiones respecto de los aeropuertos administrados por dicho organismo.
+**TERCERO.** El organismo público descentralizado Aeropuertos y Servicios Auxiliares podrá continuar administrando aeropuertos en los términos de su Decreto de creación de fecha 10 de junio de 1965, publicado en el Diario Oficial de la Federación el 12 del mismo mes y año, y de sus decretos modificatorios, hasta en tanto la Secretaría, de conformidad con lo previsto en esta Ley, otorgue concesiones respecto de los aeropuertos administrados por dicho organismo.
 Lo anterior, en el entendido de que Aeropuertos y Servicios Auxiliares deberá ajustarse a lo dispuesto en esta Ley, en lo relativo a la construcción, administración, operación y explotación de aeropuertos y en la prestación de los servicios.
-CUARTO. Las concesiones, permisos y autorizaciones que se otorguen con motivo de la presente Ley, no afectarán los derechos de los trabajadores de Aeropuertos y Servicios Auxiliares, los que serán respetados conforme a la ley de la materia.
-QUINTO. Las concesiones, permisos y autorizaciones otorgadas con anterioridad a la entrada en vigor de la presente Ley, serán respetadas en sus términos hasta su vencimiento.
+**CUARTO.** Las concesiones, permisos y autorizaciones que se otorguen con motivo de la presente Ley, no afectarán los derechos de los trabajadores de Aeropuertos y Servicios Auxiliares, los que serán respetados conforme a la ley de la materia.
+**QUINTO.** Las concesiones, permisos y autorizaciones otorgadas con anterioridad a la entrada en vigor de la presente Ley, serán respetadas en sus términos hasta su vencimiento.
 Lo anterior, en el entendido de que los concesionarios y permisionarios deberán ajustarse a lo dispuesto en esta Ley, en lo relativo a la construcción, administración, operación y explotación de aeródromos civiles y en la prestación de los servicios aeroportuarios, complementarios y comerciales.
 Los aeródromos de servicio general que al momento de la publicación de este ordenamiento reciban aeronaves destinadas al servicio de transporte aéreo regular, tendrán un plazo máximo de 180 días naturales, contados a partir de la publicación de esta Ley, para regularizar su situación ante la Secretaría.
 Por lo que se refiere a las concesiones y permisos en trámite, se estará a lo dispuesto en esta Ley.
-SEXTO. Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
+**SEXTO.** Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
 SEPTIMO. A más tardar en 180 días, contados a partir de la entrada en vigor de este ordenamiento, el Ejecutivo Federal constituirá la comisión intersecretarial a que se refiere el artículo 21 de esta Ley.
-LEY DE AVIACIÓN CIVIL México, D.F., a 14 de diciembre de 1995.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Jorge G. López Tijerina, Secretario.- Dip. Virginia Hernández Hernández, Secretaria.- Rúbricas".
+México, D.F., a 14 de diciembre de 1995.- Sen. Gustavo Carvajal Moreno, Presidente.- Dip. Oscar Cantón Zetina, Presidente.- Sen. Jorge G. López Tijerina, Secretario.- Dip. Virginia Hernández Hernández, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforman diversos ordenamientos legales.
-Publicado en el Diario Oficial de la Federación el 23 de enero de 1998 ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al
+DECRETO por el que se reforman diversos ordenamientos legales.
+Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
+
+### ARTÍCULO ÚNICO
+Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al
 
 ### artículo 47
 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fiscal de la Federación; 9, fracción I, de la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal;
 Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado "B" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue: ..........
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor el 20 de marzo de 1998.
 México, D.F., a 12 de diciembre de 1997.- Sen. Heladio Ramírez López, Presidente.- Dip. Luis Meneses Murillo, Presidente.- Sen. José Antonio Valdivia, Secretario.- Dip. Jaime Castro López, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforman y adicionan diversos artículos de la Ley de Aviación Civil.
-Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2001 ARTÍCULO ÚNICO. SE REFORMAN: los artículos 5, fracción I, inciso b); 6, párrafo primero y las fracciones VI y XII; 7; 23, párrafo cuarto; 29, párrafo primero; 30, párrafos primero y segundo; 32, párrafo primero; 35, párrafos primero y segundo; 70, segundo párrafo; 80, segundo párrafo; 84 primer párrafo; 86, primer párrafo, primer párrafo del inciso f) e incisos h) e i) de la fracción I; 88, fracciones VII y XII. Y SE ADICIONAN: las fracciones XIII, XIV, XV y un último párrafo al artículo 6; el artículo 7 Bis; la fracción IV al artículo 9; el párrafo tercero al artículo 23; el párrafo cuarto al artículo 28; el segundo párrafo y sus fracciones I y II, y el tercero y cuarto párrafos al artículo 29; el párrafo segundo al artículo 38; el párrafo cuarto al artículo 42; los párrafos cuarto y quinto al artículo 45; los párrafos segundo, tercero, cuarto y quinto al artículo 84; y, el segundo párrafo al inciso f) de la fracción I del artículo 86 y el artículo 86 Bis, todos de la Ley de Aviación Civil, para quedar como sigue: ..........
-TRANSITORIOS Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Artículo Segundo. El presente Decreto deroga todas aquellas disposiciones jurídicas que se opongan al mismo.
+DECRETO por el que se reforman y adicionan diversos artículos de la Ley de Aviación Civil.
+Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2001
+
+### ARTÍCULO ÚNICO
+SE REFORMAN: los artículos 5, fracción I, inciso b); 6, párrafo primero y las fracciones VI y XII; 7; 23, párrafo cuarto; 29, párrafo primero; 30, párrafos primero y segundo; 32, párrafo
+**primero.** ; 35, párrafos primero y segundo; 70, segundo párrafo; 80, segundo párrafo; 84 primer párrafo; 86, primer párrafo, primer párrafo del inciso f) e incisos h) e i) de la fracción I; 88, fracciones VII y XII. Y SE ADICIONAN: las fracciones XIII, XIV, XV y un último párrafo al artículo 6; el artículo 7 Bis; la fracción IV al artículo 9; el párrafo tercero al artículo 23; el párrafo cuarto al artículo 28; el segundo párrafo y sus fracciones I y II, y el tercero y cuarto párrafos al artículo 29; el párrafo segundo al artículo 38; el párrafo
+**cuarto.** al artículo 42; los párrafos cuarto y quinto al artículo 45; los párrafos segundo, tercero, cuarto y
+**quinto.** al artículo 84; y, el segundo párrafo al inciso f) de la fracción I del artículo 86 y el artículo 86 Bis, todos de la Ley de Aviación Civil, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+
+### Artículo Primero
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### Artículo Segundo
+El presente Decreto deroga todas aquellas disposiciones jurídicas que se opongan al mismo.
 La autoridad correspondiente deberá adecuar todas aquellas disposiciones reglamentarias a más tardar dentro de los 120 días siguientes a la fecha de su entrada en vigor.
 México, D.F., a 14 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforma el artículo 15, de la Ley de Aviación Civil.
-Publicado en el Diario Oficial de la Federación el 6 de junio de 2006 Artículo Único.- Se reforma y adiciona el antepenúltimo y el penúltimo párrafo del Artículo 15 de la Ley de Aviación Civil, para quedar como sigue: ..........
-TRANSITORIO Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el artículo 15, de la Ley de Aviación Civil.
+Publicado en el Diario Oficial de la Federación el 6 de junio de 2006
+
+### Artículo Único
+Se reforma y adiciona el antepenúltimo y el penúltimo párrafo del Artículo 15 de la Ley de Aviación Civil, para quedar como sigue: ..........
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 27 de abril de 2006.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcela González Salas P., Presidente.- Sen. Saúl López Sollano, Secretario.- Dip. Margarita Chávez Murguía, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforma y adiciona la Ley de Aviación Civil y la Ley de Aeropuertos.
-Publicado en el Diario Oficial de la Federación el 5 de julio de 2006 Artículo Primero.- Se adiciona la fracción XV, al Artículo 6 pasando la actual XV a ser XVI de la Ley de Aviación Civil, para quedar como sigue: ..........
-TRANSITORIO Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma y adiciona la Ley de Aviación Civil y la Ley de Aeropuertos.
+Publicado en el Diario Oficial de la Federación el 5 de julio de 2006
+
+### Artículo Primero
+Se adiciona la fracción XV, al Artículo 6 pasando la actual XV a ser XVI de la Ley de Aviación Civil, para quedar como sigue: ..........
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 26 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Micaela Aguilar González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforman los artículos 6, 15 y 76 y se adiciona un artículo 76 Bis a la Ley de Aviación Civil.
-Publicado en el Diario Oficial de la Federación el 21 de mayo de 2013 Artículo Único. Se reforman la fracción V del artículo 6 y el primer y segundo párrafo del artículo 76; y se adicionan una nueva fracción XIII, pasando la actual fracción XIII a ser la fracción XIV del artículo 15 y un artículo 76 Bis, de la Ley de Aviación Civil, para quedar como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten la materialización del mismo.
-Tercero.- La Secretaría de Comunicaciones y Transportes, en coordinación con las secretarías de estado y demás instituciones facultadas para tal efecto, deberán formular las Normas Oficiales Mexicanas relativas al contenido del presente Decreto.
+DECRETO por el que se reforman los artículos 6, 15 y 76 y se adiciona un artículo 76 Bis a la Ley de Aviación Civil.
+Publicado en el Diario Oficial de la Federación el 21 de mayo de 2013
+
+### Artículo Único
+Se reforman la fracción V del artículo 6 y el primer y segundo párrafo del artículo 76; y se adicionan una nueva fracción XIII, pasando la actual fracción XIII a ser la fracción XIV del artículo 15 y un artículo 76 Bis, de la Ley de Aviación Civil, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten la materialización del mismo.
+**Tercero.-** La Secretaría de Comunicaciones y Transportes, en coordinación con las secretarías de estado y demás instituciones facultadas para tal efecto, deberán formular las Normas Oficiales Mexicanas relativas al contenido del presente Decreto.
 México, D. F., a 4 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecisiete de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Aviación Civil y de la Ley de Aeropuertos.
-Publicado en el Diario Oficial de la Federación el 26 de enero de 2015 Artículo Primero. Se reforman los artículos 15, segundo y tercer párrafos; 39, segundo párrafo; y se adicionan los artículos 2, con las fracciones V, IX, X, XIII y XVII, recorriéndose en su orden las subsecuentes; 11, con un quinto párrafo recorriéndose los subsecuentes; 15, con una fracción XIV, recorriéndose la actual en su orden; 27, con un último párrafo; 32, con un cuarto, quinto y sexto párrafos; 38, con un tercer, cuarto y quinto párrafos; 41, con un segundo párrafo, un Capítulo XV Bis denominado “Seguridad operacional”, que comprende los artículos 78 Bis a 78 Bis 10; 86, con una fracción VIII y 88 Bis a la Ley de Aviación Civil, para quedar como sigue: ……… Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de su competencia, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten el cumplimiento del mismo.
-Tercero. La vigencia de las licencias del personal técnico aeronáutico será de dos años y la Secretaría podrá ampliar la vigencia de las mismas, una vez que realice las adecuaciones y modificaciones necesarias que posibiliten su cumplimiento.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Aviación Civil y de la Ley de Aeropuertos.
+Publicado en el Diario Oficial de la Federación el 26 de enero de 2015
+
+### Artículo Primero
+Se reforman los artículos 15, segundo y tercer párrafos; 39, segundo párrafo; y se adicionan los artículos 2, con las fracciones V, IX, X, XIII y XVII, recorriéndose en su orden las subsecuentes; 11, con un quinto párrafo recorriéndose los subsecuentes; 15, con una fracción XIV, recorriéndose la actual en su orden; 27, con un último párrafo; 32, con un cuarto, quinto y sexto párrafos; 38, con un tercer, cuarto y quinto párrafos; 41, con un segundo párrafo, un Capítulo XV Bis denominado “Seguridad operacional”, que comprende los artículos 78 Bis a 78 Bis 10; 86, con una fracción VIII y 88 Bis a la Ley de Aviación Civil, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de su competencia, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten el cumplimiento del mismo.
+**Tercero.** La vigencia de las licencias del personal técnico aeronáutico será de dos años y la Secretaría podrá ampliar la vigencia de las mismas, una vez que realice las adecuaciones y modificaciones necesarias que posibiliten su cumplimiento.
 México, D.F., a 15 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Laura Barrera Fortoul, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforma el artículo 50 de la Ley de Aviación Civil.
-Publicado en el Diario Oficial de la Federación el 10 de octubre de 2016 ARTÍCULO ÚNICO.- Se reforma el artículo 50 de la Ley de Aviación Civil, para quedar como sigue: ……… TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el artículo 50 de la Ley de Aviación Civil.
+Publicado en el Diario Oficial de la Federación el 10 de octubre de 2016
+
+### ARTÍCULO ÚNICO
+Se reforma el artículo 50 de la Ley de Aviación Civil, para quedar como sigue: ………
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 8 de septiembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de octubre de dos mil dieciséis.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Aviación Civil.
-Publicado en el Diario Oficial de la Federación el 26 de junio de 2017 Artículo Único.- Se reforman el párrafo segundo del artículo 49; el artículo 50 y el párrafo primero del
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Aviación Civil.
+Publicado en el Diario Oficial de la Federación el 26 de junio de 2017
+
+### Artículo Único
+Se reforman el párrafo segundo del artículo 49; el artículo 50 y el párrafo primero del
 
 ### artículo 52
-; el párrafo segundo del artículo 62, las fracciones XI y XII del artículo 87; Se adicionan: las fracciones IV Bis, VIII Bis y VIII Ter al artículo 2; el artículo 42 Bis; un capítulo X Bis comprendiendo los artículos 47 Bis al 47 Bis 4; los párrafos tercero, cuarto y quinto al artículo 49, el artículo 52 Bis, un último párrafo al artículo 84 y las fracciones XIII y XIV al artículo 87 de la Ley de Aviación Civil, para quedar como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten la materialización del mismo.
-Tercero.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para elaborar las Normas Oficiales Mexicanas a las que se hace referencia en los artículos reformados y adicionados.
-Cuarto.- Los permisionarios y concesionarios del servicio de transporte aéreo comercial en un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, adecuarán sus procedimientos con el fin de dar cumplimiento a las disposiciones señaladas en el mismo.
-Quinto.- La Secretaría de Comunicaciones y Transportes, sin modificación al presupuesto del año corriente, y en coordinación con los concesionarios y permisionarios, deberá realizar acciones de difusión a través de campañas de publicidad, para dar a conocer los alcances del presente Decreto.
-Sexto.- La Secretaría de Comunicaciones y Transportes deberá implementar, en un plazo de hasta 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, un mecanismo público, eficaz y expedito que, en caso de que la salida de un vuelo se retrase o cancele, permita al pasajero conocer las causas y determine si es responsable de ellas el concesionario o permisionario.
-Séptimo.- Los permisionarios o concesionarios deberán registrar las políticas de compensación señaladas en la fracción V, inciso a), del artículo 47 Bis, en un plazo de hasta 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+; el párrafo segundo del artículo 62, las fracciones XI y XII del artículo 87; Se adicionan: las fracciones IV Bis, VIII Bis y VIII Ter al artículo 2; el artículo 42 Bis; un capítulo X Bis comprendiendo los artículos 47 Bis al 47 Bis 4; los párrafos tercero, cuarto y quinto al artículo 49, el artículo 52 Bis, un último párrafo al artículo 84 y las fracciones XIII y XIV al artículo 87 de la Ley de Aviación Civil, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten la materialización del mismo.
+**Tercero.-** El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para elaborar las Normas Oficiales Mexicanas a las que se hace referencia en los artículos reformados y adicionados.
+**Cuarto.-** Los permisionarios y concesionarios del servicio de transporte aéreo comercial en un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, adecuarán sus procedimientos con el fin de dar cumplimiento a las disposiciones señaladas en el mismo.
+**Quinto.-** La Secretaría de Comunicaciones y Transportes, sin modificación al presupuesto del año corriente, y en coordinación con los concesionarios y permisionarios, deberá realizar acciones de difusión a través de campañas de publicidad, para dar a conocer los alcances del presente Decreto.
+**Sexto.-** La Secretaría de Comunicaciones y Transportes deberá implementar, en un plazo de hasta 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, un mecanismo público, eficaz y expedito que, en caso de que la salida de un vuelo se retrase o cancele, permita al pasajero conocer las causas y determine si es responsable de ellas el concesionario o permisionario.
+**Séptimo.-** Los permisionarios o concesionarios deberán registrar las políticas de compensación señaladas en la fracción V, inciso a), del artículo 47 Bis, en un plazo de hasta 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
-Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil LEY DE AVIACIÓN CIVIL diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Aviación Civil y de la Ley de Aeropuertos.
-Publicado en el Diario Oficial de la Federación el 18 de junio de 2018 Artículo Primero.- Se reforman los artículos 2, fracción III; 3, párrafos tercero y cuarto; 4, párrafo primero y fracción IV; 11, párrafos cuarto, quinto y sexto; 15, fracción X; 23, párrafo tercero; 26; 62; 63; 64; 68; 72, párrafo primero; 86, fracciones I, II, III, IV, V, VI, VII y VIII, en su primer párrafo; 86 Bis; 87, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI y XII; 88, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI y XVII; 89, párrafos primero y tercero; se adicionan los artículos 2, fracciones I Bis, I Ter, I Quáter, I Quinquies y I Sexies; 6, fracciones XVI, XVII y XVIII, recorriéndose la subsecuente en su orden; 47, con una fracción VI y 88 Bis 1 a la Ley de Aviación Civil, para quedar como sigue: ..........
-Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- El Ejecutivo Federal contará con un plazo máximo de 180 días, contados a partir de la publicación del presente Decreto, para reformar los reglamentos correspondientes y emitir las disposiciones administrativas en materia de aeronaves pilotadas a distancia y de seguridad operacional.
+Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Aviación Civil y de la Ley de Aeropuertos.
+Publicado en el Diario Oficial de la Federación el 18 de junio de 2018
+
+### Artículo Primero
+Se reforman los artículos 2, fracción III; 3, párrafos tercero y cuarto; 4, párrafo
+**primero.** y fracción IV; 11, párrafos cuarto, quinto y sexto; 15, fracción X; 23, párrafo tercero; 26; 62; 63; 64; 68; 72, párrafo primero; 86, fracciones I, II, III, IV, V, VI, VII y VIII, en su primer párrafo; 86 Bis; 87, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI y XII; 88, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI y XVII; 89, párrafos primero y tercero; se adicionan los artículos 2, fracciones I Bis, I Ter, I Quáter, I Quinquies y I Sexies; 6, fracciones XVI, XVII y XVIII, recorriéndose la subsecuente en su orden; 47, con una fracción VI y 88 Bis 1 a la Ley de Aviación Civil, para quedar como sigue: ..........
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal contará con un plazo máximo de 180 días, contados a partir de la publicación del presente Decreto, para reformar los reglamentos correspondientes y emitir las disposiciones administrativas en materia de aeronaves pilotadas a distancia y de seguridad operacional.
 Ciudad de México, a 24 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Itzel Sarahí Ríos de la Mora, Secretaria.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Aviación Civil.
-Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021 Artículo Único. Se reforman los artículos 2; 4, primer párrafo; 6, fracciones III, VIII y último párrafo; 7, primero, segundo y tercer párrafos; 7 Bis, primer y segundo párrafos; 11, primer párrafo y fracciones I, II, III y IV; 19, primer párrafo; 41, primer párrafo; 47 Bis, fracción IX, tercer párrafo; 78 Bis 2, fracción VI; 78 Bis 5, fracciones III y IV; 78 Bis 7, primer párrafo; 79, fracción I; 80, segundo párrafo; 81, primer párrafo; 86, fracción V; 87, fracciones XIII y XIV, y 90, primer párrafo; se adicionan las fracciones II Bis y III Bis al
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Aviación Civil.
+Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
+
+### Artículo Único
+Se reforman los artículos 2; 4, primer párrafo; 6, fracciones III, VIII y último párrafo; 7,
+**primero.** , segundo y tercer párrafos; 7 Bis, primer y segundo párrafos; 11, primer párrafo y fracciones I, II, III y IV; 19, primer párrafo; 41, primer párrafo; 47 Bis, fracción IX, tercer párrafo; 78 Bis 2, fracción VI; 78 Bis 5, fracciones III y IV; 78 Bis 7, primer párrafo; 79, fracción I; 80, segundo párrafo; 81, primer párrafo; 86, fracción V; 87, fracciones XIII y XIV, y 90, primer párrafo; se adicionan las fracciones II Bis y III Bis al
 
 ### artículo 6
 ; un octavo párrafo al artículo 11; los artículos 17 Bis; 32 Bis; un cuarto párrafo al artículo 33; un tercer párrafo al artículo 41; una fracción V al artículo 78 Bis 5; 78 Bis 11; un tercer párrafo al artículo 80; un segundo y tercer párrafo al artículo 81; los artículos 81 Bis y 81 Ter; un inciso j) a la fracción I del
 
 ### artículo 86
-; las fracciones XV, XVI y XVII al artículo 87; las fracciones XVIII, XIX y XX al artículo 88; los artículos 88 Ter y 88 Quáter; las fracciones I, II y III al artículo 90 de la Ley de Aviación Civil, para quedar como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Se derogan las disposiciones que se opongan al presente Decreto. Seguirán teniendo aplicación y vigencia las disposiciones y demás circulares obligatorias emitidas con anterioridad a la entrada en vigor del presente Decreto, en particular las contenidas en el Acuerdo por el que se dan a conocer las disposiciones administrativas de carácter técnico aeronáutico de la Secretaría de Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el 15 de febrero de 2021.
-Tercero.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar, en el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten la materialización del mismo.
+; las fracciones XV, XVI y XVII al artículo 87; las fracciones XVIII, XIX y XX al artículo 88; los artículos 88 Ter y 88 Quáter; las fracciones I, II y III al artículo 90 de la Ley de Aviación Civil, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan las disposiciones que se opongan al presente Decreto. Seguirán teniendo aplicación y vigencia las disposiciones y demás circulares obligatorias emitidas con anterioridad a la entrada en vigor del presente Decreto, en particular las contenidas en el Acuerdo por el que se dan a conocer las disposiciones administrativas de carácter técnico aeronáutico de la Secretaría de Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el 15 de febrero de 2021.
+**Tercero.-** El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar, en el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten la materialización del mismo.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforman, adicionan y derogan diversos artículos de la Ley Orgánica de la Administración Pública Federal, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, de la Ley de Aeropuertos y de la Ley de Aviación Civil, en Materia de Protección del Espacio Aéreo Mexicano.
-Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023 Artículo Cuarto.- Se reforman los artículos 29, párrafos primero y último; 32, párrafos primero, segundo, tercero, cuarto y quinto; 86, párrafo primero y sus fracciones I, incisos i) y j), VII y VIII; 87, párrafo primero y sus fracciones V, XI, XII, XIV, XVI y XVII; 88, párrafo primero y sus fracciones II, XI, XIV, XVIII, XIX y XX, y 90, párrafo primero y sus fracciones II y III; se adicionan los artículos 8 Bis; 29, segundo párrafo, recorriéndose los subsecuentes; 34, segundo párrafo; 86, fracciones I, inciso k, IX, IX Bis, X, XI y XII; 87, fracciones XVIII y XIX; 88, fracciones XXI, XXII, XXIII, XXIV, XXV y XXVI, y 90, fracción IV, y se deroga el artículo 29, los actuales párrafos segundo y tercero, de la Ley de Aviación Civil, para quedar como sigue: ……..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
-Tercero. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
-Cuarto. A partir de la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, Mayor” y “Diplomado de Estado Mayor Aéreo”, se entenderán hechas al personal “De Estado Mayor”.
-Quinto. A la entrada en vigor del presente Decreto, la designación del personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, será reconocida plenamente en igualdad de circunstancias que el “De Estado Mayor”.
-Sexto. Los documentos expedidos al personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, mantendrán su validez y vigencia, por lo que no será necesaria su reexpedición como “De Estado Mayor”.
-Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto del Cuartel General Superior del Ejército y Fuerza Aérea, del Estado Mayor Aéreo, del Servicio de Control de Vuelo y del Servicio de Material Aéreo, se entenderán referidas al Cuartel General Superior Conjunto del Ejército y Fuerza Aérea, al Estado Mayor de la Fuerza Aérea, al Servicio de Defensa Aérea y al Servicio de Mantenimiento de Material Aéreo, respectivamente.
+DECRETO por el que se reforman, adicionan y derogan diversos artículos de la Ley Orgánica de la Administración Pública Federal, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, de la Ley de Aeropuertos y de la Ley de Aviación Civil, en Materia de Protección del Espacio Aéreo Mexicano.
+Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
+
+### Artículo Cuarto
+Se reforman los artículos 29, párrafos primero y último; 32, párrafos primero,
+**segundo.** , tercero, cuarto y quinto; 86, párrafo primero y sus fracciones I, incisos i) y j), VII y VIII; 87, párrafo primero y sus fracciones V, XI, XII, XIV, XVI y XVII; 88, párrafo primero y sus fracciones II, XI, XIV, XVIII, XIX y XX, y 90, párrafo primero y sus fracciones II y III; se adicionan los artículos 8 Bis; 29,
+**segundo.** párrafo, recorriéndose los subsecuentes; 34, segundo párrafo; 86, fracciones I, inciso k, IX, IX Bis, X, XI y XII; 87, fracciones XVIII y XIX; 88, fracciones XXI, XXII, XXIII, XXIV, XXV y XXVI, y 90, fracción IV, y se deroga el artículo 29, los actuales párrafos segundo y tercero, de la Ley de Aviación Civil, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+**Tercero.** Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+**Cuarto.** A partir de la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, Mayor” y “Diplomado de Estado Mayor Aéreo”, se entenderán hechas al personal “De Estado Mayor”.
+**Quinto.** A la entrada en vigor del presente Decreto, la designación del personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, será reconocida plenamente en igualdad de circunstancias que el “De Estado Mayor”.
+**Sexto.** Los documentos expedidos al personal “Diplomado de Estado Mayor” y “Diplomado de Estado Mayor Aéreo”, mantendrán su validez y vigencia, por lo que no será necesaria su reexpedición como “De Estado Mayor”.
+**Séptimo.** A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto del Cuartel General Superior del Ejército y Fuerza Aérea, del Estado Mayor Aéreo, del Servicio de Control de Vuelo y del Servicio de Material Aéreo, se entenderán referidas al Cuartel General Superior Conjunto del Ejército y Fuerza Aérea, al Estado Mayor de la Fuerza Aérea, al Servicio de Defensa Aérea y al Servicio de Mantenimiento de Material Aéreo, respectivamente.
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen.
-Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." LEY DE AVIACIÓN CIVIL En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Aeropuertos y de la Ley de Aviación Civil.
-Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023 Artículo Segundo.- Se reforman los artículos 2; 6; 7, párrafos primero, tercero, fracciones I y II; 7 Bis, párrafos segundo, fracciones VI y VII, y tercero; 9, párrafo tercero; 11, párrafos primero, fracción IV, cuarto y quinto; 15, párrafos primero, y sus fracciones III, IV, V, IX, XII y XV, segundo, tercero y cuarto; 16, párrafos primero y segundo; 17 Bis, párrafo primero; 19, párrafo primero, fracciones I, II y III; 20, párrafos primero, fracciones I, V y VI, y segundo; 21; 22; 23, párrafos primero, segundo, fracción I, y cuarto; 24; 25; 26; 27; 28, párrafos primero, tercero y cuarto; 29, párrafos primero, segundo y actual cuarto; 30; 32, párrafos primero, segundo, tercero, cuarto y quinto; 32 Bis, párrafos primero y segundo; 33, párrafos tercero y cuarto; 34; 35; 36, el actual párrafo tercero; 38, párrafos primero, segundo, tercero, fracciones I y II, cuarto y quinto; 39, párrafos primero, segundo y tercero; 40, párrafo segundo; 41, párrafos primero y tercero; 42, párrafos primero, segundo, tercero y cuarto; 43, párrafos primero y segundo; 44, párrafo segundo; 45, párrafos primero y quinto; 47, párrafo primero y sus fracciones III y IV; 47 Bis, párrafos primero, fracciones I, párrafo primero, II, III, IV, V, párrafo primero y sus incisos a), párrafos segundo y cuarto y b), párrafo primero, VI, párrafo primero y su inciso c), párrafo segundo, VII, VIII, IX, párrafos primero, segundo y tercero, y X; 47 Bis 4, párrafo primero y sus fracciones I, II y III; 49; 50; 68; 70, párrafo segundo; 71, párrafo primero; 72, párrafo segundo; 74, párrafos primero y segundo; 75; 76; 76 Bis; 77, párrafos primero y su fracción I, y segundo; 78; 78 Bis, párrafo primero y sus fracciones I, II, III y IV; 78 Bis 1, párrafos primero y sus fracciones I, II, V, VIII y X; 78 Bis 2, párrafo primero y sus fracciones I, II y VIII; 78 Bis 3, párrafo primero, fracciones I, III, IV y V; 78 Bis 4; 78 Bis 5; 78 Bis 6; 78 Bis 7, párrafo primero y su fracción I; 78 Bis 9, párrafo primero; 78 Bis 10; 78 Bis 11; 78 Quaterdecies, fracción VI; 79, párrafos primero y segundo y su fracción II; 80, párrafos primero y segundo; 81 Ter, párrafos primero, tercero y quinto; 82, párrafos primero, fracción I, y segundo; 84; 85; 86, párrafo primero y sus fracciones I, incisos i) y j), VII y VIII; 86 Bis; 87, párrafo primero y sus fracciones V, XI, XII, XIV, XVI y XVII; 88, fracciones II, XI, XIV, XVIII, XIX y XX; 88 Bis; 88 Bis 1, párrafo tercero; 88 Ter, párrafo primero y sus fracciones II y III; 88 Quater; 89, párrafos primero y segundo, así como las denominaciones de los capítulos II; III; IV, las secciones Tercera y Cuarta, y XVIII; se adicionan las fracciones II Bis, III Bis y V Bis del artículo 2; un inciso c) a la fracción I del artículo 5; un párrafo segundo a la fracción III, se modifica la fracción XXII y una fracción XLIX Bis al artículo 6 Bis; 7, párrafo tercero con la fracción I Bis; 15 Bis; 16, párrafo tercero; un artículo 32 ter; 34 Bis; 34 Ter; 34 Quater; 36, párrafo segundo y se recorren los subsecuentes en su orden; 38, párrafos sexto, séptimo y octavo; 39, párrafo cuarto; 44, párrafo tercero y se recorre el subsecuente en su orden; 47 Bis, fracciones I, el segundo párrafo, IV, el segundo párrafo y IX, los párrafos cuarto y quinto y se recorre el subsecuente en su orden; un párrafo tercero al artículo 74, recorriéndose el subsecuente; 76, párrafo tercero; 78 Bis 1, fracciones XI, XII, XIII, XIV y XV; 78 Bis 3, párrafos primero, fracción VI, y un segundo; 78 Bis 6, párrafo segundo; 79 Bis 9, párrafo segundo; 81 Bis, fracción XI Bis; 84 Bis; 84 Ter; 86, párrafo primero, fracciones I, inciso k), IX, X, XI y XII; 87, fracción XVIII; 88, fracciones XXI, XXII, XXIII, XXIV y XXV; 88 Bis, párrafos primero, las fracciones I, II, III, IV, V y VI, y segundo; 88 Quater, fracciones III, IV, V, VI y VII; 88 Quinquies, y 88 Sexies, así como la sección Primera Bis al Capítulo III, con un artículo 10 Bis; el Capítulo XV Ter que comprende los artículos 78 Ter, 78 Quater, 78 Quinquies, 78 Sexies y 78 Septies; un Capítulo XV Quater que comprende los artículos 78 Octies, 78 Nonies, 78 Decies, 78 Undecies, 78 Duodecies, 78 Terdecies, 78 Quaterdecies, 78 Quinquiesdecies, 78 Sexiesdecies, 78 Septdecies, 78 Octodecies y 78 Novodecies, y un Capítulo XVI Bis que comprende los artículos 82 Bis, 82 Ter y 82 Quater, y se derogan los artículos 28, párrafo segundo; 29, las fracciones I y II del actual párrafo segundo y párrafo tercero; 41, párrafo segundo, y 78 Bis, los párrafos primero, fracción V, y segundo, de la Ley de Aviación Civil, para quedar como sigue: ……… Transitorios LEY DE AVIACIÓN CIVIL Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La persona titular del Ejecutivo Federal contará con un plazo máximo de 180 días hábiles, contados a partir de la publicación del presente Decreto, para modificar y expedir los reglamentos respectivos.
+Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Aeropuertos y de la Ley de Aviación Civil.
+Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
+
+### Artículo Segundo
+Se reforman los artículos 2; 6; 7, párrafos primero, tercero, fracciones I y II; 7 Bis, párrafos segundo, fracciones VI y VII, y tercero; 9, párrafo tercero; 11, párrafos primero, fracción IV,
+**cuarto.** y quinto; 15, párrafos primero, y sus fracciones III, IV, V, IX, XII y XV, segundo, tercero y cuarto; 16, párrafos primero y segundo; 17 Bis, párrafo primero; 19, párrafo primero, fracciones I, II y III; 20, párrafos primero, fracciones I, V y VI, y segundo; 21; 22; 23, párrafos primero, segundo, fracción I, y
+**cuarto.** ; 24; 25; 26; 27; 28, párrafos primero, tercero y cuarto; 29, párrafos primero, segundo y actual
+**cuarto.** ; 30; 32, párrafos primero, segundo, tercero, cuarto y quinto; 32 Bis, párrafos primero y segundo; 33, párrafos tercero y cuarto; 34; 35; 36, el actual párrafo tercero; 38, párrafos primero, segundo, tercero, fracciones I y II, cuarto y quinto; 39, párrafos primero, segundo y tercero; 40, párrafo segundo; 41, párrafos primero y tercero; 42, párrafos primero, segundo, tercero y cuarto; 43, párrafos primero y
+**segundo.** ; 44, párrafo segundo; 45, párrafos primero y quinto; 47, párrafo primero y sus fracciones III y IV; 47 Bis, párrafos primero, fracciones I, párrafo primero, II, III, IV, V, párrafo primero y sus incisos a), párrafos segundo y cuarto y b), párrafo primero, VI, párrafo primero y su inciso c), párrafo segundo, VII, VIII, IX, párrafos primero, segundo y tercero, y X; 47 Bis 4, párrafo primero y sus fracciones I, II y III; 49; 50; 68; 70, párrafo segundo; 71, párrafo primero; 72, párrafo segundo; 74, párrafos primero y segundo; 75; 76; 76 Bis; 77, párrafos primero y su fracción I, y segundo; 78; 78 Bis, párrafo primero y sus fracciones I, II, III y IV; 78 Bis 1, párrafos primero y sus fracciones I, II, V, VIII y X; 78 Bis 2, párrafo
+**primero.** y sus fracciones I, II y VIII; 78 Bis 3, párrafo primero, fracciones I, III, IV y V; 78 Bis 4; 78 Bis 5; 78 Bis 6; 78 Bis 7, párrafo primero y su fracción I; 78 Bis 9, párrafo primero; 78 Bis 10; 78 Bis 11; 78 Quaterdecies, fracción VI; 79, párrafos primero y segundo y su fracción II; 80, párrafos primero y
+**segundo.** ; 81 Ter, párrafos primero, tercero y quinto; 82, párrafos primero, fracción I, y segundo; 84; 85; 86, párrafo primero y sus fracciones I, incisos i) y j), VII y VIII; 86 Bis; 87, párrafo primero y sus fracciones V, XI, XII, XIV, XVI y XVII; 88, fracciones II, XI, XIV, XVIII, XIX y XX; 88 Bis; 88 Bis 1, párrafo tercero; 88 Ter, párrafo primero y sus fracciones II y III; 88 Quater; 89, párrafos primero y segundo, así como las denominaciones de los capítulos II; III; IV, las secciones Tercera y Cuarta, y XVIII; se adicionan las fracciones II Bis, III Bis y V Bis del artículo 2; un inciso c) a la fracción I del artículo 5; un párrafo segundo a la fracción III, se modifica la fracción XXII y una fracción XLIX Bis al artículo 6 Bis; 7, párrafo tercero con la fracción I Bis; 15 Bis; 16, párrafo tercero; un artículo 32 ter; 34 Bis; 34 Ter; 34 Quater; 36, párrafo
+**segundo.** y se recorren los subsecuentes en su orden; 38, párrafos sexto, séptimo y octavo; 39, párrafo
+**cuarto.** ; 44, párrafo tercero y se recorre el subsecuente en su orden; 47 Bis, fracciones I, el segundo párrafo, IV, el segundo párrafo y IX, los párrafos cuarto y quinto y se recorre el subsecuente en su orden; un párrafo tercero al artículo 74, recorriéndose el subsecuente; 76, párrafo tercero; 78 Bis 1, fracciones XI, XII, XIII, XIV y XV; 78 Bis 3, párrafos primero, fracción VI, y un segundo; 78 Bis 6, párrafo segundo; 79 Bis 9, párrafo segundo; 81 Bis, fracción XI Bis; 84 Bis; 84 Ter; 86, párrafo primero, fracciones I, inciso k), IX, X, XI y XII; 87, fracción XVIII; 88, fracciones XXI, XXII, XXIII, XXIV y XXV; 88 Bis, párrafos primero, las fracciones I, II, III, IV, V y VI, y segundo; 88 Quater, fracciones III, IV, V, VI y VII; 88 Quinquies, y 88 Sexies, así como la sección Primera Bis al Capítulo III, con un artículo 10 Bis; el Capítulo XV Ter que comprende los artículos 78 Ter, 78 Quater, 78 Quinquies, 78 Sexies y 78 Septies; un Capítulo XV Quater que comprende los artículos 78 Octies, 78 Nonies, 78 Decies, 78 Undecies, 78 Duodecies, 78 Terdecies, 78 Quaterdecies, 78 Quinquiesdecies, 78 Sexiesdecies, 78 Septdecies, 78 Octodecies y 78 Novodecies, y un Capítulo XVI Bis que comprende los artículos 82 Bis, 82 Ter y 82 Quater, y se derogan los artículos 28, párrafo segundo; 29, las fracciones I y II del actual párrafo segundo y párrafo tercero; 41, párrafo
+**segundo.** , y 78 Bis, los párrafos primero, fracción V, y segundo, de la Ley de Aviación Civil, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La persona titular del Ejecutivo Federal contará con un plazo máximo de 180 días hábiles, contados a partir de la publicación del presente Decreto, para modificar y expedir los reglamentos respectivos.
 La Secretaría de Infraestructura, Comunicaciones y Transportes contará con un plazo máximo de 180 días hábiles, contados a partir de la publicación del presente Decreto, para expedir las disposiciones administrativas correspondientes.
-Tercero. Las disposiciones reglamentarias y administrativas vigentes a la entrada en vigor del presente Decreto, que no se opongan a este continuarán aplicándose hasta en tanto se emitan aquellas que las sustituyan.
-Cuarto. La Agencia Federal de Aviación Civil implementará de manera progresiva las fases para la ejecución de los procesos y procedimientos relacionados con el Sistema de Medicina de Aviación Civil conforme a los recursos que le correspondan dentro del presupuesto aprobado, por lo que no se aprobarán recursos adicionales en el presente ejercicio.
-Quinto. Las Constancias de Aptitud Psicofísica emitidas antes de la entrada en vigor del presente decreto por la Dirección General de Protección y Medicina Preventiva en el Transporte al personal técnico-aeronáutico y los aspirantes a serlo, conservarán la vigencia establecida en los mismos.
-Sexto. Las atribuciones establecidas en el artículo 6 Bis, fracciones XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXIII, XXXIV y XXXV de la Ley de Aviación Civil, del presente Decreto las ejercerá la Dirección General de Protección y Medicina Preventiva en el Transporte, hasta en tanto la Agencia Federal de Aviación Civil le comunique a dicha Dirección General que está en aptitud de asumirlas.
-Séptimo. Los trámites pendientes por resolver ante la Dirección General de Protección y Medicina Preventiva en el Transporte, respecto del personal técnico-aeronáutico, antes de la entrada en vigor del presente Decreto, deberán concluirse conforme a las disposiciones vigentes al momento de su solicitud.
-Octavo. Los trámites que se encuentren pendientes de resolución a la fecha de entrada en vigor del presente Decreto, se concluirán conforme a las disposiciones jurídicas vigentes al momento de su solicitud.
-Noveno. Los recursos humanos, financieros y materiales con los que cuenta la Secretaría de Infraestructura, Comunicaciones y Transportes que sean necesarios para el cumplimiento del presente Decreto serán transferidos a la Agencia Federal de Aviación Civil.
+**Tercero.** Las disposiciones reglamentarias y administrativas vigentes a la entrada en vigor del presente Decreto, que no se opongan a este continuarán aplicándose hasta en tanto se emitan aquellas que las sustituyan.
+**Cuarto.** La Agencia Federal de Aviación Civil implementará de manera progresiva las fases para la ejecución de los procesos y procedimientos relacionados con el Sistema de Medicina de Aviación Civil conforme a los recursos que le correspondan dentro del presupuesto aprobado, por lo que no se aprobarán recursos adicionales en el presente ejercicio.
+**Quinto.** Las Constancias de Aptitud Psicofísica emitidas antes de la entrada en vigor del presente decreto por la Dirección General de Protección y Medicina Preventiva en el Transporte al personal técnico-aeronáutico y los aspirantes a serlo, conservarán la vigencia establecida en los mismos.
+**Sexto.** Las atribuciones establecidas en el artículo 6 Bis, fracciones XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXIII, XXXIV y XXXV de la Ley de Aviación Civil, del presente Decreto las ejercerá la Dirección General de Protección y Medicina Preventiva en el Transporte, hasta en tanto la Agencia Federal de Aviación Civil le comunique a dicha Dirección General que está en aptitud de asumirlas.
+**Séptimo.** Los trámites pendientes por resolver ante la Dirección General de Protección y Medicina Preventiva en el Transporte, respecto del personal técnico-aeronáutico, antes de la entrada en vigor del presente Decreto, deberán concluirse conforme a las disposiciones vigentes al momento de su solicitud.
+**Octavo.** Los trámites que se encuentren pendientes de resolución a la fecha de entrada en vigor del presente Decreto, se concluirán conforme a las disposiciones jurídicas vigentes al momento de su solicitud.
+**Noveno.** Los recursos humanos, financieros y materiales con los que cuenta la Secretaría de Infraestructura, Comunicaciones y Transportes que sean necesarios para el cumplimiento del presente Decreto serán transferidos a la Agencia Federal de Aviación Civil.
 Las erogaciones que se generen con motivo de la transferencia deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
 Los ejecutores de gasto, por conducto de sus unidades responsables, deberán realizar el proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la Administración Pública Federal.
 Los derechos de los trabajadores serán respetados conforme a la normativa aplicable.
-LEY DE AVIACIÓN CIVIL Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
+Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
-LEY DE AVIACIÓN CIVIL DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Sexagésimo Cuarto.- Se reforma la fracción IV del artículo 4 de la Ley de Aviación Civil, para quedar como sigue: ……..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
-Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia LEY DE AVIACIÓN CIVIL Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+
+### artículo Sexto
+Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

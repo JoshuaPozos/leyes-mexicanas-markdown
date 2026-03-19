@@ -36,6 +36,10 @@ HEADER_PATTERN_RE = re.compile(
 )
 REFORMA_RE = re.compile(r'(Última\s+Reforma\s+DOF|Reforma\s+publicada)', re.IGNORECASE)
 
+# Título de la ley en ALL CAPS — se detecta dinámicamente y se usa para
+# eliminar el running header que se repite en cada página del PDF.
+_running_header: str = ""
+
 
 def is_header_line(line: str) -> bool:
     """Devuelve True si la línea es un encabezado de página repetitivo."""
@@ -46,6 +50,9 @@ def is_header_line(line: str) -> bool:
     if HEADER_PATTERN_RE.search(stripped):
         return True
     if REFORMA_RE.search(stripped):
+        return True
+    # Running header dinámico (título de la ley en ALL CAPS)
+    if _running_header and _running_header in stripped:
         return True
     return False
 
@@ -82,10 +89,38 @@ def split_article_heading(line: str) -> tuple[str, str | None]:
     return line.strip(), None
 
 
+# ---------------------------------------------------------------------------
+# Ordinales en texto (para artículos de decreto y transitorios)
+# ---------------------------------------------------------------------------
+_ORDINALS = (
+    r'(?:PRIMERO|SEGUNDO|TERCERO|CUARTO|QUINTO|SEXTO|SÉPTIMO|OCTAVO|NOVENO|'
+    r'DÉCIMO(?:\s+(?:PRIMERO|SEGUNDO|TERCERO|CUARTO|QUINTO|SEXTO|SÉPTIMO|OCTAVO|NOVENO))?|'
+    r'VIGÉSIMO(?:\s+(?:PRIMERO|SEGUNDO|TERCERO|CUARTO|QUINTO|SEXTO|SÉPTIMO|OCTAVO|NOVENO))?|'
+    r'TRIGÉSIMO|ÚNICO)'
+)
+_ORDINALS_TC = (
+    r'(?:Primero|Segundo|Tercero|Cuarto|Quinto|Sexto|Séptimo|Octavo|Noveno|'
+    r'Décimo(?:\s+(?:Primero|Segundo|Tercero|Cuarto|Quinto|Sexto|Séptimo|Octavo|Noveno))?|'
+    r'Vigésimo(?:\s+(?:Primero|Segundo|Tercero|Cuarto|Quinto|Sexto|Séptimo|Octavo|Noveno))?|'
+    r'Trigésimo|Único|PRIMERO|SEGUNDO|TERCERO|CUARTO|QUINTO|SEXTO|SÉPTIMO|OCTAVO|NOVENO|'
+    r'DÉCIMO(?:\s+(?:PRIMERO|SEGUNDO|TERCERO|CUARTO|QUINTO|SEXTO|SÉPTIMO|OCTAVO|NOVENO))?|'
+    r'VIGÉSIMO(?:\s+(?:PRIMERO|SEGUNDO|TERCERO|CUARTO|QUINTO|SEXTO|SÉPTIMO|OCTAVO|NOVENO))?|'
+    r'TRIGÉSIMO|ÚNICO)'
+)
+
+ARTICLE_ORDINAL_RE = re.compile(
+    rf'^(ARTÍCULO\s+{_ORDINALS}(?:\s+A\s+ARTÍCULO\s+{_ORDINALS})?)\s*(.*)', re.IGNORECASE
+)
+TRANSITORIO_HEADING_RE = re.compile(r'^(Transitorios?)\b', re.IGNORECASE)
+TRANSITORIO_ORDINAL_RE = re.compile(
+    rf'^((?:Artículo\s+)?{_ORDINALS_TC})\.?-?\.?\s*(.*)', re.IGNORECASE
+)
+
+
 def is_section_heading(line: str) -> bool:
-    """Detecta TÍTULO I, CAPÍTULO II, SECCIÓN III, etc."""
+    """Detecta TÍTULO I, CAPÍTULO II, SECCIÓN III, etc. (sin IGNORECASE para evitar falsos positivos)."""
     return bool(
-        re.match(r'^(TÍTULO|CAPÍTULO|SECCIÓN)\s+[IVXLCDM\d]+', line.strip(), re.IGNORECASE)
+        re.match(r'^(TÍTULO|CAPÍTULO|SECCIÓN|Título|Capítulo|Sección)\s+[IVXLCDM\d]+', line.strip())
     )
 
 
@@ -127,6 +162,37 @@ def extract_lines(pdf_path: Path, verbose: bool = False) -> tuple[list[str], int
     return all_lines, total
 
 
+def _detect_running_header(lines: list[str]) -> str:
+    """
+    Detecta el running header (título de la ley en ALL CAPS) que se repite
+    en cada página del PDF.  Busca la cadena ALL CAPS más frecuente.
+    """
+    from collections import Counter
+    candidates: Counter[str] = Counter()
+    for line in lines:
+        stripped = line.strip()
+        # Los running headers son ALL CAPS, largos, y contienen el nombre de la ley
+        if len(stripped) > 15 and stripped == stripped.upper() and re.search(r'[A-ZÁÉÍÓÚÑ]{4,}', stripped):
+            # Normalizar espacios
+            norm = ' '.join(stripped.split())
+            candidates[norm] += 1
+    if not candidates:
+        return ""
+    # El running header es la cadena ALL CAPS que más se repite
+    most_common, count = candidates.most_common(1)[0]
+    # Solo si aparece al menos 3 veces (varias páginas)
+    if count >= 3:
+        return most_common
+    return ""
+
+
+def _strip_running_header_inline(line: str, header: str) -> str:
+    """Elimina el running header cuando aparece embebido dentro de un párrafo."""
+    if not header or header not in line:
+        return line
+    return line.replace(header, ' ').strip()
+
+
 # ---------------------------------------------------------------------------
 # Formateo Markdown
 # ---------------------------------------------------------------------------
@@ -134,11 +200,26 @@ def extract_lines(pdf_path: Path, verbose: bool = False) -> tuple[list[str], int
 def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
     """
     Une líneas de continuación y aplica jerarquía Markdown:
-      ##  → TÍTULO / CAPÍTULO / SECCIÓN
-      ### → Artículo N
+      ##  → TÍTULO / CAPÍTULO / SECCIÓN / Transitorios
+      ### → Artículo N / ARTÍCULO ORDINAL
     """
+    # --- Detectar y limpiar running header ---
+    global _running_header
+    _running_header = _detect_running_header(lines)
+    if _running_header:
+        # Filtrar líneas que son solo el header, y limpiar inline
+        cleaned: list[str] = []
+        for line in lines:
+            stripped = line.strip()
+            norm = ' '.join(stripped.split())
+            if norm == _running_header:
+                continue  # línea es solo el running header
+            cleaned.append(_strip_running_header_inline(stripped, _running_header))
+        lines = cleaned
+
     joined: list[str] = []
     buffer = ""
+    in_transitorios = False  # rastrear si estamos en sección de transitorios
 
     for line in lines:
         stripped = line.strip()
@@ -150,6 +231,40 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
             joined.append("")
             continue
 
+        # --- Detectar "Transitorios" como heading ---
+        tm = TRANSITORIO_HEADING_RE.match(stripped)
+        if tm:
+            if buffer:
+                joined.append(buffer.strip())
+                buffer = ""
+            heading_text = tm.group(1)
+            rest = stripped[tm.end():].strip()
+            joined.append("")
+            joined.append(f"## {heading_text}")
+            joined.append("")
+            in_transitorios = True
+            if rest:
+                # El resto puede empezar con un ordinal
+                stripped = rest
+                # fall through to ordinal check below
+            else:
+                continue
+
+        # --- Detectar ARTÍCULO + ORDINAL como heading (decretos) ---
+        am = ARTICLE_ORDINAL_RE.match(stripped)
+        if am and stripped[:8].upper().startswith('ARTÍCULO'):
+            if buffer:
+                joined.append(buffer.strip())
+                buffer = ""
+            heading = am.group(1).strip().rstrip('.')
+            body = am.group(2).strip().lstrip('.-').strip() if am.group(2) else None
+            joined.append("")
+            joined.append(f"### {heading}")
+            if body:
+                buffer = body
+            continue
+
+        # --- Artículo numérico ---
         if is_article_heading(stripped):
             if buffer:
                 joined.append(buffer.strip())
@@ -157,10 +272,12 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
             heading, body = split_article_heading(stripped)
             joined.append("")
             joined.append(f"### {heading}")
+            in_transitorios = False
             if body:
                 buffer = body
             continue
 
+        # --- TÍTULO / CAPÍTULO / SECCIÓN ---
         if is_section_heading(stripped):
             if buffer:
                 joined.append(buffer.strip())
@@ -168,6 +285,21 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
             joined.append("")
             joined.append(f"## {stripped}")
             continue
+
+        # --- Ordinales en transitorios: poner en negritas ---
+        if in_transitorios:
+            om = TRANSITORIO_ORDINAL_RE.match(stripped)
+            if om:
+                if buffer:
+                    joined.append(buffer.strip())
+                    buffer = ""
+                ordinal = om.group(1).strip().rstrip('.')
+                rest = om.group(2).strip().lstrip('.-').strip()
+                # Separador original (.- o .)
+                sep = '.-' if '.-' in stripped[:len(om.group(1))+3] else '.'
+                formatted = f"**{ordinal}{sep}** {rest}" if rest else f"**{ordinal}{sep}**"
+                buffer = formatted
+                continue
 
         # Unión de líneas: guión al final → unir directamente
         if buffer.endswith('-'):

@@ -964,7 +964,10 @@ Fracción reformada DOF 09-07-1993 II.- La tramitación de un juicio agrario que
 ### Artículo 200
 .- Si el recurso se refiere a cualquiera de los supuestos del artículo 198 y es presentado en tiempo, el tribunal lo admitirá en un término de tres días y dará vista a las partes interesadas para que en un término de cinco días expresen lo que a su interés convenga. Una vez hecho lo anterior, remitirá inmediatamente el expediente, el original del escrito de agravios, y la promoción de los terceros interesados al Tribunal Superior Agrario, el cual resolverá en definitiva en un término de diez días contado a partir de la fecha de recepción.
 Contra las sentencias definitivas de los Tribunales Unitarios o del Tribunal Superior Agrario sólo procederá el juicio de amparo ante el Tribunal Colegiado de Circuito correspondiente. En tratándose de otros actos de los Tribunales Unitarios en que por su naturaleza proceda el amparo, conocerá el juez de distrito que corresponda.
-TRANSITORIOS ARTICULO PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+ARTICULO PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Rural, la Ley de Terrenos Baldíos, Nacionales y Demasías y la Ley del Seguro Agropecuario y de Vida Campesino, así como todas las disposiciones que se opongan a las previstas en la presente ley.
 En tanto no se expidan las disposiciones correspondientes, continuarán aplicándose, en lo que no se opongan a esta ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente ley.
 LEY AGRARIA ARTICULO TERCERO.- La Ley Federal de Reforma Agraria que se deroga se seguirá aplicando respecto de los asuntos que actualmente se encuentran en trámite en materia de ampliación o dotación de tierras, bosques y aguas, creación de nuevos centros de población y restitución, reconocimiento y titulación de bienes comunales.
@@ -983,86 +986,206 @@ De manifestarse las colonias en favor de la adquisición del dominio pleno de su
 México, D.F., a 23 de febrero de 1992.- Dip. María Esther Scherman Leaño, Presidente.- Sen. Víctor Manuel Tinoco Rubí, Presidente.- Dip. Fernando Ordorica Pérez, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal a los veintitrés días del mes de febrero de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 LEY AGRARIA ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO que reforma y adiciona diversas disposiciones de las Leyes Orgánica de los Tribunales Agrarios y Agraria.
 Publicado en el Diario Oficial de la Federación el 9 de julio de 1993 ARTICULO SEGUNDO.- Se reforman los artículos 166; 170, primer y segundo párrafos; 178; 185, fracción VI y 198, fracción I; y se adicionan los artículos 166, con un párrafo segundo; 173, con los párrafos segundo a séptimo; 180, con un párrafo segundo; 185, con un párrafo último, y 191, con los párrafos segundo a cuarto a la Ley Agraria, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Para la resolución de asuntos relativos a ampliación o dotación de tierras, bosques y aguas, y creación de nuevos centros de población, a que se refiere el artículo tercero transitorio del Decreto por el que se reforma el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 6 de enero de 1992, el Tribunal Superior Agrario podrá contar con una Sala Auxiliar, integrada por el mismo número de magistrados y procedimiento para su nombramiento que los que actualmente constituyen el referido Tribunal. El funcionamiento de la Sala Auxiliar se regulará por lo previsto en el Reglamento Interior de los Tribunales Agrarios y su vigencia no podrá exceder del tiempo necesario para la resolución de los asuntos que le sean turnados por el Presidente del Tribunal Superior.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Para la resolución de asuntos relativos a ampliación o dotación de tierras, bosques y aguas, y creación de nuevos centros de población, a que se refiere el artículo tercero transitorio del Decreto por el que se reforma el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 6 de enero de 1992, el Tribunal Superior Agrario podrá contar con una Sala Auxiliar, integrada por el mismo número de magistrados y procedimiento para su nombramiento que los que actualmente constituyen el referido Tribunal. El funcionamiento de la Sala Auxiliar se regulará por lo previsto en el Reglamento Interior de los Tribunales Agrarios y su vigencia no podrá exceder del tiempo necesario para la resolución de los asuntos que le sean turnados por el Presidente del Tribunal Superior.
 México, D.F., a 30 de junio de 1993.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. César Jáuregui Robles, Presidente.- Sen. Gustavo Salinas Iñiguez, Secretario.- Dip. Diego Velázquez Duarte, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de julio de 1993.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 80 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 17 de abril de 2008 Artículo Único.- Se reforma el artículo 80 de la Ley Agraria, para quedar como sigue: ……….
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 17 de abril de 2008
+
+### Artículo Único
+Se reforma el artículo 80 de la Ley Agraria, para quedar como sigue: ……….
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 6 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Maria del Carmen Salvatori Bronca, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 72 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 3 de junio de 2011 ARTÍCULO ÚNICO.- Se reforma el artículo 72 de la Ley Agraria, para quedar como sigue: ……….
-TRANSITORIO Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 3 de junio de 2011
+
+### ARTÍCULO ÚNICO
+Se reforma el artículo 72 de la Ley Agraria, para quedar como sigue: ……….
+
+## TRANSITORIO
+
+**Único.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 22 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 164 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 22 de junio de 2011 Artículo Único.- Se reforma el artículo 164 de la Ley Agraria, para quedar como sigue: ……….
-TRANSITORIOS Primero. Para el desarrollo de las acciones que deba realizar el tribunal a fin de dar cumplimiento a lo dispuesto por la presente ley, podrá apoyarse en el Instituto Nacional de Lenguas Indígenas, así como en el Instituto Federal de Defensoría Pública, en el ámbito de sus respectivas competencias. Asimismo, deberá sujetarse a su disponibilidad presupuestaria.
-Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 22 de junio de 2011
+
+### Artículo Único
+Se reforma el artículo 164 de la Ley Agraria, para quedar como sigue: ……….
+
+## TRANSITORIOS
+
+**Primero.** Para el desarrollo de las acciones que deba realizar el tribunal a fin de dar cumplimiento a lo dispuesto por la presente ley, podrá apoyarse en el Instituto Nacional de Lenguas Indígenas, así como en el Instituto Federal de Defensoría Pública, en el ámbito de sus respectivas competencias. Asimismo, deberá sujetarse a su disponibilidad presupuestaria.
+**Segundo.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 31 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 30 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 17 de enero de 2012 ÚNICO.- Se reforma el Artículo 30 de la Ley Agraria, para quedar como sigue: ……… TRANSITORIO ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 17 de enero de 2012
+**ÚNICO.-** Se reforma el Artículo 30 de la Ley Agraria, para quedar como sigue: ………
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 8 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Balfre Vargas Cortez, Secretario.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 LEY AGRARIA DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
-Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO SÉPTIMO. Se reforman los artículos 66, 120 y 121, último párrafo, de la Ley Agraria, para quedar como sigue: ……….
-TRANSITORIOS Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
+
+### ARTÍCULO SÉPTIMO
+Se reforman los artículos 66, 120 y 121, último párrafo, de la Ley Agraria, para quedar como sigue: ……….
+
+## TRANSITORIOS
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 LEY AGRARIA DECRETO por el que se adiciona un segundo párrafo al artículo 37 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016 Artículo Único.- Se adiciona un segundo párrafo al artículo 37 de la Ley Agraria, para quedar como sigue: ……..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
+
+### Artículo Único
+Se adiciona un segundo párrafo al artículo 37 de la Ley Agraria, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 10 de noviembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el primer párrafo del artículo 166 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016 Artículo Único.- Se reforma el primer párrafo del artículo 166 de la Ley Agraria, para quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
+
+### Artículo Único
+Se reforma el primer párrafo del artículo 166 de la Ley Agraria, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 10 de noviembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. Itzel S.
 Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 115 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016 Artículo Único. Se reforma el artículo 115 de la Ley Agraria, para quedar como sigue: ……… Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
+
+### Artículo Único
+Se reforma el artículo 115 de la Ley Agraria, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 10 de noviembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Raúl Domínguez Rex, Secretario.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el inciso b) del artículo 80 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016 Artículo Único.- Se reforma el inciso b) del artículo 80 de la Ley Agraria, para quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016
+
+### Artículo Único
+Se reforma el inciso b) del artículo 80 de la Ley Agraria, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 10 de noviembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. Itzel S.
 Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de diciembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 71 y se adiciona un octavo párrafo al artículo 108 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 27 de marzo de 2017 Artículo Único. Se reforma el artículo 71 y se adiciona un octavo párrafo al artículo 108 de la Ley Agraria, para quedar como sigue: ……….
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 27 de marzo de 2017
+
+### Artículo Único
+Se reforma el artículo 71 y se adiciona un octavo párrafo al artículo 108 de la Ley Agraria, para quedar como sigue: ……….
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 2 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. Itzel S.
 Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de marzo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma la fracción VI del artículo 185 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 27 de marzo de 2017 Artículo Único.- Se reforma la fracción VI del artículo 185 de la Ley Agraria, para quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 27 de marzo de 2017
+
+### Artículo Único
+Se reforma la fracción VI del artículo 185 de la Ley Agraria, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 2 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Sen. Itzel S.
 Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de marzo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 LEY AGRARIA DECRETO por el que se expide la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, y se reforman diversas disposiciones de la Ley Federal del Trabajo; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley General de Títulos y Operaciones de Crédito; de la Ley de Instituciones de Crédito y de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 22 de junio de 2018 ARTÍCULO OCTAVO.- Por el que se adiciona un artículo 20 Bis de Ley Agraria, para quedar como sigue: ……… TRANSITORIOS PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
-TERCERO. Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
+Publicado en el Diario Oficial de la Federación el 22 de junio de 2018
+
+### ARTÍCULO OCTAVO
+Por el que se adiciona un artículo 20 Bis de Ley Agraria, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** El titular del Ejecutivo Federal, los gobernadores de los estados, así como el Jefe de Gobierno de la Ciudad de México, en el ámbito de sus respectivas competencias, contarán con un plazo de seis meses para adecuar los ordenamientos jurídicos y reglamentarios que correspondan, a efecto de cumplir y armonizarlos con las disposiciones contenidas en el presente Decreto.
+**TERCERO.** Las autoridades del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás instituciones de Seguridad Social, deberán realizar las adecuaciones correspondientes a su normatividad interna durante los siguientes seis meses, contados a partir de la expedición del presente Decreto.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 95 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 25 de junio de 2018 Artículo Único.- Se reforma el artículo 95 de la Ley Agraria, para quedar como sigue: ……..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
+
+### Artículo Único
+Se reforma el artículo 95 de la Ley Agraria, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 25 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforman los artículos 17 y 18 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 8 de marzo de 2022 Artículo Único. Se reforma el primer párrafo del artículo 17 y la fracción III del artículo 18 de la Ley Agraria, para quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 8 de marzo de 2022
+
+### Artículo Único
+Se reforma el primer párrafo del artículo 17 y la fracción III del artículo 18 de la Ley Agraria, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 2 de febrero de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Karen Michel González Márquez, Secretaria.- Sen.
 María Celeste Sánchez Sugía, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de marzo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforman los artículos 4o. y 32 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 25 de abril de 2023 Artículo Único.- Se reforman los artículos 4o., primer párrafo y 32 de la Ley Agraria, para quedar como sigue: ……..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
+
+### Artículo Único
+Se reforman los artículos 4o., primer párrafo y 32 de la Ley Agraria, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 8 de marzo de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Sarai Núñez Cerón, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforma el artículo 37 de la Ley Agraria.
-Publicado en el Diario Oficial de la Federación el 25 de abril de 2023 Artículo Único.- Se reforma el artículo 37 de la Ley Agraria, para quedar como sigue: ……..
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
+
+### Artículo Único
+Se reforma el artículo 37 de la Ley Agraria, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 8 de marzo de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 LEY AGRARIA DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
-Publicado en el Diario Oficial de la Federación el 1 de abril de 2024 Artículo Trigésimo Primero.- Se reforma el artículo 164, fracciones I, II, III, párrafo primero y IV, párrafo primero, de la Ley Agraria, para quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
+
+### Artículo Trigésimo
+Primero.- Se reforma el artículo 164, fracciones I, II, III, párrafo primero y IV, párrafo primero, de la Ley Agraria, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 LEY AGRARIA DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
-Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Sexto.- Se reforma el artículo 167 de la Ley Agraria, para quedar como sigue: ……..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
+
+### Artículo Sexto
+Se reforma el artículo 167 de la Ley Agraria, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+
+### artículo Sexto
+Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

@@ -5,18 +5,23 @@
 
 ---
 
-LEY DE BIOCOMBUSTIBLES LEY DE BIOCOMBUSTIBLES TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 18 de marzo de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 18 de marzo de 2025 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 CLAUDIA SHEINBAUM PARDO, Presidenta de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA LEY DE BIOCOMBUSTIBLES; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL ARTÍCULO PRIMERO A ARTÍCULO QUINTO.- ……..
-ARTÍCULO SEXTO. Se expide la Ley de Biocombustibles, para quedar como sigue:
-LEY DE BIOCOMBUSTIBLES TÍTULO PRIMERO Capítulo Único Disposiciones Generales
+SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD; LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS; LA LEY DEL SECTOR ELÉCTRICO; LA LEY DEL SECTOR HIDROCARBUROS; LA LEY DE PLANEACIÓN Y TRANSICIÓN ENERGÉTICA; LA  ; LA LEY DE GEOTERMIA Y, LA LEY DE LA COMISIÓN NACIONAL DE ENERGÍA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
+
+### ARTÍCULO PRIMERO A ARTÍCULO QUINTO
+……..
+
+### ARTÍCULO SEXTO
+Se expide la Ley de Biocombustibles, para quedar como sigue:
+TÍTULO PRIMERO Capítulo Único Disposiciones Generales
 
 ### Artículo 1
 .- La presente Ley es de orden público e interés social, de observancia general en los Estados Unidos Mexicanos y tiene por objeto regular y promover el desarrollo sustentable de los Biocombustibles, con el fin de coadyuvar con la soberanía, justicia y autosuficiencia energética, como parte de la diversificación y de la transición energética, y establece las bases para:
 I. Promover el aprovechamiento y valorización de los residuos orgánicos para la Producción de Biocombustibles;
 II. Promover la producción sustentable de Biomasa para la Producción de Biocombustibles en Suelos Marginales que no provengan de insumos primarios de origen vegetal destinados para el consumo humano, salvo los provenientes de los excedentes de caña de azúcar y del sorgo;
-LEY DE BIOCOMBUSTIBLES III. Desarrollar e impulsar mecanismos para incentivar el uso directo de la Biomasa como Biocombustible; la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución, y el Expendio al Público de Biocombustibles;
+III. Desarrollar e impulsar mecanismos para incentivar el uso directo de la Biomasa como Biocombustible; la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución, y el Expendio al Público de Biocombustibles;
 IV. Contribuir con la reducción de las emisiones contaminantes a la atmósfera, así como de gases y compuestos de efecto invernadero, mediante el desarrollo sustentable de los Biocombustibles, y V. Coordinar acciones entre los Gobiernos Federal, de las entidades federativas, de los municipios y las demarcaciones territoriales de la Ciudad de México, así como la concertación con los sectores social y privado para el aprovechamiento y valorización de los residuos orgánicos para la Producción de Biocombustibles y el desarrollo sustentable de los Biocombustibles.
 
 ### Artículo 2
@@ -30,7 +35,7 @@ VI. Distribución: Actividad que consiste en adquirir, recibir, guardar, traslad
 VII. Estrategia: La Estrategia Nacional de Transición Energética;
 VIII. Expendio al Público: La enajenación al menudeo hacia el consumidor final, en instalaciones con fin específico o multimodal, incluyendo estaciones de servicio, de compresión y de carburación, entre otras;
 IX. Ley: La Ley de Biocombustibles;
-LEY DE BIOCOMBUSTIBLES X. Producción: Los procesos de acondicionamiento o transformación necesarios para el aprovechamiento energético o la transformación de la Biomasa que lo requiera para su uso como Biocombustibles, en instalaciones determinadas para dicho fin;
+X. Producción: Los procesos de acondicionamiento o transformación necesarios para el aprovechamiento energético o la transformación de la Biomasa que lo requiera para su uso como Biocombustibles, en instalaciones determinadas para dicho fin;
 XI. Reglamento: El Reglamento de la Ley de Biocombustibles;
 XII. Registro: El Registro de permisos para Biocombustibles;
 XIII. SADER: La Secretaría de Agricultura y Desarrollo Rural;
@@ -52,7 +57,7 @@ De las Autoridades Competentes
 ### Artículo 5
 .- Para los efectos de la presente Ley, la SENER tiene las siguientes facultades:
 I. Formular, conducir y coordinar la política nacional en materia de Biocombustibles, a través del uso directo de la Biomasa como Biocombustible, la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y el Expendio al Público de Biocombustibles;
-LEY DE BIOCOMBUSTIBLES II. Promover el uso de las mejores prácticas y tecnologías en la Producción, uso, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
+II. Promover el uso de las mejores prácticas y tecnologías en la Producción, uso, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
 III. Elaborar programas que promuevan el uso directo de la Biomasa como Biocombustibles, la Producción de Biocombustibles y su uso sustentable;
 IV. Diseñar, desarrollar, proponer y, en su caso, aplicar instrumentos de carácter fiscal, financiero o de mercado que promuevan e incentiven el uso directo de la Biomasa como Biocombustible, la Producción de los Biocombustibles, su uso y el Almacenamiento, el Transporte, la Comercialización, la Distribución y el Expendio al Público de los Biocombustibles, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes;
 V. Proponer a la Secretaría de Economía, en el ámbito de sus atribuciones, las políticas, instrumentos, criterios y demás acciones que considere necesarias para promover el uso directo de la Biomasa como Biocombustible, la Producción de Biocombustibles, su uso, el Almacenamiento, el Transporte, la Comercialización, la Distribución y el Expendio al Público de los Biocombustibles;
@@ -65,7 +70,7 @@ XI. Integrar, organizar, actualizar y llevar el control del Registro;
 XII. Integrar, organizar, actualizar, verificar el contenido y llevar el control de las Bitácoras;
 XIII. Emitir las disposiciones administrativas de carácter general para la regulación de las actividades, permisos, y requisitos de información sobre la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
 XIV. Regular y expedir las Normas Oficiales Mexicanas y, en su caso, lineamientos y demás disposiciones, en materia de Biocombustibles, sobre los requisitos, la calidad, las características y las medidas de seguridad; el uso de las mejores prácticas y tecnologías disponibles, con relación al uso directo de la Biomasa como Biocombustible, y la Producción, Almacenamiento, Transporte, Comercialización, Distribución y el Expendio al Público de Biocombustibles;
-LEY DE BIOCOMBUSTIBLES XV. Vigilar e inspeccionar el cumplimiento de las leyes y disposiciones en materia de Biocombustibles aplicables al uso directo de la Biomasa como Biocombustible, la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
+XV. Vigilar e inspeccionar el cumplimiento de las leyes y disposiciones en materia de Biocombustibles aplicables al uso directo de la Biomasa como Biocombustible, la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
 XVI. Ordenar medidas de seguridad e imponer las sanciones por infracciones a la presente Ley y las demás disposiciones que deriven de esta, en lo relativo a la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles, y XVII. Promover con la SADER y la SEMARNAT, en el ámbito de sus competencias, la creación de programas para la producción sustentable de Biomasa en Suelos Marginales para la Producción de Biocombustibles y para la producción de Biocombustibles a partir de cultivos orgánicos, cultivo de organismos o el aprovechamiento de residuos orgánicos.
 
 ### Artículo 6
@@ -77,7 +82,7 @@ IV. Prevenir, evaluar y controlar la contaminación de la atmósfera, el agua y 
 V. Regular y supervisar la seguridad industrial y operativa, el desmantelamiento y abandono de instalaciones, y el control integral de residuos y emisiones a la atmósfera del aprovechamiento energético de residuos orgánicos, el uso directo de Biomasa como Biocombustibles, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de los Biocombustibles;
 VI. La evaluación del impacto ambiental de la construcción y operación de las instalaciones para la Producción, Almacenamiento, Transporte, Comercialización, Distribución y el Expendio al Público de los Biocombustibles, de conformidad con las disposiciones legales aplicables;
 VII. Iniciar, tramitar y resolver, en los términos de las disposiciones legales y reglamentarias aplicables, los procedimientos administrativos que correspondan con motivo de sus atribuciones, aplicables al uso directo de Biomasa como Biocombustibles, el aprovechamiento y valorización de residuos orgánicos, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución y el Expendio al Público de los Biocombustibles;
-VIII. Aplicar las regulaciones en materia ambiental, forestal, de vida silvestre, de gestión integral de los residuos, de emisiones a la atmósfera y de bioseguridad de organismos genéticamente modificados para asegurar la preservación, restauración y aprovechamiento LEY DE BIOCOMBUSTIBLES sustentable de los recursos naturales y de la biodiversidad en el uso directo de Biomasa como Biocombustibles, el aprovechamiento y valorización de residuos orgánicos, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución y el Expendio al Público de los Biocombustibles;
+VIII. Aplicar las regulaciones en materia ambiental, forestal, de vida silvestre, de gestión integral de los residuos, de emisiones a la atmósfera y de bioseguridad de organismos genéticamente modificados para asegurar la preservación, restauración y aprovechamiento sustentable de los recursos naturales y de la biodiversidad en el uso directo de Biomasa como Biocombustibles, el aprovechamiento y valorización de residuos orgánicos, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución y el Expendio al Público de los Biocombustibles;
 IX. Evaluar los aspectos de sustentabilidad de los programas derivados de la presente Ley para la producción de Biomasa, el aprovechamiento y valorización de residuos orgánicos y el uso sustentable de Biocombustibles, así como el impacto ambiental de su ejecución;
 X. Regular y, en su caso, expedir Normas Oficiales Mexicanas y demás disposiciones administrativas de carácter general relativas a la protección al medio ambiente, la seguridad industrial y operativa, el desmantelamiento y abandono de instalaciones, y el control integral de residuos y emisiones a la atmósfera, del uso directo de la Biomasa como Biocombustible, el aprovechamiento y valorización de residuos orgánicos y el tratamiento de agua residuales para su uso como Biocombustibles o su Producción, el uso sustentable de Biocombustibles, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución y el Expendio al Público de los Biocombustibles, y controlar y vigilar su debido cumplimiento;
 XI. Emitir dictámenes en materia ambiental, seguridad industrial y operativa que le permita a la autoridad competente contar con elementos para la revocación de permisos o autorizaciones en materia de Biocombustibles, cuyas actividades afecten o pongan en riesgo el medio ambiente;
@@ -89,7 +94,7 @@ XIII. Coadyuvar con la SENER en la integración y actualización de la informaci
 I. Formular, conducir y coordinar la política nacional en materia de Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción;
 II. Elaborar y coordinar la ejecución del Programa para la producción sustentable de Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción;
 III. Evaluar el impacto sobre la seguridad y soberanía alimentarias y el desarrollo rural, derivado de la ejecución del Programa para la producción sustentable de Biomasa obtenida a partir de cultivos en Suelos Marginales para la Producción de Biocombustibles;
-IV. Apoyar a la SENER en la integración y actualización de la información sobre la cadena productiva de la Biomasa obtenida a partir de cultivos en Suelos Marginales o el LEY DE BIOCOMBUSTIBLES aprovechamiento de residuos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción para su integración al Subsistema;
+IV. Apoyar a la SENER en la integración y actualización de la información sobre la cadena productiva de la Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción para su integración al Subsistema;
 V. Otorgar, modificar, actualizar, suspender y revocar permisos previos para la producción de Biomasa para la Producción de Biocombustibles provenientes de la caña de azúcar y del sorgo, los cuales se deben otorgar solamente cuando existan inventarios excedentes de producción interna para satisfacer el consumo nacional;
 VI. Recibir los avisos de siembra que presenten las personas interesadas en producir Biomasa obtenida a partir de cultivos en Suelos Marginales para la Producción de Biocombustibles, que no provengan de insumos primarios de origen vegetal destinados para el consumo humano;
 VII. Instrumentar en el Registro Nacional Agropecuario de la SADER, el Registro de los permisos previos y de los avisos de siembra presentados para producir Biomasa obtenida a partir de cultivos para la Producción de Biocombustibles, así como de los predios para desarrollar la agroindustria que procesa la Biomasa, a fin de dar seguimiento a su trazabilidad;
@@ -99,7 +104,7 @@ X. Asesorar a las personas productoras para que la cadena productiva sustentable
 XI. Facilitar la organización productiva de las personas productoras y demás agentes relacionadas con la cadena productiva sustentable de Biomasa obtenida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción, a través de mecanismos de comunicación, concertación y planeación;
 XII. Emitir dictámenes que le permita a la autoridad competente contar con elementos para la revocación de permisos o autorizaciones para la Producción de Biocombustibles, cuyas actividades afecten o pongan en riesgo la seguridad y soberanía alimentaria del país;
 XIII. Vigilar que para la Producción de Biocombustibles no se utilicen insumos primarios de origen vegetal destinados para consumo humano en sus diversas modalidades, salvo los excedentes de caña de azúcar o del sorgo, con la finalidad de procurar en todo momento la autosuficiencia alimentaria;
-XIV. Imponer las sanciones por infracciones a lo establecido en la presente Ley y las demás disposiciones que deriven de la misma, en lo relativo a la cadena productiva sustentable de LEY DE BIOCOMBUSTIBLES la Biomasa obtenida a partir de cultivos o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción;
+XIV. Imponer las sanciones por infracciones a lo establecido en la presente Ley y las demás disposiciones que deriven de la misma, en lo relativo a la cadena productiva sustentable de la Biomasa obtenida a partir de cultivos o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para su uso directo como Biocombustible o para su Producción;
 XV. Coadyuvar con la SENER en la integración y actualización de la información que forme parte del Subsistema, y XVI. Coordinar con la SENER la elaboración de programas para la producción sustentable de Biocombustibles.
 
 ## Capítulo II
@@ -115,7 +120,7 @@ I. Impulsar la creación de empresas mexicanas cuyo objeto sea el aprovechamient
 II. Impulsar la creación a nivel nacional de personal capacitado, recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de actividades, las capacidades técnicas y de supervisión y control que les permitan asumir facultades que para tales efectos requiera la autoridad federal en materia de Biocombustibles;
 III. Aplicar criterios de sustentabilidad establecidos en la regulación aplicable para la producción de Biomasa en Suelos Marginales, el aprovechamiento y valorización de residuos orgánicos y el tratamiento de aguas residuales para su uso como Biocombustibles o para su Producción, el uso directo de Biomasa como Biocombustible, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles, a efecto de salvaguardar el medio ambiente y la seguridad y soberanía alimentaria y energética del país;
 IV. Promover el aprovechamiento y valorización de residuos orgánicos y el tratamiento de aguas residuales para su uso como Biocombustibles o para su Producción, así como el uso directo de Biomasa como Biocombustible;
-V. Fomentar la investigación, el desarrollo tecnológico, la transferencia de tecnología y la capacitación para el aprovechamiento y valorización de residuos orgánicos y el tratamiento LEY DE BIOCOMBUSTIBLES de aguas residuales para su uso como Biocombustibles o para su Producción, así como la producción sustentable de la Biomasa en Suelos Marginales;
+V. Fomentar la investigación, el desarrollo tecnológico, la transferencia de tecnología y la capacitación para el aprovechamiento y valorización de residuos orgánicos y el tratamiento de aguas residuales para su uso como Biocombustibles o para su Producción, así como la producción sustentable de la Biomasa en Suelos Marginales;
 VI. Establecer mecanismos conjuntos de información, participación social y concertación con organizaciones sociales y privadas, para el aprovechamiento y valorización de residuos orgánicos y el tratamiento de aguas residuales para su uso como Biocombustibles o para su Producción, así como la producción sustentable de la Biomasa en Suelos Marginales, y VII. Llevar a cabo acciones para el monitoreo y seguimiento en la reducción de las emisiones contaminantes a la atmosfera, así como de gases y compuestos de efecto invernadero, derivadas de la sustitución de combustibles fósiles por Biocombustibles.
 
 ### Artículo 10
@@ -126,7 +131,7 @@ III. Determinar la participación y responsabilidad que corresponda a cada una d
 IV. Establecer el órgano u órganos que deben llevar a cabo las acciones que resulten de los convenios o acuerdos de coordinación, que incluyan las acciones de evaluación, así como el cronograma de las actividades a realizar;
 V. Definir los mecanismos de información que se requieran, a fin de que las partes suscriptoras puedan asegurar el cumplimiento de su objeto;
 VI. Precisar la vigencia del instrumento, sus formas de modificación y terminación y, en su caso, el número y duración de sus prórrogas, y VII. Los demás acuerdos que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo de coordinación.
-LEY DE BIOCOMBUSTIBLES Las dependencias y entidades de la Administración Pública Federal competentes deben evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación correspondientes.
+Las dependencias y entidades de la Administración Pública Federal competentes deben evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación correspondientes.
 TÍTULO TERCERO De los Instrumentos para el Desarrollo Sustentable de los Biocombustibles
 
 ## Capítulo I
@@ -146,7 +151,6 @@ III. Las acciones y los proyectos para el aprovechamiento y valorización de los
 IV. La estimación de los recursos necesarios y su fuente de financiamiento para la ejecución de las acciones y proyectos que permitan el cumplimiento de las metas;
 V. La delimitación de: a) Las responsabilidades de las dependencias y entidades de la Administración Pública Federal, las cuales deben atender a los criterios de transversalidad e integralidad previstos en la Estrategia, y b) Los tiempos de ejecución, revisión y evaluación de los resultados;
 VI. Las acciones, proyectos e inversiones concertadas con los sectores social y privado para el aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción, el uso directo de la Biomasa como Biocombustible, así como la Producción de Biocombustibles y su uso sustentable.
-LEY DE BIOCOMBUSTIBLES
 
 ### Artículo 14
 .- La SENER, la SADER y la SEMARNAT de manera coordinada, y en el ámbito de sus respectivas competencias, pueden elaborar programas para promover el desarrollo sustentable de los Biocombustibles.
@@ -172,7 +176,7 @@ II. La Producción sustentable de Biomasa para su uso directo como Biocombustibl
 
 ### Artículo 19
 .- La Secretaría de Economía debe establecer la metodología para medir el grado de contenido nacional en la Biomasa, ya sea para su uso directo como Biocombustibles o de la Producción de Biocombustibles, así como su verificación, para lo cual puede contar con el apoyo de las autoridades del Sector.
-LEY DE BIOCOMBUSTIBLES Las empresas cuyo objeto sea la producción de Biomasa, para su uso directo como Biocombustible o para su Producción, así como la Producción de Biocombustibles, deben proporcionar información a la Secretaría de Economía sobre el grado de contenido nacional en las actividades que realicen, conforme a las disposiciones que resulten aplicables.
+Las empresas cuyo objeto sea la producción de Biomasa, para su uso directo como Biocombustible o para su Producción, así como la Producción de Biocombustibles, deben proporcionar información a la Secretaría de Economía sobre el grado de contenido nacional en las actividades que realicen, conforme a las disposiciones que resulten aplicables.
 
 ## Capítulo III
 De la Investigación, Desarrollo Tecnológico, Transferencia de Tecnología y Capacitación
@@ -189,7 +193,7 @@ VI. Integrar cadenas productivas, con inclusión social, en la Producción suste
 ### Artículo 21
 .- El Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, previsto en la Ley de Desarrollo Rural Sustentable, es la instancia encargada de coordinar y orientar la investigación, el desarrollo tecnológico y la capacitación en materia de la Producción sustentable de Biomasa en Suelos Marginales, para el uso directo como Biocombustible o para su Producción y uso.
 Este Sistema cuenta, para los efectos de esta Ley, con las siguientes facultades:
-LEY DE BIOCOMBUSTIBLES I. Realizar investigaciones en materia de producción de Biomasa en Suelos Marginales para el uso directo como Biocombustible o para su Producción;
+I. Realizar investigaciones en materia de producción de Biomasa en Suelos Marginales para el uso directo como Biocombustible o para su Producción;
 II. Promover el desarrollo tecnológico en materia de producción de Biomasa en Suelos Marginales para el uso directo como Biocombustible o para su Producción;
 III. Emitir opinión de carácter técnico y científico para la administración y conservación de los recursos naturales asociados a la producción de Biomasa en Suelos Marginales para el uso directo como Biocombustible o para su Producción;
 IV. Participar en la consulta pública en el marco de la elaboración del Programa para la Producción Sustentable de Biomasa para Biocombustibles;
@@ -206,7 +210,7 @@ De la Información y Participación Social
 ### Artículo 22
 .- La SENER debe registrar en el Subsistema, entre otros aspectos, los siguientes:
 I. La información sobre la producción de Biomasa, para su uso directo como Biocombustible o para su Producción, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución, Expendio al Público de Biocombustibles y su uso;
-LEY DE BIOCOMBUSTIBLES II. La información contenida en el Registro, y III. La información sobre permisos para Biocombustibles, de acuerdo con lo señalado en el Reglamento de la presente Ley.
+II. La información contenida en el Registro, y III. La información sobre permisos para Biocombustibles, de acuerdo con lo señalado en el Reglamento de la presente Ley.
 
 ### Artículo 23
 .- En el diseño y aplicación de los programas a que se refiere la presente Ley, las dependencias competentes deben promover la participación social y la concertación, con el fin de vincular al sector público, las organizaciones de la sociedad civil y del sector privado, las instituciones académicas y a la población en general, coordinando sus actividades en el ámbito de esta Ley.
@@ -227,7 +231,7 @@ De los Permisos y Autorizaciones
 .- Para la realización de las actividades descritas en este artículo, se requiere de permiso conforme a lo siguiente:
 I. Para la producción de Biomasa para la Producción de Biocombustibles provenientes de la caña de azúcar o de sorgo; los cuales se deben otorgar solamente cuando existan inventarios excedentes de producción interna para satisfacer el consumo nacional, el cual debe ser expedido por la SADER, y II. Para la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles; los cuales deben ser expedidos por la SENER.
 La SENER, en el ámbito de sus atribuciones, puede autorizar la Producción de Biocombustibles para las actividades de investigación científica, tecnológica o cualquier otra prevista en el Reglamento de la presente Ley.
-LEY DE BIOCOMBUSTIBLES El otorgamiento de permisos por parte de la SADER y de la SENER se debe regir por lo previsto en la presente Ley, su Reglamento y las disposiciones administrativas que resulten aplicables.
+El otorgamiento de permisos por parte de la SADER y de la SENER se debe regir por lo previsto en la presente Ley, su Reglamento y las disposiciones administrativas que resulten aplicables.
 La SENER debe establecer en el Reglamento y demás disposiciones correspondientes, los medios de trazabilidad para las actividades relacionadas con la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles hasta su uso final.
 
 ### Artículo 26
@@ -255,7 +259,7 @@ Para efectos de la presente Ley, se considera que los Biocombustibles han sido a
 , deben presentar su solicitud ante la autoridad competente, utilizando los formatos que para tal efecto señalen las propias autoridades correspondientes.
 Los formatos de solicitudes deben contener, cuando menos, los siguientes datos:
 I. Nombre, denominación o razón social y domicilio de la persona solicitante;
-LEY DE BIOCOMBUSTIBLES II. Tipo de permiso que es de su interés obtener;
+II. Tipo de permiso que es de su interés obtener;
 III. En su caso, ubicación y descripción de las instalaciones, equipos y procesos con los que se pretendan desarrollar las actividades objeto del permiso, y IV. Los demás que, de acuerdo con el objeto del permiso, se señalen en el Reglamento y las disposiciones administrativas que resulten aplicables.
 
 ### Artículo 31
@@ -278,7 +282,7 @@ I. Vencimiento de la vigencia originalmente prevista en el permiso o de la prór
 II. Renuncia expresa de la persona permisionaria, siempre que no se afecten derechos de terceras personas;
 III. Caducidad;
 IV. Revocación;
-LEY DE BIOCOMBUSTIBLES V. Desaparición del objeto o de la finalidad del permiso;
+V. Desaparición del objeto o de la finalidad del permiso;
 VI. Disolución, liquidación o quiebra de la persona moral permisionaria;
 VII. Resolución judicial o mandamiento firme de autoridad competente, y VIII. Las demás causas previstas en el permiso respectivo.
 La terminación, extinción del permiso o autorización no exime a su titular de las responsabilidades contraídas durante su vigencia con las autoridades competentes y con terceras personas.
@@ -298,7 +302,7 @@ VI. No otorgar o no mantener en vigor las garantías o los seguros correspondien
 VII. No cumplir con las Normas Oficiales Mexicanas;
 VIII. Incumplir de forma continua el pago de contribuciones y aprovechamientos por los servicios de supervisión de los permisos.
 Para efectos de esta fracción se considera que el incumplimiento es continuo cuando la persona permisionaria omita el pago por más de un ejercicio fiscal;
-LEY DE BIOCOMBUSTIBLES IX. No acatar las resoluciones que, en el ámbito de su competencia, expida la dependencia encargada de formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país;
+IX. No acatar las resoluciones que, en el ámbito de su competencia, expida la dependencia encargada de formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país;
 X. Cuando se ponga en riesgo la seguridad alimentaria del país;
 XI. Realizar actividades de importación, exportación, Transporte, Comercialización, Almacenamiento, Distribución o Expendio al Público de Biocombustibles, que se compruebe no hayan sido producidos o adquiridos de forma lícita y que haya sido determinado por resolución firme de autoridad competente, y XII. Las demás previstas en el permiso o autorización respectiva.
 
@@ -321,7 +325,6 @@ De las Infracciones y las Sanciones
 
 ### Artículo 39
 .- En la imposición de las sanciones administrativas se debe considerar la gravedad de la infracción, el daño causado, los indicios de intencionalidad, la participación de la persona infractora en la comisión u omisión de la infracción, la duración de la práctica ilegal y la reincidencia o antecedentes de la persona infractora, así como su capacidad económica.
-LEY DE BIOCOMBUSTIBLES
 
 ### Artículo 40
 .- La SADER debe sancionar administrativamente los incumplimientos a las disposiciones contenidas en la presente Ley y las que deriven de ella, de la manera siguiente:
@@ -336,7 +339,7 @@ III. La cesión, modificación, actualización, enajenación, traspaso o gravame
 IV. La realización de actividades sin permiso de Producción, importación, exportación, Almacenamiento, Transporte, Distribución, Comercialización, Expendio al Público, con multa de 1,000 a 200,000 veces el valor de la Unidad de Medida y Actualización;
 V. Por entregar de manera dolosa Biocombustibles en cantidades menores a las convenidas o calidades distintas a las establecidas en las Normas Oficiales Mexicanas o, en su caso, criterios y lineamientos de especificaciones de calidad, con multa de 5,000 a 100,000 veces el valor de la Unidad de Medida y Actualización, clausura total o temporal de instalaciones y revocación del permiso correspondiente;
 VI. Por realizar actividades amparadas por los permisos que otorgue, sin entregar el aviso de operaciones correspondiente, con multa de 1,000 a 10,000 veces el valor de la Unidad de Medida y Actualización y clausura total o temporal de las instalaciones;
-LEY DE BIOCOMBUSTIBLES VII. Por producir Biocombustibles para las actividades de investigación científica o tecnológica y aquellas que se establezcan en el Reglamento sin entregar el aviso de exención correspondiente, con multa de 500 a 200,000 veces el valor de la Unidad de Medida y Actualización;
+VII. Por producir Biocombustibles para las actividades de investigación científica o tecnológica y aquellas que se establezcan en el Reglamento sin entregar el aviso de exención correspondiente, con multa de 500 a 200,000 veces el valor de la Unidad de Medida y Actualización;
 VIII. Por incumplir los términos y condiciones establecidos en los permisos que otorgue, transgredir lo previsto en las Normas Oficiales Mexicanas o, en su caso, criterios y lineamientos sobre los requisitos, la calidad, las características, las medidas de seguridad y demás aspectos pertinentes, con relación a la Producción, importación, exportación, Almacenamiento, Transporte, Distribución, Comercialización, Expendio al Público de Biocombustibles, con multa de 5,000 a 100,000 veces el valor de la Unidad de Medida y Actualización y clausura total temporal de las instalaciones;
 IX. Por proporcionar información falsa mediante las Bitácoras que deben llevar las personas titulares de los permisos que otorgue, con multa de 10,000 a 200,000 veces el valor de la Unidad de Medida y Actualización;
 X. La realización de actividades de importación, exportación, Almacenamiento, Transporte, Distribución, Comercialización, Expendio al Público en las cuales no se compruebe que los Biocombustibles utilizados son de procedencia lícitas, con multa de 10,000 a 200,000 veces el valor de la Unidad de Medida y Actualización;
@@ -349,7 +352,7 @@ II. El carácter intencional o no de la acción u omisión constitutiva de la in
 III. La gravedad de la infracción, y IV. La reincidencia del infractor.
 Para la aplicación de las sanciones se está a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 Las sanciones señaladas en esta Ley se deben aplicar sin perjuicio de la responsabilidad civil, penal o administrativa que resulte de la aplicación de sanciones por otros ordenamientos y, en su caso, de la revocación del permiso o autorización.
-En caso de reincidencia, se debe imponer una multa por el doble de la anteriormente impuesta. Se considera reincidente a quien, habiendo incurrido en una infracción que haya sido sancionada, cometa LEY DE BIOCOMBUSTIBLES otra del mismo tipo o naturaleza, dentro de un plazo de diez años, contados a partir de la imposición de la sanción.
+En caso de reincidencia, se debe imponer una multa por el doble de la anteriormente impuesta. Se considera reincidente a quien, habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza, dentro de un plazo de diez años, contados a partir de la imposición de la sanción.
 
 ### Artículo 43
 .- La SEMARNAT debe sancionar administrativamente los incumplimientos a las disposiciones contenidas en la presente Ley y las que deriven de ella, de conformidad con la legislación ambiental aplicable.
@@ -365,16 +368,19 @@ De las Impugnaciones y la Solución de Controversias
 
 ### Artículo 46
 .- Contra los actos de autoridad emitidos con motivo de la aplicación de esta Ley, los programas y demás disposiciones que deriven de la misma, se están a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
-Transitorios Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- Se abroga la Ley de Promoción y Desarrollo de los Bioenergéticos, publicada en el Diario Oficial de la Federación el 1 de febrero de 2008 y se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
-Tercero.- En tanto se emita la nueva regulación o se modifique la regulación correspondiente, la normatividad y regulación emitidas por la SADER, la SENER y la SEMARNAT con anterioridad a la entrada en vigor de la presente Ley, continúan en vigor, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.
+
+## Transitorios
+
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley de Promoción y Desarrollo de los Bioenergéticos, publicada en el Diario Oficial de la Federación el 1 de febrero de 2008 y se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
+**Tercero.-** En tanto se emita la nueva regulación o se modifique la regulación correspondiente, la normatividad y regulación emitidas por la SADER, la SENER y la SEMARNAT con anterioridad a la entrada en vigor de la presente Ley, continúan en vigor, sin perjuicio de que puedan ser adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.
 Las referencias legales o reglamentarias a la Ley de Promoción y Desarrollo de los Bioenergéticos se entienden hechas, en lo aplicable, a la Ley de Biocombustibles.
-Cuarto.- En tanto se expiden los reglamentos correspondientes, la SADER, la SENER y la SEMARNAT tienen facultad para ejercer las atribuciones que les otorga la presente Ley a partir de su entrada en vigor.
+**Cuarto.-** En tanto se expiden los reglamentos correspondientes, la SADER, la SENER y la SEMARNAT tienen facultad para ejercer las atribuciones que les otorga la presente Ley a partir de su entrada en vigor.
 Las solicitudes de autorización o permisos que se hayan recibido previo a la entrada en vigor de esta Ley se tramitan conforme a las disposiciones jurídicas que para el efecto haya emitido la autoridad competente con anterioridad a la presente Ley.
-LEY DE BIOCOMBUSTIBLES Quinto.- El Ejecutivo Federal debe expedir el Reglamento de la presente Ley dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor.
-Sexto.- La SADER y la SENER deben publicar en el Diario Oficial de la Federación los formatos de solicitud de permisos previstos en el artículo 30 de la presente Ley, dentro de los ciento ochenta días siguientes a la fecha de entrada en vigor de la presente Ley.
-Séptimo.- La SENER debe expedir los formatos para la Bitácora prevista en el artículo 31 de la presente Ley, dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor.
-Octavo.- La SENER debe expedir el Programa para promover el uso directo de la Biomasa como Biocombustibles, la Producción de Biocombustibles y su uso sustentable, previsto en la fracción III del
+**Quinto.-** El Ejecutivo Federal debe expedir el Reglamento de la presente Ley dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor.
+**Sexto.-** La SADER y la SENER deben publicar en el Diario Oficial de la Federación los formatos de solicitud de permisos previstos en el artículo 30 de la presente Ley, dentro de los ciento ochenta días siguientes a la fecha de entrada en vigor de la presente Ley.
+**Séptimo.-** La SENER debe expedir los formatos para la Bitácora prevista en el artículo 31 de la presente Ley, dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor.
+**Octavo.-** La SENER debe expedir el Programa para promover el uso directo de la Biomasa como Biocombustibles, la Producción de Biocombustibles y su uso sustentable, previsto en la fracción III del
 
 ### artículo 5
 de la presente Ley, dentro de los trescientos sesenta días naturales siguientes a la fecha de su entrada en vigor.
@@ -383,6 +389,12 @@ Décimo.- La SADER debe expedir el Programa para promover la producción sustent
 Décimo Primero.- La Secretaría de Economía debe expedir los formatos para la metodología prevista en el artículo 19 de la Ley de Biocombustibles, dentro de los trescientos sesenta días siguientes a la fecha de su entrada en vigor.
 Décimo Segundo.- Los permisos y autorizaciones otorgados por la SENER y la Comisión Reguladora de Energía para llevar a cabo las actividades de Producción, Almacenamiento, Distribución, Comercialización, Transporte y Expendio al Público de bioenergéticos o Biocombustibles con anterioridad a la entrada en vigor de esta Ley, mantienen su vigencia en los términos otorgados.
 Décimo Tercero.- Los pagos de derechos que en materia de bioenergéticos o Biocombustibles se establecen en favor de la Comisión Reguladora de Energía en la Ley Federal de Derechos, se entienden en favor de la SENER.
-ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO.- ……… Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
-Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." LEY DE BIOCOMBUSTIBLES En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+
+### ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO
+………
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de marzo de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

@@ -5,10 +5,9 @@
 
 ---
 
-LEY DE NACIONALIDAD LEY DE NACIONALIDAD Nueva Ley publicada en el Diario Oficial de la Federación el 23 de enero de 1998 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 23 de enero de 1998 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO “EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS D E C R E T A:
-LEY DE NACIONALIDAD
 
 ## CAPÍTULO I
 DISPOSICIONES GENERALES
@@ -27,7 +26,7 @@ III. Carta de naturalización: Instrumento jurídico por el cual se acredita el 
 I. El acta de nacimiento expedida conforme a lo establecido en las disposiciones aplicables;
 II. El certificado de nacionalidad mexicana, el cual se expedirá a petición de parte, exclusivamente para los efectos de los artículos 16 y 17 de esta Ley;
 III. La carta de naturalización;
-LEY DE NACIONALIDAD IV. El pasaporte;
+IV. El pasaporte;
 V. La cédula de identidad ciudadana; y VI. La matrícula consular que cuente con los siguientes elementos de seguridad: a) Fotografía digitalizada; b) Banda magnética, e c) Identificación holográfica.
 Fracción adicionada DOF 12-01-2005 VII. A falta de los documentos probatorios mencionados en las fracciones anteriores, se podrá acreditar la nacionalidad mediante cualquier elemento que, de conformidad con la ley, lleve a la autoridad a la convicción de que se cumplieron los supuestos de atribución de la nacionalidad mexicana.
 Fracción reformada DOF 12-01-2005 (se recorre)
@@ -59,7 +58,6 @@ En cualquier caso, cuando la Secretaría lo estime conveniente, el interesado de
 
 ### Artículo 11
 .- Para todo lo no previsto en esta Ley, se aplicarán supletoriamente las disposiciones del de la Ley Federal de Procedimiento Administrativo.
-LEY DE NACIONALIDAD
 
 ## CAPÍTULO II
 DE LA NACIONALIDAD MEXICANA POR NACIMIENTO
@@ -84,7 +82,7 @@ En el caso de que durante el desempeño del cargo o función adquieran otra naci
 ### Artículo 17
 .- Los mexicanos por nacimiento a los que otro Estado considere como sus nacionales, podrán solicitar a la Secretaría el certificado de nacionalidad mexicana, únicamente para los efectos del artículo anterior.
 Para ello, formularán renuncia expresa a la nacionalidad que les sea atribuida, a toda sumisión, obediencia y fidelidad a cualquier Estado extranjero, especialmente de aquél que le atribuya la otra nacionalidad, a toda protección extraña a las leyes y autoridades mexicanas, y a todo derecho que los tratados o convenciones internacionales concedan a los extranjeros. Asimismo, protestarán adhesión, obediencia y sumisión a las leyes y autoridades mexicanas y se abstendrán de realizar cualquier conducta que implique sumisión a un Estado extranjero.
-LEY DE NACIONALIDAD El certificado de nacionalidad mexicana se expedirá una vez que el interesado haya cumplido con los requisitos de esta Ley y su reglamento.
+El certificado de nacionalidad mexicana se expedirá una vez que el interesado haya cumplido con los requisitos de esta Ley y su reglamento.
 
 ### Artículo 18
 .- La Secretaría declarará, previa audiencia del interesado, la nulidad del certificado cuando se hubiera expedido en violación de esta Ley o de su reglamento, o cuando dejen de cumplirse los requisitos previstos en ellos.
@@ -105,7 +103,7 @@ Para el correcto cumplimiento de los requisitos a que se refiere este artículo,
 .- El extranjero que pretenda naturalizarse mexicano deberá acreditar que ha residido en territorio nacional cuando menos durante los últimos cinco años inmediatos anteriores a la fecha de su solicitud, salvo lo dispuesto en las fracciones siguientes:
 I. Bastará una residencia de dos años inmediatamente anteriores a la fecha de la solicitud cuando el interesado: a) Sea descendiente en línea recta de un mexicano por nacimiento;
 Quedarán exentos de comprobar la residencia que establece la fracción I, aquellos descendientes en línea recta en segundo grado de un mexicano por nacimiento, siempre que no cuente con otra nacionalidad al momento de la solicitud; o bien no le sean reconocidos los derechos adquiridos a partir de su nacimiento;
-Párrafo adicionado DOF 23-04-2012 b) Tenga hijos mexicanos por nacimiento; c) Sea originario de un país latinoamericano o de la Península Ibérica, o LEY DE NACIONALIDAD d) A juicio de la Secretaría, haya prestado servicios o realizado obras destacadas en materia cultural, social, científica, técnica, artística, deportiva o empresarial que beneficien a la Nación. En casos excepcionales, a juicio del Titular del Ejecutivo Federal, no será necesario que el extranjero acredite la residencia en el territorio nacional a que se refiere esta fracción.
+Párrafo adicionado DOF 23-04-2012 b) Tenga hijos mexicanos por nacimiento; c) Sea originario de un país latinoamericano o de la Península Ibérica, o d) A juicio de la Secretaría, haya prestado servicios o realizado obras destacadas en materia cultural, social, científica, técnica, artística, deportiva o empresarial que beneficien a la Nación. En casos excepcionales, a juicio del Titular del Ejecutivo Federal, no será necesario que el extranjero acredite la residencia en el territorio nacional a que se refiere esta fracción.
 II. La mujer o el varón extranjeros que contraigan matrimonio con varón o mujer mexicanos, deberán acreditar que han residido y vivido de consuno en el domicilio conyugal establecido en territorio nacional, durante los dos años inmediatamente anteriores a la fecha de la solicitud.
 No será necesario que el domicilio conyugal se establezca en territorio nacional, cuando el cónyuge mexicano radique en el extranjero por encargo o comisión del Gobierno Mexicano.
 En el caso de matrimonios celebrados entre extranjeros, la adquisición de la nacionalidad mexicana por uno de los cónyuges con posterioridad al matrimonio, permitirá al otro obtener dicha nacionalidad, siempre que reúna los requisitos que exige esta fracción, y III. Bastará una residencia de un año inmediato anterior a la solicitud, en el caso de adoptados, así como de menores descendientes hasta segundo grado, sujetos a la patria potestad de mexicanos.
@@ -132,7 +130,7 @@ II. Estar extinguiendo una sentencia privativa de la libertad por delito doloso 
 
 ### Artículo 26
 .- La Secretaría declarará, previa audiencia del interesado, la nulidad de la carta de naturalización cuando se hubiere expedido sin cumplir con los requisitos o con violación a esta Ley.
-LEY DE NACIONALIDAD La declaratoria de nulidad fijará la fecha a partir de la cual dicha carta será nula. En todo caso se dejarán a salvo las situaciones jurídicas creadas durante la vigencia de la carta a favor de terceros de buena fe.
+La declaratoria de nulidad fijará la fecha a partir de la cual dicha carta será nula. En todo caso se dejarán a salvo las situaciones jurídicas creadas durante la vigencia de la carta a favor de terceros de buena fe.
 
 ## CAPÍTULO IV
 DE LA PÉRDIDA DE LA NACIONALIDAD MEXICANA POR NATURALIZACIÓN
@@ -163,7 +161,7 @@ DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 .- Las infracciones administrativas previstas en la presente Ley, se sancionarán con lo siguiente:
 I. Se impondrá multa de trescientos a quinientos salarios, a quien ingrese o salga de territorio nacional en contravención a lo dispuesto por el artículo 12 de esta Ley;
 II. Se impondrá multa de cuatrocientos a ochocientos salarios: a) A quien realice las renuncias y protesta en forma fraudulenta o cometa actos que pongan de manifiesto su incumplimiento; b) A quien intente obtener cualesquiera de las pruebas de nacionalidad mexicana que corresponde expedir a la Secretaría con violación de las prevenciones de esta Ley o su reglamento, o presentando ante dicha Secretaría información, testigos, documentos o certificados falsos.
-Si se llegare a obtener la prueba de nacionalidad, se duplicará la sanción, y LEY DE NACIONALIDAD c) A quien haga uso de una prueba de nacionalidad falsificada o alterada;
+Si se llegare a obtener la prueba de nacionalidad, se duplicará la sanción, y c) A quien haga uso de una prueba de nacionalidad falsificada o alterada;
 III. Se impondrá multa de quinientos a dos mil salarios, a quien contraiga matrimonio con el único objeto de obtener la nacionalidad mexicana. Igual sanción se impondrá al cónyuge mexicano que, conociendo dicho propósito, celebre el matrimonio.
 
 ### Artículo 34
@@ -177,31 +175,50 @@ III. Se impondrá multa de quinientos a dos mil salarios, a quien contraiga matr
 
 ### Artículo 37
 .- Para la imposición de las sanciones, la Secretaría deberá tomar en cuenta la gravedad de la infracción, los daños y perjuicios causados, al igual que los antecedentes, circunstancias personales y situación socioeconómica del infractor.
-TRANSITORIOS PRIMERO.- La presente Ley entrará en vigor el 20 de marzo de 1998.
-SEGUNDO.- Se abroga la Ley de Nacionalidad publicada en el Diario Oficial de la Federación el 21 de junio de 1993 y se derogan todas las disposiciones que se opongan a la presente Ley.
-TERCERO.- Las cartas y declaratorias de naturalización, los certificados de nacionalidad mexicana por nacimiento, así como los de recuperación de nacionalidad, expedidos por la Secretaría de Relaciones Exteriores con anterioridad a la entrada en vigor de esta Ley, seguirán surtiendo sus efectos jurídicos.
-CUARTO.- Para beneficiarse de lo dispuesto por el artículo 37, apartado A de la Constitución Política de los Estados Unidos Mexicanos, el interesado deberá:
+
+## TRANSITORIOS
+
+**PRIMERO.-** La presente Ley entrará en vigor el 20 de marzo de 1998.
+**SEGUNDO.-** Se abroga la Ley de Nacionalidad publicada en el Diario Oficial de la Federación el 21 de junio de 1993 y se derogan todas las disposiciones que se opongan a la presente Ley.
+**TERCERO.-** Las cartas y declaratorias de naturalización, los certificados de nacionalidad mexicana por nacimiento, así como los de recuperación de nacionalidad, expedidos por la Secretaría de Relaciones Exteriores con anterioridad a la entrada en vigor de esta Ley, seguirán surtiendo sus efectos jurídicos.
+**CUARTO.-** Para beneficiarse de lo dispuesto por el artículo 37, apartado A de la Constitución Política de los Estados Unidos Mexicanos, el interesado deberá:
 I. Presentar solicitud por escrito a la Secretaría de Relaciones Exteriores, Embajadas o Consulados Mexicanos, en cualquier tiempo;
 Fracción reformada DOF 02-12-2004 II. Acreditar su derecho a la nacionalidad mexicana, conforme lo establece esta Ley; y III. Acreditar plenamente su identidad ante la autoridad.
-QUINTO.- Los nacidos y concebidos con anterioridad a la entrada en vigor del Decreto por el que se reforman los artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos, estarán sujetos a lo dispuesto por los artículos Segundo y Tercero Transitorios del citado Decreto.
+**QUINTO.-** Los nacidos y concebidos con anterioridad a la entrada en vigor del Decreto por el que se reforman los artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos, estarán sujetos a lo dispuesto por los artículos Segundo y Tercero Transitorios del citado Decreto.
 Para los efectos del párrafo anterior, se presumirán concebidos los nacidos vivos y viables dentro de los trescientos días posteriores a la entrada en vigor de esta Ley.
-LEY DE NACIONALIDAD México, D.F., a 12 de diciembre de 1997.- Sen. Heladio Ramírez López, Presidente.- Dip. Luis Meneses Murillo, Presidente.- Sen. José Antonio Valdivia, Secretario.- Dip. Angelina Muñoz Fernández, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-LEY DE NACIONALIDAD ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma el artículo cuarto transitorio de la Ley de Nacionalidad.
+México, D.F., a 12 de diciembre de 1997.- Sen. Heladio Ramírez López, Presidente.- Dip. Luis Meneses Murillo, Presidente.- Sen. José Antonio Valdivia, Secretario.- Dip. Angelina Muñoz Fernández, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma el artículo cuarto transitorio de la Ley de Nacionalidad.
 Publicado en el Diario Oficial de la Federación el 2 de diciembre de 2004 ARTICULO UNICO.- Se reforma la fracción primera del Artículo Cuarto Transitorio de la Ley de Nacionalidad, para quedar como sigue: ..........
-TRANSITORIO ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de octubre de 2004.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip.
 Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip.
 Graciela Larios Rivas, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de noviembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-LEY DE NACIONALIDAD DECRETO por el que se adiciona la Ley de Nacionalidad.
-Publicado en el Diario Oficial de la Federación el 12 de enero de 2005 ARTÍCULO ÚNICO.- Se adiciona la fracción VI, pasando la actual a ser la fracción VII, al artículo 3 de la Ley de Nacionalidad, para quedar como sigue: ..........
-TRANSITORIO Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se adiciona la Ley de Nacionalidad.
+Publicado en el Diario Oficial de la Federación el 12 de enero de 2005
+
+### ARTÍCULO ÚNICO
+Se adiciona la fracción VI, pasando la actual a ser la fracción VII, al artículo 3 de la Ley de Nacionalidad, para quedar como sigue: ..........
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 7 de diciembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen.
 Sara I. Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-LEY DE NACIONALIDAD DECRETO por el que se adiciona un segundo párrafo al inciso a) de la fracción I del
+DECRETO por el que se adiciona un segundo párrafo al inciso a) de la fracción I del
 
 ### artículo 20
 de la Ley de Nacionalidad.
-Publicado en el Diario Oficial de la Federación el 23 de abril de 2012 Artículo Único.- Se adiciona un segundo párrafo al inciso a) de la fracción I del artículo 20 de la Ley de Nacionalidad, para quedar como sigue: ……… TRANSITORIOS Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- El Ejecutivo Federal, contará con un plazo de 45 días para realizar las adecuaciones al Reglamento de la Ley, con el objetivo de garantizar la viabilidad y aplicación del presente Decreto.
+Publicado en el Diario Oficial de la Federación el 23 de abril de 2012
+
+### Artículo Único
+Se adiciona un segundo párrafo al inciso a) de la fracción I del artículo 20 de la Ley de Nacionalidad, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal, contará con un plazo de 45 días para realizar las adecuaciones al Reglamento de la Ley, con el objetivo de garantizar la viabilidad y aplicación del presente Decreto.
 México, D.F., a 8 de marzo de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Guadalupe Perez Dominguez, Secretaria.- Sen. Arturo Herviz Reyes, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.

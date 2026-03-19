@@ -5,10 +5,10 @@
 
 ---
 
-LEY DE DESARROLLO RURAL SUSTENTABLE LEY DE DESARROLLO RURAL SUSTENTABLE Nueva Ley publicada en el Diario Oficial de la Federación el 7 de diciembre de 2001 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 7 de diciembre de 2001 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-LEY DE DESARROLLO RURAL SUSTENTABLE TÍTULO PRIMERO DEL OBJETO Y APLICACIÓN DE LA LEY
+TÍTULO PRIMERO DEL OBJETO Y APLICACIÓN DE LA LEY
 
 ### Artículo 1o
 .- La presente Ley es reglamentaria de la Fracción XX del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y es de observancia general en toda la República.
@@ -21,7 +21,7 @@ Se considera de interés público el desarrollo rural sustentable que incluye la
 ### Artículo 3o
 .- Para los efectos de esta Ley se entenderá por:
 I. Actividades Agropecuarias. Los procesos productivos primarios basados en recursos naturales renovables: agricultura (incluye cultivos inocuos en tierra y sustratos inertes sin tierra), ganadería (incluye caza), silvicultura y acuacultura (incluye pesca);
-Fracción reformada DOF 07-01-2021 LEY DE DESARROLLO RURAL SUSTENTABLE II. Actividades Económicas de la Sociedad Rural. Las actividades agropecuarias y otras actividades productivas, industriales, comerciales y de servicios;
+Fracción reformada DOF 07-01-2021 II. Actividades Económicas de la Sociedad Rural. Las actividades agropecuarias y otras actividades productivas, industriales, comerciales y de servicios;
 III. Agentes de la Sociedad Rural. Personas físicas o morales de los sectores social y privado que integran a la sociedad rural, incluyendo a los participantes en la producción, transporte, distribución y comercialización de productos, insumos y fertilizantes;
 Fracción reformada DOF 07-06-2024 IV. Agroforestal (Uso). La combinación de agricultura y ganadería conjuntamente con el cultivo y aprovechamiento de especies forestales;
 V. Alimentos Básicos y Estratégicos. Respectivamente, aquellos así calificados por su importancia en la alimentación de la mayoría de la población o su importancia en la economía de los productores del campo o de la industria;
@@ -38,7 +38,7 @@ XV. Desertificación. La pérdida de la capacidad productiva de las tierras, cau
 XVI. Difusión. La promoción nacional mediante los medios de información masiva escritos y electrónicos, libros, folletos y cualquier otro material idóneo que permitan dar a conocer los diversos programas y beneficios económicos que se deriven de la aplicación del Programa Especial Concurrente para el Desarrollo Rural Sustentable;
 Fracción adicionada DOF 27-01-2011 XVII. Entidades Federativas. Los estados de la federación y el Distrito Federal;
 Fracción recorrida DOF 27-01-2011 XVIII. Estado. Los Poderes de la Unión, de las entidades federativas y de los municipios;
-Fracción recorrida DOF 27-01-2011 LEY DE DESARROLLO RURAL SUSTENTABLE XIX. Estímulos Fiscales. Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
+Fracción recorrida DOF 27-01-2011 XIX. Estímulos Fiscales. Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
 Fracción recorrida DOF 27-01-2011 XIX Bis. Figuras Asociativas. Los ejidos, comunidades y las organizaciones y asociaciones de carácter nacional, estatal, regional, distrital, municipal o comunitario de productores del medio rural, pequeñas unidades de producción y, en su caso, las ramas de producción, que se constituyan o estén constituidas, de conformidad con las leyes vigentes y las demás disposiciones aplicables;
 Fracción adicionada DOF 22-12-2017 XX. Marginalidad. La definida de acuerdo con los criterios dictados por el Instituto Nacional de Estadística, Geografía e Informática;
 Fracción recorrida DOF 27-01-2011 XXI. Órdenes de Gobierno. Los gobiernos federales, de las entidades federativas y de los municipios;
@@ -49,7 +49,7 @@ Fracción reformada (y recorrida) DOF 27-01-2011 XXV. Programas Sectoriales. Los
 Fracción recorrida DOF 27-01-2011 XXVI. Recursos Naturales. Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales: tierras, bosques, recursos minerales, agua, comunidades vegetativas y animales y recursos genéticos;
 Fracción recorrida DOF 27-01-2011 XXVII. Secretaría. La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 Fracción recorrida DOF 27-01-2011 XXVIII. Seguridad Alimentaria. El abasto oportuno, suficiente e incluyente de alimentos a la población;
-Fracción recorrida DOF 27-01-2011 LEY DE DESARROLLO RURAL SUSTENTABLE XXIX. Servicio. Institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+Fracción recorrida DOF 27-01-2011 XXIX. Servicio. Institución pública responsable de la ejecución de programas y acciones específicas en una materia;
 Fracción recorrida DOF 27-01-2011 XXX. Servicios Ambientales (sinónimo: beneficios ambientales). Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
 Fracción recorrida DOF 27-01-2011 XXXI. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
 Fracción recorrida DOF 27-01-2011 XXXII. Sistema-Producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización, y Fracción reformada (y recorrida) DOF 27-01-2011 XXXIII. Soberanía Alimentaria. La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población, basada fundamentalmente en la producción nacional.
@@ -63,7 +63,7 @@ Fracción recorrida DOF 27-01-2011
 I. Promover y favorecer el bienestar social y económico de los productores, de sus comunidades, de los trabajadores del campo y, en general, de los agentes de la sociedad rural con la participación de organizaciones o asociaciones, especialmente la de aquellas que estén integradas por sujetos que formen parte de los grupos vulnerables referidos en el artículo 154 de la presente Ley, mediante la diversificación y la generación de empleo, incluyendo el no agropecuario en el medio rural, así como el incremento del ingreso;
 Fracción reformada DOF 09-12-2010 II. Corregir disparidades de desarrollo regional a través de la atención diferenciada a las regiones de mayor rezago, mediante una acción integral del Estado que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo de desarrollo rural sustentable;
 III. Contribuir a la soberanía y seguridad alimentaria de la nación mediante el impulso de la producción agropecuaria del país;
-LEY DE DESARROLLO RURAL SUSTENTABLE IV. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable; y V. Valorar las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura nacional.
+IV. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable; y V. Valorar las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura nacional.
 
 ### Artículo 6o
 .- Tendrán carácter prioritario las acciones que el Estado, a través de los tres órdenes de gobierno y en los términos de las leyes aplicables, realice en el medio rural. En dichas acciones, que se efectuarán bajo los criterios de equidad social y de género, integralidad, productividad y sustentabilidad, podrán participar los sectores social y privado.
@@ -79,7 +79,6 @@ II. Mejorar las condiciones de los productores y demás agentes de la sociedad r
 III. Incrementar, diversificar y reconvertir la producción para atender la demanda nacional, fortalecer y ampliar el mercado interno, así como mejorar los términos de intercambio comercial con el exterior;
 IV. Aumentar la capacidad productiva para fortalecer la economía campesina, el autoabasto y el desarrollo de mercados regionales que mejoren el acceso de la población rural a la alimentación y los términos de intercambio;
 V. Fomentar el aprovechamiento sustentable de los recursos naturales productivos, que permitan aumentar y diversificar las fuentes de empleo e ingreso; y VI. Mejorar la cantidad y la calidad de los servicios a la población.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 8o
 .- Las acciones de desarrollo rural sustentable que efectúe el Estado, atenderán de manera diferenciada y prioritaria a las regiones y zonas con mayor rezago social y económico, mediante el impulso a las actividades del medio rural, el incremento a la inversión productiva, el fomento a la diversificación de oportunidades de empleo e ingreso y la promoción de vínculos entre los ámbitos rural y urbano para facilitar a los agentes de la sociedad rural el acceso a los apoyos que requiere su actividad productiva, así como a los servicios para su bienestar.
@@ -104,14 +103,14 @@ De la Planeación del Desarrollo Rural Sustentable
 
 ### Artículo 13
 .- De conformidad con la Ley de Planeación y el Plan Nacional de Desarrollo, se formulará la programación sectorial de corto, mediano y largo plazo con los siguientes lineamientos:
-LEY DE DESARROLLO RURAL SUSTENTABLE I. La planeación del desarrollo rural sustentable, tendrá el carácter democrático que establecen la Constitución Política de los Estados Unidos Mexicanos y las leyes relativas. Participarán en ella el sector público por conducto del Gobierno Federal, los gobiernos de las entidades federativas y de los municipios, en los términos del tercer párrafo del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, así como los sectores social y privado a través de sus organizaciones sociales y económicas legalmente reconocidas y demás formas de participación que emanen de los diversos agentes de la sociedad rural;
+I. La planeación del desarrollo rural sustentable, tendrá el carácter democrático que establecen la Constitución Política de los Estados Unidos Mexicanos y las leyes relativas. Participarán en ella el sector público por conducto del Gobierno Federal, los gobiernos de las entidades federativas y de los municipios, en los términos del tercer párrafo del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, así como los sectores social y privado a través de sus organizaciones sociales y económicas legalmente reconocidas y demás formas de participación que emanen de los diversos agentes de la sociedad rural;
 II. En los programas sectoriales se coordinará y dará congruencia a las acciones y programas institucionales de desarrollo rural sustentable a cargo de los distintos órdenes de gobierno y de las dependencias y entidades del sector. El Ejecutivo Federal, en coordinación con los estados y los municipios, en su caso, y a través de las dependencias que corresponda, de acuerdo con este ordenamiento, hará las previsiones necesarias para financiar y asignar recursos presupuestales que cumplan con los programas, objetivos y acciones en la materia, durante el tiempo de vigencia de los mismos;
 III. Los programas sectoriales constituirán el marco de mediano y largo plazo donde se establezca la temporalidad de las acciones a cargo de los diferentes órdenes de gobierno, de manera que se proporcione a los productores mayor certidumbre en cuanto a las directrices de política y previsiones programáticas en apoyo del desenvolvimiento del sector y que aquellos alcancen la productividad, rentabilidad y competitividad que les permita fortalecer su concurrencia en los mercados nacional e internacional;
 IV. La Comisión Intersecretarial, con la participación del Consejo Mexicano, podrá establecer programas especiales, sectoriales y especiales concurrentes de emergencia si ocurrieran contingencias que así lo justifiquen;
 V. A través de los Distritos de Desarrollo Rural, se promoverá la formulación de programas a nivel municipal y regional o de cuencas, con la participación de las autoridades, los habitantes y los productores en ellos ubicados. Dichos programas deberán ser congruentes con los Programas Sectoriales y el Plan Nacional de Desarrollo;
 VI. El programa sectorial que en el marco del federalismo apruebe el Ejecutivo Federal especificará los objetivos, prioridades, políticas, estimaciones de recursos presupuestales, así como los mecanismos de su ejecución, descentralizando en el ámbito de las entidades federativas, municipios y regiones la determinación de sus prioridades, así como de los mecanismos de gestión y ejecución con los que se garantice la amplia participación de los agentes de la sociedad rural. De igual forma, dicho programa determinará la temporalidad de los programas institucionales, regionales y especiales en términos de los artículos 22, 23, y 40 de la Ley de Planeación y 19 de la Ley de Presupuesto, Contabilidad y Gasto Público Federal;
 VII. La planeación nacional en la materia deberá propiciar la programación del desarrollo rural sustentable de cada entidad federativa y de los municipios, y su congruencia con el Plan Nacional de Desarrollo;
-VIII. Sin perjuicio de lo dispuesto por el artículo 20 de la Ley de Planeación, la participación social en la programación sectorial se realizará a través de las organizaciones nacionales integradas en el Consejo Mexicano para el Desarrollo Rural Sustentable, a que se refiere el artículo 17 de la presente Ley; y LEY DE DESARROLLO RURAL SUSTENTABLE IX. La programación para el desarrollo rural sustentable de mediano plazo deberá comprender tanto acciones de impulso a la productividad y competitividad, como medidas de apoyos tendientes a eliminar las asimetrías con respecto a otros países.
+VIII. Sin perjuicio de lo dispuesto por el artículo 20 de la Ley de Planeación, la participación social en la programación sectorial se realizará a través de las organizaciones nacionales integradas en el Consejo Mexicano para el Desarrollo Rural Sustentable, a que se refiere el artículo 17 de la presente Ley; y IX. La programación para el desarrollo rural sustentable de mediano plazo deberá comprender tanto acciones de impulso a la productividad y competitividad, como medidas de apoyos tendientes a eliminar las asimetrías con respecto a otros países.
 
 ### Artículo 14
 .- En el marco del Plan Nacional de Desarrollo y de los programas sectoriales de las dependencias y entidades que la integren, la Comisión Intersecretarial para el Desarrollo Rural Sustentable propondrá al Ejecutivo Federal, con fundamento en lo dispuesto por los artículos 7, 9 y 22 de la Ley Orgánica de la Administración Pública Federal y 19 y 26 de la Ley de Planeación, el Programa Especial Concurrente para el Desarrollo Rural Sustentable que comprenderá las políticas públicas orientadas a la generación y diversificación de empleo y a garantizar a la población campesina el bienestar y su participación e incorporación al desarrollo nacional, dando prioridad a las zonas de alta y muy alta marginación y a las poblaciones económica y socialmente débiles.
@@ -131,7 +130,7 @@ VIII. Política de población para el desarrollo rural sustentable;
 IX. Cuidado al medio ambiente rural, la sustentabilidad de las actividades socioeconómicas en el campo y a la producción de servicios ambientales para la sociedad;
 X. Equidad de género, la protección de la familia, el impulso a los programas de la mujer, los jóvenes, la protección de los grupos vulnerables, en especial niños, discapacitados, personas con enfermedades terminales y de la tercera edad en las comunidades rurales;
 XI. Impulso a la educación cívica, a la cultura de la legalidad y combate efectivo a la ilegalidad en el medio rural;
-LEY DE DESARROLLO RURAL SUSTENTABLE XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos y comunidades indígenas y afromexicanas, particularmente para su integración al desarrollo rural sustentable de la Nación;
+XII. Impulso a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos y comunidades indígenas y afromexicanas, particularmente para su integración al desarrollo rural sustentable de la Nación;
 Fracción reformada DOF 01-04-2024 XIII. Seguridad en la tenencia y disposición de la tierra;
 XIV. Promoción del empleo productivo, incluyendo el impulso a la seguridad social y a la capacitación para el trabajo en las áreas agropecuaria, comercial, industrial y de servicios;
 XV. Protección a los trabajadores rurales en general y a los jornaleros agrícolas y migratorios en particular;
@@ -147,7 +146,6 @@ El Ejecutivo Federal establecerá las previsiones presupuestarias necesarias par
 ### Artículo 17
 .- Se crea el Consejo Mexicano para el Desarrollo Rural Sustentable como instancia consultiva del Gobierno Federal, con carácter incluyente y representativo de los intereses de los productores y agentes de la sociedad rural. Este Consejo se integrará con los miembros de la Comisión Intersecretarial previstos en el artículo 21 de esta Ley, representantes, debidamente acreditados, de las organizaciones nacionales del sector social y privado rural; de las organizaciones nacionales agroindustriales, de comercialización y por rama de producción agropecuaria; y de los comités de los sistemas producto, instituciones de educación e investigación y organismos no gubernamentales, de acuerdo a los temas a tratar, en los términos de las leyes y las normas reglamentarias vigentes. Será presidido por el titular de la Secretaría y operará en los términos que disponga su reglamento interior.
 La participación del Consejo Mexicano, junto con la Comisión Intersecretarial, consistirá en la emisión de opiniones y la coordinación de las actividades de difusión y promoción hacia los sectores sociales representados de los programas, acciones y normas relacionadas con el Programa Especial Concurrente, así como de los Sistemas contemplados en la presente Ley.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 18
 .- El Consejo Mexicano y los demás organismos e instancias de representación de los diversos agentes y actores de la sociedad rural, serán los encargados de promover que en el ámbito de las entidades federativas, los municipios y regiones, se tenga la más amplia participación de las organizaciones y demás agentes y sujetos del sector, como bases de una acción descentralizada en la planeación, seguimiento, actualización y evaluación de los programas de fomento agropecuario y de desarrollo rural sustentable a cargo del Gobierno Federal.
@@ -169,7 +167,6 @@ Artículo reformado DOF 27-01-2011
 Párrafo reformado DOF 02-02-2007, 20-06-2018 Cada uno de los integrantes de la Comisión tendrá un suplente que, en el caso de las dependencias, será el subsecretario que tenga mayor relación con los asuntos del desarrollo rural.
 La Comisión Intersecretarial, a través de su Presidente, podrá convocar a las sesiones a otras dependencias del Ejecutivo Federal y a entidades del sector público, con objeto de que informen de los asuntos de su competencia, relacionados con el desarrollo rural sustentable.
 La Comisión Intersecretarial propondrá al Ejecutivo Federal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades del sector público y evaluará, periódicamente, los programas relacionados con el desarrollo rural sustentable. En su caso, la Comisión Intersecretarial someterá a la aprobación del Ejecutivo Federal nuevos programas de fomento agropecuario y de desarrollo rural sustentable para ser incluidos en el Proyecto de Presupuesto de Egresos correspondiente.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 22
 .- La Comisión Intersecretarial a través de las dependencias y entidades que la integran, ejecutará las acciones previstas en este Título, de acuerdo con la competencia que les confiere la Ley Orgánica de la Administración Pública Federal y la Ley de Planeación; en tal virtud contará con los órganos desconcentrados y demás estructuras que se determinen en su reglamento y otras disposiciones aplicables.
@@ -182,7 +179,7 @@ V. Sistema Nacional de Bienestar Social Rural;
 VI. Sistema Nacional de Información para el Desarrollo Rural Sustentable;
 VII. Sistema Nacional de Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria;
 VIII. Sistema Nacional de Financiamiento Rural;
-IX. Sistema Nacional de apoyos a los programas inherentes a la política de fomento al desarrollo rural sustentable, en los siguientes aspectos: a) Apoyos, compensaciones y pagos directos al productor; b) Equipamiento rural; c) Reconversión productiva y tecnológica; d) Apoyos a la comercialización agropecuaria; e) Asistencia técnica; f) Apoyos y compensaciones por servicios ambientales; g) Estímulos fiscales y recursos del ramo 33 para el desarrollo rural sustentable establecidos en la Ley de Coordinación Fiscal; h) Finanzas rurales; i) Apoyos convergentes por contingencias; y LEY DE DESARROLLO RURAL SUSTENTABLE j) Todos los necesarios para la aplicación del Programa Especial Concurrente en las materias especificadas en el artículo 15 de esta Ley.
+IX. Sistema Nacional de apoyos a los programas inherentes a la política de fomento al desarrollo rural sustentable, en los siguientes aspectos: a) Apoyos, compensaciones y pagos directos al productor; b) Equipamiento rural; c) Reconversión productiva y tecnológica; d) Apoyos a la comercialización agropecuaria; e) Asistencia técnica; f) Apoyos y compensaciones por servicios ambientales; g) Estímulos fiscales y recursos del ramo 33 para el desarrollo rural sustentable establecidos en la Ley de Coordinación Fiscal; h) Finanzas rurales; i) Apoyos convergentes por contingencias; y j) Todos los necesarios para la aplicación del Programa Especial Concurrente en las materias especificadas en el artículo 15 de esta Ley.
 X. Servicio Nacional de Normalización e Inspección de Productos Agropecuarios y del Almacenamiento;
 XI. Servicio Nacional de Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria;
 XII. Servicio Nacional de Inspección y Certificación de Semillas;
@@ -202,7 +199,6 @@ Las dependencias y entidades de la administración pública federal darán curso
 ### Artículo 24
 .- Con apego a los principios de federalización, se integrarán Consejos para el Desarrollo Rural Sustentable, homologados al Consejo Mexicano, en los municipios, en los Distritos de Desarrollo Rural y en las entidades federativas. Los convenios que celebre la Secretaría con los gobiernos de las entidades federativas preverán la creación de estos Consejos, los cuales serán además, instancias para la participación de los productores y demás agentes de la sociedad rural en la definición de prioridades regionales, la planeación y distribución de los recursos que la Federación, las entidades federativas y los municipios destinen al apoyo de las inversiones productivas, y para el desarrollo rural sustentable conforme al presente ordenamiento.
 Los Consejos estatales de varias entidades federativas que coincidan en una región común o cuenca hidrológica, podrán integrar consejos regionales interestatales en dichos territorios.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 24
 Bis.- Se podrán integrar, dentro de los consejos mexicano, estatales, distritales y municipales, cuando así se considere necesario, comités consultivos alimentarios, cuya finalidad será opinar al seno de los consejos mexicano, estatales, distritales y municipales en materia de producción agropecuaria, utilizando criterios de factibilidad técnica y económica, considerando principalmente las características agroecológicas, económicas, sociales y culturales del ámbito territorial en cuestión.
@@ -216,7 +212,7 @@ Serán miembros permanentes de los Consejos Distritales, los representantes de l
 Serán miembros permanentes de los Consejos Municipales: los presidentes municipales, quienes los podrán presidir; los representantes en el municipio correspondiente de las dependencias y de las entidades participantes, que formen parte de la Comisión Intersecretarial, los funcionarios de las Entidades Federativas que las mismas determinen y los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural en el municipio correspondiente, en forma similar a la integración que se adopta para el Consejo Mexicano.
 Los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural, que integran los Consejos Estatales, Distritales y Municipales a los que se refiere el presente artículo deberán estar debidamente acreditados en los términos de la normatividad aplicable.
 Párrafo adicionado DOF 12-01-2012 La integración de los Consejos estatales deberá ser representativa de la composición económica y social de la entidad y en ellos las legislaturas locales podrán participar en los términos en que sean convocadas a través de sus Comisiones.
-La organización y funcionamiento de los consejos estatales, distritales y municipales, se regirán por los estatutos que al respecto se acuerden entre el gobierno federal y los de las entidades federativas, LEY DE DESARROLLO RURAL SUSTENTABLE quedando a cargo del primero la expedición de reglas generales sobre la materia, para la atención de los asuntos de su competencia.
+La organización y funcionamiento de los consejos estatales, distritales y municipales, se regirán por los estatutos que al respecto se acuerden entre el gobierno federal y los de las entidades federativas, quedando a cargo del primero la expedición de reglas generales sobre la materia, para la atención de los asuntos de su competencia.
 
 ### Artículo 26
 .- En los Consejos Estatales se articularán los planteamientos, proyectos y solicitudes de las diversas regiones de la entidad, canalizados a través de los Distritos de Desarrollo Rural. Los consejos municipales, definirán la necesidad de convergencia de instrumentos y acciones provenientes de los diversos programas sectoriales, mismos que se integrarán al programa especial concurrente.
@@ -232,7 +228,7 @@ IV. El compromiso de los gobiernos de las entidades federativas de hacer del con
 V. La adopción de la demarcación espacial de los Distritos de Desarrollo Rural, como base geográfica para la cobertura territorial de atención a los productores del sector rural, así como para la operación y seguimiento de los programas productivos y de los servicios especializados definidos en la presente Ley, sin detrimento de lo que acuerden en otros instrumentos jurídicos;
 VI. La corresponsabilidad para la organización y desarrollo de medidas de inocuidad, sanidad vegetal y salud animal;
 VII. La participación de las acciones del gobierno de la entidad federativa correspondiente en los programas de atención prioritaria a las regiones de mayor rezago económico y social, así como las de reconversión productiva;
-LEY DE DESARROLLO RURAL SUSTENTABLE VIII. La participación del gobierno de la entidad federativa en el desarrollo de infraestructura y el impulso a la organización de los productores para hacer más eficientes los procesos de producción, industrialización, servicios, acopio y comercialización que ellos desarrollen;
+VIII. La participación del gobierno de la entidad federativa en el desarrollo de infraestructura y el impulso a la organización de los productores para hacer más eficientes los procesos de producción, industrialización, servicios, acopio y comercialización que ellos desarrollen;
 IX. La participación de los gobiernos de las entidades federativas y, en su caso, de los municipios, tomando como base la demarcación territorial de los Distritos de Desarrollo Rural u otras que se convengan, en la captación e integración de la información que requiera el Sistema Nacional de Información para el Desarrollo Rural Sustentable. Así mismo, la participación de dichas autoridades en la difusión de la misma a las organizaciones sociales, con objeto de que dispongan de la mejor información para apoyar sus decisiones respecto de las actividades que realicen;
 X. Los procedimientos mediante los cuales las entidades federativas solicitarán fundadamente al Gobierno Federal, que acuda con apoyos y programas especiales de atención por situaciones de emergencia, con objeto de mitigar los efectos de las contingencias, restablecer los servicios, las actividades productivas y reducir la vulnerabilidad de las regiones ante fenómenos naturales perturbadores u otros imprevistos, en términos de cosechas, ingresos, bienes patrimoniales y la vida de las familias; y XI. La participación de los gobiernos de las entidades federativas en la administración y coordinación del personal estatal y federal que se asigne a los Distritos de Desarrollo Rural, en el equipamiento de los mismos y en la promoción de la participación de las organizaciones sociales y de la población en lo individual en el funcionamiento de los distritos, de tal manera que éstos constituyan la instancia inicial e inmediata de atención pública al sector.
 
@@ -246,7 +242,7 @@ De los Distritos de Desarrollo Rural
 .- Los Distritos de Desarrollo Rural serán la base de la organización territorial y administrativa de las dependencias de la Administración Pública Federal y Descentralizada, para la realización de los programas operativos de la Administración Pública Federal que participan en el Programa Especial Concurrente y los Programas Sectoriales que de él derivan, así como con los gobiernos de las entidades federativas y municipales y para la concertación con las organizaciones de productores y los sectores social y privado.
 Los Distritos de Desarrollo Rural coadyuvarán en el fortalecimiento de la gestión municipal del desarrollo rural sustentable e impulsarán la creación de los Consejos Municipales en el área de su respectiva circunscripción y apoyarán la formulación y aplicación de programas concurrentes municipales del Desarrollo Rural Sustentable.
 Los Distritos de Desarrollo Rural contarán con un Consejo Distrital formado por representantes de los Consejos Municipales.
-LEY DE DESARROLLO RURAL SUSTENTABLE La Secretaría definirá, con la participación de los Consejos Estatales la demarcación territorial de los Distritos de Desarrollo Rural y la ubicación de los centros de apoyo al desarrollo rural sustentable, con los que contará cada Distrito de Desarrollo Rural, procurando la coincidencia con las cuencas hídricas.
+La Secretaría definirá, con la participación de los Consejos Estatales la demarcación territorial de los Distritos de Desarrollo Rural y la ubicación de los centros de apoyo al desarrollo rural sustentable, con los que contará cada Distrito de Desarrollo Rural, procurando la coincidencia con las cuencas hídricas.
 En regiones rurales con población indígena significativa, los distritos se delimitarán considerando esta composición, con la finalidad de proteger y respetar los usos, costumbres y formas específicas de organización social indígena.
 Los programas, metas, objetivos y lineamientos estratégicos de los distritos se integrarán además con los que en la materia se elaboren en los municipios y regiones que pertenezcan a cada uno de ellos.
 
@@ -263,7 +259,7 @@ IV. Procurar la oportunidad en la prestación de los servicios a los productores
 V. Vigilar la aplicación de las normas de carácter fitozoosanitario;
 VI. Evaluar los resultados de la aplicación de los programas federales y estatales e informar a los Consejos Estatales al respecto;
 VII. Promover la participación activa de los agentes de la sociedad rural en las acciones institucionales y sectoriales;
-LEY DE DESARROLLO RURAL SUSTENTABLE VIII. Promover la coordinación de las acciones consideradas en los programas de desarrollo rural sustentable, con las de los sectores industrial, comercial y de servicios con objeto de diversificar e incrementar el empleo en el campo;
+VIII. Promover la coordinación de las acciones consideradas en los programas de desarrollo rural sustentable, con las de los sectores industrial, comercial y de servicios con objeto de diversificar e incrementar el empleo en el campo;
 IX. Proponer al Consejo Estatal, como resultado de las consultas respectivas, los programas que éste deba conocer en su seno y se consideren necesarios para el fomento de las actividades productivas y el desarrollo rural sustentable;
 X. Realizar las consultas y acciones de concertación y consenso con los productores y sus organizaciones, para el cumplimiento de sus fines;
 XI. Constituirse en la fuente principal de obtención y difusión de cifras y estadísticas en su ámbito territorial, para lo cual coadyuvarán en el levantamiento de censos y encuestas sobre el desempeño e impacto de los programas y para el cumplimiento de lo ordenado por la fracción X de este artículo;
@@ -280,7 +276,7 @@ Lo dispuesto en este precepto se propiciará mediante:
 I. El impulso a la investigación y desarrollo tecnológico agropecuario, la apropiación tecnológica y su validación, así como la transferencia de tecnología a los productores, la inducción de prácticas sustentables y la producción de semillas mejoradas incluyendo las criollas;
 II. El desarrollo de los recursos humanos, la asistencia técnica y el fomento a la organización económica y social de los agentes de la sociedad rural;
 III. La inversión tanto pública como privada para la ampliación y mejoramiento de la infraestructura hidroagrícola, el mejoramiento de los recursos naturales en las cuencas hídricas, el almacenaje, la electrificación, la comunicación y los caminos rurales;
-LEY DE DESARROLLO RURAL SUSTENTABLE IV. El fomento de la inversión de los productores y demás agentes de la sociedad rural, para la capitalización, actualización tecnológica y reconversión sustentable de las unidades de producción y empresas rurales que permitan su constitución, incrementar su productividad y su mejora continua;
+IV. El fomento de la inversión de los productores y demás agentes de la sociedad rural, para la capitalización, actualización tecnológica y reconversión sustentable de las unidades de producción y empresas rurales que permitan su constitución, incrementar su productividad y su mejora continua;
 V. El fomento de la sanidad vegetal, la salud animal y la inocuidad de los productos;
 VI. El fomento de la eficacia de los procesos de extracción o cosecha, acondicionamiento con grados de calidad del producto, empaque, acopio y comercialización;
 VII. El fortalecimiento de los servicios de apoyo a la producción, en particular el financiamiento, el aseguramiento, el almacenamiento, el transporte, la producción y abasto de insumos y fertilizantes, y la información económica y productiva;
@@ -296,7 +292,7 @@ De la Investigación y la Transferencia Tecnológica
 
 ### Artículo 33
 . La Comisión Intersecretarial, con la participación del Consejo Mexicano, integrará la Política Nacional de Investigación para el Desarrollo Rural Sustentable, la cual será de carácter multidisciplinario e interinstitucional considerando las prioridades nacionales, estatales y regionales; asimismo, llevará a cabo la programación y coordinación nacional en esta materia, con base en lo dispuesto en la Ley Orgánica de la Administración Pública Federal, en la Ley de Ciencia y Tecnología y en el Plan Nacional de Desarrollo y en los demás ordenamientos aplicables, tomando en consideración las necesidades que planteen los productores y demás agentes de la sociedad rural.
-Párrafo reformado DOF 09-12-2010 La Política Nacional de Investigación para el Desarrollo Rural Sustentable, con base en las instituciones competentes y utilizando los recursos existentes, incluirá las medidas para disponer de una instancia con capacidad operativa, autonomía efectiva y autoridad moral para emitir los dictámenes y resoluciones arbitrales que se requieran, para cuya elaboración deberá tomarse en cuenta las recomendaciones que para tal efecto emita el Consejo Nacional de Ciencia y Tecnología; asimismo, tenderá a contar con un adecuado diagnóstico permanente de los diferentes aspectos necesarios para la LEY DE DESARROLLO RURAL SUSTENTABLE planeación del desarrollo rural sustentable y a la búsqueda de soluciones técnicas acordes a los objetivos soberanos de la producción nacional.
+Párrafo reformado DOF 09-12-2010 La Política Nacional de Investigación para el Desarrollo Rural Sustentable, con base en las instituciones competentes y utilizando los recursos existentes, incluirá las medidas para disponer de una instancia con capacidad operativa, autonomía efectiva y autoridad moral para emitir los dictámenes y resoluciones arbitrales que se requieran, para cuya elaboración deberá tomarse en cuenta las recomendaciones que para tal efecto emita el Consejo Nacional de Ciencia y Tecnología; asimismo, tenderá a contar con un adecuado diagnóstico permanente de los diferentes aspectos necesarios para la planeación del desarrollo rural sustentable y a la búsqueda de soluciones técnicas acordes a los objetivos soberanos de la producción nacional.
 Párrafo reformado DOF 09-12-2010 La política nacional de investigación contemplará el uso de las tecnologías de información y comunicación tanto para su formulación como la difusión de avances, con los diversos actores de la sociedad rural.
 Párrafo adicionado DOF 18-06-2010
 
@@ -315,7 +311,7 @@ V. El Sistema Nacional de Investigadores en lo correspondiente;
 VI. Los mecanismos de cooperación con instituciones internacionales de investigación y desarrollo tecnológico agropecuario y agroindustrial;
 VII. Las empresas nacionales e internacionales generadoras de tecnología agropecuaria y forestal, a través de los mecanismos pertinentes;
 VIII. Las organizaciones y particulares, nacionales e internacionales, dedicados a la investigación agropecuaria, mediante los mecanismos de cooperación que correspondan;
-IX. El Consejo Mexicano para el Desarrollo Rural Sustentable y los Consejos Estatales para el Desarrollo Rural Sustentable; y LEY DE DESARROLLO RURAL SUSTENTABLE X. Otros participantes que la Comisión Intersecretarial considere necesarios, para cumplir con los propósitos del fomento de la producción rural.
+IX. El Consejo Mexicano para el Desarrollo Rural Sustentable y los Consejos Estatales para el Desarrollo Rural Sustentable; y X. Otros participantes que la Comisión Intersecretarial considere necesarios, para cumplir con los propósitos del fomento de la producción rural.
 
 ### Artículo 36
 .- En materia de investigación agropecuaria, el Gobierno Federal impulsará la investigación básica y el desarrollo tecnológico; con este propósito y con base en la Ley para el Fomento de la Investigación Científica y Tecnológica y demás ordenamientos aplicables, la Secretaría tendrá a su cargo la coordinación de las instituciones de la Administración Pública Federal cuya responsabilidad sea la investigación agropecuaria, socioeconómica y la relacionada con los recursos naturales del país, así como el apoyo a los particulares y empresas para la validación de la tecnología aplicable a las condiciones del país que se genere en el ámbito nacional e internacional, siempre que sean consistentes con los objetivos de sustentabilidad y protección del medio ambiente a que se refieren esta Ley y las demás disposiciones en la materia.
@@ -333,7 +329,7 @@ VI. Propiciar la vinculación entre los centros de investigación y docencia agr
 VII. Establecer los mecanismos que propicien que los sectores social y privado y demás sujetos vinculados a la producción rural se beneficien y orienten las políticas relativas en la materia;
 VIII. Proveer los medios para sustentar las decisiones administrativas y contenciosas que requieran dictamen y arbitraje;
 IX. Fomentar la integración, administración y actualización pertinente de la información relativa a las actividades de investigación agropecuaria y de desarrollo rural sustentable;
-LEY DE DESARROLLO RURAL SUSTENTABLE X. Fortalecer las capacidades regionales y estatales, propiciando su acceso a los programas de investigación y transferencia de tecnología;
+X. Fortalecer las capacidades regionales y estatales, propiciando su acceso a los programas de investigación y transferencia de tecnología;
 XI. Promover la productividad y rentabilidad de la investigación científica, así como el incremento de la aportación de recursos provenientes de los sectores agrícola e industrial, a fin de realizar investigaciones de interés para el avance tecnológico del medio rural;
 XII. Promover la investigación colectiva y asociada, así como la colaboración de investigadores de diferentes instituciones, disciplinas y países;
 XIII. Promover la investigación y el desarrollo tecnológico entre las universidades y centros de investigación públicos y privados que demuestren capacidad para llevar investigaciones en materia agropecuaria y de desarrollo rural sustentable;
@@ -351,7 +347,6 @@ Para lo anterior, el Programa Especial Concurrente incluirá en el Presupuesto d
 
 ### Artículo 40
 .- En relación con los organismos genéticamente modificados, el Gobierno Federal, a través del organismo especializado en dicha materia, promoverá y regulará la investigación, y en su caso, será responsable del manejo y la utilización de tales materiales, con observancia estricta de los criterios de bioseguridad, inocuidad y protección de la salud que formule el Ejecutivo Federal con la participación de las dependencias y entidades competentes y de los productores agropecuarios en el marco de la legislación aplicable.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ## CAPÍTULO III
 De la Capacitación y Asistencia Técnica
@@ -372,7 +367,6 @@ VI. Habilitar a los productores para el aprovechamiento de las oportunidades y e
 VII. Promover y divulgar el conocimiento para el mejor aprovechamiento de los programas y apoyos institucionales que se ofrecen en esta materia;
 VIII. Proporcionar a los productores y agentes de la sociedad rural conocimientos para acceder y participar activamente en los mecanismos relativos al crédito y al financiamiento;
 IX. Habilitar a los productores para acceder a la información de mercados y mecanismos de acceso a los mismos; y X. Contribuir a elevar el nivel educativo y tecnológico en el medio rural.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 43
 .- Para el logro de los propósitos enunciados en el artículo anterior, se establece el Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral, como una instancia de articulación, aprovechamiento y vinculación de las capacidades que en esta materia poseen las dependencias y entidades del sector público y los sectores social y privado.
@@ -398,7 +392,7 @@ I. Elaborar y ejecutar el Programa Nacional de Capacitación Rural Integral;
 II. Articular los esfuerzos de capacitación de las diversas instancias del gobierno federal con las diversas entidades federativas, los municipios y las organizaciones de los sectores social y privado;
 III. Mejorar la calidad y cobertura de los servicios de capacitación;
 IV. Validar los programas de capacitación;
-LEY DE DESARROLLO RURAL SUSTENTABLE V. Realizar el seguimiento y evaluar los programas de capacitación que realicen las instituciones públicas y privadas;
+V. Realizar el seguimiento y evaluar los programas de capacitación que realicen las instituciones públicas y privadas;
 VI. Apoyar el mejor aprovechamiento de las capacidades y recursos que en esta materia poseen las entidades de los sectores público, social y privado, orientando su ejercicio en correspondencia con el Programa Nacional de Capacitación Rural Integral;
 VII. Integrar el Fondo Nacional de Recursos para la Capacitación Rural con los recursos de las entidades integrantes del Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral;
 VIII. Apoyar con recursos para la capacitación a la población campesina; y IX. Las demás atribuciones necesarias para el cumplimiento de los propósitos que le determina esta Ley.
@@ -420,7 +414,7 @@ Fracción reformada DOF 20-06-2018 II. Los organismos del sector agrario;
 III. Un representante del Consejo de Certificación y Normalización de Competencia Laboral;
 IV. Un representante del Consejo Mexicano y otro de los Consejos Estatales;
 V. Representantes de las organizaciones de campesinos y productores de los sectores social y privado, con representación nacional;
-LEY DE DESARROLLO RURAL SUSTENTABLE VI. Los presidentes de los comités de normalización de competencia laboral del sector agropecuario, de desarrollo rural sustentable, pesca y alimentación;
+VI. Los presidentes de los comités de normalización de competencia laboral del sector agropecuario, de desarrollo rural sustentable, pesca y alimentación;
 VII. Representantes de las instituciones educativas y de desarrollo tecnológico agropecuario, agroindustrial y forestal;
 VIII. La representación de las autoridades agropecuarias y desarrollo rural de las Entidades Federativas; y IX. Las instituciones para el fomento de la investigación agropecuaria y forestal a que se refiere el
 
@@ -441,7 +435,7 @@ El Servicio de Capacitación y Asistencia Técnica Rural Integral, establecerá 
 .- Serán materia de asistencia técnica y capacitación:
 I. La transferencia de tecnología sustentable a los productores y demás agentes de la sociedad rural, tanto básica como avanzada;
 II. La aplicación de un esquema que permita el desarrollo sostenido y eficiente de los servicios técnicos, con especial atención para aquellos sectores con mayor rezago;
-III. El desarrollo de unidades de producción demostrativas como instrumentos de capacitación, inducción y administración de riesgos hacia el cambio tecnológico; y IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de campesino a campesino, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando LEY DE DESARROLLO RURAL SUSTENTABLE usos y costumbres, tradición y tecnologías en el caso de los pueblos y comunidades indígenas y afromexicanas.
+III. El desarrollo de unidades de producción demostrativas como instrumentos de capacitación, inducción y administración de riesgos hacia el cambio tecnológico; y IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de campesino a campesino, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando usos y costumbres, tradición y tecnologías en el caso de los pueblos y comunidades indígenas y afromexicanas.
 Fracción reformada DOF 01-04-2024
 
 ## CAPÍTULO IV
@@ -463,7 +457,7 @@ IV. Estimular la producción que implique un elevado potencial en la generación
 V. Reorientar el uso del suelo cuando existan niveles altos de erosión o impacto negativo sobre los ecosistemas;
 VI. Promover la adopción de tecnologías que conserven y mejoren la productividad de las tierras, la biodiversidad y los servicios ambientales;
 VII. Incrementar la productividad en regiones con limitantes naturales para la producción, pero con ventajas comparativas que justifiquen la producción bajo condiciones controladas;
-VIII. Fomentar la producción hacia productos con oportunidades de exportación y generación de divisas, dando prioridad al abastecimiento nacional de productos considerados estratégicos; y LEY DE DESARROLLO RURAL SUSTENTABLE IX. Fomentar la diversificación productiva y contribuir a las prácticas sustentables de las culturas tradicionales.
+VIII. Fomentar la producción hacia productos con oportunidades de exportación y generación de divisas, dando prioridad al abastecimiento nacional de productos considerados estratégicos; y IX. Fomentar la diversificación productiva y contribuir a las prácticas sustentables de las culturas tradicionales.
 
 ### Artículo 56
 .- Se apoyará a los productores y organizaciones económicas para incorporar cambios tecnológicos y de procesos tendientes a:
@@ -488,7 +482,6 @@ En las tierras dictaminadas por la Secretaría de Medio Ambiente y Recursos Natu
 I. La constitución de empresas de carácter colectivo y familiar, o que generen empleos locales;
 II. El establecimiento de convenios entre industrias y los productores primarios de la región para la adquisición de materias primas;
 III. La adopción de tecnologías sustentables ahorradoras de energía; y IV. La modernización de infraestructura y equipo que eleve su competitividad.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ## CAPÍTULO V
 De la Capitalización Rural, Compensaciones y Pagos Directos
@@ -516,7 +509,6 @@ Las utilidades que hubiere, deducidos los costos y los gastos de administración
 
 ### Artículo 66
 .- Sólo se compartirá el riesgo con productores que sean ejidatarios, comuneros, colonos o pequeños propietarios, siempre que se obliguen a cumplir los programas de fomento a que se refiere esta Ley, o acepten los compromisos de alcanzar los índices de productividad que expresamente autorice la Comisión Intersecretarial. En todo caso, se atenderá en primer término a los productores que tengan hasta 10 hectáreas de riego o su equivalente.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 67
 .- El Gobierno Federal, apoyará la capitalización e inversión en el campo con acciones de inversión directa, financiamiento, capital de riesgo, integración de asociaciones en el medio rural y formación de directivos de las empresas sociales y las que contribuyan a la formación de capital humano, social y natural.
@@ -541,7 +533,7 @@ V. La inversión en restauración y mejoramiento de las tierras y servicios ambi
 VI. La adopción de tecnologías sustentables ahorradoras de energía; y VII. Los demás que establezca la Comisión Intersecretarial, con la participación del Consejo Mexicano.
 
 ### Artículo 72
-.- Las previsiones de recursos y disponibilidades presupuestales para un ejercicio fiscal y las proyectadas en un horizonte de mediano plazo, promoverán la producción de bienes y servicios que contribuyan a fortalecer la producción interna y la balanza comercial agroalimentaria, las adecuaciones estructurales a las cadenas productivas, el acceso a alimentos con menor precio, el mejoramiento de las tierras y los servicios ambientales y la reducción de las condiciones de desigualdad entre los productores, LEY DE DESARROLLO RURAL SUSTENTABLE así como los mecanismos que permitan lograr su competitividad en el entorno de la globalización económica.
+.- Las previsiones de recursos y disponibilidades presupuestales para un ejercicio fiscal y las proyectadas en un horizonte de mediano plazo, promoverán la producción de bienes y servicios que contribuyan a fortalecer la producción interna y la balanza comercial agroalimentaria, las adecuaciones estructurales a las cadenas productivas, el acceso a alimentos con menor precio, el mejoramiento de las tierras y los servicios ambientales y la reducción de las condiciones de desigualdad entre los productores, así como los mecanismos que permitan lograr su competitividad en el entorno de la globalización económica.
 
 ### Artículo 73
 .- Mediante la presente Ley, se apoyará a los productores, a través de proyectos productivos financiera y técnicamente viables, a fin de propiciar que cada predio produzca de acuerdo con su aptitud natural y se desplegará una política de fomento al desarrollo rural sustentable que les permita tomar las decisiones de producción que mejor convengan a sus intereses.
@@ -567,7 +559,6 @@ Con tal propósito, la Comisión Intersecretarial propondrá los mecanismos de s
 
 ### Artículo 78
 .- La Comisión Intersecretarial, con la participación del Consejo Mexicano, conocerá de las inconformidades que se presenten en la aplicación de la modalidad de anticipos de mediano y largo plazo previstos por esta Ley y emitirá las opiniones correspondientes.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 79
 .- El Gobierno Federal otorgará, de acuerdo con sus disponibilidades y con los compromisos internacionales adquiridos por el país, apoyos para compensar las desigualdades de los productores nacionales respecto de los productores de los países con los que existen tratados comerciales.
@@ -592,7 +583,7 @@ Para tal fin, concertará con los gobiernos de las entidades federativas y las o
 
 ### Artículo 84
 . El gobierno federal, a través de las dependencias y entidades competentes, en coordinación con los gobiernos de las entidades federativas y con la participación de los productores beneficiarios, promoverá el desarrollo de la electrificación y los caminos rurales y obras de conservación de suelos y agua, considerándolos como elementos básicos para el mejoramiento de las condiciones de vida de los habitantes del medio rural y de la infraestructura productiva del campo.
-Párrafo reformado DOF 18-06-2010 LEY DE DESARROLLO RURAL SUSTENTABLE La infraestructura de comunicación rural buscará abatir los rezagos de aislamiento, incomunicación y deficiencias que las regiones rurales tienen en relación con el resto del país. Para ello, se impulsarán la construcción y mantenimiento de caminos rurales, de sistemas de telecomunicaciones y telefonía rural, de sistemas rurales de transporte de personas y de productos.
+Párrafo reformado DOF 18-06-2010 La infraestructura de comunicación rural buscará abatir los rezagos de aislamiento, incomunicación y deficiencias que las regiones rurales tienen en relación con el resto del país. Para ello, se impulsarán la construcción y mantenimiento de caminos rurales, de sistemas de telecomunicaciones y telefonía rural, de sistemas rurales de transporte de personas y de productos.
 La infraestructura de comunicación rural deberá ser la adecuada a las condiciones geográficas y climatológicas de la zona, así como con la calidad requerida para ser usada por transporte de personas, productos, insumos y maquinaria necesarios para las tareas agrícolas y pecuarias, incidiendo en la producción y en las condiciones de bienestar de la población rural.
 Párrafo adicionado DOF 18-06-2010
 
@@ -609,14 +600,10 @@ Del Incremento de la Productividad y la Formación y Consolidación de Empresas 
 .- Para impulsar la productividad rural, los apoyos a los productores se orientarán a complementar sus capacidades económicas a fin de realizar inversiones para la tecnificación del riego y la reparación y adquisición de equipos e implementos, así como la adquisición de material vegetativo mejorado para su utilización en la producción; la implantación de agricultura bajo condiciones controladas; el desarrollo de plantaciones; la implementación de normas sanitarias y de inocuidad y técnicas de control biológico; el impulso a la ganadería; la adopción de prácticas ecológicamente pertinentes y la conservación de los recursos naturales; así como la contratación de servicios de asistencia técnica y las demás que resulten necesarias para fomentar el desarrollo rural sustentable.
 
 ### Artículo 88
-.- Para impulsar la productividad de la ganadería, los apoyos a los que se refiere este
-
-## Capítulo complementarán la capacidad económica de los productores para realizar inversiones que
-permitan incrementar la disponibilidad de alimento para el ganado, mediante la rehabilitación y el establecimiento de pastizales y praderas, conservación de forrajes; la construcción, rehabilitación y modernización de infraestructura pecuaria; el mejoramiento genético del ganado; la conservación y elevación de la salud animal; la reparación y adquisición de equipos pecuarios; el equipamiento para la producción lechera; la tecnificación de sistemas de reproducción; la contratación de servicios y asistencia técnica; la tecnificación de las unidades productivas mediante la construcción de infraestructura para el manejo del ganado y del agua; y las demás que resulten necesarias para fomentar el desarrollo pecuario.
+.- Para impulsar la productividad de la ganadería, los apoyos a los que se refiere este Capítulo complementarán la capacidad económica de los productores para realizar inversiones que permitan incrementar la disponibilidad de alimento para el ganado, mediante la rehabilitación y el establecimiento de pastizales y praderas, conservación de forrajes; la construcción, rehabilitación y modernización de infraestructura pecuaria; el mejoramiento genético del ganado; la conservación y elevación de la salud animal; la reparación y adquisición de equipos pecuarios; el equipamiento para la producción lechera; la tecnificación de sistemas de reproducción; la contratación de servicios y asistencia técnica; la tecnificación de las unidades productivas mediante la construcción de infraestructura para el manejo del ganado y del agua; y las demás que resulten necesarias para fomentar el desarrollo pecuario.
 
 ### Artículo 89
 .- Para impulsar la formación y consolidación de empresas rurales, los apoyos a los que se refiere este Capítulo complementarán la capacidad económica de los productores para realizar inversiones destinadas a la organización de productores y su constitución en figuras jurídicas, planeación estratégica, capacitación técnica y administrativa, formación y desarrollo empresarial, así como la compra de equipos y maquinaria, el mejoramiento continuo, la incorporación de criterios de calidad y la implantación de sistemas informáticos, entre otras.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 90
 .- El Gobierno Federal, con la participación del Consejo Mexicano, establecerá la vigencia del apoyo al productor, previendo en sus reglas de operación, cuando menos:
@@ -640,7 +627,7 @@ Las acciones y programas que llevarán a cabo las dependencias y entidades compe
 
 ### Artículo 94
 .- Mediante el Servicio Nacional de Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria se garantizará la inspección en puertos y fronteras, para la verificación del cumplimiento de las normas aplicables a los productos vegetales, animales, maderas, embalajes y en general, a cualquier bien de origen animal y vegetal que represente riesgos de interés cuarentenario, biológico o de salud pública, adicionalmente intercambiará información y establecerá la coordinación necesaria con la Secretaría de Hacienda y Crédito Público para evitar el ingreso irregular de productos, dado el riesgo sanitario que representan.
-La Comisión Intersecretarial, con la participación del Consejo Mexicano, con objeto de regionalizar las acciones en materia de sanidad agropecuaria, definirá regiones fitozoosanitarias al interior de las cuales las acciones y programas de sanidad se orientarán a uniformizar la condición sanitaria de la producción, con objeto de facilitar la movilización intrarregional y acreditar las normas y sus avances de aplicación en LEY DE DESARROLLO RURAL SUSTENTABLE el marco de las convenciones internacionales, con base en los criterios de regionalización previstos en ellos.
+La Comisión Intersecretarial, con la participación del Consejo Mexicano, con objeto de regionalizar las acciones en materia de sanidad agropecuaria, definirá regiones fitozoosanitarias al interior de las cuales las acciones y programas de sanidad se orientarán a uniformizar la condición sanitaria de la producción, con objeto de facilitar la movilización intrarregional y acreditar las normas y sus avances de aplicación en el marco de las convenciones internacionales, con base en los criterios de regionalización previstos en ellos.
 Para delimitar las regiones fitozoosanitarias y realizar la inspección de la movilización interregional de los animales, plantas, productos y subproductos agropecuarios, el Gobierno Federal llevará a cabo la instalación de la infraestructura necesaria y su equipamiento, que constituirán los cordones sanitarios de inspección federal.
 
 ### Artículo 95
@@ -663,7 +650,7 @@ De la Normalización e Inspección de los Productos Agropecuarios y del Almacena
 
 ### Artículo 99
 .- El Servicio Nacional de Normalización e Inspección de Productos Agropecuarios y del Almacenamiento, promoverá la elaboración, observancia, inspección y certificación de normas sanitarias y de calidad en lo relativo a la recepción, manejo y almacenamiento de los productos agropecuarios.
-LEY DE DESARROLLO RURAL SUSTENTABLE Además, promoverá la creación de una base de referencia que facilite las transacciones comerciales de físicos y la utilización de instrumentos de financiamiento de cosechas e inventarios.
+Además, promoverá la creación de una base de referencia que facilite las transacciones comerciales de físicos y la utilización de instrumentos de financiamiento de cosechas e inventarios.
 
 ### Artículo 100
 .- Este Servicio promoverá ante las dependencias competentes de la administración pública federal, la expedición de normas oficiales mexicanas y normas mexicanas relativas a la inocuidad en el almacenamiento de los productos y subproductos agropecuarios; las medidas sanitarias que prevengan o erradiquen brotes de enfermedades o plagas, así como las especificaciones para la movilización y operación de redes de frío de los productos agropecuarios.
@@ -687,7 +674,6 @@ De la Comercialización
 
 ### Artículo 104
 .- Se promoverá y apoyará la comercialización agropecuaria y demás bienes y servicios que se realicen en el ámbito de las regiones rurales, mediante esquemas que permitan coordinar los esfuerzos de las diversas dependencias y entidades públicas, de los agentes de la sociedad rural y sus organizaciones económicas, con el fin de lograr una mejor integración de la producción primaria con los procesos de comercialización, acreditando la condición sanitaria, de calidad e inocuidad, el carácter orgánico o sustentable de los productos y procesos productivos y elevando la competitividad de las cadenas productivas, así como impulsar la formación y consolidación de las empresas comercializadoras y de los mercados que a su vez permitan asegurar el abasto interno y aumentar la competitividad del sector, en concordancia con las normas y tratados internacionales aplicables en la materia.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 105
 .- La política de comercialización atenderá los siguientes propósitos:
@@ -711,7 +697,7 @@ IX. Inducir la formación de mecanismos de reconocimiento, en el mercado, de los
 .- El Gobierno Federal promoverá entre los agentes económicos la celebración de convenios y esquemas de producción por contrato mediante la organización de los productores y la canalización de apoyos.
 
 ### Artículo 109
-.- El Estado, a través del Sistema Nacional de Información para el Desarrollo Rural Sustentable, integrará y difundirá la información de mercados regionales, nacionales e internacionales, LEY DE DESARROLLO RURAL SUSTENTABLE relativos a la demanda y la oferta, inventarios existentes, expectativas de producción nacional e internacional y cotizaciones de precios por producto y calidad a fin de facilitar la comercialización.
+.- El Estado, a través del Sistema Nacional de Información para el Desarrollo Rural Sustentable, integrará y difundirá la información de mercados regionales, nacionales e internacionales, relativos a la demanda y la oferta, inventarios existentes, expectativas de producción nacional e internacional y cotizaciones de precios por producto y calidad a fin de facilitar la comercialización.
 Igualmente, mantendrá programas de apoyo y de capacitación para que las organizaciones de productores y comercializadores tengan acceso y desarrollen mercados de físicos y futuros para los productos agropecuarios y forestales.
 
 ### Artículo 110
@@ -728,7 +714,6 @@ La asignación y permanencia de los apoyos para comercialización estarán sujet
 ### Artículo 112
 .- El Gobierno Federal, a través de la Secretaría, determinará el monto y forma de asignar a los productores los apoyos directos, que previamente hayan sido considerados en el programa y presupuesto anual de egresos para el sector; los que, conjuntamente con los apoyos a la comercialización, buscarán la rentabilidad de las actividades agropecuarias y la permanente mejoría de la competitividad e ingreso de los productores.
 Estos apoyos se otorgarán de acuerdo a lo dispuesto en el artículo 188 de este ordenamiento.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 113
 .- En coordinación con los gobiernos de las entidades federativas y con la participación de los productores, la Secretaría fomentará las exportaciones de productos nacionales mediante el acreditamiento de la condición sanitaria, de calidad e inocuidad, su carácter orgánico o sustentable y la implantación de programas que estimulen y apoyen la producción y transformación de productos ofertados por los agentes de la sociedad rural para aprovechar las oportunidades de los mercados internacionales.
@@ -751,7 +736,7 @@ Del Sistema Nacional de Financiamiento Rural
 ### Artículo 116
 .- La política de financiamiento para el desarrollo rural sustentable se orientará a establecer un sistema financiero múltiple en sus modalidades, instrumentos, instituciones y agentes, que permita a los productores de todos los estratos y a sus organizaciones económicas y empresas sociales disponer de recursos financieros adaptados, suficientes, oportunos y accesibles para desarrollar exitosamente sus actividades económicas.
 Tendrán preferencia los pequeños productores y agentes económicos con bajos ingresos, las zonas del país con menor desarrollo económico y social, los proyectos productivos rentables o los que sean altamente generadores de empleo, los que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático, así como la integración y fortalecimiento de la banca social. Serán reconocidas como parte de la banca social, todas aquellas instituciones financieras no públicas, que sin fines de lucro, busquen satisfacer las necesidades de servicios financieros de los agentes de la sociedad rural, en los términos de la legislación aplicable.
-LEY DE DESARROLLO RURAL SUSTENTABLE Párrafo reformado DOF 12-04-2019 La Comisión Intersecretarial, con la participación del Consejo Mexicano, promoverá la integración del Sistema Nacional de Financiamiento Rural con la banca de desarrollo y la banca privada y social, las cuales desarrollarán sus actividades de manera concertada y coordinada.
+Párrafo reformado DOF 12-04-2019 La Comisión Intersecretarial, con la participación del Consejo Mexicano, promoverá la integración del Sistema Nacional de Financiamiento Rural con la banca de desarrollo y la banca privada y social, las cuales desarrollarán sus actividades de manera concertada y coordinada.
 
 ### Artículo 117
 .- Las instituciones del Sistema Nacional de Financiamiento Rural serán autónomas en su gobierno y en sus decisiones respecto de sus políticas internas y establecerán clara y públicamente sus procedimientos y criterios operativos.
@@ -767,7 +752,7 @@ III. Apoyo a la exportación de la producción nacional;
 IV. Fondos para la inversión en infraestructura hidroagrícola y tecnificación de los sistemas de riego;
 V. Fondos para la consolidación de la propiedad rural y la reconversión productiva;
 VI. Inversión para el cumplimiento de regulaciones ambientales y las relativas a la inocuidad de los productos;
-LEY DE DESARROLLO RURAL SUSTENTABLE VII. Apoyos para innovaciones de procesos productivos en el medio rural, tales como cultivos, riegos, cosechas, transformación industrial y sus fases de comercialización; y VIII. Recursos para acciones colaterales que garanticen la recuperación de las inversiones.
+VII. Apoyos para innovaciones de procesos productivos en el medio rural, tales como cultivos, riegos, cosechas, transformación industrial y sus fases de comercialización; y VIII. Recursos para acciones colaterales que garanticen la recuperación de las inversiones.
 
 ### Artículo 119
 .- La Comisión Intersecretarial, con la participación del Consejo Mexicano, definirá mecanismos para favorecer la conexión de la banca social con los programas gubernamentales y las bancas de desarrollo y privada, con el fin de aprovechar tanto las ventajas de la inserción local de la banca social, como las economías de escala de la banca de fomento y la privada. Asimismo, establecerá apoyos especiales a iniciativas financieras locales viables que respondan a las características socioeconómicas y de organización de la población rural, incluyendo:
@@ -785,7 +770,7 @@ V. Mecanismos de refinanciamiento; y VI. Preferencia en el acceso a programas gu
 Con tal fin, realizará las siguientes acciones:
 I. Apoyar la emergencia y consolidación de proyectos locales de financiamiento, ahorro y seguro, bajo criterios de corresponsabilidad, garantía solidaria de los asociados y sostenibilidad financiera, que faciliten el acceso de los productores a tales servicios y a los esquemas institucionales de mayor cobertura;
 II. Apoyar técnica y financieramente a organizaciones económicas de productores, para la creación de sistemas financieros autónomos y descentralizados;
-III. Canalizar apoyos económicos para desarrollar el capital humano y social de los organismos de los productores que conformen esquemas de financiamiento complementarios de la cobertura del sistema financiero institucional; y LEY DE DESARROLLO RURAL SUSTENTABLE IV. Normar y facilitar a los productores el uso financiero de los instrumentos de apoyo directo al ingreso, la productividad y la comercialización, para complementar los procesos de capitalización.
+III. Canalizar apoyos económicos para desarrollar el capital humano y social de los organismos de los productores que conformen esquemas de financiamiento complementarios de la cobertura del sistema financiero institucional; y IV. Normar y facilitar a los productores el uso financiero de los instrumentos de apoyo directo al ingreso, la productividad y la comercialización, para complementar los procesos de capitalización.
 
 ### Artículo 122
 .- La Comisión Intersecretarial, en coordinación con la Secretaría de Hacienda y Crédito Público y con la colaboración de los gobiernos de las entidades federativas, podrá participar en el establecimiento de fondos a fin de apoyar:
@@ -810,7 +795,6 @@ Los apoyos económicos se entregarán prioritariamente por conducto de las organ
 ### Artículo 126
 .- El desarrollo de servicios privados y mutualistas de aseguramiento y cobertura de precios, será orientado por el Gobierno Federal al apoyo de los productores y demás agentes de la sociedad rural en la administración de los riesgos inherentes a las actividades agropecuarias que se realicen en el sector rural.
 El servicio de aseguramiento procurará incluir los instrumentos para la cobertura de riesgos de producción y las contingencias climatológicas y sanitarias, además de complementarse con instrumentos para el manejo de riesgos de paridad cambiaria y de mercado y de pérdidas patrimoniales en caso de desastres naturales, a efecto de proporcionar a los productores mayor capacidad para administrar los riesgos relevantes en la actividad económica del sector.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 127
 .- La Comisión Intersecretarial promoverá, con la participación de los gobiernos de las entidades federativas y de los sectores social y privado, la utilización de instrumentos para la administración de riesgos, tanto de producción como de mercado.
@@ -837,7 +821,6 @@ Los apoyos que se otorguen para la reconversión productiva deberán ser conside
 
 ### Artículo 133
 .- El Gobierno Federal procurará apoyos, que tendrán como propósito compensar al productor y demás agentes de la sociedad rural por desastres naturales en regiones determinadas y eventuales contingencias de mercado, cuyas modalidades y mecanismos de apoyo serán definidos por las diferentes dependencias y órdenes de gobierno participantes del programa especial concurrente.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ## CAPÍTULO XIII
 De la Información Económica y Productiva
@@ -861,7 +844,7 @@ IX. El Consejo Mexicano; y X. Otros participantes que la Comisión Intersecretar
 ### Artículo 136
 .- Será responsabilidad de la Comisión Intersecretarial coordinar los esfuerzos y acopiar y sistematizar información de las dependencias y entidades de los gobiernos federal, estatales y municipales que integren el Sistema Nacional de Información para el Desarrollo Rural Sustentable, considerando la información proveniente de los siguientes tópicos:
 I. La comercialización agropecuaria municipal, regional y estatal;
-LEY DE DESARROLLO RURAL SUSTENTABLE II. Los estudios agropecuarios;
+II. Los estudios agropecuarios;
 III. La comercialización agropecuaria nacional;
 IV. La información de comercio internacional;
 V. La información climatológica, de los recursos naturales, áreas naturales protegidas e hidráulica;
@@ -882,7 +865,7 @@ La Secretaría establecerá en cada distrito de desarrollo rural una unidad de i
 La regionalización comprenderá a las áreas geográficas de los distritos de Desarrollo Rural abarcando uno o más distritos o municipios según sea el caso, dentro del territorio de cada Entidad Federativa, y podrá comprender una delimitación más allá de una entidad bajo convenio del gobierno de los estados de la federación y municipios involucrados.
 
 ### Artículo 140
-.- El Gobierno Federal, en coordinación con las dependencias y entidades de los gobiernos de las entidades federativas y municipales que convergen para el cumplimiento de la presente Ley, elaborará un padrón único de organizaciones y sujetos beneficiarios del sector rural, mediante la LEY DE DESARROLLO RURAL SUSTENTABLE Clave Única de Registro Poblacional (C.U.R.P.) y en su caso, para las personas morales, con la clave del Registro Federal de Contribuyentes (R.F.C.). Este padrón deberá actualizarse cada año y será necesario estar inscrito en él para la operación de los programas e instrumentos de fomento que establece esta Ley.
+.- El Gobierno Federal, en coordinación con las dependencias y entidades de los gobiernos de las entidades federativas y municipales que convergen para el cumplimiento de la presente Ley, elaborará un padrón único de organizaciones y sujetos beneficiarios del sector rural, mediante la Clave Única de Registro Poblacional (C.U.R.P.) y en su caso, para las personas morales, con la clave del Registro Federal de Contribuyentes (R.F.C.). Este padrón deberá actualizarse cada año y será necesario estar inscrito en él para la operación de los programas e instrumentos de fomento que establece esta Ley.
 
 ### Artículo 141
 .- El Gobierno Federal elaborará el padrón de tecnologías, prestadores de servicios, empresas agroalimentarias, y distribuidores de insumos relacionados con el sector rural, así como un catálogo de investigadores e investigaciones rurales en proceso y sus resultados, de conformidad con lo establecido en los artículos 39 y 50.
@@ -906,7 +889,7 @@ VI. Fomento a la elevación de la capacidad de interlocución, gestión y negoci
 .- La organización y asociación económica y social en el medio rural, tanto del sector privado como del social, tendrá las siguientes prioridades:
 I. La participación de los agentes de la sociedad rural en la formulación, diseño e instrumentación de las políticas de fomento del desarrollo rural;
 II. El establecimiento de mecanismos para la concertación y el consenso entre la sociedad rural y los órdenes de Gobierno Federal, estatal y municipal;
-LEY DE DESARROLLO RURAL SUSTENTABLE III. El fortalecimiento de la capacidad de autogestión, negociación y acceso de los productores a los mercados, a los procesos de agregación de valor, a los apoyos y subsidios y a la información económica y productiva;
+III. El fortalecimiento de la capacidad de autogestión, negociación y acceso de los productores a los mercados, a los procesos de agregación de valor, a los apoyos y subsidios y a la información económica y productiva;
 IV. La promoción y articulación de las cadenas de producción-consumo, para lograr una vinculación eficiente y equitativa de la producción entre los agentes económicos participantes en ellas;
 V. La reducción de los costos de intermediación, así como promover el acceso a los servicios, venta de productos y adquisición de insumos;
 VI. El aumento de la cobertura y calidad de los procesos de capacitación productiva, laboral, tecnológica, empresarial y agraria, que estimule y apoye a los productores en el proceso de desarrollo rural, promoviendo la diversificación de las actividades económicas, la constitución y consolidación de empresas rurales y la generación de empleo;
@@ -926,7 +909,7 @@ Para los efectos de lo dispuesto por la Ley de Planeación, la Secretaría promo
 
 ### Artículo 148
 .- El Gobierno Federal apoyará y promoverá la constitución, operación y consolidación de las organizaciones del sector social y privado que participen en las actividades económicas, proyectos productivos y de desarrollo social del medio rural, para lo cual incluirá las previsiones presupuestarias específicas correspondientes en el Presupuesto de Egresos de la Federación.
-LEY DE DESARROLLO RURAL SUSTENTABLE Los apoyos mencionados se sujetarán a las siguientes disposiciones:
+Los apoyos mencionados se sujetarán a las siguientes disposiciones:
 I. Se otorgarán a las organizaciones que estén vigentes y operando, conforme a la legislación aplicable;
 II. Se otorgarán en función de los programas de actividades en sus proyectos productivos y de desarrollo social, evaluados por la instancia gubernamental que corresponda; y III. Las organizaciones en sus diferentes órdenes presentarán, para ser objeto de apoyo, necesidades específicas y programas de actividades en materia de promoción de la asociación de los productores, formación de cuadros técnicos, estudios estratégicos y fortalecimiento y consolidación institucional de la organización, entre otras.
 La Comisión Intersecretarial, con la participación del Consejo Mexicano, formulará las reglas de operación para el otorgamiento de los apoyos, las publicará, emitirá la convocatoria pública a las organizaciones interesadas y, posteriormente, publicará los resultados de la convocatoria.
@@ -941,7 +924,6 @@ V. Participar en la definición de aranceles, cupos y modalidades de importació
 Los Comités Sistema-Producto constituirán mecanismos de planeación, comunicación y concertación permanente entre los actores económicos que forman parte de las cadenas productivas.
 La Comisión Intersecretarial promoverá el funcionamiento de los Sistemas-Producto para la concertación de programas agroindustriales y de desarrollo y expansión de mercados.
 A través de los Comités Sistema-Producto, el Gobierno Federal impulsará modalidades de producción por contrato y asociaciones estratégicas, mediante el desarrollo y adopción, por los participantes, de términos de contratación y convenios conforme a criterios de normalización de la calidad y cotizaciones de referencia.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 150
 .- Se establecerá un Comité Nacional de Sistema-Producto por cada producto básico o estratégico, el cual llevará al Consejo Mexicano los acuerdos tomados en su seno.
@@ -965,7 +947,7 @@ Del Bienestar Social y la Atención Prioritaria a las Zonas de Marginación
 Párrafo reformado DOF 01-04-2024 Para el desarrollo de estos programas, el Ejecutivo Federal mediante convenios con los gobiernos de las entidades federativas y a través de éstos con los municipales, fomentará el Programa Especial Concurrente, conjuntamente con la organización social, para coadyuvar a superar la pobreza, estimular la solidaridad social, el mutualismo y la cooperación. Para los efectos del referido programa, de manera enunciativa y no restrictiva, de acuerdo con las disposiciones constitucionales y la legislación aplicable, se seguirán los lineamientos siguientes:
 I. Las autoridades municipales elaborarán con la periodicidad del caso, su catálogo de necesidades locales y regionales sobre educación, integrando, a través del Consejo Municipal, sus propuestas ante las instancias superiores de decisión. Los órganos locales presentarán proyectos educativos especiales.
 Los proyectos para la atención a grupos marginados, mediante brigadas móviles, escuelas de concentración, internados y albergues regionales, o cualesquiera otras modalidades de atención educativa formal y no formal serán acordes a las circunstancias temporales y a las propias de su entorno, y responderán a criterios de regionalización del medio rural, sus particularidades étnico demográficas y condiciones ambientales, como sociales.
-LEY DE DESARROLLO RURAL SUSTENTABLE De igual manera, se instrumentarán programas extracurriculares para dar especial impulso a la educación cívica, la cultura de la legalidad y el combate efectivo de la ilegalidad y la delincuencia organizada en el medio rural.
+De igual manera, se instrumentarán programas extracurriculares para dar especial impulso a la educación cívica, la cultura de la legalidad y el combate efectivo de la ilegalidad y la delincuencia organizada en el medio rural.
 II. Los programas de alimentación, nutrición y desayunos escolares que aplique el Ejecutivo Federal tendrán como prioridad atender a la población más necesitada, al mismo tiempo que organicen a los propios beneficiarios para la producción, preparación y distribución de dichos servicios.
 Los Consejos Municipales, participarán en la detección de necesidades de profilaxis en salud, de brigadas móviles para la atención sistemática de endemisas y acciones eventuales contra epidemias, integrando el paquete de la región; estableciendo prioridades de clínicas rurales regionales, para su inclusión en el Programa Especial Concurrente.
 III. El Ejecutivo Federal creará el Fondo Nacional de Vivienda Rural para fomentar y financiar acciones para reducir el déficit habitacional en el campo.
@@ -977,7 +959,7 @@ Estará dentro de su esfera de responsabilidad, vigilar y confirmar que los prog
 VI. Las comunidades rurales en general, y especialmente aquellas cuya ubicación presente el catálogo de eventualidades ubicado en el rango de alto riesgo, deberán tener representación y participación directa en las Unidades Municipales de Protección Civil para dar impulso a los programas de protección civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre; lo mismo que proyectar y llevar a cabo la integración y entrenamiento de grupos voluntarios.
 
 ### Artículo 155
-.- En el marco del Programa Especial Concurrente, el Estado promoverá apoyos con prioridad a los grupos vulnerables de las regiones de alta y muy alta marginación caracterizados por sus LEY DE DESARROLLO RURAL SUSTENTABLE condiciones de pobreza extrema. El ser sujeto de estos apoyos, no limita a los productores el acceso a los otros programas que forman parte del Programa Especial Concurrente.
+.- En el marco del Programa Especial Concurrente, el Estado promoverá apoyos con prioridad a los grupos vulnerables de las regiones de alta y muy alta marginación caracterizados por sus condiciones de pobreza extrema. El ser sujeto de estos apoyos, no limita a los productores el acceso a los otros programas que forman parte del Programa Especial Concurrente.
 
 ### Artículo 156
 .- En el marco de las disposiciones establecidas en la Ley Federal del Trabajo y la Ley del Seguro Social, las organizaciones económicas y sociales del medio rural podrán otorgar seguridad social a sus miembros a través de los convenios de incorporación voluntaria que celebren con el Instituto Mexicano del Seguro Social, el cual promoverá programas de incorporación para la población en pobreza extrema dentro del régimen de solidaridad social.
@@ -1001,7 +983,7 @@ I. Impulsar la productividad mediante el acceso a activos, tales como insumos, e
 II. Otorgar apoyos que incrementen el patrimonio productivo de las familias que permitan aumentar la eficiencia del trabajo humano;
 III. Aumentar el acceso a tecnologías productivas apropiadas a las condiciones agroecológicas y socioeconómicas de las unidades, a través del apoyo a la transferencia y adaptación tecnológica;
 IV. Contribuir al aumento de la productividad de los recursos disponibles en especial del capital social y humano, mediante la capacitación, incluyendo la laboral no agropecuaria, el extensionismo, en particular la necesaria para el manejo integral y sostenible de las unidades productivas y la asistencia técnica integral;
-LEY DE DESARROLLO RURAL SUSTENTABLE V. Mejorar la dieta y la economía familiar, mediante apoyos para el incremento y diversificación de la producción de traspatio y autoconsumo;
+V. Mejorar la dieta y la economía familiar, mediante apoyos para el incremento y diversificación de la producción de traspatio y autoconsumo;
 VI. Apoyar el establecimiento y desarrollo de empresas rurales para integrar procesos de industrialización, que permitan dar valor agregado a los productos;
 VII. Mejorar la articulación de la cadena producción-consumo y diversificar las fuentes de ingreso;
 VIII. Promover la diversificación económica con actividades y oportunidades no agropecuarias de carácter manufacturero y de servicios;
@@ -1026,7 +1008,7 @@ Quienes hagan uso productivo de las tierras deberán seleccionar técnicas y cul
 .- De conformidad con lo dispuesto por el artículo anterior, los gobiernos federal, estatales y municipales, cuando así lo convengan, fomentarán el uso del suelo más pertinente de acuerdo con sus características y potencial productivo, así como los procesos de producción más adecuados para la conservación y mejoramiento de las tierras y el agua.
 
 ### Artículo 166
-.- La Comisión Intersecretarial, a través de las dependencias competentes y con la participación del Consejo Mexicano, establecerá las medidas de regulación y fomento conducentes a la LEY DE DESARROLLO RURAL SUSTENTABLE asignación de la carga de ganado adecuada a la capacidad de las tierras de pastoreo y al incremento de su condición, de acuerdo con la tecnología disponible y las recomendaciones técnicas respectivas.
+.- La Comisión Intersecretarial, a través de las dependencias competentes y con la participación del Consejo Mexicano, establecerá las medidas de regulación y fomento conducentes a la asignación de la carga de ganado adecuada a la capacidad de las tierras de pastoreo y al incremento de su condición, de acuerdo con la tecnología disponible y las recomendaciones técnicas respectivas.
 
 ### Artículo 167
 .- Los programas de fomento productivo atenderán el objetivo de reducir los riesgos generados por el uso del fuego y la emisión de contaminantes, ofreciendo a los productores alternativas de producción de mayor potencial productivo y rentabilidad económica y ecológica.
@@ -1054,7 +1036,6 @@ De conformidad con lo establecido en la Ley Forestal, la Secretaría de Medio Am
 ### Artículo 173
 .- En atención al criterio de sustentabilidad, el Estado promoverá la reestructuración de unidades de producción rural en el marco previsto por la legislación agraria, con objeto de que el tamaño de las unidades productivas resultantes permita una explotación rentable mediante la utilización de técnicas productivas adecuadas a la conservación y uso de los recursos naturales, conforme a la aptitud de los suelos y a consideraciones de mercado.
 Los propietarios rurales que opten por realizar lo conducente para la reestructuración de la propiedad agraria y adicionalmente participen en los programas de desarrollo rural, recibirán de manera prioritaria los apoyos previstos en esta Ley dentro de los programas respectivos.
-LEY DE DESARROLLO RURAL SUSTENTABLE
 
 ### Artículo 174
 .- En los procesos de reestructuración de las unidades productivas que se promuevan en cumplimiento de lo dispuesto en este Capítulo, deberán atenderse las determinaciones establecidas en la regulación agraria relacionada con la organización de los núcleos agrarios y los derechos de preferencia y de tanto, en la normatividad de asentamientos humanos, equilibrio ecológico y en general en todo lo que sea aplicable.
@@ -1082,7 +1063,7 @@ De la Seguridad y Soberanía Alimentaria
 I. maíz;
 II. caña de azúcar;
 III. frijol;
-LEY DE DESARROLLO RURAL SUSTENTABLE IV. trigo;
+IV. trigo;
 V. arroz;
 VI. sorgo;
 VII. café;
@@ -1107,7 +1088,7 @@ II. La identificación de los factores de riesgo asociados con los alimentos, pa
 III. La definición de acciones de capacitación y asistencia técnica, y el impulso a proyectos de investigación en las cadenas alimentarias;
 IV. El impulso de acciones para mejorar y certificar la calidad de los alimentos y desarrollar su promoción comercial;
 V. El establecimiento de compromisos de productividad y calidad por parte de los productores, dependiendo del tipo de productos de que se trate, sean los de la dieta básica o los destinados para el mercado internacional;
-LEY DE DESARROLLO RURAL SUSTENTABLE VI. La elaboración y difusión de guías sobre prácticas sustentables en las diferentes etapas de las cadenas agroalimentarias;
+VI. La elaboración y difusión de guías sobre prácticas sustentables en las diferentes etapas de las cadenas agroalimentarias;
 VII. La instrumentación de programas y acciones de protección del medio ambiente para la evaluación de los costos ambientales derivados de las actividades productivas del sector; y VIII. La aplicación de medidas de certidumbre económica, financiera y comercial que garanticen el cumplimiento de los programas productivos agroalimentarios referidos en el artículo 180.
 
 ## CAPÍTULO XVIII
@@ -1125,7 +1106,7 @@ IV. Asesorar jurídicamente a los participantes en los Sistema-Producto, en las 
 V. Promover la creación de unidades de arbitraje para ser acreditadas conforme a la Ley Federal sobre Metrología y Normalización; y VI. Las demás que determinen sus reglas.
 
 ### Artículo 186
-.- La Comisión Intersecretarial apoyará al Servicio Nacional de Arbitraje del Sector Rural para que su cobertura alcance a las regiones con mayores necesidades del servicio y otorgará la aprobación de las unidades de arbitraje en los términos del marco normativo del servicio y de conformidad con la Ley Federal sobre Metrología y Normalización. Igualmente, podrán establecerse juntas LEY DE DESARROLLO RURAL SUSTENTABLE permanentes de arbitraje para Sistemas-Producto en particular, siempre que los gastos que ello origine sean aportados por los intervinientes en la cadena productiva.
+.- La Comisión Intersecretarial apoyará al Servicio Nacional de Arbitraje del Sector Rural para que su cobertura alcance a las regiones con mayores necesidades del servicio y otorgará la aprobación de las unidades de arbitraje en los términos del marco normativo del servicio y de conformidad con la Ley Federal sobre Metrología y Normalización. Igualmente, podrán establecerse juntas permanentes de arbitraje para Sistemas-Producto en particular, siempre que los gastos que ello origine sean aportados por los intervinientes en la cadena productiva.
 La Comisión Intersecretarial, a través de la instancia correspondiente según sea el caso, prestará el servicio de arbitraje para casos o productos específicos, mediante acuerdos que emita al respecto el titular del ramo.
 
 ## TÍTULO CUARTO
@@ -1148,7 +1129,7 @@ Los diversos programas e instrumentos que se requieran para cumplir con los line
 ### Artículo 190
 .- Para los efectos del artículo anterior, y de acuerdo a lo dispuesto por los artículos 24 y 25 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las previsiones presupuestales podrán comprender los siguientes rubros:
 Párrafo reformado DOF 26-05-2011 I. Apoyos para la adquisición de activos privados para la inversión e insumos en las unidades de los propios productores y pagos por empleo temporal aplicados al mejoramiento de sus activos; apoyos para el desarrollo forestal y de plantaciones; y, apoyos directos al campo, en los términos que definan los programas y de acuerdo a lo establecido en esta Ley;
-LEY DE DESARROLLO RURAL SUSTENTABLE II. Apoyos a la comercialización y al financiamiento para cosechas elegibles con problemas de comercialización, a la cobertura de riesgos; para el otorgamiento de crédito por la banca de desarrollo y demás fondos; para el seguro agrícola; y fondos de apoyo a empresas sociales y fondos regionales gubernamentales y no gubernamentales para el combate a la pobreza;
+II. Apoyos a la comercialización y al financiamiento para cosechas elegibles con problemas de comercialización, a la cobertura de riesgos; para el otorgamiento de crédito por la banca de desarrollo y demás fondos; para el seguro agrícola; y fondos de apoyo a empresas sociales y fondos regionales gubernamentales y no gubernamentales para el combate a la pobreza;
 III. Provisión de activos públicos productivos, incluyendo infraestructura básica e hidroagrícola, electrificación y caminos rurales; reforestación; conservación de suelos; rehabilitación de cuencas; así como para la investigación y transferencia de tecnología, programas de asistencia técnica y de sanidad agropecuaria;
 IV. Apoyos a productores en zonas áridas, zonas de marginación y de reconversión, así como a los afectados por contingencias climatológicas; y V. Los estímulos económicos que se otorguen a los productores rurales que desarrollen sus actividades con tecnología de conservación y preservación de los recursos naturales.
 
@@ -1162,98 +1143,214 @@ Para efecto de lo anterior, en las Reglas de Operación de los programas de SAGA
 Párrafo adicionado DOF 22-12-2017 IV. Atención preferente a la demanda, considerando la inducción necesaria para impulsar el cambio propuesto en el marco de la planeación nacional del desarrollo;
 V. La concurrencia de recursos federales, estatales y municipales y de los propios beneficiarios, a fin de asegurar la corresponsabilidad entre el Estado y la sociedad y multiplicar el efecto del gasto público;
 VI. Transparencia; mediante la difusión de las reglas para su acceso y la publicación de los montos y tipo de apoyo por beneficiario;
-LEY DE DESARROLLO RURAL SUSTENTABLE VII. Evaluación y factibilidad en función de su impacto económico y social, la eficiencia en su administración y la pertinencia de las reglas para su otorgamiento; y VIII. Responsabilidad de los productores y de las instituciones respecto a la utilización de los apoyos, conforme al destino de los mismos y a las reglas para su otorgamiento.
-TRANSITORIOS PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
-TERCERO. Se abroga la Ley de Distritos de Desarrollo Rural, publicada en el Diario Oficial de la Federación el 28 de enero de 1988.
-CUARTO. Se abroga la Ley de Fomento Agropecuario publicada en el Diario Oficial de la Federación el 2 de enero de 1981. El Fideicomiso de Riesgo Compartido mantendrá su estructura y funciones en los términos de las disposiciones hasta hoy vigentes, de sus normas constitutivas y las que establece este ordenamiento.
-QUINTO. Se deja sin efecto la Ley de Desarrollo Rural, aprobada por el Honorable Congreso de la Unión el 27 de diciembre de 2000, enviada al Ejecutivo Federal para su promulgación y publicación.
-SEXTO. El Ejecutivo Federal expedirá dentro de los seis meses siguientes a la entrada en vigor de esta Ley, los reglamentos que previene este cuerpo normativo y las demás disposiciones administrativas necesarias. Asimismo, establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento.
-SÉPTIMO. La constitución del Consejo Mexicano para el Desarrollo Rural Sustentable y la integración de la Comisión Intersecretarial para el Desarrollo Rural Sustentable, tendrán un plazo de seis meses a partir de la publicación de esta Ley en el Diario Oficial de la Federación.
-OCTAVO. La constitución de los comités Sistema-Producto, tendrá un plazo de seis meses a partir de la publicación de esta Ley, en el Diario Oficial de la Federación.
-NOVENO. La constitución de los sistemas y servicios previstos en esta Ley, tendrá un plazo de seis meses a partir de la publicación de esta Ley, en el Diario Oficial de la Federación.
-DÉCIMO. El Presidente de la República dispone de seis meses a partir de la entrada en vigor de esta Ley, para formular y publicar el Programa Especial Concurrente para el Desarrollo Rural Sustentable correspondiente al período que concluye con el mandato constitucional de la actual administración federal.
+VII. Evaluación y factibilidad en función de su impacto económico y social, la eficiencia en su administración y la pertinencia de las reglas para su otorgamiento; y VIII. Responsabilidad de los productores y de las instituciones respecto a la utilización de los apoyos, conforme al destino de los mismos y a las reglas para su otorgamiento.
+
+## TRANSITORIOS
+
+**PRIMERO.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+**TERCERO.** Se abroga la Ley de Distritos de Desarrollo Rural, publicada en el Diario Oficial de la Federación el 28 de enero de 1988.
+**CUARTO.** Se abroga la Ley de Fomento Agropecuario publicada en el Diario Oficial de la Federación el 2 de enero de 1981. El Fideicomiso de Riesgo Compartido mantendrá su estructura y funciones en los términos de las disposiciones hasta hoy vigentes, de sus normas constitutivas y las que establece este ordenamiento.
+**QUINTO.** Se deja sin efecto la Ley de Desarrollo Rural, aprobada por el Honorable Congreso de la Unión el 27 de diciembre de 2000, enviada al Ejecutivo Federal para su promulgación y publicación.
+**SEXTO.** El Ejecutivo Federal expedirá dentro de los seis meses siguientes a la entrada en vigor de esta Ley, los reglamentos que previene este cuerpo normativo y las demás disposiciones administrativas necesarias. Asimismo, establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento.
+**SÉPTIMO.** La constitución del Consejo Mexicano para el Desarrollo Rural Sustentable y la integración de la Comisión Intersecretarial para el Desarrollo Rural Sustentable, tendrán un plazo de seis meses a partir de la publicación de esta Ley en el Diario Oficial de la Federación.
+**OCTAVO.** La constitución de los comités Sistema-Producto, tendrá un plazo de seis meses a partir de la publicación de esta Ley, en el Diario Oficial de la Federación.
+**NOVENO.** La constitución de los sistemas y servicios previstos en esta Ley, tendrá un plazo de seis meses a partir de la publicación de esta Ley, en el Diario Oficial de la Federación.
+**DÉCIMO.** El Presidente de la República dispone de seis meses a partir de la entrada en vigor de esta Ley, para formular y publicar el Programa Especial Concurrente para el Desarrollo Rural Sustentable correspondiente al período que concluye con el mandato constitucional de la actual administración federal.
 México, D.F., a 13 de noviembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Martha Silvia Sánchez González, Secretario.Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 2 de febrero de 2007 ARTÍCULO ÚNICO.- Se adiciona un inciso j) al párrafo primero del artículo 21 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ..........
-TRANSITORIO ARTÍCULO ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 2 de febrero de 2007
+
+### ARTÍCULO ÚNICO
+Se adiciona un inciso j) al párrafo primero del artículo 21 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ..........
+
+## TRANSITORIO
+
+
+### ARTÍCULO ÚNICO
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 20 de diciembre de 2006.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de enero de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforma el artículo 37, fracción I; y se adicionan los artículos 33, con un tercer párrafo, 43, con un segundo párrafo, y 44, con una fracción VIII, recorriéndose las subsecuentes, a la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 18 de junio de 2010 ARTÍCULO ÚNICO. Se reforma el artículo 37, fracción I; y se adicionan los artículos 33, con un tercer párrafo, 43, con un segundo párrafo, y 44, con una fracción VIII, recorriéndose las subsecuentes, a la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
-TRANSITORIOS ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el artículo 37, fracción I; y se adicionan los artículos 33, con un tercer párrafo, 43, con un segundo párrafo, y 44, con una fracción VIII, recorriéndose las subsecuentes, a la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 18 de junio de 2010
+
+### ARTÍCULO ÚNICO
+Se reforma el artículo 37, fracción I; y se adicionan los artículos 33, con un tercer párrafo, 43, con un segundo párrafo, y 44, con una fracción VIII, recorriéndose las subsecuentes, a la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
+
+## TRANSITORIOS
+
+**ÚNICO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de abril de 2010.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Maria Dolores del Rio Sanchez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforma el primer párrafo y se adiciona un tercer párrafo al
+DECRETO por el que se reforma el primer párrafo y se adiciona un tercer párrafo al
 
 ### artículo 84
 de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 18 de junio de 2010 ARTÍCULO ÚNICO. Se reforma el primer párrafo y se adiciona un tercer párrafo al artículo 84 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
-TRANSITORIOS ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 18 de junio de 2010
+
+### ARTÍCULO ÚNICO
+Se reforma el primer párrafo y se adiciona un tercer párrafo al artículo 84 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
+
+## TRANSITORIOS
+
+**ÚNICO.-** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de abril de 2010.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Georgina Trujillo Zentella, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforma la fracción I del artículo 5o. de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2010 Artículo Único. Se reforma la fracción I del artículo 5o. de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
-Transitorio Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma la fracción I del artículo 5o. de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2010
+
+### Artículo Único
+Se reforma la fracción I del artículo 5o. de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
+
+## Transitorio
+
+**Único.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 3 de noviembre de 2010.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. María Guadalupe Garcia Almanza, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 8 de diciembre de 2010.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se adiciona un artículo 24 Bis a la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2010 Artículo Único. Se adiciona un artículo 24 Bis a la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
-Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Las erogaciones que, en su caso, deban realizarse a fin de dar cumplimiento al presente Decreto, se sujetarán a los recursos aprobados para tales fines por la Cámara de Diputados, las legislaturas de los Estados, así como la Asamblea Legislativa del Distrito Federal, en sus respectivos presupuestos.
+DECRETO por el que se adiciona un artículo 24 Bis a la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2010
+
+### Artículo Único
+Se adiciona un artículo 24 Bis a la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que, en su caso, deban realizarse a fin de dar cumplimiento al presente Decreto, se sujetarán a los recursos aprobados para tales fines por la Cámara de Diputados, las legislaturas de los Estados, así como la Asamblea Legislativa del Distrito Federal, en sus respectivos presupuestos.
 México, D. F., a 26 de octubre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip.
 Jorge Carlos Ramirez Marin, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Balfre Vargas Cortez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 8 de diciembre de 2010.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforma el artículo 33 de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2010 Artículo Único. Se reforman el primer y segundo párrafos del artículo 33 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
-Transitorio Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el artículo 33 de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2010
+
+### Artículo Único
+Se reforman el primer y segundo párrafos del artículo 33 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
+
+## Transitorio
+
+**Único.** El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 3 de noviembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 8 de diciembre de 2010.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 27 de enero de 2011 Artículo Único.- Se reforma el artículo 20; y se adicionan una fracción XVI al artículo 3o, recorriéndose en su orden las demás fracciones, y una fracción XVIII al artículo 15, recorriéndose en su orden las demás fracciones, a la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
-TRANSITORIO ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 27 de enero de 2011
+
+### Artículo Único
+Se reforma el artículo 20; y se adicionan una fracción XVI al artículo 3o, recorriéndose en su orden las demás fracciones, y una fracción XVIII al artículo 15, recorriéndose en su orden las demás fracciones, a la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
+
+## TRANSITORIO
+
+**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 28 de septiembre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip.
 Jorge Carlos Ramírez Marin, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip.
 Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se adiciona un artículo 115 Bis a la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 28 de enero de 2011 Artículo Único.- Se adiciona un artículo 115 Bis a la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
-TRANSITORIOS ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-ARTÍCULO SEGUNDO.- El Gobierno Federal conformará el Padrón de Comercializadores dentro de los 180 días siguientes a la publicación del presente decreto en el Diario Oficial de la Federación.
-ARTÍCULO TERCERO.- La integración, administración y actualización del Padrón de Comercializadores Confiables, se llevarán a cabo a través de las unidades administrativas ya existentes a partir de la entrada en vigor del presente Decreto y con los recursos presupuestales autorizados para tal efecto, en el Presupuesto de Egresos de la Federación correspondiente.
+DECRETO por el que se adiciona un artículo 115 Bis a la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
+
+### Artículo Único
+Se adiciona un artículo 115 Bis a la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
+
+## TRANSITORIOS
+
+
+### ARTÍCULO PRIMERO
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### ARTÍCULO SEGUNDO
+El Gobierno Federal conformará el Padrón de Comercializadores dentro de los 180 días siguientes a la publicación del presente decreto en el Diario Oficial de la Federación.
+
+### ARTÍCULO TERCERO
+La integración, administración y actualización del Padrón de Comercializadores Confiables, se llevarán a cabo a través de las unidades administrativas ya existentes a partir de la entrada en vigor del presente Decreto y con los recursos presupuestales autorizados para tal efecto, en el Presupuesto de Egresos de la Federación correspondiente.
 México, D.F., a 9 de diciembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforma el artículo 190 de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 26 de mayo de 2011 Artículo Único.- Se reforma el artículo 190 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
-Transitorio Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el artículo 190 de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 26 de mayo de 2011
+
+### Artículo Único
+Se reforma el artículo 190 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 15 de febrero de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 23 de mayo de 2011.Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se adiciona el párrafo cuarto al artículo 25 de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 12 de enero de 2012 ARTÍCULO ÚNICO.- Se adiciona el párrafo cuarto al artículo 25 de la Ley de Desarrollo Rural Sustentable y se recorren los subsecuentes, para quedar como sigue: ……….
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se adiciona el párrafo cuarto al artículo 25 de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 12 de enero de 2012
+
+### ARTÍCULO ÚNICO
+Se adiciona el párrafo cuarto al artículo 25 de la Ley de Desarrollo Rural Sustentable y se recorren los subsecuentes, para quedar como sigue: ……….
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 6 de diciembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Laura Arizmendi Campos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforman y adicionan los artículos 3o., 143, 145 y 191 de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 22 de diciembre de 2017 Artículo Único.- Se reforman los artículos 143, primer párrafo y 145; se adiciona una fracción XIX Bis al artículo 3o., y un segundo párrafo a la fracción III del artículo 191 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……… TRANSITORIO Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman y adicionan los artículos 3o., 143, 145 y 191 de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 22 de diciembre de 2017
+
+### Artículo Único
+Se reforman los artículos 143, primer párrafo y 145; se adiciona una fracción XIX Bis al artículo 3o., y un segundo párrafo a la fracción III del artículo 191 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ………
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 9 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de diciembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforma el inciso h) del párrafo primero del artículo 21 y la fracción I del artículo 48 de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 20 de junio de 2018 Artículo Único.- Se reforman el inciso h) del párrafo primero del artículo 21 y la fracción I del artículo 48 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……..
-Transitorio Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el inciso h) del párrafo primero del artículo 21 y la fracción I del artículo 48 de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 20 de junio de 2018
+
+### Artículo Único
+Se reforman el inciso h) del párrafo primero del artículo 21 y la fracción I del artículo 48 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 19 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforma el segundo párrafo del artículo 116 de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 12 de abril de 2019 Artículo Único. Se reforma el segundo párrafo del artículo 116 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
-Transitorio Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el segundo párrafo del artículo 116 de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
+
+### Artículo Único
+Se reforma el segundo párrafo del artículo 116 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……….
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 5 de marzo de 2019.- Sen. Marti Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vazquez Alatorre, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforma el artículo 3o. de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 7 de enero de 2021 Artículo Único.- Se reforma la fracción I del artículo 3o. de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……..
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el artículo 3o. de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 7 de enero de 2021
+
+### Artículo Único
+Se reforma la fracción I del artículo 3o. de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 19 de noviembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforma el artículo 182 de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 3 de junio de 2021 Artículo Único. Se reforma el artículo 182 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el artículo 182 de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 3 de junio de 2021
+
+### Artículo Único
+Se reforma el artículo 182 de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 28 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
-Publicado en el Diario Oficial de la Federación el 1 de abril de 2024 Artículo Vigésimo Sexto.- Se reforman los artículos 15, fracción XII; 52, fracción IV; 56, fracción V; 154, primer párrafo; 175, primer párrafo y 176, de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……..
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
+Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
+
+### Artículo Vigésimo Sexto
+Se reforman los artículos 15, fracción XII; 52, fracción IV; 56, fracción V; 154, primer párrafo; 175, primer párrafo y 176, de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-LEY DE DESARROLLO RURAL SUSTENTABLE DECRETO por el que se reforman y adicionan los artículos 3o.; 6o. y 32 de la Ley de Desarrollo Rural Sustentable.
-Publicado en el Diario Oficial de la Federación el 7 de junio de 2024 Artículo Único.- Se reforman los artículos 3o., fracción III, y 32, fracciones VII, X y XI; y se adiciona un segundo párrafo, recorriéndose los subsecuentes, al artículo 6o. de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+DECRETO por el que se reforman y adicionan los artículos 3o.; 6o. y 32 de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
+
+### Artículo Único
+Se reforman los artículos 3o., fracción III, y 32, fracciones VII, X y XI; y se adiciona un
+**segundo.** párrafo, recorriéndose los subsecuentes, al artículo 6o. de la Ley de Desarrollo Rural Sustentable, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan las disposiciones que se opongan al presente Decreto.
 Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.

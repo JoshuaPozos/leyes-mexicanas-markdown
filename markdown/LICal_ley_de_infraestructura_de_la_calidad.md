@@ -5,11 +5,13 @@
 
 ---
 
-LEY DE INFRAESTRUCTURA DE LA CALIDAD LEY DE INFRAESTRUCTURA DE LA CALIDAD TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 1 de julio de 2020 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 1 de julio de 2020 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión se ha servido dirigirme el siguiente DECRETO “EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-SE EXPIDE LA LEY DE INFRAESTRUCTURA DE LA CALIDAD Y SE ABROGA LA LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN.
-Artículo Único. Se expide la Ley de Infraestructura de la Calidad para quedar como sigue:
+SE EXPIDE LA   Y SE ABROGA LA LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN.
+
+### Artículo Único
+Se expide la Ley de Infraestructura de la Calidad para quedar como sigue:
 LIBRO PRIMERO DEL SISTEMA NACIONAL DE INFRAESTRUCTURA DE LA CALIDAD TÍTULO PRIMERO DISPOSICIONES PRELIMINARES
 
 ## Capítulo I
@@ -19,7 +21,7 @@ Objeto de la Ley y Atribuciones de las Autoridades
 . La presente Ley es de orden público e interés social y sus disposiciones son de observancia general y obligatoria en todo el territorio nacional, sin perjuicio de lo dispuesto en los tratados internacionales de los que los Estados Unidos Mexicanos sean parte. Esta Ley tiene por objeto fijar y desarrollar las bases de la política industrial en el ámbito del Sistema Nacional de Infraestructura de la Calidad, a través de las actividades de normalización, estandarización, acreditación, Evaluación de la Conformidad y metrología, promoviendo el desarrollo económico y la calidad en la producción de bienes y servicios, a fin de ampliar la capacidad productiva y el mejoramiento continuo en las cadenas de valor, fomentar el comercio internacional y proteger los objetivos legítimos de interés público previstos en este ordenamiento. Asimismo, esta Ley tiene como finalidad:
 I. Promover la concurrencia de los sectores público, social y privado en la elaboración y observancia de las Normas Oficiales Mexicanas y los Estándares;
 II. Establecer mecanismos de coordinación y colaboración en materia de normalización, Evaluación de la Conformidad y metrología entre las Autoridades Normalizadoras, el Centro Nacional de Metrología, los Institutos Designados de Metrología, los organismos de acreditación y organismos de evaluación de la conformidad, las entidades locales y municipales, así como los sectores social y privado;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD III. Propiciar la innovación tecnológica en los bienes, productos, procesos y servicios para mejorar la calidad de vida de las personas en todo el territorio nacional;
+III. Propiciar la innovación tecnológica en los bienes, productos, procesos y servicios para mejorar la calidad de vida de las personas en todo el territorio nacional;
 IV. Impulsar la creación de mayor infraestructura física y digital para el adecuado desarrollo de las actividades de Evaluación de la Conformidad;
 V. En materia de metrología, establecer y mantener el Sistema General de Unidades de Medida, crear los Institutos Designados de Metrología, y establecer lo referente a la metrología científica, metrología legal y la metrología aplicada o industria, y VI. Fomentar y difundir las actividades de normalización, estandarización, acreditación, Evaluación de la Conformidad y metrología.
 
@@ -34,7 +36,7 @@ VI. Participar en los trabajos que realicen los Comités Consultivos Nacionales 
 VII. Ejecutar por conducto del Secretariado Ejecutivo de la Comisión las resoluciones de la misma, así como interpretarlas para efectos administrativos, buscando optimizar el funcionamiento armónico del Sistema Nacional de Infraestructura de la Calidad;
 VIII. Conducir la integración del Programa a través del Secretariado Ejecutivo de la Comisión;
 IX. Presidir, coordinar y representar a los Comités Mexicanos, en materia de normalización, estandarización y Evaluación de la Conformidad y representar al país en todos los eventos o asuntos relacionados a nivel internacional, sin perjuicio de que en dicha representación y conforme a sus atribuciones participen otras dependencias y entidades competentes, en coordinación con la propia Secretaría, así como representantes de organismos públicos y privados;
-X. Concertar los acuerdos de equivalencia, con la participación que corresponda a las Autoridades Normalizadoras según su competencia. Asimismo, concertar en el ámbito de su competencia LEY DE INFRAESTRUCTURA DE LA CALIDAD los acuerdos de reconocimiento mutuo o aprobar la celebración de esos acuerdos o arreglos por parte de otras Autoridades Normalizadoras, Entidades de Acreditación u Organismos de Evaluación de la Conformidad, según corresponda;
+X. Concertar los acuerdos de equivalencia, con la participación que corresponda a las Autoridades Normalizadoras según su competencia. Asimismo, concertar en el ámbito de su competencia los acuerdos de reconocimiento mutuo o aprobar la celebración de esos acuerdos o arreglos por parte de otras Autoridades Normalizadoras, Entidades de Acreditación u Organismos de Evaluación de la Conformidad, según corresponda;
 XI. Difundir los acuerdos de equivalencia y los acuerdos de reconocimiento mutuo;
 XII. Participar en el ámbito de su competencia, así como opinar sobre la elaboración de las Normas Internacionales;
 XIII. Notificar a los organismos internacionales correspondientes las Normas Oficiales Mexicanas, los Estándares y los proyectos de Normas Oficiales Mexicanas, así como los procedimientos de Evaluación de la Conformidad, conforme a los acuerdos y tratados internacionales de los que los Estados Unidos Mexicanos sea parte, para lo cual, las Autoridades Normalizadoras deberán proporcionar a la Secretaría la información necesaria;
@@ -47,7 +49,7 @@ I. Propiciar procesos imparciales con base en evidencia técnica, científica, a
 II. Utilizar la Plataforma Tecnológica Integral de Infraestructura de la Calidad, en la digitalización de los procesos de normalización, estandarización, Evaluación de la Conformidad y metrología;
 III. Compartir con la Secretaría todos los datos e información con los que cuenten en materia de normalización, estandarización, Evaluación de la Conformidad y metrología;
 IV. Concertar con las instituciones de enseñanza, asociaciones, colegios de profesionales, Cámaras y sus Confederaciones, para constituir programas y planes de estudio y capacitación con objeto de formar técnicos y profesionales calificados y promover las actividades a que se refiere esta Ley;
-Las autoridades a cargo del sistema educativo nacional, en los términos que señalen las leyes y atendiendo a las características propias de los tipos y niveles educativos, incluirán en sus LEY DE INFRAESTRUCTURA DE LA CALIDAD programas de estudio la enseñanza del Sistema Nacional de Infraestructura de la Calidad, así como el uso del Sistema General de Unidades de Medida.
+Las autoridades a cargo del sistema educativo nacional, en los términos que señalen las leyes y atendiendo a las características propias de los tipos y niveles educativos, incluirán en sus programas de estudio la enseñanza del Sistema Nacional de Infraestructura de la Calidad, así como el uso del Sistema General de Unidades de Medida.
 V. Coordinarse en los casos que proceda, con las demás dependencias y autoridades federales, estatales o municipales en el ámbito de su competencia;
 VI. Contribuir a la integración del Programa con las propuestas de Normas Oficiales Mexicanas y Estándares en el ámbito de su competencia, así como ejecutar las acciones correspondientes para dar cumplimiento al Programa;
 VII. Constituir y presidir los Comités Consultivos Nacionales de Normalización, así como instaurar y coordinar los subcomités y grupos de trabajo;
@@ -61,7 +63,7 @@ XIV. Aprobar a los Organismos de Evaluación de la Conformidad, cuando se requie
 XV. En materia de normalización y Evaluación de la Conformidad, participar en todos los eventos o asuntos relacionados a nivel internacional, en coordinación con la Secretaría;
 XVI. Concertar, en el ámbito de su competencia, los acuerdos de reconocimiento mutuo y, en su caso, emitir la opinión correspondiente;
 XVII. Participar, en el ámbito de su competencia, en la elaboración de las Normas Internacionales;
-XVIII. A solicitud de la Secretaría, opinar sobre las Normas Internacionales; y LEY DE INFRAESTRUCTURA DE LA CALIDAD XIX. Observar e implementar el Código de Buena Conducta para la elaboración, adopción y aplicación de Normas, del Acuerdo sobre Obstáculos Técnicos al Comercio de la Organización Mundial del Comercio.
+XVIII. A solicitud de la Secretaría, opinar sobre las Normas Internacionales; y XIX. Observar e implementar el Código de Buena Conducta para la elaboración, adopción y aplicación de Normas, del Acuerdo sobre Obstáculos Técnicos al Comercio de la Organización Mundial del Comercio.
 
 ## Capítulo II
 Definiciones y Principios de esta Ley
@@ -77,7 +79,7 @@ VI. Autoridad Normalizadora: a las dependencias o entidades competentes de la Ad
 VII. Comisión: a la Comisión Nacional de Infraestructura de la Calidad.
 VIII. Comités Mexicanos: a los comités creados por la Comisión a solicitud de la Secretaría o de las Autoridades Normalizadoras para la atención de organismos internacionales de normalización. Los Comités Mexicanos deberán estar integrados por los diversos sectores interesados de acuerdo con lo previsto en el Reglamento de esta Ley.
 IX. Entidades de Acreditación: a las personas morales debidamente autorizadas por la Secretaría para conocer, tramitar y resolver las solicitudes de Acreditación y, en su caso, emitir las Acreditaciones a favor de aquéllos que pretendan operar como Organismos de Evaluación de la Conformidad.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD X. Estándar: al documento técnico que prevé un uso común y repetido de reglas, especificaciones, atributos o métodos de prueba aplicables a un bien, producto, proceso o servicio, así como aquéllas relativas a terminología, simbología, embalaje, marcado, etiquetado o concordaciones.
+X. Estándar: al documento técnico que prevé un uso común y repetido de reglas, especificaciones, atributos o métodos de prueba aplicables a un bien, producto, proceso o servicio, así como aquéllas relativas a terminología, simbología, embalaje, marcado, etiquetado o concordaciones.
 XI. Evaluación de la Conformidad: al proceso técnico que permite demostrar el cumplimiento con las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales. Comprende, entre otros, los procedimientos de muestreo, prueba, inspección, evaluación y certificación.
 XII. Infraestructura de la Calidad: es el conjunto de iniciativas, procesos, instituciones, autoridades normalizadoras, organizaciones, actividades y personas que interactúan entre sí.
 Incluye una política nacional de calidad, un marco regulatorio y todos los sectores interesados que tiene como finalidad proporcionar resultados que garanticen los objetivos legítimos de interés público e impulsen el desarrollo y reactivación económica del país.
@@ -88,7 +90,7 @@ XVI. Norma Oficial Mexicana: a la regulación técnica de observancia obligatori
 XVII. Organismos de Evaluación de la Conformidad: a la persona acreditada por una Entidad de Acreditación o en su caso, por la Autoridad Normalizadora y, cuando se trate de Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales; en caso de que la acreditación sea realizada por una Entidad de Acreditación el Organismo deberá ser aprobado por la Autoridad Normalizadora competente, para llevar a cabo la Evaluación de la Conformidad.
 XVIII. Plataforma Tecnológica Integral de Infraestructura de la Calidad: a la solución digital donde se administrarán y ejecutarán de manera sistematizada los datos, procesos, trámites, servicios y actividades de normalización, estandarización, Evaluación de la Conformidad y metrología.
 XIX. Programa: al Programa Nacional de Infraestructura de la Calidad aprobado por la Comisión.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD XX. Procedimiento de Evaluación de la Conformidad: al conjunto de acciones especificadas que tienen por objeto comprobar que el bien, producto, proceso o servicio cumple con una Norma Oficial Mexicana o Estándar, a través de los medios que para ello se definan en esta Ley y en su Reglamento.
+XX. Procedimiento de Evaluación de la Conformidad: al conjunto de acciones especificadas que tienen por objeto comprobar que el bien, producto, proceso o servicio cumple con una Norma Oficial Mexicana o Estándar, a través de los medios que para ello se definan en esta Ley y en su Reglamento.
 XXI. Secretaría: a la Secretaría de Economía.
 XXII. Sistema Nacional de Infraestructura de la Calidad: al sistema que tiene por objeto coordinar a las autoridades de todos los órdenes de gobierno en sus respectivos ámbitos de competencia, a las Autoridades Normalizadoras, al Centro Nacional de Metrología, a los Institutos Designados de Metrología, a las Entidades de Acreditación, a los Organismos de Evaluación de la Conformidad, a los Organismos Nacionales de Estandarización y a los sujetos facultados para estandarizar, a través de regulaciones, estrategias y principios para que la política nacional en materia de normalización, estandarización, Evaluación de la Conformidad y metrología, que fomente la calidad y el desarrollo económico.
 XXIII. Sistema General de Unidades de Medida: al sistema que se integra, entre otros, con las unidades del Sistema Internacional de Unidades, sus nombres y símbolos, incluyendo una serie de prefijos con sus nombres y símbolos, junto con reglas para su uso, adoptados por la Conferencia General de Pesas y Medidas y que se prevean en Normas Oficiales Mexicanas y en los Estándares en ellas referidos.
@@ -102,7 +104,7 @@ La Secretaría, en coordinación con el Centro Nacional de Metrología, publicar
 . El Sistema Nacional de Infraestructura de la Calidad, se sustenta en los siguientes principios generales:
 I. Planeación. Las actividades de normalización deben estar alineadas a las políticas públicas derivadas del Sistema Nacional de Planeación Democrática.
 II. Transparencia. Los procesos de elaboración y aplicación de las Normas Oficiales Mexicanas y los Estándares deben ser abiertos y accesibles a todos los sectores económicos y sociales.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD III. Integridad. Se debe evitar la presencia de conflictos de intereses en la actuación de las Autoridades Normalizadoras, los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar, las Entidades de Acreditación, los Organismos de Evaluación de la Conformidad, el Centro Nacional de Metrología y los Institutos Designados de Metrología.
+III. Integridad. Se debe evitar la presencia de conflictos de intereses en la actuación de las Autoridades Normalizadoras, los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar, las Entidades de Acreditación, los Organismos de Evaluación de la Conformidad, el Centro Nacional de Metrología y los Institutos Designados de Metrología.
 IV. Certidumbre. Los integrantes del Sistema Nacional de Infraestructura de la Calidad deben actuar en estricto apego a las disposiciones legales aplicables.
 V. Eficiencia. Se deben optimizar los recursos relativos a las actividades de normalización, estandarización, Evaluación de la Conformidad y metrología, así como simplificar los procesos en su gestión y tiempo de ejecución.
 VI. Agilidad. Los procedimientos en la elaboración, revisión y cancelación de Normas Oficiales Mexicanas y Estándares deben efectuarse de manera pronta y expedita y, para el caso de las Normas Oficiales Mexicanas, buscando una atención óptima a los objetivos legítimos de interés público previstos en esta Ley, así como favorecer los avances tecnológicos y cumplir con los fines de la presente Ley.
@@ -113,7 +115,6 @@ X. Coherencia. Las Normas Oficiales Mexicanas y los Estándares serán armónico
 XI. Sostenibilidad. Las actividades de normalización, estandarización, acreditación, evaluación de la conformidad y metrología se basan en el desarrollo sostenible, teniendo presente un impacto positivo en los sectores económicos e industriales del país.
 XII. Trazabilidad de las mediciones. Asegurar que la trazabilidad de las mediciones que se realicen en el país, se origine en los patrones nacionales de medida y en los materiales de referencia certificados, con el propósito de asegurar la confiabilidad y la uniformidad de las mediciones, así como la comparabilidad de las mismas. Requiere el establecimiento de una cadena ininterrumpida de calibraciones con patrones de medición y con incertidumbre de medición determinada.
 XIII. Inclusión. Al desarrollar actividades de normalización, estandarización, evaluación de la conformidad, acreditación y metrología, los integrantes del Sistema Nacional de Infraestructura de la Calidad, deberán observar las disposiciones en materia de igualdad sustantiva e inclusión para efectuar ajustes razonables y acciones afirmativas en favor de las personas con discapacidad.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD
 
 ## Capítulo III
 Aplicación y Métodos de Interpretación
@@ -142,7 +143,7 @@ Para efectos de esta Ley, se consideran como objetivos legítimos de interés p�
 I. la protección y promoción a la salud;
 II. la protección a la integridad física, a la salud, y a la vida de los trabajadores en los centros de trabajo;
 III. la protección a la producción orgánica, de organismos genéticamente modificados, sanidad e inocuidad agroalimentaria, acuícola, pesquera, animal y vegetal;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD IV. la seguridad alimentaria;
+IV. la seguridad alimentaria;
 V. la educación y cultura;
 VI. los servicios turísticos;
 VII. la seguridad nacional;
@@ -165,7 +166,7 @@ Régimen Internacional de la Normalización y de la Evaluación de la Conformida
 ### Artículo 12
 . Las actividades que realicen las Autoridades Normalizadoras en materia de normalización y Evaluación de la Conformidad y los Organismos Nacionales de Estandarización y Sujetos facultados para estandarizar deberán fomentar la armonización con modelos, principios y mejores prácticas internacionales. Para tal efecto, se deberá cumplir con lo siguiente:
 Las Normas Oficiales Mexicanas, los Estándares, incluyendo sus Procedimientos de Evaluación de la Conformidad, deberán sustentarse en Normas Internacionales o partes pertinentes de ellas, salvo que ello no sea eficaz o apropiado para alcanzar los objetivos buscados por el Estado Mexicano.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD En el caso de las Normas Oficiales Mexicanas que constituyan Medidas Sanitarias o Fitosanitarias en los términos de los tratados internacionales de los que el Estado Mexicano es Parte, las Autoridades Normalizadoras solo podrán establecer un nivel de protección más elevado que el que se lograría mediante medidas basadas en las Normas Internacionales, si existe justificación científica o si ello es consecuencia del nivel de protección adecuado de conformidad con el análisis de riesgo respectivo realizado en forma compatible con los tratados internacionales de los que el Estado Mexicano es Parte.
+En el caso de las Normas Oficiales Mexicanas que constituyan Medidas Sanitarias o Fitosanitarias en los términos de los tratados internacionales de los que el Estado Mexicano es Parte, las Autoridades Normalizadoras solo podrán establecer un nivel de protección más elevado que el que se lograría mediante medidas basadas en las Normas Internacionales, si existe justificación científica o si ello es consecuencia del nivel de protección adecuado de conformidad con el análisis de riesgo respectivo realizado en forma compatible con los tratados internacionales de los que el Estado Mexicano es Parte.
 Deberá brindarse un trato no menos favorable a productos importados que el otorgado a productos similares de origen nacional u originarios de cualquier otro país.
 Para el caso específico de Normas Oficiales Mexicanas y los Estándares relativos a prescripciones para los productos, éstas serán definidas en función de las propiedades de uso y empleo y no en función del diseño o características descriptivas.
 
@@ -190,7 +191,7 @@ De la Comisión Sección Primera De su Integración y Atribuciones
 ### Artículo 16
 . La Comisión es un órgano colegiado presidido por la persona titular de la Secretaría y es la instancia responsable de dirigir y coordinar las actividades en materia de normalización, estandarización, evaluación de la conformidad y metrología.
 La Comisión está conformada por:
-LEY DE INFRAESTRUCTURA DE LA CALIDAD I. Las personas titulares de las Subsecretarías correspondientes de las Secretarías de Gobernación, Seguridad y Protección Ciudadana, Hacienda y Crédito Público, Bienestar, Medio Ambiente y Recursos Naturales, Energía, Economía, Agricultura y Desarrollo Rural, Comunicaciones y Transportes, Educación Pública, Salud, Trabajo y Previsión Social, Desarrollo Agrario, Territorial y Urbano, Turismo y Marina, o las que las sustituyan, así como otras dependencias que tengan competencia en materia de normalización, según esa competencia sea reconocida por la propia Comisión;
+I. Las personas titulares de las Subsecretarías correspondientes de las Secretarías de Gobernación, Seguridad y Protección Ciudadana, Hacienda y Crédito Público, Bienestar, Medio Ambiente y Recursos Naturales, Energía, Economía, Agricultura y Desarrollo Rural, Comunicaciones y Transportes, Educación Pública, Salud, Trabajo y Previsión Social, Desarrollo Agrario, Territorial y Urbano, Turismo y Marina, o las que las sustituyan, así como otras dependencias que tengan competencia en materia de normalización, según esa competencia sea reconocida por la propia Comisión;
 II. Las personas que presidan la Comisión Reguladora de Energía, la Comisión Nacional de Hidrocarburos, la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, la Comisión Federal para la Protección contra Riesgos Sanitarios, el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, la Procuraduría Federal del Consumidor, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional del Agua, la Agencia Federal de Aviación Civil, la Agencia Reguladora de Transporte Ferroviario, la Comisión Nacional de Seguridad Nuclear y Salvaguardias, al Comisión Nacional para el Uso Eficiente de la Energía, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, el Consejo Nacional de Normalización y Certificación de Competencias Laborales, o las que las sustituyan, así como de otros organismos que tengan competencia en materia de normalización, según esa competencia sea reconocida por la propia Comisión;
 III. Las personas titulares de las Direcciones Generales, o su equivalente del Consejo Nacional de Ciencia y Tecnología, del Centro Nacional de Metrología y de los Institutos Designados de Metrología, o los que los sustituyan;
 IV. Representantes de las cámaras y confederaciones así como, asociaciones de industriales y comerciales del país constituidas en el marco de la Ley de Cámaras Empresariales y sus Confederaciones, que serán elegidos de acuerdo con lo previsto en el Reglamento de la Ley;
@@ -204,7 +205,7 @@ II. Un Consejo Técnico, y III. Un Secretariado Ejecutivo.
 
 ### Artículo 18
 . Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, la Comisión tiene las siguientes atribuciones:
-LEY DE INFRAESTRUCTURA DE LA CALIDAD I. Dirigir y coordinar el Sistema Nacional de Infraestructura de la Calidad;
+I. Dirigir y coordinar el Sistema Nacional de Infraestructura de la Calidad;
 II. Revisar, analizar y aprobar anualmente el Programa, su suplemento, y vigilar su cumplimiento;
 III. Establecer directrices, estrategias y otras medidas para promover y difundir la infraestructura de la calidad, mejorar y modernizar la elaboración de Normas Oficiales Mexicanas y Estándares, así como para fomentar su cumplimiento;
 IV. Autorizar la creación de los Comités Consultivos Nacionales de Normalización a propuesta de las Autoridades Normalizadoras;
@@ -221,7 +222,7 @@ XIV. Promover la evaluación de Normas Oficiales Mexicanas vigentes, conforme a 
 XV. Instruir al Secretariado Ejecutivo para que elabore un informe anual de las actividades de la Comisión;
 XVI. Promover el uso de principios, metodologías, instrumentos, programas, criterios y herramientas acordes a las buenas prácticas nacionales e internacionales en materia de infraestructura de la calidad;
 XVII. Expedir su propio reglamento interior, y XVIII. Todas aquéllas que sean necesarias para la realización de los objetivos de la presente Ley.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD En el caso de las fracciones II, VI, VII, VIII, XIII y XVII del presente artículo, las resoluciones se tomarán exclusivamente por la mayoría simple de los votos de los miembros a que se refiere la fracción I del artículo 16 de esta Ley. En los demás casos, por la mayoría simple de todos los miembros presentes.
+En el caso de las fracciones II, VI, VII, VIII, XIII y XVII del presente artículo, las resoluciones se tomarán exclusivamente por la mayoría simple de los votos de los miembros a que se refiere la fracción I del artículo 16 de esta Ley. En los demás casos, por la mayoría simple de todos los miembros presentes.
 En todos los casos en que exista empate en las votaciones, el Presidente de la Comisión tendrá voto de calidad.
 
 ### Artículo 19
@@ -239,7 +240,7 @@ Sección Segunda Del Consejo Técnico
 ### Artículo 21
 . El Consejo Técnico es el órgano auxiliar de carácter consultivo de la Comisión, encargado de analizar, elaborar y proponer soluciones a los asuntos que le sean encomendados o delegados por el Presidente de la Comisión. Su integración, organización y funcionamiento se precisarán en el Reglamento.
 Para el óptimo desempeño de sus funciones consultivas, el Consejo Técnico podrá integrar grupos de trabajo con el fin de atender los temas específicos que le encomiende o delegue el Presidente de la Comisión.
-Sección Tercera Del Secretariado Ejecutivo LEY DE INFRAESTRUCTURA DE LA CALIDAD
+Sección Tercera Del Secretariado Ejecutivo
 
 ### Artículo 22
 . El Secretariado Ejecutivo de la Comisión es la instancia coordinadora del Sistema Nacional de Infraestructura de la Calidad, y será quien ejecute las determinaciones de la Comisión. Sus funciones serán ejercidas por la Secretaría de manera permanente.
@@ -265,7 +266,6 @@ De los Comités Consultivos Nacionales de Normalización
 ### Artículo 25
 . Los Comités Consultivos Nacionales de Normalización son órganos colegiados multisectoriales encargados de la elaboración de las Normas Oficiales Mexicanas, de su promoción, así como de la difusión de su cumplimiento.
 Corresponde a las Autoridades Normalizadoras, según su ámbito de competencia, constituir, presidir y coordinar los Comités Consultivos Nacionales de Normalización, con el acompañamiento, según sea el caso, del Secretariado Ejecutivo de la Comisión.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD
 
 ### Artículo 26
 . Para la constitución de nuevos Comités Consultivos Nacionales de Normalización, las Autoridades Normalizadoras deberán proponer a la Comisión por conducto del Secretariado Ejecutivo, su denominación, definición de alcance, estructura orgánica y programa de trabajo respectivo. La integración, organización, operación y funcionamiento de los Comités Consultivos Nacionales de Normalización se preverá en el Reglamento de esta Ley.
@@ -287,7 +287,7 @@ TÍTULO TERCERO DEL PROGRAMA Y NORMAS OFICIALES MEXICANAS
 
 ### Artículo 29
 . El Programa es un instrumento de planeación, conducción, coordinación e información de las actividades de normalización, estandarización y metrología a nivel nacional. El Programa deberá alinearse con el Plan Nacional de Desarrollo, así como con los programas sectoriales de las Autoridades Normalizadoras.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Las Autoridades Normalizadoras deberán remitir al Secretariado Ejecutivo a más tardar al 31 de octubre de cada año su programa de trabajo para el año inmediato siguiente. El Programa será integrado anualmente por el Secretariado Ejecutivo a más tardar el 15 de noviembre de cada año, para ser sometido al pleno de la Comisión para su revisión, análisis y aprobación, a más tardar el 15 de diciembre de cada año. Una vez aprobado, el Programa deberá publicarse en el Diario Oficial de la Federación durante el primer bimestre del año inmediato siguiente al de su aprobación.
+Las Autoridades Normalizadoras deberán remitir al Secretariado Ejecutivo a más tardar al 31 de octubre de cada año su programa de trabajo para el año inmediato siguiente. El Programa será integrado anualmente por el Secretariado Ejecutivo a más tardar el 15 de noviembre de cada año, para ser sometido al pleno de la Comisión para su revisión, análisis y aprobación, a más tardar el 15 de diciembre de cada año. Una vez aprobado, el Programa deberá publicarse en el Diario Oficial de la Federación durante el primer bimestre del año inmediato siguiente al de su aprobación.
 Las Autoridades Normalizadoras no podrán presentar propuestas ante el Comité Consultivo Nacional de Normalización, o expedir, modificar o cancelar Normas Oficiales Mexicanas sobre temas que no estén incluidos en el Programa del año en curso, salvo que se trate de Normas Oficiales Mexicanas de emergencia. Tampoco podrán elaborarse, expedirse, modificarse o cancelarse Estándares que no estén incluidos en el Programa del año de que se trate.
 El Programa aprobado por la Comisión sólo podrá complementarse a través del Suplemento del Programa Nacional de Normalización, en el entendido que deberá quedar integrado por el Secretariado Ejecutivo a más tardar el 15 de junio de cada año, para ser sometido al pleno de la Comisión para su revisión, análisis y aprobación y a más tardar el 15 de julio de cada año; una vez aprobado, el suplemento al Programa deberá publicarse en el Diario Oficial de la Federación, a más tardar el 30 de agosto del año de que se trate. Para esos efectos, las Autoridades Normalizadoras deberán remitir al Secretariado Ejecutivo sus propuestas de modificaciones, a más tardar, el 30 de mayo de cada año.
 Dentro de los treinta días siguientes a la publicación del Programa o de su suplemento, según corresponda, en el Diario Oficial de la Federación, la Autoridad Normalizadora en su carácter de presidente del Comité Consultivo Nacional de Normalización respectivo, deberá presentar ante dicho comité las propuestas de Normas Oficiales Mexicanas relacionadas con los temas incluidos en el Programa o en su suplemento. En caso de no cumplir con lo aquí previsto, los temas se entenderán automáticamente eliminados del Programa o su suplemento, sin necesidad de acto adicional alguno, por lo que no podrán ser objeto de propuestas ante el Comité Consultivo Nacional de Normalización hasta su inclusión en los Programas o en su suplemento siguiente. La Comisión podrá aprobar excepciones a lo previsto en este párrafo.
@@ -299,7 +299,7 @@ Para los temas identificados en el Programa o en su suplemento que incidan en el
 El Reglamento de esta Ley y, en su caso, la Comisión establecerán la clasificación de las Normas Oficiales Mexicanas considerando los objetivos legítimos de interés público que persigan.
 
 ### Artículo 31
-. Las Normas Oficiales Mexicanas de emergencia serán elaboradas directamente y emitidas por las Autoridades Normalizadoras, cumpliendo con lo previsto en el artículo 34 de esta Ley, cuando busquen evitar un daño inminente, o bien atenuar o eliminar un daño existente a algún objetivo legítimo de interés público. Las Autoridades Normalizadoras deberán informar a la Comisión sobre la LEY DE INFRAESTRUCTURA DE LA CALIDAD emisión de las Normas Oficiales Mexicanas de emergencia, entregando los elementos que hayan servido de justificación para ello.
+. Las Normas Oficiales Mexicanas de emergencia serán elaboradas directamente y emitidas por las Autoridades Normalizadoras, cumpliendo con lo previsto en el artículo 34 de esta Ley, cuando busquen evitar un daño inminente, o bien atenuar o eliminar un daño existente a algún objetivo legítimo de interés público. Las Autoridades Normalizadoras deberán informar a la Comisión sobre la emisión de las Normas Oficiales Mexicanas de emergencia, entregando los elementos que hayan servido de justificación para ello.
 Las Normas Oficiales Mexicanas de emergencia tendrán una vigencia no mayor a seis meses, misma que podrá ser prorrogada en una sola ocasión, hasta por un periodo igual, si así lo considera la autoridad emisora, y se ordenará se publique en el Diario Oficial de la Federación.
 
 ### Artículo 32
@@ -323,7 +323,7 @@ Procedimiento de Elaboración y Expedición de las Normas Oficiales Mexicanas
 ### Artículo 34
 . Las propuestas de Normas Oficiales Mexicanas deben cumplir, como mínimo, con los siguientes requisitos:
 I. El título;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD II. El objetivo, campo de aplicación, así como la descripción de los objetivos legítimos de interés público que persigue;
+II. El objetivo, campo de aplicación, así como la descripción de los objetivos legítimos de interés público que persigue;
 III. La identificación, así como las especificaciones, características, disposiciones técnicas, datos e información correspondientes al bien, producto, proceso, servicio, terminología, marcado o etiquetado y de información al que será aplicable;
 IV. El procedimiento, así como la infraestructura para la Evaluación de la Conformidad aplicable.
 Para esos efectos, se privilegiará el uso de tecnologías de la información que aseguren la identificación de bienes, productos, procesos y servicios;
@@ -341,7 +341,7 @@ También puede incluir disposiciones sobre símbolos, embalaje, marcado o etique
 . El procedimiento de normalización consta de las siguientes etapas que serán progresivas y sucesivas:
 I. Elaboración o aceptación de la propuesta por la Autoridad Normalizadora;
 II. Presentación de la propuesta al Comité Consultivo Nacional de Normalización correspondiente para su análisis y revisión, en cuyo momento, se considerará como un anteproyecto de Norma Oficial Mexicana;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD III. En caso de que el Comité Consultivo Nacional de Normalización lo considere conveniente, constitución del grupo de trabajo correspondiente, para el estudio y la discusión del anteproyecto correspondiente.
+III. En caso de que el Comité Consultivo Nacional de Normalización lo considere conveniente, constitución del grupo de trabajo correspondiente, para el estudio y la discusión del anteproyecto correspondiente.
 En su caso, presentación de los resultados del estudio y discusión del anteproyecto por parte del grupo de trabajo ante el Comité Consultivo Nacional de Normalización;
 IV. Deliberación por parte del Comité Consultivo Nacional de Normalización que podrá ser afirmativa, con modificaciones o negativa, resultado que comunicará a la Autoridad Normalizadora;
 V. En caso de que el resultado de la deliberación sea afirmativo, la Autoridad Normalizadora ordenará la publicación en el Diario Oficial de la Federación de un Aviso del proyecto de la Norma Oficial Mexicana que contenga un extracto de éste, mismo que estará disponible en su totalidad en la Plataforma Tecnológica Integral de Infraestructura de la Calidad, para su consulta pública.
@@ -353,7 +353,7 @@ VIII. Presentación, por el grupo de trabajo, ante el Comité Consultivo Naciona
 La resolución definitiva del Comité Consultivo Nacional de Normalización deberá ser comunicada a la Autoridad Normalizadora;
 IX. Notificada la resolución definitiva a la Autoridad Normalizadora, ésta solicitará a la Secretaría la publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad de las respuestas a los comentarios recibidos durante la consulta pública, y X. En caso de que el Comité Consultivo Nacional de Normalización apruebe el proyecto de Norma Oficial Mexicana objeto de resolución definitiva, la Autoridad Normalizadora deberá expedir la Norma Oficial Mexicana y ordenar su publicación en el Diario Oficial de la Federación, así como solicitar su publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
 En caso de propuestas de Normas Oficiales Mexicanas que incidan en el ámbito de competencia de diversas Autoridades Normalizadoras, el procedimiento antes señalado considerará lo previsto en el penúltimo párrafo del artículo 30 anterior.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD El procedimiento de este artículo no será aplicable en el caso de Normas Oficiales Mexicanas de emergencia, cuya emisión se sujetará a lo previsto en el artículo 31 de esta Ley y en su Reglamento.
+El procedimiento de este artículo no será aplicable en el caso de Normas Oficiales Mexicanas de emergencia, cuya emisión se sujetará a lo previsto en el artículo 31 de esta Ley y en su Reglamento.
 
 ### Artículo 36
 . La Comisión emitirá lineamientos que permitan incorporar al proceso de normalización los resultados del análisis de impacto regulatorio y demás disposiciones previstas en la Ley General de Mejora Regulatoria.
@@ -378,7 +378,7 @@ Las Autoridades Normalizadoras competentes, respetando el plazo a que hace refer
 
 ### Artículo 40
 . Las Autoridades Normalizadoras podrán requerir de fabricantes, importadores, prestadores de servicios, consumidores o centros de investigación, los datos necesarios para la elaboración de las propuestas de Normas Oficiales Mexicanas y para cualquier trámite administrativo relativo a las mismas. También podrán recabar, de éstos para los mismos fines, las muestras estrictamente necesarias, las que serán devueltas una vez efectuado su estudio, salvo que para éste haya sido necesaria su destrucción.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD La información y documentación que se alleguen las Autoridades Normalizadoras para la elaboración de las propuestas de Normas Oficiales Mexicanas, así como para cualquier trámite administrativo relativo a las mismas, se empleará exclusivamente para tales fines y cuando la confidencialidad de la misma esté protegida por la legislación aplicable, el interesado deberá autorizar su uso. A solicitud expresa del interesado, tendrá el carácter de confidencial y no será divulgada, gozando de la protección establecida en materia de propiedad industrial.
+La información y documentación que se alleguen las Autoridades Normalizadoras para la elaboración de las propuestas de Normas Oficiales Mexicanas, así como para cualquier trámite administrativo relativo a las mismas, se empleará exclusivamente para tales fines y cuando la confidencialidad de la misma esté protegida por la legislación aplicable, el interesado deberá autorizar su uso. A solicitud expresa del interesado, tendrá el carácter de confidencial y no será divulgada, gozando de la protección establecida en materia de propiedad industrial.
 
 ## Capítulo II
 Procedimiento de Modificación y Cancelación de las Normas Oficiales Mexicanas
@@ -395,7 +395,7 @@ IV. Cuando la Autoridad Normalizadora que expidió la Norma Oficial Mexicana, ad
 . La Comisión podrá ordenar a las Autoridades Normalizadoras la cancelación de Normas Oficiales Mexicanas sin sujetarse a lo previsto en el artículo 41 anterior, cuando se cumpla alguno de los siguientes supuestos:
 I. Cuando el informe que contenga el resultado de la revisión sistemática que se haya realizado a una Norma Oficial Mexicana proponga su cancelación, o II. Cuando la Autoridad Normalizadora correspondiente que haya expedido la Norma Oficial Mexicana se quede sin facultades en la materia, sin que éstas hayan sido asumidas por otra Autoridad Normalizadora.
 La Autoridad Normalizadora competente deberá cancelar y ordenar la publicación de dicha cancelación en el Diario Oficial de la Federación dentro de los 30 días siguientes a que la Comisión se lo ordene. En caso de que la Autoridad Normalizadora no lleve a cabo esa cancelación y publicación dentro del plazo señalado, la Comisión podrá cancelar y ordenar esa publicación directamente. Las Normas Oficiales Mexicanas continuarán surtiendo efectos hasta que se publique su cancelación en el Diario Oficial de la Federación.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD TITULO QUINTO DE LA INTEGRACIÓN Y ORGANIZACIÓN DE LA EVALUACIÓN DE LA CONFORMIDAD
+TITULO QUINTO DE LA INTEGRACIÓN Y ORGANIZACIÓN DE LA EVALUACIÓN DE LA CONFORMIDAD
 
 ## Capítulo I
 Requisitos y Reglas Generales de Integración
@@ -418,7 +418,6 @@ En caso de que las Autoridades Normalizadoras lleven a cabo actividades de Evalu
 ### Artículo 47
 . La Secretaría y las Autoridades Normalizadoras cuando corresponda, vigilará de manera permanente el estricto apego de las Entidades de Acreditación a la Ley, su Reglamento, las Normas Oficiales Mexicanas y las Normas Internacionales, así como a las condiciones y términos conforme a los cuales fue otorgada la autorización correspondiente. De la misma manera, las Autoridades Normalizadoras vigilarán a los Organismos de Evaluación de la Conformidad que hayan aprobado.
 La Secretaría integrará el Padrón Nacional de Evaluadores en el cual estará inscrito el personal técnico evaluador que preste sus servicios en las Entidades de Acreditación para las distintas actividades de evaluación de la conformidad.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD
 
 ### Artículo 48
 . Cuando la Secretaría o las Autoridades Normalizadoras identifiquen, de acuerdo a la Ley Federal de Competencia Económica, que una Entidad de Acreditación u Organismo de Evaluación de la Conformidad tenga poder sustancial en uno o más mercados relevantes, darán vista a la Comisión Federal de Competencia Económica, de conformidad con la legislación aplicable.
@@ -433,7 +432,7 @@ II. Detallar la estructura organizacional de la entidad;
 III. Detallar la metodología que utilizará para evaluar y, en su caso, otorgar las acreditaciones a quienes lo soliciten conforme a los Estándares nacionales o las Normas Internacionales aplicables y vigentes. Cualquier cambio sustancial en esa metodología deberá ser presentado para su aprobación por parte de la Secretaría, previa opinión favorable de la Comisión;
 IV. Demostrar su capacidad para atender una o diversas materias técnicas, sectores o ramas de actividad, que corresponden al campo de la evaluación de la conformidad respectivo;
 V. Señalar las tarifas y precios que aplicará en la prestación de sus servicios, así como la metodología utilizada para determinarlos, bajo un procedimiento transparente basado en costos; y VI. Detallar el procedimiento para la integración de un padrón de evaluadores conforme a lo dispuesto en el artículo 50 siguiente.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Las Entidades de Acreditación podrán operar en una o en diversas materias, sectores o ramas de actividad, siempre y cuando operen bajo un sistema de gestión de la calidad internacionalmente reconocido, tengan cobertura nacional y que cumplan con lo antes señalado.
+Las Entidades de Acreditación podrán operar en una o en diversas materias, sectores o ramas de actividad, siempre y cuando operen bajo un sistema de gestión de la calidad internacionalmente reconocido, tengan cobertura nacional y que cumplan con lo antes señalado.
 
 ### Artículo 50
 . Las Entidades de Acreditación deberán, en los términos previstos en el Reglamento de la Ley:
@@ -450,7 +449,7 @@ X. Participar en organizaciones de acreditación regionales e internacionales pa
 XI. Informar a la Secretaría el resultado y el cumplimiento de las evaluaciones realizadas por las organizaciones de acreditación regionales e internacionales en las que participen;
 XII. Facilitar a la Secretaría y a las Autoridades Normalizadoras la información y asistencia técnica que se le requiera y presentar semestralmente ante la Secretaría un reporte de las acreditaciones que emita, así como de los demás actos que haya realizado, en los términos y formatos que la Secretaría determine;
 XIII. Mantener para consulta de cualquier interesado un catálogo clasificado y actualizado por medios electrónicos de los Organismos de Evaluación de la Conformidad que haya acreditado.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Asimismo, entregar a la Secretaría la actualización de esa información, en los términos y formatos que la Secretaría determine;
+Asimismo, entregar a la Secretaría la actualización de esa información, en los términos y formatos que la Secretaría determine;
 XIV. Poner a consulta de cualquier interesado, información relativa a sus derechos y obligaciones; los medios a través de los cuales obtiene ingresos económicos; los acuerdos y reconocimientos internacionales en los que está involucrada; los esquemas de acreditación, incluyendo sus procesos de evaluación; las tarifas relativas a la acreditación; y la descripción de los derechos y obligaciones de los organismos de evaluación de la conformidad;
 XV. Ajustarse a las reglas, procedimientos y métodos que se establezcan en las Normas Oficiales Mexicanas, Estándares o Normas Internacionales ahí referidos o de otras disposiciones legales en materia de Evaluación de la Conformidad;
 XVI. Prestar sus servicios en condiciones no discriminatorias y observar las demás disposiciones en materia de competencia económica;
@@ -466,7 +465,7 @@ XX. Operar bajo un sistema de gestión de la calidad internacionalmente reconoci
 . Las Entidades de Acreditación integrarán comités de evaluación, como órganos de apoyo para la acreditación.
 Los comités de evaluación estarán constituidos por materias, sectores y ramas específicas, e integrados por técnicos calificados con experiencia en los respectivos campos, así como por representantes de los productores, consumidores, prestadores y usuarios del servicio, y por el personal técnico de las entidades de acreditación y de las autoridades normalizadoras conforme a los lineamientos que dicte la Secretaría, previa opinión de la Comisión, de conformidad con lo previsto en el Reglamento de esta Ley.
 El comité de evaluación correspondiente designará a un grupo evaluador, cuyos integrantes deberán estar registrados en el Padrón Nacional de Evaluadores que disponga la Secretaría, para realizar las visitas de evaluación o acciones necesarias para comprobar que los solicitantes de acreditación cuentan con las instalaciones, equipo, personal técnico, organización y métodos operativos adecuados que garanticen su competencia técnica, capacidad operativa y material y la confiabilidad de sus servicios.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Los gastos derivados de la acreditación, así como los honorarios de los técnicos que en su caso se requieran, correrán por cuenta de los solicitantes, los que deberán ser informados al respecto en el momento de presentar su solicitud.
+Los gastos derivados de la acreditación, así como los honorarios de los técnicos que en su caso se requieran, correrán por cuenta de los solicitantes, los que deberán ser informados al respecto en el momento de presentar su solicitud.
 Sección Segunda De los Organismos de Evaluación de la Conformidad
 
 ### Artículo 53
@@ -484,7 +483,7 @@ II. Señalar el objeto, las Normas Oficiales Mexicanas y, en su caso, los Están
 
 ### Artículo 55
 . Una vez obtenida la acreditación, las personas interesadas en operar como Organismos de Evaluación de la Conformidad para la Evaluación de la Conformidad de Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales, deberán presentar la solicitud de aprobación ante la Autoridad Normalizadora de que se trate, adjuntando la documentación señalada en el Reglamento de esta Ley, incluyendo, entre otra:
-LEY DE INFRAESTRUCTURA DE LA CALIDAD I. Las tarifas y precios que aplicará en la prestación de sus servicios, así como la metodología utilizada para determinarlos, bajo un procedimiento transparente basado en costos;
+I. Las tarifas y precios que aplicará en la prestación de sus servicios, así como la metodología utilizada para determinarlos, bajo un procedimiento transparente basado en costos;
 II. La metodología que utilizará para llevar a cabo la Evaluación de la Conformidad acorde a Normas Oficiales Mexicanas, Estándares, Normas Internacionales, de Reglamentos Técnicos ahí referidos o de otras disposiciones legales. Cualquier cambio sustancial en esa metodología que difiera de las Normas señaladas, deberá ser presentado para su previa aprobación por parte de la Entidad de Acreditación que lo hubiera acreditado quien dará vista a la Autoridad Normalizadora de que se trate, y III. Su plan de negocios para los siguientes doce meses, con la justificación respectiva; incluyendo, entre otros, una estimación de los servicios de Evaluación de la Conformidad que llevará a cabo y de la infraestructura que utilizará para ello.
 
 ### Artículo 56
@@ -502,7 +501,7 @@ VI. Facilitar a la Autoridad Normalizadora de que se trate o a la Secretaría, l
 ### Artículo 58
 . Las Entidades de Acreditación o las Autoridades Normalizadoras podrán suspender en forma parcial o total la acreditación o aprobación, según corresponda, de los Organismos de Evaluación de la Conformidad, cuando:
 I. No proporcionen a la Entidad de Acreditación o a las Autoridades Normalizadoras en forma oportuna y completa los informes que le sean requeridos respecto a su funcionamiento y operación;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD II. Se impidan u obstaculicen las funciones de seguimiento, revisión o supervisión de la Entidad de Acreditación o la Vigilancia de las Autoridades Normalizadoras;
+II. Se impidan u obstaculicen las funciones de seguimiento, revisión o supervisión de la Entidad de Acreditación o la Vigilancia de las Autoridades Normalizadoras;
 III. Se disminuya su capacidad para emitir los dictámenes técnicos o las certificaciones en áreas determinadas, caso en el cual la suspensión se concentrará en el área respectiva;
 IV. Cuando se violen las disposiciones de esta Ley o de su Reglamento;
 V. No reporten a la Entidad de Acreditación o a la Autoridad Normalizadora cambios en la información proporcionada al momento de solicitar la acreditación o la aprobación;
@@ -520,7 +519,7 @@ IV. Incurran incumplimientos graves a sus obligaciones bajo esta Ley y el Reglam
 V. Reincidan en los casos previstos en las fracciones del artículo 58 de esta Ley;
 VI. Alteren los documentos emitidos, declaren falsamente o que mediante inspección se detecte que lo manifestado en los certificados, dictámenes o informes de resultados no corresponda a lo observado en los establecimientos o mercancías reguladas, según corresponda;
 VII. Entreguen al usuario, sellos sin realizar la evaluación de la conformidad, así como certificados, dictámenes de verificación e informe de resultados firmados y/o sellados en blanco;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD VIII. Proporcionen servicios de evaluación de la conformidad en materias para las que no cuenta con acreditación y aprobación de una Entidad de Acreditación o a la Autoridad Normalizadora, según corresponda, y IX. Emitan dictámenes de verificación, informes de resultados o certificados sin previa verificación conforme con lo establecido en las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales.
+VIII. Proporcionen servicios de evaluación de la conformidad en materias para las que no cuenta con acreditación y aprobación de una Entidad de Acreditación o a la Autoridad Normalizadora, según corresponda, y IX. Emitan dictámenes de verificación, informes de resultados o certificados sin previa verificación conforme con lo establecido en las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales.
 El procedimiento de cancelación se sujetará a lo previsto en el Reglamento de esta Ley, con la participación que ahí se señale a cargo de las Autoridades Normalizadoras.
 La cancelación de la acreditación conllevará la prohibición de ejercer las actividades que se hubieren acreditado y de hacer cualquier alusión a la acreditación, así como la de utilizar cualquier tipo de información o símbolo referente a la misma. Asimismo, por lo que respecta a los Organismos de Evaluación de la Conformidad aprobados por las Autoridades Normalizadoras, la cancelación de la acreditación implicará automáticamente y sin necesidad de realizar acto adicional alguno, la revocación de la aprobación respectiva.
 
@@ -533,7 +532,7 @@ Una vez aprobados tales criterios generales, deberán ponerse a disposición de 
 
 ### Artículo 61
 . En los casos y sujetos a los términos previstos en el Reglamento de esta Ley, las Autoridades Normalizadoras previa opinión favorable de la Comisión Nacional de Infraestructura de la Calidad y a falta de infraestructura de la calidad, podrán acreditar directamente a los Organismos de Evaluación de la Conformidad, sin que posteriormente se requiera de una aprobación para la Evaluación de la Conformidad de Normas Oficiales Mexicanas. Para tales efectos, deberán sujetarse a lo dispuesto en las Normas Internacionales aplicables en materia de acreditación.
-TÍTULO SEXTO LEY DE INFRAESTRUCTURA DE LA CALIDAD DE LA EVALUACIÓN DE LA CONFORMIDAD
+TÍTULO SEXTO DE LA EVALUACIÓN DE LA CONFORMIDAD
 
 ## Capítulo I
 Mecanismos y Reglas para la Evaluación de la Conformidad
@@ -552,7 +551,7 @@ La autorización se publicará en la Plataforma Tecnológica Integral de Infraes
 ### Artículo 64
 . Cuando un bien, producto, proceso o servicio deba cumplir con determinada Norma Oficial Mexicana o los Estándares ahí referidos, sus similares a importarse también deberán cumplir las especificaciones ahí establecidas, en los términos previstos en la Ley de Comercio Exterior.
 Para tal efecto, las autoridades normalizadoras determinarán, dependiendo del nivel de riesgo, cuales productos sujetos a normas oficiales mexicanas deberán demostrar su cumplimiento en el punto de entrada al país, lo cual se identificará en las Reglas de Comercio Exterior a través de las fracciones arancelarias correspondientes.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD En dicho supuesto, cuando así se exija a los bienes, productos, procesos y servicios nacionales, los bienes, productos, procesos y servicios a importarse también deberán contar con evidencias de cumplimiento con la Norma Oficial Mexicana de acuerdo con el Procedimiento de Evaluación de la Conformidad aplicable, tales como certificados, dictámenes o resultados de pruebas de un Organismo de Evaluación de la Conformidad acreditado y aprobado o de un tercero extranjero en términos de un acuerdo de reconocimiento mutuo o equivalencia vigente, de conformidad con lo previsto en el Reglamento.
+En dicho supuesto, cuando así se exija a los bienes, productos, procesos y servicios nacionales, los bienes, productos, procesos y servicios a importarse también deberán contar con evidencias de cumplimiento con la Norma Oficial Mexicana de acuerdo con el Procedimiento de Evaluación de la Conformidad aplicable, tales como certificados, dictámenes o resultados de pruebas de un Organismo de Evaluación de la Conformidad acreditado y aprobado o de un tercero extranjero en términos de un acuerdo de reconocimiento mutuo o equivalencia vigente, de conformidad con lo previsto en el Reglamento.
 El Reglamento de esta Ley podrá prever que la Autoridad Normalizadora establezca alternativas a la forma de cumplimiento con los procedimientos de Evaluación de la Conformidad cuando se trate de bienes, productos, procesos y servicios a importarse, siempre que se protejan los objetivos legítimos de interés público que tutela la Norma Oficial Mexicana de que se trate.
 
 ### Artículo 65
@@ -569,7 +568,7 @@ En ningún caso, podrá negarse la aceptación de los resultados de la Evaluaci�
 . Las autoridades competentes deberán reconocer los resultados de la Evaluación de la Conformidad realizados por los Organismos de Evaluación de la Conformidad. Cuando dichas autoridades encuentren alguna discrepancia o error en los resultados deberá notificarlo a la Autoridad Normalizadora competente, para que esta instruya al Organismo de Evaluación de la Conformidad respectivo la corrección de la discrepancia o error sin costo para el particular, y sin perjuicio de las sanciones que le correspondan.
 
 ## Capítulo II
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Procedimientos de Evaluación de la Conformidad
+Procedimientos de Evaluación de la Conformidad
 
 ### Artículo 69
 . Conforme a lo dispuesto en el artículo 30 de la presente Ley, los Procedimientos de Evaluación de la Conformidad deberán, según resulte aplicable en proporción al nivel de riesgo o de protección necesarios, incluir como mínimo los siguientes elementos:
@@ -584,7 +583,7 @@ Los Procedimientos de Evaluación de la Conformidad deben establecer la forma en
 El Reglamento de esta Ley podrá incluir elementos complementarios para el proceso de elaboración y modificación del Procedimiento de Evaluación de la Conformidad, en adición a lo previsto en el artículo 35 anterior.
 Cuando tales procedimientos involucran operaciones de medición se deberá contar con trazabilidad a los patrones aprobados en términos de esta Ley.
 Cuando a juicio de las Autoridades Normalizadoras se confirma que el Procedimiento de Evaluación de la Conformidad de la Norma Oficial Mexicana incluye apropiadamente la obligación de parte del productor de bienes, del fabricante de productos, o del suministrador de procesos y servicios, de responder adecuadamente por el desempeño de los mismos durante su permanencia en el mercado o que no se afecte algún objetivo legítimo de interés público, se podrá prever la auto declaración de conformidad por parte de los sujetos obligados como el esquema de Evaluación de la Conformidad.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Para esto, los productores, fabricantes y los prestadores de servicios sujetos a Normas Oficiales Mexicanas deberán mantener sistemas de control de calidad compatibles con las normas aplicables.
+Para esto, los productores, fabricantes y los prestadores de servicios sujetos a Normas Oficiales Mexicanas deberán mantener sistemas de control de calidad compatibles con las normas aplicables.
 También estarán obligados a verificar sistemáticamente las especificaciones del producto o servicio y su proceso, utilizando equipo suficiente y adecuado de laboratorio y el método de prueba apropiado, así como llevar un control estadístico de la producción en forma tal, que objetivamente se aprecie el cumplimiento de dichas especificaciones.
 El Reglamento de esta Ley establecerá los términos según los cuales se podrá practicar el esquema de auto declaración en la Evaluación de la Conformidad respecto de las Normas Oficiales Mexicanas y de los Estándares.
 
@@ -603,7 +602,7 @@ En el caso de las medidas sanitarias y fitosanitarias, la equivalencia será rec
 ### Artículo 72
 . La celebración, modificación y terminación de los acuerdos, arreglos de reconocimiento mutuo y acuerdos de equivalencia estarán sujetas a lo previsto en el Reglamento de esta Ley. Los acuerdos y arreglos de reconocimiento mutuo deberán ser aprobados previamente por la Secretaría. En el caso de los arreglos de reconocimiento mutuo, la Secretaría solicitará previo a su aprobación, la opinión de la Autoridad Normalizadora correspondiente.
 Los proyectos de acuerdos de reconocimiento mutuo, acuerdos de equivalencia y arreglos de reconocimiento mutuo, se pondrán a disposición de cualquier interesado para consulta pública en la Plataforma Tecnológica de Infraestructura de la Calidad, y una vez suscritos, serán publicados íntegramente en la misma Plataforma, y un extracto de los mismos en el Diario Oficial de la Federación.
-LIBRO SEGUNDO DEL SISTEMA DE CALIDAD E INNOVACIÓN LEY DE INFRAESTRUCTURA DE LA CALIDAD TÍTULO PRIMERO DE LAS REGLAS
+LIBRO SEGUNDO DEL SISTEMA DE CALIDAD E INNOVACIÓN TÍTULO PRIMERO DE LAS REGLAS
 
 ## Capítulo I
 Disposiciones Generales
@@ -625,7 +624,7 @@ Para los supuestos previstos en las fracciones II y III de este artículo, dicha
 I. Clave, título, objetivo y campo de aplicación del Estándar;
 II. En su caso, la referencia a otros Estándares, así como a Normas Internacionales para su implementación;
 III. Procedimiento de Evaluación de la Conformidad, cuando resulte procedente conforme a la naturaleza del bien, producto, proceso y servicio;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD IV. Identificar las Normas Internacionales aplicables en la materia y establecer el grado de concordancia de la propuesta con las mismas, señalando si es idéntica, modificada o no equivalente;
+IV. Identificar las Normas Internacionales aplicables en la materia y establecer el grado de concordancia de la propuesta con las mismas, señalando si es idéntica, modificada o no equivalente;
 V. La bibliografía que corresponda, incluyendo, entre otros, los Estándares, las Normas Internacionales y los Reglamentos Técnicos que, en su caso, se tomaron como referencia para la elaboración de la propuesta de Estándar;
 VI. Clasificación de acuerdo con lo previsto en el artículo 74 anterior y en la clasificación internacional de estándares, y VII. Fecha de inicio de aplicación.
 
@@ -650,7 +649,7 @@ Procedimiento de Elaboración de los Estándares
 I. Elaboración de la propuesta de Estándar por los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar o, por excepción, por las Autoridades Normalizadoras;
 II. Presentación de la propuesta de Estándar al comité técnico de estandarización correspondiente para su análisis, revisión y deliberación, en cuyo momento, se considerará como un anteproyecto de Estándar;
 III. En caso de que el comité técnico de estandarización correspondiente lo considere conveniente, constitución del grupo de trabajo para el análisis y revisión del anteproyecto de Estándar;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD IV. En su caso, presentación de los resultados del análisis y revisión del anteproyecto de Estándar por parte del grupo de trabajo ante el comité técnico de estandarización, para su deliberación;
+IV. En su caso, presentación de los resultados del análisis y revisión del anteproyecto de Estándar por parte del grupo de trabajo ante el comité técnico de estandarización, para su deliberación;
 V. En caso de que el resultado de la deliberación del comité técnico de estandarización sea afirmativo, quien haya elaborado la propuesta de Estándar lo enviará a la Secretaría para la publicación de un extracto del proyecto en la Plataforma Tecnológica Integral de Infraestructura de la Calidad, para su consulta pública.
 Cuando la elaboración de la propuesta del Estándar la haya realizado una Autoridad Normalizadora se publicará el proyecto completo en la Plataforma Tecnológica Integral de Infraestructura de la Calidad;
 VI. Recepción, análisis, revisión y resolución de los comentarios recibidos en consulta pública por el comité técnico de estandarización o el grupo de trabajo correspondiente;
@@ -667,7 +666,7 @@ Los comités técnicos de estandarización deberán subsistir en tanto los Está
 . El periodo de consulta pública de los Estándares será de, cuando menos, sesenta días naturales contados a partir del día natural inmediato siguiente al de su publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
 
 ### Artículo 83
-. La responsabilidad sobre el contenido de los Estándares, así como del cumplimiento con lo previsto en esta Ley y su Reglamento, recaerá exclusivamente en los Organismos Nacionales de LEY DE INFRAESTRUCTURA DE LA CALIDAD Estandarización, sujetos facultados para estandarizar o, en su caso, las Autoridades Normalizadoras que hayan emitido los Estándares.
+. La responsabilidad sobre el contenido de los Estándares, así como del cumplimiento con lo previsto en esta Ley y su Reglamento, recaerá exclusivamente en los Organismos Nacionales de Estandarización, sujetos facultados para estandarizar o, en su caso, las Autoridades Normalizadoras que hayan emitido los Estándares.
 
 ### Artículo 84
 . Las controversias y demás cuestiones que surjan en el proceso de elaboración de los Estándares serán atendidas por la Secretaría, ya sea por si, o a través de las instancias y demás medios que se definan en el Reglamento de esta Ley. Entre esas instancias, podrá preverse la constitución de una asociación civil integrada por los Organismos Nacionales de Estandarización y demás sujetos facultados para estandarizar, cuya integración, funcionamiento, alcances y operación estará previsto en el Reglamento de esta Ley y que estará sujeta a la supervisión de la Secretaría.
@@ -696,7 +695,7 @@ Ante la falta de revisión y notificación anterior, la Comisión podrá ordenar
 . Cuando la Comisión identifique que un Estándar vulnere, afecte o ponga en riesgo el adecuado desarrollo del mercado, deberá dar vista a la Comisión Federal de Competencia Económica para los efectos conducentes.
 
 ## Capítulo V
-Cumplimiento de los Estándares y su Demostración LEY DE INFRAESTRUCTURA DE LA CALIDAD
+Cumplimiento de los Estándares y su Demostración
 
 ### Artículo 90
 . Para la demostración del cumplimiento de los Estándares se estará a lo previsto en el Procedimiento de Evaluación de la Conformidad específicamente aplicable; en caso de que el Estándar no contemple ese procedimiento, el responsable del bien, producto, proceso o servicio respectivo podrá manifestar una autodeclaración de conformidad siempre y cuando se tenga un nivel bajo de riesgo.
@@ -720,7 +719,7 @@ Las cámaras, instituciones académicas y de investigación, colegios y asociaci
 La Secretaría deberá emitir anualmente los lineamientos para evitar la duplicidad en las labores de estandarización y publicará las autorizaciones que otorgue a los sujetos facultados para estandarizar en el Diario Oficial de la Federación y en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
 
 ## Capítulo II
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Organismos Nacionales de Estandarización
+Organismos Nacionales de Estandarización
 
 ### Artículo 93
 . Los Organismos Nacionales de Estandarización son personas morales registradas ante la Secretaría, cuyo objetivo principal es la elaboración, modificación y cancelación de Estándares. Para obtener el registro como Organismo Nacional de Estandarización por parte de la Secretaría se requiere lo siguiente, de acuerdo con lo previsto en el Reglamento de esta Ley:
@@ -741,7 +740,7 @@ Las Autoridades Normalizadoras en la Labor de Estandarización
 LIBRO TERCERO DE LA METROLOGÍA TÍTULO PRIMERO DEL SISTEMA DE METROLOGÍA Y LA METROLOGÍA CIENTÍFICA
 
 ## Capítulo I
-De la Integración del Sistema de Metrología y del Alcance de la Metrología Científica LEY DE INFRAESTRUCTURA DE LA CALIDAD
+De la Integración del Sistema de Metrología y del Alcance de la Metrología Científica
 
 ### Artículo 95
 . El sistema de metrología forma parte del Sistema Nacional de Infraestructura de la Calidad, su objetivo es procurar la uniformidad y confiabilidad de las mediciones que se realizan en el país y asegurar la comparabilidad de las mismas respecto de las realizadas en otros países, a través de la metrología científica, la metrología legal y la metrología industrial. El sistema de metrología se integra por el Centro Nacional de Metrología, los Institutos Designados de Metrología, las Entidades de Acreditación, los Organismos de Evaluación de la Conformidad y demás entidades públicas o privadas que la Secretaría determine, con la opinión favorable del Centro Nacional de Metrología o de los Institutos Designados de Metrología.
@@ -764,7 +763,7 @@ IV. Cuando se trate de convenios, acuerdos o tratados internacionales que prescr
 . La Secretaría, en su caso, coadyuvada por el Centro Nacional de Metrología, verificará el uso del Sistema General de Unidades de Medida en los ámbitos público y privado.
 
 ## Capítulo III
-De la Trazabilidad de las Medidas LEY DE INFRAESTRUCTURA DE LA CALIDAD
+De la Trazabilidad de las Medidas
 
 ### Artículo 99
 . El Centro Nacional de Metrología y los Institutos Designados de Metrología tienen a su cargo el desarrollo, la conservación metrológica y la mejora de los patrones nacionales de medida, los cuales constituyen el origen de la trazabilidad de las medidas que se realizan en el país hacia el Sistema General de Unidades de Medida.
@@ -787,7 +786,7 @@ Cuando sea insuficiente la existencia de materiales de referencia certificados e
 . Para asegurar la trazabilidad de las mediciones en el sistema de metrología, los laboratorios de calibración y medición acreditados se ajustarán a lo previsto en el Reglamento de esta Ley.
 
 ## Capítulo IV
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Del Centro Nacional de Metrología
+Del Centro Nacional de Metrología
 
 ### Artículo 104
 . El Centro Nacional de Metrología es un organismo descentralizado con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría, con el objetivo de llevar a cabo investigación científica y desarrollo tecnológico en metrología y sus aplicaciones, para contribuir al bienestar de la sociedad y al desarrollo económico incluyente.
@@ -804,7 +803,7 @@ VII. Proporcionar servicios de medición y de calibración de patrones de medida
 VIII. Realizar peritajes de tercería, a solicitud de parte; así como efectuar mediciones o pruebas en los procesos de Evaluación de la Conformidad, a solicitud de la Secretaría, de las demás Autoridades Normalizadoras, o de los Organismos de Evaluación de la Conformidad;
 IX. Participar en la elaboración de Normas Oficiales Mexicanas y Estándares, entre otros, y realizar estudios de viabilidad técnica sobre metrología legal en las cuales se establezca el control legal de instrumentos para medir y que deben ser considerados en el Procedimiento de Evaluación de la Conformidad;
 X. En términos de las Normas Oficiales Mexicanas, aprobar los modelos de instrumentos para medir sujetos a control legal;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD XI. Colaborar con instituciones educativas, de investigación y desarrollo tecnológico en el desarrollo de la metrología mediante convenios o mecanismos administrativos de colaboración a nivel nacional o internacional, y XII. Las demás necesarias para el desarrollo de sus actividades que se establezcan en las leyes y reglamentos aplicables.
+XI. Colaborar con instituciones educativas, de investigación y desarrollo tecnológico en el desarrollo de la metrología mediante convenios o mecanismos administrativos de colaboración a nivel nacional o internacional, y XII. Las demás necesarias para el desarrollo de sus actividades que se establezcan en las leyes y reglamentos aplicables.
 
 ### Artículo 106
 . El Centro Nacional de Metrología estará integrado por un Consejo Directivo, un Director General y el personal de confianza y operativo que se requiera.
@@ -827,7 +826,6 @@ VII. Resolver los asuntos del Centro Nacional de Metrología que no estén previ
 ### Artículo 109
 . El Director General del Centro Nacional de Metrología será designado directamente por el Presidente de la República y estará en funciones por un periodo de seis años. No obstante, el Director General podrá ser removido de su encargo por el Presidente de la República, en cualquier caso.
 Los servidores públicos de las jerarquías inmediatas inferiores al Director General serán designados por el Consejo Directivo a solicitud del Director General, conforme a lo establecido en el estatuto orgánico, tomando como base la experiencia, el mérito y el perfil académico de cada candidato.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD
 
 ### Artículo 110
 . El Director General del Centro Nacional de Metrología tendrá las siguientes facultades y obligaciones:
@@ -850,7 +848,6 @@ III. Los ingresos que perciba por los servicios que proporcione y los que result
 IV. Los recursos aportados por organismos nacionales o extranjeros, públicos o privados, para el desarrollo de proyectos de investigación científica y desarrollo tecnológico, previa información y aprobación de su Consejo Directivo;
 V. Los donativos, aportaciones, legados en dinero y/o especie, previa información y aprobación de su Consejo Directivo;
 VI. Otros bienes que reciba por actos jurídicos o análogos, y VII. Los demás bienes y derechos que adquiera para la realización de sus fines.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD
 
 ## Capítulo V
 De los Institutos Designados de Metrología
@@ -872,7 +869,7 @@ V. Representar al país ante los organismos internacionales, en materia de metro
 VI. Prestar servicios metrológicos con trazabilidad a los patrones nacionales de medida, incluyendo la certificación de los materiales de referencia aplicables;
 VII. Realizar actividades de investigación en metrología y en materias afines, colaborar con otras organizaciones nacionales e internacionales de investigación científica y el desarrollo tecnológico en las materias de metrología de su incumbencia;
 VIII. Atender las solicitudes, observaciones y recomendaciones que realice la Comisión o el Centro Nacional de Metrología, y IX. Coordinarse con el Centro Nacional de Metrología en el desarrollo de aquellas actividades donde se requiera su participación.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD TÍTULO SEGUNDO METROLOGÍA LEGAL
+TÍTULO SEGUNDO METROLOGÍA LEGAL
 
 ## Capítulo I
 De los Principios de la Metrología Legal
@@ -895,7 +892,6 @@ El Reglamento determinará las bases y reglas para que se publique en el Diario 
 
 ### Artículo 120
 . Los productos empacados o envasados por fabricantes, importadores o comerciantes deberán ostentar la información en materia de metrología legal que establezcan las Normas Oficiales Mexicanas y los Estándares ahí referidos, así como la demás información prevista en éstas.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD
 
 ## Capítulo II
 De la Aprobación de Modelo de los Instrumentos para Medir
@@ -922,7 +918,7 @@ El Centro Nacional de Metrología o los Institutos Designados de Metrología que
 . El Centro Nacional de Metrología o los Institutos Designados de Metrología competentes deberán informar a la Secretaría sobre una lista que identifique a los instrumentos para medir sujetos a control metrológico legal que cuenten con la aprobación de modelo para que sea publicada en la Plataforma Tecnológica Integral de Infraestructura de la Calidad y, en su caso, la revocación a las mismas.
 
 ### Artículo 126
-. Los instrumentos para medir sujetos a una Norma Oficial Mexicana en materia de metrología legal y que cuenten con aprobación de modelo o prototipo en términos del artículo 124 de esta LEY DE INFRAESTRUCTURA DE LA CALIDAD Ley, deben cumplir con los procedimientos para la Evaluación de la Conformidad previstos en esas normas.
+. Los instrumentos para medir sujetos a una Norma Oficial Mexicana en materia de metrología legal y que cuenten con aprobación de modelo o prototipo en términos del artículo 124 de esta Ley, deben cumplir con los procedimientos para la Evaluación de la Conformidad previstos en esas normas.
 
 ### Artículo 127
 . Los instrumentos para medir sujetos a control metrológico legal que no cumplan con los requisitos previstos en las Normas Oficiales Mexicanas en materia de metrología legal serán inmovilizados por la autoridad competente antes de su venta o uso, o durante su uso hasta en tanto los satisfagan. Aquellos instrumentos para medir que no puedan acondicionarse para atiendan esos requisitos serán inmovilizados por la autoridad competente para impedir su uso.
@@ -943,7 +939,7 @@ LIBRO CUARTO DISPOSICIONES FINALES TÍTULO PRIMERO DE LA PLATAFORMA TECNOLÓGICA
 ### Artículo 131
 . Para hacer más eficiente la gestión pública, facilitar el cumplimiento de obligaciones por parte de los particulares y disminuir los costos de transacción, corresponde a la Secretaría, establecer y operar la Plataforma Tecnológica Integral de Infraestructura de la Calidad en los términos previstos en esta Ley y en su Reglamento.
 La Plataforma Tecnológica Integral de Infraestructura de la Calidad servirá como el principal medio de difusión y consulta de las Normas Oficiales Mexicanas, los Estándares y patrones nacionales de medidas.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Con el propósito de promover, fomentar y difundir la cultura de la transparencia en la realización de las actividades de normalización, estandarización, Evaluación de la Conformidad y metrología, en términos de lo previsto en esta Ley y su Reglamento, en la Plataforma se publicarán:
+Con el propósito de promover, fomentar y difundir la cultura de la transparencia en la realización de las actividades de normalización, estandarización, Evaluación de la Conformidad y metrología, en términos de lo previsto en esta Ley y su Reglamento, en la Plataforma se publicarán:
 I. Las Normas Oficiales Mexicanas, así como el catálogo de Normas Oficiales Mexicanas;
 II. Un extracto de los Estándares emitidos por los sujetos facultados para estandarizar o por los Organismos Nacionales de Estandarización;
 III. Los Estándares emitidos por las Autoridades Normalizadoras;
@@ -963,7 +959,6 @@ XII. Los Comités Consultivos Nacionales de Normalización, Comités Mexicanos, 
 ### Artículo 133
 . La información prevista en la Plataforma Tecnológica Integral de Infraestructura de la Calidad será pública, gratuita y de libre acceso para todo el público, salvo por los Estándares emitidos por los sujetos facultados para estandarizar y los Organismos Nacionales de Estandarización, así como las demás excepciones de confidencialidad y protección de datos personales previstas en la legislación aplicable, y las que expresamente se prevean en el Reglamento de esta Ley.
 La información reportada en la Plataforma Tecnológica Integral de Infraestructura de la Calidad es responsabilidad de quien la genera.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD
 
 ### Artículo 134
 . Siempre que la Secretaría lo autorice, las actividades de normalización y Evaluación de la Conformidad podrán realizarse en línea, total o parcialmente, a través de la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
@@ -989,7 +984,7 @@ TÍTULO TERCERO DE LA VIGILANCIA DEL MERCADO, LA VERIFICACIÓN Y VIGILANCIA
 I. Los actos de Verificación de los bienes, productos, procesos y servicios;
 II. Los actos de Vigilancia;
 III. La supervisión de la auto declaración de conformidad por parte de los sujetos obligados por las Normas Oficiales Mexicanas y, en su caso, los Estándares;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD IV. La revisión sistemática de las Normas Oficiales Mexicanas y los Estándares;
+IV. La revisión sistemática de las Normas Oficiales Mexicanas y los Estándares;
 V. La protección a los derechos de los consumidores, y VI. La adecuada coordinación entre las distintas autoridades competentes, para el adecuado funcionamiento y desarrollo del Sistema Nacional de Infraestructura de la Calidad.
 
 ### Artículo 140
@@ -1011,7 +1006,7 @@ En los actos de Verificación las autoridades competentes deberán considerar lo
 . De cada acto de Verificación o Vigilancia, según corresponda, se levantará un acta detallada sea cual fuere el resultado, la cual será firmada por el representante de la autoridad y por la persona a quien se practicó esta diligencia; la falta de firma de ésta no afectará su validez. En las actas se hará constar:
 I. Nombre, denominación o razón social de la persona a quien se practicó el acto de Verificación o Vigilancia;
 II. Hora, día, mes y año en que inicie y en que concluya la diligencia;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD III. Calle, número, población o colonia, municipio o alcaldía, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique el acto de Verificación o Vigilancia;
+III. Calle, número, población o colonia, municipio o alcaldía, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique el acto de Verificación o Vigilancia;
 IV. Número y fecha del oficio de la autoridad que motivó la Verificación o Vigilancia;
 V. Nombre y cargo de la persona con quien se entendió la diligencia;
 VI. En su caso, nombre y domicilio de las personas que fungieron como testigos;
@@ -1027,7 +1022,7 @@ Para efectos de esta Ley, se entiende por actos de Verificación, la que se prac
 ### Artículo 145
 . De conformidad con lo señalado en esta Ley y en su defecto en la Ley Federal de Procedimiento Administrativo, todos los actos de Verificación y Vigilancia se practicarán en días y horas hábiles y únicamente por personal autorizado, previa identificación vigente y exhibición del oficio respectivo, salvo que la autoridad expresamente autorice su realización o conclusión, según sea el caso, en días y horas inhábiles a fin de evitar la comisión de infracciones.
 Los fabricantes, productores y prestadores de servicios, sus subordinados o encargados de establecimientos en los que se elabore un bien o una parte del mismo, se realice un proceso o alguna fase del mismo o se presten servicios sujetos a la presente Ley, tendrán la obligación de permitir el acceso y proporcionar las facilidades necesarias a las personas autorizadas por las autoridades competentes para practicar la Verificación. La misma obligación será aplicable a las Entidades de Acreditación y Organismos de Evaluación de la Conformidad por lo que respecta a los actos de Vigilancia.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Las personas a quien se efectúe la Verificación o Vigilancia podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación con los hechos contenidos en ella o, por escrito, hacer uso de tal derecho dentro del término de cinco días siguientes a la fecha en que se haya levantado el acta respectiva.
+Las personas a quien se efectúe la Verificación o Vigilancia podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación con los hechos contenidos en ella o, por escrito, hacer uso de tal derecho dentro del término de cinco días siguientes a la fecha en que se haya levantado el acta respectiva.
 
 ### Artículo 146
 . Si durante el acto de Verificación es necesario la recolección de muestras, se estará a lo siguiente:
@@ -1043,7 +1038,7 @@ En tanto se realiza la Verificación respectiva del lote de donde se obtuvieron 
 
 ### Artículo 147
 . Si del acto de Verificación se desprende determinada deficiencia, se procederá de la siguiente manera:
-LEY DE INFRAESTRUCTURA DE LA CALIDAD I. Si se trata de incumplimiento de especificaciones fijadas en Normas Oficiales Mexicanas o Estándares obligatorios, la autoridad competente prohibirá de inmediato su comercialización, inmovilizando los bienes, hasta en tanto se acondicionen, reprocesen, reparen o sustituyan. Si por la naturaleza del bien no es posible, se tomarán las providencias necesarias para que no se usen o presten para el fin a que se destinarían de cumplir dichas especificaciones.
+I. Si se trata de incumplimiento de especificaciones fijadas en Normas Oficiales Mexicanas o Estándares obligatorios, la autoridad competente prohibirá de inmediato su comercialización, inmovilizando los bienes, hasta en tanto se acondicionen, reprocesen, reparen o sustituyan. Si por la naturaleza del bien no es posible, se tomarán las providencias necesarias para que no se usen o presten para el fin a que se destinarían de cumplir dichas especificaciones.
 Adicionalmente, si el bien se encuentra en el comercio, los comerciantes o prestadores de servicios tendrán la obligación de abstenerse de su enajenación o prestación a partir de la fecha en que se les notifique la resolución, se publique en el Diario Oficial de la Federación, en la Plataforma Tecnológica Integral de Infraestructura de la Calidad o en cualquier otro medio masivo de comunicación.
 Cuando el incumplimiento pueda afectar los objetivos legítimos de interés público tutelados por la Norma Oficial Mexicana, los comerciantes o prestadores se abstendrán de enajenar los bienes desde el momento en que se haga de su conocimiento. Los medios de comunicación masiva deberán difundir tales hechos de manera inmediata a solicitud de la autoridad competente.
 En el caso previsto en esta fracción, los productores, fabricantes, importadores y sus distribuidores serán responsables de recuperar de inmediato los bienes.
@@ -1053,7 +1048,6 @@ II. Si se trata de deficiencia en la información sobre el contenido neto o la m
 III. Si los materiales, elementos, substancias o ingredientes que constituyan o integren el bien no corresponden a la indicación que ostenten o el porcentaje de ellos sea inexacto en perjuicio del consumidor, se prohibirá la venta de todo el lote o, en su caso, de toda la producción similar, hasta en tanto se corrijan dichas indicaciones. En caso de no ser esto posible, se permitirá su venta al precio correspondiente a su verdadera composición, siempre y cuando ello no implique afectaciones a los objetivos legítimos de interés público tutelados por la Norma Oficial Mexicana.
 IV. Si se trata de incumplimientos en la realización de un proceso o la prestación de un servicio, se suspenderá su realización o prestación hasta en tanto se cumplan con las especificaciones correspondientes.
 Las resoluciones que se dicten con fundamento en este artículo serán sin perjuicio de las sanciones que procedan en términos de las disposiciones legales aplicables.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD
 
 ### Artículo 148
 . Cuando sean inexactos los datos o información contenidos en las etiquetas, envases o empaques de los productos, cualesquiera que éstos sean, así como la publicidad que de ellos se haga, las autoridades competentes de forma coordinada con la Secretaría podrán ordenar su modificación, concediendo el término estrictamente necesario para ello, sin perjuicio de imponer la sanción que proceda.
@@ -1083,7 +1077,7 @@ Cuando las autoridades identifiquen acciones u omisiones que pudieran actualizar
 
 ### Artículo 154
 . Sin perjuicio de las sanciones establecidas en otros ordenamientos legales, las sanciones aplicables por los incumplimientos a esta Ley y a las disposiciones que emanen de ella serán las siguientes:
-LEY DE INFRAESTRUCTURA DE LA CALIDAD I. Apercibimiento;
+I. Apercibimiento;
 II. Multa;
 III. Clausura temporal o definitiva, que podrá ser parcial o total;
 IV. Arresto administrativo hasta por treinta y seis horas;
@@ -1093,7 +1087,7 @@ VI. Suspensión o cancelación del documento donde consten los resultados de la 
 ### Artículo 155
 . Se sancionarán con multa las siguientes acciones u omisiones:
 I. De treinta a cuatro mil veces el equivalente en Unidades de Medida y Actualización, cuando: a) No se proporcione a la autoridad competente, dentro del plazo señalado, la información o documentación que requiera, en apego a las facultades y atribuciones previstas en esta Ley; b) No se exhiba el documento que compruebe el cumplimiento con las Normas Oficiales Mexicanas que sea requerido; c) No se permita el acceso o no se proporcione las facilidades necesarias a las personas autorizadas por las autoridades competentes para realizar actos de Verificación, o d) Cualquier otro incumplimiento a la presente Ley y su Reglamento que no tenga una sanción expresamente aplicable al mismo.
-II. De seiscientas a nueve mil veces el equivalente en Unidades de Medida y Actualización, cuando: a) Sin haber dado aviso a la autoridad competente, así como al Organismo de Evaluación de la Conformidad que la hubiere evaluado, modifique un bien, producto, proceso o servicio sujeto al cumplimiento de Normas Oficiales Mexicanas; b) No se efectúe el acondicionamiento, reprocesamiento, reparación, sustitución o modificación de bienes, productos, procesos y servicios sujetos al cumplimiento de Normas Oficiales Mexicanas, en los términos señalados por la autoridad competente; c) Se utilice cualquier información o documentación en la que consten los resultados de la Evaluación de la Conformidad o que compruebe el cumplimiento con esta Ley y las disposiciones que de ella derivan, para un fin distinto del que motivó su expedición; d) Se contravengan disposiciones contenidas en las Normas Oficiales Mexicanas y Estándares que resulten obligatorios, o LEY DE INFRAESTRUCTURA DE LA CALIDAD III. De cuatro mil a quince mil veces el equivalente en Unidades de Medida y Actualización, cuando: a) Se incurra en acciones u omisiones que impliquen engaño al consumidor o constituyan una práctica que pueda inducir a error, incluyendo cuando se haya auto declarado o manifestado indebidamente el cumplimiento con una Norma Oficial Mexicana o Estándar; b) Se ostenten contraseñas oficiales o algún otro distintivo sin la autorización correspondiente; o c) Se disponga de bienes, productos, procesos y servicios inmovilizados por la autoridad competente.
+II. De seiscientas a nueve mil veces el equivalente en Unidades de Medida y Actualización, cuando: a) Sin haber dado aviso a la autoridad competente, así como al Organismo de Evaluación de la Conformidad que la hubiere evaluado, modifique un bien, producto, proceso o servicio sujeto al cumplimiento de Normas Oficiales Mexicanas; b) No se efectúe el acondicionamiento, reprocesamiento, reparación, sustitución o modificación de bienes, productos, procesos y servicios sujetos al cumplimiento de Normas Oficiales Mexicanas, en los términos señalados por la autoridad competente; c) Se utilice cualquier información o documentación en la que consten los resultados de la Evaluación de la Conformidad o que compruebe el cumplimiento con esta Ley y las disposiciones que de ella derivan, para un fin distinto del que motivó su expedición; d) Se contravengan disposiciones contenidas en las Normas Oficiales Mexicanas y Estándares que resulten obligatorios, o III. De cuatro mil a quince mil veces el equivalente en Unidades de Medida y Actualización, cuando: a) Se incurra en acciones u omisiones que impliquen engaño al consumidor o constituyan una práctica que pueda inducir a error, incluyendo cuando se haya auto declarado o manifestado indebidamente el cumplimiento con una Norma Oficial Mexicana o Estándar; b) Se ostenten contraseñas oficiales o algún otro distintivo sin la autorización correspondiente; o c) Se disponga de bienes, productos, procesos y servicios inmovilizados por la autoridad competente.
 IV. De seis mil a treinta mil veces el equivalente en Unidades de Medida y Actualización, cuando: a) Se cometan acciones u omisiones que implique grave riesgo a alguno de los objetivos legítimos de interés público tutelados por las Normas Oficiales Mexicanas; b) Se importen bienes que estén sujetos al cumplimiento de las Normas Oficiales Mexicanas, sin demostrar su cumplimiento en los términos previstos en esta Ley, o c) Cuando se utilicen, entreguen u ostenten los resultados de la Evaluación de la Conformidad sin haberla realizado o esos resultados sean falsos o alterados.
 V. De cuarenta y ocho mil a noventa y seis mil veces el equivalente en Unidades de Medida y Actualización a las personas que por sí o a través de otra persona o por medio de alguna denominación o razón social, se ostenten, por cualquier medio, frente al público como persona autorizada, aprobada, acreditada, registrada o designada, sin contar con las mismas. La misma sanción será aplicable a aquéllos que continúen operando una vez suspendidas sus actividades o clausurados sus establecimientos.
 Adicionalmente a la multa, se podrá imponer cualquiera de las sanciones establecidas en las fracciones del artículo 154 de esta Ley.
@@ -1104,7 +1098,7 @@ El plazo para efectuar el pago de la multa impuesta, será de quince días a par
 Se entenderá por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha del acta en que se hizo constar la infracción precedente, siempre que esta no hubiese sido desvirtuada.
 
 ### Artículo 157
-. Las sanciones serán impuestas con base en las actas levantadas, en los resultados de los actos de Verificación o Vigilancia, en los datos que ostenten los bienes, sus etiquetas, envases o empaques, en la omisión de los que deberían ostentar, en base a los documentos emitidos por las Entidades de Acreditación y Organismos de Evaluación de la Conformidad o con base en cualquier otro LEY DE INFRAESTRUCTURA DE LA CALIDAD elemento o circunstancia de la que se compruebe una infracción a esta Ley o a las demás disposiciones derivadas de ella.
+. Las sanciones serán impuestas con base en las actas levantadas, en los resultados de los actos de Verificación o Vigilancia, en los datos que ostenten los bienes, sus etiquetas, envases o empaques, en la omisión de los que deberían ostentar, en base a los documentos emitidos por las Entidades de Acreditación y Organismos de Evaluación de la Conformidad o con base en cualquier otro elemento o circunstancia de la que se compruebe una infracción a esta Ley o a las demás disposiciones derivadas de ella.
 En todo caso, las resoluciones en materia de sanciones deberán ser fundadas y motivadas, tomando en consideración los siguientes criterios:
 I. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
 II. La gravedad que la infracción implique en relación con el comercio de bienes, la realización de procesos o la prestación de servicios, así como el perjuicio ocasionado a los consumidores;
@@ -1124,7 +1118,7 @@ I. No proporcionen en forma oportuna y completa los informes que le sean requeri
 II. Se impida u obstaculicen las funciones de Verificación y Vigilancia;
 III. Se disminuya la capacidad necesaria para realizar sus funciones;
 IV. Se suspenda la acreditación otorgada por una Entidad de Acreditación a algún Organismo de Evaluación de la Conformidad;
-LEY DE INFRAESTRUCTURA DE LA CALIDAD V. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o VI. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o VI. Se incumpla con cualquier otra de sus obligaciones en términos de esta Ley y el Reglamento, no prevista expresamente en el artículo 161 siguiente.
+V. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o VI. Se incumplan las condiciones establecidas en la autorización, la aprobación, la acreditación, el registro o la designación respectiva, o VI. Se incumpla con cualquier otra de sus obligaciones en términos de esta Ley y el Reglamento, no prevista expresamente en el artículo 161 siguiente.
 La suspensión durará en tanto no se cumpla con los requisitos u obligaciones respectivas, pudiendo concretarse ésta, a un área específica cuando sea posible.
 
 ### Artículo 161
@@ -1141,7 +1135,7 @@ TÍTULO QUINTO DE LOS RECURSOS
 
 ### Artículo 163
 . Los particulares que se consideren afectados por los actos de las Entidades de Acreditación o de los Organismos de Evaluación de la Conformidad podrán presentar ante éstos, el recurso de reclamación.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD Las Entidades de Acreditación o los Organismos de Evaluación de la Conformidad, deberán resolver las reclamaciones que presenten los interesados, así como notificar al afectado su respuesta en un plazo no mayor a diez días, con copia a las Autoridades Normalizadoras competentes.
+Las Entidades de Acreditación o los Organismos de Evaluación de la Conformidad, deberán resolver las reclamaciones que presenten los interesados, así como notificar al afectado su respuesta en un plazo no mayor a diez días, con copia a las Autoridades Normalizadoras competentes.
 
 ### Artículo 164
 . Si el afectado no estuviere conforme con la respuesta emitida, podrá interponer un recurso de queja por escrito ante la Secretaría o en su caso ante la Autoridad Normalizadora que corresponda, acompañando los documentos en que se apoye. La Autoridad Normalizadora remitirá copia a las Entidades de Acreditación o los Organismos de Evaluación de la Conformidad correspondiente para que en un plazo no mayor a diez días se le rinda un informe justificando su actuación.
@@ -1151,19 +1145,23 @@ Las Entidades de Acreditación y los Organismos de Evaluación de la Conformidad
 
 ### Artículo 165
 . Las personas afectadas por las resoluciones dictadas por autoridad competente con fundamento en esta Ley y demás disposiciones derivadas de ella, podrán interponer recurso de revisión en los términos de la Ley Federal de Procedimiento Administrativo.
-TRANSITORIOS PRIMERO. El presente Decreto entrará en vigor a los 60 días siguientes de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. Con la entrada en vigor de este Decreto se abroga la Ley Federal sobre Metrología y Normalización publicada en el Diario Oficial de la Federación el 1 de julio de 1992 y sus reformas, asimismo se abrogan o derogan todas las disposiciones que se opongan a lo dispuesto en esta Ley.
-TERCERO. Dentro del término de doce meses contados a partir de la entrada en vigor de la presente Ley, el Ejecutivo Federal deberá expedir su Reglamento, en tanto, continuará aplicándose en lo que no CUARTO. Las Propuestas, Anteproyectos y Proyectos de Normas Oficiales Mexicanas y Estándares que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite y que no hayan sido publicados, deberán ajustarse a lo dispuesto por las Ley Federal sobre Metrología y Normalización, su Reglamento y demás disposiciones secundarias vigentes al momento de su elaboración y hasta su conclusión.
-QUINTO. Todos los trámites y solicitudes que hayan sido presentados por escrito a las Autoridades Normalizadoras con anterioridad a la entrada en vigor del presente Decreto, se resolverán conforme a lo dispuesto en la Ley Federal sobre Metrología y Normalización, su Reglamento y demás disposiciones secundarias vigentes al momento de su presentación y hasta su conclusión.
-SEXTO. Las autorizaciones, acreditaciones, registros y aprobaciones que hayan sido otorgadas en fecha anterior a la entrada en vigor del presente Decreto, estarán vigentes hasta en tanto cumplan el término de su vigencia. Para la renovación de éstas se aplicarán las disposiciones contenidas en el presente Decreto.
-LEY DE INFRAESTRUCTURA DE LA CALIDAD SÉPTIMO. La Secretaría de Economía deberá realizar los ajustes pertinentes en materia de normalización, estandarización, evaluación de la conformidad y metrología, así como emitir los lineamientos que regularán el acceso a la Plataforma Tecnológica Integral de Infraestructura de la Calidad por parte de los interesados, y los formatos electrónicos que deberán utilizarse para esos efectos, dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.
-OCTAVO. Las disposiciones administrativas en materia de normalización, estandarización, evaluación de la conformidad y metrología, en particular las relativas a la elaboración de normas oficiales mexicanas y a la aprobación de los organismos nacionales de normalización, organismos de certificación, laboratorios de prueba y de calibración y unidades de verificación, contenidas en otros ordenamientos; emitidas con anterioridad a la entrada en vigor de la presente Ley, continuarán vigentes en todo lo que no se le oponga, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo a la misma.
-NOVENO. Las referencias que, en otras leyes y demás disposiciones jurídicas, así como la denominación de los Organismos de Evaluación de la Conformidad se realicen a la Ley Federal sobre Metrología y Normalización por lo que hace a cuestiones sobre normalización, evaluación de la conformidad y metrología, se entenderán a los referidos en la Ley de Infraestructura de la Calidad.
-DÉCIMO. La Secretaría de Economía y las Autoridades Normalizadoras realizarán las acciones necesarias para que la implementación de las disposiciones previstas en la presente Ley se lleve a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
-DÉCIMO PRIMERO. La Secretaría de Economía asumirá la Presidencia Permanente de la Comisión Nacional de Infraestructura de la Calidad, a partir del 1° de enero del año próximo siguiente al de la publicación en el Diario Oficial de la Federación del presente Decreto.
+
+## TRANSITORIOS
+
+**PRIMERO.** El presente Decreto entrará en vigor a los 60 días siguientes de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** Con la entrada en vigor de este Decreto se abroga la Ley Federal sobre Metrología y Normalización publicada en el Diario Oficial de la Federación el 1 de julio de 1992 y sus reformas, asimismo se abrogan o derogan todas las disposiciones que se opongan a lo dispuesto en esta Ley.
+**TERCERO.** Dentro del término de doce meses contados a partir de la entrada en vigor de la presente Ley, el Ejecutivo Federal deberá expedir su Reglamento, en tanto, continuará aplicándose en lo que no
+**CUARTO.** Las Propuestas, Anteproyectos y Proyectos de Normas Oficiales Mexicanas y Estándares que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite y que no hayan sido publicados, deberán ajustarse a lo dispuesto por las Ley Federal sobre Metrología y Normalización, su Reglamento y demás disposiciones secundarias vigentes al momento de su elaboración y hasta su conclusión.
+**QUINTO.** Todos los trámites y solicitudes que hayan sido presentados por escrito a las Autoridades Normalizadoras con anterioridad a la entrada en vigor del presente Decreto, se resolverán conforme a lo dispuesto en la Ley Federal sobre Metrología y Normalización, su Reglamento y demás disposiciones secundarias vigentes al momento de su presentación y hasta su conclusión.
+**SEXTO.** Las autorizaciones, acreditaciones, registros y aprobaciones que hayan sido otorgadas en fecha anterior a la entrada en vigor del presente Decreto, estarán vigentes hasta en tanto cumplan el término de su vigencia. Para la renovación de éstas se aplicarán las disposiciones contenidas en el presente Decreto.
+**SÉPTIMO.** La Secretaría de Economía deberá realizar los ajustes pertinentes en materia de normalización, estandarización, evaluación de la conformidad y metrología, así como emitir los lineamientos que regularán el acceso a la Plataforma Tecnológica Integral de Infraestructura de la Calidad por parte de los interesados, y los formatos electrónicos que deberán utilizarse para esos efectos, dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.
+**OCTAVO.** Las disposiciones administrativas en materia de normalización, estandarización, evaluación de la conformidad y metrología, en particular las relativas a la elaboración de normas oficiales mexicanas y a la aprobación de los organismos nacionales de normalización, organismos de certificación, laboratorios de prueba y de calibración y unidades de verificación, contenidas en otros ordenamientos; emitidas con anterioridad a la entrada en vigor de la presente Ley, continuarán vigentes en todo lo que no se le oponga, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo a la misma.
+**NOVENO.** Las referencias que, en otras leyes y demás disposiciones jurídicas, así como la denominación de los Organismos de Evaluación de la Conformidad se realicen a la Ley Federal sobre Metrología y Normalización por lo que hace a cuestiones sobre normalización, evaluación de la conformidad y metrología, se entenderán a los referidos en la Ley de Infraestructura de la Calidad.
+**DÉCIMO.** La Secretaría de Economía y las Autoridades Normalizadoras realizarán las acciones necesarias para que la implementación de las disposiciones previstas en la presente Ley se lleve a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
+**DÉCIMO PRIMERO.** La Secretaría de Economía asumirá la Presidencia Permanente de la Comisión Nacional de Infraestructura de la Calidad, a partir del 1° de enero del año próximo siguiente al de la publicación en el Diario Oficial de la Federación del presente Decreto.
 Asimismo, lo previsto en el artículo 16 de esta Ley relativo a la conformación de la Comisión Nacional de Infraestructura de la Calidad deberá formalizarse en los términos establecidos en el párrafo anterior.
-DÉCIMO SEGUNDO. Lo previsto en el artículo 45 de esta Ley relativo a las tarifas y precios aplicables, así como la metodología utilizada para su determinación, surtirá efectos a los 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
-DÉCIMO TERCERO. La Comisión Nacional de Infraestructura de la Calidad deberá emitir los lineamientos y medidas sobre mejora regulatoria previstos en el artículo 36 dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.
-DÉCIMO CUARTO. El Centro Nacional de Metrología, expedirá los lineamientos para la designación de un ente público como Instituto Designado de Metrología, dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.
-DÉCIMO QUINTO. Las infracciones cometidas con anterioridad a la entrada en vigor del presente Decreto se sancionarán conforme a las disposiciones vigentes al momento de su comisión.
-Ciudad de México, a 30 de junio de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. M. Citlalli Hernández Mora, Secretaria.- Dip. Maribel Martínez Ruiz, Secretaria.- Rúbricas.” En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la LEY DE INFRAESTRUCTURA DE LA CALIDAD Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+**DÉCIMO SEGUNDO.** Lo previsto en el artículo 45 de esta Ley relativo a las tarifas y precios aplicables, así como la metodología utilizada para su determinación, surtirá efectos a los 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+**DÉCIMO TERCERO.** La Comisión Nacional de Infraestructura de la Calidad deberá emitir los lineamientos y medidas sobre mejora regulatoria previstos en el artículo 36 dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.
+**DÉCIMO CUARTO.** El Centro Nacional de Metrología, expedirá los lineamientos para la designación de un ente público como Instituto Designado de Metrología, dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.
+**DÉCIMO QUINTO.** Las infracciones cometidas con anterioridad a la entrada en vigor del presente Decreto se sancionarán conforme a las disposiciones vigentes al momento de su comisión.
+Ciudad de México, a 30 de junio de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. M. Citlalli Hernández Mora, Secretaria.- Dip. Maribel Martínez Ruiz, Secretaria.- Rúbricas.” En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

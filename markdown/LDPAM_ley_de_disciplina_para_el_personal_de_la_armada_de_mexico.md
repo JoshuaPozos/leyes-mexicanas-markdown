@@ -5,7 +5,7 @@
 
 ---
 
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 13 de diciembre de 2002 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 13 de diciembre de 2002 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MEXICO CAPITULO I Disposiciones Generales
@@ -26,7 +26,6 @@ El personal naval cumplirá con dignidad su deber y evitará, en el ejercicio de
 
 ### Artículo 5
 .- El servicio de la Armada exige que el personal naval cumpla con su deber en defensa de la soberanía del Estado, de las instituciones y del prestigio e imagen pública de la Armada de México.
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO
 
 ### Artículo 6
 .- Es deber del superior estimular a quien sobresalga en el cumplimiento de sus obligaciones, así como prevenir que los subalternos infrinjan este ordenamiento y, sólo como último recurso, sancionarlos.
@@ -55,7 +54,6 @@ CAPITULO III Lineamientos de Conducta
 ### Artículo 12
 .- Quien tenga conferido un mando, cargo o comisión, está facultado para expedir órdenes, nunca dudará en tomar la iniciativa y siempre asumirá la responsabilidad por los resultados de sus decisiones. Los límites de esta facultad se señalan en la presente Ley y demás ordenamientos aplicables.
 Quien ejerza el mando lo hará conforme a sus atribuciones y deberes, cumpliendo y haciendo cumplir las órdenes y disposiciones íntegramente.
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO
 
 ### Artículo 13
 .- La relación entre superiores y subalternos se fundamenta en el respeto mutuo. Las muestras de respeto se observarán aun vistiendo de civil.
@@ -92,7 +90,6 @@ Cuando se ponga en riesgo el desarrollo de actividades de superior importancia p
 
 ### Artículo 23
 .- El superior procurará no hacer observaciones o correcciones al militar en presencia del personal de menor jerarquía y menos aún de civiles.
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO
 
 ### Artículo 24
 .- El personal de la Armada elevará sus solicitudes por los conductos regulares, respetando el nivel de autoridad que le corresponda por la jerarquía, cargo o comisión que desempeñe; en caso de tener queja por no haber recibido respuesta a su solicitud o por haber sido objeto de un agravio, podrá recurrir al siguiente nivel de autoridad, hasta llegar, si es preciso, ante el Presidente de la República.
@@ -128,7 +125,6 @@ Todo el que ejerza el mando o cargo tiene la obligación de reprimir tales actos
 
 ### Artículo 33
 .- El personal de la Armada pondrá especial empeño en la conservación del material bajo su cuidado o cargo, sujetándose a lo que establezcan los reglamentos, disposiciones o instructivos de operación, mantenimiento, reparación y otros inherentes a dicho material perteneciente a la Armada.
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO
 
 ### Artículo 34
 .- Las obligaciones según la jerarquía, así como lo relativo a los diferentes servicios interiores, las rutinas, los toques y demás, en las unidades y establecimientos, se organizarán y ejecutarán conforme a lo que se establece en los reglamentos respectivos.
@@ -155,7 +151,7 @@ VIII. Solicitar a la superioridad el cambio de adscripción de un subalterno por
 IX. Entrar en cantinas, garitos o sitios de prostitución, portando uniforme;
 X. Participar uniformado en marchas, espectáculos o representaciones;
 XI. Mezclar las prendas de los diferentes uniformes entre sí o con las de paisano;
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO XII. Aceptar todo compromiso que implique deshonor, falta de disciplina o menoscabo de la reputación de la Institución, y XIII. Empeñar su palabra de honor, cuando no tengan la seguridad de poder cumplirla.
+XII. Aceptar todo compromiso que implique deshonor, falta de disciplina o menoscabo de la reputación de la Institución, y XIII. Empeñar su palabra de honor, cuando no tengan la seguridad de poder cumplirla.
 CAPITULO IV De los Estímulos
 
 ### Artículo 38
@@ -183,7 +179,6 @@ Tiene como finalidad corregir las conductas contrarias a la disciplina naval y e
 
 ### Artículo 44
 .- Quien infrinja un precepto legal o reglamentario se hará acreedor a un correctivo disciplinario, de acuerdo con su jerarquía y la magnitud de su falta. Si tal infracción constituye un delito, quedará el infractor sujeto al proceso correspondiente de acuerdo con la legislación penal militar y, en su caso, al fuero federal o común.
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO
 
 ### Artículo 45
 .- Son infracciones a esta Ley y se sancionarán disciplinariamente según la gravedad de la causa, las faltas siguientes:
@@ -211,7 +206,7 @@ La sanción a estas faltas será competencia de los organismos disciplinarios.
 ### Artículo 49
 .- Tienen facultad para imponer correctivos disciplinarios:
 I. El personal, desde almirantes hasta cabos, a los individuos de menor jerarquía;
-II. Los mandos y el personal en razón de su cargo o comisión, a sus subalternos y a los de su misma jerarquía cuando les estén subordinados, y LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO III. Los organismos disciplinarios.
+II. Los mandos y el personal en razón de su cargo o comisión, a sus subalternos y a los de su misma jerarquía cuando les estén subordinados, y III. Los organismos disciplinarios.
 
 ### Artículo 50
 .- Los correctivos disciplinarios son:
@@ -238,7 +233,7 @@ Tratándose de arrestos impuestos a personal con categoría de almirante y a los
 ### Artículo 54
 .- Tienen facultad para graduar los arrestos:
 I. El Mando Supremo y el Alto Mando;
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO II. El Subsecretario, Oficial Mayor, Inspector y Contralor General de la Secretaría de Marina, y el Jefe del Estado Mayor General de la Armada;
+II. El Subsecretario, Oficial Mayor, Inspector y Contralor General de la Secretaría de Marina, y el Jefe del Estado Mayor General de la Armada;
 III. Los mandos superiores en jefe, mandos superiores y mandos subordinados;
 IV. Los jefes de unidades, directores generales y directores de establecimientos;
 V. Los presidentes de organismos disciplinarios, y VI. Los almirantes, capitanes y oficiales expresamente designados por el Mando respectivo.
@@ -268,7 +263,6 @@ Asimismo, podrá recomendar a los titulares de las unidades y establecimientos d
 
 ### Artículo 61
 .- El cambio de adscripción en observación de su conducta a una comisión subalterna, consiste en designarle al sancionado un cargo de menor importancia en otra unidad o establecimiento, hasta por seis meses. Una vez que la sanción haya concluido, el mando correspondiente deberá informar al Estado Mayor General de la Armada sobre la conducta y actuación del sancionado, a efecto de que se le considere para su siguiente comisión.
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO
 
 ### Artículo 62
 .- La suspensión de los derechos escalafonarios consiste en que el infractor no puede ser considerado para ascender al grado inmediato superior durante el plazo que determine el organismo disciplinario respectivo. El plazo antes referido podrá ser de hasta un año, contado a partir del momento en que al sancionado le corresponda ser convocado para participar en promoción.
@@ -303,7 +297,7 @@ Sección Segunda Criterios para la Imposición y Graduación de Correctivos
 
 ### Artículo 71
 .- Cuando en la comisión de una falta aparezca más de un infractor, se realizarán las indagaciones necesarias para establecer las responsabilidades individuales y se impondrán los correctivos de igual manera; por lo tanto, no se impondrán sanciones colectivas.
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO Sección Tercera De las Circunstancias Atenuantes
+Sección Tercera De las Circunstancias Atenuantes
 
 ### Artículo 72
 .- Son circunstancias atenuantes para la graduación de arrestos las siguientes:
@@ -330,7 +324,7 @@ VIII. Tratar de ocultar las consecuencias de la falta, mediante la comisión de 
 IX. Que la falta cometida transgreda al mismo tiempo varios ordenamientos;
 X. Infringir un ordenamiento en presencia de personal extraño a la Armada;
 XI. Abusar de la jerarquía o del cargo que se desempeña para cometer la falta, y XII. Otras circunstancias que a juicio del mando correspondiente, aumenten la gravedad de la falta.
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO CAPITULO VI Organismos Disciplinarios
+CAPITULO VI Organismos Disciplinarios
 
 ### Artículo 74
 .- Los organismos disciplinarios que conocen de las faltas graves, son los siguientes:
@@ -355,6 +349,9 @@ El Consejo de Honor Superior funcionará en las unidades con mando superior en j
 
 ### Artículo 80
 .- La prescripción es personal, producirá su efecto aunque no la alegue como excepción el infractor. Los organismos disciplinarios, la suplirán de oficio tan luego tengan conocimiento de ella; sea cual fuere el estado del procedimiento administrativo.
-TRANSITORIOS Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO Segundo.- Se abroga la Ley de Disciplina de la Armada de México, publicada en el Diario Oficial de la Federación con fecha 26 de diciembre de 1978.
+
+## TRANSITORIOS
+
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley de Disciplina de la Armada de México, publicada en el Diario Oficial de la Federación con fecha 26 de diciembre de 1978.
 México, D.F., a 31 de octubre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Yolanda E. González Hernández, Secretario.- Dip. Adela Cerezo Bautista, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.

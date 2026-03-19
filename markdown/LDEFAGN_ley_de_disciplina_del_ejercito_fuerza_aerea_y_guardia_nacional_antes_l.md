@@ -5,9 +5,9 @@
 
 ---
 
-LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL (Antes “Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos”) Nueva Ley publicada en el Diario Oficial de la Federación el 15 de marzo de 1926 TEXTO VIGENTE Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
+(Antes “Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos”) Nueva Ley publicada en el Diario Oficial de la Federación el 15 de marzo de 1926 TEXTO VIGENTE Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme la siguiente Ley: “PLUTARCO ELIAS CALLES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
-Que en uso de la autorización concedida al Ejecutivo de la Unión por Decreto de 7 de enero de 1926 he tenido a bien expedir la siguiente LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL Denominación de la Ley reformada DOF 11-12-1995, 16-07-2025
+Que en uso de la autorización concedida al Ejecutivo de la Unión por Decreto de 7 de enero de 1926 he tenido a bien expedir la siguiente Denominación de la Ley reformada DOF 11-12-1995, 16-07-2025
 
 ## CAPÍTULO I
 Disposiciones Generales Denominación del Capítulo reformada DOF 10-12-2004
@@ -27,7 +27,7 @@ Artículo reformado DOF 11-12-1995, 16-07-2025
 
 ### Artículo 3o
 .- La disciplina en el Ejército, Fuerza Aérea y Guardia Nacional, es la norma a la que los militares deben ajustar su conducta; tiene como bases la obediencia, y un alto concepto del honor, de la justicia y de la moral, y por objeto, el fiel y exacto cumplimiento de los deberes que prescriben las leyes y reglamentos militares.
-Artículo reformado DOF 11-12-1995, 16-07-2025 LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
+Artículo reformado DOF 11-12-1995, 16-07-2025
 
 ### Artículo 3o
 Bis.- La disciplina es la base fundamental del Ejército, Fuerza Aérea y Guardia Nacional, los cuales existen primordialmente para defender los intereses de la Patria y preservar su vida institucional.
@@ -72,7 +72,7 @@ Artículo reformado DOF 11-12-1995; 10-12-2004
 
 ### Artículo 13
 .- El militar aceptará dignamente y con satisfacción las obligaciones que le imponga su servicio, sin oponer dificultades, pero cuando menoscabe su jerarquía militar, tendrá derecho de representar ante la superioridad.
-Artículo reformado DOF 10-12-2004 LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
+Artículo reformado DOF 10-12-2004
 
 ### Artículo 14
 .- Queda estrictamente prohibido al militar dar órdenes cuya ejecución constituya un delito; el militar que las expida y el subalterno que las cumpla, serán responsables conforme al Código de Justicia Militar.
@@ -118,7 +118,7 @@ Bis.- El militar, atendiendo a su honor y principios, debe obrar con equidad y j
 Artículo adicionado DOF 10-12-2004
 
 ## CAPÍTULO III
-Correctivos Disciplinarios Denominación del Capítulo reformada DOF 10-12-2004 (reubicación) LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
+Correctivos Disciplinarios Denominación del Capítulo reformada DOF 10-12-2004 (reubicación)
 
 ### Artículo 24
 Ter.- El correctivo disciplinario es la medida coercitiva que se impone a todo militar del Ejército, Fuerza Aérea y Guardia Nacional, por haber infringido las leyes, reglamentos militares, siempre y cuando no constituyan un delito.
@@ -151,7 +151,7 @@ Artículo reformado DOF 11-12-1995. Derogado DOF 10-12-2004
 
 ### Artículo 28
 .- Toda orden de arresto deberá darse por escrito. En caso de que un militar se vea precisado a imponerlo por orden verbal, surtirá efectos de inmediato, pero dicha orden deberá ser ratificada por escrito dentro de las 24 horas siguientes, anotando el motivo y fundamento de la misma, así como la hora; en caso de que no se ratifique, la orden quedará sin efecto.
-Artículo reformado DOF 10-12-2004 LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
+Artículo reformado DOF 10-12-2004
 
 ### Artículo 29
 .- El que impida el cumplimiento de un arresto, el que permita que se quebrante, así como el que no lo cumpla, serán sancionados de acuerdo a lo dispuesto en el Código de Justicia Militar.
@@ -186,7 +186,7 @@ Artículo reformado DOF 10-12-2004
 ### Artículo 33
 Bis.- Tienen facultad para graduar arrestos:
 I.- El Secretario, Subsecretario y Oficial Mayor de la Secretaría de la Defensa Nacional, y II.- En las tropas a su mando: a) Los Comandantes del Ejército, de la Fuerza Aérea y de la Guardia Nacional, los Comandantes de Mandos Territoriales, de Unidades y Organismos Circunstanciales; así como, los Coordinadores Territoriales, Estatales y de Unidad de nivel Batallón y Grupos Especializados, Jefes y Oficiales Comandantes de Unidades destacamentadas;
-Inciso reformado DOF 16-07-2025 LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL b) Los Directores Generales de las Armas y Servicios, y c) Los Directores y Jefes de Dependencias e Instalaciones.
+Inciso reformado DOF 16-07-2025 b) Los Directores Generales de las Armas y Servicios, y c) Los Directores y Jefes de Dependencias e Instalaciones.
 En ausencia de los anteriores, la facultad recaerá en quien los suceda en el mando o cargo.
 Artículo adicionado DOF 10-12-2004
 
@@ -220,7 +220,7 @@ I.- De todo lo relativo a la reputación de la Unidad, Dependencia o Instalació
 Fracción reformada DOF 11-12-1995 II.- De la embriaguez, uso de narcóticos y juegos prohibidos por la ley;
 Fracción reformada DOF 11-12-1995; 10-12-2004 III.- De la disolución escandalosa.
 IV.- De la falta de honradez en el manejo de caudales que no constituya un delito;
-Fracción reformada DOF 10-12-2004 LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL V.- De la negligencia en el servicio, que no constituya un delito.
+Fracción reformada DOF 10-12-2004 V.- De la negligencia en el servicio, que no constituya un delito.
 VI.- De todo lo que concierne a la dignidad militar.
 
 ### Artículo 36
@@ -249,7 +249,7 @@ IV. Tercera vocalía: La persona titular de la Jefatura del Estado Mayor Conjunt
 V. Cuarta vocalía: La persona titular de la Comandancia del Ejército Mexicano;
 VI. Quinta vocalía: La persona titular de la Comandancia de la Fuerza Aérea Mexicana;
 VII. Sexta vocalía: La persona titular de la Comandancia de la Guardia Nacional;
-LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL VIII. Secretaría del Consejo: La persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional;
+VIII. Secretaría del Consejo: La persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional;
 IX. Secretaría Adjunta del Consejo: La persona titular de la Jefatura de la Sección Primera (Recursos Humanos) del Estado Mayor Conjunto de la Defensa Nacional;
 X. Primera asesoría: La persona titular de la Unidad de Asuntos Jurídicos de la Secretaría de la Defensa Nacional, y XI. Segunda asesoría: La persona titular de la Asesoría Jurídica del Estado Mayor Conjunto de la Defensa Nacional.
 Artículo adicionado DOF 16-07-2025
@@ -283,53 +283,85 @@ Artículo reformado DOF 11-12-1995
 Prevenciones Generales Capítulo adicionado DOF 10-12-2004
 
 ### Artículo 42
-.- El militar que tenga alguna queja en relación con las disposiciones superiores o las obligaciones que le impone el servicio, podrá acudir ante el superior inmediato para la solución de sus LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL demandas y, en caso de no ser debidamente atendido, podrá llegar por rigurosa escala, hasta el Presidente de la República, si es necesario.
+.- El militar que tenga alguna queja en relación con las disposiciones superiores o las obligaciones que le impone el servicio, podrá acudir ante el superior inmediato para la solución de sus demandas y, en caso de no ser debidamente atendido, podrá llegar por rigurosa escala, hasta el Presidente de la República, si es necesario.
 Artículo adicionado DOF 10-12-2004
 
 ### Artículo 43
 .- Todo militar que infrinja la presente Ley, así como algún precepto reglamentario, se hará acreedor a un correctivo disciplinario, de acuerdo con su jerarquía en el Ejército, Fuerza Aérea y Guardia Nacional y, si la magnitud de su falta constituye un delito, quedará sujeto a lo dispuesto por el Código de Justicia Militar.
-Artículo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025 TRANSITORIOS Artículo Unico.- Desde la promulgación de la presente, quedan derogadas todas las leyes y disposiciones que a ella se opongan.
+Artículo adicionado DOF 10-12-2004. Reformado DOF 16-07-2025
+
+## TRANSITORIOS
+
+Artículo Unico.- Desde la promulgación de la presente, quedan derogadas todas las leyes y disposiciones que a ella se opongan.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 Dada en el Palacio del Poder Ejecutivo Federal, en México, a los once días del mes de marzo de mil novecientos veintiséis.- P. Elías Calles.-Rúbrica.- El Subsecretario Encargado del Despacho de Guerra y Marina, M. Piña.- Rúbrica.- Al C. Ing. Adalberto Tejeda, Secretario del Estado y del Despacho de Gobernación.- Presente.
 Lo que comunico a usted para su publicación y demás efectos.
 Sufragio Efectivo. No Reelección.
 México, 13 de marzo de 1926.- El Secretario de Estado y del Despacho de Gobernación, A. Tejeda.Rúbrica.
-LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO que modifica varias leyes del ramo de Guerra, fijando regias para el reingreso al Ejército o Armada Nacionales.
-Publicado en el Diario Oficial de la Federación el 16 de enero de 1934 TRANSITORIOS ARTICULO 1°.- Se derogan los artículos 4° de la Ordenanza General del Ejército de fecha 11 de diciembre de 1911, 38 de la Ley de Disciplina del Ejército y Armada Nacionales de 11 de marzo de 1926 y 6° de la Ley Orgánica del Ejército y Armada Nacionales de la citada fecha de 11 de marzo de 1926, en cuanto se opongan a esta Ley.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO que modifica varias leyes del ramo de Guerra, fijando regias para el reingreso al Ejército o Armada Nacionales.
+Publicado en el Diario Oficial de la Federación el 16 de enero de 1934
+
+## TRANSITORIOS
+
+ARTICULO 1°.- Se derogan los artículos 4° de la Ordenanza General del Ejército de fecha 11 de diciembre de 1911, 38 de la Ley de Disciplina del Ejército y Armada Nacionales de 11 de marzo de 1926 y 6° de la Ley Orgánica del Ejército y Armada Nacionales de la citada fecha de 11 de marzo de 1926, en cuanto se opongan a esta Ley.
 ARTICULO 2°.- Los militares que tengan más de seis años de estar separados del Ejército por virtud de licencia ilimitada, gozarán de un plazo de seis meses para manifestar su deseo de reingresar al mismo, a fin de no quedar comprendidos en las disposiciones del artículo 5°; pero no podrán usar de esta prerrogativa los militares que se encuentren en los casos a que se refiere el artículo 8°.
 ARTICULO 3°.- La presente ley comenzará a regir desde la fecha de su promulgación.- J. Jesús Delgado, S. V. P.- A. S. Rodríguez, S. P. S.- Gilberto Fabila, D. P.- Andrés H. Peralta, D. S.Rúbricas.” En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo Federal, en México, D. F., a los veintisiete días del mes de diciembre de mil novecientos treinta y tres.- A. L. Rodríguez.- Rúbrica.- El Secretario de Estado y del Despacho de Guerra y Marina, Pablo Quiroga.- Rúbrica.- Al C. Secretario de Gobernación.- Presente.” Lo que comunico a usted para su publicación y demás fines.
 Sufragio Efectivo, No Reelección.
 México, D. F., a 13 de enero de 1934.- El Secretario de Gobernación, Eduardo Vasconcelos.Rúbrica.
 Al C . . . . . .
-LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL DECRETO que reforma y adiciona diversas disposiciones de la Ley de Disciplina del Ejército y Armada Nacionales.
+DECRETO que reforma y adiciona diversas disposiciones de la Ley de Disciplina del Ejército y Armada Nacionales.
 Publicado en el Diario Oficial de la Federación el 11 de diciembre de 1995 ARTICULO UNICO.- SE REFORMAN la denominación de Ley de Disciplina del Ejército y Armada Nacionales por la de Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; y los artículos 1o., 2o., 3o., 4o., 5o., 7o., 8o., 12, 14, 17, 22, 27, 29, 31 párrafo segundo, 34, 35 fracciones I y II, 36 fracción III, 37 inciso a), 39, 41; y se ADICIONA la fracción IV del artículo 36 de la propia Ley, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
 México, D.F., a 16 de noviembre de 1995.- Dip. Fernando Salgado Delgado, Presidente.- Sen.
 Ernesto Navarro González, Presidente.- Dip. Aurelio Marín Huazo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos.
-Publicado en el Diario Oficial de la Federación el 10 de diciembre de 2004 ÚNICO: Se reforman la denominación de los Capítulos I, II y III; así como los artículos 1; 6; 11; 12; 13; 16; 21; 22; 23; 25; 28; 31, primer párrafo; 32; 33; 34; 35, fracciones II y IV; 36, fracción III y 37; se adicionan los Capítulos IV y V; así como los artículos 1 Bis; 3 Bis; 24 Bis; 24 Ter; 24 Quáter; 24 Quinquies; 33 Bis; 33 Ter; 33 Quáter; 33 Quinquies; 36, último párrafo; 42 y 43; y se derogan los artículos 27 y 30 de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ..........
-TRANSITORIOS Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos.
+Publicado en el Diario Oficial de la Federación el 10 de diciembre de 2004
+**ÚNICO.** : Se reforman la denominación de los Capítulos I, II y III; así como los artículos 1; 6; 11; 12; 13; 16; 21; 22; 23; 25; 28; 31, primer párrafo; 32; 33; 34; 35, fracciones II y IV; 36, fracción III y 37; se adicionan los Capítulos IV y V; así como los artículos 1 Bis; 3 Bis; 24 Bis; 24 Ter; 24 Quáter; 24 Quinquies; 33 Bis; 33 Ter; 33 Quáter; 33 Quinquies; 36, último párrafo; 42 y 43; y se derogan los artículos 27 y 30 de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+
+### Artículo Primero
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### Artículo Segundo
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
 México, D.F., a 9 de noviembre de 2004.- Sen. Diego Fernández de Cevallos Ramos, Presidente.Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Rafael Melgoza Radillo, Secretario.- Dip.
 Graciela Larios Rivas, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL DECRETO por el que se reforman diversas disposiciones de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, en materia de disciplina de discentes.
-Publicado en el Diario Oficial de la Federación el 3 de mayo de 2024 Artículo Segundo.- Se reforma el artículo 36, párrafo primero, fracción III, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……..
-Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
-Tercero.- En un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las adecuaciones normativas al Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, en materia de baja definitiva de las fuerzas armadas de discentes, a fin de proveer la exacta observancia de la reforma.
-Cuarto.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
+DECRETO por el que se reforman diversas disposiciones de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, en materia de disciplina de discentes.
+Publicado en el Diario Oficial de la Federación el 3 de mayo de 2024
+
+### Artículo Segundo
+Se reforma el artículo 36, párrafo primero, fracción III, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+**Tercero.-** En un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las adecuaciones normativas al Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, en materia de baja definitiva de las fuerzas armadas de discentes, a fin de proveer la exacta observancia de la reforma.
+**Cuarto.-** Se derogan aquellas disposiciones que se opongan al presente Decreto.
 Ciudad de México, a 2 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Vania Roxana Ávila García, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal;
+DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal;
 Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales.
-Publicado en el Diario Oficial de la Federación el 16 de julio de 2025 Artículo Séptimo.- Se reforman los artículos 1o.; 1o Bis; 2o.; 3o.; 3o Bis; 21; 24 Ter; 25; 31, párrafos segundo y tercero; 33 Bis, párrafo primero, fracción II, inciso a); 34; 36, del párrafo primero, la fracción III y párrafo segundo; 37, párrafo primero; 43, así como la denominación de la ley, y se adicionan a los artículos 1, un párrafo segundo; al 24 Quáter, la fracción IV; el 33 Sexies y al 36, la fracción V, así como el CAPÍTULO IV BIS denominado “Consejo Superior de Disciplina”, el 36 Bis; 36 Ter y 36 Quáter, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……..
-Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
-Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
-Cuarto.- Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
-Quinto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
-Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
-Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
-Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
-LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
+Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
+
+### Artículo Séptimo
+Se reforman los artículos 1o.; 1o Bis; 2o.; 3o.; 3o Bis; 21; 24 Ter; 25; 31, párrafos
+**segundo.** y tercero; 33 Bis, párrafo primero, fracción II, inciso a); 34; 36, del párrafo primero, la fracción III y párrafo segundo; 37, párrafo primero; 43, así como la denominación de la ley, y se adicionan a los artículos 1, un párrafo segundo; al 24 Quáter, la fracción IV; el 33 Sexies y al 36, la fracción V, así como el CAPÍTULO IV BIS denominado “Consejo Superior de Disciplina”, el 36 Bis; 36 Ter y 36 Quáter, de la Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
+**Tercero.-** Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
+**Cuarto.-** Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
+**Quinto.-** Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
+**Sexto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+**Séptimo.-** Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
+**Octavo.-** Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
+Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

@@ -407,9 +407,7 @@ VI. El nombre del juez que pronunció el auto de discernimiento y la fecha de é
 
 ### Artículo 92
 .- Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido por el artículo 83.
-CAPITULO VI De las Actas de Emancipación (Se deroga)
-
-## Capítulo derogado DOF 03-06-2019
+CAPITULO VI De las Actas de Emancipación (Se deroga) Capítulo derogado DOF 03-06-2019
 
 ### Artículo 93
 .- (Se deroga) Artículo reformado DOF 14-03-1973, 03-01-1979. Derogado DOF 03-06-2019
@@ -4505,12 +4503,7 @@ CAPITULO VI De la Manera de Contar el Tiempo para la Prescripción
 
 ### Artículo 1180
 .- Cuando el último día sea feriado, no se tendrá por completa la prescripción, sino cumplido el primero que siga, si fuere útil.
-TITULO OCTAVO De los Derechos de Autor (Se deroga)
-
-## Título derogado DOF 14-01-1948
-CAPITULO I (Se deroga)
-
-## Capítulo derogado DOF 14-01-1948
+TITULO OCTAVO De los Derechos de Autor (Se deroga) Título derogado DOF 14-01-1948 CAPITULO I (Se deroga) Capítulo derogado DOF 14-01-1948
 
 ### Artículo 1181
 .- (Se deroga).
@@ -4762,9 +4755,7 @@ Artículo derogado DOF 14-01-1948
 
 ### Artículo 1243
 .- (Se deroga).
-Artículo derogado DOF 14-01-1948 CAPITULO II (Se deroga)
-
-## Capítulo derogado DOF 14-01-1948
+Artículo derogado DOF 14-01-1948 CAPITULO II (Se deroga) Capítulo derogado DOF 14-01-1948
 
 ### Artículo 1244
 .- (Se deroga).
@@ -4808,9 +4799,7 @@ Artículo derogado DOF 14-01-1948
 
 ### Artículo 1254
 .- (Se deroga).
-Artículo derogado DOF 14-01-1948 CAPITULO III (Se deroga)
-
-## Capítulo derogado DOF 14-01-1948
+Artículo derogado DOF 14-01-1948 CAPITULO III (Se deroga) Capítulo derogado DOF 14-01-1948
 
 ### Artículo 1255
 .- (Se deroga).
@@ -5476,9 +5465,7 @@ Cualquiera otra carga, perpetua o temporal, a que se halle afecta la cosa legada
 .- El legado hecho a un tercero, de un crédito a favor del testador, sólo produce efecto en la parte del crédito que está insoluto al tiempo de abrirse la sucesión.
 
 ### Artículo 1450
-.- En el caso del artículo anterior, el que debe cumplir el legado entregará al legatario el
-
-## título del crédito y le cederá todas las acciones que en virtud de él correspondan al testador.
+.- En el caso del artículo anterior, el que debe cumplir el legado entregará al legatario el título del crédito y le cederá todas las acciones que en virtud de él correspondan al testador.
 
 ### Artículo 1451
 .- Cumpliendo lo dispuesto en el artículo que precede, el que debe pagar el legado queda enteramente libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, ya de insolvencia del deudor o de sus fiadores, ya de otra causa.
@@ -7021,9 +7008,7 @@ Además, responderá de los menoscabos que la cosa haya sufrido por cualquier ca
 Esto no limita el derecho del demandado para acreditar que le era debido lo que recibió.
 
 ### Artículo 1892
-.- Se presume que hubo error en el pago, cuando se entrega cosa que no se debía o que ya estaba pagada; pero aquel a quien se pide la devolución puede probar que la entrega se hizo a
-
-## título de liberalidad o por cualquiera otra causa justa.
+.- Se presume que hubo error en el pago, cuando se entrega cosa que no se debía o que ya estaba pagada; pero aquel a quien se pide la devolución puede probar que la entrega se hizo a título de liberalidad o por cualquiera otra causa justa.
 
 ### Artículo 1893
 .- La acción para repetir lo pagado indebidamente prescribe en un año, contado desde que se conoció el error que originó el pago. El sólo transcurso de cinco años, contados desde el pago indebido, hace perder el derecho para reclamar su devolución.
@@ -8079,9 +8064,7 @@ II. Si una de las deudas toma su origen de fallo condenatorio por causa de despo
 III. Si una de las deudas fuere por alimentos;
 IV. Si una de las deudas toma su origen de una renta vitalicia;
 V. Si una de las deudas procede de salario mínimo;
-VI. Si la deuda fuere de cosa que no puede ser compensada, ya sea por disposición de la ley o por el
-
-## título de que procede, a no ser que ambas deudas fueren igualmente privilegiadas;
+VI. Si la deuda fuere de cosa que no puede ser compensada, ya sea por disposición de la ley o por el título de que procede, a no ser que ambas deudas fueren igualmente privilegiadas;
 VII. Si la deuda fuere de cosa puesta en depósito;
 VIII. Si las deudas fuesen fiscales, excepto en los casos en que la ley lo autorice.
 
@@ -10752,9 +10735,7 @@ II. En el caso de bienes que administren los tutores, por los herederos legítim
 III. Por el Ministerio Público, si no la pidieren las personas enumeradas en las fracciones anteriores.
 
 ### Artículo 2937
-.- La constitución de la hipoteca por los bienes de hijos de familia, de los menores y de los demás incapacitados, se regirá por las disposiciones contenidas en el título VIII, capítulo II; título IX,
-
-## capítulo IX, y título XI, capítulos I y III del libro primero.
+.- La constitución de la hipoteca por los bienes de hijos de familia, de los menores y de los demás incapacitados, se regirá por las disposiciones contenidas en el título VIII, capítulo II; título IX, capítulo IX, y título XI, capítulos I y III del libro primero.
 
 ### Artículo 2938
 .- Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca, y el de pedir su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficientes para garantizar el crédito; en ambos casos resolverá el Juez.
@@ -11104,9 +11085,7 @@ Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3020
 .- Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
-Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro
-
-## título de la clase antes expresada, mientras el asiento esté vigente.
+Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada, mientras el asiento esté vigente.
 Artículo reformado DOF 18-01-1952, 03-01-1979
 
 ### Artículo 3021
@@ -11250,10 +11229,7 @@ II. La inmatriculación por resolución administrativa se obtiene: a) Mediante l
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988 Inmatriculación por Resolución Judicial Epígrafe adicionado DOF 07-01-1988
 
 ### Artículo 3047
-.- En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga
-
-## título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el
-juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Nacional de Procedimientos Civiles y Familiares.
+.- En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Nacional de Procedimientos Civiles y Familiares.
 Párrafo reformado DOF 14-11-2025 Comprobados debidamente los requisitos de la prescripción, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988
 
@@ -11369,9 +11345,7 @@ Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979
 
 ### Artículo 3067
-.- Los asientos del Registro Público no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el
-
-## título con la certificación de haber sido registrado.
+.- Los asientos del Registro Público no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el título con la certificación de haber sido registrado.
 Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando substancialmente se hubieren alterado dichos asientos, así como en el caso de que se hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de lo establecido respecto a la rectificación de errores, inexactitudes u omisiones.
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979
 
@@ -11459,26 +11433,47 @@ DECRETO por el cual se previene que el Código Civil de 30 de agosto de 1928, co
 Publicado en el Diario Oficial de la Federación el 1o. de septiembre de 1932 ARTICULO UNICO.- Se reforma el artículo 1o. transitorio del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, expedido el 30 de agosto de 1928, que quedará en los siguientes términos: ……… DECRETO que reforma los artículos 390 del Código Civil y 923 del de Procedimientos Civiles para el Distrito y Territorios Federales.
 Publicado en el Diario Oficial de la Federación el 31 de marzo de 1938 materia común y para toda la República en materia federal, de 30 de agosto de 1928, debiendo quedar en la siguiente forma: ……… Publicado en el Diario Oficial de la Federación el 20 de enero de 1940 ARTICULO UNICO.- Se reforma y adiciona el artículo 1915 del Código Civil del Distrito y Territorios Federales, en los siguientes términos: ……… ACLARACIÓN a la publicación del Decreto que reforma el artículo 1915 del Código Civil del Distrito y Territorio Federales.
 Publicada en el Diario Oficial de la Federación el 30 de abril de 1940 En el artículo Único, línea 6, dice: … sea posible, … Debe decir: … sea imposible, … DECRETO que prorroga en el Distrito Federal, por el tiempo que dure el estado de guerra en que se encuentra el país, toda clase de contratos de arrendamiento de casashabitación vigentes.
-Publicado en el Diario Oficial de la Federación el 11 de noviembre de 1943 DECRETO ARTICULO CUARTO.- Se suspende la vigencia de los artículos 2483 fracción I, primera parte; 2484, 2478 y 2479 Código Civil. (Párrafos segundo y tercero) ……… TRANSITORIOS:
+Publicado en el Diario Oficial de la Federación el 11 de noviembre de 1943 DECRETO ARTICULO CUARTO.- Se suspende la vigencia de los artículos 2483 fracción I, primera parte; 2484, 2478 y 2479 Código Civil. (Párrafos segundo y tercero) ………
+
+## TRANSITORIOS
+
+:
 ARTICULO 1º.- El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
 ARTICULO 2º.- Los juicios de desocupación por terminación del contrato de arrendamiento que estén pendientes al entrar en vigor el presente, se sobreseerán.
 ARTICULO 3º.- Los términos que estuvieron corriendo de conformidad con el artículo 2478 del Código Civil para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efectos los avisos dados por arrendadores a los inquilinos, notificándoles su voluntad de dar por terminado el arrendamiento.
 DECRETO que prorroga los contratos de arrendamiento de casas habitación en los Territorios Federales en beneficio de los inquilinos, mientras dure el estado de guerra.
-Publicado en el Diario Oficial de la Federación el 9 de junio de 1944 DECRETO ARTICULO 4°.- Se suspende la vigencia de los artículos 2478, 2479, 2483, fracción I, primera parte, y (Párrafos segundo y tercero) ……… TRANSITORIOS ARTICULO 1º.- El presente Decreto entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
+Publicado en el Diario Oficial de la Federación el 9 de junio de 1944 DECRETO ARTICULO 4°.- Se suspende la vigencia de los artículos 2478, 2479, 2483, fracción I, primera parte, y (Párrafos segundo y tercero) ………
+
+## TRANSITORIOS
+
+ARTICULO 1º.- El presente Decreto entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
 ARTICULO 2º.- Los juicios de desocupación por terminación del contrato de arrendamiento que estén pendientes al entrar en vigor el presente, se sobreseerán.
 ARTICULO 3º.- Los términos que estuvieron corriendo de conformidad con el artículo 2478 del Código Civil para dar por terminado un arrendamiento por tiempo indefinido, se suspenderán y no surtirán efectos los avisos dados por arrendadores a los inquilinos, notificándoseles su voluntad de dar por terminado el arrendamiento.
-Publicada en el Diario Oficial de la Federación el 23 de febrero de 1946 TRANSITORIOS:
+Publicada en el Diario Oficial de la Federación el 23 de febrero de 1946
+
+## TRANSITORIOS
+
+:
 ARTICULO 1°.- La presente Ley entrara en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
 ARTICULOS 2° A 13.- ……….
 ARTICULO 14.- Se modifican los artículos 1777, 2917, 2316, 2317, 2033, 2320 y 2345 del Código Civil para el Distrito y Territorios Federales de fecha 30 de agosto de 1928, en los términos del artículo 54 de la presente Ley.
 LEY Federal sobre el Derecho de Autor.
-Publicada en el Diario Oficial de la Federación el 14 de enero de 1948 TRANSITORIOS:
+Publicada en el Diario Oficial de la Federación el 14 de enero de 1948
+
+## TRANSITORIOS
+
+:
 ARTICULO PRIMERO.- Esta ley entrará en vigor a los quince días de su publicación en el "Diario Oficial" de la Federación.
 ARTICULO SEGUNDO.- Queda derogado el Título Octavo del Libro Segundo del Código Civil vigente y todas las disposiciones que se opongan a la presente Ley, excepto para regir las violaciones ocurridas antes de la vigencia de ésta.
 ARTICULOS TERCERO A QUINTO.- ……….
 DECRETO que reforma el artículo 730 del Código Civil para el Distrito y Territorios Federales.
 Publicado en el Diario Oficial de la Federación el 27 de febrero de 1951 en vigor, para quedar en los siguientes términos: ……… DECRETO que reforma varios artículos del Código Civil y el Título II de la Tercera Parte del Libro Cuarto de este mismo Código.
-Publicado en el Diario Oficial de la Federación el 18 de enero de 1952 ARTICULO UNICO.- Se reforman los artículos 1550, 1553, 1554, 1556, 1557, 1558, 1559, 1560, 1564, 1596, 2310, 2313, 2852, 2853 y 2859 del Código Civil y el Titulo II de la Tercera Parte del Libro Cuarto del mismo Código, para quedar en los siguientes términos: ……… TRANSITORIOS ARTICULO 1º.- El presente decreto entrará en vigor al mismo tiempo que el nuevo Reglamento del Registro Público que se expida, en la fecha que fije el Ejecutivo.
+Publicado en el Diario Oficial de la Federación el 18 de enero de 1952 ARTICULO UNICO.- Se reforman los artículos 1550, 1553, 1554, 1556, 1557, 1558, 1559, 1560, 1564, 1596, 2310, 2313, 2852, 2853 y 2859 del Código Civil y el Titulo II de la Tercera Parte del Libro
+**Cuarto.** del mismo Código, para quedar en los siguientes términos: ………
+
+## TRANSITORIOS
+
+ARTICULO 1º.- El presente decreto entrará en vigor al mismo tiempo que el nuevo Reglamento del Registro Público que se expida, en la fecha que fije el Ejecutivo.
 ARTICULO 2º.- Sus disposiciones se aplicarán a los actos y contratos y a los títulos y documentos de fecha anterior a su vigencia, siempre que su aplicación no resulte retrospectiva.
 ARTICULO 3º.- Al entrar en vigor el presente decreto, el Director del Registro Público de la Propiedad del Distrito Federal y los registradores de los Territorios, harán entrega a los encargados de los Archivos de Notarías de sus respectivas jurisdicciones, de los testamentos ológrafos depositados en el Registro, mediante relación detallada de los mismos, entregándoles igualmente los libros de registro y los índices en donde se encuentren anotados dichos testamentos, para su guarda y depósito.
 ARTICULO 4º.- Las personas casadas bajo el régimen de sociedad conyugal, tendrán un plazo de seis meses a partir de la fecha en que este decreto entre en vigor para inscribir en el registro relativo a los inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, esta circunstancia. Pasado este plazo se aplicará a toda inscripción hecha en el registro lo dispuesto en el
@@ -11487,7 +11482,11 @@ ARTICULO 4º.- Las personas casadas bajo el régimen de sociedad conyugal, tendr
 .
 ARTICULO 5º.- Quedan derogadas las disposiciones del Código Civil de 1932, que se opongan al presente decreto.
 DECRETO que reforma diversos artículos del Código Civil para el Distrito y Territorios Federales.
-Publicado en el Diario Oficial de la Federación el 9 de enero de 1954 ARTICULO UNICO.- Se reforman los artículos 163, 169, 170, 171, 282 fracción II, 372, 426 y 489, para quedar redactados en los siguientes términos: ……… TRANSITORIO:
+Publicado en el Diario Oficial de la Federación el 9 de enero de 1954 ARTICULO UNICO.- Se reforman los artículos 163, 169, 170, 171, 282 fracción II, 372, 426 y 489, para quedar redactados en los siguientes términos: ………
+
+## TRANSITORIO
+
+:
 El presente decreto entrará en vigor diez días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
 DECRETO que reforma el artículo 951 del Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal.
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 1954 en materia común y para toda la República en materia federal, como sigue: ……… FE DE ERRATAS al Decreto que reforma el artículo 951 del Código Civil y a la Ley sobre el Régimen de Propiedad y Condominio de los Edificios Divididos en Pisos, publicados el día 15 de diciembre próximo pasado.
@@ -11495,58 +11494,134 @@ Publicado en el Diario Oficial de la Federación el 11 de enero de 1955 CODIGO C
 Art. 951 …susceptibles de aprovechamiento por tener salida.
 Debe decir: …susceptibles de aprovechamiento independiente por tener salida… DECRETO que reforma el artículo 730 del Código Civil para el Distrito y Territorios Federales.
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1954 en vigor, para quedar en los siguientes términos: ……… común y para toda la República en materia federal, en sus artículos 2317, 2320 y 2917.
-Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1966 ARTICULO UNICO.- Se reforman los artículos 2317, 2320 y 2917 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal para quedar como sigue: ……… TRANSITORIOS:
-Primero.- El presente Decreto entrará en vigos (sic DOF 30-12-1966) tres días después de su publicación en el "Diario Oficial" de la Federación.
-Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1966 ARTICULO UNICO.- Se reforman los artículos 2317, 2320 y 2917 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal para quedar como sigue: ………
+
+## TRANSITORIOS
+
+:
+**Primero.-** El presente Decreto entrará en vigos (sic DOF 30-12-1966) tres días después de su publicación en el "Diario Oficial" de la Federación.
+**Segundo.-** Se derogan las disposiciones legales que se opongan al presente Decreto.
 DECRETO que reforma los artículos 77, 78, 79, 363, 368, 390, 391, 397 fracción III, 398, 403, 405 fracción I y 406 fracciones I y II del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal.
-Publicado en el Diario Oficial de la Federación el 17 de enero de 1970 ARTICULO UNICO.- Se reforman los artículos 77, 78, 79, 363, 368, 390, 391, 397 fracción III, 398, materia común y para toda la República en materia federal, para quedar en la forma que a continuación se expresa. ……… TRANSITORIO:
+Publicado en el Diario Oficial de la Federación el 17 de enero de 1970 ARTICULO UNICO.- Se reforman los artículos 77, 78, 79, 363, 368, 390, 391, 397 fracción III, 398, materia común y para toda la República en materia federal, para quedar en la forma que a continuación se expresa. ………
+
+## TRANSITORIO
+
+:
 UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
 DECRETO que reforma la fracción VIII del artículo 511 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal.
-Publicado en el Diario Oficial de la Federación el 17 de enero de 1970 ARTICULO UNICO.- Se reforma la fracción VIII del Artículo 511 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, para quedar como sigue: ……… TRANSITORIO:
+Publicado en el Diario Oficial de la Federación el 17 de enero de 1970 ARTICULO UNICO.- Se reforma la fracción VIII del Artículo 511 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal, para quedar como sigue: ………
+
+## TRANSITORIO
+
+:
 ARTICULO UNICO.- La presente reforma entrará en vigor al tercer día de su publicación en el "Diario Oficial" de la Federación. común y para toda la República en materia federal, a los artículos 149; 237, fracción II; 348, fracciones I y II; 438; 443, fracción II; 451; 624; 641; 643 y 646.
 Publicado en el Diario Oficial de la Federación el 28 de enero de 1970 REFORMAS AL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL A LOS ARTICULOS 149; 237, FRACCION II; 348, FRACCIONES I y II; 438; 443, FRACCION II; 451; 624; 641; 643 y 646. ……… ARTICULO SEGUNDO.- (sic DOF 28-01-1970) Se derogan los artículos 94, 95, 96, 642, 644 y 645 materia federal.
-TRANSITORIO:
+
+## TRANSITORIO
+
+:
 ARTICULO UNICO.- El presente decreto surtirá sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
 DECRETO por el que se reforman diversos artículos del Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 24 de marzo de 1971 ARTICULO UNICO.- Se reforman los artículos 44, 52, 105, 107, 108, 150, 167, 291, 323, 371, 380, 381, 454, 459, 460, 468, 496, 497, 500, 501, 522, 540, 544, 546, y 632 a 634 del Código Civil para el Distrito y Territorios Federales en materia común, y para toda la República en materia federal, para quedar como sigue: ……… TRANSITORIOS ARTICULO UNICO.- Este decreto entrará en vigor en la misma fecha que las reformas a la Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales, aprobadas por el H. Congreso de la Unión en el presente período extraordinario de sesiones.
+Publicado en el Diario Oficial de la Federación el 24 de marzo de 1971 ARTICULO UNICO.- Se reforman los artículos 44, 52, 105, 107, 108, 150, 167, 291, 323, 371, 380, 381, 454, 459, 460, 468, 496, 497, 500, 501, 522, 540, 544, 546, y 632 a 634 del Código Civil para el Distrito y Territorios Federales en materia común, y para toda la República en materia federal, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+ARTICULO UNICO.- Este decreto entrará en vigor en la misma fecha que las reformas a la Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales, aprobadas por el H. Congreso de la Unión en el presente período extraordinario de sesiones.
 DECRETO que reforma el Artículo 951 del Código Civil para el Distrito y Territorios Federales en materia común y para toda la República en materia federal.
-Publicado en el Diario Oficial de la Federación el 4 de enero de 1973 en materia común y para toda la República en materia federal, como sigue: ……… TRANSITORIO ARTICULO UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+Publicado en el Diario Oficial de la Federación el 4 de enero de 1973 en materia común y para toda la República en materia federal, como sigue: ………
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 DECRETO por el que se reforman diversos artículos del Código Civil para el Distrito y Territorios Federales.
-Publicado en el Diario Oficial de la Federación el 14 de marzo de 1973 ARTICULO UNICO.- Se reforman los artículos 35, 36, 37, 38, 41, 42, 46, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 61, 63, 65, 69, 71, 72, 74, 76, 83, 84, 88, 89, 93, 97, 99, 100, 101, 102, 103, 105, 107, 108, 110, 111, 112, 113, 114, 117, 118, 120, 121, 122, 126, 127, 128, 131, 132, 133, 138, 148, 151, 153, 241, para quedar como sigue: ……… TRANSITORIOS:
+Publicado en el Diario Oficial de la Federación el 14 de marzo de 1973 ARTICULO UNICO.- Se reforman los artículos 35, 36, 37, 38, 41, 42, 46, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 61, 63, 65, 69, 71, 72, 74, 76, 83, 84, 88, 89, 93, 97, 99, 100, 101, 102, 103, 105, 107, 108, 110, 111, 112, 113, 114, 117, 118, 120, 121, 122, 126, 127, 128, 131, 132, 133, 138, 148, 151, 153, 241, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+:
 ARTICULO UNICO.- Este decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
 Común, y para toda la República en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1973 ARTICULO UNICO.- Se reforma el artículo 3018 del Código Civil para el Distrito y Territorios Federales, en Materia Común y para toda la República en Materia Federal, para quedar como sigue: ……… TRANSITORIOS:
-PRIMERO.- Las presentes reformas entrarán en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
-SEGUNDO.- Al entrar en vigor el Decreto de 31 de Diciembre de 1951, publicado en el "Diario Oficial" el 18 de Enero de 1952, el Artículo 3018 que se reforma en este Decreto, tomará el número que le corresponda.
-TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
+Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1973 ARTICULO UNICO.- Se reforma el artículo 3018 del Código Civil para el Distrito y Territorios Federales, en Materia Común y para toda la República en Materia Federal, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+:
+**PRIMERO.-** Las presentes reformas entrarán en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
+**SEGUNDO.-** Al entrar en vigor el Decreto de 31 de Diciembre de 1951, publicado en el "Diario Oficial" el 18 de Enero de 1952, el Artículo 3018 que se reforma en este Decreto, tomará el número que le corresponda.
+**TERCERO.-** Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
 DECRETO por el que se reforman diversas leyes para concordarlas con el Decreto que reformó el artículo 43 y demás relativos, de la Constitución Política de los Estados Unidos Mexicanos.
-Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974 ARTICULO CUADRAGESIMO SEGUNDO.- Se reforman el nombre y los artículos 1o.; 14; 15; 16; 33; 35; 38; 51; 53; 148; 151; 545; 631; 728; 730; 735, fracción I; 786; 1148; 1167, fracciones V y VI; 1313; 1328; 1593; 1594; 1596; 2736; 2773; y 3005, fracción I del Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal, para quedar como sigue: ……… TRANSITORIO ARTICULO UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974 ARTICULO CUADRAGESIMO SEGUNDO.- Se reforman el nombre y los artículos 1o.; 14; 15; 16; 33; 35; 38; 51; 53; 148; 151; 545; 631; 728; 730; 735, fracción I; 786; 1148; 1167, fracciones V y VI; 1313; 1328; 1593; 1594; 1596; 2736; 2773; y 3005, fracción I del Código Civil para el Distrito y Territorios Federales en Materia Común, y para toda la República en Materia Federal, para quedar como sigue: ………
+
+## TRANSITORIO
+
+ARTICULO UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
 DECRETO de Reformas y Adiciones a diversos artículos de la Ley General de Población.
 Común y para toda la República en Materia Federal, Código de Procedimientos Civiles para el Distrito Federal y Código de Comercio.
-Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1974 ARTICULO QUINTO.- Se reforma el nombre y se reforman y adicionan los artículos 162; 164; 165; 168; 169; 174; 175; 259; 260; 267, fracción XII; 273, fracción III; 282, fracciones II y IV; 284; 287; 288; 322; 323; 372; 418; 423; 490; 569; 581, fracciones I y II; 582; 1368, fracciones I, II, III y V y se derogan los artículos 166; 167; 170; 171; 214; 282, fracción I; 373 y 2275 del Código Civil para el Distrito y Territorios Federales en Materia Común y para toda la República en Materia Federal, en los términos siguientes: ……… TRANSITORIO UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación. en Materia Común y para toda la República en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 22 de diciembre de 1975 Común y para toda la República en Materia Federal, para quedar como sigue: ……… TRANSITORIO UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1974 ARTICULO QUINTO.- Se reforma el nombre y se reforman y adicionan los artículos 162; 164; 165; 168; 169; 174; 175; 259; 260; 267, fracción XII; 273, fracción III; 282, fracciones II y IV; 284; 287; 288; 322; 323; 372; 418; 423; 490; 569; 581, fracciones I y II; 582; 1368, fracciones I, II, III y V y se derogan los artículos 166; 167; 170; 171; 214; 282, fracción I; 373 y 2275 del Código Civil para el Distrito y Territorios Federales en Materia Común y para toda la República en Materia Federal, en los términos siguientes: ………
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación. en Materia Común y para toda la República en Materia Federal.
+Publicado en el Diario Oficial de la Federación el 22 de diciembre de 1975 Común y para toda la República en Materia Federal, para quedar como sigue: ………
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
 Materia Común y para toda la República en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1975 ARTICULO UNICO.- Se adiciona el articulo 58 y se reforman las fracciones I y II del artículo 389 del ……… TRANSITORIO UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1975 ARTICULO UNICO.- Se adiciona el articulo 58 y se reforman las fracciones I y II del artículo 389 del ………
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
 República en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 29 de junio de 1976 ARTICULO UNICO.- Se reforman los artículos 730, 2317 y 2917 del Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal, para quedar como sigue: ……… TRANSITORIO ARTICULO UNICO.- Este Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+Publicado en el Diario Oficial de la Federación el 29 de junio de 1976 ARTICULO UNICO.- Se reforman los artículos 730, 2317 y 2917 del Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal, para quedar como sigue: ………
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Este Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
 Común y para toda la República en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 29 de diciembre de 1976 Común y para toda la República en Materia Federal, para quedar como sigue: ……… TRANSITORIO ARTICULO UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+Publicado en el Diario Oficial de la Federación el 29 de diciembre de 1976 Común y para toda la República en Materia Federal, para quedar como sigue: ………
+
+## TRANSITORIO
+
+ARTICULO UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
 DECRETO que reforma, adiciona y deroga diversos artículos del Código Civil para el Distrito Federal, en Materia Común y para toda la República, en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 3 de enero de 1979 ARTICULO PRIMERO.- Se reforman y adicionan los siguientes artículos del Código Civil para el Distrito Federal, en Materia Común y para toda la República, en Materia Federal: 35, 36, 37, 38, 39, 40, 41, 42, 49, 51, 52, 53, 54, 55, 58, 59, 60, 65, 66, 68, 75, 76, 81, 82, 83, 84, 86, 89, 90, 93, 103, 103-Bis, 112, 115, 116, 117, 118, 120, 121, 122, 124, 125, 126, 127, 129, 131, 132, 133, 138-Bis, y se modifican las denominaciones de los capítulos III, X y XI del Título Cuarto del Libro Primero, como sigue: ……… ARTICULO SEGUNDO.- Se reforman y adicionan los artículos 1550, 1553, 1554, 1556, 1557, 1558, Materia Común y para toda la República en Materia Federal, como sigue: ……… ARTICULO TERCERO.- Se reforma el Título Segundo de la Tercera Parte del Libro Cuarto del Código Civil, como sigue: ……… TRANSITORIOS:
+Publicado en el Diario Oficial de la Federación el 3 de enero de 1979 ARTICULO PRIMERO.- Se reforman y adicionan los siguientes artículos del Código Civil para el Distrito Federal, en Materia Común y para toda la República, en Materia Federal: 35, 36, 37, 38, 39, 40, 41, 42, 49, 51, 52, 53, 54, 55, 58, 59, 60, 65, 66, 68, 75, 76, 81, 82, 83, 84, 86, 89, 90, 93, 103, 103-Bis, 112, 115, 116, 117, 118, 120, 121, 122, 124, 125, 126, 127, 129, 131, 132, 133, 138-Bis, y se modifican las denominaciones de los capítulos III, X y XI del Título Cuarto del Libro Primero, como sigue: ……… ARTICULO SEGUNDO.- Se reforman y adicionan los artículos 1550, 1553, 1554, 1556, 1557, 1558, Materia Común y para toda la República en Materia Federal, como sigue: ……… ARTICULO TERCERO.- Se reforma el Título Segundo de la Tercera Parte del Libro Cuarto del Código Civil, como sigue: ………
+
+## TRANSITORIOS
+
+:
 ARTICULO PRIMERO.- El presente decreto, por lo que hace al Registro Público entrará en vigor al tercer día de su publicación en el "Diario Oficial" de la Federación y, por lo que hace al sistema que habrá de seguirse en la Oficina Central y en los Juzgados del Registro Civil, treinta días después de su publicación en el propio "Diario Oficial".
-ARTICULO SEGUNDO.- Quedan derogadas las disposiciones legales que se opongan al presente Común, y para toda la República, en Materia Federal, así como el Título II de la Tercera Parte del Libro Cuarto de este mismo Código, de fecha 31 de diciembre de 1951 publicado en el "Diario Oficial" de la Federación el 18 de enero de 1952.
+ARTICULO SEGUNDO.- Quedan derogadas las disposiciones legales que se opongan al presente Común, y para toda la República, en Materia Federal, así como el Título II de la Tercera Parte del Libro
+**Cuarto.** de este mismo Código, de fecha 31 de diciembre de 1951 publicado en el "Diario Oficial" de la Federación el 18 de enero de 1952.
 ARTICULO TERCERO.- Las disposiciones de este decreto se aplicarán a los actos, contratos, títulos y documentos de fecha anterior a su vigencia, siempre que no sean en perjuicio de los interesados.
 ARTICULO CUARTO.- Al entrar en vigor el presente decreto en el Distrito Federal, el Director del Registro Público hará entrega al encargado del Archivo General de Notarías de los testamentos ológrafos depositados en el citado Registro Público, mediante acta que contenga la relación detallada de los mismos y de los libros e índices en que consten anotados.
 DECRETO por el que se reforman los artículos 1916 y 2116 y adiciona un artículo 1916 bis Materia Federal.
-Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1982 en Materia Común y para toda la República en Materia Federal, para quedar como sigue: ……… en Materia Común y para toda la República en Materia Federal, en los siguientes términos: ……… TRANSITORIO ARTICULO UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1982 en Materia Común y para toda la República en Materia Federal, para quedar como sigue: ……… en Materia Común y para toda la República en Materia Federal, en los siguientes términos: ………
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 DECRETO que reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal; del Tribunales de Justicia del Fuero Común del Distrito Federal, y del Código de Comercio.
-Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1983 para toda la República en Materia Federal, para quedar como sigue: ……… TRANSITORIOS ARTICULO PRIMERO.- El presente ordenamiento entrará en vigor el día 1o. de octubre de 1984.
+Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1983 para toda la República en Materia Federal, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+ARTICULO PRIMERO.- El presente ordenamiento entrará en vigor el día 1o. de octubre de 1984.
 ARTICULO SEGUNDO.- La tramitación de los juicios iniciados antes de la fecha prevista para la entrada en vigor de este Decreto se regirá por las disposiciones que se modifican o derogan mediante dicho ordenamiento.
 FE de erratas del Decreto que reforma, adiciona y deroga diversas disposiciones del Orgánica de los Tribunales de Justicia del Fuero Común del Distrito Federal; y del Código de Comercio, publicado el día 27 de diciembre de 1983, Primera Sección.
-Publicada en el Diario Oficial de la Federación el 8 de enero de 1985 DECRETO que reforma y deroga diversas disposiciones contenidas en el Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, y Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1983 ARTICULO PRIMERO.- Se reforman los artículos 163, 172, 188, 194, 216, 232, 233, 267, 268, 273, Materia Común, y para toda la República en Materia Federal, y se deroga el artículo 271 del referido ordenamiento, para quedar como sigue: ……… TRANSITORIOS ARTICULO PRIMERO.- El presente Ordenamiento entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
+Publicada en el Diario Oficial de la Federación el 8 de enero de 1985 DECRETO que reforma y deroga diversas disposiciones contenidas en el Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, y Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1983 ARTICULO PRIMERO.- Se reforman los artículos 163, 172, 188, 194, 216, 232, 233, 267, 268, 273, Materia Común, y para toda la República en Materia Federal, y se deroga el artículo 271 del referido ordenamiento, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+ARTICULO PRIMERO.- El presente Ordenamiento entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
 ARTICULO SEGUNDO.- La tramitación de los juicios iniciados antes de la fecha prevista para la entrada en vigor de este Decreto se regirá por las disposiciones que se modifican o derogan mediante dicho ordenamiento.
 DECRETO de reformas y adiciones a diversas disposiciones relacionadas con inmuebles en arrendamiento.
-Publicado en el Diario Oficial de la Federación el 7 de febrero de 1985 ARTICULO PRIMERO.- Se reforma el Capítulo IV del Título Sexto de la Segunda Parte del Libro como sigue: ……… TRANSITORIO PRIMERO.- Los contratos celebrados con anterioridad a la promulgación del presente decreto continuarán en vigor respecto al término pactado por las partes.
+Publicado en el Diario Oficial de la Federación el 7 de febrero de 1985 ARTICULO PRIMERO.- Se reforma el Capítulo IV del Título Sexto de la Segunda Parte del Libro como sigue: ………
+
+## TRANSITORIO
+
+**PRIMERO.-** Los contratos celebrados con anterioridad a la promulgación del presente decreto continuarán en vigor respecto al término pactado por las partes.
 ARTICULO TRANSITORIO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 FE de erratas del Decreto de reformas y adiciones a diversas disposiciones relacionadas con inmuebles en arrendamiento, publicado el 7 de febrero de 1985.
 Publicada en el Diario Oficial de la Federación el 29 de marzo de 1985 En la página 4, segunda columna, Artículo 2448 D, segundo párrafo, penúltimo renglón, dice: deral, en el año calendario en el que el contrato Debe decir: deral, en el año en el que el contrato En la página 5, segunda columna, Artículo 3042, renglones primero y segundo, dice:
@@ -11558,183 +11633,334 @@ No se inscribirán las escrituras en las que se En la página 5, segunda columna
 Debe decir: arrendatario. ……….
 ACLARACIÓN a la fe de erratas del Decreto de reformas y adiciones a diversas disposiciones relacionadas con inmuebles en arrendamiento, publicada el 29 de marzo de 1985.
 Publicada en el Diario Oficial de la Federación el 1 de abril de 1985 y para toda la República en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 10 de enero de 1986 Común y para toda la República en Materia Federal, para quedar en los siguientes términos: ……… TRANSITORIO Común y para toda la República en Materia Federal, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 10 de enero de 1986 Común y para toda la República en Materia Federal, para quedar en los siguientes términos: ………
+
+## TRANSITORIO
+
+Común y para toda la República en Materia Federal, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
 Materia Común, y para toda la República en Materia Federal.
 Publicado en el Diario Oficial de la Federación el 7 de enero de 1988 ARTICULO PRIMERO.- Se reforman los artículos 12, 13, 14, 15, 29, 30, 31 y 32, así como la denominación del Capítulo VI del Título Décimo Primero de la Segunda Parte del Libro Cuarto y los Común y para toda la República en Materia Federal, para quedar en los siguientes términos: ……… ARTICULO SEGUNDO.- Se adiciona la fracción VII al artículo 25 y el artículo 28 Bis al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, en los siguientes términos: ……… ARTICULO TRANSITORIO UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 DECRETO por el que se reforman y adicionan diversos artículos del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 7 de enero de 1988 ARTICULO PRIMERO.- Se reforma el primer párrafo y se adiciona un tercer y un cuarto párrafos al Común y para toda la República en Materia Federal, para quedar como sigue: ……… ARTICULO SEGUNDO.- Se reforman la fracción III del artículo 3005 y el último párrafo del artículo Federal, para quedar como sigue: ……… ARTICULO TERCERO.- Se reforman los artículos 3046, 3047, 3048, 3049, 3050, 3051, 3052, 3053, República en Materia Federal, para quedar como sigue: ……… TRANSITORIOS ARTICULO PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 7 de enero de 1988 ARTICULO PRIMERO.- Se reforma el primer párrafo y se adiciona un tercer y un cuarto párrafos al Común y para toda la República en Materia Federal, para quedar como sigue: ……… ARTICULO SEGUNDO.- Se reforman la fracción III del artículo 3005 y el último párrafo del artículo Federal, para quedar como sigue: ……… ARTICULO TERCERO.- Se reforman los artículos 3046, 3047, 3048, 3049, 3050, 3051, 3052, 3053, República en Materia Federal, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+ARTICULO PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 ARTICULO SEGUNDO.- El Ejecutivo Federal y el Jefe del Departamento del Distrito Federal dictarán las disposiciones administrativas para cumplimentar lo dispuesto en el presente Decreto.
 ARTICULO TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 ARTICULO CUARTO.- En las inmatriculaciones de inmuebles por resolución del Director del Registro Público de la Propiedad que se hayan realizado en un plazo mayor a cinco años de anterioridad a la entrada en vigor de las presentes reformas y adiciones, los interesados podrán solicitar la inscripción de dominio correspondiente, con sujeción a lo dispuesto por el artículo 3055 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
 En aquellas en que aún no se cumpla el término establecido, los interesados podrán hacer la solicitud respectiva en el momento en que se satisfaga este requisito.
 ARTICULO QUINTO.- Las solicitudes de inmatriculación por resolución del Director del Registro Público de la Propiedad que se encuentren en trámite a la entrada en vigor de estas reformas y adiciones, deberán ajustarse al procedimiento que establecen los artículos 3052 y 3053 que se reforman.
 Materia Común y para toda la República en Materia Federal y el Código de Procedimientos Civiles para el Distrito Federal.
-Publicado en el Diario Oficial de la Federación el 23 de julio de 1992 ARTICULO PRIMERO.- Se reforman la denominación del capítulo IV, del Título Noveno, del Libro Primero y los Artículos 23, 156 fracciones VIII y IX, 331, 450 fracción II, 464 primer párrafo, 466, 505, 543, la República en Materia Federal, para quedar como sigue: ……..
-ARTICULO SEGUNDO.- Se derogan las fracciones III y IV del Artículo 450 y el Artículo 506 del TRANSITORIOS PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentra en trámite ante los tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
+Publicado en el Diario Oficial de la Federación el 23 de julio de 1992 ARTICULO PRIMERO.- Se reforman la denominación del capítulo IV, del Título Noveno, del Libro
+**Primero.** y los Artículos 23, 156 fracciones VIII y IX, 331, 450 fracción II, 464 primer párrafo, 466, 505, 543, la República en Materia Federal, para quedar como sigue: ……..
+ARTICULO SEGUNDO.- Se derogan las fracciones III y IV del Artículo 450 y el Artículo 506 del
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentra en trámite ante los tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del de Protección al Consumidor.
 Publicado en el Diario Oficial de la Federación el 21 de julio de 1993 ARTICULO PRIMERO.- Se reforman los artículos 2398, segundo párrafo; 2406; 2412, fracción I; 2447; 2448; 2448-B; 2448-C; 2448-J; 2448-K; 2478; 2484; 2487; 2489, fracción I; y 2490; se adiciona el
 
 ### artículo 2489
 con las fracciones IV y V; y se derogan los artículos 2407; 2448-D, segundo párrafo; 2448-I; 2448-L; 2449; 2450; 2451; 2452; 2453; 2485; 2486; 2488; 2491; 2494; y 3042, último párrafo del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
-Artículo reformado DOF 23-09-1993, 19-10-1998 SEGUNDO.- Las disposiciones del presente decreto se aplicarán a partir del 19 de octubre de 1993, únicamente cuando se trate de inmuebles que:
+
+## TRANSITORIOS
+
+**PRIMERO.-** Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de abril del año 1999, salvo lo dispuesto por los transitorios siguientes.
+Artículo reformado DOF 23-09-1993, 19-10-1998
+**SEGUNDO.-** Las disposiciones del presente decreto se aplicarán a partir del 19 de octubre de 1993, únicamente cuando se trate de inmuebles que:
 I.- No se encuentren arrendados al 19 de octubre de 1993;
 II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para uso distinto del habitacional, o III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
-Artículo reformado DOF 23-09-1993 TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de abril de 1999 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas, que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, vigentes con anterioridad al 19 de octubre de 1993.
+Artículo reformado DOF 23-09-1993
+**TERCERO.-** Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de abril de 1999 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas, que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, vigentes con anterioridad al 19 de octubre de 1993.
 Artículo reformado DOF 23-09-1993, 19-10-1998 México, D.F., a 14 de julio de 1993.- Dip. Juan Ramiro Robledo Ruiz, Presidente.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Luis Moreno Bustamante, Secretario.- Sen. Gustavo Salinas Iñiguez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 DECRETO por el que se modifican los artículos transitorios del Diverso por el que se la Ley Federal de Protección al Consumidor, publicado el 21 de julio de 1993.
 Publicado en el Diario Oficial de la Federación el 23 de septiembre 1993 Artículo Unico.- Se reforman los artículos transitorios del Diverso por el que se reforman el Código Civil para el Distrito Federal en materia común y para toda la República en materia Federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993, para quedar como sigue: ..........
-TRANSITORIO UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993.
+
+## TRANSITORIO
+
+UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993.
 México, D. F., a 11 de septiembre de 1993.- Dip. Rodolfo Echeverría Ruiz, Presidente.- Sen.
 Humberto A. Lugo Gil, Presidente.- Dip. Florencio Salazar Adame, Secretario.- Sen. Ramón Serrano Ahumada, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecisiete días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 DECRETO que reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal, en materia común, y para toda la República en materia federal, del Distrito Federal y de la Ley Orgánica del Departamento del Distrito Federal.
-Publicado en el Diario Oficial de la Federación el 6 de enero de 1994 ARTICULO PRIMERO.- Se reforman los artículos 1500 fracción III, 1503, 1511 al 1514, 1517, 1518, 1519, 2555 fracción II y 2556; se adicionan una fracción IV al artículo 1500, un Capítulo III-Bis al Título Tercero del Libro Tercero y un artículo 1549-Bis y se derogan los artículos 174, 175 y 1515 del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. del Distrito Federal se entenderán hechas a las autoridades del Distrito Federal; las relativas a libro autorizado y fojas, se tendrán hechas a folios, y cuando se haga alusión a notas marginales se entenderán notas complementarias.
-TERCERO.- Los notarios deberán empezar a formar el protocolo bajo el nuevo sistema de folios, a más tardar el día 1o. de mayo de 1994. Dentro de ese plazo, se podrán autorizar a los notarios los libros necesarios. Transcurrido dicho plazo, los notarios asentarán la razón de terminación de cada libro después de la última escritura pasada y cancelarán las hojas no utilizadas, si las hubiere.
-CUARTO.- La numeración de los instrumentos con la que cada notario iniciará el uso del protocolo a que se refieren las presentes reformas, será la que continúe al último instrumento asentado en los libros que dejarán de usarse.
-QUINTO.- Los folios del Protocolo Abierto Especial actualmente en uso, serán utilizados por los notarios hasta que se terminen.
-SEXTO.- En los casos en que con anterioridad a la entrada en vigor del presente Decreto, se hubieren otorgado escrituras de adquisición de los inmuebles a que se refiere el artículo 1549-Bis del Código Civil, los propietarios podrán instituir uno o más legatarios en los términos establecidos por dicho artículo.
+Publicado en el Diario Oficial de la Federación el 6 de enero de 1994 ARTICULO PRIMERO.- Se reforman los artículos 1500 fracción III, 1503, 1511 al 1514, 1517, 1518, 1519, 2555 fracción II y 2556; se adicionan una fracción IV al artículo 1500, un Capítulo III-Bis al Título
+**Tercero.** del Libro Tercero y un artículo 1549-Bis y se derogan los artículos 174, 175 y 1515 del Código Civil para el Distrito Federal, en Materia Común, y para toda la República en Materia Federal, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. del Distrito Federal se entenderán hechas a las autoridades del Distrito Federal; las relativas a libro autorizado y fojas, se tendrán hechas a folios, y cuando se haga alusión a notas marginales se entenderán notas complementarias.
+**TERCERO.-** Los notarios deberán empezar a formar el protocolo bajo el nuevo sistema de folios, a más tardar el día 1o. de mayo de 1994. Dentro de ese plazo, se podrán autorizar a los notarios los libros necesarios. Transcurrido dicho plazo, los notarios asentarán la razón de terminación de cada libro después de la última escritura pasada y cancelarán las hojas no utilizadas, si las hubiere.
+**CUARTO.-** La numeración de los instrumentos con la que cada notario iniciará el uso del protocolo a que se refieren las presentes reformas, será la que continúe al último instrumento asentado en los libros que dejarán de usarse.
+**QUINTO.-** Los folios del Protocolo Abierto Especial actualmente en uso, serán utilizados por los notarios hasta que se terminen.
+**SEXTO.-** En los casos en que con anterioridad a la entrada en vigor del presente Decreto, se hubieren otorgado escrituras de adquisición de los inmuebles a que se refiere el artículo 1549-Bis del Código Civil, los propietarios podrán instituir uno o más legatarios en los términos establecidos por dicho artículo.
 México, D.F., a 17 de diciembre de 1993.- Sen. Eduardo Robledo Rincón, Presidente.- Dip. Gonzalo Cedillo Valdez, Presidente.- Sen. Israel Soberanis Nogueda, Secretario.- Dip. Sergio González Santa Cruz, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 DECRETO que reforma, adiciona y deroga diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Penales para el Distrito Federal, de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de los Servidores Públicos, de la Ley Orgánica del Tribunal Fiscal de la Federación, de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Ley Federal para Prevenir y Sancionar la Tortura y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y de la Ley Orgánica del Poder Judicial de la Federación.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 1994 República en Materia Federal se reforman los artículos 1916 párrafos primero y segundo, 1927 y 1928 para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
-SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con anterioridad a la vigencia del presente decreto, continuarán en los términos de las nuevas disposiciones contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.
-TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
-CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+**SEGUNDO.-** Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con anterioridad a la vigencia del presente decreto, continuarán en los términos de las nuevas disposiciones contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.
+**TERCERO.-** A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
+**CUARTO.-** Se derogan todas las disposiciones que se opongan al presente decreto.
 México, D. F., a 21 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen.
 Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del República en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 24 de mayo de 1996 ARTÍCULO QUINTO.- SE REFORMA el artículo 750, fracción XIII, y SE ADICIONA un tercero y República en materia federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto.
-SEGUNDO.- La reforma prevista en el artículo segundo entrará en vigor al mismo tiempo que la legislación respectiva del Tribunal Superior de Justicia del Distrito Federal que regule el funcionamiento del Fondo de Administración de Justicia para el Distrito Federal.
-TERCERO.- La reforma prevista en el artículo cuarto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será aplicable a fideicomisos que se celebren con posterioridad a dicha entrada en vigor, y sin que estos fideicomisos puedan ser instrumentos para novar créditos contraídos con anterioridad a la entrada en vigor de este decreto.
-CUARTO.- Las reformas previstas en el artículo quinto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 24 de mayo de 1996
+
+### ARTÍCULO QUINTO
+SE REFORMA el artículo 750, fracción XIII, y SE ADICIONA un tercero y República en materia federal, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto.
+**SEGUNDO.-** La reforma prevista en el artículo segundo entrará en vigor al mismo tiempo que la legislación respectiva del Tribunal Superior de Justicia del Distrito Federal que regule el funcionamiento del Fondo de Administración de Justicia para el Distrito Federal.
+**TERCERO.-** La reforma prevista en el artículo cuarto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y será aplicable a fideicomisos que se celebren con posterioridad a dicha entrada en vigor, y sin que estos fideicomisos puedan ser instrumentos para novar créditos contraídos con anterioridad a la entrada en vigor de este decreto.
+**CUARTO.-** Las reformas previstas en el artículo quinto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de abril de 1996.- Sen. Miguel Alemán Velasco, Presidente.- Dip. Ma. Claudia Esqueda Llanes, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Jesús Carlos Hernández Martínez, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de mayo del año de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de para toda la República en materia federal.
-Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996 ARTÍCULO SEXTO.- Se reforma la fracción II del artículo 3,071 y se derogan los artículos 28 Bis, materia federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
-SEGUNDO.- El segundo párrafo del artículo 10 A de la Ley de Inversión Extranjera entrará en vigor a los treinta días hábiles siguientes a aquél en que se publique este Decreto en el Diario Oficial de la Federación. En este plazo deberá publicarse la lista a que se refiere dicho precepto.
+Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
+
+### ARTÍCULO SEXTO
+Se reforma la fracción II del artículo 3,071 y se derogan los artículos 28 Bis, materia federal, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
+**SEGUNDO.-** El segundo párrafo del artículo 10 A de la Ley de Inversión Extranjera entrará en vigor a los treinta días hábiles siguientes a aquél en que se publique este Decreto en el Diario Oficial de la Federación. En este plazo deberá publicarse la lista a que se refiere dicho precepto.
 México, D.F., a 10 de diciembre de 1996.- Sen. Laura Pavón Jaramillo, Presidenta.- Dip. Felipe Amadeo Flores Espinosa, Presidente.- Sen. Ángel Ventura Valle, Secretario.- Dip. Carlos Núñez Hurtado, Secretario." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1997 ARTÍCULO PRIMERO.- Se reforman los artículos 282, primer párrafo; 283; la denominación del Título Sexto del Libro Primero; 411; 414; 416 a 418; 422; 423; 444, primer párrafo, fracción I; 492 a 494, y 1316, primer párrafo, fracción VII; se adicionan las fracciones XIX y XX al artículo 267; una fracción VII al
+DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1997
+
+### ARTÍCULO PRIMERO
+Se reforman los artículos 282, primer párrafo; 283; la denominación del Título
+**Sexto.** del Libro Primero; 411; 414; 416 a 418; 422; 423; 444, primer párrafo, fracción I; 492 a 494, y 1316, primer párrafo, fracción VII; se adicionan las fracciones XIX y XX al artículo 267; una fracción VII al
 
 ### artículo 282
 ; un Capítulo III al Título Sexto del Libro Primero; los artículos 323 bis y 323 ter; las fracciones V y VI al artículo 444; 444 bis, y la fracción XII al artículo 1316, y se deroga el artículo 415 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+## TRANSITORIOS
+
+**PRIMERO.-** Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
 México, D.F., a 13 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. José Antonio Álvarez Hernández, Secretario.- Sen. Gilberto Gutiérrez Quiroz, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica. materia común y para toda la República en materia federal y al Código de Procedimientos Civiles para el Distrito Federal.
-Publicado en el Diario Oficial de la Federación el 28 de mayo de 1998 ARTÍCULO PRIMERO.- SE REFORMAN los artículos 86; 87; 88; 133; 157; 295; 390, fracciones I a III; 391; 394; 395, segundo párrafo; 397, último párrafo; 402; 403; 404; 405; primer párrafo; 1612; 1613; y 1620, y SE ADICIONAN los artículos 293, con un segundo párrafo; 397, con la fracción V; 405, con la fracción III; 410 A; 410 B; 410 C; 410 D; 410 E, y 410 F; así como cuatro secciones al Capítulo V del para toda la República en materia federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Las adopciones que se encuentren en trámite a la fecha de publicación de las presentes reformas se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
+Publicado en el Diario Oficial de la Federación el 28 de mayo de 1998
+
+### ARTÍCULO PRIMERO
+SE REFORMAN los artículos 86; 87; 88; 133; 157; 295; 390, fracciones I a III; 391; 394; 395, segundo párrafo; 397, último párrafo; 402; 403; 404; 405; primer párrafo; 1612; 1613; y 1620, y SE ADICIONAN los artículos 293, con un segundo párrafo; 397, con la fracción V; 405, con la fracción III; 410 A; 410 B; 410 C; 410 D; 410 E, y 410 F; así como cuatro secciones al Capítulo V del para toda la República en materia federal, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las adopciones que se encuentren en trámite a la fecha de publicación de las presentes reformas se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
 No obstante, si en las adopciones que actualmente se tramitan hubiere la voluntad del adoptante de obtener la adopción plena, podrá seguirse el procedimiento establecido por el presente Decreto.
 Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
 México, D.F., a 28 de abril de 1998.- Sen. Dionisio Pérez Jácome, Presidente.- Dip. Aurora Bazán López, Presidente.- Sen. José Luis Medina Aguiar, Secretario.- Dip. Teresa Núñez Casas, Secretario.Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de mayo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 DECRETO por el que se reforman los artículos transitorios del diverso por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal; del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 de julio de 1993.
 Publicado en el Diario Oficial de la Federación el 19 de octubre de 1998 ARTICULO UNICO.- Se reforman los artículos primero y tercero transitorios del Decreto por el que se común y para toda la República en materia federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 21 julio de 1993 y modificado por diverso del 23 de septiembre de 1993, para quedar como sigue: ..........
-TRANSITORIO UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 15 de octubre de 1998.- Sen. Juan Ramiro Robledo Ruiz, Presidente.- Dip. Joaquín Montaño Yamuni, Presidente.- Sen. Héctor Ximénez González, Secretario.- Dip. Adalberto Antonio Balderrama Fernández, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Embajada de los Estados Unidos Mexicanos en la Ciudad de Londres, Reino Unido de la Gran Bretaña e Irlanda del Norte, a los dieciséis días del mes de octubre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.
 Refrendado por el Secretario de Gobernación, Francisco Labastida Ochoa, en la Ciudad de México, Distrito Federal, a los quince días del mes de octubre de mil novecientos noventa y ocho.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, del Protección al Consumidor.
 Publicado en el Diario Oficial de la Federación el 29 de mayo de 2000 Materia Común y para toda la República en Materia Federal, y con ello se reforman sus artículos 1o., 1803, 1805 y 1811, y se le adiciona el artículo 1834 bis, para quedar como sigue: ……..
-TRANSITORIOS Primero.- El presente Decreto entrará en vigor a los nueve días siguientes de su publicación en el Diario Oficial de la Federación.
-Segundo.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, se entenderán Las presentes reformas no implican modificación alguna a las disposiciones legales aplicables en materia civil para el Distrito Federal, por lo que siguen vigentes para el ámbito local de dicha entidad toda la República en Materia Federal, vigentes a la entrada en vigor del presente Decreto.
-Tercero.- La operación automatizada del Registro Público de Comercio conforme a lo dispuesto en el presente Decreto deberá iniciarse a más tardar el 30 de noviembre del año 2000.
+
+## TRANSITORIOS
+
+**Primero.-** El presente Decreto entrará en vigor a los nueve días siguientes de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las menciones que en otras disposiciones de carácter federal se hagan al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, se entenderán Las presentes reformas no implican modificación alguna a las disposiciones legales aplicables en materia civil para el Distrito Federal, por lo que siguen vigentes para el ámbito local de dicha entidad toda la República en Materia Federal, vigentes a la entrada en vigor del presente Decreto.
+**Tercero.-** La operación automatizada del Registro Público de Comercio conforme a lo dispuesto en el presente Decreto deberá iniciarse a más tardar el 30 de noviembre del año 2000.
 Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará a cada uno de los responsables de las oficinas del Registro Público de Comercio, a partir de la entrada en vigor del presente Decreto y a más tardar el 31 de agosto del año 2000, el programa informático del sistema registral automatizado a que se refiere el presente Decreto, la asistencia y capacitación técnica, así como las estrategias para su instrumentación, de conformidad con los convenios correspondientes.
-Cuarto.- En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.
-Quinto.- La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004.
-Artículo reformado DOF 13-06-2003 Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas.
+**Cuarto.-** En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.
+**Quinto.-** La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004.
+Artículo reformado DOF 13-06-2003
+**Sexto.-** La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas.
 Dicha recepción deberá efectuarse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
-Séptimo.- Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse.
-Octavo.- La Secretaría deberá publicar en el Diario Oficial de la Federación los lineamientos y formatos a que se refieren los artículos 18 y 20, que se reforman por virtud del presente Decreto, en un plazo máximo de noventa días, contados a partir de la fecha de su entrada en vigor.
+**Séptimo.-** Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse.
+**Octavo.-** La Secretaría deberá publicar en el Diario Oficial de la Federación los lineamientos y formatos a que se refieren los artículos 18 y 20, que se reforman por virtud del presente Decreto, en un plazo máximo de noventa días, contados a partir de la fecha de su entrada en vigor.
 México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen.
 Raúl Juárez Valencia, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 DECRETO por el que se modifica el artículo quinto transitorio del decreto por el que se Consumidor, publicado el 29 de mayo de 2000.
 Publicado en el Diario Oficial de la Federación el 13 de junio de 2003 ARTICULO UNICO: Se reforma el artículo Quinto transitorio del decreto que Reforma y Adiciona la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 29 de Mayo de 2000 para quedar como sigue: ..........
-TRANSITORIO UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 LEY Federal de Responsabilidad Patrimonial del Estado.
-Publicada en el Diario Oficial de la Federación el 31 de diciembre de 2004 ARTÍCULO PRIMERO.- .........
-ARTÍCULO SEGUNDO.- ......... ..........
-TRANSITORIOS PRIMERO.- La presente Ley entrará en vigor el 1o. de enero del año 2005.
-SEGUNDO.- Los asuntos que se encuentren en trámite en los entes públicos federales, relacionados con la indemnización a los particulares derivada de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo con las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
+Publicada en el Diario Oficial de la Federación el 31 de diciembre de 2004
+
+### ARTÍCULO PRIMERO
+.........
+
+### ARTÍCULO SEGUNDO
+......... ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** La presente Ley entrará en vigor el 1o. de enero del año 2005.
+**SEGUNDO.-** Los asuntos que se encuentren en trámite en los entes públicos federales, relacionados con la indemnización a los particulares derivada de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo con las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
 México, D.F., a 14 de diciembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen.
 Sara I. Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-Publicado en el Diario Oficial de la Federación el 13 de abril de 2007 ARTÍCULO SEGUNDO.- Se adicionan los párrafos, sexto con cuatro fracciones, séptimo y octavo al ..........
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 13 de abril de 2007
+
+### ARTÍCULO SEGUNDO
+Se adicionan los párrafos, sexto con cuatro fracciones, séptimo y octavo al ..........
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 6 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 Publicado en el Diario Oficial de la Federación el 28 de enero de 2010 ……….
-TRANSITORIO Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 24 de noviembre de 2009.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen.
 Carlos Navarrete Ruiz, Presidente.- Dip. Balfre Vargas Cortez, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de enero de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica. de Protección al Consumidor, la Ley Orgánica del Poder Judicial de la Federación, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección y Defensa al Usuario de Servicios Financieros.
 Publicado en el Diario Oficial de la Federación el 30 de agosto de 2011 como sigue: ……….
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
-TERCERO.- La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
-CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
-QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 entrada en vigor del presente Decreto.
-SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+**TERCERO.-** La Cámara de Diputados aprobará las modificaciones presupuestales necesarias a efecto de lograr el efectivo cumplimiento del presente Decreto.
+**CUARTO.-** El Consejo de la Judicatura Federal, en el ámbito de las atribuciones que le han sido conferidas, dictará las medidas necesarias para lograr el efectivo cumplimiento del presente Decreto.
+**QUINTO.-** El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 entrada en vigor del presente Decreto.
+**SEXTO.-** El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
 México, D. F., a 28 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de agosto de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
-Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 ARTÍCULO PRIMERO. Se reforman los artículos 41; 148; 151; 631, primer párrafo; 834; 2317, segundo, tercero y cuarto párrafos; 2448-G, primer y tercer párrafos; 2917, segundo párrafo; 2999 y ……….
-TRANSITORIOS Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
+
+### ARTÍCULO PRIMERO
+Se reforman los artículos 41; 148; 151; 631, primer párrafo; 834; 2317,
+**segundo.** , tercero y cuarto párrafos; 2448-G, primer y tercer párrafos; 2917, segundo párrafo; 2999 y ……….
+
+## TRANSITORIOS
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman y derogan diversas disposiciones del Código Civil Federal.
-Publicado en el Diario Oficial de la Federación el 8 de abril de 2013 Artículo Único. Se reforma el artículo 391; y se deroga la Sección Segunda, “De la Adopción Simple”, con los artículos 402 al 410, del Capítulo V “De la Adopción”, del Título Séptimo “De la Paternidad y sigue: ……… Transitorio Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 8 de abril de 2013
+
+### Artículo Único
+Se reforma el artículo 391; y se deroga la Sección Segunda, “De la Adopción Simple”, con los artículos 402 al 410, del Capítulo V “De la Adopción”, del Título Séptimo “De la Paternidad y sigue: ………
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 21 de febrero de 2013.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip.
 Francisco Arroyo Vieyra, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Tanya Rellstab Carreto, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforman los artículos 86, 87, 133, 292, 395 y 1612 y se derogan Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013 ARTÍCULO ÚNICO. Se reforman los artículos 86, 87, 133, 292, 395 y 1612 y se derogan los artículos ……… TRANSITORIO ÚNICO.- El Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman los artículos 86, 87, 133, 292, 395 y 1612 y se derogan Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013
+
+### ARTÍCULO ÚNICO
+Se reforman los artículos 86, 87, 133, 292, 395 y 1612 y se derogan los artículos ………
+
+## TRANSITORIO
+
+**ÚNICO.-** El Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 12 de noviembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Fernando Bribiesca Sahagún, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se derogan los artículos 139, 140, 141, 142, 143, 144 y 145 del Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2013 para quedar como sigue: ……….
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 7 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-Publicado en el Diario Oficial de la Federación el 19 de enero de 2018 como sigue: ……… TRANSITORIO Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 19 de enero de 2018 como sigue: ………
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 23 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. Juan G.
 Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de enero de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018 como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- Las Legislaturas Locales de todos los Estados que conforman la República Mexicana deberán ajustar su legislación civil o familiar, según sea el caso, conforme al presente Decreto, en un término no mayor a 120 días hábiles posteriores a su entrada en vigor.
+Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018 como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las Legislaturas Locales de todos los Estados que conforman la República Mexicana deberán ajustar su legislación civil o familiar, según sea el caso, conforme al presente Decreto, en un término no mayor a 120 días hábiles posteriores a su entrada en vigor.
 Ciudad de México, a 14 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip.
 Jorge Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dos de marzo de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforman y derogan diversas disposiciones del Código Civil Federal, en materia de prohibición del matrimonio infantil.
-Publicado en el Diario Oficial de la Federación el 3 de junio de 2019 Artículo Único.- Se reforman los artículos 98, fracciones I y V; 100; 103, fracciones II y IV; 104; 113; 148; 156, fracción I, y último párrafo; 159; 172; 187, primer párrafo; 209, primer párrafo; 256; 272, primer y tercer párrafo; 412; 438, fracción I; 442; 473 y 605, y se derogan el artículo 31, fracción I; el Capítulo VI "De las Actas de Emancipación" y los artículos 93; 98, fracción II; 149; 150; 151; 152; 153; 154; 155; 156, fracción II; 160; 173; 181; 187, segundo párrafo; 209, segundo párrafo; 229; 237; 238; 239; 240; 435; 443, sigue: …….
-Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución, continuarán su trámite de conformidad con la legislación aplicable en el momento de la presentación de estos.
+Publicado en el Diario Oficial de la Federación el 3 de junio de 2019
+
+### Artículo Único
+Se reforman los artículos 98, fracciones I y V; 100; 103, fracciones II y IV; 104; 113; 148; 156, fracción I, y último párrafo; 159; 172; 187, primer párrafo; 209, primer párrafo; 256; 272, primer y tercer párrafo; 412; 438, fracción I; 442; 473 y 605, y se derogan el artículo 31, fracción I; el Capítulo VI "De las Actas de Emancipación" y los artículos 93; 98, fracción II; 149; 150; 151; 152; 153; 154; 155; 156, fracción II; 160; 173; 181; 187, segundo párrafo; 209, segundo párrafo; 229; 237; 238; 239; 240; 435; 443, sigue: …….
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los asuntos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución, continuarán su trámite de conformidad con la legislación aplicable en el momento de la presentación de estos.
 Ciudad de México, a 30 de abril de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Mariana Dunyaska García Rojas, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Publicado en el Diario Oficial de la Federación el 27 de marzo de 2020 Artículo Segundo. Se reforman los artículos 430 y 635, y se adiciona un segundo párrafo al artículo ……… TRANSITORIOS Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. El Banco de México y, en caso de ser necesario, la Secretaría de Hacienda y Crédito Público, contarán con el plazo de 90 días naturales contados a partir del día siguiente al de publicación del presente Decreto en el Diario Oficial de la Federación, para emitir o modificar las disposiciones de carácter general necesarias para la debida implementación del presente Decreto.
-Tercero. El Congreso de la Unión contará con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones normativas a la Ley General de Títulos y Operaciones de Crédito, Nacional del Sistema Integral de Justicia Penal para Adolescentes e incluir una regulación integral en la prevención e investigación del uso de recursos de procedencia ilícita.
-Cuarto. Para efectos de las cuentas a que se refiere el tercer párrafo del artículo 59 de la Ley de Instituciones de Crédito, la Secretaría de Hacienda y Crédito Público y la Comisión Nacional Bancaria y de Valores, podrán incorporar las medidas y procedimientos establecidos en el cuarto párrafo del artículo 115 de la citada ley.
-Quinto. En todo caso, las instituciones de crédito que aperturen las cuentas a que se refiere el tercer párrafo del artículo 59 de la Ley de Instituciones de Crédito que se reforma, se asegurarán que en los contratos que al efecto se celebren se establezca la obligación a cargo de la institución de dar conocimiento a los padres o tutores sobre la apertura de la cuenta y que puedan solicitar y consultar estados de cuenta y movimientos de las cuentas de depósito. La Secretaría de Hacienda y Crédito Público establecerá en las disposiciones de carácter general lo señalado en este artículo.
-Sexto. Las instituciones públicas que tengan a su cargo la ejecución de programas gubernamentales, cuyos recursos sean susceptibles de ser entregados en cuentas de depósito bancario de dinero, y entre sus beneficiarios se encuentren adolescentes a partir de los quince años cumplidos, deberán enviar a la Comisión Nacional Bancaria y de Valores en forma trimestral a partir de la entrada en vigor de este Decreto, un informe que contenga el listado de los beneficiarios en dicho rango de edad.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Publicado en el Diario Oficial de la Federación el 27 de marzo de 2020
+
+### Artículo Segundo
+Se reforman los artículos 430 y 635, y se adiciona un segundo párrafo al artículo ………
+
+## TRANSITORIOS
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** El Banco de México y, en caso de ser necesario, la Secretaría de Hacienda y Crédito Público, contarán con el plazo de 90 días naturales contados a partir del día siguiente al de publicación del presente Decreto en el Diario Oficial de la Federación, para emitir o modificar las disposiciones de carácter general necesarias para la debida implementación del presente Decreto.
+**Tercero.** El Congreso de la Unión contará con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones normativas a la Ley General de Títulos y Operaciones de Crédito, Nacional del Sistema Integral de Justicia Penal para Adolescentes e incluir una regulación integral en la prevención e investigación del uso de recursos de procedencia ilícita.
+**Cuarto.** Para efectos de las cuentas a que se refiere el tercer párrafo del artículo 59 de la Ley de Instituciones de Crédito, la Secretaría de Hacienda y Crédito Público y la Comisión Nacional Bancaria y de Valores, podrán incorporar las medidas y procedimientos establecidos en el cuarto párrafo del artículo 115 de la citada ley.
+**Quinto.** En todo caso, las instituciones de crédito que aperturen las cuentas a que se refiere el tercer párrafo del artículo 59 de la Ley de Instituciones de Crédito que se reforma, se asegurarán que en los contratos que al efecto se celebren se establezca la obligación a cargo de la institución de dar conocimiento a los padres o tutores sobre la apertura de la cuenta y que puedan solicitar y consultar estados de cuenta y movimientos de las cuentas de depósito. La Secretaría de Hacienda y Crédito Público establecerá en las disposiciones de carácter general lo señalado en este artículo.
+**Sexto.** Las instituciones públicas que tengan a su cargo la ejecución de programas gubernamentales, cuyos recursos sean susceptibles de ser entregados en cuentas de depósito bancario de dinero, y entre sus beneficiarios se encuentren adolescentes a partir de los quince años cumplidos, deberán enviar a la Comisión Nacional Bancaria y de Valores en forma trimestral a partir de la entrada en vigor de este Decreto, un informe que contenga el listado de los beneficiarios en dicho rango de edad.
 Ciudad de México, a 10 de marzo de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General Publicado en el Diario Oficial de la Federación el 11 de enero de 2021 Artículo Segundo. Se reforman los artículos 323 bis; 323 ter, párrafo segundo, y 423, párrafo segundo; y se adiciona un párrafo segundo, recorriendo el actual para ser tercero, al artículo 323 ter y un ……..
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General Publicado en el Diario Oficial de la Federación el 11 de enero de 2021
+
+### Artículo Segundo
+Se reforman los artículos 323 bis; 323 ter, párrafo segundo, y 423, párrafo
+**segundo.** ; y se adiciona un párrafo segundo, recorriendo el actual para ser tercero, al artículo 323 ter y un ……..
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 10 de diciembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip.
 Mónica Bautista Rodríguez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General Publicado en el Diario Oficial de la Federación el 17 de enero de 2024 Artículo Segundo.- Se reforma el párrafo tercero del artículo 323 ter; y los artículos 444 bis y 494, y como sigue: ……… Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General Publicado en el Diario Oficial de la Federación el 17 de enero de 2024
+
+### Artículo Segundo
+Se reforma el párrafo tercero del artículo 323 ter; y los artículos 444 bis y 494, y como sigue: ………
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 29 de noviembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip.
 Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz Espinosa Morales, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
-Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Primero.- Se reforman los artículos 51; 89; 137; 206; 272, cuarto párrafo; 282, fracción II; 283, segundo párrafo; 399; 416, primer párrafo; 462; 513; 1549 Bis, fracción VI; 1712; 1725; 1750; 1752; 1934 Bis; 2118; 2323; 2325; 2416; 2545; 2882; 2916, primer párrafo; 2965; 2972; 3039, segundo párrafo; ……..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
+
+### Artículo Primero
+Se reforman los artículos 51; 89; 137; 206; 272, cuarto párrafo; 282, fracción II; 283, segundo párrafo; 399; 416, primer párrafo; 462; 513; 1549 Bis, fracción VI; 1712; 1725; 1750; 1752; 1934 Bis; 2118; 2323; 2325; 2416; 2545; 2882; 2916, primer párrafo; 2965; 2972; 3039, segundo párrafo; ……..
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+
+### artículo Sexto
+Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
 Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

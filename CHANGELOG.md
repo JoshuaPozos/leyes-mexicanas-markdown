@@ -2,6 +2,19 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Fix TODOS — Mejoras pdf_to_md.py] — 2026-03-19
+
+### Correcciones aplicadas al script de conversión (5 fixes)
+| # | Issue | Resultado |
+|---|-------|-----------|
+| 1 | Falso positivo `##` en "título de...", "sección de...", "capítulo de..." | 17 → 0 instancias |
+| 2 | Running header del PDF embebido en texto (80/84 archivos) | Eliminado en todos |
+| 3 | "Transitorios" sin formato heading | Ahora `## Transitorios` (74 archivos) |
+| 4 | "ARTÍCULO TERCERO A ARTÍCULO DÉCIMO" sin heading | Ahora `### ARTÍCULO...` (58 archivos) |
+| 5 | Ordinales ("Primero.", "Segundo.") sin negritas | Ahora `**Primero.-**` (77 archivos) |
+
+**Se reconvirtieron los 84 archivos existentes con el script mejorado.**
+
 ## [Lote 8 — Leyes 074-083] — 2026-03-18
 
 ### Leyes publicadas (10)

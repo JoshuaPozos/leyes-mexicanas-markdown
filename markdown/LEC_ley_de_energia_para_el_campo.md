@@ -5,10 +5,10 @@
 
 ---
 
-LEY DE ENERGÍA PARA EL CAMPO LEY DE ENERGÍA PARA EL CAMPO Nueva Ley publicada en el Diario Oficial de la Federación el 30 de diciembre de 2002 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 30 de diciembre de 2002 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO “EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
-LEY DE ENERGÍA PARA EL CAMPO CAPÍTULO PRIMERO DEL OBJETO Y APLICACIÓN DE LA LEY
+CAPÍTULO PRIMERO DEL OBJETO Y APLICACIÓN DE LA LEY
 
 ### Artículo 1o
 . La presente Ley es reglamentaria de los artículos 25, 27 fracción XX y 28 de la Constitución Política de los Estados Unidos Mexicanos y es de observancia general en toda la República Mexicana.
@@ -26,7 +26,7 @@ La aplicación de esta Ley corresponde a la Secretaría de Agricultura, Ganader�
 I. ACTIVIDADES AGROPECUARIAS.- Los procesos productivos primarios basados en recursos naturales renovables: agricultura, ganadería, silvicultura, acuacultura y pesca ribereña;
 II. CONSTITUCIÓN.- La Constitución Política de los Estados Unidos Mexicanos;
 III. CUOTA ENERGÉTICA.- El volumen de consumo de energético agropecuario que se establezca para cada beneficiario;
-IV. DESARROLLO RURAL SUSTENTABLE.- El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados LEY DE ENERGÍA PARA EL CAMPO urbanos, de acuerdo con las disposiciones aplicables asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+IV. DESARROLLO RURAL SUSTENTABLE.- El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos, de acuerdo con las disposiciones aplicables asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
 V. ENERGÉTICOS AGROPECUARIOS.- Son la gasolina, el diesel, el combustóleo y la energía eléctrica empleados directamente en las actividades agropecuarias;
 VI. LEY.- La Ley de Energía para el Campo;
 VII. PRECIOS Y TARIFAS DE ESTÍMULO.- Son los precios y tarifas cuyo propósito es estimular las actividades agropecuarias, en los términos de esta Ley y su Reglamento, y VIII. PROGRAMA.- Programa de Energía para el Campo.
@@ -48,7 +48,7 @@ Los precios y tarifas de estímulo que se autoricen para las diferentes activida
 ### Artículo 7o
 . La cuota energética se otorgará previo dictamen de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y se utilizará exclusivamente en:
 I. Motores para bombeo y rebombeo agrícola y ganadero, tractores y maquinaria agrícola y motores fuera de borda, que se utilicen directamente en las actividades objeto de esta Ley, según lo establecido en el artículo 3o. fracción I de la misma;
-LEY DE ENERGÍA PARA EL CAMPO II. Maquinaria pesada utilizada en las mejoras de terrenos agrícolas, de agostadero, acuícola y silvícola, y III. Las demás actividades que establezca la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, a través del Reglamento.
+II. Maquinaria pesada utilizada en las mejoras de terrenos agrícolas, de agostadero, acuícola y silvícola, y III. Las demás actividades que establezca la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, a través del Reglamento.
 El Reglamento establecerá el consumo por hora, mensual o anual, según sea el caso. La adopción del Programa deberá significar mejores resultados en la productividad del sector y establecerá por parte del beneficiario un compromiso de mayor eficiencia productiva y energética. Los requisitos del mismo serán establecidos en el Reglamento que para tal efecto emita la propia Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 La solicitud de cuota energética deberá hacerse por cada ciclo productivo.
 
@@ -75,19 +75,27 @@ DE LAS INFRACCIONES Y SANCIONES
 ### Artículo 13
 . Son infracciones a la presente Ley:
 I. El desvío de la cuota energética para fines diversos a los que fue autorizada al beneficiario, y II. Comercializar la cuota energética.
-LEY DE ENERGÍA PARA EL CAMPO
 
 ### Artículo 14
 . Las infracciones señaladas en el artículo anterior, se sancionarán con la pérdida de la cuota energética establecida en la presente Ley, correspondiente a los dos ciclos productivos inmediatos posteriores.
 En caso de reincidencia, la sanción consistirá en la pérdida definitiva de la cuota energética.
-TRANSITORIOS PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. El Ejecutivo Federal expedirá dentro de los 75 días hábiles siguientes a la entrada en vigor de esta Ley, el Reglamento del presente cuerpo normativo y demás disposiciones administrativas necesarias.
-TERCERO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+## TRANSITORIOS
+
+**PRIMERO.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** El Ejecutivo Federal expedirá dentro de los 75 días hábiles siguientes a la entrada en vigor de esta Ley, el Reglamento del presente cuerpo normativo y demás disposiciones administrativas necesarias.
+**TERCERO.** Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 México, D.F., a 12 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-LEY DE ENERGÍA PARA EL CAMPO ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se adiciona un segundo párrafo al artículo 9o. de la Ley de Energía para el Campo.
-Publicada en el Diario Oficial de la Federación el 28 de diciembre de 2012 Artículo Único. Se adiciona un segundo párrafo al artículo 9o. de la Ley de Energía para el Campo, para quedar como sigue: ……….
-TRANSITORIO Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se adiciona un segundo párrafo al artículo 9o. de la Ley de Energía para el Campo.
+Publicada en el Diario Oficial de la Federación el 28 de diciembre de 2012
+
+### Artículo Único
+Se adiciona un segundo párrafo al artículo 9o. de la Ley de Energía para el Campo, para quedar como sigue: ……….
+
+## TRANSITORIO
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 06 de diciembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip.
 Francisco Arroyo Vieyra, Vicepresidente en funciones de Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de diciembre de dos mil doce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.

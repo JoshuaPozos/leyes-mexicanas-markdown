@@ -5,10 +5,13 @@
 
 ---
 
-LEY DE FOMENTO A LA CONFIANZA CIUDADANA LEY DE FOMENTO A LA CONFIANZA CIUDADANA TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 20 de enero de 2020 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 20 de enero de 2020 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-SE EXPIDE LA LEY DE FOMENTO A LA CONFIANZA CIUDADANA Artículo Único. Se expide la Ley de Fomento a la Confianza Ciudadana LEY DE FOMENTO A LA CONFIANZA CIUDADANA
+SE EXPIDE LA
+
+### Artículo Único
+Se expide la Ley de Fomento a la Confianza Ciudadana
 
 ## CAPÍTULO I
 DISPOSICIONES GENERALES
@@ -24,7 +27,7 @@ El cumplimiento de las obligaciones fiscales a que se refiere la presente Ley, s
 ### Artículo 3
 . Para los efectos de esta Ley se entiende por:
 I. Persona beneficiaria: Persona (s) física (s) o moral (es) que realice (n) actividades económicas, que cumplan con sus obligaciones regulatorias y fiscales;
-LEY DE FOMENTO A LA CONFIANZA CIUDADANA II. Ley: Ley de Fomento a la Confianza Ciudadana;
+II. Ley: Ley de Fomento a la Confianza Ciudadana;
 III. Comisión: La Comisión Nacional de Mejora Regulatoria a que se refiere la Ley General de Mejora Regulatoria, órgano desconcentrado de la Secretaría de Economía, que estará a cargo, en términos de la presente Ley, de la implementación de políticas y programas en materia administrativa, que generen un entorno de confianza ciudadana para el impulso de la actividad económica, así como de la operación y administración del Padrón Único de Fomento a la Confianza Ciudadana;
 IV. Padrón: Padrón Único de Fomento a la Confianza Ciudadana;
 V. Reglamento: El Reglamento de la Ley de Fomento a la Confianza Ciudadana, y VI. Secretaría: Secretaría de Economía.
@@ -43,7 +46,7 @@ II. En su caso, nombre del representante legal;
 III. Domicilio, y IV. Descripción de la actividad económica.
 La inscripción será voluntaria y se entenderá como un acto de buena fe, por el cual las personas beneficiarias manifiesten que se encuentran en cumplimiento de sus obligaciones regulatorias y fiscales, de acuerdo con la actividad económica que desempeñen.
 Al momento de su inscripción en el Padrón, las personas beneficiarias deberán manifestar bajo protesta de decir verdad, que se comprometen a continuar con el cumplimiento de las obligaciones derivadas de la normatividad que los regula, así como con sus obligaciones fiscales para recibir los beneficios que se otorguen en el marco de la presente Ley.
-LEY DE FOMENTO A LA CONFIANZA CIUDADANA Las personas beneficiarias podrán solicitar su eliminación del Padrón en el momento que así lo decidan sin que este procedimiento implique verificaciones o revisiones por parte de la autoridad.
+Las personas beneficiarias podrán solicitar su eliminación del Padrón en el momento que así lo decidan sin que este procedimiento implique verificaciones o revisiones por parte de la autoridad.
 
 ### Artículo 6
 . El registro al Padrón otorgará los beneficios y facilidades administrativas que acuerde la Secretaría, por conducto de la Comisión, mediante las reglas, bases, directrices, instrumentos, lineamientos, mecanismos o buenas prácticas que, para tal efecto, emita en el marco de las acciones y los programas establecidos por las dependencias y entidades de la Administración Pública Federal o los que establezca a través de convenios que conforme a la Ley procedan.
@@ -70,7 +73,7 @@ DE LA COORDINACIÓN INSTITUCIONAL PARA EL FOMENTO DE LA CONFIANZA CIUDADANA
 ### Artículo 11
 . Sin perjuicio de las facultades otorgadas por otras disposiciones jurídicas, la Secretaría, por conducto de la Comisión, tendrá las funciones siguientes:
 I. Fomentar la cultura de la legalidad, de la honestidad, del cumplimiento de obligaciones y del comercio formal;
-LEY DE FOMENTO A LA CONFIANZA CIUDADANA II. Promover y celebrar convenios que conforme a la Ley procedan y tengan por objeto brindar beneficios y facilidades administrativas a las personas físicas y morales que realicen actividades económicas y cumplan con los requisitos previos para hacerse acreedoras a las mismas;
+II. Promover y celebrar convenios que conforme a la Ley procedan y tengan por objeto brindar beneficios y facilidades administrativas a las personas físicas y morales que realicen actividades económicas y cumplan con los requisitos previos para hacerse acreedoras a las mismas;
 III. Generar un entorno de confianza entre las personas físicas y morales que realicen actividades económicas y la Administración Pública Federal, basado en el cumplimiento permanente de las obligaciones regulatorias y fiscales, con el fin de contar con beneficios y facilidades administrativas por parte de las dependencias y entidades de la Administración Pública Federal;
 IV. Promover la coordinación de acciones y programas de las dependencias y entidades de la Administración Pública Federal en el ámbito de sus atribuciones para el otorgamiento de beneficios y facilidades administrativas;
 V. Operar y administrar el Padrón, en los términos de esta Ley y los convenios que conforme a derecho procedan;
@@ -85,7 +88,7 @@ XI. Imponer las sanciones a que se refiere el artículo 16 de la presente Ley, y
 . La Secretaría, por conducto de la Comisión, velará porque los beneficios y facilidades administrativas que instrumenten las dependencias y entidades de la Administración Pública Federal cumplan con criterios de equidad, proporcionalidad, racionalidad y eficiencia, así como con los objetivos a que se refiere el artículo 8 de la Ley General de Mejora Regulatoria.
 
 ### Artículo 13
-. En el marco de operación de la presente Ley, la Secretaría, por conducto de la Comisión, se coordinará con las dependencias y entidades de la Administración Pública Federal para suspender las actividades de vigilancia, inspección o verificación que efectúen personas inspectoras, verificadoras, ejecutoras y cualquier figura análoga adscrita a aquellas; con excepción de las actividades mencionadas que tengan por objeto resguardar la seguridad nacional, la seguridad de la población, la seguridad LEY DE FOMENTO A LA CONFIANZA CIUDADANA alimentaria, constatar que cuenten con medidas de protección civil, las que tengan como fin proteger la sanidad y la inocuidad agroalimentaria, animal y vegetal, la salud humana, el medio ambiente, los recursos naturales, los derechos e intereses del consumidor, las relativas al sector financiero y a la materia de armas de fuego y explosivos, así como la protección contra riesgos sanitarios.
+. En el marco de operación de la presente Ley, la Secretaría, por conducto de la Comisión, se coordinará con las dependencias y entidades de la Administración Pública Federal para suspender las actividades de vigilancia, inspección o verificación que efectúen personas inspectoras, verificadoras, ejecutoras y cualquier figura análoga adscrita a aquellas; con excepción de las actividades mencionadas que tengan por objeto resguardar la seguridad nacional, la seguridad de la población, la seguridad alimentaria, constatar que cuenten con medidas de protección civil, las que tengan como fin proteger la sanidad y la inocuidad agroalimentaria, animal y vegetal, la salud humana, el medio ambiente, los recursos naturales, los derechos e intereses del consumidor, las relativas al sector financiero y a la materia de armas de fuego y explosivos, así como la protección contra riesgos sanitarios.
 
 ## CAPÍTULO IV
 DE LOS RECONOCIMIENTOS
@@ -107,7 +110,10 @@ Adicionalmente, las personas beneficiarias que pierdan su inscripción en el Pad
 
 ### Artículo 17
 . Para la aplicación de las sanciones señaladas en el artículo anterior, se observará el procedimiento establecido en la Ley Federal de Procedimiento Administrativo o conforme a la ley de la materia que regule el acto.
-Transitorios Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-LEY DE FOMENTO A LA CONFIANZA CIUDADANA Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin a las dependencias y entidades de la Administración Pública Federal, para el ejercicio fiscal de que se trate.
-Tercero. Sin perjuicio de las disposiciones que la Secretaría, por conducto de la Comisión Nacional de Mejora Regulatoria, emita para la aplicación de la presente Ley, el titular del Poder Ejecutivo Federal proveerá en la esfera reglamentaria, las disposiciones correspondientes.
+
+## Transitorios
+
+**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin a las dependencias y entidades de la Administración Pública Federal, para el ejercicio fiscal de que se trate.
+**Tercero.** Sin perjuicio de las disposiciones que la Secretaría, por conducto de la Comisión Nacional de Mejora Regulatoria, emita para la aplicación de la presente Ley, el titular del Poder Ejecutivo Federal proveerá en la esfera reglamentaria, las disposiciones correspondientes.
 Ciudad de México, a 3 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

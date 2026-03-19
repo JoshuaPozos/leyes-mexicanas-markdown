@@ -5,11 +5,14 @@
 
 ---
 
-LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS Nueva Ley publicada en el Diario Oficial de la Federación el 28 de octubre de 2022 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 28 de octubre de 2022 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS DECRETA:
-SE EXPIDE LA LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS Artículo Único.- Se expide la Ley de los Husos Horarios en los Estados Unidos Mexicanos.
-LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS Capítulo Primero Disposiciones Generales
+SE EXPIDE LA
+
+### Artículo Único
+Se expide la Ley de los Husos Horarios en los Estados Unidos Mexicanos.
+Capítulo Primero Disposiciones Generales
 
 ### Artículo 1
 . La presente Ley es de observancia obligatoria en todo el territorio nacional; sus disposiciones son de orden público e interés general; su aplicación y vigilancia está a cargo del Ejecutivo Federal por conducto de las dependencias que conforme a la Ley Orgánica de la Administración Pública Federal tengan asignada competencia sobre la materia que regula el presente ordenamiento.
@@ -21,7 +24,7 @@ LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS Capítulo Primero Disp
 . Para efectos de esta Ley, se establecen dentro del territorio nacional las siguientes zonas y se reconocen los meridianos que les correspondan:
 I. Zona Centro: Referida al meridiano 90 grados al oeste de Greenwich, que comprende la mayor parte del territorio nacional, con la salvedad de lo establecido en las fracciones II, III, IV y V de este artículo;
 II. Zona Pacífico: Referida al meridiano 105 grados al oeste de Greenwich, que comprende los territorios de los estados de Baja California Sur; Nayarit, con excepción del municipio de Bahía de Banderas, el cual se regirá conforme a la fracción anterior en lo relativo a la zona centro; Sinaloa y Sonora;
-LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS III. Zona Noroeste: Referida al meridiano 120 grados al oeste de Greenwich, que comprende el territorio del estado de Baja California;
+III. Zona Noroeste: Referida al meridiano 120 grados al oeste de Greenwich, que comprende el territorio del estado de Baja California;
 IV. Zona Sureste: Referida al meridiano 75 grados al oeste de Greenwich, que comprende el territorio del estado de Quintana Roo, y V. Las islas, arrecifes y cayos quedarán comprendidos dentro del meridiano al cual corresponda su situación geográfica, y de acuerdo con los instrumentos de derecho internacional aceptados.
 
 ### Artículo 4
@@ -39,22 +42,31 @@ Capítulo Tercero De las modificaciones a los husos horarios en las Entidades Fe
 ### Artículo 6
 . Para el caso de que una entidad federativa pretenda adoptar una de las zonas horarias o los horarios estacionales a los que se refiere la presente Ley, el Congreso local correspondiente podrá enviar al Congreso de la Unión, la iniciativa por la que se modifica la zona horaria o el horario estacional que deba aplicarse a la entidad o municipio.
 Para tal efecto, a propuesta de la mayoría de los integrantes del Congreso local o la persona titular del Ejecutivo local de la entidad federativa que así lo solicite, podrán realizar foros y/o consultas ciudadanas, a efecto de conocer la zona horaria o el horario estacional que, conforme a la opinión de la ciudadanía, deba aplicarse a la entidad o municipio.
-LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS El Congreso de la Unión, una vez recibidas las iniciativas relacionadas con el párrafo anterior, deberá solicitar la opinión de la Secretaría de Gobernación previo a iniciar el trámite a que se refiere el artículo 72 Constitucional.
+El Congreso de la Unión, una vez recibidas las iniciativas relacionadas con el párrafo anterior, deberá solicitar la opinión de la Secretaría de Gobernación previo a iniciar el trámite a que se refiere el artículo 72 Constitucional.
 Tratándose de entidades federativas o municipios que colinden con otra entidad federativa o demarcación territorial extranjera, con un huso horario distinto de aquel que actualmente le corresponde conforme a la presente Ley, el Congreso de la Unión deberá realizar las modificaciones correspondientes a la Ley de los Husos Horarios en los Estados Unidos Mexicanos, dentro de los noventa días siguientes a la presentación de la iniciativa formulada en términos del presente artículo.
 
 ### Artículo 7
 . En las iniciativas presentadas de conformidad con las fracciones I y II del artículo 71 Constitucional, por las que se proponga modificar la zona horaria o el horario estacional en donde se ubique alguna entidad federativa o municipio, el Congreso de la Unión deberá requerir la opinión del Congreso local de dicha entidad, la cual será aprobada por la mayoría de sus integrantes.
-Transitorios Primero.- La presente Ley entrará en vigor el 30 de octubre de 2022.
-Segundo.- A partir de la entrada en vigor del presente Decreto, se abroga la Ley del Sistema de Horario en los Estados Unidos Mexicanos, publicada el 29 de diciembre de 2001 en el Diario Oficial de la Federación.
-Tercero.- A partir de la entrada en vigor de la presente Ley, queda abrogado el Decreto por el que se Establece el Horario Estacional que se Aplicará en los Estados Unidos Mexicanos, publicado el 1 de marzo de 2002 en el Diario Oficial de la Federación, y sus subsecuentes reformas.
-Cuarto.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+## Transitorios
+
+**Primero.-** La presente Ley entrará en vigor el 30 de octubre de 2022.
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, se abroga la Ley del Sistema de Horario en los Estados Unidos Mexicanos, publicada el 29 de diciembre de 2001 en el Diario Oficial de la Federación.
+**Tercero.-** A partir de la entrada en vigor de la presente Ley, queda abrogado el Decreto por el que se Establece el Horario Estacional que se Aplicará en los Estados Unidos Mexicanos, publicado el 1 de marzo de 2002 en el Diario Oficial de la Federación, y sus subsecuentes reformas.
+**Cuarto.-** Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 Ciudad de México, a 25 de octubre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022.- Andrés Manuel López Obrador.Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
-Fe de erratas al párrafo DOF 02-11-2022 LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA FE de erratas al Decreto por el que se expide la Ley de los Husos Horarios en los Estados Unidos Mexicanos, publicado el 28 de octubre de 2022 en la edición vespertina.
+Fe de erratas al párrafo DOF 02-11-2022 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA FE de erratas al Decreto por el que se expide la Ley de los Husos Horarios en los Estados Unidos Mexicanos, publicado el 28 de octubre de 2022 en la edición vespertina.
 Publicada en el Diario Oficial de la Federación el 2 de noviembre de 2022 En el último párrafo del Decreto, dice:
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022… Debe decir:
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022… LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS DECRETO por el que se reforma la fracción II y se adiciona una fracción III al artículo 5 de la Ley de los Husos Horarios en los Estados Unidos Mexicanos.
-Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2022 Artículo Único.- Se reforma la fracción II y se adiciona una fracción III al artículo 5 de la Ley de los Husos Horarios en los Estados Unidos Mexicanos, para quedar como sigue: ……..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022… DECRETO por el que se reforma la fracción II y se adiciona una fracción III al artículo 5 de la Ley de los Husos Horarios en los Estados Unidos Mexicanos.
+Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2022
+
+### Artículo Único
+Se reforma la fracción II y se adiciona una fracción III al artículo 5 de la Ley de los Husos Horarios en los Estados Unidos Mexicanos, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 24 de noviembre de 2022.- Sen. Alejandro Armenta Mier, Presidente.- Dip.
 Karla Yuritzi Almazán Burgos, Vicepresidenta en Funciones de Presidenta.- Sen. José Narro Céspedes, Secretario.- Dip. María Macarena Chávez Flores, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de noviembre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

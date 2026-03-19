@@ -5,11 +5,11 @@
 
 ---
 
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Nuevo Estatuto publicado en el Diario Oficial de la Federación el 26 de julio de 1994 TEXTO VIGENTE Nota con relación a la vigencia de este Estatuto:
+Nuevo Estatuto publicado en el Diario Oficial de la Federación el 26 de julio de 1994 TEXTO VIGENTE Nota con relación a la vigencia de este Estatuto:
 De conformidad con los Artículos Transitorios Primero y Trigésimo del Decreto por el que se expide la Constitución Política de la Ciudad de México, publicado en el Diario Oficial de la Federación el 5 de febrero de 2017, se establece: “PRIMERO.- La Constitución Política de la Ciudad de México entrará en vigor el 17 de septiembre de 2018, excepto por lo que hace a la materia electoral, que estará vigente a partir del día siguiente al de su publicación, y a los supuestos expresamente establecidos en los artículos transitorios siguientes.” “TRIGÉSIMO.- Las normas del Estatuto de Gobierno del Distrito Federal y los ordenamientos legales aplicables a la entidad federativa que se encuentren vigentes a la entrada en vigor de esta Constitución, continuarán aplicándose hasta que inicie la vigencia de aquellos que los sustituyan, siempre que no contravengan lo establecido en ésta.” Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL TITULO PRIMERO DISPOSICIONES GENERALES
+TITULO PRIMERO DISPOSICIONES GENERALES
 
 ### ARTÍCULO 1o
 .- Las disposiciones contenidas en el presente Estatuto son de orden público e interés general y son norma fundamental de organización y funcionamiento del gobierno del Distrito Federal, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
@@ -18,7 +18,7 @@ Artículo reformado DOF 04-12-1997
 ### ARTÍCULO 2o
 .- La Ciudad de México es el Distrito Federal, sede de los Poderes de la Unión y capital de los Estados Unidos Mexicanos. El Distrito Federal es una entidad federativa con personalidad jurídica y patrimonio propio, con plena capacidad para adquirir y poseer toda clase de bienes que le sean necesarios para la prestación de los servicios públicos a su cargo, y en general, para el desarrollo de sus propias actividades y funciones.
 Las características del patrimonio de la Ciudad y su régimen jurídico, estarán determinados por la ley que en la materia expida la Asamblea Legislativa.
-Artículo reformado DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
+Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 3o
 .- El Distrito Federal se compone del territorio que actualmente tiene. Sus límites geográficos son los fijados por los decretos del 15 y 17 de diciembre de 1898 expedidos por el Congreso de la Unión así como por los convenios amistosos aprobados por el Poder Legislativo Federal de acuerdo con lo dispuesto en la Constitución.
@@ -49,7 +49,7 @@ Artículo reformado DOF 04-12-1997
 .- El Tribunal de lo Contencioso Administrativo tendrá plena autonomía para dirimir las controversias entre los particulares y las autoridades de la Administración Pública del Distrito Federal. Se compondrá de una Sala Superior y por Salas Ordinarias, conforme lo establezca su ley orgánica.
 Igualmente y por acuerdo de la Sala Superior, podrán formarse Salas Auxiliares cuando se requiera por necesidades del servicio.
 Los Magistrados serán nombrados por el Jefe de Gobierno del Distrito Federal con la ratificación de la Asamblea Legislativa del Distrito Federal; durarán seis años en el ejercicio de su encargo, y al término de su nombramiento, podrán ser ratificados, y si lo fueren sólo podrán ser privados de sus puestos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL En la ratificación de Magistrados al término del período para el que fueron nombrados intervendrán las mismas autoridades y se seguirán las mismas formalidades que para su designación.
+En la ratificación de Magistrados al término del período para el que fueron nombrados intervendrán las mismas autoridades y se seguirán las mismas formalidades que para su designación.
 La ley orgánica respectiva establecerá los requisitos para ser Magistrado, el funcionamiento y competencia de las Salas, el procedimiento, los recursos contra las resoluciones que éstas dicten y los términos en que será obligatoria la jurisprudencia que establezca la Sala Superior, así como los requisitos para su interrupción y modificación.
 Artículo reformado DOF 04-12-1997
 
@@ -67,7 +67,7 @@ Los elementos de los cuerpos de seguridad pública de prevención serán auxilia
 
 ### artículo 21
 de la Constitución Política de los Estados Unidos Mexicanos.
-Los elementos de estos cuerpos de seguridad deberán poner en conocimiento del Ministerio Público los hechos constitutivos de los delitos de que conozcan en el desempeño de sus funciones y los mandos ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL deberán poner a disposición del Ministerio Público a todo elemento de los mismos cuando sea requerido en el ejercicio de sus atribuciones.
+Los elementos de estos cuerpos de seguridad deberán poner en conocimiento del Ministerio Público los hechos constitutivos de los delitos de que conozcan en el desempeño de sus funciones y los mandos deberán poner a disposición del Ministerio Público a todo elemento de los mismos cuando sea requerido en el ejercicio de sus atribuciones.
 Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 11
@@ -85,7 +85,7 @@ Fracción reformada DOF 04-12-1997, 14-10-1999 IV. La previsión de la actuació
 Fracción reformada DOF 04-12-1997 V. La planeación y ordenamiento del desarrollo territorial, económico y social de la Ciudad, que considere la óptica integral de la capital con las peculiaridades de las demarcaciones territoriales que se establezcan para la división territorial;
 Fracción reformada DOF 04-12-1997 VI. La simplificación, agilidad, economía, información, precisión, legalidad, transparencia e imparcialidad en los procedimientos y actos administrativos en general;
 Fracción reformada DOF 04-12-1997 VII. La cobertura amplia, oportuna, ágil y especializada de los servicios de seguridad pública y de impartición y procuración de justicia para la protección de las personas, sus familias y sus bienes;
-Fracción reformada DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL VIII. La observancia, respeto y atención de recomendaciones por las autoridades y en general servidores públicos que ejerzan jurisdicción local en el Distrito Federal, respecto de los derechos humanos que establece el orden jurídico mexicano;
+Fracción reformada DOF 04-12-1997 VIII. La observancia, respeto y atención de recomendaciones por las autoridades y en general servidores públicos que ejerzan jurisdicción local en el Distrito Federal, respecto de los derechos humanos que establece el orden jurídico mexicano;
 Fracción reformada DOF 04-12-1997 IX. La formulación de políticas y programas de desarrollo económico, considerando las particularidades de la Ciudad y la congruencia de aquéllas con la planeación nacional del desarrollo;
 Fracción reformada DOF 04-12-1997 X. La conjugación de acciones de desarrollo con políticas y normas de seguridad y de protección a los elementos del medio ambiente;
 Fracción reformada DOF 04-12-1997 XI. La definición de las políticas sobre finanzas públicas para asegurar la estabilidad financiera y solidez fiscal de la entidad, la equidad de la carga tributaria, la seguridad jurídica de los contribuyentes y la atención prioritaria de las necesidades sociales;
@@ -102,7 +102,7 @@ Fracción adicionada DOF 04-12-1997
 
 ### ARTÍCULO 15
 .- Las responsabilidades de los servidores públicos de los poderes locales del Distrito Federal, salvo las de los servidores de los tribunales encargados de la función judicial del fuero común en el Distrito Federal, se regularán por la ley federal de la materia en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
-Artículo reformado DOF 04-12-1997 TITULO SEGUNDO DE LOS DERECHOS Y OBLIGACIONES DE CARACTER PUBLICO CAPITULO I DE LOS DERECHOS Y OBLIGACIONES DE LOS HABITANTES ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
+Artículo reformado DOF 04-12-1997 TITULO SEGUNDO DE LOS DERECHOS Y OBLIGACIONES DE CARACTER PUBLICO CAPITULO I DE LOS DERECHOS Y OBLIGACIONES DE LOS HABITANTES
 
 ### ARTÍCULO 16
 .- En el Distrito Federal todas las personas gozan de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos. Además tendrán los derechos y obligaciones que establecen este Estatuto y las leyes correspondientes.
@@ -128,7 +128,7 @@ CAPITULO II DE LOS DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 I. Votar y ser votados, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de este Estatuto y de las leyes de la materia, para los cargos de representación popular, así como votar en las consultas populares y demás mecanismos de participación ciudadana.
 El derecho de solicitar el registro de candidatos a cargos de elección popular ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación.
 Los ciudadanos del Distrito Federal que residan en el extranjero podrán ejercer su derecho al voto para la elección del Jefe de Gobierno del Distrito Federal, en los términos de la Constitución Política de los Estados Unidos Mexicanos, de este Estatuto y de las leyes de la materia;
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL II. La preferencia, en igualdad de circunstancias, para ocupar cargos, empleos o desempeñar comisiones de carácter público cuando cumplan con los requisitos que establezcan las leyes;
+II. La preferencia, en igualdad de circunstancias, para ocupar cargos, empleos o desempeñar comisiones de carácter público cuando cumplan con los requisitos que establezcan las leyes;
 III. Iniciar leyes ante la Asamblea Legislativa del Distrito Federal, en los términos y con los requisitos que señalen este Estatuto y las leyes, y IV. Los demás que establezcan este Estatuto y las leyes.
 Artículo reformado DOF 04-12-1997, 27-06-2014
 
@@ -148,7 +148,7 @@ Fracción reformada DOF 04-12-1997, 27-06-2014 II. Inscribirse en los padrones d
 III. Desempeñar los cargos de representación popular del Distrito Federal, para los cuales fueren electos, los que en ningún caso serán gratuitos;
 IV. Derogada.
 Fracción derogada DOF 04-12-1997 V. Proporcionar la información requerida en los censos efectuados por las autoridades; y VI. Las demás que establezcan la Constitución Política de los Estados Unidos Mexicanos y otros ordenamientos.
-TITULO TERCERO DE LAS ATRIBUCIONES DE LOS PODERES DE LA UNION PARA EL GOBIERNO DEL DISTRITO FEDERAL CAPITULO I DEL CONGRESO DE LA UNION ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
+TITULO TERCERO DE LAS ATRIBUCIONES DE LOS PODERES DE LA UNION PARA EL GOBIERNO DEL DISTRITO FEDERAL CAPITULO I DEL CONGRESO DE LA UNION
 
 ### ARTÍCULO 24
 .- Corresponde al Congreso de la Unión:
@@ -174,7 +174,7 @@ Artículo reformado DOF 04-12-1997 CAPITULO II DE LA SUPREMA CORTE DE JUSTICIA D
 
 ### ARTÍCULO 29
 .- Corresponde a la Suprema Corte de Justicia de la Nación conocer de las controversias a que se refiere la fracción I del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en que sea parte el Distrito Federal o uno de sus órganos, en los términos de la ley respectiva.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Artículo reformado DOF 04-12-1997
+Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 30
 .- Derogado.
@@ -196,7 +196,7 @@ Fracción reformada DOF 04-12-1997 V. Proveer en la esfera administrativa a la e
 Fracción reformada DOF 04-12-1997 VII. (Se deroga).
 Fracción derogada DOF 04-12-1997 VIII. (Se deroga).
 Fracción derogada DOF 04-12-1997 IX. (Se deroga).
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Fracción derogada DOF 04-12-1997 X. (Se deroga).
+Fracción derogada DOF 04-12-1997 X. (Se deroga).
 Fracción derogada DOF 04-12-1997 XI. (Se deroga).
 Fracción derogada DOF 04-12-1997
 
@@ -217,7 +217,7 @@ Artículo reformado DOF 04-12-1997
 I. Para mantener el orden público y garantizar la seguridad de las personas y sus bienes, podrá instruir al Jefe de Gobierno del Distrito Federal sobre: a) La disposición de la fuerza pública; y b) El ejercicio de funciones de seguridad pública.
 En el caso de que el Jefe de Gobierno se abstenga, incumpla, contravenga o no acate las instrucciones del Presidente de la República, éste podrá instruir directamente a los cuerpos de seguridad pública;
 II. Solicitar al servidor público que ejerza el mando directo de la fuerza pública y al Procurador General de Justicia del Distrito Federal, información sobre la situación que guarde la fuerza pública a su cargo; y III. Ejercer las demás facultades que le corresponden como titular del mando de la fuerza pública que le otorga la Constitución Política de los Estados Unidos Mexicanos.
-Artículo reformado DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL TITULO CUARTO DE LAS BASES DE LA ORGANIZACION Y FACULTADES DE LOS ORGANOS LOCALES DE GOBIERNO DEL DISTRITO FEDERAL
+Artículo reformado DOF 04-12-1997 TITULO CUARTO DE LAS BASES DE LA ORGANIZACION Y FACULTADES DE LOS ORGANOS LOCALES DE GOBIERNO DEL DISTRITO FEDERAL
 
 ## CAPÍTULO I
 DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Denominación del Capítulo reformada DOF 04-12-1997
@@ -237,7 +237,7 @@ III. Ser originario del Distrito Federal o vecino de él con residencia efectiva
 IV. No estar en servicio activo en el Ejército ni tener mando en la policía del Distrito Federal, cuando menos noventa días antes de la elección;
 V. No ser Secretario o Subsecretario de Estado, Procurador General de la República, Ministro de la Suprema Corte de Justicia de la Nación o miembro del Consejo de la Judicatura Federal a menos que se haya separado definitivamente de sus funciones, noventa días antes de la elección en el caso de los primeros y dos años en el caso de los Ministros;
 VI. No ser Magistrado de Circuito o Juez de Distrito en el Distrito Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
-VII. No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Distrito Federal, ni miembro del Consejo de la Judicatura del Distrito Federal, ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
+VII. No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Distrito Federal, ni miembro del Consejo de la Judicatura del Distrito Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
 VIII. No ser Jefe de Gobierno del Distrito Federal, ni titular de órgano político-administrativo, dependencia, unidad administrativa, órgano desconcentrado o entidad paraestatal de la Administración Pública del Distrito Federal, ni Procurador General de Justicia del Distrito Federal a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
 Fracción reformada DOF 27-06-2014 IX. No ser ministro de culto religioso, a no ser que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley, y Fracción reformada DOF 27-06-2014 X. No haber sido Consejero Presidente o Consejero del Consejo General del Instituto Electoral del Distrito Federal, o Magistrado Presidente o Magistrado del Tribunal Electoral del Distrito Federal, a menos que haya concluido su encargo o se haya separado del mismo, al menos tres años antes de la fecha de inicio del proceso electoral local correspondiente.
 Fracción adicionada DOF 27-06-2014 La elección de los diputados según el principio de representación proporcional y el sistema de listas en una sola circunscripción plurinominal, se sujetará a las siguientes bases y a lo que en particular disponga la Ley:
@@ -247,7 +247,7 @@ Inciso reformado DOF 28-04-2008 c) La aplicación de una fórmula de proporciona
 Inciso adicionado DOF 28-04-2008 d) El partido político que por sí solo alcance por lo menos el tres por ciento del total de la votación válida emitida, tendrá derecho a participar en la asignación de diputados por el principio de representación proporcional, conforme a lo siguiente:
 Párrafo reformado DOF 27-06-2014 Los partidos políticos registrarán una lista parcial de trece fórmulas de candidatos a diputados por el principio de representación proporcional, lista "A". Los otros trece espacios de la lista de representación proporcional, lista "B", serán dejados en blanco para ser ocupados, en su momento, por las fórmulas de candidatos que surjan de la competencia en los distritos y que no hubieran obtenido el triunfo, pero hubieran alcanzado los más altos porcentajes de votación distrital, comparados con otras fórmulas de su propio partido para esa misma elección.
 Las listas de representación proporcional se integrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Párrafo adicionado DOF 27-06-2014 El orden en que se conformará la lista definitiva de diputados que corresponda a cada partido o coalición bajo el principio de representación proporcional, se hará intercalando las listas "A" y "B", iniciando por la primera fórmula registrada en la lista "A", seguida por la primera fórmula de la lista "B" y así sucesivamente hasta agotar el número de diputaciones asignadas a cada partido o coalición.
+Párrafo adicionado DOF 27-06-2014 El orden en que se conformará la lista definitiva de diputados que corresponda a cada partido o coalición bajo el principio de representación proporcional, se hará intercalando las listas "A" y "B", iniciando por la primera fórmula registrada en la lista "A", seguida por la primera fórmula de la lista "B" y así sucesivamente hasta agotar el número de diputaciones asignadas a cada partido o coalición.
 En el supuesto de que alguna de las fórmulas aparezca tanto en la lista "A", como en la "B", con derecho a la asignación de una diputación de representación proporcional se le otorgará el lugar en el que esté mejor posicionada. El lugar que dicha fórmula deje vacante, será ocupado por la fórmula siguiente en el orden de prelación de la lista "A".
 Tratándose de coaliciones y candidaturas comunes, la Ley desarrollará el procedimiento correspondiente considerando lo señalado en los incisos anteriores.
 Inciso adicionado DOF 28-04-2008 En todo caso, para la asignación de diputados por el principio de representación proporcional se observarán las siguientes reglas:
@@ -257,7 +257,7 @@ Inciso reformado DOF 27-06-2014 c) Se deroga.
 Inciso derogado DOF 27-06-2014 d) En ningún caso un partido político podrá contar con un número de diputados, por ambos principios, que represente un porcentaje del total de la Asamblea Legislativa que exceda en ocho puntos a su porcentaje de votación válida emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Asamblea Legislativa, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
 Inciso adicionado DOF 28-04-2008. Reformado DOF 27-06-2014 e) Al partido político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida, se le asignará una curul por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido.
 Inciso adicionado DOF 27-06-2014 f) Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional conforme a la fórmula establecida en la ley.
-Inciso adicionado DOF 27-06-2014 g) En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación. Esta fórmula se ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL aplicará una vez que le sea asignado un diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
+Inciso adicionado DOF 27-06-2014 g) En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación. Esta fórmula se aplicará una vez que le sea asignado un diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
 Inciso adicionado DOF 27-06-2014 Los diputados a la Asamblea Legislativa podrán ser electos hasta por cuatro periodos consecutivos.
 La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 Párrafo reformado DOF 28-04-2008 (publicado nuevamente como en DOF 04-12-1997). Reformado DOF 27-06-2014 Para efecto de lo dispuesto en el párrafo anterior, si los diputados suplentes entran en ejercicio en cualquier tiempo se considerará que han agotado el periodo correspondiente.
@@ -281,7 +281,7 @@ Artículo reformado DOF 04-12-1997 SECCION I DE LAS FACULTADES DE LA ASAMBLEA
 ### ARTÍCULO 42
 .- La Asamblea Legislativa tiene facultades para:
 I. Expedir su Ley Orgánica que regulará su estructura y funcionamiento internos, que será enviada al Jefe de Gobierno del Distrito Federal, para el sólo efecto de que ordene su publicación;
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL II. Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto.
+II. Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto.
 Al aprobar el Presupuesto de Egresos no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley; y en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la ley que estableció el empleo.
 Dentro de la Ley de Ingresos no podrán incorporarse montos de endeudamiento superiores a los que haya autorizado previamente el Congreso de la Unión para el financiamiento del Presupuesto de Egresos del Distrito Federal.
 Las leyes federales no limitarán la facultad del Distrito Federal para establecer contribuciones sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles incluyendo tasas adicionales, ni sobre los servicios públicos a su cargo. Tampoco considerarán a personas como no sujetos de contribuciones ni establecerán exenciones, subsidios o regímenes fiscales especiales en favor de personas físicas y morales ni de instituciones oficiales o privadas en relación con dichas contribuciones. Las leyes del Distrito Federal no establecerán exenciones o subsidios respecto a las mencionadas contribuciones en favor de personas físicas o morales ni de instituciones oficiales o privadas.
@@ -294,7 +294,7 @@ VII. Expedir la Ley Orgánica del Tribunal de lo Contencioso Administrativo del 
 VIII. Iniciar leyes o decretos relativos al Distrito Federal, ante el Congreso de la Unión;
 IX. Expedir las disposiciones legales para organizar la hacienda pública, la contaduría mayor y el presupuesto, la contabilidad y el gasto público del Distrito Federal;
 X. Expedir las disposiciones que rijan las elecciones locales en el Distrito Federal para Jefe de Gobierno, diputados a la Asamblea Legislativa y titulares de los órganos político-administrativos de las demarcaciones territoriales;
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL XI. Legislar en materia de administración pública local, su régimen interno y de procedimientos administrativos;
+XI. Legislar en materia de administración pública local, su régimen interno y de procedimientos administrativos;
 XII. Legislar en las materias civil y penal, normar el organismo protector de los derechos humanos, participación ciudadana, defensoría de oficio, notariado y registro público de la propiedad y de comercio;
 XIII. Normar la protección civil; justicia cívica sobre faltas de policía y buen gobierno; los servicios de seguridad prestados por empresas privadas; la prevención y la readaptación social; la salud; la asistencia social; y la previsión social;
 XIV. Legislar en materia de planeación del desarrollo; en desarrollo urbano, particularmente en el uso del suelo; preservación del medio ambiente y protección ecológica; vivienda; construcciones y edificaciones; vías públicas, tránsito y estacionamientos; adquisiciones y obras públicas; y sobre explotación, uso y aprovechamiento de los bienes del patrimonio del Distrito Federal;
@@ -306,7 +306,7 @@ XIX. Revisar la Cuenta Pública del año anterior que le remita el Jefe de Gobie
 XX. Analizar los informes trimestrales que le envíe el Jefe de Gobierno del Distrito Federal, sobre la ejecución y cumplimiento de los presupuestos y programas aprobados. Los resultados de dichos análisis, se considerarán para la revisión de la Cuenta Pública que realice la Contaduría Mayor de Hacienda de la propia Asamblea;
 XXI. Aprobar las solicitudes de licencia de sus miembros para separarse de su encargo;
 XXII. Conocer de la renuncia del Jefe de Gobierno del Distrito Federal, la que sólo podrá aceptarse por causas graves, y aprobar sus licencias;
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL XXIII. Designar en caso de falta absoluta del Jefe de Gobierno del Distrito Federal, por renuncia o cualquier otra causa, un sustituto que termine el encargo;
+XXIII. Designar en caso de falta absoluta del Jefe de Gobierno del Distrito Federal, por renuncia o cualquier otra causa, un sustituto que termine el encargo;
 XXIV. Decidir sobre las propuestas que haga el Jefe de Gobierno del Distrito Federal de Magistrados del Tribunal Superior de Justicia del Distrito Federal y ratificar los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo del Distrito Federal;
 XXV. Comunicarse con los otros órganos locales de gobierno, con la Procuraduría General de Justicia del Distrito Federal, con la Comisión de Derechos Humanos del Distrito Federal, así como con cualquiera otra dependencia o entidad por conducto de su mesa directiva, la Comisión de Gobierno o sus órganos internos de trabajo, según el caso, de conformidad con lo que dispongan las leyes correspondientes;
 XXVI. Otorgar reconocimientos a quienes hayan prestado servicios eminentes a la Ciudad, a la Nación o a la Humanidad; y XXVII.- Remover a los Jefes Delegacionales, por las causas graves que establece el presente Estatuto, con el voto de las dos terceras partes de los diputados que integren la Legislatura.
@@ -320,7 +320,7 @@ Fracción adicionada DOF 14-10-1999 Artículo reformado DOF 04-12-1997
 La revisión de la Cuenta Pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto y el cumplimiento de los objetivos contenidos en los programas.
 Si del examen que realice la Contaduría Mayor de Hacienda aparecieran discrepancias entre las cantidades gastadas y las partidas respectivas del presupuesto o no existiera exactitud o justificación en los gastos hechos, se determinarán las responsabilidades de acuerdo a la ley.
 La Cuenta Pública del año anterior deberá ser presentada por el Jefe de Gobierno del Distrito Federal a la Comisión de Gobierno de la Asamblea Legislativa dentro de los diez primeros días del mes de junio.
-Artículo reformado DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
+Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 44
 .- Las leyes y decretos que expida la Asamblea Legislativa del Distrito Federal se sujetarán a lo dispuesto en las leyes generales que dicte el Congreso de la Unión en las materias de función social educativa, salud, asentamientos humanos, protección al ambiente, preservación y restauración del equilibrio ecológico y las demás en que la Constitución Política de los Estados Unidos Mexicanos determine materias concurrentes.
@@ -336,7 +336,7 @@ Párrafo reformado DOF 04-12-1997 I. A los diputados de la Asamblea Legislativa 
 Fracción reformada DOF 04-12-1997 II. Al Tribunal Superior de Justicia del Distrito Federal, en todo lo relacionado con la organización y funcionamiento de la administración de justicia;
 Fracción derogada DOF 04-12-1997. Adicionada DOF 07-01-2013 III. Al Jefe de Gobierno del Distrito Federal.
 La facultad de iniciativa respecto de la Ley de Ingresos y el Presupuesto de Egresos corresponde exclusivamente al Jefe de Gobierno del Distrito Federal; y Fracción reformada DOF 04-12-1997 IV. A través de la iniciativa popular, los ciudadanos del Distrito Federal podrán presentar a la Asamblea Legislativa, proyectos de leyes respecto de las materias de la competencia legislativa de la misma, de conformidad con las siguientes bases: a) No podrán ser objeto de iniciativa popular las siguientes materias: 1. Tributaria o fiscal así como de Egresos del Distrito Federal; 2. Régimen interno de la Administración Pública del Distrito Federal; 3. Regulación interna de la Asamblea Legislativa y de su Contaduría Mayor de Hacienda; 4. Regulación interna de los tribunales de justicia del fuero común del Distrito Federal; y 5. Las demás que determinen las leyes. b) Una comisión especial integrada por miembros de las comisiones competentes en la materia de la propuesta, verificará el cumplimiento de los requisitos que la ley respectiva establezca, en caso contrario desechará de plano la iniciativa presentada. c) No se admitirá iniciativa popular alguna que haya sido declarada improcedente o rechazada por la Asamblea Legislativa.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Fracción adicionada DOF 04-12-1997
+Fracción adicionada DOF 04-12-1997
 
 ### ARTÍCULO 47
 .- Las leyes de la Asamblea Legislativa que regulen la organización y funciones de la Administración Pública del Distrito Federal, deberán contener normas relativas a:
@@ -360,7 +360,7 @@ Artículo reformado DOF 04-12-1997
 ### ARTÍCULO 51
 .- En los recesos de la Asamblea Legislativa del Distrito Federal, la Comisión de Gobierno, además de las atribuciones que le confiera la Ley Orgánica de la propia Asamblea, tendrá las siguientes:
 Párrafo reformado DOF 04-12-1997 I. Derogada.
-Fracción derogada DOF 04-12-1997 II. Acordar a petición del Jefe de Gobierno del Distrito Federal, o por excitativa de la mitad más uno de los Diputados que la integran, la convocatoria a sesiones extraordinarias de la Asamblea Legislativa. La ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL convocatoria precisará por escrito, el asunto o asuntos que deba resolver el pleno de la Asamblea y las razones que la justifiquen.
+Fracción derogada DOF 04-12-1997 II. Acordar a petición del Jefe de Gobierno del Distrito Federal, o por excitativa de la mitad más uno de los Diputados que la integran, la convocatoria a sesiones extraordinarias de la Asamblea Legislativa. La convocatoria precisará por escrito, el asunto o asuntos que deba resolver el pleno de la Asamblea y las razones que la justifiquen.
 Para los casos en que la Asamblea Legislativa deba designar un Jefe de Gobierno sustituto que termine el encargo y no se hallare reunida, la Comisión de Gobierno convocará de inmediato a sesiones extraordinarias;
 Fracción reformada DOF 04-12-1997 III. Recibir las iniciativas de ley y proposiciones dirigidas a la Asamblea y turnarlas para dictamen a las comisiones de la Asamblea a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones; y IV. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los miembros de la Asamblea Legislativa.
 Fracción reformada DOF 04-12-1997
@@ -383,7 +383,7 @@ La residencia no se interrumpe por el desempeño de cargos públicos de la Feder
 III. Tener cuando menos treinta años cumplidos al día de la elección;
 IV. No haber desempeñado el cargo de Jefe de Gobierno del Distrito Federal con cualquier carácter o denominación;
 V. No estar en servicio activo en el Ejército Federal ni tener mando de policía, cuando menos noventa días antes de la elección;
-VI. No ser Secretario ni Subsecretario de Estado, Jefe de Departamento Administrativo, Procurador General de la República, Ministro de la Suprema Corte de Justicia de la Nación, ni miembro del Consejo ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL de la Judicatura Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección, en el caso de los primeros y dos años en el caso de los Ministros;
+VI. No ser Secretario ni Subsecretario de Estado, Jefe de Departamento Administrativo, Procurador General de la República, Ministro de la Suprema Corte de Justicia de la Nación, ni miembro del Consejo de la Judicatura Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección, en el caso de los primeros y dos años en el caso de los Ministros;
 VII. No ser Magistrado de Circuito o Juez de Distrito en el Distrito Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
 VIII. No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Distrito Federal, ni miembro del Consejo de la Judicatura del Distrito Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
 IX. No ser Secretario del Órgano Ejecutivo, Oficial Mayor, Contralor General, titular de órgano político administrativo, dependencia, unidad administrativa, órgano desconcentrado o entidad paraestatal de la Administración Pública del Distrito Federal, ni Procurador General de Justicia del Distrito Federal, a menos que se haya separado definitivamente de sus funciones noventa días antes de la elección;
@@ -412,7 +412,7 @@ Artículo derogado DOF 04-12-1997
 
 ### ARTÍCULO 59
 .- El Jefe de Gobierno del Distrito Federal, rendirá protesta, en los siguientes términos: “Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y las leyes que de ellos emanen y desempeñar leal y patrióticamente el cargo de Jefe de Gobierno del Distrito Federal mirando en todo por el bien y prosperidad de la Unión y del Distrito Federal, y si así no lo hiciere que el pueblo me lo demande”.
-Artículo reformado DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
+Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 60
 .- El Jefe de Gobierno, ejercerá su encargo durante seis años, a partir del día 5 de diciembre del año de la elección, fecha en que rendirá protesta ante la Asamblea Legislativa.
@@ -443,7 +443,7 @@ Las comunicaciones deberán expresar los hechos que se estime afecten o hayan af
 La comisión de la Cámara de Senadores o de la Comisión Permanente del Congreso de la Unión que conozca de la solicitud de remoción dará vista al Jefe de Gobierno del Distrito Federal, para que en el término de diez días manifieste lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes, debiendo dicha comisión formular el dictamen respectivo dentro de los diez días siguientes.
 El Jefe de Gobierno podrá acudir ante el Pleno del órgano respectivo.
 La remoción será acordada por la Cámara de Senadores o la Comisión Permanente del Congreso de la Unión.
-Artículo reformado DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
+Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 66
 .- Son causas graves para la remoción del Jefe de Gobierno del Distrito Federal las siguientes:
@@ -466,7 +466,7 @@ V. Nombrar y remover libremente a los titulares de las unidades, órganos y depe
 VI. Nombrar y remover al Presidente de la Junta de Asistencia Privada del Distrito Federal, de acuerdo con lo que disponga la ley;
 VII. Nombrar y remover al Procurador General de Justicia del Distrito Federal en los términos de este Estatuto;
 VIII. Proponer Magistrados del Tribunal Superior de Justicia del Distrito Federal y designar los del Tribunal de lo Contencioso Administrativo del Distrito Federal y someter dichas propuestas y designaciones, según sea el caso, para su ratificación a la Asamblea Legislativa del Distrito Federal;
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL IX. Proponer al Presidente de la República el nombramiento y en su caso la remoción del Presidente de la Junta Local de Conciliación y Arbitraje;
+IX. Proponer al Presidente de la República el nombramiento y en su caso la remoción del Presidente de la Junta Local de Conciliación y Arbitraje;
 X. Otorgar patentes de notario conforme a las disposiciones aplicables;
 XI. Solicitar a la Comisión de Gobierno de la Asamblea Legislativa convoque a sesiones extraordinarias;
 XII. Presentar a la Asamblea Legislativa del Distrito Federal a más tardar el día treinta de noviembre, la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos para el año inmediato siguiente, o hasta el día veinte de diciembre, cuando inicie su encargo en dicho mes.
@@ -479,7 +479,7 @@ XVII. Presentar por escrito a la Asamblea Legislativa, a la apertura de su prime
 XVIII. Remitir a la Asamblea Legislativa dentro de los cuarenta y cinco días posteriores a la fecha del corte del periodo respectivo, los informes trimestrales sobre la ejecución y cumplimiento de los presupuestos y programas aprobados para la revisión de la Cuenta Pública del Distrito Federal;
 XIX. Ejercer actos de dominio sobre el patrimonio del Distrito Federal, de acuerdo con lo dispuesto en este Estatuto y las leyes correspondientes;
 XX. Ejercer las funciones de dirección de los servicios de seguridad pública, entre las que se encuentran las siguientes: a) Establecimiento de las políticas generales de seguridad pública para el Distrito Federal; b) El nombramiento y remoción libre de los servidores públicos de jerarquía inferior a las del servidor público que tenga a su cargo el mando directo de la fuerza pública del Distrito Federal; c) La determinación de la división del Distrito Federal en áreas geográficas de atención y el nombramiento y remoción libre de los servidores públicos responsables de las mismas; d) La creación de establecimientos de formación policial; y e) Las demás que determinen las leyes.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Las bases de integración de los servicios de seguridad pública en la organización de la administración pública, se establecerán de acuerdo con las leyes que en la materia expidan el Congreso de la Unión y la Asamblea Legislativa, en el ámbito de sus respectivas competencias.
+Las bases de integración de los servicios de seguridad pública en la organización de la administración pública, se establecerán de acuerdo con las leyes que en la materia expidan el Congreso de la Unión y la Asamblea Legislativa, en el ámbito de sus respectivas competencias.
 Se normará el desempeño de los servicios de seguridad pública tomando en cuenta sus caracteres específicos en tanto cuerpos armados de naturaleza civil, garantes de los derechos, de la integridad física y patrimonial de la población. Sin perjuicio de lo establecido en las leyes que prevengan responsabilidades de los servidores públicos, las leyes respectivas contendrán un código que establezca los derechos y obligaciones específicos del servicio y los procedimientos para aplicar las medidas disciplinarias necesarias a efecto de mantener el orden y la integridad del mismo, conforme a los principios de honestidad, eficacia y legalidad en su prestación.
 Los servicios privados de seguridad son auxiliares de la función de seguridad pública. Sus integrantes coadyuvarán con las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva;
 XXI. Administrar los establecimientos de arresto, prisión preventiva y de readaptación social de carácter local, así como ejecutar las sentencias penales por delitos del fuero común;
@@ -490,7 +490,7 @@ XXV. Celebrar convenios de coordinación con la Federación, Estados y Municipio
 XXVI. Dirigir la planeación y ordenamiento del desarrollo urbano del Distrito Federal, en los términos de las leyes;
 XXVII. Celebrar convenios o acuerdos de coordinación, en los términos de los artículos 11 y 12 de la Ley General del Equilibrio Ecológico y de Protección al Ambiente, con el objeto que asuma las siguientes funciones: a) El manejo y vigilancia de las áreas naturales protegidas de competencia federal; b) El control de los residuos peligrosos considerados de baja peligrosidad conforme a las disposiciones de la ley general de la materia; c) La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal; y d) Las demás previstas en el artículo 11 de la ley general de la materia;
 XXVIII. Declarar la expropiación, ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, conforme a las leyes del Congreso de la Unión;
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL XXIX. Proporcionar a los Poderes Federales los apoyos que se le requieran para el ejercicio expedito de sus funciones. Asimismo, prestar los apoyos y servicios para la realización de festividades cívicas, conmemoración de fechas, actos oficiales, ceremonias especiales, desfiles, y en general de aquellos que se realicen con motivo de acontecimientos relevantes;
+XXIX. Proporcionar a los Poderes Federales los apoyos que se le requieran para el ejercicio expedito de sus funciones. Asimismo, prestar los apoyos y servicios para la realización de festividades cívicas, conmemoración de fechas, actos oficiales, ceremonias especiales, desfiles, y en general de aquellos que se realicen con motivo de acontecimientos relevantes;
 XXX. Convocar a plebiscito en los términos de este Estatuto y demás disposiciones aplicables; y XXXI. Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, este Estatuto y otros ordenamientos.
 Artículo reformado DOF 04-12-1997
 
@@ -501,7 +501,7 @@ II. El Jefe de Gobierno del Distrito Federal iniciará el procedimiento de plebi
 III. Los resultados del plebiscito serán vinculatorios para el convocante cuando una de las opciones obtenga la mayoría de la votación válidamente emitida y ésta corresponda cuando menos a la tercera parte de los ciudadanos inscritos en el padrón electoral del Distrito Federal;
 IV. En el año en que tengan verificativo elecciones de representantes populares, no podrá realizarse plebiscito alguno durante el proceso electoral, ni durante los sesenta días posteriores a su conclusión. No podrán realizarse dos plebiscitos en el mismo año;
 V. El Instituto Electoral del Distrito Federal organizará el procedimiento de plebiscito y hará la declaratoria de sus efectos, de conformidad con lo que disponga la ley aplicable; y VI. Las controversias que se generen con motivo de la validez de los procesos de plebiscito serán resueltas por el Tribunal Electoral del Distrito Federal en los términos que establezca la ley respectiva.
-Artículo reformado DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL SECCION III DE LA COORDINACION METROPOLITANA
+Artículo reformado DOF 04-12-1997 SECCION III DE LA COORDINACION METROPOLITANA
 
 ### ARTÍCULO 69
 .- El Distrito Federal participará, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos y este Estatuto, en la planeación y ejecución de acciones coordinadas con la Federación, Estados y Municipios en las zonas conurbadas limítrofes con la Ciudad de México, en materias de asentamientos humanos; protección al ambiente, preservación y restauración del equilibrio ecológico; transporte; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos y seguridad pública.
@@ -523,7 +523,7 @@ Artículo reformado DOF 04-12-1997, 14-10-1999
 .- La participación del Distrito Federal en la coordinación metropolitana, se sujetará a las siguientes bases:
 I. Tratándose de la aportación de recursos materiales, humanos y financieros, sólo se contraerán compromisos hasta por los montos autorizados por la Asamblea Legislativa, en el presupuesto de egresos del ejercicio correspondiente;
 Fracción reformada DOF 04-12-1997 II. Será causa de responsabilidad de los servidores públicos del Distrito Federal que participen en la coordinación metropolitana, contraer compromisos fuera del ámbito de sus atribuciones o de las disponibilidades presupuestales aprobadas;
-III. Los compromisos que el gobierno del Distrito Federal adquiera así como las reglas a que sujete su participación, deberán ajustarse a lo dispuesto por las leyes que expida la Asamblea Legislativa; las leyes generales expedidas por el Congreso de la Unión tratándose de materias concurrentes y en general a lo dispuesto por la legislación local aplicable a la materia de que se trate; y Fracción reformada DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL IV. En todo caso, los integrantes de las comisiones, contarán con la asesoría y el apoyo técnico y profesional necesarios de acuerdo con la naturaleza y características de la materia de que se trate.
+III. Los compromisos que el gobierno del Distrito Federal adquiera así como las reglas a que sujete su participación, deberán ajustarse a lo dispuesto por las leyes que expida la Asamblea Legislativa; las leyes generales expedidas por el Congreso de la Unión tratándose de materias concurrentes y en general a lo dispuesto por la legislación local aplicable a la materia de que se trate; y Fracción reformada DOF 04-12-1997 IV. En todo caso, los integrantes de las comisiones, contarán con la asesoría y el apoyo técnico y profesional necesarios de acuerdo con la naturaleza y características de la materia de que se trate.
 
 ### ARTÍCULO 74
 .- Los acuerdos y convenios que en materia de coordinación metropolitana suscriba el gobierno del Distrito Federal, deberán publicarse en el Diario Oficial de la Federación y en la Gaceta Oficial del Distrito Federal.
@@ -552,7 +552,7 @@ Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 79
 .- En caso de que la Asamblea Legislativa no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Jefe de Gobierno hará un tercero que surtirá sus efectos desde luego como provisional y que será sometido a la aprobación de la Asamblea.
-Dentro de los quince días a que se refiere el artículo anterior, la Asamblea deberá aprobar o no el nombramiento y si nada resuelve, el magistrado nombrado provisionalmente continuará en sus funciones ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL con el carácter de definitivo, haciendo el Jefe de Gobierno la declaración correspondiente. Si la Asamblea desecha el nombramiento, cesará en sus funciones el magistrado provisional y el Jefe de Gobierno le someterá un nuevo nombramiento.
+Dentro de los quince días a que se refiere el artículo anterior, la Asamblea deberá aprobar o no el nombramiento y si nada resuelve, el magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo, haciendo el Jefe de Gobierno la declaración correspondiente. Si la Asamblea desecha el nombramiento, cesará en sus funciones el magistrado provisional y el Jefe de Gobierno le someterá un nuevo nombramiento.
 Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 80
@@ -573,7 +573,7 @@ Párrafo adicionado DOF 12-12-1995
 .- La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales estarán a cargo del Consejo de la Judicatura del Distrito Federal, en los términos que, conforme a las bases que señalan la Constitución Política de los Estados Unidos Mexicanos y este Estatuto, establezca la ley orgánica respectiva.
 El Consejo se integrará por siete miembros, de los cuales uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; un Magistrado y dos Jueces elegidos por mayoría de votos de las dos terceras partes del Pleno de Magistrados; dos consejeros designados por la Asamblea Legislativa y uno por el Jefe de Gobierno. Todos los Consejeros deberán reunir los requisitos exigidos para ser Magistrado y serán personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades. En el caso de los elegidos por el Pleno de Magistrados deberán gozar, además, de reconocimiento por sus méritos profesionales en el ámbito judicial.
 Párrafo reformado DOF 04-12-1997, 28-01-2011 Los Consejeros durarán cinco años en su cargo, serán substituidos de manera escalonada, y no podrán ser nombrados para un nuevo período.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
 El Consejo, actuando en Pleno, opinará sobre la designación y ratificación de magistrados; resolverá sobre la adscripción y remoción de magistrados; y designará, adscribirá y removerá a los jueces del Distrito Federal; todo ello en los términos que la ley prevea en materia de carrera judicial. También determinará el número y especialización por materia de las salas del tribunal y juzgados que integran el Poder Judicial del Distrito Federal, de conformidad con lo que establezca el propio Consejo.
 Párrafo reformado DOF 28-01-2011 El Pleno y las Salas del Tribunal Superior de Justicia, así como los jueces y demás órganos judiciales, nombrarán y removerán a sus funcionarios y empleados conforme a lo que establezca la ley en materia de carrera judicial.
@@ -591,7 +591,7 @@ Artículo reformado DOF 12-12-1995
 Artículo reformado DOF 12-12-1995 TITULO QUINTO DE LAS BASES PARA LA ORGANIZACION DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL Y LA DISTRIBUCION DE ATRIBUCIONES ENTRE SUS ORGANOS CAPITULO I DE LA ORGANIZACION DE LA ADMINISTRACION PUBLICA
 
 ### ARTÍCULO 86
-.- La administración pública del Distrito Federal se integrará con base en un servicio público de carrera, el cual se integrará con base en los principios de legalidad, honradez, lealtad, ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL imparcialidad, eficiencia, profesionalización, y eficacia, de conformidad con la ley que al efecto expida la Asamblea Legislativa.
+.- La administración pública del Distrito Federal se integrará con base en un servicio público de carrera, el cual se integrará con base en los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, profesionalización, y eficacia, de conformidad con la ley que al efecto expida la Asamblea Legislativa.
 Artículo reformado DOF 04-12-1997
 
 ### ARTÍCULO 87
@@ -619,7 +619,7 @@ Artículo reformado DOF 04-12-1997
 ### ARTÍCULO 93
 .- La administración pública del Distrito Federal tendrá a su cargo, los servicios públicos que la ley establezca, considerando la capacidad administrativa y financiera de la entidad.
 La prestación de servicios públicos podrá concesionarse, en caso de que así lo requiera el interés general y la naturaleza del servicio lo permita, a quienes reúnan los requisitos y en los términos que establezcan las leyes, previa declaratoria que emita el Jefe de Gobierno.
-Párrafo reformado DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Tomando en cuenta la mayor eficiencia en la prestación de los servicios públicos, el Jefe de Gobierno podrá dictar acuerdos mediante los cuales delegue en los Jefes Delegacionales la facultad de otorgar concesiones de servicios públicos que tengan efecto dentro de la Delegación.
+Párrafo reformado DOF 04-12-1997 Tomando en cuenta la mayor eficiencia en la prestación de los servicios públicos, el Jefe de Gobierno podrá dictar acuerdos mediante los cuales delegue en los Jefes Delegacionales la facultad de otorgar concesiones de servicios públicos que tengan efecto dentro de la Delegación.
 Párrafo adicionado DOF 14-10-1999
 
 ### ARTÍCULO 94
@@ -644,7 +644,7 @@ Artículo reformado DOF 04-12-1997
 ### ARTÍCULO 99
 .- Los organismos descentralizados y empresas de participación estatal tendrán por objeto principal:
 I. La realización de actividades determinadas como prioritarias por las leyes aplicables;
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL II. La generación de bienes y la prestación de servicios públicos o sociales prioritarios para el funcionamiento de la Ciudad y la satisfacción de las necesidades colectivas; y Fracción reformada DOF 04-12-1997 III. El auxilio operativo en el ejercicio de funciones tecnológicas o técnicas del Jefe de Gobierno.
+II. La generación de bienes y la prestación de servicios públicos o sociales prioritarios para el funcionamiento de la Ciudad y la satisfacción de las necesidades colectivas; y Fracción reformada DOF 04-12-1997 III. El auxilio operativo en el ejercicio de funciones tecnológicas o técnicas del Jefe de Gobierno.
 Fracción reformada DOF 04-12-1997
 
 ### ARTÍCULO 100
@@ -674,7 +674,7 @@ Artículo reformado DOF 14-10-1999
 ### ARTÍCULO 105
 .- Cada Delegación se integrará con un Titular, al que se le denominará genéricamente Jefe Delegacional, electo en forma universal, libre, secreta y directa cada tres años, según lo determine la Ley, así como con los funcionarios y demás servidores públicos que determinen la ley orgánica y el reglamento respectivos.
 Para ser Jefe Delegacional se requiere:
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL I. Ser ciudadano mexicano por nacimiento y no tener otra nacionalidad, en pleno goce de sus derechos;
+I. Ser ciudadano mexicano por nacimiento y no tener otra nacionalidad, en pleno goce de sus derechos;
 II. Tener por lo menos veinticinco años el día de la elección;
 III. Ser originario del Distrito Federal con dos años de residencia efectiva inmediatamente anteriores al día de la elección, o vecino de él con residencia efectiva no menor de tres años inmediatamente anteriores al día de la elección, y IV. Cumplir los requisitos establecidos en las fracciones IV a X del artículo 53 del presente Estatuto.
 Los Jefes Delegacionales podrán ser electos hasta por dos períodos consecutivos, de tres años cada uno. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
@@ -696,7 +696,7 @@ Artículo derogado DOF 04-12-1997. Adicionado DOF 14-10-1999
 ### ARTÍCULO 108
 .- Sin perjuicio de lo dispuesto por la legislación sobre responsabilidades aplicable a los servidores públicos del Distrito Federal, la Asamblea Legislativa del Distrito Federal, a propuesta del Jefe de Gobierno o de los diputados, podrá remover a los Jefes Delegacionales por las causas graves siguientes:
 I. Por violaciones sistemáticas a la Constitución, al presente Estatuto o a las leyes federales y del Distrito Federal;
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL II. Por contravenir de manera grave y sistemática los reglamentos, acuerdos y demás resoluciones del Jefe de Gobierno del Distrito Federal;
+II. Por contravenir de manera grave y sistemática los reglamentos, acuerdos y demás resoluciones del Jefe de Gobierno del Distrito Federal;
 III. Por realizar cualquier acto o incurrir en omisiones que afecten gravemente el funcionamiento de la administración pública del Distrito Federal o el orden público en la Entidad;
 IV. Por desempeñar cualquier otro empleo, cargo o comisión en la Federación, Estados, Distrito Federal o Municipios, durante el tiempo que dure su encargo, excepto las actividades docentes, académicas y de investigación científica no remuneradas;
 V. Por invadir de manera reiterada y sistemática la esfera de competencia de la administración pública central o paraestatal del Distrito Federal;
@@ -712,7 +712,7 @@ Artículo reformado DOF 14-10-1999
 
 ### ARTÍCULO 109
 .- Con el objeto de formular los estudios para establecer, modificar o reordenar la división territorial del Distrito Federal se constituirá un comité de trabajo integrado por servidores públicos de la administración pública del Distrito Federal y por una comisión de diputados a la Asamblea Legislativa del Distrito Federal, electos por su Pleno, en el número que determine la ley.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Párrafo reformado DOF 04-12-1997 El comité realizará los trabajos necesarios, con los apoyos técnicos que requiera, con cargo a la administración pública del Distrito Federal.
+Párrafo reformado DOF 04-12-1997 El comité realizará los trabajos necesarios, con los apoyos técnicos que requiera, con cargo a la administración pública del Distrito Federal.
 
 ### ARTÍCULO 110
 .- El comité a que se refiere el artículo anterior y la Asamblea Legislativa del Distrito Federal, para la determinación de la variación territorial, deberán incluir, entre otros, los siguientes elementos:
@@ -737,7 +737,7 @@ VI. Otros resultados previsibles en beneficio de la población; y VII. Contribui
 
 ### ARTÍCULO 112
 .- En la iniciativa de Decreto de Presupuesto de Egresos, el Jefe de Gobierno deberá proponer a la Asamblea Legislativa asignaciones presupuestales para que las Delegaciones cumplan con el ejercicio de las actividades a su cargo, considerando criterios de población, marginación, infraestructura y equipamiento urbano. Las Delegaciones informarán al Jefe de Gobierno del ejercicio de sus asignaciones presupuestarias para los efectos de la Cuenta Pública, de conformidad con lo que establece este Estatuto y las leyes aplicables.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Las Delegaciones ejercerán, con autonomía de gestión, sus presupuestos, observando las disposiciones legales y reglamentarias, así como los acuerdos administrativos de carácter general de la Administración Pública Central. Las transferencias presupuestarias que no afecten programas prioritarios, serán decididas por el Jefe Delegacional, informando del ejercicio de esta atribución al Jefe de Gobierno de manera trimestral.
+Las Delegaciones ejercerán, con autonomía de gestión, sus presupuestos, observando las disposiciones legales y reglamentarias, así como los acuerdos administrativos de carácter general de la Administración Pública Central. Las transferencias presupuestarias que no afecten programas prioritarios, serán decididas por el Jefe Delegacional, informando del ejercicio de esta atribución al Jefe de Gobierno de manera trimestral.
 Artículo reformado DOF 04-12-1997, 14-10-1999
 
 ### ARTÍCULO 113
@@ -756,7 +756,7 @@ II. Formulación y conducción de las políticas generales que de conformidad co
 III. Regulación interna sobre organización, funciones y procedimientos de la Administración Pública y dentro de ésta, la relativa a órganos desconcentrados constituidos por el Jefe de Gobierno;
 Fracción reformada DOF 14-10-1999 IV. La administración de la hacienda pública del Distrito Federal, con sujeción a las disposiciones aplicables;
 V. Adquisición, administración y enajenación de bienes del patrimonio de la Ciudad y fijación de lineamientos para su adquisición, uso y destino. Tratándose del patrimonio inmobiliario destinado a las Delegaciones, los Jefes Delegacionales deberán ser consultados cuando se trate de enajenar o adquirir inmuebles destinados al cumplimiento de sus funciones;
-Fracción reformada DOF 14-10-1999 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL VI. Prestación o concesión de servicios públicos de cobertura general en la Ciudad así como de aquéllos de las características a que se refiere la siguiente fracción;
+Fracción reformada DOF 14-10-1999 VI. Prestación o concesión de servicios públicos de cobertura general en la Ciudad así como de aquéllos de las características a que se refiere la siguiente fracción;
 VII. Prestación de servicios públicos y planeación y ejecución de obras de impacto en el interior de una Delegación cuando sean de alta especialidad técnica, de acuerdo con las clasificaciones que se hagan en las disposiciones aplicables. El Jefe de Gobierno podrá dictar acuerdos mediante los cuales delegue a los Jefes Delegacionales la realización o contratación de estas obras, dentro de los límites de la respectiva demarcación;
 Fracción reformada DOF 14-10-1999 VIII. Imposición de sanciones administrativas por infracciones a las leyes y reglamentos aplicables, en atención a la distribución de competencias establecida por dichos ordenamientos;
 IX. Dirección y coordinación de las unidades administrativas que tengan adscritas a sus respectivos ramos, de las entidades paraestatales que les sean sectorizadas y de órganos desconcentrados, conforme a las disposiciones aplicables;
@@ -772,7 +772,7 @@ Artículo reformado DOF 14-10-1999
 El ejercicio de tales atribuciones se realizará siempre de conformidad con las leyes y demás disposiciones normativas aplicables en cada materia y respetando las asignaciones presupuestales.
 Los Jefes Delegacionales tendrán bajo su responsabilidad las siguientes atribuciones:
 I. Dirigir las actividades de la Administración Pública de la Delegación;
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL II. Prestar los servicios públicos y realizar obras, atribuidos por la ley y demás disposiciones aplicables, dentro del marco de las asignaciones presupuestales;
+II. Prestar los servicios públicos y realizar obras, atribuidos por la ley y demás disposiciones aplicables, dentro del marco de las asignaciones presupuestales;
 III. Participar en la prestación de servicios o realización de obras con otras Delegaciones y con el gobierno de la Ciudad conforme las disposiciones presupuestales y de carácter administrativo aplicables;
 IV. Opinar sobre la concesión de servicios públicos que tengan efectos en la Delegación y sobre los convenios que se suscriban entre el Distrito Federal y la Federación o los estados o municipios limítrofes que afecten directamente a la Delegación;
 V. Otorgar y revocar, en su caso, licencias, permisos, autorizaciones y concesiones, observando las leyes y reglamentos aplicables;
@@ -791,20 +791,16 @@ Fracción reformada DOF 04-12-1997 III. Reservas territoriales, uso de suelo y v
 Fracción reformada DOF 04-12-1997 IV. Preservación del medio ambiente y equilibrio ecológico;
 Fracción reformada DOF 04-12-1997 V. Infraestructura y servicios de salud;
 Fracción reformada DOF 04-12-1997 VI. Infraestructura y servicio social educativo;
-Fracción reformada DOF 04-12-1997 VII. Transporte público; y Fracción reformada DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL VIII. Agua potable, drenaje y tratamiento de aguas residuales.
+Fracción reformada DOF 04-12-1997 VII. Transporte público; y Fracción reformada DOF 04-12-1997 VIII. Agua potable, drenaje y tratamiento de aguas residuales.
 Fracción adicionada DOF 04-12-1997 Tratándose de las materias a que se refiere este artículo, las leyes de la Asamblea Legislativa establecerán los sistemas de dirección, coordinación, y en su caso de desconcentración o descentralización, que permitan aproximar la actuación de la administración pública a los habitantes de la Ciudad.
 Párrafo reformado DOF 04-12-1997
 
 ### ARTÍCULO 119
 .- Los Programas de Desarrollo Urbano serán formulados por el Jefe de Gobierno del Distrito Federal y sometidos a la aprobación de la Asamblea Legislativa del Distrito Federal, de acuerdo con los procedimientos y requisitos establecidos en la ley de la materia.
-Artículo reformado DOF 04-12-1997 TÍTULO SEXTO DE LAS AUTORIDADES ELECTORALES LOCALES Y LOS PARTIDOS POLÍTICOS
-
-## Título derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997
+Artículo reformado DOF 04-12-1997 TÍTULO SEXTO DE LAS AUTORIDADES ELECTORALES LOCALES Y LOS PARTIDOS POLÍTICOS Título derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997
 
 ## CAPÍTULO I
-DISPOSICIONES GENERALES
-
-## Capítulo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997
+DISPOSICIONES GENERALES Capítulo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997
 
 ### ARTÍCULO 120
 .- La renovación de las autoridades legislativa y ejecutiva de carácter local, así como de los titulares de los órganos político-administrativos de las demarcaciones territoriales, se realizará mediante elecciones libres, auténticas y periódicas. La jornada electoral se llevará a cabo el primer domingo de junio del año que corresponda.
@@ -816,9 +812,7 @@ Párrafo reformado DOF 27-06-2014 La Ley establecerá las sanciones que correspo
 Artículo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997. Reformado DOF 28-04-2008
 
 ## CAPÍTULO II
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL DE LOS PARTIDOS POLÍTICOS
-
-## Capítulo derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997 (reubicado)
+DE LOS PARTIDOS POLÍTICOS Capítulo derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997 (reubicado)
 
 ### ARTÍCULO 121
 .- En las elecciones locales del Distrito Federal podrán participar tanto los partidos políticos con registro nacional y los partidos políticos con registro local del Distrito Federal, así como los ciudadanos que constituyan candidaturas para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos de los artículos 35 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -836,7 +830,7 @@ Párrafo adicionado DOF 27-06-2014 Artículo derogado DOF 22-11-1996. Adicionado
 I. Su derecho a recibir, de forma equitativa, financiamiento público para sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y por actividades específicas como entidades de interés público. El Instituto Electoral del Distrito Federal determinará anualmente el monto total de origen público a distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral del Distrito Federal a la fecha de corte de julio de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente para el Distrito Federal;
 Fracción reformada DOF 27-06-2014 II. Se deroga.
 Fracción derogada DOF 27-06-2014 III. Se deroga.
-Fracción derogada DOF 27-06-2014 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL IV. Se deroga.
+Fracción derogada DOF 27-06-2014 IV. Se deroga.
 Fracción derogada DOF 27-06-2014 V. Se deroga.
 Fracción derogada DOF 27-06-2014 VI. Su derecho a conformar frentes, coaliciones y candidaturas comunes, conforme lo señale la Ley;
 VII. Las reglas para las precampañas y campañas electorales. Las campañas electorales durarán noventa días para la elección de Jefe de Gobierno, y sesenta días cuando sólo se elijan diputados a la Asamblea Legislativa y titulares de los órganos político-administrativos de las demarcaciones territoriales; y las precampañas electorales no podrán abarcar más de las dos terceras partes de la duración de las respectivas campañas;
@@ -855,7 +849,7 @@ Conforme a lo que establece la Constitución Política de los Estados Unidos Mex
 Artículo reformado DOF 03-06-1995. Derogado DOF 22-11-1996. Adicionado DOF 04-12-1997. Reformado DOF 28-04-2008, 27-06-2014
 
 ### ARTÍCULO 124
-.- El Instituto Electoral del Distrito Federal será autoridad en la materia electoral, independiente en sus decisiones, autónomo en su funcionamiento y profesional en su desempeño; sus decisiones serán tomadas de manera colegiada, procurando la generación de consensos para el ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL fortalecimiento de su vida institucional. Contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+.- El Instituto Electoral del Distrito Federal será autoridad en la materia electoral, independiente en sus decisiones, autónomo en su funcionamiento y profesional en su desempeño; sus decisiones serán tomadas de manera colegiada, procurando la generación de consensos para el fortalecimiento de su vida institucional. Contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia.
 El Consejo General será su órgano superior de dirección y se integrará por un Consejero Presidente, seis consejeros electorales, designados por el Consejo General del Instituto Nacional Electoral, todos ellos tendrán derecho de voz y voto. También serán integrantes del Consejo General, con voz pero sin voto, los representantes de los partidos políticos y el Secretario Ejecutivo. La ley determinará las reglas para la organización y funcionamiento de los órganos, las relaciones de mando entre éstos. Las mesas directivas de casilla estarán integradas por ciudadanos.
 Párrafo reformado DOF 27-06-2014 El personal ejecutivo y técnico del Instituto Electoral del Distrito Federal formarán parte del Servicio Profesional Electoral Nacional, el cual comprende la selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina de sus servidores públicos. El Instituto Nacional Electoral regulará la organización y funcionamiento de este Servicio.
 Párrafo adicionado DOF 27-06-2014 El Instituto Electoral del Distrito Federal contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
@@ -867,7 +861,7 @@ Párrafo reformado DOF 27-06-2014 Artículo derogado DOF 22-11-1996. Adicionado 
 El Consejero Presidente, los consejeros electorales y demás servidores públicos del Instituto Electoral del Distrito Federal que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia.
 Cuando ocurra una vacante de Consejero Presidente o de Consejero Electoral del Instituto Electoral del Distrito Federal, el Consejo General del Instituto Nacional Electoral hará la designación para cubrir la vacante respectiva, en los términos de la Ley General de Instituciones y Procedimientos Electorales. Si la vacante se verifica durante los primeros cuatro años del encargo del Consejero Electoral, se elegirá un sustituto para concluir el periodo. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un Consejero para un nuevo periodo.
 El Consejo General contará con un Secretario Ejecutivo que será nombrado con el voto de cinco de sus integrantes, a propuesta de su Presidente.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Quienes hayan fungido como Consejero Presidente, consejeros electorales y Secretario Ejecutivo no podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+Quienes hayan fungido como Consejero Presidente, consejeros electorales y Secretario Ejecutivo no podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 Artículo reformado DOF 03-06-1995. Derogado DOF 22-11-1996. Adicionado DOF 04-12-1997. Reformado DOF 28-04-2008, 27-06-2014
 
 ### ARTÍCULO 126
@@ -883,7 +877,7 @@ DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL Capítulo adicionado DOF 04-12-1997
 
 ### ARTÍCULO 128
 .- El Tribunal Electoral del Distrito Federal es el órgano jurisdiccional especializado en materia electoral; gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Estará integrado por cinco magistrados electorales que actuarán en forma colegiada y permanecerán en su encargo durante siete años, y entre los cuales se elegirá un presidente mediante la votación mayoritaria de sus integrantes por el periodo que establezca la ley.
+Estará integrado por cinco magistrados electorales que actuarán en forma colegiada y permanecerán en su encargo durante siete años, y entre los cuales se elegirá un presidente mediante la votación mayoritaria de sus integrantes por el periodo que establezca la ley.
 El Tribunal Electoral del Distrito Federal deberá cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad y no estará adscrito a los órganos que ejercen la función judicial en el Distrito Federal.
 Los magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes del Distrito Federal.
 Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación del Tribunal Electoral del Distrito Federal, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remuneradas. Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
@@ -905,7 +899,7 @@ Artículo derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997
 
 ### ARTÍCULO 131
 .- La ley establecerá las normas para la administración, vigilancia y disciplina en el Tribunal Electoral del Distrito Federal, cuyos servidores en materia de responsabilidades estarán sujetos al régimen establecido en la ley de la materia.
-Artículo derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
+Artículo derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997
 
 ### ARTÍCULO 132
 .- Los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores.
@@ -921,7 +915,7 @@ DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL LOCAL Y DE LOS DELITOS ELECTO
 ### ARTÍCULO 134
 .- La Ley electoral establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Asimismo, fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
 De igual forma, la Ley señalará los supuestos y las reglas para la realización de recuentos totales o parciales de votación, y fijará las causales concretas de nulidad de las elecciones de Jefe de Gobierno, diputados a la Asamblea Legislativa y titulares de los órganos político administrativos.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Entre las causales de nulidad de elecciones deberán considerarse las previstas en la Base VI del
+Entre las causales de nulidad de elecciones deberán considerarse las previstas en la Base VI del
 
 ### artículo 41
 de la Constitución.
@@ -949,7 +943,7 @@ V. Los monumentos históricos o artísticos, propiedad del Distrito Federal;
 VI. Los canales, zanjas y acueductos, propiedad o construidos por el Distrito Federal, así como los cauces de los ríos que hubiesen dejado de serlo, siempre y cuando no sean de jurisdicción federal, debiendo observarse al respecto las disposiciones de la Ley de Aguas Nacionales;
 VII. Los inmuebles ubicados en el territorio del Distrito Federal y que la Federación transmita a éste, con la finalidad de satisfacer las necesidades de crecimiento, vivienda y desarrollo urbano;
 VIII. Las servidumbres, cuando el predio dominante sean algunos de los anteriores;
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL IX. Los muebles propiedad del Distrito Federal que por su naturaleza no sean normalmente sustituibles, como los documentos, publicaciones periódicas, mapas, planos, folletos y grabados importantes o raros, así como las colecciones de sus bienes, los especímenes tipos de la flora y la fauna, las colecciones científicas y filatélicas, los archivos y fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otra que tenga imágenes y sonidos; y X. Las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Distrito Federal.
+IX. Los muebles propiedad del Distrito Federal que por su naturaleza no sean normalmente sustituibles, como los documentos, publicaciones periódicas, mapas, planos, folletos y grabados importantes o raros, así como las colecciones de sus bienes, los especímenes tipos de la flora y la fauna, las colecciones científicas y filatélicas, los archivos y fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otra que tenga imágenes y sonidos; y X. Las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Distrito Federal.
 Los bienes de dominio público son inalienables, imprescriptibles, inembargables y no estarán sujetos a ningún gravamen o afectación de dominio, mientras no cambien su situación jurídica, a acción reivindicatoria o de posesión definitiva o provisional.
 Artículo adicionado DOF 04-12-1997
 
@@ -974,7 +968,7 @@ Artículo adicionado DOF 04-12-1997
 
 ### ARTÍCULO 142
 .- La transmisión de los bienes inmuebles del dominio privado será a título gratuito u oneroso, en los términos que establezca la ley que expida la Asamblea Legislativa.
-Artículo adicionado DOF 04-12-1997 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
+Artículo adicionado DOF 04-12-1997
 
 ### ARTÍCULO 143
 .- Los Tribunales del Distrito Federal, de acuerdo con su competencia, conocerán de los juicios civiles, penales y administrativos que se relacionen con bienes del dominio público o privado del Distrito Federal.
@@ -987,26 +981,30 @@ Artículo adicionado DOF 04-12-1997
 
 ### ARTÍCULO 145
 .- La ley establecerá un sistema de información inmobiliaria, el cual estará constituido por el registro, catálogo e inventario de los inmuebles propiedad del Distrito Federal.
-Artículo adicionado DOF 04-12-1997 TRANSITORIOS PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
-SEGUNDO.- El titular del Poder Ejecutivo Federal dispondrá el mecanismo necesario para que bienes y recursos de la administración pública federal a cargo del Departamento del Distrito Federal y los propios de éste, sean incorporados al patrimonio del Distrito Federal, una vez que haya sido nombrado el Jefe del Distrito Federal para el periodo que inicia el dos de diciembre de 1997.
-TERCERO.- En tanto es nombrado el primer Jefe del Distrito Federal, el Presidente de los Estados Unidos Mexicanos proveerá en la esfera administrativa a la exacta observancia de las leyes y decretos que expida la Asamblea de Representantes del Distrito Federal asimismo podrá dictar reglamentos gubernativos para el Distrito Federal.
-CUARTO.- Hasta en tanto se nombra el Jefe del Distrito Federal, el Jefe del Departamento del Distrito Federal, nombrado por el Presidente de la República en los términos del artículo quinto transitorio del decreto por el que se modifican diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día 25 de octubre de 1993, tendrá las siguientes facultades:
+Artículo adicionado DOF 04-12-1997
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+**SEGUNDO.-** El titular del Poder Ejecutivo Federal dispondrá el mecanismo necesario para que bienes y recursos de la administración pública federal a cargo del Departamento del Distrito Federal y los propios de éste, sean incorporados al patrimonio del Distrito Federal, una vez que haya sido nombrado el Jefe del Distrito Federal para el periodo que inicia el dos de diciembre de 1997.
+**TERCERO.-** En tanto es nombrado el primer Jefe del Distrito Federal, el Presidente de los Estados Unidos Mexicanos proveerá en la esfera administrativa a la exacta observancia de las leyes y decretos que expida la Asamblea de Representantes del Distrito Federal asimismo podrá dictar reglamentos gubernativos para el Distrito Federal.
+**CUARTO.-** Hasta en tanto se nombra el Jefe del Distrito Federal, el Jefe del Departamento del Distrito Federal, nombrado por el Presidente de la República en los términos del artículo quinto transitorio del decreto por el que se modifican diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día 25 de octubre de 1993, tendrá las siguientes facultades:
 I. Refrendar los decretos promulgatorios del Presidente de la República respecto de leyes y decretos que expida la Asamblea de Representantes del Distrito Federal.
 II. Presentar al Presidente de la República las cuentas públicas de los años 1995 y 1996 para su envío a la Asamblea de Representantes, para los efectos previstos en el presente Estatuto.
 III. Remitir a la Asamblea de Representantes del Distrito Federal los informes trimestrales a que se refiere el presente Estatuto.
 IV. Presentar al Presidente de la República, el informe que sobre el ejercicio de los recursos provenientes de deuda pública hubiese realizado, para los efectos del artículo 73, fracción VIII, de la Constitución, en relación con lo dispuesto por este Estatuto.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL QUINTO.- El Presidente de la República enviará el 20 de diciembre de 1994 a la Asamblea de Representantes del Distrito Federal la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos del Distrito Federal para el año siguiente.
+**QUINTO.-** El Presidente de la República enviará el 20 de diciembre de 1994 a la Asamblea de Representantes del Distrito Federal la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos del Distrito Federal para el año siguiente.
 En 1995 y 1996, enviará las iniciativas de leyes de ingresos y los proyectos de presupuesto de egresos para el año siguiente respectivamente, a más tardar el día 30 de noviembre de cada año.
 En 1997, el primer Jefe del Distrito Federal enviará a la Asamblea de Representantes del Distrito Federal a más tardar el día 30 de noviembre la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos para el año siguiente.
-SEXTO.- El servidor público que designe el Presidente de la República a propuesta del Jefe del Departamento del Distrito Federal, comparecerá ante la Asamblea de Representantes del Distrito Federal, a más tardar los días 20 de diciembre de 1994 y 30 de noviembre de 1995 y de 1996, para explicar las iniciativas de ley de ingresos y los proyectos de presupuesto de egresos del Distrito Federal para los años 1995, 1996 y 1997, respectivamente.
+**SEXTO.-** El servidor público que designe el Presidente de la República a propuesta del Jefe del Departamento del Distrito Federal, comparecerá ante la Asamblea de Representantes del Distrito Federal, a más tardar los días 20 de diciembre de 1994 y 30 de noviembre de 1995 y de 1996, para explicar las iniciativas de ley de ingresos y los proyectos de presupuesto de egresos del Distrito Federal para los años 1995, 1996 y 1997, respectivamente.
 SEPTIMO.- Concluida la revisión de la Cuenta Pública del Distrito Federal correspondiente al ejercicio de 1994, el personal, los recursos materiales, financieros, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo que la Contaduría Mayor de Hacienda de la Cámara de Diputados del Congreso de la Unión haya utilizado para la atención de los asuntos a su cargo relativos al Distrito Federal, pasarán a la Contaduría Mayor de Hacienda de la Asamblea de Representantes del Distrito Federal. Los derechos laborales del personal que en virtud de lo anterior pase al órgano mencionado, se respetarán conforme a la ley.
-OCTAVO.- En 1995, 1996 y 1997, comparecerá el Jefe del Departamento del Distrito Federal a la apertura del primer periodo ordinario de sesiones de la Asamblea de Representantes del Distrito Federal, para presentar un informe por escrito, sobre el estado que guarda la administración pública del Distrito Federal.
-NOVENO.- El Jefe del Departamento del Distrito Federal, en 1994, nombrará previo acuerdo del Presidente de la República a los Delegados del Departamento del Distrito Federal, y se sujetarán a la ratificación de la III Asamblea de Representantes del Distrito Federal, conforme al procedimiento vigente para la ratificación de los magistrados del Tribunal Superior de Justicia del Distrito Federal.
+**OCTAVO.-** En 1995, 1996 y 1997, comparecerá el Jefe del Departamento del Distrito Federal a la apertura del primer periodo ordinario de sesiones de la Asamblea de Representantes del Distrito Federal, para presentar un informe por escrito, sobre el estado que guarda la administración pública del Distrito Federal.
+**NOVENO.-** El Jefe del Departamento del Distrito Federal, en 1994, nombrará previo acuerdo del Presidente de la República a los Delegados del Departamento del Distrito Federal, y se sujetarán a la ratificación de la III Asamblea de Representantes del Distrito Federal, conforme al procedimiento vigente para la ratificación de los magistrados del Tribunal Superior de Justicia del Distrito Federal.
 DECIMO.- La petición de comparecencia de los servidores públicos de la administración pública del Distrito Federal, ante la Asamblea de Representantes del Distrito Federal deberá ser formulada por ésta al Jefe del Departamento del Distrito Federal.
 DECIMO PRIMERO.- Las atribuciones que las leyes, reglamentos y demás disposiciones normativas otorguen al Jefe del Departamento del Distrito Federal, se entenderán conferidas, en lo conducente, al Jefe del Distrito Federal, una vez que entre en el ejercicio de su encargo.
 DECIMO SEGUNDO.- La III Asamblea de Representantes del Distrito Federal se reunirá a partir del 15 de noviembre de 1994 para celebrar un primer periodo de sesiones ordinarias, que podrá prolongarse hasta el 15 de enero del año siguiente.
 DECIMO TERCERO.- Los proyectos de presupuesto de la Asamblea de Representantes del Distrito Federal y del Tribunal Superior de Justicia del Distrito Federal para los años de 1995, 1996 y 1997, se enviarán al Presidente de la República para su incorporación al proyecto de presupuesto de egresos del Departamento del Distrito Federal.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL DECIMO CUARTO.- Para la instalación de la III Asamblea de Representantes del Distrito Federal, se observarán las reglas siguientes:
+DECIMO CUARTO.- Para la instalación de la III Asamblea de Representantes del Distrito Federal, se observarán las reglas siguientes:
 I. La II Asamblea de Representantes antes de clausurar el último periodo de sesiones de su ejercicio, nombrará de entre sus miembros una Comisión integrada por cinco representantes que fungirán: uno como Presidente, dos como Secretarios y dos como suplentes, para entrar en funciones cuando falte alguno de los propietarios.
 La Presidencia de la Asamblea comunicará el nombramiento de la Comisión a los organismos electorales competentes.
 La Comisión tendrá a su cargo: a) Recibir las constancias de mayoría y validez que correspondan a las elecciones de Representantes electos según el principio de mayoría relativa; b) Recibir las constancias de asignación de Representantes electos según el principio de representación proporcional; c) Recibir las resoluciones de las Salas del Tribunal Federal Electoral, recaídas a las impugnaciones sobre las elecciones de Representantes; y d) Verificar, una vez recibidas las constancias y resoluciones a que se refieren los incisos anteriores que se encuentran completas; y proceder a expedir las credenciales que acrediten a los Representantes electos, tomando en cuenta únicamente las constancias expedidas por los órganos electorales en las elecciones no impugnadas o las confirmadas o expedidas por las Salas del Tribunal Federal Electoral en sus resoluciones. Las credenciales serán firmadas por el Presidente y Secretarios de la Comisión.
@@ -1014,125 +1012,185 @@ II. La Comisión se reunirá a más tardar tres días antes de que inicie el pri
 III. Los Representantes electos que hayan recibido su credencial se reunirán en el Salón de Sesiones de la Asamblea, dos días antes a aquél en que inicie el primer periodo ordinario de sesiones de la Asamblea. Este acto será presidido por los miembros de la Comisión y se desarrollará conforme al siguiente procedimiento: a) El Secretario de la Comisión dará lectura a la lista de los Representantes que hayan resultado electos, y comprobado que se tenga la concurrencia de la mayoría, se dará la palabra al Presidente de la Comisión. En caso de no contarse con dicha mayoría, la Comisión los citará dentro de las veinticuatro horas siguientes; b) El Presidente de la Comisión pedirá a los Representantes presentes que se pongan de pie y les tomará la protesta de la siguiente forma:
 Presidente: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y las leyes que de ellos emanen y desempeñar leal y patrióticamente el cargo de Representante a la Asamblea del Distrito Federal que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Distrito Federal? ".
 Representantes: "Si, protesto".
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Presidente: "Si no lo hiciereis así, la Nación os lo demande".
+Presidente: "Si no lo hiciereis así, la Nación os lo demande".
 Igual protesta están obligados a hacer cada uno de los Representantes que se presentaren después. c) Acto seguido, invitará a los Representantes a que elijan la Mesa Directiva de la Asamblea en escrutinio secreto y por mayoría de votos. d) Dado a conocer el resultado del escrutinio por uno de los Secretarios de la Comisión, los integrantes de la Mesa Directiva pasarán a ocupar su sitio en el Salón de Sesiones y el Presidente de la Asamblea dirá en voz alta: "La III Asamblea de Representantes del Distrito Federal se declara legalmente instalada".
 DECIMO QUINTO.- Se derogan todas aquellas disposiciones que contravengan las contenidas en este Estatuto de Gobierno del Distrito Federal.
 DECIMO SEXTO.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
-DECIMO SEPTIMO.- Para el año de 1995, la elección de los Consejos de Ciudadanos se realizará el segundo domingo del mes de noviembre y la fecha de su instalación en el mes de diciembre se determinará por la ley que expida la Asamblea de Representantes del Distrito Federal.
+DECIMO SEPTIMO.- Para el año de 1995, la elección de los Consejos de Ciudadanos se realizará el
+**segundo.** domingo del mes de noviembre y la fecha de su instalación en el mes de diciembre se determinará por la ley que expida la Asamblea de Representantes del Distrito Federal.
 Artículo adicionado DOF 03-06-1995 México, D.F., a 14 de julio de 1994.- Dip. Enrique Chavero Ocampo, Presidente.- Sen. Ricardo Monreal Avila, Presidente.- Dip. Guillermo González Díaz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de julio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman los artículos 123 y 125 del Estatuto de Gobierno del Distrito Federal y se adiciona un artículo décimo séptimo transitorio al Decreto de fecha 14 de junio de 1994 por el que se expidió dicho Estatuto.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman los artículos 123 y 125 del Estatuto de Gobierno del Distrito Federal y se adiciona un artículo décimo séptimo transitorio al Decreto de fecha 14 de junio de 1994 por el que se expidió dicho Estatuto.
 Publicado en el Diario Oficial de la Federación el 3 de junio de 1995 ARTICULO PRIMERO.- Se reforman los artículos 123 y 125 del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ..........
 ARTICULO SEGUNDO.- Se adiciona un Artículo Décimo Séptimo Transitorio al Decreto por el que se expidió dicho Estatuto, de fecha 14 de junio de 1994, publicado el día 26 de julio del mismo año en el Diario Oficial de la Federación, para quedar en los siguientes términos: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Los Consejeros Ciudadanos electos en el año de 1995 desempeñarán sus funciones desde la instalación de los Consejos de Ciudadanos en el mes de diciembre de dicho año hasta el día anterior al que tomen posesión los que sean electos en 1997, de conformidad con lo que disponga la ley.
-TERCERO.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Los Consejeros Ciudadanos electos en el año de 1995 desempeñarán sus funciones desde la instalación de los Consejos de Ciudadanos en el mes de diciembre de dicho año hasta el día anterior al que tomen posesión los que sean electos en 1997, de conformidad con lo que disponga la ley.
+**TERCERO.-** Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
 México, D.F., a 25 de mayo de 1995.- Dip. Miguel Angel Islas Chío, Presidente.- Sen. Germán Sierra Sánchez, Presidente.- Dip. Gerardo Ordaz Moreno, Secretario.- Sen. Angel Ventura Valle, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de junio de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL DECRETO por el que se reforman y adicionan diversas disposiciones del Estatuto de Gobierno del Distrito Federal y de la Ley Federal de Responsabilidades de los Servidores Públicos.
+DECRETO por el que se reforman y adicionan diversas disposiciones del Estatuto de Gobierno del Distrito Federal y de la Ley Federal de Responsabilidades de los Servidores Públicos.
 Publicado en el Diario Oficial de la Federación el 12 de diciembre de 1995 ARTICULO PRIMERO.- Se reforman los artículos 77, 83, 84, 85, y se adicionan con un segundo párrafo los artículos 80 y 82 del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- A los miembros del Consejo de la Judicatura del Distrito Federal en funciones a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones contenidas en el Artículo Primero del mismo, salvo la duración en el cargo, la cual se sujetará a lo previsto en el Artículo Séptimo transitorio del Decreto por el que se reforman diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1994.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** A los miembros del Consejo de la Judicatura del Distrito Federal en funciones a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones contenidas en el Artículo
+**Primero.** del mismo, salvo la duración en el cargo, la cual se sujetará a lo previsto en el Artículo Séptimo
+
+## transitorio
+
+del Decreto por el que se reforman diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1994.
 México, D.F., a 28 de noviembre de 1995.- Dip. Fernando Salgado Delgado, Presidente.- Sen.
 Ernesto Navarro González, Presidente.- Dip. Audomaro Alba Padilla, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Orgánica del Poder Judicial de la Federación; del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; del Estatuto de Gobierno del Distrito Federal; y se expide la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
-Publicado en el Diario Oficial de la Federación el 22 de noviembre de 1996 ARTICULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTICULO 105 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION; DEL CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL; DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; Y SE EXPIDE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-TERCERO.- El seis de julio de 1997 se elegirán, para el Distrito Federal, exclusivamente el Jefe de Gobierno y los Diputados a la Asamblea Legislativa del Distrito Federal.
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Orgánica del Poder Judicial de la Federación; del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; del Estatuto de Gobierno del Distrito Federal; y se expide la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
+Publicado en el Diario Oficial de la Federación el 22 de noviembre de 1996 ARTICULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTICULO 105 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION; DEL CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL; DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; Y SE EXPIDE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
+**PRIMERO.-** Las reformas a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**TERCERO.-** El seis de julio de 1997 se elegirán, para el Distrito Federal, exclusivamente el Jefe de Gobierno y los Diputados a la Asamblea Legislativa del Distrito Federal.
 Se derogan todos los artículos del Estatuto de Gobierno del Distrito Federal referidos a la elección de los Consejeros Ciudadanos.
 Las normas que regulan las funciones sustantivas de los actuales Consejeros Ciudadanos establecidas en los ordenamientos vigentes, seguirán aplicándose hasta la terminación del periodo para el que fueron electos.
 Con base en el nuevo Estatuto de Gobierno del Distrito Federal, la Asamblea Legislativa expedirá las disposiciones relativas a la participación ciudadana en el Distrito Federal.
-CUARTO.- Se autoriza al titular del Poder Ejecutivo Federal para que por conducto de la Secretaría de Hacienda y Crédito Público, se realicen las transferencias presupuestales necesarias, a efecto de que las autoridades correspondientes puedan cumplir con las obligaciones y llevar a cabo las nuevas actividades que las presentes reformas y adiciones les imponen.
-QUINTO.- Los criterios de jurisprudencia sostenidos por la Sala Central y la Sala de Segunda Instancia del Tribunal Federal Electoral, según corresponda, continuarán siendo aplicables en tanto no se opongan a las reformas establecidas en los artículos SEGUNDO, TERCERO y CUARTO del presente Decreto.
-Para que los criterios de jurisprudencia a que se refiere el párrafo anterior resulten obligatorios, se requerirá de la declaración formal de la Sala Superior del Tribunal Electoral. Hecha la declaración, la ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL jurisprudencia se notificará de inmediato a las Salas Regionales, al Instituto Federal Electoral y, en su caso, a las autoridades electorales locales.
+**CUARTO.-** Se autoriza al titular del Poder Ejecutivo Federal para que por conducto de la Secretaría de Hacienda y Crédito Público, se realicen las transferencias presupuestales necesarias, a efecto de que las autoridades correspondientes puedan cumplir con las obligaciones y llevar a cabo las nuevas actividades que las presentes reformas y adiciones les imponen.
+**QUINTO.-** Los criterios de jurisprudencia sostenidos por la Sala Central y la Sala de Segunda Instancia del Tribunal Federal Electoral, según corresponda, continuarán siendo aplicables en tanto no se opongan a las reformas establecidas en los artículos SEGUNDO, TERCERO y CUARTO del presente Decreto.
+Para que los criterios de jurisprudencia a que se refiere el párrafo anterior resulten obligatorios, se requerirá de la declaración formal de la Sala Superior del Tribunal Electoral. Hecha la declaración, la jurisprudencia se notificará de inmediato a las Salas Regionales, al Instituto Federal Electoral y, en su caso, a las autoridades electorales locales.
 México, D.F., a 19 de noviembre de 1996.- Dip. Heriberto M. Galindo Quiñones, Presidente.- Sen.
 Angel Sergio Guerrero Mier, Presidente.- Dip. Josué Valdés Mondragón, Secretario.- Sen. Jorge Gpe.
 López Tijerina, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de noviembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal; de la Ley Federal de Responsabilidades de los Servidores Públicos; de la Ley de Expropiación y de la Ley Orgánica de la Administración Pública Federal.
-Publicado en el Diario Oficial de la Federación el 4 de diciembre de 1997 ARTÍCULO PRIMERO.- Se reforman los artículos 1o., 2o., 3o., 6o., 7o. primer párrafo, 8o., 9o., 11 fracción III, 12, 15, 17 fracción V, 20 fracción I, 21, 22, 23 fracción I, 24 fracciones I, III y IV, 25, 26, 27, 28, 29, 31 fracciones I y III, 32, 33, 34, 35, la denominación del Capítulo I del Título Cuarto, 36, 37, 40, 41, 42, 43, 44, 45, 46 fracciones I y III, 47, 48, 49, 50, 51 primer párrafo, fracciones II y IV, la denominación del Capítulo II del Título Cuarto, la denominación de la Sección I del Capítulo II del Título Cuarto, 52, 53, 54, 55, 56, 57, 59, 60, 61, 62, 65, 66, la denominación de la Sección II del Capítulo II del
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal; de la Ley Federal de Responsabilidades de los Servidores Públicos; de la Ley de Expropiación y de la Ley Orgánica de la Administración Pública Federal.
+Publicado en el Diario Oficial de la Federación el 4 de diciembre de 1997
+
+### ARTÍCULO PRIMERO
+Se reforman los artículos 1o., 2o., 3o., 6o., 7o. primer párrafo, 8o., 9o., 11 fracción III, 12, 15, 17 fracción V, 20 fracción I, 21, 22, 23 fracción I, 24 fracciones I, III y IV, 25, 26, 27, 28, 29, 31 fracciones I y III, 32, 33, 34, 35, la denominación del Capítulo I del Título Cuarto, 36, 37, 40, 41, 42, 43, 44, 45, 46 fracciones I y III, 47, 48, 49, 50, 51 primer párrafo, fracciones II y IV, la denominación del Capítulo II del Título Cuarto, la denominación de la Sección I del Capítulo II del Título
+**Cuarto.** , 52, 53, 54, 55, 56, 57, 59, 60, 61, 62, 65, 66, la denominación de la Sección II del Capítulo II del
 
 ## Título Cuarto, 67, 68, 70 primer párrafo, 71, 72, 73 fracciones I y II, 75, la denominación del Capítulo III
 del Título Cuarto, 76, 77, 78, 79, 80 primer párrafo, 83 segundo párrafo, 86, 87, 88, 90, 91, 93 segundo párrafo, 94, 96, 98, 99 fracciones II y III, 101, 102, 103, 105 fracción II, 109 primer párrafo, 110 primer párrafo, 112, 114 primer párrafo, 117 primer párrafo, fracciones III, VII y VIII, 118 fracciones I a VII y último párrafo; y 119; se adiciona una fracción IV al artículo 24, una fracción IV al artículo 46, un tercer párrafo al artículo 80, una fracción IX al artículo 117, una fracción VIII al artículo 118, un Título Sexto con los Capítulos I a V y con los artículos 120 a 136, un Título Séptimo con un Capítulo Único y con los artículos 137 a 145; y se derogan la fracción III del artículo 23, el artículo 30, la fracción II del artículo 46, la fracción I del artículo 51, el artículo 58, el artículo 63, el artículo 106 y el artículo 107 del Estatuto de Gobierno del Distrito Federal, para quedar como sigue:
-TRANSITORIOS PRIMERO.- Las reformas, adiciones y derogaciones al Estatuto de Gobierno del Distrito Federal entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo el caso de que en alguno de los artículos siguientes se disponga lo contrario.
-SEGUNDO.- Todos los ordenamientos que regulan hasta la fecha a los órganos locales en el Distrito Federal seguirán vigentes en lo conducente, hasta en tanto no se expidan por los órganos competentes aquellos que deban sustituirlos conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y lo previsto en el presente Estatuto.
-TERCERO.- La norma que determina la facultad para expedir las disposiciones que rijan las elecciones locales en el Distrito Federal, señalada en la fracción X del artículo 42 del presente Estatuto, así como el inciso f) de la fracción V del apartado C del Artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, entrarán en vigor el 1o. de enero de 1998.
-CUARTO.- De conformidad con el Capítulo II, TÍTULO QUINTO del presente Estatuto, durante el periodo 1997-2000, los órganos político-administrativos a que se refiere el Artículo Décimo Transitorio del Decreto mediante el cual se declaran reformados diversos Artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 22 de agosto de 1996, serán órganos desconcentrados en la Administración Pública del Distrito Federal y seguirán denominándose delegaciones del Distrito Federal.
-QUINTO.- Lo dispuesto en la fracción segunda de la BASE TERCERA, del apartado C del Artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, que se refiere a la elección de los titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal, entrará en vigor el 1o. de enero del año 2000.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL SEXTO.- La norma que establece la facultad de la Asamblea Legislativa del Distrito Federal para legislar en materia civil y penal para el Distrito Federal, señalada en la fracción XII del artículo 42 del presente Estatuto, así como en el inciso h) de la fracción V, BASE PRIMERA, apartado C del Artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, entrarán en vigor a partir del 1o. de enero de 1999.
-SÉPTIMO.- El Jefe de Gobierno del Distrito Federal, para el ejercicio de la facultad que le otorga la fracción XXI del artículo 67 de este Estatuto de Gobierno del Distrito Federal, aplicará las disposiciones de la Ley que Establece las Normas Mínimas Sobre Readaptación Social de Sentenciados, publicada en en Materia Común y para toda la República en Materia del Fuero Federal, publicado en el Diario Oficial de la Federación el día 14 de agosto de 1931, exclusivamente para los asuntos del fuero común del Distrito Federal que a la fecha de este Decreto corresponden al titular del Ejecutivo Federal por conducto de la Secretaría de Gobernación, hasta en tanto la Asamblea Legislativa del Distrito Federal expida las disposiciones legales correspondientes.
-OCTAVO.- Las entidades paraestatales de la Administración Pública Federal que correspondan al ámbito orgánico del actual Departamento del Distrito Federal, serán transferidas a la Administración Pública del Distrito Federal. Las Secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo y los órganos de gobierno de dichas entidades, en coordinación con la Administración Pública del Distrito Federal, realizarán los actos conducentes que conforme a la naturaleza de cada entidad deban efectuarse para tal fin de acuerdo con las leyes aplicables.
-NOVENO.- Acorde con lo dispuesto en el TÍTULO SÉPTIMO del presente Estatuto, que se refiere al Régimen Patrimonial del Distrito Federal, continuarán bajo jurisdicción federal los inmuebles sitos en el Distrito Federal, que estén destinados al servicio que prestan los Poderes Federales, así como cualquier otro bien afecto a dichos poderes.
-DÉCIMO.- El patrimonio del Departamento del Distrito Federal pasará a formar parte del patrimonio de la Administración Pública del Distrito Federal, de conformidad con los registros, inventarios y archivos respectivos.
+
+## TRANSITORIOS
+
+**PRIMERO.-** Las reformas, adiciones y derogaciones al Estatuto de Gobierno del Distrito Federal entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo el caso de que en alguno de los artículos siguientes se disponga lo contrario.
+**SEGUNDO.-** Todos los ordenamientos que regulan hasta la fecha a los órganos locales en el Distrito Federal seguirán vigentes en lo conducente, hasta en tanto no se expidan por los órganos competentes aquellos que deban sustituirlos conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y lo previsto en el presente Estatuto.
+**TERCERO.-** La norma que determina la facultad para expedir las disposiciones que rijan las elecciones locales en el Distrito Federal, señalada en la fracción X del artículo 42 del presente Estatuto, así como el inciso f) de la fracción V del apartado C del Artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, entrarán en vigor el 1o. de enero de 1998.
+**CUARTO.-** De conformidad con el Capítulo II, TÍTULO QUINTO del presente Estatuto, durante el periodo 1997-2000, los órganos político-administrativos a que se refiere el Artículo Décimo Transitorio del Decreto mediante el cual se declaran reformados diversos Artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 22 de agosto de 1996, serán órganos desconcentrados en la Administración Pública del Distrito Federal y seguirán denominándose delegaciones del Distrito Federal.
+**QUINTO.-** Lo dispuesto en la fracción segunda de la BASE TERCERA, del apartado C del Artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, que se refiere a la elección de los titulares de los órganos político-administrativos en las demarcaciones territoriales del Distrito Federal, entrará en vigor el 1o. de enero del año 2000.
+**SEXTO.-** La norma que establece la facultad de la Asamblea Legislativa del Distrito Federal para legislar en materia civil y penal para el Distrito Federal, señalada en la fracción XII del artículo 42 del presente Estatuto, así como en el inciso h) de la fracción V, BASE PRIMERA, apartado C del Artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, entrarán en vigor a partir del 1o. de enero de 1999.
+**SÉPTIMO.-** El Jefe de Gobierno del Distrito Federal, para el ejercicio de la facultad que le otorga la fracción XXI del artículo 67 de este Estatuto de Gobierno del Distrito Federal, aplicará las disposiciones de la Ley que Establece las Normas Mínimas Sobre Readaptación Social de Sentenciados, publicada en en Materia Común y para toda la República en Materia del Fuero Federal, publicado en el Diario Oficial de la Federación el día 14 de agosto de 1931, exclusivamente para los asuntos del fuero común del Distrito Federal que a la fecha de este Decreto corresponden al titular del Ejecutivo Federal por conducto de la Secretaría de Gobernación, hasta en tanto la Asamblea Legislativa del Distrito Federal expida las disposiciones legales correspondientes.
+**OCTAVO.-** Las entidades paraestatales de la Administración Pública Federal que correspondan al ámbito orgánico del actual Departamento del Distrito Federal, serán transferidas a la Administración Pública del Distrito Federal. Las Secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo y los órganos de gobierno de dichas entidades, en coordinación con la Administración Pública del Distrito Federal, realizarán los actos conducentes que conforme a la naturaleza de cada entidad deban efectuarse para tal fin de acuerdo con las leyes aplicables.
+**NOVENO.-** Acorde con lo dispuesto en el TÍTULO SÉPTIMO del presente Estatuto, que se refiere al Régimen Patrimonial del Distrito Federal, continuarán bajo jurisdicción federal los inmuebles sitos en el Distrito Federal, que estén destinados al servicio que prestan los Poderes Federales, así como cualquier otro bien afecto a dichos poderes.
+**DÉCIMO.-** El patrimonio del Departamento del Distrito Federal pasará a formar parte del patrimonio de la Administración Pública del Distrito Federal, de conformidad con los registros, inventarios y archivos respectivos.
 Los inmuebles que sean de propiedad federal y que estén destinados o que por cualquier título autorizado por la Ley General de Bienes Nacionales sean utilizados o estén al servicio del Departamento del Distrito Federal, serán usados por la Administración Pública del Distrito Federal, hasta en tanto la Secretaría de Contraloría y Desarrollo Administrativo, tomando en cuenta a dicha administración, no determine lo contrario de conformidad con la mencionada Ley General de Bienes Nacionales.
-DÉCIMO PRIMERO.- Los Consejeros Electorales y el Consejero Presidente del Instituto Electoral del Distrito Federal así como los Magistrados del Tribunal Electoral del Distrito Federal, por esta primera ocasión requerirán para su elección del voto de las tres cuartas partes de los miembros presentes de la Asamblea Legislativa del Distrito Federal.
-DÉCIMO SEGUNDO.- Una vez expedida la ley correspondiente y constituidos los órganos a que se refiere el Título Sexto de este Estatuto, en los términos de la ley de la materia, el Jefe de Gobierno del Distrito Federal podrá convocar a plebiscito.
-DÉCIMO TERCERO.- Los órganos de representación vecinal en el Distrito Federal con las funciones de carácter vinculatorio que determine la ley, se integrarán por elección conforme lo establezca la Ley de Participación Ciudadana.
-DÉCIMO CUARTO.- La elección indirecta de los titulares de las Delegaciones Políticas en el Distrito Federal, prevista en el Artículo Décimo Transitorio del Decreto de Adiciones y Reformas a la Constitución ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Política de los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el 22 de agosto de 1996, se realizará conforme a las siguientes bases:
+**DÉCIMO PRIMERO.-** Los Consejeros Electorales y el Consejero Presidente del Instituto Electoral del Distrito Federal así como los Magistrados del Tribunal Electoral del Distrito Federal, por esta primera ocasión requerirán para su elección del voto de las tres cuartas partes de los miembros presentes de la Asamblea Legislativa del Distrito Federal.
+**DÉCIMO SEGUNDO.-** Una vez expedida la ley correspondiente y constituidos los órganos a que se refiere el Título Sexto de este Estatuto, en los términos de la ley de la materia, el Jefe de Gobierno del Distrito Federal podrá convocar a plebiscito.
+**DÉCIMO TERCERO.-** Los órganos de representación vecinal en el Distrito Federal con las funciones de carácter vinculatorio que determine la ley, se integrarán por elección conforme lo establezca la Ley de Participación Ciudadana.
+**DÉCIMO CUARTO.-** La elección indirecta de los titulares de las Delegaciones Políticas en el Distrito Federal, prevista en el Artículo Décimo Transitorio del Decreto de Adiciones y Reformas a la Constitución Política de los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el 22 de agosto de 1996, se realizará conforme a las siguientes bases:
 I. El Jefe de Gobierno enviará, a más tardar el 15 de diciembre de 1997, a la Asamblea Legislativa, propuestas individuales para cada uno de los titulares de las delegaciones políticas que deban nombrarse en el Distrito Federal;
 II. Para los efectos de la fracción anterior, el Jefe de Gobierno del Distrito Federal formulará las propuestas individuales para cada cargo. Las propuestas serán aprobadas por las dos terceras partes de los miembros presentes de la Asamblea Legislativa. En caso de que la Asamblea Legislativa no aprobase alguna o algunas de ellas, se enviarán segundas propuestas para los cargos que reste por designar; de no ser aprobadas alguna o algunas de las segundas propuestas, se presentará una tercera propuesta por cada cargo que faltase por designar, y si esta también fuese rechazada, se presentará una terna con nuevos candidatos y si ninguno de ellos obtuviera la mayoría calificada mencionada, quedará designado el que de ésta, haya obtenido el mayor número de votos;
 Las vacantes que por cualquier causa se presentaran serán cubiertas conforme al procedimiento anterior.
 ARTÍCULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; DE LA LEY DE EXPROPIACIÓN Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.
-PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+**PRIMERO.-** Las reformas a que se refiere el presente Decreto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**TERCERO.-** Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 México, D.F., a 3 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. Francisco Rodríguez García, Secretario.- Sen. José Antonio Valdivia, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL DECRETO por el que se reforman y adicionan diversas disposiciones del Estatuto de Gobierno del Distrito Federal.
-Publicado en el Diario Oficial de la Federación el 14 de octubre de 1999 ARTÍCULO ÚNICO.- Se reforman los artículos 11, fracción II, 12, fracción III, 72, 87, 91, 93, 104, 105, 108, 112, 113, 114, 115, fracciones III, V, VII, IX, X y XI, 116 y 117; se adicionan las fracciones XXVIII, XXIX y XXX, y se recorre la actual fracción XXVII del artículo 42 y los artículos 106, 107; y se modifica el enunciado del Capítulo II del Título Quinto, todos del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO. Este decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación en todo lo referido a la elección directa de los titulares de los órganos político-administrativos de las demarcaciones territoriales. Las disposiciones relativas a la estructura, competencias y funcionamiento de dichos órganos, entrarán en vigor el 1 de octubre del año 2000.
-SEGUNDO. La elección indirecta de los titulares de las Delegaciones del Distrito Federal, prevista en el Artículo Décimo Cuarto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal, publicado en el Diario Oficial de la Federación de fecha 4 de Diciembre de 1997, se realizará, a partir de la entrada en vigor del presente Decreto, mediante la aprobación por el voto de la mayoría absoluta de los diputados integrantes de la Asamblea Legislativa del Distrito Federal, aplicándose en lo demás lo dispuesto por dicho Artículo Transitorio.
-TERCERO. Todas las menciones, atribuciones y facultades conferidas por el presente Decreto, otras leyes y reglamentos a los Delegados, se entenderán referidas, a partir del 1 de octubre del año 2000, a los Jefes Delegacionales.
-CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+DECRETO por el que se reforman y adicionan diversas disposiciones del Estatuto de Gobierno del Distrito Federal.
+Publicado en el Diario Oficial de la Federación el 14 de octubre de 1999
+
+### ARTÍCULO ÚNICO
+Se reforman los artículos 11, fracción II, 12, fracción III, 72, 87, 91, 93, 104, 105, 108, 112, 113, 114, 115, fracciones III, V, VII, IX, X y XI, 116 y 117; se adicionan las fracciones XXVIII, XXIX y XXX, y se recorre la actual fracción XXVII del artículo 42 y los artículos 106, 107; y se modifica el enunciado del Capítulo II del Título Quinto, todos del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.** Este decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación en todo lo referido a la elección directa de los titulares de los órganos político-administrativos de las demarcaciones territoriales. Las disposiciones relativas a la estructura, competencias y funcionamiento de dichos órganos, entrarán en vigor el 1 de octubre del año 2000.
+**SEGUNDO.** La elección indirecta de los titulares de las Delegaciones del Distrito Federal, prevista en el Artículo Décimo Cuarto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal, publicado en el Diario Oficial de la Federación de fecha 4 de Diciembre de 1997, se realizará, a partir de la entrada en vigor del presente Decreto, mediante la aprobación por el voto de la mayoría absoluta de los diputados integrantes de la Asamblea Legislativa del Distrito Federal, aplicándose en lo demás lo dispuesto por dicho Artículo
+
+## Transitorio
+
+.
+**TERCERO.** Todas las menciones, atribuciones y facultades conferidas por el presente Decreto, otras leyes y reglamentos a los Delegados, se entenderán referidas, a partir del 1 de octubre del año 2000, a los Jefes Delegacionales.
+**CUARTO.** Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 12 de octubre de 1999.- Sen. Cristóbal Arias Solís, Presidente.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. José Antonio Valdivia, Secretario.- Dip. Eduardo Bernal Martínez, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de octubre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL DECRETO por el que se reforman los artículos 37, 106, 120, 121, 122, 123, 124, 125, 132 y 134 del Estatuto de Gobierno del Distrito Federal.
-Publicado en el Diario Oficial de la Federación el 28 de abril de 2008 Artículo Único.- Se reforman los artículos 37, 106, 120, 121, 122, 123, 124, 125, 132 y 134 todos del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ……….
-TRANSITORIOS Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Artículo Segundo.- La Asamblea Legislativa del Distrito Federal deberá realizar las adecuaciones en las leyes correspondientes, en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia del presente Decreto. Dentro del mismo plazo, deberá determinar el procedimiento [y el número de Consejeros Electorales actualmente en funciones, que serán sujetos] de la renovación escalonada a que hace mención el artículo 125 contenido en el presente Decreto.
-Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 26-09-2008 (En la porción normativa que señala “… y el número de Consejeros Electorales actualmente en funciones, que serán sujetos…”) Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+DECRETO por el que se reforman los artículos 37, 106, 120, 121, 122, 123, 124, 125, 132 y 134 del Estatuto de Gobierno del Distrito Federal.
+Publicado en el Diario Oficial de la Federación el 28 de abril de 2008
+
+### Artículo Único
+Se reforman los artículos 37, 106, 120, 121, 122, 123, 124, 125, 132 y 134 todos del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ……….
+
+## TRANSITORIOS
+
+
+### Artículo Primero
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### Artículo Segundo
+La Asamblea Legislativa del Distrito Federal deberá realizar las adecuaciones en las leyes correspondientes, en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia del presente Decreto. Dentro del mismo plazo, deberá determinar el procedimiento [y el número de Consejeros Electorales actualmente en funciones, que serán sujetos] de la renovación escalonada a que hace mención el artículo 125 contenido en el presente Decreto.
+Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 26-09-2008 (En la porción normativa que señala “… y el número de Consejeros Electorales actualmente en funciones, que serán sujetos…”)
+
+### Artículo Tercero
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 24 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Jacinto Gómez Pasillas, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticinco de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL SENTENCIA dictada en la Acción de Inconstitucionalidad 80/2008 promovida por el Partido Político Nacional Convergencia, en contra del Congreso de la Unión, del Presidente Constitucional de los Estados Unidos Mexicanos y de otras autoridades, y voto particular que formula el Ministro Juan N. Silva Meza.
+SENTENCIA dictada en la Acción de Inconstitucionalidad 80/2008 promovida por el Partido Político Nacional Convergencia, en contra del Congreso de la Unión, del Presidente Constitucional de los Estados Unidos Mexicanos y de otras autoridades, y voto particular que formula el Ministro Juan N. Silva Meza.
 Publicada en el Diario Oficial de la Federación el 26 de septiembre de 2008 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCION DE INCONSTITUCIONALIDAD NUMERO 80/2008 PROMOVENTE: PARTIDO POLITICO NACIONAL CONVERGENCIA.
 PONENTE:
 MINISTRO JOSE FERNANDO FRANCO GONZALEZ SALAS.
 SECRETARIA: MAURA ANGELICA SANABRIA MARTINEZ.
 COLABORO: JAVIER MIGUEL ORTIZ FLORES México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al día nueve de julio de dos mil ocho.
 VISTOS; y, RESULTANDO:
-PRIMERO A NOVENO.- ……….
+**PRIMERO.** A NOVENO.- ……….
 CONSIDERANDO:
-PRIMERO A NOVENO.- ……….
+**PRIMERO.** A NOVENO.- ……….
 DECIMO.- Efectos. La presente resolución debe surtir efectos a partir de su notificación al Congreso de la Unión, al Presidente Constitucional de los Estados Unidos Mexicanos, Secretario de Gobernación, Director del Diario Oficial de la Federación y Partido Político Nacional Convergencia.
 En mérito de lo hasta aquí expuesto, se resuelve:
-PRIMERO.- Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-SEGUNDO.- Se reconoce la validez del Decreto por el que se reforman los artículos 37, 106, 120, 121, 122, 123, 124, 125, 132 y 134 del Estatuto de Gobierno del Distrito Federal, publicado en el Diario Oficial de la Federación el 28 de abril de dos mil ocho.
-TERCERO.- Se declara la invalidez de la porción normativa que dice: “… y el número de Consejeros Electorales actualmente en funciones, que serán sujetos…”, del artículo Segundo Transitorio del Decreto impugnado.CUARTO.- Publíquese esta sentencia en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y en la Gaceta del Distrito Federal.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se reconoce la validez del Decreto por el que se reforman los artículos 37, 106, 120, 121, 122, 123, 124, 125, 132 y 134 del Estatuto de Gobierno del Distrito Federal, publicado en el Diario Oficial de la Federación el 28 de abril de dos mil ocho.
+**TERCERO.-** Se declara la invalidez de la porción normativa que dice: “… y el número de Consejeros Electorales actualmente en funciones, que serán sujetos…”, del artículo Segundo Transitorio del Decreto impugnado.-
+**CUARTO.-** Publíquese esta sentencia en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y en la Gaceta del Distrito Federal.
+Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Tribunal Pleno de la Suprema Corte de Justicia de la Nación por unanimidad de once votos de los señores Ministros: Aguirre Anguiano, Cossío Díaz, Luna Ramos, Franco González Salas, Góngora Pimentel, Gudiño Pelayo, Azuela Güitrón, Valls Hernández, Sánchez Cordero, Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia. El señor Ministro Aguirre Anguiano reservó su derecho para formular voto concurrente en relación con las consideraciones relativas al procedimiento legislativo del Decreto impugnado; y los señores Ministros: Cossío Díaz, Góngora Pimentel, Gudiño Pelayo y Silva Meza reservaron el suyo para formular sendos votos particulares al respecto. Fue Ponente el señor Ministro José Fernando Franco González Salas.
 Firman el señor Ministro Presidente, el Ponente y el Secretario General de Acuerdos, que autoriza y da fe.
 El Presidente, Ministro Guillermo I. Ortiz Mayagoitia.- Rúbrica.- El Ponente, Ministro José Fernando Franco González Salas.- Rúbrica.- El Secretario General de Acuerdos, José Javier Aguilar Domínguez.- Rúbrica.
 VOTO particular que formula el Ministro José Ramón Cossío Díaz, en la sentencia dictada en la Acción de Inconstitucionalidad 80/2008, promovida por el Partido Político Nacional Convergencia, en contra del Congreso de la Unión, del Presidente Constitucional de los Estados Unidos Mexicanos y de otras autoridades.
-Publicado en el Diario Oficial de la Federación el 9 de abril de 2009 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL DECRETO por el que se reforman los artículos 80 y 83 del Estatuto de Gobierno del Distrito Federal.
-Publicado en el Diario Oficial de la Federación el 28 de enero de 2011 ÚNICO.- Se reforman los artículos 80, segundo párrafo, y 83, segundo y sexto párrafos del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ……….
-Transitorios Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo. Los Consejeros de la Judicatura del Distrito Federal que hubieren sido electos mediante el procedimiento de insaculación concluirán sus respectivos encargos en las fechas establecidas al momento de su designación.
-Tercero. La Asamblea Legislativa del Distrito Federal, a fin de que cobre plena vigencia el presente Decreto, habrá de realizar adecuaciones a las disposiciones legales a que haya lugar, a más tardar dentro de los 30 días naturales posteriores a la entrada en vigor del presente Decreto.
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2009 DECRETO por el que se reforman los artículos 80 y 83 del Estatuto de Gobierno del Distrito Federal.
+Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
+**ÚNICO.-** Se reforman los artículos 80, segundo párrafo, y 83, segundo y sexto párrafos del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ……….
+
+## Transitorios
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Los Consejeros de la Judicatura del Distrito Federal que hubieren sido electos mediante el procedimiento de insaculación concluirán sus respectivos encargos en las fechas establecidas al momento de su designación.
+**Tercero.** La Asamblea Legislativa del Distrito Federal, a fin de que cobre plena vigencia el presente Decreto, habrá de realizar adecuaciones a las disposiciones legales a que haya lugar, a más tardar dentro de los 30 días naturales posteriores a la entrada en vigor del presente Decreto.
 México, D.F., a 14 de diciembre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen.
 Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen.
 Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL DECRETO por el que se reforma la fracción II del artículo 46 del Estatuto de Gobierno del Distrito Federal.
-Publicado en el Diario Oficial de la Federación el 7 de enero de 2013 Artículo Único.- Se reforma la fracción II del artículo 46 del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ……….
-TRANSITORIOS Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Posterior a la aprobación de la presente reforma y a la entrada en vigor del Decreto, la Asamblea Legislativa del Distrito Federal deberá promover las reformas conducentes a la Ley Orgánica y días posteriores, a efecto de realizar las modificaciones correspondientes.
+DECRETO por el que se reforma la fracción II del artículo 46 del Estatuto de Gobierno del Distrito Federal.
+Publicado en el Diario Oficial de la Federación el 7 de enero de 2013
+
+### Artículo Único
+Se reforma la fracción II del artículo 46 del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ……….
+
+## TRANSITORIOS
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Posterior a la aprobación de la presente reforma y a la entrada en vigor del Decreto, la Asamblea Legislativa del Distrito Federal deberá promover las reformas conducentes a la Ley Orgánica y días posteriores, a efecto de realizar las modificaciones correspondientes.
 México, D. F., a 28 de noviembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jesús Murillo Karam, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Ángel Cedillo Hernández, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de enero de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal, en materia político-electoral.
-Publicado en el Diario Oficial de la Federación el 27 de junio de 2014 Artículo Único.- Se reforman la fracción I del artículo 20; el artículo 37; el párrafo tercero del artículo 105; los párrafos primero, segundo, cuarto y quinto del artículo 120; los párrafos primero, segundo en su fracción I, tercero y cuarto del artículo 121; las fracciones I, VII y VIII del artículo 122; el artículo 123; se reforma a partir del segundo párrafo el artículo 124, manteniéndose vigente su primer párrafo; el artículo 125; el artículo 126; el artículo 127; el artículo 128; la fracción III del artículo 129; el artículo 132; el
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal, en materia político-electoral.
+Publicado en el Diario Oficial de la Federación el 27 de junio de 2014
+
+### Artículo Único
+Se reforman la fracción I del artículo 20; el artículo 37; el párrafo tercero del artículo 105; los párrafos primero, segundo, cuarto y quinto del artículo 120; los párrafos primero, segundo en su fracción I, tercero y cuarto del artículo 121; las fracciones I, VII y VIII del artículo 122; el artículo 123; se reforma a partir del segundo párrafo el artículo 124, manteniéndose vigente su primer párrafo; el artículo 125; el artículo 126; el artículo 127; el artículo 128; la fracción III del artículo 129; el artículo 132; el
 
 ### artículo 133
 ; el artículo 135 y el artículo 136; se adicionan los párrafos segundo y tercero a la fracción I y la fracción III, recorriéndose la subsecuente en su orden al artículo 20; un sexto párrafo al artículo 121 y un tercer párrafo al artículo 134; y se derogan las fracciones II, III, IV y V del artículo 122, del Estatuto de Gobierno del Distrito Federal, para quedar como sigue: ……….
-Transitorios Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- La reforma al artículo 37 de este Estatuto de Gobierno en materia de reelección de diputados a la Asamblea Legislativa del Distrito Federal, será aplicable a aquellos que hayan sido elegidos en el proceso electoral de 2018.
-Tercero.- La reforma al artículo 105 de este Estatuto de Gobierno en materia de reelección de los jefes delegacionales, será aplicable a aquellos que hayan sido elegidos en el proceso electoral de 2018.
-Cuarto.- Por única ocasión, la jornada electoral a celebrarse en el Distrito Federal en 2018, tendrá lugar en el mes de julio de ese año, atento a lo dispuesto por el Transitorio Segundo, fracción II, inciso a) del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014.
-Quinto.- Por única ocasión, los procesos electorales ordinarios locales del Distrito Federal, correspondientes a las elecciones respectivas que tendrán lugar el primer domingo de junio del año 2015, iniciarán en la primera semana del mes de octubre del año 2014.
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La reforma al artículo 37 de este Estatuto de Gobierno en materia de reelección de diputados a la Asamblea Legislativa del Distrito Federal, será aplicable a aquellos que hayan sido elegidos en el proceso electoral de 2018.
+**Tercero.-** La reforma al artículo 105 de este Estatuto de Gobierno en materia de reelección de los jefes delegacionales, será aplicable a aquellos que hayan sido elegidos en el proceso electoral de 2018.
+**Cuarto.-** Por única ocasión, la jornada electoral a celebrarse en el Distrito Federal en 2018, tendrá lugar en el mes de julio de ese año, atento a lo dispuesto por el Transitorio Segundo, fracción II, inciso a) del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014.
+**Quinto.-** Por única ocasión, los procesos electorales ordinarios locales del Distrito Federal, correspondientes a las elecciones respectivas que tendrán lugar el primer domingo de junio del año 2015, iniciarán en la primera semana del mes de octubre del año 2014.
 México, D.F., a 19 de junio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.

@@ -5,13 +5,14 @@
 
 ---
 
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR Nueva Ley publicada en el Diario Oficial de la Federación el 22 de agosto de 2005 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 22 de agosto de 2005 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente:
 DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 SE EXPIDE LA LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZUCAR.
-Artículo Único.- Se expide la Ley de Desarrollo Sustentable de la Caña de Azúcar.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR.
+
+### Artículo Único
+Se expide la Ley de Desarrollo Sustentable de la Caña de Azúcar. .
 TITULO PRIMERO DISPOSICIONES GENERALES
 
 ### Artículo 1
@@ -27,7 +28,7 @@ II. Cámara Azucarera: La Cámara Nacional de las Industrias Azucarera y Alcohol
 III. Ciclo Azucarero: El periodo comprendido del 1 de octubre de un año al 30 de septiembre del año siguiente;
 IV. Comisión Intersecretarial: La Comisión Intersecretarial de Desarrollo Rural Sustentable;
 V. Comité Nacional: El Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR VI. Comité Regional: Cada uno de los Comités Regionales para el Desarrollo Sustentable de la Caña de Azúcar;
+VI. Comité Regional: Cada uno de los Comités Regionales para el Desarrollo Sustentable de la Caña de Azúcar;
 VII. Comité: Cada uno de los Comités de Producción y Calidad Cañera de cada Ingenio;
 VIII. Contrato: El Contrato Uniforme de Compraventa y de siembra, cultivo, cosecha, entrega y recepción de caña de azúcar;
 IX. Industriales: Los propietarios de los Ingenios procesadores de caña de azúcar;
@@ -49,7 +50,6 @@ XXI. Zona de Abastecimiento: El área geográfica donde se ubican los terrenos d
 
 ### Artículo 5
 .- El producto azúcar de caña, por ser necesario para la economía nacional y el consumo popular, queda sujeto a las disposiciones contenidas en el Artículo 7o. de la Ley Federal de Competencia Económica.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
 
 ### Artículo 6
 .- Son sujetos de esta Ley los Abastecedores de Caña, los Industriales procesadores de la caña de azúcar y las Organizaciones que los representan.
@@ -68,7 +68,7 @@ VII. Proponer a la Secretaría de Economía las bases para la fijación de preci
 VIII. Promover y encauzar el crédito en coordinación con la Secretaría de Hacienda y Crédito Público, para el desarrollo y estimulación de la producción del campo cañero, la operación de los Ingenios y el financiamiento de los inventarios de azúcar;
 IX. Fomentar en coordinación con las Secretarías de Economía y de Energía la exportación de productos, coproductos, subproductos y derivados de la caña de azúcar;
 X. Proponer a las Secretarías de Hacienda y Crédito Público y de Economía cuando así se requiera, los niveles de cuota y arancel para la importación de azúcar y sus sustitutos;
-XI. Participar e instrumentar en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, las acciones de preservación del medio ambiente y la protección de la biodiversidad LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR en el campo cañero en las Zonas de Abastecimiento y de los Ingenios, impulsando la ejecución de programas de recuperación ecológica;
+XI. Participar e instrumentar en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, las acciones de preservación del medio ambiente y la protección de la biodiversidad en el campo cañero en las Zonas de Abastecimiento y de los Ingenios, impulsando la ejecución de programas de recuperación ecológica;
 XII. Fomentar el consumo nacional del azúcar y de los productos, coproductos, subproductos y derivados de la caña de azúcar;
 XIII. Establecer en coordinación con la Secretaría de Economía un sistema integral de información de mercados y otros servicios que consoliden el mercado doméstico y la exportación de productos, coproductos, subproductos y derivados de la caña de azúcar;
 XIV. Elaborar, actualizar y difundir un banco de proyectos y oportunidades de inversión en la agroindustria de la caña de azúcar y sus actividades complementarias, para lo cual, en coordinación con las dependencias o entidades competentes de los tres órdenes de gobierno, fomentará el establecimiento de empresas de los sectores social y privado cuyo objeto social sea el aprovechamiento de la caña de azúcar, la industrialización y comercialización de los productos, coproductos, subproductos y derivados de la misma propiciando la competitividad y en su caso, la reconversión productiva;
@@ -81,7 +81,7 @@ XVII. Promover la conciliación y el arbitraje de las controversias de la agroin
 CAPITULO II Del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar Sección Primera De la denominación, objeto y domicilio.
 
 ### Artículo 9
-.- En términos de lo dispuesto en el Artículo 14 de la Ley Federal de las Entidades Paraestatales, se constituye el Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar como un organismo público descentralizado, dependiente de la Administración Pública Federal, cuyo LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR objeto será la coordinación y la realización de todas las actividades previstas en esta Ley relacionadas con la agroindustria de la caña de azúcar; su domicilio legal será la Ciudad de México, Distrito Federal.
+.- En términos de lo dispuesto en el Artículo 14 de la Ley Federal de las Entidades Paraestatales, se constituye el Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar como un organismo público descentralizado, dependiente de la Administración Pública Federal, cuyo objeto será la coordinación y la realización de todas las actividades previstas en esta Ley relacionadas con la agroindustria de la caña de azúcar; su domicilio legal será la Ciudad de México, Distrito Federal.
 Sección Segunda De las atribuciones
 
 ### Artículo 10
@@ -96,7 +96,7 @@ VII. Llevar el registro y control de niveles de producción óptima por Ingenio 
 VIII. Evaluar periódicamente el Sistema de pago de la caña por calidad uniforme y el Sistema de pago por la calidad de la caña individual o de grupo; proponiendo los cambios necesarios que le den viabilidad en el contexto del comportamiento de los mercados. Cualquier cambio necesario deberá ser aprobado por el Pleno del Comité;
 IX. Elaborar balances azucareros y de edulcorantes totales por país, para homologar las políticas públicas de los socios comerciales de nuestro país en relación con costos, precios, subsidios, índices de productividad, fondos compensatorios, estímulos fiscales, tasas de interés, políticas crediticias, políticas comerciales, precios administrados y de mercado que entre otros se consideren para establecer las bases para fijar criterios de precios máximos al azúcar de caña en el mercado nacional;
 X. Conciliar entre los Ingenios del país, la distribución de las cuotas de exportación de azúcar acordadas en los tratados comerciales que México haya celebrado o celebre en el futuro;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR XI. Con base en el balance azucarero para la zafra correspondiente, calcular y proponer el precio de referencia del azúcar para el pago de la caña, llevando registro y control de los precios nacionales del azúcar y de los precios del mercado internacional incluidos los precios del mercado de los Estados Unidos de América;
+XI. Con base en el balance azucarero para la zafra correspondiente, calcular y proponer el precio de referencia del azúcar para el pago de la caña, llevando registro y control de los precios nacionales del azúcar y de los precios del mercado internacional incluidos los precios del mercado de los Estados Unidos de América;
 XII. Elaborar y aprobar las bases y cláusulas del Contrato y en su caso, sus modificaciones;
 XIII. Fomentar el sistema de pago de la caña de azúcar por calidad individual o por grupos;
 XIV. Llevar el registro nacional de los métodos de pago por calidad de la caña adoptado por el Comité de cada Ingenio, considerando los sistemas de determinación de los kilogramos de azúcar recuperable base estándar, para efectos de cálculo del precio de la caña;
@@ -108,7 +108,7 @@ XIX. Coadyuvar al estricto cumplimiento de la Ley y de todas las disposiciones q
 XX. Instrumentar un programa de desarrollo tecnológico que articule el campo con la fábrica para elevar sus niveles de competitividad en forma sostenible;
 XXI. Aprobar el Reglamento, el programa de trabajo y el presupuesto del Centro de Investigación Científica y Tecnológica de la Caña de Azúcar, recibir informes periódicos y evaluar el cumplimiento de su desempeño, así como proponer las aportaciones que hagan los Industriales, las Organizaciones nacionales y la Secretaría;
 XXII. Proponer en coordinación con la Secretaría, las acciones y programas de capacitación, asistencia técnica y transferencia de tecnología, formulándose y ejecutándose bajo criterios de sustentabilidad, integralidad, inclusión y participación, los cuales formarán parte del Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral, que establece la Ley de Desarrollo Rural Sustentable;
-XXIII. Recibir, analizar y evaluar los informes de los Comités respecto de los programas convenidos y sus modificaciones, los avances semanales y acumulados de los programas de campo y de recepción e industrialización de caña en fábrica, los de inicio y término de zafra, los reportes LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR de evaluación de actividades y todos aquellos que a su juicio resulten necesarios para tomar decisiones en materia de esta Ley;
+XXIII. Recibir, analizar y evaluar los informes de los Comités respecto de los programas convenidos y sus modificaciones, los avances semanales y acumulados de los programas de campo y de recepción e industrialización de caña en fábrica, los de inicio y término de zafra, los reportes de evaluación de actividades y todos aquellos que a su juicio resulten necesarios para tomar decisiones en materia de esta Ley;
 XXIV. Realizar revisiones, exámenes o auditorías a solicitud de los Comités sobre el desempeño de sus operaciones en general o de alguna en particular;
 XXV. Opinar sobre todos aquellos asuntos que sean sometidos a su consideración y que propicien la eficiencia administrativa y el aprovechamiento pleno de los recursos, a fin de alcanzar niveles de producción de azúcar satisfactorios y aumentar la eficiencia y productividad en el campo cañero y en la fábrica;
 XXVI. Proponer a la instancia correspondiente todas aquellas reglas, definiciones y disposiciones que contribuyan a la instrumentación de la Ley;
@@ -129,7 +129,7 @@ IV. La Secretaría del Medio Ambiente y Recursos Naturales;
 V. La Secretaría del Trabajo y Previsión Social;
 VI. Representantes de la Cámara Azucarera, y VII. Representantes de las organizaciones nacionales de Abastecedores de Caña de azúcar.
 Por cada miembro propietario habrá un suplente y contará con las mismas facultades que los propietarios, en caso de ausencia de éstos.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR El total de integrantes de la Junta Directiva no será menor de cinco ni mayor de quince.
+El total de integrantes de la Junta Directiva no será menor de cinco ni mayor de quince.
 Podrán integrarse a la Junta Directiva con carácter de invitados y solo con derecho a voz, los servidores públicos de la administración pública federal, estatal y municipal, que tengan a su cargo acciones relacionadas con el objeto del Comité Nacional, así como los representantes de organizaciones privadas o sociales con actividades afines al mismo, siempre y cuando así lo apruebe la Junta Directiva.
 
 ### Artículo 13
@@ -148,7 +148,7 @@ VI. Aprobar el Estatuto Orgánico del Comité Nacional y las disposiciones regla
 VII. Conocer y resolver los asuntos de su competencia de conformidad con esta Ley, el Estatuto Orgánico y demás disposiciones legales aplicables;
 VIII. Velar por el cumplimiento de la legislación aplicable al Comité Nacional y en su caso, aplicar las sanciones correspondientes en los términos de la misma en el ámbito de su competencia;
 IX. Nombrar y remover a propuesta del Director General, a los servidores públicos del organismo que ocupen cargos en las dos jerarquías administrativas inmediatas inferiores a las de aquél, así como aprobar la fijación de sueldos, prestaciones y conceder licencias;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR X. Analizar y en su caso aprobar, los informes anual y los trimestrales, que rinda el Director General sobre el desempeño del Comité Nacional, con la intervención que corresponda al Comisario;
+X. Analizar y en su caso aprobar, los informes anual y los trimestrales, que rinda el Director General sobre el desempeño del Comité Nacional, con la intervención que corresponda al Comisario;
 XI. Aprobar y ajustar los precios de los bienes y servicios que produzca o preste el Comité Nacional, a fin de incorporarlos a su presupuesto de ingresos;
 XII. Aprobar la concertación de los créditos para el financiamiento del Comité Nacional, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
 XIII. Expedir las normas o bases generales con arreglo a las cuales de conformidad con la legislación aplicable, el Director General cuando fuere necesario pueda disponer de los activos fijos del Comité Nacional que no correspondan a las operaciones propias del objeto del mismo;
@@ -160,7 +160,7 @@ XVIII. Acordar con sujeción a las disposiciones legales relativas, los donativo
 XIX. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Comité Nacional en los términos de ley. Cuando fuere notoriamente imposible la práctica de sus cobros, informará a las autoridades correspondientes;
 XX. Aprobar anualmente previo informe del Comisario y dictamen de los auditores externos en su caso, los estados financieros y el estado del ejercicio del presupuesto del organismo y autorizar la publicación de los mismos;
 XXI. Controlar y evaluar la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas y las metas sean cumplidas, atendiendo los informes que en materia de control y auditoría les sean turnados, vigilando la implantación de las medidas preventivas y correctivas a que hubiere lugar;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR XXII. Nombrar y remover a propuesta de su Presidente, al Secretario del órgano de gobierno, quien podrá ser miembro o no de la Junta Directiva, así como designar o remover a propuesta del Director General al Prosecretario del órgano de gobierno, quien deberá ser servidor público del Comité Nacional, y XXIII. Las demás que le otorguen la presente Ley y las disposiciones jurídico-administrativas aplicables.
+XXII. Nombrar y remover a propuesta de su Presidente, al Secretario del órgano de gobierno, quien podrá ser miembro o no de la Junta Directiva, así como designar o remover a propuesta del Director General al Prosecretario del órgano de gobierno, quien deberá ser servidor público del Comité Nacional, y XXIII. Las demás que le otorguen la presente Ley y las disposiciones jurídico-administrativas aplicables.
 
 ### Artículo 15
 .- El Director General será nombrado y removido por el Titular del Ejecutivo Federal.
@@ -180,7 +180,7 @@ IV. Presentar para su aprobación a la Junta Directiva, la estructura orgánica 
 V. Someter a la consideración del órgano de gobierno para su aprobación, el Estatuto Orgánico del Comité Nacional, así como las disposiciones reglamentarias correspondientes para su organización, funcionamiento, control y evaluación;
 VI. Elaborar los manuales de organización, procedimientos y políticas del Comité Nacional y presentarlo a la Junta Directiva para su aprobación;
 VII. Dirigir el desarrollo de las actividades técnicas, sustantivas y administrativas, así como de control y evaluación del Comité Nacional y dictar los acuerdos pertinentes para estos propósitos;
-VIII. Proponer a la Junta Directiva, el nombramiento o remoción de los dos primeros niveles de servidores públicos del Comité Nacional inferiores al Director General, proponer la fijación de LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR sueldos y demás prestaciones y designar al resto de los mismos, conforme a las asignaciones globales del presupuesto y de gasto corriente aprobado por la Junta Directiva, en los términos de ley;
+VIII. Proponer a la Junta Directiva, el nombramiento o remoción de los dos primeros niveles de servidores públicos del Comité Nacional inferiores al Director General, proponer la fijación de sueldos y demás prestaciones y designar al resto de los mismos, conforme a las asignaciones globales del presupuesto y de gasto corriente aprobado por la Junta Directiva, en los términos de ley;
 IX. Establecer los sistemas de control y evaluación de gestión del Comité Nacional, a fin de contar con información veraz y oportuna sobre el cumplimiento de los objetivos y metas, así como de desempeño institucional para la toma de decisiones y presentar a la Junta Directiva en forma trimestral un informe;
 X. Presentar trimestralmente y de manera anual a la Junta Directiva, el informe de las actividades y resultados;
 XI. Promover la difusión y divulgación del sector y sus actividades;
@@ -195,7 +195,7 @@ XIX. Establecer los instrumentos para controlar la calidad de los suministros y 
 XX. Establecer y conservar actualizados los procedimientos y sistemas de información, así como su aplicación para garantizar un servicio de calidad en el Comité Nacional;
 XXI. Establecer los instrumentos y procedimientos que permitan que los procesos de trabajo se realicen de manera articulada, congruente y eficaz;
 XXII. Establecer los sistemas de registro, control y evaluación necesarios para alcanzar los resultados, metas y objetivos propuestos para el corto y mediano plazos;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR XXIII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de servicios que brinde el Comité Nacional;
+XXIII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de servicios que brinde el Comité Nacional;
 XXIV. Establecer un sistema de indicadores que permita evaluar la gestión de la entidad;
 XXV. Establecer los mecanismos de autoevaluación que destaquen la eficiencia y eficacia con que se desempeñe el Comité Nacional y presentar al órgano de gobierno por lo menos dos veces al año la evaluación de gestión con el detalle que previamente acuerde con el órgano y escuchando al Comisario público;
 XXVI. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales de la entidad con sus trabajadores, y XXVII. Las demás que le confiera la presente Ley y las disposiciones legales aplicables.
@@ -216,7 +216,7 @@ Sección Quinta De la Vigilancia
 
 ### Artículo 20
 .- El Comisario evaluará el desempeño general y por funciones del Comité Nacional, realizará estudios sobre la eficiencia con la que se ejerzan las erogaciones de los gastos corriente y de inversión, así como lo referente a los ingresos y en general solicitará toda la información para efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública le asigne de conformidad con la ley. Para el adecuado cumplimiento de sus funciones, la Junta Directiva y el Director General, deberán proporcionar la información que solicite el Comisario.
-Sección Sexta De las relaciones laborales LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
+Sección Sexta De las relaciones laborales
 
 ### Artículo 21
 .- Las relaciones de trabajo entre el organismo descentralizado y su personal, se regirán por la legislación que dispone el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -240,7 +240,7 @@ I. Un representante del Ingenio con facultades para tomar decisiones, de prefere
 ### Artículo 26
 .- Los Comités son los órganos encargados de vigilar el cumplimiento de esta Ley, y de las reglas y definiciones que acuerde el Comité Nacional y tendrán las siguientes facultades y obligaciones:
 I. Formular para su respectiva Zona de Abastecimiento los programas de operación de campo relativos a la siembra de caña de azúcar; actividades agrícolas; mecanización del campo cañero; cosecha y molienda de caña para la zafra; conservación y mejoramiento de caminos cañeros; albergues para cortadores; modificación de tarifas por trabajos ejecutados y de tarifas de trabajos de siembra, cultivo, cosecha, entrega y recepción de caña y de las solicitudes de crédito en general;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR II. Elaborar y modificar, en su caso, el programa semanal de prioridades de Corte; adecuar el programa de zafra cuando a su juicio sea conveniente y acordar la suspensión de cortes si las condiciones lo requieren;
+II. Elaborar y modificar, en su caso, el programa semanal de prioridades de Corte; adecuar el programa de zafra cuando a su juicio sea conveniente y acordar la suspensión de cortes si las condiciones lo requieren;
 III. Determinar las erogaciones que, en su caso, deban hacer el Industrial y/o los Abastecedores de Caña de azúcar para cubrir costos generados por causa de interrupciones en la zafra, incluyendo entre otros el correspondiente a los apoyos a cortadores y fleteros;
 IV. Convenir las condiciones económicas y de operación para la transferencia de caña de azúcar de un Ingenio a otro, cuando así se estime conveniente;
 V. Expedir las órdenes de suspensión de riegos, de quemas y de corte, así como elaborar el acta de fin de zafra dentro de los diez días siguientes a su terminación;
@@ -256,7 +256,7 @@ XIV. Solicitar al Comité Nacional la realización de revisiones, exámenes o au
 XV. Informar a los Abastecedores de Caña en forma pública, clara y puntual, por conducto del representante respectivo, los gastos efectuados en el ejercicio de sus funciones, especificando montos, conceptos y distribución de los mismos, y XVI. Las demás que les confiera la presente Ley.
 
 ### Artículo 27
-.- Los Comités celebrarán las reuniones que se indican a continuación: a) Ordinarias, una vez por semana durante la zafra y cada 15 días en el tiempo de pre-zafra, y LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR b) Extraordinarias, cuando así lo requiera la atención de asuntos urgentes, deberán ser convocadas, por escrito, por cualquiera de sus miembros, debiendo acompañarse del orden del día correspondiente.
+.- Los Comités celebrarán las reuniones que se indican a continuación: a) Ordinarias, una vez por semana durante la zafra y cada 15 días en el tiempo de pre-zafra, y b) Extraordinarias, cuando así lo requiera la atención de asuntos urgentes, deberán ser convocadas, por escrito, por cualquiera de sus miembros, debiendo acompañarse del orden del día correspondiente.
 
 ### Artículo 28
 .- Cuando sin causa justificada y habiendo sido legalmente notificado no asista alguno de los representantes a una sesión ordinaria del Comité no se llevará a efecto dicha reunión, debiendo convocarse a una nueva reunión con tres días naturales de antelación. En caso de sesiones extraordinarias, la convocatoria para una nueva reunión podrá hacerse dentro de las 24 horas siguientes si el asunto así lo amerita.
@@ -280,7 +280,6 @@ CAPITULO II De las Organizaciones Locales de Abastecedores de Caña
 
 ### Artículo 33
 .- Las Organizaciones Locales de Abastecedores de Caña estarán constituidas en las Zonas de Abastecimiento con los productores de caña que tengan celebrado Contrato con el Ingenio que corresponda.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
 
 ### Artículo 34
 .- Las organizaciones locales que se constituyan, para obtener y mantener su registro, deberán contar con una membresía mínima equivalente al 10% del padrón total de los Abastecedores de Caña del Ingenio de que se trate y por lo menos con el l0 % del volumen total de la caña de la Zona de Abastecimiento correspondiente, cumplir con los requisitos establecidos en la legislación bajo la cual adopten la figura jurídica para su constitución y deberán estar debidamente inscritas en el Registro. Para estos efectos, el Registro deberá certificar que dichos padrones cumplen con los requerimientos establecidos en esta Ley.
@@ -302,7 +301,7 @@ X. Informar con periodicidad a los Abastecedores de Caña integrantes de su orga
 
 ### Artículo 36
 .- Las organizaciones cañeras locales que se constituyan con apego a esta Ley, se podrán integrar o adherir a cualquiera de las organizaciones cañeras nacionales legalmente registradas.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR CAPITULO III De las Organizaciones Nacionales de Abastecedores de Caña
+CAPITULO III De las Organizaciones Nacionales de Abastecedores de Caña
 
 ### Artículo 37
 .- Para la mejor atención y defensa de los intereses de sus agremiados las organizaciones locales de Abastecedores de Caña podrán constituirse en organizaciones cañeras nacionales en los términos de la presente Ley.
@@ -318,7 +317,7 @@ La organización nacional con registro condicionado, tendrá derecho a participa
 .- Las organizaciones nacionales, entre otros, tendrán por objeto:
 I. Representar los intereses de sus afiliados ante cualquier autoridad u organismo de carácter público o privado;
 II. Apoyar el desarrollo y fortalecimiento de las organizaciones locales afiliadas;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR III. Fomentar la modernización del campo cañero nacional y la adopción de mejoras tecnológicas;
+III. Fomentar la modernización del campo cañero nacional y la adopción de mejoras tecnológicas;
 IV. Promover la instrumentación de políticas que impulsen el desarrollo equilibrado de la actividad cañera en nuestro país;
 V. Organizar y participar en eventos, exposiciones, conferencias, seminarios y en general toda clase de actividades que redunden en beneficio de la actividad cañera;
 VI. Impulsar e instrumentar programas de capacitación y adiestramiento para la profesionalización de los cuadros de abastecedores, técnicos y directivos de las organizaciones cañeras;
@@ -339,8 +338,7 @@ CAPITULO IV Del Padrón Nacional de Abastecedores de Caña
 
 ### Artículo 42
 .- Para efectos del artículo anterior se establece el siguiente procedimiento:
-I. Los Abastecedores de Caña que tengan interés en constituir una Organización o de renunciar a la que pertenezcan, deberán presentar la solicitud de afiliación y/o renuncia que deberá contener lo siguiente:
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR a) Nombre del Abastecedor de Caña; b) Clave de abastecedor del Ingenio de que se trate; c) Nombre del predio, parcela, ejido o congregación, municipio y entidad federativa a la que pertenezca; d) Superficie contratada y volumen de caña entregada en la zafra inmediata anterior o, en su caso, el estimado de producción a industrializarse; e) Número de afiliación al Instituto Mexicano del Seguro Social; f) Manifestación expresa de la organización local y/o nacional a que desee pertenecer o renunciar, y g) Firma o huella digital del solicitante, de ser este último el caso, se requerirá la firma de dos testigos.
+I. Los Abastecedores de Caña que tengan interés en constituir una Organización o de renunciar a la que pertenezcan, deberán presentar la solicitud de afiliación y/o renuncia que deberá contener lo siguiente: a) Nombre del Abastecedor de Caña; b) Clave de abastecedor del Ingenio de que se trate; c) Nombre del predio, parcela, ejido o congregación, municipio y entidad federativa a la que pertenezca; d) Superficie contratada y volumen de caña entregada en la zafra inmediata anterior o, en su caso, el estimado de producción a industrializarse; e) Número de afiliación al Instituto Mexicano del Seguro Social; f) Manifestación expresa de la organización local y/o nacional a que desee pertenecer o renunciar, y g) Firma o huella digital del solicitante, de ser este último el caso, se requerirá la firma de dos testigos.
 II. En caso de renuncia a la Organización a la que pertenezca, deberá ser presentada por escrito a la misma, con copia para el Comité, para el Registro, y para la Organización a la que desee pertenecer en su caso.
 
 ### Artículo 43
@@ -365,7 +363,7 @@ Si se presentaran una vez iniciado el Ciclo Azucarero tendrán efectos jurídico
 
 ### Artículo 49
 .- El Padrón Nacional servirá de base para fomentar y fortalecer los programas y acciones de Gobierno orientados a la modernización y desarrollo de las zonas de abastecimiento.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR TITULO CUARTO DE LAS RELACIONES CONTRACTUALES CAPITULO I Del Contrato Uniforme Articulo 50.- El Contrato que deben celebrar los Industriales con los Abastecedores de Caña es el instrumento jurídico que regula las relaciones entre ambos respecto de la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar; será uniforme para todos los Ingenios del país, se sujetará a los términos que se establecen en esta Ley y requerirá la sanción del Comité correspondiente, entregándose copia del mismo a las partes.
+TITULO CUARTO DE LAS RELACIONES CONTRACTUALES CAPITULO I Del Contrato Uniforme Articulo 50.- El Contrato que deben celebrar los Industriales con los Abastecedores de Caña es el instrumento jurídico que regula las relaciones entre ambos respecto de la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar; será uniforme para todos los Ingenios del país, se sujetará a los términos que se establecen en esta Ley y requerirá la sanción del Comité correspondiente, entregándose copia del mismo a las partes.
 Deberá contener, como mínimo la personalidad de los contratantes, la identificación del Ingenio y del terreno contratado para producción de caña de azúcar, la vigencia del Contrato, la forma de pago de la caña, el pago de intereses ordinarios o moratorios, las causales de rescisión, el sometimiento expreso de las partes a los acuerdos del Comité Nacional y del Comité, [así como a la jurisdicción de la Junta Permanente].
 Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 07-12-2007 (En la porción normativa que señala: “así como a la jurisdicción de la Junta Permanente”) El Comité Nacional elaborará el formato del Contrato.
 
@@ -382,7 +380,7 @@ En los casos en que se convenga con los Industriales para que actúen como reten
 
 ### Artículo 54
 .- En el Contrato se establecerán los mecanismos necesarios para garantizar el pago oportuno de los alcances que correspondan a los Abastecedores de Caña.
-Sin embargo, en caso de concurso mercantil de los Industriales sin liquidez o de imposibilidad de acceso a créditos para cubrir sus obligaciones contractuales con los Abastecedores de Caña, éstos serán LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR considerados acreedores con garantía real en los términos de lo dispuesto en los Artículos 217, Fracción II, y 219 de la Ley de Concursos Mercantiles.
+Sin embargo, en caso de concurso mercantil de los Industriales sin liquidez o de imposibilidad de acceso a créditos para cubrir sus obligaciones contractuales con los Abastecedores de Caña, éstos serán considerados acreedores con garantía real en los términos de lo dispuesto en los Artículos 217, Fracción II, y 219 de la Ley de Concursos Mercantiles.
 
 ### Artículo 55
 .- Los contratos que de manera voluntaria celebren los Ingenios y los Abastecedores de Caña en materia de coinversión, de constitución de asociaciones o cualquier otro contrato para aumentar la inversión, la productividad, la eficiencia y la diversificación del campo cañero, para que surtan efectos deberán ser registrados previamente ante la Junta Permanente.
@@ -404,7 +402,7 @@ El precio de referencia será el que se obtenga como promedio ponderado de ambos
 
 ### Artículo 60
 .- Para determinar el monto que debe pagarse con base en la calidad de la caña conforme a un contenido de azúcar recuperable base estándar uniforme en cada Ingenio, se deberá cumplir con lo siguiente:
-I. Al concluir la molienda de un Ingenio, se determinará el promedio ponderado del azúcar recuperable base estándar conforme al total de la caña neta molida en la zafra de que se trate, calculado en kilogramos de azúcar base estándar por tonelada, utilizando al efecto el informe final conciliado por los técnicos representantes de los Abastecedores de Caña e Industriales, resultados que deberán quedar asentados en el informe oficial de corrida final, y LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR II. El azúcar recuperable base estándar se calculará en función de los siguientes elementos: el porcentaje de pol en caña, el porcentaje de fibra en caña y la pureza del jugo mezclado que registre el informe diario conciliado por los técnicos representantes de los Abastecedores de Caña e Industriales, resultados que deberán quedar asentados en los informes oficiales de corrida semanal, considerando además una eficiencia mínima de fábrica de 82.37%, aplicada a una calidad específica de caña de cada Ingenio.
+I. Al concluir la molienda de un Ingenio, se determinará el promedio ponderado del azúcar recuperable base estándar conforme al total de la caña neta molida en la zafra de que se trate, calculado en kilogramos de azúcar base estándar por tonelada, utilizando al efecto el informe final conciliado por los técnicos representantes de los Abastecedores de Caña e Industriales, resultados que deberán quedar asentados en el informe oficial de corrida final, y II. El azúcar recuperable base estándar se calculará en función de los siguientes elementos: el porcentaje de pol en caña, el porcentaje de fibra en caña y la pureza del jugo mezclado que registre el informe diario conciliado por los técnicos representantes de los Abastecedores de Caña e Industriales, resultados que deberán quedar asentados en los informes oficiales de corrida semanal, considerando además una eficiencia mínima de fábrica de 82.37%, aplicada a una calidad específica de caña de cada Ingenio.
 
 ### Artículo 61
 .- Los Ingenios pagarán la caña conforme a las siguientes reglas:
@@ -417,7 +415,7 @@ II. El cálculo del azúcar base estándar se hará en función de los siguiente
 
 ### Artículo 63
 .- Cuando sea aplicable el sistema referido en el Artículo 62 de esta Ley, los Ingenios pagarán la caña recibida de la siguiente manera:
-I. Una preliquidación equivalente al 85% del azúcar recuperable base estándar determinado, que deberá pagar al precio vigente el día quince de cada mes cuando la terminación del corte de caña por Contrato sea en la segunda quincena del mes anterior y el último día del mes cuando LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR la terminación del corte sea en la primera quincena del mismo, debiendo descontarse sus obligaciones crediticias y aportaciones que correspondan con vencimiento en la zafra de que se trate, y II. Una liquidación final equivalente al 15% del azúcar recuperable base estándar cuyo monto deberá pagarse en un plazo no mayor de treinta días naturales al precio vigente a partir de la terminación de la zafra, debiendo descontarse las obligaciones crediticias y aportaciones que correspondan que no se hubieren descontado durante la preliquidación.
+I. Una preliquidación equivalente al 85% del azúcar recuperable base estándar determinado, que deberá pagar al precio vigente el día quince de cada mes cuando la terminación del corte de caña por Contrato sea en la segunda quincena del mes anterior y el último día del mes cuando la terminación del corte sea en la primera quincena del mismo, debiendo descontarse sus obligaciones crediticias y aportaciones que correspondan con vencimiento en la zafra de que se trate, y II. Una liquidación final equivalente al 15% del azúcar recuperable base estándar cuyo monto deberá pagarse en un plazo no mayor de treinta días naturales al precio vigente a partir de la terminación de la zafra, debiendo descontarse las obligaciones crediticias y aportaciones que correspondan que no se hubieren descontado durante la preliquidación.
 
 ### Artículo 64
 .- Para el cálculo del precio de la tonelada de caña de azúcar utilizando tanto el sistema de determinación del azúcar recuperable base estándar uniforme, como el individual o por grupos, se considerarán hasta milésimas de kilogramos de azúcar recuperable base estándar con relación a la caña neta.
@@ -441,7 +439,6 @@ La parte del tallo superior de esos entrenudos 8-10 se denomina cogollo o punta 
 
 ### Artículo 70
 .- Por caña programada se entenderá aquella que esté comprendida dentro de las fechas de corte según el programa previo aprobado por el Comité, debidamente actualizado durante el desarrollo de la zafra y cubierta por su respectiva orden de quema en su caso, de corte y/o de suspensión de riegos, con base en su índice de madurez.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
 
 ### Artículo 71
 .- Se entiende por caña bruta el peso de la caña en báscula sin descuento alguno.
@@ -466,7 +463,6 @@ Articulo 76.- Para el caso de los dos artículos anteriores, cuando el deterioro
 ### Artículo 77
 .- Para la organización de la cosecha en general, las cañas no programadas se sujetarán a los procedimientos siguientes:
 I. Cuando el Abastecedor de Caña de azúcar sin orden de corte y sin autorización del Comité coseche su caña, ésta podrá no ser recibida por el Ingenio, y II. Cuando por causa accidental una superficie con caña desarrollada se queme sin orden de corte, será castigada hasta con el 10% de su valor sin perjuicio de otros descuentos y/o castigos que le pudiera corresponder. El Comité, previa investigación de las causas que hayan provocado el accidente, determinará dicho castigo.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
 
 ### Artículo 78
 .- Para la evaluación de basura, materia extraña o impurezas en la caña de azúcar destinada a la industria azucarera, se adoptará el siguiente procedimiento:
@@ -489,7 +485,6 @@ CAPITULO IV De las Cañas Contratadas no Industrializadas
 
 ### Artículo 82
 .- Las cañas contratadas no industrializadas en la zafra de que se trate, se considerarán como cañas quedadas, excepto las que convengan el Ingenio y el Abastecedor de Caña en diferir para la siguiente zafra.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
 
 ### Artículo 83
 .- Cuando por causas imputables al Ingenio, resulten cañas sin industrializar, éstas deberán ser pagadas al abastecedor por dicho Ingenio, en los términos establecidos en el presente capítulo.
@@ -513,7 +508,7 @@ I. Cuando, sin motivo justificado, se opongan al corte de su caña programada pa
 II. Cuando no acaten las disposiciones del Comité referente a la suspensión de riegos, conforme al programa de maduración de la caña;
 III. Cuando no realicen oportunamente las labores y obras necesarias que permitan la cosecha y transporte de la caña;
 IV. Cuando por conflictos de los propios Abastecedores de Caña, obstaculicen parcial o totalmente la entrega de caña;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR V. Cuando sin causa justificada los Abastecedores de Caña obstaculicen parcial o totalmente la entrega de la caña;
+V. Cuando sin causa justificada los Abastecedores de Caña obstaculicen parcial o totalmente la entrega de la caña;
 VI. Cuando no acaten los acuerdos dictados y notificados oportunamente por el Comité y afecten directamente la molienda, y/o VII. Cuando no atiendan oportunamente la quema, el corte y el acarreo de sus cañas.
 
 ### Artículo 86
@@ -532,7 +527,6 @@ I. De acuerdo con el estimado de la producción de caña, llevado a cabo por el 
 ### Artículo 90
 .- Una vez concluida la zafra, el Abastecedor de Caña al que se le hayan quedado cañas sin industrializar, en pie o cortadas, deberá acudir dentro de los diez días siguientes a la conclusión oficial de la zafra de que se trate ante el Comité, a fin de que éste sancione y haga constar en acta lo siguiente:
 I. La cuantificación del volumen de caña considerada como no industrializada, incluyendo nombre del Abastecedor de Caña, superficie neta, rendimiento estimado por hectárea y toneladas de caña, y II. La calificación de la procedencia de la reclamación del Abastecedor de Caña en los términos de la presente Ley.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
 
 ### Artículo 91
 .- El valor de la caña no industrializada imputable al Ingenio, será calculado con base en el precio de liquidación de la caña industrializada deduciendo el promedio de los costos totales de cosecha y demás deducibles que le correspondan cuando la caña no ha sido quemada o cortada. El saldo será cubierto en un término de treinta días naturales a partir de la fecha de terminación de la zafra del Ingenio correspondiente.
@@ -555,8 +549,7 @@ CAPITULO VI De la Normatividad y de la Supervisión del Proceso de Fábrica
 
 ### Artículo 96
 .- Bajo el sistema en el que el precio de la caña se determina mediante el azúcar recuperable base estándar promedio uniforme de toda la caña molida en la zafra por cada Ingenio del país, el resultado del azúcar físicamente producido en cada zafra no tendrá relación con el pago de la caña.
-En consecuencia los Abastecedores de Caña por conducto de sus Organizaciones tienen derecho a supervisar en la fábrica y a participar conjuntamente con el personal del Ingenio, únicamente hasta la parte del proceso que interviene para la determinación de los parámetros comprendidos en el cálculo del azúcar recuperable de su caña, que son:
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR a) Peso de la caña al ser entregada en batey del Ingenio; b) Peso o medición del agua de imbibición; c) Peso del jugo mezclado; d) Toma, manejo y conservación de muestras de jugo mezclado y de bagazo; e) Determinación de la pol y de la fibra en caña; f) Determinación de pol en jugo mezclado y bagazo; g) Determinación de brix o sólidos totales en jugo mezclado; h) Cálculos para obtener los datos promedio ponderados del día, de la semana y acumulados al término de la zafra del porciento de pol en caña y el porciento de fibra en caña, así como la pol y el brix del jugo mezclado para determinar su pureza, y i) Verificación de la instalación en los Ingenios de los equipos necesarios y su correcta operación, así como de la aplicación debida de las normas mexicanas vigentes y disposiciones que correspondan emitidas por la Dirección General de Normas de la Secretaría de Economía.
+En consecuencia los Abastecedores de Caña por conducto de sus Organizaciones tienen derecho a supervisar en la fábrica y a participar conjuntamente con el personal del Ingenio, únicamente hasta la parte del proceso que interviene para la determinación de los parámetros comprendidos en el cálculo del azúcar recuperable de su caña, que son: a) Peso de la caña al ser entregada en batey del Ingenio; b) Peso o medición del agua de imbibición; c) Peso del jugo mezclado; d) Toma, manejo y conservación de muestras de jugo mezclado y de bagazo; e) Determinación de la pol y de la fibra en caña; f) Determinación de pol en jugo mezclado y bagazo; g) Determinación de brix o sólidos totales en jugo mezclado; h) Cálculos para obtener los datos promedio ponderados del día, de la semana y acumulados al término de la zafra del porciento de pol en caña y el porciento de fibra en caña, así como la pol y el brix del jugo mezclado para determinar su pureza, y i) Verificación de la instalación en los Ingenios de los equipos necesarios y su correcta operación, así como de la aplicación debida de las normas mexicanas vigentes y disposiciones que correspondan emitidas por la Dirección General de Normas de la Secretaría de Economía.
 En caso de que las Organizaciones nombren representantes para vigilar y participar en la determinación de los parámetros utilizados en el cálculo del azúcar recuperable de la caña industrializada, deberán firmar conjuntamente con el personal del Ingenio encargado de dichas actividades los resultados diarios obtenidos. En caso de divergencia, las partes manifestarán su inconformidad levantando el acta respectiva que harán del conocimiento inmediato del Comité del Ingenio de que se trate.
 TITULO QUINTO DE LA INVESTIGACIÓN, LA DIVERSIFICACIÓN Y LA SUSTENTABILlDAD CAPITULO I De la Investigación y Desarrollo Tecnológico
 
@@ -569,7 +562,7 @@ Su estructura, programa de mediano plazo y programa operativo anual de investiga
 .- Para darle viabilidad al CICTCAÑA se creará un fondo con aportaciones tripartitas, del Gobierno Federal, de los Industriales y de las Organizaciones en los términos, lineamientos y reglamentación que acuerde el Comité Nacional.
 
 ### Artículo 99
-.- A través del CICTCAÑA, en coordinación con las instituciones de investigación y educación superior participantes, se dará prioridad al establecimiento de un inventario nacional de LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR proyectos de investigación y recursos materiales en campus de experimentación, a efecto de optimizar las investigaciones y sus resultados obtenidos y aprovechar los campus existentes para el desarrollo de nuevos proyectos.
+.- A través del CICTCAÑA, en coordinación con las instituciones de investigación y educación superior participantes, se dará prioridad al establecimiento de un inventario nacional de proyectos de investigación y recursos materiales en campus de experimentación, a efecto de optimizar las investigaciones y sus resultados obtenidos y aprovechar los campus existentes para el desarrollo de nuevos proyectos.
 
 ### Artículo 100
 .- El CICTCAÑA se apoyará en cuerpos colegiados formados por investigadores de reconocido prestigio que serán convocados de las diferentes instituciones públicas que realizan investigación científica y tecnológica en el país.
@@ -586,7 +579,6 @@ VII. Profundizar en la evaluación del efecto en los rendimientos de fábrica y 
 VIII. Promover para cada región y Zona de Abastecimiento, el sistema de cartografía y geoposicionamiento satelital estandarizado para todos los Comités, con el propósito de facilitar la reconversión productiva y lograr el pleno aprovechamiento de la tierra;
 IX. Determinar mediante estudios e investigaciones, la contribución a la competitividad del territorio rural de cada una de las Zonas de Abastecimiento cañero que permitan consolidar la producción, el empleo y los servicios rurales;
 X. Inventariar la investigación y sus resultados en materia de coproductos, subproductos y derivados, y promover las nuevas investigaciones para maximizar el aprovechamiento y diversificación de la caña de azúcar, y XI. Llevar a cabo las investigaciones, estudios y acciones que acuerde y le instruya el Comité Nacional.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
 
 ### Artículo 102
 .- El CICTCAÑA promoverá, a través de los mecanismos de coordinación que se establezcan con las instituciones académicas y de investigación, la formación del recurso humano que le dé certidumbre y continuidad a este Centro de investigación.
@@ -615,7 +607,7 @@ Los resultados de dichos estudios deben incorporar la rentabilidad financiera, s
 .- El Comité Nacional propondrá a la Comisión Intersecretarial, para su aprobación, los estímulos a la inversión para la producción de gas sintético, cogeneración de energía y producción de etanol como carburante, sin dejar de incluir al resto de coproductos, subproductos y derivados.
 
 ### Artículo 109
-.- El Comité Nacional, con apoyo de la Secretaría, promoverá el desarrollo de los Coproductos, Subproductos y Derivados vinculándolos a los programas de riesgo compartido y riesgo de LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR inversión, a las alianzas productivas y a las instituciones de educación superior existentes dentro del territorio de la Zona de Abastecimiento cañero donde se promueva, mediante módulos demostrativos, la viabilidad de este desarrollo.
+.- El Comité Nacional, con apoyo de la Secretaría, promoverá el desarrollo de los Coproductos, Subproductos y Derivados vinculándolos a los programas de riesgo compartido y riesgo de inversión, a las alianzas productivas y a las instituciones de educación superior existentes dentro del territorio de la Zona de Abastecimiento cañero donde se promueva, mediante módulos demostrativos, la viabilidad de este desarrollo.
 
 ### Artículo 110
 .- Los apoyos que el Gobierno Federal otorgue para la diversificación productiva de la agroindustria de la caña, se preverán en el Programa Especial Concurrente para el Desarrollo Rural Sustentable que incluya el Presupuesto de Egresos de la Federación cada año.
@@ -644,8 +636,7 @@ CAPITULO III De la Sustentabilidad
 TITULO SEXTO DE LA CONCILIACIÓN Y EL ARBITRAJE EN LA AGROINDUSTRIA DE LA CAÑA DE AZÚCAR CAPITULO I De las Controversias
 
 ### Artículo 118
-.- Son controversias azucareras las que, con motivo del incumplimiento en la aplicación de las disposiciones contenidas en la presente Ley, el Contrato y disposiciones derivadas, se susciten entre:
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR a) Abastecedores de Caña de azúcar e Industriales; b) Abastecedores de Caña de azúcar; c) Industriales, y d) Cualquiera de los sujetos anteriores y los Comités.
+.- Son controversias azucareras las que, con motivo del incumplimiento en la aplicación de las disposiciones contenidas en la presente Ley, el Contrato y disposiciones derivadas, se susciten entre: a) Abastecedores de Caña de azúcar e Industriales; b) Abastecedores de Caña de azúcar; c) Industriales, y d) Cualquiera de los sujetos anteriores y los Comités.
 Nacional de Procedimientos Civiles y Familiares y la Ley General de Títulos y Operaciones de Crédito.
 Párrafo reformado DOF 14-11-2025
 
@@ -669,7 +660,6 @@ II. Procurar un arreglo conciliatorio de las controversias azucareras;
 III. Recibir las pruebas que los Abastecedores de Caña o los Industriales juzguen conveniente rendir ante ellos, en relación con las acciones y excepciones que pretendan deducir ante la Junta Permanente. El término para la recepción de pruebas no podrá exceder de diez días;
 IV. Llevar a cabo los trámites necesarios de inscripción en el Registro de las constancias de lo actuado en su función conciliatoria, y V. Las demás que les confieran las leyes.
 Adicionalmente a petición de parte podrán recibir las demandas que le sean presentadas, remitiéndolas a la Junta Permanente. Asimismo complementar los exhortos y practicar las diligencias que le solicite la Junta Permanente.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
 
 ### Artículo 124
 .- El procedimiento conciliatorio se sujetará a las siguientes reglas:
@@ -688,7 +678,7 @@ I. De no lograrse la conciliación de las partes, ya sea ante el Comité corresp
 II. Contestada o no la demanda, y desahogadas las pruebas admitidas, se concederá a las partes un plazo de diez días hábiles para presentar sus alegatos.
 Cuando, para mejor proveer, a juicio de la Junta Permanente sea necesario obtener mayor información, recabar más pruebas, o realizar alguna investigación respecto a las controversias instauradas, ésta podrá hacerlo en el plazo necesario para ello. En estos casos, se citará para alegatos una vez recopiladas y desahogadas las pruebas y diligencias que se hubieren ordenado.
 III. Transcurridas las etapas mencionadas y presentados o no los alegatos de las partes, la Junta Permanente cerrará el periodo de instrucción y contará con un plazo máximo de treinta días hábiles para dictar el laudo correspondiente.
-CAPITULO IV De la Junta Permanente LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
+CAPITULO IV De la Junta Permanente
 
 ### Artículo 127
 .- Se crea la Junta Permanente en términos de la Ley de Desarrollo Rural Sustentable, la que tendrá plena competencia para conocer y resolver todas aquellas controversias azucareras que le sean sometidas.
@@ -718,7 +708,6 @@ Sus ausencias temporales y las definitivas, en tanto se hace nuevo nombramiento,
 
 ### Artículo 134
 .- Las reuniones serán presididas por el Presidente o, en su ausencia, por su suplente; el Pleno sesionará por instrucciones del mismo o a petición de, por lo menos, dos de sus miembros, previa notificación por escrito de sus integrantes con cinco días hábiles de antelación a la misma.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR
 
 ### Artículo 135
 .- El Pleno deberá sesionar con la asistencia total de sus miembros. En caso de no celebrarse una sesión por la inasistencia de alguno de ellos, el Secretario General citará nuevamente para celebrarse dentro de los tres días hábiles siguientes, llevándola a cabo con los que asistan, y se tendrán por conformes los miembros no asistentes con las resoluciones o acuerdos que se tomen en ella.
@@ -744,7 +733,7 @@ II. Convocar a las partes en controversia en los términos del artículo 124 de 
 III. Comisionar al personal que considere necesario, por iniciativa propia o a petición de parte, para la investigación, información o aclaración del asunto que se someta a su consideración;
 IV. Integrar los expedientes de los asuntos en trámite, dictando todo tipo de acuerdos que para la sustanciación del procedimiento sean necesarios;
 V. Ordenar las investigaciones necesarias y el aprovisionamiento de datos o documentos que se encuentren relacionados con los asuntos que se ventilen ante la misma y, en su oportunidad, formular el proyecto de laudo o interlocutoria que dé por terminado el juicio arbitral, que someterá a la consideración del Pleno;
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR VI. Encargarse de la sustanciación de los procedimientos arbitrales hasta dejarlos en estado de resolución, incluyendo la firma de las resoluciones interlocutorias que declaren improcedentes las excepciones de previo y especial pronunciamiento que no impliquen dar por concluido el juicio arbitral;
+VI. Encargarse de la sustanciación de los procedimientos arbitrales hasta dejarlos en estado de resolución, incluyendo la firma de las resoluciones interlocutorias que declaren improcedentes las excepciones de previo y especial pronunciamiento que no impliquen dar por concluido el juicio arbitral;
 VII. Mantener actualizado un registro de los miembros del Comité de cada Ingenio del país;
 VIII. Llevar el registro oficial del tonelaje de caña aportado por los abastecedores;
 IX. Presentar para su análisis y aprobación al Pleno de la Junta Permanente, en forma detallada y con base en las necesidades de operatividad funcional, el presupuesto anual de la Junta Permanente;
@@ -762,7 +751,7 @@ CAPITULO VII Del Ámbito Competencial y del Procedimiento ante la Junta Permanen
 ### Artículo 142
 .- Cuando una demanda controversial no sea lo suficientemente clara a juicio de la Junta Permanente, ésta solicitará las aclaraciones pertinentes, las cuales deberán hacerse dentro de un término máximo de diez días hábiles. Transcurrido dicho plazo sin que se hubieran presentado las aclaraciones solicitadas, no se dará curso a la demanda o inconformidad, dejando a salvo los derechos del actor, interrumpiendo el plazo para la prescripción de la acción intentada.
 No será necesaria la aclaración anterior, en el caso de que las Organizaciones de Abastecedores de Caña demanden al Ingenio determinada prestación sin especificar su monto, nombre de Abastecedores de Caña y toneladas de caña entregadas por cada uno, ya que en caso de procedencia, toda cuantificación podrá hacerse al efectuarse la liquidación de lo fallado, mediante estimados de producción o volumen de caña de azúcar y promedios de contenido de sacarosa o índice de calidad que corresponda, así como registros de Abastecedores de Caña, a menos que la Junta Permanente estime que son necesarias para la defensa de la contraparte o resolución de la controversia, o cuando se presente una excepción por parte del Ingenio que comprenda a un abastecedor o grupo de abastecedores.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR Las demandas controversiales deberán presentarse en contra de la persona física o moral en forma individualizada.
+Las demandas controversiales deberán presentarse en contra de la persona física o moral en forma individualizada.
 
 ### Artículo 143
 .- Cuando la Junta Permanente reciba inhibitoria de tribunal judicial u órgano arbitral en que se promueva sobre la competencia y considerase debido sostener la suya, en un plazo no mayor a tres días hábiles lo comunicará así al competidor.
@@ -792,56 +781,68 @@ Artículo reformado DOF 14-11-2025
 
 ### Artículo 150
 .- La parte condenada deberá dar cumplimiento al laudo de la Junta Permanente dentro del plazo de diez días hábiles, contados a partir de la notificación correspondiente. Si no lo hiciere, la parte interesada podrá solicitar su homologación y ejecución a la autoridad competente.
-TRANSITORIOS LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Se deroga toda disposición que contravenga a esta Ley, con excepción de lo dispuesto en los artículos Transitorios TERCERO, QUINTO, SEXTO Y OCTAVO de la presente.
-TERCERO.- Los asuntos que se encuentren pendientes de resolver en los Comités de Producción Cañera y en la Junta de Conciliación y Arbitraje de Controversias Azucareras, a la entrada en vigor de la presente Ley, deberán seguir tramitándose y resolverse conforme a las disposiciones que se encontraban vigentes al momento de su inicio.
-CUARTO.- El Comité Nacional, la Junta Permanente y el CICTCAÑA deberán quedar debidamente instalados a más tardar dentro de los treinta días siguientes a la entrada en vigor de esta Ley.
+
+## TRANSITORIOS
+
+**PRIMERO.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se deroga toda disposición que contravenga a esta Ley, con excepción de lo dispuesto en los artículos Transitorios TERCERO, QUINTO, SEXTO Y OCTAVO de la presente.
+**TERCERO.-** Los asuntos que se encuentren pendientes de resolver en los Comités de Producción Cañera y en la Junta de Conciliación y Arbitraje de Controversias Azucareras, a la entrada en vigor de la presente Ley, deberán seguir tramitándose y resolverse conforme a las disposiciones que se encontraban vigentes al momento de su inicio.
+**CUARTO.-** El Comité Nacional, la Junta Permanente y el CICTCAÑA deberán quedar debidamente instalados a más tardar dentro de los treinta días siguientes a la entrada en vigor de esta Ley.
 Para la instalación de uno y otra la Secretaría deberá convocar a los sectores involucrados en un término máximo de 15 días después de la entrada en vigor de esta Ley.
-QUINTO.- Para el establecimiento del precio de la caña de azúcar, en tanto el Comité Nacional no adopte un acuerdo unánime que los modifique, serán vigentes el "Acuerdo que Establece las Reglas para Determinación del Precio de Referencia del Azúcar para el Pago de la Caña de Azúcar", publicado en el Diario Oficial de la Federación de fecha 26 de marzo de 1997; el "Acuerdo que Reforma al Diverso que Establece las Reglas para la Determinación del Precio de Referencia del Azúcar para el Pago de la Caña de Azúcar", publicado en el Diario Oficial de la Federación de fecha 31 de marzo de 1998 y el Acuerdo del Comité Nacional de la Agroindustria Azucarera, aprobado en su sesión ordinaria del 10 de octubre de 1991, relativo al "Sistema para Determinar el Azúcar Recuperable Base Estándar Uniforme de la Caña Industrializada en cada ingenio del País", conforme lo establece el artículo DÉCIMO SEGUNDO del Decreto por el que se declara de interés público la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar, publicado el 31 de mayo de 1991, así como el Decreto que reforma el diverso por el que se declara de interés público la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar, publicado el 27 de julio de 1993.
-SEXTO.- Las organizaciones locales y nacionales de Abastecedores de Caña, que se encontraban registradas ante la Junta de Conciliación y Arbitraje de Controversias Azucareras, se les tendrá por reconocidas, debiendo actualizar su inscripción en los términos de los Artículos 34 y 38 y en concordancia con lo estipulado en el Artículo Transitorio SÉPTIMO de la presente Ley.
-SÉPTIMO.- Los programas, proyectos y las acciones que se lleven a cabo por la aplicación de la presente Ley, así como los apoyos, subsidios y beneficios que se ejerzan con recursos de carácter federal, se sujetarán a la disponibilidad de recursos que se hayan aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y deberán observar las disposiciones aplicables en materia presupuestaria.
-OCTAVO.- En tanto no se elabore por el Comité Nacional un nuevo formato de Contrato que deben celebrar los Industriales con los Abastecedores de Caña de azúcar, continuará vigente el Formato del Contrato Uniforme derivado del Decreto por el que se declara de interés público la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar, publicado en el Diario Oficial de la Federación el 31 de mayo de 1991.
+**QUINTO.-** Para el establecimiento del precio de la caña de azúcar, en tanto el Comité Nacional no adopte un acuerdo unánime que los modifique, serán vigentes el "Acuerdo que Establece las Reglas para Determinación del Precio de Referencia del Azúcar para el Pago de la Caña de Azúcar", publicado en el Diario Oficial de la Federación de fecha 26 de marzo de 1997; el "Acuerdo que Reforma al Diverso que Establece las Reglas para la Determinación del Precio de Referencia del Azúcar para el Pago de la Caña de Azúcar", publicado en el Diario Oficial de la Federación de fecha 31 de marzo de 1998 y el Acuerdo del Comité Nacional de la Agroindustria Azucarera, aprobado en su sesión ordinaria del 10 de octubre de 1991, relativo al "Sistema para Determinar el Azúcar Recuperable Base Estándar Uniforme de la Caña Industrializada en cada ingenio del País", conforme lo establece el artículo DÉCIMO SEGUNDO del Decreto por el que se declara de interés público la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar, publicado el 31 de mayo de 1991, así como el Decreto que reforma el diverso por el que se declara de interés público la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar, publicado el 27 de julio de 1993.
+**SEXTO.-** Las organizaciones locales y nacionales de Abastecedores de Caña, que se encontraban registradas ante la Junta de Conciliación y Arbitraje de Controversias Azucareras, se les tendrá por reconocidas, debiendo actualizar su inscripción en los términos de los Artículos 34 y 38 y en concordancia con lo estipulado en el Artículo Transitorio SÉPTIMO de la presente Ley.
+**SÉPTIMO.-** Los programas, proyectos y las acciones que se lleven a cabo por la aplicación de la presente Ley, así como los apoyos, subsidios y beneficios que se ejerzan con recursos de carácter federal, se sujetarán a la disponibilidad de recursos que se hayan aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y deberán observar las disposiciones aplicables en materia presupuestaria.
+**OCTAVO.-** En tanto no se elabore por el Comité Nacional un nuevo formato de Contrato que deben celebrar los Industriales con los Abastecedores de Caña de azúcar, continuará vigente el Formato del Contrato Uniforme derivado del Decreto por el que se declara de interés público la siembra, el cultivo, la cosecha y la industrialización de la caña de azúcar, publicado en el Diario Oficial de la Federación el 31 de mayo de 1991.
 México, D.F., a 21 de junio de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip.
 Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Dip.
-Marcos Morales Torres, Secretario.- Rúbricas." LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de agosto de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA SENTENCIA de nueve de julio de dos mil siete dictada en la Acción de Inconstitucionalidad 27/2005 promovida por el Procurador General de la República en contra del Congreso de la Unión y el Presidente de la República.
+Marcos Morales Torres, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de agosto de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA SENTENCIA de nueve de julio de dos mil siete dictada en la Acción de Inconstitucionalidad 27/2005 promovida por el Procurador General de la República en contra del Congreso de la Unión y el Presidente de la República.
 Publicada en el Diario Oficial de la Federación el 7 de diciembre de 2007 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCION DE INCONSTITUCIONALIDAD 27/2005.
 PROMOVENTE: PROCURADOR GENERAL DE LA REPUBLICA.
 MINISTRO PONENTE: JUAN N. SILVA MEZA.
 SECRETARIA: GUILLERMINA COUTIÑO MATA.
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al día nueve de julio de dos mil siete.
 VISTOS; y RESULTANDO:
-PRIMERO A DECIMO.- ……….
+**PRIMERO.** A DECIMO.- ……….
 CONSIDERANDO:
-PRIMERO A QUINTO.- ……….
-SEXTO.- ……….
+**PRIMERO.** A QUINTO.- ……….
+**SEXTO.-** ……….
 En consecuencia, se declara la invalidez del artículo 50, en la porción normativa de su segundo párrafo que señala: “así como a la jurisdicción de la Junta Permanente”; del artículo 56 en su integridad, el que prevé que “Los Ingenios y sus Abastecedores de Caña se someterán expresamente a la jurisdicción de la Junta Permanente con el objeto de dirimir las controversias que surjan con motivo del incumplimiento de lo establecido en la presente Ley y del Contrato que celebren y demás disposiciones derivadas y relacionadas”; y el artículo 125, en su integridad, el que señala: “Para la resolución de las controversias azucareras que se susciten, los Abastecedores de Caña y los Industriales deberán someterse a la jurisdicción de la Junta Permanente, a petición de parte, en los términos establecidos en esta Ley, en el Contrato y demás disposiciones derivadas.-- Las partes deberán cumplir con las resoluciones que dicte la Junta Permanente, una vez que causen estado”, todos de la Ley de Desarrollo Sustentable de la Caña de Azúcar, esta declaratoria de invalidez surtirá efectos al día siguiente de la publicación de la presente ejecutoria, en el Diario Oficial de la Federación.
 SEPTIMO A DECIMO.- ……….
 Por lo expuesto y fundado se resuelve:
-PRIMERO.- Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR SEGUNDO.- Se declara la invalidez de los artículos 50, segundo párrafo, última parte, 56 y 125, de la Ley de Desarrollo Sustentable de la Caña de Azúcar, en las porciones normativas que se precisan en el considerando sexto de esta sentencia.
-TERCERO.- La declaratoria de invalidez contenida en el resolutivo que antecede surtirá efectos en los términos precisados en el último considerando de esta resolución.
-CUARTO.- Se reconoce la validez de los artículos 5, 7, fracción VII, 10, fracción XI, 34, 38, 57, 58, 98 y 119 de la Ley de Desarrollo Sustentable de la Caña de Azúcar, por las razones señaladas en los considerandos quinto, sexto última parte, séptimo y octavo de esta ejecutoria.
-QUINTO.- Se desestima la presente acción de inconstitucionalidad respecto del artículo 87 de la Ley de Desarrollo Sustentable de la Caña de Azúcar, por la razón señalada en el considerando noveno de esta ejecutoria.
-SEXTO.- Publíquese esta sentencia en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
+**PRIMERO.-** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.-** Se declara la invalidez de los artículos 50, segundo párrafo, última parte, 56 y 125, de la Ley de Desarrollo Sustentable de la Caña de Azúcar, en las porciones normativas que se precisan en el considerando sexto de esta sentencia.
+**TERCERO.-** La declaratoria de invalidez contenida en el resolutivo que antecede surtirá efectos en los términos precisados en el último considerando de esta resolución.
+**CUARTO.-** Se reconoce la validez de los artículos 5, 7, fracción VII, 10, fracción XI, 34, 38, 57, 58, 98 y 119 de la Ley de Desarrollo Sustentable de la Caña de Azúcar, por las razones señaladas en los considerandos quinto, sexto última parte, séptimo y octavo de esta ejecutoria.
+**QUINTO.-** Se desestima la presente acción de inconstitucionalidad respecto del artículo 87 de la Ley de Desarrollo Sustentable de la Caña de Azúcar, por la razón señalada en el considerando noveno de esta ejecutoria.
+**SEXTO.-** Publíquese esta sentencia en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente.
-Puesto a votación el proyecto modificado, por unanimidad de nueve votos de los señores Ministros Aguirre Anguiano, Franco González Salas, Góngora Pimentel, Gudiño Pelayo, Azuela Güitrón, Valls Hernández, Sánchez Cordero de García Villegas, Silva Meza y Presidente Ortiz Mayagoitia se aprobaron: el Resolutivo Primero; el Resolutivo Segundo, excepto la declaración de invalidez del artículo 87, la que se aprobó por mayoría de siete votos de los señores Ministros Aguirre Anguiano, Franco González Salas, Góngora Pimentel, Gudiño Pelayo, Azuela Güitrón, Sánchez Cordero de García Villegas y Presidente Ortiz Mayagoitia, votaron en contra los señores Ministros Valls Hernández y Silva Meza y reservaron su derecho de formular votos particulares o voto de minoría, y los señores Ministros de la mayoría reservaron el suyo para formular, en su caso y oportunidad, votos concurrentes; el Resolutivo Tercero; el Resolutivo Cuarto, excepto el reconocimiento de validez de los artículos 57 y 58, el que se aprobó por mayoría de cinco votos de los señores Ministros Franco González Salas, Góngora Pimentel, Azuela Güitrón, Valls Hernández y Silva Meza, votaron en contra los señores Ministros Aguirre Anguiano, Gudiño Pelayo, Sánchez Cordero de García Villegas y Presidente Ortiz Mayagoitia y reservaron su derecho de formular votos particulares o voto de minoría, y los señores Ministros de la mayoría reservaron el suyo para formular, en su caso y oportunidad, votos concurrentes; y el reconocimiento de validez del artículo 98, el que se aprobó por mayoría de siete votos de los señores Ministros Aguirre Anguiano, Franco González Salas, Azuela Güitrón, Valls Hernández, Sánchez Cordero de García Villegas, Silva Meza y Presidente Ortiz Mayagoitia, votaron en contra los señores Ministros Góngora Pimentel y Gudiño Pelayo y reservaron su derecho de formular votos particulares o voto de minoría, y los señores Ministros de la mayoría reservaron el suyo para formular, en su caso y oportunidad, votos concurrentes; y el Resolutivo Quinto.
-En virtud de que la declaración de invalidez del artículo 87 no obtuvo la votación calificada de ocho votos, de conformidad con lo dispuesto en el artículo 105, fracción II, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 72 de la Ley Reglamentaria de las Fracciones I y II del
+Puesto a votación el proyecto modificado, por unanimidad de nueve votos de los señores Ministros Aguirre Anguiano, Franco González Salas, Góngora Pimentel, Gudiño Pelayo, Azuela Güitrón, Valls Hernández, Sánchez Cordero de García Villegas, Silva Meza y Presidente Ortiz Mayagoitia se aprobaron: el Resolutivo Primero; el Resolutivo Segundo, excepto la declaración de invalidez del artículo 87, la que se aprobó por mayoría de siete votos de los señores Ministros Aguirre Anguiano, Franco González Salas, Góngora Pimentel, Gudiño Pelayo, Azuela Güitrón, Sánchez Cordero de García Villegas y Presidente Ortiz Mayagoitia, votaron en contra los señores Ministros Valls Hernández y Silva Meza y reservaron su derecho de formular votos particulares o voto de minoría, y los señores Ministros de la mayoría reservaron el suyo para formular, en su caso y oportunidad, votos concurrentes; el Resolutivo Tercero; el Resolutivo Cuarto, excepto el reconocimiento de validez de los artículos 57 y 58, el que se aprobó por mayoría de cinco votos de los señores Ministros Franco González Salas, Góngora Pimentel, Azuela Güitrón, Valls Hernández y Silva Meza, votaron en contra los señores Ministros Aguirre Anguiano, Gudiño Pelayo, Sánchez Cordero de García Villegas y Presidente Ortiz Mayagoitia y reservaron su derecho de formular votos particulares o voto de minoría, y los señores Ministros de la mayoría reservaron el suyo para formular, en su caso y oportunidad, votos concurrentes; y el reconocimiento de validez del artículo 98, el que se aprobó por mayoría de siete votos de los señores Ministros Aguirre Anguiano, Franco González Salas, Azuela Güitrón, Valls Hernández, Sánchez Cordero de García Villegas, Silva Meza y Presidente Ortiz Mayagoitia, votaron en contra los señores Ministros Góngora Pimentel y Gudiño Pelayo y reservaron su derecho de formular votos particulares o voto de minoría, y los señores Ministros de la mayoría reservaron el suyo para formular, en su caso y oportunidad, votos concurrentes; y el Resolutivo
+**Quinto.** En virtud de que la declaración de invalidez del artículo 87 no obtuvo la votación calificada de ocho votos, de conformidad con lo dispuesto en el artículo 105, fracción II, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 72 de la Ley Reglamentaria de las Fracciones I y II del
 
 ### artículo 105
 constitucional, deberá desestimarse la acción de inconstitucionalidad respecto de dicho precepto legal y redactarse el resolutivo y el considerando respectivos.- No asistieron la señora Ministra Margarita Luna Ramos por estar cumpliendo con una comisión de carácter oficial, y el señor Ministro José Ramón Cossío Díaz, por estar disfrutando de vacaciones en virtud de haber integrado la Comisión de Receso del Segundo Período de Sesiones de dos mil seis.
-LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR Firman el Ministro Presidente de la Suprema Corte de Justicia de la Nación Guillermo I. Ortíz Mayagoitia, y el Ministro Ponente Juan N. Silva Meza y el Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos, que autoriza y da fe.
+Firman el Ministro Presidente de la Suprema Corte de Justicia de la Nación Guillermo I. Ortíz Mayagoitia, y el Ministro Ponente Juan N. Silva Meza y el Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos, que autoriza y da fe.
 Presidente Guillermo I. Ortiz Mayagoitia.- Rúbrica.- Ministro Ponente: Juan N. Silva Meza.Rúbrica.- El Secretario General de Acuerdos, José Javier Aguilar Domínguez.- Rúbrica.
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta fotocopia constante de ochenta y ocho fojas útiles, concuerda fiel y exactamente con su original que corresponde a la sentencia de nueve de julio último dictada en la acción de inconstitucionalidad 27/2005 promovida por el Procurador General de la República en contra del Congreso de la Unión y el Presidente de la República. Se certifica para su publicación en el Diario Oficial de la Federación, en cumplimiento a lo ordenado por el Tribunal Pleno de esta Suprema Corte de Justicia de la Nación en el punto Sexto resolutivo de dicha sentencia.México, Distrito Federal, a siete de noviembre de dos mil siete.- Conste.- Rúbrica.
 VOTOS particulares que formulan los señores Ministros José Fernando Franco González Salas y Genaro David Góngora Pimentel, en la Acción de Inconstitucionalidad 27/2005, promovida por el Procurador General de la República en contra del Congreso de la Unión y del Presidente de la República.
 Publicados en el Diario Oficial de la Federación el 23 de julio de 2008 VOTO particular que formula el Ministro Sergio Salvador Aguirre Anguiano en la Acción de Inconstitucionalidad 27/2005, promovida por el Procurador General de la República en contra del Congreso de la Unión y del Presidente de la República.
-Publicado en el Diario Oficial de la Federación el 20 de octubre de 2008 LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
-Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Décimo Primero.- Se reforman los artículos 118, segundo párrafo y, 149 de la Ley de Desarrollo Sustentable de la Caña de Azúcar, para quedar como sigue: ………..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+Publicado en el Diario Oficial de la Federación el 20 de octubre de 2008 DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
+
+### Artículo Décimo Primero
+Se reforman los artículos 118, segundo párrafo y, 149 de la Ley de Desarrollo Sustentable de la Caña de Azúcar, para quedar como sigue: ………..
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
-Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia LEY DE DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+
+### artículo Sexto
+Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

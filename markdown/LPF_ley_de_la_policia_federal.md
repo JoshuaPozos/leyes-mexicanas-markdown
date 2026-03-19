@@ -5,10 +5,13 @@
 
 ---
 
-LEY DE LA POLICÍA FEDERAL LEY DE LA POLICÍA FEDERAL Nueva Ley publicada en el Diario Oficial de la Federación el 1 de junio de 2009 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 1 de junio de 2009 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
-SE EXPIDE LA LEY DE LA POLICÍA FEDERAL Artículo Único.- Se expide la Ley de la Policía Federal.
+SE EXPIDE LA
+
+### Artículo Único
+Se expide la Ley de la Policía Federal.
 Ley de la Policía Federal.
 
 ## Capítulo I
@@ -25,7 +28,6 @@ III. Prevenir la comisión de los delitos, y IV. Investigar la comisión de deli
 
 ### Artículo 3
 . Serán principios rectores en el ejercicio de las funciones y acciones que en materia de prevención y combate de los delitos le competen a la Policía Federal, los de legalidad, objetividad, eficiencia, profesionalismo, honradez y el respeto a las garantías individuales y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
-LEY DE LA POLICÍA FEDERAL
 
 ### Artículo 4
 . Para efectos de la presente Ley se entenderá por:
@@ -54,7 +56,6 @@ II. Tener cuando menos treinta y cinco años cumplidos el día de la designació
 III. Contar con título de estudios superiores debidamente registrado;
 IV. Tener reconocida capacidad y probidad, no haber sido sentenciado por delito doloso o inhabilitado como servidor público, ni estar sujeto a proceso penal;
 V. Comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública, y VI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público.
-LEY DE LA POLICÍA FEDERAL
 
 ### Artículo 8
 . La Policía Federal tendrá las atribuciones y obligaciones siguientes:
@@ -68,7 +69,7 @@ VI. Recabar información en lugares públicos, para evitar el fenómeno delictiv
 VII. Llevar a cabo operaciones encubiertas y de usuarios simulados para la prevención de delitos. El Reglamento definirá con precisión los lineamientos mínimos para el ejercicio de esta atribución;
 VIII. Realizar análisis técnico táctico o estratégico de la información obtenida para la generación de inteligencia;
 IX. Realizar bajo la conducción y mando del Ministerio Público las investigaciones de los delitos cometidos, así como las actuaciones que le instruya éste o la autoridad jurisdiccional conforme a las normas aplicables;
-LEY DE LA POLICÍA FEDERAL X. Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
+X. Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
 XI. Poner a disposición sin demora de las autoridades competentes, a personas y bienes en los casos en que por motivo de sus funciones practique alguna detención o lleve a cabo algún aseguramiento de bienes, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
 XII. Verificar la información que reciba sobre hechos que puedan ser constitutivos de delito para, en su caso, remitirla al Ministerio Público;
 XIII. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, en términos de lo aplicables;
@@ -78,8 +79,7 @@ XVII. Preservar el lugar de los hechos y la integridad de los indicios, huellas 
 XVIII. Solicitar al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación;
 XIX. Garantizar que se asiente constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación ministerial deberán elaborar informes sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;
 XX. Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
-XXI. Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá: a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables; b) Garantizar que reciban atención médica y psicológica cuando sea necesaria;
-LEY DE LA POLICÍA FEDERAL c) Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia; d) Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos sin demora al Ministerio Público encargado del asunto para que éste acuerde lo conducente, y e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
+XXI. Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá: a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables; b) Garantizar que reciban atención médica y psicológica cuando sea necesaria; c) Adoptar las medidas que se consideren necesarias tendentes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia; d) Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos sin demora al Ministerio Público encargado del asunto para que éste acuerde lo conducente, y e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 XXII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones;
 XXIII. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación en caso de flagrancia o por mandato del Ministerio Público, en términos de las disposiciones aplicables. De las entrevistas que se practiquen se dejará constancia y se utilizarán meramente como un registro de la investigación, que para tener valor probatorio, deberán ser ratificadas ante la autoridad ministerial o judicial que corresponda;
 XXIV. Reunir la información que pueda ser útil al Ministerio Público que conozca del asunto, para acreditar el cuerpo del delito y la probable responsabilidad del imputado, conforme a las instrucciones de aquél;
@@ -89,7 +89,7 @@ XXVII. Coordinarse en los términos que señala el Sistema Nacional de Seguridad
 XXVIII. Solicitar por escrito, previa autorización del juez de control en los términos del artículo 16 Constitucional, a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones, de sistemas de comunicación vía satélite, la información con que cuenten, así como georreferenciación de los equipos de comunicación móvil en tiempo real, para el cumplimiento de sus fines de prevención de los delitos. La autoridad judicial competente, deberá acordar la solicitud en un plazo no mayor de doce horas a partir de su presentación;
 XXIX. Solicitar por escrito ante el juez de control, en términos del capítulo XI de la presente Ley, la autorización para la intervención de comunicaciones privadas para la investigación de los delitos. La autoridad judicial competente deberá acordar la solicitud en un plazo no mayor de doce horas a partir de su presentación;
 XXX. Colaborar, cuando sean formalmente requeridas, de conformidad con los ordenamientos constitucionales y legales aplicables, con las autoridades locales y municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por situaciones que impliquen violencia o riesgo inminente; prevenir la comisión de delitos, así como garantizar, mantener y restablecer la paz y el orden públicos;
-LEY DE LA POLICÍA FEDERAL XXXI. Participar en operativos conjuntos con otras autoridades federales, locales o municipales, que se lleven a cabo conforme a lo dispuesto en la legislación relativa al Sistema Nacional de Seguridad Pública;
+XXXI. Participar en operativos conjuntos con otras autoridades federales, locales o municipales, que se lleven a cabo conforme a lo dispuesto en la legislación relativa al Sistema Nacional de Seguridad Pública;
 XXXII. Obtener, analizar y procesar información así como realizar las acciones que, conforme a las disposiciones aplicables, resulten necesarias para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes federales;
 XXXIII. Vigilar e inspeccionar, para fines de seguridad pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en ellas;
 XXXIV. Vigilar, supervisar, asegurar y custodiar, a solicitud de la autoridad competente, las instalaciones de los centros federales de detención, reclusión, readaptación y reinserción social, con apego a los derechos humanos reconocidos en la Constitución federal;
@@ -103,7 +103,7 @@ XL. Apoyar el aseguramiento que realice el Instituto Nacional de Migración y, e
 XLI. Estudiar, planificar y ejecutar los métodos y técnicas de combate a la delincuencia;
 XLII. Realizar acciones de vigilancia, identificación, monitoreo y rastreo en la Red Pública de Internet sobre sitios web con el fin de prevenir conductas delictivas;
 XLIII. Desarrollar, mantener y supervisar fuentes de información en la sociedad, que permitan obtener datos sobre actividades relacionadas con fenómenos delictivos;
-LEY DE LA POLICÍA FEDERAL XLIV. Integrar en el Registro Administrativo de Detenciones y demás bases de datos criminalísticos y de personal, las huellas decadactilares y otros elementos distintos a las fotografías y videos para identificar a una persona, solicitando a las autoridades de los tres órdenes de gobierno la información respectiva con que cuenten;
+XLIV. Integrar en el Registro Administrativo de Detenciones y demás bases de datos criminalísticos y de personal, las huellas decadactilares y otros elementos distintos a las fotografías y videos para identificar a una persona, solicitando a las autoridades de los tres órdenes de gobierno la información respectiva con que cuenten;
 XLV. Suscribir convenios o instrumentos jurídicos con otras instituciones policiales de los tres órdenes de gobierno y organizaciones no gubernamentales para el desempeño de sus atribuciones, en el marco de la ley;
 XLVI. Colaborar y prestar auxilio a las policías de otros países, en el ámbito de su competencia, y XLVII. Las demás que le confieran ésta y otras leyes.
 
@@ -123,7 +123,7 @@ VIII. Proponer al Secretario, los nombramientos de los mandos superiores de la P
 IX. Designar a los integrantes en cargos administrativos o de dirección de la estructura orgánica de la propia institución y relevarlos libremente de los mismos, respetando su grado policial y derechos inherentes a la Carrera Policial;
 X. Otorgar, en términos que establezca el Reglamento, los grados policiales homólogos;
 XI. Adscribir funcionalmente, con la aprobación del Secretario y conforme a esta ley y su Reglamento, las unidades administrativas a su mando, mediante acuerdo publicado en el Diario Oficial de la Federación;
-LEY DE LA POLICÍA FEDERAL XII. Autorizar, previo acuerdo con el Secretario, operaciones encubiertas y de usuarios simulados para desarrollar operaciones de inteligencia para la prevención;
+XII. Autorizar, previo acuerdo con el Secretario, operaciones encubiertas y de usuarios simulados para desarrollar operaciones de inteligencia para la prevención;
 XIII. Ser el enlace institucional con organismos policiales gubernamentales y no gubernamentales homólogos, nacionales y extranjeros, que se relacionen con el ámbito de sus atribuciones;
 XIV. Informar al Secretario, con la periodicidad que él determine, sobre el desempeño de las atribuciones de la Policía Federal y de los resultados alcanzados;
 XV. Presidir el Consejo Federal, por sí o por conducto de quien designe;
@@ -146,7 +146,7 @@ Del Personal Activo.
 
 ### Artículo 14
 . La relación entre la Policía Federal y su personal se regulará por lo dispuesto en el apartado B, del artículo 123 Constitucional, la presente Ley y las demás disposiciones aplicables.
-Los integrantes podrán ser separados de su cargo si no cumplen con los requisitos que esta ley señala para permanecer en la institución, o removidos por incurrir en responsabilidad en el desempeño LEY DE LA POLICÍA FEDERAL de sus funciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación o la remoción.
+Los integrantes podrán ser separados de su cargo si no cumplen con los requisitos que esta ley señala para permanecer en la institución, o removidos por incurrir en responsabilidad en el desempeño de sus funciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación o la remoción.
 Si la autoridad jurisdiccional resuelve que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Secretaría sólo estará obligada a pagar la indemnización y demás prestaciones señaladas en la resolución respectiva, sin que en ningún caso proceda su reincorporación o reinstalación a la Policía Federal.
 
 ### Artículo 15
@@ -166,7 +166,7 @@ VI. Los méritos de los integrantes serán evaluados por el Consejo Federal, enc
 VIII. El Reglamento establecerá un régimen de estímulos y previsión social que corresponda a las funciones de los integrantes;
 IX. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio, sin que esa adscripción implique inamovilidad en la sede a la que fueron destinados;
 X. El cambio de un integrante de un área operativa a otra de distinta especialidad sólo podrá ser autorizado por el Consejo Federal;
-LEY DE LA POLICÍA FEDERAL XI. Las sanciones de amonestación, suspensión o remoción que se apliquen a los integrantes, se determinarán mediante el procedimiento que señala la Ley y su Reglamento. En el procedimiento de aplicación de sanciones se salvaguardará en todo tiempo la garantía de audiencia;
+XI. Las sanciones de amonestación, suspensión o remoción que se apliquen a los integrantes, se determinarán mediante el procedimiento que señala la Ley y su Reglamento. En el procedimiento de aplicación de sanciones se salvaguardará en todo tiempo la garantía de audiencia;
 XII. Los procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de integrantes serán establecidos en las disposiciones reglamentarias que al efecto se expidan, y XIII. El Consejo Federal aplicará los procedimientos relativos a cada una de las etapas de la Carrera Policial.
 La Carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a desempeñar en la Policía Federal. En ningún caso los derechos adquiridos en la Carrera Policial implicarán inamovilidad en cargo alguno.
 
@@ -182,7 +182,7 @@ VI. Aprobar los procesos de evaluación de control de confianza;
 VII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 VIII. No padecer alcoholismo;
 IX. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
-LEY DE LA POLICÍA FEDERAL X. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+X. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 XI. Cumplir con los deberes establecidos en esta ley, y demás disposiciones que deriven de ésta;
 XII. Los demás que establezcan otras disposiciones legales aplicables.
 B. Para la Permanencia:
@@ -200,7 +200,7 @@ XI. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso 
 XII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 XIII. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días;
 XIV. Abstenerse de incurrir en cualquier acto u omisión que afecte la prestación del servicio;
-LEY DE LA POLICÍA FEDERAL XV. No incurrir en actos u omisiones que causen la pérdida de confianza, y XVI. Las demás que establezcan las disposiciones legales aplicables.
+XV. No incurrir en actos u omisiones que causen la pérdida de confianza, y XVI. Las demás que establezcan las disposiciones legales aplicables.
 
 ## Capítulo V
 Del Régimen Disciplinario.
@@ -222,7 +222,7 @@ VIII. Abstenerse de ordenar o realizar la detención de persona alguna sin cumpl
 IX. Velar por la vida e integridad física de las personas detenidas;
 X. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
 XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por su corporación;
-LEY DE LA POLICÍA FEDERAL XII. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+XII. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 XIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
 XV. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
@@ -237,7 +237,7 @@ XXIII. Abstenerse de introducir a las instalaciones de sus instituciones bebidas
 XXIV. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las Instituciones;
 XXV. Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes;
 XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
-LEY DE LA POLICÍA FEDERAL XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
+XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
 XXVIII. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados, sea autorizado mediante prescripción médica, avalada y certificada por los servicios médicos de la Policía Federal;
 XXIX. Abstenerse de consumir en las instalaciones de la Policía Federal o en actos del servicio, bebidas embriagantes, así como presentarse a su servicio en estado de ebriedad;
 XXX. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Policía Federal, dentro o fuera del servicio;
@@ -258,7 +258,7 @@ III. Daños infligidos a la ciudadanía;
 IV. Condiciones socioeconómicas del infractor;
 V. Cargo, comisión, categoría jerárquica y antigüedad;
 VI. Conducta observada con anterioridad al hecho;
-LEY DE LA POLICÍA FEDERAL VII. Circunstancias de ejecución;
+VII. Circunstancias de ejecución;
 VIII. Intencionalidad o negligencia;
 IX. Perjuicios originados al servicio;
 X. Daños producidos a otros integrantes;
@@ -278,7 +278,7 @@ Al concluir el servicio el integrante deberá entregar al funcionario designado 
 
 ## Capítulo VII
 Del Consejo Federal de Desarrollo Policial.
-LEY DE LA POLICÍA FEDERAL Sección Primera.
+Sección Primera.
 Generalidades.
 
 ### Artículo 24
@@ -304,7 +304,7 @@ XII. Analizar la formación, capacitación, adiestramiento, desarrollo, actualiz
 XIII. Resolver, de acuerdo a las necesidades del servicio, la reubicación de los integrantes de un área operativa a otra;
 XIV. Sustanciar los procedimientos disciplinarios por incumplimiento a los deberes u obligaciones de los integrantes, preservando el derecho a la garantía de audiencia;
 XV. Conocer y resolver sobre el otorgamiento de constancias de grado y estímulos a los integrantes, conforme al procedimiento establecido en el Reglamento de la presente Ley;
-LEY DE LA POLICÍA FEDERAL XVI. Establecer el régimen homólogo de grados para el personal de servicios, conforme a las instrucciones del Comisionado General;
+XVI. Establecer el régimen homólogo de grados para el personal de servicios, conforme a las instrucciones del Comisionado General;
 XVII. Crear las comisiones, comités y grupos de trabajo del Servicio Profesional, Régimen Disciplinario y demás que resulten necesarias, de acuerdo al tema o actividad a desarrollar, supervisando su actuación;
 XVIII. Sancionar a los integrantes por incumplimiento a los deberes previstos en la presente Ley y disposiciones aplicables que deriven de ésta;
 XIX. Resolver los recursos de revisión promovidos contra las sanciones impuestas por violación al Régimen Disciplinario;
@@ -327,8 +327,7 @@ V. Un Consejero por cada área operativa, y VI. Un Consejero por el área juríd
 Los integrantes del Consejo Federal serán de carácter permanente, y se designará a un suplente, de conformidad con el Reglamento.
 
 ### Artículo 29
-. El Consejo Federal contará con el personal necesario para el despacho de sus asuntos, mismos que serán designados por el Pleno, conforme a las disponibilidades presupuestales.
-LEY DE LA POLICÍA FEDERAL como los procedimientos correspondientes para el desarrollo sus atribuciones.
+. El Consejo Federal contará con el personal necesario para el despacho de sus asuntos, mismos que serán designados por el Pleno, conforme a las disponibilidades presupuestales. como los procedimientos correspondientes para el desarrollo sus atribuciones.
 
 ## Capítulo VIII
 Del Procedimiento.
@@ -350,7 +349,7 @@ La audiencia se celebrará dentro de un plazo no menor de cinco ni mayor de vein
 ### Artículo 34
 . La notificación del citatorio se realizará en el domicilio oficial de la adscripción del presunto infractor, en el último que hubiera reportado, o en el lugar en que se encuentre físicamente y se le hará saber el lugar donde quedará a disposición en tanto se dicte la resolución definitiva respectiva.
 Asimismo, el infractor deberá señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia del Consejo Federal que conozca del asunto, apercibiéndolo que en caso de no hacerlo las subsecuentes notificaciones se realizarán en un lugar visible al público dentro de las instalaciones que ocupe el propio Consejo; del mismo modo, en caso de no ofrecer pruebas y defensas, la imputación se tendrá por consentida y aceptada.
-El presidente del Consejo Federal podrá determinar la suspensión temporal del empleo, cargo o comisión del presunto infractor, previo o posteriormente a la notificación del inicio del procedimiento, si a su juicio es conveniente para la continuación del procedimiento o de las investigaciones. Esta medida no LEY DE LA POLICÍA FEDERAL prejuzga sobre la responsabilidad que se impute, debiéndose asentar expresamente esta salvedad. El presunto infractor suspendido podrá impugnar esta determinación en reclamación ante el Pleno del Consejo.
+El presidente del Consejo Federal podrá determinar la suspensión temporal del empleo, cargo o comisión del presunto infractor, previo o posteriormente a la notificación del inicio del procedimiento, si a su juicio es conveniente para la continuación del procedimiento o de las investigaciones. Esta medida no prejuzga sobre la responsabilidad que se impute, debiéndose asentar expresamente esta salvedad. El presunto infractor suspendido podrá impugnar esta determinación en reclamación ante el Pleno del Consejo.
 
 ### Artículo 35
 . El día y hora señalados para la comparecencia del presunto infractor, el presidente de la instancia declarará formalmente abierta la audiencia y enseguida, el Secretario tomará los generales de aquél y de su defensor, a quien protestará en el cargo y apercibirá al primero para conducirse con verdad. Acto seguido procederá a dar lectura a las constancias relativas a la imputación y datos de cargo, con la finalidad de hacer saber al presunto infractor los hechos que se le atribuyen.
@@ -373,7 +372,6 @@ Si el oferente no puede presentar a los testigos, deberá señalar su domicilio 
 ### Artículo 38
 . Si el Secretario de la instancia lo considera necesario, por lo extenso o particular de las pruebas presentadas, cerrará la audiencia, levantando el acta correspondiente, y establecerá un término probatorio de diez días para su desahogo.
 En caso contrario, se procederá a la formulación de alegatos y posteriormente al cierre de instrucción del procedimiento.
-LEY DE LA POLICÍA FEDERAL
 
 ### Artículo 39
 . Una vez desahogadas todas las pruebas y presentados los alegatos, el Presidente de la instancia cerrará la instrucción.
@@ -409,7 +407,6 @@ De la Coordinación y Cooperación con otras Autoridades.
 
 ### Artículo 45
 . En sus funciones de investigación y combate a los delitos, la Policía Federal actuará bajo el mando y conducción del Ministerio Público, con el fin de que sus actuaciones se lleven a cabo en el marco de la legalidad y con las formalidades necesarias para que los resultados de tales actuaciones puedan presentarse como evidencia ante los tribunales.
-LEY DE LA POLICÍA FEDERAL
 
 ### Artículo 46
 . Cuando durante el desarrollo de la investigación ministerial la Policía Federal estime necesaria la realización de diligencias que requieran una tramitación especial o la autorización de la autoridad jurisdiccional, lo comunicará sin demora al Ministerio Público quien resolverá lo conducente.
@@ -433,8 +430,7 @@ En caso de que durante la investigación preventiva se advierta que alguno de lo
 En la autorización, la autoridad judicial competente determinará las características de la intervención, sus modalidades y límites y, en su caso, ordenará a instituciones públicas o privadas, modos específicos de colaboración.
 
 ### Artículo 51
-. La intervención preventiva de comunicaciones a que se refiere esta Ley, se autorizará únicamente en los delitos previstos en los ordenamientos legales que a continuación se enlistan: a) Evasión de Presos; previsto en el artículo 150;
-LEY DE LA POLICÍA FEDERAL b) Contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 Bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero; c) Corrupción de menores o incapaces, previsto en los artículos 200, 201 y 201 bis; d) Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el Capítulo II; e) Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 bis; f) Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; g) Explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208; h) Asalto en carreteras o caminos, previsto en el artículo 286, segundo párrafo; i) Homicidios relacionados con la delincuencia organizada; j) Tráfico de menores, previsto en el artículo 366 Ter;
+. La intervención preventiva de comunicaciones a que se refiere esta Ley, se autorizará únicamente en los delitos previstos en los ordenamientos legales que a continuación se enlistan: a) Evasión de Presos; previsto en el artículo 150; b) Contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 Bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero; c) Corrupción de menores o incapaces, previsto en los artículos 200, 201 y 201 bis; d) Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el Capítulo II; e) Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 bis; f) Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; g) Explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208; h) Asalto en carreteras o caminos, previsto en el artículo 286, segundo párrafo; i) Homicidios relacionados con la delincuencia organizada; j) Tráfico de menores, previsto en el artículo 366 Ter;
 Inciso reformado DOF 30-11-2010 k) Robo de vehículo, previsto en el artículo 376 Bis; l) Los previstos en el artículo 377; m) Extorsión, previsto en el artículo 390; n) Operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis;
 II. De la Ley Federal de Armas de Fuego y Explosivos el delito de introducción clandestina de armas de fuego en términos de la Ley Federal contra la Delincuencia Organizada;
 III. De la Ley General de Salud, el delito de tráfico de órganos previsto en los artículos 461, 462 y 462 Bis;
@@ -442,7 +438,7 @@ Fracción reformada DOF 30-11-2010 IV. De la Ley de Migración, el delito de tr�
 Fracción adicionada DOF 30-11-2010
 
 ### Artículo 52
-. En la autorización que otorgue la autoridad judicial competente deberá ordenar que, cuando en la misma práctica sea necesario ampliar a otros sujetos o lugares la intervención, se deberá LEY DE LA POLICÍA FEDERAL presentar ante la autoridad judicial competente, una nueva solicitud; también ordenará que al concluir cada intervención se levante un acta que contendrá un inventario pormenorizado de la información de audio o video que contengan los sonidos o imágenes captadas durante la intervención, así como que se le entregue un informe sobre sus resultados, a efecto de constatar el debido cumplimiento de la autorización otorgada.
+. En la autorización que otorgue la autoridad judicial competente deberá ordenar que, cuando en la misma práctica sea necesario ampliar a otros sujetos o lugares la intervención, se deberá presentar ante la autoridad judicial competente, una nueva solicitud; también ordenará que al concluir cada intervención se levante un acta que contendrá un inventario pormenorizado de la información de audio o video que contengan los sonidos o imágenes captadas durante la intervención, así como que se le entregue un informe sobre sus resultados, a efecto de constatar el debido cumplimiento de la autorización otorgada.
 La autoridad judicial competente podrá, en cualquier momento, verificar que las intervenciones sean realizadas en los términos autorizados y, en caso de incumplimiento, decretar su revocación parcial o total.
 La autoridad judicial competente deberá acordar la solicitud en un plazo no mayor de doce horas a partir de su presentación.
 Independientemente de lo anterior, la Policía Federal deberá rendir un informe mensual sobre la intervención, que la autoridad judicial competente pondrá a disposición del Ministerio Público.
@@ -458,33 +454,57 @@ Todos los integrantes de la Policía Federal que den cumplimiento a una interven
 
 ### Artículo 55
 . En el caso de la solicitud de información dispuesta en la fracción XXVIII del artículo 8 de esta Ley, se aplicará en lo conducente el procedimiento a que se refiere este capitulo.
-Transitorios.
-Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-Artículo Segundo. Todas las menciones que en cualquier disposición se hagan respecto de la Policía Federal Preventiva se entenderán referidas a la Policía Federal.
-LEY DE LA POLICÍA FEDERAL Artículo Tercero. Los procedimientos que a la fecha de entrada en vigor del presente decreto se estén substanciando en las Comisiones de Honor y Justicia y la del Servicio Civil de Carrera Policial de la Policía Federal Preventiva, deberán continuar su trámite ante el Consejo Federal de Desarrollo Policial, conforme a las disposiciones legales vigentes al momento de su inicio.
-Artículo Cuarto. Los programas, proyectos, y demás acciones que, en cumplimiento de lo dispuesto en esta ley y en razón de su competencia, corresponda ejecutar a las dependencias y entidades de la Administración Pública Federal, deberán sujetarse a la disponibilidad presupuestaria de las mismas y la que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
-Artículo Quinto. Se abroga la Ley de la Policía Federal Preventiva y se derogan las disposiciones que se opongan a la presente Ley.
+
+## Transitorios
+
+.
+
+### Artículo Primero
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+### Artículo Segundo
+Todas las menciones que en cualquier disposición se hagan respecto de la Policía Federal Preventiva se entenderán referidas a la Policía Federal.
+
+### Artículo Tercero
+Los procedimientos que a la fecha de entrada en vigor del presente decreto se estén substanciando en las Comisiones de Honor y Justicia y la del Servicio Civil de Carrera Policial de la Policía Federal Preventiva, deberán continuar su trámite ante el Consejo Federal de Desarrollo Policial, conforme a las disposiciones legales vigentes al momento de su inicio.
+
+### Artículo Cuarto
+Los programas, proyectos, y demás acciones que, en cumplimiento de lo dispuesto en esta ley y en razón de su competencia, corresponda ejecutar a las dependencias y entidades de la Administración Pública Federal, deberán sujetarse a la disponibilidad presupuestaria de las mismas y la que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+### Artículo Quinto
+Se abroga la Ley de la Policía Federal Preventiva y se derogan las disposiciones que se opongan a la presente Ley.
 México, D.F., a 30 de abril de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. Margarita Arenas Guzman, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
-LEY DE LA POLICÍA FEDERAL ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública.
-Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010 ARTÍCULO SEXTO. Se reforman el inciso j), de la fracción I y las fracciones III y IV; y se adiciona la fracción V, todas del artículo 51 de la Ley de la Policía Federal, para quedar como sigue: ……….
-ARTÍCULOS TRANSITORIOS Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
-Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
-Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-Cuarto. La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
-Quinto. Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
-Sexto. El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
-Séptimo. El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
-LEY DE LA POLICÍA FEDERAL Octavo. La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
-Noveno. El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
-Décimo. Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
-Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
-Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública.
+Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010
+
+### ARTÍCULO SEXTO
+Se reforman el inciso j), de la fracción I y las fracciones III y IV; y se adiciona la fracción V, todas del artículo 51 de la Ley de la Policía Federal, para quedar como sigue: ……….
+ARTÍCULOS TRANSITORIOS
+**Primero.** El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+**Tercero.** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+**Cuarto.** La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
+**Quinto.** Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+**Sexto.** El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
+**Séptimo.** El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
+**Octavo.** La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
+**Noveno.** El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
+**Décimo.** Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
+**Décimo Primero.** El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
+**Décimo Segundo.** En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 México, D. F., a 7 de octubre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. María de Jesús Aguirre Maldonado, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 29 de noviembre de 2010.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-LEY DE LA POLICÍA FEDERAL DECRETO por el que se expide la Ley de Migración y se reforman, derogan y adicionan Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.
-Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011 ARTÍCULO SEXTO. Se reforma el artículo 51, fracción IV de la Ley de la Policía Federal, para quedar como sigue: ……… TRANSITORIOS DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del
+DECRETO por el que se expide la Ley de Migración y se reforman, derogan y adicionan Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.
+Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011
+
+### ARTÍCULO SEXTO
+Se reforma el artículo 51, fracción IV de la Ley de la Policía Federal, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA  , DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del
 
 ### artículo 3o
 . y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
@@ -492,7 +512,7 @@ Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de I
 TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
 CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-LEY DE LA POLICÍA FEDERAL SENTENCIA dictada por el Tribunal Pleno en la Acción de Inconstitucionalidad 48/2009, promovida por la Comisión Nacional de los Derechos Humanos, así como voto particular formulado por el Ministro Sergio A. Valls Hernández.
+SENTENCIA dictada por el Tribunal Pleno en la Acción de Inconstitucionalidad 48/2009, promovida por la Comisión Nacional de los Derechos Humanos, así como voto particular formulado por el Ministro Sergio A. Valls Hernández.
 Publicada en el Diario Oficial de la Federación el 24 de junio de 2011 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCION DE INCONSTITUCIONALIDAD 48/2009.
 PROMOVENTE: COMISION NACIONAL DE LOS DERECHOS HUMANOS.
 MINISTRO PONENTE: SERGIO A. VALLS HERNANDEZ.
@@ -508,7 +528,7 @@ SEGUNDO.- Se desestima la presente acción de inconstitucionalidad en relación 
 TERCERO.- Se declara la invalidez de los artículos 17, apartado A, fracción I, de la Ley de la Policía Federal, 23, párrafo segundo, inciso a), 34, fracción I, inciso a), 35, fracción I, inciso a) y 36, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República, en las respectivas porciones normativas que indican “por nacimiento”; así como 17, apartado A, fracción I, de la Ley de la Policía Federal y 35, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República, en las porciones normativas que indican: “sin tener otra nacionalidad”, la que surtirá efectos a partir de la fecha de notificación de los presentes puntos resolutivos al Congreso de la Unión.
 CUARTO.- Se reconoce la validez de los artículos 7o., fracción I, en la porción normativa que indica: “no tenga otra nacionalidad”, 8o., fracción VII, 10, fracción XII y 22, fracción I, inciso a), de la Ley de la Policía Federal; y 18, fracción I y 36, fracción I, inciso a), salvo en la porción normativa indicada en el resolutivo anterior, de la Ley Orgánica de la Procuraduría General de la República, así como 87 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, en términos de los considerandos quinto, sexto y séptimo de esta resolución.
 QUINTO.- Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta”.
-LEY DE LA POLICÍA FEDERAL Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
+Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
 En relación con el punto resolutivo Primero:
 Se aprobó por unanimidad de votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza.
@@ -518,7 +538,7 @@ Por tanto, dada la votación de seis votos a favor de la propuesta de declarar f
 En relación con el punto resolutivo Tercero:
 Por mayoría de diez votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza, en cuanto a declarar la invalidez del artículo 17, apartado A, fracción I, de la Ley de la Policía Federal, en la porción normativa que indica “por nacimiento”, al ser violatorio del artículo 1o. constitucional al discriminar a los mexicanos por naturalización respecto de los mexicanos por nacimiento. El señor Ministro Franco González Salas votó en contra.
 Por mayoría de nueve votos de los señores Ministros Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza, en cuanto a declarar la invalidez del artículo 23, párrafo segundo, inciso a), de la Ley Orgánica de la Procuraduría General de la República en la porción normativa que indica: “por nacimiento”, al ser violatorio del artículo 1o. constitucional al discriminar a los mexicanos por naturalización respecto de los mexicanos por nacimiento. Los señores Ministros Aguirre Anguiano y Franco González Salas votaron en contra del proyecto.
-Por mayoría de diez votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza, en cuanto a declarar la invalidez de los artículos 34, fracción I, inciso a), 35, fracción I, inciso a) y 36, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República, en sus porciones normativas que indican “por nacimiento”, al ser violatorios del artículo 1o. constitucional al discriminar a los mexicanos por naturalización respecto de los LEY DE LA POLICÍA FEDERAL mexicanos por nacimiento, votaron a favor. El señor Ministro Franco González Salas votó en contra del proyecto.
+Por mayoría de diez votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza, en cuanto a declarar la invalidez de los artículos 34, fracción I, inciso a), 35, fracción I, inciso a) y 36, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República, en sus porciones normativas que indican “por nacimiento”, al ser violatorios del artículo 1o. constitucional al discriminar a los mexicanos por naturalización respecto de los mexicanos por nacimiento, votaron a favor. El señor Ministro Franco González Salas votó en contra del proyecto.
 Por mayoría de ocho votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas y Presidente Silva Meza, en cuanto a declarar la invalidez del artículo 17, apartado A, fracción I, de la Ley de la Policía Federal, en la porción normativa que indica “sin tener otra nacionalidad”. Los señores Ministros Franco González Salas, Valls Hernández y Ortiz Mayagoitia votaron en contra.
 Por mayoría de nueve votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza, en cuanto a declarar la invalidez del artículo 35, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República que indica “sin tener otra nacionalidad”.
 Los señores Ministros Franco González Salas y Valls Hernández votaron en contra.
@@ -535,19 +555,28 @@ Por mayoría de seis votos de los señores Ministros Aguirre Anguiano, Luna Ramo
 ### artículo 36
 , fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República, sin tomar en cuenta la porción normativa que indica “por nacimiento”. Los señores Ministros Cossío Díaz, Zaldívar Lelo de Larrea, Valls Hernández, Sánchez Cordero de García Villegas y Presidente Silva Meza votaron en contra.
 Por mayoría de siete votos de los señores Ministros Aguirre Anguiano, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales y Ortiz Mayagoitia, en cuanto al reconocimiento de validez del artículo 87 de la Ley de Fiscalización y Rendición de Cuentas de la Federación. Los señores Ministros Cossío Díaz, Valls Hernández, Sánchez Cordero de García Villegas y Presidente Silva Meza votaron en contra.
-LEY DE LA POLICÍA FEDERAL En relación con el punto resolutivo Quinto:
+En relación con el punto resolutivo Quinto:
 Se aprobó por unanimidad de votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Valls Hernández, Sánchez Cordero de García Villegas, Ortiz Mayagoitia y Presidente Silva Meza.
 Los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Valls Hernández, Sánchez Cordero de García Villegas y Presidente Silva Meza, reservaron su derecho para formular votos particulares, de minoría o concurrentes.
 El señor Ministro Presidente Juan N. Silva Meza declaró que el asunto se resolvió en los términos precisados. Doy fe.
 El Ministro Presidente, Juan N. Silva Meza.- Rúbrica.- El Ministro Ponente, Sergio A. Valls Hernández.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta fotocopia constante de ciento doce fojas útiles, concuerda fiel y exactamente con su original que corresponde a la sentencia del catorce de abril de dos mil once, dictada por el Tribunal Pleno en la acción de inconstitucionalidad 48/2009, promovida por la Comisión Nacional de los Derechos Humanos. Se certifica para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a ocho de junio de dos mil once.- Rúbrica.
-LEY DE LA POLICÍA FEDERAL DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
-Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Vigésimo Primero.- Se reforma el artículo 42 de la Ley de la Policía Federal, para quedar como sigue: ……..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
+
+### Artículo Vigésimo Primero
+Se reforma el artículo 42 de la Ley de la Policía Federal, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
-Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia LEY DE LA POLICÍA FEDERAL Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+
+### artículo Sexto
+Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

@@ -5,19 +5,24 @@
 
 ---
 
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL Nueva Ley publicada en el Diario Oficial de la Federación el 13 de mayo de 2005 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 13 de mayo de 2005 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-SE REFORMA LA LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS Y SE EXPIDE LA LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL Artículo Primero.- ..........
-Artículo Segundo.- Se expide la Ley de Fondos de Aseguramiento Agropecuario y Rural, para quedar como sigue:
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL TÍTULO PRELIMINAR DISPOSICIONES GENERALES Capítulo Único
+SE REFORMA LA LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS Y SE EXPIDE LA LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL
+
+### Artículo Primero
+..........
+
+### Artículo Segundo
+Se expide la Ley de Fondos de Aseguramiento Agropecuario y Rural, para quedar como sigue:
+TÍTULO PRELIMINAR DISPOSICIONES GENERALES Capítulo Único
 
 ### Artículo 1o
 . Esta Ley es de orden público y observancia general en todo el territorio nacional. Tiene por objeto crear y regular la organización, funcionamiento y operación del Sistema de Fondos de Aseguramiento Agropecuario y Rural, que se constituirá por los Fondos de Aseguramiento y por sus Organismos Integradores, que se registren ante la Secretaría de Hacienda y Crédito Público en los términos de esta Ley, con los siguientes propósitos específicos:
 I. Fomentar, promover y facilitar el servicio de aseguramiento por parte de los Fondos de Aseguramiento Agropecuario y Rural;
 II. Regular las actividades y operaciones que los Fondos de Aseguramiento Agropecuario y Rural podrán realizar, así como establecer el servicio de Asesoría Técnica y Seguimiento de Operaciones que deberán recibir, con el propósito de lograr su sano y equilibrado desarrollo;
 III. Regular la organización, funcionamiento y operaciones de los Organismos Integradores de los Fondos de Aseguramiento Agropecuario y Rural;
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL IV. Otorgar certeza y seguridad jurídica en la protección de los intereses de quienes celebran operaciones con dichos Fondos de Aseguramiento Agropecuario y Rural, y V. Establecer los términos en que se llevará a cabo el seguimiento de operaciones del Sistema de Fondos de Aseguramiento Agropecuario y Rural.
+IV. Otorgar certeza y seguridad jurídica en la protección de los intereses de quienes celebran operaciones con dichos Fondos de Aseguramiento Agropecuario y Rural, y V. Establecer los términos en que se llevará a cabo el seguimiento de operaciones del Sistema de Fondos de Aseguramiento Agropecuario y Rural.
 La Secretaría de Hacienda y Crédito Público será la dependencia competente para interpretar en sus aspectos administrativos los preceptos de esta Ley y en general, para todo cuanto se refiere a los sujetos de la misma. Para estos efectos, la Secretaría podrá solicitar, cuando así lo considere conveniente, la opinión de algún organismo, dependencia o entidad en razón de la naturaleza de los casos que lo ameriten.
 
 ### Artículo 2o
@@ -34,7 +39,7 @@ IX. Organismo Integrador Local, en singular o plural, a las Asociaciones de Fond
 X. Socios, a las personas físicas o morales que participen como socios de los Fondos de Aseguramiento en los términos de esta Ley;
 XI. Líneas de Operación, a las operaciones y ramos de seguros que los Fondos de Aseguramiento podrán practicar al amparo del registro ante la Secretaría, de conformidad con esta Ley, la Ley General de Instituciones y Sociedades Mutualistas de Seguros y con las Reglas Generales que emita la Secretaría;
 XII. Sistema de Protección, al sistema integrado por el Fondo de Protección y por los Fondos de Retención Común de Riesgos, en los términos de esta Ley;
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL XIII. Fondo de Protección, a los recursos constituidos por las aportaciones de los Fondos de Aseguramiento y de otros aportantes, destinados a los fines establecidos en esta Ley;
+XIII. Fondo de Protección, a los recursos constituidos por las aportaciones de los Fondos de Aseguramiento y de otros aportantes, destinados a los fines establecidos en esta Ley;
 XIV. Fondo de Retención Común de Riesgos, en singular o plural, a los recursos constituidos por las aportaciones de los Fondos de Aseguramiento y de otros aportantes, destinados a los fines establecidos en esta Ley;
 XV. Comité Técnico, a los comités de los Organismos Integradores, constituidos para la administración del Fondo de Protección y de los Fondos de Retención Común de Riesgos;
 XVI. Comité de Asesoría Técnica y Seguimiento de Operaciones, al comité de los Organismos Integradores encargados de planear, coordinar, dirigir y evaluar la prestación de los servicios que ofrezcan a sus afiliados, y XVII. Coaseguro, a la participación por acuerdo entre un Fondo de Aseguramiento y una institución de seguros en un mismo riesgo.
@@ -54,7 +59,7 @@ En el otorgamiento de coberturas para el ámbito rural, se incluyen todas las L�
 
 ### Artículo 6o
 . En lo no previsto por la presente Ley, se aplicará a los sujetos de la misma en forma supletoria, lo dispuesto en las siguientes leyes:
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL I. La Ley General de Instituciones y Sociedades Mutualistas de Seguros;
+I. La Ley General de Instituciones y Sociedades Mutualistas de Seguros;
 II. La Legislación Mercantil;
 IV. El Código Nacional de Procedimientos Civiles y Familiares.
 Fracción reformada DOF 14-11-2025 Los principios establecidos en la Ley sobre el Contrato de Seguro serán aplicables a las operaciones de los Fondos de Aseguramiento, en lo compatible con su objeto consistente en la protección mutualista y solidaria a sus socios.
@@ -72,15 +77,14 @@ VI. En la escritura pública constitutiva deberá incluirse la relación de soci
 ### Artículo 8o
 . El registro para operar como Fondo de Aseguramiento será otorgado por la Secretaría, para lo cual se seguirá el procedimiento que a continuación se señala:
 I. Se deberá presentar solicitud, de conformidad con lo señalado en el artículo 9o. de esta Ley, ante el Organismo Integrador Estatal correspondiente o, de no existir, ante el Organismo Integrador Nacional, quien elaborará un dictamen respecto de la procedencia de dicha solicitud;
-II. La Secretaría resolverá las solicitudes de registro, las cuales deberán acompañarse de:
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL a) El dictamen favorable del Organismo Integrador respectivo; b) El testimonio de la escritura pública constitutiva, conteniendo los Estatutos que deberán apegarse a las disposiciones y mecanismos que la presente Ley establece, así como su inscripción en el Registro Público de la Propiedad y del Comercio, y c) El programa general de operación, que permita a la Secretaría evaluar si podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos: i) las regiones y municipios en las que pretenda operar; ii) un estudio de viabilidad financiera para cada tipo de operaciones y ramos de seguros que pretenda operar; incluyendo las bases para retención de riesgos que asume el Fondo de Aseguramiento con cargo a sus reservas, así como su cesión en reaseguro y/o coaseguro en cada caso; iii) las bases para la aplicación de remanentes; y, iv) las bases relativas a su organización y control interno.
+II. La Secretaría resolverá las solicitudes de registro, las cuales deberán acompañarse de: a) El dictamen favorable del Organismo Integrador respectivo; b) El testimonio de la escritura pública constitutiva, conteniendo los Estatutos que deberán apegarse a las disposiciones y mecanismos que la presente Ley establece, así como su inscripción en el Registro Público de la Propiedad y del Comercio, y c) El programa general de operación, que permita a la Secretaría evaluar si podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos: i) las regiones y municipios en las que pretenda operar; ii) un estudio de viabilidad financiera para cada tipo de operaciones y ramos de seguros que pretenda operar; incluyendo las bases para retención de riesgos que asume el Fondo de Aseguramiento con cargo a sus reservas, así como su cesión en reaseguro y/o coaseguro en cada caso; iii) las bases para la aplicación de remanentes; y, iv) las bases relativas a su organización y control interno.
 Los Organismos Integradores remitirán a la Secretaría, en términos del presente artículo, las solicitudes para las que hubiesen generado un dictamen favorable, acompañándolas del mismo, y la Secretaría entregará su resolución a través de dichos Organismos Integradores, o directamente cuando se trate de Fondos de Aseguramiento que opten por el régimen de no afiliados;
 III. Tratándose de aquellos Fondos de Aseguramiento que pretendan obtener registro y que opten por el régimen de no afiliados, podrán acudir directamente ante la Secretaría, a efecto de que ésta designe al Organismo Integrador que se encargará de emitir el dictamen correspondiente, continuando con el procedimiento señalado en el inciso anterior;
 IV. En caso de que el Fondo de Aseguramiento reciba un dictamen desfavorable del Organismo Integrador Estatal o Nacional, según sea el caso, podrá solicitar la revisión de éste ante el mismo Organismo Integrador. De ratificarse el dictamen desfavorable, el Fondo de Aseguramiento podrá solicitar la revisión de su solicitud ante la Secretaría, quien deberá resolver sobre la misma. Los solicitantes contarán con un plazo de treinta días hábiles a partir de la fecha en que se les notifique la ratificación del dictamen desfavorable para presentar directamente a la Secretaría dicha solicitud de revisión;
 V. Los Organismos Integradores contarán con un plazo de quince días hábiles para elaborar su dictamen o resolver las solicitudes de revisión de los mismos, y la Secretaría contará con un plazo de treinta días hábiles para emitir resolución respecto de las solicitudes de registro que le hayan sido presentadas. Dichos plazos comenzarán a contar, respectivamente, a partir de la fecha en que sean presentadas las solicitudes a los Organismos Integradores o a la Secretaría con toda la información y documentación a que se refiere el artículo siguiente de esta Ley;
 VI. Se entenderá que la Secretaría resuelve en sentido aprobatorio la solicitud de registro, si no comunica lo contrario al Organismo Integrador o al Fondo de Aseguramiento solicitante dentro del periodo mencionado en la fracción anterior. Asimismo, se entenderá que la Secretaría resuelve, en sentido no aprobatorio, la solicitud de registro presentada directamente por un solicitante que hubiera obtenido un dictamen desfavorable, si no comunica lo contrario al solicitante dentro del periodo mencionado;
 VII. Cualquier requerimiento de información o documentación que realice la Secretaría al Organismo Integrador o al solicitante, suspenderá el cómputo del plazo con el que cuenta la Secretaría para emitir su resolución. Dicho plazo comenzará a computarse nuevamente a partir de que se reciba la información o documentación requerida;
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL VIII. El Organismo Integrador en su dictamen propondrá a la Secretaría, las operaciones y ramos de seguros que, en términos de lo establecido en el artículo 3o. de esta Ley, ampare el registro.
+VIII. El Organismo Integrador en su dictamen propondrá a la Secretaría, las operaciones y ramos de seguros que, en términos de lo establecido en el artículo 3o. de esta Ley, ampare el registro.
 Para que el Fondo de Aseguramiento amplíe sus operaciones o ramos, se requerirá de modificar su registro ante la Secretaría, en los términos de lo previsto en este artículo, y IX. Los registros que otorgue la Secretaría serán intransferibles y no implicarán respaldo en el cumplimiento de las obligaciones que asuman los Fondos de Aseguramiento, por lo que la Secretaría no asume responsabilidad alguna por dicha inscripción.
 
 ### Artículo 9o
@@ -93,7 +97,7 @@ Cualquier modificación a la escritura constitutiva del Fondo de Aseguramiento y
 Tratándose de Fondos de Aseguramiento no afiliados, este procedimiento se llevará a cabo ante la Secretaría en los términos del presente artículo.
 La escritura o sus reformas deberán inscribirse en el Registro Público de la Propiedad y del Comercio del domicilio social correspondiente, debiendo exhibirse ante la Secretaría copia certificada del testimonio respectivo dentro de un término de ciento veinte días naturales contados a partir de la fecha de su inscripción.
 En ningún momento la denominación del Fondo de Aseguramiento podrá formarse con el nombre, palabras, siglas o símbolos que la identifique con organizaciones políticas o religiosas.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL Capítulo Segundo De su Organización
+Capítulo Segundo De su Organización
 
 ### Artículo 10
 . Los Fondos de Aseguramiento contarán, cuando menos, con los siguientes órganos:
@@ -115,7 +119,7 @@ V. Autorizar la admisión, separación, suspensión o exclusión de socios. La a
 Los acuerdos que adopte el Consejo de Administración, deberán ser ratificados en la siguiente Asamblea General de Socios. La suspensión o la exclusión de cualquier socio procederán cuando incurra en violaciones a los Estatutos, al reglamento interno del Fondo de Aseguramiento o a la presente Ley;
 VI. Aprobar, dado el caso, sobre la fusión, escisión, transformación o disolución del Fondo de Aseguramiento, misma que deberá ser hecha del conocimiento de la Secretaría;
 VII. Remover a los integrantes del Consejo de Administración por las siguientes circunstancias: a) Incumplir los acuerdos adoptados por la Asamblea General de Socios o lo previsto en esta Ley; b) Utilizar en su provecho los recursos económicos, financieros, humanos o materiales del Fondo de Aseguramiento o cometer actos ilícitos en perjuicio o en agravio del Fondo de Aseguramiento o de sus socios, y c) Incurrir en las causas de remoción que establezcan los Estatutos o esta Ley.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL VIII. Cualquier otro asunto que se le reserve en los términos de esta Ley y de los Estatutos.
+VIII. Cualquier otro asunto que se le reserve en los términos de esta Ley y de los Estatutos.
 
 ### Artículo 13
 . La Asamblea General de Socios se reunirá de manera ordinaria, cuando menos, tres veces durante el ejercicio anual; y de manera extraordinaria cuando sea necesario.
@@ -136,7 +140,6 @@ En ningún caso podrán ser representantes de socios las personas que ocupen un 
 Para ser electo representante de socios, ante la Asamblea General de Socios del Fondo de Aseguramiento, se deberá cumplir con lo siguiente:
 I. Estar en el pleno ejercicio de sus derechos civiles;
 II. En su caso, formar parte de la persona moral a la que pretende representar, y III. No ser miembro de otro Fondo de Aseguramiento ni representar a más de una persona moral.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL
 
 ### Artículo 17
 . El Consejo de Administración estará constituido por un mínimo de tres miembros propietarios y un máximo de siete, y sus respectivos suplentes. En todo caso el número de Consejeros será impar. En ningún caso los miembros de este Consejo podrán formar parte del Consejo de Vigilancia.
@@ -163,7 +166,7 @@ I. Representar al Fondo de Aseguramiento ante terceros, con facultades generales
 II. Cumplir y hacer cumplir los acuerdos de la Asamblea General de Socios y los Estatutos del Fondo de Aseguramiento;
 III. Proponer a la Asamblea General de Socios los presupuestos y programas de seguros, coaseguro y reaseguro;
 IV. Informar a la Asamblea General de Socios sobre su gestión y sobre los resultados operativos y estados financieros del ejercicio;
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL V. Realizar gestiones, celebrar contratos y, en general, supervisar la operación del seguro, coaseguro y reaseguro en sus diversas coberturas;
+V. Realizar gestiones, celebrar contratos y, en general, supervisar la operación del seguro, coaseguro y reaseguro en sus diversas coberturas;
 VI. Nombrar al Gerente o Director del Fondo de Aseguramiento, quien tendrá las facultades para pleitos y cobranzas y actos de administración con las limitaciones que, en su caso, le imponga el Consejo en la sesión que lo designe. El Gerente o Director en ningún caso gozará de facultades para actos de dominio;
 VII. Acordar la admisión, suspensión y separación de socios cuando así lo prevean los Estatutos y con la condición de que dicho acuerdo sea ratificado en la siguiente sesión de la Asamblea General de Socios;
 VIII. Instrumentar los mecanismos de recuperación de adeudos a cargo de los socios, y IX. Las demás previstas en esta Ley y en los Estatutos correspondientes.
@@ -185,7 +188,7 @@ Los integrantes del Consejo de Vigilancia durarán en su cargo tres años y podr
 
 ### Artículo 24
 . Son facultades y obligaciones del Consejo de Vigilancia:
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL I. Vigilar que todos los actos del Fondo de Aseguramiento se realicen con apego a esta Ley, a los Estatutos y a la normatividad aplicable;
+I. Vigilar que todos los actos del Fondo de Aseguramiento se realicen con apego a esta Ley, a los Estatutos y a la normatividad aplicable;
 II. Rendir a la Asamblea General un informe anual sobre su gestión, sobre el desempeño del Consejo de Administración, así como del Director o Gerente;
 III. Convocar a sesión a la Asamblea General de Socios en caso de omisión del Consejo de Administración y cuando lo juzgue conveniente;
 IV. Asistir con voz pero sin voto a las sesiones de la Asamblea General de Socios y a las sesiones del Consejo de Administración, para lo cual deberán ser convocados en la forma y términos que prevean los Estatutos;
@@ -203,7 +206,7 @@ Capítulo Tercero De la Admisión, Separación, Suspensión y Exclusión de Soci
 . Para ser socio de un Fondo de Aseguramiento se requiere:
 I. Ser persona física de nacionalidad mexicana en pleno ejercicio de sus derechos y que realice actividades agrícolas o pecuarias, o tenga su residencia en el medio rural; o bien, ser persona moral de nacionalidad mexicana con cláusula de exclusión de extranjeros, cuyo objeto social prevea la realización de actividades agrícolas o pecuarias, o del medio rural;
 II. Presentar por escrito solicitud de ingreso;
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL III. No ser socio de otro Fondo de Aseguramiento, excepto en lo previsto en la fracción VI de este mismo artículo. En caso de que el interesado haya participado en otro Fondo de Aseguramiento deberá presentar el acta de la Asamblea General que haya acordado su separación; o bien, la solicitud de separación recibida por el Fondo de Aseguramiento al que perteneció, cuando no se le hubiere dado respuesta a la misma en el plazo a que se refiere el artículo siguiente;
+III. No ser socio de otro Fondo de Aseguramiento, excepto en lo previsto en la fracción VI de este mismo artículo. En caso de que el interesado haya participado en otro Fondo de Aseguramiento deberá presentar el acta de la Asamblea General que haya acordado su separación; o bien, la solicitud de separación recibida por el Fondo de Aseguramiento al que perteneció, cuando no se le hubiere dado respuesta a la misma en el plazo a que se refiere el artículo siguiente;
 IV. Presentar la información para efecto de determinar si es susceptible de integrarse como socio al Fondo de Aseguramiento. Cada Fondo de Aseguramiento fijará los requisitos que deberá cumplir el interesado;
 V. Que la Asamblea General de Socios o el Consejo de Administración, en caso de que así lo prevean los Estatutos, acepte la solicitud de ingreso del nuevo socio. En caso de ser admitido por dicho Consejo, se requerirá la aprobación definitiva de la admisión en la siguiente sesión de la Asamblea General de Socios;
 VI. El socio de un Fondo de Aseguramiento puede pertenecer a otro, siempre y cuando el Fondo de Aseguramiento al que pertenezca originalmente no pueda otorgarle los servicios de aseguramiento, lo que acreditará con la constancia respectiva que dicho Fondo de Aseguramiento expida, y VII. Las demás que establezcan los Estatutos.
@@ -219,7 +222,7 @@ I. Aportar datos falsos relacionados con los bienes a asegurar;
 II. Incumplir los acuerdos de las Asambleas Generales de Socios o violar disposiciones de esta Ley;
 III. Causar daño patrimonial al Fondo de Aseguramiento o a sus socios;
 IV. No cubrir totalmente y en forma oportuna al Fondo de Aseguramiento las aportaciones a su cargo;
-V. No realizar operaciones de seguros con el Fondo de Aseguramiento, y LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL VI. Las demás que establezcan los Estatutos.
+V. No realizar operaciones de seguros con el Fondo de Aseguramiento, y VI. Las demás que establezcan los Estatutos.
 La suspensión podrá ser hasta por dos años según lo acuerde la Asamblea General de Socios. En caso de daños causados, la suspensión durará hasta que los mismos sean reparados o compensados a satisfacción del Fondo de Aseguramiento o de los socios afectados. En caso de reincidencia, la Asamblea General de Socios podrá resolver la exclusión del socio, lo que implicará la pérdida definitiva de sus derechos como tal.
 
 ## Capítulo Cuarto
@@ -246,7 +249,7 @@ I. La denominación del Fondo de Aseguramiento;
 II. El nombre del socio asegurado;
 III. La firma del representante del Fondo de Aseguramiento;
 IV. La designación de las personas o bienes asegurados;
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL V. La naturaleza de los riesgos amparados por la cobertura;
+V. La naturaleza de los riesgos amparados por la cobertura;
 VI. En su caso, el nombre y domicilio de los beneficiarios;
 VII. La suma asegurada o prestación a cargo del Fondo de Aseguramiento;
 VIII. Los deducibles, en su caso;
@@ -265,7 +268,7 @@ Cuando las erogaciones para el ejercicio de sus operaciones no puedan sufragarse
 
 ### Artículo 34
 . Los Fondos de Aseguramiento deberán constituir las siguientes reservas técnicas:
-I. Reserva de Riesgos en Curso. Para los seguros de vida y accidentes y enfermedades es aquella que se constituye con base en las disposiciones que al efecto emita la Secretaría, oyendo a la Comisión, para cada línea de operación. Para los seguros de daños, esta reserva se constituirá con el total de los recursos provenientes de las cuotas cobradas una vez descontados el pago de reaseguro y el monto correspondiente a gastos de administración y operación, en términos de lo previsto en el artículo 33 de esta Ley. El producto de la inversión de la Reserva de Riesgos en Curso, formará parte de la misma, y LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL II. Reserva Especial de Contingencia. Ésta se constituye con el 25% de los remanentes del ejercicio social. Esta reserva es acumulativa y el producto de su inversión formará parte de la misma.
+I. Reserva de Riesgos en Curso. Para los seguros de vida y accidentes y enfermedades es aquella que se constituye con base en las disposiciones que al efecto emita la Secretaría, oyendo a la Comisión, para cada línea de operación. Para los seguros de daños, esta reserva se constituirá con el total de los recursos provenientes de las cuotas cobradas una vez descontados el pago de reaseguro y el monto correspondiente a gastos de administración y operación, en términos de lo previsto en el artículo 33 de esta Ley. El producto de la inversión de la Reserva de Riesgos en Curso, formará parte de la misma, y II. Reserva Especial de Contingencia. Ésta se constituye con el 25% de los remanentes del ejercicio social. Esta reserva es acumulativa y el producto de su inversión formará parte de la misma.
 Cada Fondo de Aseguramiento tendrá la facultad de definir los términos en que los recursos de esta reserva podrán ser comprometidos para incrementar su retención de riesgos y negociar los términos y modalidades de la cobertura de reaseguro, así como realizar aportaciones al Fondo de Retención Común de Riesgos conforme a lo previsto en los artículos 75 y 84 de esta Ley. En la operación del ramo agropecuario, esta reserva deberá constituirse al cierre de cada ciclo agrícola o ganadero, pero cuando su monto acumulado alcance el equivalente al 15% de la suma asegurada del ciclo agrícola y/o ejercicio ganadero en curso, los remanentes que se generen particularmente en esa operación, quedarán disponibles para ser destinados a incrementar el fondo social, si así lo aprueba la Asamblea General.
 Para los efectos de esta Ley, el remanente es el monto que pueda existir al final del ejercicio social, que resulte de la cantidad que importen las cuotas de retención devengadas más los productos financieros, más las bonificaciones por baja siniestralidad convenidas en los contratos de reaseguro o por otros conceptos, más las comisiones recibidas por reaseguro cedido, menos, los recursos erogados por conceptos de gastos de operación, cuotas, costo de reaseguro y costo neto de siniestralidad. En el caso del seguro agropecuario, el remanente se determinará al cierre del ciclo agrícola o ganadero.
 
@@ -278,7 +281,7 @@ El Fondo Social y su incremento serán destinados a cumplir con el objeto de los
 
 ### Artículo 36
 . En las operaciones de seguros, los Fondos de Aseguramiento deberán aplicar las coberturas, tarifas de cuotas, deducibles, sumas aseguradas, normas, participación a pérdidas, franquicias, Condiciones Generales y Especiales, y demás elementos y componentes relativos al aseguramiento, conforme a alguna de las dos siguientes opciones:
-I. Tratándose de instituciones de seguros o reaseguro del país que les brinden el servicio de reaseguro, con base en el producto de seguros que al efecto registren ante la Comisión dichas instituciones, o LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL II. Tratándose de reaseguradoras extranjeras que les otorguen dicho servicio, con base en los elementos técnicos y contractuales que acuerde con la institución de seguros o compañía de reaseguro que les otorgue dicho servicio.
+I. Tratándose de instituciones de seguros o reaseguro del país que les brinden el servicio de reaseguro, con base en el producto de seguros que al efecto registren ante la Comisión dichas instituciones, o II. Tratándose de reaseguradoras extranjeras que les otorguen dicho servicio, con base en los elementos técnicos y contractuales que acuerde con la institución de seguros o compañía de reaseguro que les otorgue dicho servicio.
 La determinación del costo de cuotas de aseguramiento deberá tomar en consideración los índices de siniestralidad de la zona en la que opere, así como la experiencia siniestral del mismo y de los socios.
 
 ### Artículo 37
@@ -294,7 +297,7 @@ Los Fondos de Aseguramiento deberán garantizar que los socios recibirán ínteg
 Todo acto o contrato que signifique variación en el activo, en el pasivo, en resultados o Fondo Social de un Fondo de Aseguramiento, o implique obligación directa o contingente, deberá ser registrado en la contabilidad.
 En su contabilidad se deberán ajustar al catálogo general de cuentas que autorice la Comisión mediante disposiciones de carácter general. Previa autorización de dicha Comisión, los Fondos de Aseguramiento que lo requieran podrán introducir nuevas cuentas, indicando en su solicitud las razones que tengan para ello.
 Los Fondos de Aseguramiento deberán formular sus estados financieros al término de cada ejercicio social, los cuales deberán estar auditados externamente por un Contador Público independiente y aprobados por la Asamblea General de Socios. El dictamen deberá constar de una opinión respecto de los estados financieros y la constitución o incremento de reservas. El Contador Público independiente será responsable de la integridad y suficiencia del dictamen, en términos de los principios de contabilidad generalmente aceptados, así como al marco normativo que rige la operación de los Fondos de Aseguramiento.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL Dichos estados financieros deberán ser presentados al Organismo Integrador que les otorgue el servicio de Asesoría Técnica y Seguimiento de Operaciones, junto con la información que dicho Organismo les solicite al respecto.
+Dichos estados financieros deberán ser presentados al Organismo Integrador que les otorgue el servicio de Asesoría Técnica y Seguimiento de Operaciones, junto con la información que dicho Organismo les solicite al respecto.
 
 ### Artículo 39
 . Al invertir sus reservas técnicas, los Fondos de Aseguramiento se ajustarán a lo siguiente:
@@ -304,7 +307,7 @@ III. Los títulos o valores a que se refieren las fracciones anteriores deberán
 IV. La reserva especial de contingencia podrá ser respaldada por convenios de cesión de derechos de PROCAMPO de los socios a favor de los Fondos de Aseguramiento. Deberá considerarse el cobro de intereses a los socios equivalente al porcentaje que los Fondos estén obteniendo en las inversiones del resto de las reservas técnicas. Lo anterior está condicionado a que el socio adquiera un seguro con el Fondo de que se trate, en el que se proteja el riesgo de imposibilidad de realizar la siembra, invariablemente el beneficiario preferente será el Fondo de Aseguramiento.
 Si por resultado de esta operación el Fondo de Aseguramiento no alcanzare, por cualquier razón a restituir el cien por ciento de la reserva especial de contingencia, deberá destinar de su Fondo Social presente o futuro el monto de los recursos suficientes para reintegrar el importe total de la reserva especial de contingencia;
 V. Los Fondos de Aseguramiento deberán celebrar contratos con los diferentes organismos depositarios, en los que se establecerá como requisito la obligación de los mismos de formular estados de cuenta mensuales en donde se identifiquen de manera individualizada los instrumentos depositados;
-VI. Tratándose de inversiones en moneda extranjera podrán fungir como organismos depositarios las entidades financieras mexicanas o las entidades financieras del exterior que sean filiales de aquéllas, y VII. Los Fondos de Aseguramiento, al llevar a cabo las inversiones a que se refieren las fracciones I, II y III anteriores, deberán observar los siguientes límites, tanto en moneda nacional como en moneda extranjera: a) Por tipo de valores, depósitos o títulos: i) valores emitidos o respaldados por el Gobierno Federal, hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 60%; iii) valores emitidos por entidades distintas de las señaladas en los incisos i) y ii) anteriores, hasta el 30%, y LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL b) Por emisor o deudor: i) valores emitidos o respaldados por el Gobierno Federal hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 18%; y iii) valores emitidos por entidades distintas a las señaladas en los incisos i) y ii) anteriores, hasta el 7%.
+VI. Tratándose de inversiones en moneda extranjera podrán fungir como organismos depositarios las entidades financieras mexicanas o las entidades financieras del exterior que sean filiales de aquéllas, y VII. Los Fondos de Aseguramiento, al llevar a cabo las inversiones a que se refieren las fracciones I, II y III anteriores, deberán observar los siguientes límites, tanto en moneda nacional como en moneda extranjera: a) Por tipo de valores, depósitos o títulos: i) valores emitidos o respaldados por el Gobierno Federal, hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 60%; iii) valores emitidos por entidades distintas de las señaladas en los incisos i) y ii) anteriores, hasta el 30%, y b) Por emisor o deudor: i) valores emitidos o respaldados por el Gobierno Federal hasta el 100%; ii) valores emitidos o respaldados por instituciones de crédito hasta el 18%; y iii) valores emitidos por entidades distintas a las señaladas en los incisos i) y ii) anteriores, hasta el 7%.
 
 ### Artículo 40
 . Los Fondos de Aseguramiento sólo podrán operar dentro de su zona de influencia, la cual deberá determinarse en los Estatutos que señalarán el o los municipios que la integran. Nuevos municipios podrán integrarse a su zona de influencia sólo mediante:
@@ -331,7 +334,7 @@ TÍTULO SEGUNDO DE LOS ORGANISMOS INTEGRADORES Capítulo Primero De su Organizac
 . Los Organismos Integradores Locales se constituirán con la agrupación voluntaria de Fondos de Aseguramiento de una misma zona geográfica de la Entidad Federativa de que se trate, y deberán estar registrados ante la Secretaría para el desempeño de las funciones que se le asignen conforme a lo dispuesto en el artículo 47.
 
 ### Artículo 46
-. Las solicitudes para obtener registro para operar como Organismo Integrador Nacional, Estatal o Local, deberán presentarse ante la Secretaría, acompañadas de la documentación e información que se señala en el artículo 48 de esta Ley, y en el caso de los Organismos Integradores LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL Estatales y Locales, dicha documentación deberá incluir además un dictamen del Organismo Integrador Nacional o Estatal según corresponda, que en caso de ser favorable, incluya las funciones que delegará conforme a lo previsto en el artículo 47. Los registros que otorgue la Secretaría serán por su propia naturaleza intransmisibles.
+. Las solicitudes para obtener registro para operar como Organismo Integrador Nacional, Estatal o Local, deberán presentarse ante la Secretaría, acompañadas de la documentación e información que se señala en el artículo 48 de esta Ley, y en el caso de los Organismos Integradores Estatales y Locales, dicha documentación deberá incluir además un dictamen del Organismo Integrador Nacional o Estatal según corresponda, que en caso de ser favorable, incluya las funciones que delegará conforme a lo previsto en el artículo 47. Los registros que otorgue la Secretaría serán por su propia naturaleza intransmisibles.
 La Secretaría contará con un plazo de noventa días naturales para emitir resolución respecto de las solicitudes de registro que le hayan sido presentadas. Se entenderá que la Secretaría resuelve en sentido positivo la solicitud de registro, si no comunica lo contrario dentro del periodo mencionado.
 
 ### Artículo 47
@@ -342,7 +345,7 @@ II. Fungir como representantes legales de sus afiliadas ante personas, organismo
 III. Prestar a los Fondos de Aseguramiento servicios técnicos, legales, administrativos, financieros y de capacitación;
 IV. Promover en general la superación y capacidad técnica y operativa de sus integrantes, así como de sus empleados;
 V. Homologar, en lo procedente, reglamentos, trámites y mecanismos operativos, así como sistemas contables e informáticos;
-VI. Integrar bases de datos en materia de operaciones de seguros, calificación de riesgos, y todo lo relativo al funcionamiento de los Fondos de Aseguramiento, únicamente utilizarán dicha LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL información para el cumplimiento de su objeto, debiendo abstenerse de proporcionar información para fines distintos de los antes mencionados;
+VI. Integrar bases de datos en materia de operaciones de seguros, calificación de riesgos, y todo lo relativo al funcionamiento de los Fondos de Aseguramiento, únicamente utilizarán dicha información para el cumplimiento de su objeto, debiendo abstenerse de proporcionar información para fines distintos de los antes mencionados;
 VII. Constituir y administrar un Fondo de Protección y los Fondos de Retención Común de Riesgos, que integran el Sistema de Protección, en los términos descritos en esta Ley;
 VIII. Registrar, evaluar y, en su caso, validar, al personal técnico de los Organismos Integradores Estatales y Locales y de las empresas de servicio, que participen en la prestación del servicio de Asesoría Técnica y Seguimiento de las operaciones de los Fondos de Aseguramiento;
 IX. Promover que los Fondos de Aseguramiento a partir de los recursos de su Fondo Social y de aportaciones de otras fuentes, formen otras organizaciones productivas y de servicios para beneficio de sus socios, para el otorgamiento de crédito, comercialización de insumos y cosechas, organismos de ahorro, de servicio técnico, entre otras. Para ello, el Organismo Integrador brindará asesoría sobre las diversas disposiciones legales y reglamentarias que regulen estas opciones de organización, identificará los diversos programas de fomento que incidan en estos proyectos, respaldará las gestiones requeridas ante las autoridades correspondientes y, en general, apoyará en todo aquello que sea requerido para la consecución de estas organizaciones, y X. Promover que las organizaciones de los socios de los Fondos de Aseguramiento a las que se refiere la fracción anterior integren una administración corporativa para brindar servicios de tipo administrativo, comercial, fiscal, jurídico, informático, técnico, financiero y otros afines que fortalezcan la vinculación entre tales organizaciones.
@@ -354,8 +357,7 @@ A su vez, los Organismos Integradores Estatales y Locales, podrán solicitar al 
 . Los Organismos Integradores al solicitar su registro ante la Secretaría, deberán acompañar a su solicitud:
 I. El testimonio de la escritura pública constitutiva del Organismo Integrador Nacional, Estatal o Local, conteniendo los Estatutos que deberán apegarse a las disposiciones y mecanismos que la presente Ley establece, indicando su sujeción a los lineamientos generales a que se refieren los artículos 47 y 85 de esta Ley, así como su inscripción en el Registro Público de la Propiedad y del Comercio. En los Estatutos deberá indicarse su objeto y su organización interna entre otros aspectos, acordes con las disposiciones de esta Ley y demás regulaciones aplicables;
 II. El ámbito geográfico en el que operará;
-III. El programa general de operación, que permita a la Secretaría evaluar si el Organismo Integrador podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos:
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL a) Los planes de trabajo; b) Las políticas de afiliación; c) La información y documentación que acredite que cuenta con la infraestructura necesaria para llevar a cabo su objeto, y d) La relación de sus principales administradores y directivos, incluyendo al Comisario, debiéndose acompañar el curriculum vitae de los mismos;
+III. El programa general de operación, que permita a la Secretaría evaluar si el Organismo Integrador podrá cumplir adecuadamente con su objeto. Dicho programa deberá contener, por lo menos: a) Los planes de trabajo; b) Las políticas de afiliación; c) La información y documentación que acredite que cuenta con la infraestructura necesaria para llevar a cabo su objeto, y d) La relación de sus principales administradores y directivos, incluyendo al Comisario, debiéndose acompañar el curriculum vitae de los mismos;
 IV. El proyecto de reglamento interior, con base al cual ejercerá sus funciones de conformidad con esta Ley, y V. En el caso de Organismos Integradores Estatales y Locales, el dictamen del Organismo Integrador Nacional.
 Las modificaciones a los Estatutos deberán hacerse del conocimiento de la Secretaría.
 
@@ -375,7 +377,7 @@ VII. Los mecanismos voluntarios de solución de controversias entre los Fondos d
 ### Artículo 51
 . Los Fondos de Aseguramiento, en su relación con los Organismos Integradores, tendrán las obligaciones siguientes:
 I. Aportar las cuotas periódicas que fije la Asamblea General de afiliados del Organismo Integrador para su sostenimiento, el costo de la prestación del servicio de Asesoría Técnica y Seguimiento de sus Operaciones y las aportaciones para el Fondo de Protección y el Fondo de Retención Común de Riesgos, en los términos de esta Ley y de las disposiciones que de ella emanen;
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL II. Proporcionar al Organismo Integrador la información y documentación que le requiera para efectos del cumplimiento de sus funciones establecidas en esta Ley;
+II. Proporcionar al Organismo Integrador la información y documentación que le requiera para efectos del cumplimiento de sus funciones establecidas en esta Ley;
 III. Cumplir con las estipulaciones contenidas en el contrato de afiliación o de prestación de servicios de Asesoría Técnica y Seguimiento de Operaciones, según se trate;
 IV. Asistir a través de sus representantes, a las sesiones de la Asamblea General de Afiliados del Organismo Integrador correspondiente y/o a las reuniones convocadas por la misma;
 V. Cumplir con las resoluciones adoptadas por la Asamblea General de Afiliados del Organismo Integrador correspondiente, y VI. Las demás que les señale esta Ley y otras disposiciones aplicables.
@@ -396,7 +398,6 @@ VII. Si obra sin autorización de la Secretaría, en los casos en que la Ley as�
 
 ### Artículo 54
 . Los Fondos de Aseguramiento afiliados a un Organismo Integrador, cuyo registro hubiere sido revocado por la Secretaría, deberán solicitar su afiliación a un Organismo Integrador distinto o sujetarse al régimen de Fondo de Aseguramiento no afiliado en un término no mayor a treinta días hábiles a partir de la fecha en que surta sus efectos la revocación antes citada.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL
 
 ### Artículo 55
 . Los Organismos Integradores deberán contar con una Asamblea General de Afiliados que será el órgano supremo del Organismo Integrador y estará compuesto por los representantes de sus afiliados. Además contarán con un Consejo de Administración, un Comisario, con sus respectivos suplentes, y un Gerente o Director. Sus atribuciones serán las señaladas en esta Ley, en los Estatutos y demás disposiciones aplicables.
@@ -419,7 +420,7 @@ I. Haber prestado por lo menos cinco años sus servicios en puestos cuyo desempe
 ### Artículo 59
 . La vigilancia interna del Organismo Integrador estará a cargo de un Comisario, cuyas responsabilidades y obligaciones deberán determinarse en sus Estatutos.
 El Comisario realizará las siguientes funciones:
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL I. Verificar que el Organismo Integrador cumpla con la regulación aplicable;
+I. Verificar que el Organismo Integrador cumpla con la regulación aplicable;
 II. Recibir los informes del Consejo de Administración y los dictámenes de los auditores externos para su conocimiento y análisis;
 III. Informar a la Secretaría en términos de los lineamientos generales a que se refiere el artículo 47 de esta Ley, al Consejo de Administración y a la Asamblea General del cumplimiento de sus obligaciones y responsabilidades, así como de los hallazgos e irregularidades de que tenga conocimiento en el ejercicio de sus funciones, y IV. Proponer al Consejo de Administración el programa de control y corrección interno del Organismo Integrador y sus modificaciones, a prevenir conflictos de interés y el uso indebido de la información.
 El Comisario asistirá con voz pero sin voto a las sesiones del Consejo de Administración del Organismo Integrador.
@@ -440,7 +441,7 @@ El Organismo Integrador Estatal publicará anualmente, en periódico de amplia c
 
 ### Artículo 63
 . Para formalizar el contrato de afiliación deberá cumplirse cuando menos con lo siguiente:
-I. Contar con el registro de la Secretaría, para operar como Fondo de Aseguramiento, y LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL II. Exhibir acta de Asamblea del Fondo de Aseguramiento en la que se haya acordado la afiliación correspondiente.
+I. Contar con el registro de la Secretaría, para operar como Fondo de Aseguramiento, y II. Exhibir acta de Asamblea del Fondo de Aseguramiento en la que se haya acordado la afiliación correspondiente.
 La formalización de dicho contrato deberá efectuarse a más tardar dentro de los treinta días hábiles siguientes a la fecha en que se les haya notificado el registro para operar como Fondo de Aseguramiento.
 
 ### Artículo 64
@@ -465,7 +466,6 @@ El Fondo de Aseguramiento no afiliado tendrá todas las obligaciones de los Fond
 ### Artículo 69
 . Además de lo dispuesto en los artículos anteriores, los Fondos de Aseguramiento no afiliados podrán participar en el Fondo de Protección y podrán hacerlo en el Fondo de Retención Común de Riesgos que les corresponda, en términos del Capítulo Único del Título Tercero de esta Ley.
 El Organismo Integrador que les preste el servicio de Asesoría Técnica y Seguimiento de Operaciones, podrá prestarles servicios complementarios a un costo equivalente al que corresponda a un Fondo de Aseguramiento afiliado.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL
 
 ## Capítulo Cuarto
 De la Fusión, Disolución, Liquidación y Revocación
@@ -492,7 +492,7 @@ En caso de liquidación, la Asamblea General convocada para tal efecto, elegirá
 ### Artículo 73
 . Cuando la disolución o liquidación de un Fondo de Aseguramiento sea determinada por la revocación del registro ante la Secretaría, la Asamblea General elegirá la Comisión Liquidadora a que se refiere el artículo anterior.
 A partir de la fecha en que entre en liquidación un Fondo de Aseguramiento, los pagos derivados de sus operaciones se suspenderán hasta en tanto la Comisión Liquidadora resuelva lo conducente.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL En relación a los procesos de liquidación o disolución, los acuerdos de la Asamblea General y la resolución de la Comisión Liquidadora, deberán protocolizarse en escritura pública e inscribirse en el Registro Público de la Propiedad y del Comercio.
+En relación a los procesos de liquidación o disolución, los acuerdos de la Asamblea General y la resolución de la Comisión Liquidadora, deberán protocolizarse en escritura pública e inscribirse en el Registro Público de la Propiedad y del Comercio.
 
 ### Artículo 74
 . La Secretaría, escuchando al Fondo de Aseguramiento de que se trate, podrá revocar el registro de un Fondo de Aseguramiento en los siguientes casos:
@@ -508,7 +508,7 @@ IX. Si impide que el Organismo Integrador al que esté afiliado o el Organismo I
 X. Si incurre en cualquiera de los casos de disolución o entra en estado de liquidación, y XI. Si deja de operar por más de dos ejercicios anuales consecutivos.
 La declaración de revocación del registro incapacitará al Fondo de Aseguramiento para otorgar cualquier seguro a partir de la fecha en que se le notifique la revocación y pondrá al Fondo de Aseguramiento en estado de disolución y liquidación.
 La solicitud de revocación del registro podrá ser formulada ante la Secretaría por la SAGARPA, por el Organismo Integrador Nacional o por el que preste los Servicios de Seguimiento de Operaciones, o por los Consejos de Administración o Vigilancia o los socios del Fondo de Aseguramiento. Dicha solicitud deberá fundarse y motivarse, precisando las causales de revocación establecidas en el presente artículo y acompañarse de las pruebas documentales correspondientes, para iniciar el procedimiento de revocación, la Secretaría podrá iniciar el procedimiento sin mediar solicitud.
-La Secretaría, valorará la procedencia o improcedencia de la solicitud de revocación, notificándole a los interesados su resolución de iniciar o no el procedimiento de revocación. En caso de procedencia, notificará al Fondo de Aseguramiento la iniciación del procedimiento, haciendo de su conocimiento las causales que se le imputan y le otorgará un plazo de quince días hábiles, a partir de la fecha de notificación, para que exponga lo que a su derecho convenga. Si las causales de revocación se acreditan LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL durante el procedimiento, la Secretaría resolverá y comunicará la declaratoria de revocación del registro a los interesados.
+La Secretaría, valorará la procedencia o improcedencia de la solicitud de revocación, notificándole a los interesados su resolución de iniciar o no el procedimiento de revocación. En caso de procedencia, notificará al Fondo de Aseguramiento la iniciación del procedimiento, haciendo de su conocimiento las causales que se le imputan y le otorgará un plazo de quince días hábiles, a partir de la fecha de notificación, para que exponga lo que a su derecho convenga. Si las causales de revocación se acreditan durante el procedimiento, la Secretaría resolverá y comunicará la declaratoria de revocación del registro a los interesados.
 TÍTULO TERCERO DEL SISTEMA DE PROTECCIÓN Capítulo Único De los Fondos de Protección y de Retención Común de Riesgos
 
 ### Artículo 75
@@ -519,7 +519,7 @@ II. El Fondo de Retención Común de Riesgos tendrá como objetivo fomentar un s
 
 ### Artículo 76
 . Los Fondos de Aseguramiento, a través del Organismo Integrador a que se encuentren afiliados, podrán participar en el Fondo de Protección, que podrán constituir con el Organismo Integrador Nacional.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL El Fondo de Protección se constituirá con el 5% de los remanentes que se generen en los Fondos de Aseguramiento en cada uno de los ciclos o ejercicios sociales, según corresponda, a partir de que suscriban el contrato de afiliación con el Organismo Integrador respectivo, o en caso de los no afiliados, cuando se formalice su participación en el Fondo de Protección.
+El Fondo de Protección se constituirá con el 5% de los remanentes que se generen en los Fondos de Aseguramiento en cada uno de los ciclos o ejercicios sociales, según corresponda, a partir de que suscriban el contrato de afiliación con el Organismo Integrador respectivo, o en caso de los no afiliados, cuando se formalice su participación en el Fondo de Protección.
 Los recursos que integren el Fondo de Protección, deberán invertirse en los mismos instrumentos previstos para las reservas técnicas de los Fondos de Aseguramiento en el artículo 39 de esta Ley.
 Los Organismos Integradores Estatales respectivos deberán entregar al Comité Técnico la información que éste requiera para determinar las aportaciones, de conformidad con este artículo.
 El Comité Técnico podrá acordar la suspensión temporal del pago de las aportaciones al Fondo de Protección, cuando los recursos que integren el mismo, representen más del cinco por ciento del total de riesgos asegurados por los Fondos de Aseguramientos que estén protegidos por dicho Fondo de Protección.
@@ -535,7 +535,6 @@ I. Pagar hasta donde alcancen los recursos del Fondo de Protección, en forma su
 II. Otorgar apoyo financiero a los Fondos de Aseguramiento, conforme a lo estipulado en el artículo 75 de esta Ley;
 III. Realizar las operaciones y contratos de carácter mercantil o civil que sean necesarios para el cumplimiento del objeto del fideicomiso;
 IV. Comunicar al Organismo Integrador Nacional las irregularidades que por razón de sus competencias les corresponda conocer, y V. Las demás que ésta y otras Leyes prevean para el cumplimiento de su objeto.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL
 
 ### Artículo 79
 . El Comité Técnico del Fondo de Protección estará integrado por cinco miembros propietarios y sus respectivos suplentes que serán designados por el Consejo de Administración del Organismo Integrador Nacional y aprobados por la Asamblea General del mismo, cuidando que pertenezcan a Organismos Integradores de distintas Entidades Federativas.
@@ -565,7 +564,7 @@ El monto a ser pagado a cada socio asegurado de acuerdo a lo establecido en este
 
 ### Artículo 84
 . Los Fondos de Aseguramiento podrán constituir, por conducto de su Organismo Integrador Estatal, un Fondo de Retención Común de Riesgos.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL Los recursos para este fin provendrán de aportaciones, adicionales a las previstas en el artículo 76, que realicen los Fondos de Aseguramiento con recursos de su reserva especial de contingencia o Fondo Social. La constitución y operación de los Fondos de Retención Común de Riesgos, así como la administración y utilización de sus recursos serán reguladas por disposiciones que al efecto emita la Secretaría, oyendo a la Comisión. Tales disposiciones deberán prever la posibilidad de que puedan conformarse Fondos de Retención Común de Riesgos administrados por dos o más Organismos Integradores Estatales, e incluso por el Organismo Integrador Nacional.
+Los recursos para este fin provendrán de aportaciones, adicionales a las previstas en el artículo 76, que realicen los Fondos de Aseguramiento con recursos de su reserva especial de contingencia o Fondo Social. La constitución y operación de los Fondos de Retención Común de Riesgos, así como la administración y utilización de sus recursos serán reguladas por disposiciones que al efecto emita la Secretaría, oyendo a la Comisión. Tales disposiciones deberán prever la posibilidad de que puedan conformarse Fondos de Retención Común de Riesgos administrados por dos o más Organismos Integradores Estatales, e incluso por el Organismo Integrador Nacional.
 
 ## TÍTULO CUARTO
 DE LAS FACULTADES DE LAS AUTORIDADES Capítulo Primero Del Seguimiento de las Operaciones
@@ -582,7 +581,7 @@ El Organismo Integrador Nacional, los Organismos Integradores Estatales, los Org
 Capítulo Segundo Del Fomento y Apoyo a los Fondos de Aseguramiento
 
 ### Artículo 87
-. Los Fondos de Aseguramiento son organismos que deberán ser considerados como sujetos del fomento y apoyo por parte de las instancias gubernamentales, en términos de lo que al efecto LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL establezca el Presupuesto de Egresos de la Federación. Igual tratamiento como sujetos de fomento se les reconoce en esta Ley a los Organismos Integradores.
+. Los Fondos de Aseguramiento son organismos que deberán ser considerados como sujetos del fomento y apoyo por parte de las instancias gubernamentales, en términos de lo que al efecto establezca el Presupuesto de Egresos de la Federación. Igual tratamiento como sujetos de fomento se les reconoce en esta Ley a los Organismos Integradores.
 
 ### Artículo 88
 . El Gobierno Federal y sus dependencias, escucharán la opinión de los Fondos de Aseguramiento y de sus Organismos Integradores, en el diseño y operación de programas relacionados con la materia de seguros a que se refiere esta Ley.
@@ -603,7 +602,7 @@ La SAGARPA también promoverá mecanismos de coordinación con las Entidades Fed
 
 ### Artículo 93
 . Las acciones de fomento y apoyo a los Fondos de Aseguramiento y de fomento a sus Organismos Integradores, serán las que se definan en los programas de apoyo que establezca el Presupuesto de Egresos de la Federación y se sujetarán a las reglas de operación que emitan las autoridades competentes de acuerdo con dicho Decreto. Estas acciones de fomento y apoyo, estarán referidas a promover apoyos al productor que coadyuven a cubrir las primas del servicio de aseguramiento; a respaldar y fortalecer el servicio de Asesoría Técnica y Seguimiento de Operaciones, dispuesto por esta Ley; a consolidar el funcionamiento de los Fondos de Aseguramiento; a impulsar su capacitación; a promover la constitución de nuevos Fondos de Aseguramiento; a desarrollar nuevos productos y coberturas de seguros; a fortalecer las estructuras técnicas de los Fondos de Aseguramiento; y en general, todas aquéllas que contribuyan a respaldar y facilitar el cumplimiento de las disposiciones de esta Ley.
-Capítulo Tercero LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL Disposiciones Finales
+Capítulo Tercero Disposiciones Finales
 
 ### Artículo 94
 . El incumplimiento o la violación a las disposiciones de la presente Ley y a las que de ella emanen, serán sancionadas de acuerdo a lo establecido en esta Ley y en las disposiciones mercantiles, civiles, fiscales y penales aplicables.
@@ -615,7 +614,7 @@ Los reportes a que se refiere la fracción II de este artículo, de conformidad 
 Asimismo, la Secretaría en las citadas reglas generales emitirá los lineamientos sobre el procedimiento y criterios que los Fondos de Aseguramiento y los Organismos Integradores deberán observar respecto de:
 III. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen;
 IV. La información y documentación que los Fondos de Aseguramiento y los Organismos Integradores deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
-V. La forma en que los mismos Fondos de Aseguramiento y los Organismos Integradores deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL VI. Los términos para proporcionar capacitación al interior de los Fondos de Aseguramiento y los Organismos Integradores sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+V. La forma en que los mismos Fondos de Aseguramiento y los Organismos Integradores deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y VI. Los términos para proporcionar capacitación al interior de los Fondos de Aseguramiento y los Organismos Integradores sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
 Los Fondos de Aseguramiento y los Organismos Integradores deberán conservar, por al menos diez años, la información y documentación a que se refiere la fracción V de este artículo, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
 La Secretaría estará facultada para requerir y recabar, por conducto de la Comisión, información y documentación relacionada con los actos, operaciones y servicios a que se refiere la fracción II de este artículo. Los Fondos de Aseguramiento y los Organismos Integradores, estarán obligados a proporcionar dicha información y documentación. La Secretaría estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
 El cumplimiento de las obligaciones señaladas en este artículo no implicará trasgresión alguna a la obligación de confidencialidad legal, ni constituirá violación a las restricciones sobre revelación de información establecidas por vía contractual, ni a lo dispuesto en materia del secreto propio de las operaciones a que se refiere el artículo 46 fracción XV, en relación con los artículos 117 y 118 de la Ley de Instituciones de Crédito.
@@ -623,26 +622,55 @@ Las disposiciones de carácter general a que se refiere este artículo deberán 
 La violación a las disposiciones a que se refiere este artículo será sancionada por la Comisión conforme al procedimiento previsto en el artículo 138 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, con multa de hasta 100,000 días de salario mínimo general diario vigente en el Distrito Federal.
 Las mencionadas multas podrán ser impuestas, a los Fondos de Aseguramiento y los Organismos Integradores, así como a sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados y personas físicas y morales, que en razón de sus actos, hayan ocasionado o intervenido para que dichas entidades incurran en la irregularidad o resulten responsables de la misma.
 Los servidores públicos de la Secretaría y de la Comisión, los Fondos de Aseguramiento y los Organismos Integradores, sus miembros del consejo de administración, administradores, directivos, funcionarios, empleados, factores y apoderados, deberán abstenerse de dar noticia de los reportes y demás documentación e información a que se refiere este artículo, a personas o autoridades distintas a las facultadas expresamente en los ordenamientos relativos para requerir, recibir o conservar tal documentación e información. La violación a estas obligaciones será sancionada en los términos de las leyes correspondientes. entenderá que los Fondos de Aseguramiento y los Organismos Integradores son intermediarios financieros por lo que serán aplicables a dichos sujetos de las sanciones previstas en dicho artículo.
-TRANSITORIOS ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL ARTÍCULO SEGUNDO.- Los Fondos de Aseguramiento registrados ante la Secretaría con anterioridad a la entrada en vigor del presente Decreto, podrán mantener su registro con el único requisito de presentar el testimonio de la escritura pública a que se refiere el inciso b) de la fracción II, del
+
+## TRANSITORIOS
+
+
+### ARTÍCULO PRIMERO
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+### ARTÍCULO SEGUNDO
+Los Fondos de Aseguramiento registrados ante la Secretaría con anterioridad a la entrada en vigor del presente Decreto, podrán mantener su registro con el único requisito de presentar el testimonio de la escritura pública a que se refiere el inciso b) de la fracción II, del
 
 ### artículo 8o
 . de esta Ley, en un término no mayor a 270 días naturales contados a partir de la entrada en vigor de este Decreto.
 Concluido el plazo señalado, los Fondos de Aseguramiento que no hubieren dado cumplimiento a lo señalado en el párrafo anterior deberán abstenerse de operar como Fondos de Aseguramiento.
-ARTÍCULO TERCERO.- Durante el término de 270 días naturales establecido en el artículo anterior, los Fondos de Aseguramiento que realicen operaciones de seguro continuarán sujetos a lo dispuesto en las Reglas Generales para la Constitución, Operación y Funcionamiento de los Fondos de Aseguramiento Agropecuario, de Vida Campesino y Conexos a la Actividad Agropecuaria.
-ARTÍCULO CUARTO.- Las Asociaciones Nacional, Estatales y Locales de Fondos de Aseguramiento que se encuentren constituidas formalmente en la fecha de la entrada en vigor de esta Ley, no se sujetarán a los requisitos previstos en la misma para su constitución y registro como Organismos Integradores, debiendo únicamente presentar la solicitud de registro ante la Secretaría acompañada de los documentos a los que se hace referencia en las fracciones I, III y IV del artículo 48 de esta Ley, en un plazo de 270 días naturales a partir de dicha fecha.
-ARTÍCULO QUINTO.- Las solicitudes de registro presentadas a la Secretaría para constituir y operar Fondos de Aseguramiento, que no hayan sido resueltas con anterioridad a la entrada en vigor de la Ley de Fondos de Aseguramiento Agropecuario y Rural, se entenderán resueltas en sentido negativo, por lo que los interesados correspondientes podrán, en su caso, iniciar el procedimiento para obtener el registro a que se refiere el artículo 8o. de la misma Ley.
-ARTÍCULO SEXTO.- La Secretaría contará con un plazo máximo de 270 días naturales contados a partir de la entrada en vigor de este Decreto para emitir los lineamientos generales previstos en la Ley.
-ARTÍCULO SÉPTIMO.- Las Reglas Generales para la Constitución, Operación y Funcionamiento de los Fondos de Aseguramiento Agropecuario, de Vida Campesino y Conexos a la Actividad Agropecuaria continuarán vigentes por un plazo de 270 días naturales a partir de la entrada en vigor de esta Ley y aplicará para aquellos Fondos de Aseguramiento que se encuentren en el caso del párrafo primero del artículo Tercero Transitorio. Se derogan todas las disposiciones que se opongan a esta Ley.
+
+### ARTÍCULO TERCERO
+Durante el término de 270 días naturales establecido en el artículo anterior, los Fondos de Aseguramiento que realicen operaciones de seguro continuarán sujetos a lo dispuesto en las Reglas Generales para la Constitución, Operación y Funcionamiento de los Fondos de Aseguramiento Agropecuario, de Vida Campesino y Conexos a la Actividad Agropecuaria.
+
+### ARTÍCULO CUARTO
+Las Asociaciones Nacional, Estatales y Locales de Fondos de Aseguramiento que se encuentren constituidas formalmente en la fecha de la entrada en vigor de esta Ley, no se sujetarán a los requisitos previstos en la misma para su constitución y registro como Organismos Integradores, debiendo únicamente presentar la solicitud de registro ante la Secretaría acompañada de los documentos a los que se hace referencia en las fracciones I, III y IV del artículo 48 de esta Ley, en un plazo de 270 días naturales a partir de dicha fecha.
+
+### ARTÍCULO QUINTO
+Las solicitudes de registro presentadas a la Secretaría para constituir y operar Fondos de Aseguramiento, que no hayan sido resueltas con anterioridad a la entrada en vigor de la Ley de Fondos de Aseguramiento Agropecuario y Rural, se entenderán resueltas en sentido negativo, por lo que los interesados correspondientes podrán, en su caso, iniciar el procedimiento para obtener el registro a que se refiere el artículo 8o. de la misma Ley.
+
+### ARTÍCULO SEXTO
+La Secretaría contará con un plazo máximo de 270 días naturales contados a partir de la entrada en vigor de este Decreto para emitir los lineamientos generales previstos en la Ley.
+
+### ARTÍCULO SÉPTIMO
+Las Reglas Generales para la Constitución, Operación y Funcionamiento de los Fondos de Aseguramiento Agropecuario, de Vida Campesino y Conexos a la Actividad Agropecuaria continuarán vigentes por un plazo de 270 días naturales a partir de la entrada en vigor de esta Ley y aplicará para aquellos Fondos de Aseguramiento que se encuentren en el caso del párrafo primero del
+
+### artículo Tercero
+Transitorio. Se derogan todas las disposiciones que se opongan a esta Ley.
 México, D.F., a 10 de marzo de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip.
 Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de abril de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
-Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Décimo Tercero.- Se reforma la fracción IV del artículo 6o. de la Ley de Fondos de Aseguramiento Agropecuario y Rural, para quedar como sigue: ……..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
+
+### Artículo Décimo Tercero
+Se reforma la fracción IV del artículo 6o. de la Ley de Fondos de Aseguramiento Agropecuario y Rural, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
-Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la LEY DE FONDOS DE ASEGURAMIENTO AGROPECUARIO Y RURAL Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+
+### artículo Sexto
+Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

@@ -753,10 +753,7 @@ Artículo parcialmente derogado DOF 02-08-1974. Derogado DOF 24-12-1991
 
 ### Artículo 122
 .- (Se deroga).
-Artículo parcialmente derogado DOF 02-08-1974. Derogado DOF 24-12-1991 LIBRO SEGUNDO TITULO PRIMERO Delitos contra la seguridad de la Nación
-
-## Título con denominación reformado DOF 29-07-1970
-CAPITULO I Traición a la Patria
+Artículo parcialmente derogado DOF 02-08-1974. Derogado DOF 24-12-1991 LIBRO SEGUNDO TITULO PRIMERO Delitos contra la seguridad de la Nación Título con denominación reformado DOF 29-07-1970 CAPITULO I Traición a la Patria
 
 ### Artículo 123
 .- Se impondrá la pena de prisión de cinco a cuarenta años y multa hasta de cincuenta mil pesos al mexicano que cometa traición a la patria en alguna de las formas siguientes:
@@ -1043,7 +1040,7 @@ Disposición derogatoria DOF 10-11-1939. Artículo restablecido por disposición
 .- La concesión de licencias a que se refiere el artículo 161, la hará el Ejecutivo de la Unión por conducto del Departamento o Secretaría que designe, sujetándose a las prevenciones de la ley reglamentaria respectiva, y a las siguientes:
 I.- La venta de las armas comprendidas en el artículo 161, sólo podrá hacerse por establecimientos mercantiles provistos de licencia y nunca por particulares, y II.- El que solicite licencia para portar armas deberá cumplir con los requisitos siguientes:
 Fe de erratas al párrafo DOF 31-08-1931 a). Otorgar fianza por la cantidad que fije la autoridad, y b). Comprobar la necesidad que tiene para la portación de armas y sus antecedentes de honorabilidad y prudencia, con el testimonio de cinco personas bien conocidas de la autoridad.
-CAPITULO III BIS Uso indebido de aeronaves pilotadas a distancia Capítulo adicionado DOF 07-06-2024
+Uso indebido de aeronaves pilotadas a distancia Capítulo adicionado DOF 07-06-2024
 
 ### Artículo 163
 Bis.- Se impondrá pena de prisión de diez a veinte años, sin perjuicio de las penas que correspondan por otros delitos que resulten, a quien mediante el uso de aeronaves pilotadas a distancia realice las conductas siguientes:
@@ -1634,7 +1631,7 @@ Fracción adicionada DOF 06-06-2006. Reformada DOF 30-11-2010, 18-07-2016. Derog
 Fracción adicionada DOF 06-06-2006 XV. Omitir realizar el registro inmediato de la detención correspondiente, falsear el Reporte Administrativo de Detención correspondiente, omitir actualizarlo debidamente o dilatar injustificadamente poner al detenido bajo la custodia de la autoridad correspondiente; y Fracción adicionada DOF 23-01-2009. Reformada DOF 30-11-2010, 26-06-2017 XVI. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
 Fracción adicionada DOF 30-11-2010 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien días multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 Párrafo reformado DOF 03-01-1989, 18-07-2016 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIV, XV y XVI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
-Párrafo reformado DOF 03-01-1989, 06-06-2006, 23-01-2009, 30-11-2010, 18-07-2016, 26-06-2017 Artículo reformado DOF 05-01-1983 CAPITULO III BIS Desaparición forzada de personas (Derogado) Capítulo adicionado DOF 01-06-2001. Derogado DOF 17-11-2017
+Párrafo reformado DOF 03-01-1989, 06-06-2006, 23-01-2009, 30-11-2010, 18-07-2016, 26-06-2017 Artículo reformado DOF 05-01-1983 Desaparición forzada de personas (Derogado) Capítulo adicionado DOF 01-06-2001. Derogado DOF 17-11-2017
 
 ### Artículo 215-A
 .- Derogado.
@@ -2179,9 +2176,7 @@ Artículo derogado DOF 21-01-1991 CAPITULO III Incesto
 ### Artículo 272
 . Se sancionará con pena de uno a seis años de prisión, el delito de incesto cuando los ascendientes tengan relaciones sexuales con sus descendientes, siempre y cuando estos últimos sean mayores de edad.
 Párrafo reformado DOF 14-06-2012 Cuando la víctima sea menor de edad, la conducta siempre será entendida como típica de violación.
-Párrafo adicionado DOF 14-06-2012 Reforma DOF 14-06-2012: Derogó del artículo los entonces párrafos segundo y tercero CAPITULO IV Adulterio (Se deroga)
-
-## Capítulo derogado DOF 08-06-2011
+Párrafo adicionado DOF 14-06-2012 Reforma DOF 14-06-2012: Derogó del artículo los entonces párrafos segundo y tercero CAPITULO IV Adulterio (Se deroga) Capítulo derogado DOF 08-06-2011
 
 ### Artículo 273
 .- (Se deroga).
@@ -2883,7 +2878,7 @@ Artículo derogado DOF 09-03-1946. Adicionado DOF 05-01-1955. Reformado DOF 30-1
 Bis.- Comete delito de fraude el que por sí o por interpósita persona, cause perjuicio público o privado al fraccionar y transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno, con o sin construcciones sin el previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados. Este delito se sancionará aún en el caso de falta de pago total o parcial.
 Para los efectos penales se entiende por fraccionar la división de terrenos en lotes.
 Este delito se sancionará con las penas previstas en el artículo 386 de este Código, con la salvedad de la multa mencionada en la fracción tercera de dicho precepto, que se elevará hasta cincuenta mil pesos.
-Artículo adicionado DOF 11-01-1972 CAPITULO III BIS Extorsión Capítulo adicionado DOF 13-01-1984
+Artículo adicionado DOF 11-01-1972 Extorsión Capítulo adicionado DOF 13-01-1984
 
 ### Artículo 390
 .- Derogado.
@@ -3250,119 +3245,203 @@ Publicado en el Diario Oficial de la Federación el 14 de febrero de 1940 ARTICU
 ARTICULO SEGUNDO.- Se modifica el rubro del Capítulo I del Título Octavo del Código Penal, en los siguientes términos: ……….
 ARTICULO TERCERO.- Se reforma y adiciona el artículo 200 del Código Penal, como sigue: ……….
 ARTICULO CUARTO.- Se reforma y adiciona el artículo 207 del Código Penal, en los siguientes términos: ……….
-TRANSITORIOS ARTICULO 1°.- Este Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIOS
+
+ARTICULO 1°.- Este Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
 ARTICULO 2°.- Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
 DECRETO que reforma el Código Penal.
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 1941 ARTICULO PRIMERO.- Se reforma el artículo 129 del Código Penal vigente, que quedará en la siguiente forma: ……….
 ARTICULO SEGUNDO.- Se suprime del Capítulo Segundo, Título Segundo del Libro Segundo del Código Penal, el artículo 145, y se adiciona dicho Título Segundo, con el capítulo siguiente:
-CAPITULO III Delitos de Disolución Social (Artículos 145 y 145 Bis) TRANSITORIO ARTICULO UNICO.- Las presentes reformas y adiciones entrarán en vigor desde el día de su publicación en el "Diario Oficial" de la Federación.
+CAPITULO III Delitos de Disolución Social (Artículos 145 y 145 Bis)
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Las presentes reformas y adiciones entrarán en vigor desde el día de su publicación en el "Diario Oficial" de la Federación.
 DECRETO derogando el que adiciona el artículo 361 de la Ley Aduanal. (Contrabando de armas y municiones).
 Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1941 ARTICULO 2°.- Continua vigente, sin restricción alguna, el artículo 162 del Código Penal y las demás disposiciones que resultaban incompatibles con el mencionado decreto.
 LEY de Prevenciones Generales relativa a la suspensión de garantías individuales.
 Publicada en el Diario Oficial de la Federación el 13 de junio de 1942 ARTICULO 12.- La restricción de las garantías de los artículos 16, 19 y 20, es aplicable únicamente a así como los enumerados en el decreto de 30 de octubre de 1941, que reformó el Código Penal y los que se creen en la legislación de emergencia.
-TRANSITORIOS: 1°.- La presente ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación. 2°.- Los juicios de amparo en tramitación al entrar en vigor esta ley seguirán su curso normal, cualquiera que sea su naturaleza y serán resueltos conforme a las leyes en vigor sin que se vean afectados por las disposiciones de esta ley. 3º.- No se restringe por ahora la garantía consignada en el párrafo tercero del artículo 22 constitucional.
+
+## TRANSITORIOS
+
+: 1°.- La presente ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación. 2°.- Los juicios de amparo en tramitación al entrar en vigor esta ley seguirán su curso normal, cualquiera que sea su naturaleza y serán resueltos conforme a las leyes en vigor sin que se vean afectados por las disposiciones de esta ley. 3º.- No se restringe por ahora la garantía consignada en el párrafo tercero del artículo 22 constitucional.
 DECRETO que modifica varios artículos del Código Penal para el Distrito y Territorios Federales en materia de fuero común y para toda la República en materia de fuero federal.
 Publicado en el Diario Oficial de la Federación el 24 de marzo de 1944 ARTICULO PRIMERO.- Se modifican en los siguientes términos los artículos del Código Penal para el Distrito y Territorios Federales en materia de fuero común y para toda la República en materia de fuero federal, que a continuación se mencionan: (Artículos 24, 27, 62, 66, 70, 71, 220, 255 y 383) ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial".
 DECRETO que reforma los artículos 24, 60 y 61 del Código Penal, en lo relativo a medidas de seguridad y pequeñas por delitos de imprudencia.
 Publicado en el Diario Oficial de la Federación el 10 de febrero de 1945 ARTICULO UNICO.- Se reforman los artículos 24, 60 y 61 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, en los siguientes términos: ……….
-TRANSITORIOS:
+
+## TRANSITORIOS
+
+:
 ARTICULO UNICO.- El presente Decreto entrará en vigor tres días después del de la fecha de su publicación en el "Diario Oficial".
 DECRETO que reforma el artículo 40 del Código Penal para el Distrito y Territorios Federales en materia del fuero común.
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 1945 en materia del fuero común, en los siguientes términos: ……….
-TRANSITORIO ARTICULO UNICO.- El presente Decreto entrará en vigor tres días después de la fecha en que se haya publicado en el "Diario Oficial".
+
+## TRANSITORIO
+
+ARTICULO UNICO.- El presente Decreto entrará en vigor tres días después de la fecha en que se haya publicado en el "Diario Oficial".
 DECRETO que declara Ley de Emergencia el capítulo 1º, título 7º, libro 2º, del Código Penal para el Distrito y Territorios Federales y Federal en toda la República en materia de este fuero relativo a la tenencia y tráfico de enervantes.
 Publicado en el Diario Oficial de la Federación el 12 de mayo de 1945 ARTICULO PRIMERO.- En tanto dure la suspensión de garantías individuales vigente en la República se declara ley de emergencia el Capítulo 1°, Título 7°, Libro 2°, del Código Penal para el Distrito y Territorios Federales y Federal en toda la República en materia de este fuero, relativo a la tenencia y tráfico de enervantes.
-TRANSITORIO:
+
+## TRANSITORIO
+
+:
 El presente Decreto surtirá sus efectos a partir de su publicación en el "Diario Oficial" de la Federación.
 DECRETO que levanta la suspensión de garantías decretada 1º de junio de 1942, y restablece el orden constitucional, ratificando y declarando vigentes las disposiciones que el mismo especifica.
-Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1945 ARTICULO 1°.- A partir del día primero de octubre se levanta la suspensión de garantías decretada el primero de junio de 1942 y se restablece, por lo tanto, el orden constitucional en toda plenitud.
-TRANSITORIOS:
+Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1945 ARTICULO 1°.- A partir del día primero de octubre se levanta la suspensión de garantías decretada el
+**primero.** de junio de 1942 y se restablece, por lo tanto, el orden constitucional en toda plenitud.
+
+## TRANSITORIOS
+
+:
 ARTICULO 1°.- La presente ley entrará en vigor el día primero de octubre del año en curso.
 ARTICULO 2°.- Esta ley deroga a las disposiciones legales y reglamentarias que de cualquier modo se le opongan.
 ARTICULO 3°.- El Ejecutivo de la Unión dictará las disposiciones reglamentarias para la ejecución de la presente ley.
 Fuero Común, y para toda la República en materia del Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 9 de marzo de 1946 Fuero Común y para toda la República en materia del Fuero Federal, en los siguientes términos: ……….
-TRANSITORIOS:
+
+## TRANSITORIOS
+
+:
 ARTICULO UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial".
 Fe de erratas DOF 16-07-1946 DECRETO que reforma el artículo 85 del Código Penal para el Distrito y Territorios Federales.
 Publicado en el Diario Oficial de la Federación el 9 de marzo de 1946 los siguientes términos: ……….
-ARTICULO 2°.- Se suprime la fracción V del artículo 366 y en su lugar se adiciona el siguiente párrafo: ……… TRANSITORIO:
+ARTICULO 2°.- Se suprime la fracción V del artículo 366 y en su lugar se adiciona el siguiente párrafo: ………
+
+## TRANSITORIO
+
+:
 ARTICULO UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
 DECRETO por el cual se reforma el artículo 250 del Código Penal Vigente Publicado en el Diario Oficial de la Federación el 30 de enero de 1947 ARTICULO UNICO.- Se modifica el artículo 250 del Código Penal para el Distrito y Territorios Federales en materia del fuero común, y para toda la República en materia del fuero federal, para quedar como sigue: ……….
-TRANSITORIO:
+
+## TRANSITORIO
+
+:
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
 DECRETO que reforma y adiciona los artículos 193, 194 y 197 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 14 de noviembre de 1947 ARTICULO UNICO.- Se reforman y adicionan los artículos 193, 194 y 197 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar redactados en los términos siguientes: ……….
-TRANSITORIO ARTICULO UNICO.- Estas reformas entrarán en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación, y desde esa misma fecha quedan derogadas las disposiciones legales que se opongan a las presentes, pero deberán continuar aplicándose para los hechos ejecutados durante su vigencia. del fuero común y para toda la República en materia del fuero Federal.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Estas reformas entrarán en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación, y desde esa misma fecha quedan derogadas las disposiciones legales que se opongan a las presentes, pero deberán continuar aplicándose para los hechos ejecutados durante su vigencia. del fuero común y para toda la República en materia del fuero Federal.
 Publicado en el Diario Oficial de la Federación el 5 de enero de 1948 ARTICULO 1°.- Se deroga el inciso 2° del artículo 24 y los artículos 27, 70 y 71 del Código Penal para el Distrito y Territorios Federales en materia del fuero común y para toda la República en materia del fuero federal.
 ARTICULO 2°.- Se reforman los artículos 25, 66 y 255 del mismo Código, los cuales quedarán redactados en los términos siguientes: ……….
-TRANSITORIOS:
+
+## TRANSITORIOS
+
+:
 ARTICULO PRIMERO.- Esta Ley entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 ARTICULO SEGUNDO.- En todos los casos en que el Código Penal u otras leyes señalen la pena de relegación, se aplicará la de prisión.
 DECRETO que reforma diversos artículos del Código Penal.
 Publicado en el Diario Oficial de la Federación el 15 de enero de 1951 ARTICULO UNICO.- Se reforman los artículos 40, 41, 61, 62, 63, 111, 112, 124 fracciones I, IV y V; 125, 126, 127, 129, 130, 132, 134 fracción II; 135, 137, 142, 144, 145, 160 fracción I; 162, 166, 171, 203, 246 fracción VII; 255, 280, 297, 308, 320, 366 fracción V; 370, 371 y 382; y se adiciona el articulo 167 con para toda la República en Materia del Fuero Federal, para quedar como sigue: ……….
-TRANSITORIO:
+
+## TRANSITORIO
+
+:
 ARTICULO UNICO.- Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 Aclaración DOF 31-05-1956 DECRETO que reforma el artículo 253 del Código Penal para el Distrito y Territorios Federales y para toda la República en Materia del Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1952 ARTICULO UNICO.- Se reforma el artículo 253 del Código Penal para el Distrito y Territorios Federales y para toda la República en Materia del Fuero Federal, para quedar como sigue: ……….
-TRANSITORIO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación. en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación. en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 5 de enero de 1955 Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue: ……….
-TRANSITORIO UNICO.- Esta reforma entrará en vigor el día siguiente de su publicación en el "Diario Oficial".
+
+## TRANSITORIO
+
+UNICO.- Esta reforma entrará en vigor el día siguiente de su publicación en el "Diario Oficial".
 DECRETO que reforma el artículo 64 del Código Penal, para el Distrito y Territorios Federales en materia de Fuero Común y para toda la República en materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 19 de diciembre de 1964 en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue: ……….
-TRANSITORIO UNICO.- La presente reforma entrará en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+UNICO.- La presente reforma entrará en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
 DECRETO que reforma el artículo 41 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del fuero Federal.
 Publicado en el Diario Oficial de la Federación el 13 de enero de 1965 en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue: ……….
-TRANSITORIO UNICO.- Esta reforma entrará en vigor tres días después a la de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+UNICO.- Esta reforma entrará en vigor tres días después a la de su publicación en el "Diario Oficial" de la Federación.
 Publicado en el Diario Oficial de la Federación el 14 de enero de 1966 ARTICULO PRIMERO.- Se reforma la denominación del Título Octavo y del Capítulo I del Código Penal para el Distrito y Territorios Federales y el artículo 200 del propio Código, para quedar como sigue: ………..
 ARTICULO SEGUNDO.- Se reforma el artículo 201 y se adiciona un párrafo segundo al artículo 202 del Código Penal, para quedar como sigue: ………..
 ARTICULO TERCERO.- Se deroga el artículo 205 del Código Penal.
 ARTICULO CUARTO.- Se reforma el artículo 208 del Código Penal, para quedar como sigue: ………..
 ARTICULO QUINTO.- Se reforma el artículo 85, para quedar como sigue: ………..
-TRANSITORIO UNICO.- Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+UNICO.- Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 Publicado en el Diario Oficial de la Federación el 20 de enero de 1967 ARTICULO PRIMERO.- Se adiciona el artículo 381 Bis del Código Penal para el Distrito y Territorios Federales, para quedar como sigue: ………..
 ARTICULO SEGUNDO.- Se adiciona el Capítulo III del Título Decimo Tercero del Libro Segundo del ………..
 ARTICULO TERCERO.- Se adiciona con una fracción sexta el artículo 400 del Código Penal, para quedar como sigue: ………..
 ARTICULO CUARTO.- Se adiciona el artículo 400 Bis del Código Penal, para quedar como sigue: ………..
-TRANSITORIO ARTICULO UNICO.- La presente reforma entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- La presente reforma entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
 REFORMAS al Código Penal en sus Artículos 265 y 266.
 Publicado en el Diario Oficial de la Federación el 20 de enero de 1967 ARTICULO PRIMERO.- Se reforman los artículos 265 y 266 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue: ………..
 ARTICULO SEGUNDO.- Se adiciona el Capitulo I del Titulo Decimoquinto del Libro Segundo del República en Materia del Fuero Federal con un artículo 266 bis, para quedar como sigue: ……….
-TRANSITORIO ARTICULO UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 SE ADICIONA el Código Penal con un Título Cuarto de su Libro Segundo.
-Publicado en el Diario Oficial de la Federación el 20 de enero de 1967 del Fuero Común y para toda la República en Materia del Fuero Federal con un Título Cuarto de su Libro Segundo, para quedar como sigue:
-TRANSITORIO:
+Publicado en el Diario Oficial de la Federación el 20 de enero de 1967 del Fuero Común y para toda la República en Materia del Fuero Federal con un Título Cuarto de su Libro
+**Segundo.** , para quedar como sigue:
+
+## TRANSITORIO
+
+:
 UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 DECRETO que reforma los Artículos 15, 85, 193, 194, 195, 196, 197, 198, 199, 201, 306, 309 y 387; modificación del nombre de Capítulo Primero, Título Séptimo, Libro Segundo; y materia de Fuero Común y para toda la República en materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 8 de marzo de 1968 ARTICULO PRIMERO.- Se reforma la fracción II del artículo 15 del Código Penal para el Distrito y Territorios Federales, en materia de Fuero Común y en toda la República en materia de Fuero Federal, para quedar como sigue: ……….
 ARTICULO SEGUNDO.- Se adiciona el artículo 85 del citado Código Penal, para quedar como sigue: ……….
 ARTICULO TERCERO.- Se adiciona el Código Penal, motivo de este Decreto, con el artículo 164 Bis, siguiente: ……….
-ARTICULO CUARTO.- Se modifica el nombre del Capítulo Primero del Título Séptimo, del Libro Segundo del referido Código Penal, para quedar como sigue: ……….
+ARTICULO CUARTO.- Se modifica el nombre del Capítulo Primero del Título Séptimo, del Libro
+**Segundo.** del referido Código Penal, para quedar como sigue: ……….
 ARTICULO QUINTO.- Se reforman y adicionan los artículos 193, 194, 195, 196, 197, 198 y 199 del Código Penal de referencia, para que queden en la forma siguiente: ……….
 ARTICULO SEXTO.- Se reforma el segundo párrafo del artículo 201 del Código Penal motivo del presente Decreto, para quedar como sigue: ……….
 ARTICULO SEPTIMO.- Se reforma y adiciona el artículo 306 del citado Código Penal, para quedar como sigue: ……….
 ARTICULO OCTAVO.- Se reforma el artículo 309 del citado Código Penal, para quedar como sigue: ……….
 ARTICULO NOVENO.- Se adiciona el artículo 387 del citado Código Penal con las fracciones XIX y XX, para quedar como sigue: ……….
-TRANSITORIOS:
+
+## TRANSITORIOS
+
+:
 ARTICULO PRIMERO.- El presente Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
 ARTICULO SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a las presentes reformas y adiciones.
 DECRETO que adiciona con un tercer párrafo el artículo 170 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1968 ARTICULO UNICO.- Se adiciona con un tercer párrafo el artículo 170 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal, como sigue: ……….
-TRANSITORIO:
+
+## TRANSITORIO
+
+:
 ARTICULO UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
 DECRETO que reforma el artículo 311 del Código Penal para el Distrito y Territorios Federales en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
-Publicado en el Diario Oficial de la Federación el 18 de febrero de 1969 ARTICULO UNICO.- Se reforma el artículo 311 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, para quedar como sigue: ……… TRANSITORIO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+Publicado en el Diario Oficial de la Federación el 18 de febrero de 1969 ARTICULO UNICO.- Se reforma el artículo 311 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, para quedar como sigue: ………
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 Penales.
 Publicado en el Diario Oficial de la Federación el 29 de julio de 1970 ARTICULO PRIMERO.- Se derogan los Títulos Primero y Segundo del Libro Segundo del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en Materia Federal; se establece un nuevo Título que ser el Primero, con el rubro de "Delitos contra la Seguridad de la Nación", y se cambian los números de los Títulos Tercero, "Delitos contra el Derecho Internacional", y el Cuarto, "Delitos contra la Humanidad" del propio Libro Segundo que pasan a ser, respectivamente, los Títulos Segundo y Tercero.
 ARTICULO SEGUNDO.- Se reforma el rubro del Título Vigésimoprimero del Libro Segundo, se suprime el del Capítulo Unico del mismo Título y se reforman los artículos 364 y 366 del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común y para toda la República en Materia del Fuero Federal, para quedar como sigue: ………..
-TRANSITORIO ARTICULO UNICO.- El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 DECRETO que reforma diversos artículos del Código Penal para el Distrito y Territorios Federales en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 19 de marzo de 1971 ARTICULO UNICO.- Se reforman los artículos 62, 74 a 76, 81 a 87 y 90 del Código Penal para el Distrito y Territorios Federales en materia de fuero común y para toda la República en materia de fuero federal, para quedar como sigue: ……… ARTICULOS TRANSITORIOS ARTICULO 1o.- Estas reformas entrarán en vigor 60 días después de su publicación en el "Diario Oficial" de la Federación.
 ARTICULO 2o.- Las solicitudes y los procedimientos sobre libertad preparatoria y condena condicional que se encuentren pendientes al iniciarse la vigencia de estas reformas, se resolverán en los términos previstos por las mismas.
 ARTICULO 3o.- Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
 Fe de erratas DOF 07-05-1971 en materia de Fuero Común y para toda la República, en materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 11 de enero de 1972 Fuero Común y para toda la República en Materia de Fuero Federal, con el artículo 389 Bis para quedar como sigue: ……..
-TRANSITORIO ARTICULO UNICO.- El presente Decreto entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- El presente Decreto entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
 LEY que crea los Consejos Tutelares para Menores Infractores del Distrito y Territorios Federales.
 Publicado en el Diario Oficial de la Federación el 2 de agosto de 1974 DISPOSICIONES TRANSITORIAS ARTICULO 1o. Transitorio.- La presente Ley entrará en vigor a los treinta días de su publicación en el "Diario Oficial", y a partir de la misma fecha quedarán derogados los artículos 119 a 122 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, de 13 de agosto de 1931, sólo por lo que se refiere al Distrito y Territorios Federales, la Ley Orgánica y Normas de Procedimiento de los Tribunales de Menores y sus Instituciones Auxiliares en el Distrito y Territorios Federales, de 22 de abril de 1941 y las demás disposiciones que se opongan al presente Ordenamiento.
 ARTICULO 2o. Transitorio.- El primer turno entre los Consejeros para los efectos de la instrucción del procedimiento se establecerá según el orden cronológico de su nombramiento.
@@ -3371,45 +3450,93 @@ ARTICULO 4o. Transitorio.- Se sujetarán a las previsiones de esta Ley tanto los
 ARTICULO 5o. Transitorio.- Mientras se establezcan los Consejos Auxiliares, conocerán de las faltas a los reglamentos de policía y buen gobierno los jueces Calificadores y el Consejo Tutelar de los demás casos señalados en el artículo 48.
 DECRETO por el que se reforman diversas leyes para concordarlas con el Decreto que reformó el artículo 43 y demás relativos, de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1974 ARTICULO CUADRAGESIMO CUARTO.- Se reforma el nombre y los artículos 1o.; 41; 132, fracción toda la República en Materia de Fuero Federal, para quedar como sigue: ……..
-TRANSITORIO ARTICULO UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación. y para toda la República en materia de Fuero Federal; al Código Sanitario de los Estados Unidos Mexicanos, en relación con estupefacientes y psicotrópicos y al Artículo 41 del Primer Ordenamiento.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación. y para toda la República en materia de Fuero Federal; al Código Sanitario de los Estados Unidos Mexicanos, en relación con estupefacientes y psicotrópicos y al Artículo 41 del Primer Ordenamiento.
 Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1974 materia de Fuero Común, y para toda la República en materia de Fuero Federal, para quedar como sigue:
 Fuero Federal.
-ARTICULO SEGUNDO.- Se reforman el inciso 3 del artículo 24, el artículo 41, el inciso c) de la fracción III del artículo 84 y el inciso d) de la fracción II del artículo 90 del Código Penal para el Distrito en materia de fuero común, y para toda la República en materia de fuero federal, para quedar como sigue: ……… ARTICULO TERCERO.- Se modifica el nombre del Capítulo I del Titulo Séptimo del Libro Segundo del citado Código Penal, para quedar como sigue: ……… ARTICULO CUARTO.- Se reforman los artículos 193, 194, 195, 196, 197, 198, 199 y los párrafos segundo y tercero del artículo 201 del propio ordenamiento, para quedar como sigue: ……… TRANSITORIOS:
+ARTICULO SEGUNDO.- Se reforman el inciso 3 del artículo 24, el artículo 41, el inciso c) de la fracción III del artículo 84 y el inciso d) de la fracción II del artículo 90 del Código Penal para el Distrito en materia de fuero común, y para toda la República en materia de fuero federal, para quedar como sigue: ……… ARTICULO TERCERO.- Se modifica el nombre del Capítulo I del Titulo Séptimo del Libro Segundo del citado Código Penal, para quedar como sigue: ……… ARTICULO CUARTO.- Se reforman los artículos 193, 194, 195, 196, 197, 198, 199 y los párrafos
+**segundo.** y tercero del artículo 201 del propio ordenamiento, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+:
 ARTICULO PRIMERO.- El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
 ARTICULO SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a las presentes reformas.
 ARTICULO TERCERO.- Los hechos ejecutados durante la vigencia de las disposiciones del Código Penal para el Distrito en materia de fuero común, y para toda la República en materia de fuero federal, y del Código Sanitario de los Estados Unidos Mexicanos, que se reforman, modifican y derogan por el presente Decreto, continuarán rigiéndose por aquéllas. asuntos que estén tramitándose al comenzar a regir este Decreto, se sujetarán a sus disposiciones.
 Común y para toda la República en Materia de Fuero Federal.
-Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1975 ARTICULO UNICO.- Se reforman los artículos 370, 375, 382, 386 fracciones I, II y III, 389, y se deroga el artículo 388 del Código Penal para el Distrito Federa en materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… TRANSITORIO ARTICULO UNICO.- Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación. en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
+Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1975 ARTICULO UNICO.- Se reforman los artículos 370, 375, 382, 386 fracciones I, II y III, 389, y se deroga el artículo 388 del Código Penal para el Distrito Federa en materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ………
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación. en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 1977 Materia del Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……..
-TRANSITORIO ARTICULO UNICO.- Estas reformas entrarán en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Estas reformas entrarán en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
 Común y para toda la República en Materia del Fuero Federal, en sus artículos 85, 194, 195, 196, 197 y 198.
 Publicado en el Diario Oficial de la Federación el 8 de diciembre de 1978 ARTICULO UNICO.- Se reforman los artículos 85, 194, 195, 196, 197 y 198 del Código Penal para el Distrito Federal en materia del fuero común y para toda la República en materia del fuero federal, para quedar como sigue: ……..
-TRANSITORIO ARTICULO UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 DECRETO de Reformas a los Artículos 253 y 254, y Derogación del 253 Bis del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 5 de diciembre de 1979 Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar en los términos siguientes: ……… Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
-Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar en los siguientes términos: ……… TRANSITORIO UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
+Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar en los siguientes términos: ………
+
+## TRANSITORIO
+
+UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
 DECRETO de reformas a los artículos 219, 220 y derogación del 221, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 3 de enero de 1980 en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
-TRANSITORIO ARTICULO UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
 DECRETO de reforma de la fracción I del artículo 383 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
-Publicado en el Diario Oficial de la Federación el 3 de enero de 1980 en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para que se adicione en los siguientes términos: ……… TRANSITORIO ARTICULO UNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el "Diario Oficial". de Fuero Común y para toda la República en materia de Fuero Federal.
-Publicado en el Diario Oficial de la Federación el 7 de enero de 1980 de Fuero Común y para toda la República en materia de Fuero Federal para quedar como sigue: ……… TRANSITORIO UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación. en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+Publicado en el Diario Oficial de la Federación el 3 de enero de 1980 en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para que se adicione en los siguientes términos: ………
+
+## TRANSITORIO
+
+ARTICULO UNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el "Diario Oficial". de Fuero Común y para toda la República en materia de Fuero Federal.
+Publicado en el Diario Oficial de la Federación el 7 de enero de 1980 de Fuero Común y para toda la República en materia de Fuero Federal para quedar como sigue: ………
+
+## TRANSITORIO
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación. en materia de Fuero Común y para toda la República en materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1980 ARTICULO UNICO.- Se adicionan las fracciones V y VI al Artículo 254 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en materia de Fuero Federal, para quedar en los siguientes términos: ……..
-TRANSITORIO UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+## TRANSITORIO
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 DECRETO por el que se reforman los artículos 39, 369, 370, 375, 382 y 386 del Código Penal para el Distrito Federal en Materia de Fuero Común y Para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 29 de diciembre de 1981 ARTICULO PRIMERO.- Se reforman los artículos 39, 369, 370, 375, 382 y 386 del Código Penal para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar como sigue: ……..
 ARTICULO SEGUNDO.- Se adiciona el Título Vigésimo segundo del Código Penal para el Distrito Federal en Materia Común y para toda la República en Materia Federal con nuevo Artículo que quedará bajo el numeral 369 Bis, cuyo texto es el siguiente: ……..
-TRANSITORIOS ARTICULO 1o.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+ARTICULO 1o.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 ARTICULO 2o.- Respecto a las personas que se encuentren procesadas o sentenciadas el día que entre en vigor el presente Decreto se estará a lo dispuesto en el Artículo 56 del propio Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia del Fuero Federal.
 Fe de erratas DOF 13-01-1982 Fe de erratas a la fe de erratas DOF 15-01-1982 DECRETO por el que se reforma y adiciona el Artículo 167 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 11 de enero de 1982 Materia de Fuero Común y para toda la República en Materia de Fuero Federal para quedar en los siguientes términos: ……..
-TRANSITORIO UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. común y para toda la República en materia del fuero federal.
+
+## TRANSITORIO
+
+UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación. común y para toda la República en materia del fuero federal.
 Publicado en el Diario Oficial de la Federación el 5 de enero de 1983 ARTICULO UNICO.- Se reforman y adicionan diversas disposiciones del Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia de fuero Federal, para quedar como sigue (artículos 24, 30, 52, 85, 90, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223 y 224): ………..
-TRANSITORIOS ARTICULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+ARTICULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 ARTICULO SEGUNDO.- Por lo que respecta a las declaraciones sobre situación patrimonial efectuadas con anterioridad a la vigencia de la Ley Federal de Responsabilidades de los Servidores Públicos, se estará a lo dispuesto en las normas vigentes en el momento de formularse dicha declaración.
 DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 13 de enero de 1984 ARTICULO PRIMERO.- Se reforman los artículos 7o., 8o., 9o., 13, 15, 16, 18, 19, 24, 27, 29, 30, 31, 33, 34, 39, 40, 41, 43, 44, 52, 54, 55, 60, 62, 64, 67, 68, 69, 70, 71, 72, 73, 74, 93, 96, 98, 101, 102, 160, 205, 225, 226, 228, 230, 265, 267, 268, 269, 281, 289, 295, 366, 381, 381 bis, 387, 388 y 390 del Código Penal Para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… ARTICULO SEGUNDO.- Se adicionan los artículos 50 bis, 59 bis, 64 bis, 118 bis, 276 bis, 336 bis, República en Materia de Fuero Federal, en los siguientes términos: ……… ARTICULO TERCERO.- Se adicionan en el Libro Primero los Capítulos XI al Título Segundo, VII al Título Quinto y los Capítulos II al Título Décimo Primero, V al Título Décimo Quinto y III bis al Título Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… ARTICULO CUARTO.- Se modifican las denominaciones, en el Libro Primero, del Capítulo V del Título Primero, de los capítulos III y VI, del Título Segundo; de los capítulos II, IV y V, del Título Tercero, y de los capítulos III y IV del Titulo Quinto, y del Libro Segundo las del Capítulo III, del Título Octavo, y del Común y para toda la República en Materia de Fuero Federal para quedar como sigue: ……… ARTICULO QUINTO.- Se derogan los artículos 58, 264, 294, 377, 378 y 385 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
-TRANSITORIOS ARTICULO PRIMERO.- El presente Decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+ARTICULO PRIMERO.- El presente Decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
 ARTICULO SEGUNDO.- Respecto a las personas que se encuentren procesadas o sentenciadas el día en que entre en vigor el presente Decreto, se estará a lo dispuesto en el artículo 56 del propio Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 ARTICULO TERCERO.- Para la imposición de multas bajo el sistema de días multa a que se refiere el
 
@@ -3428,88 +3555,169 @@ ARTICULO SEXTO.- Para los efectos del reconocimiento de la inocencia del sujeto 
 del Código Penal, reformado en los términos del presente decreto, se estará a lo dispuesto Procedimientos Penales para el Distrito Federal, según corresponda.
 Fuero Común, y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 14 de enero de 1985 ARTICULO 1.- Se reforman los artículos 3o., 6o., 12, 51, 193, 198, 228, 262, 369 bis, 395, 399 bis, República en Materia de Fuero Federal, para quedar como sigue: ……… ARTICULO 2.- Se derogan los artículos 59 257, 258, 259, 269, 391, 392, 393 y 394 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
-TRANSITORIO ARTICULO UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+ARTICULO UNICO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
 DECRETO por el que se adiciona el artículo 166 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y modifica el rubro del Capítulo VII, Título Décimo-Tercero, Libro toda la República en materia del fuero federal y la fracción IV del artículo 250 del mismo código.
-Publicado en el Diario Oficial de la Federación el 21 de enero de 1985 ARTICULO SEGUNDO.- Se modifican el rubro del Capítulo VII, Título Décimo-Tercero, Libro Segundo materia del Fuero Federal y la Fracción IV del artículo 250 del mismo ordenamiento, para quedar como sigue: ……… TRANSITORIO ARTICULO PRIMERO.- El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 21 de enero de 1985 ARTICULO SEGUNDO.- Se modifican el rubro del Capítulo VII, Título Décimo-Tercero, Libro Segundo materia del Fuero Federal y la Fracción IV del artículo 250 del mismo ordenamiento, para quedar como sigue: ………
+
+## TRANSITORIO
+
+ARTICULO PRIMERO.- El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
 Fuero Común, y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 23 de diciembre de 1985 ARTICULO PRIMERO.- Se reforman los artículos 15, fracciones I, III, IV, V, VI, 24, inciso 8, 40, 56, 102, primer párrafo, 103, 104, 105, 106, 107, primer párrafo, 108, 109, 110, 112, 113, 114, 115, 116, 117, 118, 208 y 400, fracciones I, III y parte final del artículo, para quedar como sigue: ……… ARTICULO SEGUNDO.- Se adiciona una fracción X al artículo 244, para quedar como sigue: ……… ARTICULO TERCERO.- Se derogan la fracción IX del artículo 15 y los artículos 57, 78, 79, 80, 81, 82, 83, 88, 89, 296, 309, 344, 345, 346, 347, 348 y 349.
 ARTICULO CUARTO.- En el Libro Primero se incorporan, en los términos y con la ubicación que a continuación se indican, las denominaciones de los Capítulos VI del Título Segundo y de los Capítulos VII, VIII, IX y X del Título Quinto.
-TRANSITORIOS ARTICULO PRIMERO.- Las presente (sic DOF 23-12-1985) reformas, adiciones y derogaciones entrarán en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+ARTICULO PRIMERO.- Las presente (sic DOF 23-12-1985) reformas, adiciones y derogaciones entrarán en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
 ARTICULO SEGUNDO.- Se concede un plazo de seis meses, a partir de la fecha de vigencia de las presentes reformas, para que las personas obligadas en los términos de la fracción I del Artículo 400, que se reforma, procedan a verificar o regularizar la situación del vehículo de que se trate.
 Fuero Común, y para toda la República en Materia de Fuero Federal.
-Publicado en el Diario Oficial de la Federación el 10 de enero de 1986 ARTICULO PRIMERO.- Se reforman los artículos 67, 194, 198, y 199, para quedar como sigue: ……… ARTICULO SEGUNDO.- Se adiciona el Artículo 172 bis, que quedará como sigue: ……… ARTICULO TERCERO.- Las denominaciones y ubicaciones de los Capítulos V del Título Tercero del Libro Primero y I Bis del Titulo Quinto del Libro Segundo del Código Penal, quedarán en los siguientes términos: ……… TRANSITORIO ARTICULO UNICO.- Las presentes reformas y adiciones entrarán en vigor a los treinta días de su publicación en el Diario Oficial de la Federación. materia de Fuero Común y para toda la República Mexicana en materia de Fuero Federal.
-Publicado en el Diario Oficial de la Federación el 17 de noviembre de 1986 en materia de Fuero Común, y para toda la República en materia de Fuero Federal, para quedar como sigue: ……… ARTICULO SEGUNDO.- Se adiciona con una fracción V y se reforma el último párrafo del artículo 214 del ordenamiento jurídico citado en el anterior numeral, para quedar como sigue: ……… ARTICULO TERCERO.- Se reforma la fracción XXVI del Artículo 225 de la misma Ley sustantiva penal invocada en el numeral anterior, para quedar como sigue: ……… TRANSITORIO ARTICULO UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 10 de enero de 1986 ARTICULO PRIMERO.- Se reforman los artículos 67, 194, 198, y 199, para quedar como sigue: ……… ARTICULO SEGUNDO.- Se adiciona el Artículo 172 bis, que quedará como sigue: ……… ARTICULO TERCERO.- Las denominaciones y ubicaciones de los Capítulos V del Título Tercero del Libro Primero y I Bis del Titulo Quinto del Libro Segundo del Código Penal, quedarán en los siguientes términos: ………
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Las presentes reformas y adiciones entrarán en vigor a los treinta días de su publicación en el Diario Oficial de la Federación. materia de Fuero Común y para toda la República Mexicana en materia de Fuero Federal.
+Publicado en el Diario Oficial de la Federación el 17 de noviembre de 1986 en materia de Fuero Común, y para toda la República en materia de Fuero Federal, para quedar como sigue: ……… ARTICULO SEGUNDO.- Se adiciona con una fracción V y se reforma el último párrafo del artículo 214 del ordenamiento jurídico citado en el anterior numeral, para quedar como sigue: ……… ARTICULO TERCERO.- Se reforma la fracción XXVI del Artículo 225 de la misma Ley sustantiva penal invocada en el numeral anterior, para quedar como sigue: ………
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Generales de Comunicación.
-Publicado en el Diario Oficial de la Federación el 19 de noviembre de 1986 en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… TRANSITORIO ARTICULO UNICO.- Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 19 de noviembre de 1986 en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ………
+
+## TRANSITORIO
+
+ARTICULO UNICO.- Las presentes reformas entrarán en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
 DECRETO por el que se reforma y adiciona diversas disposiciones del Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de fuero federal.
 Publicado en el Diario Oficial de la Federación el 3 de enero de 1989 ARTICULO PRIMERO.- Se reforman los artículos 25; 164; 164 bis; 195; 197; 198; 201; el primer párrafo del artículo 205; 206, el primero, penúltimo y último párrafos del artículo 215; 260; 261; 265; 266; el primer párrafo del artículo 266 bis; 320; 324; 372, y el primer párrafo del artículo 266 bis; 320; 324; 372, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……..
 ARTICULO SEGUNDO.- Se adicionan los artículos 213 bis; 315 bis; 366 con un párrafo final y 381 toda la República en Materia de Fuero Federal, para quedar como sigue: ……..
 ARTICULO TERCERO.- Se reforma la denominación del Capítulo II del Título Octavo del Libro en Materia de Fuero Federal, para quedar como sigue: ……..
-TRANSITORIO UNICO.- El presente Decreto entrará en vigor el día 1o. de febrero de 1989.
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de febrero de 1989.
 DECRETO que reforma, adiciona y deroga diversas disposiciones del Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de Federal de Procedimientos Penales.
 Publicado en el Diario Oficial de la Federación el 31 de octubre de 1989 materia de fuero común y para toda la República en materia de fuero federal para quedar como sigue: ……..
-TRANSITORIOS ARTICULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+ARTICULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 ARTICULO SEGUNDO.- Se deroga el artículo 611 del Código de Procedimientos Penales para el Distrito Federal y las demás disposiciones que se opongan al presente Decreto.
 CODIGO Federal de Instituciones y Procedimientos Electorales.
 Publicado en el Diario Oficial de la Federación el 15 de agosto de 1990 ARTICULO SEGUNDO.- Se aprueba la adición del Título Vigesimocuarto al Código Penal para el Distrito Federal en materia de fuero común, y para toda la República en materia de fuero federal para quedar en los siguientes términos: ……..
-TRANSITORIOS PRIMERO.- La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Los artículos 409 y 410 que se adicionan entrarán en vigor al día siguiente de que se publique en el Diario Oficial de la Federación, la ley o decreto que contenga las normas relativas al Registro Nacional de Ciudadanos y a la expedición del documento que acredite la ciudadanía.
+
+## TRANSITORIOS
+
+**PRIMERO.-** La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Los artículos 409 y 410 que se adicionan entrarán en vigor al día siguiente de que se publique en el Diario Oficial de la Federación, la ley o decreto que contenga las normas relativas al Registro Nacional de Ciudadanos y a la expedición del documento que acredite la ciudadanía.
 Fe de erratas DOF 06-02-1991 DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 21 de enero de 1991 ARTICULO PRIMERO.- Se reforman los artículos 199 Bis, 200 Primer Párrafo, 260, 261 Primer Párrafo, 262, 263, 265 Segundo Párrafo que pasa a ser el Tercer Párrafo, 266, 266 Bis, del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… ARTICULO SEGUNDO.- Se adicionan los Artículos 30 Bis, 200 con dos párrafos que serán penúltimo y último, 259 Bis, 265 con un Párrafo que será el segundo y 365 Bis, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… ARTICULO TERCERO.- Se derogan los Artículos 267, 268, 270 y 271, del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 ARTICULO CUARTO.- Se reforma la denominación de Título Decimoquinto, Libro Segundo; y del de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… ARTICULO QUINTO.- Se deroga la denominación del Capítulo II, Título Decimoquinto, Libro en Materia de Fuero Federal.
-TRANSITORIO UNICO.- El presente decreto entra en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+UNICO.- El presente decreto entra en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
 LEY para el tratamiento de Menores Infractores, para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
-Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1991 TRANSITORIOS PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Se abroga la Ley que crea el Consejo Tutelar para Menores Infractores del Distrito Federal, publicada en el Diario Oficial de la Federación el 2 de agosto de 1974. de Fuero Común y para toda la República en Materia de Fuero Federal; 73 a 78 de la Ley Orgánica del únicamente por lo que hace a menores infractores.
-CUARTO.- Los asuntos que se encuentren en trámite en la fecha en que entre en vigor esta Ley, serán turnados a las áreas competentes que corresponda conocer de los mismos, conforme a la nueva determinación de competencias.
-QUINTO.- La normatividad de los centros de diagnóstico y tratamiento, deberá expedirse dentro de los noventa días siguientes a la fecha de instalación del Consejo de Menores.
-SEXTO.- Los consejos auxiliares actualmente existentes conocerán de las faltas administrativas a los reglamentos de policía y buen gobierno en que incurran los menores, en tanto se instaure el órgano competente. Estos consejos únicamente podrán aplicar las medidas de orientación y de protección previstas en la presente Ley.
+Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1991
+
+## TRANSITORIOS
+
+**PRIMERO.-** La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se abroga la Ley que crea el Consejo Tutelar para Menores Infractores del Distrito Federal, publicada en el Diario Oficial de la Federación el 2 de agosto de 1974. de Fuero Común y para toda la República en Materia de Fuero Federal; 73 a 78 de la Ley Orgánica del únicamente por lo que hace a menores infractores.
+**CUARTO.-** Los asuntos que se encuentren en trámite en la fecha en que entre en vigor esta Ley, serán turnados a las áreas competentes que corresponda conocer de los mismos, conforme a la nueva determinación de competencias.
+**QUINTO.-** La normatividad de los centros de diagnóstico y tratamiento, deberá expedirse dentro de los noventa días siguientes a la fecha de instalación del Consejo de Menores.
+**SEXTO.-** Los consejos auxiliares actualmente existentes conocerán de las faltas administrativas a los reglamentos de policía y buen gobierno en que incurran los menores, en tanto se instaure el órgano competente. Estos consejos únicamente podrán aplicar las medidas de orientación y de protección previstas en la presente Ley.
 SEPTIMO.- En tanto el Consejo de Menores no haya integrado sus servicios periciales, podrá auxiliarse con los órganos correspondientes de la Procuraduría General de la República, de la Procuraduría General de Justicia del Distrito Federal y del Tribunal Superior de Justicia del Distrito Federal.
 DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Penal Para el Distrito Federal en Materia de Fuero Común y para toda la República en Procedimientos Penales para el Distrito Federal.
-Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1991 ARTICULO PRIMERO.- Se reforman los artículos 51 primer párrafo; 55; 70; 90 fracciones I inciso a), VI, VII Y VIII; 160 primer párrafo; 162 primer párrafo; 173 primer párrafo; 176; 178; 182; 185; 187; 194 fracción II y párrafo segundo, tercero y cuarto; 226; 243; 247 primer párrafo; 248; 249 primer párrafo; 279; 280 primer párrafo; 282 primer párrafo; 289; 336; 336 bis; 341; 380; 386 fracción I y 399-Bis; se adicionan los artículos 65 con un segundo párrafo; 74 con un segundo párrafo; 173 con un párrafo final y 282 con un párrafo final; y se derogan los artículos 171 fracción I; 177; 184; 186; 190; 255; 256; 306 y 400 fracción República en Materia de Fuero Federal, para quedar como sigue: ……… TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- No será exigible el requisito de querella incorporado con motivo de las reformas a los para toda la República en Materia de Fuero Federal, en los procedimientos ya instaurados o resueltos al día en que entre en vigor el presente Decreto. deberán empezar a aceptar la caución consistente en garantía prendaria, una vez que se cuente con los mecanismos administrativos que se hicieron necesarios.
+Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1991 ARTICULO PRIMERO.- Se reforman los artículos 51 primer párrafo; 55; 70; 90 fracciones I inciso a), VI, VII Y VIII; 160 primer párrafo; 162 primer párrafo; 173 primer párrafo; 176; 178; 182; 185; 187; 194 fracción II y párrafo segundo, tercero y cuarto; 226; 243; 247 primer párrafo; 248; 249 primer párrafo; 279; 280 primer párrafo; 282 primer párrafo; 289; 336; 336 bis; 341; 380; 386 fracción I y 399-Bis; se adicionan los artículos 65 con un segundo párrafo; 74 con un segundo párrafo; 173 con un párrafo final y 282 con un párrafo final; y se derogan los artículos 171 fracción I; 177; 184; 186; 190; 255; 256; 306 y 400 fracción República en Materia de Fuero Federal, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** No será exigible el requisito de querella incorporado con motivo de las reformas a los para toda la República en Materia de Fuero Federal, en los procedimientos ya instaurados o resueltos al día en que entre en vigor el presente Decreto. deberán empezar a aceptar la caución consistente en garantía prendaria, una vez que se cuente con los mecanismos administrativos que se hicieron necesarios.
 Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
-Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1991 ARTICULO UNICO.- Se adiciona un artículo 254 bis al Capítulo I, del Título Decimocuarto, del Libro en Materia de Fuero Federal, para quedar como sigue: ……… TRANSITORIO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1991 ARTICULO UNICO.- Se adiciona un artículo 254 bis al Capítulo I, del Título Decimocuarto, del Libro en Materia de Fuero Federal, para quedar como sigue: ………
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Común, y para toda la República en materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 11 de junio de 1992 ARTICULO PRIMERO.- Se modifican los Capítulos I y II del Título Décimo Tercero del Libro Segundo Materia de Fuero Federal, para quedar integrado el Primero por los Artículos del 234 al 238 y con la denominación de "Falsificación, alteración y destrucción de moneda", y el Segundo por los Artículos 239 y 240, bajo la denominación de "Falsificación de Títulos al Portador y Documentos de Crédito Público." ARTICULO SEGUNDO.- Se reforman los Artículos 234, 235, 236, 237, 238 y 240 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……..
-TRANSITORIOS ARTICULO UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+ARTICULO UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Materia de Fuero Común, y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 17 de julio de 1992 ARTICULO UNICO.- Se adiciona un tercer párrafo a la fracción II del Artículo 123 del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: .........
-TRANSITORIO UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 DECRETO que reforma y adiciona diversas disposiciones del Código Penal para el Distrito Federal en materia de Fuero Común, y para toda la República en materia de Fuero Federal; y de la Ley que establece las normas mínimas sobre readaptación social de sentenciados.
-Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1992 ARTICULO PRIMERO.- Se reforma el primer párrafo del artículo 85, del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… TRANSITORIO UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 28 de diciembre de 1992 ARTICULO PRIMERO.- Se reforma el primer párrafo del artículo 85, del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ………
+
+## TRANSITORIO
+
+UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 DECRETO que reforma, adiciona y deroga diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Penales para el Distrito Federal, de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de los Servidores Públicos, de la Ley Orgánica del Tribunal Fiscal de la Federación, de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Ley Federal para Prevenir y Sancionar la Tortura y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y de la Ley Orgánica del Poder Judicial de la Federación.
-Publicado en el Diario Oficial de la Federación el 10 de enero de 1994 toda la República en Materia de Fuero Federal, se reforman los artículos: 8, 9, 12 párrafos primero y segundo, 13 primer párrafo y fracciones V, VI y VIII, 15, 16, 17, 29 párrafo segundo, 30 fracciones II y III, 32 fracción VI, 34 párrafo primero, 35 párrafo cuarto, 37, 52, 60 primero y segundo párrafo y la fracción II, 61, 62, 64 segundo párrafo, 64 bis, 65, 66, 71 párrafo primero, 85 párrafo primero, 86 fracción II, 90 inciso b) de la fracción I, y fracciones VII y VIII, 93 párrafo primero, 107 párrafo segundo, 111, 115, 153, 158 primer párrafo, 164 segundo párrafo, 170, 172 bis, 173 primer párrafo, 178, 187, 193, 194, 195, 196, 197, 198, 199, 201 párrafos primero y segundo, 209, 210, 225 fracciones IX, X, XII, XVII y XX, 228 fracción I, 231 párrafo primero, 340, 341, 247 párrafo primero y fracciones II y IV en su primer párrafo, 249 primer párrafo, 250 primer párrafo y fracciones II y IV, 284, 303, 310, 323, 368 fracción I, 388 y 390. Del mismo Código se adicionan: Un párrafo segundo al artículo 7, dos últimos párrafos al artículo 13, un párrafo cuarto al artículo 27, recorriéndose en su orden los actuales párrafos cuarto, quinto y sexto, pasando a ser los párrafos quinto, sexto y séptimo, un artículo 31 bis, un segundo párrafo al artículo 34, recorriéndose en su orden los actuales párrafos segundo y tercero pasando a ser tercero y cuarto, al
+Publicado en el Diario Oficial de la Federación el 10 de enero de 1994 toda la República en Materia de Fuero Federal, se reforman los artículos: 8, 9, 12 párrafos primero y
+**segundo.** , 13 primer párrafo y fracciones V, VI y VIII, 15, 16, 17, 29 párrafo segundo, 30 fracciones II y III, 32 fracción VI, 34 párrafo primero, 35 párrafo cuarto, 37, 52, 60 primero y segundo párrafo y la fracción II, 61, 62, 64 segundo párrafo, 64 bis, 65, 66, 71 párrafo primero, 85 párrafo primero, 86 fracción II, 90 inciso b) de la fracción I, y fracciones VII y VIII, 93 párrafo primero, 107 párrafo segundo, 111, 115, 153, 158 primer párrafo, 164 segundo párrafo, 170, 172 bis, 173 primer párrafo, 178, 187, 193, 194, 195, 196, 197, 198, 199, 201 párrafos primero y segundo, 209, 210, 225 fracciones IX, X, XII, XVII y XX, 228 fracción I, 231 párrafo primero, 340, 341, 247 párrafo primero y fracciones II y IV en su primer párrafo, 249 primer párrafo, 250 primer párrafo y fracciones II y IV, 284, 303, 310, 323, 368 fracción I, 388 y 390. Del mismo Código se adicionan: Un párrafo segundo al artículo 7, dos últimos párrafos al artículo 13, un párrafo
+**cuarto.** al artículo 27, recorriéndose en su orden los actuales párrafos cuarto, quinto y sexto, pasando a ser los párrafos quinto, sexto y séptimo, un artículo 31 bis, un segundo párrafo al artículo 34, recorriéndose en su orden los actuales párrafos segundo y tercero pasando a ser tercero y cuarto, al
 
 ### artículo 35
-un último párrafo, un artículo 69 bis, un segundo y quinto párrafos del artículo 93 recorriéndose los actuales párrafos segundo y tercero para ser los párrafos tercero y cuarto, un párrafo tercero y un párrafo cuarto del artículo 110, un artículo 195 bis, un artículo 196 bis, las fracciones III y IV al artículo 231, un artículo 248 bis, un segundo párrafo al artículo 286, un artículo 321 bis, un artículo 336 bis, un artículo 388 bis; y un párrafo segundo del artículo 390 y el apéndice 1; se derogan: los artículos 59 bis, la fracción VI del artículo 60, el último párrafo del artículo 70, el inciso e) de la fracción I del artículo 90, una fracción XXVII al artículo 225, 299, la fracción II del artículo 303, 311, 324, 325, 326, 327, 328, el segundo párrafo de la fracción X del artículo 387; se modifican las denominaciones de los Capítulos Segundo y Cuarto del Título Tercero del Libro Primero; Capítulo I del Título Séptimo del Libro Segundo; del Capítulo Primero del Título Decimonoveno del Libro Segundo, para quedar como sigue: ……… TRANSITORIOS PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
-SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con anterioridad a la vigencia del presente decreto, continuarán en los términos de las nuevas disposiciones contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.
-TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
-CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+un último párrafo, un artículo 69 bis, un segundo y quinto párrafos del artículo 93 recorriéndose los actuales párrafos segundo y tercero para ser los párrafos tercero y cuarto, un párrafo tercero y un párrafo cuarto del artículo 110, un artículo 195 bis, un artículo 196 bis, las fracciones III y IV al artículo 231, un artículo 248 bis, un segundo párrafo al artículo 286, un artículo 321 bis, un artículo 336 bis, un artículo 388 bis; y un párrafo segundo del artículo 390 y el apéndice 1; se derogan: los artículos 59 bis, la fracción VI del artículo 60, el último párrafo del artículo 70, el inciso e) de la fracción I del artículo 90, una fracción XXVII al artículo 225, 299, la fracción II del artículo 303, 311, 324, 325, 326, 327, 328, el segundo párrafo de la fracción X del artículo 387; se modifican las denominaciones de los Capítulos Segundo y Cuarto del Título Tercero del Libro Primero; Capítulo I del Título Séptimo del Libro Segundo; del Capítulo Primero del Título Decimonoveno del Libro Segundo, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+**SEGUNDO.-** Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con anterioridad a la vigencia del presente decreto, continuarán en los términos de las nuevas disposiciones contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.
+**TERCERO.-** A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
+**CUARTO.-** Se derogan todas las disposiciones que se opongan al presente decreto.
 Fe de erratas DOF 01-02-1994 DECRETO por el que se reforman y adicionan diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 25 de marzo de 1994 ARTICULO UNICO.- Se REFORMAN los artículos 402; el primer párrafo y las fracciones III y IV del
 
 ### artículo 403
-; el artículo 404; el primer párrafo y las fracciones IV, VII y VIII del artículo 405; el primer párrafo y la fracción V del artículo 406; el primer párrafo y las fracciones I, II, y III del artículo 407; el primer párrafo del artículo 409, y se ADICIONAN las fracciones V, VI, VII, VIII, IX, X, XI, y XII del artículo 403, las fracciones IX, X y XI, del artículo 405 y los artículos 411, 412 y 413, para quedar como sigue: ……… TRANSITORIO UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+; el artículo 404; el primer párrafo y las fracciones IV, VII y VIII del artículo 405; el primer párrafo y la fracción V del artículo 406; el primer párrafo y las fracciones I, II, y III del artículo 407; el primer párrafo del artículo 409, y se ADICIONAN las fracciones V, VI, VII, VIII, IX, X, XI, y XII del artículo 403, las fracciones IX, X y XI, del artículo 405 y los artículos 411, 412 y 413, para quedar como sigue: ………
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 DECRETO que reforma y adiciona diversas disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Código Fiscal de la Federación.
-Publicado en el Diario Oficial de la Federación el 22 de julio de 1994 ARTICULO PRIMERO.- Se reforma el apéndice 1 a que se refiere el artículo 195 bis del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… ARTICULOS TRANSITORIOS PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente decreto, con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán toda la República en Materia de Fuero Federal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
-TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+Publicado en el Diario Oficial de la Federación el 22 de julio de 1994 ARTICULO PRIMERO.- Se reforma el apéndice 1 a que se refiere el artículo 195 bis del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ……… ARTICULOS TRANSITORIOS
+**PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** A las personas que hayan cometido un delito de los contemplados en el presente decreto, con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán toda la República en Materia de Fuero Federal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
+**TERCERO.-** Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
 Fe de erratas DOF 01-08-1994 DECRETO por el que se reforman, adicionan y derogan diversos artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, del Código Fiscal de la Federación, del Código de Penales.
-Publicado en el Diario Oficial de la Federación el 13 de mayo de 1996 ARTÍCULO PRIMERO.- Se reforman los artículos 7o., fracción III, 64, segundo y tercer párrafo, 65, 70, fracciones I, II y III, 185, 189, 243, 253 párrafo primero y la fracción I, en sus incisos e) segundo párrafo y g), 289, 364 párrafo primero y fracción I, 366 párrafos primero con sus fracciones, segundo y tercero, y 400 bis; se adicionan un tercer párrafo al artículo 63, un segundo y tercer párrafo al artículo 65, un párrafo final al artículo 70 y otro al artículo 158, el artículo 196 ter, un segundo párrafo al artículo 243, el inciso i) a la fracción I del artículo 253, las fracciones VII y VIII al artículo 254, el artículo 254 ter, un segundo y tercer párrafo a la fracción I del artículo 364, un nuevo artículo 366 bis, hecho lo cual se recorre en su orden el actual artículo 366 bis, para ser el artículo 366 ter, la fracción III al artículo 368, los artículos 368 bis y 368 ter, un tercer párrafo al artículo 371, el artículo 377 y un último párrafo al artículo 400; se modifica la denominación del Título Vigésimo Tercero del Libro Segundo y se le divide en dos Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- El artículo 115 bis del Código Fiscal de la Federación, vigente hasta la entrada en vigor del presente decreto, seguirá aplicándose por los hechos realizados durante su vigencia. Asimismo, dicho precepto seguirá aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por el mencionado artículo.
+Publicado en el Diario Oficial de la Federación el 13 de mayo de 1996
+
+### ARTÍCULO PRIMERO
+Se reforman los artículos 7o., fracción III, 64, segundo y tercer párrafo, 65, 70, fracciones I, II y III, 185, 189, 243, 253 párrafo primero y la fracción I, en sus incisos e) segundo párrafo y g), 289, 364 párrafo primero y fracción I, 366 párrafos primero con sus fracciones, segundo y
+**tercero.** , y 400 bis; se adicionan un tercer párrafo al artículo 63, un segundo y tercer párrafo al artículo 65, un párrafo final al artículo 70 y otro al artículo 158, el artículo 196 ter, un segundo párrafo al artículo 243, el inciso i) a la fracción I del artículo 253, las fracciones VII y VIII al artículo 254, el artículo 254 ter, un
+**segundo.** y tercer párrafo a la fracción I del artículo 364, un nuevo artículo 366 bis, hecho lo cual se recorre en su orden el actual artículo 366 bis, para ser el artículo 366 ter, la fracción III al artículo 368, los artículos 368 bis y 368 ter, un tercer párrafo al artículo 371, el artículo 377 y un último párrafo al artículo 400; se modifica la denominación del Título Vigésimo Tercero del Libro Segundo y se le divide en dos Común, y para toda la República en Materia de Fuero Federal, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El artículo 115 bis del Código Fiscal de la Federación, vigente hasta la entrada en vigor del presente decreto, seguirá aplicándose por los hechos realizados durante su vigencia. Asimismo, dicho precepto seguirá aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por el mencionado artículo.
 Para proceder penalmente en los casos a que se refiere el artículo 115 bis del Código Fiscal de la Federación, en los términos del párrafo anterior, se seguirá requiriendo la querella de la Secretaría de Hacienda y Crédito Público.
 Para efectos de la aplicación de las penas respectivas, regirá lo dispuesto en el artículo 56 del Código Penal citado, sin que ello implique la extinción de los tipos penales.
-TERCERO.- Para los supuestos, sujetos y efectos del artículo anterior, los delitos previstos en el
+**TERCERO.-** Para los supuestos, sujetos y efectos del artículo anterior, los delitos previstos en el
 
 ### artículo 115
 bis del Código Fiscal de la Federación, se seguirán calificando como graves, en los términos procedentes.
 México, D.F., a 29 de abril de 1996.- Sen. Miguel Alemán Velasco, Presidente.- Dip. María Claudia Esqueda Llanes, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Sergio Vázquez Olivas, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de mayo del año de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Vías Generales de Comunicación; de la Ley Orgánica del Poder Judicial de la Federación y de la Ley Orgánica de la Procuraduría General de la República.
-Publicado en el Diario Oficial de la Federación el 7 de noviembre de 1996 ARTÍCULO PRIMERO.- Se adicionan los artículos 177 y 211 bis y se derogan la fracción IX del para toda la República en materia de Fuero Federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. materia de Fuero Común y para toda la República en materia de Fuero Federal, vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia.
+Publicado en el Diario Oficial de la Federación el 7 de noviembre de 1996
+
+### ARTÍCULO PRIMERO
+Se adicionan los artículos 177 y 211 bis y se derogan la fracción IX del para toda la República en materia de Fuero Federal, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. materia de Fuero Común y para toda la República en materia de Fuero Federal, vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia.
 Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal.
 México, D.F., a 29 de octubre de 1996.- Sen. Melchor de los Santos Ordóñez, Presidente.- Dip.
 Carlos Humberto Aceves del Olmo, Presidente.- Sen. Eduardo Andrade Sánchez, Secretario.- Dip.
@@ -3520,15 +3728,19 @@ Publicado en el Diario Oficial de la Federación el 22 de noviembre de 1996 ARTI
 
 ### artículo 407
 ; y el artículo 411. SE ADICIONAN la fracción XIII al artículo 403; la fracción VII al artículo 406; y una fracción IV al artículo 407. SE DEROGA la fracción IX del artículo 405; todos del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal, para quedar en los siguientes términos: ..........
-TRANSITORIO la República en Materia de Fuero Federal a que se refiere el artículo QUINTO del presente Decreto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
-ARTICULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTICULO 105 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION; DEL CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL; DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; Y SE EXPIDE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-TERCERO.- El seis de julio de 1997 se elegirán, para el Distrito Federal, exclusivamente el Jefe de Gobierno y los Diputados a la Asamblea Legislativa del Distrito Federal.
+
+## TRANSITORIO
+
+la República en Materia de Fuero Federal a que se refiere el artículo QUINTO del presente Decreto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+ARTICULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES; DE LA LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTICULO 105 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION; DEL CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL; DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL; Y SE EXPIDE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
+**PRIMERO.-** Las reformas a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las disposiciones transitorias de cada uno de los artículos de este Decreto.
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
+**TERCERO.-** El seis de julio de 1997 se elegirán, para el Distrito Federal, exclusivamente el Jefe de Gobierno y los Diputados a la Asamblea Legislativa del Distrito Federal.
 Se derogan todos los artículos del Estatuto de Gobierno del Distrito Federal referidos a la elección de los Consejeros Ciudadanos.
 Las normas que regulan las funciones sustantivas de los actuales Consejeros Ciudadanos establecidas en los ordenamientos vigentes, seguirán aplicándose hasta la terminación del periodo para el que fueron electos.
 Con base en el nuevo Estatuto de Gobierno del Distrito Federal, la Asamblea Legislativa expedirá las disposiciones relativas a la participación ciudadana en el Distrito Federal.
-CUARTO.- Se autoriza al titular del Poder Ejecutivo Federal para que por conducto de la Secretaría de Hacienda y Crédito Público, se realicen las transferencias presupuestales necesarias, a efecto de que las autoridades correspondientes puedan cumplir con las obligaciones y llevar a cabo las nuevas actividades que las presentes reformas y adiciones les imponen.
-QUINTO.- Los criterios de jurisprudencia sostenidos por la Sala Central y la Sala de Segunda Instancia del Tribunal Federal Electoral, según corresponda, continuarán siendo aplicables en tanto no se opongan a las reformas establecidas en los artículos SEGUNDO, TERCERO y CUARTO del presente Decreto.
+**CUARTO.-** Se autoriza al titular del Poder Ejecutivo Federal para que por conducto de la Secretaría de Hacienda y Crédito Público, se realicen las transferencias presupuestales necesarias, a efecto de que las autoridades correspondientes puedan cumplir con las obligaciones y llevar a cabo las nuevas actividades que las presentes reformas y adiciones les imponen.
+**QUINTO.-** Los criterios de jurisprudencia sostenidos por la Sala Central y la Sala de Segunda Instancia del Tribunal Federal Electoral, según corresponda, continuarán siendo aplicables en tanto no se opongan a las reformas establecidas en los artículos SEGUNDO, TERCERO y CUARTO del presente Decreto.
 Para que los criterios de jurisprudencia a que se refiere el párrafo anterior resulten obligatorios, se requerirá de la declaración formal de la Sala Superior del Tribunal Electoral. Hecha la declaración, la jurisprudencia se notificará de inmediato a las Salas Regionales, al Instituto Federal Electoral y, en su caso, a las autoridades electorales locales.
 México, D.F., a 19 de noviembre de 1996.- Dip. Heriberto M. Galindo Quiñones, Presidente.- Sen.
 Angel Sergio Guerrero Mier, Presidente.- Dip. Josué Valdés Mondragón, Secretario.- Sen. Jorge Gpe.
@@ -3546,25 +3758,44 @@ DECRETO por el que se deroga la fracción XVI del artículo 387, se reforma el a
 Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996 ARTICULO PRIMERO.- Se deroga la fracción XVI del artículo 387 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ..........
 Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ..........
 ARTICULO TERCERO.- Se adiciona un Título Vigésimo Sexto al Libro Segundo del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El artículo Segundo del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Los artículos Primero y Tercero entrarán en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- A las personas que hubieren cometido delitos contemplados en la Ley Federal de Derechos de Autor publicada en el Diario Oficial de la Federación el 29 de diciembre de 1956, con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que se hubieren realizado dichas conductas. Al efecto, los artículos 135 a 144 de dicha ley, seguirán vigentes y se aplicarán a la persecución, sanción y ejecución de sentencias por hechos ejecutados hasta antes de la entrada en vigor del Título Vigésimo Sexto que se adiciona al Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal por este Decreto.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El artículo Segundo del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Los artículos Primero y Tercero entrarán en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** A las personas que hubieren cometido delitos contemplados en la Ley Federal de Derechos de Autor publicada en el Diario Oficial de la Federación el 29 de diciembre de 1956, con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que se hubieren realizado dichas conductas. Al efecto, los artículos 135 a 144 de dicha ley, seguirán vigentes y se aplicarán a la persecución, sanción y ejecución de sentencias por hechos ejecutados hasta antes de la entrada en vigor del Título Vigésimo Sexto que se adiciona al Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal por este Decreto.
 México, D.F., a 5 de diciembre de 1996.- Dip. Sara Esther Muza Simón, Presidente.- Sen. Laura Pavón Jaramillo, Presidenta.- Dip. José Luis Martínez Alvarez, Secretario.- Sen. Angel Ventura Valle, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 DECRETO por el que se reforman la fracción III del artículo 231 de la Ley Federal del Derecho de Autor, así como la fracción III del artículo 424 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
 Publicado en el Diario Oficial de la Federación el 19 de mayo de 1997 ARTICULO SEGUNDO.- Se reforma la fracción III del artículo 424 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ..........
-TRANSITORIO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de abril de 1997.- Dip. Netzahualcóyotl de la Vega García, Presidente.- Sen.
 Judith Murguía Corral, Presidenta.- Dip. Gladys Merlín Castro, Secretario.- Sen. José Luis Medina Aguiar, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de mayo de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
-DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1997 ARTÍCULO TERCERO.- Se reforman los artículos 30, fracciones I y II; 203; 260, primer párrafo; 261; 265; 266, y 300; se adiciona el artículo 265 bis; un párrafo segundo al artículo 282, pasando el actual segundo a ser tercero; un Capítulo VIII al Título Decimonoveno; los artículos 343 bis; 343 ter; 343 quáter; materia de fuero común y para toda la República en materia de fuero federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+DECRETO por el que se reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1997
+
+### ARTÍCULO TERCERO
+Se reforman los artículos 30, fracciones I y II; 203; 260, primer párrafo; 261; 265; 266, y 300; se adiciona el artículo 265 bis; un párrafo segundo al artículo 282, pasando el actual
+**segundo.** a ser tercero; un Capítulo VIII al Título Decimonoveno; los artículos 343 bis; 343 ter; 343 quáter; materia de fuero común y para toda la República en materia de fuero federal, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
 México, D.F., a 13 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. José Antonio Álvarez Hernández, Secretario.- Sen. Gilberto Gutiérrez Quiroz, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 DECRETO por el que se modifican diversas leyes fiscales y otros ordenamientos federales.
-Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1998 materia de Fuero Federal Artículo Décimo Quinto. Se REFORMA el artículo 70, último párrafo del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, para quedar como sigue: ..........
-Transitorios PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
-SEGUNDO. El Artículo Cuarto de este Decreto entrará en vigor el 1o. de enero del año 2000.
+Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1998 materia de Fuero Federal
+
+### Artículo Décimo Quinto
+Se REFORMA el artículo 70, último párrafo del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, para quedar como sigue: ..........
+
+## Transitorios
+
+**PRIMERO.** El presente Decreto entrará en vigor el 1o. de enero de 1999.
+**SEGUNDO.** El Artículo Cuarto de este Decreto entrará en vigor el 1o. de enero del año 2000.
 México, D.F., a 30 de diciembre de 1998.- Dip. Juan Marcos Gutiérrez González, Presidente.- Sen.
 Mario Vargas Aguiar, Presidente.- Dip. José Ernesto Manrique Villarreal, Secretario.- Sen. Fernando Palomino Topete, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
@@ -3573,144 +3804,268 @@ Publicado en el Diario Oficial de la Federación el 8 de febrero de 1999 ARTICUL
 
 ### artículo 381
 ; se adicionan un segundo párrafo al artículo 178; los artículos 240 Bis y la fracción XVI al República en Materia de Fuero Federal, para quedar como sigue: .........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- A las personas que a la fecha de entrada en vigor del presente Decreto se encuentren sujetas a proceso penal por alguno de los delitos contenidos en las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, mencionadas en el Artículo Primero de este Decreto, le serán aplicables las disposiciones de dichos artículos vigentes al momento de la comisión del delito.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** A las personas que a la fecha de entrada en vigor del presente Decreto se encuentren sujetas a proceso penal por alguno de los delitos contenidos en las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, mencionadas en el Artículo Primero de este Decreto, le serán aplicables las disposiciones de dichos artículos vigentes al momento de la comisión del delito.
 Los procedimientos penales y de amparo no concluidos en la fecha señalada en el transitorio anterior, la Ley de Amparo vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto.
-TERCERO.- La resoluciones de la autoridad judicial en las que se hubiere prorrogado el arraigo domiciliario decretado originalmente seguirán subsistiendo por todo el término que se hubiere señalado en la prórroga.
+**TERCERO.-** La resoluciones de la autoridad judicial en las que se hubiere prorrogado el arraigo domiciliario decretado originalmente seguirán subsistiendo por todo el término que se hubiere señalado en la prórroga.
 México, D.F., a 2 de diciembre de 1998.- Sen. José Ramírez Gamero, Presidente.- Dip. Salvador Sánchez Vázquez, Presidente.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Dip. Horacio Veloz Muñoz, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de enero de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones en materia penal.
-Publicado en el Diario Oficial de la Federación el 17 de mayo de 1999 ARTICULO PRIMERO.- Se reforman, adicionan y derogan los artículos 25; 40; 64, párrafos primero y segundo; 65, párrafo tercero; 70, párrafo último; 85; 86; 90, fracción I incisos b), c) y d); 167, párrafo primero y fracciones II y VI; 168 Bis; la denominación del Título Noveno del Libro Segundo; la denominación del Capítulo Unico del Título Noveno del Libro Segundo; el Capítulo II del Título Noveno del Libro Segundo; 211 Bis 1; 211 Bis 2; 211 Bis 3; 211 Bis 4; 211 Bis 5; 211 Bis 6; 211 Bis 7; el Capítulo XI al Título Décimo del Libro Segundo; 222 Bis; 225, fracciones XXVII, XXVIII y los tres párrafos últimos; 253, fracción I inciso j); 254, fracción VII; 298; 307; 320; 366, fracciones I, II y párrafo último; 368, fracciones II y III; 368 Quáter; 376 Bis; 378; 381, primero y dos últimos párrafos; 381 Bis; 424, fracciones para toda la República en Materia de Fuero Federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán toda la República en Materia de Fuero Federal y de la Ley de la Propiedad Industrial vigentes en el momento en que se haya cometido.
+Publicado en el Diario Oficial de la Federación el 17 de mayo de 1999 ARTICULO PRIMERO.- Se reforman, adicionan y derogan los artículos 25; 40; 64, párrafos primero y
+**segundo.** ; 65, párrafo tercero; 70, párrafo último; 85; 86; 90, fracción I incisos b), c) y d); 167, párrafo
+**primero.** y fracciones II y VI; 168 Bis; la denominación del Título Noveno del Libro Segundo; la denominación del Capítulo Unico del Título Noveno del Libro Segundo; el Capítulo II del Título Noveno del Libro Segundo; 211 Bis 1; 211 Bis 2; 211 Bis 3; 211 Bis 4; 211 Bis 5; 211 Bis 6; 211 Bis 7; el Capítulo XI al Título Décimo del Libro Segundo; 222 Bis; 225, fracciones XXVII, XXVIII y los tres párrafos últimos; 253, fracción I inciso j); 254, fracción VII; 298; 307; 320; 366, fracciones I, II y párrafo último; 368, fracciones II y III; 368 Quáter; 376 Bis; 378; 381, primero y dos últimos párrafos; 381 Bis; 424, fracciones para toda la República en Materia de Fuero Federal, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán toda la República en Materia de Fuero Federal y de la Ley de la Propiedad Industrial vigentes en el momento en que se haya cometido.
 Procedimientos Penales respecto de la detención de personas en casos urgentes, se entenderán hechas al artículo 193 bis del mismo ordenamiento.
-CUARTO.- Las referencias que en el presente Decreto se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se publicarse la iniciativa por el que se reforman diversas disposiciones en materia penal que el ciudadano Presidente de los Estados Unidos Mexicanos envió a la consideración del Congreso de la Unión por conducto del Senado de la República como Cámara de Origen, el 23 de marzo de 1999.
+**CUARTO.-** Las referencias que en el presente Decreto se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se publicarse la iniciativa por el que se reforman diversas disposiciones en materia penal que el ciudadano Presidente de los Estados Unidos Mexicanos envió a la consideración del Congreso de la Unión por conducto del Senado de la República como Cámara de Origen, el 23 de marzo de 1999.
 México, D.F., a 29 de abril de 1999.- Sen. Héctor Ximénez González, Presidente.- Dip. María Mercedes Maciel Ortiz, Presidente.- Sen. Ma. del Carmen Bolado del Real, Secretario.- Dip. Mario Guillermo Haro Rodríguez, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de mayo de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones en materia penal.
 Publicado en el Diario Oficial de la Federación el 18 de mayo de 1999 ARTICULO PRIMERO.- Se modifica la denominación y se reforma el artículo 1; la fracción II del en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero México, D.F., a 29 de abril de 1999.- Sen. Héctor Ximénez González, Presidente.- Dip. María Mercedes Maciel Ortiz, Presidente.- Sen. Sonia Alcántara Magos, Secretario.- Dip. Leticia Villegas Nava, Secretario.- Rúbricas".
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero México, D.F., a 29 de abril de 1999.- Sen. Héctor Ximénez González, Presidente.- Dip. María Mercedes Maciel Ortiz, Presidente.- Sen. Sonia Alcántara Magos, Secretario.- Dip. Leticia Villegas Nava, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de mayo de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
-DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Publicado en el Diario Oficial de la Federación el 4 de enero de 2000 ARTÍCULO PRIMERO.- Se modifica la denominación del Capítulo II, Título Octavo, Libro Segundo, 201 bis 1, 201 bis 2, 201 bis 3, y un párrafo segundo al artículo 203; todos estos artículos, también, del ..........
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Publicado en el Diario Oficial de la Federación el 4 de enero de 2000
+
+### ARTÍCULO PRIMERO
+Se modifica la denominación del Capítulo II, Título Octavo, Libro Segundo, 201 bis 1, 201 bis 2, 201 bis 3, y un párrafo segundo al artículo 203; todos estos artículos, también, del ..........
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 9 de diciembre de 1999.- Sen. Luis Mejía Guzmán, Vicepresidente en funciones.- Dip.
 Francisco José Paoli Bolio, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Guadalupe Sánchez Martínez, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 DECRETO por el que se reforma y adiciona diversas disposiciones del Código Penal Judicial de la Federación.
 Publicado en el Diario Oficial de la Federación el 12 de junio de 2000 ARTICULO PRIMERO.- Se reforman los artículos 85, fracción I, inciso f), 366, los tres párrafos últimos, 366 bis, párrafo primero, 366 ter y 366 quáter, y se adiciona el artículo 366, con una fracción III y sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- En un plazo no mayor de seis meses, el Ejecutivo Federal deberá crear la estructura administrativa necesaria en la Procuraduría General de la República para la atención de los delitos previstos en los artículos 366, fracción III; 366 ter y 366 quáter previstos en este Decreto.
-Para los efectos del párrafo anterior, se autoriza al Ejecutivo Federal para hacer las adecuaciones presupuestarias que resulten necesarias. vigentes con anterioridad a la fecha de entrada en vigor de este Decreto, seguirán aplicándose respecto de hechos cometidos durante su vigencia.” CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** En un plazo no mayor de seis meses, el Ejecutivo Federal deberá crear la estructura administrativa necesaria en la Procuraduría General de la República para la atención de los delitos previstos en los artículos 366, fracción III; 366 ter y 366 quáter previstos en este Decreto.
+Para los efectos del párrafo anterior, se autoriza al Ejecutivo Federal para hacer las adecuaciones presupuestarias que resulten necesarias. vigentes con anterioridad a la fecha de entrada en vigor de este Decreto, seguirán aplicándose respecto de hechos cometidos durante su vigencia.”
+**CUARTO.-** Se derogan las disposiciones que se opongan al presente Decreto.
 México, D.F., a 29 de abril de 2000.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip.
 Francisco José Paoli Bolio, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Guadalupe Sánchez Martínez, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de junio de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Publicado en el Diario Oficial de la Federación el 1º de junio de 2001 denominado "Desaparición Forzada de Personas", con los artículos 215-A, 215-B, 215-C y 215-D, para quedar como sigue: ..........
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 25 de abril de 2001.- Dip.- Ricardo García Cervantes, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Manuel Medellín Milán, Secretario.- Sen. Yolanda González Hernández, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de los códigos Penal Federal y Federal de Procedimientos Penales.
-Publicado en el Diario Oficial de la Federación el 6 de febrero de 2002 ARTÍCULO PRIMERO.- Se reforman los artículos 60, segundo párrafo, 414, 415, 416, 417, 418, 419, 420, 421, 422 y 423, así como la denominación del Título Vigésimo Quinto, y se adicionan un último párrafo al artículo 421 y los Capítulos Primero al Quinto, y artículos 420 Bis, 420 Ter y 420 Quater del ..........
-TRANSITORIOS PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, México, D.F., a 27 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
+Publicado en el Diario Oficial de la Federación el 6 de febrero de 2002
+
+### ARTÍCULO PRIMERO
+Se reforman los artículos 60, segundo párrafo, 414, 415, 416, 417, 418, 419, 420, 421, 422 y 423, así como la denominación del Título Vigésimo Quinto, y se adicionan un último párrafo al artículo 421 y los Capítulos Primero al Quinto, y artículos 420 Bis, 420 Ter y 420 Quater del ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, México, D.F., a 27 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Martha Silvia Sánchez González, Secretario.Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de febrero de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.Rúbrica.
 DECRETO por el que se deroga el párrafo quinto del artículo 93, del Código Penal Federal.
 Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2002 como sigue: ..........
-TRANSITORIO Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 18 de septiembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Sara I.
 Castellanos Cortés, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de noviembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2002 ARTÍCULO PRIMERO: Se reforman, el párrafo primero del artículo 51; y, la fracción V del artículo 52, ..........
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2002
+
+### ARTÍCULO PRIMERO
+: Se reforman, el párrafo primero del artículo 51; y, la fracción V del artículo 52, ..........
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 12 de noviembre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Lydia Madero García, Secretario.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforma el inciso b), fracción I, del artículo 85 del Código Penal Federal.
 Publicado en el Diario Oficial de la Federación el 12 de junio de 2003 quedar como sigue: ..........
-TRANSITORIO Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.- Sen. Yolanda E.
 González Hernández, Secretaria.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-DECRETO por el que se reforman los artículos 25, segundo párrafo, 55 y 64, segundo Publicado en el Diario Oficial de la Federación el 26 de mayo de 2004 ARTÍCULO ÚNICO. Se reforman los artículos 25, Segundo Párrafo, 55 y 64, Segundo Párrafo del ..........
-TRANSITORIO ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman los artículos 25, segundo párrafo, 55 y 64, segundo Publicado en el Diario Oficial de la Federación el 26 de mayo de 2004
+
+### ARTÍCULO ÚNICO
+Se reforman los artículos 25, Segundo Párrafo, 55 y 64, Segundo Párrafo del ..........
+
+## TRANSITORIO
+
+**ÚNICO.** El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de abril de 2004.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de mayo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se adiciona el inciso d) a la fracción I del artículo 366 del Código Penal Federal.
 Publicado en el Diario Oficial de la Federación el 16 de junio de 2005 quedar como sigue: ..........
-TRANSITORIO Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 27 de abril de 2005.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de mayo de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones del Código Penal.
-Publicado en el Diario Oficial de la Federación el 23 de agosto de 2005 Artículo Único.
+Publicado en el Diario Oficial de la Federación el 23 de agosto de 2005
+
+### Artículo Único
 Se reforman los artículos 29, párrafo segundo; 222, párrafos tercero y cuarto, y 222 bis, del Código Penal Federal, para quedar como sigue: ..........
-TRANSITORIOS Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo. A las personas que hayan cometido algún delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes al momento de su comisión.
+
+## TRANSITORIOS
+
+**Primero.** Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** A las personas que hayan cometido algún delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes al momento de su comisión.
 México, D.F., a 20 de julio de 2005.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I.
 Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de agosto de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 Publicado en el Diario Oficial de la Federación el 8 de febrero de 2006 quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 México, D.F., a 14 de diciembre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip.
 Heliodoro Díaz Escárraga, Presidente.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Dip. Ma.
 Sara Rocha Medina, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de febrero de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 Publicado en el Diario Oficial de la Federación el 19 de mayo de 2006 ..........
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 6 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Carlos Chaurand Arzate, Vicepresidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-Publicado en el Diario Oficial de la Federación el 6 de junio de 2006 ARTÍCULO SEGUNDO.- Se adicionan las fracciones XIII y XIV al artículo 215; se reforman las fracciones XI y XII, así como el párrafo tercero del artículo 215; se adiciona una fracción XXIX al artículo 225; se reforman las fracciones XXVII y XXVIII, así como el párrafo tercero del artículo 225 todos del ..........
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 6 de junio de 2006
+
+### ARTÍCULO SEGUNDO
+Se adicionan las fracciones XIII y XIV al artículo 215; se reforman las fracciones XI y XII, así como el párrafo tercero del artículo 215; se adiciona una fracción XXIX al artículo 225; se reforman las fracciones XXVII y XXVIII, así como el párrafo tercero del artículo 225 todos del ..........
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 18 de abril de 2006.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcela González Salas P., Presidenta.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-Publicado en el Diario Oficial de la Federación el 30 de junio de 2006 ARTÍCULO ÚNICO.- Se reforma el segundo párrafo de la fracción III del artículo 84 del Código Penal Federal, para quedar como sigue: ..........
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 30 de junio de 2006
+
+### ARTÍCULO ÚNICO
+Se reforma el segundo párrafo de la fracción III del artículo 84 del Código Penal Federal, para quedar como sigue: ..........
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 26 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Micaela Aguilar González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-DECRETO por el que se reforman y adicionan los artículos 15, 52, 72 y 73 de la Ley de la Comisión Nacional de los Derechos Humanos; 8 de la Ley Federal de Responsabilidades Publicado en el Diario Oficial de la Federación el 30 de junio de 2006 ARTÍCULO TERCERO.- Se adiciona una fracción V, recorriéndose en su orden la vigente y se ..........
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman y adicionan los artículos 15, 52, 72 y 73 de la Ley de la Comisión Nacional de los Derechos Humanos; 8 de la Ley Federal de Responsabilidades Publicado en el Diario Oficial de la Federación el 30 de junio de 2006
+
+### ARTÍCULO TERCERO
+Se adiciona una fracción V, recorriéndose en su orden la vigente y se ..........
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 26 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Micaela Aguilar González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del contra la Delincuencia Organizada, en materia de explotación sexual infantil.
-Publicado en el Diario Oficial de la Federación el 27 de marzo de 2007 ARTÍCULO PRIMERO: Se reforma el inciso c) del artículo 85; las denominaciones del Título Octavo y de sus correspondientes Capítulos Primero, Segundo, Tercero y Cuarto del Libro Segundo; los artículos 200; 201 bis; 202; 203; 204; 205; 206, 207, 208 y 209. Se adicionan los artículos 202 bis 203 bis, 204 bis, 205 bis y 206 bis; tres nuevos Capítulos Quinto, Sexto y Séptimo al Título Octavo, un Capítulo Tercero al
+Publicado en el Diario Oficial de la Federación el 27 de marzo de 2007
+
+### ARTÍCULO PRIMERO
+: Se reforma el inciso c) del artículo 85; las denominaciones del Título Octavo y de sus correspondientes Capítulos Primero, Segundo, Tercero y Cuarto del Libro Segundo; los artículos 200; 201 bis; 202; 203; 204; 205; 206, 207, 208 y 209. Se adicionan los artículos 202 bis 203 bis, 204 bis, 205 bis y 206 bis; tres nuevos Capítulos Quinto, Sexto y Séptimo al Título Octavo, un Capítulo Tercero al
 
 ## Título Décimo Octavo ambos del Libro Segundo. Se derogan los artículos 201 BIS 1, 201 BIS 2 y 201 BIS
 .........
-TRANSITORIOS ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 20 de febrero de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de marzo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
-Publicado en el Diario Oficial de la Federación el 13 de abril de 2007 ARTÍCULO PRIMERO.- Se derogan los artículos 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, ..........
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 13 de abril de 2007
+
+### ARTÍCULO PRIMERO
+Se derogan los artículos 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, ..........
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 6 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión;
 General de Instituciones y Sociedades Mutualistas de Seguros; y de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
-Publicado en el Diario Oficial de la Federación el 28 de junio de 2007 ARTICULO PRIMERO. Se reforman los artículos 2o., fracción I, 139, el segundo párrafo del 142, 145 Y 167, fracciones VII, VIII y IX; y se adicionan los artículos 139 Bis y 139 Ter, un Capítulo III al Título Segundo del Libro Segundo denominándose "Terrorismo Internacional", que incluye los artículos 148 Bis, ...........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
+Publicado en el Diario Oficial de la Federación el 28 de junio de 2007 ARTICULO PRIMERO. Se reforman los artículos 2o., fracción I, 139, el segundo párrafo del 142, 145 Y 167, fracciones VII, VIII y IX; y se adicionan los artículos 139 Bis y 139 Ter, un Capítulo III al Título
+**Segundo.** del Libro Segundo denominándose "Terrorismo Internacional", que incluye los artículos 148 Bis, ...........
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
 México, D.F., a 26 de abril de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 DECRETO por el que se expide la Ley para Prevenir y Sancionar la Trata de Personas, y se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Penal Federal.
-Publicado en el Diario Oficial de la Federación el 27 de noviembre de 2007 ARTÍCULO CUARTO. Se reforma el artículo 85, fracción I, inciso c), se adiciona una fracción II recorriéndose en consecuencia la actual fracción II para quedar como fracción III, se reforma el artículo TRANSITORIOS Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 días hábiles.
+Publicado en el Diario Oficial de la Federación el 27 de noviembre de 2007
+
+### ARTÍCULO CUARTO
+Se reforma el artículo 85, fracción I, inciso c), se adiciona una fracción II recorriéndose en consecuencia la actual fracción II para quedar como fracción III, se reforma el artículo
+
+## TRANSITORIOS
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 días hábiles.
 México, D.F., a 2 de octubre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de noviembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 DECRETO por el que se reforma el primer párrafo del artículo 247 del Código Penal Federal.
 Publicado en el Diario Oficial de la Federación el 20 de junio de 2008 como sigue: ..........
-TRANSITORIO Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
-DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, de la Ley General de Títulos y Operaciones de Crédito, del Publicado en el Diario Oficial de la Federación el 26 de junio de 2008 Artículo Cuarto.- Se reforman los incisos i) y j) de la fracción I, del artículo 85; se adicionan los quedar como sigue: ……….
-Transitorios Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Los delitos previstos en los artículos 112 Bis de la Ley de Instituciones de Crédito y 240 Bis por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
-Tercero. Para los supuestos, sujetos y efectos del artículo anterior, los delitos previstos en el artículo México, D.F., a 22 de abril de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, de la Ley General de Títulos y Operaciones de Crédito, del Publicado en el Diario Oficial de la Federación el 26 de junio de 2008
+
+### Artículo Cuarto
+Se reforman los incisos i) y j) de la fracción I, del artículo 85; se adicionan los quedar como sigue: ……….
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Los delitos previstos en los artículos 112 Bis de la Ley de Instituciones de Crédito y 240 Bis por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
+**Tercero.** Para los supuestos, sujetos y efectos del artículo anterior, los delitos previstos en el artículo México, D.F., a 22 de abril de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Organizada, de la Ley que Establece las Normas Mínimas sobre Readaptación Social de Ley Orgánica de la Procuraduría General de la República, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y de la Ley Federal de Procedimiento Contencioso Administrativo.
-Publicado en el Diario Oficial de la Federación el 23 de enero de 2009 ARTÍCULO CUARTO.- Se REFORMAN los artículos 87; 215, fracción V, así como el párrafo último; 225, fracción X y el párrafo tercero; 247, párrafo primero; 282, actual párrafo tercero; 400, fracciones IV y V; se ADICIONAN, al Título Cuarto un Capítulo V, con la denominación “Transparencia en los Beneficios de Libertad Anticipada o Condena Condicional”, con un artículo 90 Bis; la fracción XV al artículo 215; las fracciones XXX, XXXI y XXXII al artículo 225; el artículo 247 Bis; el párrafo tercero, recorriéndose el actual en su orden, al artículo 282; las fracciones VI y VII al artículo 400; se DEROGA la fracción XXIX del ……….
-TRANSITORIOS PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. vigente hasta en tanto entre en vigor el sistema procesal acusatorio a que se refiere el Decreto por el que se reforman los artículos 16, 17, 18, 19, 20, 21 y 22, las fracciones XXI y XXIII del artículo 73, la fracción VII del artículo 115 y la fracción XIII del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
-TERCERO. Dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, las autoridades competentes deberán expedir las disposiciones administrativas necesarias para regular recepción, transmisión y conservación de la información derivada de las detenciones a que se refieren los Procedimientos Penales.
+Publicado en el Diario Oficial de la Federación el 23 de enero de 2009
+
+### ARTÍCULO CUARTO
+Se REFORMAN los artículos 87; 215, fracción V, así como el párrafo último; 225, fracción X y el párrafo tercero; 247, párrafo primero; 282, actual párrafo tercero; 400, fracciones IV y V; se ADICIONAN, al Título Cuarto un Capítulo V, con la denominación “Transparencia en los Beneficios de Libertad Anticipada o Condena Condicional”, con un artículo 90 Bis; la fracción XV al artículo 215; las fracciones XXX, XXXI y XXXII al artículo 225; el artículo 247 Bis; el párrafo tercero, recorriéndose el actual en su orden, al artículo 282; las fracciones VI y VII al artículo 400; se DEROGA la fracción XXIX del ……….
+
+## TRANSITORIOS
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. vigente hasta en tanto entre en vigor el sistema procesal acusatorio a que se refiere el Decreto por el que se reforman los artículos 16, 17, 18, 19, 20, 21 y 22, las fracciones XXI y XXIII del artículo 73, la fracción VII del artículo 115 y la fracción XIII del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
+**TERCERO.** Dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, las autoridades competentes deberán expedir las disposiciones administrativas necesarias para regular recepción, transmisión y conservación de la información derivada de las detenciones a que se refieren los Procedimientos Penales.
 México, D.F., a 9 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip.
 Cesar Horacio Duarte Jaquez, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip.
 Rosa Elia Romero Guzman, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y del Código Penal Federal.
-Publicado en el Diario Oficial de la Federación el 28 de mayo de 2009 Artículo Cuarto.- Se reforma el Artículo 217 párrafo segundo y se derogan sus párrafos tercero y ……….
-ARTÍCULOS TRANSITORIOS PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que para su aplicación requieran de las modificaciones al sistema electrónico CompraNet a que se refiere el artículo Décimo transitorio del presente Decreto.
-SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
-TERCERO. En tanto se expidan las reformas correspondientes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y al Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como las demás disposiciones administrativas derivadas de este Decreto, se continuarán aplicando los reglamentos de dichas leyes y disposiciones administrativas vigentes en la materia, en lo que no se opongan al presente Decreto.
-CUARTO. La Secretaría de la Función Pública realizará cada año una evaluación para determinar el incremento de la cobertura de participación de los testigos sociales a que se refieren los artículos 26 Ter de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 27 Bis de la Ley de Obras Públicas y Servicios Relacionados con las Mismas. Asimismo, esa Secretaría instrumentará medidas con el propósito de ampliar dicha cobertura para garantizar, en un plazo de diez años a partir de la entrada en vigor de esta Ley, la cobertura total de testigos sociales en la contratación pública.
-QUINTO. Para la adecuada aplicación del criterio de evaluación de proposiciones a través del mecanismo de puntos y porcentajes a que hacen referencia los artículos 36 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 38 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, la Secretaría de la Función Pública emitirá en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, los lineamientos correspondientes.
-SEXTO. Los lineamientos a que se refiere el segundo párrafo de los artículos 48 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán ser emitidos en un plazo no mayor a seis meses, contados a partir de la entrada en vigor de los preceptos legales mencionados.
-SÉPTIMO. Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su inicio.
-OCTAVO. Los contratos celebrados antes de la entrada en vigor del presente Decreto, continuarán regulándose hasta su terminación por las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su celebración.
-NOVENO. Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Decreto, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
-DÉCIMO. Las adecuaciones al sistema electrónico de contrataciones gubernamentales CompraNet que permitan la aplicación de las reformas que mediante el presente Decreto se realizan a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y a la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán estar concluidas en un plazo no mayor a un año, contado a partir de la fecha de entrada en vigor de este Decreto.
-Entrarán en vigor dentro de dicho plazo conforme se realicen las modificaciones a que se refiere el párrafo anterior, los artículos 37 párrafo quinto en cuanto a la notificación del fallo en CompraNet; 48 segundo párrafo respecto de la obligación de las dependencias y entidades para considerar los antecedentes de cumplimiento de proveedores en los contratos a efecto de determinar los porcentajes de las garantías; 50 último párrafo, 56 y 69 párrafo segundo, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; 39 penúltimo párrafo en cuanto a la notificación del fallo en CompraNet; 48 segundo párrafo respecto de la obligación de las dependencias y entidades para considerar los antecedentes de cumplimiento de contratistas en los contratos a efecto de determinar los porcentajes de las garantías; 51 último párrafo, 74 y 87 párrafo segundo, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+Publicado en el Diario Oficial de la Federación el 28 de mayo de 2009
+
+### Artículo Cuarto
+Se reforma el Artículo 217 párrafo segundo y se derogan sus párrafos tercero y ……….
+ARTÍCULOS TRANSITORIOS
+**PRIMERO.** El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que para su aplicación requieran de las modificaciones al sistema electrónico CompraNet a que se refiere el artículo Décimo transitorio del presente Decreto.
+**SEGUNDO.** Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+**TERCERO.** En tanto se expidan las reformas correspondientes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y al Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como las demás disposiciones administrativas derivadas de este Decreto, se continuarán aplicando los reglamentos de dichas leyes y disposiciones administrativas vigentes en la materia, en lo que no se opongan al presente Decreto.
+**CUARTO.** La Secretaría de la Función Pública realizará cada año una evaluación para determinar el incremento de la cobertura de participación de los testigos sociales a que se refieren los artículos 26 Ter de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 27 Bis de la Ley de Obras Públicas y Servicios Relacionados con las Mismas. Asimismo, esa Secretaría instrumentará medidas con el propósito de ampliar dicha cobertura para garantizar, en un plazo de diez años a partir de la entrada en vigor de esta Ley, la cobertura total de testigos sociales en la contratación pública.
+**QUINTO.** Para la adecuada aplicación del criterio de evaluación de proposiciones a través del mecanismo de puntos y porcentajes a que hacen referencia los artículos 36 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 38 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, la Secretaría de la Función Pública emitirá en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, los lineamientos correspondientes.
+**SEXTO.** Los lineamientos a que se refiere el segundo párrafo de los artículos 48 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán ser emitidos en un plazo no mayor a seis meses, contados a partir de la entrada en vigor de los preceptos legales mencionados.
+**SÉPTIMO.** Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su inicio.
+**OCTAVO.** Los contratos celebrados antes de la entrada en vigor del presente Decreto, continuarán regulándose hasta su terminación por las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda, vigentes al momento de su celebración.
+**NOVENO.** Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Decreto, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+**DÉCIMO.** Las adecuaciones al sistema electrónico de contrataciones gubernamentales CompraNet que permitan la aplicación de las reformas que mediante el presente Decreto se realizan a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y a la Ley de Obras Públicas y Servicios Relacionados con las Mismas, deberán estar concluidas en un plazo no mayor a un año, contado a partir de la fecha de entrada en vigor de este Decreto.
+Entrarán en vigor dentro de dicho plazo conforme se realicen las modificaciones a que se refiere el párrafo anterior, los artículos 37 párrafo quinto en cuanto a la notificación del fallo en CompraNet; 48
+**segundo.** párrafo respecto de la obligación de las dependencias y entidades para considerar los antecedentes de cumplimiento de proveedores en los contratos a efecto de determinar los porcentajes de las garantías; 50 último párrafo, 56 y 69 párrafo segundo, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; 39 penúltimo párrafo en cuanto a la notificación del fallo en CompraNet; 48
+**segundo.** párrafo respecto de la obligación de las dependencias y entidades para considerar los antecedentes de cumplimiento de contratistas en los contratos a efecto de determinar los porcentajes de las garantías; 51 último párrafo, 74 y 87 párrafo segundo, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
 En tanto entran en vigor las disposiciones a que se refiere el párrafo anterior, los actos señalados en las mismas se continuarán realizando conforme a la normatividad vigente.
 En un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, estará disponible en CompraNet la información relativa a los programas anuales en materia de adquisiciones, arrendamientos y servicios y obras públicas y servicios relacionados con las mismas de las dependencias y entidades, padrón de testigos sociales, el registro de proveedores y contratistas sancionados, y los testimonios de los testigos sociales, a que se refieren los artículos 56 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 74 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
 En el caso de las dependencias y entidades que cuenten con una base de datos sobre el cumplimiento de los proveedores y contratistas en los contratos que hayan celebrado con los mismos, podrán aplicar a la entrada en vigor del presente Decreto, lo dispuesto en el segundo párrafo del artículo 48 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y en el segundo párrafo del
@@ -3722,74 +4077,133 @@ DÉCIMO SEGUNDO. La unidad administrativa de la Secretaría de la Función Públ
 DÉCIMO TERCERO. La Secretaría de la Función Pública emitirá los lineamientos que promuevan la agilización de los pagos a proveedores, que se regulan en el artículo 51 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Decreto.
 DÉCIMO CUARTO. Con independencia de las excepciones al procedimiento de licitación previstas en el artículo 42 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, a partir del siguiente día de la publicación del presente Decreto en el Diario Oficial de la Federación y hasta el 31 de diciembre de 2009, se exceptuará también del procedimiento de licitación pública toda contratación de construcción, mantenimiento o reparación de obras, en la que se acredite contar con empleo intensivo de mano de obra que represente al menos un 50% del costo total del proyecto.
 DÉCIMO QUINTO. La suma de los montos de los contratos que se realicen durante el año 2009, al amparo del artículo 43 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, no podrá exceder del treinta y cinco por ciento del presupuesto autorizado para llevar a cabo obras públicas y servicios relacionados con las mismas; el monto asignado a cada contratista no podrá exceder del cinco por ciento de dicho presupuesto.
-DÉCIMO SEXTO. El Ejecutivo Federal deberá informar a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados, en su caso, a través de la Comisión Permanente del Congreso de la Unión, sobre los avances en los ahorros que se generen con motivo de la aplicación de las medidas relativas a la racionalización del gasto previstas en el Programa de Mediano Plazo, conforme a lo dispuesto en los artículos 45 y 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; en el artículo segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de las Leyes Federal de Presupuesto y Responsabilidad Hacendaria; Orgánica de la Administración Pública Federal, de Coordinación Fiscal, de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 1 de octubre de 2007; así como el artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009.
+DÉCIMO SEXTO. El Ejecutivo Federal deberá informar a la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados, en su caso, a través de la Comisión Permanente del Congreso de la Unión, sobre los avances en los ahorros que se generen con motivo de la aplicación de las medidas relativas a la racionalización del gasto previstas en el Programa de Mediano Plazo, conforme a lo dispuesto en los artículos 45 y 61 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; en el
+
+### artículo segundo
+del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de las Leyes Federal de Presupuesto y Responsabilidad Hacendaria; Orgánica de la Administración Pública Federal, de Coordinación Fiscal, de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas, publicado en el Diario Oficial de la Federación el 1 de octubre de 2007; así como el artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009.
 La Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados tomará en cuenta la información que rinda el Ejecutivo Federal, respecto a los conceptos señalados en el artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009, para efectos del proceso de aprobación del Presupuesto de Egresos de la Federación para el ejercicio fiscal del año 2010.
 DÉCIMO SÉPTIMO.- El Ejecutivo Federal, a través de la Secretaría de la Función Pública y de la Secretaría del Medio Ambiente y Recursos Naturales, en un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, emitirá los lineamientos para la debida aplicación de lo dispuesto en el párrafo cuarto del artículo 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
 México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen.
 Gabino Cue Monteagudo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
-Publicado en el Diario Oficial de la Federación el 24 de junio de 2009 Artículo Único. Se adicionan un párrafo tercero al artículo 211 bis 2; un párrafo tercero al artículo 211 para quedar como sigue: ……….
-TRANSITORIO Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 24 de junio de 2009
+
+### Artículo Único
+Se adicionan un párrafo tercero al artículo 211 bis 2; un párrafo tercero al artículo 211 para quedar como sigue: ……….
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 11 de diciembre de 2008.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen.
 Gustavo Enrique Madero Muñoz, Presidente.- Dip. Manuel Portilla Dieguez, Secretario.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de marzo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Penales.
-Publicado en el Diario Oficial de la Federación el 20 de agosto de 2009 Artículo Segundo. Se REFORMA el artículo 195, 195 bis y 199; y se ADICIONAN los párrafos ……….
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 20 de agosto de 2009
+
+### Artículo Segundo
+Se REFORMA el artículo 195, 195 bis y 199; y se ADICIONAN los párrafos ……….
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Para efecto de lo dispuesto en el artículo 474 de la Ley General de Salud, las legislaturas locales y la Asamblea Legislativa del Distrito Federal contarán con el plazo de un año a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la legislación que corresponda.
 La Federación y las entidades federativas contarán con el plazo de tres años a partir de la entrada en vigor del presente Decreto, para realizar las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo.
-SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
-TERCERO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
-CUARTO.- Las autoridades competentes financiaran las acciones derivadas del cumplimiento del presente Decreto con los recursos que anualmente se prevea en el Presupuesto de Egresos de la Federación, sin menoscabo de los recursos que para tales efectos aporten las entidades federativas.
-QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+**SEGUNDO.-** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+**TERCERO.-** A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+**CUARTO.-** Las autoridades competentes financiaran las acciones derivadas del cumplimiento del presente Decreto con los recursos que anualmente se prevea en el Presupuesto de Egresos de la Federación, sin menoscabo de los recursos que para tales efectos aporten las entidades federativas.
+**QUINTO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 30 de Abril de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. José Manuel del Río Virgen, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Transporte Ferroviario.
-Publicado en el Diario Oficial de la Federación el 18 de junio de 2010 Artículo Primero. Se reforman el segundo párrafo del artículo 286 y el último párrafo del artículo 381; ……….
-TRANSITORIOS Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Artículo Segundo.- Los procesos que se encuentren en conocimiento de los Jueces del Fuero Común de los Estados y del Distrito Federal, continuarán de la misma forma hasta su conclusión.
+Publicado en el Diario Oficial de la Federación el 18 de junio de 2010
+
+### Artículo Primero
+Se reforman el segundo párrafo del artículo 286 y el último párrafo del artículo 381; ……….
+
+## TRANSITORIOS
+
+
+### Artículo Primero
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### Artículo Segundo
+Los procesos que se encuentren en conocimiento de los Jueces del Fuero Común de los Estados y del Distrito Federal, continuarán de la misma forma hasta su conclusión.
 México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vazquez Aguilar, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica. la Ley de la Propiedad Industrial.
 Publicado en el Diario Oficial de la Federación el 28 de junio de 2010 ……….
-Transitorio Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 6 de abril de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal los Derechos de Niñas, Niños y Adolescentes; de la Ley General de Educación; de la Ley de Asociaciones Religiosas y Culto Público; de la Ley Federal de Protección al Consumidor y de la Ley Reglamentaria del Artículo 5 Constitucional relativo al ejercicio de las profesiones en el Distrito Federal.
-Publicado en el Diario Oficial de la Federación el 19 de agosto de 2010 ARTÍCULO PRIMERO.- Se reforma la fracción II del artículo 30; el primer párrafo y fracción IV del
+Publicado en el Diario Oficial de la Federación el 19 de agosto de 2010
+
+### ARTÍCULO PRIMERO
+Se reforma la fracción II del artículo 30; el primer párrafo y fracción IV del
 
 ### artículo 52
 ; el inciso c) de la fracción I del artículo 85 y el primer párrafo del artículo 209. Y se adiciona un tercer párrafo al artículo 6; la fracción VI al artículo 32, recorriéndose la fracción VI vigente para constituirse en fracción VII; el artículo 107 Bis; un tercer párrafo al artículo 209 y un Capítulo VIII, denominado "Pederastia", al Título Octavo, cuyo capítulo comprende los artículos 209 Bis y 209 Ter, ……….
-TRANSITORIO Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. ……… México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de agosto de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-DECRETO por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010 ARTÍCULO TERCERO. Se reforman los artículos 55, párrafos segundo y cuarto; 64, párrafo primero; 85, inciso f), de la fracción I; el artículo 215, en su fracción XIII y último párrafo y la fracción XIV; se adicionan el numeral 19 al artículo 24, la fracción IV al artículo 85, el artículo 180 Bis y la fracción XVI al sigue: ……….
-ARTÍCULOS TRANSITORIOS Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
-Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
-Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-Cuarto. La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
-Quinto. Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
-Sexto. El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
-Séptimo. El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
-Octavo. La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
-Noveno. El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
-Décimo. Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
-Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
-Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. ……… México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de agosto de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+DECRETO por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010
+
+### ARTÍCULO TERCERO
+Se reforman los artículos 55, párrafos segundo y cuarto; 64, párrafo primero; 85, inciso f), de la fracción I; el artículo 215, en su fracción XIII y último párrafo y la fracción XIV; se adicionan el numeral 19 al artículo 24, la fracción IV al artículo 85, el artículo 180 Bis y la fracción XVI al sigue: ……….
+ARTÍCULOS TRANSITORIOS
+**Primero.** El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+**Tercero.** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+**Cuarto.** La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
+**Quinto.** Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+**Sexto.** El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
+**Séptimo.** El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
+**Octavo.** La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
+**Noveno.** El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
+**Décimo.** Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
+**Décimo Primero.** El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
+**Décimo Segundo.** En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 México, D. F., a 7 de octubre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. María de Jesús Aguirre Maldonado, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 29 de noviembre de 2010.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federación.
-Publicado en el Diario Oficial de la Federación el 10 de mayo de 2011 ARTÍCULO SEGUNDO. Se ADICIONA un artículo 254 bis y se DEROGA el artículo 253 fracción I, ……….
-ARTÍCULOS TRANSITORIOS ARTÍCULO PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos tercero, cuarto y sexto transitorios siguientes.
-ARTÍCULO SEGUNDO. En un plazo no mayor a seis meses a partir de la entrada en vigor del presente decreto, el Pleno publicará los criterios técnicos a que hace referencia el artículo 24, fracción XVIII bis, incisos a) a j) de la Ley Federal de Competencia Económica.
-ARTÍCULO TERCERO. El artículo 28, párrafos primero y segundo, de la Ley Federal de Competencia Económica entrará en vigor una vez que concluya el periodo actual del Presidente de la Comisión.
-ARTÍCULO CUARTO. Las investigaciones, visitas de verificación, procedimientos y cualquier otro asunto que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio.
+Publicado en el Diario Oficial de la Federación el 10 de mayo de 2011
+
+### ARTÍCULO SEGUNDO
+Se ADICIONA un artículo 254 bis y se DEROGA el artículo 253 fracción I, ……….
+ARTÍCULOS TRANSITORIOS
+
+### ARTÍCULO PRIMERO
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos tercero, cuarto y sexto transitorios siguientes.
+
+### ARTÍCULO SEGUNDO
+En un plazo no mayor a seis meses a partir de la entrada en vigor del presente decreto, el Pleno publicará los criterios técnicos a que hace referencia el artículo 24, fracción XVIII bis, incisos a) a j) de la Ley Federal de Competencia Económica.
+
+### ARTÍCULO TERCERO
+El artículo 28, párrafos primero y segundo, de la Ley Federal de Competencia Económica entrará en vigor una vez que concluya el periodo actual del Presidente de la Comisión.
+
+### ARTÍCULO CUARTO
+Las investigaciones, visitas de verificación, procedimientos y cualquier otro asunto que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio.
 Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la Ley vigente al momento de su realización.
-ARTÍCULO QUINTO. Los recursos necesarios para la implementación del presente Decreto, serán con cargo al presupuesto autorizado de la Comisión Federal de Competencia.
-ARTÍCULO SEXTO. La reforma al artículo 39 de la Ley Federal de Competencia Económica entrará en vigor una vez que los juzgados especializados en materia de competencia económica queden establecidos por el Poder Judicial de la Federación y se expidan las reglas procesales aplicables al juicio ordinario administrativo en las disposiciones legales correspondientes, en un plazo que no exceda de 180 días naturales a la entrada en vigor de este Decreto.
-ARTÍCULO SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+### ARTÍCULO QUINTO
+Los recursos necesarios para la implementación del presente Decreto, serán con cargo al presupuesto autorizado de la Comisión Federal de Competencia.
+
+### ARTÍCULO SEXTO
+La reforma al artículo 39 de la Ley Federal de Competencia Económica entrará en vigor una vez que los juzgados especializados en materia de competencia económica queden establecidos por el Poder Judicial de la Federación y se expidan las reglas procesales aplicables al juicio ordinario administrativo en las disposiciones legales correspondientes, en un plazo que no exceda de 180 días naturales a la entrada en vigor de este Decreto.
+
+### ARTÍCULO SÉPTIMO
+Se derogan las disposiciones que se opongan al presente Decreto.
 México, D.F., a 28 de abril de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Sen.
 Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se expide la Ley de Migración y se reforman, derogan y adicionan Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.
 Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011 ……….
-TRANSITORIOS DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del
+
+## TRANSITORIOS
+
+DEL DECRETO POR EL QUE EXPIDE LA LEY DE MIGRACIÓN Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del
 
 ### artículo 3o
 . y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
@@ -3797,120 +4211,214 @@ Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de I
 TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
 CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. María Dolores Del Río Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-DECRETO por el que se deroga el Capítulo IV del Título Decimoquinto del Libro Segundo Publicado en el Diario Oficial de la Federación el 8 de junio de 2011 ARTÍCULO ÚNICO. Se deroga el Capítulo IV del Título Decimoquinto del Libro Segundo del Código Penal Federal, para quedar como sigue: ……….
-TRANSITORIO Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se deroga el Capítulo IV del Título Decimoquinto del Libro Segundo Publicado en el Diario Oficial de la Federación el 8 de junio de 2011
+
+### ARTÍCULO ÚNICO
+Se deroga el Capítulo IV del Título Decimoquinto del Libro Segundo del Código Penal Federal, para quedar como sigue: ……….
+
+## TRANSITORIO
+
+**Único.-** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 24 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a siete de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Delincuencia Organizada.
-Publicado en el Diario Oficial de la Federación el 24 de octubre de 2011 Artículo Primero. Se reforman las fracciones VII y actual VIII y se adiciona una fracción VIII, pasando quedar como sigue: ……….
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 24 de octubre de 2011
+
+### Artículo Primero
+Se reforman las fracciones VII y actual VIII y se adiciona una fracción VIII, pasando quedar como sigue: ……….
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 20 de septiembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Cleominio Zoreda Novelo, Secretario.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de octubre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012 como sigue: ……….
-TRANSITORIOS Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+## TRANSITORIOS
+
+**Primero.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del de Telecomunicaciones, de la Ley que Establece las Normas Mínimas sobre Readaptación Social de Sentenciados y de la Ley General del Sistema Nacional de Seguridad Pública.
 Publicado en el Diario Oficial de la Federación el 17 de abril de 2012 sigue: ……….
-TRANSITORIO Artículo Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. ……….
+
+## TRANSITORIO
+
+
+### Artículo Único
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. ……….
 México, D.F., a 1 de marzo de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Arturo Herviz Reyes, Secretario.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública.
-Publicado en el Diario Oficial de la Federación el 14 de junio de 2012 Artículo Primero.- Se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos. ……….
-TRANSITORIOS Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo a Octavo.- ……….
+Publicado en el Diario Oficial de la Federación el 14 de junio de 2012
+
+### Artículo Primero
+Se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos. ……….
+
+## TRANSITORIOS
+
+**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** a Octavo.- ……….
 Federales.
-Décimo.- ……….
-Décimo Primero.- Las disposiciones relativas a los delitos a que se refiere esta Ley previstas tanto en presente Ley, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
-Décimo Segundo a Décimo Cuarto. ………. ……….
-Artículo Cuarto. Se reforman los artículos 85, fracción II y 205 bis, primer párrafo del Código Penal Federal, para quedar como sigue: ……….
-TRANSITORIO ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+**Décimo.-** ……….
+**Décimo Primero.-** Las disposiciones relativas a los delitos a que se refiere esta Ley previstas tanto en presente Ley, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+**Décimo Segundo.** a Décimo Cuarto. ………. ……….
+
+### Artículo Cuarto
+Se reforman los artículos 85, fracción II y 205 bis, primer párrafo del Código Penal Federal, para quedar como sigue: ……….
+
+## TRANSITORIO
+
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 27 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Laura Arizmendi Campos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley Orgánica de la Administración Pública Federal y de la Ley Orgánica de la Procuraduría General de la República.
-Publicado en el Diario Oficial de la Federación el 14 de junio de 2012 Artículo Primero. Se reforman los artículos 30; el primer párrafo del artículo 31; el artículo 31-Bis; el inciso e) de la fracción I del artículo 85; el primer párrafo del artículo 93; las fracciones XXXI y XXXII y el párrafo segundo del artículo 225; los artículos 260 y 261; las fracciones III y IV del artículo 316; el artículo 323; la denominación del capítulo V, para quedar como “Feminicidio”, del título decimonoveno del libro segundo, así como su artículo 325; y los artículos 343 Bis y 343 Ter. Se adicionan el párrafo tercero en el
+Publicado en el Diario Oficial de la Federación el 14 de junio de 2012
+
+### Artículo Primero
+Se reforman los artículos 30; el primer párrafo del artículo 31; el artículo 31-Bis; el inciso e) de la fracción I del artículo 85; el primer párrafo del artículo 93; las fracciones XXXI y XXXII y el párrafo segundo del artículo 225; los artículos 260 y 261; las fracciones III y IV del artículo 316; el artículo 323; la denominación del capítulo V, para quedar como “Feminicidio”, del título decimonoveno del libro
+**segundo.** , así como su artículo 325; y los artículos 343 Bis y 343 Ter. Se adicionan el párrafo tercero en el
 
 ### artículo 107
 Bis; el título tercero bis, denominado “Delitos contra la dignidad de las personas”, con un capítulo único, con la denominación “Discriminación”, integrado por el artículo 149 Ter; el capítulo III, con la denominación “Delitos contra los derechos reproductivos”, al título séptimo, llamado “Delitos contra la salud”, así como sus artículos 199 Ter, 199 Quáter, 199 Quintus y 199 Sextus; las fracciones XXXIII y XXXIV al artículo 225; las fracciones V, VI y VII al artículo 316; el capítulo III Ter al título vigésimo segundo del libro segundo, para denominarse “Fraude familiar”, con su artículo 390 Bis. Y se derogan los párrafos segundo y tercero del artículo 272; el artículo 310 y los artículos 365 y 365 Bis, todos del Código Penal Federal, para quedar como sigue: ……….
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
 México, D.F., a 30 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Herón Escobar García, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 DECRETO por el que se reforma la fracción XVII del artículo 381 del Código Penal Federal.
-Publicado en el Diario Oficial de la Federación el 25 de enero de 2013 sigue: ……… TRANSITORIOS ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 25 de enero de 2013 sigue: ………
+
+## TRANSITORIOS
+
+**ÚNICO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 20 de diciembre de 2012.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Xavier Azuara Zúñiga, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de enero de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica. de Procedimientos Penales, de la Ley Orgánica del Poder Judicial de la Federación, de la Publicado en el Diario Oficial de la Federación el 3 de mayo de 2013 para quedar como sigue: ……….
-Transitorios Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- El Titular del Poder Ejecutivo Federal contará con un término de 180 días naturales para a efecto de establecer la unidad administrativa que conozca de los delitos federales cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta, así como para aquellos delitos del fuero común que sean atraídos de conformidad con lo dispuesto por los artículos 73, fracción XXI, segundo párrafo, de la Constitución y 10 del Código Federal de Procedimientos Penales.
-Tercero.- En tanto se expiden las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República al que se refiere el artículo transitorio anterior, la Fiscalía Especial para la Atención de Delitos Cometidos contra la Libertad de Expresión, de la Procuraduría General de la República ejercerá las atribuciones establecidas en el presente Decreto.
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Titular del Poder Ejecutivo Federal contará con un término de 180 días naturales para a efecto de establecer la unidad administrativa que conozca de los delitos federales cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta, así como para aquellos delitos del fuero común que sean atraídos de conformidad con lo dispuesto por los artículos 73, fracción XXI, segundo párrafo, de la Constitución y 10 del Código Federal de Procedimientos Penales.
+**Tercero.-** En tanto se expiden las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República al que se refiere el artículo transitorio anterior, la Fiscalía Especial para la Atención de Delitos Cometidos contra la Libertad de Expresión, de la Procuraduría General de la República ejercerá las atribuciones establecidas en el presente Decreto.
 México, D.F., a 25 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Angel Cedillo Hernández, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se expide la Ley Federal de Responsabilidad Ambiental y se reforman, adicionan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de la Ley General para la Prevención y Gestión Integral de los Residuos, de la Ley General de Desarrollo Forestal Sustentable, de la Ley de Aguas Nacionales, del Código Penal Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales.
-Publicado en el Diario Oficial de la Federación el 7 de junio de 2013 ARTÍCULO SÉPTIMO.- Se reforman el primer párrafo, la fracción I y el párrafo quinto del artículo 421; ……….
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
-TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
+Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
+
+### ARTÍCULO SÉPTIMO
+Se reforman el primer párrafo, la fracción I y el párrafo quinto del artículo 421; ……….
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+**TERCERO.-** Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
 México, D.F., a 25 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-Publicado en el Diario Oficial de la Federación el 30 de octubre de 2013 ……… TRANSITORIO Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 30 de octubre de 2013 ………
+
+## TRANSITORIO
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 29 de octubre de 2013.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforma el primer párrafo del artículo 60 del Código Penal Federal.
-Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013 como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013 como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 21 de noviembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Angelina Carreño Mijares, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Extinción de Dominio, Reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
-Publicado en el Diario Oficial de la Federación el 14 de marzo de 2014 ARTÍCULO PRIMERO.- Se reforman los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis; y se adicionan el CAPÍTULO VI BIS denominado “Del Financiamiento al Terrorismo” al Título Primero del Libro Segundo con los artículos 139 Quáter y 139 Quinquies; el artículo 368 Quinquies, y artículos 400 Bis 1, dentro del CAPÍTULO II, Título Vigésimo Tercero, Libro Segundo, que se refiere a las “Operaciones con ……… Transitorios PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado TERCERO. A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
+Publicado en el Diario Oficial de la Federación el 14 de marzo de 2014
+
+### ARTÍCULO PRIMERO
+Se reforman los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis; y se adicionan el CAPÍTULO VI BIS denominado “Del Financiamiento al Terrorismo” al Título Primero del Libro
+**Segundo.** con los artículos 139 Quáter y 139 Quinquies; el artículo 368 Quinquies, y artículos 400 Bis 1, dentro del CAPÍTULO II, Título Vigésimo Tercero, Libro Segundo, que se refiere a las “Operaciones con ………
+
+## Transitorios
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado
+**TERCERO.** A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
 México, D.F., a 11 de febrero de 2014.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Merilyn Gómez Pozos, Secretaria.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-DECRETO por el que se expide la Ley Federal de Competencia Económica y se reforman Publicado en el Diario Oficial de la Federación el 23 de mayo de 2014 ARTÍCULO SEGUNDO.- Se reforma el artículo 254 bis y se adiciona un artículo 254 bis 1 al Código Penal Federal, para quedar como sigue: .........
-TRANSITORIOS Primero. El presente Decreto entrará en vigor a los cuarenta y cinco días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
-Segundo. Se abroga la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992.
+DECRETO por el que se expide la Ley Federal de Competencia Económica y se reforman Publicado en el Diario Oficial de la Federación el 23 de mayo de 2014
+
+### ARTÍCULO SEGUNDO
+Se reforma el artículo 254 bis y se adiciona un artículo 254 bis 1 al Código Penal Federal, para quedar como sigue: .........
+
+## TRANSITORIOS
+
+**Primero.** El presente Decreto entrará en vigor a los cuarenta y cinco días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Se abroga la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992.
 Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las unidades administrativas que establezca el estatuto orgánico emitido conforme al transitorio siguiente. Las resoluciones que recaigan en dichos procedimientos sólo podrán ser impugnadas mediante el juicio de amparo, conforme a lo dispuesto por el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
-Tercero. Para el caso de la designación del primer titular como Autoridad Investigadora, por cuanto hace al requisito establecido en la fracción VII del artículo 31 de esta Ley, deberá atenderse en el sentido de que durante los tres años previos a su nombramiento, no haya ocupado ningún empleo, cargo o función directiva o haber representado de cualquier forma los intereses de algún Agente Económico que haya estado sujeto a alguno de los procedimientos, previstos en la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992, vigente hasta antes de la entrada en vigor del presente Decreto.
-Cuarto. El Pleno de la Comisión deberá adecuar su Estatuto Orgánico a lo dispuesto en el presente Decreto en un plazo que no excederá de treinta días contados a partir de su entrada en vigor. En tanto se efectúe la adecuación, se continuará aplicando el Estatuto Orgánico vigente al momento de la entrada en vigor del presente Decreto, en lo que no se oponga a éste.
-Quinto. Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Cámara de Diputados del Congreso de la Unión deberá integrar un grupo de trabajo técnico, con el objeto de analizar y formular propuestas de ajustes a legislación penal vigente, en la materia objeto del presente Decreto. El grupo de trabajo deberá presentar las propuestas correspondientes dentro de los sesenta días siguientes al de su instalación.
-Sexto. En un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, el Pleno publicará las Disposiciones Regulatorias a que hace referencia el artículo 12, fracción XXII de la Ley Federal de Competencia Económica.
-Séptimo. Dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, el Congreso de la Unión deberá realizar las adecuaciones al marco jurídico a efecto de armonizarlo con los principios en materia de competencia y libre concurrencia previstos en el artículo 28 de la Constitución.
+**Tercero.** Para el caso de la designación del primer titular como Autoridad Investigadora, por cuanto hace al requisito establecido en la fracción VII del artículo 31 de esta Ley, deberá atenderse en el sentido de que durante los tres años previos a su nombramiento, no haya ocupado ningún empleo, cargo o función directiva o haber representado de cualquier forma los intereses de algún Agente Económico que haya estado sujeto a alguno de los procedimientos, previstos en la Ley Federal de Competencia Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992, vigente hasta antes de la entrada en vigor del presente Decreto.
+**Cuarto.** El Pleno de la Comisión deberá adecuar su Estatuto Orgánico a lo dispuesto en el presente Decreto en un plazo que no excederá de treinta días contados a partir de su entrada en vigor. En tanto se efectúe la adecuación, se continuará aplicando el Estatuto Orgánico vigente al momento de la entrada en vigor del presente Decreto, en lo que no se oponga a éste.
+**Quinto.** Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Cámara de Diputados del Congreso de la Unión deberá integrar un grupo de trabajo técnico, con el objeto de analizar y formular propuestas de ajustes a legislación penal vigente, en la materia objeto del presente Decreto. El grupo de trabajo deberá presentar las propuestas correspondientes dentro de los sesenta días siguientes al de su instalación.
+**Sexto.** En un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, el Pleno publicará las Disposiciones Regulatorias a que hace referencia el artículo 12, fracción XXII de la Ley Federal de Competencia Económica.
+**Séptimo.** Dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, el Congreso de la Unión deberá realizar las adecuaciones al marco jurídico a efecto de armonizarlo con los principios en materia de competencia y libre concurrencia previstos en el artículo 28 de la Constitución.
 Para lo anterior, el Congreso de la Unión podrá solicitar opinión a la Comisión Federal de Competencia Económica.
 México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforman diversos artículos de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del
 
 ### artículo 73
-de la Constitución Política de los Estados Unidos Mexicanos y se adiciona el Publicado en el Diario Oficial de la Federación el 3 de junio de 2014 quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+de la Constitución Política de los Estados Unidos Mexicanos y se adiciona el Publicado en el Diario Oficial de la Federación el 3 de junio de 2014 quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión.
-Publicado en el Diario Oficial de la Federación el 14 de julio de 2014 ARTÍCULO NOVENO.- Se reforman el primer párrafo del artículo 140; el artículo 145; la fracción II del
+Publicado en el Diario Oficial de la Federación el 14 de julio de 2014
+
+### ARTÍCULO NOVENO
+Se reforman el primer párrafo del artículo 140; el artículo 145; la fracción II del
 
 ### artículo 167
-; el artículo 178 Bis; el primer párrafo del artículo 212; la fracción III del artículo 214; y se ……… TRANSITORIOS PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
+; el artículo 178 Bis; el primer párrafo del artículo 212; la fracción III del artículo 214; y se ………
+
+## TRANSITORIOS
+
+**PRIMERO.** El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
 Televisión. Se dejan sin efectos aquellas disposiciones de la Ley de Vías Generales de Comunicación en lo que se opongan a lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
-TERCERO. Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
-CUARTO. El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-QUINTO. El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
+**TERCERO.** Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan, salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
+**CUARTO.** El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**QUINTO.** El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del presente Decreto.
 Los concesionarios de radiodifusión y de televisión o audio restringidos no podrán promocionar videojuegos que no hayan sido clasificados de acuerdo a la normatividad aplicable, misma que deberá expedir el Ejecutivo Federal dentro del plazo referido en el párrafo anterior.
-SEXTO. La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. Lo anterior sin perjuicio de lo previsto en el Vigésimo Transitorio del presente Decreto.
-SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o permisos hasta su terminación, a menos que se obtenga la autorización para prestar servicios adicionales a los que son objeto de su concesión o hubiere transitado a la concesión única prevista en la Ley Federal de Telecomunicaciones y Radiodifusión, en cuyo caso, se estará a los términos y condiciones que el Instituto Federal de Telecomunicaciones establezca.
+**SEXTO.** La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo
+
+## Transitorio
+
+del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. Lo anterior sin perjuicio de lo previsto en el Vigésimo Transitorio del presente Decreto.
+**SÉPTIMO.** Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o permisos hasta su terminación, a menos que se obtenga la autorización para prestar servicios adicionales a los que son objeto de su concesión o hubiere transitado a la concesión única prevista en la Ley Federal de Telecomunicaciones y Radiodifusión, en cuyo caso, se estará a los términos y condiciones que el Instituto Federal de Telecomunicaciones establezca.
 Tratándose de concesiones de espectro radioeléctrico, no podrán modificarse en cuanto al plazo de la concesión, la cobertura autorizada y la cantidad de Megahertz concesionados, ni modificar las condiciones de hacer o no hacer previstas en el título de concesión de origen y que hubieren sido determinantes para el otorgamiento de la concesión.
 Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas con anterioridad a la fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
-Párrafo adicionado DOF 15-06-2018 OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+Párrafo adicionado DOF 15-06-2018
+**OCTAVO.** Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con concesiones de espectro radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la concesión única podrán consolidar sus títulos en una sola concesión.
-NOVENO. En tanto exista un agente económico preponderante en los sectores de telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de concesión y los cambios de control que deriven de éstas, que reúnan los siguientes requisitos: a. Generen una reducción sectorial del Índice de Dominancia “ID”, siempre que el índice Hirschman-Herfindahl “IHH” no se incremente en más de doscientos puntos; b. Tengan como resultado que el agente económico cuente con un porcentaje de participación sectorial menor al veinte por ciento; c. Que en dicha concentración no participe el agente económico preponderante en el sector en el que se lleve a cabo la concentración, y d. No tengan como efecto disminuir, dañar o impedir la libre competencia y concurrencia, en el sector que corresponda.
+**NOVENO.** En tanto exista un agente económico preponderante en los sectores de telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de concesión y los cambios de control que deriven de éstas, que reúnan los siguientes requisitos: a. Generen una reducción sectorial del Índice de Dominancia “ID”, siempre que el índice Hirschman-Herfindahl “IHH” no se incremente en más de doscientos puntos; b. Tengan como resultado que el agente económico cuente con un porcentaje de participación sectorial menor al veinte por ciento; c. Que en dicha concentración no participe el agente económico preponderante en el sector en el que se lleve a cabo la concentración, y d. No tengan como efecto disminuir, dañar o impedir la libre competencia y concurrencia, en el sector que corresponda.
 Por Índice Hirschman-Herfindahl “IHH” se entiende la suma de los cuadrados de las participaciones de cada agente económico (IHH=i qi2), en el sector que corresponda, medida para el caso del sector de las telecomunicaciones con base en el indicador de número de suscriptores y usuarios de servicios de telecomunicaciones, y para el sector de la radiodifusión con base en audiencia. Este índice puede tomar valores entre cero y diez mil.
 Para calcular el Índice de Dominancia “ID”, se determinará primero la contribución porcentual hi de cada agente económico al índice IHH definido en el párrafo anterior (hi = 100xqi2/IHH). Después se calculará el valor de ID aplicando la fórmula del Hirschman-Herfindahl, pero utilizando ahora las contribuciones hi en vez de las participaciones qi (es decir, ID=i hi2). Este índice también varía entre cero y diez mil.
 Los agentes económicos deberán presentar al Instituto Federal de Telecomunicaciones, dentro de los 10 días siguientes a la concentración, un aviso por escrito que contendrá la información a que se refiere el artículo 89 de la Ley Federal de Competencia Económica referida al sector correspondiente así como los elementos de convicción que demuestren que la concentración cumple con los incisos anteriores.
 El Instituto investigará dichas concentraciones en un plazo no mayor a noventa días naturales y en caso de encontrar que existe poder sustancial en el mercado de redes de telecomunicaciones que presten servicios de voz, datos o video o en el de radio y televisión según el sector que corresponda, podrá imponer las medidas necesarias para proteger y fomentar en dicho mercado la libre competencia y concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el presente artículo.
 Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes económicos preponderantes la prestación de servicios adicionales.
-DÉCIMO. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
+**DÉCIMO.** Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas en el Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de la Ley de Telecomunicaciones y Radiodifusión, así como de la Ley Federal de Competencia Económica, sus títulos de concesión y disposiciones administrativas aplicables, conforme a lo siguiente:
 I. Los agentes económicos preponderantes deberán acreditar ante el Instituto Federal de Telecomunicaciones que se encuentran en cumplimiento efectivo de lo anterior y de las medidas expedidas por el propio Instituto Federal de Telecomunicaciones a que se refieren las fracciones III y IV del artículo Octavo Transitorio del Decreto antes referido. Para tal efecto, el Instituto Federal de Telecomunicaciones establecerá la forma y términos para presentar la información y documentación respectiva;
 II. El agente económico preponderante deberá estar en cumplimiento efectivo de las medidas a las que se refiere la fracción I anterior cuando menos durante dieciocho meses en forma continua;
 III. Transcurrido el plazo a que se refiere la fracción anterior y siempre que continúe en cumplimiento de lo dispuesto en la fracción I que antecede, el Instituto Federal de Telecomunicaciones resolverá y emitirá un dictamen en el que certifique que se dio cumplimiento efectivo de las obligaciones referidas, y IV. Una vez que el concesionario haya obtenido la certificación de cumplimiento, podrá solicitar ante el Instituto Federal de Telecomunicaciones la autorización del servicio adicional.
 Lo dispuesto en este artículo también será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única.
-No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del artículo Octavo Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
-DÉCIMO PRIMERO. El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
+No será aplicable lo dispuesto en el presente artículo después de transcurridos cinco años contados a partir de la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, siempre que el agente económico preponderante en el sector de las telecomunicaciones esté en cumplimiento del
+
+### artículo Octavo
+Transitorio de este Decreto, de las medidas que se le hayan impuesto conforme a lo previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
+**DÉCIMO PRIMERO.** El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo siguiente:
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción expresa para prestar servicios determinados, deberán cumplir con lo previsto en los lineamientos del Instituto Federal de Telecomunicaciones en términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013;
 II. Al presentar la solicitud, dichos agentes y concesionarios deberán acompañar el dictamen de cumplimiento a que se refiere la fracción III del artículo anterior, presentar la información que determine el Instituto Federal de Telecomunicaciones respecto de los servicios que pretende prestar;
 III. El Instituto Federal de Telecomunicaciones resolverá sobre la procedencia de la solicitud dentro de los sesenta días naturales siguientes a su presentación, con base en los lineamientos de carácter general que al efecto emita y determinará las contraprestaciones que procedan.
 Transcurrido el plazo señalado en el párrafo que antecede sin que el Instituto haya resuelto la solicitud correspondiente, la misma se entenderá en sentido negativo, y IV. En el trámite de la solicitud, el Instituto Federal de Telecomunicaciones deberá asegurarse que el otorgamiento de la autorización no genera efectos adversos a la competencia y libre concurrencia.
 Se entenderá que se generan efectos adversos a la competencia y libre concurrencia, entre otros factores que considere el Instituto Federal de Telecomunicaciones, cuando: a. Dicha autorización pueda tener como efecto incrementar la participación en el sector que corresponda del agente económico preponderante o del grupo de interés económico al cual pertenecen los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados, respecto de la participación determinada por el Instituto Federal de Telecomunicaciones en la resolución mediante la cual se le declaró agente económico preponderante en el sector que corresponda. b. La autorización de servicios adicionales tenga como efecto conferir poder sustancial en el mercado relevante a alguno de los concesionarios o integrantes del agente económico preponderante o de los concesionarios cuyos títulos de concesión contengan alguna prohibición o restricción para prestar servicios determinados en el sector que corresponda.
 Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos opten por transitar a la concesión única, y será independiente de las sanciones económicas que procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
-DÉCIMO SEGUNDO. El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
+**DÉCIMO SEGUNDO.** El agente económico preponderante en el sector de las telecomunicaciones podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
 El agente económico preponderante en el sector de las telecomunicaciones podrá presentar al Instituto Federal de Telecomunicaciones un plan basado en una situación real, concreta y respecto de personas determinadas, que incluya en lo aplicable, la separación estructural, la desincorporación total o parcial de activos, derechos, partes sociales o acciones o cualquier combinación de las opciones anteriores a efecto de reducir su participación nacional por debajo del cincuenta por ciento del sector de telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, de conformidad con las variables y parámetros de medición utilizados por el Instituto Federal de Telecomunicaciones en la declaratoria de preponderancia correspondiente, y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran dicho sector de conformidad con la Ley Federal de Competencia Económica. En caso de que el agente económico preponderante ejerza esta opción, se estará a lo siguiente:
 I. Al presentar el plan a que se refiere el párrafo que antecede, el agente económico preponderante deberá manifestar por escrito que se adhiere a lo previsto en este artículo y que acepta sus términos y condiciones; asimismo deberá acompañar la información y documentación necesaria que permita al Instituto Federal de Telecomunicaciones conocer y analizar el plan que se propone;
 II. En caso que el Instituto Federal de Telecomunicaciones considere que la información presentada es insuficiente, dentro del plazo de 20 días hábiles siguientes a la presentación del plan, prevendrá al agente económico preponderante para que presente la información faltante en un plazo de 20 días hábiles. En caso de que el agente económico preponderante no desahogue la prevención dentro del plazo señalado o que a juicio del Instituto la documentación o información presentada no sea suficiente o idónea para analizar el plan que se propone, se le podrá hacer una segunda prevención en los términos señalados con antelación y en caso de que no cumpla esta última prevención se tendrá por no presentado el plan, sin perjuicio de que el agente económico pueda presentar una nueva propuesta de plan en términos del presente artículo;
 III. Atendida la prevención en los términos formulados, el Instituto Federal de Telecomunicaciones analizará, evaluará y, en su caso, aprobará el plan propuesto dentro de los ciento veinte días naturales siguientes. En caso de que el Instituto lo considere necesario podrá prorrogar dicho plazo hasta en dos ocasiones y hasta por noventa días naturales cada una.
-Para aprobar dicho plan el Instituto Federal de Telecomunicaciones deberá determinar que el mismo reduce efectivamente la participación nacional del agente económico preponderante por debajo del cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo Octavo Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
+Para aprobar dicho plan el Instituto Federal de Telecomunicaciones deberá determinar que el mismo reduce efectivamente la participación nacional del agente económico preponderante por debajo del cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo
+**Octavo.** Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que no tenga por objeto o efecto afectar o reducir la cobertura social existente.
 El plan deberá tener como resultado que la participación en el sector que el agente preponderante disminuye, sea transferida a otro u otros agentes económicos distintos e independientes del agente económico preponderante. Al aprobar el plan, el Instituto Federal de Telecomunicaciones deberá asegurar la separación efectiva e independencia de esos agentes y deberá establecer los términos y condiciones necesarios para que esa situación quede debidamente salvaguardada;
 IV. En el supuesto de que el Instituto Federal de Telecomunicaciones apruebe el plan, el agente económico preponderante en el sector de las telecomunicaciones contará con un plazo de hasta diez días hábiles para manifestar que acepta el plan y consiente expresamente las tarifas que derivan de la aplicación de los incisos a) y b) del segundo párrafo del artículo 131 de la Ley Federal de Telecomunicaciones y de Radiodifusión, y las fracciones VI a VIII de este artículo.
 Aceptado el plan por el agente económico preponderante, no podrá ser modificado y deberá ejecutarse en sus términos, sin que dicho agente pueda volver a ejercer el beneficio que otorga este artículo y sin perjuicio de que pueda optar por lo dispuesto en el artículo 276 de la Ley Federal de Telecomunicaciones y Radiodifusión;
@@ -3921,18 +4429,21 @@ Otorgada la certificación referida en el párrafo anterior, se aplicarán de ma
 VIII. En caso de que el plan no se ejecute en el plazo a que se refiere la fracción V o, en su caso, al término de la prórroga correspondiente, o el Instituto Federal de Telecomunicaciones niegue la certificación referida en la fracción anterior o determine que no se dio cumplimiento total a dicho plan en los términos aprobados, se dejarán sin efectos los acuerdos de compensación recíproca de tráfico y la suspensión de las tarifas a que se refieren los incisos a) y b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, entre el agente económico preponderante en el sector de las telecomunicaciones y los demás concesionarios, y su aplicación se retrotraerá a la fecha en que inició la suspensión, debiendo dicho agente restituir a los demás concesionarios las cantidades que correspondan a la aplicación de las citadas tarifas. En este supuesto, los concesionarios citados podrán compensar las cantidades a ser restituidas contra otras cantidades que le adeuden al agente económico preponderante;
 IX. El Instituto Federal de Telecomunicaciones autorizará al agente económico que propuso el plan y a los agentes económicos resultantes o que formen parte de dicho plan, la prestación de servicios adicionales a los que son objeto de su concesión o su tránsito al modelo de concesión única, a partir de que certifique que el plan se ha ejecutado efectivamente y siempre que con la ejecución de dicho plan se generen condiciones de competencia efectiva en los mercados que integran el sector de telecomunicaciones de conformidad con la Ley Federal de Competencia Económica;
 X. Una vez que el Instituto Federal de Telecomunicaciones certifique que el plan aprobado ha sido ejecutado efectivamente, procederá a extinguir: a. Las resoluciones mediante las cuales haya determinado al agente económico como preponderante en el sector de las telecomunicaciones así como las medidas asimétricas que le haya impuesto en los términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial en algún mercado, así como las medidas específicas que le haya impuesto.
-DÉCIMO TERCERO. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**DÉCIMO TERCERO.** El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espectro liberado por la transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia pública o bajo un esquema de asociación público-privada.
-DÉCIMO CUARTO. El Instituto Federal de Telecomunicaciones deberá implementar un sistema de servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como trabajadores del servicio profesional.
-DÉCIMO QUINTO. El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
-DÉCIMO SEXTO. La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
-DÉCIMO SÉPTIMO. Los permisos de radiodifusión que se encuentren vigentes o en proceso de refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, en los términos que establezca el Instituto. Los permisos que hayan sido otorgados a los poderes de la Unión, de los estados, los órganos de Gobierno del Distrito Federal, los municipios, los órganos constitucionales autónomos e instituciones de educación superior de carácter público deberán transitar al régimen de concesión de uso público, mientras que el resto de los permisos otorgados deberán hacerlo al régimen de concesión de uso social.
+**DÉCIMO CUARTO.** El Instituto Federal de Telecomunicaciones deberá implementar un sistema de servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como trabajadores del servicio profesional.
+**DÉCIMO QUINTO.** El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
+**DÉCIMO SEXTO.** La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**DÉCIMO SÉPTIMO.** Los permisos de radiodifusión que se encuentren vigentes o en proceso de refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, en los términos que establezca el Instituto. Los permisos que hayan sido otorgados a los poderes de la Unión, de los estados, los órganos de Gobierno del Distrito Federal, los municipios, los órganos constitucionales autónomos e instituciones de educación superior de carácter público deberán transitar al régimen de concesión de uso público, mientras que el resto de los permisos otorgados deberán hacerlo al régimen de concesión de uso social.
 Para transitar al régimen de concesión correspondiente, los permisionarios deberán presentar solicitud al Instituto Federal de Telecomunicaciones, quien resolverá lo conducente, en un plazo de noventa días hábiles.
 En tanto se realiza la transición, dichos permisos se regirán por lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión para las concesiones de uso público o social, según sea el caso.
 En caso de no cumplir con el presente artículo, los permisos concluirán su vigencia.
-DÉCIMO OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
-DÉCIMO NOVENO. La transición digital terrestre culminará el 31 de diciembre de 2015.
-El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del artículo Quinto transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**DÉCIMO OCTAVO.** El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de competencia y la continuidad en la prestación de los servicios.
+**DÉCIMO NOVENO.** La transición digital terrestre culminará el 31 de diciembre de 2015.
+El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del
+
+### artículo Quinto
+transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 El Instituto Federal de Telecomunicaciones deberá concluir la transmisión de señales analógicas de televisión radiodifundida en todo el país, a más tardar el 31 de diciembre de 2015, una vez que se alcance un nivel de penetración del noventa por ciento de hogares de escasos recursos definidos por la Secretaría de Desarrollo Social, con receptores o decodificadores aptos para recibir señales digitales de televisión radiodifundida.
 Para lo anterior, el Instituto Federal de Telecomunicaciones deberá concluir las señales analógicas de televisión radiodifundida anticipadamente al 31 de diciembre de 2015, por área de cobertura de dichas señales, una vez que se alcance, en el área que corresponda, el nivel de penetración referido en el párrafo que antecede.
 La Secretaría de Comunicaciones y Transportes y el Instituto Federal de Telecomunicaciones realizarán campañas de difusión para la entrega o distribución de equipos y para la conclusión de la transmisión de señales analógicas de televisión, respectivamente.
@@ -3940,39 +4451,42 @@ Los concesionarios y permisionarios de televisión radiodifundida estarán oblig
 Aquellos permisionarios o concesionarios de uso público o social, incluyendo las comunitarias e indígenas, que presten el servicio de radiodifusión que no estén en condiciones de iniciar transmisiones digitales al 31 de diciembre de 2015, deberán, con antelación a esa fecha, dar aviso al Instituto Federal de Telecomunicaciones, en los términos previstos en el artículo 157 de la Ley Federal de Telecomunicaciones y Radiodifusión a efecto de que se les autorice la suspensión temporal de sus transmisiones o, en su caso, reduzcan su potencia radiada aparente para que les sea aplicable el programa de continuidad al que se refiere el párrafo siguiente de este artículo. Los plazos que autorice el Instituto en ningún caso excederán del 31 de diciembre de 2016.
 Párrafo adicionado DOF 18-12-2015 En caso de que para las fechas de conclusión anticipada de las señales analógicas de televisión radiodifundida por área de cobertura o de que al 31 de diciembre de 2015, las actuales estaciones de televisión radiodifundida con una potencia radiada aparente menor o igual a 1 kW para canales de VHF y 10 kW para canales UHF, no se encuentren transmitiendo señales de televisión digital terrestre y/o no se hubiere alcanzado el nivel de penetración señalado en los párrafos tercero y cuarto de este artículo, ya sea en alguna región, localidad o en todo el país; el Instituto Federal de Telecomunicaciones deberá establecer un programa para que la población continúe recibiendo este servicio público de interés general en las áreas respectivas, en tanto se inicien transmisiones digitales y/o se alcancen los niveles de penetración señalados en este artículo. Los titulares de las estaciones deberán realizar las inversiones e instalaciones necesarias conforme a los plazos previstos en el programa. En ningún caso las acciones derivadas de este programa excederán al 31 de diciembre de 2016.
 Párrafo reformado DOF 18-12-2015 Se derogan las disposiciones legales, administrativas o reglamentarias en lo que se opongan al presente transitorio.
-VIGÉSIMO. El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
+**VIGÉSIMO.** El Instituto Federal de Telecomunicaciones aplicará el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión y demás que resulten aplicables en materia de interconexión en términos de la misma, y garantizará el debido cumplimiento de las obligaciones establecidas en dichos preceptos, mismos que serán exigibles sin perjuicio e independiente de que a la entrada en vigor de la Ley, ya hubiera determinado la existencia de un agente económico preponderante e impuesto medidas necesarias para evitar que se afecte la competencia y la libre concurrencia de acuerdo a la fracción III del
+
+### artículo Octavo
+Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013.
 Para efectos de lo dispuesto en el inciso b) del artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión, y hasta en tanto los concesionarios a que se refiere ese inciso no acuerden las tarifas de interconexión correspondientes o, en su caso, el Instituto no resuelva cualquier disputa respecto de dichas tarifas, seguirán en vigor las que actualmente aplican, salvo tratándose del agente económico al que se refiere le párrafo segundo del artículo 131 de la Ley en cita, al que le será aplicable el inciso a) del mismo artículo.
-VIGÉSIMO PRIMERO. Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
-VIGÉSIMO SEGUNDO. El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
-VIGÉSIMO TERCERO. El impacto presupuestario que se genere con motivo de la entrada en vigor del presente Decreto en materia de servicios personales, así como el establecimiento de nuevas atribuciones y actividades a cargo del Instituto Federal de Telecomunicaciones, se cubrirá con cargo al presupuesto aprobado anualmente por la Cámara de Diputados a dicho organismo.
-VIGÉSIMO CUARTO. De conformidad con lo dispuesto en los artículos Décimo Quinto, Décimo Sexto y Décimo Séptimo transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.
-VIGÉSIMO QUINTO. Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de enero de 2015, por lo que a partir de dicha fecha los concesionarios de redes públicas de telecomunicaciones que presten servicios fijos, móviles o ambos, no podrán realizar cargos de larga distancia nacional a sus usuarios por las llamadas que realicen a cualquier destino nacional.
+**VIGÉSIMO PRIMERO.** Para la atención, promoción y supervisión de los derechos de los usuarios Consumidor, la PROFECO deberá crear un área especializada con nivel no inferior a Subprocuraduría, así como la estructura necesaria para ello, conforme al presupuesto que le apruebe la Cámara de Diputados para tal efecto.
+**VIGÉSIMO SEGUNDO.** El Instituto Federal de Telecomunicaciones deberá emitir las disposiciones administrativas de carácter general a que se refiere el Título Octavo de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+**VIGÉSIMO TERCERO.** El impacto presupuestario que se genere con motivo de la entrada en vigor del presente Decreto en materia de servicios personales, así como el establecimiento de nuevas atribuciones y actividades a cargo del Instituto Federal de Telecomunicaciones, se cubrirá con cargo al presupuesto aprobado anualmente por la Cámara de Diputados a dicho organismo.
+**VIGÉSIMO CUARTO.** De conformidad con lo dispuesto en los artículos Décimo Quinto, Décimo Sexto y Décimo Séptimo transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.
+**VIGÉSIMO QUINTO.** Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de enero de 2015, por lo que a partir de dicha fecha los concesionarios de redes públicas de telecomunicaciones que presten servicios fijos, móviles o ambos, no podrán realizar cargos de larga distancia nacional a sus usuarios por las llamadas que realicen a cualquier destino nacional.
 Sin perjuicio de lo anterior, los concesionarios deberán realizar la consolidación de todas las áreas de servicio local existentes en el país de conformidad con los lineamientos que para tal efecto emita el Instituto Federal de Telecomunicaciones. Cada concesionario deberá asumir los costos que se originen con motivo de dicha consolidación.
 Asimismo, el Instituto Federal de Telecomunicaciones, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberá definir los puntos de interconexión a la red pública de telecomunicaciones del agente económico preponderante o con poder sustancial.
 Las resoluciones administrativas que se hubieren emitido quedarán sin efectos en lo que se opongan a lo previsto en el presente transitorio.
 Los concesionarios mantendrán la numeración que les haya sido asignada a fin de utilizarla para servicios de red inteligente en sus modalidades de cobro revertido y otros servicios especiales, tales como números 900.
-VIGÉSIMO SEXTO. El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del Presidente del Sistema Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO SEXTO.** El Ejecutivo Federal deberá remitir al Senado de la República o, en su caso, a la Comisión Permanente, la propuesta de designación del Presidente del Sistema Público de Radiodifusión del Estado Mexicano, dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
 El Senado o, en su caso, la Comisión Permanente, deberá designar al Presidente del Sistema dentro de los treinta días naturales siguientes a aquél en que reciba la propuesta del Ejecutivo Federal.
-VIGÉSIMO SÉPTIMO. Los representantes de las Secretarías de Estado que integren la Junta de Gobierno del Sistema Público del Estado Mexicano deberán ser designados dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-VIGÉSIMO OCTAVO. La designación de los miembros del Consejo Ciudadano del Sistema Público de Radiodifusión del Estado Mexicano deberá realizarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-VIGÉSIMO NOVENO. El Presidente del Sistema Público de Radiodifusión del Estado Mexicano someterá a la Junta de Gobierno, para su aprobación, el proyecto de Estatuto Orgánico, dentro de los noventa días naturales siguientes a su nombramiento.
-TRIGÉSIMO. A partir de la entrada en vigor de este Decreto el organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales, se transforma en el Sistema Público de Radiodifusión del Estado Mexicano, el cual contará con los recursos humanos, presupuestales, financieros y materiales del organismo citado.
+**VIGÉSIMO SÉPTIMO.** Los representantes de las Secretarías de Estado que integren la Junta de Gobierno del Sistema Público del Estado Mexicano deberán ser designados dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO OCTAVO.** La designación de los miembros del Consejo Ciudadano del Sistema Público de Radiodifusión del Estado Mexicano deberá realizarse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+**VIGÉSIMO NOVENO.** El Presidente del Sistema Público de Radiodifusión del Estado Mexicano someterá a la Junta de Gobierno, para su aprobación, el proyecto de Estatuto Orgánico, dentro de los noventa días naturales siguientes a su nombramiento.
+**TRIGÉSIMO.** A partir de la entrada en vigor de este Decreto el organismo descentralizado denominado Organismo Promotor de Medios Audiovisuales, se transforma en el Sistema Público de Radiodifusión del Estado Mexicano, el cual contará con los recursos humanos, presupuestales, financieros y materiales del organismo citado.
 En tanto se emite el Estatuto Orgánico del Sistema Público de Radiodifusión del Estado Mexicano, continuará aplicándose, en lo que no se oponga a la Ley del Sistema Público de Radiodifusión del Estado Mexicano, el Estatuto Orgánico del Organismo Promotor de Medios Audiovisuales.
 Los derechos laborales del personal del Organismo Promotor de Medios Audiovisuales se respetarán conforme a la ley.
-TRIGÉSIMO PRIMERO. Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los derechos laborales de sus trabajadores.
-TRIGÉSIMO SEGUNDO. La Secretaría de Gobernación deberá coordinarse con las autoridades que correspondan para el ejercicio de las atribuciones que en materia de monitoreo establece la Ley Federal de Telecomunicaciones y Radiodifusión.
+**TRIGÉSIMO.** PRIMERO. Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los derechos laborales de sus trabajadores.
+**TRIGÉSIMO.** SEGUNDO. La Secretaría de Gobernación deberá coordinarse con las autoridades que correspondan para el ejercicio de las atribuciones que en materia de monitoreo establece la Ley Federal de Telecomunicaciones y Radiodifusión.
 La Cámara de Diputados deberá destinar los recursos necesarios para garantizar el adecuado ejercicio de las atribuciones referidas en el presente transitorio.
-TRIGÉSIMO TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
-TRIGÉSIMO CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
+**TRIGÉSIMO.** TERCERO. El Instituto Federal de Telecomunicaciones expedirá los lineamientos a que se refiere la fracción III del artículo 158 de la Ley Federal de Telecomunicaciones y Radiodifusión, en un plazo no mayor a 180 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+**TRIGÉSIMO.** CUARTO. La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
 I. Sus planes de crecimiento;
 II. Sus gastos de operación, y III. Su equilibrio financiero.
-TRIGÉSIMO QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
-TRIGÉSIMO SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
-TRIGÉSIMO SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
-TRIGÉSIMO OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
+**TRIGÉSIMO.** QUINTO. Con excepción de lo dispuesto en el artículo Vigésimo Transitorio, por el cual se encuentra obligado el Instituto Federal de Telecomunicaciones a aplicar el artículo 131 de la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por virtud de este Decreto y demás que resulten aplicables en materia de interconexión en términos de la misma, las resoluciones administrativas que el Instituto Federal de Telecomunicaciones hubiere emitido previo a la entrada en vigor del presente Decreto en materia de preponderancia continuarán surtiendo todos sus efectos.
+**TRIGÉSIMO.** SEXTO. El Instituto Federal de Telecomunicaciones dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberá realizar los estudios correspondientes para analizar si resulta necesario establecer mecanismos que promuevan e incentiven a los concesionarios a incluir una barra programática dirigida al público infantil en la que se promueva la cultura, el deporte, la conservación del medio ambiente, el respeto a los derechos humanos, el interés superior de la niñez, la igualdad de género y la no discriminación.
+**TRIGÉSIMO.** SÉPTIMO. Para efectos de las autoridades de procuración de justicia referidas en la fracción I del artículo 190 de la Ley Federal de Telecomunicaciones y Radiodifusión, continuarán vigentes las disposiciones de la Ley Federal de Telecomunicaciones en materia de localización geográfica en tiempo real hasta en tanto entre en vigor el Código Nacional de Procedimientos Penales.
+**TRIGÉSIMO.** OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los sesenta días hábiles siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión, las reglas administrativas necesarias que eliminen requisitos que puedan retrasar o impedir la portabilidad numérica y, en su caso, promover que se haga a través de medios electrónicos.
 Las reglas a que se refiere el párrafo anterior, deberán garantizar una portabilidad efectiva y que la misma se realice en un plazo no mayor a 24 horas contadas a partir de la solicitud realizada por el titular del número respectivo.
 Para realizar dicha portación solo será necesaria la identificación del titular y la manifestación de voluntad del usuario. En el caso de personas morales el trámite deberá realizarse por el representante o apoderado legal que acredite su personalidad en términos de la normatividad aplicable.
-TRIGÉSIMO NOVENO. Para efectos de lo dispuesto en el artículo 264 de la Ley Federal de Telecomunicaciones y Radiodifusión, el Instituto Federal de Telecomunicaciones iniciará, sin perjuicio de lo dispuesto en el artículo Noveno Transitorio del presente Decreto, dentro de los treinta días naturales posteriores a su entrada en vigor, los procedimientos de investigación que correspondan en términos de la Ley Federal de Competencia Económica, a fin de determinar la existencia de agentes económicos con poder sustancial en cualquiera de los mercados relevantes de los sectores de telecomunicaciones y radiodifusión, entre los que deberá incluirse el mercado nacional de audio y video asociado a través de redes públicas de telecomunicaciones y, en su caso, imponer las medidas correspondientes.
+**TRIGÉSIMO.** NOVENO. Para efectos de lo dispuesto en el artículo 264 de la Ley Federal de Telecomunicaciones y Radiodifusión, el Instituto Federal de Telecomunicaciones iniciará, sin perjuicio de lo dispuesto en el artículo Noveno Transitorio del presente Decreto, dentro de los treinta días naturales posteriores a su entrada en vigor, los procedimientos de investigación que correspondan en términos de la Ley Federal de Competencia Económica, a fin de determinar la existencia de agentes económicos con poder sustancial en cualquiera de los mercados relevantes de los sectores de telecomunicaciones y radiodifusión, entre los que deberá incluirse el mercado nacional de audio y video asociado a través de redes públicas de telecomunicaciones y, en su caso, imponer las medidas correspondientes.
 CUADRAGÉSIMO. El agente económico preponderante en el sector de las telecomunicaciones o el agente con poder sustancial en el mercado relevante que corresponda, estarán obligados a cumplir con lo dispuesto en los artículos 138, fracción VIII, 208 y en las fracciones V y VI del artículo 267 de la Ley Federal de Telecomunicaciones y Radiodifusión, a partir de su entrada en vigor.
 CUADRAGÉSIMO PRIMERO. Las instituciones de educación superior de carácter público, que a la fecha de entrada en vigor del presente Decreto, cuenten con medios de radiodifusión a que se refieren los artículos 67 fracción II y 76 fracción II de la Ley Federal de Telecomunicaciones y Radiodifusión, no recibirán presupuesto adicional para ese objeto.
 CUADRAGÉSIMO SEGUNDO. A la concesión para instalar, operar y explotar una red pública de telecomunicaciones que, en los términos del artículo Décimo Quinto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o, 7o, 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, debe ser cedida por la Comisión Federal de Electricidad a Telecomunicaciones de México, no le resultará aplicable lo establecido en los artículos 140 y 144 de la Ley Federal de Telecomunicaciones y Radiodifusión, exclusivamente respecto a aquellos contratos vigentes a la fecha de publicación del presente Decreto que hayan sido celebrados entre la Comisión Federal de Electricidad y aquellas personas físicas o morales que, conforme a la misma Ley, han de ser considerados como usuarios finales.
@@ -3980,74 +4494,124 @@ Dichos contratos serán cedidos por la Comisión Federal de Electricidad a Telec
 En caso de que exista impedimento técnico, legal o económico para que Telecomunicaciones de México pueda ceder los referidos contratos, estos se mantendrán vigentes como máximo hasta la fecha en ellos señalada para su terminación, sin que puedan ser renovados o extendidos para nuevos períodos.
 CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir de la entrada en vigor del presente Decreto, las señales de los concesionarios de uso comercial que transmitan televisión radiodifundida y que cubran más del cincuenta por ciento del territorio nacional deberán contar con lenguaje de señas mexicana o subtitulaje oculto en idioma nacional, en la programación que transmitan de las 06:00 a las 24:00 horas, excluyendo la publicidad y otros casos que establezca el Instituto Federal de Telecomunicaciones, atendiendo a las mejores prácticas internacionales. Los entes públicos federales que sean concesionarios de uso público de televisión radiodifundida estarán sujetos a la misma obligación.
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
-CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo
+**Octavo.** Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
 México, D.F., a 08 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de julio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica. el artículo 13 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
-Publicado en el Diario Oficial de la Federación el 12 de marzo de 2015 ……… ……… Transitorio Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 12 de marzo de 2015 ……… ………
+
+## Transitorio
+
+
+### Artículo Único
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 5 de febrero de 2015.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Fernando Bribiesca Sahagún, Secretario.- Sen. Lucero Saldaña Pérez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de marzo de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se reforma el artículo Décimo Noveno Transitorio del Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión, publicado el 14 de julio de 2014.
-Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015 ARTÍCULO ÚNICO.- Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del “DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue: ……….
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
-Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2015
+
+### ARTÍCULO ÚNICO
+Se adiciona un párrafo séptimo, se recorren los subsecuentes y se reforma el actual párrafo séptimo del artículo Décimo Noveno Transitorio del “DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE 2014, para quedar como sigue: ……….
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+**Tercero.** A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
 México, D. F., a 9 de diciembre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 DECRETO por el que se expide la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos; y se reforman, adicionan y derogan diversas Dominio, reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; del Código Fiscal de la Federación y del Código Nacional de Procedimientos Penales.
-Publicado en el Diario Oficial de la Federación el 12 de enero de 2016 ARTÍCULO TERCERO. Se adicionan un tercer párrafo al artículo 140; un último párrafo al artículo 241 y un tercer párrafo al artículo 243, y se derogan el inciso j) de la fracción I del artículo 253; las fracciones ……… TRANSITORIOS Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
-Tercero.- A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+Publicado en el Diario Oficial de la Federación el 12 de enero de 2016
+
+### ARTÍCULO TERCERO
+Se adicionan un tercer párrafo al artículo 140; un último párrafo al artículo 241 y un tercer párrafo al artículo 243, y se derogan el inciso j) de la fracción I del artículo 253; las fracciones ………
+
+## TRANSITORIOS
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
+**Tercero.-** A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
 I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
 II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
-Cuarto.- Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
-Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
+**Cuarto.-** Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-DECRETO por el que se reforman y adicionan diversas disposiciones del Código de Publicado en el Diario Oficial de la Federación el 7 de abril de 2016 Artículo Segundo.- Se adiciona una fracción VII, recorriéndose la actual VII a ser VIII, al artículo 246 ……… Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La Secretaría expedirá, en un plazo de 360 días naturales, contados a partir de la entrada en vigor del presente Decreto, los lineamientos de carácter general que sean necesarios, a fin de establecer los procedimientos que hagan tecnológica y operativamente viable la implementación de las presentes reformas.
+DECRETO por el que se reforman y adicionan diversas disposiciones del Código de Publicado en el Diario Oficial de la Federación el 7 de abril de 2016
+
+### Artículo Segundo
+Se adiciona una fracción VII, recorriéndose la actual VII a ser VIII, al artículo 246 ………
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La Secretaría expedirá, en un plazo de 360 días naturales, contados a partir de la entrada en vigor del presente Decreto, los lineamientos de carácter general que sean necesarios, a fin de establecer los procedimientos que hagan tecnológica y operativamente viable la implementación de las presentes reformas.
 Ciudad de México, a 3 de marzo de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cinco de abril de dos mil dieciséis.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-DECRETO por el que se expide la Ley Nacional de Ejecución Penal; se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del Publicado en el Diario Oficial de la Federación el 16 de junio de 2016 Artículo Primero. Se expide la Ley Nacional de Ejecución Penal. ……… TRANSITORIOS Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se expide la Ley Nacional de Ejecución Penal; se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del Publicado en el Diario Oficial de la Federación el 16 de junio de 2016
+
+### Artículo Primero
+Se expide la Ley Nacional de Ejecución Penal. ………
+
+## TRANSITORIOS
+
+**Primero.** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Para los efectos señalados en el párrafo tercero del artículo segundo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008, se declara que la presente legislación recoge el sistema procesal penal acusatorio y entrará en vigor de acuerdo a los artículos transitorios siguientes.
-Segundo. Las fracciones III y X y el párrafo séptimo del artículo 10; los artículos 26 y 27, fracción II del artículo 28; fracción VII del artículo 108; los artículos 146, 147, 148, 149, 150 y 151 entrarán en vigor a partir de un año de la publicación de la presente Ley o al día siguiente de la publicación de la Declaratoria que al efecto emitan el Congreso de la Unión o las legislaturas de las entidades federativas en el ámbito de sus competencias, sin que pueda exceder del 30 de noviembre de 2017.
+**Segundo.** Las fracciones III y X y el párrafo séptimo del artículo 10; los artículos 26 y 27, fracción II del artículo 28; fracción VII del artículo 108; los artículos 146, 147, 148, 149, 150 y 151 entrarán en vigor a partir de un año de la publicación de la presente Ley o al día siguiente de la publicación de la Declaratoria que al efecto emitan el Congreso de la Unión o las legislaturas de las entidades federativas en el ámbito de sus competencias, sin que pueda exceder del 30 de noviembre de 2017.
 Los artículos 31, 32, 33, 34, 35, 36, 59, 60, 61, 75, 77, 78, 80, 82, 83, 86, 91, 92, 93, 94, 95, 96, 97, 98, 99, 128, 136, 145, 153, 165, 166, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 192, 193, 194, 195, 200, 201, 202, 203, 204, 205, 206 y 207 entrarán en vigor a más tardar dos años después de la publicación de la presente Ley o al día siguiente de la publicación de la Declaratoria que al efecto emitan el Congreso de la Unión o las legislaturas de las entidades federativas en el ámbito de sus competencias, sin que pueda exceder del 30 de noviembre de 2018.
 En el orden Federal, el Congreso de la Unión emitirá la Declaratoria, previa solicitud conjunta del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal o la instancia que, en su caso, quede encargada de coordinar la consolidación del Sistema de Justicia Penal, y la Conferencia Nacional del Sistema Penitenciario.
 En el caso de las entidades federativas, el órgano legislativo correspondiente, emitirá la Declaratoria previa solicitud de la autoridad encargada de la implementación del Sistema de Justicia Penal en cada una de ellas.
 En las entidades federativas donde esté vigente el nuevo Sistema de Justicia Penal, el órgano legislativo correspondiente deberá emitir dentro de los siguientes diez días el anexo a la Declaratoria para el inicio de vigencia de la presente Ley.
-Tercero. A partir de la entrada en vigor de la presente Ley, quedarán abrogadas la Ley que Establece las Normas Mínimas Sobre Readaptación Social de Sentenciados y las que regulan la ejecución de sanciones penales en las entidades federativas.
+**Tercero.** A partir de la entrada en vigor de la presente Ley, quedarán abrogadas la Ley que Establece las Normas Mínimas Sobre Readaptación Social de Sentenciados y las que regulan la ejecución de sanciones penales en las entidades federativas.
 Los procedimientos que se encuentren en trámite a la entrada en vigor del presente ordenamiento, continuarán con su sustanciación de conformidad con la legislación aplicable al inicio de los mismos, debiendo aplicar los mecanismos de control jurisdiccional previstos en la presente Ley, de acuerdo con el principio pro persona establecido en el artículo 1o. Constitucional.
 A partir de la entrada en vigor de la presente Ley, se derogan todas las disposiciones normativas que contravengan la misma.
-Cuarto. A partir de la entrada en vigor de la presente Ley, se derogan las normas contenidas en el libertad preparatoria y sustitución de la pena durante la ejecución.
+**Cuarto.** A partir de la entrada en vigor de la presente Ley, se derogan las normas contenidas en el libertad preparatoria y sustitución de la pena durante la ejecución.
 Las entidades federativas deberán adecuar su legislación a efecto de derogar las normas relativas a la remisión parcial de la pena, libertad preparatoria y sustitución de la pena durante la ejecución, en el ámbito de sus respectivas competencias.
 Las entidades federativas deberán legislar en sus códigos penales sobre las responsabilidades de los supervisores de libertad.
-Quinto. En un plazo que no exceda de ciento ochenta días naturales después de publicado el presente Decreto, la Federación y las entidades federativas deberán publicar las reformas a sus leyes que resulten necesarias para la implementación de esta Ley, así como lo dispuesto en el artículo 92, fracción V en materia de seguridad social.
+**Quinto.** En un plazo que no exceda de ciento ochenta días naturales después de publicado el presente Decreto, la Federación y las entidades federativas deberán publicar las reformas a sus leyes que resulten necesarias para la implementación de esta Ley, así como lo dispuesto en el artículo 92, fracción V en materia de seguridad social.
 A la entrada en vigor de la presente Ley, en aquellos lugares donde se determine su inicio, tanto en el ámbito federal como local, se deberá contar con las disposiciones administrativas de carácter general correspondientes, pudiendo preverse la homologación de criterios metodológicos, técnicos y procedimentales, para lo cual podrán coordinarse las autoridades involucradas.
-Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Poder Judicial de la Federación, las dependencias y entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos para el presente ejercicio fiscal y los subsecuentes.
+**Sexto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para el Poder Judicial de la Federación, las dependencias y entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos para el presente ejercicio fiscal y los subsecuentes.
 Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
-Séptimo. El Consejo de la Judicatura Federal, el Instituto Federal de la Defensoría Pública, la Procuraduría General de la República, la Secretaría de Gobernación, la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía, la Secretaría de Educación Pública, la Secretaría de Cultura, la Secretaría de Desarrollo Social, la Secretaría de Salud, la Comisión Nacional de Cultura Física y Deporte, la Comisión Ejecutiva de Atención a Víctimas y toda dependencia o entidad de la Administración Pública Federal y sus equivalentes en las entidades federativas a las que se confieran responsabilidades directas o indirectas en esta Ley, deberán prever en sus programas la adecuada y correcta implementación, y deberán establecer dentro de los proyectos de presupuesto respectivos, las partidas necesarias para atender la ejecución de esos programas, las obras de infraestructura, la contratación de personal, la capacitación y todos los demás requerimientos necesarios para cumplir los objetivos de la presente Ley.
-Octavo. El Consejo de Coordinación para la Implementación del Sistema de Justicia Penal constituirá un Comité para la Implementación, Evaluación y Seguimiento del Sistema de Ejecución Penal que estará presidido por la Conferencia Nacional del Sistema Penitenciario, el cual rendirá un informe semestral al Consejo de Coordinación. Lo anterior con la finalidad de coordinar, coadyuvar y apoyar a las autoridades federales y a las entidades federativas cuando así lo soliciten.
+**Séptimo.** El Consejo de la Judicatura Federal, el Instituto Federal de la Defensoría Pública, la Procuraduría General de la República, la Secretaría de Gobernación, la Secretaría del Trabajo y Previsión Social, la Secretaría de Economía, la Secretaría de Educación Pública, la Secretaría de Cultura, la Secretaría de Desarrollo Social, la Secretaría de Salud, la Comisión Nacional de Cultura Física y Deporte, la Comisión Ejecutiva de Atención a Víctimas y toda dependencia o entidad de la Administración Pública Federal y sus equivalentes en las entidades federativas a las que se confieran responsabilidades directas o indirectas en esta Ley, deberán prever en sus programas la adecuada y correcta implementación, y deberán establecer dentro de los proyectos de presupuesto respectivos, las partidas necesarias para atender la ejecución de esos programas, las obras de infraestructura, la contratación de personal, la capacitación y todos los demás requerimientos necesarios para cumplir los objetivos de la presente Ley.
+**Octavo.** El Consejo de Coordinación para la Implementación del Sistema de Justicia Penal constituirá un Comité para la Implementación, Evaluación y Seguimiento del Sistema de Ejecución Penal que estará presidido por la Conferencia Nacional del Sistema Penitenciario, el cual rendirá un informe semestral al Consejo de Coordinación. Lo anterior con la finalidad de coordinar, coadyuvar y apoyar a las autoridades federales y a las entidades federativas cuando así lo soliciten.
 La Autoridad Penitenciaria contará con un plazo de cuatro años, a partir de la publicación de este Decreto, para capacitar, adecuar los establecimientos penitenciarios y su capacidad instalada, equipar, desarrollar tecnologías de la información y comunicaciones, así como adecuar su estructura organizacional. Todo ello de conformidad con los planes de actividades registrados ante el Comité al que se refiere el párrafo anterior.
 El Consejo de Coordinación presentará anualmente ante las Cámaras del Congreso de la Unión, un informe anual del seguimiento a la implementación del Sistema de Ejecución Penal.
-Noveno. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional del Sistema Penitenciario deberá emitir un Acuerdo General en el que se establezca un régimen gradual por virtud del cual las Autoridades Penitenciarias, en el ámbito de su competencias, destinarán espacios especiales de reclusión, dentro de los establecimientos penitenciarios, para los sentenciados por los delitos de delincuencia organizada y secuestro, previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, así como aquellas personas privadas de la libertad que requieran medidas especiales de seguridad.
-Décimo. A partir de la entrada en vigor del presente Decreto, podrán acceder, de manera inmediata y sin tener que satisfacer los requisitos establecidos en las fracciones IV y VII del artículo 141 de la presente Ley, al beneficio de libertad anticipada todas las personas que hayan sido sentenciadas con penas privativas de la libertad por la comisión de los siguientes delitos:
+**Noveno.** Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, la Conferencia Nacional del Sistema Penitenciario deberá emitir un Acuerdo General en el que se establezca un régimen gradual por virtud del cual las Autoridades Penitenciarias, en el ámbito de su competencias, destinarán espacios especiales de reclusión, dentro de los establecimientos penitenciarios, para los sentenciados por los delitos de delincuencia organizada y secuestro, previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, así como aquellas personas privadas de la libertad que requieran medidas especiales de seguridad.
+**Décimo.** A partir de la entrada en vigor del presente Decreto, podrán acceder, de manera inmediata y sin tener que satisfacer los requisitos establecidos en las fracciones IV y VII del artículo 141 de la presente Ley, al beneficio de libertad anticipada todas las personas que hayan sido sentenciadas con penas privativas de la libertad por la comisión de los siguientes delitos:
 I. La comisión del delito de robo cuyo valor de lo robado no exceda de 80 veces la Unidad de Medida y Actualización, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, o II. La comisión del delito de posesión sin fines de comercio o suministro, de Cannabis Sativa, Indica o Marihuana, contemplado en el artículo 477 de la Ley General de Salud, en cualquiera de sus formas, derivados o preparaciones, y cuando en la comisión del delito no haya mediado ningún tipo de violencia, ni la concurrencia de más delitos.
 Para tal efecto, la autoridad jurisdiccional requerirá a la Autoridad Penitenciaria el informe sobre el cumplimiento de los requisitos a que alude el párrafo anterior.
-Décimo Primero. Los procuradores o fiscales generales de la Federación y de las entidades federativas, en su ámbito de competencia respectivo, podrán solicitar ante la autoridad jurisdiccional competente, la aplicación de los beneficios de libertad anticipada referidos en el artículo transitorio décimo. Asimismo, las autoridades judiciales competentes sustanciarán el procedimiento respectivo de manera oficiosa o a solicitud de la persona a quien aplique dicho beneficio.
-Décimo Segundo. El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas emitirán acuerdos generales, para determinar la competencia territorial de excepción de los juzgados de ejecución con la finalidad de conocer de los diversos asuntos en razón de seguridad y medidas especiales, en tanto entra en vigor la Ley; para lo cual podrá suscribir los convenios correspondientes con las instancias operadoras del Sistema de Justicia Penal.
-Artículo Segundo.- Se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se ……..
-Transitorio Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Décimo Primero.** Los procuradores o fiscales generales de la Federación y de las entidades federativas, en su ámbito de competencia respectivo, podrán solicitar ante la autoridad jurisdiccional competente, la aplicación de los beneficios de libertad anticipada referidos en el artículo transitorio
+**décimo.** Asimismo, las autoridades judiciales competentes sustanciarán el procedimiento respectivo de manera oficiosa o a solicitud de la persona a quien aplique dicho beneficio.
+**Décimo Segundo.** El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas emitirán acuerdos generales, para determinar la competencia territorial de excepción de los juzgados de ejecución con la finalidad de conocer de los diversos asuntos en razón de seguridad y medidas especiales, en tanto entra en vigor la Ley; para lo cual podrá suscribir los convenios correspondientes con las instancias operadoras del Sistema de Justicia Penal.
+
+### Artículo Segundo
+Se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se ……..
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 14 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Juan Manuel Celis Aguirre, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del del Sistema Nacional de Seguridad Pública; de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del
 
 ### Artículo 73
 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.
-Publicado en el Diario Oficial de la Federación el 17 de junio de 2016 Artículo Segundo.- Se reforman los artículos 7o., fracción I del tercer párrafo; 16; 25; 27, primer y último párrafos; 29, último párrafo; 34, primer y último párrafos; 35, cuarto párrafo; 38; 40; 50 Bis, primer párrafo; 55, primero y tercer párrafos; 56; 64; 65, segundo párrafo; 71, segundo párrafo; 74, primer párrafo; 75; 76; 77; 87; la denominación del Título Quinto, Capítulo I del Libro Primero; 91; 93, cuarto párrafo; 97, primer párrafo; 99; 101, segundo y tercer párrafos; 110, primer y tercer párrafos; 114; 115, primer párrafo; la denominación del Capítulo VIII del Título Quinto del Libro Primero; 225, fracciones IX, X, XII, XIV, XVI, XVII, XIX, XXI, XXVII, XXVIII, XXX, XXXI y XXXII; se adicionan los artículos 11 Bis; un segundo párrafo al artículo 55, recorriéndose en su orden los subsecuentes; un cuarto párrafo al artículo 211 Bis 2; se derogan el quinto párrafo del artículo 35; el cuarto y sexto párrafos del artículo 55; el sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
+Publicado en el Diario Oficial de la Federación el 17 de junio de 2016
+
+### Artículo Segundo
+Se reforman los artículos 7o., fracción I del tercer párrafo; 16; 25; 27, primer y último párrafos; 29, último párrafo; 34, primer y último párrafos; 35, cuarto párrafo; 38; 40; 50 Bis, primer párrafo; 55, primero y tercer párrafos; 56; 64; 65, segundo párrafo; 71, segundo párrafo; 74, primer párrafo; 75; 76; 77; 87; la denominación del Título Quinto, Capítulo I del Libro Primero; 91; 93, cuarto párrafo; 97, primer párrafo; 99; 101, segundo y tercer párrafos; 110, primer y tercer párrafos; 114; 115, primer párrafo; la denominación del Capítulo VIII del Título Quinto del Libro Primero; 225, fracciones IX, X, XII, XIV, XVI, XVII, XIX, XXI, XXVII, XXVIII, XXX, XXXI y XXXII; se adicionan los artículos 11 Bis; un segundo párrafo al artículo 55, recorriéndose en su orden los subsecuentes; un cuarto párrafo al artículo 211 Bis 2; se derogan el quinto párrafo del artículo 35; el cuarto y sexto párrafos del artículo 55; el sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación salvo lo previsto en el siguiente artículo.
 Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los artículos 21 en su fracción X, 50 Bis y 158 de la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor en términos de lo previsto por el Artículo Segundo Transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación el 5 de marzo de 2014.
 Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
-Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+**Tercero.-** Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
 Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
-Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
-Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
-Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+**Cuarto.-** Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la Constitución Política de los Estados Unidos Mexicanos.
+**Quinto.-** Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la revisión de dichas medidas, para efecto de que, el juez de la causa, en los términos de los artículos 153 a 171 del Código Nacional de Procedimientos Penales, habiéndose dado vista a las partes, para que el Ministerio Público investigue y acredite lo conducente, y efectuada la audiencia correspondiente, el órgano jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva sobre la imposición, revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en términos de los artículos 176 a 182 del citado Código.
+**Sexto.-** La Procuraduría General de la República propondrá al seno del Consejo Nacional de Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
 Ciudad de México, a 15 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Verónica Delgadillo García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Publicado en el Diario Oficial de la Federación el 18 de julio de 2016 Artículo Único.- Se reforman el párrafo primero y el inciso e) del artículo 201; la denominación al
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Publicado en el Diario Oficial de la Federación el 18 de julio de 2016
+
+### Artículo Único
+Se reforman el párrafo primero y el inciso e) del artículo 201; la denominación al
 
 ## Título Décimo; el párrafo primero del artículo 212; el artículo 213; el artículo 213 Bis; la denominación del
 
@@ -4058,40 +4622,80 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del P
 
 ### artículo 223
 ; los actuales párrafos primero, segundo, cuarto, quinto y sexto del artículo 224; las fracciones VI, X, XIII, XVII, XX, XXIV, XXVIII y XXXII del artículo 225; se adicionan un párrafo tercero con las fracciones I, II, un párrafo cuarto, un quinto párrafo con las fracciones I, II, III y IV, un sexto y un séptimo párrafos al artículo 212; un inciso E) a la fracción I, una fracción I Bis con los incisos A) y B) y un párrafo segundo al artículo 217; un artículo 217 Bis; una fracción IV al artículo 221; una fracción III con los incisos a, b y un párrafo segundo recorriéndose los subsecuentes al artículo 222; un párrafo tercero recorriéndose los subsecuentes al artículo 224, y se deroga el cuarto párrafo del artículo 225 del Código Penal Federal, para quedar como sigue: ……….
-Transitorios Primero.- El presente Decreto entrará en vigor a partir del nombramiento que el Senado de la República realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, creada en términos de lo establecido en el segundo párrafo del Artículo Décimo Octavo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, a través del Acuerdo A/011/14 por el que se crea la Fiscalía Especializada en materia de Delitos relacionados con Hechos de Corrupción y se establecen sus atribuciones, publicado en el Diario Oficial de la Federación el 12 de marzo de 2014.
-Segundo.- A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor a partir del nombramiento que el Senado de la República realice del Titular de la Fiscalía Especializada en materia de delitos relacionados con hechos de corrupción, creada en términos de lo establecido en el segundo párrafo del Artículo Décimo Octavo
+
+## Transitorio
+
+del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, a través del Acuerdo A/011/14 por el que se crea la Fiscalía Especializada en materia de Delitos relacionados con Hechos de Corrupción y se establecen sus atribuciones, publicado en el Diario Oficial de la Federación el 12 de marzo de 2014.
+**Segundo.-** A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
 I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
 II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
 III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
 IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
-Tercero.- Una vez que entre en vigencia la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes que establece el inciso a) de la fracción XXI del artículo 73, la fracción XIII del artículo 215 quedará derogada y los procedimientos iniciados por hechos que ocurran a partir de dicha entrada en vigor, se seguirán conforme a lo establecido en la misma.
+**Tercero.-** Una vez que entre en vigencia la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes que establece el inciso a) de la fracción XXI del artículo 73, la fracción XIII del artículo 215 quedará derogada y los procedimientos iniciados por hechos que ocurran a partir de dicha entrada en vigor, se seguirán conforme a lo establecido en la misma.
 Los procedimientos iniciados antes de la vigencia de dicha ley continuarán su sustanciación de conformidad con este Código.
-Cuarto.- Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+**Cuarto.-** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
 Ciudad de México, a 17 de junio de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. César Octavio Pedroza Gaitán, Secretario.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciocho de julio de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforman los artículos 153 y 154, y se deroga el artículo 151 del Publicado en el Diario Oficial de la Federación el 27 de marzo de 2017 Artículo Único.- Se reforman los artículos 153 y 154, y se deroga el artículo 151 del Código Penal Federal, para quedar como sigue: ……….
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman los artículos 153 y 154, y se deroga el artículo 151 del Publicado en el Diario Oficial de la Federación el 27 de marzo de 2017
+
+### Artículo Único
+Se reforman los artículos 153 y 154, y se deroga el artículo 151 del Código Penal Federal, para quedar como sigue: ……….
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 2 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 Itzel S. Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticuatro de marzo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 
 ### artículo 2o
 . de la Ley Federal contra la Delincuencia Organizada.
-Publicado en el Diario Oficial de la Federación el 7 de abril de 2017 Artículo Primero.- Se reforma el primer párrafo y la fracción II Bis del artículo 420 del Código Penal Federal, para quedar como sigue: ……..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 7 de abril de 2017
+
+### Artículo Primero
+Se reforma el primer párrafo y la fracción II Bis del artículo 420 del Código Penal Federal, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 21 de febrero de 2017.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de abril de dos mil diecisiete.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General Publicado en el Diario Oficial de la Federación el 19 de junio de 2017 quedar como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud reforzará los programas y acciones a que hace referencia el Capítulo IV, del Título Décimo Primero de la Ley General de Salud, con énfasis en la prevención, tratamiento, rehabilitación, reinserción social y control del consumo de cannabis sativa, índica y americana o marihuana y sus derivados, por parte de niñas, niños y adolescentes, así como el tratamiento de las personas con adicción a dichos narcóticos.
-Tercero.- El Consejo de Salubridad General, a partir de los resultados de la investigación nacional, deberá conocer el valor terapéutico o medicinal que lleve a la producción de los fármacos que se deriven de la cannabis sativa, índica y americana o marihuana y sus derivados, para garantizar la salud de los pacientes.
-Cuarto.- La Secretaría de Salud tendrá 180 días a partir de la entrada en vigor del presente Decreto, para armonizar los reglamentos y normatividad en el uso terapéutico del TETRAHIDROCANNABINOL de los siguiente isómeros: ∆6a (10a), ∆6a (7), ∆7, ∆8, ∆9, ∆10, ∆9 (11) y sus variantes estereoquímicas.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General Publicado en el Diario Oficial de la Federación el 19 de junio de 2017 quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la entrada en vigor del presente Decreto, la Secretaría de Salud reforzará los programas y acciones a que hace referencia el Capítulo IV, del Título Décimo Primero de la Ley General de Salud, con énfasis en la prevención, tratamiento, rehabilitación, reinserción social y control del consumo de cannabis sativa, índica y americana o marihuana y sus derivados, por parte de niñas, niños y adolescentes, así como el tratamiento de las personas con adicción a dichos narcóticos.
+**Tercero.-** El Consejo de Salubridad General, a partir de los resultados de la investigación nacional, deberá conocer el valor terapéutico o medicinal que lleve a la producción de los fármacos que se deriven de la cannabis sativa, índica y americana o marihuana y sus derivados, para garantizar la salud de los pacientes.
+**Cuarto.-** La Secretaría de Salud tendrá 180 días a partir de la entrada en vigor del presente Decreto, para armonizar los reglamentos y normatividad en el uso terapéutico del TETRAHIDROCANNABINOL de los siguiente isómeros: ∆6a (10a), ∆6a (7), ∆7, ∆8, ∆9, ∆10, ∆9 (11) y sus variantes estereoquímicas.
 Ciudad de México, a 28 de abril de 2017.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Raúl Domínguez Rex, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2017 ……..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 25 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 Itzel Sarahí Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforma el encabezado de Capítulo I del Título Decimoctavo y se Publicado en el Diario Oficial de la Federación el 22 de junio de 2017 Artículo Único.- Se reforma el encabezado de Capítulo I del Título Decimoctavo y se adiciona el ……… Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el encabezado de Capítulo I del Título Decimoctavo y se Publicado en el Diario Oficial de la Federación el 22 de junio de 2017
+
+### Artículo Único
+Se reforma el encabezado de Capítulo I del Título Decimoctavo y se adiciona el ………
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 Lorena Cuéllar Cisneros, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-DECRETO por el que se reforma el artículo 381 Bis y se adicionan los artículos 381 Ter y Publicado en el Diario Oficial de la Federación el 23 de junio de 2017 Artículo Único. Se reforma el artículo 381 Bis y se adicionan los artículos 381 Ter y 381 Quáter al ……… Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- A partir de la entrada en vigor de este Decreto, respecto de la descripción legal de la
+DECRETO por el que se reforma el artículo 381 Bis y se adicionan los artículos 381 Ter y Publicado en el Diario Oficial de la Federación el 23 de junio de 2017
+
+### Artículo Único
+Se reforma el artículo 381 Bis y se adicionan los artículos 381 Ter y 381 Quáter al ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** A partir de la entrada en vigor de este Decreto, respecto de la descripción legal de la
 
 ### artículo 381
 Bis se contemplaba como delito y que por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establece, se estará a lo siguiente:
@@ -4100,60 +4704,72 @@ II. En los procesos pendientes de dictarse sentencia en primera y segunda instan
 Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; y se reforman, Comisión Nacional de los Derechos Humanos, de la Ley del Sistema Nacional de Seguridad Pública y de la Ley de Extradición Internacional.
-Publicado en el Diario Oficial de la Federación el 26 de junio de 2017 ARTÍCULO SEGUNDO.- Se adiciona la fracción V al artículo 85 y se reforma la fracción XV del
+Publicado en el Diario Oficial de la Federación el 26 de junio de 2017
+
+### ARTÍCULO SEGUNDO
+Se adiciona la fracción V al artículo 85 y se reforma la fracción XV del
 
 ### artículo 215
 ; y se derogan las fracciones II y XIII del Artículo 215, así como la fracción XII del artículo 225, ……….
-Transitorios Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo. Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario Oficial de la Federación el 27 de diciembre de 1991.
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario Oficial de la Federación el 27 de diciembre de 1991.
 Los procedimientos iniciados por hechos que ocurran a partir de la entrada en vigor de la presente Ley, se seguirán conforme a lo establecido en el Código Nacional de Procedimientos Penales y en la presente Ley.
 Los procedimientos iniciados antes de la vigencia de la presente ley continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
 Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
 Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
-Tercero. En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la legislatura de cada entidad federativa deberá armonizar su marco jurídico de conformidad con el mismo.
-Cuarto. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán adoptar y publicar los protocolos y criterios a que se refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
-Quinto. La Procuraduría General de la República contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
+**Tercero.** En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la legislatura de cada entidad federativa deberá armonizar su marco jurídico de conformidad con el mismo.
+**Cuarto.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán adoptar y publicar los protocolos y criterios a que se refiere la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+**Quinto.** La Procuraduría General de la República contará con un plazo de ciento ochenta días siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
 Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, las procuradurías y fiscalías de las entidades federativas deberán poner en marcha sus registros correspondientes.
-Sexto. La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar sus Fiscalías Especiales para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
-Séptimo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
-Octavo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
-Noveno. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de los Derechos Humanos deberá instalar formalmente el Mecanismo Nacional de Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y expedir las bases para su operación y funcionamiento en la sesión ordinaria inmediata a la instalación.
+**Sexto.** La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar sus Fiscalías Especiales para la investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
+**Séptimo.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente Decreto.
+**Octavo.** Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria para el cumplimiento de la Ley.
+**Noveno.** Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de los Derechos Humanos deberá instalar formalmente el Mecanismo Nacional de Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y expedir las bases para su operación y funcionamiento en la sesión ordinaria inmediata a la instalación.
 De la misma manera, dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, deberán expedir los lineamientos de carácter general que determinen las modalidades y procedimientos que deberán seguir durante las visitas.
 La persona titular del Mecanismo Nacional de Prevención realizará el nombramiento del Director Ejecutivo dentro de los noventa días siguientes a la publicación del presente Decreto en el Diario Oficial de la Federación.
 La elección de los integrantes del Comité Técnico a que se refiere la fracción II del artículo 73 de esta Ley, se hará por única ocasión, atendiendo a la gradualidad siguiente:
 De las cuatro personas expertas elegidas, dos durarán en su encargo dos años y las otras dos durarán cuatro años, situación que será definida por el Senado conforme a la votación por mayoría; lo anterior para que exista sustitución escalonada en la integración del Comité Técnico, por lo que a partir de que concluya el periodo de dos años de los integrantes elegidos para dicho periodo, quienes los sustituyan serán elegidos en los términos de la ley por cuatro años.
 El Titular Presidente del Comité Técnico del Mecanismo Nacional de Prevención, durará en su encargo, mientras dure su encargo como Presidente de la Comisión Nacional de los Derechos Humanos.
-Décimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes. Así mismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuesta les necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
-Décimo Primero. Las erogaciones que se generen con motivo de la operación del Mecanismo Nacional de Prevención de la Tortura para la Comisión Nacional de los Derechos Humanos, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
-Décimo Segundo. Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
-Décimo Tercero. En las entidades federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas de la entidad federativa deberán brindar la atención a las Víctimas conforme a lo establecido en el Título Sexto de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+**Décimo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública Federal, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes. Así mismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuesta les necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
+**Décimo Primero.** Las erogaciones que se generen con motivo de la operación del Mecanismo Nacional de Prevención de la Tortura para la Comisión Nacional de los Derechos Humanos, se cubrirán con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
+**Décimo Segundo.** Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las obligaciones que les competen en términos del presente Decreto.
+**Décimo Tercero.** En las entidades federativas en las que no exista una Comisión de Atención a Víctimas, las instituciones públicas de la entidad federativa deberán brindar la atención a las Víctimas conforme a lo establecido en el Título Sexto de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 Asimismo, de conformidad con el artículo 79 de la Ley General de Víctimas, será competente la Comisión Ejecutiva de Atención a Víctimas para dar cumplimiento a lo establecido en el párrafo anterior.
 En el supuesto establecido en el párrafo primero de este artículo, la solicitud a que se refiere la fracción I del artículo 91 de la Ley deberá ser suscrita por el Secretario de Gobierno de la entidad federativa, correspondiente.
-Décimo Cuarto. Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
-Décimo Quinto. En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
-Décimo Sexto. A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
+**Décimo Cuarto.** Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
+**Décimo Quinto.** En un período no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo establecido en el mismo.
+**Décimo Sexto.** A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo de ciento ochenta días contados a partir de su entrada en vigor.
 Ciudad de México, a 26 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se expide la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de la Ley General de Salud.
-Publicado en el Diario Oficial de la Federación el 17 de noviembre de 2017 ARTÍCULO SEGUNDO.- Se reforma el tercer párrafo del artículo 25; se deroga el Capítulo III Bis del
+Publicado en el Diario Oficial de la Federación el 17 de noviembre de 2017
+
+### ARTÍCULO SEGUNDO
+Se reforma el tercer párrafo del artículo 25; se deroga el Capítulo III Bis del
 
 ## Título Décimo conformado por los artículos 215-A a 215-D, y se adiciona un artículo 280 Bis al Título
 ……….
-Transitorios Primero. El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
 A partir de la entrada en vigor del presente Decreto y hasta la emisión de los instrumentos a que se refiere el Artículo Décimo Cuarto Transitorio, la Procuraduría y las Procuradurías Locales y demás autoridades deberán cumplir con las obligaciones de búsqueda conforme a los ordenamientos que se hayan expedido con anterioridad, siempre que no se opongan a esta Ley.
 La Procuraduría y las Procuradurías Locales, además de los protocolos previstos en esta Ley, continuarán aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.
-Segundo. Se abroga la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
-Tercero. Las Fiscalías Especializadas y la Comisión Nacional de Búsqueda entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+**Segundo.** Se abroga la Ley del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
+**Tercero.** Las Fiscalías Especializadas y la Comisión Nacional de Búsqueda entrarán en funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
 Dentro de los treinta días siguientes a que la Comisión Nacional de Búsqueda inicie sus funciones, ésta deberá emitir los protocolos rectores para su funcionamiento previstos en el artículo 53, fracción VIII, de esta Ley.
 Dentro de los ciento ochenta días posteriores a la entrada en funciones de la Comisión Nacional de Búsqueda, ésta deberá emitir el Programa Nacional de Búsqueda.
 Los servidores públicos que integren las Fiscalías Especializadas y las Comisiones de Búsqueda deberán estar certificados dentro del año posterior a su creación.
 Para los efectos de lo dispuesto en el párrafo anterior, la Comisión Nacional de Búsqueda emitirá los criterios previstos en el artículo 53, fracción L, de esta Ley, dentro de los noventa días posteriores a su entrada en funciones.
 La Comisión Nacional de Búsqueda y las comisiones locales podrán, a partir de que entren en funcionamiento, ejercer las atribuciones que esta Ley les confiere con relación a los procesos de búsqueda que se encuentren pendientes. La Comisión Nacional de Búsqueda coordinará la búsqueda de las personas desaparecidas relacionadas con búsquedas en las que, a la entrada en vigor de esta Ley, participen autoridades federales.
-Cuarto. Las Comisiones Locales de Búsqueda deberán entrar en funciones a partir de los noventa días posteriores a la entrada en vigor del presente Decreto.
+**Cuarto.** Las Comisiones Locales de Búsqueda deberán entrar en funciones a partir de los noventa días posteriores a la entrada en vigor del presente Decreto.
 La Comisión Nacional de Búsqueda deberá brindar la asesoría necesaria a las entidades federales para el establecimiento de sus Comisiones Locales de Búsqueda.
-Quinto. El Consejo Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+**Quinto.** El Consejo Ciudadano deberá estar conformado dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
 En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus reglas de funcionamiento.
-Sexto. El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
+**Sexto.** El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento ochenta días posteriores a la publicación del presente Decreto.
 En la primera sesión ordinaria del Sistema Nacional de Búsqueda, se deberán emitir los lineamientos y modelos a que se refiere el artículo 49, fracciones I, VIII, XV y XVI de esta Ley.
 En la segunda sesión ordinaria del Sistema Nacional de Búsqueda, que se lleve conforme a lo dispuesto por esta Ley, se deberán emitir los criterios de certificación y especialización previstos en el
 
@@ -4194,163 +4810,316 @@ Asimismo, las Entidades Federativas deberán realizar las previsiones y adecuaci
 Vigésimo Primero. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción XIV del artículo 53 de la Ley.
 Ciudad de México, a 12 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de noviembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del materia de Delitos Carreteros.
-Publicado en el Diario Oficial de la Federación el 21 de febrero de 2018 Artículo Primero.- Se reforma el artículo 381, primer y segundo párrafos; se adicionan los artículos como sigue: ……… TRANSITORIO Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 21 de febrero de 2018
+
+### Artículo Primero
+Se reforma el artículo 381, primer y segundo párrafos; se adicionan los artículos como sigue: ………
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 15 de diciembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Itzel S.
 Ríos de la Mora, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de febrero de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforma el tercer párrafo del artículo 149-Bis del Código Penal Federal.
-Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018 quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018 quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 14 de diciembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip.
 Jorge Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip.
 Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de febrero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
-Publicado en el Diario Oficial de la Federación 1 de junio de 2018 ARTÍCULO TERCERO.- Se reforma el artículo 11 Bis, apartado B, fracción XXI del Código Penal Federal, para quedar como sigue: ……..
-TRANSITORIOS Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los siguientes transitorios.
-Segundo. Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
-Tercero. (Se deroga).
-Artículo derogado DOF 12-11-2021 Cuarto. A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera. de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
+Publicado en el Diario Oficial de la Federación 1 de junio de 2018
+
+### ARTÍCULO TERCERO
+Se reforma el artículo 11 Bis, apartado B, fracción XXI del Código Penal Federal, para quedar como sigue: ……..
+
+## TRANSITORIOS
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con las salvedades previstas en los siguientes transitorios.
+**Segundo.** Las reformas a los artículos 28, fracción I; 81, fracción XXV; 82, fracción XXV; la derogación del artículo 111, fracción VII, y la adición del artículo 111 Bis, del Código Fiscal de la Federación, entrarán en vigor a los 30 días de la publicación del presente Decreto en el Diario Oficial de la Federación.
+**Tercero.** (Se deroga).
+Artículo derogado DOF 12-11-2021
+**Cuarto.** A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera. de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
 Ciudad de México, a 17 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Mariana Arámbula Meléndez, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a quince de mayo de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-DECRETO por el que se reforma el primer párrafo del artículo 259 Bis; se adiciona un Título Séptimo BIS con un Capítulo I; un artículo 199 Septies; y una fracción V al artículo Publicado en el Diario Oficial de la Federación 15 de junio de 2018 Artículo Único. Se reforma el primer párrafo del artículo 259 Bis; se adiciona un Título Séptimo BIS para quedar como sigue: ……..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el primer párrafo del artículo 259 Bis; se adiciona un Título Séptimo BIS con un Capítulo I; un artículo 199 Septies; y una fracción V al artículo Publicado en el Diario Oficial de la Federación 15 de junio de 2018
+
+### Artículo Único
+Se reforma el primer párrafo del artículo 259 Bis; se adiciona un Título Séptimo BIS para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Mariana Arámbula Meléndez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se adiciona un tercer párrafo al Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014.
-Publicado en el Diario Oficial de la Federación el 15 de junio de 2018 Artículo Único.- Se adiciona un tercer párrafo al Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, para quedar como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
+Publicado en el Diario Oficial de la Federación el 15 de junio de 2018
+
+### Artículo Único
+Se adiciona un tercer párrafo al Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de julio de 2014, que se adiciona, será aplicable únicamente a las solicitudes de prórroga presentadas con anterioridad a la entrada en vigor del presente Decreto.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Mariana Arámbula Meléndez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
 DECRETO por el que se reforman y derogan diversas disposiciones del Código de de la Ley para Conservar la Neutralidad del País.
 Publicado en el Diario Oficial de la Federación el 21 de junio de 2018 como sigue: ……….
-Transitorio Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-DECRETO por el que se expide la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2018 Artículo Segundo.- Se adiciona un Capítulo V Bis al Título Décimo, Libro Segundo, del Código Penal Federal, con la denominación “Del pago y recibo indebido de remuneraciones de los servidores públicos”, con los artículos 217 Bis y 217 Ter, para quedar como sigue: ……….
-Transitorios Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo. Al momento de la entrada en vigor de la presente Ley quedan sin efectos todas las disposiciones contrarias a la misma.
+DECRETO por el que se expide la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2018
+
+### Artículo Segundo
+Se adiciona un Capítulo V Bis al Título Décimo, Libro Segundo, del Código Penal Federal, con la denominación “Del pago y recibo indebido de remuneraciones de los servidores públicos”, con los artículos 217 Bis y 217 Ter, para quedar como sigue: ……….
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Al momento de la entrada en vigor de la presente Ley quedan sin efectos todas las disposiciones contrarias a la misma.
 Ciudad de México, a 13 de septiembre de 2018.
 Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares Guadalupe Vázquez Alatorre, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Remuneraciones de los Servidores Públicos, reglamentaria de los artículos 75 y 127 de la Ley General de Responsabilidades Administrativas.
-Publicado en el Diario Oficial de la Federación el 12 de abril de 2019 Artículo Segundo.- Se reforman la denominación del Título Décimo del Libro Segundo; el numeral del
+Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
+
+### Artículo Segundo
+Se reforman la denominación del Título Décimo del Libro Segundo; el numeral del
 
 ### artículo 217
 Bis correspondiente al Capítulo V Bis, para pasar a ser 217 Ter, del mismo Capítulo, y sus fracciones I y II; así como el numeral del artículo 217 Ter del Capítulo V Bis, para pasar a ser 217 Quáter, ……….
-Transitorios Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- Quedan derogadas todas disposiciones que se opongan al contenido del presente Decreto.
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Quedan derogadas todas disposiciones que se opongan al contenido del presente Decreto.
 Ciudad de México, a 5 de marzo de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.
-Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019 Artículo Quinto. Se adiciona una fracción VIII Bis al Apartado B del artículo 11 Bis del Código Penal Federal, para quedar como sigue: ……….
-Transitorios Primero. El presente Decreto entrará en vigor el día 1o. de enero de 2020.
-Segundo. Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
+Publicado en el Diario Oficial de la Federación el 8 de noviembre de 2019
+
+### Artículo Quinto
+Se adiciona una fracción VIII Bis al Apartado B del artículo 11 Bis del Código Penal Federal, para quedar como sigue: ……….
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día 1o. de enero de 2020.
+**Segundo.** Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
 Ciudad de México, a 15 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip.
 Laura Angélica Rojas Hernández, Presidenta.- Sen. Primo Dothé Mata, Secretario.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-DECRETO por el que se adicionan un artículo 190 Bis a la Ley Federal de Publicado en el Diario Oficial de la Federación el 24 de enero de 2020 ……… Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Los particulares que posean aparatos o equipos que sirvan para bloquear, cancelar o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen, deberán de entregar los mismos a la Secretaría de Seguridad y Protección Ciudadana, destruir o en su caso excluir del país, en un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
-Tercero. La Secretaría de Seguridad y Protección Ciudadana, coordinará y supervisará la entregarecepción por parte de particulares de todos los aparatos que tengan como finalidad bloquear, cancelar o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen y procederá a su inutilización bajo los métodos que considere convenientes.
-Cuarto. Las autoridades correspondientes contarán con un término no mayor a 180 días naturales, para realizar las modificaciones a la Norma Oficial Mexicana 220-SCFI-2017, a fin de armonizarla a los contenidos del presente Decreto.
-Quinto. La Secretaría de Seguridad y Protección Ciudadana, informará anualmente del cumplimiento de las disposiciones expresas en este Decreto, a las Comisiones de Seguridad Pública del Senado de la República y de la Cámara de Diputados federales.
+DECRETO por el que se adicionan un artículo 190 Bis a la Ley Federal de Publicado en el Diario Oficial de la Federación el 24 de enero de 2020 ………
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Los particulares que posean aparatos o equipos que sirvan para bloquear, cancelar o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen, deberán de entregar los mismos a la Secretaría de Seguridad y Protección Ciudadana, destruir o en su caso excluir del país, en un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
+**Tercero.** La Secretaría de Seguridad y Protección Ciudadana, coordinará y supervisará la entregarecepción por parte de particulares de todos los aparatos que tengan como finalidad bloquear, cancelar o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen y procederá a su inutilización bajo los métodos que considere convenientes.
+**Cuarto.** Las autoridades correspondientes contarán con un término no mayor a 180 días naturales, para realizar las modificaciones a la Norma Oficial Mexicana 220-SCFI-2017, a fin de armonizarla a los contenidos del presente Decreto.
+**Quinto.** La Secretaría de Seguridad y Protección Ciudadana, informará anualmente del cumplimiento de las disposiciones expresas en este Decreto, a las Comisiones de Seguridad Pública del Senado de la República y de la Cámara de Diputados federales.
 Ciudad de México, a 11 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.Sen. Mónica Fernández Balboa, Presidenta.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 21 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal.
-Publicado en el Diario Oficial de la Federación el 1 de julio de 2020 Artículo Único.- Se reforman la fracción I del artículo 426 y el artículo 429; y se adicionan una fracción III al artículo 168 bis; una fracción III al artículo 424 bis; las fracciones III y IV al artículo 426 y los sigue: ……..
-Transitorio Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 1 de julio de 2020
+
+### Artículo Único
+Se reforman la fracción I del artículo 426 y el artículo 429; y se adicionan una fracción III al artículo 168 bis; una fracción III al artículo 424 bis; las fracciones III y IV al artículo 426 y los sigue: ……..
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 30 de junio de 2020.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. M. Citlalli Hernández Mora, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas.” En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 1 de julio de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforma y adiciona el artículo 167 del Código Nacional de Procedimientos Penales; se reforman, adicionan y derogan diversas disposiciones de la Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.
-Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021 Artículo Sexto.- Se reforma el artículo 160, primer párrafo; se adiciona un párrafo tercero al artículo sigue: ……… Transitorios Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
-Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021
+
+### Artículo Sexto
+Se reforma el artículo 160, primer párrafo; se adiciona un párrafo tercero al artículo sigue: ………
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+**Tercero.** Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
-Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
-Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+**Cuarto.** Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+**Quinto.** La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 Ciudad de México, a 18 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 19 de febrero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-DECRETO por el que se adicionan diversas disposiciones a la Ley General de Acceso de Publicado en el Diario Oficial de la Federación el 1 de junio de 2021 Artículo Segundo.- Se adiciona un Capítulo II denominado "Violación a la Intimidad Sexual" al Título Séptimo Bis denominado "Delitos contra la Indemnidad de la Privacidad de la Información Sexual", como sigue: ……..
-Transitorios Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo. Los Congresos de las entidades federativas en el ámbito de sus competencias, contarán con un plazo de 180 días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas que correspondan.
+DECRETO por el que se adicionan diversas disposiciones a la Ley General de Acceso de Publicado en el Diario Oficial de la Federación el 1 de junio de 2021
+
+### Artículo Segundo
+Se adiciona un Capítulo II denominado "Violación a la Intimidad Sexual" al Título
+**Séptimo.** Bis denominado "Delitos contra la Indemnidad de la Privacidad de la Información Sexual", como sigue: ……..
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Los Congresos de las entidades federativas en el ámbito de sus competencias, contarán con un plazo de 180 días a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones legislativas que correspondan.
 Ciudad de México, a 29 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
 Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Lilia Villafuerte Zavala, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Impuesto Especial sobre Producción y Servicios, de la Ley Federal del Impuesto sobre Automóviles Nuevos, del Código Fiscal de la Federación y otros ordenamientos.
 Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2021 Artículo Decimosegundo. Se deroga el artículo transitorio Tercero del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación, de la Ley en Materia de Hidrocarburos, publicado en el Diario Oficial de la Federación el 1 de junio de 2018.
-Transitorio Único. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
 Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
 Publicado en el Diario Oficial de la Federación el 6 de enero de 2023 como sigue: …….
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 24 de noviembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
-DECRETO por el que se reforma el artículo 205-Bis y se adiciona un Capítulo IX al Título Publicado en el Diario Oficial de la Federación el 25 de abril de 2023 Artículo Único.- Se reforma el primer párrafo del artículo 205-Bis y se adiciona un Capítulo IX con un ……..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el artículo 205-Bis y se adiciona un Capítulo IX al Título Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
+
+### Artículo Único
+Se reforma el primer párrafo del artículo 205-Bis y se adiciona un Capítulo IX con un ……..
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 15 de marzo de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del del Sistema Nacional de Seguridad Pública, de la Ley General de Víctimas y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en materia de Investigación, Sanción y Reparación Integral del Delito de Feminicidio.
-Publicado en el Diario Oficial de la Federación el 25 de abril de 2023 Artículo Primero.- Se reforman el actual primer párrafo, pasando a ser primero y segundo párrafos, las fracciones III, IV, V y VII, y el actual tercer párrafo, del artículo 325; se adiciona una fracción VIII y un tercer párrafo, recorriéndose en su orden los subsecuentes, al artículo 325; y un tercer párrafo, recorriéndose en su orden el subsecuente, al artículo 400; y se deroga el actual párrafo cuarto, del ……..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+Publicado en el Diario Oficial de la Federación el 25 de abril de 2023
+
+### Artículo Primero
+Se reforman el actual primer párrafo, pasando a ser primero y segundo párrafos, las fracciones III, IV, V y VII, y el actual tercer párrafo, del artículo 325; se adiciona una fracción VIII y un tercer párrafo, recorriéndose en su orden los subsecuentes, al artículo 325; y un tercer párrafo, recorriéndose en su orden el subsecuente, al artículo 400; y se deroga el actual párrafo cuarto, del ……..
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
 Ciudad de México, a 15 de marzo de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 20 de abril de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 DECRETO por el que se reforman y adicionan los artículos 418, 419 y 423 del Código Penal Federal, en materia de tala ilegal.
-Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023 Artículo Primero. Se reforman el primer párrafo, y sus fracciones I y III, y el segundo párrafo del
+Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
+
+### Artículo Primero
+Se reforman el primer párrafo, y sus fracciones I y III, y el segundo párrafo del
 
 ### artículo 418
 ; el primero y segundo párrafos del artículo 419, y el artículo 423; y se adicionan un tercer para quedar como sigue: ……..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
-Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal, en materia de imprescriptibilidad del ejercicio de la acción penal y de sanciones de los delitos sexuales cometidos contra personas menores de dieciocho años.
-Publicado en el Diario Oficial de la Federación el 18 de octubre de 2023 Artículo Único.- Se reforman el primer y tercer párrafos del artículo 107 Bis; el primer y tercer párrafos del artículo 205 Bis; el primer párrafo del artículo 261 y las fracciones I y III del artículo 266, y se ……..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+Publicado en el Diario Oficial de la Federación el 18 de octubre de 2023
+
+### Artículo Único
+Se reforman el primer y tercer párrafos del artículo 107 Bis; el primer y tercer párrafos del artículo 205 Bis; el primer párrafo del artículo 261 y las fracciones I y III del artículo 266, y se ……..
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
 Ciudad de México, a 12 septiembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip.
 Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de octubre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General Publicado en el Diario Oficial de la Federación el 17 de enero de 2024 Artículo Tercero.- Se reforma el primer párrafo del artículo 343 Bis y el artículo 343 quáter, y se ……….
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General Publicado en el Diario Oficial de la Federación el 17 de enero de 2024
+
+### Artículo Tercero
+Se reforma el primer párrafo del artículo 343 Bis y el artículo 343 quáter, y se ……….
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con el presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 29 de noviembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip.
 Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz Espinosa Morales, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman la fracción XI del artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes; y la fracción III del artículo 266 Bis del Código Penal Federal.
-Publicado en el Diario Oficial de la Federación el 27 de marzo de 2024 quedar como sigue: ………… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 27 de marzo de 2024 quedar como sigue: …………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 8 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Karina Isabel Garivo Sánchez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
-Publicado en el Diario Oficial de la Federación el 1 de abril de 2024 Artículo Trigésimo Cuarto.- Se reforman los artículos 52, fracción V y 195 bis, fracción II, del Código Penal Federal, para quedar como sigue: ……..
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
+
+### Artículo Trigésimo
+Cuarto.- Se reforman los artículos 52, fracción V y 195 bis, fracción II, del Código Penal Federal, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se adiciona un tercer párrafo al artículo 261 del Código Penal Federal.
-Publicado en el Diario Oficial de la Federación el 17 de abril de 2024 como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Publicado en el Diario Oficial de la Federación el 17 de abril de 2024 como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 28 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Karina Isabel Garivo Sánchez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se adiciona un tercer párrafo al artículo 343 Bis del Código Penal Federal, en materia de violencia familiar.
 Publicado en el Diario Oficial de la Federación el 17 de abril de 2024 quedar como sigue: …….
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 28 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal y de la Ley Federal de Armas de Fuego y Explosivos.
-Publicado en el Diario Oficial de la Federación el 7 de junio de 2024 Artículo Primero.- Se reforman los artículos 139, párrafo primero; 170, actuales párrafos tercero y cuarto; 315, párrafo tercero; 399, párrafo primero y 399 Bis, párrafos primero y segundo y se adicionan un párrafo tercero al artículo 139; un CAPÍTULO III BIS, denominado "Uso indebido de aeronaves pilotadas a distancia" al TÍTULO CUARTO "Delitos contra la seguridad pública", con los artículos 163 Bis, 163 Ter y 163 Quáter; un párrafo segundo al artículo 168; los párrafos segundo y tercero al artículo 170 y se recorren los actuales segundo, tercero, cuarto y quinto, para quedar como cuarto, quinto, sexto y séptimo ……… Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
+Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
+
+### Artículo Primero
+Se reforman los artículos 139, párrafo primero; 170, actuales párrafos tercero y
+**cuarto.** ; 315, párrafo tercero; 399, párrafo primero y 399 Bis, párrafos primero y segundo y se adicionan un párrafo tercero al artículo 139; un CAPÍTULO III BIS, denominado "Uso indebido de aeronaves pilotadas a distancia" al TÍTULO CUARTO "Delitos contra la seguridad pública", con los artículos 163 Bis, 163 Ter y 163 Quáter; un párrafo segundo al artículo 168; los párrafos segundo y tercero al artículo 170 y se recorren los actuales segundo, tercero, cuarto y quinto, para quedar como cuarto, quinto, sexto y séptimo ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Vania Roxana Ávila García, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 
 ### artículo 465
 Ter a la Ley General de Salud.
-Publicado en el Diario Oficial de la Federación el 7 de junio de 2024 Artículo Primero.- Se adiciona un Capítulo X, denominado "Delitos contra la Orientación Sexual o la Identidad de Género de las Personas" al Título Octavo, que se integra con un artículo 209 Quintus, al ……… Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
+
+### Artículo Primero
+Se adiciona un Capítulo X, denominado "Delitos contra la Orientación Sexual o la Identidad de Género de las Personas" al Título Octavo, que se integra con un artículo 209 Quintus, al ………
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
 Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, y Publicado en el Diario Oficial de la Federación el 16 de julio de 2025 quedar como sigue: ……..
-Transitorios Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las excepciones previstas en los siguientes artículos.
-Segundo. La Secretaría, previa opinión del Servicio de Administración Tributaria, modificará las reglas de carácter general de la Ley que se reforma dentro de los doce meses siguientes a la entrada en vigor de este Decreto.
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las excepciones previstas en los siguientes artículos.
+**Segundo.** La Secretaría, previa opinión del Servicio de Administración Tributaria, modificará las reglas de carácter general de la Ley que se reforma dentro de los doce meses siguientes a la entrada en vigor de este Decreto.
 El periodo anual a que se refieren las fracciones IX y XI del artículo 18 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita para desarrollar programas de capacitación y contar con una auditoría respectivamente, se entenderá por año calendario por lo que el primer periodo iniciará el 1 de enero del año siguiente a aquel en que se publique el presente Decreto y concluirá el 31 de diciembre del mismo año.
 Tratándose del primer año de operaciones de quienes realicen Actividades Vulnerables, el periodo comprenderá desde la fecha en que inicien operaciones como Actividad Vulnerable y hasta el 31 de diciembre del siguiente año.
-Tercero. Las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma entrarán en vigor en los plazos que para tal efecto establezcan las reglas de carácter general a que se refiere la citada Ley.
-Cuarto. Durante los primeros seis meses contados a partir de la entrada en vigor de las reglas de carácter general de la Ley que se reforma, la Unidad de Inteligencia Financiera en coordinación con el Servicio de Administración Tributaria implementarán:
+**Tercero.** Las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma entrarán en vigor en los plazos que para tal efecto establezcan las reglas de carácter general a que se refiere la citada Ley.
+**Cuarto.** Durante los primeros seis meses contados a partir de la entrada en vigor de las reglas de carácter general de la Ley que se reforma, la Unidad de Inteligencia Financiera en coordinación con el Servicio de Administración Tributaria implementarán:
 I. Un programa de capacitación y orientación dirigido a las asociaciones y sociedades sin fines de lucro, para el correcto cumplimiento de las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma.
 II. Las medidas simplificadas de cumplimiento de las obligaciones de las asociaciones y sociedades sin fines de lucro, de acuerdo con el nivel de riesgo que representen, de conformidad con las disposiciones reglamentarias, a efecto de armonizar la debida aplicación de la ley con la protección del espacio cívico y el derecho a la libertad de asociación.
-Quinto. Los Congresos de las Entidades Federativas, dentro de un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, realizarán las reformas conducentes para la aplicación de las previsiones contenidas en el artículo 58 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
-Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+**Quinto.** Los Congresos de las Entidades Federativas, dentro de un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, realizarán las reformas conducentes para la aplicación de las previsiones contenidas en el artículo 58 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
+**Sexto.** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 30 de junio de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 DECRETO por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.
-Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025 Artículo Segundo.- Se adiciona una fracción XXII, y se recorre la subsecuente, al apartado B del …….
-Transitorios Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-Cuarto. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025
+
+### Artículo Segundo
+Se adiciona una fracción XXII, y se recorre la subsecuente, al apartado B del …….
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación. penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Tercero.** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+**Cuarto.** En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
 Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
-Quinto. Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+**Quinto.** Las disposiciones relativas a los delitos de extorsión previstas tanto en el Código Penal Federal como en la legislación penal local vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
 Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
-Sexto. En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
-Séptimo. Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-Octavo. El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del
+**Sexto.** En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas procederán a hacer las reformas legales para armonizarlas con el presente Decreto.
+**Séptimo.** Los centros penitenciarios tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+**Octavo.** El Centro de Atención a Denuncias a que refiere el artículo 41 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del
 
 ### artículo 73
 de la Constitución Política de los Estados Unidos Mexicanos, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.

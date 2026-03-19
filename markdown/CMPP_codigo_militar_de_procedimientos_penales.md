@@ -5,13 +5,18 @@
 
 ---
 
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Nuevo Código publicado en el Diario Oficial de la Federación el 16 de mayo de 2016 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nuevo Código publicado en el Diario Oficial de la Federación el 16 de mayo de 2016 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR Y SE EXPIDE EL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES.
-ARTÍCULOS PRIMERO Y SEGUNDO. ……… ARTÍCULO TERCERO. Se expide el Código Militar de Procedimientos Penales.
-Artículo Único. Se expide el Código Militar de Procedimientos Penales.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES LIBRO PRIMERO DISPOSICIONES GENERALES
+SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR Y SE EXPIDE EL  .
+ARTÍCULOS PRIMERO Y SEGUNDO. ………
+
+### ARTÍCULO TERCERO
+Se expide el Código Militar de Procedimientos Penales.
+
+### Artículo Único
+Se expide el Código Militar de Procedimientos Penales.
+LIBRO PRIMERO DISPOSICIONES GENERALES
 
 ## TÍTULO I
 DISPOSICIONES PRELIMINARES CAPÍTULO ÚNICO ÁMBITO DE APLICACIÓN Y OBJETO
@@ -19,7 +24,7 @@ DISPOSICIONES PRELIMINARES CAPÍTULO ÚNICO ÁMBITO DE APLICACIÓN Y OBJETO
 ### Artículo 1
 . Ámbito de aplicación Mexicana, por los delitos contra la disciplina militar en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.
 Nadie puede ser juzgado por leyes privativas ni por tribunales especiales. Ninguna persona o corporación puede tener fuero, ni gozar más emolumentos que los que sean compensación de servicios públicos y estén fijados por la ley. Subsiste el fuero de guerra para los delitos y faltas contra la disciplina militar; pero los tribunales militares en ningún caso y por ningún motivo podrán extender su jurisdicción sobre personas que no pertenezcan a la Fuerza Armada Permanente. Cuando en un delito o falta del orden militar estuviese implicado un paisano, conocerá del caso la autoridad civil que corresponda.
-Párrafo reformado DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
+Párrafo reformado DOF 16-07-2025
 
 ### Artículo 2
 . Objeto del Código Este Código tiene por objeto establecer las normas que han de observarse en la investigación, el procesamiento y la sanción de los delitos, para esclarecer los hechos, proteger al inocente, procurar que el culpable no quede impune, que se repare el daño y, mediante la ejemplaridad de la pena, prevenir que se vuelva a cometer, contribuyendo a la protección de la disciplina militar, asegurar el acceso a la justicia en la aplicación del derecho y resolver el conflicto que surja con motivo de la comisión del delito, en un marco de respeto a los derechos humanos.
@@ -43,7 +48,7 @@ XIII. Policía: Policía Ministerial Militar, Policía Militar, Policía Naval y
 ### Artículo 3
 Bis. Reglas de Supletoriedad Serán ordenamientos supletorios de este Código, los siguientes:
 I. El Código Nacional de Procedimientos Penales.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES II Bis. Ley de la Guardia Nacional.
+II Bis. Ley de la Guardia Nacional.
 Fracción adicionada DOF 16-07-2025 III. Las demás leyes aplicables.
 
 ## TÍTULO II
@@ -70,7 +75,6 @@ Párrafo reformado DOF 16-07-2025 Los periodistas y los medios de comunicación 
 ### Artículo 8
 . Principio de concentración Las audiencias se desarrollarán preferentemente en un mismo día o en días consecutivos hasta su conclusión, en los términos previstos en este Código, salvo los casos excepcionales establecidos en el mismo.
 Asimismo, las partes podrán solicitar la acumulación de procesos distintos en aquellos supuestos previstos en este Código.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ### Artículo 9
 . Principio de inmediación Toda audiencia se desarrollará íntegramente en presencia del Órgano jurisdiccional militar, así como de las partes que deban intervenir, con las excepciones previstas en este Código. En ningún caso, el Órgano jurisdiccional militar podrá delegar en persona alguna la admisión, el desahogo o la valoración de las pruebas, ni la emisión y explicación de la sentencia respectiva.
@@ -98,7 +102,7 @@ DERECHOS EN EL PROCEDIMIENTO
 . Derecho a la intimidad y a la privacidad En el procedimiento penal militar se respetará el derecho a la intimidad de quien intervenga en él, asimismo se protegerá la información que se refiere a la vida privada y los datos personales, en los términos y con las excepciones que fijan la Constitución, este Código y la legislación aplicable.
 
 ### Artículo 16
-. Justicia pronta CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES El personal militar tendrá derecho a ser juzgado dentro de los plazos legalmente establecidos. Las personas servidoras públicas de las instituciones de procuración e impartición de justicia militar deberán atender las solicitudes de las partes con prontitud, sin causar dilaciones injustificadas.
+. Justicia pronta El personal militar tendrá derecho a ser juzgado dentro de los plazos legalmente establecidos. Las personas servidoras públicas de las instituciones de procuración e impartición de justicia militar deberán atender las solicitudes de las partes con prontitud, sin causar dilaciones injustificadas.
 Artículo reformado DOF 16-07-2025
 
 ### Artículo 17
@@ -124,7 +128,7 @@ GENERALIDADES
 
 ### Artículo 20
 . Reglas de competencia Para determinar la competencia territorial de los Juzgados Militares de Control y Tribunales Militares de Juicio Oral, se observarán las siguientes reglas:
-Párrafo reformado DOF 16-07-2025 I. Los Juzgados Militares de Control y los Tribunales Militares de Juicio Oral, tendrán competencia sobre los hechos punibles cometidos dentro de las Regiones, Zonas Militares y Navales donde CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES ejerzan sus funciones, salvo las excepciones previstas en este Código. Si existen varios juzgados militares de Control en una misma Región, dividirán sus tareas de modo equitativo, conforme a las disposiciones que emita el Tribunal Superior Militar;
+Párrafo reformado DOF 16-07-2025 I. Los Juzgados Militares de Control y los Tribunales Militares de Juicio Oral, tendrán competencia sobre los hechos punibles cometidos dentro de las Regiones, Zonas Militares y Navales donde ejerzan sus funciones, salvo las excepciones previstas en este Código. Si existen varios juzgados militares de Control en una misma Región, dividirán sus tareas de modo equitativo, conforme a las disposiciones que emita el Tribunal Superior Militar;
 Párrafo reformado DOF 16-07-2025 Cuando no conste el lugar donde se cometió el hecho, serán competentes en el orden siguiente: a) El Juzgado Militar de Control o Tribunales Militares de Juicio Oral de la jurisdicción en que se descubran pruebas materiales del hecho;
 Inciso reformado DOF 16-07-2025 b) El que prevenga en su conocimiento.
 En ambos casos, tan luego como conste el lugar de la comisión del delito, se remitirán las actuaciones al Juez de Control o Tribunales Militares de Juicio Oral respectivo, así como los imputados o acusados y los objetos asegurados.
@@ -136,7 +140,7 @@ Párrafo reformado DOF 16-07-2025 El Pleno del Tribunal Superior Militar, resolv
 Si las Fuerzas Armadas estuvieren en territorio extranjero, se observarán en cuanto a competencia de los tribunales militares, las disposiciones previstas en los instrumentos internacionales que hayan sustentado la presencia de tropas nacionales en otro Estado.
 
 ### Artículo 21
-. Designación de distinta jurisdicción CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Será competente para conocer de un asunto el Juzgado Militar de Control o Tribunal Militar de Juicio Oral distinto al que resultare competente conforme a este Código, el que designe el Tribunal Superior Militar, atendiendo a las peculiaridades del hecho investigado, por razones de seguridad en las prisiones militares o por otras que impidan garantizar el desarrollo adecuado del proceso.
+. Designación de distinta jurisdicción Será competente para conocer de un asunto el Juzgado Militar de Control o Tribunal Militar de Juicio Oral distinto al que resultare competente conforme a este Código, el que designe el Tribunal Superior Militar, atendiendo a las peculiaridades del hecho investigado, por razones de seguridad en las prisiones militares o por otras que impidan garantizar el desarrollo adecuado del proceso.
 Lo anterior es igualmente aplicable para los casos en que por las mismas razones la autoridad jurisdiccional militar, estime necesario trasladar a una persona militar imputada a algún centro federal de reclusión o de máxima seguridad, en el que será competente el Juzgado de Control o Tribunal Militar de Juicio Oral con competencia en el lugar en que se ubique dicho centro.
 Artículo reformado DOF 16-07-2025
 
@@ -161,7 +165,7 @@ Párrafo reformado DOF 16-07-2025
 
 ### Artículo 25
 . Procedencia de incompetencia por declinatoria En cualquier etapa del procedimiento, salvo las excepciones previstas en este Código, el Órgano jurisdiccional militar que reconozca su incompetencia remitirá los registros correspondientes al que considere competente y, en su caso, pondrá también a su disposición a la persona militar imputada.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Párrafo reformado DOF 16-07-2025 La declinatoria se podrá promover por escrito, o de forma oral, en cualquiera de las audiencias ante el Órgano jurisdiccional militar que conozca del asunto hasta antes del auto de apertura a juicio, pidiéndole que se abstenga del conocimiento del mismo y que remita el caso y sus registros al que estime competente.
+Párrafo reformado DOF 16-07-2025 La declinatoria se podrá promover por escrito, o de forma oral, en cualquiera de las audiencias ante el Órgano jurisdiccional militar que conozca del asunto hasta antes del auto de apertura a juicio, pidiéndole que se abstenga del conocimiento del mismo y que remita el caso y sus registros al que estime competente.
 Si la incompetencia es del Órgano jurisdiccional militar deberá promoverse dentro del plazo de tres días siguientes a que surta sus efectos la notificación de la resolución que fije la fecha para la realización de la audiencia de juicio. En este supuesto, se promoverá ante el Juzgado Militar de Control que fijó la competencia del Tribunal Militar de Juicio Oral, sin perjuicio de ser declarada de oficio.
 Párrafo reformado DOF 16-07-2025 No se podrá promover la declinatoria en los casos previstos de competencia en razón de seguridad.
 
@@ -177,7 +181,7 @@ Párrafo reformado DOF 16-07-2025 La persona juzgadora militar de control incomp
 Párrafo reformado DOF 16-07-2025 Si la autoridad judicial a quien se remitan las actuaciones no admite la competencia, devolverá los registros al declinante; si éste insiste en rechazarla, elevará las diligencias practicadas ante el Órgano jurisdiccional competente, de conformidad con lo que establezca la Ley Orgánica respectiva, con el propósito de que se pronuncie sobre quién deba conocer. Ningún Órgano jurisdiccional puede promover competencia a favor de su superior en grado.
 
 ## CAPÍTULO III
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES ACUMULACIÓN Y SEPARACIÓN DE PROCESOS
+ACUMULACIÓN Y SEPARACIÓN DE PROCESOS
 
 ### Artículo 28
 . Causas de acumulación y conexidad Para los efectos de este Código, habrá acumulación de procesos cuando:
@@ -204,7 +208,7 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 33
 . Separación de los procesos Podrá ordenarse la separación de procesos cuando concurran las siguientes circunstancias:
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES I. Cuando la solicite una de las partes antes del auto de apertura al juicio.
+I. Cuando la solicite una de las partes antes del auto de apertura al juicio.
 II. Cuando el Juzgado de Control estime que de continuar la acumulación el proceso se demoraría.
 Fracción reformada DOF 16-07-2025 La separación de procesos se promoverá en la misma forma que la acumulación. La separación se podrá promover hasta antes de la audiencia de juicio.
 Decretada la separación de procesos, conocerá de cada asunto el Juzgado de Control que conocía antes de haberse efectuado la acumulación. Si dicho juzgador es diverso del que decretó la separación de procesos, no podrá rehusarse a conocer del caso, sin perjuicio de que pueda suscitarse una cuestión de competencia.
@@ -224,7 +228,7 @@ II. Ser cónyuge, concubina o concubinario, conviviente, tener parentesco en lí
 III. Ser o haber sido tutor, curador, haber estado bajo tutela o curatela de alguna de las partes, ser o haber sido administrador de sus bienes por cualquier título.
 IV. Cuando él, su cónyuge, concubina, concubinario, conviviente, o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, tenga un juicio pendiente iniciado con anterioridad con alguna de las partes.
 V. Cuando él, su cónyuge, concubina, concubinario, conviviente, o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, sea acreedor, deudor, arrendador, arrendatario o fiador de alguna de las partes, o tengan alguna sociedad con estos.
-VI. Cuando antes de comenzar el procedimiento o durante éste, haya presentado él, su cónyuge, concubina, concubinario, conviviente o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, querella, denuncia, demanda o haya entablado cualquier acción legal CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES en contra de alguna de las partes, o cuando antes de comenzar el procedimiento hubiera sido denunciado o acusado por alguna de ellas.
+VI. Cuando antes de comenzar el procedimiento o durante éste, haya presentado él, su cónyuge, concubina, concubinario, conviviente o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, querella, denuncia, demanda o haya entablado cualquier acción legal en contra de alguna de las partes, o cuando antes de comenzar el procedimiento hubiera sido denunciado o acusado por alguna de ellas.
 VII. Haber dado consejos o manifestado extrajudicialmente su opinión sobre el procedimiento o haber hecho promesas que impliquen parcialidad a favor o en contra de alguna de las partes.
 VIII. Cuando él, su cónyuge, concubina, concubinario, conviviente o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, hubiera recibido o reciba beneficios de alguna de las partes o si, después de iniciado el procedimiento, hubiera recibido presentes o dádivas independientemente de cuál haya sido su valor.
 IX. Para el caso de los jueces del Tribunal Militar de Juicio Oral, haber fungido como Juez de control en el mismo procedimiento.
@@ -247,7 +251,6 @@ Concluido el debate, el Tribunal Superior Militar resolverá de inmediato sobre 
 ### Artículo 40
 . Efectos de la recusación y excusa El Juez o Magistrado Militar recusado se abstendrá de seguir conociendo de la audiencia correspondiente, ordenará la suspensión de esta y sólo podrá realizar aquellos actos de mero trámite o urgentes que no admitan dilación.
 La sustitución del Juez o Magistrado Militar se determinará en los términos que señale la Ley Orgánica de los Tribunales Militares.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ### Artículo 41
 . Impedimentos del Ministerio Público y de peritos El Ministerio Público y los peritos militares deberán excusarse o podrán ser recusados por las mismas causas previstas para los jueces o magistrados.
@@ -264,7 +267,7 @@ FORMALIDADES
 El Órgano jurisdiccional propiciará que las partes se abstengan de leer documentos completos o apuntes de sus actuaciones que demuestren falta de argumentación y desconocimiento del asunto. Sólo se podrán leer registros de la investigación para apoyo de memoria, así como para demostrar o superar contradicciones; la parte interesada en dar lectura a algún documento o registro, solicitará al juzgador que presida la audiencia, autorización para proceder a ello indicando específicamente el motivo de su solicitud conforme lo establece este artículo, sin que ello sea motivo de que se reemplace la argumentación oral.
 
 ### Artículo 43
-. Idioma [Los actos procesales deberán realizarse en idioma español.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 [Cuando las personas no hablen o no entiendan el idioma español, deberá proveerse traductor o intérprete, y se les permitirá hacer uso de su propia lengua o idioma, al igual que las personas que tengan algún impedimento para darse a entender. El imputado podrá nombrar traductor o intérprete de su confianza, por su cuenta.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 [Si se trata de una persona con algún tipo de capacidad limitada, tiene derecho a que se le facilite un intérprete o aquellos medios tecnológicos que le permitan obtener de forma comprensible la información solicitada o, a falta de éstos, a alguien que sepa comunicarse con ella. En los actos de comunicación, los Órganos jurisdiccionales militares deberán tener certeza de que la persona con capacidad limitada ha sido informada de las decisiones judiciales que deba conocer y de que comprende su alcance. Para ello deberá utilizarse el medio que, según el caso, garantice que tal comprensión exista.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 [Cuando a solicitud fundada de la persona con discapacidad, o a juicio de la autoridad competente, sea necesario adoptar otras medidas para salvaguardar su derecho a ser debidamente asistida, la persona con discapacidad podrá recibir asistencia en materia de estenografía proyectada, en los términos de la ley de la materia, por un intérprete de lengua de señas o a través de cualquier otro medio que permita un entendimiento cabal de todas y cada una de las actuaciones.] CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 Los medios de prueba cuyo contenido se encuentra en un idioma distinto al español deberán ser traducidos y, a fin de dar certeza jurídica sobre las manifestaciones del declarante, se dejará registro de su declaración en el idioma de origen. [En el caso de los miembros de pueblos o comunidades indígenas, se les nombrará intérprete que tenga conocimiento de su lengua y cultura, aun cuando hablen el español, si así lo solicitan.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 El Órgano jurisdiccional militar garantizará el acceso a traductores e intérpretes que coadyuvarán en el proceso según se requiera.
+. Idioma [Los actos procesales deberán realizarse en idioma español.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 [Cuando las personas no hablen o no entiendan el idioma español, deberá proveerse traductor o intérprete, y se les permitirá hacer uso de su propia lengua o idioma, al igual que las personas que tengan algún impedimento para darse a entender. El imputado podrá nombrar traductor o intérprete de su confianza, por su cuenta.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 [Si se trata de una persona con algún tipo de capacidad limitada, tiene derecho a que se le facilite un intérprete o aquellos medios tecnológicos que le permitan obtener de forma comprensible la información solicitada o, a falta de éstos, a alguien que sepa comunicarse con ella. En los actos de comunicación, los Órganos jurisdiccionales militares deberán tener certeza de que la persona con capacidad limitada ha sido informada de las decisiones judiciales que deba conocer y de que comprende su alcance. Para ello deberá utilizarse el medio que, según el caso, garantice que tal comprensión exista.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 [Cuando a solicitud fundada de la persona con discapacidad, o a juicio de la autoridad competente, sea necesario adoptar otras medidas para salvaguardar su derecho a ser debidamente asistida, la persona con discapacidad podrá recibir asistencia en materia de estenografía proyectada, en los términos de la ley de la materia, por un intérprete de lengua de señas o a través de cualquier otro medio que permita un entendimiento cabal de todas y cada una de las actuaciones.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 Los medios de prueba cuyo contenido se encuentra en un idioma distinto al español deberán ser traducidos y, a fin de dar certeza jurídica sobre las manifestaciones del declarante, se dejará registro de su declaración en el idioma de origen. [En el caso de los miembros de pueblos o comunidades indígenas, se les nombrará intérprete que tenga conocimiento de su lengua y cultura, aun cuando hablen el español, si así lo solicitan.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 El Órgano jurisdiccional militar garantizará el acceso a traductores e intérpretes que coadyuvarán en el proceso según se requiera.
 
 ### Artículo 44
 . Declaraciones e interrogatorios con intérpretes y traductores Las personas serán interrogadas en idioma español, mediante la asistencia de un traductor o intérprete. En ningún caso las partes o los testigos podrán ser intérpretes.
@@ -282,7 +285,7 @@ A las personas menores de doce años de edad y las personas imputadas que deseen
 Párrafo reformado DOF 16-07-2025 Lo anterior, sin detrimento de observar las disposiciones en materia de seguridad jurídica y el debido proceso, previstas en la Ley General de los Derechos de las Niñas, Niños y Adolescentes.
 
 ### Artículo 48
-. Acceso a las carpetas digitales CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Las partes siempre tendrán acceso al contenido de las carpetas digitales consistente en los registros de las audiencias y complementarios. Dichos registros también podrán ser consultados por terceros cuando dieren cuenta de actuaciones que fueren públicas, salvo que durante el proceso el Órgano jurisdiccional militar restrinja el acceso para evitar que se afecte su normal sustanciación, el principio de presunción de inocencia o los derechos a la privacidad o a la intimidad de las partes, o bien, se encuentre expresamente prohibido en la ley de la materia.
+. Acceso a las carpetas digitales Las partes siempre tendrán acceso al contenido de las carpetas digitales consistente en los registros de las audiencias y complementarios. Dichos registros también podrán ser consultados por terceros cuando dieren cuenta de actuaciones que fueren públicas, salvo que durante el proceso el Órgano jurisdiccional militar restrinja el acceso para evitar que se afecte su normal sustanciación, el principio de presunción de inocencia o los derechos a la privacidad o a la intimidad de las partes, o bien, se encuentre expresamente prohibido en la ley de la materia.
 El Órgano jurisdiccional militar autorizará la expedición de copias de los contenidos de las carpetas digitales o de la parte de ellos que le fueren solicitados por las partes.
 
 ### Artículo 49
@@ -305,7 +308,7 @@ Párrafo reformado DOF 16-07-2025 Si alguna persona del público se comunica o i
 ### Artículo 52
 . Independencia judicial Los órganos de impartición de la justicia militar son independientes en el ejercicio de sus funciones técnicas, respecto de otras autoridades militares, para lo cual ejercen su función con plenitud de jurisdicción.
 En caso de interferencia se deberá informar al Tribunal Superior Militar, quien adoptará las medidas necesarias para que cese la intervención, sin perjuicio de las sanciones administrativas, civiles, penales y aquellas previstas en otros ordenamientos, en que pueda incurrir la autoridad militar que interfiera.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Artículo reformado DOF 16-07-2025
+Artículo reformado DOF 16-07-2025
 
 ### Artículo 53
 . Identificación de declarantes Previo a cualquier audiencia, se llevará a cabo la identificación de toda persona que vaya a declarar, para lo cual deberá proporcionar su nombre, apellidos, edad, domicilio, en su caso grado, especialidad, empleo y adscripción. Dicho registro lo llevará a cabo el personal auxiliar de la sala, dejando constancia de la manifestación expresa de la voluntad del declarante de hacer públicos, o no, sus datos personales.
@@ -328,7 +331,7 @@ Artículo reformado DOF 16-07-2025
 ### Artículo 56
 . Ausencia de las partes En el caso de que estuvieren asignados varios Defensores o varios Ministerios Públicos Militares, la presencia de cualquiera de ellos bastará para celebrar la audiencia respectiva.
 El defensor no podrá renunciar a su cargo conferido ni durante las audiencias ni una vez notificado de ellas.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Si el defensor no comparece a la audiencia, o se ausenta de la misma sin causa justificada, se considerará abandonada la defensa y se procederá a su reemplazo con la mayor prontitud por el Defensor de Oficio Militar que le sea designado, salvo que el imputado designe de inmediato otro defensor.
+Si el defensor no comparece a la audiencia, o se ausenta de la misma sin causa justificada, se considerará abandonada la defensa y se procederá a su reemplazo con la mayor prontitud por el Defensor de Oficio Militar que le sea designado, salvo que el imputado designe de inmediato otro defensor.
 Si el Ministerio Público Militar no comparece a la audiencia o se ausenta de esta, se procederá a su remplazo dentro de la misma audiencia. Para tal efecto se notificará por cualquier medio a su superior jerárquico para que lo designe de inmediato.
 El Ministerio Público sustituto o el nuevo defensor podrán solicitar al Órgano jurisdiccional militar que aplace el inicio de la audiencia o la suspenda por un plazo que no podrá exceder de diez días para la adecuada preparación de su intervención en el juicio. El Órgano jurisdiccional militar resolverá incluso sin petición expresa sobre el particular, considerando la complejidad del caso, las circunstancias de la ausencia de la defensa o del Ministerio Público y las posibilidades de aplazamiento.
 En el caso de que el defensor, asesor jurídico o el Ministerio Público Militar se ausenten de la audiencia sin causa justificada, se les impondrá una multa de diez a cincuenta días de salario mínimo vigente, sin perjuicio de las sanciones administrativas o penales que correspondan.
@@ -346,7 +349,7 @@ Párrafo reformado DOF 16-07-2025
 . De los medios de apremio Para asegurar el orden en las audiencias o restablecerlo cuando hubiere sido alterado, así como para garantizar la observancia de sus decisiones en audiencia, el Órgano jurisdiccional militar podrá aplicar indistintamente cualquiera de los medios de apremio establecidos en este Código.
 
 ### Artículo 59
-. Hechos delictivos surgidos en audiencia CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Si durante la audiencia se advierte que existen elementos que hagan presumir la existencia de un hecho delictivo distinto del que constituye la materia del procedimiento, el Órgano jurisdiccional militar lo hará del conocimiento del Ministerio Público competente y le remitirá el registro correspondiente.
+. Hechos delictivos surgidos en audiencia Si durante la audiencia se advierte que existen elementos que hagan presumir la existencia de un hecho delictivo distinto del que constituye la materia del procedimiento, el Órgano jurisdiccional militar lo hará del conocimiento del Ministerio Público competente y le remitirá el registro correspondiente.
 
 ### Artículo 60
 . Registro de las audiencias Todas las audiencias previstas en este Código serán registradas por cualquier medio tecnológico que tenga a su disposición el Órgano jurisdiccional militar.
@@ -369,7 +372,7 @@ III. Peligre un secreto oficial, particular, comercial o industrial, cuya revela
 IV. El Órgano jurisdiccional militar estime conveniente.
 V. Se afecte el Interés Superior del Niño y de la Niña en términos de lo establecido por los Tratados y las leyes en la materia.
 VI. Esté previsto en este Código o en otra ley.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES La resolución que decrete alguna de estas excepciones será fundada y motivada constando en el registro de la audiencia.
+La resolución que decrete alguna de estas excepciones será fundada y motivada constando en el registro de la audiencia.
 
 ### Artículo 64
 . Continuación de audiencia pública Una vez desaparecida la causa de excepción prevista en el artículo anterior, se permitirá ingresar nuevamente al público y, el juzgador que presida la audiencia, informará brevemente sobre el resultado esencial de los actos desarrollados a puerta cerrada.
@@ -394,7 +397,7 @@ IV. La de vinculación a proceso;
 V. La de medidas cautelares;
 VI. La de apertura a juicio;
 VII. Las que versen sobre sentencias definitivas de los procesos especiales y de juicio;
-VIII. Las de sobreseimiento, y CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES IX. Las que autorizan técnicas de investigación con control judicial previo.
+VIII. Las de sobreseimiento, y IX. Las que autorizan técnicas de investigación con control judicial previo.
 En ningún caso, la resolución escrita deberá exceder el alcance de la emitida oralmente, surtirá sus efectos inmediatamente y deberá dictarse de forma inmediata a su emisión en forma oral, sin exceder de veinticuatro horas, salvo disposición que establezca otro plazo.
 Las resoluciones de los Tribunales Militares de Juicio Oral y el Pleno del Tribunal Superior Militar se tomarán por mayoría de votos. En el caso de que un Juez o Magistrado no esté de acuerdo con la decisión adoptada por la mayoría, deberá emitir su voto particular y podrá hacerlo en la propia audiencia, expresando sucintamente su opinión y deberá formular dentro de los tres días siguientes la versión escrita de su voto para ser integrado al fallo mayoritario.
 
@@ -415,7 +418,6 @@ Cuando la sentencia conste en medios informáticos, electrónicos, magnéticos o
 
 ### Artículo 71
 . Restitución y renovación Si no existe copia de las sentencias o de otros actos procesales el Órgano jurisdiccional militar ordenará que se repongan, para lo cual recibirá de las partes los datos y medios de prueba que evidencien su preexistencia y su contenido. Cuando esto sea imposible, ordenará la renovación de los mismos, señalando el modo de realizarla.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ## CAPÍTULO IV
 COMUNICACIÓN ENTRE AUTORIDADES
@@ -437,7 +439,7 @@ Artículo reformado DOF 16-07-2025
 ### Artículo 76
 . Plazo para el cumplimiento de exhortos y requisitorias Los exhortos o requisitorias se proveerán dentro de las veinticuatro horas siguientes a su recepción y se despacharán dentro de los tres días siguientes, a no ser que las actuaciones que se hayan de practicar exijan necesariamente mayor tiempo, en cuyo caso, la Persona Juzgadora de Control fijará el que crea conveniente y lo notificará al requirente, indicando las razones existentes para la ampliación. Si la Persona Juzgadora de Control requerido estima que no es procedente la práctica del acto solicitado, lo hará saber al requirente dentro de las veinticuatro horas siguientes a la recepción de la solicitud, con indicación expresa de las razones que tenga para abstenerse de darle cumplimiento.
 Párrafo reformado DOF 16-07-2025 Si la Persona Juzgadora de Control exhortado o requerido estimare que no debe cumplimentarse el acto solicitado, porque el asunto no resulta ser de su competencia o si tuviere dudas sobre su procedencia, podrá comunicarse con el Órgano jurisdiccional militar exhortante o requirente, oirá al Ministerio Público y resolverá dentro de los tres días siguientes, promoviendo, en su caso, la competencia respectiva.
-Párrafo reformado DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Cuando se cumpla una orden de aprehensión, el exhortado o requerido pondrá al detenido, sin dilación alguna, a disposición del Órgano jurisdiccional que libró aquella. Si no fuere posible poner a la persona detenida inmediatamente a disposición del exhortante o requirente, el requerido dará vista al Ministerio Público para que formule la imputación ante el órgano jurisdiccional auxiliar, quien decidirá sobre las medidas cautelares que se le soliciten y resolverá su vinculación a proceso, debiendo remitir las actuaciones y, en su caso, a la persona detenida, al Órgano jurisdiccional que haya librado el exhorto dentro de las veinticuatro horas siguientes a la determinación de fondo que adopte.
+Párrafo reformado DOF 16-07-2025 Cuando se cumpla una orden de aprehensión, el exhortado o requerido pondrá al detenido, sin dilación alguna, a disposición del Órgano jurisdiccional que libró aquella. Si no fuere posible poner a la persona detenida inmediatamente a disposición del exhortante o requirente, el requerido dará vista al Ministerio Público para que formule la imputación ante el órgano jurisdiccional auxiliar, quien decidirá sobre las medidas cautelares que se le soliciten y resolverá su vinculación a proceso, debiendo remitir las actuaciones y, en su caso, a la persona detenida, al Órgano jurisdiccional que haya librado el exhorto dentro de las veinticuatro horas siguientes a la determinación de fondo que adopte.
 Párrafo reformado DOF 16-07-2025 Cuando una Persona Juzgadora de Control no pueda dar cumplimiento al exhorto o requisitoria, por hallarse en otra jurisdicción la persona o las cosas que sean objeto de la diligencia, lo remitirá a la Persona Juzgadora de control del lugar en que aquélla o éstas se encuentren, y lo hará saber al exhortante o requirente dentro de las veinticuatro horas siguientes. Si la Persona Juzgadora de control que recibe el exhorto o requisitoria del juzgador originalmente exhortado, resuelve desahogarlo, una vez hecho lo devolverá directamente al exhortante.
 Párrafo reformado DOF 16-07-2025 Las autoridades exhortadas o requeridas remitirán las diligencias o actos procesales practicados o requeridos por cualquier medio que garantice su autenticidad.
 
@@ -454,7 +456,7 @@ NOTIFICACIONES Y CITACIONES
 
 ### Artículo 79
 . Formas de notificación Las notificaciones se practicarán personalmente, por lista, estrado o por edictos:
-I. Personalmente podrán ser: a) En Audiencia; b) Por alguno de los medios tecnológicos señalados por el interesado o su representante legal; c) En las instalaciones del Órgano jurisdiccional militar, o CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES d) En el domicilio que éste establezca para tal efecto. Las realizadas en domicilio se harán de conformidad con las reglas siguientes: 1) El notificador deberá cerciorarse de que se trata del domicilio señalado. Acto seguido, se requerirá la presencia del interesado o su representante legal. Una vez que cualquiera de ellos se haya identificado, le entregará copia del auto o la resolución que deba notificarse y recabará su firma, asentando los datos del documento oficial con el que se identifique. Asimismo, se deberán asentar en el acta de notificación, los datos de identificación del servidor público que la practique. 2) De no encontrarse el interesado o su representante legal en la primera notificación, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio. 3) En todos los casos deberá levantarse acta circunstanciada de la diligencia que se practique.
+I. Personalmente podrán ser: a) En Audiencia; b) Por alguno de los medios tecnológicos señalados por el interesado o su representante legal; c) En las instalaciones del Órgano jurisdiccional militar, o d) En el domicilio que éste establezca para tal efecto. Las realizadas en domicilio se harán de conformidad con las reglas siguientes: 1) El notificador deberá cerciorarse de que se trata del domicilio señalado. Acto seguido, se requerirá la presencia del interesado o su representante legal. Una vez que cualquiera de ellos se haya identificado, le entregará copia del auto o la resolución que deba notificarse y recabará su firma, asentando los datos del documento oficial con el que se identifique. Asimismo, se deberán asentar en el acta de notificación, los datos de identificación del servidor público que la practique. 2) De no encontrarse el interesado o su representante legal en la primera notificación, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio. 3) En todos los casos deberá levantarse acta circunstanciada de la diligencia que se practique.
 II. Lista, estrado según corresponda.
 III. Por edictos, cuando se desconozca la identidad o domicilio del interesado, en cuyo caso se publicará por una sola ocasión en el medio de publicación oficial de la Federación y en un periódico de circulación nacional, los cuales deberán contener un resumen de la resolución que deba notificarse.
 Las notificaciones previstas en la fracción I de este artículo surtirán efectos al día siguiente en que hubieren sido practicadas y las efectuadas en las fracciones II y III surtirán efectos el día siguiente de su publicación.
@@ -466,7 +468,7 @@ En la notificación de las resoluciones judiciales se podrá aceptar el uso de l
 
 ### Artículo 81
 . Regla general sobre notificaciones Las resoluciones deberán notificarse personalmente a quien corresponda, dentro de las veinticuatro horas siguientes a que se hayan dictado. Se tendrán por notificadas las personas que se presenten a la audiencia donde se dicte la resolución o se desahoguen las respectivas diligencias.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Cuando la notificación deba hacerse a una persona con discapacidad o cualquier otra circunstancia que le impida comprender el alcance de la notificación, deberá realizarse en los términos establecidos en el presente Código.
+Cuando la notificación deba hacerse a una persona con discapacidad o cualquier otra circunstancia que le impida comprender el alcance de la notificación, deberá realizarse en los términos establecidos en el presente Código.
 
 ### Artículo 82
 . Lugar para las notificaciones Al comparecer en el procedimiento, las partes deberán señalar domicilio dentro del lugar en donde éste se sustancie y en su caso, manifestarse sobre la forma más conveniente para ser notificados conforme a los medios establecidos en este Código.
@@ -490,7 +492,7 @@ Asimismo, podrá notificarse mediante otros sistemas autorizados en la ley de la
 . Validez de la notificación Si a pesar de no haberse hecho la notificación en la forma prevista en este ordenamiento, la persona que deba ser notificada se muestra sabedora de la misma, ésta surtirá efectos legales.
 
 ### Artículo 87
-. Citación Toda persona está obligada a presentarse ante el Órgano jurisdiccional militar o ante el Ministerio Público, cuando sea citada. Quedan exceptuados de esa obligación la persona titular del Ejecutivo CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Federal, las personas servidoras públicas a las que se refieren los párrafos primero y quinto del artículo 111 de la Constitución, la persona Consejera Jurídica del Ejecutivo Federal, la persona presidente del Tribunal Superior Militar, las y los magistrados y jueces militares, las y los comandantes de mandos territoriales, aéreos y navales, quienes ostenten la jerarquía de general de división o almirante en el activo y las personas imposibilitadas físicamente ya sea por su edad, por enfermedad grave o alguna otra que dificulte su comparecencia.
+. Citación Toda persona está obligada a presentarse ante el Órgano jurisdiccional militar o ante el Ministerio Público, cuando sea citada. Quedan exceptuados de esa obligación la persona titular del Ejecutivo Federal, las personas servidoras públicas a las que se refieren los párrafos primero y quinto del artículo 111 de la Constitución, la persona Consejera Jurídica del Ejecutivo Federal, la persona presidente del Tribunal Superior Militar, las y los magistrados y jueces militares, las y los comandantes de mandos territoriales, aéreos y navales, quienes ostenten la jerarquía de general de división o almirante en el activo y las personas imposibilitadas físicamente ya sea por su edad, por enfermedad grave o alguna otra que dificulte su comparecencia.
 Cuando haya que examinar a las personas servidoras públicas señaladas en el párrafo anterior, el Órgano jurisdiccional militar dispondrá que dicho testimonio sea desahogado en el juicio por sistemas de reproducción a distancia de imágenes y sonidos o cualquier otro medio que permita su trasmisión, en sesión privada.
 La citación a las personas militares en el activo, excepto a los generales de división y/o almirantes, o quien desempeñe un empleo, comisión en el servicio público, distintos a los señalados en este artículo, se hará por conducto del superior jerárquico respectivo, a menos que para garantizar el éxito de la comparecencia se requiera que la citación se realice en forma distinta.
 En el caso de cualquier persona que se haya desempeñado como persona servidora pública y no sea posible su localización, el Órgano jurisdiccional militar solicitará a la institución donde haya prestado sus servicios la información del domicilio, número telefónico, y en su caso, los datos necesarios para su localización, a efecto de que comparezca a la audiencia respectiva.
@@ -506,7 +508,7 @@ I. La autoridad y el domicilio ante la que deberá presentarse;
 II. El día y hora en que debe comparecer;
 III. El objeto de la ésta;
 IV. El procedimiento del que se deriva;
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES V. La firma de la autoridad que la ordena, y VI. El apercibimiento de la imposición de un medio de apremio en caso de incumplimiento.
+V. La firma de la autoridad que la ordena, y VI. El apercibimiento de la imposición de un medio de apremio en caso de incumplimiento.
 
 ### Artículo 89
 . Citación de la Persona Militar Imputada Epígrafe reformado DOF 16-07-2025 Siempre que sea requerida la presencia de la persona militar imputada para realizar un acto procesal por el Órgano jurisdiccional militar, según corresponda, la citará junto con su persona defensora a comparecer.
@@ -527,7 +529,7 @@ Los plazos establecidos en horas correrán de momento a momento y los establecid
 
 ### Artículo 92
 . Renuncia o abreviación Las partes en cuyo favor se haya establecido un plazo podrán renunciar a él o consentir su abreviación mediante manifestación expresa. En caso de que el plazo sea común para las partes, para proceder en los mismos términos, todos los interesados deberán expresar su voluntad en el mismo sentido.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Cuando sea el Ministerio Público el que renuncie a un plazo o consienta en su abreviación, deberá oírse a la víctima u ofendido para que manifieste lo que a su interés convenga.
+Cuando sea el Ministerio Público el que renuncie a un plazo o consienta en su abreviación, deberá oírse a la víctima u ofendido para que manifieste lo que a su interés convenga.
 
 ### Artículo 93
 . Reposición del plazo La parte que no haya podido observar un plazo por causa no atribuible a él, podrá solicitar de manera fundada y motivada su reposición total o parcial, con el fin de realizar el acto omitido o ejercer la facultad concedida por la ley, dentro de las veinticuatro horas siguientes a aquel en que el perjudicado tenga conocimiento fehaciente del acto cuya reposición del plazo se pretenda. El Órgano jurisdiccional militar podrá ordenar la reposición una vez que haya escuchado a las partes.
@@ -554,7 +556,7 @@ Se entenderá que el acto se ha saneado cuando, no obstante la irregularidad, ha
 
 ### Artículo 97
 . Convalidación Los actos ejecutados con inobservancia de las formalidades previstas en este Código que afectan al Ministerio Público, la víctima o persona ofendida o la persona militar imputada quedarán convalidados cuando:
-Párrafo reformado DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES I. Las partes hayan aceptado, expresa o tácitamente, los efectos del acto;
+Párrafo reformado DOF 16-07-2025 I. Las partes hayan aceptado, expresa o tácitamente, los efectos del acto;
 II. Ninguna de las partes hayan solicitado su saneamiento en los términos previstos en este Código;
 III. Dentro de las veinticuatro horas siguientes de haberse realizado el acto, la parte que no hubiere estado presente o participado en él no solicita su saneamiento. En caso de que por las especiales circunstancias del caso no hubiera sido posible advertir en forma oportuna el defecto en la realización del acto procesal, el interesado deberá solicitar en forma justificada el saneamiento del acto, dentro de las veinticuatro horas siguientes a que haya tenido conocimiento del mismo.
 Lo anterior, siempre y cuando no se afecten derechos fundamentales de la persona militar imputada, de la víctima o persona ofendida.
@@ -580,8 +582,7 @@ MEDIOS DE APREMIO
 
 ### Artículo 101
 . Imposición de medios de apremio El Órgano jurisdiccional militar y el Ministerio Público podrán disponer de los siguientes medios de apremio para el cumplimiento de los actos que ordenen en el ejercicio de sus funciones:
-I. El Ministerio Público contará con los siguientes medios de apremio:
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES a) Amonestación. b) Multa de veinte a mil días de salario mínimo vigente en el momento y lugar en que se cometa la falta que amerite un medio de apremio. Tratándose de jornaleros, obreros y trabajadores que perciban salario mínimo, la multa no deberá exceder de un día de salario y tratándose de personas civiles que ejerzan la actividad de jornaleros, obreros y trabajadores que perciban salario mínimo, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, de un día de su ingreso. c) Auxilio de la fuerza pública. d) Arresto hasta por treinta y seis horas.
+I. El Ministerio Público contará con los siguientes medios de apremio: a) Amonestación. b) Multa de veinte a mil días de salario mínimo vigente en el momento y lugar en que se cometa la falta que amerite un medio de apremio. Tratándose de jornaleros, obreros y trabajadores que perciban salario mínimo, la multa no deberá exceder de un día de salario y tratándose de personas civiles que ejerzan la actividad de jornaleros, obreros y trabajadores que perciban salario mínimo, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, de un día de su ingreso. c) Auxilio de la fuerza pública. d) Arresto hasta por treinta y seis horas.
 II. El Órgano jurisdiccional contará con los siguientes medios de apremio: a) Amonestación. b) Multa de veinte a cinco mil días de salario mínimo vigente en el momento y lugar en que se cometa la falta que amerite una medida de apremio. Tratándose personas civiles que ejerzan la actividad de jornaleros, obreros y trabajadores que perciban salario mínimo, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, de un día de su ingreso. c) Auxilio de la fuerza pública. d) Arresto hasta por treinta y seis horas.
 El Órgano jurisdiccional militar también podrá ordenar la expulsión de las personas de las instalaciones donde se lleve a cabo la diligencia.
 La resolución que determine la imposición de medios de apremio deberá estar fundada y motivada.
@@ -592,7 +593,7 @@ Cuando el infractor sea militar, la autoridad que impuso el medio de apremio pre
 El Órgano jurisdiccional militar y el Ministerio Público podrán dar vista a las autoridades competentes para que se determinen las responsabilidades que en su caso procedan en los términos de la legislación aplicable.
 
 ## TÍTULO V
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES SUJETOS DEL PROCEDIMIENTO Y SUS AUXILIARES
+SUJETOS DEL PROCEDIMIENTO Y SUS AUXILIARES
 
 ## CAPÍTULO I
 DISPOSICIONES COMUNES
@@ -619,7 +620,7 @@ Artículo reformado DOF 16-07-2025
 El Órgano jurisdiccional militar procurará que en todo momento se respete la regularidad del procedimiento, el ejercicio de las facultades o derechos en términos de ley y la buena fe.
 
 ## CAPÍTULO II
-VÍCTIMA U OFENDIDO DE DELITOS DE LA COMPETENCIA DE LA JURISDICCIÓN MILITAR CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
+VÍCTIMA U OFENDIDO DE DELITOS DE LA COMPETENCIA DE LA JURISDICCIÓN MILITAR
 
 ### Artículo 105
 . Víctima u ofendido Para los efectos de este Código, se considera víctima del delito al sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva. Asimismo, se considerará ofendido a la persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista en la ley penal como delito.
@@ -639,7 +640,7 @@ VII. A contar con un Asesor jurídico gratuito en cualquier etapa del procedimie
 VIII. A recibir trato sin discriminación a fin de evitar que se atente contra la dignidad humana y se anulen o menoscaben sus derechos y libertades, por lo que la protección de sus derechos se hará sin distinción alguna.
 IX. A acceder a la justicia de manera pronta, gratuita e imparcial respecto de sus denuncias o querellas.
 X. A participar en los mecanismos alternativos de solución de controversias.
-XI. A recibir gratuitamente la asistencia de un intérprete o traductor desde la denuncia hasta la conclusión del procedimiento penal, cuando la víctima u ofendido pertenezca a un grupo CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES étnico o pueblo o comunidad indígena o afromexicana o no conozca o no comprenda el idioma español.
+XI. A recibir gratuitamente la asistencia de un intérprete o traductor desde la denuncia hasta la conclusión del procedimiento penal, cuando la víctima u ofendido pertenezca a un grupo étnico o pueblo o comunidad indígena o afromexicana o no conozca o no comprenda el idioma español.
 Fracción reformada DOF 01-04-2024 XII. En caso de tener alguna discapacidad, a que se realicen los ajustes al procedimiento penal que sean necesarios para salvaguardar sus derechos.
 XIII. A que se le reciban todos los datos o elementos de prueba pertinentes con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que establece este Código.
 XIV. A intervenir en todo el procedimiento por sí o a través de su Asesor jurídico, conforme lo dispuesto en este Código.
@@ -655,7 +656,7 @@ XXIII. A que se le garantice la reparación del daño durante el procedimiento e
 XXIV. A que se le repare el daño causado por la comisión del delito, pudiendo solicitarlo directamente al Órgano jurisdiccional militar, sin perjuicio de que el Ministerio Público lo solicite.
 XXV. Al resguardo de su identidad y demás datos personales o cuando a juicio del Órgano jurisdiccional militar sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 XXVI. A ser notificado del desistimiento de la acción penal y de todas las resoluciones que finalicen el procedimiento, de conformidad con las reglas que establece este Código.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES XXVII. A solicitar la reapertura del proceso cuando se haya decretado su suspensión.
+XXVII. A solicitar la reapertura del proceso cuando se haya decretado su suspensión.
 XXVIII. Los demás que establezcan este Código y otras leyes aplicables.
 
 ### Artículo 107
@@ -679,7 +680,7 @@ Párrafo reformado DOF 16-07-2025 I. A ser considerado y tratado como inocente h
 II. A comunicarse con un familiar y con su persona defensora cuando sea detenido, debiendo brindarle el Ministerio Público todas las facilidades para lograrlo;
 Fracción reformada DOF 16-07-2025 III. A declarar o a guardar silencio, en el entendido que su silencio no podrá ser utilizado en su perjuicio.
 IV. A estar asistida de su persona defensora al momento de rendir su declaración, así como en cualquier otra actuación y a entrevistarse en privado previamente con él;
-Fracción reformada DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES V. A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o la Persona Juzgadora de Control, los hechos que se le imputan y los derechos que le asisten, así como, en su caso, el motivo de la privación de su libertad y la persona servidora pública que la ordenó, exhibiéndosele, según corresponda, la orden emitida en su contra;
+Fracción reformada DOF 16-07-2025 V. A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o la Persona Juzgadora de Control, los hechos que se le imputan y los derechos que le asisten, así como, en su caso, el motivo de la privación de su libertad y la persona servidora pública que la ordenó, exhibiéndosele, según corresponda, la orden emitida en su contra;
 Fracción reformada DOF 16-07-2025 VI. A no ser sometida en ningún momento del procedimiento a técnicas ni métodos que atenten contra su integridad personal, dignidad, que induzcan o alteren su libre voluntad;
 Fracción reformada DOF 16-07-2025 VII. A solicitar ante la autoridad judicial la modificación de la medida cautelar que se le haya impuesto, en los casos en que se encuentre en prisión preventiva, en los supuestos señalados por este Código.
 VIII. A tener acceso él y su defensa a los registros de la investigación, así como a obtener copia gratuita de los mismos, en términos de los artículos 216 y 217 de este Código.
@@ -692,7 +693,7 @@ Fracción reformada DOF 16-07-2025 XIV. A no ser presentada ante la comunidad co
 Fracción reformada DOF 16-07-2025 XV. A solicitar desde el momento de su detención, asistencia social para los menores de edad, adultos mayores o personas con discapacidad cuyo cuidado personal tenga a su cargo;
 Fracción reformada DOF 16-07-2025 XVI. A obtener su libertad en el caso de que haya sido detenido, cuando no se ordene la prisión preventiva, u otra medida cautelar restrictiva de su libertad.
 XVII. Los demás que establezca este Código y otras disposiciones aplicables.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Los plazos a que se refiere la fracción X de este artículo, se contarán a partir de la audiencia inicial hasta el momento en que sea dictada la sentencia emitida por el Órgano jurisdiccional militar competente.
+Los plazos a que se refiere la fracción X de este artículo, se contarán a partir de la audiencia inicial hasta el momento en que sea dictada la sentencia emitida por el Órgano jurisdiccional militar competente.
 Cuando el imputado tenga a su cuidado menores de edad, personas con discapacidad o adultos mayores que dependan de él, y no haya otra persona que pueda ejercer ese cuidado, el Ministerio Público deberá canalizarlos a instituciones de asistencia social que correspondan, a efecto de recibir la protección.
 
 ### Artículo 111
@@ -716,7 +717,7 @@ Artículo reformado DOF 16-07-2025
 Párrafo reformado DOF 16-07-2025 I. Entrevistar a la persona militar imputada para conocer directamente su versión de los hechos que motivan la investigación, a fin de ofrecer los datos y medios de prueba pertinentes que sean necesarios para llevar a cabo una adecuada defensa;
 Fracción reformada DOF 16-07-2025 II. Asesorar a la persona militar imputada sobre la naturaleza y las consecuencias jurídicas de los hechos punibles que se le atribuyen;
 Fracción reformada DOF 16-07-2025 III. Comparecer y asistir jurídicamente a la persona militar imputada en el momento en que rinda su declaración, así como en cualquier diligencia o audiencia que establezca la ley;
-Fracción reformada DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES IV. Analizar las constancias que obren en la carpeta de investigación, a fin de contar con mayores elementos para la defensa;
+Fracción reformada DOF 16-07-2025 IV. Analizar las constancias que obren en la carpeta de investigación, a fin de contar con mayores elementos para la defensa;
 V. Comunicarse directa y personalmente con la persona militar imputada, cuando lo estime conveniente, siempre y cuando esto no altere el desarrollo normal de las audiencias;
 Fracción reformada DOF 16-07-2025 VI. Recabar y ofrecer los medios de prueba necesarios para la defensa;
 VII. Presentar los argumentos y datos de prueba que desvirtúen la existencia del hecho que la ley señala como delito, o aquellos que permitan hacer valer la procedencia de alguna causal de inimputabilidad, sobreseimiento o excluyente de responsabilidad a favor de la persona militar imputada y la prescripción de la acción penal o cualquier otra causal legal que sea en beneficio de la persona militar imputada;
@@ -732,7 +733,6 @@ XVI. Informar a la persona militar imputada y a sus familiares la situación jur
 
 ### Artículo 115
 . Nombramiento posterior Durante el transcurso del procedimiento el imputado podrá designar a un nuevo Defensor, sin embargo, hasta en tanto el nuevo Defensor no comparezca a aceptar el cargo conferido, el Órgano jurisdiccional o el Ministerio Público le designarán al imputado un Defensor público, a fin de no dejarlo en estado de indefensión.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ### Artículo 116
 . Inadmisibilidad y apartamiento En ningún caso podrá nombrarse como persona defensora de la persona militar imputada a cualquier persona que sea coimputada del acusado, haya sido sentenciada por el mismo hecho o imputada por ser autor o partícipe del encubrimiento o favorecimiento del mismo hecho.
@@ -762,7 +762,6 @@ Cuando el imputado no pueda o se niegue a designar un Defensor, el Ministerio P�
 
 ### Artículo 123
 . Entrevista con otras personas Si antes de una audiencia, con motivo de su preparación, el defensor tuviera necesidad de entrevistar a una persona o interviniente del procedimiento que se niega a recibirlo, podrá solicitar el auxilio judicial, explicándole las razones por las que se hace necesaria la entrevista. El Órgano jurisdiccional militar, en caso de considerar fundada la solicitud, expedirá la orden para que dicha persona sea entrevistada por el Defensor en el lugar y tiempo que determine el propio Órgano jurisdiccional militar. Esta autorización no se concederá en aquellos casos en que, a solicitud del Ministerio Público, el Órgano jurisdiccional militar estime que la víctima u ofendido o los testigos deben estar sujetos a protocolos especiales de protección.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ## CAPÍTULO V
 MINISTERIO PÚBLICO
@@ -787,7 +786,7 @@ Párrafo reformado DOF 16-07-2025
 ### Artículo 128
 . Obligaciones del Ministerio Público Militar Para los efectos del presente Código, el Ministerio Público tendrá las siguientes obligaciones:
 I. Vigilar que en toda investigación de los delitos se cumpla estrictamente con los derechos humanos reconocidos en la Constitución y en los Tratados;
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES II. Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
+II. Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
 III. Ejercer la conducción y el mando de la investigación de los delitos, para lo cual deberá coordinar a las Policías y a los peritos durante ésta;
 IV. Ordenar o supervisar, según sea el caso, la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia del mismo, así como cerciorarse de que se han seguido las reglas y protocolos para su preservación y procesamiento;
 V. Iniciar la investigación correspondiente cuando así proceda y, en su caso, ordenar la recolección de indicios y medios de prueba que deberán servir para sus respectivas resoluciones y las del Órgano jurisdiccional militar, así como recabar los elementos necesarios que determinen el daño causado por el delito y la cuantificación del mismo para los efectos de su reparación;
@@ -801,7 +800,7 @@ Fracción reformada DOF 16-07-2025 XII. Determinar el archivo temporal y el no e
 XIII. Decidir la aplicación de criterios de oportunidad en los casos previstos en este Código;
 XIV. Promover las acciones necesarias para que se provea la seguridad y proporcionar el auxilio a víctimas, ofendidos, testigos, jueces, magistrados, agentes del Ministerio Público, Policías, peritos y, en general, a todos los sujetos que con motivo de su intervención en el procedimiento, cuya vida o integridad corporal se encuentren en riesgo inminente;
 XV. Ejercer la acción penal cuando proceda;
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES XVI. Poner a disposición del Órgano jurisdiccional militar a las personas detenidas dentro de los plazos establecidos en el presente Código;
+XVI. Poner a disposición del Órgano jurisdiccional militar a las personas detenidas dentro de los plazos establecidos en el presente Código;
 XVII. Promover la aplicación de mecanismos alternativos de solución de controversias o formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables;
 XVIII. Solicitar las medidas cautelares aplicables a la persona militar imputada en el proceso, en atención a las disposiciones conducentes y promover su cumplimiento;
 Fracción reformada DOF 16-07-2025 XIX. Comunicar al Órgano jurisdiccional militar y a la persona militar imputada los hechos, así como los datos de prueba que los sustentan y la fundamentación jurídica, atendiendo al objetivo o finalidad de cada etapa del procedimiento;
@@ -820,7 +819,7 @@ Párrafo reformado DOF 16-07-2025 I. Recibir las denuncias sobre hechos que pued
 II. Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que éste coordine la investigación;
 III. Realizar detenciones en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que ésta le otorga;
 IV. Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores.
-Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES real, actual o inminente y sin derecho en protección de bienes jurídicos de la disciplina militar a quienes tiene la obligación de proteger;
+Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de la disciplina militar a quienes tiene la obligación de proteger;
 V. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos;
 VI. Informar sin dilación por cualquier medio al Ministerio Público sobre la detención de cualquier persona, e inscribir inmediatamente las detenciones en el Registro Administrativo de Detenciones que al efecto establezcan las disposiciones aplicables;
 VII. Practicar las inspecciones y otros actos de investigación, así como reportar sus resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;
@@ -837,7 +836,7 @@ La policía ministerial militar, por ningún motivo podrá realizar peritajes so
 
 ### Artículo 130
 . De la policía ministerial militar accidental Actuarán de forma accidental como agentes de la policía ministerial militar, el personal militar que en virtud de su cargo o comisión desempeñen los servicios que a continuación se indican o sus equivalentes en la Fuerza Armada respectiva:
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Párrafo reformado DOF 16-07-2025 I. Jefa o Jefe de vigilancia;
+Párrafo reformado DOF 16-07-2025 I. Jefa o Jefe de vigilancia;
 Fracción reformada DOF 16-07-2025 II. Oficial de día;
 III. Oficial de permanencia;
 IV. Comandante de guardia en prevención, y V. Comandantes de arma, partida o destacamento.
@@ -861,7 +860,7 @@ I. Resolver los asuntos sometidos a su consideración con la debida diligencia, 
 II. Respetar, garantizar y velar por la salvaguarda de los derechos de quienes intervienen en el procedimiento;
 III. Guardar reserva sobre los asuntos relacionados con su función, aun después de haber cesado en el ejercicio del cargo;
 IV. Atender oportuna y debidamente las peticiones dirigidas por los sujetos que intervienen dentro del procedimiento penal;
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES V. Bajo ninguna circunstancia se presentará en público al imputado o acusado como culpable si no existiera condena;
+V. Bajo ninguna circunstancia se presentará en público al imputado o acusado como culpable si no existiera condena;
 VI. Mantener el orden en las salas de audiencias;
 VII. Los demás establecidos en el Código de Justicia Militar y en este Código y otras disposiciones aplicables.
 
@@ -885,7 +884,7 @@ MEDIDAS DE PROTECCIÓN Y PROVIDENCIAS PRECAUTORIAS
 I. Prohibición de acercarse o comunicarse con la víctima u ofendido;
 II. Limitación para asistir o acercarse al domicilio de la víctima u ofendido o al lugar donde se encuentre;
 III. La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable;
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES IV. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos;
+IV. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos;
 V. Vigilancia en el domicilio de la víctima u ofendido;
 VI. Protección policial o militar de la víctima u ofendido;
 VII. Auxilio inmediato por integrantes de instituciones policiales o militares, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;
@@ -904,7 +903,7 @@ Párrafo reformado DOF 14-11-2025
 
 ### Artículo 138
 . Duración de las medidas de protección y providencias precautorias La imposición de las medidas de protección y de las providencias precautorias tendrá una duración máxima de sesenta días naturales, prorrogables hasta por treinta días.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el imputado, su Defensor o en su caso el Ministerio Público, podrán solicitar al Juez de control que la deje sin efectos.
+Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el imputado, su Defensor o en su caso el Ministerio Público, podrán solicitar al Juez de control que la deje sin efectos.
 
 ## CAPÍTULO II
 LIBERTAD DURANTE LA INVESTIGACIÓN
@@ -927,7 +926,7 @@ II. Orden de comparecencia, a través de la fuerza pública, en contra de la per
 Fracción reformada DOF 16-07-2025 III. Orden de aprehensión en contra de un militar cuando el Ministerio Público advierta que existe la necesidad de cautela.
 En la clasificación jurídica que realice el Ministerio Público se especificará el tipo penal que se atribuye, el grado de ejecución del hecho, la forma de intervención y la naturaleza dolosa o culposa de la conducta, sin perjuicio de que con posterioridad proceda la reclasificación correspondiente.
 También podrá ordenarse la aprehensión de una persona cuando resista o evada la orden de comparecencia judicial y el delito que se le impute merezca pena privativa de la libertad.
-El Órgano jurisdiccional militar declarará sustraída a la acción de la justicia a la persona militar imputada que, sin causa justificada, no comparezca a una citación judicial, se fugue del establecimiento o lugar donde esté detenida. En cualquier caso, la declaración dará lugar a la emisión de una orden de CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES aprehensión en contra de la persona militar imputada que se haya sustraído de la acción de la justicia y será declarada prófuga de la justicia.
+El Órgano jurisdiccional militar declarará sustraída a la acción de la justicia a la persona militar imputada que, sin causa justificada, no comparezca a una citación judicial, se fugue del establecimiento o lugar donde esté detenida. En cualquier caso, la declaración dará lugar a la emisión de una orden de aprehensión en contra de la persona militar imputada que se haya sustraído de la acción de la justicia y será declarada prófuga de la justicia.
 Párrafo reformado DOF 16-07-2025 El Ministerio Público podrá solicitar una orden de aprehensión en el caso de que se incumpla una medida cautelar, en los términos del artículo 173, y la Persona Juzgadora de Control la podrá dictar en el caso de que lo estime estrictamente necesario.
 Párrafo reformado DOF 16-07-2025
 
@@ -947,7 +946,7 @@ El Ministerio Público expondrá brevemente en audiencia ante el Juez de control
 En caso de desistimiento de la acción penal, la victima u ofendido podrán impugnar la resolución emitida por el Juez de control, Tribunal Militar de Juicio Oral o Tribunal Superior Militar.
 
 ### Artículo 144
-. Ejecución y cancelación de la orden de comparecencia y aprehensión La orden de aprehensión se entregará física o electrónicamente al Ministerio Público, quien la ejecutará por conducto de la Policía Ministerial Militar. Los agentes policiales que ejecuten una orden judicial de aprehensión pondrán a la persona detenida inmediatamente a disposición del Juzgado Militar de Control que hubiere expedido la orden, en área distinta a la destinada para el cumplimiento de la prisión preventiva o de sanciones privativas de libertad, informando a ésta acerca de la fecha, hora y CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES lugar en que ésta se efectuó, debiendo a su vez, entregar a la persona militar imputada una copia de la misma.
+. Ejecución y cancelación de la orden de comparecencia y aprehensión La orden de aprehensión se entregará física o electrónicamente al Ministerio Público, quien la ejecutará por conducto de la Policía Ministerial Militar. Los agentes policiales que ejecuten una orden judicial de aprehensión pondrán a la persona detenida inmediatamente a disposición del Juzgado Militar de Control que hubiere expedido la orden, en área distinta a la destinada para el cumplimiento de la prisión preventiva o de sanciones privativas de libertad, informando a ésta acerca de la fecha, hora y lugar en que ésta se efectuó, debiendo a su vez, entregar a la persona militar imputada una copia de la misma.
 Párrafo reformado DOF 16-07-2025 Los agentes policiales deberán informar de inmediato al Ministerio Público sobre la ejecución de la orden de aprehensión para efectos de que éste solicite la celebración de la audiencia inicial a partir de la formulación de imputación.
 Los agentes policiales que ejecuten una orden judicial de comparecencia pondrán a la persona militar imputada inmediatamente a disposición de la Persona Juzgadora de Control que hubiere expedido la orden, en la sala donde ha de formularse la imputación, en la fecha y hora señalada para tales efectos.
 La Policía deberá informar al Ministerio Público acerca de la fecha, hora y lugar en que se cumplió la orden, debiendo a su vez, entregar al imputado una copia de la misma.
@@ -963,7 +962,7 @@ Flagrancia y caso urgente
 
 ### Artículo 145
 . Supuestos de flagrancia Se podrá detener a un militar sin orden judicial en caso de flagrancia. Se entiende que hay flagrancia cuando:
-I. La persona es detenida en el momento de estar cometiendo un delito, o II. Inmediatamente después de cometerlo es detenida, en virtud de que: a) Es sorprendida cometiendo el delito y es perseguida material e ininterrumpidamente, o b) Cuando la persona sea señalada por la víctima u ofendido, algún testigo presencial de los hechos o quien hubiere intervenido con ella en la comisión del delito y cuando tenga en su CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES poder instrumentos, objetos, productos del delito o se cuente con información o indicios que hagan presumir fundadamente que intervino en el mismo.
+I. La persona es detenida en el momento de estar cometiendo un delito, o II. Inmediatamente después de cometerlo es detenida, en virtud de que: a) Es sorprendida cometiendo el delito y es perseguida material e ininterrumpidamente, o b) Cuando la persona sea señalada por la víctima u ofendido, algún testigo presencial de los hechos o quien hubiere intervenido con ella en la comisión del delito y cuando tenga en su poder instrumentos, objetos, productos del delito o se cuente con información o indicios que hagan presumir fundadamente que intervino en el mismo.
 Para los efectos de la fracción II, inciso b), de este precepto, se considera que un militar ha sido detenido en flagrancia por señalamiento, siempre y cuando, inmediatamente después de cometer el delito no se haya interrumpido su búsqueda o localización.
 
 ### Artículo 146
@@ -982,7 +981,7 @@ Artículo reformado DOF 16-07-2025
 Así también, durante el plazo de retención el Ministerio Público analizará la necesidad de dicha medida y realizará los actos de investigación que considere necesarios para, en su caso, ejercer la acción penal.
 
 ### Artículo 149
-. Supuesto de caso urgente CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Sólo en casos urgentes el Ministerio Público podrá, bajo su responsabilidad y fundando y expresando los datos de prueba que motiven su proceder, ordenar la detención de una persona, siempre y cuando concurran los siguientes supuestos:
+. Supuesto de caso urgente Sólo en casos urgentes el Ministerio Público podrá, bajo su responsabilidad y fundando y expresando los datos de prueba que motiven su proceder, ordenar la detención de una persona, siempre y cuando concurran los siguientes supuestos:
 I. Existan datos que establezcan la existencia de un hecho señalado como delito grave y que exista la probabilidad de que la persona lo cometió o participó en su comisión. Se califican como graves, para los efectos de la detención por caso urgente, los delitos señalados como de prisión preventiva oficiosa en este Código o en la legislación aplicable así como aquellos cuyo término medio aritmético sea mayor de cinco años de prisión;
 II. Exista riesgo fundado de que el imputado pueda sustraerse de la acción de la justicia;
 III. Por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocurrir ante la autoridad judicial, o que de hacerlo, el imputado pueda evadirse;
@@ -999,7 +998,7 @@ Fracción reformada DOF 16-07-2025 III. El derecho a recibir una notificación e
 IV. El derecho a ser colocado en una celda en condiciones dignas y con acceso a aseo personal;
 V. El derecho a no estar detenida, desnuda o en prendas íntimas;
 Fracción reformada DOF 16-07-2025 VI. Cuando, para los fines de la investigación sea necesario que la persona detenida entregue su ropa, se le proveerán prendas de vestir;
-Fracción reformada DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES VII. El derecho a recibir atención clínica si padece una enfermedad física, se lesiona o parece estar sufriendo de un trastorno mental.
+Fracción reformada DOF 16-07-2025 VII. El derecho a recibir atención clínica si padece una enfermedad física, se lesiona o parece estar sufriendo de un trastorno mental.
 
 ## CAPÍTULO IV
 MEDIDAS CAUTELARES
@@ -1024,7 +1023,7 @@ Fracción reformada DOF 16-07-2025 II. La exhibición de una garantía económic
 III. El embargo de bienes;
 IV. La inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero;
 V. La prohibición de salir sin autorización del país, de la localidad en la cual reside o del ámbito territorial que fije la Persona Juzgadora de Control;
-Fracción reformada DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES VI. El sometimiento al cuidado o vigilancia de una persona o institución determinada o internamiento a institución determinada;
+Fracción reformada DOF 16-07-2025 VI. El sometimiento al cuidado o vigilancia de una persona o institución determinada o internamiento a institución determinada;
 VII. La prohibición de concurrir a determinadas reuniones o acercarse o ciertos lugares;
 VIII. La prohibición de convivir, acercarse o comunicarse con determinadas personas, con las víctimas u ofendidos o testigos, siempre que no se afecte el derecho de defensa;
 IX. La suspensión temporal en el ejercicio del cargo, empleo o comisión;
@@ -1043,7 +1042,7 @@ En la resolución respectiva, el Juez de control deberá justificar las razones 
 ### Artículo 155
 . Imposición de medidas cautelares Las solicitudes de medidas cautelares serán resueltas por el Juez de control, en audiencia y con presencia de las partes.
 El Juez de control podrá imponer una de las medidas cautelares previstas en este Código, o combinar varias de ellas según resulte adecuado al caso, o imponer una diversa a la solicitada siempre que no sea más grave. Sólo el Ministerio Público podrá solicitar la prisión preventiva, la cual no podrá combinarse con otras medidas cautelares previstas en este Código, salvo el embargo precautorio o la inmovilización de cuentas y demás valores que se encuentren en el sistema financiero.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES En ningún caso el Juez de control está autorizado a aplicar medidas cautelares sin tomar en cuenta el objeto o la finalidad de las mismas ni a aplicar medidas más graves que las previstas en el presente Código.
+En ningún caso el Juez de control está autorizado a aplicar medidas cautelares sin tomar en cuenta el objeto o la finalidad de las mismas ni a aplicar medidas más graves que las previstas en el presente Código.
 
 ### Artículo 156
 . Contenido de la resolución La resolución que establezca una medida cautelar deberá contener al menos lo siguiente:
@@ -1068,7 +1067,7 @@ III. La vigencia de la medida.
 La información que se recabe con motivo de la evaluación de riesgo no puede ser usada para la investigación del delito y no podrá ser proporcionada al Ministerio Público. Lo anterior, salvo que se trate de un delito que está en curso o sea inminente su comisión, y peligre la integridad personal o la vida de una persona, el entrevistador quedará relevado del deber de confidencialidad y podrá darlo a conocer a los agentes encargados de la persecución penal.
 Para decidir sobre la necesidad de la imposición o revisión de las medidas cautelares, la unidad administrativa de supervisión de medidas cautelares y de la suspensión condicional del proceso proporcionará a las partes la información necesaria para ello, de modo que puedan hacer la solicitud correspondiente al Órgano jurisdiccional militar.
 Para tal efecto, la unidad administrativa de supervisión de medidas cautelares y de la suspensión condicional del proceso, contará con una base de datos para dar seguimiento al cumplimiento de las medidas cautelares distintas a la prisión preventiva.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Las partes podrán obtener la información disponible de la autoridad competente cuando así lo solicite, previo a la audiencia para debatir la solicitud de medida cautelar.
+Las partes podrán obtener la información disponible de la autoridad competente cuando así lo solicite, previo a la audiencia para debatir la solicitud de medida cautelar.
 La supervisión de la prisión preventiva quedará a cargo de la autoridad penitenciaria en los términos de la ley de la materia.
 
 ### Artículo 162
@@ -1086,7 +1085,7 @@ No gozarán de la prerrogativa prevista en los dos párrafos anteriores, quienes
 Párrafo reformado DOF 16-07-2025 Lo anterior en términos de lo previsto en el artículo 57 del Código de Justicia Militar.
 En el supuesto de que la persona militar imputada esté siendo procesada por otro delito distinto de aquel en el que se solicite la prisión preventiva, deberá analizarse si ambos procesos son susceptibles de acumulación, en cuyo caso la existencia de proceso previo no dará lugar por si sola a la procedencia de la prisión preventiva.
 Párrafo reformado DOF 16-07-2025 La Persona Juzgadora de Control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley, que atenten contra la seguridad de la Nación, el libre desarrollo de la personalidad o contra la salud.
-Párrafo reformado DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Las leyes generales de salud, secuestro y trata de personas establecerán los supuestos que ameriten prisión preventiva oficiosa.
+Párrafo reformado DOF 16-07-2025 Las leyes generales de salud, secuestro y trata de personas establecerán los supuestos que ameriten prisión preventiva oficiosa.
 La ley en materia de delincuencia organizada establecerá los supuestos que ameriten prisión preventiva oficiosa.
 Se consideran delitos contra la disciplina militar que ameritan prisión preventiva oficiosa, los previstos en el Código de Justicia Militar de la manera siguiente:
 I. Traición a la patria previsto en los artículos 203 y 204.
@@ -1107,7 +1106,7 @@ XV. Asonada previsto en el artículo 305, fracciones I y II, 306, 307, primer p�
 XVI. Abandono de Puesto previsto en los artículos 312, 313, fracción I, segunda parte, fracciones I, II y III en relación al segundo párrafo de esta última fracción.
 XVII. Abandono de Mando previsto en los artículos 315, últimos dos supuestos, 316, primer supuesto, 317, 318, fracciones IV a la VI, 319, fracciones I, II y III, 320, dos últimos supuestos y 321.
 XVIII. Extralimitación del mando o comisión previsto en el artículo 323, fracciones II y III.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES XIX. Infracción de deberes comunes a todos los que están obligados a servir en el Ejército en Campaña previsto en el artículo 338, fracción II.
+XIX. Infracción de deberes comunes a todos los que están obligados a servir en el Ejército en Campaña previsto en el artículo 338, fracción II.
 XX. Infracción de deberes comunes a todos los que están obligados a servir en el Ejército en su modalidad de deliberar en grupo frente al enemigo previsto en el artículo 339, fracciones II y III.
 XXI. Infracción de deberes especiales de marinos previsto en los artículos 362, 363, 364 excepto fracción I, primera parte, 365, fracciones I y II, 366, fracción I, 367 y 372, fracciones I y II.
 XXII. Infracción de deberes especiales de aviador previsto en los artículos 376, 378, fracción I y 379, fracción I.
@@ -1125,7 +1124,7 @@ Fracción reformada DOF 16-07-2025 IV. La inobservancia de medidas cautelares pr
 V. El desacato de citaciones para actos procesales y que, conforme a derecho, le hubieran realizado las autoridades investigadoras o jurisdiccionales.
 
 ### Artículo 166
-. Peligro de obstaculización del desarrollo de la investigación CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Para decidir acerca del peligro de obstaculización del desarrollo de la investigación, la Persona Juzgadora de Control tomará en cuenta la circunstancia del hecho imputado y los elementos aportados por el Ministerio Público para estimar como probable que, de recuperar su libertad, la persona militar imputada:
+. Peligro de obstaculización del desarrollo de la investigación Para decidir acerca del peligro de obstaculización del desarrollo de la investigación, la Persona Juzgadora de Control tomará en cuenta la circunstancia del hecho imputado y los elementos aportados por el Ministerio Público para estimar como probable que, de recuperar su libertad, la persona militar imputada:
 Párrafo reformado DOF 16-07-2025 I. Destruirá, modificará, ocultará o falsificará elementos de prueba.
 II. Influirá para que coimputados, testigos o peritos informen falsamente o se comporten de manera reticente o inducirá a otros a realizar tales comportamientos.
 III. Intimidará, amenazará u obstaculizará la labor de las personas servidoras públicas que participan en la investigación.
@@ -1149,7 +1148,7 @@ Artículo reformado DOF 16-07-2025
 . Tipo de garantía La garantía económica podrá constituirse de las siguientes maneras:
 I. Depósito en efectivo;
 II. Fianza de institución autorizada;
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES III. Hipoteca;
+III. Hipoteca;
 IV. Prenda;
 V. Fideicomiso, o VI. Cualquier otra que a criterio del Juez de control cumpla suficientemente con esta finalidad.
 El Juez de control podrá autorizar la sustitución de la garantía impuesta al imputado por otra equivalente previa audiencia del Ministerio Público, la víctima u ofendido, si estuviese presente. demás legislaciones aplicables.
@@ -1168,7 +1167,7 @@ I. Se revoque la decisión que la decreta;
 II. Se dicte el sobreseimiento o la sentencia absolutoria, o III. El imputado se someta a la ejecución de la pena o la garantía no deba ejecutarse.
 
 ## CAPÍTULO V
-DE LA SUPERVISIÓN DE LAS MEDIDAS CAUTELARES CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
+DE LA SUPERVISIÓN DE LAS MEDIDAS CAUTELARES
 
 ## SECCIÓN I
 De la Unidad Administrativa de supervisión de medidas cautelares y de la suspensión condicional del proceso
@@ -1186,7 +1185,7 @@ Fracción reformada DOF 16-07-2025 V. Requerir que la persona militar imputada p
 Fracción reformada DOF 16-07-2025 VI. Supervisar que las personas e instituciones públicas y privadas a las que la autoridad judicial encargue el cuidado de la persona militar imputada, cumplan las obligaciones contraídas;
 Fracción reformada DOF 16-07-2025 VII. Solicitar a la persona militar imputada la información que sea necesaria para verificar el cumplimiento de las medidas y obligaciones impuestas;
 Fracción reformada DOF 16-07-2025 VIII. Revisar y sugerir el cambio de las condiciones de las medidas impuestas a la persona militar imputada, de oficio o a solicitud de parte, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida;
-Fracción reformada DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES IX. Informar a las partes aquellas violaciones a las medidas y obligaciones impuestas que estén debidamente verificadas, y puedan implicar la modificación o revocación de la medida o suspensión y sugerir las modificaciones que estime pertinentes.
+Fracción reformada DOF 16-07-2025 IX. Informar a las partes aquellas violaciones a las medidas y obligaciones impuestas que estén debidamente verificadas, y puedan implicar la modificación o revocación de la medida o suspensión y sugerir las modificaciones que estime pertinentes.
 X. Conservar actualizada una base de datos sobre las medidas cautelares y obligaciones impuestas, su seguimiento y conclusión.
 XI. Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de Entidades Federativas dentro de sus respectivos ámbitos de competencia.
 XII. Ejecutar las solicitudes de apoyo para la obtención de información que le requieran las oficinas con funciones similares de la Federación o de las Entidades Federativas en sus respectivos ámbitos de competencia.
@@ -1206,7 +1205,7 @@ Las Unidades, Dependencias e Instalaciones de las Secretarías de la Defensa Nac
 ### Artículo 178
 . Seguimiento de medidas cautelares en caso de suspensión del proceso Cuando el proceso sea suspendido en virtud de que el Órgano jurisdiccional militar haya determinado la sustracción de la acción de la justicia, las medidas cautelares continuarán vigentes, salvo las que resulten de imposible cumplimiento.
 En caso de que el proceso se suspenda por la falta de un requisito de procedibilidad, las medidas cautelares continuarán vigentes por el plazo que determine la autoridad judicial que no podrá exceder de cuarenta y ocho horas.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Si el imputado es declarado inimputable, se citará a una audiencia de revisión de la medida cautelar proveyendo, en su caso, la aplicación de ajustes razonables solicitados por las partes.
+Si el imputado es declarado inimputable, se citará a una audiencia de revisión de la medida cautelar proveyendo, en su caso, la aplicación de ajustes razonables solicitados por las partes.
 
 ### Artículo 179
 . Registro de actividades de supervisión Se llevará un registro, por cualquier medio fidedigno, de las actividades necesarias que permitan a la unidad administrativa de supervisión de medidas cautelares y de la suspensión condicional del proceso tener certeza del cumplimiento o incumplimiento de las obligaciones impuestas.
@@ -1239,7 +1238,7 @@ ACUERDOS REPARATORIOS
 
 ### Artículo 184
 . Control sobre los acuerdos reparatorios Procederán los acuerdos reparatorios únicamente en los casos siguientes:
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES I. Delitos que se persiguen por querella, por requisito equivalente de parte ofendida o que admitan el perdón de la víctima u ofendido.
+I. Delitos que se persiguen por querella, por requisito equivalente de parte ofendida o que admitan el perdón de la víctima u ofendido.
 II. Delitos no intencionales o de imprudencia.
 III. Delitos patrimoniales cometidos sin violencia sobre las personas.
 No procederán los acuerdos reparatorios cuando se afecte la disciplina militar o el interés público y en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos de la misma naturaleza jurídica, salvo que hayan transcurrido cinco años de haber dado cumplimiento al último acuerdo reparatorio.
@@ -1257,7 +1256,7 @@ El Juez de control decretará la extinción de la acción una vez aprobado el cu
 
 ### Artículo 187
 . Trámite Los acuerdos reparatorios deberán ser aprobados por el Juez de control a partir de la etapa de investigación complementaria y por el Ministerio Publico en la etapa de investigación inicial. En este último supuesto, las partes tendrán derecho a acudir ante el Juez de control, dentro de los cinco días siguientes a que se haya aprobado el acuerdo reparatorio, cuando estimen que el mecanismo alternativo de solución de controversias no se desarrolló conforme a las disposiciones previstas en la ley de la materia. Si el Juez de control determina como válidas las pretensiones de las partes, podrá declarar como no celebrado el acuerdo reparatorio y, en su caso, aprobar la modificación acordada entre las partes.
-Previo a la aprobación del acuerdo reparatorio, el Juez de control o el Ministerio Público verificarán que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES intervinientes estuvieron en condiciones de igualdad para negociar y que no hayan actuado bajo condiciones de intimidación, amenaza o coacción.
+Previo a la aprobación del acuerdo reparatorio, el Juez de control o el Ministerio Público verificarán que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estuvieron en condiciones de igualdad para negociar y que no hayan actuado bajo condiciones de intimidación, amenaza o coacción.
 
 ## CAPÍTULO III
 SUSPENSIÓN CONDICIONAL DEL PROCESO
@@ -1281,7 +1280,7 @@ Párrafo adicionado DOF 16-07-2025
 . Plan de reparación En la audiencia en donde se resuelva sobre la solicitud de suspensión condicional del proceso, el imputado deberá plantear, un plan de reparación del daño causado por el delito y plazos para cumplirlo.
 
 ### Artículo 192
-. Condiciones por cumplir durante el periodo de suspensión condicional del proceso La Persona Juzgadora de Control fijará el plazo de suspensión condicional del proceso, que no podrá ser inferior a seis meses ni superior a tres años, y determinará imponer a la persona militar imputada una o varias de las condiciones que deberá cumplir, las cuales serán acordes con el delito, velando por una CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES efectiva tutela de los derechos de la víctima y la persona ofendida, así como de la disciplina militar. Las cuales, de manera enunciativa más no limitativa se señalan las siguientes:
+. Condiciones por cumplir durante el periodo de suspensión condicional del proceso La Persona Juzgadora de Control fijará el plazo de suspensión condicional del proceso, que no podrá ser inferior a seis meses ni superior a tres años, y determinará imponer a la persona militar imputada una o varias de las condiciones que deberá cumplir, las cuales serán acordes con el delito, velando por una efectiva tutela de los derechos de la víctima y la persona ofendida, así como de la disciplina militar. Las cuales, de manera enunciativa más no limitativa se señalan las siguientes:
 Párrafo reformado DOF 16-07-2025 I. Residir en un lugar determinado;
 II. Frecuentar o dejar de frecuentar determinados lugares o personas;
 III. Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas;
@@ -1300,7 +1299,7 @@ Párrafo reformado DOF 16-07-2025
 . Trámite La víctima u ofendido serán citados a la audiencia en la fecha que señale la Persona Juzgadora de Control. La incomparecencia de éstos no impedirá que la Persona Juzgadora resuelva sobre la procedencia y términos de la solicitud.
 En su resolución, la Persona Juzgadora de Control fijará las condiciones bajo las cuales se suspende el proceso o se rechaza la solicitud y aprobará el plan de reparación propuesto, mismo que podrá ser modificado por la Persona Juzgadora de Control en la audiencia. La sola falta de recursos de la persona militar imputada no podrá ser utilizada como razón suficiente para rechazar la suspensión condicional del proceso.
 La información que se genere como producto de la suspensión condicional del proceso no podrá ser utilizada en caso de continuar el proceso penal.
-Artículo reformado DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
+Artículo reformado DOF 16-07-2025
 
 ### Artículo 194
 . Conservación de los registros de investigación y medios de prueba En los procesos suspendidos de conformidad con las disposiciones establecidas en el presente Capítulo, el Ministerio Público tomará las medidas necesarias para evitar la pérdida, destrucción o ineficacia de los registros y medios de prueba conocidos y los que soliciten los sujetos que intervienen en el proceso.
@@ -1323,7 +1322,7 @@ Cuando las condiciones establecidas por el Juez de control para la suspensión c
 PROCEDIMIENTO ABREVIADO
 
 ### Artículo 198
-. Requisitos de procedencia y verificación de la Persona Juzgadora de Control Epígrafe reformado DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Para autorizar el procedimiento abreviado, la Persona Juzgadora de Control verificará en audiencia los siguientes requisitos:
+. Requisitos de procedencia y verificación de la Persona Juzgadora de Control Epígrafe reformado DOF 16-07-2025 Para autorizar el procedimiento abreviado, la Persona Juzgadora de Control verificará en audiencia los siguientes requisitos:
 Párrafo reformado DOF 16-07-2025 I. Que el Ministerio Público solicite el procedimiento, para lo cual se deberá formular la acusación y exponer los datos de prueba que la sustentan. La acusación deberá contener la enunciación de los hechos que se atribuyen al acusado, su clasificación jurídica y grado de intervención, así como las penas y el monto de reparación del daño;
 Fracción reformada DOF 16-07-2025 II. Que la víctima o persona ofendida no presente oposición. Sólo será vinculante para la Persona Juzgadora de Control la oposición que se encuentre fundada, y Fracción reformada DOF 16-07-2025 III. Que la persona militar imputada:
 Fracción reformada DOF 16-07-2025 a) Reconozca estar debidamente informado de su derecho a un juicio oral y de los alcances del procedimiento abreviado. b) Expresamente renuncie al juicio oral. c) Consienta la aplicación del procedimiento abreviado. d) Admita su responsabilidad por el delito que se le imputa. e) Acepte ser sentenciado con base en los datos de prueba que exponga el Ministerio Público al formular la acusación.
@@ -1334,7 +1333,7 @@ Párrafo reformado DOF 16-07-2025 A la audiencia se deberá citar a todas las pa
 Cuando la persona acusada no haya sido condenada previamente por delito intencional y el delito por el cual se lleva a cabo el procedimiento abreviado es sancionada con pena de prisión cuya media aritmética no exceda de cinco años, incluidas sus calificativas atenuantes o agravantes, el Ministerio Público podrá solicitar la reducción de hasta una mitad de la pena mínima en los casos de delitos intencionales y hasta dos terceras partes de la pena mínima en el caso de delitos no intencionales, de la pena de prisión que le correspondiere al delito por el cual acusa.
 Párrafo reformado DOF 16-07-2025 En cualquier caso, el Ministerio Público podrá solicitar la reducción de hasta un tercio de la mínima en los casos de delitos intencionales y hasta en una mitad de la mínima en el caso de delitos no intencionales o de imprudencia, de la pena de prisión. Si al momento de esta solicitud, ya existiere acusación formulada por escrito, el Ministerio Público podrá modificarla oralmente en la audiencia donde se resuelva sobre el procedimiento abreviado y en su caso solicitar la reducción de las penas, para el efecto de permitir la tramitación del caso conforme a las reglas previstas en el presente Capítulo.
 El Ministerio Público al solicitar la pena en los términos previstos en el presente artículo, deberá observar el acuerdo que al efecto emita la Persona titular de la Fiscalía General de Justicia Militar.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Párrafo reformado DOF 16-07-2025
+Párrafo reformado DOF 16-07-2025
 
 ### Artículo 200
 . Admisibilidad En la misma audiencia, la Persona Juzgadora de Control admitirá la solicitud del Ministerio Público de oficio cuando verifique que concurran los medios de convicción que corroboren la imputación, en términos de la fracción VII, del apartado A del artículo 20 de la Constitución. Serán medios de convicción los datos de prueba que se desprendan de los registros contenidos en la carpeta de investigación.
@@ -1358,7 +1357,7 @@ El juez de control deberá fijar el monto de la reparación del daño, para lo c
 . Reglas generales La existencia de varios coimputados no impide la aplicación de estas reglas en forma individual.
 
 ## CAPÍTULO V
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES DE LA SUPERVISIÓN DE LAS CONDICIONES IMPUESTAS EN LA SUSPENSIÓN CONDICIONAL DEL PROCESO
+DE LA SUPERVISIÓN DE LAS CONDICIONES IMPUESTAS EN LA SUSPENSIÓN CONDICIONAL DEL PROCESO
 
 ### Artículo 205
 . Reglas para las obligaciones de la suspensión condicional del proceso Para el seguimiento de las obligaciones previstas en el artículo 192, fracciones III y IV, las instituciones médicas militares y navales designadas por el Órgano jurisdiccional militar, informarán a la unidad administrativa de supervisión de medidas cautelares y de la suspensión condicional del proceso sobre su cumplimiento.
@@ -1380,7 +1379,7 @@ PROCEDIMIENTO ORDINARIO CAPÍTULO ÚNICO ETAPAS DEL PROCEDIMIENTO
 I. La de investigación, que comprende las siguientes fases: a) Investigación inicial, que comienza con la presentación de la denuncia, querella u otro requisito equivalente y concluye cuando el imputado queda a disposición del Juez de control para que se le formule imputación. b) Investigación complementaria, que comprende desde la formulación de la imputación y se agota una vez que se haya cerrado la investigación.
 II. La intermedia o de preparación del juicio, que comprende desde la formulación de la acusación hasta el auto de apertura del juicio.
 III. La de juicio, que comprende desde que se recibe el auto de apertura a juicio hasta la sentencia emitida por el Tribunal de enjuiciamiento.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES La investigación no se interrumpe ni se suspende durante el tiempo en que se lleve a cabo la audiencia inicial hasta su conclusión o durante la víspera de la ejecución de una orden de aprehensión. El ejercicio de la acción inicia con la solicitud de citatorio a audiencia inicial, puesta a disposición del detenido ante la autoridad judicial o cuando se solicita la orden de aprehensión o comparecencia, con lo cual el Ministerio Público no perderá la dirección de la investigación.
+La investigación no se interrumpe ni se suspende durante el tiempo en que se lleve a cabo la audiencia inicial hasta su conclusión o durante la víspera de la ejecución de una orden de aprehensión. El ejercicio de la acción inicia con la solicitud de citatorio a audiencia inicial, puesta a disposición del detenido ante la autoridad judicial o cuando se solicita la orden de aprehensión o comparecencia, con lo cual el Ministerio Público no perderá la dirección de la investigación.
 El proceso dará inicio con la audiencia inicial, y terminará con la sentencia firme.
 
 ## TÍTULO III
@@ -1406,7 +1405,7 @@ La investigación deberá realizarse de manera inmediata, eficiente, exhaustiva,
 . Proposición de actos de investigación Durante la investigación, tanto el imputado cuando haya comparecido o haya sido entrevistado, como su Defensor, así como la víctima u ofendido, podrán solicitar al Ministerio Público todos aquellos actos de investigación que consideraren pertinentes y útiles para el esclarecimiento de los hechos. El Ministerio Público ordenará que se lleven a cabo aquellos que sean conducentes. La solicitud deberá resolverse en un plazo máximo de tres días siguientes a la fecha en que se haya formulado la petición al Ministerio Público.
 
 ### Artículo 214
-. Registro de los actos de investigación CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES El Ministerio Público y la Policía ministerial militar deberán dejar registro de todas las actuaciones que se realicen durante la investigación de los delitos, utilizando al efecto cualquier medio que permita garantizar que la información recabada sea completa, íntegra y exacta, así como el acceso a la misma por parte de los sujetos que de acuerdo con la ley tuvieren derecho a exigirlo.
+. Registro de los actos de investigación El Ministerio Público y la Policía ministerial militar deberán dejar registro de todas las actuaciones que se realicen durante la investigación de los delitos, utilizando al efecto cualquier medio que permita garantizar que la información recabada sea completa, íntegra y exacta, así como el acceso a la misma por parte de los sujetos que de acuerdo con la ley tuvieren derecho a exigirlo.
 Cada acto de investigación se registrará por separado, y será firmado por quienes hayan intervenido.
 Si no quisieren o no pudieren firmar, se imprimirá su huella digital. En caso de que esto no sea posible o la persona se niegue a imprimir su huella, se hará constar el motivo.
 
@@ -1425,7 +1424,7 @@ Artículo reformado DOF 16-07-2025
 Si el Juez de control considera procedente la solicitud, así lo resolverá y determinará el plazo de la reserva, siempre que la información que se solicita sea reservada, sea oportunamente revelada para no afectar el derecho de defensa. La reserva podrá ser prorrogada cuando sea estrictamente necesario, pero no podrá prolongarse hasta después de la formulación de la acusación.
 
 ## CAPÍTULO II
-INICIO DE LA INVESTIGACIÓN CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
+INICIO DE LA INVESTIGACIÓN
 
 ### Artículo 218
 . Formas de inicio La investigación de los hechos que revistan características de un delito podrá iniciarse por denuncia o querella. El Ministerio Público y la Policía ministerial militar están obligados a proceder sin mayores requisitos a la investigación de los hechos de los que tengan noticia.
@@ -1446,7 +1445,7 @@ En ambos casos, si el denunciante no pudiere firmar, estampará su huella digita
 
 ### Artículo 221
 . Trámite de la denuncia Cuando la denuncia sea presentada directamente ante el Ministerio Público, éste iniciará la investigación conforme a las reglas previstas en este Código.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Cuando la denuncia sea presentada ante la Policía ministerial militar, ésta informará de dicha circunstancia al Ministerio Público en forma inmediata y por cualquier medio, sin perjuicio de realizar las diligencias urgentes que se requieran dando cuenta de ello en forma posterior al Ministerio Público.
+Cuando la denuncia sea presentada ante la Policía ministerial militar, ésta informará de dicha circunstancia al Ministerio Público en forma inmediata y por cualquier medio, sin perjuicio de realizar las diligencias urgentes que se requieran dando cuenta de ello en forma posterior al Ministerio Público.
 
 ### Artículo 222
 . Querella La querella es la expresión de la voluntad de la víctima u ofendido o de quien legalmente se encuentre facultado para ello, mediante la cual manifiesta expresamente ante el Ministerio Público su pretensión de que se inicie la investigación de uno o varios hechos que la ley señale como delitos y que requieran de este requisito de procedibilidad para ser investigados y, en su caso, se ejerza la acción penal correspondiente.
@@ -1468,7 +1467,7 @@ Párrafo reformado DOF 16-07-2025
 . Aseguramiento de bienes, instrumentos, objetos o productos del delito Los instrumentos, objetos o productos del delito, así como los bienes en que existan huellas o pudieran tener relación con éste, siempre que guarden relación directa con el lugar de los hechos o del hallazgo, serán asegurados durante el desarrollo de la investigación, a fin de que no se alteren, destruyan o desaparezcan. Para tales efectos se establecerán controles específicos para su resguardo, que atenderán como mínimo a la naturaleza del bien y a la peligrosidad de su conservación.
 
 ### Artículo 226
-. Reglas sobre el aseguramiento de bienes CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES El aseguramiento de bienes se realizará conforme a lo siguiente:
+. Reglas sobre el aseguramiento de bienes El aseguramiento de bienes se realizará conforme a lo siguiente:
 I. El Ministerio Público, o la Policía en auxilio de éste, deberá elaborar un inventario de todos y cada uno de los bienes que se pretendan asegurar, firmado por el imputado o la persona con quien se atienda el acto de investigación. Ante su ausencia o negativa, la relación deberá ser firmada por dos testigos presenciales que preferentemente no sean miembros de la Policía y cuando ello suceda, que no hayan participado materialmente en la ejecución del acto.
 II. La Policía deberá tomar las providencias necesarias para la debida preservación del lugar de los hechos o del hallazgo y de los indicios, huellas o vestigios del hecho delictivo, así como de los instrumentos, objetos o productos del delito asegurados.
 III. Los bienes asegurados y el inventario correspondiente se pondrán a la brevedad a disposición de la autoridad competente, de conformidad con las disposiciones aplicables.
@@ -1483,7 +1482,7 @@ I. Al Ministerio Público, conforme a las reglas generales establecidas en este 
 II. A la víctima u ofendido, de manera personal y cuando se desconozca su domicilio o identidad, por estrados y boletín judicial.
 III. Al interesado de manera personal y cuando se desconozca su domicilio o identidad, de conformidad con las reglas de la notificación previstas en el presente Código.
 El Juez de control, al resolver sobre el abandono, verificará que la notificación realizada al interesado haya cumplido con las formalidades que prevé este Código; que haya transcurrido el plazo correspondiente y que no se haya presentado persona alguna ante el Ministerio Público a deducir derechos sobre los bienes asegurados o que éstos no hayan sido reconocidos o que no se hubieren cubierto los requerimientos legales.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES La declaratoria de abandono será notificada, en su caso, a la autoridad competente que tenga los bienes bajo su administración para efecto de que sean destinados de conformidad con lo previsto en éste Código.
+La declaratoria de abandono será notificada, en su caso, a la autoridad competente que tenga los bienes bajo su administración para efecto de que sean destinados de conformidad con lo previsto en éste Código.
 
 ### Artículo 228
 . Custodia y disposición de los bienes asegurados Cuando los bienes que se aseguren hayan sido previamente embargados, intervenidos, secuestrados o asegurados, se notificará el nuevo aseguramiento a las autoridades que hayan ordenado dichos actos.
@@ -1505,7 +1504,7 @@ Ni el aseguramiento de bienes ni su conversión a numerario implican que éstos 
 . Aseguramiento de narcóticos y productos relacionados con delitos de propiedad intelectual y derechos de autor Cuando se aseguren narcóticos previstos en cualquier disposición, productos relacionados con delitos de propiedad intelectual y derechos de autor o bienes que impliquen un alto costo o peligrosidad por su conservación, si esta medida es procedente, el Ministerio Público ordenará su destrucción, previa autorización o intervención de las autoridades correspondientes, debiendo previamente fotografiarlos o videograbarlos, así como levantar un acta en la que se haga constar la naturaleza, peso, cantidad o volumen y demás características de éstos, debiéndose recabar muestras del mismo para que obren en los registros de la investigación que al efecto se inicie.
 
 ### Artículo 232
-. Objetos de gran tamaño Los objetos de gran tamaño, como naves, aeronaves, vehículos automotores, máquinas, grúas y otros similares, después de ser examinados por peritos para recoger indicios que se hallen en ellos, podrán ser CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES videograbados o fotografiados en su totalidad y se registrarán del mismo modo los sitios en donde se hallaron huellas, rastros, narcóticos, armas, explosivos o similares que puedan ser objeto o producto de delito.
+. Objetos de gran tamaño Los objetos de gran tamaño, como naves, aeronaves, vehículos automotores, máquinas, grúas y otros similares, después de ser examinados por peritos para recoger indicios que se hallen en ellos, podrán ser videograbados o fotografiados en su totalidad y se registrarán del mismo modo los sitios en donde se hallaron huellas, rastros, narcóticos, armas, explosivos o similares que puedan ser objeto o producto de delito.
 
 ### Artículo 233
 . Aseguramiento de objetos de gran tamaño Los objetos mencionados en el artículo precedente, después de que sean examinados, fotografiados, o videograbados podrán ser devueltos, con o sin reservas, al propietario, poseedor o al tenedor legítimo según el caso, previa demostración de la calidad invocada, siempre y cuando no hayan sido medios eficaces para la comisión del delito.
@@ -1533,7 +1532,7 @@ III. Que no exista oposición fundada para la devolución por parte de terceros.
 . Efectos del aseguramiento en actividades lícitas El aseguramiento no será causa para el cierre o suspensión de actividades de empresas, negociaciones o establecimientos con actividades lícitas.
 
 ### Artículo 240
-. Cosas no asegurables CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES No estarán sujetas al aseguramiento las comunicaciones y cualquier información que se genere o intercambie entre el imputado y las personas que no están obligadas a declarar como testigos por razón de parentesco, secreto profesional o cualquiera otra establecida en la ley. En todo caso, serán inadmisibles como fuente de información o medio de prueba.
+. Cosas no asegurables No estarán sujetas al aseguramiento las comunicaciones y cualquier información que se genere o intercambie entre el imputado y las personas que no están obligadas a declarar como testigos por razón de parentesco, secreto profesional o cualquiera otra establecida en la ley. En todo caso, serán inadmisibles como fuente de información o medio de prueba.
 No habrá lugar a estas excepciones cuando existan indicios de que las personas mencionadas en este artículo, distintas al imputado, estén involucradas como autoras o partícipes del hecho punible o existan indicios fundados de que están encubriéndolo ilegalmente.
 
 ### Artículo 241
@@ -1551,7 +1550,6 @@ Cuando se haya hecho constar el aseguramiento de los bienes en los registros pú
 La devolución de numerario comprenderá la entrega del principal y, en su caso, de sus rendimientos durante el tiempo en que haya sido administrado, a la tasa que cubra la Tesorería de la Federación por los depósitos a la vista que reciba.
 La autoridad que haya administrado empresas, negociaciones o establecimientos, al devolverlas rendirá cuentas de la administración que hubiere realizado a la persona que tenga derecho a ello, y le entregará los documentos, objetos, numerario y, en general, todo aquello que haya comprendido la administración.
 Previo a la recepción de los bienes por parte del interesado, se dará oportunidad a éste para que revise e inspeccione las condiciones en que se encuentren los mismos, a efecto de que verifique el inventario correspondiente.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ### Artículo 244
 . Bienes que hubieren sido enajenados o sobre los que exista imposibilidad de devolver Cuando se determine por la autoridad competente la devolución de los bienes que hubieren sido enajenados o haya imposibilidad para devolverlos, deberá cubrirse a la persona que tenga la titularidad del derecho de devolución el valor de los mismos, de conformidad con la legislación aplicable.
@@ -1574,7 +1572,7 @@ V. [La inspección de vehículos;] Fracción declarada inválida por sentencia d
 VII. La aportación de comunicaciones entre particulares;
 VIII. El reconocimiento de personas;
 IX. La entrega vigilada y las operaciones encubiertas, en el marco de una investigación y en los términos que establezcan los protocolos emitidos para tal efecto por el Fiscal General de Justicia Militar;
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES X. La entrevista a testigos, y XI. Las demás en las que expresamente no se prevea control judicial.
+X. La entrevista a testigos, y XI. Las demás en las que expresamente no se prevea control judicial.
 En los casos de la fracción IX, dichas actuaciones deberán ser autorizadas por el Fiscal General de Justicia Militar o por el servidor público en quien éste delegue dicha facultad.
 Para los efectos de la fracción X de este artículo, cuando un testigo se niegue a ser entrevistado, será citado por el Ministerio Público o en su caso por el Juez de control en los términos que prevé el presente Código.
 
@@ -1601,7 +1599,7 @@ Artículo reformado DOF 16-07-2025
 . No ejercicio de la acción Antes de la audiencia inicial, el Ministerio Público podrá decretar el no ejercicio de la acción penal cuando de los antecedentes del caso le permitan concluir que en el caso concreto se actualiza alguna de las causales de sobreseimiento previstas en este Código.
 
 ### Artículo 252
-. Casos en que operan los criterios de oportunidad CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Iniciada la investigación y previo análisis objetivo de los datos que consten en la misma, conforme a las disposiciones normativas de la Fiscalía General de Justicia Militar, el Ministerio Público podrá no ejercer la acción penal sobre la base de aplicación de criterios de oportunidad.
+. Casos en que operan los criterios de oportunidad Iniciada la investigación y previo análisis objetivo de los datos que consten en la misma, conforme a las disposiciones normativas de la Fiscalía General de Justicia Militar, el Ministerio Público podrá no ejercer la acción penal sobre la base de aplicación de criterios de oportunidad.
 La aplicación de los criterios de oportunidad será procedente en cualquiera de los siguientes supuestos:
 I. Se trate de un delito que no tenga pena privativa de libertad, tenga pena alternativa o tenga pena privativa de libertad cuya punibilidad máxima sea de cinco años de prisión, siempre que el delito no se haya cometido con violencia.
 II. Se trate de delitos de contenido patrimonial cometidos sin violencia sobre el personal militar o de delitos no intencionales o de imprudencia, siempre que la persona militar imputada no hubiere actuado en estado de ebriedad, bajo el influjo de narcóticos o de cualquier otra sustancia que produzca efectos similares.
@@ -1613,7 +1611,7 @@ VII. Cuando la continuidad del proceso o la aplicación de la pena sea irrelevan
 VIII. En campaña, cuando la fiscalía militar considere que los hechos que se investigan son de menor importancia respecto del beneficio que los servicios del imputado podría prestar en beneficio de las operaciones militares.
 No podrá aplicarse el criterio de oportunidad en los casos de delitos que afecten gravemente a la disciplina militar o el interés público.
 El Ministerio Público aplicará los criterios de oportunidad sobre la base de razones objetivas y sin discriminación, valorando las circunstancias especiales en cada caso, de conformidad con lo dispuesto Fiscalía General de Justicia Militar.
-Párrafo reformado DOF 16-07-2025 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES La aplicación de los criterios de oportunidad podrán ordenarse en cualquier momento y hasta antes de que se dicte el auto de apertura a juicio.
+Párrafo reformado DOF 16-07-2025 La aplicación de los criterios de oportunidad podrán ordenarse en cualquier momento y hasta antes de que se dicte el auto de apertura a juicio.
 La aplicación de los criterios de oportunidad deberá ser autorizada por la Persona titular de la Fiscalía General de Justicia Militar o por la persona servidora pública en quien se delegue esta facultad, en términos de la normatividad aplicable.
 Párrafo reformado DOF 16-07-2025
 
@@ -1633,7 +1631,7 @@ DE LOS DATOS DE PRUEBA, MEDIOS DE PRUEBA Y PRUEBAS CAPÍTULO ÚNICO DISPOSICIONE
 . Generalidades Cualquier hecho puede ser probado por cualquier medio, siempre y cuando sea lícito.
 Las pruebas serán valoradas por el Órgano jurisdiccional de manera libre y lógica.
 Los antecedentes de la investigación recabados con anterioridad al juicio carecen de valor probatorio para fundar la sentencia definitiva, salvo las excepciones expresas previstas por este Código y en la legislación aplicable.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Para efectos del dictado de la sentencia definitiva, sólo serán valoradas aquellas pruebas que hayan sido desahogadas en la audiencia de juicio, salvo las excepciones previstas en este Código.
+Para efectos del dictado de la sentencia definitiva, sólo serán valoradas aquellas pruebas que hayan sido desahogadas en la audiencia de juicio, salvo las excepciones previstas en este Código.
 
 ### Artículo 256
 . Antecedente de investigación El antecedente de investigación es todo registro incorporado en la carpeta de investigación que sirve de sustento para aportar datos de prueba.
@@ -1664,7 +1662,7 @@ DISPOSICIONES GENERALES SOBRE ACTOS DE MOLESTIA
 
 ### Artículo 262
 . Actos de molestia Todo acto de molestia deberá llevarse a cabo con respeto a la dignidad de la persona en cuestión.
-Antes de que el procedimiento se lleve a cabo, la autoridad deberá informarle sobre los derechos que le CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES asisten y solicitar su cooperación. Se realizará un registro forzoso sólo si la persona militar no está dispuesta a cooperar o se resiste, realizándolo por personal del mismo sexo.
+Antes de que el procedimiento se lleve a cabo, la autoridad deberá informarle sobre los derechos que le asisten y solicitar su cooperación. Se realizará un registro forzoso sólo si la persona militar no está dispuesta a cooperar o se resiste, realizándolo por personal del mismo sexo.
 Artículo reformado DOF 16-07-2025
 
 ## CAPÍTULO II
@@ -1684,7 +1682,7 @@ Se deberá informar previamente el motivo de la aportación y del derecho que ti
 Las muestras o imágenes deberán ser obtenidas por personal especializado, mismo que en todo caso deberá de ser del mismo sexo, o del sexo que la persona elija, con estricto apego al respeto a la dignidad y a los derechos humanos y de conformidad con los protocolos que al efecto se expidan. Las muestras o imágenes obtenidas serán analizadas y dictaminadas por los peritos en la materia.
 
 ### Artículo 266
-. Toma de muestras cuando la persona requerida se niegue a proporcionarlas Si la persona militar imputada a la que se le hubiere solicitado la aportación voluntaria de las muestras referidas en el artículo anterior se negara a hacerlo, el Ministerio Público por sí o a solicitud de la Policía ministerial militar podrá solicitar al Órgano jurisdiccional militar, por cualquier medio, la inmediata autorización de la práctica de dicho acto de investigación, justificando la necesidad de la medida y expresando la persona o personas en quienes haya de practicarse, el tipo y extensión de muestra o imagen a obtener. De concederse la autorización requerida, el Órgano jurisdiccional militar deberá facultar al Ministerio Público para que, en el caso de que la persona a inspeccionar ya no se encuentre CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES ante él, ordene su localización y comparecencia a efecto de que tenga verificativo el acto correspondiente.
+. Toma de muestras cuando la persona requerida se niegue a proporcionarlas Si la persona militar imputada a la que se le hubiere solicitado la aportación voluntaria de las muestras referidas en el artículo anterior se negara a hacerlo, el Ministerio Público por sí o a solicitud de la Policía ministerial militar podrá solicitar al Órgano jurisdiccional militar, por cualquier medio, la inmediata autorización de la práctica de dicho acto de investigación, justificando la necesidad de la medida y expresando la persona o personas en quienes haya de practicarse, el tipo y extensión de muestra o imagen a obtener. De concederse la autorización requerida, el Órgano jurisdiccional militar deberá facultar al Ministerio Público para que, en el caso de que la persona a inspeccionar ya no se encuentre ante él, ordene su localización y comparecencia a efecto de que tenga verificativo el acto correspondiente.
 Párrafo reformado DOF 16-07-2025 El Órgano jurisdiccional militar al resolver respecto de la solicitud del Ministerio Público, deberá tomar en consideración el principio de proporcionalidad y motivar la necesidad de la aplicación de dicha medida, en el sentido de que no existe otra menos gravosa para la persona que habrá de ser examinada o para la persona militar imputada, que resulte igualmente eficaz e idónea para el fin que se persigue, justificando la misma en atención a la gravedad del hecho que se investiga.
 Párrafo reformado DOF 16-07-2025 En la toma de muestras podrá estar presente una persona de confianza de la examinada o su persona defensora en caso de que se trate de la persona militar imputada, quien será advertida previamente de tal derecho. A falta de alguno de éstos deberá estar presente el Ministerio Público.
 Párrafo reformado DOF 16-07-2025 En caso de personas inimputables que tengan alguna capacidad se proveerá de los apoyos necesarios para que puedan tomar la decisión correspondiente.
@@ -1703,7 +1701,6 @@ Cuando se desconozca la identidad del cadáver, se efectuarán los peritajes id�
 
 ### Artículo 268
 . Peritajes Durante la investigación, el Ministerio Público o la Policía ministerial militar con conocimiento de éste, podrá disponer la práctica de los peritajes que sean necesarios para la investigación del hecho. El dictamen escrito no exime al perito del deber de concurrir a declarar en la audiencia de juicio.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ### Artículo 269
 . Acceso a los indicios Los peritos que elaboren los dictámenes tendrán en todo momento acceso a los indicios sobre los que versarán los mismos, o a los que se hará referencia en el interrogatorio.
@@ -1724,7 +1721,7 @@ No se viola el deber de confidencialidad cuando se cuente con el consentimiento 
 ### Artículo 273
 . Procedimiento para reconocer personas El reconocimiento de personas deberá practicarse con la mayor reserva posible.
 El reconocimiento procederá aún sin consentimiento de la persona militar imputada, pero siempre en presencia de su persona defensora. Quien sea citado para efectuar un reconocimiento deberá ser ubicado en un lugar desde el cual no sea visto por las personas susceptibles de ser reconocidas. Se adoptarán las previsiones necesarias para que la persona militar imputada no altere u oculte su apariencia.
-Párrafo reformado DOF 16-07-2025 El reconocimiento deberá presentar a la persona militar imputada en conjunto con otras personas con características físicas similares salvo que las condiciones de la investigación no lo permitan, lo que deberá quedar asentado en el registro correspondiente de la diligencia. En todos los procedimientos de CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES reconocimiento, el acto deberá realizarse por una autoridad ministerial distinta a la que dirige la investigación. La práctica de filas de identificación se deberá realizar de manera secuencial.
+Párrafo reformado DOF 16-07-2025 El reconocimiento deberá presentar a la persona militar imputada en conjunto con otras personas con características físicas similares salvo que las condiciones de la investigación no lo permitan, lo que deberá quedar asentado en el registro correspondiente de la diligencia. En todos los procedimientos de reconocimiento, el acto deberá realizarse por una autoridad ministerial distinta a la que dirige la investigación. La práctica de filas de identificación se deberá realizar de manera secuencial.
 Párrafo reformado DOF 16-07-2025 Todos los procedimientos de identificación deberán registrarse y en dicho registro deberá constar el nombre de la autoridad que estuvo a cargo, del testigo ocular, de las personas que participaron en la fila de identificación y, en su caso, de la persona defensora.
 Párrafo reformado DOF 16-07-2025
 
@@ -1750,7 +1747,7 @@ Si el lugar a inspeccionar es de acceso público y forma parte del domicilio par
 ### Artículo 279
 . Resolución que ordena el cateo La resolución judicial que ordena el cateo deberá contener cuando menos:
 I. El nombre y cargo del Juez de control que lo autoriza y la identificación del expediente en el cual se ordena.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES II. La determinación concreta del lugar o los lugares que habrán de ser cateados y lo que se espera encontrar en estos.
+II. La determinación concreta del lugar o los lugares que habrán de ser cateados y lo que se espera encontrar en estos.
 III. El motivo del cateo, debiéndose indicar o expresar los indicios de los que se desprenda la posibilidad de encontrar en el lugar la persona o personas que hayan de aprehenderse o los objetos que se buscan.
 IV. El día y la hora en que deba practicarse el cateo o la determinación que de no ejecutarse dentro de los tres días siguientes a su autorización, quedará sin efecto cuando no se precise fecha exacta de realización.
 V. Los servidores públicos autorizados para practicar e intervenir en el cateo.
@@ -1772,7 +1769,7 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 284
 . Formalidades del cateo Será entregada una copia de los puntos resolutivos de la orden de cateo a quien habite o esté en posesión del lugar donde se efectúe, o cuando esté ausente, a su encargado y, a falta de éste, a cualquier persona mayor de edad que se halle en el lugar.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Cuando no se encuentre persona alguna, se fijará la copia de los puntos resolutivos que autorizan el cateo a la entrada del inmueble, debiendo hacerse constar en el acta y se hará uso de la fuerza pública para ingresar.
+Cuando no se encuentre persona alguna, se fijará la copia de los puntos resolutivos que autorizan el cateo a la entrada del inmueble, debiendo hacerse constar en el acta y se hará uso de la fuerza pública para ingresar.
 Al concluir el cateo se levantará acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique el cateo, pero la designación no podrá recaer sobre los elementos que pertenezcan a la autoridad que lo practicó, salvo que no hayan participado en el mismo. Cuando no se cumplan estos requisitos, los elementos encontrados en el cateo carecerán de todo valor probatorio, sin que sirva de excusa el consentimiento de los ocupantes del lugar.
 Al terminar el cateo se cuidará que los lugares queden cerrados, y de no ser posible inmediatamente, se asegurará que otras personas no ingresen en el lugar hasta lograr el cierre.
 Si para la práctica del cateo es necesaria la presencia de alguna persona diferente a las personas servidoras públicas propuestas para ello, el Ministerio Público deberá incluir los datos de aquellas, así como la motivación correspondiente en la solicitud del acto de investigación.
@@ -1791,7 +1788,7 @@ En los casos de la fracción II, la autoridad que practique el ingreso deberá i
 Los motivos que determinaron la inspección sin orden judicial constarán detalladamente en el acta que al efecto se levante.
 
 ### Artículo 287
-. Intervención de las comunicaciones privadas respecto de hechos que se investigan, probablemente cometidos por personal militar, en el ámbito de competencia de la jurisdicción militar CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Epígrafe reformado DOF 16-07-2025 Cuando en la investigación el Ministerio Público considere necesaria la intervención de comunicaciones privadas, el o la Titular de la Fiscalía General de Justicia Militar o a quien se delegue ésta, podrán solicitar a la Persona Juzgadora de Control competente, por cualquier medio, la autorización para practicar la intervención, expresando el objeto y necesidad de la misma.
+. Intervención de las comunicaciones privadas respecto de hechos que se investigan, probablemente cometidos por personal militar, en el ámbito de competencia de la jurisdicción militar Epígrafe reformado DOF 16-07-2025 Cuando en la investigación el Ministerio Público considere necesaria la intervención de comunicaciones privadas, el o la Titular de la Fiscalía General de Justicia Militar o a quien se delegue ésta, podrán solicitar a la Persona Juzgadora de Control competente, por cualquier medio, la autorización para practicar la intervención, expresando el objeto y necesidad de la misma.
 Párrafo reformado DOF 16-07-2025 La intervención de comunicaciones privadas, abarca todo un sistema de comunicación, o programas que sean fruto de la evolución tecnológica, que permitan el intercambio de datos, informaciones, audio, video, mensajes, así como archivos electrónicos, que graben, conserven el contenido de las conversaciones o registren datos que identifiquen la comunicación, las cuales se pueden presentar en tiempo real o con posterioridad al momento en que se produce el proceso comunicativo.
 También se requerirá autorización judicial en los casos de extracción de información, la cual consiste en la obtención de comunicaciones privadas, datos de identificación de las comunicaciones; así como la información, documentos, archivos de texto, audio, imagen o video contenidos en cualquier dispositivo, accesorio, aparato electrónico, equipo informático, aparato de almacenamiento y todo aquello que pueda contener información, incluyendo la almacenada en las plataformas o centros de datos remotos vinculados con éstos.
 La solicitud deberá ser resuelta por la Persona Juzgadora de Control de manera inmediata, por cualquier medio que garantice su autenticidad, o en audiencia privada con la sola comparecencia del Ministerio Público, en un plazo que no exceda de las seis horas siguientes a que la haya recibido.
@@ -1808,7 +1805,7 @@ El plazo de la intervención, incluyendo sus prórrogas, no podrá exceder de se
 Artículo reformado DOF 16-07-2025
 
 ### Artículo 290
-. Objeto de la intervención respecto de hechos que se investigan, probablemente cometidos por personal de la Fuerza Armada Permanente, en el ámbito de competencia de la justicia castrense CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Epígrafe reformado DOF 16-07-2025 Podrán ser objeto de intervención las comunicaciones privadas que se realicen de forma oral, escrita, por signos, señales o mediante el empleo de aparatos eléctricos, electrónicos, mecánicos, alámbricos o inalámbricos, sistemas o equipos informáticos, así como por cualquier otro medio o forma que permita la comunicación entre uno o varios emisores y uno o varios receptores.
+. Objeto de la intervención respecto de hechos que se investigan, probablemente cometidos por personal de la Fuerza Armada Permanente, en el ámbito de competencia de la justicia castrense Epígrafe reformado DOF 16-07-2025 Podrán ser objeto de intervención las comunicaciones privadas que se realicen de forma oral, escrita, por signos, señales o mediante el empleo de aparatos eléctricos, electrónicos, mecánicos, alámbricos o inalámbricos, sistemas o equipos informáticos, así como por cualquier otro medio o forma que permita la comunicación entre uno o varios emisores y uno o varios receptores.
 La intervención de comunicaciones privadas a que se refiere este capítulo, solo podrá autorizarse en la investigación de delitos de la competencia de los Órganos Jurisdiccionales Militares.
 La Persona Juzgadora de Control podrá en cualquier momento verificar que las intervenciones sean realizadas en los términos autorizados y, en caso de incumplimiento, decretar su revocación parcial o total.
 Párrafo reformado DOF 16-07-2025
@@ -1828,7 +1825,7 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 295
 . [Conclusión de la intervención Al concluir la intervención, la Policía ministerial militar o el perito, de manera inmediata, informará al Ministerio Público sobre su desarrollo, así como de sus resultados y levantará el acta respectiva. A su vez, con la misma prontitud el Ministerio Público que haya solicitado la intervención o su prórroga lo informará al Juez de control.
-Las intervenciones realizadas sin las autorizaciones antes citadas o fuera de los términos en ellas ordenados, carecerán de valor probatorio, sin perjuicio de la responsabilidad administrativa o penal a que haya lugar.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023 CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
+Las intervenciones realizadas sin las autorizaciones antes citadas o fuera de los términos en ellas ordenados, carecerán de valor probatorio, sin perjuicio de la responsabilidad administrativa o penal a que haya lugar.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023
 
 ### Artículo 296
 . [Destrucción de los registros El Órgano jurisdiccional militar ordenará la destrucción de aquellos registros de intervención de comunicaciones privadas que no se relacionen con los delitos investigados o con otros delitos que hayan ameritado la apertura de una investigación diversa, salvo que la defensa solicite que sean preservados por considerarlos útiles para su labor.
@@ -1847,7 +1844,7 @@ El incumplimiento a este mandato será sancionado conforme a las disposiciones p
 En la solicitud se expresarán los equipos de comunicación móvil relacionados con los hechos que se investigan, señalando los motivos e indicios que sustentan la necesidad de la localización geográfica en tiempo real o la entrega de los datos conservados, su duración y, en su caso, la denominación de la empresa autorizada o proveedora del servicio de telecomunicaciones a través del cual se operan las líneas, números o aparatos que serán objeto de la medida.
 La petición deberá ser resuelta por la autoridad judicial de manera inmediata por cualquier medio que garantice su autenticidad, o en audiencia privada con la sola comparecencia del Ministerio Público, en un plazo que no exceda de las seis horas siguientes a que se haya recibido.
 Si la resolución se emite o registra por medios diversos al escrito, los puntos resolutivos de la orden deberán transcribirse y entregarse al Ministerio Público.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES En caso de que el Juez de control niegue la orden de localización geográfica en tiempo real o la entrega de los datos conservados, el Ministerio Público podrá subsanar las deficiencias y solicitar nuevamente la orden o podrá apelar la decisión. En este caso la apelación debe ser resuelta en un plazo no mayor de doce horas a partir de que se interponga.
+En caso de que el Juez de control niegue la orden de localización geográfica en tiempo real o la entrega de los datos conservados, el Ministerio Público podrá subsanar las deficiencias y solicitar nuevamente la orden o podrá apelar la decisión. En este caso la apelación debe ser resuelta en un plazo no mayor de doce horas a partir de que se interponga.
 Excepcionalmente, cuando esté en peligro la integridad física o la vida de personal militar o se encuentre en riesgo el objeto del delito, el Fiscal General de Justicia Militar, o el servidor público en quien se delegue la facultad, bajo su más estricta responsabilidad, formulará directamente la solicitud de localización geográfica en tiempo real o la entrega de los datos conservados a los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios de aplicaciones y contenidos, quienes deberán atenderla de inmediato y con la suficiencia necesaria. A partir de que se haya cumplimentado el requerimiento, el Ministerio Público deberá hacerlo del conocimiento del Juez de control competente dentro del plazo de seis horas a efecto de que ratifique, modifique o revoque la subsistencia de la medida.
 Asimismo, el Fiscal General de Justicia Militar, o el servidor público en quien se delegue la facultad podrá requerir a los sujetos obligados que establece la Ley Federal de Telecomunicaciones y Radiodifusión, la conservación inmediata de datos contenidos en redes, sistemas o equipos de informática, hasta por un tiempo máximo de noventa días, lo cual deberá realizarse de forma inmediata.
 La solicitud y entrega de los datos contenidos en redes, sistemas o equipos de informática se llevará a cabo de conformidad por lo previsto en este artículo.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023
@@ -1864,7 +1861,7 @@ IV. Que se practique en audiencia y en cumplimiento de las reglas previstas para
 
 ### Artículo 301
 . Procedimiento para prueba anticipada La solicitud de desahogo de prueba anticipada podrá plantearse desde que se presenta la denuncia, querella o equivalente y hasta antes de que dé inicio la audiencia de juicio oral.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Cuando se solicite el desahogo de una prueba en forma anticipada, el Órgano jurisdiccional militar citará a audiencia a todas aquellas personas que tuvieren derecho a asistir a la audiencia de juicio oral y luego de escucharlos valorará la posibilidad de que la prueba por anticipar no pueda ser desahogada en la audiencia de juicio oral, sin grave riesgo de pérdida por la demora y, en su caso, admitirá y desahogará la prueba en el mismo acto otorgando a las partes todas las facultades previstas para su participación en la audiencia de juicio oral.
+Cuando se solicite el desahogo de una prueba en forma anticipada, el Órgano jurisdiccional militar citará a audiencia a todas aquellas personas que tuvieren derecho a asistir a la audiencia de juicio oral y luego de escucharlos valorará la posibilidad de que la prueba por anticipar no pueda ser desahogada en la audiencia de juicio oral, sin grave riesgo de pérdida por la demora y, en su caso, admitirá y desahogará la prueba en el mismo acto otorgando a las partes todas las facultades previstas para su participación en la audiencia de juicio oral.
 La persona militar imputada que estuviere detenida será trasladada a la sala de audiencias para que se imponga en forma personal, por teleconferencia o cualquier otro medio de comunicación, de la práctica de la diligencia.
 En caso de que todavía no exista persona militar imputada identificada se designará una persona defensora de oficio militar para que intervenga en la audiencia.
 Artículo reformado DOF 16-07-2025
@@ -1887,7 +1884,7 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 304
 . Control de legalidad de la detención Inmediatamente después de que la persona militar imputada en flagrancia o caso urgente sea puesta a disposición de la Persona Juzgadora de Control, se citará a la audiencia inicial en la que se realizará el control de la detención antes de que se proceda a la formulación de la imputación. La Persona Juzgadora de Control le preguntará a la persona militar imputada si cuenta con persona defensora y en caso negativo, ordenará que se le nombre una persona defensora de oficio militar y le hará saber que tiene derecho a ofrecer datos de prueba, así como acceso a los registros.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES El Ministerio Público deberá justificar las razones de la detención y la Persona Juzgadora de Control procederá a calificarla, examinará el cumplimiento del plazo constitucional de retención y los requisitos de procedibilidad, ratificándola en caso de encontrarse ajustada a derecho o decretando la libertad en los términos previstos en este Código.
+El Ministerio Público deberá justificar las razones de la detención y la Persona Juzgadora de Control procederá a calificarla, examinará el cumplimiento del plazo constitucional de retención y los requisitos de procedibilidad, ratificándola en caso de encontrarse ajustada a derecho o decretando la libertad en los términos previstos en este Código.
 Ratificada la detención en flagrancia, o caso urgente, y cuando se hubiere ejecutado una orden de aprehensión, la persona militar imputada permanecerá detenido durante el desarrollo de la audiencia inicial, hasta en tanto no se resuelva si será o no sometida a una medida cautelar.
 En caso de que al inicio de la audiencia el agente del Ministerio Público no esté presente, la Persona Juzgadora de Control declarará en receso la audiencia hasta por una hora y se comunicará con el superior jerárquico de aquél, con el propósito de que lo haga comparecer o lo sustituya. Concluido el receso sin obtener respuesta, se procederá a la inmediata liberación de la persona detenida.
 Artículo reformado DOF 16-07-2025
@@ -1905,7 +1902,7 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 306
 . Oportunidad para formular la imputación a personas en libertad El agente del Ministerio Público podrá formular la imputación cuando considere oportuna la intervención judicial con el propósito de resolver la situación jurídica de la persona militar imputada.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Si el Ministerio Público manifestare interés en formular imputación a una persona que no se encontrare detenida, solicitará a la Persona Juzgadora de Control que lo cite en libertad y señale fecha y hora para que tenga verificativo la audiencia inicial, la que se llevará a cabo dentro de los quince días siguientes a la presentación de la solicitud.
+Si el Ministerio Público manifestare interés en formular imputación a una persona que no se encontrare detenida, solicitará a la Persona Juzgadora de Control que lo cite en libertad y señale fecha y hora para que tenga verificativo la audiencia inicial, la que se llevará a cabo dentro de los quince días siguientes a la presentación de la solicitud.
 Cuando lo considere necesario, para lograr la presencia de la persona militar imputada en la audiencia inicial, el agente del Ministerio Público podrá solicitar orden de aprehensión o de comparecencia, según sea el caso y la Persona Juzgadora de Control resolverá lo que corresponda. Las solicitudes y resoluciones deberán realizarse en los términos del presente Código.
 Artículo reformado DOF 16-07-2025
 
@@ -1920,7 +1917,7 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 309
 . Oportunidad para resolver la solicitud de vinculación a proceso Después de que la persona militar imputada haya emitido su declaración, o manifestado su deseo de no hacerlo, el agente del Ministerio Público solicitará a la persona juzgadora militar de control la oportunidad para discutir medidas cautelares, en su caso, y posteriormente solicitar la vinculación a proceso. Antes de escuchar al agente del Ministerio Público, la Persona Juzgadora de Control se dirigirá a la persona militar imputada y le explicará los momentos en los cuales puede resolverse la solicitud que desea plantear el Ministerio Público.
-La Persona Juzgadora de Control cuestionará a la persona militar imputada si desea que se resuelva sobre su vinculación a proceso en esa audiencia dentro del plazo de setenta y dos horas o si solicita la ampliación de dicho plazo. En caso de que la persona militar imputada no se acoja al plazo constitucional ni solicite la duplicidad del mismo, el Ministerio Público deberá solicitar y motivar la vinculación de la persona militar imputada a proceso, exponiendo en la misma audiencia los datos de prueba con los que considera que se establece un hecho que la ley señale como delito y la probabilidad de que la persona militar imputada lo cometió o participó en su comisión. La Persona Juzgadora de Control otorgará la CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES oportunidad a la defensa para que conteste la solicitud y si considera necesario permitirá la réplica y contrarréplica. Hecho lo anterior, resolverá la situación jurídica del imputado.
+La Persona Juzgadora de Control cuestionará a la persona militar imputada si desea que se resuelva sobre su vinculación a proceso en esa audiencia dentro del plazo de setenta y dos horas o si solicita la ampliación de dicho plazo. En caso de que la persona militar imputada no se acoja al plazo constitucional ni solicite la duplicidad del mismo, el Ministerio Público deberá solicitar y motivar la vinculación de la persona militar imputada a proceso, exponiendo en la misma audiencia los datos de prueba con los que considera que se establece un hecho que la ley señale como delito y la probabilidad de que la persona militar imputada lo cometió o participó en su comisión. La Persona Juzgadora de Control otorgará la oportunidad a la defensa para que conteste la solicitud y si considera necesario permitirá la réplica y contrarréplica. Hecho lo anterior, resolverá la situación jurídica del imputado.
 Si la persona militar imputada manifestó su deseo de que se resuelva sobre su vinculación a proceso dentro del plazo de setenta y dos horas o solicita la ampliación de dicho plazo, la Persona Juzgadora de Control deberá señalar fecha para la celebración de la audiencia de vinculación a proceso dentro de dicho plazo o su prórroga.
 La audiencia de vinculación a proceso deberá celebrarse, según sea el caso, dentro de las setenta y dos o ciento cuarenta y cuatro horas siguientes a que la persona militar imputada detenida fue puesta a su disposición o que la persona militar imputada compareció a la audiencia de formulación de la imputación. Si la persona militar imputada requiere del auxilio judicial para citar testigos o peritos a la audiencia de vinculación a proceso, deberá solicitar dicho auxilio al menos con cuarenta y ocho horas de anticipación a la hora y fecha señaladas para la celebración de la audiencia. En caso contrario, deberá presentar sus medios de prueba a la audiencia de vinculación a proceso.
 La Persona Juzgadora de Control deberá informar a la autoridad responsable del establecimiento en el que se encuentre internada la persona militar imputada si al resolverse su situación jurídica además se le impuso como medida cautelar la prisión preventiva o si se solicita la duplicidad del plazo constitucional.
@@ -1940,7 +1937,7 @@ En casos de extrema complejidad, el Juez de control podrá decretar un receso qu
 ### Artículo 312
 . Requisitos para dictar el auto de vinculación a proceso El Juez de control, a petición del agente del Ministerio Público, dictará el auto de vinculación del imputado a proceso, siempre que:
 I. Se haya formulado la imputación.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES II. Se haya otorgado al imputado la oportunidad para declarar.
+II. Se haya otorgado al imputado la oportunidad para declarar.
 III. De los antecedentes de la investigación expuestos por el Ministerio Público, se desprendan datos de prueba que establezcan que se ha cometido un hecho que la ley señala como delito y que exista la probabilidad de que el imputado lo cometió o participó en su comisión. Se entenderá que obran datos que establecen que se ha cometido un hecho que la ley señale como delito cuando existan indicios razonables que así permitan suponerlo.
 IV. Que no se actualice una causa de extinción de la acción penal o excluyente del delito.
 El auto de vinculación a proceso deberá dictarse por el hecho o hechos que fueron motivo de la imputación, el Juez de control podrá otorgarles una clasificación jurídica distinta a la asignada por el Ministerio Público, misma que deberá hacerse saber al imputado para los efectos de su defensa.
@@ -1964,7 +1961,7 @@ El auto de no vinculación a proceso no impide que el Ministerio Público contin
 
 ### Artículo 317
 . Plazo para la investigación complementaria El Juez de control, antes de finalizar la audiencia inicial determinará, previa propuesta de las partes, el plazo para el cierre de la investigación complementaria.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES El Ministerio Público deberá concluir la investigación complementaria dentro del plazo señalado por el Juez de control, mismo que no podrá ser mayor a dos meses si se tratare de delitos cuya pena máxima no exceda los dos años de prisión, ni de seis meses si la pena máxima excediera ese tiempo o podrá agotar dicha investigación antes de su vencimiento.
+El Ministerio Público deberá concluir la investigación complementaria dentro del plazo señalado por el Juez de control, mismo que no podrá ser mayor a dos meses si se tratare de delitos cuya pena máxima no exceda los dos años de prisión, ni de seis meses si la pena máxima excediera ese tiempo o podrá agotar dicha investigación antes de su vencimiento.
 Transcurrido el plazo para el cierre de la investigación, ésta se dará por cerrada, salvo que el Ministerio Público, la víctima u ofendido o el imputado haya solicitado justificadamente prórroga del mismo antes de finalizar el plazo, observándose los límites máximos que establece el presente artículo.
 En caso de que el Ministerio Público considere cerrar anticipadamente la investigación, informará a la víctima u ofendido o al imputado para que, en su caso, manifiesten lo conducente.
 
@@ -1988,7 +1985,6 @@ Transcurrido este plazo sin que se haya pronunciado, el Juez de control ordenar�
 
 ### Artículo 322
 . Peticiones diversas a la acusación Cuando únicamente se formulen peticiones diversas a la acusación del Ministerio Público, el Juez de control resolverá sin sustanciación lo que corresponda, salvo disposición en contrario o que estime indispensable realizar audiencia, en cuyo caso convocará a las partes.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ### Artículo 323
 . Sobreseimiento El Ministerio Público, el imputado o su Defensor podrán solicitar al Órgano jurisdiccional militar el sobreseimiento de una causa; recibida la solicitud, el Órgano jurisdiccional militar la notificará a las partes y citará, dentro de las veinticuatro horas siguientes, a una audiencia donde se resolverá lo conducente.
@@ -2015,7 +2011,7 @@ Si el sobreseimiento fuere parcial, se continuará el proceso respecto de aquell
 ### Artículo 326
 . Facultades del Juez de control respecto del sobreseimiento El Juez de control, al pronunciarse sobre la solicitud de sobreseimiento planteada por cualquiera de las partes, podrá rechazarlo o bien decretar el sobreseimiento incluso por motivo distinto del planteado conforme a lo previsto en este Código.
 Si la víctima u ofendido se opone a la solicitud de sobreseimiento formulada por el Ministerio Público, el imputado o su Defensor, el Juez de control se pronunciará con base en los argumentos expuestos por las partes y el mérito de la causa.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Si el Juez de control admite las objeciones de la víctima u ofendido, denegará la solicitud de sobreseimiento.
+Si el Juez de control admite las objeciones de la víctima u ofendido, denegará la solicitud de sobreseimiento.
 De no mediar oposición, la solicitud de sobreseimiento se declarará procedente sin perjuicio del derecho de las partes a recurrir.
 
 ### Artículo 327
@@ -2042,7 +2038,7 @@ OBJETO
 
 ### Artículo 330
 . Objeto de la etapa intermedia La etapa intermedia tiene por objeto el ofrecimiento y admisión de los medios de prueba, así como la depuración de los hechos controvertidos que serán materia del juicio.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Esta etapa se compondrá de dos fases, una escrita y otra oral. La fase escrita iniciará con el escrito de acusación que formule el Ministerio Público y comprenderá todos los actos previos a la celebración de la audiencia intermedia. La segunda fase dará inicio con la celebración de la audiencia intermedia y culminará con el dictado del auto de apertura a juicio.
+Esta etapa se compondrá de dos fases, una escrita y otra oral. La fase escrita iniciará con el escrito de acusación que formule el Ministerio Público y comprenderá todos los actos previos a la celebración de la audiencia intermedia. La segunda fase dará inicio con la celebración de la audiencia intermedia y culminará con el dictado del auto de apertura a juicio.
 
 ### Artículo 331
 . Contenido de la acusación Una vez concluida la fase de investigación complementaria, si el Ministerio Público estima que la investigación aporta elementos para ejercer la acción penal contra el imputado, presentará la acusación.
@@ -2064,7 +2060,7 @@ La acusación sólo podrá formularse por los hechos y personas señaladas en el
 Si el Ministerio Público o, en su caso, la víctima u ofendido ofrecieran como medios de prueba la declaración de testigos o peritos, deberán presentar una lista identificándolos con nombre, apellidos, domicilio y modo de localizarlos, señalando además los puntos sobre los que versarán los interrogatorios.
 
 ### Artículo 332
-. Notificación de la acusación CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Una vez presentada la acusación, el Juez de control ordenará su notificación a las partes al día siguiente. Con dicha notificación se les entregará copia de la acusación.
+. Notificación de la acusación Una vez presentada la acusación, el Juez de control ordenará su notificación a las partes al día siguiente. Con dicha notificación se les entregará copia de la acusación.
 
 ### Artículo 333
 . Descubrimiento probatorio El descubrimiento probatorio consiste en la obligación que tienen las partes de mostrarse mutuamente los datos probatorios que pretenden ofrecer como prueba en la audiencia intermedia; en el caso del Ministerio Público, esta obligación implica dar a la defensa copia de los registros y acceso a las evidencias materiales recabadas durante la investigación con independencia del derecho que tiene el imputado de acceder a la carpeta de investigación en términos de lo previsto en esté Código. En el caso del imputado, esta obligación consiste en entregar materialmente al Ministerio Público copia de los registros y acceso a medios de prueba que ofrecerá en la audiencia intermedia.
@@ -2083,7 +2079,7 @@ III. Presentarle al Ministerio Público los medios de prueba que estime necesari
 IV. Solicitar el pago de la reparación del daño y cuantificar su monto.
 
 ### Artículo 335
-. Reglas generales de la coadyuvancia CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Si la víctima u ofendido se constituyera en coadyuvante del Ministerio Público, le serán aplicables en lo conducente las formalidades previstas para la acusación de aquél. El Juez de control deberá correr traslado de dicha solicitud a las partes.
+. Reglas generales de la coadyuvancia Si la víctima u ofendido se constituyera en coadyuvante del Ministerio Público, le serán aplicables en lo conducente las formalidades previstas para la acusación de aquél. El Juez de control deberá correr traslado de dicha solicitud a las partes.
 La coadyuvancia en la acusación por parte de la víctima u ofendido no alterará las facultades concedidas por este Código y demás legislación aplicable al Ministerio Público, ni lo eximirá de sus responsabilidades.
 Si se trata de varias víctimas u ofendidos podrán nombrar un representante común, siempre que no exista conflicto de intereses.
 
@@ -2105,7 +2101,7 @@ II. Las excepciones podrán ser planteadas y discutidas en la audiencia de juici
 Previa celebración de la audiencia intermedia, el Juez de control podrá, por una sola ocasión y a solicitud de la defensa, diferir, hasta por diez días, la celebración de la audiencia intermedia. Para tal efecto, la defensa deberá exponer las razones por las cuales ha requerido dicho diferimiento.
 
 ### Artículo 339
-. Inmediación en la audiencia intermedia CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES La audiencia intermedia será conducida por el Juez de control, quien la presidirá en su integridad y se desarrollará oralmente. Es indispensable la presencia permanente del Juez de control, el Ministerio Público y el Defensor durante la audiencia.
+. Inmediación en la audiencia intermedia La audiencia intermedia será conducida por el Juez de control, quien la presidirá en su integridad y se desarrollará oralmente. Es indispensable la presencia permanente del Juez de control, el Ministerio Público y el Defensor durante la audiencia.
 La víctima u ofendido o su Asesor jurídico deberán concurrir, pero su inasistencia no suspende el acto, aunque si ésta fue injustificada, se tendrá por desistida su pretensión en el caso de que se hubiera constituido como coadyuvante del Ministerio Público.
 
 ### Artículo 340
@@ -2125,7 +2121,7 @@ El Juez de control autorizará el acuerdo probatorio, siempre que lo considere j
 En estos casos, el Juez de control indicará en el auto de apertura del juicio los hechos que tendrán por acreditados, a los cuales deberá estarse durante la audiencia del juicio oral.
 
 ### Artículo 343
-. Exclusión de medios de prueba para la audiencia del debate Una vez examinados los medios de prueba ofrecidos y de haber escuchado a las partes, el Juez de control ordenará fundadamente que se excluyan de ser rendidos en la audiencia de juicio, aquellos medios de prueba que no se refieran directa o indirectamente al objeto de la investigación y sean útiles CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES para el esclarecimiento de los hechos, así como aquellos en los que se actualice alguno de los siguientes supuestos:
+. Exclusión de medios de prueba para la audiencia del debate Una vez examinados los medios de prueba ofrecidos y de haber escuchado a las partes, el Juez de control ordenará fundadamente que se excluyan de ser rendidos en la audiencia de juicio, aquellos medios de prueba que no se refieran directa o indirectamente al objeto de la investigación y sean útiles para el esclarecimiento de los hechos, así como aquellos en los que se actualice alguno de los siguientes supuestos:
 I. Cuando el medio de prueba se ofrezca para generar efectos dilatorios, en virtud de ser: a) Sobreabundante: por referirse a diversos medios de prueba del mismo tipo, testimonial o documental, que acrediten lo mismo, ya superado, en reiteradas ocasiones. b) Impertinentes: por no referirse a los hechos controvertidos. c) Innecesarias: por referirse a hechos públicos, notorios o incontrovertidos.
 II. Por haberse obtenido con violación a derechos fundamentales.
 III. Por haber sido declaradas nulas.
@@ -2144,7 +2140,7 @@ V. Los medios de prueba admitidos que deberán ser desahogados en la audiencia d
 VI. Los medios de pruebas que, en su caso, deban de desahogarse en la audiencia de individualización de las sanciones y de reparación del daño.
 VII. Las medidas de resguardo de identidad y datos personales que procedan en términos de este Código.
 VIII. Las personas que deban ser citadas a la audiencia de debate.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES IX. Las medidas cautelares que hayan sido impuestas al acusado.
+IX. Las medidas cautelares que hayan sido impuestas al acusado.
 El Juez de control hará llegar el mismo al Tribunal Militar de Juicio Oral competente dentro de los cinco días siguientes de haberse dictado y pondrá a su disposición los registros, así como al acusado.
 
 ## TÍTULO VIII
@@ -2173,7 +2169,7 @@ I. Se deba resolver una cuestión incidental que no pueda, por su naturaleza, re
 II. Tenga que practicarse algún acto fuera de la sala de audiencias, incluso porque se tenga la noticia de un hecho inesperado que torne indispensable una investigación complementaria y no sea posible cumplir los actos en el intervalo de dos sesiones.
 III. No comparezcan testigos, peritos o intérpretes, deba practicarse una nueva citación y sea imposible o inconveniente continuar el debate hasta que ellos comparezcan, incluso coactivamente por medio de la fuerza pública.
 IV. Uno o más de los integrantes del Tribunal Militar de Juicio Oral, el acusado o cualquiera de las partes se enfermen a tal extremo que no puedan continuar interviniendo en el debate.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES V. El defensor o el Ministerio Público no pueda ser reemplazado inmediatamente en el supuesto de la fracción anterior, o en caso de muerte o incapacidad permanente.
+V. El defensor o el Ministerio Público no pueda ser reemplazado inmediatamente en el supuesto de la fracción anterior, o en caso de muerte o incapacidad permanente.
 VI. Alguna catástrofe o algún hecho extraordinario torne imposible su continuación.
 El Tribunal Militar de Juicio Oral verificará la autenticidad de la causal de suspensión invocada, pudiendo para el efecto allegarse de los medios de prueba correspondientes para decidir sobre la suspensión, para lo cual deberá anunciar el día y la hora en que continuará la audiencia, lo que tendrá el efecto de citación para audiencia para todas las partes. Previo a reanudar la audiencia, quien la presida resumirá brevemente los actos cumplidos con anterioridad.
 El Tribunal Militar de Juicio Oral ordenará los aplazamientos que se requieran, indicando la hora en que continuará el debate. No será considerado aplazamiento ni suspensión el descanso de fin de semana y los días inhábiles de acuerdo con la legislación aplicable.
@@ -2196,7 +2192,7 @@ Si alguna de las partes en el debate se inconformara por la vía de revocación 
 I. Apercibimiento;
 II. Multa de veinte a cinco mil salarios mínimos;
 III. Expulsión de la sala de audiencia;
-IV. Arresto hasta por treinta y seis horas, o CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES V. Desalojo público de la sala de audiencia.
+IV. Arresto hasta por treinta y seis horas, o V. Desalojo público de la sala de audiencia.
 Si el infractor fuere el Ministerio Público, el acusado, su Defensor, la víctima u ofendido, y fuere necesario expulsarlos de la sala de audiencia, se aplicarán las reglas conducentes para el caso de su ausencia.
 Para los efectos del presente artículo, tanto la escolta como el personal militar que proporcione seguridad a la sala de audiencia acatarán de inmediato las órdenes que emita el Presidente del Tribunal Militar de Juicio Oral.
 En caso de que a pesar de las medidas adoptadas no se pudiera restablecer la orden, quien preside la audiencia la suspenderá hasta en tanto se encuentren reunidas las condiciones que permitan continuar con su curso normal.
@@ -2222,7 +2218,7 @@ Prueba testimonial
 
 ### Artículo 357
 . Deber de testificar Toda persona tendrá la obligación de concurrir al proceso cuando sea citado y de declarar la verdad de cuanto conozca y le sea preguntado; asimismo, no deberá ocultar hechos, circunstancias o cualquier otra información que sea relevante para la solución de la controversia, salvo disposición en contrario.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES El testigo no estará en la obligación de declarar sobre hechos por los que se le pueda fincar responsabilidad penal.
+El testigo no estará en la obligación de declarar sobre hechos por los que se le pueda fincar responsabilidad penal.
 
 ### Artículo 358
 . Facultad de abstención Podrán abstenerse de declarar el tutor, curador, pupilo, cónyuge, concubina o concubinario, conviviente del imputado, la persona que hubiere vivido de forma permanente con el imputado durante por lo menos dos años anteriores al hecho, sus parientes por consanguinidad en la línea recta ascendente o descendente hasta el cuarto grado y en la colateral por consanguinidad hasta el segundo grado inclusive, salvo que fueran denunciantes. Deberá informarse a las personas mencionadas de la facultad de abstención antes de declarar, pero si aceptan rendir testimonio no podrán negarse a contestar las preguntas formuladas.
@@ -2242,7 +2238,7 @@ Las autoridades están obligadas a auxiliar oportuna y diligentemente al Tribuna
 
 ### Artículo 362
 . Excepciones a la obligación de comparecencia No estarán obligados a comparecer en los términos previstos en los artículos anteriores y podrán declarar en la forma señalada para los testimonios especiales los siguientes:
-I. Respecto de los servidores públicos federales, el Presidente de la República; los Secretarios de Estado; el Fiscal General de la República; los Ministros de la Suprema Corte de Justicia de la CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Nación, y los Diputados y Senadores del Congreso de la Unión; los Magistrados del Tribunal Electoral del Poder Judicial de la Federación; los Consejeros del Instituto Nacional Electoral; los Comandantes de Mandos Territoriales, Aéreos y Navales; los Generales de División y Almirantes.
+I. Respecto de los servidores públicos federales, el Presidente de la República; los Secretarios de Estado; el Fiscal General de la República; los Ministros de la Suprema Corte de Justicia de la Nación, y los Diputados y Senadores del Congreso de la Unión; los Magistrados del Tribunal Electoral del Poder Judicial de la Federación; los Consejeros del Instituto Nacional Electoral; los Comandantes de Mandos Territoriales, Aéreos y Navales; los Generales de División y Almirantes.
 II. Respecto de los servidores públicos estatales, el Gobernador; los Secretarios de Estado; el Procurador General de Justicia o su equivalente; los Diputados de los Congresos locales e integrantes de la Asamblea Legislativa de la Ciudad de México; los Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral y los Consejeros del Instituto Electoral estatal.
 III. Los extranjeros que gozaren en el país de inmunidad diplomática, de conformidad con los Tratados sobre la materia.
 IV. Los que, por enfermedad grave u otro impedimento calificado por el Órgano jurisdiccional militar estén imposibilitados de hacerlo.
@@ -2262,7 +2258,7 @@ De igual forma, el Ministerio Público o la autoridad que corresponda adoptarán
 Prueba pericial
 
 ### Artículo 365
-. Prueba pericial CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Podrá ofrecerse la prueba pericial cuando, para el examen de personas, hechos, objetos o circunstancias relevantes para el proceso, fuere necesario o conveniente poseer conocimientos especiales en alguna ciencia, arte, técnica u oficio.
+. Prueba pericial Podrá ofrecerse la prueba pericial cuando, para el examen de personas, hechos, objetos o circunstancias relevantes para el proceso, fuere necesario o conveniente poseer conocimientos especiales en alguna ciencia, arte, técnica u oficio.
 
 ### Artículo 366
 . Título oficial o idoneidad Los peritos deberán poseer título oficial en la materia relativa al punto sobre el cual dictaminarán y no tener impedimentos para el ejercicio profesional, siempre que la ciencia, el arte, la técnica o el oficio sobre la que verse la pericia en cuestión esté reglamentada; en caso contrario, deberá designarse a una persona de idoneidad manifiesta y que preferentemente pertenezca a un gremio o agrupación relativa a la actividad sobre la que verse la pericia.
@@ -2282,7 +2278,7 @@ Durante la audiencia, los peritos y testigos deberán ser interrogados personalm
 ### Artículo 369
 . Desarrollo de interrogatorio Otorgada la protesta y realizada su identificación, el juzgador que presida la audiencia de juicio concederá la palabra a la parte que propuso el testigo, perito o al acusado para que lo interrogue, y con posterioridad a los demás sujetos que intervienen en el proceso, respetándose siempre el orden asignado. La parte contraria podrá inmediatamente después contrainterrogar al testigo, perito o al acusado.
 Los testigos, peritos o el acusado responderán directamente a las preguntas que les formulen el Ministerio Público, el Defensor o el Asesor jurídico de la víctima, en su caso. El Órgano jurisdiccional militar deberá abstenerse de interrumpir dicho interrogatorio salvo que medie objeción fundada de parte, o bien, resulte necesario para mantener el orden y decoro necesarios para la debida diligenciación de la audiencia. Sin perjuicio de lo anterior, el Órgano jurisdiccional militar podrá formular preguntas para aclarar lo manifestado por quien deponga, en los términos previstos en este Código.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES A solicitud de algunas de las partes, el Tribunal podrá autorizar un nuevo interrogatorio a los testigos que ya hayan declarado en la audiencia, siempre y cuando no hayan sido liberados; al perito se le podrán formular preguntas con el fin de proponerle hipótesis sobre la materia del dictamen pericial, a las que el perito deberá responder atendiéndose a la ciencia, la profesión y los hechos hipotéticos propuestos.
+A solicitud de algunas de las partes, el Tribunal podrá autorizar un nuevo interrogatorio a los testigos que ya hayan declarado en la audiencia, siempre y cuando no hayan sido liberados; al perito se le podrán formular preguntas con el fin de proponerle hipótesis sobre la materia del dictamen pericial, a las que el perito deberá responder atendiéndose a la ciencia, la profesión y los hechos hipotéticos propuestos.
 Después del contrainterrogatorio el oferente podrá repreguntar al testigo en relación a lo manifestado en éste. En la materia del reinterrogatorio la parte contraria podrá recontrainterrogar al testigo respecto de la materia de las preguntas formuladas en éste.
 
 ### Artículo 370
@@ -2304,7 +2300,7 @@ Con el mismo propósito se podrá leer durante la declaración de un perito part
 Declaración del acusado
 
 ### Artículo 374
-. Declaración del acusado en juicio El acusado podrá rendir su declaración en cualquier momento durante la audiencia. En tal caso, el juzgador que preside la audiencia le permitirá que lo haga libremente o conteste las preguntas de las partes. En este caso se podrán utilizar las declaraciones previas rendidas por el acusado, para apoyo de CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES memoria, evidenciar o superar contradicciones. El Órgano jurisdiccional militar podrá formularle preguntas destinadas a aclarar su dicho.
+. Declaración del acusado en juicio El acusado podrá rendir su declaración en cualquier momento durante la audiencia. En tal caso, el juzgador que preside la audiencia le permitirá que lo haga libremente o conteste las preguntas de las partes. En este caso se podrán utilizar las declaraciones previas rendidas por el acusado, para apoyo de memoria, evidenciar o superar contradicciones. El Órgano jurisdiccional militar podrá formularle preguntas destinadas a aclarar su dicho.
 El acusado podrá solicitar ser oído, con el fin de aclarar o complementar sus manifestaciones, siempre que preserve la disciplina en la audiencia.
 En la declaración del acusado se seguirán, en lo conducente, las mismas reglas para el desarrollo del interrogatorio. El imputado deberá declarar con libertad de movimiento, sin el uso de instrumentos de seguridad, salvo cuando sea absolutamente indispensable para evitar su fuga o daños a otras personas.
 
@@ -2331,7 +2327,7 @@ Cuando la parte oferente, previo apercibimiento no provea del medio idóneo para
 
 ### Artículo 380
 . Incorporación de prueba Los documentos, objetos y otros elementos de convicción, previa su incorporación a juicio, deberán ser exhibidos al imputado, a los testigos o intérpretes y a los peritos, para que los reconozcan o informen sobre ellos.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Sólo se podrá incorporar a juicio como prueba material o documental aquella que haya sido previamente acreditada.
+Sólo se podrá incorporar a juicio como prueba material o documental aquella que haya sido previamente acreditada.
 
 ### Artículo 381
 . Prohibición de incorporación de antecedentes procesales No se podrá invocar, dar lectura ni admitir o desahogar como medio de prueba al debate ningún antecedente que tenga relación con la proposición, discusión, aceptación, procedencia, rechazo o revocación de una suspensión condicional del proceso, de un acuerdo reparatorio o la tramitación de un procedimiento abreviado.
@@ -2359,7 +2355,7 @@ Otras pruebas
 
 ### Artículo 387
 . Medios de prueba nueva y de refutación El Tribunal Militar de Juicio Oral podrá ordenar la recepción de medios de prueba nueva, ya sea sobre hechos supervenientes o de los que no fueron ofrecidos oportunamente por alguna de las partes, siempre que se justifique no haber conocido previamente de su existencia.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Si con ocasión de la rendición de un medio de prueba surgiere una controversia relacionada exclusivamente con su veracidad, autenticidad o integridad, el Tribunal Militar de Juicio Oral podrá admitir y desahogar nuevos medios de prueba, aunque ellos no hubieren sido ofrecidos oportunamente, siempre que no hubiere sido posible prever su necesidad.
+Si con ocasión de la rendición de un medio de prueba surgiere una controversia relacionada exclusivamente con su veracidad, autenticidad o integridad, el Tribunal Militar de Juicio Oral podrá admitir y desahogar nuevos medios de prueba, aunque ellos no hubieren sido ofrecidos oportunamente, siempre que no hubiere sido posible prever su necesidad.
 El medio de prueba debe ser ofrecido antes de que se cierre el debate, para lo que el Tribunal Militar de Juicio Oral deberá salvaguardar la oportunidad de la contraparte del oferente de los medios de prueba supervenientes o de refutación, para preparar los contrainterrogatorios de testigos o peritos, según sea el caso, y para ofrecer la práctica de diversos medios de prueba, encaminados a controvertirlos.
 
 ## CAPÍTULO V
@@ -2382,7 +2378,7 @@ El Tribunal Militar de Juicio Oral podrá disponer la división de un debate en 
 . Alegatos de apertura Una vez abierto el debate, el juzgador que presida la audiencia de juicio concederá la palabra al Ministerio Público para que exponga de manera concreta y oral la acusación y una descripción sumaria de las pruebas que utilizará para demostrarla. Acto seguido se concederá la palabra al Asesor jurídico de la víctima u ofendido, si lo hubiere, para los mismos efectos. Posteriormente se ofrecerá la palabra al Defensor, quien podrá expresar lo que al interés del imputado convenga en forma concreta y oral.
 
 ### Artículo 392
-. Orden de recepción de las pruebas en la audiencia de juicio CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Cada parte determinará el orden en que desahogará sus medios de prueba. Corresponde recibir primero los medios de prueba admitidos al Ministerio Público, posteriormente los de la víctima u ofendido del delito y finalmente los de la defensa.
+. Orden de recepción de las pruebas en la audiencia de juicio Cada parte determinará el orden en que desahogará sus medios de prueba. Corresponde recibir primero los medios de prueba admitidos al Ministerio Público, posteriormente los de la víctima u ofendido del delito y finalmente los de la defensa.
 
 ### Artículo 393
 . Oralidad en la audiencia de juicio La audiencia de juicio será oral en todo momento.
@@ -2403,7 +2399,7 @@ El auto de apertura a juicio que se dicte en este caso, deberá remitirse a un T
 DELIBERACIÓN, FALLO Y SENTENCIA
 
 ### Artículo 397
-. Deliberación Inmediatamente después de concluido el debate, el Tribunal Militar de Juicio Oral ordenará un receso para deliberar en forma privada, continua y aislada, hasta emitir el fallo correspondiente. La deliberación no podrá exceder de veinticuatro horas ni suspenderse, salvo en caso de enfermedad grave de uno o CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES más de los miembros del Tribunal Militar de Juicio Oral. En este caso, la suspensión de la deliberación no podrá ampliarse por más de quince días hábiles, luego de los cuales se deberá reemplazar a los integrantes del Tribunal Militar de Juicio Oral y realizar el juicio nuevamente.
+. Deliberación Inmediatamente después de concluido el debate, el Tribunal Militar de Juicio Oral ordenará un receso para deliberar en forma privada, continua y aislada, hasta emitir el fallo correspondiente. La deliberación no podrá exceder de veinticuatro horas ni suspenderse, salvo en caso de enfermedad grave de uno o más de los miembros del Tribunal Militar de Juicio Oral. En este caso, la suspensión de la deliberación no podrá ampliarse por más de quince días hábiles, luego de los cuales se deberá reemplazar a los integrantes del Tribunal Militar de Juicio Oral y realizar el juicio nuevamente.
 
 ### Artículo 398
 . Emisión de fallo Una vez concluida la deliberación, el Tribunal Militar de Juicio Oral se constituirá nuevamente en la sala de audiencias, después de ser convocadas oralmente o por cualquier medio todas las partes, con el propósito de que el Juez relator comunique el fallo respectivo.
@@ -2420,7 +2416,7 @@ El Tribunal Militar de Juicio Oral dará lectura y explicará la sentencia en au
 . Convicción del Tribunal Militar de Juicio Oral El Tribunal Militar de Juicio Oral apreciará la prueba según su libre convicción extraída de la totalidad del debate, de manera libre y lógica; sólo serán valorables y sometidos a la crítica racional, los medios de prueba obtenidos lícitamente e incorporados al debate conforme a las disposiciones de este Código.
 En la sentencia, el Tribunal de enjuiciamiento deberá hacerse cargo en su motivación de toda la prueba producida, incluso de aquella que hubiere desestimado, indicando en tal caso las razones que hubiere tenido en cuenta para hacerlo. Esta motivación deberá permitir la reproducción del razonamiento utilizado para alcanzar las conclusiones a que llegare la sentencia.
 Nadie podrá ser condenado, sino cuando el Tribunal que lo juzgue adquiera la convicción más allá de toda duda razonable, de que el acusado es responsable de la comisión del hecho por el que siguió el juicio. La duda siempre favorece al acusado.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES No se podrá condenar a una persona con el sólo mérito de su propia declaración.
+No se podrá condenar a una persona con el sólo mérito de su propia declaración.
 
 ### Artículo 400
 . Requisitos de la sentencia I. La mención del Tribunal Militar de Juicio Oral y el nombre de los Jueces que lo integran;
@@ -2441,7 +2437,7 @@ La sentencia producirá sus efectos desde el momento de su explicación y no des
 ### Artículo 402
 . Sentencia absolutoria En la sentencia absolutoria, el Tribunal Militar de Juicio Oral ordenará que se tome nota del levantamiento de las medidas cautelares, en todo índice o registro público y policial en el que figuren, y será ejecutable inmediatamente.
 En su sentencia absolutoria el Tribunal Militar de Juicio Oral determinará la causa de exclusión del delito, para lo cual podrá tomar como referencia, en su caso, las causas de atipicidad, de justificación o inculpabilidad, bajo los rubros siguientes:
-I. Son causas de atipicidad: la ausencia de voluntad o de conducta, la falta de alguno de los elementos del tipo penal, el consentimiento de la víctima que recaiga sobre algún bien jurídico disponible, el error de tipo vencible que recaiga sobre algún elemento del tipo penal que no CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES admita, de acuerdo con el catálogo de delitos susceptibles de configurarse de forma culposa previsto en la legislación penal aplicable, así como el error de tipo invencible;
+I. Son causas de atipicidad: la ausencia de voluntad o de conducta, la falta de alguno de los elementos del tipo penal, el consentimiento de la víctima que recaiga sobre algún bien jurídico disponible, el error de tipo vencible que recaiga sobre algún elemento del tipo penal que no admita, de acuerdo con el catálogo de delitos susceptibles de configurarse de forma culposa previsto en la legislación penal aplicable, así como el error de tipo invencible;
 II. Son causas de justificación: el consentimiento presunto, la legítima defensa, el estado de necesidad justificante, el ejercicio de un derecho y el cumplimiento de un deber, o III. Son causas de inculpabilidad: el error de prohibición invencible, el estado de necesidad disculpante, la inimputabilidad, y la inexigibilidad de otra conducta.
 De ser el caso, el Tribunal Militar de Juicio Oral también podrá tomar como referencia que el error de prohibición vencible solamente atenúa la culpabilidad y con ello atenúa también la pena, dejando subsistente la presencia del dolo, igual como ocurre en los casos de exceso de legítima defensa e imputabilidad disminuida.
 
@@ -2458,7 +2454,6 @@ En toda sentencia condenatoria se argumentará por qué el sentenciado no está 
 
 ### Artículo 404
 . Congruencia de la sentencia La sentencia de condena no podrá sobrepasar los hechos probados en juicio.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ### Artículo 405
 . Medios de prueba en la individualización de sanciones y reparación del daño El desahogo de los medios de prueba para la individualización de sanciones y reparación del daño procederá después de haber resuelto sobre la responsabilidad del sentenciado.
@@ -2475,7 +2470,7 @@ Dentro de los márgenes de punibilidad establecidos en las leyes penales, el Tri
 El grado de culpabilidad estará determinado por el juicio de reproche, según el sentenciado haya tenido, bajo las circunstancias y características del hecho, la afectación del desarrollo de operaciones militares, la posibilidad concreta de comportarse de distinta manera y de respetar la norma jurídica quebrantada. Si en un mismo hecho intervinieron varias personas, cada una de ellas será sancionada de acuerdo con el grado de su propia culpabilidad.
 Para determinar el grado de culpabilidad también se tomarán en cuenta los motivos que impulsaron la conducta del sentenciado, las condiciones fisiológicas y psicológicas específicas en que se encontraba en el momento de la comisión del hecho, la edad, jerarquía militar, el nivel educativo, las costumbres, las condiciones sociales y culturales, así como los vínculos de parentesco, amistad o relación que guarde con la víctima u ofendido. Igualmente se tomarán en cuenta las demás circunstancias especiales del sentenciado, víctima u ofendido, siempre que resulten relevantes para la individualización de la sanción.
 Se podrán tomar en consideración los dictámenes periciales y otros medios de prueba para los fines señalados en el presente artículo.
-En caso de concurso real se impondrá la sanción del delito más grave, la cual podrá aumentarse con las penas que la ley contempla para cada uno de los delitos restantes, sin que exceda de los máximos señalados en la ley penal aplicable. En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos. No habrá concurso cuando las conductas constituyan un delito continuado; sin embargo, en estos casos se aumentará la sanción penal hasta en una mitad de la correspondiente al máximo del delito cometido.
+En caso de concurso real se impondrá la sanción del delito más grave, la cual podrá aumentarse con las penas que la ley contempla para cada uno de los delitos restantes, sin que exceda de los máximos señalados en la ley penal aplicable. En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos. No habrá concurso cuando las conductas constituyan un delito continuado; sin embargo, en estos casos se aumentará la sanción penal hasta en una mitad de la correspondiente al máximo del delito cometido.
 El aumento o la disminución de la pena, fundados en las relaciones personales o en las circunstancias subjetivas del autor de un delito, no serán aplicables a los demás sujetos que intervinieron en aquél. Sí serán aplicables las que se fundamenten en circunstancias objetivas, siempre que los demás sujetos tengan conocimiento de ellas.
 
 ### Artículo 408
@@ -2496,7 +2491,7 @@ PERSONAS INIMPUTABLES CAPÍTULO ÚNICO PROCEDIMIENTO PARA PERSONAS INIMPUTABLES
 En los casos en que la persona se encuentre retenida, el Ministerio Público deberá aplicar ajustes razonables para evitar un mayor grado de vulnerabilidad y el respeto a su integridad personal. Para tales efectos, estará en posibilidad de solicitar la práctica de aquellos peritajes que permitan determinar el tipo de inimputabilidad que tuviere, así como si ésta es permanente o transitoria y, si es posible definir si fue provocada por el propio retenido.
 
 ### Artículo 412
-. Identificación de los supuestos de inimputabilidad Si el imputado ha sido vinculado a proceso y se estima que está en una situación de inimputabilidad, las partes podrán solicitar al Juez de control que se lleven a cabo los peritajes necesarios para CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES determinar si se acredita tal extremo, así como si la inimputabilidad que presente pudo ser propiciada o no por la persona.
+. Identificación de los supuestos de inimputabilidad Si el imputado ha sido vinculado a proceso y se estima que está en una situación de inimputabilidad, las partes podrán solicitar al Juez de control que se lleven a cabo los peritajes necesarios para determinar si se acredita tal extremo, así como si la inimputabilidad que presente pudo ser propiciada o no por la persona.
 
 ### Artículo 413
 . Ajustes al procedimiento Si se determina el estado de inimputabilidad del sujeto, el procedimiento ordinario se aplicará observando las reglas generales del debido proceso con los ajustes del procedimiento que en el caso concreto acuerde el Juez de control, escuchando al Ministerio Público y al Defensor, con el objeto de acreditar la participación de la persona inimputable en el hecho atribuido y, en su caso, determinar la aplicación de las medidas de seguridad que se estimen pertinentes.
@@ -2523,7 +2518,7 @@ DISPOSICIONES COMUNES
 . Reglas generales Las resoluciones judiciales podrán ser recurridas sólo por los medios y en los casos expresamente establecidos en este Código.
 Para efectos de su impugnación, se entenderán como resoluciones judiciales, las emitidas oralmente, salvo el caso que únicamente consten por escrito.
 El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otorgado y pueda resultar afectado por la resolución.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES En el procedimiento penal sólo se admitirán los recursos de revocación y apelación, según corresponda.
+En el procedimiento penal sólo se admitirán los recursos de revocación y apelación, según corresponda.
 
 ### Artículo 418
 . Condiciones de interposición Los recursos se interpondrán en las condiciones de tiempo y forma que se determinan en este Código, con indicación específica de la parte impugnada de la resolución recurrida.
@@ -2548,7 +2543,7 @@ El Ministerio Público podrá desistirse del recurso interpuesto mediante determ
 
 ### Artículo 422
 . Alcance del recurso El Órgano jurisdiccional ante el cual se haga valer el recurso, dará trámite al mismo y corresponderá al Tribunal de alzada competente que deba resolverlo, su admisión o desechamiento, y sólo podrá pronunciarse sobre los agravios expresados por los recurrentes, quedando prohibido extender el examen de la decisión recurrida a cuestiones no planteadas en ellos o más allá de los límites del recurso, a menos que se trate de un acto violatorio de derechos fundamentales del imputado. En caso de que el Órgano jurisdiccional no encuentre violaciones a derechos fundamentales que, en tales términos, deba reparar de oficio, no estará obligado a dejar constancia de ello en la resolución.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Si sólo uno de varios imputados por el mismo delito interpusiera algún recurso contra una resolución, la decisión favorable que se dictare aprovechará a los demás, a menos que los fundamentos fueren exclusivamente personales del recurrente.
+Si sólo uno de varios imputados por el mismo delito interpusiera algún recurso contra una resolución, la decisión favorable que se dictare aprovechará a los demás, a menos que los fundamentos fueren exclusivamente personales del recurrente.
 
 ### Artículo 423
 . Prohibición de modificación en perjuicio Cuando el recurso ha sido interpuesto sólo por el imputado o su Defensor, no podrá modificarse la resolución recurrida en perjuicio del imputado.
@@ -2573,7 +2568,6 @@ El objeto de este recurso será que el mismo Órgano jurisdiccional que dictó l
 . Trámite El recurso de revocación se interpondrá oralmente, en audiencia o por escrito, conforme a las siguientes reglas:
 I. Si el recurso se hace valer contra las resoluciones pronunciadas durante audiencia, deberá promoverse antes de que termine la misma. La tramitación se efectuará verbalmente, de inmediato y de la misma manera se pronunciará el fallo, o II. Si el recurso se hace valer contra resoluciones dictadas fuera de audiencia, deberá interponerse por escrito en un plazo de dos días siguientes a la notificación de la resolución impugnada, expresando los motivos por los cuales se solicita. El Órgano jurisdiccional se pronunciará de plano, pero podrá oír previamente a las demás partes dentro del plazo de dos días de interpuesto el recurso, si se tratara de un asunto cuya complejidad así lo amerite.
 La resolución que decida la revocación interpuesta oralmente en audiencia, deberá emitirse de inmediato; la resolución que decida la revocación interpuesta por escrito deberá emitirse dentro de los tres días siguientes a su interposición; en caso de que el Órgano jurisdiccional cite a audiencia por la complejidad del caso, resolverá en ésta.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ## SECCIÓN II
 Apelación APARTADO I Reglas generales de la apelación
@@ -2604,7 +2598,7 @@ II. La sentencia definitiva en relación a aquellas consideraciones contenidas e
 . Inadmisibilidad del recurso El Tribunal Superior Militar declarará inadmisible el recurso cuando:
 I. Haya sido interpuesto fuera del plazo;
 II. Se deduzca en contra de resolución que no sea impugnable por medio de apelación;
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES III. Lo interponga persona no legitimada para ello;
+III. Lo interponga persona no legitimada para ello;
 IV. El escrito de interposición carezca de fundamentos de agravio o de peticiones concretas.
 APARTADO II Trámite de apelación
 
@@ -2621,7 +2615,7 @@ Al interponer el recurso, al contestarlo o al adherirse a él, los interesados p
 En el caso de la apelación contra el auto de vinculación a proceso o la exclusión de pruebas, la interposición del recurso tendrá como efecto inmediato suspender el plazo de remisión del auto de apertura de juicio al Tribunal Militar de Juicio Oral, en atención a lo que resuelva el Tribunal Superior Militar.
 
 ### Artículo 434
-. Derecho a la adhesión Quien tenga derecho a recurrir podrá adherirse, dentro del término de tres días contados a partir de recibido el traslado, al recurso interpuesto por cualquiera de las otras partes, siempre que cumpla con los CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES demás requisitos formales de interposición. Quien se adhiera podrá formular agravios. Sobre la adhesión se correrá traslado a las demás partes en un término de tres días.
+. Derecho a la adhesión Quien tenga derecho a recurrir podrá adherirse, dentro del término de tres días contados a partir de recibido el traslado, al recurso interpuesto por cualquiera de las otras partes, siempre que cumpla con los demás requisitos formales de interposición. Quien se adhiera podrá formular agravios. Sobre la adhesión se correrá traslado a las demás partes en un término de tres días.
 
 ### Artículo 435
 . Envío al Tribunal Superior Militar Concluidos los plazos otorgados a las partes para la sustanciación del recurso de apelación, el Órgano jurisdiccional militar enviará los registros correspondientes al Tribunal Superior Militar.
@@ -2649,7 +2643,6 @@ En caso de que la apelación verse sobre exclusiones probatorias, el Tribunal Su
 
 ### Artículo 442
 . Materia del recurso Interpuesto el recurso de apelación por violaciones graves al debido proceso, no podrán invocarse nuevas causales de reposición del procedimiento; sin embargo, el Tribunal Superior Militar podrá hacer valer y reparar de oficio, a favor del sentenciado, las violaciones a sus derechos fundamentales.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ### Artículo 443
 . Causas de reposición Habrá lugar a la reposición del procedimiento por alguna de las causas siguientes:
@@ -2669,7 +2662,6 @@ En estos casos, el Tribunal Superior Militar modificará o revocará la sentenci
 
 ### Artículo 445
 . Prueba Podrán ofrecerse medios de prueba cuando el recurso se fundamente en un defecto del proceso y se discuta la forma en que fue llevado a cabo un acto, en contraposición a lo señalado en las actuaciones, en el acta o registros del debate, o en la sentencia.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES
 
 ## TÍTULO XI
 RECONOCIMIENTO DE INOCENCIA DEL SENTENCIADO Y ANULACIÓN DE SENTENCIA CAPÍTULO ÚNICO PROCEDENCIA
@@ -2698,7 +2690,7 @@ III. La sola causación del resultado no podrá fundamentar, por sí sola, la re
 Por su parte los tipos penales estarán limitados a la exclusiva protección de los bienes jurídicos necesarios para la adecuada convivencia social.
 
 ### Artículo 449
-. Solicitud de declaración de inocencia o anulación de la sentencia El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia o la anulación de la sentencia por concurrir alguna de las causas señaladas en los artículos anteriores, acudirá al Tribunal CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Superior Militar le expondrá detalladamente por escrito la causa en que funda su petición y acompañarán a su solicitud las pruebas que correspondan u ofrecerá exhibirlas en la audiencia respectiva.
+. Solicitud de declaración de inocencia o anulación de la sentencia El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia o la anulación de la sentencia por concurrir alguna de las causas señaladas en los artículos anteriores, acudirá al Tribunal Superior Militar le expondrá detalladamente por escrito la causa en que funda su petición y acompañarán a su solicitud las pruebas que correspondan u ofrecerá exhibirlas en la audiencia respectiva.
 En relación con las pruebas, si el recurrente no tuviere en su poder los documentos que pretenda presentar, deberá indicar el lugar donde se encuentren y solicitar al Tribunal Superior Militar que se recaben.
 Al presentar su solicitud, el sentenciado designará a un licenciado en derecho o abogado con cédula profesional como Defensor en este procedimiento, conforme a las disposiciones conducentes de este Código; si no lo hace, el Tribunal Superior Militar le nombrará un Defensor de Oficio Militar.
 
@@ -2709,12 +2701,15 @@ Dentro de los cinco días siguientes a la formulación de los alegatos y a la co
 
 ### Artículo 451
 . Indemnización En caso de que se dicte reconocimiento de inocencia, en ella misma se resolverá de oficio sobre la indemnización que proceda en términos de las disposiciones aplicables. La indemnización sólo podrá acordarse a favor del beneficiario o de sus herederos, según el caso.
-Disposiciones transitorias ARTÍCULO CUARTO. En relación con la expedición del Código Militar de Procedimientos Penales a que se refiere el Artículo Tercero del presente Decreto, se estará a lo siguiente I. Declaratoria e inicio de vigencia.
+Disposiciones transitorias
+
+### ARTÍCULO CUARTO
+En relación con la expedición del Código Militar de Procedimientos Penales a que se refiere el Artículo Tercero del presente Decreto, se estará a lo siguiente I. Declaratoria e inicio de vigencia.
 Para los efectos señalados en el párrafo tercero del artículo segundo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008, se declara que la presente legislación incorpora el sistema procesal penal acusatorio y entrará en vigor a los 30 días naturales después de su publicación en el Diario Oficial de la Federación.
 II. Aplicación.
 Sus disposiciones se aplicarán a hechos que ocurran a partir de las cero horas de su entrada en vigor.
 III. Derogación.
-El Código de Justicia Militar promulgado el día veintinueve de agosto de 1933 en el Diario Oficial de la Federación seguirá rigiendo, en lo conducente, a los procedimientos iniciados con anterioridad a la CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES aplicación del presente Código, así como los preceptos de la normativa militar que se opongan a las disposiciones de este Ordenamiento.
+El Código de Justicia Militar promulgado el día veintinueve de agosto de 1933 en el Diario Oficial de la Federación seguirá rigiendo, en lo conducente, a los procedimientos iniciados con anterioridad a la aplicación del presente Código, así como los preceptos de la normativa militar que se opongan a las disposiciones de este Ordenamiento.
 Las averiguaciones previas, procesos y recursos que se refiere a hechos ocurridos antes de la entrada en vigor del presente Código, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Justicia Militar que se derogan.
 IV. Delitos permanentes y continuados.
 Los procedimientos penales relativos a hechos delictuosos de carácter permanente o continuado que iniciaron bajo la vigencia del aludido Código de Justicia Militar de 1933 y que continúen desarrollándose estando vigente ya el presente Código, serán regulados por el segundo de los ordenamientos citados en este artículo.
@@ -2724,63 +2719,108 @@ VI. Recursos.
 Las erogaciones que deriven de la aplicación del presente Decreto, serán realizadas mediante movimientos compensados, por lo que las Secretarías de la Defensa Nacional y de Marina deberán sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y los subsecuentes.
 VII. Convenios para supervisión de medidas cautelares y condiciones de la suspensión condicional del proceso.
 En tanto se crean las Unidades Administrativas de supervisión de medidas cautelares y de suspensión condicional del proceso; la Secretaría de la Defensa Nacional podrá celebrar convenios con las autoridades federales y estatales encargadas de ésta actividad para que asuma la supervisión y vigilancia de los imputados o acusados en la jurisdicción militar sujetos a estas medidas.
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 28 de abril de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. Luis H. Fernández Fuentes, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman y derogan diversas disposiciones del Código de de la Ley para Conservar la Neutralidad del País.
-Publicado en el Diario Oficial de la Federación el 21 de junio de 2018 Artículo Segundo.- Se reforma la fracción IV del artículo 164 del Código Militar de Procedimientos Penales, para quedar como sigue: ……… Transitorio Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman y derogan diversas disposiciones del Código de de la Ley para Conservar la Neutralidad del País.
+Publicado en el Diario Oficial de la Federación el 21 de junio de 2018
+
+### Artículo Segundo
+Se reforma la fracción IV del artículo 164 del Código Militar de Procedimientos Penales, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 46/2016, promovida por la Comisión Nacional de los Derechos Humanos.
+PUNTOS RESOLUTIVOS de la sentencia dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 46/2016, promovida por la Comisión Nacional de los Derechos Humanos.
 Notificados al Congreso de la Unión para efectos legales el 19 de abril de 2023 Al margen un sello con el Escudo Nacional, que dice: Poder Judicial de la Federación.- Suprema Corte de Justicia de la Nación.
 SECRETARÍA GENERAL DE ACUERDOS OFICIO NÚM. SGA/HMS/146/2023 SEÑOR LICENCIADO EDUARDO ARANDA MARTÍNEZ SECRETARIO DE LA SECCIÓN DE TRÁMITE DE CONTROVERSIAS CONSTITUCIONALES Y DE ACCIONES DE INCONSTITUCIONALIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION P R E S E N T E El Tribunal Pleno, en su sesión celebrada el diecisiete de abril de dos mil veintitrés, resolvió la acción de inconstitucionalidad 46/2016, promovida por la Comisión Nacional de los Derechos Humanos, en los términos siguientes: “PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-SEGUNDO. Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 10, párrafo primero, 215, 267 y 363 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
-TERCERO. Se reconoce la validez de los artículos 2, 73, 87, 101, fracciones I, inciso b) y II, inciso b), 103, 105, 123, 128, fracción VIII, en su porción normativa “y a los particulares”, 129, párrafo segundo, fracciones VI, VII, XI, en su porción normativa “a las personas físicas o morales”, y XII, 136, fracciones VI y VII, 145, fracción II, inciso b), 146, 151, párrafo primero, 153, fracción XI, 171, párrafo tercero, 212, en su porción normativa “persona o”, 247, fracción III, 248, 262, 264, 283, 286, 352, 357, 364 y 367 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 38, 49 Bis, fracción XII, en su porción normativa “y solicitar a las personas físicas o colectivas”, y 83, fracciones XIV, XIX, XXIII, XLIII, XLV y XLIX del Código de Justicia Militar, reformados y adicionados mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
-CUARTO. Se declara la invalidez de los artículos 162, párrafo tercero, en su porción normativa “o en los siguientes casos:”, así como de sus fracciones I a IV, 238, 245, en su porción normativa “decretará o”, 247, fracción V, 263, 278, 282, 291, 295, 296, 299 y 361 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 81 Bis, fracción VII, y 83 fracción XIII, del Código de Justicia Militar, reformado y adicionado mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES QUINTO. Se declara la invalidez de los artículos 10, párrafo segundo y 43, párrafos del primero al cuarto y sexto, del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá efectos a los doce meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del referido plazo, previo desarrollo de las respectivas consultas indígena y afromexicana, así como a las personas con discapacidad, ese Congreso deberá legislar en la materia.
-SEXTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión y, la de los artículos 10, párrafo segundo y 43, párrafos del primero al cuarto y sexto, del Código Militar de Procedimientos Penales, a los doce meses siguientes a la citada notificación, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo Federal.
+**SEGUNDO.** Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 10, párrafo primero, 215, 267 y 363 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
+**TERCERO.** Se reconoce la validez de los artículos 2, 73, 87, 101, fracciones I, inciso b) y II, inciso b), 103, 105, 123, 128, fracción VIII, en su porción normativa “y a los particulares”, 129, párrafo segundo, fracciones VI, VII, XI, en su porción normativa “a las personas físicas o morales”, y XII, 136, fracciones VI y VII, 145, fracción II, inciso b), 146, 151, párrafo primero, 153, fracción XI, 171, párrafo tercero, 212, en su porción normativa “persona o”, 247, fracción III, 248, 262, 264, 283, 286, 352, 357, 364 y 367 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 38, 49 Bis, fracción XII, en su porción normativa “y solicitar a las personas físicas o colectivas”, y 83, fracciones XIV, XIX, XXIII, XLIII, XLV y XLIX del Código de Justicia Militar, reformados y adicionados mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
+**CUARTO.** Se declara la invalidez de los artículos 162, párrafo tercero, en su porción normativa “o en los siguientes casos:”, así como de sus fracciones I a IV, 238, 245, en su porción normativa “decretará o”, 247, fracción V, 263, 278, 282, 291, 295, 296, 299 y 361 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 81 Bis, fracción VII, y 83 fracción XIII, del Código de Justicia Militar, reformado y adicionado mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**QUINTO.** Se declara la invalidez de los artículos 10, párrafo segundo y 43, párrafos del primero al cuarto y sexto, del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá efectos a los doce meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del referido plazo, previo desarrollo de las respectivas consultas indígena y afromexicana, así como a las personas con discapacidad, ese Congreso deberá legislar en la materia.
+**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.” Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión y, la de los artículos 10, párrafo segundo y 43, párrafos del primero al
+**cuarto.** y sexto, del Código Militar de Procedimientos Penales, a los doce meses siguientes a la citada notificación, por lo que le solicito que gire instrucciones para que, a la brevedad, se practique la citada notificación, inclusive al Titular del Poder Ejecutivo Federal.
 Asimismo, con el objeto de dar cumplimiento a lo determinado por el Tribunal Pleno en su sesión Acuerdos únicamente copia certificada del documento en el que conste la notificación que se realice al Congreso de la Unión.
 Atentamente Ciudad de México; 17 de abril de 2023 LICENCIADO RAFAEL COELLO CETINA.- Rúbrica.
 Notificados los puntos resolutivos a la Cámara de Diputados del H. Congreso de la Unión el miércoles 19 de abril de 2023 a las 11:50 hrs.- Dirección General de Asuntos Jurídicos.- Sello de Recibido.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 46/2016, así como los Votos Particulares de la señora Ministra Presidenta Norma Lucía Piña Hernández y del señor Ministro Luis María Aguilar Morales, Particular, Concurrente y Aclaratorio del señor Ministro Juan Luis González Alcántara Carrancá, Concurrentes de la señora Ministra Yasmín Esquivel Mossa y del señor Ministro Alfredo Gutiérrez Ortiz Mena, Concurrente, Particular y Aclaratorio del señor Ministro Arturo Zaldívar Lelo de Larrea y Aclaratorio y Particular de la señora Ministra Loretta Ortiz Ahlf.
+SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 46/2016, así como los Votos Particulares de la señora Ministra Presidenta Norma Lucía Piña Hernández y del señor Ministro Luis María Aguilar Morales, Particular, Concurrente y Aclaratorio del señor Ministro Juan Luis González Alcántara Carrancá, Concurrentes de la señora Ministra Yasmín Esquivel Mossa y del señor Ministro Alfredo Gutiérrez Ortiz Mena, Concurrente, Particular y Aclaratorio del señor Ministro Arturo Zaldívar Lelo de Larrea y Aclaratorio y Particular de la señora Ministra Loretta Ortiz Ahlf.
 Publicada en el Diario Oficial de la Federación el 5 de septiembre de 2023 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de ACCIÓN DE INCONSTITUCIONALIDAD 46/2016 PROMOVENTE: COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS PONENTE: MINISTRO LUIS MARÍA AGUILAR MORALES SECRETARIO: OLIVER CHAIM CAMACHO Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al diecisiete de abril de dos mil veintitrés.
-VISTOS; para resolver los autos de la acción de inconstitucionalidad promovida por la Comisión Nacional de los Derechos Humanos; y, RESULTANDO: …….. 449. DÉCIMO CUARTO. EFECTOS. Se precisa que los efectos de la invalidez decretada respecto de las normas especificadas en este fallo surtirán a partir de que se notifiquen los puntos resolutivos del presente fallo al Congreso de la Unión, sin perjuicio de que se apliquen los principios en materia penal, de conformidad con los artículos 105 constitucional y 45 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos. 450. Ahora bien, en relación con los efectos específicos de invalidez, se precisa que atendiendo a la facultad de esta Suprema Corte de Justicia de la Nación para determinar los efectos de las sentencias estimatorias que emite, conforme a lo dispuesto en los citados artículos 41 y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y que conforme a jurisprudencia P./J. 84/2007, cuyo rubro es: “ACCIÓN DE INCONSTITUCIONALIDAD. LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CUENTA CON AMPLIAS FACULTADES PARA DETERMINAR LOS EFECTOS DE LAS SENTENCIAS ESTIMATORIAS.” 451. En esa jurisprudencia se sostiene que los efectos que este Tribunal Constitucional imprima a sus sentencias estimatorias en la vía de acción de inconstitucionalidad deben, de manera prioritaria, salvaguardar de manera eficaz la norma constitucional violada, aunque al mismo tiempo se debe evitar generar una situación de mayor incertidumbre jurídica que la ocasionada por las normas impugnadas, así como afectar injustificadamente el ámbito decisorio establecido constitucionalmente a favor de otros poderes públicos (federales, estatales y/o municipales).
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES 452. Lo anterior determina que este Tribunal Pleno cuenta con un amplio margen de apreciación para salvaguardar eficazmente la norma constitucional o convencional violada. Por ello, este Tribunal Pleno ha tomado decisiones en que el efecto consistió únicamente en la expulsión de las porciones normativas que presentaban vicios de inconstitucionalidad; en otros casos, el efecto ha consistido en la expulsión de todo un conjunto armónico de normas dentro del ordenamiento legal impugnado; e, inclusive, se han expulsado del orden jurídico nacional leyes u ordenamientos completos por existir violaciones muy graves a las normas que rigen el procedimiento para su creación. Asimismo, en ocasiones, el efecto de la sentencia se ha postergado por un lapso razonable y, en otros casos, el efecto ha consistido en la reviviscencia de las normas vigentes con anterioridad a las que han sido expulsadas del ordenamiento jurídico, para garantizar un mínimo indispensable de certeza jurídica. 453. En esos términos, por tratarse de normas en materia penal, la invalidez decretada surtirá efectos retroactivos al diecisiete de mayo de dos mil dieciséis; fecha en que entró en vigor el Decreto impugnado. 454. Corresponderá a los operadores jurídicos competentes decidir y resolver, en cada caso concreto sujeto a su conocimiento, de acuerdo con los principios generales y disposiciones legales aplicables en esta materia. 455. Por su parte, por cuanto hace específicamente a la declaración de invalidez de los artículos 10, párrafo segundo, y 43, párrafos primero al cuarto y sexto, del Código Militar de Procedimientos Penales, por las razones precisadas en el Considerando Quinto, cabe puntualizar que en diversos precedentes, esta Suprema Corte de Justicia de la Nación ha establecido un plazo de seis meses para que se dé cumplimiento a las declaraciones de invalidez derivadas de la falta de consulta de los pueblos y comunidades indígenas, o de doce meses, tal como se determinó en las acciones de inconstitucionalidad 84/2016, 81/2018 y 201/2020, e incluso, de ciento ochenta días naturales para el surtimiento de efectos de la declaración de invalidez de actos legislativos respecto de los cuales se omitió la consulta previa a las personas con discapacidad, en tanto que, al resolver la acción de inconstitucionalidad 212/2020, el Pleno otorgó un plazo de dieciocho meses, ante las serias dificultades y riesgos que implicaría celebrar las consultas respectivas durante la pandemia por el virus SARS-COV2, de lo que se deduce que el plazo depende de las circunstancias específicas de cada caso. 456. De esta manera, con fundamento en lo previsto en el artículo 45, párrafo primero, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, la declaración de invalidez debe postergarse por doce meses con el objeto de que la regulación respectiva continúe vigente en tanto el Congreso de la Unión cumple con los efectos vinculatorios precisados en el apartado respectivo, lo que permitirá, incluso, la eficacia de los derechos humanos a la consulta de las personas con discapacidad y a las personas indígenas y afromexicanas. Asimismo, se precisa que la declaración de invalidez de los referidos preceptos no se limita a su expulsión del orden jurídico, sino que conlleva la obligación constitucional de que el órgano legislativo desarrolle la consulta correspondiente, cumpliendo con los parámetros establecidos en esta determinación y, dentro del plazo de postergación de los efectos de invalidez antes precisado, con base en los resultados de dicha consulta, emita la regulación que corresponda. 457. Por lo expuesto, se vincula al Congreso de la Unión para que, dentro de los doce meses siguientes a la notificación que se le haga de los puntos resolutivos de esta resolución lleve a cabo, conforme a los parámetros fijados en esta decisión, la consulta a las personas con discapacidad y personas indígenas y afromexicanas, dentro del mismo plazo, emita la regulación correspondiente. Lo anterior, en el entendido de que la consulta no debe limitarse a los preceptos declarados inconstitucionales, sino que deberá tener un carácter abierto, a efecto de otorgar la posibilidad de CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES que se facilite el diálogo democrático y busque la participación del grupo involucrado, en relación con cualquier aspecto regulado en el Código Militar de Procedimientos Penales. 458. El plazo establecido, además, permite que no se prive a los grupos vulnerables involucrados, de los posibles efectos benéficos de las normas, y al mismo tiempo permitir al Congreso de la Unión atender a lo resuelto en la presente ejecutoria; sin perjuicio de que, en un tiempo menor, se pudiera legislar en relación con los preceptos declarados inconstitucionales, bajo el presupuesto ineludible de que efectivamente se realice la consulta en los términos fijados por esta Suprema Corte de Justicia de la Nación. 459. Por lo expuesto y fundado, se RESUELVE:
-PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-SEGUNDO. Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 10, párrafo primero, 215, 267 y 363 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
-TERCERO. Se reconoce la validez de los artículos 2, 73, 87, 101, fracciones I, inciso b) y II, inciso b), 103, 105, 123, 128, fracción VIII, en su porción normativa “y a particulares”, 129, párrafo segundo, fracciones VI, VII, XI, en su porción normativa “a las personas físicas o morales”, y XII, 136, fracciones VI y VII, 145, fracción II, inciso b), 146, 151, párrafo primero, 153, fracción XI, 171, párrafo tercero, 212, en su porción normativa “persona o”, 247, fracción III, 248, 262, 264, 283, 286, 352, 357, 364 y 367 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 38, 49 Bis, fracción XII, en su porción normativa “y solicitar a las personas físicas o colectivas”, y 83, fracciones XIV, XIX, XXIII, XLIII, XLV y XLIX del Código de Justicia Militar, reformados y adicionados mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
-CUARTO. Se declara la invalidez de los artículos 162, párrafo tercero, en su porción normativa “o en los siguientes casos:”, así como de sus fracciones I a IV, 238, 245, en su porción normativa “decretará o”, 247, fracción V, 263, 278, 282, 291, 295, 296, 299 y 361 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 81 Bis, fracción VII, y 83, fracción XIII, del Código de Justicia Militar, reformado y adicionado mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
-QUINTO. Se declara la invalidez de los artículos 10, párrafo segundo y 43, párrafos del primero al cuarto y sexto, del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá efectos a los doce meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que dentro del referido plazo, previo desarrollo de las respectivas consultas indígena y afromexicana, así como a las personas con discapacidad, ese Congreso deberá legislar en la materia.
-SEXTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+VISTOS; para resolver los autos de la acción de inconstitucionalidad promovida por la Comisión Nacional de los Derechos Humanos; y, RESULTANDO: …….. 449. DÉCIMO CUARTO. EFECTOS. Se precisa que los efectos de la invalidez decretada respecto de las normas especificadas en este fallo surtirán a partir de que se notifiquen los puntos resolutivos del presente fallo al Congreso de la Unión, sin perjuicio de que se apliquen los principios en materia penal, de conformidad con los artículos 105 constitucional y 45 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos. 450. Ahora bien, en relación con los efectos específicos de invalidez, se precisa que atendiendo a la facultad de esta Suprema Corte de Justicia de la Nación para determinar los efectos de las sentencias estimatorias que emite, conforme a lo dispuesto en los citados artículos 41 y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y que conforme a jurisprudencia P./J. 84/2007, cuyo rubro es: “ACCIÓN DE INCONSTITUCIONALIDAD. LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CUENTA CON AMPLIAS FACULTADES PARA DETERMINAR LOS EFECTOS DE LAS SENTENCIAS ESTIMATORIAS.” 451. En esa jurisprudencia se sostiene que los efectos que este Tribunal Constitucional imprima a sus sentencias estimatorias en la vía de acción de inconstitucionalidad deben, de manera prioritaria, salvaguardar de manera eficaz la norma constitucional violada, aunque al mismo tiempo se debe evitar generar una situación de mayor incertidumbre jurídica que la ocasionada por las normas impugnadas, así como afectar injustificadamente el ámbito decisorio establecido constitucionalmente a favor de otros poderes públicos (federales, estatales y/o municipales). 452. Lo anterior determina que este Tribunal Pleno cuenta con un amplio margen de apreciación para salvaguardar eficazmente la norma constitucional o convencional violada. Por ello, este Tribunal Pleno ha tomado decisiones en que el efecto consistió únicamente en la expulsión de las porciones normativas que presentaban vicios de inconstitucionalidad; en otros casos, el efecto ha consistido en la expulsión de todo un conjunto armónico de normas dentro del ordenamiento legal impugnado; e, inclusive, se han expulsado del orden jurídico nacional leyes u ordenamientos completos por existir violaciones muy graves a las normas que rigen el procedimiento para su creación. Asimismo, en ocasiones, el efecto de la sentencia se ha postergado por un lapso razonable y, en otros casos, el efecto ha consistido en la reviviscencia de las normas vigentes con anterioridad a las que han sido expulsadas del ordenamiento jurídico, para garantizar un mínimo indispensable de certeza jurídica. 453. En esos términos, por tratarse de normas en materia penal, la invalidez decretada surtirá efectos retroactivos al diecisiete de mayo de dos mil dieciséis; fecha en que entró en vigor el Decreto impugnado. 454. Corresponderá a los operadores jurídicos competentes decidir y resolver, en cada caso concreto sujeto a su conocimiento, de acuerdo con los principios generales y disposiciones legales aplicables en esta materia. 455. Por su parte, por cuanto hace específicamente a la declaración de invalidez de los artículos 10, párrafo segundo, y 43, párrafos primero al cuarto y sexto, del Código Militar de Procedimientos Penales, por las razones precisadas en el Considerando Quinto, cabe puntualizar que en diversos precedentes, esta Suprema Corte de Justicia de la Nación ha establecido un plazo de seis meses para que se dé cumplimiento a las declaraciones de invalidez derivadas de la falta de consulta de los pueblos y comunidades indígenas, o de doce meses, tal como se determinó en las acciones de inconstitucionalidad 84/2016, 81/2018 y 201/2020, e incluso, de ciento ochenta días naturales para el surtimiento de efectos de la declaración de invalidez de actos legislativos respecto de los cuales se omitió la consulta previa a las personas con discapacidad, en tanto que, al resolver la acción de inconstitucionalidad 212/2020, el Pleno otorgó un plazo de dieciocho meses, ante las serias dificultades y riesgos que implicaría celebrar las consultas respectivas durante la pandemia por el virus SARS-COV2, de lo que se deduce que el plazo depende de las circunstancias específicas de cada caso. 456. De esta manera, con fundamento en lo previsto en el artículo 45, párrafo primero, de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, la declaración de invalidez debe postergarse por doce meses con el objeto de que la regulación respectiva continúe vigente en tanto el Congreso de la Unión cumple con los efectos vinculatorios precisados en el apartado respectivo, lo que permitirá, incluso, la eficacia de los derechos humanos a la consulta de las personas con discapacidad y a las personas indígenas y afromexicanas. Asimismo, se precisa que la declaración de invalidez de los referidos preceptos no se limita a su expulsión del orden jurídico, sino que conlleva la obligación constitucional de que el órgano legislativo desarrolle la consulta correspondiente, cumpliendo con los parámetros establecidos en esta determinación y, dentro del plazo de postergación de los efectos de invalidez antes precisado, con base en los resultados de dicha consulta, emita la regulación que corresponda. 457. Por lo expuesto, se vincula al Congreso de la Unión para que, dentro de los doce meses siguientes a la notificación que se le haga de los puntos resolutivos de esta resolución lleve a cabo, conforme a los parámetros fijados en esta decisión, la consulta a las personas con discapacidad y personas indígenas y afromexicanas, dentro del mismo plazo, emita la regulación correspondiente. Lo anterior, en el entendido de que la consulta no debe limitarse a los preceptos declarados inconstitucionales, sino que deberá tener un carácter abierto, a efecto de otorgar la posibilidad de que se facilite el diálogo democrático y busque la participación del grupo involucrado, en relación con cualquier aspecto regulado en el Código Militar de Procedimientos Penales. 458. El plazo establecido, además, permite que no se prive a los grupos vulnerables involucrados, de los posibles efectos benéficos de las normas, y al mismo tiempo permitir al Congreso de la Unión atender a lo resuelto en la presente ejecutoria; sin perjuicio de que, en un tiempo menor, se pudiera legislar en relación con los preceptos declarados inconstitucionales, bajo el presupuesto ineludible de que efectivamente se realice la consulta en los términos fijados por esta Suprema Corte de Justicia de la Nación. 459. Por lo expuesto y fundado, se RESUELVE:
+**PRIMERO.** Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
+**SEGUNDO.** Se desestima en la presente acción de inconstitucionalidad respecto de los artículos 10, párrafo primero, 215, 267 y 363 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
+**TERCERO.** Se reconoce la validez de los artículos 2, 73, 87, 101, fracciones I, inciso b) y II, inciso b), 103, 105, 123, 128, fracción VIII, en su porción normativa “y a particulares”, 129, párrafo segundo, fracciones VI, VII, XI, en su porción normativa “a las personas físicas o morales”, y XII, 136, fracciones VI y VII, 145, fracción II, inciso b), 146, 151, párrafo primero, 153, fracción XI, 171, párrafo tercero, 212, en su porción normativa “persona o”, 247, fracción III, 248, 262, 264, 283, 286, 352, 357, 364 y 367 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 38, 49 Bis, fracción XII, en su porción normativa “y solicitar a las personas físicas o colectivas”, y 83, fracciones XIV, XIX, XXIII, XLIII, XLV y XLIX del Código de Justicia Militar, reformados y adicionados mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis.
+**CUARTO.** Se declara la invalidez de los artículos 162, párrafo tercero, en su porción normativa “o en los siguientes casos:”, así como de sus fracciones I a IV, 238, 245, en su porción normativa “decretará o”, 247, fracción V, 263, 278, 282, 291, 295, 296, 299 y 361 del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis; así como de los artículos 81 Bis, fracción VII, y 83, fracción XIII, del Código de Justicia Militar, reformado y adicionado mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá sus efectos retroactivos al diecisiete de mayo de dos mil dieciséis, a partir de la notificación de estos puntos resolutivos al Congreso de la Unión.
+**QUINTO.** Se declara la invalidez de los artículos 10, párrafo segundo y 43, párrafos del primero al
+**cuarto.** y sexto, del Código Militar de Procedimientos Penales, expedido mediante Decreto publicado en el Diario Oficial de la Federación el dieciséis de mayo de dos mil dieciséis, la cual surtirá efectos a los doce meses siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que dentro del referido plazo, previo desarrollo de las respectivas consultas indígena y afromexicana, así como a las personas con discapacidad, ese Congreso deberá legislar en la materia.
+**SEXTO.** Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 Notifíquese; con testimonio de la presente resolución, devuélvanse los autos a su lugar de origen y, en su oportunidad, archívese el presente toca como asunto concluido.
-Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES ……..
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación: ……..
 La señora Ministra Presidenta Norma Lucía Piña Hernández declaró que el asunto se resolvió en los términos precisados.
 Firman la señora Ministra Presidenta y el señor Ministro Ponente con el Secretario General de Acuerdos, quien da fe.
 Presidenta, Ministra Norma Lucía Piña Hernández.- Firmado electrónicamente.- Ponente, Ministro Luis María Aguilar Morales.- Firmado electrónicamente.- Secretario General de Acuerdos, Lic. Rafael Coello Cetina.- Firmado electrónicamente.
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de ciento cuatro fojas útiles, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 46/2016, promovida por la Comisión Nacional de los Derechos Humanos, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del diecisiete de abril de dos mil veintitrés. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a siete de agosto de dos mil veintitrés.Rúbrica.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
-Publicado en el Diario Oficial de la Federación el 1 de abril de 2024 Artículo Trigésimo Séptimo.- Se reforma el artículo 106, fracción XI, del Código Militar de Procedimientos Penales, para quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.
+Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
+
+### Artículo Trigésimo
+Séptimo.- Se reforma el artículo 106, fracción XI, del Código Militar de Procedimientos Penales, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal;
+DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal;
 Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales.
-Publicado en el Diario Oficial de la Federación el 16 de julio de 2025 Artículo Noveno.- Se reforman los artículos 1, párrafo segundo; 3, fracciones I, IV, V, VII, VIII y XIII; 4, párrafos segundo y tercero; 14; 16; 17; 18; 20, párrafo primero, fracciones I, inciso a), II y párrafo segundo; 21; 22, párrafo primero; 23; 24, párrafo tercero; 25, párrafos primero y tercero; 26, párrafos primero y segundo; 27, epígrafe, párrafos primero y segundo; 31; 32; 33, de su párrafo primero, la fracción II, párrafos tercero y cuarto; 47, párrafos primero y tercero; 51, párrafo cuarto; 52; 55; 57, párrafo segundo; 61, epígrafe, párrafos primero, segundo y tercero; 65; 73; 75; 76, párrafos primero, segundo, tercero y cuarto; 82, párrafos segundo y tercero; 83; 87; 89, epígrafe, párrafo primero; 91, párrafo tercero; 97, párrafos primero y segundo; 103; 105, párrafo tercero; 110, epígrafe, párrafo primero, fracciones II, IV, V, VI, X, XI, XII, XIII, XIV y XV; 111, epígrafe, párrafos primero y segundo; 112; 114, epígrafe, párrafo primero, fracciones I, II, III, V, VII, X, XII y XVI; 116; 126, párrafos tercero y cuarto; 128, de su párrafo primero, fracciones X, XI, XVIII y XIX; 129, epígrafe, párrafos primero y segundo; 130, párrafo primero, fracción I; 137, párrafos primero, segundo y tercero; 139; 140, párrafos primero, fracción II, cuarto y quinto; 144, párrafos primero, tercero y séptimo; 146, párrafo primero; 147; 150, epígrafe, del párrafo primero, fracciones II, V y VI; 151, párrafo primero; 153, párrafo primero, fracciones I, V y XII; 162, párrafo segundo; 163, párrafo primero; 164, párrafos primero, tercero, cuarto y noveno; 165, epígrafe, párrafo primero, fracciones I, II y III; 166, párrafo primero, fracción III; 169; 171, epígrafe, párrafos primero, segundo, tercero y cuarto; 174, del párrafo primero, fracciones I, III, IV, V, VI, VII, VIII y XIII; 189, párrafo primero, fracción I y párrafo segundo; 192, párrafos primero, segundo y tercero; 193; 198, epígrafe, párrafo primero, fracciones I, II y III; 199, párrafos primero, tercero y quinto; 200, párrafos primero y segundo; 202; 215; 219; 224, párrafo segundo; 249; 252, del párrafo segundo, fracciones II, III y V, párrafos cuarto y sexto; 257, párrafo primero; 262; 266, párrafos primero, segundo y tercero; 270; 273, párrafos segundo, tercero y cuarto; 275; 281; 284, párrafo quinto; 286, fracción III; 287, epígrafe y párrafos primero, cuarto y sexto; 289; 290, epígrafe y párrafo tercero; 292; 300, del párrafo primero, la fracción I; 301; 302, párrafo tercero; 303; 304; 305; 306; 307; 308 y 309; se adicionan a los artículos 3 Bis, una fracción II Bis, y 189, un párrafo tercero, y se deroga el artículo 131 del Código Militar de Procedimientos Penales, para quedar como sigue: ……..
-Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
-Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Cuarto.- Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
-Quinto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
-Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
-Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
-Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
+Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
+
+### Artículo Noveno
+Se reforman los artículos 1, párrafo segundo; 3, fracciones I, IV, V, VII, VIII y XIII; 4, párrafos segundo y tercero; 14; 16; 17; 18; 20, párrafo primero, fracciones I, inciso a), II y párrafo
+**segundo.** ; 21; 22, párrafo primero; 23; 24, párrafo tercero; 25, párrafos primero y tercero; 26, párrafos
+**primero.** y segundo; 27, epígrafe, párrafos primero y segundo; 31; 32; 33, de su párrafo primero, la fracción II, párrafos tercero y cuarto; 47, párrafos primero y tercero; 51, párrafo cuarto; 52; 55; 57, párrafo
+**segundo.** ; 61, epígrafe, párrafos primero, segundo y tercero; 65; 73; 75; 76, párrafos primero, segundo,
+**tercero.** y cuarto; 82, párrafos segundo y tercero; 83; 87; 89, epígrafe, párrafo primero; 91, párrafo tercero; 97, párrafos primero y segundo; 103; 105, párrafo tercero; 110, epígrafe, párrafo primero, fracciones II, IV, V, VI, X, XI, XII, XIII, XIV y XV; 111, epígrafe, párrafos primero y segundo; 112; 114, epígrafe, párrafo
+**primero.** , fracciones I, II, III, V, VII, X, XII y XVI; 116; 126, párrafos tercero y cuarto; 128, de su párrafo
+**primero.** , fracciones X, XI, XVIII y XIX; 129, epígrafe, párrafos primero y segundo; 130, párrafo primero, fracción I; 137, párrafos primero, segundo y tercero; 139; 140, párrafos primero, fracción II, cuarto y
+**quinto.** ; 144, párrafos primero, tercero y séptimo; 146, párrafo primero; 147; 150, epígrafe, del párrafo
+**primero.** , fracciones II, V y VI; 151, párrafo primero; 153, párrafo primero, fracciones I, V y XII; 162, párrafo
+**segundo.** ; 163, párrafo primero; 164, párrafos primero, tercero, cuarto y noveno; 165, epígrafe, párrafo
+**primero.** , fracciones I, II y III; 166, párrafo primero, fracción III; 169; 171, epígrafe, párrafos primero,
+**segundo.** , tercero y cuarto; 174, del párrafo primero, fracciones I, III, IV, V, VI, VII, VIII y XIII; 189, párrafo
+**primero.** , fracción I y párrafo segundo; 192, párrafos primero, segundo y tercero; 193; 198, epígrafe, párrafo primero, fracciones I, II y III; 199, párrafos primero, tercero y quinto; 200, párrafos primero y
+**segundo.** ; 202; 215; 219; 224, párrafo segundo; 249; 252, del párrafo segundo, fracciones II, III y V, párrafos cuarto y sexto; 257, párrafo primero; 262; 266, párrafos primero, segundo y tercero; 270; 273, párrafos segundo, tercero y cuarto; 275; 281; 284, párrafo quinto; 286, fracción III; 287, epígrafe y párrafos primero, cuarto y sexto; 289; 290, epígrafe y párrafo tercero; 292; 300, del párrafo primero, la fracción I; 301; 302, párrafo tercero; 303; 304; 305; 306; 307; 308 y 309; se adicionan a los artículos 3 Bis, una fracción II Bis, y 189, un párrafo tercero, y se deroga el artículo 131 del Código Militar de Procedimientos Penales, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
+**Tercero.-** Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
+**Cuarto.-** Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
+**Quinto.-** Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
+**Sexto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+**Séptimo.-** Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
+**Octavo.-** Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
 Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
-Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Cuarto.- Se reforma el quinto párrafo del artículo 137 del Código Militar de Procedimientos Penales, para quedar como sigue: …….
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
+
+### Artículo Cuarto
+Se reforma el quinto párrafo del artículo 137 del Código Militar de Procedimientos Penales, para quedar como sigue: …….
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
-Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+
+### artículo Sexto
+Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

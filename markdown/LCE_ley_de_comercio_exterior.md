@@ -5,10 +5,10 @@
 
 ---
 
-LEY DE COMERCIO EXTERIOR LEY DE COMERCIO EXTERIOR Nueva Ley publicada en el Diario Oficial de la Federación el 27 de julio de 1993 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 27 de julio de 1993 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
-LEY DE COMERCIO EXTERIOR TITULO I DISPOSICIONES GENERALES CAPITULO UNICO
+TITULO I DISPOSICIONES GENERALES CAPITULO UNICO
 
 ### Artículo 1o
 .- La presente Ley tiene por objeto regular y promover el comercio exterior, incrementar la competitividad de la economía nacional, propiciar el uso eficiente de los recursos productivos del país, integrar adecuadamente la economía mexicana con la internacional, defender la planta productiva de prácticas desleales del comercio internacional y contribuir a la elevación del bienestar de la población.
@@ -23,7 +23,7 @@ Artículo reformado DOF 24-01-2006
 I. Secretaría, la Secretaría de Economía;
 Fracción reformada DOF 24-01-2006 II. Comisión, la Comisión de Comercio Exterior;
 Fracción reformada DOF 24-01-2006 III. Cuotas compensatorias, aquellas que se aplican a las mercancías importadas en condiciones de discriminación de precios o de subvención en su país de origen, conforme a lo establecido en la presente Ley;
-Fracción reformada DOF 24-01-2006 LEY DE COMERCIO EXTERIOR IV. Reglas, las de carácter general que emita la Secretaría, sobre regulaciones y restricciones no arancelarias y programas e instrumentos de comercio exterior, y Fracción adicionada DOF 24-01-2006 V. Reglamento, el Reglamento de esta Ley.
+Fracción reformada DOF 24-01-2006 IV. Reglas, las de carácter general que emita la Secretaría, sobre regulaciones y restricciones no arancelarias y programas e instrumentos de comercio exterior, y Fracción adicionada DOF 24-01-2006 V. Reglamento, el Reglamento de esta Ley.
 Fracción adicionada DOF 24-01-2006 Cuando esta Ley se refiera a plazos en días se entenderán días hábiles y cuando se refiera a meses o años se entenderán meses o años calendario.
 TITULO SEGUNDO Facultades del Ejecutivo Federal, de la Secretaría de Economía y de las Comisiones Auxiliares Denominación del Título reformada DOF 24-01-2006 CAPITULO I Facultades del Ejecutivo Federal
 
@@ -35,7 +35,7 @@ III. Establecer medidas para regular o restringir la exportación o importación
 IV. Establecer medidas para regular o restringir la circulación o tránsito de mercancías extranjeras por el territorio nacional procedentes del y destinadas al exterior a través de acuerdos expedidos por la autoridad competente y publicados en el Diario Oficial de la Federación;
 V. Conducir negociaciones comerciales internacionales a través de la Secretaría, sin perjuicio de las facultades que correspondan a otras dependencias del Ejecutivo Federal;
 Fracción reformada DOF 24-01-2006 VI. Coordinar, a través de la Secretaría, la participación de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de los estados en las actividades de promoción del comercio exterior, así como concertar acciones en la materia con el sector privado, y Fracción reformada DOF 24-01-2006 VII. Coordinar, a través de la Secretaría, que las dependencias y entidades de la Administración Pública Federal que administren o controlen una restricción o regulación no arancelaria se encuentren interconectadas electrónicamente con la Secretaría y con la Secretaría de Hacienda y Crédito Público.
-Fracción adicionada DOF 24-01-2006 CAPITULO II Facultades de la Secretaría de Economía Denominación del Capítulo reformada DOF 24-01-2006 LEY DE COMERCIO EXTERIOR
+Fracción adicionada DOF 24-01-2006 CAPITULO II Facultades de la Secretaría de Economía Denominación del Capítulo reformada DOF 24-01-2006
 
 ### Artículo 5o
 .- Son facultades de la Secretaría:
@@ -55,7 +55,7 @@ Fracción reformada DOF 24-01-2006 (se recorre) CAPITULO III Comisiones auxiliar
 
 ### Artículo 6o
 .- La Comisión de Comercio Exterior será órgano de consulta obligatoria de las dependencias y entidades de la Administración Pública Federal en relación con las materias a que se refieren las fracciones I a V del artículo 4o. de esta Ley. Esta Comisión estará encargada de emitir opinión en los asuntos de comercio exterior de conformidad a lo establecido en la presente Ley.
-LEY DE COMERCIO EXTERIOR Asimismo, las dependencias y entidades de la Administración Pública Federal deberán hacer públicos, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de la Ley Federal de Procedimiento Administrativo, los anteproyectos de disposiciones derivadas de la presente Ley. Las organizaciones empresariales reconocidas por la Ley de Cámaras y sus Confederaciones en su carácter de organismos de interés público, así como las asociaciones, instituciones y agrupamientos que los coordinen frente al Gobierno Federal, que representen a nivel nacional los intereses del gremio industrial, comercial, agropecuario, de servicios y aduanal del país, así como cualquier otro interesado, podrán emitir una opinión sobre los anteproyectos mencionados.
+Asimismo, las dependencias y entidades de la Administración Pública Federal deberán hacer públicos, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de la Ley Federal de Procedimiento Administrativo, los anteproyectos de disposiciones derivadas de la presente Ley. Las organizaciones empresariales reconocidas por la Ley de Cámaras y sus Confederaciones en su carácter de organismos de interés público, así como las asociaciones, instituciones y agrupamientos que los coordinen frente al Gobierno Federal, que representen a nivel nacional los intereses del gremio industrial, comercial, agropecuario, de servicios y aduanal del país, así como cualquier otro interesado, podrán emitir una opinión sobre los anteproyectos mencionados.
 Párrafo adicionado DOF 24-01-2006 La Comisión revisará, de oficio o a petición de los organismos mencionados en el párrafo anterior, las medidas de regulación y restricción al comercio exterior que se encuentren vigentes, a fin de recomendar las modificaciones a que haya lugar. Además podrá celebrar audiencias públicas con los interesados.
 Párrafo reformado DOF 24-01-2006
 
@@ -75,7 +75,7 @@ El origen de las mercancías se determinará conforme a las reglas que establezc
 ### Artículo 10
 .- Las reglas de origen deberán someterse previamente a la opinión de la Comisión y publicarse en el Diario Oficial de la Federación. Estas reglas se establecerán bajo cualquiera de los siguientes criterios:
 I. Cambio de clasificación arancelaria. En este caso se especificarán las subpartidas o partidas de la nomenclatura arancelaria del sistema armonizado a que se refiera la regla;
-II. Contenido nacional o regional. En este caso se indicará el método de cálculo y el porcentaje correspondiente, y LEY DE COMERCIO EXTERIOR III. De producción, fabricación o elaboración. En este caso se especificará con precisión la operación o proceso productivo que confiera origen a la mercancía.
+II. Contenido nacional o regional. En este caso se indicará el método de cálculo y el porcentaje correspondiente, y III. De producción, fabricación o elaboración. En este caso se especificará con precisión la operación o proceso productivo que confiera origen a la mercancía.
 La Secretaría podrá utilizar criterios adicionales cuando no se pueda cumplir con los anteriores, mismos que deberán especificarse en la regla de origen respectiva.
 
 ### Artículo 11
@@ -98,7 +98,7 @@ CAPITULO II Medidas de regulación y restricción no arancelarias Sección prime
 
 ### Artículo 15
 .- Las medidas de regulación y restricción no arancelarias a la exportación de mercancías, a que se refiere la fracción III del artículo 4o. de esta Ley, se podrán establecer en los siguientes casos:
-LEY DE COMERCIO EXTERIOR I. Para asegurar el abasto de productos destinados al consumo básico de la población y el abastecimiento de materias primas a los productores nacionales o para regular o controlar recursos naturales no renovables del país, de conformidad a las necesidades del mercado interno y las condiciones del mercado internacional;
+I. Para asegurar el abasto de productos destinados al consumo básico de la población y el abastecimiento de materias primas a los productores nacionales o para regular o controlar recursos naturales no renovables del país, de conformidad a las necesidades del mercado interno y las condiciones del mercado internacional;
 II. Conforme a lo dispuesto en tratados o convenios internacionales de los que México sea parte.
 III. Cuando se trate de productos cuya comercialización esté sujeta, por disposición constitucional, a restricciones específicas;
 IV. Cuando se trate de preservar la fauna y la flora en riesgo o peligro de extinción o de asegurar la conservación o aprovechamiento de especies;
@@ -117,7 +117,7 @@ V. Cuando sea necesario impedir la concurrencia al mercado interno de mercancía
 
 ### artículo 4o
 ., deberán previamente someterse a la opinión de la Comisión y publicarse en el Diario Oficial de la Federación. Las dependencias del Ejecutivo Federal competentes para expedir o hacer cumplir estas medidas deberán publicar en el Diario Oficial de la Federación los procedimientos para su expedición o cumplimiento, e informar a la Comisión acerca de la administración de dichas medidas y procedimientos.
-Las medidas de regulación y restricción no arancelarias a la exportación e importación de mercancías, a que se refiere la fracción III del artículo 4o., deberán expedirse por acuerdo de la Secretaría o, en su caso, conjuntamente con la autoridad competente. Estas medidas consistirán en permisos previos, cupos máximos, marcado de país de origen, certificaciones, cuotas compensatorias y los demás instrumentos LEY DE COMERCIO EXTERIOR que se consideren adecuados para los fines de esta Ley. Las cuotas compensatorias sólo se aplicarán en el caso previsto en la fracción V del artículo anterior.
+Las medidas de regulación y restricción no arancelarias a la exportación e importación de mercancías, a que se refiere la fracción III del artículo 4o., deberán expedirse por acuerdo de la Secretaría o, en su caso, conjuntamente con la autoridad competente. Estas medidas consistirán en permisos previos, cupos máximos, marcado de país de origen, certificaciones, cuotas compensatorias y los demás instrumentos que se consideren adecuados para los fines de esta Ley. Las cuotas compensatorias sólo se aplicarán en el caso previsto en la fracción V del artículo anterior.
 
 ### Artículo 17 A
 - Las restricciones y regulaciones no arancelarias, deberán cumplirse conforme a lo establecido en los ordenamientos aplicables.
@@ -143,7 +143,7 @@ III. Se publique en el Diario Oficial de la Federación, en los casos que proced
 
 ### Artículo 20 A
 - La Secretaría aceptará los certificados de firma electrónica emitidos por los prestadores de servicios de certificación que estén acreditados en los términos del Código de Comercio, así como los que ella misma emita, para efecto de los trámites y notificaciones relacionadas con las regulaciones no arancelarias y los programas previstos en la presente Ley.
-Artículo adicionado DOF 24-01-2006 Sección segunda LEY DE COMERCIO EXTERIOR Permisos previos, cupos y marcado de país de origen
+Artículo adicionado DOF 24-01-2006 Sección segunda Permisos previos, cupos y marcado de país de origen
 
 ### Artículo 21
 .- Corresponde a la Secretaría sujetar la exportación e importación de mercancías a permisos previos y expedirlos conforme a lo siguiente:
@@ -166,7 +166,6 @@ Párrafo adicionado DOF 13-03-2003
 .- Los cupos se asignarán por medio de licitación pública, para lo cual se expedirá convocatoria con el fin de que cualquier persona física o moral presente proposiciones para adquirir parte o la totalidad del cupo asignado a determinada mercancía de exportación o importación.
 Sin embargo, la Secretaría podrá optar, de manera fundada y razonada, por otros procedimientos de asignación que promuevan la competitividad de las cadenas productivas y garanticen un acceso adecuado a nuevos solicitantes. Asimismo, los procedimientos de asignación de cupos se podrán determinar en tratados o convenios internacionales de los que México sea parte.
 En todo caso, la asignación de los cupos entre importadores o exportadores se hará conforme a procedimientos administrativos que no constituyan, por sí mismos, un obstáculo al comercio.
-LEY DE COMERCIO EXTERIOR
 
 ### Artículo 25
 .- La Secretaría, previa consulta a la Comisión, podrá exigir que una mercancía importada al territorio nacional ostente un marcado de país de origen en donde se indique el nombre de dicho país.
@@ -191,7 +190,6 @@ Artículo reformado DOF 13-03-2003 CAPITULO II Discriminación de precios
 
 ### Artículo 30
 .- La importación en condiciones de discriminación de precios consiste en la introducción de mercancías al territorio nacional a un precio inferior a su valor normal.
-LEY DE COMERCIO EXTERIOR
 
 ### Artículo 31
 .- El valor normal de las mercancías exportadas a México es el precio comparable de una mercancía idéntica o similar que se destine al mercado interno del país de origen en el curso de operaciones comerciales normales.
@@ -211,7 +209,6 @@ Párrafo adicionado DOF 13-03-2003
 ### Artículo 34
 .- Cuando una mercancía sea exportada a México desde un país intermediario, y no directamente del país de origen, el valor normal será el precio comparable de mercancías idénticas o similares en el país de procedencia.
 Sin embargo, cuando la mercancía de que se trate sólo transite, no se produzca o no exista un precio comparable en el país de exportación, el valor normal se determinará tomando como base el precio en el mercado del país de origen.
-LEY DE COMERCIO EXTERIOR
 
 ### Artículo 35
 .- Cuando no se pueda obtener un precio de exportación o cuando, a juicio de la Secretaría, el precio de exportación no sea fiable por existir una vinculación o un arreglo compensatorio entre el exportador y el importador o un tercero, dicho precio podrá calcularse sobre la base del precio al que los productos importados se revendan por primera vez a un comprador independiente en el territorio nacional, o si los productos no se revendiesen a un comprador independiente o no lo fueran en el mismo estado en que se importaron, sobre una base razonable que la autoridad determine.
@@ -237,7 +234,7 @@ CAPITULO IV DAÑO A UNA RAMA DE PRODUCCION NACIONAL Denominación del Capítulo 
 I. Un daño material causado a una rama de producción nacional;
 II. Una amenaza de daño a una rama de producción nacional; o III. Un retraso en la creación de una rama de producción nacional.
 En la investigación administrativa se deberá probar que las importaciones en condiciones de discriminación de precios o de subvenciones, causan daño a la rama de producción nacional, en los términos de esta Ley.
-LEY DE COMERCIO EXTERIOR La Secretaría considerará otros factores de que tenga conocimiento, distintos a las importaciones en condiciones de discriminación de precios o de subvenciones, los cuales pudieran afectar a la rama de producción nacional. El efecto causado por dichos factores no se atribuirá a las importaciones en condiciones de discriminación de precios o de subvenciones.
+La Secretaría considerará otros factores de que tenga conocimiento, distintos a las importaciones en condiciones de discriminación de precios o de subvenciones, los cuales pudieran afectar a la rama de producción nacional. El efecto causado por dichos factores no se atribuirá a las importaciones en condiciones de discriminación de precios o de subvenciones.
 Artículo reformado DOF 13-03-2003
 
 ### Artículo 40
@@ -256,7 +253,7 @@ Artículo reformado DOF 13-03-2003
 
 ### Artículo 42
 .- La determinación de la existencia de una amenaza de daño a la rama de producción nacional, la hará la Secretaría tomando en cuenta, entre otros, los siguientes factores:
-LEY DE COMERCIO EXTERIOR I. Una tasa significativa de incremento de la importación de mercancías objeto de discriminación de precios o de subvenciones en el mercado nacional que indique la probabilidad de que se producirá un aumento sustancial de las mismas;
+I. Una tasa significativa de incremento de la importación de mercancías objeto de discriminación de precios o de subvenciones en el mercado nacional que indique la probabilidad de que se producirá un aumento sustancial de las mismas;
 II. Una suficiente capacidad libremente disponible del exportador o un aumento inminente y sustancial de la misma que indique la probabilidad de un aumento sustancial de las exportaciones objeto de discriminación de precios o de subvenciones al mercado mexicano, teniendo en cuenta la existencia de otros mercados de exportación que puedan absorber el posible aumento de dichas exportaciones;
 III. Si las importaciones se realizan a precios que tendrán el efecto de hacer bajar o contener el alza de los precios internos de manera significativa, y que probablemente harán aumentar la demanda de nuevas importaciones;
 IV. La existencia de la mercancía objeto de investigación;
@@ -273,7 +270,7 @@ Artículo reformado DOF 13-03-2003
 .- Para determinar la existencia de daño a una rama de producción nacional, el territorio nacional podrá dividirse en dos o más mercados competidores y los productores de cada mercado podrán ser considerados como una rama de producción distinta si:
 I. Los productores de ese mercado venden la totalidad o casi la totalidad de su producción de la mercancía de que se trate en ese mercado, y II. En ese mercado la demanda no está cubierta en grado sustancial por productores de la mercancía de que se trate situados en otro lugar del territorio.
 En dichas circunstancias, la Secretaría podrá considerar que existe daño, incluso cuando no resulte perjudicada una porción importante de la rama de producción nacional total, siempre que haya una concentración de importaciones objeto de discriminación de precios o de subvenciones en ese mercado aislado y que, además, tales importaciones causen daño a los productores de la totalidad o casi la totalidad de la rama de producción en ese mercado.
-Artículo reformado DOF 13-03-2003 LEY DE COMERCIO EXTERIOR TITULO VI MEDIDAS DE SALVAGUARDA CAPITULO UNICO
+Artículo reformado DOF 13-03-2003 TITULO VI MEDIDAS DE SALVAGUARDA CAPITULO UNICO
 
 ### Artículo 45
 .- Las medidas de salvaguarda son aquellas que, en los términos de la fracción II del
@@ -299,7 +296,7 @@ Artículo reformado DOF 13-03-2003
 .- Para determinar si el aumento de las importaciones ha causado o amenaza causar daño grave a una rama de producción nacional, la Secretaría recabará en lo posible toda la información relevante y evaluará todos los factores pertinentes de carácter objetivo y cuantificable que tengan relación con la situación de la rama de producción nacional de mercancías idénticas, similares o directamente competidoras. Esta información deberá incluir:
 Párrafo reformado DOF 13-03-2003 I. El ritmo y la cuantía del aumento de las importaciones del bien en cuestión en términos absolutos o relativos;
 Fracción reformada DOF 13-03-2003 II. La parte del mercado interno absorbida por las importaciones en aumento;
-Fracción reformada DOF 13-03-2003 LEY DE COMERCIO EXTERIOR III. Los cambios en los niveles de ventas, producción, productividad, utilización de la capacidad instalada, ganancias o pérdidas, empleo y precios, y Fracción reformada DOF 13-03-2003 IV. Derogado.
+Fracción reformada DOF 13-03-2003 III. Los cambios en los niveles de ventas, producción, productividad, utilización de la capacidad instalada, ganancias o pérdidas, empleo y precios, y Fracción reformada DOF 13-03-2003 IV. Derogado.
 Fracción derogada DOF 13-03-2003 V. Otros elementos que la Secretaría considere necesarios.
 La determinación de amenaza de daño grave se basará en hechos y no simplemente en alegatos, conjeturas o posibilidades remotas.
 Párrafo adicionado DOF 13-03-2003 TITULO VII PROCEDIMIENTO EN MATERIA DE PRACTICAS DESLEALES DE COMERCIO INTERNACIONAL Y MEDIDAS DE SALVAGUARDA Denominación del Título reformada DOF 13-03-2003 CAPITULO I DISPOSICIONES COMUNES A LOS PROCEDIMIENTOS Denominación del Capítulo reformada DOF 13-03-2003
@@ -313,7 +310,6 @@ Párrafo reformado DOF 13-03-2003 En los procedimientos de investigación a que 
 Párrafo reformado DOF 13-03-2003 I. De mercancías idénticas o similares a aquéllas que se estén importando o pretendan importarse en condiciones de prácticas desleales de comercio internacional, o II. En el caso de medidas de salvaguarda, de mercancías idénticas, similares o directamente competidoras a aquellas que se estén importando en tal cantidad y en condiciones tales que causen daño grave o amenaza de daño grave a la rama de producción nacional.
 Fracción reformada DOF 13-03-2003 Los solicitantes deberán ser representativos de cuando menos el 25% de la producción total de la mercancía idéntica o similar, o directamente competidora, producida por la rama de producción nacional.
 Párrafo reformado DOF 13-03-2003 En la solicitud correspondiente se deberá manifestar por escrito ante la autoridad competente y bajo protesta de decir verdad los argumentos que fundamenten la necesidad de aplicar cuotas compensatorias o medidas de salvaguarda. En dicha solicitud se deberá cumplir con los requisitos establecidos en el reglamento. Los solicitantes tendrán la obligación de acompañar a su escrito los formularios que para tal efecto establezca la Secretaría.
-LEY DE COMERCIO EXTERIOR
 
 ### Artículo 51
 .- Se considera parte interesada a los productores solicitantes, importadores y exportadores de la mercancía objeto de investigación, así como a las personas morales extranjeras que tengan un interés directo en la investigación de que se trate y aquéllas que tengan tal carácter en los tratados o convenios comerciales internacionales.
@@ -334,7 +330,7 @@ Párrafo adicionado DOF 13-03-2003. Reformado DOF 21-12-2006
 
 ### Artículo 54
 .- La Secretaría podrá requerir a las partes interesadas los elementos probatorios, información y datos que estime pertinentes, para lo cual se valdrá de formularios que establezca la misma.
-LEY DE COMERCIO EXTERIOR De no satisfacerse el requerimiento a que se refiere el párrafo anterior, la Secretaría resolverá conforme a la información disponible.
+De no satisfacerse el requerimiento a que se refiere el párrafo anterior, la Secretaría resolverá conforme a la información disponible.
 
 ### Artículo 55
 .- La Secretaría podrá requerir a los productores, distribuidores o comerciantes de la mercancía de que se trate, así como a los agentes aduanales, mandatarios, apoderados o consignatarios de los importadores, o cualquier otra persona que estime conveniente, la información y datos que tengan a su disposición.
@@ -357,7 +353,7 @@ Párrafo reformado DOF 13-03-2003 Sección segunda Resolución final
 .- Dentro de un plazo de 210 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de la resolución de inicio de la investigación, la Secretaría dictará la resolución final. A través de esta resolución, la Secretaría deberá:
 Párrafo reformado DOF 13-03-2003 I. Imponer cuota compensatoria definitiva;
 II. Revocar la cuota compensatoria provisional, o III. Declarar concluida la investigación sin imponer cuota compensatoria.
-LEY DE COMERCIO EXTERIOR La resolución final deberá publicarse en el Diario Oficial de la Federación y posteriormente notificarse a las partes interesadas de que se tenga conocimiento.
+La resolución final deberá publicarse en el Diario Oficial de la Federación y posteriormente notificarse a las partes interesadas de que se tenga conocimiento.
 Párrafo reformado DOF 13-03-2003
 
 ### Artículo 60
@@ -366,9 +362,7 @@ Párrafo reformado DOF 13-03-2003
 ### Artículo 61
 .- En el curso de la investigación administrativa las partes interesadas podrán solicitar a la Secretaría la celebración de una audiencia conciliatoria. En esta audiencia se podrán proponer fórmulas de solución y conclusión de la investigación, las cuales, de resultar procedentes, serán sancionadas por la propia Secretaría e incorporadas en la resolución respectiva que tendrá el carácter de resolución final.
 Esta resolución deberá notificarse a las partes interesadas y publicarse en el Diario Oficial de la Federación.
-
-## Sección cuarta
-Cuotas compensatorias
+Sección cuarta Cuotas compensatorias
 
 ### Artículo 62
 .- Corresponde a la Secretaría determinar las cuotas compensatorias, las cuales serán equivalentes, en el caso de discriminación de precios, a la diferencia entre el valor normal y el precio de exportación; y en el caso de subvenciones, al monto del beneficio.
@@ -381,7 +375,7 @@ Las cuotas compensatorias podrán ser menores al margen de discriminación de pr
 .- La Secretaría calculará márgenes individuales de discriminación de precios o de subvenciones para aquellas productoras extranjeras que aporten la información suficiente para ello; dichos márgenes individuales servirán de base para la determinación de cuotas compensatorias específicas.
 La Secretaría determinará una cuota compensatoria con base en el margen de discriminación de precios o de subvenciones obtenido con base en la mejor información disponible a partir de los hechos de que se tenga conocimiento, en los siguientes casos:
 Párrafo reformado DOF 21-12-2006 I. Cuando los productores no comparezcan en la investigación; o II. Cuando los productores no presenten la información requerida en tiempo y forma, entorpezcan significativamente la investigación, o presenten información o pruebas incompletas, incorrectas o que no provengan de sus registros contables, lo cual no permita la determinación de un margen individual de discriminación de precios o de subvenciones; o III. Cuando los productores no hayan realizado exportaciones del producto objeto de investigación durante el período investigado.
-LEY DE COMERCIO EXTERIOR Se entenderá por los hechos de que se tenga conocimiento, los acreditados mediante las pruebas y datos aportados en tiempo y forma por las partes interesadas, sus coadyuvantes, así como por la información obtenida por la autoridad investigadora.
+Se entenderá por los hechos de que se tenga conocimiento, los acreditados mediante las pruebas y datos aportados en tiempo y forma por las partes interesadas, sus coadyuvantes, así como por la información obtenida por la autoridad investigadora.
 Artículo reformado DOF 13-03-2003
 
 ### Artículo 65
@@ -399,7 +393,7 @@ Artículo reformado DOF 13-03-2003
 
 ### Artículo 67
 .- Las cuotas compensatorias definitivas estarán vigentes durante el tiempo y en la medida necesarios para contrarrestar el daño a la rama de producción nacional.
-Artículo reformado DOF 13-03-2003 LEY DE COMERCIO EXTERIOR
+Artículo reformado DOF 13-03-2003
 
 ### Artículo 68
 .- Las cuotas compensatorias definitivas podrán revisarse anualmente a petición de parte o en cualquier tiempo de oficio por la Secretaría, independientemente de que dichas cuotas se encuentren sujetas a un mecanismo alternativo de solución de controversias o a un procedimiento administrativo o judicial.
@@ -428,7 +422,7 @@ Artículo adicionado DOF 13-03-2003
 ### Artículo 71
 .- No están sujetas al pago de cuota compensatoria o medida de salvaguarda, las siguientes mercancías:
 I. Los equipajes de pasajeros en viajes internacionales;
-LEY DE COMERCIO EXTERIOR II. Los menajes de casa pertenecientes a inmigrantes y a nacionales repatriados o deportados, que los mismos hayan usado durante su residencia en el extranjero;
+II. Los menajes de casa pertenecientes a inmigrantes y a nacionales repatriados o deportados, que los mismos hayan usado durante su residencia en el extranjero;
 III. Las que importen los residentes de la franja fronteriza para su consumo personal;
 IV. Las que sean donadas para ser destinadas a fines culturales, de enseñanza, de investigación, de salud pública o de servicio social, que importen organismos públicos, así como personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta, siempre que formen parte de su patrimonio, previa autorización de la Secretaría, y V. Las demás que autorice la Secretaría.
 En los supuestos de las fracciones I a III se atenderá a lo previsto en la legislación aduanera.
@@ -448,7 +442,7 @@ El compromiso asumido se incorporará en la resolución correspondiente junto co
 Artículo reformado DOF 13-03-2003 CAPITULO III Procedimiento en materia de medidas de salvaguarda Fe de erratas a la denominación del Capítulo DOF 25-08-1993 Sección primera Determinación de medidas de salvaguarda
 
 ### Artículo 75
-.- La determinación de las medidas de salvaguarda deberá hacerse en un plazo no mayor de 210 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de LEY DE COMERCIO EXTERIOR la resolución de inicio, y se sujetará a lo dispuesto en los tratados y convenios internacionales de los que México sea parte.
+.- La determinación de las medidas de salvaguarda deberá hacerse en un plazo no mayor de 210 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de la resolución de inicio, y se sujetará a lo dispuesto en los tratados y convenios internacionales de los que México sea parte.
 Artículo reformado DOF 13-03-2003, 24-01-2006
 
 ### Artículo 76
@@ -470,7 +464,7 @@ CAPITULO IV Otras disposiciones comunes a los procedimientos
 
 ### Artículo 80
 .- La Secretaría otorgará a las partes interesadas acceso oportuno para examinar toda la información que obre en el expediente administrativo para la presentación de sus argumentos. La información confidencial sólo estará disponible a los representantes legales acreditados de las partes interesadas, y a las personas físicas o morales que conforme a los tratados o convenios internacionales de los que México sea parte puedan tener acceso a la misma. En cualquier caso se deberá contar con autorización de la Secretaría. La información comercial reservada y la información gubernamental confidencial no estarán a disposición de ninguna de las partes interesadas.
-Párrafo reformado DOF 22-12-1993, 13-03-2003 LEY DE COMERCIO EXTERIOR Las personas autorizadas para accesar a la información confidencial no podrán utilizarla para beneficio personal y tendrán la obligación de tomar todas las medidas necesarias para evitar cualquier forma de divulgación de la misma. La contravención a este precepto será sancionada por las disposiciones de esta Ley, independientemente de las sanciones de orden civil y penal que procedieran.
+Párrafo reformado DOF 22-12-1993, 13-03-2003 Las personas autorizadas para accesar a la información confidencial no podrán utilizarla para beneficio personal y tendrán la obligación de tomar todas las medidas necesarias para evitar cualquier forma de divulgación de la misma. La contravención a este precepto será sancionada por las disposiciones de esta Ley, independientemente de las sanciones de orden civil y penal que procedieran.
 Párrafo reformado DOF 13-03-2003 Durante los procedimientos de investigación a que se refiere este título, a petición de las partes interesadas o de sus representantes, la Secretaría dará acceso oportuno a toda la información no confidencial contenida en el expediente administrativo de cualquier otra investigación, una vez transcurridos 60 días de la publicación de la resolución final correspondiente.
 
 ### Artículo 81
@@ -488,7 +482,7 @@ Los acuerdos de la Secretaría por los que se admita alguna prueba no serán rec
 La Secretaría podrá llevar a cabo los procedimientos que juzgue pertinentes a fin de constatar que dicha información y pruebas sean correctas, completas y provengan de sus registros contables, así como cotejar los documentos que obren en el expediente administrativo o efectuar las compulsas que fueren necesarias.
 Tratándose de personas físicas o morales no obligadas a llevar registros contables conforme a la legislación de la materia, las mismas deberán acreditar fehacientemente lo anterior, a juicio de la Secretaría.
 Si como resultado de la visita la Secretaría encuentra que la información presentada en el curso de la investigación por la persona física o moral verificada, no es correcta o completa o no corresponde a sus registros contables, la Secretaría procederá conforme al artículo 64 de esta Ley.
-LEY DE COMERCIO EXTERIOR Las visitas de verificación a personas domiciliadas en el extranjero se realizarán previa notificación al gobierno del país de que se trate, a condición de que dicho gobierno no se oponga a la visita de verificación.
+Las visitas de verificación a personas domiciliadas en el extranjero se realizarán previa notificación al gobierno del país de que se trate, a condición de que dicho gobierno no se oponga a la visita de verificación.
 De no aceptarse la visita de verificación, la Secretaría actuará con base en los hechos de que tenga conocimiento.
 Las visitas de verificación que realice la Secretaría deberán efectuarse en días y horas hábiles por personal designado por la propia dependencia. Sin embargo, también podrán efectuarse en días y horas inhábiles cuando así fuese necesario, en cuyo caso el oficio por el que se haya ordenado la visita expresará la autorización correspondiente.
 De las visitas deberá levantarse acta circunstanciada en presencia de dos testigos propuestos por el visitado o, en su ausencia o negativa, por la autoridad que practique la diligencia. Estas visitas se sujetarán a las disposiciones del reglamento de esta Ley.
@@ -515,7 +509,7 @@ Artículo reformado DOF 13-03-2003
 ### Artículo 89
 .- Las cuotas compensatorias provisionales y definitivas, así como las medidas de salvaguarda, se aplicarán a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 Los importadores o sus consignatarios estarán obligados a calcular en el pedimento de importación correspondiente los montos de las cuotas compensatorias provisionales y definitivas, o de salvaguarda, y a pagarlas, junto con los impuestos al comercio exterior, sin perjuicio de que las cuotas compensatorias provisionales sean garantizadas conforme al artículo 65 y las cuotas compensatorias definitivas conforme a la fracción III del artículo 98.
-LEY DE COMERCIO EXTERIOR CAPITULO V PROCEDIMIENTOS ESPECIALES Capítulo adicionado DOF 13-03-2003
+CAPITULO V PROCEDIMIENTOS ESPECIALES Capítulo adicionado DOF 13-03-2003
 
 ### Artículo 89 A
 - Determinada una cuota compensatoria definitiva, las partes interesadas podrán solicitar a la Secretaría que resuelva si una mercancía está sujeta a dicha cuota compensatoria; de ser procedente la solicitud dará inicio a un procedimiento de cobertura de producto dentro de los 20 días siguientes a la presentación de la misma; y emitirá la resolución final dentro de los 60 días contados a partir de su inicio. Estas resoluciones deberán publicarse en el Diario Oficial de la Federación.
@@ -536,7 +530,7 @@ Artículo adicionado DOF 13-03-2003
 
 ### Artículo 89 D
 - Los productores cuyas mercancías estén sujetas a una cuota compensatoria definitiva y que no hayan realizado exportaciones de esas mercancías durante el período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate, podrán solicitar a la Secretaría el inicio de un procedimiento para nuevos exportadores a efecto de que ésta se pronuncie sobre los márgenes individuales de discriminación de precios, siempre que:
-I. Hayan efectuado operaciones de exportación al territorio nacional de la mercancía objeto de cuotas compensatorias con posterioridad al período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate, y Fracción reformada DOF 21-12-2006 LEY DE COMERCIO EXTERIOR II. Demuestren que no tienen vinculación alguna con los productores o exportadores del país exportador a quienes se les haya determinado cuota compensatoria específica.
+I. Hayan efectuado operaciones de exportación al territorio nacional de la mercancía objeto de cuotas compensatorias con posterioridad al período investigado en el procedimiento que dio lugar a la cuota compensatoria de que se trate, y Fracción reformada DOF 21-12-2006 II. Demuestren que no tienen vinculación alguna con los productores o exportadores del país exportador a quienes se les haya determinado cuota compensatoria específica.
 Artículo adicionado DOF 13-03-2003
 
 ### Artículo 89 E
@@ -553,7 +547,7 @@ II. Antes de emitir una resolución final, la Secretaría podrá realizar las vi
 III. Terminado el procedimiento de examen, la Secretaría someterá a la opinión de la Comisión de Comercio Exterior el proyecto de resolución final.
 IV. La Secretaría dictará la resolución final dentro de un plazo máximo de 220 días contados a partir del día siguiente al de la publicación de la resolución de inicio del examen en el Diario Oficial de la Federación, mediante la cual podrá: a. Determinar la continuación de la vigencia de la cuota compensatoria por cinco años adicionales contados a partir de la fecha de vencimiento. En esta determinación la Secretaría podrá modificar el monto de la cuota compensatoria. b. Eliminar la cuota compensatoria.
 Durante el tiempo que dure el examen de vigencia continuará el pago de cuotas compensatorias.
-Artículo adicionado DOF 13-03-2003 TITULO VIII LEY DE COMERCIO EXTERIOR PROMOCION DE EXPORTACIONES CAPITULO I Disposiciones generales
+Artículo adicionado DOF 13-03-2003 TITULO VIII PROMOCION DE EXPORTACIONES CAPITULO I Disposiciones generales
 
 ### Artículo 90
 .- La promoción de las exportaciones tendrá como objetivo la consolidación y la mejoría cuantitativa y cualitativa de las exportaciones de productos manufacturados, agroindustriales, servicios y tecnología mexicanos en los mercados internacionales. Para ello se concertarán programas anuales con los organismos representativos de sectores productivos a fin de realizar una eficaz asignación de recursos.
@@ -568,7 +562,7 @@ CAPITULO II Instrumentos de promoción
 ### Artículo 91
 .- El Ejecutivo Federal, por conducto de la Secretaría, establecerá las medidas y los mecanismos necesarios para la aplicación de los programas e instrumentos de comercio exterior, por lo que en coordinación con las dependencias competentes, deberá establecer mediante decretos, programas de promoción vinculados a la infraestructura, capacitación, coordinación, organización, financiamiento, administración fiscal y aduanera y modernización de mecanismos de comercio exterior, siempre y cuando se trate de prácticas internacionalmente aceptadas.
 Asimismo, la Secretaría deberá establecer mediante acuerdos, aquellas medidas necesarias para la aplicación de los programas e instrumentos citados en el párrafo anterior.
-Artículo reformado DOF 13-03-2003, 24-01-2006 LEY DE COMERCIO EXTERIOR
+Artículo reformado DOF 13-03-2003, 24-01-2006
 
 ### Artículo 92
 .- El Premio Nacional de Exportación tendrá por objeto reconocer anualmente el esfuerzo de los exportadores nacionales y de las instituciones que apoyen la actividad exportadora. El procedimiento para la selección de los ganadores del premio, las diferentes categorías del mismo, la forma de usarlo y las demás disposiciones relacionadas con el mismo se establecerán en el reglamento.
@@ -588,7 +582,7 @@ de esta Ley o, en relación a los mecanismos de solución de controversias estab
 Para los efectos de este artículo, se entenderá por salario mínimo el general diario vigente en el Distrito Federal al momento de cometerse la infracción.
 Para la aplicación de la multa a que se refiere la fracción VI de este artículo, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, así como los antecedentes, circunstancias personales y situación económica del infractor.
 Párrafo reformado DOF 21-12-2006 Las multas a que se refiere este artículo se impondrán independientemente de las sanciones penales y civiles que corresponda, en los términos de legislación aplicable. Para la imposición de las multas se deberá oír previamente al presunto infractor.
-LEY DE COMERCIO EXTERIOR CAPITULO II Recurso de revocación
+CAPITULO II Recurso de revocación
 
 ### Artículo 94
 .- El recurso administrativo de revocación podrá ser interpuesto contra las resoluciones:
@@ -608,7 +602,7 @@ Fracción reformada DOF 13-03-2003 (se recorre) Los recursos de revocación cont
 ### Artículo 95
 .- El recurso a que se refiere este capítulo tiene por objeto revocar, modificar o confirmar la resolución impugnada y los fallos que se dicten contendrán la fijación del acto reclamado, los fundamentos legales en que se apoyen y los puntos de resolución.
 El recurso de revocación se tramitará y resolverá conforme a lo dispuesto por el Código Fiscal de la Federación, siendo necesario su agotamiento para la procedencia del juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa.
-Párrafo reformado DOF 31-12-2000, 13-03-2003 LEY DE COMERCIO EXTERIOR Las resoluciones que se dicten al resolver el recurso de revocación o aquellas que lo tengan por no interpuesto, podrán ser impugnadas ante el Tribunal Federal de Justicia Fiscal y Administrativa, mediante juicio que se substanciará conforme a lo dispuesto en el Código Fiscal de la Federación y la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+Párrafo reformado DOF 31-12-2000, 13-03-2003 Las resoluciones que se dicten al resolver el recurso de revocación o aquellas que lo tengan por no interpuesto, podrán ser impugnadas ante el Tribunal Federal de Justicia Fiscal y Administrativa, mediante juicio que se substanciará conforme a lo dispuesto en el Código Fiscal de la Federación y la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
 Párrafo reformado DOF 31-12-2000, 13-03-2003 Las resoluciones no recurridas dentro del ámbito establecido en el Código Fiscal de la Federación se tendrán por consentidas, y no podrán ser impugnadas ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 Párrafo reformado DOF 31-12-2000, 13-03-2003
 
@@ -625,74 +619,108 @@ Fracción reformada DOF 31-12-2000, 13-03-2003
 ### Artículo 94
 , cualquier parte interesada podrá optar por acudir a los mecanismos alternativos de solución de controversias en materia de prácticas desleales contenidos en tratados comerciales internacionales de los que México sea parte. De optarse por tales mecanismos:
 Párrafo reformado DOF 22-12-1993 I. No procederá el recurso de revocación previsto en el artículo 94 ni el juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa contra dichas resoluciones, ni contra la resolución de la Secretaría dictada como consecuencia de la decisión que emane de dichos mecanismos alternativos, y se entenderá que la parte interesada que ejerza la opción acepta la resolución que resulte del mecanismo alternativo de solución de controversias;
-Fracción reformada DOF 22-12-1993, 31-12-2000, 13-03-2003 II. Sólo se considerará como final la resolución de la Secretaría dictada como consecuencia de la decisión que emane de los mecanismos alternativos. Las partes interesadas que acudan a un mecanismo LEY DE COMERCIO EXTERIOR alternativo de solución de controversias o, en su caso, las partes interesadas sujetas al pago de cuota compensatoria que podría modificarse en virtud de tal mecanismo, podrán garantizar las cuotas compensatorias definitivas en los términos de la fracción III del artículo 98 de esta Ley. Asimismo, en caso de que la cuota compensatoria determinada en las revisiones administrativas sea menor que la vigente al momento en que se inicie el mecanismo alternativo de solución de controversias, deberán garantizar o pagar la diferencia entre dichas cuotas en tanto dicho mecanismo no se resuelva de forma definitiva, y Fracción reformada DOF 21-12-2006 III. Se observará lo establecido en el artículo 51 de la Ley Federal de Procedimiento Contencioso Administrativo.
+Fracción reformada DOF 22-12-1993, 31-12-2000, 13-03-2003 II. Sólo se considerará como final la resolución de la Secretaría dictada como consecuencia de la decisión que emane de los mecanismos alternativos. Las partes interesadas que acudan a un mecanismo alternativo de solución de controversias o, en su caso, las partes interesadas sujetas al pago de cuota compensatoria que podría modificarse en virtud de tal mecanismo, podrán garantizar las cuotas compensatorias definitivas en los términos de la fracción III del artículo 98 de esta Ley. Asimismo, en caso de que la cuota compensatoria determinada en las revisiones administrativas sea menor que la vigente al momento en que se inicie el mecanismo alternativo de solución de controversias, deberán garantizar o pagar la diferencia entre dichas cuotas en tanto dicho mecanismo no se resuelva de forma definitiva, y Fracción reformada DOF 21-12-2006 III. Se observará lo establecido en el artículo 51 de la Ley Federal de Procedimiento Contencioso Administrativo.
 Fracción reformada DOF 21-12-2006
 
 ### Artículo 98
 .- Además de lo dispuesto en los Artículos 96 y 97, los recursos relacionados con las resoluciones a que se alude en las fracciones IV, V, VI y VIII del Artículo 94, se sujetarán a las siguientes reglas:
 Párrafo reformado DOF 22-12-1993 I.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados internacionales, el plazo para interponer el recurso de revocación no empezará a correr sino hasta que haya transcurrido el previsto en el tratado internacional de que se trate para interponer el mecanismo alternativo de solución de controversias;
 Fracción reformada DOF 22-12-1993 II.- Cuando dichas resoluciones sean recurribles mediante mecanismos alternativos de solución de controversias pactados por México en tratados internacionales, el recurrente que opte por el recurso de revocación deberá cumplir, además, con las formalidades previstas en el tratado internacional de que se trate; y Fracción reformada DOF 22-12-1993 III. Las partes interesadas que acudan al recurso de revocación, al juicio de nulidad ante el Tribunal Federal de Justicia Fiscal y Administrativa o a los mecanismos alternativos de solución de controversias a que se refiere esta Ley, podrán garantizar el pago de las cuotas compensatorias definitivas, en los términos del Código Fiscal de la Federación, siempre que la forma de garantía correspondiente sea aceptada por la Secretaría de Hacienda y Crédito Público.
-Fracción reformada DOF 31-12-2000, 13-03-2003 TRANSITORIOS PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Se abroga la Ley Reglamentaria del Artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en Materia de Comercio Exterior, publicada en el Diario Oficial de la Federación el 13 de enero de 1986, la Ley que Establece el Régimen de Exportación del Oro, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980 y las demás disposiciones u ordenamientos que se le opongan.
-TERCERO.- En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor el Reglamento contra Prácticas Desleales de Comercio Internacional, el Reglamento Sobre Permisos de Importación y Exportación de Mercancías Sujetas a Restricciones, el Decreto que establece la Organización y Funciones de la Comisión de Aranceles y Controles al Comercio Exterior, el Decreto por el que se establece el Premio Nacional de Exportación y las demás disposiciones expedidas con anterioridad en todo lo que no se le opongan.
-LEY DE COMERCIO EXTERIOR CUARTO.- Los procedimientos administrativos a que se refiere este ordenamiento que se encuentren en trámite al momento de su entrada en vigor, se resolverán en los términos de la Ley Reglamentaria del
+Fracción reformada DOF 31-12-2000, 13-03-2003
+
+## TRANSITORIOS
+
+**PRIMERO.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se abroga la Ley Reglamentaria del Artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en Materia de Comercio Exterior, publicada en el Diario Oficial de la Federación el 13 de enero de 1986, la Ley que Establece el Régimen de Exportación del Oro, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980 y las demás disposiciones u ordenamientos que se le opongan.
+**TERCERO.-** En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor el Reglamento contra Prácticas Desleales de Comercio Internacional, el Reglamento Sobre Permisos de Importación y Exportación de Mercancías Sujetas a Restricciones, el Decreto que establece la Organización y Funciones de la Comisión de Aranceles y Controles al Comercio Exterior, el Decreto por el que se establece el Premio Nacional de Exportación y las demás disposiciones expedidas con anterioridad en todo lo que no se le opongan.
+**CUARTO.-** Los procedimientos administrativos a que se refiere este ordenamiento que se encuentren en trámite al momento de su entrada en vigor, se resolverán en los términos de la Ley Reglamentaria del
 
 ### artículo 131
 de la Constitución Política de los Estados Unidos Mexicanos en materia de Comercio Exterior.
 México, D. F., a 13 de julio de 1993.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Romeo Flores Leal, Presidente.- Sen. Ramón Serrano Ahumada, Secretario.- Dip. Luis Moreno Bustamante, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de julio de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
-LEY DE COMERCIO EXTERIOR ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA FE de erratas a la Ley de Comercio Exterior, publicada el 27 de julio de 1993.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA FE de erratas a la Ley de Comercio Exterior, publicada el 27 de julio de 1993.
 Publicada en el Diario Oficial de la Federación el 25 de agosto de 1993 Página 60, primera columna, renglón 20, dice:
 Procedimiento en materia de salvaguarda.
 Debe decir:
 Procedimiento en materia de medidas de salvaguarda.
-LEY DE COMERCIO EXTERIOR DECRETO que reforma, adiciona y deroga disposiciones de diversas leyes relacionadas con el Tratado de Libre Comercio de América del Norte.
+DECRETO que reforma, adiciona y deroga disposiciones de diversas leyes relacionadas con el Tratado de Libre Comercio de América del Norte.
 Publicado en el Diario Oficial de la Federación el 22 de diciembre de 1993 ARTICULO PRIMERO.- Se reforman los artículos 60, 68 primer párrafo, 80 primer párrafo, 97 primer párrafo y fracción I y 98 primer párrafo y fracciones I y II de la Ley de Comercio Exterior, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
-SEGUNDO.- La reforma al inciso (b) de la fracción I del Artículo 52 del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1996.
-TERCERO.- La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que se realicen a partir de la entrada en vigor del presente Decreto.
-CUARTO.- La ampliación del plazo de protección de los derechos de propiedad intelectual a que se refiere la fracción I del Artículo 23 de la Ley Federal de Derechos de Autor que se reforma, será aplicable a aquellos derechos que no hayan ingresado al régimen de dominio público a la fecha en que el presente Decreto entre en vigor.
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor el 1o. de enero de 1994.
+**SEGUNDO.-** La reforma al inciso (b) de la fracción I del Artículo 52 del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1996.
+**TERCERO.-** La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que se realicen a partir de la entrada en vigor del presente Decreto.
+**CUARTO.-** La ampliación del plazo de protección de los derechos de propiedad intelectual a que se refiere la fracción I del Artículo 23 de la Ley Federal de Derechos de Autor que se reforma, será aplicable a aquellos derechos que no hayan ingresado al régimen de dominio público a la fecha en que el presente Decreto entre en vigor.
 México, D.F., a 14 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen.
 Eduardo Robledo Rincón, Presidente.- Dip. Juan Adrián Ramírez García, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
-LEY DE COMERCIO EXTERIOR DECRETO por el que se reforman diversas disposiciones fiscales.
-Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000 Disposiciones Transitorias de la Ley Orgánica del Tribunal Fiscal de la Federación Artículo Décimo Primero. En relación con las modificaciones a que se refiere el Artículo Décimo de este Decreto, se estará a lo siguiente:
+DECRETO por el que se reforman diversas disposiciones fiscales.
+Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000 Disposiciones Transitorias de la Ley Orgánica del Tribunal Fiscal de la Federación
+
+### Artículo Décimo Primero
+En relación con las modificaciones a que se refiere el Artículo Décimo de este Decreto, se estará a lo siguiente:
 I. La reforma al artículo 28 de la Ley Orgánica del Tribunal Fiscal de la Federación, entrará en vigor el 1o. de febrero de 2001.
 II. Para los efectos del artículo 31 de la Ley Orgánica del Tribunal Fiscal de la Federación, las demandas presentadas antes del 1o. de enero de 2001, serán competencia de la Sala Regional que corresponda, de conformidad con el citado artículo 31, vigente hasta el 31 de diciembre de 2000.
 III. Se reforma la denominación del Tribunal Fiscal de la Federación por la de Tribunal Federal de Justicia Fiscal y Administrativa. En consecuencia, se reforma la Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones, así como en todas aquellas contenidas en el Código Fiscal de la Federación y en las demás leyes fiscales y administrativas federales, en las que se cite al Tribunal Fiscal de la Federación, para sustituir ese nombre por el de Tribunal Federal de Justicia Fiscal y Administrativa.
-Transitorios Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
-Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el 1o. de enero de 2001.
+**Segundo.** Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
 México, D.F., a 28 de diciembre de 2000.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ricardo Francisco García Cervantes, Presidente.- Sen. Yolanda González Hernández, Secretario.- Dip.
 Manuel Medellín Milán, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de dos mil.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-LEY DE COMERCIO EXTERIOR DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Comercio Exterior.
-Publicado en el Diario Oficial de la Federación el 13 de marzo de 2003 ARTICULO UNICO: Se REFORMAN los artículos; 28; 29; 31, párrafo segundo y fracción I; 32, en su párrafo segundo; 35; 36; 37; la denominación del Capítulo IV del Título V; 39; 40; 41; 42; 43; 44; 45; 46; 47, párrafo primero; 48, párrafo primero, así como las fracciones I a III; nombre del Capítulo I del Título VII; 49, primer párrafo; 50, el párrafo primero y su fracción II, así como el párrafo segundo; 52; 53, párrafo primero; 57, el párrafo primero, la fracción III y el segundo párrafo; 59 párrafos primero y segundo; 64; 66; 67; 68, párrafo primero; 70; 71; 74; 75; 76, párrafo primero; 77; 80, párrafos primero y segundo; 83; 86; 88; 90, primer párrafo y del segundo párrafo la fracción III; 91; 93, fracciones III y V; 94, fracción IX; 95, párrafos segundo, tercero y cuarto; 96 fracción IV; 97, fracción I; 98, fracción III; se ADICIONAN un tercer párrafo al artículo 23; un párrafo segundo al artículo 33; las fracciones I a III al párrafo primero y un tercer párrafo al artículo 39; un penúltimo párrafo al artículo 42; las fracciones I y II al párrafo primero y un párrafo segundo al artículo 44; un párrafo cuarto al artículo 45; un párrafo segundo al artículo 47; un último párrafo al artículo 48; un párrafo segundo al artículo 51; un párrafo tercero al artículo 53; un párrafo segundo, con las fracciones I a III, así como un último párrafo al artículo 64; un segundo párrafo, recorriéndose el actual párrafo segundo para pasar a ser el tercer párrafo, así como un último párrafo, al
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Comercio Exterior.
+Publicado en el Diario Oficial de la Federación el 13 de marzo de 2003 ARTICULO UNICO: Se REFORMAN los artículos; 28; 29; 31, párrafo segundo y fracción I; 32, en su párrafo segundo; 35; 36; 37; la denominación del Capítulo IV del Título V; 39; 40; 41; 42; 43; 44; 45; 46; 47, párrafo primero; 48, párrafo primero, así como las fracciones I a III; nombre del Capítulo I del Título VII; 49, primer párrafo; 50, el párrafo primero y su fracción II, así como el párrafo segundo; 52; 53, párrafo
+**primero.** ; 57, el párrafo primero, la fracción III y el segundo párrafo; 59 párrafos primero y segundo; 64; 66; 67; 68, párrafo primero; 70; 71; 74; 75; 76, párrafo primero; 77; 80, párrafos primero y segundo; 83; 86; 88; 90, primer párrafo y del segundo párrafo la fracción III; 91; 93, fracciones III y V; 94, fracción IX; 95, párrafos segundo, tercero y cuarto; 96 fracción IV; 97, fracción I; 98, fracción III; se ADICIONAN un tercer párrafo al artículo 23; un párrafo segundo al artículo 33; las fracciones I a III al párrafo primero y un tercer párrafo al artículo 39; un penúltimo párrafo al artículo 42; las fracciones I y II al párrafo primero y un párrafo segundo al artículo 44; un párrafo cuarto al artículo 45; un párrafo segundo al artículo 47; un último párrafo al artículo 48; un párrafo segundo al artículo 51; un párrafo tercero al artículo 53; un párrafo
+**segundo.** , con las fracciones I a III, así como un último párrafo al artículo 64; un segundo párrafo, recorriéndose el actual párrafo segundo para pasar a ser el tercer párrafo, así como un último párrafo, al
 
 ### artículo 68
 ; las fracciones I y II al primer párrafo y un último párrafo al artículo 70; el artículo 70 A; el
 
 ### artículo 70
 B; las fracciones I a V al primer párrafo, así como un último párrafo al artículo 71; un párrafo segundo al artículo 72; los párrafos segundo, tercero, cuarto y quinto al artículo 83, pasando los actuales párrafos segundo, tercero y cuarto a ser los respectivos párrafos sexto, séptimo y octavo de dicho artículo; un Capítulo V denominado “Procedimientos Especiales” al Título VII, que comprende del artículo 89A al 89F; y las fracciones X y XI al artículo 94, pasando la actual fracción X a ser la fracción XII; y se DEROGAN la fracción IV del artículo 48; y el artículo 60; todos ellos de la LEY DE COMERCIO EXTERIOR, para quedar como sigue: ..........
-TRANSITORIOS Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, y será aplicable a la totalidad de las importaciones, independientemente de su origen y procedencia, incluidas las de Estados Unidos de América y Canadá.
-Segundo.- Las disposiciones del Reglamento de la Ley de Comercio Exterior publicado en el Diario Oficial de la Federación el 30 de diciembre de 1993, continuarán aplicándose en todo lo que no se oponga al presente Decreto, hasta en tanto se expidan las reformas correspondientes.
-Tercero.- Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley de Comercio Exterior publicada en el Diario Oficial de la Federación el 27 de julio de 1993.
-Cuarto.- El Ejecutivo Federal en la esfera de sus atribuciones, establecerá un sistema de alerta oportuna para informar al Congreso de la Unión periódicamente sobre la importación de mercancías vulnerables.
+
+## TRANSITORIOS
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación, y será aplicable a la totalidad de las importaciones, independientemente de su origen y procedencia, incluidas las de Estados Unidos de América y Canadá.
+**Segundo.-** Las disposiciones del Reglamento de la Ley de Comercio Exterior publicado en el Diario Oficial de la Federación el 30 de diciembre de 1993, continuarán aplicándose en todo lo que no se oponga al presente Decreto, hasta en tanto se expidan las reformas correspondientes.
+**Tercero.-** Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley de Comercio Exterior publicada en el Diario Oficial de la Federación el 27 de julio de 1993.
+**Cuarto.-** El Ejecutivo Federal en la esfera de sus atribuciones, establecerá un sistema de alerta oportuna para informar al Congreso de la Unión periódicamente sobre la importación de mercancías vulnerables.
 México, D.F., a 15 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Enrique Jackson Ramírez, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. Sara I.
 Castellanos Cortés, Secretario.- Rúbricas".
-LEY DE COMERCIO EXTERIOR En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de marzo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-LEY DE COMERCIO EXTERIOR DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Comercio Exterior.
-Publicado en el Diario Oficial de la Federación el 24 de enero de 2006 Artículo Único.- Se Reforman los Artículos 1, 2; 3; el nombre del Título Segundo y de su Capítulo II; las fracciones II, VIII, IX y XI del Artículo 5; Artículos 6; 7; 75; 84; 90; 91; 92 y la fracción VI del Artículo 94; y se Adicionan una fracción VII al Artículo 4; una fracción XII al Artículo 5, para que la actual pase a ser XIII; un segundo párrafo al Artículo 6; un Artículo 17 A; un Artículo 20 A, a la Ley de Comercio Exterior, para quedar como sigue: ..........
-TRANSITORIOS Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Artículo Segundo.- Para efectos de lo dispuesto por la fracción VII, del artículo 4o. de esta Ley, las Dependencias y Entidades de la Administración Pública Federal que administren o controlen una restricción o regulación no arancelaría, deberán desarrollar en un plazo no mayor a 12 meses, contados a partir de la entrada en vigor del presente Decreto, un plan de trabajo en el que establecerán responsables, metas, plazos comprometidos y además acciones necesarias para interconectarse electrónicamente con la Secretaría de Economía y con la Secretaría de Hacienda y Crédito Público.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de marzo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Comercio Exterior.
+Publicado en el Diario Oficial de la Federación el 24 de enero de 2006
+
+### Artículo Único
+Se Reforman los Artículos 1, 2; 3; el nombre del Título Segundo y de su Capítulo II; las fracciones II, VIII, IX y XI del Artículo 5; Artículos 6; 7; 75; 84; 90; 91; 92 y la fracción VI del Artículo 94; y se Adicionan una fracción VII al Artículo 4; una fracción XII al Artículo 5, para que la actual pase a ser XIII; un segundo párrafo al Artículo 6; un Artículo 17 A; un Artículo 20 A, a la Ley de Comercio Exterior, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+
+### Artículo Primero
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### Artículo Segundo
+Para efectos de lo dispuesto por la fracción VII, del artículo 4o. de esta Ley, las Dependencias y Entidades de la Administración Pública Federal que administren o controlen una restricción o regulación no arancelaría, deberán desarrollar en un plazo no mayor a 12 meses, contados a partir de la entrada en vigor del presente Decreto, un plan de trabajo en el que establecerán responsables, metas, plazos comprometidos y además acciones necesarias para interconectarse electrónicamente con la Secretaría de Economía y con la Secretaría de Hacienda y Crédito Público.
 Asimismo se establecerá la interconexión electrónica con las entidades prevalidadoras autorizadas en términos de lo dispuesto por el artículo 16-A de la Ley Aduanera, a fin de que el agente o apoderado aduanal estén en posibilidades de verificar el cumplimiento con las restricciones o regulaciones no arancelarias que correspondan.
 México, D.F., a 14 de diciembre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip.
 Heliodoro Díaz Escárraga, Presidente.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Dip. Ma.
 Sara Rocha Medina, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de enero de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-LEY DE COMERCIO EXTERIOR DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Comercio Exterior.
-Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2006 Artículo Único.- Se reforman los artículos 53, último párrafo; 64, segundo párrafo en su encabezado; 68, primer párrafo; 89 D, fracción I; 93, penúltimo párrafo; y 97, fracciones II y III; se adiciona el artículo 65 A; y se derogan los artículos 68, último párrafo y 93, fracción V, de la Ley de Comercio Exterior, para quedar como sigue: ..........
-TRANSITORIOS Primero. El presente Decreto entrará en vigor al día siguiente de su publicación, y será aplicable a la totalidad de las importaciones, independientemente de su origen y procedencia, incluidas las de Estados Unidos de América y Canadá.
-Segundo. Las disposiciones del Reglamento de la Ley de Comercio Exterior publicado en el Diario Oficial de la Federación el 30 de diciembre de 1993, continuarán aplicándose en todo lo que no se oponga al presente Decreto, hasta que se expidan las reformas correspondientes.
-Tercero. Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley de Comercio Exterior publicada en el Diario Oficial de la Federación el 27 de julio de 1993, y de las reformas a dicha ley publicadas en dicho órgano informativo el 13 de marzo de 2003 y 24 de enero de 2006.
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Comercio Exterior.
+Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2006
+
+### Artículo Único
+Se reforman los artículos 53, último párrafo; 64, segundo párrafo en su encabezado; 68, primer párrafo; 89 D, fracción I; 93, penúltimo párrafo; y 97, fracciones II y III; se adiciona el artículo 65 A; y se derogan los artículos 68, último párrafo y 93, fracción V, de la Ley de Comercio Exterior, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación, y será aplicable a la totalidad de las importaciones, independientemente de su origen y procedencia, incluidas las de Estados Unidos de América y Canadá.
+**Segundo.** Las disposiciones del Reglamento de la Ley de Comercio Exterior publicado en el Diario Oficial de la Federación el 30 de diciembre de 1993, continuarán aplicándose en todo lo que no se oponga al presente Decreto, hasta que se expidan las reformas correspondientes.
+**Tercero.** Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley de Comercio Exterior publicada en el Diario Oficial de la Federación el 27 de julio de 1993, y de las reformas a dicha ley publicadas en dicho órgano informativo el 13 de marzo de 2003 y 24 de enero de 2006.
 México, D.F., a 12 de diciembre de 2006.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip.
 Jorge Zermeño Infante, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Ma.
 Mercedez Maciel Ortiz, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.

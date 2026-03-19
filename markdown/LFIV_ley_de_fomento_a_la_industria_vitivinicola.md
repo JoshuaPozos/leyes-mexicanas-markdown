@@ -5,12 +5,13 @@
 
 ---
 
-LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 23 de mayo de 2018 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 23 de mayo de 2018 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
-SE EXPIDE LA LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA.
-Artículo Único.- Se expide la Ley de Fomento a la Industria Vitivinícola.
-LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA
+SE EXPIDE LA  .
+
+### Artículo Único
+Se expide la Ley de Fomento a la Industria Vitivinícola.
 
 ## Título I
 Objeto y Definiciones de la Ley
@@ -27,7 +28,7 @@ Disposiciones Generales
 ### Artículo 3
 . Para los efectos de la presente Ley se entenderá por:
 I. Añejamiento: Es el proceso de maduración al que se somete un producto alcohólico de por lo menos un año en recipientes de madera de roble blanco o encino u otras maderas que demuestren inocuidad, cuya capacidad no debe ser superior a 700 litros.
-LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA II. Comisión: La Comisión Intersecretarial de Fomento a la Industria Vitivinícola.
+II. Comisión: La Comisión Intersecretarial de Fomento a la Industria Vitivinícola.
 III. Enología: Ciencia, técnica y arte de producir vinos, mostos y otros derivados de la vid mediante la implantación de técnicas de cultivo de viñedo, el análisis de los productos elaborados y almacenaje, gestión y conservación de los mismos.
 IV. Ley: La Ley de Fomento a la Industria Vitivinícola.
 V. Reglamento: El Reglamento de la Ley de Fomento a la Industria Vitivinícola.
@@ -49,7 +50,7 @@ XVI. Viticultura: Cultivo sistemático de la Vid, o parra, para usar sus uvas en
 ### Artículo 5
 . Serán líneas estratégicas de acción para el cumplimiento del objeto de esta Ley:
 I. Fomentar el respeto del territorio considerado como apto para el cultivo de la Vid en territorio nacional;
-LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA II. Estimular el crecimiento económico de la actividad vitivinícola en territorio nacional, generando las condiciones favorables para el impulso de inversión y acceso a fuentes de financiamiento y apoyos para la iniciativa privada;
+II. Estimular el crecimiento económico de la actividad vitivinícola en territorio nacional, generando las condiciones favorables para el impulso de inversión y acceso a fuentes de financiamiento y apoyos para la iniciativa privada;
 III. Fomentar el cumplimiento de las normas oficiales mexicanas y normas mexicanas aplicables al Sector, así como su evaluación de la conformidad para garantizar la disponibilidad y correcta información al consumidor sobre la calidad del Vino Mexicano y su correcta clasificación;
 IV. Fortalecer la competitividad de los vinos nacionales en el mercado fomentando el desarrollo de su producción y calidad de los mismos;
 V. Fomentar el uso y conocimiento en el público consumidor de distintivos relacionados con la calidad del Vino Mexicano, y VI. Fomentar campañas y/o actividades de promoción nacional e internacional orientadas a aumentar un mayor conocimiento y consumo de Vino Mexicano.
@@ -69,7 +70,7 @@ II. El estímulo del desarrollo de los productores de uva y de la industria del 
 De la Comisión
 
 ## Capítulo I
-De la Integración de la Comisión LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA
+De la Integración de la Comisión
 
 ### Artículo 9
 . Se crea la Comisión Intersecretarial de Fomento a la Industria Vitivinícola, como órgano de consulta y coordinación de la Administración Pública Federal, de conformidad con lo establecido en esta Ley y demás disposiciones aplicables.
@@ -93,7 +94,7 @@ IV. Establecer las bases para la creación, el funcionamiento y regulación apli
 V. Ser instancia de consulta y colaboración para la realización de estudios, planes, programas, proyectos y políticas públicas que se desarrollen en la materia;
 VI. Impulsar las políticas públicas relacionadas con el Sector, para su crecimiento y desarrollo integral del Sector;
 VII. Participar en foros nacionales e internacionales relacionados con el cumplimiento del objeto de la Comisión;
-LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA VIII. Publicar un informe anual sobre el desempeño de sus funciones y los avances en la materia, y IX. Las demás que establezcan las disposiciones legales aplicables.
+VIII. Publicar un informe anual sobre el desempeño de sus funciones y los avances en la materia, y IX. Las demás que establezcan las disposiciones legales aplicables.
 
 ### Artículo 13
 . Las diferentes instituciones y entes de la Administración Pública Federal y Estatal, en el ámbito de sus competencias, así como las asociaciones, consejos, comités y representaciones privadas podrán apoyar a la Comisión en el ejercicio de sus atribuciones, bajo los principios de colaboración, coordinación e información interinstitucional.
@@ -122,7 +123,7 @@ VI. Convocar a las reuniones ordinarias de la Comisión, y VII. Las demás que l
 ### Artículo 18
 . La Comisión será incluyente y representativa de las opiniones e intereses de los Comités Nacional y Estatales de los Sistemas Producto Vid, productores, consejos, asociaciones civiles, académicos y demás organizaciones que tengan por objeto o se encuentren relacionados con la industria vitivinícola mexicana.
 Toda organización reconocida y acreditada por la Secretaría, podrá nombrar un representante ante la Comisión Intersecretarial.
-LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA Asimismo, las entidades federativas que así lo requieran podrán crear subcomisiones relacionadas con la industria vitivinícola mexicana, a través de sus Secretarías de Desarrollo Agropecuario para enriquecer los trabajos de la Comisión de conformidad con las disposiciones del Reglamento.
+Asimismo, las entidades federativas que así lo requieran podrán crear subcomisiones relacionadas con la industria vitivinícola mexicana, a través de sus Secretarías de Desarrollo Agropecuario para enriquecer los trabajos de la Comisión de conformidad con las disposiciones del Reglamento.
 
 ### Artículo 19
 . Los funcionarios de las secretarías de estado, de los gobiernos de las entidades federativas, Diputados Federales y Senadores de la República, así como los miembros o representantes de las diferentes cámaras empresariales, y los presidentes de los Comités Nacional y Estatales de los Sistemas Producto Vid, las asociaciones, y los consejos constituidos podrán ser invitados con voz pero sin voto a las sesiones de la Comisión con objeto de impulsar, difundir, promover y distribuir el Vino Mexicano.
@@ -142,7 +143,7 @@ VII. Impulsar la integración de la cadena productiva, y VIII. La formación de 
 
 ### Artículo 21
 . La Secretaría de Economía en coordinación con la Comisión apoyará al Sector a:
-LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA I. Realizar campañas de promoción del Vino Mexicano, asegurándose que las marcas participantes en estas campañas estén debidamente certificadas conforme lo establezcan las normas oficiales mexicanas aplicables al Vino;
+I. Realizar campañas de promoción del Vino Mexicano, asegurándose que las marcas participantes en estas campañas estén debidamente certificadas conforme lo establezcan las normas oficiales mexicanas aplicables al Vino;
 II. Difundir las normas oficiales mexicanas en donde se establezcan las características y especificaciones necesarias que deberán cumplir la elaboración de productos vitivinícolas para su comercialización;
 III. Incentivar en conjunto con la Secretaría de Hacienda y Crédito Público la incorporación de los productores mexicanos, al padrón nacional de exportadores, conforme a los lineamientos legales vigentes;
 IV. Difundir las políticas de exportación para potenciar la penetración del Vino Mexicano en otros mercados, y V. El acceso a los programas federales en relación a los apoyos vitivinícolas.
@@ -169,7 +170,7 @@ II. Impulsar al Vino Mexicano como producto representativo nacional, y III. Fome
 
 ### Artículo 28
 . La Secretaría de Energía, en coordinación con la Comisión, apoyará al Sector a:
-I. Fomentar y promover una mayor integración nacional de equipos y componentes para el aprovechamiento de las energías renovables en los diferentes procesos de producción del Vino Mexicano, y LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA II. Promover las energías renovables utilizadas en la vitivinicultura, en apego a la Ley de Transición Energética.
+I. Fomentar y promover una mayor integración nacional de equipos y componentes para el aprovechamiento de las energías renovables en los diferentes procesos de producción del Vino Mexicano, y II. Promover las energías renovables utilizadas en la vitivinicultura, en apego a la Ley de Transición Energética.
 
 ### Artículo 29
 . El Ejecutivo Federal y las entidades federativas, a través de sus dependencias y entidades, en el ámbito de sus respectivas competencias, podrán celebrar convenios de colaboración entre los sectores público, social, académico y privado para impulsar la investigación científica y tecnológica, así como la capacitación en materia de Viticultura, vinicultura, vitivinicultura, Enología y las demás ramas derivadas del Sector.
@@ -203,13 +204,16 @@ II. Impulsar el diseño de políticas públicas a fin de propiciar la definició
 ### Artículo 34
 . Los criterios orientadores que se deberán seguir en las campañas financiadas con fondos públicos serán los siguientes:
 I. Recomendar el consumo moderado y responsable del Vino;
-LEY DE FOMENTO A LA INDUSTRIA VITIVINÍCOLA II. Informar y difundir los beneficios del Vino, en materia de salud pública y los riesgos para la salud cuando se consume en exceso;
+II. Informar y difundir los beneficios del Vino, en materia de salud pública y los riesgos para la salud cuando se consume en exceso;
 III. Fomentar el desarrollo sostenible del cultivo de la Vid, favoreciendo el respeto del medio ambiente;
 IV. Destacar los aspectos históricos y tradicionales de los vinos mexicanos, en particular, las peculiaridades específicas de la diversidad de las regiones como son las características del suelo, altitud, aire, clima, entre otros que influyen en ellos, y V. Informar y difundir la calidad, los beneficios, propiedades, cualidades y la composición del Vino, a efecto de tener información completa sobre el producto.
 
 ### Artículo 35
 . Los Organismos de Productores y Empresariales relacionados con la industria podrán realizar campañas nacionales de promoción y difusión del Vino Mexicano, con la participación de la Comisión, los productores y los tres órdenes de gobierno.
-Transitorios Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. El Ejecutivo Federal expedirá dentro de los 180 días siguientes a la entrada en vigor de la presente Ley, el Reglamento. Asimismo, establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento.
-Tercero. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas de la Administración Pública Federal, para el ejercicio fiscal que corresponda a la entrada en vigor de esta Ley y los subsecuentes que correspondan.
+
+## Transitorios
+
+**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** El Ejecutivo Federal expedirá dentro de los 180 días siguientes a la entrada en vigor de la presente Ley, el Reglamento. Asimismo, establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento.
+**Tercero.** Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas de la Administración Pública Federal, para el ejercicio fiscal que corresponda a la entrada en vigor de esta Ley y los subsecuentes que correspondan.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia expido el presente Decreto en Villahermosa, Tabasco, a veintidós de mayo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.

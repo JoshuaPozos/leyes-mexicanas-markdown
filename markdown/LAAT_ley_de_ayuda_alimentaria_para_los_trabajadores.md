@@ -5,10 +5,13 @@
 
 ---
 
-LEY DE AYUDA ALIMENTARIA PARA LOS TRABAJADORES LEY DE AYUDA ALIMENTARIA PARA LOS TRABAJADORES TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 17 de enero de 2011 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 17 de enero de 2011 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-SE EXPIDE LA LEY DE AYUDA ALIMENTARIA PARA LOS TRABAJADORES ARTÍCULO ÚNICO. Se expide la Ley de Ayuda Alimentaria para los Trabajadores, para quedar como sigue:
+SE EXPIDE LA
+
+### ARTÍCULO ÚNICO
+Se expide la Ley de Ayuda Alimentaria para los Trabajadores, para quedar como sigue:
 Ley de Ayuda Alimentaria para los Trabajadores TÍTULO PRIMERO Disposiciones Generales
 
 ### Artículo 1o
@@ -24,7 +27,7 @@ IV. Trabajadores. A los hombres y mujeres que prestan a una persona física o mo
 
 ### Artículo 3o
 . Los patrones podrán optar, de manera voluntaria o concertada, por otorgar a sus trabajadores ayuda alimentaria en alguna de las modalidades establecidas en esta Ley o mediante combinaciones de éstas.
-LEY DE AYUDA ALIMENTARIA PARA LOS TRABAJADORES Se entenderá que un patrón ha optado concertadamente por otorgar ayuda alimentaria, cuando ese beneficio quede incorporado en un contrato colectivo de trabajo.
+Se entenderá que un patrón ha optado concertadamente por otorgar ayuda alimentaria, cuando ese beneficio quede incorporado en un contrato colectivo de trabajo.
 
 ### Artículo 4o
 . Únicamente los patrones que otorguen a sus trabajadores ayuda alimentaria en las modalidades y bajo las condiciones establecidas en el presente ordenamiento podrán recibir los beneficios fiscales contemplados en esta Ley.
@@ -53,7 +56,7 @@ En el marco de la presente Ley, la ayuda alimentaria no podrá ser otorgada en e
 
 ### Artículo 9o
 . La Secretaría de Salud, en coordinación con la Secretaría, expedirá las normas a las que deberán sujetarse los comedores a que se refiere el inciso a) de la fracción I del artículo 7 de esta Ley.
-Asimismo, ambas dependencias ejercerán, en coordinación con los gobiernos de las entidades LEY DE AYUDA ALIMENTARIA PARA LOS TRABAJADORES federativas, la vigilancia sobre dichos comedores para verificar el cumplimiento de los requisitos que éstos deban reunir.
+Asimismo, ambas dependencias ejercerán, en coordinación con los gobiernos de las entidades federativas, la vigilancia sobre dichos comedores para verificar el cumplimiento de los requisitos que éstos deban reunir.
 Los gobiernos de las entidades federativas ejercerán el control sanitario de los restaurantes u otros establecimientos de consumo de alimentos a los que se refieren los incisos b) y c) de la fracción I del
 
 ### artículo 7
@@ -71,7 +74,7 @@ II. Para los vales electrónicos: a) Consistir en un dispositivo en forma de tar
 . Para el caso de los vales impresos y electrónicos previstos en esta Ley quedará prohibido:
 I. Canjearlos por dinero, ya sea en efectivo o mediante títulos de crédito;
 II. Canjearlos o utilizarlos para comprar bebidas alcohólicas o productos del tabaco;
-III. Usarlos para fines distintos a los de esta Ley o para servicios distintos a los definidos en el inciso b) o c) de la fracción I del artículo 7 o en la fracción II de ese mismo artículo, y LEY DE AYUDA ALIMENTARIA PARA LOS TRABAJADORES IV. Utilizar la tarjeta de los vales electrónicos para retirar el importe de su saldo en efectivo, directamente del emisor o a través de cualquier tercero, por cualquier medio, incluyendo cajeros automáticos, puntos de venta o cajas registradoras, entre otros.
+III. Usarlos para fines distintos a los de esta Ley o para servicios distintos a los definidos en el inciso b) o c) de la fracción I del artículo 7 o en la fracción II de ese mismo artículo, y IV. Utilizar la tarjeta de los vales electrónicos para retirar el importe de su saldo en efectivo, directamente del emisor o a través de cualquier tercero, por cualquier medio, incluyendo cajeros automáticos, puntos de venta o cajas registradoras, entre otros.
 
 ## Capítulo III
 Incentivos y promoción
@@ -95,7 +98,7 @@ II. Un representante de la Secretaría de Salud;
 III. Un representante de la Secretaría de Hacienda y Crédito Público;
 IV. Tres representantes de organizaciones nacionales de los trabajadores, y V. Tres representantes de organizaciones nacionales de los empresarios.
 La Secretaría determinará la forma en la cual se asignará la representación a la que se refieren las fracciones IV y V de este artículo.
-LEY DE AYUDA ALIMENTARIA PARA LOS TRABAJADORES Los representantes de las dependencias de la Administración Pública Federal ante la comisión deberán tener nivel de Subsecretario o su equivalente.
+Los representantes de las dependencias de la Administración Pública Federal ante la comisión deberán tener nivel de Subsecretario o su equivalente.
 La Secretaría podrá invitar a participar en las sesiones de la comisión tripartita, con el carácter de consultores, con voz y sin voto, a representantes de aquellas organizaciones empresariales o sociales relacionados con la prestación de los servicios vinculados al otorgamiento del beneficio de ayuda alimentaria contemplado en esta Ley.
 El funcionamiento y la operación de la Comisión Tripartita se establecerán de acuerdo con sus Reglas Internas de Operación.
 
@@ -123,11 +126,13 @@ SANCIONES Capítulo Único
 
 ### Artículo 21
 . Los propietarios de los establecimiento en los que se fomente, permita o participe en alguna de las conductas descritas en el artículo 12 de esta Ley serán sancionados con multa de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate.
-LEY DE AYUDA ALIMENTARIA PARA LOS TRABAJADORES
 
 ### Artículo 22
 . En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de esta Ley se entenderá por reincidencia, a aquellos casos en que el infractor cometa la misma violación a las disposiciones de esta Ley dos o más veces dentro del período de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
-TRANSITORIOS Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La Secretaría del Trabajo y Previsión Social convocará a la primera sesión de la Comisión Tripartita a la que se refiere el artículo 15 en un plazo que no excederá los noventa días naturales posteriores a la entrada en vigor de esta ley.
+
+## TRANSITORIOS
+
+**Primero.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La Secretaría del Trabajo y Previsión Social convocará a la primera sesión de la Comisión Tripartita a la que se refiere el artículo 15 en un plazo que no excederá los noventa días naturales posteriores a la entrada en vigor de esta ley.
 México, D.F., a 7 de octubre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Sen.
 Adrián Rivera Pérez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.

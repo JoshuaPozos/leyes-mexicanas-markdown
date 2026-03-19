@@ -5,10 +5,10 @@
 
 ---
 
-LEY DE CAPITALIZACIÓN DEL PROCAMPO LEY DE CAPITALIZACIÓN DEL PROCAMPO TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 31 de diciembre de 2001 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 31 de diciembre de 2001 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-LEY DE CAPITALIZACIÓN DEL PROCAMPO TÍTULO PRIMERO DEL OBJETO DE LA LEY CAPÍTULO ÚNICO
+TÍTULO PRIMERO DEL OBJETO DE LA LEY CAPÍTULO ÚNICO
 
 ### Artículo 1o
 . Se emite la presente Ley de Capitalización del PROCAMPO, en el marco de los artículos 25, 27 fracción XX y demás dispositivos correspondientes de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Desarrollo Rural Sustentable, y otras disposiciones aplicables.
@@ -20,7 +20,7 @@ La presente ley es de aplicación general y regirá en todo el territorio de los
 ### Artículo 3o
 . El Sistema, perseguirá los siguientes propósitos:
 I. Posibilitar a los beneficiarios el acceso por anticipado a los recursos previstos en los años restantes de vigencia del PROCAMPO, para capitalizar sus unidades de producción y desarrollar sus proyectos y acciones de modernización;
-II. Proporcionar a los productores certidumbre de que recibirán los apoyos para instrumentar los proyectos productivos que permitan una mayor capacidad de negociación al enfrentar los compromisos mercantiles, así como aprovechar las oportunidades derivadas de los acuerdos y tratados internacionales sobre la materia; y LEY DE CAPITALIZACIÓN DEL PROCAMPO III. Proporcionar condiciones para la disponibilidad y acceso a recursos crediticios.
+II. Proporcionar a los productores certidumbre de que recibirán los apoyos para instrumentar los proyectos productivos que permitan una mayor capacidad de negociación al enfrentar los compromisos mercantiles, así como aprovechar las oportunidades derivadas de los acuerdos y tratados internacionales sobre la materia; y III. Proporcionar condiciones para la disponibilidad y acceso a recursos crediticios.
 
 ### Artículo 4o
 . La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en adelante “La Secretaría”, será responsable de aplicar las disposiciones del presente ordenamiento, para lo cual establecerá los convenios de coordinación necesarios con otras dependencias y entidades de la Administración Pública Federal, los gobiernos de los estados, del Distrito Federal y municipales.
@@ -40,7 +40,7 @@ TÍTULO SEGUNDO DEL SISTEMA DE GARANTÍAS Y ACCESO ANTICIPADO A PAGOS FUTUROS DE
 
 ### Artículo 8o
 . El acceso al Sistema invariablemente será mediante un proyecto productivo que deberá estar directamente relacionado con la producción primaria, la agroindustrialización y el abastecimiento de insumos y equipos necesarios para la realización o desarrollo del proyecto respectivo u otras actividades económicas vinculadas a las cadenas productivas agropecuarias, forestales y pesqueras. Tendrán prioridad aquellos proyectos que contribuyan a la seguridad y soberanía alimentaria; a la optimización en el uso y aprovechamiento del agua; la conservación y mejoramiento de los recursos naturales y los servicios ambientales; a la generación de empleo; al incremento de la capacidad de los productores para alcanzar economías de escala y capacidad de negociación y a la integración de cadenas productivas y agregación de valor a los productos del campo.
-La Secretaría, con la participación del Consejo Mexicano para el Desarrollo Rural Sustentable apoyado en los Consejos Estatales, Distritales y Municipales para el Desarrollo Rural Sustentable, establecerá un LEY DE CAPITALIZACIÓN DEL PROCAMPO procedimiento de calificación, selección y evaluación de proyectos, el cual reflejará las prioridades y orientaciones establecidas en la presente Ley, la Ley de Desarrollo Rural Sustentable y demás ordenamientos aplicables. Dicho procedimiento será difundido ampliamente entre los beneficiarios del PROCAMPO.
+La Secretaría, con la participación del Consejo Mexicano para el Desarrollo Rural Sustentable apoyado en los Consejos Estatales, Distritales y Municipales para el Desarrollo Rural Sustentable, establecerá un procedimiento de calificación, selección y evaluación de proyectos, el cual reflejará las prioridades y orientaciones establecidas en la presente Ley, la Ley de Desarrollo Rural Sustentable y demás ordenamientos aplicables. Dicho procedimiento será difundido ampliamente entre los beneficiarios del PROCAMPO.
 
 ### Artículo 9o
 . Para lograr el mejor efecto del Sistema, los gobiernos en sus diferentes órdenes, así como los particulares, individual u organizadamente, podrán establecer los acuerdos pertinentes, para la participación en el desarrollo de los proyectos. Dichos acuerdos quedarán establecidos en los convenios respectivos.
@@ -64,7 +64,7 @@ Dichas partidas tendrán un valor real constante, para lo cual se ajustarán en 
 Mientras persistan condiciones desfavorables de competencia en el mercado internacional se continuarán aportando a los productores apoyos directos determinados por el Ejecutivo, de acuerdo con lo establecido en la Ley de Desarrollo Rural Sustentable.
 
 ### Artículo 15
-. Mediante la presente Ley, se apoyará a los productores a través de proyectos productivos que sean financiera y técnicamente viables, para lo cual la Secretaría proporcionará información sobre las opciones técnicas que mejoren los procesos productivos acostumbrados y sobre otras actividades que LEY DE CAPITALIZACIÓN DEL PROCAMPO presenten mejores condiciones productivas y de mercado, que les permita tomar las decisiones que convengan a sus intereses.
+. Mediante la presente Ley, se apoyará a los productores a través de proyectos productivos que sean financiera y técnicamente viables, para lo cual la Secretaría proporcionará información sobre las opciones técnicas que mejoren los procesos productivos acostumbrados y sobre otras actividades que presenten mejores condiciones productivas y de mercado, que les permita tomar las decisiones que convengan a sus intereses.
 
 ### Artículo 16
 . El productor que desee incorporarse al Sistema, para estar en aptitud de disponer anticipadamente de los recursos del mismo o utilizarlos como garantía crediticia, deberá cumplir con los siguientes requisitos:
@@ -85,7 +85,7 @@ IV. Responsabilidad de los productores, respecto a la utilización de los apoyos
 
 ### Artículo 19
 . Los recursos del Sistema podrán emplearse como fuente de pago de la inversión requerida por los proyectos a desarrollar por los beneficiarios; como garantía crediticia o para constituir y fortalecer los organismos económicos de los productores, orientados a financiar proyectos productivos agropecuarios, forestales y pesqueros.
-TÍTULO TERCERO DE LA APLICACIÓN DE LA LEY CAPÍTULO ÚNICO LEY DE CAPITALIZACIÓN DEL PROCAMPO
+TÍTULO TERCERO DE LA APLICACIÓN DE LA LEY CAPÍTULO ÚNICO
 
 ### Artículo 20
 . La Secretaría, con sujeción a las disposiciones establecidas en la presente Ley, emitirá la normatividad operativa para el acceso a los recursos a que se refiere la misma. Normatividad que dará a conocer al Congreso de la Unión para que emita sus observaciones; a la vez que aplicará e interpretará para efectos administrativos lo establecido en este ordenamiento. De la misma manera, determinará los mecanismos de seguimiento y control sobre los recursos que se otorguen y verificará su correcta aplicación en los proyectos aprobados, a la vez que establecerá las sanciones para los productores que incurran en desvíos o simulaciones o no ejecuten dichos proyectos en los plazos previstos.
@@ -96,10 +96,13 @@ Las reglas de operación especificarán las condiciones económicas y financiera
 
 ### Artículo 22
 . La Secretaría, resolverá las inconformidades que presenten los productores en la aplicación de la presente Ley, con la participación del Consejo Mexicano para el Desarrollo Rural Sustentable.
-TRANSITORIOS Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- La Secretaría enviará al Congreso de la Unión la memoria de cálculo y las proyecciones correspondientes al ejercicio del Sistema noventa días después de la publicación de la presente Ley y, anualmente, al 30 de noviembre el informe de avances del ejercicio y las proyecciones correspondientes al ejercicio fiscal siguiente.
-Tercero.- El Sistema tendrá vigencia hasta el 31 de diciembre del año 2008.
-Cuarto.- El Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público, en coordinación con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, a la entrada en vigor de esta Ley, promoverá las acciones de fomento a la capitalización a que se refiere la misma, así como la instrumentación de los mecanismos financieros que se requieran para el cumplimiento de sus disposiciones.
+
+## TRANSITORIOS
+
+**Primero.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** La Secretaría enviará al Congreso de la Unión la memoria de cálculo y las proyecciones correspondientes al ejercicio del Sistema noventa días después de la publicación de la presente Ley y, anualmente, al 30 de noviembre el informe de avances del ejercicio y las proyecciones correspondientes al ejercicio fiscal siguiente.
+**Tercero.-** El Sistema tendrá vigencia hasta el 31 de diciembre del año 2008.
+**Cuarto.-** El Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público, en coordinación con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, a la entrada en vigor de esta Ley, promoverá las acciones de fomento a la capitalización a que se refiere la misma, así como la instrumentación de los mecanismos financieros que se requieran para el cumplimiento de sus disposiciones.
 México, D.F., a 15 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
 Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas".
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del LEY DE CAPITALIZACIÓN DEL PROCAMPO mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.

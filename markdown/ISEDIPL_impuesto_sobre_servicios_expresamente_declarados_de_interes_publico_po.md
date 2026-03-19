@@ -5,7 +5,7 @@
 
 ---
 
-IMPUESTO SOBRE SERVICIOS EXPRESAMENTE DECLARADOS DE INTERÉS PÚBLICO POR LEY, EN LOS QUE INTERVENGAN EMPRESAS CONCESIONARIAS DE BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS) IMPUESTO SOBRE SERVICIOS EXPRESAMENTE DECLARADOS DE INTERÉS PÚBLICO POR LEY, EN LOS QUE INTERVENGAN EMPRESAS CONCESIONARIAS DE BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS) TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 31 de diciembre de 1968 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS) IMPUESTO SOBRE SERVICIOS EXPRESAMENTE DECLARADOS DE INTERÉS PÚBLICO POR LEY, EN LOS QUE INTERVENGAN EMPRESAS CONCESIONARIAS DE BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS) TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 31 de diciembre de 1968 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 GUSTAVO DIAZ ORDAZ, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS.
@@ -15,18 +15,25 @@ ARTICULO NOVENO.- Se establece un impuesto sobre servicios expresamente declarad
 
 ### artículo 1o
 .
-IMPUESTO SOBRE SERVICIOS EXPRESAMENTE DECLARADOS DE INTERÉS PÚBLICO POR LEY, EN LOS QUE INTERVENGAN EMPRESAS CONCESIONARIAS DE BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS) Las personas que reciben pagos responderán solidariamente del cumplimiento de las obligaciones establecidas en esta ley y deberán recabar el impuesto a cargo de los sujetos". "ARTICULO 3o.- Sólo estarán exentos del impuesto la Federación y los sujetos señalados en las fracciones I y II del artículo 16 del Código Fiscal de la Federación. Las exenciones o limitaciones respecto de impuestos federales, establecidas en otras leyes, quedan derogadas en lo que toca al pago del impuesto a que esta ley se refiere". "ARTICULO 4o.- La base del impuesto será el monto total de los pagos en efectivo o en especie que se hagan por los conceptos señalados en el artículo 1o. de esta ley". "ARTICULO 5o.- El impuesto se determinará aplicando la tasa de 25% a la base señalada en el artículo que antecede". "ARTICULO 6o.- Los responsables solidarios deberán presentar declaraciones mensuales en las que determinarán el monto del impuesto, utilizando al efecto las formas que apruebe la Secretaría de Hacienda y Crédito Público.
+BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS) Las personas que reciben pagos responderán solidariamente del cumplimiento de las obligaciones establecidas en esta ley y deberán recabar el impuesto a cargo de los sujetos". "ARTICULO 3o.- Sólo estarán exentos del impuesto la Federación y los sujetos señalados en las fracciones I y II del artículo 16 del Código Fiscal de la Federación. Las exenciones o limitaciones respecto de impuestos federales, establecidas en otras leyes, quedan derogadas en lo que toca al pago del impuesto a que esta ley se refiere". "ARTICULO 4o.- La base del impuesto será el monto total de los pagos en efectivo o en especie que se hagan por los conceptos señalados en el artículo 1o. de esta ley". "ARTICULO 5o.- El impuesto se determinará aplicando la tasa de 25% a la base señalada en el artículo que antecede". "ARTICULO 6o.- Los responsables solidarios deberán presentar declaraciones mensuales en las que determinarán el monto del impuesto, utilizando al efecto las formas que apruebe la Secretaría de Hacienda y Crédito Público.
 Las declaraciones deberán presentarse en la oficina receptora correspondiente, dentro de los veinte días siguientes al mes de calendario en que se hubieren recibido los pagos". "ARTICULO 7o.- Los responsables solidarios deberán enterar el impuesto al presentar la declaración a que se refiere el artículo 6o. de esta ley".
 ARTICULO DECIMO.- ..........
-TRANSITORIOS.
-ARTICULO PRIMERO.- Las disposiciones contenidas en esta Ley, entrarán en vigor en toda la República, el día 1o. de enero de 1969, salvo lo dispuesto en los artículos segundo, tercero y cuarto transitorios.
+
+## TRANSITORIOS
+
+.
+ARTICULO PRIMERO.- Las disposiciones contenidas en esta Ley, entrarán en vigor en toda la República, el día 1o. de enero de 1969, salvo lo dispuesto en los artículos segundo, tercero y cuarto
+
+## transitorios
+
+.
 ARTICULO SEGUNDO.- La reforma al artículo 499 del Código Aduanero, entrará en vigor en toda la República el día 11 de enero de 1969.
 ARTICULO TERCERO.- Los Agentes Aduanales actualmente autorizados para ejercer, deberán otorgar la fianza a que se refiere la reforma al artículo 701 del Código Aduanero, dentro de un plazo de sesenta días contados a partir de la fecha de vigencia de la presente Ley.
 ARTICULO CUARTO.- El impuesto establecido en el ARTICULO NOVENO de este Ordenamiento, entrará en vigor en toda la República el día 1o. de julio de 1969.
 ARTICULO QUINTO.- Se autoriza a la Secretaría de Hacienda y Crédito Público, a efecto de que en el ejercicio de 1969, mediante reglas generales, establezca bases para determinar el ingreso gravable en relación con el impuesto sobre la renta en los siguientes casos:
 I.- Agricultura, ganadería y pesca.
 II.- Personas físicas, permisionarias de autotransportes de carga y de pasajeros o sociedades a las que se hubiere aportado en goce cuando menos el 51% de unidades y permisos.
-IMPUESTO SOBRE SERVICIOS EXPRESAMENTE DECLARADOS DE INTERÉS PÚBLICO POR LEY, EN LOS QUE INTERVENGAN EMPRESAS CONCESIONARIAS DE BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS) ARTICULO SEXTO.- Las empresas de construcción de obras públicas o privadas deberán pagar impuesto sobre la renta al ingreso global de las empresas, por el ejercicio de 1969, de acuerdo con lo siguiente:
+BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS) ARTICULO SEXTO.- Las empresas de construcción de obras públicas o privadas deberán pagar impuesto sobre la renta al ingreso global de las empresas, por el ejercicio de 1969, de acuerdo con lo siguiente:
 Por el año de calendario de 1969 el impuesto será el 2% del valor de la obra ejecutada en dicho período, incluyendo el correspondiente a materiales y mano de obra.
 Las empresas presentarán declaración dentro de los primeros 20 días de cada mes, en la Oficina Federal de Hacienda de su domicilio, en la que expresarán el valor de las diversas obras ejecutadas durante el mes anterior, liquidarán el impuesto que les corresponda, deducirán el que les hubiere sido retenido y pagarán el saldo al presentar dicha declaración.
 El Gobierno Federal, el del Distrito Federal, los de los Territorios y los Gobiernos de los Estados, así como los organismos descentralizados y empresas de participación estatal deberán retener 2% del importe de anticipos, estimaciones, recibos u otros conceptos que paguen a constructores, a partir del 1o. de enero de 1969. Las cantidades retenidas se enterarán en los términos del Código Fiscal de la Federación.

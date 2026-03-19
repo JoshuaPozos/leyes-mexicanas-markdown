@@ -5,11 +5,14 @@
 
 ---
 
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA (Antes “Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía”) Nueva Ley publicada en el Diario Oficial de la Federación el 23 de mayo de 2012 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+(Antes “Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía”) Nueva Ley publicada en el Diario Oficial de la Federación el 23 de mayo de 2012 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-SE EXPIDE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023 Artículo Único. Se expide la Ley de la Economía Social y Solidaria.
-Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023 LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023
+SE EXPIDE LA Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023
+
+### Artículo Único
+Se expide la Ley de la Economía Social y Solidaria.
+Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023 Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023
 
 ## TÍTULO I
 DISPOSICIONES GENERALES
@@ -21,7 +24,7 @@ Párrafo reformado DOF 30-12-2015 La presente Ley es de orden público, interés
 ### Artículo 2o
 . La presente Ley tiene por objeto:
 I. Establecer mecanismos para fomentar el desarrollo, fortalecimiento y visibilidad de la Actividad Económica del Sector Social de la Economía, y Fracción reformada DOF 11-06-2013 II. Definir las reglas para la promoción, fomento y fortalecimiento del Sector Social de la Economía, como un sistema eficaz que contribuya al desarrollo social y económico del país, a la generación de fuentes de trabajo digno, al fortalecimiento de la democracia, a la equitativa distribución del ingreso y a la mayor generación de patrimonio social.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Fracción reformada DOF 11-06-2013
+Fracción reformada DOF 11-06-2013
 
 ### Artículo 3o
 . El Sector Social de la Economía es el sector de la economía a que se refiere el párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, el cual funciona como un sistema socioeconómico creado por organismos de propiedad social, basados en relaciones de solidaridad, cooperación y reciprocidad, privilegiando al trabajo y al ser humano, conformados y administrados en forma asociativa, para satisfacer las necesidades de sus integrantes y comunidades donde se desarrollan, en concordancia con los términos que establece la presente Ley.
@@ -46,7 +49,7 @@ Fracción derogada DOF 11-06-2013 VI. (Se deroga);
 Fracción derogada DOF 11-06-2013 VII. Asociados, en singular o plural, a las personas que participan, en su caso, en el capital social de los Organismos del Sector;
 Fracción reformada DOF 11-06-2013 VIII. (Se deroga);
 Fracción derogada DOF 11-06-2013 IX. Programa, al Programa de Fomento a la Economía Social;
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA X. (Se deroga);
+X. (Se deroga);
 Fracción derogada DOF 11-06-2013 XI. Actividad Económica, cualquier proceso mediante el cual se obtienen productos, bienes o servicios socialmente necesarios, en cualquiera de sus fases de producción, distribución o consumo, y en cualquier de los sectores primario, secundario o terciario;
 XII. (Se deroga);
 Fracción derogada DOF 11-06-2013 XIII. (Se deroga);
@@ -69,7 +72,7 @@ Fracción reformada DOF 12-04-2019 II. Contribuir al desarrollo socioeconómico 
 III. Fomentar la educación y formación impulsando prácticas que consoliden una cultura solidaria, creativa y emprendedora;
 IV. Contribuir al ejercicio y perfeccionamiento de la democracia participativa;
 V. Participar en el diseño de planes, programas y proyectos de desarrollo económico y social, en términos de la legislación aplicable;
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA VI. Facilitar a los Asociados de los Organismos del Sector la participación y acceso a la formación, el trabajo, la propiedad, la información, la gestión y distribución equitativa de beneficios sin discriminación alguna;
+VI. Facilitar a los Asociados de los Organismos del Sector la participación y acceso a la formación, el trabajo, la propiedad, la información, la gestión y distribución equitativa de beneficios sin discriminación alguna;
 Fracción reformada DOF 11-06-2013 VII. Participar en la generación de fuentes de trabajo y de mejores formas de vida para todas las personas;
 Fracción adicionada DOF 11-06-2013 VIII. Impulsar el pleno potencial creativo e innovador de los trabajadores, ciudadanos y la sociedad;
 Fracción adicionada DOF 11-06-2013. Reformada DOF 29-12-2023 IX. Promover la productividad como mecanismo de equidad social, y Fracción adicionada DOF 11-06-2013. Reformada DOF 29-12-2023 X. Generar condiciones para la integración social y productiva de las mujeres libre de cualquier forma de discriminación.
@@ -95,7 +98,7 @@ VIII. Responsabilidad compartida;
 IX. Solidaridad;
 X. Subsidiariedad;
 Fracción reformada DOF 11-06-2013 XI. Transparencia;
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Fracción reformada DOF 11-06-2013 XII. Confianza;
+Fracción reformada DOF 11-06-2013 XII. Confianza;
 Fracción adicionada DOF 11-06-2013. Reformada DOF 12-04-2019 XIII. Autogestión, e Fracción adicionada DOF 11-06-2013. Reformada DOF 12-04-2019 XIV. Inclusión Social.
 Fracción adicionada DOF 12-04-2019
 
@@ -114,7 +117,7 @@ X. Promoción de la cultura solidaria, basada en los derechos humanos y de la pr
 Fracción reformada DOF 29-12-2023 XI. Información periódica de sus estados financieros y de resultados a todos y cada uno de sus Asociados, a través de los informes a sus órganos de dirección, administración y vigilancia, así como libre acceso a la información respectiva para los mismos;
 XII. Integración y colaboración con otros Organismos del Sector;
 Fracción reformada DOF 11-06-2013 XIII. Compromiso solidario con las comunidades donde desarrollan su actividad, y Fracción reformada DOF 11-06-2013 XIV. Creatividad e innovación en todos los ámbitos y prácticas de los organismos.
-Fracción adicionada DOF 11-06-2013 LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA
+Fracción adicionada DOF 11-06-2013
 
 ### Artículo 12
 . En lo no previsto por la presente Ley se aplicará supletoriamente:
@@ -143,7 +146,7 @@ III. Vigilar el cumplimiento de las disposiciones de la presente Ley;
 IV. Formular y ejecutar programas y proyectos de apoyo público a la promoción, fomento y desarrollo del Sector;
 V. Participar en la elaboración, consecución y verificación del Plan Nacional de Desarrollo, en términos de lo dispuesto por la Ley de Planeación y demás disposiciones aplicables a las actividades económicas que desarrollen los Organismos del Sector;
 VI. Ser órgano consultivo del Estado en la formulación de políticas relativas al Sector, en términos de lo dispuesto por la Ley de Planeación y demás disposiciones aplicables a las actividades económicas que desarrollen los Organismos del Sector;
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA VII. (Se deroga) Fracción derogada DOF 11-06-2013 VIII. Llevar a cabo estudios, investigaciones y la sistematización de información que permitan el conocimiento de la realidad de los Organismos del Sector y de su entorno, para el mejor cumplimiento de su objeto;
+VII. (Se deroga) Fracción derogada DOF 11-06-2013 VIII. Llevar a cabo estudios, investigaciones y la sistematización de información que permitan el conocimiento de la realidad de los Organismos del Sector y de su entorno, para el mejor cumplimiento de su objeto;
 Fracción reformada DOF 11-06-2013 IX. Promover la consolidación empresarial y el desarrollo organizacional de las diversas formas asociativas que integran el Sector, para lo cual establecerá un Sistema Nacional de Capacitación y Asistencia Técnica Especializada, mediante el diseño de su propia metodología, la firma de convenios de coordinación y colaboración con las dependencias de la Administración Pública Federal, así como con dependencias de las Entidades Federativas, Municipios y universidades e instituciones de educación superior;
 Fracción reformada DOF 11-06-2013 X. Promover en el ámbito nacional e internacional los bienes y servicios producidos por los Organismos del Sector, siempre que la legislación específica en la materia de cada Organismo del Sector se los permita;
 Fracción reformada DOF 11-06-2013 XI. Promover la creación de Organismos de Representación del Sector de conformidad por lo dispuesto en las leyes específicas para cada una de las formas asociativas que los integran;
@@ -154,7 +157,7 @@ XV. (Se deroga) Fracción derogada DOF 11-06-2013 XVI. Establecer un Observatori
 XVII. Definir las distintas regiones geoeconómicas necesarias para el cumplimento de las disposiciones contenidas en la presente Ley;
 Fracción reformada DOF 16-04-2025 XVIII. Publicar anualmente un compendio de información básica vía digital y/o impresa sobre los Organismos del Sector, que incluya a todos aquellos organismos beneficiados;
 Fracción adicionada DOF 11-06-2013 XIX. Impulsar el diseño de políticas públicas en el ámbito educativo que fomenten el desarrollo de la economía social y solidaria en las instituciones educativas del país;
-Fracción adicionada DOF 11-06-2013 LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA XX. Favorecer cadenas productivas de valor, locales, regionales, nacionales y globales, que sirvan para el escalamiento progresivo de los Organismos del Sector;
+Fracción adicionada DOF 11-06-2013 XX. Favorecer cadenas productivas de valor, locales, regionales, nacionales y globales, que sirvan para el escalamiento progresivo de los Organismos del Sector;
 Fracción adicionada DOF 11-06-2013 XXI. El Instituto en materia de fomento, determinará las reglas, lineamientos y, en general, todo lo necesario a fin de garantizar el adecuado ejercicio de los recursos públicos, en la prestación de apoyos y estímulos a los organismos del sector;
 Fracción adicionada DOF 11-06-2013. Reformada DOF 16-04-2025 XXI Bis. Definir e implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, respecto del cumplimiento de la presente Ley, particularmente en lo que corresponde a los fines, valores, principios y prácticas del cooperativismo y de la Economía Social y Solidaria. Para coadyuvar en la implementación de dicho modelo de certificación, el Instituto podrá suscribir convenios de coordinación con las entidades federativas, los municipios y las alcaldías de la Ciudad de México, y Fracción adicionada DOF 16-04-2025 XXII. Las demás que señale el Acuerdo.
 Fracción reformada y recorrida DOF 11-06-2013. Reformada DOF 30-12-2015
@@ -177,7 +180,7 @@ Artículo derogado DOF 11-06-2013
 I. Ejercer la representación legal del Instituto;
 II. Elaborar el programa anual de actividades del Instituto;
 III. Elaborar, proponer y someter a consideración del titular de la Secretaría, para su aprobación, los programas y acciones de fomento y desarrollo a la actividad económica del Sector;
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Fracción reformada DOF 30-12-2015 IV. Presentar un informe anual de actividades a la Secretaría, y turnarlo a las Comisiones competentes del Congreso de la Unión, para su conocimiento, y Fracción reformada DOF 11-06-2013 V. Las demás que señale el Acuerdo del Instituto.
+Fracción reformada DOF 30-12-2015 IV. Presentar un informe anual de actividades a la Secretaría, y turnarlo a las Comisiones competentes del Congreso de la Unión, para su conocimiento, y Fracción reformada DOF 11-06-2013 V. Las demás que señale el Acuerdo del Instituto.
 Fracción reformada DOF 11-06-2013
 
 ### Artículo 19
@@ -210,7 +213,7 @@ I. Emitir opiniones y formular propuestas sobre la aplicación y orientación de
 II. Impulsar la participación ciudadana y de los organismos del sector en el seguimiento, operación y evaluación del Programa de Fomento de la Economía Social;
 III. Proponer y propiciar la colaboración de organismos públicos y privados, nacionales y extranjeros, en el fomento y desarrollo para el Sector de la Economía Social;
 IV. Proponer la realización de estudios e investigaciones en la materia;
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA V. Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el fomento y desarrollo para el Sector de la Economía Social;
+V. Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el fomento y desarrollo para el Sector de la Economía Social;
 VI. Informar a la opinión pública sobre los aspectos de interés general relativos al Programa;
 VII. Integrar las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus funciones;
 VIII. Formular opinión fundada al Director del Instituto de la evaluación a que se refiere el artículo 52 de esta Ley;
@@ -240,7 +243,7 @@ Artículo derogado DOF 11-06-2013
 
 ### Artículo 29
 . (Se deroga).
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Artículo derogado DOF 11-06-2013
+Artículo derogado DOF 11-06-2013
 
 ### Artículo 30
 . (Se deroga).
@@ -273,9 +276,7 @@ Párrafo reformado DOF 11-06-2013 Podrán prestar u obtener en común servicios 
 Artículo derogado DOF 11-06-2013
 
 ## CAPÍTULO IV
-DEL REGISTRO (Se deroga)
-
-## Capítulo derogado DOF 11-06-2013
+DEL REGISTRO (Se deroga) Capítulo derogado DOF 11-06-2013
 
 ### Artículo 36
 . (Se deroga).
@@ -283,7 +284,7 @@ Artículo derogado DOF 11-06-2013
 
 ### Artículo 37
 . (Se deroga).
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Artículo derogado DOF 11-06-2013
+Artículo derogado DOF 11-06-2013
 
 ### Artículo 38
 . (Se deroga).
@@ -314,7 +315,7 @@ II. Explotación de bienes propiedad de la nación, así como prestación de ser
 III. De educación, salud, gremiales, deportivas, recreacionales, culturales y sociales en beneficio de los socios y la comunidad;
 IV. De servicios financieros de seguros, crédito, ahorro y préstamo, y V. Todas las actividades económicas relacionadas con la producción, distribución y consumo de bienes y servicios socialmente necesarios.
 En el caso de las actividades de ahorro y préstamo a que se refiriere la fracción IV de este artículo, deberá observarse y dar estricto cumplimento a lo establecido en el artículo 103 de la Ley de Instituciones de Crédito. En cuanto a los servicios de seguro deberá obtenerse las autorizaciones o registros previstos en la ley de la materia.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Los Organismos del Sector les estará prohibido realizar actividades de proselitismo partidista y político-electoral.
+Los Organismos del Sector les estará prohibido realizar actividades de proselitismo partidista y político-electoral.
 
 ### Artículo 43
 . Los Organismos del Sector, en su caso, adoptarán la estructura interna que señale la legislación específica de cada una de las formas asociativas y sus propios estatutos, y que más se adecue a sus necesidades, debiendo contar al menos con los siguientes:
@@ -338,7 +339,7 @@ Fracción derogada DOF 11-06-2013
 
 ### Artículo 45
 . Los Organismos del Sector deberán ajustarse a lo siguiente:
-Párrafo reformado DOF 11-06-2013 LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA I. Cumplir y hacer cumplir los fines, valores, principios y prácticas previstos en la presente Ley, lo cual acreditarán conforme al modelo de certificación correspondiente;
+Párrafo reformado DOF 11-06-2013 I. Cumplir y hacer cumplir los fines, valores, principios y prácticas previstos en la presente Ley, lo cual acreditarán conforme al modelo de certificación correspondiente;
 Fracción reformada DOF 16-04-2025 II. Establecer fondos de reserva, previsión social y educación de acuerdo a las leyes específicas, con porcentajes de los excedentes o beneficios percibidos en sus actividades económicas; sin que ello les implique mayores cargas de las que se consideren en los ordenamientos legales que, en su caso, las rijan en función de su naturaleza jurídica;
 Fracción reformada DOF 11-06-2013 III. Utilizar los beneficios que consagra la presente Ley para los fines con que fueron autorizados;
 IV. Conservar la documentación que demuestre el otorgamiento y uso de apoyos y estímulos públicos otorgados para los fines de sus actividades económicas;
@@ -353,7 +354,7 @@ XII. Actuar con criterios de imparcialidad y no discriminación en la determinac
 XIII. Cumplir con las obligaciones derivadas de los convenios suscritos con el Instituto;
 XIV. Informar a sus Asociados a través de su Asamblea General u Órgano de Dirección sobre los servicios y beneficios económicos, educativos y sociales prestados en el respectivo ejercicio, así como de sus estados financieros;
 XV. (Se deroga).
-Fracción derogada DOF 11-06-2013 XVI. En caso de disolución, transmitir los bienes que haya adquirido con apoyos y estímulos públicos, a otro u otros Organismos del Sector que realicen actividades objeto de fomento. El LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Organismo del Sector que se disuelva tendrá la facultad de elegir a quién transmitirá dichos bienes;
+Fracción derogada DOF 11-06-2013 XVI. En caso de disolución, transmitir los bienes que haya adquirido con apoyos y estímulos públicos, a otro u otros Organismos del Sector que realicen actividades objeto de fomento. El Organismo del Sector que se disuelva tendrá la facultad de elegir a quién transmitirá dichos bienes;
 Fracción reformada DOF 11-06-2013 XVII. Contribuir al desarrollo socioeconómico nacional, y Fracción reformada DOF 16-04-2025 XVIII. Las demás que señale la presente Ley y leyes aplicables.
 
 ## CAPÍTULO III
@@ -378,7 +379,7 @@ Además, deberán llevar a cabo sus operaciones conforme a las disposiciones fis
 Cuando dichas empresas se encuentren en proceso de desincorporación, las autoridades competentes deberán tomar en cuenta a los trabajadores, a través de las organizaciones o empresas del sector ya existentes o las que sean constituidas para tal efecto, para ser considerados en la transferencia de los bienes de estas.
 
 ### Artículo 50
-. En los casos en los cuales las empresas de carácter privado presenten conflictos obreropatronales calificados como irreconciliables, las autoridades competentes deberán tomar en cuenta a los trabajadores, a través de las organizaciones o empresas del sector ya existentes o las que sean LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA constituidas para tal efecto, para ser considerados en la transferencia de los bienes de la empresa en cuestión, a fin de que dichas empresas continúen operando con eficiencia y rentabilidad.
+. En los casos en los cuales las empresas de carácter privado presenten conflictos obreropatronales calificados como irreconciliables, las autoridades competentes deberán tomar en cuenta a los trabajadores, a través de las organizaciones o empresas del sector ya existentes o las que sean constituidas para tal efecto, para ser considerados en la transferencia de los bienes de la empresa en cuestión, a fin de que dichas empresas continúen operando con eficiencia y rentabilidad.
 Lo anterior, de conformidad y con absoluto respeto a lo que dispongan las leyes laborales y mercantiles en la materia.
 
 ### Artículo 51
@@ -412,71 +413,123 @@ Artículo derogado DOF 11-06-2013
 
 ### Artículo 58
 . El Instituto podrá imponer sanciones administrativas, en los términos previstos por el simulando ser Organismos del Sector gocen o pretendan gozar de los beneficios y prerrogativas por esta Ley.
-Artículo reformado DOF 11-06-2013 TRANSITORIOS PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. La convocatoria y asuntos relativos a la celebración de las asambleas regionales de los Organismos del Sector, será efectuada por la Secretaría, a través del Instituto, en un plazo no mayor de LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA dieciocho meses después de la publicación de la presente Ley en el Diario Oficial de la Federación. Una vez realizadas las asambleas regionales, la Secretaría, a través del Instituto, deberá convocar a la instalación del Congreso Nacional.
+Artículo reformado DOF 11-06-2013
+
+## TRANSITORIOS
+
+**PRIMERO.** La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** La convocatoria y asuntos relativos a la celebración de las asambleas regionales de los Organismos del Sector, será efectuada por la Secretaría, a través del Instituto, en un plazo no mayor de dieciocho meses después de la publicación de la presente Ley en el Diario Oficial de la Federación. Una vez realizadas las asambleas regionales, la Secretaría, a través del Instituto, deberá convocar a la instalación del Congreso Nacional.
 Párrafo reformado DOF 24-01-2013 El Congreso Nacional Constituyente deberá elegir tan pronto como se instituya, a sus Representantes permanentes ante el Consejo Consultivo del Instituto, así como elaborar su plan de trabajo y su reglamento interno en un plazo no mayor a seis meses después de haber quedado legalmente constituido.
 El Congreso Nacional Constituyente tendrá treinta y seis meses a partir del momento de su constitución para convocar a la constitución y la elección democrática del Consejo Nacional.
-TERCERO. El Instituto deberá quedar constituido, instalado y reglamentado en un plazo no mayor a ciento ochenta días naturales posteriores a la entrada en vigor de la presente Ley, asumiendo las funciones e integrándose con los recursos financieros, materiales y humanos que actualmente están asignados a la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad.
+**TERCERO.** El Instituto deberá quedar constituido, instalado y reglamentado en un plazo no mayor a ciento ochenta días naturales posteriores a la entrada en vigor de la presente Ley, asumiendo las funciones e integrándose con los recursos financieros, materiales y humanos que actualmente están asignados a la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad.
 El personal que, en virtud de esta Ley pase de la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad al Instituto, de ninguna forma resultará afectado en las prerrogativas y derechos laborales que hayan adquirido conforme a la Constitución Política de los Estados Unidos Mexicanos y la Ley en la materia aplicable.
 Los asuntos que a la entrada en vigor de la presente Ley se encuentren pendientes de trámite por parte de la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad seguirán a cargo del Instituto hasta su total conclusión.
 En tanto se reforma el Reglamento Interior de la Secretaría de Economía y se expida el Reglamento Interior del Instituto, se continuará aplicando el Acuerdo que regula la organización y el funcionamiento interno de la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad, publicado en el Diario Oficial de la Federación el 20 de octubre de 2009, en lo que no se oponga a esta Ley; y en lo no previsto, se estará a lo que resuelva la Secretaría.
 Párrafo reformado DOF 24-01-2013 Las facultades, funciones y atribuciones que desempeña actualmente la Coordinación General del Programa Nacional de Apoyo para las Empresas de Solidaridad, deberán ser concedidas íntegramente al Instituto y reconocidas por el Reglamento Interior de la Secretaría de Economía, así como en todas las disposiciones legales que al efecto se emitan o modifiquen.
-CUARTO.- Las normas que regulen al Registro deberán ser expedidas por la Secretaría en un plazo no mayor a ciento ochenta días naturales, posteriores a la fecha de su instalación.
+**CUARTO.-** Las normas que regulen al Registro deberán ser expedidas por la Secretaría en un plazo no mayor a ciento ochenta días naturales, posteriores a la fecha de su instalación.
 Las normas que regulen al Programa deberán ser expedidas por la Secretaría durante el año 2013 y entrarán en vigor a partir del ejercicio fiscal 2014, por lo que durante el ejercicio fiscal 2013 las solicitudes de apoyo que se presenten, se tramitarán hasta su conclusión conforme a las Reglas de Operación del Fondo Nacional de Apoyos para Empresas en Solidaridad (FONAES) para el ejercicio fiscal 2012, publicadas en el Diario Oficial de la Federación el 24 de diciembre de 2011, en lo que no se oponga a esta Ley; y en lo no previsto, la Secretaría expedirá los criterios aplicables transitoriamente para el ejercicio fiscal 2013.
-Para efectos de lo dispuesto en el artículo 37 de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, durante el ejercicio fiscal 2013, no será LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA exigible la obligación de estar inscrito en el Registro de los Organismos del Sector única y exclusivamente en lo que se refiere a la solicitud y entrega de apoyos del Programa.
-Artículo reformado DOF 24-01-2013 QUINTO. En tanto no se expidan las disposiciones correspondientes, continuarán aplicándose, en lo que no se opongan a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente Ley.
-SEXTO. Los apoyos cuyo trámite se haya iniciado conforme a las disposiciones jurídicas y administrativas vigentes antes de la entrada en vigor de esta Ley, se seguirán rigiendo por las mismas hasta su conclusión.
+Para efectos de lo dispuesto en el artículo 37 de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, durante el ejercicio fiscal 2013, no será exigible la obligación de estar inscrito en el Registro de los Organismos del Sector única y exclusivamente en lo que se refiere a la solicitud y entrega de apoyos del Programa.
+Artículo reformado DOF 24-01-2013
+**QUINTO.** En tanto no se expidan las disposiciones correspondientes, continuarán aplicándose, en lo que no se opongan a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente Ley.
+**SEXTO.** Los apoyos cuyo trámite se haya iniciado conforme a las disposiciones jurídicas y administrativas vigentes antes de la entrada en vigor de esta Ley, se seguirán rigiendo por las mismas hasta su conclusión.
 México, D.F., a 30 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Martín García Avilés, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintidós de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma los artículos Segundo, Tercero y Cuarto Transitorios de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía.
-Publicado en el Diario Oficial de la Federación el 24 de enero de 2013 ARTÍCULO PRIMERO.- Se reforma el primer párrafo del Segundo Transitorio, así como el cuarto párrafo del Tercero Transitorio, de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue: ……… ARTÍCULO SEGUNDO.- Se reforma el primer párrafo del Cuarto Transitorio para precisar la aplicación de las normas que regulan al Registro y al Programa, y se adiciona un segundo párrafo al mismo, de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue: ……….
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforma los artículos Segundo, Tercero y Cuarto Transitorios de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía.
+Publicado en el Diario Oficial de la Federación el 24 de enero de 2013
+
+### ARTÍCULO PRIMERO
+Se reforma el primer párrafo del Segundo Transitorio, así como el cuarto párrafo del Tercero Transitorio, de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo
+**séptimo.** del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue: ………
+
+### ARTÍCULO SEGUNDO
+Se reforma el primer párrafo del Cuarto Transitorio para precisar la aplicación de las normas que regulan al Registro y al Programa, y se adiciona un segundo párrafo al mismo, de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue: ……….
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 21 de diciembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip.
 Francisco Arroyo Vieyra, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de enero de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA DECRETO por el que se reforman, adicionan y derogan diversos artículos de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía.
-Publicado en el Diario Oficial de la Federación el 11 de junio de 2013 Artículo Único. Se REFORMAN los artículos 2o. fracciones I y II; 3o., 5o., fracciones I y VII; 7o., 8o., fracción VI; 10, fracciones X y XI; 11, fracciones XII y XIII; 14, fracciones VIII, IX, X, XI y XIII; 15, fracción I, 16 fracción I; 18, fracciones IV y V; 19, 21, 22, 23, 24, 25, 26, 27 y el Capítulo II, del Título II, que se denomina “Del Congreso y Consejo Nacional”, 31, 32, 33, 34, primer párrafo, y el Capítulo III del Título II, que se denomina “De los Organismos de Integración y Representación”, el primer párrafo del artículo 41, 43, primer párrafo; 45, primer párrafo y las fracciones II y XVI; 46, 55 y 58; se ADICIONAN las fracciones XV, XVI y XVII al artículo 5o., fracciones VII, VIII y IX al artículo 8o., las fracciones XII y XIII al artículo 10, la fracción XIV al artículo 11, un párrafo tercero al artículo 13, las fracciones XVIII, XIX, XX y XXI, recorriendo el contenido de las fracciones XVIII a la XXII al artículo 14 y se adiciona un párrafo al artículo 31; y se DEROGAN las fracciones V, VI, VIII, X, XII, XIII y XIV del artículo 5o., las fracciones VII y XV del
+DECRETO por el que se reforman, adicionan y derogan diversos artículos de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía.
+Publicado en el Diario Oficial de la Federación el 11 de junio de 2013
+
+### Artículo Único
+Se REFORMAN los artículos 2o. fracciones I y II; 3o., 5o., fracciones I y VII; 7o., 8o., fracción VI; 10, fracciones X y XI; 11, fracciones XII y XIII; 14, fracciones VIII, IX, X, XI y XIII; 15, fracción I, 16 fracción I; 18, fracciones IV y V; 19, 21, 22, 23, 24, 25, 26, 27 y el Capítulo II, del Título II, que se denomina “Del Congreso y Consejo Nacional”, 31, 32, 33, 34, primer párrafo, y el Capítulo III del Título II, que se denomina “De los Organismos de Integración y Representación”, el primer párrafo del artículo 41, 43, primer párrafo; 45, primer párrafo y las fracciones II y XVI; 46, 55 y 58; se ADICIONAN las fracciones XV, XVI y XVII al artículo 5o., fracciones VII, VIII y IX al artículo 8o., las fracciones XII y XIII al artículo 10, la fracción XIV al artículo 11, un párrafo tercero al artículo 13, las fracciones XVIII, XIX, XX y XXI, recorriendo el contenido de las fracciones XVIII a la XXII al artículo 14 y se adiciona un párrafo al artículo 31; y se DEROGAN las fracciones V, VI, VIII, X, XII, XIII y XIV del artículo 5o., las fracciones VII y XV del
 
 ### artículo 14
-, el artículo 17, los artículos 28, 29 y 30, el artículo 35, el Capítulo IV del Título II, denominado “Del Registro”, con los artículos 36, 37, 38, 39 y 40, las fracciones I, II y III del artículo 41, la fracción VIII del artículo 44, la fracción XV del artículo 45 y el artículo 57, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía, para quedar como sigue: ……… Transitorios PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación; y quedarán derogadas todas las disposiciones normativas que lo contravengan.
-SEGUNDO. La integración del Consejo Consultivo se tendrá que realizar en un plazo no mayor de doce meses posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación.
-TERCERO. La Secretaría deberá expedir el Acuerdo a que se refiere esta Ley en un plazo no mayor a ciento ochenta días naturales, posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación.
-CUARTO. En tanto la Secretaría no emita el Acuerdo a que se refiere esta Ley, el Instituto se regirá, en todo aquello que no la contravenga, de acuerdo con las disposiciones aplicables al momento de entrar en vigor este decreto.
+, el artículo 17, los artículos 28, 29 y 30, el artículo 35, el Capítulo IV del Título II, denominado “Del Registro”, con los artículos 36, 37, 38, 39 y 40, las fracciones I, II y III del artículo 41, la fracción VIII del artículo 44, la fracción XV del artículo 45 y el artículo 57, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía, para quedar como sigue: ………
+
+## Transitorios
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación; y quedarán derogadas todas las disposiciones normativas que lo contravengan.
+**SEGUNDO.** La integración del Consejo Consultivo se tendrá que realizar en un plazo no mayor de doce meses posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación.
+**TERCERO.** La Secretaría deberá expedir el Acuerdo a que se refiere esta Ley en un plazo no mayor a ciento ochenta días naturales, posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación.
+**CUARTO.** En tanto la Secretaría no emita el Acuerdo a que se refiere esta Ley, el Instituto se regirá, en todo aquello que no la contravenga, de acuerdo con las disposiciones aplicables al momento de entrar en vigor este decreto.
 México, D.F., a 30 de abril de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Magdalena del Socorro Nuñez Monreal, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA DECRETO por el que se reforman la denominación y diversas disposiciones de la Ley de la Economía Social y Solidaria, reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, y se adicionan las fracciones XIV y XV al artículo 32 y se deroga la fracción X del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
-Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015 Artículo Primero. Se reforman la denominación de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo Referente al Sector Social de la Economía, así como los artículos 1o., primer párrafo; 3o.; 5o., fracciones III y XVII; 12, último párrafo; 13; 14, fracciones I, XIII y XXII; 16, fracción II; 18, fracción III; 19, primer párrafo; 22 y 55 de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo Referente al Sector Social de la Economía, para quedar como sigue: ……….
-Transitorios Primero. El presente Decreto entrará en vigor el primero de enero del año dos mil dieciséis, sin perjuicio de lo señalado en las siguientes disposiciones transitorias.
-Segundo. El Ejecutivo Federal, a más tardar a los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
-Tercero. El Acuerdo de organización y funcionamiento del Instituto Nacional de la Economía Social publicado el 22 de julio de 2013 en el Diario Oficial de la Federación, continuará aplicándose en lo que no se oponga a este Decreto, hasta que la Secretaría de Desarrollo Social emita el nuevo Acuerdo. En tanto ello sucede, dicha Secretaría resolverá respecto de aquello que no se encuentre previsto.
-Cuarto. Los oficiales mayores de la secretarías de Desarrollo Social y de Economía, con la participación que corresponda al Instituto Nacional de la Economía Social y el apoyo de la Secretaría de Hacienda y Crédito Público, realizarán todas las acciones administrativas para dar cumplimiento a lo establecido en el presente Decreto, mismas que deberán estar concluidas a más tardar en el plazo a que se refiere el transitorio Segundo de este Decreto.
-Quinto. Los derechos laborales de los trabajadores del Instituto Nacional de la Economía Social no se verán afectados con motivo de la entrada en vigor de este Decreto.
+DECRETO por el que se reforman la denominación y diversas disposiciones de la Ley de la Economía Social y Solidaria, reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, y se adicionan las fracciones XIV y XV al artículo 32 y se deroga la fracción X del artículo 34 de la Ley Orgánica de la Administración Pública Federal.
+Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015
+
+### Artículo Primero
+Se reforman la denominación de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo Referente al Sector Social de la Economía, así como los artículos 1o., primer párrafo; 3o.; 5o., fracciones III y XVII; 12, último párrafo; 13; 14, fracciones I, XIII y XXII; 16, fracción II; 18, fracción III; 19, primer párrafo; 22 y 55 de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo Referente al Sector Social de la Economía, para quedar como sigue: ……….
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el primero de enero del año dos mil dieciséis, sin perjuicio de lo señalado en las siguientes disposiciones transitorias.
+**Segundo.** El Ejecutivo Federal, a más tardar a los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
+**Tercero.** El Acuerdo de organización y funcionamiento del Instituto Nacional de la Economía Social publicado el 22 de julio de 2013 en el Diario Oficial de la Federación, continuará aplicándose en lo que no se oponga a este Decreto, hasta que la Secretaría de Desarrollo Social emita el nuevo Acuerdo. En tanto ello sucede, dicha Secretaría resolverá respecto de aquello que no se encuentre previsto.
+**Cuarto.** Los oficiales mayores de la secretarías de Desarrollo Social y de Economía, con la participación que corresponda al Instituto Nacional de la Economía Social y el apoyo de la Secretaría de Hacienda y Crédito Público, realizarán todas las acciones administrativas para dar cumplimiento a lo establecido en el presente Decreto, mismas que deberán estar concluidas a más tardar en el plazo a que se refiere el transitorio Segundo de este Decreto.
+**Quinto.** Los derechos laborales de los trabajadores del Instituto Nacional de la Economía Social no se verán afectados con motivo de la entrada en vigor de este Decreto.
 En caso de que la Secretaría de Desarrollo Social determine, con base en las prioridades de gasto público del ejercicio fiscal de que se trate, así como en las necesidades y funciones del Instituto Nacional de la Economía Social, que se deben realizar modificaciones a la estructura orgánica de éste, los derechos laborales de los trabajadores deberán ser respetados conforme a la Ley.
-Sexto. En el plazo referido en el transitorio segundo de este Decreto, la Secretaría de Desarrollo Social emitirá las reglas de operación, que contendrán al menos lo siguiente: a) Para la consolidación empresarial y el desarrollo de organismos del sector social de la economía que cumplan con los requisitos establecidos en las propias reglas de operación recibirán los apoyos del Instituto.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA b) Los beneficiarios de los programas que actualmente opera la Secretaría correspondientes y que se incorporen a los programas operados por el Instituto, serán sujetos de las reglas de operación del programa de fomento a la economía social y deberán cumplir con los criterios vigentes de elegibilidad y requisitos para ser beneficiarios de los programas operados por el Instituto. c) Los mecanismos de evaluación y transparencia sobre los resultados de los programas a cargo del Instituto y el padrón de beneficiarios a través de las disposiciones aplicables.
+**Sexto.** En el plazo referido en el transitorio segundo de este Decreto, la Secretaría de Desarrollo Social emitirá las reglas de operación, que contendrán al menos lo siguiente: a) Para la consolidación empresarial y el desarrollo de organismos del sector social de la economía que cumplan con los requisitos establecidos en las propias reglas de operación recibirán los apoyos del Instituto. b) Los beneficiarios de los programas que actualmente opera la Secretaría correspondientes y que se incorporen a los programas operados por el Instituto, serán sujetos de las reglas de operación del programa de fomento a la economía social y deberán cumplir con los criterios vigentes de elegibilidad y requisitos para ser beneficiarios de los programas operados por el Instituto. c) Los mecanismos de evaluación y transparencia sobre los resultados de los programas a cargo del Instituto y el padrón de beneficiarios a través de las disposiciones aplicables.
 Con la finalidad de verificar el cumplimiento de las políticas públicas de fomento y apoyo, el Consejo Nacional de Evaluación de la Política de Desarrollo Social realizará la evaluación de los programas a cargo de la Secretaría de Desarrollo Social, y los remitirá a la Cámara de Diputados, en los términos que establece la Ley de la Economía Social y Solidaria Reglamentaria del párrafo octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA DECRETO por el que se reforman diversas disposiciones de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía.
-Publicado en el Diario Oficial de la Federación el 12 de abril de 2019 Artículo Único.- Se reforma la fracción I del artículo 8o., y se adiciona una fracción XIV al artículo 10 de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía, para quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman diversas disposiciones de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía.
+Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
+
+### Artículo Único
+Se reforma la fracción I del artículo 8o., y se adiciona una fracción XIV al artículo 10 de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de febrero de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Lizeth Sánchez García, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.
-Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022 Artículo Décimo Quinto. Se reforma el artículo 25, fracciones I, II y III, así como los párrafos segundo y tercero de Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue: ……..
-Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.
+Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
+
+### Artículo Décimo Quinto
+Se reforma el artículo 25, fracciones I, II y III, así como los párrafos segundo y tercero de Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+**Tercero.** Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.Rúbrica.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA DECRETO por el que se reforman la denominación y diversas disposiciones de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía.
-Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2023 Artículo Único.- Se reforma la denominación y los artículos 5o., fracción III; y 11, fracción X; y se adiciona una fracción X al artículo 8o. de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía, para quedar como sigue: ……..
-Transitorios Primero.- El presente Decreto entrará en vigor tres días después de su publicación en el Diario Oficial de la Federación.
-Segundo.- Todas las referencias que hagan mención a la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos en lo referente al sector social de la economía contenidas en las leyes y normatividad vigente, se entenderán realizadas a la Ley de la Economía Social y Solidaria.
+DECRETO por el que se reforman la denominación y diversas disposiciones de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía.
+Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2023
+
+### Artículo Único
+Se reforma la denominación y los artículos 5o., fracción III; y 11, fracción X; y se adiciona una fracción X al artículo 8o. de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor tres días después de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Todas las referencias que hagan mención a la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos en lo referente al sector social de la economía contenidas en las leyes y normatividad vigente, se entenderán realizadas a la Ley de la Economía Social y Solidaria.
 Ciudad de México, a 14 de noviembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen.
 Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen.
 Verónica Noemí Camino Farjat, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA DECRETO por el que se expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana; de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas.
-Publicado en el Diario Oficial de la Federación el 16 de abril de 2025 Artículo Tercero.- Se reforman los artículos 14, fracciones XVII y XXI; 44, fracción I, y 45, fracciones I y XVII, y se adiciona una fracción XXI Bis, recorriéndose la subsecuente en su orden, al artículo 14, de la Ley de la Economía Social y Solidaria, para quedar como sigue: …….
-Transitorios Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Segundo.- Se abroga la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, publicada en el Diario Oficial de la Federación el 4 de enero de 2000 y sus modificaciones posteriores.
-Tercero.- Las disposiciones relativas a la Plataforma Digital de Contrataciones Públicas entrarán en vigor en la fecha de inicio de operación de cada uno de los módulos que la integran conforme a los avisos que dé a conocer la Secretaría Anticorrupción y Buen Gobierno en el Diario Oficial de la Federación.
+DECRETO por el que se expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana; de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas.
+Publicado en el Diario Oficial de la Federación el 16 de abril de 2025
+
+### Artículo Tercero
+Se reforman los artículos 14, fracciones XVII y XXI; 44, fracción I, y 45, fracciones I y XVII, y se adiciona una fracción XXI Bis, recorriéndose la subsecuente en su orden, al artículo 14, de la Ley de la Economía Social y Solidaria, para quedar como sigue: …….
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, publicada en el Diario Oficial de la Federación el 4 de enero de 2000 y sus modificaciones posteriores.
+**Tercero.-** Las disposiciones relativas a la Plataforma Digital de Contrataciones Públicas entrarán en vigor en la fecha de inicio de operación de cada uno de los módulos que la integran conforme a los avisos que dé a conocer la Secretaría Anticorrupción y Buen Gobierno en el Diario Oficial de la Federación.
 Los módulos de la Plataforma Digital de Contrataciones Públicas necesarios para realizar los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el
 
 ### artículo 81
@@ -485,7 +538,7 @@ En tanto entran en vigor las disposiciones a que se refiere el párrafo anterior
 En tanto entra en operación la Plataforma Digital de Contrataciones Públicas, la difusión y el comunicado de los acuerdos marco, la solicitud de cotización de la adjudicación directa con negociación, así como el anuncio del diálogo competitivo, se publicarán en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet.
 Cuarto.- El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público en un plazo no mayor de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, a fin de adecuarlo al contenido del mismo. Hasta en tanto eso suceda, se continuará aplicando el Reglamento vigente en lo que no se opongan al presente instrumento.
 Quinto.- Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Sexto.- Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+Sexto.- Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
 Séptimo.- Las infracciones que hayan sido cometidas con anterioridad a la entrada en vigor de la presente Ley, serán sancionadas de conformidad con la legislación vigente al momento de su comisión.
 Octavo.- A partir de la fecha de entrada en vigor del presente Decreto, todas las referencias en los demás ordenamientos jurídicos que se hagan a los contratos marco, deberán entenderse hechas a los acuerdos marco.
 Noveno.- Los lineamientos y disposiciones a que hace referencia la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a doce meses, contados a partir de la entrada en vigor del presente Decreto.
@@ -498,7 +551,7 @@ I. Cuatro meses a partir de la entrada en vigor del presente Decreto, para emiti
 II. Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la Secretaría de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo.
 Décimo Cuarto.- El sistema electrónico para que las Cooperativas formalicen sus Actas Constitutivas a que se refiere el artículo 13 de la Ley General de Sociedades Cooperativas, deberá ponerse en funcionamiento en un plazo máximo de seis meses contados a partir de la suscripción del instrumento referido en el transitorio anterior.
 Décimo Quinto.- Para efectos de lo previsto en el artículo 18, fracciones I y II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se mantienen con plenos efectos las disposiciones siguientes:
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA I. El Decreto por el que se establecen diversas medidas en materia de adquisiciones, uso de papel y de la certificación de manejo sustentable de bosques por la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007;
+I. El Decreto por el que se establecen diversas medidas en materia de adquisiciones, uso de papel y de la certificación de manejo sustentable de bosques por la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007;
 II. La Circular que contiene los Lineamientos generales relativos a los aspectos de sustentabilidad ambiental para las adquisiciones, arrendamientos y servicios del sector público, publicada en el Diario Oficial de la Federación el 31 de octubre de 2007;
 III. El Oficio UNAOPSPF/309/AD/0725/2007, de fecha 31 de octubre de 2007, emitido por la entonces Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la Secretaría de la Función Pública, disponible en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet, y IV. Los Lineamientos para las adquisiciones de papel para uso de oficina por parte de las dependencias y entidades de la Administración Pública Federal, publicados en el Diario Oficial de la Federación el 2 de octubre de 2009.
 Décimo Sexto.- Las dependencias y entidades tendrán un plazo de tres meses contado a partir de la entrada en vigor del presente Decreto, para revisar que la información de sus procedimientos de contratación y los datos relevantes de los contratos publicados en CompraNet que se publicaron a partir del año 2020, sea congruente con la que obra en sus expedientes de contratación con la finalidad de que la información que se migre a la Plataforma sea consistente. En caso de requerirse actualizaciones deberán solicitarse a la Dirección General de Innovación en Contrataciones Públicas de la Secretaría Anticorrupción y Buen Gobierno, fundando y motivando dicho requerimiento.

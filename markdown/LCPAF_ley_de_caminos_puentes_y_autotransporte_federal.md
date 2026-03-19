@@ -5,10 +5,10 @@
 
 ---
 
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL Nueva Ley publicada en el Diario Oficial de la Federación el 22 de diciembre de 1993 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 22 de diciembre de 1993 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL TITULO PRIMERO DEL REGIMEN ADMINISTRATIVO DE LOS CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL CAPITULO I DEL AMBITO DE APLICACION DE LA LEY
+TITULO PRIMERO DEL REGIMEN ADMINISTRATIVO DE LOS CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL CAPITULO I DEL AMBITO DE APLICACION DE LA LEY
 
 ### Artículo 1o
 . La presente Ley tiene por objeto regular la construcción, operación, explotación, conservación y mantenimiento de los caminos y puentes a que se refieren las fracciones I y V del Artículo siguiente, los cuales constituyen vías generales de comunicación; así como los servicios de autotransporte federal que en ellos operan, sus servicios auxiliares y el tránsito en dichas vías.
@@ -18,7 +18,7 @@ Artículo reformado DOF 25-10-2005
 .- Para los efectos de esta Ley, se entenderá por:
 I. Caminos o carreteras: a) Los que entronquen con algún camino de país extranjero. b) Los que comuniquen a dos o más estados de la Federación; y c) Los que en su totalidad o en su mayor parte sean construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios.
 II. Carta de Porte: Es el título legal del contrato entre el remitente y la empresa y por su contenido se decidirán las cuestiones que se susciten con motivo del transporte de las cosas; contendrá las menciones que exige el Código de la materia y surtirá los efectos que en él se determinen;
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL III. Derecho de vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación, cuya anchura y dimensiones fija la Secretaría, la cual no podrá ser inferior a 20 metros a cada lado del eje del camino. Tratándose de carreteras de dos cuerpos, se medirá a partir del eje de cada uno de ellos;
+III. Derecho de vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación, cuya anchura y dimensiones fija la Secretaría, la cual no podrá ser inferior a 20 metros a cada lado del eje del camino. Tratándose de carreteras de dos cuerpos, se medirá a partir del eje de cada uno de ellos;
 IV. Paradores: instalaciones y construcciones adyacentes al derecho de vía de una carretera federal en las que se presten servicios de alojamiento, alimentación, servicios sanitarios, servicios a vehículos y comunicaciones, a las que se tiene acceso desde la carretera;
 V. Puentes: a) Nacionales: Los construidos por la Federación; con fondos federales o mediante concesión o permiso federales por particulares, estados o municipios en los caminos federales, o vías generales de comunicación; o para salvar obstáculos topográficos sin conectar con caminos de un país vecino, y b) Internacionales: Los construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios sobre las corrientes o vías generales de comunicación que formen parte de las líneas divisorias internacionales.
 VI. Secretaría: La Secretaría de Infraestructura, Comunicaciones y Transportes;
@@ -30,7 +30,7 @@ XI. Servicio de paquetería y mensajería: El porte de paquetes debidamente envu
 XII. Terminales: Las instalaciones auxiliares al servicio del autotransporte de pasajeros, en donde se efectúa la salida y llegada de autobuses para el ascenso y descenso de viajeros, y tratándose de autotransporte de carga, en las que se efectúa la recepción, almacenamiento y despacho de mercancías, el acceso, estacionamiento y salida de los vehículos destinados a este servicio;
 XIII. Tránsito: La circulación que se realice en las vías generales de comunicación;
 Fracción adicionada DOF 25-10-2005 XIV. Transporte privado: Es el que efectúan las personas físicas o morales respecto de bienes propios o conexos de sus respectivas actividades, así como de personas vinculadas con los mismos fines, sin que por ello se genere un cobro;
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL Fracción recorrida DOF 25-10-2005. Reformada DOF 21-05-2013 XV. Vehículo: Medio de transporte motorizado, incluidos los medios o remolques que arrastren; y Fracción adicionada DOF 21-05-2013 XVI. Vías generales de comunicación: Los caminos y puentes tal como se definen en el presente artículo.
+Fracción recorrida DOF 25-10-2005. Reformada DOF 21-05-2013 XV. Vehículo: Medio de transporte motorizado, incluidos los medios o remolques que arrastren; y Fracción adicionada DOF 21-05-2013 XVI. Vías generales de comunicación: Los caminos y puentes tal como se definen en el presente artículo.
 Fracción recorrida DOF 25-10-2005, 21-05-2013
 
 ### Artículo 3o
@@ -49,7 +49,7 @@ III. Otorgar las concesiones y permisos a que se refiere esta Ley; vigilar su cu
 IV. Vigilar, verificar e inspeccionar que los caminos y puentes, así como los servicios de autotransporte y sus servicios auxiliares, cumplan con los aspectos técnicos y normativos correspondientes;
 Fracción reformada DOF 04-01-1999 V. Determinar las características y especificaciones técnicas de los caminos y puentes; así como actualizar y publicar cuando se requiera la clasificación carretera en el Diario Oficial de la Federación;
 Fracción reformada DOF 10-10-2016 VI. Expedir las normas oficiales mexicanas de caminos y puentes así como de vehículos de autotransporte y sus servicios auxiliares;
-VII. Derogada Fracción derogada DOF 04-01-1999 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL VIII. Establecer las bases generales de regulación tarifaria.
+VII. Derogada Fracción derogada DOF 04-01-1999 VIII. Establecer las bases generales de regulación tarifaria.
 Las motocicletas deberán pagar el 50 por ciento del peaje que paguen los automóviles, y Los permisionarios del servicio de autotransporte federal de pasajeros, con apego en la ley y en su normatividad interna, podrán ofrecer el 50 por ciento de descuento a estudiantes de educación media superior y superior, durante todo el año, y Párrafo adicionado DOF 15-11-2023 Fracción reformada DOF 18-05-2012 IX. Las demás que señalen otras disposiciones legales aplicables.
 CAPITULO III CONCESIONES Y PERMISOS
 
@@ -65,7 +65,7 @@ Párrafo adicionado DOF 04-06-2014. Reformado DOF 25-06-2018
 . Bis.- Para el otorgamiento de los títulos de concesión o la resolución de las prórrogas a que se refiere la presente Ley, la Secretaría deberá tramitar ante la Secretaría de Hacienda y Crédito Público, en términos del Reglamento de esta Ley, lo siguiente:
 I. La opinión favorable sobre la rentabilidad económica del proyecto respectivo.
 Se entenderá por rentabilidad económica, el resultado de comparar los ingresos monetarios susceptibles de ser generados por el uso, aprovechamiento o explotación de los bienes de dominio público concesionados, con respecto a los costos que se generarían por la realización del proyecto que se pretende concesionar, durante el horizonte temporal de evaluación.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL Para efectos de esta fracción, la Secretaría deberá remitir a la Secretaría de Hacienda y Crédito Público la evaluación que llevó a cabo sobre la rentabilidad económica del proyecto, así como la documentación que utilizó para realizar dicha evaluación, a fin de que esta última dependencia en un plazo no mayor a treinta días naturales, contado a partir de la fecha en que recibió la evaluación y documentación a que se refiere este párrafo, emita su opinión al respecto. En caso de que la Secretaría de Hacienda y Crédito Público no emita esta opinión en el plazo establecido, se entenderá emitida en sentido afirmativo.
+Para efectos de esta fracción, la Secretaría deberá remitir a la Secretaría de Hacienda y Crédito Público la evaluación que llevó a cabo sobre la rentabilidad económica del proyecto, así como la documentación que utilizó para realizar dicha evaluación, a fin de que esta última dependencia en un plazo no mayor a treinta días naturales, contado a partir de la fecha en que recibió la evaluación y documentación a que se refiere este párrafo, emita su opinión al respecto. En caso de que la Secretaría de Hacienda y Crédito Público no emita esta opinión en el plazo establecido, se entenderá emitida en sentido afirmativo.
 En todo caso, los recursos que se destinen para liberar el derecho de vía, se considerarán dentro de los costos totales del proyecto;
 II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y III. La determinación de las contraprestaciones que el concesionario deba cubrir al Gobierno Federal, en términos de las disposiciones jurídicas aplicables. Para efectos de esta fracción, la Secretaría deberá presentar a la Secretaría de Hacienda y Crédito Público la propuesta de dichas contraprestaciones.
 Artículo adicionado DOF 08-06-2016
@@ -78,7 +78,7 @@ II. La convocatoria se publicará simultáneamente en el Diario Oficial de la Fe
 III. Las bases del concurso incluirán como mínimo las características técnicas de la construcción de la vía o el proyecto técnico, el plazo de la concesión, los requisitos de calidad de la construcción y operación; los criterios para su otorgamiento serán principalmente los precios y tarifas para el usuario, el proyecto técnico en su caso, así como las contraprestaciones ofrecidas por el otorgamiento de la concesión.
 IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases que expida la Secretaría;
 V. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien y homologuen, se informará a todos los interesados de aquéllas que se desechen, y las causas principales que motivaren tal determinación;
-VI. La Secretaría, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes. La proposición ganadora estará a disposición de los participantes durante 10 días hábiles a partir de que se haya dado a conocer el fallo, para que manifiesten lo que a su derecho convenga; y LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL VII. No se otorgará la concesión cuando ninguna de las proposiciones presentadas cumplan con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
+VI. La Secretaría, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes. La proposición ganadora estará a disposición de los participantes durante 10 días hábiles a partir de que se haya dado a conocer el fallo, para que manifiesten lo que a su derecho convenga; y VII. No se otorgará la concesión cuando ninguna de las proposiciones presentadas cumplan con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
 
 ### Artículo 8o
 .- Se requiere permiso otorgado por la Secretaría para:
@@ -100,7 +100,6 @@ Los permisos se otorgarán por tiempo indefinido, excepto los que se otorguen pa
 ### Artículo 9o
 .- Los permisos a que se refiere esta Ley se otorgarán a mexicanos o sociedades constituidas conforme a las leyes mexicanas, en los términos que establezcan los reglamentos respectivos.
 La resolución correspondiente deberá emitirse en un plazo que no exceda de 30 días naturales, contado a partir de aquél en que se hubiere presentado la solicitud debidamente requisitada, salvo que por la complejidad de la resolución sea necesario un plazo mayor, que no podrá exceder de 45 días naturales. En los casos que señale el reglamento, si transcurrido dicho plazo no se ha emitido la resolución respectiva, se entenderá como favorable.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
 ### Artículo 10
 .- Las concesiones y permisos a que se refiere esta Ley se ajustarán a las disposiciones en materia de competencia económica.
@@ -134,7 +133,7 @@ VIII. Las contraprestaciones que deban cubrirse al gobierno Federal, mismas que 
 I. Vencimiento del plazo establecido en el título o de la prórroga que se hubiera otorgado;
 II. Renuncia del titular;
 III. Revocación;
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL IV. Rescate;
+IV. Rescate;
 V. Desaparición del objeto o de la finalidad de la concesión;
 VI. Liquidación;
 VII. Quiebra, para lo cual se estará a lo dispuesto en la Ley de la materia; y VIII. Las causas previstas en el título respectivo.
@@ -153,7 +152,7 @@ Fracción recorrida DOF 04-06-2014 VII. No cubrir las indemnizaciones por daños
 Fracción recorrida DOF 04-06-2014 VIII. Cambiar de nacionalidad el concesionario o permisionario;
 Fracción recorrida DOF 04-06-2014 IX. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, a algún gobierno o estado extranjero o admitir a éstos como socios de las empresas concesionarias o permisionarias;
 Fracción recorrida DOF 04-06-2014 X. Ceder o transferir las concesiones, permisos o los derechos en ellos conferidos, sin autorización de la Secretaría;
-Fracción recorrida DOF 04-06-2014 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL XI. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos y puentes o servicios sin autorización de la Secretaría;
+Fracción recorrida DOF 04-06-2014 XI. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos y puentes o servicios sin autorización de la Secretaría;
 Fracción recorrida DOF 04-06-2014 XII. Prestar servicios distintos a los señalados en el permiso respectivo;
 Fracción recorrida DOF 04-06-2014 XIII. No otorgar o no mantener en vigor la garantía de daños contra terceros;
 Fracción recorrida DOF 04-06-2014 XIV. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en esta Ley o en sus reglamentos, y Fracción recorrida DOF 04-06-2014 XV. Las demás previstas en la concesión o el permiso respectivo.
@@ -173,7 +172,7 @@ En los supuestos a que se refieren este artículo y el anterior en los que se fi
 ### Artículo 21
 .- Cuando un permisionario sujeto a regulación tarifaria considere que no se cumplen las condiciones señaladas en este capítulo, podrá solicitar opinión de la Comisión Federal de Competencia.
 Si dicha Comisión opina que las condiciones de competencia hacen improcedente en todo o en parte la regulación, se deberán hacer las modificaciones o supresiones que procedan.
-TITULO SEGUNDO DE LOS CAMINOS Y PUENTES CAPITULO UNICO DE LA CONSTRUCCION, CONSERVACION Y EXPLOTACION DE LOS CAMINOS Y PUENTES LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
+TITULO SEGUNDO DE LOS CAMINOS Y PUENTES CAPITULO UNICO DE LA CONSTRUCCION, CONSERVACION Y EXPLOTACION DE LOS CAMINOS Y PUENTES
 
 ### Artículo 22
 .- Es de utilidad pública la construcción, conservación y mantenimiento de los caminos y puentes. La Secretaría por sí, o a petición de los interesados, efectuará la compraventa o promoverá la expropiación de los terrenos, construcciones y bancos de material necesarios para tal fin. La compraventa o expropiación se llevará a cabo conforme a la legislación aplicable.
@@ -201,7 +200,7 @@ Asimismo, la Secretaría podrá convenir con los estados y municipios la conserv
 
 ### Artículo 26
 .- Los accesos que se construyan dentro del derecho de vía se considerarán auxiliares a los caminos federales.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL En los terrenos adyacentes a las vías generales de comunicación materia de esta Ley, hasta en una distancia de 100 metros del límite del derecho de vía, no podrán establecerse trabajos de explotación de canteras o cualquier tipo de obras que requieran el empleo de explosivos o de gases nocivos.
+En los terrenos adyacentes a las vías generales de comunicación materia de esta Ley, hasta en una distancia de 100 metros del límite del derecho de vía, no podrán establecerse trabajos de explotación de canteras o cualquier tipo de obras que requieran el empleo de explosivos o de gases nocivos.
 
 ### Artículo 27
 .- Por razones de seguridad, la Secretaría podrá exigir a los propietarios de los predios colindantes de los caminos que los cerquen o delimiten, según se requiera, respecto del derecho de vía.
@@ -224,7 +223,7 @@ En todo caso el Gobierno Federal llevará a cabo directamente las negociaciones 
 
 ### Artículo 32
 .- No podrán abrirse al uso público los caminos y puentes que se construyan, sin que previamente la Secretaría constate que su construcción se ajustó al proyecto y especificaciones aprobadas y que cuenta con los señalamientos establecidos en la norma oficial mexicana correspondiente. Al efecto, el concesionario deberá dar aviso a la Secretaría de la terminación de la obra y ésta dispondrá de un plazo de 15 días naturales para resolver lo conducente; si transcurrido este plazo no se ha emitido la resolución respectiva, se entenderá como favorable.
-TITULO TERCERO DEL AUTOTRANSPORTE FEDERAL LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL CAPITULO I DISPOSICIONES GENERALES
+TITULO TERCERO DEL AUTOTRANSPORTE FEDERAL CAPITULO I DISPOSICIONES GENERALES
 
 ### Artículo 33
 .- Los servicios de autotransporte federal, serán los siguientes:
@@ -245,7 +244,7 @@ Párrafo reformado DOF 25-10-2005 Los permisionarios están obligados a vigilar 
 La Secretaría llevará un registro de las licencias que otorgue.
 Los conductores de vehículos que transitan en los caminos y puentes, deberán portar la licencia vigente que exijan las disposiciones jurídicas aplicables. Asimismo, se abstendrán de conducir en estado de ebriedad o bajo los efectos de drogas de abuso, hablar por teléfono celular o cualquier otro dispositivo electrónico o de comunicación, salvo que lo haga con tecnología de manos libres, leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, o rebasar los máximos de velocidad, establecidos por la Secretaría.
 Párrafo adicionado DOF 25-10-2005. Reformado DOF 01-12-2020 El reglamento respectivo establecerá las causas de suspensión o cancelación de las licencias federales, así como las disposiciones relativas al tránsito.
-Párrafo adicionado DOF 25-10-2005 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
+Párrafo adicionado DOF 25-10-2005
 
 ### Artículo 37
 .- Los permisionarios tendrán la obligación, de conformidad con la ley de la materia, de proporcionar a sus conductores capacitación y adiestramiento para lograr que la prestación de los servicios sea eficiente, segura y eficaz.
@@ -278,7 +277,6 @@ Estas empresas no podrán en ningún caso prestar directamente el servicio de au
 
 ### Artículo 45
 .- Tratándose de arrendamiento puro y financiero de vehículos destinados al servicio federal de autotransporte, se estará a las disposiciones legales de la materia.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
 ### Artículo 45
 Bis.- Toda Autoridad Federal cuando determine la remisión de vehículos para el servicio de depósito de guarda y custodia a locales permisionados por la Secretaría, deberán notificarlo al interesado o a su representante legal dentro de los 15 días naturales siguientes a su ejecución, entregando o poniendo a su disposición, según sea el caso, una copia certificada del acta correspondiente, para que ejerza su derecho de audiencia.
@@ -292,7 +290,7 @@ I. Personalmente, con el interesado o su representante legal, de conformidad con
 II. Por edictos, cuando se desconozca la identidad o domicilio del interesado, así como en los casos a que se refiere el inciso c) de la fracción anterior, de conformidad con las reglas siguientes: a) Los edictos se publicarán en el Diario Oficial de la Federación, en un diario de mayor circulación a nivel nacional y uno de mayor circulación en el lugar donde la resolución se haya expedido, por dos veces con intervalo de tres días, y b) Los edictos deberán contener un resumen de la resolución por notificar.
 Las notificaciones personales surtirán efectos el día en que hubieren sido practicadas y las efectuadas por edictos el día de la última publicación.
 Los plazos establecidos en esta Ley empezarán a correr el día siguiente a aquél en que haya surtido efectos la notificación respectiva.
-Artículo adicionado DOF 16-12-2013 CAPITULO II DEL AUTOTRANSPORTE DE PASAJEROS LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
+Artículo adicionado DOF 16-12-2013 CAPITULO II DEL AUTOTRANSPORTE DE PASAJEROS
 
 ### Artículo 46
 .- Atendiendo a su operación y al tipo de vehículos, el servicio de autotransporte de pasajeros se clasificará de conformidad con lo establecido en el reglamento respectivo.
@@ -317,7 +315,7 @@ Tratándose de objetos voluminosos o de gran peso, se requiere de permiso especi
 
 ### Artículo 51
 .- Las maniobras de carga y descarga y, en general, las que auxilien y complementen el servicio de autotransporte federal de carga, no requerirán autorización alguna para su prestación, por lo que los usuarios tendrán plena libertad para contratar estos servicios con terceros o utilizar su propio personal para realizarlo.
-TITULO CUARTO DE LOS SERVICIOS AUXILIARES AL AUTOTRANSPORTE FEDERAL CAPITULO I CLASIFICACION DE LOS SERVICIOS AUXILIARES LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
+TITULO CUARTO DE LOS SERVICIOS AUXILIARES AL AUTOTRANSPORTE FEDERAL CAPITULO I CLASIFICACION DE LOS SERVICIOS AUXILIARES
 
 ### Artículo 52
 .- Los permisos que en los términos de esta Ley otorgue la Secretaría para la prestación de servicios auxiliares al autotransporte federal, serán los siguientes:
@@ -343,7 +341,7 @@ CAPITULO IV ARRASTRE, SALVAMENTO Y DEPOSITO
 
 ### Artículo 55
 Bis.- Los vehículos respecto de los cuales el interesado o su representante legal no manifiesten lo que a su derecho convenga, causarán abandono a favor del Gobierno Federal transcurridos 90 días naturales, contados a partir de la notificación, que en su caso haya llevado a cabo la Autoridad Federal, al momento de retirarlos de la circulación.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL Artículo adicionado DOF 16-12-2013
+Artículo adicionado DOF 16-12-2013
 
 ### Artículo 55
 Bis 1.- La Autoridad Federal, notificará al interesado o a su representante legal los plazos previstos en el artículo anterior, para que en el plazo de 90 días naturales a partir de la notificación manifieste lo que a su derecho convenga, bajo el apercibimiento de que de no hacerlo, los bienes causarán abandono a favor del Gobierno Federal, en los términos de esta Ley.
@@ -370,7 +368,7 @@ TITULO QUINTO DEL AUTOTRANSPORTE INTERNACIONAL DE PASAJEROS, TURISMO Y CARGA
 .- El autotransporte internacional de pasajeros, turismo y carga es el que opera de un país extranjero al territorio nacional, o viceversa, y se ajustará a los términos y condiciones previstos en los tratados internacionales aplicables.
 
 ### Artículo 60
-.- Los vehículos nacionales y extranjeros destinados a la prestación de servicios de autotransporte internacional de pasajeros, turismo y carga a que se refiere el artículo anterior, deberán LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL cumplir con los requisitos de seguridad establecidos por esta Ley y sus reglamentos; asimismo, deberán contar con placas metálicas de identificación e instrumentos de seguridad. Los operadores de dichos vehículos deberán portar licencia de conducir vigente.
+.- Los vehículos nacionales y extranjeros destinados a la prestación de servicios de autotransporte internacional de pasajeros, turismo y carga a que se refiere el artículo anterior, deberán cumplir con los requisitos de seguridad establecidos por esta Ley y sus reglamentos; asimismo, deberán contar con placas metálicas de identificación e instrumentos de seguridad. Los operadores de dichos vehículos deberán portar licencia de conducir vigente.
 
 ### Artículo 61
 .- Los semirremolques de procedencia extranjera que se internen al país en forma temporal, podrán circular en los caminos de jurisdicción federal, hasta por el período autorizado en los términos de la ley de la materia, siempre y cuando acrediten su legal estancia. En el arrastre deberán utilizar un vehículo autorizado para la prestación del servicio de autotransporte de carga.
@@ -390,7 +388,7 @@ Bis. Todos los vehículos que transiten en vías, caminos y puentes federales de
 La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, establecerá las reglas para la operación del seguro a que se refiere el primer párrafo, procurando la accesibilidad económica y la disponibilidad para su contratación. Para tal efecto se establecerá un monto mínimo de cobertura de la póliza de seguro.
 Por ningún motivo se podrá obligar a los propietarios de vehículos a que contraten el seguro con alguna institución de seguros en específico.
 La contratación de este seguro no exime del cumplimiento de la responsabilidad de concesionarios de caminos y puentes; y de los que cuenten con permiso o autorización para prestar servicios de autotransporte de pasajeros, turismo o de carga que se refieren en esta Ley.
-Artículo adicionado DOF 21-05-2013 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
+Artículo adicionado DOF 21-05-2013
 
 ### Artículo 63
 Ter. Los propietarios de vehículos que cuenten con un seguro del ramo de automóviles con mayores coberturas al seguro a que se refiere el artículo anterior no podrá impedirse su circulación ni se impondrá la multa a que se refiere la fracción II del artículo 74 Bis de esta Ley.
@@ -416,7 +414,7 @@ IV. Falsas declaraciones o instrucciones del cargador, del consignatario o desti
 
 ### Artículo 68
 .- Es obligación de los permisionarios de autotransporte de carga garantizar, en los términos que autorice la Secretaría, los daños que puedan ocasionarse a terceros en sus bienes y personas, vías generales de comunicación y cualquier otro daño que pudiera generarse por el vehículo o por la carga en caso de accidente, según lo establezca el reglamento respectivo.
-Tratándose de materiales, residuos, remanentes y desechos peligrosos, el seguro deberá amparar la carga desde el momento en que salga de las instalaciones del expedidor o generador, hasta que se reciba por el consignatario o destinatario en las instalaciones señaladas como destino final, incluyendo LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL los riesgos que la carga o descarga resulten dentro o fuera de sus instalaciones. Salvo pacto en contrario, su carga y descarga quedarán a cargo de los expedidores y consignatarios, por lo que éstos deberán garantizar en los términos de este artículo los daños que pudieran ocasionarse en estas maniobras, así como el daño ocasionado por derrame de estos productos en caso de accidente.
+Tratándose de materiales, residuos, remanentes y desechos peligrosos, el seguro deberá amparar la carga desde el momento en que salga de las instalaciones del expedidor o generador, hasta que se reciba por el consignatario o destinatario en las instalaciones señaladas como destino final, incluyendo los riesgos que la carga o descarga resulten dentro o fuera de sus instalaciones. Salvo pacto en contrario, su carga y descarga quedarán a cargo de los expedidores y consignatarios, por lo que éstos deberán garantizar en los términos de este artículo los daños que pudieran ocasionarse en estas maniobras, así como el daño ocasionado por derrame de estos productos en caso de accidente.
 
 ### Artículo 69
 .- El permisionario que participe en la operación de servicios de transporte multimodal internacional, sólo será responsable ante el usuario del servicio en las condiciones y términos del contrato de transporte establecido en la carta de porte y únicamente por el segmento del transporte terrestre en que participe.
@@ -436,7 +434,7 @@ Artículo adicionado DOF 25-10-2005
 ### Artículo 71
 . La Secretaría podrá realizar visitas de inspección, a través de servidores públicos comisionados que exhiban identificación vigente y orden de visita, en la que se especifiquen las disposiciones cuyo cumplimiento habrá de inspeccionarse. Las visitas de inspección se practicarán en días y horas hábiles, sin embargo, podrán practicarse inspecciones en días y horas inhábiles en aquellos casos en que el tipo y la naturaleza de los servicios así lo requieran, en cuyo caso se deberán habilitar en la orden de visita.
 Los concesionarios y permisionarios, están obligados a proporcionar a los servidores públicos comisionados por la Secretaría todos los datos o informes que les sean requeridos y permitir el acceso a sus instalaciones para cumplir su cometido conforme a la orden de visita emitida por la Secretaría. La información que proporcionen tendrá carácter confidencial.
-Artículo reformado DOF 25-10-2005 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
+Artículo reformado DOF 25-10-2005
 
 ### Artículo 72
 . De toda visita de inspección se levantará acta debidamente circunstanciada, en presencia de dos testigos propuestos por la persona que haya atendido la visita o por el servidor público comisionado si aquélla se hubiere negado a designarlos.
@@ -460,7 +458,7 @@ TITULO OCTAVO DE LAS SANCIONES
 . Salvo lo dispuesto en el Artículo 74 Bis de la presente Ley, las infracciones a lo dispuesto en la misma, serán sancionadas por la Secretaría de acuerdo con lo siguiente:
 I. Aplicar tarifas superiores a las que en su caso se autoricen, con multa de cien a quinientos salarios mínimos;
 II. Destruir, inutilizar, apagar, quitar o cambiar una señal establecida para la seguridad de las vías generales de comunicación terrestres o medios de autotransporte que en ellas operan, con multa de cien a quinientos salarios mínimos;
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL III. Colocar intencionalmente señales con ánimo de ocasionar daño a vehículos en circulación, con multa de cien a quinientos salarios mínimos;
+III. Colocar intencionalmente señales con ánimo de ocasionar daño a vehículos en circulación, con multa de cien a quinientos salarios mínimos;
 IV. Incumplir con cualquiera de las disposiciones en materia de autotransporte federal, sus servicios auxiliares y transporte privado, con multa de hasta quinientos días de salario mínimo, y V. Cualquier otra infracción a lo previsto en la presente Ley o a los ordenamientos que de ella se deriven, con multa de hasta mil días de salario mínimo.
 En caso de reincidencia, la Secretaría podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
 Para los efectos del presente Capítulo, se entiende por salario mínimo, el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
@@ -474,7 +472,7 @@ El propietario del vehículo tendrá 45 días naturales para la contratación de
 Fracción adicionada DOF 21-05-2013 III. Cualquier otra infracción a las disposiciones de esta Ley y los ordenamientos que de ella se deriven para la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación, con multa de hasta quinientos días de salario mínimo.
 Fracción recorrida DOF 21-05-2013 En caso de reincidencia, la Secretaría de Seguridad Pública podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
 Los ingresos derivados por concepto de multas a que se refiere la fracción I del presente Artículo, se destinarán a la Secretaría de Seguridad Pública para cubrir gastos de operación e inversión en programas vinculados a la propia seguridad pública y de manera específica se destinará el 20% del total a prevención del delito, en tanto que los derivados de la fracción II se destinarán conforme a lo establecido en el último párrafo del Artículo 74 de esta Ley.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL La Secretaría y la Secretaría de Seguridad Pública establecerán mecanismos para el intercambio de información en materia de infracciones.
+La Secretaría y la Secretaría de Seguridad Pública establecerán mecanismos para el intercambio de información en materia de infracciones.
 Artículo adicionado DOF 25-10-2005
 
 ### Artículo 74
@@ -497,7 +495,7 @@ Artículo reformado DOF 25-10-2005
 
 ### Artículo 77
 .- Al imponer las sanciones a que se refiere este Título, la Secretaría deberá considerar:
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL I. La gravedad de la infracción;
+I. La gravedad de la infracción;
 II. Los daños causados; y III. La reincidencia.
 
 ### Artículo 78
@@ -514,136 +512,259 @@ Artículo adicionado DOF 25-10-2005
 
 ### Artículo 80
 . Contra las resoluciones dictadas con fundamento en esta Ley y sus reglamentos, se podrá interponer recurso de revisión conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
-Artículo reformado DOF 25-10-2005 TRANSITORIOS Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-Artículo Segundo.- Se abroga la Ley sobre Construcción de Caminos en Cooperación con los Estados, publicada en el Diario Oficial de la Federación el 8 de mayo de 1934.
-Artículo Tercero.- Se derogan los artículos 1o., fracciones VI y VII; 8o., párrafos segundo a cuarto; 9o., fracciones VII y VIII; 21 a 28; 39; 85; 87; 88; 90; 91; 97; 98; 100 a 105; 109; 128; 146 a 168 y 537 a 540 de la Ley de Vías Generales de Comunicación; y las demás disposiciones que se opongan a la presente Ley.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL A partir de la entrada en vigor de la presente Ley, se dejan sin efecto únicamente por lo que se refiere a las materias reguladas en la misma, los artículos 3o. a 5o.; 10; 12 a 20; 29 a 38; 40 a 84; 86; 89; 92 a 96; 99; 110; 116 a 124; 126; 127; 523 a 532; 535 y 541 de la Ley de Vías Generales de Comunicación.
-Artículo Cuarto.- Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
-Artículo Quinto.- Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos, salvo en lo que se oponga a la presente Ley.
-Artículo Sexto.- Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la presente Ley, continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su vigencia.
+Artículo reformado DOF 25-10-2005
+
+## TRANSITORIOS
+
+
+### Artículo Primero
+La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### Artículo Segundo
+Se abroga la Ley sobre Construcción de Caminos en Cooperación con los Estados, publicada en el Diario Oficial de la Federación el 8 de mayo de 1934.
+
+### Artículo Tercero
+Se derogan los artículos 1o., fracciones VI y VII; 8o., párrafos segundo a cuarto; 9o., fracciones VII y VIII; 21 a 28; 39; 85; 87; 88; 90; 91; 97; 98; 100 a 105; 109; 128; 146 a 168 y 537 a 540 de la Ley de Vías Generales de Comunicación; y las demás disposiciones que se opongan a la presente Ley.
+A partir de la entrada en vigor de la presente Ley, se dejan sin efecto únicamente por lo que se refiere a las materias reguladas en la misma, los artículos 3o. a 5o.; 10; 12 a 20; 29 a 38; 40 a 84; 86; 89; 92 a 96; 99; 110; 116 a 124; 126; 127; 523 a 532; 535 y 541 de la Ley de Vías Generales de Comunicación.
+
+### Artículo Cuarto
+Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
+
+### Artículo Quinto
+Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos, salvo en lo que se oponga a la presente Ley.
+
+### Artículo Sexto
+Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la presente Ley, continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su vigencia.
 Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la Ley de Vías Generales de Comunicación.
-Artículo Séptimo.- Las garantías a que se refieren los artículos 62 y primer párrafo del 68, entrarán en vigor 12 meses después de su publicación en el Diario Oficial de la Federación.
+
+### Artículo Séptimo
+Las garantías a que se refieren los artículos 62 y primer párrafo del 68, entrarán en vigor 12 meses después de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 13 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen.
 Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Jorge Rodríguez León, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley de la Policía Federal Preventiva y se reforman diversas disposiciones de otros ordenamientos legales.
-Publicado en el Diario Oficial de la Federación el 4 de enero de 1999 ARTÍCULO QUINTO.- SE REFORMA LA FRACCIÓN IV Y SE DEROGA LA FRACCIÓN VII DEL ARTICULO 5 DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, PARA QUEDAR COMO SIGUE: ..........
-TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
-SEGUNDO.- La organización de la Policía Federal Preventiva durará un máximo de sesenta días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las policías administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, reformados por este Decreto.
-TERCERO.- Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de recursos humanos, materiales y financieros de las policías administrativas cuya competencia corresponderá a la Policía Federal Preventiva, sin detrimento de la eficacia de los servicios.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se expide la Ley de la Policía Federal Preventiva y se reforman diversas disposiciones de otros ordenamientos legales.
+Publicado en el Diario Oficial de la Federación el 4 de enero de 1999
+
+### ARTÍCULO QUINTO
+SE REFORMA LA FRACCIÓN IV Y SE DEROGA LA FRACCIÓN VII DEL ARTICULO 5 DE LA  , PARA QUEDAR COMO SIGUE: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
+**SEGUNDO.-** La organización de la Policía Federal Preventiva durará un máximo de sesenta días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las policías administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, reformados por este Decreto.
+**TERCERO.-** Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de recursos humanos, materiales y financieros de las policías administrativas cuya competencia corresponderá a la Policía Federal Preventiva, sin detrimento de la eficacia de los servicios.
 Para ese solo efecto y en los términos de los acuerdos correspondientes, que deberán publicarse en el Diario Oficial de la Federación, las policías administrativas existentes hasta la fecha de entrada en vigor de esta Ley, una, varias o todas, según sea el caso, seguirán cumpliendo con sus atribuciones en los términos de los ordenamientos legales y reglamentarios respectivos, hasta por un plazo no mayor de veinticuatro meses contados a partir de la entrada en vigor del presente Decreto, en el entendido de que la coordinación entre ellas deberá quedar a cargo del Comisionado de la Policía Federal Preventiva, a partir de su nombramiento.
 Los miembros de las policías administrativas antes citadas exclusivamente podrán formar parte de la Policía Federal Preventiva si cumplen con los requisitos que establece la Ley para su ingreso o permanencia.
-CUARTO.- Los derechos de los miembros de las policías administrativas de Migración, Fiscal Federal y Federal de Caminos, serán respetados conforme a las disposiciones legales aplicables.
-QUINTO.- Las menciones a la Policía de Migración y a la Policía Federal de Caminos que aparezcan en otros ordenamientos, se entenderán referidas a la Policía Federal Preventiva.
+**CUARTO.-** Los derechos de los miembros de las policías administrativas de Migración, Fiscal Federal y Federal de Caminos, serán respetados conforme a las disposiciones legales aplicables.
+**QUINTO.-** Las menciones a la Policía de Migración y a la Policía Federal de Caminos que aparezcan en otros ordenamientos, se entenderán referidas a la Policía Federal Preventiva.
 Las menciones a la Policía Fiscal Federal que aparezcan en cualquier ordenamiento legal, se entenderán referidas a la Unidad de Apoyo para la Inspección Fiscal y Aduanera.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL SEXTO.- El Ejecutivo Federal publicará en el Diario Oficial de la Federación el Reglamento Interior de la Policía Federal Preventiva, dentro del año siguiente a la entrada en vigor del presente Decreto.
-SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+**SEXTO.-** El Ejecutivo Federal publicará en el Diario Oficial de la Federación el Reglamento Interior de la Policía Federal Preventiva, dentro del año siguiente a la entrada en vigor del presente Decreto.
+**SÉPTIMO.-** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 México, D.F., a 13 de diciembre de 1998.- Sen. José Ramírez Gamero, Presidente.- Dip. Luis Patiño Pozas, Presidente.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Dip. Martín Contreras Rivera, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforman y adicionan diversas disposiciones del Código Fiscal de la Federación, de la Ley de Vías Generales de Comunicación, de la Ley de Caminos, Puentes y Autotransporte Federal y de la Ley de la Policía Federal Preventiva.
-Publicado en el Diario Oficial de la Federación el 25 de octubre de 2005 Artículo Tercero. Se reforman los Artículos 1o.; 5o., primer párrafo; 36, primero y segundo párrafos; 70; 71; 72; 73, fracciones III y VII y segundo párrafo; 74; 76; 79, primer párrafo y 80, y se adicionan la fracción XIII al Artículo 2o. recorriéndose en su orden las fracciones XIII y XIV; los párrafos quinto y sexto al Artículo 36 y los Artículos 70 Bis; 74 Bis; 74 Ter y 79 Bis, a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ..........
-TRANSITORIOS PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. La organización de la Secretaría de Seguridad Pública, para ejercer las atribuciones que le confiere este Decreto, durará un máximo de 180 días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las autoridades administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal y demás ordenamientos reformados por este Decreto.
-TERCERO. El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adiciones correspondientes a los Reglamentos Interiores y demás disposiciones reglamentarias; así como, tabuladores de multas por tipo de infracción en lo específico a efecto de garantizar certeza jurídica y evitar discrecionalidad en su aplicación.
-CUARTO. Los Concesionarios y Permisionarios de los servicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier omisión o irregularidad respecto del cumplimiento de la normatividad respectiva, excepto en lo que se refiere a materiales y residuos peligrosos, pesos, dimensiones, capacidad, seguros y licencias relacionadas con el Autotransporte Federal.
-QUINTO. Las disposiciones reglamentarias en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos.
-SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las dependencias competentes y de conformidad con el programa establecido, instrumentará lo necesario para el otorgamiento de estímulos fiscales para la sustitución de unidades del autotransporte federal en mal estado.
-SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
-OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL México, D.F., a 8 de septiembre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip.
+DECRETO por el que se reforman y adicionan diversas disposiciones del Código Fiscal de la Federación, de la Ley de Vías Generales de Comunicación, de la Ley de Caminos, Puentes y Autotransporte Federal y de la Ley de la Policía Federal Preventiva.
+Publicado en el Diario Oficial de la Federación el 25 de octubre de 2005
+
+### Artículo Tercero
+Se reforman los Artículos 1o.; 5o., primer párrafo; 36, primero y segundo párrafos; 70; 71; 72; 73, fracciones III y VII y segundo párrafo; 74; 76; 79, primer párrafo y 80, y se adicionan la fracción XIII al Artículo 2o. recorriéndose en su orden las fracciones XIII y XIV; los párrafos quinto y sexto al Artículo 36 y los Artículos 70 Bis; 74 Bis; 74 Ter y 79 Bis, a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ..........
+
+## TRANSITORIOS
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** La organización de la Secretaría de Seguridad Pública, para ejercer las atribuciones que le confiere este Decreto, durará un máximo de 180 días contados a partir de la entrada en vigor del presente Decreto, lapso en el que no ejercerá las atribuciones conferidas por este Decreto, las cuales corresponderán a las autoridades administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal y demás ordenamientos reformados por este Decreto.
+**TERCERO.** El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adiciones correspondientes a los Reglamentos Interiores y demás disposiciones reglamentarias; así como, tabuladores de multas por tipo de infracción en lo específico a efecto de garantizar certeza jurídica y evitar discrecionalidad en su aplicación.
+**CUARTO.** Los Concesionarios y Permisionarios de los servicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier omisión o irregularidad respecto del cumplimiento de la normatividad respectiva, excepto en lo que se refiere a materiales y residuos peligrosos, pesos, dimensiones, capacidad, seguros y licencias relacionadas con el Autotransporte Federal.
+**QUINTO.** Las disposiciones reglamentarias en vigor se continuarán aplicando, mientras se expiden los nuevos reglamentos.
+**SEXTO.** La Secretaría de Hacienda y Crédito Público en coordinación con las dependencias competentes y de conformidad con el programa establecido, instrumentará lo necesario para el otorgamiento de estímulos fiscales para la sustitución de unidades del autotransporte federal en mal estado.
+**SÉPTIMO.** Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
+**OCTAVO.** Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+México, D.F., a 8 de septiembre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip.
 Heliodoro Díaz Escárraga, Presidente.- Sen. Micaela Aguilar González, Secretario.- Dip. Marcos Morales Torres, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de octubre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforma el tercer párrafo del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 4 de noviembre de 2010 Único.- Se reforma el tercer párrafo del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……….
-Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
+DECRETO por el que se reforma el tercer párrafo del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 4 de noviembre de 2010
+**Único.-** Se reforma el tercer párrafo del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……….
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
 México, D. F., a 14 de octubre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip.
 Jorge Carlos Ramirez Marin, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Maria Guadalupe Garcia Almanza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de noviembre de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se adiciona un segundo párrafo a la fracción VIII del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 18 de mayo de 2012 Artículo Único.- Se adiciona un segundo párrafo a la fracción VIII del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……….
-TRANSITORIO Único.- El presente Decreto entrará en vigor a los 180 días naturales siguientes a su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se adiciona un segundo párrafo a la fracción VIII del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 18 de mayo de 2012
+
+### Artículo Único
+Se adiciona un segundo párrafo a la fracción VIII del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……….
+
+## TRANSITORIO
+
+**Único.-** El presente Decreto entrará en vigor a los 180 días naturales siguientes a su publicación en el Diario Oficial de la Federación.
 México, D. F., a 28 de marzo de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Gloria Romero León, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 21 de mayo de 2013 Artículo Único. Se reforma el artículo 74 Bis, primer párrafo; y se adiciona al artículo 2o., la fracción XV, pasando la actual fracción XV a ser XVI; se adicionan un artículo 63 Bis y 63 Ter; se adiciona al
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 21 de mayo de 2013
+
+### Artículo Único
+Se reforma el artículo 74 Bis, primer párrafo; y se adiciona al artículo 2o., la fracción XV, pasando la actual fracción XV a ser XVI; se adicionan un artículo 63 Bis y 63 Ter; se adiciona al
 
 ### artículo 74
 Bis, una fracción II, pasando la actual fracción II a ser fracción III de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……….
-Transitorios Primero. El presente Decreto entrará en vigor, a los ciento ochenta días siguientes, de que la Secretaría de Hacienda y Crédito Público, con opinión de la Comisión Nacional de Seguros y Fianzas, haya publicado en el Diario Oficial de la Federación las disposiciones administrativas que fijen los términos del contrato de seguro que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas, materia de las presentes reformas.
-Segundo. El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
-Tercero. El Ejecutivo Federal y la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor, a los ciento ochenta días siguientes, de que la Secretaría de Hacienda y Crédito Público, con opinión de la Comisión Nacional de Seguros y Fianzas, haya publicado en el Diario Oficial de la Federación las disposiciones administrativas que fijen los términos del contrato de seguro que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas, materia de las presentes reformas.
+**Segundo.** El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
+**Tercero.** El Ejecutivo Federal y la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
 México, D.F., a 4 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecisiete de mayo de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se adicionan los artículos 45 bis, 45 bis 1, 55 bis, 55 bis 1 y 55 bis 2 a la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2013 ARTÍCULO ÚNICO.- Se adicionan los artículos 45 Bis, 45 Bis 1, 55 Bis, 55 Bis 1 y 55 Bis 2 a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……….
-TRANSITORIOS PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO. Los permisionarios deberán informar a la Secretaría de Comunicaciones y Transportes, de conformidad al Reglamento de los Servicios de Arrastre, Arrastre y Salvamento y Depósito de Vehículos Auxiliares del Autotransporte Federal el listado de unidades que reciban, así como las que sean susceptibles de considerarse en abandono en favor del gobierno federal.
-TERCERO. La Secretaría de Comunicaciones y Transportes deberá automatizar los sistemas de control e información de los permisionarios del autotransporte federal en un plazo máximo de 18 meses, de acuerdo a la disponibilidad presupuestal.
-CUARTO. La Secretaría de Comunicaciones y Transportes emitirá los lineamientos que regularán lo establecido en el artículo 55 Bis 2, dentro de los 30 días naturales siguientes, en tanto se expide el Reglamento de los Servicios de Arrastre, Arrastre y Salvamento y Depósito de Vehículos Auxiliares del Autotransporte Federal, el cual buscará salvaguardar el interés de los usuarios y evitar abusos de los prestadores de servicios, en un plazo máximo de 18 meses.
-QUINTO. La Secretaría de Comunicaciones y Transportes gestionará ante la Secretaría de Hacienda y Crédito Público, con cargo al Presupuesto de Egresos de la Federación, los recursos necesarios para el adecuado desarrollo del Programa de Reordenamiento General del Autotransporte Federal.
-SEXTO. Los ingresos provenientes de la venta de vehículos que causaron abandono, con menos de cinco años en depósito de guarda y custodia en locales permisionados por la Secretaría de Comunicaciones y Transportes y transferidos al Servicio de Administración y Enajenación de Bienes, se destinarán de conformidad con el artículo 89 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, incluyendo los gastos realizados por la Dirección General de Autotransporte Federal en el marco del presente Decreto y los lineamientos que al afecto se emitan. En este supuesto, a los permisionarios se les cubrirán los adeudos generados con el treinta por ciento de los remanentes de los ingresos y el resto se destinará a la modernización del autotransporte federal de carga.
+DECRETO por el que se adicionan los artículos 45 bis, 45 bis 1, 55 bis, 55 bis 1 y 55 bis 2 a la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2013
+
+### ARTÍCULO ÚNICO
+Se adicionan los artículos 45 Bis, 45 Bis 1, 55 Bis, 55 Bis 1 y 55 Bis 2 a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……….
+
+## TRANSITORIOS
+
+**PRIMERO.** El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.** Los permisionarios deberán informar a la Secretaría de Comunicaciones y Transportes, de conformidad al Reglamento de los Servicios de Arrastre, Arrastre y Salvamento y Depósito de Vehículos Auxiliares del Autotransporte Federal el listado de unidades que reciban, así como las que sean susceptibles de considerarse en abandono en favor del gobierno federal.
+**TERCERO.** La Secretaría de Comunicaciones y Transportes deberá automatizar los sistemas de control e información de los permisionarios del autotransporte federal en un plazo máximo de 18 meses, de acuerdo a la disponibilidad presupuestal.
+**CUARTO.** La Secretaría de Comunicaciones y Transportes emitirá los lineamientos que regularán lo establecido en el artículo 55 Bis 2, dentro de los 30 días naturales siguientes, en tanto se expide el Reglamento de los Servicios de Arrastre, Arrastre y Salvamento y Depósito de Vehículos Auxiliares del Autotransporte Federal, el cual buscará salvaguardar el interés de los usuarios y evitar abusos de los prestadores de servicios, en un plazo máximo de 18 meses.
+**QUINTO.** La Secretaría de Comunicaciones y Transportes gestionará ante la Secretaría de Hacienda y Crédito Público, con cargo al Presupuesto de Egresos de la Federación, los recursos necesarios para el adecuado desarrollo del Programa de Reordenamiento General del Autotransporte Federal.
+**SEXTO.** Los ingresos provenientes de la venta de vehículos que causaron abandono, con menos de cinco años en depósito de guarda y custodia en locales permisionados por la Secretaría de Comunicaciones y Transportes y transferidos al Servicio de Administración y Enajenación de Bienes, se destinarán de conformidad con el artículo 89 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, incluyendo los gastos realizados por la Dirección General de Autotransporte Federal en el marco del presente Decreto y los lineamientos que al afecto se emitan. En este supuesto, a los permisionarios se les cubrirán los adeudos generados con el treinta por ciento de los remanentes de los ingresos y el resto se destinará a la modernización del autotransporte federal de carga.
 En el caso de los vehículos que causen abandono con más de cinco años en depósito de guarda y custodia, en locales permisionados por la Secretaría de Comunicaciones y Transportes y transferidos al Servicio de Administración y Enajenación de Bienes, serán adjudicados en forma directa al permisionario federal correspondiente, quien cubrirá los gastos administrativos en que incurra la Dirección General de Autotransporte Federal y el Servicio de Administración y Enajenación de Bienes. Asimismo, el permisionario federal aportará a la Dirección General de Autotransporte Federal, el uno por ciento de los ingresos que obtenga por este concepto, descontados los gastos administrativos mencionados en el presente párrafo, para el desarrollo de un sistema automatizado de control e información de los permisionarios del autotransporte federal.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL México, D.F., a 3 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Xavier Azuara Zúñiga, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Prevención y Gestión Integral de los Residuos, y de la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 4 de junio de 2014 ARTÍCULO SEGUNDO.- Se adicionan un párrafo quinto al artículo 6°. y una fracción II al artículo 17 recorriéndose las subsecuentes en su orden, de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……… TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- En términos de lo establecido por la fracción XXVIII del artículo 7 de la Ley General para la Prevención y Gestión Integral de los Residuos, el Ejecutivo Federal deberá desarrollar una “Estrategia Nacional para la Gestión Integral de Neumáticos Usados”.
-TERCERO.- Los responsables de formular los planes de manejo para los residuos que se incluyan en los listados a los que hace referencia el artículo 28, fracción III de la Ley General para la Prevención y Gestión Integral de los Residuos, así como los productores, fabricantes, importadores y distribuidores de neumáticos usados contarán con un plazo no mayor a dos años para formular y someter a consideración de la autoridad correspondiente dichos planes a partir de que sean publicadas las listas.
-CUARTO.- El Ejecutivo Federal deberá publicar la norma oficial mexicana que establezca los criterios de gestión, responsabilidad compartida y valorización para el manejo integral de los neumáticos usados.
-QUINTO.- Las concesiones y permisos otorgados para construir, operar, explotar, conservar y mantener los caminos y puentes federales con anterioridad a la entrada en vigor del presente Decreto continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su vigencia.
+México, D.F., a 3 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Xavier Azuara Zúñiga, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Prevención y Gestión Integral de los Residuos, y de la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 4 de junio de 2014
+
+### ARTÍCULO SEGUNDO
+Se adicionan un párrafo quinto al artículo 6°. y una fracción II al artículo 17 recorriéndose las subsecuentes en su orden, de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** En términos de lo establecido por la fracción XXVIII del artículo 7 de la Ley General para la Prevención y Gestión Integral de los Residuos, el Ejecutivo Federal deberá desarrollar una “Estrategia Nacional para la Gestión Integral de Neumáticos Usados”.
+**TERCERO.-** Los responsables de formular los planes de manejo para los residuos que se incluyan en los listados a los que hace referencia el artículo 28, fracción III de la Ley General para la Prevención y Gestión Integral de los Residuos, así como los productores, fabricantes, importadores y distribuidores de neumáticos usados contarán con un plazo no mayor a dos años para formular y someter a consideración de la autoridad correspondiente dichos planes a partir de que sean publicadas las listas.
+**CUARTO.-** El Ejecutivo Federal deberá publicar la norma oficial mexicana que establezca los criterios de gestión, responsabilidad compartida y valorización para el manejo integral de los neumáticos usados.
+**QUINTO.-** Las concesiones y permisos otorgados para construir, operar, explotar, conservar y mantener los caminos y puentes federales con anterioridad a la entrada en vigor del presente Decreto continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su vigencia.
 Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la presente Ley de conformidad con las disposiciones aplicables al momento de iniciar dicho trámite.
-SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+**SEXTO.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 29 de abril de 2014.- Dip. Jose Gonzalez Morfin, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Xavier Azuara Zuñiga, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforman y adicionan diversas disposiciones de las Leyes de Caminos, Puentes y Autotransporte Federal, de Puertos, de Aeropuertos, y Reglamentaria del Servicio Ferroviario.
-Publicado en el Diario Oficial de la Federación el 8 de junio de 2016 Artículo Primero.- Se reforma el artículo 6o., tercer párrafo y se adiciona un artículo 6o. Bis a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y las que estuvieren en proceso de otorgamiento antes de dicha fecha, se sujetarán a las disposiciones vigentes anteriores a este Decreto.
-Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este Decreto, dentro de los ciento ochenta días hábiles posteriores a su entrada en vigor.
+DECRETO por el que se reforman y adicionan diversas disposiciones de las Leyes de Caminos, Puentes y Autotransporte Federal, de Puertos, de Aeropuertos, y Reglamentaria del Servicio Ferroviario.
+Publicado en el Diario Oficial de la Federación el 8 de junio de 2016
+
+### Artículo Primero
+Se reforma el artículo 6o., tercer párrafo y se adiciona un artículo 6o. Bis a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y las que estuvieren en proceso de otorgamiento antes de dicha fecha, se sujetarán a las disposiciones vigentes anteriores a este Decreto.
+**Tercero.-** El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este Decreto, dentro de los ciento ochenta días hábiles posteriores a su entrada en vigor.
 Ciudad de México, a 26 de abril de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Ramón Bañales Arambula, Secretario.- Sen. César Octavio Pedroza Gaitán, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a tres de junio de dos mil dieciséis.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforma la fracción V del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 10 de octubre de 2016 ARTÍCULO ÚNICO.- Se reforma la fracción V del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……… TRANSITORIOS PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- La Secretaría de Comunicaciones y Transportes tiene 90 días a partir de su publicación, para informar en el Diario Oficial de la Federación la clasificación de caminos y puentes en el país.
+DECRETO por el que se reforma la fracción V del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 10 de octubre de 2016
+
+### ARTÍCULO ÚNICO
+Se reforma la fracción V del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ………
+
+## TRANSITORIOS
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** La Secretaría de Comunicaciones y Transportes tiene 90 días a partir de su publicación, para informar en el Diario Oficial de la Federación la clasificación de caminos y puentes en el país.
 Ciudad de México, a 8 de septiembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.Sen. Pablo Escudero Morales, Presidente.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de octubre de dos mil dieciséis.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforman diversos artículos de la Ley de Caminos, Puentes y Autotransporte Federal, de la Ley del Registro Público Vehicular y de la Ley Reglamentaria del Servicio Ferroviario.
-Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2017 Artículo Primero.- Se reforman los artículos 63 y 74 Ter, fracción II de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……….
-Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+DECRETO por el que se reforman diversos artículos de la Ley de Caminos, Puentes y Autotransporte Federal, de la Ley del Registro Público Vehicular y de la Ley Reglamentaria del Servicio Ferroviario.
+Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2017
+
+### Artículo Primero
+Se reforman los artículos 63 y 74 Ter, fracción II de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……….
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se derogan todas las disposiciones que se opongan al presente Decreto.
 Ciudad de México, a 17 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintinueve de noviembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se adiciona un tercer párrafo al artículo 53 de la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 24 de mayo de 2018 Artículo Único.- Se adiciona un tercer párrafo al artículo 53 de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……..
-Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- El Ejecutivo Federal deberá adecuar sus normas reglamentarias y disposiciones administrativas de la materia de conformidad con el presente Decreto, en un plazo no mayor a noventa días naturales a la entrada en vigor del presente Decreto.
+DECRETO por el que se adiciona un tercer párrafo al artículo 53 de la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 24 de mayo de 2018
+
+### Artículo Único
+Se adiciona un tercer párrafo al artículo 53 de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Ejecutivo Federal deberá adecuar sus normas reglamentarias y disposiciones administrativas de la materia de conformidad con el presente Decreto, en un plazo no mayor a noventa días naturales a la entrada en vigor del presente Decreto.
 Ciudad de México, a 10 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de mayo de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforma el párrafo quinto del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 25 de junio de 2018 Artículo Único.- Se reforma el párrafo quinto del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ………..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el párrafo quinto del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
+
+### Artículo Único
+Se reforma el párrafo quinto del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ………..
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforma el párrafo quinto del artículo 36 de la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2020 Artículo Único.- Se reforma el párrafo quinto del artículo 36 de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……..
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforma el párrafo quinto del artículo 36 de la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2020
+
+### Artículo Único
+Se reforma el párrafo quinto del artículo 36 de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 23 de septiembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
 Óscar Eduardo Ramírez Aguilar, Presidente.- Dip. María Guadalupe Díaz Avilez, Secretaria.- Sen.
 Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de noviembre de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se adiciona un tercer párrafo a la fracción VIII del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 15 de noviembre de 2023 Artículo Único.- Se adiciona un tercer párrafo a la fracción VIII del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se adiciona un tercer párrafo a la fracción VIII del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 15 de noviembre de 2023
+
+### Artículo Único
+Se adiciona un tercer párrafo a la fracción VIII del artículo 5o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 4 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Claudia Esther Balderas Espinoza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de noviembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se adiciona un artículo 22 Bis a la Ley de Caminos, Puentes y Autotransporte Federal.
-Publicado en el Diario Oficial de la Federación el 15 de noviembre de 2023 Artículo Único.- Se adiciona un artículo 22 Bis a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……..
-Transitorios Primero.- El presente Decreto entrará en vigor a los 90 días naturales siguientes al día de su publicación en el Diario Oficial de la Federación.
-Segundo.- El Titular del Ejecutivo Federal, por conducto de la Secretaría de Infraestructura, Comunicaciones y Transportes deberá modificar la norma N-LEG-3/07 correspondiente al libro legislación parte 3, "Ejecución de obras", en un plazo no mayor de 90 días naturales, contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
+DECRETO por el que se adiciona un artículo 22 Bis a la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 15 de noviembre de 2023
+
+### Artículo Único
+Se adiciona un artículo 22 Bis a la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……..
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor a los 90 días naturales siguientes al día de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** El Titular del Ejecutivo Federal, por conducto de la Secretaría de Infraestructura, Comunicaciones y Transportes deberá modificar la norma N-LEG-3/07 correspondiente al libro legislación parte 3, "Ejecución de obras", en un plazo no mayor de 90 días naturales, contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
 Ciudad de México, a 4 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Claudia Esther Balderas Espinoza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 8 de noviembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación, y de la Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa.
-Publicado en el Diario Oficial de la Federación el 16 de julio de 2025 Artículo Tercero.- Se reforma el artículo 2o., fracción VI, de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: …….
-Transitorios Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación, y de la Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa.
+Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
+
+### Artículo Tercero
+Se reforma el artículo 2o., fracción VI, de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: …….
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entrarán en vigor el mismo día de la publicación del Decreto de Creación de la Agencia de Trenes y Transporte Público Integrado que emita la persona titular del Ejecutivo Federal.
-Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado, continuarán su trámite y serán resueltos por esta última.
-Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
-Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
-Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
-Sexto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
+**Segundo.-** Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado, continuarán su trámite y serán resueltos por esta última.
+**Tercero.-** La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
+**Cuarto.-** Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
+**Quinto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
+**Sexto.** El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
-LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
-Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Sexagésimo Quinto.- Se reforma la fracción II del artículo 4o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ……… Transitorios Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+DECRETO por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.
+Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025 Artículo Sexagésimo Quinto.- Se reforma la fracción II del artículo 4o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.** La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
 En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
+**Tercero.** Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
-Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+**Cuarto.** El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
+
+### artículo Sexto
+Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+Ciudad de México, a 01 de octubre de 2025.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Kenia López Rabadán, Presidenta.- Sen. María Martina Kantún Can, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de noviembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

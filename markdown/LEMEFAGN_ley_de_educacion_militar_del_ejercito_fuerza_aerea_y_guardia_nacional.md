@@ -5,11 +5,13 @@
 
 ---
 
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL (Antes “Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos”) Nueva Ley publicada en el Diario Oficial de la Federación el 23 de diciembre de 2005 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+(Antes “Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos”) Nueva Ley publicada en el Diario Oficial de la Federación el 23 de diciembre de 2005 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
-Artículo Único.- Se expide la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional.
-Denominación de la Ley reformada DOF 16-07-2025 LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL Denominación de la Ley reformada DOF 16-07-2025
+
+### Artículo Único
+Se expide la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional.
+Denominación de la Ley reformada DOF 16-07-2025 Denominación de la Ley reformada DOF 16-07-2025
 
 ## CAPÍTULO I
 DE LAS DISPOSICIONES GENERALES
@@ -23,7 +25,7 @@ Párrafo reformado DOF 16-07-2025
 ### Artículo 2
 .- Para los efectos de esta Ley, se entenderá por:
 I. Ley, la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional;
-Fracción reformada DOF 16-07-2025 II. Secretaría, la Secretaría de la Defensa Nacional, y LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL III. Dirección y Rectoría, la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
+Fracción reformada DOF 16-07-2025 II. Secretaría, la Secretaría de la Defensa Nacional, y III. Dirección y Rectoría, la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 3
@@ -46,7 +48,7 @@ Fracción reformada DOF 16-07-2025 V. Fomentar el valor de la justicia, de la ob
 I. Impartir al personal militar los conocimientos científicos, técnicos, humanísticos, interculturales y de derechos humanos, a nivel de educación medio superior y superior para el cumplimiento de las misiones de las armas y servicios propios del Ejército y Fuerza Aérea Mexicanos;
 Además de lo anterior, la formación policial al personal de Guardia Nacional;
 Párrafo adicionado DOF 16-07-2025 Fracción reformada DOF 17-01-2022 II. Realizar investigaciones científicas en lo general, relacionadas con el avance de la ciencia, el arte militar, así como en materia de seguridad pública;
-Fracción reformada DOF 16-07-2025 III. Formar docentes para las diversas asignaturas que imparten las Instituciones de Educación Militar, y Fracción reformada DOF 16-07-2025 LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL IV. Difundir y enriquecer la cultura del personal del Ejército, Fuerza Aérea y Guardia Nacional.
+Fracción reformada DOF 16-07-2025 III. Formar docentes para las diversas asignaturas que imparten las Instituciones de Educación Militar, y Fracción reformada DOF 16-07-2025 IV. Difundir y enriquecer la cultura del personal del Ejército, Fuerza Aérea y Guardia Nacional.
 Fracción reformada DOF 16-07-2025
 
 ### Artículo 7
@@ -75,7 +77,7 @@ Fracción reformada DOF 16-07-2025 IV. Impartir los conocimientos y desarrollar 
 Fracción reformada DOF 16-07-2025 V. Desarrollar y fortalecer el conocimiento mediante la práctica de los valores y las virtudes, como parte fundamental de la formación militar y policial;
 Fracción reformada DOF 16-07-2025 VI. Impulsar, organizar y normar las actividades de investigación sobre el arte y ciencia de la guerra, así como aspectos técnicos y científicos de los servicios del Ejército y Fuerza Aérea Mexicanos;
 Además de lo anterior, las actividades de investigación y aspectos técnicos y científicos relacionados con la Guardia Nacional;
-Párrafo adicionado DOF 16-07-2025 LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL VII. Elevar el nivel de cultura y académico de los recursos humanos del Ejército, Fuerza Aérea y Guardia Nacional, con base en el respeto de los derechos humanos y el criterio intercultural, y Fracción reformada DOF 17-01-2022, 16-07-2025 VIII. Proporcionar en forma oportuna y secuencial la formación orientada a la función específica que habrá de cumplir el personal militar.
+Párrafo adicionado DOF 16-07-2025 VII. Elevar el nivel de cultura y académico de los recursos humanos del Ejército, Fuerza Aérea y Guardia Nacional, con base en el respeto de los derechos humanos y el criterio intercultural, y Fracción reformada DOF 17-01-2022, 16-07-2025 VIII. Proporcionar en forma oportuna y secuencial la formación orientada a la función específica que habrá de cumplir el personal militar.
 
 ### Artículo 12
 .- La función del Sistema Educativo Militar es adquirir, transmitir y acrecentar la cultura castrense que contribuya al desarrollo integral del militar profesional para el cumplimiento de los deberes que le impone el servicio de las armas y, en su caso, los fines de la Guardia Nacional.
@@ -105,7 +107,7 @@ I. De Formación;
 II. De Capacitación;
 III. De Aplicación;
 IV. De Perfeccionamiento;
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL V. De Actualización, y VI. De Especialización.
+V. De Actualización, y VI. De Especialización.
 
 ## CAPÍTULO III
 DEL PROCESO EDUCATIVO SECCIÓN PRIMERA DE LOS TIPOS Y MODALIDADES DE LA EDUCACIÓN MILITAR
@@ -134,7 +136,7 @@ Artículo adicionado DOF 16-07-2025 SECCIÓN SEGUNDA DE LA PLANEACIÓN INSTITUCI
 
 ### Artículo 22
 .- Los planes de estudio tendrán una vigencia mínima igual al tiempo que duren los estudios a que se refieran más un cincuenta por ciento del mismo, sin detrimento de que los programas derivados de éste, sean realizadas las adecuaciones necesarias para asegurar su actualización.
-SECCIÓN TERCERA DE LA ORGANIZACIÓN E INTEGRACIÓN EDUCACIONAL LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
+SECCIÓN TERCERA DE LA ORGANIZACIÓN E INTEGRACIÓN EDUCACIONAL
 
 ### Artículo 23
 .- La Dirección y Rectoría expedirá las normas técnico-didácticas aplicables en el proceso educativo, de conformidad al tipo y nivel y modalidades educativas, capacitando al personal responsable de las Instituciones del Sistema Educativo Militar en su aplicación.
@@ -179,7 +181,6 @@ SECCIÓN SEGUNDA DE LOS EXTRANJEROS
 
 ### Artículo 34
 .- Los becarios extranjeros estarán sujetos a las disposiciones académicas, disciplinarias y administrativas que para el efecto señalen los reglamentos de las Instituciones de Educación Militar en donde realicen sus estudios.
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
 
 ### Artículo 35
 .- Los militares extranjeros becados en el Sistema Educativo Militar conservarán la jerarquía asignada por las fuerzas armadas de su país.
@@ -221,7 +222,6 @@ DE LA ACREDITACIÓN, CERTIFICACIÓN Y REVALIDACIÓN DE ESTUDIOS
 
 ### Artículo 46
 .- Las Autoridades Educativas Militares expedirán certificados, constancias, diplomas, títulos y grados académicos a quienes hayan concluido satisfactoriamente sus estudios, de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes.
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
 
 ### Artículo 47
 .- La Dirección y Rectoría establecerá los procedimientos por medio de los cuales expedirá certificados y dictámenes técnicos a quienes acrediten conocimientos adquiridos de manera autodidacta o por experiencia laboral, en relación con los empleos y especialidades del Ejército, Fuerza Aérea y Guardia Nacional.
@@ -247,32 +247,62 @@ V. Permitir o realizar actividades de publicidad o comercialización dentro de l
 ### Artículo 51
 .- Los discentes de las Instituciones de Educación Militar estarán sujetos a los reglamentos y disposiciones que la Secretaría emita para el caso y, quedarán sujetos al Fuero de Guerra.
 Los nacionales civiles o extranjeros que realicen estudios en el Sistema Educativo Militar, no estarán sujetos al Fuero de Guerra.
-TRANSITORIOS PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Se abrogan todas las disposiciones que se opongan a la presente Ley.
+
+## TRANSITORIOS
+
+**PRIMERO.-** La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+**SEGUNDO.-** Se abrogan todas las disposiciones que se opongan a la presente Ley.
 México, D.F., a 10 de noviembre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip.
 Heliodoro Díaz Escárraga, Presidente.- Sen. Yolanda E. González Hernández, Secretaria.- Dip.
-Patricia Garduño Morales, Secretaria.- Rúbricas." LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman los artículos 1 y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
-Publicado en el Diario Oficial de la Federación el 22 de mayo de 2018 Artículo Único.- Se reforman los artículos 1, párrafo primero y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……..
-Transitorio Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Patricia Garduño Morales, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman los artículos 1 y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
+Publicado en el Diario Oficial de la Federación el 22 de mayo de 2018
+
+### Artículo Único
+Se reforman los artículos 1, párrafo primero y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……..
+
+## Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 5 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Sofía del Sagrario De León Maza, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de mayo de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL DECRETO por el que se reforman diversas disposiciones de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
-Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021 Artículo Único.- Se reforma el artículo 17, y se adiciona una fracción V al artículo 14 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+DECRETO por el que se reforman diversas disposiciones de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
+Publicado en el Diario Oficial de la Federación el 22 de noviembre de 2021
+
+### Artículo Único
+Se reforma el artículo 17, y se adiciona una fracción V al artículo 14 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
 Ciudad de México, a 14 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Olga Sánchez Cordero Dávila, Presidenta.- Dip. Jessica María Guadalupe Ortega de la Cruz, Secretaria.- Sen. María Celeste Sánchez Sugía, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL DECRETO por el que se reforman diversas disposiciones de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
-Publicado en el Diario Oficial de la Federación el 17 de enero de 2022 Artículo Único.- Se reforman los artículos 4; 6, fracción I, y 11, fracción VII de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……… Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+DECRETO por el que se reforman diversas disposiciones de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
+Publicado en el Diario Oficial de la Federación el 17 de enero de 2022
+
+### Artículo Único
+Se reforman los artículos 4; 6, fracción I, y 11, fracción VII de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ………
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 9 de diciembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Jessica María Guadalupe Ortega de la Cruz, Secretaria.- Sen. María Celeste Sánchez Sugía, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal;
+DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal;
 Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Ley de Disciplina del Ejército y Fuerza Aérea Mexicanos; del Código de Justicia Militar y del Código Militar de Procedimientos Penales.
-Publicado en el Diario Oficial de la Federación el 16 de julio de 2025 Artículo Cuarto.- Se reforman los artículos 1, actual párrafo segundo; 2, fracciones I y III; 4; 5, fracciones I y IV; 6, fracciones II, III y IV; 8; 10; 11, fracciones II, III, IV, V y VII; 12; 37 y 47, así como la denominación de la ley, y se adicionan a los artículos 1, un párrafo segundo, recorriéndose en su orden el subsecuente; 6, fracción I, un párrafo segundo; 11, fracción VI, un párrafo segundo y el artículo 19 Bis de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ……… Transitorios Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
-Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
-Cuarto.- Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
-Quinto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
-Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
-Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
-Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
+Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
+
+### Artículo Cuarto
+Se reforman los artículos 1, actual párrafo segundo; 2, fracciones I y III; 4; 5, fracciones I y IV; 6, fracciones II, III y IV; 8; 10; 11, fracciones II, III, IV, V y VII; 12; 37 y 47, así como la denominación de la ley, y se adicionan a los artículos 1, un párrafo segundo, recorriéndose en su orden el subsecuente; 6, fracción I, un párrafo segundo; 11, fracción VI, un párrafo segundo y el artículo 19 Bis de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue: ………
+
+## Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+**Segundo.-** Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
+**Tercero.-** Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
+**Cuarto.-** Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
+**Quinto.-** Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
+**Sexto.-** Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+**Séptimo.-** Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
+**Octavo.-** Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
+Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.

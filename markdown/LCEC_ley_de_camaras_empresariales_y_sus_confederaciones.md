@@ -5,11 +5,12 @@
 
 ---
 
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES Nueva Ley publicada en el Diario Oficial de la Federación el 20 de enero de 2005 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Nueva Ley publicada en el Diario Oficial de la Federación el 20 de enero de 2005 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
-Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES.
-ARTÍCULO ÚNICO.- Se expide la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue:
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A: .
+
+### ARTÍCULO ÚNICO
+Se expide la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue:
 TÍTULO PRIMERO DISPOSICIONES GENERALES Capítulo Primero Disposiciones Generales
 
 ### Artículo 1
@@ -23,7 +24,7 @@ I. Estado: la sociedad mexicana que habita el territorio nacional y es regida po
 II. Secretaría: la Secretaría de Economía.
 III. Comerciantes: las personas físicas y morales con actividades empresariales que realicen actividades de comercio, servicios y turismo que se encuentren establecidos y sujetos a un régimen fiscal.
 IV. Industriales: las personas físicas y morales con actividades empresariales que realicen actividades industriales, extractivas, de transformación y sus servicios que se encuentren establecidos y sujetos a un régimen fiscal.
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES V. Cámaras: las Cámaras de Comercio, Servicios y Turismo que representan a Comerciantes y las Cámaras de Industria que representan a Industriales.
+V. Cámaras: las Cámaras de Comercio, Servicios y Turismo que representan a Comerciantes y las Cámaras de Industria que representan a Industriales.
 VI. Confederación: la Confederación Nacional de Cámaras de Comercio, Servicios y Turismo y la Confederación de Cámaras Industriales de los Estados Unidos Mexicanos.
 VII. Circunscripción: el área geográfica autorizada para que opere una Cámara.
 VIII. Giro: área o sector de la economía que por sus características se integran en un solo grupo de actividad productiva, de acuerdo con la clasificación oficial de actividades productivas vigente que recomiende el Instituto Nacional de Estadística, Geografía e Informática.
@@ -43,7 +44,7 @@ Las Cámaras estarán conformadas por Comerciantes o Industriales, según lo dis
 Las Cámaras y sus Confederaciones representan, promueven y defienden nacional e internacionalmente las actividades de la industria, el comercio, los servicios y el turismo y colaboran con el gobierno para lograr el crecimiento socioeconómico, así como la generación y distribución de la riqueza.
 Son órganos de consulta y colaboración del Estado. El gobierno deberá consultarlas en todos aquellos asuntos vinculados con las actividades que representan.
 La actividad de las Cámaras y sus Confederaciones será la propia de su objeto; no tendrán fines de lucro y se abstendrán de realizar actividades religiosas o partidistas.
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES Las entidades extranjeras o binacionales que tengan por objeto igual o semejante al de las Cámaras que se regulan en esta Ley, requerirán autorización de la Secretaría para operar en el territorio nacional y actuarán como asociaciones sujetas al derecho común.
+Las entidades extranjeras o binacionales que tengan por objeto igual o semejante al de las Cámaras que se regulan en esta Ley, requerirán autorización de la Secretaría para operar en el territorio nacional y actuarán como asociaciones sujetas al derecho común.
 
 ### Artículo 5
 .- Las instituciones constituidas y organizadas de acuerdo con esta Ley deberán usar en sus denominaciones los términos "Cámara" o "Confederación", seguidos de los vocablos que conforme a lo establecido en la misma, permitan identificar su circunscripción, actividad o giro según corresponda.
@@ -62,7 +63,7 @@ VII. Establecer mecanismos que permitan que a las empresas con registro actualiz
 VIII. Solicitar por escrito a las Cámaras y Confederaciones reportes anuales sobre su operación, sobre los resultados y operación de los programas y acciones que les hayan sido subrogados y la información financiera respecto del SIEM;
 IX. Expedir los acuerdos de carácter general necesarios para el cumplimiento de esta Ley;
 X. Vigilar y verificar la observancia de esta Ley, así como sancionar los casos de incumplimiento, y XI. Las demás señaladas en esta Ley.
-TÍTULO SEGUNDO DEL OBJETO, CIRCUNSCRIPCIÓN Y ACTIVIDADES DE LAS CÁMARAS Y CONFEDERACIONES LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES Capítulo Primero Del Objeto
+TÍTULO SEGUNDO DEL OBJETO, CIRCUNSCRIPCIÓN Y ACTIVIDADES DE LAS CÁMARAS Y CONFEDERACIONES Capítulo Primero Del Objeto
 
 ### Artículo 7
 .- Las Cámaras tendrán por objeto:
@@ -79,7 +80,7 @@ X. Prestar los servicios que determinen sus Estatutos en beneficio de sus afilia
 XI. Participar con el gobierno en el diseño y divulgación de las estrategias de desarrollo socioeconómico;
 XII. Promover, orientar e impartir capacitación sobre la realización de toda clase de trámites administrativos obligatorios ante toda clase de autoridades administrativas con las que se pueda tener ingerencia por virtud de la actividad empresarial y comercial que desempeñan sus afiliados, con la finalidad de generar una cultura social de responsabilidad y observancia de la legislación que regulan sus actividades como sector productivo;
 XIII. Defender los intereses particulares de las empresas afiliadas a solicitud expresa de éstas;
-Fracción reformada DOF 12-04-2019 XIV. Promover entre sus afiliados principios éticos que prevengan acciones de corrupción con las dependencias de los tres niveles de gobierno y demás dependencias del sector público, y Fracción adicionada DOF 12-04-2019 LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES XV. Llevar a cabo las demás actividades que se deriven de su naturaleza, de sus Estatutos y las que les señalen otros ordenamientos legales.
+Fracción reformada DOF 12-04-2019 XIV. Promover entre sus afiliados principios éticos que prevengan acciones de corrupción con las dependencias de los tres niveles de gobierno y demás dependencias del sector público, y Fracción adicionada DOF 12-04-2019 XV. Llevar a cabo las demás actividades que se deriven de su naturaleza, de sus Estatutos y las que les señalen otros ordenamientos legales.
 Fracción recorrida DOF 12-04-2019
 
 ### Artículo 8
@@ -105,7 +106,7 @@ Cada Cámara podrá establecer delegaciones para el cumplimiento de su objeto, e
 ### Artículo 11
 .- Las Cámaras de Industria serán específicas o genéricas, nacionales o regionales.
 Las Cámaras de Industria específicas nacionales se integrarán con empresas y sus establecimientos en el país, que realicen actividades en un mismo giro industrial.
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES La Cámara de Industria genérica nacional se integrará con empresas y sus establecimientos en el país, que realicen actividades para las cuales no existan Cámaras de Industria específicas.
+La Cámara de Industria genérica nacional se integrará con empresas y sus establecimientos en el país, que realicen actividades para las cuales no existan Cámaras de Industria específicas.
 Las Cámaras de Industria específicas regionales se integrarán con empresas y sus establecimientos en una o varias entidades federativas que realicen actividades en un mismo giro industrial.
 Las Cámaras de Industria genéricas regionales se integrarán con empresas y sus establecimientos en una entidad federativa, que realicen actividades para las cuales no existan Cámaras de Industria específicas.
 Cada Cámara de Industria específica y genérica, nacional y regional, podrá establecer delegaciones para el cumplimiento de su objeto, en los términos establecidos en el capítulo VIII del presente título de esta Ley y de su Reglamento.
@@ -119,7 +120,7 @@ Para autorizar la creación de una Cámara de Comercio, Servicios y Turismo o de
 I. Recibirá de la Confederación respectiva el dictamen que haya emitido el Consejo Directivo, así como la solicitud y los anexos que le presentó el grupo promotor para la creación de una nueva Cámara;
 II. Verificará que la solicitud del grupo promotor cumpla con los requisitos de los artículos 13 y 14 de esta Ley;
 III. Si no existen razones fundadas en contra de la solicitud por parte de la o las Cámaras afectadas y se cumple con lo estipulado en los artículos 13 y 14 de esta Ley, publicará el proyecto de autorización para la constitución de la Cámara en el Diario Oficial de la Federación, a efecto de que dentro de los sesenta días naturales siguientes, quienes tengan interés jurídico en ello, presenten sus comentarios, y IV. Al término del plazo a que se refiere la fracción anterior y dentro de los cuarenta y cinco días naturales siguientes, estudiará los comentarios recibidos y, según sea el caso, aprobará con o sin modificaciones, o rechazará el proyecto, publicando la resolución definitiva en el Diario Oficial de la Federación.
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES Para la constitución de una Cámara la Secretaría se reserva la facultad de emitir una decisión final.
+Para la constitución de una Cámara la Secretaría se reserva la facultad de emitir una decisión final.
 
 ### Artículo 13
 .- Los requisitos que debe satisfacer el grupo promotor en su solicitud a la Confederación para constituir una Cámara de Comercio, Servicios y Turismo son los siguientes:
@@ -131,13 +132,12 @@ IV. Presentar el programa de trabajo correspondiente a fin de dar cumplimiento a
 ### Artículo 14
 .- Los requisitos que debe satisfacer el grupo promotor en su solicitud a la Confederación para constituir una Cámara de Industria son los siguientes:
 I. Para constituir una Cámara de Industria específica nacional. a) Que no se encuentre constituida en los términos de esta Ley, una Cámara de Industria específica nacional con el mismo giro; b) Que el giro para el que se solicita una Cámara de Industria corresponda a un subsector de hasta dos dígitos en la clasificación del sistema que recomiende el Instituto Nacional de Estadística, Geografía e Informática; c) El interés expreso del grupo promotor formado de por lo menos 100 Industriales que representen el veinticinco por ciento o más de los Industriales del giro específico representados por el grupo promotor para el cual se solicita crear una nueva Cámara; d) Los Industriales del grupo promotor se encuentren ubicados en por lo menos diez entidades federativas, con un mínimo del siete punto cinco por ciento de los industriales del grupo promotor en cada una de esas entidades federativas; e) Descripción de las razones por las cuales los intereses de los industriales representados por el grupo promotor no pueden ser correctamente representados por la Cámara de Industria específica o genérica nacional a la que pertenecen al momento de la solicitud y de los intentos y negociaciones para alcanzar esa representación; f) Presentar el programa de trabajo correspondiente a fin de dar cumplimiento al objeto de la Cámara, según se indica en el artículo 7 de esta Ley, en un plazo no mayor a los tres meses, y g) Cumplir con los demás requisitos que se establecen en esta Ley.
-II. Para constituir una Cámara de Industria genérica regional. a) Que no se encuentre constituida en los términos de esta Ley una Cámara de Industria genérica regional en la circunscripción solicitada;
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES b) Que la circunscripción propuesta tenga una población superior al quince por ciento de la población total del país; c) El producto interno bruto de la circunscripción para la cual se solicita una nueva Cámara, represente más del veinte por ciento del producto interno bruto nacional; d) Los Industriales representados por el grupo promotor constituyan por lo menos el cincuenta y uno por ciento y setecientos cincuenta o más de los Industriales registrados en el SIEM en la circunscripción solicitada para los que no exista Cámaras de Industria específica nacional o regional en la circunscripción solicitada; e) El interés expreso del grupo promotor formado de por lo menos veinticinco por ciento y por un mínimo de 100 Industriales de la circunscripción para la cual se solicita crear una nueva Cámara; f) Los industriales del grupo promotor se encuentren ubicados en por lo menos el cincuenta por ciento de los municipios o delegaciones políticas en el Distrito Federal, de la circunscripción solicitada; g) Descripción de las razones por las cuales los intereses de las empresas representadas por el grupo promotor no pueden ser correctamente representados por la Cámara de Industria genérica nacional a la que pertenecen al momento de la solicitud y de los intentos y negociaciones para alcanzar esa representación; h) Presentar el programa de trabajo correspondiente a fin de dar cumplimiento al objeto de la Cámara, según se indica en el artículo 7 de esta Ley, en un plazo no mayor a los tres meses, e i) Cumplir con los demás requisitos que se establecen en esta Ley.
+II. Para constituir una Cámara de Industria genérica regional. a) Que no se encuentre constituida en los términos de esta Ley una Cámara de Industria genérica regional en la circunscripción solicitada; b) Que la circunscripción propuesta tenga una población superior al quince por ciento de la población total del país; c) El producto interno bruto de la circunscripción para la cual se solicita una nueva Cámara, represente más del veinte por ciento del producto interno bruto nacional; d) Los Industriales representados por el grupo promotor constituyan por lo menos el cincuenta y uno por ciento y setecientos cincuenta o más de los Industriales registrados en el SIEM en la circunscripción solicitada para los que no exista Cámaras de Industria específica nacional o regional en la circunscripción solicitada; e) El interés expreso del grupo promotor formado de por lo menos veinticinco por ciento y por un mínimo de 100 Industriales de la circunscripción para la cual se solicita crear una nueva Cámara; f) Los industriales del grupo promotor se encuentren ubicados en por lo menos el cincuenta por ciento de los municipios o delegaciones políticas en el Distrito Federal, de la circunscripción solicitada; g) Descripción de las razones por las cuales los intereses de las empresas representadas por el grupo promotor no pueden ser correctamente representados por la Cámara de Industria genérica nacional a la que pertenecen al momento de la solicitud y de los intentos y negociaciones para alcanzar esa representación; h) Presentar el programa de trabajo correspondiente a fin de dar cumplimiento al objeto de la Cámara, según se indica en el artículo 7 de esta Ley, en un plazo no mayor a los tres meses, e i) Cumplir con los demás requisitos que se establecen en esta Ley.
 
 ### Artículo 15
 .- Para constituir una Cámara deberá seguirse el procedimiento siguiente:
 I. En el caso de Cámaras de Comercio, Servicios y Turismo. a) Una vez satisfechos los requisitos de los artículos 7, 9 y 13 de esta Ley, la Secretaría y la Confederación Nacional de Cámaras de Comercio, Servicios y Turismo, organizarán conjuntamente la asamblea de constitución, mediante la publicación de la convocatoria correspondiente en los principales periódicos de la entidad, por tres veces consecutivas. Dicha asamblea deberá sesionar por lo menos veinte días después de la última convocatoria ante fedatario público; b) La Confederación inscribirá a los interesados en asistir mediante el depósito de la cuota que fijará el Consejo de la Confederación, de acuerdo con el promedio de cuotas vigentes en las Cámaras del país; c) La asamblea será presidida por el representante que designe la Confederación hasta que sea electo en Consejo Directivo, el cual designará un Presidente que le dé conclusión, y d) La Secretaría registrará la formación de la Cámara y publicará su constitución en el Diario Oficial de la Federación.
-II. En el caso de Cámaras de Industria. a) Una vez satisfechos los requisitos de los artículos 7, 10 y 14 de esta Ley, la Secretaría y la Confederación de Cámaras Industriales de los Estados Unidos Mexicanos, organizarán conjuntamente la asamblea de constitución mediante la publicación de la convocatoria correspondiente en un periódico de LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES circulación nacional, por tres veces consecutivas. Dicha asamblea deberá sesionar por lo menos veinte días después de la última convocatoria ante fedatario público; b) La Confederación inscribirá a los interesados en asistir mediante el depósito de la cuota que fijará el consejo de la misma Confederación, de acuerdo con el promedio de cuotas vigentes en las Cámaras del país; c) La asamblea será presidida por el representante que designe la Confederación hasta que sea electo en Consejo Directivo, el cual designará un Presidente que le dé conclusión, y d) La Secretaría registrará la formación de la Cámara y publicará su constitución en el Diario Oficial de la Federación.
+II. En el caso de Cámaras de Industria. a) Una vez satisfechos los requisitos de los artículos 7, 10 y 14 de esta Ley, la Secretaría y la Confederación de Cámaras Industriales de los Estados Unidos Mexicanos, organizarán conjuntamente la asamblea de constitución mediante la publicación de la convocatoria correspondiente en un periódico de circulación nacional, por tres veces consecutivas. Dicha asamblea deberá sesionar por lo menos veinte días después de la última convocatoria ante fedatario público; b) La Confederación inscribirá a los interesados en asistir mediante el depósito de la cuota que fijará el consejo de la misma Confederación, de acuerdo con el promedio de cuotas vigentes en las Cámaras del país; c) La asamblea será presidida por el representante que designe la Confederación hasta que sea electo en Consejo Directivo, el cual designará un Presidente que le dé conclusión, y d) La Secretaría registrará la formación de la Cámara y publicará su constitución en el Diario Oficial de la Federación.
 
 ## Capítulo Cuarto
 De los Estatutos de Cámaras y Confederaciones
@@ -155,7 +155,7 @@ VIII. Derechos y obligaciones de los afiliados o de las Cámaras, según corresp
 IX. Derechos y obligaciones de las delegaciones de las Cámaras;
 X. Facultades y funciones en materia de representación, administración, usufructo, prestación de servicios y otras cuestiones vinculadas a su objeto que las Cámaras transfieren a sus delegaciones;
 XI. Procedimientos para la solución de controversias para lo cual se insertará una cláusula que establezca la obligación de la Cámara de someterse al arbitraje cuando el afiliado opte por dicho procedimiento y de informar a sus afiliados sobre los recursos disponibles en general y conforme a lo estipulado en la fracción VIII del artículo 22 de esta ley, para la promoción de procedimientos por la vía arbitral;
-Fracción reformada DOF 09-06-2009 LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES XII. Procedimientos de disolución y liquidación, y XIII. Los demás elementos que establezca el Reglamento.
+Fracción reformada DOF 09-06-2009 XII. Procedimientos de disolución y liquidación, y XIII. Los demás elementos que establezca el Reglamento.
 La Secretaría registrará los Estatutos y sus modificaciones, los cuales deberán constar en instrumento otorgado ante fedatario público competente.
 
 ### Artículo 17
@@ -177,7 +177,7 @@ III. Que sus representantes sean sujetos de elección para las posiciones en los
 IV. Someter a la consideración de la Confederación y sus órganos de gobierno por conducto de su representante las iniciativas que considere pertinentes para el mejor funcionamiento de ésta y de las Cámaras y obtener respuestas fundadas sobre éstas;
 V. Ser el representante de los intereses de la actividad productiva o región que corresponde a la Cámara en la Asamblea y los órganos de gobierno de la Confederación;
 VI. A solicitud de las Cámaras, ser representados y defendidos por la Confederación en sus derechos y sus intereses como el sector económico o región que representa la Cámara ante las instancias de gobierno y otras instancias;
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES VII. Recibir de la Confederación, los servicios que ésta ofrezca en términos de asesoría legal y técnica, consultoría, publicidad, tramitación, capacitación entre otros que brinde a sus afiliados;
+VII. Recibir de la Confederación, los servicios que ésta ofrezca en términos de asesoría legal y técnica, consultoría, publicidad, tramitación, capacitación entre otros que brinde a sus afiliados;
 VIII. Operar el SIEM cuando así lo autorice la Secretaría a petición de las Cámaras o Confederaciones, siempre y cuando cuenten con los recursos humanos y técnicos en el sector o región que corresponda;
 IX. Recibir de la Confederación la información necesaria y suficiente sobre la administración y el desempeño de la misma;
 X. Solicitar a la Confederación que actúe como árbitro en la solución de controversias en aquellos ámbitos en los que sea competente, de acuerdo a la reglamentación vigente;
@@ -195,7 +195,7 @@ XXI. Cumplir con los perfiles y niveles de calidad en los servicios que deberán
 
 ### Artículo 19
 .- Las Confederaciones tendrán los siguientes derechos y obligaciones frente a las Cámaras afiliadas:
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES I. Ser informado de los resultados de los procesos de elección de los órganos de gobierno de las Cámaras;
+I. Ser informado de los resultados de los procesos de elección de los órganos de gobierno de las Cámaras;
 II. Solicitar y recibir de las Cámaras sus contribuciones para el sostenimiento de la Confederación respectiva, en los términos que fije la asamblea de ésta;
 III. Ser enterado por las Cámaras de lo que corresponde a la Confederación por concepto de los ingresos obtenidos en la operación del SIEM;
 IV. Determinar los perfiles y niveles de calidad de los servicios que deberán brindar las Cámaras a sus afiliados en términos de capacitación, comercio exterior, gestoría y asesoría técnica entre otros, vigilando su cumplimiento;
@@ -210,7 +210,7 @@ XII. Estimular el continuo mejoramiento del sistema cameral, propiciando la mejo
 XIII. Reconocer y apoyar a las Cámaras para operar el SIEM, cuando así lo autorice la Secretaría, en el sector y región que les corresponda. Cuando sean elegibles para los apoyos que ofrezca el Sistema, defender sus derechos frente a la Secretaría;
 XIV. Entregar a las Cámaras la información necesaria y suficiente sobre la administración y el desempeño de la Confederación;
 XV. Convocar y estimular a las Cámaras a participar en las ferias, exposiciones, concursos y certámenes convocados por o en las que participe la Confederación;
-XVI. Prevenir y llevar a cabo las gestiones necesarias, cuando proceda, para evitar la disolución y liquidación de Cámaras, vigilando que la actividad económica o región sean siempre representadas adecuadamente, y LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES XVII. Los demás que establezca la presente Ley, su Reglamento o los Estatutos de la Confederación respectiva.
+XVI. Prevenir y llevar a cabo las gestiones necesarias, cuando proceda, para evitar la disolución y liquidación de Cámaras, vigilando que la actividad económica o región sean siempre representadas adecuadamente, y XVII. Los demás que establezca la presente Ley, su Reglamento o los Estatutos de la Confederación respectiva.
 Capítulo Quinto De la Asamblea General
 
 ### Artículo 20
@@ -234,7 +234,7 @@ II. Cumplir con el objeto y obligaciones de la Cámara o Confederación respecti
 III. Convocar a la Asamblea General y ejecutar los acuerdos tomados por ésta;
 IV. Presentar anualmente a la Asamblea General el presupuesto de ingresos y egresos y el programa de trabajo para el ejercicio, y una vez aprobados por ésta remitirlos a la Secretaría;
 V. Ejercer el presupuesto aprobado por la Asamblea General;
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES VI. Someter a la Asamblea General el balance anual y el estado de resultados de cada ejercicio y, una vez aprobado, remitirlo a la Secretaría acompañado del dictamen del auditor externo, la cual lo pondrá a disposición de los afiliados para su consulta;
+VI. Someter a la Asamblea General el balance anual y el estado de resultados de cada ejercicio y, una vez aprobado, remitirlo a la Secretaría acompañado del dictamen del auditor externo, la cual lo pondrá a disposición de los afiliados para su consulta;
 VII. Proporcionar la información requerida por la Secretaría y, en su caso, la Confederación respectiva;
 VIII. Promover y suscribir convenios con organizaciones que se dediquen a la resolución de controversias mediante procedimientos arbitrales de carácter comercial conforme a lo estipulado en el Código de Comercio, a fin de informar a sus afiliados y fomentar el uso de dichos procedimientos entre éstos;
 Fracción adicionada DOF 09-06-2009 IX. Determinar la sede y circunscripción de las delegaciones;
@@ -251,7 +251,7 @@ IV. Por lo menos el sesenta por ciento de los miembros del Consejo Directivo deb
 ### Artículo 24
 .- El Consejo Directivo será encabezado por un Presidente, los Vicepresidentes que se requieran según los Estatutos y el objeto de la Cámara o Confederación, un Tesorero y un Secretario, de acuerdo a los siguientes requisitos:
 I. El Presidente será electo en la primera sesión ordinaria del Consejo Directivo, la que deberá realizarse en la misma fecha en que se reúna la Asamblea General en sesión ordinaria;
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES II. A propuesta del Presidente, el Consejo Directivo aprobará la designación de los Vicepresidentes, Tesorero y Secretario;
+II. A propuesta del Presidente, el Consejo Directivo aprobará la designación de los Vicepresidentes, Tesorero y Secretario;
 III. El Presidente, Vicepresidentes, Tesorero y Secretario desempeñarán las funciones que determinen los Estatutos respectivos, respondiendo al objeto de la Cámara o Confederación, según corresponda;
 IV. El Presidente, Vicepresidentes y Tesorero durarán en su cargo un año y podrán ser reelectos para el mismo cargo en dos ocasiones por un año más, cada una en forma consecutiva. Para poder ocupar nuevamente el mismo cargo, deberán dejar transcurrir un periodo al menos, de tres años;
 V. El Secretario durará en su cargo un año y podrá ser reelecto cuantas veces sea necesario;
@@ -269,7 +269,7 @@ IV. Las donaciones y legados que reciban;
 V. El producto de la venta de sus bienes;
 VI. Los ingresos por prestación de servicios;
 VII. Los ingresos derivados de servicios concesionados o autorizados, y VIII. Los demás ingresos que obtenga por cualquier otro concepto.
-Capítulo Octavo De las Delegaciones LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES
+Capítulo Octavo De las Delegaciones
 
 ### Artículo 26
 .- Las Cámaras de Comercio, Servicios y Turismo y las Cámaras de Industria podrán establecer en su circunscripción las delegaciones que consideren necesarias para el cumplimiento de su objeto.
@@ -293,7 +293,7 @@ I. Los gobiernos federal, estatal y municipal, en la planeación del desarrollo 
 II. Las Cámaras, en la planeación y desarrollo de sus actividades y servicios, así como la promoción e integración de actividades económicas;
 III. Las empresas en la formulación de sus estrategias de competitividad y crecimiento;
 IV. Las diferentes instancias de gobierno en la simplificación de trámites administrativos en todos los niveles, y V. La identificación de oportunidades comerciales y de negocios para los empresarios y cualquier individuo nacional y extranjero.
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES El SIEM es de interés público, su coordinación es competencia de la Secretaría y su operación estará a cargo de las Cámaras, cuando así lo autorice la Secretaría.
+El SIEM es de interés público, su coordinación es competencia de la Secretaría y su operación estará a cargo de las Cámaras, cuando así lo autorice la Secretaría.
 
 ### Artículo 30
 .- Todos los Comerciantes e Industriales, sin excepción y obligatoriamente, deberán de registrar y actualizar anualmente cada uno de sus establecimientos en el SIEM.
@@ -314,7 +314,7 @@ Dicha información no hará prueba ante la autoridad administrativa o fiscal, en
 .- La administración del SIEM estará a cargo de la Secretaría, quien garantizará que el sistema opere eficientemente en todo momento, para ello:
 I. La Secretaría asignará los recursos necesarios a fin de que sus alcances y desempeño correspondan al buen funcionamiento del mismo;
 II. La captura de la información para el SIEM será a través de las Cámaras, de acuerdo a las reglas de operación que para tal efecto emita la Secretaría, una vez consultadas las Cámaras y Confederaciones;
-III. La Secretaría promoverá y formulará los acuerdos correspondientes a fin de que todas las instancias administrativas en los niveles federal, estatal y municipal, establezcan la obligatoriedad de las LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES empresas de contar con el registro en el SIEM para la celebración de todo trámite administrativo ante ellas;
+III. La Secretaría promoverá y formulará los acuerdos correspondientes a fin de que todas las instancias administrativas en los niveles federal, estatal y municipal, establezcan la obligatoriedad de las empresas de contar con el registro en el SIEM para la celebración de todo trámite administrativo ante ellas;
 IV. La Secretaría emitirá la autorización correspondiente para que las Cámaras que así lo soliciten puedan operar el SIEM y cumplan con lo establecido en las reglas de operación, y V. Se cumplirá con la obligación de proporcionar al SIEM la información a que se refiere este capítulo, en la Cámara autorizada que corresponda; en ningún caso otorgará a los Comerciantes e Industriales los derechos o les impondrá las obligaciones inherentes a los afiliados de las mismas.
 
 ### Artículo 34
@@ -337,7 +337,6 @@ DISOLUCIÓN Y LIQUIDACIÓN DE LAS CÁMARAS
 .- Las Cámaras se disolverán:
 I. Por acuerdo de la Asamblea General, que deberá ser convocada especialmente para este efecto;
 II. Cuando no cuenten con recursos suficientes para su sostenimiento o para el cumplimiento de su objeto en términos de esta Ley, y III. En caso de que la Secretaría emita resolución que revoque su autorización, por las causas previstas en esta Ley.
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES
 
 ### Artículo 36
 .- La liquidación estará a cargo de al menos un representante de la Secretaría, uno de la Confederación respectiva y otro de la Cámara de que se trate.
@@ -360,7 +359,7 @@ En caso de reincidencia, la Secretaría podrá imponer multa de hasta por el dob
 
 ### Artículo 40
 .- La Secretaría sancionará con multa de doscientos a seiscientos salarios mínimos, según la capacidad económica del infractor, a aquellos Comerciantes o Industriales que incurran en las conductas siguientes:
-I. No cumplan con su obligación de registrarse oportunamente en el SIEM, no registren a todos sus establecimientos, o proporcionen información incorrecta o incompleta en su registro, o LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES II. No cumplan con su obligación de informar a la Cámara correspondiente para efectos de su registro en el SIEM, cuando cesen parcial o totalmente en sus actividades, o cambie su giro o su domicilio.
+I. No cumplan con su obligación de registrarse oportunamente en el SIEM, no registren a todos sus establecimientos, o proporcionen información incorrecta o incompleta en su registro, o II. No cumplan con su obligación de informar a la Cámara correspondiente para efectos de su registro en el SIEM, cuando cesen parcial o totalmente en sus actividades, o cambie su giro o su domicilio.
 En caso de reincidencia, se podrá imponer multa de hasta por el doble de la sanción anterior.
 
 ### Artículo 41
@@ -382,27 +381,58 @@ Capítulo Segundo Del Recurso de Revisión
 
 ### Artículo 45
 .- Las personas afectadas por las resoluciones dictadas por la Secretaría, con fundamento en esta Ley y demás disposiciones derivadas de ella, podrán interponer recurso de revisión en los términos de la Ley Federal de Procedimiento Administrativo.
-TRANSITORIOS ARTÍCULO PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-ARTÍCULO SEGUNDO.- Se abroga la Ley de Cámaras Empresariales y sus Confederaciones, publicada en el Diario Oficial de la Federación el 20 de diciembre de 1996, así como sus reformas y adiciones.
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES ARTÍCULO TERCERO.- Las Cámaras de Industria específica regionales constituidas con anterioridad a la vigencia de esta Ley, continuarán operando en los términos en que hayan sido inicialmente autorizadas.
-ARTÍCULO CUARTO.- Las Cámaras de Comercio en Pequeño constituidas con anterioridad a la vigencia de esta Ley, continuarán operando en los términos en que hayan sido inicialmente autorizadas.
-ARTÍCULO QUINTO.- Se otorga un plazo de un año a todas las Cámaras y sus Confederaciones, para adecuar sus Estatutos a lo dispuesto en esta Ley.
-ARTÍCULO SEXTO.- Las Cámaras específicas nacionales, genéricas nacionales y regionales y las Cámaras nacionales de Comercio, Servicios y Turismo constituidas con anterioridad a la vigencia de esta Ley, continuarán operando aun y cuando no cumplan con lo establecido por esta Ley, en lo que se refiere a los requisitos para su constitución.
-ARTÍCULO SÉPTIMO.- Las Cámaras autorizadas por la Secretaría para operar el SIEM mantendrán la vigencia de su autorización previa a la publicación de esta Ley.
-ARTÍCULO OCTAVO.- La Secretaría, con la participación de las Cámaras y Confederaciones, elaborará un proyecto del Reglamento de esta Ley, en un plazo no mayor a seis meses de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+
+### ARTÍCULO PRIMERO
+Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+### ARTÍCULO SEGUNDO
+Se abroga la Ley de Cámaras Empresariales y sus Confederaciones, publicada en el Diario Oficial de la Federación el 20 de diciembre de 1996, así como sus reformas y adiciones.
+
+### ARTÍCULO TERCERO
+Las Cámaras de Industria específica regionales constituidas con anterioridad a la vigencia de esta Ley, continuarán operando en los términos en que hayan sido inicialmente autorizadas.
+
+### ARTÍCULO CUARTO
+Las Cámaras de Comercio en Pequeño constituidas con anterioridad a la vigencia de esta Ley, continuarán operando en los términos en que hayan sido inicialmente autorizadas.
+
+### ARTÍCULO QUINTO
+Se otorga un plazo de un año a todas las Cámaras y sus Confederaciones, para adecuar sus Estatutos a lo dispuesto en esta Ley.
+
+### ARTÍCULO SEXTO
+Las Cámaras específicas nacionales, genéricas nacionales y regionales y las Cámaras nacionales de Comercio, Servicios y Turismo constituidas con anterioridad a la vigencia de esta Ley, continuarán operando aun y cuando no cumplan con lo establecido por esta Ley, en lo que se refiere a los requisitos para su constitución.
+
+### ARTÍCULO SÉPTIMO
+Las Cámaras autorizadas por la Secretaría para operar el SIEM mantendrán la vigencia de su autorización previa a la publicación de esta Ley.
+
+### ARTÍCULO OCTAVO
+La Secretaría, con la participación de las Cámaras y Confederaciones, elaborará un proyecto del Reglamento de esta Ley, en un plazo no mayor a seis meses de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 14 de diciembre de 2004.- Sen. Diego Fernández de Cevallos Ramos, Presidente.Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip.
 Marcos Morales Torres, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Cámaras Empresariales y sus Confederaciones y del Código de Comercio.
-Publicado en el Diario Oficial de la Federación el 9 de junio de 2009 Artículo primero. Se reforman la fracción XI, del artículo 16 y se adiciona una fracción VIII, recorriéndose las fracciones VIII a X, manteniendo su contenido para quedar como fracciones IX, X y XI del artículo 22 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue: ……….
-TRANSITORIO Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Cámaras Empresariales y sus Confederaciones y del Código de Comercio.
+Publicado en el Diario Oficial de la Federación el 9 de junio de 2009
+
+### Artículo primero
+Se reforman la fracción XI, del artículo 16 y se adiciona una fracción VIII, recorriéndose las fracciones VIII a X, manteniendo su contenido para quedar como fracciones IX, X y XI del artículo 22 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue: ……….
+
+## TRANSITORIO
+
+**Único.** El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 30 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen.
 Ludivina Menchaca Castellanos, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic.
 Fernando Francisco Gómez Mont Urueta.- Rúbrica.
-LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES DECRETO por el que se adiciona la fracción XIV al artículo 7 de la Ley de Cámaras Empresariales y sus Confederaciones.
-Publicado en el Diario Oficial de la Federación el 12 de abril de 2019 Artículo Único.- Se adiciona la fracción XIV, recorriéndose la actual XIV para pasar a ser XV, al
+DECRETO por el que se adiciona la fracción XIV al artículo 7 de la Ley de Cámaras Empresariales y sus Confederaciones.
+Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
+
+### Artículo Único
+Se adiciona la fracción XIV, recorriéndose la actual XIV para pasar a ser XV, al
 
 ### artículo 7
 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue: ……..
-Transitorio Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+## Transitorio
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 28 de febrero de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Mariana Dunyaska García Rojas, Secretaria.- Sen. Antares G.
 Vázquez Alatorre, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.

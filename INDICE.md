@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **18/03/2026** — **84/315** leyes disponibles en Markdown (26%).
+> Última actualización: **19/03/2026** — **84/315** leyes disponibles en Markdown (26%).
 
 ---
 
