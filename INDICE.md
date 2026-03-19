@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **19/03/2026** — **84/315** leyes disponibles en Markdown (26%).
+> Última actualización: **19/03/2026** — **114/315** leyes disponibles en Markdown (36%).
 
 ---
 
@@ -90,36 +90,36 @@
 | 081 | LEY de Migración | DOF 15/01/2026 | [`LMigra_ley_de_migracion.md`](markdown/LMigra_ley_de_migracion.md) |
 | 082 | LEY de Minería (Antes "Ley Minera") | DOF 08/05/2023 | [`LMin_ley_de_mineria_antes_ley_minera.md`](markdown/LMin_ley_de_mineria_antes_ley_minera.md) |
 | 083 | LEY de Nacionalidad | DOF 23/04/2012 | [`LN_ley_de_nacionalidad.md`](markdown/LN_ley_de_nacionalidad.md) |
-| 084 | LEY de Navegación y Comercio Marítimos | DOF 14/11/2025 | — |
-| 085 | LEY de Obras Públicas y Servicios Relacionados con las Mismas | DOF 14/11/2025 | — |
-| 086 | LEY de Organizaciones Ganaderas | DOF 09/04/2012 | — |
-| 087 | LEY de Planeación | DOF 15/01/2026 | — |
-| 088 | LEY de Planeación y Transición Energética | Sin reforma | — |
-| 089 | LEY de Premios, Estímulos y Recompensas Civiles | DOF 01/04/2024 | — |
-| 090 | LEY de Productos Orgánicos | Sin reforma | — |
-| 091 | LEY de Protección al Ahorro Bancario | DOF 11/05/2022 | — |
-| 092 | LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional | DOF 09/04/2012 | — |
-| 093 | LEY de Protección del Espacio Aéreo Mexicano | Sin reforma | — |
-| 094 | LEY de Protección y Defensa al Usuario de Servicios Financieros | DOF 14/11/2025 | — |
-| 095 | LEY de Puertos | DOF 07/12/2020 | — |
-| 096 | LEY de Recompensas de la Armada de México | DOF 22/11/2021 | — |
-| 097 | LEY de Responsabilidad Civil por Daños Nucleares | DOF 14/11/2025 | — |
-| 098 | LEY de Seguridad Interior | DOF 30/05/2019 Sentencia SCJN | — |
-| 099 | LEY de Seguridad Nacional | DOF 14/11/2025 | — |
-| 100 | LEY de Sistemas de Pagos | DOF 14/11/2025 | — |
-| 101 | LEY de Sociedades de Responsabilidad Limitada de Interés Público | DOF 09/04/2012 | — |
-| 102 | LEY de Sociedades de Solidaridad Social | DOF 24/04/2018 | — |
-| 103 | LEY de Tesorería de la Federación | Sin reforma | — |
-| 104 | LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado | DOF 10/01/2014 | — |
-| 105 | LEY de Uniones de Crédito | DOF 14/11/2025 | — |
-| 106 | LEY de Vertimientos en las Zonas Marinas Mexicanas | DOF 14/11/2025 | — |
-| 107 | LEY de Vías Generales de Comunicación | DOF 14/11/2025 | — |
-| 108 | LEY de Vivienda | DOF 15/01/2026 | — |
-| 109 | LEY del Banco de México | DOF 10/01/2014 | — |
-| 110 | LEY del Diario Oficial de la Federación y Gacetas Gubernamentales | DOF 10/06/2019 | — |
-| 111 | LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | DOF 18/03/2025 | — |
-| 112 | LEY del Impuesto al Valor Agregado | DOF 12/11/2021 | — |
-| 113 | LEY del Impuesto Especial sobre Producción y Servicios | DOF 22/12/2025 | — |
+| 084 | LEY de Navegación y Comercio Marítimos | DOF 14/11/2025 | [`LNCM_ley_de_navegacion_y_comercio_maritimos.md`](markdown/LNCM_ley_de_navegacion_y_comercio_maritimos.md) |
+| 085 | LEY de Obras Públicas y Servicios Relacionados con las Mismas | DOF 14/11/2025 | [`LOPSRM_ley_de_obras_publicas_y_servicios_relacionados_con_las_mismas.md`](markdown/LOPSRM_ley_de_obras_publicas_y_servicios_relacionados_con_las_mismas.md) |
+| 086 | LEY de Organizaciones Ganaderas | DOF 09/04/2012 | [`LOG_ley_de_organizaciones_ganaderas.md`](markdown/LOG_ley_de_organizaciones_ganaderas.md) |
+| 087 | LEY de Planeación | DOF 15/01/2026 | [`LPlan_ley_de_planeacion.md`](markdown/LPlan_ley_de_planeacion.md) |
+| 088 | LEY de Planeación y Transición Energética | Sin reforma | [`LPTE_ley_de_planeacion_y_transicion_energetica.md`](markdown/LPTE_ley_de_planeacion_y_transicion_energetica.md) |
+| 089 | LEY de Premios, Estímulos y Recompensas Civiles | DOF 01/04/2024 | [`LPERC_ley_de_premios_estimulos_y_recompensas_civiles.md`](markdown/LPERC_ley_de_premios_estimulos_y_recompensas_civiles.md) |
+| 090 | LEY de Productos Orgánicos | Sin reforma | [`LPO_ley_de_productos_organicos.md`](markdown/LPO_ley_de_productos_organicos.md) |
+| 091 | LEY de Protección al Ahorro Bancario | DOF 11/05/2022 | [`LPAB_ley_de_proteccion_al_ahorro_bancario.md`](markdown/LPAB_ley_de_proteccion_al_ahorro_bancario.md) |
+| 092 | LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional | DOF 09/04/2012 | [`LPCINECD_ley_de_proteccion_al_comercio_y_la_inversion_de_normas_extranjeras_que.md`](markdown/LPCINECD_ley_de_proteccion_al_comercio_y_la_inversion_de_normas_extranjeras_que.md) |
+| 093 | LEY de Protección del Espacio Aéreo Mexicano | Sin reforma | [`LPEAM_ley_de_proteccion_del_espacio_aereo_mexicano.md`](markdown/LPEAM_ley_de_proteccion_del_espacio_aereo_mexicano.md) |
+| 094 | LEY de Protección y Defensa al Usuario de Servicios Financieros | DOF 14/11/2025 | [`LPDUSF_ley_de_proteccion_y_defensa_al_usuario_de_servicios_financieros.md`](markdown/LPDUSF_ley_de_proteccion_y_defensa_al_usuario_de_servicios_financieros.md) |
+| 095 | LEY de Puertos | DOF 07/12/2020 | [`LP_ley_de_puertos.md`](markdown/LP_ley_de_puertos.md) |
+| 096 | LEY de Recompensas de la Armada de México | DOF 22/11/2021 | [`LRAM_ley_de_recompensas_de_la_armada_de_mexico.md`](markdown/LRAM_ley_de_recompensas_de_la_armada_de_mexico.md) |
+| 097 | LEY de Responsabilidad Civil por Daños Nucleares | DOF 14/11/2025 | [`LRCDN_ley_de_responsabilidad_civil_por_danos_nucleares.md`](markdown/LRCDN_ley_de_responsabilidad_civil_por_danos_nucleares.md) |
+| 098 | LEY de Seguridad Interior | DOF 30/05/2019 Sentencia SCJN | [`LSInt_ley_de_seguridad_interior.md`](markdown/LSInt_ley_de_seguridad_interior.md) |
+| 099 | LEY de Seguridad Nacional | DOF 14/11/2025 | [`LSN_ley_de_seguridad_nacional.md`](markdown/LSN_ley_de_seguridad_nacional.md) |
+| 100 | LEY de Sistemas de Pagos | DOF 14/11/2025 | [`LSP_ley_de_sistemas_de_pagos.md`](markdown/LSP_ley_de_sistemas_de_pagos.md) |
+| 101 | LEY de Sociedades de Responsabilidad Limitada de Interés Público | DOF 09/04/2012 | [`LSRLIP_ley_de_sociedades_de_responsabilidad_limitada_de_interes_publico.md`](markdown/LSRLIP_ley_de_sociedades_de_responsabilidad_limitada_de_interes_publico.md) |
+| 102 | LEY de Sociedades de Solidaridad Social | DOF 24/04/2018 | [`LSSS_ley_de_sociedades_de_solidaridad_social.md`](markdown/LSSS_ley_de_sociedades_de_solidaridad_social.md) |
+| 103 | LEY de Tesorería de la Federación | Sin reforma | [`LTF_ley_de_tesoreria_de_la_federacion.md`](markdown/LTF_ley_de_tesoreria_de_la_federacion.md) |
+| 104 | LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado | DOF 10/01/2014 | [`LTFCCG_ley_de_transparencia_y_de_fomento_a_la_competencia_en_el_credito_garan.md`](markdown/LTFCCG_ley_de_transparencia_y_de_fomento_a_la_competencia_en_el_credito_garan.md) |
+| 105 | LEY de Uniones de Crédito | DOF 14/11/2025 | [`LUC_ley_de_uniones_de_credito.md`](markdown/LUC_ley_de_uniones_de_credito.md) |
+| 106 | LEY de Vertimientos en las Zonas Marinas Mexicanas | DOF 14/11/2025 | [`LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas.md`](markdown/LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas.md) |
+| 107 | LEY de Vías Generales de Comunicación | DOF 14/11/2025 | [`LVGC_ley_de_vias_generales_de_comunicacion.md`](markdown/LVGC_ley_de_vias_generales_de_comunicacion.md) |
+| 108 | LEY de Vivienda | DOF 15/01/2026 | [`LViv_ley_de_vivienda.md`](markdown/LViv_ley_de_vivienda.md) |
+| 109 | LEY del Banco de México | DOF 10/01/2014 | [`LBM_ley_del_banco_de_mexico.md`](markdown/LBM_ley_del_banco_de_mexico.md) |
+| 110 | LEY del Diario Oficial de la Federación y Gacetas Gubernamentales | DOF 10/06/2019 | [`LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales.md`](markdown/LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales.md) |
+| 111 | LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | DOF 18/03/2025 | [`LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr.md`](markdown/LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr.md) |
+| 112 | LEY del Impuesto al Valor Agregado | DOF 12/11/2021 | [`LIVA_ley_del_impuesto_al_valor_agregado.md`](markdown/LIVA_ley_del_impuesto_al_valor_agregado.md) |
+| 113 | LEY del Impuesto Especial sobre Producción y Servicios | DOF 22/12/2025 | [`LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.md`](markdown/LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.md) |
 | 114 | LEY del Impuesto sobre la Renta | DOF 01/04/2024 | [`LISR_ley_del_impuesto_sobre_la_renta.md`](markdown/LISR_ley_del_impuesto_sobre_la_renta.md) |
 | 115 | LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | Notificación 15/01/2026 Sentencia SCJN | — |
 | 116 | LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | DOF 15/01/2026 | — |
@@ -423,36 +423,36 @@ python scripts/gen_indice.py
 | 081 | LEY de Migración | DOF 15/01/2026 | [`LMigra_ley_de_migracion.md`](markdown/LMigra_ley_de_migracion.md) |
 | 082 | LEY de Minería (Antes "Ley Minera") | DOF 08/05/2023 | [`LMin_ley_de_mineria_antes_ley_minera.md`](markdown/LMin_ley_de_mineria_antes_ley_minera.md) |
 | 083 | LEY de Nacionalidad | DOF 23/04/2012 | [`LN_ley_de_nacionalidad.md`](markdown/LN_ley_de_nacionalidad.md) |
-| 084 | LEY de Navegación y Comercio Marítimos | DOF 14/11/2025 | — |
-| 085 | LEY de Obras Públicas y Servicios Relacionados con las Mismas | DOF 14/11/2025 | — |
-| 086 | LEY de Organizaciones Ganaderas | DOF 09/04/2012 | — |
-| 087 | LEY de Planeación | DOF 15/01/2026 | — |
-| 088 | LEY de Planeación y Transición Energética | Sin reforma | — |
-| 089 | LEY de Premios, Estímulos y Recompensas Civiles | DOF 01/04/2024 | — |
-| 090 | LEY de Productos Orgánicos | Sin reforma | — |
-| 091 | LEY de Protección al Ahorro Bancario | DOF 11/05/2022 | — |
-| 092 | LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional | DOF 09/04/2012 | — |
-| 093 | LEY de Protección del Espacio Aéreo Mexicano | Sin reforma | — |
-| 094 | LEY de Protección y Defensa al Usuario de Servicios Financieros | DOF 14/11/2025 | — |
-| 095 | LEY de Puertos | DOF 07/12/2020 | — |
-| 096 | LEY de Recompensas de la Armada de México | DOF 22/11/2021 | — |
-| 097 | LEY de Responsabilidad Civil por Daños Nucleares | DOF 14/11/2025 | — |
-| 098 | LEY de Seguridad Interior | DOF 30/05/2019 Sentencia SCJN | — |
-| 099 | LEY de Seguridad Nacional | DOF 14/11/2025 | — |
-| 100 | LEY de Sistemas de Pagos | DOF 14/11/2025 | — |
-| 101 | LEY de Sociedades de Responsabilidad Limitada de Interés Público | DOF 09/04/2012 | — |
-| 102 | LEY de Sociedades de Solidaridad Social | DOF 24/04/2018 | — |
-| 103 | LEY de Tesorería de la Federación | Sin reforma | — |
-| 104 | LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado | DOF 10/01/2014 | — |
-| 105 | LEY de Uniones de Crédito | DOF 14/11/2025 | — |
-| 106 | LEY de Vertimientos en las Zonas Marinas Mexicanas | DOF 14/11/2025 | — |
-| 107 | LEY de Vías Generales de Comunicación | DOF 14/11/2025 | — |
-| 108 | LEY de Vivienda | DOF 15/01/2026 | — |
-| 109 | LEY del Banco de México | DOF 10/01/2014 | — |
-| 110 | LEY del Diario Oficial de la Federación y Gacetas Gubernamentales | DOF 10/06/2019 | — |
-| 111 | LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | DOF 18/03/2025 | — |
-| 112 | LEY del Impuesto al Valor Agregado | DOF 12/11/2021 | — |
-| 113 | LEY del Impuesto Especial sobre Producción y Servicios | DOF 22/12/2025 | — |
+| 084 | LEY de Navegación y Comercio Marítimos | DOF 14/11/2025 | [`LNCM_ley_de_navegacion_y_comercio_maritimos.md`](markdown/LNCM_ley_de_navegacion_y_comercio_maritimos.md) |
+| 085 | LEY de Obras Públicas y Servicios Relacionados con las Mismas | DOF 14/11/2025 | [`LOPSRM_ley_de_obras_publicas_y_servicios_relacionados_con_las_mismas.md`](markdown/LOPSRM_ley_de_obras_publicas_y_servicios_relacionados_con_las_mismas.md) |
+| 086 | LEY de Organizaciones Ganaderas | DOF 09/04/2012 | [`LOG_ley_de_organizaciones_ganaderas.md`](markdown/LOG_ley_de_organizaciones_ganaderas.md) |
+| 087 | LEY de Planeación | DOF 15/01/2026 | [`LPlan_ley_de_planeacion.md`](markdown/LPlan_ley_de_planeacion.md) |
+| 088 | LEY de Planeación y Transición Energética | Sin reforma | [`LPTE_ley_de_planeacion_y_transicion_energetica.md`](markdown/LPTE_ley_de_planeacion_y_transicion_energetica.md) |
+| 089 | LEY de Premios, Estímulos y Recompensas Civiles | DOF 01/04/2024 | [`LPERC_ley_de_premios_estimulos_y_recompensas_civiles.md`](markdown/LPERC_ley_de_premios_estimulos_y_recompensas_civiles.md) |
+| 090 | LEY de Productos Orgánicos | Sin reforma | [`LPO_ley_de_productos_organicos.md`](markdown/LPO_ley_de_productos_organicos.md) |
+| 091 | LEY de Protección al Ahorro Bancario | DOF 11/05/2022 | [`LPAB_ley_de_proteccion_al_ahorro_bancario.md`](markdown/LPAB_ley_de_proteccion_al_ahorro_bancario.md) |
+| 092 | LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional | DOF 09/04/2012 | [`LPCINECD_ley_de_proteccion_al_comercio_y_la_inversion_de_normas_extranjeras_que.md`](markdown/LPCINECD_ley_de_proteccion_al_comercio_y_la_inversion_de_normas_extranjeras_que.md) |
+| 093 | LEY de Protección del Espacio Aéreo Mexicano | Sin reforma | [`LPEAM_ley_de_proteccion_del_espacio_aereo_mexicano.md`](markdown/LPEAM_ley_de_proteccion_del_espacio_aereo_mexicano.md) |
+| 094 | LEY de Protección y Defensa al Usuario de Servicios Financieros | DOF 14/11/2025 | [`LPDUSF_ley_de_proteccion_y_defensa_al_usuario_de_servicios_financieros.md`](markdown/LPDUSF_ley_de_proteccion_y_defensa_al_usuario_de_servicios_financieros.md) |
+| 095 | LEY de Puertos | DOF 07/12/2020 | [`LP_ley_de_puertos.md`](markdown/LP_ley_de_puertos.md) |
+| 096 | LEY de Recompensas de la Armada de México | DOF 22/11/2021 | [`LRAM_ley_de_recompensas_de_la_armada_de_mexico.md`](markdown/LRAM_ley_de_recompensas_de_la_armada_de_mexico.md) |
+| 097 | LEY de Responsabilidad Civil por Daños Nucleares | DOF 14/11/2025 | [`LRCDN_ley_de_responsabilidad_civil_por_danos_nucleares.md`](markdown/LRCDN_ley_de_responsabilidad_civil_por_danos_nucleares.md) |
+| 098 | LEY de Seguridad Interior | DOF 30/05/2019 Sentencia SCJN | [`LSInt_ley_de_seguridad_interior.md`](markdown/LSInt_ley_de_seguridad_interior.md) |
+| 099 | LEY de Seguridad Nacional | DOF 14/11/2025 | [`LSN_ley_de_seguridad_nacional.md`](markdown/LSN_ley_de_seguridad_nacional.md) |
+| 100 | LEY de Sistemas de Pagos | DOF 14/11/2025 | [`LSP_ley_de_sistemas_de_pagos.md`](markdown/LSP_ley_de_sistemas_de_pagos.md) |
+| 101 | LEY de Sociedades de Responsabilidad Limitada de Interés Público | DOF 09/04/2012 | [`LSRLIP_ley_de_sociedades_de_responsabilidad_limitada_de_interes_publico.md`](markdown/LSRLIP_ley_de_sociedades_de_responsabilidad_limitada_de_interes_publico.md) |
+| 102 | LEY de Sociedades de Solidaridad Social | DOF 24/04/2018 | [`LSSS_ley_de_sociedades_de_solidaridad_social.md`](markdown/LSSS_ley_de_sociedades_de_solidaridad_social.md) |
+| 103 | LEY de Tesorería de la Federación | Sin reforma | [`LTF_ley_de_tesoreria_de_la_federacion.md`](markdown/LTF_ley_de_tesoreria_de_la_federacion.md) |
+| 104 | LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado | DOF 10/01/2014 | [`LTFCCG_ley_de_transparencia_y_de_fomento_a_la_competencia_en_el_credito_garan.md`](markdown/LTFCCG_ley_de_transparencia_y_de_fomento_a_la_competencia_en_el_credito_garan.md) |
+| 105 | LEY de Uniones de Crédito | DOF 14/11/2025 | [`LUC_ley_de_uniones_de_credito.md`](markdown/LUC_ley_de_uniones_de_credito.md) |
+| 106 | LEY de Vertimientos en las Zonas Marinas Mexicanas | DOF 14/11/2025 | [`LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas.md`](markdown/LVZMM_ley_de_vertimientos_en_las_zonas_marinas_mexicanas.md) |
+| 107 | LEY de Vías Generales de Comunicación | DOF 14/11/2025 | [`LVGC_ley_de_vias_generales_de_comunicacion.md`](markdown/LVGC_ley_de_vias_generales_de_comunicacion.md) |
+| 108 | LEY de Vivienda | DOF 15/01/2026 | [`LViv_ley_de_vivienda.md`](markdown/LViv_ley_de_vivienda.md) |
+| 109 | LEY del Banco de México | DOF 10/01/2014 | [`LBM_ley_del_banco_de_mexico.md`](markdown/LBM_ley_del_banco_de_mexico.md) |
+| 110 | LEY del Diario Oficial de la Federación y Gacetas Gubernamentales | DOF 10/06/2019 | [`LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales.md`](markdown/LDOFGG_ley_del_diario_oficial_de_la_federacion_y_gacetas_gubernamentales.md) |
+| 111 | LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo | DOF 18/03/2025 | [`LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr.md`](markdown/LFMPED_ley_del_fondo_mexicano_del_petroleo_para_la_estabilizacion_y_el_desarr.md) |
+| 112 | LEY del Impuesto al Valor Agregado | DOF 12/11/2021 | [`LIVA_ley_del_impuesto_al_valor_agregado.md`](markdown/LIVA_ley_del_impuesto_al_valor_agregado.md) |
+| 113 | LEY del Impuesto Especial sobre Producción y Servicios | DOF 22/12/2025 | [`LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.md`](markdown/LIEPS_ley_del_impuesto_especial_sobre_produccion_y_servicios.md) |
 | 114 | LEY del Impuesto sobre la Renta | DOF 01/04/2024 | [`LISR_ley_del_impuesto_sobre_la_renta.md`](markdown/LISR_ley_del_impuesto_sobre_la_renta.md) |
 | 115 | LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas | Notificación 15/01/2026 Sentencia SCJN | — |
 | 116 | LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado | DOF 15/01/2026 | — |

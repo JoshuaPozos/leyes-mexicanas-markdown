@@ -2,6 +2,44 @@
 
 Todos los cambios relevantes de este proyecto se documentan aquí.
 
+## [Lote 9 — Leyes 084-113] — 2026-03-19
+
+### Leyes publicadas (30)
+| No. | Clave | Ley |
+|-----|-------|-----|
+| 084 | LNCM | Ley de Navegación y Comercio Marítimos |
+| 085 | LOPSRM | Ley de Obras Públicas y Servicios Relacionados con las Mismas |
+| 086 | LOG | Ley de Organizaciones Ganaderas |
+| 087 | LPlan | Ley de Planeación |
+| 088 | LPTE | Ley de Planeación y Transición Energética |
+| 089 | LPERC | Ley de Premios, Estímulos y Recompensas Civiles |
+| 090 | LPO | Ley de Productos Orgánicos |
+| 091 | LPAB | Ley de Protección al Ahorro Bancario |
+| 092 | LPCINECD | Ley de Protección al Comercio y la Inversión de Normas Extranjeras |
+| 093 | LPEAM | Ley de Protección del Espacio Aéreo Mexicano |
+| 094 | LPDUSF | Ley de Protección y Defensa al Usuario de Servicios Financieros |
+| 095 | LP | Ley de Puertos |
+| 096 | LRAM | Ley de Recompensas de la Armada de México |
+| 097 | LRCDN | Ley de Responsabilidad Civil por Daños Nucleares |
+| 098 | LSInt | Ley de Seguridad Interior |
+| 099 | LSN | Ley de Seguridad Nacional |
+| 100 | LSP | Ley de Sistemas de Pagos |
+| 101 | LSRLIP | Ley de Sociedades de Responsabilidad Limitada de Interés Público |
+| 102 | LSSS | Ley de Sociedades de Solidaridad Social |
+| 103 | LTF | Ley de Tesorería de la Federación |
+| 104 | LTFCCG | Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado |
+| 105 | LUC | Ley de Uniones de Crédito |
+| 106 | LVZMM | Ley de Vertimientos en las Zonas Marinas Mexicanas |
+| 107 | LVGC | Ley de Vías Generales de Comunicación |
+| 108 | LViv | Ley de Vivienda |
+| 109 | LBM | Ley del Banco de México |
+| 110 | LDOFGG | Ley del Diario Oficial de la Federación y Gacetas Gubernamentales |
+| 111 | LFMPED | Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo |
+| 112 | LIVA | Ley del Impuesto al Valor Agregado |
+| 113 | LIEPS | Ley del Impuesto Especial sobre Producción y Servicios |
+
+A partir del lote 9 los lotes son de 30 leyes.
+
 ## [Fix TODOS — Mejoras pdf_to_md.py] — 2026-03-19
 
 ### Correcciones aplicadas al script de conversión (5 fixes)
