@@ -301,10 +301,10 @@ for img in page.images:
 | 3 | "Transitorios" sin formato heading | Media | ✅ Resuelto (74 archivos) |
 | 4 | "ARTÍCULO TERCERO..." sin heading | Media | ✅ Resuelto (58 archivos) |
 | 5 | Ordinales sin negritas | Media | ✅ Resuelto (77 archivos) |
-| 6 | Nombres de sección descriptivos | Baja | ⏳ Pendiente |
+| 6 | Nombres de sección descriptivos | Baja | ✅ Resuelto (114 archivos, ~48 FP eliminados) |
 | 7 | Fracciones romanas (I., II., III.) sin separar | Alta | ✅ Resuelto (114 archivos) |
 | 8 | Sub-incisos a), b), c) inline | Alta | ✅ Resuelto (114 archivos) |
-| 9 | Tablas-imagen no extraídas del PDF | Media-Alta | ⏳ Pendiente |
+| 9 | Tablas-imagen no extraídas del PDF | Media-Alta | ✅ Resuelto (placeholders, 114 archivos) |
 
 ---
 
@@ -315,3 +315,4 @@ for img in page.images:
 - El issue 6 queda pendiente (requiere análisis de coordenadas del PDF).
 - Los issues 7-9 fueron documentados el 2026-03-19. Aplican a todos los archivos convertidos.
 - Los issues 7-8 fueron corregidos en `scripts/pdf_to_md.py` y los 114 archivos reconvertidos (commit `e72b398`).
+- Los issues 6 y 9 fueron corregidos: nombres descriptivos de sección con `—`, placeholders para tablas-imagen, ~48 falsos positivos eliminados (commit `a0912fa`).
