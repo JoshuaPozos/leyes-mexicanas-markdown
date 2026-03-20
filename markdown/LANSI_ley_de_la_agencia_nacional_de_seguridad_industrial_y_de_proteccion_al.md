@@ -13,7 +13,12 @@ ARTÍCULOS PRIMERO Y SEGUNDO. ……….
 
 ### ARTÍCULO TERCERO
 Se expide la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos:
-LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS TÍTULO PRIMERO Disposiciones Generales Capítulo Único Naturaleza y Objeto
+LEY DE LA AGENCIA NACIONAL DE SEGURIDAD INDUSTRIAL Y DE PROTECCIÓN AL MEDIO AMBIENTE DEL SECTOR HIDROCARBUROS
+
+## TÍTULO PRIMERO — Disposiciones Generales
+
+## Capítulo Único
+Naturaleza y Objeto
 
 ### Artículo 1o
 .- La presente Ley es de orden público e interés general y de aplicación en todo el territorio nacional y zonas en las que la Nación ejerce soberanía o jurisdicción y tiene como objeto crear la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, como un órgano administrativo desconcentrado de la Secretaría de Medio Ambiente y Recursos Naturales, con autonomía técnica y de gestión.
@@ -69,7 +74,9 @@ XVI. Supervisión: Acto de autoridad mediante el cual la Agencia verifica, inspe
 
 ### Artículo 4o
 .- En lo no previsto por la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley de Hidrocarburos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Desarrollo Forestal Sustentable, la Ley de Bioseguridad de Organismos Genéticamente Modificados, y la Ley Federal de Procedimiento Administrativo.
-TÍTULO SEGUNDO Atribuciones de la Agencia y Bases de Coordinación
+
+## TÍTULO SEGUNDO
+Atribuciones de la Agencia y Bases de Coordinación
 
 ## Capítulo I
 Atribuciones de la Agencia
@@ -363,10 +370,11 @@ IV. El carácter intencional o negligente de la acción u omisión constitutiva 
 
 V. El beneficio directamente obtenido por el infractor por los actos relacionados con la imposición de sanciones.
 En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Agencia imponga una sanción, dicha autoridad podrá considerar tal situación como atenuante de la infracción cometida.
-TÍTULO TERCERO Integración y Funcionamiento de la Agencia
 
-## Capítulo I
-Disposiciones Generales
+## TÍTULO TERCERO
+Integración y Funcionamiento de la Agencia
+
+## Capítulo I — Disposiciones Generales
 
 ### Artículo 27
 .- La Agencia estará a cargo de la persona Titular de la Dirección Ejecutiva, quien será designada y removida libremente por el Ejecutivo Federal.
@@ -388,8 +396,8 @@ Las audiencias serán grabadas y almacenadas en medios electrónicos, ópticos o
 Lo dispuesto en el presente artículo será sin perjuicio de la participación de los servidores públicos en foros y eventos públicos.
 El Director Ejecutivo de la Agencia, mediante acuerdo administrativo interno, emitirá los lineamientos que regulen el desarrollo de las audiencias previstas en el presente artículo.
 
-## Capítulo II
-Del Director Ejecutivo SECTOR HIDROCARBUROS
+## Capítulo II — Del Director Ejecutivo
+SECTOR HIDROCARBUROS
 
 ### Artículo 30
 .- El Director Ejecutivo deberá reunir los siguientes requisitos:
@@ -460,7 +468,9 @@ Artículo reformado DOF 11-05-2022 SECTOR HIDROCARBUROS
 Para tal fin, la Agencia creará anualmente las provisiones presupuestarias correspondientes en su presupuesto de gasto de operación.
 
 ## TÍTULO CUARTO
-Ingresos y Presupuesto Capítulo Único
+Ingresos y Presupuesto
+
+## Capítulo Único
 
 ### Artículo 36
 .- La Agencia podrá disponer de los ingresos derivados de los derechos y aprovechamientos que se establezcan por los servicios que correspondan conforme a sus atribuciones para financiar su presupuesto total.

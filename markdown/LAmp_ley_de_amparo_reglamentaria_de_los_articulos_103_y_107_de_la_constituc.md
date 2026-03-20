@@ -12,10 +12,11 @@ SE EXPIDE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONS
 
 ### ARTÍCULO PRIMERO
 Se expide la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
-TÍTULO PRIMERO Reglas Generales
 
-## CAPÍTULO I
-Disposiciones Fundamentales
+## TÍTULO PRIMERO
+Reglas Generales
+
+## CAPÍTULO I — Disposiciones Fundamentales
 
 ### Artículo 1o
 . El juicio de amparo tiene por objeto resolver toda controversia que se suscite:
@@ -372,7 +373,10 @@ Se entiende generada la constancia cuando el sistema electrónico del Poder Judi
 . Serán nulas las notificaciones que no se hicieren en la forma que establecen las disposiciones precedentes.
 
 ## CAPÍTULO V
-Competencia Sección Primera Reglas de Competencia
+Competencia
+
+## Sección Primera
+Reglas de Competencia
 
 ### Artículo 33
 . Son competentes para conocer del juicio de amparo:
@@ -426,7 +430,10 @@ II. Recibidos los autos se turnará el asunto al ministro o ministra que corresp
 
 III. Transcurrido el plazo anterior, el dictamen será discutido por el tribunal pleno dentro de los tres días siguientes.
 Si el Pleno decide ejercer la facultad de atracción se avocará al conocimiento; en caso contrario, devolverá los autos al tribunal de origen.
-Artículo reformado DOF 20-05-2021, 07-06-2021, 13-03-2025 Sección Segunda Conflictos Competenciales
+Artículo reformado DOF 20-05-2021, 07-06-2021, 13-03-2025
+
+## Sección Segunda
+Conflictos Competenciales
 
 ### Artículo 41
 . Ningún órgano jurisdiccional puede sostener competencia a su superior.
@@ -598,10 +605,7 @@ ESTADOS UNIDOS MEXICANOS
 
 VII. Contra las resoluciones o declaraciones del Congreso Federal o de las Cámaras que lo constituyen, de las Legislaturas de los Estados o de sus respectivas Comisiones o Diputaciones Permanentes, en declaración de procedencia y en juicio político, así como en elección, suspensión o remoción de funcionarios en los casos en que las Constituciones correspondientes les confieran la facultad de resolver soberana o discrecionalmente;
 
-VIII. Contra normas generales respecto de las cuales la Suprema Corte de Justicia de la Nación haya emitido una declaratoria general de inconstitucionalidad en términos de lo dispuesto por el
-
-## Capítulo VI del Título Cuarto de esta Ley, o en términos de lo dispuesto por la Ley
-Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
+VIII. Contra normas generales respecto de las cuales la Suprema Corte de Justicia de la Nación haya emitido una declaratoria general de inconstitucionalidad en términos de lo dispuesto por el Capítulo VI del Título Cuarto de esta Ley, o en términos de lo dispuesto por la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
 IX. Contra resoluciones dictadas en los juicios de amparo o en ejecución de las mismas;
 
@@ -697,7 +701,9 @@ Incidentes
 ### Artículo 67
 . En el escrito con el cual se inicia el incidente deberán ofrecerse las pruebas en que se funde. Se dará vista a las partes por el plazo de tres días, para que manifiesten lo que a su interés convenga y ofrezcan las pruebas que estimen pertinentes. Atendiendo a la naturaleza del caso, el órgano jurisdiccional determinará si se requiere un plazo probatorio más amplio y si suspende o no el procedimiento.
 Transcurrido el plazo anterior, dentro de los tres días siguientes se celebrará la audiencia en la que se recibirán y desahogarán las pruebas, se oirán los alegatos de las partes y, en su caso, se dictará la resolución correspondiente.
-Sección Primera Nulidad de Notificaciones ESTADOS UNIDOS MEXICANOS
+
+## Sección Primera
+Nulidad de Notificaciones ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 68
 . Antes de la sentencia definitiva las partes podrán pedir la nulidad de notificaciones en el expediente que la hubiere motivado, en la siguiente actuación en que comparezcan. Dictada la sentencia definitiva, podrán pedir la nulidad de las notificaciones realizadas con posterioridad a ésta, en la siguiente actuación que comparezcan.
@@ -706,7 +712,9 @@ Las promociones de nulidad notoriamente improcedentes se desecharán de plano.
 
 ### Artículo 69
 . Declarada la nulidad, se repondrá el procedimiento a partir de la actuación anulada.
-Sección Segunda Reposición de Constancias de Autos
+
+## Sección Segunda
+Reposición de Constancias de Autos
 
 ### Artículo 70
 . El incidente de reposición de constancias de autos se tramitará a petición de parte o de oficio, en ambos casos, se certificará su preexistencia y falta posterior. Este incidente no será procedente si el expediente electrónico a que hace referencia el artículo 3o de esta Ley permanece sin alteración alguna, siendo únicamente necesario, en tal caso, que el órgano jurisdiccional realice la copia impresa y certificada de dicho expediente digital.
@@ -820,7 +828,10 @@ Para el caso de que los recursos se presenten de manera electrónica, se podrá 
 
 ### Artículo 80
 Bis. La Suprema Corte de Justicia de la Nación de oficio o a petición fundada del tribunal colegiado que conozca del asunto, de la persona titular de la Fiscalía General de la República, del Ministerio Público de la Federación que sea parte, o de la persona titular del Poder Ejecutivo Federal, por conducto de la o del titular de la Consejería Jurídica del Ejecutivo Federal, podrá atraer cualquiera de los recursos a los que se refiere esta Ley cuando su interés y trascendencia lo ameriten.
-Artículo adicionado DOF 07-06-2021 Sección Primera Recurso de Revisión
+Artículo adicionado DOF 07-06-2021
+
+## Sección Primera
+Recurso de Revisión
 
 ### Artículo 81
 . Procede el recurso de revisión:
@@ -917,7 +928,9 @@ VII. Sólo tomará en consideración las pruebas que se hubiesen rendido ante la
 
 ### Artículo 96
 . Cuando se trate de revisión de sentencias pronunciadas en materia de amparo directo por tribunales colegiados de circuito, la Suprema Corte de Justicia de la Nación resolverá únicamente sobre la constitucionalidad de la norma general impugnada, o sobre la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos o de los derechos humanos establecidos en los tratados internacionales de los que el Estado Mexicano sea parte.
-Sección Segunda Recurso de Queja
+
+## Sección Segunda
+Recurso de Queja
 
 ### Artículo 97
 . El recurso de queja procede:
@@ -983,7 +996,10 @@ Artículo reformado DOF 07-06-2021, 13-03-2025
 
 ### Artículo 103
 . En caso de resultar fundado el recurso se dictará la resolución que corresponda sin necesidad de reenvío, salvo que la resolución implique la reposición del procedimiento. En este caso, quedará sin efecto la resolución recurrida y se ordenará al que la hubiere emitido dictar otra, debiendo precisar los efectos concretos a que deba sujetarse su cumplimiento.
-ESTADOS UNIDOS MEXICANOS Sección Tercera Recurso de Reclamación
+ESTADOS UNIDOS MEXICANOS
+
+## Sección Tercera
+Recurso de Reclamación
 
 ### Artículo 104
 . El recurso de reclamación es procedente contra los acuerdos de trámite dictados por la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación o por las personas titulares de la presidencia de los tribunales colegiados de circuito.
@@ -997,10 +1013,15 @@ Artículo reformado DOF 13-03-2025
 
 ### Artículo 106
 . La reclamación fundada deja sin efectos el acuerdo recurrido y obliga a la persona titular de la presidencia que lo hubiere emitido a dictar el que corresponda.
-Artículo reformado DOF 13-03-2025 TÍTULO SEGUNDO De los Procedimientos de Amparo
+Artículo reformado DOF 13-03-2025
+
+## TÍTULO SEGUNDO — De los Procedimientos de Amparo
 
 ## CAPÍTULO I
-El Amparo Indirecto Sección Primera Procedencia y Demanda
+El Amparo Indirecto
+
+## Sección Primera
+Procedencia y Demanda
 
 ### Artículo 107
 . El amparo indirecto procede:
@@ -1101,7 +1122,10 @@ II. Con independencia de lo previsto en la fracción anterior, la persona quejos
 de esta Ley.
 Fracción reformada DOF 13-03-2025, 16-10-2025 En el caso de la fracción II, la demanda podrá ampliarse dentro de los plazos referidos en este artículo, siempre que no se haya celebrado la audiencia constitucional o bien presentar una nueva demanda.
 No procederá la ampliación de demanda fuera de los casos expresamente previstos en este artículo.
-Párrafo adicionado DOF 16-10-2025 Sección Segunda Substanciación
+Párrafo adicionado DOF 16-10-2025
+
+## Sección Segunda
+Substanciación
 
 ### Artículo 112
 . Dentro del plazo de veinticuatro horas contado desde que la demanda fue presentada, o en su caso turnada, el órgano jurisdiccional deberá resolver si desecha, previene o admite.
@@ -1185,7 +1209,9 @@ Párrafo reformado DOF 13-03-2025 Si se trata de actuaciones concluidas, podrán
 . Las audiencias serán públicas. Abierta la audiencia, se procederá a la relación de constancias, videograbaciones analizadas íntegramente y pruebas desahogadas, y se recibirán, por su orden, las que falten por desahogarse y los alegatos por escrito que formulen las partes; acto continuo se dictará el fallo que corresponda en un plazo que no podrá exceder de noventa días naturales.
 Párrafo reformado DOF 17-06-2016, 16-10-2025 La persona quejosa podrá alegar verbalmente cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, asentándose en autos extracto de sus alegaciones, si lo solicitare.
 Párrafo reformado DOF 13-03-2025 En los asuntos del orden administrativo, en la sentencia se analizará el acto reclamado considerando la fundamentación y motivación que para complementarlo haya expresado la autoridad responsable en el informe justificado. Ante la falta o insuficiencia de aquéllas, en la sentencia concesoria se estimará que el referido acto presenta un vicio de fondo que impide a la autoridad su reiteración.
-Sección Tercera Suspensión del Acto Reclamado ESTADOS UNIDOS MEXICANOS Primera Parte Reglas Generales
+
+## Sección Tercera
+Suspensión del Acto Reclamado ESTADOS UNIDOS MEXICANOS Primera Parte Reglas Generales
 
 ### Artículo 125
 . La suspensión del acto reclamado se decretará de oficio o a petición de la persona quejosa.
@@ -1490,7 +1516,10 @@ Párrafo adicionado DOF 16-10-2025
 Artículo reformado DOF 13-03-2025
 
 ## CAPÍTULO II
-El Amparo Directo Sección Primera Procedencia
+El Amparo Directo
+
+## Sección Primera
+Procedencia
 
 ### Artículo 170
 . El juicio de amparo directo procede:
@@ -1636,7 +1665,9 @@ Apartado con fracciones adicionado DOF 17-06-2016 Artículo reestructurado DOF 1
 . En la demanda de amparo principal y en su caso, en la adhesiva la persona quejosa deberá hacer valer todas las violaciones procesales que estime se cometieron; las que no se hagan valer se tendrán por consentidas. Asimismo, precisará la forma en que trascendieron en su perjuicio al resultado del fallo.
 Párrafo reformado DOF 13-03-2025 El tribunal colegiado de circuito, deberá decidir respecto de todas las violaciones procesales que se hicieron valer y aquellas que, en su caso, advierta en suplencia de la queja.
 Si las violaciones procesales no se invocaron en un primer amparo, ni el tribunal colegiado correspondiente las hizo valer de oficio en los casos en que proceda la suplencia de la queja, no podrán ser materia de concepto de violación ni de estudio oficioso en juicio de amparo posterior.
-Sección Segunda Demanda
+
+## Sección Segunda
+Demanda
 
 ### Artículo 175
 . La demanda de amparo directo deberá formularse por escrito, en el que se expresarán:
@@ -1679,7 +1710,10 @@ II. Correr traslado a la o el tercero interesado, en el último domicilio que ha
 
 III. Rendir el informe con justificación acompañando la demanda de amparo, los autos del juicio de origen con sus anexos y la constancia de traslado a las partes. Deberá dejar copia certificada de las actuaciones que estime necesarias para la ejecución de la resolución reclamada o para proveer respecto de la suspensión.
 En el sistema procesal penal acusatorio, se acompañará un índice cronológico del desahogo de la audiencia en la que se haya dictado el acto reclamado, en el que se indique el orden de intervención de cada una de las partes.
-Párrafo adicionado DOF 17-06-2016 Sección Tercera Substanciación
+Párrafo adicionado DOF 17-06-2016
+
+## Sección Tercera
+Substanciación
 
 ### Artículo 179
 . La persona titular de la presidencia del tribunal colegiado de circuito deberá resolver en el plazo de tres días si admite la demanda, previene a la persona quejosa para su regularización, o la desecha por encontrar motivo manifiesto e indudable de improcedencia.
@@ -1752,7 +1786,10 @@ Párrafo reformado DOF 13-03-2025 Son aplicables a la suspensión en amparo dire
 
 ### Artículo 191
 . Cuando se trate de juicios del orden penal, la autoridad responsable con la sola presentación de la demanda, ordenará suspender de oficio y de plano la resolución reclamada. Si ésta comprende la pena de privación de libertad, la suspensión surtirá el efecto de que la persona quejosa quede a disposición del Órgano jurisdiccional de amparo, por mediación de la autoridad responsable.
-Artículo reformado DOF 17-06-2016, 13-03-2025 TÍTULO TERCERO ESTADOS UNIDOS MEXICANOS Cumplimiento y Ejecución
+Artículo reformado DOF 17-06-2016, 13-03-2025
+
+## TÍTULO TERCERO — ESTADOS UNIDOS MEXICANOS
+Cumplimiento y Ejecución
 
 ## CAPÍTULO I
 Cumplimiento e Inejecución
@@ -1904,8 +1941,7 @@ Párrafo reformado DOF 13-03-2025 Transcurrido este plazo, dictará resolución 
 II. Si con posterioridad la autoridad aplicadora o en su caso la sustituta incurrieran de nueva cuenta en aplicar la norma general declarada inconstitucional, el denunciante podrá combatir dicho acto a través del procedimiento de denuncia de repetición del acto reclamado previsto por el Capítulo II del Título Tercero de esta Ley.
 El procedimiento establecido en el presente artículo será aplicable a los casos en que la declaratoria general de inconstitucionalidad derive de lo dispuesto por la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
-## CAPÍTULO VII
-Disposiciones Complementarias
+## CAPÍTULO VII — Disposiciones Complementarias
 
 ### Artículo 211
 . Lo dispuesto en este título debe entenderse sin perjuicio de que el órgano jurisdiccional haga cumplir la sentencia de que se trate dictando las órdenes y medidas de apremio necesarias. Si éstas no fueren obedecidas, comisionará al secretario o secretaria o actuario o actuaria para que le dé cumplimiento cuando la naturaleza del acto lo permita y, en su caso, el mismo juez o jueza de distrito se constituirá en el lugar en que deba dársele cumplimiento para ejecutarla.
@@ -1926,8 +1962,7 @@ Artículo reformado DOF 13-03-2025
 ## TÍTULO CUARTO
 Jurisprudencia y Declaratoria General de Inconstitucionalidad ESTADOS UNIDOS MEXICANOS
 
-## CAPÍTULO I
-Disposiciones Generales
+## CAPÍTULO I — Disposiciones Generales
 
 ### Artículo 215
 . La jurisprudencia se establece por precedentes obligatorios, por reiteración y por contradicción.
@@ -2067,7 +2102,9 @@ Los efectos de estas declaratorias no serán retroactivos salvo en materia penal
 
 ### Artículo 235
 . La declaratoria general de inconstitucionalidad se remitirá al Diario Oficial de la Federación y al órgano oficial en el que se hubiera publicado la norma declarada inconstitucional para su publicación dentro del plazo de siete días hábiles.
-TÍTULO QUINTO Medidas Disciplinarias y de Apremio, Responsabilidades, Sanciones y Delitos
+
+## TÍTULO QUINTO
+Medidas Disciplinarias y de Apremio, Responsabilidades, Sanciones y Delitos
 
 ## CAPÍTULO I
 Medidas Disciplinarias y de Apremio
@@ -2095,10 +2132,7 @@ Fracción reformada DOF 20-05-2021, 13-03-2025
 Responsabilidades y Sanciones ESTADOS UNIDOS MEXICANOS
 
 ### Artículo 238
-. Las multas previstas en esta Ley se impondrán a razón del monto de Unidad de Medida y Actualización vigente al momento de realizarse la conducta sancionada, salvo las previstas en el
-
-## Capítulo III de este Título, las cuales se regirán por lo previsto en el artículo 270 de esta Ley. Podrán
-aplicarse a la persona quejosa y a la persona tercera interesada, y en ambos supuestos, según el caso, de manera conjunta o indistinta con quienes promuevan en su nombre, sus apoderados o apoderadas o sus abogados o abogadas, según lo resuelva el órgano jurisdiccional de amparo.
+. Las multas previstas en esta Ley se impondrán a razón del monto de Unidad de Medida y Actualización vigente al momento de realizarse la conducta sancionada, salvo las previstas en el Capítulo III de este Título, las cuales se regirán por lo previsto en el artículo 270 de esta Ley. Podrán aplicarse a la persona quejosa y a la persona tercera interesada, y en ambos supuestos, según el caso, de manera conjunta o indistinta con quienes promuevan en su nombre, sus apoderados o apoderadas o sus abogados o abogadas, según lo resuelva el órgano jurisdiccional de amparo.
 Si la persona infractora fuera jornalera, obrera o trabajadora, la multa no podrá exceder de su jornal o salario de un día.
 Artículo reformado DOF 13-03-2025
 

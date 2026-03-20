@@ -12,7 +12,10 @@ SE EXPIDE LA   Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA 
 
 ### Artículo Primero
 Se expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, para quedar como sigue:
-Título Primero Disposiciones Generales Capítulo Único
+
+## Título Primero — Disposiciones Generales
+
+## Capítulo Único
 
 ### Artículo 1
 . La presente Ley es de orden público y tiene por objeto reglamentar la aplicación del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos en materia de las adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza, que realicen:
@@ -373,7 +376,11 @@ Para los efectos del párrafo anterior, las dependencias y entidades observarán
 . Las dependencias y entidades podrán, previo a realizar la investigación de mercado a que se refiere el sexto párrafo del artículo 35 de esta Ley, llevar a cabo diálogos estratégicos con los particulares, con la finalidad de intercambiar información respecto a, entre otros, la descripción de los bienes o servicios, condiciones de entrega, beneficios y precios y el lugar en donde se entregarán o llevarán a cabo los mismos, los cuales tendrán una duración de máximo diez días naturales, los cuales podrán prorrogarse por un periodo igual.
 Durante el desarrollo de los diálogos estratégicos las dependencias y entidades podrán negociar con los particulares los aspectos señalados en el párrafo anterior.
 El Reglamento de esta Ley establecerá los supuestos que deberán seguirse para el desarrollo del diálogo estratégico.
-Título Segundo De los Procedimientos de Contratación Capítulo Primero Generalidades
+
+## Título Segundo — De los Procedimientos de Contratación
+
+## Capítulo Primero
+Generalidades
 
 ### Artículo 35
 . Los procedimientos de contratación deberán asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, siendo los siguientes:
@@ -414,7 +421,8 @@ A los actos a que se refiere el segundo párrafo del presente artículo, se invi
 La Secretaría podrá aceptar la certificación o identificación electrónica que otorguen las dependencias y entidades, las entidades federativas, municipios, las demarcaciones territoriales de la Ciudad de México y los entes públicos de unas y otros, así como terceros facultados por autoridad competente en la materia, cuando los sistemas de certificación empleados se ajusten a las disposiciones que emita la citada dependencia.
 El sobre que contenga la proposición de los licitantes, deberá presentarse a través de la Plataforma.
 Las proposiciones presentadas a través de la Plataforma deberán ser firmadas por los licitantes o sus apoderados, empleando para tal efecto los medios de identificación electrónica; los cuales producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio.
-Capítulo Segundo De los Testigos Sociales
+
+## Capítulo Segundo — De los Testigos Sociales
 
 ### Artículo 38
 . En las licitaciones públicas cuyo monto rebase el equivalente a cinco millones de UMAS, en el diálogo competitivo y en aquellos casos que determine la Secretaría, atendiendo al impacto que la contratación tenga en los programas, derivados del Plan Nacional de Desarrollo, de las dependencias y entidades, participarán testigos sociales, conforme a lo siguiente:
@@ -455,7 +463,8 @@ En caso de que el testigo social en las contrataciones públicas detecte irregul
 Se podrá exceptuar la participación del testigo social en las contrataciones públicas, en aquellos casos en que los procedimientos de contrataciones contengan información clasificada como reservada que pongan en riesgo la seguridad nacional, pública o la defensa nacional en los términos de las disposiciones legales aplicables.
 El Reglamento de esta Ley establecerá los términos para el funcionamiento y operación de los testigos sociales en las contrataciones públicas.
 La Secretaría establecerá los montos de la contraprestación al testigo social, en función de la importancia y del presupuesto asignado a la contratación, mismos que no podrán exceder los montos de las remuneraciones máximas permitidas a las personas servidoras públicas en términos de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones jurídicas aplicables.
-Capítulo Tercero De la Licitación Pública
+
+## Capítulo Tercero — De la Licitación Pública
 
 ### Artículo 39
 . El carácter de las licitaciones públicas será:
@@ -643,8 +652,7 @@ Tratándose del diálogo competitivo no procederá el pago de gastos no recupera
 . Las dependencias y entidades podrán utilizar el abastecimiento simultáneo a efecto de distribuir entre dos o más proveedores las partidas de bienes o servicios, cuando así lo hayan establecido en la convocatoria a la licitación, siempre que con ello no restrinjan la libre participación. La dependencia o entidad convocante tomará en cuenta las recomendaciones previas que, en su caso, emita la autoridad competente en materia de libre competencia y concurrencia, en términos de las disposiciones jurídicas aplicables.
 En este caso, los precios de los bienes o servicios contenidos en una misma partida y distribuidos entre dos o más proveedores, no podrán exceder del margen previsto por la convocante en la convocatoria a la licitación, el cual no podrá ser superior al diez por ciento respecto de la proposición solvente más baja.
 
-## Capítulo Cuarto
-De las Excepciones a la Licitación Pública
+## Capítulo Cuarto — De las Excepciones a la Licitación Pública
 
 ### Artículo 53
 . En los supuestos que prevé el artículo 54 de esta Ley, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa.
@@ -834,7 +842,10 @@ e) El fallo será emitido a más tardar a los diez días hábiles siguientes a q
 Los plazos para llevar a cabo el diálogo competitivo se podrán ampliar previa notificación a las partes, sin que dicha ampliación exceda en ningún caso de la mitad del plazo previsto originalmente.
 Una vez concluido el procedimiento de diálogo competitivo y notificado el fallo respectivo, el contrato será firmado dentro de los quince días naturales siguientes por la dependencia o entidad requirente de los bienes o servicios y el postulante que resulte ganador.
 La Secretaría participará en los procedimientos de diálogo competitivo, conforme a los lineamientos que al efecto emita.
-Título Tercero De los Contratos Capítulo Único
+
+## Título Tercero — De los Contratos
+
+## Capítulo Único
 
 ### Artículo 65
 . En las adquisiciones, arrendamientos y servicios deberá pactarse la condición de precio fijo. No obstante, en casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula o mecanismo de ajuste que determine la convocante previamente a la presentación de las proposiciones.
@@ -1031,8 +1042,9 @@ La adquisición de materiales cuyo consumo haga necesaria invariablemente la uti
 Cuando la suspensión obedezca a causas imputables a la dependencia o entidad, previa petición y justificación del proveedor, ésta reembolsará al proveedor los gastos no recuperables que se originen durante el tiempo que dure esta suspensión, siempre que estos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato.
 En cualquiera de los casos previstos en este artículo, se pactará por las partes el plazo de suspensión, a cuyo término podrá iniciarse la terminación anticipada del contrato.
 
-## Título Cuarto
-De la Plataforma Capítulo Único
+## Título Cuarto — De la Plataforma
+
+## Capítulo Único
 
 ### Artículo 81
 . La Secretaría implementará y administrará la Plataforma como una herramienta electrónica oficial y transaccional, integrada por diversos módulos, a través de la cual se realizarán los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el artículo 35 de la presente Ley, así como la suscripción y administración de los contratos derivados de estos.
@@ -1091,7 +1103,10 @@ Las proposiciones desechadas durante la licitación pública o invitación a cua
 Las personas físicas y morales interesadas en participar en los procedimientos de contratación y acuerdos marco a que se refiere esta Ley, deberán inscribirse en el registro electrónico de personas físicas y morales, y mantener actualizada la información que le sea requerida, conforme a los lineamientos que establezca la Secretaría.
 Este registro deberá ser permanente y estar a disposición de cualquier interesado, salvo en aquellos casos que se trate de información de naturaleza reservada o confidencial, en los términos establecidos en las disposiciones vigentes en materia de transparencia y acceso a la información pública y de protección de datos personales.
 Dicho registro tendrá únicamente efectos declarativos respecto de la inscripción de proveedores, sin que dé lugar a efectos constitutivos de derechos u obligaciones.
-Título Quinto De la Verificación Capítulo Único
+
+## Título Quinto — De la Verificación
+
+## Capítulo Único
 
 ### Artículo 87
 . La Secretaría, en el ejercicio de sus facultades, podrá verificar, en cualquier tiempo, que las adquisiciones, arrendamientos y servicios se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables.
@@ -1101,7 +1116,10 @@ La Secretaría podrá realizar las visitas e inspecciones que estime pertinentes
 ### Artículo 88
 . La Secretaría podrá verificar la calidad de los bienes muebles a través de la propia dependencia o entidad de que se trate, o mediante las personas acreditadas en los términos que establece la Ley de Infraestructura de la Calidad.
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor y el representante de la dependencia o entidad respectiva, si hubieren intervenido. La falta de firma del proveedor no invalidará dicho dictamen.
-Título Sexto De las Infracciones y Sanciones Capítulo Único
+
+## Título Sexto — De las Infracciones y Sanciones
+
+## Capítulo Único
 
 ### Artículo 89
 . Los licitantes, proveedores, cotizantes o postulantes que infrinjan las disposiciones de esta Ley, serán sancionados por la Secretaría con multa equivalente a la cantidad de cincuenta hasta tres mil veces la UMA diaria vigente elevada al mes, en la fecha de la infracción.
@@ -1150,7 +1168,10 @@ En la tramitación del procedimiento para imponer las sanciones a que se refiere
 
 ### Artículo 94
 . No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas, así como en los supuestos de las fracciones IV y V del artículo 90 de esta Ley.
-Título Séptimo De la Solución de las Controversias Capítulo Primero De la Instancia de Inconformidad
+
+## Título Séptimo — De la Solución de las Controversias
+
+## Capítulo Primero — De la Instancia de Inconformidad
 
 ### Artículo 95
 . La Secretaría conocerá de las inconformidades que se promuevan contra los actos de los procedimientos de licitación pública, invitación a cuando menos tres personas o diálogo competitivo que se indican a continuación:
@@ -1351,7 +1372,8 @@ En los casos en que existan contratos derivados de los actos declarados nulos, d
 De estimarlo procedente, podrá decretarse la suspensión de los actos del procedimiento de contratación y los que de este deriven, en términos de lo dispuesto en el último párrafo del artículo 100 de esta Ley.
 Resulta aplicable al procedimiento de intervención de oficio, en lo conducente, las disposiciones previstas para el trámite y resolución de inconformidades, con excepción de los incidentes.
 En caso de que la autoridad resuelva que los actos del procedimiento de contratación resultaron ilegales y sus efectos se hubieren consumado o bien fuere imposible retrotraerlos, dará vista a la autoridad competente para que, en su caso, investigue y sancione la posible falta administrativa de la o las personas servidoras públicas que los emitieron u ordenaron y de los particulares vinculados.
-Capítulo Segundo Del Procedimiento de Conciliación
+
+## Capítulo Segundo — Del Procedimiento de Conciliación
 
 ### Artículo 109
 . En cualquier momento los proveedores o las dependencias y entidades podrán presentar ante la Secretaría solicitud de conciliación, por desavenencias derivadas del cumplimiento de los contratos, pedidos y órdenes de servicio o de suministro, celebrados con base en disposiciones de esta Ley y con recursos federales.
@@ -1378,7 +1400,8 @@ V. Los convenios de transacción u obligaciones contraídas mediante actos diver
 ### Artículo 112
 . En el supuesto de que las partes lleguen a un acuerdo durante la conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente. La Secretaría dará seguimiento a los acuerdos de voluntades, para lo cual las dependencias, entidades o proveedores deberán remitir un informe o reporte, según corresponda, sobre el avance de cumplimiento del mismo, en términos del Reglamento de esta Ley.
 En caso de no existir acuerdo de voluntades, las partes podrán optar por cualquier vía de solución a su controversia.
-Capítulo Tercero De los Medios de Apremio
+
+## Capítulo Tercero — De los Medios de Apremio
 
 ### Artículo 113
 . La Secretaría, en los procedimientos de sanción, inconformidades y de conciliación a que se refiere esta Ley, podrá hacer uso de los medios de apremio que se indican a continuación, para hacer cumplir sus determinaciones:

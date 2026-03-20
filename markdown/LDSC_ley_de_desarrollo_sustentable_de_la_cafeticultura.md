@@ -12,7 +12,10 @@ SE EXPIDE LA
 
 ### Artículo Único
 Se expide la Ley de Desarrollo Sustentable de la Cafeticultura, para quedar como sigue:
-TÍTULO PRIMERO Disposiciones generales CAPÍTULO ÚNICO Del objeto de la Ley
+
+## TÍTULO PRIMERO — Disposiciones generales
+
+## CAPÍTULO ÚNICO — Del objeto de la Ley
 
 ### Artículo 1
 . La presente Ley es de interés público y observancia general en el territorio nacional. Tiene por objeto normar y fomentar la producción, distribución, industrialización y comercialización del café, establecer criterios para impulsar la calidad del producto en todas las fases de la cadena productiva, así como generar su integración, para que el café continúe siendo un producto básico y estratégico cuya producción contribuya a la seguridad y soberanía alimentaria del país.
@@ -123,10 +126,10 @@ VIII. El fomento de la educación, capacitación y transferencia de conocimiento
 IX. Fomentar la asociación de las pequeñas y pequeños productores en esquemas de economía social y circular ligados a programas públicos o por iniciativas populares, y
 
 X. Fomentar la cafeticultura bajo sombra como una actividad para la gestión de otras medidas efectivas de conservación basadas en regiones bioculturales y zonas de influencia de áreas naturales protegidas, reconocidas por la Comisión Nacional de Áreas Naturales Protegidas bajo una certificación de cafetales bioculturales diversificados.
-TÍTULO SEGUNDO De las autoridades e instancias
 
-## CAPÍTULO I
-De las facultades de la Secretaría
+## TÍTULO SEGUNDO — De las autoridades e instancias
+
+## CAPÍTULO I — De las facultades de la Secretaría
 
 ### Artículo 6
 . Corresponde a la Secretaría la conducción de la política pública del fomento a la producción del café en coordinación con las dependencias y entidades competentes del Gobierno Federal, de las entidades federativas, de la Ciudad de México, así como con las autoridades de los municipios y las personas físicas y morales a que se refiere el artículo 2 de esta Ley. Para tales efectos la Secretaría tendrá las siguientes atribuciones:
@@ -163,8 +166,7 @@ XV. Colaborar, en el ámbito de su competencia, en los procedimientos de concili
 
 XVI. Las demás que esta Ley y su Reglamento establezcan.
 
-## CAPÍTULO II
-De la Comisión Nacional para el Desarrollo de la Cafeticultura Mexicana
+## CAPÍTULO II — De la Comisión Nacional para el Desarrollo de la Cafeticultura Mexicana
 
 ### Artículo 7
 . Se crea la Comisión Nacional para el Desarrollo de la Cafeticultura Mexicana como instancia de diálogo, concertación y coordinación entre los sectores público, social y privado, para el desarrollo e impulso de la cadena productiva de café.
@@ -266,8 +268,7 @@ IV. Supervisión para el cumplimiento de los procesos de certificación y verifi
 
 V. Brindar asesoría en materia de servicios ambientales, de conformidad con la normatividad aplicable.
 
-## CAPÍTULO III
-De la Persona Titular de la Comisión
+## CAPÍTULO III — De la Persona Titular de la Comisión
 
 ### Artículo 15
 . Quedan a cargo de la persona titular de la Comisión las siguientes actividades:
@@ -289,10 +290,10 @@ VII. Promover con los sectores público y privado, así como con organismos de l
 VIII. Demandar el cumplimiento de la normatividad aplicable en caso de omisiones y faltas de los integrantes de la cadena productiva, y
 
 IX. Las demás que establezca el Reglamento de la Ley.
-TÍTULO TERCERO Del Sistema Nacional de Información de la Cafeticultura en México
 
-## CAPÍTULO I
-Disposiciones generales
+## TÍTULO TERCERO — Del Sistema Nacional de Información de la Cafeticultura en México
+
+## CAPÍTULO I — Disposiciones generales
 
 ### Artículo 16
 . El Sistema Nacional de Información de la Cafeticultura en México será de orden público y coordinado por la persona titular de la Secretaría.
@@ -323,11 +324,9 @@ Del Registro de Personas Productoras, Acopiadoras, Industriales, Comercializador
 ### Artículo 23
 . La Secretaría expedirá las bases para el funcionamiento del Sistema Nacional de Información de la Cafeticultura, así como del Registro de Personas Productoras, Acopiadoras, Industriales, Comercializadoras y Exportadoras e Importadoras Nacionales de Café.
 
-## TÍTULO CUARTO
-Del fomento y desarrollo de la cafeticultura
+## TÍTULO CUARTO — Del fomento y desarrollo de la cafeticultura
 
-## CAPÍTULO I
-Del financiamiento de la cafeticultura
+## CAPÍTULO I — Del financiamiento de la cafeticultura
 
 ### Artículo 24
 . Corresponde a la Secretaría formular, conducir y evaluar la política pública para el impulso a la cafeticultura mexicana, así como proponer acciones, programas o mecanismos innovadores de financiamiento, servicios de asesoría y acompañamiento técnico, con base en la disponibilidad presupuestal, que permitan a los eslabones de la cadena productiva del café acceder a apoyos establecidos por el Gobierno Federal.
@@ -402,15 +401,14 @@ IX. Apoyar y promover a las instituciones privadas que contribuyan al desarrollo
 ### Artículo 36
 . La Secretaría será responsable de la capacitación para el manejo adecuado de los materiales vegetativos, herramientas y documentos generados, en coordinación con las instituciones de investigación, las entidades educativas y las organizaciones productivas.
 
-## CAPÍTULO III
-De las políticas públicas de fomento a la cafeticultura mexicana
+## CAPÍTULO III — De las políticas públicas de fomento a la cafeticultura mexicana
 
 ### Artículo 37
 . La Secretaría, en el marco del Sistema Nacional de Planeación Democrática y con base a lo establecido en el Programa sectorial correspondiente, formulara las políticas públicas de fomento a la cafeticultura mexicana. Estas políticas se alinearán con el objeto y los principios de la presente Ley, así como los objetivos del Sistema Nacional de Planeación Democrática identificando las prioridades, estrategias, programas y acciones para el desarrollo sustentable de la cafeticultura.
-TÍTULO QUINTO De la comercialización e industrialización del café mexicano
 
-## CAPÍTULO I
-De la comercialización
+## TÍTULO QUINTO — De la comercialización e industrialización del café mexicano
+
+## CAPÍTULO I — De la comercialización
 
 ### Artículo 38
 . Previo al inicio de cosecha, la Comisión ordenará la realización de un estudio de expectativa de producción confiable para cada ciclo cafetalero. El resultado será el que se maneje como estimado oficial y se reporte a la Organización Internacional del Café, de conformidad con los acuerdos internacionales en la materia de los que sea parte el Estado mexicano. En la elaboración del estudio a que se hace referencia en este artículo, se podrá contar con la colaboración del Comité Nacional Sistema Producto Café.
@@ -437,8 +435,7 @@ El Comité tendrá la responsabilidad de revisar la información relativa a la p
 ### Artículo 45
 . Las disposiciones de esta Ley que hagan referencia a características del café, calidades, procesos, certificaciones, etiquetado, estándares u otros elementos técnicos deberán interpretarse como orientaciones de política pública, y no constituirán en ningún caso requisitos obligatorios para la producción, comercialización, exportación o importación del producto, salvo que sean expresamente definidos en las Normas Oficiales Mexicanas y publicados conforme a la Ley de Infraestructura de la Calidad y los tratados internacionales aplicables.
 
-## CAPÍTULO II
-De los precios del café
+## CAPÍTULO II — De los precios del café
 
 ### Artículo 46
 . La Comisión establecerá un Comité de seguimiento de Precios, el cual podrá emitir un referente de precios para las compras de café pergamino o sus equivalentes en diferentes etapas del proceso de materia prima, entre otros, para el café cereza, oro o naturales. Lo anterior, con base en los datos del Sistema Nacional de Información de la Cafeticultura y a partir de los estudios a que se refiere en el artículo 49 de esta Ley.
@@ -483,8 +480,7 @@ Durante el transcurso de la cosecha, se realizarán encuestas sobre los precios 
 ### Artículo 55
 . El Reglamento de la Ley establecerá las funciones del Comité de seguimiento de Precios, así como los procedimientos para la emisión de recomendaciones del referente de precios que se señala en esta Ley.
 
-## CAPÍTULO III
-Del café mexicano
+## CAPÍTULO III — Del café mexicano
 
 ### Artículo 56
 . Con el objetivo de mejorar la calidad del café mexicano, la Secretaría, en colaboración con las organizaciones del sector cafetalero, promoverá el reconocimiento y la distinción de la producción de café bajo sombra realizada en diversas entidades federativas, a fin de que su calidad se vea reflejada en su precio y consumo.
@@ -506,8 +502,7 @@ En el caso de las personas beneficiadoras y comercializadoras, se priorizará a 
 ### Artículo 60
 . El Gobierno Federal, a través de la Secretaría, en coordinación con los gobiernos de las entidades federativas, impulsarán regiones cafetaleras que operen bajo sistemas de producción y beneficiado sustentables.
 
-## CAPÍTULO IV
-Del café sustentable y el cambio climático
+## CAPÍTULO IV — Del café sustentable y el cambio climático
 
 ### Artículo 61
 . La Secretaría en acuerdo con las autoridades competentes, vigilará:
@@ -561,10 +556,10 @@ Café tostado, molido, soluble y extracto
 
 ### Artículo 70
 . La Secretaría, a través del Sistema Nacional Producto Café, colaborará en las acciones de certificación de productos y tipos de café, de conformidad con esta Ley, su reglamento y, en su caso, las Normas Oficiales Mexicanas aplicables a los productos y subproductos del café.
-TÍTULO SEXTO De las importaciones y exportaciones
 
-## CAPÍTULO I
-De las importaciones
+## TÍTULO SEXTO — De las importaciones y exportaciones
+
+## CAPÍTULO I — De las importaciones
 
 ### Artículo 71
 . Las autoridades competentes en materia aduanera y de comercio exterior serán las responsables de identificar y aplicar las disposiciones legales correspondientes a la entrada al territorio nacional de café o sus derivados. La Secretaría podrá colaborar con dichas autoridades, en el marco de sus atribuciones y de conformidad con la legislación aplicable, proporcionando información técnica relacionada con el cumplimiento de las Normas Oficiales Mexicanas aplicables al producto, sin intervenir en la regulación o supervisión de aspectos arancelarios o aduaneros.
@@ -584,8 +579,7 @@ En todo momento, la Secretaría se apoyará de las recomendaciones y opiniones e
 ### Artículo 73
 . La Secretaría podrá colaborar, en el ámbito de sus atribuciones y en coordinación con las autoridades competentes, en la observancia de las Normas Oficiales Mexicanas aplicables al café.
 
-## CAPÍTULO II
-De las exportaciones
+## CAPÍTULO II — De las exportaciones
 
 ### Artículo 74
 . La Secretaría podrá colaborar con el Comité Nacional Sistema Producto Café en el diseño de mecanismos voluntarios de certificación de origen del café mexicano, a fin de fortalecer su posicionamiento en los mercados internacionales. Dichos certificados serán de carácter informativo, no constituirán requisitos no arancelarios y deberán sujetarse a las disposiciones previstas por la Ley de Comercio Exterior, la Ley de Infraestructura de la Calidad y los tratados internacionales de los que el Estado mexicano sea parte.
@@ -602,15 +596,17 @@ De las exportaciones
 ### Artículo 78
 . La Comisión, cuando se requiera, y con apoyo del Comité Nacional Sistema Producto Café, podrá apoyar a las personas exportadoras e importadoras en la identificación de la calidad del café que se comercialice, siendo cubiertos los costos de esta actividad por la propia persona exportadora o importadora.
 
-## CAPÍTULO III
-De la trazabilidad del café
+## CAPÍTULO III — De la trazabilidad del café
 
 ### Artículo 79
 . La extracción de café del territorio nacional deberá cumplir con lo previsto en las disposiciones jurídicas aplicables.
 
 ### Artículo 80
 . La Secretaría, en coordinación y colaboración con las autoridades aduaneras, podrá intercambiar información sobre las importaciones definitivas o temporales de café, en los términos del convenio o acuerdo que al efecto suscriban.
-TÍTULO SÉPTIMO De las sanciones y la mediación CAPÍTULO ÚNICO
+
+## TÍTULO SÉPTIMO — De las sanciones y la mediación
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 81
 . Las dependencias y entidades públicas integrantes de la Comisión, en el ámbito de sus respectivas competencias, coadyuvarán con las actuaciones correspondientes de las autoridades competentes, en relación con los actos contrarios a lo dispuesto en esta Ley, su Reglamento o en las Normas Oficiales Mexicanas en la materia, con motivo de prácticas desleales de comercio, competencia económica, violaciones a la Ley Aduanera o de comercio en general.

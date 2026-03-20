@@ -1535,8 +1535,8 @@ Artículo reformado DOF 31-12-1974
 .- El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos a que se refiere el artículo 164. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de lo familiar de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 Artículo reformado DOF 24-03-1971, 31-12-1974
 
-## CAPÍTULO III
-De la Violencia Familiar Capítulo adicionado DOF 30-12-1997
+## CAPÍTULO III — De la Violencia Familiar
+Capítulo adicionado DOF 30-12-1997
 
 ### Artículo 323
 bis.- Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
@@ -1829,7 +1829,10 @@ II. A ser alimentado por las personas que lo reconozcan;
 Fracción reformada DOF 30-12-1975
 
 III. A percibir la porción hereditaria y los alimentos que fije la Ley.
-CAPITULO V De la Adopción SECCIÓN PRIMERA Disposiciones generales Sección adicionada DOF 28-05-1998
+CAPITULO V De la Adopción
+
+## SECCIÓN PRIMERA — Disposiciones generales
+Sección adicionada DOF 28-05-1998
 
 ### Artículo 390
 .- El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aun cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
@@ -1893,7 +1896,10 @@ Artículo reformado DOF 14-11-2025
 
 ### Artículo 401
 .- El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Juez del Registro Civil del lugar para que levante el acta correspondiente.
-Artículo reformado DOF 14-03-1973 SECCIÓN SEGUNDA De la Adopción Simple (Se deroga) Sección adicionada DOF 28-05-1998. Derogada DOF 08-04-2013
+Artículo reformado DOF 14-03-1973
+
+## SECCIÓN SEGUNDA — De la Adopción Simple
+(Se deroga) Sección adicionada DOF 28-05-1998. Derogada DOF 08-04-2013
 
 ### Artículo 402
 . Se deroga.
@@ -1928,7 +1934,10 @@ Artículo derogado DOF 08-04-2013
 Artículo derogado DOF 08-04-2013
 
 ### Artículo 410
-. Se deroga Artículo reformado DOF 14-03-1973. Derogado DOF 08-04-2013 SECCIÓN TERCERA De la Adopción Plena Sección adicionada DOF 28-05-1998
+. Se deroga Artículo reformado DOF 14-03-1973. Derogado DOF 08-04-2013
+
+## SECCIÓN TERCERA — De la Adopción Plena
+Sección adicionada DOF 28-05-1998
 
 ### Artículo 410 A
 - El adoptado bajo la forma de adopción plena se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
@@ -1952,8 +1961,8 @@ Artículo adicionado DOF 28-05-1998
 - No pueden adoptar mediante adopción plena, las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz.
 Artículo adicionado DOF 28-05-1998
 
-## SECCIÓN CUARTA
-De la Adopción Internacional Sección adicionada DOF 28-05-1998
+## SECCIÓN CUARTA — De la Adopción Internacional
+Sección adicionada DOF 28-05-1998
 
 ### Artículo 410 E
 - La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene como objeto incorporar, en una familia, a un menor que no puede encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
@@ -5997,9 +6006,7 @@ Cualquiera otra carga, perpetua o temporal, a que se halle afecta la cosa legada
 .- El legado de alimentos dura mientras viva el legatario, a no ser que el testador haya dispuesto que dure menos.
 
 ### Artículo 1464
-.- Si el testador no señala la cantidad de alimentos, se observará lo dispuesto en el
-
-## Capítulo II, Título VI del Libro Primero.
+.- Si el testador no señala la cantidad de alimentos, se observará lo dispuesto en el Capítulo II, Título VI del Libro Primero.
 
 ### Artículo 1465
 .- Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
@@ -9227,9 +9234,7 @@ TITULO CUARTO De las Donaciones CAPITULO I De las Donaciones en General
 .- Las donaciones sólo pueden tener lugar entre vivos y no pueden revocarse sino en los casos declarados en la ley.
 
 ### Artículo 2339
-.- Las donaciones que se hagan para después de la muerte del donante, se regirán por las disposiciones relativas del Libro Tercero; y las que se hagan entre consortes, por lo dispuesto en el
-
-## Capítulo VIII, Título V, del Libro Primero.
+.- Las donaciones que se hagan para después de la muerte del donante, se regirán por las disposiciones relativas del Libro Tercero; y las que se hagan entre consortes, por lo dispuesto en el Capítulo VIII, Título V, del Libro Primero.
 
 ### Artículo 2340
 .- La donación es perfecta desde que el donatario la acepta y hace saber la aceptación al donador.

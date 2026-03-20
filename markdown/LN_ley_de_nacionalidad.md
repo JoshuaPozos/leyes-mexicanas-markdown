@@ -9,8 +9,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 23 de enero de 199
 ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO “EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS D E C R E T A:
 
-## CAPÍTULO I
-DISPOSICIONES GENERALES
+## CAPÍTULO I — DISPOSICIONES GENERALES
 
 ### Artículo 1o
 .- La presente Ley es reglamentaria de los artículos 30, 32 y 37, apartados A y B, de la Constitución Política de los Estados Unidos Mexicanos. Sus disposiciones son de orden público y de observancia general en todo el territorio nacional. Su aplicación corresponde al Ejecutivo Federal por conducto de la Secretaría de Relaciones Exteriores.
@@ -79,8 +78,7 @@ En cualquier caso, cuando la Secretaría lo estime conveniente, el interesado de
 ### Artículo 11
 .- Para todo lo no previsto en esta Ley, se aplicarán supletoriamente las disposiciones del de la Ley Federal de Procedimiento Administrativo.
 
-## CAPÍTULO II
-DE LA NACIONALIDAD MEXICANA POR NACIMIENTO
+## CAPÍTULO II — DE LA NACIONALIDAD MEXICANA POR NACIMIENTO
 
 ### Artículo 12
 .- Los mexicanos por nacimiento que salgan del territorio nacional o ingresen a él, deberán hacerlo sin excepción, ostentándose como nacionales, aun cuando posean o hayan adquirido otra nacionalidad.
@@ -117,8 +115,7 @@ El certificado de nacionalidad mexicana se expedirá una vez que el interesado h
 .- La Secretaría declarará, previa audiencia del interesado, la nulidad del certificado cuando se hubiera expedido en violación de esta Ley o de su reglamento, o cuando dejen de cumplirse los requisitos previstos en ellos.
 La declaratoria de nulidad fijará la fecha a partir de la cual el certificado será nulo. En todo caso, se dejarán a salvo las situaciones jurídicas creadas durante la vigencia del certificado a favor de terceros de buena fe.
 
-## CAPÍTULO III
-DE LA NACIONALIDAD MEXICANA POR NATURALIZACIÓN
+## CAPÍTULO III — DE LA NACIONALIDAD MEXICANA POR NATURALIZACIÓN
 
 ### Artículo 19
 .- El extranjero que pretenda naturalizarse mexicano deberá:
@@ -182,8 +179,7 @@ III. Cuando no sea conveniente a juicio de la Secretaría, en cuyo caso deberá 
 .- La Secretaría declarará, previa audiencia del interesado, la nulidad de la carta de naturalización cuando se hubiere expedido sin cumplir con los requisitos o con violación a esta Ley.
 La declaratoria de nulidad fijará la fecha a partir de la cual dicha carta será nula. En todo caso se dejarán a salvo las situaciones jurídicas creadas durante la vigencia de la carta a favor de terceros de buena fe.
 
-## CAPÍTULO IV
-DE LA PÉRDIDA DE LA NACIONALIDAD MEXICANA POR NATURALIZACIÓN
+## CAPÍTULO IV — DE LA PÉRDIDA DE LA NACIONALIDAD MEXICANA POR NATURALIZACIÓN
 
 ### Artículo 27
 .- La nacionalidad mexicana por naturalización, previa audiencia del interesado, se pierde de conformidad con lo que establece el artículo 37, apartado B, de la Constitución Política de los Estados Unidos Mexicanos.
@@ -204,8 +200,7 @@ Dicho aviso deberá realizarse dentro de los cuarenta días hábiles siguientes,
 ### Artículo 32
 .- Cuando se den los supuestos de pérdida de la nacionalidad mexicana, la Secretaría, previa audiencia del interesado, revocará la carta de naturalización.
 
-## CAPÍTULO V
-DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+## CAPÍTULO V — DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ### Artículo 33
 .- Las infracciones administrativas previstas en la presente Ley, se sancionarán con lo siguiente:

@@ -13,8 +13,7 @@ SE EXPIDE LA
 ### Artículo Único
 Se expide la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026.
 
-## Capítulo I
-De los Ingresos y el Endeudamiento Público
+## Capítulo I — De los Ingresos y el Endeudamiento Público
 
 ### Artículo 1o
 . En el ejercicio fiscal de 2026, la Federación percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas en millones de pesos que a continuación se enumeran:
@@ -70,8 +69,7 @@ El ejercicio del monto de endeudamiento autorizado se sujetará a lo dispuesto e
 . Petróleos Mexicanos deberá presentar las declaraciones, hacer los pagos y cumplir con las obligaciones de retener y enterar las contribuciones a cargo de terceros, ante la Tesorería de la Federación, a través del esquema para la presentación de declaraciones que para tal efecto establezca el Servicio de Administración Tributaria.
 Los gastos de mantenimiento y operación de los proyectos integrales de infraestructura de Petróleos Mexicanos que, hasta antes de la entrada en vigor del Decreto por el que se adicionan y reforman diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 13 de noviembre de 2008, eran considerados proyectos de infraestructura productiva de largo plazo en términos del artículo 32 de dicha ley, serán registrados como inversión.
 
-## Capítulo II
-De las Facilidades Administrativas y Beneficios Fiscales
+## Capítulo II — De las Facilidades Administrativas y Beneficios Fiscales
 
 ### Artículo 11
 . En los casos de prórroga para el pago de créditos fiscales se causarán recargos:

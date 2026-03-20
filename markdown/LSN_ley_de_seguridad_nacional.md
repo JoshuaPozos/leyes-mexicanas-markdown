@@ -12,7 +12,10 @@ SE EXPIDE LA  ; Y SE REFORMA EL ARTÍCULO 50 BIS DE LA LEY ORGÁNICA DEL PODER J
 
 ### ARTÍCULO PRIMERO
 Se expide la Ley de Seguridad Nacional, en los siguientes términos:
-TÍTULO PRIMERO DISPOSICIONES GENERALES CAPÍTULO ÚNICO
+
+## TÍTULO PRIMERO — DISPOSICIONES GENERALES
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 1
 .- Las disposiciones de la presente Ley son de orden público y de observancia general en todo el territorio nacional.
@@ -106,10 +109,10 @@ V. Por cuanto hace a la información de Seguridad Nacional, se estará a la Ley 
 
 VI. Para el resto de los aspectos, se aplicarán los principios generales del derecho.
 La materia de Seguridad Nacional está excluida de la aplicación supletoria de la Ley Federal de Procedimiento Administrativo.
-TÍTULO SEGUNDO DE LAS INSTANCIAS ENCARGADAS DE LA SEGURIDAD NACIONAL
 
-## CAPÍTULO I
-DEL CONSEJO DE SEGURIDAD NACIONAL
+## TÍTULO SEGUNDO — DE LAS INSTANCIAS ENCARGADAS DE LA SEGURIDAD NACIONAL
+
+## CAPÍTULO I — DEL CONSEJO DE SEGURIDAD NACIONAL
 
 ### Artículo 9
 .- Las instancias de Seguridad Nacional contarán con la estructura, organización y recursos que determinen las disposiciones que les den origen.
@@ -224,8 +227,7 @@ XIII. Las demás que señalen las leyes y reglamentos, o que sean necesarias par
 Las actas y documentos que se generen en las sesiones del Consejo son reservados, y su divulgación se considerará como causa de responsabilidad, conforme lo establezcan las leyes.
 Previa autorización del Presidente del Consejo, también se podrán realizar consultas a expertos, instituciones académicas y de investigación en las materias relacionadas con la Seguridad Nacional.
 
-## CAPÍTULO II
-DEL CENTRO DE INVESTIGACIÓN Y SEGURIDAD NACIONAL
+## CAPÍTULO II — DEL CENTRO DE INVESTIGACIÓN Y SEGURIDAD NACIONAL
 
 ### Artículo 18
 .- El Centro de Investigación y Seguridad Nacional, es un órgano administrativo desconcentrado de la Secretaría de Gobernación, con autonomía, técnica, operativa y de gasto, adscrito directamente al Titular de dicha Secretaría.
@@ -255,8 +257,7 @@ X. Prestar auxilio técnico a cualquiera de las instancias de gobierno represent
 
 XI. Las demás que le confieran otras disposiciones jurídicas aplicables o le señale, en el ámbito de su competencia, el Consejo o el Secretario Ejecutivo.
 
-## CAPÍTULO III
-ESTATUTO DEL PERSONAL DEL CENTRO
+## CAPÍTULO III — ESTATUTO DEL PERSONAL DEL CENTRO
 
 ### Artículo 20
 .- Los mecanismos y las reglas para la selección, ingreso, nombramiento, capacitación, promoción y profesionalización del personal del Centro, se regirán por el Estatuto Laboral que al efecto expida el Presidente de la República. En éste se garantizarán los mecanismos de capacitación y promoción para la seguridad laboral, así como los estímulos requeridos para un servicio confiable, profesional y de calidad por parte del personal del Centro.
@@ -267,8 +268,7 @@ ESTATUTO DEL PERSONAL DEL CENTRO
 ### Artículo 22
 .- Los servidores públicos del Centro estarán sujetos a los mecanismos de control de confiabilidad que determine el Estatuto.
 
-## CAPÍTULO IV
-DE LA COORDINACIÓN PARA LA SEGURIDAD NACIONAL
+## CAPÍTULO IV — DE LA COORDINACIÓN PARA LA SEGURIDAD NACIONAL
 
 ### Artículo 23
 .- En la aplicación de la presente Ley y las medidas de coordinación que establece, se mantendrá el respeto a las atribuciones de las instancias que participen.
@@ -290,10 +290,10 @@ En la formación y operación de la Red, así como en la instrumentación de las
 
 ### Artículo 28
 .- Los integrantes del Consejo, podrán solicitar a los distintos órganos de gobierno y a los organismos constitucionalmente autónomos, la información necesaria para el cumplimiento de las atribuciones que le otorga esta Ley.
-TÍTULO TERCERO DE LA INTELIGENCIA PARA LA SEGURIDAD NACIONAL
 
-## CAPÍTULO I
-DE LA INFORMACIÓN Y LA INTELIGENCIA
+## TÍTULO TERCERO — DE LA INTELIGENCIA PARA LA SEGURIDAD NACIONAL
+
+## CAPÍTULO I — DE LA INFORMACIÓN Y LA INTELIGENCIA
 
 ### Artículo 29
 .- Se entiende por inteligencia el conocimiento obtenido a partir de la recolección, procesamiento, diseminación y explotación de información, para la toma de decisiones en materia de Seguridad Nacional.
@@ -307,11 +307,9 @@ DE LA INFORMACIÓN Y LA INTELIGENCIA
 ### Artículo 32
 .- Para los efectos de esta Ley se entiende por contrainteligencia a las medidas de protección de las instancias en contra de actos lesivos, así como las acciones orientadas a disuadir o contrarrestar su comisión.
 
-## CAPÍTULO II
-DE LAS INTERVENCIONES DE COMUNICACIONES
+## CAPÍTULO II — DE LAS INTERVENCIONES DE COMUNICACIONES
 
-## SECCIÓN I
-DE LA SOLICITUD
+## SECCIÓN I — DE LA SOLICITUD
 
 ### Artículo 33
 .- En los casos de amenaza inminente a los que se refiere el artículo 5 de esta Ley, el Gobierno Mexicano podrá hacer uso de los recursos que legalmente se encuentren a su alcance, incluyendo la información anónima.
@@ -328,8 +326,7 @@ El Poder Judicial de la Federación, de acuerdo con su ley orgánica, determinar
 .- Los procedimientos judiciales que se instauren para autorizar las solicitudes de intervención en materia de Seguridad Nacional no tendrán naturaleza contenciosa y sus constancias procesales carecerán de valor probatorio en procedimientos judiciales o administrativos.
 Cuando el Centro coopere en las actividades de procuración de justicia, las intervenciones de comunicaciones privadas en las que se preste auxilio técnico tendrán naturaleza distinta a las reguladas Procedimientos Penales y la Ley Federal contra la Delincuencia Organizada.
 
-## SECCIÓN II
-DEL PROCEDIMIENTO
+## SECCIÓN II — DEL PROCEDIMIENTO
 
 ### Artículo 37
 .- El procedimiento tiene carácter reservado, por lo que las solicitudes se registrarán en un libro de gobierno especial que se manejará por el personal que para tal efecto designe el juez. No se permitirá el acceso a los expedientes a persona alguna, salvo al secretario del juzgado y a quien se autorice por escrito por parte del Director General del Centro.
@@ -370,8 +367,7 @@ El juez podrá requerir informes periódicos respecto de la ejecución de la aut
 ### Artículo 42
 .- Los datos que se obtengan de las actividades autorizadas mediante resolución judicial será información reservada que sólo podrá conocer el Director General del Centro, las personas que designe el Consejo y los jueces federales competentes.
 
-## SECCIÓN III
-DE LA VIGENCIA DE LA AUTORIZACIÓN
+## SECCIÓN III — DE LA VIGENCIA DE LA AUTORIZACIÓN
 
 ### Artículo 43
 .- Las intervenciones se autorizarán por un lapso no mayor de ciento ochenta días naturales. Como casos de excepción debidamente justificados, el juez podrá autorizar prórroga a dicho plazo; hasta por un periodo igual al de la autorización original.
@@ -379,8 +375,7 @@ DE LA VIGENCIA DE LA AUTORIZACIÓN
 ### Artículo 44
 .- La solicitud de prórroga se someterá al procedimiento a que se refiere la Sección II del presente Capítulo, y en ella se deberán especificar las consideraciones que justifiquen que la intervención continúa siendo necesaria para investigar una amenaza a la Seguridad Nacional. En la descripción de los hechos que motiven la prórroga se aplicará lo dispuesto en la fracción I del artículo 38 de esta Ley.
 
-## SECCIÓN IV
-DE LAS OBLIGACIONES
+## SECCIÓN IV — DE LAS OBLIGACIONES
 
 ### Artículo 45
 .- El personal del juzgado referido en el artículo 37 está obligado a mantener secreto del contenido de las solicitudes y resoluciones de autorización, así como aquella información generada por la aplicación de las mismas, de la que llegaren a tener conocimiento.
@@ -394,17 +389,12 @@ DE LAS OBLIGACIONES
 ### Artículo 48
 .- La información y los materiales de cualquier especie que sean producto de una intervención de comunicaciones privadas autorizadas conforme a las disposiciones de este Capítulo, tendrán invariablemente el carácter de reservados. Su difusión no autorizada implicará responsabilidad en los términos de la presente Ley, sin perjuicio de lo dispuesto en otros ordenamientos legales aplicables.
 
-## SECCIÓN V
-DE LOS CASOS DE URGENCIA
+## SECCIÓN V — DE LOS CASOS DE URGENCIA
 
 ### Artículo 49
-.- En casos de excepción, cuando el cumplimiento del procedimiento establecido en la
+.- En casos de excepción, cuando el cumplimiento del procedimiento establecido en la Sección II del presente Capítulo comprometa el éxito de una investigación y existan indicios de que pueda consumarse una amenaza a la Seguridad Nacional, el juez, por la urgencia, podrá autorizar de inmediato la medida que se requiera.
 
-## Sección II del presente Capítulo comprometa el éxito de una investigación y existan indicios de que
-pueda consumarse una amenaza a la Seguridad Nacional, el juez, por la urgencia, podrá autorizar de inmediato la medida que se requiera.
-
-## CAPÍTULO III
-DEL ACCESO A LA INFORMACIÓN EN MATERIA DE SEGURIDAD NACIONAL
+## CAPÍTULO III — DEL ACCESO A LA INFORMACIÓN EN MATERIA DE SEGURIDAD NACIONAL
 
 ### Artículo 50
 .- Cada instancia representada en el Consejo es responsable de la administración, protección, clasificación, desclasificación y acceso de la información que genere o custodie, en los términos de la presente Ley y de la Ley Federal de Transparencia y Acceso a la Información Pública gubernamental.
@@ -428,8 +418,9 @@ II. Aquella cuya revelación pueda ser utilizada para actualizar o potenciar una
 ### Artículo 55
 .- Corresponde al Centro definir las medidas de protección, destrucción, códigos de seguridad en las comunicaciones y demás aspectos necesarios para el resguardo de la información que se genere con motivo de los sistemas de coordinación en materia de Seguridad Nacional.
 
-## TÍTULO CUARTO
-DEL CONTROL LEGISLATIVO CAPÍTULO ÚNICO
+## TÍTULO CUARTO — DEL CONTROL LEGISLATIVO
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 56
 .- Las políticas y acciones vinculadas con la Seguridad Nacional estarán sujetas al control y evaluación del Poder Legislativo Federal, por conducto de una Comisión Bicamaral integrada por 3 Senadores y 3 Diputados.
@@ -468,7 +459,10 @@ En todo caso, omitirán cualquier información cuya revelación indebida afecte 
 
 ### Artículo 60
 .- La Comisión Bicamaral deberá resguardar y proteger la información y documentación que se le proporcione, evitando su uso indebido, sin que pueda ser difundida o referida. En caso contrario, se aplicarán las sanciones que las leyes prescriban.
-TÍTULO QUINTO DE LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CAPÍTULO ÚNICO
+
+## TÍTULO QUINTO — DE LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 61
 .- Los servidores públicos cuyas áreas estén relacionadas con la Seguridad Nacional, orientarán, con base en los principios previstos en el artículo 3o., el desempeño de sus funciones, preservando los de legalidad, responsabilidad, respeto a los derechos fundamentales y garantías individuales y sociales, confidencialidad, lealtad, transparencia, eficiencia, coordinación y cooperación que deben cumplir en términos de las disposiciones legales que regulan al servicio público.
@@ -481,7 +475,10 @@ TÍTULO QUINTO DE LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CAPÍTULO ÚNIC
 
 ### Artículo 64
 .- En ningún caso se divulgará información reservada que, a pesar de no tener vinculación con amenazas a la Seguridad Nacional o con acciones o procedimientos preventivos de las mismas, lesionen la privacidad, la dignidad de las personas o revelen datos personales.
-TÍTULO SEXTO DE LA COOPERACIÓN DE LAS INSTANCIAS LOCALES Y MUNICIPALES CAPÍTULO ÚNICO
+
+## TÍTULO SEXTO — DE LA COOPERACIÓN DE LAS INSTANCIAS LOCALES Y MUNICIPALES
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 65
 .- La cooperación de los poderes y órganos de gobierno de las entidades federativas en la función de garantizar la Seguridad Nacional se establecerá para:
@@ -499,10 +496,12 @@ IV. Promover la participación de los Municipios en las políticas, acciones y p
 
 ### Artículo 67
 .- En la regulación y el ejercicio de las atribuciones que conforme al presente Título les correspondan a las entidades federativas, se observará puntualmente lo previsto por los artículos 117, 118 y 119 de la Constitución Política de los Estados Unidos Mexicanos.
-TÍTULO SÉPTIMO DE LA COOPERACIÓN CON LOS GOBIERNOS EXTRANJEROS EN MATERIA DE SEGURIDAD QUE CONTRIBUYAN A PRESERVAR LA SEGURIDAD NACIONAL Título adicionado DOF 18-12-2020
 
-## CAPÍTULO I
-DE LA COOPERACIÓN INTERNACIONAL Capítulo adicionado DOF 18-12-2020
+## TÍTULO SÉPTIMO — DE LA COOPERACIÓN CON LOS GOBIERNOS EXTRANJEROS EN MATERIA DE
+SEGURIDAD QUE CONTRIBUYAN A PRESERVAR LA SEGURIDAD NACIONAL Título adicionado DOF 18-12-2020
+
+## CAPÍTULO I — DE LA COOPERACIÓN INTERNACIONAL
+Capítulo adicionado DOF 18-12-2020
 
 ### Artículo 68
 .- En el marco de la cooperación internacional, las embajadas y misiones extranjeras acreditadas en el país deberán informar a las autoridades correspondientes conforme a los respectivos convenios de cooperación bilateral suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional sobre los hechos de que tengan conocimiento en el desempeño de las funciones derivadas de dichos convenios y programas. En las disposiciones que rigen el presente Título se observará el principio de reciprocidad entre Estados Soberanos.
@@ -552,8 +551,8 @@ Artículo adicionado DOF 18-12-2020
 Las autoridades responsables de la supervisión y vigilancia de los agentes y técnicos especializados serán corresponsables del incumplimiento de las disposiciones generales y específicas que resulten aplicables. En su caso, serán sancionados en los términos que disponga la Ley.
 Artículo adicionado DOF 18-12-2020
 
-## CAPÍTULO II
-DE LOS ÓRGANOS AUXILIARES Capítulo adicionado DOF 18-12-2020
+## CAPÍTULO II — DE LOS ÓRGANOS AUXILIARES
+Capítulo adicionado DOF 18-12-2020
 
 ### Artículo 75
 .- El Grupo de Alto Nivel de Seguridad es el órgano auxiliar del Consejo para la atención y gestión de los convenios, programas y temas estratégicos de cooperación suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional. Será integrado por los representantes de las dependencias y autoridades que determine el Consejo y presidido por la Secretaría de Relaciones Exteriores. El Consejo emitirá las disposiciones generales que regulen su organización y funcionamiento.

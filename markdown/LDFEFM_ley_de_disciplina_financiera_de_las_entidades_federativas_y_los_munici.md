@@ -12,7 +12,12 @@ SE EXPIDE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUN
 
 ### ARTÍCULO PRIMERO
 Se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
-LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS TÍTULO PRIMERO Objeto y Definiciones de la Ley CAPÍTULO ÚNICO Disposiciones Generales
+LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
+
+## TÍTULO PRIMERO
+Objeto y Definiciones de la Ley
+
+## CAPÍTULO ÚNICO — Disposiciones Generales
 
 ### Artículo 1
 .- La presente Ley es de orden público y tiene como objeto establecer los criterios generales de responsabilidad hacendaria y financiera que regirán a las Entidades Federativas y los Municipios, así como a sus respectivos Entes Públicos, para un manejo sostenible de sus finanzas públicas.
@@ -114,7 +119,9 @@ XL. Transferencias federales etiquetadas: los recursos que reciben de la Federac
 
 ### Artículo 4
 .- El Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, emitirá las normas contables necesarias para asegurar su congruencia con la presente Ley, incluyendo los criterios a seguir para la elaboración y presentación homogénea de la información financiera referida en la misma.
-TÍTULO SEGUNDO Reglas de Disciplina Financiera
+
+## TÍTULO SEGUNDO
+Reglas de Disciplina Financiera
 
 ## CAPÍTULO I
 Del Balance Presupuestario Sostenible y la Responsabilidad Hacendaria de las Entidades Federativas
@@ -263,8 +270,8 @@ Sin perjuicio de lo anterior, las Transferencias federales etiquetadas que, al 3
 Los reintegros deberán incluir los rendimientos financieros generados.
 Para los efectos de este artículo, se entenderá que las Entidades Federativas han devengado o comprometido las Transferencias federales etiquetadas, en los términos previstos en el artículo 4, fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
 
-## CAPÍTULO II
-Del Balance Presupuestario Sostenible y la Responsabilidad Hacendaria de los Municipios
+## CAPÍTULO II — Del Balance Presupuestario Sostenible y la Responsabilidad Hacendaria de los
+Municipios
 
 ### Artículo 18
 .- Las iniciativas de las Leyes de Ingresos y los proyectos de Presupuestos de Egresos de los Municipios se deberán elaborar conforme a lo establecido en la legislación local aplicable, en la Ley General de Contabilidad Gubernamental y las normas que emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberán ser congruentes con los planes estatales y municipales de desarrollo y los programas derivados de los mismos; e incluirán cuando menos objetivos anuales, estrategias y metas.
@@ -298,10 +305,10 @@ Para tal efecto, el tesorero municipal o su equivalente, será responsable de cu
 .- Los Municipios y sus Entes Públicos deberán observar las disposiciones establecidas en los artículos 8, 10, 11, 14, 15 y 17 de esta Ley.
 Adicionalmente, los Municipios y sus Entes Públicos deberán observar lo previsto en el artículo 13 de esta Ley. Lo anterior, con excepción de la fracción III, segundo párrafo de dicho artículo, la cual sólo será aplicable para los Municipios de más de 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
 Las autorizaciones a las que se hace mención en dichos artículos serán realizadas por las autoridades municipales competentes.
-TÍTULO TERCERO De la Deuda Pública y las Obligaciones
 
-## CAPÍTULO I
-De la Contratación de Deuda Pública y Obligaciones
+## TÍTULO TERCERO — De la Deuda Pública y las Obligaciones
+
+## CAPÍTULO I — De la Contratación de Deuda Pública y Obligaciones
 
 ### Artículo 22
 .- Los Entes Públicos no podrán contraer, directa o indirectamente, Financiamientos u Obligaciones con gobiernos de otras naciones, con sociedades o particulares extranjeros, ni cuando deban pagarse en moneda extranjera o fuera del territorio nacional. Asimismo, sólo podrán contraer Obligaciones o Financiamientos cuando se destinen a Inversiones públicas productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichas Obligaciones y Financiamientos, así como las reservas que deban constituirse en relación con las mismas.
@@ -381,8 +388,7 @@ En caso de no obtener el mínimo de ofertas irrevocables, la licitación públic
 
 II. La institución financiera participante que resulte ganadora del proceso competitivo se dará a conocer en un plazo no mayor a 2 días hábiles posteriores al tiempo establecido de conformidad con la fracción anterior, a través de medios públicos, incluyendo la página oficial de Internet del propio Ente Público, publicando el documento en que conste la comparación de las propuestas presentadas.
 
-## CAPÍTULO II
-De la Contratación de Obligaciones a Corto Plazo
+## CAPÍTULO II — De la Contratación de Obligaciones a Corto Plazo
 
 ### Artículo 30
 .- Las Entidades Federativas y los Municipios podrán contratar Obligaciones a corto plazo sin autorización de la Legislatura local, siempre y cuando se cumplan las siguientes condiciones:
@@ -405,8 +411,7 @@ Las Entidades Federativas y los Municipios presentarán en los informes periódi
 .- Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año.
 Artículo reformado DOF 30-01-2018
 
-## CAPÍTULO III
-De la Contratación de Deuda Pública por parte de la Ciudad de México
+## CAPÍTULO III — De la Contratación de Deuda Pública por parte de la Ciudad de México
 
 ### Artículo 33
 .- Los Financiamientos de la Ciudad de México se sujetarán a lo siguiente:
@@ -457,8 +462,7 @@ j) Programa de colocación para el resto del ejercicio fiscal, y
 
 IX. El Jefe de Gobierno de la Ciudad de México, por conducto de la secretaría de finanzas, remitirá al Congreso de la Unión a más tardar el 31 de marzo de cada año, el programa de colocación de la Deuda Pública autorizada para el ejercicio fiscal correspondiente.
 
-## CAPÍTULO IV
-De la Deuda Estatal Garantizada
+## CAPÍTULO IV — De la Deuda Estatal Garantizada
 
 ### Artículo 34
 .- El Ejecutivo Federal, por conducto de la Secretaría, podrá otorgar la garantía del Gobierno Federal a las Obligaciones constitutivas de Deuda Pública de los Estados y los Municipios.
@@ -516,8 +520,7 @@ La terminación anticipada de los convenios referidos en el presente Capítulo n
 .- El Ejecutivo Federal informará al Congreso de la Unión la Deuda Estatal Garantizada otorgada o finiquitada en términos de este Capítulo, a través de los informes trimestrales a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 Asimismo, la Secretaría enviará un reporte a la comisión legislativa bicameral sobre el resultado de las evaluaciones que realicen de los convenios de los Estados y de los Municipios que reporte cada Estado, en términos del artículo 40 de la presente Ley. Igualmente, enviará un reporte sobre el Registro Público Único de acuerdo al artículo 56 de la presente Ley.
 
-## CAPÍTULO V
-Del Sistema de Alertas
+## CAPÍTULO V — Del Sistema de Alertas
 
 ### Artículo 43
 .- La Secretaría deberá realizar una evaluación de los Entes Públicos que tengan contratados Financiamientos y Obligaciones inscritos en el Registro Público Único, cuya fuente o garantía de pago sea de Ingresos de libre disposición, de acuerdo a su nivel de endeudamiento. Para aquellos casos en los que las Entidades Federativas o Municipios realicen la afectación de sus participaciones federales en garantía o como Fuente de pago a través de un fideicomiso público sin estructura que funja como acreditado en el Financiamiento u Obligación correspondiente, se consolidarán estos con los Financiamientos y Obligaciones de la Entidad Federativa o Municipio y serán computables para efectos del Sistema de Alertas.
@@ -571,8 +574,7 @@ b) Semestralmente, para el caso de los Municipios, dentro de los 90 días natura
 c) Anualmente, en el caso de Entes Públicos distintos de la administración pública centralizada de las Entidades Federativas y los Municipios, a más tardar el último día hábil de agosto del ejercicio fiscal de que se trate.
 Artículo reformado DOF 30-01-2018
 
-## CAPÍTULO VI
-Del Registro Público Único
+## CAPÍTULO VI — Del Registro Público Único
 
 ### Artículo 49
 .- El Registro Público Único estará a cargo de la Secretaría y tendrá como objeto inscribir y transparentar la totalidad de los Financiamientos y Obligaciones a cargo de los Entes Públicos. Los efectos del Registro Público Único son únicamente declarativos e informativos, por lo que no prejuzgan ni validan los actos jurídicos por los cuales se celebraron las operaciones relativas.
@@ -633,8 +635,9 @@ La Secretaría elaborará reportes de información específicos, mismos que tend
 ### Artículo 57
 .- Para mantener actualizado el Registro Público Único, las Entidades Federativas deberán enviar trimestralmente a la Secretaría, dentro del plazo de 30 días naturales posteriores al término de los meses de marzo, junio, septiembre y diciembre, la información correspondiente a cada Financiamiento y Obligación de la Entidad Federativa y de cada uno de sus Entes Públicos.
 
-## TÍTULO CUARTO
-De la Información y Rendición de Cuentas CAPÍTULO ÚNICO
+## TÍTULO CUARTO — De la Información y Rendición de Cuentas
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 58
 .- Los Entes Públicos se sujetarán a la Ley General de Contabilidad Gubernamental para presentar la información financiera en los informes periódicos correspondientes y en su respectiva Cuenta Pública.
@@ -646,7 +649,10 @@ Lo anterior, sin perjuicio de las obligaciones de información establecidas en l
 ### Artículo 60
 .- La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley corresponderá a las entidades de fiscalización superior de las Entidades Federativas, así como a la Auditoría Superior de la Federación, conforme a lo dispuesto en el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
 La Auditoría Superior de la Federación, en los términos de las disposiciones federales aplicables, fiscalizará las garantías que, en su caso, otorgue el Gobierno Federal respecto a Financiamientos de los Estados y Municipios, así como el destino y ejercicio de los recursos correspondientes que hayan realizado dichos gobiernos locales.
-TÍTULO QUINTO De las Sanciones CAPÍTULO ÚNICO
+
+## TÍTULO QUINTO — De las Sanciones
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 61
 .- Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la legislación en materia de responsabilidades administrativas de los servidores públicos y demás disposiciones aplicables, en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.

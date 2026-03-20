@@ -13,8 +13,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 Se expide la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional.
 Denominación de la Ley reformada DOF 16-07-2025 Denominación de la Ley reformada DOF 16-07-2025
 
-## CAPÍTULO I
-DE LAS DISPOSICIONES GENERALES
+## CAPÍTULO I — DE LAS DISPOSICIONES GENERALES
 
 ### Artículo 1
 .- La presente Ley tiene por objeto regular la Educación que imparte la Secretaría de la Defensa Nacional, orientada al conocimiento y aplicación de la ciencia y el arte militar, así como otras afines a las necesidades del Ejército y Fuerza Aérea Mexicanos, aplicable en igualdad de oportunidades y de trato entre mujeres y hombres.
@@ -82,8 +81,7 @@ Artículo reformado DOF 16-07-2025
 ### Artículo 9
 .- La Dirección y Rectoría dispondrá de los recursos presupuestales que le sean asignados por conducto de la Secretaría.
 
-## CAPÍTULO II
-DEL SISTEMA EDUCATIVO MILITAR
+## CAPÍTULO II — DEL SISTEMA EDUCATIVO MILITAR
 
 ### Artículo 10
 .- El Sistema Educativo Militar es el conjunto de instituciones educativas que imparten conocimientos castrenses y policiales de distintos propósitos, tipos y niveles y modalidades, condicionados a una filosofía, doctrina e infraestructura militares propias del Ejército, Fuerza Aérea y Guardia Nacional, bajo la conducción de la Dirección y Rectoría.
@@ -163,8 +161,9 @@ V. De Actualización, y
 
 VI. De Especialización.
 
-## CAPÍTULO III
-DEL PROCESO EDUCATIVO SECCIÓN PRIMERA DE LOS TIPOS Y MODALIDADES DE LA EDUCACIÓN MILITAR
+## CAPÍTULO III — DEL PROCESO EDUCATIVO
+
+## SECCIÓN PRIMERA — DE LOS TIPOS Y MODALIDADES DE LA EDUCACIÓN MILITAR
 
 ### Artículo 17
 .- El proceso educativo será realizado en los términos de esta Ley, por los Institutos, Colegios, Escuelas Militares, Centros de Estudios, Unidades-Escuela y Dependencias de la Secretaría que tengan asignada la responsabilidad de impartir cursos considerados en el Plan General de Educación Militar.
@@ -180,7 +179,9 @@ Artículo reformado DOF 22-11-2021
 Bis.- El Programa Anual de Capacitación de la Guardia Nacional, se ajustará en lo conducente a los lineamientos del Programa Rector de Profesionalización emitido por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 El programa de capacitación y profesionalización de la Guardia Nacional, determinará los cursos que deban realizarse para conformar la ruta profesional del personal de dicha fuerza de seguridad pública.
 El personal de la Guardia Nacional deberá completar su capacitación y profesionalización policial correspondiente de manera obligatoria, de conformidad con las leyes, reglamentos, manuales y demás disposiciones relativas.
-Artículo adicionado DOF 16-07-2025 SECCIÓN SEGUNDA DE LA PLANEACIÓN INSTITUCIONAL
+Artículo adicionado DOF 16-07-2025
+
+## SECCIÓN SEGUNDA — DE LA PLANEACIÓN INSTITUCIONAL
 
 ### Artículo 20
 .- La Planeación Institucional será realizada por las Autoridades Educativas Militares de conformidad con los procedimientos que especifique el reglamento respectivo de esta Ley.
@@ -190,7 +191,8 @@ Artículo adicionado DOF 16-07-2025 SECCIÓN SEGUNDA DE LA PLANEACIÓN INSTITUCI
 
 ### Artículo 22
 .- Los planes de estudio tendrán una vigencia mínima igual al tiempo que duren los estudios a que se refieran más un cincuenta por ciento del mismo, sin detrimento de que los programas derivados de éste, sean realizadas las adecuaciones necesarias para asegurar su actualización.
-SECCIÓN TERCERA DE LA ORGANIZACIÓN E INTEGRACIÓN EDUCACIONAL
+
+## SECCIÓN TERCERA — DE LA ORGANIZACIÓN E INTEGRACIÓN EDUCACIONAL
 
 ### Artículo 23
 .- La Dirección y Rectoría expedirá las normas técnico-didácticas aplicables en el proceso educativo, de conformidad al tipo y nivel y modalidades educativas, capacitando al personal responsable de las Instituciones del Sistema Educativo Militar en su aplicación.
@@ -198,8 +200,7 @@ SECCIÓN TERCERA DE LA ORGANIZACIÓN E INTEGRACIÓN EDUCACIONAL
 ### Artículo 24
 .- La Secretaría proveerá los recursos necesarios para garantizar que las Instituciones del Sistema Educativo Militar cumplan la función Educativa.
 
-## SECCIÓN CUARTA
-DE LA EVALUACIÓN INSTITUCIONAL
+## SECCIÓN CUARTA — DE LA EVALUACIÓN INSTITUCIONAL
 
 ### Artículo 25
 .- La Dirección y Rectoría expedirá las normas técnico-didácticas para regular los procedimientos de evaluación institucional.
@@ -210,8 +211,9 @@ DE LA EVALUACIÓN INSTITUCIONAL
 ### Artículo 27
 .- La evaluación del proceso educativo estará dirigida a diagnosticar el cumplimiento de los objetivos de la Educación Militar y la calidad de los servicios educativos que proporcione por sí o por medio de otras instituciones.
 
-## CAPÍTULO IV
-DE LA ADMISIÓN SECCIÓN PRIMERA DE LOS ASPIRANTES NACIONALES
+## CAPÍTULO IV — DE LA ADMISIÓN
+
+## SECCIÓN PRIMERA — DE LOS ASPIRANTES NACIONALES
 
 ### Artículo 28
 .- El proceso de admisión a las Instituciones de Educación Militar se señalará en el reglamento respectivo de esta Ley, en el que se deberá promover la igualdad de oportunidades entre mujeres y hombres.
@@ -225,7 +227,8 @@ Artículo reformado DOF 22-05-2018
 
 ### Artículo 31
 .- La Secretaría determinará los cursos que, de acuerdo a la naturaleza de los mismos, no requieran para el ingreso un proceso de selección.
-SECCIÓN SEGUNDA DE LOS EXTRANJEROS
+
+## SECCIÓN SEGUNDA — DE LOS EXTRANJEROS
 
 ### Artículo 32
 .- La Secretaría ofrecerá los cursos a los Ministerios de Defensa de otros países para que el personal extranjero realice estudios en las Instituciones de Educación Militar.
@@ -248,7 +251,8 @@ Artículo reformado DOF 16-07-2025
 
 ### Artículo 38
 .- La Secretaría determinará sobre el alta, baja, permisos o solicitudes del personal becario extranjero.
-SECCIÓN TERCERA DE LOS MILITARES MEXICANOS EN EL EXTRANJERO
+
+## SECCIÓN TERCERA — DE LOS MILITARES MEXICANOS EN EL EXTRANJERO
 
 ### Artículo 39
 .- La Secretaría podrá convocar al personal militar para realizar cursos en el extranjero en calidad de becarios, efectuando el proceso de selección respectivo.
@@ -259,8 +263,7 @@ SECCIÓN TERCERA DE LOS MILITARES MEXICANOS EN EL EXTRANJERO
 ### Artículo 41
 .- El personal militar con calidad de becario en el extranjero será controlado por la Agregaduría Militar de México en el país anfitrión y, para el caso de que no se cuente con este tipo de representación, la Secretaría se encargará directamente de su control.
 
-## CAPÍTULO V
-DE LA ACREDITACIÓN, CERTIFICACIÓN Y REVALIDACIÓN DE ESTUDIOS
+## CAPÍTULO V — DE LA ACREDITACIÓN, CERTIFICACIÓN Y REVALIDACIÓN DE ESTUDIOS
 
 ### Artículo 42
 .- La Dirección y Rectoría dictaminará sobre la compatibilidad de los estudios realizados fuera del Sistema Educativo Militar, de conformidad al procedimiento que especifique el reglamento respectivo.
@@ -281,8 +284,7 @@ DE LA ACREDITACIÓN, CERTIFICACIÓN Y REVALIDACIÓN DE ESTUDIOS
 .- La Dirección y Rectoría establecerá los procedimientos por medio de los cuales expedirá certificados y dictámenes técnicos a quienes acrediten conocimientos adquiridos de manera autodidacta o por experiencia laboral, en relación con los empleos y especialidades del Ejército, Fuerza Aérea y Guardia Nacional.
 Artículo reformado DOF 16-07-2025
 
-## CAPÍTULO VI
-DE LAS INFRACCIONES Y SANCIONES
+## CAPÍTULO VI — DE LAS INFRACCIONES Y SANCIONES
 
 ### Artículo 48
 .- Para los efectos de esta Ley, se consideran como infracciones del personal directivo, académico, administrativo y docente del Sistema Educativo Militar, las siguientes:

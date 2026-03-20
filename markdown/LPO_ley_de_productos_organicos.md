@@ -12,7 +12,8 @@ SE EXPIDE LA
 
 ### Artículo Único
 : Se expide la Ley de Productos Orgánicos.
-TÍTULO PRIMERO DEL OBJETO Y APLICACIÓN DE LA LEY
+
+## TÍTULO PRIMERO — DEL OBJETO Y APLICACIÓN DE LA LEY
 
 ### Artículo 1
 .- La presente Ley es de orden público y de interés social y tiene por objeto:
@@ -126,14 +127,19 @@ XIII. Aplicar los derechos relacionados con los servicios en todo el Sistema de 
 
 ### Artículo 7
 .- La Secretaría se coordinará con las Dependencias de la Administración Pública Federal en el ámbito de sus respectivas competencias para lo conducente sobre la materia objeto del presente ordenamiento.
-TÍTULO SEGUNDO DE LOS CRITERIOS DE LA CONVERSIÓN, PRODUCCIÓN Y PROCESAMIENTO ORGÁNICOS CAPÍTULO PRIMERO DE LA CONVERSIÓN
+
+## TÍTULO SEGUNDO — DE LOS CRITERIOS DE LA CONVERSIÓN, PRODUCCIÓN Y PROCESAMIENTO
+ORGÁNICOS
+
+## CAPÍTULO PRIMERO — DE LA CONVERSIÓN
 
 ### Artículo 8
 .- Todos los productos deberán pasar por un periodo de conversión para acceder a la Certificación orgánica. Los productos obtenidos en periodo de conversión no podrán ser certificados ni identificados como orgánicos.
 
 ### Artículo 9
 .- Las especificaciones generales a que se sujetarán los productos en periodo de conversión se establecerán en las Disposiciones aplicables que emitirá la Secretaría.
-CAPÍTULO SEGUNDO DE LA PRODUCCIÓN Y PROCESAMIENTO
+
+## CAPÍTULO SEGUNDO — DE LA PRODUCCIÓN Y PROCESAMIENTO
 
 ### Artículo 10
 .- La Secretaría publicará, con la asesoría y opinión del Consejo, las Disposiciones aplicables para establecer los criterios que los Operadores deben cumplir en cada fase de la cadena productiva para la obtención de productos orgánicos, para que se puedan denominar como tales en el mercado nacional y con fines de exportación.
@@ -143,7 +149,10 @@ CAPÍTULO SEGUNDO DE LA PRODUCCIÓN Y PROCESAMIENTO
 
 ### Artículo 12
 .- Tratándose de productos y subproductos de la vida silvestre los Operadores observarán los criterios de la Ley General de Vida Silvestre y, tratándose de recursos, materias primas, productos y subproductos forestales, la Ley General de Desarrollo Forestal Sustentable así como las disposiciones que de ellas se deriven.
-TÍTULO TERCERO DEL CONSEJO NACIONAL DE PRODUCCIÓN ORGÁNICA CAPÍTULO ÚNICO
+
+## TÍTULO TERCERO — DEL CONSEJO NACIONAL DE PRODUCCIÓN ORGÁNICA
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 13
 .- Se crea el Consejo Nacional de Producción Orgánica como órgano de consulta de la Secretaría, con carácter incluyente y representativo de los intereses de los productores y agentes de la sociedad en materia de productos orgánicos. Este Consejo se integrará por el Titular de la Secretaría, quien lo presidirá, dos representantes de las organizaciones de procesadores orgánicos, uno de comercializadores, cuatro de Organismos de certificación, uno de consumidores y por siete de organizaciones nacionales de productores de las diversas ramas de la producción orgánica.
@@ -179,8 +188,9 @@ X. Reglamentar su funcionamiento interno, y
 
 XI. Las demás que le asignen la presente Ley y demás disposiciones que se deriven de la misma.
 
-## TÍTULO CUARTO
-DEL SISTEMA DE CONTROL Y CERTIFICACIÓN DE PRODUCTOS ORGÁNICOS CAPÍTULO PRIMERO DE LOS ORGANISMOS DE CERTIFICACIÓN Y LA CERTIFICACIÓN
+## TÍTULO CUARTO — DEL SISTEMA DE CONTROL Y CERTIFICACIÓN DE PRODUCTOS ORGÁNICOS
+
+## CAPÍTULO PRIMERO — DE LOS ORGANISMOS DE CERTIFICACIÓN Y LA CERTIFICACIÓN
 
 ### Artículo 17
 .- La Evaluación de la conformidad y Certificación de los productos orgánicos solamente podrá llevarse a cabo por la Secretaría o por Organismos de Certificación acreditados conforme a lo establecido en esta Ley y las disposiciones que se deriven de ella, así como en la Ley Federal sobre Metrología y Normalización, en su carácter de ordenamiento supletorio.
@@ -221,7 +231,9 @@ III. Las acciones a realizar por los Operadores en los casos del retiro, términ
 
 ### Artículo 26
 .- En Disposiciones aplicables se establecerán las responsabilidades de los Operadores orgánicos, los registros y sus características, y las formas en que la Secretaría y otras entidades gubernamentales se coordinarán para coadyuvar al mantenimiento del Sistema de control nacional para garantizar la integridad orgánica de los productos certificados como orgánicos.
-CAPÍTULO SEGUNDO DEL USO DE MÉTODOS, SUBSTANCIAS Y/O MATERIALES EN LA PRODUCCIÓN ORGÁNICA
+
+## CAPÍTULO SEGUNDO — DEL USO DE MÉTODOS, SUBSTANCIAS Y/O MATERIALES EN LA PRODUCCIÓN
+ORGÁNICA
 
 ### Artículo 27
 .- El uso de todos los materiales, productos e ingredientes o insumos que provengan o hayan sido producidos a partir de Métodos excluidos u organismos obtenidos o modificados genéticamente, quedan prohibidos en toda la cadena productiva de productos orgánicos.
@@ -231,7 +243,9 @@ CAPÍTULO SEGUNDO DEL USO DE MÉTODOS, SUBSTANCIAS Y/O MATERIALES EN LA PRODUCCI
 
 ### Artículo 29
 .- La Secretaría emitirá en las Disposiciones aplicables los requisitos y procedimientos para la evaluación de los materiales, sustancias, productos, insumos y los métodos e ingredientes permitidos, restringidos y prohibidos en toda la cadena productiva de productos orgánicos.
-CAPÍTULO TERCERO DE LAS REFERENCIAS EN EL ETIQUETADO Y DECLARACIÓN DE PROPIEDADES EN LOS PRODUCTOS ORGÁNICOS
+
+## CAPÍTULO TERCERO — DE LAS REFERENCIAS EN EL ETIQUETADO Y DECLARACIÓN DE PROPIEDADES EN
+LOS PRODUCTOS ORGÁNICOS
 
 ### Artículo 30
 .- Sólo los productos que cumplan con esta Ley podrán ser identificados con el término "orgánico" o denominaciones equivalentes en el etiquetado así como en la declaración de propiedades, incluido el material publicitario y los documentos comerciales y puntos de venta.
@@ -241,7 +255,11 @@ CAPÍTULO TERCERO DE LAS REFERENCIAS EN EL ETIQUETADO Y DECLARACIÓN DE PROPIEDA
 
 ### Artículo 32
 .- Observando las Disposiciones aplicables en materia de etiquetado, la Secretaría emitirá Disposiciones específicas para el etiquetado y declaración de propiedades de productos orgánicos así como del uso del distintivo nacional.
-TÍTULO QUINTO DE LAS IMPORTACIONES DE PRODUCTOS ORGÁNICOS E INSUMOS PARA LA PRODUCCIÓN ORGÁNICA CAPÍTULO ÚNICO
+
+## TÍTULO QUINTO — DE LAS IMPORTACIONES DE PRODUCTOS ORGÁNICOS E INSUMOS PARA LA
+PRODUCCIÓN ORGÁNICA
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 33
 .- Cuando se importe un producto bajo denominación orgánica o etiquetado como orgánico, deberá provenir de países en los que existan regulaciones y sistemas de control equivalentes a las existentes en los Estados Unidos Mexicanos, o en su defecto, dichos productos deberán estar certificados por un Organismo de certificación orgánica aprobado por la Secretaría.
@@ -254,7 +272,10 @@ TÍTULO QUINTO DE LAS IMPORTACIONES DE PRODUCTOS ORGÁNICOS E INSUMOS PARA LA PR
 
 ### Artículo 36
 . Las sustancias, materiales, semillas, material vegetal y/o insumos destinados a la producción orgánica podrán ser importados siempre que estén permitidos e incluidos en la lista nacional que publique la Secretaría, o en su defecto, que estén incluidos en las regulaciones internacionales en materia de alimentos orgánicos de los países de origen y con los cuales la Secretaría se reconozca equivalencia.
-TÍTULO SEXTO DE LA PROMOCIÓN Y FOMENTO CAPÍTULO ÚNICO
+
+## TÍTULO SEXTO — DE LA PROMOCIÓN Y FOMENTO
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 37
 .- A fin de promover la producción agropecuaria y alimentaria bajo métodos orgánicos, la Secretaría celebrará convenios con los gobiernos de las entidades federativas, buscando la participación de los municipios, así como con instituciones y organizaciones estatales y nacionales, públicas y privadas.
@@ -292,11 +313,17 @@ II. Apoyos directos a los pequeños productores orgánicos que les permita incre
 III. El diseño y operación de esquemas de financiamiento integral, seguro contra de riesgos y el otorgamiento de apoyo a los Operadores certificados o en conversión, y
 
 IV. Apoyos a los Organismos de certificación para el acceso al reconocimiento internacional de su Acreditación y certificados orgánicos.
-TÍTULO SÉPTIMO DE LOS CRITERIOS SOCIALES EN LOS MÉTODOS DE PRODUCCIÓN ORGÁNICA CAPÍTULO ÚNICO
+
+## TÍTULO SÉPTIMO — DE LOS CRITERIOS SOCIALES EN LOS MÉTODOS DE PRODUCCIÓN ORGÁNICA
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 42
 .- Los programas que establezca el Gobierno Federal para el apoyo diferenciado de las actividades reguladas en el presente ordenamiento, deberán considerar como ejes rectores, criterios de equidad social y sustentabilidad para el desarrollo.
-TÍTULO OCTAVO DE LAS INFRACCIONES, SANCIONES Y RECURSO ADMINISTRATIVO CAPÍTULO PRIMERO DE LAS INFRACCIONES Y SANCIONES
+
+## TÍTULO OCTAVO — DE LAS INFRACCIONES, SANCIONES Y RECURSO ADMINISTRATIVO
+
+## CAPÍTULO PRIMERO — DE LAS INFRACCIONES Y SANCIONES
 
 ### Artículo 43
 .- Son infracciones a lo establecido en la presente Ley:
@@ -333,7 +360,8 @@ se revocará la Certificación obtenida, los productos perderán su calificació
 
 ### Artículo 48
 .- En ninguno de los casos por contaminación de terceros se considerará infracción por parte del Operador orgánico ni tendrá la responsabilidad de la carga de la prueba.
-CAPÍTULO SEGUNDO DEL RECURSO ADMINISTRATIVO
+
+## CAPÍTULO SEGUNDO — DEL RECURSO ADMINISTRATIVO
 
 ### Artículo 49
 .- Los interesados afectados por los actos y resoluciones de la Secretaría que ponga fin al procedimiento administrativo, a una instancia o resuelva un expediente, podrán interponer recurso de revisión en términos de la Ley Federal de Procedimiento Administrativo.

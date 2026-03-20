@@ -14,8 +14,9 @@ SE EXPIDE EL
 Se expide el Código Nacional de Procedimientos Penales.
 LIBRO PRIMERO DISPOSICIONES GENERALES
 
-## TÍTULO I
-DISPOSICIONES PRELIMINARES CAPÍTULO ÚNICO ÁMBITO DE APLICACIÓN Y OBJETO
+## TÍTULO I — DISPOSICIONES PRELIMINARES
+
+## CAPÍTULO ÚNICO — ÁMBITO DE APLICACIÓN Y OBJETO
 
 ### Artículo 1o
 . Ámbito de aplicación Mexicana, por los delitos que sean competencia de los órganos jurisdiccionales federales y locales en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.
@@ -66,11 +67,9 @@ XVI. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero federal o d
 XVII. Tribunal de alzada: El Órgano jurisdiccional integrado por uno o tres magistrados, que resuelve la apelación, federal o de las Entidades federativas.
 Fracción recorrida DOF 25-04-2023
 
-## TÍTULO II
-PRINCIPIOS Y DERECHOS EN EL PROCEDIMIENTO
+## TÍTULO II — PRINCIPIOS Y DERECHOS EN EL PROCEDIMIENTO
 
-## CAPÍTULO I
-PRINCIPIOS EN EL PROCEDIMIENTO
+## CAPÍTULO I — PRINCIPIOS EN EL PROCEDIMIENTO
 
 ### Artículo 4o
 . Características y principios rectores El proceso penal será acusatorio y oral, en él se observarán los principios de publicidad, contradicción, concentración, continuidad e inmediación y aquellos previstos en la Constitución, Tratados y demás leyes.
@@ -109,8 +108,7 @@ Las autoridades velarán por que las personas en las condiciones o circunstancia
 ### Artículo 14
 . Principio de prohibición de doble enjuiciamiento La persona condenada, absuelta o cuyo proceso haya sido sobreseído, no podrá ser sometida a otro proceso penal por los mismos hechos.
 
-## CAPÍTULO II
-DERECHOS EN EL PROCEDIMIENTO
+## CAPÍTULO II — DERECHOS EN EL PROCEDIMIENTO
 
 ### Artículo 15
 . Derecho a la intimidad y a la privacidad En todo procedimiento penal se respetará el derecho a la intimidad de cualquier persona que intervenga en él, asimismo se protegerá la información que se refiere a la vida privada y los datos personales, en los términos y con las excepciones que fijan la Constitución, este Código y la legislación aplicable.
@@ -131,11 +129,9 @@ Corresponde al Órgano jurisdiccional velar sin preferencias ni desigualdades po
 . Derecho al respeto a la libertad personal Toda persona tiene derecho a que se respete su libertad personal, por lo que nadie podrá ser privado de la misma, sino en virtud de mandamiento dictado por la autoridad judicial o de conformidad con las demás causas y condiciones que autorizan la Constitución y este Código.
 La autoridad judicial sólo podrá autorizar como medidas cautelares, o providencias precautorias restrictivas de la libertad, las que estén establecidas en este Código y en las leyes especiales. La prisión preventiva será de carácter excepcional y su aplicación se regirá en los términos previstos en este Código.
 
-## TÍTULO III
-COMPETENCIA
+## TÍTULO III — COMPETENCIA
 
-## CAPÍTULO I
-GENERALIDADES
+## CAPÍTULO I — GENERALIDADES
 
 ### Artículo 20
 . Reglas de competencia Para determinar la competencia territorial de los Órganos jurisdiccionales federales o locales, según corresponda, se observarán las siguientes reglas:
@@ -191,8 +187,7 @@ Párrafo reformado DOF 17-06-2016
 ### Artículo 24
 . Autorización judicial para diligencias urgentes El Juez de control que resulte competente para conocer de los actos o cualquier otra medida que requiera de control judicial previo, se pronunciará al respecto durante el procedimiento correspondiente; sin embargo, cuando estas actuaciones debieran efectuarse fuera de su jurisdicción y se tratare de diligencias que requieran atención urgente, el Ministerio Público podrá pedir la autorización directamente al Juez de control competente en aquel lugar; en este caso, una vez realizada la diligencia, el Ministerio Público lo informará al Juez de control competente en el procedimiento correspondiente.
 
-## CAPÍTULO II
-INCOMPETENCIA
+## CAPÍTULO II — INCOMPETENCIA
 
 ### Artículo 25
 . Tipos o formas de incompetencia La incompetencia puede decretarse por declinatoria o por inhibitoria.
@@ -227,8 +222,7 @@ No se podrá promover la inhibitoria en los casos previstos de competencia en ra
 El Juez de control incompetente por declinatoria o inhibitoria enviará de oficio los registros y en su caso, pondrá a disposición al imputado del Juez de control competente después de haber practicado las diligencias urgentes enunciadas en el párrafo anterior.
 Si la autoridad judicial a quien se remitan las actuaciones no admite la competencia, devolverá los registros al declinante; si éste insiste en rechazarla, elevará las diligencias practicadas ante el Órgano jurisdiccional competente, de conformidad con lo que establezca la Ley Orgánica respectiva, con el propósito de que se pronuncie sobre quién deba conocer. Ningún Órgano jurisdiccional puede promover competencia a favor de su superior en grado.
 
-## CAPÍTULO III
-ACUMULACIÓN Y SEPARACIÓN DE PROCESOS
+## CAPÍTULO III — ACUMULACIÓN Y SEPARACIÓN DE PROCESOS
 
 ### Artículo 30
 . Causas de acumulación y conexidad Para los efectos de este Código, habrá acumulación de procesos cuando:
@@ -266,8 +260,7 @@ La separación de procesos se promoverá en la misma forma que la acumulación. 
 Decretada la separación de procesos, conocerá de cada asunto el Juez de control que conocía antes de haberse efectuado la acumulación. Si dicho juzgador es diverso del que decretó la separación de procesos, no podrá rehusarse a conocer del caso, sin perjuicio de que pueda suscitarse una cuestión de competencia.
 La resolución del Juez de control que declare improcedente la separación de procesos, no admitirá recurso alguno.
 
-## CAPÍTULO IV
-EXCUSAS, RECUSACIONES E IMPEDIMENTOS
+## CAPÍTULO IV — EXCUSAS, RECUSACIONES E IMPEDIMENTOS
 
 ### Artículo 36
 . Excusa o recusación Los jueces y magistrados deberán excusarse o podrán ser recusados para conocer de los asuntos en que intervengan por cualquiera de las causas de impedimento que se establecen en este Código, mismas que no podrán dispensarse por voluntad de las partes.
@@ -316,11 +309,9 @@ La sustitución del Juez o Magistrado se determinará en los términos que seña
 . Impedimentos del Ministerio Público y de peritos El Ministerio Público y los peritos deberán excusarse o podrán ser recusados por las mismas causas previstas para los jueces o magistrados.
 La excusa o la recusación será resuelta por la autoridad que resulte competente de acuerdo con las disposiciones aplicables, previa realización de la investigación que se estime conveniente.
 
-## TÍTULO IV
-ACTOS PROCEDIMENTALES
+## TÍTULO IV — ACTOS PROCEDIMENTALES
 
-## CAPÍTULO I
-FORMALIDADES
+## CAPÍTULO I — FORMALIDADES
 
 ### Artículo 44
 . Oralidad de las actuaciones procesales Las audiencias se desarrollarán de forma oral, pudiendo auxiliarse las partes con documentos o con cualquier otro medio. En la práctica de las actuaciones procesales se utilizarán los medios técnicos disponibles que permitan darle mayor agilidad, exactitud y autenticidad a las mismas, sin perjuicio de conservar registro de lo acontecido.
@@ -357,8 +348,7 @@ El Órgano jurisdiccional autorizará la expedición de copias de los contenidos
 . Utilización de medios electrónicos Durante todo el proceso penal, se podrán utilizar los medios electrónicos en todas las actuaciones para facilitar su operación, incluyendo el informe policial; así como también podrán instrumentar, para la presentación de denuncias o querellas en línea que permitan su seguimiento.
 Párrafo adicionado DOF 17-06-2016 La videoconferencia en tiempo real u otras formas de comunicación que se produzcan con nuevas tecnologías podrán ser utilizadas para la recepción y transmisión de medios de prueba y la realización de actos procesales, siempre y cuando se garantice previamente la identidad de los sujetos que intervengan en dicho acto.
 
-## CAPÍTULO II
-AUDIENCIAS
+## CAPÍTULO II — AUDIENCIAS
 
 ### Artículo 52
 . Disposiciones comunes Los actos procedimentales que deban ser resueltos por el Órgano jurisdiccional se llevarán a cabo mediante audiencias, salvo los casos de excepción que prevea este Código. Las cuestiones debatidas en una audiencia deberán ser resueltas en ella.
@@ -447,8 +437,7 @@ La resolución que decrete alguna de estas excepciones será fundada y motivada 
 El Ministerio Público, el imputado o su Defensor, así como la víctima u ofendido y su Asesor jurídico, podrán intervenir y replicar cuantas veces y en el orden que lo autorice el Órgano jurisdiccional.
 El imputado o su Defensor podrán hacer uso de la palabra en último lugar, por lo que el Órgano jurisdiccional que preside la audiencia preguntará siempre al imputado o su Defensor, antes de cerrar el debate o la audiencia misma, si quieren hacer uso de la palabra, concediéndosela en caso afirmativo.
 
-## CAPÍTULO III
-RESOLUCIONES JUDICIALES
+## CAPÍTULO III — RESOLUCIONES JUDICIALES
 
 ### Artículo 67
 . Resoluciones judiciales La autoridad judicial pronunciará sus resoluciones en forma de sentencias y autos. Dictará sentencia para decidir en definitiva y poner término al procedimiento y autos en todos los demás casos. Las resoluciones judiciales deberán mencionar a la autoridad que resuelve, el lugar y la fecha en que se dictaron y demás requisitos que este Código prevea para cada caso.
@@ -492,8 +481,7 @@ Cuando la sentencia conste en medios informáticos, electrónicos, magnéticos o
 ### Artículo 72
 . Restitución y renovación Si no existe copia de las sentencias o de otros actos procesales el Órgano jurisdiccional ordenará que se repongan, para lo cual recibirá de las partes los datos y medios de prueba que evidencien su preexistencia y su contenido. Cuando esto sea imposible, ordenará la renovación de los mismos, señalando el modo de realizarla.
 
-## CAPÍTULO IV
-COMUNICACIÓN ENTRE AUTORIDADES
+## CAPÍTULO IV — COMUNICACIÓN ENTRE AUTORIDADES
 
 ### Artículo 73
 . Regla general de la comunicación entre autoridades El Órgano jurisdiccional o el Ministerio Público, de manera fundada y motivada, podrán solicitar el auxilio a otra autoridad para la práctica de un acto procedimental. Dicha solicitud podrá realizarse por cualquier medio que garantice su autenticidad. La autoridad requerida colaborará y tramitará sin demora los requerimientos que reciba.
@@ -529,8 +517,7 @@ Podrá encomendarse la práctica de diligencias en países extranjeros a los fun
 ### Artículo 81
 . Demora o rechazo de requerimientos Cuando la cumplimentación de un requerimiento de cualquier naturaleza fuere demorada o rechazada injustificadamente, la autoridad requirente podrá dirigirse al superior jerárquico de la autoridad que deba cumplimentar dicho requerimiento a fin de que, de considerarlo procedente, ordene o gestione su tramitación inmediata.
 
-## CAPÍTULO V
-NOTIFICACIONES Y CITACIONES
+## CAPÍTULO V — NOTIFICACIONES Y CITACIONES
 
 ### Artículo 82
 . Formas de notificación Las notificaciones se practicarán personalmente, por lista, estrado o boletín judicial según corresponda y por edictos:
@@ -611,8 +598,7 @@ La citación deberá contener, además de los requisitos señalados en el artíc
 ### Artículo 93
 . Comunicación de actuaciones del Ministerio Público Cuando en el curso de una investigación el Ministerio Público deba comunicar alguna actuación a una persona, podrá hacerlo por cualquier medio que garantice la recepción del mensaje. Serán aplicables, en lo que corresponda, las disposiciones de este Código.
 
-## CAPÍTULO VI
-PLAZOS
+## CAPÍTULO VI — PLAZOS
 
 ### Artículo 94
 . Reglas generales Los actos procedimentales serán cumplidos en los plazos establecidos, en los términos que este Código autorice.
@@ -628,8 +614,7 @@ Cuando sea el Ministerio Público el que renuncie a un plazo o consienta en su a
 ### Artículo 96
 . Reposición del plazo La parte que no haya podido observar un plazo por causa no atribuible a él, podrá solicitar de manera fundada y motivada su reposición total o parcial, con el fin de realizar el acto omitido o ejercer la facultad concedida por la ley, dentro de las veinticuatro horas siguientes a aquel en que el perjudicado tenga conocimiento fehaciente del acto cuya reposición del plazo se pretenda. El Órgano jurisdiccional podrá ordenar la reposición una vez que haya escuchado a las partes.
 
-## CAPÍTULO VII
-NULIDAD DE ACTOS PROCEDIMENTALES
+## CAPÍTULO VII — NULIDAD DE ACTOS PROCEDIMENTALES
 
 ### Artículo 97
 . Principio general Cualquier acto realizado con violación de derechos humanos será nulo y no podrá ser saneado, ni convalidado y su nulidad deberá ser declarada de oficio por el Órgano jurisdiccional al momento de advertirla o a petición de parte en cualquier momento.
@@ -671,14 +656,12 @@ II. Que la reposición resulte esencial para garantizar el cumplimiento de los d
 ### Artículo 102
 . Sujetos legitimados Sólo podrá solicitar la declaración de nulidad el interviniente perjudicado por un vicio en el procedimiento, siempre que no hubiere contribuido a causarlo.
 
-## CAPÍTULO VIII
-GASTOS DE PRODUCCIÓN DE PRUEBA
+## CAPÍTULO VIII — GASTOS DE PRODUCCIÓN DE PRUEBA
 
 ### Artículo 103
 . Gastos de producción de prueba Tratándose de la prueba pericial, el Órgano jurisdiccional ordenará, a petición de parte, la designación de peritos de instituciones públicas, las que estarán obligadas a practicar el peritaje correspondiente, siempre que no exista impedimento material para ello.
 
-## CAPÍTULO IX
-MEDIOS DE APREMIO
+## CAPÍTULO IX — MEDIOS DE APREMIO
 
 ### Artículo 104
 . Imposición de medios de apremio El Órgano jurisdiccional y el Ministerio Público podrán disponer de los siguientes medios de apremio para el cumplimiento de los actos que ordenen en el ejercicio de sus funciones:
@@ -707,11 +690,9 @@ La resolución que determine la imposición de medidas de apremio deberá estar 
 La imposición del arresto sólo será procedente cuando haya mediado apercibimiento del mismo y éste sea debidamente notificado a la parte afectada.
 El Órgano jurisdiccional y el Ministerio Público podrán dar vista a las autoridades competentes para que se determinen las responsabilidades que en su caso procedan en los términos de la legislación aplicable.
 
-## TÍTULO V
-SUJETOS DEL PROCEDIMIENTO Y SUS AUXILIARES
+## TÍTULO V — SUJETOS DEL PROCEDIMIENTO Y SUS AUXILIARES
 
-## CAPÍTULO I
-DISPOSICIONES COMUNES
+## CAPÍTULO I — DISPOSICIONES COMUNES
 
 ### Artículo 105
 . Sujetos de procedimiento penal Son sujetos del procedimiento penal los siguientes:
@@ -742,8 +723,7 @@ En los casos de personas sustraídas de la acción de la justicia, se admitirá 
 . Probidad Los sujetos del procedimiento que intervengan en calidad de parte, deberán conducirse con probidad, evitando los planteamientos dilatorios de carácter formal o cualquier abuso en el ejercicio de las facultades o derechos que este Código les concede.
 El Órgano jurisdiccional procurará que en todo momento se respete la regularidad del procedimiento, el ejercicio de las facultades o derechos en términos de ley y la buena fé.
 
-## CAPÍTULO II
-VÍCTIMA U OFENDIDO
+## CAPÍTULO II — VÍCTIMA U OFENDIDO
 
 ### Artículo 108
 . Víctima u ofendido Para los efectos de este Código, se considera víctima del delito al sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva. Asimismo, se considerará ofendido a la persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista en la ley penal como delito.
@@ -825,8 +805,7 @@ En cualquier etapa del procedimiento, las víctimas podrán actuar por sí o a t
 ### Artículo 111
 . Restablecimiento de las cosas al estado previo En cualquier estado del procedimiento, la víctima u ofendido podrá solicitar al Órgano jurisdiccional, ordene como medida provisional, cuando la naturaleza del hecho lo permita, la restitución de sus bienes, objetos, instrumentos o productos del delito, o la reposición o restablecimiento de las cosas al estado que tenían antes del hecho, siempre que haya suficientes elementos para decidirlo.
 
-## CAPÍTULO III
-IMPUTADO
+## CAPÍTULO III — IMPUTADO
 
 ### Artículo 112
 . Denominación Se denominará genéricamente imputado a quien sea señalado por el Ministerio Público como posible autor o partícipe de un hecho que la ley señale como delito.
@@ -881,8 +860,7 @@ Cuando el imputado tenga a su cuidado menores de edad, personas con discapacidad
 . Declaración del imputado El imputado tendrá derecho a declarar durante cualquier etapa del procedimiento. En este caso, podrá hacerlo ante el Ministerio Público o ante el Órgano jurisdiccional, con pleno respeto a los derechos que lo amparan y en presencia de su Defensor.
 En caso que el imputado manifieste a la Policía su deseo de declarar sobre los hechos que se investigan, ésta deberá comunicar dicha situación al Ministerio Público para que se reciban sus manifestaciones con las formalidades previstas en este Código.
 
-## CAPÍTULO IV
-DEFENSOR
+## CAPÍTULO IV — DEFENSOR
 
 ### Artículo 115
 . Designación de Defensor El Defensor podrá ser designado por el imputado desde el momento de su detención, mismo que deberá ser licenciado en derecho o abogado titulado con cédula profesional. A falta de éste o ante la omisión de su designación, será nombrado el Defensor público que corresponda.
@@ -959,8 +937,7 @@ Artículo reformado DOF 17-06-2016
 ### Artículo 126
 . Entrevista con otras personas Si antes de una audiencia, con motivo de su preparación, el Defensor tuviera necesidad de entrevistar a una persona o interviniente del procedimiento que se niega a recibirlo, podrá solicitar el auxilio judicial, explicándole las razones por las que se hace necesaria la entrevista. El Órgano jurisdiccional, en caso de considerar fundada la solicitud, expedirá la orden para que dicha persona sea entrevistada por el Defensor en el lugar y tiempo que aquélla establezca o el propio Órgano jurisdiccional determine. Esta autorización no se concederá en aquellos casos en que, a solicitud del Ministerio Público, el Órgano jurisdiccional estime que la víctima o los testigos deben estar sujetos a protocolos especiales de protección.
 
-## CAPÍTULO V
-MINISTERIO PÚBLICO
+## CAPÍTULO V — MINISTERIO PÚBLICO
 
 ### Artículo 127
 . Competencia del Ministerio Público Compete al Ministerio Público conducir la investigación, coordinar a las Policías y a los servicios periciales durante la investigación, resolver sobre el ejercicio de la acción penal en la forma establecida por la ley y, en su caso, ordenar las diligencias pertinentes y útiles para demostrar, o no, la existencia del delito y la responsabilidad de quien lo cometió o participó en su comisión.
@@ -1031,8 +1008,7 @@ Fracción reformada DOF 25-04-2023 XXIII Bis. Tratándose de delitos por razón 
 
 XXIV. Las demás que señale este Código y otras disposiciones aplicables.
 
-## CAPÍTULO VI
-POLICÍA
+## CAPÍTULO VI — POLICÍA
 
 ### Artículo 132
 . Obligaciones de las y los Policías Epígrafe reformado DOF 16-12-2024 El Policía actuará bajo la conducción y mando del Ministerio Público en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución.
@@ -1084,8 +1060,7 @@ Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, s
 
 XV. Las demás que le confieran este Código y otras disposiciones aplicables.
 
-## CAPÍTULO VII
-JUECES Y MAGISTRADOS
+## CAPÍTULO VII — JUECES Y MAGISTRADOS
 
 ### Artículo 133
 . Competencia jurisdiccional Para los efectos de este Código, la competencia jurisdiccional comprende a los siguientes órganos:
@@ -1122,17 +1097,15 @@ Párrafo reformado DOF 17-06-2016 La autoridad jurisdiccional competente tramita
 Párrafo reformado DOF 17-06-2016 En ningún caso, el Órgano jurisdiccional competente para resolver la queja podrá ordenar al Órgano Jurisdiccional omiso los términos y las condiciones en que deberá subsanarse la omisión, debiéndose limitar su resolución a que se realice el acto omitido.
 Párrafo reformado DOF 17-06-2016
 
-## CAPÍTULO VIII
-AUXILIARES DE LAS PARTES
+## CAPÍTULO VIII — AUXILIARES DE LAS PARTES
 
 ### Artículo 136
 . Consultores técnicos Si por las circunstancias del caso, las partes que intervienen en el procedimiento consideran necesaria la asistencia de un consultor en una ciencia, arte o técnica, así lo plantearán al Órgano jurisdiccional. El consultor técnico podrá acompañar en las audiencias a la parte con quien colabora, para apoyarla técnicamente.
 
-## TÍTULO VI
-MEDIDAS DE PROTECCIÓN DURANTE LA INVESTIGACIÓN, FORMAS DE CONDUCCIÓN DEL IMPUTADO AL PROCESO Y MEDIDAS CAUTELARES
+## TÍTULO VI — MEDIDAS DE PROTECCIÓN DURANTE LA INVESTIGACIÓN, FORMAS DE CONDUCCIÓN
+DEL IMPUTADO AL PROCESO Y MEDIDAS CAUTELARES
 
-## CAPÍTULO I
-MEDIDAS DE PROTECCIÓN Y PROVIDENCIAS PRECAUTORIAS
+## CAPÍTULO I — MEDIDAS DE PROTECCIÓN Y PROVIDENCIAS PRECAUTORIAS
 
 ### Artículo 137
 . Medidas u Órdenes de Protección Epígrafe reformado DOF 16-12-2024 El Ministerio Público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:
@@ -1179,15 +1152,13 @@ Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el im
 Tratándose de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 Párrafo adicionado DOF 16-12-2024
 
-## CAPÍTULO II
-LIBERTAD DURANTE LA INVESTIGACIÓN
+## CAPÍTULO II — LIBERTAD DURANTE LA INVESTIGACIÓN
 
 ### Artículo 140
 . Libertad durante la investigación En los casos de detención por flagrancia, cuando se trate de delitos que no merezcan prisión preventiva oficiosa y el Ministerio Público determine que no solicitará prisión preventiva como medida cautelar, podrá disponer la libertad del imputado o imponerle una medida de protección en los términos de lo dispuesto por este Código.
 Cuando el Ministerio Público decrete la libertad del imputado, lo prevendrá a fin de que se abstenga de molestar o afectar a la víctima u ofendido y a los testigos del hecho, a no obstaculizar la investigación y comparecer cuantas veces sea citado para la práctica de diligencias de investigación, apercibiéndolo con imponerle medidas de apremio en caso de desobediencia injustificada.
 
-## CAPÍTULO III
-FORMAS DE CONDUCCIÓN DEL IMPUTADO AL PROCESO
+## CAPÍTULO III — FORMAS DE CONDUCCIÓN DEL IMPUTADO AL PROCESO
 
 ## SECCIÓN I
 Citatorio, órdenes de comparecencia y aprehensión
@@ -1297,11 +1268,9 @@ VI. Cuando, para los fines de la investigación sea necesario que el detenido en
 
 VII. El derecho a recibir atención clínica si padece una enfermedad física, se lesiona o parece estar sufriendo de un trastorno mental.
 
-## CAPÍTULO IV
-MEDIDAS CAUTELARES
+## CAPÍTULO IV — MEDIDAS CAUTELARES
 
-## SECCIÓN I
-Disposiciones generales
+## SECCIÓN I — Disposiciones generales
 
 ### Artículo 153
 . Reglas generales de las medidas cautelares Las medidas cautelares serán impuestas mediante resolución judicial, por el tiempo indispensable para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento.
@@ -1526,8 +1495,7 @@ II. Se dicte el sobreseimiento o la sentencia absolutoria, o
 
 III. El imputado se someta a la ejecución de la pena o la garantía no deba ejecutarse.
 
-## CAPÍTULO V
-DE LA SUPERVISIÓN DE LAS MEDIDAS CAUTELARES
+## CAPÍTULO V — DE LA SUPERVISIÓN DE LAS MEDIDAS CAUTELARES
 
 ## SECCIÓN I
 De la Autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso
@@ -1586,11 +1554,9 @@ Si el imputado es declarado inimputable, se citará a una audiencia de revisión
 . Registro de actividades de supervisión Se llevará un registro, por cualquier medio fidedigno, de las actividades necesarias que permitan a la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso tener certeza del cumplimiento o incumplimiento de las obligaciones impuestas.
 LIBRO SEGUNDO DEL PROCEDIMIENTO
 
-## TÍTULO I
-SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
+## TÍTULO I — SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
 
-## CAPÍTULO I
-DISPOSICIONES COMUNES
+## CAPÍTULO I — DISPOSICIONES COMUNES
 
 ### Artículo 183
 . Principio general En los asuntos sujetos a procedimiento abreviado se aplicarán las disposiciones establecidas en este Título.
@@ -1608,8 +1574,7 @@ II. La suspensión condicional del proceso.
 ### Artículo 185
 . Formas de terminación anticipada del proceso El procedimiento abreviado será considerado una forma de terminación anticipada del proceso.
 
-## CAPÍTULO II
-ACUERDOS REPARATORIOS
+## CAPÍTULO II — ACUERDOS REPARATORIOS
 
 ### Artículo 186
 . Definición Los acuerdos reparatorios son aquéllos celebrados entre la víctima u ofendido y el imputado que, una vez aprobados por el Ministerio Público o el Juez de control y cumplidos en sus términos, tienen como efecto la extinción de la acción penal.
@@ -1643,8 +1608,7 @@ El juez decretará la extinción de la acción una vez aprobado el cumplimiento 
 . Trámite Los acuerdos reparatorios deberán ser aprobados por el Juez de control a partir de la etapa de investigación complementaria y por el Ministerio Publico en la etapa de investigación inicial. En este último supuesto, las partes tendrán derecho a acudir ante el Juez de control, dentro de los cinco días siguientes a que se haya aprobado el acuerdo reparatorio, cuando estimen que el mecanismo alternativo de solución de controversias no se desarrolló conforme a las disposiciones previstas en la ley de la materia. Si el Juez de control determina como válidas las pretensiones de las partes, podrá declarar como no celebrado el acuerdo reparatorio y, en su caso, aprobar la modificación acordada entre las partes.
 Párrafo reformado DOF 29-12-2014 Previo a la aprobación del acuerdo reparatorio, el Juez de control o el Ministerio Público verificarán que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estuvieron en condiciones de igualdad para negociar y que no hayan actuado bajo condiciones de intimidación, amenaza o coacción.
 
-## CAPÍTULO III
-SUSPENSIÓN CONDICIONAL DEL PROCESO
+## CAPÍTULO III — SUSPENSIÓN CONDICIONAL DEL PROCESO
 
 ### Artículo 191
 . Definición Por suspensión condicional del proceso deberá entenderse el planteamiento formulado por el Ministerio Público o por el imputado, el cual contendrá un plan detallado sobre el pago de la reparación del daño y el sometimiento del imputado a una o varias de las condiciones que refiere este Capítulo, que garanticen una efectiva tutela de los derechos de la víctima u ofendido y que en caso de cumplirse, pueda dar lugar a la extinción de la acción penal.
@@ -1723,8 +1687,7 @@ Cuando las condiciones establecidas por el Juez de control para la suspensión c
 ### Artículo 200
 . Verificación de la existencia de un acuerdo previo Previo al comienzo de la audiencia de suspensión condicional del proceso, el Ministerio Público deberá consultar en los registros respectivos si el imputado en forma previa fue parte de algún mecanismo de solución alterna o suscribió acuerdos reparatorios, debiendo incorporar en los registros de investigación el resultado de la consulta e informar en la audiencia de los mismos.
 
-## CAPÍTULO IV
-PROCEDIMIENTO ABREVIADO
+## CAPÍTULO IV — PROCEDIMIENTO ABREVIADO
 
 ### Artículo 201
 . Requisitos de procedencia y verificación del Juez Para autorizar el procedimiento abreviado, el Juez de control verificará en audiencia los siguientes requisitos:
@@ -1772,8 +1735,8 @@ El juez deberá fijar el monto de la reparación del daño, para lo cual deberá
 ### Artículo 207
 . Reglas generales La existencia de varios coimputados no impide la aplicación de estas reglas en forma individual.
 
-## CAPÍTULO V
-DE LA SUPERVISIÓN DE LAS CONDICIONES IMPUESTAS EN LA SUSPENSIÓN CONDICIONAL DEL PROCESO
+## CAPÍTULO V — DE LA SUPERVISIÓN DE LAS CONDICIONES IMPUESTAS EN LA SUSPENSIÓN
+CONDICIONAL DEL PROCESO
 
 ### Artículo 208
 . Reglas para las obligaciones de la suspensión condicional del proceso Para el seguimiento de las obligaciones previstas en el artículo 195, fracciones III, IV, V, VI, VIII y XIII las instituciones públicas y privadas designadas por la autoridad judicial, informarán a la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso sobre su cumplimiento.
@@ -1786,8 +1749,9 @@ DE LA SUPERVISIÓN DE LAS CONDICIONES IMPUESTAS EN LA SUSPENSIÓN CONDICIONAL DE
 Si el juez determina la revocación de la suspensión condicional del proceso, concluirá la supervisión de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso.
 El Ministerio Público que reciba el reporte de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, deberá solicitar audiencia para pedir la revisión de las condiciones u obligaciones impuestas a la brevedad posible.
 
-## TÍTULO II
-PROCEDIMIENTO ORDINARIO CAPÍTULO ÚNICO ETAPAS DEL PROCEDIMIENTO
+## TÍTULO II — PROCEDIMIENTO ORDINARIO
+
+## CAPÍTULO ÚNICO — ETAPAS DEL PROCEDIMIENTO
 
 ### Artículo 211
 . Etapas del procedimiento penal El procedimiento penal comprende las siguientes etapas:
@@ -1804,11 +1768,9 @@ III. La de juicio, que comprende desde que se recibe el auto de apertura a juici
 La investigación no se interrumpe ni se suspende durante el tiempo en que se lleve a cabo la audiencia inicial hasta su conclusión o durante la víspera de la ejecución de una orden de aprehensión. El ejercicio de la acción inicia con la solicitud de citatorio a audiencia inicial, puesta a disposición del detenido ante la autoridad judicial o cuando se solicita la orden de aprehensión o comparecencia, con lo cual el Ministerio Público no perderá la dirección de la investigación.
 El proceso dará inicio con la audiencia inicial, y terminará con la sentencia firme.
 
-## TÍTULO III
-ETAPA DE INVESTIGACIÓN
+## TÍTULO III — ETAPA DE INVESTIGACIÓN
 
-## CAPÍTULO I
-DISPOSICIONES COMUNES A LA INVESTIGACIÓN
+## CAPÍTULO I — DISPOSICIONES COMUNES A LA INVESTIGACIÓN
 
 ### Artículo 212
 . Deber de investigación penal Cuando el Ministerio Público tenga conocimiento de la existencia de un hecho que la ley señale como delito, dirigirá la investigación penal, sin que pueda suspender, interrumpir o hacer cesar su curso, salvo en los casos autorizados en la misma.
@@ -1848,8 +1810,7 @@ Artículo reformado DOF 17-06-2016
 . Excepciones para el acceso a la información El Ministerio Público podrá solicitar excepcionalmente al Juez de control que determinada información se mantenga bajo reserva aún después de la vinculación a proceso, cuando sea necesario para evitar la destrucción, alteración u ocultamiento de pruebas, la intimidación, amenaza o influencia a los testigos del hecho, para asegurar el éxito de la investigación, o para garantizar la protección de personas o bienes jurídicos.
 Si el Juez de control considera procedente la solicitud, así lo resolverá y determinará el plazo de la reserva, siempre que la información que se solicita sea reservada, sea oportunamente revelada para no afectar el derecho de defensa. La reserva podrá ser prorrogada cuando sea estrictamente necesario, pero no podrá prolongarse hasta después de la formulación de la acusación.
 
-## CAPÍTULO II
-INICIO DE LA INVESTIGACIÓN
+## CAPÍTULO II — INICIO DE LA INVESTIGACIÓN
 
 ### Artículo 221
 . Formas de inicio La investigación de los hechos que revistan características de un delito podrá iniciarse por denuncia, por querella o por su equivalente cuando la ley lo exija. El Ministerio Público y la Policía están obligados a proceder sin mayores requisitos a la investigación de los hechos de los que tengan noticia.
@@ -1880,8 +1841,7 @@ La querella deberá contener, en lo conducente, los mismos requisitos que los pr
 ### Artículo 226
 . Querella de personas menores de edad o que no tienen capacidad para comprender el significado del hecho Tratándose de personas menores de dieciocho años, o de personas que no tengan la capacidad de comprender el significado del hecho, la querella podrá ser presentada por quienes ejerzan la patria potestad o la tutela o sus representantes legales, sin perjuicio de que puedan hacerlo por sí mismos, por sus hermanos o un tercero, cuando se trate de delitos cometidos en su contra por quienes ejerzan la patria potestad, la tutela o sus propios representantes.
 
-## CAPÍTULO III
-TÉCNICAS DE INVESTIGACIÓN
+## CAPÍTULO III — TÉCNICAS DE INVESTIGACIÓN
 
 ### Artículo 227
 . Cadena de custodia La cadena de custodia es el sistema de control y registro que se aplica al indicio, evidencia, objeto, instrumento o producto del hecho delictivo, desde su localización, descubrimiento o aportación, en el lugar de los hechos o del hallazgo, hasta que la autoridad competente ordene su conclusión.
@@ -2067,8 +2027,7 @@ V. El reconocimiento o examen físico de una persona cuando aquélla se niegue a
 
 VI. Las demás que señalen las leyes aplicables.
 
-## CAPÍTULO IV
-FORMAS DE TERMINACIÓN DE LA INVESTIGACIÓN
+## CAPÍTULO IV — FORMAS DE TERMINACIÓN DE LA INVESTIGACIÓN
 
 ### Artículo 253
 . Facultad de abstenerse de investigar El Ministerio Público podrá abstenerse de investigar, cuando los hechos relatados en la denuncia, querella o acto equivalente, no fueren constitutivos de delito o cuando los antecedentes y datos suministrados permitan establecer que se encuentra extinguida la acción penal o la responsabilidad penal del imputado. Esta decisión será siempre fundada y motivada.
@@ -2117,8 +2076,9 @@ Párrafo reformado DOF 17-06-2016
 La resolución que el Juez de control dicte en estos casos no admitirá recurso alguno, con excepción de aquella en que el órgano jurisdiccional se pronuncie sobre el no ejercicio de la acción penal, en cuyo caso, se suspenderán los efectos de la determinación ministerial hasta en tanto cause ejecutoria la decisión definitiva emitida.
 Párrafo reformado DOF 26-01-2024
 
-## TÍTULO IV
-DE LOS DATOS DE PRUEBA, MEDIOS DE PRUEBA Y PRUEBAS CAPÍTULO ÚNICO DISPOSICIONES COMUNES
+## TÍTULO IV — DE LOS DATOS DE PRUEBA, MEDIOS DE PRUEBA Y PRUEBAS
+
+## CAPÍTULO ÚNICO — DISPOSICIONES COMUNES
 
 ### Artículo 259
 . Generalidades Cualquier hecho puede ser probado por cualquier medio, siempre y cuando sea lícito.
@@ -2147,18 +2107,15 @@ Las partes harán valer la nulidad del medio de prueba en cualquier etapa del pr
 ### Artículo 265
 . Valoración de los datos y prueba El Órgano jurisdiccional asignará libremente el valor correspondiente a cada uno de los datos y pruebas, de manera libre y lógica, debiendo justificar adecuadamente el valor otorgado a las pruebas y explicará y justificará su valoración con base en la apreciación conjunta, integral y armónica de todos los elementos probatorios.
 
-## TÍTULO V
-ACTOS DE INVESTIGACIÓN
+## TÍTULO V — ACTOS DE INVESTIGACIÓN
 
-## CAPÍTULO I
-DISPOSICIONES GENERALES SOBRE ACTOS DE MOLESTIA
+## CAPÍTULO I — DISPOSICIONES GENERALES SOBRE ACTOS DE MOLESTIA
 
 ### Artículo 266
 . Actos de molestia Todo acto de molestia deberá llevarse a cabo con respeto a la dignidad de la persona en cuestión.
 Antes de que el procedimiento se lleve a cabo, la autoridad deberá informarle sobre los derechos que le asisten y solicitar su cooperación. Se realizará un registro forzoso sólo si la persona no está dispuesta a cooperar o se resiste. Si la persona sujeta al procedimiento no habla español, la autoridad deberá tomar medidas razonables para brindar a la persona información sobre sus derechos y para solicitar su cooperación.
 
-## CAPÍTULO II
-ACTOS DE INVESTIGACIÓN
+## CAPÍTULO II — ACTOS DE INVESTIGACIÓN
 
 ### Artículo 267
 . Inspección La inspección es un acto de investigación sobre el estado que guardan lugares, objetos, instrumentos o productos del delito.
@@ -2348,8 +2305,7 @@ Cuando el Juez de control no ratifique la medida a que hace referencia el párra
 Asimismo el Procurador, o el servidor público en quien se delegue la facultad podrá requerir a los sujetos obligados que establece la Ley Federal de Telecomunicaciones y Radiodifusión, la conservación inmediata de datos contenidos en redes, sistemas o equipos de informática, hasta por un tiempo máximo de noventa días, lo cual deberá realizarse de forma inmediata. La solicitud y entrega de los datos contenidos en redes, sistemas o equipos de informática se llevará a cabo de conformidad por lo previsto por este artículo. Lo anterior sin menoscabo de las obligaciones previstas en materia de conservación de información para las concesionarias y autorizados de telecomunicaciones en términos del artículo 190, fracción II de la Ley Federal de Telecomunicaciones y Radiodifusión.
 Artículo reformado DOF 17-06-2016
 
-## CAPÍTULO III
-PRUEBA ANTICIPADA
+## CAPÍTULO III — PRUEBA ANTICIPADA
 
 ### Artículo 304
 . Prueba anticipada Hasta antes de la celebración de la audiencia de juicio se podrá desahogar anticipadamente cualquier medio de prueba pertinente, siempre que se satisfagan los siguientes requisitos:
@@ -2374,8 +2330,7 @@ Concluido el desahogo de la prueba anticipada, se entregará el registro corresp
 Si el obstáculo que dio lugar a la práctica del anticipo de prueba no existiera para la fecha de la audiencia de juicio, se desahogará de nueva cuenta el medio de prueba correspondiente en la misma.
 Toda prueba anticipada deberá conservarse de acuerdo con las medidas dispuestas por el Juez de control.
 
-## TÍTULO VI
-AUDIENCIA INICIAL
+## TÍTULO VI — AUDIENCIA INICIAL
 
 ### Artículo 307
 . Audiencia inicial En la audiencia inicial se informarán al imputado sus derechos constitucionales y legales, si no se le hubiese informado de los mismos con anterioridad, se realizará el control de legalidad de la detención si correspondiere, se formulará la imputación, se dará la oportunidad de declarar al imputado, se resolverá sobre las solicitudes de vinculación a proceso y medidas cautelares y se definirá el plazo para el cierre de la investigación.
@@ -2547,11 +2502,9 @@ Si el Juez de control aceptara la solicitud de las partes, ordenará al Minister
 No procederá la solicitud de llevar a cabo actos de investigación que en su oportunidad se hubieren ordenado a petición de las partes y no se hubieren cumplido por negligencia o hecho imputable a ellas, ni tampoco las que fueren impertinentes, las que tuvieren por objeto acreditar hechos públicos y notorios, ni todas aquellas que hubieren sido solicitadas con fines puramente dilatorios.
 Vencido el plazo o su ampliación, la investigación sujeta a reapertura se considerará cerrada, o aún antes de ello si se hubieren cumplido las actuaciones que la motivaron, y se procederá de conformidad con lo dispuesto en este Código.
 
-## TÍTULO VII
-ETAPA INTERMEDIA
+## TÍTULO VII — ETAPA INTERMEDIA
 
-## CAPÍTULO I
-OBJETO
+## CAPÍTULO I — OBJETO
 
 ### Artículo 334
 . Objeto de la etapa intermedia La etapa intermedia tiene por objeto el ofrecimiento y admisión de los medios de prueba, así como la depuración de los hechos controvertidos que serán materia del juicio.
@@ -2700,11 +2653,9 @@ VIII. Las personas que deban ser citadas a la audiencia de debate, y
 IX. Las medidas cautelares que hayan sido impuestas al acusado.
 El Juez de control hará llegar el mismo al Tribunal de enjuiciamiento competente dentro de los cinco días siguientes de haberse dictado y pondrá a su disposición los registros, así como al acusado.
 
-## TÍTULO VIII
-ETAPA DE JUICIO
+## TÍTULO VIII — ETAPA DE JUICIO
 
-## CAPÍTULO I
-DISPOSICIONES PREVIAS
+## CAPÍTULO I — DISPOSICIONES PREVIAS
 
 ### Artículo 348
 . Juicio El juicio es la etapa de decisión de las cuestiones esenciales del proceso. Se realizará sobre la base de la acusación en el que se deberá asegurar la efectiva vigencia de los principios de inmediación, publicidad, concentración, igualdad, contradicción y continuidad.
@@ -2716,8 +2667,7 @@ Artículo reformado DOF 17-06-2016
 ### Artículo 350
 . Prohibición de intervención Los jueces que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán fungir como Tribunal de enjuiciamiento.
 
-## CAPÍTULO II
-PRINCIPIOS
+## CAPÍTULO II — PRINCIPIOS
 
 ### Artículo 351
 . Suspensión La audiencia de juicio podrá suspenderse en forma excepcional por un plazo máximo de diez días naturales cuando:
@@ -2742,8 +2692,7 @@ El Tribunal de enjuiciamiento ordenará los aplazamientos que se requieran, indi
 ### Artículo 353
 . Motivación Las decisiones del Tribunal de enjuiciamiento, así como las de su Presidente serán verbales, con expresión de sus fundamentos y motivos cuando el caso lo requiera o las partes así lo soliciten, quedando todos notificados por su emisión.
 
-## CAPÍTULO III
-DIRECCIÓN Y DISCIPLINA
+## CAPÍTULO III — DIRECCIÓN Y DISCIPLINA
 
 ### Artículo 354
 . Dirección del debate de juicio El juzgador que preside la audiencia de juicio ordenará y autorizará las lecturas pertinentes, hará las advertencias que correspondan, tomará las protestas legales y moderará la discusión; impedirá intervenciones impertinentes o que no resulten admisibles, sin coartar por ello el ejercicio de la persecución penal o la libertad de defensa. Asimismo, resolverá las objeciones que se formulen durante el desahogo de la prueba.
@@ -2766,8 +2715,7 @@ En caso de que a pesar de las medidas adoptadas no se pudiera reestablecer el or
 El Tribunal de enjuiciamiento podrá ordenar el arresto hasta por treinta y seis horas ante la contumacia de las obligaciones procesales de las personas que intervienen en un proceso penal que atenten contra el principio de continuidad, derivado de sus incomparecencias injustificadas a audiencia o aquellos actos que impidan que las pruebas puedan desahogarse en tiempo y forma.
 Párrafo reformado DOF 17-06-2016
 
-## CAPÍTULO IV
-DISPOSICIONES GENERALES SOBRE LA PRUEBA
+## CAPÍTULO IV — DISPOSICIONES GENERALES SOBRE LA PRUEBA
 
 ### Artículo 356
 . Libertad probatoria Todos los hechos y circunstancias aportados para la adecuada solución del caso sometido a juicio, podrán ser probados por cualquier medio pertinente producido e incorporado de conformidad con este Código.
@@ -2840,8 +2788,7 @@ No se exigirán estos requisitos para quien declare como testigo sobre hechos o 
 ### Artículo 370
 . Medidas de protección En caso necesario, los peritos y otros terceros que deban intervenir en el procedimiento para efectos probatorios, podrán pedir a la autoridad correspondiente que adopte medidas tendentes a que se les brinde la protección prevista para los testigos, en los términos de la legislación aplicable.
 
-## SECCIÓN III
-Disposiciones generales del interrogatorio y contrainterrogatorio
+## SECCIÓN III — Disposiciones generales del interrogatorio y contrainterrogatorio
 
 ### Artículo 371
 . Declarantes en la audiencia de juicio Antes de declarar, los testigos no podrán comunicarse entre sí, ni ver, oír o ser informados de lo que ocurra en la audiencia, por lo que permanecerán en una sala distinta a aquella en donde se desarrolle, advertidos de lo anterior por el juzgador que preside la audiencia. Serán llamados en el orden establecido. Esta disposición no aplica al acusado ni a la víctima, salvo cuando ésta deba declarar en juicio como testigo.
@@ -2935,8 +2882,7 @@ Otras pruebas
 Si con ocasión de la rendición de un medio de prueba surgiere una controversia relacionada exclusivamente con su veracidad, autenticidad o integridad, el Tribunal de enjuiciamiento podrá admitir y desahogar nuevos medios de prueba, aunque ellos no hubieren sido ofrecidos oportunamente, siempre que no hubiere sido posible prever su necesidad.
 El medio de prueba debe ser ofrecido antes de que se cierre el debate, para lo que el Tribunal de enjuiciamiento deberá salvaguardar la oportunidad de la contraparte del oferente de los medios de prueba supervenientes o de refutación, para preparar los contrainterrogatorios de testigos o peritos, según sea el caso, y para ofrecer la práctica de diversos medios de prueba, encaminados a controvertirlos.
 
-## CAPÍTULO V
-DESARROLLO DE LA AUDIENCIA DE JUICIO
+## CAPÍTULO V — DESARROLLO DE LA AUDIENCIA DE JUICIO
 
 ### Artículo 391
 . Apertura de la audiencia de juicio En el día y la hora fijados, el Tribunal de enjuiciamiento se constituirá en el lugar señalado para la audiencia. Quien la presida, verificará la presencia de los demás jueces, de las partes, de los testigos, peritos o intérpretes que deban participar en el debate y de la existencia de las cosas que deban exhibirse en él, y la declarará abierta. Advertirá al acusado y al público sobre la importancia y el significado de lo que acontecerá en la audiencia e indicará al acusado que esté atento a ella.
@@ -2969,8 +2915,7 @@ El Tribunal de enjuiciamiento podrá disponer la división de un debate en ese m
 ### Artículo 399
 . Alegatos de clausura y cierre del debate Concluido el desahogo de las pruebas, el juzgador que preside la audiencia de juicio otorgará sucesivamente la palabra al Ministerio Público, al Asesor jurídico de la víctima u ofendido del delito y al Defensor, para que expongan sus alegatos de clausura. Acto seguido, se otorgará al Ministerio Público y al Defensor la posibilidad de replicar y duplicar. La réplica sólo podrá referirse a lo expresado por el Defensor en su alegato de clausura y la dúplica a lo expresado por el Ministerio Público o a la víctima u ofendido del delito en la réplica. Se otorgará la palabra por último al acusado y al final se declarará cerrado el debate.
 
-## CAPÍTULO VI
-DELIBERACIÓN, FALLO Y SENTENCIA
+## CAPÍTULO VI — DELIBERACIÓN, FALLO Y SENTENCIA
 
 ### Artículo 400
 . Deliberación Inmediatamente después de concluido el debate, el Tribunal de enjuiciamiento ordenará un receso para deliberar en forma privada, continua y aislada, hasta emitir el fallo correspondiente. La deliberación no podrá exceder de veinticuatro horas ni suspenderse, salvo en caso de enfermedad grave del Juez o miembro del Tribunal. En este caso, la suspensión de la deliberación no podrá ampliarse por más de diez días hábiles, luego de los cuales se deberá reemplazar al Juez o integrantes del Tribunal y realizar el juicio nuevamente.
@@ -3077,8 +3022,9 @@ El aumento o la disminución de la pena, fundados en las relaciones personales o
 . Remisión de la sentencia El Tribunal de enjuiciamiento dentro de los tres días siguientes a aquél en que la sentencia condenatoria quede firme, deberá remitir copia autorizada de la misma al Juez que le corresponda la ejecución correspondiente y a las autoridades penitenciarias que intervienen en el procedimiento de ejecución para su debido cumplimiento.
 Dicha disposición también será aplicable en los casos de las sentencias condenatorias dictadas en el procedimiento abreviado.
 
-## TÍTULO IX
-PERSONAS INIMPUTABLES CAPÍTULO ÚNICO PROCEDIMIENTO PARA PERSONAS INIMPUTABLES
+## TÍTULO IX — PERSONAS INIMPUTABLES
+
+## CAPÍTULO ÚNICO — PROCEDIMIENTO PARA PERSONAS INIMPUTABLES
 
 ### Artículo 414
 . Procedimiento para la aplicación de ajustes razonables en la audiencia inicial Si en el curso de la audiencia inicial, aparecen indicios de que el imputado está en alguno de los supuestos de inimputabilidad previstos en la Parte General del Código Penal aplicable, cualquiera de las partes podrá solicitar al Juez de control que ordene la práctica de peritajes que determinen si efectivamente es inimputable y en caso de serlo, si la inimputabilidad es permanente o transitoria y, en su caso, si ésta fue provocada por el imputado. La audiencia continuará con las mismas reglas generales pero se proveerán los ajustes razonables que determine el Juez de control para garantizar el acceso a la justicia de la persona.
@@ -3102,19 +3048,16 @@ El solo hecho de ser imputable no será razón suficiente para imponer medidas c
 . Resolución del caso Comprobada la existencia del hecho que la ley señala como delito y que el inimputable intervino en su comisión, ya sea como autor o como partícipe, sin que a su favor opere alguna causa de justificación prevista en los códigos sustantivos, el Tribunal de enjuiciamiento resolverá el caso indicando que hay base suficiente para la imposición de la medida de seguridad que resulte aplicable; asimismo, le corresponderá al Órgano jurisdiccional determinar la individualización de la medida, en atención a las necesidades de prevención especial positiva, respetando los criterios de proporcionalidad y de mínima intervención. Si no se acreditan estos requisitos, el Tribunal de enjuiciamiento absolverá al inimputable.
 La medida de seguridad en ningún caso podrá tener mayor duración a la pena que le pudiera corresponder en caso de que sea imputable.
 
-## TÍTULO X
-PROCEDIMIENTOS ESPECIALES
+## TÍTULO X — PROCEDIMIENTOS ESPECIALES
 
-## CAPÍTULO I
-PUEBLOS Y COMUNIDADES INDÍGENAS
+## CAPÍTULO I — PUEBLOS Y COMUNIDADES INDÍGENAS
 
 ### Artículo 420
 . Pueblos y comunidades indígenas Cuando se trate de delitos que afecten bienes jurídicos propios de un pueblo o comunidad indígena o bienes personales de alguno de sus miembros, y tanto el imputado como la víctima, o en su caso sus familiares, acepten el modo en el que la comunidad, conforme a sus propios sistemas normativos en la regulación y solución de sus conflictos internos proponga resolver el conflicto, se declarará la extinción de la acción penal, salvo en los casos en que la solución no considere la perspectiva de género, afecte la dignidad de las personas, el interés superior de los niños y las niñas o del derecho a una vida libre de violencia hacia la mujer.
 En estos casos, cualquier miembro de la comunidad indígena podrá solicitar que así se declare ante el Juez competente.
 Se excluyen de lo anterior, los delitos previstos para prisión preventiva oficiosa en este Código y en la legislación aplicable.
 
-## CAPÍTULO II
-PROCEDIMIENTO PARA PERSONAS JURÍDICAS
+## CAPÍTULO II — PROCEDIMIENTO PARA PERSONAS JURÍDICAS
 
 ### Artículo 421
 . Ejercicio de la acción penal y responsabilidad penal autónoma Las personas jurídicas serán penalmente responsables, de los delitos cometidos a su nombre, por su cuenta, en su beneficio o a través de los medios que ellas proporcionen, cuando se haya determinado que además existió inobservancia del debido control en su organización. Lo anterior con independencia de la responsabilidad penal en que puedan incurrir sus representantes o administradores de hecho o de derecho.
@@ -3185,8 +3128,7 @@ Artículo reformado DOF 17-06-2016
 . Sentencias En la sentencia que se dicte el Órgano jurisdiccional resolverá lo pertinente a la persona física imputada, con independencia a la responsabilidad penal de la persona jurídica, imponiendo la sanción procedente.
 Párrafo reformado DOF 17-06-2016 En lo no previsto por este Capítulo, se aplicarán en lo que sea compatible, las reglas del procedimiento ordinario previstas en este Código.
 
-## CAPÍTULO III
-ACCIÓN PENAL POR PARTICULAR
+## CAPÍTULO III — ACCIÓN PENAL POR PARTICULAR
 
 ### Artículo 426
 . Acción penal por particulares El ejercicio de la acción penal corresponde al Ministerio Público, pero podrá ser ejercida por los particulares que tengan la calidad de víctima u ofendido en los casos y conforme a lo dispuesto en este Código.
@@ -3234,11 +3176,9 @@ La carga de la prueba para acreditar la existencia del delito y la responsabilid
 A la acusación de la víctima u ofendido, le serán aplicables las reglas previstas para la acusación presentada por el Ministerio Público.
 De igual forma, salvo disposición legal en contrario, en la substanciación de la acción penal promovida por particulares, se observarán en todo lo que resulte aplicable las disposiciones relativas al procedimiento, previstas en este Código y los mecanismos alternativos de solución de controversias.
 
-## TÍTULO XI
-ASISTENCIA JURÍDICA INTERNACIONAL EN MATERIA PENAL
+## TÍTULO XI — ASISTENCIA JURÍDICA INTERNACIONAL EN MATERIA PENAL
 
-## CAPÍTULO I
-DISPOSICIONES GENERALES
+## CAPÍTULO I — DISPOSICIONES GENERALES
 
 ### Artículo 433
 . Disposiciones generales Los Estados Unidos Mexicanos prestarán a cualquier Estado extranjero que lo requiera o autoridad ministerial o judicial, tanto en el ámbito federal como del fuero común, la más amplia ayuda relacionada con la investigación, el procesamiento y la sanción de delitos que correspondan a la jurisdicción de éste.
@@ -3345,8 +3285,7 @@ Cuando no sea posible cumplir con la solicitud, en todo o en parte, la Autoridad
 . Confidencialidad y limitaciones en el uso de la información La Autoridad Central, así como aquellas autoridades que tengan conocimiento o participen en la ejecución y desahogo de alguna solicitud de asistencia, están obligadas a mantener confidencialidad sobre el contenido de la misma y de los documentos que la sustenten.
 La obtención de información y pruebas suministradas en atención a una solicitud de asistencia jurídica internacional, sólo podrán ser utilizadas para el objetivo por el que fue solicitada y para la investigación o proceso judicial que se trate, salvo que se obtenga el consentimiento expreso y por escrito del Estado o la autoridad requirente para su uso con fines diversos.
 
-## CAPÍTULO II
-FORMAS ESPECÍFICAS DE ASISTENCIA
+## CAPÍTULO II — FORMAS ESPECÍFICAS DE ASISTENCIA
 
 ### Artículo 445
 . Notificación de documentos procesales En aquellas asistencias que tengan como finalidad la notificación de documentos, se deberá especificar el nombre y domicilio de la persona o personas a quienes se deba notificar.
@@ -3395,18 +3334,15 @@ La diligencia a desahogar será conducida en todo momento por el agente del Mini
 . Gastos de cumplimentación El Estado mexicano sufragará todos los gastos relacionados con el cumplimiento de una solicitud de asistencia jurídica internacional, salvo los honorarios legales de peritos y los relacionados con el traslado de testigos.
 La Autoridad Central tiene la facultad de determinar, de acuerdo con la naturaleza de la solicitud, aquellos casos en los que no sea posible cubrir el costo de su desahogo, lo que comunicará de inmediato al Estado o a la autoridad requirente para que sufrague los mismos, o en su defecto decida o no continuar cumplimentando la petición.
 
-## CAPÍTULO III
-DE LA ASISTENCIA INFORMAL
+## CAPÍTULO III — DE LA ASISTENCIA INFORMAL
 
 ### Artículo 455
 . Asistencia informal Toda aquella información o documentación que puede ser obtenida de manera informal por la Autoridad Central, sin que medie una solicitud oficial basada en un convenio o Tratado internacional ni formalidad alguna, es una asistencia informal.
 Este tipo de información o documentación sólo servirá como indicio a la autoridad investigadora y en ningún caso podrá formalizarse, a menos que sea requerida mediante la figura de asistencia jurídica internacional, cubriendo todos los requisitos señalados en los convenios y Tratados de conformidad con los preceptos establecidos en el presente Código.
 
-## TÍTULO XII
-RECURSOS
+## TÍTULO XII — RECURSOS
 
-## CAPÍTULO I
-DISPOSICIONES COMUNES
+## CAPÍTULO I — DISPOSICIONES COMUNES
 
 ### Artículo 456
 . Reglas generales Las resoluciones judiciales podrán ser recurridas sólo por los medios y en los casos expresamente establecidos en este Código.
@@ -3450,8 +3386,7 @@ Si sólo uno de varios imputados por el mismo delito interpusiera algún recurso
 ### Artículo 464
 . Rectificación Los errores de derecho en la fundamentación de la sentencia o resolución impugnadas que no hayan influido en la parte resolutiva, así como los errores de forma en la transcripción, en la designación o el cómputo de las penas no anularán la resolución, pero serán corregidos en cuanto sean advertidos o señalados por alguna de las partes, o aún de oficio.
 
-## CAPÍTULO II
-RECURSOS EN PARTICULAR
+## CAPÍTULO II — RECURSOS EN PARTICULAR
 
 ## SECCIÓN I
 Revocación
@@ -3612,8 +3547,9 @@ En estos casos, el Tribunal de alzada modificará o revocará la sentencia. Sin 
 También es admisible la prueba propuesta por el imputado o en su favor, incluso relacionada con la determinación de los hechos que se discuten, cuando sea indispensable para sustentar el agravio que se formula.
 Las partes podrán ofrecer medio de prueba esencial para resolver el fondo del reclamo, sólo cuando tengan el carácter de superveniente.
 
-## TÍTULO XIII
-RECONOCIMIENTO DE INOCENCIA DEL SENTENCIADO Y ANULACIÓN DE SENTENCIA CAPÍTULO ÚNICO PROCEDENCIA
+## TÍTULO XIII — RECONOCIMIENTO DE INOCENCIA DEL SENTENCIADO Y ANULACIÓN DE SENTENCIA
+
+## CAPÍTULO ÚNICO — PROCEDENCIA
 
 ### Artículo 485
 . Causas de extinción de la acción penal La pretensión punitiva y la potestad para ejecutar las penas y medidas de seguridad se extinguirán por las siguientes causas:

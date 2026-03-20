@@ -16,8 +16,7 @@ Se expide la Ley de Fomento a la Industria Vitivinícola.
 ## Título I
 Objeto y Definiciones de la Ley
 
-## Capítulo I
-Disposiciones Generales
+## Capítulo I — Disposiciones Generales
 
 ### Artículo 1
 . La presente Ley es de orden público e interés general y tiene por objeto impulsar, fomentar, promover y difundir las actividades relacionadas al Sector, en concordancia con la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, la Ley Federal sobre Metrología y Normalización y la Ley de Desarrollo Rural Sustentable, y demás ordenamientos legales aplicables, para impulsar una mayor productividad y competitividad de la actividad. Además de establecer las bases para el impulso y desarrollo de la industria vitivinícola mexicana.
@@ -93,11 +92,9 @@ III. La tecnificación de los procesos de producción, así como el empleo de nu
 ### Artículo 8
 . El Ejecutivo Federal, a través de sus dependencias y entidades, podrá suscribir convenios de coordinación con los gobiernos de las entidades federativas, y de los Municipios para el cumplimiento de los objetivos de esta Ley.
 
-## Título II
-De la Comisión
+## Título II — De la Comisión
 
-## Capítulo I
-De la Integración de la Comisión
+## Capítulo I — De la Integración de la Comisión
 
 ### Artículo 9
 . Se crea la Comisión Intersecretarial de Fomento a la Industria Vitivinícola, como órgano de consulta y coordinación de la Administración Pública Federal, de conformidad con lo establecido en esta Ley y demás disposiciones aplicables.
@@ -142,8 +139,7 @@ IX. Las demás que establezcan las disposiciones legales aplicables.
 ### Artículo 15
 . La Comisión sesionará con la mitad más uno de sus miembros. Las resoluciones y acuerdos se tomarán por mayoría simple de votos. El Presidente tendrá voto calificado, en los casos de empate.
 
-## Capítulo II
-De los Órganos de la Comisión
+## Capítulo II — De los Órganos de la Comisión
 
 ### Artículo 16
 . El Presidente y Secretario Ejecutivo de la Comisión tendrán las siguientes facultades:
@@ -245,8 +241,7 @@ II. Promover las energías renovables utilizadas en la vitivinicultura, en apego
 ## Título III
 De la Normatividad, la Certificación, las Energías Renovables en la Vinicultura y los Mecanismos de Cooperación Nacional e Internacional
 
-## Capítulo I
-De la Normatividad
+## Capítulo I — De la Normatividad
 
 ### Artículo 30
 . Los productores y envasadores de Vino deben cumplir con los sistemas de control de calidad, especificaciones fisicoquímicas, envase, embalaje e información comercial establecidas en las disposiciones sanitarias y normas oficiales mexicanas del Sector que le sean aplicables.
@@ -254,11 +249,9 @@ De la Normatividad
 ### Artículo 31
 . La evaluación de la conformidad del Vino debe llevarse a cabo conforme lo dispuesto por la Ley Federal sobre Metrología y Normalización y su Reglamento y en las normas oficiales mexicanas de la calidad y clasificación del Vino Mexicano aplicables al Sector, a fin de corroborar la autenticidad de la calidad y clasificación del Vino Mexicano.
 
-## Título IV
-De la Promoción del Vino Mexicano
+## Título IV — De la Promoción del Vino Mexicano
 
-## Capítulo I
-Del Fomento, Difusión y Distribución
+## Capítulo I — Del Fomento, Difusión y Distribución
 
 ### Artículo 32
 . Corresponden a la Comisión la promoción y difusión de los productos vitivinícolas, la cual podrá:

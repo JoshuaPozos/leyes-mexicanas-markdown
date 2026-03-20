@@ -11,7 +11,9 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 SE EXPIDE LA  .
 
 ### Artículo Único
-Se expide la Ley de Tesorería de la Federación TÍTULO PRIMERO DE LAS DISPOSICIONES GENERALES
+Se expide la Ley de Tesorería de la Federación
+
+## TÍTULO PRIMERO — DE LAS DISPOSICIONES GENERALES
 
 ### Artículo 1
 .- Las disposiciones de esta Ley son de orden público y tienen como objeto regular las Funciones de tesorería, así como las demás actividades relacionadas con éstas, las cuales estarán a cargo de la Secretaría de Hacienda y Crédito Público, a través de la Tesorería de la Federación.
@@ -52,10 +54,10 @@ XIII. Tesorería: la Tesorería de la Federación.
 ### Artículo 4
 .- En lo no previsto en esta Ley se aplicarán supletoriamente el Código Fiscal de la Federación y la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 La interpretación de esta Ley para efectos administrativos, corresponde a la Secretaría por conducto de la Tesorería.
-TÍTULO SEGUNDO DE LAS FUNCIONES DE TESORERÍA
 
-## CAPÍTULO I
-DISPOSICIONES COMUNES
+## TÍTULO SEGUNDO — DE LAS FUNCIONES DE TESORERÍA
+
+## CAPÍTULO I — DISPOSICIONES COMUNES
 
 ### Artículo 5
 .- Las Funciones de tesorería corresponden a la Tesorería y se realizarán directamente por ésta o, en su nombre, por conducto de los Auxiliares.
@@ -123,8 +125,7 @@ Los servidores públicos adscritos a la Tesorería y a los Auxiliares deberán p
 ### Artículo 16
 .- Durante el ejercicio de las Funciones de tesorería corresponderá a la Tesorería o a los Auxiliares ejercer la función de custodia de los recursos o valores de la propiedad o al cuidado del Gobierno Federal hasta su entrega, en los términos que establezca esta Ley y el Reglamento.
 
-## CAPÍTULO II
-DEL SISTEMA DE CUENTA ÚNICA DE TESORERÍA
+## CAPÍTULO II — DEL SISTEMA DE CUENTA ÚNICA DE TESORERÍA
 
 ### Artículo 17
 .- El Sistema de Cuenta Única de Tesorería será obligatorio para las Dependencias y Entidades, sin perjuicio de la autonomía presupuestaria que, en su caso, les corresponda en términos de las disposiciones jurídicas aplicables.
@@ -143,8 +144,7 @@ Lo anterior, asegurando las condiciones óptimas de liquidez y seguridad de los 
 ### Artículo 20
 .- La Tesorería podrá disponer, en cualquier momento, que los recursos públicos federales que deban recaudar las Dependencias y Entidades, así como los pagos que éstas deban realizar, con cargo a las cuentas bancarias que autorice dicha Tesorería conforme al último párrafo del artículo 18 de esta Ley, se manejen o realicen, temporal o permanentemente, de manera centralizada en la propia Tesorería y que los recursos públicos federales que se mantengan en dichas cuentas bancarias se concentren en la Cuenta Corriente.
 
-## CAPÍTULO III
-DE LA RECAUDACIÓN
+## CAPÍTULO III — DE LA RECAUDACIÓN
 
 ### Artículo 21
 .- La Tesorería tendrá a su cargo la recaudación de recursos y valores propiedad o al cuidado del Gobierno Federal.
@@ -190,8 +190,9 @@ Una vez recibida la solicitud correspondiente, dentro de un plazo de treinta dí
 La Tesorería determinará la procedencia de la devolución dentro de los treinta días hábiles siguientes a la recepción del dictamen a que se refiere el párrafo anterior y, en caso de ser procedente, contará con un plazo de cinco días hábiles para realizar la devolución correspondiente.
 En aquellos casos en que no se realice la devolución dentro del plazo de cinco días a que se refiere el párrafo anterior, además del pago principal se deberán pagar los intereses que correspondan en términos del Reglamento.
 
-## CAPÍTULO IV
-DE LA ADMINISTRACIÓN DE RECURSOS Y VALORES Sección Primera De la Administración
+## CAPÍTULO IV — DE LA ADMINISTRACIÓN DE RECURSOS Y VALORES
+
+## Sección Primera — De la Administración
 
 ### Artículo 26
 .- La administración de los recursos de la propiedad del Gobierno Federal a cargo de la Tesorería se realizará por la misma en términos que establezca el Reglamento.
@@ -202,7 +203,8 @@ Para llevar a cabo la administración de los recursos a que se refiere este art�
 
 ### Artículo 28
 .- La administración de los recursos al cuidado del Gobierno Federal se realizará en los términos que se pacten en los instrumentos jurídicos que al efecto se celebren con la Tesorería.
-Sección Segunda De los Depósitos ante la Tesorería
+
+## Sección Segunda — De los Depósitos ante la Tesorería
 
 ### Artículo 29
 .- La Tesorería podrá constituir depósitos, en moneda nacional o extranjera, en los siguientes casos:
@@ -221,7 +223,8 @@ Las autoridades que exijan, soliciten o acepten la constitución de los depósit
 ### Artículo 30
 .- Los recursos entregados a la Tesorería sin concepto o instrucción de destino o aplicación se considerarán depósitos regulados por esta Sección.
 La Tesorería aplicará al erario federal, en el concepto respectivo de la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda, los recursos a que se refiere el párrafo anterior, atendiendo a su naturaleza, si dentro de los dos años posteriores a la fecha en que se haya realizado la entrega de los recursos de que se trate no se señala el concepto del Entero o la instrucción del destino o aplicación de los mismos.
-Sección Tercera De la Inversión de las Disponibilidades
+
+## Sección Tercera — De la Inversión de las Disponibilidades
 
 ### Artículo 31
 .- La Secretaría contará con un Comité Técnico que emitirá las políticas y directrices aplicables en materia de inversión y administración de la liquidez.
@@ -257,8 +260,9 @@ Para efectos de esta Ley, se entiende que los derechos patrimoniales incluyen lo
 ### Artículo 37
 .- Al efectuarse la disolución y liquidación de las personas morales a que se refiere esta Sección, la Dependencia coordinadora de sector deberá realizar el Entero de la cuota de liquidación y del remanente del haber social que corresponda al Gobierno Federal, de conformidad con las disposiciones jurídicas aplicables.
 
-## CAPÍTULO V
-DE LOS PAGOS Sección Primera De los Pagos
+## CAPÍTULO V — DE LOS PAGOS
+
+## Sección Primera — De los Pagos
 
 ### Artículo 38
 .- La Tesorería efectuará los pagos que corresponda realizar al Gobierno Federal en función de las disponibilidades y de conformidad con las disposiciones jurídicas aplicables.
@@ -275,7 +279,8 @@ Quedan exceptuadas de lo dispuesto en el párrafo anterior, las cuentas bancaria
 ### Artículo 41
 .- Las cantidades que resulten de pagos improcedentes o en exceso que realice la Tesorería o los Auxiliares, obligarán a los receptores o beneficiarios de los mismos a enterarlos por concepto de devolución o reintegro, el cual deberá realizarse en un plazo de tres días hábiles contado a partir de que su devolución les sea requerida por la autoridad que instruyó su pago, conforme al procedimiento previsto en el Reglamento.
 La devolución o reintegro a que se refiere el párrafo anterior realizado fuera del plazo señalado, obliga al receptor o beneficiario a pagar los rendimientos financieros en la forma y términos que establezca el Reglamento.
-Sección Segunda De la Compensación
+
+## Sección Segunda — De la Compensación
 
 ### Artículo 42
 .- Corresponde a la Tesorería operar el sistema de compensación de créditos y adeudos recíprocos, líquidos y exigibles, entre las Dependencias, las Entidades, y entre estas últimas y las Dependencias, de conformidad con lo dispuesto en el Reglamento y demás disposiciones jurídicas aplicables.
@@ -283,8 +288,7 @@ Sección Segunda De la Compensación
 ### Artículo 43
 .- La Secretaría operará un procedimiento de compensación entre la Federación y las Entidades Federativas o municipios, respecto de las cantidades que deban concentrar a la Tesorería las Entidades Federativas o municipios con las cantidades que les correspondan a éstos percibir por concepto de participaciones federales, en términos de la Ley de Coordinación Fiscal y demás disposiciones jurídicas aplicables.
 
-## CAPÍTULO VI
-DE LAS GARANTÍAS
+## CAPÍTULO VI — DE LAS GARANTÍAS
 
 ### Artículo 44
 .- Las garantías que aseguren el interés fiscal, deberán otorgarse a favor de la Tesorería o de los Auxiliares facultados legalmente para aplicar el procedimiento administrativo de ejecución y cobrar créditos fiscales federales.
@@ -327,8 +331,7 @@ VI. Cualquier otra que, en su caso, determine la Tesorería mediante disposicion
 ### Artículo 49
 .- En los casos de otorgamiento de garantías y avales a cargo del Gobierno Federal, previstos en las leyes aplicables, la intervención de la Tesorería consistirá en suscribir, de manera conjunta con las demás unidades administrativas competentes de la Secretaría, los documentos que amparen dichas garantías y avales, así como promover, cuando proceda, la cancelación de dichas obligaciones o hacer efectivas las contragarantías que, en su caso, se hubieren pactado.
 
-## CAPÍTULO VII
-DE LA PRESCRIPCIÓN
+## CAPÍTULO VII — DE LA PRESCRIPCIÓN
 
 ### Artículo 50
 .- Los depósitos al cuidado o constituidos ante la Tesorería a que se refiere el artículo 29 de esta Ley, inclusive los rendimientos que en su caso generen, prescribirán a favor del erario federal en el plazo de dos años, contados a partir de la fecha en que pudo ser exigida jurídicamente su devolución o entrega por el depositante o por sus legítimos beneficiarios.
@@ -340,10 +343,10 @@ La Tesorería podrá declarar de oficio la prescripción de los depósitos que c
 .- Los créditos a cargo del Gobierno Federal prescribirán en el término de dos años, contado a partir de la fecha en que el acreedor pueda legalmente exigir su pago, salvo que las leyes establezcan otro término, caso en el que se estará a lo que éstas dispongan.
 El término de prescripción a que se refiere el párrafo anterior se interrumpe por cada gestión de cobro realizada, mediante escrito, por quien tenga legítimo derecho para exigir su pago, y se suspende a partir del ejercicio de las acciones promovidas con ese objeto ante los tribunales competentes y hasta la resolución definitiva.
 Transcurrido el plazo a que se refiere el primer párrafo de este artículo, las autoridades competentes para ordenar o autorizar los pagos declararán de oficio la prescripción correspondiente.
-TÍTULO TERCERO DE LA VIGILANCIA DE LOS RECURSOS Y VALORES
 
-## CAPÍTULO I
-DE LA VIGILANCIA
+## TÍTULO TERCERO — DE LA VIGILANCIA DE LOS RECURSOS Y VALORES
+
+## CAPÍTULO I — DE LA VIGILANCIA
 
 ### Artículo 52
 .- La Tesorería llevará a cabo, de manera directa, la función de vigilancia de las Funciones de tesorería, a fin de comprobar que la recaudación, manejo, ejercicio, administración, inversión, pago, reintegro o custodia de los recursos o valores de la propiedad o al cuidado del Gobierno Federal y, en general que dichas Funciones, se realicen conforme a las disposiciones jurídicas aplicables, en el territorio nacional o en el extranjero, con independencia de quien las realice o deba realizarlas.
@@ -378,8 +381,7 @@ XI. Coadyuvar con las Dependencias y Entidades que soliciten el apoyo de la Teso
 XII. Las demás que establezcan esta Ley y otras disposiciones jurídicas aplicables.
 Las observaciones y recomendaciones a que se refieren las fracciones IV y V de este artículo deberán publicarse en la página de Internet de la Secretaría.
 
-## CAPÍTULO II
-DE LOS MONTOS A RESARCIR
+## CAPÍTULO II — DE LOS MONTOS A RESARCIR
 
 ### Artículo 54
 .- Cuando derivado de los actos de vigilancia a que se refiere esta Ley se detecte alguna irregularidad que implique la falta de Concentración o Entero de recursos a la Tesorería, concluido el acto de vigilancia de seguimiento correspondiente, la Tesorería determinará el monto a resarcir en cantidad líquida por el o los probables responsables.
@@ -393,8 +395,7 @@ El monto a que se refiere el párrafo anterior tendrá la naturaleza de crédito
 ### Artículo 55
 .- Para efectos del procedimiento a que se refiere el artículo anterior, a falta de disposición expresa y en los casos en que no se contraponga, se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo respecto a las cuestiones procedimentales y el Código Fiscal de la Federación respecto a los conceptos fiscales.
 
-## CAPÍTULO III
-DE LAS INFRACCIONES Y MEDIDAS DE APREMIO
+## CAPÍTULO III — DE LAS INFRACCIONES Y MEDIDAS DE APREMIO
 
 ### Artículo 56
 .- Son infracciones de las personas físicas o morales que recauden, manejen, ejerzan, administren, inviertan, paguen, reintegren o custodien recursos y valores de la propiedad o al cuidado del Gobierno Federal, así como de los servidores públicos adscritos a los Auxiliares, por el incumplimiento de las obligaciones siguientes:

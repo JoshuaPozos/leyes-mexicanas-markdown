@@ -12,7 +12,9 @@ SE EXPIDE LA   Y SE ABROGA LA LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN.
 
 ### Artículo Único
 Se expide la Ley de Infraestructura de la Calidad para quedar como sigue:
-LIBRO PRIMERO DEL SISTEMA NACIONAL DE INFRAESTRUCTURA DE LA CALIDAD TÍTULO PRIMERO DISPOSICIONES PRELIMINARES
+LIBRO PRIMERO DEL SISTEMA NACIONAL DE INFRAESTRUCTURA DE LA CALIDAD
+
+## TÍTULO PRIMERO — DISPOSICIONES PRELIMINARES
 
 ## Capítulo I
 Objeto de la Ley y Atribuciones de las Autoridades
@@ -275,10 +277,11 @@ Para el caso específico de Normas Oficiales Mexicanas y los Estándares relativ
 
 ### Artículo 14
 . Las Autoridades Normalizadoras solicitarán a la Comisión la creación o eliminación de Comités Mexicanos.
-La Comisión deberá aprobar o rechazar las solicitudes de creación o eliminación de Comités Mexicanos, de acuerdo con los requisitos y el procedimiento previstos TÍTULO SEGUNDO DE LAS INSTANCIAS ENCARGADAS DE LA NORMALIZACIÓN
+La Comisión deberá aprobar o rechazar las solicitudes de creación o eliminación de Comités Mexicanos, de acuerdo con los requisitos y el procedimiento previstos
 
-## Capítulo I
-De la Integración y Organización
+## TÍTULO SEGUNDO — DE LAS INSTANCIAS ENCARGADAS DE LA NORMALIZACIÓN
+
+## Capítulo I — De la Integración y Organización
 
 ### Artículo 15
 . Las instancias encargadas de la normalización forman parte del Sistema Nacional de Infraestructura de la Calidad y son las siguientes:
@@ -289,8 +292,9 @@ II. Las Autoridades Normalizadoras, y
 
 III. Los Comités Consultivos Nacionales de Normalización y, en su caso, sus subcomités y grupos de trabajo.
 
-## Capítulo II
-De la Comisión Sección Primera De su Integración y Atribuciones
+## Capítulo II — De la Comisión
+
+## Sección Primera — De su Integración y Atribuciones
 
 ### Artículo 16
 . La Comisión es un órgano colegiado presidido por la persona titular de la Secretaría y es la instancia responsable de dirigir y coordinar las actividades en materia de normalización, estandarización, evaluación de la conformidad y metrología.
@@ -378,12 +382,14 @@ I. Solicitar al pleno de la Comisión, por conducto del Secretariado Ejecutivo, 
 II. Solicitar al pleno de la Comisión por conducto del Secretariado Ejecutivo el análisis o el estudio de temas que incidan o afecten las actividades de normalización, estandarización, acreditación, evaluación de la conformidad o metrología, y
 
 III. Participar en los mecanismos, estrategias y cualquier otra actividad para el fortalecimiento y la difusión del Sistema Nacional de Infraestructura de la Calidad y de los trabajos de la Comisión.
-Sección Segunda Del Consejo Técnico
+
+## Sección Segunda — Del Consejo Técnico
 
 ### Artículo 21
 . El Consejo Técnico es el órgano auxiliar de carácter consultivo de la Comisión, encargado de analizar, elaborar y proponer soluciones a los asuntos que le sean encomendados o delegados por el Presidente de la Comisión. Su integración, organización y funcionamiento se precisarán en el Reglamento.
 Para el óptimo desempeño de sus funciones consultivas, el Consejo Técnico podrá integrar grupos de trabajo con el fin de atender los temas específicos que le encomiende o delegue el Presidente de la Comisión.
-Sección Tercera Del Secretariado Ejecutivo
+
+## Sección Tercera — Del Secretariado Ejecutivo
 
 ### Artículo 22
 . El Secretariado Ejecutivo de la Comisión es la instancia coordinadora del Sistema Nacional de Infraestructura de la Calidad, y será quien ejecute las determinaciones de la Comisión. Sus funciones serán ejercidas por la Secretaría de manera permanente.
@@ -403,15 +409,13 @@ V. Solicitar a los miembros de la Comisión, la información que considere perti
 
 VI. Las demás que le asigne el Presidente de la Comisión.
 
-## Capítulo III
-De las Autoridades Normalizadoras
+## Capítulo III — De las Autoridades Normalizadoras
 
 ### Artículo 24
 . La elaboración y expedición de las Normas Oficiales Mexicanas corre a cargo de las Autoridades Normalizadoras. Para su elaboración, en todo caso, las Autoridades Normalizadoras deberán elaborar o aceptar las propuestas de Normas Oficiales Mexicanas, así como constituir y presidir los Comités Consultivos Nacionales de Normalización que consideren pertinentes en razón a la diversidad de materias de las que sean competentes.
 Las Autoridades Normalizadoras deben contribuir a la integración y ejecución del Programa con las propuestas de Normas Oficiales Mexicanas que estimen convenientes para atender los objetivos legítimos de interés público.
 
-## Capítulo IV
-De los Comités Consultivos Nacionales de Normalización
+## Capítulo IV — De los Comités Consultivos Nacionales de Normalización
 
 ### Artículo 25
 . Los Comités Consultivos Nacionales de Normalización son órganos colegiados multisectoriales encargados de la elaboración de las Normas Oficiales Mexicanas, de su promoción, así como de la difusión de su cumplimiento.
@@ -439,7 +443,8 @@ V. Cualquier otra actividad relacionada con sus funciones que le sea encomendada
 . Las sesiones de los Comités Consultivos Nacionales de Normalización podrán ser presenciales o por medios de comunicación remota.
 Las decisiones y resoluciones que se tomen en los Comités Consultivos Nacionales de Normalización, subcomités, incluyendo a los grupos de trabajo, respecto a los anteproyectos y proyectos de Normas Oficiales Mexicanas se tomarán por consenso. De no alcanzarse tal consenso, se tomarán por mayoría simple de los votos de los miembros presentes. En caso de empate, el presidente del comité tendrá voto de calidad.
 Para efectos de esta Ley, se entiende por consenso, el acuerdo general en el que no exista una oposición sustentada a cuestiones sustanciales, en un proceso que busca tener en cuenta las opiniones de todas las partes interesadas y buscando conciliar cualquier conflicto de argumentos. Este concepto no implica unanimidad.
-TÍTULO TERCERO DEL PROGRAMA Y NORMAS OFICIALES MEXICANAS
+
+## TÍTULO TERCERO — DEL PROGRAMA Y NORMAS OFICIALES MEXICANAS
 
 ### Artículo 29
 . El Programa es un instrumento de planeación, conducción, coordinación e información de las actividades de normalización, estandarización y metrología a nivel nacional. El Programa deberá alinearse con el Plan Nacional de Desarrollo, así como con los programas sectoriales de las Autoridades Normalizadoras.
@@ -475,8 +480,7 @@ Ante la falta de revisión y notificación del informe al Secretariado Ejecutivo
 ### Artículo 33
 . En todo momento, la Comisión podrá requerir a las Autoridades Normalizadoras que se analice la aplicación, efectos, observancia y cumplimiento de una Norma Oficial Mexicana a fin de que éstas elaboren y sometan a consideración de la Comisión un plan de acción para mejorar sus alcances e implementación.
 
-## TÍTULO CUARTO
-PROCEDIMIENTOS DE LAS NORMAS OFICIALES MEXICANAS
+## TÍTULO CUARTO — PROCEDIMIENTOS DE LAS NORMAS OFICIALES MEXICANAS
 
 ## Capítulo I
 Procedimiento de Elaboración y Expedición de las Normas Oficiales Mexicanas
@@ -617,7 +621,10 @@ La Secretaría integrará el Padrón Nacional de Evaluadores en el cual estará 
 . Cuando la Secretaría o las Autoridades Normalizadoras identifiquen, de acuerdo a la Ley Federal de Competencia Económica, que una Entidad de Acreditación u Organismo de Evaluación de la Conformidad tenga poder sustancial en uno o más mercados relevantes, darán vista a la Comisión Federal de Competencia Económica, de conformidad con la legislación aplicable.
 
 ## Capítulo II
-De las Entidades de Acreditación y los Organismos de Evaluación de la Conformidad Sección Primera Entidades de Acreditación
+De las Entidades de Acreditación y los Organismos de Evaluación de la Conformidad
+
+## Sección Primera
+Entidades de Acreditación
 
 ### Artículo 49
 . Para operar como Entidad de Acreditación se requiere la autorización de la Secretaría, previa opinión favorable de la Comisión y cumplir con lo siguiente, de acuerdo con lo previsto en el Reglamento de esta Ley:
@@ -695,7 +702,8 @@ XXI. Especificar las condiciones para otorgar, ampliar, renovar, mantener, suspe
 Los comités de evaluación estarán constituidos por materias, sectores y ramas específicas, e integrados por técnicos calificados con experiencia en los respectivos campos, así como por representantes de los productores, consumidores, prestadores y usuarios del servicio, y por el personal técnico de las entidades de acreditación y de las autoridades normalizadoras conforme a los lineamientos que dicte la Secretaría, previa opinión de la Comisión, de conformidad con lo previsto en el Reglamento de esta Ley.
 El comité de evaluación correspondiente designará a un grupo evaluador, cuyos integrantes deberán estar registrados en el Padrón Nacional de Evaluadores que disponga la Secretaría, para realizar las visitas de evaluación o acciones necesarias para comprobar que los solicitantes de acreditación cuentan con las instalaciones, equipo, personal técnico, organización y métodos operativos adecuados que garanticen su competencia técnica, capacidad operativa y material y la confiabilidad de sus servicios.
 Los gastos derivados de la acreditación, así como los honorarios de los técnicos que en su caso se requieran, correrán por cuenta de los solicitantes, los que deberán ser informados al respecto en el momento de presentar su solicitud.
-Sección Segunda De los Organismos de Evaluación de la Conformidad
+
+## Sección Segunda — De los Organismos de Evaluación de la Conformidad
 
 ### Artículo 53
 . Los Organismos de Evaluación de la Conformidad podrán operar como:
@@ -806,7 +814,8 @@ Una vez aprobados tales criterios generales, deberán ponerse a disposición de 
 
 ### Artículo 61
 . En los casos y sujetos a los términos previstos en el Reglamento de esta Ley, las Autoridades Normalizadoras previa opinión favorable de la Comisión Nacional de Infraestructura de la Calidad y a falta de infraestructura de la calidad, podrán acreditar directamente a los Organismos de Evaluación de la Conformidad, sin que posteriormente se requiera de una aprobación para la Evaluación de la Conformidad de Normas Oficiales Mexicanas. Para tales efectos, deberán sujetarse a lo dispuesto en las Normas Internacionales aplicables en materia de acreditación.
-TÍTULO SEXTO DE LA EVALUACIÓN DE LA CONFORMIDAD
+
+## TÍTULO SEXTO — DE LA EVALUACIÓN DE LA CONFORMIDAD
 
 ## Capítulo I
 Mecanismos y Reglas para la Evaluación de la Conformidad
@@ -869,8 +878,7 @@ Para esto, los productores, fabricantes y los prestadores de servicios sujetos a
 También estarán obligados a verificar sistemáticamente las especificaciones del producto o servicio y su proceso, utilizando equipo suficiente y adecuado de laboratorio y el método de prueba apropiado, así como llevar un control estadístico de la producción en forma tal, que objetivamente se aprecie el cumplimiento de dichas especificaciones.
 El Reglamento de esta Ley establecerá los términos según los cuales se podrá practicar el esquema de auto declaración en la Evaluación de la Conformidad respecto de las Normas Oficiales Mexicanas y de los Estándares.
 
-## Capítulo III
-De los Acuerdos y Arreglos de Reconocimiento Mutuo y Acuerdos de Equivalencia
+## Capítulo III — De los Acuerdos y Arreglos de Reconocimiento Mutuo y Acuerdos de Equivalencia
 
 ### Artículo 70
 . Los acuerdos de reconocimiento mutuo son los instrumentos por medio de los cuales las partes involucradas se reconocen recíprocamente los resultados de los Procedimientos de Evaluación de la Conformidad, cumpliendo con lo establecido por las disposiciones nacionales e internacionales aplicables. Los sujetos que pueden concertar esos acuerdos, en el ámbito de sus competencias y facultades, son la Secretaría y las Autoridades Normalizadoras, con instituciones oficiales extranjeras e internacionales que lleven a cabo actividades similares.
@@ -884,10 +892,11 @@ En el caso de las medidas sanitarias y fitosanitarias, la equivalencia será rec
 ### Artículo 72
 . La celebración, modificación y terminación de los acuerdos, arreglos de reconocimiento mutuo y acuerdos de equivalencia estarán sujetas a lo previsto en el Reglamento de esta Ley. Los acuerdos y arreglos de reconocimiento mutuo deberán ser aprobados previamente por la Secretaría. En el caso de los arreglos de reconocimiento mutuo, la Secretaría solicitará previo a su aprobación, la opinión de la Autoridad Normalizadora correspondiente.
 Los proyectos de acuerdos de reconocimiento mutuo, acuerdos de equivalencia y arreglos de reconocimiento mutuo, se pondrán a disposición de cualquier interesado para consulta pública en la Plataforma Tecnológica de Infraestructura de la Calidad, y una vez suscritos, serán publicados íntegramente en la misma Plataforma, y un extracto de los mismos en el Diario Oficial de la Federación.
-LIBRO SEGUNDO DEL SISTEMA DE CALIDAD E INNOVACIÓN TÍTULO PRIMERO DE LAS REGLAS
+LIBRO SEGUNDO DEL SISTEMA DE CALIDAD E INNOVACIÓN
 
-## Capítulo I
-Disposiciones Generales
+## TÍTULO PRIMERO — DE LAS REGLAS
+
+## Capítulo I — Disposiciones Generales
 
 ### Artículo 73
 . El sistema de calidad e innovación forma parte del Sistema Nacional de Infraestructura de la Calidad; está integrado por los Organismos Nacionales de Estandarización y demás sujetos facultados para estandarizar, y se sustenta en el desarrollo y aplicación de los Estándares que, por regla general, son de aplicación voluntaria excepto cuando se actualice cualquiera de los siguientes supuestos:
@@ -977,8 +986,7 @@ Los comités técnicos de estandarización deberán subsistir en tanto los Está
 ### Artículo 84
 . Las controversias y demás cuestiones que surjan en el proceso de elaboración de los Estándares serán atendidas por la Secretaría, ya sea por si, o a través de las instancias y demás medios que se definan en el Reglamento de esta Ley. Entre esas instancias, podrá preverse la constitución de una asociación civil integrada por los Organismos Nacionales de Estandarización y demás sujetos facultados para estandarizar, cuya integración, funcionamiento, alcances y operación estará previsto en el Reglamento de esta Ley y que estará sujeta a la supervisión de la Secretaría.
 
-## Capítulo III
-De las Aclaraciones, Modificaciones y Cancelación de los Estándares
+## Capítulo III — De las Aclaraciones, Modificaciones y Cancelación de los Estándares
 
 ### Artículo 85
 . Quien haya emitido un Estándar, podrá realizar aclaraciones a ese Estándar cuando existan errores ortográficos, de numeración, referencias cruzadas u otros similares, siempre y cuando no se altere su contenido técnico, para lo cual, deberá solicitar a la Secretaría la publicación de la aclaración en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
@@ -989,8 +997,7 @@ De las Aclaraciones, Modificaciones y Cancelación de los Estándares
 ### Artículo 87
 . Los Estándares podrán ser cancelados en cualquier momento por quienes los emitieron, debiendo justificar la causa para ello. Para la cancelación de los Estándares, deberá seguirse el mismo procedimiento que para su elaboración, en el entendido que el Reglamento podrá establecer procedimientos simplificados. Sin perjuicio de lo anterior, la Comisión podrá ordenar la cancelación de los Estándares, cuando no haya sido notificado el resultado de la revisión sistemática que se haya realizado, en tiempo y forma, o cuando la Comisión identifique que en su elaboración, aclaración o modificación no se cumplió con lo previsto en esta Ley y su Reglamento, debiendo responder frente a terceros por los daños y perjuicios que, en su caso, pudieran causarse.
 
-## Capítulo IV
-De la Revisión Sistemática
+## Capítulo IV — De la Revisión Sistemática
 
 ### Artículo 88
 . Quien haya emitido un Estándar, deberá revisarlo al menos cada cinco años posteriores a su publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad o de aquélla de su última modificación, a través de un proceso de revisión sistemática que se ajuste a lo previsto en el Reglamento de esta Ley, debiendo notificar al Secretariado Ejecutivo de la Comisión el resultado de la misma, dentro de los sesenta días posteriores a la terminación del período quinquenal correspondiente.
@@ -1008,10 +1015,10 @@ Cumplimiento de los Estándares y su Demostración
 
 ### Artículo 91
 . La Evaluación de la Conformidad será realizada por los Organismos de Evaluación de la Conformidad acreditados y solo excepcionalmente por las Autoridades Normalizadoras de acuerdo con lo previsto en el artículo 66 de esta Ley.
-TÍTULO SEGUNDO DE LOS SUJETOS FACULTADOS PARA ESTANDARIZAR
 
-## Capítulo I
-De las Personas Morales con Interés
+## TÍTULO SEGUNDO — DE LOS SUJETOS FACULTADOS PARA ESTANDARIZAR
+
+## Capítulo I — De las Personas Morales con Interés
 
 ### Artículo 92
 . Las cámaras, instituciones académicas y de investigación, colegios y asociaciones, así como cualquier otra persona moral, siempre que acredite su interés ante la Secretaría podrá ser autorizada como sujeto facultado para estandarizar en la materia particular de que se trate, conforme a lo previsto en el artículo 78 de esta Ley. Para esos efectos, el interesado deberá cumplir con los siguientes requisitos:
@@ -1059,7 +1066,9 @@ Las Autoridades Normalizadoras en la Labor de Estandarización
 
 ### Artículo 94
 . Las Autoridades Normalizadoras podrán realizar labores de estandarización solo excepcionalmente, en los supuestos previstos en el Reglamento de esta Ley o en otras disposiciones legales aplicables.
-LIBRO TERCERO DE LA METROLOGÍA TÍTULO PRIMERO DEL SISTEMA DE METROLOGÍA Y LA METROLOGÍA CIENTÍFICA
+LIBRO TERCERO DE LA METROLOGÍA
+
+## TÍTULO PRIMERO — DEL SISTEMA DE METROLOGÍA Y LA METROLOGÍA CIENTÍFICA
 
 ## Capítulo I
 De la Integración del Sistema de Metrología y del Alcance de la Metrología Científica
@@ -1070,8 +1079,7 @@ De la Integración del Sistema de Metrología y del Alcance de la Metrología Ci
 ### Artículo 96
 . La metrología científica abarca las actividades que se realicen en el establecimiento de patrones nacionales de medida y de certificación de materiales de referencia; en la actualización del Sistema General de Unidades de Medida; en la investigación científica y desarrollo tecnológico en metrología; en la participación en el Acuerdo de Reconocimiento Mutuo del Comité Internacional de Pesas y Medidas; así como de divulgación de la misma, de la diseminación de las unidades de medida y de su trazabilidad.
 
-## Capítulo II
-Del Sistema General de Unidades de Medida
+## Capítulo II — Del Sistema General de Unidades de Medida
 
 ### Artículo 97
 . En los Estados Unidos Mexicanos el Sistema General de Unidades de Medida, es el único oficial y de uso obligatorio. Las unidades del Sistema General de Unidades de Medida, así como su simbología y sus reglas de escritura se consignarán en las Normas Oficiales Mexicanas que se expidan para tal efecto y en los Estándares ahí referidos, mismas que serán elaboradas, expedidas y actualizadas por la Secretaría en coordinación con el Centro Nacional de Metrología.
@@ -1090,8 +1098,7 @@ V. Cuando la Secretaría autorice el empleo de unidades de medida de otros siste
 ### Artículo 98
 . La Secretaría, en su caso, coadyuvada por el Centro Nacional de Metrología, verificará el uso del Sistema General de Unidades de Medida en los ámbitos público y privado.
 
-## Capítulo III
-De la Trazabilidad de las Medidas
+## Capítulo III — De la Trazabilidad de las Medidas
 
 ### Artículo 99
 . El Centro Nacional de Metrología y los Institutos Designados de Metrología tienen a su cargo el desarrollo, la conservación metrológica y la mejora de los patrones nacionales de medida, los cuales constituyen el origen de la trazabilidad de las medidas que se realizan en el país hacia el Sistema General de Unidades de Medida.
@@ -1117,8 +1124,7 @@ Cuando sea insuficiente la existencia de materiales de referencia certificados e
 ### Artículo 103
 . Para asegurar la trazabilidad de las mediciones en el sistema de metrología, los laboratorios de calibración y medición acreditados se ajustarán a lo previsto en el Reglamento de esta Ley.
 
-## Capítulo IV
-Del Centro Nacional de Metrología
+## Capítulo IV — Del Centro Nacional de Metrología
 
 ### Artículo 104
 . El Centro Nacional de Metrología es un organismo descentralizado con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría, con el objetivo de llevar a cabo investigación científica y desarrollo tecnológico en metrología y sus aplicaciones, para contribuir al bienestar de la sociedad y al desarrollo económico incluyente.
@@ -1220,8 +1226,7 @@ VI. Otros bienes que reciba por actos jurídicos o análogos, y
 
 VII. Los demás bienes y derechos que adquiera para la realización de sus fines.
 
-## Capítulo V
-De los Institutos Designados de Metrología
+## Capítulo V — De los Institutos Designados de Metrología
 
 ### Artículo 113
 . Los Institutos Designados de Metrología son entes públicos que ostentan tal carácter por designación expresa del Centro Nacional de Metrología, previa autorización de la Secretaría, para participar en el Arreglo de Reconocimiento Mutuo del Comité Internacional de Pesas y Medidas representando al país en el establecimiento de patrones nacionales de medida y en la prestación de servicios metrológicos conforme sus capacidades de medición y calibración en las áreas de metrología designadas por autorización de la Secretaria, así como para atender necesidades específicas en el sistema de metrología.
@@ -1250,10 +1255,10 @@ VII. Realizar actividades de investigación en metrología y en materias afines,
 VIII. Atender las solicitudes, observaciones y recomendaciones que realice la Comisión o el Centro Nacional de Metrología, y
 
 IX. Coordinarse con el Centro Nacional de Metrología en el desarrollo de aquellas actividades donde se requiera su participación.
-TÍTULO SEGUNDO METROLOGÍA LEGAL
 
-## Capítulo I
-De los Principios de la Metrología Legal
+## TÍTULO SEGUNDO — METROLOGÍA LEGAL
+
+## Capítulo I — De los Principios de la Metrología Legal
 
 ### Artículo 116
 . La metrología legal comprende las actividades relativas al control metrológico legal de instrumentos para medir que establezca la Evaluación de la Conformidad de las Normas Oficiales Mexicanas y Estándares de metrología legal.
@@ -1274,8 +1279,7 @@ El Reglamento determinará las bases y reglas para que se publique en el Diario 
 ### Artículo 120
 . Los productos empacados o envasados por fabricantes, importadores o comerciantes deberán ostentar la información en materia de metrología legal que establezcan las Normas Oficiales Mexicanas y los Estándares ahí referidos, así como la demás información prevista en éstas.
 
-## Capítulo II
-De la Aprobación de Modelo de los Instrumentos para Medir
+## Capítulo II — De la Aprobación de Modelo de los Instrumentos para Medir
 
 ### Artículo 121
 . Los instrumentos para medir que se utilicen para llevar a cabo actividades de Evaluación de la Conformidad deben satisfacer los requisitos técnicos y metrológicos establecidos en las Normas Oficiales Mexicanas de metrología legal y Estándares ahí referidos.
@@ -1309,7 +1313,8 @@ El Centro Nacional de Metrología o los Institutos Designados de Metrología que
 
 ### Artículo 127
 . Los instrumentos para medir sujetos a control metrológico legal que no cumplan con los requisitos previstos en las Normas Oficiales Mexicanas en materia de metrología legal serán inmovilizados por la autoridad competente antes de su venta o uso, o durante su uso hasta en tanto los satisfagan. Aquellos instrumentos para medir que no puedan acondicionarse para atiendan esos requisitos serán inmovilizados por la autoridad competente para impedir su uso.
-TÍTULO TERCERO DE LA METROLOGÍA INDUSTRIAL
+
+## TÍTULO TERCERO — DE LA METROLOGÍA INDUSTRIAL
 
 ### Artículo 128
 . Corresponde a las industrias productivas asegurar la trazabilidad de las mediciones que realicen, con el propósito de contribuir a la confiabilidad y uniformidad de las mediciones en coordinación, cuando resulte necesario, con el Centro Nacional de Metrología, los Institutos Designados de Metrología, los Organismos de Evaluación de la Conformidad, y las Autoridades Normalizadoras.
@@ -1321,7 +1326,10 @@ Asimismo, las industrias productivas podrán participar en la elaboración de lo
 ### Artículo 130
 . Corresponde al sector industrial informar al Centro Nacional de Metrología, a los Institutos Designados de Metrología y a la Secretaría de los avances y mejoras susceptibles de ser incorporados al sistema de metrología que no contravengan el marco jurídico aplicable.
 La Secretaría, el Centro Nacional de Metrología y los Institutos Designados de Metrología analizarán y, en caso de considerarlo pertinente, incorporarán dichas mejoras a las actividades que realicen para fortalecer el sistema de metrología.
-LIBRO CUARTO DISPOSICIONES FINALES TÍTULO PRIMERO DE LA PLATAFORMA TECNOLÓGICA INTEGRAL DE INFRAESTRUCTURA DE LA CALIDAD
+LIBRO CUARTO DISPOSICIONES FINALES
+
+## TÍTULO PRIMERO — DE LA PLATAFORMA TECNOLÓGICA INTEGRAL DE INFRAESTRUCTURA DE LA
+CALIDAD
 
 ### Artículo 131
 . Para hacer más eficiente la gestión pública, facilitar el cumplimiento de obligaciones por parte de los particulares y disminuir los costos de transacción, corresponde a la Secretaría, establecer y operar la Plataforma Tecnológica Integral de Infraestructura de la Calidad en los términos previstos en esta Ley y en su Reglamento.
@@ -1367,7 +1375,8 @@ Para esos efectos, la Secretaría emitirá los lineamientos que regularán el ac
 
 ### Artículo 135
 . Sujeto a lo previsto en el Reglamento de esta Ley, para los actos de Verificación, Vigilancia y vigilancia del mercado podrán hacerse uso de aplicaciones informáticas que se comuniquen con la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
-TÍTULO SEGUNDO DE LOS INCENTIVOS
+
+## TÍTULO SEGUNDO — DE LOS INCENTIVOS
 
 ### Artículo 136
 . Con el propósito de fomentar la confianza ciudadana, la innovación, el desarrollo tecnológico, la calidad en la producción de bienes y servicios, así como el cumplimiento y observancia de las Normas Oficiales Mexicanas y los Estándares, la Secretaría podrá, en lo individual o en coordinación con otras entidades públicas o privadas, incluyendo a las sociedades nacionales de crédito, establecer esquemas de incentivos a favor de los particulares, según lo dispuesto en esta Ley, su Reglamento y de conformidad con lo previsto en la Ley de Fomento a la Confianza Ciudadana.
@@ -1378,7 +1387,8 @@ El procedimiento para la selección de los acreedores al Premio Nacional de Cali
 
 ### Artículo 138
 . La Secretaría, las demás Autoridades Normalizadoras, el Centro Nacional de Metrología y los Institutos Designados de Metrología, podrán celebrar convenios de colaboración y concertación con instituciones de enseñanza superior y asociaciones o colegios de profesionales, para constituir programas de estudio y capacitación con el objeto de formar técnicos calificados y promover las actividades a que se refiere esta Ley.
-TÍTULO TERCERO DE LA VIGILANCIA DEL MERCADO, LA VERIFICACIÓN Y VIGILANCIA
+
+## TÍTULO TERCERO — DE LA VIGILANCIA DEL MERCADO, LA VERIFICACIÓN Y VIGILANCIA
 
 ### Artículo 139
 . Las Autoridades Normalizadoras y demás autoridades competentes llevarán a cabo la vigilancia permanente del mercado en los términos previstos en esta Ley, en su Reglamento y en las demás disposiciones legales aplicables, y cumpliendo los objetivos y los principios que persigue esta Ley a través de:
@@ -1493,8 +1503,7 @@ I. Suspender parcial o totalmente su funcionamiento. Esa suspensión durará en 
 II. Revocar las autorizaciones otorgadas a las Entidades de Acreditación o las aprobaciones otorgadas a los Organismos de Evaluación de la Conformidad.
 Las resoluciones que se dicten en términos de este artículo serán sin perjuicio de las sanciones que procedan de acuerdo a las disposiciones legales aplicables, en su caso, hasta que concluya el acto de Vigilancia sin que se haya detectado un incumplimiento o deficiencia.
 
-## TÍTULO CUARTO
-DE LAS SANCIONES
+## TÍTULO CUARTO — DE LAS SANCIONES
 
 ### Artículo 151
 . Las Autoridades Normalizadoras en los ámbitos de su competencia deberán observar lo previsto en esta Ley.
@@ -1626,7 +1635,8 @@ La revocación conllevará la entrega a la autoridad competente de la documentac
 
 ### Artículo 162
 . El uso inadecuado de instrumentos para medir en perjuicio de persona alguna será sancionado conforme a la legislación respectiva.
-TÍTULO QUINTO DE LOS RECURSOS
+
+## TÍTULO QUINTO — DE LOS RECURSOS
 
 ### Artículo 163
 . Los particulares que se consideren afectados por los actos de las Entidades de Acreditación o de los Organismos de Evaluación de la Conformidad podrán presentar ante éstos, el recurso de reclamación.

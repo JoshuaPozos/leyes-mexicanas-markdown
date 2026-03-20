@@ -11,7 +11,11 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 SE EXPIDE LA   Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE EL CONTRATO DE SEGURO.
 
 ### ARTÍCULO PRIMERO
-Se expide la Ley de Instituciones de Seguros y de Fianzas TÍTULO PRIMERO DE LAS DISPOSICIONES PRELIMINARES CAPÍTULO ÚNICO
+Se expide la Ley de Instituciones de Seguros y de Fianzas
+
+## TÍTULO PRIMERO — DE LAS DISPOSICIONES PRELIMINARES
+
+## CAPÍTULO ÚNICO
 
 ### ARTÍCULO 1
 .- La presente Ley es de interés público y tiene por objeto regular la organización, operación y funcionamiento de las Instituciones de Seguros, Instituciones de Fianzas y Sociedades Mutualistas de Seguros; las actividades y operaciones que las mismas podrán realizar, así como las de los agentes de seguros y de fianzas, y demás participantes en las actividades aseguradora y afianzadora previstos en este ordenamiento, en protección de los intereses del público usuario de estos servicios financieros.
@@ -187,10 +191,12 @@ Todas las fianzas que se emitan en papelería oficial de las Instituciones se pr
 ### ARTÍCULO 18
 .- Al admitir los seguros de caución y las fianzas, las autoridades federales y locales no podrán calificar la solvencia de las Instituciones, ni exigir su comprobación o la constitución de garantías que las respalden. Las mismas autoridades no podrán fijar mayor importe para los seguros de caución y las fianzas que otorguen las Instituciones, que el señalado para depósitos en efectivo u otras formas de garantía.
 Las pólizas y certificados en que se formalicen los contratos de seguro de caución y de fianza que sirvan como garantía ante la Administración Pública Federal, en su caso, se ajustarán a los modelos que apruebe la Secretaría mediante disposiciones de carácter general. En dichas disposiciones, la Secretaría podrá determinar, además, requisitos de carácter general en aspectos operativos y de servicio que deberán cumplir las Instituciones que expidan los seguros de caución y las fianzas que sirvan como garantía ante la Administración Pública Federal.
-TÍTULO SEGUNDO DE LAS INSTITUCIONES CAPÍTULO PRIMERO DE LAS INSTITUCIONES DE SEGUROS
 
-## SECCIÓN I
-DE LAS DISPOSICIONES GENERALES
+## TÍTULO SEGUNDO — DE LAS INSTITUCIONES
+
+## CAPÍTULO PRIMERO — DE LAS INSTITUCIONES DE SEGUROS
+
+## SECCIÓN I — DE LAS DISPOSICIONES GENERALES
 
 ### ARTÍCULO 19
 .- Se considerarán operaciones de seguros sujetas a las disposiciones de las leyes mexicanas, las que se celebren en el territorio nacional.
@@ -233,8 +239,7 @@ II. A la persona que compruebe que ninguna de las Instituciones de Seguros facul
 ### ARTÍCULO 24
 .- Los contratos concertados en contravención a lo dispuesto por los artículos 20 y 21 de esta Ley, no producirán efecto legal alguno, sin perjuicio del derecho del contratante o asegurado de pedir el reintegro de las primas pagadas, e independientemente de las responsabilidades en que incurra la persona o entidad de que se trate, frente al contratante, asegurado o beneficiario o sus causahabientes, de buena fe y de las sanciones penales o administrativas a que se haga acreedora dicha persona o entidad en los términos de esta Ley.
 
-## SECCIÓN II
-DE LAS OPERACIONES Y RAMOS DE SEGUROS
+## SECCIÓN II — DE LAS OPERACIONES Y RAMOS DE SEGUROS
 
 ### ARTÍCULO 25
 .- Las autorizaciones para organizarse, operar y funcionar como Institución de Seguros o Sociedad Mutualista, se referirán a una o más de las siguientes operaciones y ramos de seguro:
@@ -331,18 +336,17 @@ Cuando alguna clase de riesgo de los comprendidos en los ramos a que se refiere 
 .- Los seguros colectivos, populares y de grupo o de empresa a que se refieren los artículos 199, 200 y 201 de la Ley sobre el Contrato de Seguro, así como aquellos que las leyes establezcan como obligatorios, los practicarán las Instituciones de Seguros y Sociedades Mutualistas de que al efecto emitan la Secretaría y la Comisión, y con las demás disposiciones legales y administrativas aplicables.
 En los seguros de responsabilidad que por disposición legal tengan el carácter de obligatorios, las Instituciones de Seguros deberán dar cumplimiento a lo dispuesto por la Ley sobre el Contrato de Seguro.
 
-## SECCIÓN III
-DE LAS MUTUALIDADES
+## SECCIÓN III — DE LAS MUTUALIDADES
 
 ### ARTÍCULO 30
 .- Las asociaciones de personas que sin expedir pólizas o contratos, concedan a sus miembros seguros en caso de muerte, beneficios en los de accidentes y enfermedades o indemnizaciones por daños, con excepción de las coberturas de alto riesgo por monto o acumulaciones y las de naturaleza catastrófica salvo que éstas se relacionen con las operaciones correspondientes al ramo agrícola y de animales o al aseguramiento de los bienes conexos a la actividad agropecuaria, podrán operar sin sujetarse a los requisitos exigidos por la presente Ley, pero deberán someterse a las disposiciones de carácter general que expida la Secretaría, donde se fijarán las bases para que, cuando proceda por el número de asociados, por la frecuencia e importancia de los seguros que concedan y de los siniestros pagados, la misma Secretaría ordene a estas asociaciones que se ajusten a la presente Ley, convirtiéndose en Sociedades Mutualistas.
 
 ### ARTÍCULO 31
 .- Esta Ley reconoce a los Fondos de Aseguramiento Agropecuario y Rural, los cuales se sujetarán en su operación al artículo 30 de este ordenamiento y serán regulados, para efectos de su organización, funcionamiento y actividades, por la Ley de Fondos de Aseguramiento Agropecuario y Rural.
-CAPÍTULO SEGUNDO DE LAS INSTITUCIONES DE FIANZAS
 
-## SECCIÓN I
-DE LAS DISPOSICIONES GENERALES
+## CAPÍTULO SEGUNDO — DE LAS INSTITUCIONES DE FIANZAS
+
+## SECCIÓN I — DE LAS DISPOSICIONES GENERALES
 
 ### ARTÍCULO 32
 .- Esta Ley se aplicará a las Instituciones de Fianzas cuyo objeto sea otorgar fianzas a título oneroso, a las Instituciones que sean autorizadas para practicar operaciones de reafianzamiento, en términos de lo previsto en el artículo 1 de este ordenamiento y a las Instituciones de Seguros que operen el ramo de caución autorizadas para otorgar fianzas.
@@ -360,8 +364,7 @@ Cuando ninguna de las Instituciones facultadas para operar en el país, pueda o 
 ### ARTÍCULO 35
 .- Se prohíbe a toda persona ofrecer, directamente o como intermediario, las operaciones a que se refieren los artículos 33 y 34, primer párrafo, de esta Ley.
 
-## SECCIÓN II
-DE LOS RAMOS Y SUBRAMOS DE FIANZAS
+## SECCIÓN II — DE LOS RAMOS Y SUBRAMOS DE FIANZAS
 
 ### ARTÍCULO 36
 .- Las autorizaciones para organizarse, operar y funcionar como Institución de Fianzas, se referirán a uno o más de los siguientes ramos y subramos de fianzas:
@@ -410,7 +413,8 @@ Las Instituciones de Fianzas podrán realizar el reafianzamiento respecto de los
 
 ### ARTÍCULO 37
 .- Cuando alguno de los subramos de fianzas a que se refiere el artículo 36 de este ordenamiento, adquiera una importancia tal que amerite considerarlo como ramo independiente, la Secretaría podrá declararlo como ramo especial para los efectos del referido artículo 36 de esta Ley.
-CAPÍTULO TERCERO DE LAS REASEGURADORAS Y REAFIANZADORAS
+
+## CAPÍTULO TERCERO — DE LAS REASEGURADORAS Y REAFIANZADORAS
 
 ### ARTÍCULO 38
 .- Las Instituciones de Seguros autorizadas para practicar exclusivamente el reaseguro o el reafianzamiento, o ambos, ajustarán sus operaciones a lo dispuesto en la presente Ley y a las disposiciones de carácter general que establezcan la Secretaría y la Comisión en uso de las facultades que a cada una corresponde, y tomando en cuenta la naturaleza y características de operación propias de este tipo de instituciones.
@@ -428,10 +432,12 @@ IV. Fianzas.
 
 ### ARTÍCULO 40
 .- Las Instituciones de Seguros autorizadas para practicar exclusivamente el reaseguro y, en su caso, el reafianzamiento, no podrán realizar las operaciones a que se refiere el artículo 118, fracciones XXI a XXIII, de este ordenamiento.
-TÍTULO TERCERO DE LA ORGANIZACIÓN Y GOBIERNO CORPORATIVO DE LAS INSTITUCIONES CAPÍTULO PRIMERO DE LAS DISPOSICIONES GENERALES
 
-## SECCIÓN I
-DE LA AUTORIZACIÓN
+## TÍTULO TERCERO — DE LA ORGANIZACIÓN Y GOBIERNO CORPORATIVO DE LAS INSTITUCIONES
+
+## CAPÍTULO PRIMERO — DE LAS DISPOSICIONES GENERALES
+
+## SECCIÓN I — DE LA AUTORIZACIÓN
 
 ### ARTÍCULO 41
 .- Las solicitudes de autorización para organizarse, operar y funcionar como Institución de Seguros o como Institución de Fianzas, deberán acompañarse de lo siguiente:
@@ -556,8 +562,7 @@ V. Que, en su caso, acrediten que se encuentran al corriente en el pago de las s
 La Comisión practicará las visitas de inspección que considere necesarias a efecto de verificar el cumplimiento de los requisitos a que se refiere este artículo.
 La Institución de que se trate deberá inscribir en el Registro Público de Comercio, para efectos declarativos, el dictamen favorable que se le haya otorgado para el inicio de operaciones en términos del presente artículo, a más tardar a los treinta días posteriores a que le haya sido notificado.
 
-## SECCIÓN II
-DE LA ORGANIZACIÓN
+## SECCIÓN II — DE LA ORGANIZACIÓN
 
 ### ARTÍCULO 48
 .- Las Instituciones deberán ser constituidas como sociedades anónimas de capital fijo o variable, con arreglo a lo que dispone la Ley General de Sociedades Mercantiles, en cuanto no esté previsto en esta Ley.
@@ -818,8 +823,7 @@ Dicho fondo de reserva podrá capitalizarse, pero las Instituciones deberán rec
 ### ARTÍCULO 68
 .- La liquidación administrativa o convencional de las Instituciones deberá efectuarse de acuerdo con lo que dispone el Título Décimo Segundo de este ordenamiento.
 
-## SECCIÓN III
-DEL GOBIERNO CORPORATIVO
+## SECCIÓN III — DEL GOBIERNO CORPORATIVO
 
 ### ARTÍCULO 69
 .- Las Instituciones deberán disponer de un sistema eficaz de gobierno corporativo que garantice una gestión sana y prudente de su actividad, cuya instrumentación y seguimiento será responsabilidad de su consejo de administración.
@@ -1038,7 +1042,8 @@ III. El cumplimiento de las Normas Oficiales Mexicanas aplicables derivadas de l
 
 IV. El seguimiento a las reclamaciones presentadas en contra de la Institución de Seguros, en los términos que establezca la Comisión mediante disposiciones de carácter general, oyendo la opinión de la Secretaría de Salud.
 El contralor médico deberá informar cuatrimestralmente de las obligaciones a su cargo, a la Comisión y a la Secretaría de Salud.
-CAPÍTULO SEGUNDO DE LAS FILIALES DE INSTITUCIONES FINANCIERAS DEL EXTERIOR
+
+## CAPÍTULO SEGUNDO — DE LAS FILIALES DE INSTITUCIONES FINANCIERAS DEL EXTERIOR
 
 ### ARTÍCULO 74
 .- Las Filiales se regirán por lo previsto en los tratados o acuerdos internacionales correspondientes, el presente capítulo, las disposiciones contenidas en esta Ley aplicables a las Instituciones, y las disposiciones de carácter general para el establecimiento de Filiales que al efecto expida la Secretaría, oyendo la opinión de la Comisión.
@@ -1125,7 +1130,9 @@ I. Descripción del acto de inspección a ser realizado, y
 
 II. Las disposiciones legales pertinentes al acto de inspección objeto de la solicitud.
 A solicitud de la Comisión, las autoridades que realicen la inspección deberán presentarle un informe de los resultados obtenidos.
-CAPÍTULO TERCERO DE LAS INSTITUCIONES QUE TENGAN VÍNCULOS DE NEGOCIO O PATRIMONIALES CON PERSONAS MORALES QUE REALICEN ACTIVIDADES EMPRESARIALES
+
+## CAPÍTULO TERCERO — DE LAS INSTITUCIONES QUE TENGAN VÍNCULOS DE NEGOCIO O PATRIMONIALES
+CON PERSONAS MORALES QUE REALICEN ACTIVIDADES EMPRESARIALES
 
 ### ARTÍCULO 86
 .- Las Instituciones que mantengan Vínculos de Negocio o Vínculos Patrimoniales con personas morales que realicen Actividades Empresariales, se regirán por lo previsto en el presente Capítulo y las demás disposiciones contenidas en esta Ley.
@@ -1168,15 +1175,17 @@ La celebración de tales operaciones deberá pactarse en condiciones de mercado.
 Las Instituciones deberán elaborar y entregar a la Comisión, durante el primer trimestre de cada año, un estudio anual de los precios de transferencia utilizados para la celebración de las operaciones a que se refiere este artículo, llevadas a cabo durante el año calendario inmediato anterior.
 Cuando se realicen operaciones que impliquen una transferencia de riesgos o responsabilidades con importancia relativa en el patrimonio de la Institución de que se trate, por parte de algún integrante del Consorcio o Grupo Empresarial al que ésta pertenezca, el director general deberá elaborar un informe al respecto y presentarlo a la Comisión dentro de los veinte días hábiles siguientes a la fecha de celebración de dichas operaciones.
 
-## TÍTULO CUARTO
-DE LOS DEMÁS PARTICIPANTES EN LOS SISTEMAS ASEGURADOR Y AFIANZADOR CAPÍTULO PRIMERO DE LOS CONSORCIOS DE SEGUROS Y DE FIANZAS
+## TÍTULO CUARTO — DE LOS DEMÁS PARTICIPANTES EN LOS SISTEMAS ASEGURADOR Y AFIANZADOR
+
+## CAPÍTULO PRIMERO — DE LOS CONSORCIOS DE SEGUROS Y DE FIANZAS
 
 ### ARTÍCULO 90
 .- Para los efectos de la presente Ley, se considerarán Consorcios de Seguros y de Fianzas las sociedades organizadas por Instituciones de Seguros o por Instituciones de Fianzas, según corresponda, con el objeto de prestar a cierto sector de la actividad económica servicios relacionados con las operaciones de seguros o de fianzas, a nombre y por cuenta de dichas Instituciones, o bien celebrar en representación de las mismas los contratos de reaseguro o coaseguro, o de reafianzamiento o coafianzamiento, necesarios para la mejor distribución de los riesgos o responsabilidades.
 Los Consorcios de Seguros y de Fianzas tendrán como único objeto el señalado en el primer párrafo de este artículo y quedarán sometidos a la inspección y vigilancia de la Comisión.
 Las Instituciones requerirán autorización de la Comisión para invertir en títulos representativos del capital social de Consorcios de Seguros y de Fianzas, en términos de lo previsto en el artículo 267 de este ordenamiento.
 Además, a los Consorcios de Seguros y de Fianzas les será aplicable lo dispuesto por los artículos 196 y 197 de esta Ley.
-CAPÍTULO SEGUNDO DE LOS AGENTES DE SEGUROS Y DE FIANZAS
+
+## CAPÍTULO SEGUNDO — DE LOS AGENTES DE SEGUROS Y DE FIANZAS
 
 ### ARTÍCULO 91
 .- Para los efectos de esta Ley, se consideran agentes de seguros a las personas físicas o morales que intervengan en la contratación de seguros mediante el intercambio de propuestas y aceptación de las mismas, comercialización y asesoramiento para celebrarlos, para conservarlos o modificarlos, según la mejor conveniencia de los contratantes.
@@ -1264,10 +1273,11 @@ b) Determinarán los requisitos y medidas que deberán cumplir para prevenir y e
 
 ### ARTÍCULO 105
 .- Las Instituciones, los agentes de seguros, los agentes de fianzas y las personas morales a que se refiere el artículo 102 de este ordenamiento, deberán dar a conocer al público información sobre su operación, en la forma y términos que determine la Comisión mediante disposiciones de carácter general.
-CAPÍTULO TERCERO DE LOS INTERMEDIARIOS DE REASEGURO, DE LAS REASEGURADORAS EXTRANJERAS Y SUS OFICINAS DE REPRESENTACIÓN
 
-## SECCIÓN I
-DE LOS INTERMEDIARIOS DE REASEGURO
+## CAPÍTULO TERCERO — DE LOS INTERMEDIARIOS DE REASEGURO, DE LAS REASEGURADORAS
+EXTRANJERAS Y SUS OFICINAS DE REPRESENTACIÓN
+
+## SECCIÓN I — DE LOS INTERMEDIARIOS DE REASEGURO
 
 ### ARTÍCULO 106
 .- En la realización de operaciones de reaseguro o de reafianzamiento a través de intermediarios, las Instituciones y Sociedades Mutualistas sólo podrán utilizar los servicios de Intermediarios de Reaseguro.
@@ -1277,8 +1287,7 @@ Los Intermediarios de Reaseguro ajustarán sus actividades a las disposiciones d
 La Comisión podrá suspender dicha autorización hasta por dos años o revocarla, previa audiencia de la parte interesada, además de aplicar amonestaciones y multas a dichos intermediarios, en los términos de esta Ley y de las disposiciones de carácter general a que se refiere este artículo.
 La Comisión podrá ordenar la suspensión, remoción o destitución de los consejeros y directivos de los Intermediarios de Reaseguro, así como imponer veto de tres meses hasta cinco años, a las personas antes mencionadas, cuando cometan infracciones graves o reiteradas a esta Ley y demás disposiciones de carácter general que emanen de ella, con independencia de las sanciones económicas que correspondan conforme a esta u otras leyes.
 
-## SECCIÓN II
-DE LAS REASEGURADORAS EXTRANJERAS Y SUS OFICINAS DE REPRESENTACIÓN
+## SECCIÓN II — DE LAS REASEGURADORAS EXTRANJERAS Y SUS OFICINAS DE REPRESENTACIÓN
 
 ### ARTÍCULO 107
 .- Para que las Instituciones y Sociedades Mutualistas celebren contratos de reaseguro o reafianzamiento con alguna entidad reaseguradora o reafianzadora del exterior, será necesario que dicha entidad se encuentre inscrita en el Registro General de Reaseguradoras Extranjeras a que se refiere el presente artículo.
@@ -1292,8 +1301,7 @@ La inscripción en el Registro General de Reaseguradoras Extranjeras podrá ser 
 Las actividades que realicen las oficinas de representación de Reaseguradoras Extranjeras, se sujetarán a las disposiciones de carácter general que expida la Comisión, a las directrices de política general que en materia aseguradora y afianzadora señale la Secretaría, así como a la inspección y vigilancia de la Comisión. Además, les será aplicable lo dispuesto por los artículos 196 y 197 de este ordenamiento.
 La Comisión, con la aprobación de su Junta de Gobierno, podrá declarar la revocación de las autorizaciones correspondientes, previa audiencia de la parte interesada, cuando las referidas oficinas no se ajusten a las disposiciones a que se refiere este artículo, sin perjuicio de la aplicación de las sanciones establecidas en la presente Ley y en los demás ordenamientos legales, y de las responsabilidades civiles y penales que resulten en su caso.
 
-## CAPÍTULO CUARTO
-DE LOS AJUSTADORES DE SEGUROS
+## CAPÍTULO CUARTO — DE LOS AJUSTADORES DE SEGUROS
 
 ### ARTÍCULO 109
 .- Para los efectos de esta Ley, se considera que el ajustador de seguros es la persona designada por la Institución de Seguros, a quien ésta encomienda la evaluación en la que se establezcan las causas del siniestro y demás circunstancias que puedan influir en la determinación de la indemnización derivada de un contrato de seguro, con el propósito de que la Institución de Seguros cuente con los elementos necesarios para determinar la procedencia del siniestro y la propuesta de indemnización.
@@ -1339,7 +1347,8 @@ d) Incurra en alguna de las causales de suspensión, después de haber sido sanc
 
 ### ARTÍCULO 113
 .- Las organizaciones aseguradoras, en términos de lo previsto por el artículo 115 de este ordenamiento, podrán emitir lineamientos de conducta para los ajustadores de seguros, que promuevan los sanos usos y prácticas en esa materia.
-CAPÍTULO QUINTO DE LAS ORGANIZACIONES ASEGURADORAS Y AFIANZADORAS
+
+## CAPÍTULO QUINTO — DE LAS ORGANIZACIONES ASEGURADORAS Y AFIANZADORAS
 
 ### ARTÍCULO 114
 .- Las organizaciones aseguradoras y afianzadoras, tendrán por objeto implementar estándares de conducta y operación entre sus asociados, a fin de contribuir al sano desarrollo de los sistemas asegurador y afianzador. Dichas organizaciones podrán ser de diverso tipo acorde con las actividades que realicen sus agremiados.
@@ -1383,10 +1392,12 @@ II. Ordenar la suspensión, remoción o destitución de los consejeros y directi
 III. Revocar el reconocimiento de organizaciones aseguradoras y afianzadoras, cuando cometan infracciones graves o reiteradas a lo previsto en esta u otras leyes y en las disposiciones de carácter general que emanen de las mismas.
 Para proceder en términos de lo previsto en las fracciones II y III de este artículo, la Comisión deberá contar con el acuerdo de su Junta de Gobierno. Antes de dictar la resolución correspondiente, la Comisión deberá escuchar al interesado y a la organización de que se trate.
 Las resoluciones a que se refiere este artículo podrán ser recurridas ante la Comisión dentro de los quince días hábiles siguientes a la fecha en que se hubieren notificado. La propia Comisión, con acuerdo de su Junta de Gobierno, podrá revocar, modificar o confirmar la resolución recurrida, previa audiencia del afectado.
-TÍTULO QUINTO DEL FUNCIONAMIENTO, OPERACIÓN Y NORMAS PRUDENCIALES CAPÍTULO PRIMERO DEL FUNCIONAMIENTO Y OPERACIÓN DE LAS INSTITUCIONES
 
-## SECCIÓN I
-DE LAS INSTITUCIONES DE SEGUROS
+## TÍTULO QUINTO — DEL FUNCIONAMIENTO, OPERACIÓN Y NORMAS PRUDENCIALES
+
+## CAPÍTULO PRIMERO — DEL FUNCIONAMIENTO Y OPERACIÓN DE LAS INSTITUCIONES
+
+## SECCIÓN I — DE LAS INSTITUCIONES DE SEGUROS
 
 ### ARTÍCULO 118
 .- Las Instituciones de Seguros sólo podrán realizar las operaciones siguientes:
@@ -1630,8 +1641,7 @@ IV. La adecuada liquidez de las Instituciones de Seguros, o
 
 V. El uso de los recursos del sistema asegurador de acuerdo a los objetivos que le corresponden dentro del sistema financiero.
 
-## SECCIÓN II
-DE LAS INSTITUCIONES DE FIANZAS
+## SECCIÓN II — DE LAS INSTITUCIONES DE FIANZAS
 
 ### ARTÍCULO 144
 .- Las Instituciones de Fianzas sólo podrán realizar las operaciones siguientes:
@@ -1829,8 +1839,7 @@ IV. La adecuada liquidez de las Instituciones de Fianzas, o
 
 V. El uso de los recursos del sistema afianzador de acuerdo a los objetivos que le corresponden dentro del sistema financiero.
 
-## SECCIÓN III
-DE LAS DISPOSICIONES COMUNES
+## SECCIÓN III — DE LAS DISPOSICIONES COMUNES
 
 ### ARTÍCULO 165
 .- Las Instituciones deberán informar a la Comisión, en la forma y términos que ésta determine mediante disposiciones de carácter general, sobre los representantes facultados por las mismas para otorgar fianzas.
@@ -2081,10 +2090,10 @@ Los días autorizados en los términos de este artículo se considerarán inháb
 ### ARTÍCULO 199
 .- Las Instituciones podrán intercambiar información en términos de las disposiciones de carácter general a que se refiere el artículo 492 de la presente Ley, con el fin de fortalecer las medidas para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos en contra de su clientela o de la propia Institución.
 El intercambio de información a que se refiere el párrafo anterior no implicará trasgresión alguna a la obligación de confidencialidad legal, ni constituirá violación a las restricciones sobre revelación de información establecidas por vía contractual, ni a lo dispuesto en materia del secreto propio de las operaciones a que se refieren los artículos 46, fracción XV, en relación con el artículo 117 de la Ley de Instituciones de Crédito, así como a lo previsto en el artículo 190 de esta Ley.
-CAPÍTULO SEGUNDO DE LOS PRODUCTOS DE SEGUROS Y DE FIANZAS
 
-## SECCIÓN I
-DE LOS PRODUCTOS DE SEGUROS
+## CAPÍTULO SEGUNDO — DE LOS PRODUCTOS DE SEGUROS Y DE FIANZAS
+
+## SECCIÓN I — DE LOS PRODUCTOS DE SEGUROS
 
 ### ARTÍCULO 200
 .- Las Instituciones de Seguros, al realizar su actividad, deberán observar los siguientes principios:
@@ -2225,8 +2234,7 @@ Las Instituciones de Seguros deberán registrar estos productos de acuerdo a lo 
 Con el objeto de efectuar la comparación de las primas de tarifa de estos productos y difundirlas entre el público, las Instituciones de Seguros deberán informar mensualmente a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros la prima de tarifa total que cobren respecto de los productos a que se refiere este artículo, en la forma y términos que la misma establezca.
 Dichas instituciones podrán cumplir con esta obligación mediante la difusión y actualización de la información a que se refiere este párrafo en la página principal del portal electrónico que deberán mantener en la red mundial denominada Internet.
 
-## SECCIÓN II
-DE LA DOCUMENTACIÓN CONTRACTUAL Y NOTAS TÉCNICAS DE FIANZAS
+## SECCIÓN II — DE LA DOCUMENTACIÓN CONTRACTUAL Y NOTAS TÉCNICAS DE FIANZAS
 
 ### ARTÍCULO 209
 .- La documentación que las Instituciones utilicen relacionada con la oferta, solicitud y contratación de fianzas o la derivada de éstas, así como los modelos de cláusulas elaborados para ser incorporados mediante endosos adicionales a dichos contratos, deberá registrarse ante la Comisión de manera previa a su ofrecimiento, en la forma y términos que la misma establezca mediante disposiciones de carácter general.
@@ -2269,8 +2277,7 @@ En el caso de que la Institución incumpla el plan de regularización, la Comisi
 .- Cuando las operaciones que realicen las Instituciones obtengan resultados que no se apeguen razonablemente a lo previsto en la nota técnica correspondiente y, por ello, se afecten los intereses de los contratantes, fiados o beneficiarios, así como la solvencia y liquidez de las Instituciones, la Comisión solicitará a la Institución de que se trate que proceda a adecuar, en un plazo que no podrá exceder de treinta días hábiles, la nota técnica a las condiciones que se hayan presentado en el manejo y comportamiento de las responsabilidades cubiertas.
 Si en dicho plazo, a juicio de la Comisión, no hubieren sido subsanadas las deficiencias de la nota técnica de que se trate, revocará el registro respectivo.
 
-## SECCIÓN III
-DE LAS DISPOSICIONES COMUNES
+## SECCIÓN III — DE LAS DISPOSICIONES COMUNES
 
 ### ARTÍCULO 214
 .- La celebración de las operaciones y la prestación de servicios de las Instituciones, se podrán pactar mediante el uso de equipos, medios electrónicos, ópticos o de cualquier otra tecnología, sistemas automatizados de procesamiento de datos y redes de telecomunicaciones, ya sean privados o públicos, estableciendo en los contratos respectivos las bases para determinar lo siguiente:
@@ -2287,10 +2294,10 @@ La instalación y el uso de los equipos y medios señalados en el primer párraf
 
 ### ARTÍCULO 215
 .- Los contratos de seguro y de fianzas, en general, deberán contener las indicaciones que administrativamente fije la Comisión mediante disposiciones de carácter general, para procurar la solvencia de las Instituciones y en protección de los intereses de los contratantes, asegurados, fiados o beneficiarios. Con el mismo fin, la citada Comisión podrá establecer cláusulas tipo de uso obligatorio para las diversas especies de contratos de seguro y de fianzas.
-CAPÍTULO TERCERO DE LAS RESERVAS TÉCNICAS
 
-## SECCIÓN I
-DE LAS INSTITUCIONES DE SEGUROS
+## CAPÍTULO TERCERO — DE LAS RESERVAS TÉCNICAS
+
+## SECCIÓN I — DE LAS INSTITUCIONES DE SEGUROS
 
 ### ARTÍCULO 216
 .- Las Instituciones de Seguros deberán constituir las siguientes reservas técnicas:
@@ -2395,8 +2402,7 @@ La utilización de métodos actuariales o de información obtenidos de terceros,
 ### artículo 218
 de esta Ley.
 
-## SECCIÓN II
-DE LAS INSTITUCIONES DE FIANZAS
+## SECCIÓN II — DE LAS INSTITUCIONES DE FIANZAS
 
 ### ARTÍCULO 220
 .- Las Instituciones de Fianzas deberán constituir las siguientes reservas técnicas:
@@ -2436,8 +2442,7 @@ g) Las condiciones generales imperantes en el mercado afianzador, y
 II. En la constitución y valuación de las reservas técnicas por reafianzamiento tomado, las Instituciones de Fianzas se apegarán a lo que señalen las disposiciones de carácter general a que se refiere el presente artículo.
 En las disposiciones de carácter general a que se refiere este artículo, la Comisión determinará los casos en los que, atendiendo a la naturaleza de las responsabilidades y obligaciones asumidas por las Instituciones de Fianzas, éstas podrán liberar las reservas técnicas a que se refieren los artículos 220, fracciones II y III, y 223 de este ordenamiento, así como, en su caso, la forma y términos para la reconstitución de las mismas.
 
-## SECCIÓN III
-DE LAS DISPOSICIONES COMUNES
+## SECCIÓN III — DE LAS DISPOSICIONES COMUNES
 
 ### ARTÍCULO 223
 .- La Comisión, con el acuerdo de su Junta de Gobierno, podrá ordenar, mediante disposiciones de carácter general, la constitución de reservas técnicas adicionales a las señaladas en los artículos 216, fracciones I a VI, y 220, fracciones I y II, de esta Ley, cuando, a su juicio, las características o posibles riesgos de algún tipo de operación las hagan necesarias para hacer frente a posibles pérdidas u obligaciones presentes o futuras a cargo de las Instituciones.
@@ -2486,8 +2491,7 @@ VII. Los importes recuperables procedentes de los contratos de reaseguro o reafi
 ### ARTÍCULO 231
 .- Las Instituciones deberán constituir, valuar y registrar sus reservas técnicas en los términos previstos en esta Ley, y contar, en todo momento, con activos e inversiones suficientes para la cobertura de su Base de Inversión, invertidos de conformidad con lo señalado por los artículos 247 a 255 de este ordenamiento.
 
-## CAPÍTULO CUARTO
-DEL REQUERIMIENTO DE CAPITAL DE SOLVENCIA
+## CAPÍTULO CUARTO — DEL REQUERIMIENTO DE CAPITAL DE SOLVENCIA
 
 ### ARTÍCULO 232
 .- Sin perjuicio de mantener los activos e inversiones suficientes para la cobertura de la Base de Inversión, así como el capital mínimo pagado previstos en esta Ley, las Instituciones deberán mantener los Fondos Propios Admisibles necesarios para respaldar un requerimiento de capital de solvencia, cuyo propósito será:
@@ -2612,7 +2616,8 @@ V. Cualquier modificación a los modelos internos de las Instituciones se sujeta
 ### ARTÍCULO 240
 .- Las Instituciones que habiendo sido autorizadas por la Comisión para utilizar un modelo interno en el cálculo de su requerimiento de capital de solvencia, dejen de cumplir los requisitos establecidos en el artículo 237 de esta Ley, deberán presentar un plan de regularización en términos de lo señalado en el artículo 321 de este ordenamiento a fin de subsanar dichas irregularidades, cuyo plazo no podrá exceder de sesenta días.
 Si una vez transcurrido el plazo otorgado dentro del plan de regularización, la Institución de que se trate no hubiere subsanado las irregularidades que dieron origen al plan, la Comisión, independientemente de las sanciones que proceda imponer, revocará la autorización para la utilización del modelo interno y ordenará a la Institución que vuelva a calcular el requerimiento de capital de solvencia conforme a la fórmula general señalada en el artículo 236 de la presente Ley.
-CAPÍTULO QUINTO DE LOS FONDOS PROPIOS ADMISIBLES
+
+## CAPÍTULO QUINTO — DE LOS FONDOS PROPIOS ADMISIBLES
 
 ### ARTÍCULO 241
 .- Las Instituciones deberán contar, en todo momento, con Fondos Propios Admisibles suficientes para cubrir el requerimiento de capital de solvencia a que se refiere el artículo 232 de esta Ley, de conformidad con las disposiciones de carácter general que al efecto emita la Comisión, con el acuerdo de su Junta de Gobierno, las cuales considerarán lo siguiente:
@@ -2634,7 +2639,8 @@ Cuando las Instituciones no mantengan Fondos Propios Admisibles suficientes para
 
 ### ARTÍCULO 244
 .- La Comisión, mediante disposiciones de carácter general, determinará la forma y términos en que las Instituciones deberán informarle y comprobarle todo lo relativo a sus Fondos Propios Admisibles. Con independencia de lo anterior, el consejo de administración de las Instituciones será responsable de establecer los mecanismos necesarios para controlar de manera permanente la suficiencia de los Fondos Propios Admisibles para cubrir el requerimiento de capital de solvencia.
-CAPÍTULO SEXTO DE LA PRUEBA DE SOLVENCIA DINÁMICA
+
+## CAPÍTULO SEXTO — DE LA PRUEBA DE SOLVENCIA DINÁMICA
 
 ### ARTÍCULO 245
 .- Las Instituciones deberán efectuar, al menos anualmente, una prueba de solvencia dinámica, cuyo propósito será evaluar la suficiencia de los Fondos Propios Admisibles de la Institución de que se trate para cubrir el requerimiento de capital de solvencia ante diversos escenarios prospectivos en su operación.
@@ -2643,7 +2649,8 @@ La Comisión, mediante disposiciones de carácter general, determinará la forma
 ### ARTÍCULO 246
 .- El consejo de administración será responsable de que la Institución realice la prueba de solvencia dinámica, misma que deberá ser firmada por un actuario, el cual deberá contar con cédula profesional y certificación vigente emitida por el colegio profesional de la especialidad, o bien acreditar ante la Comisión que tiene los conocimientos requeridos para este efecto en la forma y términos que la misma determine mediante disposiciones de carácter general, y registrarse ante la Comisión, previa satisfacción de los requisitos que ésta fije al efecto en las disposiciones de carácter general a que se refiere el artículo 245 de esta Ley.
 El registro a que se refiere el párrafo anterior, podrá suspenderse o cancelarse, previa audiencia del interesado, en caso de que dejen de reunir los requisitos o, con independencia de las sanciones que procedan, incumplan con las obligaciones que les corresponden.
-CAPÍTULO SÉPTIMO DE LAS INVERSIONES
+
+## CAPÍTULO SÉPTIMO — DE LAS INVERSIONES
 
 ### ARTÍCULO 247
 .- Las Instituciones deberán realizar la inversión de sus activos, así como de los recursos relacionados con las operaciones a que se refieren los artículos 118, fracciones XXI a XXIII, y 144, fracción XVII, de este ordenamiento, apegándose a la política de inversión que, en términos de lo dispuesto por el artículo 70 de esta Ley, apruebe su consejo de administración.
@@ -2744,7 +2751,8 @@ Con independencia de las sanciones a que se refiere este artículo, cuando las I
 
 ### ARTÍCULO 255
 .- La Comisión, con acuerdo de su Junta de Gobierno, podrá determinar, mediante disposiciones de carácter general, reglas para la organización y el régimen de inversión de los sistemas de pensiones o jubilaciones que, para el personal de las Instituciones, se establezcan en forma complementaria a los contemplados en las leyes de seguridad social.
-CAPÍTULO OCTAVO DEL REASEGURO Y REAFIANZAMIENTO
+
+## CAPÍTULO OCTAVO — DEL REASEGURO Y REAFIANZAMIENTO
 
 ### ARTÍCULO 256
 .- Las Instituciones deberán diversificar y dispersar los riesgos y las responsabilidades que asuman al realizar sus operaciones, a través de la celebración de contratos de reaseguro o de reafianzamiento con otras Instituciones o con Reaseguradoras Extranjeras, empleando en su caso los servicios de Intermediarios de Reaseguro, o bien a través de contratos de coaseguro o coafianzamiento con otras Instituciones.
@@ -2805,7 +2813,9 @@ Esta disposición no será aplicable a aquellas Instituciones de Seguros que se 
 
 ### ARTÍCULO 264
 .- La Comisión, mediante disposiciones de carácter general, determinará la forma y términos en que las Instituciones deberán informarle y comprobarle todo lo relativo a sus operaciones de reaseguro y de reafianzamiento. Con independencia de lo anterior, el consejo de administración de las Instituciones será responsable de establecer los mecanismos necesarios para controlar de manera permanente los riesgos y las responsabilidades asumidos por la Institución, la capacidad financiera para retenerlos, así como sus operaciones de reaseguro y reafianzamiento.
-CAPÍTULO NOVENO DE LA INVERSIÓN EN OTRAS SOCIEDADES Y LA CONTRATACIÓN DE SERVICIOS CON TERCEROS
+
+## CAPÍTULO NOVENO — DE LA INVERSIÓN EN OTRAS SOCIEDADES Y LA CONTRATACIÓN DE SERVICIOS CON
+TERCEROS
 
 ### ARTÍCULO 265
 .- Las Instituciones podrán invertir, directa o indirectamente, en el capital social de otras Instituciones; de entidades aseguradoras, reaseguradoras o reafianzadoras del extranjero; de sociedades de inversión o de sociedades operadoras de estas últimas; de administradoras de fondos para el retiro y de sociedades de inversión especializadas de fondos para el retiro. Además, cuando las Instituciones no formen parte de grupos financieros, podrán invertir en el capital social de cualquier otro intermediario o entidad financiera que las leyes aplicables autoricen.
@@ -2859,8 +2869,7 @@ Las empresas a las que se refiere el artículo 267 de la presente Ley, así como
 .- La contratación de los servicios a que se refiere el artículo 268 de esta Ley no eximirá a las Instituciones, ni a sus directivos, delegados fiduciarios, empleados y demás personas que ocupen un empleo, cargo o comisión en la Institución de que se trate, de la obligación de observar lo establecido en el presente ordenamiento legal, en las disposiciones reglamentarias y en las disposiciones de carácter general que emanen de esta Ley.
 La Comisión podrá solicitar a los prestadores de los servicios a que se refiere el artículo 268 de este ordenamiento, por conducto de las Instituciones, información, incluyendo libros, registros y documentos, respecto de los servicios que les provean, así como realizar visitas de inspección y decretar las medidas que las Instituciones deberán observar para asegurar la continuidad de los servicios que éstas proporcionan a sus clientes, la integridad de la información y el apego a lo establecido en esta Ley.
 
-## CAPÍTULO DÉCIMO
-DE LA CESIÓN DE CARTERA, LA FUSIÓN Y LA ESCISIÓN DE LAS INSTITUCIONES
+## CAPÍTULO DÉCIMO — DE LA CESIÓN DE CARTERA, LA FUSIÓN Y LA ESCISIÓN DE LAS INSTITUCIONES
 
 ### ARTÍCULO 270
 .- La cesión de la cartera de una Institución de Seguros a otra, o bien la cesión de las obligaciones y derechos correspondientes al otorgamiento de fianzas de una Institución a otra, requerirá la autorización previa de la Comisión, con acuerdo de su Junta de Gobierno, y se efectuará de acuerdo con las bases siguientes:
@@ -2915,7 +2924,7 @@ El proceso de escisión a que se refiere este artículo, de ninguna manera modif
 En todo caso, para su modificación será necesaria la manifestación de la voluntad de las partes interesadas en este sentido.
 En lo no previsto en este artículo, se observará lo establecido en el artículo 228 Bis de la Ley General de Sociedades Mercantiles.
 
-## CAPÍTULO DÉCIMO PRIMERO
+## CAPÍTULO DÉCIMO — PRIMERO
 DE LOS FONDOS ESPECIALES DE SEGUROS
 
 ### ARTÍCULO 273
@@ -3053,7 +3062,10 @@ IX. La Secretaría, escuchando la opinión de la Comisión, determinará los cri
 
 X. La Secretaría autorizará el régimen a que se sujetará la inversión del patrimonio de los fideicomisos a que se refiere este artículo, considerando los principios y disposiciones previstos en esta Ley para la cobertura de la Base de Inversión de las Instituciones de Seguros. Asimismo, la Secretaría autorizará, previo análisis de la propuesta del comité técnico de los fideicomisos, la administración de los recursos atendiendo a los objetivos señalados en el presente artículo.
 La Comisión ejercerá sus funciones de inspección y vigilancia respecto de los fideicomisos a que se refiere el presente artículo.
-TÍTULO SEXTO DE LOS PROCEDIMIENTOS CAPÍTULO PRIMERO DE LOS PROCEDIMIENTOS DE SEGUROS
+
+## TÍTULO SEXTO — DE LOS PROCEDIMIENTOS
+
+## CAPÍTULO PRIMERO — DE LOS PROCEDIMIENTOS DE SEGUROS
 
 ### ARTÍCULO 276
 .- Si una Institución de Seguros no cumple con las obligaciones asumidas en el contrato de seguro dentro de los plazos con que cuente legalmente para su cumplimiento, deberá pagar al acreedor una indemnización por mora de acuerdo con lo siguiente:
@@ -3149,7 +3161,8 @@ de este ordenamiento, en el sentido de que podría constituirse el delito previs
 VIII. Cuando se haga efectivo un seguro de caución conforme al procedimiento de ejecución establecido en este artículo, la indemnización por mora deberá pagarse de conformidad con lo previsto en el segundo párrafo de la fracción VIII del artículo 276 de esta Ley, y
 
 IX. En la determinación del monto del requerimiento por la obligación principal, así como de la indemnización por mora, se considerarán, inclusive, las fracciones del peso como unidad del sistema monetario nacional. No obstante, para efectuar los pagos, los montos que comprendan fracciones de peso se ajustarán a la unidad inmediata inferior cuando contengan cantidades de 1 hasta 50 centavos; de la misma forma, los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
-CAPÍTULO SEGUNDO DE LOS PROCEDIMIENTOS DE FIANZAS
+
+## CAPÍTULO SEGUNDO — DE LOS PROCEDIMIENTOS DE FIANZAS
 
 ### ARTÍCULO 279
 .- Los beneficiarios de fianzas deberán presentar sus reclamaciones por responsabilidades derivadas de los derechos y obligaciones que consten en la póliza respectiva, directamente ante la Institución. En caso que ésta no le dé contestación dentro del término legal o que exista inconformidad respecto de la resolución emitida por la misma, el reclamante podrá, a su elección, hacer valer sus derechos ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros o bien, ante los tribunales competentes en los términos previstos por el artículo 280 de esta Ley.
@@ -3332,7 +3345,8 @@ En caso de que la Institución no reciba los elementos y la documentación o los
 No obstante lo establecido en los dos párrafos anteriores, el fiado conservará sus derechos, acciones y excepciones frente a su acreedor para demandar la improcedencia del pago hecho por la Institución y de los daños y perjuicios que con ese motivo le hubiere causado. Cuando los que hubieren hecho el pago a la Institución fueren el solicitante o los obligados solidarios o contrafiadores, podrán recuperar lo que a su derecho conviniere en contra del fiado y por vía de subrogación ante el acreedor que como beneficiario de la fianza la hizo efectiva. Las Instituciones, al ser requeridas o demandadas por el acreedor, podrán denunciar el pleito al deudor principal, así como al solicitante, obligados solidarios o contrafiadores, para que éstos rindan las pruebas que crean convenientes. En caso de que no salgan al juicio para el indicado objeto, les perjudicará la sentencia que se pronuncie contra la Institución. Lo anterior también será aplicable en los procedimientos conciliatorios y juicios arbitrales, así como en los procedimientos convencionales que se establezcan conforme al artículo 288 de este ordenamiento.
 El texto de este artículo se hará saber de manera inequívoca al fiado, al solicitante y, en su caso, a los obligados solidarios o contrafiadores, y deberá transcribirse íntegramente en el contrato solicitud respectivo.
 La Institución, en todo momento, tendrá derecho a oponer al beneficiario la compensación de lo que éste deba al fiado, excepto cuando el deudor hubiere renunciado previa y expresamente a ella.
-CAPÍTULO TERCERO DE LOS PROCEDIMIENTOS COMUNES
+
+## CAPÍTULO TERCERO — DE LOS PROCEDIMIENTOS COMUNES
 
 ### ARTÍCULO 290
 .- En el caso de los seguros de caución, la certificación del pago prevista en la fracción II del artículo 158 de la Ley sobre el Contrato de Seguro, deberá ser realizada por las personas facultadas por el consejo de administración de la Institución de Seguros de que se trate.
@@ -3353,7 +3367,10 @@ III. El seguro de caución o la fianza será exigible desde el día siguiente al
 
 ### ARTÍCULO 293
 .- Las autoridades federales, del Distrito Federal, de los Estados y de los Municipios, deberán informar, a solicitud de las Instituciones, sobre la situación del asunto, ya sea judicial, administrativo o de cualquier otra naturaleza, para el que se haya otorgado el seguro de caución o la fianza y resolver, dentro de los treinta días siguientes a su recepción, las solicitudes de cancelación del seguro de caución o de la fianza. En caso de que las autoridades no resuelvan las solicitudes de cancelación dentro del plazo mencionado, se entenderán resueltas en el sentido negativo al solicitante.
-TÍTULO SÉPTIMO DE LAS PROHIBICIONES A LAS INSTITUCIONES CAPÍTULO PRIMERO DE LAS INSTITUCIONES DE SEGUROS
+
+## TÍTULO SÉPTIMO — DE LAS PROHIBICIONES A LAS INSTITUCIONES
+
+## CAPÍTULO PRIMERO — DE LAS INSTITUCIONES DE SEGUROS
 
 ### ARTÍCULO 294
 .- A las Instituciones de Seguros les estará prohibido:
@@ -3443,7 +3460,8 @@ XIX. Otorgar seguros o fianzas en contravención a lo dispuesto por esta Ley;
 XX. Especular con los bienes recibidos en garantía por los seguros de caución o fianzas otorgados, y
 
 XXI. Para las Instituciones de Seguros autorizadas para el otorgamiento de fianzas, afianzar a sus funcionarios y administradores, o aceptarlos como contrafiadores u obligados solidarios, así como otorgar pólizas en las que los mismos aparezcan como beneficiarios.
-CAPÍTULO SEGUNDO DE LAS INSTITUCIONES DE FIANZAS
+
+## CAPÍTULO SEGUNDO — DE LAS INSTITUCIONES DE FIANZAS
 
 ### ARTÍCULO 295
 .- A las Instituciones de Fianzas les estará prohibido:
@@ -3512,7 +3530,10 @@ XVI. Especular con los bienes recibidos en garantía de fianzas otorgadas;
 XVII. Entregar a los agentes, directamente o a través de interpósita persona, pólizas o contratos que establezcan obligaciones para la Institución de Fianzas, sin requisitar, firmados previamente por funcionario, representante legal o persona autorizada para tal efecto, salvo lo establecido en el artículo 98 de esta Ley, y
 
 XVIII. Afianzar a sus funcionarios y administradores, o aceptarlos como contrafiadores u obligados solidarios, así como otorgar pólizas en las que los mismos aparezcan como beneficiarios.
-TÍTULO OCTAVO DE LA CONTABILIDAD E INFORMACIÓN DE LAS INSTITUCIONES CAPÍTULO PRIMERO DE LA CONTABILIDAD
+
+## TÍTULO OCTAVO — DE LA CONTABILIDAD E INFORMACIÓN DE LAS INSTITUCIONES
+
+## CAPÍTULO PRIMERO — DE LA CONTABILIDAD
 
 ### ARTÍCULO 296
 .- La estimación máxima de los activos y la estimación mínima de las obligaciones y responsabilidades de las Instituciones y Sociedades Mutualistas, se sujetará a lo señalado por esta Ley, así como a los criterios que establezca la Comisión mediante disposiciones de carácter general, los cuales procurarán la adecuada valuación de los mismos en la contabilidad de las Instituciones y Sociedades Mutualistas.
@@ -3545,7 +3566,8 @@ La clasificación de las citadas obligaciones susceptibles de ser apoyadas por l
 .- Los libros de contabilidad y los registros a que se refiere esta Ley, deberán conservarse disponibles en las oficinas de las Instituciones y Sociedades Mutualistas.
 Las Instituciones de Seguros y Sociedades Mutualistas deberán llevar al día el registro de las primas que se emitan, que se cobren, de los siniestros, así como de los vencimientos.
 Las Instituciones deberán llevar al día el registro de la expedición de pólizas de fianzas, de la cobranza efectivamente ingresada, de las garantías recabadas y de las reclamaciones recibidas.
-CAPÍTULO SEGUNDO DE LOS ESTADOS FINANCIEROS Y LA REVELACIÓN DE INFORMACIÓN
+
+## CAPÍTULO SEGUNDO — DE LOS ESTADOS FINANCIEROS Y LA REVELACIÓN DE INFORMACIÓN
 
 ### ARTÍCULO 304
 .- La Comisión, mediante disposiciones de carácter general que procuren y faciliten la transparencia y confiabilidad de la información financiera de las Instituciones y Sociedades Mutualistas, señalará: los requisitos a que se sujetará la aprobación de los estados financieros por parte de los administradores de las Instituciones y Sociedades Mutualistas; su difusión a través de cualquier medio de comunicación incluyendo a los medios electrónicos, ópticos o de cualquier otra tecnología; así como el procedimiento a que se ajustará la revisión que de los mismos efectúe la Comisión.
@@ -3573,7 +3595,8 @@ Con independencia de la información a que se refiere el párrafo anterior, las 
 ### ARTÍCULO 309
 .- Las Instituciones podrán pagar los dividendos decretados por sus asambleas generales de accionistas, y las Sociedades Mutualistas podrán repartir remanentes entre los mutualizados, cuando los estados financieros de dichas sociedades hayan sido aprobados y publicados en términos de lo señalado por los artículos 304 y 305 de esta Ley. Lo anterior, sin perjuicio del ejercicio de las facultades de inspección y vigilancia que este ordenamiento le confiere a la Comisión y, de que ésta pueda formular observaciones y ordenar las medidas correctivas que estime procedentes conforme a lo establecido en esta Ley.
 Los repartos efectuados en contravención a lo dispuesto en el párrafo anterior, deberán ser restituidos a la sociedad. Serán solidariamente responsables a este respecto los accionistas o mutualizados que los hayan recibido, así como los administradores y funcionarios que los hayan pagado.
-CAPÍTULO TERCERO DE LOS AUDITORES EXTERNOS Y LOS ACTUARIOS INDEPENDIENTES
+
+## CAPÍTULO TERCERO — DE LOS AUDITORES EXTERNOS Y LOS ACTUARIOS INDEPENDIENTES
 
 ### ARTÍCULO 310
 .- Los estados financieros anuales de las Instituciones y Sociedades Mutualistas deberán estar dictaminados por un auditor externo independiente, quien será designado directamente por el consejo de administración de la Institución o Sociedad Mutualista de que se trate.
@@ -3635,7 +3658,11 @@ d) Sugieran, acepten, propicien o propongan que una determinada transacción se 
 I. Rindan su dictamen u opinión con base en información proporcionada por la Institución o Sociedad Mutualista a la que otorguen sus servicios, y
 
 II. Rindan su dictamen u opinión apegándose a las normas, procedimientos y metodologías que deban ser aplicadas para realizar el análisis, evaluación o estudio que corresponda a su profesión u oficio.
-TÍTULO NOVENO DE LAS MEDIDAS PREVENTIVAS Y CORRECTIVAS, LA INTERVENCIÓN Y LA REVOCACIÓN CAPÍTULO PRIMERO DE LOS PLANES DE REGULARIZACIÓN Y LOS PROGRAMAS DE AUTOCORRECCIÓN
+
+## TÍTULO NOVENO — DE LAS MEDIDAS PREVENTIVAS Y CORRECTIVAS, LA INTERVENCIÓN Y LA
+REVOCACIÓN
+
+## CAPÍTULO PRIMERO — DE LOS PLANES DE REGULARIZACIÓN Y LOS PROGRAMAS DE AUTOCORRECCIÓN
 
 ### ARTÍCULO 320
 .- La Comisión, con independencia de las sanciones que proceda imponer, de que pueda ordenar la adopción de una o varias de las medidas de control a que se refiere el artículo 324 de la presente Ley, o de que actúe en términos de lo previsto en el artículo 383 de este ordenamiento, procederá conforme a lo señalado en este artículo cuando advierta que la situación financiera de una Institución presenta faltantes en alguno de los siguientes parámetros de solvencia:
@@ -3719,7 +3746,8 @@ Durante la vigencia de los programas de autocorrección que hubiere aprobado la 
 El comité de auditoría de la Institución de que se trate deberá dar seguimiento a la instrumentación del programa de autocorrección aprobado e informar de su avance tanto al consejo de administración y al director general de la Institución como a la Comisión en la forma y términos que ésta establezca en las disposiciones de carácter general a que se refiere este artículo. Lo anterior, con independencia de la facultad de la Comisión para supervisar, en cualquier momento, el grado de avance y cumplimiento del programa de autocorrección.
 Si como resultado de los informes del comité de auditoría o de las labores de inspección y vigilancia de la Comisión, ésta determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, la Comisión, con independencia de que aplique las sanciones que correspondan, solicitará a la Institución de que se trate un plan de regularización en los términos establecidos en el artículo 321 de la presente Ley.
 Las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión, podrán presentar programas de autocorrección, siendo aplicable, en lo conducente, lo previsto en este artículo. Tratándose de personas morales, las funciones asignadas al comité de auditoría las ejercerá su director o equivalente.
-CAPÍTULO SEGUNDO DE LAS MEDIDAS DE CONTROL
+
+## CAPÍTULO SEGUNDO — DE LAS MEDIDAS DE CONTROL
 
 ### ARTÍCULO 323
 .- La Comisión podrá ordenar a la Institución de que se trate que cumpla con una o varias de las medidas de control a que se refiere el artículo 324 de esta Ley, con el propósito de proteger los intereses de los asegurados, o bien de los fiados y beneficiarios, cuando determine que una Institución presenta cualquiera de las situaciones siguientes:
@@ -3775,7 +3803,8 @@ VIII. Abstenerse, total o parcialmente, de enajenar o disponer de los activos de
 
 IX. Suspender el pago de dividendos a sus accionistas.
 Lo dispuesto en el presente artículo, no excluye la aplicación de lo previsto en los artículos 325, 332 a 335, 363, 364 y 383 de esta Ley.
-CAPÍTULO TERCERO DE LA INTERVENCIÓN CON CARÁCTER DE GERENCIA
+
+## CAPÍTULO TERCERO — DE LA INTERVENCIÓN CON CARÁCTER DE GERENCIA
 
 ### ARTÍCULO 325
 .- Con independencia de lo señalado en los artículos 320, 321, 323 y 324 de la presente Ley, cuando a juicio de la Comisión existan irregularidades que afecten la estabilidad o solvencia de las Instituciones o Sociedades Mutualistas, y pongan en peligro los intereses de los asegurados, o bien de los fiados o beneficiarios, según sea el caso, el Presidente de la Comisión, con acuerdo de su Junta de Gobierno, podrá declarar la intervención con carácter de gerencia de la Institución de Seguros, la Institución de Fianzas o la Sociedad Mutualista de que se trate, y designar, sin que para ello requiera acuerdo de la Junta de Gobierno, a la persona física que se haga cargo de la sociedad con el carácter de interventor gerente.
@@ -3801,11 +3830,9 @@ En el caso del interventor gerente, éste percibirá su remuneración con cargo 
 ### ARTÍCULO 331
 .- Cuando la Comisión, con el acuerdo de su Junta de Gobierno, acuerde levantar la intervención con el carácter de gerencia, lo comunicará así al encargado del Registro Público de Comercio que haya hecho la anotación a que se refiere el artículo 328 de esta Ley, a efecto de que se cancele la inscripción respectiva.
 
-## CAPÍTULO CUARTO
-DE LA REVOCACIÓN
+## CAPÍTULO CUARTO — DE LA REVOCACIÓN
 
-## SECCIÓN I
-DE LAS INSTITUCIONES DE SEGUROS
+## SECCIÓN I — DE LAS INSTITUCIONES DE SEGUROS
 
 ### ARTÍCULO 332
 .- La Comisión, con acuerdo de su Junta de Gobierno, y después de escuchar a la Institución de Seguros de que se trate, podrá declarar la revocación de la autorización para operar como Institución de Seguros, en los siguientes casos:
@@ -3842,8 +3869,7 @@ X. Si se disuelve, quiebra o entra en estado de liquidación, o concurso mercant
 
 XI. Si la asamblea general de accionistas de la Institución de Seguros, mediante decisión adoptada en sesión extraordinaria, resuelve solicitarla.
 
-## SECCIÓN II
-DE LAS INSTITUCIONES DE FIANZAS
+## SECCIÓN II — DE LAS INSTITUCIONES DE FIANZAS
 
 ### ARTÍCULO 333
 .- La Comisión, con acuerdo de su Junta de Gobierno, y después de escuchar a la Institución de Fianzas de que se trate, podrá declarar la revocación de la autorización para operar como Institución de Fianzas, en los siguientes casos:
@@ -3870,8 +3896,7 @@ VIII. Si se disuelve, quiebra o entra en estado de liquidación, o concurso merc
 
 IX. Si la asamblea general de accionistas de la Institución de Fianzas, mediante decisión adoptada en sesión extraordinaria, resuelve solicitarla.
 
-## SECCIÓN III
-DE LAS DISPOSICIONES COMUNES
+## SECCIÓN III — DE LAS DISPOSICIONES COMUNES
 
 ### ARTÍCULO 334
 .- Cuando la Comisión tenga conocimiento de que una Institución ha incurrido en alguno de los supuestos previstos en los artículos 332 o 333 de la presente Ley, con excepción de las fracciones XI del artículo 332 y IX del artículo 333, según corresponda, le notificará dicha situación a la Institución de que se trate para que, en un plazo de diez días hábiles contados a partir del día hábil siguiente a aquél en que surta efectos la notificación respectiva, la propia Institución manifieste por escrito lo que a su derecho convenga, ofrezca pruebas que, a su juicio, acrediten que se han subsanado los hechos u omisiones señalados en la notificación. A petición de parte, la Comisión podrá ampliar por una sola ocasión el plazo a que se refiere este párrafo, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso y notificará a la Institución la resolución correspondiente. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen.
@@ -3895,8 +3920,9 @@ Párrafo reformado DOF 24-01-2024 Concluido el plazo señalado en el párrafo an
 Párrafo adicionado DOF 24-01-2024 Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión contará con un plazo no mayor a ciento ochenta días hábiles para emitir y notificar la resolución que ponga fin al procedimiento administrativo a que se refiere el presente artículo.
 Párrafo adicionado DOF 24-01-2024 En cualquiera de los supuestos establecidos en este artículo, deberán adoptarse las medidas necesarias para proteger los intereses de los contratantes, asegurados, fiados y beneficiarios.
 
-## TÍTULO DÉCIMO
-DE LAS SOCIEDADES MUTUALISTAS DE SEGUROS CAPÍTULO PRIMERO DE LA AUTORIZACIÓN Y ORGANIZACIÓN
+## TÍTULO DÉCIMO — DE LAS SOCIEDADES MUTUALISTAS DE SEGUROS
+
+## CAPÍTULO PRIMERO — DE LA AUTORIZACIÓN Y ORGANIZACIÓN
 
 ### ARTÍCULO 336
 .- Las solicitudes de autorización para organizarse y operar como Sociedad Mutualista, se efectuarán, en lo conducente, de conformidad con lo previsto en los artículos 41, 43, 44, 45 y 47 de esta Ley, con excepción de lo establecido en las fracciones VI y VII del artículo 41 de este ordenamiento.
@@ -3985,7 +4011,8 @@ Es aplicable a las Sociedades Mutualistas, en lo conducente, lo dispuesto por lo
 ### ARTÍCULO 340
 .- Cuando una Sociedad Mutualista practique varias de las operaciones a que se refiere el artículo 25 de la presente Ley, deberá realizar cada una de ellas en forma especializada, y registrará separadamente en libros, los fondos social y de reserva que queden afectos a esas operaciones.
 Las reservas técnicas quedarán registradas para cada operación y ramo, y no podrán servir para garantizar obligaciones contraídas por pólizas emitidas en otras operaciones y, en su caso, en otros ramos.
-CAPÍTULO SEGUNDO DE LAS OPERACIONES Y FUNCIONAMIENTO
+
+## CAPÍTULO SEGUNDO — DE LAS OPERACIONES Y FUNCIONAMIENTO
 
 ### ARTÍCULO 341
 .- Las Sociedades Mutualistas sólo podrán realizar las operaciones siguientes:
@@ -4112,7 +4139,8 @@ Serán aplicables a las Sociedades Mutualistas las disposiciones previstas en lo
 
 ### ARTÍCULO 360
 .- La cesión de la cartera de una Sociedad Mutualista a otra y la fusión de dos o más Sociedades Mutualistas, se efectuarán conforme a lo dispuesto por los artículos 270 y 271, respectivamente, de esta Ley.
-CAPÍTULO TERCERO DE LAS PROHIBICIONES A LAS SOCIEDADES MUTUALISTAS
+
+## CAPÍTULO TERCERO — DE LAS PROHIBICIONES A LAS SOCIEDADES MUTUALISTAS
 
 ### ARTÍCULO 361
 .- A las Sociedades Mutualistas les estará prohibido:
@@ -4150,8 +4178,7 @@ Tampoco podrán repartir remanentes, sin haber constituido debidamente tales res
 
 XV. Proporcionar, para fines distintos a la prestación del servicio a que se haya obligado la Sociedad Mutualista, incluyendo entre otros la comercialización de productos o servicios, la información que obtengan con motivo de la celebración de operaciones con sus socios mutualizados, salvo que cuenten con el consentimiento expreso del mutualizado respectivo, el cual deberá constar en una sección especial dentro de la documentación que deba firmar el mutualizado para contratar una operación o servicio con la Sociedad Mutualista, y siempre que la firma autógrafa de aquél relativa al texto de dicho consentimiento sea adicional a la normalmente requerida por la sociedad para la celebración de la operación o servicio de que se trate. En ningún caso, el otorgamiento de dicho consentimiento será condición para la contratación de dicha operación o servicio.
 
-## CAPÍTULO CUARTO
-DE LA REVOCACIÓN, LA LIQUIDACIÓN Y EL CONCURSO MERCANTIL
+## CAPÍTULO CUARTO — DE LA REVOCACIÓN, LA LIQUIDACIÓN Y EL CONCURSO MERCANTIL
 
 ### ARTÍCULO 362
 .- Lo dispuesto en los artículos 320 a 324 de esta Ley, relativos a planes de regularización, programas de autocorrección, medidas de control, así como lo previsto en el artículo 383 de este ordenamiento, será aplicable, en lo conducente, a las Sociedades Mutualistas.
@@ -4190,11 +4217,12 @@ Párrafo reformado DOF 24-01-2024 La liquidación será administrativa y se prac
 .- Es aplicable a las Sociedades Mutualistas, lo dispuesto por el Título Décimo Tercero de la presente Ley.
 En caso de reclamaciones de los mutualizados contra la Sociedad Mutualista con motivo del contrato de seguro, deberán observarse las disposiciones del Capítulo Primero del Título Sexto de este ordenamiento.
 
-## TÍTULO DÉCIMO PRIMERO
-DE LA COMISIÓN NACIONAL DE SEGUROS Y FIANZAS CAPÍTULO PRIMERO DE SUS FACULTADES Y ORGANIZACIÓN
+## TÍTULO DÉCIMO — PRIMERO
+DE LA COMISIÓN NACIONAL DE SEGUROS Y FIANZAS
 
-## SECCIÓN I
-DE LA COMISIÓN
+## CAPÍTULO PRIMERO — DE SUS FACULTADES Y ORGANIZACIÓN
+
+## SECCIÓN I — DE LA COMISIÓN
 
 ### ARTÍCULO 366
 .- La Comisión es un órgano desconcentrado de la Secretaría, con autonomía técnica y facultades ejecutivas en los términos de esta Ley.
@@ -4297,8 +4325,7 @@ VI. Delegaciones Regionales, y
 VII. Demás servidores públicos necesarios.
 Las Delegaciones Regionales de la Comisión podrán realizar, dentro del área de su jurisdicción geográfica, las funciones que se determinen en su reglamento interior.
 
-## SECCIÓN II
-DE LA JUNTA DE GOBIERNO
+## SECCIÓN II — DE LA JUNTA DE GOBIERNO
 
 ### ARTÍCULO 368
 .- La Junta de Gobierno de la Comisión estará integrada por la persona titular de la Presidencia de la Comisión, quien lo será también de la Junta de Gobierno, tres vicepresidencias nombradas por ésta, garantizando el principio de paridad de género, y nueve vocalías conforme a lo siguiente:
@@ -4384,8 +4411,7 @@ Habrá quórum con la presencia de por lo menos ocho de sus integrantes. Las res
 Las resoluciones y recomendaciones que apruebe la Junta de Gobierno se harán constar en acta firmada por el Presidente y el secretario de actas, y serán comunicadas a la Secretaría después de cada sesión.
 Los acuerdos de la Junta de Gobierno de la Comisión serán ejecutivos en los términos expresados anteriormente, y corresponderá al Presidente, en ejercicio de sus atribuciones, darles oportuno cumplimiento.
 
-## SECCIÓN III
-DE LA PRESIDENCIA
+## SECCIÓN III — DE LA PRESIDENCIA
 
 ### ARTÍCULO 371
 .- El titular de la Secretaría nombrará al Presidente de la Comisión. El Presidente deberá reunir los requisitos siguientes:
@@ -4509,8 +4535,7 @@ Serán facultades indelegables del Presidente de la Comisión las señaladas en 
 .- En los procedimientos judiciales, administrativos o laborales en los que la Comisión sea parte o pueda resultar afectada, el Presidente directamente o por medio de los vicepresidentes o directores generales de la Comisión que al efecto designe en los acuerdos delegatorios, ejercitará las acciones, excepciones y defensas, producirá alegatos, ofrecerá pruebas, interpondrá los recursos que procedan, podrá presentar desistimientos, y en general realizará todos los actos procesales que correspondan a la Comisión o a sus órganos, incluyendo en los juicios de amparo la presentación de los informes de ley.
 El Presidente, los vicepresidentes y los directores generales sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la Comisión o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, mismo que contestarán por escrito dentro del término establecido por dicha autoridad.
 
-## SECCIÓN IV
-DE LAS DISPOSICIONES GENERALES
+## SECCIÓN IV — DE LAS DISPOSICIONES GENERALES
 
 ### ARTÍCULO 375
 .- Los servidores públicos de la Comisión deberán cumplir con los requisitos del perfil del puesto que determine la propia Comisión y, según corresponda, conforme a lo dispuesto por la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
@@ -4551,7 +4576,8 @@ Los requerimientos de información previstos en el artículo 117 de la Ley de In
 
 ### ARTÍCULO 381
 .- La Comisión publicará en el Diario Oficial de la Federación las disposiciones de carácter general que emita en ejercicio de las facultades que esta u otras leyes le otorgan, así como los actos administrativos que, en cumplimiento de las leyes, deban publicarse en el mismo medio.
-CAPÍTULO SEGUNDO DE LA INSPECCIÓN Y VIGILANCIA
+
+## CAPÍTULO SEGUNDO — DE LA INSPECCIÓN Y VIGILANCIA
 
 ### ARTÍCULO 382
 .- La inspección y vigilancia de las Instituciones y Sociedades Mutualistas, así como de las demás personas y entidades reguladas por la presente Ley y los reglamentos respectivos, estará a cargo de la Comisión, quien la llevará a cabo sujetándose a lo previsto en esta Ley, en el reglamento respectivo y en las demás disposiciones que resulten aplicables.
@@ -4620,11 +4646,12 @@ La Comisión, en cualquier momento, podrá solicitar certificados respecto de lo
 ### ARTÍCULO 392
 .- Las Instituciones y Sociedades Mutualistas, así como las demás personas y entidades sujetas conforme a esta Ley a la inspección y vigilancia de la Comisión, deberán cubrir las cuotas correspondientes a esos servicios en los términos de las disposiciones legales aplicables. Las cuotas correspondientes a los servicios de inspección y vigilancia a que se refiere este artículo, se destinarán a cubrir el presupuesto de la Comisión.
 
-## TÍTULO DÉCIMO SEGUNDO
-DE LA LIQUIDACIÓN Y EL CONCURSO MERCANTIL CAPÍTULO PRIMERO DE LA LIQUIDACIÓN ADMINISTRATIVA
+## TÍTULO DÉCIMO — SEGUNDO
+DE LA LIQUIDACIÓN Y EL CONCURSO MERCANTIL
 
-## SECCIÓN I
-DE LAS DISPOSICIONES COMUNES
+## CAPÍTULO PRIMERO — DE LA LIQUIDACIÓN ADMINISTRATIVA
+
+## SECCIÓN I — DE LAS DISPOSICIONES COMUNES
 
 ### ARTÍCULO 393
 .- Los procedimientos de liquidación administrativa son de orden público y, en protección de los intereses de los acreedores por contratos de seguros o por fianzas de las Instituciones y Sociedades Mutualistas, se sujetarán a lo dispuesto por el presente Capítulo, con la finalidad de hacer el pago de las cuotas de liquidación correspondientes a éstos y demás acreedores en el menor tiempo posible, y obtener el máximo valor de recuperación de los activos de esas sociedades.
@@ -4882,8 +4909,7 @@ Los interesados podrán oponerse a esta cancelación dentro del citado plazo ant
 ### ARTÍCULO 431
 .- La Comisión ejercerá la función de supervisión de los liquidadores únicamente respecto del cumplimiento de los procedimientos a los que se refieren los artículos 401 y 444, fracción III, de esta Ley.
 
-## SECCIÓN II
-DE LAS INSTITUCIONES DE SEGUROS Y SOCIEDADES MUTUALISTAS
+## SECCIÓN II — DE LAS INSTITUCIONES DE SEGUROS Y SOCIEDADES MUTUALISTAS
 
 ### ARTÍCULO 432
 .- La liquidación administrativa de una Institución de Seguros o Sociedad Mutualista rescinde de pleno derecho los contratos de seguro, reaseguro y reafianzamiento, si en el plazo máximo de treinta días, contados desde la fecha en que se notifique el oficio que declare la revocación de la autorización, el liquidador administrativo no celebra los contratos para la cesión de la cartera de riesgos en vigor respectiva a otras Instituciones de Seguros o Sociedades Mutualistas, según corresponda, que cuenten con autorización para la práctica de las operaciones objeto de la cesión.
@@ -4981,8 +5007,7 @@ Los créditos referidos en la fracción XXIII, apartado A, del artículo 123 con
 El remanente que, en su caso, hubiere del haber social, se entregará a los accionistas o mutualizados.
 Por la sola entrega de apoyos en términos de lo dispuesto por los artículos 274 y 275, fracción III, inciso b), numeral 3, de esta Ley, el fiduciario estará legitimado para exigir, en beneficio de los fondos especiales previstos en dichos artículos, la recuperación del monto de esos apoyos, siendo suficiente título el documento en que consten la instrucción de la Comisión o de la Secretaría, según corresponda, para que se entregue el apoyo a la sociedad y la entrega del apoyo a la misma.
 
-## SECCIÓN III
-DE LAS INSTITUCIONES DE FIANZAS
+## SECCIÓN III — DE LAS INSTITUCIONES DE FIANZAS
 
 ### ARTÍCULO 437
 .- Desde que se declare la revocación de la autorización de una Institución de Fianzas, los fiados o beneficiarios de las fianzas que no se hayan hecho exigibles, podrán procurar la sustitución de sus garantías o gestionar su cesión a otra Institución.
@@ -5054,7 +5079,8 @@ Para realizar el pago a los acreedores cuyos créditos se ubiquen en una de las 
 En el evento de que los activos de la Institución de Fianzas en liquidación no resulten suficientes para efectuar los pagos o constituir las reservas que correspondan a la totalidad de los créditos comprendidos en una de las fracciones de este artículo, el liquidador administrativo realizará, a prorrata, los pagos o la constitución de las reservas de los créditos correspondientes a dicha fracción.
 Los créditos referidos en la fracción XXIII, apartado A, del artículo 123 constitucional y sus disposiciones reglamentarias, así como los gastos administrativos y honorarios que se generen con motivo de la liquidación administrativa, tendrán preferencia sobre las obligaciones mencionadas en las fracciones anteriores.
 El remanente que, en su caso, hubiere del haber social, se entregará a los accionistas.
-CAPÍTULO SEGUNDO DE LA LIQUIDACIÓN CONVENCIONAL
+
+## CAPÍTULO SEGUNDO — DE LA LIQUIDACIÓN CONVENCIONAL
 
 ### ARTÍCULO 443
 .- La asamblea general de accionistas o de mutualizados de las Instituciones o Sociedades Mutualistas, podrán designar a su liquidador sólo en aquellos casos en que la revocación de su autorización derive de la solicitud a que se refieren los artículos 332, fracciones I y XI, 333, fracciones I y IX, y 363, fracciones I y VIII, de esta Ley, y siempre y cuando se cumpla con lo siguiente:
@@ -5105,10 +5131,10 @@ h) Abstenerse de comprar para sí o para otro, los bienes propiedad de la Instit
 ### ARTÍCULO 445
 .- En todo lo no previsto por los artículos 443 y 444 de la presente Ley, serán aplicables a la disolución y liquidación convencional de las Instituciones y Sociedades Mutualistas las disposiciones contenidas en los artículos 404, 407, 408, 410, 436 y 442, según corresponda, de este ordenamiento, siempre que dichas disposiciones resulten compatibles con el presente Capítulo.
 Las operaciones de conclusión de la liquidación convencional se regirán en lo conducente por lo establecido en los artículos 426 a 430 de esta Ley.
-CAPÍTULO TERCERO DEL CONCURSO MERCANTIL
 
-## SECCIÓN I
-DE LAS DISPOSICIONES COMUNES
+## CAPÍTULO TERCERO — DEL CONCURSO MERCANTIL
+
+## SECCIÓN I — DE LAS DISPOSICIONES COMUNES
 
 ### ARTÍCULO 446
 .- El concurso mercantil de las Instituciones y Sociedades Mutualistas se regirá por lo dispuesto en esta Ley y, en lo no previsto, por lo establecido en la Ley de Concursos Mercantiles.
@@ -5140,8 +5166,7 @@ b) Auxiliar a los beneficiarios de fianzas en la procura de la sustitución de s
 ### ARTÍCULO 451
 .- La fecha de retroacción se fijará a partir del día en que haya entrado en funciones el interventor gerente o liquidador administrativo.
 
-## SECCIÓN II
-DE LAS INSTITUCIONES DE SEGUROS Y SOCIEDADES MUTUALISTAS
+## SECCIÓN II — DE LAS INSTITUCIONES DE SEGUROS Y SOCIEDADES MUTUALISTAS
 
 ### ARTÍCULO 452
 .- En el concurso mercantil de una Institución de Seguros o Sociedad Mutualista se aplicará lo dispuesto en el artículo 432 de esta Ley.
@@ -5157,8 +5182,7 @@ La cuota concursal correspondiente a los acreedores por fianzas se fijará de co
 ### ARTÍCULO 454
 .- Si las obligaciones de la Institución de Seguros fallida son susceptibles de ser apoyadas por los fondos especiales a que se refiere el artículo 274 de esta Ley, se procederá en términos de lo previsto en el artículo 435 de este ordenamiento. En este caso, las funciones previstas para el liquidador administrativo, corresponderán al síndico.
 
-## SECCIÓN III
-DE LAS INSTITUCIONES DE FIANZAS
+## SECCIÓN III — DE LAS INSTITUCIONES DE FIANZAS
 
 ### ARTÍCULO 455
 .- Desde que se declare el concurso mercantil de una Institución de Fianzas, los beneficiarios de las fianzas que no se hayan hecho exigibles, deberán procurar la sustitución de sus garantías o gestionar su cesión a otra Institución.
@@ -5174,8 +5198,10 @@ Los acreedores que opten por ejercitar los derechos que les concede este artícu
 ### ARTÍCULO 458
 .- La cuota concursal correspondiente a los acreedores por fianzas y reafianzamientos, se fijará de conformidad con lo establecido en el artículo 441 de esta Ley. Las funciones previstas para el liquidador administrativo, corresponderán al síndico.
 
-## TÍTULO DÉCIMO TERCERO
-DE LAS NOTIFICACIONES, MEDIDAS DE APREMIO Y SANCIONES CAPÍTULO PRIMERO DE LAS NOTIFICACIONES
+## TÍTULO DÉCIMO — TERCERO
+DE LAS NOTIFICACIONES, MEDIDAS DE APREMIO Y SANCIONES
+
+## CAPÍTULO PRIMERO — DE LAS NOTIFICACIONES
 
 ### ARTÍCULO 459
 .- Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, medidas a que se refieren los artículos 323, 324 y 383 de esta Ley, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de suspensión, revocación de autorizaciones o registros a que se refiere la presente Ley, así como los actos que nieguen las autorizaciones a que se refiere este ordenamiento y las resoluciones administrativas que le recaigan a los recursos de revocación y a las solicitudes de condonación interpuestos conforme a las leyes aplicables, se podrán realizar de las siguientes maneras:
@@ -5254,7 +5280,8 @@ II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los 
 III. Se hubiere efectuado la última publicación a que se refiere el artículo 467 de este ordenamiento, y
 
 IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
-CAPÍTULO SEGUNDO DE LAS MEDIDAS DE APREMIO
+
+## CAPÍTULO SEGUNDO — DE LAS MEDIDAS DE APREMIO
 
 ### ARTÍCULO 472
 .- Los servidores públicos de la Secretaría y de la Comisión, con motivo de las órdenes o mandatos que emitan para el desempeño de las funciones que les atribuyen esta Ley y las demás disposiciones legales, reglamentarias y administrativas, previo apercibimiento, podrán emplear indistintamente las siguientes medidas de apremio:
@@ -5273,10 +5300,10 @@ En caso de que persista el desacato previsto en los dos párrafos anteriores, po
 
 ### ARTÍCULO 473
 .- Las medidas de apremio establecidas en las fracciones II y III del artículo 472 de la presente Ley, se harán efectivas por las autoridades de la Secretaría.
-CAPÍTULO TERCERO DE LAS INFRACCIONES Y DELITOS
 
-## SECCIÓN I
-DE LAS DISPOSICIONES GENERALES
+## CAPÍTULO TERCERO — DE LAS INFRACCIONES Y DELITOS
+
+## SECCIÓN I — DE LAS DISPOSICIONES GENERALES
 
 ### ARTÍCULO 474
 .- Los actos jurídicos que se celebren en contravención a lo establecido por esta Ley, los reglamentos aplicables o por las disposiciones que emanen de este ordenamiento, así como a las condiciones que, en lo particular, se señalen en las autorizaciones que se otorguen para que se organicen y operen Instituciones y Sociedades Mutualistas con tal carácter y en los demás actos administrativos, darán lugar a la imposición de las sanciones administrativas o penales que correspondan, sin que dichas contravenciones produzcan la nulidad de los actos, en protección de terceros de buena fe, salvo que esta Ley establezca expresamente lo contrario.
@@ -5287,8 +5314,7 @@ DE LAS DISPOSICIONES GENERALES
 ### ARTÍCULO 476
 .- Las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que, para el desempeño de las actividades y operaciones que correspondan a las personas y entidades reguladas por esta Ley, éstas les hubieren otorgado, estarán sujetas a las responsabilidades administrativas o penales establecidas en este Capítulo aplicables a los funcionarios o empleados de dichas personas o entidades.
 
-## SECCIÓN II
-DE LAS INFRACCIONES
+## SECCIÓN II — DE LAS INFRACCIONES
 
 ### ARTÍCULO 477
 .- Las multas por las infracciones a esta Ley, a las disposiciones de carácter general que de ella emanen, así como a los reglamentos respectivos, serán impuestas administrativamente por la Comisión, tomando como base el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción, a menos que en la propia Ley se disponga otra forma de sanción, y se harán efectivas por las autoridades de la Secretaría.
@@ -5570,8 +5596,7 @@ III. Cuando las infracciones no tengan una sanción específica y consistan en n
 ### ARTÍCULO 491
 .- En protección del interés público, la Comisión divulgará las sanciones que al efecto imponga por infracciones a ésta y otras leyes y a las disposiciones que emanen de ellas, así como a los reglamentos respectivos, una vez que dichas resoluciones hayan quedado firmes o sean cosa juzgada, señalando exclusivamente la fecha o período de la infracción, la persona sancionada, el precepto infringido y la sanción.
 
-## SECCIÓN III
-DE LOS DELITOS
+## SECCIÓN III — DE LOS DELITOS
 
 ### ARTÍCULO 492
 .- Las Instituciones y Sociedades Mutualistas, así como los agentes de seguros y los agentes de fianzas, en términos de las disposiciones de carácter general que emita la Secretaría, escuchando la previa opinión de la Comisión, estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a:

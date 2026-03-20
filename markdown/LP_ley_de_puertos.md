@@ -564,10 +564,7 @@ LEY DE PUERTOS DECRETO por el que se reforman, adicionan y derogan diversas disp
 Publicado en el Diario Oficial de la Federación el 7 de diciembre de 2020
 
 ### Artículo Tercero
-Se reforman los artículos 2o., fracciones I, III y XI, 7, 8, 13, la denominación del
-
-## Capítulo III para quedar como “La Secretaría”, 19 Bis, 19 Ter, 41 párrafo tercero, y se deroga el artículo
-2o. fracción I Bis, de la Ley de Puertos, para quedar como sigue: ……..
+Se reforman los artículos 2o., fracciones I, III y XI, 7, 8, 13, la denominación del Capítulo III para quedar como “La Secretaría”, 19 Bis, 19 Ter, 41 párrafo tercero, y se deroga el artículo 2o. fracción I Bis, de la Ley de Puertos, para quedar como sigue: ……..
 
 ## Transitorios
 

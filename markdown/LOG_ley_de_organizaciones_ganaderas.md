@@ -9,8 +9,7 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 6 de enero de 1999
 ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 
-## TÍTULO I
-DISPOSICIONES GENERALES
+## TÍTULO I — DISPOSICIONES GENERALES
 
 ### ARTÍCULO 1o
 .- La presente Ley es de interés público y de observancia general en todo el país. Tiene por objeto establecer las bases y procedimientos para la constitución, organización y funcionamiento de las organizaciones ganaderas en el país, que se integren para la protección de los intereses de sus miembros; así como los criterios que sustenten el desarrollo y mejoramiento de los procesos productivos y de comercialización de los productos ganaderos.
@@ -61,11 +60,10 @@ XV. Unión ganadera regional general: organización que agrupa a cuando menos el
 
 XVI. Unión ganadera regional especializada: organización que agrupa a cuando menos el cuarenta por ciento de las asociaciones ganaderas locales especializadas en una región ganadera o en un estado.
 
-## TÍTULO II
-DE LAS ORGANIZACIONES GANADERAS Página
+## TÍTULO II — DE LAS ORGANIZACIONES GANADERAS
+Página
 
-## CAPÍTULO I
-Del objeto
+## CAPÍTULO I — Del objeto
 
 ### ARTÍCULO 5o
 .- Las organizaciones ganaderas a que se refiere esta Ley tendrán por objeto:
@@ -101,8 +99,7 @@ XIV. Establecer fideicomisos cuyo objeto sea el de promover el consumo de produc
 
 XV. Las demás que se deriven de su naturaleza, de sus estatutos y las que les señalen otros ordenamientos legales.
 
-## CAPÍTULO II
-De la constitución, organización y registro
+## CAPÍTULO II — De la constitución, organización y registro
 
 ### ARTÍCULO 6o
 .- Los ganaderos del país tendrán en todo momento el derecho de asociarse libre y voluntariamente, de conformidad al artículo noveno Constitucional.
@@ -152,8 +149,7 @@ Página
 Tampoco podrán, bajo pena de disolución, obligar a sus asociados a la realización de actividades políticas partidistas ni a la adopción de militancia partidista alguna.
 La participación política de sus agremiados en lo individual, se realizará libre y voluntariamente en los términos de lo señalado por los artículos 35, fracción III y 41, fracción I, parte final del segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
-## CAPÍTULO III
-De la disolución
+## CAPÍTULO III — De la disolución
 
 ### ARTÍCULO 17
 .- Las organizaciones ganaderas se disolverán:
@@ -170,8 +166,7 @@ Disuelta la organización se procederá a su liquidación, en los términos lega
 ### ARTÍCULO 18
 .- La liquidación estará a cargo de al menos un representante de la Secretaría, uno de la Confederación Nacional de Organizaciones Ganaderas y otro de la organización ganadera de que se trate, conforme al procedimiento que establezca el reglamento.
 
-## TÍTULO III
-DE LAS SANCIONES ADMINISTRATIVAS Y DEL RECURSO DE REVISIÓN
+## TÍTULO III — DE LAS SANCIONES ADMINISTRATIVAS Y DEL RECURSO DE REVISIÓN
 
 ### ARTÍCULO 19
 .- Para la imposición de las sanciones previstas en esta Ley, su Reglamento y demás disposiciones aplicables, la Secretaría se sujetará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
@@ -193,8 +188,7 @@ Página
 ### ARTÍCULO 23
 .- Los afectados por los actos y resoluciones de la Secretaría que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión en términos de la Ley Federal de Procedimiento Administrativo.
 
-## TÍTULO IV
-DE LA SOLUCIÓN DE CONTROVERSIAS
+## TÍTULO IV — DE LA SOLUCIÓN DE CONTROVERSIAS
 
 ### ARTÍCULO 24
 .- Los conflictos que se susciten con motivo de la organización y funcionamiento de las organizaciones a que se refiere esta Ley, serán resueltos en términos de sus estatutos.

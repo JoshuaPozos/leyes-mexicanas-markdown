@@ -11,7 +11,10 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 
 ### ARTÍCULO ÚNICO
 Se expide la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue:
-TÍTULO PRIMERO DISPOSICIONES GENERALES Capítulo Primero Disposiciones Generales
+
+## TÍTULO PRIMERO — DISPOSICIONES GENERALES
+
+## Capítulo Primero — Disposiciones Generales
 
 ### Artículo 1
 .- La presente Ley es de orden público y de observancia en todo el territorio nacional.
@@ -49,7 +52,8 @@ XIII. Salario mínimo: el salario mínimo general diario vigente en el Distrito 
 
 ### Artículo 3
 .- La aplicación de esta Ley para efectos administrativos corresponde al Poder Ejecutivo Federal a través de la Secretaría de Economía.
-Capítulo Segundo De las Cámaras y Confederaciones
+
+## Capítulo Segundo — De las Cámaras y Confederaciones
 
 ### Artículo 4
 .- Las Cámaras y sus Confederaciones son instituciones de interés público, autónomas, con personalidad jurídica y patrimonio propio, constituidas conforme a lo dispuesto en esta Ley y para los fines que ella establece.
@@ -88,7 +92,11 @@ IX. Expedir los acuerdos de carácter general necesarios para el cumplimiento de
 X. Vigilar y verificar la observancia de esta Ley, así como sancionar los casos de incumplimiento, y
 
 XI. Las demás señaladas en esta Ley.
-TÍTULO SEGUNDO DEL OBJETO, CIRCUNSCRIPCIÓN Y ACTIVIDADES DE LAS CÁMARAS Y CONFEDERACIONES Capítulo Primero Del Objeto
+
+## TÍTULO SEGUNDO — DEL OBJETO, CIRCUNSCRIPCIÓN Y ACTIVIDADES DE LAS CÁMARAS Y
+CONFEDERACIONES
+
+## Capítulo Primero — Del Objeto
 
 ### Artículo 7
 .- Las Cámaras tendrán por objeto:
@@ -147,7 +155,8 @@ VI. Promover el sano desarrollo de las actividades que representan, procurando e
 VII. Proponer a la Secretaría la creación de nuevas Cámaras de Comercio, Servicios y Turismo y de Industria, y
 
 VIII. Cumplir con el objeto que esta Ley establece para las Cámaras.
-Capítulo Segundo De la circunscripción, actividades, giros y regiones
+
+## Capítulo Segundo — De la circunscripción, actividades, giros y regiones
 
 ### Artículo 10
 .- Las Cámaras de Comercio, Servicios y Turismo tendrán una circunscripción Regional correspondiente a uno o más municipios aledaños en una entidad federativa y una o más de las delegaciones políticas en el Distrito Federal, y estarán formadas por comerciantes, prestadores de servicios y del sector turismo.
@@ -161,7 +170,8 @@ La Cámara de Industria genérica nacional se integrará con empresas y sus esta
 Las Cámaras de Industria específicas regionales se integrarán con empresas y sus establecimientos en una o varias entidades federativas que realicen actividades en un mismo giro industrial.
 Las Cámaras de Industria genéricas regionales se integrarán con empresas y sus establecimientos en una entidad federativa, que realicen actividades para las cuales no existan Cámaras de Industria específicas.
 Cada Cámara de Industria específica y genérica, nacional y regional, podrá establecer delegaciones para el cumplimiento de su objeto, en los términos establecidos en el capítulo VIII del presente título de esta Ley y de su Reglamento.
-Capítulo Tercero De la Constitución de las Cámaras
+
+## Capítulo Tercero — De la Constitución de las Cámaras
 
 ### Artículo 12
 .- La Secretaría podrá autorizar la creación de nuevas Cámaras de Comercio, Servicios y Turismo, o de Industria específica nacional y genérica regional, debiendo ser escuchada, para tal efecto, la opinión de la Confederación que corresponda, previa consulta de la Confederación de que se trate a las Cámaras interesadas.
@@ -253,8 +263,7 @@ c) La asamblea será presidida por el representante que designe la Confederació
 
 d) La Secretaría registrará la formación de la Cámara y publicará su constitución en el Diario Oficial de la Federación.
 
-## Capítulo Cuarto
-De los Estatutos de Cámaras y Confederaciones
+## Capítulo Cuarto — De los Estatutos de Cámaras y Confederaciones
 
 ### Artículo 16
 .- Los Estatutos de las Cámaras y Confederaciones deberán contener por lo menos lo siguiente:
@@ -390,7 +399,8 @@ XV. Convocar y estimular a las Cámaras a participar en las ferias, exposiciones
 XVI. Prevenir y llevar a cabo las gestiones necesarias, cuando proceda, para evitar la disolución y liquidación de Cámaras, vigilando que la actividad económica o región sean siempre representadas adecuadamente, y
 
 XVII. Los demás que establezca la presente Ley, su Reglamento o los Estatutos de la Confederación respectiva.
-Capítulo Quinto De la Asamblea General
+
+## Capítulo Quinto — De la Asamblea General
 
 ### Artículo 20
 .- La Asamblea General es el órgano supremo de las Cámaras y Confederaciones.
@@ -412,7 +422,8 @@ VII. Las demás funciones que establezcan esta Ley, su Reglamento y los propios 
 
 ### Artículo 21
 .- La Asamblea General deberá celebrar al menos una sesión ordinaria durante los primeros tres meses de cada año. La convocatoria, desarrollo y acuerdos de toda la sesión serán registrados en el acta correspondiente.
-Capítulo Sexto Del Consejo Directivo y de los funcionarios
+
+## Capítulo Sexto — Del Consejo Directivo y de los funcionarios
 
 ### Artículo 22
 .- El Consejo Directivo será el órgano ejecutivo de una Cámara o Confederación y tendrá las siguientes atribuciones:
@@ -475,7 +486,8 @@ VII. El Presidente de una Confederación deberá haber sido Presidente de una de
 VIII. Los cargos de Presidente, Vicepresidentes y Tesorero serán honoríficos, personales y no podrán ejercerse por medio de representantes, y
 
 IX. El cargo de Secretario podrá ser remunerado, es personal y no podrá ejercerse por medio de representantes.
-Capítulo Séptimo Del Patrimonio de las Cámaras y sus Confederaciones
+
+## Capítulo Séptimo — Del Patrimonio de las Cámaras y sus Confederaciones
 
 ### Artículo 25
 .- El patrimonio de las Cámaras y Confederaciones será destinado estrictamente a satisfacer su objeto y comprenderá:
@@ -495,7 +507,8 @@ VI. Los ingresos por prestación de servicios;
 VII. Los ingresos derivados de servicios concesionados o autorizados, y
 
 VIII. Los demás ingresos que obtenga por cualquier otro concepto.
-Capítulo Octavo De las Delegaciones
+
+## Capítulo Octavo — De las Delegaciones
 
 ### Artículo 26
 .- Las Cámaras de Comercio, Servicios y Turismo y las Cámaras de Industria podrán establecer en su circunscripción las delegaciones que consideren necesarias para el cumplimiento de su objeto.
@@ -509,7 +522,8 @@ Las delegaciones no tienen personalidad jurídica ni patrimonio propios.
 ### Artículo 28
 .- Las delegaciones tendrán las funciones señaladas para las Cámaras por esta Ley, exclusivamente dentro de su circunscripción y en cumplimiento a los acuerdos del Consejo Directivo y de los Estatutos de la Cámara. Asimismo, representarán y promoverán a la Cámara a la cual pertenezcan ante los Comerciantes e Industriales según corresponda, así como frente a las instancias de Gobierno y la sociedad.
 Las Cámaras podrán delegar en ellas las funciones, facultades, responsabilidades y obligaciones que determinen sus Estatutos.
-TÍTULO TERCERO DEL SISTEMA DE INFORMACIÓN EMPRESARIAL MEXICANO
+
+## TÍTULO TERCERO — DEL SISTEMA DE INFORMACIÓN EMPRESARIAL MEXICANO
 
 ### Artículo 29
 .- El SIEM es un instrumento del Estado mexicano con el propósito de captar, integrar, procesar y suministrar información oportuna y confiable sobre las características y ubicación de los establecimientos de comercio, servicios, turismo e industria en el país, que permita un mejor desempeño y promoción de las actividades empresariales.
@@ -589,8 +603,7 @@ X. Publicidad y difusión, y
 
 XI. La información pública que habrá de aparecer en la página principal del SIEM.
 
-## TÍTULO CUARTO
-DISOLUCIÓN Y LIQUIDACIÓN DE LAS CÁMARAS
+## TÍTULO CUARTO — DISOLUCIÓN Y LIQUIDACIÓN DE LAS CÁMARAS
 
 ### Artículo 35
 .- Las Cámaras se disolverán:
@@ -603,7 +616,11 @@ III. En caso de que la Secretaría emita resolución que revoque su autorizació
 
 ### Artículo 36
 .- La liquidación estará a cargo de al menos un representante de la Secretaría, uno de la Confederación respectiva y otro de la Cámara de que se trate.
-TÍTULO QUINTO SANCIONES Capítulo Primero Sanciones
+
+## TÍTULO QUINTO — SANCIONES
+
+## Capítulo Primero
+Sanciones
 
 ### Artículo 37
 .- La Secretaría, previo cumplimiento de la garantía de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo, podrá aplicar las sanciones previstas en el presente título.
@@ -655,7 +672,8 @@ En este caso, la Secretaría convocará a una Asamblea Extraordinaria, que reali
 
 ### Artículo 44
 .- La aplicación de las sanciones que se establecen en este título no libera al infractor del cumplimiento de las obligaciones que dispone esta Ley; se impondrán sin perjuicio de la responsabilidad civil o penal que resulte.
-Capítulo Segundo Del Recurso de Revisión
+
+## Capítulo Segundo — Del Recurso de Revisión
 
 ### Artículo 45
 .- Las personas afectadas por las resoluciones dictadas por la Secretaría, con fundamento en esta Ley y demás disposiciones derivadas de ella, podrán interponer recurso de revisión en los términos de la Ley Federal de Procedimiento Administrativo.

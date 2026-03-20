@@ -15,10 +15,12 @@ SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS
 
 ### Artículo Segundo
 Se expide la siguiente:
-Ley Aduanera Título Primero Disposiciones Generales
+Ley Aduanera
 
-## Capítulo I
-Del ámbito de aplicación y principios generales Denominación del Capítulo reformada DOF 09-12-2013 ARTICULO 1o. Esta Ley, la de los Impuestos Generales de Importación y de Exportación y las demás leyes y ordenamientos aplicables, regulan la entrada al territorio nacional y la salida del mismo de mercancías y de los medios en que se transportan o conducen, el despacho aduanero y los hechos o actos que deriven de éste o de dicha entrada o salida de mercancías. El Código Fiscal de la Federación se aplicará supletoriamente a lo dispuesto en esta Ley.
+## Título Primero — Disposiciones Generales
+
+## Capítulo I — Del ámbito de aplicación y principios generales
+Denominación del Capítulo reformada DOF 09-12-2013 ARTICULO 1o. Esta Ley, la de los Impuestos Generales de Importación y de Exportación y las demás leyes y ordenamientos aplicables, regulan la entrada al territorio nacional y la salida del mismo de mercancías y de los medios en que se transportan o conducen, el despacho aduanero y los hechos o actos que deriven de éste o de dicha entrada o salida de mercancías. El Código Fiscal de la Federación se aplicará supletoriamente a lo dispuesto en esta Ley.
 Párrafo reformado DOF 30-12-1996, 19-11-2025 Están obligados al cumplimiento de las citadas disposiciones quienes introducen mercancías al territorio nacional o las extraen del mismo, ya sean sus propietarios, poseedores, tenedores, consignatarios, destinatarios, remitentes, apoderados, agentes aduanales, agencias aduanales o cualesquiera personas que tengan intervención en la introducción, extracción, custodia, almacenaje, manejo y tenencia de las mercancías o en los hechos o actos mencionados en el párrafo anterior.
 Párrafo reformado DOF 25-06-2018 LEY ADUANERA Las disposiciones de las leyes señaladas en el párrafo primero de este artículo se aplicarán sin perjuicio de lo dispuesto por los tratados internacionales de los que el Estado mexicano sea Parte y se encuentren en vigor.
 Párrafo reformado DOF 09-12-2013, 25-06-2018 ARTICULO 2o. Para los efectos de esta Ley se considera:
@@ -131,7 +133,10 @@ Las notificaciones efectuadas a las personas autorizadas para recibir notificaci
 LEY ADUANERA Artículo adicionado DOF 09-12-2013 ARTICULO 9o.-D. Para el cómputo de plazos, se tomará en cuenta la fecha del acuse electrónico de la notificación respectiva, que consiste en el documento electrónico o digital que el sistema electrónico aduanero genere y transmita al abrirse el acto administrativo de que se trate con la firma electrónica avanzada del interesado, o con el sello digital y, en su caso, con los documentos electrónicos o digitales que el citado sistema genere con respecto a la publicación en estrados del acto administrativo de que se trate por el plazo respectivo.
 Artículo adicionado DOF 09-12-2013 ARTICULO 9o.-E. Para los efectos de las notificaciones electrónicas a través del sistema electrónico aduanero, se considerarán hábiles todos los días del año, con excepción de sábados y domingos, así como de aquéllos que se señalen en el Código Fiscal de la Federación, y en los demás ordenamientos aplicables de comercio exterior.
 Los trámites que se realicen en el sistema electrónico aduanero deberán efectuarse entre las siete y las dieciocho horas centro. Los que se lleven a cabo después de las dieciocho horas o en días inhábiles se considerarán realizados al día hábil siguiente.
-Artículo adicionado DOF 09-12-2013 Título Segundo Control de aduana en el despacho
+Artículo adicionado DOF 09-12-2013
+
+## Título Segundo
+Control de aduana en el despacho
 
 ## Capítulo I
 Entrada, salida y control de mercancías ARTICULO 10. La entrada o la salida de mercancías del territorio nacional, las maniobras de carga, descarga, transbordo y almacenamiento de las mismas, el embarque o desembarque de pasajeros y la revisión de sus equipajes, deberá efectuarse por lugar autorizado, en día y hora hábil.
@@ -509,7 +514,10 @@ Los pasajeros están obligados a declarar si traen consigo mercancías distintas
 ### artículo 43
 de la presente Ley.
 El Servicio de Administración Tributaria determinará mediante reglas, los supuestos en que no será necesaria la presentación de la forma oficial de la declaración a que se refiere el párrafo anterior, ni la activación del mecanismo de selección automatizado; sin que lo anterior limite las facultades de inspección, revisión, vigilancia y comprobación de las autoridades aduaneras, así como tampoco la imposición de las sanciones que correspondan por infracciones a las disposiciones que regulan la entrada y la salida de mercancías del territorio nacional.
-Párrafo adicionado DOF 25-06-2018 Artículo reformado DOF 30-12-1996, 31-12-1998, 09-12-2013 Título Tercero Contribuciones, cuotas compensatorias y demás regulaciones y restricciones no arancelarias al comercio exterior
+Párrafo adicionado DOF 25-06-2018 Artículo reformado DOF 30-12-1996, 31-12-1998, 09-12-2013
+
+## Título Tercero
+Contribuciones, cuotas compensatorias y demás regulaciones y restricciones no arancelarias al comercio exterior
 
 ## Capítulo I
 Hechos gravados, contribuyentes y responsables ARTICULO 51. Se causarán los siguientes impuestos al comercio exterior: l. General de importación, conforme a la tarifa de la ley respectiva.
@@ -734,7 +742,10 @@ SECCION TERCERA Restricciones a la devolución o exención del impuesto general 
 Artículo adicionado DOF 31-12-2000
 
 ## Capítulo III
-Base gravable Sección Primera Del impuesto general de importación ARTICULO 64. La base gravable del impuesto general de importación es el valor en aduana de las mercancías, salvo los casos en que la ley de la materia establezca otra base gravable.
+Base gravable
+
+## Sección Primera — Del impuesto general de importación
+ARTICULO 64. La base gravable del impuesto general de importación es el valor en aduana de las mercancías, salvo los casos en que la ley de la materia establezca otra base gravable.
 El valor en aduana de las mercancías será el valor de transacción de las mismas, salvo lo dispuesto en el artículo 71 de esta Ley.
 Se entiende por valor de transacción de las mercancías a importar, el precio pagado por las mismas, siempre que concurran todas las circunstancias a que se refiere el artículo 67 de esta Ley, y que éstas se vendan para ser exportadas a territorio nacional por compra efectuada por el importador, precio que se ajustará, en su caso, en los términos de lo dispuesto en el artículo 65 de esta Ley.
 Se entiende por precio pagado el pago total que por las mercancías importadas haya efectuado o vaya a efectuar el importador de manera directa o indirecta al vendedor o en beneficio de éste.
@@ -909,7 +920,10 @@ No obstante lo dispuesto en el párrafo anterior, el método o los elementos det
 Artículo adicionado DOF 31-12-1998 ARTICULO 78-C. Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación de las autoridades aduaneras, que consten en los expedientes o documentos que lleven o tengan en su poder dichas autoridades, la información disponible en territorio nacional del valor en LEY ADUANERA aduana de mercancías idénticas, similares o de la misma especie o clase, así como aquéllos proporcionados por otras autoridades, por terceros o por autoridades extranjeras, podrán servir para motivar las resoluciones en las que se determine el valor en aduana de las mercancías importadas, así como para proceder al embargo precautorio de las mercancías en los términos del artículo 151 fracción VII de esta Ley.
 La información relativa a la identidad de terceros que importen o hayan importado mercancías idénticas, similares o de la misma especie o clase, cuyo valor en aduana se utilice para determinar el valor de las mercancías objeto de resolución, así como la información confidencial de dichas importaciones que se utilice para motivar la resolución, sólo podrá ser revelada a los tribunales ante los que, en su caso, se impugne el acto de autoridad.
 No obstante lo dispuesto en el párrafo anterior, el interesado podrá designar un máximo de dos representantes, con el fin de tener acceso a la información confidencial proporcionada u obtenida de terceros respecto del valor en aduana en importaciones de mercancías idénticas, similares o de la misma especie o clase, en los términos de lo dispuesto en los artículos 46 y 48 del Código Fiscal de la Federación.
-Artículo adicionado DOF 31-12-1998 Sección Segunda Del impuesto general de exportación ARTICULO 79. La base gravable del impuesto general de exportación es el valor comercial de las mercancías en el lugar de venta, y deberá consignarse en el comprobante fiscal digital por Internet o en el documento equivalente y, en su defecto, en cualquier otro documento comercial, sin inclusión de fletes y seguros.
+Artículo adicionado DOF 31-12-1998
+
+## Sección Segunda — Del impuesto general de exportación
+ARTICULO 79. La base gravable del impuesto general de exportación es el valor comercial de las mercancías en el lugar de venta, y deberá consignarse en el comprobante fiscal digital por Internet o en el documento equivalente y, en su defecto, en cualquier otro documento comercial, sin inclusión de fletes y seguros.
 Cuando las autoridades aduaneras cuenten con elementos para suponer que los valores consignados en el comprobante fiscal digital por Internet o documentos equivalentes, incluidos los electrónicos o digitales a que se refieren los artículos 36-A, fracción II, inciso a) y 59-A de esta Ley, no constituyen los valores comerciales de las mercancías, harán la comprobación conducente para la imposición de las sanciones que procedan.
 Artículo reformado DOF 09-12-2013, 25-06-2018, 19-11-2025
 
@@ -1003,8 +1017,8 @@ Artículo adicionado DOF 19-11-2025
 ## Título Cuarto
 Regímenes aduaneros
 
-## Capítulo I
-Disposiciones comunes ARTICULO 90. Las mercancías que se introduzcan al territorio nacional o se extraigan del mismo, podrán ser destinadas a alguno de los regímenes aduaneros siguientes:
+## Capítulo I — Disposiciones comunes
+ARTICULO 90. Las mercancías que se introduzcan al territorio nacional o se extraigan del mismo, podrán ser destinadas a alguno de los regímenes aduaneros siguientes:
 A. Definitivos.
 
 I. De importación.
@@ -1052,7 +1066,10 @@ Artículo reformado DOF 30-12-1996, 19-11-2025
 
 ## Capítulo II
 Definitivos de importación y de exportación ARTICULO 95. Los regímenes definitivos se sujetarán al pago de los impuestos al comercio exterior y, en su caso, cuotas compensatorias, así como al cumplimiento de las demás obligaciones en materia de regulaciones y restricciones no arancelarias.
-Artículo reformado DOF 09-12-2013 Sección Primera De importación ARTICULO 96. Se entiende por régimen de importación definitiva la entrada de mercancías de procedencia extranjera para permanecer en el territorio nacional por tiempo ilimitado.
+Artículo reformado DOF 09-12-2013
+
+## Sección Primera — De importación
+ARTICULO 96. Se entiende por régimen de importación definitiva la entrada de mercancías de procedencia extranjera para permanecer en el territorio nacional por tiempo ilimitado.
 ARTICULO 97. Realizada la importación definitiva de las mercancías, se podrá retornar al extranjero sin el pago del impuesto general de exportación, dentro del plazo máximo de tres meses contados a partir del día siguiente a aquél en que se hubiera realizado el despacho para su importación definitiva, o de seis meses en el caso de maquinaria y equipo, siempre que se compruebe a las autoridades aduaneras que resultaron defectuosas o de especificaciones distintas a las convenidas.
 Párrafo reformado DOF 30-12-1996, 31-12-1998 El retorno tendrá por objeto la sustitución de las mercancías por otras de la misma clase, que subsanen las situaciones mencionadas.
 Las mercancías sustitutas deberán llegar al país en un plazo de seis meses contados desde el retorno de las sustituidas y sólo pagarán las diferencias cuando causen un impuesto general de importación mayor que el de las retornadas. Si llegan después de los plazos autorizados o se comprueba que no son equivalentes a aquéllas, causarán el impuesto general de importación íntegro y se impondrán las sanciones establecidas por esta Ley.
@@ -1168,7 +1185,10 @@ Párrafo adicionado DOF 19-11-2025 La autorización podrá ser cancelada a petic
 Artículo adicionado DOF 09-12-2013 ARTICULO 101. Las personas que tengan en su poder por cualquier título, mercancías de procedencia extranjera, que se hubieran introducido al país sin haberse sometido a las formalidades del despacho que esta Ley determina para cualquiera de los regímenes aduaneros, o tratándose de aquellas mercancías que hubieran excedido del plazo de retorno en caso de importaciones temporales, podrán regularizarlas importándolas definitivamente previo pago de las contribuciones, cuotas compensatorias que correspondan y previo cumplimiento de las demás obligaciones en materia de regulaciones y restricciones no arancelarias, sin perjuicio de las infracciones y sanciones que procedan cuando las LEY ADUANERA autoridades ya hayan iniciado el ejercicio de facultades de comprobación y sin que aplique la regularización cuando las mercancías hayan pasado a propiedad del Fisco Federal.
 Las empresas a que se refiere el artículo 98 de esta Ley, podrán regularizar sus mercancías de acuerdo con lo previsto en este artículo.
 Artículo reformado DOF 09-12-2013 ARTICULO 101-A. Derogado.
-Artículo adicionado DOF 30-12-2002. Derogado DOF 25-06-2018 Sección Segunda De exportación ARTICULO 102. El régimen de exportación definitiva consiste en la salida de mercancías del territorio nacional para permanecer en el extranjero por tiempo ilimitado.
+Artículo adicionado DOF 30-12-2002. Derogado DOF 25-06-2018
+
+## Sección Segunda — De exportación
+ARTICULO 102. El régimen de exportación definitiva consiste en la salida de mercancías del territorio nacional para permanecer en el extranjero por tiempo ilimitado.
 ARTICULO 103.- Efectuada la exportación definitiva de las mercancías nacionales o nacionalizadas, se podrá retornar al país sin el pago del impuesto general de importación, siempre que no hayan sido objeto de modificaciones en el extranjero ni transcurrido más de un año desde su salida del territorio nacional. Las autoridades aduaneras podrán autorizar la prórroga de dicho plazo cuando existan causas debidamente justificadas y previa solicitud del interesado con anterioridad al vencimiento del mismo.
 Párrafo reformado DOF 30-12-1996 Cuando el retorno se deba a que las mercancías fueron rechazadas por alguna autoridad del país de destino o por el comprador extranjero en consideración a que resultaron defectuosas o de especificaciones distintas a las convenidas, se devolverá al interesado el impuesto general de exportación que hubiera pagado.
 En ambos casos, antes de autorizarse la entrega de las mercancías que retornan se acreditará el reintegro de los beneficios fiscales que se hubieran recibido con motivo de la exportación.
@@ -1177,7 +1197,10 @@ Párrafo adicionado DOF 31-12-1998 Las maquiladoras o empresas con programa de e
 Párrafo adicionado DOF 30-12-2002
 
 ## Capítulo III
-Temporales de importación y de exportación Sección Primera Importaciones temporales LEY ADUANERA I Disposiciones generales ARTICULO 104. Las importaciones temporales de mercancías de procedencia extranjera se sujetarán a lo siguiente:
+Temporales de importación y de exportación
+
+## Sección Primera
+Importaciones temporales LEY ADUANERA I Disposiciones generales ARTICULO 104. Las importaciones temporales de mercancías de procedencia extranjera se sujetarán a lo siguiente:
 
 I. No se pagarán los impuestos al comercio exterior.
 Lo dispuesto en esta fracción no será aplicable en los casos previstos en los artículos 63-A, 105, 108, fracción III, 110 y 112 de esta Ley.
@@ -1295,7 +1318,10 @@ Párrafo reformado DOF 09-04-2012 ARTICULO 112. Las maquiladoras o las empresas 
 Párrafo reformado DOF 31-12-2000, 09-04-2012 Cuando la empresa que recibe las mercancías presente conjuntamente con el pedimento de importación a que se refiere el párrafo anterior, un escrito en el que asuma la responsabilidad solidaria por el pago del impuesto general de importación correspondiente a las mercancías de procedencia extranjera importadas temporalmente por la persona que efectúa la transferencia y sus proveedores, el pago del impuesto general de importación causado por la mercancía transferida se diferirá en los términos del artículo 63-A de esta Ley. Cuando la persona que reciba las mercancías, a su vez las transfiera a otra maquiladora o empresas con programas de exportación autorizados por la Secretaría de Economía, pagará el impuesto respecto del que se haya hecho responsable solidario, salvo que la persona a la que le transfirió las mercancías a su vez asuma la responsabilidad solidaria por el que le transfiera y sus proveedores.
 Párrafo adicionado DOF 31-12-2000. Reformado DOF 09-04-2012 Los procesos de transformación, elaboración o reparación de las mercancías podrán llevarse a cabo por persona distinta de las señaladas en el primer párrafo de este artículo, cuando cumplan con las condiciones de control que establezca el Reglamento.
 Para los efectos del presente artículo, quienes intervengan en la operación deberán solicitar, proporcionar y conservar, la información y documentación establecida en el artículo 59, fracción V de esta LEY ADUANERA Ley, desde que la mercancía se destinó al régimen de importación temporal y hasta su transferencia, incluyendo toda aquella información o documentación con la que se acredite el proceso productivo al que se sometió la mercancía transferida, conforme a lo dispuesto en las reglas.
-Párrafo adicionado DOF 19-11-2025 Sección Segunda Exportaciones temporales I Disposiciones generales ARTICULO 113. La exportación temporal de mercancías nacionales o nacionalizadas se sujetará a lo siguiente: l. No se pagarán los impuestos al comercio exterior.
+Párrafo adicionado DOF 19-11-2025
+
+## Sección Segunda
+Exportaciones temporales I Disposiciones generales ARTICULO 113. La exportación temporal de mercancías nacionales o nacionalizadas se sujetará a lo siguiente: l. No se pagarán los impuestos al comercio exterior.
 
 II. Se cumplirán las obligaciones en materia de regulaciones y restricciones no arancelarias y formalidades para el despacho de las mercancías destinadas a este régimen.
 ARTICULO 114.- Los contribuyentes podrán cambiar el régimen de exportación temporal a definitiva cumpliendo con los requisitos que establezcan esta Ley y la Secretaría mediante reglas.
@@ -1419,7 +1445,9 @@ ARTICULO 123. La Secretaría señalará mediante reglas, las mercancías que no 
 
 ## Capítulo V
 Tránsito de mercancías ARTICULO 124. El régimen de tránsito consiste en el traslado de mercancías, bajo control fiscal, de una aduana nacional a otra.
-Sección Primera LEY ADUANERA Tránsito interno de mercancías ARTICULO 125. Se considerará que el tránsito de mercancías es interno cuando se realice conforme a alguno de los siguientes supuestos:
+
+## Sección Primera — LEY ADUANERA
+Tránsito interno de mercancías ARTICULO 125. Se considerará que el tránsito de mercancías es interno cuando se realice conforme a alguno de los siguientes supuestos:
 
 I. La aduana de entrada envíe las mercancías de procedencia extranjera a la aduana que se encargará del despacho para su importación.
 
@@ -1470,7 +1498,10 @@ e) Cuando no declare la fracción arancelaria o número de identificación comer
 Inciso adicionado DOF 19-11-2025 La empresa transportista inscrita en el registro que establezca el Reglamento que realice el traslado de las mercancías, será responsable solidaria ante el Fisco Federal del pago de las contribuciones y cuotas compensatorias omitidas, de sus accesorios y de las infracciones que se cometan durante el traslado de las mercancías. El registro de la empresa será cancelado por el Servicio de Administración Tributaria, procediendo a la suspensión provisional del registro hasta en tanto no exista una resolución firme que determine dicha cancelación, cuando con motivo del ejercicio de las facultades de comprobación, las autoridades aduaneras detecten cualquier maniobra tendiente a eludir el cumplimiento de las obligaciones fiscales, de conformidad con lo señalado en el artículo 144-A de la presente Ley.
 Las empresas transportistas deberán mantener los medios de control y seguridad que señale el Servicio de Administración Tributaria mediante reglas y deberán proporcionar la información y documentación que les sea requerida por las autoridades aduaneras.
 Independientemente de lo dispuesto en este artículo, el agente aduanal o la agencia aduanal que promueva el despacho tendrá la responsabilidad prevista en esta Ley por las irregularidades que se deriven de la formulación del pedimento y que se detecten con motivo del ejercicio de las facultades de comprobación de la autoridad aduanera.
-Párrafo reformado DOF 25-06-2018 Artículo reformado DOF 01-01-2002, 09-12-2013 Sección Segunda Tránsito internacional de mercancías ARTICULO 130. Se considerará que el tránsito de mercancías es internacional cuando se realice conforme a alguno de los siguientes supuestos:
+Párrafo reformado DOF 25-06-2018 Artículo reformado DOF 01-01-2002, 09-12-2013
+
+## Sección Segunda
+Tránsito internacional de mercancías ARTICULO 130. Se considerará que el tránsito de mercancías es internacional cuando se realice conforme a alguno de los siguientes supuestos:
 
 I. La aduana de entrada envíe a la aduana de salida las mercancías de procedencia extranjera que lleguen al territorio nacional con destino al extranjero.
 
@@ -1567,7 +1598,10 @@ Las mercancías sujetas a este régimen se podrán transferir de un inmueble ubi
 Los productos resultantes de los procesos de elaboración, transformación o reparación que retornen al extranjero darán lugar al pago del impuesto general de exportación.
 Las personas que hayan obtenido la autorización a que se refiere el artículo 135-A de esta Ley, responderán directamente ante el Fisco Federal por el importe de los créditos fiscales que corresponda pagar por las mercancías que sean retiradas del recinto fiscalizado sin cumplir con las obligaciones y formalidades que para tales se requieran o cuando incurran en infracciones o delitos relacionados con la introducción, extracción, manejo, almacenaje o custodia de las mercancías. Dicha responsabilidad comprenderá el pago de los impuestos al comercio exterior y de las demás contribuciones, así como de las cuotas compensatorias que en su caso se causen, y sus accesorios, así como las multas aplicables.
 Las personas que hayan obtenido la autorización a que se refiere el artículo 14-D de esta Ley, serán responsables solidarios en los mismos términos y condiciones.
-Artículo adicionado DOF 30-12-2002 LEY ADUANERA Título Quinto Franja y región fronteriza Capítulo Unico ARTICULO 136. Para los efectos de esta Ley, se considera como franja fronteriza al territorio comprendido entre la línea divisoria internacional y la línea paralela ubicada a una distancia de veinte kilómetros hacia el interior del país.
+Artículo adicionado DOF 30-12-2002 LEY ADUANERA
+
+## Título Quinto
+Franja y región fronteriza Capítulo Unico ARTICULO 136. Para los efectos de esta Ley, se considera como franja fronteriza al territorio comprendido entre la línea divisoria internacional y la línea paralela ubicada a una distancia de veinte kilómetros hacia el interior del país.
 Por región fronteriza se entenderá al territorio que determine el Ejecutivo Federal.
 ARTICULO 137. Con independencia de lo dispuesto en los artículos siguientes, la Secretaría de Economía, previa opinión de la Secretaría determinará, por medio de disposiciones de carácter general, las mercancías que estarán total o parcialmente desgravadas de los impuestos al comercio exterior en la franja o región fronteriza. La propia Secretaría de Economía con base en la Ley de Comercio Exterior, determinará las mercancías cuya importación o exportación a dicha franja o región quedarán sujetas a regulaciones y restricciones no arancelarias.
 Párrafo reformado DOF 25-06-2002, 09-04-2012 Las bebidas alcohólicas, la cerveza, el tabaco labrado en cigarrillos o puros y los caballos de carrera que se importen a la franja o región fronteriza, causarán el impuesto general de importación sin reducción alguna.
@@ -1615,7 +1649,9 @@ Las mercancías destinadas al interior del país y cuya importación se efectúe
 Párrafo reformado DOF 30-12-1996 ARTICULO 141. El aprovisionamiento de las embarcaciones con mercancías de procedencia extranjera legalizadas en la región fronteriza, se permitirá sin el pago de los impuestos al comercio exterior en los términos del artículo 61, fracción IV de esta Ley, pero si se dirigen a otros puertos nacionales fuera de la región fronteriza serán inspeccionadas por las autoridades aduaneras, con el objeto de que el citado aprovisionamiento sólo incluya los elementos necesarios para llegar al próximo puerto de escala.
 ARTICULO 142. Las mercancías a que se refiere el artículo 61, fracción VIII de esta Ley, podrán ser consumidas por los habitantes de las poblaciones ubicadas en la franja fronteriza.
 Las autoridades aduaneras podrán autorizar a residentes en la franja o región fronteriza que cambien su casa habitación a poblaciones del resto del país, la internación de su menaje de casa usado sin el pago del impuesto general de importación, siempre y cuando comprueben haber residido en dicha franja o región fronteriza por más de un año y que los bienes hayan sido adquiridos cuando menos seis meses antes de que pretendan internarlos.
-Título Sexto Atribuciones del Poder Ejecutivo Federal y de las autoridades fiscales Capítulo Unico ARTICULO 143. Además de las que le confieren otras leyes, son atribuciones del Poder Ejecutivo Federal en materia aduanera: l. Establecer o suprimir aduanas fronterizas, interiores y de tráfico aéreo y marítimo, así como designar su ubicación y funciones.
+
+## Título Sexto
+Atribuciones del Poder Ejecutivo Federal y de las autoridades fiscales Capítulo Unico ARTICULO 143. Además de las que le confieren otras leyes, son atribuciones del Poder Ejecutivo Federal en materia aduanera: l. Establecer o suprimir aduanas fronterizas, interiores y de tráfico aéreo y marítimo, así como designar su ubicación y funciones.
 
 II. Suspender los servicios de las oficinas aduaneras por el tiempo que juzgue conveniente, cuando así lo exija el interés de la nación.
 
@@ -1938,7 +1974,13 @@ Fracción reformada DOF 09-12-2013
 II. (Derogada).
 Fracción reformada DOF 09-12-2013. Derogada DOF 19-11-2025 Asimismo, procederá la retención de los medios de transporte de las mercancías que hubieran ocasionado daños en los recintos fiscales, en este supuesto las mercancías no serán objeto de retención.
 Las autoridades aduaneras en el acta de retención que para tal efecto se levante, harán constar la fundamentación y motivación que dan lugar a la retención de la mercancía o de los medios de transporte, debiendo señalarse al interesado que tiene un plazo de quince días, para que presente la garantía a que se refiere el artículo 36-A, fracción I, inciso e) de esta Ley, o se garanticen o paguen los daños causados al recinto fiscal por el medio de transporte, apercibiéndolo que de no hacerlo, la mercancía o el medio de transporte, según corresponda, pasarán a propiedad del Fisco Federal, sin que para ello se requiera notificación de resolución alguna. Los plazos señalados en este párrafo se computarán a partir del día siguiente a aquél en que surta efectos la notificación del acta de retención.
-Párrafo reformado DOF 09-12-2013, 19-11-2025 Artículo reformado DOF 31-12-1998, 01-01-2002, 30-12-2002 Título Séptimo Agentes aduanales, agencias aduanales y dictaminadores aduaneros Denominación del Título reformada DOF 25-06-2018 LEY ADUANERA Capítulo Unico Sección Primera Agentes aduanales y agencias aduanales Denominación de la Sección reformada DOF 25-06-2018 ARTICULO 159. Agente aduanal es la persona física autorizada por la Secretaría, mediante una patente, para promover por cuenta ajena el despacho de las mercancías, en los diferentes regímenes aduaneros previstos en esta Ley.
+Párrafo reformado DOF 09-12-2013, 19-11-2025 Artículo reformado DOF 31-12-1998, 01-01-2002, 30-12-2002
+
+## Título Séptimo
+Agentes aduanales, agencias aduanales y dictaminadores aduaneros Denominación del Título reformada DOF 25-06-2018 LEY ADUANERA Capítulo Unico
+
+## Sección Primera
+Agentes aduanales y agencias aduanales Denominación de la Sección reformada DOF 25-06-2018 ARTICULO 159. Agente aduanal es la persona física autorizada por la Secretaría, mediante una patente, para promover por cuenta ajena el despacho de las mercancías, en los diferentes regímenes aduaneros previstos en esta Ley.
 Párrafo reformado DOF 09-12-2013, 19-11-2025 Para obtener la patente de agente aduanal los interesados deberán cumplir con los lineamientos indicados en la Convocatoria que al efecto se publique en el Diario Oficial de la Federación, así como con los siguientes requisitos:
 Párrafo reformado DOF 09-12-2013 l. Ser mexicano por nacimiento en pleno ejercicio de sus derechos.
 Fracción reformada DOF 30-12-1996
@@ -2431,13 +2473,19 @@ En caso de incumplimiento a lo dispuesto en este artículo, la autorización de 
 Artículo adicionado DOF 25-06-2018 ARTICULO 167-M. En caso de cancelación o extinción de la patente de algún agente aduanal que integra la agencia aduanal, se entenderá desincorporado de la misma, con independencia de que la agencia aduanal efectúe el trámite que corresponda y proporcione los antecedentes respectivos a la autoridad aduanera.
 Artículo adicionado DOF 25-06-2018 ARTICULO 167-N. Los agentes aduanales que integran la agencia aduanal que se encuentre en algún supuesto de cancelación de la autorización prevista en los artículos 167-J, fracciones I, II, III, IV, VI y VII y 167-L, se entenderán desincorporados de la misma, pudiendo solicitar la reactivación de su patente aduanal.
 En los casos de inhabilitación o suspensión de la patente del agente aduanal, incorporado a una agencia aduanal, cuando por hechos o actos anteriores a su incorporación, se actualicen los supuestos establecidos en los artículos 160 y 164 de esta Ley y demás disposiciones jurídicas aplicables, la agencia aduanal no podrá iniciar nuevas operaciones por conducto del agente aduanal sancionado sino solamente concluir las que tenga iniciadas a la fecha de notificación del acuerdo de la resolución respectiva, sin perjuicio de llevar a cabo otras operaciones por conducto de los demás agentes aduanales que integran la agencia aduanal.
-Artículo adicionado DOF 25-06-2018 Sección Segunda LEY ADUANERA Apoderados aduanales (Se deroga) Sección derogada DOF 09-12-2013 ARTICULO 168. (Se deroga).
+Artículo adicionado DOF 25-06-2018
+
+## Sección Segunda — LEY ADUANERA
+Apoderados aduanales (Se deroga) Sección derogada DOF 09-12-2013 ARTICULO 168. (Se deroga).
 Artículo reformado DOF 30-12-1996, 31-12-1998. Derogado DOF 09-12-2013 ARTICULO 169. (Se deroga).
 Artículo reformado DOF 31-12-1998. Derogado DOF 09-12-2013 ARTICULO 170. (Se deroga).
 Artículo derogado DOF 09-12-2013 ARTICULO 171. (Se deroga).
 Artículo reformado DOF 31-12-1998, 09-04-2012. Derogado DOF 09-12-2013 ARTICULO 172. (Se deroga).
 Artículo reformado DOF 31-12-1998. Derogado DOF 09-12-2013 ARTICULO 173. (Se deroga).
-Artículo reformado DOF 31-12-1998. Cantidades actualizadas DOF 01-03-2002, 28-04-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011. Artículo derogado DOF 09-12-2013 Sección Tercera Dictaminadores Aduaneros ARTICULO 174. El Servicio de Administración Tributaria otorgará autorización de dictaminador aduanero a las personas que cumplan los siguientes requisitos:
+Artículo reformado DOF 31-12-1998. Cantidades actualizadas DOF 01-03-2002, 28-04-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011. Artículo derogado DOF 09-12-2013
+
+## Sección Tercera
+Dictaminadores Aduaneros ARTICULO 174. El Servicio de Administración Tributaria otorgará autorización de dictaminador aduanero a las personas que cumplan los siguientes requisitos:
 Párrafo reformado DOF 25-06-2018 l. Ser ciudadano mexicano. ll. No haber sido condenado por sentencia ejecutoriada por delito intencional que merezca pena corporal. lll. Gozar de buena reputación personal y ser de reconocida probidad y honradez. lV. No ser servidor público ni militar en servicio activo, ni haber prestado sus servicios en la Administración General de Aduanas.
 
 V. Derogada.
@@ -2472,7 +2520,10 @@ II. Cuando se omita realizar el mantenimiento preventivo y correctivo de la infr
 LEY ADUANERA
 
 III. Las demás que establezca esta Ley y las que se señalen en la autorización.
-Artículo adicionado DOF 09-12-2013 Título Octavo Infracciones y sanciones Capítulo Unico ARTICULO 176. Comete las infracciones relacionadas con la importación o exportación, quien introduzca al país o extraiga de él mercancías, en cualquiera de los siguientes casos:
+Artículo adicionado DOF 09-12-2013
+
+## Título Octavo
+Infracciones y sanciones Capítulo Unico ARTICULO 176. Comete las infracciones relacionadas con la importación o exportación, quien introduzca al país o extraiga de él mercancías, en cualquiera de los siguientes casos:
 
 I. Omitiendo el pago total o parcial de los impuestos al comercio exterior y, en su caso, de las cuotas compensatorias, que deban cubrirse.
 
@@ -2961,7 +3012,10 @@ La disminución de las sanciones establecidas en este artículo no será acumula
 Párrafo adicionado DOF 25-06-2018 ARTICULO 200. Cuando el monto de las multas que establece esta Ley esté relacionado con el de los impuestos al comercio exterior omitidos, con el valor en aduana de las mercancías y éstos no pueden determinarse, se aplicará a los infractores una multa de $90,820.00 a $121,100.00.
 Multa del artículo actualizada DOF 01-03-2002, 28-04-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 27-12-2025 ARTICULO 201. (Se deroga).
 Artículo derogado DOF 15-12-1995 ARTICULO 202. Los agentes aduanales, las agencias aduanales, los transportistas y demás personas relacionadas con el comercio exterior, podrán constituir fondos en cada aduana, cuyo fin sea el mantenimiento, reparación o ampliación de las instalaciones de las propias aduanas, en los términos que LEY ADUANERA establezca el Servicio de Administración Tributaria mediante reglas. El patrimonio de dichos fondos se integrará con las aportaciones que efectúen las personas antes mencionadas, así como por las cantidades que aporten las personas que hubieran cometido daños en las instalaciones o equipos que se utilicen en la operación aduanera o con las cantidades que aporten las personas a las que se les impongan multas y que opten por aportar cantidades equivalentes a las multas impuestas en los términos de los artículos 181, 191 y 193 de esta Ley.
-Artículo reformado DOF 09-12-2013, 25-06-2018 Título Noveno Recursos administrativos Capítulo Unico ARTICULO 203.- En contra de todas las resoluciones definitivas que dicten las autoridades aduaneras procederá el recurso de revocación establecido en el Código Fiscal de la Federación.
+Artículo reformado DOF 09-12-2013, 25-06-2018
+
+## Título Noveno
+Recursos administrativos Capítulo Unico ARTICULO 203.- En contra de todas las resoluciones definitivas que dicten las autoridades aduaneras procederá el recurso de revocación establecido en el Código Fiscal de la Federación.
 Párrafo reformado DOF 30-12-1996 La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Federal de Justicia Fiscal y Administrativa.
 Párrafo reformado DOF 31-12-2000 Reforma DOF 30-12-1996: Derogó del artículo el entonces último párrafo T r a n s i t o r i o s Primero. La presente Ley entrará en vigor el 1o. de abril de 1996, con excepción de los artículos 21, fracciones l y ll; y 82, párrafos primero y segundo, los que entrarán en vigor a partir del 1o. de julio de 1996.
 Segundo. A partir de la fecha en que entre en vigor esta Ley, quedará abrogada la Ley Aduanera, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1981.
@@ -3089,10 +3143,7 @@ LEY ADUANERA
 **SÉPTIMO.-** Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 México, D.F., a 13 de diciembre de 1998.- Sen. José Ramírez Gamero, Presidente.- Dip. Luis Patiño Pozas, Presidente.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Dip. Martín Contreras Rivera, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 LEY ADUANERA DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera.
-Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000 Artículo Unico. Se REFORMAN los artículos 9o.; 52, primer párrafo; 56, fracción I; 59, fracción I; el
-
-## Capítulo II del Título Tercero, para quedar integrado con las Secciones PRIMERA denominada
-"Afectación de Mercancías" comprendiendo el artículo 60, SEGUNDA denominada "Exenciones" integrada por los artículos 61 a 63 y TERCERA denominada "Restricciones a la devolución o exención del impuesto general de importación, conforme a lo previsto en los Tratados de Libre Comercio" que comprende el artículo 63-A; los artículos 86, primero y último párrafos; 110; 112, primer párrafo; 135, último párrafo; 150, último párrafo; 153, primer párrafo; 160, fracción VI, segundo párrafo; 184, fracción VIII; y 185 fracción III; se ADICIONAN los artículos 2o., con las fracciones IX y X; 59, fracción III, con un
+Publicado en el Diario Oficial de la Federación el 31 de diciembre de 2000 Artículo Unico. Se REFORMAN los artículos 9o.; 52, primer párrafo; 56, fracción I; 59, fracción I; el Capítulo II del Título Tercero, para quedar integrado con las Secciones PRIMERA denominada "Afectación de Mercancías" comprendiendo el artículo 60, SEGUNDA denominada "Exenciones" integrada por los artículos 61 a 63 y TERCERA denominada "Restricciones a la devolución o exención del impuesto general de importación, conforme a lo previsto en los Tratados de Libre Comercio" que comprende el artículo 63-A; los artículos 86, primero y último párrafos; 110; 112, primer párrafo; 135, último párrafo; 150, último párrafo; 153, primer párrafo; 160, fracción VI, segundo párrafo; 184, fracción VIII; y 185 fracción III; se ADICIONAN los artículos 2o., con las fracciones IX y X; 59, fracción III, con un
 **segundo.** y tercer párrafos; 104, fracción I, con un segundo párrafo; 108, con un segundo párrafo, pasando los actuales segundo, tercero y cuarto párrafos a ser tercero, cuarto y quinto párrafos del artículo, respectivamente; 112, con un segundo párrafo, pasando el actual segundo párrafo a ser tercer párrafo del artículo; 121, fracciones I y IV, con un último párrafo; 135, con un segundo y un antepenúltimo párrafos, pasando los actuales segundo, tercero, cuarto y quinto párrafos a ser tercero, cuarto, quinto y
 **sexto.** párrafos del artículo, respectivamente; 185-A y 185-B; y se DEROGAN los artículos 52, último párrafo y 85, de la Ley Aduanera, para quedar como sigue: .........
 
@@ -3397,7 +3448,12 @@ Se reforman los artículos 1o., párrafos segundo y tercero; 2o., fracciones IV,
 **primero.** y su fracción III; 61, fracciones VIII, IX, inciso c), XIII, XIV, XVI, XVII, y párrafo segundo del artículo; 66, párrafo segundo; 78-A, párrafo primero; 79; 81, párrafo primero; 82, párrafo segundo; 83, párrafo tercero; 86-A, párrafo primero; 89, párrafo cuarto; 93, párrafo tercero; 100-A, párrafo primero y sus fracciones VI y VII, y actual párrafo segundo del mismo artículo; 100-B, fracciones VI y VII; 104; 106, fracción II, incisos c) y d); 107; 117, párrafo primero; 119; 120, párrafos tercero y cuarto; 121, párrafo
 **primero.** , y sus fracciones I, párrafos primero y segundo, y IV, párrafos primero y segundo; 127, párrafo
 **primero.** , y su fracción II, inciso e); 128, párrafo tercero; 129, fracción II, y párrafo cuarto del artículo; 131, párrafos primero, y su fracción III, y segundo; 132, párrafos primero y tercero; 133, párrafo segundo, en sus fracciones I y II, y párrafo tercero del mismo artículo; 135-B, fracciones I, II y III, y párrafo segundo del mismo artículo; 144, fracciones V, IX, XI, XIV, párrafo segundo, XXI, XXII, XXIX y XXXIII; 144-A, fracción I; 145, párrafos cuarto y actual quinto; 146, fracción III y párrafo segundo del mismo artículo; 147, fracciones I y II; 150, párrafo cuarto; 151, fracciones II, VI y VII; 152, párrafo décimo; 157, párrafos
-**primero.** , tercero, cuarto y séptimo; el Título Séptimo Agentes Aduanales, apoderados aduanales y dictaminadores aduaneros, Capítulo Único, Sección Primera, Agentes Aduanales, para quedar como Título Séptimo Agentes aduanales, agencias aduanales y dictaminadores aduaneros, Capítulo Único, Sección Primera Agentes aduanales y agencias aduanales; 160, fracciones III, IV, VI, párrafo segundo, VIII y IX, párrafos primero, tercero y cuarto, y párrafos segundo, tercero y cuarto del mismo artículo; 162, fracción VII; 164, fracciones VI y VII; 165, fracciones II, en su párrafo primero y su inciso a), y párrafo
+**primero.** , tercero, cuarto y séptimo; el Título Séptimo Agentes Aduanales, apoderados aduanales y dictaminadores aduaneros, Capítulo Único, Sección Primera, Agentes Aduanales, para quedar como
+
+## Título Séptimo — Agentes aduanales, agencias aduanales y dictaminadores aduaneros, Capítulo Único,
+
+## Sección Primera — Agentes aduanales y agencias aduanales; 160, fracciones III, IV, VI, párrafo segundo,
+VIII y IX, párrafos primero, tercero y cuarto, y párrafos segundo, tercero y cuarto del mismo artículo; 162, fracción VII; 164, fracciones VI y VII; 165, fracciones II, en su párrafo primero y su inciso a), y párrafo
 **segundo.** del inciso, III, VI, VII, en su párrafo primero y su inciso a), VIII y IX; 167, párrafo segundo; 174, párrafo primero, y su fracción VI; 176, fracciones II y XI; 178, fracciones II y IV; 182, fracciones VI y VII; 183-A, fracciones II, IV y V; 184, fracciones I y XI; 185, fracciones VI y VIII; 186, fracciones XI, XIII y XVII; 195; 199, fracciones II, III y V, y 202; se adicionan los artículos 2o., con las fracciones XVIII, XIX, XX y XXI; 15, fracciones IV, con un párrafo tercero, cuarto, quinto y sexto, y VII, con un párrafo tercero; 16-C; 16-D; 17, con un párrafo tercero; 36-A, fracción I, con un inciso f); 50, con un párrafo tercero; 53, con las fracciones IX y X; 59, con la fracción V; 78-A, con una fracción IV, y con un párrafo segundo; 86-A, con un párrafo segundo; 100-A, con un párrafo segundo, pasando el actual párrafo segundo, a ser párrafo
 **tercero.** ; 106, fracción III, con un inciso f); 119-A; 144, fracciones XXXV, XXXVI, XXXVII y XXXVIII pasando la actual fracción XXXV a ser fracción XXXIX; 144-A, con una fracción V, pasando la actual fracción V a ser fracción VI; 145, con un párrafo quinto, pasando el actual párrafo quinto a ser párrafo
 **sexto.** ; 152, con un párrafo decimoprimero; 153, con un párrafo cuarto; 153-A; 165, con una fracción XII; 166, con un párrafo cuarto; 167-D; 167-E; 167-F; 167-G; 167-H; 167-I; 167-J; 167-K; 167-L; 167-M; 167-N; 174, con un párrafo tercero, pasando los actuales párrafos tercero, cuarto y quinto a ser párrafos cuarto,

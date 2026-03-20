@@ -934,12 +934,18 @@ Artículo reformado DOF 08-05-2023
 
 ### Artículo 59
 . Las resoluciones que dicte la Secretaría con motivo de la aplicación de la presente Ley y Administrativo.
-Artículo reformado DOF 28-04-2005 CAPÍTULO OCTAVO De las Notificaciones Capítulo adicionado DOF 08-05-2023
+Artículo reformado DOF 28-04-2005
+
+## CAPÍTULO OCTAVO — De las Notificaciones
+Capítulo adicionado DOF 08-05-2023
 
 ### Artículo 60
 .- Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y las resoluciones administrativas definitivas pueden realizarse a las personas interesadas o concesionarias, conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo, de aplicación supletoria a esta Ley.
 Las notificaciones por medios de comunicación electrónica deben autorizarse por escrito por las personas interesadas o concesionarias o sus representantes legales. Para tales efectos, se deben utilizar, en sustitución de la firma autógrafa, medios de identificación electrónica.
-Artículo adicionado DOF 08-05-2023 CAPÍTULO NOVENO Del Cierre de Minas Capítulo adicionado DOF 08-05-2023
+Artículo adicionado DOF 08-05-2023
+
+## CAPÍTULO NOVENO — Del Cierre de Minas
+Capítulo adicionado DOF 08-05-2023
 
 ### Artículo 61
 .- Corresponde a las personas titulares de las concesiones mineras realizar el cierre de su operación minera en las áreas, labores e instalaciones en que operen, aun cuando éstas se encuentren en posesión de terceros, a través del Plan de Cierre de Mina.
@@ -955,8 +961,8 @@ Artículo adicionado DOF 08-05-2023
 .- Concluida la vigencia del título de concesión otorgado, o bien, en los supuestos de cancelación de la concesión conforme a las causales establecidas en el artículo 42 de esta Ley, la persona titular de la concesión debe informar semestralmente a la Secretaría el avance del Plan de Cierre de Minas autorizado hasta su legal conclusión.
 Artículo adicionado DOF 08-05-2023
 
-## CAPÍTULO DÉCIMO
-De los Delitos Capítulo adicionado DOF 08-05-2023
+## CAPÍTULO DÉCIMO — De los Delitos
+Capítulo adicionado DOF 08-05-2023
 
 ### Artículo 64
 .- Se sancionará con pena de cinco a diez años de prisión y multa del cinco por ciento del total de sus ingresos anuales más diez mil veces el valor diario de la Unidad de Medida y Actualización, con independencia de las sanciones administrativas que procedan, a quien:
@@ -1140,10 +1146,7 @@ Bis; las fracciones I, II y III al párrafo primero del artículo 18; la fracci�
 ; el artículo 53 Bis; las fracciones XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI al artículo 55; la fracción XIII del párrafo primero y los párrafos segundo, tercero, quinto y séptimo del artículo 57; 57 Ter; un párrafo segundo al artículo 58; el CAPÍTULO OCTAVO, denominado De las notificaciones, con su
 
 ### artículo 60
-; el CAPÍTULO NOVENO, denominado Del cierre de minas, con sus artículos 61, 62 y 63 y el
-
-## CAPÍTULO DÉCIMO, denominado De los delitos, con sus artículos 64 y 65, y se derogan el párrafo
-segundo del artículo 6; el párrafo cuarto del artículo 12, el artículo 12 Bis; el párrafo segundo del artículo 13, las fracciones IV, V y VII del párrafo primero, y los párrafos segundo, tercero, cuarto y quinto del
+; el CAPÍTULO NOVENO, denominado Del cierre de minas, con sus artículos 61, 62 y 63 y el CAPÍTULO DÉCIMO, denominado De los delitos, con sus artículos 64 y 65, y se derogan el párrafo segundo del artículo 6; el párrafo cuarto del artículo 12, el artículo 12 Bis; el párrafo segundo del artículo 13, las fracciones IV, V y VII del párrafo primero, y los párrafos segundo, tercero, cuarto y quinto del
 
 ### artículo 14
 ; el actual párrafo tercero del artículo 15; el párrafo primero y las fracciones I, II y III del párrafo LEY DE MINERÍA segundo y el párrafo tercero del artículo 16; las fracciones I y II del párrafo primero y el párrafo segundo del artículo 17; las fracciones III, V, VI y XII del artículo 19; los párrafos segundo y tercero del artículo 21; la fracción IV y el párrafo segundo del artículo 26; la fracción VI del párrafo primero y el párrafo tercero del artículo 27; el párrafo segundo del artículo 28; el artículo 32; el artículo 33; la fracción III del párrafo primero y el párrafo segundo del artículo 40; el párrafo segundo del artículo 41; la fracción II del artículo 42; el párrafo segundo del artículo 44; el párrafo segundo del artículo 45; el artículo 50; los párrafos segundo y tercero del artículo 55; la fracción IV del artículo 56; las fracciones II y X del párrafo primero y párrafo tercero del artículo 57, de la Ley Minera, para quedar como sigue: ……..

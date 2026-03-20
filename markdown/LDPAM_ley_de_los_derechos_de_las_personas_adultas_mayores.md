@@ -8,7 +8,11 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 25 de junio de 2002 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
-SE CREA LA TÍTULO PRIMERO CAPÍTULO ÚNICO DISPOSICIONES GENERALES
+SE CREA LA
+
+## TÍTULO PRIMERO
+
+## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
 
 ### Artículo 1o
 . La presente Ley es de orden público, de interés social y de observancia general en los Estados Unidos Mexicanos. Tiene por objeto garantizar el ejercicio de los derechos de las personas adultas mayores, así como establecer las bases y disposiciones para su cumplimiento, mediante la regulación de:
@@ -74,10 +78,11 @@ IV. La violencia económica. Es toda acción u omisión del agresor que afecta l
 V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, y
 
 VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
-Artículo adicionado DOF 12-07-2018 TÍTULO SEGUNDO DE LOS PRINCIPIOS Y LOS DERECHOS
+Artículo adicionado DOF 12-07-2018
 
-## CAPÍTULO I
-DE LOS PRINCIPIOS
+## TÍTULO SEGUNDO — DE LOS PRINCIPIOS Y LOS DERECHOS
+
+## CAPÍTULO I — DE LOS PRINCIPIOS
 
 ### Artículo 4o
 . Son principios rectores en la observación y aplicación de esta Ley:
@@ -97,8 +102,7 @@ V. Atención preferente. Es aquella que obliga a las instituciones federales, es
 VI. Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 Fracción adicionada DOF 30-03-2022
 
-## CAPÍTULO II
-DE LOS DERECHOS
+## CAPÍTULO II — DE LOS DERECHOS
 
 ### Artículo 5o
 . De manera enunciativa y no limitativa, esta Ley tiene por objeto garantizar a las personas adultas mayores los siguientes derechos:
@@ -130,7 +134,11 @@ IX. Del acceso a los Servicios: a. A tener una atención preferente en los estab
 Fracción adicionada DOF 26-01-2006
 
 X. De la información, plural, oportuna y accesible, la cual será garantizada por el Estado.
-Fracción adicionada DOF 10-05-2022 TÍTULO TERCERO DE LOS DEBERES DEL ESTADO, LA SOCIEDAD Y LA FAMILIA CAPÍTULO ÚNICO
+Fracción adicionada DOF 10-05-2022
+
+## TÍTULO TERCERO — DE LOS DEBERES DEL ESTADO, LA SOCIEDAD Y LA FAMILIA
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 6o
 . El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social a las personas adultas mayores con el fin de lograr plena calidad de vida para su vejez. Asimismo, deberá establecer programas para asegurar a todos los trabajadores una preparación adecuada para su retiro. Igualmente proporcionará:
@@ -165,11 +173,9 @@ III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminaci�
 IV. Atender sus necesidades psicoemocionales cuando el adulto mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención a las personas adultas mayores a efecto de mantener los lazos familiares.
 Fracción adicionada DOF 24-01-2020
 
-## TÍTULO CUARTO
-DE LA POLÍTICA PÚBLICA NACIONAL DE LAS PERSONAS ADULTAS MAYORES
+## TÍTULO CUARTO — DE LA POLÍTICA PÚBLICA NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
-## CAPÍTULO I
-DE LOS OBJETIVOS
+## CAPÍTULO I — DE LOS OBJETIVOS
 
 ### Artículo 10
 . Son objetivos de la Política Nacional sobre personas adultas mayores los siguientes:
@@ -223,8 +229,8 @@ XXI. Fomentar e impulsar la creación de centros de atención geriátrica y gero
 XXII. Promover programas especiales para ampliar la cobertura de espacios de asistencia integral para las personas adultas mayores.
 Fracción adicionada DOF 24-01-2020
 
-## CAPÍTULO II
-DE LA CONCURRENCIA ENTRE LA FEDERACIÓN, LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
+## CAPÍTULO II — DE LA CONCURRENCIA ENTRE LA FEDERACIÓN, LAS ENTIDADES FEDERATIVAS Y LOS
+MUNICIPIOS
 
 ### Artículo 11
 . La Federación, las entidades federativas y los municipios ejercerán sus atribuciones en la formulación y ejecución de las políticas públicas para las personas adultas mayores, de conformidad con la concurrencia prevista en esta Ley y en otros ordenamientos legales.
@@ -245,8 +251,7 @@ II. Desarrollar los lineamientos, mecanismos e instrumentos para la organizació
 III. Promover la creación de centros de atención geriátrica y gerontológica.
 Artículo reformado DOF 14-11-2016
 
-## CAPÍTULO III
-DE LOS PROGRAMAS Y LAS OBLIGACIONES DE LAS INSTITUCIONES PÚBLICAS
+## CAPÍTULO III — DE LOS PROGRAMAS Y LAS OBLIGACIONES DE LAS INSTITUCIONES PÚBLICAS
 
 ### Artículo 15
 .- En su formulación y ejecución, el Plan Nacional de Desarrollo, particularmente de su Capítulo de Desarrollo Social, deberá ser congruente con los principios, objetivos e instrumentos de los programas de atención a las personas adultas mayores, integrados en la política nacional respectiva.
@@ -392,10 +397,11 @@ I. Impulsar la participación de las personas adultas mayores en actividades de 
 II. Promover actividades de recreación turística con tarifas preferentes, diseñadas para personas adultas mayores, y
 
 III. Promover y, en su caso suscribir, en coordinación con la secretarías de Comunicaciones y Transportes, de Educación Pública y de Cultura, convenios con las empresas del ramo turístico para ofrecer tarifas especiales o gratuitas en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y centros turísticos.
-Fracción reformada DOF 17-12-2015 TÍTULO QUINTO DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
+Fracción reformada DOF 17-12-2015
 
-## CAPÍTULO I
-DE SU NATURALEZA, OBJETO Y ATRIBUCIONES
+## TÍTULO QUINTO — DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
+
+## CAPÍTULO I — DE SU NATURALEZA, OBJETO Y ATRIBUCIONES
 
 ### Artículo 24
 . Se crea el Instituto Nacional de las Personas Adultas Mayores como un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos y fines.
@@ -494,8 +500,7 @@ XXIX. Expedir su Estatuto Orgánico.
 XXX.- Crear un registro único obligatorio de todas las instituciones públicas y privadas de casas hogar, albergues, residencias de día o cualquier centro de atención a las personas adultas mayores.
 Fracción adicionada DOF 24-06-2009
 
-## CAPÍTULO II
-DE SU GOBIERNO, ADMINISTRACIÓN Y VIGILANCIA
+## CAPÍTULO II — DE SU GOBIERNO, ADMINISTRACIÓN Y VIGILANCIA
 
 ### Artículo 29
 . Para el estudio, planeación y despacho de los asuntos que le competen, el Instituto contará con un Consejo Directivo y una Dirección General y las estructuras administrativas que establezca el Estatuto Orgánico.
@@ -539,16 +544,15 @@ El Director General tendrá la representación legal del organismo, con todas la
 ### Artículo 37
 . El Director General tendrá las atribuciones a que se refieren los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales.
 
-## CAPÍTULO III
-DEL CONSEJO CIUDADANO DE PERSONAS ADULTAS MAYORES Denominación del Capítulo reformada DOF 26-01-2005
+## CAPÍTULO III — DEL CONSEJO CIUDADANO DE PERSONAS ADULTAS MAYORES
+Denominación del Capítulo reformada DOF 26-01-2005
 
 ### Artículo 38
 .- El Instituto contará con un Consejo Ciudadano de personas adultas mayores, que tendrá por objeto conocer el seguimiento dado a los programas, opinar sobre los mismos, recabar las propuestas de la ciudadanía con relación a las personas adultas mayores y presentarlas al Consejo Directivo.
 Párrafo reformado DOF 26-01-2005 Este Consejo se integrará con diez personas adultas mayores de sobresaliente trayectoria en el área en que se desempeñen, de manera equitativa en cuanto a género, los cuales serán seleccionados por el Consejo Directivo a convocatoria formulada a las instituciones públicas o privadas.
 Párrafo reformado DOF 26-01-2005 El cargo de Consejero será de carácter honorario. Los requisitos, atribuciones y funcionamiento del Consejo se establecerán en las disposiciones orgánicas del Instituto.
 
-## CAPÍTULO IV
-DEL PATRIMONIO DEL INSTITUTO
+## CAPÍTULO IV — DEL PATRIMONIO DEL INSTITUTO
 
 ### Artículo 39
 . El patrimonio del Instituto se integrará con:
@@ -565,8 +569,7 @@ V. Las aportaciones de los gobiernos de las entidades federativas y ayuntamiento
 
 VI. Los demás bienes, recursos y derechos que adquiera por cualquier título, de conformidad con las disposiciones jurídicas aplicables.
 
-## CAPÍTULO V
-DE LA CONTRALORÍA INTERNA
+## CAPÍTULO V — DE LA CONTRALORÍA INTERNA
 
 ### Artículo 40
 . El Instituto Nacional de las Personas Adultas Mayores contará con una Contraloría Interna, órgano interno de control, al frente del cual su titular designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría y quejas, designados en los mismos términos.
@@ -574,18 +577,17 @@ Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de
 Párrafo reformado DOF 09-04-2012 Las ausencias del Contralor Interno, así como las de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 Párrafo reformado DOF 09-04-2012 El Instituto proporcionará al titular del órgano interno de control, los recursos humanos y materiales que requieran para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Instituto estarán obligados a proporcionar el auxilio que requiera el titular de dicho órgano para el desempeño de sus funciones.
 
-## CAPÍTULO VI
-RÉGIMEN LABORAL
+## CAPÍTULO VI — RÉGIMEN LABORAL
 
 ### Artículo 41
 . Las relaciones de trabajo entre el Instituto y sus trabajadores, se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Artículo 42
 . El personal del Instituto queda incorporado al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-TÍTULO SEXTO DE LAS RESPONSABILIDADES Y SANCIONES
 
-## CAPÍTULO I
-DE LA DENUNCIA POPULAR
+## TÍTULO SEXTO — DE LAS RESPONSABILIDADES Y SANCIONES
+
+## CAPÍTULO I — DE LA DENUNCIA POPULAR
 
 ### Artículo 43
 . La denuncia a que se refiere la fracción VIII del artículo 5o. de este ordenamiento, podrá ejercitarse por cualquier persona, bastando que se presente por escrito y contenga:
@@ -610,8 +612,7 @@ IV. Las pruebas que en su caso ofrezca el denunciante.
 ### Artículo 47
 . Si la queja o denuncia presentada fuera competencia de otra autoridad, la autoridad ante la cual se presente acusará de recibo al denunciante pero no admitirá la instancia y la turnará a la autoridad competente para su trámite y resolución notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
 
-## CAPÍTULO II
-DE LAS RESPONSABILIDADES Y SANCIONES
+## CAPÍTULO II — DE LAS RESPONSABILIDADES Y SANCIONES
 
 ### Artículo 48
 .- Las instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier otro centro de atención a las personas adultas mayores, deberán ajustar su funcionamiento a lo dispuesto por las Normas Oficiales Mexicanas, Normas Mexicanas, Normas Técnicas y los reglamentos que se expidan para este efecto.

@@ -13,8 +13,7 @@ SE EXPIDE LA LEY DE INGRESOS SOBRE HIDROCARBUROS, SE REFORMAN, ADICIONAN Y DEROG
 ### ARTÍCULO SÉPTIMO
 Se expide la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO
 
-## CAPÍTULO I
-Disposiciones Generales
+## CAPÍTULO I — Disposiciones Generales
 
 ### Artículo 1
 .- La presente Ley es de orden público y tiene por objeto establecer las normas para la constitución y operación del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el cual tendrá como fin recibir, administrar, invertir y distribuir los ingresos derivados de las asignaciones y los contratos a que se refiere el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, con excepción de los impuestos, en términos de lo dispuesto en el artículo 28 de la propia Constitución y los transitorios Décimo Cuarto y Décimo Quinto del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013.
@@ -43,8 +42,7 @@ II. El producto de las inversiones que se deriven de los recursos del Fondo Mexi
 III. Las donaciones o cualquier tipo de aportación provenientes de cualquier persona física o moral, sin que por ese hecho se consideren como fideicomitentes o fideicomisarios o tengan derecho alguno sobre el patrimonio fideicomitido.
 Para todos los efectos legales, los recursos que conforman el patrimonio del Fondo Mexicano del Petróleo serán considerados de naturaleza federal, imprescriptibles e inembargables.
 
-## CAPÍTULO II
-Del Fondo Mexicano del Petróleo y su Comité
+## CAPÍTULO II — Del Fondo Mexicano del Petróleo y su Comité
 
 ### Artículo 5
 .- El Fondo Mexicano del Petróleo, fideicomiso público del Estado constituido por la Secretaría de Hacienda y Crédito Público, como fideicomitente, en el Banco de México, como institución fiduciaria, forma parte de la Federación y no será considerado entidad paraestatal.
@@ -188,8 +186,7 @@ VIII. Por haber sido condenado por delito que amerite pena privativa de libertad
 .- A solicitud de cuando menos uno de sus miembros, el Presidente del Comité deberá hacer del conocimiento del Ejecutivo Federal los casos en que alguno de los miembros independientes pueda ubicarse en alguno de los supuestos a que se refiere el artículo anterior.
 El Ejecutivo Federal determinará, previa audiencia del interesado, si se configuran o no los supuestos de remoción de los miembros independientes, con base en los elementos que se le presenten o recabe para tal efecto. En caso de que el Ejecutivo Federal determine la remoción del miembro independiente, procederá al nombramiento de un nuevo miembro en los términos de esta Ley.
 
-## CAPÍTULO III
-De la operación del Fondo Mexicano del Petróleo
+## CAPÍTULO III — De la operación del Fondo Mexicano del Petróleo
 
 ### Artículo 16
 .- Los recursos entregados al Fondo Mexicano del Petróleo serán destinados a lo siguiente:
@@ -238,8 +235,8 @@ VI. En su caso, contemplar la utilización de derivados con el único fin de fac
 ### Artículo 18
 .- Con el objeto de permitir una adecuada operación del Fondo Mexicano del Petróleo en cumplimiento de su fin y satisfacer sus necesidades de liquidez y cumplimiento oportuno de las obligaciones a su cargo, el fiduciario, sujeto a los lineamientos que emita el Comité en esta materia, mantendrá en el Banco de México las cuentas corrientes que requiera para recibir, administrar y distribuir los ingresos destinados a lo señalado en el artículo 16, fracciones I y II, de esta Ley. Las reglas operativas de estas cuentas se ajustarán a lo que acuerden el fideicomitente y el fiduciario pero, en todo caso, el saldo de estas cuentas no podrá tener un saldo deudor bajo ninguna circunstancia.
 
-## CAPÍTULO IV
-De la transparencia e información sobre las operaciones del Fondo Mexicano del Petróleo
+## CAPÍTULO IV — De la transparencia e información sobre las operaciones del Fondo Mexicano del
+Petróleo
 
 ### Artículo 19
 .- El fiduciario deberá publicar por medios electrónicos y por lo menos dentro de los treinta días naturales posteriores al cierre de cada trimestre calendario, previa aprobación del Comité, un informe que contenga como mínimo lo siguiente:
@@ -286,8 +283,7 @@ Párrafo reformado DOF 18-03-2025 El auditor externo referido deberá enviar al 
 .- El Fondo Mexicano del Petróleo debe coordinarse con la Secretaría de Energía quien le debe proporcionar toda la información técnica y operativa que sea necesaria para el correcto cumplimiento de su fin.
 Artículo reformado DOF 18-03-2025
 
-## CAPÍTULO V
-De las responsabilidades y sanciones
+## CAPÍTULO V — De las responsabilidades y sanciones
 
 ### Artículo 25
 .- Los miembros del Comité serán sujetos a responsabilidad en el ejercicio de sus funciones cuando causen un daño o perjuicio estimable en dinero a la Hacienda Pública Federal, en los términos del Título Quinto de la Ley de Fiscalización y Rendición de Cuentas de la Federación.

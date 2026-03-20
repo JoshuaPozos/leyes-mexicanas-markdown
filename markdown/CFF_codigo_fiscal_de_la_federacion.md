@@ -314,8 +314,7 @@ Para los efectos fiscales, y en los medios de defensa que se interpongan en cont
 La asociación en participación se identificará con una denominación o razón social, seguida de la leyenda A. en P. o en su defecto, con el nombre del asociante, seguido de las siglas antes citadas.
 Asimismo, tendrán, en territorio nacional, el domicilio del asociante.
 
-## CAPÍTULO II
-DE LOS MEDIOS ELECTRÓNICOS
+## CAPÍTULO II — DE LOS MEDIOS ELECTRÓNICOS
 
 ### Artículo 17-C
 .- Tratándose de contribuciones administradas por organismos fiscales autónomos, las disposiciones de este Código en materia de medios electrónicos sólo serán aplicables cuando así lo establezca la ley de la materia.
@@ -1614,10 +1613,7 @@ En los casos en que la entidad financiera o sociedad cooperativa de ahorro y pr�
 El plazo para notificar el levantamiento del aseguramiento de los bienes a que se refiere el inciso a) de la fracción III de este artículo, al contribuyente, responsable solidario o tercero con ellos relacionado, se computará a partir de la fecha en que la comisión de que se trate, o bien, la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, hayan informado a la autoridad fiscal sobre el levantamiento del aseguramiento precautorio.
 Cuando la autoridad constate que el aseguramiento precautorio se practicó por una cantidad mayor a la debida, únicamente ordenará su levantamiento hasta por el monto excedente, observando para ello lo dispuesto en los párrafos que anteceden.
 Tratándose de los supuestos establecidos en los incisos b) y d) de la fracción I de este artículo, el aseguramiento precautorio quedará sin efectos cuando se acredite la inscripción al registro federal de contribuyentes o se acredite la legal posesión o propiedad de la mercancía; se acredite la autenticidad de los marbetes o precintos adheridos a los envases o botellas que contengan bebidas alcohólicas, o se acredite la legal posesión o tenencia de los marbetes o precintos asegurados, según corresponda.
-Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la
-
-## Sección II del Capítulo III del Título V de este Código, en aquello que no se oponga a lo previsto en este
-artículo.
+Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección II del Capítulo III del Título V de este Código, en aquello que no se oponga a lo previsto en este artículo.
 
 ### Artículo 41
 . Cuando las personas obligadas a presentar declaraciones, avisos, reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código y demás documentos no lo hagan dentro de los plazos señalados o de conformidad con las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento o la información respectiva ante las oficinas correspondientes, procediendo de la siguiente forma:
@@ -2482,8 +2478,7 @@ Ter. Las autoridades fiscales podrán recibir y, en su caso, emplear la informac
 Se considera tercero colaborador fiscal a aquella persona que no ha participado en la expedición, adquisición o enajenación de comprobantes fiscales que amparen operaciones inexistentes, pero que cuenta con información que no obre en poder de la autoridad fiscal, relativa a contribuyentes que han incurrido en tales conductas y que voluntariamente proporciona a la autoridad fiscal la información de la que pueda disponer legalmente y que sea suficiente para acreditar dicha situación. La identidad del tercero colaborador fiscal tendrá el carácter de reservada en términos del artículo 69 de este Código.
 El tercero colaborador fiscal podrá participar en los sorteos previstos en el artículo 33-B de este Código, siempre que la información y documentación que proporcione en colaboración de la autoridad fiscal sean verificables. Asimismo, en la lista definitiva que se publique en términos del artículo 69-B, cuarto párrafo del presente Código, serán identificadas las empresas que facturan operaciones simuladas que se hayan conocido en virtud de la información proporcionada por el tercero colaborador fiscal.
 
-## CAPÍTULO II
-De los Acuerdos Conclusivos
+## CAPÍTULO II — De los Acuerdos Conclusivos
 
 ### Artículo 69-C
 . Cuando los contribuyentes sean objeto del ejercicio de las facultades de comprobación a que se refiere el artículo 42, fracciones II, III o IX de este Código y no estén de acuerdo con los hechos u omisiones asentados en la última acta parcial, en el acta final, en el oficio de observaciones o en la resolución provisional, que puedan entrañar incumplimiento de las disposiciones fiscales, podrán optar por solicitar la adopción de un acuerdo conclusivo. Dicho acuerdo podrá versar sobre uno o varios de los hechos u omisiones consignados y será definitivo en cuanto al hecho u omisión sobre el que verse.
@@ -4073,7 +4068,9 @@ Bis. Se deroga.
 Ter. Se impondrá sanción de tres a seis años de prisión a quien, a sabiendas, declare hechos o datos falsos, o presente documentación falsa o alterada, en cualquier procedimiento regulado en este Código.
 Este delito se investigará y perseguirá independientemente del estado en que se encuentre el procedimiento administrativo que, en su caso, se haya iniciado.
 Asimismo, la ejecución de este delito puede dar lugar a la causación de un daño material a la Hacienda Federal, el cual deberá ser objeto de reparación.
-Artículo adicionado DOF 07-11-2025 TITULO QUINTO De Los Procedimientos Administrativos CAPITULO I Del recurso administrativo Sección Primera Del Recurso de Revocación
+Artículo adicionado DOF 07-11-2025 TITULO QUINTO De Los Procedimientos Administrativos CAPITULO I Del recurso administrativo
+
+## Sección Primera — Del Recurso de Revocación
 
 ### Artículo 116
 .- Contra los actos administrativos dictados en materia fiscal federal, se podrá interponer el recurso de revocación.
@@ -4194,11 +4191,13 @@ Los procedimientos de resolución de controversias previstos en los tratados par
 
 ### Artículo 128
 .- El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco federal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales federales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
-Sección Segunda De la Impugnación de las Notificaciones
+
+## Sección Segunda — De la Impugnación de las Notificaciones
 
 ### Artículo 129
 . (Se deroga).
-Sección Tercera Del Trámite y Resolución de los Recursos
+
+## Sección Tercera — Del Trámite y Resolución de los Recursos
 
 ### Artículo 130
 .- En el recurso de revocación se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
@@ -4257,8 +4256,7 @@ Para los efectos de esta fracción, no se entenderá que el perjuicio se increme
 Cuando se interponga un medio de impugnación, se suspenderá el efecto de la resolución recaída al recurso hasta que se dicte la sentencia que ponga fin a la controversia. Asimismo, se suspenderá el plazo para dar cumplimiento a la resolución cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
 Los plazos para cumplimiento de la resolución que establece este artículo empezarán a correr a partir de que hayan transcurrido los treinta días para impugnarla, salvo que el contribuyente demuestre haber interpuesto medio de defensa.
 
-## Sección Cuarta
-Del Trámite y Resolución del Recurso de Revocación Exclusivo de Fondo
+## Sección Cuarta — Del Trámite y Resolución del Recurso de Revocación Exclusivo de Fondo
 
 ### Artículo 133-B
 . El recurso de revocación previsto en este Capítulo podrá tramitarse y resolverse conforme al procedimiento especializado previsto en esta Sección cuando el recurrente impugne las resoluciones definitivas que deriven del ejercicio de las facultades de comprobación a que se refiere el
@@ -4462,7 +4460,9 @@ En el supuesto del párrafo anterior, si el particular no presenta declaración 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare bajo protesta de decir verdad que son los únicos que posee. En el caso de que la autoridad compruebe por cualquier medio que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de las sanciones que correspondan. En todo caso, se observará lo dispuesto en el segundo párrafo del artículo 141 de este Código.
 También se suspenderá la ejecución del acto que determine un crédito fiscal cuando los tribunales competentes notifiquen a las autoridades fiscales sentencia de concurso mercantil dictada en términos de la ley de la materia y siempre que se hubiese notificado previamente a dichas autoridades la presentación de la demanda correspondiente.
 Las autoridades fiscales continuarán con el procedimiento administrativo de ejecución a fin de obtener el pago del crédito fiscal, cuando en el procedimiento judicial de concurso mercantil se hubiere celebrado convenio estableciendo el pago de los créditos fiscales y éstos no sean pagados dentro de los cinco días siguientes a la celebración de dicho convenio o cuando no se dé cumplimiento al pago con la prelación establecida en este Código. Asimismo, las autoridades fiscales podrán continuar con dicho procedimiento cuando se inicie la etapa de quiebra en el procedimiento de concurso mercantil en los términos de la ley correspondiente.
-Reforma DOF 12-11-2021: Derogó del artículo el entonces párrafo décimo CAPITULO III Del procedimiento administrativo de ejecución Sección Primera Disposiciones Generales
+Reforma DOF 12-11-2021: Derogó del artículo el entonces párrafo décimo CAPITULO III Del procedimiento administrativo de ejecución
+
+## Sección Primera — Disposiciones Generales
 
 ### Artículo 145
 . Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante procedimiento administrativo de ejecución.
@@ -4598,7 +4598,8 @@ Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-202
 Párrafo reformado DOF 07-11-2025 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
 Los ingresos recaudados por concepto de gastos de ejecución, se destinarán al establecimiento de un fondo revolvente para gastos de cobranza, para programas de fomento con el público en general del cumplimiento de las obligaciones fiscales, para financiar los programas de formación de funcionarios fiscales, salvo que por Ley estén destinados a otros fines. El destino de estos ingresos será con independencia del presupuesto que tengan asignado las autoridades fiscales federales.
 Cuando las autoridades fiscales ordenen la práctica de un avalúo, y éste resulte superior en más de un 10% del valor declarado por el contribuyente, éste deberá cubrir el costo de dicho avalúo.
-Sección Segunda Del Embargo
+
+## Sección Segunda — Del Embargo
 
 ### Artículo 151
 . Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y, en caso de que éste no pruebe en el acto haberlo efectuado, procederán de inmediato como sigue:
@@ -4775,7 +4776,8 @@ Párrafo reformado DOF 12-11-2021
 .- Si durante el embargo, la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas señalados para la traba o en los que se presuma que existen bienes muebles embargables, el ejecutor previo acuerdo fundado del jefe de la oficina ejecutora, hará que ante dos testigos sean rotas las cerraduras que fuere necesario, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
 En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriere los muebles en los que aquél suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina exactora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario por un experto designado por la propia oficina, en los términos del reglamento de este Código.
 Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
-Sección Tercera De la Intervención
+
+## Sección Tercera — De la Intervención
 
 ### Artículo 164
 .- Cuando las autoridades fiscales embarguen negociaciones, el depositario designado tendrá el carácter de interventor con cargo a la caja o de administrador.
@@ -4815,8 +4817,7 @@ El interventor administrador no podrá enajenar los bienes del activo fijo. Cuan
 ### Artículo 172
 . Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida o a la enajenación de los bienes o derechos que componen la misma de forma separada, cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el porciento será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porciento del crédito que resulte.
 
-## Sección Cuarta
-Del Remate
+## Sección Cuarta — Del Remate
 
 ### Artículo 173
 .- La enajenación de bienes embargados, procederá:
@@ -4984,7 +4985,9 @@ El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando 
 
 II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 Nota: Por Decreto DOF 09-12-2019 se adicionó un nuevo Título Sexto “De la Revelación de Esquemas Reportables” con un Capítulo Único, comprendiendo los artículos 197 al 202. En consecuencia, se suprimieron las referencias al anterior y previamente derogado Título Sexto “Del Juicio Contencioso Administrativo” y a su Capítulo I “Disposiciones generales”, Capítulo II “De la improcedencia y del sobreseimiento”, Capítulo III “De los impedimentos y excusas”, Capítulo IV “De la demanda”, Capítulo V “De la contestación”, Capítulo VI “De los incidentes”, Capítulo VII “De las pruebas”, Capítulo VIII “Del cierre de la instrucción”, Capítulo IX “De la sentencia”, Capítulo X “De los recursos” con sus Secciones Primera “De la Reclamación”, Segunda “De la Apelación” y Tercera “De la Revisión”, así como del Capítulo XI “De las notificaciones y del cómputo de los términos” y Capítulo XII “De la jurisprudencia” del mismo Título Sexto antes derogado.
-TITULO SEXTO De la Revelación de Esquemas Reportables CAPÍTULO ÚNICO
+TITULO SEXTO De la Revelación de Esquemas Reportables
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 197
 . Los asesores fiscales se encuentran obligados a revelar los esquemas reportables generalizados y personalizados a que se refiere este Capítulo al Servicio de Administración Tributaria.
@@ -5813,10 +5816,7 @@ En los casos a que se refiere el párrafo anterior, las facultades se extinguir�
 
 XVI. Lo dispuesto en el segundo párrafo de la fracción III del artículo 141 del Código Fiscal de la Federación, entrará en vigor el 1o. de mayo de 2005.
 
-XVII. Durante el año de 2004, las autoridades fiscales podrán efectuar los remates previstos en la
-
-## Sección IV del Capítulo III del Título V del Código Fiscal de la Federación, de conformidad con las
-disposiciones vigentes hasta antes de la entrada en vigor del presente Decreto.
+XVII. Durante el año de 2004, las autoridades fiscales podrán efectuar los remates previstos en la Sección IV del Capítulo III del Título V del Código Fiscal de la Federación, de conformidad con las disposiciones vigentes hasta antes de la entrada en vigor del presente Decreto.
 
 XVIII. Los ingresos que se obtengan desde la entrada en vigor del presente Decreto y hasta el 31 de diciembre de 2004, por la enajenación de bienes que hayan sido adjudicados al fisco federal por concepto de dación en pago, se destinarán primordialmente para la constitución de los fondos de administración, mantenimiento y enajenación y de contingencia para reclamaciones, a que hace referencia el artículo 191 del Código Fiscal de la Federación.
 
@@ -6327,7 +6327,7 @@ Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013
 ### ARTÍCULO ÚNICO
 Se reforman los artículos 14-B, tercer párrafo; 17-D, séptimo párrafo; 18, segundo párrafo; 18-A, tercer párrafo; 20, séptimo y actual décimo tercer párrafos; 22, sexto párrafo; 26, fracciones X, XI y XV; 26-A; 27, primero, décimo primero y décimo cuarto párrafos; 28; 29; 29-A; 30, primero, tercero y quinto párrafos; 30-A; 32, sexto párrafo; 32-A; 32-B, fracciones IV, V, VII y VIII, apartado B, primer y tercer párrafos; 32-D, fracción IV; 32-E, primer párrafo; el Capítulo Único del Título III, para quedar como
 
-## Capítulo I; 33, fracción III, primer párrafo; 34-A, primer párrafo; 36-Bis, tercer párrafo; 38, fracción I,
+## Capítulo I — ; 33, fracción III, primer párrafo; 34-A, primer párrafo; 36-Bis, tercer párrafo; 38, fracción I,
 segundo párrafo, 40; 42, fracciones II, IV y V, primer párrafo, y tercer párrafo del artículo; 45; 46, fracción IV, cuarto párrafo; 46-A, apartados A y B; 47; 48, fracciones I, IV y VII; 50, primer párrafo; 52; 52-A; 53-A; 63, sexto párrafo; 65; 67, cuarto y sexto párrafos; 69, primero, segundo, cuarto y sexto párrafos; 70, cuarto párrafo; 73, fracción III; 74, primer párrafo; 76, décimo y décimo primer párrafos; 80, fracción II; 81, primer párrafo, y fracciones XI, XII, XIV, XVII, XXII, XXIV, XXV, XXVIII, XXIX; XXX y XXXI; 82, primer párrafo, y fracciones XI, XVI y XXVI; 83, primer párrafo, y fracciones VII, IX, X, XI y XV; 84, fracciones IV, incisos b) y c), VI, IX y X; 84-A, primer párrafo, y fracciones IV, VIII y actual IX; 84-B, fracciones VIII, IX y X; 84-G; 84-I; 85, fracción I; 86-A, primer párrafo, y fracciones I y III, 86-B, fracciones I y III; 91-A; 91-B; 105, fracción XII, primer párrafo y fracción XIV; 108, tercer párrafo y séptimo párrafo, inciso e); 109, fracción I; 110, fracción V; 111, fracciones V y VII; 117, fracción II, inciso b); 121, primer y segundo párrafos; 123, sexto párrafo; 130, tercer párrafo; 133-A, último párrafo; 134, fracción I; 137; 139; 141, primer, tercer, quinto y séptimo párrafos; 143, tercer párrafo, incisos a) y b) y actual cuarto párrafo del artículo; 144; 145; 146; 150, cuarto párrafo; 151; 152, primer y segundo párrafos; 156-Bis; 156-Ter; 160, primer párrafo; 172; 175; 176; 177, primer párrafo; 183, segundo párrafo; 184; 185, segundo párrafo; 196, y 196-A; se adicionan los artículos 10, fracción I, con un último párrafo; 17-H con una fracción X y un sexto párrafo; 17-K; 20, con un décimo tercer y décimo quinto párrafos, pasando el actual décimo tercer párrafo a ser décimo cuarto párrafo; 22, décimo noveno párrafo; 26, fracción XVIII; 31-A; 32-B, con las fracciones IX y X; 32-D, con un octavo párrafo; 32-H; 40-A; 42, con una fracción IX y un quinto párrafo; 53-B; 53-C; 58; 58-A; 66, con un tercer y cuarto párrafos; 69, con un octavo, noveno, décimo, décimo primero y décimo segundo párrafos; 69-B; el Capítulo II del Título III, denominado “De los Acuerdos Conclusivos” que comprende los artículos 69-C, 69-D, 69-E, 69-F, 69-G y 69-H; 81, con las fracciones XXXVI; XXXVII, XXXVIII y XXXIX; 82, con una fracción XXXVI; 83, con las fracciones XVII y XVIII; 84, con las fracciones XV y XVI; 84-A, con las fracciones IX, X, XII y XIII, pasando las actuales fracciones IX y X a ser las fracciones XI y XIV, respectivamente; 84-B, con las fracciones XI y XII; 86-A, con una fracción V; 86-B, con una fracción V; 86-G, 86-H; 86-I; 86-J; 95, con las fracciones VIII y IX; 108, séptimo párrafo con el inciso h); 110, con una fracción IV; 113, con una fracción III; 143, tercer párrafo, con un inciso c), y un cuarto párrafo, pasando el actual cuarto a ser quinto párrafo; 153, con un cuarto párrafo, pasando el actual cuarto a ser quinto párrafo; 155, fracción I, con un segundo párrafo; 157, fracción XIII; 160, cuarto párrafo, y se derogan los artículos 18, octavo párrafo; 29-B; 29-C, 29-D; 30, sexto y séptimo párrafos; 32, fracción III; 46, segundo párrafo; 50, sexto párrafo; 70-A, fracción III; 81, fracciones XIII, XV, XXXII y XXXV; 82, fracciones XXXII y XXXV; 83, fracciones VIII y XVI; 84, fracciones VII y XIV; 109, fracción VII; 117, fracción II, inciso d); 121, tercer párrafo; 124, fracción VI; 127, segundo párrafo; 129; 131, tercer párrafo; 145-A; 146-A, quinto párrafo; y 191, quinto, sexto y séptimo párrafos, del Código Fiscal de la Federación, para quedar como sigue: ……….
 
 ## Transitorios
@@ -6521,10 +6521,7 @@ DISPOSICIONES TRANSITORIAS DEL
 En relación con las modificaciones a que se refiere el Artículo Tercero de este Decreto, se estará a lo siguiente:
 **Primero.** Entrará en vigor a los 30 días naturales siguientes al día en que entre en vigor el presente Decreto.
 **Segundo.** Los recursos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de presentación del recurso, sin perjuicio de lo señalado en el siguiente párrafo.
-En el caso de que se cumplan los requisitos de procedencia señalados en los artículos 133-C y 133-D del presente Decreto, los contribuyentes tendrán la opción de solicitar a la unidad administrativa encargada de resolver el recurso de revocación, que el mismo se tramite en los términos del Título V,
-
-## Capítulo I, Sección Cuarta del Código Fiscal de la Federación, siempre y cuando realice su solicitud en un
-plazo de diez días hábiles contados a partir de la entrada en vigor del presente Decreto.
+En el caso de que se cumplan los requisitos de procedencia señalados en los artículos 133-C y 133-D del presente Decreto, los contribuyentes tendrán la opción de solicitar a la unidad administrativa encargada de resolver el recurso de revocación, que el mismo se tramite en los términos del Título V, Capítulo I, Sección Cuarta del Código Fiscal de la Federación, siempre y cuando realice su solicitud en un plazo de diez días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 ## Transitorios
 

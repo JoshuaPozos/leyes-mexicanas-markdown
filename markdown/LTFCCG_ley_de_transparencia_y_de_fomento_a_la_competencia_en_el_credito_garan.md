@@ -13,9 +13,9 @@ SE EXPIDE LA LEY DE TRANSPARENCIA Y DE FOMENTO A LA COMPETENCIA EN EL CRÉDITO G
 ### ARTÍCULO ÚNICO
 : Se expide la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado, para quedar como sigue:
 
-## Título I.- Aspectos Generales
+## Título I — .- Aspectos Generales
 
-## Capítulo I.- Disposiciones Generales
+## Capítulo I — .- Disposiciones Generales
 
 ### Artículo 1o
 .- La presente Ley es de orden público y tiene por objeto regular las actividades y servicios financieros para el otorgamiento de Crédito Garantizado, para la adquisición, construcción, remodelación o refinanciamiento destinado a la vivienda con la finalidad de asegurar la transparencia en su otorgamiento y fomentar la competencia.
@@ -60,7 +60,7 @@ Fracción adicionada DOF 07-02-2005
 XI. Unidad de Valuación. Es la persona moral que se encuentra inscrita como tal en la Sociedad Hipotecaria Federal, S.N.C., de acuerdo a las disposiciones que ésta emita.
 Fracción adicionada DOF 07-02-2005
 
-## Capítulo II.- Información Previa
+## Capítulo II — .- Información Previa
 
 ### Artículo 4
 .- (Se deroga).
@@ -92,9 +92,9 @@ X. Importe de cuotas periódicas, en su caso, y
 XI. Los demás requisitos que, en su caso, establezcan las Reglas.
 Las Reglas podrán establecer el formato de la información de manera que se permita al solicitante su comparación, con el objeto de que elija de manera informada el crédito que más convenga a sus intereses. La entrega de este folleto será gratuita, aun cuando el solicitante opte por no contratar el Crédito Garantizado a la Vivienda con la Entidad. Asimismo, las Entidades deberán de permitir la consulta de la información que tengan los folletos por medios electrónicos remotos.
 
-## Título II.- Contratación de Créditos Garantizados
+## Título II — .- Contratación de Créditos Garantizados
 
-## Capítulo I.- Oferta Vinculante
+## Capítulo I — .- Oferta Vinculante
 
 ### Artículo 6
 .- Las Entidades, tratándose de Créditos Garantizados a la Vivienda, estarán obligadas a extender sin costo alguno, una oferta vinculante a petición del solicitante y con base en la información que de buena fe declare éste, sin requerir la presentación de los documentos que soporten dicha información.
@@ -123,7 +123,7 @@ La oferta vinculante se formulará por escrito y obligará a la Entidad por un p
 La Entidad estará obligada a otorgar el Crédito Garantizado a la Vivienda en los términos y condiciones establecidos en la oferta vinculante, siempre y cuando, la Entidad compruebe: la identidad del solicitante; la veracidad y autenticidad de los datos que hubiese proporcionado el solicitante; la capacidad crediticia del solicitante conforme a las sanas prácticas y condiciones de mercado; la realización de un avalúo practicado por un valuador autorizado, y el cumplimiento de las demás formalidades que requiera la Ley.
 Si una vez realizado el avalúo, existieren diferencias entre éste y el valor declarado de la garantía, la Entidad procurará mantener la tasa de interés ofrecida en la oferta vinculante.
 
-## Capítulo II.- Avalúo del Inmueble
+## Capítulo II — .- Avalúo del Inmueble
 
 ### Artículo 7
 .- Los avalúos de los bienes inmuebles objeto de Créditos Garantizados a la Vivienda deberán realizarse por peritos valuadores autorizados al efecto por la Sociedad Hipotecaria Federal, S.N.C. El acreditado tendrá el derecho a escoger al perito valuador que intervenga en la operación de entre el listado que le presente la Entidad.
@@ -190,7 +190,7 @@ Se exceptúa de la prohibición señalada en la fracción I, a las Unidades de V
 La Sociedad Hipotecaria Federal S.N.C., podrá sancionar el incumplimiento de las obligaciones y la comisión de las conductas prohibidas a que se refiere este artículo, en los términos y condiciones que establezcan las disposiciones que al efecto emita la citada Sociedad.
 Artículo adicionado DOF 07-02-2005
 
-## Capítulo III.- Formalización del Crédito Garantizado
+## Capítulo III — .- Formalización del Crédito Garantizado
 
 ### Artículo 8
 .- (Se deroga).
@@ -205,7 +205,7 @@ II. Comprobar que no se incluyan gastos o comisiones a cargo del acreditado, que
 
 III. Las demás que prevean las Reglas.
 
-## Capítulo IV.- Tasas de Interés e Índices de Referencia.
+## Capítulo IV — .- Tasas de Interés e Índices de Referencia.
 
 ### Artículo 10
 . (Se deroga).
@@ -219,9 +219,9 @@ Dicha información también tendrá que ser divulgada a través de la página de
 .- (Se deroga).
 Artículo derogado DOF 15-06-2007
 
-## Título III.- Subrogación de Créditos
+## Título III — .- Subrogación de Créditos
 
-## Capítulo I.- Subrogación de Deudor
+## Capítulo I — .- Subrogación de Deudor
 
 ### Artículo 13
 . Cuando se celebre la compraventa de un bien inmueble sobre la que recaiga un Crédito Garantizado que aún no haya sido amortizado en su totalidad, el comprador se podrá subrogar en los derechos y obligaciones del Deudor, sin necesidad de que se constituya una nueva garantía, con el fin de evitar que se dupliquen los gastos inherentes al Crédito, en perjuicio del adquirente. Lo anterior, siempre y cuando el comprador presente a la Entidad, una solicitud de crédito y se cumplan con los demás requisitos y obligaciones que establece el artículo 6 de la presente Ley.
@@ -231,7 +231,7 @@ Artículo reformado DOF 13-06-2003
 . Cuando exista un Crédito Garantizado a un Desarrollador Inmobiliario con el fin de que éste construya bienes inmuebles para su posterior comercialización, los compradores podrán subrogarse en los derechos y obligaciones del Desarrollador Inmobiliario, individualizándose dicho crédito en la parte proporcional del mismo que corresponda a la parte o inmueble adquirido, sin necesidad de que se constituya una nueva garantía, con el propósito de que no se repercutan nuevos gastos en perjuicio del comprador. Lo anterior, siempre y cuando el comprador presente a la Entidad, una solicitud de crédito y se cumpla con los demás requisitos y obligaciones que establece el artículo 6 de la presente Ley.
 Artículo reformado DOF 13-06-2003
 
-## Capítulo II.- Subrogación de Acreedor
+## Capítulo II — .- Subrogación de Acreedor
 
 ### Artículo 15
 .- En caso de que un Crédito Garantizado se pague anticipadamente mediante la contratación de uno nuevo con otra Entidad, dicha Entidad quedará subrogada por ministerio de ley en los derechos del acreedor subrogante y se mantendrá inalterada la garantía original y su prelación, a efecto de evitar la constitución de una nueva garantía y los gastos inherentes de la misma.
@@ -250,7 +250,7 @@ IV. Que el acreedor subrogado solicite la toma de razón del asiento registral e
 De conformidad con lo establecido en el artículo 17 de la presente Ley, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, no podrán ser acreedores subrogantes pero sí acreedores subrogados en los términos del párrafo segundo del presente artículo.
 Artículo reformado DOF 10-01-2014
 
-## Título IV.- Disposiciones Comunes
+## Título IV — .- Disposiciones Comunes
 
 ### Artículo 16
 .- (Se deroga el primer párrafo).

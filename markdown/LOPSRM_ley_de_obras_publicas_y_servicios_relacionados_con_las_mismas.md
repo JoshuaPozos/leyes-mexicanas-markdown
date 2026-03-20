@@ -8,7 +8,10 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 4 de enero de 2000 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO “EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-TÍTULO PRIMERO DISPOSICIONES GENERALES CAPÍTULO ÚNICO
+
+## TÍTULO PRIMERO — DISPOSICIONES GENERALES
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 1
 . La presente Ley es de orden público y tiene por objeto reglamentar la aplicación del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos en materia de contrataciones de obras públicas, así como de los servicios relacionados con las mismas, que realicen:
@@ -211,8 +214,14 @@ Artículo reformado DOF 28-05-2009
 Cuando las obras y servicios hubieren de ser ejecutados o prestados en el país, su procedimiento de contratación y los contratos deberán realizarse dentro del territorio nacional.
 Párrafo reformado DOF 28-05-2009 En el caso a que se refiere el párrafo anterior, cuando se acredite previamente que el procedimiento de contratación y los contratos no pueden realizarse dentro del territorio nacional, conforme a lo dispuesto por esta Ley, las obras y servicios se podrán contratar en el extranjero, aplicando los principios dispuestos por ésta.
 Párrafo adicionado DOF 28-05-2009 En los supuestos previstos en los párrafos primero y tercero de este artículo, para acreditar la aplicación de los principios dispuestos por esta Ley, tanto la justificación de la selección del contratista, como de las obras o servicios a contratar y el precio de los mismos, según las circunstancias que concurran en cada caso, deberá motivarse en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para el Estado, lo cual constará en un escrito firmado por la persona titular del área contratante, y el dictamen de procedencia de la contratación será autorizado por la persona titular de la dependencia o entidad, o aquella persona servidora pública en quien se delegue dicha función. En ningún caso la delegación podrá recaer en una persona servidora pública con nivel inferior al de director general en las dependencias o su equivalente en las entidades.
-Párrafo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025 TÍTULO SEGUNDO DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTO Se deroga referencia al Título (nuevo Título Segundo reubicado a partir del artículo 27).
-Denominación del Título reformada DOF 07-07-2005. Referencia al Título derogada DOF 28-05-2009 CAPÍTULO ÚNICO Se deroga referencia al Capítulo.
+Párrafo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025
+
+## TÍTULO SEGUNDO — DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTO
+Se deroga referencia al Título (nuevo Título Segundo reubicado a partir del artículo 27).
+Denominación del Título reformada DOF 07-07-2005. Referencia al Título derogada DOF 28-05-2009
+
+## CAPÍTULO ÚNICO
+Se deroga referencia al Capítulo.
 Referencia al Capítulo derogada DOF 28-05-2009
 
 ### Artículo 17
@@ -364,7 +373,12 @@ Bis. Las dependencias y entidades previo a la investigación de mercado e inicio
 Los diálogos estratégicos tendrán como finalidad que las dependencias y entidades den a conocer la descripción de la obra o del servicio relacionado a obra pública, así como el lugar en donde se llevarán a cabo los trabajos, para que cualquier interesado pueda proponer aspectos de carácter técnico y económico que se requieran para la preparación de la proposición.
 Los diálogos estratégicos tendrán una duración de máximo cinco días naturales.
 El Reglamento de esta Ley establecerá los supuestos que deberán seguirse para el desarrollo del diálogo estratégico.
-Artículo adicionado DOF 16-04-2025 TÍTULO SEGUNDO DE LOS PROCEDIMIENTOS DE CONTRATACIÓN Título reubicado DOF 28-05-2009 (antes Título Tercero) CAPÍTULO PRIMERO GENERALIDADES
+Artículo adicionado DOF 16-04-2025
+
+## TÍTULO SEGUNDO — DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
+Título reubicado DOF 28-05-2009 (antes Título Tercero)
+
+## CAPÍTULO PRIMERO — GENERALIDADES
 
 ### Artículo 27
 . Los procedimientos de contratación deberán asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, siendo los siguientes:
@@ -438,7 +452,8 @@ Artículo reformado DOF 13-06-2003, 07-07-2005, 28-05-2009, 16-04-2025
 
 ### Artículo 29
 .- En los procedimientos de contratación de obras públicas y de servicios relacionados con las mismas, las dependencias y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la utilización de bienes o servicios de procedencia nacional y los propios de la región, sin perjuicio de lo dispuesto en los tratados.
-CAPÍTULO SEGUNDO DE LA LICITACIÓN PÚBLICA
+
+## CAPÍTULO SEGUNDO — DE LA LICITACIÓN PÚBLICA
 
 ### Artículo 30
 . El carácter de las licitaciones públicas, será:
@@ -692,7 +707,9 @@ En los casos en que la concesión a que se refiere la fracción I de este artíc
 La dependencia podrá establecer en la convocatoria que las juntas de aclaraciones respecto de ambas etapas del procedimiento se lleven a cabo de manera separada o conjunta. Asimismo, podrá determinar que los participantes que presenten propuestas para ambas etapas del procedimiento otorguen, en su caso, garantías de seriedad conjuntas.
 El desarrollo, en particular, de cada una de las etapas de las convocatorias a que se refiere este artículo, se regirá por la ley que le resulte aplicable.
 El Reglamento de esta Ley establecerá, en su caso, los demás aspectos necesarios respecto de las convocatorias a que se refiere este artículo.
-Artículo adicionado DOF 16-01-2012 CAPÍTULO TERCERO DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
+Artículo adicionado DOF 16-01-2012
+
+## CAPÍTULO TERCERO — DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
 
 ### Artículo 41
 . En los supuestos que prevé el artículo 42 de esta Ley, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa.
@@ -801,7 +818,12 @@ IV. La solicitud de cotización no genera obligación para la dependencia o enti
 
 V. Las dependencias o entidades contratantes, para fomentar la participación de las micro, pequeñas y medianas empresas, podrán aceptar una cotización conjunta cuando las que la presenten tengan tal carácter. Para lo anterior, deberán presentar el convenio en los términos a que se refiere el artículo 48 de esta Ley.
 En la cotización conjunta solo podrán participar las personas que hayan recibido la solicitud de cotización por parte de la convocante.
-Artículo adicionado DOF 16-04-2025 TÍTULO TERCERO DE LOS CONTRATOS Título reubicado DOF 28-05-2009 (antes Título Cuarto) CAPÍTULO PRIMERO DE LA CONTRATACIÓN
+Artículo adicionado DOF 16-04-2025
+
+## TÍTULO TERCERO — DE LOS CONTRATOS
+Título reubicado DOF 28-05-2009 (antes Título Cuarto)
+
+## CAPÍTULO PRIMERO — DE LA CONTRATACIÓN
 
 ### Artículo 45
 . Las dependencias y entidades deberán incorporar en las convocatorias a las licitaciones, las modalidades de contratación que tiendan a garantizar al Estado las mejores condiciones en la ejecución de los trabajos, ajustándose a las condiciones de pago señaladas en este artículo.
@@ -985,7 +1007,9 @@ XI. Las demás que por cualquier causa se encuentren impedidas para ello por dis
 Fracción adicionada DOF 07-07-2005 La Secretaría tendrá acceso a la información necesaria con motivo del ejercicio de sus facultades relativas al cumplimiento de las obligaciones establecidas en la presente Ley, con inclusión de aquélla que las disposiciones legales en la materia consideren con carácter de reservada o confidencial.
 Párrafo adicionado DOF 16-04-2025 Para el cumplimiento de las atribuciones señaladas en el párrafo anterior, no serán oponibles las disposiciones dirigidas a proteger la secrecía de la información fiscal, con la obligación de mantener la misma en reserva o secrecía, para lo cual se celebrarán convenios de colaboración con las autoridades correspondientes.
 Párrafo adicionado DOF 16-04-2025 Las personas titulares de las Unidades de Administración y Finanzas, o en su caso de la oficialía mayor o su equivalente de la dependencia o entidad, deberá llevar el registro, control y difusión de las personas con las que se encuentren impedidas de contratar, el cual será difundido a través de la Plataforma.
-Párrafo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025 CAPÍTULO SEGUNDO DE LA EJECUCIÓN
+Párrafo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025
+
+## CAPÍTULO SEGUNDO — DE LA EJECUCIÓN
 
 ### Artículo 52
 . La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo, y la dependencia o entidad contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deban llevarse a cabo. El incumplimiento de la dependencia o entidad prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. La entrega deberá constar en la Bitácora.
@@ -1183,8 +1207,10 @@ Párrafo reformado DOF 28-05-2009
 ### Artículo 69
 .- Las dependencias y entidades bajo cuya responsabilidad quede una obra pública concluida, estarán obligadas, por conducto del área responsable de su operación, a mantenerla en niveles apropiados de funcionamiento. Los órganos internos de control vigilarán que su uso, operación y mantenimiento se realice conforme a los objetivos y acciones para las que fueron originalmente diseñadas.
 
-## TÍTULO CUARTO
-DE LA ADMINISTRACIÓN DIRECTA Título reubicado DOF 28-05-2009 (antes Título Quinto) CAPÍTULO ÚNICO
+## TÍTULO CUARTO — DE LA ADMINISTRACIÓN DIRECTA
+Título reubicado DOF 28-05-2009 (antes Título Quinto)
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 70
 .- Cumplidos los requisitos establecidos en el artículo 24 de esta Ley, las dependencias y entidades podrán realizar trabajos por administración directa, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria y equipo de construcción y personal técnico, según el caso, que se requieran para el desarrollo de los trabajos respectivos y podrán:
@@ -1208,7 +1234,12 @@ Los órganos internos de control en las dependencias y entidades, previamente a 
 
 ### Artículo 73
 . La dependencia o entidad deberá prever y proveer todos los recursos humanos, técnicos, materiales y económicos necesarios para que la ejecución de los trabajos se realice de conformidad con lo previsto en los proyectos, planos y especificaciones técnicas; los programas de ejecución y suministro y los procedimientos para llevarlos a cabo.
-Artículo reformado DOF 16-04-2025 TÍTULO QUINTO DE LA PLATAFORMA Título reubicado DOF 28-05-2009 (antes Título Sexto). Denominación reformada DOF 16-04-2025 CAPÍTULO ÚNICO
+Artículo reformado DOF 16-04-2025
+
+## TÍTULO QUINTO — DE LA PLATAFORMA
+Título reubicado DOF 28-05-2009 (antes Título Sexto). Denominación reformada DOF 16-04-2025
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 74
 . La Secretaría implementará y administrará la Plataforma como una herramienta electrónica oficial y transaccional, integrada por diversos módulos, a través de la cual se realizarán los procedimientos de contratación en materia de obras públicas y servicios relacionados con las mismas previstos en el artículo 27 de la presente Ley, así como la suscripción y administración de los contratos derivados de estos.
@@ -1284,7 +1315,11 @@ Artículo reformado DOF 28-05-2009, 16-04-2025
 ### Artículo 76
 . La Secretaría podrá verificar la calidad de los trabajos a través de la propia dependencia o entidad de que se trate, o mediante las personas acreditadas en los términos que establece la Ley de Infraestructura de la Calidad.
 Párrafo reformado DOF 28-05-2009, 16-04-2025 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el contratista y el representante de la dependencia o entidad respectiva, si hubieren intervenido. La falta de firma del contratista no invalidará dicho dictamen.
-TÍTULO SEXTO DE LAS INFRACCIONES Y SANCIONES Título reubicado DOF 28-05-2009 (antes Título Séptimo) CAPÍTULO ÚNICO
+
+## TÍTULO SEXTO — DE LAS INFRACCIONES Y SANCIONES
+Título reubicado DOF 28-05-2009 (antes Título Séptimo)
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 77
 . Los licitantes, cotizantes o contratistas que infrinjan las disposiciones de esta Ley, serán sancionados por la Secretaría con multa equivalente a la cantidad de cincuenta hasta tres mil veces el valor de la UMA diaria vigente elevada al mes, en la fecha de la infracción.
@@ -1343,7 +1378,13 @@ Artículo reformado DOF 28-05-2009
 
 ### Artículo 82
 . No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas, así como en los supuestos de las fracciones IV y IV Bis del artículo 78 de esta Ley.
-Artículo reformado DOF 28-05-2009, 16-04-2025 TÍTULO SÉPTIMO DE LA SOLUCIÓN DE LAS CONTROVERSIAS Denominación del Título reformada y reubicado DOF 28-05-2009 (antes Título Octavo) CAPÍTULO PRIMERO DE LA INSTANCIA DE INCONFORMIDAD Denominación del Capítulo reformada DOF 28-05-2009
+Artículo reformado DOF 28-05-2009, 16-04-2025
+
+## TÍTULO SÉPTIMO — DE LA SOLUCIÓN DE LAS CONTROVERSIAS
+Denominación del Título reformada y reubicado DOF 28-05-2009 (antes Título Octavo)
+
+## CAPÍTULO PRIMERO — DE LA INSTANCIA DE INCONFORMIDAD
+Denominación del Capítulo reformada DOF 28-05-2009
 
 ### Artículo 83
 . La Secretaría conocerá de las inconformidades que se promuevan contra los actos de los procedimientos de licitación pública o invitación a cuando menos tres personas que se indican a continuación:
@@ -1555,7 +1596,10 @@ En los casos en que existan contratos derivados de los actos declarados nulos, d
 De estimarlo procedente, podrá decretarse la suspensión de los actos del procedimiento de contratación y los que de éste deriven, en términos de lo dispuesto en el último párrafo del artículo 88 de esta Ley.
 Resulta aplicable al procedimiento de intervención de oficio, en lo conducente, las disposiciones previstas para el trámite y resolución de inconformidades, con excepción de los incidentes.
 En caso de que la autoridad resuelva que los actos del procedimiento de contratación resultaron ilegales y sus efectos se hubieren consumado o bien fuere imposible retrotraerlos, dará vista a la autoridad competente para que, en su caso, investigue y sancione la posible falta administrativa de la o las personas servidoras públicas que los emitieron u ordenaron y de los particulares vinculados.
-Artículo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025 CAPÍTULO SEGUNDO DEL PROCEDIMIENTO DE CONCILIACIÓN Capítulo adicionado DOF 28-05-2009 (reubicado)
+Artículo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025
+
+## CAPÍTULO SEGUNDO — DEL PROCEDIMIENTO DE CONCILIACIÓN
+Capítulo adicionado DOF 28-05-2009 (reubicado)
 
 ### Artículo 95
 . En cualquier momento los contratistas o las dependencias y entidades podrán presentar ante la Secretaría solicitud de conciliación, por desavenencias derivadas del cumplimiento de los contratos, celebrados con base en disposiciones de esta Ley y con recursos federales.
@@ -1585,7 +1629,10 @@ Artículo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025
 ### Artículo 97
 . En el supuesto de que las partes lleguen a un acuerdo durante la conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial correspondiente. La Secretaría dará seguimiento a los acuerdos de voluntades, para lo cual las dependencias, entidades o contratistas deberán remitir un informe o reporte, según corresponda, sobre el avance de cumplimiento del mismo, en términos del Reglamento de esta Ley.
 Párrafo reformado DOF 16-04-2025 En caso de no existir acuerdo de voluntades, las partes podrán optar por cualquier vía de solución a su controversia.
-Artículo adicionado DOF 28-05-2009 CAPÍTULO TERCERO DE LOS MEDIOS DE APREMIO Capítulo adicionado DOF 28-05-2009. Denominación reformada DOF 16-04-2025
+Artículo adicionado DOF 28-05-2009
+
+## CAPÍTULO TERCERO — DE LOS MEDIOS DE APREMIO
+Capítulo adicionado DOF 28-05-2009. Denominación reformada DOF 16-04-2025
 
 ### Artículo 97
 Bis. La Secretaría, en los procedimientos de sanción, inconformidades y de conciliación a que se refiere esta Ley, podrá hacer uso de los medios de apremio que se indican a continuación, para hacer cumplir sus determinaciones:
@@ -1597,8 +1644,8 @@ II. Arresto hasta por treinta y seis horas, y
 III. Solicitar el auxilio de la fuerza pública de cualquier orden de gobierno, los que deberán de atender de inmediato el requerimiento de la autoridad.
 Artículo adicionado DOF 16-04-2025
 
-## CAPÍTULO CUARTO
-DEL ARBITRAJE, OTROS MECANISMOS DE SOLUCIÓN DE CONTROVERSIAS Y COMPETENCIA JUDICIAL Capítulo adicionado DOF 16-04-2025
+## CAPÍTULO CUARTO — DEL ARBITRAJE, OTROS MECANISMOS DE SOLUCIÓN DE CONTROVERSIAS Y
+COMPETENCIA JUDICIAL Capítulo adicionado DOF 16-04-2025
 
 ### Artículo 98
 . Se podrá convenir compromiso arbitral respecto de aquellas controversias que surjan entre las partes por interpretación a las cláusulas de los contratos o por cuestiones derivadas de su ejecución, en términos de lo dispuesto en el Título Cuarto del Libro Quinto del Código de Comercio.

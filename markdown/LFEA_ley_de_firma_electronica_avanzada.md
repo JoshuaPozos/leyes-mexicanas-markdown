@@ -12,7 +12,10 @@ SE EXPIDE LA
 
 ### Artículo Único
 Se expide la Ley de Firma Electrónica Avanzada, para quedar como sigue:
-TÍTULO PRIMERO DISPOSICIONES GENERALES CAPÍTULO ÚNICO
+
+## TÍTULO PRIMERO — DISPOSICIONES GENERALES
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 1
 . La presente Ley es de orden e interés público y tiene por objeto regular:
@@ -95,10 +98,11 @@ La Secretaría, la Secretaría de Economía y el Servicio de Administración Tri
 
 ### Artículo 6
 . A falta de disposición expresa en esta Ley o en las demás disposiciones que de ella deriven, se aplicarán supletoriamente la Ley Federal de Procedimiento Administrativo, el Código Civil Federal y el Código Nacional de Procedimientos Civiles y Familiares.
-Artículo reformado DOF 14-11-2025 TÍTULO SEGUNDO DE LA FIRMA ELECTRÓNICA AVANZADA
+Artículo reformado DOF 14-11-2025
 
-## CAPÍTULO I
-Del uso y validez de la firma electrónica avanzada
+## TÍTULO SEGUNDO — DE LA FIRMA ELECTRÓNICA AVANZADA
+
+## CAPÍTULO I — Del uso y validez de la firma electrónica avanzada
 
 ### Artículo 7
 . La firma electrónica avanzada podrá ser utilizada en documentos electrónicos y, en su caso, en mensajes de datos.
@@ -126,8 +130,7 @@ I. Un certificado digital vigente, emitido u homologado en términos de la prese
 
 II. Una clave privada, generada bajo su exclusivo control.
 
-## CAPÍTULO II
-De los documentos electrónicos y de los mensajes de datos
+## CAPÍTULO II — De los documentos electrónicos y de los mensajes de datos
 
 ### Artículo 10
 . Las dependencias y entidades en las comunicaciones y, en su caso, actos jurídicos que realicen entre las mismas, harán uso de mensajes de datos y aceptarán la presentación de documentos electrónicos, los cuales deberán contar, cuando así se requiera, con la firma electrónica avanzada del servidor público facultado para ello.
@@ -171,10 +174,10 @@ IV. Que el documento electrónico permita conservar el formato del documento imp
 
 V. Que se observe lo previsto en las disposiciones generales en materia de conservación de mensajes de datos y de los documentos electrónicos con firma electrónica avanzada.
 Lo establecido en este artículo se aplicará sin perjuicio de que las dependencias y entidades observen, conforme a la naturaleza de la información contenida en el documento impreso de que se trate, los plazos de conservación previstos en los ordenamientos aplicables.
-TÍTULO TERCERO DEL CERTIFICADO DIGITAL
 
-## CAPÍTULO I
-De la estructura y procedimientos del certificado digital
+## TÍTULO TERCERO — DEL CERTIFICADO DIGITAL
+
+## CAPÍTULO I — De la estructura y procedimientos del certificado digital
 
 ### Artículo 17
 . El certificado digital deberá contener lo siguiente:
@@ -268,8 +271,7 @@ III. Solicitar a la autoridad certificadora la revocación de su certificado dig
 
 IV. Dar aviso a la autoridad certificadora respectiva de cualquier modificación de los datos que haya proporcionado para su identificación personal, a fin de que ésta incorpore las modificaciones en los registros correspondientes y emita un nuevo certificado digital.
 
-## CAPÍTULO III
-De las autoridades certificadoras
+## CAPÍTULO III — De las autoridades certificadoras
 
 ### Artículo 23
 . La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria son consideradas autoridades certificadoras para emitir certificados digitales en términos de esta Ley.
@@ -326,8 +328,9 @@ Los convenios de coordinación que se suscriban deberán darse a conocer a las d
 ### Artículo 30
 . Los certificados digitales expedidos fuera de la República Mexicana tendrán la misma validez y producirán los mismos efectos jurídicos reconocidos en la presente Ley, siempre y cuando tales certificados sean reconocidos por las autoridades certificadoras a que se refiere el artículo 23 de la propia Ley y se garanticen, en la misma forma que lo hacen con sus propios certificados, el cumplimiento de los requisitos, el procedimiento, así como la validez y vigencia del certificado.
 
-## TÍTULO CUARTO
-DE LAS RESPONSABILIDADES Y SANCIONES CAPÍTULO ÚNICO
+## TÍTULO CUARTO — DE LAS RESPONSABILIDADES Y SANCIONES
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 31
 . Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en la presente Ley, dará lugar al procedimiento y a las sanciones que correspondan en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.

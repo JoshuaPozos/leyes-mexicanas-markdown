@@ -13,8 +13,7 @@ SE EXPIDE LA
 ### Artículo Único
 Se expide la Ley de Fomento a la Confianza Ciudadana
 
-## CAPÍTULO I
-DISPOSICIONES GENERALES
+## CAPÍTULO I — DISPOSICIONES GENERALES
 
 ### Artículo 1
 . La presente Ley es de orden público y de observancia general, se aplicará sin menoscabo de los compromisos adoptados en los organismos, acuerdos, convenios y tratados internacionales en los que los Estados Unidos Mexicanos sea parte y, tiene como objeto establecer las bases para la instrumentación de acciones y programas que las dependencias de la Administración Pública Federal deberán implementar, de acuerdo con sus atribuciones, para fomentar la confianza ciudadana, otorgando beneficios y facilidades administrativas relacionadas con la actividad económica que desempeñan las personas físicas y morales.
@@ -39,8 +38,8 @@ V. Reglamento: El Reglamento de la Ley de Fomento a la Confianza Ciudadana, y
 
 VI. Secretaría: Secretaría de Economía.
 
-## CAPÍTULO II
-DE LA INTEGRACIÓN, OPERACIÓN Y OBJETO DEL PADRÓN ÚNICO DE FOMENTO A LA CONFIANZA CIUDADANA
+## CAPÍTULO II — DE LA INTEGRACIÓN, OPERACIÓN Y OBJETO DEL PADRÓN ÚNICO DE FOMENTO A LA
+CONFIANZA CIUDADANA
 
 ### Artículo 4
 . El Padrón es un sistema de la Administración Pública Federal, que tiene como propósito la captura, almacenamiento, custodia, seguridad, consulta y administración de información concerniente a las personas beneficiarias de los programas que se instrumenten en el marco de la presente Ley. El Padrón formará parte del Catálogo Nacional de Regulaciones, Trámites y Servicios al que se refiere la Ley General de Mejora Regulatoria y será considerado como una base de datos en términos de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
@@ -76,8 +75,8 @@ Las personas podrán solicitar la lista de beneficios administrativos, de manera
 ### Artículo 9
 . La consulta al Padrón se podrá realizar de manera pública a través del portal de Internet que la Secretaría, por conducto de la Comisión, desarrolle para tal efecto. Ésta protegerá los datos personales, de acuerdo con la legislación vigente en la materia.
 
-## CAPÍTULO III
-DE LA COORDINACIÓN INSTITUCIONAL PARA EL FOMENTO DE LA CONFIANZA CIUDADANA
+## CAPÍTULO III — DE LA COORDINACIÓN INSTITUCIONAL PARA EL FOMENTO DE LA CONFIANZA
+CIUDADANA
 
 ### Artículo 10
 . La Secretaría, por conducto de la Comisión, en coordinación con las dependencias y entidades de la Administración Pública Federal, tomando en cuenta la opinión de los sectores privado y académico, definirá las actividades, esquemas y programas mediante los cuales se otorgarán los beneficios y facilidades administrativas a los que podrán tener acceso las personas beneficiarias que se registren en el Padrón.
@@ -115,14 +114,12 @@ XII. Las demás que le confieran la presente Ley y cualquier disposición juríd
 ### Artículo 13
 . En el marco de operación de la presente Ley, la Secretaría, por conducto de la Comisión, se coordinará con las dependencias y entidades de la Administración Pública Federal para suspender las actividades de vigilancia, inspección o verificación que efectúen personas inspectoras, verificadoras, ejecutoras y cualquier figura análoga adscrita a aquellas; con excepción de las actividades mencionadas que tengan por objeto resguardar la seguridad nacional, la seguridad de la población, la seguridad alimentaria, constatar que cuenten con medidas de protección civil, las que tengan como fin proteger la sanidad y la inocuidad agroalimentaria, animal y vegetal, la salud humana, el medio ambiente, los recursos naturales, los derechos e intereses del consumidor, las relativas al sector financiero y a la materia de armas de fuego y explosivos, así como la protección contra riesgos sanitarios.
 
-## CAPÍTULO IV
-DE LOS RECONOCIMIENTOS
+## CAPÍTULO IV — DE LOS RECONOCIMIENTOS
 
 ### Artículo 14
 . Aquellas personas seleccionadas de conformidad con la fracción IX del artículo 11 de esta Ley, que hayan sido sujetas a verificación y cuyo resultado corrobore el cumplimiento de sus obligaciones regulatorias y fiscales correspondientes, recibirán del Estado, por conducto del titular del Poder Ejecutivo Federal, un reconocimiento que así lo establezca.
 
-## CAPÍTULO V
-DE LAS SANCIONES
+## CAPÍTULO V — DE LAS SANCIONES
 
 ### Artículo 15
 . La persona que proporcione al Padrón información que no sea fidedigna, será sancionada. Las sanciones previstas en este Capítulo se aplicarán, sin perjuicio de cualquier otra que corresponda, en términos de las disposiciones jurídicas aplicables. Asimismo, serán sancionadas, en términos de la presente Ley, las personas beneficiarias que sean denunciadas por incurrir en malas prácticas comerciales o por funcionamiento irregular y que resulten responsables ante las autoridades competentes, mediante resolución firme.

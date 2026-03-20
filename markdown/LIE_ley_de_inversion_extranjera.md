@@ -10,8 +10,7 @@ CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexic
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 LEY DE INVERSION EXTRANJERA TITULO PRIMERO DISPOSICIONES GENERALES
 
-## Capítulo I
-Del Objeto de la Ley
+## Capítulo I — Del Objeto de la Ley
 
 ### ARTÍCULO 1o
 .- La presente Ley es de orden público y de observancia general en toda la República.
@@ -43,8 +42,7 @@ Las reglas sobre la participación de la inversión extranjera en las actividade
 Para efectos de determinar el porcentaje de inversión extranjera en las actividades económicas sujetas a límites máximos de participación, no se computará la inversión extranjera que, de manera indirecta, sea realizada en dichas actividades a través de sociedades mexicanas con mayoría de capital mexicano, siempre que estas últimas no se encuentren controladas por la inversión extranjera.
 Párrafo adicionado DOF 24-12-1996
 
-## Capítulo II
-De las Actividades Reservadas
+## Capítulo II — De las Actividades Reservadas
 
 ### ARTÍCULO 5o
 .- Están reservadas de manera exclusiva al Estado las funciones que determinen las leyes en las siguientes áreas estratégicas:
@@ -74,8 +72,7 @@ II. (Se deroga.) Fracción derogada DOF 11-08-2014 III.- Se deroga Fracción der
 Fracción derogada DOF 20-08-2008 V.- Instituciones de banca de desarrollo, en los términos de la ley de la materia; y VI.- La prestación de los servicios profesionales y técnicos que expresamente señalen las disposiciones legales aplicables.
 La inversión extranjera no podrá participar en las actividades y sociedades mencionadas en el presente artículo directamente, ni a través de fideicomisos, convenios, pactos sociales o estatutarios, esquemas de piramidación, u otro mecanismo que les otorgue control o participación alguna, salvo por lo dispuesto en el Título Quinto de esta Ley.
 
-## Capítulo III
-De las Actividades y Adquisiciones con Regulación Específica
+## Capítulo III — De las Actividades y Adquisiciones con Regulación Específica
 
 ### ARTÍCULO 7o
 .- En las actividades económicas y sociedades que se mencionan a continuación la inversión extranjera podrá participar en los porcentajes siguientes:
@@ -166,10 +163,12 @@ Fracción adicionada DOF 24-12-1996
 
 ### ARTÍCULO 9o
 .- Se requiere resolución favorable de la Comisión para que en las sociedades mexicanas donde la inversión extranjera pretenda participar, directa o indirectamente, en una proporción mayor al 49% de su capital social, únicamente cuando el valor total de activos de las sociedades de que se trate, al momento de someter la solicitud de adquisición, rebase el monto que determine anualmente la propia Comisión.
-TÍTULO SEGUNDO DE LA ADQUISICIÓN DE BIENES INMUEBLES, LA EXPLOTACIÓN DE MINAS Y AGUAS, Y DE LOS FIDEICOMISOS Denominación del Título reformada DOF 24-12-1996
 
-## Capítulo I
-De la adquisición de bienes inmuebles y explotación de minas y aguas Denominación del Capítulo reformada DOF 24-12-1996
+## TÍTULO SEGUNDO — DE LA ADQUISICIÓN DE BIENES INMUEBLES, LA EXPLOTACIÓN DE MINAS Y AGUAS, Y
+DE LOS FIDEICOMISOS Denominación del Título reformada DOF 24-12-1996
+
+## Capítulo I — De la adquisición de bienes inmuebles y explotación de minas y aguas
+Denominación del Capítulo reformada DOF 24-12-1996
 
 ### ARTÍCULO 10
 .- De conformidad con lo dispuesto por la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, las sociedades mexicanas con cláusula de exclusión de extranjeros o que hayan celebrado el convenio a que se refiere dicho precepto, podrán adquirir el dominio de bienes inmuebles en el territorio nacional.
@@ -187,8 +186,7 @@ El Instituto Nacional de Estadística, Geografía e Informática publicará en e
 La Secretaría de Relaciones Exteriores podrá determinar, mediante acuerdos generales que se publicarán en el Diario Oficial de la Federación, supuestos en los que los extranjeros, para tener el derecho a que se refiere este artículo, sólo deberán presentar ante dicha dependencia un escrito en el que convengan lo dispuesto en la fracción I del artículo 27 constitucional, sin requerir el permiso correspondiente de dicha dependencia.
 Artículo adicionado DOF 24-12-1996
 
-## Capítulo II
-De los Fideicomisos sobre Bienes Inmuebles en Zona Restringida
+## Capítulo II — De los Fideicomisos sobre Bienes Inmuebles en Zona Restringida
 
 ### ARTÍCULO 11
 .- Se requiere permiso de la Secretaría de Relaciones Exteriores para que instituciones de crédito adquieran como fiduciarias, derechos sobre bienes inmuebles ubicados dentro del la zona restringida, cuando el objeto del fideicomiso sea permitir la utilización y el aprovechamiento de tales bienes sin constituir derechos reales sobre ellos, y los fideicomisarios sean:
@@ -238,8 +236,7 @@ Toda solicitud que cumpla con los requisitos mencionados, deberá otorgarse dent
 La Secretaría deberá remitir a la Secretaría de Relaciones Exteriores una copia de las solicitudes y de las autorizaciones que otorgue con base en este artículo.
 Artículo adicionado DOF 24-12-1996 TITULO QUINTO DE LA INVERSION NEUTRA
 
-## Capítulo I
-Del Concepto de Inversión Neutra
+## Capítulo I — Del Concepto de Inversión Neutra
 
 ### ARTÍCULO 18
 .- La inversión neutra es aquella realizada en sociedades mexicanas o en fideicomisos autorizados conforme al presente Título y no se computará para determinar el porcentaje de inversión extranjera en el capital social de sociedades mexicanas.
@@ -252,16 +249,15 @@ De la Inversión Neutra Representada por Instrumentos Emitidos por las Instituci
 La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para otorgar o negar la autorización solicitada, contado a partir del día siguiente al de la presentación de la solicitud. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 Párrafo adicionado DOF 24-12-1996
 
-## Capítulo III
-De la Inversión Neutra Representada por Series Especiales de Acciones
+## Capítulo III — De la Inversión Neutra Representada por Series Especiales de Acciones
 
 ### ARTÍCULO 20
 .- Se considera neutra la inversión en acciones sin derecho a voto o con derechos corporativos limitados, siempre que obtengan previamente la autorización de la Secretaría y, cuando resulte aplicable, de la Comisión Nacional Bancaria y de Valores.
 La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para otorgar o negar la autorización solicitada, contado a partir del día siguiente al de la presentación de la solicitud. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 Artículo reformado DOF 24-12-1996
 
-## Capítulo IV
-De la Inversión Neutra en Sociedades Controladoras de Grupos Financieros, Instituciones de Banca Múltiple y Casas de Bolsa
+## Capítulo IV — De la Inversión Neutra en Sociedades Controladoras de Grupos Financieros,
+Instituciones de Banca Múltiple y Casas de Bolsa
 
 ### ARTÍCULO 21
 .- (Se deroga) Artículo derogado DOF 24-12-1996
@@ -273,8 +269,7 @@ De la Inversión Neutra realizada por Sociedades Financieras Internacionales par
 .- La Comisión podrá resolver sobre la inversión neutra que pretendan realizar sociedades financieras internacionales para el desarrollo en el capital social de sociedades, de acuerdo a los términos y condiciones que para el efecto se establezcan en el reglamento de esta Ley.
 TITULO SEXTO DE LA COMISION NACIONAL DE INVERSIONES EXTRANJERAS
 
-## Capítulo I
-De la Estructura de la Comisión
+## Capítulo I — De la Estructura de la Comisión
 
 ### ARTÍCULO 23
 .- La Comisión estará integrada por los Secretarios de Gobernación; de Relaciones Exteriores; de Hacienda y Crédito Público; de Bienestar; de Medio Ambiente y Recursos Naturales; de Energía; de Economía; de Infraestructura, Comunicaciones y Transportes; de Trabajo y Previsión Social, así como de Turismo, quienes podrán designar a un Subsecretario como suplente. Asimismo, se podrá invitar a participar en las sesiones de la Comisión a aquellas autoridades y representantes de los sectores privado y social que tengan relación con los asuntos a tratar, quienes tendrán voz, pero no voto.
@@ -289,8 +284,7 @@ Artículo reformado DOF 27-05-2024
 .- El Comité de Representantes estará integrado por el servidor público designado por cada uno de los Secretarios de Estado que integran la Comisión, se reunirá cuatrimestralmente, cuando menos, y tendrá las facultades que le delegue la propia Comisión.
 Artículo reformado DOF 24-12-1996
 
-## Capítulo II
-De las Atribuciones de la Comisión
+## Capítulo II — De las Atribuciones de la Comisión
 
 ### ARTÍCULO 26
 .- La Comisión tendrá las siguientes atribuciones:
@@ -306,8 +300,7 @@ II.- Notificar las resoluciones de la Comisión, a través de la Secretaría;
 III.- Realizar los estudios que le encomiende la Comisión;
 IV.- Presentar al Congreso de la Unión un informe estadístico cuatrimestral sobre el comportamiento de la inversión extranjera en el país, que incluya los sectores económicos y las regiones en las que ésta se ubica; y Fracción reformada DOF 24-12-1996 V.- Las demás que le correspondan conforme a esta Ley.
 
-## Capítulo III
-De la Operación de la Comisión
+## Capítulo III — De la Operación de la Comisión
 
 ### ARTÍCULO 28
 .- La Comisión deberá resolver las solicitudes sometidas a su consideración dentro de un plazo que no excederá de 45 días hábiles contados a partir de la fecha de presentación de la solicitud respectiva, en los términos establecidos en el Reglamento de la presente Ley.

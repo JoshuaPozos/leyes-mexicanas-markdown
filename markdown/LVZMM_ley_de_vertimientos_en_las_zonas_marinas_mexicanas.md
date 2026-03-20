@@ -107,8 +107,7 @@ VI. Materiales orgánicos de origen natural, y
 VII. Objetos voluminosos constituidos principalmente por hierro, acero, hormigón y materiales igualmente no perjudiciales en relación con los cuales el impacto físico sea el motivo de preocupación, y solamente en aquellas circunstancias en que esos desechos se produzcan en lugares, tales como islas pequeñas con comunidades aisladas, en que no haya acceso práctico a otras opciones de evacuación que no sean el vertimiento.
 Artículo adicionado DOF 13-04-2020
 
-## Capítulo II
-De la Autoridad
+## Capítulo II — De la Autoridad
 
 ### Artículo 5
 .- La Secretaría es la autoridad en materia de vertimientos y tendrá las siguientes facultades:
@@ -289,8 +288,7 @@ III. Los desechos que contengan determinadas sustancias que causen reacciones bi
 .- Cuando se pretenda verter volúmenes menores a tres metros cúbicos de materiales geológicos inertes no contaminados o inorgánico inertes, el interesado presentará ante la Secretaría su proyecto y ésta efectuará el análisis y de considerarlo procedente, lo exentará por una sola ocasión del trámite de permiso.
 En caso de que se llegue a verter material en volumen superior al manifestado en el proyecto, se considerará como no autorizado y se hará acreedor a las sanciones previstas en la presente Ley.
 
-## Capítulo IV
-De los Permisos
+## Capítulo IV — De los Permisos
 
 ### Artículo 18
 .- La Secretaría otorgará permiso para vertimiento a personas físicas o morales de nacionalidad mexicana o extranjeras, previo el cumplimiento de los requisitos que se establecen en la presente Ley, conforme a las Normas Oficiales Mexicanas, o en su caso, en función de la evaluación de los resultados de los estudios técnicos e información científica aplicable en la materia, que deberá presentar el interesado.
@@ -369,8 +367,7 @@ El interesado se ajustará a las disposiciones que le sean indicadas. En caso de
 ### Artículo 26
 .- La Secretaría por si misma o a solicitud del interesado, podrá modificar los términos y condiciones del permiso de vertimiento, cuando varíen las condiciones bajo las cuales le fue expedido o se presenten hechos o circunstancias posteriores, no imputables al interesado, que impliquen modificación de los términos en que fue otorgado el permiso, conforme al procedimiento establecido en la presente Ley.
 
-## Capítulo V
-De las Obligaciones Adicionales en materia de Vertimientos
+## Capítulo V — De las Obligaciones Adicionales en materia de Vertimientos
 
 ### Artículo 27
 .- Adicionalmente a los requisitos que establece la presente ley, el interesado deberá cumplir con lo siguiente:
@@ -387,8 +384,7 @@ V. Entregará, según el caso y por el tiempo que señale la Secretaría, un inf
 
 VI. Suspenderá las actividades de vertimiento ante la presencia de un fenómeno meteorológico que por su magnitud e intensidad pudiera causar daños a los ecosistemas, y procederá de la misma forma cuando el vertimiento por sí mismo provoque las mismas consecuencias.
 
-## Capítulo VI
-De las Visitas de Inspección y Vigilancia
+## Capítulo VI — De las Visitas de Inspección y Vigilancia
 
 ### Artículo 28
 .- Personal acreditado de la Secretaría, llevará a cabo las visitas de inspección y vigilancia para el cumplimiento de la presente Ley, así como el Decreto Promulgatorio del Protocolo de 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias, 1972.
@@ -475,8 +471,7 @@ XIII. Manifestación del personal con quien se atendió la diligencia, y
 
 XIV. Nombre y firma de quienes intervinieron en la diligencia.
 
-## Sección I
-De las Medidas Preventivas
+## Sección I — De las Medidas Preventivas
 
 ### Artículo 35
 .- Son medidas preventivas las adoptadas por la Secretaría en las zonas marinas mexicanas, tendentes a evitar la contaminación o alteración del ambiente marino o afectación a la salud humana, a consecuencia de vertimiento de desechos y otras materias, incluyendo la suspensión del vertimiento.
@@ -498,8 +493,7 @@ Tratándose de la destrucción o hundimiento de aeronaves, la Secretaría se coo
 .- La Secretaría queda facultada para requerir la información que sea necesaria que le permita ubicar tuberías, instalaciones, estructuras o construcciones submarinas que por su naturaleza y que por las condiciones en que se encuentran, pudiesen ocasionar vertimientos.
 La información que le sea proporcionada tendrá el carácter que conforme a la normatividad vigente le corresponda.
 
-## Sección II
-De las Infracciones y Sanciones
+## Sección II — De las Infracciones y Sanciones
 
 ### Artículo 41
 .- Son infracciones a la presente Ley, las siguientes:
@@ -572,8 +566,7 @@ VII. Que se hayan cometido diversas infracciones.
 Se procederá de igual manera, cuando se presente documentación falsa para obtener una autorización de vertimiento.
 La Secretaría proporcionará los dictámenes técnicos, cuando el Ministerio Público o las autoridades judiciales, así lo soliciten.
 
-## Sección III
-Del Procedimiento
+## Sección III — Del Procedimiento
 
 ### Artículo 48
 .- Para imponer una sanción, la Secretaría deberá notificar previamente al presunto infractor del inicio del procedimiento, mediante oficio en el que se especificarán los hechos y las disposiciones legales que se consideran violadas y, en su caso, las disposiciones que el permisionario debe cumplir para subsanar los daños ocasionados al ecosistema marino; para que éste, dentro del término de quince días hábiles contados a partir del día hábil siguiente al en que sea hecha la notificación manifieste lo que a su derecho convenga y ofrezca pruebas.
@@ -597,8 +590,7 @@ Los plazos empezarán a correr a partir del día siguiente a aquél en que haya 
 ### Artículo 52
 .- Toda notificación deberá efectuarse en el plazo máximo de diez días hábiles, a partir de la emisión del acto y deberá contener el texto íntegro del mismo.
 
-## Sección IV
-De la Cancelación
+## Sección IV — De la Cancelación
 
 ### Artículo 53
 .- La Secretaría le notificará al interesado, o a su representante legal, la cancelación del permiso, lo cual no lo exime de las responsabilidades contraídas con terceros o con autoridades Federales, Estatales o Municipales durante la vigencia del mismo. La cancelación del permiso de vertimiento será definitiva para quien no cumpla con esta Ley.
@@ -620,8 +612,7 @@ VI. Transferir el permiso, y
 
 VII. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, así como en materia ambiental.
 
-## Sección V
-De las Excepciones
+## Sección V — De las Excepciones
 
 ### Artículo 55
 .- No se hará acreedor a ninguna sanción, quien haya realizado vertimiento por caso fortuito o fuerza mayor, siempre y cuando se justifique la acción implementada a satisfacción de la Secretaría.
@@ -630,8 +621,7 @@ Lo anterior no lo exime de la obligación de reparar, compensar, remediar o rest
 ### Artículo 56
 .- Quien lleve a cabo un vertimiento por alguna de las causas señaladas en el artículo anterior, deberá rendir un informe detallado a la Secretaría, justificando la realización del mismo. La contravención a lo dispuesto en este artículo, aun tratándose de siniestros, será considerado un vertimiento y se aplicarán las sanciones que establece la presente Ley.
 
-## Capítulo VII
-De la Responsabilidad
+## Capítulo VII — De la Responsabilidad
 
 ### Artículo 57
 .- Las personas que realicen un vertimiento en violación a las disposiciones legales aplicables, asumirán la responsabilidad de reparar la afectación o daño ambiental al medio marino, de acuerdo a la Ley Federal de Responsabilidad Ambiental, sin perjuicio de la aplicación de las sanciones administrativas, penales o civiles que procedan, mediante las acciones de remediación que resulten aplicables, restituyendo el ambiente marino, al estado que guardaba antes del vertimiento o cuando esto no fuere posible, mediante el pago de una indemnización que será cuantificada por la Secretaría en función de la afectación o daño causado al medio marino.

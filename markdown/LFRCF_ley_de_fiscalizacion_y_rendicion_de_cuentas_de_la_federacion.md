@@ -12,7 +12,10 @@ SE EXPIDE LA  ; Y SE REFORMAN EL ARTÍCULO 49 DE LA LEY DE COORDINACIÓN FISCAL,
 
 ### ARTÍCULO PRIMERO
 Se expide la Ley de Fiscalización y Rendición de Cuentas de la Federación.
-TÍTULO PRIMERO Disposiciones Generales Capítulo Único
+
+## TÍTULO PRIMERO — Disposiciones Generales
+
+## Capítulo Único
 
 ### Artículo 1
 .- La presente Ley es de orden público y tiene por objeto reglamentar los artículos 73 fracción XXIV, 74, fracciones II y VI, y 79 de la Constitución Política de los Estados Unidos Mexicanos en materia de revisión y fiscalización de:
@@ -161,10 +164,10 @@ I. El flujo contable de ingresos y egresos al 30 de junio del año en que se eje
 II. El avance del cumplimiento de los programas con base en los indicadores aprobados en el Presupuesto de Egresos.
 Lo anterior, sin perjuicio de lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 La Auditoría Superior de la Federación realizará un análisis del Informe de Avance de Gestión Financiera 30 días posteriores a la fecha de su presentación y lo entregará a la Comisión.
-TÍTULO SEGUNDO De la Fiscalización de la Cuenta Pública
 
-## Capítulo I
-De la Fiscalización de la Cuenta Pública
+## TÍTULO SEGUNDO — De la Fiscalización de la Cuenta Pública
+
+## Capítulo I — De la Fiscalización de la Cuenta Pública
 
 ### Artículo 13
 .- La Cuenta Pública será presentada en el plazo previsto en el artículo 74, fracción VI, de la Constitución Política de los Estados Unidos Mexicanos y, conforme a lo que establece el artículo 53 de la Ley General de Contabilidad Gubernamental.
@@ -357,8 +360,7 @@ No se podrán contratar trabajos de auditoría externos o cualquier otro servici
 ### Artículo 32
 .- La Auditoría Superior de la Federación será responsable subsidiaria de los daños y perjuicios que en términos de este capítulo, causen los servidores públicos de la misma y los despachos o profesionales independientes, contratados para la práctica de auditorías, sin perjuicio de que la Auditoría Superior de la Federación promueva las acciones legales que correspondan en contra de los responsables.
 
-## Capítulo II
-Del contenido del Informe General y su análisis
+## Capítulo II — Del contenido del Informe General y su análisis
 
 ### Artículo 33
 .- La Auditoría Superior de la Federación tendrá un plazo que vence el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, para rendir el Informe General correspondiente a la Cámara, por conducto de la Comisión, mismo que tendrá carácter público.
@@ -383,8 +385,7 @@ VI. Un apartado que contenga un análisis sobre las proyecciones de las finanzas
 
 VII. La demás información que se considere necesaria.
 
-## Capítulo III
-De los Informes Individuales
+## Capítulo III — De los Informes Individuales
 
 ### Artículo 35
 .- Los informes individuales de auditoría que concluyan durante el periodo respectivo deberán ser entregados a la Cámara, por conducto de la Comisión, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública.
@@ -417,8 +418,7 @@ En dicho informe, la Auditoría Superior de la Federación dará a conocer el se
 Respecto de los pliegos de observaciones, en dicho informe se dará a conocer el número de pliegos emitidos, su estatus procesal y las causas que los motivaron.
 En cuanto a las denuncias penales formuladas ante la Fiscalía Especializada o las autoridades competentes, en dicho informe la Auditoría Superior de la Federación dará a conocer la información actualizada sobre la situación que guardan las denuncias penales, el número de denuncias presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia así como, en su caso, la pena impuesta.
 
-## Capítulo IV
-De las Acciones y Recomendaciones derivadas de la Fiscalización
+## Capítulo IV — De las Acciones y Recomendaciones derivadas de la Fiscalización
 
 ### Artículo 39
 .- El Titular de la Auditoría Superior de la Federación enviará a las entidades fiscalizadas, dentro de un plazo de 10 días hábiles siguientes a que haya sido entregado a la Cámara, el informe individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de 30 días hábiles, presenten la información y realicen las consideraciones pertinentes.
@@ -453,8 +453,7 @@ Dentro de los 30 días posteriores a la conclusión del plazo a que se refiere e
 ### Artículo 43
 .- La Auditoría Superior de la Federación, podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el Tribunal; así como la denuncia de hechos ante la Fiscalía Especializada, la denuncia de juicio político ante la Cámara, o los informes de presunta responsabilidad administrativa ante el órgano interno de control competente, en los términos del Título Quinto de esta Ley.
 
-## Capítulo V
-De la conclusión de la revisión de la Cuenta Pública
+## Capítulo V — De la conclusión de la revisión de la Cuenta Pública
 
 ### Artículo 44
 .- La Comisión realizará un análisis de los informes individuales, en su caso, de los informes específicos, y del Informe General y lo enviará a la Comisión de Presupuesto. A este efecto y a juicio de la Comisión, se podrá solicitar a las comisiones ordinarias de la Cámara una opinión sobre aspectos o contenidos específicos de dichos informes, en términos de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y el Reglamento Interior de la Cámara de Diputados.
@@ -468,10 +467,11 @@ La Comisión podrá formular recomendaciones a la Auditoría Superior de la Fede
 .- La Comisión de Presupuesto estudiará el Informe General, el análisis de la Comisión a que se refiere esta Ley y el contenido de la Cuenta Pública. Asimismo, la Comisión de Presupuesto someterá a votación del Pleno el dictamen correspondiente a más tardar el 31 de octubre del año siguiente al de la presentación de la Cuenta Pública.
 El dictamen deberá contar con el análisis pormenorizado de su contenido y estar sustentado en conclusiones técnicas del Informe General y recuperando las discusiones técnicas realizadas en la Comisión, para ello acompañará a su Dictamen, en un apartado de antecedentes, el análisis realizado por la Comisión.
 La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría Superior de la Federación, mismas que seguirán el procedimiento previsto en esta Ley.
-TÍTULO TERCERO De la fiscalización de recursos federales administrados o ejercidos por órdenes de gobierno locales y por particulares, así como de las participaciones federales
 
-## Capítulo I
-De la Fiscalización del Gasto Federalizado
+## TÍTULO TERCERO
+De la fiscalización de recursos federales administrados o ejercidos por órdenes de gobierno locales y por particulares, así como de las participaciones federales
+
+## Capítulo I — De la Fiscalización del Gasto Federalizado
 
 ### Artículo 47
 .- La Auditoría Superior de la Federación fiscalizará, conforme al programa anual de auditoría que deberá aprobar y publicar en el Diario Oficial de la Federación, directamente los recursos federales que administren o ejerzan las entidades federativas, los municipios y las alcaldías de la Ciudad de México; asimismo, fiscalizará directamente los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
@@ -484,8 +484,7 @@ La Auditoría Superior de la Federación revisará el origen de los recursos con
 .- Cuando se acrediten afectaciones a la Hacienda Pública Federal o al patrimonio de los entes públicos federales de las entidades federativas, municipios o alcaldías de la Ciudad de México, la Auditoría Superior de la Federación procederá a formularles el pliego de observaciones correspondiente.
 Asimismo, en los casos en que sea procedente en términos del Título Quinto de esta Ley, la unidad administrativa a cargo de las investigaciones de la Auditoría Superior de la Federación promoverá el informe de presunta responsabilidad administrativa para la imposición de las sanciones correspondientes.
 
-## Capítulo II
-De la Fiscalización de las Participaciones Federales
+## Capítulo II — De la Fiscalización de las Participaciones Federales
 
 ### Artículo 50
 .- La Auditoría Superior de la Federación fiscalizará las participaciones federales conforme a la facultad establecida en el artículo 79, fracción I, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
@@ -520,8 +519,8 @@ La Auditoría Superior de la Federación llevará a cabo de manera directa las a
 Lo anterior sin perjuicio de que la Auditoría Superior de la Federación podrá llevar a cabo directamente la fiscalización de participaciones federales independientemente del mecanismo de coordinación que hubiere celebrado o implementado. Asimismo, la Auditoría Superior de la Federación informará de manera semestral a la Comisión, respecto de los mecanismos de coordinación celebrados, así como de los resultados del desempeño de las autoridades fiscalizadoras locales correspondientes con las que se coordinó.
 Sin perjuicio de lo establecido en el presente Capítulo, la Auditoría Superior de la Federación podrá, en los términos previstos en el Título Cuarto de esta Ley, fiscalizar la gestión financiera correspondiente al ejercicio fiscal en curso o respecto a años anteriores.
 
-## Capítulo III
-De la Fiscalización Superior de la Deuda Pública de las Entidades Federativas y Municipios que cuenten con Garantía del Gobierno Federal.
+## Capítulo III — De la Fiscalización Superior de la Deuda Pública de las Entidades Federativas y
+Municipios que cuenten con Garantía del Gobierno Federal.
 
 ### Artículo 52
 .- La Auditoría Superior de la Federación, respecto de las garantías que, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, otorgue el Gobierno Federal sobre los financiamientos y otras obligaciones contratados por los Estados y Municipios, deberá fiscalizar:
@@ -619,7 +618,9 @@ La Auditoría Superior de la Federación, deberá reportar en los informes corre
 
 ### Artículo 66
 .- Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a la Ley General de Responsabilidades Administrativas procedan ni de otras que se deriven de la revisión de la Cuenta Pública.
-TÍTULO QUINTO De la Determinación de Daños y Perjuicios y del Fincamiento de Responsabilidades
+
+## TÍTULO QUINTO
+De la Determinación de Daños y Perjuicios y del Fincamiento de Responsabilidades
 
 ## Capítulo I
 De la Determinación de Daños y Perjuicios contra la Hacienda Pública Federal o al patrimonio de los entes públicos
@@ -669,8 +670,7 @@ Asimismo, los órganos internos de control deberán informar a la Auditoría Sup
 ### Artículo 74
 .- La Auditoría Superior de la Federación, en los términos de la Ley General del Sistema Nacional Anticorrupción, incluirá en la plataforma nacional digital establecida en dicha ley, la información relativa a los servidores públicos y particulares sancionados por resolución definitiva firme, por la comisión de faltas administrativas graves o actos vinculados a éstas a que hace referencia el presente Capítulo.
 
-## Capítulo II
-Del Recurso de Reconsideración
+## Capítulo II — Del Recurso de Reconsideración
 
 ### Artículo 75
 .- La tramitación del recurso de reconsideración, en contra de las multas impuestas por la Auditoría Superior de la Federación, se sujetará a las disposiciones siguientes:
@@ -691,8 +691,7 @@ Una vez desahogada la prevención, la Auditoría Superior de la Federación, en 
 ### Artículo 77
 .- La interposición del recurso suspenderá la ejecución de la multa recurrida, siempre y cuando el recurrente garantice en cualesquiera de las formas establecidas por el Código Fiscal de la Federación el pago de la multa.
 
-## Capítulo III
-De la Prescripción de Responsabilidades
+## Capítulo III — De la Prescripción de Responsabilidades
 
 ### Artículo 78
 .- La acción para fincar responsabilidades e imponer las sanciones por faltas administrativas graves prescribirá en siete años.
@@ -701,7 +700,11 @@ En todos los casos, la prescripción a que alude este precepto se interrumpirá 
 
 ### Artículo 79
 .- Las responsabilidades distintas a las mencionadas en el artículo anterior, que resulten por actos u omisiones, prescribirán en la forma y tiempo que fijen las leyes aplicables.
-TÍTULO SEXTO De las Funciones de la Cámara de Diputados en la Fiscalización de la Cuenta Pública Capítulo Único De la Comisión
+
+## TÍTULO SEXTO
+De las Funciones de la Cámara de Diputados en la Fiscalización de la Cuenta Pública
+
+## Capítulo Único — De la Comisión
 
 ### Artículo 80
 .- Para los efectos de lo dispuesto en la fracción II y en el último párrafo de la fracción VI, del artículo 74 constitucional, la Cámara contará con la Comisión que tendrá las atribuciones de coordinar las relaciones entre aquélla y la Auditoría Superior de la Federación; evaluar el desempeño de esta última; constituir el enlace que permita garantizar la debida coordinación entre ambos órganos, y solicitarle que le informe sobre la evolución de sus trabajos de fiscalización.
@@ -747,7 +750,9 @@ XVII. Las demás que establezcan esta Ley y demás disposiciones legales aplicab
 
 ### Artículo 82
 .- La Comisión presentará directamente a la Auditoría Superior de la Federación un informe que contenga las observaciones y las recomendaciones que se deriven del ejercicio de las atribuciones que esta Ley le confiere en materia de evaluación de su desempeño a más tardar el 30 de mayo del año en que presente el Informe General. La Auditoría Superior de la Federación dará cuenta de su atención al presentar el Informe General del ejercicio siguiente.
-TÍTULO SÉPTIMO Organización de la Auditoría Superior de la Federación
+
+## TÍTULO SÉPTIMO
+Organización de la Auditoría Superior de la Federación
 
 ## Capítulo I
 Integración y Organización
@@ -942,8 +947,7 @@ Son trabajadores de base los que desempeñan labores en puestos no incluidos en 
 ### Artículo 101
 .- La relación jurídica de trabajo se entiende establecida entre la Auditoría Superior de la Federación, a través de su Titular y los trabajadores a su servicio para todos los efectos.
 
-## Capítulo II
-De la vigilancia de la Auditoría Superior de la Federación
+## Capítulo II — De la vigilancia de la Auditoría Superior de la Federación
 
 ### Artículo 102
 .- La Comisión, a través de la Unidad, vigilará que el Titular de la Auditoría Superior de la Federación, los auditores especiales y los demás servidores públicos de la Auditoría Superior de la Federación en el desempeño de sus funciones, se sujetarán a lo establecido en la Ley General de Responsabilidades Administrativas y a las demás disposiciones legales aplicables.
@@ -1015,7 +1019,10 @@ El reglamento de la Unidad que expida la Cámara establecerá la competencia de 
 ### Artículo 109
 .- Los servidores públicos de la Unidad serán personal de confianza y deberán cumplir los perfiles académicos de especialidad que se determinen en su Reglamento, preferentemente en materias de fiscalización, evaluación del desempeño y control.
 El ingreso a la Unidad será mediante concurso público.
-TÍTULO OCTAVO De la Contraloría Social Capítulo Único
+
+## TÍTULO OCTAVO — De la Contraloría Social
+
+## Capítulo Único
 
 ### Artículo 110
 .- La Comisión recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas por la Auditoría Superior de la Federación en el programa anual de auditorías y cuyos resultados deberán ser considerados en los informes individuales y, en su caso, en el Informe General. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley General del Sistema Nacional Anticorrupción, debiendo el Auditor Superior de la Federación informar a la Comisión, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.

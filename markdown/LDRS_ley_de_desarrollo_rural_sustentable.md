@@ -8,7 +8,8 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 7 de diciembre de 2001 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-TÍTULO PRIMERO DEL OBJETO Y APLICACIÓN DE LA LEY
+
+## TÍTULO PRIMERO — DEL OBJETO Y APLICACIÓN DE LA LEY
 
 ### Artículo 1o
 .- La presente Ley es reglamentaria de la Fracción XX del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y es de observancia general en toda la República.
@@ -159,10 +160,11 @@ Para el cumplimiento de lo anterior, la Comisión Intersecretarial, con la parti
 
 ### Artículo 11
 .- Las acciones para el desarrollo rural sustentable mediante obras de infraestructura y de fomento de las actividades económicas y de generación de bienes y servicios dentro de todas las cadenas productivas en el medio rural, se realizarán conforme a criterios de preservación, restauración, aprovechamiento sustentable de los recursos naturales y la biodiversidad, así como prevención y mitigación del impacto ambiental.
-TÍTULO SEGUNDO DE LA PLANEACIÓN Y COORDINACIÓN DE LA POLÍTICA PARA EL DESARROLLO RURAL SUSTENTABLE
 
-## CAPÍTULO I
-De la Planeación del Desarrollo Rural Sustentable
+## TÍTULO SEGUNDO — DE LA PLANEACIÓN Y COORDINACIÓN DE LA POLÍTICA PARA EL DESARROLLO RURAL
+SUSTENTABLE
+
+## CAPÍTULO I — De la Planeación del Desarrollo Rural Sustentable
 
 ### Artículo 12
 .- Corresponde al Estado la rectoría del desarrollo nacional y la conducción de la política de desarrollo rural sustentable, las cuales se ejercerán por conducto de las dependencias y entidades del Gobierno Federal y mediante los convenios que éste celebre con los gobiernos de las entidades federativas, y a través de éstos, con los gobiernos municipales según lo dispuesto por el artículo 25 de la Constitución.
@@ -249,8 +251,7 @@ La participación del Consejo Mexicano, junto con la Comisión Intersecretarial,
 .- El Consejo Mexicano y los demás organismos e instancias de representación de los diversos agentes y actores de la sociedad rural, serán los encargados de promover que en el ámbito de las entidades federativas, los municipios y regiones, se tenga la más amplia participación de las organizaciones y demás agentes y sujetos del sector, como bases de una acción descentralizada en la planeación, seguimiento, actualización y evaluación de los programas de fomento agropecuario y de desarrollo rural sustentable a cargo del Gobierno Federal.
 Para cumplir con sus funciones el Consejo Mexicano formará comisiones de trabajo en los temas sustantivos materia de la presente Ley.
 
-## CAPÍTULO II
-De la Coordinación para el Desarrollo Rural Sustentable
+## CAPÍTULO II — De la Coordinación para el Desarrollo Rural Sustentable
 
 ### Artículo 19
 .- Con objeto de que la gestión pública que se realice para cumplir esta Ley constituya una acción integral del Estado en apoyo al desarrollo rural sustentable, el Ejecutivo Federal, por conducto de la Comisión Intersecretarial, coordinará las acciones y programas de las dependencias y entidades, relacionadas con el desarrollo rural sustentable.
@@ -323,8 +324,7 @@ XIV. Servicio Nacional de Arbitraje del Sector Rural; y
 XV. Servicio Nacional de Capacitación y Asistencia Técnica Rural Integral.
 La Comisión Intersecretarial con la participación del Consejo Mexicano, determinará los lineamientos generales de operación y los integrantes de los sistemas y servicios previstos en este artículo, acorde con la normatividad constitucional y legal vigentes.
 
-## CAPÍTULO III
-De la Federalización y la Descentralización
+## CAPÍTULO III — De la Federalización y la Descentralización
 
 ### Artículo 23
 .- El federalismo y la descentralización de la gestión pública serán criterios rectores para la puesta en práctica de los programas de apoyo para el desarrollo rural sustentable.
@@ -383,8 +383,7 @@ XI. La participación de los gobiernos de las entidades federativas en la admini
 ### Artículo 28
 .- Los convenios que celebren las dependencias y entidades del sector público federal con los gobiernos de las entidades federativas, deberán prever la constitución de mecanismos y, en su caso, figuras asociativas para la administración de los recursos presupuestales que destine el Gobierno Federal a los programas de apoyo, en los que participen también los gobiernos de las entidades federativas y de los municipios; así como disposiciones para la entrega directa de los apoyos económicos a los beneficiarios, quienes serán los responsables de llevar a cabo la contratación o adquisición de los bienes y servicios que requieran para la realización de las inversiones objeto de los apoyos.
 
-## CAPÍTULO IV
-De los Distritos de Desarrollo Rural
+## CAPÍTULO IV — De los Distritos de Desarrollo Rural
 
 ### Artículo 29
 .- Los Distritos de Desarrollo Rural serán la base de la organización territorial y administrativa de las dependencias de la Administración Pública Federal y Descentralizada, para la realización de los programas operativos de la Administración Pública Federal que participan en el Programa Especial Concurrente y los Programas Sectoriales que de él derivan, así como con los gobiernos de las entidades federativas y municipales y para la concertación con las organizaciones de productores y los sectores social y privado.
@@ -426,10 +425,10 @@ XI. Constituirse en la fuente principal de obtención y difusión de cifras y es
 XII. Apoyar la participación plena de los municipios en la planeación, definición de prioridades, operación y evaluación de las acciones del desarrollo rural sustentable; y
 
 XIII. Las demás que les asignen esta Ley, los reglamentos de la misma y los convenios que conforme a dichos ordenamientos se celebren.
-TÍTULO TERCERO DEL FOMENTO AGROPECUARIO Y DE DESARROLLO RURAL SUSTENTABLE
 
-## CAPÍTULO I
-Del Fomento a las Actividades Económicas del Desarrollo Rural
+## TÍTULO TERCERO — DEL FOMENTO AGROPECUARIO Y DE DESARROLLO RURAL SUSTENTABLE
+
+## CAPÍTULO I — Del Fomento a las Actividades Económicas del Desarrollo Rural
 
 ### Artículo 32
 .- El Ejecutivo Federal, con la participación de los gobiernos de las entidades federativas y de los municipios y los sectores social y privado del medio rural, impulsará las actividades económicas en el ámbito rural.
@@ -467,8 +466,7 @@ XIII. La conservación y mejoramiento de los suelos y demás recursos naturales;
 
 XIV. Las demás que se deriven del cumplimiento de esta Ley.
 
-## CAPÍTULO II
-De la Investigación y la Transferencia Tecnológica
+## CAPÍTULO II — De la Investigación y la Transferencia Tecnológica
 
 ### Artículo 33
 . La Comisión Intersecretarial, con la participación del Consejo Mexicano, integrará la Política Nacional de Investigación para el Desarrollo Rural Sustentable, la cual será de carácter multidisciplinario e interinstitucional considerando las prioridades nacionales, estatales y regionales; asimismo, llevará a cabo la programación y coordinación nacional en esta materia, con base en lo dispuesto en la Ley Orgánica de la Administración Pública Federal, en la Ley de Ciencia y Tecnología y en el Plan Nacional de Desarrollo y en los demás ordenamientos aplicables, tomando en consideración las necesidades que planteen los productores y demás agentes de la sociedad rural.
@@ -559,8 +557,7 @@ Para lo anterior, el Programa Especial Concurrente incluirá en el Presupuesto d
 ### Artículo 40
 .- En relación con los organismos genéticamente modificados, el Gobierno Federal, a través del organismo especializado en dicha materia, promoverá y regulará la investigación, y en su caso, será responsable del manejo y la utilización de tales materiales, con observancia estricta de los criterios de bioseguridad, inocuidad y protección de la salud que formule el Ejecutivo Federal con la participación de las dependencias y entidades competentes y de los productores agropecuarios en el marco de la legislación aplicable.
 
-## CAPÍTULO III
-De la Capacitación y Asistencia Técnica
+## CAPÍTULO III — De la Capacitación y Asistencia Técnica
 
 ### Artículo 41
 .- Las acciones en materia de cultura, capacitación, investigación, asistencia técnica y transferencia de tecnología son fundamentales para el fomento agropecuario y el desarrollo rural sustentable y se consideran responsabilidad de los tres órdenes de gobierno y de los sectores productivos, mismas que se deberán cumplir en forma permanente y adecuada a los diferentes niveles de desarrollo y consolidación productiva y social. El Gobierno Federal desarrollará la política de capacitación a través del Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral, atendiendo la demanda de la población rural y sus organizaciones.
@@ -677,9 +674,7 @@ VII. Representantes de las instituciones educativas y de desarrollo tecnológico
 
 VIII. La representación de las autoridades agropecuarias y desarrollo rural de las Entidades Federativas; y
 
-IX. Las instituciones para el fomento de la investigación agropecuaria y forestal a que se refiere el
-
-## Capítulo II de este Título Tercero.
+IX. Las instituciones para el fomento de la investigación agropecuaria y forestal a que se refiere el Capítulo II de este Título Tercero.
 
 ### Artículo 49
 .- El Gobierno Federal deberá promover la capacitación vinculada a proyectos específicos y con base en necesidades locales precisas, considerando la participación y las necesidades de los productores de los sectores privado y social, sobre el uso sustentable de los recursos naturales, el manejo de tecnologías apropiadas, formas de organización con respeto a los valores culturales, el desarrollo de empresas rurales, las estrategias y búsquedas de mercados y el financiamiento rural.
@@ -704,8 +699,7 @@ III. El desarrollo de unidades de producción demostrativas como instrumentos de
 IV. La preservación y recuperación de las prácticas y los conocimientos tradicionales vinculados al aprovechamiento sustentable de los recursos naturales, su difusión, el intercambio de experiencias, la capacitación de campesino a campesino, y entre los propios productores y agentes de la sociedad rural, y las formas directas de aprovechar el conocimiento, respetando usos y costumbres, tradición y tecnologías en el caso de los pueblos y comunidades indígenas y afromexicanas.
 Fracción reformada DOF 01-04-2024
 
-## CAPÍTULO IV
-De la Reconversión Productiva Sustentable
+## CAPÍTULO IV — De la Reconversión Productiva Sustentable
 
 ### Artículo 53
 .- Los gobiernos federal y estatales estimularán la reconversión, en términos de estructura productiva sustentable, incorporación de cambios tecnológicos, y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad y soberanía alimentarias y al óptimo uso de las tierras mediante apoyos e inversiones complementarias.
@@ -775,8 +769,7 @@ III. La adopción de tecnologías sustentables ahorradoras de energía; y
 
 IV. La modernización de infraestructura y equipo que eleve su competitividad.
 
-## CAPÍTULO V
-De la Capitalización Rural, Compensaciones y Pagos Directos
+## CAPÍTULO V — De la Capitalización Rural, Compensaciones y Pagos Directos
 
 ### Artículo 60
 .- El Gobierno Federal promoverá la Capitalización de las Actividades Productivas y de Servicios del Sector Rural, para lo cual establecerá en los Programas Sectoriales correspondientes y el Programa Especial Concurrente, instrumentos y mecanismos financieros que fomenten la inversión de los sectores público, privado y social.
@@ -881,8 +874,7 @@ Los apoyos a la comercialización, que el Gobierno Federal canalice para compens
 ### Artículo 80
 .- El Gobierno Federal creará un programa de apoyo directo a los productores en condiciones de pobreza, que tendrá como objetivo mejorar el ingreso de los productores de autoconsumo, marginales y de subsistencia. El ser sujeto de los apoyos al ingreso, no limita a los productores el acceso a los otros programas públicos.
 
-## CAPÍTULO VI
-De la Infraestructura Hidroagrícola, Electrificación y Caminos Rurales
+## CAPÍTULO VI — De la Infraestructura Hidroagrícola, Electrificación y Caminos Rurales
 
 ### Artículo 81
 .- El Gobierno Federal, en los términos del Programa Especial Concurrente, impulsará la inversión y programará la expansión de la infraestructura hidroagrícola, su modernización y tecnificación, considerándola como instrumento fundamental para el impulso del desarrollo rural sustentable, mediante el aprovechamiento racional de los recursos hidráulicos del país.
@@ -930,8 +922,7 @@ III. Límites de extensión u otros, para poder recibir el apoyo, así como los 
 
 IV. Forma de resolver las controversias que se originen con motivo de los apoyos mediante la intervención de los distritos de desarrollo rural.
 
-## CAPÍTULO VIII
-De la Sanidad Agropecuaria
+## CAPÍTULO VIII — De la Sanidad Agropecuaria
 
 ### Artículo 91
 .- En materia de sanidad vegetal, salud animal y lo relativo a los organismos genéticamente modificados, la política se orientará a reducir los riesgos para la producción agropecuaria y la salud pública, fortalecer la productividad agropecuaria y facilitar la comercialización nacional e internacional de los productos.
@@ -994,8 +985,7 @@ En el cumplimiento de las acciones incluidas en los objetivos que enumera este a
 ### Artículo 103
 .- Las disposiciones reglamentarias que expida el Ejecutivo Federal y las de orden administrativo que acuerde la Comisión Intersecretarial, así como los convenios que se celebren al respecto, determinarán los mecanismos institucionales de su participación y los convenios que deban celebrarse con las Entidades Federativas del país, en los términos de la legislación aplicable.
 
-## CAPÍTULO X
-De la Comercialización
+## CAPÍTULO X — De la Comercialización
 
 ### Artículo 104
 .- Se promoverá y apoyará la comercialización agropecuaria y demás bienes y servicios que se realicen en el ámbito de las regiones rurales, mediante esquemas que permitan coordinar los esfuerzos de las diversas dependencias y entidades públicas, de los agentes de la sociedad rural y sus organizaciones económicas, con el fin de lograr una mejor integración de la producción primaria con los procesos de comercialización, acreditando la condición sanitaria, de calidad e inocuidad, el carácter orgánico o sustentable de los productos y procesos productivos y elevando la competitividad de las cadenas productivas, así como impulsar la formación y consolidación de las empresas comercializadoras y de los mercados que a su vez permitan asegurar el abasto interno y aumentar la competitividad del sector, en concordancia con las normas y tratados internacionales aplicables en la materia.
@@ -1066,8 +1056,7 @@ Bis.- El Gobierno Federal, en coordinación con los gobiernos de las entidades f
 En concordancia con las atribuciones conferidas en la Ley Orgánica de la Administración Pública Federal y en esta Ley, la Secretaría de Economía, en coordinación con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y con las demás dependencias que determine la Comisión Intersecretarial integrará, administrará y actualizará el Padrón de Comercializadores Confiables, de conformidad con las disposiciones jurídicas que emita para tal efecto la Secretaría de Economía.
 Artículo adicionado DOF 28-01-2011
 
-## CAPÍTULO XI
-Del Sistema Nacional de Financiamiento Rural
+## CAPÍTULO XI — Del Sistema Nacional de Financiamiento Rural
 
 ### Artículo 116
 .- La política de financiamiento para el desarrollo rural sustentable se orientará a establecer un sistema financiero múltiple en sus modalidades, instrumentos, instituciones y agentes, que permita a los productores de todos los estratos y a sus organizaciones económicas y empresas sociales disponer de recursos financieros adaptados, suficientes, oportunos y accesibles para desarrollar exitosamente sus actividades económicas.
@@ -1144,8 +1133,7 @@ IV. El cumplimiento de los programas y apoyos gubernamentales a que se refieren 
 .- El Gobierno Federal realizará esfuerzos de coordinación en materia de financiamiento rural, entre la banca de desarrollo e instituciones del sector público especializadas; la banca comercial y organismos privados de financiamiento y la banca social y organismos financieros de los productores rurales, reconociéndolos en los términos de la legislación aplicable.
 El Gobierno Federal establecerá las medidas para dar viabilidad al desarrollo de la banca social.
 
-## CAPÍTULO XII
-De la Administración de Riesgos
+## CAPÍTULO XII — De la Administración de Riesgos
 
 ### Artículo 124
 .- La Comisión Intersecretarial promoverá el cambio tecnológico impulsando esquemas de riesgo compartido con los productores y demás agentes del sector rural, para lo cual, a través de las dependencias competentes, procurará proveer los instrumentos y recursos públicos necesarios y, además, promoverá un esquema diferenciado en apoyo a las zonas del país con menor desarrollo.
@@ -1184,8 +1172,7 @@ Los apoyos que se otorguen para la reconversión productiva deberán ser conside
 ### Artículo 133
 .- El Gobierno Federal procurará apoyos, que tendrán como propósito compensar al productor y demás agentes de la sociedad rural por desastres naturales en regiones determinadas y eventuales contingencias de mercado, cuyas modalidades y mecanismos de apoyo serán definidos por las diferentes dependencias y órdenes de gobierno participantes del programa especial concurrente.
 
-## CAPÍTULO XIII
-De la Información Económica y Productiva
+## CAPÍTULO XIII — De la Información Económica y Productiva
 
 ### Artículo 134
 .- Con objeto de proveer de información oportuna a los productores y agentes económicos que participan en la producción y en los mercados agropecuarios e industriales y de servicio, el Gobierno Federal implantará el Sistema Nacional de Información para el Desarrollo Rural Sustentable, con componentes Económicos, de Estadística Agropecuaria, de recursos naturales, tecnología, servicios técnicos, Industrial y de Servicios del sector, en coordinación con los gobiernos de las entidades federativas y con base en lo dispuesto por la Ley de Información Estadística y Geográfica.
@@ -1256,8 +1243,7 @@ La regionalización comprenderá a las áreas geográficas de los distritos de D
 ### Artículo 142
 .- La Secretaría en coordinación con las dependencias y entidades de los gobiernos federal, estatales y municipales que convergen para el efecto, brindará a los diversos agentes de la sociedad rural el apoyo para su inscripción en el padrón único de organizaciones y sujetos beneficiarios del sector rural, de acuerdo con el artículo anterior.
 
-## CAPÍTULO XIV
-De la Organización Económica y los Sistemas Producto
+## CAPÍTULO XIV — De la Organización Económica y los Sistemas Producto
 
 ### Artículo 143
 .- El Gobierno Federal, mediante mecanismos de coordinación, con los gobiernos de las entidades federativas y de los municipios, promoverá y fomentará el desarrollo del capital social en el medio rural a partir del impulso a la asociación y la organización económica y social de los productores y demás agentes de la sociedad rural, quienes tendrán el derecho de asociarse libre, voluntaria y democráticamente, debiendo, las organizaciones que, en su caso, se integren conforme a lo anterior, ser representativas, transparentes y rendir cuentas, con el objetivo de procurar la promoción y articulación de las cadenas de producción-consumo para lograr una vinculación eficiente y equitativa entre los agentes del desarrollo rural sustentable. Lo anterior, dando prioridad a los sectores de población más débiles económica y socialmente y a sus organizaciones, a través de:
@@ -1352,8 +1338,7 @@ Los comités de Sistema-Producto estarán representados en el Consejo Mexicano m
 ### Artículo 153
 .- La Comisión Intersecretarial, con la participación del Consejo Mexicano, establecerá los lineamientos para el Programa Nacional de Fomento a la Organización Económica del Sector Rural.
 
-## CAPÍTULO XV
-Del Bienestar Social y la Atención Prioritaria a las Zonas de Marginación
+## CAPÍTULO XV — Del Bienestar Social y la Atención Prioritaria a las Zonas de Marginación
 
 ### Artículo 154
 .- Los programas del Gobierno Federal, impulsarán una adecuada integración de los factores del bienestar social como son la salud, la seguridad social, la educación, la alimentación, la vivienda, la equidad de género, la atención a los jóvenes, personas de la tercera edad, grupos vulnerables, jornaleros agrícolas y migrantes, los derechos de los pueblos y comunidades indígenas y afromexicanas, la cultura y la recreación; mismos que deberán aplicarse con criterios de equidad.
@@ -1429,8 +1414,7 @@ XII. La producción y desarrollo de mercados para productos no tradicionales.
 ### Artículo 163
 .- La Comisión Intersecretarial, con la participación del Consejo Mexicano, propondrá programas especiales para la defensa de los derechos humanos y el apoyo a la población migrante, así como medidas tendientes a su arraigo en su lugar de origen.
 
-## CAPÍTULO XVI
-De la Sustentabilidad de la Producción Rural
+## CAPÍTULO XVI — De la Sustentabilidad de la Producción Rural
 
 ### Artículo 164
 .- La sustentabilidad será criterio rector en el fomento a las actividades productivas, a fin de lograr el uso racional de los recursos naturales, su preservación y mejoramiento, al igual que la viabilidad económica de la producción mediante procesos productivos socialmente aceptables.
@@ -1484,8 +1468,7 @@ Artículo reformado DOF 01-04-2024
 ### Artículo 177
 .- Los contratos para los efectos del cuidado y la protección de la naturaleza, en los Silvestre requerirán autorización de la Secretaría de Medio Ambiente y Recursos Naturales para tener validez legal.
 
-## CAPÍTULO XVII
-De la Seguridad y Soberanía Alimentaria
+## CAPÍTULO XVII — De la Seguridad y Soberanía Alimentaria
 
 ### Artículo 178
 .- El Estado establecerá las medidas para procurar el abasto de alimentos y productos básicos y estratégicos a la población, promoviendo su acceso a los grupos sociales menos favorecidos y dando prioridad a la producción nacional.
@@ -1569,8 +1552,7 @@ VI. Las demás que determinen sus reglas.
 .- La Comisión Intersecretarial apoyará al Servicio Nacional de Arbitraje del Sector Rural para que su cobertura alcance a las regiones con mayores necesidades del servicio y otorgará la aprobación de las unidades de arbitraje en los términos del marco normativo del servicio y de conformidad con la Ley Federal sobre Metrología y Normalización. Igualmente, podrán establecerse juntas permanentes de arbitraje para Sistemas-Producto en particular, siempre que los gastos que ello origine sean aportados por los intervinientes en la cadena productiva.
 La Comisión Intersecretarial, a través de la instancia correspondiente según sea el caso, prestará el servicio de arbitraje para casos o productos específicos, mediante acuerdos que emita al respecto el titular del ramo.
 
-## TÍTULO CUARTO
-DE LOS APOYOS ECONÓMICOS
+## TÍTULO CUARTO — DE LOS APOYOS ECONÓMICOS
 
 ### Artículo 187
 .- La Comisión Intersecretarial, con la participación del Consejo Mexicano, propondrá la asignación de estímulos fiscales a las acciones de producción, reconversión, industrialización e inversión que se realicen en el medio rural en el marco de las disposiciones de la presente Ley y la normatividad aplicable.

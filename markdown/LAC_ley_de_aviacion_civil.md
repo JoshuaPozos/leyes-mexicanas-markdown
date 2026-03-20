@@ -10,8 +10,7 @@ ERNESTO ZEDILLO PONCE DE LEON, Presidente Constitucional de los Estados Unidos M
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 LEY DE AVIACION CIVIL
 
-## Capítulo I
-Disposiciones generales
+## Capítulo I — Disposiciones generales
 
 ### Artículo 1
 . La presente Ley es de orden público y tiene por objeto regular la explotación, el uso o aprovechamiento del espacio aéreo situado sobre el territorio nacional, respecto de la prestación y desarrollo de los servicios de transporte aéreo civil y de Estado.
@@ -143,8 +142,8 @@ a) Las de propiedad o uso de la Federación distintas de las militares; las de l
 b) Las militares, que son las destinadas o en posesión del Ejército, Armada y Fuerza Aérea Nacionales.
 Artículo reformado DOF 28-12-2001, 03-05-2023
 
-## Capítulo II
-De la Autoridad de Aviación Civil Denominación del Capítulo reformada DOF 03-05-2023
+## Capítulo II — De la Autoridad de Aviación Civil
+Denominación del Capítulo reformada DOF 03-05-2023
 
 ### Artículo 6
 . Corresponde a la Secretaría, en materia de aviación civil y aeroportuaria, el ejercicio de las atribuciones siguientes:
@@ -349,8 +348,10 @@ II. Verificar que los talleres aeronáuticos y centros de capacitación y adiest
 III. Emitir opinión en la expedición de medidas y normas respecto del tráfico aéreo que afecte la protección del espacio aéreo.
 Artículo adicionado DOF 03-05-2023
 
-## Capítulo III
-De las concesiones, asignaciones y permisos Denominación del Capítulo reformada DOF 03-05-2023 Sección Primera De las concesiones
+## Capítulo III — De las concesiones, asignaciones y permisos
+Denominación del Capítulo reformada DOF 03-05-2023
+
+## Sección Primera — De las concesiones
 
 ### Artículo 9
 . Se requiere de concesión que otorgue la Secretaría para prestar el servicio público de transporte aéreo nacional regular. Tal concesión sólo se otorgará a personas morales mexicanas.
@@ -376,13 +377,17 @@ II. Lo solicite a más tardar un año antes de su conclusión;
 III. Hubiere realizado un mejoramiento en la calidad de los servicios prestados durante la vigencia de la concesión, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen en los reglamentos respectivos y demás disposiciones aplicables, y
 
 IV. Acepte las nuevas condiciones que establezca la Secretaría, con base en esta Ley.
-Sección Primera Bis De las asignaciones Sección adicionada DOF 03-05-2023
+
+## Sección Primera — Bis
+De las asignaciones Sección adicionada DOF 03-05-2023
 
 ### Artículo 10
 Bis. La persona titular de la Secretaría puede otorgar títulos de asignación a las entidades paraestatales de la Administración Pública Federal para prestar el servicio público de transporte aéreo nacional regular.
 La vigencia del título de asignación será por tiempo indefinido, y solo termina cuando se acredite fehacientemente que ya no existe causa de utilidad pública, interés público, interés general, interés social que salvaguardar, o por razones de seguridad nacional que la justifiquen.
 La entidad asignataria tendrá las mismas obligaciones que tengan las personas concesionarias de acuerdo con esta Ley y sus reglamentos, pero no puede transmitir sus derechos y obligaciones a terceras personas físicas o morales privadas.
-Artículo adicionado DOF 03-05-2023 Sección Segunda De los permisos
+Artículo adicionado DOF 03-05-2023
+
+## Sección Segunda — De los permisos
 
 ### Artículo 11
 . Los servicios de transporte aéreo sujetos a permiso son los siguientes:
@@ -405,7 +410,9 @@ Párrafo adicionado DOF 26-01-2015. Reformado DOF 18-06-2018, 03-05-2023 Se podr
 Párrafo adicionado DOF 03-05-2023 En el caso de las fracciones I, III y IV los permisos se otorgarán por plazo indefinido. En el caso de la fracción II, los permisos podrán otorgarse por un plazo indefinido siempre y cuando existan convenios internacionales recíprocos con este fin. Si esto no fuera así, los permisos se otorgarán por un plazo máximo de un año.
 Párrafo reformado DOF 18-06-2018 En el reglamento correspondiente se precisarán los requisitos para la obtención de los permisos a que se refiere este artículo.
 En el caso de los permisos de taller aeronáutico y los certificados de producción, la vigencia será de dos años.
-Párrafo adicionado DOF 20-05-2021 Sección Tercera Disposiciones comunes
+Párrafo adicionado DOF 20-05-2021
+
+## Sección Tercera — Disposiciones comunes
 
 ### Artículo 12
 . Las concesiones y los permisos se otorgarán a las personas que cumplan con los requisitos establecidos en esta Ley y sus reglamentos.
@@ -527,8 +534,10 @@ La Agencia Federal de Aviación Civil autorizará la cesión total o parcial de 
 Las personas concesionarias o permisionarias en ningún caso pueden ceder, ni en forma alguna gravar, transferir o enajenar la concesión o el permiso o los derechos conferidos en los títulos respectivos a ningún Estado extranjero.
 Artículo reformado DOF 03-05-2023
 
-## Capítulo IV
-Del servicio de transporte aéreo Sección Primera Generalidades
+## Capítulo IV — Del servicio de transporte aéreo
+
+## Sección Primera
+Generalidades
 
 ### Artículo 17
 . En la prestación de los servicios de transporte aéreo se deberán adoptar las medidas necesarias para garantizar las condiciones máximas de seguridad de la aeronave y de su operación, a fin de proteger la integridad física de los usuarios y de sus bienes, así como la de terceros.
@@ -539,7 +548,8 @@ Bis. Las prácticas de cabotaje por parte de permisionarios extranjeros en terri
 Párrafo publicado íntegro sin cambios DOF 03-05-2023 Los propietarios extranjeros de aeronaves no mexicanas destinadas para uso particular tienen prohibido realizar prácticas de cabotaje.
 Únicamente el permisionario mexicano que preste servicio de transporte aéreo internacional bajo la modalidad de taxi aéreo o de fletamento puede transportar entre dos o más puntos en territorio nacional a los pasajeros, carga, correo o una combinación de éstos que hayan embarcado en un punto en el extranjero.
 Artículo adicionado DOF 20-05-2021 Nota: El Decreto DOF 03-05-2023 al reformar el artículo 17 Bis no da cuenta de las líneas de puntos para señalar la permanencia de sus párrafos segundo y tercero. Sin embargo, la instrucción del Decreto señala de forma expresa que se reforma el artículo 17 Bis, “párrafo primero”.
-Sección Segunda Del servicio al público de transporte aéreo
+
+## Sección Segunda — Del servicio al público de transporte aéreo
 
 ### Artículo 18
 . El servicio al público de transporte aéreo podrá ser: nacional o internacional; regular o no regular, y de pasajeros, carga o correo.
@@ -610,7 +620,10 @@ Artículo reformado DOF 03-05-2023
 
 ### Artículo 26
 . Las personas concesionarias, asignatarias o permisionarias regulares deben enviar a la Agencia Federal de Aviación Civil, para su conocimiento, los acuerdos comerciales y de cooperación que celebren entre sí o con aerolíneas extranjeras, dentro de un plazo de treinta días contados a partir de la celebración de los mismos.
-Artículo reformado DOF 18-06-2018, 03-05-2023 Sección Tercera De los servicios aéreos a terceros Denominación de la Sección reformada DOF 03-05-2023
+Artículo reformado DOF 18-06-2018, 03-05-2023
+
+## Sección Tercera — De los servicios aéreos a terceros
+Denominación de la Sección reformada DOF 03-05-2023
 
 ### Artículo 27
 . Se consideran servicios aéreos a terceros aquellos que se prestan con fines de lucro a una o más personas físicas o morales, distintas de las propietarias o poseedoras de la misma aeronave.
@@ -620,8 +633,8 @@ En el caso de que se presten servicios aéreos a terceros con aeronaves extranje
 Las permisionarias extranjeras que presten servicios aéreos a terceros tienen prohibido realizar prácticas de cabotaje en territorio nacional. Esta disposición también aplica para las operadoras de aeronaves para uso particular.
 Artículo reformado DOF 26-01-2015, 03-05-2023
 
-## Sección Cuarta
-De las operaciones de aeronaves para uso particular Denominación de la Sección reformada DOF 03-05-2023
+## Sección Cuarta — De las operaciones de aeronaves para uso particular
+Denominación de la Sección reformada DOF 03-05-2023
 
 ### Artículo 28
 . La operación de las aeronaves para uso particular es aquella que se realiza sin fines de lucro; no requiere de permiso, pero debe contar con los certificados de matrícula y de aeronavegabilidad, así como con póliza de seguro vigente.
@@ -638,14 +651,15 @@ Párrafo reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado ínteg
 ### Artículo 30
 . Los aerostatos, aeronaves ultraligeras, ligeras deportivas, experimentales, sistema de aeronaves pilotadas a distancia u otras análogas, con o sin motor, que no presten servicio público, deben registrarse ante la Agencia Federal de Aviación Civil y sujetarse a lo establecido en las disposiciones técnico-administrativas respectivas.
 Las personas operadoras de aeronaves privadas, los clubes aéreos y de aeromodelismo, así como las personas físicas que practiquen deportes aéreos, se sujetan a los reglamentos derivados de esta Ley y a las disposiciones técnico-administrativas que expida la Agencia Federal de Aviación Civil.
-Artículo reformado DOF 28-12-2001, 03-05-2023 Sección Quinta De las aeronaves de Estado
+Artículo reformado DOF 28-12-2001, 03-05-2023
+
+## Sección Quinta — De las aeronaves de Estado
 
 ### Artículo 31
 . La operación de las aeronaves de Estado no requerirá permiso; se ajustará a la obtención de los certificados de matrícula y de aeronavegabilidad correspondientes, y deberá contar con póliza de seguro.
 Las aeronaves militares se regirán para su operación por las disposiciones aplicables en específico a las mismas, sin perjuicio de lo dispuesto por el artículo 37 de esta Ley.
 
-## Capítulo V
-De las operaciones
+## Capítulo V — De las operaciones
 
 ### Artículo 32
 . Toda aeronave, para realizar vuelos, debe llevar a bordo la información aeronáutica necesaria para sus operaciones, la póliza de seguro, así como los certificados de aeronavegabilidad y de matrícula vigentes o copia certificada de estos.
@@ -699,8 +713,7 @@ Quater. Toda persona concesionaria, asignataria o permisionaria de servicio al p
 Dicho certificado se debe emitir de conformidad con las normas oficiales mexicanas y las disposiciones técnico-administrativas que emita la Secretaría o la Agencia Federal de Aviación Civil, según corresponda.
 Artículo adicionado DOF 03-05-2023
 
-## Capítulo VI
-Del tránsito aéreo
+## Capítulo VI — Del tránsito aéreo
 
 ### Artículo 35
 . De acuerdo con las reglas de vuelo por instrumentos, para la navegación en el espacio aéreo, es obligatorio utilizar los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáutica, así como los servicios de despacho e información de vuelos que preste la Secretaría o, en su caso, la persona facultada por esta. Asimismo, es obligatorio hacer uso del sistema de aerovías indicado en la Publicación de Información Aeronáutica de México.
@@ -718,8 +731,9 @@ Párrafo reformado DOF 03-05-2023
 . Las operaciones de aeronaves militares en cualquier parte del espacio aéreo situado sobre el territorio nacional, a excepción de las áreas restringidas para su operación exclusiva, se sujetarán a las disposiciones de tránsito aéreo de esta Ley. En el caso de infracciones, se informará a las Secretarías de la Defensa y de Marina, según corresponda, para los efectos que procedan.
 Por razones de seguridad nacional o de orden público, la Secretaría ejercerá sus atribuciones relativas a la navegación en el espacio aéreo en coordinación con las autoridades civiles o militares que correspondan.
 
-## Capítulo VII
-Del personal técnico aeronáutico Sección Primera Disposiciones comunes
+## Capítulo VII — Del personal técnico aeronáutico
+
+## Sección Primera — Disposiciones comunes
 
 ### Artículo 38
 . El personal técnico-aeronáutico está constituido por el personal de vuelo que interviene directamente en la operación de la aeronave y por el personal de tierra, cuyas funciones se especifiquen en el reglamento correspondiente. Dicho personal debe, además de ser mexicano por nacimiento, no adquirir otra nacionalidad y contar con las licencias respectivas.
@@ -741,7 +755,9 @@ Párrafo adicionado DOF 03-05-2023
 Las personas instructoras que impartan la capacitación y el adiestramiento deben contar con registro ante la Agencia Federal de Aviación Civil o ante la institución educativa extranjera para la cual presten sus servicios.
 La Agencia Federal de Aviación Civil, sin perjuicio de las atribuciones que correspondan a la Secretaría del Trabajo y Previsión Social, en coordinación con otras autoridades federales competentes, determinará los lineamientos generales aplicables para la definición de aquellos conocimientos, habilidades y destrezas que requieran de certificación, para garantizar la seguridad en la prestación de los servicios aéreos y aeroportuarios. Dicha certificación se sujetará al régimen que las autoridades señaladas establezcan.
 En la determinación de los lineamientos generales antes citados, las autoridades competentes establecerán procedimientos que consideren las propuestas y operaciones de las personas concesionarias, asignatarias y permisionarias.
-Artículo reformado DOF 26-01-2015, 03-05-2023 Sección Segunda Del comandante de la aeronave
+Artículo reformado DOF 26-01-2015, 03-05-2023
+
+## Sección Segunda — Del comandante de la aeronave
 
 ### Artículo 40
 .- Toda aeronave deberá contar con un comandante o piloto al mando, quien será la máxima autoridad a bordo y el responsable de su operación y dirección y de mantener el orden y la seguridad de la aeronave, de los tripulantes, pasajeros, equipaje, carga y correo. El comandante de las aeronaves de servicio al público deberá ser mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
@@ -755,8 +771,7 @@ El comandante registrará en el libro de bitácora los hechos que puedan tener c
 Las personas concesionarias, asignatarias, permisionarias y operadoras aéreas son responsables solidarias con la persona comandante o piloto al mando por cualquier orden dictada en contravención a lo dispuesto por esta Ley, sus reglamentos, normas oficiales mexicanas y por las disposiciones técnicoadministrativas correspondientes. Para el caso de las operaciones de aeronaves para uso particular, la persona comandante o piloto al mando es responsable solidaria con la propietaria o poseedora de la aeronave.
 Artículo reformado DOF 26-01-2015, 20-05-2021, 03-05-2023
 
-## Capítulo VIII
-De las tarifas
+## Capítulo VIII — De las tarifas
 
 ### Artículo 42
 . Las personas concesionarias, asignatarias, o permisionarias fijarán libremente las tarifas por los servicios que presten, en términos que permitan la prestación de los servicios en condiciones satisfactorias de calidad, competitividad, seguridad y permanencia.
@@ -781,8 +796,7 @@ Artículo adicionado DOF 26-06-2017
 Párrafo reformado DOF 03-05-2023 La Agencia Federal de Aviación Civil podrá establecer tarifas específicas para la prestación de los servicios, así como mecanismos de ajuste y periodos de vigencia.
 Párrafo reformado DOF 03-05-2023 Los concesionarios y permisionarios sujetos a tal regulación podrán solicitar a la Comisión Federal de Competencia que emita opinión sobre la aplicación y subsistencia de tales condiciones.
 
-## Capítulo IX
-De la matrícula de las aeronaves
+## Capítulo IX — De la matrícula de las aeronaves
 
 ### Artículo 44
 . Toda aeronave civil deberá llevar marcas distintivas de su nacionalidad y matrícula. Las aeronaves mexicanas deberán ostentar además, la bandera nacional.
@@ -813,8 +827,7 @@ V. Por matricularse en otro Estado, y
 
 VI. Por cualquiera otra causa que señalen los reglamentos respectivos.
 
-## Capítulo X
-Del Registro Aeronáutico Mexicano
+## Capítulo X — Del Registro Aeronáutico Mexicano
 
 ### Artículo 47
 . El Registro Aeronáutico Mexicano es público, está a cargo de la Agencia Federal de Aviación Civil, y deben inscribirse:
@@ -835,8 +848,8 @@ V. Las pólizas de seguro, y Fracción reformada DOF 18-06-2018
 VI. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre las aeronaves civiles pilotadas a distancia conforme a lo especificado en la norma oficial mexicana correspondiente.
 Fracción adicionada DOF 18-06-2018 El reglamento respectivo determinará los requisitos a que deberán sujetarse las inscripciones, las cancelaciones y las certificaciones que deban expedirse.
 
-## Capítulo X Bis
-De los derechos y las obligaciones de los pasajeros Capítulo adicionado DOF 26-06-2017
+## Capítulo X Bis — De los derechos y las obligaciones de los pasajeros
+Capítulo adicionado DOF 26-06-2017
 
 ### Artículo 47
 Bis. La persona concesionaria, asignataria o permisionaria están obligadas a proporcionar un servicio eficiente y de calidad a las personas pasajeras.
@@ -936,8 +949,9 @@ IV. Ocupar el asiento asignado, a menos que la tripulación por un requerimiento
 V. Las demás que establezcan la Ley y demás ordenamientos.
 Artículo adicionado DOF 26-06-2017
 
-## Capítulo XI
-De los contratos Sección Primera De los contratos de transporte aéreo
+## Capítulo XI — De los contratos
+
+## Sección Primera — De los contratos de transporte aéreo
 
 ### Artículo 48
 . Los contratos de servicio de transporte aéreo podrán referirse a pasajeros, carga o correo.
@@ -1006,8 +1020,9 @@ Sección segunda Del contrato de fletamento de aeronaves
 . El fletante responderá exclusivamente ante el fletador por el incumplimiento de las obligaciones pactadas entre ellos, y además será responsable por los daños que se produzcan a las personas, carga o correo transportados en su aeronave o a los causados a terceros en la superficie por ésta, así como por aquéllos que se ocasionen por los abordajes en que la propia aeronave intervenga.
 El fletador responderá por la realización y la calidad del transporte, ante las personas que hubieren contratado los servicios en paquete por él ofrecidos, inclusive cuando utilice agentes o intermediarios que actúen por cuenta y a nombre del propio fletador.
 
-## Capítulo XII
-De la responsabilidad por daños Sección Primera De los daños a pasajeros, equipaje y carga
+## Capítulo XII — De la responsabilidad por daños
+
+## Sección Primera — De los daños a pasajeros, equipaje y carga
 
 ### Artículo 61
 . Los concesionarios o permisionarios de los servicios de transporte aéreo nacional, serán responsables por los daños causados a los pasajeros, a la carga y al equipaje en el transporte.
@@ -1061,7 +1076,8 @@ d) Cuando sean falsas las declaraciones o instrucciones del embarcador, del cons
 
 ### artículo 67
 anterior. La nulidad de tales cláusulas no implicará la del contrato de transporte.
-Sección Segunda De los daños a terceros
+
+## Sección Segunda — De los daños a terceros
 
 ### Artículo 70
 . Cuando por la operación de una aeronave, por objetos desprendidos de la misma o por abordaje, se causen daños a personas o cosas que se encuentren en la superficie, nacerá la responsabilidad con sólo establecer la existencia del daño y su causa.
@@ -1087,8 +1103,7 @@ Párrafo reformado DOF 03-05-2023
 ### Artículo 73
 . Las acciones para exigir las indemnizaciones a que se refiere esta sección, prescribirán en un año a partir de la fecha en la cual ocurrieron los hechos.
 
-## Capítulo XIII
-De los seguros aéreos
+## Capítulo XIII — De los seguros aéreos
 
 ### Artículo 74
 . Las personas concesionarias, asignatarias o permisionarias y, en el caso de las operaciones de aeronaves para uso particular, las personas propietarias o poseedoras de aeronaves, que transiten en el espacio aéreo nacional, deben contratar y mantener vigente un seguro que cubra las responsabilidades por los daños a las personas pasajeras, a la carga, al equipaje facturado o a terceras personas en la operación de las aeronaves.
@@ -1102,8 +1117,7 @@ Artículo reformado DOF 03-05-2023
 . Las reclamaciones por daños deben hacerse valer ante la persona concesionaria, asignataria o permisionaria y, en el caso de las operaciones de aeronaves para uso particular, ante la persona propietaria o poseedora de la aeronave, de acuerdo con las disposiciones del reglamento respectivo.
 Artículo reformado DOF 03-05-2023
 
-## Capítulo XIV
-De la protección del ambiente
+## Capítulo XIV — De la protección del ambiente
 
 ### Artículo 76
 . Las personas concesionarias, asignatarias y permisionarias y, en el caso de las operaciones para uso particular, la persona propietaria o poseedora de las aeronaves que sobrevuelen, aterricen o despeguen en territorio nacional, deben observar las disposiciones que correspondan en materia de protección al medio ambiente; particularmente, en relación con la homologación de ruido y emisión de contaminantes. Asimismo, deben reportar a la Agencia Federal de Aviación Civil, en el periodo y en la forma en que la misma determine, las medidas operativas, técnicas y económicas que hayan adoptado para cumplir con las disposiciones en materia de protección al medio ambiente.
@@ -1115,8 +1129,7 @@ Artículo reformado DOF 21-05-2013, 03-05-2023
 Bis. La persona titular de la Secretaría, por sí o a propuesta de la Agencia Federal de Aviación Civil, celebrará convenios o acuerdos de coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, para promover la eficiencia en las operaciones e infraestructura aeroportuaria, con el fin de reducir el ruido y las emisiones contaminantes en los servicios de transporte aéreo.
 Artículo adicionado DOF 21-05-2013. Reformado DOF 03-05-2023
 
-## Capítulo XV
-Del abandono de aeronaves
+## Capítulo XV — Del abandono de aeronaves
 
 ### Artículo 77
 . La Agencia Federal de Aviación Civil está facultada para hacer la declaratoria de abandono de aeronaves cuando:
@@ -1353,7 +1366,7 @@ Las personas proveedoras de servicio que cuenten con una aprobación otorgada en
 La aprobación, o documentación equivalente a lo establecido en los artículos anteriores, que sea expedida por una Autoridad de Aviación Civil Extranjera, serán convalidados por la Agencia Federal de Aviación Civil, siempre y cuando ese país cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional.
 Artículo adicionado DOF 03-05-2023
 
-## Capítulo XV Quater
+## Capítulo XV — Quater
 De la Seguridad de la Aviación Civil Capítulo adicionado DOF 03-05-2023
 
 ### Artículo 78
@@ -1437,8 +1450,7 @@ Novodecies. La persona concesionaria, asignataria, permisionaria u operadora del
 La Agencia Federal de Aviación Civil remitirá la información a la que se refiere el párrafo anterior a la Organización de Aviación Civil Internacional.
 Artículo adicionado DOF 03-05-2023
 
-## Capítulo XVI
-De los accidentes y de la búsqueda y salvamento
+## Capítulo XVI — De los accidentes y de la búsqueda y salvamento
 
 ### Artículo 79
 . Las personas concesionarias, asignatarias, operadoras aéreas, o permisionarias y, en el caso de las operaciones de aeronaves para uso particular, las personas propietarias o poseedoras de aeronaves, deben contar con los equipos técnicos y con el personal capacitado, necesario, para la prevención de accidentes e incidentes aéreos.
@@ -1521,8 +1533,8 @@ II. Cuando transcurridos treinta días desde la fecha en que se tuvieron las úl
 La Agencia Federal de Aviación Civil declarará la pérdida y cancelará las inscripciones correspondientes.
 Párrafo reformado DOF 03-05-2023
 
-## Capítulo XVI Bis
-De la investigación administrativa (regulatory investigation) Capítulo adicionado DOF 03-05-2023
+## Capítulo XVI Bis — De la investigación administrativa (regulatory investigation)
+Capítulo adicionado DOF 03-05-2023
 
 ### Artículo 82
 Bis. La Agencia Federal de Aviación Civil llevará a cabo la investigación administrativa de conformidad con el reglamento correspondiente y las disposiciones técnico-administrativas que se emitan para tal efecto, con la finalidad de determinar administrativamente la responsabilidad en los accidentes o incidentes que se hagan de su conocimiento, con relación a las operaciones áreas, servicios de transporte aéreo, aeropuertos, aeródromos, servicios aeroportuarios y complementarios e instalaciones, así como a los servicios de apoyo a la navegación aérea y control del tránsito aéreo, a fin de determinar las medidas de seguridad y las sanciones que procedan.
@@ -1547,15 +1559,14 @@ Artículo adicionado DOF 03-05-2023
 Quater. La Agencia Federal de Aviación Civil debe coadyuvar con las diversas autoridades competentes que participen en la investigación a la que se refiere el presente capítulo y, en su caso, intercambiar la información relacionada con la investigación de accidentes o incidentes, de conformidad con el reglamento correspondiente y las disposiciones técnico-administrativas que se emitan para tal efecto.
 Artículo adicionado DOF 03-05-2023
 
-## Capítulo XVII
-De la requisa
+## Capítulo XVII — De la requisa
 
 ### Artículo 83
 . En caso de desastre natural, de guerra, de grave alteración del orden público o cuando se tema algún peligro inminente para la seguridad nacional, la paz interior del país o para la economía nacional, el Gobierno Federal podrá hacer la requisa de las aeronaves y demás equipo de los servicios públicos de transporte aéreo, de los bienes muebles e inmuebles necesarios y disponer de todo ello como lo juzgue conveniente. El Gobierno Federal podrá igualmente utilizar el personal que estuviere al servicio de la sociedad sujeta a la requisa cuando lo considere necesario. La requisa se mantendrá mientras subsistan las condiciones que la motivaron.
 El Gobierno Federal, salvo en el caso de guerra internacional, indemnizará a los interesados, pagando los daños y perjuicios a su valor real. Si no hubiere acuerdo sobre el monto de la indemnización, los daños se fijarán por peritos nombrados por ambas partes, y en el caso de los perjuicios, se tomará como base el promedio del ingreso neto en el año anterior a la requisa. Cada una de las partes cubrirá la mitad de los gastos que se originen por el peritaje.
 
-## Capítulo XVIII
-De la vigilancia y verificación Denominación del Capítulo reformada DOF 03-05-2023
+## Capítulo XVIII — De la vigilancia y verificación
+Denominación del Capítulo reformada DOF 03-05-2023
 
 ### Artículo 84
 . La Agencia Federal de Aviación Civil vigilará y verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables, sin perjuicio de la competencia que expresamente corresponda a otras autoridades.
@@ -1604,8 +1615,7 @@ Artículo adicionado DOF 03-05-2023
 . La Agencia Federal de Aviación Civil aprobará la operación de unidades de inspección para las actividades de vigilancia y verificación, siempre que se cumpla con lo dispuesto en la Ley de Infraestructura de la Calidad, en los tratados en materia de aviación civil suscritos por el Estado mexicano, los reglamentos y demás disposiciones jurídicas aplicables.
 Artículo reformado DOF 03-05-2023
 
-## Capítulo XIX
-De las sanciones
+## Capítulo XIX — De las sanciones
 
 ### Artículo 86
 . Las infracciones a lo dispuesto en la presente Ley cometidas por la persona concesionaria, asignataria, operadora aérea o permisionaria, según se trate, serán sancionadas por la Agencia Federal de Aviación Civil de acuerdo con lo siguiente:

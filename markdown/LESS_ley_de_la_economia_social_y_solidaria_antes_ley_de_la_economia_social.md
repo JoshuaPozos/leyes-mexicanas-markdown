@@ -14,8 +14,7 @@ SE EXPIDE LA Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023
 Se expide la Ley de la Economía Social y Solidaria.
 Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023 Denominación de la Ley reformada DOF 30-12-2015, 29-12-2023
 
-## TÍTULO I
-DISPOSICIONES GENERALES
+## TÍTULO I — DISPOSICIONES GENERALES
 
 ### Artículo 1o
 . La presente Ley es reglamentaria del párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos en lo concerniente al Sector Social de la Economía.
@@ -223,11 +222,9 @@ III. Los usos y prácticas imperantes entre los Organismos del Sector.
 El Ejecutivo Federal, a través de la Secretaría, interpretará para efectos administrativos los preceptos de la presente Ley.
 Párrafo reformado DOF 30-12-2015
 
-## TÍTULO II
-DE LA ESTRUCTURA DEL SECTOR SOCIAL DE LA ECONOMÍA
+## TÍTULO II — DE LA ESTRUCTURA DEL SECTOR SOCIAL DE LA ECONOMÍA
 
-## CAPÍTULO I
-DEL INSTITUTO
+## CAPÍTULO I — DEL INSTITUTO
 
 ### Artículo 13
 . Se crea el Instituto Nacional de la Economía Social como un órgano administrativo desconcentrado de la Secretaría, el cual contará con autonomía técnica, operativa y de gestión.
@@ -338,8 +335,8 @@ Artículo reformado DOF 11-06-2013
 ### Artículo 20
 . Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado “B” del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-## CAPÍTULO II
-DEL CONSEJO CONSULTIVO DE FOMENTO DE LA ECONOMÍA SOCIAL Denominación del Capítulo reformada DOF 11-06-2013
+## CAPÍTULO II — DEL CONSEJO CONSULTIVO DE FOMENTO DE LA ECONOMÍA SOCIAL
+Denominación del Capítulo reformada DOF 11-06-2013
 
 ### Artículo 21
 . El Consejo es el órgano del Instituto de participación ciudadana y conformación plural, que tendrá por objeto analizar y proponer acciones que incidan en el cumplimiento del Programa de Fomento a la Economía Social.
@@ -412,8 +409,8 @@ Artículo derogado DOF 11-06-2013
 . (Se deroga).
 Artículo derogado DOF 11-06-2013
 
-## CAPÍTULO III
-DE LOS ORGANISMOS DE INTEGRACIÓN Y REPRESENTACIÓN Denominación del Capítulo reformada DOF 11-06-2013
+## CAPÍTULO III — DE LOS ORGANISMOS DE INTEGRACIÓN Y REPRESENTACIÓN
+Denominación del Capítulo reformada DOF 11-06-2013
 
 ### Artículo 31
 . Los Organismos del Sector podrán asociarse entre sí para el mejor cumplimiento de sus fines.
@@ -438,8 +435,8 @@ Párrafo reformado DOF 11-06-2013 Podrán prestar u obtener en común servicios 
 . (Se deroga).
 Artículo derogado DOF 11-06-2013
 
-## CAPÍTULO IV
-DEL REGISTRO (Se deroga) Capítulo derogado DOF 11-06-2013
+## CAPÍTULO IV — DEL REGISTRO
+(Se deroga) Capítulo derogado DOF 11-06-2013
 
 ### Artículo 36
 . (Se deroga).
@@ -461,11 +458,9 @@ Artículo derogado DOF 11-06-2013
 . (Se deroga).
 Artículo derogado DOF 11-06-2013
 
-## TÍTULO III
-DE LOS ORGANISMOS DEL SECTOR
+## TÍTULO III — DE LOS ORGANISMOS DEL SECTOR
 
-## CAPÍTULO I
-DEL FUNCIONAMIENTO DE LOS ORGANISMOS DEL SECTOR
+## CAPÍTULO I — DEL FUNCIONAMIENTO DE LOS ORGANISMOS DEL SECTOR
 
 ### Artículo 41
 . Se reconocerá el carácter de Organismo del Sector a todas aquellas organizaciones que, en su caso, hayan cumplido con los ordenamientos de la ley respectiva según su naturaleza para su constitución y registro, y estén considerados en alguna de las categorías del catálogo de los diferentes tipos de Organismos del Sector, elaborado por el Instituto.
@@ -503,8 +498,7 @@ II. Un Órgano o Consejo de Administración, Comisario, Gerente, Director Genera
 III. Un Órgano o Consejo de Vigilancia y Control Interno;
 Los miembros de los Órganos encargados de la administración, la vigilancia y el control interno serán designados y podrán ser removidos por decisión de la mayoría del Órgano de Dirección o Asamblea General, de conformidad con sus propios estatutos
 
-## CAPÍTULO II
-DE LOS DERECHOS Y OBLIGACIONES DE LOS ORGANISMOS DEL SECTOR
+## CAPÍTULO II — DE LOS DERECHOS Y OBLIGACIONES DE LOS ORGANISMOS DEL SECTOR
 
 ### Artículo 44
 . Sin perjuicio de los derechos y prerrogativas que establecen las leyes relativas a las distintas formas asociativas, se reconocen a los Organismos del Sector los siguientes derechos:
@@ -571,8 +565,7 @@ XVII. Contribuir al desarrollo socioeconómico nacional, y Fracción reformada D
 
 XVIII. Las demás que señale la presente Ley y leyes aplicables.
 
-## CAPÍTULO III
-DEL FOMENTO Y FINANCIAMIENTO DE LOS ORGANISMOS DEL SECTOR
+## CAPÍTULO III — DEL FOMENTO Y FINANCIAMIENTO DE LOS ORGANISMOS DEL SECTOR
 
 ### Artículo 46
 . La Secretaría creará el Programa de Fomento a la Economía Social así como los programas regionales y especiales, cuyo objeto será atender iniciativas productivas del Sector mediante el apoyo a proyectos productivos, la constitución, desarrollo, consolidación y expansión de Organismos del Sector y la participación en esquemas de financiamiento social.
@@ -602,8 +595,8 @@ Lo anterior, de conformidad y con absoluto respeto a lo que dispongan las leyes 
 ### Artículo 51
 . A fin de dar cumplimento a las disposiciones previstas por los artículos 49 y 50, el Instituto, conforme a sus facultades, brindará asesoría, capacitación y financiamiento de acuerdo sus posibilidades presupuestarias.
 
-## CAPÍTULO IV
-DE LA EVALUACIÓN DE LA POLÍTICA DE ECONOMÍA SOCIAL Y DEL DESEMPEÑO DE SUS ORGANISMOS DEL SECTOR
+## CAPÍTULO IV — DE LA EVALUACIÓN DE LA POLÍTICA DE ECONOMÍA SOCIAL Y DEL DESEMPEÑO DE
+SUS ORGANISMOS DEL SECTOR
 
 ### Artículo 52
 . La evaluación periódica del cumplimiento de las políticas públicas de fomento y apoyo a los Organismos del Sector estará a cargo del Consejo Nacional de Evaluación de la Política de Desarrollo Social, conforme la Ley General de Desarrollo Social.
@@ -621,8 +614,7 @@ Artículo reformado DOF 11-06-2013, 30-12-2015
 ### Artículo 56
 . De acuerdo con los resultados de las evaluaciones, el Instituto podrá emitir las sugerencias y recomendaciones que considere pertinentes al Ejecutivo Federal y hacerlas del conocimiento público.
 
-## CAPÍTULO V
-SANCIONES
+## CAPÍTULO V — SANCIONES
 
 ### Artículo 57
 . (Se deroga).

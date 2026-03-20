@@ -15,7 +15,10 @@ SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTR
 
 ### ARTÍCULO SEGUNDO
 Se expide la Ley de la Empresa Pública del Estado, Petróleos Mexicanos, para quedar como sigue:
-TÍTULO PRIMERO DE PETRÓLEOS MEXICANOS COMO EMPRESA PÚBLICA DEL ESTADO Capítulo Único Disposiciones Generales
+
+## TÍTULO PRIMERO — DE PETRÓLEOS MEXICANOS COMO EMPRESA PÚBLICA DEL ESTADO
+
+## Capítulo Único — Disposiciones Generales
 
 ### Artículo 1
 .- La presente Ley es Reglamentaria de los artículos 25, párrafo quinto, 27, párrafo séptimo y 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, es de interés público y social y tiene por objeto regular la organización, administración, funcionamiento, operación, control, evaluación y rendición de cuentas de Petróleos Mexicanos, como empresa pública del Estado, así como establecer su régimen especial.
@@ -106,10 +109,10 @@ Las personas con las que Petróleos Mexicanos celebre actos o contratos, en ning
 
 ### Artículo 13
 .- El patrimonio de Petróleos Mexicanos está constituido por los bienes, derechos y obligaciones que haya adquirido o se le hayan asignado, transferido o adjudicado; por los que adquiera por cualquier título jurídico, ministraciones presupuestarias o donaciones, así como por los rendimientos de sus operaciones y los ingresos que reciba por cualquier otro concepto.
-TÍTULO SEGUNDO DE LA ORGANIZACIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DE PETRÓLEOS MEXICANOS
 
-## Capítulo I
-De la Organización
+## TÍTULO SEGUNDO — DE LA ORGANIZACIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DE PETRÓLEOS MEXICANOS
+
+## Capítulo I — De la Organización
 
 ### Artículo 14
 .- Petróleos Mexicanos cuenta con la organización y estructura orgánica que mejor convenga para la realización de su objeto, conforme lo determine su Consejo de Administración en términos de esta Ley.
@@ -123,8 +126,10 @@ I. Un Consejo de Administración, y
 
 II. Una Dirección General.
 
-## Capítulo II
-De la Organización e Integración del Consejo de Administración Sección Primera Funciones
+## Capítulo II — De la Organización e Integración del Consejo de Administración
+
+## Sección Primera
+Funciones
 
 ### Artículo 16
 .- El Consejo de Administración es el órgano supremo de administración de Petróleos Mexicanos y es responsable de definir las políticas, lineamientos y visión estratégica de Petróleos Mexicanos y sus empresas filiales, como una empresa pública del Estado. Al efecto, tiene las funciones siguientes:
@@ -223,7 +228,9 @@ IV. Un diagnóstico de su situación operativa y financiera, así como los resul
 
 V. Los principales escenarios de riesgos estratégicos y comerciales de la empresa, considerando, entre otros aspectos, el comportamiento de la economía a mediano y largo plazo, innovaciones tecnológicas, así como tendencias en la oferta y demanda y cambios geopolíticos.
 Petróleos Mexicanos debe difundir en su portal de Internet una versión pública de su Programa de Desarrollo, la cual no debe contener información que pueda comprometer o poner en riesgo su operación y sus estrategias comerciales.
-Sección Segunda Integración y Funcionamiento
+
+## Sección Segunda
+Integración y Funcionamiento
 
 ### Artículo 18
 .- El Consejo de Administración está integrado por ocho personas consejeras, conforme a lo siguiente:
@@ -350,7 +357,9 @@ La obligación de confidencialidad referida permanece en vigor cinco años despu
 ### Artículo 31
 .- Las decisiones y actas del Consejo de Administración y de sus comités son públicas por regla general, pero pueden reservarse de manera total o parcial, conforme a las políticas que al respecto determine el propio Consejo, en términos de las disposiciones jurídicas aplicables en la materia.
 Petróleos Mexicanos debe difundir en su página de Internet las actas y acuerdos respectivos, en términos del párrafo anterior.
-Sección Tercera Régimen de Responsabilidad de las Personas Consejeras
+
+## Sección Tercera
+Régimen de Responsabilidad de las Personas Consejeras
 
 ### Artículo 32
 .- Las personas consejeras, con relación al ejercicio de sus funciones como integrantes del Consejo de Administración, son responsables exclusivamente en términos de lo dispuesto en esta Ley, por lo que no están sujetas al régimen de responsabilidades establecido en la Ley General de Responsabilidades Administrativas o en cualquier otro ordenamiento o disposición aplicable en general a las personas servidoras públicas de carácter federal.
@@ -448,7 +457,9 @@ La determinación referida se debe enviar a la Cámara de Senadores para su apro
 
 ### Artículo 41
 .- En el supuesto de que la causa que haya motivado la remoción de la persona consejera independiente de que se trate, implique la posible comisión de un delito o conlleve un daño o perjuicio patrimonial para Petróleos Mexicanos o para sus empresas filiales, se deben presentar las denuncias de hechos y querellas o ejercer las acciones legales que correspondan.
-Sección Quinta Comités
+
+## Sección Quinta
+Comités
 
 ### Artículo 42
 .- Para el desarrollo eficiente de las actividades de Petróleos Mexicanos, el Consejo de Administración cuenta con los comités que al efecto establezca y debe tener al menos los siguientes:
@@ -565,8 +576,7 @@ VII. Proponer al Consejo de Administración la aprobación del Reporte Anual de 
 
 VIII. Las demás que determine el Consejo de Administración.
 
-## Capítulo III
-De la Dirección General
+## Capítulo III — De la Dirección General
 
 ### Artículo 50
 .- Corresponde a la persona titular de la Dirección General la gestión, operación, funcionamiento y ejecución de los objetivos de Petróleos Mexicanos, y se debe sujetar a las estrategias, políticas y lineamientos aprobados por el Consejo de Administración. Al efecto, tiene las funciones siguientes:
@@ -618,7 +628,8 @@ El Consejo de Administración debe resolver las solicitudes de licencia que le p
 
 ### Artículo 53
 .- La persona titular de la Dirección General debe informar a la persona titular del Ejecutivo Federal y al Consejo de Administración sobre el incumplimiento de alguno de los requisitos que debe cubrir para su designación, así como sobre cualquier impedimento que le sobrevenga.
-TÍTULO TERCERO VIGILANCIA Y AUDITORÍA
+
+## TÍTULO TERCERO — VIGILANCIA Y AUDITORÍA
 
 ### Artículo 54
 .- La vigilancia y auditoría de Petróleos Mexicanos y, en su caso, de las empresas filiales se debe realizar por:
@@ -738,8 +749,7 @@ A más tardar el treinta de abril de cada año, la persona titular de la Direcci
 .- La Auditoría Superior de la Federación es competente para fiscalizar a Petróleos Mexicanos, en términos de las disposiciones constitucionales y legales respectivas.
 En el desarrollo de sus auditorías y en la formulación de sus observaciones y recomendaciones, la Auditoría Superior de la Federación debe tener en cuenta lo dispuesto en los principios y normas establecidos en la presente Ley y en las disposiciones que de ella emanen, el marco legal de Petróleos Mexicanos, su naturaleza jurídica y la de sus actos y operaciones, así como los resultados de las revisiones que en el ejercicio de sus funciones realicen los órganos de auditoría y vigilancia en términos de esta Ley.
 
-## TÍTULO CUARTO
-DEL RÉGIMEN ESPECIAL
+## TÍTULO CUARTO — DEL RÉGIMEN ESPECIAL
 
 ## Capítulo I
 Empresas Filiales
@@ -858,7 +868,9 @@ XV. Optimizar el uso del espacio físico y del mobiliario disponible y procurar 
 .- Los lineamientos de austeridad en el gasto y uso de recursos deben prever la elaboración de programas anuales que apruebe el Consejo de Administración de Petróleos Mexicanos, con la opinión favorable de la Secretaría de Energía, que contenga metas específicas de austeridad.
 
 ## Capítulo III
-Adquisiciones, Arrendamientos, Servicios y Obras Sección Primera Disposiciones Generales
+Adquisiciones, Arrendamientos, Servicios y Obras
+
+## Sección Primera — Disposiciones Generales
 
 ### Artículo 78
 .- Petróleos Mexicanos realiza las adquisiciones, arrendamientos, contratación de servicios y obras que requiera en términos de lo dispuesto en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, con sujeción a los principios de economía, eficacia, eficiencia, imparcialidad y honradez, a efecto de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes de acuerdo con la naturaleza de la contratación.
@@ -995,7 +1007,8 @@ II. La acción jurisdiccional que corresponda ante el Tribunal Federal de Justic
 Contra las demás resoluciones emitidas en las etapas del procedimiento de contratación, no procede instancia ni medio ordinario de defensa alguno y, en caso de alguna irregularidad en tales resoluciones, éstas pueden ser combatidas con motivo del fallo o de la determinación que declare desierto el concurso o la invitación restringida.
 Contra la cancelación de procedimiento de contratación no procede el recurso de reconsideración. El recurso de reconsideración sólo puede ser interpuesto por quienes hayan presentado ofertas en el procedimiento de contratación.
 Una vez firmado un contrato, todas las controversias que surjan relativas a su interpretación o cumplimiento son competencia de los tribunales del Poder Judicial de la Federación, salvo que se haya pactado un medio alternativo de solución de controversias.
-Sección Segunda De las Medidas para Garantizar la Integridad en las Contrataciones
+
+## Sección Segunda — De las Medidas para Garantizar la Integridad en las Contrataciones
 
 ### Artículo 85
 .- Para la celebración y ejecución de los contratos de adquisiciones, arrendamientos, servicios y obras, el Consejo de Administración de Petróleos Mexicanos, a propuesta de la persona titular de la Dirección General, debe emitir las disposiciones y políticas necesarias para que Petróleos Mexicanos cuente con mecanismos que les permitan prevenir, identificar, subsanar y sancionar actos u omisiones irregulares, ilícitos, negligentes o cualesquiera otros que en el marco de los procedimientos de contratación y de la implementación y ejecución de los contratos pudieran afectar o repercutir en la operación de Petróleos Mexicanos.
@@ -1288,7 +1301,8 @@ Las empresas filiales pueden adherirse al Código de Conducta o, en su caso, emi
 
 ### Artículo 116
 .- Petróleos Mexicanos y sus empresas filiales, deben establecer e implementar medidas de debida diligencia en los negocios o acuerdos comerciales con terceras personas para verificar la información de aquellas con las que mantengan o pretendan celebrar algún acuerdo comercial, con el propósito de conocer sus políticas en materia de ética e integridad, los riesgos de corrupción relacionados con los mismos, así como las medidas que se requieran adoptar para prevenir y mitigar esos riesgos.
-TÍTULO QUINTO TRANSPARENCIA Y RENDICIÓN DE CUENTAS
+
+## TÍTULO QUINTO — TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
 ### Artículo 117
 .- Petróleos Mexicanos se debe sujetar a las leyes aplicables en materia de transparencia y acceso a la información, de fiscalización y rendición de cuentas y combate a la corrupción, para prevenir, identificar, investigar y sancionar los actos u omisiones que las contravengan.
@@ -1318,7 +1332,8 @@ El informe debe suscribirse por la persona titular de la Dirección General y po
 
 ### Artículo 122
 .- Las personas integrantes del Consejo de Administración, la persona titular de la Dirección General y todo el personal de Petróleos Mexicanos deben, en términos de las disposiciones aplicables, reportar a las instancias y autoridades competentes, a las personas físicas o morales que realicen actos u omisiones contrarios a la ley, entre otros, los que tengan por objeto o consecuencia directa o indirecta influir en la toma de decisión de alguna persona servidora pública de las empresas o de los miembros del Consejo de Administración, para obtener un beneficio económico personal, directo o indirecto.
-TÍTULO SEXTO OTRAS DISPOSICIONES
+
+## TÍTULO SEXTO — OTRAS DISPOSICIONES
 
 ### Artículo 123
 .- Las controversias nacionales en que sea parte Petróleos Mexicanos, ya sea como parte o como tercero, cualquiera que sea su naturaleza, son de la competencia de los tribunales de la Federación y ésta queda exceptuada de otorgar las garantías que los ordenamientos legales exijan a las partes, aun en los casos de controversias judiciales.

@@ -8,7 +8,9 @@
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL (Antes “Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos”) Nueva Ley publicada en el Diario Oficial de la Federación el 30 de octubre de 2003 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL Denominación de la Ley reformada DOF 16-07-2025 TÍTULO PRIMERO Disposiciones preliminares
+LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL Denominación de la Ley reformada DOF 16-07-2025
+
+## TÍTULO PRIMERO — Disposiciones preliminares
 
 ### ARTÍCULO 1
 .- La presente Ley regula los ascensos y las recompensas del personal militar pertenecientes al Ejército, Fuerza Aérea y Guardia Nacional, su aplicación corresponderá a la persona titular de la Presidencia de los Estados Unidos Mexicanos y a la Secretaría de la Defensa Nacional.
@@ -47,7 +49,9 @@ Fracción reformada DOF 05-08-2011, 16-07-2025
 XI. Participante, el militar que es evaluado con el fin de ser propuesto para un ascenso, y Fracción reformada DOF 05-08-2011
 
 XII. Militares, son las mujeres y los hombres que legalmente forman parte del Ejército, Fuerza Aérea y Guardia Nacional, con un grado de la escala jerárquica. Estarán sujetos a las obligaciones y derechos que para ellos establecen la Constitución, la presente Ley, los ordenamientos castrenses y la Ley de la Guardia Nacional.
-Fracción adicionada DOF 05-08-2011. Reformada DOF 16-07-2025 TÍTULO SEGUNDO De los ascensos
+Fracción adicionada DOF 05-08-2011. Reformada DOF 16-07-2025
+
+## TÍTULO SEGUNDO — De los ascensos
 
 ## CAPÍTULO I
 Bases Generales
@@ -75,8 +79,7 @@ I. En tiempo de paz, y
 
 II. En tiempo de guerra.
 
-## CAPÍTULO II
-De los Ascensos en tiempo de paz
+## CAPÍTULO II — De los Ascensos en tiempo de paz
 
 ### ARTÍCULO 7
 .- Los ascensos en tiempo de paz tienen por finalidad cubrir las vacantes que ocurran en los cuadros del Ejército, Fuerza Aérea y Guardia Nacional, con militares aptos y preparados para el desempeño del grado inmediato superior y, asimismo, estimular a los militares que se encuentren comprendidos en los casos previstos en los artículos 19 y 31 de esta Ley.
@@ -443,10 +446,10 @@ Obtenida la aprobación presidencial, el acuerdo deberá ser comunicado de maner
 
 ### ARTÍCULO 49
 .- Terminado el conflicto, los militares ascendidos de conformidad con este Capítulo, deberán asistir a los cursos que señale la normativa vigente en materia de Educación Militar. En caso de que hayan obtenido dos o más ascensos, los cursos serán los correspondientes al último grado obtenido.
-TÍTULO TERCERO De las recompensas militares
 
-## CAPÍTULO I
-Disposiciones generales
+## TÍTULO TERCERO — De las recompensas militares
+
+## CAPÍTULO I — Disposiciones generales
 
 ### ARTÍCULO 50
 .- Con el fin de premiar a los militares u organismos del Ejército, Fuerza Aérea o Guardia Nacional, por su heroísmo, capacidad profesional, servicios a la patria y demás hechos meritorios, se establecen las siguientes recompensas:
@@ -466,8 +469,7 @@ IV. Citaciones.
 ### ARTÍCULO 52
 .- La Secretaría recabará en todos los casos la documentación que justifique el derecho a la obtención de alguna de las recompensas establecidas en el artículo 50.
 
-## CAPÍTULO II
-De las Condecoraciones
+## CAPÍTULO II — De las Condecoraciones
 
 ### ARTÍCULO 53
 .- Las condecoraciones se otorgarán por el Ejército, Fuerza Aérea o Guardia Nacional y serán las siguientes:
@@ -614,8 +616,7 @@ Artículo reformado DOF 27-01-2017, 16-07-2025
 ### ARTÍCULO 69
 .- El Reglamento de esta Ley determinará la forma, tamaño, material y demás características de cada una de las Condecoraciones que establece la presente Ley, así como el protocolo de su imposición y la manera en que deben usarse.
 
-## CAPÍTULO III
-De las Menciones Honoríficas
+## CAPÍTULO III — De las Menciones Honoríficas
 
 ### ARTÍCULO 70
 .- Cuando algún militar, grupo de militares o Unidades del Ejército, Fuerza Aérea o Guardia Nacional, ejecuten acciones meritorias que, sin ser de las que dan derecho a obtener las demás recompensas especificadas en esta Ley, constituyan un ejemplo digno de tomarse en consideración y de ser emulado, serán recompensados con mención honorífica otorgada por la persona titular de la Secretaría, a propuesta de los mandos territoriales, de Tropas o de Guardia Nacional.
@@ -629,8 +630,7 @@ La Mención Honorífica Colectiva se comunicará al Comandante de la Unidad o De
 .- Las unidades, dependencias e instalaciones del Ejército, Fuerza Aérea o Guardia Nacional que se distingan por su buen funcionamiento y organización administrativa, serán premiados con mención honorífica.
 Artículo reformado DOF 16-07-2025
 
-## CAPÍTULO IV
-De las Distinciones
+## CAPÍTULO IV — De las Distinciones
 
 ### ARTÍCULO 73
 .- Las distinciones se otorgan a los miembros del Ejército, Fuerza Aérea o Guardia Nacional, cualquiera que sea su jerarquía, cuando hayan sobresalido en concursos militares por su competencia profesional, celo en el cumplimiento de sus deberes y haber observado durante su carrera militar una conducta ejemplar.
@@ -644,8 +644,7 @@ El número de Soldados de Primera no estará sujeto a planilla.
 .- Las distinciones tendrán las formas que fije la normativa vigente. De las distinciones otorgadas se llevará un registro en las direcciones respectivas de las Armas, Servicios o de la Comandancia de la Guardia Nacional.
 Artículo reformado DOF 16-07-2025
 
-## CAPÍTULO V
-De las Citaciones
+## CAPÍTULO V — De las Citaciones
 
 ### ARTÍCULO 76
 .- Las Citaciones se otorgarán cuando a juicio del Comandante de una Unidad o Jefe de una Dependencia deba estimularse un hecho meritorio ejecutado por uno o más militares a sus órdenes, publicándose en la Orden Particular, dando cuenta a la Secretaría.

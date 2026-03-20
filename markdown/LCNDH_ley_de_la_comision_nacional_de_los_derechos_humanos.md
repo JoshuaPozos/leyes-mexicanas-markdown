@@ -79,8 +79,8 @@ Fracción derogada DOF 15-06-2012 IV.- Consultas formuladas por autoridades, par
 ### Artículo 8o
 .- En los términos de esta ley, sólo podrán admitirse o conocerse quejas o inconformidades contra actos u omisiones de autoridades judiciales, salvo las de carácter federal, cuando dichos actos u omisiones tengan carácter administrativo. La Comisión Nacional por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo.
 
-## Capítulo II
-De la elección, facultades y obligaciones del Presidente de la Comisión Denominación del Capítulo reformada DOF 26-11-2001
+## Capítulo II — De la elección, facultades y obligaciones del Presidente de la Comisión
+Denominación del Capítulo reformada DOF 26-11-2001
 
 ### Artículo 9o
 . El Presidente de la Comisión Nacional de los Derechos Humanos deberá reunir para su elección los siguientes requisitos:
@@ -148,9 +148,7 @@ Artículo reformado DOF 26-11-2001
 .- El Presidente de la Comisión Nacional y los Visitadores Generales no podrán ser detenidos ni sujetos a responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones que formulen, o por los actos que realicen, en ejercicio de las funciones propias de sus cargos que les asigna esta ley.
 
 ### Artículo 14
-. El Presidente de la Comisión Nacional podrá ser removido de sus funciones y, en su caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el
-
-## Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+. El Presidente de la Comisión Nacional podrá ser removido de sus funciones y, en su caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 En este supuesto, el Presidente será substituido interinamente por el primer Visitador General, en tanto no se designe nuevo Presidente de la Comisión Nacional.
 Artículo reformado DOF 26-11-2001
 
@@ -184,8 +182,8 @@ Fracción reformada y recorrida DOF 15-06-2012
 ### Artículo 16
 .- Tanto el Presidente de la Comisión, como los Visitadores Generales y los visitadores adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas o inconformidades, presentadas ante la Comisión Nacional.
 
-## Capítulo III
-De la integración y facultades del Consejo Denominación del Capítulo reformada DOF 26-11-2001
+## Capítulo III — De la integración y facultades del Consejo
+Denominación del Capítulo reformada DOF 26-11-2001
 
 ### Artículo 17
 .- El Consejo a que se refiere el artículo 5o. de esta ley, estará integrado por diez personas que gocen de reconocido prestigio en la sociedad, mexicanos en pleno ejercicio de sus derechos ciudadanos, y cuando menos siete de entre ellos no deben desempeñar ningún cargo o comisión como servidor público.
@@ -256,8 +254,8 @@ III.- Realizar las actividades necesarias para lograr, por medio de la conciliac
 IV.- Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión Nacional para su consideración; y V.- Las demás que le señale la presente ley y el Presidente de la Comisión Nacional, necesarias para el mejor cumplimiento de sus funciones.
 Los visitadores adjuntos auxiliarán en sus funciones a los Visitadores Generales en los términos que fije el Reglamento y para tal efecto deberán reunir los requisitos que establezca el mismo para su designación.
 
-## CAPÍTULO VI
-DEL ÓRGANO INTERNO DE CONTROL Capítulo adicionado DOF 27-01-2017
+## CAPÍTULO VI — DEL ÓRGANO INTERNO DE CONTROL
+Capítulo adicionado DOF 27-01-2017
 
 ### Artículo 24
 Bis.- El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión Nacional y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
@@ -396,8 +394,8 @@ Dichas medidas pueden ser de conservación o restitutorias, según lo requiera l
 ### Artículo 42
 .- Las conclusiones del expediente, que serán la base de las recomendaciones, estarán fundamentadas exclusivamente en la documentación y pruebas que obren en el propio expediente.
 
-## Capítulo II
-De los acuerdos y recomendaciones Denominación del Capítulo reformada DOF 26-11-2001
+## Capítulo II — De los acuerdos y recomendaciones
+Denominación del Capítulo reformada DOF 26-11-2001
 
 ### Artículo 43
 .- La Comisión Nacional de Derechos Humanos podrá dictar acuerdos de trámite, que serán obligatorios para las autoridades y servidores públicos para que comparezcan o aporten información o documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Título IV, Capítulo II de la presente ley.

@@ -39,8 +39,9 @@ LEY AGRARIA
 .- En los términos que establece la Ley de Planeación, el Ejecutivo Federal, con la participación de los productores y pobladores del campo a través de sus organizaciones representativas, formulará programas de mediano plazo y anuales en los que se fijarán las metas, los recursos y su distribución geográfica y por objetivos, las instituciones responsables y los plazos de ejecución, para el desarrollo integral del campo mexicano.
 TITULO TERCERO DE LOS EJIDOS Y COMUNIDADES
 
-## Capítulo I
-De los Ejidos Sección Primera Disposiciones Generales
+## Capítulo I — De los Ejidos
+
+## Sección Primera — Disposiciones Generales
 
 ### Artículo 9o
 .- Los núcleos de población ejidales o ejidos tienen personalidad jurídica y patrimonio propio y son propietarios de las tierras que les han sido dotadas o de las que hubieren adquirido por cualquier otro título.
@@ -51,7 +52,8 @@ De los Ejidos Sección Primera Disposiciones Generales
 ### Artículo 11
 .- La explotación colectiva de las tierras ejidales puede ser adoptada por un ejido cuando su asamblea así lo resuelva, en cuyo caso deberán establecerse previamente las disposiciones relativas a la forma de organizar el trabajo y la explotación de los recursos del ejido, así como los mecanismos para el reparto equitativo de los beneficios, la constitución de reservas de capital, de previsión social o de servicios y las que integren los fondos comunes.
 LEY AGRARIA Los ejidos colectivos ya constituidos como tales o que adopten la explotación colectiva podrán modificar o concluir el régimen colectivo mediante resolución de la asamblea, en los términos del artículo 23 de esta ley.
-Sección Segunda De los Ejidatarios y Avecindados
+
+## Sección Segunda — De los Ejidatarios y Avecindados
 
 ### Artículo 12
 .- Son ejidatarios los hombres y las mujeres titulares de derechos ejidales.
@@ -113,7 +115,9 @@ III. Por prescripción negativa, en su caso, cuando otra persona adquiera sus de
 ### Artículo 20
 Bis.- Cuando el ejidatario o el avecindado sea declarado ausente, en los términos de la legislación especial en la materia, se procederá conforme a lo establecido en el artículo 18 de esta Ley.
 La desaparición en ningún caso podrá ser causal para perder la condición de ejidatario o avecindado.
-Artículo adicionado DOF 22-06-2018 Sección Tercera De los Organos del Ejido
+Artículo adicionado DOF 22-06-2018
+
+## Sección Tercera — De los Organos del Ejido
 
 ### Artículo 21
 .- Son órganos de los ejidos:
@@ -268,8 +272,9 @@ IV. Dar a conocer a la asamblea del ejido las necesidades que existan sobre sola
 
 V. Las demás que señale el reglamento de la junta de pobladores, que se limiten a cuestiones relacionadas con el asentamiento humano y que no sean contrarias a la ley ni a las facultades previstas por esta ley para los órganos del ejido.
 
-## Capítulo II
-De las Tierras Ejidales Sección Primera Disposiciones Generales
+## Capítulo II — De las Tierras Ejidales
+
+## Sección Primera — Disposiciones Generales
 
 ### Artículo 43
 .- Son tierras ejidales y por tanto están sujetas a las disposiciones relativas de esta ley las que han sido dotadas al núcleo de población ejidal o incorporadas al régimen ejidal.
@@ -308,7 +313,9 @@ La demanda presentada por cualquier interesado ante el tribunal agrario o la den
 
 ### Artículo 51
 .- El propio núcleo de población y los ejidatarios podrán constituir fondos de garantía para hacer frente a las obligaciones crediticias que contraigan, los cuales se crearán y organizarán de conformidad con los lineamientos que dicte el Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público.
-Sección Segunda De las Aguas del Ejido LEY AGRARIA
+
+## Sección Segunda — De las Aguas del Ejido
+LEY AGRARIA
 
 ### Artículo 52
 .- El uso o aprovechamiento de las aguas ejidales corresponde a los propios ejidos y a los ejidatarios, según se trate de tierras comunes o parceladas.
@@ -321,7 +328,8 @@ Sección Segunda De las Aguas del Ejido LEY AGRARIA
 
 ### Artículo 55
 .- Los aguajes comprendidos dentro de las tierras ejidales, siempre que no hayan sido legalmente asignados individualmente, serán de uso común y su aprovechamiento se hará conforme lo disponga el reglamento interno del ejido o, en su defecto, de acuerdo con la costumbre de cada ejido, siempre y cuando no se contravenga la ley y normatividad de la materia.
-Sección Tercera De la Delimitación y Destino de las Tierras Ejidales
+
+## Sección Tercera — De la Delimitación y Destino de las Tierras Ejidales
 
 ### Artículo 56
 .- La asamblea de cada ejido, con las formalidades previstas a tal efecto en los artículos 24 a 28 y 31 de esta ley, podrá determinar el destino de las tierras que no estén formalmente parceladas, efectuar el parcelamiento de éstas, reconocer el parcelamiento económico o de hecho o regularizar la tenencia de los posesionarios o de quienes carezcan de los certificados correspondientes.
@@ -364,8 +372,7 @@ La asignación de tierras que no haya sido impugnada en un término de noventa d
 .- A partir de la asignación de parcelas, corresponderán a los ejidatarios beneficiados los derechos sobre uso y usufructo de las mismas, en los términos de esta ley.
 Cuando la asignación se hubiere hecho a un grupo de ejidatarios, se presumirá, salvo prueba en contrario, que gozan de dichos derechos en partes iguales, y serán ejercidos conforme a lo convenido entre ellos o, en su defecto, a lo que disponga el reglamento interno o la resolución de la asamblea y, supletoriamente, conforme a las reglas de copropiedad que dispone el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
 
-## Sección Cuarta
-De las Tierras del Asentamiento Humano
+## Sección Cuarta — De las Tierras del Asentamiento Humano
 
 ### Artículo 63
 .- Las tierras destinadas al asentamiento humano integran el área necesaria para el desarrollo de la vida comunitaria del ejido, que está compuesta por los terrenos en que se ubique la zona de urbanización y su fundo legal. Se dará la misma protección a la parcela escolar, la unidad agrícola industrial de la mujer, la unidad productiva para el desarrollo integral de la juventud y a las demás áreas reservadas para el asentamiento.
@@ -407,7 +414,9 @@ Artículo reformado DOF 27-03-2017
 ### Artículo 72
 .- En cada ejido y comunidad podrá destinarse una parcela para constituir la unidad productiva para el desarrollo integral de la juventud, donde se realizarán actividades sociales, económicas, culturales, de salud y de capacitación, tendientes a procurar que los hijos de ejidatarios, comuneros y avecindados mayores de catorce y menores de veintinueve años logren una inserción sana, plena y productiva en el desarrollo del campo. Esta unidad será administrada por un comité cuyos miembros serán designados exclusivamente por los integrantes de la misma.
 La puesta en marcha y los costos de operación de la unidad serán cubiertos por sus integrantes, quienes podrán recurrir a los programas de financiamiento y asesoría de la Federación, estados, Distrito Federal y municipios.
-Artículo reformado DOF 03-06-2011 Sección Quinta De las Tierras de Uso Común
+Artículo reformado DOF 03-06-2011
+
+## Sección Quinta — De las Tierras de Uso Común
 
 ### Artículo 73
 .- Las tierras ejidales de uso común constituyen el sustento económico de la vida en comunidad del ejido y están conformadas por aquellas tierras que no hubieren sido especialmente reservadas por la asamblea para el asentamiento del núcleo de población, ni sean tierras parceladas.
@@ -432,7 +441,8 @@ V. Cuando participen socios ajenos al ejido, éste o los ejidatarios, en su caso
 Las sociedades que conforme a este artículo se constituyan deberán ajustarse a las disposiciones previstas en el Título Sexto de la presente ley.
 En caso de liquidación de la sociedad, el núcleo de población ejidal y los ejidatarios, de acuerdo a su participación en el capital social, y bajo la estricta vigilancia de la Procuraduría Agraria, tendrán preferencia, respecto de los demás socios, para recibir tierra en pago de lo que les corresponda en el haber social.
 En todo caso el ejido o los ejidatarios, según corresponda, tendrá derecho de preferencia para la adquisición de aquéllas tierras que aportaron al patrimonio de la sociedad.
-Sección Sexta De las Tierras Parceladas
+
+## Sección Sexta — De las Tierras Parceladas
 
 ### Artículo 76
 .- Corresponde a los ejidatarios el derecho de aprovechamiento, uso y usufructo de sus parcelas.
@@ -481,7 +491,8 @@ La notificación hecha al comisariado, con la participación de dos testigos o a
 
 ### Artículo 86
 .- La primera enajenación a personas ajenas al núcleo de población de parcelas sobre las que se hubiere adoptado el dominio pleno, será libre de impuestos o derechos federales para el enajenante y deberá hacerse cuando menos al precio de referencia que establezca la Comisión de Avalúos de Bienes Nacionales o cualquier institución de crédito.
-Sección Séptima De las Tierras Ejidales en Zonas Urbanas
+
+## Sección Séptima — De las Tierras Ejidales en Zonas Urbanas
 
 ### Artículo 87
 .- Cuando los terrenos de un ejido se encuentren ubicados en el área de crecimiento de un centro de población, los núcleos de población ejidal podrán beneficiarse de la urbanización de sus tierras.
@@ -493,8 +504,7 @@ En todo caso, la incorporación de las tierras ejidales al desarrollo urbano deb
 ### Artículo 89
 .- En toda enajenación de terrenos ejidales ubicados en las áreas declaradas reservadas para el crecimiento de un centro de población, de conformidad con los planes de desarrollo urbano municipal, en favor de personas ajenas al ejido, se deberá respetar el derecho de preferencia de los gobiernos de los estados y municipios establecido por la Ley General de Asentamientos Humanos.
 
-## Capítulo III
-De la Constitución de Nuevos Ejidos
+## Capítulo III — De la Constitución de Nuevos Ejidos
 
 ### Artículo 90
 .- Para la constitución de un ejido bastará:
@@ -514,8 +524,7 @@ LEY AGRARIA Será nula la aportación de tierras en fraude de acreedores.
 ### Artículo 92
 .- El ejido podrá convertir las tierras que hubiere adquirido bajo el régimen de dominio pleno al régimen ejidal, en cuyo caso el comisariado ejidal tramitará las inscripciones correspondientes en el Registro Agrario Nacional, a partir de lo cual dicha tierra quedará sujeta a lo dispuesto por esta ley para las tierras ejidales.
 
-## Capítulo IV
-De la Expropiación de Bienes Ejidales y Comunales
+## Capítulo IV — De la Expropiación de Bienes Ejidales y Comunales
 
 ### Artículo 93
 .- Los bienes ejidales y comunales podrán ser expropiados por alguna o algunas de las siguientes causas de utilidad pública:
@@ -552,8 +561,7 @@ Artículo reformado DOF 25-06-2018
 ### Artículo 97
 .- Cuando los bienes expropiados se destinen a un fin distinto del señalado en el decreto respectivo, o si transcurrido un plazo de cinco años no se ha cumplido con la causa de utilidad pública, el fideicomiso Fondo Nacional de Fomento Ejidal ejercitará las acciones necesarias para reclamar la reversión parcial o total, según corresponda, de los bienes expropiados y opere la incorporación de éstos a su patrimonio.
 
-## Capítulo V
-De las Comunidades
+## Capítulo V — De las Comunidades
 
 ### Artículo 98
 .- El reconocimiento como comunidad a los núcleos agrarios deriva de los siguientes procedimientos:
@@ -958,8 +966,7 @@ LEY AGRARIA
 .- Tendrán preferencia para adquirir terrenos nacionales, a titulo oneroso, los poseedores que los hayan explotado en los últimos tres años. En su defecto, se estará a lo dispuesto en el artículo 58 de la Ley General de Bienes Nacionales.
 TITULO DECIMO DE LA JUSTICIA AGRARIA
 
-## Capítulo I
-Disposiciones Preliminares
+## Capítulo I — Disposiciones Preliminares
 
 ### Artículo 163
 .- Son juicios agrarios los que tienen por objeto sustanciar, dirimir y resolver las controversias que se susciten con motivo de la aplicación de las disposiciones contenidas en esta ley.
@@ -1039,8 +1046,7 @@ Párrafo adicionado DOF 09-07-1993
 ### Artículo 177
 .- Los peritos, testigos y, en general, terceros que no constituyan parte pueden ser citados por cédula o por cualquier otro medio fidedigno, cerciorándose quien haga el citatorio de la exactitud de la dirección de la persona citada.
 
-## Capítulo III
-Del Juicio Agrario
+## Capítulo III — Del Juicio Agrario
 
 ### Artículo 178
 .- La copia de la demanda se entregará al demandado o a la persona con quien se practique el emplazamiento respectivo. El demandado contestará la demanda a más tardar en la audiencia, pudiendo hacerlo por escrito o mediante su comparecencia. En este último caso, el tribunal solicitará a la Procuraduría Agraria que coadyuve en su formulación por escrito en forma concisa. En su actuación, dicho organismo se apegará a los principios de objetividad e imparcialidad debidas.
@@ -1114,8 +1120,7 @@ Párrafo adicionado DOF 09-07-1993 LEY AGRARIA En caso de inconformidad con la e
 Párrafo adicionado DOF 09-07-1993 Dentro de los quince días siguientes al levantamiento del acta de ejecución, el tribunal del conocimiento dictará resolución definitiva sobre la ejecución de la sentencia y aprobará el plano definitivo.
 Párrafo adicionado DOF 09-07-1993
 
-## Capítulo V
-Disposiciones Generales
+## Capítulo V — Disposiciones Generales
 
 ### Artículo 192
 .- Las cuestiones incidentales que se susciten ante los tribunales agrarios, se resolverán conjuntamente con lo principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se refieran a la ejecución de la sentencia, pero en ningún caso se formará artículo de previo y especial pronunciamiento sino que se decidirán de plano.
@@ -1138,8 +1143,7 @@ Cuando fuere necesario esperar a alguna persona a quien se hubiere llamado a la 
 ### Artículo 197
 .- Para la facilidad y rapidez en el despacho, los emplazamientos, citatorios, órdenes, actas y demás documentos necesarios, se extenderán de preferencia en formatos impresos que tendrán los espacios que su objeto requiera y los cuales se llenarán haciendo constar en breve extracto lo indispensable para la exactitud y precisión del documento.
 
-## Capítulo VI
-Del Recurso de Revisión
+## Capítulo VI — Del Recurso de Revisión
 
 ### Artículo 198
 .- El recurso de revisión en materia agraria procede contra la sentencia de los tribunales agrarios que resuelvan en primera instancia sobre:

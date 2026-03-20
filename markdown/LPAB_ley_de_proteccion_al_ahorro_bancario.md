@@ -10,7 +10,11 @@ ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, a su
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A: , Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL BANCO DE MÉXICO, DE INSTITUCIONES DE CRÉDITO, DEL MERCADO DE VALORES Y PARA REGULAR LAS AGRUPACIONES FINANCIERAS.
 
 ### ARTÍCULO PRIMERO
-Se expide la “ TÍTULO PRIMERO DEL OBJETO DE LA LEY CAPÍTULO ÚNICO
+Se expide la “
+
+## TÍTULO PRIMERO — DEL OBJETO DE LA LEY
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 1o
 .- La presente Ley tiene por objeto establecer un sistema de protección al ahorro bancario en favor de las personas que realicen cualquiera de las operaciones garantizadas, en los términos y con las limitantes que la misma determina; regular los apoyos financieros que se otorguen a las instituciones de banca múltiple para la protección de los intereses del público ahorrador, así como establecer las bases para la organización y funcionamiento de la entidad pública encargada de estas funciones.
@@ -40,10 +44,10 @@ IV. Junta de Gobierno, a la junta de gobierno del Instituto;
 V. Secretario Ejecutivo, al titular de la administración ejecutiva del Instituto, y
 
 VI. Bienes, a los créditos, derechos, acciones y otros bienes de cualquier naturaleza de los cuales sean titulares o propietarias las Instituciones y otras sociedades en cuyo capital participe el Instituto, en términos de esta Ley, así como cualquier tipo de bienes y derechos que el propio Instituto adquiera para el cumplimiento de su objeto y atribuciones, excepto los directamente relacionados con su operación administrativa.
-TÍTULO SEGUNDO DEL SISTEMA DE PROTECCIÓN AL AHORRO BANCARIO
 
-## CAPÍTULO I
-De las Obligaciones Garantizadas
+## TÍTULO SEGUNDO — DEL SISTEMA DE PROTECCIÓN AL AHORRO BANCARIO
+
+## CAPÍTULO I — De las Obligaciones Garantizadas
 
 ### Artículo 6o
 .- Para los efectos de esta Ley, se considerarán obligaciones garantizadas los depósitos, préstamos y créditos a que se refieren las fracciones I y II del artículo 46 de la Ley de Instituciones de Crédito.
@@ -72,8 +76,7 @@ IV. Las obligaciones o depósitos a favor de accionistas, miembros del consejo d
 
 V. Las operaciones que no se hayan sujetado a las disposiciones legales, reglamentarias, administrativas, así como a las sanas prácticas y usos bancarios, en las que exista mala fe del titular y las relacionadas con actos u operaciones ilícitas que se ubiquen en los supuestos del la República en Materia de Fuero Federal.
 
-## CAPÍTULO II
-Del Pago de las Obligaciones Garantizadas
+## CAPÍTULO II — Del Pago de las Obligaciones Garantizadas
 
 ### Artículo 11
 .- El Instituto pagará el saldo de las obligaciones garantizadas, considerando el monto del principal y accesorios, hasta por una cantidad equivalente a cuatrocientas mil unidades de inversión por persona, física o moral, cualquiera que sea el número y clase de dichas obligaciones a su favor y a cargo de una misma Institución.
@@ -103,8 +106,7 @@ Artículo derogado DOF 06-07-2006
 ### Artículo 19
 .- Si alguna persona no está de acuerdo en recibir del Instituto el monto correspondiente a las obligaciones garantizadas a su favor, calculado conforme a lo dispuesto en este Título, podrá reclamar la cantidad relativa a la totalidad de las obligaciones garantizadas directamente a la Institución, de acuerdo al contrato o título respectivo, así como en términos de las disposiciones legales reglamentarias y administrativas aplicables.
 
-## CAPÍTULO III
-De las Cuotas
+## CAPÍTULO III — De las Cuotas
 
 ### Artículo 20
 .- A fin de cumplir con el objeto de la presente Ley, las Instituciones estarán obligadas a pagar al Instituto las cuotas ordinarias y extraordinarias que establezca la Junta de Gobierno, en los términos y condiciones dispuestos en este Capítulo.
@@ -136,8 +138,7 @@ Sin perjuicio de lo anterior, el Instituto, con cargo a dicha cuenta, podrá man
 .- Las cuotas a favor del Instituto no tendrán carácter fiscal, por lo que contra su cobro o cualquier otra resolución emitida conforme a la presente Ley, no procederá medio de defensa alguno ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 Artículo reformado DOF 31-12-2000
 
-## CAPÍTULO IV
-De los Apoyos y Programas para el Saneamiento Financiero de las Instituciones
+## CAPÍTULO IV — De los Apoyos y Programas para el Saneamiento Financiero de las Instituciones
 
 ### Artículo 28
 .- Se deroga.
@@ -220,8 +221,7 @@ Para fines del límite a que se refiere el párrafo anterior también computará
 ### Artículo 48
 .- Los financiamientos y los recursos autorizados en el Presupuesto de Egresos de la Federación, que reciba el Instituto en los términos del Título Cuarto, en ningún caso podrán ser utilizados, para un fin distinto al autorizado.
 
-## CAPÍTULO V
-De la Administración Cautelar
+## CAPÍTULO V — De la Administración Cautelar
 
 ### Artículo 49
 .- Se deroga.
@@ -246,8 +246,7 @@ Artículo derogado DOF 06-07-2006
 .- Se deroga.
 Artículo derogado DOF 06-07-2006
 
-## CAPÍTULO VI
-De la Liquidación, Suspensión de Pagos y Quiebra de las Instituciones
+## CAPÍTULO VI — De la Liquidación, Suspensión de Pagos y Quiebra de las Instituciones
 
 ### Artículo 55
 .- Se deroga.
@@ -259,7 +258,9 @@ Artículo derogado DOF 06-07-2006
 
 ### Artículo 57
 .- Se deroga.
-Artículo derogado DOF 06-07-2006 TÍTULO TERCERO DE LOS BIENES
+Artículo derogado DOF 06-07-2006
+
+## TÍTULO TERCERO — DE LOS BIENES
 
 ## CAPÍTULO I
 La Adquisición y Régimen de los Bienes
@@ -273,8 +274,7 @@ La Adquisición y Régimen de los Bienes
 ### Artículo 60
 .- No computarán las inversiones que realice el Instituto en las Instituciones, intermediarios financieros y otros tipos de sociedades y asociaciones, para considerarlas como empresas de participación estatal y, por lo tanto, no estarán sujetas a las disposiciones legales, reglamentarias y normas administrativas aplicables a las entidades públicas.
 
-## CAPÍTULO II
-De los Procedimientos de Administración, Enajenación y Control de los Bienes
+## CAPÍTULO II — De los Procedimientos de Administración, Enajenación y Control de los Bienes
 
 ### Artículo 61
 .- Se deroga Artículo derogado DOF 10-01-2014
@@ -298,11 +298,9 @@ Párrafo reformado DOF 01-06-2001, 09-04-2012 Asimismo, el órgano de control in
 ### Artículo 66
 .- El Instituto deberá enviar anualmente al Ejecutivo Federal, con el detalle de las operaciones al 31 de diciembre, un ejemplar de la memoria a que se refiere el artículo anterior, para que conjuntamente con la Cuenta de la Hacienda Pública Federal del ejercicio correspondiente se presente a la Cámara de Diputados.
 
-## TÍTULO CUARTO
-DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
+## TÍTULO CUARTO — DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-## CAPÍTULO I
-De las Atribuciones y Patrimonio
+## CAPÍTULO I — De las Atribuciones y Patrimonio
 
 ### Artículo 67
 .- El Instituto tiene por objeto:
@@ -386,8 +384,7 @@ VII. Los demás derechos y obligaciones que el Instituto reciba, adquiera o cont
 ### Artículo 73
 .- El Instituto podrá realizar las gestiones necesarias para convenir la substitución de los deberes fiduciarios, tratándose de instituciones que sean administradas por aquél o bien que se encuentren intervenidas por la Comisión.
 
-## CAPÍTULO II
-Del Gobierno y Administración
+## CAPÍTULO II — Del Gobierno y Administración
 
 ### Artículo 74
 .- El gobierno y administración del Instituto están a cargo de una Junta de Gobierno y un Secretario Ejecutivo, respectivamente, quienes serán apoyados por la estructura administrativa que la propia Junta de Gobierno determine.
@@ -489,8 +486,7 @@ Las sesiones se efectuarán con la asistencia de por lo menos cuatro de sus miem
 ### Artículo 82
 .- La Junta de Gobierno será presidida por el Secretario de Hacienda y Crédito Público y en su ausencia por su suplente. Las resoluciones requerirán del voto aprobatorio de la mayoría de los presentes.
 
-## CAPÍTULO III
-Del Secretario Ejecutivo
+## CAPÍTULO III — Del Secretario Ejecutivo
 
 ### Artículo 83
 .- Para ser Secretario Ejecutivo se deberá cumplir con los requisitos del 78, salvo en el caso de la experiencia la cual deberá ser superior a cinco años en cargos de responsabilidad decisoria relacionados con asuntos financieros.
@@ -520,8 +516,7 @@ X. Elaborar y someter a la aprobación de la Junta de Gobierno los proyectos de 
 
 XI. Las demás que expresamente le asigne la Junta de Gobierno así como informar a ésta sobre el ejercicio de sus facultades.
 
-## CAPÍTULO IV
-De los Servidores Públicos del Instituto
+## CAPÍTULO IV — De los Servidores Públicos del Instituto
 
 ### Artículo 85
 .- El Secretario Ejecutivo será auxiliado por los servidores públicos que al efecto señale el Estatuto Orgánico del Instituto.
@@ -532,8 +527,7 @@ De los Servidores Públicos del Instituto
 ### Artículo 87
 .- El Secretario Ejecutivo, los vocales aprobados por el Senado, y los servidores públicos del nivel inmediato siguiente, sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación del Instituto o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, mismo que se contestará por escrito dentro del término establecido por dicha autoridad.
 
-## CAPÍTULO V
-De los Informes y de la Vigilancia
+## CAPÍTULO V — De los Informes y de la Vigilancia
 
 ### Artículo 88
 .- Cualquiera de las Cámaras, podrán citar a comparecer al Secretario Ejecutivo cuando se analice o estudie un negocio concerniente a las actividades del Instituto, así como cuando se integren comisiones para investigar su funcionamiento.
@@ -541,7 +535,11 @@ De los Informes y de la Vigilancia
 ### Artículo 89
 .- El Ejecutivo Federal, a través de la dependencia competente, designará un comisario y un auditor externo del Instituto. Ambos tendrán las más amplias facultades para opinar, examinar y dictaminar los estados financieros del Instituto, así como para revisar la contabilidad y demás documentación relacionada con ésta. El comisario deberá asistir a las sesiones de la Junta de Gobierno.
 Lo anterior, sin perjuicio de la vigilancia de la Auditoría Superior de la Federación y del Contralor Interno.
-Párrafo reformado DOF 09-04-2012 TÍTULO QUINTO DE LAS SANCIONES Capítulo Único
+Párrafo reformado DOF 09-04-2012
+
+## TÍTULO QUINTO — DE LAS SANCIONES
+
+## Capítulo Único
 
 ### Artículo 90
 .- Son infracciones de las Instituciones a esta Ley:

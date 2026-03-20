@@ -8,7 +8,8 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 30 de diciembre de 2002 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO “EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
-CAPÍTULO PRIMERO DEL OBJETO Y APLICACIÓN DE LA LEY
+
+## CAPÍTULO PRIMERO — DEL OBJETO Y APLICACIÓN DE LA LEY
 
 ### Artículo 1o
 . La presente Ley es reglamentaria de los artículos 25, 27 fracción XX y 28 de la Constitución Política de los Estados Unidos Mexicanos y es de observancia general en toda la República Mexicana.
@@ -39,7 +40,8 @@ VI. LEY.- La Ley de Energía para el Campo;
 VII. PRECIOS Y TARIFAS DE ESTÍMULO.- Son los precios y tarifas cuyo propósito es estimular las actividades agropecuarias, en los términos de esta Ley y su Reglamento, y
 
 VIII. PROGRAMA.- Programa de Energía para el Campo.
-CAPÍTULO SEGUNDO DE LAS CUOTAS ENERGÉTICAS
+
+## CAPÍTULO SEGUNDO — DE LAS CUOTAS ENERGÉTICAS
 
 ### Artículo 4o
 . El Poder Ejecutivo Federal establecerá el programa, mediante precios y tarifas de estímulo de los energéticos agropecuarios.
@@ -71,7 +73,9 @@ La solicitud de cuota energética deberá hacerse por cada ciclo productivo.
 ### Artículo 9o
 . El Reglamento de la presente Ley, deberá establecer los mecanismos de supervisión y verificación de la cuota energética en cuanto su aplicación y asignación.
 La asignación de la cuota energética será pública, para lo cual al inicio de cada ciclo productivo se publicará en Internet el listado de los beneficiarios de la misma, así como el de las solicitudes desechadas y estará a disposición de los usuarios en las delegaciones y subdelegaciones de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
-Párrafo adicionado DOF 28-12-2012 CAPÍTULO TERCERO DE LOS REQUISITOS Y OBLIGACIONES DE LOS BENEFICIARIOS
+Párrafo adicionado DOF 28-12-2012
+
+## CAPÍTULO TERCERO — DE LOS REQUISITOS Y OBLIGACIONES DE LOS BENEFICIARIOS
 
 ### Artículo 10
 . Se considera a la cuota energética como parte accesoria e indivisible de la tierra, por lo que el productor que transmita su uso o posesión, deberá hacerlo conjuntamente con dicha cuota. Para tal efecto, la transmisión del uso o posesión de la tierra, deberá notificarse a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
@@ -82,8 +86,7 @@ Párrafo adicionado DOF 28-12-2012 CAPÍTULO TERCERO DE LOS REQUISITOS Y OBLIGAC
 ### Artículo 12
 . El beneficiario deberá dar de baja el saldo a su favor de la cuota de energéticos que no haya sido utilizado al final de los trabajos del ciclo productivo, en los términos del Reglamento de la presente Ley.
 
-## CAPÍTULO CUARTO
-DE LAS INFRACCIONES Y SANCIONES
+## CAPÍTULO CUARTO — DE LAS INFRACCIONES Y SANCIONES
 
 ### Artículo 13
 . Son infracciones a la presente Ley:

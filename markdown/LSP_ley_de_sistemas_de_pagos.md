@@ -10,8 +10,7 @@ VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitante
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 SE EXPIDE LA
 
-## CAPÍTULO I
-Disposiciones generales
+## CAPÍTULO I — Disposiciones generales
 
 ### Artículo 1o
 . La presente Ley es de orden público e interés social y tiene por objeto propiciar el buen funcionamiento de los sistemas de pagos que la propia Ley señala, al establecer, para los efectos previstos en este ordenamiento, el carácter definitivo e irrevocable de las órdenes de transferencia y de la compensación y liquidación derivados de éstas, que se procesen a través de dichos sistemas, incluyendo los relacionados con operaciones con valores.
@@ -118,8 +117,7 @@ II. No se revocarán la Compensación, la Liquidación, así como cualquier otro
 
 III. El cumplimiento de las obligaciones de pago derivadas de los actos a que se refiere la fracción anterior, se llevará a cabo de acuerdo con las Normas Internas del Sistema de Pagos respectivo, sin que queden sujetas a procedimientos de reconocimiento de créditos o a cualquier otro de naturaleza similar.
 
-## CAPÍTULO III
-De las Garantías y la Prelación
+## CAPÍTULO III — De las Garantías y la Prelación
 
 ### Artículo 15
 . Las garantías y los recursos provenientes de las cuentas que los Participantes, en términos de las Normas Internas de los Sistemas de Pagos, tengan afectos al cumplimiento tanto de las Órdenes de Transferencia Aceptadas, como de la Compensación y Liquidación que resulten de éstas, serán inembargables desde el inicio de la operación diaria del Sistema de Pagos hasta que se cumplan las obligaciones de pago derivadas de la Liquidación de tales Órdenes de Transferencia Aceptadas cada día. Por lo anterior, durante el período mencionado no podrá trabarse ejecución alguna sobre ellos ordenada por autoridad administrativa o judicial.
@@ -137,8 +135,7 @@ Asimismo, las garantías, incluyendo las previstas en el artículo 16 de la ley 
 Cuando el producto de la ejecución de las garantías y, en su caso, de cualquier otro acto que se realice en términos de las Normas Internas de los Sistemas de Pagos que correspondan, no sea suficiente para dar cumplimiento a las obligaciones a que se refiere el párrafo anterior, los acreedores respectivos podrán hacer valer sus derechos de conformidad con las disposiciones que resulten aplicables.
 En caso de que de la ejecución de dichas garantías resulte algún remanente, éste deberá ponerse a disposición de los órganos concursales, del Participante o de quien corresponda, en términos de las disposiciones aplicables.
 
-## CAPÍTULO IV
-De las facultades del Banco de México
+## CAPÍTULO IV — De las facultades del Banco de México
 
 ### Artículo 19
 . El Banco de México, con base en la información que, al efecto, se le presente de conformidad con lo dispuesto en esta Ley, ejercerá funciones de supervisión y vigilancia de los Administradores de los Sistemas y de los Sistemas de Pagos, a fin de procurar su correcto funcionamiento.
@@ -223,8 +220,7 @@ En el supuesto de que la multa de que se trate se pague dentro del plazo de cinc
 . Lo dispuesto en esta Ley es sin perjuicio de las facultades que otras leyes otorgan a la Comisión Nacional Bancaria y de Valores y a otras autoridades, en materia de regulación, supervisión, otorgamiento de autorizaciones y establecimiento de programas de cumplimiento forzoso, respecto de los sujetos a los que les sea aplicable la propia Ley.
 Asimismo, lo previsto en este ordenamiento es sin perjuicio de las atribuciones que otras leyes otorgan al Banco de México en materia de sistemas de pagos y transferencias de fondos.
 
-## CAPÍTULO V
-Del Recurso de Reconsideración
+## CAPÍTULO V — Del Recurso de Reconsideración
 
 ## Sección I
 Reglas Generales
@@ -242,8 +238,7 @@ Artículo reformado DOF 14-11-2025
 ### Artículo 36
 . La autoridad a la que de conformidad con el Reglamento Interior del Banco de México corresponda resolver el recurso de reconsideración, tendrá la facultad de certificar y expedir copias de los documentos que obren en el expediente del propio recurso, para ser exhibidos en asuntos judiciales o ante cualquier otra autoridad, relativos al ámbito de su competencia.
 
-## Sección II
-De la interposición y sustanciación del recurso
+## Sección II — De la interposición y sustanciación del recurso
 
 ### Artículo 37
 . En el escrito por el que se interponga el recurso de reconsideración deberá expresarse:
@@ -275,8 +270,7 @@ Si el recurrente omitió ofrecer pruebas o acompañar documentos, se tendrá por
 ### Artículo 41
 . Transcurrido el plazo previsto en el artículo anterior, con las manifestaciones del recurrente o sin ellas, se turnará el expediente para el dictado de la resolución correspondiente.
 
-## Sección III
-De la resolución del recurso
+## Sección III — De la resolución del recurso
 
 ### Artículo 42
 . El recurso de reconsideración deberá resolverse dentro de un plazo máximo de cuarenta y cinco días hábiles bancarios, contado a partir de la fecha de su presentación, de no ser así, se considerará confirmado el acto impugnado.

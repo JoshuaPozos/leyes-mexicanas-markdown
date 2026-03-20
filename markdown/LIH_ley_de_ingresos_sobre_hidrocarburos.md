@@ -12,7 +12,8 @@ SE EXPIDE LA  , SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LE
 
 ### ARTÍCULO PRIMERO
 Se expide la Ley de Ingresos sobre Hidrocarburos.
-TÍTULO PRIMERO DISPOSICIONES GENERALES
+
+## TÍTULO PRIMERO — DISPOSICIONES GENERALES
 
 ### Artículo 1
 .- La presente Ley es de orden público y tiene por objeto establecer:
@@ -109,10 +110,11 @@ i) el Precio Contractual del Gas Natural por ii) el volumen, en millones de BTU 
 XXIV. Valor Contractual del Petróleo: es el resultado de multiplicar, en el Periodo de que se trate:
 
 i) el Precio Contractual del Petróleo por ii) el volumen de Petróleo en Barriles determinados a Condición Base, en el Punto de Medición del Área Contractual.
-Fracción reformada DOF 18-03-2025 TÍTULO SEGUNDO DE LOS INGRESOS POR CONTRATOS
+Fracción reformada DOF 18-03-2025
 
-## CAPÍTULO I
-DE LAS CONTRAPRESTACIONES DE LOS CONTRATOS
+## TÍTULO SEGUNDO — DE LOS INGRESOS POR CONTRATOS
+
+## CAPÍTULO I — DE LAS CONTRAPRESTACIONES DE LOS CONTRATOS
 
 ### Artículo 4
 .- Las Contraprestaciones que se establezcan en los Contratos se calcularán y entregarán al Estado y a los Contratistas conforme a los mecanismos previstos en cada Contrato, siguiendo las reglas y bases señaladas en la presente Ley.
@@ -120,7 +122,9 @@ El pago al Estado Mexicano de las Contraprestaciones que se establezcan en los C
 
 ### Artículo 5
 .- La Secretaría debe publicar, dentro de los primeros 20 días naturales de cada año, un reporte en cuyo contenido se establezcan los rangos de valores de los términos económicos que considerará incluir en las bases de licitación de los Contratos para la Exploración y Extracción del año correspondiente, la actualización de los parámetros de cálculo que, conforme a los ajustes estructurales del mercado de hidrocarburos, se prevén en el Anexo 3 de los instrumentos contractuales vigentes, así como las actualizaciones necesarias en materia de ingresos sobre hidrocarburos aplicables al año correspondiente. La Secretaría únicamente puede considerar valores fuera de estos rangos cuando las condiciones de los mercados y de la industria se hayan modificado, lo cual deberá justificar en un alcance al reporte anual. El reporte y sus alcances deben publicarse en la página de Internet de la Secretaría.
-Artículo reformado DOF 18-03-2025 Sección Primera De las Contraprestaciones en los Contratos de Licencia
+Artículo reformado DOF 18-03-2025
+
+## Sección Primera — De las Contraprestaciones en los Contratos de Licencia
 
 ### Artículo 6
 .- Los Contratos de licencia establecerán las siguientes Contraprestaciones:
@@ -147,7 +151,10 @@ Artículo reformado DOF 18-03-2025
 
 ### Artículo 10
 .- Con el propósito de permitir al Estado Mexicano capturar la rentabilidad extraordinaria que en su caso se genere por la Extracción de los Hidrocarburos, la tasa o el monto que resulte de la contraprestación a que se refiere la fracción IV del apartado A del artículo 6 de esta Ley se modificará a través del Mecanismo de Ajuste que se incluirá en el Contrato y en las bases de la licitación para su adjudicación o en los Contratos que sean resultado de una migración.
-Artículo reformado DOF 07-12-2016 Sección Segunda De las Contraprestaciones en los Contratos de Utilidad Compartida y de Producción Compartida
+Artículo reformado DOF 07-12-2016
+
+## Sección Segunda
+De las Contraprestaciones en los Contratos de Utilidad Compartida y de Producción Compartida
 
 ### Artículo 11
 .- Los Contratos de utilidad compartida establecerán las siguientes Contraprestaciones:
@@ -251,7 +258,9 @@ XV. Aquellos que no sean estrictamente indispensables para la actividad objeto d
 ### Artículo 20
 .- Los Contratos preverán que en los casos en que el Contratista enajene activos, cuyo costo, gasto o inversión hayan sido recuperados conforme al Contrato, los ingresos que reciba por dicha operación serán entregados al Estado Mexicano, a través del Fondo Mexicano del Petróleo o, previa autorización de la Secretaría, un monto equivalente será descontado de las Contraprestaciones que le correspondan al Contratista.
 El Contratista debe informar a la Secretaría y a la Secretaría de Energía, de las enajenaciones a que se refiere el párrafo anterior, de conformidad con sus competencias.
-Párrafo reformado DOF 18-03-2025 Sección Tercera De las Contraprestaciones en los Contratos de Servicios
+Párrafo reformado DOF 18-03-2025
+
+## Sección Tercera — De las Contraprestaciones en los Contratos de Servicios
 
 ### Artículo 21
 .- En los Contratos de servicios de Exploración y Extracción de Hidrocarburos, los Contratistas entregarán la totalidad de la Producción Contractual al Estado y las Contraprestaciones a favor del Contratista serán siempre en efectivo y se establecerán en cada Contrato considerando los estándares o usos de la industria.
@@ -260,8 +269,7 @@ Lo dispuesto en los artículos 23 y 24 de la presente Ley no será aplicable a l
 ### Artículo 22
 .- Las Contraprestaciones a favor del Contratista establecidas en los Contratos de servicios se pagarán por el Fondo Mexicano del Petróleo con los recursos generados por la comercialización de la Producción Contractual que derive de cada Contrato de servicios.
 
-## Sección Cuarta
-Disposiciones Comunes a las Contraprestaciones
+## Sección Cuarta — Disposiciones Comunes a las Contraprestaciones
 
 ### Artículo 23
 .- Los Contratos preverán el pago mensual a favor del Estado Mexicano de la Cuota Contractual para la Fase Exploratoria, por la parte del Área Contractual que no se encuentre en la fase de producción, de conformidad con las siguientes cuotas:
@@ -299,8 +307,7 @@ Tasa = [(0.125 x Precio Contractual de los Condensados) – 2.5 ] % Para la dete
 .- Para efectos de lo dispuesto en este Título Segundo, en los Contratos se preverá que cada Periodo se determinará el Valor Contractual de los Hidrocarburos. Cada Contrato deberá contener los mecanismos para la determinación en el Punto de Medición de los Precios Contractuales del Petróleo, Gas Natural y Condensados, que reflejen las condiciones de mercado. En los casos en los que se realicen operaciones con partes relacionadas, dichos mecanismos deberán considerar, en su caso, los ajustes que se requieran por calidad, contenido de azufre, grados API, y por costos de comercialización, transporte y logística, entre otros.
 Para el caso de operaciones entre partes relacionadas, se estará a lo dispuesto en el artículo 30 de esta Ley.
 
-## CAPÍTULO II
-DISPOSICIONES APLICABLES A LOS CONTRATOS
+## CAPÍTULO II — DISPOSICIONES APLICABLES A LOS CONTRATOS
 
 ### Artículo 26
 .- La Secretaría determinará las condiciones económicas relativas a los términos fiscales contenidos en esta Ley que deberán incluirse en las bases de la licitación para la adjudicación de los Contratos.
@@ -409,8 +416,8 @@ En los Contratos formalizados por la Secretaría de Energía a que hace mención
 Párrafo reformado DOF 18-03-2025 Cuando una Empresa Pública del Estado sea Contratista por virtud de la migración de una Asignación y pretenda asociarse con terceros para la ejecución de un Contrato, la Secretaría está facultada para establecer las condiciones económicas relativas a los términos fiscales del Contrato, así como las variables de adjudicación para la licitación de la asociación o cesión, según corresponda, y debe fijar las condiciones fiscales mínimas a observar en la licitación que garanticen que los ingresos para el Estado no sean inferiores a los que se hubieran obtenido bajo el Contrato original.
 Párrafo reformado DOF 18-03-2025
 
-## CAPÍTULO III
-DE LA ADMINISTRACIÓN Y SUPERVISIÓN DE LOS ASPECTOS FINANCIEROS DE LOS CONTRATOS
+## CAPÍTULO III — DE LA ADMINISTRACIÓN Y SUPERVISIÓN DE LOS ASPECTOS FINANCIEROS DE LOS
+CONTRATOS
 
 ### Artículo 35
 .- Los Contratos deben prever que la administración de los aspectos financieros de los mismos, relacionados con las Contraprestaciones y demás elementos previstos en esta Ley, se realiza por el Fondo Mexicano del Petróleo, sin perjuicio de las atribuciones que correspondan a la Secretaría de Energía en la administración de los Contratos.
@@ -469,10 +476,11 @@ Fracción reformada DOF 18-03-2025
 ### Artículo 38
 .- Las funciones que realicen la Secretaría y el Fondo Mexicano del Petróleo en términos de los Contratos o conforme a esta Ley, serán sin perjuicio de las facultades en materia fiscal de las autoridades competentes, en términos de las leyes aplicables.
 El registro y reconocimiento de costos, gastos, inversiones e ingresos que se realice conforme a lo dispuesto en los Contratos solamente serán válidos para la determinación de las Contraprestaciones contempladas en los mismos, por lo que su registro, y en su caso, reconocimiento bajo los términos de un Contrato no implicará su aceptación o rechazo para propósito del cumplimiento de las obligaciones fiscales a las que está sujeto el Contratista en términos de la legislación aplicable.
-TÍTULO TERCERO DE LOS INGRESOS DERIVADOS DE ASIGNACIONES
 
-## CAPÍTULO I
-DEL DERECHO PETROLERO PARA EL BIENESTAR Denominación del Capítulo reformada DOF 18-03-2025
+## TÍTULO TERCERO — DE LOS INGRESOS DERIVADOS DE ASIGNACIONES
+
+## CAPÍTULO I — DEL DERECHO PETROLERO PARA EL BIENESTAR
+Denominación del Capítulo reformada DOF 18-03-2025
 
 ### Artículo 39
 .- Los Asignatarios deben pagar anualmente el derecho petrolero para el bienestar, aplicando al valor de los Hidrocarburos extraídos durante el ejercicio fiscal de que se trate, incluyendo el consumo que de estos productos efectúe el Asignatario, así como las mermas por derramas o quema de dichos productos, sin deducción alguna, las tasas siguientes:
@@ -514,20 +522,19 @@ Artículo reformado DOF 18-03-2025
 ### Artículo 43
 .- Derogado Artículo derogado DOF 18-03-2025
 
-## CAPÍTULO II
-DEL DERECHO DE EXTRACCIÓN DE HIDROCARBUROS Derogado Capítulo derogado DOF 18-03-2025
+## CAPÍTULO II — DEL DERECHO DE EXTRACCIÓN DE HIDROCARBUROS
+Derogado Capítulo derogado DOF 18-03-2025
 
 ### Artículo 44
 .- Derogado Artículo reformado DOF 09-12-2019. Derogado DOF 18-03-2025
 
-## CAPÍTULO III
-DEL DERECHO DE EXPLORACIÓN DE HIDROCARBUROS Derogado Capítulo derogado DOF 18-03-2025
+## CAPÍTULO III — DEL DERECHO DE EXPLORACIÓN DE HIDROCARBUROS
+Derogado Capítulo derogado DOF 18-03-2025
 
 ### Artículo 45
 .- Derogado Cantidad del artículo actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020, 11-01-2021, 13-01-2022, 27-12-2022, 29-12-2023, 30-12-2024 Artículo reformado DOF 09-12-2019. Derogado DOF 18-03-2025
 
-## CAPÍTULO IV
-DE LAS OBLIGACIONES DE LOS ASIGNATARIOS
+## CAPÍTULO IV — DE LAS OBLIGACIONES DE LOS ASIGNATARIOS
 
 ### Artículo 46
 .- Las Asignaciones sólo pueden otorgarse a Empresas Públicas del Estado cuyo objeto contenga la realización de actividades de Exploración y Extracción de Hidrocarburos.
@@ -621,8 +628,8 @@ Párrafo reformado DOF 18-03-2025 El Fondo Mexicano del Petróleo podrá estable
 ### Artículo 53
 .- Para los efectos del presente Título, el Asignatario, para evaluar proyectos de inversión, para determinar el valor agregado de sus líneas de negocio y, en los casos en que les corresponda, para determinar los precios al público de los bienes y servicios que enajene a partes relacionadas y cuando el Asignatario enajene Hidrocarburos a partes relacionadas, estará obligado a determinar su valor, considerando para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, aplicando para ello lo dispuesto en los comparable no controlado.
 
-## TÍTULO CUARTO
-DEL IMPUESTO POR LA ACTIVIDAD DE EXPLORACIÓN Y EXTRACCIÓN DE HIDROCARBUROS
+## TÍTULO CUARTO — DEL IMPUESTO POR LA ACTIVIDAD DE EXPLORACIÓN Y EXTRACCIÓN DE
+HIDROCARBUROS
 
 ### Artículo 54
 .- Están obligados al pago del impuesto por la actividad de exploración y extracción de hidrocarburos, los Contratistas y Asignatarios por el Área Contractual y Área de Asignación, respectivamente, definida en el Contrato o Asignación que corresponda.
@@ -657,7 +664,8 @@ Para efectos del párrafo anterior, la Secretaría de Energía, debe proveer a l
 
 IV. La totalidad de los recursos se deberá destinar a inversión en infraestructura para resarcir, entre otros fines, las afectaciones al entorno social y ecológico. Las entidades federativas y municipios podrán destinar hasta el 3% de los recursos para la realización de estudios y evaluación de proyectos que cumplan con los fines específicos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos.
 Para recibir los recursos a que se refiere este artículo, las entidades federativas adheridas al Sistema Nacional de Coordinación Fiscal no establecerán ni mantendrán gravámenes locales o municipales en materia de protección, preservación o restauración del equilibrio ecológico y la protección y control al ambiente, que incidan sobre los actos o actividades de Exploración y Extracción de Hidrocarburos, ni sobre las prestaciones o contraprestaciones que se deriven de los Contratos o Asignaciones.
-TÍTULO QUINTO DE LA TRANSPARENCIA Y FISCALIZACIÓN
+
+## TÍTULO QUINTO — DE LA TRANSPARENCIA Y FISCALIZACIÓN
 
 ### Artículo 58
 .- Sin perjuicio de las obligaciones en materia de transparencia derivadas de las disposiciones aplicables, el Fondo Mexicano del Petróleo y la Secretaría deberán hacer pública mensualmente por medios electrónicos y mantener actualizada, en lo que corresponda a sus atribuciones, la siguiente información:
@@ -733,7 +741,9 @@ Con el objeto de garantizar que los recursos del Fondo Mexicano del Petróleo se
 
 ### Artículo 61
 .- La Secretaría debe incluir en la Cuenta de la Hacienda Pública Federal y en los Informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública, los ingresos obtenidos por el Estado Mexicano que deriven de los Contratos y del derecho a que se refiere la presente Ley.
-Artículo reformado DOF 18-03-2025 TÍTULO SEXTO DISPOSICIONES FINALES
+Artículo reformado DOF 18-03-2025
+
+## TÍTULO SEXTO — DISPOSICIONES FINALES
 
 ### Artículo 62
 .- Los servidores públicos de la Secretaría responsables de determinar y verificar las condiciones económicas relativas a los términos fiscales, así como los servidores públicos de la Secretaría de Energía responsables de adjudicar las Asignaciones o del diseño técnico de los Contratos, así como de los lineamientos técnicos que deben observarse en el proceso de licitación de dichos contratos, deben contar, en términos de los lineamientos que emita la Secretaría, con seguros, fianzas o cauciones, que cubran el monto de la indemnización por los daños que cause su actuación en el ejercicio de sus atribuciones, y seguros para asumir los servicios de defensa y asistencia legal de dichos servidores públicos. Dichos seguros, fianzas o cauciones no forman parte de las prestaciones de los servidores públicos mencionados.

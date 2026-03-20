@@ -128,11 +128,68 @@ def _is_roman_numeral(s: str) -> bool:
     return len(s) > 0 and bool(re.fullmatch(r'(?:XL|L?X{0,3})(?:IX|IV|V?I{0,3})', s))
 
 
+# Regex para headings de sección: keyword + numeral/ordinal, captura heading y resto
+_SECTION_ORD = (
+    r'(?:PRIMER|SEGUND|TERCER|CUART|QUINT|SEXT|SÉPTIM|OCTAV|NOVEN|DÉCIM|ÚNIC)[OA]'
+    r'|(?:Primer|Segund|Tercer|Cuart|Quint|Sext|Séptim|Octav|Noven|Décim|Únic)[oa]'
+)
+_SECTION_NUM = r'[IVXLCDM\d]+(?:\s+(?:BIS|Bis|TER|Ter|QUÁTER|Quáter|QUINQUIES|Quinquies))?'
+
+SECTION_HEADING_RE = re.compile(
+    r'^((?:TÍTULO|CAPÍTULO|SECCIÓN|Título|Capítulo|Sección)\s+'
+    rf'(?:{_SECTION_ORD}|{_SECTION_NUM}))'
+    r'\s*(.*)'
+)
+
+_SECTION_BODY_RE = re.compile(
+    r'^[,.\s]*(?:de|del|y |o |en |a |que |según|no |se |la |el |las |los |al |con |por |sin |ni |para '
+    r'|sección|secciones|capítulo|título)',
+    re.IGNORECASE,
+)
+
+
+def _match_section_heading(line: str) -> re.Match | None:
+    """Detecta TÍTULO I, CAPÍTULO II, Capítulo Único, SECCIÓN CUARTA, etc.
+    Rechaza falsos positivos como 'Sección II de este Capítulo.' (texto de cuerpo)."""
+    m = SECTION_HEADING_RE.match(line.strip())
+    if not m:
+        return None
+    rest = m.group(2).strip()
+    if not rest:
+        return m
+    if _SECTION_BODY_RE.match(rest):
+        return None
+    return m
+
+
 def is_section_heading(line: str) -> bool:
-    """Detecta TÍTULO I, CAPÍTULO II, SECCIÓN III, etc. (sin IGNORECASE para evitar falsos positivos)."""
-    return bool(
-        re.match(r'^(TÍTULO|CAPÍTULO|SECCIÓN|Título|Capítulo|Sección)\s+[IVXLCDM\d]+', line.strip())
-    )
+    """Wrapper booleano para compatibilidad."""
+    return _match_section_heading(line) is not None
+
+
+def _is_descriptive_name(line: str) -> bool:
+    """Detecta nombres descriptivos de sección: 'DISPOSICIONES GENERALES', 'De la Violencia Familiar'."""
+    s = line.strip()
+    if not s or len(s) > 100:
+        return False
+    if re.match(r'^\d', s):
+        return False
+    if is_article_heading(s) or is_section_heading(s):
+        return False
+    if ARTICLE_ORDINAL_RE.match(s):
+        return False
+    if TRANSITORIO_HEADING_RE.match(s):
+        return False
+    rm = FRACCION_ROMAN_RE.match(s)
+    if rm and _is_roman_numeral(rm.group(1)):
+        return False
+    # ALL CAPS con al menos una palabra de 3+ letras
+    if s == s.upper() and re.search(r'[A-ZÁÉÍÓÚÑ]{3,}', s):
+        return True
+    # Title Case con prefijo descriptivo
+    if re.match(r'^(?:De |Del |Sobre |Para |En |Por |Disposiciones )', s) and len(s) < 80:
+        return True
+    return False
 
 
 # ---------------------------------------------------------------------------
@@ -169,6 +226,17 @@ def extract_lines(pdf_path: Path, verbose: bool = False) -> tuple[list[str], int
                 if is_header_line(line):
                     continue
                 all_lines.append(line)
+
+            # --- Issue 9: Detectar tablas-imagen (imágenes grandes sin tabla vectorial) ---
+            large_imgs = [img for img in (page.images or [])
+                          if abs(img.get('x1', 0) - img.get('x0', 0)) > 200
+                          and abs(img.get('y1', 0) - img.get('y0', 0)) > 100]
+            if large_imgs:
+                tables = page.extract_tables()
+                if not tables:
+                    all_lines.append(
+                        f"> **[Tabla no extraíble — ver PDF original, página {page_num + 1}]**"
+                    )
 
     return all_lines, total
 
@@ -249,6 +317,7 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
     joined: list[str] = []
     buffer = ""
     in_transitorios = False  # rastrear si estamos en sección de transitorios
+    _pending_section = False
 
     for line in lines:
         stripped = line.strip()
@@ -258,7 +327,26 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
                 joined.append(buffer.strip())
                 buffer = ""
             joined.append("")
+            _pending_section = False
             continue
+
+        # --- Blockquotes (placeholders de tablas, etc.) → párrafo aislado ---
+        if stripped.startswith('>'):
+            if buffer:
+                joined.append(buffer.strip())
+                buffer = ""
+            joined.append("")
+            joined.append(stripped)
+            joined.append("")
+            _pending_section = False
+            continue
+
+        # --- Nombre descriptivo de sección (issue 6) ---
+        if _pending_section:
+            _pending_section = False
+            if _is_descriptive_name(stripped):
+                joined[-1] += f" — {stripped}"
+                continue
 
         # --- Detectar "Transitorios" como heading ---
         tm = TRANSITORIO_HEADING_RE.match(stripped)
@@ -307,12 +395,18 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
             continue
 
         # --- TÍTULO / CAPÍTULO / SECCIÓN ---
-        if is_section_heading(stripped):
+        sm = _match_section_heading(stripped)
+        if sm:
             if buffer:
                 joined.append(buffer.strip())
                 buffer = ""
+            heading_text = sm.group(1).strip()
+            rest = sm.group(2).strip()
+            if rest:
+                heading_text += f" — {rest}"
             joined.append("")
-            joined.append(f"## {stripped}")
+            joined.append(f"## {heading_text}")
+            _pending_section = not bool(rest)
             continue
 
         # --- Ordinales en transitorios: poner en negritas ---

@@ -64,8 +64,7 @@ Fracción adicionada DOF 10-12-2002
 .- La interpretación de los preceptos de esta ley, para efectos administrativos, corresponderá a la Secretaría de Hacienda y Crédito Público.
 CAPITULO II De la Comisión Nacional del Sistema de Ahorro para el Retiro
 
-## Sección I
-De la Comisión
+## Sección I — De la Comisión
 
 ### Artículo 5o
 .- La Comisión tendrá las facultades siguientes:
@@ -120,8 +119,7 @@ XV. Elaborar y publicar estadísticas y documentos relacionados con los sistemas
 
 XVI. Las demás que le otorguen ésta u otras leyes.
 
-## Sección II
-De los Organos de Gobierno
+## Sección II — De los Organos de Gobierno
 
 ### Artículo 6o
 .- Los órganos de gobierno de la Comisión serán la Junta de Gobierno, la Presidencia y el Comité Consultivo y de Vigilancia.
@@ -319,8 +317,7 @@ XX. Someter a consideración de la Junta de Gobierno los demás asuntos que esti
 .- Los cargos de los miembros de la Junta de Gobierno y del Comité Consultivo y de Vigilancia serán honorarios y no devengarán salario o remuneración alguna por su desempeño.
 CAPITULO III De los Participantes en los Sistemas de Ahorro para el Retiro
 
-## Sección I
-De las Administradoras de Fondos para el Retiro
+## Sección I — De las Administradoras de Fondos para el Retiro
 
 ### Artículo 18
 .- Las administradoras son entidades financieras que se dedican de manera habitual y profesional a administrar las cuentas individuales y canalizar los recursos de las subcuentas que las integran en términos de la presente ley, así como a administrar sociedades de inversión.
@@ -593,8 +590,7 @@ VII. Adquirir el control de empresas; y
 
 VIII. Las demás que les señalen ésta u otras leyes.
 
-## Sección II
-De las Sociedades de Inversión Especializadas de Fondos para el Retiro
+## Sección II — De las Sociedades de Inversión Especializadas de Fondos para el Retiro
 
 ### Artículo 39
 .- Las sociedades de inversión, administradas y operadas por las administradoras, tienen por objeto invertir los recursos provenientes de las cuentas individuales que reciban en los términos de las leyes de seguridad social y de esta ley. Asimismo, las sociedades de inversión invertirán los recursos de las administradoras a que se refieren los artículos 27 y 28 de esta ley.
@@ -760,8 +756,7 @@ Estos valores no deberán exceder el 20% del activo total de la sociedad de inve
 
 XII. Las demás que señalen ésta u otras leyes.
 
-## Sección III
-Disposiciones Comunes
+## Sección III — Disposiciones Comunes
 
 ### Artículo 49
 .- Las administradoras y las sociedades de inversión serán administradas por un consejo de administración integrado con un mínimo de cinco consejeros que serán designados por los accionistas de la administradora, de los cuales cuando menos dos serán consejeros independientes.
@@ -873,8 +868,7 @@ Inciso reformado DOF 10-12-2002 En el caso de disolución de las administradoras
 Antes de proceder a la disolución y liquidación de una administradora, se traspasarán los recursos de las sociedades de inversión que administre a la cuenta concentradora prevista en el artículo 75 de esta ley, durante el plazo que determine el reglamento de la misma. El traspaso de esos recursos a otra administradora, se realizará de conformidad con las disposiciones de carácter general que expida la Comisión, salvaguardando los derechos de los trabajadores, sin perjuicio del derecho de éstos para elegir la administradora a la que se traspasará su cuenta individual y la sociedad de inversión para invertir sus recursos.
 Párrafo reformado DOF 10-12-2002
 
-## Sección IV
-De las Empresas Operadoras de la Base de Datos Nacional SAR
+## Sección IV — De las Empresas Operadoras de la Base de Datos Nacional SAR
 
 ### Artículo 57
 .- La Base de Datos Nacional SAR, propiedad exclusiva del Gobierno Federal, es aquélla conformada por la información procedente de los sistemas de ahorro para el retiro, conteniendo la información individual de cada trabajador y el registro de la administradora o institución de crédito en que cada uno de éstos se encuentra afiliado.
@@ -1052,8 +1046,7 @@ Artículo reformado DOF 10-12-2002
 .- Las empresas operadoras a las que se les declare la revocación de la concesión, durante un plazo de 10 años contado a partir de la declaración correspondiente, deberán guardar confidencialidad respecto de la información derivada de los sistemas de ahorro para el retiro a la que hayan tenido acceso y abstenerse de usar o comercializar dicha información en beneficio propio o de terceros.
 CAPITULO IV De la Cuenta Individual y de los Planes de Pensiones Establecidos por Patrones o Derivados de Contratación Colectiva
 
-## Sección I
-De la Cuenta Individual
+## Sección I — De la Cuenta Individual
 
 ### Artículo 74
 .- Los trabajadores afiliados tienen derecho a la apertura de su cuenta individual de conformidad con la Ley del Seguro Social, en la administradora de su elección. Para abrir las cuentas individuales, se les asignará una clave de identificación por el Instituto Mexicano del Seguro Social.
@@ -1181,8 +1174,8 @@ El proceso para el traspaso de los recursos referidos se sujetará a las reglas 
 Los trabajadores y, en su caso, sus beneficiarios, podrán acceder ante los institutos de seguridad social que correspondan al mecanismo de devolución de forma permanente para recibir la pensión a que tengan derecho o, en su caso, la devolución de los recursos, así como los intereses que les correspondan en los términos de las disposiciones que resulten aplicables.
 Artículo adicionado DOF 30-04-2024
 
-## Sección II
-Del Registro de Planes de Pensiones Establecidos por Patrones o Derivados de Contratación Colectiva
+## Sección II — Del Registro de Planes de Pensiones Establecidos por Patrones o Derivados de
+Contratación Colectiva
 
 ### Artículo 82
 .- Los planes de pensiones establecidos por patrones o derivados de contratación colectiva, o por dependencias o entidades a que se refieren los artículos 190 de la Ley del Seguro Social y 90 Bis-O de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, para su registro por la Comisión, en los términos de los mencionados artículos, deberán otorgarse en forma general, en beneficio de todos los trabajadores, dictaminarse por actuario registrado ante la Comisión y cumplir con los requisitos que se determinen mediante disposiciones de carácter general.
@@ -1197,8 +1190,7 @@ Para realizar el retiro de los recursos de la cuenta individual en los supuestos
 Los planes de pensiones mencionados podrán fijar edad y periodos de servicio diferentes a los establecidos en la Ley del Seguro Social o en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, según sea el caso.
 CAPITULO V De la Supervisión de los Participantes en los Sistemas de Ahorro para el Retiro
 
-## Sección I
-De la Contabilidad
+## Sección I — De la Contabilidad
 
 ### Artículo 84
 .- La contabilidad de las administradoras, sociedades de inversión y empresas operadoras, se sujetará a lo previsto en la presente ley, en el reglamento de la misma, así como en las disposiciones de carácter general y los anexos de estas últimas, que para tal efecto expida la Comisión.
@@ -1222,8 +1214,7 @@ Sin perjuicio de lo anterior, la Comisión podrá al revisar los estados contabl
 .- Las administradoras, sociedades de inversión y empresas operadoras, sin perjuicio de lo señalado en la presente ley y en las demás disposiciones conducentes, deberán llevar su contabilidad y el registro de las operaciones en que intervengan, mediante sistemas automatizados, o por cualquier otro medio, conforme a lo que señale la Comisión.
 La información que cumpliendo con los procedimientos establecidos se integre a las bases de datos de la Comisión, producirá los mismos efectos que las leyes otorgan a los documentos originales y, en consecuencia, tendrá igual valor probatorio. Los sistemas automatizados, la información y la manera en que deba proporcionarse, deberán reunir las características que establezca el Reglamento de esta Ley.
 
-## Sección II
-De la Supervisión
+## Sección II — De la Supervisión
 
 ### Artículo 89
 .- La supervisión que realice la Comisión se sujetará al Reglamento de esta Ley, y comprenderá los procedimientos correspondientes al ejercicio de las facultades de inspección, vigilancia, prevención y corrección que se confieren a la Comisión en esta Ley, así como en otras leyes y disposiciones aplicables. Tratándose de las instituciones de crédito la supervisión se realizará exclusivamente por lo que respecta a las operaciones que realicen en relación con los referidos sistemas.
@@ -1286,8 +1277,7 @@ El Presidente de la Comisión podrá designar, en cualquier tiempo, inspectores 
 .- Los inspectores y visitadores serán personas con conocimientos en materia financiera y de los sistemas de ahorro para el retiro, comprobados en los términos que determine el Reglamento de esta Ley.
 La Comisión vigilará que los inspectores y visitadores no incurran en situaciones de conflicto de interés entre su función y los participantes en los sistemas de ahorro para el retiro, siéndoles aplicables las sanciones y penas previstas en la Ley Federal de Responsabilidades de los Servidores Públicos y en
 
-## Sección III
-De la Intervención Administrativa y Gerencial
+## Sección III — De la Intervención Administrativa y Gerencial
 
 ### Artículo 96
 .- Cuando se encuentre que alguna operación de las personas sujetas a la supervisión de la Comisión, no está realizada en los términos de las disposiciones normativas aplicables, el Presidente de la Comisión dictará las medidas necesarias para regularizarlas, señalando un plazo para tal efecto.
@@ -2019,11 +2009,20 @@ I. Los patrones seguirán cubriendo, para los ramos de cesantía en edad avanzad
 II. El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad avanzada y vejez, la cuota social de conformidad con el artículo 168, fracción IV, de la Ley del Seguro Social vigente antes de la entrada en vigor del presente Decreto.
 
 III. En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales.
+
+> **[Tabla no extraíble — ver PDF original, página 94]**
+
 **Tercero.** La cuota a cargo del Gobierno Federal prevista en el artículo 168, fracción IV, de la Ley del Seguro Social será aplicable a partir del 1 de enero de 2023.
 Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualmente en los ramos de cesantía en edad avanzada y vejez, una cantidad por cada día de salario cotizado, por concepto de cuota social para los trabajadores que ganen de cuatro punto cero uno hasta siete punto cero nueve veces la Unidad de Medida y Actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
 Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de 2023.
 **Cuarto.** En la fecha en que entre en vigor el presente Decreto las semanas de cotización que se requieren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como para el cálculo de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, y se incrementarán anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecidas en dichos preceptos.
 La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la edad, semanas de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
+
+> **[Tabla no extraíble — ver PDF original, página 95]**
+
+
+> **[Tabla no extraíble — ver PDF original, página 96]**
+
 **Quinto.** El Instituto Mexicano del Seguro Social, dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público para su aprobación, la metodología para determinar el monto de la reserva que dicho Instituto constituirá para atender las solicitudes de devolución a que se refiere el artículo 302 de la Ley del Seguro Social.
 Las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, en los términos y en el plazo que al efecto establezca la Secretaría de Hacienda y Crédito Público, deberán efectuar los traspasos de los recursos a que se refiere el citado artículo 302 al Instituto Mexicano del Seguro Social.
 **Sexto.** La Secretaría de Hacienda y Crédito Público podrá revisar los procedimientos que el Instituto Mexicano del Seguro Social lleve a cabo para otorgar las prestaciones del "Régimen de Jubilaciones y Pensiones", establecido con base en el contrato colectivo de trabajo suscrito entre el propio Instituto y sus trabajadores y ordenar las modificaciones que estime convenientes con el fin de transparentar el otorgamiento de los beneficios que se otorgan conforme a dicho régimen y la Ley del Seguro Social publicada en el Diario Oficial de la Federación el doce de marzo de 1973.

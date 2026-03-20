@@ -327,8 +327,8 @@ II. Solicitar al servidor público que ejerza el mando directo de la fuerza púb
 III. Ejercer las demás facultades que le corresponden como titular del mando de la fuerza pública que le otorga la Constitución Política de los Estados Unidos Mexicanos.
 Artículo reformado DOF 04-12-1997 TITULO CUARTO DE LAS BASES DE LA ORGANIZACION Y FACULTADES DE LOS ORGANOS LOCALES DE GOBIERNO DEL DISTRITO FEDERAL
 
-## CAPÍTULO I
-DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Denominación del Capítulo reformada DOF 04-12-1997
+## CAPÍTULO I — DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+Denominación del Capítulo reformada DOF 04-12-1997
 
 ### ARTÍCULO 36
 .- La función legislativa del Distrito Federal corresponde a la Asamblea Legislativa en las materias que expresamente le confiere la Constitución Política de los Estados Unidos Mexicanos.
@@ -567,11 +567,11 @@ III. Recibir las iniciativas de ley y proposiciones dirigidas a la Asamblea y tu
 IV. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los miembros de la Asamblea Legislativa.
 Fracción reformada DOF 04-12-1997
 
-## CAPÍTULO II
-DEL JEFE DE GOBIERNO Denominación del Capítulo reformada DOF 04-12-1997
+## CAPÍTULO II — DEL JEFE DE GOBIERNO
+Denominación del Capítulo reformada DOF 04-12-1997
 
-## SECCIÓN I
-DE LA ELECCIÓN Y LA REMOCIÓN Denominación de la Sección reformada DOF 04-12-1997
+## SECCIÓN I — DE LA ELECCIÓN Y LA REMOCIÓN
+Denominación de la Sección reformada DOF 04-12-1997
 
 ### ARTÍCULO 52
 .- El Jefe de Gobierno del Distrito Federal tendrá a su cargo el órgano ejecutivo de carácter local y la administración pública en la entidad recaerá en una sola persona, elegida por votación universal, libre, directa y secreta, en los términos de este Estatuto y la ley electoral que expida la Asamblea Legislativa del Distrito Federal. La elección de Jefe de Gobierno del Distrito Federal se realizará cada seis años, en la misma fecha en que se realice la elección del Presidente Constitucional de los Estados Unidos Mexicanos.
@@ -673,8 +673,8 @@ IV. Utilizar la fuerza pública fuera de las facultades de dirección que en mat
 V. Las demás que determinen otras disposiciones legales y que afecten gravemente las relaciones con los Poderes de la Unión o el orden público.
 Artículo reformado DOF 04-12-1997
 
-## SECCIÓN II
-DE LAS FACULTADES Y OBLIGACIONES DEL JEFE DE GOBIERNO DEL DISTRITO FEDERAL Denominación de la Sección reformada DOF 04-12-1997
+## SECCIÓN II — DE LAS FACULTADES Y OBLIGACIONES DEL JEFE DE GOBIERNO DEL DISTRITO
+FEDERAL Denominación de la Sección reformada DOF 04-12-1997
 
 ### ARTÍCULO 67
 .- Las facultades y obligaciones del Jefe de Gobierno del Distrito Federal son las siguientes:
@@ -833,8 +833,8 @@ IV. En todo caso, los integrantes de las comisiones, contarán con la asesoría 
 .- El Jefe de Gobierno difundirá el contenido de los acuerdos y convenios entre los habitantes del Distrito Federal que residan en la zona materia de los mismos, a fin de que éstos conozcan sus alcances, así como a las autoridades responsables de su ejecución.
 Artículo reformado DOF 04-12-1997
 
-## CAPÍTULO III
-DE LOS ÓRGANOS ENCARGADOS DE LA FUNCIÓN JUDICIAL Denominación del Capítulo reformada DOF 04-12-1997
+## CAPÍTULO III — DE LOS ÓRGANOS ENCARGADOS DE LA FUNCIÓN JUDICIAL
+Denominación del Capítulo reformada DOF 04-12-1997
 
 ### ARTÍCULO 76
 .- La función judicial del fuero común en el Distrito Federal se ejercerá por el Tribunal Superior de Justicia del Distrito Federal, el Consejo de la Judicatura del Distrito Federal, jueces y demás órganos que su ley orgánica señale. Dicha ley regulará también su organización y funcionamiento.
@@ -967,8 +967,8 @@ Artículo reformado DOF 04-12-1997
 .- Los titulares de las entidades que conforman la administración pública paraestatal, además de cumplir los requisitos establecidos en las leyes, deberán haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en la materia o materias a cargo de la entidad a dirigir, o contar con conocimientos de alto nivel y experiencia en materia administrativa.
 Artículo reformado DOF 04-12-1997
 
-## CAPÍTULO II
-DE LAS DEMARCACIONES TERRITORIALES Y DE LOS ÓRGANOS POLÍTICOADMINISTRATIVOS Denominación del Capítulo reformada DOF 14-10-1999
+## CAPÍTULO II — DE LAS DEMARCACIONES TERRITORIALES Y DE LOS ÓRGANOS POLÍTICO-
+ADMINISTRATIVOS Denominación del Capítulo reformada DOF 14-10-1999
 
 ### ARTÍCULO 104
 .- La Administración Pública del Distrito Federal contará con un órgano políticoadministrativo en cada demarcación territorial.
@@ -1181,10 +1181,13 @@ Párrafo reformado DOF 04-12-1997
 
 ### ARTÍCULO 119
 .- Los Programas de Desarrollo Urbano serán formulados por el Jefe de Gobierno del Distrito Federal y sometidos a la aprobación de la Asamblea Legislativa del Distrito Federal, de acuerdo con los procedimientos y requisitos establecidos en la ley de la materia.
-Artículo reformado DOF 04-12-1997 TÍTULO SEXTO DE LAS AUTORIDADES ELECTORALES LOCALES Y LOS PARTIDOS POLÍTICOS Título derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997
+Artículo reformado DOF 04-12-1997
 
-## CAPÍTULO I
-DISPOSICIONES GENERALES Capítulo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997
+## TÍTULO SEXTO — DE LAS AUTORIDADES ELECTORALES LOCALES Y LOS PARTIDOS POLÍTICOS
+Título derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997
+
+## CAPÍTULO I — DISPOSICIONES GENERALES
+Capítulo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997
 
 ### ARTÍCULO 120
 .- La renovación de las autoridades legislativa y ejecutiva de carácter local, así como de los titulares de los órganos político-administrativos de las demarcaciones territoriales, se realizará mediante elecciones libres, auténticas y periódicas. La jornada electoral se llevará a cabo el primer domingo de junio del año que corresponda.
@@ -1195,8 +1198,8 @@ Párrafo reformado DOF 27-06-2014 De igual modo, la propaganda que difunda cada 
 Párrafo reformado DOF 27-06-2014 La Ley establecerá las sanciones que correspondan por la violación de este precepto.
 Artículo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997. Reformado DOF 28-04-2008
 
-## CAPÍTULO II
-DE LOS PARTIDOS POLÍTICOS Capítulo derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997 (reubicado)
+## CAPÍTULO II — DE LOS PARTIDOS POLÍTICOS
+Capítulo derogado DOF 22-11-1996 (queda sin efecto). Adicionado DOF 04-12-1997 (reubicado)
 
 ### ARTÍCULO 121
 .- En las elecciones locales del Distrito Federal podrán participar tanto los partidos políticos con registro nacional y los partidos políticos con registro local del Distrito Federal, así como los ciudadanos que constituyan candidaturas para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos de los artículos 35 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -1247,8 +1250,8 @@ XI. El procedimiento para la liquidación de los partidos locales que pierdan su
 XII. Las demás bases para la contribución de los partidos al fortalecimiento de la democracia a través de los procesos electorales en el Distrito Federal.
 Artículo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997. Reformado DOF 28-04-2008
 
-## CAPÍTULO III
-DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL Capítulo adicionado DOF 04-12-1997
+## CAPÍTULO III — DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
+Capítulo adicionado DOF 04-12-1997
 
 ### ARTÍCULO 123
 .- La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público local denominado Instituto Electoral del Distrito Federal, dotado de personalidad jurídica y patrimonio propios. En dicha organización participan los partidos políticos y los ciudadanos, en los términos que ordene la ley.
@@ -1279,8 +1282,8 @@ Artículo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997. Reformado DOF 27-0
 .- El Instituto Electoral del Distrito Federal tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a: 1. Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos. Los candidatos independientes tendrán derecho de acceso a prerrogativas para las campañas electorales en los términos que establecen la Constitución y la ley; 2. Educación cívica; 3. Preparación de la jornada electoral; 4. Impresión de documentos y la producción de materiales electorales; 5. Escrutinios y cómputos en los términos que señale la ley; 6. Declaración de validez y el otorgamiento de constancias en las elecciones locales; 7. Cómputo de la elección del Jefe de Gobierno del Distrito Federal; 8. Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme a los lineamientos establecidos en el artículo 41, Base V, Apartado B de la Constitución; 9. Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la legislación local; 10. Todas las no reservadas al Instituto Nacional Electoral, y 11. Las que determinen la Constitución y las leyes.
 Artículo derogado DOF 22-11-1996. Adicionado DOF 04-12-1997. Reformado DOF 27-06-2014
 
-## CAPÍTULO IV
-DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL Capítulo adicionado DOF 04-12-1997
+## CAPÍTULO IV — DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
+Capítulo adicionado DOF 04-12-1997
 
 ### ARTÍCULO 128
 .- El Tribunal Electoral del Distrito Federal es el órgano jurisdiccional especializado en materia electoral; gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones.
@@ -1347,8 +1350,8 @@ j) No haber sido registrado como candidato, con excepción de los candidatos ind
 k) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
 Artículo adicionado DOF 04-12-1997. Reformado DOF 27-06-2014
 
-## CAPÍTULO V
-DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL LOCAL Y DE LOS DELITOS ELECTORALES Capítulo adicionado DOF 04-12-1997
+## CAPÍTULO V — DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL LOCAL Y DE LOS
+DELITOS ELECTORALES Capítulo adicionado DOF 04-12-1997
 
 ### ARTÍCULO 134
 .- La Ley electoral establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Asimismo, fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
@@ -1365,7 +1368,13 @@ Artículo adicionado DOF 04-12-1997. Reformado DOF 27-06-2014
 
 ### ARTÍCULO 136
 .- La ley electoral establecerá las faltas en la materia y las sanciones correspondientes, en los términos establecidos en la Constitución y en la Ley General de Instituciones y Procedimientos Electorales.
-Artículo adicionado DOF 04-12-1997. Reformado DOF 27-06-2014 TÍTULO SÉPTIMO DEL RÉGIMEN PATRIMONIAL DEL DISTRITO FEDERAL Título adicionado DOF 04-12-1997 CAPÍTULO ÚNICO Capítulo adicionado DOF 04-12-1997
+Artículo adicionado DOF 04-12-1997. Reformado DOF 27-06-2014
+
+## TÍTULO SÉPTIMO — DEL RÉGIMEN PATRIMONIAL DEL DISTRITO FEDERAL
+Título adicionado DOF 04-12-1997
+
+## CAPÍTULO ÚNICO
+Capítulo adicionado DOF 04-12-1997
 
 ### ARTÍCULO 137
 .- El patrimonio del Distrito Federal se compone de los bienes de dominio público y los bienes de dominio privado. La ley regulará el régimen patrimonial del Distrito Federal, sus disposiciones serán de orden e interés públicos y de observancia obligatoria.
@@ -1547,7 +1556,7 @@ Publicado en el Diario Oficial de la Federación el 4 de diciembre de 1997
 Se reforman los artículos 1o., 2o., 3o., 6o., 7o. primer párrafo, 8o., 9o., 11 fracción III, 12, 15, 17 fracción V, 20 fracción I, 21, 22, 23 fracción I, 24 fracciones I, III y IV, 25, 26, 27, 28, 29, 31 fracciones I y III, 32, 33, 34, 35, la denominación del Capítulo I del Título Cuarto, 36, 37, 40, 41, 42, 43, 44, 45, 46 fracciones I y III, 47, 48, 49, 50, 51 primer párrafo, fracciones II y IV, la denominación del Capítulo II del Título Cuarto, la denominación de la Sección I del Capítulo II del Título
 **Cuarto.** , 52, 53, 54, 55, 56, 57, 59, 60, 61, 62, 65, 66, la denominación de la Sección II del Capítulo II del
 
-## Título Cuarto, 67, 68, 70 primer párrafo, 71, 72, 73 fracciones I y II, 75, la denominación del Capítulo III
+## Título Cuarto — , 67, 68, 70 primer párrafo, 71, 72, 73 fracciones I y II, 75, la denominación del Capítulo III
 del Título Cuarto, 76, 77, 78, 79, 80 primer párrafo, 83 segundo párrafo, 86, 87, 88, 90, 91, 93 segundo párrafo, 94, 96, 98, 99 fracciones II y III, 101, 102, 103, 105 fracción II, 109 primer párrafo, 110 primer párrafo, 112, 114 primer párrafo, 117 primer párrafo, fracciones III, VII y VIII, 118 fracciones I a VII y último párrafo; y 119; se adiciona una fracción IV al artículo 24, una fracción IV al artículo 46, un tercer párrafo al artículo 80, una fracción IX al artículo 117, una fracción VIII al artículo 118, un Título Sexto con los Capítulos I a V y con los artículos 120 a 136, un Título Séptimo con un Capítulo Único y con los artículos 137 a 145; y se derogan la fracción III del artículo 23, el artículo 30, la fracción II del artículo 46, la fracción I del artículo 51, el artículo 58, el artículo 63, el artículo 106 y el artículo 107 del Estatuto de Gobierno del Distrito Federal, para quedar como sigue:
 
 ## TRANSITORIOS

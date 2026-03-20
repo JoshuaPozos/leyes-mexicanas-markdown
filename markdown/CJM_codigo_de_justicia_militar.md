@@ -1312,7 +1312,9 @@ Párrafo reformado DOF 13-06-2014
 ### Artículo 144
 .- A todo militar se le considerará suspenso en el ejercicio de su empleo sin quedar exento de las consideraciones que con atención a él le deban guardar sus inferiores, y él a éstos o a sus superiores, en tanto que permanezca en prisión preventiva; pero cuando esté extinguiendo una pena privativa de libertad, se le considerará como destituido de su empleo, aunque no hubiese sido sentenciado a la destitución, sin que por ello se entienda que queda privado de su carácter de sentenciado militar.
 A los sargentos, cabos y soldados procesados por el delito de deserción simple o condenados a sufrir una pena sin perjuicio del servicio, cualquiera que sea el lugar señalado para unos y otros, se considerarán como soldados; prestarán los servicios que se les designen y estarán sujetos en todo a las prevenciones de la ordenanza o leyes que la substituyan, y a las del presente Código.
-TÍTULO TERCERO Aplicación, Substitución y Reducción de las Penas Denominación del Título reformada DOF 29-06-2005 CAPITULO I Reglas generales
+
+## TÍTULO TERCERO
+Aplicación, Substitución y Reducción de las Penas Denominación del Título reformada DOF 29-06-2005 CAPITULO I Reglas generales
 
 ### Artículo 145
 .- Se prohíbe imponer por simple analogía y aun por mayoría de razón, pena alguna que no esté decretada en una ley aplicable exactamente al delito de que se trate, y que estuviere vigente cuando éste se cometió. Se exceptúan en favor del sentenciado los casos siguientes:
@@ -1443,8 +1445,8 @@ CAPITULO VII Aplicación de penas cuando se estimen atenuantes y agravantes
 ### Artículo 172
 .- Si la ley fijare los extremos, la autoridad judicial impondrá la que estime justa, debiendo tomar en cuenta las circunstancias que atenúen o agraven la responsabilidad del acusado, si algunas concurren.
 
-## CAPÍTULO VIII
-De la Substitución de Penas Denominación del Capítulo reformada DOF 29-06-2005
+## CAPÍTULO VIII — De la Substitución de Penas
+Denominación del Capítulo reformada DOF 29-06-2005
 
 ### Artículo 173
 .- La substitución no puede hacerse sino por la autoridad judicial cuando este Código lo permita y al dictarse en el proceso la sentencia definitiva imponiendo una pena diversa de la señalada en la ley.
@@ -4601,8 +4603,8 @@ Artículo derogado DOF 16-05-2016
 .- (Se deroga).
 Artículo reformado DOF 13-06-2014. Derogado DOF 16-05-2016
 
-## CAPÍTULO III
-De la Reducción, Indulto, Reconocimiento de Inocencia y Rehabilitación (Se deroga) Denominación del Capítulo reformada DOF 24-06-1993, 29-06-2005. Capítulo derogado DOF 16-05-2016
+## CAPÍTULO III — De la Reducción, Indulto, Reconocimiento de Inocencia y Rehabilitación
+(Se deroga) Denominación del Capítulo reformada DOF 24-06-1993, 29-06-2005. Capítulo derogado DOF 16-05-2016
 
 ### Artículo 869
 .- (Se deroga).
@@ -4888,10 +4890,7 @@ de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; 
 **ÚNICO.-** El presente Decreto entrará en vigor el 20 de marzo de 1998.
 México, D.F., a 12 de diciembre de 1997.- Sen. Heladio Ramírez López, Presidente.- Dip. Luis Meneses Murillo, Presidente.- Sen. José Antonio Valdivia, Secretario.- Dip. Jaime Castro López, Secretario.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 DECRETO por el que se reforman diversas disposiciones en materia penal.
-Publicado en el Diario Oficial de la Federación el 18 de mayo de 1999 ARTICULO SEGUNDO.- Se reforman el artículo 78; la fracción I del artículo 83; la denominación del
-
-## Capítulo III, del Título Segundo, del Libro Tercero; el párrafo segundo del artículo 453; el artículo 454 y
-las fracciones III, V y VII y los párrafos segundo y cuarto del artículo 515, y se adicionan los artículos 801 bis y 801 ter, todos del Código de Justicia Militar, para quedar como sigue: ..........
+Publicado en el Diario Oficial de la Federación el 18 de mayo de 1999 ARTICULO SEGUNDO.- Se reforman el artículo 78; la fracción I del artículo 83; la denominación del Capítulo III, del Título Segundo, del Libro Tercero; el párrafo segundo del artículo 453; el artículo 454 y las fracciones III, V y VII y los párrafos segundo y cuarto del artículo 515, y se adicionan los artículos 801 bis y 801 ter, todos del Código de Justicia Militar, para quedar como sigue: ..........
 
 ## TRANSITORIOS
 
@@ -4956,10 +4955,7 @@ Publicado en el Diario Oficial de la Federación el 16 de mayo de 2016
 ### ARTÍCULO PRIMERO
 Se REFORMAN los artículos 2o., fracciones I, II, IV y V; 3o.; 4o., fracciones II, III, IV y V; 5o.; 6o.; 9o.; 27; 35; 37, primer párrafo; 38; 39; 40; 41; 42; 43; 44; 45; 48; 49 Bis, fracciones I, IV, V y VII; la denominación del Título Cuarto del Libro Primero titulado “De la organización de la Defensoría de Oficio Militar”; 50; 51; la denominación del Capítulo II, del Título Cuarto del Libro Primero titulado “De la Defensoría de Oficio Militar”; 52; 53; 54; 55; 56; 60; 67, fracciones I, II y IV; 68, fracciones III, IV y VII; 69 fracción I; 70; 76 Ter; 77; 78; 79; 81; 82; 83; la denominación del Capítulo VI, del Título
 **Quinto.** , del Libro Primero titulado “Defensoría de Oficio Militar”; 85; 86; 89 y 96; se ADICIONAN los artículos 1o. con las fracciones II bis y III bis; 2o. con la fracción III Bis; un nuevo Capítulo II Bis del Título
-**Primero.** del Libro Primero titulado “De los Tribunales Militares de Juicio Oral”, que comprende los artículos 9o. Bis y 9o. Ter; un nuevo Capítulo V Bis del Título Primero del Libro Primero titulado “De los Juzgados Militares de Control”, que comprende los artículos 30 Ter, 30 Quáter y 30 Quintus; un nuevo
-
-## Capítulo V Ter del Título Primero del Libro Primero titulado “De los Juzgados Militares de Ejecución de
-Sentencias”, que comprende los artículos 30 Sextus y 30 Septimus; un nuevo Capítulo III Bis del Título
+**Primero.** del Libro Primero titulado “De los Tribunales Militares de Juicio Oral”, que comprende los artículos 9o. Bis y 9o. Ter; un nuevo Capítulo V Bis del Título Primero del Libro Primero titulado “De los Juzgados Militares de Control”, que comprende los artículos 30 Ter, 30 Quáter y 30 Quintus; un nuevo Capítulo V Ter del Título Primero del Libro Primero titulado “De los Juzgados Militares de Ejecución de Sentencias”, que comprende los artículos 30 Sextus y 30 Septimus; un nuevo Capítulo III Bis del Título
 **Segundo.** del Libro Primero titulado “De la Coordinación de Servicios Periciales y Ciencias Forenses” conformado por los artículos 35 bis, 35 ter y 35 Quáter; 49 Bis, fracción III con los incisos a)., b)., c). y d)., y fracciones XII a XVIII; 67 Bis; 68 con la fracción VII Bis; un nuevo Capítulo II Bis al Título Quinto del Libro Primero titulado “Tribunales Militares de Juicio Oral, Jueces de Control y de Ejecución de Sentencias” conformado por los artículos 71 Bis y 71 Ter; 81 bis; se DEROGAN los artículos 1o. fracciones II, III y IV; 2o. fracción III; el Capítulo III, del Título Primero del Libro Primero denominado “De los consejos de guerra ordinarios” que comprende los artículos 10, 11, 12, 13, 14 y 15; el Capítulo IV del Título Primero del Libro Primero denominado “De los consejos de guerra extraordinarios”, que comprende los artículos 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 28; 29; 30 y 30 Bis del Capítulo V, del Título
 **Primero.** del Libro Primero; el Capítulo I del Título Segundo del Libro Primero “De los Jueces Penales del orden común” que comprende el artículo 31; el Capítulo II del Título Segundo del Libro Primero “Del Cuerpo Médico Legal Militar”, que comprende los artículos 32 y 33; el Capítulo III del Título Tercero del Libro Primero “Del Laboratorio Científico de Investigaciones” que comprende los artículos 46; 62; 63; 64; 65; 66; 67, fracción V; 72; 73; 74; 75; 76; 80; 84; 87; 88; 90; 91; 92; 93; 94; 95; 97; y 98; el Libro Tercero que comprende los Títulos Primero a Octavo y los artículos 435 a 923 del Código de Justicia Militar, para quedar como sigue: ……… Disposiciones transitorias
 
@@ -5070,9 +5066,7 @@ Se reforman los artículos 1, fracciones I, III Bis y V; 2, párrafo primero, fr
 **primero.** , fracciones II, III, IV y V; 325; 327; 330; 331; 333; 334, párrafo primero; 335; 336, del párrafo
 **primero.** , fracción II; 337; 338, párrafo primero; 339, párrafo primero, fracciones II y III; 340; 341; 342, párrafo primero, fracciones II y III; 343, párrafo primero, fracciones I, II, III, IV, V y VI; 344; 345; 346; 347; 348; 349; 350; 351; 352, párrafo primero, fracciones II y III; 353, párrafo primero, fracción II; 354; 355, párrafo primero, fracciones II y III; 356; 357; 358, párrafo primero, fracciones II y III; 359; 360; 361; 362, párrafo primero, fracciones I, II, en su párrafo primero, fracción III; 363; 364, párrafo primero, fracciones II y III; 365, párrafo primero, fracciones II y III; 366, párrafo primero, fracción II; 367; 368; 369; 370, párrafo
 **primero.** , fracción II; 371, párrafo primero, fracción III; 372, párrafo primero, fracciones II y III; 373; 374; 375, párrafo primero; 376; 377; 378, párrafo primero, fracción II; 379, párrafo primero, fracción II; 380; 381; 382; 384; 386; 387; 388; 389; 390; 391; 392; 393; 394; 395; 397, párrafo primero, fracciones I, II, III, párrafo primero y IV, párrafo primero; 398, párrafo primero; 399; 400; 401; 402; 403; 404; 405; 406; 407, párrafo primero, fracciones II, III, IV, V, VI y VII; 408, párrafo primero, fracciones II y III; 409; 421; 422, párrafos primero y segundo, fracciones II, III, IV, V, VI y VII; 423, párrafo primero, fracciones I, II, III, IV y V; 424; 425; 426; 427; 428; 429; 430; 432; 433; 434, de su primer párrafo las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI; así como las denominaciones del Libro Primero, Título Primero Capítulo II; Título
-**Quinto.** , Capítulo II; del Libro Segundo, Título Octavo y sus Capítulos III y VI; Título Decimoprimero,
-
-## Capítulo I, y se adicionan a los artículos 47, el párrafo segundo; 208, párrafo segundo; 249, párrafo
+**Quinto.** , Capítulo II; del Libro Segundo, Título Octavo y sus Capítulos III y VI; Título Decimoprimero, Capítulo I, y se adicionan a los artículos 47, el párrafo segundo; 208, párrafo segundo; 249, párrafo
 **segundo.** ; 396 Bis; 396 Ter; 396 Quáter; 396 Quinquies; 396 Sexies; 434, fracciones XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI y XXII así como en el Libro Segundo del Título Decimoprimero, un Capítulo VI Bis, del Código de Justicia Militar, para quedar como sigue: ……..
 
 ## Transitorios

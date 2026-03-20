@@ -12,7 +12,11 @@ SE EXPIDE LA   Y SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DELINCUENCIA ORGANIZA
 
 ### ARTÍCULO PRIMERO
 Se expide la Ley de Migración.
-LEY DE MIGRACION TÍTULO PRIMERO DISPOSICIONES PRELIMINARES CAPÍTULO ÚNICO DISPOSICIONES PRELIMINARES
+LEY DE MIGRACION
+
+## TÍTULO PRIMERO — DISPOSICIONES PRELIMINARES
+
+## CAPÍTULO ÚNICO — DISPOSICIONES PRELIMINARES
 
 ### Artículo 1
 . Las disposiciones de esta Ley son de orden público y de observancia general en toda la República y tienen por objeto regular lo relativo al ingreso y salida de mexicanos y extranjeros al territorio de los Estados Unidos Mexicanos y el tránsito y la estancia de los extranjeros en el mismo, en un marco de respeto, protección y salvaguarda de los derechos humanos, de contribución al desarrollo nacional, así como de preservación de la soberanía y de la seguridad nacionales.
@@ -151,7 +155,10 @@ Fracción recorrida DOF 07-06-2013, 11-11-2020
 ### Artículo 5
 . Quedan exceptuados de la inspección migratoria los representantes y funcionarios de gobiernos extranjeros y de organismos internacionales que se internen al país en comisión oficial, sus familiares y los miembros del personal de servicio, así como las personas que, conforme a los tratados y convenios de los cuales sea parte el Estado Mexicano, a las leyes y a las prácticas internacionales reconocidas por el Estado Mexicano, gocen de inmunidades respecto de la jurisdicción territorial, atendiendo siempre a la reciprocidad internacional.
 Los extranjeros que concluyan su encargo oficial en los Estados Unidos Mexicanos y deseen permanecer en el país, así como aquéllos que gocen de inmunidad y renuncien a ella con el fin de realizar actividades lucrativas, deberán cumplir con lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables.
-TÍTULO SEGUNDO DERECHOS Y OBLIGACIONES DE LOS MIGRANTES CAPÍTULO ÚNICO DERECHOS Y OBLIGACIONES
+
+## TÍTULO SEGUNDO — DERECHOS Y OBLIGACIONES DE LOS MIGRANTES
+
+## CAPÍTULO ÚNICO — DERECHOS Y OBLIGACIONES
 
 ### Artículo 6
 . El Estado mexicano garantizará a toda persona extranjera el ejercicio de los derechos y libertades reconocidos en la Constitución, en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano y en las disposiciones jurídicas aplicables, con independencia de su situación migratoria.
@@ -213,10 +220,10 @@ IV. Las demás obligaciones establecidas en la Constitución, en la presente Ley
 
 ### Artículo 17
 . Sólo las autoridades migratorias podrán retener la documentación que acredite la identidad o situación migratoria de los migrantes cuando existan elementos para presumir que son apócrifas, en cuyo caso deberán inmediatamente hacerlo del conocimiento de las autoridades competentes para que éstas resuelvan lo conducente.
-TÍTULO TERCERO DE LAS AUTORIDADES EN MATERIA MIGRATORIA
 
-## CAPÍTULO I
-DE LA AUTORIDADES MIGRATORIAS
+## TÍTULO TERCERO — DE LAS AUTORIDADES EN MATERIA MIGRATORIA
+
+## CAPÍTULO I — DE LA AUTORIDADES MIGRATORIAS
 
 ### Artículo 18
 . La Secretaría tendrá las siguientes atribuciones en materia migratoria:
@@ -288,8 +295,7 @@ IV. En los casos previstos en esta Ley, tramitar y resolver la expedición de vi
 
 V. Las demás que le señale esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
 
-## CAPÍTULO II
-DE LA PROFESIONALIZACIÓN Y CERTIFICACIÓN DEL PERSONAL DEL INSTITUTO
+## CAPÍTULO II — DE LA PROFESIONALIZACIÓN Y CERTIFICACIÓN DEL PERSONAL DEL INSTITUTO
 
 ### Artículo 22
 . La actuación de los servidores públicos del Instituto se sujetará, invariablemente, a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución y en la presente Ley.
@@ -322,8 +328,7 @@ VII. Las demás que le señale esta Ley, su Reglamento y otras disposiciones jur
 Para la eficiencia y eficacia de la gestión migratoria, los procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de los servidores públicos del Instituto, así como los relativos a la organización y funcionamiento del Servicio Profesional de Carrera Migratoria, serán establecidos en el Reglamento de esta Ley.
 Artículo reformado DOF 07-06-2013
 
-## CAPÍTULO III
-DE LAS AUTORIDADES AUXILIARES EN MATERIA MIGRATORIA
+## CAPÍTULO III — DE LAS AUTORIDADES AUXILIARES EN MATERIA MIGRATORIA
 
 ### Artículo 26
 . Corresponde a la Secretaría de Turismo:
@@ -396,11 +401,10 @@ III. Proporcionar a las autoridades migratorias capacitación en materia de igua
 
 IV. Las demás que señale esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
-## TÍTULO CUARTO
-DEL MOVIMIENTO INTERNACIONAL DE PERSONAS Y LA ESTANCIA DE EXTRANJEROS EN TERRITORIO NACIONAL
+## TÍTULO CUARTO — DEL MOVIMIENTO INTERNACIONAL DE PERSONAS Y LA ESTANCIA DE EXTRANJEROS
+EN TERRITORIO NACIONAL
 
-## CAPÍTULO I
-DE LA ENTRADA Y SALIDA DEL TERRITORIO NACIONAL
+## CAPÍTULO I — DE LA ENTRADA Y SALIDA DEL TERRITORIO NACIONAL
 
 ### Artículo 31
 . Es facultad exclusiva de la Secretaría fijar y suprimir los lugares destinados al tránsito internacional de personas por tierra, mar y aire, previa opinión de las Secretarías de Hacienda y Crédito Público; de Comunicaciones y Transportes; de Salud; de Relaciones Exteriores; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y en su caso, de Marina. Asimismo, consultará a las dependencias que juzgue conveniente.
@@ -584,8 +588,7 @@ II. En el caso de que vayan acompañados por un tercero mayor de edad o viajen s
 ### Artículo 51
 . La Secretaría estará facultada para emitir políticas y disposiciones administrativas de carácter general, que se publicarán en el Diario Oficial de la Federación, con el objeto de atender las necesidades migratorias del país, tomando en cuenta la opinión del Consejo Nacional de Población.
 
-## CAPÍTULO II
-DE LA ESTANCIA DE EXTRANJEROS EN EL TERRITORIO NACIONAL
+## CAPÍTULO II — DE LA ESTANCIA DE EXTRANJEROS EN EL TERRITORIO NACIONAL
 
 ### Artículo 52
 . Los extranjeros podrán permanecer en el territorio nacional en las condiciones de estancia de visitante, residente temporal y residente permanente, siempre que cumplan con los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones jurídicas aplicables, de conformidad con lo siguiente:
@@ -746,7 +749,11 @@ Fracción reformada DOF 07-01-2021
 ### Artículo 65
 . Los extranjeros deberán acreditar su situación migratoria regular en el país, en los actos jurídicos en los que se requiera de la intervención de los notarios públicos, los que sustituyan a éstos o hagan sus veces, en lo relativo a cuestiones inmobiliarias, y los corredores de comercio.
 De conformidad con lo dispuesto en el artículo 27 de la Constitución, la Ley de Inversión Extranjera y demás leyes y disposiciones aplicables, los extranjeros deberán formular las renuncias correspondientes.
-TÍTULO QUINTO DE LA PROTECCIÓN A LOS MIGRANTES QUE TRANSITAN POR EL TERRITORIO NACIONAL CAPÍTULO ÚNICO DISPOSICIONES GENERALES
+
+## TÍTULO QUINTO — DE LA PROTECCIÓN A LOS MIGRANTES QUE TRANSITAN POR EL TERRITORIO
+NACIONAL
+
+## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
 
 ### Artículo 66
 . La situación migratoria de un migrante no impedirá el ejercicio de sus derechos y libertades reconocidos en la Constitución, en los tratados y convenios internacionales de los cuales sea parte el Estado mexicano, así como en la presente Ley.
@@ -810,10 +817,11 @@ Artículo reformado DOF 15-01-2026
 
 ### Artículo 76
 . El Instituto no podrá realizar visitas de verificación migratoria en los lugares donde se encuentre migrantes albergados por organizaciones de la sociedad civil o personas que realicen actos humanitarios, de asistencia o de protección a los migrantes.
-TÍTULO SEXTO DEL PROCEDIMIENTO ADMINISTRATIVO MIGRATORIO
 
-## CAPÍTULO I
-DISPOSICIONES COMUNES EN MATERIA DE VERIFICACIÓN Y REGULACIÓN MIGRATORIA
+## TÍTULO SEXTO — DEL PROCEDIMIENTO ADMINISTRATIVO MIGRATORIO
+
+## CAPÍTULO I — DISPOSICIONES COMUNES EN MATERIA DE VERIFICACIÓN Y REGULACIÓN
+MIGRATORIA
 
 ### Artículo 77
 . El procedimiento administrativo migratorio se regirá por las disposiciones contenidas en Secretaría, y en forma supletoria por la Ley Federal de Procedimiento Administrativo. Durante su sustanciación se respetarán plenamente los derechos humanos de los migrantes.
@@ -830,8 +838,7 @@ Artículo reformado DOF 11-11-2020
 ### Artículo 80
 . Al ejercer sus facultades de control, verificación y revisión migratoria, el Instituto deberá consultar e informar a las autoridades responsables de la Seguridad Nacional sobre la presentación o identificación de sujetos que tengan vínculos con el terrorismo o la delincuencia organizada, o cualquier otra actividad que ponga en riesgo la Seguridad Nacional y deberá, adicionalmente, coadyuvar en las investigaciones que dichas autoridades le requieran.
 
-## CAPÍTULO II
-DEL CONTROL MIGRATORIO
+## CAPÍTULO II — DEL CONTROL MIGRATORIO
 
 ### Artículo 81
 . Son acciones de control migratorio, la revisión de documentación de personas que pretendan internarse o salir del país, así como la inspección de los medios de transporte utilizados para tales fines. En dichas acciones, la Policía Federal actuará en auxilio y coordinación con el Instituto.
@@ -870,8 +877,7 @@ En el caso de transporte marítimo, cuando se determine el rechazo del extranjer
 ### Artículo 91
 . Las empresas de transporte responderán pecuniariamente de las violaciones que a la presente Ley y su Reglamento cometan sus empleados, agentes o representantes, sin perjuicio de la responsabilidad directa en que incurran éstos.
 
-## CAPÍTULO III
-DE LA VERIFICACIÓN MIGRATORIA
+## CAPÍTULO III — DE LA VERIFICACIÓN MIGRATORIA
 
 ### Artículo 92
 . El Instituto realizará visitas de verificación para comprobar que los extranjeros que se encuentren en territorio nacional cumplan con las obligaciones previstas en esta Ley y su Reglamento.
@@ -904,8 +910,7 @@ Párrafo adicionado DOF 11-11-2020
 ### Artículo 96
 . Las autoridades colaborarán con el Instituto para el ejercicio de sus funciones, cuando éste así lo solicite, sin que ello implique que puedan realizar de forma independiente funciones de control, verificación y revisión migratoria.
 
-## CAPÍTULO IV
-DE LA REVISIÓN MIGRATORIA
+## CAPÍTULO IV — DE LA REVISIÓN MIGRATORIA
 
 ### Artículo 97
 . Además de los lugares destinados al tránsito internacional de personas establecidos, el Instituto podrá llevar a cabo revisiones de carácter migratorio dentro del territorio nacional a efecto de comprobar la situación migratoria de los extranjeros.
@@ -921,8 +926,7 @@ La presentación de la persona extranjera a cuyo cuidado se encuentren niñas, n
 Si de la revisión migratoria se determina la presentación de una persona extranjera y ésta manifiesta la existencia de niñas, niños o adolescentes a su cargo, quienes derivado de la presentación de la persona ante el Instituto, pudieran quedar en desamparo, las autoridades migratorias deberán tomar toda la información conducente y notificar inmediatamente a la Procuraduría de Protección para que proceda de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 Artículo reformado DOF 11-11-2020
 
-## CAPÍTULO V
-DE LA PRESENTACIÓN DE EXTRANJEROS
+## CAPÍTULO V — DE LA PRESENTACIÓN DE EXTRANJEROS
 
 ### Artículo 99
 . Es de orden público la presentación de los extranjeros adultos en estaciones migratorias o en lugares habilitados para ello, en tanto se determina su situación migratoria en territorio nacional.
@@ -959,8 +963,7 @@ En el caso del auto de vinculación a proceso y la sentencia firme condenatoria 
 ### Artículo 105
 . En los traslados de extranjeros presentados o en proceso de retorno voluntario, el Instituto podrá solicitar el apoyo de la Policía Federal de conformidad con el artículo 96 de esta Ley y demás disposiciones jurídicas aplicables.
 
-## CAPÍTULO VI
-DE LOS DERECHOS DE LOS ALOJADOS EN LAS ESTACIONES MIGRATORIAS
+## CAPÍTULO VI — DE LOS DERECHOS DE LOS ALOJADOS EN LAS ESTACIONES MIGRATORIAS
 
 ### Artículo 106
 . Para la presentación de migrantes, el Instituto establecerá estaciones migratorias o habilitará estancias provisionales en los lugares de la República que estime convenientes.
@@ -1048,8 +1051,8 @@ V. Que se haya interpuesto un recurso administrativo o judicial en que se reclam
 En los supuestos de las fracciones I, II, III y IV de este artículo el alojamiento de los extranjeros en las estaciones migratorias no podrá exceder de 60 días hábiles.
 Transcurrido dicho plazo, el Instituto les otorgará la condición de estancia de visitante con permiso para recibir una remuneración en el país, mientras subsista el supuesto por el que se les otorgó dicha condición de estancia. Agotado el mismo, el Instituto deberá determinar la situación migratoria del extranjero.
 
-## CAPÍTULO VII
-DEL PROCEDIMIENTO EN LA ATENCIÓN DE PERSONAS EN SITUACIÓN DE VULNERABILIDAD
+## CAPÍTULO VII — DEL PROCEDIMIENTO EN LA ATENCIÓN DE PERSONAS EN SITUACIÓN DE
+VULNERABILIDAD
 
 ### Artículo 112
 . Cuando alguna niña, niño o adolescente sea puesta a disposición del Instituto, quedará bajo su total responsabilidad en tanto procede la notificación inmediata a la Procuraduría de Protección y la canalización al Sistema DIF correspondiente, y se deberá garantizar el respeto a sus derechos humanos, sujetándose particularmente a lo siguiente:
@@ -1082,8 +1085,8 @@ Artículo reformado DOF 04-06-2013, 09-11-2017, 11-11-2020
 Párrafo reformado DOF 15-01-2026 En el caso de que los extranjeros víctimas de delito tengan situación migratoria regular en el país o hayan sido regularizados por el Instituto en términos de lo dispuesto por la presente Ley, el Instituto podrá canalizarlos a las instancias especializadas para su debida atención.
 El procedimiento que deberá seguir el Instituto para la detección, identificación y atención de extranjeros víctimas del delito se regulará en el Reglamento.
 
-## CAPÍTULO VIII
-DEL RETORNO ASISTIDO Y LA DEPORTACIÓN DE EXTRANJEROS QUE SE ENCUENTREN IRREGULARMENTE EN TERRITORIO NACIONAL
+## CAPÍTULO VIII — DEL RETORNO ASISTIDO Y LA DEPORTACIÓN DE EXTRANJEROS QUE SE
+ENCUENTREN IRREGULARMENTE EN TERRITORIO NACIONAL
 
 ### Artículo 114
 . Corresponde de manera exclusiva al titular del Poder Ejecutivo Federal expulsar del territorio nacional al extranjero cuya permanencia juzgue inconveniente, conforme a lo dispuesto en el
@@ -1169,8 +1172,8 @@ En los mecanismos contenidos en este capítulo, los extranjeros deberán estar a
 ### Artículo 125
 . Sólo por caso fortuito o fuerza mayor podrá suspenderse temporalmente el traslado de extranjeros que soliciten el retorno asistido, reanudándose una vez que sea superada la causa que originó la suspensión.
 
-## CAPÍTULO IX
-DEL PROCEDIMIENTO ADMINISTRATIVO MIGRATORIO EN MATERIA DE REGULACIÓN MIGRATORIA
+## CAPÍTULO IX — DEL PROCEDIMIENTO ADMINISTRATIVO MIGRATORIO EN MATERIA DE REGULACIÓN
+MIGRATORIA
 
 ### Artículo 126
 . Las solicitudes de trámite migratorio deberán contener los datos y requisitos que se
@@ -1252,10 +1255,10 @@ II. El trámite migratorio le sea negado, y
 
 III. Así lo solicite el extranjero.
 En estos casos, el extranjero deberá abandonar el territorio nacional en el plazo concedido por el Instituto y podrá reingresar de forma inmediata, previo cumplimiento de los requisitos que establece esta Ley.
-TÍTULO SÉPTIMO DE LAS SANCIONES
 
-## CAPÍTULO I
-DISPOSICIONES GENERALES RELATIVAS A LAS SANCIONES
+## TÍTULO SÉPTIMO — DE LAS SANCIONES
+
+## CAPÍTULO I — DISPOSICIONES GENERALES RELATIVAS A LAS SANCIONES
 
 ### Artículo 138
 . El Instituto impondrá las sanciones a que se refiere esta Ley, dentro de los límites señalados para cada infracción, con base en la gravedad de la misma y el grado de responsabilidad del infractor, tomando en cuenta:
@@ -1273,8 +1276,7 @@ V. El nivel jerárquico del infractor y su antigüedad en el servicio, tratándo
 ### Artículo 139
 . Los ingresos que la Federación obtenga efectivamente de multas por infracción a esta Ley, se destinarán al Instituto para mejorar los servicios que en materia migratoria proporciona.
 
-## CAPÍTULO II
-DE LAS CAUSAS PARA SANCIONAR A LOS SERVIDORES PÚBLICOS DEL INSTITUTO
+## CAPÍTULO II — DE LAS CAUSAS PARA SANCIONAR A LOS SERVIDORES PÚBLICOS DEL INSTITUTO
 
 ### Artículo 140
 . Los servidores públicos del Instituto serán sancionados por las siguientes conductas:
@@ -1301,8 +1303,7 @@ Párrafo reformado DOF 03-07-2019
 ### Artículo 142
 . Se impondrá multa de cien a un mil días de salario mínimo general vigente en el Distrito Federal, al que sin permiso del Instituto autorice u ordene el despacho de un transporte que haya de salir del territorio nacional.
 
-## CAPÍTULO III
-DE LAS SANCIONES A LAS PERSONAS FÍSICAS Y MORALES
+## CAPÍTULO III — DE LAS SANCIONES A LAS PERSONAS FÍSICAS Y MORALES
 
 ### Artículo 143
 . La aplicación de las sanciones a las personas físicas y morales se regirá por las disposiciones contenidas en este capítulo y en forma supletoria por la Ley Federal de Procedimiento Administrativo. En su sustanciación se respetarán plenamente los derechos humanos de los migrantes.
@@ -1374,7 +1375,10 @@ Igual sanción podrá imponerse para el caso de que la transmisión electrónica
 
 ### Artículo 158
 . Se impondrá multa de veinte hasta cien días de salario mínimo general vigente en el Distrito Federal, a los residentes temporales y permanentes que se abstengan de informar al Instituto de su cambio de estado civil, domicilio, nacionalidad o lugar de trabajo, o lo hagan de forma extemporánea.
-TÍTULO OCTAVO DE LOS DELITOS EN MATERIA MIGRATORIA CAPÍTULO ÚNICO DE LOS DELITOS
+
+## TÍTULO OCTAVO — DE LOS DELITOS EN MATERIA MIGRATORIA
+
+## CAPÍTULO ÚNICO — DE LOS DELITOS
 
 ### Artículo 159
 . Se impondrá pena de ocho a dieciséis años de prisión y multa de cinco mil a quince mil días de salario mínimo general vigente en el Distrito Federal, a quien:

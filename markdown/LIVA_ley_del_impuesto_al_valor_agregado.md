@@ -477,8 +477,8 @@ Párrafo adicionado DOF 29-12-1997 Reforma DOF 30-12-2002: Derogó del artículo
 ## CAPÍTULO III BIS
 De la prestación de servicios digitales por residentes en el extranjero sin establecimiento en México Capítulo adicionado DOF 09-12-2019
 
-## Sección I
-Disposiciones generales Sección adicionada DOF 09-12-2019
+## Sección I — Disposiciones generales
+Sección adicionada DOF 09-12-2019
 
 ### Artículo 18-B
 .- Para los efectos de lo dispuesto en el cuarto párrafo del artículo 16 de la presente Ley, se consideran únicamente los servicios digitales que a continuación se mencionan, cuando éstos se proporcionen mediante aplicaciones o contenidos en formato digital a través de Internet u otra red, fundamentalmente automatizados, pudiendo o no requerir una intervención humana mínima, siempre que por los servicios mencionados se cobre una contraprestación:
@@ -581,8 +581,8 @@ Artículo adicionado DOF 08-12-2020
 .- Cuando los residentes en el extranjero sin establecimiento en México no se encuentren en la lista a que se refiere el artículo 18-D, fracción I de esta Ley, los receptores de los servicios ubicados en territorio nacional considerarán dichos servicios como importación en los términos del artículo 24, fracciones II, III o V de esta Ley, según corresponda, en cuyo caso deberán pagar el impuesto en los términos previstos en este ordenamiento.
 Artículo adicionado DOF 09-12-2019
 
-## Sección II
-De los servicios digitales de intermediación entre terceros Sección adicionada DOF 09-12-2019
+## Sección II — De los servicios digitales de intermediación entre terceros
+Sección adicionada DOF 09-12-2019
 
 ### Artículo 18-J
 .- Los residentes en el extranjero sin establecimiento en México que proporcionen los servicios a que se refiere la fracción II del artículo 18-B de la presente Ley, que operen como intermediarios en actividades realizadas por terceros, afectas al pago del impuesto establecido en esta Ley, además de las obligaciones establecidas en la Sección I del presente Capítulo, estarán obligados a lo siguiente:

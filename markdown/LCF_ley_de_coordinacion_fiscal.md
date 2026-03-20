@@ -396,8 +396,8 @@ III.- El consejo directivo que tendrá las facultades que señalen los estatutos
 .- La Junta de Coordinación Fiscal se integra por los representantes que designe la Secretaría de Hacienda y Crédito Público y los titulares de los órganos hacendarios de las ocho entidades que forman la Comisión Permanente de Funcionarios Fiscales.
 Artículo adicionado DOF 28-12-1989
 
-## CAPÍTULO V
-De los Fondos de Aportaciones Federales Capítulo adicionado DOF 29-12-1997
+## CAPÍTULO V — De los Fondos de Aportaciones Federales
+Capítulo adicionado DOF 29-12-1997
 
 ### Artículo 25
 .- Con independencia de lo establecido en los capítulos I a IV de esta Ley, respecto de la participación de los Estados, Municipios y el Distrito Federal en la recaudación federal participable, se establecen las aportaciones federales, como recursos que la Federación transfiere a las haciendas públicas de los Estados, Distrito Federal, y en su caso, de los Municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece esta Ley, para los Fondos siguientes:

@@ -11,7 +11,11 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 SE EXPIDE LA
 
 ### Artículo Único
-Se expide la Ley de Carrera Judicial del Poder Judicial de la Federación TÍTULO PRIMERO CAPÍTULO ÚNICO DISPOSICIONES GENERALES
+Se expide la Ley de Carrera Judicial del Poder Judicial de la Federación
+
+## TÍTULO PRIMERO
+
+## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
 
 ### Artículo 1
 . Objeto La presente Ley tiene por objeto establecer las bases para el desarrollo de la Carrera Judicial de las personas servidoras públicas de carácter jurisdiccional del Poder Judicial de la Federación y regular su funcionamiento.
@@ -55,7 +59,10 @@ XVII. Vínculo o relación familiar: El o la que tienen las personas servidoras 
 
 ### Artículo 3
 . Normas aplicables Además de lo previsto en esta Ley, la Carrera Judicial se rige por la Ley Orgánica del Poder Judicial de la Federación, la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, los acuerdos generales que emitan las instancias competentes del Poder Judicial de la Federación y las demás disposiciones jurídicas aplicables.
-TÍTULO SEGUNDO CARRERA JUDICIAL CAPÍTULO PRIMERO FINALIDAD DE LA CARRERA JUDICIAL
+
+## TÍTULO SEGUNDO — CARRERA JUDICIAL
+
+## CAPÍTULO PRIMERO — FINALIDAD DE LA CARRERA JUDICIAL
 
 ### Artículo 4
 . Definición La Carrera Judicial constituye un sistema institucional integrado por los procesos de ingreso, formación, promoción, evaluación del desempeño, permanencia y separación del cargo de las personas servidoras públicas que la componen, basado en el mérito y la igualdad real de oportunidades.
@@ -79,7 +86,8 @@ VII. Coadyuvar en el ejercicio de una justicia orientada por la igualdad sustant
 
 ### Artículo 6
 . Acceso a la Carrera Judicial Toda persona puede aspirar a desempeñar cargos dentro de la Carrera Judicial, siempre que reúna los requisitos establecidos en esta Ley y los acuerdos correspondientes.
-CAPÍTULO SEGUNDO PRINCIPIOS RECTORES DE LA CARRERA JUDICIAL
+
+## CAPÍTULO SEGUNDO — PRINCIPIOS RECTORES DE LA CARRERA JUDICIAL
 
 ### Artículo 7
 . Principios El desarrollo de la Carrera Judicial deberá garantizar en todas sus etapas, la observancia de los siguientes principios:
@@ -104,7 +112,8 @@ La formación en perspectiva e igualdad de género será contemplada como un cri
 
 ### Artículo 9
 . Combate a la violencia institucional Las personas servidoras públicas competentes para aplicar las disposiciones de esta Ley adoptarán medidas de prevención, atención y reparación para la erradicación de cualquier tipo de violencia institucional en el Poder Judicial de la Federación.
-CAPÍTULO TERCERO PERFIL DEL FUNCIONARIO O FUNCIONARIA JUDICIAL
+
+## CAPÍTULO TERCERO — PERFIL DEL FUNCIONARIO O FUNCIONARIA JUDICIAL
 
 ### Artículo 10
 . Perfil El perfil de la funcionaria o el funcionario judicial está constituido por el conjunto de capacidades y cualidades personales que permiten asegurar que, en el ejercicio de sus funciones, responderá de manera idónea a las demandas de justicia.
@@ -132,8 +141,7 @@ X. Capacidad para aplicar el método de juzgar con perspectiva de género, así 
 
 XI. La observancia irrestricta de la prohibición de ejercer cualquier tipo de violencia institucional en el Poder Judicial de la Federación.
 
-## CAPÍTULO CUARTO
-CATEGORÍAS DE LA CARRERA JUDICIAL
+## CAPÍTULO CUARTO — CATEGORÍAS DE LA CARRERA JUDICIAL
 
 ### Artículo 11
 . Categorías La Carrera Judicial está integrada por las siguientes categorías:
@@ -161,7 +169,8 @@ X. Actuaria o Actuario del Poder Judicial de la Federación, y
 XI. Oficial judicial.
 Las categorías señaladas en las fracciones IV, V y VI, son equivalentes en rango y se encuentran por encima de las categorías precisadas en las fracciones VII, VIII y IX, que también son equivalentes entre sí.
 Las categorías de puestos no podrán ser creadas, modificadas o derogadas por reglamento, acuerdo general o disposición administrativa.
-CAPÍTULO QUINTO REQUISITOS DE LOS PERFILES DE PUESTO
+
+## CAPÍTULO QUINTO — REQUISITOS DE LOS PERFILES DE PUESTO
 
 ### Artículo 12
 . Servicio público Las categorías de la Carrera Judicial deberán observar los requisitos contemplados en esta Ley y lo dispuesto por la Constitución General para el servicio público.
@@ -192,11 +201,13 @@ Para el ingreso y la promoción en el Tribunal de Disciplina Judicial se estará
 
 ### Artículo 20
 . Requisitos para las categorías del Tribunal Electoral Los requisitos para las categorías de la Carrera Judicial en el Tribunal Electoral se encuentran previstos en la Ley Orgánica del Poder Judicial de la Federación.
-CAPÍTULO SEXTO ETAPAS DE LA CARRERA JUDICIAL
+
+## CAPÍTULO SEXTO — ETAPAS DE LA CARRERA JUDICIAL
 
 ### Artículo 21
 . Etapas de la carrera Las etapas de la Carrera Judicial previstas en el presente Capítulo comprenden el ingreso, promoción, evaluación del desempeño, permanencia y separación en el cargo del personal de Carrera Judicial, con excepción de aquellas o aquellos de la Suprema Corte y del Tribunal Electoral.
-SECCIÓN PRIMERA INGRESO Y PROMOCIÓN
+
+## SECCIÓN PRIMERA — INGRESO Y PROMOCIÓN
 
 ### Artículo 22
 . Ingreso a la Carrera Judicial Cualquier persona puede ingresar a la Carrera Judicial a través de las siguientes vías:
@@ -255,7 +266,8 @@ Si la convocatoria del concurso se emitió para ocupar una categoría de un órg
 Cuando la vacante a cubrir corresponda a las categorías de Secretarias o Secretarios Proyectistas de Tribunal de Circuito o Juzgado de Distrito, al ser un puesto considerado como de confianza, la designación y remoción de los mismos será libre, pero el nombramiento respectivo quedará sujeto a la condición de que la persona acredite dentro de los tres meses siguientes al nombramiento, el examen que para tal efecto diseñe la Escuela Nacional de Formación Judicial.
 Lo dispuesto por el párrafo anterior también será aplicable a las Secretarias y Secretarios Proyectistas e Instructores del Tribunal de Disciplina Judicial cuando ingresen mediante designación de la persona titular correspondiente.
 La persona titular del órgano jurisdiccional deberá nombrar a la persona que cubrirá la vacante dentro de un plazo de treinta días naturales, notificando de ello al Órgano en un plazo no mayor a tres días hábiles. En caso de que la o el titular no llegare a nombrar a la persona que cubrirá la vacante a partir de la lista correspondiente, el Órgano lo designará de plano tomando en consideración la lista antes referida y de acuerdo con el orden de la misma en función de las calificaciones más altas, procurando garantizar la integración paritaria del órgano jurisdiccional.
-SECCIÓN SEGUNDA DESARROLLO PROFESIONAL
+
+## SECCIÓN SEGUNDA — DESARROLLO PROFESIONAL
 
 ### Artículo 29
 . Definición El desarrollo profesional se encarga de establecer los procesos para determinar los planes individualizados de carrera de las personas servidoras públicas a fin de identificar posibles trayectorias de desarrollo, así como los requisitos y las reglas por cubrir por parte de los mismos, con el objetivo de impulsar el desarrollo integral de las y los integrantes de la Carrera Judicial en cualquiera de sus especialidades y contribuir al cumplimento de los fines de la misma.
@@ -302,7 +314,8 @@ XVI. Mecanismos Alternativos de Solución de Controversias;
 XVII. Materias específicas y multidisciplinarias para cada integrante de la Carrera Judicial, en función de su perfil y de las actividades de naturaleza jurisdiccional que realice, y
 
 XVIII. Las demás que establezcan los acuerdos generales aplicables.
-SECCIÓN TERCERA EVALUACIÓN DEL DESEMPEÑO
+
+## SECCIÓN TERCERA — EVALUACIÓN DEL DESEMPEÑO
 
 ### Artículo 32
 . Definición La evaluación del desempeño implica el establecimiento de métodos para valorar el cumplimiento cualitativo y cuantitativo, de manera individual y, en su caso, colectiva, de las funciones y objetivos asignados a las y los integrantes de la Carrera Judicial, contribuyendo a fortalecer la eficiencia, eficacia y calidad de la administración de justicia.
@@ -321,12 +334,12 @@ La Escuela Judicial llevará un seguimiento del desarrollo de las personas servi
 Los resultados observarán el principio de publicidad para la satisfacción del derecho a la información pública. El Órgano velará por el cumplimiento de esta obligación.
 El Órgano podrá remitir al Comité de Evaluación del Poder Judicial de la Federación los resultados de la evaluación de desempeño de las personas de Carrera Judicial que se postulen a un cargo de elección judicial. El Órgano definirá los términos y procedimientos para el desahogo de esta atribución mediante acuerdo general.
 
-## SECCIÓN CUARTA
-PERMANENCIA
+## SECCIÓN CUARTA — PERMANENCIA
 
 ### Artículo 36
 . Resultado de la evaluación del desempeño La permanencia en la Carrera Judicial de las categorías previstas en las fracciones III a XI del artículo 11 de esta Ley, con excepción de las personas servidoras públicas de la Suprema Corte y del Tribunal Electoral, estará sujeta al resultado de la evaluación del desempeño en los términos de esta Ley y de los acuerdos que para tal efecto emitan los órganos competentes del Órgano. Lo anterior, sin perjuicio de lo previsto por el artículo 37 de esta Ley.
-SECCIÓN QUINTA SEPARACIÓN
+
+## SECCIÓN QUINTA — SEPARACIÓN
 
 ### Artículo 37
 . Separación de la carrera El proceso de separación de la Carrera Judicial comprende los criterios y procedimientos para que el nombramiento otorgado a las personas servidoras públicas pertenecientes a la misma, deje de surtir efectos sin responsabilidad para el Poder Judicial de la Federación.
@@ -367,11 +380,13 @@ de la presente Ley se ejercerá en los términos de la normatividad aplicable.
 
 ### Artículo 40
 . Efectos de la separación La separación de las personas integrantes de la Carrera Judicial implicará que quede sin efecto su nombramiento, así como la pérdida de los derechos inherentes al cargo.
-CAPÍTULO SÉPTIMO INTEGRACIÓN DE LA PLANTILLA DE LOS ÓRGANOS JURISDICCIONALES
+
+## CAPÍTULO SÉPTIMO — INTEGRACIÓN DE LA PLANTILLA DE LOS ÓRGANOS JURISDICCIONALES
 
 ### Artículo 41
 . La plantilla de los órganos jurisdiccionales deberá integrarse observando el principio de paridad de género, en el entendido de que, de manera integral y en cada nivel de cargo o escalafón, cuando menos la mitad de las plazas sean ocupadas por mujeres. Esta regla admite como única excepción el caso de que en determinado puesto el número de plazas sea impar o tratándose de puestos en los que sólo exista una plaza.
-CAPÍTULO OCTAVO DERECHOS Y OBLIGACIONES
+
+## CAPÍTULO OCTAVO — DERECHOS Y OBLIGACIONES
 
 ### Artículo 42
 . Derechos Son derechos de las personas servidoras públicas integrantes de la Carrera Judicial:
@@ -415,13 +430,13 @@ VIII. Manifestar bajo protesta de decir verdad los vínculos familiares o por af
 
 IX. Las demás que establezca la presente Ley y demás disposiciones aplicables.
 La omisión, falsedad o mala fe en las manifestaciones o validaciones a que se refieren las fracciones VIII y IX de este artículo, tendrá como consecuencia que el nombramiento del servidor público obligado o la servidora pública obligada quede sin efecto, con independencia de las demás responsabilidades a que haya lugar.
-CAPÍTULO NOVENO INSTANCIAS DE LA CARRERA JUDICIAL
+
+## CAPÍTULO NOVENO — INSTANCIAS DE LA CARRERA JUDICIAL
 
 ### Artículo 44
 . Instancias Serán en lo conducente, instancias competentes para aplicar las disposiciones previstas en esta Ley, el Pleno de la Suprema Corte, el Órgano, el Pleno del Tribunal Electoral y el Pleno del Tribunal de Disciplina Judicial, en sus respectivos ámbitos de competencia, así como la Escuela Judicial y las correspondientes comisiones, secretarías ejecutivas, unidades administrativas y direcciones generales de dichas instancias, según corresponda, en los términos que establezca esta Ley y los acuerdos generales aplicables.
 
-## CAPÍTULO DÉCIMO
-REGISTRO ÚNICO DE PERSONAS SERVIDORAS PÚBLICAS DE LA CARRERA JUDICIAL
+## CAPÍTULO DÉCIMO — REGISTRO ÚNICO DE PERSONAS SERVIDORAS PÚBLICAS DE LA CARRERA JUDICIAL
 
 ### Artículo 45
 . Registro único El Registro es un padrón que contiene información básica y técnica en materia de recursos humanos del personal perteneciente a la Carrera Judicial. Se establece con el fin de apoyar el desarrollo del servidor público o de la servidora pública dentro de la misma y para que el Poder Judicial de la Federación cuente con información actualizada, confiable y eficaz que contribuya al establecimiento de políticas públicas enfocadas en el fortalecimiento de la profesionalización y eficacia en la impartición de justicia. Los datos personales que en él se contengan serán considerados confidenciales.
@@ -437,7 +452,7 @@ En el caso del Órgano, el Registro contará con un padrón de relaciones famili
 . Información El Poder Judicial de la Federación, para efectos del Registro, podrá recabar información de recursos humanos proporcionada por las autoridades o instituciones con las cuales se suscriban convenios.
 La información contenida en el Registro deberá ser resguardada por el Poder Judicial de la Federación conforme a las leyes y disposiciones administrativas de la materia.
 
-## CAPÍTULO DÉCIMO PRIMERO
+## CAPÍTULO DÉCIMO — PRIMERO
 RECONOCIMIENTOS
 
 ### Artículo 49
@@ -446,12 +461,16 @@ RECONOCIMIENTOS
 ### artículo 11
 de esta Ley. Dicho sistema tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro de la Escuela Judicial, la antigüedad, grado académico, y los demás que mediante acuerdos generales estime necesarios el propio Órgano.
 
-## CAPÍTULO DÉCIMO SEGUNDO
+## CAPÍTULO DÉCIMO — SEGUNDO
 SUSTITUCIONES Y LICENCIAS
 
 ### Artículo 50
 . Sustituciones y licencias Para los efectos de las sustituciones y licencias de las servidoras públicas y los servidores públicos de la Carrera Judicial, se estará a lo dispuesto en la Ley Orgánica del Poder Judicial de la Federación y en los acuerdos generales conducentes.
-TÍTULO TERCERO MEDIDAS DE COMBATE AL NEPOTISMO CAPÍTULO ÚNICO IMPEDIMENTOS EN LOS NOMBRAMIENTOS Y OBLIGACIÓN DE INFORMAR VÍNCULOS FAMILIARES
+
+## TÍTULO TERCERO — MEDIDAS DE COMBATE AL NEPOTISMO
+
+## CAPÍTULO ÚNICO — IMPEDIMENTOS EN LOS NOMBRAMIENTOS Y OBLIGACIÓN DE INFORMAR VÍNCULOS
+FAMILIARES
 
 ### Artículo 51
 . Impedimentos en los nombramientos Las y los Titulares están impedidas e impedidos para otorgar nombramiento, prórroga o promoción a cualquier persona en los supuestos siguientes:
@@ -513,8 +532,9 @@ Las personas servidoras públicas que reciban un nombramiento provisional o defi
 En adición a las responsabilidades administrativas que pudieran surgir, el incumplimiento en el llenado del padrón electrónico de relaciones familiares, contenido en el Registro Único, ya sea en el registro inicial, actualizaciones o refrendos, impedirá a quien incurra en dicha omisión recibir licencias -a excepción de las licencias médicas de así considerarlo el área correspondiente-, participar en concursos para cubrir una plaza de mayor nivel, recibir nuevos nombramientos, bases o prórrogas de nombramientos. Lo anterior, en tanto no se subsane dicha omisión.
 Para efectos de lo anterior, dentro de los treinta días siguientes a cada período de refrendo, las y los Titulares recibirán un aviso con los nombres de las personas adscritas a los órganos jurisdiccionales a su cargo que hayan incurrido en dicha omisión.
 
-## TÍTULO CUARTO
-HOSTIGAMIENTO Y ACOSO SEXUAL CAPÍTULO ÚNICO PREVENCIÓN, SANCIÓN Y PROHIBICIÓN DEL HOSTIGAMIENTO Y ACOSO SEXUAL
+## TÍTULO CUARTO — HOSTIGAMIENTO Y ACOSO SEXUAL
+
+## CAPÍTULO ÚNICO — PREVENCIÓN, SANCIÓN Y PROHIBICIÓN DEL HOSTIGAMIENTO Y ACOSO SEXUAL
 
 ### Artículo 60
 . Prevención del hostigamiento laboral y acoso sexual Las personas Titulares deberán procurar adoptar medidas preventivas a fin de evitar conductas de hostigamiento laboral y acoso sexual, así como otras formas de violencia sexual y de género en los órganos jurisdiccionales a su cargo. La unidad especializada en la prevención y el combate al acoso sexual podrá sugerir la adopción de medidas preventivas para combatir el acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género o en virtud de conductas de violencia laboral estrechamente relacionadas con violencia sexual o de género.
@@ -528,7 +548,10 @@ Cuando una persona servidora pública perteneciente a la Carrera Judicial tenga 
 
 ### Artículo 63
 . Cambio de adscripción por hostigamiento laboral y acoso sexual Adicionalmente a lo establecido en los artículos anteriores, la unidad especializada en la prevención y el combate al acoso sexual podrá proponer a el área competente del Órgano el cambio de adscripción de personas servidoras públicas, como una medida de prevención en los casos de acoso sexual, hostigamiento sexual o cualquier otro tipo de violencia sexual o de género o en virtud de conductas de violencia laboral estrechamente relacionadas con violencia sexual o de género, atendiendo siempre al interés y máxima protección de la persona en riesgo.
-TÍTULO QUINTO CAPÍTULO ÚNICO DE LA ESCUELA NACIONAL DE FORMACIÓN JUDICIAL
+
+## TÍTULO QUINTO
+
+## CAPÍTULO ÚNICO — DE LA ESCUELA NACIONAL DE FORMACIÓN JUDICIAL
 
 ### Artículo 64
 . Naturaleza La Escuela Judicial es un órgano auxiliar del Órgano de Administración Judicial con autonomía técnica y de gestión.
@@ -614,7 +637,10 @@ VIII. Implementar la formación permanente y obligatoria en perspectiva de géne
 ### Artículo 73
 . Defensores públicos o Defensoras públicas y Asesoras o Asesores jurídicos Corresponde a la Escuela Judicial la capacitación y actualización del personal del Instituto Federal de Defensoría Pública, así como la realización de los concursos de oposición para Defensoras públicas o Defensores públicos y Asesoras o Asesores jurídicos, en términos de lo dispuesto en la Ley Federal de Defensoría Pública.
 Los procesos de selección y oposición para el ingreso al servicio de carrera del Instituto Federal de Defensoría Pública se sujetarán, en lo conducente, a las disposiciones del Título Segundo, Capítulo Sexto, Sección Segunda de esta Ley, y a los acuerdos generales del Órgano. Los demás aspectos del servicio se regirán por lo dispuesto por la Ley Federal de Defensoría Pública.
-TÍTULO SEXTO CAPÍTULO ÚNICO RESPONSABILIDADES ADMINISTRATIVAS
+
+## TÍTULO SEXTO
+
+## CAPÍTULO ÚNICO — RESPONSABILIDADES ADMINISTRATIVAS
 
 ### Artículo 74
 . Régimen de responsabilidades Para los efectos de las responsabilidades administrativas de las servidoras públicas y los servidores públicos de la Carrera Judicial se estará a lo dispuesto por la Ley Orgánica del Poder Judicial de la

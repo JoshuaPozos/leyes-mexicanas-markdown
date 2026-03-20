@@ -15,7 +15,10 @@ SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTR
 
 ### ARTÍCULO SEXTO
 Se expide la Ley de Biocombustibles, para quedar como sigue:
-TÍTULO PRIMERO Capítulo Único Disposiciones Generales
+
+## TÍTULO PRIMERO
+
+## Capítulo Único — Disposiciones Generales
 
 ### Artículo 1
 .- La presente Ley es de orden público e interés social, de observancia general en los Estados Unidos Mexicanos y tiene por objeto regular y promover el desarrollo sustentable de los Biocombustibles, con el fin de coadyuvar con la soberanía, justicia y autosuficiencia energética, como parte de la diversificación y de la transición energética, y establece las bases para:
@@ -71,10 +74,10 @@ XVIII. Transporte: Actividad de recibir, entregar y, en su caso, conducir Biocom
 
 ### Artículo 3
 .- En todo lo no previsto en la presente Ley, se deben aplicar las disposiciones contenidas en la Ley de Planeación y Transición Energética, la Ley del Sector Eléctrico, la Ley del Sector Desarrollo Forestal Sustentable, la Ley Orgánica de la Administración Pública Federal, la Ley de Planeación y las demás leyes y ordenamientos relacionados que regulen las materias de esta Ley, así como los tratados internacionales de los que México sea parte.
-TÍTULO SEGUNDO De las Autoridades Competentes y de la Coordinación
 
-## Capítulo I
-De las Autoridades Competentes
+## TÍTULO SEGUNDO — De las Autoridades Competentes y de la Coordinación
+
+## Capítulo I — De las Autoridades Competentes
 
 ### Artículo 4
 .- La interpretación para efectos administrativos y la aplicación de esta Ley corresponde al Ejecutivo Federal, a través de la SENER, la SADER y la SEMARNAT, en el ámbito de sus competencias.
@@ -182,8 +185,7 @@ XV. Coadyuvar con la SENER en la integración y actualización de la informació
 
 XVI. Coordinar con la SENER la elaboración de programas para la producción sustentable de Biocombustibles.
 
-## Capítulo II
-De los Convenios y Acuerdos de Coordinación
+## Capítulo II — De los Convenios y Acuerdos de Coordinación
 
 ### Artículo 8
 .- En el marco previsto en la Constitución Política de los Estados Unidos Mexicanos, el Ejecutivo Federal, en coordinación con los gobiernos de las entidades federativas, de los municipios y las demarcaciones territoriales de la Ciudad de México, puede impulsar las políticas, programas y demás acciones que considere necesarias para el cumplimiento de esta Ley.
@@ -223,10 +225,10 @@ VI. Precisar la vigencia del instrumento, sus formas de modificación y terminac
 
 VII. Los demás acuerdos que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo de coordinación.
 Las dependencias y entidades de la Administración Pública Federal competentes deben evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación correspondientes.
-TÍTULO TERCERO De los Instrumentos para el Desarrollo Sustentable de los Biocombustibles
 
-## Capítulo I
-De los Instrumentos de Planeación
+## TÍTULO TERCERO — De los Instrumentos para el Desarrollo Sustentable de los Biocombustibles
+
+## Capítulo I — De los Instrumentos de Planeación
 
 ### Artículo 11
 .- La Estrategia Nacional de Transición Energética debe de incluir las metas para Producción de Biocombustibles.
@@ -267,8 +269,7 @@ En ningún caso las revisiones y actualizaciones se pueden hacer en menoscabo de
 ### Artículo 16
 .- Las dependencias y entidades de la Administración Pública Federal competentes pueden emitir los programas para la producción sustentable de Biomasa distinta a la de cultivos en Suelos Marginales para la producción de Biocombustibles, para lo cual se sujetarán a lo dispuesto en la presente sección.
 
-## Capítulo II
-De los Instrumentos de Promoción
+## Capítulo II — De los Instrumentos de Promoción
 
 ### Artículo 17
 .- Las dependencias y entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, pueden promover y fomentar instrumentos de carácter fiscal, financiero o de mercado, que incentiven:
@@ -332,8 +333,7 @@ X. Difundir sus actividades y los resultados de sus investigaciones, sin perjuic
 
 XI. Las demás que expresamente le atribuya esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, las leyes y reglamentos en materia de desarrollo sustentable de Biocombustibles.
 
-## Capítulo IV
-De la Información y Participación Social
+## Capítulo IV — De la Información y Participación Social
 
 ### Artículo 22
 .- La SENER debe registrar en el Subsistema, entre otros aspectos, los siguientes:
@@ -358,11 +358,9 @@ III. Promover el reconocimiento a los esfuerzos más destacados de la sociedad p
 
 IV. Concertar acciones e inversiones con los sectores social y privado con la finalidad de propiciar el desarrollo sustentable de Biocombustibles.
 
-## TÍTULO CUARTO
-De las Actividades Reguladas para Biocombustibles
+## TÍTULO CUARTO — De las Actividades Reguladas para Biocombustibles
 
-## Capítulo I
-De los Permisos y Autorizaciones
+## Capítulo I — De los Permisos y Autorizaciones
 
 ### Artículo 25
 .- Para la realización de las actividades descritas en este artículo, se requiere de permiso conforme a lo siguiente:
@@ -490,8 +488,7 @@ XI. Realizar actividades de importación, exportación, Transporte, Comercializa
 
 XII. Las demás previstas en el permiso o autorización respectiva.
 
-## Capítulo II
-Del Registro de Permisos de Biocombustibles
+## Capítulo II — Del Registro de Permisos de Biocombustibles
 
 ### Artículo 37
 .- La SENER debe integrar, organizar y actualizar el Registro de permisos y autorizaciones de Biocombustibles, en el cual, cuando menos se inscriben:
@@ -504,10 +501,10 @@ III. Las autorizaciones de los avisos para la Producción de Biocombustibles, y
 
 IV. El grado de contenido nacional en los Biocombustibles comercializados o expendidos en el país.
 El Reglamento especificará la información que deberá constar en el Registro y la información generada en dicho registro debe incorporarse al Subsistema.
-TÍTULO QUINTO Disposiciones Aplicables a las Actividades de los Biocombustibles
 
-## Capítulo I
-De las Infracciones y las Sanciones
+## TÍTULO QUINTO — Disposiciones Aplicables a las Actividades de los Biocombustibles
+
+## Capítulo I — De las Infracciones y las Sanciones
 
 ### Artículo 38
 .- La SENER, la SADER y la SEMARNAT, en el ámbito de sus respectivas atribuciones, puede comprobar el cumplimiento de las disposiciones contenidas en la presente Ley y las que deriven de ella mediante visitas de verificación o los mecanismos que estas dependencias definan para ello y, en su caso, determinar las infracciones e imponer las sanciones correspondientes, sujetándose a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
@@ -568,8 +565,7 @@ En caso de reincidencia, se debe imponer una multa por el doble de la anteriorme
 ### Artículo 43
 .- La SEMARNAT debe sancionar administrativamente los incumplimientos a las disposiciones contenidas en la presente Ley y las que deriven de ella, de conformidad con la legislación ambiental aplicable.
 
-## Capítulo II
-De las Impugnaciones y la Solución de Controversias
+## Capítulo II — De las Impugnaciones y la Solución de Controversias
 
 ### Artículo 44
 .- Las controversias que se susciten respecto de las transacciones de Biomasa producida a partir de cultivos en Suelos Marginales o el aprovechamiento de residuos orgánicos derivados de las actividades agropecuarias para su aprovechamiento energético y la Producción de Biocombustibles, en materia de calidad, cantidad y oportunidad de los productos, servicios financieros, servicios técnicos, equipos, tecnología y bienes de Producción, se deben resolver a través del Servicio Nacional de Arbitraje previsto en el artículo 184 de la Ley de Desarrollo Rural Sustentable.

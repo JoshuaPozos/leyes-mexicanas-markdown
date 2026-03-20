@@ -8,7 +8,10 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 1º de diciembre de 1992 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente D E C R E T O "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
-TÍTULO PRIMERO Disposiciones Preliminares Capítulo Único
+
+## TÍTULO PRIMERO — Disposiciones Preliminares
+
+## Capítulo Único
 
 ### ARTÍCULO 1
 . La presente Ley es reglamentaria del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos en materia de aguas nacionales; es de observancia general en todo el territorio nacional, sus disposiciones son de orden público e interés social y tiene por objeto regular la explotación, uso o aprovechamiento de dichas aguas, su distribución y control, así como la preservación de su cantidad y calidad para lograr su desarrollo integral sustentable.
@@ -180,10 +183,12 @@ LXV. "Zona de veda": Aquellas áreas específicas de las regiones hidrológicas,
 
 LXVI. "Zonas Marinas Mexicanas": Las que clasifica como tales la Ley Federal del Mar.
 Para los efectos de esta Ley, son aplicables las definiciones contenidas en el Artículo 3 de la Ley General de Equilibrio Ecológico y la Protección al Ambiente que no se contrapongan con las asentadas en el presente Artículo. Los términos adicionales que llegaren a ser utilizados en los reglamentos de la presente Ley, se definirán en tales instrumentos jurídicos.
-Artículo reformado DOF 29-04-2004 TÍTULO SEGUNDO Administración del Agua
+Artículo reformado DOF 29-04-2004
 
-## Capítulo I
-Disposiciones Generales
+## TÍTULO SEGUNDO
+Administración del Agua
+
+## Capítulo I — Disposiciones Generales
 
 ### ARTÍCULO 4
 . La autoridad y administración en materia de aguas nacionales y de sus bienes públicos inherentes corresponde al Ejecutivo Federal, quien la ejercerá directamente o a través de "la Comisión".
@@ -809,14 +814,14 @@ BIS 1. El Consejo Consultivo del Agua es un organismo autónomo de consulta inte
 El Consejo Consultivo del Agua, a solicitud del Ejecutivo Federal, podrá asesorar, recomendar, analizar y evaluar respecto a los problemas nacionales prioritarios o estratégicos relacionados con la explotación, uso o aprovechamiento, y la restauración de los recursos hídricos, así como en tratándose de convenios internacionales en la materia. En adición, podrá realizar por sí las recomendaciones, análisis y evaluaciones que juzgue convenientes en relación con la gestión integrada de los recursos hídricos.
 Artículo adicionado DOF 29-04-2004
 
-## Capítulo V BIS 1
+## Capítulo V BIS — 1
 Servicio Meteorológico Nacional Capítulo adicionado DOF 29-04-2004
 
 ### ARTÍCULO 14
 BIS 2. El Servicio Meteorológico Nacional, unidad técnica especializada autónoma adscrita directamente a la persona Titular de "la Comisión", tiene por objeto generar, interpretar y difundir la información meteorológica, su análisis y pronóstico, que se consideran de interés público y estratégico de acuerdo con lo establecido por la presente Ley y sus reglamentos.
 Artículo adicionado DOF 29-04-2004. Reformado DOF 11-12-2025
 
-## Capítulo V BIS 2
+## Capítulo V BIS — 2
 Instituto Mexicano de Tecnología del Agua Capítulo adicionado DOF 29-04-2004
 
 ### ARTÍCULO 14
@@ -854,7 +859,7 @@ Fracción reformada DOF 11-12-2025 En materia de investigación científica, des
 El Instituto se apegará a lo dispuesto en la presente Ley y en sus reglamentos en materia de descentralización del sector agua, y favorecerá la participación de instituciones académicas y de investigación del país en el cumplimiento de las atribuciones contenidas en este Artículo.
 Artículo adicionado DOF 29-04-2004
 
-## Capítulo V BIS 3
+## Capítulo V BIS — 3
 Procuraduría Federal de Protección al Ambiente Capítulo adicionado DOF 29-04-2004
 
 ### ARTÍCULO 14
@@ -873,7 +878,15 @@ Fracción reformada DOF 07-06-2013
 V. Solicitar ante "la Comisión" o el Organismo de Cuenca que corresponda conforme a lo dispuesto en la Fracción IX del Artículo 9 de la presente Ley, conforme a sus respectivas competencias, la cancelación de los permisos de descarga, y
 
 VI. Las demás que señalen las disposiciones legales y reglamentarias para el cumplimiento del objeto de la presente Ley.
-Artículo adicionado DOF 29-04-2004 TÍTULO TERCERO Política y Programación Hídricas Denominación del Título reformada DOF 29-04-2004 Capítulo Único Sección Primera Política Hídrica Nacional Sección adicionada DOF 29-04-2004
+Artículo adicionado DOF 29-04-2004
+
+## TÍTULO TERCERO
+Política y Programación Hídricas Denominación del Título reformada DOF 29-04-2004
+
+## Capítulo Único
+
+## Sección Primera
+Política Hídrica Nacional Sección adicionada DOF 29-04-2004
 
 ### ARTÍCULO 14
 BIS 5. Los principios que sustentan la política hídrica nacional son:
@@ -953,7 +966,10 @@ VI. La prevención, conciliación, arbitraje, mitigación y solución de conflic
 VII. Los apoyos sociales para que las comunidades rurales y urbanas marginadas accedan al agua y al saneamiento, y
 
 VIII. El Sistema Nacional de Información sobre cantidad, calidad, usos y conservación del Agua.
-Artículo adicionado DOF 29-04-2004 Sección Segunda Planificación y Programación Hídrica Sección adicionada DOF 29-04-2004
+Artículo adicionado DOF 29-04-2004
+
+## Sección Segunda
+Planificación y Programación Hídrica Sección adicionada DOF 29-04-2004
 
 ### ARTÍCULO 15
 . La planificación hídrica es de carácter obligatorio para la gestión integrada de los recursos hídricos, la conservación de recursos naturales, ecosistemas vitales y el medio ambiente, y debe contener consideraciones y proyecciones con una perspectiva para el corto, mediano y largo plazo.
@@ -1258,7 +1274,10 @@ V. Las demás que le otorguen esta Ley y disposiciones reglamentarias aplicables
 Artículo adicionado DOF 29-04-2004
 
 ## Capítulo III BIS
-Suspensión, Extinción, Revocación, Restricciones y Servidumbres de la Concesión, Asignación y de Permiso de Descarga Capítulo adicionado DOF 29-04-2004. Denominación reformada DOF 08-06-2012 Sección Primera Suspensión Sección adicionada DOF 29-04-2004
+Suspensión, Extinción, Revocación, Restricciones y Servidumbres de la Concesión, Asignación y de Permiso de Descarga Capítulo adicionado DOF 29-04-2004. Denominación reformada DOF 08-06-2012
+
+## Sección Primera
+Suspensión Sección adicionada DOF 29-04-2004
 
 ### ARTÍCULO 29
 BIS 2. Se suspenderá la concesión o asignación para la explotación, uso o aprovechamiento de aguas y bienes nacionales a cargo del Ejecutivo Federal, independientemente de la aplicación de las sanciones que procedan, cuando la persona usufructuaria del título:
@@ -1276,7 +1295,10 @@ V. No cumpla con las condiciones o especificaciones del título de concesión o 
 No se aplicará la suspensión si dentro de los diez días hábiles siguientes a aquel en que la autoridad en ejercicio de sus facultades haya notificado a la persona usufructuaria del título y ésta acredite haber cubierto los pagos o los créditos a que se refieren las fracciones I y II respectivamente, o demuestra que el incumplimiento que prevén las fracciones IV y V no le son imputables, casos en los que "la Autoridad del Agua" resolverá dentro de los cinco días hábiles siguientes a la presentación de pruebas por parte de la persona concesionaria o asignataria, si debe o no aplicarse la suspensión, sin perjuicio de lo establecido en esta Ley en lo relativo a prevención y control de la contaminación de las aguas y responsabilidad por el daño ambiental.
 Párrafo reformado DOF 11-12-2025 En el caso que prevé la fracción III, la suspensión durará hasta que la persona concesionaria o asignataria acredite que han cesado los actos que le dieron origen, caso en el que "la Autoridad del Agua" reiniciará sus facultades de inspección, medición y verificación.
 Párrafo reformado DOF 11-12-2025 La suspensión sólo subsistirá en tanto la persona infractora no regularice su situación administrativa o se dicte resolución por autoridad competente que decrete su levantamiento.
-Párrafo reformado DOF 11-12-2025 Artículo adicionado DOF 29-04-2004 Sección Segunda Extinción Sección adicionada DOF 29-04-2004
+Párrafo reformado DOF 11-12-2025 Artículo adicionado DOF 29-04-2004
+
+## Sección Segunda
+Extinción Sección adicionada DOF 29-04-2004
 
 ### ARTÍCULO 29
 BIS 3. La concesión o asignación para la explotación, uso o aprovechamiento de aguas nacionales sólo podrá extinguirse por:
@@ -1314,7 +1336,10 @@ VII. Rescate mediante la declaratoria respectiva, de conformidad con la Fracció
 VIII. Tratándose de distritos de riego, cuando sus reglamentos respectivos no se adecuen a lo preceptuado en la presente Ley y sus disposiciones reglamentarias, y
 
 IX. Resoluciones firmes judiciales o administrativas que así lo determinen.
-Artículo adicionado DOF 29-04-2004 Sección Tercera Revocación Sección adicionada DOF 29-04-2004
+Artículo adicionado DOF 29-04-2004
+
+## Sección Tercera
+Revocación Sección adicionada DOF 29-04-2004
 
 ### ARTÍCULO 29
 BIS 4. La concesión, asignación o permiso de descarga podrán revocarse en los siguientes casos:
@@ -1400,7 +1425,10 @@ VII. Cuando la Federación decida emprender una explotación directa de los vol�
 VIII. Cuando se afecten recursos hídricos programados para la creación o sustento de reservas nacionales, y
 
 IX. Cuando exista causa de interés público o interés social.
-Artículo adicionado DOF 29-04-2004 Sección Quinta Servidumbres Sección adicionada DOF 29-04-2004
+Artículo adicionado DOF 29-04-2004
+
+## Sección Quinta
+Servidumbres Sección adicionada DOF 29-04-2004
 
 ### ARTÍCULO 29
 BIS 6. "La Autoridad del Agua" podrá imponer servidumbres sobre bienes de disposiciones legales administrativas, que se aplicarán en lo conducente sobre aquellas áreas indispensables para el uso, reúso, aprovechamiento, conservación, y preservación del agua, ecosistemas vitales, defensa y protección de riberas, caminos y, en general, para las obras hidráulicas que las requieran.
@@ -1524,7 +1552,10 @@ BIS 2. En la reasignación de volúmenes a que se refieren las fracciones I y II
 ### Artículo 37
 BIS de esta Ley, “la Autoridad del Agua” privilegiará aquellos usos que beneficien al derecho humano al agua, la seguridad alimentaria y al desarrollo nacional.
 La reasignación de los volúmenes a que se refiere el presente artículo deberá someterse por parte de “la Autoridad del Agua” al análisis y autorización del Comité del fondo de reserva de aguas nacionales, el cual estará integrado por la representación de las Secretarías de Medio Ambiente y Recursos Naturales, Bienestar, Economía, Hacienda y Crédito Público, Agricultura y Desarrollo Rural y será presidido por la persona titular de la Comisión Nacional del Agua.
-Artículo adicionado DOF 11-12-2025 TÍTULO QUINTO Zonas Reglamentadas, de Veda o de Reserva Capítulo único
+Artículo adicionado DOF 11-12-2025
+
+## TÍTULO QUINTO
+Zonas Reglamentadas, de Veda o de Reserva Capítulo único
 
 ### ARTÍCULO 38
 . El Ejecutivo Federal, previos los estudios técnicos que al efecto se elaboren y publiquen, y considerando los programas nacional hídrico y por cuenca hidrológica y las necesidades del ordenamiento territorial nacional, regional y local, así como lo dispuesto en los Artículos 6 y 7 de la presente Ley, podrá decretar el establecimiento de zonas reglamentadas, zonas de veda o declarar la reserva de aguas.
@@ -1602,7 +1633,10 @@ II. La reposición de pozo, y
 
 III. La profundización, relocalización o cambio de equipo del pozo.
 El permiso tomará en cuenta las extracciones permitidas en los términos del Artículo 40 de la presente Ley.
-Artículo reformado DOF 29-04-2004 TÍTULO SEXTO Usos del Agua
+Artículo reformado DOF 29-04-2004
+
+## TÍTULO SEXTO
+Usos del Agua
 
 ## Capítulo I
 Uso Público Urbano
@@ -1652,7 +1686,9 @@ BIS. "La Autoridad del Agua" promoverá entre los sectores público, privado y s
 Artículo adicionado DOF 29-04-2004
 
 ## Capítulo II
-Uso Agrícola Sección Primera Disposiciones Generales
+Uso Agrícola
+
+## Sección Primera — Disposiciones Generales
 
 ### ARTÍCULO 48
 . Las personas ejidatarias, comuneras y pequeñas propietarias, así como los ejidos, comunidades, sociedades y demás personas que sean titulares o poseedoras de tierras agrícolas, ganaderas o forestales dispondrán del derecho de explotación, uso o aprovechamiento de las aguas nacionales que se les hubieren concesionado en los términos de la presente Ley.
@@ -1745,7 +1781,10 @@ Párrafo reformado DOF 11-12-2025 Artículo reformado DOF 29-04-2004
 ### ARTÍCULO 54
 . Las unidades y distritos de riego deben reportar a “la Autoridad del Agua”, cada año y en los plazos establecidos por ésta, el volumen bruto extraído de cada fuente de aguas superficiales o subterráneas con fines de riego, el volumen de agua utilizada, la superficie total cultivada, los cultivos que se regaron y la producción obtenida de la superficie anual cultivada.
 En su caso, “la Autoridad del Agua”, en coordinación con las instancias que correspondan, deben implementar las medidas para la eficiencia del uso del agua en el riego con base en los reportes a que se refiere el párrafo anterior.
-Artículo reformado DOF 29-04-2004, 11-12-2025 Sección Segunda Ejidos y Comunidades
+Artículo reformado DOF 29-04-2004, 11-12-2025
+
+## Sección Segunda
+Ejidos y Comunidades
 
 ### ARTÍCULO 55
 . La explotación, uso o aprovechamiento de aguas en ejidos y comunidades para el asentamiento humano o para tierras de uso común se efectuarán conforme lo disponga el reglamento interior que al efecto formule el ejido o comunidad, tomando en cuenta lo dispuesto en el Artículo 51 de la presente Ley.
@@ -1769,7 +1808,10 @@ Párrafo reformado DOF 11-12-2025 Artículo adicionado DOF 29-04-2004
 
 ### ARTÍCULO 57
 . Cuando se transmita el dominio de tierras ejidales o de uso común o se aporte el usufructo de parcelas, a sociedades civiles o mercantiles o a cualquier otra persona moral, en los términos de la Ley Agraria, dichas personas o sociedades adquirentes conservarán los derechos sobre la explotación, uso o aprovechamiento de las aguas correspondientes, debiendo solicitar la autorización respectiva ante “la Autoridad del Agua”.
-Artículo reformado DOF 29-04-2004, 11-12-2025 Sección Tercera Unidades de Riego
+Artículo reformado DOF 29-04-2004, 11-12-2025
+
+## Sección Tercera
+Unidades de Riego
 
 ### ARTÍCULO 58
 . Los productores rurales se podrán asociar entre sí libremente para constituir personas morales, con objeto de integrar sistemas que permitan proporcionar servicios de riego agrícola a diversos usuarios, para lo cual constituirán unidades de riego en los términos de esta Sección.
@@ -1919,7 +1961,10 @@ I. Interconectarse o fusionarse con otro u otros distritos o unidades de riego, 
 
 II. Decidir e instrumentar la escisión en dos o más unidades de riego, de conformidad con lo dispuesto en el reglamento del distrito, en cuyo caso "la Comisión" por medio del Organismo de Cuenca que corresponda concertará las acciones y medidas necesarias para proteger los derechos de las personas usuarias, y Fracción reformada DOF 11-12-2025
 
-III. Derogada Fracción derogada DOF 11-12-2025 Artículo reformado DOF 29-04-2004 Sección Quinta Temporal Tecnificado Denominación de la Sección reformada DOF 29-04-2004
+III. Derogada Fracción derogada DOF 11-12-2025 Artículo reformado DOF 29-04-2004
+
+## Sección Quinta
+Temporal Tecnificado Denominación de la Sección reformada DOF 29-04-2004
 
 ### ARTÍCULO 76
 . El Ejecutivo Federal, por conducto de "la Comisión", la cual se apoyará en los Organismos de Cuenca, y con la participación de los usuarios, promoverá y fomentará el establecimiento de unidades de temporal tecnificado incluyendo las de drenaje, conforme a lo asentado en el inciso b de la fracción XXV del Artículo 3 de la presente Ley, a efecto de incrementar la producción agropecuaria.
@@ -2076,7 +2121,10 @@ Artículo adicionado DOF 11-12-2025
 
 ### ARTÍCULO 84
 BIS 5. “La Autoridad del Agua” propondrá las condiciones en las que se llevará a cabo el reúso de aguas residuales tratadas y no tratadas, en la normatividad que se expida para tales efectos.
-Artículo adicionado DOF 11-12-2025 TÍTULO SÉPTIMO Prevención y Control de la Contaminación de las Aguas y Responsabilidad por Daño Ambiental Denominación del Título reformada DOF 29-04-2004
+Artículo adicionado DOF 11-12-2025
+
+## TÍTULO SÉPTIMO
+Prevención y Control de la Contaminación de las Aguas y Responsabilidad por Daño Ambiental Denominación del Título reformada DOF 29-04-2004
 
 ## Capítulo I
 Prevención y Control de la Contaminación del Agua Capítulo adicionado DOF 29-04-2004
@@ -2304,10 +2352,12 @@ Artículo adicionado DOF 29-04-2004. Reformado DOF 07-06-2013
 ### ARTÍCULO 96
 BIS 1. Las personas físicas o morales que descarguen aguas residuales, en violación a las disposiciones legales aplicables, y que causen contaminación en un cuerpo receptor, asumirán la responsabilidad de reparar o compensar el daño ambiental causado en términos de la Ley de Aguas Nacionales y su Reglamento, sin perjuicio de la aplicación de las sanciones administrativas, penales o civiles que procedan, mediante la remoción de los contaminantes del cuerpo receptor afectado y restituirlo al estado que guardaba antes de producirse el daño.
 Párrafo reformado DOF 07-06-2013 "La Comisión", con apoyo en el Organismo de Cuenca competente, intervendrá para que se instrumente la reparación del daño ambiental a cuerpos de agua de propiedad nacional causado por extracciones o descargas de agua, en los términos de esta Ley y sus reglamentos.
-Artículo adicionado DOF 29-04-2004 TÍTULO OCTAVO Inversión en Infraestructura Hidráulica
+Artículo adicionado DOF 29-04-2004
 
-## Capítulo I
-Disposiciones Generales
+## TÍTULO OCTAVO
+Inversión en Infraestructura Hidráulica
+
+## Capítulo I — Disposiciones Generales
 
 ### ARTÍCULO 96
 BIS 2. Se consideran como obras públicas necesarias que competen al Ejecutivo Federal a través de "la Comisión", las que:
@@ -2422,7 +2472,13 @@ Artículo reformado DOF 29-04-2004, 11-12-2025
 Artículo reformado DOF 29-04-2004, 11-12-2025
 
 ## Capítulo IV
-Cobro por Explotación, Uso o Aprovechamiento de Aguas Nacionales y Bienes Nacionales Capítulo derogado DOF 29-04-2004 TÍTULO OCTAVO BIS Sistema Financiero del Agua Título adicionado DOF 29-04-2004 Capítulo Único Capítulo adicionado DOF 29-04-2004
+Cobro por Explotación, Uso o Aprovechamiento de Aguas Nacionales y Bienes Nacionales Capítulo derogado DOF 29-04-2004
+
+## TÍTULO OCTAVO — BIS
+Sistema Financiero del Agua Título adicionado DOF 29-04-2004
+
+## Capítulo Único
+Capítulo adicionado DOF 29-04-2004
 
 ### ARTÍCULO 111
 BIS. El Ejecutivo Federal proveerá los medios y marco adecuados para definir, crear e instrumentar sustentablemente el Sistema Financiero del Agua; su operación quedará al cargo de "la Comisión", bajo la supervisión y apoyo de la Secretaría de Hacienda y Crédito Público.
@@ -2447,7 +2503,12 @@ II. Prever los ajustes necesarios en función de los costos variables correspond
 III. Recuperar inversiones federales mediante contribuciones en un periodo establecido que no será menor que el periodo de recuperación del costo de capital o del cumplimiento de las obligaciones financieras que se contraigan con motivo de la concesión, y
 
 IV. Las demás que resulten aplicables, en términos de Ley.
-Artículo adicionado DOF 29-04-2004 TÍTULO NOVENO Bienes Nacionales a Cargo de "la Comisión" Capítulo Único
+Artículo adicionado DOF 29-04-2004
+
+## TÍTULO NOVENO
+Bienes Nacionales a Cargo de "la Comisión"
+
+## Capítulo Único
 
 ### ARTÍCULO 113
 . La administración de los siguientes bienes nacionales queda a cargo de "la Comisión":
@@ -2560,8 +2621,8 @@ Artículo adicionado DOF 29-04-2004
 ## TÍTULO DÉCIMO
 Régimen Sancionador y Procedimientos Administrativos Denominación del Título reformada DOF 08-06-2012, 11-12-2025
 
-## Capítulo I
-Disposiciones Generales Capítulo adicionado DOF 11-12-2025
+## Capítulo I — Disposiciones Generales
+Capítulo adicionado DOF 11-12-2025
 
 ### ARTÍCULO 118
 BIS 1. Las disposiciones contenidas en este título son aplicables a los actos de verificación, inspección, ejecución de medidas de apremio y seguridad, determinación de infracciones, sanciones administrativas, recursos administrativos y delitos en el ámbito de esta Ley.
@@ -2796,10 +2857,7 @@ Los recursos contra actos o resoluciones que se emitan en materia fiscal conform
 Artículo reformado DOF 29-04-2004
 
 ### ARTÍCULO 124
-BIS. Toda persona, grupos sociales, organizaciones ciudadanas o no gubernamentales, asociaciones y sociedades, podrán recurrir a la denuncia popular en los términos del
-
-## Capítulo VII de la Ley General de Equilibrio Ecológico y Protección al Ambiente, cuando se cometan
-actos que produzcan o puedan producir desequilibrios o daños a los recursos hídricos o sus bienes inherentes.
+BIS. Toda persona, grupos sociales, organizaciones ciudadanas o no gubernamentales, asociaciones y sociedades, podrán recurrir a la denuncia popular en los términos del Capítulo VII de la Ley General de Equilibrio Ecológico y Protección al Ambiente, cuando se cometan actos que produzcan o puedan producir desequilibrios o daños a los recursos hídricos o sus bienes inherentes.
 Artículo adicionado DOF 29-04-2004
 
 ## TRANSITORIOS
@@ -2823,9 +2881,7 @@ Publicada en el Diario Oficial de la Federación el 15 de febrero de 1993 En la 
 Publicado en el Diario Oficial de la Federación el 29 de abril de 2004 CONTIENE EL TEXTO COMPLETO DE LA  , INCLUYE AQUELLAS DISPOSICIONES QUE SE REFORMAN, ADICIONAN Y DEROGAN, ASI COMO LAS QUE NO HAN SIDO OBJETO DE ENMIENDA ALGUNA:
 
 ### ARTÍCULO ÚNICO
-: Se reforman los Artículos 2; 3; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 28; 29; 30; 31; 32; 33; 34; 35; 36; 37; 38; 39; 40; 41; 42; 43; 44; 45; 46; 47; 48; 49; 51; 52; 53; 54; 55; 56; 57; 58; 59; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 70; 72; 73; 74; 75; 76; 77; 78; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 95; 96; 97; 98; 99; 100; 102; 103; 104; 105; 106; 107; 109; 110; 111; 112; 114; 115; 116; 117; 118; 119; 120; 121; 122; 123 y 124; se adicionan los Artículos 7 BIS; 9 BIS; 9 BIS 1; 11 BIS; 11 BIS 1; 12 BIS; 12 BIS 1; 12 BIS 2; 12 BIS 3; 12 BIS 4; 12 BIS 5; 12 BIS 6; 13 BIS; 13 BIS 1; 13 BIS 2; 13 BIS 3; 13 BIS 4; 14 BIS; 14 BIS 1; 14 BIS 2; 14 BIS 3; 14 BIS 4; 14 BIS 5; 14 BIS 6; 15 BIS; 19 BIS; 21 BIS; 23 BIS; 29 BIS; 29 BIS 1; 29 BIS 2; 29 BIS 3; 29 BIS 4; 29 BIS 5; 29 BIS 6; 30 BIS; 37 BIS; 39 BIS; 47 BIS; 52 BIS; 56 BIS; 69 BIS; 84 BIS; 84 BIS 1; 84 BIS 2; 86 BIS; 86 BIS 1; 86 BIS 2; 88 BIS; 88 BIS 1; 91 BIS; 91 BIS 1; 93 BIS; 94 BIS; 96 BIS; 96 BIS 1; 96 BIS 2; 111 BIS; 112 BIS; 113 BIS; 113 BIS 1; 113 BIS 2; 118 BIS; 123 BIS; 123 BIS 1; y 124 BIS; y se derogan los Artículos 26 y 27, así como los trece Artículos Transitorios de la Ley de Aguas Nacionales publicada en el Diario Oficial de la Federación el 1 de diciembre de 1992; se reforman los nombres de los siguientes Títulos para quedar como sigue: Tercero Política y Programación Hídricas; Cuarto Derechos de Explotación, Uso o Aprovechamiento de Aguas Nacionales; Séptimo Prevención y Control de la Contaminación de las Aguas y Responsabilidad por Daño Ambiental; se adiciona el Título Octavo BIS Sistema Financiero del Agua con Capítulo Único; se reforman los nombres de los siguientes Capítulos para quedar como sigue: en el Título Segundo los Capítulos V Organización y Participación de los Usuarios y de la Sociedad; en el
-
-## Título Décimo el Capítulo II Recurso de Revisión y Denuncia Popular; se adicionan: en el Título
+: Se reforman los Artículos 2; 3; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 28; 29; 30; 31; 32; 33; 34; 35; 36; 37; 38; 39; 40; 41; 42; 43; 44; 45; 46; 47; 48; 49; 51; 52; 53; 54; 55; 56; 57; 58; 59; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 70; 72; 73; 74; 75; 76; 77; 78; 80; 81; 82; 83; 84; 85; 86; 87; 88; 89; 90; 91; 92; 93; 94; 95; 96; 97; 98; 99; 100; 102; 103; 104; 105; 106; 107; 109; 110; 111; 112; 114; 115; 116; 117; 118; 119; 120; 121; 122; 123 y 124; se adicionan los Artículos 7 BIS; 9 BIS; 9 BIS 1; 11 BIS; 11 BIS 1; 12 BIS; 12 BIS 1; 12 BIS 2; 12 BIS 3; 12 BIS 4; 12 BIS 5; 12 BIS 6; 13 BIS; 13 BIS 1; 13 BIS 2; 13 BIS 3; 13 BIS 4; 14 BIS; 14 BIS 1; 14 BIS 2; 14 BIS 3; 14 BIS 4; 14 BIS 5; 14 BIS 6; 15 BIS; 19 BIS; 21 BIS; 23 BIS; 29 BIS; 29 BIS 1; 29 BIS 2; 29 BIS 3; 29 BIS 4; 29 BIS 5; 29 BIS 6; 30 BIS; 37 BIS; 39 BIS; 47 BIS; 52 BIS; 56 BIS; 69 BIS; 84 BIS; 84 BIS 1; 84 BIS 2; 86 BIS; 86 BIS 1; 86 BIS 2; 88 BIS; 88 BIS 1; 91 BIS; 91 BIS 1; 93 BIS; 94 BIS; 96 BIS; 96 BIS 1; 96 BIS 2; 111 BIS; 112 BIS; 113 BIS; 113 BIS 1; 113 BIS 2; 118 BIS; 123 BIS; 123 BIS 1; y 124 BIS; y se derogan los Artículos 26 y 27, así como los trece Artículos Transitorios de la Ley de Aguas Nacionales publicada en el Diario Oficial de la Federación el 1 de diciembre de 1992; se reforman los nombres de los siguientes Títulos para quedar como sigue: Tercero Política y Programación Hídricas; Cuarto Derechos de Explotación, Uso o Aprovechamiento de Aguas Nacionales; Séptimo Prevención y Control de la Contaminación de las Aguas y Responsabilidad por Daño Ambiental; se adiciona el Título Octavo BIS Sistema Financiero del Agua con Capítulo Único; se reforman los nombres de los siguientes Capítulos para quedar como sigue: en el Título Segundo los Capítulos V Organización y Participación de los Usuarios y de la Sociedad; en el Título Décimo el Capítulo II Recurso de Revisión y Denuncia Popular; se adicionan: en el Título
 **Segundo.** Capítulo II BIS Secretaría del Medio Ambiente y Recursos Naturales; Capítulo III BIS Organismos de Cuenca; Capítulo V BIS Consejo Consultivo del Agua; Capítulo V BIS 1 Servicio Meteorológico Nacional; Capítulo V BIS 2 Instituto Mexicano de Tecnología del Agua; Capítulo V BIS 3 Procuraduría Federal de Protección al Ambiente; Título Cuarto Capítulo I BIS Conocimiento sobre las Aguas Nacionales; Capítulo III BIS Suspensión, Extinción, Revocación, Restricciones y Servidumbres de la Concesión, Asignación o Permiso Provisional para el Uso del Agua y de Permiso de Descarga; y se adicionan en el mismo Capítulo III BIS las Secciones: Primera Suspensión; Segunda Extinción; Tercera Revocación; Cuarta Restricciones de Uso de Agua; Quinta Servidumbres; Título Sexto Capítulo V BIS Cultura del Agua; Título Séptimo Capítulo I Prevención y Control de la Contaminación del Agua; Capítulo II Responsabilidad por el Daño Ambiental; en el Capítulo Único del Título Tercero se adicionan las secciones Primera: Política Hídrica Nacional y Sección Segunda: Planificación y Programación Hídrica; en el Título Sexto Capítulo II Uso Agrícola, se renombra la Sección Quinta para quedar como Temporal Tecnificado; asimismo, se elimina el Capítulo IV del Título Octavo; para quedar el texto íntegro de la Ley de Aguas Nacionales en los siguientes términos: ..........
 
 ## TRANSITORIOS

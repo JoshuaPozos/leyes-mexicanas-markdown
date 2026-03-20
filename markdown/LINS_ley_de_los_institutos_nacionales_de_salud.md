@@ -8,7 +8,10 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 26 de mayo de 2000 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-TÍTULO PRIMERO Disposiciones generales Capítulo Único
+
+## TÍTULO PRIMERO — Disposiciones generales
+
+## Capítulo Único
 
 ### ARTÍCULO 1
 . La presente ley tiene por objeto regular la organización y funcionamiento de los Institutos Nacionales de Salud, así como fomentar la investigación, enseñanza y prestación de servicios que se realice en ellos.
@@ -43,7 +46,9 @@ XI. Secretaría, a la Secretaría de Salud del Ejecutivo Federal.
 
 ### ARTÍCULO 4
 . En caso de duda sobre la interpretación de las disposiciones de esta ley, se estará a lo que resuelva, para efectos administrativos, el Ejecutivo Federal, por conducto de la Secretaría.
-TÍTULO SEGUNDO Organización de los Institutos
+
+## TÍTULO SEGUNDO
+Organización de los Institutos
 
 ## Capítulo I
 Funciones
@@ -373,7 +378,9 @@ Régimen laboral
 
 ### ARTÍCULO 36
 . Serán trabajadores de confianza los directores generales, directores, subdirectores, jefes de división, jefes de departamento, jefe de servicios y los demás que desempeñen las funciones a que se refiere el artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional.
-TÍTULO TERCERO Ámbito de los Institutos
+
+## TÍTULO TERCERO
+Ámbito de los Institutos
 
 ## Capítulo I
 Investigación
@@ -551,9 +558,7 @@ II. Los decretos presidenciales del Instituto Nacional de Salud Pública; del In
 México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen.
 Raúl Juárez Valencia, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
-ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se adiciona una fracción V bis al artículo 5, y un artículo 7 bis al
-
-## Capítulo I del Título Segundo, de la Ley de los Institutos Nacionales de Salud.
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA DECRETO por el que se adiciona una fracción V bis al artículo 5, y un artículo 7 bis al Capítulo I del Título Segundo, de la Ley de los Institutos Nacionales de Salud.
 Publicado en el Diario Oficial de la Federación el 20 de julio de 2004
 
 ### ARTÍCULO ÚNICO

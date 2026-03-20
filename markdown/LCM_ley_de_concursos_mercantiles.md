@@ -12,10 +12,10 @@ Y DE REFORMA AL ARTÍCULO 88 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERA
 
 ### ARTÍCULO PRIMERO
 Se aprueba la Ley de Concursos Mercantiles para quedar como sigue:
-TÍTULO PRIMERO Disposiciones generales y declaración de concurso mercantil
 
-## Capítulo I
-Disposiciones preliminares
+## TÍTULO PRIMERO — Disposiciones generales y declaración de concurso mercantil
+
+## Capítulo I — Disposiciones preliminares
 
 ### Artículo 1o
 .- La presente Ley es de interés público y tiene por objeto regular el concurso mercantil.
@@ -75,8 +75,7 @@ III. Los usos mercantiles especiales y generales;
 
 IV. El Código Nacional de Procedimientos Civiles y Familiares, y Fracción reformada DOF 14-11-2025
 
-## Capítulo II
-De los supuestos del concurso mercantil
+## Capítulo II — De los supuestos del concurso mercantil
 
 ### Artículo 9o
 .- Será declarado en concurso mercantil, el Comerciante que incumpla generalizadamente en el pago de sus obligaciones.
@@ -167,8 +166,7 @@ Artículo adicionado DOF 10-01-2014
 .- Las sucursales de empresas extranjeras podrán ser declaradas en concurso mercantil.
 La declaración sólo comprenderá a los bienes y derechos localizados y exigibles, según sea el caso, en el territorio nacional y a los acreedores por operaciones realizadas con dichas sucursales.
 
-## Capítulo III
-Del procedimiento para la declaración de concurso mercantil
+## Capítulo III — Del procedimiento para la declaración de concurso mercantil
 
 ### Artículo 17
 .- Es competente para conocer del concurso mercantil de un Comerciante, el Juez de Distrito con jurisdicción en el lugar en donde el Comerciante tenga su domicilio, salvo por lo dispuesto en los párrafos siguientes.
@@ -290,8 +288,7 @@ Con la contestación de la demanda, el Comerciante podrá ofrecer en adición a 
 .- El Comerciante que haya solicitado su declaración de concurso mercantil o, en su caso, los acreedores o el Ministerio Público que lo hayan demandado, podrán desistir de su solicitud o demanda, siempre que exista el consentimiento expreso de todos ellos. El Comerciante o los acreedores demandantes sufragarán los gastos del proceso, entre otros, los honorarios del visitador y, en su caso, del conciliador.
 Artículo reformado DOF 10-01-2014
 
-## Capítulo IV
-De la visita de verificación
+## Capítulo IV — De la visita de verificación
 
 ### Artículo 29
 .- Al día siguiente de que el juez admita la demanda, deberá remitir copia de la misma, más no de sus anexos, al Instituto, ordenándole que designe un visitador dentro de los cinco días siguientes a que reciba dicha comunicación. De igual forma y en el mismo plazo deberá hacerlo del conocimiento de las autoridades fiscales competentes para los efectos que resulten procedentes, girándose de inmediato los oficios respectivos.
@@ -385,8 +382,7 @@ Párrafo reformado DOF 27-12-2007
 .- El juez al día siguiente de aquel en que reciba el dictamen del visitador, lo pondrá a la vista del Comerciante, del acreedor o acreedores demandantes y del Ministerio Público en caso de que éste haya demandado el concurso mercantil, para que dentro de un plazo común de cinco días presenten sus alegatos por escrito, y para los demás efectos previstos en esta Ley.
 Artículo reformado DOF 27-12-2007, 10-01-2014
 
-## Capítulo V
-De la sentencia de concurso mercantil
+## Capítulo V — De la sentencia de concurso mercantil
 
 ### Artículo 42
 .- Sin necesidad de citación, el juez dictará la sentencia que corresponda dentro de los cinco días siguientes al vencimiento del plazo para la formulación de alegatos; considerando lo manifestado, probado y alegado por las partes además del dictamen del visitador. El juez deberá razonar las pruebas aportadas por las partes, incluyendo el dictamen del visitador.
@@ -455,8 +451,7 @@ Párrafo reformado DOF 27-12-2007 En todos los casos deberán respetarse los act
 El juez condenará al acreedor demandante, o al solicitante, en su caso, a pagar los gastos y costas judiciales, que serán calculados como si el negocio fuere de cuantía indeterminada de acuerdo con las normas generales que regulen la materia arancelaria en la entidad federativa de que se trate, incluidos los honorarios y gastos del visitador.
 Párrafo reformado DOF 27-12-2007, 10-01-2014
 
-## Capítulo VI
-De la apelación de la sentencia de concurso mercantil
+## Capítulo VI — De la apelación de la sentencia de concurso mercantil
 
 ### Artículo 49
 .- Contra la sentencia que niegue el concurso mercantil, procede el recurso de apelación en ambos efectos, contra la que lo declare, procede únicamente en el efecto devolutivo.
@@ -478,10 +473,10 @@ El tribunal de alzada dentro de los cinco días siguientes al vencimiento de dic
 
 ### Artículo 53
 .- La sentencia de revocación del concurso mercantil se notificará y publicará en términos de los anteriores artículos 44 y 45 y se estará, en lo conducente, a lo dispuesto en el artículo 48 de esta Ley.
-TÍTULO SEGUNDO De los órganos del concurso mercantil
 
-## Capítulo I
-Del visitador, del conciliador y del síndico
+## TÍTULO SEGUNDO — De los órganos del concurso mercantil
+
+## Capítulo I — Del visitador, del conciliador y del síndico
 
 ### Artículo 54
 .- El visitador, el conciliador y el síndico tendrán las obligaciones y facultades que expresamente les confiere esta Ley.
@@ -520,8 +515,7 @@ Párrafo reformado DOF 27-12-2007 Cuando por sentencia firme se condene a algún
 En el caso del síndico y del conciliador, cuando esté a cargo de la administración, serán igualmente responsables por el incumplimiento a las obligaciones fiscales a que se refiere el artículo 69 de esta Ley.
 Artículo reformado DOF 10-01-2014
 
-## Capítulo II
-De los interventores
+## Capítulo II — De los interventores
 
 ### Artículo 62
 .- Los interventores representarán los intereses de los acreedores y tendrán a su cargo la vigilancia de la actuación del conciliador y del síndico así como de los actos realizados por el Comerciante en la administración de su empresa.
@@ -545,10 +539,11 @@ Fracción reformada DOF 10-01-2014
 IV. Fungir como interlocutor de los acreedores que lo hayan designado y de otros acreedores que así lo soliciten, frente al Comerciante, conciliador y síndico, y Fracción adicionada DOF 10-01-2014
 
 V. Las demás que se establecen en esta Ley.
-Fracción recorrida DOF 10-01-2014 TÍTULO TERCERO De los efectos de la sentencia de concurso mercantil
+Fracción recorrida DOF 10-01-2014
 
-## Capítulo I
-De la suspensión de los procedimientos de ejecución
+## TÍTULO TERCERO — De los efectos de la sentencia de concurso mercantil
+
+## Capítulo I — De la suspensión de los procedimientos de ejecución
 
 ### Artículo 65
 .- Desde que se dicte la sentencia de concurso mercantil y hasta que termine la etapa de conciliación, no podrá ejecutarse ningún mandamiento de embargo o ejecución contra los bienes y derechos del Comerciante.
@@ -572,8 +567,7 @@ En caso de alcanzarse un convenio en términos del Título Quinto de esta Ley, s
 La sentencia de concurso mercantil no será causa para interrumpir el pago de las contribuciones fiscales o de seguridad social ordinarias del Comerciante, por ser indispensables para la operación ordinaria de la empresa.
 A partir de la sentencia de concurso mercantil y hasta la terminación del plazo para la etapa de conciliación, se suspenderán los procedimientos administrativos de ejecución de los créditos fiscales. Las autoridades fiscales competentes podrán continuar los actos necesarios para la determinación y aseguramiento de los créditos fiscales a cargo del Comerciante.
 
-## Capítulo II
-De la separación de bienes que se encuentren en posesión del Comerciante
+## Capítulo II — De la separación de bienes que se encuentren en posesión del Comerciante
 
 ### Artículo 70
 .- Los bienes en posesión del Comerciante que sean identificables, cuya propiedad no se le hubiere transferido por título legal definitivo e irrevocable, podrán ser separados por sus legítimos titulares. El juez del concurso mercantil será competente para conocer de la acción de separación.
@@ -632,8 +626,7 @@ VI. Siempre que los bienes separables hubieren sido dados en prenda a terceros d
 En los casos de separación por parte del enajenante que hubiere recibido parte del precio, la separación estará condicionada a la devolución previa de la parte del precio recibido. La restitución del precio será proporcional a su importe total, en relación con la cantidad o número de los bienes separados.
 El vendedor y los demás separatistas tienen la obligación previa de reintegrar todo lo que se hubiere pagado o se adeude por derechos fiscales, transporte, comisión, seguro, avería gruesa y gastos de conservación de los bienes.
 
-## Capítulo III
-De la administración de la empresa del Comerciante
+## Capítulo III — De la administración de la empresa del Comerciante
 
 ### Artículo 74
 .- Durante la etapa de conciliación, la administración de la empresa corresponderá al Comerciante, salvo lo dispuesto en el artículo 81 de esta Ley.
@@ -679,8 +672,7 @@ No obstante lo dispuesto en el párrafo anterior, cuando así convenga para evit
 ### Artículo 83
 .- En el supuesto a que se refiere el artículo anterior y tratándose de personas morales declaradas en estado de concurso, quedarán suspendidas las facultades de los órganos que, de acuerdo a la ley o a los estatutos de la empresa, tengan competencia para tomar determinaciones sobre los administradores, directores o gerentes.
 
-## Capítulo IV
-De los efectos en cuanto a la actuación en otros juicios
+## Capítulo IV — De los efectos en cuanto a la actuación en otros juicios
 
 ### Artículo 84
 .- Las acciones promovidas y los juicios seguidos por el Comerciante, y las promovidas y los seguidos contra él, que se encuentren en trámite al dictarse la sentencia de concurso mercantil, que tengan un contenido patrimonial, no se acumularán al concurso mercantil, sino que se seguirán por el Comerciante bajo la vigilancia del conciliador, para lo cual, el Comerciante debe informar al conciliador de la existencia del procedimiento, al día siguiente de que sea de su conocimiento la designación de éste.
@@ -691,8 +683,7 @@ Párrafo adicionado DOF 10-01-2014
 ### Artículo 85
 .- No intervendrá el conciliador, ni en ningún caso podrá sustituirse al Comerciante, en los juicios relativos exclusivamente a bienes o derechos cuya administración y disposición conserve en los términos del artículo 179 de esta Ley.
 
-## Capítulo V
-De los efectos en relación con las obligaciones del Comerciante
+## Capítulo V — De los efectos en relación con las obligaciones del Comerciante
 
 ## Sección I
 Regla general y vencimiento anticipado
@@ -742,8 +733,7 @@ III. Los derechos y obligaciones que deriven de las operaciones previstas en los
 
 IV. Los créditos fiscales a favor y en contra del Comerciante.
 
-## Sección II
-De los contratos pendientes
+## Sección II — De los contratos pendientes
 
 ### Artículo 91
 .- El concurso mercantil no afectará la validez de los contratos celebrados sobre bienes de carácter estrictamente personal, de índole no patrimonial o relativos a bienes o derechos cuya administración y disposición conserve el Comerciante en los términos del artículo 179 de esta Ley.
@@ -832,8 +822,7 @@ Si el conciliador no pusiere en conocimiento del asegurador la declaración de c
 ### Artículo 111
 .- El concurso mercantil de un socio de una sociedad en nombre colectivo o de responsabilidad limitada, o del comanditado de una en comandita simple o por acciones, le dará derecho a pedir su liquidación según el último balance social, o a continuar en la sociedad, si el conciliador presta su consentimiento, siempre que los demás socios no prefieran ejercer el derecho de liquidación parcial de la sociedad, salvo que otra cosa se hubiere previsto en los estatutos.
 
-## Capítulo VI
-De los actos en fraude de acreedores
+## Capítulo VI — De los actos en fraude de acreedores
 
 ### Artículo 112
 .- Para efectos de lo previsto en el presente capítulo, se entenderá por fecha de retroacción, el día doscientos setenta natural inmediato anterior a la fecha de la sentencia de declaración del concurso mercantil.
@@ -912,11 +901,9 @@ La misma responsabilidad recae sobre el que, para eludir los efectos de la inefi
 ### Artículo 119
 .- Cuando se resuelva la devolución a la Masa de algún objeto o cantidad, se entenderá aunque no se exprese, que deben devolverse también sus productos líquidos o intereses correspondientes al tiempo en que se disfrutó de la cosa o dinero. Para efectos del cómputo de los productos líquidos o intereses se estará a lo convenido originalmente entre las partes o, en su defecto, se considerará el interés legal.
 
-## TÍTULO CUARTO
-Del reconocimiento de créditos
+## TÍTULO CUARTO — Del reconocimiento de créditos
 
-## Capítulo I
-De las operaciones para el reconocimiento
+## Capítulo I — De las operaciones para el reconocimiento
 
 ### Artículo 120
 .- Para el desempeño de las funciones que le atribuye este Título, el conciliador permanecerá en su encargo con independencia de que la etapa de conciliación se dé por terminada.
@@ -1044,7 +1031,10 @@ Desahogada la audiencia el tribunal de alzada citará para sentencia y resolver�
 
 ### Artículo 144
 .- En caso de que un acreedor transmita la titularidad de sus créditos por cualquier medio deberá, al igual que el adquirente, notificar la transmisión y sus características al conciliador, en los formatos que al efecto determine el Instituto. El conciliador deberá hacer pública la notificación, conforme a las disposiciones que al efecto emita el Instituto.
-TÍTULO QUINTO De la conciliación Capítulo Único De la adopción del convenio
+
+## TÍTULO QUINTO — De la conciliación
+
+## Capítulo Único — De la adopción del convenio
 
 ### Artículo 145
 .- La etapa de conciliación tendrá una duración de ciento ochenta y cinco días naturales, contados a partir del día en que se haga la última publicación en el Diario Oficial de la Federación de la sentencia de concurso mercantil.
@@ -1213,10 +1203,11 @@ El juez notificará la demanda a quien hubiere fungido como conciliador, para qu
 Dentro de los cinco días siguientes a que sea notificado del incidente a quien hubiere fungido como conciliador, procederá a solicitar la inscripción de la demanda respectiva en los registros públicos que correspondan y hará publicar un extracto de la misma en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación en la localidad donde se siga el procedimiento, pudiéndose también difundir por aquellos otros medios que al efecto determine el Instituto. Tratándose de la notificación del incidente para los acreedores con domicilio en el extranjero, será aplicable lo establecido en el artículo 291 de esta Ley.
 Tratándose de la modificación o de la verificación del cumplimiento de un convenio celebrado en términos del Título Quinto de la Ley, será competente para conocer de dicha acción el juez que conoció del concurso mercantil del que deriva el convenio respectivo, en donde hubiere sido aprobado. El mismo juez conocerá de la solicitud o demanda de concurso mercantil que, en su caso, se derive del incumplimiento de obligaciones pecuniarias contenidas en el convenio en cuestión.
 Igualmente, cualquier Acreedor Reconocido podrá solicitar el cumplimiento forzoso del convenio, bastando para ello demandarlo en la misma vía incidental ante el juez que hubiere conocido del concurso mercantil del que deriva.
-Artículo adicionado DOF 10-01-2014 TÍTULO SEXTO De la quiebra
+Artículo adicionado DOF 10-01-2014
 
-## Capítulo I
-De la declaración de quiebra
+## TÍTULO SEXTO — De la quiebra
+
+## Capítulo I — De la declaración de quiebra
 
 ### Artículo 167
 .- El Comerciante en concurso mercantil será declarado en estado de quiebra cuando:
@@ -1279,8 +1270,7 @@ Cuando el Comerciante apele la sentencia y ésta se haya dictado por los supuest
 En caso de que el juez admita en ambos efectos la apelación de la sentencia de quiebra promovida por el Comerciante, señalará el monto de la garantía que deberá exhibir el apelante dentro del término de seis días para que surta efectos la suspensión.
 Párrafo adicionado DOF 10-01-2014
 
-## Capítulo II
-De los efectos particulares de la sentencia de quiebra
+## Capítulo II — De los efectos particulares de la sentencia de quiebra
 
 ### Artículo 176
 .- Sujeto a lo que se establece en este Capítulo, las disposiciones sobre los efectos de la sentencia de concurso mercantil son aplicables a la sentencia de quiebra.
@@ -1377,10 +1367,11 @@ Para el ejercicio de la facultad a que se refiere el párrafo anterior, el sínd
 
 ### Artículo 196
 .- Tratándose de personas morales, las disposiciones relativas a las obligaciones del Comerciante, serán a cargo de quienes, de acuerdo con la ley, los estatutos vigentes o su acta constitutiva, tengan la representación legal de la persona moral.
-TÍTULO SÉPTIMO De la enajenación del activo, graduación de créditos y del pago a los Acreedores Reconocidos
 
-## Capítulo I
-De la enajenación del activo
+## TÍTULO SÉPTIMO
+De la enajenación del activo, graduación de créditos y del pago a los Acreedores Reconocidos
+
+## Capítulo I — De la enajenación del activo
 
 ### Artículo 197
 .- Declarada la quiebra, aun cuando no se hubiere concluido el reconocimiento de créditos, el síndico procederá a la enajenación de los bienes y derechos que integran la Masa, procurando obtener el mayor producto posible por su enajenación. Para tal efecto, deberán buscarse las mejores condiciones y plazos más cortos de recuperación de recursos.
@@ -1558,8 +1549,7 @@ El síndico deberá presentar cada mes al juez un informe del estado que guarden
 anterior, se deducirá del producto de la venta la cantidad con la que el acreedor debe contribuir al pago de los acreedores singularmente privilegiados y de los créditos con cargo a la Masa, de acuerdo con lo establecido en el artículo 226 de esta Ley.
 De no poderse determinar con precisión, al momento de la ejecución, la contribución que le correspondería, se deducirá la cantidad mínima que se pueda prever y se reservará la diferencia entre ésta y la máxima que pudiere resultar, conforme a los cálculos que al efecto realice el síndico. El ajuste definitivo se realizará tan pronto como sea posible determinar con precisión el monto de la contribución correspondiente.
 
-## Capítulo II
-De la graduación de créditos
+## Capítulo II — De la graduación de créditos
 
 ### Artículo 217
 .- Los acreedores se clasificarán en los grados siguientes, según la naturaleza de sus créditos:
@@ -1650,8 +1640,7 @@ III. Los gastos necesarios para la refacción, conservación y enajenación de l
 .- Cuando se haya declarado en concurso mercantil a una sociedad en la que haya socios ilimitadamente responsables, los acreedores de esos socios, cuyos créditos fueren anteriores al nacimiento de la responsabilidad ilimitada del socio, concurrirán con los acreedores de la sociedad, colocándose en el grado y prelación que les corresponda.
 Los acreedores posteriores de los socios ilimitadamente responsables, de una sociedad en estado de concurso, sólo tendrán derecho a cobrar sus créditos del remanente, si lo hubiere, después de satisfechas las deudas de la sociedad de que se trate, de acuerdo con estas disposiciones.
 
-## Capítulo III
-Del pago a los Acreedores Reconocidos
+## Capítulo III — Del pago a los Acreedores Reconocidos
 
 ### Artículo 229
 .- A partir de la fecha de la sentencia de quiebra, por lo menos cada dos meses, el síndico presentará al juez un reporte de las enajenaciones realizadas y de la situación de activo remanente, y una lista de los acreedores que serán pagados, así como la cuota concursal que les corresponda.
@@ -1682,10 +1671,11 @@ En estos casos el juez, oyendo a los interventores conforme al procedimiento est
 
 ### artículo 262
 de esta Ley, si se descubrieren bienes del Comerciante o se le restituyeran bienes que debieron comprenderse como parte de la Masa, se procederá a su enajenación y distribución en los términos dispuestos en esta Ley.
-TÍTULO OCTAVO De los concursos especiales
 
-## Capítulo I
-De los concursos mercantiles de Comerciantes que prestan servicios públicos concesionados
+## TÍTULO OCTAVO — De los concursos especiales
+
+## Capítulo I — De los concursos mercantiles de Comerciantes que prestan servicios públicos
+concesionados
 
 ### Artículo 237
 .- El Comerciante que, en virtud de un título de concesión, preste un servicio público federal, estatal o municipal, podrá ser declarado en concurso mercantil.
@@ -1718,8 +1708,8 @@ III. Interventores que representen, en su conjunto, al menos el cincuenta por ci
 ### Artículo 244
 .- En todos los casos en que la venta de la empresa del Comerciante incluya la transmisión del título de concesión, la operación deberá contar con la aprobación previa de la autoridad concedente, quien verificará que el adquirente cumpla con los requisitos que para estar en condiciones de prestar el servicio público establezcan las disposiciones aplicables.
 
-## Capítulo II
-Del concurso mercantil de las Instituciones Financieras Denominación del Capítulo reformada DOF 10-01-2014
+## Capítulo II — Del concurso mercantil de las Instituciones Financieras
+Denominación del Capítulo reformada DOF 10-01-2014
 
 ### Artículo 244
 Bis.- Para efectos de lo dispuesto en el presente Capítulo, se entenderá por:
@@ -1768,8 +1758,7 @@ Artículo reformado DOF 10-01-2014
 ### Artículo 253
 .- Se deroga Artículo derogado DOF 10-01-2014
 
-## Capítulo III
-Del concurso mercantil de las instituciones auxiliares del crédito
+## Capítulo III — Del concurso mercantil de las instituciones auxiliares del crédito
 
 ### Artículo 254
 .- El concurso mercantil de las organizaciones y personas que realicen actividades auxiliares del crédito se regirá por lo previsto en esta Ley, salvo por lo dispuesto en la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
@@ -1803,7 +1792,11 @@ Artículo reformado DOF 10-01-2014
 
 ### Artículo 261
 .- Las propuestas de enajenación que presente el síndico, con la aprobación de la Comisión Nacional Bancaria y de Valores, podrán ser objetadas por la sociedad de que se trate y el juez resolverá lo conducente.
-Artículo reformado DOF 10-01-2014 TÍTULO NOVENO De la terminación del concurso mercantil Capítulo Único De la terminación del concurso mercantil
+Artículo reformado DOF 10-01-2014
+
+## TÍTULO NOVENO — De la terminación del concurso mercantil
+
+## Capítulo Único — De la terminación del concurso mercantil
 
 ### Artículo 262
 .- El juez declarará concluido el concurso mercantil en los siguientes casos:
@@ -1838,8 +1831,7 @@ El concurso mercantil se continuará en el punto en que se hubiere interrumpido.
 ### Artículo 266
 .- La sentencia de terminación del concurso mercantil será apelable por el Comerciante, cualquier Acreedor Reconocido, y el Ministerio Público así como por el visitador, el conciliador o el síndico en los mismos términos que la sentencia de concurso mercantil.
 
-## TÍTULO DÉCIMO
-De los incidentes, recursos y medidas de apremio
+## TÍTULO DÉCIMO — De los incidentes, recursos y medidas de apremio
 
 ## Capítulo I
 Incidentes y recursos
@@ -1865,8 +1857,7 @@ Los incidentes planteados en términos de esta Ley no suspenderán el procedimie
 ### Artículo 268
 .- Cuando esta Ley no prevea el recurso de apelación procederá la revocación, que se tramitará conforme a las disposiciones del Código de Comercio.
 
-## Capítulo II
-De las medidas de apremio
+## Capítulo II — De las medidas de apremio
 
 ### Artículo 269
 .- El juez para hacer cumplir sus determinaciones podrá emplear, a su discreción, cualquiera de las medidas de apremio siguientes:
@@ -1881,7 +1872,7 @@ Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 ### Artículo 270
 .- Cuando en ejercicio de las facultades que le confiere el artículo anterior, el juez solicite el auxilio de la fuerza pública, las autoridades competentes estarán obligadas, bajo su más estricta responsabilidad, a prestar tal auxilio con la amplitud y por todo el tiempo que sea necesario.
 
-## TÍTULO DÉCIMO BIS
+## TÍTULO DÉCIMO — BIS
 Responsabilidad de los administradores Título adicionado DOF 10-01-2014
 
 ### Artículo 270
@@ -1934,8 +1925,10 @@ III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender
 IV. Cumplan los acuerdos de la asamblea de accionistas, siempre y cuando éstos no sean violatorios de la ley.
 Artículo adicionado DOF 10-01-2014
 
-## TÍTULO DÉCIMO PRIMERO
-Aspectos penales del concurso mercantil Capítulo Único De los delitos en situación de concurso mercantil
+## TÍTULO DÉCIMO — PRIMERO
+Aspectos penales del concurso mercantil
+
+## Capítulo Único — De los delitos en situación de concurso mercantil
 
 ### Artículo 271
 .- El Comerciante declarado en concurso mercantil por sentencia firme será sancionado con pena de tres a doce años de prisión por cualquier acto o conducta dolosos realizados antes o después de la declaración del concurso mercantil que cause o agrave el incumplimiento generalizado en el pago de sus obligaciones.
@@ -1967,11 +1960,10 @@ Artículo adicionado DOF 10-01-2014
 .- Los delitos en situación de concurso mercantil, cometidos por el Comerciante, por personas que hayan actuado en su nombre o por terceros, podrán perseguirse sin esperar a la conclusión del concurso mercantil y sin perjuicio de la continuación de éste.
 Las decisiones del juez que conoce del concurso mercantil no vinculan a la jurisdicción penal. No será necesaria calificación para perseguir estos delitos.
 
-## TÍTULO DÉCIMO SEGUNDO
+## TÍTULO DÉCIMO — SEGUNDO
 De la cooperación en los procedimientos internacionales
 
-## Capítulo I
-Disposiciones generales
+## Capítulo I — Disposiciones generales
 
 ### Artículo 278
 .- Las disposiciones de este Título serán aplicables a los casos en que:
@@ -2047,8 +2039,7 @@ II. Indicar si los acreedores con créditos garantizados necesitan presentar eso
 
 III. Contener cualquier otra información requerida para esa notificación conforme a las leyes mexicanas y a las resoluciones del juez.
 
-## Capítulo III
-Del reconocimiento de un procedimiento extranjero y medidas otorgables
+## Capítulo III — Del reconocimiento de un procedimiento extranjero y medidas otorgables
 
 ### Artículo 292
 .- El Representante Extranjero podrá solicitar ante el juez el reconocimiento del Procedimiento Extranjero en el que haya sido nombrado.
@@ -2155,8 +2146,7 @@ A instancia del Representante Extranjero o de toda persona afectada por alguna m
 ### Artículo 303
 .- Desde el reconocimiento de un Procedimiento Extranjero, el Representante Extranjero podrá ser autorizado para intervenir en los procedimientos a que se refieren los artículos 83 y 84 de este ordenamiento.
 
-## Capítulo IV
-De la cooperación con tribunales y representantes extranjeros
+## Capítulo IV — De la cooperación con tribunales y representantes extranjeros
 
 ### Artículo 304
 .- En los asuntos indicados en el artículo 278 de esta Ley, el juez, el visitador, el conciliador o el síndico, deberán cooperar, en el ejercicio de sus funciones y en la medida en que sea posible, con los tribunales y representantes extranjeros.
@@ -2175,8 +2165,7 @@ IV. La aprobación o la aplicación por los tribunales de los acuerdos relativos
 
 V. La coordinación de los procedimientos que se estén siguiendo simultáneamente respecto de un mismo Comerciante.
 
-## Capítulo V
-De los procedimientos paralelos
+## Capítulo V — De los procedimientos paralelos
 
 ### Artículo 306
 .- Los efectos del reconocimiento de un Procedimiento Extranjero Principal y la constitución en estado de concurso mercantil a un Comerciante extranjero, respecto del establecimiento que tenga en la República Mexicana y los efectos del reconocimiento de un Procedimiento Extranjero Principal, respecto de un Comerciante que sólo tenga bienes dentro de la República Mexicana, se limitarán al establecimiento del Comerciante que se encuentre dentro de la República y, en la medida requerida para la puesta en práctica de la cooperación y coordinación previstas en los artículos 304 y 305 de la presente Ley, a otros bienes del Comerciante que, con arreglo al derecho mexicano, deban ser administrados en este procedimiento.
@@ -2213,11 +2202,10 @@ III. Cuando, una vez reconocido un Procedimiento Extranjero no Principal, se oto
 ### Artículo 310
 .- Sin perjuicio de los derechos de los titulares de créditos con privilegio especial, con garantía real o de los derechos reales, un acreedor que haya recibido un cobro parcial respecto de su crédito en un procedimiento seguido en un Estado extranjero, con arreglo a una norma relativa a la insolvencia, no podrá recibir un nuevo dividendo por ese mismo crédito en un procedimiento de insolvencia que se siga con arreglo a esta Ley respecto de ese mismo Comerciante, en tanto que el dividendo recibido por los demás acreedores de la misma categoría sea proporcionalmente inferior al cobro ya recibido por el acreedor.
 
-## TÍTULO DÉCIMO TERCERO
+## TÍTULO DÉCIMO — TERCERO
 Del Instituto Federal de Especialistas de Concursos Mercantiles
 
-## Capítulo I
-De la Naturaleza y Atribuciones
+## Capítulo I — De la Naturaleza y Atribuciones
 
 ### Artículo 311
 .- Se crea el Instituto Federal de Especialistas de Concursos Mercantiles, como órgano auxiliar del Consejo de la Judicatura Federal, con autonomía técnica y operativa, con las atribuciones siguientes:
@@ -2266,8 +2254,7 @@ Fracción reformada DOF 27-12-2007 (se recorre)
 El Instituto deberá notificar al solicitante por escrito, dentro de los quince días naturales siguientes a la fecha de la solicitud correspondiente, la lista a la que se refiere el párrafo anterior. Los honorarios del conciliador serán a cargo del solicitante.
 En ningún caso el Instituto será responsable por los actos realizados por el conciliador que el Comerciante o, en su caso, cualquier acreedor hubieren elegido.
 
-## Capítulo II
-De la organización
+## Capítulo II — De la organización
 
 ### Artículo 313
 .- El Instituto estará encomendado a una Junta Directiva, la cual será apoyada por la estructura administrativa que determine conforme al presupuesto autorizado.
@@ -2362,8 +2349,7 @@ VI. Someter a consideración de la Junta Directiva, los programas, así como las
 
 VII. Las demás que le confieran esta Ley y otros ordenamientos.
 
-## Capítulo III
-De los visitadores, conciliadores y síndicos
+## Capítulo III — De los visitadores, conciliadores y síndicos
 
 ### Artículo 325
 .- Las personas interesadas en desempeñar las funciones de visitador, conciliador o síndico en los procedimientos de concurso mercantil, deberán solicitar al Instituto su inscripción en el registro respectivo, de conformidad con las disposiciones previstas en este Capítulo.
@@ -2443,8 +2429,7 @@ II. Se pagarán en los términos que determine el Instituto, que tomará en cons
 III. Serán acordes con las condiciones del mercado laboral y tendientes a lograr la inscripción de personas idóneas y debidamente calificadas para el desempeño de sus funciones en el registro a que se refiere el Capítulo siguiente.
 En todo caso, la remuneración del conciliador y del síndico estará vinculada a su desempeño.
 
-## Capítulo IV
-Del registro de los visitadores, conciliadores y síndicos
+## Capítulo IV — Del registro de los visitadores, conciliadores y síndicos
 
 ### Artículo 334
 .- El Instituto mantendrá un registro actualizado de visitadores, conciliadores y síndicos, diferenciados según las categorías que al efecto determine mediante disposiciones de carácter general.

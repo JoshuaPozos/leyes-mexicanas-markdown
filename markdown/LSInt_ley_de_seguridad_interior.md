@@ -11,7 +11,9 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 SE EXPIDE LA
 
 ### Artículo Único
-Se expide la Ley de Seguridad Interior Ley declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada 15-11-2018 y publicada DOF 30-05-2019 CAPÍTULO PRIMERO DISPOSICIONES GENERALES
+Se expide la Ley de Seguridad Interior Ley declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada 15-11-2018 y publicada DOF 30-05-2019
+
+## CAPÍTULO PRIMERO — DISPOSICIONES GENERALES
 
 ### Artículo 1
 . La presente Ley es de orden público, de interés general y de observancia obligatoria en todo el territorio nacional. Sus disposiciones son materia de seguridad nacional en términos de lo dispuesto por la fracción XXIX-M del artículo 73 y la fracción VI del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos en materia de seguridad interior. Tiene por objeto regular la función del Estado para preservar la Seguridad Interior, así como establecer las bases, procedimientos y modalidades de coordinación entre la Federación, las entidades federativas y los municipios, en la materia.
@@ -64,7 +66,9 @@ Asimismo, el Consejo de Seguridad Nacional emitirá lineamientos para la partici
 ### Artículo 10
 . A falta de disposición expresa en esta Ley, se aplicará supletoriamente la Ley de Seguridad Nacional y, en su caso, la Ley General del Sistema Nacional de Seguridad Pública, en el ámbito de sus competencias.
 La materia de Seguridad Interior queda excluida de lo dispuesto en la Ley Federal de Procedimiento Administrativo.
-CAPÍTULO SEGUNDO DE LOS SUPUESTOS Y PROCEDIMIENTO PARA EMITIR LA DECLARATORIA DE PROTECCIÓN A LA SEGURIDAD INTERIOR
+
+## CAPÍTULO SEGUNDO — DE LOS SUPUESTOS Y PROCEDIMIENTO PARA EMITIR LA DECLARATORIA DE
+PROTECCIÓN A LA SEGURIDAD INTERIOR
 
 ### Artículo 11
 . Corresponde a las autoridades federales, incluyendo las Fuerzas Armadas, por sí o en coordinación con los demás órdenes de gobierno, identificar, prevenir, atender, reducir y contener las Amenazas a la Seguridad Interior.
@@ -120,7 +124,8 @@ Las condiciones y vigencia de la Declaratoria de Protección a la Seguridad Inte
 ### Artículo 16
 . En aquellos casos en que las Amenazas a la Seguridad Interior representen un grave peligro a la integridad de las personas o el funcionamiento de las instituciones fundamentales de gobierno, el Presidente de la República de acuerdo a sus facultades podrá ordenar acciones inmediatas a las dependencias y entidades de la Administración Pública Federal, incluidas las Fuerzas Federales y las Fuerzas Armadas.
 Lo anterior, sin perjuicio de la comunicación que realice la Secretaría de Gobernación de forma posterior a los titulares del Poder Ejecutivo respectivo de las entidades federativas y la emisión, en el menor tiempo posible, de la Declaratoria de Protección a la Seguridad Interior.
-CAPÍTULO TERCERO DE LA INTERVENCIÓN DE LAS AUTORIDADES FEDERALES
+
+## CAPÍTULO TERCERO — DE LA INTERVENCIÓN DE LAS AUTORIDADES FEDERALES
 
 ### Artículo 17
 . A partir de la expedición de la Declaratoria de Protección a la Seguridad Interior, las acciones que realicen las autoridades federales para su atención y cumplimiento, se considerarán como Acciones de Seguridad Interior.
@@ -184,8 +189,7 @@ Las acciones que se realicen para identificar, prevenir y atender riesgos a la S
 ### Artículo 28
 . Las Fuerzas Armadas realizarán las Acciones de Seguridad Interior con su organización, medios y adiestramiento, sin descuidar el fortalecimiento de sus capacidades.
 
-## CAPÍTULO CUARTO
-DE LA INTELIGENCIA PARA LA SEGURIDAD INTERIOR
+## CAPÍTULO CUARTO — DE LA INTELIGENCIA PARA LA SEGURIDAD INTERIOR
 
 ### Artículo 29
 . Las Acciones de Seguridad Interior se apoyarán en los órganos, unidades y procesos de inteligencia previstos en las leyes respectivas.
@@ -197,14 +201,16 @@ Toda obtención de información de inteligencia se realizará con pleno respeto 
 ### Artículo 31
 . En materia de Seguridad Interior, las autoridades federales y los órganos autónomos deberán proporcionar la información que les requieran las autoridades que intervengan en los términos de la presente Ley.
 En el caso de las autoridades de las entidades federativas y de los municipios, la colaboración se llevará a cabo en términos de los esquemas de colaboración y coordinación establecidos o que al efecto se establezcan.
-CAPÍTULO QUINTO DEL CONTROL DE LAS ACCIONES EN MATERIA DE SEGURIDAD INTERIOR
+
+## CAPÍTULO QUINTO — DEL CONTROL DE LAS ACCIONES EN MATERIA DE SEGURIDAD INTERIOR
 
 ### Artículo 32
 . El titular de la autoridad coordinadora de las Acciones de Seguridad Interior, mantendrá informado al Presidente de la República de las acciones realizadas, por conducto del titular de la Secretaría de Gobernación.
 
 ### Artículo 33
 . El titular de la Secretaría de Gobernación remitirá un informe a la Comisión Bicamaral a que se refiere la Ley de Seguridad Nacional, sin perjuicio del ejercicio de las facultades de control previstas en dicha ley.
-CAPÍTULO SEXTO DE LAS RESPONSABILIDADES
+
+## CAPÍTULO SEXTO — DE LAS RESPONSABILIDADES
 
 ### Artículo 34
 . El incumplimiento a las obligaciones previstas en esta Ley y en la Declaratoria respectiva, será sancionado en los términos del Sistema de Responsabilidades y del Sistema Nacional Anticorrupción contemplados en los artículos 109 y 113 de la Constitución Política de los Estados Unidos Mexicanos.

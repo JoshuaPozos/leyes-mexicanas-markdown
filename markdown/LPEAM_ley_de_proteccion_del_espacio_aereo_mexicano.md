@@ -13,8 +13,7 @@ SE EXPIDE LA
 ### Artículo Único
 Se expide la Ley de Protección del Espacio Aéreo Mexicano, para quedar como sigue:
 
-## Capítulo I
-Disposiciones generales
+## Capítulo I — Disposiciones generales
 
 ### Artículo 1
 . La presente Ley es reglamentaria de los artículos 27, 48 y 73, fracción XXIX-M, de la Constitución Política de los Estados Unidos Mexicanos, en materia de seguridad y protección del Espacio Aéreo Mexicano. Sus disposiciones son de observancia general en el territorio nacional, y tienen por objeto establecer y regular las medidas, acciones y procedimientos para preservar la seguridad y la soberanía e independencia nacionales del Espacio Aéreo Mexicano.
@@ -71,8 +70,7 @@ XVIII. Zona de Vigilancia y Protección del Espacio Aéreo: Área delimitada den
 . La Secretaría previo acuerdo del Consejo, emitirá las disposiciones técnicas y administrativas necesarias para el cumplimiento de esta Ley, que se publicarán en el Diario Oficial de la Federación.
 La interpretación de esta Ley para efectos administrativos corresponderá a la Secretaría.
 
-## Capítulo II
-De las Maniobras de Vuelo de las Aeronaves
+## Capítulo II — De las Maniobras de Vuelo de las Aeronaves
 
 ### Artículo 7
 . El Centro actuará conforme a sus atribuciones al observar alguna de las maniobras de vuelo que se señalan en el presente Capítulo.
@@ -120,8 +118,7 @@ c) Aterrice en un lugar distinto al establecido en el plan de vuelo, sin dar avi
 
 d) Se localice la aeronave en cualquier superficie terrestre o marítima, diferente a un aeródromo o helipuerto.
 
-## Capítulo III
-Del Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano
+## Capítulo III — Del Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano
 
 ### Artículo 11
 . El Sistema tiene por objeto la coordinación entre las dependencias y entidades de la Administración Pública Federal que lo integran, para inhibir y contrarrestar las operaciones aéreas ilícitas que atenten contra la seguridad nacional.
@@ -155,8 +152,7 @@ V. La Secretaría de Gobernación:
 
 a) El Instituto Nacional de Migración.
 
-## Capítulo IV
-Del Consejo Nacional de Vigilancia y Protección del Espacio Aéreo
+## Capítulo IV — Del Consejo Nacional de Vigilancia y Protección del Espacio Aéreo
 
 ### Artículo 13
 . El Consejo es la instancia superior responsable de emitir las políticas de coordinación e intercambio de información entre las dependencias y entidades de la Administración Pública Federal para garantizar la protección del Espacio Aéreo Mexicano, bajo los principios de legalidad y de certeza jurídica.
@@ -234,8 +230,7 @@ VI. Coadyuvar en la operación y funcionamiento del Consejo, así como atender l
 
 VII. Ejercer las demás facultades que el Consejo le confiera.
 
-## Capítulo V
-Del Centro Nacional de Vigilancia y Protección del Espacio Aéreo
+## Capítulo V — Del Centro Nacional de Vigilancia y Protección del Espacio Aéreo
 
 ### Artículo 20
 . Para llevar a cabo las acciones de Alertamiento, Interceptación aérea, Identificación, Seguimiento de trazas de interés y asistencia de aeronaves en emergencia en el Espacio Aéreo Mexicano, se conforma el Centro, dependiente de la Secretaría, que tendrá las facultades siguientes:
@@ -260,8 +255,7 @@ IX. Notificar a las autoridades competentes los hechos en los que se vean involu
 
 X. Notificar a los integrantes del Sistema que resulten competentes que una traza de interés o aeronave está siendo objeto de una Interceptación aérea, a efecto de que tomen las acciones que correspondan.
 
-## Capítulo VI
-Del Procedimiento de Interceptación
+## Capítulo VI — Del Procedimiento de Interceptación
 
 ### Artículo 21
 . El Centro activará su procedimiento de Interceptación aérea cuando:

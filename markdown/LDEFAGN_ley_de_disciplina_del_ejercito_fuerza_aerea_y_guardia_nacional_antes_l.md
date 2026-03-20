@@ -9,8 +9,8 @@
 El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme la siguiente Ley: “PLUTARCO ELIAS CALLES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 Que en uso de la autorización concedida al Ejecutivo de la Unión por Decreto de 7 de enero de 1926 he tenido a bien expedir la siguiente Denominación de la Ley reformada DOF 11-12-1995, 16-07-2025
 
-## CAPÍTULO I
-Disposiciones Generales Denominación del Capítulo reformada DOF 10-12-2004
+## CAPÍTULO I — Disposiciones Generales
+Denominación del Capítulo reformada DOF 10-12-2004
 
 ### Artículo 1o
 .- La presente Ley tiene por objeto preservar la disciplina militar como principio de orden y obediencia que regula la conducta de los individuos que integran el Ejército, Fuerza Aérea y Guardia Nacional. Sus disposiciones son de observancia obligatoria para todos los militares que integran el Ejército, Fuerza Aérea y Guardia Nacional.

@@ -18,8 +18,9 @@ Se expide el Código Militar de Procedimientos Penales.
 Se expide el Código Militar de Procedimientos Penales.
 LIBRO PRIMERO DISPOSICIONES GENERALES
 
-## TÍTULO I
-DISPOSICIONES PRELIMINARES CAPÍTULO ÚNICO ÁMBITO DE APLICACIÓN Y OBJETO
+## TÍTULO I — DISPOSICIONES PRELIMINARES
+
+## CAPÍTULO ÚNICO — ÁMBITO DE APLICACIÓN Y OBJETO
 
 ### Artículo 1
 . Ámbito de aplicación Mexicana, por los delitos contra la disciplina militar en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.
@@ -74,11 +75,9 @@ Fracción adicionada DOF 16-07-2025
 
 III. Las demás leyes aplicables.
 
-## TÍTULO II
-PRINCIPIOS Y DERECHOS EN EL PROCEDIMIENTO
+## TÍTULO II — PRINCIPIOS Y DERECHOS EN EL PROCEDIMIENTO
 
-## CAPÍTULO I
-PRINCIPIOS EN EL PROCEDIMIENTO
+## CAPÍTULO I — PRINCIPIOS EN EL PROCEDIMIENTO
 
 ### Artículo 4
 . Características y principios rectores El proceso penal en la Jurisdicción Militar será acusatorio y oral, en él se observarán los principios de publicidad, contradicción, concentración, continuidad e inmediación y aquellos previstos en la Constitución, Tratados y demás leyes.
@@ -118,8 +117,7 @@ Asimismo, las partes podrán solicitar la acumulación de procesos distintos en 
 . Principio de prohibición de doble enjuiciamiento El personal militar culpable o absueltos o cuyo proceso haya sido sobreseído, no podrán ser sometidos a otro proceso penal por los mismos hechos.
 Artículo reformado DOF 16-07-2025
 
-## CAPÍTULO II
-DERECHOS EN EL PROCEDIMIENTO
+## CAPÍTULO II — DERECHOS EN EL PROCEDIMIENTO
 
 ### Artículo 15
 . Derecho a la intimidad y a la privacidad En el procedimiento penal militar se respetará el derecho a la intimidad de quien intervenga en él, asimismo se protegerá la información que se refiere a la vida privada y los datos personales, en los términos y con las excepciones que fijan la Constitución, este Código y la legislación aplicable.
@@ -143,11 +141,9 @@ Artículo reformado DOF 16-07-2025
 . Derecho al respeto a la libertad personal Los militares tienen derecho a que se respete su libertad personal, por lo que nadie podrá ser privado de ella, sino en virtud de mandamiento dictado por la autoridad judicial o de conformidad con las demás causas y condiciones que autorizan la Constitución y este Código.
 La autoridad jurisdiccional militar sólo podrá autorizar como medidas cautelares, o providencias precautorias restrictivas de la libertad, las que estén establecidas en este Código y en las leyes especiales. La prisión preventiva será de carácter excepcional y su aplicación se regirá en los términos previstos en este Código.
 
-## TÍTULO III
-COMPETENCIA
+## TÍTULO III — COMPETENCIA
 
-## CAPÍTULO I
-GENERALIDADES
+## CAPÍTULO I — GENERALIDADES
 
 ### Artículo 20
 . Reglas de competencia Para determinar la competencia territorial de los Juzgados Militares de Control y Tribunales Militares de Juicio Oral, se observarán las siguientes reglas:
@@ -195,8 +191,7 @@ III. Resolver sobre la práctica de técnicas de investigación que requieran co
 . Autorización judicial para diligencias urgentes El Juzgado de Control que resulte competente para conocer de los actos o cualquier otra medida que requiera de control judicial previo, se pronunciará al respecto durante el procedimiento correspondiente; sin embargo, cuando estas actuaciones debieran efectuarse fuera de su jurisdicción y se tratare de diligencias que requieran atención urgente, el Ministerio Público podrá pedir la autorización directamente al Juzgado de Control competente en aquel lugar; en este caso, una vez realizada la diligencia, el Ministerio Público lo informará al Juzgado de Control competente en el procedimiento correspondiente.
 Artículo reformado DOF 16-07-2025
 
-## CAPÍTULO II
-INCOMPETENCIA
+## CAPÍTULO II — INCOMPETENCIA
 
 ### Artículo 24
 . Tipos o formas de incompetencia La incompetencia puede decretarse por declinatoria o por inhibitoria.
@@ -221,8 +216,7 @@ No se podrá promover la inhibitoria en los casos previstos de competencia en ra
 Párrafo reformado DOF 16-07-2025 La persona juzgadora militar de control incompetente por declinatoria o inhibitoria enviará de oficio los registros y en su caso, pondrá a disposición a la persona militar imputada del Juzgado de Control competente después de haber practicado las diligencias urgentes enunciadas en el párrafo anterior.
 Párrafo reformado DOF 16-07-2025 Si la autoridad judicial a quien se remitan las actuaciones no admite la competencia, devolverá los registros al declinante; si éste insiste en rechazarla, elevará las diligencias practicadas ante el Órgano jurisdiccional competente, de conformidad con lo que establezca la Ley Orgánica respectiva, con el propósito de que se pronuncie sobre quién deba conocer. Ningún Órgano jurisdiccional puede promover competencia a favor de su superior en grado.
 
-## CAPÍTULO III
-ACUMULACIÓN Y SEPARACIÓN DE PROCESOS
+## CAPÍTULO III — ACUMULACIÓN Y SEPARACIÓN DE PROCESOS
 
 ### Artículo 28
 . Causas de acumulación y conexidad Para los efectos de este Código, habrá acumulación de procesos cuando:
@@ -263,8 +257,7 @@ Decretada la separación de procesos, conocerá de cada asunto el Juzgado de Con
 Párrafo reformado DOF 16-07-2025 La resolución del Juzgado de Control que declare improcedente la separación de procesos, no admitirá recurso alguno.
 Párrafo reformado DOF 16-07-2025
 
-## CAPÍTULO IV
-EXCUSAS, RECUSACIONES E IMPEDIMENTOS
+## CAPÍTULO IV — EXCUSAS, RECUSACIONES E IMPEDIMENTOS
 
 ### Artículo 34
 . Excusa o recusación Los jueces y magistrados militares deberán excusarse o podrán ser recusados para conocer de los asuntos en que intervengan por cualquiera de las causas de impedimento que se establecen en este Código, mismas que no podrán dispensarse por voluntad de las partes.
@@ -313,11 +306,9 @@ La sustitución del Juez o Magistrado Militar se determinará en los términos q
 . Impedimentos del Ministerio Público y de peritos El Ministerio Público y los peritos militares deberán excusarse o podrán ser recusados por las mismas causas previstas para los jueces o magistrados.
 La excusa o la recusación serán resueltas por la autoridad que resulte competente de acuerdo con las disposiciones aplicables, previa realización de la investigación que se estime conveniente.
 
-## TÍTULO IV
-ACTOS PROCEDIMENTALES
+## TÍTULO IV — ACTOS PROCEDIMENTALES
 
-## CAPÍTULO I
-FORMALIDADES
+## CAPÍTULO I — FORMALIDADES
 
 ### Artículo 42
 . Oralidad de las actuaciones procesales Las audiencias se desarrollarán de forma oral, pudiendo auxiliarse las partes con documentos o con cualquier otro medio. En la práctica de las actuaciones procesales se utilizarán los medios técnicos disponibles que permitan darle mayor agilidad, exactitud y autenticidad a las mismas, sin perjuicio de conservar registro de lo acontecido.
@@ -348,8 +339,7 @@ El Órgano jurisdiccional militar autorizará la expedición de copias de los co
 ### Artículo 49
 . Utilización de medios electrónicos La videoconferencia en tiempo real u otras formas de comunicación que se produzcan con nuevas tecnologías podrán ser utilizadas para la recepción y transmisión de medios de prueba y la realización de actos procesales, siempre y cuando se garantice previamente la identidad de los sujetos que intervengan en dicho acto.
 
-## CAPÍTULO II
-AUDIENCIAS
+## CAPÍTULO II — AUDIENCIAS
 
 ### Artículo 50
 . Disposiciones comunes Los actos procedimentales que deban ser resueltos por el Órgano jurisdiccional militar se llevarán a cabo mediante audiencias, salvo los casos de excepción que prevea este Código. Las cuestiones debatidas en una audiencia deberán ser resueltas en ella.
@@ -450,8 +440,7 @@ El Ministerio Público, la persona militar imputada o su persona defensora, así
 La persona militar imputada o su persona defensora podrán hacer uso de la palabra en último lugar, por lo que el Órgano jurisdiccional militar que preside la audiencia preguntará siempre a la persona militar imputada o su persona defensora, antes de cerrar el debate o la audiencia misma, si quieren hacer uso de la palabra, concediéndosela en caso afirmativo.
 Artículo reformado DOF 16-07-2025
 
-## CAPÍTULO III
-RESOLUCIONES JUDICIALES
+## CAPÍTULO III — RESOLUCIONES JUDICIALES
 
 ### Artículo 66
 . Resoluciones judiciales Los Órganos Jurisdiccionales Militares pronunciarán sus resoluciones en forma de sentencias y autos.
@@ -496,8 +485,7 @@ Cuando la sentencia conste en medios informáticos, electrónicos, magnéticos o
 ### Artículo 71
 . Restitución y renovación Si no existe copia de las sentencias o de otros actos procesales el Órgano jurisdiccional militar ordenará que se repongan, para lo cual recibirá de las partes los datos y medios de prueba que evidencien su preexistencia y su contenido. Cuando esto sea imposible, ordenará la renovación de los mismos, señalando el modo de realizarla.
 
-## CAPÍTULO IV
-COMUNICACIÓN ENTRE AUTORIDADES
+## CAPÍTULO IV — COMUNICACIÓN ENTRE AUTORIDADES
 
 ### Artículo 72
 . Regla general de la comunicación entre autoridades Los órganos de procuración y administración de Justicia Militar, de manera fundada y motivada, podrán solicitar el auxilio a otra autoridad para la práctica de un acto procedimental. Dicha solicitud podrá realizarse por cualquier medio que garantice su autenticidad. La autoridad requerida colaborará y tramitará sin demora los requerimientos que reciba.
@@ -528,8 +516,7 @@ Podrá encomendarse la práctica de diligencias en países extranjeros a los fun
 ### Artículo 78
 . Demora o rechazo de requerimientos Cuando la cumplimentación de un requerimiento de cualquier naturaleza fuere demorada o rechazada injustificadamente, la autoridad requirente podrá dirigirse al superior jerárquico de la autoridad que deba cumplimentar dicho requerimiento a fin de que, de considerarlo procedente, ordene o gestione su tramitación inmediata.
 
-## CAPÍTULO V
-NOTIFICACIONES Y CITACIONES
+## CAPÍTULO V — NOTIFICACIONES Y CITACIONES
 
 ### Artículo 79
 . Formas de notificación Las notificaciones se practicarán personalmente, por lista, estrado o por edictos:
@@ -612,8 +599,7 @@ Párrafo reformado DOF 16-07-2025 La citación deberá contener, además de los 
 ### Artículo 90
 . Comunicación de actuaciones del Ministerio Público Cuando en el curso de una investigación el Ministerio Público deba comunicar alguna actuación a una persona, podrá hacerlo por cualquier medio que garantice la recepción del mensaje. Serán aplicables, en lo que corresponda, las disposiciones de este Código.
 
-## CAPÍTULO VI
-PLAZOS
+## CAPÍTULO VI — PLAZOS
 
 ### Artículo 91
 . Reglas generales Los actos procedimentales serán cumplidos en los plazos establecidos, en los términos que este Código autorice.
@@ -629,8 +615,7 @@ Cuando sea el Ministerio Público el que renuncie a un plazo o consienta en su a
 ### Artículo 93
 . Reposición del plazo La parte que no haya podido observar un plazo por causa no atribuible a él, podrá solicitar de manera fundada y motivada su reposición total o parcial, con el fin de realizar el acto omitido o ejercer la facultad concedida por la ley, dentro de las veinticuatro horas siguientes a aquel en que el perjudicado tenga conocimiento fehaciente del acto cuya reposición del plazo se pretenda. El Órgano jurisdiccional militar podrá ordenar la reposición una vez que haya escuchado a las partes.
 
-## CAPÍTULO VII
-NULIDAD DE ACTOS PROCEDIMENTALES
+## CAPÍTULO VII — NULIDAD DE ACTOS PROCEDIMENTALES
 
 ### Artículo 94
 . Principio general Cualquier acto realizado con violación de derechos humanos será nulo y no podrá ser saneado, ni convalidado y su nulidad deberá ser declarada de oficio por el Órgano jurisdiccional militar al momento de advertirla o a petición de parte en cualquier momento.
@@ -672,14 +657,12 @@ II. Que la reposición resulte esencial para garantizar el cumplimiento de los d
 ### Artículo 99
 . Sujetos legitimados Sólo podrá solicitar la declaración de nulidad el interviniente perjudicado por un vicio en el procedimiento, siempre que no hubiere contribuido a causarlo.
 
-## CAPÍTULO VIII
-GASTOS DE PRODUCCIÓN DE PRUEBA
+## CAPÍTULO VIII — GASTOS DE PRODUCCIÓN DE PRUEBA
 
 ### Artículo 100
 . Gastos de producción de prueba Tratándose de la prueba pericial, el Órgano jurisdiccional militar ordenará, a petición de parte, la designación de peritos de instituciones públicas, las que estarán obligadas a practicar el peritaje correspondiente, siempre que no exista impedimento material para ello.
 
-## CAPÍTULO IX
-MEDIOS DE APREMIO
+## CAPÍTULO IX — MEDIOS DE APREMIO
 
 ### Artículo 101
 . Imposición de medios de apremio El Órgano jurisdiccional militar y el Ministerio Público podrán disponer de los siguientes medios de apremio para el cumplimiento de los actos que ordenen en el ejercicio de sus funciones:
@@ -711,11 +694,9 @@ Para la ejecución del arresto, la autoridad ministerial o judicial que la haya 
 Cuando el infractor sea militar, la autoridad que impuso el medio de apremio previsto en el inciso d), de las fracciones I y II de este artículo, remitirá la resolución al Comandante de la Unidad a la que pertenezca el apremiado, al mando territorial o al superior jerárquico para que comunique la medida y supervise que se cumpla en la instalación militar que corresponda.
 El Órgano jurisdiccional militar y el Ministerio Público podrán dar vista a las autoridades competentes para que se determinen las responsabilidades que en su caso procedan en los términos de la legislación aplicable.
 
-## TÍTULO V
-SUJETOS DEL PROCEDIMIENTO Y SUS AUXILIARES
+## TÍTULO V — SUJETOS DEL PROCEDIMIENTO Y SUS AUXILIARES
 
-## CAPÍTULO I
-DISPOSICIONES COMUNES
+## CAPÍTULO I — DISPOSICIONES COMUNES
 
 ### Artículo 102
 . Sujetos de procedimiento penal Son sujetos del procedimiento penal los siguientes:
@@ -747,8 +728,8 @@ Artículo reformado DOF 16-07-2025
 . Probidad Los sujetos del procedimiento que intervengan en calidad de parte, deberán conducirse con probidad, evitando los planteamientos dilatorios de carácter formal o cualquier abuso en el ejercicio de las facultades o derechos que este Código les concede.
 El Órgano jurisdiccional militar procurará que en todo momento se respete la regularidad del procedimiento, el ejercicio de las facultades o derechos en términos de ley y la buena fe.
 
-## CAPÍTULO II
-VÍCTIMA U OFENDIDO DE DELITOS DE LA COMPETENCIA DE LA JURISDICCIÓN MILITAR
+## CAPÍTULO II — VÍCTIMA U OFENDIDO DE DELITOS DE LA COMPETENCIA DE LA JURISDICCIÓN
+MILITAR
 
 ### Artículo 105
 . Víctima u ofendido Para los efectos de este Código, se considera víctima del delito al sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva. Asimismo, se considerará ofendido a la persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista en la ley penal como delito.
@@ -824,8 +805,7 @@ En cualquier etapa del procedimiento, las víctimas podrán actuar por sí o a t
 ### Artículo 108
 . Restablecimiento de las cosas al estado previo En cualquier estado del procedimiento, la víctima u ofendido podrá solicitar al Órgano jurisdiccional militar, ordene como medida provisional, cuando la naturaleza del hecho lo permita, la restitución de sus bienes, objetos, instrumentos o productos del delito, o la reposición o restablecimiento de las cosas al estado que tenían antes del hecho, siempre que haya suficientes elementos para decidirlo.
 
-## CAPÍTULO III
-IMPUTADO
+## CAPÍTULO III — IMPUTADO
 
 ### Artículo 109
 . Denominación Se denominará genéricamente imputado a quien sea señalado por el Ministerio Público como posible autor o partícipe de un hecho que la ley señale como delito.
@@ -886,8 +866,7 @@ Cuando el imputado tenga a su cuidado menores de edad, personas con discapacidad
 En caso que la persona militar imputada manifieste a la Policía su deseo de declarar sobre los hechos que se investigan, ésta deberá comunicar dicha situación al Ministerio Público para que se reciban sus manifestaciones con las formalidades previstas en este Código.
 Artículo reformado DOF 16-07-2025
 
-## CAPÍTULO IV
-DEFENSOR
+## CAPÍTULO IV — DEFENSOR
 
 ### Artículo 112
 . Designación de Defensa La persona defensora podrá ser designado por la persona militar imputada desde el momento de su detención, mismo que deberá ser licenciado en derecho o abogado titulado con cédula profesional. A falta de éste o ante la negativa u omisión de su designación, será nombrada persona de la Defensoría de Oficio que corresponda.
@@ -974,8 +953,7 @@ Cuando el imputado no pueda o se niegue a designar un Defensor, el Ministerio P�
 ### Artículo 123
 . Entrevista con otras personas Si antes de una audiencia, con motivo de su preparación, el defensor tuviera necesidad de entrevistar a una persona o interviniente del procedimiento que se niega a recibirlo, podrá solicitar el auxilio judicial, explicándole las razones por las que se hace necesaria la entrevista. El Órgano jurisdiccional militar, en caso de considerar fundada la solicitud, expedirá la orden para que dicha persona sea entrevistada por el Defensor en el lugar y tiempo que determine el propio Órgano jurisdiccional militar. Esta autorización no se concederá en aquellos casos en que, a solicitud del Ministerio Público, el Órgano jurisdiccional militar estime que la víctima u ofendido o los testigos deben estar sujetos a protocolos especiales de protección.
 
-## CAPÍTULO V
-MINISTERIO PÚBLICO
+## CAPÍTULO V — MINISTERIO PÚBLICO
 
 ### Artículo 124
 . Competencia del Ministerio Público Compete al Ministerio Público conducir la investigación, coordinar a las Policías y a los servicios periciales durante la investigación, resolver sobre el ejercicio de la acción penal en la forma establecida por la ley y, en su caso, ordenar las diligencias pertinentes y útiles para demostrar, o no, la existencia del delito y la responsabilidad de quien lo cometió o participó en su comisión.
@@ -1047,8 +1025,7 @@ XXII. Actuar en estricto apego a los principios de legalidad, objetividad, efici
 
 XXIII. Las demás que señale este Código y otras disposiciones aplicables.
 
-## CAPÍTULO VI
-POLICÍA MINISTERIAL MILITAR
+## CAPÍTULO VI — POLICÍA MINISTERIAL MILITAR
 
 ### Artículo 129
 . Obligaciones del Personal de la Policía Ministerial Militar y de la Guardia Nacional Epígrafe reformado DOF 16-07-2025 El personal de la policía ministerial militar y de la Guardia Nacional que estén en funciones de auxiliares del Ministerio Público, actuará bajo la conducción y mando de éste en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución.
@@ -1115,8 +1092,7 @@ Los mencionados agentes policiales tendrán las facultades previstas en las frac
 ### Artículo 131
 . Derogado Artículo derogado DOF 16-07-2025
 
-## CAPÍTULO VII
-JUECES Y MAGISTRADOS
+## CAPÍTULO VII — JUECES Y MAGISTRADOS
 
 ### Artículo 132
 . Competencia jurisdiccional Para los efectos de este Código, la competencia jurisdiccional militar comprende a los siguientes órganos:
@@ -1153,11 +1129,10 @@ El Tribunal Superior Militar tendrá cuarenta y ocho horas para resolver si dich
 ### Artículo 135
 . Consultores técnicos Si por las circunstancias del caso, las partes que intervienen en el procedimiento consideran necesaria la asistencia de un consultor en una ciencia, arte o técnica, así lo plantearán al Órgano jurisdiccional militar. El consultor técnico podrá acompañar en las audiencias a la parte con quien colabora, para apoyarla técnicamente.
 
-## TÍTULO VI
-MEDIDAS DE PROTECCIÓN DURANTE LA INVESTIGACIÓN, FORMAS DE CONDUCCIÓN DEL IMPUTADO AL PROCESO Y MEDIDAS CAUTELARES
+## TÍTULO VI — MEDIDAS DE PROTECCIÓN DURANTE LA INVESTIGACIÓN, FORMAS DE CONDUCCIÓN
+DEL IMPUTADO AL PROCESO Y MEDIDAS CAUTELARES
 
-## CAPÍTULO I
-MEDIDAS DE PROTECCIÓN Y PROVIDENCIAS PRECAUTORIAS
+## CAPÍTULO I — MEDIDAS DE PROTECCIÓN Y PROVIDENCIAS PRECAUTORIAS
 
 ### Artículo 136
 . Medidas de protección El Ministerio Público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:
@@ -1196,16 +1171,14 @@ Párrafo reformado DOF 14-11-2025
 . Duración de las medidas de protección y providencias precautorias La imposición de las medidas de protección y de las providencias precautorias tendrá una duración máxima de sesenta días naturales, prorrogables hasta por treinta días.
 Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el imputado, su Defensor o en su caso el Ministerio Público, podrán solicitar al Juez de control que la deje sin efectos.
 
-## CAPÍTULO II
-LIBERTAD DURANTE LA INVESTIGACIÓN
+## CAPÍTULO II — LIBERTAD DURANTE LA INVESTIGACIÓN
 
 ### Artículo 139
 . Libertad durante la investigación En los casos de detención por flagrancia, cuando se trate de delitos que no merezcan prisión preventiva oficiosa y el Ministerio Público determine que no solicitará prisión preventiva como medida cautelar, podrá disponer la libertad de la persona militar imputada o imponerle una medida de protección en los términos de lo dispuesto por este Código.
 Cuando el Ministerio Público decrete la libertad de la persona militar imputada, lo prevendrá a fin de que se abstenga de molestar o afectar a la víctima o persona ofendida y a los testigos del hecho, a no obstaculizar la investigación y comparecer cuantas veces sea citado para la práctica de diligencias de investigación, apercibiéndolo con imponerle medidas de apremio en caso de desobediencia injustificada.
 Artículo reformado DOF 16-07-2025
 
-## CAPÍTULO III
-FORMAS DE CONDUCCIÓN DEL IMPUTADO AL PROCESO
+## CAPÍTULO III — FORMAS DE CONDUCCIÓN DEL IMPUTADO AL PROCESO
 
 ## SECCIÓN I
 Citatorio, órdenes de comparecencia y aprehensión
@@ -1317,11 +1290,9 @@ Fracción reformada DOF 16-07-2025
 
 VII. El derecho a recibir atención clínica si padece una enfermedad física, se lesiona o parece estar sufriendo de un trastorno mental.
 
-## CAPÍTULO IV
-MEDIDAS CAUTELARES
+## CAPÍTULO IV — MEDIDAS CAUTELARES
 
-## SECCIÓN I
-Disposiciones generales
+## SECCIÓN I — Disposiciones generales
 
 ### Artículo 151
 . Reglas generales de las medidas cautelares Las medidas cautelares serán impuestas mediante resolución judicial, por el tiempo indispensable para asegurar la presencia de la persona militar imputada en el proceso, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento.
@@ -1555,8 +1526,7 @@ II. Se dicte el sobreseimiento o la sentencia absolutoria, o
 
 III. El imputado se someta a la ejecución de la pena o la garantía no deba ejecutarse.
 
-## CAPÍTULO V
-DE LA SUPERVISIÓN DE LAS MEDIDAS CAUTELARES
+## CAPÍTULO V — DE LA SUPERVISIÓN DE LAS MEDIDAS CAUTELARES
 
 ## SECCIÓN I
 De la Unidad Administrativa de supervisión de medidas cautelares y de la suspensión condicional del proceso
@@ -1622,11 +1592,9 @@ Si el imputado es declarado inimputable, se citará a una audiencia de revisión
 . Registro de actividades de supervisión Se llevará un registro, por cualquier medio fidedigno, de las actividades necesarias que permitan a la unidad administrativa de supervisión de medidas cautelares y de la suspensión condicional del proceso tener certeza del cumplimiento o incumplimiento de las obligaciones impuestas.
 LIBRO SEGUNDO DEL PROCEDIMIENTO
 
-## TÍTULO I
-SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
+## TÍTULO I — SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
 
-## CAPÍTULO I
-DISPOSICIONES COMUNES
+## CAPÍTULO I — DISPOSICIONES COMUNES
 
 ### Artículo 180
 . Principio general En los asuntos sujetos a procedimiento abreviado se aplicarán las disposiciones establecidas en este Título.
@@ -1643,8 +1611,7 @@ II. La suspensión condicional del proceso.
 ### Artículo 182
 . Formas de terminación anticipada del proceso El procedimiento abreviado será considerado una forma de terminación anticipada del proceso.
 
-## CAPÍTULO II
-ACUERDOS REPARATORIOS
+## CAPÍTULO II — ACUERDOS REPARATORIOS
 
 ### Artículo 183
 . Definición Los acuerdos reparatorios son aquéllos celebrados entre la víctima u ofendido y el imputado que, una vez aprobados por el Ministerio Público o el Juez de control y cumplidos en sus términos, tienen como efecto la extinción de la acción penal.
@@ -1674,8 +1641,7 @@ El Juez de control decretará la extinción de la acción una vez aprobado el cu
 . Trámite Los acuerdos reparatorios deberán ser aprobados por el Juez de control a partir de la etapa de investigación complementaria y por el Ministerio Publico en la etapa de investigación inicial. En este último supuesto, las partes tendrán derecho a acudir ante el Juez de control, dentro de los cinco días siguientes a que se haya aprobado el acuerdo reparatorio, cuando estimen que el mecanismo alternativo de solución de controversias no se desarrolló conforme a las disposiciones previstas en la ley de la materia. Si el Juez de control determina como válidas las pretensiones de las partes, podrá declarar como no celebrado el acuerdo reparatorio y, en su caso, aprobar la modificación acordada entre las partes.
 Previo a la aprobación del acuerdo reparatorio, el Juez de control o el Ministerio Público verificarán que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estuvieron en condiciones de igualdad para negociar y que no hayan actuado bajo condiciones de intimidación, amenaza o coacción.
 
-## CAPÍTULO III
-SUSPENSIÓN CONDICIONAL DEL PROCESO
+## CAPÍTULO III — SUSPENSIÓN CONDICIONAL DEL PROCESO
 
 ### Artículo 188
 . Definición El mecanismo a través del cual se suspende el procedimiento a petición del ministerio público, con objeto de que el imputado voluntariamente se sujete a un plan detallado de pago de reparación del daño y, en su caso, al cumplimiento de una o varias de las condiciones que refiere este capítulo, que garanticen una efectiva tutela de los derechos de la víctima u ofendido y de la disciplina militar, cuyo cumplimiento judicialmente declarado da como resultado la extinción de la acción penal.
@@ -1752,8 +1718,7 @@ Cuando las condiciones establecidas por el Juez de control para la suspensión c
 ### Artículo 197
 . Verificación de la existencia de un acuerdo previo Previo al comienzo de la audiencia de suspensión condicional del proceso, el Ministerio Público deberá consultar en los registros respectivos si el imputado en forma previa fue parte de algún mecanismo de solución alterna o suscribió acuerdos reparatorios, debiendo incorporar en los registros de investigación el resultado de la consulta e informar en la audiencia de los mismos.
 
-## CAPÍTULO IV
-PROCEDIMIENTO ABREVIADO
+## CAPÍTULO IV — PROCEDIMIENTO ABREVIADO
 
 ### Artículo 198
 . Requisitos de procedencia y verificación de la Persona Juzgadora de Control Epígrafe reformado DOF 16-07-2025 Para autorizar el procedimiento abreviado, la Persona Juzgadora de Control verificará en audiencia los siguientes requisitos:
@@ -1806,8 +1771,8 @@ El juez de control deberá fijar el monto de la reparación del daño, para lo c
 ### Artículo 204
 . Reglas generales La existencia de varios coimputados no impide la aplicación de estas reglas en forma individual.
 
-## CAPÍTULO V
-DE LA SUPERVISIÓN DE LAS CONDICIONES IMPUESTAS EN LA SUSPENSIÓN CONDICIONAL DEL PROCESO
+## CAPÍTULO V — DE LA SUPERVISIÓN DE LAS CONDICIONES IMPUESTAS EN LA SUSPENSIÓN
+CONDICIONAL DEL PROCESO
 
 ### Artículo 205
 . Reglas para las obligaciones de la suspensión condicional del proceso Para el seguimiento de las obligaciones previstas en el artículo 192, fracciones III y IV, las instituciones médicas militares y navales designadas por el Órgano jurisdiccional militar, informarán a la unidad administrativa de supervisión de medidas cautelares y de la suspensión condicional del proceso sobre su cumplimiento.
@@ -1821,8 +1786,9 @@ Para tal efecto, se le deberá proporcionar la información de las condiciones i
 Si el juez de control determina la revocación de la suspensión condicional del proceso, concluirá la supervisión de la unidad administrativa de supervisión de medidas cautelares y de la suspensión condicional del proceso.
 El Ministerio Público que reciba el reporte de la unidad administrativa de supervisión de medidas cautelares y de la suspensión condicional del proceso, deberá solicitar audiencia para pedir la revisión de las condiciones u obligaciones impuestas a la brevedad posible.
 
-## TÍTULO II
-PROCEDIMIENTO ORDINARIO CAPÍTULO ÚNICO ETAPAS DEL PROCEDIMIENTO
+## TÍTULO II — PROCEDIMIENTO ORDINARIO
+
+## CAPÍTULO ÚNICO — ETAPAS DEL PROCEDIMIENTO
 
 ### Artículo 208
 . Etapas del procedimiento penal El procedimiento penal comprende las siguientes etapas:
@@ -1839,11 +1805,9 @@ III. La de juicio, que comprende desde que se recibe el auto de apertura a juici
 La investigación no se interrumpe ni se suspende durante el tiempo en que se lleve a cabo la audiencia inicial hasta su conclusión o durante la víspera de la ejecución de una orden de aprehensión. El ejercicio de la acción inicia con la solicitud de citatorio a audiencia inicial, puesta a disposición del detenido ante la autoridad judicial o cuando se solicita la orden de aprehensión o comparecencia, con lo cual el Ministerio Público no perderá la dirección de la investigación.
 El proceso dará inicio con la audiencia inicial, y terminará con la sentencia firme.
 
-## TÍTULO III
-ETAPA DE INVESTIGACIÓN
+## TÍTULO III — ETAPA DE INVESTIGACIÓN
 
-## CAPÍTULO I
-DISPOSICIONES COMUNES A LA INVESTIGACIÓN
+## CAPÍTULO I — DISPOSICIONES COMUNES A LA INVESTIGACIÓN
 
 ### Artículo 209
 . Deber de investigación penal Cuando el Ministerio Público tenga conocimiento de la existencia de un hecho que la ley señale como delito, dirigirá la investigación penal, sin que pueda suspender, interrumpir o hacer cesar su curso, salvo en los casos autorizados en la misma.
@@ -1880,8 +1844,7 @@ Artículo reformado DOF 16-07-2025
 . Excepciones para el acceso a la información El Ministerio Público podrá solicitar excepcionalmente al Juez de control que determinada información se mantenga bajo reserva aún después de la vinculación a proceso, cuando sea necesario para evitar la destrucción, alteración u ocultamiento de pruebas, la intimidación, amenaza o influencia a los testigos del hecho, para asegurar el éxito de la investigación, o para garantizar la protección de personas o bienes jurídicos.
 Si el Juez de control considera procedente la solicitud, así lo resolverá y determinará el plazo de la reserva, siempre que la información que se solicita sea reservada, sea oportunamente revelada para no afectar el derecho de defensa. La reserva podrá ser prorrogada cuando sea estrictamente necesario, pero no podrá prolongarse hasta después de la formulación de la acusación.
 
-## CAPÍTULO II
-INICIO DE LA INVESTIGACIÓN
+## CAPÍTULO II — INICIO DE LA INVESTIGACIÓN
 
 ### Artículo 218
 . Formas de inicio La investigación de los hechos que revistan características de un delito podrá iniciarse por denuncia o querella. El Ministerio Público y la Policía ministerial militar están obligados a proceder sin mayores requisitos a la investigación de los hechos de los que tengan noticia.
@@ -1908,8 +1871,7 @@ Cuando la denuncia sea presentada ante la Policía ministerial militar, ésta in
 . Querella La querella es la expresión de la voluntad de la víctima u ofendido o de quien legalmente se encuentre facultado para ello, mediante la cual manifiesta expresamente ante el Ministerio Público su pretensión de que se inicie la investigación de uno o varios hechos que la ley señale como delitos y que requieran de este requisito de procedibilidad para ser investigados y, en su caso, se ejerza la acción penal correspondiente.
 La querella deberá contener, en lo conducente, los mismos requisitos que los previstos para la denuncia. El Ministerio Público deberá cerciorarse que éstos se encuentren debidamente satisfechos para, en su caso, proceder en los términos que prevé el presente Código.
 
-## CAPÍTULO III
-TÉCNICAS DE INVESTIGACIÓN
+## CAPÍTULO III — TÉCNICAS DE INVESTIGACIÓN
 
 ### Artículo 223
 . Cadena de custodia La cadena de custodia es el sistema de control y registro que se aplica al indicio, evidencia, objeto, instrumento o producto del hecho delictivo, desde su localización, descubrimiento o aportación, en el lugar de los hechos o del hallazgo, hasta que la autoridad competente ordene su conclusión.
@@ -2075,8 +2037,7 @@ V. El reconocimiento o examen físico de una persona cuando aquélla se niegue a
 
 VI. Las demás que señalen las leyes aplicables.
 
-## CAPÍTULO IV
-FORMAS DE TERMINACIÓN DE LA INVESTIGACIÓN
+## CAPÍTULO IV — FORMAS DE TERMINACIÓN DE LA INVESTIGACIÓN
 
 ### Artículo 249
 . Facultad de abstenerse de investigar El Ministerio Público podrá abstenerse de investigar, cuando los hechos relatados en la denuncia o querella, no fueren constitutivos de delito o cuando los antecedentes y datos suministrados permitan establecer que se encuentra extinguida la acción penal o la responsabilidad penal de la persona militar imputada. Esta decisión será siempre fundada y motivada.
@@ -2125,8 +2086,9 @@ En el supuesto a que se refiere la fracción V del artículo anterior, se suspen
 . Notificaciones y control judicial Las determinaciones del Ministerio Público sobre la abstención de investigar, el archivo temporal, la aplicación de un criterio de oportunidad y el no ejercicio de la acción penal deberán ser notificadas a la víctima u ofendido quienes las podrán impugnar ante el Juez de control dentro de los diez días posteriores a que sean notificadas de dicha resolución. En estos casos, el Juez de control convocará a una audiencia para decidir en definitiva, citando al efecto a la víctima u ofendido, al Ministerio Público y, en su caso, al imputado y a su defensor. En caso de que la víctima, el ofendido o sus representantes legales no comparezcan a la audiencia a pesar de haber sido debidamente citados, el Juez de control declarará sin materia la impugnación.
 La resolución que el Juez de control dicte en estos casos no admitirá recurso alguno.
 
-## TÍTULO IV
-DE LOS DATOS DE PRUEBA, MEDIOS DE PRUEBA Y PRUEBAS CAPÍTULO ÚNICO DISPOSICIONES COMUNES
+## TÍTULO IV — DE LOS DATOS DE PRUEBA, MEDIOS DE PRUEBA Y PRUEBAS
+
+## CAPÍTULO ÚNICO — DISPOSICIONES COMUNES
 
 ### Artículo 255
 . Generalidades Cualquier hecho puede ser probado por cualquier medio, siempre y cuando sea lícito.
@@ -2155,19 +2117,16 @@ Las partes harán valer la nulidad del medio de prueba en cualquier etapa del pr
 ### Artículo 261
 . Valoración de los datos y prueba El Órgano jurisdiccional militar asignará libremente el valor correspondiente a cada uno de los datos y pruebas, de manera libre y lógica, debiendo justificar adecuadamente el valor otorgado a las pruebas y explicará y justificará su valoración con base en la apreciación conjunta, integral y armónica de todos los elementos probatorios.
 
-## TÍTULO V
-ACTOS DE INVESTIGACIÓN
+## TÍTULO V — ACTOS DE INVESTIGACIÓN
 
-## CAPÍTULO I
-DISPOSICIONES GENERALES SOBRE ACTOS DE MOLESTIA
+## CAPÍTULO I — DISPOSICIONES GENERALES SOBRE ACTOS DE MOLESTIA
 
 ### Artículo 262
 . Actos de molestia Todo acto de molestia deberá llevarse a cabo con respeto a la dignidad de la persona en cuestión.
 Antes de que el procedimiento se lleve a cabo, la autoridad deberá informarle sobre los derechos que le asisten y solicitar su cooperación. Se realizará un registro forzoso sólo si la persona militar no está dispuesta a cooperar o se resiste, realizándolo por personal del mismo sexo.
 Artículo reformado DOF 16-07-2025
 
-## CAPÍTULO II
-ACTOS DE INVESTIGACIÓN
+## CAPÍTULO II — ACTOS DE INVESTIGACIÓN
 
 ### Artículo 263
 . [Inspección La inspección es un acto de investigación sobre el estado que guardan lugares, objetos, instrumentos o productos del delito.
@@ -2367,8 +2326,7 @@ Excepcionalmente, cuando esté en peligro la integridad física o la vida de per
 Asimismo, el Fiscal General de Justicia Militar, o el servidor público en quien se delegue la facultad podrá requerir a los sujetos obligados que establece la Ley Federal de Telecomunicaciones y Radiodifusión, la conservación inmediata de datos contenidos en redes, sistemas o equipos de informática, hasta por un tiempo máximo de noventa días, lo cual deberá realizarse de forma inmediata.
 La solicitud y entrega de los datos contenidos en redes, sistemas o equipos de informática se llevará a cabo de conformidad por lo previsto en este artículo.] Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 19-04-2023 y publicada DOF 05-09-2023
 
-## CAPÍTULO III
-PRUEBA ANTICIPADA
+## CAPÍTULO III — PRUEBA ANTICIPADA
 
 ### Artículo 300
 . Prueba anticipada Hasta antes de la celebración de la audiencia de juicio se podrá desahogar anticipadamente cualquier medio de prueba pertinente, siempre que se satisfagan los siguientes requisitos:
@@ -2396,8 +2354,7 @@ Si el obstáculo que dio lugar a la práctica del anticipo de prueba no existier
 Toda prueba anticipada deberá conservarse de acuerdo con las medidas dispuestas por la Persona Juzgadora de Control.
 Párrafo reformado DOF 16-07-2025
 
-## TÍTULO VI
-AUDIENCIA INICIAL
+## TÍTULO VI — AUDIENCIA INICIAL
 
 ### Artículo 303
 . Audiencia inicial En la audiencia inicial se informará a la persona militar imputada sus derechos constitucionales y legales, si no se le hubiese informado de los mismos con anterioridad, se realizará el control de legalidad de la detención si correspondiere, se formulará la imputación, se dará la oportunidad de declarar a la persona militar imputada, se resolverá sobre las solicitudes de vinculación a proceso y medidas cautelares y se definirá el plazo para el cierre de la investigación.
@@ -2577,11 +2534,9 @@ Si el Juez de control aceptara la solicitud de las partes, ordenará al Minister
 No procederá la solicitud de llevar a cabo actos de investigación que en su oportunidad se hubieren ordenado a petición de las partes y no se hubieren cumplido por negligencia o hecho imputable a ellas, ni tampoco las que fueren impertinentes, las que tuvieren por objeto acreditar hechos públicos y notorios, ni todas aquellas que hubieren sido solicitadas con fines puramente dilatorios.
 Vencido el plazo o su ampliación, la investigación sujeta a reapertura se considerará cerrada, o aún antes de ello si se hubieren cumplido las actuaciones que la motivaron, y se procederá de conformidad con lo dispuesto en este Código.
 
-## TÍTULO VII
-ETAPA INTERMEDIA
+## TÍTULO VII — ETAPA INTERMEDIA
 
-## CAPÍTULO I
-OBJETO
+## CAPÍTULO I — OBJETO
 
 ### Artículo 330
 . Objeto de la etapa intermedia La etapa intermedia tiene por objeto el ofrecimiento y admisión de los medios de prueba, así como la depuración de los hechos controvertidos que serán materia del juicio.
@@ -2731,11 +2686,9 @@ VIII. Las personas que deban ser citadas a la audiencia de debate.
 IX. Las medidas cautelares que hayan sido impuestas al acusado.
 El Juez de control hará llegar el mismo al Tribunal Militar de Juicio Oral competente dentro de los cinco días siguientes de haberse dictado y pondrá a su disposición los registros, así como al acusado.
 
-## TÍTULO VIII
-ETAPA DE JUICIO
+## TÍTULO VIII — ETAPA DE JUICIO
 
-## CAPÍTULO I
-DISPOSICIONES PREVIAS
+## CAPÍTULO I — DISPOSICIONES PREVIAS
 
 ### Artículo 345
 . Juicio El juicio es la etapa de decisión de las cuestiones esenciales del proceso. Se realizará sobre la base de la acusación en el que se deberá asegurar la efectiva vigencia de los principios de inmediación, publicidad, concentración, igualdad, contradicción y continuidad.
@@ -2748,8 +2701,7 @@ Para efectos de divulgación de la celebración de la audiencia entre el persona
 ### Artículo 347
 . Prohibición de intervención Los jueces que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán formar parte del Tribunal Militar de Juicio Oral
 
-## CAPÍTULO II
-PRINCIPIOS
+## CAPÍTULO II — PRINCIPIOS
 
 ### Artículo 348
 . Suspensión La audiencia de juicio podrá suspenderse en forma excepcional por un plazo máximo de quince días naturales cuando:
@@ -2774,8 +2726,7 @@ El Tribunal Militar de Juicio Oral ordenará los aplazamientos que se requieran,
 ### Artículo 350
 . Motivación Las decisiones del Tribunal Militar de Juicio Oral, así como las de su Presidente serán verbales, con expresión de sus fundamentos y motivos cuando el caso lo requiera o las partes así lo soliciten, quedando todos notificados por su emisión.
 
-## CAPÍTULO III
-DIRECCIÓN Y DISCIPLINA
+## CAPÍTULO III — DIRECCIÓN Y DISCIPLINA
 
 ### Artículo 351
 . Dirección del debate de juicio El juzgador que preside la audiencia de juicio ordenará y autorizará las lecturas pertinentes, hará las advertencias que correspondan, tomará las protestas legales y moderará la discusión; impedirá intervenciones impertinentes o que no resulten admisibles, sin coartar por ello el ejercicio de la persecución penal o la libertad de defensa. Asimismo, resolverá las objeciones que se formulen durante el desahogo de la prueba.
@@ -2798,8 +2749,7 @@ Para los efectos del presente artículo, tanto la escolta como el personal milit
 En caso de que a pesar de las medidas adoptadas no se pudiera restablecer la orden, quien preside la audiencia la suspenderá hasta en tanto se encuentren reunidas las condiciones que permitan continuar con su curso normal.
 El Tribunal de enjuiciamiento podrá ordenar el arresto hasta por 36 horas ante la contumacia de las obligaciones procesales de quienes intervienen en un proceso penal que atenten contra el principio de continuidad, derivado de sus incomparecencias injustificadas a audiencia o aquellos actos que impidan que las pruebas puedan desahogarse en tiempo y forma.
 
-## CAPÍTULO IV
-DISPOSICIONES GENERALES SOBRE LA PRUEBA
+## CAPÍTULO IV — DISPOSICIONES GENERALES SOBRE LA PRUEBA
 
 ### Artículo 353
 . Libertad probatoria Todos los hechos y circunstancias aportados para la adecuada solución del caso sometido a juicio, podrán ser probados por cualquier medio pertinente producido e incorporado de conformidad con este Código.
@@ -2871,8 +2821,7 @@ No se exigirán estos requisitos para quien declare como testigo sobre hechos o 
 ### Artículo 367
 . Medidas de protección En caso necesario, los peritos y otros terceros que deban intervenir en el procedimiento para efectos probatorios, podrán pedir a la autoridad correspondiente que adopte medidas tendentes a que se les brinde la protección prevista para los testigos, en los términos de la legislación aplicable.
 
-## SECCIÓN III
-Disposiciones generales del interrogatorio y contrainterrogatorio
+## SECCIÓN III — Disposiciones generales del interrogatorio y contrainterrogatorio
 
 ### Artículo 368
 . Declarantes en la audiencia de juicio Antes de declarar, los testigos no podrán comunicarse entre sí, ni ver, oír o ser informados de lo que ocurra en la audiencia, por lo que permanecerán en una sala distinta a aquella en donde se desarrolle, advertidos de lo anterior por el juzgador que preside la audiencia. Serán llamados en el orden establecido. Esta disposición no aplica al acusado ni a la víctima, salvo cuando ésta deba declarar en juicio como testigo.
@@ -2965,8 +2914,7 @@ Otras pruebas
 Si con ocasión de la rendición de un medio de prueba surgiere una controversia relacionada exclusivamente con su veracidad, autenticidad o integridad, el Tribunal Militar de Juicio Oral podrá admitir y desahogar nuevos medios de prueba, aunque ellos no hubieren sido ofrecidos oportunamente, siempre que no hubiere sido posible prever su necesidad.
 El medio de prueba debe ser ofrecido antes de que se cierre el debate, para lo que el Tribunal Militar de Juicio Oral deberá salvaguardar la oportunidad de la contraparte del oferente de los medios de prueba supervenientes o de refutación, para preparar los contrainterrogatorios de testigos o peritos, según sea el caso, y para ofrecer la práctica de diversos medios de prueba, encaminados a controvertirlos.
 
-## CAPÍTULO V
-DESARROLLO DE LA AUDIENCIA DE JUICIO
+## CAPÍTULO V — DESARROLLO DE LA AUDIENCIA DE JUICIO
 
 ### Artículo 388
 . Apertura de la audiencia de juicio En el día y la hora fijados, el Tribunal Militar de Juicio Oral se constituirá en el lugar señalado para la audiencia. Quien la presida, verificará la presencia de los demás jueces, de las partes, de los testigos, peritos o intérpretes que deban participar en el debate y de la existencia de las cosas que deban exhibirse en él, y la declarará abierta. Advertirá al acusado y al público sobre la importancia y el significado de lo que acontecerá en la audiencia e indicará al acusado que esté atento a ella.
@@ -3002,8 +2950,7 @@ El auto de apertura a juicio que se dicte en este caso, deberá remitirse a un T
 ### Artículo 396
 . Alegatos de clausura y cierre del debate Concluido el desahogo de las pruebas, el juzgador que preside la audiencia de juicio otorgará sucesivamente la palabra al Ministerio Público, al Asesor jurídico de la víctima u ofendido del delito y al Defensor, para que expongan sus alegatos de clausura. Acto seguido, se otorgará al Ministerio Público y al Defensor la posibilidad de replicar y duplicar. La réplica sólo podrá referirse a lo expresado por el Defensor en su alegato de clausura y la dúplica a lo expresado por el Ministerio Público o a la víctima u ofendido del delito en la réplica. Se otorgará la palabra por último al acusado y al final se declarará cerrado el debate.
 
-## CAPÍTULO VI
-DELIBERACIÓN, FALLO Y SENTENCIA
+## CAPÍTULO VI — DELIBERACIÓN, FALLO Y SENTENCIA
 
 ### Artículo 397
 . Deliberación Inmediatamente después de concluido el debate, el Tribunal Militar de Juicio Oral ordenará un receso para deliberar en forma privada, continua y aislada, hasta emitir el fallo correspondiente. La deliberación no podrá exceder de veinticuatro horas ni suspenderse, salvo en caso de enfermedad grave de uno o más de los miembros del Tribunal Militar de Juicio Oral. En este caso, la suspensión de la deliberación no podrá ampliarse por más de quince días hábiles, luego de los cuales se deberá reemplazar a los integrantes del Tribunal Militar de Juicio Oral y realizar el juicio nuevamente.
@@ -3109,8 +3056,9 @@ El aumento o la disminución de la pena, fundados en las relaciones personales o
 . Remisión de la sentencia El Tribunal Militar de Juicio Oral dentro de los tres días siguientes a aquél en que la sentencia condenatoria quede firme, deberá remitir copia autorizada de la misma al Juez que le corresponda su ejecución y a las autoridades penitenciarias que intervienen en el procedimiento de ejecución para su debido cumplimiento.
 Dicha disposición también será aplicable en los casos de las sentencias condenatorias dictadas en el procedimiento abreviado.
 
-## TÍTULO IX
-PERSONAS INIMPUTABLES CAPÍTULO ÚNICO PROCEDIMIENTO PARA PERSONAS INIMPUTABLES
+## TÍTULO IX — PERSONAS INIMPUTABLES
+
+## CAPÍTULO ÚNICO — PROCEDIMIENTO PARA PERSONAS INIMPUTABLES
 
 ### Artículo 411
 . Procedimiento para la aplicación de ajustes razonables en la audiencia inicial Si en el curso de la audiencia inicial, aparecen indicios de que el imputado está en alguno de los supuestos de las fracciones I y II del artículo 119 del Código de Justicia Militar, cualquiera de las partes podrá solicitar al Juez de control que ordene la práctica de peritajes que determinen si efectivamente es inimputable y en caso de serlo, si la inimputabilidad es permanente o transitoria y, en su caso, si ésta fue provocada por el imputado. La audiencia continuará con las mismas reglas generales pero se proveerán los ajustes razonables que determine el Juez de control para garantizar el acceso a la justicia de la persona.
@@ -3134,11 +3082,9 @@ El solo hecho de ser imputable no será razón suficiente para imponer medidas c
 . Resolución del caso Comprobada la existencia del hecho que la ley señala como delito y que el inimputable intervino en su comisión, ya sea como autor o como partícipe, sin que a su favor opere alguna causa de justificación prevista en los códigos sustantivos, el Tribunal Militar de Juicio Oral resolverá el caso indicando que hay base suficiente para la imposición de la medida de seguridad que resulte aplicable; asimismo, le corresponderá al Órgano jurisdiccional militar determinar la individualización de la medida, en atención a las necesidades de prevención especial positiva, respetando los criterios de proporcionalidad y de mínima intervención. Si no se acreditan estos requisitos, el Tribunal Militar de Juicio Oral absolverá al inimputable.
 La medida de seguridad en ningún caso podrá tener mayor duración a la pena que le pudiera corresponder en caso de que sea imputable.
 
-## TÍTULO X
-RECURSOS
+## TÍTULO X — RECURSOS
 
-## CAPÍTULO I
-DISPOSICIONES COMUNES
+## CAPÍTULO I — DISPOSICIONES COMUNES
 
 ### Artículo 417
 . Reglas generales Las resoluciones judiciales podrán ser recurridas sólo por los medios y en los casos expresamente establecidos en este Código.
@@ -3183,8 +3129,7 @@ Si sólo uno de varios imputados por el mismo delito interpusiera algún recurso
 ### Artículo 425
 . Rectificación Los errores de derecho en la fundamentación de la sentencia o resolución impugnadas que no hayan influido en la parte resolutiva, así como los errores de forma en la transcripción, en la designación o el cómputo de las penas no anularán la resolución, pero serán corregidos en cuanto sean advertidos o señalados por alguna de las partes, o aún de oficio.
 
-## CAPÍTULO II
-RECURSOS EN PARTICULAR
+## CAPÍTULO II — RECURSOS EN PARTICULAR
 
 ## SECCIÓN I
 Revocación
@@ -3319,8 +3264,9 @@ En estos casos, el Tribunal Superior Militar modificará o revocará la sentenci
 ### Artículo 445
 . Prueba Podrán ofrecerse medios de prueba cuando el recurso se fundamente en un defecto del proceso y se discuta la forma en que fue llevado a cabo un acto, en contraposición a lo señalado en las actuaciones, en el acta o registros del debate, o en la sentencia.
 
-## TÍTULO XI
-RECONOCIMIENTO DE INOCENCIA DEL SENTENCIADO Y ANULACIÓN DE SENTENCIA CAPÍTULO ÚNICO PROCEDENCIA
+## TÍTULO XI — RECONOCIMIENTO DE INOCENCIA DEL SENTENCIADO Y ANULACIÓN DE SENTENCIA
+
+## CAPÍTULO ÚNICO — PROCEDENCIA
 
 ### Artículo 446
 . Causas de extinción de la acción penal La pretensión punitiva y la potestad para ejecutar las penas y medidas de seguridad se extinguirán por las siguientes causas:

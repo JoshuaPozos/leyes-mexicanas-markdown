@@ -250,7 +250,10 @@ bis.- Cuando se trate de errores de concepto, los asientos practicados en los fo
 A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
 El concepto rectificado surtirá efectos desde la fecha de su rectificación.
 El procedimiento para efectuar la rectificación en la base de datos lo determinará la Secretaría en los lineamientos que al efecto emitan.
-Artículo adicionado DOF 29-05-2000 SECCIÓN ÚNICA Del Registro Único de Garantías Mobiliarias Sección adicionada DOF 27-08-2009
+Artículo adicionado DOF 29-05-2000
+
+## SECCIÓN ÚNICA — Del Registro Único de Garantías Mobiliarias
+Sección adicionada DOF 27-08-2009
 
 ### Artículo 32
 bis 1. Las garantías mobiliarias que se constituyan con apego a éste u otros ordenamientos jurídicos del orden mercantil, su modificación, transmisión o cancelación, así como cualquier acto jurídico que se realice con o respecto de ellas y, en general, cualquier gravamen o afectación sobre bienes muebles que sirva como garantía de manera directa o indirecta, deberán inscribirse en los términos de esta Sección para que surtan efectos jurídicos contra terceros, salvo que de acuerdo a las leyes que los regulan, los mismos deban inscribirse en algún registro especial.
@@ -607,8 +610,8 @@ II.- Y en los que lo tengan, desde el día en que el acreedor le reclamare al de
 Nota: Por Decreto DOF 29-05-2000 se adicionó y reestructuró el actual Título Segundo “Del Comercio Electrónico”. En consecuencia, se suprimió la referencia al Capítulo I “De las diferentes clases de sociedades mercantiles” (antes derogado DOF 04-08-1934), perteneciente al anterior Título Segundo “De las Sociedades de Comercio”.
 TITULO SEGUNDO DEL COMERCIO ELECTRONICO Título derogado DOF 04-08-1934. Adicionado y reestructurado con denominación reformada DOF 29-05-2000
 
-## CAPÍTULO I
-DE LOS MENSAJES DE DATOS Capítulo adicionado DOF 29-08-2003
+## CAPÍTULO I — DE LOS MENSAJES DE DATOS
+Capítulo adicionado DOF 29-08-2003
 
 ### Artículo 89
 .- Las disposiciones de este Título regirán en toda la República Mexicana en asuntos del orden comercial, sin perjuicio de lo dispuesto en los tratados internacionales de los que México sea parte.
@@ -731,8 +734,8 @@ Artículo derogado DOF 04-08-1934. Adicionado y reubicado DOF 29-05-2000. Reform
 Se presume que cada Mensaje de Datos recibido es un Mensaje de Datos diferente, salvo que el Destinatario sepa, o debiera saber, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que el nuevo Mensaje de Datos era un duplicado.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 29-08-2003
 
-## CAPÍTULO I BIS
-De la Digitalización Capítulo adicionado DOF 07-04-2016
+## CAPÍTULO I BIS — De la Digitalización
+Capítulo adicionado DOF 07-04-2016
 
 ### Artículo 95
 bis 1.- Para el caso de los servicios de digitalización se estará a lo siguiente: a. En todo caso, los documentos podrán ser digitalizados en el formato que determine el comerciante. b. Una vez concluida la digitalización del documento, deberá acompañarse al mismo, así como a cada uno de los anexos que en su caso se generen, la firma electrónica avanzada del comerciante, y del prestador de servicios de certificación que ejecutó las actividades de digitalización, en caso de que así haya sido. c. Cuando un prestador de servicios de certificación realice la digitalización de un documento, habrá presunción legal sobre el adecuado cumplimiento de las disposiciones legales y normativas relativas a dicho proceso, salvo prueba en contrario. d. La información que en virtud de acuerdos contractuales quede en poder de un prestador de servicios de certificación, se regirá por lo dispuesto en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. e. En todo caso, el prestador de servicios de certificación que ejecutó las actividades de digitalización deberá mantener la confidencialidad de la información, salvo por mandato judicial.
@@ -765,8 +768,8 @@ I. Expedir y revocar las acreditaciones como Prestadores de Servicios de Certifi
 II. Podrá verificar en cualquier tiempo el adecuado desarrollo de las operaciones de los prestadores de servicios de certificación.
 Artículo adicionado DOF 07-04-2016
 
-## CAPÍTULO II
-DE LAS FIRMAS Capítulo derogado DOF 04-08-1934. Adicionado y reubicado con denominación reformada DOF 29-08-2003
+## CAPÍTULO II — DE LAS FIRMAS
+Capítulo derogado DOF 04-08-1934. Adicionado y reubicado con denominación reformada DOF 29-08-2003
 
 ### Artículo 96
 .- Las disposiciones del presente Código serán aplicadas de modo que no excluyan, restrinjan o priven de efecto jurídico cualquier método para crear una Firma Electrónica.
@@ -805,8 +808,8 @@ El Firmante será responsable de las consecuencias jurídicas que deriven por no
 IV. Responder por las obligaciones derivadas del uso no autorizado de su firma, cuando no hubiere obrado con la debida diligencia para impedir su utilización, salvo que el Destinatario conociere de la inseguridad de la Firma Electrónica o no hubiere actuado con la debida diligencia.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 29-08-2003
 
-## CAPÍTULO III
-DE LOS PRESTADORES DE SERVICIOS DE CERTIFICACIÓN Capítulo derogado DOF 04-08-1934. Adicionado con denominación reformada DOF 29-08-2003
+## CAPÍTULO III — DE LOS PRESTADORES DE SERVICIOS DE CERTIFICACIÓN
+Capítulo derogado DOF 04-08-1934. Adicionado con denominación reformada DOF 29-08-2003
 
 ### Artículo 100
 .- Podrán ser Prestadores de Servicios de Certificación, previa acreditación ante la Secretaría:
@@ -979,8 +982,8 @@ Artículo derogado DOF 04-08-1934. Adicionado DOF 29-08-2003
 .- En el caso de que un Prestador de Servicios de Certificación sea suspendido, inhabilitado o cancelado en su ejercicio, el registro y los Certificados que haya expedido pasarán, para su administración, a otro Prestador de Servicios de Certificación, que para tal efecto señale la Secretaría mediante reglas generales.
 Artículo derogado DOF 04-08-1934. Adicionado DOF 29-08-2003
 
-## CAPÍTULO IV
-RECONOCIMIENTO DE CERTIFICADOS Y FIRMAS ELECTRÓNICAS EXTRANJEROS Capítulo derogado DOF 04-08-1934. Adicionado y reubicado con denominación reformada DOF 29-08-2003
+## CAPÍTULO IV — RECONOCIMIENTO DE CERTIFICADOS Y FIRMAS ELECTRÓNICAS EXTRANJEROS
+Capítulo derogado DOF 04-08-1934. Adicionado y reubicado con denominación reformada DOF 29-08-2003
 
 ### Artículo 114
 .- Para determinar si un Certificado o una Firma Electrónica extranjeros producen efectos jurídicos, o en qué medida los producen, no se tomará en consideración cualquiera de los siguientes supuestos:
@@ -5180,8 +5183,8 @@ Artículo reformado DOF 10-01-2014
 ### Artículo 1089
 .- Si los honorarios de los peritos o de cualesquiera otros funcionarios no sujetos a arancel, fueren impugnados, se oirá a otros dos individuos de su profesión. No habiéndolos en la población de la residencia del tribunal o juez que conozca de los autos, podrá recurrirse a los de los inmediatos.
 
-## CAPÍTULO VIII
-De las competencias y excepciones procesales Denominación del Capítulo reformada DOF 24-05-1996
+## CAPÍTULO VIII — De las competencias y excepciones procesales
+Denominación del Capítulo reformada DOF 24-05-1996
 
 ### Artículo 1090
 .- Toda demanda debe interponerse ante juez competente.
@@ -6444,8 +6447,8 @@ Artículo reformado DOF 25-01-2017
 La interposición de la aclaración interrumpe el término señalado para la apelación.
 Artículo reformado DOF 25-01-2017
 
-## CAPÍTULO XXIV
-De la revocación y reposición Denominación del Capítulo reformada DOF 24-05-1996
+## CAPÍTULO XXIV — De la revocación y reposición
+Denominación del Capítulo reformada DOF 24-05-1996
 
 ### Artículo 1334
 .- Los autos que no fueren apelables y los decretos pueden ser revocados por el juez que los dictó o por el que lo substituya en el conocimiento del negocio.
@@ -6511,8 +6514,8 @@ Artículo reformado DOF 17-04-2008
 .- La sentencia de segunda instancia causará ejecutoria cuando la misma no pueda ser recurrida por ningún otro medio ordinario o extraordinario de impugnación, cualquiera que sea el interés que en el litigio se verse.
 Artículo reformado DOF 24-05-1996
 
-## CAPÍTULO XXVI
-Del Trámite de la apelación Capítulo derogado DOF 04-01-1989. Adicionado con de nominación reformada DOF 24-05-1996
+## CAPÍTULO XXVI — Del Trámite de la apelación
+Capítulo derogado DOF 04-01-1989. Adicionado con de nominación reformada DOF 24-05-1996
 
 ### Artículo 1344
 . En los casos no previstos en el artículo 1345, la parte que se sienta agraviada por una resolución judicial que sea apelable, dentro del tercer día siguiente de aquél en que surta efectos su notificación, deberá hacer saber por escrito su inconformidad apelando preventivamente ésta sin expresar agravios; de no presentarse el escrito de inconformidad a que se refiere este párrafo, se tendrá por precluido el derecho del afectado para hacerlo valer como agravio en la apelación que se interponga contra la sentencia definitiva.
@@ -6596,9 +6599,7 @@ Artículo adicionado DOF 17-04-2008. Reformado DOF 30-12-2008
 bis 8.- De los autos y de las sentencias interlocutorias de tramitación inmediata, de los que se derive una ejecución que pueda causar un daño irreparable o de difícil reparación y la apelación proceda en el efecto devolutivo, se admitirán en ambos efectos si el apelante lo solicita al interponer el recurso, y señala los motivos por los que se considera el daño irreparable o de difícil reparación.
 Con vista a lo solicitado el juez deberá resolver, y si la admite en ambos efectos señalará el monto de la garantía que exhibirá el apelante dentro del término de seis días para que surta efectos la suspensión.
 La garantía debe atender a la importancia del negocio y no podrá ser inferior a seis mil pesos; y será fijada al prudente arbitrio del juez, cantidad que se actualizará en forma anualizada que deberá regir a partir del primero de enero de cada año, de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México, o aquel que lo sustituya. Si no se exhibe la garantía en el plazo señalado, la apelación sólo se admitirá en efecto devolutivo.
-En caso de que el juez señale una garantía que se estime por el apelante excesiva, o que se niegue la admisión del recurso, en ambos efectos, procede el recurso de revocación en los términos previsto en el
-
-## Capítulo XXIV de este Código.
+En caso de que el juez señale una garantía que se estime por el apelante excesiva, o que se niegue la admisión del recurso, en ambos efectos, procede el recurso de revocación en los términos previsto en el Capítulo XXIV de este Código.
 Artículo adicionado DOF 17-04-2008 CAPITULO XXVII De la Ejecución de las Sentencias
 
 ### Artículo 1346
@@ -6818,8 +6819,8 @@ Artículo reformado DOF 24-05-1996
 .- Dentro de los quince días siguientes a la citación para sentencia, se pronunciará ésta.
 TÍTULO ESPECIAL Del Juicio Oral Mercantil Título adicionado DOF 27-01-2011
 
-## CAPÍTULO I
-Disposiciones Generales Capítulo adicionado DOF 27-01-2011
+## CAPÍTULO I — Disposiciones Generales
+Capítulo adicionado DOF 27-01-2011
 
 ### Artículo 1390
 Bis.- Se tramitarán en este juicio todas las contiendas mercantiles sin limitación de cuantía.
@@ -6880,8 +6881,11 @@ Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012
 Bis 10.- En el juicio únicamente será notificado personalmente el emplazamiento y el auto que admita la reconvención. Las demás determinaciones se notificarán a las partes conforme a las reglas de las notificaciones no personales.
 Artículo adicionado DOF 27-01-2011. Reformado DOF 25-01-2017
 
-## CAPÍTULO II
-Del Procedimiento Oral Capítulo adicionado DOF 27-01-2011 SECCIÓN PRIMERA Fijación de la Litis Sección adicionada DOF 27-01-2011
+## CAPÍTULO II — Del Procedimiento Oral
+Capítulo adicionado DOF 27-01-2011
+
+## SECCIÓN PRIMERA
+Fijación de la Litis Sección adicionada DOF 27-01-2011
 
 ### Artículo 1390
 Bis 11.- La demanda deberá presentarse por escrito y reunirá los requisitos siguientes:
@@ -6951,7 +6955,10 @@ Artículo adicionado DOF 27-01-2011
 ### Artículo 1390
 Bis 20.- Desahogada la vista de la contestación a la demanda y, en su caso, de la contestación a la reconvención, o transcurridos los plazos para ello, el juez señalará de inmediato la fecha y hora para la celebración de la audiencia preliminar, la que deberá fijarse dentro de los diez días siguientes.
 En el mismo auto, el juez admitirá, en su caso, las pruebas que fuesen ofrecidas en relación con las excepciones procesales opuestas, para que se rindan a más tardar en la audiencia preliminar. En caso de no desahogarse las pruebas en la audiencia, se declararán desiertas por causa imputable al oferente.
-Párrafo adicionado DOF 25-01-2017 Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012 SECCIÓN SEGUNDA De las Audiencias Sección adicionada DOF 27-01-2011
+Párrafo adicionado DOF 25-01-2017 Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012
+
+## SECCIÓN SEGUNDA — De las Audiencias
+Sección adicionada DOF 27-01-2011
 
 ### Artículo 1390
 Bis 21.- Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el párrafo tercero del
@@ -7018,7 +7025,10 @@ Artículo adicionado DOF 27-01-2011
 
 ### Artículo 1390
 Bis 31.- En el tribunal estarán disponibles los instrumentos y el personal necesarios para que las partes tengan acceso a los registros del procedimiento, a fin de conocer su contenido.
-Artículo adicionado DOF 27-01-2011 SECCIÓN TERCERA De la Audiencia Preliminar Sección adicionada DOF 27-01-2011
+Artículo adicionado DOF 27-01-2011
+
+## SECCIÓN TERCERA — De la Audiencia Preliminar
+Sección adicionada DOF 27-01-2011
 
 ### Artículo 1390
 Bis 32.- La audiencia preliminar tiene por objeto:
@@ -7061,8 +7071,8 @@ En el mismo proveído, el juez fijará la fecha para la celebración de la audie
 Párrafo reformado DOF 25-01-2017 Si en la audiencia preliminar sólo se admiten pruebas documentales que no requieran ser preparadas para su desahogo, se podrá concentrar la audiencia de juicio en la preliminar, para desahogar las documentales respectivas y dictar la sentencia definitiva en la misma audiencia.
 Párrafo adicionado DOF 25-01-2017 Artículo adicionado DOF 27-01-2011
 
-## SECCIÓN CUARTA
-De la Audiencia del Juicio Sección adicionada DOF 27-01-2011
+## SECCIÓN CUARTA — De la Audiencia del Juicio
+Sección adicionada DOF 27-01-2011
 
 ### Artículo 1390
 Bis 38.- Abierta la audiencia se procederá al desahogo de las pruebas que se encuentren debidamente preparadas en el orden que el juez estime pertinente. Al efecto, contará con las más amplias facultades como rector del procedimiento; dejando de recibir las que no se encuentren preparadas y haciendo efectivo el apercibimiento realizado al oferente; por lo que la audiencia no se suspenderá ni diferirá en ningún caso por falta de preparación o desahogo de las pruebas admitidas, salvo en aquellos casos expresamente determinados en este Título, por caso fortuito o de fuerza mayor.
@@ -7075,8 +7085,8 @@ Bis 39.- El juez expondrá oralmente y de forma breve, los fundamentos de hecho 
 En caso de que en la fecha y hora fijada para esta audiencia no asistiere al juzgado ninguna de las partes, se hará constar que la copia de la sentencia queda a disposición de las partes, siendo innecesario la exposición oral y lectura de los fundamentos de hecho y de derecho que motivaron la sentencia, así como de los respectivos puntos resolutivos.
 Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012, 25-01-2017
 
-## CAPÍTULO III
-De los Incidentes Capítulo adicionado DOF 27-01-2011
+## CAPÍTULO III — De los Incidentes
+Capítulo adicionado DOF 27-01-2011
 
 ### Artículo 1390
 Bis 40.- Los incidentes deberán promoverse oralmente en las audiencias y no las suspenderán. Se exceptúan los incidentes relativos a la impugnación de documento o de nulidad del emplazamiento, mismos que se substanciarán en la forma que más adelante se precisa. La parte contraria contestará oralmente en la audiencia y, de no hacerlo, se tendrá por precluído su derecho.
@@ -7085,8 +7095,11 @@ Párrafo reformado DOF 25-01-2017 Cuando las partes no ofrezcan pruebas o las qu
 Párrafo adicionado DOF 09-01-2012. Reformado DOF 25-01-2017 Si en la audiencia de juicio no pudiere concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia, resolviendo la incidencia previamente al dictado de la sentencia definitiva.
 Párrafo reformado DOF 10-01-2014 Artículo adicionado DOF 27-01-2011
 
-## CAPÍTULO IV
-De las Pruebas Capítulo adicionado DOF 27-01-2011 SECCIÓN PRIMERA Confesional Sección adicionada DOF 27-01-2011
+## CAPÍTULO IV — De las Pruebas
+Capítulo adicionado DOF 27-01-2011
+
+## SECCIÓN PRIMERA
+Confesional Sección adicionada DOF 27-01-2011
 
 ### Artículo 1390
 Bis 41.- La prueba confesional en este juicio se desahogará conforme a las siguientes reglas:
@@ -7097,7 +7110,10 @@ Fracción reformada DOF 25-01-2017
 II. Los interrogatorios podrán formularse libremente sin más limitación que las preguntas se refieran a hechos propios del declarante que sean objeto del debate. El juez, en el acto de la audiencia, calificará las preguntas que se formulen oralmente y el declarante dará respuesta a aquellas calificadas de legales, y Fracción reformada DOF 25-01-2017
 
 III. Previo el apercibimiento correspondiente, en caso de que la persona que deba declarar no asista sin justa causa o no conteste las preguntas que se le formulen, de oficio se hará efectivo el apercibimiento y se tendrán por ciertos los hechos que la contraparte pretenda acreditar con esta probanza, salvo prueba en contrario.
-Fracción reformada DOF 25-01-2017 Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012 SECCIÓN SEGUNDA Testimonial Sección adicionada DOF 27-01-2011
+Fracción reformada DOF 25-01-2017 Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012
+
+## SECCIÓN SEGUNDA
+Testimonial Sección adicionada DOF 27-01-2011
 
 ### Artículo 1390
 Bis 42.- Las partes tendrán la obligación de presentar a sus testigos, para cuyo efecto se les entregarán las cédulas de notificación. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad y pedirán que se les cite. El juez ordenará la citación con el apercibimiento que, en caso de desobediencia, se les aplicarán y se les hará comparecer mediante el uso de los medios de apremio señalados en las fracciones III y IV del artículo 1067 Bis de este Código.
@@ -7108,7 +7124,10 @@ Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012
 
 ### Artículo 1390
 Bis 43.- Las partes interrogaran oralmente a los testigos. Las preguntas estarán concebidas en términos claros y precisos, limitándose a los hechos o puntos controvertidos objeto de esta prueba, debiendo el juez impedir preguntas contrarias a estos requisitos, así como aquellas que resulten ociosas o impertinentes. Para conocer la verdad sobre los puntos controvertidos, el juez también puede, de oficio, interrogar ampliamente a los testigos.
-Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012 SECCIÓN TERCERA Instrumental Sección adicionada DOF 27-01-2011
+Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012
+
+## SECCIÓN TERCERA
+Instrumental Sección adicionada DOF 27-01-2011
 
 ### Artículo 1390
 Bis 44.- Los registros del juicio oral, cualquiera que sea el medio, serán instrumentos públicos; harán prueba plena y acreditarán el modo en que se desarrolló la audiencia o diligencia correspondiente, la observancia de las formalidades, las personas que hubieran intervenido, las resoluciones pronunciadas por el juez y los actos que se llevaron a cabo.
@@ -7142,7 +7161,10 @@ Artículo adicionado DOF 27-01-2011
 ### Artículo 1390
 Bis 48.- Los peritos asistirán a la audiencia respectiva con el fin de exponer verbalmente las conclusiones de sus dictámenes, a efecto de que se desahogue la prueba con los exhibidos y respondan las preguntas que el juez o las partes les formulen, debiendo acreditar, en la misma audiencia y bajo su responsabilidad, su calidad científica, técnica, artística o industrial para el que fueron propuestos, con el original o copia certificada de su cédula profesional o el documento respectivo.
 En caso de que no justifique su calidad de perito, o de no asistir los peritos designados por las partes, se tendrá por no rendido su dictamen y la ausencia injustificada del perito tercero en discordia dará lugar a que se le imponga una sanción pecuniaria equivalente a la cantidad que cotizó por sus servicios, en favor de las partes, en igual proporción.
-Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012, 25-01-2017 SECCIÓN QUINTA Prueba Superveniente Sección adicionada DOF 27-01-2011
+Artículo adicionado DOF 27-01-2011. Reformado DOF 09-01-2012, 25-01-2017
+
+## SECCIÓN QUINTA
+Prueba Superveniente Sección adicionada DOF 27-01-2011
 
 ### Artículo 1390
 Bis 49.- Después de la demanda y contestación, reconvención y contestación a la reconvención en su caso, no se admitirán al actor ni al demandado, respectivamente, otros documentos que los que se hallen en alguno de los casos siguientes:
@@ -7158,8 +7180,8 @@ Cuando alguna de las partes tenga conocimiento de una prueba documental superven
 Bis 50.- La ejecución de los convenios celebrados ante los Jueces de Proceso Oral y de las resoluciones dictadas por éstos, se hará en términos del Capítulo XXVII, del Título primero, del Libro Quinto de este Código.
 Artículo adicionado DOF 09-01-2012 TÍTULO ESPECIAL BIS Del Juicio Ejecutivo Mercantil Oral Título adicionado DOF 25-01-2017
 
-## Capítulo I
-Disposiciones Generales Capítulo adicionado DOF 25-01-2017
+## Capítulo I — Disposiciones Generales
+Capítulo adicionado DOF 25-01-2017
 
 ### Artículo 1390
 Ter.- El procedimiento ejecutivo a que se refiere este Título tiene lugar cuando la demanda se funda en uno de los documentos que traigan aparejada ejecución previstos en el artículo 1391.
@@ -7182,8 +7204,11 @@ Artículo adicionado DOF 25-01-2017
 Ter 3.- En el juicio ejecutivo mercantil oral se observarán los principios que contempla el artículo 1390 Bis 2 y se tramitará conforme a las reglas previstas en los artículos 1390 Bis 3; 1390 Bis 4; 1390 Bis 5; 1390 Bis 6; 1390 Bis 7; 1390 Bis 8; 1390 Bis 9; 1390 Bis 10; 1390 Bis 12 y 1390 Bis 13, salvo lo relativo a la reconvención que es incompatible con este juicio.
 Artículo adicionado DOF 25-01-2017
 
-## CAPÍTULO II
-Del Procedimiento Ejecutivo Mercantil Oral Capítulo adicionado DOF 25-01-2017 SECCIÓN PRIMERA Fijación de la Litis Sección adicionada DOF 25-01-2017
+## CAPÍTULO II — Del Procedimiento Ejecutivo Mercantil Oral
+Capítulo adicionado DOF 25-01-2017
+
+## SECCIÓN PRIMERA
+Fijación de la Litis Sección adicionada DOF 25-01-2017
 
 ### Artículo 1390
 Ter 4.- La demanda deberá presentarse en los términos señalados en el artículo 1390 Bis 11.
@@ -7208,7 +7233,10 @@ Artículo adicionado DOF 25-01-2017
 
 ### Artículo 1390
 Ter 9.- Si se tratare de cartas de porte, se atenderá a lo que dispone el artículo 583.
-Artículo adicionado DOF 25-01-2017 SECCIÓN SEGUNDA De las Audiencias Sección adicionada DOF 25-01-2017
+Artículo adicionado DOF 25-01-2017
+
+## SECCIÓN SEGUNDA — De las Audiencias
+Sección adicionada DOF 25-01-2017
 
 ### Artículo 1390
 Ter 10.- Las audiencias se desarrollarán conforme a las reglas generales previstas para el Juicio Oral Mercantil en términos de la Sección Segunda, del Capítulo II, del Título Especial de este Código.
@@ -7219,30 +7247,28 @@ Ter 11.- La audiencia preliminar se sustanciará conforme a las reglas previstas
 Artículo adicionado DOF 25-01-2017
 
 ### Artículo 1390
-Ter 12.- La audiencia de juicio se sustanciará conforme a las reglas previstas en la
-
-## Sección Cuarta, del Capítulo II, del Título Especial de este Código.
+Ter 12.- La audiencia de juicio se sustanciará conforme a las reglas previstas en la Sección Cuarta, del Capítulo II, del Título Especial de este Código.
 Artículo adicionado DOF 25-01-2017
 
-## CAPÍTULO III
-De los Incidentes Capítulo adicionado DOF 25-01-2017
+## CAPÍTULO III — De los Incidentes
+Capítulo adicionado DOF 25-01-2017
 
 ### Artículo 1390
 Ter 13.- Los incidentes se tramitarán conforme a las reglas previstas en el Capítulo III del Título Especial de este Código.
 Artículo adicionado DOF 25-01-2017
 
-## CAPÍTULO IV
-De las Pruebas Capítulo adicionado DOF 25-01-2017
+## CAPÍTULO IV — De las Pruebas
+Capítulo adicionado DOF 25-01-2017
 
 ### Artículo 1390
-Ter 14.- El desahogo de las pruebas se hará conforme a las reglas previstas en el
-
-## Capítulo IV del Título Especial de este Código, salvo lo relativo a la reconvención que es incompatible con
-este juicio.
+Ter 14.- El desahogo de las pruebas se hará conforme a las reglas previstas en el Capítulo IV del Título Especial de este Código, salvo lo relativo a la reconvención que es incompatible con este juicio.
 Artículo adicionado DOF 25-01-2017
 
-## CAPÍTULO V
-De la Ejecución Capítulo adicionado DOF 25-01-2017 SECCIÓN PRIMERA Sección adicionada DOF 25-01-2017
+## CAPÍTULO V — De la Ejecución
+Capítulo adicionado DOF 25-01-2017
+
+## SECCIÓN PRIMERA
+Sección adicionada DOF 25-01-2017
 
 ### Artículo 1390
 Ter 15.- La ejecución de los convenios celebrados ante los jueces de Proceso Oral y de las resoluciones dictadas por éstos conforme a este Título, se hará en lo conducente en los términos previstos para la ejecución de los juicios ejecutivos reguladas en el Título Tercero, así como a lo dispuesto en el Título Primero, del Libro Quinto de este Código.
@@ -7549,10 +7575,7 @@ En ningún caso y bajo ninguna forma se podrá renunciar a este derecho;
 III. Cuando el valor de los bienes sea mayor al monto del adeudo condenado, la parte actora, según se trate y una vez deducido el crédito, los intereses y los gastos generados, entregará al demandado el remanente que corresponda por la venta de los bienes.
 La venta a elección del actor se podrá realizar ante el juez que conozca del juicio o fedatario público, mediante el procedimiento siguiente:
 
-a) Se notificará personalmente al demandado, conforme a lo señalado en el Libro Quinto,
-
-## Capítulo IV, del Título Primero de este Código, el día y la hora en que se efectuará la venta
-de los bienes a que se refiere el inciso siguiente. Dicha notificación deberá realizarse con cinco días de anticipación a la fecha de la venta;
+a) Se notificará personalmente al demandado, conforme a lo señalado en el Libro Quinto, Capítulo IV, del Título Primero de este Código, el día y la hora en que se efectuará la venta de los bienes a que se refiere el inciso siguiente. Dicha notificación deberá realizarse con cinco días de anticipación a la fecha de la venta;
 
 b) Se publicará en un periódico de la localidad en que se encuentren los bienes por lo menos con cinco días hábiles de antelación, un aviso de venta de los mismos, en el que se señale el lugar, día y hora en que se pretenda realizar la venta, señalando la descripción de los bienes, así como el precio de la venta, determinado conforme al artículo 1414 bis.
 En dicha publicación podrán señalarse las fechas en que se realizarán, en su caso, las ofertas sucesivas de venta de los bienes. Cada semana en la que no haya sido posible realizar la venta de los bienes, el valor mínimo de venta de los mismos, se reducirá en un 10%, pudiendo el actor, a su elección, obtener la propiedad plena de los mismos cuando el precio de dichos bienes esté en alguno de los supuestos a que se refieren las fracciones I o II de este artículo.
@@ -7875,8 +7898,8 @@ Artículo derogado DOF 20-04-1943. Adicionado DOF 22-07-1993
 .- Si solicitó a un juez del país en que, o conforme a su derecho, fue dictado el laudo, su nulidad o suspensión, el juez al que se solicita el reconocimiento o la ejecución de laudo podrá, si lo considera procedente, aplazar su decisión y a instancia de la parte que pida el reconocimiento o la ejecución del laudo, podrá también ordenar a la otra parte que otorgue garantías suficientes.
 Artículo derogado DOF 20-04-1943. Adicionado DOF 22-07-1993. Reformado DOF 27-01-2011
 
-## CAPÍTULO X
-De la Intervención Judicial en la Transacción Comercial y el Arbitraje Capítulo adicionado DOF 27-01-2011
+## CAPÍTULO X — De la Intervención Judicial en la Transacción Comercial y el Arbitraje
+Capítulo adicionado DOF 27-01-2011
 
 ### Artículo 1464
 .- Cuando una parte solicite la remisión al arbitraje en los términos del artículo 1424, se observará lo siguiente:
@@ -8350,7 +8373,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, del Código de Comercio y de la Ley de Instituciones de Crédito.
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 2000 ARTICULO SEGUNDO.- Se ADICIONAN las siguientes disposiciones al Código de Comercio: una fracción XXIV al artículo 75, con lo cual la actual fracción XXIV se recorrerá para ser XXV; Título Tercero bis, Capítulo I; artículos 1414 bis, 1414 bis 1, 1414 bis 2, 1414 bis 3, 1414 bis 4, 1414 bis 5, 1414 bis 6, y
 
-## Capítulo II, artículos 1414 bis 7, 1414 bis 8, 1414 bis 9, 1414 bis 10, 1414 bis 11, 1414 bis 12, 1414 bis
+## Capítulo II — , artículos 1414 bis 7, 1414 bis 8, 1414 bis 9, 1414 bis 10, 1414 bis 11, 1414 bis 12, 1414 bis
 13, 1414 bis 14, 1414 bis 15, 1414 bis 16, 1414 bis 17, 1414 bis 18, 1414 bis 19 y 1414 bis 20, del Libro
 **Quinto.** ; se REFORMA la fracción XXV del artículo 75 y los artículos 1091, 1093, 1097, 1104 y 1105; y se DEROGAN los artículos 1097 bis, 1098 y 1109, para quedar como sigue: ..........
 

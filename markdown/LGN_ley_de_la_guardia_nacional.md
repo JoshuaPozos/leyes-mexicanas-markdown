@@ -12,7 +12,8 @@ SE EXPIDE LA   Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA L
 
 ### Artículo Primero
 Se expide la Ley de la Guardia Nacional, para quedar como sigue:
-TÍTULO PRIMERO Disposiciones Preliminares
+
+## TÍTULO PRIMERO — Disposiciones Preliminares
 
 ## Capítulo I
 Generalidades de la Ley
@@ -217,7 +218,9 @@ I. Personal técnico especializado;
 II. Equipo especializado, y
 
 III. Recursos para gastos de investigación.
-TÍTULO SEGUNDO Integración de la Guardia Nacional
+
+## TÍTULO SEGUNDO
+Integración de la Guardia Nacional
 
 ## Capítulo I
 Generalidades
@@ -253,8 +256,7 @@ V. Coordinación de Unidad, y
 
 VI. Unidades Circunstanciales.
 
-## Capítulo II
-De la Secretaría
+## Capítulo II — De la Secretaría
 
 ### Artículo 14
 . La persona titular de la Secretaría, de conformidad con las instrucciones que reciba de la persona titular del Ejecutivo Federal, es el responsable de organizar, equipar, educar, adiestrar, capacitar, administrar y desarrollar a la Guardia Nacional, correspondiéndole las facultades siguientes:
@@ -279,8 +281,7 @@ IX. Autorizar adecuaciones a la estructura orgánica de la Guardia Nacional, y
 
 X. Las demás establecidas en esta Ley y disposiciones aplicables.
 
-## Capítulo III
-Del Comandante y las Coordinaciones
+## Capítulo III — Del Comandante y las Coordinaciones
 
 ### Artículo 15
 . La persona titular de la Comandancia debe ostentar la jerarquía de General de División de Guardia Nacional y será nombrada por la persona titular de la Presidencia de la República a propuesta de la persona titular de la Secretaría.
@@ -407,8 +408,7 @@ Los organismos constituidos por tropas de la Guardia Nacional, estructurados int
 ### Artículo 21
 . Las Coordinaciones Regionales serán las áreas geográficas que servirán de base para el despliegue de la Guardia Nacional en el territorio nacional.
 
-## Capítulo IV
-De la Composición y Actuación de la Guardia Nacional
+## Capítulo IV — De la Composición y Actuación de la Guardia Nacional
 
 ### Artículo 22
 . La Guardia Nacional tendrá la estructura orgánica que determine su reglamento y contará al menos con:
@@ -434,7 +434,8 @@ El Comandante expedirá los manuales de operación de la Jefatura General de Coo
 
 ### Artículo 25
 . La Guardia Nacional será competente para conocer de delitos federales; sin embargo, en coadyuvancia, podrá conocer de delitos del fuero común, previo convenio con las autoridades de las entidades federativas o municipales.
-TÍTULO TERCERO Del Personal integrante de la Guardia Nacional
+
+## TÍTULO TERCERO — Del Personal integrante de la Guardia Nacional
 
 ## Capítulo I
 Ingreso
@@ -453,8 +454,7 @@ III. El personal de la Guardia Nacional deberá cursar y aprobar los programas d
 
 IV. Las sanciones que se apliquen al personal de la Guardia Nacional por infracciones al régimen de responsabilidades administrativas, se determinarán mediante el procedimiento previsto en la Ley General de Responsabilidades Administrativas.
 
-## Capítulo II
-De los Grados y el Escalafón
+## Capítulo II — De los Grados y el Escalafón
 
 ### Artículo 28
 . La escala jerárquica de la Guardia Nacional tiene por objeto el ejercicio del mando.
@@ -669,8 +669,7 @@ IV. Extracto de Antecedentes.
 ## TÍTULO CUARTO
 Armamento
 
-## Capítulo I
-De la Disposición
+## Capítulo I — De la Disposición
 
 ### Artículo 50
 . Para el cumplimiento de sus fines la Guardia Nacional dispondrá de:
@@ -685,8 +684,7 @@ El personal de la Guardia Nacional hará uso diferenciado de la fuerza y de las 
 ### Artículo 51
 . El Comandante emitirá los lineamientos para el correcto empleo de los equipos de autoprotección, como escudos, cascos, chalecos a prueba de balas y medios de transporte a prueba de balas, que disminuyan la necesidad de emplear armas de cualquier tipo.
 
-## Capítulo II
-De la Posesión
+## Capítulo II — De la Posesión
 
 ### Artículo 52
 . La posesión de las armas de fuego se regirá por lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.
@@ -694,8 +692,7 @@ De la Posesión
 ### Artículo 53
 . La capacidad de armamento y municiones con que se encuentre dotada la Guardia Nacional se especificará en las planillas orgánicas respectivas.
 
-## Capítulo III
-De la Portación y Uso
+## Capítulo III — De la Portación y Uso
 
 ### Artículo 54
 . Únicamente el personal de la Guardia Nacional que haya acreditado su capacitación sobre el empleo de las armas de fuego y municiones podrá portar las mismas.
@@ -708,8 +705,7 @@ De la Portación y Uso
 Queda prohibido el empleo de armamento oficial en actividades ajenas al servicio y en lugares no autorizados, así como su comercialización, extravío, robo o destrucción; la infracción a lo antes señalado, se sancionará conforme al Código de Justicia Militar.
 El integrante de la Guardia Nacional deberá entregar el armamento de cargo al término de sus actividades oficiales, en las instalaciones de la unidad a la que pertenezca.
 
-## Capítulo IV
-Del Control y Vigilancia
+## Capítulo IV — Del Control y Vigilancia
 
 ### Artículo 57
 . Las personas titulares de los organismos de los distintos niveles de mando de la Guardia Nacional supervisarán el control y resguardo del armamento que tengan a su cargo.
@@ -728,10 +724,11 @@ Solo se podrá acceder a las armas y municiones a través de las autorizaciones 
 ### Artículo 61
 . El personal de la Guardia Nacional que extravíe o sea sujeto de robo de las armas que tiene a su cuidado y responsabilidad, será sujeto a las sanciones que correspondan por las faltas administrativas, disciplinarias y penales, conforme a la normatividad aplicable.
 Queda prohibida la portación de armas de cargo fuera de las actividades del servicio.
-TÍTULO QUINTO Régimen Disciplinario
 
-## Capítulo I
-De las Obligaciones
+## TÍTULO QUINTO
+Régimen Disciplinario
+
+## Capítulo I — De las Obligaciones
 
 ### Artículo 62
 . El personal integrante de la Guardia Nacional, por lo que hace a los delitos en que incurra durante su función policial, estará sujeto al fuero federal; asimismo, a la jurisdicción militar respecto de los delitos especificados en el Libro Segundo del Código de Justicia Militar.
@@ -897,16 +894,16 @@ El personal facultado para graduar arrestos podrá dejarlos sin efecto o sustitu
 . Al personal de confianza de la Guardia Nacional, que incumpla con sus obligaciones, se procederá conforme a su contrato o nombramiento respectivo.
 Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y demás normativa aplicable.
 
-## Capítulo II
-De los Delitos Contra la Disciplina
+## Capítulo II — De los Delitos Contra la Disciplina
 
 ### Artículo 77
 . Para el caso de las faltas que constituyan delitos, se estará a lo previsto en la legislación penal militar y del fuero federal o común, según corresponda.
 Por lo que respecta a las responsabilidades administrativas, se estará a lo establecido en la Ley General de Responsabilidades Administrativas.
-TÍTULO SEXTO De la Coordinación y la Colaboración
 
-## Capítulo I
-De la Coordinación y Colaboración con las Entidades Federativas y Municipios
+## TÍTULO SEXTO — De la Coordinación y la Colaboración
+
+## Capítulo I — De la Coordinación y Colaboración con las
+Entidades Federativas y Municipios
 
 ### Artículo 78
 . La Guardia Nacional participará con las instituciones de seguridad pública de las entidades federativas o de los municipios para la realización de operaciones coordinadas para preservar la paz social y la seguridad de la población, de conformidad con lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y en los acuerdos emanados del Consejo Nacional de Seguridad Pública, de las instancias que compongan el Sistema.
@@ -938,8 +935,7 @@ Asimismo, se establecerá un programa para el fortalecimiento técnico, operativ
 . Los recursos humanos, económicos y materiales necesarios para la operación de la Guardia Nacional estarán a cargo de la Federación.
 Excepcionalmente, los convenios de colaboración que se suscriban entre la Secretaría y las entidades federativas o municipios contendrán las aportaciones que, en su caso, deberán hacer éstos cuando la Guardia Nacional realice tareas de seguridad pública de competencia local.
 
-## Capítulo II
-Disposiciones Complementarias
+## Capítulo II — Disposiciones Complementarias
 
 ### Artículo 83
 . En los casos en que resulte necesario, la Guardia Nacional podrá auxiliarse de cualquier institución de seguridad pública o personas que presten servicios de seguridad privada en términos de la ley.
@@ -949,10 +945,11 @@ Disposiciones Complementarias
 
 ### Artículo 85
 . Cuando durante el desarrollo de la investigación la Guardia Nacional estime necesaria la realización de diligencias que requieran una tramitación especial o la autorización de la autoridad jurisdiccional, lo comunicará sin demora al Ministerio Público que la esté conduciendo, quien resolverá lo conducente.
-TÍTULO SÉPTIMO Controles
 
-## Capítulo I
-Del Control Parlamentario
+## TÍTULO SÉPTIMO
+Controles
+
+## Capítulo I — Del Control Parlamentario
 
 ### Artículo 86
 . Al inicio del segundo periodo ordinario de sesiones de cada año legislativo, el Ejecutivo Federal presentará por escrito ante el Senado de la República, un informe de las actividades desarrolladas por la Guardia Nacional durante el año inmediato anterior.
@@ -992,8 +989,7 @@ XIII. La estrategia desplegada para el cumplimiento de los fines de la Guardia N
 ### Artículo 89
 . El Senado de la República analizará y, en su caso, aprobará el informe dentro del mismo periodo ordinario de sesiones en el que haya sido presentado.
 
-## Capítulo II
-Del Control Judicial
+## Capítulo II — Del Control Judicial
 
 ### Artículo 90
 . De conformidad con los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos, con la Ley Federal Contra la Delincuencia Organizada, con la Ley de Seguridad Nacional, con el Código Nacional de Procedimientos Penales y con la presente Ley, la Guardia Nacional podrá solicitar ante la autoridad jurisdiccional la intervención de comunicaciones. La autorización judicial correspondiente podrá otorgarse a solicitud de la persona titular de la Comandancia o de la Jefatura General de Coordinación Policial, cuando se constatare la existencia de indicios suficientes que acrediten que se está organizando la comisión de los delitos que se señalan en el artículo 93 de esta Ley.

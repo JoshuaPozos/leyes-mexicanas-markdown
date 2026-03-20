@@ -14,8 +14,7 @@ SE EXPIDE LA
 Se expide la Ley de la Policía Federal.
 Ley de la Policía Federal.
 
-## Capítulo I
-Disposiciones Generales.
+## Capítulo I — Disposiciones Generales.
 
 ### Artículo 1
 . La presente Ley es reglamentaria del artículo 21 constitucional, en materia federal en lo relativo a la organización y funcionamiento de la Policía Federal, en el ámbito de competencia que establece esta Ley y las disposiciones aplicables. Es de orden público y de aplicación en todo el territorio nacional.
@@ -58,8 +57,7 @@ IX. Secretario, al titular de la Secretaría de Seguridad Pública Federal.
 ### Artículo 5
 . La investigación para la prevención de los delitos, en términos de los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos, es el conjunto sistematizado de acciones y procedimientos encaminados a la planeación, obtención, procesamiento y aprovechamiento de la información, con el propósito exclusivo de evitar la comisión de delitos, con base en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a las garantías individuales y los derechos humanos reconocidos en la Constitución.
 
-## Capítulo II
-De la Organización y Funcionamiento de la Policía Federal.
+## Capítulo II — De la Organización y Funcionamiento de la Policía Federal.
 
 ### Artículo 6
 . El Comisionado General tendrá el más alto rango en la institución de la Policía Federal sobre la cual ejercerá las atribuciones de mando, dirección y disciplina, y será nombrado y removido libremente por el Presidente de los Estados Unidos Mexicanos, a propuesta del Secretario.
@@ -253,8 +251,7 @@ XX. Las demás que expresamente las leyes federales le confieran.
 ### Artículo 13
 . Todas las autoridades federales, cuyas atribuciones se relacionen con las de la Policía Federal, se coordinarán entre sí para el despacho y operación de los asuntos relativos a la seguridad pública a cargo de la Federación. dé la misma para participar en instancias de coordinación interinstitucionales.
 
-## Capítulo III
-Del Personal Activo.
+## Capítulo III — Del Personal Activo.
 
 ### Artículo 14
 . La relación entre la Policía Federal y su personal se regulará por lo dispuesto en el apartado B, del artículo 123 Constitucional, la presente Ley y las demás disposiciones aplicables.
@@ -264,8 +261,7 @@ Si la autoridad jurisdiccional resuelve que la separación, remoción, baja, ces
 ### Artículo 15
 . La actuación de los miembros de la Policía Federal se sujetará, invariablemente, a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución.
 
-## Capítulo IV
-Del Servicio Profesional de Carrera Policial.
+## Capítulo IV — Del Servicio Profesional de Carrera Policial.
 
 ### Artículo 16
 . La carrera policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante. Se regirá por las normas siguientes:
@@ -369,8 +365,7 @@ XV. No incurrir en actos u omisiones que causen la pérdida de confianza, y
 
 XVI. Las demás que establezcan las disposiciones legales aplicables.
 
-## Capítulo V
-Del Régimen Disciplinario.
+## Capítulo V — Del Régimen Disciplinario.
 
 ### Artículo 18
 . La disciplina es la base del funcionamiento y organización de la Policía Federal, por lo que sus integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
@@ -483,8 +478,7 @@ XI. Daños causados al material y equipo, y
 
 XII. Grado de instrucción del presunto infractor.
 
-## Capítulo VI
-De la Conclusión del Servicio.
+## Capítulo VI — De la Conclusión del Servicio.
 
 ### Artículo 22
 . La conclusión del servicio de un integrante es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
@@ -511,9 +505,9 @@ Al concluir el servicio el integrante deberá entregar al funcionario designado 
 ### Artículo 23
 . Los integrantes que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración del Consejo Federal, en otras áreas de los servicios de la propia institución.
 
-## Capítulo VII
-Del Consejo Federal de Desarrollo Policial.
-Sección Primera.
+## Capítulo VII — Del Consejo Federal de Desarrollo Policial.
+
+## Sección Primera — .
 Generalidades.
 
 ### Artículo 24
@@ -572,7 +566,8 @@ Las Reglas de Operación y Funcionamiento del Consejo Federal estarán previstas
 
 ### Artículo 27
 . En los procedimientos que instruya el Consejo Federal contra los integrantes se salvaguardará en todo tiempo la garantía de audiencia.
-Sección Segunda.
+
+## Sección Segunda — .
 De su Integración y Funcionamiento.
 
 ### Artículo 28
@@ -594,8 +589,7 @@ Los integrantes del Consejo Federal serán de carácter permanente, y se designa
 ### Artículo 29
 . El Consejo Federal contará con el personal necesario para el despacho de sus asuntos, mismos que serán designados por el Pleno, conforme a las disponibilidades presupuestales. como los procedimientos correspondientes para el desarrollo sus atribuciones.
 
-## Capítulo VIII
-Del Procedimiento.
+## Capítulo VIII — Del Procedimiento.
 
 ### Artículo 31
 . El procedimiento que se instaure a los integrantes por incumplimiento a los requisitos de permanencia o por infracción al régimen disciplinario ante el Consejo Federal iniciará por solicitud fundada y motivada del responsable de la Unidad de Asuntos Internos que corresponda, dirigida al Presidente del Consejo Federal y remitiendo para tal efecto el expediente del presunto infractor.
@@ -662,8 +656,7 @@ Contra la resolución del procedimiento disciplinario procederá el recurso de r
 . Para lo no previsto en el presente capítulo se aplicará de manera supletoria el Código Nacional de Procedimientos Civiles y Familiares.
 Artículo reformado DOF 14-11-2025
 
-## Capítulo IX
-Del auxilio a la Policía Federal y de los Servicios Técnicos Especializados.
+## Capítulo IX — Del auxilio a la Policía Federal y de los Servicios Técnicos Especializados.
 
 ### Artículo 43
 . En los casos en que resulte necesario, la Policía Federal podrá auxiliarse con:
@@ -681,8 +674,7 @@ V. Los particulares que presten servicios de seguridad privada, sin que puedan s
 ### Artículo 44
 . Los auxiliares de la Policía Federal deberán, informar a la brevedad del resultado del auxilio prestado a ésta.
 
-## Capítulo X
-De la Coordinación y Cooperación con otras Autoridades.
+## Capítulo X — De la Coordinación y Cooperación con otras Autoridades.
 
 ### Artículo 45
 . En sus funciones de investigación y combate a los delitos, la Policía Federal actuará bajo el mando y conducción del Ministerio Público, con el fin de que sus actuaciones se lleven a cabo en el marco de la legalidad y con las formalidades necesarias para que los resultados de tales actuaciones puedan presentarse como evidencia ante los tribunales.
@@ -694,8 +686,7 @@ De la Coordinación y Cooperación con otras Autoridades.
 . Si se tratare de delito flagrante, la Policía Federal dictará las medidas y providencias necesarias para el debido cumplimiento de lo que en materia de preservación de indicios dispone el informará de inmediato de lo acaecido al Ministerio Público, y pondrá a su disposición las personas, bienes u objetos relacionados con los hechos.
 En estos casos, la Policía Federal actuará de conformidad con los protocolos que al efecto se establezcan conforme a las disposiciones legales aplicables.
 
-## Capítulo XI
-Del Control Judicial.
+## Capítulo XI — Del Control Judicial.
 
 ### Artículo 48
 . En concordancia con los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos, Ley Federal Contra la Delincuencia Organizada, Ley de Seguridad Nacional, Código Federal de Procedimientos Penales y este ordenamiento, exclusivamente las autoridades civiles a que hacen referencia estas leyes, podrán solicitar la intervención de comunicaciones. En el caso de la Policía Federal, la autorización judicial podrá otorgarse únicamente a solicitud del Comisionado General, cuando se constate la existencia de indicios suficientes que acrediten que se está organizando la comisión de los delitos señalados en el artículo 51 de esta Ley.

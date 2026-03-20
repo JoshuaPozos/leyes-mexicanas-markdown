@@ -8,7 +8,10 @@
 TEXTO VIGENTE Nueva Ley publicada en el Diario Oficial de la Federación el 31 de diciembre de 2001 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-TÍTULO PRIMERO DEL OBJETO DE LA LEY CAPÍTULO ÚNICO
+
+## TÍTULO PRIMERO — DEL OBJETO DE LA LEY
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 1o
 . Se emite la presente Ley de Capitalización del PROCAMPO, en el marco de los artículos 25, 27 fracción XX y demás dispositivos correspondientes de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Desarrollo Rural Sustentable, y otras disposiciones aplicables.
@@ -40,7 +43,11 @@ Los beneficiarios del PROCAMPO podrán obtener simultáneamente, recursos de otr
 
 ### Artículo 7o
 . La aplicación de la presente Ley seguirá invariablemente las prioridades, orientaciones y disposiciones previstas por la Ley de Desarrollo Rural Sustentable en cuanto a equidad entre regiones y grupos menos favorecidos, así como la conservación y mejoramiento de los recursos naturales y los servicios ambientales.
-TÍTULO SEGUNDO DEL SISTEMA DE GARANTÍAS Y ACCESO ANTICIPADO A PAGOS FUTUROS DEL PROCAMPO CAPÍTULO ÚNICO
+
+## TÍTULO SEGUNDO — DEL SISTEMA DE GARANTÍAS Y ACCESO ANTICIPADO A PAGOS FUTUROS DEL
+PROCAMPO
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 8o
 . El acceso al Sistema invariablemente será mediante un proyecto productivo que deberá estar directamente relacionado con la producción primaria, la agroindustrialización y el abastecimiento de insumos y equipos necesarios para la realización o desarrollo del proyecto respectivo u otras actividades económicas vinculadas a las cadenas productivas agropecuarias, forestales y pesqueras. Tendrán prioridad aquellos proyectos que contribuyan a la seguridad y soberanía alimentaria; a la optimización en el uso y aprovechamiento del agua; la conservación y mejoramiento de los recursos naturales y los servicios ambientales; a la generación de empleo; al incremento de la capacidad de los productores para alcanzar economías de escala y capacidad de negociación y a la integración de cadenas productivas y agregación de valor a los productos del campo.
@@ -101,7 +108,10 @@ V. Posibilidad de evaluarlos para medir su eficiencia y administración, conform
 
 ### Artículo 19
 . Los recursos del Sistema podrán emplearse como fuente de pago de la inversión requerida por los proyectos a desarrollar por los beneficiarios; como garantía crediticia o para constituir y fortalecer los organismos económicos de los productores, orientados a financiar proyectos productivos agropecuarios, forestales y pesqueros.
-TÍTULO TERCERO DE LA APLICACIÓN DE LA LEY CAPÍTULO ÚNICO
+
+## TÍTULO TERCERO — DE LA APLICACIÓN DE LA LEY
+
+## CAPÍTULO ÚNICO
 
 ### Artículo 20
 . La Secretaría, con sujeción a las disposiciones establecidas en la presente Ley, emitirá la normatividad operativa para el acceso a los recursos a que se refiere la misma. Normatividad que dará a conocer al Congreso de la Unión para que emita sus observaciones; a la vez que aplicará e interpretará para efectos administrativos lo establecido en este ordenamiento. De la misma manera, determinará los mecanismos de seguimiento y control sobre los recursos que se otorguen y verificará su correcta aplicación en los proyectos aprobados, a la vez que establecerá las sanciones para los productores que incurran en desvíos o simulaciones o no ejecuten dichos proyectos en los plazos previstos.

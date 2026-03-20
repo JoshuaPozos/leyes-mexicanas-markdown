@@ -17,8 +17,8 @@ Se expide la Ley de los Impuestos Generales de Importación y de Exportación
 .- Se establecen las cuotas que, atendiendo a la clasificación de la mercancía, servirán para determinar los Impuestos Generales de Importación y de Exportación, de conformidad con la siguiente:
 TARIFA
 
-## Sección I
-ANIMALES VIVOS Y PRODUCTOS DEL REINO ANIMAL Notas. 1. En esta Sección, cualquier referencia a un género o a una especie determinada de un animal se aplica también, salvo disposición en contrario, a los animales jóvenes de ese género o de esa especie. 2. Salvo disposición en contrario, cualquier referencia en la Nomenclatura a productos secos o desecados alcanza también a los productos deshidratados, evaporados o liofilizados.
+## Sección I — ANIMALES VIVOS Y PRODUCTOS DEL REINO ANIMAL
+Notas. 1. En esta Sección, cualquier referencia a un género o a una especie determinada de un animal se aplica también, salvo disposición en contrario, a los animales jóvenes de ese género o de esa especie. 2. Salvo disposición en contrario, cualquier referencia en la Nomenclatura a productos secos o desecados alcanza también a los productos deshidratados, evaporados o liofilizados.
 
 ## Capítulo 01
 Animales vivos Nota. 1. Este Capítulo comprende todos los animales vivos, excepto:
@@ -568,8 +568,8 @@ Quistes de artemia (incluso enlatados al 0511.91.02 Kg Ex. Ex. vacío), poliquet
 Huevas fecundadas, semillas, larvas y 0511.99.04 embriones de especies acuáticas para Kg Ex. Ex. acuacultura.
 Embriones de las especies de ganado 0511.99.05 Pza Ex. Ex. bovino, equino, porcino, ovino y caprino. 0511.99.08 Esponjas naturales de origen animal. Kg 20 Ex. 0511.99.99 Los demás. Kg 10 Ex. _______________
 
-## Sección II
-PRODUCTOS DEL REINO VEGETAL Nota. 1. En esta Sección, el término “pellets” designa los productos en forma de cilindro, bolita, etc., aglomerados por simple presión o con adición de un aglutinante en proporción inferior o igual al 3% en peso. _______________
+## Sección II — PRODUCTOS DEL REINO VEGETAL
+Nota. 1. En esta Sección, el término “pellets” designa los productos en forma de cilindro, bolita, etc., aglomerados por simple presión o con adición de un aglutinante en proporción inferior o igual al 3% en peso. _______________
 
 ## Capítulo 06
 Plantas vivas y productos de la floricultura Notas. 1. Salvo lo dispuesto en la segunda parte de la partida 06.01, este Capítulo comprende únicamente los productos suministrados habitualmente por los horticultores, viveristas o floristas para la plantación o la ornamentación. Sin embargo, se excluyen de este Capítulo las papas (patatas), cebollas hortenses, chalotes, ajos y demás productos del Capítulo 07. 2. Los ramos, cestas, coronas y artículos similares se asimilan a las flores o follajes de las partidas 06.03 o 06.04, sin tener en cuenta los accesorios de otras materias. Sin embargo, estas partidas no comprenden los collages y cuadros similares de la partida 97.01.
@@ -941,8 +941,8 @@ CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Materias vegetales de las especies utilizadas principalmente en cestería o espartería (por ejemplo: bambú, ratán 14.01 (roten), caña, junco, mimbre, rafia, paja de cereales limpiada, blanqueada o teñida, corteza de tilo). 1401.10 - Bambú. 1401.10.01 Bambú. Kg 10 Ex. 1401.20 - Ratán (roten). 1401.20.01 Ratán (roten). Kg Ex. Ex. 1401.90 - Las demás. 1401.90.99 Las demás. Kg 10 Ex.
 Productos vegetales no expresados ni 14.04 comprendidos en otra parte. 1404.20 - Línteres de algodón. 1404.20.01 Línteres de algodón. Kg 10 Ex. 1404.90 - Los demás. 1404.90.99 Los demás. Kg 10 Ex. _______________
 
-## Sección III
-GRASAS Y ACEITES, ANIMALES, VEGETALES O DE ORIGEN MICROBIANO, Y PRODUCTOS DE SU DESDOBLAMIENTO; GRASAS ALIMENTICIAS ELABORADAS;
+## Sección III — GRASAS Y ACEITES, ANIMALES, VEGETALES O DE ORIGEN MICROBIANO, Y
+PRODUCTOS DE SU DESDOBLAMIENTO; GRASAS ALIMENTICIAS ELABORADAS;
 CERAS DE ORIGEN ANIMAL O VEGETAL _______________
 
 ## Capítulo 15
@@ -1015,8 +1015,8 @@ Degrás; residuos procedentes del 15.22 tratamiento de grasas o ceras, animales 
 Degrás; residuos procedentes del 1522.00 tratamiento de grasas o ceras, animales o vegetales.
 Degrás; residuos procedentes del 1522.00.01 tratamiento de grasas o ceras, animales o Kg 10 Ex. vegetales. _______________
 
-## Sección IV
-PRODUCTOS DE LAS INDUSTRIAS ALIMENTARIAS; BEBIDAS, LÍQUIDOS ALCOHÓLICOS Y VINAGRE; TABACO Y SUCEDÁNEOS DEL TABACO ELABORADOS; PRODUCTOS, INCLUSO CON NICOTINA, DESTINADOS PARA LA INHALACIÓN SIN COMBUSTIÓN;
+## Sección IV — PRODUCTOS DE LAS INDUSTRIAS ALIMENTARIAS; BEBIDAS, LÍQUIDOS ALCOHÓLICOS
+Y VINAGRE; TABACO Y SUCEDÁNEOS DEL TABACO ELABORADOS; PRODUCTOS, INCLUSO CON NICOTINA, DESTINADOS PARA LA INHALACIÓN SIN COMBUSTIÓN;
 OTROS PRODUCTOS QUE CONTENGAN NICOTINA DESTINADOS PARA LA ABSORCIÓN DE NICOTINA EN EL CUERPO HUMANO Nota. 1. En esta Sección, el término “pellets” designa los productos en forma de cilindro, bolita, etc., aglomerados por simple presión o con adición de un aglutinante en proporción inferior o igual al 3% en peso. _______________
 
 ## Capítulo 16
@@ -1181,7 +1181,7 @@ d) los productos de panadería, pastelería o galletería y los demás productos
 
 e) las preparaciones alimenticias compuestas homogeneizadas de la partida 21.04. 2. Las partidas 20.07 y 20.08 no comprenden las jaleas y pastas de frutas u otros frutos, las almendras confitadas y los productos similares presentados como artículos de confitería (partida 17.04) ni los artículos de chocolate (partida 18.06). 3. Las partidas 20.01, 20.04 y 20.05 comprenden, según los casos, solo los productos del Capítulo 07 o de las partidas 11.05 u 11.06 (excepto la harina, sémola y polvo de los productos del
 
-## Capítulo 08), preparados o conservados por procedimientos distintos de los mencionados en la
+## Capítulo 08 — ), preparados o conservados por procedimientos distintos de los mencionados en la
 Nota 1 a). 4. El jugo de tomate con un contenido de extracto seco superior o igual al 7% en peso, se clasifica en la partida 20.02. 5. En la partida 20.07, la expresión obtenidos por cocción significa obtenidos por tratamiento térmico a presión atmosférica o bajo presión reducida con el fin de aumentar la viscosidad del producto por reducción de su contenido de agua u otros medios. 6. En la partida 20.09, se entiende por jugos sin fermentar y sin adición de alcohol, los jugos cuyo grado alcohólico volumétrico sea inferior o igual al 0.5% vol. (véase la Nota 2 del Capítulo 22).
 Notas de subpartida. 1. En la subpartida 2005.10, se entiende por hortalizas homogeneizadas, las preparaciones de hortalizas, finamente homogeneizadas, acondicionadas para la venta al por menor como alimento para lactantes o niños de corta edad o para uso dietético en recipientes con un contenido de peso neto inferior o igual a 250 g. Para la aplicación de esta definición se hará abstracción, en su caso, de los diversos ingredientes añadidos a la preparación en pequeña cantidad para sazonar, conservar u otros fines. Estas preparaciones pueden contener pequeñas cantidades de fragmentos visibles de hortalizas. La subpartida 2005.10 tendrá prioridad sobre las demás subpartidas de la partida 20.05. 2. En la subpartida 2007.10, se entiende por preparaciones homogeneizadas, las preparaciones de frutas u otros frutos finamente homogeneizadas, acondicionadas para la venta al por menor como alimento para lactantes o niños de corta edad o para uso dietético en recipientes con un contenido de peso neto inferior o igual a 250 g. Para la aplicación de esta definición se hará abstracción, en su caso, de los diversos ingredientes añadidos a la preparación en pequeña cantidad para sazonar, conservar u otros fines. Estas preparaciones pueden contener pequeñas cantidades de fragmentos visibles de frutas u otros frutos. La subpartida 2007.10 tendrá prioridad sobre las demás subpartidas de la partida 20.07. 3. En las subpartidas 2009.12, 2009.21, 2009.31, 2009.41, 2009.61 y 2009.71, se entiende por valor Brix los grados Brix leídos directamente en la escala de un hidrómetro Brix o el índice de refracción expresado en porcentaje del contenido de sacarosa medido en refractómetro, a una temperatura de 20ºC o corregido para una temperatura de 20ºC cuando la lectura se realice a una temperatura diferente.
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
@@ -1390,8 +1390,7 @@ AMX (15%+0.36 2404.91.01 Para administrarse por vía oral. Kg Ex.
 Dls por Kg de azúcar) Para administrarse por vía 2404.92 -transdérmica.
 Para administrarse por vía 2404.92.01 Kg 5 Ex. transdérmica. 2404.99 -- Los demás. 2404.99.99 Los demás. Kg 5 Ex. _______________
 
-## Sección V
-PRODUCTOS MINERALES
+## Sección V — PRODUCTOS MINERALES
 
 ## Capítulo 25
 Sal; azufre; tierras y piedras; yesos, cales y cementos Notas. 1. Salvo disposición en contrario y a reserva de lo previsto en la Nota 4 siguiente, solo se clasifican en las partidas de este Capítulo los productos en bruto o los productos lavados (incluso con sustancias químicas que eliminen las impurezas sin cambiar la estructura del producto), quebrantados, triturados, molidos, pulverizados, levigados, cribados, tamizados, enriquecidos por flotación, separación magnética u otros procedimientos mecánicos o físicos (excepto la cristalización), pero no los productos tostados, calcinados, los obtenidos por mezcla o los sometidos a un tratamiento que supere al indicado en cada partida.
@@ -1607,8 +1606,8 @@ Betunes y asfaltos naturales; pizarras y 27.14 arenas bituminosas; asfaltitas y 
 Mezclas bituminosas a base de asfalto o de betún naturales, de betún de petróleo, de 2715.00 alquitrán mineral o de brea de alquitrán mineral (por ejemplo: mástiques bituminosos, "cut backs").
 Betunes fluidificados; mezclas bituminosas a base de asfalto acondicionadas para su 2715.00.01 Kg Ex. Ex. venta en envases con capacidad inferior o igual a 200 l. 2715.00.99 Los demás. Kg Ex. 25 27.16 Energía eléctrica. 2716.00 Energía eléctrica. 2716.00.01 Energía eléctrica. KWH Ex. Ex. _______________
 
-## Sección VI
-PRODUCTOS DE LAS INDUSTRIAS QUÍMICAS O DE LAS INDUSTRIAS CONEXAS Notas. 1. A) Cualquier producto que responda al texto específico de una de las partidas 28.44 o 28.45, se clasifica en dicha partida y no en otra de la Nomenclatura, excepto los minerales de metales radiactivos.
+## Sección VI — PRODUCTOS DE LAS INDUSTRIAS QUÍMICAS O DE LAS INDUSTRIAS CONEXAS
+Notas. 1. A) Cualquier producto que responda al texto específico de una de las partidas 28.44 o 28.45, se clasifica en dicha partida y no en otra de la Nomenclatura, excepto los minerales de metales radiactivos.
 B) Salvo lo dispuesto en el apartado A) anterior, cualquier producto que responda al texto específico de una de las partidas 28.43, 28.46 o 28.52, se clasifica en dicha partida y no en otra de esta Sección. 2. Sin perjuicio de las disposiciones de la Nota 1 anterior, cualquier producto que, por su presentación en forma de dosis o por su acondicionamiento para la venta al por menor, pueda incluirse en una de las partidas 30.04, 30.05, 30.06, 32.12, 33.03, 33.04, 33.05, 33.06, 33.07, 35.06, 37.07 o 38.08, se clasifica en dicha partida y no en otra de la Nomenclatura. 3. Los productos presentados en surtidos que consistan en varios componentes distintos comprendidos, en su totalidad o en parte, en esta Sección e identificables como destinados, después de mezclados, a constituir un producto de las Secciones VI o VII, se clasifican en la partida correspondiente a este último producto siempre que los componentes sean:
 
 a) netamente identificables, por su acondicionamiento, como destinados a utilizarse juntos sin previo reacondicionamiento;
@@ -1642,7 +1641,7 @@ e) el peróxido de hidrógeno solidificado con urea (partida 28.47), el oxisulfu
 
 a) el cloruro de sodio y el óxido de magnesio, incluso puros, y los demás productos de la
 
-## Sección V;
+## Sección V — ;
 b) los compuestos órgano-inorgánicos, excepto los mencionados en la Nota 2 anterior;
 
 c) los productos citados en las Notas 2, 3, 4 o 5 del Capítulo 31;
@@ -1655,7 +1654,7 @@ f) las piedras preciosas o semipreciosas (naturales, sintéticas o reconstituida
 
 g) los metales, incluso puros, las aleaciones metálicas o los cermets, incluidos los carburos metálicos sinterizados (es decir, carburos metálicos sinterizados con un metal), de la
 
-## Sección XV;
+## Sección XV — ;
 h) los elementos de óptica, por ejemplo, los de sales halogenadas de metales alcalinos o alcalinotérreos (partida 90.01). 4. Los ácidos complejos de constitución química definida constituidos por un ácido de elementos no metálicos del Subcapítulo II y un ácido que contenga un elemento metálico del Subcapítulo IV, se clasifican en la partida 28.11. 5. Las partidas 28.26 a 28.42 comprenden solamente las sales y peroxosales de metales y las de amonio.
 Salvo disposición en contrario, las sales dobles o complejas se clasifican en la partida 28.42. 6. La partida 28.44 comprende solamente:
 
@@ -3164,8 +3163,8 @@ Las demás, no comprendidas en subpartidas anteriores, con un contenido de diflu
 Las demás, no comprendidas en subpartidas anteriores, que 3827.68 -contengan sustancias de las subpartidas 2903.41 a 2903.48.
 Las demás, no comprendidas en subpartidas anteriores, que 3827.68.91 Kg Ex. Ex. contengan sustancias de las subpartidas 2903.41 a 2903.48. 3827.69 -- Las demás. 3827.69.99 Las demás. Kg Ex. Ex. 3827.90 - Las demás. 3827.90.99 Las demás. Kg Ex. Ex. _______________
 
-## Sección VII
-PLÁSTICO Y SUS MANUFACTURAS; CAUCHO Y SUS MANUFACTURAS Notas. 1. Los productos presentados en surtidos que consistan en varios componentes distintos comprendidos, en su totalidad o en parte, en esta Sección e identificables como destinados, después de mezclados, a constituir un producto de las Secciones VI o VII, se clasifican en la partida correspondiente a este último producto siempre que los componentes sean:
+## Sección VII — PLÁSTICO Y SUS MANUFACTURAS; CAUCHO Y SUS MANUFACTURAS
+Notas. 1. Los productos presentados en surtidos que consistan en varios componentes distintos comprendidos, en su totalidad o en parte, en esta Sección e identificables como destinados, después de mezclados, a constituir un producto de las Secciones VI o VII, se clasifican en la partida correspondiente a este último producto siempre que los componentes sean:
 
 a) por su acondicionamiento, netamente identificables como destinados a utilizarse juntos sin previo reacondicionamiento;
 
@@ -3657,8 +3656,8 @@ Arandelas, válvulas u otras piezas de uso 4016.99.01 Kg 5 Ex. técnico, excepto
 Caucho endurecido (por ejemplo, ebonita) en cualquier forma, incluidos 40.17 los desechos y desperdicios; manufacturas de caucho endurecido.
 Caucho endurecido (por ejemplo, ebonita) en cualquier forma, incluidos los desechos 4017.00 y desperdicios; manufacturas de caucho endurecido. 4017.00.03 Desperdicios y desechos. Kg 5 Ex. 4017.00.99 Los demás. Kg Ex. Ex. _______________
 
-## Sección VIII
-PIELES, CUEROS, PELETERÍA Y MANUFACTURAS DE ESTAS MATERIAS; ARTÍCULOS DE TALABARTERÍA O GUARNICIONERÍA; ARTÍCULOS DE VIAJE, BOLSOS DE MANO (CARTERAS) Y CONTINENTES SIMILARES; MANUFACTURAS DE TRIPA _______________
+## Sección VIII — PIELES, CUEROS, PELETERÍA Y MANUFACTURAS DE ESTAS MATERIAS; ARTÍCULOS
+DE TALABARTERÍA O GUARNICIONERÍA; ARTÍCULOS DE VIAJE, BOLSOS DE MANO (CARTERAS) Y CONTINENTES SIMILARES; MANUFACTURAS DE TRIPA _______________
 
 ## Capítulo 41
 Pieles (excepto la peletería) y cueros Notas. 1. Este Capítulo no comprende:
@@ -3827,8 +3826,8 @@ Peletería facticia o artificial y artículos 43.04 de peletería facticia o art
 Peletería facticia o artificial y artículos de 4304.00 peletería facticia o artificial.
 Peletería facticia o artificial y artículos de 4304.00.01 Kg 20 Ex. peletería facticia o artificial. _______________
 
-## Sección IX
-MADERA, CARBÓN VEGETAL Y MANUFACTURAS DE MADERA; CORCHO Y SUS MANUFACTURAS; MANUFACTURAS DE ESPARTERÍA O CESTERÍA
+## Sección IX — MADERA, CARBÓN VEGETAL Y MANUFACTURAS DE MADERA; CORCHO Y SUS
+MANUFACTURAS; MANUFACTURAS DE ESPARTERÍA O CESTERÍA
 
 ## Capítulo 44
 Madera, carbón vegetal y manufacturas de madera Notas. 1. Este Capítulo no comprende:
@@ -3998,7 +3997,7 @@ Tablas para pan, tablas para cortar y 4419.11 -artículos similares.
 Tablas para pan, tablas para cortar y 4419.11.01 Kg 15 Ex. artículos similares. 4419.12 -- Palillos. 4419.12.01 Palillos. Kg 15 Ex. 4419.19 -- Los demás. 4419.19.99 Los demás. Kg 15 Ex. 4419.20 - De maderas tropicales. 4419.20.01 De maderas tropicales. Kg 15 Ex. 4419.90 - Los demás. 4419.90.99 Los demás. Kg 15 Ex.
 Marquetería y taracea; cofrecillos y estuches para joyería u orfebrería y manufacturas similares, de madera; 44.20 estatuillas y demás objetos de adorno, de madera; artículos de mobiliario, de madera, no comprendidos en el
 
-## Capítulo 94.
+## Capítulo 94 — .
 - Estatuillas y demás objetos de adorno: 4420.11 -- De maderas tropicales. 4420.11.01 De Olinalá. Kg 15 Ex. 4420.11.99 Los demás. Kg 15 Ex. 4420.19 -- Los demás. 4420.19.99 Los demás. Kg 15 Ex. 4420.90 - Los demás. 4420.90.01 De Olinalá. Kg 15 Ex. 4420.90.99 Los demás. Kg 15 Ex. 44.21 Las demás manufacturas de madera. 4421.10 - Perchas para prendas de vestir. 4421.10.01 Perchas para prendas de vestir. Kg 15 Ex. 4421.20 - Ataúdes. 4421.20.01 Ataúdes. Kg 15 Ex. - Las demás: 4421.91 -- De bambú. 4421.91.01 Para fósforos; clavos para calzado. Kg 5 Ex. 4421.91.02 Tapones. Kg 10 Ex.
 Canillas, carretes y bobinas para la 4421.91.04 hilatura y el tejido, para hilo de coser y Kg 5 Ex. artículos similares de madera torneada. 4421.91.99 Los demás. Kg 15 Ex. 4421.99 -- Las demás. 4421.99.01 Para fósforos; clavos para calzado. Kg 5 Ex. 4421.99.02 Tapones. Kg 10 Ex.
 Canillas, carretes y bobinas para la 4421.99.04 hilatura y el tejido, para hilo de coser y Kg 5 Ex. artículos similares de madera torneada. 4421.99.99 Las demás. Kg 15 Ex. _______________
@@ -4041,8 +4040,8 @@ Trenzas y artículos similares, incluso 4601.94.01 Kg 15 Ex. ensamblados en tira
 Trenzas y artículos similares, incluso 4601.99.01 Kg 15 Ex. ensamblados en tiras. 4601.99.99 Los demás. Kg 10 Ex.
 Artículos de cestería obtenidos directamente en su forma con materia trenzable o confeccionados con 46.02 artículos de la partida 46.01; manufacturas de esponja vegetal (paste o "lufa"). - De materia vegetal: 4602.11 -- De bambú. 4602.11.01 De bambú. Kg 15 Ex. 4602.12 -- De ratán (roten). 4602.12.01 De ratán (roten). Kg 15 Ex. 4602.19 -- Los demás. 4602.19.99 Los demás. Kg 15 Ex. 4602.90 - Los demás. 4602.90.99 Los demás. Kg 15 Ex. _______________
 
-## Sección X
-PASTA DE MADERA O DE LAS DEMÁS MATERIAS FIBROSAS CELULÓSICAS; PAPEL O CARTÓN PARA RECICLAR (DESPERDICIOS Y DESECHOS); PAPEL O CARTÓN Y SUS APLICACIONES
+## Sección X — PASTA DE MADERA O DE LAS DEMÁS MATERIAS FIBROSAS CELULÓSICAS; PAPEL O
+CARTÓN PARA RECICLAR (DESPERDICIOS Y DESECHOS); PAPEL O CARTÓN Y SUS APLICACIONES
 
 ## Capítulo 47
 Pasta de madera o de las demás materias fibrosas celulósicas; papel o cartón para reciclar (desperdicios y desechos) Nota. 1. En la partida 47.02, se entiende por pasta química de madera para disolver la pasta química cuya fracción de pasta insoluble después de una hora en una disolución al 18% de hidróxido de sodio (NaOH) a 20°C, sea superior o igual al 92% en peso en la pasta de madera a la sosa (soda) o al sulfato o superior o igual al 88% en peso en la pasta de madera al sulfito, siempre que en este último caso el contenido de cenizas sea inferior o igual al 0.15% en peso.
@@ -4129,7 +4128,7 @@ b) las cenefas y frisos de papel, tratados como los anteriores, incluso en bobin
 c) los revestimientos murales de papel constituidos por varios paneles, en bobinas (rollos) o en hojas, impresos de modo que formen un paisaje, una figura u otro motivo después de colocados en la pared.
 Las manufacturas con soporte de papel o cartón susceptibles de utilizarse como cubresuelos o como revestimientos de paredes se clasifican en la partida 48.23. 10. La partida 48.20 no comprende las hojas y tarjetas sueltas, cortadas en formatos, incluso impresas, estampadas o perforadas. 11. Se clasifican, entre otros, en la partida 48.23, el papel y cartón perforados para mecanismos Jacquard o similares y los encajes de papel. 12. El papel, cartón, guata de celulosa y las manufacturas de estas materias, con impresiones o ilustraciones que no sean accesorias en relación con su utilización principal se clasifican en el
 
-## Capítulo 49, excepto los artículos de las partidas 48.14 y 48.21.
+## Capítulo 49 — , excepto los artículos de las partidas 48.14 y 48.21.
 Notas de subpartida. 1. En las subpartidas 4804.11 y 4804.19, se considera papel y cartón para caras (cubiertas) (“Kraftliner”), el papel y cartón alisados en ambas caras o satinados en una cara, presentados en bobinas (rollos) en los que el contenido de fibras de madera obtenidas por el procedimiento químico al sulfato o a la sosa (soda) sea superior o igual al 80% en peso del contenido total de fibra, de peso superior a 115 g/m² y con una resistencia mínima al estallido Mullen igual a los valores indicados en el cuadro siguiente o, para cualquier otro peso, sus equivalentes interpolados o extrapolados linealmente.
 Peso Resistencia mínima al estallido Mullen g/m² kPa _________ __________________________________ 115 393 125 417 200 637 300 824 400 961 2. En las subpartidas 4804.21 y 4804.29, se considera papel Kraft para sacos (bolsas) el papel alisado en ambas caras, presentado en bobinas (rollos), en el que el contenido de fibras obtenidas por el procedimiento químico al sulfato o a la sosa (soda) sea superior o igual al 80% en peso del contenido total de fibra, de peso superior o igual a 60 g/m² pero inferior o igual a 115 m2/g, y que responda a una de las condiciones siguientes:
 
@@ -4378,8 +4377,8 @@ Terapéutico-pedagógicos, reconocibles como diseñados exclusivamente para inst
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (se mantiene Imp. 25) Impresas a colores o en blanco y negro, presentadas para su venta en sobres o paquetes, aun cuando incluyan goma de mascar, dulces o cualquier otro tipo de artículos, conteniendo dibujos, figuras o 4911.91.05 Prohibida Prohibida Prohibida ilustraciones que representen a la niñez de manera denigrante o ridícula, en actitudes de incitación a la violencia, a la autodestrucción o en cualquier otra forma de comportamiento antisocial, conocidas como "Garbage Pail Kids", por ejemplo, impresas por cualquier empresa o denominación comercial. 4911.91.99 Los demás. Kg 15 Ex. 4911.99 -- Los demás. 4911.99.01 Cuadros murales para escuelas. Kg 5 Ex.
 Terapéutico-pedagógicos, reconocibles como diseñados exclusivamente para 4911.99.06 Kg 5 Ex. instituciones de educación especial o similares. 4911.99.99 Los demás. Kg 15 Ex. _______________
 
-## Sección XI
-MATERIAS TEXTILES Y SUS MANUFACTURAS Notas. 1. Esta Sección no comprende:
+## Sección XI — MATERIAS TEXTILES Y SUS MANUFACTURAS
+Notas. 1. Esta Sección no comprende:
 
 a) los pelos y cerdas para cepillería (partida 05.02), la crin y los desperdicios de crin (partida 05.11);
 
@@ -4407,7 +4406,7 @@ n) el calzado y sus partes, polainas y artículos similares, del Capítulo 64;
 
 o) las redecillas para el cabello y los sombreros y demás tocados, y sus partes, del
 
-## Capítulo 65;
+## Capítulo 65 — ;
 p) los productos del Capítulo 67;
 
 q) los productos textiles recubiertos de abrasivos (partida 68.05), así como las fibras de carbono y las manufacturas de estas fibras, de la partida 68.15;
@@ -4911,7 +4910,7 @@ b) por disolución o tratamiento químico de polímeros orgánicos naturales (po
 Se consideran sintéticas las fibras definidas en a) y artificiales las definidas en b). Las tiras y formas similares de la partida 54.04 o 54.05 no se consideran fibras sintéticas o artificiales.
 Los términos sintético y artificial se aplican también, con el mismo sentido, a la expresión materia textil. 2. Las partidas 54.02 y 54.03 no comprenden los cables de filamentos sintéticos o artificiales del
 
-## Capítulo 55.
+## Capítulo 55 — .
 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP.
 Hilo de coser de filamentos sintéticos o 54.01 artificiales, incluso acondicionado para la venta al por menor. 5401.10 - De filamentos sintéticos. 5401.10.01 De filamentos sintéticos. Kg 10 Ex. 5401.20 - De filamentos artificiales. 5401.20.01 De filamentos artificiales. Kg 10 Ex.
 Hilados de filamentos sintéticos (excepto el hilo de coser) sin 54.02 acondicionar para la venta al por menor, incluidos los monofilamentos sintéticos de título inferior a 67 decitex.
@@ -4981,10 +4980,10 @@ Fracción reformada DOF 29-12-2025 (antes Imp. 10) Tejidos fabricados con tiras 
 Tejidos fabricados con tiras o formas 5407.20.02 similares. M² 25 Ex.
 Fracción reformada DOF 29-12-2025 (antes Imp. 10) Productos citados en la Nota 9 de la 5407.30 -
 
-## Sección XI.
+## Sección XI — .
 Productos citados en la Nota 9 de la 5407.30.04 M² 10 Ex.
 
-## Sección XI.
+## Sección XI — .
 Los demás tejidos con un contenido de - filamentos de nailon o demás poliamidas superior o igual al 85% en peso: 5407.41 -- Crudos o blanqueados.
 Crudos o blanqueados. 5407.41.05 M² 25 Ex.
 Fracción reformada DOF 29-12-2025 (antes Imp. 10) 5407.42 -- Teñidos.
@@ -6361,8 +6360,8 @@ Fracción reformada DOF 29-12-2025 (antes Imp. 20) 6310.90 - Los demás.
 Los demás. 6310.90.99 Kg 25 Ex.
 Fracción reformada DOF 29-12-2025 (antes Imp. 20) _______________
 
-## Sección XII
-CALZADO, SOMBREROS Y DEMÁS TOCADOS, PARAGUAS, QUITASOLES, BASTONES, LÁTIGOS, FUSTAS, Y SUS PARTES; PLUMAS PREPARADAS Y ARTÍCULOS DE PLUMAS;
+## Sección XII — CALZADO, SOMBREROS Y DEMÁS TOCADOS, PARAGUAS, QUITASOLES, BASTONES,
+LÁTIGOS, FUSTAS, Y SUS PARTES; PLUMAS PREPARADAS Y ARTÍCULOS DE PLUMAS;
 FLORES ARTIFICIALES; MANUFACTURAS DE CABELLO
 
 ## Capítulo 64
@@ -6549,8 +6548,8 @@ Cabello peinado, afinado, blanqueado o preparado de otra forma; lana, pelo u otr
 Cabello peinado, afinado, blanqueado o preparado de otra forma; lana, pelo u otra 6703.00.01 Kg 15 Ex. materia textil, preparados para la fabricación de pelucas o artículos similares.
 Pelucas, barbas, cejas, pestañas, mechones y artículos análogos, de 67.04 cabello, pelo o materia textil; manufacturas de cabello no expresadas ni comprendidas en otra parte. - De materias textiles sintéticas: 6704.11 -- Pelucas que cubran toda la cabeza. 6704.11.01 Pelucas que cubran toda la cabeza. Kg Ex. Ex. 6704.19 -- Los demás. 6704.19.99 Los demás. Kg Ex. Ex. 6704.20 - De cabello. 6704.20.01 De cabello. Kg Ex. Ex. 6704.90 - De las demás materias. 6704.90.91 De las demás materias. Kg 15 Ex. _______________
 
-## Sección XIII
-MANUFACTURAS DE PIEDRA, YESO FRAGUABLE, CEMENTO, AMIANTO (ASBESTO), MICA O MATERIAS ANÁLOGAS; PRODUCTOS CERÁMICOS; VIDRIO Y SUS MANUFACTURAS
+## Sección XIII — MANUFACTURAS DE PIEDRA, YESO FRAGUABLE, CEMENTO, AMIANTO (ASBESTO),
+MICA O MATERIAS ANÁLOGAS; PRODUCTOS CERÁMICOS; VIDRIO Y SUS MANUFACTURAS
 
 ## Capítulo 68
 Manufacturas de piedra, yeso fraguable, cemento, amianto (asbesto), mica o materias análogas Notas. 1. Este Capítulo no comprende:
@@ -6649,7 +6648,7 @@ a) las partidas 69.04 a 69.14 comprenden exclusivamente los productos que no pue
 
 b) no se pueden considerar cocidos los productos que se han calentado a temperaturas inferiores a 800°C para provocar el endurecimiento de las resinas que contienen, la aceleración de las reacciones de hidratación o la eliminación de agua o de otras sustancias volátiles eventualmente presentes. Estos productos están excluidos del
 
-## Capítulo 69;
+## Capítulo 69 — ;
 c) los artículos cerámicos se obtienen cociendo materias no metálicas inorgánicas después de haberlas preparado y de darles forma previamente, normalmente a temperatura ambiente. Las materias primas utilizadas son entre otras la arcilla, materias silíceas (incluida la sílice fundida), materias con punto de fusión elevado tales como los óxidos, carburos, nitruros, grafito u otros carbonos y, en algunos casos, aglomerantes tales como arcillas refractarias y fosfatos. 2. Este Capítulo no comprende:
 
 a) los productos de la partida 28.44;
@@ -6732,7 +6731,7 @@ g) las luminarias y los aparatos de alumbrado, los anuncios, letreros y placas i
 
 h) los juegos, juguetes y accesorios para árboles de Navidad, así como los demás artículos del
 
-## Capítulo 95, excepto los ojos sin mecanismo para muñecas o demás artículos del Capítulo
+## Capítulo 95 — , excepto los ojos sin mecanismo para muñecas o demás artículos del Capítulo
 95; ij) los botones, pulverizadores, termos y demás artículos del Capítulo 96. 2. En las partidas 70.03, 70.04 y 70.05:
 
 a) el vidrio elaborado antes del recocido no se considera trabajado;
@@ -6860,8 +6859,8 @@ Tejidos de malla abierta, de anchura 7019.66 -superior a 30 cm.
 De ligamento tafetán, con peso inferior a 7019.66.01 250 g/m², de filamentos de título inferior o Kg 5 Ex. igual a 136 tex por hilo sencillo, sin recubrir. 7019.66.99 Los demás. Kg Ex. Ex. 7019.69 -- Las demás. 7019.69.99 Las demás. Kg Ex. Ex. - Telas unidas químicamente: 7019.71 -- Velos (capas delgadas). 7019.71.01 Velos (capas delgadas). Kg Ex. Ex. 7019.72 -- Las demás telas de malla cerrada. 7019.72.91 Las demás telas de malla cerrada. Kg Ex. Ex. 7019.73 -- Las demás telas de malla abierta. 7019.73.91 Las demás telas de malla abierta. Kg Ex. Ex. 7019.80 - Lana de vidrio y sus manufacturas. 7019.80.01 Lana de vidrio y sus manufacturas. Kg Ex. Ex. 7019.90 - Las demás.
 De anchura superior a 30 cm, de ligamento tafetán, con peso inferior a 250 g/m², de 7019.90.01 Kg 5 Ex. filamentos de título inferior o igual a 136 tex por hilo sencillo, sin recubrir. 7019.90.99 Las demás. Kg Ex. Ex. 70.20 Las demás manufacturas de vidrio. 7020.00 Las demás manufacturas de vidrio. 7020.00.91 Las demás manufacturas de vidrio. Kg Ex. Ex. _______________
 
-## Sección XIV
-PERLAS NATURALES (FINAS) O CULTIVADAS, PIEDRAS PRECIOSAS O SEMIPRECIOSAS, METALES PRECIOSOS, CHAPADOS DE METAL PRECIOSO (PLAQUÉ) Y MANUFACTURAS DE ESTAS MATERIAS; BISUTERÍA; MONEDAS
+## Sección XIV — PERLAS NATURALES (FINAS) O CULTIVADAS, PIEDRAS PRECIOSAS O
+SEMIPRECIOSAS, METALES PRECIOSOS, CHAPADOS DE METAL PRECIOSO (PLAQUÉ) Y MANUFACTURAS DE ESTAS MATERIAS; BISUTERÍA; MONEDAS
 
 ## Capítulo 71
 Perlas naturales (finas) o cultivadas, piedras preciosas o semipreciosas, metales preciosos, chapados de metal precioso (plaqué) y manufacturas de estas materias; bisutería; monedas Notas. 1. Sin perjuicio de la aplicación de la Nota 1 A) de la Sección VI y de las excepciones previstas a continuación, se incluye en este Capítulo cualquier artículo compuesto total o parcialmente:
@@ -6976,8 +6975,8 @@ Partes o piezas sueltas, de metales 7117.90.01 comunes, sin dorar o platear, inc
 Monedas sin curso legal, excepto las de oro.
 Arancel modificado con vigencia temporal DOF 15-08-2023 7118.10.01 Pza 35 Ex. (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) 7118.90 - Las demás. 7118.90.99 Las demás. Pza Ex. Ex. _______________
 
-## Sección XV
-METALES COMUNES Y MANUFACTURAS DE ESTOS METALES Notas. 1. Esta Sección no comprende:
+## Sección XV — METALES COMUNES Y MANUFACTURAS DE ESTOS METALES
+Notas. 1. Esta Sección no comprende:
 
 a) los colores y tintas preparados a base de polvo o escamillas metálicos, así como las hojas para el marcado a fuego (partidas 32.07 a 32.10, 32.12, 32.13 o 32.15);
 
@@ -7032,7 +7031,7 @@ b) Polvo el producto que pase por un tamiz con abertura de malla de 1 mm en prop
 a) Barras los productos laminados, extrudidos, estirados o forjados, sin enrollar, cuya sección transversal, maciza y constante en toda su longitud, tenga forma de círculo, óvalo, cuadrado, rectángulo, triángulo equilátero o polígono regular convexo (incluidos los círculos aplanados y los rectángulos modificados, en los que dos lados opuestos tengan forma de arco convexo y los otros dos sean rectos, iguales y paralelos). Los productos de sección transversal cuadrada, rectangular, triangular o poligonal, pueden tener las aristas redondeadas en toda su longitud. El espesor de los productos de sección transversal rectangular (incluidos los de sección rectangular modificada) debe ser superior a la décima parte de la anchura. También se consideran barras, los productos de las mismas formas y dimensiones, moldeados, colados o sinterizados, que han recibido, después de su obtención, un trabajo superior a un desbarbado grosero, siempre que este trabajo no confiera a los productos el carácter de artículos o manufacturas comprendidos en otra parte.
 Sin embargo, las barras para alambrón (“wire-bars”) y los tochos, del Capítulo 74, apuntados o simplemente trabajados de otro modo en sus extremos, para facilitar su introducción en las máquinas para transformarlos, por ejemplo, en alambrón o en tubos, se consideran cobre en bruto de la partida 74.03. Esta disposición se aplica mutatis mutandis a los productos del
 
-## Capítulo 81.
+## Capítulo 81 — .
 b) Perfiles los productos laminados, extrudidos, estirados, forjados u obtenidos por conformado o plegado, enrollados o sin enrollar, de sección transversal constante en toda su longitud, que no cumplan las definiciones de barras, alambre, chapas, hojas, tiras o tubos. También se consideran perfiles, los productos de las mismas formas, moldeados, colados o sinterizados, que han recibido, después de su obtención, un trabajo superior a un desbarbado grosero, siempre que este trabajo no confiera a los productos el carácter de artículos o manufacturas comprendidos en otra parte.
 
 c) Alambre el producto laminado, extrudido o trefilado, enrollado, cuya sección transversal maciza y constante en toda su longitud, tenga forma de círculo, óvalo, cuadrado, rectángulo, triángulo equilátero o polígono regular convexo (incluidos los círculos aplanados y los rectángulos modificados, en los que dos lados opuestos tengan forma de arco convexo y los otros dos sean rectos, iguales y paralelos). Los productos de sección transversal cuadrada, rectangular, triangular o poligonal, pueden tener las aristas redondeadas en toda su longitud.
@@ -7984,7 +7983,7 @@ Fracción reformada DOF 29-12-2025 (antes Imp. 3) Casquillos troquelados, recono
 Arancel modificado con vigencia temporal DOF 15-08-2023 (antes Imp. Ex.) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) Fracción reformada DOF 29-12-2025 (mantiene Imp. 35) Las demás. 7616.99.99 Kg 25 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 15) _______________
 
-## Capítulo 78 (Sic DOF 07-06-2022)
+## Capítulo 78 — (Sic DOF 07-06-2022)
 Plomo y sus manufacturas Nota de subpartida. 1. En este Capítulo, se entiende por plomo refinado: el metal con un contenido de plomo superior o igual al 99.9% en peso, siempre que el contenido en peso de cualquier otro elemento sea inferior o igual a los límites indicados en el cuadro siguiente:
 CUADRO - Otros elementos Elemento Contenido límite % en peso Ag Plata 0.02 As Arsénico 0.005 Bi Bismuto 0.05 Ca Calcio 0.002 Cd Cadmio 0.002 Cu Cobre 0.08 Fe Hierro 0.002 S Azufre 0.002 Sb Antimonio 0.005 Sn Estaño 0.005 Zn Cinc 0.002 Los demás (por ejemplo, Te), cada uno 0.001 CUOTA (ARANCEL) CÓDIGO DESCRIPCIÓN UNIDAD IMPUESTO IMPUESTO DE IMP. DE EXP. 78.01 Plomo en bruto. 7801.10 - Plomo refinado. 7801.10.01 Plomo refinado. Kg Ex. Ex. - Los demás:
 Con antimonio como el otro elemento 7801.91 -predominante en peso.
@@ -8227,8 +8226,8 @@ Hilos o varillas de polvo de metal común 8311.90.05 aglomerado, para la metaliz
 Los demás. 8311.90.99 Kg 30 Ex.
 Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 5) _______________
 
-## Sección XVI
-MÁQUINAS Y APARATOS, MATERIAL ELÉCTRICO Y SUS PARTES; APARATOS DE GRABACIÓN O REPRODUCCIÓN DE SONIDO, APARATOS DE GRABACIÓN O REPRODUCCIÓN DE IMAGEN Y SONIDO EN TELEVISIÓN, Y LAS PARTES Y ACCESORIOS DE ESTOS APARATOS Notas. 1. Esta Sección no comprende:
+## Sección XVI — MÁQUINAS Y APARATOS, MATERIAL ELÉCTRICO Y SUS PARTES; APARATOS DE
+GRABACIÓN O REPRODUCCIÓN DE SONIDO, APARATOS DE GRABACIÓN O REPRODUCCIÓN DE IMAGEN Y SONIDO EN TELEVISIÓN, Y LAS PARTES Y ACCESORIOS DE ESTOS APARATOS Notas. 1. Esta Sección no comprende:
 
 a) las correas transportadoras o de transmisión de plástico del Capítulo 39, o de caucho vulcanizado (partida 40.10) y demás artículos de los tipos utilizados en máquinas o aparatos mecánicos o eléctricos o para otros usos técnicos, de caucho vulcanizado sin endurecer (partida 40.16);
 
@@ -8274,7 +8273,7 @@ b) son embalados o enviados de tal manera que los artículos no están protegido
 B) Los envíos que contengan una mezcla de desperdicios y desechos eléctricos y electrónicos y de otros desperdicios y desechos, deben clasificarse en la partida 85.49.
 C) Esta Sección no comprende los desechos municipales, tal como se definen en la Nota 4 del
 
-## Capítulo 38.
+## Capítulo 38 — .
 _______________
 
 ## Capítulo 84
@@ -9582,8 +9581,8 @@ Que contengan pilas, baterías de 8549.31.01 Kg 15 Ex. pilas, acumuladores eléc
 Que contengan pilas, baterías de pilas, acumuladores eléctricos, interruptores de mercurio, vidrio de tubos de rayos catódicos u otros 8549.91 -vidrios activados, o componentes eléctricos o electrónicos que contengan cadmio, mercurio, plomo o bifenilos policlorados (PCB).
 Que contengan pilas, baterías de pilas, acumuladores eléctricos, interruptores de mercurio, vidrio de tubos de rayos catódicos u otros 8549.91.01 Kg 15 Ex. vidrios activados, o componentes eléctricos o electrónicos que contengan cadmio, mercurio, plomo o bifenilos policlorados (PCB). 8549.99 -- Los demás. 8549.99.99 Los demás. Kg 15 Ex. _______________
 
-## Sección XVII
-MATERIAL DE TRANSPORTE Notas. 1. Esta Sección no comprende los artículos de las partidas 95.03 o 95.08 ni los toboganes, “bobsleighs” y similares (partida 95.06). 2. No se consideran partes o accesorios de material de transporte, aunque sean identificables como tales:
+## Sección XVII — MATERIAL DE TRANSPORTE
+Notas. 1. Esta Sección no comprende los artículos de las partidas 95.03 o 95.08 ni los toboganes, “bobsleighs” y similares (partida 95.06). 2. No se consideran partes o accesorios de material de transporte, aunque sean identificables como tales:
 
 a) las juntas o empaquetaduras, arandelas y similares, de cualquier materia (régimen de la materia constitutiva o partida 84.84), así como los demás artículos de caucho vulcanizado sin endurecer (partida 40.16);
 
@@ -10040,8 +10039,8 @@ Barcos y demás artefactos flotantes 89.08 para desguace.
 Barcos y demás artefactos flotantes para 8908.00 desguace.
 Barcos y demás artefactos flotantes para 8908.00.01 Pza Ex. Ex. desguace. _______________
 
-## Sección XVIII
-INSTRUMENTOS Y APARATOS DE ÓPTICA, FOTOGRAFÍA O CINEMATOGRAFÍA, DE MEDIDA, CONTROL O PRECISIÓN; INSTRUMENTOS Y APARATOS MEDICOQUIRÚRGICOS; APARATOS DE RELOJERÍA; INSTRUMENTOS MUSICALES;
+## Sección XVIII — INSTRUMENTOS Y APARATOS DE ÓPTICA, FOTOGRAFÍA O CINEMATOGRAFÍA, DE
+MEDIDA, CONTROL O PRECISIÓN; INSTRUMENTOS Y APARATOS MEDICOQUIRÚRGICOS; APARATOS DE RELOJERÍA; INSTRUMENTOS MUSICALES;
 PARTES Y ACCESORIOS DE ESTOS INSTRUMENTOS O APARATOS
 
 ## Capítulo 90
@@ -10362,8 +10361,7 @@ Partes y accesorios de instrumentos 9209.92.01 Kg Ex. Ex. musicales de la partid
 Partes y accesorios de instrumentos 9209.94 -musicales de la partida 92.07.
 Gabinetes, muebles o sus partes, para 9209.94.01 Kg 5 Ex. pianos. 9209.94.99 Los demás. Kg Ex. Ex. 9209.99 -- Los demás. 9209.99.99 Los demás. Kg Ex. Ex. _______________
 
-## Sección XIX
-ARMAS, MUNICIONES, Y SUS PARTES Y ACCESORIOS
+## Sección XIX — ARMAS, MUNICIONES, Y SUS PARTES Y ACCESORIOS
 
 ## Capítulo 93
 Armas, municiones, y sus partes y accesorios Notas. 1. Este Capítulo no comprende:
@@ -10405,8 +10403,7 @@ Sables, espadas, bayonetas, lanzas y 93.07 demás armas blancas, sus partes y fu
 Sables, espadas, bayonetas, lanzas y 9307.00 demás armas blancas, sus partes y fundas.
 Sables, espadas, bayonetas, lanzas y 9307.00.01 demás armas blancas, sus partes y Pza 15 Ex. fundas. _______________
 
-## Sección XX
-MERCANCÍAS Y PRODUCTOS DIVERSOS
+## Sección XX — MERCANCÍAS Y PRODUCTOS DIVERSOS
 
 ## Capítulo 94
 Muebles; mobiliario medicoquirúrgico; artículos de cama y similares; luminarias y aparatos de alumbrado no expresados ni comprendidos en otra parte; anuncios, letreros y placas indicadoras, luminosos y artículos similares; construcciones prefabricadas Notas. 1. Este Capítulo no comprende:
@@ -10550,7 +10547,7 @@ b) los artículos de pirotecnia para diversión de la partida 36.04;
 
 c) los hilados, monofilamentos, cordones, cuerdas de tripa y similares para la pesca, incluso cortados en longitudes determinadas, pero sin montar en sedal (tanza) con anzuelo, del
 
-## Capítulo 39, partida 42.06 o Sección XI;
+## Capítulo 39 — , partida 42.06 o Sección XI;
 d) las bolsas para artículos de deporte y demás continentes, de las partidas 42.02, 43.03 o 43.04;
 
 e) los disfraces de materia textil, de los Capítulos 61 o 62; las prendas de vestir de deporte y prendas especiales de materia textil, de los Capítulos 61 o 62, incluso las que incorporen accesoriamente elementos de protección, tales como placas protectoras o acolchado en las partes correspondientes a los codos, las rodillas o la ingle (por ejemplo: prendas para esgrima o suéteres (jerseys) para porteros (arqueros) de fútbol);
@@ -10787,8 +10784,7 @@ Monopies, bípodes, trípodes y artículos 9620.00 similares. 9620.00.01 Tripies
 De madera; de aluminio, excepto lo 9620.00.02 comprendido en la fracción arancelaria Kg 15 Ex. 9620.00.04.
 De las materias indicadas en la Partida 68.15. 9620.00.03 Arancel modificado con vigencia temporal DOF 15-08-2023 Kg 35 Ex. (antes Imp. 5) Arancel modificado con vigencia temporal DOF 22-04-2024 (antes Imp. 25) De máquinas o aparatos comprendidos en el Capítulo 84, excepto para las 9620.00.04 Kg 5 Ex. máquinas o aparatos de las partidas 84.28 u 84.71. 9620.00.99 Los demás. Kg Ex. Ex. _______________
 
-## Sección XXI
-OBJETOS DE ARTE O COLECCIÓN Y ANTIGÜEDADES
+## Sección XXI — OBJETOS DE ARTE O COLECCIÓN Y ANTIGÜEDADES
 
 ## Capítulo 97
 Objetos de arte o colección y antigüedades Notas. 1. Este Capítulo no comprende:
@@ -10832,8 +10828,7 @@ Objetos de interés histórico, que no hayan sido declarados monumentos arqueol�
 República o el Secretario de Cultura, por conducto del titular del Instituto competente.
 Descripción modificada DOF 18-11-2022 9705.39.99 Las demás. Pza Ex. Ex. 97.06 Antigüedades de más de cien años. 9706.10 - De más de 250 años. 9706.10.01 De más de 250 años. Pza Ex. Ex. 9706.90 - Las demás. 9706.90.99 Las demás. Pza Ex. Ex. _______________
 
-## Sección XXII
-OPERACIONES ESPECIALES
+## Sección XXII — OPERACIONES ESPECIALES
 
 ## Capítulo 98
 Operaciones especiales Notas. 1. Cuando por su naturaleza, composición, presentación o denominación, las mercancías pudieran ser clasificadas en otros Capítulos de la Nomenclatura, éstas se clasificarán en el presente Capítulo cuando correspondan a alguna de las siguientes operaciones especiales:
@@ -10938,7 +10933,7 @@ Secretarías de Medio Ambiente y Recursos Naturales, y de Economía.
 Maquinaria, equipo, instrumentos, materiales, animales, plantas y demás artículos para investigación o desarrollos tecnológicos, cuando los centros públicos de investigación, universidades públicas y privadas, instituciones de investigación 9806.00.03 científica y tecnológica, personas físicas y Kg Ex. Ex. morales, inscritos en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, se sujeten a los lineamientos establecidos por la Secretaría de Economía y el Consejo Nacional de Ciencia y Tecnología.
 Equipos y artículos reconocibles como destinados exclusivamente a compensar una disfunción corporal de personas con 9806.00.04 discapacidad, excepto lo comprendido en Pza Ex. Ex. las fracciones arancelarias 8713.10.01 y 8713.90.99, y excepto los vehículos del
 
-## Capítulo 87.
+## Capítulo 87 — .
 Mercancías destinadas a la reparación o 9806.00.05 mantenimiento de naves aéreas o Kg Ex. Ex. aeropartes.
 Mercancías, insumos, partes y componentes para el submontaje, montaje o producción de aeronaves o aeropartes destinadas a usos en materia de aviación civil, cuando las empresas 9806.00.06 cuenten con la aprobación de producción Kg Ex. Ex. de productos aeronáuticos y sus artículos, en cualquiera de sus tipos, emitida por la Secretaría de Infraestructura, Comunicaciones y Transportes a través de la Agencia Federal de Aviación Civil.
 Descripción modificada DOF 18-11-2022 Archivos (expedientes) conteniendo, entre otros, diagnósticos médicos, 9806.00.07 Kg Ex. Ex. radiografías, fluorangiografías, resultados de laboratorio, electrocardiogramas.

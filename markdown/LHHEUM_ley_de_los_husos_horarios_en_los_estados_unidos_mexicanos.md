@@ -12,7 +12,8 @@ SE EXPIDE LA
 
 ### Artículo Único
 Se expide la Ley de los Husos Horarios en los Estados Unidos Mexicanos.
-Capítulo Primero Disposiciones Generales
+
+## Capítulo Primero — Disposiciones Generales
 
 ### Artículo 1
 . La presente Ley es de observancia obligatoria en todo el territorio nacional; sus disposiciones son de orden público e interés general; su aplicación y vigilancia está a cargo del Ejecutivo Federal por conducto de las dependencias que conforme a la Ley Orgánica de la Administración Pública Federal tengan asignada competencia sobre la materia que regula el presente ordenamiento.
@@ -35,7 +36,8 @@ V. Las islas, arrecifes y cayos quedarán comprendidos dentro del meridiano al c
 
 ### Artículo 4
 . En el territorio nacional habrá un horario estándar que se establecerá de acuerdo con las zonas horarias que correspondan de conformidad con el artículo anterior. Únicamente se aplicará un horario estacional para los estados y municipios de la frontera norte, conforme a lo señalado por el capítulo segundo de la presente Ley.
-Capítulo Segundo Del Horario Estacional en la Frontera Norte
+
+## Capítulo Segundo — Del Horario Estacional en la Frontera Norte
 
 ### Artículo 5
 . Únicamente en la frontera norte del territorio nacional se aplicará un horario estacional conforme a las siguientes reglas:
@@ -47,7 +49,9 @@ Fracción reformada DOF 29-11-2022
 
 III. Para el Estado de Baja California, así como para los municipios de Janos, Ascensión, Juárez, Praxedis G. Guerrero y Guadalupe, del Estado de Chihuahua, acorde a sus correlativos a su franja fronteriza, se aplica el meridiano 105 grados al oeste de Greenwich.
 Fracción adicionada DOF 29-11-2022 El horario estacional fronterizo norte surtirá efecto desde las dos horas del segundo domingo de marzo, y concluirá a las dos horas del primer domingo de noviembre.
-Capítulo Tercero De las modificaciones a los husos horarios en las Entidades Federativas y Municipios
+
+## Capítulo Tercero
+De las modificaciones a los husos horarios en las Entidades Federativas y Municipios
 
 ### Artículo 6
 . Para el caso de que una entidad federativa pretenda adoptar una de las zonas horarias o los horarios estacionales a los que se refiere la presente Ley, el Congreso local correspondiente podrá enviar al Congreso de la Unión, la iniciativa por la que se modifica la zona horaria o el horario estacional que deba aplicarse a la entidad o municipio.

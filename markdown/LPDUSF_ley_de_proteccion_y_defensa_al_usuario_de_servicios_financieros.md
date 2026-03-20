@@ -8,7 +8,10 @@
 Nueva Ley publicada en el Diario Oficial de la Federación el 18 de enero de 1999 TEXTO VIGENTE Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-TÍTULO PRIMERO CAPÍTULO ÚNICO DISPOSICIONES GENERALES
+
+## TÍTULO PRIMERO
+
+## CAPÍTULO ÚNICO — DISPOSICIONES GENERALES
 
 ### Artículo 1o
 .- La presente Ley tiene por objeto la protección y defensa de los derechos e intereses del público usuario de los servicios financieros, que prestan las instituciones públicas, privadas y del sector social debidamente autorizadas, así como regular la organización, procedimientos y funcionamiento de la entidad pública encargada de dichas funciones.
@@ -81,10 +84,10 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 9o
 .- Las relaciones de trabajo entre la Comisión Nacional y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional, y las condiciones generales de trabajo que al efecto se determinen. Los trabajadores de la Comisión Nacional quedan incorporados al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-TÍTULO SEGUNDO DE LAS FACULTADES, DIRECCIÓN Y ADMINISTRACIÓN DE LA COMISIÓN NACIONAL
 
-## CAPÍTULO I
-DE LAS FACULTADES DE LA COMISIÓN NACIONAL
+## TÍTULO SEGUNDO — DE LAS FACULTADES, DIRECCIÓN Y ADMINISTRACIÓN DE LA COMISIÓN NACIONAL
+
+## CAPÍTULO I — DE LAS FACULTADES DE LA COMISIÓN NACIONAL
 
 ### Artículo 10
 .- La Comisión Nacional cuenta con plena autonomía técnica para dictar sus resoluciones y laudos, y facultades de autoridad para imponer las sanciones previstas en esta Ley.
@@ -229,8 +232,7 @@ Artículo reformado DOF 10-01-2014
 ### Artículo 15
 .- La Comisión Nacional y sus servidores públicos, según sea el caso, estarán obligados a reparar los daños y perjuicios que se causen en caso de revelación del secreto bancario, fiduciario o bursátil, en términos de la legislación aplicable.
 
-## CAPÍTULO II
-DE LA DIRECCIÓN Y ADMINISTRACIÓN DE LA COMISIÓN NACIONAL
+## CAPÍTULO II — DE LA DIRECCIÓN Y ADMINISTRACIÓN DE LA COMISIÓN NACIONAL
 
 ### Artículo 16
 .- La Comisión Nacional contará con una Junta de Gobierno, así como con un Presidente, a quienes corresponderá su dirección y administración, en el ámbito de las facultades que la presente Ley les confiere.
@@ -386,10 +388,10 @@ Fracción reformada DOF 25-06-2009 (se recorre) El Presidente ejercerá sus func
 
 ### Artículo 27
 .- Son facultades indelegables del Presidente las señaladas en las fracciones VII, VIII, X, XI, XII, XIII, XIV y XVI del artículo anterior. Sin perjuicio de lo anterior, el Presidente podrá delegar en otros servidores públicos de la Comisión Nacional, el encargo de notificar los acuerdos de la Junta.
-TÍTULO TERCERO DE LA ORGANIZACIÓN Y PATRIMONIO DE LA COMISIÓN NACIONAL
 
-## CAPÍTULO I
-DE LA ORGANIZACIÓN DE LA COMISIÓN NACIONAL
+## TÍTULO TERCERO — DE LA ORGANIZACIÓN Y PATRIMONIO DE LA COMISIÓN NACIONAL
+
+## CAPÍTULO I — DE LA ORGANIZACIÓN DE LA COMISIÓN NACIONAL
 
 ### Artículo 28
 .- El Presidente, para el cumplimiento de las facultades que esta Ley y demás disposiciones le atribuyen, será auxiliado por los funcionarios que determine el Estatuto Orgánico.
@@ -412,8 +414,7 @@ Artículo reformado DOF 25-06-2009
 ### Artículo 32
 .- Como auxiliar de la Comisión Nacional, funcionarán un Consejo Consultivo Nacional para la Protección de los Intereses de los Usuarios, así como los demás Consejos Consultivos Regionales, Estatales o Locales que, en su caso, considere necesario la Junta.
 
-## CAPÍTULO II
-DE LOS CONSEJOS CONSULTIVOS DE LA COMISIÓN NACIONAL
+## CAPÍTULO II — DE LOS CONSEJOS CONSULTIVOS DE LA COMISIÓN NACIONAL
 
 ### Artículo 33
 .- El Consejo Consultivo Nacional estará integrado por el Presidente quien lo presidirá, así como por dos representantes de la Secretaría, un representante por cada una de las Comisiones Nacionales, tres representantes de las Instituciones Financieras y tres más de los Usuarios.
@@ -450,8 +451,7 @@ Artículo reformado DOF 05-01-2000
 .- Las demás disposiciones relativas a la organización y funcionamiento de los Consejos Consultivos, se establecerán en el Estatuto Orgánico.
 Artículo reformado DOF 05-01-2000
 
-## CAPÍTULO III
-DE LA VIGILANCIA Y CONTROL DE LA COMISIÓN NACIONAL
+## CAPÍTULO III — DE LA VIGILANCIA Y CONTROL DE LA COMISIÓN NACIONAL
 
 ### Artículo 39
 . Para la vigilancia y control de la Comisión Nacional, la Secretaría de la Función Pública designará un Comisario Público Propietario y uno Suplente, quienes actuarán ante la Junta, independientemente del órgano de control interno a que se refiere este Capítulo.
@@ -470,8 +470,7 @@ Artículo reformado DOF 05-01-2000, 09-04-2012
 ### Artículo 43
 .- El Congreso de la Unión podrá solicitar a la Comisión que le envíe la información que requiera acerca del desarrollo de sus actividades. La Comisión, previa aprobación de la Junta de Gobierno, y por conducto de la Secretaría, enviará la información requerida.
 
-## CAPÍTULO IV
-DEL PATRIMONIO DE LA COMISIÓN NACIONAL
+## CAPÍTULO IV — DEL PATRIMONIO DE LA COMISIÓN NACIONAL
 
 ### Artículo 44
 .- El patrimonio de la Comisión Nacional está constituido por:
@@ -491,11 +490,10 @@ VI. Cualquier otro ingreso respecto del cual la Comisión Nacional resulte benef
 ### Artículo 45
 .- La Comisión Nacional se considera de acreditada solvencia y, por lo tanto, no estará obligado a constituir depósitos o fianza legal de ninguna clase, o cualquiera otra garantía, ni aun tratándose del juicio de amparo.
 
-## TÍTULO CUARTO
-DEL REGISTRO DE PRESTADORES DE SERVICIOS FINANCIEROS Y DE LA INFORMACIÓN A LOS USUARIOS
+## TÍTULO CUARTO — DEL REGISTRO DE PRESTADORES DE SERVICIOS FINANCIEROS Y DE LA
+INFORMACIÓN A LOS USUARIOS
 
-## CAPÍTULO I
-DEL REGISTRO DE PRESTADORES DE SERVICIOS FINANCIEROS
+## CAPÍTULO I — DEL REGISTRO DE PRESTADORES DE SERVICIOS FINANCIEROS
 
 ### Artículo 46
 .- La Comisión Nacional tendrá a su cargo el Registro de Prestadores de Servicios Financieros, cuya organización y funcionamiento se sujetará a las disposiciones que al efecto expida la propia Comisión Nacional.
@@ -543,8 +541,7 @@ En el caso de que las Instituciones Financieras no tengan sucursales u oficinas 
 Párrafo adicionado DOF 09-03-2018 Las Unidades Especializadas serán supervisadas por la Comisión Nacional.
 Párrafo adicionado DOF 10-01-2014 Artículo adicionado DOF 05-01-2000
 
-## CAPÍTULO II
-DE LA INFORMACIÓN A LOS USUARIOS
+## CAPÍTULO II — DE LA INFORMACIÓN A LOS USUARIOS
 
 ### Artículo 51
 .- Con objeto de crear y fomentar entre los Usuarios una cultura adecuada del uso de las operaciones y servicios financieros, la Comisión Nacional se encargará de difundir entre los mismos la información relativa a los distintos servicios que ofrecen las Instituciones Financieras, así como de los programas que se otorguen en beneficio de los Usuarios.
@@ -599,10 +596,11 @@ Artículo adicionado DOF 15-06-2007
 Bis 1.- La Comisión Nacional podrá realizar todas las acciones necesarias para tratar de resolver las controversias que se le plantean, antes de iniciar con los Procedimientos previstos en el Título Quinto de esta Ley, para lo cual gestionará ante las Instituciones Financieras los asuntos de los usuarios, usando para ello cualquier medio de comunicación y proponiendo soluciones concretas a fin de lograr un arreglo pronto entre las partes.
 De haberse logrado un arreglo entre el Usuario y la Institución Financiera, la Comisión Nacional deberá asentar en un acuerdo los compromisos adquiridos, y dejando constancia en el mismo que la Institución Financiera acreditó el cumplimiento a lo acordado.
 En caso contrario, el usuario podrá presentar su reclamación, en términos de lo previsto por el artículo 63 de esta Ley.
-Artículo adicionado DOF 15-06-2007 TÍTULO QUINTO DE LOS PROCEDIMIENTOS DE CONCILIACIÓN Y ARBITRAJE
+Artículo adicionado DOF 15-06-2007
 
-## CAPÍTULO I
-DEL PROCEDIMIENTO DE CONCILIACIÓN
+## TÍTULO QUINTO — DE LOS PROCEDIMIENTOS DE CONCILIACIÓN Y ARBITRAJE
+
+## CAPÍTULO I — DEL PROCEDIMIENTO DE CONCILIACIÓN
 
 ### Artículo 60
 .- La Comisión Nacional está facultada para actuar como conciliador entre las Instituciones Financieras y los Usuarios, con el objeto de proteger los intereses de estos últimos.
@@ -750,8 +748,8 @@ Artículo adicionado DOF 05-01-2000. Reformado DOF 10-01-2014
 ### Artículo 72
 Ter.- Se deroga Artículo adicionado DOF 05-01-2000. Derogado DOF 10-01-2014
 
-## CAPÍTULO II
-DEL PROCEDIMIENTO DE ARBITRAJE, EN AMIGABLE COMPOSICIÓN Y EN ESTRICTO DERECHO
+## CAPÍTULO II — DEL PROCEDIMIENTO DE ARBITRAJE, EN AMIGABLE COMPOSICIÓN Y EN ESTRICTO
+DERECHO
 
 ### Artículo 73
 .- En el convenio que fundamente el juicio arbitral en amigable composición, las partes facultarán a la Comisión Nacional para resolver en conciencia, a verdad sabida y buena fe guardada, la controversia planteada, y fijarán de común acuerdo y de manera específica las cuestiones que deberán ser objeto del arbitraje, estableciendo las etapas, formalidades, términos y plazos a que deberá sujetarse el arbitraje.
@@ -835,8 +833,8 @@ Artículo reformado DOF 05-01-2000
 Sin perjuicio de lo anterior, la parte afectada podrá solicitar a la Comisión Nacional el envío del expediente al juez competente para su ejecución, la cual realizará conforme a lo previsto en su propia ley.
 Artículo reformado DOF 05-01-2000
 
-## CAPÍTULO III
-DEL SISTEMA ARBITRAL EN MATERIA FINANCIERA, DEL REGISTRO DE OFERTAS PÚBLICAS ARBITRAL Y DEL COMITÉ ARBITRAL ESPECIALIZADO Capítulo adicionado DOF 10-01-2014
+## CAPÍTULO III — DEL SISTEMA ARBITRAL EN MATERIA FINANCIERA, DEL REGISTRO DE OFERTAS
+PÚBLICAS ARBITRAL Y DEL COMITÉ ARBITRAL ESPECIALIZADO Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 84
 Bis.- La Comisión Nacional tendrá a su cargo la organización, funcionamiento y promoción del Sistema Arbitral en Materia Financiera.
@@ -874,7 +872,11 @@ Los lineamientos a que se refiere el párrafo anterior establecerán las reglas 
 En aquellos casos en que un asunto represente, en cualquier forma, un conflicto de intereses entre el árbitro propuesto por la Comisión Nacional y cualquiera de las partes, el árbitro deberá excusarse para conocer del asunto, caso en el cual la Comisión Nacional deberá, dentro de los dos días hábiles siguientes, proponer a las partes un nuevo árbitro, quien podrá, a elección de las partes, continuar el procedimiento arbitral en la etapa en que se encontraba al momento de ser designado o bien reponer total o parcialmente el procedimiento.
 Los árbitros que conforme al párrafo anterior deban excusarse y no lo hagan, podrán ser recusados por la parte afectada, sin perjuicio de la responsabilidad en que incurran por los daños causados.
 Las causas de excusa y recusación a que se refiere este artículo se determinarán conforme a lo dispuesto en el artículo 104 del Código Nacional de Procedimientos Civiles y Familiares.
-Párrafo reformado DOF 14-11-2025 Artículo adicionado DOF 10-01-2014 TÍTULO SEXTO DE LA DEFENSA DE LOS USUARIOS CAPÍTULO ÚNICO DE LA ORIENTACIÓN JURÍDICA Y DEFENSA LEGAL DE LOS USUARIOS
+Párrafo reformado DOF 14-11-2025 Artículo adicionado DOF 10-01-2014
+
+## TÍTULO SEXTO — DE LA DEFENSA DE LOS USUARIOS
+
+## CAPÍTULO ÚNICO — DE LA ORIENTACIÓN JURÍDICA Y DEFENSA LEGAL DE LOS USUARIOS
 
 ### Artículo 85
 .- La Comisión Nacional podrá, atendiendo a las bases y criterios que apruebe la Junta, brindar defensoría legal gratuita a los Usuarios.
@@ -918,7 +920,10 @@ Artículo reformado DOF 30-08-2011
 
 ### Artículo 92
 .- Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad de Usuarios, la Comisión Nacional, así como cualquier legitimado a que se refiere el artículo 862 del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva a que se refiere dicho ordenamiento.
-Artículo reformado DOF 30-08-2011, 14-11-2025 TÍTULO SÉPTIMO DE LA SUPERVISIÓN Título adicionado DOF 25-06-2009
+Artículo reformado DOF 30-08-2011, 14-11-2025
+
+## TÍTULO SÉPTIMO — DE LA SUPERVISIÓN
+Título adicionado DOF 25-06-2009
 
 ### Artículo 92
 Bis. La supervisión que realice la Comisión Nacional se sujetará al reglamento que al efecto expida el Ejecutivo Federal y comprenderá el ejercicio de las facultades vigilancia, prevención y corrección que le confieren a la Comisión Nacional esta Ley, así como otras leyes y disposiciones aplicables.
@@ -960,10 +965,12 @@ Artículo adicionado DOF 10-01-2014
 Bis 5.- Durante la vigencia de los programas de autocorrección que hubiere autorizado la Comisión Nacional en términos de los artículos 92 Bis 3 y 92 Bis 4 anteriores, esta se abstendrá de imponer a las Instituciones Financieras las sanciones previstas en esta Ley, por las irregularidades o incumplimientos cuya corrección contemplen dichos programas. Asimismo, durante tal periodo se interrumpirá el plazo de caducidad para imponer las sanciones, reanudándose hasta que se determine que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección.
 La persona o área encargada de ejercer las funciones de vigilancia en las Instituciones Financieras estará obligada a dar seguimiento a la instrumentación del programa de autocorrección autorizado, e informar de su avance tanto al consejo de administración y al director general como a la Comisión Nacional, en la forma y términos que establezca en las disposiciones de carácter general a que se refiere el artículo 92 Bis 4 de esta Ley. Lo anterior, con independencia de la facultad de la Comisión Nacional para supervisar, en cualquier momento, el grado de avance y cumplimiento del programa de autocorrección.
 Si la Comisión Nacional determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, impondrá la sanción correspondiente aumentando el monto de ésta hasta en un cuarenta por ciento; siendo actualizable dicho monto en términos de las disposiciones fiscales aplicables.
-Artículo adicionado DOF 10-01-2014 TÍTULO OCTAVO DE LAS SANCIONES Y DEL RECURSO ADMINISTRATIVO Título reubicado DOF 25-06-2009 (antes Título Séptimo)
+Artículo adicionado DOF 10-01-2014
 
-## CAPÍTULO I
-DE LAS SANCIONES
+## TÍTULO OCTAVO — DE LAS SANCIONES Y DEL RECURSO ADMINISTRATIVO
+Título reubicado DOF 25-06-2009 (antes Título Séptimo)
+
+## CAPÍTULO I — DE LAS SANCIONES
 
 ### Artículo 93
 .- El incumplimiento o la contravención a las disposiciones previstas en esta Ley, será sancionado con multa que impondrá administrativamente la Comisión Nacional, tomando como base el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse la infracción de que se trate.
@@ -1079,8 +1086,7 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 98
 .- Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por la Comisión Nacional, respecto de otras infracciones o delitos, ni respecto a otras sanciones que corresponda imponer a otras autoridades financieras y demás autoridades competentes.
 
-## CAPÍTULO II
-DE LA SUBSTANCIACIÓN DEL RECURSO
+## CAPÍTULO II — DE LA SUBSTANCIACIÓN DEL RECURSO
 
 ### Artículo 99
 . Los afectados con motivo de los actos de la Comisión Nacional en resoluciones dictadas fuera del procedimiento arbitral que pongan fin a un procedimiento o de la imposición de sanciones administrativas, podrán acudir en defensa de sus intereses interponiendo recurso de revisión, cuya interposición será optativa.
@@ -1161,10 +1167,7 @@ Artículo reformado DOF 12-05-2005
 **CUARTO.-** Los procedimientos que las Comisiones Nacionales lleven a cabo para la protección de los intereses del público en lo individual, y que hasta la fecha de entrada en vigor de esta Ley estén en curso, serán concluidos de manera definitiva por la Comisión Nacional, de conformidad con las disposiciones que se encontraran vigentes al momento de iniciarse el procedimiento.
 **QUINTO.-** La Secretaría llevará a cabo los trámites y acciones necesarias para que los recursos humanos, materiales y financieros de las Comisiones Nacionales, relacionados con las facultades que esta Ley atribuye a la Comisión Nacional, sean traspasados al mismo. Dicho traspaso incluirá mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las Comisiones Nacionales hayan utilizado para la atención de los asuntos a su cargo.
 **SEXTO.-** El personal de las Comisiones Nacionales que en aplicación de la presente Ley pase a formar parte de la Comisión Nacional, en ninguna forma resultará afectado en sus derechos laborales adquiridos.
-**SÉPTIMO.-** El Registro de Prestadores de Servicios Financieros a que se refiere el Título Cuarto,
-
-## Capítulo I, de esta Ley, deberá quedar constituido dentro de los seis meses siguientes a la fecha en que
-esta Ley entre en vigor.
+**SÉPTIMO.-** El Registro de Prestadores de Servicios Financieros a que se refiere el Título Cuarto, Capítulo I, de esta Ley, deberá quedar constituido dentro de los seis meses siguientes a la fecha en que esta Ley entre en vigor.
 **OCTAVO.-** La Secretaría, realizará los trámites que sean necesarios para que la Comisión Nacional quede comprendido en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 1999.
 **NOVENO.-** La instalación de la primera Junta de Gobierno a la que se refiere el artículo 16 deberá concretarse en los siguientes términos:
 

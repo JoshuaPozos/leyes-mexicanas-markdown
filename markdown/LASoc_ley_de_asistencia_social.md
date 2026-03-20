@@ -12,8 +12,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 ### ARTÍCULO ÚNICO
 Se expide la Ley de Asistencia Social.
 
-## Capítulo I
-Disposiciones Generales
+## Capítulo I — Disposiciones Generales
 
 ### Artículo 1
 .- La presente Ley se fundamenta en las disposiciones que en materia de Asistencia Social contiene la Ley General de Salud, para el cumplimiento de la misma, garantizando la concurrencia y colaboración de la Federación, las Entidades Federativas, el Distrito Federal y los sectores social y privado.
@@ -527,8 +526,7 @@ Artículo reformado DOF 11-05-2022
 ### Artículo 43
 .- Los trabajadores del Organismo estarán incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-## Capítulo VII
-De la Coordinación, Concertación y Participación Ciudadana
+## Capítulo VII — De la Coordinación, Concertación y Participación Ciudadana
 
 ### Artículo 44
 .- Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, en los términos del Sistema Nacional de Planeación, de la Ley General de Salud, y de este Ordenamiento, El Organismo, celebrará acuerdos y concertará acciones con los sectores público, social y privado; y en su caso, con las autoridades de los diferentes pueblos y comunidades indígenas y afromexicanas de las entidades federativas.

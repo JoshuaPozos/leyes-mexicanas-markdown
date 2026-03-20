@@ -120,11 +120,14 @@ XVIII. Las demás que esta Ley y su Reglamento establezcan.
 
 ### Artículo 8
 .- La Secretaría, en coordinación con el Comité Nacional, deberá formular el Programa Nacional de la Agroindustria de la Caña de Azúcar con carácter especial, que será presentado para su aprobación al Titular del Ejecutivo Federal, el que deberá considerar como mínimo, el balance azucarero y el balance general de edulcorantes, las políticas de financiamiento de inversión para el campo cañero y fábrica, las políticas comerciales, los estímulos fiscales y apoyos gubernamentales, la competitividad en costos y precios, el desarrollo y aplicación de nuevas tecnologías, los tratados comerciales celebrados con otros países y el comportamiento del mercado nacional e internacional, con el objeto de establecer, para el corto y el mediano plazos, los objetivos, metas, estrategias, líneas de acción, asignación de recursos, responsabilidades, instrumentos de evaluación, y mecanismos de colaboración y coordinación interinstitucional con los gobiernos Federal, Estatales, del Distrito Federal y municipales, para propiciar el ordenamiento, fortalecimiento y transparencia en las actividades de la agroindustria de la caña de azúcar.
-CAPITULO II Del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar Sección Primera De la denominación, objeto y domicilio.
+CAPITULO II Del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar
+
+## Sección Primera — De la denominación, objeto y domicilio.
 
 ### Artículo 9
 .- En términos de lo dispuesto en el Artículo 14 de la Ley Federal de las Entidades Paraestatales, se constituye el Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar como un organismo público descentralizado, dependiente de la Administración Pública Federal, cuyo objeto será la coordinación y la realización de todas las actividades previstas en esta Ley relacionadas con la agroindustria de la caña de azúcar; su domicilio legal será la Ciudad de México, Distrito Federal.
-Sección Segunda De las atribuciones
+
+## Sección Segunda — De las atribuciones
 
 ### Artículo 10
 .- El Comité Nacional, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
@@ -186,7 +189,8 @@ XXVII. Intervenir en las consultas de carácter técnico, presupuestal o program
 XXVIII. Invitar a los centros de investigación, instituciones de educación superior y organismos no gubernamentales relacionados con la actividad de la agroindustria de la caña de azúcar para escuchar su opinión de acuerdo con la naturaleza de los asuntos a tratar y para incorporarlos al Centro de Investigación Científica y Tecnológica de la Caña de Azúcar, y
 
 XXIX. Las demás que se señalen en esta Ley.
-Sección Tercera De los Órganos de Administración del Comité Nacional
+
+## Sección Tercera — De los Órganos de Administración del Comité Nacional
 
 ### Artículo 11
 .- La administración del Comité Nacional estará a cargo de:
@@ -340,8 +344,7 @@ XXVI. Suscribir, en su caso, los contratos colectivos e individuales que regulen
 
 XXVII. Las demás que le confiera la presente Ley y las disposiciones legales aplicables.
 
-## Sección Cuarta
-Del Patrimonio del Comité Nacional
+## Sección Cuarta — Del Patrimonio del Comité Nacional
 
 ### Artículo 18
 .- El patrimonio del Comité Nacional se integrará con:
@@ -355,14 +358,16 @@ III. Los legados, herencias y donaciones otorgadas en su favor y los fideicomiso
 IV. Los bienes muebles e inmuebles de su propiedad y los que adquiera por cualquier título legal, y
 
 V. Los intereses, rendimientos y en general, todo ingreso que adquiera por cualquier título legal.
-Sección Quinta De la Vigilancia
+
+## Sección Quinta — De la Vigilancia
 
 ### Artículo 19
 .- La vigilancia del Comité Nacional estará a cargo de un Comisario propietario y un suplente, designados por la Secretaría de la Función Pública; lo anterior sin perjuicio de que el Comité Nacional integre en su estructura su propio órgano interno de control.
 
 ### Artículo 20
 .- El Comisario evaluará el desempeño general y por funciones del Comité Nacional, realizará estudios sobre la eficiencia con la que se ejerzan las erogaciones de los gastos corriente y de inversión, así como lo referente a los ingresos y en general solicitará toda la información para efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública le asigne de conformidad con la ley. Para el adecuado cumplimiento de sus funciones, la Junta Directiva y el Director General, deberán proporcionar la información que solicite el Comisario.
-Sección Sexta De las relaciones laborales
+
+## Sección Sexta — De las relaciones laborales
 
 ### Artículo 21
 .- Las relaciones de trabajo entre el organismo descentralizado y su personal, se regirán por la legislación que dispone el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -505,6 +510,8 @@ La organización nacional con registro condicionado, tendrá derecho a participa
 I. Representar los intereses de sus afiliados ante cualquier autoridad u organismo de carácter público o privado;
 
 II. Apoyar el desarrollo y fortalecimiento de las organizaciones locales afiliadas;
+
+> **[Tabla no extraíble — ver PDF original, página 17]**
 
 III. Fomentar la modernización del campo cañero nacional y la adopción de mejoras tecnológicas;
 

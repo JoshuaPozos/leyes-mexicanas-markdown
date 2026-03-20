@@ -143,7 +143,10 @@ II. Ordenar la suspensión, remoción o destitución de los consejeros y directi
 III. Revocar el reconocimiento de organismos autorregulatorios bancarios cuando cometan infracciones graves o reiteradas a lo previsto en esta u otras leyes y demás disposiciones de carácter general que emanen de las mismas.
 Para proceder en términos de lo previsto en las fracciones II y III de este artículo, dicha Comisión deberá contar con el previo acuerdo de su Junta de Gobierno. Antes de dictar la resolución correspondiente, la Comisión deberá escuchar al interesado y al organismo de que se trate.
 Las resoluciones a que se refiere este artículo podrán ser recurridas ante la Comisión Nacional Bancaria y de Valores dentro de los quince días hábiles siguientes a la fecha en que se hubieren notificado. La propia Comisión, con aprobación de su Junta de Gobierno, podrá revocar, modificar o confirmar la resolución recurrida, previa audiencia del afectado.
-Artículo adicionado DOF 01-02-2008 TITULO SEGUNDO DE LAS INSTITUCIONES DE CREDITO CAPITULO I De las Instituciones de Banca Múltiple SECCIÓN PRIMERA Disposiciones Generales Sección adicionada DOF 06-07-2006
+Artículo adicionado DOF 01-02-2008 TITULO SEGUNDO DE LAS INSTITUCIONES DE CREDITO CAPITULO I De las Instituciones de Banca Múltiple
+
+## SECCIÓN PRIMERA — Disposiciones Generales
+Sección adicionada DOF 06-07-2006
 
 ### Artículo 8o
 .- Para organizarse y operar como institución de banca múltiple se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Comisión Nacional Bancaria y de Valores, previo acuerdo de su Junta de Gobierno y opinión favorable del Banco de México. Por su naturaleza, estas autorizaciones serán intransmisibles.
@@ -510,7 +513,10 @@ Durante los noventa días naturales siguientes a partir de la fecha de publicaci
 La sociedad escindida no se entenderá autorizada para organizarse y operar como institución de banca múltiple y la sociedad escindente que subsista conservará la autorización que se le haya otorgado para esos efectos.
 Con motivo de la escisión, a la sociedad escindida sólo se le transmitirán operaciones activas, pasivas y fideicomisos, mandatos o comisiones de la institución de banca múltiple escindente, en los casos en que lo autorice la Comisión Nacional Bancaria y de Valores, cuando considere que no se afectan adversamente los intereses de las contrapartes de las instituciones en las operaciones respectivas y no exista oposición de acreedores. Los fideicomisos, mandatos o comisiones, sólo podrán transmitirse cuando el causahabiente final sea una entidad financiera autorizada para llevar a cabo este tipo de actividades.
 En el evento de que la escisión produzca la extinción de la institución de banca múltiple escindente, la autorización otorgada para organizarse y operar como tal quedará sin efectos, sin que resulte necesaria la emisión de una declaratoria expresa al respecto.
-Artículo adicionado DOF 04-06-2001. Reformado DOF 01-02-2008 SECCIÓN SEGUNDA De las Instituciones de Banca Múltiple Organizadas y Operadas por el Instituto para la Protección al Ahorro Bancario Sección adicionada DOF 06-07-2006
+Artículo adicionado DOF 04-06-2001. Reformado DOF 01-02-2008
+
+## SECCIÓN SEGUNDA
+De las Instituciones de Banca Múltiple Organizadas y Operadas por el Instituto para la Protección al Ahorro Bancario Sección adicionada DOF 06-07-2006
 
 ### Artículo 27
 Bis 1.- El Instituto para la Protección al Ahorro Bancario podrá organizar y operar instituciones de banca múltiple, exclusivamente con el objeto de celebrar operaciones de transferencia de activos y pasivos de las instituciones de crédito en liquidación en términos de lo previsto en el artículo 197 de esta Ley.
@@ -549,7 +555,10 @@ Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014
 
 ### Artículo 27
 Bis 6.- Sin perjuicio de lo dispuesto por el artículo 232, primer párrafo de la Ley General de Sociedades Mercantiles, la asamblea de accionistas deberá reconocer la disolución y liquidación de la institución organizada y operada por el Instituto para la Protección al Ahorro Bancario al transcurrir el correspondiente plazo de duración de la sociedad previsto en el artículo 27 Bis 2 de esta Ley y, para efectos de su liquidación, dicha institución se sujetará a lo dispuesto por este ordenamiento, sin que le resulte aplicable lo señalado en el artículo 186 de esta Ley.
-Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014 SECCIÓN TERCERA De la Revocación Sección adicionada DOF 06-07-2006
+Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014
+
+## SECCIÓN TERCERA — De la Revocación
+Sección adicionada DOF 06-07-2006
 
 ### Artículo 28
 .- La Comisión Nacional Bancaria y de Valores, con aprobación de su Junta de Gobierno, después de escuchar a la institución de banca múltiple afectada, así como la opinión del Banco de México y del Instituto para la Protección al Ahorro Bancario, podrá declarar la revocación de la autorización que le haya otorgado a aquélla para organizarse y operar con tal carácter, en los casos siguientes:
@@ -641,8 +650,8 @@ IV. La asamblea se considerará legalmente reunida cuando estén representadas, 
 En protección de los intereses del público ahorrador, la impugnación de la convocatoria de las asambleas de accionistas a que se refiere el presente artículo, así como de las resoluciones adoptadas por éstas, sólo dará lugar, en su caso, al pago de daños y perjuicios, sin que dicha impugnación produzca la nulidad de los actos.
 Artículo adicionado DOF 06-07-2006
 
-## SECCIÓN CUARTA
-Del Régimen de Operación Condicionada Sección adicionada DOF 06-07-2006
+## SECCIÓN CUARTA — Del Régimen de Operación Condicionada
+Sección adicionada DOF 06-07-2006
 
 ### Artículo 29
 Bis 2.- Respecto de aquella institución que incurra en la causal de revocación a que se refiere la fracción V del artículo 28 de la presente Ley, la Comisión Nacional Bancaria y de Valores, una vez que haya escuchado la opinión del Banco de México y del Instituto para la Protección al Ahorro Bancario, podrá abstenerse de revocar la autorización respectiva, con el propósito de que dicha institución continúe operando en términos de lo previsto en la presente Sección.
@@ -712,7 +721,10 @@ Asimismo, en caso de que se actualice el supuesto previsto en el inciso c) de la
 
 ### artículo 29
 Bis 4 de esta Ley, la Comisión Nacional Bancaria y de Valores procederá a declarar la revocación de la autorización señalada en ese mismo precepto.
-Párrafo reformado DOF 01-02-2008 Artículo adicionado DOF 06-07-2006 SECCIÓN QUINTA Del Comité de Estabilidad Bancaria Sección adicionada DOF 06-07-2006. Denominación reformada DOF 10-01-2014
+Párrafo reformado DOF 01-02-2008 Artículo adicionado DOF 06-07-2006
+
+## SECCIÓN QUINTA — Del Comité de Estabilidad Bancaria
+Sección adicionada DOF 06-07-2006. Denominación reformada DOF 10-01-2014
 
 ### Artículo 29
 Bis 6.- En los términos de esta Sección, se reunirá el Comité de Estabilidad Bancaria que tendrá por objeto determinar, previamente a que se resuelva sobre la revocación de la autorización otorgada a una institución de banca múltiple para organizarse y operar con tal carácter, por las causales a que se refieren las fracciones IV, V, VI o VIII del artículo 28 de esta Ley, si en el evento en que dicha institución incumpliera las obligaciones que tiene a su cargo, ello pudiera:
@@ -779,10 +791,11 @@ Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014
 
 ### Artículo 29
 Bis 12.- En aquellos casos en los que el Comité de Estabilidad Bancaria determine que una institución de banca múltiple se ubica en alguno de los supuestos previstos en el artículo 29 Bis 6 de esta Ley, en protección de los intereses del público ahorrador y del interés público, deberá procederse conforme a lo previsto en la fracción II del artículo 148 de esta Ley.
-Cuando el Comité de Estabilidad Bancaria determine que una institución no se ubica en alguno de los supuestos previstos en el artículo 29 Bis 6 de esta Ley, la Comisión Nacional Bancaria y de Valores revocará la autorización para organizarse y operar como institución de banca múltiple y el Instituto para la Protección al Ahorro Bancario procederá en términos de lo dispuesto por la Sección Segunda del
+Cuando el Comité de Estabilidad Bancaria determine que una institución no se ubica en alguno de los supuestos previstos en el artículo 29 Bis 6 de esta Ley, la Comisión Nacional Bancaria y de Valores revocará la autorización para organizarse y operar como institución de banca múltiple y el Instituto para la Protección al Ahorro Bancario procederá en términos de lo dispuesto por la Sección Segunda del Capítulo II del Título Séptimo de esta Ley.
+Artículo adicionado DOF 06-07-2006. Reformado DOF 01-02-2008, 10-01-2014
 
-## Capítulo II del Título Séptimo de esta Ley.
-Artículo adicionado DOF 06-07-2006. Reformado DOF 01-02-2008, 10-01-2014 SECCIÓN SEXTA De los Créditos del Banco de México de Última Instancia con Garantía Accionaria de la Institución de Banca Múltiple Sección adicionada DOF 10-01-2014
+## SECCIÓN SEXTA
+De los Créditos del Banco de México de Última Instancia con Garantía Accionaria de la Institución de Banca Múltiple Sección adicionada DOF 10-01-2014
 
 ### Artículo 29
 Bis 13.- Las garantías sobre acciones representativas del capital social de las instituciones de banca múltiple que el Banco de México requiera para cubrir los créditos que éste, en términos de lo previsto en la Ley del Banco de México, otorgue a dichas instituciones, en desempeño de su función de acreditante de última instancia, deberán constituirse como prenda bursátil, de conformidad con lo siguiente:
@@ -833,7 +846,10 @@ Artículo adicionado DOF 10-01-2014
 Bis 15.- En el evento de que el Comité de Estabilidad Bancaria haya resuelto que una institución de banca múltiple se ubica en alguno de los supuestos a que se refiere el artículo 29 Bis 6 de este ordenamiento y dicha institución haya incumplido el pago del crédito de última instancia que el Banco de México le hubiere otorgado, en términos del artículo 29 Bis 13 de esta Ley, el administrador cautelar deberá contratar, a nombre de la propia institución, un crédito otorgado por el Instituto para la Protección al Ahorro Bancario por un monto equivalente a los recursos que sean necesarios para que dicha institución cubra el referido crédito que le fuera otorgado por el Banco de México.
 El crédito que en términos del párrafo anterior otorgue el Instituto para la Protección al Ahorro Bancario, se sujetará, en lo conducente, a lo previsto en los artículos 156 al 164 de esta Ley. Por el otorgamiento de dicho crédito, el Instituto se subrogará en los derechos que el Banco de México tuviere en contra de la institución acreditada, incluyendo las garantías.
 Una vez que se subroguen los derechos en términos del párrafo anterior, la garantía en favor del Instituto para la Protección al Ahorro Bancario se considerará de interés público y tendrá preferencia sobre cualquier otra obligación.
-Artículo adicionado DOF 10-01-2014 CAPITULO II De las Instituciones de Banca de Desarrollo SECCIÓN PRIMERA Disposiciones Generales Sección adicionada DOF 10-01-2014
+Artículo adicionado DOF 10-01-2014 CAPITULO II De las Instituciones de Banca de Desarrollo
+
+## SECCIÓN PRIMERA — Disposiciones Generales
+Sección adicionada DOF 10-01-2014
 
 ### Artículo 30
 .- Las instituciones de banca de desarrollo son entidades de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, constituidas con el carácter de sociedades nacionales de crédito, en los términos de sus correspondientes leyes orgánicas y de esta Ley.
@@ -1037,7 +1053,10 @@ IV. Responsabilidades administrativas de servidores públicos, y
 V. Transparencia y acceso a la información pública, conforme a la ley de la materia.
 La Secretaría de la Función Pública y los órganos internos de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica de la Administración Pública Federal, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 Asimismo, la Secretaría de la Función Pública y los órganos internos de control no podrán ejercer, en ningún caso, las facultades en materia de control, revisión, verificación, comprobación, evaluación y vigilancia que las disposiciones jurídicas aplicables conceden a la Comisión Nacional Bancaria y de Valores, al Banco de México y a los órganos que deban establecerse en cumplimiento de la normatividad emitida por dichas instituciones, ni de las disposiciones jurídicas emitidas por las mismas, por el Consejo Directivo o los órganos señalados.
-Artículo adicionado DOF 10-01-2014 SECCIÓN SEGUNDA De la Inclusión, Fomento de la Innovación y Perspectiva de Género Sección adicionada DOF 10-01-2014
+Artículo adicionado DOF 10-01-2014
+
+## SECCIÓN SEGUNDA — De la Inclusión, Fomento de la Innovación y Perspectiva de Género
+Sección adicionada DOF 10-01-2014
 
 ### Artículo 44
 Bis 2.- Las instituciones de banca de desarrollo en cumplimiento de su objeto, podrán crear programas y productos destinados a la atención de las áreas prioritarias para el desarrollo nacional, que promuevan la inclusión financiera de las personas físicas y morales, incluyendo en las instituciones que corresponda, a las micro, pequeñas y medianas empresas, así como a pequeños productores del campo, prestándoles servicios, ofreciendo productos, asistencia técnica y capacitación.
@@ -2617,8 +2636,8 @@ En todo caso, si la sanción impuesta se deja sin efectos por alguna autoridad c
 La información antes señalada no será considerada como reservada o confidencial.
 Artículo adicionado DOF 06-02-2008. Reformado DOF 25-06-2009, 10-01-2014
 
-## Capítulo II Bis
-De los programas de autocorrección Capítulo adicionado DOF 10-01-2014
+## Capítulo II Bis — De los programas de autocorrección
+Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 109
 Bis 9.- Las instituciones de crédito por conducto de su director general o equivalente y con la opinión del comité de auditoría, podrán someter a la autorización de las Comisiones Nacionales Bancaria y de Valores o para la Protección y Defensa de los Usuarios de Servicios Financieros, así como del Instituto para la Protección al Ahorro Bancario, según corresponda, un programa de autocorrección cuando la institución de crédito de que se trate, en la realización de sus actividades, o el comité de auditoría como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
@@ -2700,8 +2719,8 @@ Párrafo reformado DOF 25-06-2009, 10-01-2014 La resolución de los recursos de 
 Párrafo reformado DOF 25-06-2009, 10-01-2014 Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros y el Instituto para la Protección al Ahorro Bancario deberán prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve.
 Párrafo reformado DOF 25-06-2009, 10-01-2014 Artículo adicionado DOF 06-02-2008
 
-## Capítulo III
-De las Notificaciones Capítulo adicionado DOF 06-02-2008
+## Capítulo III — De las Notificaciones
+Capítulo adicionado DOF 06-02-2008
 
 ### Artículo 110
 Bis 2.- Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de suspensión, revocación de autorizaciones a que se refiere la presente ley, así como los actos que nieguen las autorizaciones a que se refiere la presente ley y las resoluciones administrativas que le recaigan a los recursos de revisión y a las solicitudes de condonación interpuestos conforme a las leyes aplicables, se podrán realizar de las siguientes maneras:
@@ -2794,8 +2813,8 @@ III. Se hubiere efectuado la última publicación a que se refiere el artículo 
 IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
 Artículo adicionado DOF 06-02-2008
 
-## Capítulo IV
-De los Delitos Capítulo reubicado DOF 06-02-2008 (se recorre, antes Capítulo III)
+## Capítulo IV — De los Delitos
+Capítulo reubicado DOF 06-02-2008 (se recorre, antes Capítulo III)
 
 ### Artículo 111
 .- Será sancionado con prisión de siete a quince años y multa de quinientas a cincuenta mil veces el salario mínimo general vigente en el Distrito Federal, quien realice actos en contravención a lo dispuesto por los artículos 2o. o 103 de esta Ley.
@@ -3061,8 +3080,14 @@ La resolución administrativa a que se refiere esta fracción deberá ser notifi
 En el caso de que el interesado se encuentre inconforme con el contenido de la resolución a que se refiere esta fracción, podrá impugnarla en términos de la Ley Federal de Procedimiento Administrativo.
 
 IV. Cuando la inclusión de una persona a la lista de personas bloqueadas haya sido con motivo de una Resolución del Consejo de Seguridad de las Naciones Unidas, se llevará a cabo el proceso de desincorporación que estipule el Comité por el cual se haya designado la inclusión; por tal motivo las disposiciones contenidas en las fracciones II y III no le serán aplicables.
-Artículo adicionado DOF 11-03-2022 TÍTULO SEXTO De la Comisión Nacional Bancaria y de Valores Denominación del Título reformada DOF 10-01-2014 Nota: Por reestructuración del Título Sexto quedan suprimidas las referencias a los anteriores Capítulo I “Disposiciones Generales” y Capítulo II “Del Sistema de Protección al Ahorro Bancario” con su Sección Primera “De la Resolución de las Instituciones de Banca Múltiple”, Apartado A “Disposiciones Comunes, Apartado B “Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Apoyos”, Apartado C “Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Créditos”, y Sección Segunda “De la Liquidación y Concurso Mercantil de las Instituciones de Banca Múltiple”, Apartado A “Disposiciones Generales”, Apartado B “De las Operaciones para la Liquidación”, Apartado C “De la Disolución y Liquidación Convencional de las Instituciones de Banca Múltiple” y Apartado D “De la Asistencia y Defensa Legal”.
-Capítulos con Apartados y Secciones adicionados DOF 06-07-2006. Referencias suprimidas DOF 10-01-2014 Capítulo Único De la Inspección y Vigilancia Capítulo adicionado DOF 10-01-2014
+Artículo adicionado DOF 11-03-2022
+
+## TÍTULO SEXTO — De la Comisión Nacional Bancaria y de Valores
+Denominación del Título reformada DOF 10-01-2014 Nota: Por reestructuración del Título Sexto quedan suprimidas las referencias a los anteriores Capítulo I “Disposiciones Generales” y Capítulo II “Del Sistema de Protección al Ahorro Bancario” con su Sección Primera “De la Resolución de las Instituciones de Banca Múltiple”, Apartado A “Disposiciones Comunes, Apartado B “Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Apoyos”, Apartado C “Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Créditos”, y Sección Segunda “De la Liquidación y Concurso Mercantil de las Instituciones de Banca Múltiple”, Apartado A “Disposiciones Generales”, Apartado B “De las Operaciones para la Liquidación”, Apartado C “De la Disolución y Liquidación Convencional de las Instituciones de Banca Múltiple” y Apartado D “De la Asistencia y Defensa Legal”.
+Capítulos con Apartados y Secciones adicionados DOF 06-07-2006. Referencias suprimidas DOF 10-01-2014
+
+## Capítulo Único — De la Inspección y Vigilancia
+Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 117
 .- La supervisión de las entidades reguladas por la presente Ley estará a cargo de la Comisión Nacional Bancaria y de Valores, quien la llevará a cabo sujetándose a lo previsto en su Ley, en el Reglamento respectivo y en las demás disposiciones que resulten aplicables. La citada Comisión podrá efectuar visitas de inspección a las instituciones de crédito, con el objeto de revisar, verificar, comprobar y evaluar las operaciones, organización, funcionamiento, los procesos, los sistemas de control interno, de administración de riesgos y de información, así como el patrimonio, la adecuación del capital a los riesgos, la calidad de los activos y, en general, todo lo que pudiendo afectar la posición financiera y legal, conste o deba constar en los registros, a fin de que las instituciones de crédito se ajusten al cumplimiento de las disposiciones que las rigen y a las sanas prácticas de la materia.
@@ -3520,10 +3545,13 @@ Bis.- Se deroga Artículo adicionado DOF 04-06-2001. Reformado DOF 06-07-2006. D
 ### artículo 129
 de esta Ley, o cuando se lo solicite el Instituto para la Protección al Ahorro Bancario en virtud de los métodos de resolución que sea necesario aplicar conforme a lo previsto en esta Ley.
 Para efecto de lo señalado en el presente artículo, se requerirá el acuerdo de la Junta de Gobierno de la Comisión Nacional Bancaria y de Valores y la opinión favorable del Instituto para la Protección al Ahorro Bancario.
-Artículo reformado DOF 06-07-2006, 10-01-2014 TÍTULO SÉPTIMO De la Protección de los Intereses del Público Denominación del Título reformada DOF 06-07-2006. Título reubicado con denominación reformada DOF 10-01-2014
+Artículo reformado DOF 06-07-2006, 10-01-2014
 
-## CAPÍTULO I
-Disposiciones Generales Capítulo derogado DOF 28-04-1995. Capítulo adicionado y reubicado con denominación reformada DOF 10-01-2014
+## TÍTULO SÉPTIMO — De la Protección de los Intereses del Público
+Denominación del Título reformada DOF 06-07-2006. Título reubicado con denominación reformada DOF 10-01-2014
+
+## CAPÍTULO I — Disposiciones Generales
+Capítulo derogado DOF 28-04-1995. Capítulo adicionado y reubicado con denominación reformada DOF 10-01-2014
 
 ### Artículo 142
 .- La información y documentación relativa a las operaciones y servicios a que se refiere el artículo 46 de la presente Ley, tendrá carácter confidencial, por lo que las instituciones de crédito, en protección del derecho a la privacidad de sus clientes y usuarios que en este artículo se establece, en ningún caso podrán dar noticias o información de los depósitos, operaciones o servicios, incluyendo los previstos en la fracción XV del citado artículo 46, sino al depositante, deudor, titular, beneficiario, fideicomitente, fideicomisario, comitente o mandante, a sus representantes legales o a quienes tengan otorgado poder para disponer de la cuenta o para intervenir en la operación o servicio.
@@ -3601,8 +3629,11 @@ Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014
 .- En protección de los intereses del público ahorrador, los actos y las resoluciones de la Secretaría de Hacienda y Crédito Público, de la Comisión Nacional Bancaria y de Valores, del Instituto para la Protección al Ahorro Bancario, del Banco de México, los de sus respectivas Juntas de Gobierno, del Comité de Estabilidad Bancaria a que se refiere el artículo 29 Bis 6 de esta Ley, de los administradores cautelares, de los liquidadores, de los liquidadores judiciales y de las autoridades jurisdiccionales que se prevén en los artículos 27 Bis 1 a 27 Bis 6, 28 a 29 Bis 15, 50, 74, 96 Bis 1, 99, 102, 121 a 124, 128, 129 a 141, y 147 a 273, de esta Ley, son de orden público e interés social y se consideraran impostergables para efectos de lo dispuesto en el artículo 129, fracción XI de la Ley de Amparo, por lo que no procederá en su contra medida suspensional alguna que se prevea en dicha ley o en cualquier otro ordenamiento.
 Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014
 
-## CAPÍTULO II
-Del Sistema de Protección al Ahorro Bancario Capítulo reubicado con denominación reformada DOF 10-01-2014 SECCIÓN PRIMERA De la Resolución de las Instituciones de Banca Múltiple Sección adicionada DOF 10-01-2014 Apartado A Disposiciones Comunes Apartado adicionado DOF 10-01-2014
+## CAPÍTULO II — Del Sistema de Protección al Ahorro Bancario
+Capítulo reubicado con denominación reformada DOF 10-01-2014
+
+## SECCIÓN PRIMERA — De la Resolución de las Instituciones de Banca Múltiple
+Sección adicionada DOF 10-01-2014 Apartado A Disposiciones Comunes Apartado adicionado DOF 10-01-2014
 
 ### Artículo 147
 .- Para efectos de esta Ley, por resolución de una institución de banca múltiple debe entenderse el conjunto de acciones o procedimientos implementados por las autoridades financieras competentes respecto de una institución de banca múltiple que experimente problemas de solvencia o liquidez que afecten su viabilidad financiera, a fin de procurar su liquidación ordenada y expedita o, excepcionalmente, su rehabilitación, en protección de los intereses del público ahorrador, de la estabilidad del sistema financiero y del buen funcionamiento del sistema de pagos.
@@ -3733,7 +3764,10 @@ Artículo adicionado DOF 10-01-2014
 
 ### Artículo 164
 .- En protección de los intereses del público ahorrador, del sistema de pagos y del interés público en general, en los estatutos y en los títulos representativos del capital social de las instituciones de banca múltiple deberá preverse expresamente lo dispuesto por los artículos 156 a 163 de esta Ley, así como el consentimiento irrevocable de los accionistas a la aplicación de tales artículos en el evento de que se actualicen los supuestos en ellos previstos.
-Artículo adicionado DOF 10-01-2014 SECCIÓN SEGUNDA De la Liquidación y Liquidación Judicial de las Instituciones de Banca Múltiple Sección adicionada DOF 10-01-2014 Apartado A De las Operaciones para la Liquidación de las Instituciones de Banca Múltiple Apartado adicionado DOF 10-01-2014
+Artículo adicionado DOF 10-01-2014
+
+## SECCIÓN SEGUNDA — De la Liquidación y Liquidación Judicial de las Instituciones de Banca Múltiple
+Sección adicionada DOF 10-01-2014 Apartado A De las Operaciones para la Liquidación de las Instituciones de Banca Múltiple Apartado adicionado DOF 10-01-2014
 
 ### Artículo 165
 .- En protección de los intereses del público ahorrador, de los acreedores de las instituciones de banca múltiple y del público en general, en los procedimientos de liquidación, las instituciones de banca múltiple y el Instituto para la Protección al Ahorro Bancario, se sujetarán a lo dispuesto en la presente Sección, procurando pagar a los ahorradores y demás acreedores en el menor tiempo posible y obtener el máximo valor de recuperación de los activos de dichas instituciones.
@@ -4842,9 +4876,7 @@ Cuando el juez de distrito que conozca de la liquidación judicial, en cumplimie
 Artículo adicionado DOF 10-01-2014 APARTADO D De la Asistencia y Defensa Legal y de la Responsabilidad Apartado adicionado DOF 10-01-2014
 
 ### Artículo 271
-.- La Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores y el Instituto para la Protección al Ahorro Bancario prestarán los servicios de asistencia y defensa legal a las personas que hayan fungido como titulares, integrantes de sus órganos de gobierno, funcionarios y servidores públicos, con respecto a los actos que las personas antes referidas hayan llevado a cabo en el ejercicio de las funciones que por ley les hayan sido encomendadas y que guarden relación con lo dispuesto en el artículo 50 de esta Ley, así como en las secciones Segunda, Tercera, Cuarta y Quinta del Capítulo I del Título Segundo, en el Capítulo Único del Título Sexto y en el
-
-## Capítulo II del Título Séptimo de esta Ley.
+.- La Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores y el Instituto para la Protección al Ahorro Bancario prestarán los servicios de asistencia y defensa legal a las personas que hayan fungido como titulares, integrantes de sus órganos de gobierno, funcionarios y servidores públicos, con respecto a los actos que las personas antes referidas hayan llevado a cabo en el ejercicio de las funciones que por ley les hayan sido encomendadas y que guarden relación con lo dispuesto en el artículo 50 de esta Ley, así como en las secciones Segunda, Tercera, Cuarta y Quinta del Capítulo I del Título Segundo, en el Capítulo Único del Título Sexto y en el Capítulo II del Título Séptimo de esta Ley.
 Los administradores cautelares de las instituciones de banca múltiple, miembros del consejo consultivo, director general y miembros del consejo de administración de las instituciones constituidas y operadas por el Instituto para la Protección al Ahorro Bancario y los apoderados que sean designados por el citado Instituto en términos de lo dispuesto en esta Ley, así como el personal auxiliar al cual los propios administradores cautelares, liquidadores o liquidadores judiciales les otorguen poderes porque sea necesario para el desempeño de sus funciones, también serán sujetos de asistencia y defensa legal por los actos que desempeñen en el ejercicio de las facultades que las leyes les encomienden con motivo de sus funciones.
 La asistencia y defensa legal se proporcionará con cargo a los recursos con los que para estos fines cuente la Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores y el Instituto para la Protección al Ahorro Bancario, de acuerdo con los lineamientos de carácter general que apruebe, en el primer caso, el titular de la citada Secretaría, o bien, los respectivos órganos de gobierno, en los cuales deberá preverse el supuesto de que si la autoridad competente le dicta al sujeto de la asistencia legal resolución definitiva que cause ejecutoria en su contra, dicho sujeto deberá rembolsar a la dependencia u organismo, según se trate, los gastos y cualquier otra erogación en que se hubiere incurrido con motivo de la asistencia y defensa legal.
 Para efectos de lo dispuesto en este artículo, la Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores y el Instituto para la Protección al Ahorro Bancario, en el ámbito de sus respectivas competencias, establecerán los mecanismos necesarios para cubrir los gastos y cualquier otra erogación que deriven de la asistencia y defensa legal previstos en este artículo.
@@ -4877,7 +4909,10 @@ Artículo adicionado DOF 10-01-2014
 ### Artículo 274
 .- Las acciones que deriven de los actos de la Secretaría de Hacienda y Crédito Público, el Banco de México, la Comisión Nacional Bancaria y de Valores y el Instituto para la Protección al Ahorro Bancario, así como cualquier otro órgano público federal que hubiere tenido alguna intervención en los procedimientos dirigidos a mantener los niveles de capitalización o de liquidez, o bien los relativos a la intervención, revocación o resolución de instituciones, prescribirán en un plazo de un año, que se computará a partir del día siguiente a aquel en que se hubieren producido.
 En todo caso, las reclamaciones que se presenten para obtener el pago una indemnización por daños y perjuicios se tramitarán, en lo conducente, mediante el procedimiento previsto en el Capítulo III de la Ley Federal de Responsabilidad Patrimonial del Estado y las resoluciones de la autoridad administrativa que nieguen la indemnización, o que por su monto no satisfagan al interesado, podrán impugnarse mediante el recurso de revisión en vía administrativa en términos de la Ley indicada. Las indemnizaciones a que se refiere esta Ley, se cubrirán conforme a lo dispuesto en la Ley de Responsabilidad Patrimonial del Estado, o en su caso, de acuerdo a la correspondiente normativa presupuestal de cada institución.
-Artículo adicionado DOF 10-01-2014 TÍTULO OCTAVO De la Evaluación de Desempeño de las Instituciones de Banca Múltiple Título adicionado DOF 10-01-2014
+Artículo adicionado DOF 10-01-2014
+
+## TÍTULO OCTAVO — De la Evaluación de Desempeño de las Instituciones de Banca Múltiple
+Título adicionado DOF 10-01-2014
 
 ### Artículo 275
 .- En relación con la rectoría que debe ejercer el Estado respecto del Sistema Bancario Mexicano de conformidad con la Constitución Política de los Estados Unidos Mexicanos y lo establecido en el artículo 4o de esta Ley y demás disposiciones aplicables, la Secretaría de Hacienda y Crédito Público evaluará periódicamente el desempeño de las instituciones de banca múltiple.
@@ -5235,10 +5270,7 @@ Publicada en el Diario Oficial de la Federación el 18 de enero de 1999
 **CUARTO.-** Los procedimientos que las Comisiones Nacionales lleven a cabo para la protección de los intereses del público en lo individual, y que hasta la fecha de entrada en vigor de esta Ley estén en curso, serán concluidos de manera definitiva por la Comisión Nacional, de conformidad con las disposiciones que se encontraran vigentes al momento de iniciarse el procedimiento.
 **QUINTO.-** La Secretaría llevará a cabo los trámites y acciones necesarias para que los recursos humanos, materiales y financieros de las Comisiones Nacionales, relacionados con las facultades que esta Ley atribuye a la Comisión Nacional, sean traspasados al mismo. Dicho traspaso incluirá mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las Comisiones Nacionales hayan utilizado para la atención de los asuntos a su cargo.
 **SEXTO.-** El personal de las Comisiones Nacionales que en aplicación de la presente Ley pase a formar parte de la Comisión Nacional, en ninguna forma resultará afectado en sus derechos laborales adquiridos.
-**SÉPTIMO.-** El Registro de Prestadores de Servicios Financieros a que se refiere el Título Cuarto,
-
-## Capítulo I, de esta Ley, deberá quedar constituido dentro de los seis meses siguientes a la fecha en que
-esta Ley entre en vigor.
+**SÉPTIMO.-** El Registro de Prestadores de Servicios Financieros a que se refiere el Título Cuarto, Capítulo I, de esta Ley, deberá quedar constituido dentro de los seis meses siguientes a la fecha en que esta Ley entre en vigor.
 **OCTAVO.-** La Secretaría, realizará los trámites que sean necesarios para que la Comisión Nacional quede comprendido en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 1999.
 **NOVENO.-** La instalación de la primera Junta de Gobierno a la que se refiere el artículo 16 deberá concretarse en los siguientes términos:
 
@@ -5978,7 +6010,10 @@ VI. Cuando éste u otros decretos, códigos, leyes, reglamentos o disposiciones 
 PRIMERO.- Se REFORMAN los artículos 3, segundo párrafo; 5 Bis 5; 10, fracción IV, inciso f); 12, segundo párrafo; 13; 18; 25, primer y tercer párrafos; 27 Bis 1; 27 Bis 3, primer párrafo, fracciones I y II y párrafo segundo; 27 Bis 5; 27 Bis 6; 28, primer párrafo, fracciones II, III, IV, V y VII y segundo párrafo; 29 Bis; 29 Bis 1, párrafo primero en su encabezado y sus fracciones I y II; 29 Bis 2, segundo párrafo, fracción II; 29 Bis 3; 29 Bis 4, primer párrafo, fracciones V, incisos a), b) y c), VI y VII, inciso c); 29 Bis 5, segundo párrafo; la denominación de la Sección Quinta del Capítulo I del Título Segundo; 29 Bis 6 a 29 Bis 12; 31, tercer párrafo; 45-G, segundo y cuarto párrafos; 45-H, tercer párrafo; 45-N; 45-S, segundo párrafo; 46, último párrafo; 46 Bis 1, tercer párrafo; 46 Bis 6, quinto párrafo; 50; 51; 52, último párrafo; 53; 57, primer párrafo; 60, primer párrafo; 64; 71, décimo párrafo; 73, segundo párrafo, fracción VII; 73 Bis, séptimo párrafo; 80, último párrafo; 93, cuarto párrafo en su encabezado; 97; 104; 106, fracciones XVI y XXI; 107; 107 Bis; 108; 108 Bis; 108 Bis 1, en su encabezado y la fracción II, incisos a) y c); 109; 109 Bis; 109 Bis 1; 109 Bis 4; 109 Bis 5, segundo y tercer párrafos; 109 Bis 6; 109 Bis 8; 110 primero y cuarto párrafos vigentes; 110 Bis 1, tercero, cuarto y quinto párrafos; 110 Bis 2, segundo y tercer párrafos; 110 Bis 13, primero y tercer párrafos; 111; 112, quinto párrafo, fracción III, incisos d) y e); 112 Ter; 113, primer párrafo en su encabezado y fracciones VI y VII; 113 Bis; 113 Bis 1; 115, primero, quinto, sexto en su encabezado e incisos c) y d), noveno y décimo primer párrafos; 115 Bis; la denominación del Título Sexto, el cual tendrá un Capítulo Único denominado De la Inspección y Vigilancia; 117; 119; 121; 133; 134; 135; 136; 138 al 140; 141 al 143; 143 Bis; 144 al 149 y la denominación del Título Séptimo, el cual tendrá dos Capítulos y se ADICIONAN los artículos 24 Bis 1 y 24 Bis 2; una fracción VIII al párrafo primero y párrafos tercero y cuarto al artículo 28; la Sección Sexta denominada “De los Créditos del Banco de México de Última Instancia con Garantía Accionaria de la Institución de Banca Múltiple” al Capítulo I del Título Segundo que comprende los artículos 29 Bis 13 al 29 Bis 15; 44 Bis; 45-T; 50 Bis; 51 Bis; las fracciones I y II al primer párrafo del artículo 60; 67, tercer párrafo; 74 actualmente derogado; 96 Bis 1; 96 Bis 2; un segundo y tercer párrafos al artículo 99; un último párrafo al artículo 102; una fracción III al artículo 108 Bis 1; 108 Bis 3; un segundo párrafo al
 
 ### artículo 109
-Bis 3; el Capítulo II Bis “De los programas de autocorrección” al Título Quinto que comprenderá los artículos 109 Bis 9 al 109 Bis 12; un tercer párrafo al artículo 110, pasando los actuales párrafos tercero y cuarto a ser cuarto y quinto, respectivamente; un inciso f) a la fracción III del párrafo quinto del artículo 112, una fracción VIII al artículo 113; 113 Bis 5; 113 Bis 6; 114 Bis 1 al 114 Bis 6; segundo párrafo actualmente derogado, los incisos e) y f) al párrafo sexto, un párrafo noveno, un décimo y un décimo primero, pasando los actuales párrafos noveno, décimo, décimo primero, décimo primer párrafo derogado y décimo tercero a ser los párrafos décimo segundo, décimo tercero, décimo cuarto y décimo quinto del artículo 115; los artículos 118 actualmente derogado; 120 actualmente derogado; 122 actualmente derogado; 123 al 132 actualmente derogados; 137 actualmente derogado; 150 al 274 y un Título Octavo “De la Evaluación de Desempeño de las Instituciones de Banca Múltiple” que comprende los artículos 275 al 281, y se DEROGAN el inciso b) de la fracción II del artículo 108 Bis 1 y los artículos 109 Bis 2; 117 Bis; 122 Bis; 122 Bis 1 al 122 Bis 35; 134 Bis; 134 Bis 1 al 134 Bis 4; 137 Bis y 140 Bis de la Ley de Instituciones de Crédito, para quedar como sigue: ……… Disposiciones Transitorias
+Bis 3; el Capítulo II Bis “De los programas de autocorrección” al Título Quinto que comprenderá los artículos 109 Bis 9 al 109 Bis 12; un tercer párrafo al artículo 110, pasando los actuales párrafos tercero y cuarto a ser cuarto y quinto, respectivamente; un inciso f) a la fracción III del párrafo quinto del artículo 112, una fracción VIII al artículo 113; 113 Bis 5; 113 Bis 6; 114 Bis 1 al 114 Bis 6; segundo párrafo actualmente derogado, los incisos e) y f) al párrafo sexto, un párrafo noveno, un décimo y un décimo primero, pasando los actuales párrafos noveno, décimo, décimo primero, décimo primer párrafo derogado y décimo tercero a ser los párrafos décimo segundo, décimo tercero, décimo cuarto y décimo quinto del artículo 115; los artículos 118 actualmente derogado; 120 actualmente derogado; 122 actualmente derogado; 123 al 132 actualmente derogados; 137 actualmente derogado; 150 al 274 y un
+
+## Título Octavo — “De la Evaluación de Desempeño de las Instituciones de Banca Múltiple” que comprende
+los artículos 275 al 281, y se DEROGAN el inciso b) de la fracción II del artículo 108 Bis 1 y los artículos 109 Bis 2; 117 Bis; 122 Bis; 122 Bis 1 al 122 Bis 35; 134 Bis; 134 Bis 1 al 134 Bis 4; 137 Bis y 140 Bis de la Ley de Instituciones de Crédito, para quedar como sigue: ……… Disposiciones Transitorias
 
 ### ARTÍCULO TRIGÉSIMO
 QUINTO.- En relación con las modificaciones a que se refieren los Artículos Trigésimo Primero a Trigésimo Cuarto de este Decreto, se estará a lo siguiente:
@@ -6125,9 +6160,7 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 **Décimo Quinto.** Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 **Décimo Sexto.** Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced González González, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
-DECRETO por el que se reforma la denominación del Título Quinto y se adiciona un
-
-## Capítulo V al Título Quinto de la Ley de Instituciones de Crédito.
+DECRETO por el que se reforma la denominación del Título Quinto y se adiciona un Capítulo V al Título Quinto de la Ley de Instituciones de Crédito.
 Publicado en el Diario Oficial de la Federación el 11 de marzo de 2022
 
 ### Artículo Único

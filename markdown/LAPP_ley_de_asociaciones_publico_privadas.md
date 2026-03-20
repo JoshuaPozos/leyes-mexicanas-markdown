@@ -12,7 +12,9 @@ SE EXPIDE LA  , Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA 
 
 ### Artículo Primero
 Se expide la siguiente:
-Ley de Asociaciones Público Privadas Capítulo Primero Disposiciones Preliminares
+Ley de Asociaciones Público Privadas
+
+## Capítulo Primero — Disposiciones Preliminares
 
 ### Artículo 1
 . La presente Ley es de orden público y tiene por objeto regular los esquemas para el desarrollo de proyectos de asociaciones público-privadas, bajo los principios de los artículos 25 y 134 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -108,7 +110,10 @@ XIV. Nivel de desempeño: Conjunto de especificaciones y parámetros de desempe�
 XV. Promotor: Persona que promueve, ante una instancia del sector público, un proyecto de asociación público-privada; y
 
 XVI. Reglamento: El Reglamento de la presente Ley.
-Capítulo Segundo De la Preparación e Inicio de los Proyectos Sección Primera De la Preparación de los Proyectos
+
+## Capítulo Segundo — De la Preparación e Inicio de los Proyectos
+
+## Sección Primera — De la Preparación de los Proyectos
 
 ### Artículo 13
 . Para realizar proyectos de asociación público-privada se requiere, en términos de la presente Ley:
@@ -207,7 +212,9 @@ Reforma DOF 21-04-2016: Derogó del artículo el entonces párrafo segundo
 La contratación de los trabajos y servicios antes mencionados se sujetará a lo previsto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, sin que para estos efectos resulte aplicable lo dispuesto en el artículo 19 de dicha Ley.
 La dependencia o entidad podrá optar por celebrar contratos citados a través de invitación a cuando menos tres personas, o mediante adjudicación directa, en adición a los supuestos previstos en la citada Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
 No será necesaria la autorización del Comité de Adquisiciones, Arrendamientos y Servicios del Sector Público de la dependencia o entidad contratante, siempre que el monto de los honorarios pactados no exceda del equivalente al cuatro por ciento del costo total estimado del proyecto, ni del equivalente a nueve millones quinientas mil Unidades de Inversión, lo que resulte menor.
-Sección Segunda Inicio de los Proyectos
+
+## Sección Segunda
+Inicio de los Proyectos
 
 ### Artículo 21
 . La dependencia o entidad que pretenda participar con recursos públicos federales en proyectos de asociación público-privada que haya dictaminado como viables en términos del artículo 14 de la presente Ley, deberá obtener el registro en la cartera de inversión a que se refiere el artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
@@ -236,7 +243,10 @@ III. Tratándose de proyectos de asociación público-privada que involucren rec
 
 ### artículo 14
 de la presente Ley.
-Artículo reformado DOF 21-04-2016 Sección Tercera Otras Disposiciones sobre la Preparación e Inicio de los Proyectos
+Artículo reformado DOF 21-04-2016
+
+## Sección Tercera
+Otras Disposiciones sobre la Preparación e Inicio de los Proyectos
 
 ### Artículo 24
 . El gasto público federal que, en su caso, sea necesario para el desarrollo de un proyecto de los previstos en la presente Ley, se ajustará a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, al Presupuesto de Egresos de la Federación y demás disposiciones jurídicas aplicables.
@@ -251,7 +261,8 @@ Artículo reformado DOF 21-04-2016
 
 ### Artículo 25
 . Cuando por las condiciones especiales del proyecto se requiera la intervención de dos o más dependencias o entidades, cada una de ellas será responsable de los trabajos que le correspondan, sin perjuicio de la responsabilidad que, en razón de sus respectivas atribuciones, tenga la encargada de la planeación, programación y presupuestación en su conjunto.
-Capítulo Tercero De las Propuestas no Solicitadas
+
+## Capítulo Tercero — De las Propuestas no Solicitadas
 
 ### Artículo 26
 . Cualquier interesado en realizar un proyecto de asociación público-privada podrá presentar su propuesta a la dependencia o entidad federal competente.
@@ -341,8 +352,9 @@ Los actos u omisiones que impliquen el incumplimiento a lo establecido en el pre
 ### Artículo 37
 . En caso de que durante el plazo de evaluación, el interesado no proporcione la información solicitada sin causa justificada o bien, promueva el proyecto con alguna otra entidad o de alguna otra manera, o ceda su propuesta a terceros, se dará por concluido el trámite y el interesado perderá en favor del Ejecutivo federal todos sus derechos sobre los estudios presentados, incluso si el proyecto se concursa, previa garantía de audiencia.
 
-## Capítulo Cuarto
-De la Adjudicación de los Proyectos Sección Primera De los Concursos
+## Capítulo Cuarto — De la Adjudicación de los Proyectos
+
+## Sección Primera — De los Concursos
 
 ### Artículo 38
 . Las dependencias y entidades que pretendan el desarrollo de un proyecto de asociación público-privada convocarán a concurso, que deberá llevarse a cabo conforme a los principios de legalidad, libre concurrencia y competencia, objetividad e imparcialidad, transparencia y publicidad y, con las particularidades del artículo 31 de esta Ley, en igualdad de condiciones para todos los participantes.
@@ -385,7 +397,8 @@ VIII. Las demás que por cualquier causa se encuentren impedidas para ello por d
 ### Artículo 43
 . Cualquier persona podrá asistir a los diferentes actos del concurso, en calidad de observador, previo registro de su participación ante la convocante. Los observadores se abstendrán de intervenir en cualquier forma en el concurso.
 El Reglamento de esta Ley establecerá la figura de testigos sociales y preverá los términos de su participación en el procedimiento de concurso.
-Sección Segunda De la Convocatoria y Bases de los Concursos
+
+## Sección Segunda — De la Convocatoria y Bases de los Concursos
 
 ### Artículo 44
 . La convocatoria al concurso contendrá, por lo menos, los elementos siguientes:
@@ -457,7 +470,8 @@ III. Deberán notificarse a cada uno de los participantes, a más tardar el déc
 
 IV. Darán oportunidad a los participantes de retirarse del concurso, sin que ello implique incumplimiento o hacer efectiva garantía alguna.
 Las modificaciones así realizadas formarán parte de la convocatoria y bases del concurso, por lo que deberán ser consideradas por los concursantes en la elaboración de sus propuestas.
-Sección Tercera De la Presentación de las Propuestas
+
+## Sección Tercera — De la Presentación de las Propuestas
 
 ### Artículo 49
 . Para facilitar el concurso, previo al acto de presentación y apertura de las propuestas, la convocante podrá efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta a la referida al importe de la oferta económica.
@@ -472,8 +486,7 @@ En cada concurso, los concursantes sólo podrán presentar una propuesta, con su
 Iniciado el acto de presentación y apertura de propuestas, las ya presentadas no podrán ser retiradas o dejarse sin efecto por los concursantes.
 Para intervenir en el acto de presentación y apertura de las propuestas bastará que los participantes presenten un escrito en el que manifiesten, bajo protesta de decir verdad, que cuentan con las facultades suficientes para ello, sin que sea necesario que acrediten su personalidad.
 
-## Sección Cuarta
-De la Evaluación de las Propuestas y Fallo del Concurso
+## Sección Cuarta — De la Evaluación de las Propuestas y Fallo del Concurso
 
 ### Artículo 52
 . En la evaluación de las propuestas, la convocante verificará que cumplan con los requisitos señalados en las bases, y que contengan elementos suficientes para desarrollar el proyecto.
@@ -533,7 +546,8 @@ I. El recurso administrativo de revisión, de conformidad con la Ley Federal de 
 
 II. El juicio contencioso administrativo federal, de conformidad con la Ley Federal de Procedimiento Contencioso Administrativo.
 Fracción reformada DOF 21-04-2016 Contra las demás resoluciones de la convocante emitidas durante el concurso no procederá instancia ni medio ordinario de defensa alguno y, en caso de alguna irregularidad en tales resoluciones, ésta podrá ser combatida con motivo del fallo.
-Sección Quinta De los Actos Posteriores al Fallo
+
+## Sección Quinta — De los Actos Posteriores al Fallo
 
 ### Artículo 60
 . La formalización del contrato de asociación público-privada se efectuará en los plazos que las bases de concurso señalen.
@@ -563,7 +577,8 @@ Cuando no haya sido procedente la suspensión del fallo y la resolución final f
 . Si realizado el concurso la dependencia o entidad convocante decide no firmar el contrato respectivo cubrirá, a solicitud escrita del ganador, los gastos no recuperables en que éste hubiere incurrido.
 Los reembolsos sólo procederán en relación con gastos no recuperables, que sean razonables, debidamente comprobados y se relacionen directamente con el concurso de que se trate.
 El Reglamento señalará los procedimientos para determinar los montos y efectuará los pagos a que el presente artículo hace referencia.
-Sección Sexta De las Excepciones al Concurso
+
+## Sección Sexta — De las Excepciones al Concurso
 
 ### Artículo 64
 . Las dependencias y entidades, bajo su responsabilidad, podrán adjudicar proyectos de asociación público-privada, sin sujetarse al procedimiento de concurso a que se refiere el presente capítulo, a través de invitación a cuando menos tres personas o de adjudicación directa, cuando:
@@ -590,7 +605,10 @@ Párrafo reformado DOF 21-04-2016
 . Los procedimientos de invitación a cuando menos tres personas y de adjudicación directa deberá realizarse conforme a los principios de legalidad, objetividad e imparcialidad, transparencia e igualdad de condiciones, así como prever las medidas para que los recursos públicos se administren con eficiencia, eficacia, transparencia y honradez.
 A estos procedimientos les serán aplicables lo dispuesto en los artículos 39, 40, y 42 de la presente Ley.
 En todo caso, se cuidará que en estos procedimientos se invite a personas con posibilidad de respuesta adecuada, que cuenten con la capacidad financiera, técnica, operativa y demás necesarias para dar cumplimiento a sus obligaciones.
-Capítulo Quinto De los Bienes Necesarios para los Proyectos Sección Primera De la Manera de adquirir los Bienes
+
+## Capítulo Quinto — De los Bienes Necesarios para los Proyectos
+
+## Sección Primera — De la Manera de adquirir los Bienes
 
 ### Artículo 67
 . La responsabilidad de adquirir los inmuebles, bienes y derechos necesarios para la ejecución de un proyecto de asociación público-privada podrá recaer en la convocante, en el desarrollador o en ambos, según se señale en las bases del concurso y se convenga en el contrato respectivo. En todo caso, las bases siempre deberán considerar los montos necesarios para cubrir la adquisición de los inmuebles, bienes y derechos necesarios, cuidando que no se generen ventajas indebidas a los desarrolladores que puedan ser previamente propietarios de los inmuebles destinados a la ejecución del proyecto.
@@ -610,7 +628,8 @@ IV. Los gastos complementarios no previstos en el valor comercial, para que los 
 La aplicación de los factores citados en las fracciones anteriores se hará en términos que el Reglamento señale.
 En ningún caso el valor de adquisición o de expropiación será menor al valor fiscal de los inmuebles y, en su caso, bienes y derechos de que se trate.
 Los avalúos tendrán una vigencia de un año, vencido el cual, procederá su actualización.
-Sección Segunda Del Procedimiento de Negociación
+
+## Sección Segunda — Del Procedimiento de Negociación
 
 ### Artículo 69
 . La dependencia o entidad responsable podrá adquirir los inmuebles, bienes y derechos necesarios para el proyecto aprobado, por la vía convencional con el o los legítimos titulares.
@@ -636,7 +655,9 @@ La autoridad resolverá al respecto en un plazo máximo de diez días hábiles, 
 ### Artículo 75
 . Si las negociaciones se realizan por el particular desarrollador del proyecto, se estará a la libre voluntad de las partes y no resultarán aplicables los artículos de la presente sección.
 En estos supuestos, para efectos de cómputo de los montos de inversión en el proyecto de que se trata, se estará a los términos y condiciones pactados en el contrato de asociación público-privada, con independencia de las sumas que el desarrollador pague por las adquisiciones que realice.
-Sección Tercera De la Expropiación Sub Sección Primera De la Declaración de Utilidad Pública
+
+## Sección Tercera — De la Expropiación
+Sub Sección Primera De la Declaración de Utilidad Pública
 
 ### Artículo 76
 . Son causas de utilidad pública, además de las previstas en la Ley de Expropiación, en la Ley Agraria y en otras disposiciones aplicables, la adquisición de inmuebles, bienes y derechos necesarios para la realización de un proyecto de asociación público-privada en términos de la presente Ley.
@@ -713,7 +734,10 @@ I. Dentro del año inmediato siguiente al vencimiento del plazo de cinco años m
 II. Dentro del año inmediato siguiente a la fecha en que los inmuebles, bienes y derechos expropiados se destinen a un fin distinto, cuando ello suceda dentro del plazo de cinco años antes citado.
 La autoridad que tramitó el expediente dictará resolución dentro de los cuarenta y cinco días hábiles siguientes a la presentación de la solicitud.
 De proceder la reversión, total o parcial, el Reglamento indicará los elementos para determinar el importe y actualización de la indemnización que el interesado deberá devolver, así como la cantidad que el propio interesado tiene derecho a recibir por concepto de los daños que le hayan sido originados.
-Capítulo Sexto De las Asociaciones Público-Privadas Sección Primera De las Autorizaciones para la Prestación de los Servicios
+
+## Capítulo Sexto — De las Asociaciones Público-Privadas
+
+## Sección Primera — De las Autorizaciones para la Prestación de los Servicios
 
 ### Artículo 87
 . Cuando en un proyecto de asociación público-privada el uso de bienes públicos o la prestación de los servicios por parte del o de los desarrolladores requieran de permisos, concesiones u otras autorizaciones, éstos se otorgarán conforme a las disposiciones que los regulen, con las salvedades siguientes:
@@ -737,7 +761,8 @@ Los demás términos y condiciones que regulen la relación del desarrollador co
 
 ### Artículo 90
 . Cuando el contrato de asociación público-privada se modifique, deberán revisarse la o las autorizaciones para la prestación de los servicios y, en su caso, realizarse los ajustes pertinentes.
-Sección Segunda De los Contratos de Asociación Público-Privada
+
+## Sección Segunda — De los Contratos de Asociación Público-Privada
 
 ### Artículo 91
 . El contrato de asociación público- privada sólo podrá celebrarse con particulares personas morales cuyo objeto social o fines sean, de manera exclusiva, realizar aquellas actividades necesarias para desarrollar el proyecto respectivo. El objeto social también podrá incluir la participación en el concurso correspondiente.
@@ -863,7 +888,10 @@ De igual manera, podrán darse en garantía o transmitirse las acciones represen
 ### Artículo 103
 . El desarrollador podrá ceder los derechos del contrato, total o parcialmente, previa autorización de la dependencia o entidad contratante.
 Esta cesión sólo podrá llevarse a cabo en los supuestos, términos y condiciones previstos en el propio contrato.
-Capítulo Séptimo De la Ejecución de los Proyectos Sección Primera De la Ejecución de la Obra
+
+## Capítulo Séptimo — De la Ejecución de los Proyectos
+
+## Sección Primera — De la Ejecución de la Obra
 
 ### Artículo 104
 . En los proyectos de asociación público-privada, el desarrollador será responsable de la prestación de los servicios con los niveles de desempeño pactados y, en su caso, de la construcción, equipamiento, mantenimiento, conservación y reparación -menores y mayores-, de la infraestructura, necesarios para la prestación de los citados servicios.
@@ -871,7 +899,8 @@ Capítulo Séptimo De la Ejecución de los Proyectos Sección Primera De la Ejec
 ### Artículo 105
 . La construcción, equipamiento, mantenimiento, conservación y reparación de la infraestructura de un proyecto de asociación público-privada deberán realizarse conforme al programa, características y especificaciones técnicas pactadas en el contrato correspondiente, así como observar las disposiciones de protección ambiental, preservación y conservación del equilibrio ecológico, asentamientos humanos, desarrollo urbano y demás aplicables, en los ámbitos federal, estatal y municipal.
 No estarán sujetos a la Ley de Obras Públicas y Servicios Relacionados con las Mismas, a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, ni a las disposiciones que de ellas emanan, las obras y servicios que realicen los particulares para cumplir con sus obligaciones en un proyecto de asociación público-privada.
-Sección Segunda De la Prestación de los Servicios
+
+## Sección Segunda — De la Prestación de los Servicios
 
 ### Artículo 106
 . El desarrollador deberá prestar los servicios de manera continua, uniforme y regular, en condiciones que impidan cualquier trato discriminatorio, con los niveles de desempeño pactados, en los términos y condiciones previstos en el contrato, autorizaciones para la prestación de los servicios, así como en las disposiciones aplicables.
@@ -879,7 +908,9 @@ Sección Segunda De la Prestación de los Servicios
 ### Artículo 107
 . La prestación de los servicios comenzará previa autorización de la dependencia o entidad contratante.
 No procederá la autorización antes citada sin la previa verificación técnica de que las instalaciones, cumplen las condiciones de seguridad según las especificaciones del proyecto y las requeridas por las disposiciones aplicables.
-Sección Tercera Disposiciones Comunes a la Ejecución de la Obra y a la Prestación de los Servicios
+
+## Sección Tercera
+Disposiciones Comunes a la Ejecución de la Obra y a la Prestación de los Servicios
 
 ### Artículo 108
 . Salvo por las modificaciones determinadas por la dependencia o entidad contratante en términos del artículo 119 de esta Ley, y en los demás supuestos expresamente previstos en el contrato respectivo, los riesgos de operación, prestación de los servicios y, en su caso, de construcción de la infraestructura y financiamiento del proyecto, serán asumidos por el desarrollador.
@@ -897,8 +928,7 @@ Lo dispuesto en los dos párrafos inmediatos anteriores deberá incluirse en los
 ### Artículo 111
 . En caso de concurso mercantil del desarrollador, la autoridad que conozca del mismo, con apoyo de la dependencia o entidad contratante, dispondrá las medidas necesarias para asegurar la continuidad en la ejecución de la obra o en la prestación del servicio.
 
-## Sección Cuarta
-De la Intervención del Proyecto
+## Sección Cuarta — De la Intervención del Proyecto
 
 ### Artículo 112
 . La dependencia o entidad contratante podrá intervenir en la preparación, ejecución de la obra, prestación de los servicios o, en cualquier otra etapa del desarrollo de un proyecto de asociación público-privada, cuando a su juicio el desarrollador incumpla sus obligaciones, por causas imputables a éste, y ponga en peligro el desarrollo mismo del proyecto.
@@ -920,7 +950,10 @@ El desarrollador podrá solicitar la terminación de la intervención, cuando de
 ### Artículo 116
 . Si transcurrido el plazo de la intervención, el desarrollador no está en condiciones de continuar con sus obligaciones, la dependencia o entidad contratante procederá a la rescisión del contrato y, en su caso, a la revocación de las autorizaciones para el desarrollo del proyecto o, cuando así proceda, a solicitar su revocación a la autoridad que las haya otorgado.
 En estos casos, la dependencia o entidad contratante podrá encargarse directamente de la ejecución de la obra y prestación de los servicios, o bien contratar a un nuevo desarrollador mediante concurso en términos del capítulo cuarto de la presente Ley.
-Capítulo Octavo De la Modificación y Prórroga de los Proyectos Sección Primera De la Modificación a los Proyectos
+
+## Capítulo Octavo — De la Modificación y Prórroga de los Proyectos
+
+## Sección Primera — De la Modificación a los Proyectos
 
 ### Artículo 117
 . Durante la vigencia original de un proyecto de asociación público-privada, sólo podrán realizarse modificaciones a éste cuando las mismas tengan por objeto:
@@ -962,13 +995,15 @@ De igual manera, procederá la revisión del contrato cuando sobrevenga un deseq
 ### Artículo 120
 . Toda modificación a un proyecto de asociación público-privada deberá constar en el convenio respectivo y, en su caso, en las respectivas autorizaciones para el desarrollo del proyecto.
 En casos de urgencia o aquellos en que se ponga en riesgo la seguridad de los usuarios, la dependencia o entidad contratante podrá solicitar por escrito al desarrollador que lleve a cabo las acciones que correspondan, aún antes de la formalización de las modificaciones respectivas.
-Sección Segunda De la Prórroga de los Proyectos
+
+## Sección Segunda — De la Prórroga de los Proyectos
 
 ### Artículo 121
 . Previo al vencimiento de la vigencia original del contrato, las partes podrán acordar prórrogas y, en su caso, revisar las condiciones del contrato.
 Para efectos del otorgamiento de las prórrogas la dependencia o entidad deberá considerar cualquier cambio en las condiciones materiales, tecnológicas y económicas, bajo las cuales se lleva a cabo la prestación de los servicios, a fin de determinar si es pertinente el otorgamiento de la prórroga, o en su caso la convocatoria a un nuevo concurso.
 En dicho plazo también podrán solicitarse las prórrogas a las autorizaciones para la prestación de los servicios relativos al proyecto de asociación público-privada, independientemente de lo que señalen las disposiciones que los regulen.
-Capítulo Noveno De la Terminación de la Asociación Público-Privada
+
+## Capítulo Noveno — De la Terminación de la Asociación Público-Privada
 
 ### Artículo 122
 . Sin perjuicio de las demás previstas en cada contrato, serán causas de rescisión de los contratos de asociación público-privada, las siguientes:
@@ -988,8 +1023,7 @@ De conformidad con el artículo 92, fracción XIII, anterior, y lo dispuesto en 
 ### Artículo 124
 . La dependencia o entidad contratante tendrá opción de compra en relación con los demás bienes propiedad del desarrollador, que ésta haya destinado a la prestación de los servicios contratados.
 
-## Capítulo Décimo
-De la Supervisión de los Proyectos
+## Capítulo Décimo — De la Supervisión de los Proyectos
 
 ### Artículo 125
 . Corresponderá a la Secretaría de la Función Pública, en ejercicio de sus atribuciones, supervisar que la preparación, inicio y adjudicación de los proyectos de asociaciones público-privadas, así como de los demás actos regulados por la presente Ley, se ajusten a lo dispuesto en esta misma Ley, salvo los aspectos y actos señalados en los párrafos siguientes.
@@ -1040,8 +1074,11 @@ de esta Ley no será menor a tres meses ni mayor a cinco años, plazo que comenz
 ### Artículo 133
 . Las responsabilidades administrativas a que se refiere el presente capítulo serán independientes de las de orden civil o penal que puedan derivar de la comisión de los mismos hechos.
 
-## Capítulo Duodécimo
-De las Controversias Sección Primera Comité de Expertos
+## Capítulo D — uodécimo
+De las Controversias
+
+## Sección Primera
+Comité de Expertos
 
 ### Artículo 134
 . En caso de divergencias de naturaleza técnica o económica, las partes del contrato de asociación público-privada tratarán de resolverlas de mutuo acuerdo y con apego al principio de buena fe.
@@ -1072,7 +1109,9 @@ De no llegar a un acuerdo, se designará al tercero miembro del comité, mediant
 ### Artículo 137
 . Integrado el comité, podrá allegarse los elementos de juicio que estime necesarios, a fin de analizar cada una de las posturas de las partes. De considerarlo procedente, recibirá en audiencia conjunta a las partes. En todo caso, deberá emitir su dictamen en un plazo no mayor a sesenta días hábiles a partir de su constitución.
 Si el dictamen es aprobado por unanimidad, será obligatorio para las partes. De lo contrario, quedarán a salvo los derechos de cada una de ellas.
-Sección Segunda Procedimiento Arbitral y de Conciliación
+
+## Sección Segunda
+Procedimiento Arbitral y de Conciliación
 
 ### Artículo 138
 . Las partes de un contrato de asociación público-privada podrán pactar en el mismo la posibilidad de acudir ante la Secretaría de la Función Pública, a presentar una solicitud de conciliación por desavenencias derivadas del cumplimiento de dicho contrato, la cual se tramitará conforme al procedimiento previsto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, o bien, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, según corresponda y sus reglamentos respectivos.
@@ -1088,7 +1127,9 @@ II. Se llevará en idioma Español; y
 III. El laudo será obligatorio y firme para ambas partes. En su caso, sólo procederá el juicio de amparo.
 No podrá ser materia de arbitraje la revocación de las concesiones y autorizaciones en general, ni los actos de autoridad.
 La solución de controversias relacionadas con la validez legal de cualquier acto administrativo sólo podrá dirimirse por los tribunales federales.
-Sección Tercera Jurisdicción Federal
+
+## Sección Tercera
+Jurisdicción Federal
 
 ### Artículo 140
 . Corresponde a los tribunales federales conocer de las controversias que se susciten de la interpretación o aplicación de esta Ley, así como de los actos que se celebren con fundamento en ella o en las disposiciones que de la misma emanen.
@@ -1096,8 +1137,7 @@ Sección Tercera Jurisdicción Federal
 ### Artículo 141
 . Las autoridades que conozcan de las controversias que se susciten de la interpretación o aplicación de esta Ley, o de los actos que se celebren con fundamento en ella o en las disposiciones que de la misma emanen, proveerán lo necesario a efecto de que el desarrollo del proyecto, o la prestación del servicio objeto del contrato, no se vean interrumpidos.
 
-## Sección Cuarta
-Disposiciones Comunes del Capítulo de Controversias
+## Sección Cuarta — Disposiciones Comunes del Capítulo de Controversias
 
 ### Artículo 142
 . Para iniciar cualquier procedimiento administrativo o jurisdiccional, relativo a actos referidos a la presente Ley o a las disposiciones que de ella emanen, los particulares deberán otorgar garantía para cubrir las multas, daños y perjuicios que puedan llegar a originarse en términos de las disposiciones jurídicas que rigen dichos procedimientos.

@@ -1364,8 +1364,7 @@ de esta Ley, continúe desempeñando las funciones respecto de las cuales fue re
 ### Artículo 132
 .- Las penas previstas en esta Ley, se reducirán en un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
 
-## Capítulo IV
-De las notificaciones
+## Capítulo IV — De las notificaciones
 
 ### Artículo 133
 .- Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de suspensión, revocación de autorizaciones a que se refiere la presente Ley, así como los actos que nieguen las autorizaciones a que se refiere la presente Ley y las resoluciones administrativas que le recaigan a los recursos de revisión y a las solicitudes de condonación interpuestos conforme a las leyes aplicables, se podrán realizar de las siguientes maneras:

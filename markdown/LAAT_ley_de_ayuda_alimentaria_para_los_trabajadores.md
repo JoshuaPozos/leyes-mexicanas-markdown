@@ -12,7 +12,9 @@ SE EXPIDE LA
 
 ### ARTÍCULO ÚNICO
 Se expide la Ley de Ayuda Alimentaria para los Trabajadores, para quedar como sigue:
-Ley de Ayuda Alimentaria para los Trabajadores TÍTULO PRIMERO Disposiciones Generales
+Ley de Ayuda Alimentaria para los Trabajadores
+
+## TÍTULO PRIMERO — Disposiciones Generales
 
 ### Artículo 1o
 . La presente Ley tiene por objeto promover y regular la instrumentación de esquemas de ayuda alimentaria en beneficio de los trabajadores, con el propósito de mejorar su estado nutricional, así como de prevenir las enfermedades vinculadas con una alimentación deficiente y proteger la salud en el ámbito ocupacional.
@@ -35,7 +37,8 @@ Se entenderá que un patrón ha optado concertadamente por otorgar ayuda aliment
 
 ### Artículo 4o
 . Únicamente los patrones que otorguen a sus trabajadores ayuda alimentaria en las modalidades y bajo las condiciones establecidas en el presente ordenamiento podrán recibir los beneficios fiscales contemplados en esta Ley.
-TÍTULO SEGUNDO AYUDA ALIMENTARIA
+
+## TÍTULO SEGUNDO — AYUDA ALIMENTARIA
 
 ## Capítulo I
 Objetivo de la Ayuda Alimentaria
@@ -126,7 +129,8 @@ Incentivos y promoción
 
 ### Artículo 14
 . La Secretaría elaborará y difundirá una campaña nacional permanente encaminada a promover los beneficios para los patrones y los trabajadores vinculados al otorgamiento de ayuda alimentaria en los términos, las modalidades y condiciones previstos en esta Ley. Para la incorporación en las campañas de referencias a los beneficios en materia de salud ocupacional, la Secretaría se coordinará con la Secretaría de Salud.
-TÍTULO TERCERO EVALUACIÓN, SEGUIMIENTO Y VIGILANCIA
+
+## TÍTULO TERCERO — EVALUACIÓN, SEGUIMIENTO Y VIGILANCIA
 
 ## Capítulo I
 Comisión Tripartita
@@ -157,8 +161,9 @@ Vigilancia
 . Sin perjuicio de lo que establece el artículo 9o. de esta Ley, la vigilancia del cumplimiento de lo dispuesto en el presente ordenamiento corresponderá a la Secretaría, a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias.
 Las acciones de vigilancia se ajustarán al procedimiento administrativo establecido en las leyes sustantivas aplicables en materia sanitaria y laboral y, de forma supletoria a éstas, a lo que prescriben la Ley Federal de Procedimiento Administrativo o equivalentes en las entidades federativas, según corresponda.
 
-## TÍTULO CUARTO
-SANCIONES Capítulo Único
+## TÍTULO CUARTO — SANCIONES
+
+## Capítulo Único
 
 ### Artículo 17
 . Las violaciones a los preceptos de esta Ley y las disposiciones que emanen de ella serán sancionadas administrativamente por las autoridades sanitarias y laborales, federales o locales, en el ámbito de sus respectivas competencias, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.

@@ -15,7 +15,10 @@ SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTR
 
 ### ARTÍCULO SÉPTIMO
 Se expide la Ley de Geotermia, para quedar como sigue:
-TÍTULO PRIMERO Capítulo Único Disposiciones Generales
+
+## TÍTULO PRIMERO
+
+## Capítulo Único — Disposiciones Generales
 
 ### Artículo 1
 .- La presente Ley es reglamentaria de los artículos 25, párrafo quinto, 27, párrafos cuarto y sexto y 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, y tiene por objeto regular la Exploración y la Explotación de Recursos Geotérmicos para el aprovechamiento sustentable de la energía térmica del subsuelo dentro de los límites del territorio nacional, con el fin de generar energía eléctrica o destinarla a Usos Diversos, o ambos.
@@ -130,10 +133,10 @@ XXV. Celebrar convenios de coordinación con autoridades estatales o municipales
 XXVI. Establecer incentivos para el desarrollo de la energía geotérmica cuando generen mayores beneficios que otro tipo de energías renovables, principalmente en relación con la confiabilidad y seguridad del Sistema Eléctrico Nacional, y
 
 XXVII. Las demás que le confieran expresamente otras disposiciones legales.
-TÍTULO SEGUNDO DE LAS MODALIDADES PARA EL APROVECHAMIENTO DE RECURSOS GEOTÉRMICOS
 
-## Capítulo I
-De los Permisos de Exploración
+## TÍTULO SEGUNDO — DE LAS MODALIDADES PARA EL APROVECHAMIENTO DE RECURSOS GEOTÉRMICOS
+
+## Capítulo I — De los Permisos de Exploración
 
 ### Artículo 8
 .- La realización de actividades de Exploración por parte de las personas particulares o de las Empresas Públicas del Estado, requiere de un Permiso de Exploración previo otorgado por la Secretaría, en términos de lo dispuesto en esta Ley, su Reglamento y demás disposiciones aplicables. Lo anterior, sin perjuicio de las autorizaciones que la persona solicitante del Permiso de Exploración debe obtener de otras autoridades federales, estatales o municipales, en términos de las disposiciones legales aplicables.
@@ -239,8 +242,7 @@ XV. Las demás que señale la propia Ley, el Reglamento, los términos y condici
 ### Artículo 19
 .- La persona permisionaria puede solicitar la Concesión, dentro de los seis meses anteriores a que termine la vigencia del Permiso de Exploración y hasta seis meses después de que éste concluya, salvo lo dispuesto por el segundo párrafo, del artículo 13, de esta Ley.
 
-## Capítulo II
-De las Concesiones de Explotación
+## Capítulo II — De las Concesiones de Explotación
 
 ### Artículo 20
 .- Las personas titulares de un Permiso de Exploración que hayan cumplido con los requisitos establecidos en esta Ley y su Reglamento y las disposiciones que al efecto se emitan, pueden solicitar ante la Secretaría la Concesión correspondiente.
@@ -336,8 +338,7 @@ XII. Las demás que señale la propia Ley, el Reglamento, los términos y condic
 ### Artículo 26
 .- La Concesionaria puede ceder los derechos y obligaciones a su cargo, contenidos en el título respectivo, a quienes reúnan las calidades y capacidades equivalentes a las exigidas a la concesionaria cedente. Dicha autorización se tramita en los plazos y términos que al efecto señale el Reglamento, y debe ser autorizada previamente por la Secretaría.
 
-## Capítulo III
-De las Disposiciones aplicables a los Permisos y las Concesiones
+## Capítulo III — De las Disposiciones aplicables a los Permisos y las Concesiones
 
 ### Artículo 27
 .- Los Permisos de Exploración y las Concesiones no otorgan derechos reales a sus personas titulares, sólo generan un derecho temporal de acuerdo con el objeto de cada instrumento.
@@ -370,8 +371,7 @@ En el título del Permiso de Exploración o de la Concesión, la Secretaría deb
 ### Artículo 30
 .- El Reglamento de la presente Ley debe establecer, entre otros aspectos, el procedimiento y requisitos para el otorgamiento de Permisos de Exploración, Concesiones, prórrogas, y demás situaciones particulares como los avisos de Aprovechamiento Geotérmico Exento y las demás no previstas en la presente Ley.
 
-## Sección I
-De la Terminación, Revocación y Caducidad
+## Sección I — De la Terminación, Revocación y Caducidad
 
 ### Artículo 31
 .- Los Permisos de Exploración y las Concesiones se extinguen por:
@@ -448,8 +448,7 @@ Lo cual deben informar, por escrito, a la Secretaría dentro del término máxim
 .- Las personas permisionarias o concesionarias deben ejecutar las acciones de prevención y de reparación de daños a la población, al medio ambiente o al equilibrio ecológico, derivados de los trabajos de Exploración o Explotación de las Áreas Geotérmicas que realizan, y están obligados a sufragar los costos respectivos, en términos de la legislación aplicable.
 La persona titular de un Permiso de Exploración o Concesión que respecto del cual adeude la reparación o indemnización de los daños descritos en el párrafo anterior, está imposibilitado para obtener otro en tanto no realice las reparaciones de daños correspondientes.
 
-## Sección II
-Del Procedimiento de Reasignación
+## Sección II — Del Procedimiento de Reasignación
 
 ### Artículo 39
 .- Cuando la persona concesionaria dé aviso a la Secretaría de la disminución en sus capacidades técnicas, financieras o legales, de tal manera que le impida cumplir con el objeto, términos y condiciones estipulados en el título de Concesión, la Secretaría puede realizar la Reasignación de dicha Área Geotérmica.
@@ -461,8 +460,7 @@ Asimismo, se puede realizar la Reasignación a aquellas Áreas Geotérmicas que 
 ### Artículo 41
 .- La Secretaría puede ordenar a la Comisión Federal de Electricidad el resguardo de las Áreas Geotérmicas que hayan sido objeto de extinción por terminación anticipada, revocación o caducidad de los títulos de Concesión correspondientes, mientras se lleva a cabo la Reasignación, para la cual puede proporcionar los recursos que sean necesarios para el debido resguardo de dichas Áreas Geotérmicas durante el período mencionado.
 
-## Capítulo IV
-De los Permisos para Usos Diversos y los Aprovechamientos Geotérmicos Exentos
+## Capítulo IV — De los Permisos para Usos Diversos y los Aprovechamientos Geotérmicos Exentos
 
 ### Artículo 42
 .- El aprovechamiento y Explotación del Recurso Geotérmico destinado a Usos Diversos requiere de un Permiso para Usos Diversos otorgado por la Secretaría en los términos de esta Ley, su Reglamento y demás disposiciones normativas aplicables.
@@ -534,10 +532,10 @@ La Secretaría debe entregar a la persona solicitante en el mismo acto administr
 
 ### Artículo 54
 .- En caso de la existencia de un evento de fuerza mayor o caso fortuito que impacte en el desarrollo de las actividades del Permiso de Exploración, Concesión, Permiso para Usos Diversos o Aprovechamientos Geotérmicos Exentos que corresponda, la persona titular debe dar aviso a la Secretaría, por escrito y en el término improrrogable de diez días hábiles contados a partir del inicio o acontecimiento del evento, el cual se ajusta al procedimiento establecido en el Reglamento.
-TÍTULO TERCERO INFORMES, VERIFICACIÓN Y MEDIDAS DE SEGURIDAD
 
-## Capítulo I
-De la Información del Subsuelo Nacional
+## TÍTULO TERCERO — INFORMES, VERIFICACIÓN Y MEDIDAS DE SEGURIDAD
+
+## Capítulo I — De la Información del Subsuelo Nacional
 
 ### Artículo 55
 .- Las personas particulares y las Empresas Públicas del Estado que realizan trabajos de Exploración o Explotación de Áreas Geotérmicas, deben entregar la información geológica, geoquímica, geofísica, geohidrológica, y demás obtenida en la etapa de Exploración de áreas con posible potencial geotérmico a la Secretaría, la cual se encarga del acopio, resguardo y administración de dicha información.
@@ -566,8 +564,7 @@ V. Los reportes de avances técnicos y financieros que conforme a las disposicio
 
 VI. Los demás actos jurídicos que deban inscribirse en este registro, derivados de las disposiciones de esta Ley, Reglamento y las demás disposiciones aplicables.
 
-## Capítulo II
-De las Medidas de Seguridad y Verificación
+## Capítulo II — De las Medidas de Seguridad y Verificación
 
 ### Artículo 59
 .- Las personas titulares de Permisos de Exploración, Concesiones y Permisos de Usos Diversos, así como las personas que realicen Aprovechamientos Geotérmicos Exentos deben informar a la Secretaría, por escrito y en un plazo máximo de cinco días naturales, acerca de todo incidente que pudiera afectar la seguridad de sus instalaciones, personas, bienes o al medio ambiente.
@@ -589,8 +586,9 @@ III. El aseguramiento de sustancias, materiales, equipo y accesorios, y
 
 IV. En su caso, el desmantelamiento de instalaciones y sistemas destinados a la realización de actividades.
 
-## TÍTULO CUARTO
-INFRACCIONES, SANCIONES Y RECURSOS Capítulo Único
+## TÍTULO CUARTO — INFRACCIONES, SANCIONES Y RECURSOS
+
+## Capítulo Único
 
 ### Artículo 63
 .- Las infracciones a esta Ley y a sus disposiciones reglamentarias deben ser sancionadas con amonestaciones, multas de cinco mil a cuarenta y cinco mil veces el valor de la Unidad de Medida y Actualización vigente, suspensión temporal de actividades o revocación de Permiso de Exploración, Concesión o Permiso para Usos Diversos de que se trate, a juicio de la Secretaría, tomando en cuenta la importancia de la falta y la extensión del Área Geotérmica permisionada o concesionada, según sea el caso.

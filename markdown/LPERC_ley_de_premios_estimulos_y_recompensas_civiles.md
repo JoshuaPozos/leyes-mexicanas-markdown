@@ -828,8 +828,8 @@ Artículo adicionado DOF 27-01-2015
 .- El Premio se tramitará ante el organismo federal Procuraduría de la Defensa del Contribuyente, en ejercicio de su autonomía, y a través de sus instancias competentes emitirá las reglas para la integración del Consejo de Premiación que se constituirá por personas de reconocida calidad moral, académica o intelectual y representantes de los sectores público y privado, así como un representante de cada una de las Cámaras del Congreso de la Unión.
 Artículo adicionado DOF 27-01-2015
 
-## CAPÍTULO XXIV
-Disposiciones Generales Capítulo adicionado DOF 30-06-2006. Recorrido (antes Capítulo XXIII) DOF 27-01-2015
+## CAPÍTULO XXIV — Disposiciones Generales
+Capítulo adicionado DOF 30-06-2006. Recorrido (antes Capítulo XXIII) DOF 27-01-2015
 
 ### Artículo 128
 .- Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el capítulo XVI únicamente podrán recaer sobre el presupuesto de la dependencia u organismo al que pertenezca el beneficiario.
@@ -925,10 +925,7 @@ Publicado en el Diario Oficial de la Federación el 15 de junio de 2004
 Se reforman el párrafo segundo del artículo 2, el primer párrafo del artículo 72, el primer párrafo del artículo 73, los artículos 74 y 75; se adicionan las fracciones XIII, XIV, XV y XVI al
 
 ### artículo 6
-, las fracciones I a la X al artículo 72, un párrafo segundo al artículo 73 y los Capítulos XVIII, XIX, XX y XXI por lo que se recorre el Capítulo XVIII denominado "Disposiciones Generales" para ser el
-
-## Capítulo XXII de la Ley de Premios, Estímulos y Recompensas Civiles para quedar como sigue:
-........
+, las fracciones I a la X al artículo 72, un párrafo segundo al artículo 73 y los Capítulos XVIII, XIX, XX y XXI por lo que se recorre el Capítulo XVIII denominado "Disposiciones Generales" para ser el Capítulo XXII de la Ley de Premios, Estímulos y Recompensas Civiles para quedar como sigue: ........
 
 ## TRANSITORIO
 

@@ -996,8 +996,8 @@ Ter.- Se aplicará pena de cinco a quince años de prisión y de doscientos a se
 .
 Artículo adicionado DOF 28-06-2007
 
-## CAPÍTULO VI BIS
-Del Financiamiento al Terrorismo Capítulo adicionado DOF 14-03-2014
+## CAPÍTULO VI BIS — Del Financiamiento al Terrorismo
+Capítulo adicionado DOF 14-03-2014
 
 ### Artículo 139
 Quáter.- Se impondrá la misma pena señalada en el artículo 139 de este Código, sin perjuicio de las penas que corresponden por los demás delitos que resulten, al que por cualquier medio que fuere ya sea directa o indirectamente, aporte o recaude fondos económicos o recursos de cualquier naturaleza, con conocimiento de que serán destinados para financiar o apoyar actividades de individuos u organizaciones terroristas, o para ser utilizados, o pretendan ser utilizados, directa o indirectamente, total o parcialmente, para la comisión, en territorio nacional o en el extranjero, de cualquiera de los delitos previstos en los ordenamientos legales siguientes: 1) Terrorismo, previstos en los artículos 139, 139 Bis y 139 Ter; 2) Sabotaje, previsto en el artículo 140; 3) Terrorismo Internacional, previsto en los artículos 148 Bis, 148 Ter y 148 Quáter; 4) Ataques a las vías de comunicación, previstos en los artículos 167, fracción IX, y 170, párrafos primero, segundo y tercero, y 5) Robo, previsto en el artículo 368 Quinquies.
@@ -1095,7 +1095,13 @@ Por tal delito se impondrán de veinte a cuarenta años de prisión y multa de q
 Si con idéntico propósito se llevaren a cabo ataques a la integridad corporal o a la salud de los miembros de dichas comunidades o se trasladaren de ellas a otros grupos menores de dieciocho años, empleando para ello la violencia física o moral, la sanción será de cinco a veinte años de prisión y multa de dos mil a siete mil pesos.
 Párrafo reformado DOF 09-03-2018 Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien con igual propósito someta intencionalmente al grupo a condiciones de existencia que hayan de acarrear su destrucción física, total o parcial.
 En caso de que los responsables de dichos delitos fueran gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
-Artículo adicionado DOF 20-01-1967 Título Tercero Bis Delitos contra la Dignidad de las Personas Título adicionado DOF 14-06-2012 Capítulo Único Discriminación Capítulo adicionado DOF 14-06-2012
+Artículo adicionado DOF 20-01-1967
+
+## Título Tercero — Bis
+Delitos contra la Dignidad de las Personas Título adicionado DOF 14-06-2012
+
+## Capítulo Único
+Discriminación Capítulo adicionado DOF 14-06-2012
 
 ### Artículo 149
 Ter. Se aplicará sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa al que por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
@@ -1488,7 +1494,10 @@ Artículo adicionado DOF 14-06-2012
 
 ### Artículo 199
 Sextus. Los delitos previstos en este capítulo serán perseguibles de oficio, a excepción de los que se señalen por querella de parte ofendida.
-Artículo adicionado DOF 14-06-2012 TÍTULO SÉPTIMO BIS DELITOS CONTRA LA INDEMNIDAD DE PRIVACIDAD DE LA INFORMACIÓN SEXUAL Título adicionado DOF 15-06-2018
+Artículo adicionado DOF 14-06-2012
+
+## TÍTULO SÉPTIMO — BIS
+DELITOS CONTRA LA INDEMNIDAD DE PRIVACIDAD DE LA INFORMACIÓN SEXUAL Título adicionado DOF 15-06-2018
 
 ## CAPÍTULO I
 Comunicación de Contenido Sexual con Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen la Capacidad para Resistirlo Capítulo adicionado DOF 15-06-2018
@@ -1875,8 +1884,8 @@ I.- Genere y utilice información falsa o alterada, respecto de los rendimientos
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días multa.
 Artículo adicionado DOF 18-07-2016
 
-## CAPÍTULO V BIS
-Del pago y recibo indebido de remuneraciones de los servidores públicos Capítulo adicionado DOF 05-11-2018
+## CAPÍTULO V BIS — Del pago y recibo indebido de remuneraciones de los servidores públicos
+Capítulo adicionado DOF 05-11-2018
 
 ### Artículo 217
 Ter. Además de las responsabilidades administrativa y política, incurre en el delito de remuneración ilícita:
@@ -2804,7 +2813,9 @@ Fe de erratas al artículo DOF 31-08-1931
 
 ### Artículo 343
 .- Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
-CAPÍTULO OCTAVO Violencia familiar Capítulo adicionado DOF 30-12-1997
+
+## CAPÍTULO OCTAVO
+Violencia familiar Capítulo adicionado DOF 30-12-1997
 
 ### Artículo 343
 Bis. Comete el delito de violencia familiar quien lleve a cabo actos o conductas de dominio, control o agresión física, psicológica, patrimonial o económica, o sexual a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, cohabitación o una relación de pareja dentro o fuera del domicilio familiar.
@@ -3459,7 +3470,10 @@ Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002
 ### Artículo 416
 .- Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, al que ilícitamente descargue, deposite, o infiltre, lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los suelos, subsuelos, aguas marinas, ríos, cuencas, vasos o demás depósitos o corrientes de agua de competencia federal, que cause un riesgo de daño o dañe a los recursos naturales, a la flora, a la fauna, a la calidad del agua, a los ecosistemas o al ambiente.
 Cuando se trate de aguas que se encuentren depositadas, fluyan en o hacia una área natural protegida, la prisión se elevará hasta tres años más y la pena económica hasta mil días multa.
-Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002 CAPÍTULO SEGUNDO De la biodiversidad Capítulo adicionado DOF 06-02-2002
+Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002
+
+## CAPÍTULO SEGUNDO — De la biodiversidad
+Capítulo adicionado DOF 06-02-2002
 
 ### Artículo 417
 .- Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, al que introduzca al territorio nacional, o trafique con recursos forestales, flora o fauna silvestre viva o muerta, sus productos o derivados, que porten, padezcan o hayan padecido, según corresponda alguna enfermedad contagiosa, que ocasione o pueda ocasionar su diseminación o propagación o el contagio a la flora, a la fauna, a los recursos forestales o a los ecosistemas.
@@ -3535,7 +3549,10 @@ III. Introduzca o libere en el medio natural, algún ejemplar de flora o fauna e
 
 IV. Provoque un incendio en un bosque, selva, vegetación natural o terrenos forestales, que dañe elementos naturales, flora, fauna, los ecosistemas o al ambiente.
 Se aplicará una pena adicional hasta de dos años de prisión y hasta mil días multa adicionales, cuando las conductas descritas en el presente artículo se realicen en o afecten un área natural protegida, o el autor o partícipe del delito previsto en la fracción IV, realice la conducta para obtener un lucro o beneficio económico.
-Artículo adicionado DOF 06-02-2002 CAPÍTULO TERCERO De la bioseguridad Capítulo adicionado DOF 06-02-2002
+Artículo adicionado DOF 06-02-2002
+
+## CAPÍTULO TERCERO — De la bioseguridad
+Capítulo adicionado DOF 06-02-2002
 
 ### Artículo 420
 Ter.- Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, a quien en contravención a lo establecido en la normatividad aplicable, introduzca al país, o extraiga del mismo, comercie, transporte, almacene o libere al ambiente, algún organismo genéticamente modificado que altere o pueda alterar negativamente los componentes, la estructura o el funcionamiento de los ecosistemas naturales.
@@ -3558,7 +3575,10 @@ IV. Prestando sus servicios como auditor técnico, especialista o perito o espec
 
 V. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
 Los delitos previstos en el presente Capítulo se perseguirán por querella de la Procuraduría Federal de Protección al Ambiente.
-Artículo adicionado DOF 06-02-2002 CAPÍTULO QUINTO Disposiciones comunes a los delitos contra el ambiente Capítulo adicionado DOF 06-02-2002
+Artículo adicionado DOF 06-02-2002
+
+## CAPÍTULO QUINTO — Disposiciones comunes a los delitos contra el ambiente
+Capítulo adicionado DOF 06-02-2002
 
 ### Artículo 421
 . Además de lo establecido en los anteriores capítulos del Título Vigésimo Quinto, se impondrán las siguientes penas y medidas de seguridad:
@@ -4424,7 +4444,7 @@ Publicado en el Diario Oficial de la Federación el 27 de marzo de 2007
 ### ARTÍCULO PRIMERO
 : Se reforma el inciso c) del artículo 85; las denominaciones del Título Octavo y de sus correspondientes Capítulos Primero, Segundo, Tercero y Cuarto del Libro Segundo; los artículos 200; 201 bis; 202; 203; 204; 205; 206, 207, 208 y 209. Se adicionan los artículos 202 bis 203 bis, 204 bis, 205 bis y 206 bis; tres nuevos Capítulos Quinto, Sexto y Séptimo al Título Octavo, un Capítulo Tercero al
 
-## Título Décimo Octavo ambos del Libro Segundo. Se derogan los artículos 201 BIS 1, 201 BIS 2 y 201 BIS
+## Título Décimo — Octavo ambos del Libro Segundo. Se derogan los artículos 201 BIS 1, 201 BIS 2 y 201 BIS
 .........
 
 ## TRANSITORIOS
@@ -5089,9 +5109,8 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del P
 ### Artículo Único
 Se reforman el párrafo primero y el inciso e) del artículo 201; la denominación al
 
-## Título Décimo; el párrafo primero del artículo 212; el artículo 213; el artículo 213 Bis; la denominación del
-
-## Capítulo II del Título Décimo; el párrafo primero y su fracción III, los párrafos segundo y tercero del
+## Título Décimo — ; el párrafo primero del artículo 212; el artículo 213; el artículo 213 Bis; la denominación del
+Capítulo II del Título Décimo; el párrafo primero y su fracción III, los párrafos segundo y tercero del
 
 ### artículo 214
 ; las fracciones VI, IX, XI, XIII y los párrafos segundo y tercero del artículo 215; los párrafos primero y segundo del artículo 216; la denominación del Capítulo V del Título Décimo; el párrafo primero, la fracción I y los incisos B), C), D), la fracción III y el párrafo segundo del artículo 217; los párrafos tercero y cuarto del artículo 218; la fracción I y el párrafo segundo del artículo 219; la fracción I y los párrafos tercero y cuarto del artículo 220; el párrafo segundo del artículo 221; las fracciones I, II y los actuales párrafos tercero y cuarto del artículo 222; las fracciones I, II, III y los párrafos tercero y cuarto del
@@ -5236,7 +5255,7 @@ Publicado en el Diario Oficial de la Federación el 17 de noviembre de 2017
 ### ARTÍCULO SEGUNDO
 Se reforma el tercer párrafo del artículo 25; se deroga el Capítulo III Bis del
 
-## Título Décimo conformado por los artículos 215-A a 215-D, y se adiciona un artículo 280 Bis al Título
+## Título Décimo — conformado por los artículos 215-A a 215-D, y se adiciona un artículo 280 Bis al Título
 ……….
 
 ## Transitorios
@@ -5342,7 +5361,10 @@ Se reforma el artículo 11 Bis, apartado B, fracción XXI del Código Penal Fede
 Artículo derogado DOF 12-11-2021
 **Cuarto.** A partir de la entrada en vigor del presente Decreto, quedan sin efecto las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera. de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisición de acciones que se enajenan, el monto de las pérdidas fiscales que hayan considerado en la determinación del crédito a que se refiere la citada fracción VIII.
 Ciudad de México, a 17 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Mariana Arámbula Meléndez, Secretaria.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a quince de mayo de dos mil dieciocho.Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.Rúbrica.
-DECRETO por el que se reforma el primer párrafo del artículo 259 Bis; se adiciona un Título Séptimo BIS con un Capítulo I; un artículo 199 Septies; y una fracción V al artículo Publicado en el Diario Oficial de la Federación 15 de junio de 2018
+DECRETO por el que se reforma el primer párrafo del artículo 259 Bis; se adiciona un
+
+## Título Séptimo — BIS con un Capítulo I; un artículo 199 Septies; y una fracción V al artículo
+Publicado en el Diario Oficial de la Federación 15 de junio de 2018
 
 ### Artículo Único
 Se reforma el primer párrafo del artículo 259 Bis; se adiciona un Título Séptimo BIS para quedar como sigue: ……..

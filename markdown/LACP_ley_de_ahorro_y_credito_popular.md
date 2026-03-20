@@ -11,7 +11,11 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DEC
 SE EXPIDE LA   Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO Y DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS.
 
 ### ARTÍCULO PRIMERO
-Se expide la siguiente TÍTULO PRIMERO DISPOSICIONES GENERALES Capítulo Único
+Se expide la siguiente
+
+## TÍTULO PRIMERO — DISPOSICIONES GENERALES
+
+## Capítulo Único
 
 ### Artículo 1o
 .- La presente Ley es de orden público, de interés social y observancia general en todo el territorio nacional y tiene por objeto lo siguiente:
@@ -108,10 +112,12 @@ III. El Código Fiscal de la Federación para efectos de las notificaciones a qu
 
 IV. La Ley Federal de Procedimiento Administrativo en sus Títulos Tercero A, referente a la mejora regulatoria.
 Los actos jurídicos que se celebren en contravención a lo establecido por esta Ley o por las disposiciones que de ella emanen, así como a las condiciones que, en lo particular, se señalen en las autorizaciones que se emitan para que se organicen y operen las Sociedades Financieras Populares con tal carácter y en los demás actos administrativos, darán lugar a la imposición de las sanciones administrativas y penales que correspondan, sin que dichas contravenciones produzcan la nulidad de los actos, en protección de terceros de buena fe, salvo que esta Ley establezca expresamente lo contrario.
-Artículo reformado DOF 13-08-2009 TÍTULO SEGUNDO DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS SOCIEDADES FINANCIERAS POPULARES, SOCIEDADES FINANCIERAS COMUNITARIAS Y ORGANISMOS DE INTEGRACIÓN FINANCIERA RURAL Denominación del Título reformada DOF 13-08-2009
+Artículo reformado DOF 13-08-2009
 
-## Capítulo I
-Disposiciones Comunes
+## TÍTULO SEGUNDO — DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS SOCIEDADES FINANCIERAS
+POPULARES, SOCIEDADES FINANCIERAS COMUNITARIAS Y ORGANISMOS DE INTEGRACIÓN FINANCIERA RURAL Denominación del Título reformada DOF 13-08-2009
+
+## Capítulo I — Disposiciones Comunes
 
 ### Artículo 9
 .- Se requerirá dictamen favorable de una Federación y autorización que compete otorgar discrecionalmente a la Comisión, para la organización y funcionamiento de las Sociedades Financieras Populares. Por su propia naturaleza las autorizaciones serán intransmisibles.
@@ -715,8 +721,8 @@ Párrafo reformado DOF 24-01-2024 La revocación incapacitará a la Sociedad Fin
 Párrafo reformado DOF 24-01-2024 La Comisión podrá promover ante la autoridad judicial para que designe al liquidador, si en el plazo de sesenta días hábiles de publicada la revocación no hubiere sido designado. Cuando la propia Comisión encuentre que existe imposibilidad de llevar a cabo la liquidación de la Sociedad Financiera Popular, podrá hacerlo del conocimiento del juez competente para que ordene la cancelación de su inscripción en el Registro Público de Comercio, la que surtirá sus efectos transcurridos ciento ochenta días hábiles a partir del mandamiento judicial. Los interesados podrán oponerse a esta cancelación dentro del citado plazo de sesenta días hábiles, ante la propia autoridad judicial.
 Artículo reformado DOF 23-02-2005, 13-08-2009
 
-## Capítulo II
-De las Sociedades Cooperativas de Ahorro y Préstamo (Derogado) Capítulo derogado DOF 13-08-2009
+## Capítulo II — De las Sociedades Cooperativas de Ahorro y Préstamo
+(Derogado) Capítulo derogado DOF 13-08-2009
 
 ### Artículo 38
 .- Se deroga.
@@ -730,8 +736,7 @@ Artículo derogado DOF 13-08-2009
 .- Se deroga.
 Artículo derogado DOF 13-08-2009
 
-## Capítulo III
-De las Sociedades Financieras Populares
+## Capítulo III — De las Sociedades Financieras Populares
 
 ### Artículo 41
 .- Las Sociedades Financieras Populares serán sociedades anónimas, tendrán duración indefinida y establecerán su domicilio en territorio nacional, pudiendo prestar servicios tanto a sus Socios como a sus Clientes, en los términos que esta Ley establece. Sólo podrán utilizar esta denominación las sociedades autorizadas para operar en los términos de esta Ley.
@@ -798,8 +803,11 @@ Las Sociedades Financieras Populares podrán intercambiar la información contem
 El intercambio de información a que se refiere el párrafo anterior no implicará trasgresión alguna a lo establecido en el artículo 34 de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
-## Capítulo IV
-De las Sociedades Financieras Comunitarias y de los Organismos de Integración Financiera Rural Capítulo adicionado DOF 13-08-2009 Sección Primera Disposiciones Generales Sección adicionada DOF 13-08-2009
+## Capítulo IV — De las Sociedades Financieras Comunitarias y de los Organismos de Integración
+Financiera Rural Capítulo adicionado DOF 13-08-2009
+
+## Sección Primera — Disposiciones Generales
+Sección adicionada DOF 13-08-2009
 
 ### Artículo 46
 .- Las Sociedades Financieras Comunitarias y los Organismos de Integración Financiera Rural se regirán por los principios de territorialidad, acción gremial, solidaridad y ayuda mutua.
@@ -848,7 +856,10 @@ Artículo adicionado DOF 13-08-2009
 ### Artículo 46
 Bis 2.- La Secretaría podrá elaborar los programas sectoriales para el desarrollo de las Sociedades Financieras Comunitarias, de las Federaciones y de los Organismos de Integración Financiera Rural, en el marco de la regulación aplicable, tomando en cuenta los objetivos y criterios establecidos en la presente Ley.
 Al efecto, la Secretaría en el ámbito de su competencia, promoverá la participación del sector de las Sociedades Financieras Comunitarias y de los Organismos de Integración Financiera Rural para facilitar a éstas el acceso a los referidos programas.
-Artículo adicionado DOF 13-08-2009 Sección Segunda De las Sociedades Financieras Comunitarias Sección adicionada DOF 13-08-2009 Apartado A De las disposiciones comunes de las Sociedades Financieras Comunitarias Apartado adicionado DOF 13-08-2009
+Artículo adicionado DOF 13-08-2009
+
+## Sección Segunda — De las Sociedades Financieras Comunitarias
+Sección adicionada DOF 13-08-2009 Apartado A De las disposiciones comunes de las Sociedades Financieras Comunitarias Apartado adicionado DOF 13-08-2009
 
 ### Artículo 46
 Bis 3.- Las Sociedades Financieras Comunitarias deberán registrarse ante una Federación en términos de lo dispuesto por el Artículo 46 Bis 4, inscribiendo al efecto los datos a que se refiere el Artículo 46 Bis 5 de esta Ley.
@@ -984,7 +995,10 @@ Artículo adicionado DOF 13-08-2009
 
 ### Artículo 46
 Bis 16.- En todo caso, a las Sociedades Financieras Comunitarias con Niveles de Operación I a IV, les será aplicable lo señalado en el Artículo 46 Bis de esta Ley.
-Artículo adicionado DOF 13-08-2009 Sección Tercera De los Organismos de Integración Financiera Rural Sección adicionada DOF 13-08-2009
+Artículo adicionado DOF 13-08-2009
+
+## Sección Tercera — De los Organismos de Integración Financiera Rural
+Sección adicionada DOF 13-08-2009
 
 ### Artículo 46
 Bis 17.- Los Organismos de Integración Financiera Rural se constituirán con la agrupación voluntaria de Sociedades Financieras Comunitarias, y deberán estar autorizados por la Comisión, para su constitución y funcionamiento. La Comisión para otorgar la referida autorización deberá considerar su ámbito geográfico de operación que pretendan atender.
@@ -1037,10 +1051,13 @@ Artículo adicionado DOF 13-08-2009
 
 ### Artículo 46
 Bis 23.- A los Organismos de Integración Financiera Rural no les resultará aplicable lo dispuesto por el Capítulo VI, del Título Tercero de la presente Ley. No obstante lo anterior, el Fondo de Protección, a través del Comité de Protección al Ahorro podrá, de manera excepcional, autorizar apoyos financieros a los Organismos de Integración Financiera Rural, siempre y cuando se compruebe de manera fehaciente el que de no otorgar dichos apoyos pudiese generar efectos negativos serios en una o más Sociedades Financieras Comunitarias de manera tal, que se ponga en peligro la estabilidad y solvencia de estas últimas y el apoyo a dichas sociedades resultase más oneroso que apoyar directamente al Organismo de Integración Financiera Rural.
-Artículo adicionado DOF 13-08-2009 TÍTULO TERCERO DE LAS FEDERACIONES, MEDIDAS CORRECTIVAS Y DEL FONDO DE PROTECCIÓN Denominación del Título reformada DOF 13-08-2009
+Artículo adicionado DOF 13-08-2009
 
-## Capítulo I
-Disposiciones generales de las Federaciones Denominación del Capítulo reformada DOF 13-08-2009
+## TÍTULO TERCERO — DE LAS FEDERACIONES, MEDIDAS CORRECTIVAS Y DEL FONDO DE PROTECCIÓN
+Denominación del Título reformada DOF 13-08-2009
+
+## Capítulo I — Disposiciones generales de las Federaciones
+Denominación del Capítulo reformada DOF 13-08-2009
 
 ### Artículo 47
 .- Las Sociedades Financieras Populares estarán sujetas a la supervisión de la Comisión, la que tendrá todas las facultades que en materia de inspección y vigilancia le confiere este ordenamiento y la Ley que rige a la propia Comisión. Dichas facultades podrán ser ejercidas directamente por la Comisión y de manera auxiliar por las Federaciones autorizadas conforme al presente Título.
@@ -1196,8 +1213,8 @@ Párrafo reformado DOF 24-01-2024 Artículo reformado DOF 27-01-2003, 13-08-2009
 .- Las Sociedades Financieras Populares afiliadas y no afiliadas supervisadas auxiliarmente por una Federación cuya autorización hubiere sido revocada por la Comisión, deberán solicitar su afiliación a una Federación distinta o sujetarse al régimen de Sociedad Financiera Popular no afiliada en un término no mayor a diez días hábiles a partir de la fecha en que surta sus efectos la revocación antes citada.
 Artículo reformado DOF 27-01-2003, 13-08-2009
 
-## Capítulo II
-De la organización y objeto de las Federaciones Capítulo reformado DOF 13-08-2009 (Se modifica su denominación; queda integrado con los artículos 62 a 72; y se eliminan las referencias a sus Secciones Primera “De su organización y objeto”, Segunda “De su funcionamiento y de las medidas correctivas”, Tercera “De la afiliación”, Cuarta “De las Entidades no afiliadas” y Quinta “De la Escisión, Fusión, Venta, Disolución y Liquidación”)
+## Capítulo II — De la organización y objeto de las Federaciones
+Capítulo reformado DOF 13-08-2009 (Se modifica su denominación; queda integrado con los artículos 62 a 72; y se eliminan las referencias a sus Secciones Primera “De su organización y objeto”, Segunda “De su funcionamiento y de las medidas correctivas”, Tercera “De la afiliación”, Cuarta “De las Entidades no afiliadas” y Quinta “De la Escisión, Fusión, Venta, Disolución y Liquidación”)
 
 ### Artículo 62
 .- Sin perjuicio de lo dispuesto en el Artículo 47 de esta Ley, la supervisión auxiliar de las Sociedades Financieras Populares a cargo de las Federaciones tendrá por objeto revisar, verificar, comprobar y evaluar los recursos, obligaciones y patrimonio, así como las operaciones, funcionamiento, sistemas de control y en general, todo lo que pudiendo afectar la posición financiera y legal de las Sociedades Financieras Populares, conste o deba constar en los registros, a fin de que se ajusten al cumplimiento de las disposiciones que las rigen y a las sanas prácticas de la materia, en los términos que indique la Comisión en disposiciones de carácter general.
@@ -1329,8 +1346,8 @@ I. Proporcionar a la Federación que ejerza sobre ellas la supervisión auxiliar
 
 II. Cumplir con las medidas correctivas a que se refiere este Capítulo, permitir la práctica de visitas y auditorías para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley, de las disposiciones que de ella emanen y de los contratos citados.
 
-## Capítulo III
-De las medidas correctivas Capítulo reformado DOF 13-08-2009 (se modifica su denominación y se reubica para quedar integrado con los artículos 73 a 80)
+## Capítulo III — De las medidas correctivas
+Capítulo reformado DOF 13-08-2009 (se modifica su denominación y se reubica para quedar integrado con los artículos 73 a 80)
 
 ### Artículo 73
 .- En el ejercicio de sus funciones de supervisión auxiliar, el Comité de Supervisión clasificará a las Sociedades Financieras Populares en alguna de las cuatro categorías a que se refiere el
@@ -1403,15 +1420,16 @@ El oficio que contenga el nombramiento de interventor-gerente deberá inscribirs
 Artículo reformado DOF 13-08-2009
 
 ### Artículo 80
-.- En aquellos casos previstos en los Artículos 75, 78 y 90 de esta Ley, las personas que tengan a su cargo la administración, podrán determinar la suspensión parcial de sus operaciones o el cierre de oficinas y sucursales, con aprobación del Comité de Protección al Ahorro, debiendo tomar las medidas necesarias para que la Sociedad no celebre nuevas operaciones de ahorro y crédito y no se cubran las obligaciones a su cargo hasta en tanto se adopte algún mecanismo de los previstos en el
-
-## Capítulo V del Título Tercero de esta Ley.
+.- En aquellos casos previstos en los Artículos 75, 78 y 90 de esta Ley, las personas que tengan a su cargo la administración, podrán determinar la suspensión parcial de sus operaciones o el cierre de oficinas y sucursales, con aprobación del Comité de Protección al Ahorro, debiendo tomar las medidas necesarias para que la Sociedad no celebre nuevas operaciones de ahorro y crédito y no se cubran las obligaciones a su cargo hasta en tanto se adopte algún mecanismo de los previstos en el Capítulo V del Título Tercero de esta Ley.
 Lo anterior, con excepción del pago a los ahorradores que podrá ser hasta por el cincuenta por ciento del monto garantizado por el Fondo de Protección para la Sociedad Financiera Popular de que se trate, de conformidad con lo que determine el Comité de Protección al Ahorro, siempre que los depósitos sean líquidos y exigibles. Dichos pagos se descontarán del monto garantizado a que se refiere el Artículo 105 de esta Ley.
 El monto de los depósitos que no hubieran sido pagados conforme a lo anterior, se renovarán a las mismas tasas de interés pactadas originalmente y hasta la fecha en que se adopte el procedimiento correspondiente.
 Artículo reformado DOF 13-08-2009
 
-## Capítulo IV
-De los contratos de afiliación y de supervisión auxiliar Capítulo reformado DOF 13-08-2009 (se modifica su denominación y se reubica para quedar integrado con los artículos 81 a 89) Sección Primera De las Sociedades Financieras Populares afiliadas Sección adicionada DOF 13-08-2009
+## Capítulo IV — De los contratos de afiliación y de supervisión auxiliar
+Capítulo reformado DOF 13-08-2009 (se modifica su denominación y se reubica para quedar integrado con los artículos 81 a 89)
+
+## Sección Primera — De las Sociedades Financieras Populares afiliadas
+Sección adicionada DOF 13-08-2009
 
 ### Artículo 81
 .- Las Sociedades Financieras Populares podrán afiliarse a una Federación autorizada por la Comisión para supervisarlas de manera auxiliar.
@@ -1444,7 +1462,10 @@ Artículo reformado DOF 13-08-2009
 
 ### Artículo 86
 .- Para los efectos de los Artículos 84 y 85 de esta Ley, la Federación continuará ejerciendo sobre la Sociedad Financiera Popular desafiliada, las labores de supervisión auxiliar, debiendo esta última cubrir el costo de esa supervisión en términos del Artículo 88 de esta Ley, hasta en tanto celebre un nuevo contrato de afiliación con una Federación distinta, o se sujete al régimen de Sociedad Financiera Popular no afiliada, de conformidad con lo dispuesto en esta Ley. Tratándose de Sociedades Financieras Populares que celebren un nuevo contrato de afiliación con una Federación distinta, la formalización de dicho contrato deberá efectuarse a más tardar dentro de los cinco días hábiles siguientes a la fecha de celebración de dicho contrato y deberán enviar un ejemplar del mismo a la Comisión a través de la nueva Federación.
-Artículo reformado DOF 31-08-2007, 13-08-2009 Sección Segunda De las Sociedades Financieras Populares no afiliadas Sección adicionada DOF 13-08-2009
+Artículo reformado DOF 31-08-2007, 13-08-2009
+
+## Sección Segunda — De las Sociedades Financieras Populares no afiliadas
+Sección adicionada DOF 13-08-2009
 
 ### Artículo 87
 .- Las sociedades que, habiéndose organizado con arreglo a esta Ley para operar como Sociedades Financieras Populares, no celebren contrato de afiliación con una Federación, serán consideradas como Sociedades Financieras Populares no afiliadas.
@@ -1465,8 +1486,8 @@ Artículo reformado DOF 31-08-2007, 13-08-2009
 .- Las Federaciones podrán prestar servicios complementarios a las Sociedades Financieras Populares no afiliadas, a un costo que no podrá ser inferior al que corresponda a una Sociedad Financiera Popular afiliada.
 Artículo reformado DOF 13-08-2009
 
-## Capítulo V
-De la Escisión, Fusión, Venta, Disolución y Liquidación Capítulo adicionado DOF 13-08-2009 (queda integrado con los existentes artículos 90 a 97)
+## Capítulo V — De la Escisión, Fusión, Venta, Disolución y Liquidación
+Capítulo adicionado DOF 13-08-2009 (queda integrado con los existentes artículos 90 a 97)
 
 ### Artículo 90
 .- El Comité de Protección al Ahorro podrá determinar la implementación por parte de las Sociedades Financieras Populares de alguno de los mecanismos siguientes:
@@ -1561,8 +1582,11 @@ Las propuestas de enajenación que presente el síndico, con la aprobación del 
 Cuando se declare el concurso mercantil de una Sociedad Financiera Popular, el procedimiento se iniciará en todos los casos en la etapa de quiebra.
 Artículo reformado DOF 13-08-2009
 
-## Capítulo VI
-Del Fondo de Protección Capítulo adicionado DOF 13-08-2009 (queda integrado con los existentes artículos 98 a 112) Sección Primera De la constitución Sección adicionada DOF 13-08-2009
+## Capítulo VI — Del Fondo de Protección
+Capítulo adicionado DOF 13-08-2009 (queda integrado con los existentes artículos 98 a 112)
+
+## Sección Primera — De la constitución
+Sección adicionada DOF 13-08-2009
 
 ### Artículo 98
 .- Las Sociedades Financieras Populares deberán participar en el sistema de protección a ahorradores denominado Fondo de Protección, en los términos de esta Ley.
@@ -1595,7 +1619,10 @@ Artículo reformado DOF 13-08-2009
 ### Artículo 101
 Bis.- Las Confederaciones a través de su asamblea general, deberán designar, al menos, un consejero independiente para que participe en los trabajos del consejo de administración, en igualdad de circunstancias que el resto de los consejeros.
 Párrafo reformado DOF 31-08-2007 Se entenderá por consejero independiente a la persona que sea ajena a la administración de la Confederación de que se trate, y que reúna los requisitos y condiciones que determine la Comisión, mediante disposiciones de carácter general.
-Artículo adicionado DOF 27-01-2003 Sección Segunda Del Comité Técnico Sección adicionada DOF 13-08-2009
+Artículo adicionado DOF 27-01-2003
+
+## Sección Segunda — Del Comité Técnico
+Sección adicionada DOF 13-08-2009
 
 ### Artículo 102
 .- El Comité Técnico del Fondo de Protección estará integrado por seis representantes del sector de las Sociedades Financieras Populares que deberán cumplir con los requisitos señalados en el
@@ -1674,7 +1701,10 @@ El Comité Técnico, en la determinación de las cuotas periódicas correspondie
 El Fondo de Protección deberá publicar en el Diario Oficial de la Federación la forma de efectuar el cálculo de las cuotas periódicas a que se refiere la presente fracción, así como de los intereses moratorios en caso de incumplimiento en su pago; y
 
 VI. Las demás que ésta y otras Leyes prevean para el cumplimiento de su objeto, así como las que se prevean en el contrato constitutivo del Fondo de Protección.
-Artículo reformado DOF 13-08-2009 Sección Tercera Otras disposiciones Sección adicionada DOF 13-08-2009
+Artículo reformado DOF 13-08-2009
+
+## Sección Tercera
+Otras disposiciones Sección adicionada DOF 13-08-2009
 
 ### Artículo 104
 Bis.- El reglamento interior del Fondo de Protección deberá contener, entre otras, las normas aplicables a:
@@ -1702,8 +1732,8 @@ Artículo adicionado DOF 13-08-2009
 Bis 2.- El Fondo de Protección y sus respectivos comités, estarán sujetos a la supervisión de la Comisión, la que tendrá todas las facultades que en materia de inspección y vigilancia le confiere este ordenamiento y su propia Ley.
 Artículo adicionado DOF 13-08-2009
 
-## Sección Cuarta
-Del objeto del Fondo de Protección Sección adicionada DOF 13-08-2009
+## Sección Cuarta — Del objeto del Fondo de Protección
+Sección adicionada DOF 13-08-2009
 
 ### Artículo 105
 .- Las Sociedades Financieras Populares estarán obligadas a pagar al Fondo de Protección, las cuotas mensuales que determine el Comité de Protección al Ahorro.
@@ -1737,7 +1767,10 @@ Artículo reformado DOF 13-08-2009
 
 ### Artículo 107
 .- Se deroga.
-Artículo reformado DOF 23-02-2005. Derogado DOF 13-08-2009 Sección Quinta Del Comité de Protección al Ahorro Sección adicionada DOF 13-08-2009
+Artículo reformado DOF 23-02-2005. Derogado DOF 13-08-2009
+
+## Sección Quinta — Del Comité de Protección al Ahorro
+Sección adicionada DOF 13-08-2009
 
 ### Artículo 108
 .- El Comité de Protección al Ahorro deberá estar integrado por cinco miembros propietarios y sus respectivos suplentes, que serán designados por el Comité Técnico.
@@ -1809,7 +1842,10 @@ Artículo reformado DOF 31-08-2007, 13-08-2009
 El monto a ser pagado a cada depositante de acuerdo a lo establecido en este Artículo quedará fijado en UDIS a partir de la fecha en que se declare la disolución y liquidación de la Sociedad Financiera Popular respectiva, o se decrete su concurso mercantil. El pago de los depósitos se realizará en moneda nacional, por lo que la conversión del monto denominado en UDIS se efectuará utilizando el valor vigente de la citada unidad en la fecha en que se cubra el pago correspondiente.
 En caso de que un ahorrador tenga más de una cuenta en una misma Sociedad Financiera Popular y la suma de los saldos de aquéllas excediera la cantidad señalada en el Artículo 105 de esta Ley, el Comité de Protección al Ahorro únicamente procurará cubrir dicho monto de cobertura, dividiéndolo a prorrata entre el número de cuentas.
 La forma y términos en que se cubrirán las cantidades que correspondan, se establecerán en las disposiciones de carácter general que al efecto emita la Comisión.
-Artículo reformado DOF 13-08-2009 TÍTULO TERCERO BIS DE LOS ORGANISMOS AUTORREGULATORIOS Título adicionado DOF 13-08-2009 (queda integrado con los existentes artículos 113 a 115 y 115 Bis)
+Artículo reformado DOF 13-08-2009
+
+## TÍTULO TERCERO — BIS
+DE LOS ORGANISMOS AUTORREGULATORIOS Título adicionado DOF 13-08-2009 (queda integrado con los existentes artículos 113 a 115 y 115 Bis)
 
 ### Artículo 113
 .- Los organismos autorregulatorios de las Sociedades Financieras Populares tendrán por objeto implementar estándares de conducta y operación entre sus agremiados, a fin de contribuir al sano desarrollo de las Sociedades Financieras Populares. Dichos organismos podrán ser de diverso tipo acorde con las actividades que realicen.
@@ -1858,11 +1894,9 @@ Para proceder en términos de lo previsto en las fracciones II y III de este Art
 Las resoluciones a que se refiere este Artículo podrán ser recurridas ante la Comisión dentro de los quince días hábiles siguientes a la fecha en que se hubieren notificado. La propia Comisión, con aprobación de su Junta de Gobierno, podrá revocar, modificar o confirmar la resolución recurrida, previa audiencia del afectado.
 Artículo adicionado DOF 13-08-2009
 
-## TÍTULO CUARTO
-DE LA REGULACIÓN PRUDENCIAL Y DE LA CONTABILIDAD
+## TÍTULO CUARTO — DE LA REGULACIÓN PRUDENCIAL Y DE LA CONTABILIDAD
 
-## Capítulo I
-De la Regulación Prudencial
+## Capítulo I — De la Regulación Prudencial
 
 ### Artículo 116
 .- La Comisión emitirá lineamientos mínimos de regulación prudencial a los que deberán sujetarse las Sociedades Financieras Populares en las materias siguientes:
@@ -1893,8 +1927,8 @@ En la emisión de las disposiciones a que se refieren las fracciones III, IV y V
 Asimismo, cuando para el mejor cumplimiento de las atribuciones que le confiere el presente Artículo, lo estime conveniente, dicha Comisión podrá solicitar la opinión de la Secretaría y del Banco de México.
 Artículo reformado DOF 13-08-2009
 
-## Capítulo II
-De la Contabilidad y auditoría externa Denominación del Capítulo reformada DOF 13-08-2009
+## Capítulo II — De la Contabilidad y auditoría externa
+Denominación del Capítulo reformada DOF 13-08-2009
 
 ### Artículo 117
 .- Todo acto o contrato que signifique variación en el activo, en el pasivo, en resultados o capital de una Sociedad Financiera Popular, o implique obligación directa o contingente, deberá ser registrado en la contabilidad. La contabilidad, los libros, y demás documentos correspondientes, así como el plazo que deberán conservarse, se regirán por las reglas de carácter prudencial que al efecto expida la Comisión.
@@ -1965,7 +1999,11 @@ Artículo adicionado DOF 13-08-2009
 
 ### Artículo 119
 Bis 4.- La Comisión fijará las reglas para la estimación máxima de los activos de las Sociedades Financieras Populares y las reglas para la estimación mínima de sus obligaciones y responsabilidades, en aras de procurar la adecuada valuación de dichos conceptos en la contabilidad de las Sociedades Financieras Populares.
-Artículo adicionado DOF 13-08-2009 TÍTULO QUINTO DE LAS FACULTADES DE LAS AUTORIDADES Capítulo Único
+Artículo adicionado DOF 13-08-2009
+
+## TÍTULO QUINTO — DE LAS FACULTADES DE LAS AUTORIDADES
+
+## Capítulo Único
 
 ### Artículo 120
 .- La supervisión de las Sociedades Financieras Populares, Federaciones y del Fondo de Protección estará a cargo de la Comisión, quien la llevará a cabo sujetándose a lo previsto en esta Ley, en la Ley de la Comisión Nacional Bancaria y de Valores y en el reglamento de supervisión expedido al amparo de esta última Ley.
@@ -2108,10 +2146,13 @@ Artículo adicionado DOF 27-05-2005
 ### Artículo 124
 Bis 3.- Las Sociedades Financieras Populares deberán cerrar sus puertas y suspender operaciones en los días que señale la Comisión mediante disposiciones de carácter general.
 Los días señalados en los citados términos se podrán considerar inhábiles para todos los efectos legales, cuando así lo determine la propia Comisión.
-Artículo adicionado DOF 13-08-2009 TÍTULO SEXTO DE LAS SANCIONES, DELITOS Y NOTIFICACIONES Denominación del Título reformada DOF 13-08-2009
+Artículo adicionado DOF 13-08-2009
 
-## Capítulo I
-De las Sanciones Capítulo reformado DOF 13-08-2009 (se modifica su denominación y queda integrado con los artículos 125 a 136 Bis 2)
+## TÍTULO SEXTO — DE LAS SANCIONES, DELITOS Y NOTIFICACIONES
+Denominación del Título reformada DOF 13-08-2009
+
+## Capítulo I — De las Sanciones
+Capítulo reformado DOF 13-08-2009 (se modifica su denominación y queda integrado con los artículos 125 a 136 Bis 2)
 
 ### Artículo 125
 .- El incumplimiento o la violación a las normas de la presente Ley y a las disposiciones que emanen de ella, serán sancionados con multa que impondrá administrativamente la Comisión y se hará efectiva por la Secretaría.
@@ -2339,8 +2380,8 @@ La resolución de los recursos de revisión deberá ser emitida en un plazo que 
 La Comisión deberá prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve.
 Artículo adicionado DOF 31-08-2007. Reformado DOF 13-08-2009
 
-## Capítulo I BIS
-De los Programas de Autocorrección Capítulo adicionado DOF 10-01-2014
+## Capítulo I BIS — De los Programas de Autocorrección
+Capítulo adicionado DOF 10-01-2014
 
 ### Artículo 136
 Bis 3.- Las Sociedades Financieras Populares, las Sociedades Financieras Comunitarias con Niveles de Operación I a IV, los Organismos de Integración Financiera Rural o las Federaciones, por conducto de su director general o equivalente y con la opinión del comité de auditoría, podrán someter a la autorización de la Comisión un programa de autocorrección cuando la Sociedad u Organismo de que se trate, en la realización de sus actividades, o el comité de auditoría como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.
@@ -2376,8 +2417,8 @@ Artículo adicionado DOF 10-01-2014
 Bis 6.- Las personas físicas y demás personas morales sujetas a la supervisión de la Comisión podrán someter a la autorización de la propia Comisión un programa de autocorrección cuando en la realización de sus actividades detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables, sujetándose a lo previsto por los artículos 136 Bis 3 a 136 Bis 5 de esta Ley, según resulte aplicable.
 Artículo adicionado DOF 10-01-2014
 
-## Capítulo II
-De los Delitos Capítulo reformado DOF 13-08-2009 (se reubica). Reubicado DOF 10-01-2014
+## Capítulo II — De los Delitos
+Capítulo reformado DOF 13-08-2009 (se reubica). Reubicado DOF 10-01-2014
 
 ### Artículo 136
 Bis 7.- En los casos previstos en los artículos 136 Bis 8 a 143 de esta Ley, se procederá indistintamente a petición de la Secretaría, previa opinión de la Comisión, o bien a petición de la Sociedad de que se trate, o de quien tenga interés jurídico.
@@ -2490,8 +2531,8 @@ Bis.- Cuando la Comisión Nacional Bancaria y de Valores presuma que una persona
 El procedimiento de inspección, suspensión de operaciones y clausura a que se refiere el párrafo anterior es de interés público. Será aplicable en lo conducente lo dispuesto en el Capítulo Único, Título Quinto de esta Ley.
 Artículo adicionado DOF 10-01-2014
 
-## Capítulo III
-De las Notificaciones Capítulo adicionado DOF 13-08-2009
+## Capítulo III — De las Notificaciones
+Capítulo adicionado DOF 13-08-2009
 
 ### Artículo 146
 .- Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales, medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos, resoluciones de imposición de sanciones administrativas o de cualquier acto que ponga fin a los procedimientos de suspensión, revocación de autorizaciones a que se refiere la presente Ley, así como los actos que nieguen las autorizaciones a que se refiere la presente Ley y las resoluciones administrativas que le recaigan a los recursos de revisión y a las solicitudes de condonación interpuestos conforme a las Leyes aplicables, se podrán realizar de las siguientes maneras:
@@ -2612,9 +2653,7 @@ Artículo derogado DOF 27-01-2003
 Párrafo reformado DOF 23-02-2005 Las Federaciones que obtengan la autorización de la Comisión en términos de este artículo, contarán con el plazo a que se refiere el cuarto párrafo de la fracción I del artículo 53 de esta Ley, para reunir el número mínimo de Entidades afiliadas.
 Párrafo adicionado DOF 23-02-2005
 **NOVENO.-** A partir de la fecha de inicio de vigencia establecida en el primer párrafo del artículo
-**PRIMERO.** Transitorio, las Federaciones autorizadas administrarán de forma provisional los Fondos de Protección, hasta que dichas Federaciones formen parte de alguna Confederación autorizada o convengan con alguna de ellas el traspaso de los recursos que integran dichos fondos en los términos del
-
-## Capítulo IV del Título Tercero de la Ley de Ahorro y Crédito Popular.
+**PRIMERO.** Transitorio, las Federaciones autorizadas administrarán de forma provisional los Fondos de Protección, hasta que dichas Federaciones formen parte de alguna Confederación autorizada o convengan con alguna de ellas el traspaso de los recursos que integran dichos fondos en los términos del Capítulo IV del Título Tercero de la Ley de Ahorro y Crédito Popular.
 Concluido un plazo de dos años a partir del inicio de vigencia de la Ley de Ahorro y Crédito Popular, las Federaciones que no se encuentren en los supuestos contemplados en el párrafo anterior, podrán solicitar a la Comisión Nacional Bancaria y de Valores una prórroga que no podrá exceder de dos años para continuar administrando el Fondo de Protección de sus Entidades, de lo contrario se ubicarán en la causal de revocación prevista por la fracción IX del artículo 60 de la Ley de Ahorro y Crédito Popular. En este último caso, la Comisión Nacional Bancaria y de Valores, con arreglo a las disposiciones de carácter general que emita al efecto, determinará el destino de los recursos que integran los Fondos de Protección respectivos.
 **DÉCIMO.-** Se deroga.
 Artículo derogado DOF 13-08-2009
@@ -3104,9 +3143,7 @@ DECRETO por el que se expide la Ley para Regular las Actividades de las Sociedad
 Publicado en el Diario Oficial de la Federación el 13 de agosto de 2009
 
 ### ARTÍCULO SEGUNDO
-Se REFORMAN los Artículos 1o.; 3o.; 4o.; 6o.; 7o.; 8o; la denominación del Título Segundo y sus Artículos 9; 10; 11; 12; 13; 14; 15; 18; 19; 20; 21; 23; 24; 26; 31; 32; 33; 34; 35; 36; 36 Bis; los párrafos primero, tercero, cuarto, quinto y sexto del Artículo 36 Bis 1; 37, 43 y 44; 46; la denominación del Título Tercero y de sus Capítulos I, II, III, que comprende los Artículos 73 a 80 y IV, que comprende los artículos 81 a 89; así como de sus Artículos 47; 48; 50; 51; 52; 53; 54; 55; 56; 58; 59; 60; 61; 62; el primer párrafo del Artículo 63; 64; 65; 66; 67; la fracción I del Artículo 68; el Artículo 69; el último párrafo del Artículo 70; el Artículo 71; el primer párrafo del Artículo 72; el Artículo 73; 74; 75; 76; 78; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88 y 89; los Artículos 90; 91; 92; 93; 94; 95; 96; 97; 98; 99; 100; 101; 102; 103; 104; 105; 106; 107; 108; 109; 110; 111; 112; 113, 114; 115; 116; la denominación del Capítulo II del
-
-## Título Cuarto y sus Artículos 117, 118 y 119; los Artículos 120; 121; 122; 124; el segundo párrafo del
+Se REFORMAN los Artículos 1o.; 3o.; 4o.; 6o.; 7o.; 8o; la denominación del Título Segundo y sus Artículos 9; 10; 11; 12; 13; 14; 15; 18; 19; 20; 21; 23; 24; 26; 31; 32; 33; 34; 35; 36; 36 Bis; los párrafos primero, tercero, cuarto, quinto y sexto del Artículo 36 Bis 1; 37, 43 y 44; 46; la denominación del Título Tercero y de sus Capítulos I, II, III, que comprende los Artículos 73 a 80 y IV, que comprende los artículos 81 a 89; así como de sus Artículos 47; 48; 50; 51; 52; 53; 54; 55; 56; 58; 59; 60; 61; 62; el primer párrafo del Artículo 63; 64; 65; 66; 67; la fracción I del Artículo 68; el Artículo 69; el último párrafo del Artículo 70; el Artículo 71; el primer párrafo del Artículo 72; el Artículo 73; 74; 75; 76; 78; 79; 80; 81; 82; 83; 84; 85; 86; 87; 88 y 89; los Artículos 90; 91; 92; 93; 94; 95; 96; 97; 98; 99; 100; 101; 102; 103; 104; 105; 106; 107; 108; 109; 110; 111; 112; 113, 114; 115; 116; la denominación del Capítulo II del Título Cuarto y sus Artículos 117, 118 y 119; los Artículos 120; 121; 122; 124; el segundo párrafo del
 
 ### Artículo 124
 Bis; el Artículo 125; 126; 127; 128; 129; 130; 131; 132; 133; 134; 135; 136; 136 Bis; 136 Bis 1; 136 Bis 2; 136 Bis 3, 136 Bis 4; 137; 138; 139; 140; 141; se DEROGAN los Artículos 2o.; 4 Bis; 4 Bis 1; 4 Bis 2; 4 Bis 3, 5o.; 16; 17; 22; 25; 28; 29; 30; el Capítulo II del Título Segundo y sus Artículos 38; 39 y 40; el Artículo 49; 57; 77; 132 Bis y 107; y se ADICIONAN los Artículos 10 Bis; 32 Bis; 33 Bis; 33 Bis 1; 36 Bis 2; 43 Bis; un Capítulo IV al Título Segundo, que contendrá la Secciones Primera a Tercera, las cuales comprenderán los Artículos 46 a 46 Bis 21, 46 Bis 3 a 46 Bis 16 y 46 Bis 17 a 46 Bis 23, respectivamente; 104 Bis; 104 Bis 1; 104 Bis 2; 115 Bis; 117 Bis; 119 Bis; 119 Bis 1; 119 Bis 2; 119 Bis 3; 119 Bis 4; 121 Bis; 122 Bis; 124 Bis 3; 126 Bis; 142; 143; 144; 145; 146; 147; 148; 149; 150; 151; 152; 153; 154; 155, 156; 157 y 158; así como las Secciones Primera y Segunda al Capítulo IV del Título Tercero, que comprenderán los Artículos 81 a 86 y 87 a 89, respectivamente; un Capítulo V a dicho Título Tercero, que comprenderá los Artículos 90 a 97, así como un Capítulo VI al propio Título Tercero, que contendrá las Secciones Primera a Quinta, las cuales comprenderán los Artículos 98 a 101, 102 a 104, 104 Bis a 104 Bis 2, 105 a 107 y 108 a 112, respectivamente; un Título Tercero Bis que comprenderá los Artículos 113 a 115 Bis; y un Título Sexto que contendrá los Capítulos I, II y III, que comprenderán los Artículos 125 a 136 Bis 2, 136 Bis 3 a 145 y 146 a 158, respectivamente; de la Ley de Ahorro y Crédito Popular, para quedar como sigue: ……….

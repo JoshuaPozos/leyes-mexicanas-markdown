@@ -15,7 +15,11 @@ SE EXPIDEN LA LEY DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTR
 
 ### ARTÍCULO OCTAVO
 Se expide la Ley de la Comisión Nacional de Energía, para quedar como sigue:
-TÍTULO PRIMERO DISPOSICIONES GENERALES Capítulo Único Naturaleza y objeto
+
+## TÍTULO PRIMERO — DISPOSICIONES GENERALES
+
+## Capítulo Único
+Naturaleza y objeto
 
 ### Artículo 1
 .- La presente Ley es de orden público e interés general, de aplicación en todo el territorio nacional y zonas en las que la Nación ejerce su soberanía o jurisdicción y tiene por objeto crear a la Comisión Nacional de Energía, regular su organización y funcionamiento, así como establecer sus competencias, facultades y atribuciones.
@@ -43,7 +47,8 @@ II. Comisión: Comisión Nacional de Energía;
 III. Secretaría: Secretaría de Energía, y
 
 IV. Sujeto Regulado: Las Empresas Públicas del Estado, las personas físicas y morales de los sectores público, social y privado que realicen Actividades en materia energética.
-TÍTULO SEGUNDO ATRIBUCIONES DE LA COMISIÓN Y LAS BASES DE COORDINACIÓN
+
+## TÍTULO SEGUNDO — ATRIBUCIONES DE LA COMISIÓN Y LAS BASES DE COORDINACIÓN
 
 ## Capítulo I
 Atribuciones de la Comisión Nacional de Energía
@@ -141,10 +146,10 @@ La Comisión debe promover, en coordinación con la Agencia Nacional de Segurida
 
 ### Artículo 11
 .- La Comisión debe informar a la Secretaría sobre cualquier medida o resolución que implique una afectación en el sector eléctrico, en el sector hidrocarburos o ambos.
-TÍTULO TERCERO DE LA ORGANIZACIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN
 
-## Capítulo I
-De la organización e integración de la Comisión
+## TÍTULO TERCERO — DE LA ORGANIZACIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN
+
+## Capítulo I — De la organización e integración de la Comisión
 
 ### Artículo 12
 .- La Comisión debe ser dirigida y administrada por una Dirección General. Para el mejor desempeño de sus funciones y transparentar el otorgamiento de permisos y la emisión de la regulación de las actividades de su competencia, debe contar con un Comité Técnico para que dichas decisiones sean colegiadas.
@@ -153,8 +158,7 @@ De la organización e integración de la Comisión
 .- La Comisión debe contar con las unidades administrativas que se determinen en su reglamento interior, de conformidad con su estructura orgánica y ocupacional, en términos de las disposiciones aplicables.
 Su estructura debe optimizar los recursos humanos, financieros y materiales en el marco de la austeridad; simplificar los procesos administrativos; evitar la duplicidad de funciones y cumplir con los principios de eficiencia y transparencia.
 
-## Capítulo II
-De la Dirección General
+## Capítulo II — De la Dirección General
 
 ### Artículo 14
 .- La Comisión está a cargo de la persona titular de la Dirección General quien es nombrada y removida libremente por la persona titular del Ejecutivo Federal y ratificada por la Cámara de Senadores.
@@ -232,8 +236,7 @@ XXIV. Certificar y expedir copias certificadas de los documentos que obren en lo
 XXV. Las demás que le confieran esta Ley y otros ordenamientos jurídicos aplicables, así como las que le sean delegadas por la Secretaría.
 Para el ejercicio de las facultades establecidas en este artículo y el despacho de los asuntos de su competencia, la persona titular de la Dirección General se auxilia de las personas titulares de las unidades administrativas y demás personas funcionarias, en los términos que establezca el reglamento interior de la Comisión y las disposiciones legales aplicables.
 
-## Capítulo III
-Del Comité Técnico
+## Capítulo III — Del Comité Técnico
 
 ### Artículo 17
 .- El Comité Técnico es un órgano colegiado, cuyo objeto es conocer, opinar, analizar, evaluar, dictaminar y aprobar los actos jurídicos o administrativos que emita la Comisión en el ámbito de su competencia; de manera particular, cuenta con las siguientes atribuciones:
@@ -354,15 +357,19 @@ Son ordinarias las sesiones cuya convocatoria sea notificada por la Secretaría 
 Las convocatorias a sesiones ordinarias o extraordinarias deben contener el lugar, la fecha y la hora para su celebración, así como el orden del día correspondiente y la documentación relativa a los asuntos sujetos a deliberación.
 El desarrollo de las sesiones se debe llevar a cabo en términos de las reglas de operación que emita el Comité Técnico.
 
-## TÍTULO CUARTO
-PRESUPUESTO Capítulo Único
+## TÍTULO CUARTO — PRESUPUESTO
+
+## Capítulo Único
 
 ### Artículo 26
 .- La Cámara de Diputados debe realizar las acciones necesarias para proveer de recursos presupuestarios a la Comisión, con el fin de que pueda llevar a cabo sus funciones. El presupuesto aprobado debe cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales, necesarios para cumplir con sus funciones.
 
 ### Artículo 27
 .- Las personas físicas y morales sujetas, conforme a ésta y otras leyes u ordenamientos legales, a la supervisión o regulación de la Comisión y aquellas que reciban servicios por parte de éstos, deben cubrir los derechos y aprovechamientos correspondientes, en los términos de las disposiciones aplicables.
-TÍTULO QUINTO DEFINITIVIDAD DE LAS NORMAS GENERALES Y ACTOS DE LA COMISIÓN Capítulo Único
+
+## TÍTULO QUINTO — DEFINITIVIDAD DE LAS NORMAS GENERALES Y ACTOS DE LA COMISIÓN
+
+## Capítulo Único
 
 ### Artículo 28
 .- Contra los actos u omisiones de la Comisión pueden interponerse los medios de defensa previstos por las disposiciones legales aplicables.

@@ -13,8 +13,7 @@ SE EXPIDE LA
 ### Artículo Único
 Se expide la Ley de Educación Naval.
 
-## CAPÍTULO I
-De las Disposiciones Generales
+## CAPÍTULO I — De las Disposiciones Generales
 
 ### Artículo 1
 . La presente Ley tiene por objeto normar la educación pública que imparte la Secretaría de Marina a través de la Universidad Naval, en sus diversos niveles educativos, la cual está orientada al conocimiento, difusión, aplicación de la ciencia, la doctrina y Cultura Naval, a fin de contribuir con el desarrollo marítimo nacional.
@@ -64,8 +63,7 @@ Asimismo, personal invitado de otra nacionalidad, podrá acceder al Sistema Educ
 ### Artículo 5
 . Las faltas en contra de la disciplina naval, cometidas por los Discentes serán procesadas conforme a los reglamentos correspondientes de cada Establecimiento Educativo Naval.
 
-## CAPÍTULO II
-Del Rector de la Universidad Naval
+## CAPÍTULO II — Del Rector de la Universidad Naval
 
 ### Artículo 6
 . Al frente de la Universidad Naval estará el Rector, con grado de Almirante, el cual deberá contar con al menos dos posgrados o equivalentes.
@@ -83,8 +81,7 @@ IV. Expedir certificados, constancias y diplomas a quienes hayan concluido satis
 
 V. Las demás que establecen las disposiciones jurídicas aplicables.
 
-## CAPÍTULO III
-Del Sistema Educativo
+## CAPÍTULO III — Del Sistema Educativo
 
 ### Artículo 8
 . El Sistema Educativo es el conjunto de recursos humanos, financieros, de infraestructura y procesos educativos a través de los cuales, la Secretaría de Marina, ofrece una educación naval integral de calidad, mediante el desarrollo de competencias y valores.
@@ -160,8 +157,7 @@ II. No escolarizada: Modalidad de educación formal la cual puede ser abierta, a
 
 III. Mixta: Es la educación del tipo formal, la cual se desarrolla bajo la combinación de las modalidades anteriormente descritas.
 
-## CAPÍTULO IV
-Del Plan General
+## CAPÍTULO IV — Del Plan General
 
 ### Artículo 15
 . El Plan General establece, los planes y programas para alcanzar una educación integral de calidad, conforme al Modelo Educativo que deberá cubrir las necesidades de la Secretaría.
@@ -184,8 +180,7 @@ II. Las actualizaciones a la doctrina naval, y
 
 III. Los avances en las áreas humanística, científica, tecnológica y náutica.
 
-## CAPÍTULO V
-Del Modelo Educativo
+## CAPÍTULO V — Del Modelo Educativo
 
 ### Artículo 18
 . El Modelo Educativo define el diseño, estructura, planes y programas; que sirve de guía para la ejecución y evaluación del proceso formativo de calidad, así como también la evaluación de los Docentes y Discentes pertenecientes al modelo.
@@ -196,8 +191,7 @@ Del Modelo Educativo
 ### Artículo 20
 . Los Directores de los Establecimientos Educativos Navales, serán los responsables de aplicar el desarrollo del Modelo Educativo de acuerdo al nivel y modalidad correspondiente.
 
-## CAPÍTULO VI
-De la Extensión Académica
+## CAPÍTULO VI — De la Extensión Académica
 
 ### Artículo 21
 . La extensión académica comprenderá los siguientes aspectos:

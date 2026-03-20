@@ -770,9 +770,7 @@ Cuando se demuestre que sólo una de las partes ha sido responsable de la ejecuc
 ARTICULO 430.- Cuando, en una ejecución, se afecten intereses de tercero que tenga una controversia, con el ejecutante o el ejecutado, que pueda influir en los intereses de éstos que han motivado la ejecución, o que surja a virtud de ésta, la oposición del tercero se substanciará en forma de juicio, autónomo o en tercería, según que se haya o no pronunciado sentencia que defina los derechos de aquéllos.
 Fe de erratas al párrafo DOF 13-03-1943 La demanda deberá entablarla el opositor hasta antes de que se haya consumado definitivamente la ejecución; pero dentro de los nueve días de haber tenido conocimiento de ella.
 La demanda deja en suspenso los procedimientos de ejecución; pero, si no es interpuesta en el término indicado, se llevará adelante hasta su fin, dejando a salvo los derechos del opositor.
-CAPITULO V Responsabilidades de las partes en la ejecución ARTICULO 431.- Las partes, en la ejecución, son responsables en los términos establecidos en el
-
-## Capítulo II del Título Primero del Libro Primero.
+CAPITULO V Responsabilidades de las partes en la ejecución ARTICULO 431.- Las partes, en la ejecución, son responsables en los términos establecidos en el Capítulo II del Título Primero del Libro Primero.
 CAPITULO VI Embargos ARTICULO 432.- Decretado el embargo, si el deudor no fuere encontrado en su domicilio, para hacerle el requerimiento de pago, se le dejará citatorio para que espere a hora fija del día siguiente hábil, y, si no espera, se practicará la diligencia con la persona que se encuentre en la casa, o con el vecino más inmediato.
 Cuando se encontrare cerrada la casa, o se impidiere el acceso a ella, el ejecutor judicial requerirá el auxilio de la policía, para hacer respetar la determinación judicial, y hará que, en su caso, sean rotas las cerraduras, para poder practicar el embargo de bienes que se hallen dentro de la casa.
 Fe de erratas al párrafo DOF 13-03-1943 ARTICULO 433.- No verificado el pago, sea que la diligencia se haya o no entendido con el ejecutado, se procederá al embargo de bienes, en el mismo domicilio del demandado o en el lugar en que se encuentren los que han de embargarse.
@@ -1020,7 +1018,10 @@ Artículo adicionado DOF 12-01-1988 ARTICULO 575.- Ni el Tribunal de primera ins
 Artículo adicionado DOF 12-01-1988 ARTICULO 576.- Todas las cuestiones relativas a embargo, secuestro, depositaría, avalúo, remate y demás relacionadas con la liquidación y ejecución coactiva de sentencia dictada por tribunal extranjero, serán resueltas por el tribunal de la homologación.
 La distribución de los fondos resultantes del remate quedará a disposición del juez sentenciador extranjero.
 Artículo adicionado DOF 12-01-1988 ARTICULO 577.- Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera tener eficacia en su totalidad, el tribunal podrá admitir su eficacia parcial a petición de parte interesada.
-Artículo adicionado DOF 12-01-1988 Libro Quinto De las Acciones Colectivas Libro adicionado DOF 30-08-2011 Título Único Título adicionado DOF 30-08-2011
+Artículo adicionado DOF 12-01-1988 Libro Quinto De las Acciones Colectivas Libro adicionado DOF 30-08-2011
+
+## Título Único
+Título adicionado DOF 30-08-2011
 
 ## Capítulo I
 Previsiones Generales Capítulo adicionado DOF 30-08-2011 ARTICULO 578.- La defensa y protección de los derechos e intereses colectivos será ejercida ante los Tribunales de la Federación con las modalidades que se señalen en este Título, y sólo podrán promoverse en materia de relaciones de consumo de bienes o servicios, públicos o privados y medio ambiente.
@@ -1042,8 +1043,8 @@ Artículo adicionado DOF 30-08-2011 ARTICULO 583.- El juez interpretará las nor
 Artículo adicionado DOF 30-08-2011 ARTICULO 584.- Las acciones colectivas previstas en este título prescribirán a los tres años seis meses contados a partir del día en que se haya causado el daño. Si se trata de un daño de naturaleza continua el plazo para la prescripción comenzará a contar a partir del último día en que se haya generado el daño causante de la afectación.
 Artículo adicionado DOF 30-08-2011
 
-## Capítulo II
-De la Legitimación Activa Capítulo adicionado DOF 30-08-2011 ARTICULO 585.- Tienen legitimación activa para ejercitar las acciones colectivas:
+## Capítulo II — De la Legitimación Activa
+Capítulo adicionado DOF 30-08-2011 ARTICULO 585.- Tienen legitimación activa para ejercitar las acciones colectivas:
 
 I. La Procuraduría Federal de Protección al Consumidor, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la Comisión Federal de Competencia;
 
@@ -1256,8 +1257,8 @@ El juez tomará en consideración el trabajo realizado y la complejidad del mism
 III. Si la condena no fuere cuantificable, el juez determinará el monto de los honorarios, tomando en consideración los criterios establecidos en el segundo párrafo de la fracción anterior.
 Artículo adicionado DOF 30-08-2011
 
-## Capítulo X
-De las Asociaciones Capítulo adicionado DOF 30-08-2011 ARTICULO 619.- Por ser la representación común de interés público, las asociaciones civiles a que se refiere la fracción II del artículo 585, deberán registrarse ante el Consejo de la Judicatura Federal.
+## Capítulo X — De las Asociaciones
+Capítulo adicionado DOF 30-08-2011 ARTICULO 619.- Por ser la representación común de interés público, las asociaciones civiles a que se refiere la fracción II del artículo 585, deberán registrarse ante el Consejo de la Judicatura Federal.
 Artículo adicionado DOF 30-08-2011 ARTICULO 620.- Para obtener el registro correspondiente, dichas asociaciones deberán:
 
 I. Presentar los estatutos sociales que cumplan con los requisitos establecidos en este Título, y
@@ -1280,8 +1281,8 @@ II. Entregar al Consejo de la Judicatura Federal, un informe anual sobre su oper
 III. Mantener actualizada en forma permanente la información que deba entregar al Consejo de la Judicatura Federal en los términos de lo dispuesto por el artículo 621 de este Código.
 Artículo adicionado DOF 30-08-2011
 
-## Capítulo XI
-Del Fondo Capítulo adicionado DOF 30-08-2011 ARTICULO 624.- Para los efectos señalados en este Título, el Consejo de la Judicatura Federal administrará los recursos provenientes de las sentencias que deriven de las acciones colectivas difusas y para tal efecto deberá crear un Fondo.
+## Capítulo XI — Del Fondo
+Capítulo adicionado DOF 30-08-2011 ARTICULO 624.- Para los efectos señalados en este Título, el Consejo de la Judicatura Federal administrará los recursos provenientes de las sentencias que deriven de las acciones colectivas difusas y para tal efecto deberá crear un Fondo.
 Artículo adicionado DOF 30-08-2011 ARTICULO 625.- Los recursos que deriven de las sentencias recaídas en las acciones referidas en el párrafo anterior, deberán ser utilizados exclusivamente para el pago de los gastos derivados de los procedimientos colectivos, así como para el pago de los honorarios de los representantes de la parte actora a que se refiere el artículo 617 de este Código, cuando exista un interés social que lo justifique y el juez así lo determine, incluyendo pero sin limitar, las notificaciones a los miembros de la colectividad, la preparación de las pruebas pertinentes y la notificación de la sentencia respectiva. Los recursos podrán ser además utilizados para el fomento de la investigación y difusión relacionada con las acciones y derechos colectivos.
 Artículo adicionado DOF 30-08-2011 ARTICULO 626.- El Consejo de la Judicatura Federal divulgará anualmente el origen, uso y destino de los recursos del Fondo.
 Artículo adicionado DOF 30-08-2011

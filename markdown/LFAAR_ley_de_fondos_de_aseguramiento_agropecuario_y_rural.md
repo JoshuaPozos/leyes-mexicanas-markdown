@@ -15,7 +15,9 @@ SE REFORMA LA LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS Y
 
 ### Artículo Segundo
 Se expide la Ley de Fondos de Aseguramiento Agropecuario y Rural, para quedar como sigue:
-TÍTULO PRELIMINAR DISPOSICIONES GENERALES Capítulo Único
+TÍTULO PRELIMINAR DISPOSICIONES GENERALES
+
+## Capítulo Único
 
 ### Artículo 1o
 . Esta Ley es de orden público y observancia general en todo el territorio nacional. Tiene por objeto crear y regular la organización, funcionamiento y operación del Sistema de Fondos de Aseguramiento Agropecuario y Rural, que se constituirá por los Fondos de Aseguramiento y por sus Organismos Integradores, que se registren ante la Secretaría de Hacienda y Crédito Público en los términos de esta Ley, con los siguientes propósitos específicos:
@@ -94,7 +96,10 @@ II. La Legislación Mercantil;
 
 IV. El Código Nacional de Procedimientos Civiles y Familiares.
 Fracción reformada DOF 14-11-2025 Los principios establecidos en la Ley sobre el Contrato de Seguro serán aplicables a las operaciones de los Fondos de Aseguramiento, en lo compatible con su objeto consistente en la protección mutualista y solidaria a sus socios.
-TÍTULO PRIMERO DE LOS FONDOS DE ASEGURAMIENTO Capítulo Primero De su Constitución y Registro
+
+## TÍTULO PRIMERO — DE LOS FONDOS DE ASEGURAMIENTO
+
+## Capítulo Primero — De su Constitución y Registro
 
 ### Artículo 7o
 . La constitución de un Fondo de Aseguramiento deberá realizarse conforme a las siguientes bases:
@@ -168,7 +173,8 @@ Cualquier modificación a la escritura constitutiva del Fondo de Aseguramiento y
 Tratándose de Fondos de Aseguramiento no afiliados, este procedimiento se llevará a cabo ante la Secretaría en los términos del presente artículo.
 La escritura o sus reformas deberán inscribirse en el Registro Público de la Propiedad y del Comercio del domicilio social correspondiente, debiendo exhibirse ante la Secretaría copia certificada del testimonio respectivo dentro de un término de ciento veinte días naturales contados a partir de la fecha de su inscripción.
 En ningún momento la denominación del Fondo de Aseguramiento podrá formarse con el nombre, palabras, siglas o símbolos que la identifique con organizaciones políticas o religiosas.
-Capítulo Segundo De su Organización
+
+## Capítulo Segundo — De su Organización
 
 ### Artículo 10
 . Los Fondos de Aseguramiento contarán, cuando menos, con los siguientes órganos:
@@ -327,7 +333,8 @@ La Asamblea General de Socios podrá remover a los integrantes del Consejo de Vi
 ### Artículo 25
 . Los miembros del Consejo de Administración no podrán votar en las sesiones de la Asamblea General de Socios que deliberen sobre la aprobación de la evaluación de resultados, balances y estados financieros y sobre el informe que al respecto deba rendir el Consejo de Vigilancia, o en cualquier otro asunto de esta naturaleza.
 En caso de contravenirse esta disposición, el voto de cualquier Consejero será nulo y sancionado en los términos de los Estatutos correspondientes.
-Capítulo Tercero De la Admisión, Separación, Suspensión y Exclusión de Socios
+
+## Capítulo Tercero — De la Admisión, Separación, Suspensión y Exclusión de Socios
 
 ### Artículo 26
 . Para ser socio de un Fondo de Aseguramiento se requiere:
@@ -367,8 +374,7 @@ V. No realizar operaciones de seguros con el Fondo de Aseguramiento, y
 VI. Las demás que establezcan los Estatutos.
 La suspensión podrá ser hasta por dos años según lo acuerde la Asamblea General de Socios. En caso de daños causados, la suspensión durará hasta que los mismos sean reparados o compensados a satisfacción del Fondo de Aseguramiento o de los socios afectados. En caso de reincidencia, la Asamblea General de Socios podrá resolver la exclusión del socio, lo que implicará la pérdida definitiva de sus derechos como tal.
 
-## Capítulo Cuarto
-De su Funcionamiento y Operación
+## Capítulo Cuarto — De su Funcionamiento y Operación
 
 ### Artículo 29
 . Los Fondos de Aseguramiento funcionarán de manera que las coberturas que practiquen no tengan fines de lucro para el mismo ni para los socios. Sólo podrán cobrar a sus socios por concepto de cuota lo indispensable para sufragar los gastos generales que ocasione su gestión y las cuotas para sus Organismos Integradores; cubrir la prima de reaseguro y accesorios a la misma; constituir o incrementar conforme a esta Ley las reservas técnicas necesarias para cumplir sus compromisos de aseguramiento con sus socios; realizar aportaciones al Fondo de Protección y al Fondo de Retención Común de Riesgos; así como, para crear e incrementar el Fondo Social previsto en esta Ley.
@@ -512,7 +518,10 @@ III. La obtención de un dictamen favorable del Organismo Integrador que corresp
 
 ### artículo 93
 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros.
-TÍTULO SEGUNDO DE LOS ORGANISMOS INTEGRADORES Capítulo Primero De su Organización
+
+## TÍTULO SEGUNDO — DE LOS ORGANISMOS INTEGRADORES
+
+## Capítulo Primero — De su Organización
 
 ### Artículo 42
 . Los Fondos de Aseguramiento podrán constituir asociaciones a nivel Nacional, Estatal y Local. Con sujeción a lo establecido en esta Ley el contrato social de su constitución y los Estatutos deberán otorgarse ante fedatario público, estipulando su carácter de Organismo Integrador y de sociedad con fines no lucrativos, con personalidad jurídica y patrimonio propios; el objeto social; la duración de la sociedad, que puede ser por tiempo indefinido; el domicilio, mismo que deberá estar dentro de territorio nacional; el nombre de la sociedad; y la relación de afiliados fundadores, principales consejeros, directivos y administradores. Las actividades de los Organismos Integradores Nacional, Estatales y Locales, serán las propias de su objeto social y se abstendrán de realizar otro tipo de actividades.
@@ -694,7 +703,8 @@ El Comisario deberá cumplir con los requisitos que para ser consejero de un Fon
 . Los Organismos Integradores deberán verificar el cumplimiento de los requisitos señalados en esta Ley por parte de las personas que sean designadas como Consejeros, Gerente o Director y Comisario, con anterioridad al inicio de sus gestiones.
 En todo caso, las personas a que se refiere el párrafo anterior deberán manifestar por escrito al Organismo Integrador de que se trate y bajo protesta de decir verdad, que no se ubican en alguno de los supuestos a que se refiere el artículo 19.
 Los Organismos Integradores deberán informar a la Secretaría la designación de nuevos Consejeros, Gerente o Director, y Comisario, dentro de los cinco días hábiles posteriores a su designación.
-Capítulo Segundo De la Afiliación
+
+## Capítulo Segundo — De la Afiliación
 
 ### Artículo 61
 . Los Fondos de Aseguramiento podrán afiliarse a un Organismo Integrador Estatal registrado ante la Secretaría. El Organismo Integrador Estatal, a su vez, podrá afiliarse al Organismo Integrador Nacional registrado ante la Secretaría.
@@ -720,7 +730,8 @@ La formalización de dicho contrato deberá efectuarse a más tardar dentro de l
 ### Artículo 66
 . El Fondo de Aseguramiento que solicite su desafiliación, no tendrá derecho a que se le reintegren las aportaciones que haya efectuado con anterioridad al Fondo de Protección y al Fondo de Retención Común de Riesgos, pero podrá seguir disfrutando de los derechos inherentes al mismo, al momento de celebrarse el contrato de servicios a que se refiere el artículo 68.
 El Organismo Integrador correspondiente continuará ejerciendo sobre el Fondo de Aseguramiento desafiliado, las funciones delegadas por el Organismo Integrador Nacional, debiendo el Fondo de Aseguramiento cubrir el costo de estos servicios, hasta en tanto se sujete al régimen de Fondo de Aseguramiento no afiliado, de conformidad con lo dispuesto en esta Ley.
-Capítulo Tercero De los Fondos de Aseguramiento no Afiliados
+
+## Capítulo Tercero — De los Fondos de Aseguramiento no Afiliados
 
 ### Artículo 67
 . Los Fondos de Aseguramiento que no celebren contrato de afiliación con un Organismo Integrador, conforme a lo dispuesto en esta Ley, serán considerados como Fondos de Aseguramiento no afiliados.
@@ -734,8 +745,7 @@ El Fondo de Aseguramiento no afiliado tendrá todas las obligaciones de los Fond
 . Además de lo dispuesto en los artículos anteriores, los Fondos de Aseguramiento no afiliados podrán participar en el Fondo de Protección y podrán hacerlo en el Fondo de Retención Común de Riesgos que les corresponda, en términos del Capítulo Único del Título Tercero de esta Ley.
 El Organismo Integrador que les preste el servicio de Asesoría Técnica y Seguimiento de Operaciones, podrá prestarles servicios complementarios a un costo equivalente al que corresponda a un Fondo de Aseguramiento afiliado.
 
-## Capítulo Cuarto
-De la Fusión, Disolución, Liquidación y Revocación
+## Capítulo Cuarto — De la Fusión, Disolución, Liquidación y Revocación
 
 ### Artículo 70
 . Para los efectos de esta Ley y en términos de la misma, se podrán utilizar los siguientes mecanismos:
@@ -799,7 +809,10 @@ XI. Si deja de operar por más de dos ejercicios anuales consecutivos.
 La declaración de revocación del registro incapacitará al Fondo de Aseguramiento para otorgar cualquier seguro a partir de la fecha en que se le notifique la revocación y pondrá al Fondo de Aseguramiento en estado de disolución y liquidación.
 La solicitud de revocación del registro podrá ser formulada ante la Secretaría por la SAGARPA, por el Organismo Integrador Nacional o por el que preste los Servicios de Seguimiento de Operaciones, o por los Consejos de Administración o Vigilancia o los socios del Fondo de Aseguramiento. Dicha solicitud deberá fundarse y motivarse, precisando las causales de revocación establecidas en el presente artículo y acompañarse de las pruebas documentales correspondientes, para iniciar el procedimiento de revocación, la Secretaría podrá iniciar el procedimiento sin mediar solicitud.
 La Secretaría, valorará la procedencia o improcedencia de la solicitud de revocación, notificándole a los interesados su resolución de iniciar o no el procedimiento de revocación. En caso de procedencia, notificará al Fondo de Aseguramiento la iniciación del procedimiento, haciendo de su conocimiento las causales que se le imputan y le otorgará un plazo de quince días hábiles, a partir de la fecha de notificación, para que exponga lo que a su derecho convenga. Si las causales de revocación se acreditan durante el procedimiento, la Secretaría resolverá y comunicará la declaratoria de revocación del registro a los interesados.
-TÍTULO TERCERO DEL SISTEMA DE PROTECCIÓN Capítulo Único De los Fondos de Protección y de Retención Común de Riesgos
+
+## TÍTULO TERCERO — DEL SISTEMA DE PROTECCIÓN
+
+## Capítulo Único — De los Fondos de Protección y de Retención Común de Riesgos
 
 ### Artículo 75
 . En complemento a la operación de Seguros, llevada a cabo por los Fondos de Aseguramiento, se establece un Sistema de Protección integrado por el Fondo de Protección y el Fondo de Retención Común de Riesgos, de acuerdo a lo siguiente:
@@ -880,8 +893,9 @@ El monto a ser pagado a cada socio asegurado de acuerdo a lo establecido en este
 . Los Fondos de Aseguramiento podrán constituir, por conducto de su Organismo Integrador Estatal, un Fondo de Retención Común de Riesgos.
 Los recursos para este fin provendrán de aportaciones, adicionales a las previstas en el artículo 76, que realicen los Fondos de Aseguramiento con recursos de su reserva especial de contingencia o Fondo Social. La constitución y operación de los Fondos de Retención Común de Riesgos, así como la administración y utilización de sus recursos serán reguladas por disposiciones que al efecto emita la Secretaría, oyendo a la Comisión. Tales disposiciones deberán prever la posibilidad de que puedan conformarse Fondos de Retención Común de Riesgos administrados por dos o más Organismos Integradores Estatales, e incluso por el Organismo Integrador Nacional.
 
-## TÍTULO CUARTO
-DE LAS FACULTADES DE LAS AUTORIDADES Capítulo Primero Del Seguimiento de las Operaciones
+## TÍTULO CUARTO — DE LAS FACULTADES DE LAS AUTORIDADES
+
+## Capítulo Primero — Del Seguimiento de las Operaciones
 
 ### Artículo 85
 . La Secretaría tendrá además de las facultades que se le otorgan en otros artículos de esta Ley, las que se señalan en este Capítulo.
@@ -892,7 +906,8 @@ El Organismo Integrador Nacional, los Organismos Integradores Estatales, los Org
 
 ### Artículo 86
 . La Asamblea General, como órgano máximo de autoridad de los Fondos de Aseguramiento y de los Organismos Integradores, podrá en todo tiempo acordar la remoción de los miembros de los Consejos de Administración, de Vigilancia, de los Comités Técnicos, de los Directores o Gerentes, Comisario o de quienes ejerzan estas funciones en los términos de esta Ley, cuando considere que tales personas no cuentan con la suficiente calidad técnica o moral para el desempeño de sus funciones, no reúnan los requisitos al efecto establecidos o incurran de manera grave o reiterada en infracciones a la presente Ley y a las disposiciones de carácter general que de ella deriven y puedan con sus actos causar perjuicio a los Fondos de Aseguramiento y a los Organismos Integradores Nacional y Estatales.
-Capítulo Segundo Del Fomento y Apoyo a los Fondos de Aseguramiento
+
+## Capítulo Segundo — Del Fomento y Apoyo a los Fondos de Aseguramiento
 
 ### Artículo 87
 . Los Fondos de Aseguramiento son organismos que deberán ser considerados como sujetos del fomento y apoyo por parte de las instancias gubernamentales, en términos de lo que al efecto establezca el Presupuesto de Egresos de la Federación. Igual tratamiento como sujetos de fomento se les reconoce en esta Ley a los Organismos Integradores.
@@ -916,7 +931,8 @@ La SAGARPA también promoverá mecanismos de coordinación con las Entidades Fed
 
 ### Artículo 93
 . Las acciones de fomento y apoyo a los Fondos de Aseguramiento y de fomento a sus Organismos Integradores, serán las que se definan en los programas de apoyo que establezca el Presupuesto de Egresos de la Federación y se sujetarán a las reglas de operación que emitan las autoridades competentes de acuerdo con dicho Decreto. Estas acciones de fomento y apoyo, estarán referidas a promover apoyos al productor que coadyuven a cubrir las primas del servicio de aseguramiento; a respaldar y fortalecer el servicio de Asesoría Técnica y Seguimiento de Operaciones, dispuesto por esta Ley; a consolidar el funcionamiento de los Fondos de Aseguramiento; a impulsar su capacitación; a promover la constitución de nuevos Fondos de Aseguramiento; a desarrollar nuevos productos y coberturas de seguros; a fortalecer las estructuras técnicas de los Fondos de Aseguramiento; y en general, todas aquéllas que contribuyan a respaldar y facilitar el cumplimiento de las disposiciones de esta Ley.
-Capítulo Tercero Disposiciones Finales
+
+## Capítulo Tercero — Disposiciones Finales
 
 ### Artículo 94
 . El incumplimiento o la violación a las disposiciones de la presente Ley y a las que de ella emanen, serán sancionadas de acuerdo a lo establecido en esta Ley y en las disposiciones mercantiles, civiles, fiscales y penales aplicables.

@@ -9,7 +9,8 @@ Nueva Ley publicada en el Diario Oficial de la Federación el 6 de abril de 2011
 FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente DECRETO "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 SE EXPIDE LA ÚNICO.- SE EXPIDE LA  , para quedar como sigue:
-Título Primero Disposiciones Generales
+
+## Título Primero — Disposiciones Generales
 
 ### Artículo 1
 . La presente Ley es de orden público y observancia general en todo el territorio nacional, y se aplicará sin perjuicio de lo dispuesto en los tratados internacionales.
@@ -65,10 +66,10 @@ XV. Tratados Internacionales: Los instrumentos de Derecho Internacional Público
 
 ### Artículo 5
 . La autoridad competente para la aplicación e interpretación de la presente Ley será la Secretaría.
-Título Segundo De los Instrumentos para la Cooperación Internacional para el Desarrollo
 
-## Capítulo I
-Disposiciones Generales
+## Título Segundo — De los Instrumentos para la Cooperación Internacional para el Desarrollo
+
+## Capítulo I — Disposiciones Generales
 
 ### Artículo 6
 . Son instrumentos para la Cooperación Internacional, los siguientes:
@@ -77,8 +78,7 @@ a) La Agencia Mexicana de Cooperación Internacional para el Desarrollo, y
 
 b) El Programa de Cooperación Internacional para el Desarrollo.
 
-## Capítulo II
-De la Agencia Mexicana de Cooperación Internacional para el Desarrollo
+## Capítulo II — De la Agencia Mexicana de Cooperación Internacional para el Desarrollo
 
 ### Artículo 7
 . Se crea la AMEXCID como un órgano desconcentrado de la Secretaría, en los términos de su reglamento interior, con atribuciones especificas para resolver sobre las materias que se señalan en la presente Ley y las demás disposiciones relativas.
@@ -124,8 +124,8 @@ XI. Las demás que le correspondan, conforme a las disposiciones legales aplicab
 ### Artículo 13
 . Es responsabilidad de la AMEXCID que su personal se mantenga actualizado en relación con las mejores prácticas en materia de cooperación internacional, desarrolladas, adoptadas y aplicadas por agencias de cooperación de terceros países y por organismos multilaterales especializados.
 
-## Capítulo III
-De las Autoridades de la Agencia Mexicana de Cooperación Internacional para el Desarrollo
+## Capítulo III — De las Autoridades de la Agencia Mexicana de Cooperación Internacional para el
+Desarrollo
 
 ### Artículo 14
 . La dirección y administración de la AMEXCID corresponden al Director Ejecutivo.
@@ -245,8 +245,7 @@ XVIII. Las demás que le confieran la presente Ley, el Reglamento Interior de la
 ### Artículo 21
 . El Director Ejecutivo de la AMEXCID no podrá desempeñar, durante el ejercicio de su encargo, ningún otro empleo, cargo o comisión distintos que sean remunerados, con excepción de los de carácter docente o científico.
 
-## Capítulo VI
-Del Programa de Cooperación Internacional para el Desarrollo
+## Capítulo VI — Del Programa de Cooperación Internacional para el Desarrollo
 
 ### Artículo 22
 . Las políticas y mecanismos de ejecución de la Cooperación Internacional estarán establecidos en el Programa correspondiente.
@@ -290,10 +289,10 @@ IX. Garantizar la coherencia con la consecución de los Objetivos del Milenio de
 
 ### Artículo 26
 . El Programa deberá ser evaluado anualmente por la Secretaría, sin perjuicio de las facultades que en materia de evaluación correspondan a otras instancias, y podrá ser revisado cada dos años para ajustarlo tanto a las modificaciones que se produzcan en los ámbitos específicos de su aplicación, como a los avances y limitaciones que se observen en su ejecución.
-Título Tercero Del Registro de Información de la Cooperación Internacional para el Desarrollo
 
-## Capítulo I
-Del Registro Nacional de la Cooperación Internacional
+## Título Tercero — Del Registro de Información de la Cooperación Internacional para el Desarrollo
+
+## Capítulo I — Del Registro Nacional de la Cooperación Internacional
 
 ### Artículo 27
 . Se crea el Registro Nacional, como una función de la AMEXCID, que estará bajo su responsabilidad directa, sujeto a las disposiciones que al efecto prevea el Reglamento Interior de la Secretaría.
@@ -326,8 +325,7 @@ XI. Las evaluaciones de los resultados finales de las acciones de cooperación i
 
 XII. Los montos, modalidades y ejercicio de los recursos financieros, las donaciones y las aportaciones en especie provenientes de gobiernos extranjeros y organismos internacionales, que se deriven de los esquemas de cooperación internacional de los que forme parte el Estado Mexicano.
 
-## Capítulo II
-Del Sistema de Información de la Cooperación Internacional para el Desarrollo
+## Capítulo II — Del Sistema de Información de la Cooperación Internacional para el Desarrollo
 
 ### Artículo 29
 . Con base en la información inscrita en el Registro Nacional, la AMEXCID creará, organizará, administrará y mantendrá actualizado, como una de sus funciones, el Sistema de Información de la Cooperación Internacional para el Desarrollo, estableciendo un banco de información que permita identificar la concurrencia y, en su caso, la duplicidad de esfuerzos, así como las posibles iniciativas contradictorias de cooperación internacional que impulsen las dependencias e instancias de la Administración Pública Federal.
@@ -342,14 +340,13 @@ La información inscrita en el Registro Nacional será pública y estará sujeta
 ### Artículo 32
 . Las dependencias y entidades de la Administración Pública Federal otorgantes o beneficiarias de las acciones de cooperación internacional estarán obligadas a colaborar con la AMEXCID en la organización y actualización del sistema de información, mediante la presentación anual de informes sobre los acuerdos interinstitucionales que celebren en materia de cooperación internacional para el desarrollo.
 
-## Título Cuarto
-Del Financiamiento de la Cooperación Internacional para el Desarrollo
+## Título Cuarto — Del Financiamiento de la Cooperación Internacional para el Desarrollo
 
 ### Artículo 33
 . Las acciones de cooperación internacional se financiarán con asignaciones presupuestales federales aprobadas por la Cámara de Diputados, así como con aportaciones financieras y en especie de gobiernos extranjeros y organismos internacionales, y con aportaciones financieras y en especie de los gobiernos de las entidades federativas y de los municipios.
 
-## Capítulo I
-De los Recursos de Cooperación Internacional para el Desarrollo Denominación del Capítulo reformada DOF 06-11-2020
+## Capítulo I — De los Recursos de Cooperación Internacional para el Desarrollo
+Denominación del Capítulo reformada DOF 06-11-2020
 
 ### Artículo 34
 . Se deroga.
@@ -445,10 +442,7 @@ DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para l
 Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 
 ### ARTÍCULO SEGUNDO
-Se reforman los artículos 28, fracción X, y 37; así como la denominación del
-
-## Capítulo I del Título Cuarto, y se derogan los artículos 10, fracción IX; 34; 35; 36; 38; 39 y 42 de la Ley de
-Cooperación Internacional para el Desarrollo, para quedar como sigue: ……..
+Se reforman los artículos 28, fracción X, y 37; así como la denominación del Capítulo I del Título Cuarto, y se derogan los artículos 10, fracción IX; 34; 35; 36; 38; 39 y 42 de la Ley de Cooperación Internacional para el Desarrollo, para quedar como sigue: ……..
 
 ## Transitorios
 

@@ -198,7 +198,10 @@ III. Las consecuencias benéficas para su unidad o establecimiento, o para la Ar
 ### Artículo 40
 .- Los estímulos podrán ser concedidos a todo el personal naval que lo amerite a juicio de sus mandos, quienes serán los facultados para evaluar las acciones realizadas por sus subalternos.
 El titular de una unidad o establecimiento otorgará los estímulos a sus subalternos. Una copia de dichos estímulos se deberá consignar en el expediente de cuerpo del militar y, tratándose de almirantes, capitanes y oficiales; se remitirá, además, copia al Estado Mayor General de la Armada.
-CAPITULO V Medidas Preventivas y Correctivos Disciplinarios Sección Primera Generalidades
+CAPITULO V Medidas Preventivas y Correctivos Disciplinarios
+
+## Sección Primera
+Generalidades
 
 ### Artículo 41
 .- Los medios para encauzar la disciplina son las medidas preventivas y los correctivos disciplinarios; las primeras se utilizan para conservarla, mantenerla y vigorizarla; los segundos para restablecerla cuando ha sido quebrantada.
@@ -352,7 +355,9 @@ El personal facultado para graduar arrestos podrá suspenderlos, hasta en tanto 
 
 ### Artículo 66
 .- El personal que se encuentre en situación de disposición en espera de órdenes por resolución de organismo disciplinario competente, quedará sujeto a que se le nombren comisiones del servicio de acuerdo a su jerarquía, y a cumplir con la rutina de la unidad en que se encuentre encuadrado, no debiéndosele nombrar entretanto, cargo alguno, ni ser propuesto para ascenso.
-Sección Segunda Criterios para la Imposición y Graduación de Correctivos
+
+## Sección Segunda
+Criterios para la Imposición y Graduación de Correctivos
 
 ### Artículo 67
 .- Las infracciones clasificadas como faltas a la disciplina en la presente Ley, no serán sancionables cuando se demuestre que ocurrieron por causa de fuerza mayor.
@@ -368,7 +373,8 @@ Sección Segunda Criterios para la Imposición y Graduación de Correctivos
 
 ### Artículo 71
 .- Cuando en la comisión de una falta aparezca más de un infractor, se realizarán las indagaciones necesarias para establecer las responsabilidades individuales y se impondrán los correctivos de igual manera; por lo tanto, no se impondrán sanciones colectivas.
-Sección Tercera De las Circunstancias Atenuantes
+
+## Sección Tercera — De las Circunstancias Atenuantes
 
 ### Artículo 72
 .- Son circunstancias atenuantes para la graduación de arrestos las siguientes:
@@ -387,8 +393,7 @@ VI. Tomar por sí mismo la iniciativa de implementar las acciones para reparar l
 
 VII. Cualquier otra circunstancia que a juicio del superior disminuya la gravedad de la falta o haga presumir la no intencionalidad del infractor.
 
-## Sección Cuarta
-De las Circunstancias Agravantes
+## Sección Cuarta — De las Circunstancias Agravantes
 
 ### Artículo 73
 .- Son circunstancias agravantes para la graduación de arrestos:

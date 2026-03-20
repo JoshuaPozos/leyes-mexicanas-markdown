@@ -9,10 +9,12 @@ Constitución publicada en el Diario Oficial de la Federación el 5 de febrero d
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
 Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS QUE REFORMA LA DE 5 DE FEBRERO DE 1857 Título Primero
+CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS QUE REFORMA LA DE 5 DE FEBRERO DE 1857
 
-## Capítulo I
-De los Derechos Humanos y sus Garantías Denominación del Capítulo reformada DOF 10-06-2011
+## Título Primero
+
+## Capítulo I — De los Derechos Humanos y sus Garantías
+Denominación del Capítulo reformada DOF 10-06-2011
 
 ### Artículo 1o
 . En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos reconocidos en esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esta Constitución establece.
@@ -719,8 +721,7 @@ Cuando se ponga fin a la restricción o suspensión del ejercicio de los derecho
 Los decretos expedidos por el Ejecutivo durante la restricción o suspensión, serán revisados de oficio e inmediatamente por la Suprema Corte de Justicia de la Nación, la que deberá pronunciarse con la mayor prontitud sobre su constitucionalidad y validez.
 Artículo reformado DOF 21-04-1981, 02-08-2007, 10-06-2011
 
-## Capítulo II
-De los Mexicanos
+## Capítulo II — De los Mexicanos
 
 ### Artículo 30
 . La nacionalidad mexicana se adquiere por nacimiento o por naturalización.
@@ -762,16 +763,14 @@ Párrafo reformado DOF 30-09-2024 Esta misma calidad será indispensable en capi
 Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones de gobierno en que no sea indispensable la calidad de ciudadano.
 Artículo reformado DOF 15-12-1934, 10-02-1944, 20-03-1997
 
-## Capítulo III
-De los Extranjeros
+## Capítulo III — De los Extranjeros
 
 ### Artículo 33
 . Son personas extranjeras las que no posean las calidades determinadas en el artículo 30 constitucional y gozarán de los derechos humanos y garantías que reconoce esta Constitución.
 Párrafo reformado DOF 10-06-2011 El Ejecutivo de la Unión, previa audiencia, podrá expulsar del territorio nacional a personas extranjeras con fundamento en la ley, la cual regulará el procedimiento administrativo, así como el lugar y tiempo que dure la detención.
 Párrafo adicionado DOF 10-06-2011 Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.
 
-## Capítulo IV
-De los Ciudadanos Mexicanos
+## Capítulo IV — De los Ciudadanos Mexicanos
 
 ### Artículo 34
 . Son ciudadanos de la República los varones y mujeres que, teniendo la calidad de mexicanos, reúnan, además, los siguientes requisitos:
@@ -902,10 +901,10 @@ VII. Por tener sentencia firme por la comisión intencional de delitos contra la
 Por ser declarada como persona deudora alimentaria morosa.
 En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
 Fracción adicionada DOF 29-05-2023 La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
-Título Segundo
 
-## Capítulo I
-De la Soberanía Nacional y de la Forma de Gobierno
+## Título Segundo
+
+## Capítulo I — De la Soberanía Nacional y de la Forma de Gobierno
 
 ### Artículo 39
 . La soberanía nacional reside esencial y originariamente en el pueblo. Todo poder público dimana del pueblo y se instituye para beneficio de éste. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar la forma de su gobierno.
@@ -1046,8 +1045,7 @@ Párrafo con incisos adicionado DOF 10-02-2014 Dichas violaciones deberán acred
 Párrafo adicionado DOF 10-02-2014 En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 Párrafo adicionado DOF 10-02-2014 Artículo reformado DOF 06-12-1977, 06-04-1990, 03-09-1993, 19-04-1994, 22-08-1996, 13-11-2007
 
-## Capítulo II
-De las Partes Integrantes de la Federación y del Territorio Nacional
+## Capítulo II — De las Partes Integrantes de la Federación y del Territorio Nacional
 
 ### Artículo 42
 . El territorio nacional comprende:
@@ -1088,25 +1086,24 @@ Artículo original DOF 05-02-1917
 
 ### Artículo 48
 . Las islas, los cayos y arrecifes de los mares adyacentes que pertenezcan al territorio nacional, la plataforma continental, los zócalos submarinos de las islas, de los cayos y arrecifes, los mares territoriales, las aguas marítimas interiores y el espacio situado sobre el territorio nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas islas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
-Artículo reformado DOF 20-01-1960 Título Tercero
+Artículo reformado DOF 20-01-1960
 
-## Capítulo I
-De la División de Poderes
+## Título Tercero
+
+## Capítulo I — De la División de Poderes
 
 ### Artículo 49
 . El Supremo Poder de la Federación se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias al Ejecutivo de la Unión, conforme a lo dispuesto en el artículo 29. En ningún otro caso, salvo lo dispuesto en el segundo párrafo del artículo 131, se otorgarán facultades extraordinarias para legislar.
 Artículo reformado DOF 12-08-1938, 28-03-1951
 
-## Capítulo II
-Del Poder Legislativo
+## Capítulo II — Del Poder Legislativo
 
 ### Artículo 50
 . El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso general, que se dividirá en dos Cámaras, una de diputados y otra de senadores.
 Artículo original DOF 05-02-1917
 
-## Sección I
-De la Elección e Instalación del Congreso
+## Sección I — De la Elección e Instalación del Congreso
 
 ### Artículo 51
 . La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años. Por cada diputado propietario, se elegirá un suplente.
@@ -1250,8 +1247,7 @@ Párrafo adicionado DOF 06-12-1977 La ley determinará, las formas y procedimien
 Párrafo adicionado DOF 06-12-1977 Esta ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Federal para tener vigencia.
 Párrafo adicionado DOF 06-12-1977
 
-## Sección II
-De la Iniciativa y Formación de las Leyes
+## Sección II — De la Iniciativa y Formación de las Leyes
 
 ### Artículo 71
 . El derecho de iniciar leyes o decretos compete:
@@ -1288,8 +1284,7 @@ I (sic DOF 24-11-1923). El Ejecutivo de la Unión no puede hacer observaciones a
 Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente.
 Inciso reformado DOF 24-11-1923
 
-## Sección III
-De las Facultades del Congreso
+## Sección III — De las Facultades del Congreso
 
 ### Artículo 73
 . El Congreso tiene facultad:
@@ -1564,8 +1559,7 @@ III. Nombrar los empleados de su secretaría y hacer el reglamento interior de l
 IV. Expedir convocatoria, dentro del término de 30 días a partir de que ocurra la vacante, para elecciones extraordinarias que deberán celebrarse dentro de los 90 días siguientes, con el fin de cubrir las vacantes de sus miembros a que se refiere el artículo 63 de esta Constitución, en el caso de vacantes de diputados y senadores del Congreso de la Unión por el principio de mayoría relativa, salvo que la vacante ocurra dentro del año final del ejercicio del legislador correspondiente.
 Fracción reformada DOF 15-12-1986, 29-10-2003
 
-## Sección IV
-De la Comisión Permanente
+## Sección IV — De la Comisión Permanente
 
 ### Artículo 78
 . Durante los recesos del Congreso de la Unión habrá una Comisión Permanente compuesta de 37 integrantes de los que 19 serán de la Cámara de Diputados y 18 de la de Senadores, nombrados por sus respectivas Cámaras la víspera de la clausura de los períodos ordinarios de sesiones.
@@ -1595,8 +1589,8 @@ VII. Ratificar los nombramientos que la persona titular de la Presidencia de la 
 VIII. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por las personas legisladoras.
 Fracción reformada DOF 15-10-2025 Párrafo con fracciones adicionado DOF 30-07-1999 Artículo reformado DOF 29-12-1980, 10-08-1987
 
-## Sección V
-De la Fiscalización Superior de la Federación Sección adicionada DOF 30-07-1999
+## Sección V — De la Fiscalización Superior de la Federación
+Sección adicionada DOF 30-07-1999
 
 ### Artículo 79
 . La Auditoría Superior de la Federación de la Cámara de Diputados, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
@@ -1632,8 +1626,7 @@ Párrafo reformado DOF 27-05-2015 Los Poderes de la Unión, las entidades federa
 Párrafo reformado DOF 07-05-2008, 27-05-2015 El Poder Ejecutivo Federal aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo.
 Artículo reformado DOF 24-11-1923, 20-08-1928, 29-04-1933, 21-10-1966, 06-07-1971, 08-10-1974, 08-02-1985, 10-08-1987, 25-10-1993, 31-12-1994, 30-07-1999
 
-## Capítulo III
-Del Poder Ejecutivo
+## Capítulo III — Del Poder Ejecutivo
 
 ### Artículo 80
 . Se deposita el ejercicio del Supremo Poder Ejecutivo de la Unión en un solo individuo, que se denominará "Presidente de los Estados Unidos Mexicanos." Artículo original DOF 05-02-1917
@@ -1784,8 +1777,7 @@ Párrafo adicionado DOF 06-12-1977 Las Cámaras podrán requerir información o 
 Párrafo adicionado DOF 15-08-2008 El ejercicio de estas atribuciones se realizará de conformidad con la Ley del Congreso y sus reglamentos.
 Párrafo adicionado DOF 15-08-2008 Artículo reformado DOF 31-01-1974
 
-## Capítulo IV
-Del Poder Judicial
+## Capítulo IV — Del Poder Judicial
 
 ### Artículo 94
 . Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en un Tribunal Electoral, en Plenos Regionales, en Tribunales Colegiados de Circuito, en Tribunales Colegiados de Apelación y en Juzgados de Distrito.
@@ -2314,7 +2306,10 @@ Artículo reformado DOF 28-12-1982, 14-06-2002, 27-05-2015
 La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 111.
 La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 109.
 Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
-Párrafo reformado DOF 27-05-2015 Artículo reformado DOF 28-12-1982 Título Quinto De los Estados de la Federación y de la Ciudad de México Denominación del Título reformada DOF 25-10-1993, 29-01-2016
+Párrafo reformado DOF 27-05-2015 Artículo reformado DOF 28-12-1982
+
+## Título Quinto — De los Estados de la Federación y de la Ciudad de México
+Denominación del Título reformada DOF 25-10-1993, 29-01-2016
 
 ### Artículo 115
 . Los estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, democrático, laico y popular, teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, conforme a las bases siguientes:
@@ -2696,7 +2691,9 @@ b) Los compromisos que asuma cada una de las partes para la asignación de recur
 
 c) La proyección conjunta y coordinada del desarrollo de las zonas conurbadas y de prestación de servicios públicos.
 D. Las prohibiciones y limitaciones que esta Constitución establece para los Estados aplicarán a la Ciudad de México.
-Artículo reformado DOF 25-10-1993, 31-12-1994. Fe de erratas DOF 03-01-1995. Reformado DOF 22-08-1996, 13-11-2007, 07-05-2008, 24-08-2009, 27-04-2010, 09-08-2012, 27-12-2013, 07-02-2014, 10-02-2014, 27-05-2015, 29-01-2016 Título Sexto Del Trabajo y de la Previsión Social
+Artículo reformado DOF 25-10-1993, 31-12-1994. Fe de erratas DOF 03-01-1995. Reformado DOF 22-08-1996, 13-11-2007, 07-05-2008, 24-08-2009, 27-04-2010, 09-08-2012, 27-12-2013, 07-02-2014, 10-02-2014, 27-05-2015, 29-01-2016
+
+## Título Sexto — Del Trabajo y de la Previsión Social
 
 ### Artículo 123
 . Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se promoverán la creación de empleos y la organización social de trabajo, conforme a la ley.
@@ -2908,7 +2905,10 @@ Párrafo reformado DOF 30-09-2024 Fracción reformada DOF 10-11-1972, 08-03-1999
 Fracción adicionada DOF 17-11-1982. Reformada DOF 27-06-1990, 20-08-1993
 
 XIV. La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
-Apartado B con fracciones adicionado DOF 05-12-1960 Título Séptimo Prevenciones Generales
+Apartado B con fracciones adicionado DOF 05-12-1960
+
+## Título Séptimo
+Prevenciones Generales
 
 ### Artículo 124
 . Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados o a la Ciudad de México, en los ámbitos de sus respectivas competencias.
@@ -2988,19 +2988,21 @@ Párrafo adicionado DOF 07-05-2008. Reformado DOF 29-01-2016 Los entes públicos
 Párrafo adicionado DOF 20-12-2024 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 El manejo de recursos económicos federales por parte de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, se sujetará a las bases de este artículo y a las leyes reglamentarias. La evaluación sobre el ejercicio de dichos recursos se realizará por las instancias técnicas de las entidades federativas a que se refiere el párrafo segundo de este artículo.
-Párrafo reformado DOF 07-05-2008, 29-01-2016 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del
-
-## Título Cuarto de esta Constitución.
+Párrafo reformado DOF 07-05-2008, 29-01-2016 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
 Los servidores públicos de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 Párrafo adicionado DOF 13-11-2007. Reformado DOF 29-01-2016 La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 Párrafo adicionado DOF 13-11-2007 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
-Párrafo adicionado DOF 13-11-2007 Artículo reformado DOF 28-12-1982 Título Octavo De las Reformas de la Constitución
+Párrafo adicionado DOF 13-11-2007 Artículo reformado DOF 28-12-1982
+
+## Título Octavo — De las Reformas de la Constitución
 
 ### Artículo 135
 . La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Unión, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas de los Estados y de la Ciudad de México.
 Párrafo reformado (se suprime la última oración, la cual se reforma y adiciona para quedar como segundo párrafo) DOF 21-10-1966.
 Reformado DOF 29-01-2016 El Congreso de la Unión o la Comisión Permanente en su caso, harán el cómputo de los votos de las Legislaturas y la declaración de haber sido aprobadas las adiciones o reformas.
-Párrafo adicionado DOF 21-10-1966 Título Noveno De la Inviolabilidad de la Constitución
+Párrafo adicionado DOF 21-10-1966
+
+## Título Noveno — De la Inviolabilidad de la Constitución
 
 ### Artículo 136
 . Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público, se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, así los que hubieren figurado en el gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
@@ -3346,10 +3348,7 @@ DECRETO por el que se declara reformado el artículo 58 de la Constitución Pol�
 Publicado en el Diario Oficial de la Federación el 29 de julio de 1999 Artículo Unico.- Se reforma el artículo 58 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……… Artículo Transitorio Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 14 de julio de 1999.- Sen. María de los Angeles Moreno Uriegas, Presidenta.Sen. Porfirio Camarena Castro, Secretario.- Sen. Francisco Xavier Salazar Sáenz, Secretario.Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de julio de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 DECRETO por el que se declaran reformados los artículos 73, 74, 78 y 79 de la Constitución Política de los Estados Unidos Mexicanos.
-Publicado en el Diario Oficial de la Federación el 30 de julio de 1999 ARTICULO UNICO.- Se adicionan con un segundo párrafo y ocho fracciones el artículo 78, con una
-
-## Sección V el Capítulo II del Título Tercero, así como el artículo 74 fracción IV, párrafo quinto; se reforman
-los artículos 73, fracción XXIV, 74, fracción II y 79; y se deroga la fracción III del artículo 74 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……….
+Publicado en el Diario Oficial de la Federación el 30 de julio de 1999 ARTICULO UNICO.- Se adicionan con un segundo párrafo y ocho fracciones el artículo 78, con una Sección V el Capítulo II del Título Tercero, así como el artículo 74 fracción IV, párrafo quinto; se reforman los artículos 73, fracción XXIV, 74, fracción II y 79; y se deroga la fracción III del artículo 74 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ……….
 
 ## TRANSITORIOS
 
@@ -3433,10 +3432,7 @@ ARTICULO SEGUNDO. Al entrar en vigor estas reformas, el Congreso de la Unión y 
 ARTICULO TERCERO. Para establecer la demarcación territorial de los distritos electorales uninominales deberá tomarse en consideración, cuando sea factible, la ubicación de los pueblos y comunidades indígenas, a fin de propiciar su participación política.
 ARTICULO CUARTO. El titular del Poder Ejecutivo Federal dispondrá que el texto íntegro de la exposición de motivos y del cuerpo normativo del presente decreto, se traduzca a las lenguas de los pueblos indígenas del país y ordenará su difusión en sus comunidades.
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 18 de julio de 2001.- Sen. Fidel Herrera Beltrán, Vicepresidente en funciones de Presidente.- Sen. Susana Sthepenson Pérez, Secretaria.- Rúbricas." En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de agosto de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
-DECRETO por el que se aprueba el diverso por el que se modifica la denominación del
-
-## Título Cuarto y se adiciona un segundo párrafo al artículo 113 de la Constitución Política
-de los Estados Unidos Mexicanos.
+DECRETO por el que se aprueba el diverso por el que se modifica la denominación del Título Cuarto y se adiciona un segundo párrafo al artículo 113 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2002 ARTICULO UNICO.- Se modifica la denominación del Título Cuarto y se adiciona un segundo párrafo al artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue: ………
 
 ## TRANSITORIO
