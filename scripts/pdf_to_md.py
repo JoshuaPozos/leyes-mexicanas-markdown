@@ -19,6 +19,15 @@ except ImportError:
     print("Error: pdfplumber no está instalado. Ejecuta: pip install pdfplumber", file=sys.stderr)
     sys.exit(1)
 
+# OCR opcional para tablas-imagen
+_HAS_OCR = False
+try:
+    import pytesseract
+    from PIL import Image
+    _HAS_OCR = True
+except ImportError:
+    pass
+
 
 # ---------------------------------------------------------------------------
 # Encabezados de página que se repiten en cada hoja y deben eliminarse
@@ -227,18 +236,180 @@ def extract_lines(pdf_path: Path, verbose: bool = False) -> tuple[list[str], int
                     continue
                 all_lines.append(line)
 
-            # --- Issue 9: Detectar tablas-imagen (imágenes grandes sin tabla vectorial) ---
+            # --- Issue 9: Detectar tablas-imagen y extraer con OCR ---
             large_imgs = [img for img in (page.images or [])
                           if abs(img.get('x1', 0) - img.get('x0', 0)) > 200
                           and abs(img.get('y1', 0) - img.get('y0', 0)) > 100]
             if large_imgs:
                 tables = page.extract_tables()
                 if not tables:
-                    all_lines.append(
-                        f"> **[Tabla no extraíble — ver PDF original, página {page_num + 1}]**"
-                    )
+                    ocr_result = _ocr_page_table(page, large_imgs, page_num + 1, verbose)
+                    all_lines.extend(ocr_result)
 
     return all_lines, total
+
+
+def _ocr_page_table(page, large_imgs: list, page_num: int, verbose: bool) -> list[str]:
+    """Extrae tablas-imagen de una página usando OCR (Tesseract).
+    Usa image_to_data para obtener posiciones espaciales y reconstruir la tabla."""
+    if not _HAS_OCR:
+        return [f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**"]
+
+    result_lines: list[str] = []
+    for img in large_imgs:
+        x0 = img.get('x0', 0)
+        y0 = min(img.get('top', img.get('y0', 0)), img.get('y0', 0))
+        x1 = img.get('x1', 0)
+        y1 = max(img.get('bottom', img.get('y1', 0)), img.get('y1', 0))
+        try:
+            cropped = page.crop((x0, y0, x1, y1))
+            pil_img = cropped.to_image(resolution=300).original
+            # Obtener datos espaciales con --psm 6 (bloque uniforme)
+            data = pytesseract.image_to_data(
+                pil_img, lang='spa+eng', config='--psm 6',
+                output_type=pytesseract.Output.DICT,
+            )
+            md_table = _build_table_from_spatial(data, verbose)
+            if not md_table:
+                result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
+                continue
+            if verbose:
+                n = sum(1 for l in md_table if l.startswith('|'))
+                print(f"    🔍 OCR tabla página {page_num}: {n} filas", flush=True)
+            result_lines.extend(md_table)
+        except Exception as e:
+            if verbose:
+                print(f"    ⚠️ OCR falló página {page_num}: {e}", flush=True)
+            result_lines.append(f"> **[Tabla no extraíble — ver PDF original, página {page_num}]**")
+    return result_lines
+
+
+def _build_table_from_spatial(data: dict, verbose: bool = False) -> list[str]:
+    """Reconstruye una tabla markdown a partir de datos espaciales de Tesseract.
+    Agrupa palabras por fila (y-position) y columna (x-position)."""
+    from collections import defaultdict
+
+    # Extraer palabras con posición y confianza mínima
+    words = []
+    for i in range(len(data['text'])):
+        txt = (data['text'][i] or '').strip()
+        if not txt or data['conf'][i] < 1:
+            continue
+        words.append({
+            'text': txt,
+            'left': data['left'][i],
+            'top': data['top'][i],
+            'width': data['width'][i],
+            'height': data['height'][i],
+        })
+
+    if not words:
+        return []
+
+    # --- Paso 1: agrupar palabras en filas por y-center ---
+    ROW_TOLERANCE = 12  # píxeles
+    rows_map: dict[int, list[dict]] = {}
+    for w in words:
+        y_center = w['top'] + w['height'] // 2
+        assigned = False
+        for key in rows_map:
+            if abs(y_center - key) <= ROW_TOLERANCE:
+                rows_map[key].append(w)
+                assigned = True
+                break
+        if not assigned:
+            rows_map[y_center] = [w]
+
+    # Ordenar filas por posición vertical, palabras por posición horizontal
+    sorted_rows = []
+    for key in sorted(rows_map):
+        row_words = sorted(rows_map[key], key=lambda w: w['left'])
+        sorted_rows.append(row_words)
+
+    if not sorted_rows:
+        return []
+
+    # --- Paso 2: detectar columnas a partir de los datos numéricos ---
+    # Las filas de datos numéricos son las que mejor definen las columnas.
+    # Detectar filas numéricas: >50% de palabras son números/porcentajes
+    NUM_RE = re.compile(r'^[\d$%,.]+%?$')
+    numeric_rows = []
+    for row in sorted_rows:
+        num_count = sum(1 for w in row if NUM_RE.match(w['text']))
+        if num_count >= max(len(row) * 0.5, 2):
+            numeric_rows.append(row)
+
+    if not numeric_rows:
+        # Sin filas numéricas → emitir texto plano
+        lines = []
+        for row in sorted_rows:
+            lines.append(' '.join(w['text'] for w in row))
+        return ['', *lines, '']
+
+    # Encontrar el número de columnas más frecuente en filas numéricas
+    from collections import Counter
+    col_counts = Counter(len(r) for r in numeric_rows)
+    target_cols = col_counts.most_common(1)[0][0]
+
+    # Calcular posiciones x centrales para cada columna usando las filas
+    # numéricas con el target_cols correcto
+    col_positions: list[float] = []
+    matching_rows = [r for r in numeric_rows if len(r) == target_cols]
+    if matching_rows:
+        for col_idx in range(target_cols):
+            centers = [r[col_idx]['left'] + r[col_idx]['width'] / 2
+                       for r in matching_rows if col_idx < len(r)]
+            if centers:
+                col_positions.append(sum(centers) / len(centers))
+
+    # --- Paso 3: asignar cada palabra de cada fila a una columna ---
+    def assign_to_columns(row_words: list[dict]) -> list[str]:
+        """Asigna palabras a las columnas más cercanas por posición x."""
+        if not col_positions:
+            return [w['text'] for w in row_words]
+        cols: dict[int, list[str]] = defaultdict(list)
+        for w in row_words:
+            w_center = w['left'] + w['width'] / 2
+            # Encontrar columna más cercana
+            best_col = min(range(len(col_positions)),
+                           key=lambda c: abs(col_positions[c] - w_center))
+            cols[best_col].append(w['text'])
+        return [' '.join(cols.get(c, [''])) for c in range(target_cols)]
+
+    # --- Paso 4: separar encabezado textual, filas de tabla, y texto posterior ---
+    md: list[str] = ['']
+    header_emitted = False
+    table_started = False
+    post_text: list[str] = []
+
+    for row in sorted_rows:
+        num_count = sum(1 for w in row if NUM_RE.match(w['text']))
+        is_numeric = num_count >= max(len(row) * 0.5, 2)
+
+        if is_numeric and not post_text:
+            if not table_started:
+                table_started = True
+            cols = assign_to_columns(row)
+            if not header_emitted:
+                md.append('| ' + ' | '.join(cols) + ' |')
+                md.append('| ' + ' | '.join(['---'] * len(cols)) + ' |')
+                header_emitted = True
+            else:
+                md.append('| ' + ' | '.join(cols) + ' |')
+        else:
+            text = ' '.join(w['text'] for w in row)
+            if table_started:
+                post_text.append(text)
+            else:
+                # Texto previo (título de la tarifa)
+                md.append(f'**{text}**' if text == text.upper() and len(text) > 3 else text)
+
+    if post_text:
+        md.append('')
+        md.extend(post_text)
+
+    md.append('')
+    return md
 
 
 def _detect_running_header(lines: list[str]) -> str:
@@ -338,6 +509,15 @@ def build_markdown(lines: list[str], meta_header: list[str]) -> list[str]:
             joined.append("")
             joined.append(stripped)
             joined.append("")
+            _pending_section = False
+            continue
+
+        # --- Filas de tabla markdown (| ... |) → emitir sin unir ---
+        if stripped.startswith('|'):
+            if buffer:
+                joined.append(buffer.strip())
+                buffer = ""
+            joined.append(stripped)
             _pending_section = False
             continue
 

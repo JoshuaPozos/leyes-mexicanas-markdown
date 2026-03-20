@@ -511,7 +511,11 @@ I. Representar los intereses de sus afiliados ante cualquier autoridad u organis
 
 II. Apoyar el desarrollo y fortalecimiento de las organizaciones locales afiliadas;
 
-> **[Tabla no extraíble — ver PDF original, página 17]**
+zaciones locales, sancionadas por el Comité de cada uno de los Ingenios. jeto de fomentar la constitución de nuevas organizaciones nacionales de Abastec única vez el Servicio Nacional del Registro Agropecuario podrá otorgar a orga de Abastecedores de Caña registro condicionado durante los ciclos 2005-2006 y * rá ser definitivo siempre y cuando dichas Organizaciones demuestren que sus orga án constituidas en términos del artículo 34 de esta Ley, y:
+Contar inicialmente con el 5% de la membresía del Padrón Nacional de Abastet Caña, el 5% de la producción nacional de caña y tener presencia al menos Estados productores de caña de azúcar, y Contar con presencia en Estados productores de caña de azúcar y con el por membresía y de producción nacional durante los ciclos azucareros siguientes:
+Ciclo Azucarero Porcentaje de Número de Estados Abastecedores de Caña y Cañeros en los que de Producción Nacional deberá tener presencia con organización local
+| 2005-2006 5% | 4aX |
+2006-2007 — _e 7 2008-2009 7 2009-2010 10% | 8 |
 
 III. Fomentar la modernización del campo cañero nacional y la adopción de mejoras tecnológicas;
 

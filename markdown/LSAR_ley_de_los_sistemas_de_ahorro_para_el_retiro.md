@@ -2010,7 +2010,14 @@ II. El Gobierno Federal seguirá cubriendo en los ramos de cesantía en edad ava
 
 III. En los ramos de cesantía en edad avanzada y vejez, el Estado seguirá realizando una contribución igual al siete punto ciento cuarenta y tres por ciento del total de las cuotas patronales.
 
-> **[Tabla no extraíble — ver PDF original, página 94]**
+
+## Transitorios
+
+nero. El presente Decreto entrará en vigor el 1 de enero de 2021, salvo lo dispuesto rios siguientes. undo. La cuota patronal prevista en el artículo 168, fracción II, inciso a), de la Ley del será aplicable de manera gradual, a partir del 1 de enero de 2023, de conformidad con la si Salario base
+| de | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+cotización 1.0 SM* 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 3.150% 1.150% 1.01SMa 1.50 UMA*" 3.281% 3.413% 3.544% 3.676% 3.807% 3.939% 4.070% 44.202% _ 1.51a 2.00 UMA 3.575% 4.000% 4.426% 4.851% 5.276% 5.701% 6.126% 6.552% 2.01 a 2.50 UMA 3.751% 4.353% 4.954% _5.556% 6.157% 6.759% _7.380% 17962% _ 2.51 a 3.00 UMA 3.869% 4.588% 5.307% _ 6.026% 6.745% 7.464% — 8.183% ,902% _ 3.01 a 3.50 UMA 3.953% 4.756% 5.559% 6.361% 7.164% 7.967% 8.770% 9.573% 3.51 a 4.00 ____UMA______ 4.016% 4.882% 5.747% 7.479% 8.3455% _9.211% 10.077% a 4.01 UMA en adelante 4.241% 5.331% 6.422% 7.513% 8.603% 9.694% 10.784% 11.875% * Salario Minimo ** Unidad de Medida Actualización y
 
 **Tercero.** La cuota a cargo del Gobierno Federal prevista en el artículo 168, fracción IV, de la Ley del Seguro Social será aplicable a partir del 1 de enero de 2023.
 Del 1 de enero al 31 de diciembre de 2023, el Gobierno Federal cubrirá mensualmente en los ramos de cesantía en edad avanzada y vejez, una cantidad por cada día de salario cotizado, por concepto de cuota social para los trabajadores que ganen de cuatro punto cero uno hasta siete punto cero nueve veces la Unidad de Medida y Actualización, que se depositará en la cuenta individual de cada trabajador asegurado conforme a la tabla siguiente:
@@ -2018,10 +2025,29 @@ Los valores mencionados del importe de la cuota social, se actualizarán trimest
 **Cuarto.** En la fecha en que entre en vigor el presente Decreto las semanas de cotización que se requieren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como para el cálculo de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, y se incrementarán anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecidas en dichos preceptos.
 La pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la edad, semanas de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el salario señalado se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador.
 
-> **[Tabla no extraíble — ver PDF original, página 95]**
+Salario base de cotización del Cuota social Trabajador
+| 4.01 | a | 5UMA* | $2.45 |
+| --- | --- | --- | --- |
+| 5.01 |  | a6UMA | 51.80 |
+| 6.01 | a 7.09 | UMA | 51.00 |
+
+*Unidad de Medida y Actualización
+
+> Valores mencionados del importe de la cuota social, se actualizarán trimestralmen
+
+midad con el Indice Nacional de Precios al Consumidor, en los meses de marzo, junio, septi mbre de 2023. arto. En la fecha en que entre en vigor el presente Decreto las semanas de cotización ce ren para obtener los beneficios señalados en los artículos 154 y 162 de la Ley, así como r ) de la pensión garantizada prevista en el artículo 170 serán setecientas cincuenta, ientaran anualmente veinticinco semanas hasta alcanzar en el año 2031, las establecid preceptos. pensión garantizada a que se refiere el artículo 170 de la Ley, se pagará considerando la las de cotización y rango salarial previstos en la siguiente tabla. Para estos efectos, el : do se actualizará conforme al Indice Nacional de Precios al Consumidor a la fecha en o ne el trabajador.
 
 
-> **[Tabla no extraíble — ver PDF original, página 96]**
+vecretaria de Servicios Farlamentarios e — Año Semanas de Cotización
+|  |  |  |  |  |  |  |  |  |  |  | 1,000 0 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021 | 750 | 775 | 800 | 825 | 850 | 875 | 900 | 925 | 950 | 975 | más |
+|  |  |  |  | 850 | 875 | 900 | 925 | 950 |  |  | 1,025 0 |
+| 2022 | 775 | 800 | 825 |  |  |  |  |  | 76 | 1000 |  |
+
+10500 2023 800 825 850 875 900 925 950 975 1,000 1,025 min 1,0750 2024 825 850 675 900 925 950 975 1,000 1,025 1090 mis 1,1000 2025 850 875 900 925 $50 975 1,000 1,025 1,050 1,075 mis 1,1250 2026 875 900 925 950 875 1,000 1,025 1,080 1,075 1,100 mis 1,1500 2027 9000 828 950 975 1,000 4,026 1,080 14,078 1,100 1,125 1,1750 2028 925 950 976 1,000 1,025 1050 1075 1,100 4125 1,150 do 1,2000 2029 950 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 1,175 más 1,2250 2030 975 1,000 1,025 1,050 1,075 1,100 1,125 1,150 1,175 1,200 mis Salario Base E Pensión mensual en de Colización garantizada pesos 50 |26822 2716 2809 2,003 2,997 3,090 3,184 3278 3,371 3468 3,889 61 |2660 2753 2847 2941 3,034 3,128 3221 3,318 3409 3802 3,596
+| 52 | 2897 2701 2684 2076 3972 3165 3259 3353 3446 350 136
+UMA"" 63 28728 2922 3015 3,109 3,203 3,206 3390 3484 357 3,671 64 2886 2950 3,053 3147 3,240 3,334 3,427 3,821 3,815 3,708 pace 2808 2903 2,907 3,000 3,164 3,276 3,371 3465 3599 3,652 3,746 60 3,400 3,530 3,657 3,774 3,896 4017 4,139 4,281 4,303 4,504 4,526 61 3,457 3,579 3,701 3,873 3,944 4,055 4,188 a,310 4,431 4,553 4,675 62 | 3,506 3628 3,750 3871 3,999 4195 4.237 4358 4480 4607 4,724 er UMA 63 |3555 3677 3,708 3,920 4,042 4164 4285 4407 4520 4651 4777 64 | 3604 3725 3847 3,068 4,001 4212 4,934 4456 4577 4,699 4,821 SHO 3662 3774 3,896 4017 4,138 4281 4383 4504 4626 4748 4,870 60 |4,195 4345 4495 4,645 4795 4945 5094 5244 5,304 5544 5,694 61 |a255 4405 4555 4,708 4,855 5005 5184 5304 5454 564 5,754 3003.99 62 | 4315 4465 4615 4,765 4915 65084 5214 S304 5514 6884 5,814 UMA 63 | 4.375 4525 4675 4,625 4975 6.124 5,274 5424 5574 5724 5,874 64 | 4438 4585 4735 4888 5.034 6184 5334 6484 5.834 5764 5,993 650 | 4.405 4645 4.705 4945 5064 5244 5394 5544 5,694 5844 5,993 mas 60 | 4982 5160 53538 5816 6494 5872 6080 6278 6405 4,883 6,761 61 6231 5409 55887 5705 5843 6,121 6,208 6477 6655 6,832 62 5302 5480 5858 5898 6,192 6370 6548 676 ‘ences 6014 6,904 UMA 53 | 5195 5373 5551 5,729 6907 6085 6263 6441 6819 6,787 6,975 64 | 5267 5445 5623 5801 5,978 6156 63M 6.512 6690 6868 7,046 ss 5,338 5,516 56M S872 6050 6228 6,405 6583 6,781 6,938 7,117 5,760 6,975 6,181 6387 6503 6700 7,005 7,211 7417 7,623 7,829 5551 6057 6263 68489 6675 6881 7087 7,298 7,489 7,708 791 60 5,933 6,140 6,346 6552 6,758 6964 7,170 7,376 7,582 7,788 7,904 Un 6,016 6,222 6428 6634 6840 7,046 7,252 7,458 7,664 7,870 5,076 6,088 86,304 6510 6716 6,822 7128 7,334 7,540 7,746 7,955 6159 6181 6387 6593 6700 7,008 7,211 7.417 7,623 7,820 8,035 6,24 *Salario Minimo “Unidad de Medida y Actualización
 
 **Quinto.** El Instituto Mexicano del Seguro Social, dentro de los seis meses siguientes a la fecha de entrada en vigor del presente Decreto, deberá enviar a la Secretaría de Hacienda y Crédito Público para su aprobación, la metodología para determinar el monto de la reserva que dicho Instituto constituirá para atender las solicitudes de devolución a que se refiere el artículo 302 de la Ley del Seguro Social.
 Las Administradoras de Fondos para el Retiro y las instituciones que realicen funciones similares de naturaleza pública, en los términos y en el plazo que al efecto establezca la Secretaría de Hacienda y Crédito Público, deberán efectuar los traspasos de los recursos a que se refiere el citado artículo 302 al Instituto Mexicano del Seguro Social.
