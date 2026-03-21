@@ -1,7 +1,7 @@
 # 📇 Índice de Leyes Federales Vigentes
 
 > Generado automáticamente desde el catálogo de [diputados.gob.mx](https://www.diputados.gob.mx/LeyesBiblio/index.htm).  
-> Última actualización: **21/03/2026** — **249/315** leyes disponibles en Markdown (79%).
+> Última actualización: **21/03/2026** — **294/315** leyes disponibles en Markdown (93%).
 
 ---
 
@@ -256,51 +256,51 @@
 | 247 | LEY Nacional para Eliminar Trámites Burocráticos | Sin reforma | [`LNETB_ley_nacional_para_eliminar_tramites_burocraticos.md`](markdown/LNETB_ley_nacional_para_eliminar_tramites_burocraticos.md) |
 | 248 | LEY Nacional sobre el Uso de la Fuerza | DOF 24/01/2024 | [`LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.md`](markdown/LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.md) |
 | 249 | LEY Orgánica de la Administración Pública Federal | DOF 16/07/2025 | [`LOAPF_ley_organica_de_la_administracion_publica_federal.md`](markdown/LOAPF_ley_organica_de_la_administracion_publica_federal.md) |
-| 250 | LEY Orgánica de la Armada de México | Sin reforma | — |
-| 251 | LEY Orgánica de la Procuraduría de la Defensa del Contribuyente | DOF 11/05/2022 | — |
-| 252 | LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal | DOF 24/02/2012 | — |
-| 253 | LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro | Sin reforma | — |
-| 254 | LEY Orgánica de la Universidad Autónoma Metropolitana | Sin reforma | — |
-| 255 | LEY Orgánica de la Universidad Nacional Autónoma de México | Sin reforma | — |
-| 256 | LEY Orgánica de los Tribunales Agrarios | DOF 23/01/1998 | — |
-| 257 | LEY Orgánica de Nacional Financiera | DOF 10/01/2014 | — |
-| 258 | LEY Orgánica de Sociedad Hipotecaria Federal | DOF 01/04/2024 | — |
-| 259 | LEY Orgánica del Banco del Bienestar (Antes "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros") | DOF 19/07/2019 | — |
-| 260 | LEY Orgánica del Banco Nacional de Comercio Exterior | DOF 01/04/2024 | — |
-| 261 | LEY Orgánica del Banco Nacional de Obras y Servicios Públicos | DOF 01/04/2024 | — |
-| 262 | LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | DOF 10/01/2014 | — |
-| 263 | LEY Orgánica del Centro Federal de Conciliación y Registro Laboral | Sin reforma | — |
-| 264 | LEY Orgánica del Congreso General de los Estados Unidos Mexicanos | DOF 07/07/2025 | — |
-| 265 | LEY Orgánica del Ejército y Fuerza Aérea Mexicanos | DOF 16/07/2025 | — |
-| 266 | LEY Orgánica del Instituto Nacional de Antropología e Historia | DOF 17/12/2015 | — |
-| 267 | LEY Orgánica del Instituto Politécnico Nacional | Sin reforma | — |
-| 268 | LEY Orgánica del Poder Judicial de la Federación | DOF 28/11/2025 | — |
-| 269 | LEY Orgánica del Seminario de Cultura Mexicana | DOF 11/05/2022 | — |
-| 270 | LEY Orgánica del Tribunal Federal de Justicia Administrativa | DOF 16/10/2025 | — |
-| 271 | LEY para Conservar la Neutralidad del País | DOF 21/06/2018 | — |
-| 272 | LEY para Determinar el Valor de la Unidad de Medida y Actualización | Sin reforma | — |
-| 273 | LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | DOF 20/10/2023 | — |
-| 274 | LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas | Sin reforma | — |
-| 275 | LEY para el uso y protección de la denominación y del emblema de la Cruz Roja | Sin reforma | — |
-| 276 | LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional | DOF 17/04/2024 | — |
-| 277 | LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México | DOF 12/06/2009 | — |
-| 278 | LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos | DOF 03/05/2024 | — |
-| 279 | LEY para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | DOF 28/04/2022 | — |
-| 280 | LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad | DOF 22/12/2023 Sentencia SCJN | — |
-| 281 | LEY para la Transparencia y Ordenamiento de los Servicios Financieros | DOF 14/11/2025 | — |
-| 282 | LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo | DOF 14/11/2025 | — |
-| 283 | LEY para Regular las Agrupaciones Financieras | DOF 14/11/2025 | — |
-| 284 | LEY para Regular las Instituciones de Tecnología Financiera | DOF 14/11/2025 | — |
-| 285 | LEY para Regular las Sociedades de Información Crediticia | DOF 24/01/2024 | — |
-| 286 | LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución | DOF 29/12/2014 | — |
-| 287 | LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura | DOF 09/04/2012 | — |
-| 288 | LEY que crea el Instituto Nacional de Bellas Artes y Literatura | DOF 17/12/2015 | — |
-| 289 | LEY que crea la Agencia Espacial Mexicana | Sin reforma | — |
-| 290 | LEY que crea la Universidad Autónoma Chapingo | DOF 30/12/1977 | — |
-| 291 | LEY que Crea la Universidad del Ejército y Fuerza Aérea | Sin reforma | — |
-| 292 | LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | DOF 12/01/1972 | — |
-| 293 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento | DOF 06/06/2025 | — |
-| 294 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo | DOF 29/12/2014 | — |
+| 250 | LEY Orgánica de la Armada de México | Sin reforma | [`LOAM_ley_organica_de_la_armada_de_mexico.md`](markdown/LOAM_ley_organica_de_la_armada_de_mexico.md) |
+| 251 | LEY Orgánica de la Procuraduría de la Defensa del Contribuyente | DOF 11/05/2022 | [`LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente.md`](markdown/LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente.md) |
+| 252 | LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal | DOF 24/02/2012 | [`LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder.md`](markdown/LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder.md) |
+| 253 | LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro | Sin reforma | [`LOUAAAN_ley_organica_de_la_universidad_autonoma_agraria_antonio_narro.md`](markdown/LOUAAAN_ley_organica_de_la_universidad_autonoma_agraria_antonio_narro.md) |
+| 254 | LEY Orgánica de la Universidad Autónoma Metropolitana | Sin reforma | [`LOUAM_ley_organica_de_la_universidad_autonoma_metropolitana.md`](markdown/LOUAM_ley_organica_de_la_universidad_autonoma_metropolitana.md) |
+| 255 | LEY Orgánica de la Universidad Nacional Autónoma de México | Sin reforma | [`LOUNAM_ley_organica_de_la_universidad_nacional_autonoma_de_mexico.md`](markdown/LOUNAM_ley_organica_de_la_universidad_nacional_autonoma_de_mexico.md) |
+| 256 | LEY Orgánica de los Tribunales Agrarios | DOF 23/01/1998 | [`LOTA_ley_organica_de_los_tribunales_agrarios.md`](markdown/LOTA_ley_organica_de_los_tribunales_agrarios.md) |
+| 257 | LEY Orgánica de Nacional Financiera | DOF 10/01/2014 | [`LONF_ley_organica_de_nacional_financiera.md`](markdown/LONF_ley_organica_de_nacional_financiera.md) |
+| 258 | LEY Orgánica de Sociedad Hipotecaria Federal | DOF 01/04/2024 | [`LOSHF_ley_organica_de_sociedad_hipotecaria_federal.md`](markdown/LOSHF_ley_organica_de_sociedad_hipotecaria_federal.md) |
+| 259 | LEY Orgánica del Banco del Bienestar (Antes "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros") | DOF 19/07/2019 | [`LOBB_ley_organica_del_banco_del_bienestar_antes_ley_organica_del_banco_del.md`](markdown/LOBB_ley_organica_del_banco_del_bienestar_antes_ley_organica_del_banco_del.md) |
+| 260 | LEY Orgánica del Banco Nacional de Comercio Exterior | DOF 01/04/2024 | [`LOBNCE_ley_organica_del_banco_nacional_de_comercio_exterior.md`](markdown/LOBNCE_ley_organica_del_banco_nacional_de_comercio_exterior.md) |
+| 261 | LEY Orgánica del Banco Nacional de Obras y Servicios Públicos | DOF 01/04/2024 | [`LOBNOSP_ley_organica_del_banco_nacional_de_obras_y_servicios_publicos.md`](markdown/LOBNOSP_ley_organica_del_banco_nacional_de_obras_y_servicios_publicos.md) |
+| 262 | LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | DOF 10/01/2014 | [`LOBNE_ley_organica_del_banco_nacional_del_ejercito_fuerza_aerea_y_armada.md`](markdown/LOBNE_ley_organica_del_banco_nacional_del_ejercito_fuerza_aerea_y_armada.md) |
+| 263 | LEY Orgánica del Centro Federal de Conciliación y Registro Laboral | Sin reforma | [`LOCFCRL_ley_organica_del_centro_federal_de_conciliacion_y_registro_laboral.md`](markdown/LOCFCRL_ley_organica_del_centro_federal_de_conciliacion_y_registro_laboral.md) |
+| 264 | LEY Orgánica del Congreso General de los Estados Unidos Mexicanos | DOF 07/07/2025 | [`LOCGEUM_ley_organica_del_congreso_general_de_los_estados_unidos_mexicanos.md`](markdown/LOCGEUM_ley_organica_del_congreso_general_de_los_estados_unidos_mexicanos.md) |
+| 265 | LEY Orgánica del Ejército y Fuerza Aérea Mexicanos | DOF 16/07/2025 | [`LOEFAM_ley_organica_del_ejercito_y_fuerza_aerea_mexicanos.md`](markdown/LOEFAM_ley_organica_del_ejercito_y_fuerza_aerea_mexicanos.md) |
+| 266 | LEY Orgánica del Instituto Nacional de Antropología e Historia | DOF 17/12/2015 | [`LOINAH_ley_organica_del_instituto_nacional_de_antropologia_e_historia.md`](markdown/LOINAH_ley_organica_del_instituto_nacional_de_antropologia_e_historia.md) |
+| 267 | LEY Orgánica del Instituto Politécnico Nacional | Sin reforma | [`LOIPN_ley_organica_del_instituto_politecnico_nacional.md`](markdown/LOIPN_ley_organica_del_instituto_politecnico_nacional.md) |
+| 268 | LEY Orgánica del Poder Judicial de la Federación | DOF 28/11/2025 | [`LOPJF_ley_organica_del_poder_judicial_de_la_federacion.md`](markdown/LOPJF_ley_organica_del_poder_judicial_de_la_federacion.md) |
+| 269 | LEY Orgánica del Seminario de Cultura Mexicana | DOF 11/05/2022 | [`LOSCM_ley_organica_del_seminario_de_cultura_mexicana.md`](markdown/LOSCM_ley_organica_del_seminario_de_cultura_mexicana.md) |
+| 270 | LEY Orgánica del Tribunal Federal de Justicia Administrativa | DOF 16/10/2025 | [`LOTFJA_ley_organica_del_tribunal_federal_de_justicia_administrativa.md`](markdown/LOTFJA_ley_organica_del_tribunal_federal_de_justicia_administrativa.md) |
+| 271 | LEY para Conservar la Neutralidad del País | DOF 21/06/2018 | [`LCNP_ley_para_conservar_la_neutralidad_del_pais.md`](markdown/LCNP_ley_para_conservar_la_neutralidad_del_pais.md) |
+| 272 | LEY para Determinar el Valor de la Unidad de Medida y Actualización | Sin reforma | [`LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion.md`](markdown/LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion.md) |
+| 273 | LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | DOF 20/10/2023 | [`LDCMPME_ley_para_el_desarrollo_de_la_competitividad_de_la_micro_pequena_y_medi.md`](markdown/LDCMPME_ley_para_el_desarrollo_de_la_competitividad_de_la_micro_pequena_y_medi.md) |
+| 274 | LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas | Sin reforma | [`LD_ley_para_el_dialogo_la_conciliacion_y_la_paz_digna_en_chiapas.md`](markdown/LD_ley_para_el_dialogo_la_conciliacion_y_la_paz_digna_en_chiapas.md) |
+| 275 | LEY para el uso y protección de la denominación y del emblema de la Cruz Roja | Sin reforma | [`LUPDECR_ley_para_el_uso_y_proteccion_de_la_denominacion_y_del_emblema_de_la_cr.md`](markdown/LUPDECR_ley_para_el_uso_y_proteccion_de_la_denominacion_y_del_emblema_de_la_cr.md) |
+| 276 | LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional | DOF 17/04/2024 | [`LIISPCEN_ley_para_impulsar_el_incremento_sostenido_de_la_productividad_y_la_com.md`](markdown/LIISPCEN_ley_para_impulsar_el_incremento_sostenido_de_la_productividad_y_la_com.md) |
+| 277 | LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México | DOF 12/06/2009 | [`LC_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_de_la_armada_de.md`](markdown/LC_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_de_la_armada_de.md) |
+| 278 | LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos | DOF 03/05/2024 | [`LCACSEFAM_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_en_el_ejercito.md`](markdown/LCACSEFAM_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_en_el_ejercito.md) |
+| 279 | LEY para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | DOF 28/04/2022 | [`LPPDDHP_ley_para_la_proteccion_de_personas_defensoras_de_derechos_humanos_y_pe.md`](markdown/LPPDDHP_ley_para_la_proteccion_de_personas_defensoras_de_derechos_humanos_y_pe.md) |
+| 280 | LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad | DOF 22/12/2023 Sentencia SCJN | [`LTPCPIMCP_ley_para_la_transparencia_prevencion_y_combate_de_practicas_indebidas.md`](markdown/LTPCPIMCP_ley_para_la_transparencia_prevencion_y_combate_de_practicas_indebidas.md) |
+| 281 | LEY para la Transparencia y Ordenamiento de los Servicios Financieros | DOF 14/11/2025 | [`LTOSF_ley_para_la_transparencia_y_ordenamiento_de_los_servicios_financieros.md`](markdown/LTOSF_ley_para_la_transparencia_y_ordenamiento_de_los_servicios_financieros.md) |
+| 282 | LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo | DOF 14/11/2025 | [`LRASCAP_ley_para_regular_las_actividades_de_las_sociedades_cooperativas_de_aho.md`](markdown/LRASCAP_ley_para_regular_las_actividades_de_las_sociedades_cooperativas_de_aho.md) |
+| 283 | LEY para Regular las Agrupaciones Financieras | DOF 14/11/2025 | [`LRAF_ley_para_regular_las_agrupaciones_financieras.md`](markdown/LRAF_ley_para_regular_las_agrupaciones_financieras.md) |
+| 284 | LEY para Regular las Instituciones de Tecnología Financiera | DOF 14/11/2025 | [`LRITF_ley_para_regular_las_instituciones_de_tecnologia_financiera.md`](markdown/LRITF_ley_para_regular_las_instituciones_de_tecnologia_financiera.md) |
+| 285 | LEY para Regular las Sociedades de Información Crediticia | DOF 24/01/2024 | [`LRSIC_ley_para_regular_las_sociedades_de_informacion_crediticia.md`](markdown/LRSIC_ley_para_regular_las_sociedades_de_informacion_crediticia.md) |
+| 286 | LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución | DOF 29/12/2014 | [`LAAMCCBD_ley_que_aprueba_la_adhesion_de_mexico_al_convenio_constitutivo_del_ban.md`](markdown/LAAMCCBD_ley_que_aprueba_la_adhesion_de_mexico_al_convenio_constitutivo_del_ban.md) |
+| 287 | LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura | DOF 09/04/2012 | [`LCFGFA_ley_que_crea_el_fondo_de_garantia_y_fomento_para_la_agricultura_ganade.md`](markdown/LCFGFA_ley_que_crea_el_fondo_de_garantia_y_fomento_para_la_agricultura_ganade.md) |
+| 288 | LEY que crea el Instituto Nacional de Bellas Artes y Literatura | DOF 17/12/2015 | [`LCINBAL_ley_que_crea_el_instituto_nacional_de_bellas_artes_y_literatura.md`](markdown/LCINBAL_ley_que_crea_el_instituto_nacional_de_bellas_artes_y_literatura.md) |
+| 289 | LEY que crea la Agencia Espacial Mexicana | Sin reforma | [`LAEM_ley_que_crea_la_agencia_espacial_mexicana.md`](markdown/LAEM_ley_que_crea_la_agencia_espacial_mexicana.md) |
+| 290 | LEY que crea la Universidad Autónoma Chapingo | DOF 30/12/1977 | [`LCUAC_ley_que_crea_la_universidad_autonoma_chapingo.md`](markdown/LCUAC_ley_que_crea_la_universidad_autonoma_chapingo.md) |
+| 291 | LEY que Crea la Universidad del Ejército y Fuerza Aérea | Sin reforma | [`LCUEFA_ley_que_crea_la_universidad_del_ejercito_y_fuerza_aerea.md`](markdown/LCUEFA_ley_que_crea_la_universidad_del_ejercito_y_fuerza_aerea.md) |
+| 292 | LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | DOF 12/01/1972 | [`LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio.md`](markdown/LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio.md) |
+| 293 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento | DOF 06/06/2025 | [`LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md`](markdown/LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md) |
+| 294 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo | DOF 29/12/2014 | [`LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md`](markdown/LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md) |
 | 295 | LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República | Sin reforma | — |
 | 296 | LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | — |
 | 297 | LEY Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | — |
@@ -589,51 +589,51 @@ python scripts/gen_indice.py
 | 247 | LEY Nacional para Eliminar Trámites Burocráticos | Sin reforma | [`LNETB_ley_nacional_para_eliminar_tramites_burocraticos.md`](markdown/LNETB_ley_nacional_para_eliminar_tramites_burocraticos.md) |
 | 248 | LEY Nacional sobre el Uso de la Fuerza | DOF 24/01/2024 | [`LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.md`](markdown/LNUF_ley_nacional_sobre_el_uso_de_la_fuerza.md) |
 | 249 | LEY Orgánica de la Administración Pública Federal | DOF 16/07/2025 | [`LOAPF_ley_organica_de_la_administracion_publica_federal.md`](markdown/LOAPF_ley_organica_de_la_administracion_publica_federal.md) |
-| 250 | LEY Orgánica de la Armada de México | Sin reforma | — |
-| 251 | LEY Orgánica de la Procuraduría de la Defensa del Contribuyente | DOF 11/05/2022 | — |
-| 252 | LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal | DOF 24/02/2012 | — |
-| 253 | LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro | Sin reforma | — |
-| 254 | LEY Orgánica de la Universidad Autónoma Metropolitana | Sin reforma | — |
-| 255 | LEY Orgánica de la Universidad Nacional Autónoma de México | Sin reforma | — |
-| 256 | LEY Orgánica de los Tribunales Agrarios | DOF 23/01/1998 | — |
-| 257 | LEY Orgánica de Nacional Financiera | DOF 10/01/2014 | — |
-| 258 | LEY Orgánica de Sociedad Hipotecaria Federal | DOF 01/04/2024 | — |
-| 259 | LEY Orgánica del Banco del Bienestar (Antes "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros") | DOF 19/07/2019 | — |
-| 260 | LEY Orgánica del Banco Nacional de Comercio Exterior | DOF 01/04/2024 | — |
-| 261 | LEY Orgánica del Banco Nacional de Obras y Servicios Públicos | DOF 01/04/2024 | — |
-| 262 | LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | DOF 10/01/2014 | — |
-| 263 | LEY Orgánica del Centro Federal de Conciliación y Registro Laboral | Sin reforma | — |
-| 264 | LEY Orgánica del Congreso General de los Estados Unidos Mexicanos | DOF 07/07/2025 | — |
-| 265 | LEY Orgánica del Ejército y Fuerza Aérea Mexicanos | DOF 16/07/2025 | — |
-| 266 | LEY Orgánica del Instituto Nacional de Antropología e Historia | DOF 17/12/2015 | — |
-| 267 | LEY Orgánica del Instituto Politécnico Nacional | Sin reforma | — |
-| 268 | LEY Orgánica del Poder Judicial de la Federación | DOF 28/11/2025 | — |
-| 269 | LEY Orgánica del Seminario de Cultura Mexicana | DOF 11/05/2022 | — |
-| 270 | LEY Orgánica del Tribunal Federal de Justicia Administrativa | DOF 16/10/2025 | — |
-| 271 | LEY para Conservar la Neutralidad del País | DOF 21/06/2018 | — |
-| 272 | LEY para Determinar el Valor de la Unidad de Medida y Actualización | Sin reforma | — |
-| 273 | LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | DOF 20/10/2023 | — |
-| 274 | LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas | Sin reforma | — |
-| 275 | LEY para el uso y protección de la denominación y del emblema de la Cruz Roja | Sin reforma | — |
-| 276 | LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional | DOF 17/04/2024 | — |
-| 277 | LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México | DOF 12/06/2009 | — |
-| 278 | LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos | DOF 03/05/2024 | — |
-| 279 | LEY para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | DOF 28/04/2022 | — |
-| 280 | LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad | DOF 22/12/2023 Sentencia SCJN | — |
-| 281 | LEY para la Transparencia y Ordenamiento de los Servicios Financieros | DOF 14/11/2025 | — |
-| 282 | LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo | DOF 14/11/2025 | — |
-| 283 | LEY para Regular las Agrupaciones Financieras | DOF 14/11/2025 | — |
-| 284 | LEY para Regular las Instituciones de Tecnología Financiera | DOF 14/11/2025 | — |
-| 285 | LEY para Regular las Sociedades de Información Crediticia | DOF 24/01/2024 | — |
-| 286 | LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución | DOF 29/12/2014 | — |
-| 287 | LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura | DOF 09/04/2012 | — |
-| 288 | LEY que crea el Instituto Nacional de Bellas Artes y Literatura | DOF 17/12/2015 | — |
-| 289 | LEY que crea la Agencia Espacial Mexicana | Sin reforma | — |
-| 290 | LEY que crea la Universidad Autónoma Chapingo | DOF 30/12/1977 | — |
-| 291 | LEY que Crea la Universidad del Ejército y Fuerza Aérea | Sin reforma | — |
-| 292 | LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | DOF 12/01/1972 | — |
-| 293 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento | DOF 06/06/2025 | — |
-| 294 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo | DOF 29/12/2014 | — |
+| 250 | LEY Orgánica de la Armada de México | Sin reforma | [`LOAM_ley_organica_de_la_armada_de_mexico.md`](markdown/LOAM_ley_organica_de_la_armada_de_mexico.md) |
+| 251 | LEY Orgánica de la Procuraduría de la Defensa del Contribuyente | DOF 11/05/2022 | [`LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente.md`](markdown/LOPDC_ley_organica_de_la_procuraduria_de_la_defensa_del_contribuyente.md) |
+| 252 | LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal | DOF 24/02/2012 | [`LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder.md`](markdown/LOPGJDF_ley_organica_de_la_procuraduria_general_de_justicia_del_distrito_feder.md) |
+| 253 | LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro | Sin reforma | [`LOUAAAN_ley_organica_de_la_universidad_autonoma_agraria_antonio_narro.md`](markdown/LOUAAAN_ley_organica_de_la_universidad_autonoma_agraria_antonio_narro.md) |
+| 254 | LEY Orgánica de la Universidad Autónoma Metropolitana | Sin reforma | [`LOUAM_ley_organica_de_la_universidad_autonoma_metropolitana.md`](markdown/LOUAM_ley_organica_de_la_universidad_autonoma_metropolitana.md) |
+| 255 | LEY Orgánica de la Universidad Nacional Autónoma de México | Sin reforma | [`LOUNAM_ley_organica_de_la_universidad_nacional_autonoma_de_mexico.md`](markdown/LOUNAM_ley_organica_de_la_universidad_nacional_autonoma_de_mexico.md) |
+| 256 | LEY Orgánica de los Tribunales Agrarios | DOF 23/01/1998 | [`LOTA_ley_organica_de_los_tribunales_agrarios.md`](markdown/LOTA_ley_organica_de_los_tribunales_agrarios.md) |
+| 257 | LEY Orgánica de Nacional Financiera | DOF 10/01/2014 | [`LONF_ley_organica_de_nacional_financiera.md`](markdown/LONF_ley_organica_de_nacional_financiera.md) |
+| 258 | LEY Orgánica de Sociedad Hipotecaria Federal | DOF 01/04/2024 | [`LOSHF_ley_organica_de_sociedad_hipotecaria_federal.md`](markdown/LOSHF_ley_organica_de_sociedad_hipotecaria_federal.md) |
+| 259 | LEY Orgánica del Banco del Bienestar (Antes "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros") | DOF 19/07/2019 | [`LOBB_ley_organica_del_banco_del_bienestar_antes_ley_organica_del_banco_del.md`](markdown/LOBB_ley_organica_del_banco_del_bienestar_antes_ley_organica_del_banco_del.md) |
+| 260 | LEY Orgánica del Banco Nacional de Comercio Exterior | DOF 01/04/2024 | [`LOBNCE_ley_organica_del_banco_nacional_de_comercio_exterior.md`](markdown/LOBNCE_ley_organica_del_banco_nacional_de_comercio_exterior.md) |
+| 261 | LEY Orgánica del Banco Nacional de Obras y Servicios Públicos | DOF 01/04/2024 | [`LOBNOSP_ley_organica_del_banco_nacional_de_obras_y_servicios_publicos.md`](markdown/LOBNOSP_ley_organica_del_banco_nacional_de_obras_y_servicios_publicos.md) |
+| 262 | LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada | DOF 10/01/2014 | [`LOBNE_ley_organica_del_banco_nacional_del_ejercito_fuerza_aerea_y_armada.md`](markdown/LOBNE_ley_organica_del_banco_nacional_del_ejercito_fuerza_aerea_y_armada.md) |
+| 263 | LEY Orgánica del Centro Federal de Conciliación y Registro Laboral | Sin reforma | [`LOCFCRL_ley_organica_del_centro_federal_de_conciliacion_y_registro_laboral.md`](markdown/LOCFCRL_ley_organica_del_centro_federal_de_conciliacion_y_registro_laboral.md) |
+| 264 | LEY Orgánica del Congreso General de los Estados Unidos Mexicanos | DOF 07/07/2025 | [`LOCGEUM_ley_organica_del_congreso_general_de_los_estados_unidos_mexicanos.md`](markdown/LOCGEUM_ley_organica_del_congreso_general_de_los_estados_unidos_mexicanos.md) |
+| 265 | LEY Orgánica del Ejército y Fuerza Aérea Mexicanos | DOF 16/07/2025 | [`LOEFAM_ley_organica_del_ejercito_y_fuerza_aerea_mexicanos.md`](markdown/LOEFAM_ley_organica_del_ejercito_y_fuerza_aerea_mexicanos.md) |
+| 266 | LEY Orgánica del Instituto Nacional de Antropología e Historia | DOF 17/12/2015 | [`LOINAH_ley_organica_del_instituto_nacional_de_antropologia_e_historia.md`](markdown/LOINAH_ley_organica_del_instituto_nacional_de_antropologia_e_historia.md) |
+| 267 | LEY Orgánica del Instituto Politécnico Nacional | Sin reforma | [`LOIPN_ley_organica_del_instituto_politecnico_nacional.md`](markdown/LOIPN_ley_organica_del_instituto_politecnico_nacional.md) |
+| 268 | LEY Orgánica del Poder Judicial de la Federación | DOF 28/11/2025 | [`LOPJF_ley_organica_del_poder_judicial_de_la_federacion.md`](markdown/LOPJF_ley_organica_del_poder_judicial_de_la_federacion.md) |
+| 269 | LEY Orgánica del Seminario de Cultura Mexicana | DOF 11/05/2022 | [`LOSCM_ley_organica_del_seminario_de_cultura_mexicana.md`](markdown/LOSCM_ley_organica_del_seminario_de_cultura_mexicana.md) |
+| 270 | LEY Orgánica del Tribunal Federal de Justicia Administrativa | DOF 16/10/2025 | [`LOTFJA_ley_organica_del_tribunal_federal_de_justicia_administrativa.md`](markdown/LOTFJA_ley_organica_del_tribunal_federal_de_justicia_administrativa.md) |
+| 271 | LEY para Conservar la Neutralidad del País | DOF 21/06/2018 | [`LCNP_ley_para_conservar_la_neutralidad_del_pais.md`](markdown/LCNP_ley_para_conservar_la_neutralidad_del_pais.md) |
+| 272 | LEY para Determinar el Valor de la Unidad de Medida y Actualización | Sin reforma | [`LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion.md`](markdown/LDVUMA_ley_para_determinar_el_valor_de_la_unidad_de_medida_y_actualizacion.md) |
+| 273 | LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa | DOF 20/10/2023 | [`LDCMPME_ley_para_el_desarrollo_de_la_competitividad_de_la_micro_pequena_y_medi.md`](markdown/LDCMPME_ley_para_el_desarrollo_de_la_competitividad_de_la_micro_pequena_y_medi.md) |
+| 274 | LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas | Sin reforma | [`LD_ley_para_el_dialogo_la_conciliacion_y_la_paz_digna_en_chiapas.md`](markdown/LD_ley_para_el_dialogo_la_conciliacion_y_la_paz_digna_en_chiapas.md) |
+| 275 | LEY para el uso y protección de la denominación y del emblema de la Cruz Roja | Sin reforma | [`LUPDECR_ley_para_el_uso_y_proteccion_de_la_denominacion_y_del_emblema_de_la_cr.md`](markdown/LUPDECR_ley_para_el_uso_y_proteccion_de_la_denominacion_y_del_emblema_de_la_cr.md) |
+| 276 | LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional | DOF 17/04/2024 | [`LIISPCEN_ley_para_impulsar_el_incremento_sostenido_de_la_productividad_y_la_com.md`](markdown/LIISPCEN_ley_para_impulsar_el_incremento_sostenido_de_la_productividad_y_la_com.md) |
+| 277 | LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México | DOF 12/06/2009 | [`LC_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_de_la_armada_de.md`](markdown/LC_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_de_la_armada_de.md) |
+| 278 | LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos | DOF 03/05/2024 | [`LCACSEFAM_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_en_el_ejercito.md`](markdown/LCACSEFAM_ley_para_la_comprobacion_ajuste_y_computo_de_servicios_en_el_ejercito.md) |
+| 279 | LEY para la Protección de Personas Defensoras de Derechos Humanos y Periodistas | DOF 28/04/2022 | [`LPPDDHP_ley_para_la_proteccion_de_personas_defensoras_de_derechos_humanos_y_pe.md`](markdown/LPPDDHP_ley_para_la_proteccion_de_personas_defensoras_de_derechos_humanos_y_pe.md) |
+| 280 | LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad | DOF 22/12/2023 Sentencia SCJN | [`LTPCPIMCP_ley_para_la_transparencia_prevencion_y_combate_de_practicas_indebidas.md`](markdown/LTPCPIMCP_ley_para_la_transparencia_prevencion_y_combate_de_practicas_indebidas.md) |
+| 281 | LEY para la Transparencia y Ordenamiento de los Servicios Financieros | DOF 14/11/2025 | [`LTOSF_ley_para_la_transparencia_y_ordenamiento_de_los_servicios_financieros.md`](markdown/LTOSF_ley_para_la_transparencia_y_ordenamiento_de_los_servicios_financieros.md) |
+| 282 | LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo | DOF 14/11/2025 | [`LRASCAP_ley_para_regular_las_actividades_de_las_sociedades_cooperativas_de_aho.md`](markdown/LRASCAP_ley_para_regular_las_actividades_de_las_sociedades_cooperativas_de_aho.md) |
+| 283 | LEY para Regular las Agrupaciones Financieras | DOF 14/11/2025 | [`LRAF_ley_para_regular_las_agrupaciones_financieras.md`](markdown/LRAF_ley_para_regular_las_agrupaciones_financieras.md) |
+| 284 | LEY para Regular las Instituciones de Tecnología Financiera | DOF 14/11/2025 | [`LRITF_ley_para_regular_las_instituciones_de_tecnologia_financiera.md`](markdown/LRITF_ley_para_regular_las_instituciones_de_tecnologia_financiera.md) |
+| 285 | LEY para Regular las Sociedades de Información Crediticia | DOF 24/01/2024 | [`LRSIC_ley_para_regular_las_sociedades_de_informacion_crediticia.md`](markdown/LRSIC_ley_para_regular_las_sociedades_de_informacion_crediticia.md) |
+| 286 | LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución | DOF 29/12/2014 | [`LAAMCCBD_ley_que_aprueba_la_adhesion_de_mexico_al_convenio_constitutivo_del_ban.md`](markdown/LAAMCCBD_ley_que_aprueba_la_adhesion_de_mexico_al_convenio_constitutivo_del_ban.md) |
+| 287 | LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura | DOF 09/04/2012 | [`LCFGFA_ley_que_crea_el_fondo_de_garantia_y_fomento_para_la_agricultura_ganade.md`](markdown/LCFGFA_ley_que_crea_el_fondo_de_garantia_y_fomento_para_la_agricultura_ganade.md) |
+| 288 | LEY que crea el Instituto Nacional de Bellas Artes y Literatura | DOF 17/12/2015 | [`LCINBAL_ley_que_crea_el_instituto_nacional_de_bellas_artes_y_literatura.md`](markdown/LCINBAL_ley_que_crea_el_instituto_nacional_de_bellas_artes_y_literatura.md) |
+| 289 | LEY que crea la Agencia Espacial Mexicana | Sin reforma | [`LAEM_ley_que_crea_la_agencia_espacial_mexicana.md`](markdown/LAEM_ley_que_crea_la_agencia_espacial_mexicana.md) |
+| 290 | LEY que crea la Universidad Autónoma Chapingo | DOF 30/12/1977 | [`LCUAC_ley_que_crea_la_universidad_autonoma_chapingo.md`](markdown/LCUAC_ley_que_crea_la_universidad_autonoma_chapingo.md) |
+| 291 | LEY que Crea la Universidad del Ejército y Fuerza Aérea | Sin reforma | [`LCUEFA_ley_que_crea_la_universidad_del_ejercito_y_fuerza_aerea.md`](markdown/LCUEFA_ley_que_crea_la_universidad_del_ejercito_y_fuerza_aerea.md) |
+| 292 | LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear | DOF 12/01/1972 | [`LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio.md`](markdown/LDRMNYU_ley_que_declara_reservas_mineras_nacionales_los_yacimientos_de_uranio.md) |
+| 293 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento | DOF 06/06/2025 | [`LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md`](markdown/LCCAIF_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md) |
+| 294 | LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo | DOF 29/12/2014 | [`LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md`](markdown/LEBEM_ley_que_establece_bases_para_la_ejecucion_en_mexico_por_el_poder_ejecu.md) |
 | 295 | LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República | Sin reforma | — |
 | 296 | LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | — |
 | 297 | LEY Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos | DOF 14/11/2025 | — |
